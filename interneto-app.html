@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta property="og:title" content="Interneto - Pass from the Internet to the Innernet.">
+    <meta name="description" content="Interneto is a project to classify internet things." />
+    <meta property="og:image" content="https://www.interneto.dev/interneto-logo.svg">
+    <meta property="og:url" content="https://www.interneto.dev/">
+    <meta property="og:site_name" content="Interneto">
+
+    <title>Interneto manager - Pass from the Internet to the Innernet</title>
+
+    <link rel="apple-touch-icon" sizes="180x180" href="./resources/favicon_io/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="./resources/favicon_io/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="./resources/favicon_io/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="canonical" href="https://www.interneto.dev/">
+
+    <!-- <link rel="stylesheet" href="/css/style.css"> -->
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"
+        integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous" />
+    <!-- Bootstrap Font Icon CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css" />
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"
+        defer>
+        </script>
+</head>
+
+<body>
+    <header class="px-4 py-3 mx-5 d-flex flex-wrap justify-content-center border-bottom">
+        <a href="index.html" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-dark text-decoration-none">
+            <img src="resources/assets/interneto-logo.svg" alt="interneto logo" height="40px" width="40px" />
+            <h1 class="fs-4">Interneto</h1>
+        </a>
+
+        <div class="col-md-6 d-flex justify-content-center flex-nowrap">
+            <ul class="nav">
+                <li><a href="index.html" class="nav-link px-2">Home</a></li>
+                <li><a href="interneto-app.html" class="nav-link px-2">App</a></li>
+                <li><a href="interneto-links.html" class="nav-link px-2">Links</a></li>
+                <li><a href="blog.html" class="nav-link px-2">Blog</a></li>
+                <li><a href="about.html" class="nav-link px-2">About</a></li>
+            </ul>
+        </div>
+
+
+    </header>
+
+    <main class="mx-5 my-2">
+        <div class="container px-4 py-5" id="featured-3">
+
+            <h2 class="pb-2 border-bottom">Interneto manager</h2>
+            <div class="row g-4 py-5 row-cols-1 row-cols-lg-3">
+                <div class="feature col">
+                    <div class="feature-icon d-inline-flex align-items-center justify-content-center fs-2 mb-3">
+                        <img src="resources/assets/logos/docker-icon.svg" alt="Docker icon" height="33" width="33">
+                    </div>
+                    <h3 class="fs-2">Self-hosted app</h3>
+                    <p>Self-host your application with Docker in a server or in local.</p>
+                    <a href="#hosting" class="icon-link d-inline-flex align-items-center">
+                        Call to action
+                        <svg class="bi" width="1em" height="1em">
+                            <use xlink:href="#host-your-data"></use>
+                        </svg>
+                    </a>
+                </div>
+                <div class="feature col">
+                    <div class="feature-icon d-inline-flex align-items-center justify-content-center fs-2 mb-3">
+                        <img src="resources/assets/logos/laravel.svg" alt="Docker icon" height="33" width="33">
+                    </div>
+                    <h3 class="fs-2">Web technologies</h3>
+                    <p>Created with web technologies using Laravel (full-stack framework of PHP) + Bootstrap (framework
+                        of CSS, HTML components and icons).</p>
+                    <a href="#web-tech" class="icon-link d-inline-flex align-items-center">
+                        Call to action
+                        <svg class="bi" width="1em" height="1em">
+                            <use xlink:href="#chevron-right"></use>
+                        </svg>
+                    </a>
+                </div>
+                <div class="feature col">
+                    <div class="feature-icon d-inline-flex align-items-center justify-content-center fs-2 mb-3">
+                        <img src="resources/assets/logos/open-source.svg" alt="Docker icon" height="33" width="33">
+                    </div>
+                    <h3 class="fs-2">FOSS (Free and Open Source)</h3>
+                    <p>The code is hosted on GitHub and you can contribute to the project making a pull request
+                        reporting bugs. Also you can fork it to create your own version.</p>
+                    <a href="#foss" class="icon-link d-inline-flex align-items-center">
+                        Call to action
+                        <svg class="bi" width="1em" height="1em">
+                            <use xlink:href="#chevron-right"></use>
+                        </svg>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container px-4 py-5">
+            <h3>Explanation</h3>
+            <p>
+                Interneto manager is a self-hosted bookmark manager to store and save URI links from the internet.
+                <a href="https://en.wikipedia.org/wiki/Uniform_Resource_Identifier#Syntax">URI links</a> have this
+                format,
+                scheme://sub.domain.ltd/index.html.
+            <p>
+                The purpose is to permit the user to make a database of related links with valuable information to
+                generate a Personal Knowledge System.
+            </p>
+            <p>
+                Classify links is the best way to organize the information and make your own <span>innernet</span>. You
+                can make your own databse of links with folders and tags.
+            </p>
+
+            <blockquote class="bg-gray primary">
+                <p>
+                    <em>"Pass from the Internet to the InnerNet"</em>
+                </p>
+            </blockquote>
+
+            <span>Information</span> is just the <span>in</span>side <span>formation</span> data to create
+            knowledge you need to process this information.
+            </p>
+
+            <h3 id="hosting">Host your data</h3>
+            <p>
+                Interneto manager runs on Docker containers, you can use it in your local machine or in a remote machine
+                (cloud).
+            </p>
+
+            <h3 id="web-tech">Web technologies</h3>
+            <p>
+                Interneto-manager is a web-app created with <a href="https://laravel.com/">Laravel</a> a full-stack PHP
+                framework,
+                for the styles use <a href="https://getbootstrap.com/">Bootstrap</a> as a framework of CSS and
+                Javascript and some Bootstrap icons. And the backend runs on Docker containers with PostgreSQL as the
+                database and adminer
+                as a database management tool.
+            </p>
+
+            <h3 id="foss">Free and Open Source</h3>
+            <p>
+                It's a free and open source project. If you want to collaborate you can do it in <a
+                    href="https://github.com/interneto/interneto-manager">Interneto manager · GitHub</a>. You can fork
+                it always referenced the author (MIT license).
+            </p>
+
+        </div>
+
+
+        <div class="container px-4 py-5">
+
+            <!-- <a href="https://github.com/interneto/interneto-manager/archive/refs/heads/main.zip" class="btn btn-primary btn-lg">Download app</a> -->
+
+            <h3>Steps to build the app</h3>
+
+            <ol>
+                <li>Clone the repository with (HTTPS or SSH):
+                    <code>git clone https://github.com/interneto/interneto-manager</code>
+                </li>
+                <li>Configure environment profile, copy the example and modify it to use PostgreSQL:
+                    <code>cp .env.example .env</code>
+                </li>
+
+                <pre>
+                    <code class="language-html" data-lang="config">
+                        DB_CONNECTION=pgsql
+                        DB_HOST=127.0.0.1
+                        DB_PORT=5432
+                        DB_DATABASE=postgres
+                        DB_USERNAME=postgres
+                        DB_PASSWORD=postgres
+                    </code>
+                </pre>
+
+
+                <li>Go to php.ini (/etc/php/php.ini in UNIX-based or C:\xampp\php\php.ini in Windows)
+                    and uncomment these lines to use PostgreSQL:
+                    <code>
+                        extension=pdo_pgsql
+                        extension=pgsql
+                    </code>
+                </li>
+
+                <li>No we use <em class="font-italic">docker-compose.yml</em> file with the following configuration.
+                    To create two containers with: PostgreSQL + Alpine (a very lightway Linux distro) and Adminer.
+                </li>
+
+                <pre>
+                    <code class="language-html" data-lang="yml">
+                        version: '3.8'
+                        services:
+                        db:
+                            image: postgres:14.1-alpine
+                            restart: always
+                            environment:
+                                - POSTGRES_DB=postgres
+                                - POSTGRES_USER=postgres
+                                - POSTGRES_PASSWORD=postgres
+                            ports:
+                                - 5432:5432
+                            volumes:
+                                - db:/var/lib/postgresql/data
+                        admin:
+                            image: adminer
+                            restart: always
+                            depends_on:
+                                - db
+                            ports:
+                                - 8080:8080
+                        volumes:
+                            db:
+                                driver: local
+                    </code>
+                </pre>
+
+                <li>Initialize the containers with docker compose: <code>docker compose up -d</code></li>
+                <li>Connect to the database via SQLtools (with VS Code extension) and fill the fields (username,
+                    password, ports, etc)</li>
+
+                <li>Install dependencies</li>
+                <ul>
+                    <li>Install PHP dependencies: <code>composer install</code></li>
+                    <li>Install npm dependencies (if are not installed): <code>npm install</code>
+                </ul>
+
+                <li>Develop in Laravel</li>
+                <ul>
+                    <li>Generate key with <code>php artisan key:generate</code> or when serving in the browser</li>
+                    <li>Make a fresh migration: <code>php artisan migrate:fresh --seed</code></li>
+                </ul>
+
+                <li>Start Laravel local development</li>
+                <ul>
+                    <li>Comopilae and bundle the frontend: <code>npm run dev</code></li>
+                    <li>Serve the web with artisan: <code>php artisan serve</code></li>
+                </ul>
+            </ol>
+        </div>
+    </main>
+
+    <footer class="py-3 my-4">
+        <div class="d-flex flex-column flex-sm-row justify-content-center ">
+            <p class="text-center text-muted">© 2022 Interneto. Self-hosted bookmark manager.</p>
+            <ul class="list-unstyled d-flex">
+                <li class="ms-3">
+                    <a class="link-dark" href="https://github.com/interneto">
+                        <i class="bi bi-github"></i>
+                    </a>
+                </li>
+                <li class="ms-3">
+                    <a class="link-dark" href="https://twitter.com/internetoOK">
+                        <i class="bi bi-twitter"></i>
+                    </a>
+                </li>
+                <li class="ms-3">
+                    <a class="link-dark" href="https://raindrop.io/interneto">
+                        <i class="bi bi-cloud"></i>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </footer>
+</body>
+
+</html>
