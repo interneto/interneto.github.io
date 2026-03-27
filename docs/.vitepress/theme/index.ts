@@ -15,7 +15,6 @@
  */
 
 import type { Theme } from 'vitepress'
-import Components from '@fmhy/components'
 import DefaultTheme from 'vitepress/theme'
 import { loadProgress } from './composables/nprogress'
 import { useThemeHandler } from './themes/themeHandler'
@@ -31,9 +30,12 @@ import Tooltip from './components/Tooltip.vue'
 export default {
   extends: DefaultTheme,
   Layout,
-  enhanceApp({ router, app }) {
+  async enhanceApp({ router, app }) {
     app.use(FloatingVue)
-    app.use(Components)
+    if (!import.meta.env.SSR) {
+      const components = await import('@fmhy/components')
+      app.use(components.default)
+    }
     app.component('Post', Post)
     app.component('Feedback', Feedback)
     app.component('Tooltip', Tooltip)

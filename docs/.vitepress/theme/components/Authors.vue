@@ -13,24 +13,8 @@ interface Author {
 const data = [
   {
     name: 'nbats',
-    github: 'https://github.com/nbats'
+    github: 'https://github.com/david7ce'
   },
-  {
-    name: 'Kai',
-    github: 'https://github.com/Kai-FMHY'
-  },
-  {
-    name: 'taskylizard',
-    github: 'https://github.com/taskylizard'
-  },
-  {
-    name: 'zinklog',
-    github: 'https://github.com/zinklog2'
-  },
-  {
-    name: 'Q',
-    github: 'https://github.com/qiracy'
-  }
 ] satisfies Author[]
 
 const authors = computed(() =>
