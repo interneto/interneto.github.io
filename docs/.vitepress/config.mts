@@ -34,7 +34,7 @@ export default defineConfig({
   cleanUrls: true,
   appearance: true,
   base: baseUrl,
-  srcExclude: ['README.md', 'single-page'],
+  srcExclude: ['README.md', 'single-page', 'z/**', 'apps-import/**'],
   ignoreDeadLinks: true,
   sitemap: {
     hostname: meta.hostname

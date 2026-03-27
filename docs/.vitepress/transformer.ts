@@ -19,6 +19,29 @@ import { basename } from 'pathe'
 import { excluded, getHeader } from './transformer/constants'
 import { replaceUnderscore, transformer } from './transformer/core'
 
+const generatedCategoryPages = new Set([
+  'ai-tools-and-services.md',
+  'by-company.md',
+  'dev.md',
+  'education.md',
+  'file-management.md',
+  'financial-assets.md',
+  'gaming.md',
+  'health-and-fitness.md',
+  'home-and-family.md',
+  'intercomm.md',
+  'multimedia.md',
+  'news-media.md',
+  'office-and-productivity.md',
+  'online-services.md',
+  'os.md',
+  'security-and-privacy.md',
+  'sys-admin.md',
+  'time.md',
+  'travel-and-location.md',
+  'utility.md'
+])
+
 export function transformsPlugin(): Plugin {
   return {
     name: 'custom:transform-content',
@@ -29,6 +52,7 @@ export function transformsPlugin(): Plugin {
       if (
         id.endsWith('.md') &&
         !excluded.includes(_id) &&
+        !generatedCategoryPages.has(_id) &&
         // check if it's a post
         !id.includes('posts') &&
         !id.includes('other')

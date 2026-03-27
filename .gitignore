@@ -7,8 +7,4 @@ node_modules/
 .env
 .idea/
 .vscode/
-
 interneto-links.csv
-
-# Ignore the converted markdown files
-docs/apps-import-1st-iteration/
