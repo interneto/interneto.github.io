@@ -19,14 +19,14 @@ import { generateFeed, generateImages, generateMeta } from './hooks'
 import { defs, emojiRender, movePlugin } from './markdown/emoji'
 import { headersPlugin } from './markdown/headers'
 import { toggleStarredPlugin } from './markdown/toggleStarred'
-import { transformsPlugin } from './transformer'
+// import { transformsPlugin } from './transformer'
 import { replaceNoteLink } from './utils/markdown'
 
 // @unocss-include
 
 const baseUrl = process.env.GITHUB_ACTIONS ? '/edit' : '/'
 export default defineConfig({
-  title: 'FMHY',
+  title: 'Interneto Links',
   description: meta.description,
   titleTemplate: ':title • freemediaheckyeah',
   lang: 'en-US',
@@ -96,9 +96,9 @@ export default defineConfig({
         }
       }
     },
-    ssr: {
-      noExternal: ['@fmhy/components']
-    },
+    // ssr: {
+    //   noExternal: ['@fmhy/components']
+    // },
     resolve: {
       alias: [
         {
@@ -164,8 +164,8 @@ export default defineConfig({
           ]
         },
         manifest: {
-          name: 'FMHY - freemediaheckyeah',
-          short_name: 'FMHY',
+          name: 'Interneto Links',
+          short_name: 'Interneto',
           description: 'The largest collection of free stuff on the internet!',
           theme_color: '#000000ff',
           background_color: '#000000ff',
@@ -175,7 +175,7 @@ export default defineConfig({
           start_url: '/',
           icons: [
             {
-              src: '/fmhy.ico',
+              src: '/interneto.ico',
               sizes: '16x16',
               type: 'image/x-icon'
             },
@@ -194,24 +194,6 @@ export default defineConfig({
           ]
         }
       }),
-      transformsPlugin(),
-      {
-        name: 'custom:adjust-order',
-        configResolved(c) {
-          movePlugin(
-            c.plugins as any,
-            'vitepress',
-            'before',
-            'unocss:transformers:pre'
-          )
-          movePlugin(
-            c.plugins as any,
-            'custom:transform-content',
-            'before',
-            'vitepress'
-          )
-        }
-      }
     ],
     build: {
       // Shut the fuck up
@@ -232,17 +214,14 @@ export default defineConfig({
     footer: {
       message: `${feedback} (rev: ${commitRef})`,
       copyright:
-        `© ${new Date().getFullYear()}, <a href="https://i.ibb.co/VJQmQ9t/image.png">Estd 2018.</a>` +
-        `<br/> This site does not host any files.`
+        `© ${new Date().getFullYear()}` +
+        `<br/> Estd 2026 Static Website.`
     },
-    editLink: {
-      pattern: 'https://github.com/fmhy/edit/edit/main/docs/:path',
-      text: '📝 Edit this page'
-    },
+
     outline: 'deep',
     logo: {
-      src: '/fmhy.ico',
-      alt: 'FMHY Logo'
+      src: '/interneto.ico',
+      alt: 'Interneto Logo'
     },
     nav,
     sidebar,
