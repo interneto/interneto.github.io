@@ -99,7 +99,7 @@ const initialBookmarksData: BookmarkType[] = [
     name: 'Wotaku',
     chord: 'WT',
     url: 'https://wotaku.wiki/',
-    icon: 'i-twemoji:flag-japan'
+    icon: '🇯🇵'
   },
   {
     name: 'privateersclub',
@@ -265,12 +265,6 @@ const handleDeleteBookmark = () => {
 
   isDeleteDialogOpen.value = false
   deletingBookmark.value = null
-}
-
-// Handle SVG input
-const handleSvgInput = (event: Event) => {
-  const target = event.target as HTMLTextAreaElement
-  formData.value.customSvg = target.value
 }
 
 const handleKeyDown = (e: KeyboardEvent) => {
@@ -525,10 +519,17 @@ onUnmounted(() => {
               />
               <!-- Regular Icon -->
               <i
-                v-else-if="bookmark.icon"
+                v-else-if="bookmark.icon?.includes(':')"
                 :class="`shrink-0 w-4 h-4 ${bookmark.icon}`"
                 :style="bookmark.color ? { color: bookmark.color } : {}"
               />
+              <span
+                v-else-if="bookmark.icon"
+                class="shrink-0 w-4 h-4 inline-flex items-center justify-center text-sm leading-none"
+                :style="bookmark.color ? { color: bookmark.color } : {}"
+              >
+                {{ bookmark.icon }}
+              </span>
               <!-- Fallback Icon -->
               <i v-else class="shrink-0 w-4 h-4 i-lucide:globe" />
 

@@ -20,8 +20,8 @@ import type { DefaultTheme } from 'vitepress'
 
 export const meta = {
     name: 'freemediaheckyeah',
-    description: 'The largest collection of free stuff on the internet!',
-    hostname: 'https://fmhy.net',
+    description: 'Pass from the Internet to the Innernet!',
+    hostname: 'https://interneto.github.io',
     keywords: ['stream', 'movies', 'gaming', 'reading', 'anime'],
     build: {
         api: false,
@@ -38,37 +38,9 @@ export const excluded = [
     'startpage.md'
 ]
 
-const safeEnv = (key: string) => typeof process !== 'undefined' ? process.env?.[key] : undefined
-
-if (safeEnv('FMHY_BUILD_NSFW') === 'false') {
-    meta.build.nsfw = false
-}
-if (safeEnv('FMHY_BUILD_API') === 'false') {
-    meta.build.api = false
-}
-
-const formatCommitRef = (commitRef: string) =>
-    `<a href="https://github.com/fmhy/edit/commit/${commitRef}">${commitRef.slice(0, 8)}</a>`
-
-const cfStart = safeEnv('CF_PAGES_COMMIT_SHA')
-const commitStart = safeEnv('COMMIT_REF')
-
-export const commitRef =
-    safeEnv('CF_PAGES') && cfStart
-        ? formatCommitRef(cfStart)
-        : commitStart
-            ? formatCommitRef(commitStart)
-            : 'dev'
-
-export const feedback = `<a href="/feedback" class="feedback-footer">Made with ❤</a>`
-
-export const socialLinks: DefaultTheme.SocialLink[] = [
-    { icon: 'github', link: 'https://github.com/interneto' }
-]
-
 export const nav: DefaultTheme.NavItem[] = [
     { text: '📑 Posts', link: '/posts/index' },
-    
+        { text: 'ℹ️ About', link: '/about' }
 ]
 
 export const sidebar: DefaultTheme.Sidebar | DefaultTheme.NavItemWithLink[] = [
@@ -77,7 +49,7 @@ export const sidebar: DefaultTheme.Sidebar | DefaultTheme.NavItemWithLink[] = [
         collapsed: false,
         items: [
             {
-                text: '<span class="i-twemoji:toolbox"></span> AI Tools and Services',
+                text: '🧰 AI Tools and Services',
                 link: '/ai-tools-and-services'
             },
             {
@@ -85,23 +57,23 @@ export const sidebar: DefaultTheme.Sidebar | DefaultTheme.NavItemWithLink[] = [
                 link: '/by-company'
             },
             {
-                text: '<span class="i-twemoji:keyboard"></span> Development',
+                text: '⌨️ Development',
                 link: '/dev'
             },
             {
-                text: '<span class="i-twemoji:graduation-cap"></span> Education',
+                text: '🎓 Education',
                 link: '/education'
             },
             {
-                text: '<span class="i-twemoji:file-folder"></span> File Management',
+                text: '📁 File Management',
                 link: '/file-management'
             },
             {
-                text: '<span class="i-twemoji:money-bag"></span> Financial Assets',
+                text: '💰 Financial Assets',
                 link: '/financial-assets'
             },
             {
-                text: '<span class="i-twemoji:video-game"></span> Gaming',
+                text: '🎮 Gaming',
                 link: '/gaming'
             },
             {
@@ -109,35 +81,35 @@ export const sidebar: DefaultTheme.Sidebar | DefaultTheme.NavItemWithLink[] = [
                 link: '/health-and-fitness'
             },
             {
-                text: '<span class="i-twemoji:house"></span> Home and Family',
+                text: '🏠 Home and Family',
                 link: '/home-and-family'
             },
             {
-                text: '<span class="i-twemoji:telephone-receiver"></span> Intercommunication',
+                text: '☎️ Intercommunication',
                 link: '/intercomm'
             },
             {
-                text: '<span class="i-twemoji:television"></span> Multimedia',
+                text: '📺 Multimedia',
                 link: '/multimedia'
             },
             {
-                text: '<span class="i-twemoji:newspaper"></span> News and Media',
+                text: '📰 News and Media',
                 link: '/news-media'
             },
             {
-                text: '<span class="i-twemoji:briefcase"></span> Office and Productivity',
+                text: '💼 Office and Productivity',
                 link: '/office-and-productivity'
             },
             {
-                text: '<span class="i-twemoji:globe-with-meridians"></span> Online Services',
+                text: '🌐 Online Services',
                 link: '/online-services'
             },
             {
-                text: '<span class="i-twemoji:penguin"></span> Operating System',
+                text: '🐧 Operating System',
                 link: '/os'
             },
             {
-                text: '<span class="i-twemoji:shield"></span> Security and Privacy',
+                text: '🛡️ Security and Privacy',
                 link: '/security-and-privacy'
             },
             {
@@ -149,11 +121,11 @@ export const sidebar: DefaultTheme.Sidebar | DefaultTheme.NavItemWithLink[] = [
                 link: '/time'
             },
             {
-                text: '<span class="i-twemoji:globe-showing-americas"></span> Travel and Location',
+                text: '🌎 Travel and Location',
                 link: '/travel-and-location'
             },
             {
-                text: '<span class="i-twemoji:hammer-and-wrench"></span> Utility',
+                text: '🛠️ Utility',
                 link: '/utility'
             }
         ]
@@ -162,9 +134,13 @@ export const sidebar: DefaultTheme.Sidebar | DefaultTheme.NavItemWithLink[] = [
         text: 'More',
         collapsed: true,
         items: [
+            {
+                text: 'ℹ️ About',
+                link: '/about'
+            },
             meta.build.nsfw
                 ? {
-                    text: '<span class="i-twemoji:no-one-under-eighteen"></span> NSFW',
+                    text: '🔞 NSFW',
                     link: 'https://rentry.org/NSFW-Checkpoint'
                 }
                 : {}

@@ -109,7 +109,6 @@ async function generateImage({
     props: {
       title,
       description,
-      image: 'https://i.fmhy.net/og-base.jpg'
     }
   }
 
