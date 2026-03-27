@@ -17,6 +17,7 @@
     "strictNullChecks": true,
     "forceConsistentCasingInFileNames": true,
     "types": [
+      "vite/client",
       "vitepress"
     ]
   },
@@ -24,6 +25,7 @@
     "node_modules"
   ],
   "include": [
+    "**/.vitepress/**/*.d.ts",
     "**/.vitepress/**/*.ts",
     "**/.vitepress/**/*.mts",
     "**/.vitepress/**/*.vue",

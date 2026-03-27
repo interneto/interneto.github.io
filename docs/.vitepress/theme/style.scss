@@ -440,16 +440,3 @@ body {
   display: none;
 }
 
-/* Override VPFlyout hover behavior when manually controlled */
-.VPFlyout.click-based-flyout:hover .menu {
-  opacity: 0 !important;
-  visibility: hidden !important;
-  transform: translateY(0) !important;
-  /* Reset transform if any */
-}
-
-.VPFlyout.click-based-flyout.open .menu {
-  opacity: 1 !important;
-  visibility: visible !important;
-  transform: translateY(0) !important;
-}

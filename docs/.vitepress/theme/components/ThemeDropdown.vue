@@ -1,11 +1,9 @@
 <script setup lang="ts">
-import { computed, ref, onMounted, onUnmounted } from 'vue'
+import { computed } from 'vue'
 import { useTheme } from '../themes/themeHandler'
 import type { DisplayMode } from '../themes/types'
 
 const { mode, amoledEnabled, setAppearance } = useTheme()
-
-const wrapperRef = ref<HTMLElement | null>(null)
 
 interface ModeChoice {
   mode: DisplayMode
@@ -43,58 +41,10 @@ const isActiveChoice = (choice: ModeChoice) => {
   }
   return choice.mode === current && !choice.isAmoled && !amoledEnabled.value
 }
-
-// Logic to override the parent VPFlyout behavior to be click-based
-const setupParentFlyoutOverride = () => {
-  if (!wrapperRef.value) return
-
-  const flyout = wrapperRef.value.closest('.VPFlyout')
-  if (!flyout) return
-
-  // Add class to disable CSS hover via global style
-  flyout.classList.add('click-based-flyout')
-
-  // Find the toggle button
-  const button = flyout.querySelector('button')
-  if (!button) return
-
-  // Click handler for toggle
-  const toggleFlyout = (e: MouseEvent) => {
-    flyout.classList.toggle('open')
-  }
-
-  button.addEventListener('click', toggleFlyout)
-
-  // Global click listener to close when clicking outside
-  const closeFlyout = (e: MouseEvent) => {
-    if (!flyout.contains(e.target as Node)) {
-      flyout.classList.remove('open')
-    }
-  }
-
-  document.addEventListener('click', closeFlyout)
-
-  ;(wrapperRef.value as any)._cleanup = () => {
-    flyout.classList.remove('click-based-flyout')
-    button.removeEventListener('click', toggleFlyout)
-    document.removeEventListener('click', closeFlyout)
-  }
-}
-
-onMounted(() => {
-  // defer slightly to ensuring DOM is ready
-  setTimeout(setupParentFlyoutOverride, 100)
-})
-
-onUnmounted(() => {
-  if (wrapperRef.value && (wrapperRef.value as any)._cleanup) {
-    ;(wrapperRef.value as any)._cleanup()
-  }
-})
 </script>
 
 <template>
-  <div ref="wrapperRef" class="theme-dropdown-wrapper">
+  <div class="theme-dropdown-wrapper">
     <VDropdown 
         class="theme-dropdown" 
         theme="theme-selector"

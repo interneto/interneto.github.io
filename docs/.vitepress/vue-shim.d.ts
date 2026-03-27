@@ -14,6 +14,14 @@
  *  limitations under the License.
  */
 /* eslint-disable ts/consistent-type-imports */
+interface ImportMetaEnv {
+  readonly SSR: boolean
+}
+
+interface ImportMeta {
+  readonly env: ImportMetaEnv
+}
+
 declare module '*.vue' {
   const component: import('vue').Component
   export default component
