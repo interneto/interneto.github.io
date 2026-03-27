@@ -1,30 +1,14 @@
 ---
 title: Welcome
 layout: home
-description: The largest collection of free stuff on the internet!
+description: Pass from the Internet to the Innernet!
 
 hero:
-  name: freemediaheckyeah
-  tagline: The largest collection of free stuff on the internet!
-  announcement:
-    title: Keep Android Open 🔓
-    link: /posts/KeepAndroidOpen
+  name: Interneto Links
+  tagline: Pass from the Internet to the Innernet!
   image:
-    src: test.png
-    alt: FMHY Icon
-  actions:
-    - theme: brand
-      text: See Beginners Guide
-      link: /beginners-guide
-    - theme: alt
-      text: Posts
-      link: /posts
-    - theme: alt
-      text: Contribute
-      link: /other/contributing
-    - theme: alt
-      text: Discord
-      link: https://github.com/fmhy/FMHY/wiki/FMHY-Discord
+    src: icon.png
+    alt: Interneto Icon
 
 features:
   - title: By Company

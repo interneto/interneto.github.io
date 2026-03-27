@@ -10,7 +10,7 @@
   "start_url": "/",
   "icons": [
     {
-      "src": "/fmhy.ico",
+      "src": "/favicon.ico",
       "sizes": "16x16",
       "type": "image/x-icon"
     },
