@@ -63,167 +63,97 @@ export const commitRef =
 export const feedback = `<a href="/feedback" class="feedback-footer">Made with ❤</a>`
 
 export const socialLinks: DefaultTheme.SocialLink[] = [
-    { icon: 'github', link: 'https://github.com/fmhy/edit' },
-    { icon: 'discord', link: 'https://github.com/fmhy/FMHY/wiki/FMHY-Discord' },
-    {
-        icon: 'reddit',
-        link: 'https://reddit.com/r/FREEMEDIAHECKYEAH'
-    }
+    { icon: 'github', link: 'https://github.com/interneto' }
 ]
 
 export const nav: DefaultTheme.NavItem[] = [
     { text: '📑 Changelog', link: '/posts/changelog-sites' },
-    { text: '📖 Glossary', link: 'https://rentry.org/The-Piracy-Glossary' },
-    {
-        text: '💾 Backups',
-        link: '/other/backups'
-    },
-    {
-        text: '🌱 Ecosystem',
-        items: [
-            { text: '🌐 Search', link: '/posts/search' },
-            { text: '❓ FAQs', link: '/other/FAQ' },
-            { text: '🔖 Bookmarks', link: 'https://github.com/fmhy/bookmarks' },
-            { text: '✅ SafeGuard', link: 'https://github.com/fmhy/FMHY-SafeGuard' },
-            { text: '🚀 Startpage', link: 'https://fmhy.net/startpage' },
-            { text: '✴️ rss.fmhy', link: 'https://rss.fmhy.bid/' },
-            { text: '🔎 SearXNG', link: 'https://searx.fmhy.net/' },
-            {
-                text: '💡 Site Hunting',
-                link: 'https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-new-sites/'
-            },
-            {
-                text: '😇 SFW FMHY',
-                link: 'https://fmhy.xyz/'
-            },
-            {
-                text: '🏠 Selfhosting',
-                link: '/other/selfhosting'
-            },
-            { text: '🏞 Wallpapers', link: '/other/wallpapers' },
-            { text: '💙 Feedback', link: '/feedback' }
-        ]
-    }
 ]
 
 export const sidebar: DefaultTheme.Sidebar | DefaultTheme.NavItemWithLink[] = [
     {
-        text: '<span class="i-twemoji:books"></span> Beginners Guide',
-        link: '/beginners-guide'
-    },
-    {
-        text: '<span class="i-twemoji:newspaper"></span> Posts',
-        link: '/posts'
-    },
-    {
-        text: '<span class="i-twemoji:light-bulb"></span> Contribute',
-        link: '/other/contributing'
-    },
-    {
-        text: 'Wiki',
+        text: 'Categories',
         collapsed: false,
         items: [
             {
-                text: '<span class="i-twemoji:name-badge"></span> Adblocking / Privacy',
-                link: '/privacy'
+                text: '<span class="i-twemoji:toolbox"></span> AI Tools and Services',
+                link: '/ai-tools-and-services'
             },
             {
-                text: '<span class="i-twemoji:robot"></span> Artificial Intelligence',
-                link: '/ai'
+                text: '<span class="i-twemoji:building"></span> By Company',
+                link: '/by-company'
             },
             {
-                text: '<span class="i-twemoji:television"></span> Movies / TV / Anime',
-                link: '/video'
+                text: '<span class="i-twemoji:keyboard"></span> Development',
+                link: '/dev'
             },
             {
-                text: '<span class="i-twemoji:musical-note"></span> Music / Podcasts / Radio',
-                link: '/audio'
+                text: '<span class="i-twemoji:graduation-cap"></span> Education',
+                link: '/education'
             },
             {
-                text: '<span class="i-twemoji:video-game"></span> Gaming / Emulation',
+                text: '<span class="i-twemoji:file-folder"></span> File Management',
+                link: '/file-management'
+            },
+            {
+                text: '<span class="i-twemoji:money-bag"></span> Financial Assets',
+                link: '/financial-assets'
+            },
+            {
+                text: '<span class="i-twemoji:video-game"></span> Gaming',
                 link: '/gaming'
             },
             {
-                text: '<span class="i-twemoji:green-book"></span> Books / Comics / Manga',
-                link: '/reading'
+                text: '<span class="i-twemoji:heart"></span> Health and Fitness',
+                link: '/health-and-fitness'
             },
             {
-                text: '<span class="i-twemoji:floppy-disk"></span> Downloading',
-                link: '/downloading'
+                text: '<span class="i-twemoji:house"></span> Home and Family',
+                link: '/home-and-family'
             },
             {
-                text: '<span class="i-twemoji:cyclone"></span> Torrenting',
-                link: '/torrenting'
+                text: '<span class="i-twemoji:telephone-receiver"></span> Intercommunication',
+                link: '/intercomm'
             },
             {
-                text: '<span class="i-twemoji:brain"></span> Educational',
-                link: '/educational'
+                text: '<span class="i-twemoji:television"></span> Multimedia',
+                link: '/multimedia'
             },
             {
-                text: '<span class="i-twemoji:mobile-phone"></span> Android / iOS',
-                link: '/mobile'
+                text: '<span class="i-twemoji:newspaper"></span> News and Media',
+                link: '/news-media'
             },
             {
-                text: '<span class="i-twemoji:penguin"></span> Linux / macOS',
-                link: '/linux-macos'
+                text: '<span class="i-twemoji:briefcase"></span> Office and Productivity',
+                link: '/office-and-productivity'
             },
             {
-                text: '<span class="i-twemoji:globe-showing-asia-australia"></span> Non-English',
-                link: '/non-english'
+                text: '<span class="i-twemoji:globe-with-meridians"></span> Online Services',
+                link: '/online-services'
             },
             {
-                text: '<span class="i-twemoji:file-folder"></span> Miscellaneous',
-                link: '/misc'
-            }
-        ]
-    },
-    {
-        text: 'Tools',
-        collapsed: false,
-        items: [
-            {
-                text: '<span class="i-twemoji:laptop"></span> System Tools',
-                link: '/system-tools'
+                text: '<span class="i-twemoji:penguin"></span> Operating System',
+                link: '/os'
             },
             {
-                text: '<span class="i-twemoji:card-file-box"></span> File Tools',
-                link: '/file-tools'
+                text: '<span class="i-twemoji:shield"></span> Security and Privacy',
+                link: '/security-and-privacy'
             },
             {
-                text: '<span class="i-twemoji:paperclip"></span> Internet Tools',
-                link: '/internet-tools'
+                text: '<span class="i-twemoji:computer"></span> System Administration',
+                link: '/sys-admin'
             },
             {
-                text: '<span class="i-twemoji:left-speech-bubble"></span> Social Media Tools',
-                link: '/social-media-tools'
+                text: '<span class="i-twemoji:clock-face-one"></span> Time',
+                link: '/time'
             },
             {
-                text: '<span class="i-twemoji:memo"></span> Text Tools',
-                link: '/text-tools'
+                text: '<span class="i-twemoji:globe-showing-americas"></span> Travel and Location',
+                link: '/travel-and-location'
             },
             {
-                text: '<span class="i-twemoji:alien-monster"></span> Gaming Tools',
-                link: '/gaming-tools'
-            },
-            {
-                text: '<span class="i-twemoji:camera"></span> Image Tools',
-                link: '/image-tools'
-            },
-            {
-                text: '<span class="i-twemoji:videocassette"></span> Video Tools',
-                link: '/video-tools'
-            },
-            {
-                text: '<span class="i-twemoji:speaker-high-volume"></span> Audio Tools',
-                link: '/audio#audio-tools'
-            },
-            {
-                text: '<span class="i-twemoji:red-apple"></span> Educational Tools',
-                link: '/educational#educational-tools'
-            },
-            {
-                text: '<span class="i-twemoji:man-technologist"></span> Developer Tools',
-                link: '/developer-tools'
+                text: '<span class="i-twemoji:hammer-and-wrench"></span> Utility',
+                link: '/utility'
             }
         ]
     },
@@ -236,15 +166,7 @@ export const sidebar: DefaultTheme.Sidebar | DefaultTheme.NavItemWithLink[] = [
                     text: '<span class="i-twemoji:no-one-under-eighteen"></span> NSFW',
                     link: 'https://rentry.org/NSFW-Checkpoint'
                 }
-                : {},
-            {
-                text: '<span class="i-twemoji:warning"></span> Unsafe Sites',
-                link: '/unsafe'
-            },
-            {
-                text: '<span class="i-twemoji:package"></span> Storage',
-                link: '/storage'
-            }
+                : {}
         ]
     }
 ]
