@@ -8,16 +8,17 @@ const ROOT_DIR = path.resolve(__dirname, '..');
 const INPUT_CSV = path.resolve(ROOT_DIR, 'interneto-links.csv');
 const OUTPUT_DIR = path.resolve(ROOT_DIR, 'docs', 'apps-import');
 
-// Only these markdown files are generated.
-const OUTPUT_FILES = [
+const ALLOWED_CHILDREN = [
   'by-Company',
   'OS',
   'Al Tools & Services',
   'Dev',
   'Gaming',
-  'Educinancial assets',
+  'Education',
+  'File Management',
+  'Financial assets',
   'Health & Fitness',
-  'ily',
+  'Home & Family',
   'InterComm',
   'Multimedia',
   'News Media',
@@ -28,33 +29,11 @@ const OUTPUT_FILES = [
   'Time',
   'Travel & Location',
   'Utility'
-] as const;
+] ;
 
-const OUTPUT_FILE_SET = new Set(OUTPUT_FILES);
+const ALLOWED_SET = new Set(ALLOWED_CHILDREN);
 
-// Maps Apps first-level children from CSV to one of OUTPUT_FILES.
-const INPUT_CHILD_TO_OUTPUT = new Map([
-  ['by-Company', 'by-Company'],
-  ['OS', 'OS'],
-  ['AI Tools & Services', 'Al Tools & Services'],
-  ['Al Tools & Services', 'Al Tools & Services'],
-  ['Dev', 'Dev'],
-  ['Gaming', 'Gaming'],
-  ['Education', 'Educinancial assets'],
-  ['Financial assets', 'Educinancial assets'],
-  ['Health & Fitness', 'Health & Fitness'],
-  ['Home & Family', 'ily'],
-  ['InterComm', 'InterComm'],
-  ['Multimedia', 'Multimedia'],
-  ['News Media', 'News Media'],
-  ['Office & Productivity', 'Office & Productivity'],
-  ['Online Services', 'Online Services'],
-  ['Security & Privacy', 'Security & Privacy'],
-  ['Sys Admin', 'Sys Admin'],
-  ['Time', 'Time'],
-  ['Travel & Location', 'Travel & Location'],
-  ['Utility', 'Utility']
-]);
+const INPUT_CHILD_ALIAS = new Map([['AI Tools & Services', 'Al Tools & Services']]);
 
 function parseCsv(text) {
   const rows = [];
@@ -121,15 +100,6 @@ function parseCsv(text) {
   });
 }
 
-function slugify(segment) {
-  return segment
-    .toLowerCase()
-    .replace(/&/g, ' and ')
-    .replace(/[^a-z0-9]+/g, '-')
-    .replace(/^-+|-+$/g, '')
-    .replace(/-{2,}/g, '-');
-}
-
 function cleanText(text) {
   return String(text || '').replace(/\s+/g, ' ').trim();
 }
@@ -138,123 +108,69 @@ function escapeMd(text) {
   return cleanText(text).replace(/\[/g, '\\[').replace(/\]/g, '\\]');
 }
 
-function headingAnchor(text) {
-  return cleanText(text)
-    .toLowerCase()
-    .replace(/[^a-z0-9\s-]/g, '')
-    .trim()
-    .replace(/\s+/g, '-');
-}
-
-function tagsToHashtags(tags) {
-  if (!tags || !tags.trim()) return '';
-
-  const tokens = tags
-    .split(',')
-    .map((t) => cleanText(t))
-    .filter(Boolean)
-    .map((t) => {
-      const collapsed = t
-        .toLowerCase()
-        .replace(/&/g, ' and ')
-        .replace(/[^a-z0-9]+/g, '_')
-        .replace(/^_+|_+$/g, '')
-        .replace(/_{2,}/g, '_');
-      return collapsed ? `#${collapsed}` : '';
-    })
-    .filter(Boolean);
-
-  return tokens.join(' ');
-}
-
 function normalizeFolder(folder) {
   return folder
     .split('/')
     .map((s) => cleanText(s))
     .filter(Boolean)
-    .map((s) => (s === 'Al Tools & Services' ? 'AI Tools & Services' : s));
-}
-
-function toOutputFileName(groupName) {
-  return `${groupName}.md`;
-}
-
-function toSectionName(folderParts) {
-  if (folderParts.length <= 2) return 'General';
-  return folderParts.slice(2).join(' / ');
-}
-
-function createBuckets() {
-  const buckets = new Map();
-  for (const fileName of OUTPUT_FILES) {
-    buckets.set(fileName, new Map());
-  }
-  return buckets;
-}
-
-function sortItems(items) {
-  return [...items].sort((a, b) => {
-    if (a.favorite !== b.favorite) return a.favorite ? -1 : 1;
-    return a.title.localeCompare(b.title);
-  });
-}
-
-function renderGroupFile(groupName, sections) {
-  const lines = [];
-  lines.push(`# ${escapeMd(groupName)}`);
-  lines.push('');
-
-  const sectionNames = [...sections.keys()].sort((a, b) => {
-    if (a === 'General') return -1;
-    if (b === 'General') return 1;
-    return a.localeCompare(b);
-  });
-
-  if (sectionNames.length) {
-    lines.push('## Subfolders');
-    lines.push('');
-    for (const sectionName of sectionNames) {
-      const anchorTitle = sectionName === 'General' ? groupName : sectionName;
-      lines.push(`- [${escapeMd(sectionName)}](#${headingAnchor(anchorTitle)})`);
-    }
-    lines.push('');
-  }
-
-  for (const sectionName of sectionNames) {
-    const heading = sectionName === 'General' ? groupName : sectionName;
-    const items = sortItems(sections.get(sectionName) || []);
-
-    lines.push(`## ${escapeMd(heading)}`);
-    lines.push('');
-
-    for (const item of items) {
-      const star = item.favorite ? '⭐ ' : '';
-      const title = escapeMd(item.title || item.url || 'Untitled');
-      const url = cleanText(item.url);
-      const excerpt = escapeMd(item.excerpt);
-      const hashtags = tagsToHashtags(item.tags);
-
-      let suffix = '';
-      if (excerpt && hashtags) suffix = `: ${excerpt} ${hashtags}`;
-      else if (excerpt) suffix = `: ${excerpt}`;
-      else if (hashtags) suffix = `: ${hashtags}`;
-
-      lines.push(`- ${star}[${title}](${url})${suffix}`);
-    }
-
-    if (!items.length) {
-      lines.push('_No links found._');
-    }
-
-    lines.push('');
-  }
-
-  return `${lines.join('\n')}\n`;
+    .map((s) => INPUT_CHILD_ALIAS.get(s) || s);
 }
 
 function clearOutputDir() {
   fs.rmSync(OUTPUT_DIR, { recursive: true, force: true });
   fs.mkdirSync(OUTPUT_DIR, { recursive: true });
+}
+
+function createNode() {
+  return { items: [], children: new Map() };
+}
+
+function addToTree(group, pathParts, item) {
+  if (!pathParts.length) {
+    group.items.push(item);
+    return;
+  }
+
+  let cursor = group.children;
+  let node;
+  for (const part of pathParts) {
+    if (!cursor.has(part)) {
+      cursor.set(part, createNode());
+    }
+    node = cursor.get(part);
+    cursor = node.children;
+  }
+  node.items.push(item);
+}
+
+function renderItems(lines, items) {
+  for (const item of items) {
+    const star = item.favorite ? '⭐ ' : '';
+    lines.push(`- ${star}[${escapeMd(item.title)}](${item.url})`);
+  }
+}
+
+function renderChildren(lines, children, level) {
+  for (const [name, node] of children) {
+    lines.push('');
+    lines.push(`${'#'.repeat(level)} ${escapeMd(name)}`);
+    lines.push('');
+    renderItems(lines, node.items);
+    renderChildren(lines, node.children, level + 1);
+  }
+}
+
+function renderGroupFile(groupName, group) {
+  const lines = [`# ${escapeMd(groupName)}`, ''];
+
+  renderItems(lines, group.items);
+  renderChildren(lines, group.children, 2);
+
+  if (lines[lines.length - 1] !== '') {
+    lines.push('');
+  }
+
+  return lines.join('\n');
 }
 
 function run() {
@@ -265,39 +181,36 @@ function run() {
   const csv = fs.readFileSync(INPUT_CSV, 'utf8');
   const rows = parseCsv(csv);
 
-  const buckets = createBuckets();
+  const groups = new Map(ALLOWED_CHILDREN.map((name) => [name, createNode()]));
   let included = 0;
 
   for (const row of rows) {
     const folderParts = normalizeFolder(row.folder || '');
     if (folderParts.length < 2 || folderParts[0] !== 'Apps') continue;
 
-    const outputName = INPUT_CHILD_TO_OUTPUT.get(folderParts[1]);
-    if (!outputName || !OUTPUT_FILE_SET.has(outputName)) continue;
+    const child = folderParts[1];
+    if (!ALLOWED_SET.has(child)) continue;
 
-    const sections = buckets.get(outputName);
-    const sectionName = toSectionName(folderParts);
-    if (!sections.has(sectionName)) {
-      sections.set(sectionName, []);
-    }
+    const title = cleanText(row.title);
+    const url = cleanText(row.url);
+    if (!title || !url) continue;
 
-    sections.get(sectionName).push({
-      title: row.title || '',
-      url: row.url || '',
-      tags: row.tags || '',
-      excerpt: row.excerpt || '',
+    const item = {
+      title,
+      url,
       favorite: String(row.favorite || '').toLowerCase() === 'true'
-    });
+    };
+
+    addToTree(groups.get(child), folderParts.slice(2), item);
     included += 1;
   }
 
   clearOutputDir();
 
   let filesWritten = 0;
-  for (const outputName of OUTPUT_FILES) {
-    const sections = buckets.get(outputName);
-    const filePath = path.join(OUTPUT_DIR, toOutputFileName(outputName));
-    const markdown = renderGroupFile(outputName, sections);
+  for (const groupName of ALLOWED_CHILDREN) {
+    const filePath = path.join(OUTPUT_DIR, `${groupName}.md`);
+    const markdown = renderGroupFile(groupName, groups.get(groupName));
     fs.writeFileSync(filePath, markdown, 'utf8');
     filesWritten += 1;
   }
