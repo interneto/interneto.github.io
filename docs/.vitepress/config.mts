@@ -7,13 +7,10 @@ import Terminal from 'vite-plugin-terminal'
 import { VitePWA } from 'vite-plugin-pwa'
 import { defineConfig } from 'vitepress'
 import {
-  commitRef,
-  feedback,
   meta,
   nav,
   search,
   sidebar,
-  socialLinks
 } from './constants'
 import { generateFeed, generateImages, generateMeta } from './hooks'
 import { defs, emojiRender } from './markdown/emoji'
@@ -213,10 +210,9 @@ export default defineConfig({
   themeConfig: {
     search,
     footer: {
-      message: `${feedback} (rev: ${commitRef})`,
-      copyright:
-        `© ${new Date().getFullYear()}` +
-        `<br/> Estd 2026 Static Website.`
+      message:
+        '<a href="https://github.com/interneto" target="_blank" rel="noopener noreferrer">GitHub</a> · <a href="https://interneto.raindrop.page/" target="_blank" rel="noopener noreferrer">raindrop.io</a> · <a href="https://twitter.com/internetoOK" target="_blank" rel="noopener noreferrer">X</a>',
+      copyright: `© ${new Date().getFullYear()} Interneto. Curated link directory.`
     },
 
     outline: 'deep',
@@ -226,6 +222,5 @@ export default defineConfig({
     },
     nav,
     sidebar,
-    socialLinks
   }
 })
