@@ -81,7 +81,7 @@ export const sidebar: DefaultTheme.Sidebar | DefaultTheme.NavItemWithLink[] = [
                 link: '/ai-tools-and-services'
             },
             {
-                text: '<span class="i-twemoji:building"></span> By Company',
+                text: '🏢 By Company',
                 link: '/by-company'
             },
             {
@@ -105,7 +105,7 @@ export const sidebar: DefaultTheme.Sidebar | DefaultTheme.NavItemWithLink[] = [
                 link: '/gaming'
             },
             {
-                text: '<span class="i-twemoji:heart"></span> Health and Fitness',
+                text: '❤️ Health and Fitness',
                 link: '/health-and-fitness'
             },
             {
@@ -141,11 +141,11 @@ export const sidebar: DefaultTheme.Sidebar | DefaultTheme.NavItemWithLink[] = [
                 link: '/security-and-privacy'
             },
             {
-                text: '<span class="i-twemoji:computer"></span> System Administration',
+                text: '💻 System Administration',
                 link: '/sys-admin'
             },
             {
-                text: '<span class="i-twemoji:clock-face-one"></span> Time',
+                text: '🕐 Time',
                 link: '/time'
             },
             {
