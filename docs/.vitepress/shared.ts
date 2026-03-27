@@ -67,7 +67,8 @@ export const socialLinks: DefaultTheme.SocialLink[] = [
 ]
 
 export const nav: DefaultTheme.NavItem[] = [
-    { text: '📑 Changelog', link: '/posts/changelog-sites' },
+    { text: '📑 Posts', link: '/posts/index' },
+    
 ]
 
 export const sidebar: DefaultTheme.Sidebar | DefaultTheme.NavItemWithLink[] = [
