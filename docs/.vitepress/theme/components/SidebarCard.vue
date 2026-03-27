@@ -8,7 +8,7 @@ import ToggleStarred from './ToggleStarred.vue'
 <template>
   <div class="bg-$vp-c-bg hover:bg-$vp-c-bg/40 border-$vp-c-default-soft hover:border-primary transition-border relative z-0 rounded-lg border-2 border-solid p-5 duration-500">
 
-    <InputField id="toggle-starred" label="⭐ Toggle Favorite Links">
+    <InputField id="toggle-starred" label="⭐ Favorite Links">
       <template #display>
         <ToggleStarred />
       </template>
