@@ -6,33 +6,32 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT_DIR = path.resolve(__dirname, '..');
 
 const INPUT_CSV = path.resolve(ROOT_DIR, 'interneto-links.csv');
-const OUTPUT_DIR = path.resolve(ROOT_DIR, 'docs', 'apps-import');
+const OUTPUT_DIR = path.resolve(ROOT_DIR, 'docs');
 
-const ALLOWED_CHILDREN = [
-  'by-Company',
-  'OS',
-  'Al Tools & Services',
-  'Dev',
-  'Gaming',
-  'Education',
-  'File Management',
-  'Financial assets',
-  'Health & Fitness',
-  'Home & Family',
-  'InterComm',
-  'Multimedia',
-  'News Media',
-  'Office & Productivity',
-  'Online Services',
-  'Security & Privacy',
-  'Sys Admin',
-  'Time',
-  'Travel & Location',
-  'Utility'
-] ;
+const CATEGORY_CONFIG = [
+  { folder: 'by-Company', file: 'by-company.md' },
+  { folder: 'OS', file: 'os.md' },
+  { folder: 'Al Tools & Services', file: 'ai-tools-and-services.md' },
+  { folder: 'Dev', file: 'dev.md' },
+  { folder: 'Gaming', file: 'gaming.md' },
+  { folder: 'Education', file: 'education.md' },
+  { folder: 'File Management', file: 'file-management.md' },
+  { folder: 'Financial assets', file: 'financial-assets.md' },
+  { folder: 'Health & Fitness', file: 'health-and-fitness.md' },
+  { folder: 'Home & Family', file: 'home-and-family.md' },
+  { folder: 'InterComm', file: 'intercomm.md' },
+  { folder: 'Multimedia', file: 'multimedia.md' },
+  { folder: 'News Media', file: 'news-media.md' },
+  { folder: 'Office & Productivity', file: 'office-and-productivity.md' },
+  { folder: 'Online Services', file: 'online-services.md' },
+  { folder: 'Security & Privacy', file: 'security-and-privacy.md' },
+  { folder: 'Sys Admin', file: 'sys-admin.md' },
+  { folder: 'Time', file: 'time.md' },
+  { folder: 'Travel & Location', file: 'travel-and-location.md' },
+  { folder: 'Utility', file: 'utility.md' }
+];
 
-const ALLOWED_SET = new Set(ALLOWED_CHILDREN);
-
+const CATEGORY_BY_FOLDER = new Map(CATEGORY_CONFIG.map((entry) => [entry.folder, entry]));
 const INPUT_CHILD_ALIAS = new Map([['AI Tools & Services', 'Al Tools & Services']]);
 
 function parseCsv(text) {
@@ -116,9 +115,18 @@ function normalizeFolder(folder) {
     .map((s) => INPUT_CHILD_ALIAS.get(s) || s);
 }
 
-function clearOutputDir() {
-  fs.rmSync(OUTPUT_DIR, { recursive: true, force: true });
+function safeUnlink(filePath) {
+  if (fs.existsSync(filePath)) {
+    fs.unlinkSync(filePath);
+  }
+}
+
+function clearOutputFiles() {
   fs.mkdirSync(OUTPUT_DIR, { recursive: true });
+
+  for (const category of CATEGORY_CONFIG) {
+    safeUnlink(path.join(OUTPUT_DIR, category.file));
+  }
 }
 
 function createNode() {
@@ -181,7 +189,7 @@ function run() {
   const csv = fs.readFileSync(INPUT_CSV, 'utf8');
   const rows = parseCsv(csv);
 
-  const groups = new Map(ALLOWED_CHILDREN.map((name) => [name, createNode()]));
+  const groups = new Map(CATEGORY_CONFIG.map((entry) => [entry.folder, createNode()]));
   let included = 0;
 
   for (const row of rows) {
@@ -189,7 +197,7 @@ function run() {
     if (folderParts.length < 2 || folderParts[0] !== 'Apps') continue;
 
     const child = folderParts[1];
-    if (!ALLOWED_SET.has(child)) continue;
+    if (!CATEGORY_BY_FOLDER.has(child)) continue;
 
     const title = cleanText(row.title);
     const url = cleanText(row.url);
@@ -205,15 +213,23 @@ function run() {
     included += 1;
   }
 
-  clearOutputDir();
+  clearOutputFiles();
 
   let filesWritten = 0;
-  for (const groupName of ALLOWED_CHILDREN) {
-    const filePath = path.join(OUTPUT_DIR, `${groupName}.md`);
-    const markdown = renderGroupFile(groupName, groups.get(groupName));
+  for (const category of CATEGORY_CONFIG) {
+    const filePath = path.join(OUTPUT_DIR, category.file);
+    const markdown = renderGroupFile(category.folder, groups.get(category.folder));
     fs.writeFileSync(filePath, markdown, 'utf8');
     filesWritten += 1;
   }
+
+  const indexLines = ['# Apps Import', '', '## Categories', ''];
+  for (const category of CATEGORY_CONFIG) {
+    const href = `/${category.file.replace(/\.md$/i, '')}`;
+    indexLines.push(`- [${category.folder}](${href})`);
+  }
+  indexLines.push('');
+  fs.writeFileSync(path.join(OUTPUT_DIR, 'index.md'), indexLines.join('\n'), 'utf8');
 
   console.log(`Converted ${included} links into ${filesWritten} markdown files at: ${OUTPUT_DIR}`);
 }

@@ -84,7 +84,6 @@
 ### Geographic maps
 
 - [Map of Earthquakes Today](https://earthquaketrack.com/)
-- [Bellingcat - Civilian Harm in Ukraine Timemap](https://ukraine.bellingcat.com/)
 - [Amapint.com](https://www.amapint.com/en/)
 - [NASAWorldWind/WebWorldWind: The NASA WorldWind Javascript SDK (WebWW) includes the library and examples for creating geo-browser web applications and for embedding a 3D globe in HTML5 web pages.](https://github.com/NASAWorldWind/WebWorldWind)
 - [Elevation Finder](https://www.freemaptools.com/elevation-finder.htm)
