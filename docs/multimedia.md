@@ -1,19 +1,8 @@
----
-title: Multimedia
-description: Multimedia and content creation tools
-date: 2026-03-28
-next: false
-prev: false
-footer: true
----
-
 # Multimedia
 
 **Total Bookmarks:** 2199
 
-
 ## Audio & Music
-
 
 ### Audio computing
 

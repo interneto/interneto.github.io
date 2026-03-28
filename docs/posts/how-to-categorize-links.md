@@ -9,11 +9,7 @@ footer: true
 
 <Post authors="David7ce"/>
 
-:::
-
-# How To Categorize Links?
-
-### Problem with classification
+## Problem with classification
 
 For example Google has topics in many sections like: +Net, Arts, Business, Education, Media, Society, World. How do we categorize the Google webs, by the platform, the owner company, its use or the topic?
 
@@ -47,7 +43,7 @@ The ways of sorting can be:
     - storage
     - subject "If a mind analyzes all possible parameters occurring in a day the size of the mind to process it would be one light year in diameter."
 
-#### The way to classify can vary
+### The way to classify can vary
 
 - the most common is to classify from general to the concrete, from the most abstract to the most concise.
 - since the internet contains everything imaginable and more, it becomes a dictionary classification.

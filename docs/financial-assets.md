@@ -1,12 +1,3 @@
----
-title: Financial assets
-description: Financial and investment tools
-date: 2026-03-28
-next: false
-prev: false
-footer: true
----
-
 # Financial assets
 
 **Total Bookmarks:** 413

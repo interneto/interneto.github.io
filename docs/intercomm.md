@@ -1,16 +1,6 @@
----
-title: Internet Communication
-description: Communication and collaboration tools
-date: 2026-03-28
-next: false
-prev: false
-footer: true
----
-
 # InterComm
 
 **Total Bookmarks:** 1543
-
 
 ## Autopilot system
 

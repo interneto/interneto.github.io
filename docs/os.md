@@ -1,12 +1,3 @@
----
-title: OS
-description: Operating systems and tools
-date: 2026-03-28
-next: false
-prev: false
-footer: true
----
-
 # OS
 
 **Total Bookmarks:** 1075
@@ -17,7 +8,6 @@ footer: true
 - [List Of Os - Wikipedia](https://en.wikipedia.org/wiki/List_of_operating_systems)
 
 ## OS by devices
-
 
 ### Console OS
 

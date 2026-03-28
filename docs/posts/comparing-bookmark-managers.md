@@ -9,10 +9,6 @@ footer: true
 
 <Post authors="David7ce"/>
 
-:::
-
-# List Of Bookmark Manager Apps
-
 After getting a directory of categorized links you need software that makes search, tagging, and structure effortless. Below is a quick comparison of mainstream options and two recommendations that cover most needs.
 
 - With [Google Chrome](https://www.google.com/chrome/index.html) you can use the bookmark manager with chrome://bookmarks or the shortcut Ctr+Shift+O. The app permit to:

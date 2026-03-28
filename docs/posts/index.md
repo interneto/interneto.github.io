@@ -1,7 +1,12 @@
 ---
 title: Posts
 description: Articles and updates
+date: 2025-08-31
+next: false
+prev: false
+footer: true
 ---
+
 
 # Posts
 
