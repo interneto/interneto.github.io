@@ -107,6 +107,14 @@ function escapeMd(text) {
   return cleanText(text).replace(/\[/g, '\\[').replace(/\]/g, '\\]');
 }
 
+function toCamelCaseWords(text) {
+  return cleanText(text)
+    .split(' ')
+    .filter(Boolean)
+    .map((word) => word[0].toUpperCase() + word.slice(1).toLowerCase())
+    .join(' ');
+}
+
 function normalizeFolder(folder) {
   return folder
     .split('/')
@@ -199,7 +207,7 @@ function run() {
     const child = folderParts[1];
     if (!CATEGORY_BY_FOLDER.has(child)) continue;
 
-    const title = cleanText(row.title);
+    const title = toCamelCaseWords(row.title);
     const url = cleanText(row.url);
     if (!title || !url) continue;
 

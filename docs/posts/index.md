@@ -3,6 +3,8 @@ title: Posts
 description: Articles and updates
 ---
 
-- [Comparing bookmark managers](/posts/comparing-bookmark-managers)
-- [How to categorize links](/posts/how-to-categorize-links)
-- [What is information](/posts/what-is-info)
+# Posts
+
+- [Comparing Bookmark Managers](/posts/comparing-bookmark-managers)
+- [How To Categorize Links](/posts/how-to-categorize-links)
+- [What Is Information?](/posts/what-is-info)

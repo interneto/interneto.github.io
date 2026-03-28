@@ -1,6 +1,6 @@
 ---
-title: Monthly Updates [Sept]
-description: Sept 2025 updates
+title: Comparing Bookmark Managers
+description: Quick comparison of bookmark manager apps and practical recommendations
 date: 2025-08-31
 next: false
 prev: false
@@ -11,7 +11,7 @@ footer: true
 
 :::
 
-# List of bookmark manager apps
+# List Of Bookmark Manager Apps
 
 After getting a directory of categorized links you need software that makes search, tagging, and structure effortless. Below is a quick comparison of mainstream options and two recommendations that cover most needs.
 
