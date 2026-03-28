@@ -9,26 +9,26 @@ const INPUT_CSV = path.resolve(ROOT_DIR, 'interneto-links.csv');
 const OUTPUT_DIR = path.resolve(ROOT_DIR, 'docs');
 
 const CATEGORY_CONFIG = [
-  { folder: 'by-Company', file: 'by-company.md' },
-  { folder: 'OS', file: 'os.md' },
-  { folder: 'Al Tools & Services', file: 'ai-tools-and-services.md' },
-  { folder: 'Dev', file: 'dev.md' },
-  { folder: 'Gaming', file: 'gaming.md' },
-  { folder: 'Education', file: 'education.md' },
-  { folder: 'File Management', file: 'file-management.md' },
-  { folder: 'Financial assets', file: 'financial-assets.md' },
-  { folder: 'Health & Fitness', file: 'health-and-fitness.md' },
-  { folder: 'Home & Family', file: 'home-and-family.md' },
-  { folder: 'InterComm', file: 'intercomm.md' },
-  { folder: 'Multimedia', file: 'multimedia.md' },
-  { folder: 'News Media', file: 'news-media.md' },
-  { folder: 'Office & Productivity', file: 'office-and-productivity.md' },
-  { folder: 'Online Services', file: 'online-services.md' },
-  { folder: 'Security & Privacy', file: 'security-and-privacy.md' },
-  { folder: 'Sys Admin', file: 'sys-admin.md' },
-  { folder: 'Time', file: 'time.md' },
-  { folder: 'Travel & Location', file: 'travel-and-location.md' },
-  { folder: 'Utility', file: 'utility.md' }
+  { folder: 'by-Company', file: 'by-company.md', description: 'Useful services organized by company' },
+  { folder: 'OS', file: 'os.md', description: 'Operating systems and tools' },
+  { folder: 'Al Tools & Services', file: 'ai-tools-and-services.md', description: 'Artificial Intelligence tools and services' },
+  { folder: 'Dev', file: 'dev.md', description: 'Development tools and resources' },
+  { folder: 'Education', file: 'education.md', description: 'Educational resources and platforms' },
+  { folder: 'File Management', file: 'file-management.md', description: 'File storage and management solutions' },
+  { folder: 'Financial assets', file: 'financial-assets.md', description: 'Financial and investment tools' },
+  { folder: 'Gaming', file: 'gaming.md', description: 'Gaming platforms and services' },
+  { folder: 'Health & Fitness', file: 'health-and-fitness.md', description: 'Health and fitness applications' },
+  { folder: 'Home & Family', file: 'home-and-family.md', description: 'Home automation and family services' },
+  { folder: 'InterComm', file: 'intercomm.md', description: 'Communication and collaboration tools' },
+  { folder: 'Multimedia', file: 'multimedia.md', description: 'Multimedia and content creation tools' },
+  { folder: 'News Media', file: 'news-media.md', description: 'News and media platforms' },
+  { folder: 'Office & Productivity', file: 'office-and-productivity.md', description: 'Office and productivity applications' },
+  { folder: 'Online Services', file: 'online-services.md', description: 'Online services and utilities' },
+  { folder: 'Security & Privacy', file: 'security-and-privacy.md', description: 'Security and privacy tools' },
+  { folder: 'Sys Admin', file: 'sys-admin.md', description: 'System administration tools' },
+  { folder: 'Time', file: 'time.md', description: 'Time management and scheduling tools' },
+  { folder: 'Travel & Location', file: 'travel-and-location.md', description: 'Travel and location services' },
+  { folder: 'Utility', file: 'utility.md', description: 'Utility tools and applications' }
 ];
 
 const CATEGORY_BY_FOLDER = new Map(CATEGORY_CONFIG.map((entry) => [entry.folder, entry]));
@@ -176,8 +176,27 @@ function renderChildren(lines, children, level) {
   }
 }
 
-function renderGroupFile(groupName, group) {
-  const lines = [`# ${escapeMd(groupName)}`, ''];
+function generateFrontmatter(title, description) {
+  const today = new Date().toISOString().split('T')[0];
+  return [
+    '---',
+    `title: ${title}`,
+    `description: ${description}`,
+    `date: ${today}`,
+    'next: false',
+    'prev: false',
+    'footer: true',
+    '---'
+  ];
+}
+
+function renderGroupFile(groupName, group, description) {
+  const lines = [
+    ...generateFrontmatter(groupName, description),
+    '',
+    `# ${escapeMd(groupName)}`,
+    ''
+  ];
 
   renderItems(lines, group.items);
   renderChildren(lines, group.children, 2);
@@ -226,7 +245,7 @@ function run() {
   let filesWritten = 0;
   for (const category of CATEGORY_CONFIG) {
     const filePath = path.join(OUTPUT_DIR, category.file);
-    const markdown = renderGroupFile(category.folder, groups.get(category.folder));
+    const markdown = renderGroupFile(category.folder, groups.get(category.folder), category.description);
     fs.writeFileSync(filePath, markdown, 'utf8');
     filesWritten += 1;
   }

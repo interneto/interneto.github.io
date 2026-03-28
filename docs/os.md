@@ -1,3 +1,12 @@
+---
+title: Operating System
+description: Operating systems and tools
+date: 2026-03-28
+next: false
+prev: false
+footer: true
+---
+
 # OS
 
 - [Comparison of real-time operating systems - Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_real-time_operating_systems)

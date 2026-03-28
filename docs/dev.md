@@ -1,3 +1,12 @@
+---
+title: AI Tools and Services
+description: Development tools and resources
+date: 2026-03-28
+next: false
+prev: false
+footer: true
+---
+
 # Dev
 
 - [Dash for macOS - API Documentation Browser, Snippet Manager](https://kapeli.com/dash)
