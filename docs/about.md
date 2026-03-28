@@ -1,75 +1,108 @@
-# About
-
-Interneto is a hobby project by David Alonso. The goal was to build a self-hosted bookmark manager, but the project evolved toward curating great links and explaining how to turn them into knowledge.
-
-Instead of maintaining a separate app, the recommendation today is to use proven tools: cloud-first [Raindrop.io](https://raindrop.io) or the self-hosted [Linkwarden](https://github.com/linkwarden/linkwarden). Both integrate well with the workflows described on this site.
-
-**Interneto** is the combination of: **In** + **ter** + **net** + **o** = **In**side of the **ter**a (1 trillion) **net**works of the closed circular connection (**o**).
-
-Contact: [@internetoOK](https://twitter.com/internetoOK) or [interneto on GitHub](https://github.com/interneto).
-
+---
+title: About
+description: Explaining the Interneto Project
+date: 2023-10-08
+next: false
+prev: false
+footer: true
 ---
 
-*Interneto-links* is a web directory: a collection of categorized websites maintained inside Raindrop.io and exportable to other managers.
+> The name **Interneto** derives from "**inter**-communicated **net**works", with the **O** representing closed, circular connections.
 
-The directory is structured in 13 main categories with subcategories inside where are accordingly stored the links.
+**Interneto Links** is a curated web directory: a structured collection of categorized websites maintained in Raindrop.io and exported into Markdown-based documentation.
 
-These links are homepage websites [sub.domain.tld/](scheme://sub.domain.tld/index.html), but also there are two specific categories:
+## Project Background
 
-- Content: web content (articles, audios, images, videos). [domain.tld/content](scheme://sub.domain.tld/index.html)
-- Creators: content creators by its work. [domain.tld/@channel](scheme://sub.domain.tld/@channel)
+The project originated in 2020 by **David7ce**, with the goal of building a freely accessible, systematically organized database of websites.
 
-Besides that, there are hashtags to improve the classification.
+At first glance, the scope appears infeasible. Estimates suggest there are between 1–2 billion registered domains, with continuous churn (creation and expiration). However, the effective working set is significantly smaller:
 
-Interneto Links is hosted on [interneto.raindrop.page](https://interneto.raindrop.page/). You can export the collection and import it into [Linkwarden](https://github.com/linkwarden/linkwarden) if you prefer a self-hosted setup.
+- Fewer than ~200 million domains are actively maintained  
+- A large proportion are parked, inactive, or low-value  
+- Only a small fraction (roughly an order of magnitude lower) provide meaningful utility  
 
-## Classification system
+Sources such as the *Netcraft Web Server Survey (February 2026)* and the *Majestic Million* dataset support this general distribution, although exact percentages vary depending on methodology and definition of “active” or “useful”.
 
-13 main categories + Info:
+Given this, attempting exhaustive classification is neither tractable nor particularly useful. **Interneto instead operates under a selective curation model**, prioritizing:
 
-- !nfo: Info of the Interneto project
-- +Net: Internet related sites.
-- Arts: Arts related web and platform sites.
-- Business: Business and companies sites.
-- Creators: Public content creators of platforms, like individuals, teams, projects, companies, etc.
-- Content: Interesting audio, articles, images and video content of the internet.
-- Education: Education sites.
-- Ent: Entertainment sites.
-- Health: Health sites.
-- Media: Blogs, magazines and newspapers of all topics.
-- Reference: Reference sites of the internet.
-- Science: Science related websites.
-- Society: Sites related to society.
-- World: World and regional sites.
+- Functional relevance  
+- Technical or informational value  
+- Signal over noise  
 
-## Explanation
+## Historical Context
 
-This project came from the idea of getting a free accessible categorized database of the internet sites. There are between 1,000 and 2,000 millions unique domains however less than 200 millions are active, around 80% of websites are inactive by parked domains or similar. Data from:
+Earlier efforts attempted to manually index the web:
 
-- [Web Server Survey - Netcraft News](https://news.netcraft.com/archives/category/web-server-survey/)
-- [Majestic million](https://majestic.com/reports/majestic-million), first million domains with the most referring subnets.
+- **DMOZ (Open Directory Project)** — discontinued in 2017  
+- **Curlie** — a community-maintained successor, with limited activity  
 
-Categorize 200 million of domains that born and die is almost impossible but the main idea is to create a big list of functional and relevant webs. Two main projects have committed to do this work in the past: [DMOZ (Directory of Mozilla)](http://dmoz-odp.org) and [Curlie (Collector of URLs)](http://Curlie.org), however DMOZ closed in 2017 and Curlie is very inactive.
+These systems relied heavily on hierarchical taxonomy and human moderation. While structurally robust, they struggled with scalability and maintenance overhead.
 
-In addition, nowadays with the improvement of search engines the web directories have been abandoned and the searchers like Google, DuckDuckGo, Bing, Yandex are the trending.
+In contrast, modern discovery is dominated by:
 
-But web directories are still useful for various reasons:
+- Search engines (e.g., Google, Bing, DuckDuckGo, Yandex)  
+- AI-driven interfaces (e.g., ChatGPT, Claude, Gemini)  
 
-- Does not consume energy of the servers.
-- Does not use your privacy to target with ads and extract information.
-- Have a big list of webs about the same topic.
-- It is not sorted by marketing, ads or SEO position instead of search engines do.
-- It is totally free as always you have a local database of links.
-- You can download all the links and manage locally.
+These systems optimize for retrieval rather than structured understanding, which has contributed to the decline of traditional directories.
 
-The main issue about web directories is the way to search information, its hierarchical structure with categories and subcategories difficult the process of searching. Therefore, all efforts should be focus towards improving the quality of the directory structure. For that reason is necessary some tool that permit to categorize, organize and display content in a good way.
+## Why Web Directories Still Matter
 
-The most popular search engines in terms of proportions. The spider represents the web crawler, the AI bot that index the Web.
+Despite reduced mainstream usage, curated directories provide distinct advantages:
 
-- Google: 92.2% head of the spider controls the web
-- Bing (also Yahoo!): 3.77% from Microsoft one the biggest corporation
-- Baidu: 1.45% a big Chinese internet company
-- Yandex: 0.68% a big Russian internet company
-- At the bottom are represented the search engines that cares for your privacy, like DuckDuckGo (0.59%), Startpage, Qwant, PrivacyWall, YaCy (DAPP search engine). If you want to use the power of the spider you have to sell your soul.
+- **Low infrastructure overhead** — can be hosted as static content  
+- **Privacy-preserving** — no tracking, profiling, or ad targeting  
+- **High signal density** — manually filtered resources  
+- **Independence from SEO and marketing incentives**  
+- **Portability** — can be cloned, versioned, and used locally  
 
-![spider](https://interneto.github.io/resources/assets/web-spider.jpg)
+From a systems perspective, they function more like **knowledge bases** than search engines.
+
+## Core Challenge: Structure vs Discoverability
+
+The primary limitation of directories is not data collection, but **navigation**.
+
+Strict hierarchical categorization introduces trade-offs:
+
+| Approach            | Strengths                       | Limitations                      |
+|---------------------|---------------------------------|----------------------------------|
+| Hierarchical (tree) | Clear organization, predictable | Rigid, hard to explore laterally |
+| Tag-based (graph)   | Flexible, multi-dimensional     | Can become inconsistent/noisy    |
+| Search-driven       | Fast retrieval                  | Weak global structure            |
+
+Interneto leans toward a **hybrid model**:
+
+- Hierarchical categories for baseline structure  
+- Tagging for cross-cutting relationships  
+- Static export for performance and portability  
+
+## Implementation Approach
+
+The current workflow is:
+
+1. **Collection** — curated links stored in Raindrop.io  
+2. **Classification** — assignment of categories and tags  
+3. **Export** — transformation into Markdown files  
+4. **Presentation** — static website with navigable structure  
+
+This design prioritizes:
+
+- Simplicity  
+- Version control compatibility  
+- Long-term maintainability  
+
+## Related Projects
+
+Several modern projects operate in adjacent spaces:
+
+- AlternativeTo — large curated index of tools and resources  
+- FMHY — structured database of software alternatives  
+
+While these platforms emphasize breadth and community contribution, **Interneto focuses more narrowly on structured classification and long-term knowledge organization**.
+
+## Perspective
+
+Interneto does not attempt to index the entire web. Instead, it treats the web as a **high-entropy system**, where value emerges from selective filtering and structured organization.
+
+The underlying assumption is pragmatic:
+
+> A smaller, well-structured subset of the web can be more useful than an exhaustive but unstructured whole.
