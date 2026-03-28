@@ -1,12 +1,3 @@
----
-title: Dev
-description: Development tools and resources
-date: 2026-03-28
-next: false
-prev: false
-footer: true
----
-
 # Dev
 
 **Total Bookmarks:** 2322

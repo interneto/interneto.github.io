@@ -1,12 +1,3 @@
----
-title: NSFW
-description: Not Safe for Work
-date: 2026-03-28
-next: false
-prev: false
-footer: true
----
-
 # NSFW
 
 ## NSFW Indexes

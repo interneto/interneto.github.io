@@ -1,12 +1,3 @@
----
-title: Office & Productivity
-description: Office and productivity applications
-date: 2026-03-28
-next: false
-prev: false
-footer: true
----
-
 # Office & Productivity
 
 **Total Bookmarks:** 1245
