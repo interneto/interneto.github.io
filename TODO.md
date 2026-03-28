@@ -1,4 +1,4 @@
 # TODO
 
-- [ ] Improve site
-- [ ] Improve renderization time
+- Improve site
+- Improve renderization time
