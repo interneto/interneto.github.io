@@ -30,7 +30,7 @@ const withBase = (p: string): string =>
 export default defineConfig({
   title: 'Interneto Links',
   description: meta.description,
-  titleTemplate: ':title • freemediaheckyeah',
+  titleTemplate: ':title • Pass from the Internet to the Innernet',
   lang: 'en-US',
   lastUpdated: false,
   cleanUrls: true,

@@ -19,7 +19,7 @@ import type { DefaultTheme } from 'vitepress'
 // @unocss-include
 
 export const meta = {
-    name: 'freemediaheckyeah',
+    name: 'Interneto Links',
     description: 'Pass from the Internet to the Innernet!',
     hostname: 'https://interneto.github.io',
     keywords: ['stream', 'movies', 'gaming', 'reading', 'anime'],

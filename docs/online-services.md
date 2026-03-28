@@ -1991,7 +1991,6 @@ footer: true
 
 #### Web directory
 
-- ⭐ [Freemediaheckyeah](https://old.fmhy.net/)
 - ⭐ [Free Media Heck Yeah (fmhy)](https://fmhy.net/)
 - [Piratehive - Your Ultimate Digital Resource Hub](https://phantomcodex9.github.io/piratehive/)
 - [The Index](https://theindex.moe/)
