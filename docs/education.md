@@ -1163,7 +1163,7 @@
 
 #### Maths
 
-- [Mandelbrot](https://mandelbrot.ophir.dev/#{%22pos%22:{%22x%22:-0.4705000000000001,%22y%22:-0.2735000000000001},%22zoom%22:250})
+- [Mandelbrot](https://mandelbrot.ophir.dev/)
 - [Mandelbrot Set Explorer](http://mandel.gart.nz/)
 - [Fractal Explorer by Mytino](https://mytino.itch.io/fractal-explorer)
 - [Sr Examen](https://srexamen.com/)
