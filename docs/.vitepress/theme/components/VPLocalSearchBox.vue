@@ -80,7 +80,7 @@ const searchIndexData = shallowRef(localSearchIndex)
 
 // Hot Module Replacement - updates search index without full page reload during development
 if (import.meta.hot) {
-  import.meta.hot.accept('/@localSearchIndex', (m) => {
+  import.meta.hot.accept('/@localSearchIndex', (m: { default: typeof localSearchIndex } | undefined) => {
     if (m) {
       searchIndexData.value = m.default
     }
@@ -345,10 +345,10 @@ debouncedWatch(
     await nextTick()
     if (canceled) return
 
-    await new Promise((r) => {
+    await new Promise<void>((resolve) => {
       mark.value?.unmark({
         done: () => {
-          mark.value?.markRegExp(formMarkRegex(terms), { done: r })
+          mark.value?.markRegExp(formMarkRegex(terms), { done: resolve })
         }
       })
     })
@@ -1053,7 +1053,7 @@ function onMouseMove(e: MouseEvent) {
   flex-direction: column;
   gap: 16px;
   background: var(--vp-local-search-bg);
-  width: min(100vw - 60px, 900px);
+  width: min(100vw - 80px, 1100px);
   height: min-content;
   max-height: min(100vh - 128px, 900px);
   border-radius: 6px;

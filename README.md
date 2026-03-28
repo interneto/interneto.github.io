@@ -1,6 +1,6 @@
-# Interneto Docs (Docs-Only)
+# Interneto Links
 
-This repository is intentionally minimized to render and publish documentation only using VitePress.
+"Interneto Links" web using VitePress template based on [fmhy repository](https://github.com/fmhy/edit).
 
 ## What this repo contains
 
@@ -16,31 +16,19 @@ This repository is intentionally minimized to render and publish documentation o
 
 ## Local development
 
-1. Install dependencies:
-
-   pnpm install
-
-2. Run the docs dev server:
-
-   pnpm docs:dev
-
+1. Install dependencies: `pnpm install`
+2. Run the docs dev server: `pnpm docs:dev`
 3. Open the local URL shown in terminal (typically `http://localhost:5173`).
 
 ## Build for production
 
-Run:
+Run: `pnpm docs:build`
 
-pnpm docs:build
-
-Build output is generated in:
-
-`docs/.vitepress/dist`
+> Build output is generated in: `docs/.vitepress/dist`
 
 ## Preview production build locally
 
-Run:
-
-pnpm docs:preview
+Run: `pnpm docs:preview`
 
 ## Updating documentation
 
@@ -59,13 +47,8 @@ This is a static site. Any static host works.
 
 ### Option B: Docker
 
-Build and run with Docker Compose:
-
-   docker compose up --build -d
-
-Then open:
-
-<http://localhost:4173>
+Build and run with Docker Compose: `docker compose up --build -d`
+Then open: <http://localhost:4173>
 
 ## Useful scripts
 
