@@ -129,21 +129,5 @@ export const sidebar: DefaultTheme.Sidebar | DefaultTheme.NavItemWithLink[] = [
                 link: '/utility'
             }
         ]
-    },
-    {
-        text: 'More',
-        collapsed: true,
-        items: [
-            {
-                text: 'ℹ️ About',
-                link: '/about'
-            },
-            meta.build.nsfw
-                ? {
-                    text: '🔞 NSFW',
-                    link: 'https://rentry.org/NSFW-Checkpoint'
-                }
-                : {}
-        ]
     }
 ]

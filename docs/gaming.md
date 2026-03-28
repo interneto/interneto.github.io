@@ -1,3 +1,12 @@
+---
+title: Gaming
+description: Gaming platforms and services
+date: 2026-03-28
+next: false
+prev: false
+footer: true
+---
+
 # Gaming
 
 - [thomas-mauran/chess-tui: Play chess from your terminal 🦀](https://github.com/thomas-mauran/chess-tui?tab=readme-ov-file)

@@ -1,3 +1,12 @@
+---
+title: Utility
+description: Utility tools and applications
+date: 2026-03-28
+next: false
+prev: false
+footer: true
+---
+
 # Utility
 
 - ⭐ [Wintoys - Free download and install on Windows | Microsoft Store](https://apps.microsoft.com/detail/9p8ltpgcbzxd?hl=en-US&gl=ES)

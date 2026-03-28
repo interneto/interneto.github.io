@@ -1,5 +1,13 @@
-# News Media
+---
+title: News & Media
+description: News and media platforms
+date: 2026-03-28
+next: false
+prev: false
+footer: true
+---
 
+# News Media
 
 ## News-aggregator
 

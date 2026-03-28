@@ -1,5 +1,13 @@
-# File Management
+---
+title: File Management
+description: File storage and management solutions
+date: 2026-03-28
+next: false
+prev: false
+footer: true
+---
 
+# File Management
 
 ## Backup
 

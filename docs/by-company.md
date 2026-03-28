@@ -1,3 +1,12 @@
+---
+title: By Comany
+description: Useful services organized by company
+date: 2026-03-28
+next: false
+prev: false
+footer: true
+---
+
 # by-Company
 
 - [Meta - Platforms and Technologies](https://www.meta.com/en-gb/technologies/)

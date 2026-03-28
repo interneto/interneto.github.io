@@ -1,3 +1,12 @@
+---
+title: System Administation
+description: System administration tools
+date: 2026-03-28
+next: false
+prev: false
+footer: true
+---
+
 # Sys Admin
 
 - [PIVPN: Simplest way to setup a VPN](https://pivpn.io/)

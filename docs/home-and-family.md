@@ -1,5 +1,13 @@
-# Home & Family
+---
+title: Home & Family
+description: Home automation and family services
+date: 2026-03-28
+next: false
+prev: false
+footer: true
+---
 
+# Home & Family
 
 ## Food apps
 

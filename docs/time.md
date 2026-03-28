@@ -1,3 +1,12 @@
+---
+title: Time
+description: Time management and scheduling tools
+date: 2026-03-28
+next: false
+prev: false
+footer: true
+---
+
 # Time
 
 - [UTC Time Now](https://www.utctime.net/)
