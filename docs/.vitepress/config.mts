@@ -21,7 +21,8 @@ import { replaceNoteLink } from './utils/markdown'
 
 // @unocss-include
 
-const baseUrl = process.env.GITHUB_ACTIONS ? '/edit' : '/'
+// Sitio desplegado en https://interneto.github.io/
+const baseUrl = '/' // for root GitHub Pages domain
 export default defineConfig({
   title: 'Interneto Links',
   description: meta.description,
