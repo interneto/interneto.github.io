@@ -1,6 +1,6 @@
 ---
-title: Monthly Updates [Sept]
-description: Sept 2025 updates
+title: How To Categorize Links
+description: Practical approach to classify links with folders and tags
 date: 2025-08-31
 next: false
 prev: false
@@ -11,7 +11,7 @@ footer: true
 
 :::
 
-## How to categorize links?
+# How To Categorize Links?
 
 ### Problem with classification
 

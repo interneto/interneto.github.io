@@ -1,6 +1,6 @@
 ---
-title: Monthly Updates [Sept]
-description: Sept 2025 updates
+title: What Is Information?
+description: Data to information to knowledge for saved links
 date: 2025-08-31
 next: false
 prev: false
@@ -11,7 +11,7 @@ footer: true
 
 :::
 
-## What is information? How to create knowledge?
+# What Is Information? How To Create Knowledge?
 
 A lightweight model for turning your saved links into durable understanding.
 
