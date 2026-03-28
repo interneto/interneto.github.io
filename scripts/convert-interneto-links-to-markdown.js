@@ -9,7 +9,7 @@ const INPUT_CSV = path.resolve(ROOT_DIR, 'interneto-links.csv');
 const OUTPUT_DIR = path.resolve(ROOT_DIR, 'docs');
 
 const CATEGORY_CONFIG = [
-  { folder: 'by-Company', file: 'by-company.md', description: 'Useful services organized by company' },
+  { folder: 'By Company', file: 'by-company.md', description: 'Useful services organized by company' },
   { folder: 'OS', file: 'os.md', description: 'Operating systems and tools' },
   { folder: 'Al Tools & Services', file: 'ai-tools-and-services.md', description: 'Artificial Intelligence tools and services' },
   { folder: 'Dev', file: 'dev.md', description: 'Development tools and resources' },
@@ -19,7 +19,7 @@ const CATEGORY_CONFIG = [
   { folder: 'Gaming', file: 'gaming.md', description: 'Gaming platforms and services' },
   { folder: 'Health & Fitness', file: 'health-and-fitness.md', description: 'Health and fitness applications' },
   { folder: 'Home & Family', file: 'home-and-family.md', description: 'Home automation and family services' },
-  { folder: 'InterComm', file: 'intercomm.md', description: 'Communication and collaboration tools' },
+  { folder: 'Internet Communication', file: 'intercomm.md', description: 'Communication and collaboration tools' },
   { folder: 'Multimedia', file: 'multimedia.md', description: 'Multimedia and content creation tools' },
   { folder: 'News Media', file: 'news-media.md', description: 'News and media platforms' },
   { folder: 'Office & Productivity', file: 'office-and-productivity.md', description: 'Office and productivity applications' },
@@ -141,6 +141,14 @@ function createNode() {
   return { items: [], children: new Map() };
 }
 
+function countItems(node) {
+  let count = node.items.length;
+  for (const child of node.children.values()) {
+    count += countItems(child);
+  }
+  return count;
+}
+
 function addToTree(group, pathParts, item) {
   if (!pathParts.length) {
     group.items.push(item);
@@ -160,7 +168,13 @@ function addToTree(group, pathParts, item) {
 }
 
 function renderItems(lines, items) {
-  for (const item of items) {
+  // Sort items: favorites first, then others
+  const sorted = [...items].sort((a, b) => {
+    if (a.favorite === b.favorite) return 0;
+    return a.favorite ? -1 : 1;
+  });
+
+  for (const item of sorted) {
     const star = item.favorite ? '⭐ ' : '';
     lines.push(`- ${star}[${escapeMd(item.title)}](${item.url})`);
   }
@@ -197,6 +211,10 @@ function renderGroupFile(groupName, group, description) {
     `# ${escapeMd(groupName)}`,
     ''
   ];
+
+  const totalBookmarks = countItems(group);
+  lines.push(`**Total Bookmarks:** ${totalBookmarks}`);
+  lines.push('');
 
   renderItems(lines, group.items);
   renderChildren(lines, group.children, 2);
