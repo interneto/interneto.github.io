@@ -16,13 +16,17 @@ import { generateFeed, generateImages, generateMeta } from './hooks'
 import { defs, emojiRender } from './markdown/emoji'
 import { headersPlugin } from './markdown/headers'
 import { toggleStarredPlugin } from './markdown/toggleStarred'
-// import { transformsPlugin } from './transformer'
 import { replaceNoteLink } from './utils/markdown'
 
 // @unocss-include
 
-// Sitio desplegado en https://interneto.github.io/
-const baseUrl = '/' // for root GitHub Pages domain
+// Base del sitio (correcto para https://interneto.github.io/)
+const base = '/'
+
+// Helper para evitar rutas absolutas rotas
+const withBase = (p: string): string =>
+  `${base}${p.replace(/^\/+/, '')}`
+
 export default defineConfig({
   title: 'Interneto Links',
   description: meta.description,
@@ -31,73 +35,50 @@ export default defineConfig({
   lastUpdated: false,
   cleanUrls: true,
   appearance: true,
-  base: baseUrl,
+  base,
+
   srcExclude: ['README.md', 'single-page', 'z/**', 'apps-import/**'],
   ignoreDeadLinks: true,
+
   sitemap: {
     hostname: meta.hostname
   },
+
   head: [
     ['meta', { name: 'theme-color', content: '#7bc5e4' }],
     ['meta', { name: 'og:type', content: 'website' }],
     ['meta', { name: 'og:locale', content: 'en' }],
-    ['link', { rel: 'icon', href: '/favicon.ico' }],
-    ['link', { rel: 'icon', type: 'image/png', sizes: '32x32', href: '/favicon-32x32.png' }],
-    ['link', { rel: 'icon', type: 'image/png', sizes: '16x16', href: '/favicon-16x16.png' }],
-    // PWA
-    ['link', { rel: 'manifest', href: '/manifest.json' }],
-    ['link', { rel: 'alternate icon', href: '/favicon.ico' }],
-    ['link', { rel: 'mask-icon', href: '/note.svg', color: '#000000ff' }],
-    ['meta', { name: 'keywords', content: meta.keywords.join(' ') }],
-    ['link', { rel: 'apple-touch-icon', href: '/apple-touch-icon.png', sizes: '180x180' }],
+
+    ['link', { rel: 'icon', href: withBase('favicon.ico') }],
+    ['link', { rel: 'icon', type: 'image/png', sizes: '32x32', href: withBase('favicon-32x32.png') }],
+    ['link', { rel: 'icon', type: 'image/png', sizes: '16x16', href: withBase('favicon-16x16.png') }],
+
+    ['link', { rel: 'manifest', href: withBase('manifest.json') }],
+    ['link', { rel: 'alternate icon', href: withBase('favicon.ico') }],
+    ['link', { rel: 'mask-icon', href: withBase('note.svg'), color: '#000000ff' }],
+    ['link', { rel: 'apple-touch-icon', href: withBase('apple-touch-icon.png'), sizes: '180x180' }],
+
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'default' }],
-    // Bing site verification
-    [
-      'meta',
-      {
-        name: 'msvalidate.01',
-        content: 'F3028112EF6F929B562F4B18E58E3691'
-      }
-    ],
-    // Google site verification
-    [
-      'meta',
-      {
-        name: 'google-site-verification',
-        content: 'XCq-ZTw6VJPQ7gVNEOl8u0JRqfadK7WcsJ0H598Wv9E'
-      }
-    ],
-    // Redirect to main site if embedded in iframe
-    [
-      'script',
-      {},
-      `
-        (function() {
-          if (window.self !== window.top) {
-              window.top.location = window.location.href;
-          }
-        })();
-        `
-    ]
   ],
+
   transformHead: async (context) => generateMeta(context, meta.hostname),
+
   buildEnd: async (context) => {
     generateImages(context)
       .then(() => generateFeed(context))
       .finally(() => consola.success('Success!'))
   },
+
   vite: {
     css: {
       preprocessorOptions: {
         scss: {
-          api: 'modern-compiler'
+          charset: false
         }
       }
     },
-    // ssr: {
-    //   noExternal: ['@fmhy/components']
-    // },
+
     resolve: {
       alias: [
         {
@@ -120,18 +101,23 @@ export default defineConfig({
         }
       ]
     },
+
     optimizeDeps: { exclude: ['workbox-window'] },
+
     plugins: [
       OptimizeExclude(),
+
       Terminal({
         console: 'terminal',
         output: ['console', 'terminal']
       }),
+
       UnoCSS({
         configFile: fileURLToPath(
           new URL('../../unocss.config.ts', import.meta.url)
         )
       }),
+
       AutoImport({
         dts: '../.cache/imports.d.ts',
         imports: ['vue', 'vitepress'],
@@ -141,75 +127,61 @@ export default defineConfig({
           filepath: './.cache/imports.json'
         }
       }),
+
       VitePWA({
         registerType: 'autoUpdate',
+
         workbox: {
           globPatterns: ['**/*.{js,css,html,ico,png,svg,woff2}'],
-          runtimeCaching: [
-            {
-              urlPattern: /^https:\/\/fonts\.googleapis\.com\/.*/i,
-              handler: 'CacheFirst',
-              options: {
-                cacheName: 'google-fonts-cache',
-                expiration: {
-                  maxEntries: 10,
-                  maxAgeSeconds: 60 * 60 * 24 * 365 // 365 days
-                },
-                cacheableResponse: {
-                  statuses: [0, 200]
-                }
-              }
-            }
-          ]
         },
+
         manifest: {
           name: 'Interneto Links',
           short_name: 'Interneto',
           description: 'The largest collection of free stuff on the internet!',
           theme_color: '#000000ff',
           background_color: '#000000ff',
+
           display: 'standalone',
           orientation: 'portrait',
-          scope: '/',
-          start_url: '/',
+
+          start_url: base,
+          scope: base,
+
           icons: [
             {
-              src: '/favicon.ico',
-              sizes: '16x16',
-              type: 'image/x-icon'
-            },
-            {
-              src: '/android-chrome-192x192.png',
+              src: withBase('android-chrome-192x192.png'),
               sizes: '192x192',
-              type: 'image/png',
-              purpose: 'any maskable'
+              type: 'image/png'
             },
             {
-              src: '/android-chrome-512x512.png',
+              src: withBase('android-chrome-512x512.png'),
               sizes: '512x512',
-              type: 'image/png',
-              purpose: 'any maskable'
+              type: 'image/png'
             }
           ]
         }
-      }),
+      })
     ],
+
     build: {
-      // Shut the fuck up
       chunkSizeWarningLimit: Number.POSITIVE_INFINITY
     }
   },
+
   markdown: {
     emoji: { defs },
     config(md) {
       md.use(emojiRender)
       md.use(toggleStarredPlugin)
-      meta.build.api && md.use(headersPlugin)
+      if (meta.build.api) md.use(headersPlugin)
       replaceNoteLink(md)
     }
   },
+
   themeConfig: {
     search,
+
     footer: {
       message:
         '<a href="https://github.com/interneto" target="_blank" rel="noopener noreferrer">GitHub</a> · <a href="https://interneto.raindrop.page/" target="_blank" rel="noopener noreferrer">raindrop.io</a> · <a href="https://twitter.com/internetoOK" target="_blank" rel="noopener noreferrer">X</a>',
@@ -217,10 +189,12 @@ export default defineConfig({
     },
 
     outline: 'deep',
+
     logo: {
-      src: '/icon.png',
+      src: withBase('icon.png'),
       alt: 'Interneto Logo'
     },
+
     nav,
     sidebar,
   }

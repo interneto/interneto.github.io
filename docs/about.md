@@ -8,7 +8,7 @@ footer: true
 ---
 
 > [!note]
-> The name **Interneto** derives from "**inter**-communicated **net**works", with the **O** representing closed, circular connections.
+> The name **Interneto** derives from "**Inter**-communicated **Net**works", with the **O** representing closed circular connections.
 
 **Interneto Links** is a curated web directory: a structured collection of categorized websites maintained in Raindrop.io and exported into Markdown-based documentation.
 
