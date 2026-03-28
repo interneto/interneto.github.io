@@ -5,9 +5,7 @@ defineProps<{ title: string; description?: string; image?: string }>()
 <template>
   <span
     tw="w-full h-full bg-black flex flex-col"
-    :style="{
-      backgroundImage: `url(${image})`
-    }"
+    :style="image ? { backgroundImage: `url(${image})` } : undefined"
   >
     <span
       tw="p-10 w-full min-h-0 grow flex flex-col items-center justify-between"

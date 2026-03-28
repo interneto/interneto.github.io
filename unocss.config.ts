@@ -21,7 +21,6 @@ import {
   presetAttributify,
   presetIcons,
   presetUno,
-  presetWebFonts,
   transformerDirectives
 } from 'unocss'
 
@@ -128,11 +127,6 @@ export default defineConfig({
               r.text()
             )
         }
-      }
-    }),
-    presetWebFonts({
-      fonts: {
-        mono: 'Geist Mono'
       }
     })
   ],
