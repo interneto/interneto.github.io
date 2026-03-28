@@ -13,7 +13,7 @@ defineProps<{ title: string; description?: string; image?: string }>()
       <span tw="w-full flex justify-between items-center text-5xl font-medium">
         <span tw="flex items-center">
           <span tw="text-zinc-100 ml-2 mt-1 font-semibold">
-            freemediaheckyeah
+            Interneto Links
           </span>
         </span>
       </span>
