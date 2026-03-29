@@ -17,3 +17,13 @@
     - Created `.pnpmrc` with optimization settings (hoisted node_modules, strict-peer-dependencies)
     - Added `docs:build:prod` and `clean` scripts for CI/CD
     - **Result**: Build time reduced from 50s → 26s (52% faster), all warnings eliminated
+- [x] **Sort links by alphabetical order, while maintaining favorites at the beginning**
+    - Modified `renderItems()` in conversion script to sort alphabetically with `localeCompare()`
+    - Implemented stable sort: favorites first (⭐), then non-favorites
+    - Within each group (favorites/non-favorites), items sorted alphabetically by title
+    - Result: Clean, organized output with important links always visible at top
+- [x] **Support multiple source-code URLs separated by commas**
+    - Updated `extractSourceCodeUrls()` to handle multiple URLs from `Source-code:` field
+    - Supports format: `Source-code: url1, url2, url3`
+    - Renders as: `- ⭐ **[title](url)** / [🔗](url1), [🔗](url2), [🔗](url3)`
+    - Flexible parsing with comma separator tolerance

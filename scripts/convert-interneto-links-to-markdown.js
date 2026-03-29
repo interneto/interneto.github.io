@@ -124,12 +124,18 @@ function normalizeFolder(folder) {
     .map((s) => INPUT_CHILD_ALIAS.get(s) || s);
 }
 
-function extractSourceCodeUrl(note) {
-  // Extract URL directly after "Source-code: " from note field
+function extractSourceCodeUrls(note) {
+  // Extract all URLs after "Source-code: " from note field
+  // Handles both single and comma-separated URLs
   if (note) {
-    const sourceCodeMatch = note.match(/Source-code:\s*(\S+)/i);
+    const sourceCodeMatch = note.match(/Source-code:\s*(.+?)(?=,\s*[A-Za-z]|$)/i);
     if (sourceCodeMatch && sourceCodeMatch[1]) {
-      return sourceCodeMatch[1];
+      // Split by comma and clean up URLs
+      const urls = sourceCodeMatch[1]
+        .split(',')
+        .map((url) => url.trim())
+        .filter((url) => url.length > 0 && url.startsWith('http'));
+      return urls.length > 0 ? urls : null;
     }
   }
   return null;
@@ -180,10 +186,14 @@ function addToTree(group, pathParts, item) {
 }
 
 function renderItems(lines, items) {
-  // Sort items: favorites first, then others
+  // Sort items: favorites first, then alphabetically by title within each group
   const sorted = [...items].sort((a, b) => {
-    if (a.favorite === b.favorite) return 0;
-    return a.favorite ? -1 : 1;
+    // First priority: favorites first
+    if (a.favorite !== b.favorite) {
+      return a.favorite ? -1 : 1;
+    }
+    // Second priority: alphabetical order by title
+    return a.title.localeCompare(b.title, undefined, { numeric: true, sensitivity: 'base' });
   });
 
   for (const item of sorted) {
@@ -196,9 +206,12 @@ function renderItems(lines, items) {
       line += `[${escapeMd(item.title)}](${item.url})`;
     }
     
-    // Add source-code link if available with separator
-    if (item.sourceCode) {
-      line += ` / [🔗](${item.sourceCode})`;
+    // Add source-code links if available with separator
+    if (item.sourceCodeUrls && item.sourceCodeUrls.length > 0) {
+      const codeLinks = item.sourceCodeUrls
+        .map((url) => `[🔗](${url})`)
+        .join(', ');
+      line += ` / ${codeLinks}`;
     }
     
     lines.push(line);
@@ -279,7 +292,7 @@ function run() {
       title,
       url,
       favorite: String(row.favorite || '').toLowerCase() === 'true',
-      sourceCode: extractSourceCodeUrl(row.note)
+      sourceCodeUrls: extractSourceCodeUrls(row.note)
     };
 
     addToTree(groups.get(child), folderParts.slice(2), item);
