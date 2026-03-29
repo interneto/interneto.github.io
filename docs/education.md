@@ -7,8 +7,7 @@
 - [Eon Reality - Leading Xr And Ai Solutions For Education & Industry](https://eonreality.com)
 - [Memodi](https://memodiapp.com)
 
-## academy
-
+## Academy
 - [Academia Mai](http://academia-mai.com)
 - [Academia Mega Canarias](https://academiamegacanarias.com)
 - [Academia Mundo Crypto](https://academia.mundocrypto.es/)
@@ -48,8 +47,7 @@
 - [Webflow University](https://university.webflow.com)
 - [Yfdsfam](https://www.yfdsfam.com/)
 
-### coding-academy
-
+### Coding academy
 - [4 Geeks Academy](https://4geeksacademy.com/)
 - [Academia De Informática Cei Master Pc](http://www.ceimaster.com/)
 - [Algomaster.io - Master Software Engineering Interviews](https://algomaster.io/)
@@ -104,8 +102,7 @@
 - [W3schools Campus | Launch Your Tech Career With Coding Courses & Certificates](https://campus.w3schools.com/)
 - [Wftutorials - Recent Tutorials](https://app.wftutorials.com/dashboard/)
 
-### english-academy
-
+### English academy
 - [Academia De Inglés](https://www.imllazubia.com)
 - [British Council](https://www.britishcouncil.es)
 - [Cambridge School](https://www.cambridgeschool.com)
@@ -123,8 +120,7 @@
 - [Oxford Online English](https://www.oxfordonlineenglish.com)
 - [Oxfordhouse Bcn](https://oxfordhousebcn.com)
 
-### search-academy
-
+### Search academy
 - [Academias.com](https://www.academias.com)
 - [Clases Fran](https://www.paypal.com/paypalme/ayudaantonio)
 - [Online Universities](https://www.onlineuniversities.com)
@@ -134,12 +130,10 @@
 - [Universia](https://www.universia.net/es/home.html)
 - [Unprofesor.com](https://www.unprofesor.com)
 
-## courses
-
+## Courses
 - [Learn Computer Science | Free Computer Science Education Online](https://www.learncomputerscienceonline.com/)
 
-### courses-platform
-
+### Courses platform
 - [365 Data Science](https://365datascience.com/)
 - [Aimchess: Learn Chess Your Way](https://aimchess.com/)
 - [Alison](https://alison.com)
@@ -205,8 +199,7 @@
 - [W3schools Courses](https://courses.w3schools.com)
 - [World Science U](https://worldscienceu.com)
 
-### personal-courses
-
+### Personal courses
 - [Adventjs](https://adventjs.dev/)
 - [Affinity Photo Tutorials](https://affinityrevolution.com/)
 - [Aprende Magia Con Luis Piedrahita](https://www.aprendemagia.com/)
@@ -262,8 +255,7 @@
 - [Webtraining](https://webtraining.zone/)
 - [Yes I'm A Designer](https://yesimadesigner.com/)
 
-### search-courses
-
+### Search courses
 - [Afs Formación](https://www.afsformacion.com)
 - [Avanzaentucarrera](https://www.avanzaentucarrera.com)
 - [Caja De Letrass](https://cajadeletras.es)
@@ -280,14 +272,12 @@
 - [Servicio Canario De Empleo - Cursos](http://www3.gobiernodecanarias.org/empleo/portal/web/sce/servicios/cursos)
 - [Study.com](https://study.com)
 
-## calculator
-
+## Calculator
 - [Calculateyogi - Free Online Calculators For Everything](https://calculateyogi.com/)
 - [Calculator Soup - Online Calculators](https://www.calculatorsoup.com/)
 - [Rapidtables](https://www.rapidtables.com/)
 
-### gematria
-
+### Gematria
 - [Gematria Calculator](https://www.gematriacalculator.net/)
 - [Gematria Calculator](https://gematriacalculator.us/)
 - [Gematrinator - Gematria Calculator](https://gematrinator.com/calculator)
@@ -295,8 +285,7 @@
 - [Gematrix.org](https://www.gematrix.org)
 - [Hebrew Gematria Calculator](https://www.gimatria.co.il/)
 
-### math-calculator
-
+### Math calculator
 - ⭐ **[Geogebra - Free Math Tools](https://www.geogebra.org)** / [🔗](https://github.com/geogebra/geogebra)
 - ⭐ **[Kde Cantor](https://cantor.kde.org/)**
 - ⭐ **[Wolfram|alpha](https://www.wolframalpha.com/)**
@@ -347,8 +336,7 @@
 - [Symbolab](https://es.symbolab.com/)
 - [Ziadoua/zcalc · Github](https://github.com/ziadOUA/zCalc)
 
-### math-graphing-calculator
-
+### Math Graphing Calculator
 - [3d Surface Plotter](https://academo.org/demos/3d-surface-plotter)
 - [Calcplot3d](https://math.libretexts.org/Learning_Objects/CalcPlot3D_Interactive_Figures/CalcPlot3D)
 - [Cpm 3d Plotter](https://technology.cpm.org/general/3dgraph)
@@ -370,8 +358,7 @@
 - [Surface Point Clouds](http://kovacsv.github.io/JSModeler/documentation/examples/surfacepc.html)
 - [Zweigmedia - Surface Grapher](https://www.zweigmedia.com/threeDgraphFancy/newThreeDGrapher.php)
 
-### units-converter
-
+### Units converter
 - [Advancedconverter](https://www.advancedconverter.com/)
 - [Calculadora De Horas](https://www.topster.es/calendario/stundenrechner.php)
 - [Calculadoras.uno](https://www.calculadoras.uno)
@@ -390,8 +377,7 @@
 - [Unitpedia](https://www.unitpedia.com)
 - [Unix Time Stamp - Epoch Converter](https://www.unixtimestamp.com/)
 
-### physics-calculator
-
+### Physics calculator
 - ⭐ **[Advanced Earth Curvature Calculator - Walter Blisnis](https://walter.bislins.ch/bloge/index.asp?page=Advanced+Earth+Curvature+Calculator)**
 - ⭐ **[Flat Earth Dome Model - Walter Blisnis](http://walter.bislins.ch/bloge/index.asp?page=Flat+Earth+Dome+Model&demo=Intro#App)**
 - [Atmospheric Refraction Calculator - Iac](https://gtc-phase2.gtc.iac.es/science/astroweb/atmosRefraction.php)
@@ -409,16 +395,14 @@
 - [Shane's Personal Celestial Sphere Model](https://adl.place/shanes-fe-model)
 - [Walter Bislin Model](https://walterbislin.journalofgeocentriccosmology.org/)
 
-### sleep-cycle-calculator
-
+### Sleep Cycle Calculator
 - ⭐ **[Sleepytime - Bedtime Calculator](https://sleepytime.cc/)**
 - [Rico-vz/sleepsagecli: Optimal Sleep Calculator Directly From Your Terminal ✨](https://github.com/rico-vz/SleepSageCLI)
 - [Sleep Calculator](https://sleepcalculator.com/)
 - [Sleep Calculator: Ideal Bedtime & Wake Up Times - Sleepytime](https://sleepopolis.com/calculators/sleep/)
 - [Wake Up Time - Sleep And Wake Up Calculator](https://wakeupti.me/)
 
-## classroom
-
+## Classroom
 - [Albert](https://www.albert.io/home)
 - [Bigbluebutton Demo](https://demo.bigbluebutton.org/gl)
 - [Blackboard.com](https://www.blackboard.com)
@@ -439,8 +423,7 @@
 - [Veyon - Cross-platform Computer Control And Classroom Management](https://veyon.io/en)
 - [Wiziq](https://www.wiziq.com)
 
-## dictionary
-
+## Dictionary
 - [Archive / Gnome-dictionary · Gitlab](https://gitlab.gnome.org/Archive/gnome-dictionary)
 - [Artha ~ The Open Thesaurus](https://sourceforge.net/projects/artha/)
 - [Cli-dictionary/cli-dictionary · Github](https://github.com/cli-dictionary/cli-dictionary)
@@ -482,8 +465,7 @@
 - [Wörterbuch Der Deutschen Sprache ✒️ Duden Online](https://www.duden.de/woerterbuch)
 - [Yomitan - Pop-up Dictionary Browser Extension For Language Learning](https://yomitan.wiki/) / [🔗](https://github.com/yomidevs/yomitan)
 
-### dictionary-of-chinese
-
+### Dictionary of Chinese
 - [Baike.com](https://www.baike.com)
 - [Chinese Dictionary](https://dictionary.writtenchinese.com)
 - [Dictionary Youdao](https://dict.youdao.com)
@@ -493,8 +475,7 @@
 - [漢語大詞典 | Chinese Dictionary Compendium 漢語辭典總匯](https://hanyucidian.org/)
 - [词典|汉语词典|现代汉语词典|在线词典-汉语言文学网](https://cd.hwxnet.com/)
 
-### dictionary-of-english
-
+### Dictionary of English
 - [Artha](http://artha.sourceforge.net/wiki/index.php/Home)
 - [Bab.la](https://bab.la)
 - [Cambridge Dictionary](https://dictionary.cambridge.org)
@@ -532,8 +513,7 @@
 - [Wordweb: English Dictionary](https://wordweb.info/)
 - [Yourdictionary](https://www.yourdictionary.com/)
 
-### dictionary-of-spanish
-
+### Dictionary of Spanish
 - [¿qué Significa?](https://www.qsignifica.net/)
 - [A | Real Academia De La Lengua](https://www.ellibrototal.com/ltotal/?t=16&d=1)
 - [Decel - Diccionario Etimológico Castellano En Línea](https://etimologias.dechile.net/)
@@ -554,8 +534,7 @@
 - [Sm Diccionarios](http://clave.smdiccionarios.com/app.php)
 - [Wiktionary Es - Wikimedia](https://dumps.wikimedia.org/eswiktionary/)
 
-### semantic-&-thesaurus
-
+### Semantic & Thesaurus
 - ⭐ **[Babelnet | The Largest Multilingual Encyclopedic Dictionary And Semantic Network](https://babelnet.org/)**
 - ⭐ **[Conceptnet - Multilingual Graph](https://conceptnet.io/)**
 - [Abbreviations](https://www.abbreviations.com)
@@ -584,20 +563,17 @@
 - [Wordhippo](https://www.wordhippo.com)
 - [Wordtype.org](https://wordtype.org/)
 
-### how-to-pronounce
-
+### How to pronounce
 - [Forvo](https://forvo.com)
 - [How To Pronounce](https://www.howtopronounce.com)
 - [Howjsay - Pronunciation](https://howjsay.com)
 - [Tophonetics](https://tophonetics.com/)
 
-### words
-
+### Words
 - [Palabras Con](https://www.palabrascon.com/)
 - [Palabras Help](https://palabras.help/)
 
-## flashcard-learning-tool
-
+## Flashcard learning tool
 - [Anki - Powerful, Intelligent Flashcards](https://apps.ankiweb.net/)
 - [Ankidroid/anki-android · Github](https://github.com/ankidroid/Anki-Android)
 - [David-swift/memorize: Study Flashcards In A Native Gnome App](https://github.com/david-swift/Memorize)
@@ -607,8 +583,7 @@
 - [Studylib.net - Essays, Homework Help, Flashcards, Research Papers, Book Reports, And Others](https://www.studylib.net/)
 - [Wbernard/memorado: Memorize Anything](https://github.com/wbernard/Memorado)
 
-## human-test
-
+## Human Test
 - [123test](https://www.123test.com)
 - [A Real Me](https://www.arealme.com)
 - [Color Blind Test](https://www.colorblindnesstest.org/)
@@ -622,19 +597,16 @@
 - [Wheel Of Life - Online Test](https://wheeloflife.noomii.com/)
 - [Wheel Of Life - Take The Assessment](https://wheeloflife.io/)
 
-### reaction-test
-
+### Reaction test
 - [Click Speed Test](https://clickspeeder.com/)
 - [Click Speed Test](https://www.clickspeedtester.com/)
 - [Human Benchmark](https://www.humanbenchmark.com)
 
-### test-iq
-
+### Test IQ
 - [Iq Test Prep](https://iqtestprep.com)
 - [My Iq Tested](https://www.myiqtested.com)
 
-## languages
-
+## Languages
 - [8belts](https://w.8belts.com)
 - [Chino Simplificado](https://www.chinosimplificado.com)
 - [Eingleses](https://eingleses.com)
@@ -656,11 +628,9 @@
 - [Ricotta](https://ricotta.affineur.io/)
 - [Yellowbridge Chinese](https://www.yellowbridge.com)
 
-### english-language
+### English language
 
-
-#### english-test
-
+#### English test
 - [Altissia](https://altissia.org/free-english-language-test)
 - [Cambridge Speak & Improve](https://speakandimprove.com/)
 - [Cambridge Test English](https://www.cambridgeenglish.org/test-your-english)
@@ -678,8 +648,7 @@
 - [Test English](https://www.esl-idiomas.com/es/pruebas-en-linea-ingles.htm)
 - [Test English](https://www.test-english.com)
 
-#### english-exam
-
+#### English exam
 - [Cambridge English](https://www.cambridgeenglish.org)
 - [Cambrigemb](https://cambridgemb.com)
 - [Ets](https://www.ets.org)
@@ -687,8 +656,7 @@
 - [Oxford University Press - Elt Test English](https://elt.oup.com/feature/global/oxford_test_of_english?cc=global&selLanguage=en)
 - [Pearson Vue](https://home.pearsonvue.com)
 
-#### english-online
-
+#### English online
 - [Amigos Ingleses](https://www.amigosingleses.com)
 - [Aprende Inglés](https://aprenderingles.org)
 - [Bbc Learning English](http://www.bbc.co.uk/learningenglish)
@@ -710,8 +678,7 @@
 - [Voa Learn English](https://learningenglish.voanews.com)
 - [Write & Improve](https://writeandimprove.com/)
 
-### languages-app
-
+### Languages app
 - [Andy English Bot](https://andychatbot.com)
 - [Babbel](https://www.babbel.com)
 - [Boldvoice](https://www.boldvoice.com/?ref=producthunt)
@@ -764,8 +731,7 @@
 - [Yabla](https://yabla.com/)
 - [Yask](https://yask.app/es)
 
-## music-theory
-
+## Music Theory
 - [Christofmusic](https://christofmusic.com)
 - [Freepats Project - Sound Banks](https://freepats.zenvoid.org/)
 - [Imusic-school](https://www.imusic-school.com/en)
@@ -782,8 +748,7 @@
 - [Swift Guitar Lessons](https://www.swiftguitar.com)
 - [Truefire](https://truefire.com)
 
-## plant-identifier
-
+## Plant identifier
 - [Birdnet Sound Id – The Easiest Way To Identify Birds By Sound](https://birdnet.cornell.edu/)
 - [Blossom - Conceptivapps](https://conceptivapps.com/blossom/index.html)
 - [Flora Incognita](https://floraincognita.com)
@@ -794,15 +759,13 @@
 - [Plant.id](https://web.plant.id)
 - [Plantsnap](https://www.plantsnap.com)
 
-## religion
-
+## Religion
 - [Eprex - Saints](https://eprex.app/)
 - [Evangelizo](https://evangelizo.org/)
 - [Ibreviary](https://www.ibreviary.org/en/)
 - [Rezandovoy - Rezandovoy](https://www.rezandovoy.org/)
 
-### bible
-
+### Bible
 - [Bible](https://www.bible.com/)
 - [Bible 365](https://bible365.uk/)
 - [Bible Gateway - 12 Niv](https://www.biblegateway.com/passage/?search=12&version=NIV)
@@ -824,21 +787,17 @@
 - [Online Bible - Find Equidistant Letter Sequences (els Codes)](https://online-bible-code.ezekielvictor.com/)
 - [World English Bible](https://worldenglish.bible/)
 
-## science
+## Science
 
-
-### alter-science
-
+### Alter Science
 - [Lost Age Secrets](https://www.lostagesecrets.com/)
 - [Occult Mysteries](http://www.occult-mysteries.org/)
 - [Occult Sciences](http://www.occultsciences.org/)
 
-#### alchemy
-
+#### Alchemy
 - [Alchemy Web Site](https://www.alchemywebsite.com)
 
-#### astrology
-
+#### Astrology
 - [Astro.com](https://www.astro.com/horoscope)
 - [Astrolabe: Solar Fire V9](https://alabe.com/solarfireV9.html)
 - [Astrolink - Mapa Astral Gratuito](https://www.astrolink.com.br/)
@@ -860,27 +819,21 @@
 - [Starla App - Astrology & Soulmate Drawing](https://www.askstarla.com/)
 - [Vedic Astrology (jyotish) Software From Geovision Software Inc.](http://www.parashara.com/)
 
-#### chiromancy
-
+#### Chiromancy
 - [Las Líneas De La Mano](https://lineasdelamano.net/)
 
-#### kabbalah
-
+#### Kabbalah
 - [Arquetipos Raúl Durán](https://www.arquetiposraulduran.com/)
 
-#### numerology
-
+#### Numerology
 - [Numerologist.com](https://numerologist.com/)
 
-#### tarot
-
+#### Tarot
 - [Aleister Crowley Tarot](https://www.aleistercrowleytarot.com/)
 
-### applied-science
+### Applied Science
 
-
-#### astronomy
-
+#### Astronomy
 - [Ap-i.net](https://www.ap-i.net)
 - [Astroafición](https://astroaficion.com)
 - [Astrofísica Y Física](https://www.astrofisicayfisica.com)
@@ -912,8 +865,7 @@
 - [Who Is In Space?](https://www.whoisinspace.com)
 - [Windows 2 Universe](http://www.windows2universe.org)
 
-#### computing
-
+#### Computing
 - ⭐ **[Devdocs.io](https://devdocs.io)**
 - ⭐ **[Devhints](https://devhints.io/)** / [🔗](https://github.com/rstacruz/cheatsheets)
 - ⭐ **[Linux Commands Library](https://linuxcommandlibrary.com/)**
@@ -1031,8 +983,7 @@
 - [W3schools.blog](https://www.w3schools.blog/)
 - [Web.resource.org](https://web.resource.org)
 
-##### machine-learning
-
+##### Machine Learning
 - [Acl Anthology](https://aclanthology.org/)
 - [Algorithmia](https://algorithmia.com)
 - [Alias-i, Inc.](http://www.alias-i.com)
@@ -1058,8 +1009,7 @@
 - [Vas3k](https://vas3k.com)
 - [Vas3k - Machine Learning](https://vas3k.com/blog/machine_learning)
 
-##### supercomputing
-
+##### Supercomputing
 - [Barcelona Supercomputing Center](https://www.bsc.es)
 - [Cscs Swiss National Supercomputing Centre](https://www.cscs.ch)
 - [Fugaku | Riken Center For Computational Science Riken Website](https://www.r-ccs.riken.jp/en/fugaku/)
@@ -1070,8 +1020,7 @@
 - [Oak Ridge Leadership Computing Facility](https://www.olcf.ornl.gov)
 - [Post-k (fugaku)](https://postk-web.r-ccs.riken.jp/spec.html)
 
-#### engineering
-
+#### Engineering
 - [Efunda](https://www.efunda.com/home.cfm)
 - [Electronic Schematic & Circuit Diagram | Tutorials | Datasheet](https://circuitspedia.com/)
 - [Eng-tips Engineering Forums](https://www.eng-tips.com)
@@ -1082,8 +1031,7 @@
 - [Grabcad](https://grabcad.com)
 - [Sengpiel Audio Berlin](http://www.sengpielaudio.com)
 
-#### geography
-
+#### Geography
 - [Cartography Unchained](https://www.cartographyunchained.com/)
 - [Department Of Geography](https://www.geog.cam.ac.uk)
 - [Geographic.org](https://www.geographic.org)
@@ -1094,8 +1042,7 @@
 - [The True Size](https://thetruesize.com)
 - [Worldatlas](https://www.worldatlas.com)
 
-#### geology
-
+#### Geology
 - [Geological Society Of India](http://www.geosocindia.org)
 - [Geological Society Of London Blog](https://blog.geolsoc.org.uk)
 - [Geology.com](https://geology.com)
@@ -1103,8 +1050,7 @@
 - [Learning Geology](https://geologylearn.blogspot.com)
 - [Volcanodiscovery](https://volcanodiscovery.com)
 
-#### medicine
-
+#### Medicine
 - [Biodigital Human Platform](https://human.biodigital.com)
 - [Blog De Fisioterapia](https://tufisio.net)
 - [Centro De Medicina | Medicina Par Biomagnético](https://medicinaparbiomagnetico.com/)
@@ -1121,8 +1067,7 @@
 - [Uniprot](https://www.uniprot.org/)
 - [Wikimedicine.org](https://wikimedicine.org)
 
-#### philosophy
-
+#### Philosophy
 - [Daily Stoic | Stoic Wisdom For Everyday Life](https://dailystoic.com/)
 - [Filosofía.org](https://www.filosofia.org/)
 - [Philos Digest](https://www.philodigest.com/)
@@ -1131,11 +1076,9 @@
 - [The American Philosophical Association](https://www.apaonline.org)
 - [The Metaphysics Research Lab](https://mally.stanford.edu)
 
-### basic-science
+### Basic Science
 
-
-#### biology
-
+#### Biology
 - [Age Of Biology](https://ageofbiology.com)
 - [Ant Maps](https://antmaps.org)
 - [Asmscience](https://www.asmscience.org)
@@ -1148,8 +1091,7 @@
 - [Prody (protein Dynamics And Sequence Analysis)](http://prody.csb.pitt.edu/index.html)
 - [The Fundamentals Of Neuroscience](https://www.mcb80x.org)
 
-#### chemistry
-
+#### Chemistry
 - [Chemix](https://chemix.org)
 - [Chemweb](https://www.chemweb.com)
 - [Formulación Química](https://www.formulacionquimica.com)
@@ -1163,8 +1105,7 @@
 - [World Of Molecules](https://www.worldofmolecules.com)
 - [Xumuk.ru](https://xumuk.ru)
 
-#### maths
-
+#### Maths
 - [Calcme](https://calcme.com/a)
 - [Combinatorics And More | Gil Kalai’s Blog](https://gilkalai.wordpress.com)
 - [Dario Alpern (maths & Assembler)](https://www.alpertron.com.ar/)
@@ -1209,8 +1150,7 @@
 - [Xm1 Math](https://www.xm1math.net/)
 - [Zweigmedia - Finite Mathematics](https://www.zweigmedia.com/index.php)
 
-#### physics
-
+#### Physics
 - [Academia Ciencias Galilei](http://www.acienciasgalilei.com)
 - [Applied Ballistics](https://appliedballisticsllc.com/)
 - [Atmospheric Optics](http://www.atoptics.co.uk)
@@ -1236,21 +1176,17 @@
 - [The Physics Classroom](https://www.physicsclassroom.com)
 - [The Physics Hypertextbook](https://physics.info)
 
-### social-science
+### Social Science
 
-
-#### archeology
-
+#### Archeology
 - [Arkéotopia](https://www.arkeotopia.org/en)
 - [Urkesh.org](http://urkesh.org)
 
-#### economics
-
+#### Economics
 - [Macroeconomia](https://datosmacro.expansion.com)
 - [Rankia](https://www.rankia.com)
 
-#### labour-orientation
-
+#### Labour Orientation
 - [Aquíhayfol](https://sites.google.com/view/aquihayfol/Inicio)
 - [Fol En Tiempos Modernos](https://www.tiemposmodernos.eu/)
 - [Folcanarias](http://www.folcanarias.com/)
@@ -1259,8 +1195,7 @@
 - [Prevención De Riesgos Laborales - Blog](https://www.jalvarezmart.com/)
 - [Tiempos Modernos - Jornada Laboral](http://www.tiemposmodernos.eu/jornada-vacaciones-permisos)
 
-#### history
-
+#### History
 - [American History](https://www.manythings.org/voa/history)
 - [American History](http://www.ushistory.org/us)
 - [Chronozoom](http://www.chronozoom.com/#/t00000000-0000-0000-0000-000000000000)
@@ -1278,8 +1213,7 @@
 - [Oldera - Timeline Of History](https://timeline.oldera.org/timeline/)
 - [Sobrehistoria.com](https://sobrehistoria.com)
 
-#### journalism
-
+#### Journalism
 - [Columbia Journalism School](https://journalism.columbia.edu)
 - [Journalism & Media](https://www.journalism.org)
 - [Periodismo.com](https://www.periodismo.com)
@@ -1287,8 +1221,7 @@
 - [School Of Journalism](https://journalism.arizona.edu)
 - [Unc Hussman School Of Journalism And Media](http://hussman.unc.edu)
 
-#### linguistics
-
+#### Linguistics
 - [Behind The Name](https://www.behindthename.com)
 - [Centro Virtual Cervantes](https://cvc.cervantes.es)
 - [El Castellano](https://www.elcastellano.org)
@@ -1301,8 +1234,7 @@
 - [Recursos | Rae](https://www.rae.es/recursos)
 - [Wordsmith.org](https://wordsmith.org/)
 
-#### literature
-
+#### Literature
 - [30 Blogs De Literatura](https://www.inteligencianarrativa.com/30-blogs-de-literatura)
 - [Aesop's Fables](https://www.taleswithmorals.com/)
 - [Biblioteca Virtual Miguel De Cervantes](http://www.cervantesvirtual.com)
@@ -1316,29 +1248,25 @@
 - [Literautas](https://www.literautas.com)
 - [The Victorian Literary Studies Archive](http://victorian-studies.net)
 
-#### political-science
-
+#### Political Science
 - [Department Of Political Science – College Of Liberal Arts And Sciences](https://polisci.ufl.edu)
 - [Department Of Political Science | University Of Pittsburgh](https://www.polisci.pitt.edu)
 - [Duke University Political Science](https://polisci.duke.edu)
 - [Political Science | Columbia](https://polisci.columbia.edu)
 - [Political Science | Stanford](https://politicalscience.stanford.edu)
 
-##### juridical-concepts
-
+##### Juridical concepts
 - [Conceptos Jurídicos](https://www.conceptosjuridicos.com)
 - [Derechos Humanos](https://www.derechoshumanos.net)
 
-##### political-test
-
+##### Political test
 - [8values](https://8values.github.io/)
 - [Aquienvoto](https://aquienvoto.org)
 - [Ifes Election Guide](https://www.electionguide.org)
 - [Isidewith](https://espana.isidewith.com)
 - [Test Politico](http://www.testpolitico.com)
 
-#### psychology
-
+#### Psychology
 - ⭐ **[16personalities - Free Personality Test, Type Descriptions, Relationship And Career Advice](https://www.16personalities.com/)**
 - [Betterhelp](https://www.betterhelp.com)
 - [Personality Test | Neris Personal Quest Explorer (npqe)](https://npqe.com/)
@@ -1346,8 +1274,7 @@
 - [Psicología-online](https://www.psicologia-online.com)
 - [Psychology Today](https://www.psychologytoday.com/us)
 
-## simulator
-
+## Simulator
 - [Airplane Simulation - Walter Bislins](https://walter.bislins.ch/bloge/index.asp?page=Airplane+Simulation+%28Version+1%29)
 - [Ecalc - Reliable Electric Drive Simulations](https://www.ecalc.ch/)
 - [Jaamsim Pro](https://www.jaamsimpro.com/)
@@ -1357,15 +1284,13 @@
 - [Pražský Orloj - Prague Astronomical Clock Simulator](https://orloj.org/orloj/)
 - [Swarm-subnet/langostino: An Open-source Autonomous Drone Platform Using Ros2 And Ai-powered Flight Control](https://github.com/swarm-subnet/Langostino)
 
-### optical-simulator
-
+### Optical simulator
 - [‪bending Light‬ - Phet Colorado](https://phet.colorado.edu/sims/html/bending-light/latest/bending-light_all.html)
 - [Caxcad Optical Design Software - Caxcad](https://www.caxcad.com/)
 - [Opticalraytracer Home Page](https://arachnoid.com/OpticalRayTracer/)
 - [Ray Optics Simulation - Phydemo](https://phydemo.app/ray-optics/)
 
-### planetarium
-
+### Planetarium
 - ⭐ **[Stellarium Astronomy Software](https://stellarium.org)**
 - [Da-luce/astroterm · Github](https://github.com/da-luce/astroterm)
 - [Fifth Star Labs](https://www.fifthstarlabs.com/)
@@ -1381,8 +1306,7 @@
 - [Stellarium Web](https://stellarium-web.org)
 - [Theskylive.com](https://theskylive.com)
 
-## study-resources
-
+## Study resources
 - [Adducation](https://www.adducation.info/)
 - [Chegg](https://www.chegg.com)
 - [Chiphuyen/aie-book · Github](https://github.com/chiphuyen/aie-book)
@@ -1407,8 +1331,7 @@
 - [With Orbit](https://withorbit.com)
 - [Wuolah - Apuntes, Ejercicios Y Exámenes Resueltos Gratis](https://wuolah.com/)
 
-### subjects-resources
-
+### Subjects resources
 - ⭐ **[Cheatography](https://cheatography.com)**
 - [Academo.org](https://academo.org)
 - [Alegsa](https://www.alegsa.com.ar)
@@ -1424,8 +1347,7 @@
 - [Thermopedia](https://www.thermopedia.com)
 - [Tiching](https://cu.tiching.com)
 
-## translator
-
+## Translator
 - ⭐ **[Deepl Translator](https://www.deepl.com/translator)**
 - ⭐ **[Dialect](https://dialectapp.org/)**
 - [Apertium](https://apertium.org/index.eng.html#?dir=eng-epo&q=)
@@ -1490,8 +1412,7 @@
 - [Youdao](https://www.youdao.com)
 - [Youdao Fanyi*](http://fanyi.youdao.com)
 
-## typing
-
+## Typing
 - ⭐ **[Ztype – Typing Game](https://zty.pe/)**
 - [10fastfingers](https://10fastfingers.com)
 - [Agilefingers](https://agilefingers.com/es)

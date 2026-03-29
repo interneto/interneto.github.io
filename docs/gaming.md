@@ -11,12 +11,10 @@
 - [Soul Knight](https://play.google.com/store/apps/details?id=com.ChillyRoom.DungeonShooter)
 - [Thomas-mauran/chess-tui: Play Chess From Your Terminal 🦀](https://github.com/thomas-mauran/chess-tui?tab=readme-ov-file)
 
-## gaming-utilities
-
+## Gaming Utilities
 - [Psx-place](https://www.psx-place.com/)
 
-### anti-cheat
-
+### Anti-cheat
 - [Alsch092/ultimateanticheat: Ultimateanticheat Is An Open Source Usermode Anti-cheat System Made To Detect And Prevent Common Attack Vectors In Game Cheating (c++, Windows)](https://github.com/AlSch092/UltimateAntiCheat)
 - [Antichear Expert - 腾讯游戏安全](https://m.anticheatexpert.com/)
 - [Are We Anti-cheat Yet?](https://areweanticheatyet.com/)
@@ -26,14 +24,12 @@
 - [Even Balance](https://evenbalance.com/)
 - [Valve Anti-cheat - Wikipedia](https://en.wikipedia.org/wiki/Valve_Anti-Cheat)
 
-### cheats
-
+### Cheats
 - [Nezur, Roblox's #1 Free External](https://nezur.app/)
 - [Scar17off/zyro-ddnet: An Open-source Cheat Client For Ddnet (ddrace Network) Focused On Simplicity And Clean Code Architecture.](https://github.com/scar17off/zyro-ddnet)
 - [Wearedevs](https://wearedevs.net/home)
 
-#### cheat-codes
-
+#### Cheat Codes
 - [All The Gta V Cheat Codes On Xbox, Ps5 And Ps4 And Pc](https://www.redbull.com/gb-en/gta-5-cheat-codes)
 - [Cheat Code Central](https://www.cheatcc.com/)
 - [Cheatcodes.com - Cheats, Codes, Hints, Guides, Achievements & Trophies](https://www.cheatcodes.com/)
@@ -43,8 +39,7 @@
 - [The Witcher 3 Console Commands: Ultimate Edition - Steam Community](https://steamcommunity.com/sharedfiles/filedetails/?id=2190052275)
 - [Witcher 3 Console Commands List | Commands.gg](https://commands.gg/witcher3)
 
-#### cheat-software
-
+#### Cheat software
 - [Battlelog Enhancements For Pc Games (cheats And Hacks)](https://battlelog.co/)
 - [Bruhmoment21/cs2-sdk: Counter-strike 2 Sdk/base Written In C++.](https://github.com/bruhmoment21/cs2-sdk)
 - [Danielkrupinski/osiris: Cross-platform Game Hack For Counter-strike 2 With Panorama-based Gui.](https://github.com/danielkrupinski/Osiris)
@@ -58,8 +53,7 @@
 - [Valthrun/valthrun: Valthrun An Open Source External Cs2 Read Only Kernel Gameplay Enhancer.](https://github.com/Valthrun/Valthrun)
 - [Wallhax - Download 20+ Feature-loaded Private Hacks & Cheats](https://wallhax.com/)
 
-### game-launcher
-
+### Game launcher
 - ⭐ **[Steam Platform](https://store.steampowered.com/about)**
 - [Ascendara - Test Games Before You Buy](https://ascendara.app/) / [🔗](https://github.com/Ascendara/ascendara)
 - [Bethesda Launcher](https://bethesda.net/en/games/home)
@@ -101,8 +95,7 @@
 - [Webmc](https://webmc.xyz/)
 - [Xiv.zone - Astra](https://xiv.zone/astra/)
 
-### games-guides
-
+### Games Guides
 - [Alto's Odyssey Tips & Tricks](https://www.imore.com/altos-odyssey-tips-and-tricks-help-you-escape-lemurs-ride-walls-over-chasms-and-more)
 - [Bazaar Db](https://bazaardb.gg/)
 - [Blitz](https://blitz.gg)
@@ -116,8 +109,7 @@
 - [Tracker Network](https://tracker.gg)
 - [Trucos Y Comandos De Cs:go](https://vandal.elespanol.com/guias/guia-counterstrike-global-offensive-csgo-trucos-y-consejos/comandos)
 
-### games-mods
-
+### Games Mods
 - ⭐ **[Plutonium Project](https://plutonium.pw/)**
 - [9minecraft | The Best Resource For Minecraft](https://www.9minecraft.net/)
 - [All Mods | Thunderstore - The Risk Of Rain 2 Mod Database](https://thunderstore.io/)
@@ -146,12 +138,10 @@
 - [Wemod](https://www.wemod.com/)
 - [Yimmenu](https://yim.gta.menu/)
 
-### games-map
-
+### Games Map
 - [Total War: Warhammer Ii - Interactive Map](https://imrz.github.io/tww-interactive-map/latest#/map/mortal/planner?overlays=Faction%20icons,Regions,Map%20labels)
 
-### game-save
-
+### Game Save
 - [Clayamore/er-save-editor: Elden Ring Save Editor](https://github.com/ClayAmore/ER-Save-Editor)
 - [Gamesave Manager](https://www.gamesave-manager.com)
 - [List Of Games - Save Game Locations](https://savelocations.fandom.com/wiki/List_of_Games)
@@ -163,8 +153,7 @@
 - [Savegame.pro](https://savegame.pro/)
 - [Saves For Games](https://savesforgames.com)
 
-### game-server
-
+### Game Server
 - [40servidoresmc](https://www.40servidoresmc.es/)
 - [Catserver](https://catmc.org/)
 - [Cuberite - A Lightweight, Fast And Extensible Game Server For Minecraft](https://cuberite.org/)
@@ -186,8 +175,7 @@
 - [Prismarinejs](https://prismarine.js.org/)
 - [Top Minecraft Servers](https://topminecraftservers.org/)
 
-### game-statistics
-
+### Game statistics
 - [Activeplayer.io - The Game Statistics Authority](https://activeplayer.io/)
 - [Brawl Stats](https://brawlstats.com/)
 - [Brawlify For Brawl Stars](https://brawlify.com/)
@@ -205,8 +193,7 @@
 - [Tftactics.gg - Tft Team Comps, Overlay, And Database](https://tftactics.gg)
 - [World Of Warcraft Rankings For Mythic+ And Raid Progress](https://raider.io/)
 
-#### steam-info
-
+#### Steam info
 - ⭐ **[Steamdb](https://steamdb.info)**
 - [Astats](http://astats.astats.nl/astats)
 - [Dlcompare](https://www.dlcompare.com)
@@ -221,8 +208,7 @@
 - [Steamprices](https://www.steamprices.com/eu)
 - [Steamspy](https://steamspy.com)
 
-## minigames
-
+## Minigames
 - [4j.com](http://www.4j.com/)
 - [18xx.games](https://18xx.games/)
 - [2000s Games](https://2000s.games/)
@@ -276,8 +262,7 @@
 - [Yiv.com - Free Online Games For Pc, Mobile And Tablet](https://www.yiv.com/)
 - [Zapgames - Play Free Online Games](https://zapgames.io/)
 
-## action
-
+## Action
 - ⭐ **[Krunker.io](https://krunker.io/)**
 - [1v1.lol](https://1v1.lol)
 - [Agar.io](https://agar.io/#ffa)
@@ -318,8 +303,7 @@
 - [Xonotic: The Free And Fast Arena Shooter](https://xonotic.org/)
 - [Zdoom](https://www.zdoom.org/index)
 
-## adventure
-
+## Adventure
 - [Buildtheearth](https://buildtheearth.net)
 - [Classicube.net](https://www.classicube.net/)
 - [Mcedit - World Editor For Minecraft](https://www.mcedit.net/)
@@ -338,8 +322,7 @@
 - [Super Mario™ – Nintendo](https://mario.nintendo.com/)
 - [Yo Frankie! – Apricot Open Game Project](https://apricot.blender.org/)
 
-## arcade
-
+## Arcade
 - [Antstream Arcade: Play Over 1300 Classic Retro Video Games](https://www.antstream.com/)
 - [Cookie Consent Speed.run](https://cookieconsentspeed.run)
 - [Dos Zone | Dos Games In Browser](https://dos.zone/)
@@ -362,8 +345,7 @@
 - [The World's Biggest Pac-man](https://worldsbiggestpacman.com/)
 - [Vvvvvv](https://thelettervsixtim.es/) / [🔗](https://github.com/TerryCavanagh/VVVVVV)
 
-## board
-
+## Board
 - ⭐ **[Lucas Chess](https://lucaschess.pythonanywhere.com/)** / [🔗](https://github.com/lukasmonk/lucaschessR2)
 - [247 Chess](https://www.247chess.com/)
 - [All About Go](http://www.allaboutgo.com)
@@ -398,8 +380,7 @@
 - [Tic-tac-toe](https://playtictactoe.org)
 - [Us Go](https://www.usgo.org)
 
-## casual
-
+## Casual
 - ⭐ **[Mr.doob](https://mrdoob.com/)**
 - [(t,i,x,y) = 'creative Code Golfing'](https://tixy.land/)
 - [Aimbooster](http://www.aimbooster.com)
@@ -429,8 +410,7 @@
 - [Zoomquilt](https://zoomquilt.org/)
 - [Zoomquilt 2](http://zoomquilt2.com)
 
-## casino
-
+## Casino
 - [888 Poker](https://www.888poker.es)
 - [888.es](https://www.888.es)
 - [Bingo.com](https://www.bingo.com)
@@ -445,8 +425,7 @@
 - [World Poker Tour](https://www.worldpokertour.com)
 - [Yobingo](https://www.yobingo.es)
 
-### betting
-
+### Betting
 - [1win - Casino & Get Your 500% Bonus Now!](https://1win.com/)
 - [20bet](https://20bet-s.com/es)
 - [22bet](https://22bets.me)
@@ -465,8 +444,7 @@
 - [William Hill](https://www.williamhill.es/#!/)
 - [Yajuego](https://sports.yajuego.co)
 
-### lottery
-
+### Lottery
 - [Combinación Ganadora](https://www.combinacionganadora.com)
 - [Eurojackpot](https://www.eurojackpot.com)
 - [Juegosonce](https://www.juegosonce.es)
@@ -486,8 +464,7 @@
 - [Us Mega Millions Simulation](https://lottosimulation.com/us/mega-millions)
 - [Usa Mega](https://www.usamega.com)
 
-## cards
-
+## Cards
 - [Balatro: Deck-building Roguelite](https://www.playbalatro.com/)
 - [Cardgames.io](https://cardgames.io)
 - [Karabast](https://karabast.net/)
@@ -495,8 +472,7 @@
 - [Pysolfc Solitaire](https://pysolfc.sourceforge.io/)
 - [Towers Of Mordoria By Teej_dv](https://teej-dv.itch.io/towers-of-mordoria)
 
-## educational
-
+## Educational
 - [Dmm](https://www.dmm.com)
 - [Educaplay: Free Educational Games Generator](https://www.educaplay.com/)
 - [Engineer](https://brainteaser.top/engineer/index.html)
@@ -510,8 +486,7 @@
 - [Shape Type](https://shape.method.ac/)
 - [The Bézier Game - Method.ac](https://bezier.method.ac)
 
-### coding-games
-
+### Coding games
 - [Checkio](https://checkio.org/)
 - [Codecombat](https://codecombat.com/)
 - [Codemonkey](https://www.codemonkey.com/)
@@ -543,8 +518,7 @@
 - [Untrusted - Javascript Adventure Game](https://alexnisnevich.github.io/untrusted/)
 - [Vim Adventures](https://vim-adventures.com/)
 
-### geographic-games
-
+### Geographic games
 - ⭐ **[Geoguessr - Let's Explore The World!](https://www.geoguessr.com/)**
 - ⭐ **[Geoguessr - Seterra (the Ultimate Map Quiz Site)](https://www.geoguessr.com/quiz/seterra)**
 - [Back Of Your Hand](https://backofyourhand.com/game?difficulty=taxi-driver&lat=28.4719&lng=-16.2541&numberOfQuestions=5&radius=2000)
@@ -571,8 +545,7 @@
 - [Travle](https://travle.earth/)
 - [Worldle](https://worldle.teuteuf.fr/)
 
-### drawing-games
-
+### Drawing games
 - [Drawasaurus](https://www.drawasaurus.org)
 - [Drawing Game](https://www.drawandguess.com)
 - [Gartic.io](https://gartic.io)
@@ -584,16 +557,14 @@
 - [Sandspiel](https://sandspiel.club/)
 - [Skribbl.io](https://skribbl.io)
 
-## music-games
-
+## Music games
 - [Beat Saber](https://www.beatsaber.com)
 - [Clone Hero](https://clonehero.net/)
 - [Just Dance Now](https://justdancenow.com/)
 - [Osu!](https://osu.ppy.sh/home)
 - [Stepmania](https://www.stepmania.com/)
 
-## puzzle
-
+## Puzzle
 - [2048.co](https://play2048.co/)
 - [Code Golf](https://code.golf/)
 - [First-person Tetris](https://firstpersontetris.com/)
@@ -619,8 +590,7 @@
 - [Unpacking: A Zen Puzzle](https://www.unpackinggame.com/)
 - [Wordsmyth - Daily Word Puzzle Game](https://playwordsmyth.com/)
 
-## racing
-
+## Racing
 - [Asphalt 9: Legends - Arcade Racing](https://asphaltlegends.com/)
 - [Forza Motorsport](https://forzamotorsport.net/en-US)
 - [Gran-turismo.com](https://www.gran-turismo.com/es/)
@@ -631,8 +601,7 @@
 - [Mario Kart Pc](https://mkpc.malahieude.net/)
 - [Speed Dreams](https://www.speed-dreams.net/en/)
 
-## rpg
-
+## RPG
 - ⭐ **[Veloren](https://veloren.net/)**
 - [Baldur's Gate 3](https://baldursgate3.game/)
 - [Black Desert](https://www.naeu.playblackdesert.com/en-US/Data/Down)
@@ -662,8 +631,7 @@
 - [World Of Warcraft](https://worldofwarcraft.blizzard.com/en-us/)
 - [Zenless Zone Zero – "welcome To New Eridu"](https://zenless.hoyoverse.com/en-us/)
 
-## simulation
-
+## Simulation
 - [3d Solar System Simulator](https://theskylive.com/3dsolarsystem)
 - [100,000 Stars](https://stars.chromeexperiments.com)
 - [Aerofly Fs Flight Simulator](https://www.aerofly.com/)
@@ -750,14 +718,12 @@
 - [Worlds.com](http://worlds.com/)
 - [X-plane 11 Flight Simulator](https://www.x-plane.com/)
 
-## sports-games
-
+## Sports games
 - [Comunio World Cup](https://www.comunio.com/welcome)
 - [Rocket League ®](https://www.rocketleague.com/en)
 - [Ufl](https://www.uflgame.com/en-en)
 
-## strategy
-
+## Strategy
 - ⭐ **[0 A.d.: Empires Ascendant](https://play0ad.com/)** / [🔗](https://gitea.wildfiregames.com/0ad/0ad)
 - [Age Of Empires Franchise](https://www.ageofempires.com/)
 - [Axie Infinity](https://axieinfinity.com/)
@@ -787,8 +753,7 @@
 - [Widelands.org](https://www.widelands.org/)
 - [Xcom 2](https://xcom.com/es-ES/)
 
-## trivia
-
+## Trivia
 - [Akinator](https://es.akinator.com/game)
 - [Bot Or Not](https://botor.no)
 - [El Ahorcado](https://hangmanwordgame.com/?fca=1&success=0#/)
@@ -804,8 +769,7 @@
 - [Triviar](https://triviar.com)
 - [Wikipedia Crossword](https://wikicros.blogspot.com)
 
-## word
-
+## Word
 - [Juego De Basta!](https://bastaonline.net)
 - [Jugar Scattergories](https://www.jugarscattergories.com)
 - [Wordle Game](https://wordlegame.org/)
