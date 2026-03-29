@@ -13,11 +13,11 @@
 - [World Time Zone](https://www.worldtimezone.com)
 - [Worldtimeserver](https://www.worldtimeserver.com)
 
-## Alarm
+## alarm
 
 - [Online Alarm Clock](https://onlinealarmkur.com/en/)
 
-## Calendar
+## calendar
 
 - ⭐ **[Morgen.so](https://morgen.so/)**
 - [Aeon Timeline](https://timeline.app/)
@@ -64,7 +64,7 @@
 - [Twitimer](https://twitimer.com/)
 - [Wincalendar](https://www.wincalendar.com/eu)
 
-## Chronometer
+## chronometer
 
 - [Chronometer](http://chronme.com/)
 - [Chronomètre En Ligne](https://www.chronometre-en-ligne.com/)
@@ -73,7 +73,7 @@
 - [Timegrid · Github](https://aoueon.github.io/timegrid/)
 - [Vclock](https://vclock.com)
 
-## Moon phases
+## moon-phases
 
 - [Daff Moon Phase For Android](https://www.dafftin.com/)
 - [Fases De La Luna 2020 & 2021](https://www.calendario-365.es/luna/lunar-fases.html)
@@ -82,7 +82,7 @@
 - [Moon Phases Calendar](https://www.spaceweatherlive.com/en/moon-phases-calendar)
 - [Moongiant - Next Full Moon](https://www.moongiant.com)
 
-## Sun Time calculator
+## sun-time-calculator
 
 - [Meteogram - Sol](https://meteogram.es/sol/)
 - [Planit! For Photographers | Plan The Shot!](https://www.planitphoto.com/)
@@ -98,7 +98,7 @@
 - [Table Of Sunrise/sunset - Navy](https://aa.usno.navy.mil/calculated/rstt/year)
 - [Table Of Sunrise/sunset, Moonrise/moonset, Or Twilight Times For An Entire Year](https://aa.usno.navy.mil/data/RS_OneYear)
 
-## Time management
+## time-management
 
 - [Forestapp - Stay Focused, Be Present](https://forestapp.cc)
 - [Habitica](https://habitica.com/)
@@ -106,7 +106,7 @@
 - [Run&grow - Run Farther, Grow Stronger](https://www.runandgrow.com/)
 - [Timescribe](https://timescribe.app/)
 
-## Time tracker
+## time-tracker
 
 - ⭐ **[Activitywatch](https://activitywatch.net)** / [🔗](https://github.com/ActivityWatch/activitywatch)
 - ⭐ **[Rize.io - Maximize Your Productivity](https://rize.io/)**
@@ -176,7 +176,7 @@
 - [Workpuls](https://www.workpuls.com)
 - [Zaved707/yet-another-habit-tracker: A Modern Habit Tracker](https://github.com/zaved707/Yet-Another-Habit-Tracker?tab=readme-ov-file)
 
-### Screen time tracker
+### screen-time-tracker
 
 - [Appblock](https://www.appblock.app)
 - [Clearspace - Eliminate Digital Distractions](https://www.getclearspace.com/)

@@ -3,7 +3,7 @@
 **Total Bookmarks:** 5559
 
 
-## Biography
+## biography
 
 - [Biografias Y Vidas](https://www.biografiasyvidas.com)
 - [Bioguide Congress](https://bioguide.congress.gov/search)
@@ -16,7 +16,7 @@
 - [S9 - Biographies](https://www.s9.com)
 - [Web Of Stories](https://www.webofstories.com)
 
-### Famous bio
+### famous-bio
 
 - [All Star Bio](https://allstarbio.com)
 - [Ans-wer](https://ans-wer.com)
@@ -39,17 +39,17 @@
 - [Wiki Bio Worth](https://wikibioworth.com)
 - [Wikifame](https://www.wikifame.org/)
 
-### On this day
+### on-this-day
 
 - [On This Day](https://www.onthisday.com)
 - [Takemeback.to](https://takemeback.to)
 
-## Competitions
+## competitions
 
 - [Film Festivals, Screenplay Contests, Submissions](https://filmfreeway.com/)
 - [The Neurotech Challenge Series](https://neurotech-challenge.com/)
 
-### Photography Competition
+### photography-competition
 
 - [Concursos De Fotografía](https://concursosdefotos.es)
 - [Extreme Tech Challenge](https://extremetechchallenge.org)
@@ -59,12 +59,12 @@
 - [Reglamento Wle](https://www.wikilov.es/es/Wiki_Loves_Earth/Reglamento)
 - [Reglamento Wlm](https://wikilov.es/es/Wiki_Loves_Monuments/Reglamento_2020)
 
-### Sports Competition
+### sports-competition
 
 - [La Velada Del Año V: Evento De Boxeo Por Ibai Llanos](https://www.infolavelada.com/) / [🔗](https://github.com/David7ce/la-velada-web-oficial)
 - [Roxcoach - Analyse Your Hyrox Results](https://www.rox-coach.com/)
 
-#### Race Competition
+#### race-competition
 
 - [66 Adventure Ltd](https://www.66adventure.com/)
 - [6633 Arctic Ultra - Toughest, Coldest & Windiest Race](https://www.6633ultra.com/)
@@ -105,7 +105,7 @@
 - [Zurich Maratón De Sevilla](https://www.zurichmaratonsevilla.es/)
 - [Αρχική - Spartathlon Ultra Race](https://www.spartathlon.gr/)
 
-##### UTMB
+##### utmb
 
 - [Chiangmai Thailand By Utmb](https://chiangmai.utmb.world/)
 - [Chianti Ultra Trail By Utmb](https://chianti.utmb.world/)
@@ -123,10 +123,10 @@
 - [Valhöll Fin Del Mundo By Utmb](https://valholl.utmb.world/)
 - [Wildstrubel By Utmb](https://wildstrubel.utmb.world/)
 
-## Data
+## data
 
 
-### Data statistics
+### data-statistics
 
 - [Antv | Liven Data Lively](https://antv.vision/en)
 - [Barriblog](https://www.barriblog.com)
@@ -143,7 +143,7 @@
 - [Statistics And Data](https://www.statisticsanddata.org)
 - [V1 Analytics](https://v1analytics.co)
 
-### Infography
+### infography
 
 - [Animagraffs](https://animagraffs.com)
 - [Blog | Sjdataviz](https://www.sjdataviz.com/data)
@@ -152,7 +152,7 @@
 - [Usefulcharts](https://usefulcharts.com)
 - [Visual Capitalist](https://www.visualcapitalist.com)
 
-### Social network stats
+### social-network-stats
 
 - ⭐ **[Socialblade.com - Youtube, Twitch, Twitter, & Instagram Statistics](https://socialblade.com)**
 - [Count Lines Of Code | Ghloc](https://ghloc.vercel.app/)
@@ -168,7 +168,7 @@
 - [Twitchtracker.com](https://twitchtracker.com/)
 - [Youtubers.me](https://us.youtubers.me/)
 
-### Visual Data
+### visual-data
 
 - ⭐ **[Visual Cinnamon](https://www.visualcinnamon.com)**
 - [Data Viz Project](https://datavizproject.com)
@@ -179,7 +179,7 @@
 - [Rethinking Visualization](https://rethinkingvis.com/#all)
 - [Vizhub - Data Visualization Platform](https://vizhub.com/curran)
 
-## Database
+## database
 
 - [Airlinepilotcentral.com](https://www.airlinepilotcentral.com/)
 - [Anime Characters Database](https://www.animecharactersdatabase.com/)
@@ -216,14 +216,14 @@
 - [Zip-codes](https://www.zip-codes.com)
 - [Zvec | A Lightweight, Lightning-fast, In-process Vector Database](https://zvec.org/en/) / [🔗](https://github.com/alibaba/zvec)
 
-### Ads classified Db
+### ads-classified-db
 
 - [Backpage](https://www.2backpage.com)
 - [Bedpage](https://www.bedpage.com)
 - [Craigslist](https://canarias.craigslist.org)
 - [Obackpage](https://obackpage.com)
 
-### API Database
+### api-database
 
 - ⭐ **[Themealdb.com - Free Recipe Api And Database](https://www.themealdb.com/)**
 - [Api Platform](https://api-platform.com/)
@@ -238,14 +238,14 @@
 - [Thecocktaildb.com - Free Cocktail Api](https://www.thecocktaildb.com/)
 - [Zestful - Simple Api For Parsing Recipe Ingredients](https://zestfuldata.com/)
 
-### Coins Db
+### coins-db
 
 - [Euro-coins.tv - The Online Coin Catalogue With Daily Updated Market Prices For Every Single Coin](https://www.euro-coins.tv/)
 - [Ngc - Coin Grading | Numismatic Guaranty Company](https://www.ngccoin.com/)
 - [Numismaster - Collector Coin And Paper Money Data And Values And Numismatic News Since 1952.](https://www.numismaster.com/)
 - [Numista](https://en.numista.com/)
 
-### Emoji Db
+### emoji-db
 
 - ⭐ **[Emojipedia](https://emojipedia.org)**
 - [Cool Symbols](https://coolsymbol.com)
@@ -268,7 +268,7 @@
 - [Symbol Signs](https://symbolsign.com/)
 - [Symbolkeyboard](https://symbolkeyboard.com/)
 
-### Graph map Db
+### graph-map-db
 
 - ⭐ **[Code Galaxies Visualization](https://anvaka.github.io/pm/#/?_k=oqyjty)**
 - ⭐ **[Learn Anything](https://learn-anything.xyz/)**
@@ -286,10 +286,10 @@
 - [Wikiverse - Byowen](https://wikiverse.io)
 - [Wine & Cheese Map](http://www.wineandcheesemap.com)
 
-### Hardware Db
+### hardware-db
 
 
-#### Automobile Db
+#### automobile-db
 
 - [Auto-data - Technical Specs, Data, Fuel Consumption Of Cars](https://www.auto-data.net/en/)
 - [Autodata Group Uk - Autodata Technical Vehicle Data](https://www.autodata-group.com/uk/)
@@ -309,12 +309,12 @@
 - [Teolida - The Most Updated Car Database](https://www.teoalida.com/cardatabase/)
 - [Ultimate Specs Vehicle](https://www.ultimatespecs.com/)
 
-#### Computer Hardware Db
+#### computer-hardware-db
 
 - [Bsd Hardware Database](https://bsd-hardware.info/)
 - [Linux Hardware Database](https://linux-hardware.org/)
 
-### Human Phenotypes
+### human-phenotypes
 
 - [Ainuid](http://humanphenotypes.net/basic/Ainuid.html)
 - [Alpinid](http://humanphenotypes.net/basic/Alpinid.html)
@@ -354,10 +354,10 @@
 - [Turanid](http://humanphenotypes.net/basic/Turanid.html)
 - [Veddid](http://humanphenotypes.net/basic/Veddid.html)
 
-### List Db
+### list-db
 
 
-#### AlternativeTo List
+#### alternativeto-list
 
 - [Alternativeto - Lists](https://alternativeto.net/lists/)
 - [Alternativeto - Open Source Games](https://alternativeto.net/category/games/all/?license=opensource)
@@ -387,7 +387,7 @@
 - [Video & Movies Apps - Alternativeto](https://alternativeto.net/category/video/)
 - [Web Browsers - Alternativeto](https://alternativeto.net/category/browsers/)
 
-#### Awesome List
+#### awesome-list
 
 - [738/awesome-url-shortener · Github](https://github.com/738/awesome-url-shortener)
 - [Abhisheknaiidu/awesome-github-profile-readme · Github](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
@@ -515,7 +515,7 @@
 - [Ziadoz/awesome-php · Github](https://github.com/ziadoz/awesome-php)
 - [Zie619/n8n-workflows: All Of The Workflows Of N8n I Could Find (also From The Site Itself)](https://github.com/Zie619/n8n-workflows)
 
-#### IPTV list
+#### iptv-list
 
 - ⭐ **[Iptv Wuaze](https://iptvfree.wuaze.com/?i=1)**
 - ⭐ **[Iptv-org](https://iptv-org.github.io/)**
@@ -552,7 +552,7 @@
 - [R/iptvx](https://www.reddit.com/r/iptvx/)
 - [World-iptv - Unlock Unlimited Entertainment](https://world-iptv.club/)
 
-##### EPG list
+##### epg-list
 
 - ⭐ **[Iptv-epg.org](https://iptv-epg.org/)**
 - [Celetor/epg: 电子节目单，支持xml格式，支持diyp&百川](https://github.com/celetor/epg)
@@ -571,13 +571,13 @@
 - [The Best Tv Guide/tv Listings Website, Providing Iptv Epg And Free Streaming Of Channels](https://epg.pw/index.html?lang=en)
 - [Tvkaista - Telkkari Netissä](https://www.tvkaista.org/)
 
-#### Ranking list
+#### ranking-list
 
 - [2023 Digital Quality Of Life Index - Surfshark](https://surfshark.com/dql2023)
 - [Notable People](https://tjukanovt.github.io/notable-people)
 - [Powerlifting Rankings](https://www.openpowerlifting.org/)
 
-##### Ranking people
+##### ranking-people
 
 - [Bloomberg Billionaires](https://www.bloomberg.com/billionaires)
 - [Codersrank - The Ultimate Developer Profile](https://codersrank.io/)
@@ -586,7 +586,7 @@
 - [Ranking Models](https://models.com/rankings/ui/Social)
 - [World Athletics - World Records (menoutdoor)](https://www.worldathletics.org/records/by-category/world-records#menoutdoor)
 
-##### Ranking repos
+##### ranking-repos
 
 - [Github Search · Stars:1000 Created:2020-01-01..2020-02-09](https://github.com/search?utf8=%E2%9C%93&q=stars%3A%3E1000+created%3A2020-01-01..2020-02-09&type=Repositories&ref=advsearch&l=)
 - [Github-ranking · Github](https://evanli.github.io/Github-Ranking) / [🔗](https://github.com/EvanLi/Github-Ranking)
@@ -595,14 +595,14 @@
 - [Star History](https://star-history.com/)
 - [Stardev](https://www.stardev.io/)
 
-##### Ranking wealthy
+##### ranking-wealthy
 
 - [Forbes 400](https://www.forbes.com/forbes-400)
 - [Global 500 2020 - Fortune](https://fortune.com/global500/2020/search)
 - [Global 2000 - Forbes](https://www.forbes.com/global2000#28aec8b2335d)
 - [Hurun List](https://www.hurun.net/en-US/Home/Index)
 
-#### Things list
+#### things-list
 
 - [A Collection Of Keyboard Shortcuts For Mac Apps, Windows Programs, And Websites](https://usethekeyboard.com/)
 - [Demirelarda/carmakesandmodels · Github](https://github.com/demirelarda/CarMakesAndModels)
@@ -615,7 +615,7 @@
 - [Thetoptens](https://www.thetoptens.com)
 - [Tiobe Index](https://www.tiobe.com/tiobe-index/)
 
-#### Wikipedia list
+#### wikipedia-list
 
 - [Comparativa De Periódicos De España - Wikipedia](https://es.wikipedia.org/wiki/Anexo:Comparativa_de_peri%C3%B3dicos_de_Espa%C3%B1a)
 - [Comparison Of File Archivers - Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_file_archivers)
@@ -749,7 +749,7 @@
 - [The Simpsons (tv Series 1989– ) - Imdb](https://www.imdb.com/title/tt0096697/episodes?year=2020)
 - [Timeline Of Largest Passenger Ships - Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_largest_passenger_ships)
 
-### Logos Db
+### logos-db
 
 - [Brandeps](https://brandeps.com/)
 - [Brandfetch Where Brands Live](https://brandfetch.com/)
@@ -759,10 +759,10 @@
 - [Logopedia | Fandom](https://logos.fandom.com/wiki/Logopedia)
 - [Logos Ynx](https://www.logolynx.com/)
 
-### Multimedia Db
+### multimedia-db
 
 
-#### Books Db
+#### books-db
 
 - [An Ocean Of Books](https://artsexperiments.withgoogle.com/ocean-of-books?latitude=-5.2660&longitude=-2.5000&zoom=1.00)
 - [Bookfilter](https://www.book-filter.com/)
@@ -780,7 +780,7 @@
 - [The Internet Speculative Fiction Database](http://www.isfdb.org)
 - [The Literature Network](http://www.online-literature.com)
 
-#### Games Db
+#### games-db
 
 - ⭐ **[Protondb](https://www.protondb.com/)**
 - [Activeplayer.io - Top Games](https://activeplayer.io/top-games/)
@@ -799,7 +799,7 @@
 - [The Visual Novel Database](https://vndb.org/)
 - [Whatoplay - Find Pc, Playstation, Xbox, Switch, & Mobile Games To Play](https://whatoplay.com/)
 
-#### Movie Db
+#### movie-db
 
 - ⭐ **[The Movie Database](https://www.themoviedb.org/)**
 - [4kfilmdb | Discover All Available 4k Movies For Streaming](https://4kfilmdb.com/)
@@ -836,7 +836,7 @@
 - [Virtual History](https://www.virtual-history.com)
 - [Xross Entity Map | Xem](https://thexem.info/)
 
-##### Dubbing Db
+##### dubbing-db
 
 - [Behind The Voice Actors](https://www.behindthevoiceactors.com)
 - [Dubbing Wikia](https://dubbing.fandom.com/wiki/Dubbing_Wikia)
@@ -844,7 +844,7 @@
 - [Thevoicerealm](https://www.thevoicerealm.com)
 - [Voice123](https://voice123.com/#how-to-search)
 
-##### Film studios Db
+##### film-studios-db
 
 - [Movies Produced By 20th Century Fox Animation — The Movie Database (tmdb)](https://www.themoviedb.org/company/11749/movie)
 - [Movies Produced By 20th Century Studios — The Movie Database (tmdb)](https://www.themoviedb.org/company/127928/movie)
@@ -863,7 +863,7 @@
 - [Movies Produced By Walt Disney Productions — Tmdb](https://www.themoviedb.org/company/3166/movie)
 - [Movies Produced By Wingnut Films — The Movie Database (tmdb)](https://www.themoviedb.org/company/11/movie)
 
-##### Movie Scripts Db
+##### movie-scripts-db
 
 - [Daily Script - Movie Scripts And Movie Screenplays](https://www.dailyscript.com/)
 - [Library Of Codexes](https://libraryofcodexes.com/)
@@ -873,7 +873,7 @@
 - [The Editing Room](https://www.the-editing-room.com/)
 - [The Internet Movie Script Database (imsdb)](https://imsdb.com/)
 
-##### Subtitles Db
+##### subtitles-db
 
 - ⭐ **[Subdl: Download Movie Subtitles In Any Language!](https://subdl.com/)**
 - ⭐ **[Subtitles - Download Movie And Tv Series Subtitles](https://www.opensubtitles.org/en/search/subs)**
@@ -885,7 +885,7 @@
 - [Tvsubs.net - Download Tv Show Subtitles](https://www.tvsubs.net/)
 - [Tvsubtitles.net - Download Latest Tv Show And Tv Series Subtitles](https://www.tvsubtitles.net/)
 
-##### TV Guide
+##### tv-guide
 
 - [Local Tv Guide - Ontvtonight](https://www.ontvtonight.com/guide/)
 - [Mi.tv](https://mi.tv/)
@@ -895,7 +895,7 @@
 - [Tv Listings - Desert](https://www.deseret.com/pages/tv-listings)
 - [Tvguia.es](https://www.tvguia.es/)
 
-##### TV Tracker
+##### tv-tracker
 
 - ⭐ **[Showly - Track Tv Shows And Movies](https://www.showlyapp.com/)** / [🔗](https://github.com/michaldrabik/showly)
 - [Justwatch - The Streaming Guide](https://www.justwatch.com/)
@@ -917,7 +917,7 @@
 - [Watch It! - Movie & Tv Show Watchlist App For Ios & Android](https://getwatchit.com/)
 - [Yidio - Streaming Guide For Tv Shows & Movies](https://www.yidio.com)
 
-#### Music Db
+#### music-db
 
 - ⭐ **[Every Noise At Once](http://everynoise.com/)**
 - ⭐ **[Musicbrainz - The Open Music Encyclopedia](https://musicbrainz.org)**
@@ -940,7 +940,7 @@
 - [Video Game Music Downloads - Free Mp3 Ost Downloads - Game Soundtracks For Download](https://downloads.khinsider.com/)
 - [Vocaloid Database](https://vocadb.net/)
 
-##### Song lyrics
+##### song-lyrics
 
 - [Azlyrics](https://www.azlyrics.com)
 - [Genius | Song Lyrics & Knowledge](https://genius.com)
@@ -955,13 +955,13 @@
 - [Transcript.lol - Summary, Topics, & Ask Questions](https://transcript.lol/)
 - [Versefy By Jakub Stęplowski](https://versefy.app/)
 
-##### UltraStar Db
+##### ultrastar-db
 
 - [Ultrastar Database](https://usdb.eu/home)
 - [Ultrastar España - Descargar Canciones](https://ultrastar-es.org/es/canciones)
 - [Usdb](https://usdb.animux.de/)
 
-### OpenData
+### opendata
 
 - [Aemet Opendata](https://opendata.aemet.es/centrodedescargas/inicio)
 - [Ayto Santa Cruz Tenerife - Opendata](https://www.santacruzdetenerife.es/web/gobierno-abierto/opendata)
@@ -979,14 +979,14 @@
 - [Visualising Data](https://www.visualisingdata.com)
 - [World Bank Open Data](https://data.worldbank.org)
 
-### Price Db
+### price-db
 
 - ⭐ **[Db Cost (server)](https://www.dbcost.com/)**
 
-### Pirate Indexer Db
+### pirate-indexer-db
 
 
-#### Pirate music indexer
+#### pirate-music-indexer
 
 - ⭐ **[Discografiascompletas](https://www.discografiascompletas.org/)**
 - ⭐ **[Jiosaavn](https://www.jiosaavn.com/)**
@@ -1017,7 +1017,7 @@
 - [Top Album Releases](https://topalbumreleases.com/)
 - [Zahiphopmusic](https://zahiphopmusic.com/)
 
-#### Pirate games indexer
+#### pirate-games-indexer
 
 - [Astralgames ~ Pre-installed Games (12)](https://astral-games.xyz/)
 - [Axekin](https://www.axekin.com/)
@@ -1045,7 +1045,7 @@
 - [Valve Archive](https://valvearchive.com/archive/)
 - [World Of Mac](https://worldofmac.net)
 
-##### Games ROMs
+##### games-roms
 
 - ⭐ **[Myrient | Home Page](https://myrient.erista.me/)**
 - ⭐ **[Roms Games - Download Roms For Gba, Snes, Nds, N64, Psx, 3ds, Gbc And More!](https://www.romsgames.net/)**
@@ -1073,7 +1073,7 @@
 - [Superpsx - Ps2, Ps3, Ps4, Xbox, Homebrew & Games](https://www.superpsx.com/)
 - [Vimm's Lair: Preserving The Classics](https://vimm.net/)
 
-#### Pirate papers indexer
+#### pirate-papers-indexer
 
 - ⭐ **[Sci-hub](https://sci-hub.se)**
 - [Citrus Search](https://citrus-search.com/#/)
@@ -1082,7 +1082,7 @@
 - [Oa.mg · Open Access For Everyone](https://oa.mg/)
 - [Scinapse - Finding R&d Trends And Experts Made Simple](https://www.scinapse.io/)
 
-#### Pirate software indexer
+#### pirate-software-indexer
 
 - ⭐ **[Audio Warez - Professional Audio Software Community](https://audioz.download/)**
 - [Appnee Freeware Group](https://appnee.com/)
@@ -1118,7 +1118,7 @@
 - [Warez By M0nkrus](https://w16.monkrus.ws/)
 - [دانلود رایگان نرم افزار](https://soft98.ir/)
 
-#### Pirate video indexer
+#### pirate-video-indexer
 
 - [Acer Movies](https://acermovies.val.run/)
 - [Ddlbase.com - Your Best Source For Hq Content](https://ddlbase.com/)
@@ -1139,7 +1139,7 @@
 - [Where You Watch - Reports Movie Downloads](https://whereyouwatch.com/)
 - [Xdmovies - Watch Movies & Tv Series Online](https://new.xdmovies.wtf/)
 
-#### Usenet indexer
+#### usenet-indexer
 
 - [Abnzb](https://abnzb.com/)
 - [Althub](https://althub.co.za/)
@@ -1173,7 +1173,7 @@
 - [Sick Beard Index](http://lolo.sickbeard.com/)
 - [Tabula Rasa](https://www.tabula-rasa.pw/login)
 
-#### Torrent tracker
+#### torrent-tracker
 
 - ⭐ **[1337x](https://www.1377x.to/home/)**
 - ⭐ **[Academic Torrents](https://academictorrents.com/)**
@@ -1246,12 +1246,12 @@
 - [Yourbittorrent](https://yourbittorrent.com/)
 - [Zonatorrent](https://zonatorrent.tv)
 
-### Software Db
+### software-db
 
 - [Flashpoint Database](https://flashpointproject.github.io/flashpoint-database/)
 - [G-meh (audio Software)](https://g-meh.com/)
 
-#### File extension Db
+#### file-extension-db
 
 - ⭐ **[Fileinfo.com - The File Format Database](https://fileinfo.com/)**
 - [File-extensions.org](https://www.file-extensions.org)
@@ -1262,14 +1262,14 @@
 - [Open With - Free Programs To Open Any File Extension!](https://www.openwith.org/)
 - [The Filename Extension Database | Datatypes.net](https://datatypes.net/)
 
-#### File Indexer Db
+#### file-indexer-db
 
 - ⭐ **[Directory Lister • The Simple (php) Web Directory Lister](https://www.directorylister.com/)**
 - ⭐ **[Odcrawler](https://odcrawler.xyz/)**
 - [Eyedex - Open Directory Search Engine](https://www.eyedex.org/)
 - [Mamont's Open Ftp Index](https://www.mmnt.net/)
 
-#### Malware Db
+#### malware-db
 
 - [Cryakl/ransomware-database: For Educational Purposes Only, Samples Of Ransomware/wiper Trojans Including Screenshots/ransom-notes.](https://github.com/Cryakl/Ransomware-Database)
 - [Cryakl/ultimate-rat-collection: For Educational Purposes Only, Exhaustive Samples Of 450+ Classic/modern Trojan Builders Including Screenshots.](https://github.com/Cryakl/Ultimate-RAT-Collection)
@@ -1289,7 +1289,7 @@
 - [Yedboy33k/malwaredatabase: This Is My Malware Database, For Educational Purposes Only !!](https://github.com/Yedboy33k/MalwareDatabase)
 - [Ytisf/thezoo: A Repository Of Live Malwares For Your Own Joy And Pleasure. Thezoo Is A Project Created To Make The Possibility Of Malware Analysis Open And Available To The Public.](https://github.com/ytisf/theZoo)
 
-#### OS distro Db
+#### os-distro-db
 
 - ⭐ **[Distrowatch.com - Put The Fun Back Into Computing. Use Linux, Bsd.](https://distrowatch.com)**
 - ⭐ **[Eylenburg's Tech Website](https://eylenburg.github.io/)** / [🔗](https://github.com/eylenburg/eylenburg.github.io)
@@ -1304,7 +1304,7 @@
 - [Os.watch](https://os.watch/)
 - [Winworld: Library](https://winworldpc.com/library/operating-systems)
 
-#### Software distribution
+#### software-distribution
 
 - [App Store - Apple](https://www.apple.com/app-store/)
 - [Cvs Repository](https://cvsweb.openbsd.org/)
@@ -1319,19 +1319,19 @@
 - [Viewvc Repository Listing](https://svnweb.freebsd.org/)
 - [Web3xplorer](https://www.web3xplorer.com/)
 
-##### App distribution
+##### app-distribution
 
 - [Appagg — Apps, Games, Discounts, Lists, Search, Rss+](https://appagg.com/?hl=en)
 - [Filecr - The Biggest Software Store](https://filecr.com/us-en/)
 
-###### Extra software distribution
+###### extra-software-distribution
 
 - [Malavida](https://www.malavida.com/es/windows)
 - [Meta Quest Store](https://www.meta.com/en-us/experiences/)
 - [Tizenbrew | More Apps For Your Tizen Tv](https://tizenbrew.6513006.xyz/)
 - [Webos Homebrew](https://www.webosbrew.org/)
 
-###### Android software distribution
+###### android-software-distribution
 
 - [360 Zhushou](http://zhushou.360.cn)
 - [Accrescent](https://accrescent.app/)
@@ -1351,7 +1351,7 @@
 - [Samsung Galaxy Store - Apps](https://galaxystore.samsung.com/apps)
 - [Xiaomi App](https://app.mi.com)
 
-####### Android_store_categories
+####### android_store_categories
 
 - [Android Wear - Android Apps On Google Play](https://play.google.com/store/apps/category/ANDROID_WEAR)
 - [Application - Android Apps On Google Play](https://play.google.com/store/apps/category/APPLICATION)
@@ -1406,7 +1406,7 @@
 - [Video Players & Editors - Android Apps On Google Play](https://play.google.com/store/apps/category/VIDEO_PLAYERS)
 - [Weather - Android Apps On Google Play](https://play.google.com/store/apps/category/WEATHER)
 
-####### APK repo
+####### apk-repo
 
 - [9apps](https://www.9apps.com)
 - [An1 - Free Games And Programs For Android](https://an1.com/)
@@ -1453,14 +1453,14 @@
 - [Uptodown](https://en.uptodown.com/)
 - [Wikiapp](https://descargar.wiki)
 
-###### iOS software distribution
+###### ios-software-distribution
 
 - [Altstore](https://altstore.io/)
 - [App Store - Today For Iphone](https://apps.apple.com/us/iphone/today)
 - [Cydia Download Ios 26.2, 18.7.3, 17.7.10, 16.7.12, 15.8.5 And 12.5.7 Versions \[cydia Free\]](https://www.cydiafree.com/)
 - [Sidestore](https://sidestore.io/) / [🔗](https://github.com/SideStore/SideStore/)
 
-###### Linux software distribution
+###### linux-software-distribution
 
 - ⭐ **[Pkgs - Packages For Linux And Unix](https://pkgs.org/)**
 - ⭐ **[Repology](https://repology.org/)**
@@ -1499,7 +1499,7 @@
 - [Vangrant Boxes - Vagrant Cloud](https://app.vagrantup.com/boxes/search)
 - [Void-packages/srcpkgs · Github](https://github.com/void-linux/void-packages/tree/master/srcpkgs)
 
-###### Linux-based software distribution
+###### linux-based-software-distribution
 
 - [Amazon.com: Apps & Games](https://www.amazon.com/mobile-apps/b?node=2350149011)
 - [Connect Iq Store | Watch Faces And Apps | Garmin](https://apps.garmin.com/)
@@ -1508,12 +1508,12 @@
 - [Openwrt Packages](https://openwrt.org/packages/start)
 - [Roku Store](https://channelstore.roku.com/browse)
 
-###### macOS distribution
+###### macos-distribution
 
 - [App Store - Discover For Mac](https://apps.apple.com/us/mac/discover)
 - [Macupdate](https://www.macupdate.com)
 
-###### Windows software distribution
+###### windows-software-distribution
 
 - ⭐ **[Microsoft Store - Generation Project (v1.2.3)](https://store.rg-adguard.net/)**
 - [100-downloads](https://100-downloads.com)
@@ -1549,7 +1549,7 @@
 - [Winstall - Winget Packages For Windows](https://winstall.app/)
 - [Yep! Download](https://yepdownload.com)
 
-####### Portable software distribution
+####### portable-software-distribution
 
 - [Fc Portables](https://www.fcportables.com)
 - [Muchos Portables](https://www.muchosportables.com)
@@ -1560,7 +1560,7 @@
 - [S0ft4pc](https://s0ft4pc.com)
 - [The House Of Portable](https://thehouseofportable.com/?home=1)
 
-##### Games distribution
+##### games-distribution
 
 - ⭐ **[Epic Games Store](https://www.epicgames.com/store/en-US)**
 - ⭐ **[Gog](https://www.gog.com/en/)**
@@ -1585,7 +1585,7 @@
 - [Windows Games](https://www.microsoft.com/en-us/store/games/windows)
 - [Xbox](https://www.xbox.com/en-us)
 
-###### Digital keys store
+###### digital-keys-store
 
 - ⭐ **[Zaccounts.io](https://zaccounts.io/)**
 - [Allkeyshop](https://www.allkeyshop.com/blog)
@@ -1618,7 +1618,7 @@
 - [Skin.club - Buy Cases, Get New Skins & Items](https://skin.club/en)
 - [Xtralife](https://www.xtralife.com)
 
-##### Plugin marketplace
+##### plugin-marketplace
 
 - ⭐ **[Obsidian Plugin Stats](https://www.obsidianstats.com/)**
 - [Haskell Hoogle](https://hoogle.haskell.org/)
@@ -1629,7 +1629,7 @@
 - [Visual Studio Marketplace](https://marketplace.visualstudio.com/)
 - [Vsixhub](https://www.vsixhub.com/)
 
-###### Add-ons browser
+###### add-ons-browser
 
 - ⭐ **[Add-ons For Firefox](https://addons.mozilla.org/en-US/firefox/)**
 - ⭐ **[Chrome Web Store](https://chrome.google.com/webstore/category/extensions)**
@@ -1650,7 +1650,7 @@
 - [Ungoogled Chromium - Install Extension](https://ungoogled-software.github.io/ungoogled-chromium-wiki/faq#can-i-install-extensions-or-themes-from-the-chrome-webstore)
 - [Ungoogled Chromium Extension Installer (link)](https://clients2.google.com/service/update2/crx?response=redirect&acceptformat=crx2,crx3&prodversion=[101.0.4951.64]&x=id%3D[cjpalhdlnbpafiamejdnhcphjbkeiagm]%26installsource%3Dondemand%26uc)
 
-##### Package repository
+##### package-repository
 
 - [Alpine Linux Packages](https://pkgs.alpinelinux.org/packages)
 - [Dart Packages](https://pub.dev)
@@ -1664,13 +1664,13 @@
 - [Packagist](https://packagist.org/)
 - [Pypi - The Python Package Index](https://pypi.org)
 
-##### VM images
+##### vm-images
 
 - ⭐ **[Osboxes - Virtual Machines For Virtualbox & Vmware](https://www.osboxes.org)**
 - [Os - Fosshub](https://www.fosshub.com/Operating-Systems.html)
 - [Osb - Sourceforge](https://sourceforge.net/projects/osboxes/)
 
-#### Software list
+#### software-list
 
 - [Api List](https://apilist.fun/)
 - [Archiveapp.org](https://archiveapp.org/)
@@ -1690,7 +1690,7 @@
 - [Useful Add Ons For Sway · Github](https://github.com/swaywm/sway/wiki/Useful-add-ons-for-sway#login-managers)
 - [Window Manager - Archwiki](https://wiki.archlinux.org/title/Window_manager)
 
-##### AI Tools Db
+##### ai-tools-db
 
 - ⭐ **[Boredhumans.com - Online Ai Programs](https://boredhumans.com/)**
 - [6pedia.com - Ai Tools Directory](https://www.6pedia.com/)
@@ -1712,7 +1712,7 @@
 - [Toolify - Best Ai Tools Directory & Ai Tools List](https://www.toolify.ai/)
 - [Youmind - Ai Creation Agent](https://youmind.com/)
 
-##### Alternative software
+##### alternative-software
 
 - ⭐ **[Alternativeto - Crowdsourced Software Recommendations](https://alternativeto.net/)**
 - ⭐ **[Kenneynl/adobe-alternatives · Github](https://github.com/KenneyNL/Adobe-Alternatives)**
@@ -1755,7 +1755,7 @@
 - [Top Best Alternative](https://topbestalternative.com)
 - [Zeemly](https://zeemly.com)
 
-### Sports Db
+### sports-db
 
 - ⭐ **[Thesportsdb.com - Crowdsource Database Of Artwork, Metadata, Results And Highlights With A Free Sports Api](https://www.thesportsdb.com/)**
 - [Bdfutbol](https://www.bdfutbol.com/en/index.html)
@@ -1774,7 +1774,7 @@
 - [Worldfootball](https://www.worldfootball.net)
 - [Yebscore](https://yebscore.com/nba/home)
 
-### User manual Db
+### user-manual-db
 
 - [¿manual Perdido? Descarga El Manual Que Estás Buscando.](https://www.manual.pa/)
 - [Club De Diagramas](https://www.clubdediagramas.com)
@@ -1786,12 +1786,12 @@
 - [Manualsonline.com](http://www.manualsonline.com)
 - [Shonebinu/brief · Github](https://github.com/shonebinu/Brief)
 
-### Website Db
+### website-db
 
 - [Next Spaceflight](https://nextspaceflight.com/)
 - [The Gdelt Project](https://www.gdeltproject.org)
 
-#### Coding-design links
+#### coding-design-links
 
 - [Ai - Start.me](https://start.me/p/xb4Npa/ai)
 - [Social Toolkit - Start.me](https://start.me/p/z4Lb6M/social-toolkit)
@@ -1799,7 +1799,7 @@
 - [Tech Sourcing Essentials - Start.me](https://start.me/p/nRgAej/tech-sourcing-essentials)
 - [The Sourcing Content Creator's Toolbox - Start.me](https://start.me/p/4KYxN5/the-sourcing-content-creator-s-toolbox)
 
-#### Blocklist links
+#### blocklist-links
 
 - [1hosts — World's Most Advanced Dns Filter-/blocklists!](https://o0.pages.dev/)
 - [Easylist](https://easylist.to/)
@@ -1808,7 +1808,7 @@
 - [Oisd | Domain Blocklist](https://oisd.nl/)
 - [The Big Blocklist Collection](https://firebog.net/)
 
-#### Business-productivity links
+#### business-productivity-links
 
 - [3rd Sector - Start.me](https://start.me/p/1kxxRL/3rd-sector)
 - [Blogging Platforms & Tools - Start.me](https://start.me/p/wM20nX/blogging-platforms-tools)
@@ -1820,7 +1820,7 @@
 - [New Employee Onboarding Page - Start.me](https://start.me/p/DPDebo/new-employee-onboarding-page)
 - [外贸软件工具包 - Start.me](https://start.me/p/MEen5M)
 
-#### Deep web links
+#### deep-web-links
 
 - [Deep Web Links](https://www.deepwebsiteslinks.com)
 - [Deep Web Sites 2019](https://www.deepweb-siteslinks.com)
@@ -1829,7 +1829,7 @@
 - [Hiddenwikitor.org](https://hiddenwikitor.org)
 - [Z-library (onion)](http://loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion/)
 
-#### Domains DB
+#### domains-db
 
 - ⭐ **[Api University Domains](http://universities.hipolabs.com/search?country=SPAIN&name=UNIVERSIDAD)**
 - [All Domains Db](https://alldomainsdb.com)
@@ -1848,7 +1848,7 @@
 - [Whoisxml Api](https://all-registered-domains.whoisxmlapi.com)
 - [Zonefiles](https://zonefiles.io)
 
-#### Internet map
+#### internet-map
 
 - ⭐ **[Internet Map](http://internet-map.net)**
 - [5000 Best Things](http://5000best.com)
@@ -1856,7 +1856,7 @@
 - [Internaut Explorer](https://expl.re)
 - [Webverse](http://webverse.org)
 
-#### NSFW Db
+#### nsfw-db
 
 - [Ainsfwtools - The #1 Nsfw Ai Tools Directory](https://www.ainsfwtools.com/)
 - [Best Ai Nsfw - Get Your Best Ai Nsfw Sites Directory](https://bestainsfw.com/)
@@ -1879,7 +1879,7 @@
 - [The Porn Map - List Of The Best Porn Sites & Free Porn Websites](https://thepornmap.com/)
 - [Top Amateur Porn Sites® - Best Free Homemade Porn Videos](https://topamateurpornsites.com/)
 
-#### OSINT links
+#### osint-links
 
 - [Australian Osint - Start.me](https://start.me/p/L10kJ6/australian-osint)
 - [Basic Osint Tools - Start.me](https://start.me/p/p1Ba7E/basic-osint-tools)
@@ -1919,7 +1919,7 @@
 - [Verification Toolset - Start.me](https://start.me/p/ZGAzN7/verification-toolset)
 - [Wportal - Cyber Security Resources](https://wportal.xyz)
 
-#### Personal links
+#### personal-links
 
 - [5e Resources - Start.me](https://start.me/p/z4EG6q/5e-resources)
 - [19 Aviation - Start.me](https://start.me/p/Nx1g5M/19-aviation)
@@ -1953,7 +1953,7 @@
 - [राजे Browser - Start.me](https://start.me/p/Zm9BOk/browser)
 - [预报值班 - Start.me](https://start.me/p/vjp801)
 
-#### Ranking webs
+#### ranking-webs
 
 - ⭐ **[Majestic Million](https://majestic.com/reports/majestic-million)**
 - ⭐ **[Similarwebs - Top Sites](https://www.similarweb.com/top-websites)**
@@ -1967,7 +1967,7 @@
 - [Semrush - Top 100 Visited Websites](https://www.semrush.com/blog/most-visited-websites/)
 - [Similarweb - Top Google Apps On Spain Ranking](https://www.similarweb.com/top-apps/google/spain/)
 
-#### Similar Sites
+#### similar-sites
 
 - [Alexa - Popular Articles](https://www.alexa.com/popular-articles)
 - [Alexa - Similar Sites](https://www.alexa.com/find-similar-sites)
@@ -1980,7 +1980,7 @@
 - [Sitesimilar.net](https://www.sitesimilar.net/)
 - [Website Hunt](https://www.websitehunt.co/)
 
-#### Web directory
+#### web-directory
 
 - ⭐ **[Free Media Heck Yeah (fmhy)](https://fmhy.net/)** / [🔗](https://github.com/fmhy/FMHY)
 - ⭐ **[Freemediaheckyeah](https://old.fmhy.net/)**
@@ -2057,7 +2057,7 @@
 - [Web Directory At R-tt](http://directory.r-tt.com)
 - [Wotaku](https://wotaku.wiki/)
 
-##### DMOZ
+##### dmoz
 
 - [Building A Url Classifier Using Dmoz Data](https://utatds.github.io/2017-01-18-URL-classification-using-DMOZ-data)
 - [Curlie (de)](https://curlie.org/de)
@@ -2067,17 +2067,17 @@
 - [Dmoz-odp](https://www.dmoz-odp.org)
 - [Idomz.org](https://idmoz.org)
 
-##### Personal web directory
+##### personal-web-directory
 
 - [David & Cecilia Taylor's Web Pages](https://www.satsignal.eu)
 - [Whale.to](http://www.whale.to)
 
-### World Db
+### world-db
 
 - [Trends24.in — X (twitter) Trending Topics And Hashtags Today](https://trends24.in/)
 - [World Postal Code - Free Zip/postal Code Lookup](https://www.mapanet.eu/en/)
 
-#### Company Db
+#### company-db
 
 - [Acquiredby](https://acquiredby.co)
 - [Annualreports](https://www.annualreports.com)
@@ -2096,7 +2096,7 @@
 - [Spoke](https://www.spoke.com)
 - [Wipo&nbsp;global Brand Database](https://www3.wipo.int/branddb/en)
 
-#### Drugs Db
+#### drugs-db
 
 - [A - Z Drug List](https://www.drugs.com/drug_information.html)
 - [Drugbank Online](https://go.drugbank.com)
@@ -2104,7 +2104,7 @@
 - [Rxlist](https://www.rxlist.com/script/main/hp.asp)
 - [Safe Substance](https://safesubstance.com)
 
-#### Demography Db
+#### demography-db
 
 - [7 Billion World](https://www.7billionworld.com)
 - [Indexmundi](https://www.indexmundi.com)
@@ -2121,7 +2121,7 @@
 - [Worldometers.info](https://www.worldometers.info)
 - [Worldpop](https://www.worldpop.org)
 
-#### Diseases Db
+#### diseases-db
 
 - [Diseases & Conditions - Medscape Reference](https://emedicine.medscape.com)
 - [Diseases Database](http://www.diseasesdatabase.com)
@@ -2129,7 +2129,7 @@
 - [Medical Coding Reference](https://www.icd10data.com)
 - [The Disease Map](http://disease-map.net)
 
-#### Economy Db
+#### economy-db
 
 - [Databank | The World Bank](https://databank.worldbank.org/)
 - [Imf Data World](https://www.imf.org/external/datamapper/NGDP_RPCH@WEO/OEMDC/ADVEC/WEOWORLD)
@@ -2137,7 +2137,7 @@
 - [The Atlas Of Economic Complexity](https://atlas.cid.harvard.edu)
 - [The Globe Of Economic Complexity](http://globe.cid.harvard.edu)
 
-##### Trade Db
+##### trade-db
 
 - [Exportnation](http://www.exportnation.com)
 - [Global Commodities](https://www.dailyfx.com/research/global-commodities/globe)
@@ -2147,7 +2147,7 @@
 - [Trendeconomy](https://trendeconomy.com)
 - [Un Comtrade | International Trade Statistics Database](https://comtrade.un.org)
 
-#### Flags Db
+#### flags-db
 
 - [Flags Api & Cdn – Flagcdn.com](https://flagcdn.com/)
 - [Flags Of The World](https://flagpedia.net/)
@@ -2155,7 +2155,7 @@
 - [National Symbols](https://www.national-symbol.com)
 - [World Flag Database](http://www.flags.net)
 
-#### Food Db
+#### food-db
 
 - [Culture Mapping Food & Beverage](https://foodandbeveragetrends2018.scenariodna.com/app/circle)
 - [Food List – Eating A To Z](http://eatingatoz.com/food-list)
@@ -2163,7 +2163,7 @@
 - [Lista De Alimentos](https://www.iqb.es/d_mellitus/paciente/manual1/lista.htm)
 - [Listado Alimentos](http://badali.umh.es/listado-alfabetico)
 
-#### Genome Db
+#### genome-db
 
 - [Addgene.org](https://www.addgene.org/)
 - [Alphafold Protein Structure Database](https://alphafold.ebi.ac.uk/)
@@ -2178,11 +2178,11 @@
 - [Serratus](https://serratus.io/)
 - [The Mouse Brain Library](http://www.mbl.org)
 
-#### Language Db
+#### language-db
 
 - [Wikitongues](https://wikitongues.org/)
 
-##### English Db
+##### english-db
 
 - [An English Word List](https://www-personal.umich.edu/~jlawler/wordlist.html)
 - [Corncob Lowercase - Mieliestronk](http://www.mieliestronk.com/corncob_lowercase.txt)
@@ -2192,7 +2192,7 @@
 - [Scowl (and Friends)](http://wordlist.aspell.net/)
 - [Wordnet - Princeton University](https://wordnet.princeton.edu/)
 
-#### Mineral Db
+#### mineral-db
 
 - [Mindat.org - Mines, Minerals And More](https://www.mindat.org/)
 - [Mineral Resources Database - Minerals Education Coalition](https://mineralseducationcoalition.org/mining-minerals-information/minerals-database/)
@@ -2200,7 +2200,7 @@
 - [Rock Identifier - Online Rock Encyclopedia And Rock Identifier](https://rockidentifier.com/)
 - [Usgs Mineral Resources On-line Spatial Data](https://mrdata.usgs.gov/)
 
-#### Flora and Fauna Db
+#### flora-and-fauna-db
 
 - [A-z Animals](https://a-z-animals.com)
 - [About Animals](https://www.aboutanimals.com)
@@ -2221,7 +2221,7 @@
 - [Plants Database - Garden.org](https://garden.org/plants)
 - [The Reptile Database](https://reptile-database.reptarium.cz)
 
-#### People Db
+#### people-db
 
 - [Basesfaces](https://basefaces.com)
 - [Hairstyles 2025 | Hairstyle Inspiration, Hair Care, Hair Styling And Cutting](https://www.hairfinder.com/index.htm)
@@ -2232,7 +2232,7 @@
 - [The Personality Database](https://personality-database.com)
 - [Waitwho.is](https://waitwho.is)
 
-##### Celebs Db
+##### celebs-db
 
 - [Alchetron*](https://alchetron.com)
 - [Ancientfaces](https://www.ancientfaces.com)
@@ -2253,25 +2253,25 @@
 - [Wikifamouspeople](https://wikifamouspeople.com)
 - [Wikifeet](https://wikifeet.com)
 
-###### Celebs address
+###### celebs-address
 
 - [Celebrity Homes And More!](https://virtualglobetrotting.com)
 - [Fanmail.biz - Celbs Address](http://www.fanmail.biz)
 - [Starmap - Celebs Home](https://starmap.com)
 - [Velvetropes - Celebs Homes](https://www.velvetropes.com)
 
-###### Celebs age
+###### celebs-age
 
 - [Beliefnet - Celebrity Faith Database](https://www.beliefnet.com/celebrity-faith-database.aspx)
 - [Celebsages](https://www.celebsages.com)
 - [Howold.co](https://www.howold.co)
 
-###### Celebs Height
+###### celebs-height
 
 - [Celebrity Heights](https://www.celebheights.com/)
 - [Foroalturas](https://www.foroalturas.com)
 
-##### Names Db
+##### names-db
 
 - [Babynamesdirect](https://www.babynamesdirect.com)
 - [Ine - Apellidos Y Nombres](https://ine.es/widgets/nombApell/nombApell.shtml)
@@ -2283,12 +2283,12 @@
 - [Nickfinder.com](https://nickfinder.com/)
 - [Nómbrame](https://www.nombra.me)
 
-##### Phone numbers Db
+##### phone-numbers-db
 
 - [No Más 900](http://nomas900.info/)
 - [No Más 900 - Teléfonos Equivalentes 901, 902 - Nomas900.org](https://www.nomas900.org/)
 
-##### Search people
+##### search-people
 
 - ⭐ **[Sherlock-project/sherlock · Github](https://github.com/sherlock-project/sherlock)**
 - [192.com](https://www.192.com)
@@ -2324,7 +2324,7 @@
 - [Zabasearch](https://www.zabasearch.com)
 - [Zoominfo](https://www.zoominfo.com)
 
-#### Places Db
+#### places-db
 
 - [Guachinches Tenerife](https://guachinchestenerife.com/)
 - [Localbeautyes | Los Mejores Salones De Belleza De España](https://localbeautyes.com/)
@@ -2333,7 +2333,7 @@
 - [Nicelocal.es](https://en.nicelocal.es/)
 - [Soloencuentrame - Directorio De Notarios](https://soloencuentrame.com/)
 
-#### Stellar catalog Db
+#### stellar-catalog-db
 
 - [Anexo:galaxias](https://es.wikipedia.org/wiki/Anexo:Galaxias)
 - [Category:ic Objects](https://en.wikipedia.org/wiki/Category:IC_objects)
@@ -2346,11 +2346,11 @@
 - [Ngc Objects](https://commons.wikimedia.org/wiki/Category:NGC_objects_by_number)
 - [Ngc Of Nebulae](https://en.wikipedia.org/wiki/New_General_Catalogue)
 
-### Case Law Database
+### case-law-database
 
 - [Epstein Exposed - The Most Comprehensive Epstein Files Database](https://epsteinexposed.com/) / [🔗](https://github.com/stonesalltheway1/Epstein-Pipeline)
 
-## Encyclopedia
+## encyclopedia
 
 - ⭐ **[Wikipedia](https://en.wikipedia.org/wiki/Main_Page)**
 - [Britannica](https://www.britannica.com)
@@ -2373,7 +2373,7 @@
 - [Wikimannia](https://en.wikimannia.org/WikiMANNia:Main_Page)
 - [World History Encyclopedia](https://www.worldhistory.org)
 
-### World info
+### world-info
 
 - [Armedforces.eu](https://armedforces.eu)
 - [Codigos Postales De España](https://codigospostales.com/)
@@ -2390,7 +2390,7 @@
 - [Visaguide.world - Guide To Worldwide Travel Visa](https://visaguide.world/)
 - [Worlddata](https://www.worlddata.info/)
 
-### Definition
+### definition
 
 - [Características.co](https://www.caracteristicas.co)
 - [Concepto](https://concepto.de)
@@ -2403,7 +2403,7 @@
 - [Significados](https://www.significados.com)
 - [Wordnik](https://www.wordnik.com)
 
-### Encyclopedia of subjects
+### encyclopedia-of-subjects
 
 - [Ballotpedia](https://ballotpedia.org/Main_Page)
 - [Bioenciclopedia](https://www.bioenciclopedia.com)
@@ -2445,7 +2445,7 @@
 - [Wikiart](https://www.wikiart.org/)
 - [Wikispooks](https://wikispooks.com/wiki/Main_Page)
 
-### Encyclosphere
+### encyclosphere
 
 - ⭐ **[Encyclosearch](https://encyclosearch.org)**
 - [Encycloreader](https://encycloreader.org/)
@@ -2453,7 +2453,7 @@
 - [Encyclosphere](https://encyclosphere.org)
 - [Minifeed](https://minifeed.org/)
 
-### Symbols
+### symbols
 
 - [Los Simbolos](https://lossimbolos.com)
 - [Mundocruces](https://mundocruces.com/)
@@ -2463,7 +2463,7 @@
 - [Symbols.com](https://www.symbols.com/)
 - [Symbolsage](https://symbolsage.com/)
 
-### Wikis
+### wikis
 
 - ⭐ **[Golden - Wiki](https://golden.com/wiki/Golden-5R)**
 - [Appropedia](https://www.appropedia.org/Welcome_to_Appropedia)
@@ -2539,7 +2539,7 @@
 - [Witchipedia](https://witchipedia.com)
 - [Zdoom Wiki](https://zdoom.org/wiki/Main_Page)
 
-#### Documentation wiki
+#### documentation-wiki
 
 - ⭐ **[Dendron Wiki](https://wiki.dendron.so/)**
 - ⭐ **[Flowershow - Markdown To Website In Seconds](https://flowershow.app/)**
@@ -2694,7 +2694,7 @@
 - [Xfce Wiki](https://wiki.xfce.org/)
 - [Yashsinghcodes/wik · Github](https://github.com/yashsinghcodes/wik)
 
-#### Fandom wiki
+#### fandom-wiki
 
 - [Aesthetics Wiki | Fandom](https://aesthetics.fandom.com/wiki/Aesthetics_Wiki)
 - [Alien Anthology Wiki](https://alienanthology.fandom.com/wiki/Alien_Anthology_Wiki)
@@ -2806,7 +2806,7 @@
 - [Yu-gi-oh! Wiki | Fandom](https://yugioh.fandom.com/wiki/Yu-Gi-Oh!_Wiki)
 - [Zelda Wiki | Fandom](https://zelda.fandom.com/wiki/Main_Page)
 
-#### Memes wiki
+#### memes-wiki
 
 - [Apocrypha](https://www.apocrypha.ovh/wiki/Apocrypha:Portada)
 - [Encyclopedia Dramatica](https://www.encyclopediadramatica.online/index.php?title=Main_Page)
@@ -2819,7 +2819,7 @@
 - [Uncyclopedia](https://de.uncyclopedia.co/wiki/Hauptseite)
 - [Uncyclopedia](https://en.uncyclopedia.co/wiki/Main_Page)
 
-#### Wikimedia sites
+#### wikimedia-sites
 
 - [Ores Wikimedia](https://ores.wikimedia.org/)
 - [Phabricator](https://phabricator.wikimedia.org)
@@ -2854,7 +2854,7 @@
 - [Wikiworks](https://www.wikiworks.com)
 - [Wiktionary](https://www.wiktionary.org/)
 
-##### Wiki Loves
+##### wiki-loves
 
 - [Metawiki Wikiloves Photos](https://meta.wikimedia.org/wiki/Wikipedia_Pages_Wanting_Photos/Participate/Organizers_Guide)
 - [Wiki Loves - Wikimedia España](https://www.wikilov.es/)
@@ -2867,7 +2867,7 @@
 - [Wiki Loves Monuments France](https://wikilovesmonuments.fr)
 - [Wiki Loves Monuments Uk](https://www.wikilovesmonuments.org.uk)
 
-##### Wikimedia region
+##### wikimedia-region
 
 - [Wikimedia Deutschland](https://www.wikimedia.de/)
 - [Wikimedia España](https://www.wikimedia.es)
@@ -2876,7 +2876,7 @@
 - [Wikimedia Netherlands](https://www.wikimedia.nl)
 - [Wikimedia Uk](https://wikimedia.org.uk)
 
-## Events
+## events
 
 - [Advent Of Code 2020](https://adventofcode.com)
 - [Burning Man](https://burningman.org/)
@@ -2896,7 +2896,7 @@
 - [The World Of Hans Zimmer – A New Dimension](https://www.worldofhanszimmer.com/the-world-of-hans-zimmer-a-new-dimension/)
 - [Ultra Europe](https://ultraeurope.com/)
 
-### Concert
+### concert
 
 - [Cirque Du Soleil](https://www.cirquedusoleil.com)
 - [Digital Concert Hall](https://www.digitalconcerthall.com/en/home)
@@ -2907,7 +2907,7 @@
 - [Sunblast](https://sunblast.es/2018)
 - [The Music Man On Broadway](https://musicmanonbroadway.com)
 
-### Expo
+### expo
 
 - [Anime Expo](https://www.anime-expo.org)
 - [Ces.tech](https://www.ces.tech)
@@ -2924,7 +2924,7 @@
 - [Talks 4 Kids](https://www.talks4kids.com)
 - [Wecodefest 2020](https://wecodefest.com)
 
-### Festival
+### festival
 
 - [Busan International Film Festival](https://www.biff.kr/eng)
 - [Farra World](https://farra.world/)
@@ -2939,7 +2939,7 @@
 - [World Science Festival](https://www.worldsciencefestival.com)
 - [Xoxo Fest](https://xoxofest.com/)
 
-### Game events
+### game-events
 
 - [Csgo.net](https://csgo.net)
 - [Gamergy](http://www.gamergy.es)
@@ -2952,12 +2952,12 @@
 - [Tlp Tenerife](https://tlp-tenerife.com/)
 - [Video Game Conventions](https://videogamecons.com)
 
-### LAN party
+### lan-party
 
 - [Canarias Game Show](https://www.canariasgameshow.com)
 - [Dreamhack](https://dreamhack.com)
 
-### Meetup conference
+### meetup-conference
 
 - [Berlin Hack & Tell](https://berlinhackandtell.rocks)
 - [Def Con](https://defcon.org)
@@ -2969,7 +2969,7 @@
 - [Open Source Day](https://opensourceday.com)
 - [Society For Artificial Intelligence And Statistics](https://aistats.org/)
 
-### Ticket Sales
+### ticket-sales
 
 - [Bandsintown](https://bandsintown.com/)
 - [Concerthotels](https://www.concerthotels.com)
@@ -2991,7 +2991,7 @@
 - [Wegow - Where Music Goes Live!](https://www.wegow.com/)
 - [Xceed | We Go Out: Clubs, Bars & The Best Events’ Tickets](https://xceed.me/en)
 
-### What to do
+### what-to-do
 
 - ⭐ **[Meetup](https://www.meetup.com)**
 - [Aladinia - Regala Experiencias. Más De 5.000 Ideas Originales](https://www.aladinia.com/)
@@ -3005,13 +3005,13 @@
 - [Viagogo](https://www.viagogo.com)
 - [Wikido](https://www.wikido.com)
 
-## Hobbies
+## hobbies
 
 - [Animated Knots](https://www.animatedknots.com)
 - [Codeparade - Webcam Feedback Fractals](https://codeparade.itch.io/webcam-fractals)
 - [Hobbylark](https://hobbylark.com)
 
-### Bricolage
+### bricolage
 
 - [Bosch Bricolaje](https://www.bosch-do-it.com/es/es/aficionado-al-bricolaje/p%C3%A1gina-de-inicio/index.jsp)
 - [Brico-valera](https://www.brico-valera.com)
@@ -3023,14 +3023,14 @@
 - [Manomano.es](https://www.manomano.es)
 - [This To That](https://thistothat.com/)
 
-### Collecting
+### collecting
 
 - [Collectors Corner](https://www.collectorscorner.com)
 - [Collectors.com](https://www.collectors.com)
 - [Colnect](https://colnect.com/es)
 - [Todocoleccion](https://www.todocoleccion.net)
 
-### Cubing
+### cubing
 
 - [Cstimer](https://cstimer.net/)
 - [Cubedesk - Rubik's Cube Timer | 1v1 | Trainer](https://www.cubedesk.io/home)
@@ -3049,17 +3049,17 @@
 - [Speedsolving Cube Wiki](https://www.speedsolving.com/wiki/index.php/Main_Page)
 - [World Cube Association](https://www.worldcubeassociation.org)
 
-### Lore
+### lore
 
 - [El Anillo Único | Noticias De La Serie De El Señor De Los Anillos, Los Anillos De Poder, Las Películas, Los Libros Y La Mayor Comunidad Tolkien Online](https://elanillounico.com/)
 - [Lord Of The Rings Fantasy World](https://lord-of-the-rings.org/)
 - [The Lord Of The Rings Family Tree Project](http://lotrproject.com/)
 
-## Library
+## library
 
 - [Codex Atlanticus - Da Vinci](https://codex-atlanticus.it/#/Overview)
 
-### Academic library
+### academic-library
 
 - [Aata Online](https://aata.getty.edu/primo-explore/search?vid=AATA)
 - [Academia.edu](https://www.academia.edu/)
@@ -3107,7 +3107,7 @@
 - [Wiley](https://www.wiley.com/en-us)
 - [World Scientific](https://www.worldscientific.com)
 
-### Index of libraries
+### index-of-libraries
 
 - [Libdex - Index Of Libraries](http://www.libdex.com)
 - [Libguides - Com Databases](https://libguides.com.edu/az.php)
@@ -3115,7 +3115,7 @@
 - [Libguides - Uprm Databases](https://libguides.uprm.edu/az.php)
 - [Rutgers University Libraries - Indexes](https://www.libraries.rutgers.edu/indexes)
 
-### Online library
+### online-library
 
 - ⭐ **[Internet Archive](https://archive.org)**
 - ⭐ **[Open Library](https://openlibrary.org)**
@@ -3141,7 +3141,7 @@
 - [Wolfram Library Archive](https://library.wolfram.com)
 - [World Digital Library](https://www.wdl.org/en)
 
-### Places library
+### places-library
 
 - [Biblio National De France](https://www.bnf.fr/fr)
 - [Biblioteca Digital Ilce Mx](http://bibliotecadigital.ilce.edu.mx)
@@ -3165,7 +3165,7 @@
 - [Vatican Library](https://www.vaticanlibrary.va/)
 - [Viaf](https://viaf.org)
 
-#### Spain library
+#### spain-library
 
 - [Biblioteca Nacional De España](http://www.bne.es/es/Inicio/index.html)
 - [Bibliotecas Públicas España](https://www.bibliotecaspublicas.es)
@@ -3173,7 +3173,7 @@
 - [Patrimonio Bibliográfico Español](http://catalogos.mecd.es/CCPB/cgi-ccpb/abnetopac?ACC=101)
 - [Red De Biblioteca Universitarias Españolas](https://www.rebiun.org)
 
-### Search in library
+### search-in-library
 
 - ⭐ **[Worldcat.org](https://search.worldcat.org/)**
 - [Ads - Harvard](https://ui.adsabs.harvard.edu)
@@ -3199,7 +3199,7 @@
 - [Scopus](https://www.scopus.com)
 - [Typesense - Books](https://books-search.typesense.org)
 
-### University library
+### university-library
 
 - [Biblioteca Ull](https://absysnet.bbtk.ull.es)
 - [Cambridge Core](https://www.cambridge.org/core/browse-subjects)
@@ -3219,15 +3219,15 @@
 - [University Of Minnesota Libraries](https://www.lib.umn.edu)
 - [Uw Libraries](https://lib.washington.edu)
 
-## Platform
+## platform
 
 - [Disroot | Disroot.org](https://disroot.org/)
 - [Verssion](https://verssion.one/) / [🔗](https://github.com/alicebob/verssion)
 
-### Audio platform
+### audio-platform
 
 
-#### Audiobook platform
+#### audiobook-platform
 
 - ⭐ **[Audible.es - Miles De Audiolibres Y Podcasts Originales](https://www.audible.es)**
 - [Audio Books - Online Download](https://audiobookbay.se/)
@@ -3248,7 +3248,7 @@
 - [Títulos Narrados Por Jordi Boixaderas | Audible.es](https://www.audible.es/search?searchNarrator=Jordi+Boixaderas)
 - [Títulos Narrados Por Raúl Llorens | Audible.es](https://www.audible.es/search?searchNarrator=Ra%C3%BAl+Llorens)
 
-#### Music Genres
+#### music-genres
 
 - [Apple Music - Genres](https://music.apple.com/us/grouping/178464)
 - [Deezer - Music Genres](https://www.deezer.com/en/channels/explore/)
@@ -3258,13 +3258,13 @@
 - [Spotify – Genres](https://open.spotify.com/search)
 - [Youtube Music - Genres](https://music.youtube.com/moods_and_genres)
 
-##### Music in movies
+##### music-in-movies
 
 - [Film Music Notes](https://www.filmmusicnotes.com)
 - [Lista De Listas De Leitmotifs](https://listadelistasdeleitmotifs.com)
 - [Tunefind*](https://www.tunefind.com)
 
-##### Top music charts
+##### top-music-charts
 
 - [20 Spotify Top Artists Globally - Music Pie Chart](https://musicpiechart.com/spotify-top-artists)
 - [Billboard - 100 Chart](https://www.billboard.com/charts/hot-100)
@@ -3281,10 +3281,10 @@
 - [Top40-charts](https://top40-charts.com)
 - [Ultratop](https://www.ultratop.be/fr)
 
-#### Music platform
+#### music-platform
 
 
-##### Audio streaming
+##### audio-streaming
 
 - ⭐ **[Audius](https://audius.co/)**
 - ⭐ **[Jamendo](https://www.jamendo.com/start)**
@@ -3388,7 +3388,7 @@
 - [Youtube Music](https://music.youtube.com/tasteprofile)
 - [Яндекс Музыка — Собираем Музыку И Подкасты Для Вас](https://music.yandex.ru/)
 
-##### Digital Music Store
+##### digital-music-store
 
 - [Allflac](https://allflac.com)
 - [Anjuna Music Store](https://music.anjunabeats.com)
@@ -3408,7 +3408,7 @@
 - [The Spirit Of Turtle](https://www.spiritofturtle.com/?v=796834e7a283)
 - [Yotoko - Guitarras Modesto Malla](https://yotoko.es/)
 
-###### CD & Vinile
+###### cd-&-vinile
 
 - [Acoustic Sounds](https://store.acousticsounds.com)
 - [Cd And Lp](https://www.cdandlp.com/es)
@@ -3420,7 +3420,7 @@
 - [Umusic Shop](https://shop.umusic.ca)
 - [Vinile Shop](https://vinileshop.com)
 
-###### Record stores
+###### record-stores
 
 - [Bleep Store - Naim Records](https://naim.bleepstores.com)
 - [Chandos Records](https://www.chandos.net/home)
@@ -3430,7 +3430,7 @@
 - [Merge Records](https://www.mergerecords.com)
 - [Reference Recordings](https://referencerecordings.com)
 
-##### SFX music
+##### sfx-music
 
 - [Adsr Sounds](https://www.adsrsounds.com/)
 - [Airbit](https://airbit.com/)
@@ -3450,7 +3450,7 @@
 - [Sounsnap](https://www.soundsnap.com/)
 - [Zapsplat](https://www.zapsplat.com/)
 
-###### Ambience Sound
+###### ambience-sound
 
 - [A Soft Murmur](https://asoftmurmur.com)
 - [Ambie White Noise](https://ambieapp.com/) / [🔗](https://github.com/jenius-apps/ambie)
@@ -3477,12 +3477,12 @@
 - [Virtocean](https://virtocean.com)
 - [Work At Dunder Mifflin](https://workatdundermifflin.com)
 
-###### Sound player
+###### sound-player
 
 - [Muki.io](https://muki.io)
 - [Sound Test](https://sndtst.com)
 
-#### Podcast platform
+#### podcast-platform
 
 - ⭐ **[Ivoox - La Plataforma Líder De Podcast En Español](https://www.ivoox.com/)**
 - [Acast](https://acast.com/)
@@ -3516,12 +3516,12 @@
 - [Stitcher](https://www.stitcher.com)
 - [Transistor - Podcast Hosting](https://transistor.fm/)
 
-#### Radio
+#### radio
 
 - [Fmstream - The Radio Stream Directory](https://fmstream.org/index.php?c=FT)
 - [Wavelog - Next Generation Web-based Logging](https://www.wavelog.org/) / [🔗](https://github.com/wavelog/wavelog)
 
-##### Radio platform
+##### radio-platform
 
 - [365 Radio - Cultured Music](https://365.ilysm.nl/)
 - [Accuradio](https://www.accuradio.com)
@@ -3551,7 +3551,7 @@
 - [Webamp - Autopilot](https://webamp.org)
 - [Yuri Saurov / Transistor · Gitlab](https://invent.kde.org/saurov/transistor)
 
-##### Radio station
+##### radio-station
 
 - [1.fm](https://www.1.fm/hello)
 - [Amazing Radio Usa](https://amazingradio.us/)
@@ -3587,13 +3587,13 @@
 - [Wfmu-fm](https://wfmu.org)
 - [Youarelistening.to](http://youarelistening.to)
 
-#### Record voice
+#### record-voice
 
 - [Online Voice Recorder](https://online-voice-recorder.com)
 - [Virtualspeech - Record Your Voice](https://virtualspeech.com/voice-recorder)
 - [Vocaroo](https://vocaroo.com)
 
-#### Music recognizer
+#### music-recognizer
 
 - [Acrcloud](https://www.acrcloud.com)
 - [Aha Music](https://www.aha-music.com)
@@ -3612,16 +3612,16 @@
 - [Whatsong Soundtracks](https://www.what-song.com/)
 - [Whosampled](https://www.whosampled.com)
 
-#### Voice platform
+#### voice-platform
 
 - [Voice Crafters | Voice Over Marketplace](https://www.voicecrafters.com/)
 - [Voicefinder - Find The Best Voiceover For Your Project](https://voicefinder.io/)
 - [Voicfy | Hire Voice Overs](https://voicfy.com/)
 
-### Image platform
+### image-platform
 
 
-#### 3D platform
+#### 3d-platform
 
 - [3d Collective](https://3dcollective.es/)
 - [3dmodels Store - Detailed 3d Models Of Cars And Vehicles](https://3dmodels.org/)
@@ -3648,7 +3648,7 @@
 - [Sketchfab - The Best 3d Viewer On The Web](https://sketchfab.com)
 - [Turbosquid - 3d Models For Professionals](https://www.turbosquid.com/)
 
-##### 3D printing
+##### 3d-printing
 
 - [Cults 3d](https://cults3d.com)
 - [Free3d](https://free3d.com/)
@@ -3658,7 +3658,7 @@
 - [Yeggi](https://www.yeggi.com)
 - [Youmagine](https://www.youmagine.com)
 
-#### Artwork platform
+#### artwork-platform
 
 - [.art Domains - Digital Identity For Your Creative Personality](https://art.art/)
 - [Alpha Coders](https://www.alphacoders.com)
@@ -3679,7 +3679,7 @@
 - [Unite.com](https://unite.com)
 - [Unite.com - Mosaic](https://mosaic.unite.com/)
 
-#### ASCII Art Generator
+#### ascii-art-generator
 
 - [16colo.rs - Ansi/ascii Art Archive](https://16colo.rs/)
 - [Ascii Art](https://ascii.co.uk/art)
@@ -3695,7 +3695,7 @@
 - [Text To Ascii Art Generator](https://www.patorjk.com/software/taag#p=display)
 - [Text-image.com](https://www.text-image.com/)
 
-#### Design resources
+#### design-resources
 
 - ⭐ **[Icons8 - Free Icons, Clipart Illustrations, Photos And Music](https://icons8.com/)**
 - [1001freedownloads](https://www.1001freedownloads.com)
@@ -3764,7 +3764,7 @@
 - [Wepik | Free Graphic Design Editor & Online Templates](https://wepik.com/)
 - [Youworkforthem](https://www.youworkforthem.com/)
 
-##### Background patterns
+##### background-patterns
 
 - [Cool Backgrounds](https://coolbackgrounds.io/)
 - [Grainient | Freebies](https://grainient.supply/)
@@ -3775,7 +3775,7 @@
 - [Subtle Patterns | Toptal](https://www.toptal.com/designers/subtlepatterns/)
 - [Trianglify.io](https://trianglify.io/)
 
-##### Design inspiration
+##### design-inspiration
 
 - [Another Graphic](https://anothergraphic.org/)
 - [Awwwards](https://www.awwwards.com/)
@@ -3792,7 +3792,7 @@
 - [Ui.live - Create. Share. Grow.](https://ui.live/)
 - [Uplabs](https://www.uplabs.com/)
 
-##### Game assets
+##### game-assets
 
 - [Craftpix.net - 2d Game Assets Store & Free](https://craftpix.net/)
 - [Game Deve Marke - Game Assets For Indie Developers](https://www.gamedevmarket.net/)
@@ -3800,7 +3800,7 @@
 - [Shadertoy](https://www.shadertoy.com/)
 - [Unity Asset Store](https://assetstore.unity.com/)
 
-##### MockUp
+##### mockup
 
 - [Angle.sh](https://angle.sh/)
 - [Animockup](https://animockup.com/)
@@ -3829,14 +3829,14 @@
 - [Threed.io](https://threed.io/)
 - [Yellow Images](https://yellowimages.com/)
 
-##### Texture
+##### texture
 
 - [Architextures](https://architextures.org/)
 - [Free Stock Textures](https://freestocktextures.com/)
 - [Texture Ninja](https://texture.ninja/)
 - [Texturepalace](https://www.texturepalace.com/)
 
-##### Vector icons
+##### vector-icons
 
 - ⭐ **[Dashboardicons.com](https://dashboardicons.com/)**
 - ⭐ **[Flaticon](https://www.flaticon.com/)**
@@ -3931,7 +3931,7 @@
 - [Watchos Icon Gallery](https://www.watchosicongallery.com/?utm_source=eagle-community)
 - [Worldvectorlogo: Brand Logos Free To Download](https://worldvectorlogo.com/)
 
-#### Gifs & Clips
+#### gifs-&-clips
 
 - [Getyarn.io](https://getyarn.io)
 - [Gfycat](https://gfycat.com)
@@ -3944,7 +3944,7 @@
 - [Streamerclips](https://www.streamerclips.com)
 - [Tenor Gif](https://tenor.com)
 
-##### GIF maker
+##### gif-maker
 
 - ⭐ **[Ezgif - Free Online Animated Gif Editor](https://ezgif.com)**
 - [Gickr.com](https://gickr.com/)
@@ -3956,7 +3956,7 @@
 - [Make A Gif](https://makeagif.com)
 - [Online Gif Tools – Simple, Free And Easy To Use Gif Utilities](https://onlinegiftools.com/)
 
-#### Image hosting
+#### image-hosting
 
 - [Cubeupload](https://cubeupload.com/)
 - [Directupload](https://www.directupload.net)
@@ -3977,7 +3977,7 @@
 - [Unsee.cc](https://unsee.cc/)
 - [Vidble](https://vidble.com)
 
-#### Stock images
+#### stock-images
 
 - ⭐ **[Freepik - All-in-one Ai Creative Suite](https://www.freepik.com/)**
 - [123rf](https://www.123rf.com)
@@ -4063,14 +4063,14 @@
 - [Wunderstock](https://wunderstock.com/)
 - [Xframe](https://xframe.io/)
 
-##### Free album photos
+##### free-album-photos
 
 - [Jay Mantri](https://jaymantri.com/)
 - [Moveast](https://moveast.me/)
 - [Mystock.photos](https://mystock.themeisle.com/)
 - [Travel Coffe Book](https://travelcoffeebook.com/)
 
-#### Wallpaper
+#### wallpaper
 
 - [4chan/wg - Wallpaper](https://boards.4chan.org/wg/)
 - [Awesome Wallpapers](https://alpha.wallhaven.cc)
@@ -4101,7 +4101,7 @@
 - [Wallup.net](https://wallup.net)
 - [Фото О Спорте И Туризме - Скачать Картинки На Рабочий Стол. Обои На Телефон](https://sportishka.com/)
 
-##### Wallpaper collection
+##### wallpaper-collection
 
 - [Bing Gifposter](https://bing.gifposter.com/)
 - [Bing Wallpaper Archive](https://bingwallpaper.anerg.com/)
@@ -4110,11 +4110,11 @@
 - [Todaybing](https://www.todaybing.com/)
 - [Windows 10 Spotlight](https://windows10spotlight.com/)
 
-### Text platform
+### text-platform
 
 - [Scrybe - The New Home For Screenwriters](https://scrybe.to/)
 
-#### Book platform
+#### book-platform
 
 - [‎apple Books - Top Books](https://books.apple.com/charts)
 - [Biblio - Used Books And Rare Books From Antiquarian Booksellers](https://www.biblio.com/)
@@ -4124,7 +4124,7 @@
 - [Google Play Books](https://play.google.com/books)
 - [Novel Fire - Read Web Novels Online Free](https://novelfire.net/)
 
-##### Book sites
+##### book-sites
 
 - ⭐ **[El Libro Total](https://www.ellibrototal.com/ltotal/)**
 - [24symbols](https://www.24symbols.com)
@@ -4151,7 +4151,7 @@
 - [Webnovel - Read Your Adventures](https://www.webnovel.com/)
 - [Yumpu - All Magazine](https://www.yumpu.com/en)
 
-##### Comics
+##### comics
 
 - [Comic Book Plus - Free Public Domain Books, Forum & Otr Radio](https://comicbookplus.com/)
 - [Comic.fun](https://comick.fun)
@@ -4173,7 +4173,7 @@
 - [Webtoon - Read Comics Online](https://www.webtoons.com/en/)
 - [Whomp! Comic](https://www.whompcomic.com/)
 
-###### Manga
+###### manga
 
 - [All Manga](https://allmanga.to/)
 - [Asura Scans](https://asuratoon.com/)
@@ -4191,7 +4191,7 @@
 - [Read Manga Online](https://www.readm.org/)
 - [Uukanshu](https://www.uukanshu.com/)
 
-##### Free eBook
+##### free-ebook
 
 - ⭐ **[Project Gutenberg](https://www.gutenberg.org/)**
 - ⭐ **[Z-library Project - Electronic Library. Download Books Free](https://z-lib.gd/)**
@@ -4233,7 +4233,7 @@
 - [Z-library Project](https://singlelogin.rs/)
 - [Zlibrary.cc](https://zlibrary.cc/)
 
-#### Blogging platform
+#### blogging-platform
 
 - ⭐ **[Blot.im - A Bloggin Platform With No Interface](https://blot.im)**
 - ⭐ **[Publish0x](https://publish0x.com)**
@@ -4269,7 +4269,7 @@
 - [Typepad](https://www.typepad.com/)
 - [Virality](https://viralityapp.com/)
 
-##### Commenting platform
+##### commenting-platform
 
 - ⭐ **[Disqus](https://disqus.com/)**
 - ⭐ **[Giscus.app](https://giscus.app/)**
@@ -4293,7 +4293,7 @@
 - [Wordpress Plugin – Commentluv](https://wordpress.org/plugins/commentluv/)
 - [Wpdiscuz](https://wpdiscuz.com/)
 
-##### Forum platform
+##### forum-platform
 
 - ⭐ **[Discourse](https://www.discourse.org)**
 - [Babble - Forums For A New Generation](https://babble.im/)
@@ -4305,7 +4305,7 @@
 - [Simple Machine Forum](https://www.simplemachines.org/)
 - [Vanilla Forums](https://vanillaforums.com/)
 
-##### Write as
+##### write-as
 
 - ⭐ **[Write.as](https://write.as)**
 - [Attach.as](https://attach.as)
@@ -4323,11 +4323,11 @@
 - [Writefreely](https://writefreely.org)
 - [Writefreely.host](https://writefreely.host/)
 
-#### Coding platform
+#### coding-platform
 
 - [Openhands | The Open Platform For Cloud Coding Agents](https://openhands.dev/) / [🔗](https://github.com/OpenHands/OpenHands)
 
-##### Barcode
+##### barcode
 
 - [Barcode Art By Scott Bl8ke](https://www.barcodeart.com/)
 - [Barcode Lookup | Upc, Ean & Isbn Search](https://www.barcodelookup.com/)
@@ -4339,7 +4339,7 @@
 - [Tec-it](https://www.tec-it.com/en/start/Default.aspx)
 - [Ubs. United Barcode Systems](https://www.ubscode.com)
 
-###### QR code
+###### qr-code
 
 - ⭐ **[Mini Qr Code Generator](https://mini-qr-code-generator.vercel.app/)**
 - [Anthony's Qr Toolkit](https://qrcode.antfu.me/)
@@ -4354,7 +4354,7 @@
 - [Qrcode-tiger](https://www.qrcode-tiger.com)
 - [Qrcode.com](https://www.qrcode.com/en)
 
-##### Build utility
+##### build-utility
 
 - [Bazel](https://bazel.build/)
 - [Blazor | .net](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor)
@@ -4364,7 +4364,7 @@
 - [Sequelize | Orm For Ts & Js](https://sequelize.org/)
 - [Xmake.io](https://xmake.io/#/)
 
-##### Coding account
+##### coding-account
 
 - ⭐ **[Codesandbox: Code, Review And Deploy In Record Time](https://codesandbox.io)**
 - [Algoexpert](https://www.algoexpert.io/product)
@@ -4385,7 +4385,7 @@
 - [Shouts.dev](https://shouts.dev/)
 - [Wit.ai](https://wit.ai)
 
-##### Coding toolkit
+##### coding-toolkit
 
 - [Blitz.js - The Missing Fullstack Toolkit For Next.js](https://blitzjs.com/)
 - [Browserslist](https://browsersl.ist/#)
@@ -4414,7 +4414,7 @@
 - [Volta.sh](https://volta.sh/)
 - [What Firefox Trains Are We In?](https://whattrainisitnow.com/)
 
-###### Download Git
+###### download-git
 
 - [Downgit](https://minhaskamal.github.io/DownGit/#/home)
 - [Downgit](https://downgit.github.io/#/home)
@@ -4423,7 +4423,7 @@
 - [Gitzip](https://gitzip.org/)
 - [Gitzip](https://kinolien.github.io/gitzip/)
 
-###### Linter
+###### linter
 
 - [Eslint - Javascript Linter](https://eslint.org/)
 - [Knip](https://knip.dev/)
@@ -4431,7 +4431,7 @@
 - [Ruff](https://docs.astral.sh/ruff/)
 - [Xojs/xo: Javascript/typescript Linter](https://github.com/xojs/xo)
 
-##### Dev environment
+##### dev-environment
 
 - [Amplify Studio](https://sandbox.amplifyapp.com/getting-started)
 - [Cacher.io](https://www.cacher.io/)
@@ -4448,7 +4448,7 @@
 - [Tinkerwell](https://tinkerwell.app/)
 - [Visual Studio Code - Web Dev](https://vscode.dev/)
 
-##### Hacking platform
+##### hacking-platform
 
 - [Cryptohack](https://cryptohack.org/)
 - [Hack The Box](https://www.hackthebox.com/)
@@ -4461,7 +4461,7 @@
 - [Overthewire](https://overthewire.org/wargames/)
 - [Tryhackme](https://tryhackme.com)
 
-##### Online compiler
+##### online-compiler
 
 - [.net Fiddle](https://dotnetfiddle.net)
 - [Babel Js](https://babeljs.io/)
@@ -4511,7 +4511,7 @@
 - [Try It Online](https://tio.run/#)
 - [V Playground: Run, Edit, Share V Code Online](https://play.vosca.dev/)
 
-##### Source-code hosting
+##### source-code-hosting
 
 - ⭐ **[Hugging Face - Ai Community](https://huggingface.co/)**
 - [0xacab - Code Hosting For Friendly People](https://about.0xacab.org/)
@@ -4560,7 +4560,7 @@
 - [Sourcehut Hub](https://sr.ht/)
 - [Undefined Hackers: Git](https://code.undefinedhackers.net)
 
-###### GitHub
+###### github
 
 - ⭐ **[Github - Let's Build From Here](https://github.com/)**
 - [Github - Login Device](https://github.com/login/device)
@@ -4603,7 +4603,7 @@
 - [Primer Design System](https://primer.style/)
 - [Restyled.io](https://restyled.io/)
 
-#### Doc platform
+#### doc-platform
 
 - ⭐ **[Scribd](https://www.scribd.com)**
 - [123dok](https://123dok.com)
@@ -4622,7 +4622,7 @@
 - [Speaker Deck](https://speakerdeck.com)
 - [Yumpu - Publish](https://www.yumpu.com/xx)
 
-#### Font platform
+#### font-platform
 
 - [1001 Fonts](https://www.1001fonts.com)
 - [1001 Free Fonts](https://www.1001freefonts.com/)
@@ -4690,10 +4690,10 @@
 - [Wfonts](https://www.wfonts.com/)
 - [What Font Is](https://www.whatfontis.com/)
 
-### Video platform
+### video-platform
 
 
-#### Conference platform
+#### conference-platform
 
 - [Brighttalk](https://www.brighttalk.com)
 - [Go To Stage](https://www.gotostage.com)
@@ -4701,7 +4701,7 @@
 - [Ted](https://www.ted.com)
 - [Ted-ed](https://ed.ted.com)
 
-#### Documentary platform
+#### documentary-platform
 
 - [Curiositystream](https://curiositystream.com)
 - [Documaniatv](https://www.documaniatv.com)
@@ -4715,7 +4715,7 @@
 - [Ickonic](https://www.ickonic.com)
 - [Planetadocumental](https://planetadocumental.com)
 
-##### Documentary web
+##### documentary-web
 
 - [Bbc Earth](https://www.bbcearth.com)
 - [Documentales Rtve Play](https://www.rtve.es/play/documentales/)
@@ -4726,11 +4726,11 @@
 - [Thebigreset](https://thebigresetmovie.com/)
 - [Top Documentary Films](https://topdocumentaryfilms.com)
 
-#### TV
+#### tv
 
 - [Tvcl - Tv Channel Lists](https://www.tvchannellists.com/w/Main_Page)
 
-##### TV Channel
+##### tv-channel
 
 - [1tv - Channel One Russia](https://www.1tv.com/)
 - [Air.tv](https://www.air.tv)
@@ -4765,7 +4765,7 @@
 - [Uacd Tv](https://uacd.tv/)
 - [Wordpress.tv](https://wordpress.tv/)
 
-##### TV show
+##### tv-show
 
 - [Charlie Rose](https://charlierose.com)
 - [First We Feast](https://firstwefeast.com)
@@ -4779,7 +4779,7 @@
 - [The Eric Andre Show](https://www.adultswim.com/videos/the-eric-andre-show)
 - [The Kelly Clarkson Show](https://www.kellyclarksonshow.com)
 
-##### TV Zone
+##### tv-zone
 
 - [Cbc Gem](https://gem.cbc.ca/)
 - [Één.be](https://www.een.be)
@@ -4789,7 +4789,7 @@
 - [Tv Rain](https://tvrain.tv/)
 - [Tver - 無料で動画見放題](https://tver.jp/)
 
-###### France TV
+###### france-tv
 
 - [1tv.ru](https://www.1tv.ru)
 - [6play](https://www.6play.fr)
@@ -4799,13 +4799,13 @@
 - [Mycanal](https://www.canalplus.com/)
 - [Mytf1](https://www.tf1.fr)
 
-###### Latan TV
+###### latan-tv
 
 - [Caracol Tv](https://www.caracoltv.com)
 - [Tc Televisión](https://www.tctelevision.com)
 - [Tvn Pass](https://tvnpass.com/)
 
-###### Spain TV
+###### spain-tv
 
 - ⭐ **[Rtve](https://www.rtve.es)**
 - [Antena 3](https://www.antena3.com)
@@ -4844,7 +4844,7 @@
 - [Sky España](https://www.sky.es)
 - [Telecinco](https://www.telecinco.es)
 
-###### UK TV
+###### uk-tv
 
 - [Bbc Iplayer](https://www.bbc.co.uk/iplayer)
 - [Bbc One](https://www.bbc.co.uk/bbcone)
@@ -4858,7 +4858,7 @@
 - [Television Academy Interviews](https://interviews.televisionacademy.com)
 - [Virgin Tv](https://virgintvgo.virginmedia.com/en.html)
 
-###### USA TV
+###### usa-tv
 
 - [Abc Network](https://abc.com)
 - [Amc](https://www.amc.com)
@@ -4890,7 +4890,7 @@
 - [Weta Video](https://watch.weta.org)
 - [Wgbh](https://www.wgbh.org)
 
-#### Video hosting
+#### video-hosting
 
 - [Alugha](https://alugha.com/)
 - [Brightcove](https://www.brightcove.com/en)
@@ -4931,7 +4931,7 @@
 - [Wistia](https://wistia.com)
 - [Wowza](https://www.wowza.com)
 
-##### Stock video
+##### stock-video
 
 - ⭐ **[Noaa Ocean Exploration Video Portal](https://www.ncei.noaa.gov/access/ocean-exploration/video/)**
 - [Artgrid.io](https://artgrid.io/)
@@ -4944,12 +4944,12 @@
 - [Videohive](https://videohive.net)
 - [Videvo](https://www.videvo.net)
 
-#### Video streaming
+#### video-streaming
 
 - [Kanopy - Stream Classic Cinema, Indie Film And Top Documentaries](https://www.kanopy.com/en)
 - [Vtubers.tv - The Future Of Vtubing](https://www.vtubers.tv/)
 
-##### Digital video rental
+##### digital-video-rental
 
 - [Amazon Prime Video](https://www.amazon.com/gp/video/storefront)
 - [Chili](https://uk.chili.com)
@@ -4960,11 +4960,11 @@
 - [Virgin Media Store](https://www.virginmediastore.com)
 - [Youtube Movies](https://www.youtube.com/movies)
 
-##### Free Video Streaming
+##### free-video-streaming
 
 - [Teatv Apk - Free App For Streaming](https://teatvs.com.co/)
 
-###### Free Anime
+###### free-anime
 
 - ⭐ **[Crunchyroll - Watch Popular Anime & Read Manga Online](https://www.crunchyroll.com/)**
 - ⭐ **[Zoro.to - Anime Online](https://w1.zoro.se/)**
@@ -4999,7 +4999,7 @@
 - [Toonstream - Watch Anime Online Free](https://toonstream.dad/)
 - [Voiranime](https://v3.voiranime.com/)
 
-###### Free Movies
+###### free-movies
 
 - ⭐ **[Braflix - Watch Tv Shows Online, Watch Movies Online](https://www.braflix.ru/)**
 - ⭐ **[Nunflix - Streaming World!](https://nunflix.org/)**
@@ -5120,7 +5120,7 @@
 - [Yesmovies.to](https://ww.yesmovies.ag/yes.html)
 - [Yflix - Watch Free Movies Online & Tv Shows In Hd](https://yflix.to/home)
 
-###### Free Sports
+###### free-sports
 
 - ⭐ **[Daddylivehd - Live Sports Streaming Free](https://dlhd.link/)**
 - ⭐ **[Fctv33 - Live Sports](https://www.fctv33.com/)**
@@ -5167,7 +5167,7 @@
 - [Wearechecking.online](https://wearechecking.online/)
 - [Zorrostream](https://zorrostream.org/)
 
-##### Live IPTV
+##### live-iptv
 
 - ⭐ **[Famelack - Watch Global & Local Live Tv Online For Free](https://famelack.com/)**
 - ⭐ **[Jackal Surge - Live Tv](https://jackal.surge.sh)**
@@ -5195,7 +5195,7 @@
 - [Watchiptv - Free Iptv Streams From Across The World](https://watchiptv.xyz/)
 - [Worlds Tv Mobile](https://worldstvmobile.com/category/sports)
 
-##### Live Streaming
+##### live-streaming
 
 - ⭐ **[Dlive](https://dlive.tv)**
 - ⭐ **[Theta.tv](https://www.theta.tv)**
@@ -5218,7 +5218,7 @@
 - [Vimeo Livestream](https://livestream.com/)
 - [Zhanqi.tv](https://www.zhanqi.tv)
 
-##### TV Streaming
+##### tv-streaming
 
 - ⭐ **[Plex Tv - Watch Live Tv, Movies And Tv Shows](https://watch.plex.tv/)**
 - ⭐ **[Plex Tv App](https://app.plex.tv/desktop/#!/)**
@@ -5242,7 +5242,7 @@
 - [Watchit](https://web.watchit.movie/#/app/movies)
 - [Zattoo](https://zattoo.com/int)
 
-##### Premium Video Streaming
+##### premium-video-streaming
 
 - [Adtv](https://adtv.ae)
 - [Adult Swim](https://www.adultswim.com)
@@ -5307,7 +5307,7 @@
 - [Watcho](https://www.watcho.com/)
 - [Youtube Tv](https://tv.youtube.com/welcome/)
 
-##### Premium IPTV
+##### premium-iptv
 
 - [#1 Iptv España – Comprar Iptv España 4k Premium Sin Cortes](https://iptvespanapro.com/)
 - [Alfa Iptv](https://alfaiptv55.com/)
@@ -5350,7 +5350,7 @@
 - [Worthystream - Reliable & Best Iptv Subscription Service Provider For July 2024](https://worthystream.com/home/)
 - [Xtreme Hd Iptv: Best Iptv Service For - 2026](https://iptvxtremehd.com/)
 
-##### Video sharing
+##### video-sharing
 
 - ⭐ **[Brighteon](https://www.brighteon.com)**
 - ⭐ **[Fediversetv](https://fediverse.tv/)**
@@ -5442,7 +5442,7 @@
 - [Vlare](https://vlare.tv)
 - [Youku](https://www.youku.com/ku/webhome)
 
-##### Video Streaming API
+##### video-streaming-api
 
 - [111movies.com/](https://111movies.com/)
 - [Fmovies - Watch Free Movies Online](https://ww4.fmovies.co/26/)
@@ -5452,7 +5452,7 @@
 - [Vidsrc - Video Streaming Api](https://vidsrc.domains/)
 - [Vixsrc](https://vixsrc.to/)
 
-## Portal-site
+## portal-site
 
 - [Arachnoid.com](https://arachnoid.com/index.html)
 - [Biblioteca Pleyades](https://www.bibliotecapleyades.net)
@@ -5468,15 +5468,15 @@
 - [Refdesk.com](https://refdesk.com)
 - [Sources](https://www.sources.com)
 
-## Purchase advice
+## purchase-advice
 
 
-### Comparator & Sale
+### comparator-&-sale
 
 - [Comparar.net - Su Comparador De Precios Online!](https://www.comparar.net/)
 - [Prosettings.net](https://prosettings.net/)
 
-#### AI Ranking Comparator
+#### ai-ranking-comparator
 
 - ⭐ **[Livebench](https://livebench.ai/#/)** / [🔗](https://github.com/livebench/livebench)
 - ⭐ **[Zero Gpu Spaces - A Hugging Face Space By Enzostvs](https://huggingface.co/spaces/enzostvs/zero-gpu-spaces)**
@@ -5490,7 +5490,7 @@
 - [Openrouter - Llm Rankings](https://openrouter.ai/rankings)
 - [Price Per Toke - Llm Api Pricing 2026](https://pricepertoken.com/)
 
-#### CPU Comparator
+#### cpu-comparator
 
 - [Browserbench.org](https://browserbench.org/)
 - [Comparación Cpu, Gpu](https://technical.city/es)
@@ -5499,7 +5499,7 @@
 - [Userbenchmark](https://www.userbenchmark.com/)
 - [Wikichip](https://en.wikichip.org/wiki/WikiChip)
 
-#### Fuel Comparator
+#### fuel-comparator
 
 - [Clickgasoil](https://www.clickgasoil.com/m/precio-de-gasolina-95-santa-cruz-de-tenerife)
 - [Cnmc - Comparador De Ofertas De Energía](https://comparador.cnmc.gob.es/)
@@ -5512,7 +5512,7 @@
 - [Precio De La Gasolina - El País](https://servicios.elpais.com/gasolineras/index.html)
 - [Precio Gasolina – El Día](https://servicios.eldia.es/gasolineras-tenerife)
 
-#### Insurance comparator
+#### insurance-comparator
 
 - [Carwow](https://www.carwow.es)
 - [Finder.com](https://www.finder.com)
@@ -5520,7 +5520,7 @@
 - [Kelisto](https://www.kelisto.es)
 - [Rastreator](https://www.rastreator.com)
 
-#### Phone comparator
+#### phone-comparator
 
 - ⭐ **[Kimovil](https://www.kimovil.com/es/)**
 - ⭐ **[Phonedb - The Largest Phone Specs Database](https://phonedb.net/)**
@@ -5534,7 +5534,7 @@
 - [Telefon Smart](https://www.telefonsmart.ro/)
 - [Versus - Phone](https://versus.com/es/phone)
 
-#### Product comparator
+#### product-comparator
 
 - ⭐ **[Rtings - Reviews And Ratings](https://www.rtings.com/)**
 - ⭐ **[Versus](https://versus.com/en)**
@@ -5554,18 +5554,18 @@
 - [Versus Lists - Google Docs](https://docs.google.com/spreadsheets/d/1rGw1V8rLCxpHKZCJ50xCvWtZUlCQTKwNqCbWML3qG5A/edit#gid=87498728)
 - [Vrcompare](https://vr-compare.com)
 
-### Reviews
+### reviews
 
 - ⭐ **[Tastedive | Recommends Music, Movies, Tv Shows, Books, Games, People, Places, Brands And Podcasts](https://tastedive.com/)**
 - [Angie's List](https://www.angieslist.com)
 - [Lib.reviews - Welcome!](https://lib.reviews/)
 - [Trustpilot](https://www.trustpilot.com)
 
-#### Book review
+#### book-review
 
 - [Book Marks Reviews](https://bookmarks.reviews/)
 
-#### Device review
+#### device-review
 
 - ⭐ **[David Becker](https://primeaudio.org/)**
 - [10sillas](https://www.10sillas.com)
@@ -5598,18 +5598,18 @@
 - [Top Ten Reviews](https://www.toptenreviews.com)
 - [Ultimate Game Chair](https://www.ultimategamechair.com)
 
-#### Games Review
+#### games-review
 
 - [Acclaimed Video Games](https://www.acclaimedvideogames.com/)
 - [Games2k19](https://games2k19.com)
 - [Opencritic](https://opencritic.com/)
 
-#### Media Reviews
+#### media-reviews
 
 - [Metacritic](https://www.metacritic.com)
 - [Rate.house - Media Database](https://rate.house)
 
-#### Movie Review
+#### movie-review
 
 - [Cinafilm](https://www.cinafilm.com)
 - [Dmt | Film Explainers | Series Recaps | Comic Books | & More](https://dmtalkies.com/)
@@ -5619,14 +5619,14 @@
 - [Palomitacas](https://www.palomitacas.com)
 - [Rotten Tomatoes](https://www.rottentomatoes.com)
 
-#### Music Review
+#### music-review
 
 - [Acclaimed Music](http://www.acclaimedmusic.net)
 - [Album Of The Year](https://www.albumoftheyear.org)
 - [Anydecentmusic](http://www.anydecentmusic.com)
 - [Rate Your Music](https://rateyourmusic.com)
 
-#### Product review
+#### product-review
 
 - [Bestreviews](https://bestreviews.com)
 - [Birrapedia](https://birrapedia.com)
@@ -5637,7 +5637,7 @@
 - [Shopping.com](https://shopping.com)
 - [Slant](https://www.slant.co)
 
-##### Shoes Review
+##### shoes-review
 
 - ⭐ **[Runrepeat - 900+ Shoes Reviewed And Cut In Half](https://runrepeat.com/)**
 - [Roadrunningreview.com - Comparativas De Material Para Running.](https://www.roadrunningreview.com/)
@@ -5645,12 +5645,12 @@
 - [Running Shoes Guru](https://www.runningshoesguru.com/)
 - [Sle Review - The Best Shoe Reviews And Guides](https://www.solereview.com/)
 
-#### Science Review
+#### science-review
 
 - [Open Peer Review](https://openreviewhub.org)
 - [Openup Hub](https://www.openuphub.eu)
 
-#### Software review
+#### software-review
 
 - [Capterra](https://www.capterra.com/)
 - [G2 - Software Review](https://www.g2.com)
@@ -5658,10 +5658,10 @@
 - [Saastly](https://www.saastly.com/)
 - [Trustradius](https://www.trustradius.com)
 
-### Sale prices
+### sale-prices
 
 
-#### Discount offers
+#### discount-offers
 
 - [Aklamio](https://www.aklamio.com/es)
 - [Chollometro - Chollos, Ofertas Y Cupones](https://www.chollometro.com)
@@ -5684,7 +5684,7 @@
 - [Stormx | Earn Crypto While Shopping Online](https://stormx.io/)
 - [Wethrift](https://www.wethrift.com)
 
-#### Tracker prices
+#### tracker-prices
 
 - [Amazon Price Tracker](https://camelcamelcamel.com)
 - [Ebay - Picclick](https://picclick.com)
@@ -5694,7 +5694,7 @@
 - [Pricetracker](https://app.manasav.com)
 - [Tracksellers](https://www.tracksellers.com/)
 
-## Online Tools
+## online-tools
 
 - ⭐ **[Topster.net](https://www.topster.net)**
 - [123apps](https://123apps.com)
@@ -5717,10 +5717,10 @@
 - [Tools 4 Noobs](https://www.tools4noobs.com)
 - [Toulr.com](https://www.toulr.com)
 
-### Online app
+### online-app
 
 
-#### Activism account
+#### activism-account
 
 - [Action Network](https://actionnetwork.org/)
 - [Avaaz](https://secure.avaaz.org/page/en/)
@@ -5733,7 +5733,7 @@
 - [Treedom](https://www.treedom.net/en/)
 - [Upworthy](https://www.upworthy.com/)
 
-#### Crowdfunding account
+#### crowdfunding-account
 
 - ⭐ **[Patreon](https://www.patreon.com/)**
 - [1upcoin](https://1upcoin.com/)
@@ -5787,7 +5787,7 @@
 - [Verkami](https://www.verkami.com)
 - [Web Monetization](https://webmonetization.org/)
 
-#### Digital payment
+#### digital-payment
 
 - [2checkout](https://www.2checkout.com)
 - [Adyen | Engineered For Ambition](https://www.adyen.com/)
@@ -5863,7 +5863,7 @@
 - [Signrequest](https://signrequest.com/#/)
 - [Sproof Sign - The Fastest Way To Digital Signatures](https://www.sproof.io/en)
 
-#### Share links
+#### share-links
 
 - [Addtoany](https://www.addtoany.com)
 - [Allmylinks](https://allmylinks.com/)
@@ -5909,7 +5909,7 @@
 - [Wheretofind.me](https://wheretofind.me/)
 - [Znaplink](https://www.znaplink.com/)
 
-#### Subscription platform
+#### subscription-platform
 
 - [Calling Fans](https://www.callingfans.com/)
 - [Fanhouse.app](https://fanhouse.app/)
@@ -5925,7 +5925,7 @@
 - [Subscribestar.adult](https://subscribestar.adult/)
 - [Tingz](https://tingz.co/)
 
-### Generator tools
+### generator-tools
 
 - [Audioalter](https://audioalter.com/)
 - [Collision For Hashes](https://collision.geopjr.dev/)
@@ -5937,7 +5937,7 @@
 - [Tablesgenerator - Create Latex Tables Online](https://www.tablesgenerator.com/)
 - [White Screen | Online Tool](https://www.whitescreen.online/)
 
-#### Data Generator
+#### data-generator
 
 - [.bashrc Generator](https://bashrcgenerator.com/)
 - [Arnis - Real World To Minecraft Generator](https://arnismc.com/) / [🔗](https://github.com/louis-e/arnis)
@@ -5969,7 +5969,7 @@
 - [Stringtalk](https://stringtalk.org/)
 - [Uuid/guid Generator](https://www.uuidtools.com/)
 
-#### SMS Verification
+#### sms-verification
 
 - [5sim.net](https://5sim.net/)
 - [7sim](https://7sim.org/)
@@ -5996,11 +5996,11 @@
 - [Spoofbox](https://www.spoofbox.com/)
 - [Verify With Sms](https://uk.verifywithsms.com/)
 
-### Social tools
+### social-tools
 
 - [Tumbex (tumblr Viewer)](https://www.tumbex.com/)
 
-#### Instagram viewer
+#### instagram-viewer
 
 - [Bibliogram](https://bibliogram.art/)
 - [Gramhir.com](https://gramhir.com/)
@@ -6014,7 +6014,7 @@
 - [Pixwox](https://www.pixwox.com)
 - [Storiesig](https://storiesig.info/es/)
 
-#### Reddit tools
+#### reddit-tools
 
 - [Leaderboard For Reddit](https://www.karmalb.com/)
 - [Lurrker](https://lurrker.com/auth/secure)
@@ -6036,7 +6036,7 @@
 - [Subreddit Stats](https://subredditstats.com)
 - [Wsbdaily](https://wsbdaily.com)
 
-### Text tools
+### text-tools
 
 - ⭐ **[Unscramble Words Finder](https://unscramblewords.world/)**
 - [Alphabetize Words](https://www.alphabetize.org/)
@@ -6046,7 +6046,7 @@
 - [Sort My List - Alphabetize, Remove Line Breaks, Add Labels, Prune Text](https://sortmylist.com/)
 - [The Alphabetizer App](https://alphabetize.app/)
 
-#### Regex
+#### regex
 
 - ⭐ **[Regex101](https://regex101.com/)**
 - [Debuggex: Online Visual Regex Tester. Javascript, Python, And Pcre.](https://www.debuggex.com/)
@@ -6058,7 +6058,7 @@
 - [Regexr](https://regexr.com/)
 - [Regextranslator](https://www.regextranslator.com/)
 
-#### Pastebin
+#### pastebin
 
 - ⭐ **[Rentry.co - Markdown Pastebin](https://rentry.co/)**
 - [0bin - Encrypted Pastebin](https://0bin.net/)
@@ -6108,7 +6108,7 @@
 - [Txtbin](https://txtbin.org/)
 - [Verybin](https://www.verybin.com/)
 
-### Web tools
+### web-tools
 
 - ⭐ **[Useful Tools & Utilities — Vdownloaders Web Tools](https://vdownloaders.com/)**
 - [Experts Php](https://www.expertsphp.com/)
@@ -6125,7 +6125,7 @@
 - [Urlopener.net](https://urlopener.net)
 - [Vago-tools - Free Web Tools](https://free.vago-tools.com/home)
 
-#### Search domains
+#### search-domains
 
 - [Checkusernames](https://checkusernames.com)
 - [Mixedname](https://mixedname.com)
@@ -6133,7 +6133,7 @@
 - [Spyse](https://spyse.com)
 - [Whoisology](https://whoisology.com)
 
-#### Web security
+#### web-security
 
 - [Amiunique](https://amiunique.org/)
 - [Cover Your Tracks](https://coveryourtracks.eff.org/results?aat=1&dnt=1111&fpi_whorls=%7B%22v2%22%3A%7B%22plugins%22%3A%22permission+denied%22%2C%22hardware_concurrency%22%3A12%2C%22audio%22%3A%22124.04347527516074%22%2C%22canvas_hash_v2%22%3A%22f7bd521f8ecaba25dee1f4d4e3175fea%22%2C%22webgl_hash_v2%22%3A%229baad7fde09e8bfac122b54d655bed9f%22%7D%7D)
@@ -6145,7 +6145,7 @@
 - [Trailofbits/anamorpher: Image Scaling Attacks For Multi-modal Prompt Injection](https://github.com/trailofbits/anamorpher)
 - [Webpagetest](https://www.webpagetest.org/)
 
-#### Web statistics (SEO)
+#### web-statistics-(seo)
 
 - ⭐ **[Hypestat](https://hypestat.com)**
 - ⭐ **[Majestic.com - Seo Backlink Checker & Link Building Toolset](https://majestic.com)**
@@ -6176,7 +6176,7 @@
 - [Worldwidewebsize](https://www.worldwidewebsize.com)
 - [Zmap Project](https://zmap.io)
 
-#### Web archive
+#### web-archive
 
 - ⭐ **[Archive - Wayback Machine](https://web.archive.org/)**
 - [Archivarix](https://archivarix.com/en/)
@@ -6196,7 +6196,7 @@
 - [Shvondersin/webappreader · Github](https://github.com/ShvonderSiN/WebAppReader)
 - [The Old Net](https://theoldnet.com/)
 
-## Quotes
+## quotes
 
 - [A-z Quotes | Quotes For All Occasions](https://www.azquotes.com/)
 - [Aki Frases](https://akifrases.com)
@@ -6215,7 +6215,7 @@
 - [The Quotations Home Page](https://theotherpages.org/quote.html)
 - [Wisdom Quotes](https://wisdomquotes.com)
 
-## Search engine
+## search-engine
 
 - ⭐ **[Onion Search Engine](https://onionengine.com/)**
 - ⭐ **[Private.sh](https://private.sh)**
@@ -6320,7 +6320,7 @@
 - [Zapmeta](https://www.zapmeta.com)
 - [Zoeken](https://www.zoeken.nl)
 
-### Image search-engine
+### image-search-engine
 
 - ⭐ **[Lexica.art](https://lexica.art/)**
 - ⭐ **[Prompthero - Search Prompts For Stable Diffusion, Dall-e & Midjourney](https://www.prompthero.com/)**
@@ -6332,7 +6332,7 @@
 - [Promptbase | Prompt Marketplace: Dall·e, Midjourney, Stable Diffusion & Gpt-3](https://promptbase.com/)
 - [Same Energy | Visual Search Engine](https://same.energy/)
 
-#### Reverse-image-search
+#### reverse-image-search
 
 - ⭐ **[Star By Face](https://starbyface.com)**
 - [360so Image](https://image.so.com)
@@ -6361,7 +6361,7 @@
 - [Where Is This Photo? | Free Photo Locator & Image Location Finder](https://www.whereisthisphoto.com/)
 - [Yandex.images](https://yandex.com/images)
 
-### Google Search
+### google-search
 
 - ⭐ **[Google](https://www.google.com/)**
 - ⭐ **[Google Search - Ai Mode](https://www.google.com/search?udm=50)**
@@ -6369,7 +6369,7 @@
 - [Kiddle](https://www.kiddle.co)
 - [Startpage](https://www.startpage.com)
 
-#### Lycos
+#### lycos
 
 - [About Lycos](https://info.lycos.com/about/company-overview)
 - [Lycos Angelfire](https://www.angelfire.lycos.com)
@@ -6380,7 +6380,7 @@
 - [Lycos Weather](https://weather.lycos.com)
 - [Lycos.com](https://www.lycos.com)
 
-### MS Bing
+### ms-bing
 
 - ⭐ **[Bing](https://www.bing.com)**
 - [Aol Search](https://search.aol.com)
@@ -6393,7 +6393,7 @@
 - [Webcrawler](https://www.webcrawler.com)
 - [Yahoo Search](https://search.yahoo.com)
 
-#### DuckDuckGo
+#### duckduckgo
 
 - ⭐ **[Duckduckgo](https://duckduckgo.com)**
 - ⭐ **[Duckduckgo Html](https://html.duckduckgo.com/html)**
@@ -6405,7 +6405,7 @@
 - [Duckduckgo Start](https://start.duckduckgo.com)
 - [Let Me Duckduckgo That For You](https://lmddgtfy.net)
 
-### Search IoT
+### search-iot
 
 - [Censys Search](https://search.censys.io/)
 - [Intelligence X](https://intelx.io)
@@ -6413,7 +6413,7 @@
 - [Shodan Monitor](https://monitor.shodan.io)
 - [Zoomeye - Cyberspace Search Engine](https://www.zoomeye.org/)
 
-### Searx
+### searx
 
 - [Networkchuck Search](https://notgoogle.live/)
 - [Search Fog](https://search.fuckoffgoogle.net/)
@@ -6422,7 +6422,7 @@
 - [Searx Skyn3t](https://search.skyn3t.in/)
 - [Whoogle Search](https://search.garudalinux.org/)
 
-### Sogou
+### sogou
 
 - [As Sogou](http://as.sogou.com)
 - [Baike Sougou](https://baike.sogou.com)
@@ -6439,7 +6439,7 @@
 - [Translator Sogou](https://fanyi.sogou.com)
 - [Video Sogou](https://v.sogou.com)
 
-## Docs Templates
+## docs-templates
 
 - [Ae Share](https://ae-share.com/)
 - [Chardoc Templates](https://www.chardoc.com)
@@ -6460,7 +6460,7 @@
 - [Visual Ancestry | Big Cartel](https://visualancestry.bigcartel.com/)
 - [Wicked Templates](https://www.wickedtemplates.com)
 
-### Curriculum
+### curriculum
 
 - [76 Professional Cv Templates + Expert Tips](https://www.livecareer.com/cv/templates)
 - [Canva - Resumes](https://www.canva.com/create/resumes/)
@@ -6474,14 +6474,14 @@
 - [Rendercv: Resume Builder For Academics And Engineers](https://rendercv.com/) / [🔗](https://github.com/rendercv/rendercv)
 - [Zety: Tu Currículum Profesional Y Efectivo. Pruébalo Gratis](https://zety.es/)
 
-### Tier lists
+### tier-lists
 
 - ⭐ **[Lomo List | Best Tier List Maker](https://lomolist.com/)**
 - ⭐ **[Tiermaker](https://tiermaker.com)**
 - [Episode Ratings - Interactive Rating Graph & Episode Guide](https://episoderatings.com/)
 - [Tier Lists](https://www.tierlists.com)
 
-## Web info
+## web-info
 
 - [Cern - First Web](http://info.cern.ch)
 - [Cern Document Server](https://cds.cern.ch)
@@ -6494,7 +6494,7 @@
 - [The Opte Project](https://www.opte.org/)
 - [Web Design Museum - Discover Old Websites, Apps And Software](https://www.webdesignmuseum.org/)
 
-### Data Centers locations
+### data-centers-locations
 
 - [Akamai | Locations](https://www.akamai.com/us/en/locations.jsp)
 - [Alibaba Cloud Global Locations](https://www.alibabacloud.com/global-locations)

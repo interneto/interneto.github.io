@@ -10,30 +10,29 @@ const INPUT_CSV = path.resolve(ROOT_DIR, 'interneto-links.csv');
 const OUTPUT_DIR = path.resolve(ROOT_DIR, 'docs');
 
 const CATEGORY_CONFIG = [
-  { folder: 'By Company', file: 'by-company.md', description: 'Useful services organized by company', icon: '🏢' },
-  { folder: 'OS', file: 'os.md', description: 'Operating systems and tools', icon: '💻' },
-  { folder: 'Al Tools & Services', file: 'ai-tools-and-services.md', description: 'Artificial Intelligence tools and services', icon: '🤖' },
-  { folder: 'Dev', file: 'dev.md', description: 'Development tools and resources', icon: '⚙️' },
-  { folder: 'Education', file: 'education.md', description: 'Educational resources and platforms', icon: '📚' },
-  { folder: 'File Management', file: 'file-management.md', description: 'File storage and management solutions', icon: '📁' },
-  { folder: 'Financial assets', file: 'financial-assets.md', description: 'Financial and investment tools', icon: '💰' },
-  { folder: 'Gaming', file: 'gaming.md', description: 'Gaming platforms and services', icon: '🎮' },
-  { folder: 'Health & Fitness', file: 'health-and-fitness.md', description: 'Health and fitness applications', icon: '💪' },
-  { folder: 'Home & Family', file: 'home-and-family.md', description: 'Home automation and family services', icon: '🏠' },
-  { folder: 'Internet Communication', file: 'intercomm.md', description: 'Communication and collaboration tools', icon: '💬' },
-  { folder: 'Multimedia', file: 'multimedia.md', description: 'Multimedia and content creation tools', icon: '🎬' },
-  { folder: 'News Media', file: 'news-media.md', description: 'News and media platforms', icon: '📰' },
-  { folder: 'Office & Productivity', file: 'office-and-productivity.md', description: 'Office and productivity applications', icon: '📊' },
-  { folder: 'Online Services', file: 'online-services.md', description: 'Online services and utilities', icon: '🌐' },
-  { folder: 'Security & Privacy', file: 'security-and-privacy.md', description: 'Security and privacy tools', icon: '🔒' },
-  { folder: 'Sys Admin', file: 'sys-admin.md', description: 'System administration tools', icon: '🛠️' },
-  { folder: 'Time', file: 'time.md', description: 'Time management and scheduling tools', icon: '⏰' },
-  { folder: 'Travel & Location', file: 'travel-and-location.md', description: 'Travel and location services', icon: '✈️' },
-  { folder: 'Utility', file: 'utility.md', description: 'Utility tools and applications', icon: '🔧' }
+  { folder: 'by-company', displayName: 'By Company', file: 'by-company.md', description: 'Useful services organized by company', icon: '🏢' },
+  { folder: 'os', displayName: 'OS', file: 'os.md', description: 'Operating systems and tools', icon: '💻' },
+  { folder: 'ai-tools-and-services', displayName: 'AI Tools & Services', file: 'ai-tools-and-services.md', description: 'Artificial Intelligence tools and services', icon: '🤖' },
+  { folder: 'dev', displayName: 'Dev', file: 'dev.md', description: 'Development tools and resources', icon: '⚙️' },
+  { folder: 'education', displayName: 'Education', file: 'education.md', description: 'Educational resources and platforms', icon: '📚' },
+  { folder: 'file-management', displayName: 'File Management', file: 'file-management.md', description: 'File storage and management solutions', icon: '📁' },
+  { folder: 'financial-assets', displayName: 'Financial Assets', file: 'financial-assets.md', description: 'Financial and investment tools', icon: '💰' },
+  { folder: 'gaming', displayName: 'Gaming', file: 'gaming.md', description: 'Gaming platforms and services', icon: '🎮' },
+  { folder: 'health-and-fitness', displayName: 'Health & Fitness', file: 'health-and-fitness.md', description: 'Health and fitness applications', icon: '💪' },
+  { folder: 'home-and-family', displayName: 'Home & Family', file: 'home-and-family.md', description: 'Home automation and family services', icon: '🏠' },
+  { folder: 'internet-communication', displayName: 'Internet Communication', file: 'intercomm.md', description: 'Communication and collaboration tools', icon: '💬' },
+  { folder: 'multimedia', displayName: 'Multimedia', file: 'multimedia.md', description: 'Multimedia and content creation tools', icon: '🎬' },
+  { folder: 'news-media', displayName: 'News Media', file: 'news-media.md', description: 'News and media platforms', icon: '📰' },
+  { folder: 'office-and-productivity', displayName: 'Office & Productivity', file: 'office-and-productivity.md', description: 'Office and productivity applications', icon: '📊' },
+  { folder: 'online-services', displayName: 'Online Services', file: 'online-services.md', description: 'Online services and utilities', icon: '🌐' },
+  { folder: 'security-and-privacy', displayName: 'Security & Privacy', file: 'security-and-privacy.md', description: 'Security and privacy tools', icon: '🔒' },
+  { folder: 'sys-admin', displayName: 'Sys Admin', file: 'sys-admin.md', description: 'System administration tools', icon: '🛠️' },
+  { folder: 'time', displayName: 'Time', file: 'time.md', description: 'Time management and scheduling tools', icon: '⏰' },
+  { folder: 'travel-and-location', displayName: 'Travel & Location', file: 'travel-and-location.md', description: 'Travel and location services', icon: '✈️' },
+  { folder: 'utility', displayName: 'Utility', file: 'utility.md', description: 'Utility tools and applications', icon: '🔧' }
 ];
 
 const CATEGORY_BY_FOLDER = new Map(CATEGORY_CONFIG.map((entry) => [entry.folder, entry]));
-const INPUT_CHILD_ALIAS = new Map([['AI Tools & Services', 'Al Tools & Services']]);
 
 function parseCsv(text) {
   const rows = [];
@@ -45,40 +44,31 @@ function parseCsv(text) {
     const ch = text[i];
     const next = text[i + 1];
 
+    // Handle quoted field content
     if (inQuotes) {
-      if (ch === '"') {
-        if (next === '"') {
-          field += '"';
-          i += 1;
-        } else {
-          inQuotes = false;
-        }
+      if (ch === '"' && next === '"') {
+        field += '"';
+        i += 1;
+      } else if (ch === '"') {
+        inQuotes = false;
       } else {
         field += ch;
       }
       continue;
     }
 
+    // Handle delimiter or quote start
     if (ch === '"') {
       inQuotes = true;
-      continue;
-    }
-
-    if (ch === ',') {
+    } else if (ch === ',') {
       row.push(field);
       field = '';
-      continue;
-    }
-
-    if (ch === '\n') {
+    } else if (ch === '\n') {
       row.push(field);
       rows.push(row);
       row = [];
       field = '';
-      continue;
-    }
-
-    if (ch !== '\r') {
+    } else if (ch !== '\r') {
       field += ch;
     }
   }
@@ -119,26 +109,22 @@ function toCamelCaseWords(text) {
 function normalizeFolder(folder) {
   return folder
     .split('/')
-    .map((s) => cleanText(s))
-    .filter(Boolean)
-    .map((s) => INPUT_CHILD_ALIAS.get(s) || s);
+    .map((s) => cleanText(s).toLowerCase().replace(/\s+/g, '-'))
+    .filter(Boolean);
 }
 
 function extractSourceCodeUrls(note) {
-  // Extract all URLs after "Source-code: " from note field
-  // Handles both single and comma-separated URLs
-  if (note) {
-    const sourceCodeMatch = note.match(/Source-code:\s*(.+?)(?=,\s*[A-Za-z]|$)/i);
-    if (sourceCodeMatch && sourceCodeMatch[1]) {
-      // Split by comma and clean up URLs
-      const urls = sourceCodeMatch[1]
-        .split(',')
-        .map((url) => url.trim())
-        .filter((url) => url.length > 0 && url.startsWith('http'));
-      return urls.length > 0 ? urls : null;
-    }
-  }
-  return null;
+  if (!note) return null;
+  
+  const sourceCodeMatch = note.match(/Source-code:\s*(.+?)(?=,\s*[A-Za-z]|$)/i);
+  if (!sourceCodeMatch?.[1]) return null;
+  
+  const urls = sourceCodeMatch[1]
+    .split(',')
+    .map((url) => url.trim())
+    .filter((url) => url.length > 0 && url.startsWith('http'));
+  
+  return urls.length > 0 ? urls : null;
 }
 
 function safeUnlink(filePath) {
@@ -185,37 +171,27 @@ function addToTree(group, pathParts, item) {
   node.items.push(item);
 }
 
+function buildItemLine(item) {
+  let line = '- ';
+  const titleLink = `[${escapeMd(item.title)}](${item.url})`;
+  
+  line += item.favorite ? `⭐ **${titleLink}**` : titleLink;
+  
+  if (item.sourceCodeUrls?.length > 0) {
+    const codeLinks = item.sourceCodeUrls.map((url) => `[🔗](${url})`).join(', ');
+    line += ` / ${codeLinks}`;
+  }
+  
+  return line;
+}
+
 function renderItems(lines, items) {
-  // Sort items: favorites first, then alphabetically by title within each group
   const sorted = [...items].sort((a, b) => {
-    // First priority: favorites first
-    if (a.favorite !== b.favorite) {
-      return a.favorite ? -1 : 1;
-    }
-    // Second priority: alphabetical order by title
+    if (a.favorite !== b.favorite) return a.favorite ? -1 : 1;
     return a.title.localeCompare(b.title, undefined, { numeric: true, sensitivity: 'base' });
   });
 
-  for (const item of sorted) {
-    let line = `- `;
-    
-    // Favorite items are bolded
-    if (item.favorite) {
-      line += `⭐ **[${escapeMd(item.title)}](${item.url})**`;
-    } else {
-      line += `[${escapeMd(item.title)}](${item.url})`;
-    }
-    
-    // Add source-code links if available with separator
-    if (item.sourceCodeUrls && item.sourceCodeUrls.length > 0) {
-      const codeLinks = item.sourceCodeUrls
-        .map((url) => `[🔗](${url})`)
-        .join(', ');
-      line += ` / ${codeLinks}`;
-    }
-    
-    lines.push(line);
-  }
+  sorted.forEach((item) => lines.push(buildItemLine(item)));
 }
 
 function renderChildren(lines, children, level) {
@@ -226,6 +202,58 @@ function renderChildren(lines, children, level) {
     renderItems(lines, node.items);
     renderChildren(lines, node.children, level + 1);
   }
+}
+
+function isValidRowFolder(folderParts) {
+  return folderParts.length >= 2 && folderParts[0] === 'apps';
+}
+
+function buildItemFromRow(row) {
+  const title = toCamelCaseWords(row.title);
+  const url = cleanText(row.url);
+  
+  if (!title || !url) return null;
+  
+  return {
+    title,
+    url,
+    favorite: String(row.favorite || '').toLowerCase() === 'true',
+    sourceCodeUrls: extractSourceCodeUrls(row.note)
+  };
+}
+
+function processRowsIntoGroups(rows, groups) {
+  let count = 0;
+  
+  for (const row of rows) {
+    const folderParts = normalizeFolder(row.folder || '');
+    
+    if (!isValidRowFolder(folderParts)) continue;
+    
+    const categoryName = folderParts[1];
+    if (!CATEGORY_BY_FOLDER.has(categoryName)) continue;
+    
+    const item = buildItemFromRow(row);
+    if (!item) continue;
+    
+    addToTree(groups.get(categoryName), folderParts.slice(2), item);
+    count += 1;
+  }
+  
+  return count;
+}
+
+function writeGroupFiles(groups) {
+  let count = 0;
+  
+  for (const category of CATEGORY_CONFIG) {
+    const filePath = path.join(OUTPUT_DIR, category.file);
+    const markdown = renderGroupFile(category.displayName, groups.get(category.folder), category.description);
+    fs.writeFileSync(filePath, markdown, 'utf8');
+    count += 1;
+  }
+  
+  return count;
 }
 
 
@@ -273,46 +301,13 @@ function run() {
 
   const csv = fs.readFileSync(INPUT_CSV, 'utf8');
   const rows = parseCsv(csv);
-
   const groups = new Map(CATEGORY_CONFIG.map((entry) => [entry.folder, createNode()]));
-  let included = 0;
 
-  for (const row of rows) {
-    const folderParts = normalizeFolder(row.folder || '');
-    if (folderParts.length < 2 || folderParts[0] !== 'Apps') continue;
-
-    const child = folderParts[1];
-    if (!CATEGORY_BY_FOLDER.has(child)) continue;
-
-    const title = toCamelCaseWords(row.title);
-    const url = cleanText(row.url);
-    if (!title || !url) continue;
-
-    const item = {
-      title,
-      url,
-      favorite: String(row.favorite || '').toLowerCase() === 'true',
-      sourceCodeUrls: extractSourceCodeUrls(row.note)
-    };
-
-    addToTree(groups.get(child), folderParts.slice(2), item);
-    included += 1;
-  }
-
+  const included = processRowsIntoGroups(rows, groups);
   clearOutputFiles();
-
-  let filesWritten = 0;
-  for (const category of CATEGORY_CONFIG) {
-    const filePath = path.join(OUTPUT_DIR, category.file);
-    const markdown = renderGroupFile(category.folder, groups.get(category.folder), category.description);
-    fs.writeFileSync(filePath, markdown, 'utf8');
-    filesWritten += 1;
-  }
-
+  const filesWritten = writeGroupFiles(groups);
 
   console.log(`Converted ${included} links into ${filesWritten} markdown files at: ${OUTPUT_DIR}`);
-  
-  // Run linting on generated files
   runLinting();
 }
 

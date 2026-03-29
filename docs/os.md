@@ -7,10 +7,10 @@
 - [List Of Os - Wikipedia](https://en.wikipedia.org/wiki/List_of_operating_systems)
 - [Nanochess/bootos · Github](https://github.com/nanochess/bootOS)
 
-## OS by devices
+## os-by-devices
 
 
-### Console OS
+### console-os
 
 - [Ios - Wiibrew](https://wiibrew.org/wiki/IOS)
 - [Nintendo Switch Brew](https://switchbrew.org)
@@ -18,7 +18,7 @@
 - [Windows Ce - Dreamcast.wiki](https://dreamcast.wiki/Windows_CE)
 - [Xbox System Updates | Xbox Support](https://support.xbox.com/en-US/help/hardware-network/settings-updates/whats-new-xbox-one-system-updates)
 
-#### Playstation OS
+#### playstation-os
 
 - [Aldostools/webman-mod: Extended Services For Ps3 Console (web Server, Ftp Server, Netiso, Ntfs, Ps3mapi, Etc.)](https://github.com/aldostools/webMAN-MOD)
 - [Aomsin2526/badwdsd: Modchip For Ps3 Slim/superslim (nor Only) (do Not Use Yet)](https://github.com/aomsin2526/BadWDSD)
@@ -32,7 +32,7 @@
 - [Thewizwikii/wikistore: App/game Para Ps3](https://github.com/TheWizWikii/WIKISTORE)
 - [Wiibrew](https://wiibrew.org)
 
-### Embedded OS
+### embedded-os
 
 - [Blackberry Qnx | Embedded Os, Support And Services](https://blackberry.qnx.com/en)
 - [Elinos](https://www.sysgo.com/elinos/)
@@ -46,7 +46,7 @@
 - [Riot - The Friendly Operating System For The Internet Of Things](https://www.riot-os.org/)
 - [Ropieee: A Roonbridge Ready-to-go Image For Raspberry Pi](https://ropieee.org/)
 
-#### RTOS
+#### rtos
 
 - [Azure Rtos Is Now Eclipse Threadx | The Eclipse Foundation](https://threadx.io/)
 - [Cesium Rtos - Weston Embedded Solutions](https://weston-embedded.com/products/cesium)
@@ -56,7 +56,7 @@
 - [Vxworks - Rtos Para Intelligent Edge](https://www.windriver.com/products/vxworks-es)
 - [Zephyr Project – A Proven Rtos Ecosystem, By Developers, For Developers](https://www.zephyrproject.org/)
 
-### Router OS
+### router-os
 
 - [Bsd Router Project](https://bsdrp.net/)
 - [Dd-wrt](https://dd-wrt.com/)
@@ -69,16 +69,16 @@
 - [Vyos](https://vyos.io/)
 - [Zeroshell Linux Router](https://www.zeroshell.org/)
 
-### Smart device OS
+### smart-device-os
 
 
-#### Smartphone OS
+#### smartphone-os
 
 - [Comparison Of Mobile Operating Systems - Handwiki](https://handwiki.org/wiki/Software%3AComparison_of_mobile_operating_systems?utm_source=chatgpt.com)
 - [Harmonyos](https://www.harmonyos.com/en/)
 - [Openharmony](https://openharmony.cn/HomePage)
 
-##### Android ROMs
+##### android-roms
 
 - ⭐ **[Arrowos](https://arrowos.net/)**
 - ⭐ **[Grapheneos](https://grapheneos.org)**
@@ -149,7 +149,7 @@
 - [Xiaomi.eu Multilang Miui Roms](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/)
 - [Xtended - Custom Rom Redefined!](https://project-xtended.org/)
 
-##### Linux phone OS
+##### linux-phone-os
 
 - ⭐ **[Postmarketos](https://postmarketos.org/)**
 - [Divestos Mobile](https://divestos.org/)
@@ -171,13 +171,13 @@
 - [Ubuntu Touch](https://ubuntu-touch.io)
 - [Unaos](https://unaos.com)
 
-##### iOS
+##### ios
 
 - [Ios - Apple](https://www.apple.com/ios)
 - [Ios 16](https://www.apple.com/ios/ios-16/)
 - [Visionos - Apple Developer](https://developer.apple.com/visionos/)
 
-#### SmartTV OS
+#### smarttv-os
 
 - [Android Tv](https://www.android.com/tv/)
 - [Coreelec](https://coreelec.org/)
@@ -199,7 +199,7 @@
 - [Whale Tv | Home](https://www.whaletv.com/)
 - [Yahoo Smart Tv](https://smarttv.yahoo.com/)
 
-#### Smartwatch OS
+#### smartwatch-os
 
 - [Argrento/huami-token: Script To Obtain Watch Or Band Bluetooth Token From Huami Servers - Codeberg.org](https://codeberg.org/argrento/huami-token/)
 - [Asteroidos](https://asteroidos.org/) / [🔗](https://github.com/AsteroidOS/asteroid)
@@ -212,10 +212,10 @@
 - [Wear Os By Google](https://wearos.google.com/)
 - [Zepp Health | Empowering Health, Inspiring Joy](https://www.zepp.com/)
 
-### Server OS
+### server-os
 
 
-#### Enterprise Server OS
+#### enterprise-server-os
 
 - ⭐ **[Proxmox - Powerful Open-source Server Solution](https://www.proxmox.com/en/)**
 - ⭐ **[Rocky Linux](https://rockylinux.org)**
@@ -235,7 +235,7 @@
 - [Xenserver - Secure, Reliable, And High-performance Virtualization Platform](https://www.xenserver.com/)
 - [Yunohost - Easily Manage A Server For Your Friends](https://yunohost.org/)
 
-#### Home Server OS
+#### home-server-os
 
 - ⭐ **[Umbrel — The Ultimate Home Server And Os For Self-hosting](https://umbrel.com/)** / [🔗](https://github.com/getumbrel/umbrel)
 - [Amahi Home Server - Making Home Networking Simple](https://www.amahi.org/)
@@ -256,10 +256,10 @@
 - [Unraid Os](https://unraid.net/)
 - [Xigmanas](https://xigmanas.com/xnaswp/)
 
-### Workstation OS (generic)
+### workstation-os-(generic)
 
 
-#### Independent OS
+#### independent-os
 
 - ⭐ **[Commodore 64 Os](https://c64os.com/)**
 - ⭐ **[Templeos](https://templeos.org)**
@@ -307,10 +307,10 @@
 - [Trsdos Commands](http://www.trs-80.org/trsdos-model1-commands/)
 - [Vinsdragonis/odin · Github](https://github.com/vinsdragonis/Odin)
 
-#### UNIX-based
+#### unix-based
 
 
-##### BSD-based
+##### bsd-based
 
 - ⭐ **[Freebsd](https://www.freebsd.org/)** / [🔗](https://cgit.freebsd.org/)
 - ⭐ **[Ghostbsd](https://www.ghostbsd.org/)**
@@ -330,7 +330,7 @@
 - [Ps5 Software - Playstation](https://www.playstation.com/en-us/support/hardware/ps5/system-software/)
 - [Ravynos – Finesse Of Macos. Freedom Of Freebsd](https://ravynos.com/)
 
-##### macOS
+##### macos
 
 - [Apple Copland Os - Internet Archive](https://archive.org/details/apple-copland-os.-7z)
 - [Dockur/macos: Macos Inside A Docker Container.](https://github.com/dockur/macos)
@@ -339,10 +339,10 @@
 - [Macos - Apple](https://www.apple.com/macos/)
 - [Macos 14 - Internet Archive](https://archive.org/details/macOS_14_Sonoma_beta_4_ISO)
 
-##### Unix-like
+##### unix-like
 
 
-###### Indie Unix-like
+###### indie-unix-like
 
 - [Andy-python-programmer/aero · Github](https://github.com/Andy-Python-Programmer/aero)
 - [Atheos](https://atheos.metaproject.frl/)
@@ -358,10 +358,10 @@
 - [The Theseus Os](https://www.theseus-os.com/)
 - [Xinuos](https://www.xinuos.com/)
 
-###### Linux-based
+###### linux-based
 
 
-####### Arch-based
+####### arch-based
 
 - ⭐ **[Arch Linux](https://archlinux.org/)**
 - ⭐ **[Archcraft.io](https://archcraft.io/)**
@@ -443,14 +443,14 @@
 - [Ultimate Editon Os](https://ultimateedition.info/)
 - [W84death/floppinux: An Embedded 🐧linux On A Single 💾floppy](https://github.com/w84death/floppinux)
 
-####### Chrome-OS
+####### chrome-os
 
 - [Chromeos - The Cloud-first, Secure Os For Your Business](https://chromeos.google/)
 - [Chromium Os](https://www.chromium.org/chromium-os/)
 - [Chrultrabook Docs - What Is A Chrultrabook And Who Is This Documentation For?](https://docs.chrultrabook.com/)
 - [Fydeos - Simple, Swift, And Secure For Everyone](https://fydeos.io/)
 
-####### Debian-based
+####### debian-based
 
 - ⭐ **[Debian - The Universal Operating System](https://www.debian.org)**
 - ⭐ **[Devuan Gnu+linux](https://www.devuan.org/)**
@@ -530,7 +530,7 @@
 - [Window Maker Live](https://wmlive.sourceforge.net/)
 - [Zephix Linux](https://zephix-linux.sourceforge.io/)
 
-####### Gentoo-based
+####### gentoo-based
 
 - ⭐ **[Gentoo Linux](https://www.gentoo.org)**
 - [Bicom Systems](https://www.bicomsystems.com/download/)
@@ -552,7 +552,7 @@
 - [Xenia Linux](https://xenialinux.com/)
 - [Xenia Linux](https://xenia-group.gitlab.io/xeniaweb/)
 
-####### Fedora-based
+####### fedora-based
 
 - ⭐ **[Fedora Linux](https://fedoraproject.org/)**
 - ⭐ **[Nobara Project](https://nobaraproject.org/)**
@@ -575,14 +575,14 @@
 - [Ultramarine Linux](https://ultramarine-linux.org/)
 - [Universal Blue – Powered By The Future, Delivered Today](https://universal-blue.org/)
 
-####### NixOS-based
+####### nixos-based
 
 - ⭐ **[Nix & Nixos](https://nixos.org/)**
 - [Athena Os](https://athenaos.org/)
 - [Expidusos](https://expidusos.com/en/)
 - [Snowflakeos](https://snowflakeos.org/)
 
-####### Indie Linux distro
+####### indie-linux-distro
 
 - ⭐ **[Alpine Linux](https://www.alpinelinux.org/)**
 - ⭐ **[Dahliaos](https://dahliaos.io/)**
@@ -682,7 +682,7 @@
 - [Yocto Project](https://www.yoctoproject.org/)
 - [Zentyal Linux Server](https://zentyal.com/)
 
-####### RedHat-based
+####### redhat-based
 
 - ⭐ **[Openmandriva](https://www.openmandriva.org/)**
 - ⭐ **[Opensuse Tumbleweed](https://get.opensuse.org/tumbleweed/)**
@@ -701,7 +701,7 @@
 - [Scientific Linux](https://scientificlinux.org/)
 - [Vine Linux](https://www.vinelinux.org/)
 
-####### Slackware-based
+####### slackware-based
 
 - ⭐ **[Puppy Linux](https://puppylinux-woof-ce.github.io/)**
 - ⭐ **[Slackware Linux](http://slackware.com/)**
@@ -715,7 +715,7 @@
 - [Sylixos](https://sylixos.com/)
 - [Zenwalk Gnu Linux](http://www.zenwalk.org/)
 
-####### Ubuntu-based
+####### ubuntu-based
 
 - ⭐ **[Elementary Os](https://elementary.io/)**
 - ⭐ **[Kde Neon](https://neon.kde.org/)**
@@ -764,13 +764,13 @@
 - [Wubuntu - The Windows Ubuntu Operating System](https://www.wubuntu.org/)
 - [Xubuntu](https://xubuntu.org/)
 
-####### Void-based
+####### void-based
 
 - ⭐ **[Void Linux - Enter The Void](https://voidlinux.org/)**
 - [Cereus Linux](https://cereuslinuxproject.github.io/)
 - [D77void Gnu/linux](https://d77void.sourceforge.io/)
 
-####### WSL
+####### wsl
 
 - [Alpine Wsl - Microsoft Store](https://apps.microsoft.com/detail/9P804CRF0395?hl=en-us&gl=US)
 - [Arch Wsl - Microsoft Store](https://apps.microsoft.com/detail/9mznmnksm73x?hl=en-US&gl=ES)
@@ -780,7 +780,7 @@
 - [Microsoft/wsl · Github](https://github.com/microsoft/WSL)
 - [Ubuntu - Microsoft Store](https://apps.microsoft.com/detail/9PDXGNCFSCZV?hl=en-us&gl=US)
 
-#### Windows NT
+#### windows-nt
 
 - ⭐ **[Changewindows - Timeline](https://www.changewindows.org/timeline)**
 - ⭐ **[Dockur/windows · Github](https://github.com/dockur/windows)**
@@ -812,10 +812,10 @@
 - [Windows Xp Professional With Sp3 (spanish): Internet Archive](https://archive.org/details/windows-xp-es-iso_202101)
 - [Wsl - Microsoft](https://learn.microsoft.com/en-us/windows/wsl/install)
 
-## OS Components
+## os-components
 
 
-### Firmware
+### firmware
 
 - [Amberelec](https://amberelec.org/)
 - [Atmosphere-nx/atmosphere: Atmosphère Is A Work-in-progress Customized Firmware For The Nintendo Switch.](https://github.com/Atmosphere-NX/Atmosphere)
@@ -830,7 +830,7 @@
 - [Rockbox - Free Music Player Firmware](https://www.rockbox.org/)
 - [Tianocore.org](https://www.tianocore.org/)
 
-### Bootloader
+### bootloader
 
 - [Acidanthera/opencorepkg: Opencore Bootloader](https://github.com/acidanthera/OpenCorePkg)
 - [Amutable](https://amutable.com/)
@@ -858,7 +858,7 @@
 - [Wolfssl/wolfboot · Github](https://github.com/wolfSSL/wolfBoot)
 - [Zfsbootmenu](https://docs.zfsbootmenu.org/en/latest/)
 
-### Init system
+### init-system
 
 - [Apple-oss-distributions/launchd · Github](https://github.com/apple-oss-distributions/launchd)
 - [Buildroot](https://buildroot.org/)
@@ -874,7 +874,7 @@
 - [Troglobit/finit: Fast Init For Linux. Cookies Included](https://github.com/troglobit/finit)
 - [Upstart - Event-based Init Daemon](https://upstart.ubuntu.com/)
 
-### Kernel
+### kernel
 
 - [Apple-oss-distributions/xnu · Github](https://github.com/apple-oss-distributions/xnu)
 - [Arighi/pastaos · Github](https://github.com/arighi/pastaos)
@@ -892,7 +892,7 @@
 - [Tock Embedded Operating System](https://www.tockos.org/)
 - [Zircon - Fuchsia - Git At Google](https://fuchsia.googlesource.com/fuchsia/+/master/zircon/)
 
-#### Linux Kernel
+#### linux-kernel
 
 - [Android Common Kernels | Android Open Source Project](https://source.android.com/docs/core/architecture/kernel/android-common)
 - [Apparmor](https://www.apparmor.net/)
@@ -916,7 +916,7 @@
 - [The Linux Kernel Documentation](https://docs.kernel.org/)
 - [Xanmod Kernel](https://xanmod.org/)
 
-### Desktop Environment
+### desktop-environment
 
 - ⭐ **[Plasma Bigscreen](https://plasma-bigscreen.org/)**
 - [Archcraft-wayfire](https://github.com/archcraft-os/archcraft-wayfire)
@@ -957,12 +957,12 @@
 - [Windows Shell - Win32 Apps](https://docs.microsoft.com/en-us/windows/win32/shell/shell-entry)
 - [Xfce](https://xfce.org/)
 
-### Desktop Enviroment Parts
+### desktop-enviroment-parts
 
 - [Eythaann/seelen-ui: Windows 10/11 Desktop Environment](https://github.com/eythaann/Seelen-UI)
 - [Welcome To Noctalia's Documentation](https://docs.noctalia.dev/)
 
-#### App launcher
+#### app-launcher
 
 - [Aio Launcher](https://aiolauncher.app/)
 - [Albu-razvan/stario: Do More With Stario — The Minimalist Launcher For You.](https://github.com/albu-razvan/Stario)
@@ -986,7 +986,7 @@
 - [Tanujnotes/olauncher: Minimal Af Launcher For Android](https://github.com/tanujnotes/Olauncher)
 - [Webcatalog - Software For Managing Apps And Accounts](https://webcatalog.io/en)
 
-#### Bar manager
+#### bar-manager
 
 - [Bartender](https://www.macbartender.com/)
 - [Darkbar · Github](https://github.com/bluesabre/darkbar)
@@ -1005,7 +1005,7 @@
 - [Start11 - Stardock](https://www.stardock.com/products/start11/)
 - [Waybar · Github](https://github.com/Alexays/Waybar)
 
-#### Login manager
+#### login-manager
 
 - [Coastalwhite/lemurs · Github](https://github.com/coastalwhite/lemurs)
 - [Emptty: Simple Cli Display Manager](https://github.com/tvrzna/emptty/)
@@ -1021,13 +1021,13 @@
 - [Ly: Display Manager · Github](https://github.com/fairyglade/ly)
 - [Sddm · Github](https://github.com/sddm/sddm/)
 
-#### Dynamic menu library
+#### dynamic-menu-library
 
 - [Bemenu · Github](https://github.com/Cloudef/bemenu)
 - [Dmenu | Suckless](https://tools.suckless.org/dmenu/)
 - [Enkore/j4-dmenu-desktop · Github](https://github.com/enkore/j4-dmenu-desktop)
 
-#### Desktop launcher
+#### desktop-launcher
 
 - [Albert](https://albertlauncher.github.io/)
 - [Alfred - Productivity App For Macos](https://www.alfredapp.com/)
@@ -1049,7 +1049,7 @@
 - [Vicinae Documentation](https://docs.vicinae.com/) / [🔗](https://github.com/vicinaehq/vicinae)
 - [Wox.one](http://www.wox.one/)
 
-#### Desktop customization
+#### desktop-customization
 
 - [Chrisand1998/taskbarxi: An Application Written In C++ To Modify The Windows 11 Taskbar.](https://github.com/ChrisAnd1998/TaskbarXI)
 - [Jszczerbinsky/lwp · Github](https://github.com/jszczerbinsky/lwp)
@@ -1070,22 +1070,22 @@
 - [Xerolinux/xero-layan-git · Github](https://github.com/xerolinux/xero-layan-git)
 - [Xerolinux/xero-sweet-git · Github](https://github.com/xerolinux/xero-sweet-git)
 
-#### Display System
+#### display-system
 
 - [Wayland Protocol Documentation](https://wayland.app/protocols/)
 - [X.org (x11)](https://www.x.org/wiki/)
 - [X11libre/xserver: Xlibre Xserver](https://github.com/X11Libre/xserver)
 
-##### Display Protocol
+##### display-protocol
 
 - [Wayland - Free Desktop](https://wayland.freedesktop.org/) / [🔗](https://gitlab.freedesktop.org/wayland)
 - [Wayland / Wayland · Gitlab](https://gitlab.freedesktop.org/wayland/wayland)
 - [X Window System Protocol](https://www.x.org/releases/X11R7.7/doc/xproto/x11protocol.html)
 
-##### Display Server
+##### display-server
 
 
-###### Wayland Compositor
+###### wayland-compositor
 
 - ⭐ **[Hyprland](https://hypr.land/)** / [🔗](https://github.com/hyprwm/Hyprland)
 - [~bl4ckb0ne/wxrc - Sourcehut Git](https://git.sr.ht/~bl4ckb0ne/wxrc)
@@ -1125,14 +1125,14 @@
 - [Yalter/niri · Github](https://github.com/YaLTeR/niri)
 - [Zwin-project/zwin · Github](https://github.com/zwin-project/zwin)
 
-###### X Server
+###### x-server
 
 - [Timon37/xwayland: Xwayland](https://github.com/timon37/xwayland)
 - [X Org - Freedesktop.org](https://xorg.freedesktop.org/wiki/)
 - [Xfree86® - Home To The X Window System](https://www.xfree86.org/)
 - [Xquartz](https://www.xquartz.org/)
 
-##### X11 Compositor
+##### x11-compositor
 
 - [Compton: A Compositor For X11](https://github.com/chjj/compton/)
 - [Nwg-piotr/nwg-displays · Github](https://github.com/nwg-piotr/nwg-displays)
@@ -1141,7 +1141,7 @@
 - [Sminez/penrose: A Library For Writing An X11 Tiling Window Manager](https://github.com/sminez/penrose)
 - [Xrdesktop / Xrdesktop · Gitlab](https://gitlab.freedesktop.org/xrdesktop/xrdesktop)
 
-##### X11 Window manager
+##### x11-window-manager
 
 - [Comparison Of Tiling Window Managers - Archwiki](https://wiki.archlinux.org/title/Comparison_of_tiling_window_managers)
 - [Galería Wm](http://galeriawm.hol.es/)
@@ -1149,7 +1149,7 @@
 - [Stacking Window Manager - Wikipedia](https://en.wikipedia.org/wiki/Stacking_window_manager)
 - [Window Managers & Panels - Linuxmobile](https://linuxmobile.netlify.app/2021/12/18/todo-sobre-ricing-r-unixporn/)
 
-###### Stacking window manager
+###### stacking-window-manager
 
 - [2bwm · Github](https://github.com/venam/2bwm)
 - [Airblader/i3 · Github](https://github.com/Airblader/i3)
@@ -1182,7 +1182,7 @@
 - [Swm · Github](https://github.com/dcat/swm)
 - [Window Maker](https://www.windowmaker.org/)
 
-###### Tiling window manager
+###### tiling-window-manager
 
 - ⭐ **[Awesome Wm](https://awesomewm.org/)**
 - ⭐ **[Bismuth-forge/bismuth: Kde Plasma Twm Add-on](https://github.com/Bismuth-Forge/bismuth)**
@@ -1238,7 +1238,7 @@
 - [Xorg / App / Twm · Gitlab](https://gitlab.freedesktop.org/xorg/app/twm/)
 - [Yurimaster2112/i3-gaps · Github](https://github.com/yurimaster2112/i3-gaps)
 
-### Web Desktop System
+### web-desktop-system
 
 - ⭐ **[Daedalos](https://dustinbrett.com/)** / [🔗](https://github.com/DustinBrett/daedalOS)
 - [98.js - Windows 98 Online](https://98.js.org/)
