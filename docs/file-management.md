@@ -3,7 +3,7 @@
 **Total Bookmarks:** 806
 
 
-## Backup
+## backup
 
 - ⭐ **[Borgbackup](https://www.borgbackup.org)**
 - ⭐ **[Duplicati](https://www.duplicati.com)**
@@ -54,14 +54,14 @@
 - [Vorta For Borgbackup](https://vorta.borgbase.com/)
 - [Wii Backup Manager](http://www.wiibackupmanager.co.uk/)
 
-## Client cloud storage
+## client-cloud-storage
 
 - [Expandrive](https://www.expandrive.com/)
 - [Mega Cmd](https://mega.io/cmd)
 - [Remotely Save](https://remotelysave.com/)
 - [Sync-in · The Open-source Platform That Keeps Your Data Safe](https://sync-in.com/) / [🔗](https://github.com/Sync-in)
 
-## Cloud storage
+## cloud-storage
 
 - ⭐ **[Deta Surf](https://deta.surf/)** / [🔗](https://github.com/deta/surf)
 - ⭐ **[Dropbox](https://www.dropbox.com)**
@@ -129,10 +129,10 @@
 - [Zoho | Cloud Software Suite For Businesses](https://www.zoho.com)
 - [Zoolz](https://www.zoolz.com)
 
-## Converter
+## converter
 
 
-### Calendar converter
+### calendar-converter
 
 - ⭐ **[Asli Tools - Calendar Converter](https://aslitools.com/tools/date-converter/)**
 - [Calendar Converter](https://www.azuzan.com/calendar-converter)
@@ -145,7 +145,7 @@
 - [‎unical - Calendar Converter App - App Store](https://apps.apple.com/za/app/unical-calendar-converter/id564858516)
 - [‎universal Calendar Converter App - App Store](https://apps.apple.com/il/app/universal-calendar-converter/id6756697267)
 
-### CD Ripping
+### cd-ripping
 
 - [Anyburn](https://www.anyburn.com/)
 - [Anytoiso - Crystalidea](https://crystalidea.com/anytoiso)
@@ -165,13 +165,13 @@
 - [The Redfox Project](https://www.redfox.bz/)
 - [Wincdemu](https://wincdemu.sysprogs.org/)
 
-### DVD Decrypter
+### dvd-decrypter
 
 - [Dvdfab](https://www.dvdfab.cn/)
 - [Makemkv](https://makemkv.com/)
 - [Oyvindln/vhs-decode: Software Defined Vhs Decoder - Fork (maybe Temporary) Of The Ld-decode Laserdisc Rf Decoder](https://github.com/oyvindln/vhs-decode)
 
-### Encoder
+### encoder
 
 - ⭐ **[Morse Code Translator – Morse To Text – Text To Morse Code](https://morsecodeapp.com/)**
 - [Fkinoshita/telegraph: Write And Decode Morse](https://github.com/fkinoshita/Telegraph)
@@ -179,7 +179,7 @@
 - [Universal Encoding Tool](https://unenc.com/)
 - [Utilities / Vail · Gitlab](https://invent.kde.org/utilities/vail)
 
-### File Format Converter
+### file-format-converter
 
 - ⭐ **[Convert To It!](https://p2r3.github.io/convert/)**
 - [Aconvert](https://www.aconvert.com)
@@ -240,7 +240,7 @@
 - [Youconvertit](https://www.youconvertit.com)
 - [Zamzar](https://www.zamzar.com/)
 
-### Encryptor
+### encryptor
 
 - ⭐ **[Cryptomator](https://cryptomator.org)**
 - ⭐ **[Hat.sh - Client-side Encryption](https://hat.sh/)**
@@ -280,7 +280,7 @@
 - [Vaultaire | Protected By Design](https://vaultaire.app/)
 - [Viivo](https://www.viivo.com)
 
-### File converter
+### file-converter
 
 - ⭐ **[Pandoc](https://pandoc.org/)**
 - [Aleiepure/devtoolbox · Github](https://github.com/aleiepure/devtoolbox)
@@ -303,7 +303,7 @@
 - [Poikosoft](https://www.poikosoft.com/)
 - [Vector Magic](https://vectormagic.com/)
 
-#### Image converter
+#### image-converter
 
 - ⭐ **[Squoosh.app](https://squoosh.app/)**
 - [Compress Image](https://compressnow.com)
@@ -335,7 +335,7 @@
 - [Vectorizer.ai - Convert Png, Jpg Files To Svg Vectors Online](https://vectorizer.ai/)
 - [Yoga Image Optimizer](https://yoga.flozz.org/)
 
-#### Image resizer
+#### image-resizer
 
 - [Easy Resize](https://www.easy-resize.com/en/)
 - [Imageoptim](https://imageoptim.com/api)
@@ -346,7 +346,7 @@
 - [Svgomg - Svgo's Missing Gui](https://jakearchibald.github.io/svgomg/)
 - [Ze Robot](https://ze-robot.com/)
 
-#### Text converter
+#### text-converter
 
 - ⭐ **[Cyberchef](https://gchq.github.io/CyberChef/)** / [🔗](https://github.com/gchq/CyberChef)
 - [Base64 Encode](https://www.base64encode.org)
@@ -358,7 +358,7 @@
 - [Online Base64 Tools](https://onlinebase64tools.com)
 - [Text Converter - Easy Tool To Transform Your Text](https://www.textconverter.io/)
 
-#### Video converter
+#### video-converter
 
 - ⭐ **[Ffmpeg](https://ffmpeg.org/)** / [🔗](https://code.ffmpeg.org/FFmpeg/FFmpeg)
 - [Eldecard - Streameye](https://www.elecard.com/products/video-analysis/streameye)
@@ -372,7 +372,7 @@
 - [Telestream Switch - Multiformat Video Player, Inspection And Conversion Tool](https://www.telestream.net/switch/overview.htm)
 - [Vidcoder](https://vidcoder.net/)
 
-### Web converter
+### web-converter
 
 - [Arraycat](https://arraycat.com/)
 - [Cloudconvert](https://cloudconvert.com)
@@ -383,12 +383,12 @@
 - [Rgb To Hex](https://www.rgbtohex.net/)
 - [Webp To Png Converter – 100% Free](https://webptopng.com/)
 
-#### Cookie converter
+#### cookie-converter
 
 - [Cookie Converter](https://www.cookieconverter.com/)
 - [Cookie Converter - Accovod](https://accovod.com/cookieConverter/)
 
-#### HTML converter
+#### html-converter
 
 - [Convert Html To Opml](https://alldocs.app/convert-html-to-opml)
 - [Html Bookmarks Into Csv](https://gist.github.com/keikoro/699e2003d5814bc0d5224a9e78676373)
@@ -397,7 +397,7 @@
 - [Word To Html](https://wordhtml.com)
 - [Word To Html](https://wordtohtml.net)
 
-#### MD5 converter
+#### md5-converter
 
 - [Md5 - Online Generator Md5 Hash](https://www.md5.cz/)
 - [Md5 Conversion](https://md5.gromweb.com/)
@@ -405,7 +405,7 @@
 - [Md5 Online Decrypt & Encrypt](https://md5decrypt.net/en/#answer)
 - [Md5 Online Decrypt & Encrypt - Compare Your Hash With Our Database](https://md5decrypt.net/en/)
 
-#### RSS Converter
+#### rss-converter
 
 - [Bookmarks.html To Opml – Rss Feed Reader](https://feeder.co/bookmarks-to-opml)
 - [Feed Creator - Fivefilters](http://createfeed.fivefilters.org/)
@@ -424,7 +424,7 @@
 - [Rss.app - Feeds From Almost Any Website](https://rss.app/rss-feed)
 - [Siftrss | Filter Rss Feed](https://siftrss.com/)
 
-## Compressor
+## compressor
 
 - ⭐ **[7-zip](https://7-zip.org/)** / [🔗](https://sourceforge.net/projects/sevenzip/)
 - [Aftercodecs](https://www.autokroma.com/AfterCodecs/)
@@ -463,7 +463,7 @@
 - [Winzip](https://www.winzip.com/en/)
 - [Xz Utils](https://tukaani.org/xz/)
 
-## File Hosting Service
+## file-hosting-service
 
 - ⭐ **[Transfer.it](https://transfer.it/start)**
 - [1fichier](https://1fichier.com)
@@ -532,7 +532,7 @@
 - [Z_o_o_m´s File & Image Uploader](https://z-o-o-m.eu/)
 - [Zerofs](https://zerofs.link/)
 
-## File Samples
+## file-samples
 
 - [File Examples Download](https://file-examples.com/)
 - [File Samples](https://filesamples.com)
@@ -540,7 +540,7 @@
 - [Sample Files Library](https://samplelib.com/)
 - [Sample Videos](https://sample-videos.com/index.php)
 
-## File viewer
+## file-viewer
 
 - [Epubviewer](https://pgaskin.net/ePubViewer/)
 - [Fx – Command-line Tool For Json](https://fx.wtf/)
@@ -548,11 +548,11 @@
 - [Nyre221/dolphin-quick-view · Github](https://github.com/Nyre221/dolphin-quick-view)
 - [Pwmt/zathura: Document Viewer](https://github.com/pwmt/zathura)
 
-### DICOM viewer
+### dicom-viewer
 
 - [Alizamedicalimaging/alizams · Github](https://github.com/AlizaMedicalImaging/AlizaMS)
 
-### Media player
+### media-player
 
 - [Bs.player - Media Player](https://bsplayer.com/)
 - [Celluloid](https://celluloid-player.github.io/)
@@ -564,16 +564,16 @@
 - [Wang-bin/qtav · Github](https://github.com/wang-bin/QtAV)
 - [Zoom Player | A Versatile Media Player For Windows](https://www.inmatrix.com/)
 
-### Quick look
+### quick-look
 
 - [Quicklook](https://github.com/QL-Win/QuickLook)
 - [Seer - Quick Look Tool](http://1218.io/)
 - [Winquicklook](https://github.com/shibayan/WinQuickLook)
 
-## File comparison
+## file-comparison
 
 
-### Duplicate comparison
+### duplicate-comparison
 
 - [Adrianlopezroche/fdupes · Github](https://github.com/adrianlopezroche/fdupes)
 - [Alldup](https://alldup.info/)
@@ -597,7 +597,7 @@
 - [Speedy Duplicate Finder](https://qiplex.com/software/speedy-duplicate-finder/)
 - [Voidtools.com](https://www.voidtools.com/)
 
-### Diff tool
+### diff-tool
 
 - ⭐ **[Meld Merge](https://meldmerge.org/)**
 - ⭐ **[Winmerge - You Will See The Difference...](https://winmerge.org/)**
@@ -610,10 +610,10 @@
 - [Scooter Software: Beyond Compare](https://www.scootersoftware.com/)
 - [Semanticdiff - Language Aware Diff For Vs Code & Github](https://semanticdiff.com/)
 
-## File manager
+## file-manager
 
 
-### DAM (Digital Asset Management)
+### dam-(digital-asset-management)
 
 - ⭐ **[Eagle - Organize All Your Reference Images In One Place](https://eagle.cool)**
 - [Acdsee | Digital Asset Management](https://www.acdsee.com/en/digital-asset-management/)
@@ -654,7 +654,7 @@
 - [Tinymediamanager](https://www.tinymediamanager.org/)
 - [Wondershare Document Cloud](https://documentcloud.wondershare.com/)
 
-### File manager GUI
+### file-manager-gui
 
 - ⭐ **[Cryo File Manager](https://cryonet.io/)**
 - ⭐ **[Dolphin Kde](https://apps.kde.org/dolphin)**
@@ -729,7 +729,7 @@
 - [X File Explorer (xfe)](https://sourceforge.net/projects/xfe/)
 - [Xplorer²](https://www.zabkat.com/)
 
-### File manager TUI
+### file-manager-tui
 
 - [Alexpasmantier/television: A Very Fast, Portable And Hackable Fuzzy Finder For The Terminal.](https://github.com/alexpasmantier/television)
 - [Cfiles](https://github.com/mananapr/cfiles)
@@ -749,7 +749,7 @@
 - [Vifm](https://vifm.info/)
 - [Xplr](https://xplr.dev/)
 
-### File tag manager
+### file-tag-manager
 
 - ⭐ **[Ritt - The Tag-centric File Manager](https://ritt.app/)**
 - ⭐ **[Tabbles.net](https://tabbles.net/)**
@@ -769,7 +769,7 @@
 - [Tagstoo](https://tagstoo.sourceforge.io/)
 - [Tagstudio](https://docs.tagstud.io/) / [🔗](https://github.com/TagStudioDev/TagStudio)
 
-## File manager app
+## file-manager-app
 
 - [Cx Explorer](https://play.google.com/store/apps/details?id=com.cxinventor.file.explorer)
 - [Error311/filerise · Github](https://github.com/error311/FileRise)
@@ -784,11 +784,11 @@
 - [Zarchiver - Google Play](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver)
 - [Zhanghai/materialfiles: Material Design File Manager For Android](https://github.com/zhanghai/MaterialFiles)
 
-## File Search
+## file-search
 
 - [Cardisoft/cardinal: Fastest File Searching Tool For Macos](https://github.com/cardisoft/cardinal)
 
-## File Transfer Tool
+## file-transfer-tool
 
 - ⭐ **[Blip Is The Fastest Way To Send Files](https://blip.net/)**
 - ⭐ **[Pixeldrain - Free File Sharing Service](https://pixeldrain.com/)**
@@ -808,7 +808,7 @@
 - [Use Airdrop To Send Items To Nearby Apple Devices](https://support.apple.com/guide/mac-help/use-airdrop-to-send-items-to-nearby-devices-mh35868/mac)
 - [Valent](https://valent.andyholmes.ca/) / [🔗](https://github.com/andyholmes/valent)
 
-## File system
+## file-system
 
 - [A Robust Flash File System Since 2002 | Yaffs - A Flash File System For Embedded Use](https://yaffs.net/)
 - [Bcachefs](https://bcachefs.org/)
@@ -830,7 +830,7 @@
 - [Winfsp](https://winfsp.dev/)
 - [Winfsp/winfsp · Github](https://github.com/winfsp/winfsp)
 
-## Playlist transfer
+## playlist-transfer
 
 - ⭐ **[Soundiiz - Transfer Playlists And Favorites Between Streaming Services](https://soundiiz.com/)**
 - ⭐ **[Tune My Music - Transfer Playlists Between Music Services](https://www.tunemymusic.com/)**
@@ -844,13 +844,13 @@
 - [Songshift](https://www.songshift.com/)
 - [Spotify Playlist Generator](https://epsil.github.io/spotgen/)
 
-## Tag manager
+## tag-manager
 
 - [Mediainfo](https://mediaarea.net/en/MediaInfo)
 - [Tagstudiodev/tagstudio (tags) · Github](https://github.com/TagStudioDev/TagStudio/tags)
 - [Tfeldmann/organize: The File Management Automation Tool](https://github.com/tfeldmann/organize)
 
-### Audio tagger
+### audio-tagger
 
 - ⭐ **[Musicbrainz Picard](https://picard.musicbrainz.org)** / [🔗](https://github.com/metabrainz/picard)
 - [Ez Meta](https://www.poikosoft.com/metadata-editor)
@@ -870,7 +870,7 @@
 - [Tidytag Music Tag Editor](https://itubego.com/id3-music-tag-editor-54/)
 - [Tigotago | Music Tagger](https://tigotago.com/)
 
-### Image tagger
+### image-tagger
 
 - [Danbooru/danbooru: A Taggable Image Board Written In Rails.](https://github.com/danbooru/danbooru)
 - [Fastphototagger](http://fastphototagger.sourceforge.net/)
@@ -878,7 +878,7 @@
 - [Hydrusnetwork/hydrus: Tagger](https://github.com/hydrusnetwork/hydrus)
 - [Kgeotag](https://kgeotag.kde.org/)
 
-### Metadata editor
+### metadata-editor
 
 - [Analogexif | Sourceforge.net](https://sourceforge.net/projects/analogexif/)
 - [Caption Pro | Metadata Facial Recognition](https://caption-pro.com/)
@@ -896,7 +896,7 @@
 - [Najepaliya/kleaner · Github](https://github.com/najepaliya/kleaner)
 - [Photome](https://www.photome.de/)
 
-## Synchronization software
+## synchronization-software
 
 - ⭐ **[Freefilesync](https://freefilesync.org)**
 - ⭐ **[Rclone](https://rclone.org/)**

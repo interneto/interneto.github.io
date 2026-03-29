@@ -7,7 +7,7 @@
 - [Fossifyorg/keyboard · Github](https://github.com/FossifyOrg/Keyboard)
 - [Micrsoft/powertoys · Github](https://github.com/microsoft/PowerToys)
 
-## Accessibility
+## accessibility
 
 - [Be My Eyes - Accessibility Technology For Blind & Low Vision People](https://www.bemyeyes.com/)
 - [Colour Contrast Checker - Chrome Web Store](https://chromewebstore.google.com/detail/colour-contrast-checker/nmmjeclfkgjdomacpcflgdkgpphpmnfe)
@@ -18,7 +18,7 @@
 - [Wcag Color Contrast Checker - Chrome Web Store](https://chromewebstore.google.com/detail/wcag-color-contrast-check/plnahcmalebffmaghcpcmpaciebdhgdf)
 - [Webaim: Web Accessibility In Mind](https://webaim.org/)
 
-## Tool lab app
+## tool-lab-app
 
 - [Electrosmart](https://electrosmart.app/)
 - [Magnetometer - Google Play Store](https://play.google.com/store/apps/details?id=com.appdevgenie.magnetometer)
