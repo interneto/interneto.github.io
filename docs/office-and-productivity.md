@@ -2,7 +2,7 @@
 
 **Total Bookmarks:** 1245
 
-- ⭐ [Hotkey Cheatsheet - Improve Your Productivity With Keyboard Shortcuts](https://hotkeycheatsheet.com/)
+- ⭐ **[Hotkey Cheatsheet - Improve Your Productivity With Keyboard Shortcuts](https://hotkeycheatsheet.com/)**
 - [Challonge - Tournament Brackets - Single & Double Elimination, Round Robin, Swiss, Group Stage](https://challonge.com/)
 - [Lookaway - The Best Break Reminder App For The Mac](https://lookaway.app/)
 - [Talknotes](https://www.talknotes.tech/)
@@ -51,20 +51,20 @@
 
 ## Bookmark manager
 
-- ⭐ [Karakeep](https://karakeep.app/)
-- ⭐ [Otter - Bookmark Manager](https://otter.zander.wtf/)
-- ⭐ [Linkwarden - Bookmarks, Evolved](https://linkwarden.app/)
-- ⭐ [Grimoire](https://grimoire.pro/)
-- ⭐ [Linkace](https://www.linkace.org)
-- ⭐ [Webcrate - Organize Your Web](https://webcrate.app/)
-- ⭐ [Archivebox](https://archivebox.io/)
-- ⭐ [Mrmartineau/otter · Github](https://github.com/mrmartineau/Otter)
-- ⭐ [Raindrop.io — All-in-one Bookmark Manager](https://raindrop.io/)
-- ⭐ [Minimarks.io](https://get.minimarks.io/)
-- ⭐ [Elink.io](https://elink.io)
+- ⭐ **[Karakeep](https://karakeep.app/)** / [🔗](https://github.com/karakeep-app/karakeep)
+- ⭐ **[Otter - Bookmark Manager](https://otter.zander.wtf/)**
+- ⭐ **[Linkwarden - Bookmarks, Evolved](https://linkwarden.app/)**
+- ⭐ **[Grimoire](https://grimoire.pro/)**
+- ⭐ **[Linkace](https://www.linkace.org)**
+- ⭐ **[Webcrate - Organize Your Web](https://webcrate.app/)**
+- ⭐ **[Archivebox](https://archivebox.io/)**
+- ⭐ **[Mrmartineau/otter · Github](https://github.com/mrmartineau/Otter)**
+- ⭐ **[Raindrop.io — All-in-one Bookmark Manager](https://raindrop.io/)** / [🔗](https://github.com/raindropio)
+- ⭐ **[Minimarks.io](https://get.minimarks.io/)**
+- ⭐ **[Elink.io](https://elink.io)**
 - [Sofa: Downtime Organizer](https://www.sofahq.com/)
 - [Niphtio](https://www.nipht.io/)
-- [Gosuki](https://gosuki.net/)
+- [Gosuki](https://gosuki.net/) / [🔗](https://github.com/blob42/gosuki)
 - [Hoarder](https://hoarder.app/)
 - [Linkeeper 2.0 - Visionos Support, A New Mac App, And More.](https://www.starlightapps.org/post/introducing-linkeeper-2-0-with-visionos-support-a-new-mac-app-and-more)
 - [Me.bot - Your Ai Second Brain](https://www.me.bot/)
@@ -111,16 +111,16 @@
 - [Saved.io](https://saved.io)
 - [Stash.ai](https://stash.ai)
 - [Tagpacker](https://tagpacker.com)
-- [Unmark](https://unmark.it)
+- [Unmark](https://unmark.it) / [🔗](https://github.com/cdevroe/unmark)
 
 ### Bookmark Dashboard
 
-- ⭐ [Homepage](https://gethomepage.dev/)
-- ⭐ [Nighttab · Github](https://zombiefox.github.io/nightTab/)
-- ⭐ [Kadaza - The Ultimate Homepage & Web Portal](https://www.kadaza.com/)
-- ⭐ [Homepage.org](https://www.homepage.org/)
-- ⭐ [Symbaloo: Bookmarks & Favorites](https://www.symbaloo.com/home/mix/13eP2FA6a5)
-- ⭐ [Startpage - Start.me](https://start.me/start/int/startpage)
+- ⭐ **[Homepage](https://gethomepage.dev/)**
+- ⭐ **[Nighttab · Github](https://zombiefox.github.io/nightTab/)**
+- ⭐ **[Kadaza - The Ultimate Homepage & Web Portal](https://www.kadaza.com/)**
+- ⭐ **[Homepage.org](https://www.homepage.org/)**
+- ⭐ **[Symbaloo: Bookmarks & Favorites](https://www.symbaloo.com/home/mix/13eP2FA6a5)**
+- ⭐ **[Startpage - Start.me](https://start.me/start/int/startpage)**
 - [Speed Dial 2 - New Tab Page Extension For Google Chrome](https://www.speeddial2.com/)
 - [Anori — Make Your New Tab Truly Your](https://anori.app/)
 - [Monknow New Tab - Personal Dashboard](https://www.monknow.com/en-US)
@@ -140,7 +140,7 @@
 
 ### Read later
 
-- ⭐ [Obsidian Web Clipper](https://obsidian.md/clipper)
+- ⭐ **[Obsidian Web Clipper](https://obsidian.md/clipper)**
 - [Memex - Save, Summarize And Reuse What You Read Online](https://memex.garden/)
 - [Dottorblaster/cauldron: A Native Instapaper Client For The Linux Desktop](https://github.com/dottorblaster/cauldron)
 - [Read Pages Later & Offline - Google Chrome Help](https://support.google.com/chrome/answer/7343019)
@@ -155,19 +155,19 @@
 - [Glasp: Social Web Highlighter](https://glasp.co/)
 - [Good News](https://goodnews.click/)
 - [The Old Reader](https://theoldreader.com/)
-- [Newsblur](https://newsblur.com/)
+- [Newsblur](https://newsblur.com/) / [🔗](https://github.com/samuelclay/NewsBlur)
 - [Feedly](https://feedly.com/)
 - [Brace.to](https://brace.to/)
-- [Wallbag](https://www.wallabag.org/)
+- [Wallbag](https://www.wallabag.org/) / [🔗](https://github.com/wallabag)
 - [Instapaper](https://www.instapaper.com)
 - [Pocket](https://getpocket.com/login)
 
 ### Social bookmarking
 
-- ⭐ [Taaabs](https://taaabs.com/)
-- ⭐ [Papaly](https://papaly.com)
+- ⭐ **[Taaabs](https://taaabs.com/)**
+- ⭐ **[Papaly](https://papaly.com)**
 - [Resurf - Capture Things Worth Resurfacing](https://resurf.so/)
-- [Linkhut - A Social Bookmarking Site](https://linkhut.org/)
+- [Linkhut - A Social Bookmarking Site](https://linkhut.org/) / [🔗](https://sr.ht/~mlb/linkhut/)
 - [Start.me | Turn Your Start Into A Producticity Hub](https://about.start.me/)
 - [Homepage Ninja](https://homepage.ninja/)
 - [Pinboard: Popular Bookmarks](https://pinboard.in/popular)
@@ -189,7 +189,7 @@
 
 ## Clipboard
 
-- [Pesto Clipboard - Free Macos Clipboard Manager](https://pestoclipboard.com/)
+- [Pesto Clipboard - Free Macos Clipboard Manager](https://pestoclipboard.com/) / [🔗](https://github.com/matthewpick/pesto-clipboard)
 - [Pastebar - Easy Management For Everything You Copy And Paste](https://www.pastebar.app/)
 - [Hpavlo/rememory: Rememory | Clipboard Manager](https://github.com/hpavlo/Rememory)
 - [Planck - Cross-platform Clipboard Manager](https://www.planckapp.com/)
@@ -237,18 +237,18 @@
 
 ## Data Tools
 
-- [Git City - Your Github As A 3d City](https://www.thegitcity.com/)
-- [Qsv.dathere.com - Home To The Csv Data Wrangling Toolkit With 50+ Commands!](https://qsv.dathere.com/)
+- [Git City - Your Github As A 3d City](https://www.thegitcity.com/) / [🔗](https://github.com/srizzon/git-city)
+- [Qsv.dathere.com - Home To The Csv Data Wrangling Toolkit With 50+ Commands!](https://qsv.dathere.com/) / [🔗](https://github.com/dathere/qsv)
 - [Microsoft Power Bi - Data Visualization](https://powerbi.microsoft.com/en-us)
 
 ### Data analysis
 
-- ⭐ [Rybbit Analytics](https://www.rybbit.io/)
-- ⭐ [Plausible Analytics](https://plausible.io)
-- ⭐ [Umami.is](https://umami.is)
+- ⭐ **[Rybbit Analytics](https://www.rybbit.io/)**
+- ⭐ **[Plausible Analytics](https://plausible.io)**
+- ⭐ **[Umami.is](https://umami.is)**
 - [Mimoto](https://www.baxnettechnologies.com/mimoto)
 - [Stata - Statistical Software For Data Science](https://www.stata.com/)
-- [Tiger Data: Postgresql++ For Time Series, Analytics & Ai | Creators Of Timescaledb](https://www.tigerdata.com/)
+- [Tiger Data: Postgresql++ For Time Series, Analytics & Ai | Creators Of Timescaledb](https://www.tigerdata.com/) / [🔗](https://github.com/timescale/timescaledb)
 - [Theoehrly/fast-f1: Fastf1 Is A Python Package For Accessing And Analyzing Formula 1 Results, Schedules, Timing Data And Telemetry](https://github.com/theOehrly/Fast-F1)
 - [Fifonik/ffmetrics: Visualizes Video Quality Metrics (psnr, Ssim & Vmaf) Calculated By Ffmpeg.exe](https://github.com/fifonik/FFMetrics)
 - [Palantir - Gotham](https://www.palantir.com/platforms/gotham/)
@@ -316,15 +316,15 @@
 
 ### Data visualization
 
-- ⭐ [Plotapi | Beautiful Visualization, Made Easy](https://plotapi.com/)
-- ⭐ [Yworks](https://www.yworks.com/)
-- ⭐ [Wandora App](http://wandora.org/www/)
-- ⭐ [Gephi.org](https://gephi.org)
-- ⭐ [Gource - A Software Version Control Visualization Tool](https://gource.io)
-- [Pyvista](https://docs.pyvista.org/)
+- ⭐ **[Plotapi | Beautiful Visualization, Made Easy](https://plotapi.com/)** / [🔗](https://github.com/shahinrostami/chord)
+- ⭐ **[Yworks](https://www.yworks.com/)**
+- ⭐ **[Wandora App](http://wandora.org/www/)**
+- ⭐ **[Gephi.org](https://gephi.org)**
+- ⭐ **[Gource - A Software Version Control Visualization Tool](https://gource.io)**
+- [Pyvista](https://docs.pyvista.org/) / [🔗](https://github.com/pyvista/pyvista)
 - [Jakwai01/lurk: A Pretty (simple) Alternative To Strace](https://github.com/JakWai01/lurk)
 - [Profiling Viewer - Open Callgrind Files On Macos](https://profilingviewer.com/)
-- [Visit](https://visit-dav.github.io/visit-website/)
+- [Visit](https://visit-dav.github.io/visit-website/) / [🔗](https://github.com/visit-dav/visit)
 - [Streamlit • A Faster Way To Build And Share Data Apps](https://streamlit.io/)
 - [Microsoft/data-formulator: 🪄 Create Rich Visualizations With Ai](https://github.com/microsoft/data-formulator?tab=readme-ov-file)
 - [Cytoscape.js](https://js.cytoscape.org/)
@@ -363,7 +363,7 @@
 
 ### Dataset tools
 
-- ⭐ [Neo4j - Graph Database Management System](https://neo4j.com)
+- ⭐ **[Neo4j - Graph Database Management System](https://neo4j.com)**
 - [Openml](https://www.openml.org/)
 - [Rstudio](https://www.rstudio.com/)
 - [Laion](https://laion.ai/)
@@ -371,7 +371,7 @@
 - [Aggdata](https://www.aggdata.com)
 - [Bigml](https://bigml.com)
 - [Celebfaces Dataset](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
-- [Ckan - The Open Source Data Management System](https://ckan.org)
+- [Ckan - The Open Source Data Management System](https://ckan.org) / [🔗](https://github.com/ckan/ckan)
 - [Data Portals](https://www.datacatalogs.org/search)
 - [Database Hub](https://www.back4app.com/database)
 - [Datafiniti](https://datafiniti.co)
@@ -403,7 +403,7 @@
 - [Brevo | Email Marketing Software, Automation & Crm](https://www.brevo.com/)
 - [Listmonk - Free And Open Source Self-hosted Newsletter, Mailing List Manager, And Transactional Mails](https://listmonk.app/)
 - [Free Group Email And Mass Email Newsletter Software](https://group-mail.com/)
-- [Mailtrap - Email Delivery Platform](https://mailtrap.io/)
+- [Mailtrap - Email Delivery Platform](https://mailtrap.io/) / [🔗](https://github.com/mailtrap)
 - [Mailgun](https://www.mailgun.com/)
 - [Mailjet - Email Delivery Service For Marketing & Developer Teams](https://www.mailjet.com/)
 - [Sendgrid - Sendgrid Email Api And Email Marketing Campaigns](https://sendgrid.com/en-us)
@@ -414,7 +414,7 @@
 
 ## ERP (Enterprise resource planning)
 
-- [Craftplan](https://puemos.github.io/craftplan/)
+- [Craftplan](https://puemos.github.io/craftplan/) / [🔗](https://github.com/puemos/craftplan)
 - [Erpnext: Free And Open Source Cloud Erp Software](https://erpnext.com/)
 - [Goia - Software De Gestión De Explotaciones Agrícolas](https://www.goia.es/)
 
@@ -422,7 +422,7 @@
 
 - [Butterdevelop/cryptojournal.wpf · Github](https://github.com/ButterDevelop/CryptoJournal.Wpf)
 - [Nickvisionapps/denaro: Manage Your Personal Finances](https://github.com/nickvisionapps/denaro)
-- [Budget Board](https://budgetboard.net/)
+- [Budget Board](https://budgetboard.net/) / [🔗](https://github.com/teelur/budget-board)
 - [Teelur/budget-board: A Simple App For Tracking Monthly Spending And Working Towards Financial Goals](https://github.com/teelur/budget-board)
 - [Pugpocket - Dividí Gastos, No Amistades](https://pugpocket.com/)
 - [Quickbooks®: Official Site | Smart Tools. Better Business.](https://quickbooks.intuit.com/#)
@@ -481,11 +481,11 @@
 
 ## GTD app
 
-- ⭐ [Planify](https://useplanify.com/)
-- ⭐ [Planner | Task Manager With Todoist & Caldav](https://useplanner.com//)
-- ⭐ [Ticktick](https://www.ticktick.com/)
-- [Micasa — Your House, In A Terminal](https://micasa.dev/)
-- [Fizzy](https://www.fizzy.do/)
+- ⭐ **[Planify](https://useplanify.com/)**
+- ⭐ **[Planner | Task Manager With Todoist & Caldav](https://useplanner.com//)**
+- ⭐ **[Ticktick](https://www.ticktick.com/)**
+- [Micasa — Your House, In A Terminal](https://micasa.dev/) / [🔗](https://github.com/cpcloud/micasa)
+- [Fizzy](https://www.fizzy.do/) / [🔗](https://github.com/basecamp/fizzy)
 - [Co-molib - Maximize Your Focus](https://www.co-molib.com/en)
 - [Jotty·page - Self-host Your Checklists & Notes](https://jotty.page/)
 - [Productivie – Boost Focus & Customize Your Productivity Workspace](https://www.productivie.com/app)
@@ -507,7 +507,7 @@
 - [The All-new Things](https://culturedcode.com/things/)
 - [Toodledo](https://www.toodledo.com)
 - [Twos - Be A Better You](https://www.twosapp.com/home)
-- [Todo.txt](http://todotxt.org/)
+- [Todo.txt](http://todotxt.org/) / [🔗](https://github.com/todotxt/todo.txt)
 - [Voklen/daily-diary · Github](https://github.com/Voklen/Daily-Diary)
 - [Bento: The Do Less To-do List](https://www.bentomethod.com/)
 - [Gtg - Gnome](https://wiki.gnome.org/Apps/GTG)
@@ -543,29 +543,29 @@
 
 ## Note Taking Tool
 
-- ⭐ [Crossnote](https://crossnote.app/)
-- ⭐ [Notemarks](https://notemarks.app/)
-- ⭐ [Scrintal - Say Goodbye To Scattered Thinking](https://scrintal.com/)
-- ⭐ [Amplenote - Note Taking App](https://www.amplenote.com/)
-- ⭐ [Etherpad](https://etherpad.org/)
-- ⭐ [Limandoc](https://limandoc.com/)
-- ⭐ [Nino](https://nino.app/)
-- ⭐ [Capacities – A Studio For Your Mind](https://capacities.io/)
-- ⭐ [Notesnook - Zero-knowledge Private Notes](https://notesnook.com/)
-- ⭐ [Zim-wiki](https://zim-wiki.org/)
-- ⭐ [Appflowy.io](https://appflowy.io/)
-- ⭐ [Anytype.io - The Everything App](https://anytype.io/)
-- ⭐ [Heptabase](https://heptabase.com/)
-- ⭐ [Foambubble/foam · Github](https://github.com/foambubble/foam)
-- ⭐ [Org-roam](https://www.orgroam.com/)
-- ⭐ [Dendron.so](https://www.dendron.so/)
-- ⭐ [Logseq - Open-source Knowledge Base](https://logseq.com)
-- ⭐ [Zettlr - A Markdown Editor For The 21st Century](https://www.zettlr.com/)
-- ⭐ [Beaver Notes](https://beavernotes.com/)
-- ⭐ [Nb · Command Line And Local Web Plain Text Note-taking](https://xwmx.github.io/nb/)
-- ⭐ [Xournal++ · Github](https://xournalpp.github.io/)
-- [Ichinichi - One Note Per Day](https://ichinichi.app/)
-- [Lockbook](https://lockbook.net/)
+- ⭐ **[Crossnote](https://crossnote.app/)**
+- ⭐ **[Notemarks](https://notemarks.app/)**
+- ⭐ **[Scrintal - Say Goodbye To Scattered Thinking](https://scrintal.com/)**
+- ⭐ **[Amplenote - Note Taking App](https://www.amplenote.com/)**
+- ⭐ **[Etherpad](https://etherpad.org/)**
+- ⭐ **[Limandoc](https://limandoc.com/)**
+- ⭐ **[Nino](https://nino.app/)**
+- ⭐ **[Capacities – A Studio For Your Mind](https://capacities.io/)**
+- ⭐ **[Notesnook - Zero-knowledge Private Notes](https://notesnook.com/)** / [🔗](https://github.com/streetwriters/notesnook)
+- ⭐ **[Zim-wiki](https://zim-wiki.org/)** / [🔗](https://github.com/zim-desktop-wiki/zim-desktop-wiki)
+- ⭐ **[Appflowy.io](https://appflowy.io/)**
+- ⭐ **[Anytype.io - The Everything App](https://anytype.io/)** / [🔗](https://github.com/anyproto/anytype-ts)
+- ⭐ **[Heptabase](https://heptabase.com/)**
+- ⭐ **[Foambubble/foam · Github](https://github.com/foambubble/foam)**
+- ⭐ **[Org-roam](https://www.orgroam.com/)**
+- ⭐ **[Dendron.so](https://www.dendron.so/)** / [🔗](https://github.com/dendronhq/dendron)
+- ⭐ **[Logseq - Open-source Knowledge Base](https://logseq.com)**
+- ⭐ **[Zettlr - A Markdown Editor For The 21st Century](https://www.zettlr.com/)** / [🔗](https://github.com/zettlr/zettlr)
+- ⭐ **[Beaver Notes](https://beavernotes.com/)**
+- ⭐ **[Nb · Command Line And Local Web Plain Text Note-taking](https://xwmx.github.io/nb/)** / [🔗](https://github.com/xwmx/nb)
+- ⭐ **[Xournal++ · Github](https://xournalpp.github.io/)**
+- [Ichinichi - One Note Per Day](https://ichinichi.app/) / [🔗](https://github.com/katspaugh/ichinichi)
+- [Lockbook](https://lockbook.net/) / [🔗](https://github.com/lockbook/lockbook)
 - [Gitnotebooks - Review Jupyter Notebooks In Minutes](https://www.gitnotebooks.com/)
 - [Private Notes](https://privatenotes.pro/)
 - [Tressel - Save Content From The Internet To Your Notes](https://tressel.xyz/)
@@ -604,12 +604,12 @@
 - [Reflect Notes](https://reflect.app/)
 - [Are.na](https://www.are.na/)
 - [Mem — Your Mind On Tap](https://get.mem.ai/)
-- [Kde Marknote](https://apps.kde.org/marknote/)
+- [Kde Marknote](https://apps.kde.org/marknote/) / [🔗](https://invent.kde.org/office/marknote)
 - [Prism](https://prism.you/)
 - [Meteorite - The Minimal Menubar Notetaker](https://trymeteorite.com/)
 - [Zhfahim/anchor: Offline First, Self Hostable Note Taking Application](https://github.com/zhfahim/anchor?tab=readme-ov-file)
-- [Open Notebook](https://www.open-notebook.ai/)
-- [Notefox](https://www.notefox.eu/)
+- [Open Notebook](https://www.open-notebook.ai/) / [🔗](https://github.com/lfnovo/open-notebook)
+- [Notefox](https://www.notefox.eu/) / [🔗](https://github.com/Sav22999/websites-notes)
 - [Dawarich — Your Memories, Mapped Automatically](https://dawarich.app/)
 - [Notes App - App Store](https://apps.apple.com/us/app/notes/id1110145109)
 - [Devontechnologies | Devonthink](https://www.devontechnologies.com/apps/devonthink)
@@ -695,7 +695,7 @@
 - [Flexcil - The Best Study Toolkit For Both Pdf Reader And Note Taking](https://www.flexcil.com/)
 - [Inkdrop - Note-taking App With Robust Markdown Editor](https://www.inkdrop.app/)
 - [Scrivano For Handwritten Notes](https://scrivanolabs.github.io/)
-- [Rnote](https://rnote.flxzt.net/)
+- [Rnote](https://rnote.flxzt.net/) / [🔗](https://github.com/flxzt/rnote)
 - [Rednotebook](https://rednotebook.app/)
 - [Notational Velocity](https://notational.net/)
 - [Blackhole89/notekit · Github](https://github.com/blackhole89/notekit)
@@ -715,13 +715,13 @@
 - [Keypoints.app](https://keypoints.app)
 - [Laverna](https://laverna.cc/)
 - [Neuron Zettelkasten](https://neuron.zettel.page/)
-- [Joplin](https://joplinapp.org)
+- [Joplin](https://joplinapp.org) / [🔗](https://github.com/laurent22/joplin)
 - [Cintanotes](https://cintanotes.com)
 - [Standard Notes](https://standardnotes.com)
 
 ## Office suite
 
-- ⭐ [Libreoffice - Free Office Suite](https://www.libreoffice.org)
+- ⭐ **[Libreoffice - Free Office Suite](https://www.libreoffice.org)**
 - [Zetaoffice](https://zetaoffice.net/)
 - [Microsoft 365 (account) | Microsoft Corporation](https://account.microsoft.com/services/microsoft365/details)
 - [Openresume - Resume Builder And Parser](https://www.open-resume.com/)
@@ -765,9 +765,9 @@
 
 ## Online collaboration
 
-- ⭐ [Cryptpad](https://cryptpad.fr)
-- ⭐ [Files.com](https://www.files.com)
-- ⭐ [Nuclino](https://www.nuclino.com/)
+- ⭐ **[Cryptpad](https://cryptpad.fr)**
+- ⭐ **[Files.com](https://www.files.com)**
+- ⭐ **[Nuclino](https://www.nuclino.com/)**
 - [Flask - Video Collaboration For Creative Teams](https://flask.do/)
 - [Docs - Collaborative Writing, Simplified](https://docs.numerique.gouv.fr/login/)
 - [Kludd](https://kludd.co/)
@@ -839,10 +839,10 @@
 
 ## PDF editor
 
-- ⭐ [Stirling Pdf](https://www.stirlingpdf.com/)
+- ⭐ **[Stirling Pdf](https://www.stirlingpdf.com/)** / [🔗](https://github.com/Stirling-Tools/Stirling-PDF)
 - [Pdf Expert - Read, Annotate And Edit Pdfs Like Never Before](https://pdfexpert.com/)
 - [Marco Scarpetta / Pdf Mix Tool · Gitlab](https://gitlab.com/scarpetta/pdfmixtool)
-- [Pdf Split And Merge](https://pdfsam.org/)
+- [Pdf Split And Merge](https://pdfsam.org/) / [🔗](https://github.com/torakiki/pdfsam)
 - [Adobe Acrobat Pro Dc](https://www.adobe.com/acrobat/acrobat-pro.html)
 - [Pdfarranger · Github](https://github.com/pdfarranger/pdfarranger)
 - [Updf | A Free Pdf Editor, Converter, Annotator, And Reader](https://updf.com/)
@@ -867,8 +867,8 @@
 
 ## PDF reader
 
-- ⭐ [Okular - The Universal Document Viewer](https://okular.kde.org/)
-- ⭐ [Abbyy Pdf](https://pdf.abbyy.com)
+- ⭐ **[Okular - The Universal Document Viewer](https://okular.kde.org/)**
+- ⭐ **[Abbyy Pdf](https://pdf.abbyy.com)**
 - [Skim](https://skim-app.sourceforge.io/)
 - [Adobe Acrobat Reader: Free Pdf Viewer](https://get.adobe.com/reader/)
 - [Goodreader Is A Professional Tool For Creating, Converting, Editing, And Annotating Your Pdf Files.](https://goodreader.com/)
@@ -903,10 +903,10 @@
 
 ## Project Management Tool
 
-- ⭐ [Appflowy](https://appflowy.com/)
-- ⭐ [Notion - Your Connected Workspace For Wiki, Docs And Projects](https://www.notion.com/)
+- ⭐ **[Appflowy](https://appflowy.com/)** / [🔗](https://github.com/AppFlowy-IO/AppFlowy)
+- ⭐ **[Notion - Your Connected Workspace For Wiki, Docs And Projects](https://www.notion.com/)**
 - [Magnifi — Project Management Your Whole Team Understands](https://magnifi.space/)
-- [Exo - Digital Workplace Software](https://www.exoplatform.com/)
+- [Exo - Digital Workplace Software](https://www.exoplatform.com/) / [🔗](https://github.com/exoplatform/)
 - [Apploye - Next Generation Employee Productivity Platform](https://apploye.com/)
 - [Raidplan.io | World Of Warcraft Boss Planner](https://raidplan.io/)
 - [Tillywork - Work Management For All Your Teams](https://tilly.work/)
@@ -958,7 +958,7 @@
 
 ## Reference management
 
-- ⭐ [Zotero](https://www.zotero.org)
+- ⭐ **[Zotero](https://www.zotero.org)**
 - [Readcube Literature Management Solutions](https://www.readcube.com/)
 - [Jabref](https://www.jabref.org/)
 - [Qiqqa-open-source · Github](https://github.com/jimmejardine/qiqqa-open-source)
@@ -975,7 +975,7 @@
 
 ## Research papers
 
-- ⭐ [Researchrabbit.ai](https://www.researchrabbit.ai/)
+- ⭐ **[Researchrabbit.ai](https://www.researchrabbit.ai/)**
 - [Ai2 Asta](https://asta.allen.ai/)
 - [Papers With Code](https://paperswithcode.com/)
 - [Otto](https://ottogrid.ai/)
@@ -991,8 +991,8 @@
 
 ### OMR
 
-- ⭐ [Sheet Music Scanner | Scanscore Sheet Music Scanning Software](https://scan-score.com/en/)
-- ⭐ [Sheet Music Manager - Convert Music To Musicxml](https://www.sheetmusictranscriber.com/)
+- ⭐ **[Sheet Music Scanner | Scanscore Sheet Music Scanning Software](https://scan-score.com/en/)**
+- ⭐ **[Sheet Music Manager - Convert Music To Musicxml](https://www.sheetmusictranscriber.com/)**
 - [Breezewhite/oemer: End-to-end Optical Music Recognition (omr) System. Transcribe Phone-taken Music Sheet Image Into Musicxml, Which Can Be Edited And Converted To Midi.](https://github.com/BreezeWhite/oemer)
 - [Sheet Music Scanner](https://sheetmusicscanner.com/)
 - [Newzik – Beyond Sheet Music](https://newzik.com/en/)
@@ -1000,7 +1000,7 @@
 - [Photoscore Music Scanning Software From Neuratron](https://www.neuratron.com/photoscore.htm)
 - [Playscore 2 Sheet Music Scanner | Playscore](https://www.playscore.co/)
 - [Aashrafh/mozart: An Optical Music Recognition (omr) System. Converts Sheet Music To A Machine-readable Version.](https://github.com/aashrafh/Mozart)
-- [Sheetvision - The Ai Data Analyst For Everyone](https://sheetvisions.com/)
+- [Sheetvision - The Ai Data Analyst For Everyone](https://sheetvisions.com/) / [🔗](https://github.com/cal-pratt/SheetVision)
 - [Audiveris/audiveris: Latest Generation Of Audiveris Omr Engine](https://github.com/Audiveris/audiveris)
 - [Scan2notes - The Most Accurate Ai Sheet Music Scanner | Klang.io](https://klang.io/scan2notes/)
 
@@ -1018,13 +1018,13 @@
 
 ### OCR
 
-- [High-precision Document Intelligence](https://www.datalab.to/)
+- [High-precision Document Intelligence](https://www.datalab.to/) / [🔗](https://github.com/datalab-to/surya)
 - [Ocrad - Gnu Project - Free Software Foundation (fsf)](https://www.gnu.org/software/ocrad/)
 - [Pen To Print - Handwriting To Text Online Ocr](https://www.pen-to-print.com/)
-- [Text Fairy (ocr Text Scanner) - Apps On Google Play](https://play.google.com/store/apps/details?id=com.renard.ocr&hl=en)
+- [Text Fairy (ocr Text Scanner) - Apps On Google Play](https://play.google.com/store/apps/details?id=com.renard.ocr&hl=en) / [🔗](https://github.com/renard314/textfairy)
 - [Text Scanner - Ocr - Apps On Google Play](https://play.google.com/store/apps/details?id=com.bluefish.ocr)
 - [Offline Ocr: Image To Text - Apps On Google Play](https://play.google.com/store/apps/details?id=dev.abcapps.ocr)
-- [Ocrmypdf Documentation](https://ocrmypdf.readthedocs.io/en/latest/)
+- [Ocrmypdf Documentation](https://ocrmypdf.readthedocs.io/en/latest/) / [🔗](https://github.com/ocrmypdf/OCRmyPDF)
 - [Amazon Textract - Ocr Software, Data Extraction Tool](https://aws.amazon.com/textract/)
 - [Simpleocr | Ocr Software Experts](https://www.simpleocr.com/)
 - [Readiris 17 | The Ocr Solution For Windows & Macos](https://iriscorporate.com/softwares/readiris-17/)
@@ -1045,7 +1045,7 @@
 - [Textsniper](https://textsniper.app/)
 - [Gimagereader · Github](https://github.com/manisandro/gImageReader)
 - [Textsnatcher · Github](https://github.com/RajSolai/TextSnatcher)
-- [Tesseract](https://tesseract-ocr.github.io/)
+- [Tesseract](https://tesseract-ocr.github.io/) / [🔗](https://github.com/tesseract-ocr/tesseract)
 - [Free Ocr](http://www.freeocr.net)
 - [Pantherbar](https://pantherbar-app.com/)
 - [Capture2text - Sourceforge](https://sourceforge.net/projects/capture2text/)
@@ -1054,7 +1054,7 @@
 
 ### Document Scanner
 
-- [Fairscan - Simple & Respectful Document Scanner For Android](https://fairscan.org/)
+- [Fairscan - Simple & Respectful Document Scanner For Android](https://fairscan.org/) / [🔗](https://github.com/pynicolas/FairScan)
 - [Pocket Scanner | The Best Scanner App For Ios](https://www.kdan.com/pocket-scanner)
 - [Akylas/oss-documentscanner: Document Scanning App](https://github.com/Akylas/OSS-DocumentScanner)
 - [Genius Scan - Mobile Document Scanner App With Pdf Creation And Ocr Text Recognition](https://thegrizzlylabs.com/genius-scan)
@@ -1094,11 +1094,11 @@
 ## Text viewer
 
 - [Filiparag/wikiman · Github](https://github.com/filiparag/wikiman)
-- [Nfo Viewer](https://otsaloma.io/nfoview/)
+- [Nfo Viewer](https://otsaloma.io/nfoview/) / [🔗](https://github.com/otsaloma/nfoview)
 
 ## Text editing
 
-- [Espanso](https://espanso.org)
+- [Espanso](https://espanso.org) / [🔗](https://github.com/espanso/espanso)
 
 ### Code editor
 
@@ -1129,19 +1129,19 @@
 
 ### AI Code Editor
 
-- ⭐ [Zed - Code At The Speed Of Thought](https://zed.dev/)
-- ⭐ [Visual Studio Code](https://code.visualstudio.com)
+- ⭐ **[Zed - Code At The Speed Of Thought](https://zed.dev/)**
+- ⭐ **[Visual Studio Code](https://code.visualstudio.com)**
 - [Revise - Ai Editor For Your Documents](https://revise.io/)
-- [Open Interpreter: The Desktop Agent](https://www.openinterpreter.com/)
-- [Athas Industries - A Lightweight Code Editor](https://athas.dev/)
+- [Open Interpreter: The Desktop Agent](https://www.openinterpreter.com/) / [🔗](https://github.com/openinterpreter/open-interpreter)
+- [Athas Industries - A Lightweight Code Editor](https://athas.dev/) / [🔗](https://github.com/athasdev/athas)
 - [Google Antigravity](https://antigravity.google/)
 - [Windsurf (formerly Codeium)](https://windsurf.com/)
 - [Firebase Studio](https://firebase.studio/)
-- [Cursor - The Ai Code Editor](https://www.cursor.com/)
+- [Cursor - The Ai Code Editor](https://www.cursor.com/) / [🔗](https://github.com/cursor/cursor)
 
 ### Hex editor
 
-- ⭐ [Imhex](https://imhex.werwolv.net/)
+- ⭐ **[Imhex](https://imhex.werwolv.net/)**
 - [Online Hex Editor Tool](https://hex-works.com/)
 - [Hexed.it - Browser-based Online And Offline Hex Editing](https://hexed.it/)
 - [Hiew.ru](https://www.hiew.ru/)
@@ -1151,7 +1151,7 @@
 
 ### Latex editor
 
-- ⭐ [Overleaf](https://www.overleaf.com/)
+- ⭐ **[Overleaf](https://www.overleaf.com/)**
 - [Prism | A Free, Latex-native Workspace For Scientists | Openai](https://openai.com/prism/)
 - [Gnu Texmacs (fsf Gnu Project)](https://www.texmacs.org/tmweb/home/welcome.en.html)
 - [Mathcha - Online Math Editor](https://www.mathcha.io/)
@@ -1172,9 +1172,9 @@
 
 ### Markdown editor
 
-- ⭐ [Obsidian - Sharpen Your Thinking](https://obsidian.md)
-- ⭐ [Hedgedoc - Ideas Grow Better Together](https://hedgedoc.org/)
-- ⭐ [Hackmd - Collaborative Markdown Knowledge Base](https://hackmd.io/)
+- ⭐ **[Obsidian - Sharpen Your Thinking](https://obsidian.md)**
+- ⭐ **[Hedgedoc - Ideas Grow Better Together](https://hedgedoc.org/)**
+- ⭐ **[Hackmd - Collaborative Markdown Knowledge Base](https://hackmd.io/)**
 - [Marktext/marktext · Github](https://github.com/marktext/marktext)
 - [Markd - Advanced Markdown Editor](https://markd.it/)
 - [Sylvain Philip / Bookup · Gitlab](https://gitlab.gnome.org/ilhooq/bookup)
@@ -1203,12 +1203,12 @@
 
 ### Novel Authoring Tool
 
-- [Novelwriter](https://novelwriter.io/)
-- [Manuskript](https://www.theologeek.ch/manuskript/)
+- [Novelwriter](https://novelwriter.io/) / [🔗](https://github.com/vkbo/novelwriter)
+- [Manuskript](https://www.theologeek.ch/manuskript/) / [🔗](https://github.com/olivierkes/manuskript/)
 - [Pinery: Self-publishing App.](https://pinery.app/)
 - [Ulysses](https://ulysses.app/)
 - [Scrivener - Literature & Latte](https://www.literatureandlatte.com/scrivener/overview)
-- [Starc - All-in-one Screenwriting App For Mac, Windows, Android & Ios](https://starc.app/)
+- [Starc - All-in-one Screenwriting App For Mac, Windows, Android & Ios](https://starc.app/) / [🔗](https://github.com/story-apps/starc)
 - [Lore Forge](https://loreforge.com/)
 
 ### IDE (Integrated Development Environment)
@@ -1250,17 +1250,17 @@
 - [Sharpdevelop](https://github.com/icsharpcode/sharpdevelop)
 - [Anjuta Devstudio](http://anjuta.org)
 - [Monodevelop](https://www.monodevelop.com)
-- [Intellij Idea - Jetbrains](https://www.jetbrains.com/idea)
+- [Intellij Idea - Jetbrains](https://www.jetbrains.com/idea) / [🔗](https://github.com/JetBrains/intellij-community)
 
 ### Text editor
 
-- ⭐ [Zen - Online Text Editor](https://zen.unit.ms/)
-- ⭐ [Typst - Compose Papers Faster](https://typst.app/)
-- ⭐ [Gitjournal - Md Notes Integrated With Git](https://gitjournal.io/)
-- ⭐ [Xml Copy Editor](https://xml-copy-editor.sourceforge.io/)
-- ⭐ [Sublime Text](https://www.sublimetext.com)
-- ⭐ [Kate - Modern Text Editor](https://kate-editor.org/)
-- ⭐ [Nano Editor](https://www.nano-editor.org/)
+- ⭐ **[Zen - Online Text Editor](https://zen.unit.ms/)**
+- ⭐ **[Typst - Compose Papers Faster](https://typst.app/)**
+- ⭐ **[Gitjournal - Md Notes Integrated With Git](https://gitjournal.io/)**
+- ⭐ **[Xml Copy Editor](https://xml-copy-editor.sourceforge.io/)**
+- ⭐ **[Sublime Text](https://www.sublimetext.com)**
+- ⭐ **[Kate - Modern Text Editor](https://kate-editor.org/)** / [🔗](https://invent.kde.org/utilities/kate)
+- ⭐ **[Nano Editor](https://www.nano-editor.org/)**
 - [New Blank Page](https://blank.page/)
 - [Notepad - Offline Capable](https://notepad.js.org/)
 - [Kilodoc](https://www.kilodoc.com/about)
@@ -1270,7 +1270,7 @@
 - [Paperless.io](https://www.paperless.io/)
 - [Flatfile](https://flatfile.com/)
 - [Squibler](https://www.squibler.io/)
-- [Notepads](https://www.notepadsapp.com/)
+- [Notepads](https://www.notepadsapp.com/) / [🔗](https://github.com/0x7c13/Notepads)
 - [Forloopcodes/legacy-notepad · Github](https://github.com/ForLoopCodes/legacy-notepad)
 - [Olaproeis/ferrite: A Fast, Lightweight Text Editor For Markdown, Json, Yaml, And Toml Files. Built With Rust And Egui For A Native, Responsive Experience.](https://github.com/OlaProeis/Ferrite)
 - [Vscode For Android - Apps On Google Play](https://play.google.com/store/apps/details?id=dev.environment.VScode_Paid)
@@ -1288,7 +1288,7 @@
 - [Textmate](https://macromates.com)
 - [Tsujan/featherpad · Github](https://github.com/tsujan/FeatherPad)
 - [Xi Editor](https://xi-editor.io/)
-- [Pulsar Edit](https://pulsar-edit.dev/)
+- [Pulsar Edit](https://pulsar-edit.dev/) / [🔗](https://github.com/pulsar-edit/pulsar)
 - [Notepadqq](https://notepadqq.com/s/)
 - [Notepad++](https://notepad-plus-plus.org)
 - [Heynote](https://heynote.com/)
@@ -1319,8 +1319,8 @@
 
 #### emacs editor
 
-- ⭐ [Org Mode](https://orgmode.org)
-- ⭐ [Gnu Emacs](https://www.gnu.org/software/emacs/)
+- ⭐ **[Org Mode](https://orgmode.org)**
+- ⭐ **[Gnu Emacs](https://www.gnu.org/software/emacs/)**
 - [Spacemacs](https://www.spacemacs.org/)
 - [Emacs.sexy](https://emacs.sexy/)
 - [Zevlg/telega.el: Gnu Emacs Telegram Client · Github](https://github.com/zevlg/telega.el/)
@@ -1328,7 +1328,7 @@
 
 #### vim editor
 
-- ⭐ [Neovim.io](https://neovim.io)
+- ⭐ **[Neovim.io](https://neovim.io)** / [🔗](https://github.com/neovim/neovim)
 - [Artart222/codeart · Github](https://github.com/artart222/CodeArt)
 - [Vhakulinen/gnvim · Github](https://github.com/vhakulinen/gnvim)
 - [Equalsraf/neovim-qt · Github](https://github.com/equalsraf/neovim-qt)
@@ -1340,7 +1340,7 @@
 - [Yatli/fvim · Github](https://github.com/yatli/fvim)
 - [Akiyosi/goneovim · Github](https://github.com/akiyosi/goneovim)
 - [Neovide](https://neovide.dev/)
-- [Vim](https://www.vim.org)
+- [Vim](https://www.vim.org) / [🔗](https://github.com/vim/vim)
 
 ### Word processor
 
@@ -1352,7 +1352,7 @@
 
 ### XML editor
 
-- [Xaml Studio | Microsoft Store](https://apps.microsoft.com/detail/9ntls214tkmq?hl=en-US&gl=ES)
+- [Xaml Studio | Microsoft Store](https://apps.microsoft.com/detail/9ntls214tkmq?hl=en-US&gl=ES) / [🔗](https://github.com/dotnet/XAMLStudio)
 - [Tree-sitter/tree-sitter · Github](https://github.com/tree-sitter/tree-sitter)
 - [Aleksey-hoffman/sigma-file-manager · Github](https://github.com/aleksey-hoffman/sigma-file-manager)
 - [Morbac/xmltools: Xml Tools Plugin For Notepad++](https://github.com/morbac/xmltools)
@@ -1364,8 +1364,8 @@
 
 ## Whiteboard editor
 
-- ⭐ [Witeboard](https://witeboard.com/0)
-- ⭐ [Excalidraw.com](https://excalidraw.com/)
+- ⭐ **[Witeboard](https://witeboard.com/0)**
+- ⭐ **[Excalidraw.com](https://excalidraw.com/)**
 - [Ourboard](https://www.ourboard.io/)
 - [Wbo — Collaborative Whiteboard](https://wbo.ophir.dev/)
 - [Notebookcast - Online Whiteboard](https://www.notebookcast.com/)

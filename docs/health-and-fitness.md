@@ -15,7 +15,7 @@
 
 ## Anatomy
 
-- ⭐ [Visible Body - Virtual Anatomy To See Inside The Human Body](https://www.visiblebody.com/)
+- ⭐ **[Visible Body - Virtual Anatomy To See Inside The Human Body](https://www.visiblebody.com/)**
 - [Anatomy 3d Atlas](https://www.anatomy3datlas.com/)
 - [Voka Anatomy Pro](https://voka.io/)
 - [Anatomyou Vr](https://anatomyou.com)
@@ -82,21 +82,21 @@
 
 ### Recipe manager
 
-- ⭐ [My Recipe Box](https://www.myrecipebox.app/en/)
-- ⭐ [Paprika Recipe Manager](https://www.paprikaapp.com/)
-- ⭐ [Cookpad](https://cookpad.com/es)
-- ⭐ [Recipe Keeper - App For Iphone, Ipad, Android, Windows And Mac](https://recipekeeperonline.com/)
-- ⭐ [Cookbook - The Recipe Manager & Planner App](https://cookbookmanager.com/)
-- ⭐ [Mealie.io](https://mealie.io/)
-- ⭐ [Tandoor: Smart Recipe Management](https://tandoor.dev/)
-- ⭐ [Recipesage - The Personal Recipe Keeper](https://recipesage.com/#/welcome)
-- ⭐ [Recipya](https://recipya-app.musicavis.ca/)
-- ⭐ [Managemeals - Recipe Manager](https://managemeals.com/)
+- ⭐ **[My Recipe Box](https://www.myrecipebox.app/en/)**
+- ⭐ **[Paprika Recipe Manager](https://www.paprikaapp.com/)**
+- ⭐ **[Cookpad](https://cookpad.com/es)**
+- ⭐ **[Recipe Keeper - App For Iphone, Ipad, Android, Windows And Mac](https://recipekeeperonline.com/)**
+- ⭐ **[Cookbook - The Recipe Manager & Planner App](https://cookbookmanager.com/)**
+- ⭐ **[Mealie.io](https://mealie.io/)**
+- ⭐ **[Tandoor: Smart Recipe Management](https://tandoor.dev/)** / [🔗](https://github.com/TandoorRecipes/recipes)
+- ⭐ **[Recipesage - The Personal Recipe Keeper](https://recipesage.com/#/welcome)**
+- ⭐ **[Recipya](https://recipya-app.musicavis.ca/)**
+- ⭐ **[Managemeals - Recipe Manager](https://managemeals.com/)**
 - [Jt196/vanilla-cookbook: A Deceptively Simple Recipe Manager](https://github.com/jt196/vanilla-cookbook)
 - [Getyourmacros – App Dieta Flessibile Gratuita & Macro Tracker](https://getyourmacros.it/)
-- [Judemont/reciper: 🍳 Your Ultimate Kitchen Companion! 📱 - Codeberg.org](https://codeberg.org/judemont/reciper)
-- [Broccoli: The Green Recipe App For Android - Flauschcode](https://flauschcode.com/broccoli-the-green-recipe-app-for-android/)
-- [Pangea Recipes - Recipe Manager](https://www.pangearecipes.com/)
+- [Judemont/reciper: 🍳 Your Ultimate Kitchen Companion! 📱 - Codeberg.org](https://codeberg.org/judemont/reciper) / [🔗](https://codeberg.org/judemont/reciper)
+- [Broccoli: The Green Recipe App For Android - Flauschcode](https://flauschcode.com/broccoli-the-green-recipe-app-for-android/) / [🔗](https://github.com/flauschtrud/broccoli)
+- [Pangea Recipes - Recipe Manager](https://www.pangearecipes.com/) / [🔗](https://github.com/hello-pangea/pangea-recipes)
 - [Whisk: Recipes & Meal Planner](https://www.whiskapp.net/)
 - [Meal37 - Simplify Your Culinary Journey With Meal37](https://meal37.com/)
 - [Pepperplate - Your Recipes, Menus, Shopping Lists And Cooking Timers.](https://www.pepperplate.com/)
@@ -119,7 +119,7 @@
 - [Kptncook Premium – Quick And Easy 30-minute Recipes](https://www.kptncook.com/)
 - [Stashcook | The Simple Meal Planning App](https://stashcook.com/)
 - [Recipes & Cookbooks - Food, Cooking Recipes](https://www.bettycrocker.com/)
-- [Kitshn.app](https://kitshn.app/)
+- [Kitshn.app](https://kitshn.app/) / [🔗](https://github.com/aimok04/kitshn)
 - [Free Meal Planner, Food Tracker, And Recipe Saver](https://spoonacular.com/)
 - [Kitchenowl](https://kitchenowl.org/)
 - [Crumb: Ai Food Generator | Recipes With What You Have](https://www.eatwithcrumb.com/)
@@ -127,7 +127,7 @@
 - [Umami | Recipe Manager For Ios And Android](https://www.umami.recipes/)
 - [Pestle – The Best App To Discover & Save New Recipes](https://pestlechef.app/)
 - [Bar Assistant](https://barassistant.app/)
-- [Tamari Recipe Manager](https://tamariapp.com/)
+- [Tamari Recipe Manager](https://tamariapp.com/) / [🔗](https://github.com/alexbates/Tamari)
 - [Cooklist: Plan • Shop • Cook](https://cooklist.com/)
 - [Grocy - Erp Beyond Your Fridge](https://grocy.info/)
 - [Kitchenese](https://kitchenese.io/)
@@ -135,10 +135,10 @@
 
 ### Recipe website
 
-- ⭐ [Recipe Bridge](https://www.recipebridge.com)
-- ⭐ [Supercook - Recipe Generator](https://www.supercook.com/#/recipes)
-- ⭐ [Based Cooking](https://based.cooking/)
-- ⭐ [Grimgrains - 100r](https://grimgrains.com/site/home.html)
+- ⭐ **[Recipe Bridge](https://www.recipebridge.com)**
+- ⭐ **[Supercook - Recipe Generator](https://www.supercook.com/#/recipes)**
+- ⭐ **[Based Cooking](https://based.cooking/)**
+- ⭐ **[Grimgrains - 100r](https://grimgrains.com/site/home.html)**
 - [Bbc Food - Recipes And Inspiration From Your Favourite Bbc Programmes And Chefs](https://www.bbc.co.uk/food)
 - [Cookd](https://cookdtv.com/)
 - [Lebanese Mediterranean Recipes - Maureen Abood](https://maureenabood.com/)
@@ -206,7 +206,7 @@
 ## Meditation
 
 - [Wisey: Your Personal Coach, Guiding Mindfulness And Cognitive Growth](https://wisey.app/)
-- [Medito App - Medito Foundation](https://meditofoundation.org/medito-app)
+- [Medito App - Medito Foundation](https://meditofoundation.org/medito-app) / [🔗](https://github.com/meditohq/medito-app)
 - [Petit Bambou, The Meditation App](https://www.petitbambou.com/en)
 - [Loóna - Fall In Love With Sleep Again](https://loona.app/)
 - [Headspace](https://www.headspace.com/)
@@ -232,7 +232,7 @@
 
 ## Physical activity
 
-- ⭐ [Musclewiki](https://musclewiki.com/)
+- ⭐ **[Musclewiki](https://musclewiki.com/)**
 - [Boulder Challenge App](https://boulder-challenge.com/)
 - [Darebee - Home Workouts](https://darebee.com/)
 - [R/bodyweightfitness Wiki: Your Guide To Calisthenics](https://www.reddit.com/r/bodyweightfitness/wiki/index/)
@@ -252,7 +252,7 @@
 
 ### Fitness app
 
-- ⭐ [Workout Cool](https://workout.cool/)
+- ⭐ **[Workout Cool](https://workout.cool/)**
 - [Petergardfjall/garminexport: Garmin Connect Activity Exporter And Backup Tool](https://github.com/petergardfjall/garminexport)
 - [8fit | Custom Home Workouts App, Healthy Meal And Nutrition Plans](https://8fit.com/)
 - [Rdfit Smartwatch App](https://rdfit.net/)
@@ -302,15 +302,15 @@
 
 ### Fitness Tracker
 
-- ⭐ [Strava | Running, Cycling & Hiking App - Train, Track & Share](https://www.strava.com/)
-- ⭐ [Goldencheetah](https://www.goldencheetah.org/)
-- ⭐ [Opentracksapp](https://opentracksapp.com/)
-- ⭐ [Jonasoreland/runnerup · Github](https://github.com/jonasoreland/runnerup)
-- ⭐ [Jannis/fitotrack - Codeberg.org](https://codeberg.org/jannis/FitoTrack)
+- ⭐ **[Strava | Running, Cycling & Hiking App - Train, Track & Share](https://www.strava.com/)**
+- ⭐ **[Goldencheetah](https://www.goldencheetah.org/)** / [🔗](https://github.com/GoldenCheetah/GoldenCheetah)
+- ⭐ **[Opentracksapp](https://opentracksapp.com/)**
+- ⭐ **[Jonasoreland/runnerup · Github](https://github.com/jonasoreland/runnerup)**
+- ⭐ **[Jannis/fitotrack - Codeberg.org](https://codeberg.org/jannis/FitoTrack)**
 - [Playtomic - Join The Community And Book Courts Online In One App](https://playtomic.com/)
 - [Intvl](https://www.intvl.com.au/)
 - [Rolandsz/mi-fit-and-zepp-workout-exporter](https://github.com/rolandsz/Mi-Fit-and-Zepp-workout-exporter)
-- [Mytourbook](https://mytourbook.sourceforge.io/mytourbook/index.php)
+- [Mytourbook](https://mytourbook.sourceforge.io/mytourbook/index.php) / [🔗](https://github.com/mytourbook/mytourbook)
 - [Runalyze - Data Analysis For Athletes](https://runalyze.com/?_locale=en)
 - [Sporttracks - Running, Cycling And Triathlon Training Software](https://sporttracks.mobi/)
 - [Trainingpeaks | A Training App As Versatile As You](https://www.trainingpeaks.com/)

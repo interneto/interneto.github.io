@@ -9,7 +9,7 @@
 
 ## Academy
 
-- [Free Certifications - Find Free Professional Certifications Online](https://free-certifications.com/)
+- [Free Certifications - Find Free Professional Certifications Online](https://free-certifications.com/) / [🔗](https://github.com/cloudcommunity/Free-Certifications)
 - [Ucademy - La Mejor Academia Para Aprobar Cualquier Examen](https://www.ucademy.com/)
 - [Chessly - Learn Chess](https://chessly.com/)
 - [Swimming By Sn't | Tutorials, Shop, Coaching, Workouts & Tips](https://skillswimming.com/)
@@ -297,9 +297,9 @@
 
 ### Math calculator
 
-- ⭐ [Kde Cantor](https://cantor.kde.org/)
-- ⭐ [Geogebra - Free Math Tools](https://www.geogebra.org)
-- ⭐ [Wolfram|alpha](https://www.wolframalpha.com/)
+- ⭐ **[Kde Cantor](https://cantor.kde.org/)**
+- ⭐ **[Geogebra - Free Math Tools](https://www.geogebra.org)** / [🔗](https://github.com/geogebra/geogebra)
+- ⭐ **[Wolfram|alpha](https://www.wolframalpha.com/)**
 - [Photomath](https://photomath.com/)
 - [Datamelt](https://datamelt.org)
 - [Mathworks - Makers Of Matlab And Simulink](https://www.mathworks.com/)
@@ -340,9 +340,9 @@
 - [Rkward](https://rkward.kde.org/)
 - [Logarithmplotter](https://apps.ad5001.eu/logarithmplotter/)
 - [Paddim8/kalker · Github](https://github.com/PaddiM8/kalker)
-- [Numpy](https://numpy.org)
+- [Numpy](https://numpy.org) / [🔗](https://github.com/numpy/numpy)
 - [Originlab](https://www.originlab.com)
-- [Qalculate!](https://qalculate.github.io)
+- [Qalculate!](https://qalculate.github.io) / [🔗](https://github.com/Qalculate)
 - [Sagemath](https://www.sagemath.org)
 - [Scilab](https://www.scilab.org/)
 - [Speedcrunch - Bitbucket](https://heldercorreia.bitbucket.io/speedcrunch/#)
@@ -392,8 +392,8 @@
 
 ### Physics calculator
 
-- ⭐ [Flat Earth Dome Model - Walter Blisnis](http://walter.bislins.ch/bloge/index.asp?page=Flat+Earth+Dome+Model&demo=Intro#App)
-- ⭐ [Advanced Earth Curvature Calculator - Walter Blisnis](https://walter.bislins.ch/bloge/index.asp?page=Advanced+Earth+Curvature+Calculator)
+- ⭐ **[Flat Earth Dome Model - Walter Blisnis](http://walter.bislins.ch/bloge/index.asp?page=Flat+Earth+Dome+Model&demo=Intro#App)**
+- ⭐ **[Advanced Earth Curvature Calculator - Walter Blisnis](https://walter.bislins.ch/bloge/index.asp?page=Advanced+Earth+Curvature+Calculator)**
 - [Flataverse](https://flataverse.com/)
 - [Firmamenttrackers](https://firmamenttrackers.com/)
 - [Shane's Personal Celestial Sphere Model](https://adl.place/shanes-fe-model)
@@ -411,7 +411,7 @@
 
 ### Sleep Cycle Calculator
 
-- ⭐ [Sleepytime - Bedtime Calculator](https://sleepytime.cc/)
+- ⭐ **[Sleepytime - Bedtime Calculator](https://sleepytime.cc/)**
 - [Sleep Calculator](https://sleepcalculator.com/)
 - [Wake Up Time - Sleep And Wake Up Calculator](https://wakeupti.me/)
 - [Rico-vz/sleepsagecli: Optimal Sleep Calculator Directly From Your Terminal ✨](https://github.com/rico-vz/SleepSageCLI)
@@ -447,7 +447,7 @@
 - [Éditions Le Robert : La Référence En Langues Pour Définir, Traduire,](https://www.lerobert.com/)
 - [Dictionnaire De L'académie Française](https://www.dictionnaire-academie.fr/)
 - [Wörterbuch Der Deutschen Sprache ✒️ Duden Online](https://www.duden.de/woerterbuch)
-- [Yomitan - Pop-up Dictionary Browser Extension For Language Learning](https://yomitan.wiki/)
+- [Yomitan - Pop-up Dictionary Browser Extension For Language Learning](https://yomitan.wiki/) / [🔗](https://github.com/yomidevs/yomitan)
 - [Spreadthesign - Sign Language Dictionary](https://spreadthesign.com/en.us/search/)
 - [Libellus](https://libellus.hummdudel.de/)
 - [Johnfactotum/quick-lookup · Github](https://github.com/johnfactotum/quick-lookup)
@@ -556,8 +556,8 @@
 
 ### Semantic & Thesaurus
 
-- ⭐ [Babelnet | The Largest Multilingual Encyclopedic Dictionary And Semantic Network](https://babelnet.org/)
-- ⭐ [Conceptnet - Multilingual Graph](https://conceptnet.io/)
+- ⭐ **[Babelnet | The Largest Multilingual Encyclopedic Dictionary And Semantic Network](https://babelnet.org/)**
+- ⭐ **[Conceptnet - Multilingual Graph](https://conceptnet.io/)**
 - [Lexipedia](https://www.lexipedia.com/)
 - [Refine](https://refine.sh/)
 - [Wordtype.org](https://wordtype.org/)
@@ -914,9 +914,9 @@
 
 #### Computing
 
-- ⭐ [Devhints](https://devhints.io/)
-- ⭐ [Linux Commands Library](https://linuxcommandlibrary.com/)
-- ⭐ [Devdocs.io](https://devdocs.io)
+- ⭐ **[Devhints](https://devhints.io/)** / [🔗](https://github.com/rstacruz/cheatsheets)
+- ⭐ **[Linux Commands Library](https://linuxcommandlibrary.com/)**
+- ⭐ **[Devdocs.io](https://devdocs.io)**
 - [Codédex | Start Your Coding Adventure ⋆˙⟡](https://www.codedex.io/)
 - [Network Learning Platform | Packet.school](https://packet.school/en)
 - [State Of Javascript](https://stateofjs.com/en-US/)
@@ -1339,7 +1339,7 @@
 
 #### Psychology
 
-- ⭐ [16personalities - Free Personality Test, Type Descriptions, Relationship And Career Advice](https://www.16personalities.com/)
+- ⭐ **[16personalities - Free Personality Test, Type Descriptions, Relationship And Career Advice](https://www.16personalities.com/)**
 - [Personality Test | Neris Personal Quest Explorer (npqe)](https://npqe.com/)
 - [Betterhelp](https://www.betterhelp.com)
 - [Psicología Y Mente](https://psicologiaymente.com)
@@ -1348,7 +1348,7 @@
 
 ## Simulator
 
-- [Openrocket Simulator](https://openrocket.info/)
+- [Openrocket Simulator](https://openrocket.info/) / [🔗](https://github.com/openrocket/openrocket)
 - [Ecalc - Reliable Electric Drive Simulations](https://www.ecalc.ch/)
 - [Swarm-subnet/langostino: An Open-source Autonomous Drone Platform Using Ros2 And Ai-powered Flight Control](https://github.com/swarm-subnet/Langostino)
 - [Pražský Orloj - Prague Astronomical Clock Simulator](https://orloj.org/orloj/)
@@ -1366,7 +1366,7 @@
 
 ### Planetarium
 
-- ⭐ [Stellarium Astronomy Software](https://stellarium.org)
+- ⭐ **[Stellarium Astronomy Software](https://stellarium.org)**
 - [Fifth Star Labs](https://www.fifthstarlabs.com/)
 - [Planetary Motion](http://gerdbreitenbach.de/planet/planet.html)
 - [Starry Night 8](https://www.starrynight.com/)
@@ -1379,7 +1379,7 @@
 - [Da-luce/astroterm · Github](https://github.com/da-luce/astroterm)
 - [Stellarium Web](https://stellarium-web.org)
 - [Sky-map-team/stardroid · Github](https://github.com/sky-map-team/stardroid)
-- [Skychart](https://www.ap-i.net/skychart/en/start)
+- [Skychart](https://www.ap-i.net/skychart/en/start) / [🔗](https://sourceforge.net/projects/skychart/)
 
 ## Study resources
 
@@ -1409,7 +1409,7 @@
 
 ### Subjects resources
 
-- ⭐ [Cheatography](https://cheatography.com)
+- ⭐ **[Cheatography](https://cheatography.com)**
 - [Educaplus.org](https://www.educaplus.org/)
 - [Tiching](https://cu.tiching.com)
 - [Academo.org](https://academo.org)
@@ -1426,8 +1426,8 @@
 
 ## Translator
 
-- ⭐ [Dialect](https://dialectapp.org/)
-- ⭐ [Deepl Translator](https://www.deepl.com/translator)
+- ⭐ **[Dialect](https://dialectapp.org/)**
+- ⭐ **[Deepl Translator](https://www.deepl.com/translator)**
 - [Chatgpt Translate](https://chatgpt.com/translate)
 - [Immersive Translate](https://immersivetranslate.com/)
 - [Translation With Built-in Ai | Ai On Chrome | Chrome For Developers](https://developer.chrome.com/docs/ai/translator-api)
@@ -1492,7 +1492,7 @@
 
 ## Typing
 
-- ⭐ [Ztype – Typing Game](https://zty.pe/)
+- ⭐ **[Ztype – Typing Game](https://zty.pe/)**
 - [Typestep – Typing Practice](https://typestep.app/en/practice/)
 - [Typelab.org - Typing Lessons, Speed Tests, And Games](https://typelab.org/)
 - [Typerush - Worldwide League Of Typing Racers!](https://www.typerush.com/)

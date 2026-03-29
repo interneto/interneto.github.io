@@ -19,14 +19,14 @@
 
 ## Calendar
 
-- ⭐ [Morgen.so](https://morgen.so/)
+- ⭐ **[Morgen.so](https://morgen.so/)**
 - [Chinese Calendar - 2026e.pdf](https://www.hko.gov.hk/en/gts/time/calendar/pdf/files/2026e.pdf)
 - [Dot — Menu Bar Calendar & Meeting Reminder App For Mac](https://www.trydot.app/)
 - [Pim / Merkuro · Gitlab](https://invent.kde.org/pim/merkuro)
 - [Month: Beautiful Calendar Widget For Android Home Screen](http://www.candlapps.com/)
 - [Supercal - Schedule Meetings Faster](https://supercal.com/)
 - [Business Calendar - Appgenix Software](https://www.appgenix-software.com/)
-- [Cal.com | Open Scheduling Infrastructure](https://cal.com/)
+- [Cal.com | Open Scheduling Infrastructure](https://cal.com/) / [🔗](https://github.com/calcom/cal.com)
 - [Timetree | An App For Easy Calendar Sharing And Communication](https://timetreeapp.com/intl/en)
 - [Calendario 365](https://www.calendario-365.es/)
 - [Calendar Labs](https://www.calendarlabs.com/)
@@ -108,8 +108,8 @@
 
 ## Time tracker
 
-- ⭐ [Rize.io - Maximize Your Productivity](https://rize.io/)
-- ⭐ [Activitywatch](https://activitywatch.net)
+- ⭐ **[Rize.io - Maximize Your Productivity](https://rize.io/)**
+- ⭐ **[Activitywatch](https://activitywatch.net)** / [🔗](https://github.com/ActivityWatch/activitywatch)
 - [Chronoid - Automatic Time Tracking For Freelancers | Macos](https://www.chronoid.app/)
 - [Flow-fi](https://www.flowfi.app/)
 - [Jolars/tomat: A Pomodoro Timer For Status Bars](https://github.com/jolars/tomat)

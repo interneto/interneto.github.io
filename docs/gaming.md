@@ -60,13 +60,13 @@
 
 ### Game launcher
 
-- ⭐ [Steam Platform](https://store.steampowered.com/about)
+- ⭐ **[Steam Platform](https://store.steampowered.com/about)**
 - [Webmc](https://webmc.xyz/)
-- [Elyprismlauncher · Home](https://elyprismlauncher.github.io/)
-- [Hydra Launcher - The Game Launcher For The 21st Century](https://hydralauncher.gg/)
+- [Elyprismlauncher · Home](https://elyprismlauncher.github.io/) / [🔗](https://github.com/ElyPrismLauncher/ElyPrismLauncher)
+- [Hydra Launcher - The Game Launcher For The 21st Century](https://hydralauncher.gg/) / [🔗](https://github.com/hydralauncher/hydra)
 - [Faugus/faugus-launcher: A Simple And Lightweight App For Running Windows Games Using Umu-launcher](https://github.com/Faugus/faugus-launcher)
 - [Twintail Launcher](https://twintaillauncher.app/)
-- [Ascendara - Test Games Before You Buy](https://ascendara.app/)
+- [Ascendara - Test Games Before You Buy](https://ascendara.app/) / [🔗](https://github.com/Ascendara/ascendara)
 - [Multimc](https://multimc.org/)
 - [Kra-mo/cartridges: A Gtk4 + Libadwaita Game Launcher](https://github.com/kra-mo/cartridges)
 - [Mythic](https://getmythic.app/)
@@ -97,7 +97,7 @@
 - [Blizzard Entertainment](https://www.blizzard.com/en-us/apps/battle.net/desktop)
 - [Gog Galaxy 2.0 -- All Your Games In One Place](https://www.gog.com/galaxy)
 - [Origin Client](https://www.origin.com/esp/en-us/store/download)
-- [Playnite - Video Game Library Manager](https://playnite.link)
+- [Playnite - Video Game Library Manager](https://playnite.link) / [🔗](https://github.com/JosefNemec/Playnite)
 - [Rockstar Games - Social Club](https://socialclub.rockstargames.com/)
 - [Ubisoft Connect](https://ubisoftconnect.com/en-US/)
 
@@ -118,7 +118,7 @@
 
 ### Games Mods
 
-- ⭐ [Plutonium Project](https://plutonium.pw/)
+- ⭐ **[Plutonium Project](https://plutonium.pw/)**
 - [Ebkr/r2modmanplus: A Simple And Easy To Use Mod Manager For Several Games Using Thunderstore](https://github.com/ebkr/r2modmanPlus)
 - [All Mods | Thunderstore - The Risk Of Rain 2 Mod Database](https://thunderstore.io/)
 - [Mod.io - Cross Platform Mod Support For Games](https://mod.io/)
@@ -165,7 +165,7 @@
 
 ### Game Server
 
-- [Featherpanel - Modern Game Server Management Panel | Minecraft, Rust & More](https://featherpanel.com/)
+- [Featherpanel - Modern Game Server Management Panel | Minecraft, Rust & More](https://featherpanel.com/) / [🔗](https://github.com/MythicalLTD/FeatherPanel)
 - [Forseti.es](https://www.forseti.es/)
 - [40servidoresmc](https://www.40servidoresmc.es/)
 - [Namelessmc](https://namelessmc.com/)
@@ -207,7 +207,7 @@
 
 #### Steam info
 
-- ⭐ [Steamdb](https://steamdb.info)
+- ⭐ **[Steamdb](https://steamdb.info)**
 - [Steambase](https://steambase.io/)
 - [Steam 250 - Rankings Overview](https://steam250.com/)
 - [Steam Player Count](https://steamplayercount.com/)
@@ -278,7 +278,7 @@
 
 ## Action
 
-- ⭐ [Krunker.io](https://krunker.io/)
+- ⭐ **[Krunker.io](https://krunker.io/)**
 - [Fragpunk Experience The New Lancer Hurricane](https://www.fragpunk.com/#/)
 - [Fnaf - Five Nights At Freddy's](http://fnaf.online/)
 - [Slither.io](http://slither.com/io)
@@ -340,7 +340,7 @@
 
 ## Arcade
 
-- [Vvvvvv](https://thelettervsixtim.es/)
+- [Vvvvvv](https://thelettervsixtim.es/) / [🔗](https://github.com/TerryCavanagh/VVVVVV)
 - [Slope Plus By Coweggs](https://coweggs.itch.io/slope-plus)
 - [The World's Biggest Pac-man](https://worldsbiggestpacman.com/)
 - [Jhdev2006/super-mario-bros.-remastered-public · Github](https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public)
@@ -364,7 +364,7 @@
 
 ## Board
 
-- ⭐ [Lucas Chess](https://lucaschess.pythonanywhere.com/)
+- ⭐ **[Lucas Chess](https://lucaschess.pythonanywhere.com/)** / [🔗](https://github.com/lukasmonk/lucaschessR2)
 - [Dealsbe - Chess Online](https://dealsbe.com/)
 - [Print Paper Chess](https://www.printchess.com/)
 - [Offchess - Offline Chess Puzzles App](https://offchess.com/)
@@ -400,7 +400,7 @@
 
 ## Casual
 
-- ⭐ [Mr.doob](https://mrdoob.com/)
+- ⭐ **[Mr.doob](https://mrdoob.com/)**
 - [Allchemy](https://allchemy.io/)
 - [Topia.io](https://topia.io/)
 - [Suika Game](https://suikagame.com/)
@@ -545,8 +545,8 @@
 
 ### Geographic games
 
-- ⭐ [Geoguessr - Seterra (the Ultimate Map Quiz Site)](https://www.geoguessr.com/quiz/seterra)
-- ⭐ [Geoguessr - Let's Explore The World!](https://www.geoguessr.com/)
+- ⭐ **[Geoguessr - Seterra (the Ultimate Map Quiz Site)](https://www.geoguessr.com/quiz/seterra)**
+- ⭐ **[Geoguessr - Let's Explore The World!](https://www.geoguessr.com/)**
 - [Ekvis - Learn Languages And Geography](https://ekvis.com/)
 - [Teuteuf Games - Teuteuf Games](https://teuteuf.fr/)
 - [Worldle](https://worldle.teuteuf.fr/)
@@ -633,9 +633,9 @@
 
 ## RPG
 
-- ⭐ [Veloren](https://veloren.net/)
-- [Openmw](https://openmw.org/)
-- [Isleward](https://play.isleward.com/)
+- ⭐ **[Veloren](https://veloren.net/)**
+- [Openmw](https://openmw.org/) / [🔗](https://gitlab.com/OpenMW/openmw)
+- [Isleward](https://play.isleward.com/) / [🔗](https://gitlab.com/Isleward/isleward)
 - [There - The Online Virtual World That Is Your Everyday Hangout](https://www.prod.there.com/)
 - [Tibia - Free Multiplayer Online Role Playing Game](https://www.tibia.com/mmorpg/free-multiplayer-online-role-playing-game.php)
 - [Doki Doki Literature Club!](https://ddlc.moe)
@@ -726,7 +726,7 @@
 - [Openrct2](https://openrct2.io/)
 - [Second Life](https://secondlife.com/)
 - [Vintage Story](https://www.vintagestory.at/)
-- [Openttd](https://www.openttd.org/)
+- [Openttd](https://www.openttd.org/) / [🔗](https://github.com/OpenTTD/OpenTTD)
 - [Simutrans Transport Simulator](https://www.simutrans.com/en/)
 - [Unknown Horizons](https://unknown-horizons.org/)
 - [Opencity, Another 3d City Simulator](http://www.opencity.info/)
@@ -745,7 +745,7 @@
 - [Reentry - A Space Flight Simulator](https://reentrygame.com/)
 - [Digital Combat Simulator](https://www.digitalcombatsimulator.com/en/)
 - [Prepar3d](https://www.prepar3d.com/)
-- [Flightgear Flight Simulator](https://www.flightgear.org/)
+- [Flightgear Flight Simulator](https://www.flightgear.org/) / [🔗](https://gitlab.com/flightgear)
 - [X-plane 11 Flight Simulator](https://www.x-plane.com/)
 - [Microsoft Flight Simulator](https://www.flightsimulator.com/)
 - [Aerofly Fs Flight Simulator](https://www.aerofly.com/)
@@ -758,7 +758,7 @@
 
 ## Strategy
 
-- ⭐ [0 A.d.: Empires Ascendant](https://play0ad.com/)
+- ⭐ **[0 A.d.: Empires Ascendant](https://play0ad.com/)** / [🔗](https://gitea.wildfiregames.com/0ad/0ad)
 - [Nationstates](https://www.nationstates.net/)
 - [Minigiants.io](https://minigiants.io/?v=1.6.53&play=game)
 - [Castles.cc - Build, Trade, Farm, Mine, And Craft!](https://castles.cc/)

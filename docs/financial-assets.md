@@ -38,7 +38,7 @@
 
 ### Cryptocurrency exchange
 
-- ⭐ [Binance](https://www.binance.com/en)
+- ⭐ **[Binance](https://www.binance.com/en)**
 - [Coinbase](https://www.coinbase.com/en-es)
 - [Kycnot.me - Find Kyc-free Services](https://kycnot.me/)
 - [Fixedfloat | Instant Cryptocurrency Exchange](https://ff.io/)
@@ -181,10 +181,10 @@
 
 ### Cryptocurrency Wallet
 
-- [Liana - Bitcoin Wallet](https://wizardsardine.com/liana/)
+- [Liana - Bitcoin Wallet](https://wizardsardine.com/liana/) / [🔗](https://github.com/wizardsardine/liana)
 - [Stack Wallet | Open-source, Non-custodial And Privacy-preserving Wallet For Monero, Bitcoin, Bitcoin Cash, Firo, Epic Cash, Namecoin, Wownero, Litecoin, And Dogecoin](https://stackwallet.com/)
 - [Freewallet | Multi-currency Online Crypto Wallet For Btc, Eth, Xmr And More](https://freewallet.org/)
-- [Bitaddress.org](https://www.bitaddress.org/bitaddress.org-v3.3.0-SHA256-dec17c07685e1870960903d8f58090475b25af946fe95a734f88408cef4aa194.html)
+- [Bitaddress.org](https://www.bitaddress.org/bitaddress.org-v3.3.0-SHA256-dec17c07685e1870960903d8f58090475b25af946fe95a734f88408cef4aa194.html) / [🔗](https://github.com/pointbiz/bitaddress.org)
 - [Onjuno](https://onjuno.com/)
 
 #### Cold wallet
@@ -214,7 +214,7 @@
 - [Blockbank](https://blockbank.ai/)
 - [Fortmatic](https://fortmatic.com/)
 - [Sparrow Bitcoin Wallet](https://sparrowwallet.com/)
-- [Wasabi Wallet](https://wasabiwallet.io/)
+- [Wasabi Wallet](https://wasabiwallet.io/) / [🔗](https://github.com/WalletWasabi/WalletWasabi)
 - [Edge](https://edge.app/)
 - [Samourai Wallet](https://samouraiwallet.com/)
 - [Trustwallet](https://trustwallet.com/)
@@ -224,7 +224,7 @@
 - [Jaxx.io](http://jaxx.io)
 - [Mycelium Bitcoin Wallet](https://wallet.mycelium.com/)
 - [Coinomi](https://www.coinomi.com/en/)
-- [Electrum Bitcoin Wallet](https://electrum.org/#home)
+- [Electrum Bitcoin Wallet](https://electrum.org/#home) / [🔗](https://github.com/spesmilo/electrum-web)
 - [Bitnovo](https://bitnovo.com)
 - [Dextools.io](https://www.dextools.io)
 - [Ezdefi](https://ezdefi.com)
@@ -455,8 +455,8 @@
 
 ## Visual trading
 
-- ⭐ [Finviz](https://finviz.com)
-- ⭐ [Tradingview](https://www.tradingview.com)
+- ⭐ **[Finviz](https://finviz.com)**
+- ⭐ **[Tradingview](https://www.tradingview.com)**
 - [Quantower Trading Platform](https://www.quantower.com/)
 - [Companiesmarketcap - Companies Ranked By Market Cap](https://companiesmarketcap.com)
 - [Infobolsa - Bolsa](https://www.infobolsa.es/mercados/bolsa)

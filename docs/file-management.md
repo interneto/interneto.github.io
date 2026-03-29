@@ -2,11 +2,12 @@
 
 **Total Bookmarks:** 806
 
+
 ## Backup
 
-- ⭐ [Borgbackup](https://www.borgbackup.org)
-- ⭐ [Duplicati](https://www.duplicati.com)
-- ⭐ [Macrium Software](https://www.macrium.com/reflectfree)
+- ⭐ **[Borgbackup](https://www.borgbackup.org)**
+- ⭐ **[Duplicati](https://www.duplicati.com)**
+- ⭐ **[Macrium Software](https://www.macrium.com/reflectfree)**
 - [Swift Backup](https://swiftapps.org)
 - [Novastor: Data Backup And Recovery Software Solutions](https://www.novastor.com/)
 - [Neoapplications/neo-backup · Github](https://github.com/NeoApplications/Neo-Backup)
@@ -55,21 +56,21 @@
 
 ## Client cloud storage
 
-- [Sync-in · The Open-source Platform That Keeps Your Data Safe](https://sync-in.com/)
+- [Sync-in · The Open-source Platform That Keeps Your Data Safe](https://sync-in.com/) / [🔗](https://github.com/Sync-in)
 - [Mega Cmd](https://mega.io/cmd)
 - [Remotely Save](https://remotelysave.com/)
 - [Expandrive](https://www.expandrive.com/)
 
 ## Cloud storage
 
-- ⭐ [Nextcloud - Online Collaboration Platform](https://nextcloud.com)
-- ⭐ [Deta Surf](https://deta.surf/)
-- ⭐ [Tarsnap - Online Backups](https://www.tarsnap.com/)
-- ⭐ [Filen – Next Generation End-to-end Encrypted Cloud Storage](https://filen.io/)
-- ⭐ [Ente - Secure Backups For Photos And Videos](https://ente.io/)
-- ⭐ [Dropbox](https://www.dropbox.com)
-- ⭐ [Mega](https://mega.io)
-- [Opencloud - Excellent File Sharing: Secure And Scalable Cloud Solutions](https://opencloud.eu/en)
+- ⭐ **[Nextcloud - Online Collaboration Platform](https://nextcloud.com)**
+- ⭐ **[Deta Surf](https://deta.surf/)** / [🔗](https://github.com/deta/surf)
+- ⭐ **[Tarsnap - Online Backups](https://www.tarsnap.com/)**
+- ⭐ **[Filen – Next Generation End-to-end Encrypted Cloud Storage](https://filen.io/)**
+- ⭐ **[Ente - Secure Backups For Photos And Videos](https://ente.io/)** / [🔗](https://github.com/ente-io/ente)
+- ⭐ **[Dropbox](https://www.dropbox.com)**
+- ⭐ **[Mega](https://mega.io)**
+- [Opencloud - Excellent File Sharing: Secure And Scalable Cloud Solutions](https://opencloud.eu/en) / [🔗](https://github.com/opencloud-eu)
 - [Seedbox – Anonymous And High-speed – Rapidseedbox](https://www.rapidseedbox.com/)
 - [Pikpak - Private Cloud, Video Saver](https://mypikpak.com/en-US)
 - [Gofile - Free Unlimited File Sharing And Storage](https://gofile.io/)
@@ -133,7 +134,7 @@
 
 ### Calendar converter
 
-- ⭐ [Asli Tools - Calendar Converter](https://aslitools.com/tools/date-converter/)
+- ⭐ **[Asli Tools - Calendar Converter](https://aslitools.com/tools/date-converter/)**
 - [‎universal Calendar Converter App - App Store](https://apps.apple.com/il/app/universal-calendar-converter/id6756697267)
 - [‎unical - Calendar Converter App - App Store](https://apps.apple.com/za/app/unical-calendar-converter/id564858516)
 - [Chinese & Lunar Calendar Converter - Birthday & Zodiac Calculator](https://pteo.paranoiaworks.mobi/chinese_calendar/)
@@ -172,7 +173,7 @@
 
 ### Encoder
 
-- ⭐ [Morse Code Translator – Morse To Text – Text To Morse Code](https://morsecodeapp.com/)
+- ⭐ **[Morse Code Translator – Morse To Text – Text To Morse Code](https://morsecodeapp.com/)**
 - [Utilities / Vail · Gitlab](https://invent.kde.org/utilities/vail)
 - [Kde Utilities](https://utils.kde.org/)
 - [Universal Encoding Tool](https://unenc.com/)
@@ -180,9 +181,9 @@
 
 ### File Format Converter
 
-- ⭐ [Convert To It!](https://p2r3.github.io/convert/)
-- [File Converter - Convert & Compress Everything In 2 Clicks!](https://file-converter.io/)
-- [Vert.sh — Free, Fast, And Awesome File Converter](https://vert.sh/)
+- ⭐ **[Convert To It!](https://p2r3.github.io/convert/)**
+- [File Converter - Convert & Compress Everything In 2 Clicks!](https://file-converter.io/) / [🔗](https://github.com/Tichau/FileConverter)
+- [Vert.sh — Free, Fast, And Awesome File Converter](https://vert.sh/) / [🔗](https://github.com/VERT-sh/VERT)
 - [Any Ebook Converter - Convert From Kindle, Adobe, Nook, Kobo, Libby Files](https://www.any-ebook-converter.com/)
 - [Dmsza/json2kml: Python Scripts To Export Google Maps Saved/starred Places To Kml, Csv, Sygic](https://github.com/dmsza/json2kml)
 - [Video2edit - Free Online Video Editor](https://www.video2edit.com/)
@@ -241,11 +242,11 @@
 
 ### Encryptor
 
-- ⭐ [Hat.sh - Client-side Encryption](https://hat.sh/)
-- ⭐ [Cryptomator](https://cryptomator.org)
-- ⭐ [Veracrypt](https://veracrypt.fr/en/Home.html)
+- ⭐ **[Hat.sh - Client-side Encryption](https://hat.sh/)**
+- ⭐ **[Cryptomator](https://cryptomator.org)**
+- ⭐ **[Veracrypt](https://veracrypt.fr/en/Home.html)**
 - [Vaultaire | Protected By Design](https://vaultaire.app/)
-- [Portable Secret · Create](https://alcazarsec.github.io/portable-secret/)
+- [Portable Secret · Create](https://alcazarsec.github.io/portable-secret/) / [🔗](https://github.com/alcazarsec/portable-secret)
 - [Jpinsoft/deepsound: Official Deepsound Repository Migrated From Jpinsoft.net. Deepsound Is A Freeware Steganography Tool And Audio Converter That Hides Secret Data Into Audio Files. The Application Also Enables You To Extract Secret Files Directly From Audio Files Or Audio Cd Tracks.](https://github.com/Jpinsoft/DeepSound)
 - [Sealnotes: Secure, Lightweight Encrypted Notepad For Privacy](https://www.sealnotes.com/)
 - [Picocrypt/picocrypt: A Very Small, Very Simple, Yet Very Secure Encryption Tool.](https://github.com/Picocrypt/Picocrypt)
@@ -281,7 +282,7 @@
 
 ### File converter
 
-- ⭐ [Pandoc](https://pandoc.org/)
+- ⭐ **[Pandoc](https://pandoc.org/)**
 - [Axa-group/parsr: Transforms Pdf, Documents And Images Into Enriched Structured Data](https://github.com/axa-group/Parsr)
 - [Pdfyogi - Free Pdf Tools Online](https://pdfyogi.com/)
 - [Medialab/xan: The Csv Magician](https://github.com/medialab/xan)
@@ -290,7 +291,7 @@
 - [Graphicsmagick - Sourceforge](https://sourceforge.net/projects/graphicsmagick/)
 - [Gifsicle - Command-line Animated Gifs](https://www.lcdf.org/gifsicle/)
 - [Khaleel Al-adhami / Switcheroo · Gitlab](https://gitlab.com/adhami3310/Switcheroo)
-- [Imagemagick - Mastering Digital Image Alchemy](https://imagemagick.org/)
+- [Imagemagick - Mastering Digital Image Alchemy](https://imagemagick.org/) / [🔗](https://github.com/imagemagick/imagemagick)
 - [Convertall - Unit Converter](https://convertall.bellz.org/)
 - [Gifski — Highest-quality Gif Converter](https://gif.ski/)
 - [Converseen - A Free Batch Image Converter](https://converseen.fasterland.net/)
@@ -304,7 +305,7 @@
 
 #### Image converter
 
-- ⭐ [Squoosh.app](https://squoosh.app/)
+- ⭐ **[Squoosh.app](https://squoosh.app/)**
 - [Png Pixel Base64](https://png-pixel.com)
 - [Png To Base64](https://base64.guru/converter/encode/image/png)
 - [Fasterland](https://fasterland.net/)
@@ -347,7 +348,7 @@
 
 #### Text converter
 
-- ⭐ [Cyberchef](https://gchq.github.io/CyberChef/)
+- ⭐ **[Cyberchef](https://gchq.github.io/CyberChef/)** / [🔗](https://github.com/gchq/CyberChef)
 - [Text Converter - Easy Tool To Transform Your Text](https://www.textconverter.io/)
 - [Mainconcept - Codecs, Software For Encoding, Decoding And Streaming](https://www.mainconcept.com/)
 - [Gpac.io - Ultramedia Open Source Infrastructure](https://gpac.io/)
@@ -359,10 +360,10 @@
 
 #### Video converter
 
-- ⭐ [Ffmpeg](https://ffmpeg.org/)
+- ⭐ **[Ffmpeg](https://ffmpeg.org/)** / [🔗](https://code.ffmpeg.org/FFmpeg/FFmpeg,)
 - [Free Online Video Compressor — Fast, Private, No Uploads](https://compressvideoonline.com/en)
-- [Shutter Encoder - Encoder|converter Video Free Pc|mac](https://www.shutterencoder.com/)
-- [Fastflix](https://fastflix.org/)
+- [Shutter Encoder - Encoder|converter Video Free Pc|mac](https://www.shutterencoder.com/) / [🔗](https://github.com/paulpacifico/shutter-encoder)
+- [Fastflix](https://fastflix.org/) / [🔗](https://github.com/cdgriffith/FastFlix)
 - [Eldecard - Streameye](https://www.elecard.com/products/video-analysis/streameye)
 - [Telestream Switch - Multiformat Video Player, Inspection And Conversion Tool](https://www.telestream.net/switch/overview.htm)
 - [Nvidia Video Codec Sdk](https://developer.nvidia.com/video-codec-sdk)
@@ -425,7 +426,7 @@
 
 ## Compressor
 
-- ⭐ [7-zip](https://7-zip.org/)
+- ⭐ **[7-zip](https://7-zip.org/)** / [🔗](https://sourceforge.net/projects/sevenzip/)
 - [Rust-av/av1an: Cross-platform Command-line Av1 / Vp9 / Hevc / H264 Encoding Framework With Per Scene Quality Encoding](https://github.com/rust-av/Av1an)
 - [Tinyfast - Fast File Compressor Tool For Macos](https://tinyfast.app/)
 - [Compress Epub - Easy, Quickly, Online](https://ebookcompressor.com/)
@@ -464,7 +465,7 @@
 
 ## File Hosting Service
 
-- ⭐ [Transfer.it](https://transfer.it/start)
+- ⭐ **[Transfer.it](https://transfer.it/start)**
 - [Uc.files | Uc.files - Reliable File Hosting](https://files.union-crax.xyz/)
 - [Tangoshare - File Sharing](https://tangoshare.com/)
 - [Pillowcase](https://pillows.su/)
@@ -524,7 +525,7 @@
 - [Turbobit.net](https://turbobit.net/)
 - [Prembox](https://prembox.com/)
 - [Sharedrop](https://www.sharedrop.io/)
-- [Pairdrop | Transfer Files Cross-platform. No Setup, No Signup](https://pairdrop.net/)
+- [Pairdrop | Transfer Files Cross-platform. No Setup, No Signup](https://pairdrop.net/) / [🔗](https://github.com/schlagmichdoch/PairDrop)
 - [Xender -speedy, Smart, Share](https://xender.com/)
 - [Stv0g/gose: A Tera-scale File Uploader · Github](https://github.com/stv0g/gose)
 - [Tycrek/ass · Git](https://git.tycrek.com/archive/ass)
@@ -598,8 +599,8 @@
 
 ### Diff tool
 
-- ⭐ [Meld Merge](https://meldmerge.org/)
-- ⭐ [Winmerge - You Will See The Difference...](https://winmerge.org/)
+- ⭐ **[Meld Merge](https://meldmerge.org/)**
+- ⭐ **[Winmerge - You Will See The Difference...](https://winmerge.org/)**
 - [Diffnow - Compare Files, Urls, And Clipboard Contents Online](https://www.diffnow.com/compare-clips)
 - [Diffchecker - Compare Text Online To Find The Difference Between Two Text Files](https://www.diffchecker.com/)
 - [Scooter Software: Beyond Compare](https://www.scootersoftware.com/)
@@ -614,7 +615,7 @@
 
 ### DAM (Digital Asset Management)
 
-- ⭐ [Eagle - Organize All Your Reference Images In One Place](https://eagle.cool)
+- ⭐ **[Eagle - Organize All Your Reference Images In One Place](https://eagle.cool)**
 - [Metaposta | Recibe, Firma Y Archiva Tus Documentos](https://www.metaposta.com/es)
 - [It Asset Tool - Inventory Software In Your Company!](https://www.it-asset-tool.com/)
 - [Papra](https://papra.app/)
@@ -655,13 +656,13 @@
 
 ### File manager GUI
 
-- ⭐ [Eagle Mode - Zooming Interface](https://eaglemode.sourceforge.net/)
-- ⭐ [Xyplorer](https://www.xyplorer.com/)
-- ⭐ [Eagle.cool](https://en.eagle.cool)
-- ⭐ [Cryo File Manager](https://cryonet.io/)
-- ⭐ [Tablacus Explorer](https://tablacus.github.io/explorer_en.html)
-- ⭐ [Files.community](https://files.community/)
-- ⭐ [Dolphin Kde](https://apps.kde.org/dolphin)
+- ⭐ **[Eagle Mode - Zooming Interface](https://eaglemode.sourceforge.net/)**
+- ⭐ **[Xyplorer](https://www.xyplorer.com/)**
+- ⭐ **[Eagle.cool](https://en.eagle.cool)**
+- ⭐ **[Cryo File Manager](https://cryonet.io/)**
+- ⭐ **[Tablacus Explorer](https://tablacus.github.io/explorer_en.html)**
+- ⭐ **[Files.community](https://files.community/)**
+- ⭐ **[Dolphin Kde](https://apps.kde.org/dolphin)** / [🔗](https://invent.kde.org/system/dolphin)
 - [Trove File Explorer - Native Swiftui File Manager For Macos](https://trove-explorer.app/)
 - [Tokie - Next Gen File Management For Modern Workflow](https://tokie.is/introduction)
 - [Elliotttate/coverflowfinder · Github](https://github.com/elliotttate/CoverFlowFinder)
@@ -750,10 +751,10 @@
 
 ### File tag manager
 
-- ⭐ [Ritt - The Tag-centric File Manager](https://ritt.app/)
-- ⭐ [Tagspaces](https://www.tagspaces.org/)
-- ⭐ [Tabbles.net](https://tabbles.net/)
-- [Tagstudio](https://docs.tagstud.io/)
+- ⭐ **[Ritt - The Tag-centric File Manager](https://ritt.app/)**
+- ⭐ **[Tagspaces](https://www.tagspaces.org/)**
+- ⭐ **[Tabbles.net](https://tabbles.net/)**
+- [Tagstudio](https://docs.tagstud.io/) / [🔗](https://github.com/TagStudioDev/TagStudio)
 - [Somewhere - Tag File Management](https://charles-zhang.itch.io/somewhere)
 - [Taggedfrog](https://lunarfrog.com/projects/taggedfrog)
 - [Alltags](https://alltags.net/)
@@ -789,15 +790,15 @@
 
 ## File Transfer Tool
 
-- ⭐ [Blip Is The Fastest Way To Send Files](https://blip.net/)
-- ⭐ [Pixeldrain - Free File Sharing Service](https://pixeldrain.com/)
+- ⭐ **[Blip Is The Fastest Way To Send Files](https://blip.net/)**
+- ⭐ **[Pixeldrain - Free File Sharing Service](https://pixeldrain.com/)**
 - [Genymobile/scrcpy · Github](https://github.com/Genymobile/scrcpy)
 - [Send To Myself - Your Information, Always With You](https://visionwise-nick.github.io/sendtomyself-website/)
 - [Use Airdrop To Send Items To Nearby Apple Devices](https://support.apple.com/guide/mac-help/use-airdrop-to-send-items-to-nearby-devices-mh35868/mac)
 - [Link To Windows - Apps On Google Play](https://play.google.com/store/apps/details?id=com.microsoft.appmanager)
 - [Rajivm1991/droiddock: A Sleek Macos Desktop Application For Browsing Android Device Files Via Adb](https://github.com/rajivm1991/DroidDock)
 - [Airmore](https://airmore.com/)
-- [Valent](https://valent.andyholmes.ca/)
+- [Valent](https://valent.andyholmes.ca/) / [🔗](https://github.com/andyholmes/valent)
 - [Shrimqy/sefirah: Phone Link / Kde Connect Alternative](https://github.com/shrimqy/Sefirah)
 - [Quick Share | Aplicaciones Y Servicios | Samsung Es](https://www.samsung.com/es/apps/quick-share/)
 - [Grishka/neardrop: An Unofficial Google Nearby Share/quick Share App For Macos](https://github.com/grishka/NearDrop)
@@ -805,7 +806,7 @@
 - [Antimof/uxplay: Airplay Unix Mirroring Server](https://github.com/antimof/UxPlay)
 - [Send Files To Tv: Fast & Easy File Transfer For Android Tv And Smart D](https://www.sendfilestotv.app/)
 - [Blaze | File Sharing Web App ⚡](https://blaze.vercel.app/)
-- [Localsend](https://localsend.org/)
+- [Localsend](https://localsend.org/) / [🔗](https://github.com/localsend/localsend)
 
 ## File system
 
@@ -831,9 +832,9 @@
 
 ## Playlist transfer
 
-- ⭐ [Tune My Music - Transfer Playlists Between Music Services](https://www.tunemymusic.com/)
-- ⭐ [Soundiiz - Transfer Playlists And Favorites Between Streaming Services](https://soundiiz.com/)
-- [Exportify](https://exportify.net/)
+- ⭐ **[Tune My Music - Transfer Playlists Between Music Services](https://www.tunemymusic.com/)**
+- ⭐ **[Soundiiz - Transfer Playlists And Favorites Between Streaming Services](https://soundiiz.com/)**
+- [Exportify](https://exportify.net/) / [🔗](https://github.com/pavelkomarov/exportify)
 - [Spotify Playlist Generator](https://epsil.github.io/spotgen/)
 - [Playlist Transfer | Transfer Playlists Between Two Platforms](https://www.transferplaylist.app/)
 - [Playlists.cloud](https://playlists.cloud/)
@@ -851,7 +852,7 @@
 
 ### Audio tagger
 
-- ⭐ [Musicbrainz Picard](https://picard.musicbrainz.org)
+- ⭐ **[Musicbrainz Picard](https://picard.musicbrainz.org)** / [🔗](https://github.com/metabrainz/picard)
 - [Tagscanner - The Ultimate Tag Editor](https://www.xdlab.ru/en/)
 - [Nickvisionapps/tagger · Github](https://github.com/NickvisionApps/Tagger)
 - [Knuxify/eartag: Ear Tag · Github](https://github.com/knuxify/eartag)
@@ -897,10 +898,10 @@
 
 ## Synchronization software
 
-- ⭐ [Rclone](https://rclone.org/)
-- ⭐ [Rsync - Samba](https://rsync.samba.org)
-- ⭐ [Syncthing](https://syncthing.net)
-- ⭐ [Freefilesync](https://freefilesync.org)
+- ⭐ **[Rclone](https://rclone.org/)**
+- ⭐ **[Rsync - Samba](https://rsync.samba.org)**
+- ⭐ **[Syncthing](https://syncthing.net)** / [🔗](https://github.com/syncthing/syncthing)
+- ⭐ **[Freefilesync](https://freefilesync.org)**
 - [Kinto/kinto · Github](https://github.com/Kinto/kinto)
 - [Schollz/croc: Easily And Securely Send Things From One Computer To Another :package:](https://github.com/schollz/croc)
 - [Smart Switch | Apps & Services | Samsung Us](https://www.samsung.com/us/apps/smart-switch/)

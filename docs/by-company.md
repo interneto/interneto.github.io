@@ -1,32 +1,3 @@
-# By-Company
+# By Company
 
-**Total Bookmarks:** 28
-
-- [Meta - Platforms And Technologies](https://www.meta.com/en-gb/technologies/)
-- [Samsung - Apps & Services](https://www.samsung.com/us/apps/)
-- [Openai Platform](https://platform.openai.com/apps)
-- [Tencent Cloud - Products](https://www.tencentcloud.com/product)
-- [Bytedance - All Products](https://www.bytedance.com/en/products)
-- [Servicenow - Apps And Solutions](https://store.servicenow.com/store/apps)
-- [Palo Alto Networks - Apps](https://apps.paloaltonetworks.com/apps)
-- [3ds - Products](https://www.3ds.com/products)
-- [Block - Open Source](https://opensource.block.xyz/)
-- [Gen - Family Of Brands](https://www.gendigital.com/us/en/family-of-brands/)
-- [Adp Marketplace](https://apps.adp.com/en-US/home)
-- [Palantir - Platforms](https://www.palantir.com/platforms/)
-- [Akamai - Products](https://www.akamai.com/products)
-- [Fortinet Products](https://www.fortinet.com/products)
-- [Roper Technologies - Application Software](https://www.ropertech.com/application-software/overview)
-- [Fiserv Appmarket - Categories](https://appmarket.fiservapps.com/categories.html)
-- [Crowdstrike Marketplace](https://marketplace.crowdstrike.com/)
-- [Ibm Products](https://www.ibm.com/products)
-- [Intuit - Apps](https://quickbooks.intuit.com/app/apps/)
-- [Oracle - Applications](https://www.oracle.com/applications/)
-- [Salesforce - Complete Salesforce Products & Software Suite](https://www.salesforce.com/eu/products/)
-- [Amazon - Cloud Products](https://aws.amazon.com/products/)
-- [Apple - Apps](https://www.apple.com/apps/)
-- [Microsoft - Products, Apps & Devices](https://www.microsoft.com/en-us/microsoft-products-and-apps)
-- [Google - Products](https://about.google/products/)
-- [Adobe - Apps](https://www.adobe.com/creativecloud/plans.html)
-- [Steinberg - Products](https://www.steinberg.net/products/)
-- [Autodesk - All Products](https://www.autodesk.com/products)
+**Total Bookmarks:** 0

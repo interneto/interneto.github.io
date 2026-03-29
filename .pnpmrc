@@ -1,0 +1,12 @@
+# PNPM configuration for optimized builds
+# Enable strict peer dependency resolution
+strict-peer-dependencies=false
+
+# Use hoisted node_modules layout for faster builds
+node-linker=hoisted
+
+# Cache store location
+store-dir=.pnpm-store
+
+# Resolve dependencies faster
+use-node-version=20.19.0
