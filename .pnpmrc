@@ -10,3 +10,5 @@ store-dir=.pnpm-store
 
 # Resolve dependencies faster
 use-node-version=20.19.0
+
+auto-install-peers=true
