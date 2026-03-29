@@ -3,15 +3,10 @@ import consola from 'consola'
 import UnoCSS from 'unocss/vite'
 import AutoImport from 'unplugin-auto-import/vite'
 import OptimizeExclude from 'vite-plugin-optimize-exclude'
-import Terminal from 'vite-plugin-terminal'
 import { VitePWA } from 'vite-plugin-pwa'
+import Terminal from 'vite-plugin-terminal'
 import { defineConfig } from 'vitepress'
-import {
-  meta,
-  nav,
-  search,
-  sidebar,
-} from './constants'
+import { meta, nav, search, sidebar } from './constants'
 import { generateFeed, generateImages, generateMeta } from './hooks'
 import { defs, emojiRender } from './markdown/emoji'
 import { headersPlugin } from './markdown/headers'
@@ -24,8 +19,7 @@ import { replaceNoteLink } from './utils/markdown'
 const base = '/'
 
 // Helper para evitar rutas absolutas rotas
-const withBase = (p: string): string =>
-  `${base}${p.replace(/^\/+/, '')}`
+const withBase = (p: string): string => `${base}${p.replace(/^\/+/, '')}`
 
 export default defineConfig({
   title: 'Interneto Links',
@@ -50,16 +44,45 @@ export default defineConfig({
     ['meta', { name: 'og:locale', content: 'en' }],
 
     ['link', { rel: 'icon', href: withBase('favicon.ico') }],
-    ['link', { rel: 'icon', type: 'image/png', sizes: '32x32', href: withBase('favicon-32x32.png') }],
-    ['link', { rel: 'icon', type: 'image/png', sizes: '16x16', href: withBase('favicon-16x16.png') }],
+    [
+      'link',
+      {
+        rel: 'icon',
+        type: 'image/png',
+        sizes: '32x32',
+        href: withBase('favicon-32x32.png')
+      }
+    ],
+    [
+      'link',
+      {
+        rel: 'icon',
+        type: 'image/png',
+        sizes: '16x16',
+        href: withBase('favicon-16x16.png')
+      }
+    ],
 
     ['link', { rel: 'manifest', href: withBase('manifest.json') }],
     ['link', { rel: 'alternate icon', href: withBase('favicon.ico') }],
-    ['link', { rel: 'mask-icon', href: withBase('note.svg'), color: '#000000ff' }],
-    ['link', { rel: 'apple-touch-icon', href: withBase('apple-touch-icon.png'), sizes: '180x180' }],
+    [
+      'link',
+      { rel: 'mask-icon', href: withBase('note.svg'), color: '#000000ff' }
+    ],
+    [
+      'link',
+      {
+        rel: 'apple-touch-icon',
+        href: withBase('apple-touch-icon.png'),
+        sizes: '180x180'
+      }
+    ],
 
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
-    ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'default' }],
+    [
+      'meta',
+      { name: 'apple-mobile-web-app-status-bar-style', content: 'default' }
+    ]
   ],
 
   transformHead: async (context) => generateMeta(context, meta.hostname),
@@ -133,7 +156,7 @@ export default defineConfig({
         registerType: 'autoUpdate',
 
         workbox: {
-          globPatterns: ['**/*.{js,css,html,ico,png,svg,woff2}'],
+          globPatterns: ['**/*.{js,css,html,ico,png,svg,woff2}']
         },
 
         manifest: {
@@ -197,6 +220,6 @@ export default defineConfig({
     },
 
     nav,
-    sidebar,
+    sidebar
   }
 })

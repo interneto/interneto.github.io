@@ -58,6 +58,6 @@ export default defineSatoriConfig({
     title: 'Title',
     description:
       'Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat.',
-    dir: '/j',
+    dir: '/j'
   }
 })

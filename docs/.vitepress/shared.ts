@@ -19,115 +19,116 @@ import type { DefaultTheme } from 'vitepress'
 // @unocss-include
 
 export const meta = {
-    name: 'Interneto Links',
-    description: 'Pass from the Internet to the Innernet!',
-    hostname: 'https://interneto.github.io',
-    keywords: ['stream', 'movies', 'gaming', 'reading', 'anime'],
-    build: {
-        api: false,
-        nsfw: true
-    }
+  name: 'Interneto Links',
+  description: 'Pass from the Internet to the Innernet!',
+  hostname: 'https://interneto.github.io',
+  keywords: ['stream', 'movies', 'gaming', 'reading', 'anime'],
+  build: {
+    api: false,
+    nsfw: true
+  }
 }
 
 export const excluded = [
-    'readme.md',
-    'single-page',
-    'feedback.md',
-    'index.md',
-    'sandbox.md',
-    'startpage.md'
+  'readme.md',
+  'single-page',
+  'feedback.md',
+  'index.md',
+  'sandbox.md',
+  'startpage.md'
 ]
 
 export const nav: DefaultTheme.NavItem[] = [
-    { text: '📑 Posts', link: '/posts/index' },
-        { text: 'ℹ️ About', link: '/about' }
+  { text: '📑 Posts', link: '/posts/index' },
+  { text: 'ℹ️ About', link: '/about' }
 ]
 
 export const sidebar: DefaultTheme.Sidebar | DefaultTheme.NavItemWithLink[] = [
-    {
-        text: 'Categories',
-        collapsed: false,
-        items: [
-            {
-                text: '🧰 AI Tools and Services',
-                link: '/ai-tools-and-services'
-            },
-            {
-                text: '🏢 By Company',
-                link: '/by-company'
-            },
-            {
-                text: '⌨️ Development',
-                link: '/dev'
-            },
-            {
-                text: '🎓 Education',
-                link: '/education'
-            },
-            {
-                text: '📁 File Management',
-                link: '/file-management'
-            },
-            {
-                text: '💰 Financial Assets',
-                link: '/financial-assets'
-            },
-            {
-                text: '🎮 Gaming',
-                link: '/gaming'
-            },
-            {
-                text: '❤️ Health and Fitness',
-                link: '/health-and-fitness'
-            },
-            {
-                text: '🏠 Home and Family',
-                link: '/home-and-family'
-            },
-            {
-                text: '☎️ Intercommunication',
-                link: '/intercomm'
-            },
-            {
-                text: '📺 Multimedia',
-                link: '/multimedia'
-            },
-            {
-                text: '📰 News and Media',
-                link: '/news-media'
-            },
-            {
-                text: '💼 Office and Productivity',
-                link: '/office-and-productivity'
-            },
-            {
-                text: '🌐 Online Services',
-                link: '/online-services'
-            },
-            {
-                text: '🐧 Operating System',
-                link: '/os'
-            },
-            {
-                text: '🛡️ Security and Privacy',
-                link: '/security-and-privacy'
-            },
-            {
-                text: '💻 System Administration',
-                link: '/sys-admin'
-            },
-            {
-                text: '🕐 Time',
-                link: '/time'
-            },
-            {
-                text: '🌎 Travel and Location',
-                link: '/travel-and-location'
-            },
-            {
-                text: '🛠️ Utility',
-                link: '/utility'
-            }
-        ]
-    }
+  {
+    text: 'Categories',
+    collapsed: false,
+    items: [
+      {
+        text: '🏢 by_Company',
+        link: '/by-company'
+      },
+      {
+        text: '🐧 Operating_System',
+        link: '/os'
+      },
+      {
+        text: '🧰 AI Tools and Services',
+        link: '/ai-tools-and-services'
+      },
+
+      {
+        text: '⌨️ Development',
+        link: '/dev'
+      },
+      {
+        text: '🎓 Education',
+        link: '/education'
+      },
+      {
+        text: '📁 File Management',
+        link: '/file-management'
+      },
+      {
+        text: '💰 Financial Assets',
+        link: '/financial-assets'
+      },
+      {
+        text: '🎮 Gaming',
+        link: '/gaming'
+      },
+      {
+        text: '❤️ Health and Fitness',
+        link: '/health-and-fitness'
+      },
+      {
+        text: '🏠 Home and Family',
+        link: '/home-and-family'
+      },
+      {
+        text: '☎️ Intercommunication',
+        link: '/intercomm'
+      },
+      {
+        text: '📺 Multimedia',
+        link: '/multimedia'
+      },
+      {
+        text: '📰 News and Media',
+        link: '/news-media'
+      },
+      {
+        text: '💼 Office and Productivity',
+        link: '/office-and-productivity'
+      },
+      {
+        text: '🌐 Online Services',
+        link: '/online-services'
+      },
+      {
+        text: '🛡️ Security and Privacy',
+        link: '/security-and-privacy'
+      },
+      {
+        text: '💻 System Administration',
+        link: '/sys-admin'
+      },
+      {
+        text: '🕐 Time',
+        link: '/time'
+      },
+      {
+        text: '🌎 Travel and Location',
+        link: '/travel-and-location'
+      },
+      {
+        text: '🛠️ Utility',
+        link: '/utility'
+      }
+    ]
+  }
 ]

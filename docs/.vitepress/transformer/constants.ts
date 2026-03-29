@@ -19,8 +19,7 @@ interface Header {
   [file: string]: { title: string; description: string }
 }
 
-export const headers: Header = {
-} as const
+export const headers: Header = {} as const
 
 export const excluded = [
   'readme.md',

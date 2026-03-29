@@ -58,7 +58,11 @@ const createColorRules = (type: 'text' | 'bg' | 'border'): Rule[] => {
 
 export default defineConfig({
   content: {
-    filesystem: ['.vitepress/config.mts', '.vitepress/constants.ts', '.vitepress/shared.ts']
+    filesystem: [
+      '.vitepress/config.mts',
+      '.vitepress/constants.ts',
+      '.vitepress/shared.ts'
+    ]
   },
   theme: {
     colors: {
