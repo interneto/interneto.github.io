@@ -80,10 +80,10 @@
 ## DNS Filter
 
 - [Bol-van/zapret: Dpi Bypass Multi Platform](https://github.com/bol-van/zapret)
-- [Dnsveil (formerly Secure Dns Client)](https://msasanmh.github.io/DNSveil/)
+- [Dnsveil (formerly Secure Dns Client)](https://msasanmh.github.io/DNSveil/) / [🔗](https://github.com/msasanmh/DNSveil)
 - [Tsutsu3/pi-hole-client: Unofficial Pi-hole Client](https://github.com/tsutsu3/pi-hole-client)
 - [Adguard](https://adguard.com/en/welcome.html)
-- [Pi-hole - Network Wide Ad-blocking](https://pi-hole.net/)
+- [Pi-hole - Network Wide Ad-blocking](https://pi-hole.net/) / [🔗](https://github.com/pi-hole/pi-hole)
 - [Cisco Umbrella | Leader In Dns And Cloud Cybersecurity Solutions](https://umbrella.cisco.com/)
 - [Cloudflare Gateway - Threat Protection](https://www.cloudflare.com/sase/products/gateway/)
 - [Nextdns](https://nextdns.io/)
@@ -106,22 +106,22 @@
 - [Dynfi Firewall](https://dynfi.com/en/dynfi-firewall/)
 - [Gufw Firewall](http://gufw.org/)
 - [Smoothwall](https://smoothwall.org/)
-- [Opnsense - Open-source Firewall](https://opnsense.org/)
+- [Opnsense - Open-source Firewall](https://opnsense.org/) / [🔗](https://github.com/opnsense)
 - [Firewalld](https://firewalld.org/)
 - [Pfsense - Foss Firewall](https://www.pfsense.org/)
 - [Ipfire](https://www.ipfire.org/)
 
 ## Password manager
 
-- ⭐ [Dani-garcia/vaultwarden · Github](https://github.com/dani-garcia/vaultwarden)
-- ⭐ [Bitwarden](https://bitwarden.com)
-- ⭐ [Keepassdx](https://keepassdx.com)
-- ⭐ [Keepassxc.org](https://keepassxc.org/)
+- ⭐ **[Dani-garcia/vaultwarden · Github](https://github.com/dani-garcia/vaultwarden)**
+- ⭐ **[Bitwarden](https://bitwarden.com)**
+- ⭐ **[Keepassdx](https://keepassdx.com)**
+- ⭐ **[Keepassxc.org](https://keepassxc.org/)**
 - [Lemonade - The Password Manager Developers Actually Need](https://lemonadepass.app/)
-- [Argon2](https://www.argon2.com/)
+- [Argon2](https://www.argon2.com/) / [🔗](https://github.com/P-H-C/phc-winner-argon2)
 - [Rench321/sklad: Industrial-grade Secure Snippet Warehouse For Your System Tray. 📦 Built With Rust (tauri V2) & React. Offline-first, Aes-256 Encrypted, And Recursive.](https://github.com/Rench321/sklad)
-- [Pearpass | Your Open-source Password Manager](https://pass.pears.com/)
-- [Vault | Hashicorp Developer](https://developer.hashicorp.com/vault)
+- [Pearpass | Your Open-source Password Manager](https://pass.pears.com/) / [🔗](https://github.com/tetherto/pearpass-app-mobile)
+- [Vault | Hashicorp Developer](https://developer.hashicorp.com/vault) / [🔗](https://github.com/hashicorp/vault)
 - [Seineeloquenz/fosswallet: Foss .pkpass Wallet In Material Design 3](https://github.com/SeineEloquenz/fosswallet)
 - [Roboform Password Manager | Best Password Manager For 2025](https://www.roboform.com/)
 - [How Secure Is My Password?](https://howsecureismypassword.net/)
@@ -177,7 +177,7 @@
 - [Qtkeychain](https://github.com/frankosterfeld/qtkeychain)
 - [Passbolt](https://www.passbolt.com)
 - [Pass - The Standard Unix Password Manager](https://www.passwordstore.org/)
-- [Keepass Password Safe](https://keepass.info/)
+- [Keepass Password Safe](https://keepass.info/) / [🔗](https://sourceforge.net/projects/keepass/)
 
 ## Security & Testing
 
@@ -191,7 +191,7 @@
 
 ### OSINT Tools
 
-- ⭐ [Overpass Turbo](https://overpass-turbo.eu/)
+- ⭐ **[Overpass Turbo](https://overpass-turbo.eu/)** / [🔗](https://github.com/tyrasd/overpass-turbo)
 - [Mxrch/ghunt: 🕵️‍♂️ Offensive Google Framework.](https://github.com/mxrch/ghunt)
 - [Idcrawl - Free People Search Engine](https://www.idcrawl.com/)
 - [P1ngul1n0/blackbird: An Osint Tool To Search For Accounts By Username And Email In Social Networks.](https://github.com/p1ngul1n0/blackbird)
@@ -208,20 +208,20 @@
 ### PenTesting
 
 - [V1s1t0r1sh3r3/airgeddon · Github](https://github.com/v1s1t0r1sh3r3/airgeddon)
-- [Openwall/john: John The Ripper Jumbo · Github](https://www.openwall.com/john/)
+- [Openwall/john: John The Ripper Jumbo · Github](https://www.openwall.com/john/) / [🔗](https://github.com/openwall/john)
 - [Nvidia/garak: The Llm Vulnerability Scanner](https://github.com/NVIDIA/garak)
 - [Protectai/llm-guard: The Security Toolkit For Llm Interactions](https://github.com/protectai/llm-guard)
 - [Niwciu/modbussniffer: Modbus Rtu Packet Sniffer With Gui](https://github.com/niwciu/ModbusSniffer)
 - [Swisskyrepo/payloadsallthethings: A List Of Useful Payloads And Bypass For Web Application Security And Pentest/ctf](https://github.com/swisskyrepo/PayloadsAllTheThings)
-- [Metasploit | Penetration Testing Software, Pen Testing Security](https://metasploit.com/)
-- [Hashcat - Advanced Password Recovery](https://hashcat.net/hashcat/)
+- [Metasploit | Penetration Testing Software, Pen Testing Security](https://metasploit.com/) / [🔗](https://github.com/rapid7/metasploit-framework)
+- [Hashcat - Advanced Password Recovery](https://hashcat.net/hashcat/) / [🔗](https://github.com/hashcat/hashcat)
 - [Pixiewps](https://github.com/wiire-a/pixiewps)
 - [Fern-wifi-cracker · Github](https://github.com/savio-code/fern-wifi-cracker)
 - [Beef](http://beefproject.com/)
 - [Cirt.net](https://www.cirt.net/)
 - [Snort](https://www.snort.org/)
 - [Openwall](https://www.openwall.com/)
-- [Aircrack-ng](https://www.aircrack-ng.org/)
+- [Aircrack-ng](https://www.aircrack-ng.org/) / [🔗](https://github.com/aircrack-ng/aircrack-ng)
 
 ### RockYou
 
@@ -235,7 +235,7 @@
 
 ## VPN
 
-- ⭐ [Netbird - Open Source Zero Trust Networking](https://netbird.io/)
+- ⭐ **[Netbird - Open Source Zero Trust Networking](https://netbird.io/)** / [🔗](https://github.com/netbirdio/netbird)
 - [Zerotworu/anet: Simple Rust Vpn Client / Server](https://github.com/ZeroTworu/anet)
 - [Urbanvpn - The Only Free Premium Vpn](https://www.urban-vpn.com/)
 - [Touch Vpn](https://www.touchvpn.net/)
@@ -249,7 +249,7 @@
 - [Obscura Vpn | Privacy That’s More Than A Promise](https://obscura.net/)
 - [Pairvpn](https://pairvpn.com/)
 - [Nym | The Next Generation Of Privacy Infrastructure](https://nymtech.net/)
-- [Orbot - Tor For Mobile](https://orbot.app/en/)
+- [Orbot - Tor For Mobile](https://orbot.app/en/) / [🔗](https://github.com/guardianproject/orbot-android)
 - [Ostrich Vpn](https://www.ostrichvpn.net/)
 - [Turbo Vpn: Best Unlimited, Fast & Secure Vpn Service](https://turbovpn.com/)
 - [Neocturne/fastd: Fast And Secure Tunnelling Daemon](https://github.com/neocturne/fastd)
@@ -301,7 +301,7 @@
 
 ## VPS
 
-- [Torbox.app](https://torbox.app/)
+- [Torbox.app](https://torbox.app/) / [🔗](https://github.com/TorBox-App)
 - [Snowcore - Welcome](https://snowcore.io/)
 - [Cloudzy | Your Vps Hosting Solutions In The Clouds ☁️](https://cloudzy.com/)
 - [Vps/vds Сервера В Аренду — Купить Виртуальный Сервер По Цене От 48 Рублей](https://vps.today/)
@@ -315,8 +315,8 @@
 
 ## Malware scanner
 
-- [Filigran](https://filigran.io/)
-- [Trivy](https://trivy.dev/)
+- [Filigran](https://filigran.io/) / [🔗](https://github.com/OpenCTI-Platform/opencti)
+- [Trivy](https://trivy.dev/) / [🔗](https://github.com/aquasecurity/trivy)
 - [Joe Sandbox Cloud Basic - Automated Malware Analysis](https://www.joesandbox.com/#windows)
 - [Nordstellar - Threat Exposure Management Platform](https://nordstellar.com/)
 - [Any.run - Interactive Online Malware Sandbox](https://any.run/)
@@ -330,8 +330,8 @@
 
 ## Website scannerr
 
-- ⭐ [Wappalyzer - Find Out What Websites Are Built With](https://www.wappalyzer.com/)
-- ⭐ [Web Check - Osint Scanner](https://web-check.xyz/)
+- ⭐ **[Wappalyzer - Find Out What Websites Are Built With](https://www.wappalyzer.com/)**
+- ⭐ **[Web Check - Osint Scanner](https://web-check.xyz/)** / [🔗](https://github.com/Lissy93/web-check)
 - [Whatruns – Discover What Runs A Website](https://www.whatruns.com/)
 - [Websniffer](https://websniffer.com/)
 - [Lychee](https://lychee.cli.rs/)

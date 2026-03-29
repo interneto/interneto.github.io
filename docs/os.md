@@ -9,6 +9,7 @@
 
 ## OS by devices
 
+
 ### Console OS
 
 - [Xbox System Updates | Xbox Support](https://support.xbox.com/en-US/help/hardware-network/settings-updates/whats-new-xbox-one-system-updates)
@@ -39,7 +40,7 @@
 - [Kasperskyos — Cyber Immune Approach To It Systems Security](https://os.kaspersky.com/)
 - [Micrium Os - Silicon Labs](https://www.silabs.com/developers/micrium-os)
 - [Openwrt Downloads](https://downloads.openwrt.org/)
-- [Openwrt](https://openwrt.org)
+- [Openwrt](https://openwrt.org) / [🔗](https://github.com/openwrt/openwrt)
 - [Ropieee: A Roonbridge Ready-to-go Image For Raspberry Pi](https://ropieee.org/)
 - [Manjaro-arm/rpi4-images · Github](https://github.com/manjaro-arm/rpi4-images)
 - [Real Time Operating System (rtos) | Microsoft Azure](https://azure.microsoft.com/en-us/products/rtos/)
@@ -79,12 +80,12 @@
 
 ##### Android ROMs
 
-- ⭐ [Arrowos](https://arrowos.net/)
-- ⭐ [Grapheneos](https://grapheneos.org)
-- ⭐ [Kaios](https://www.kaiostech.com)
+- ⭐ **[Arrowos](https://arrowos.net/)**
+- ⭐ **[Grapheneos](https://grapheneos.org)**
+- ⭐ **[Kaios](https://www.kaiostech.com)**
 - [Linux On Android](https://linuxonandroid.com/)
 - [Android Open Source Project](https://source.android.com)
-- [Android](https://www.android.com)
+- [Android](https://www.android.com) / [🔗](https://android.googlesource.com/)
 - [Aluminiumos – Android For Pc](https://aluminium-os.com/)
 - [Comparison Of Android-based Operating Systems - Eylenburg](https://eylenburg.github.io/android_comparison.htm)
 - [Iodéos - Iodé](https://iode.tech/iodeos/)
@@ -150,7 +151,7 @@
 
 ##### Linux phone OS
 
-- ⭐ [Postmarketos](https://postmarketos.org/)
+- ⭐ **[Postmarketos](https://postmarketos.org/)**
 - [Kali Nethunter | Kali Linux Documentation](https://www.kali.org/docs/nethunter/)
 - [Ubports](https://ubports.com/en/)
 - [Manjaro-pinephone/plasma-mobile · Github](https://github.com/manjaro-pinephone/plasma-mobile)
@@ -209,16 +210,16 @@
 - [Infinitimeorg/infinitime · Github](https://github.com/InfiniTimeOrg/InfiniTime)
 - [Daniel-thompson/wasp-os · Github](https://github.com/daniel-thompson/wasp-os)
 - [Espruino - Javascript For Microcontrollers](https://www.espruino.com/)
-- [Asteroidos](https://asteroidos.org/)
+- [Asteroidos](https://asteroidos.org/) / [🔗](https://github.com/AsteroidOS/asteroid)
 
 ### Server OS
 
 
 #### Enterprise Server OS
 
-- ⭐ [Rocky Linux](https://rockylinux.org)
-- ⭐ [Truenas](https://www.truenas.com/)
-- ⭐ [Proxmox - Powerful Open-source Server Solution](https://www.proxmox.com/en/)
+- ⭐ **[Rocky Linux](https://rockylinux.org)**
+- ⭐ **[Truenas](https://www.truenas.com/)** / [🔗](https://github.com/truenas)
+- ⭐ **[Proxmox - Powerful Open-source Server Solution](https://www.proxmox.com/en/)**
 - [Oracle Solaris 11](https://www.oracle.com/solaris/solaris11)
 - [Smartos - Triton Data Center](https://www.tritondatacenter.com/smartos)
 - [Vmware Vsphere | Virtualization Platform](https://www.vmware.com/products/cloud-infrastructure/vsphere)
@@ -236,7 +237,7 @@
 
 #### Home Server OS
 
-- ⭐ [Umbrel — The Ultimate Home Server And Os For Self-hosting](https://umbrel.com/)
+- ⭐ **[Umbrel — The Ultimate Home Server And Os For Self-hosting](https://umbrel.com/)** / [🔗](https://github.com/getumbrel/umbrel)
 - [Nirvati](https://runcitadel.space/)
 - [Mynode](https://mynodebtc.com/)
 - [Qts Nas Operating System](https://www.qnap.com/en/operating-system/qts)
@@ -251,7 +252,7 @@
 - [Amahi Home Server - Making Home Networking Simple](https://www.amahi.org/)
 - [Diskstation Manager | Synology Inc.](https://www.synology.com/en-us/dsm)
 - [Easynas](https://easynas.org/)
-- [Casaos - A Simple, Easy-to-use, Elegant Open-source Personal Cloud System](https://casaos.zimaspace.com/)
+- [Casaos - A Simple, Easy-to-use, Elegant Open-source Personal Cloud System](https://casaos.zimaspace.com/) / [🔗](https://github.com/IceWhaleTech/CasaOS)
 - [Openmediavault](https://www.openmediavault.org/)
 - [Unraid Os](https://unraid.net/)
 
@@ -260,9 +261,9 @@
 
 #### Independent OS
 
-- ⭐ [Zeal-operating-system/zealos · Github](https://github.com/Zeal-Operating-System/ZealOS)
-- ⭐ [Commodore 64 Os](https://c64os.com/)
-- ⭐ [Templeos](https://templeos.org)
+- ⭐ **[Zeal-operating-system/zealos · Github](https://github.com/Zeal-Operating-System/ZealOS)**
+- ⭐ **[Commodore 64 Os](https://c64os.com/)**
+- ⭐ **[Templeos](https://templeos.org)**
 - [Genode - Genode Operating System Framework](https://genode.org/)
 - [Openindiana – Community-driven Illumos Distribution](https://www.openindiana.org/)
 - [Amoeba Os](https://www.cs.vu.nl/pub/amoeba/)
@@ -311,8 +312,8 @@
 
 ##### BSD-based
 
-- ⭐ [Freebsd](https://www.freebsd.org/)
-- ⭐ [Ghostbsd](https://www.ghostbsd.org/)
+- ⭐ **[Freebsd](https://www.freebsd.org/)** / [🔗](https://cgit.freebsd.org/)
+- ⭐ **[Ghostbsd](https://www.ghostbsd.org/)**
 - [Openorbis/openorbis-ps4-toolchain · Github](https://github.com/OpenOrbis/OpenOrbis-PS4-Toolchain)
 - [Ps5 Software - Playstation](https://www.playstation.com/en-us/support/hardware/ps5/system-software/)
 - [Freenas](https://www.truenas.com/freenas/)
@@ -343,7 +344,7 @@
 
 ###### Indie Unix-like
 
-- [Plan 9 From User Space](https://9fans.github.io/plan9port/)
+- [Plan 9 From User Space](https://9fans.github.io/plan9port/) / [🔗](https://github.com/9fans/plan9port)
 - [Xinuos](https://www.xinuos.com/)
 - [Llenotre/maestro: Unix-like Kernel Written In Rust](https://github.com/llenotre/maestro)
 - [Illumos](https://illumos.org/)
@@ -354,7 +355,7 @@
 - [Redox - Unix-like Os Written In Rust](https://www.redox-os.org/)
 - [Lemon Os](https://lemonos.org/)
 - [Atheos](https://atheos.metaproject.frl/)
-- [Serenityos](https://serenityos.org/)
+- [Serenityos](https://serenityos.org/) / [🔗](https://github.com/SerenityOS/serenity)
 - [Ibm Power Aix](https://www.ibm.com/products/aix)
 
 ###### Linux-based
@@ -362,18 +363,18 @@
 
 ####### Arch-based
 
-- ⭐ [Garuda Linux](https://garudalinux.org/)
-- ⭐ [Manjaro - The Linux For People And Organizations](https://manjaro.org/)
-- ⭐ [Arcolinux](https://arcolinux.com/)
-- ⭐ [Arch Linux](https://archlinux.org/)
-- ⭐ [Blendos — The Ultimate Distro-blend](https://blendos.co/)
-- ⭐ [Cachyos](https://cachyos.org/)
-- ⭐ [Archcraft.io](https://archcraft.io/)
-- ⭐ [Endeavouros](https://endeavouros.com/)
-- ⭐ [Artix Linux](https://artixlinux.org/)
+- ⭐ **[Garuda Linux](https://garudalinux.org/)**
+- ⭐ **[Manjaro - The Linux For People And Organizations](https://manjaro.org/)**
+- ⭐ **[Arcolinux](https://arcolinux.com/)**
+- ⭐ **[Arch Linux](https://archlinux.org/)**
+- ⭐ **[Blendos — The Ultimate Distro-blend](https://blendos.co/)**
+- ⭐ **[Cachyos](https://cachyos.org/)**
+- ⭐ **[Archcraft.io](https://archcraft.io/)**
+- ⭐ **[Endeavouros](https://endeavouros.com/)**
+- ⭐ **[Artix Linux](https://artixlinux.org/)**
 - [W84death/floppinux: An Embedded 🐧linux On A Single 💾floppy](https://github.com/w84death/floppinux)
-- [Omarchy](https://omarchy.org/)
-- [Kde Linux - Kde Community](https://kde.org/linux/)
+- [Omarchy](https://omarchy.org/) / [🔗](https://github.com/basecamp/omarchy)
+- [Kde Linux - Kde Community](https://kde.org/linux/) / [🔗](https://invent.kde.org/kde-linux/kde-linux/)
 - [Nyarch Linux](https://nyarchlinux.moe/)
 - [Steamos - Valve](https://store.steampowered.com/steamos)
 - [Arkane Linux](https://arkanelinux.org/)
@@ -451,11 +452,11 @@
 
 ####### Debian-based
 
-- ⭐ [Debian - The Universal Operating System](https://www.debian.org)
-- ⭐ [Loc-os Linux](https://loc-os.com/)
-- ⭐ [Devuan Gnu+linux](https://www.devuan.org/)
-- ⭐ [Linux Mint](https://linuxmint.com/)
-- ⭐ [Kali Linux | Penetration Testing Linux](https://www.kali.org)
+- ⭐ **[Debian - The Universal Operating System](https://www.debian.org)**
+- ⭐ **[Loc-os Linux](https://loc-os.com/)**
+- ⭐ **[Devuan Gnu+linux](https://www.devuan.org/)**
+- ⭐ **[Linux Mint](https://linuxmint.com/)**
+- ⭐ **[Kali Linux | Penetration Testing Linux](https://www.kali.org)**
 - [Besgnulinux](https://besgnulinux.blogspot.com/)
 - [Minios - Fast. Simple. Reliable.](https://minios.dev/#more)
 - [Vendefoul Wolf Linux - Excalibur Trinity Y Plasma](https://vendefoulwolf.wordpress.com/excalibur/)
@@ -531,7 +532,7 @@
 
 ####### Gentoo-based
 
-- ⭐ [Gentoo Linux](https://www.gentoo.org)
+- ⭐ **[Gentoo Linux](https://www.gentoo.org)**
 - [Exherbo](https://www.exherbolinux.org/)
 - [Xenia Linux](https://xenialinux.com/)
 - [Xenia Linux](https://xenia-group.gitlab.io/xeniaweb/)
@@ -553,8 +554,8 @@
 
 ####### Fedora-based
 
-- ⭐ [Fedora Linux](https://fedoraproject.org/)
-- ⭐ [Nobara Project](https://nobaraproject.org/)
+- ⭐ **[Fedora Linux](https://fedoraproject.org/)**
+- ⭐ **[Nobara Project](https://nobaraproject.org/)**
 - [Origami Linux – Fold Your System](https://origami.wf/)
 - [Asahi Linux](https://asahilinux.org/)
 - [Eu Os](https://eu-os.eu/)
@@ -576,16 +577,16 @@
 
 ####### NixOS-based
 
-- ⭐ [Nix & Nixos](https://nixos.org/)
+- ⭐ **[Nix & Nixos](https://nixos.org/)**
 - [Snowflakeos](https://snowflakeos.org/)
 - [Expidusos](https://expidusos.com/en/)
 - [Athena Os](https://athenaos.org/)
 
 ####### Indie Linux distro
 
-- ⭐ [Pardus Linux](https://www.pardus.org.tr/en/)
-- ⭐ [Alpine Linux](https://www.alpinelinux.org/)
-- ⭐ [Dahliaos](https://dahliaos.io/)
+- ⭐ **[Pardus Linux](https://www.pardus.org.tr/en/)**
+- ⭐ **[Alpine Linux](https://www.alpinelinux.org/)**
+- ⭐ **[Dahliaos](https://dahliaos.io/)**
 - [Chimera Linux](https://chimera-linux.org/)
 - [Selinuxproject/selinux: This Is The Upstream Repository For The Security Enhanced Linux (selinux) Userland Libraries And Tools. The Software Provided By This Project Complements The Selinux Features Integrated Into The Linux Kernel And Is Used By Linux Distributions. All Bugs And Patches Should Be Submitted To Selinux@vger.kernel.org](https://github.com/SELinuxProject/selinux)
 - [Aerynos](https://aerynos.com/)
@@ -622,7 +623,7 @@
 - [Nuta/kerla · Github](https://github.com/nuta/kerla)
 - [Ezix](https://www.ezix.org/project)
 - [Static Linux](https://sta.li/)
-- [Lakka - The Diy Open Source Retrogaming Emulation Console](https://www.lakka.tv/)
+- [Lakka - The Diy Open Source Retrogaming Emulation Console](https://www.lakka.tv/) / [🔗](https://github.com/libretro/Lakka-LibreELEC)
 - [Plop Linux](https://www.plop.at/)
 - [Base Alt](https://www.basealt.ru/)
 - [Adélie Linux](https://www.adelielinux.org/)
@@ -639,7 +640,7 @@
 - [Lfa Linux | Linux For All](https://lfa.exton.net/)
 - [Nixos Hydra](https://hydra.nixos.org/)
 - [Bedrock Linux](https://bedrocklinux.org/)
-- [Pearos](https://pearos.xyz/)
+- [Pearos](https://pearos.xyz/) / [🔗](https://github.com/pearOS-archlinux/iso)
 - [Easyos](https://easyos.org/)
 - [Asus Notebook Linux](https://asus-linux.org/)
 - [Nutyx Gnu/linux](https://www.nutyx.org/en/)
@@ -683,9 +684,9 @@
 
 ####### RedHat-based
 
-- ⭐ [Opensuse Tumbleweed](https://get.opensuse.org/tumbleweed/)
-- ⭐ [Suse Linux Enterprise Desktop (sled) | Suse](https://www.suse.com/download/sled/)
-- ⭐ [Openmandriva](https://www.openmandriva.org/)
+- ⭐ **[Opensuse Tumbleweed](https://get.opensuse.org/tumbleweed/)**
+- ⭐ **[Suse Linux Enterprise Desktop (sled) | Suse](https://www.suse.com/download/sled/)**
+- ⭐ **[Openmandriva](https://www.openmandriva.org/)**
 - [Red Hat Enterprise Linux](https://access.redhat.com/products/red-hat-enterprise-linux)
 - [Pld Linux](https://www.pld-linux.org/)
 - [Eurolinux](https://en.euro-linux.com/eurolinux/what-is/)
@@ -702,8 +703,8 @@
 
 ####### Slackware-based
 
-- ⭐ [Slackware Linux](http://slackware.com/)
-- ⭐ [Puppy Linux](https://puppylinux-woof-ce.github.io/)
+- ⭐ **[Slackware Linux](http://slackware.com/)**
+- ⭐ **[Puppy Linux](https://puppylinux-woof-ce.github.io/)**
 - [Slint](https://slint.fr/)
 - [Slackware Arm / Aarch64](https://arm.slackware.com/)
 - [Absolute Linux](https://www.absolutelinux.org/)
@@ -716,13 +717,13 @@
 
 ####### Ubuntu-based
 
-- ⭐ [Ubuntu](https://ubuntu.com)
-- ⭐ [Vanilla Os](https://vanillaos.org/)
-- ⭐ [Kde Neon](https://neon.kde.org/)
-- ⭐ [Linux Lite Os](https://www.linuxliteos.com/)
-- ⭐ [Elementary Os](https://elementary.io/)
-- ⭐ [Zorin Os - Make Your Computer Better](https://zorin.com/os/)
-- ⭐ [Pop! Os - System76](https://pop.system76.com/)
+- ⭐ **[Ubuntu](https://ubuntu.com)**
+- ⭐ **[Vanilla Os](https://vanillaos.org/)**
+- ⭐ **[Kde Neon](https://neon.kde.org/)**
+- ⭐ **[Linux Lite Os](https://www.linuxliteos.com/)**
+- ⭐ **[Elementary Os](https://elementary.io/)**
+- ⭐ **[Zorin Os - Make Your Computer Better](https://zorin.com/os/)**
+- ⭐ **[Pop! Os - System76](https://pop.system76.com/)**
 - [Tsurugi Linux | Digital Forensics, Osint And Malware Analysis Linux Distribution](https://tsurugi-linux.org/)
 - [Nebios - Cutting-edge & User-friendly Linux Os](https://nebios.org/)
 - [Anduinos - Open Source & Linux](https://www.anduinos.com/)
@@ -765,7 +766,7 @@
 
 ####### Void-based
 
-- ⭐ [Void Linux - Enter The Void](https://voidlinux.org/)
+- ⭐ **[Void Linux - Enter The Void](https://voidlinux.org/)**
 - [D77void Gnu/linux](https://d77void.sourceforge.io/)
 - [Cereus Linux](https://cereuslinuxproject.github.io/)
 
@@ -781,9 +782,9 @@
 
 #### Windows NT
 
-- ⭐ [Dockur/windows · Github](https://github.com/dockur/windows)
-- ⭐ [Changewindows - Timeline](https://www.changewindows.org/timeline)
-- ⭐ [Tiny11 23h2 - Internet Archive](https://archive.org/details/tiny-10-23-h2)
+- ⭐ **[Dockur/windows · Github](https://github.com/dockur/windows)**
+- ⭐ **[Changewindows - Timeline](https://www.changewindows.org/timeline)**
+- ⭐ **[Tiny11 23h2 - Internet Archive](https://archive.org/details/tiny-10-23-h2)**
 - [Windows Xp Professional Sp3 (updated): Internet Archive](https://archive.org/details/windows-xp-professional-sp-3-updated_202212/)
 - [Windows Xp Professional With Sp3 (spanish): Internet Archive](https://archive.org/details/windows-xp-es-iso_202101)
 - [Tiny 11 24h2 : Microsoft, Ntdev, Ntlite, Lux The Fish :3,queer Member, Kfc Lover : Free Download, Borrow, And Streaming : Internet Archive](https://archive.org/details/tiny-11-24h2-NTDEV)
@@ -871,13 +872,13 @@
 - [Openrc Init System · Github](https://github.com/OpenRC/openrc)
 - [Dinit · Github](https://github.com/davmac314/dinit)
 - [Buildroot](https://buildroot.org/)
-- [Systemd](https://systemd.io/)
+- [Systemd](https://systemd.io/) / [🔗](https://github.com/systemd/systemd)
 
 ### Kernel
 
 - [Kernelsu](https://kernelsu.org/)
 - [Zircon - Fuchsia - Git At Google](https://fuchsia.googlesource.com/fuchsia/+/master/zircon/)
-- [The Sel4 Microkernel | Sel4](https://sel4.systems/)
+- [The Sel4 Microkernel | Sel4](https://sel4.systems/) / [🔗](https://github.com/seL4/seL4)
 - [Thepowersgang/rust_os · Github](https://github.com/thepowersgang/rust_os)
 - [Littlekernel/lk: Lk Embedded Kernel](https://github.com/littlekernel/lk)
 - [Tock Embedded Operating System](https://www.tockos.org/)
@@ -917,10 +918,10 @@
 
 ### Desktop Environment
 
-- ⭐ [Plasma Bigscreen](https://plasma-bigscreen.org/)
-- [Cosmic - System 76](https://system76.com/cosmic)
+- ⭐ **[Plasma Bigscreen](https://plasma-bigscreen.org/)**
+- [Cosmic - System 76](https://system76.com/cosmic) / [🔗](https://github.com/pop-os/cosmic-epoch)
 - [Sxmo: Simple X Mobile](https://sxmo.org/)
-- [Phosh](https://phosh.mobi/)
+- [Phosh](https://phosh.mobi/) / [🔗](https://gitlab.gnome.org/World/Phosh/phosh)
 - [Nomone Desktop – Your Desktop On The Go!](https://desktop.nomone.com/)
 - [Giomatfois62/rofi-desktop · Github](https://github.com/giomatfois62/rofi-desktop/tree/main)
 - [Buddies Of Budgie](https://buddiesofbudgie.org/)
@@ -980,7 +981,7 @@
 - [Kiss Launcher](https://kisslauncher.com/)
 - [Kvaesitso](https://kvaesitso.mm20.de/)
 - [Nova Launcher](https://novalauncher.com/)
-- [Lawnchair](https://lawnchair.app)
+- [Lawnchair](https://lawnchair.app) / [🔗](https://github.com/LawnchairLauncher/lawnchair)
 - [Niagara Launcher](https://niagaralauncher.app)
 - [Parallel Space](http://parallelspace-app.com)
 - [Smart Launcher](https://www.smartlauncher.net)
@@ -1028,7 +1029,7 @@
 
 #### Desktop launcher
 
-- [Vicinae Documentation](https://docs.vicinae.com/)
+- [Vicinae Documentation](https://docs.vicinae.com/) / [🔗](https://github.com/vicinaehq/vicinae)
 - [Lattix - Mac Resource Launcher To Open Workspace Instantly](https://www.lattix.app/)
 - [Quickfind - Official Site](https://www.quickfind.pp.ua/)
 - [Raycast](https://www.raycast.com/)
@@ -1078,7 +1079,7 @@
 ##### Display Protocol
 
 - [Wayland / Wayland · Gitlab](https://gitlab.freedesktop.org/wayland/wayland)
-- [Wayland - Free Desktop](https://wayland.freedesktop.org/)
+- [Wayland - Free Desktop](https://wayland.freedesktop.org/) / [🔗](https://gitlab.freedesktop.org/wayland)
 - [X Window System Protocol](https://www.x.org/releases/X11R7.7/doc/xproto/x11protocol.html)
 
 ##### Display Server
@@ -1086,7 +1087,7 @@
 
 ###### Wayland Compositor
 
-- ⭐ [Hyprland](https://hypr.land/)
+- ⭐ **[Hyprland](https://hypr.land/)** / [🔗](https://github.com/hyprwm/Hyprland)
 - [Nwg-shell · Github](https://github.com/nwg-piotr/nwg-shell)
 - [Rofi: Rofi-wayland](https://github.com/lbonn/rofi)
 - [Wayfire](https://wayfire.org/)
@@ -1183,12 +1184,12 @@
 
 ###### Tiling window manager
 
-- ⭐ [Zeroxoneafour/polonium: Tiling Window Manager For Kwin 5.27](https://github.com/zeroxoneafour/polonium)
-- ⭐ [Pop-os/shell · Github](https://github.com/pop-os/shell)
-- ⭐ [Forge-ext/forge - Tiling And Window Manager For Gnome-shell](https://github.com/forge-ext/forge)
-- ⭐ [Bismuth-forge/bismuth: Kde Plasma Twm Add-on](https://github.com/Bismuth-Forge/bismuth)
-- ⭐ [Awesome Wm](https://awesomewm.org/)
-- ⭐ [I3 - Improved Tiling Wm](https://i3wm.org/)
+- ⭐ **[Zeroxoneafour/polonium: Tiling Window Manager For Kwin 5.27](https://github.com/zeroxoneafour/polonium)**
+- ⭐ **[Pop-os/shell · Github](https://github.com/pop-os/shell)**
+- ⭐ **[Forge-ext/forge - Tiling And Window Manager For Gnome-shell](https://github.com/forge-ext/forge)**
+- ⭐ **[Bismuth-forge/bismuth: Kde Plasma Twm Add-on](https://github.com/Bismuth-Forge/bismuth)**
+- ⭐ **[Awesome Wm](https://awesomewm.org/)**
+- ⭐ **[I3 - Improved Tiling Wm](https://i3wm.org/)**
 - [Mactiler - Professional Window Management For Macos](https://mactiler.com/)
 - [Anametologin/krohnkite · Github](https://github.com/anametologin/krohnkite)
 - [Mrkai77/loop: Window Management Made Elegant](https://github.com/MrKai77/Loop)
@@ -1239,7 +1240,7 @@
 
 ### Web Desktop System
 
-- ⭐ [Daedalos](https://dustinbrett.com/)
+- ⭐ **[Daedalos](https://dustinbrett.com/)** / [🔗](https://github.com/DustinBrett/daedalOS)
 - [Windows 11 Clone - Web Theme](https://w11-clone.vercel.app/)
 - [Patrick Kage](https://ka.ge/)
 - [Mainos By Maingron](https://maingron.itch.io/mainos)

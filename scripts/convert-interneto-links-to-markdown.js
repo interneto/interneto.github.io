@@ -1,6 +1,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { spawnSync } from 'node:child_process';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT_DIR = path.resolve(__dirname, '..');
@@ -123,6 +124,17 @@ function normalizeFolder(folder) {
     .map((s) => INPUT_CHILD_ALIAS.get(s) || s);
 }
 
+function extractSourceCodeUrl(note) {
+  // Extract URL directly after "Source-code: " from note field
+  if (note) {
+    const sourceCodeMatch = note.match(/Source-code:\s*(\S+)/i);
+    if (sourceCodeMatch && sourceCodeMatch[1]) {
+      return sourceCodeMatch[1];
+    }
+  }
+  return null;
+}
+
 function safeUnlink(filePath) {
   if (fs.existsSync(filePath)) {
     fs.unlinkSync(filePath);
@@ -175,8 +187,21 @@ function renderItems(lines, items) {
   });
 
   for (const item of sorted) {
-    const star = item.favorite ? '⭐ ' : '';
-    lines.push(`- ${star}[${escapeMd(item.title)}](${item.url})`);
+    let line = `- `;
+    
+    // Favorite items are bolded
+    if (item.favorite) {
+      line += `⭐ **[${escapeMd(item.title)}](${item.url})**`;
+    } else {
+      line += `[${escapeMd(item.title)}](${item.url})`;
+    }
+    
+    // Add source-code link if available with separator
+    if (item.sourceCode) {
+      line += ` / [🔗](${item.sourceCode})`;
+    }
+    
+    lines.push(line);
   }
 }
 
@@ -211,6 +236,23 @@ function renderGroupFile(groupName, group, description) {
   return lines.join('\n');
 }
 
+function runLinting() {
+  console.log('\n📋 Running markdown lint...');
+  const result = spawnSync('node', [path.resolve(__dirname, 'lint-markdown.js')], {
+    stdio: 'inherit',
+    cwd: ROOT_DIR
+  });
+  
+  if (result.error) {
+    console.error('❌ Lint failed:', result.error.message);
+    process.exit(1);
+  }
+  
+  if (result.status !== 0) {
+    console.warn('⚠️ Lint warnings found');
+  }
+}
+
 function run() {
   if (!fs.existsSync(INPUT_CSV)) {
     throw new Error(`CSV file not found: ${INPUT_CSV}`);
@@ -236,7 +278,8 @@ function run() {
     const item = {
       title,
       url,
-      favorite: String(row.favorite || '').toLowerCase() === 'true'
+      favorite: String(row.favorite || '').toLowerCase() === 'true',
+      sourceCode: extractSourceCodeUrl(row.note)
     };
 
     addToTree(groups.get(child), folderParts.slice(2), item);
@@ -253,15 +296,11 @@ function run() {
     filesWritten += 1;
   }
 
-  const indexLines = ['# Apps Import', '', '## Categories', ''];
-  for (const category of CATEGORY_CONFIG) {
-    const href = `/${category.file.replace(/\.md$/i, '')}`;
-    indexLines.push(`- [${category.folder}](${href})`);
-  }
-  indexLines.push('');
-  fs.writeFileSync(path.join(OUTPUT_DIR, 'index.md'), indexLines.join('\n'), 'utf8');
 
   console.log(`Converted ${included} links into ${filesWritten} markdown files at: ${OUTPUT_DIR}`);
+  
+  // Run linting on generated files
+  runLinting();
 }
 
 run();

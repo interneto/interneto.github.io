@@ -8,10 +8,13 @@
   "scripts": {
     "convert:apps": "node ./scripts/convert-interneto-links-to-markdown.js",
     "docs:build": "vitepress build docs/",
+    "docs:build:prod": "pnpm clean && pnpm install && vitepress build docs/",
     "docs:dev": "vitepress dev docs/",
     "docs:preview": "vitepress preview docs/",
     "format": "prettier -w --cache --check .",
-    "og:dev": "x-satori -t ./docs/.vitepress/hooks/Template.vue -c ./docs/.vitepress/hooks/satoriConfig.ts --dev"
+    "og:dev": "x-satori -t ./docs/.vitepress/hooks/Template.vue -c ./docs/.vitepress/hooks/satoriConfig.ts --dev",
+    "clean": "rm -rf dist docs/.vitepress/dist docs/.vitepress/cache .pnpm-store",
+    "clean:cache": "rm -rf .pnpm-store .npmrc"
   },
   "dependencies": {
     "@fmhy/colors": "^0.0.11",
@@ -45,6 +48,7 @@
     "@iconify-json/lucide": "^1.2.95",
     "@iconify-json/material-symbols": "^1.2.59",
     "@iconify-json/mdi": "^1.2.3",
+    "@iconify-json/mi": "^1.2.2",
     "@iconify-json/ph": "^1.2.2",
     "@iconify-json/qlementine-icons": "^1.2.14",
     "@iconify-json/simple-icons": "^1.2.72",

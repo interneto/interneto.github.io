@@ -2,6 +2,7 @@
 
 **Total Bookmarks:** 2368
 
+
 ## News-aggregator
 
 - [Old News - Archivo En Línea De Periódicos Históricos](https://www.oldnews.com/es)
@@ -111,15 +112,15 @@
 
 ### Digital Garden
 
-- ⭐ [Projectbubbleburst](https://projectbubbleburst.com/000START+HERE)
-- ⭐ [Hundred Rabbits - 100r](https://100r.co/site/home.html)
-- ⭐ [Xxiivv Wiki - 100r](https://wiki.xxiivv.com/site/home.html)
-- ⭐ [Nikiv - Knowledge Wiki 🌿](https://wiki.nikiv.dev/)
-- ⭐ [Tft Hacker](https://tfthacker.com/Welcome)
-- ⭐ [The Threshold](https://hermitage.utsob.me/)
-- ⭐ [Ole Notes - Digital Garden](https://notes.ole.dev/)
-- ⭐ [Obsidian Hub - Obsidian Publish](https://publish.obsidian.md/hub/00+-+Start+here)
-- ⭐ [Gwern Branwen](https://www.gwern.net/)
+- ⭐ **[Projectbubbleburst](https://projectbubbleburst.com/000START+HERE)**
+- ⭐ **[Hundred Rabbits - 100r](https://100r.co/site/home.html)**
+- ⭐ **[Xxiivv Wiki - 100r](https://wiki.xxiivv.com/site/home.html)**
+- ⭐ **[Nikiv - Knowledge Wiki 🌿](https://wiki.nikiv.dev/)**
+- ⭐ **[Tft Hacker](https://tfthacker.com/Welcome)**
+- ⭐ **[The Threshold](https://hermitage.utsob.me/)**
+- ⭐ **[Ole Notes - Digital Garden](https://notes.ole.dev/)**
+- ⭐ **[Obsidian Hub - Obsidian Publish](https://publish.obsidian.md/hub/00+-+Start+here)**
+- ⭐ **[Gwern Branwen](https://www.gwern.net/)**
 - [/dan/](https://dan.valeena.dev/)
 - [Obsidian-excalidraw](https://excalidraw-obsidian.online/Welcome)
 - [Notas Sobre El Ahora - Ouroboros Lab](https://lab.marconoris.com/now)
@@ -527,7 +528,7 @@
 
 ### Personal blog
 
-- ⭐ [Eleanor Konik - Obsidian Iceberg](https://eleanorkonik.com)
+- ⭐ **[Eleanor Konik - Obsidian Iceberg](https://eleanorkonik.com)**
 - [Paloma Godoy](https://www.palomagodoy.es/)
 - [Velvetshark • Radek Sienkiewicz](https://velvetshark.com/)
 - [Tk.gg](https://tk.gg/)
@@ -724,8 +725,8 @@
 
 #### Developer blog
 
-- ⭐ [Arboretum.link](https://arboretum.link)
-- ⭐ [Sylvain Durand](https://sylvaindurand.org/)
+- ⭐ **[Arboretum.link](https://arboretum.link)**
+- ⭐ **[Sylvain Durand](https://sylvaindurand.org/)**
 - [Charlie Gerard | Senior Frontend Developer & Creative Technologist](https://charliegerard.dev/)
 - [Aaron Swartz](http://www.aaronsw.com/)
 - [Sheldon Hull // Developer](https://www.sheldonhull.com/)
@@ -758,7 +759,7 @@
 
 ### Photo blog
 
-- ⭐ [Beyond Horizons](https://beyondrange.wordpress.com/)
+- ⭐ **[Beyond Horizons](https://beyondrange.wordpress.com/)**
 - [Sharenator](https://sharenator.com)
 - [Ventanas De Aire](https://ventanasdeaire.wordpress.com/)
 - [Fotoaventura](https://fotoaventuras.blogspot.com/)
@@ -769,8 +770,8 @@
 
 ### Productivity blog
 
-- ⭐ [Untools - Tools For Better Thinking](https://untools.co/)
-- ⭐ [Uses This / Interviews](https://usesthis.com/)
+- ⭐ **[Untools - Tools For Better Thinking](https://untools.co/)**
+- ⭐ **[Uses This / Interviews](https://usesthis.com/)**
 - [Leadership By 16personalities | Substack](https://16personalities.substack.com/)
 - [Mindstone Consulting](https://www.mindstoneconsulting.net/)
 - [Obsidian Rocks - Exploring Knowledge Management With Obsidian](https://obsidian.rocks/)
@@ -840,8 +841,8 @@
 
 #### Computing blog
 
-- ⭐ [Jamstack - For Fast And Secure Sites](https://jamstack.org)
-- ⭐ [Dev Notes - Crafted For Coders](https://www.devnotesdaily.com/)
+- ⭐ **[Jamstack - For Fast And Secure Sites](https://jamstack.org)**
+- ⭐ **[Dev Notes - Crafted For Coders](https://www.devnotesdaily.com/)**
 - [Andrej Karpathy Blog](https://karpathy.github.io/)
 - [Php.watch: Php Articles, News, Upcoming Changes, Rfcs, And More](https://php.watch/)
 - [Pid Edins - 0pointer.net](https://0pointer.de/blog/)
@@ -2296,8 +2297,8 @@
 
 ### Tech mag
 
-- ⭐ [Robots: Your Guide To The World Of Robotics](https://robotsguide.com/)
-- ⭐ [Solar Lt Mag](https://solar.lowtechmagazine.com)
+- ⭐ **[Robots: Your Guide To The World Of Robotics](https://robotsguide.com/)**
+- ⭐ **[Solar Lt Mag](https://solar.lowtechmagazine.com)**
 - [Ltt Labs](https://www.lttlabs.com/)
 - [Make: Diy Projects And Ideas For Makers](https://makezine.com/)
 - [404 Media](https://www.404media.co/)
