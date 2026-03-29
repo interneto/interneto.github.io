@@ -13,12 +13,10 @@
 - [World Time Zone](https://www.worldtimezone.com)
 - [Worldtimeserver](https://www.worldtimeserver.com)
 
-## alarm
-
+## Alarm
 - [Online Alarm Clock](https://onlinealarmkur.com/en/)
 
-## calendar
-
+## Calendar
 - ⭐ **[Morgen.so](https://morgen.so/)**
 - [Aeon Timeline](https://timeline.app/)
 - [Amazing Marvin](https://amazingmarvin.com/)
@@ -64,8 +62,7 @@
 - [Twitimer](https://twitimer.com/)
 - [Wincalendar](https://www.wincalendar.com/eu)
 
-## chronometer
-
+## Chronometer
 - [Chronometer](http://chronme.com/)
 - [Chronomètre En Ligne](https://www.chronometre-en-ligne.com/)
 - [Crontab.guru](https://crontab.guru/)
@@ -73,8 +70,7 @@
 - [Timegrid · Github](https://aoueon.github.io/timegrid/)
 - [Vclock](https://vclock.com)
 
-## moon-phases
-
+## Moon phases
 - [Daff Moon Phase For Android](https://www.dafftin.com/)
 - [Fases De La Luna 2020 & 2021](https://www.calendario-365.es/luna/lunar-fases.html)
 - [Fases Lunares](https://www.tutiempo.net/luna/fases.htm)
@@ -82,8 +78,7 @@
 - [Moon Phases Calendar](https://www.spaceweatherlive.com/en/moon-phases-calendar)
 - [Moongiant - Next Full Moon](https://www.moongiant.com)
 
-## sun-time-calculator
-
+## Sun Time calculator
 - [Meteogram - Sol](https://meteogram.es/sol/)
 - [Planit! For Photographers | Plan The Shot!](https://www.planitphoto.com/)
 - [Salida Y Puesta De Sol](https://salidaypuestadelsol.com/sun)
@@ -98,16 +93,14 @@
 - [Table Of Sunrise/sunset - Navy](https://aa.usno.navy.mil/calculated/rstt/year)
 - [Table Of Sunrise/sunset, Moonrise/moonset, Or Twilight Times For An Entire Year](https://aa.usno.navy.mil/data/RS_OneYear)
 
-## time-management
-
+## Time management
 - [Forestapp - Stay Focused, Be Present](https://forestapp.cc)
 - [Habitica](https://habitica.com/)
 - [Plantie](https://plantie.app/)
 - [Run&grow - Run Farther, Grow Stronger](https://www.runandgrow.com/)
 - [Timescribe](https://timescribe.app/)
 
-## time-tracker
-
+## Time tracker
 - ⭐ **[Activitywatch](https://activitywatch.net)** / [🔗](https://github.com/ActivityWatch/activitywatch)
 - ⭐ **[Rize.io - Maximize Your Productivity](https://rize.io/)**
 - [123timer – Online Countdown Timer](https://123timer.com/)
@@ -176,8 +169,7 @@
 - [Workpuls](https://www.workpuls.com)
 - [Zaved707/yet-another-habit-tracker: A Modern Habit Tracker](https://github.com/zaved707/Yet-Another-Habit-Tracker?tab=readme-ov-file)
 
-### screen-time-tracker
-
+### Screen time tracker
 - [Appblock](https://www.appblock.app)
 - [Clearspace - Eliminate Digital Distractions](https://www.getclearspace.com/)
 - [Opal - The #1 Screen Time App](https://www.opal.so/)

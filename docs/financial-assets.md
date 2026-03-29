@@ -6,8 +6,7 @@
 - [Ipip](https://whois.ipip.net)
 - [X-trader](https://www.x-trader.net)
 
-## broker-firms
-
+## Broker Firms
 - [Brokercheck](https://brokercheck.finra.org)
 - [Clicktrade](https://www.clicktrade.es)
 - [Degiro](https://www.degiro.es)
@@ -16,11 +15,9 @@
 - [Iq Broker](https://iqbroker.net)
 - [Xtb](https://www.xtb.com/es)
 
-## cryptocurrency-platform
+## Cryptocurrency platform
 
-
-### blockchain-account
-
+### Blockchain account
 - [Ark.io | Blockchain Ecosystem](https://ark.io/)
 - [Avalon Block Explorer](https://blocks.oneloved.tube/#/)
 - [Bittube.app](https://bittube.app)
@@ -36,8 +33,7 @@
 - [Vechainthor](https://www.vechain.org)
 - [Xoken.org](https://www.xoken.org/)
 
-### cryptocurrency-exchange
-
+### Cryptocurrency exchange
 - ⭐ **[Binance](https://www.binance.com/en)**
 - [Advanced Cash](https://advcash.gi/en/)
 - [Banxa](https://banxa.com/)
@@ -101,8 +97,7 @@
 - [Yuan Pay Group](https://yuanpaygroup.com/)
 - [Zebpay](https://zebpay.com)
 
-### cryptocurrency-explorer
-
+### Cryptocurrency Explorer
 - [| Be Early To The Future Of Finance](https://www.blockchain.com/en)
 - [Arbitrum One (eth) Blockchain Explorer](https://arbiscan.io/)
 - [Base (eth) Blockchain Explorer](https://basescan.org/)
@@ -171,24 +166,21 @@
 - [Xmrchain.net](https://xmrchain.net)
 - [Zcash Blockchain Explorer](https://explorer.zcha.in)
 
-#### filecoin
-
+#### Filecoin
 - [Filecoin](https://filecoin.io)
 - [Filfox - Filecoin Explorer](https://filfox.info/en)
 - [Filscan--filecoin Explorer](https://filscan.io/#/tipset/chain)
 - [Filscout -filecoin Explorer](https://www.filscout.com/en)
 - [Spacegap](https://spacegap.github.io/#/)
 
-### cryptocurrency-wallet
-
+### Cryptocurrency Wallet
 - [Bitaddress.org](https://www.bitaddress.org/bitaddress.org-v3.3.0-SHA256-dec17c07685e1870960903d8f58090475b25af946fe95a734f88408cef4aa194.html) / [🔗](https://github.com/pointbiz/bitaddress.org)
 - [Freewallet | Multi-currency Online Crypto Wallet For Btc, Eth, Xmr And More](https://freewallet.org/)
 - [Liana - Bitcoin Wallet](https://wizardsardine.com/liana/) / [🔗](https://github.com/wizardsardine/liana)
 - [Onjuno](https://onjuno.com/)
 - [Stack Wallet | Open-source, Non-custodial And Privacy-preserving Wallet For Monero, Bitcoin, Bitcoin Cash, Firo, Epic Cash, Namecoin, Wownero, Litecoin, And Dogecoin](https://stackwallet.com/)
 
-#### cold-wallet
-
+#### Cold wallet
 - [Bitlox](https://www.bitlox.com/)
 - [Ellipal | Leader Of Air-gapped Crypto Hardware Wallet](https://www.ellipal.com/)
 - [Keystone: Best Open Source Cold Wallet & Hardware Wallet](https://keyst.one/)
@@ -198,8 +190,7 @@
 - [Trezor.io Hardware Wallet](https://trezor.io/)
 - [Yubico - Strong Two Factor Authentication](https://www.yubico.com/)
 
-#### hot-wallet
-
+#### Hot wallet
 - [Ambire Wallet](https://www.ambire.com/)
 - [Atomicwallet.io](https://atomicwallet.io/)
 - [Avana Wallet](https://www.avanawallet.com/)
@@ -238,8 +229,7 @@
 - [Walletconnect](https://walletconnect.org)
 - [Wasabi Wallet](https://wasabiwallet.io/) / [🔗](https://github.com/WalletWasabi/WalletWasabi)
 
-### cryptos
-
+### Cryptos
 - [Ayusocoin](https://ayusocoin.com)
 - [Bitclout](https://bitclout.com)
 - [Bitcoin](https://bitcoin.org/en)
@@ -283,8 +273,7 @@
 - [Zcash](https://z.cash)
 - [Zksync - Scaling The Ethos And Technology Of Ethereum](https://zksync.io/)
 
-#### bitcoin
-
+#### Bitcoin
 - [Bitcoin Exchange](https://exchange.bitcoin.com)
 - [Bitcoin Games](https://games.bitcoin.com)
 - [Bitcoin Local](https://local.bitcoin.com)
@@ -294,8 +283,7 @@
 - [Bitcoin.com](https://www.bitcoin.com)
 - [Satoshi Nakamoto Institute](https://nakamotoinstitute.org/)
 
-### defi-(decentralized-finance)
-
+### DeFi (Decentralized Finance)
 - [1inch](https://app.1inch.io/#/1/swap/ETH/DAI)
 - [Apache Fineract](https://fineract.apache.org/)
 - [Ayylmaocoin](https://ayylmaocoin.com/)
@@ -336,8 +324,7 @@
 - [Yam Finance](https://yam.finance)
 - [Yfdai.finance](https://yfdai.finance)
 
-### mining-pools
-
+### Mining pools
 - [Antpool](https://v3.antpool.com/home)
 - [Bitcoin Mining](https://www.bitcoinmining.com/)
 - [Btc.com](https://btc.com/)
@@ -351,8 +338,7 @@
 - [Slush Pool](https://slushpool.com/en/home/)
 - [Viabtc](https://viabtcpool.com/)
 
-### nft
-
+### NFT
 - [Atomichub.io](https://wax.atomichub.io)
 - [Bored Ape Yacht Club](https://boredapeyachtclub.com/#/)
 - [Byzantion](https://byzantion.xyz/)
@@ -386,8 +372,7 @@
 - [Vr Nft](https://vr-nft.com)
 - [Zora - Nft Marketplace Protocol](https://zora.co/)
 
-## stock-exchanges
-
+## Stock-exchanges
 - [Asx](https://www2.asx.com.au)
 - [B3](http://www.b3.com.br/pt_br)
 - [Bme](https://www.bolsasymercados.es/esp/Home)
@@ -415,8 +400,7 @@
 - [Twse](https://www.twse.com.tw/en)
 - [Wallmine](https://wallmine.com/)
 
-## trader
-
+## Trader
 - [Activotrade](https://www.activotrade.com/es)
 - [Activtrades](https://www.activtrades.com/es)
 - [Admiral Markets](https://admiralmarkets.es)
@@ -447,14 +431,12 @@
 - [Trive | Gateway To Global Markets](https://trive.com/)
 - [Zonos](https://zonos.com/)
 
-### demo-trading
-
+### Demo trading
 - [Bolsa Virtual](https://www.labolsavirtual.com)
 - [Libertex](https://app.libertex.com)
 - [Mql5](https://www.mql5.com/es/trading)
 
-## visual-trading
-
+## Visual trading
 - ⭐ **[Finviz](https://finviz.com)**
 - ⭐ **[Tradingview](https://www.tradingview.com)**
 - [Companiesmarketcap - Companies Ranked By Market Cap](https://companiesmarketcap.com)

@@ -3,8 +3,7 @@
 **Total Bookmarks:** 2368
 
 
-## news-aggregator
-
+## News-aggregator
 - [Allyoucanread](https://www.allyoucanread.com)
 - [Aol](https://www.aol.com)
 - [Digg](https://digg.com)
@@ -41,11 +40,9 @@
 - [Walla.co.il](https://www.walla.co.il)
 - [Yahoo News](https://news.yahoo.com)
 
-## arts-media
+## Arts media
 
-
-### architecture-mag
-
+### Architecture mag
 - [Archdaily](https://www.archdaily.com)
 - [Archinect](https://archinect.com/)
 - [Architectural Designs](https://www.architecturaldesigns.com/)
@@ -61,16 +58,14 @@
 - [The Architect](https://www.archpaper.com)
 - [Weburbanist](https://weburbanist.com/)
 
-### art-mag
-
+### Art mag
 - [Artfido](https://www.artfido.com)
 - [Asc Mag](https://ascmag.com)
 - [Hyperallergic](https://hyperallergic.com)
 - [My Modern Met](https://mymodernmet.com/)
 - [Yume Magazine](https://www.yumemag.net/)
 
-### design-mag
-
+### Design mag
 - [Adobe 99u](https://99u.adobe.com)
 - [Affinity Spotlight](https://affinityspotlight.com/)
 - [All3dp](https://all3dp.com/)
@@ -101,17 +96,14 @@
 - [Ux Collective](https://uxdesign.cc/)
 - [Wallpaper* Magazine](https://www.wallpaper.com/)
 
-### literature-mag
-
+### Literature mag
 - [London Fictions](https://www.londonfictions.com)
 - [London Review Of Books](https://www.lrb.co.uk)
 - [Sociología Contemporánea](https://sociologiac.net/)
 
-## blogs-media
+## Blogs media
 
-
-### digital-garden
-
+### Digital Garden
 - ⭐ **[Gwern Branwen](https://www.gwern.net/)**
 - ⭐ **[Hundred Rabbits - 100r](https://100r.co/site/home.html)**
 - ⭐ **[Nikiv - Knowledge Wiki 🌿](https://wiki.nikiv.dev/)**
@@ -258,8 +250,7 @@
 - [Xxiivv - Webring](https://webring.xxiivv.com/)
 - [Zytomorrow Dg](https://zytomorrow.top/)
 
-### alternative-blog
-
+### Alternative blog
 - [9-11 Research](http://911research.wtc7.net/)
 - [12bytes.org](https://12bytes.org/)
 - [Aplanetruth.info](https://aplanetruth.info/)
@@ -352,8 +343,7 @@
 - [Verdadesreales.com](https://www.verdadesreales.com/)
 - [Wtc7.net](https://wtc7.net/)
 
-#### fe-blog
-
+#### FE blog
 - [Aether Cosmology - Exploring Our World](https://aethercosmology.com/)
 - [Flat Earth 101](http://flatearth101.com/)
 - [Flat Earth Conspiracy](https://www.flatearthconspiracy.com/)
@@ -363,8 +353,7 @@
 - [Myflat.earth](http://myflatearthbook.blogspot.com/)
 - [Universal Truth School Of Santos Bonacci](https://universaltruthschool.com/)
 
-### camera-blog
-
+### Camera blog
 - [365enfoques](https://365enfoques.com)
 - [Camaras.uno](https://camaras.uno)
 - [Dalekie Obserwacje](https://dalekieobserwacje.eu)
@@ -373,8 +362,7 @@
 - [Quecamarareflex.com](https://quecamarareflex.com)
 - [Xataka Foto](https://www.xatakafoto.com)
 
-### company-blog
-
+### Company blog
 - [Alexa Blog](https://blog.alexa.com)
 - [Blog.google](https://blog.google)
 - [Browserfy](https://browserfy.net)
@@ -415,8 +403,7 @@
 - [Xbox Wire](https://news.xbox.com/en-us)
 - [Yelp Blog](https://blog.yelp.com)
 
-#### company-software-blog
-
+#### Company software blog
 - [1password Blog](https://blog.1password.com/)
 - [Adobe Blog](https://blog.adobe.com)
 - [Angular Blog](https://blog.angular.io/)
@@ -459,12 +446,10 @@
 - [Xfce Blog](https://blog.xfce.org/)
 - [Youtube Blog](https://blog.youtube)
 
-### dancing-blog
-
+### Dancing blog
 - [Sientelbaile](https://sientelbaile.com/)
 
-### english-blog
-
+### English blog
 - [Apreder Idiomas](https://www.quieroaprenderidiomas.com)
 - [El Blog De Idiomas](https://elblogdeidiomas.es)
 - [Elblogdetrinity.com](https://elblogdetrinity.com)
@@ -477,8 +462,7 @@
 - [Salón De Idiomas](https://salondeidiomas.wordpress.com)
 - [Trucos Londres](https://trucoslondres.com)
 
-### health-blog
-
+### Health blog
 - [Biomagnetismo Médico Dr. Carlos Gibaja](https://biomagnetismodrcarlosgibaja.blogspot.com)
 - [Blogfitness](https://placestot.com/)
 - [Estiramientos.es](http://www.estiramientos.es)
@@ -487,12 +471,10 @@
 - [Onsalus](https://www.onsalus.com)
 - [Tucuerpohumano.com](https://tucuerpohumano.com)
 
-### history-blog
-
+### History blog
 - [Finis Fabulas](https://finisfabulas.blogspot.com/)
 
-### law-blog
-
+### Law blog
 - [Blog Contenciosos](https://www.contenciosos.com/blog)
 - [Blog Hay Derecho](https://hayderecho.expansion.com)
 - [Blog Samuel Parra](https://www.samuelparra.com/blog)
@@ -506,28 +488,23 @@
 - [Science And Technology Law Review](https://stlr.org)
 - [Us Patent - Justia](https://patents.justia.com/)
 
-### military-blog
-
+### Military blog
 - [El Blog De Tiro Táctico](https://tirotactico.net/)
 
-### music-blog
-
+### Music Blog
 - [Beatles4site](https://beatles4site.wordpress.com/)
 - [Musicforprogramming();](https://musicforprogramming.net/latest/)
 
-### mystery-blog
-
+### Mystery blog
 - [Snakedos](https://www.planetasnakedos.net/)
 - [Tierra De Misterios](https://tierrademisterios.com/)
 - [Unexplained Mysteries Around The World](https://www.world-mysteries.com/)
 
-### news-blog
-
+### News blog
 - [El Orden Mundial: El Medio De Análisis Internacional En Español](https://elordenmundial.com/)
 - [Noticias Del Mundo](https://www.periodicoelnuevomundo.com)
 
-### personal-blog
-
+### Personal blog
 - ⭐ **[Eleanor Konik - Obsidian Iceberg](https://eleanorkonik.com)**
 - [A Curious Mix](https://acuriousmix.com)
 - [Abhinav Saxena](https://www.abhinavsaxena.com/)
@@ -723,8 +700,7 @@
 - [Zhiyuan Ju's Blog](https://juzhiyuan.me/)
 - [کریستالین](https://blog.eledah.ir/)
 
-#### developer-blog
-
+#### Developer blog
 - ⭐ **[Arboretum.link](https://arboretum.link)**
 - ⭐ **[Sylvain Durand](https://sylvaindurand.org/)**
 - [Aaron Swartz](http://www.aaronsw.com/)
@@ -757,8 +733,7 @@
 - [Timo Schick Blog](http://www.timoschick.com/)
 - [Xetera](https://xetera.dev/)
 
-### photo-blog
-
+### Photo blog
 - ⭐ **[Beyond Horizons](https://beyondrange.wordpress.com/)**
 - [Blog Del Fotógrafo](https://www.blogdelfotografo.com)
 - [Dear Photograph](https://dearphotograph.com)
@@ -768,8 +743,7 @@
 - [Sharenator](https://sharenator.com)
 - [Ventanas De Aire](https://ventanasdeaire.wordpress.com/)
 
-### productivity-blog
-
+### Productivity blog
 - ⭐ **[Untools - Tools For Better Thinking](https://untools.co/)**
 - ⭐ **[Uses This / Interviews](https://usesthis.com/)**
 - [Aprende Notion](https://aprendenotion.com/)
@@ -801,13 +775,11 @@
 - [Zettelkasten Method](https://zettelkasten.de)
 - [Zsolt's Blog](https://www.zsolt.blog/)
 
-### ranking-blog
-
+### Ranking blog
 - [Blog The Gdelt Project](https://blog.gdeltproject.org)
 - [Largest.org](https://largest.org)
 
-### science-blog
-
+### Science blog
 - [100ceros](https://100ceroscom.wordpress.com/)
 - [Alejandro Matemáticas](https://alejandromatematicas.wordpress.com)
 - [Aprender Y Enseñar Matemáticas](https://aprender-ensenyar-matematicas.blogspot.com)
@@ -839,8 +811,7 @@
 - [Worldstandards](https://www.worldstandards.eu)
 - [Xefer](https://xefer.com)
 
-#### computing-blog
-
+#### Computing blog
 - ⭐ **[Dev Notes - Crafted For Coders](https://www.devnotesdaily.com/)**
 - ⭐ **[Jamstack - For Fast And Secure Sites](https://jamstack.org)**
 - [& /dev/null](https://www.thirtythreeforty.net/)
@@ -942,12 +913,10 @@
 - [Z3bradotorg](http://z3bra.org/)
 - [Zeh Fernando](http://zehfernando.com/)
 
-##### big-data-blog
-
+##### Big Data blog
 - [Data Science Central](https://www.datasciencecentral.com/)
 
-##### cybersecurity-blogs
-
+##### Cybersecurity blogs
 - [2-spyware](https://www.2-spyware.com)
 - [Avoidthehack!](https://avoidthehack.com)
 - [Catalog - Spyware Watchdog](https://spyware.neocities.org/articles/)
@@ -991,8 +960,7 @@
 - [Welivesecurity](https://www.welivesecurity.com/la-es)
 - [Youtube Tracking Exposed](https://youtube.tracking.exposed)
 
-##### hacking-blog
-
+##### Hacking blog
 - [Flu Project](https://www.flu-project.com/)
 - [Gofetch - Breaking Constant-time Cryptographic Implementations Using Data Memory-dependent Prefetchers](https://gofetch.fail/)
 - [Hacking/security – Medium](https://medium.com/hacking-info-sec)
@@ -1001,15 +969,13 @@
 - [Splinter_code Blog](https://splintercod3.blogspot.com/)
 - [Yous.be](https://yous.be/)
 
-#### engineering-blog
-
+#### Engineering Blog
 - [Engineering Projects](https://bestengineeringprojects.com/)
 - [Engineers Need Art](https://engineersneedart.com/)
 - [Manual De Vuelo](https://manualvuelo.es/)
 - [Slc Is](https://slc.is/)
 
-#### physics-blogs
-
+#### Physics blogs
 - [Albert Einstein Online](https://westegg.com/einstein/)
 - [Aula Cultural Cassiopeia](https://acassiopeia.wordpress.com)
 - [Bartosz Ciechanowski](https://ciechanow.ski)
@@ -1031,12 +997,10 @@
 - [Rol Science](https://www.rolscience.net)
 - [Scientia](https://scientiablog.com)
 
-### sff-blog
-
+### SFF blog
 - [Rreactor Mag](https://reactormag.com/)
 
-### privacy-guide
-
+### Privacy Guide
 - [Censorship Bypass Guide](https://cbg.fmhy.bid/)
 - [Digital Defense - The Ultimate Personal Security Checklist To Secure Your Digital Life](https://digital-defense.io/)
 - [Hitchhiker’s Guide](https://anonymousplanet.org/guide/)
@@ -1045,8 +1009,7 @@
 - [Self-defense Eff](https://ssd.eff.org)
 - [The New Oil](https://thenewoil.org/en/)
 
-### technology-blog
-
+### Technology blog
 - [Blur Busters](https://blurbusters.com/)
 - [Canaryram](https://canaryram.site)
 - [Data Horde](https://datahorde.org)
@@ -1077,8 +1040,7 @@
 - [Wt.social - Ai](https://wt.social/wt/artificial-intelligence)
 - [Wt.social - Free Software](https://wt.social/wt/free-software)
 
-### travel-blog
-
+### Travel blog
 - [Adondevamoshoytenerife - Blog](https://adondevamoshoytenerife.com/category/listas)
 - [Backpacking New Zealand Travel Guide, Backpacker Hostels, Jobs, Tours, Working Holiday](https://backpackerboard.co.nz/)
 - [Cuaderno De Viajes](https://www.anamoralesblog.com)
@@ -1090,15 +1052,13 @@
 - [Universo Marino](https://universomarino.com/)
 - [Viajerocasual](https://viajerocasual.com/)
 
-### university-blog
-
+### University blog
 - [Gaceta Unam](https://www.gaceta.unam.mx)
 - [Guiuniversitaria.mx](https://guiauniversitaria.mx)
 - [Harvard University Press](https://www.hup.harvard.edu)
 - [Saber Universidad](https://www.saberuniversidad.es)
 
-### weather-blog
-
+### Weather blog
 - [500 Euros Por Un Chemtrail](https://500eurosporunchemtrail.blogspot.com/)
 - [Aemetblog](https://aemetblog.es)
 - [Arctictoday](https://www.arctictoday.com)
@@ -1107,8 +1067,7 @@
 - [La Weather Reports](http://weatherreport.la/)
 - [Meteorología En Red](https://www.meteorologiaenred.com/)
 
-### web-blog
-
+### Web blog
 - [Blog | Notion.so](https://www.notion.so/blog)
 - [Bloguero Pro](https://blogueropro.com)
 - [Made Mistakes](https://mademistakes.com/)
@@ -1122,11 +1081,9 @@
 - [The M&ms Newsletter | Louie Bacaj | Substack](https://newsletter.memesmotivations.com/)
 - [Uncharted Territories | Substack](https://unchartedterritories.tomaspueyo.com/)
 
-## magazine-media
+## Magazine media
 
-
-### alternative-mag
-
+### Alternative mag
 - [21st Century Wire](https://21stcenturywire.com)
 - [Ancient Code](https://www.ancient-code.com)
 - [Aulis Online](https://www.aulis.com/index.html)
@@ -1190,14 +1147,12 @@
 - [Win War](https://win-war.org)
 - [Zerohedge](https://www.zerohedge.com)
 
-#### por-la-verdad
-
+#### Por la Verdad
 - [Biólogos Por La Verdad](https://biologosporlaverdad.es)
 - [Médicos Por La Verdad](https://medicosporlaverdad.net)
 - [Periodistas Por La Verdad](https://periodistasporlaverdad.com)
 
-### business-mag
-
+### Business mag
 - [American Heritage](https://www.americanheritage.com)
 - [Bloomberg](https://www.bloomberg.com/europe)
 - [Bolsamania](https://www.bolsamania.com)
@@ -1235,8 +1190,7 @@
 - [The Land Report](https://landreport.com)
 - [Yahoo Finance](https://finance.yahoo.com)
 
-#### cryptocurrency-news
-
+#### Cryptocurrency news
 - [Beincrypto](https://beincrypto.com/)
 - [Bitcoin Magazine](https://bitcoinmagazine.com)
 - [Bitcoin News](https://news.bitcoin.com)
@@ -1262,8 +1216,7 @@
 - [Territorio Bitcoin](https://www.territoriobitcoin.com)
 - [The Block Crypto](https://www.theblockcrypto.com/)
 
-### education-mag
-
+### Education mag
 - [Addicted 2 Success](https://addicted2success.com/)
 - [Educación 3.0](https://www.educaciontrespuntocero.com)
 - [Familyeducation](https://www.familyeducation.com)
@@ -1272,16 +1225,14 @@
 - [Tes | News](https://www.tes.com/news)
 - [Thoughtco](https://www.thoughtco.com)
 
-#### university-ranking-mag
-
+#### University ranking mag
 - [Shanghai Ranking](http://www.shanghairanking.com)
 - [Times Higher Education](https://www.timeshighereducation.com)
 - [U-ranking](https://www.u-ranking.es/)
 - [Unirank](https://www.4icu.org)
 - [Uniworld](http://uniworlduk.es)
 
-### entertainment-mag
-
+### Entertainment mag
 - [Aeon | A World Of Ideas](https://aeon.co/)
 - [Codigopoker](https://www.codigopoker.com)
 - [Complex](https://www.complex.com)
@@ -1312,12 +1263,10 @@
 - [Wornontv](https://wornontv.net)
 - [Yasss](https://www.yasss.es/)
 
-#### anime-mag
-
+#### Anime mag
 - [Somoskudasai.com](https://somoskudasai.com/)
 
-#### cinema-mag
-
+#### Cinema mag
 - [A.v. Club Film](https://film.avclub.com)
 - [Academia De Cine](https://www.academiadecine.com)
 - [Cine.com](https://www.cine.com)
@@ -1332,8 +1281,7 @@
 - [Trailers From Hell](https://trailersfromhell.com)
 - [Watch The Titles!](https://www.watchthetitles.com)
 
-#### music-mag
-
+#### Music mag
 - [All About Jazz](https://www.allaboutjazz.com)
 - [Allmusic](https://www.allmusic.com)
 - [Billboard](https://www.billboard.com/)
@@ -1351,15 +1299,13 @@
 - [Todomusica](https://www.todomusica.org)
 - [Vibe](https://www.vibe.com)
 
-#### reading-mag
-
+#### Reading mag
 - [Círculo De Lectores](https://www.circulo.es)
 - [Cosmere - Brandon Sanderson Fan](https://cosmere.es)
 - [Electric Literature](https://electricliterature.com/)
 - [The Bookseller](https://www.thebookseller.com)
 
-#### satire-&-humour-news
-
+#### Satire & Humour News
 - [El Chigüire Bipolar](https://www.elchiguirebipolar.net)
 - [El Dizque](https://www.eldizque.com/)
 - [El Jueves](https://www.eljueves.es)
@@ -1370,12 +1316,10 @@
 - [The Daily Mash](https://www.thedailymash.co.uk)
 - [The Dailyer](http://thedailyer.com)
 
-#### stylish-mag
-
+#### Stylish mag
 - [Gq España - Revista De Tendencias, Moda, Actualidad Y Estilo De Vida](https://www.revistagq.com/)
 
-##### celebrity-mag
-
+##### Celebrity mag
 - [Biogossipy](https://biogossipy.com)
 - [Buzzfeed](https://www.buzzfeed.com/tvandmovies)
 - [Capital Fm](https://www.capitalfm.com)
@@ -1413,8 +1357,7 @@
 - [What's On Weibo](https://www.whatsonweibo.com)
 - [Xoxo](https://xoxo.news)
 
-##### fashion-mag
-
+##### Fashion mag
 - [Basic Magazine](http://basic-magazine.com)
 - [Cafe.se](https://www.cafe.se)
 - [Cosmopolitan](https://www.cosmopolitan.com)
@@ -1444,15 +1387,13 @@
 - [Vanity Fair Revista](https://www.revistavanityfair.es)
 - [W Magazine](https://www.wmagazine.com)
 
-##### lifestyle-mag
-
+##### Lifestyle mag
 - [Cup Of Jo](https://cupofjo.com/)
 - [Divinity](https://www.divinity.es/)
 - [National Today](https://nationaltoday.com/)
 - [Uppers](https://www.uppers.es/)
 
-###### men-mag
-
+###### Men mag
 - [Askmen](https://www.askmen.com)
 - [For Him Magazine](http://fhm.com)
 - [Gq - Men's Fashion, Style, Grooming, Fitness, Entertainment, Lifestyle, News & Politics](https://www.gq.com/)
@@ -1460,15 +1401,13 @@
 - [Men's Health](https://www.menshealth.com)
 - [Suburban Men](https://www.suburbanmen.com)
 
-###### women-mag
-
+###### Women mag
 - [Playboy](https://www.playboy.com)
 - [Stylia.fr](https://www.stylia.fr)
 - [Women's Health](https://www.womenshealthmag.com)
 - [World Swimsuit](https://worldswimsuit.com/)
 
-##### popular-culture
-
+##### Popular culture
 - [Bored Panda](https://www.boredpanda.com)
 - [Brightside](https://brightside.me)
 - [Comingsoon.net](https://www.comingsoon.net)
@@ -1492,8 +1431,7 @@
 - [Vice](https://www.vice.com/es)
 - [Wired](https://www.wired.com)
 
-### fact-checker
-
+### Fact checker
 - [Afp Fact Check](https://factcheck.afp.com/)
 - [Bellingcat](https://www.bellingcat.com)
 - [Catholic Factchecking](https://catholic-factchecking.com/)
@@ -1511,16 +1449,14 @@
 - [Snopes](https://www.snopes.com)
 - [Verificat](https://www.verificat.cat)
 
-#### debunk-blog
-
+#### Debunk blog
 - [Bumidatar.id](https://bumidatar.id/)
 - [Debunking Flat Earth](https://flatearth.ws/)
 - [Flat Earth Lunacy](https://flatearthlunacy.com/)
 - [Metabunk.org](https://www.metabunk.org/home/)
 - [Refutando La Tierra Plana](https://refutandotp.blogspot.com/)
 
-### health-mag
-
+### Health mag
 - [Az Salud](https://azsalud.com)
 - [Caloriebee](https://caloriebee.com)
 - [Children's Health Defense](https://childrenshealthdefense.org)
@@ -1551,14 +1487,12 @@
 - [Webconsultas](https://www.webconsultas.com)
 - [Webmd](https://www.webmd.com)
 
-#### nutrition-mag
-
+#### Nutrition mag
 - [Badali](http://badali.umh.es)
 - [Eater](https://www.eater.com)
 - [Tu Nutricionista Integrativa](https://tunutricionistaintegrativa.com/)
 
-#### recipes-mag
-
+#### Recipes mag
 - [Afuegolento](https://www.afuegolento.com/recetas)
 - [De Rechupete - Recetas De Cocina Casera Que Siempre Salen](https://www.abc.es/recetasderechupete/)
 - [El Aderezo](https://www.eladerezo.com)
@@ -1570,8 +1504,7 @@
 - [Wetaca](https://wetaca.com/)
 - [Wikicocina](http://wikicocina.com)
 
-### how-to-guide
-
+### How to Guide
 - [Best Reviews Guide](https://www.bestreviews.guide)
 - [Doityourself.com](https://www.doityourself.com)
 - [Ehow](https://www.ehow.com)
@@ -1580,12 +1513,10 @@
 - [Lifehack](https://www.lifehack.org)
 - [Wonder How To](https://www.wonderhowto.com)
 
-### journalism-mag
-
+### Journalism mag
 - [Exposing The Invisible](https://exposingtheinvisible.org/en)
 
-### juridical-news
-
+### Juridical news
 - [Ámbito Jurídico](https://www.ambitojuridico.com)
 - [Diario Jurídico](https://www.diariojuridico.com)
 - [Economist & Jurist](https://www.economistjurist.es)
@@ -1595,8 +1526,7 @@
 - [Noticias Jurídicas](https://noticias.juridicas.com)
 - [True Scoop](https://www.truescoopnews.com)
 
-### military-mag
-
+### Military mag
 - [African Aerospace](https://www.africanaerospace.aero)
 - [Air Force Magazine](https://www.airforcemag.com)
 - [Air Force Technology](https://www.airforce-technology.com)
@@ -1622,8 +1552,7 @@
 - [Stripes](https://www.stripes.com)
 - [We Are The Mighty](https://www.wearethemighty.com)
 
-### mystic-mag
-
+### Mystic mag
 - [Cadena Aurea](http://cadenaaurea.com)
 - [Guía Sobre El Crecimiento Espiritual Y La Ley De La Atracción](https://senderosespirituales.com/)
 - [Ikerjimenez.com](https://www.ikerjimenez.com)
@@ -1637,8 +1566,7 @@
 - [Wemystic](https://www.wemystic.com/)
 - [Wicca Escuela De Magia Ofiuco](https://ofiuco.com)
 
-#### astrology-mag
-
+#### Astrology mag
 - [Astro-charts](https://www.astro-charts.com)
 - [Astro-seek](https://www.astro-seek.com)
 - [Astrocentro](https://mi.astrocentro.com/)
@@ -1649,8 +1577,7 @@
 - [Cafe Astrology](https://cafeastrology.com/)
 - [Horoscope.com](https://www.horoscope.com/us/index.aspx)
 
-#### consciousness-mag
-
+#### Consciousness mag
 - [3d To 5d Consciousness](https://www.3dto5dconsciousness.com)
 - [Artur Sala](https://www.artursala.com)
 - [Borja Vilaseca](https://borjavilaseca.com)
@@ -1671,8 +1598,7 @@
 - [Waoplanet](https://waoplanet.com)
 - [Yosoy](https://yosoy.red/)
 
-### politics-mag
-
+### Politics mag
 - [Foreign Policy](https://foreignpolicy.com)
 - [Global Issues](https://www.globalissues.org)
 - [Life](https://www.life.com)
@@ -1683,17 +1609,14 @@
 - [Swiss Policy Research](https://swprs.org)
 - [The New Humanitarian](https://www.thenewhumanitarian.org)
 
-#### environment-mag
-
+#### Environment mag
 - [Retime.org](https://retime.org/)
 
-### psycology-mag
-
+### Psycology mag
 - [Sueños Significados](https://suenosignificado.com/)
 - [Themindfool](https://themindfool.com/)
 
-### religion-mag
-
+### Religion mag
 - [Adoración Y Liberación](https://adoracionyliberacion.com)
 - [Antiguas Religiones Del Mundo](https://sites.google.com/site/antiguasreligionesdelmundo)
 - [Chabad Lubavitch](http://www.chabad.org)
@@ -1707,8 +1630,7 @@
 - [World Last Chance](https://www.worldslastchance.com)
 - [Zarathushtra](https://www.zarathushtra.com)
 
-### travel-mag
-
+### Travel mag
 - [Afar](https://www.afar.com)
 - [Budget Travel](https://www.budgettravel.com)
 - [Cruising World](https://www.cruisingworld.com)
@@ -1722,11 +1644,9 @@
 - [Travel Magazine](https://travelmagazine.com)
 - [Yachting](https://www.yachtingmagazine.com)
 
-## science-media
+## Science media
 
-
-### mainstream-science
-
+### Mainstream science
 - [Bbvaopenmind](https://www.bbvaopenmind.com)
 - [Bioguia](https://www.bioguia.com/)
 - [C&en](https://cen.acs.org/index.html)
@@ -1756,8 +1676,7 @@
 - [Soulsask.com](https://soulask.com)
 - [Welt Der Physik](https://www.weltderphysik.de)
 
-### popular-science
-
+### Popular science
 - [Curiosity Daily](https://www.curiositydaily.com)
 - [Hhmi Biointeractive](https://www.biointeractive.org)
 - [Howstuffworks](https://www.howstuffworks.com)
@@ -1772,16 +1691,13 @@
 - [Serious Science](http://serious-science.org)
 - [Sinc](https://www.agenciasinc.es)
 
-### science-communication
-
+### Science communication
 - [Big Van Ciencia](http://www.bigvanciencia.com)
 - [Tested](https://www.tested.com)
 
-### scientific-mag
+### Scientific mag
 
-
-#### astronomy-mag
-
+#### Astronomy mag
 - [Air & Space Magazine](https://www.airspacemag.com)
 - [Amsat](https://www.amsat.org)
 - [Astrobitácora](https://www.astrobitacora.com/)
@@ -1801,35 +1717,30 @@
 - [The Space Review](https://www.thespacereview.com/index.html)
 - [Universe Today](https://www.universetoday.com)
 
-##### space-mag
-
+##### Space mag
 - [Astronoo](http://www.astronoo.com/en/)
 - [Eclipsewise - Solar And Lunar Eclipses](http://eclipsewise.com/)
 - [Mreclipse.com](https://www.mreclipse.com/)
 - [Spaceflight Insider](https://www.spaceflightinsider.com/)
 - [Supercluster](https://www.supercluster.com/)
 
-##### ufo-mag
-
+##### UFO mag
 - [Scientific Coalition For Uap](https://www.explorescu.org)
 - [Uap News](https://uap.news)
 - [Ufo Congress](https://ufocongress.com)
 - [Ufoholic](https://ufoholic.com/)
 - [Ummo-ciencias](https://ummo-ciencias.org)
 
-#### chemistry-mag
-
+#### Chemistry mag
 - [Chemistry World](https://www.chemistryworld.com)
 
-#### engineering-mag
-
+#### Engineering mag
 - [Arquitectura Viva](http://www.arquitecturaviva.com)
 - [Engineering](https://www.engineering.com)
 - [Engineering News-record](https://www.enr.com)
 - [Ieee Spectrum](https://spectrum.ieee.org)
 
-### scientific-publication
-
+### Scientific publication
 - [American Meteorological Society - Journals](https://journals.ametsoc.org)
 - [American Scientist](https://www.americanscientist.org)
 - [Cell Press](https://www.cell.com)
@@ -1861,18 +1772,15 @@
 - [Wiley Online Library - Agu Publications](https://agupubs.onlinelibrary.wiley.com)
 - [Zenodo](https://zenodo.org)
 
-#### chemistry-pub
-
+#### Chemistry pub
 - [Acs - Pubs](https://pubs.acs.org)
 
-#### maths-pub
-
+#### Maths pub
 - [Plus Maths Mag](https://plus.maths.org/content)
 - [Quanta Magazine](https://www.quantamagazine.org)
 - [The Book Of Threes](https://www.bookofthrees.com)
 
-#### medicine-pub
-
+#### Medicine pub
 - [Aha/asa Journals](https://www.ahajournals.org)
 - [American College Of Physicians](https://annals.org/aim)
 - [Embo Press](https://www.embopress.org)
@@ -1886,13 +1794,11 @@
 - [The Lancet](https://www.thelancet.com)
 - [The New England Journal Of Medicine](https://www.nejm.org)
 
-#### physics-pub
-
+#### Physics pub
 - [Cern Courier](https://cerncourier.com)
 - [Physics Today](https://physicstoday.scitation.org/journal/pto)
 
-#### pub-repository
-
+#### Pub repository
 - [Arxiv.org](https://arxiv.org)
 - [Biorxiv.org](https://www.biorxiv.org)
 - [Frontiers](https://www.frontiersin.org)
@@ -1905,13 +1811,11 @@
 - [Springer Link](https://link.springer.com)
 - [Ssrn](https://www.ssrn.com/index.cfm/en/)
 
-### university-science
-
+### University science
 - [Byu Physics And Astronomy](http://www.physics.byu.edu)
 - [Conec](https://conec.uv.es/)
 
-## sports-media
-
+## Sports media
 - [Air Sports Net](https://www.usairnet.com/)
 - [Autosport](https://www.autosport.com)
 - [Barstool Sports](https://www.barstoolsports.com)
@@ -1974,22 +1878,19 @@
 - [Yachting And Boating World](https://www.ybw.com)
 - [Yogapedia](https://www.yogapedia.com)
 
-### basket-mag
-
+### Basket mag
 - [Ballislife](https://ballislife.com)
 - [Eurobasket](https://www.eurobasket.com)
 - [Nba News](https://www.nba.com/news)
 - [Nba Stories](https://stories.nba.com/)
 - [Thirty Five Ventures](https://thirtyfiveventures.com)
 
-### chess-mag
-
+### Chess mag
 - [Chess News](https://en.chessbase.com/)
 - [Chess-results Server](https://chess-results.com/)
 - [Chessdom - Chess, Chess News, Live Chess Games](https://www.chessdom.com/)
 
-### football-mag
-
+### Football mag
 - [As.com - Diario Online Deportivo](https://as.com)
 - [Eldesmarque](https://www.eldesmarque.com/)
 - [Fourfourtwo](https://www.fourfourtwo.com)
@@ -2000,29 +1901,25 @@
 - [Sport](https://www.sport.es/es/)
 - [Sportmob](https://sportmob.com/en)
 
-### golf-mag
-
+### Golf mag
 - [Golf](https://golf.com)
 - [Golfdigest](https://www.golfdigest.com)
 - [Today's Golfer](https://www.todaysgolfer.co.uk)
 
-### judo-mag
-
+### Judo mag
 - [Judo Info](https://judoinfo.com)
 - [Judo Techniques](https://judo.ijf.org)
 - [Judoenlignes](https://www.judoenlignes.com)
 - [Judoinside](https://www.judoinside.com)
 - [Kodokan Judo Institute](http://www.kodokanjudoinstitute.org/en)
 
-### running-mag
-
+### Running mag
 - [Finishers - Calendario De Carreras: Senderos, Semi, Maratones, Caminata Nórdica](https://www.finishers.com/es)
 - [Performance Home - Performance By Sneaker Freaker](https://www.sneakerfreaker.com/performance)
 - [Running.life - Calendario De Carreras](https://running.life/es)
 - [Zona Runners: Noticias Diarias Running Y Calendario De Carreras](https://zonarunners.es/)
 
-### surf-mag
-
+### Surf mag
 - [3sesenta](https://www.3sesenta.com)
 - [Cerveza Salada](https://www.cervezasalada.com)
 - [Lucía Martiño](https://www.luciamartino.com)
@@ -2037,11 +1934,9 @@
 - [Wipeout Surf Magazine](https://wipeoutsurfmag.com)
 - [World Surf League](https://www.worldsurfleague.com)
 
-## tech-media
+## Tech media
 
-
-### audio-mag
-
+### Audio mag
 - [Adam Audio](https://www.adam-audio.com/en)
 - [Ask.audio](https://ask.audio)
 - [Cambridge Audio](https://www.cambridgeaudio.com/row/en)
@@ -2055,19 +1950,16 @@
 - [Pro Audio Files](https://theproaudiofiles.com)
 - [Soundphile Review](https://www.soundphilereview.com)
 
-### biotech-mag
-
+### Biotech mag
 - [Biohackinfo](https://biohackinfo.com)
 
-### camera-magazine
-
+### Camera magazine
 - [Decamaras](https://www.decamaras.com/CMS/index.php)
 - [Digital Camera Database](https://www.digicamdb.com)
 - [Digital Cameras](https://www.imaging-resource.com)
 - [Digital Photography Review](https://www.dpreview.com)
 
-### computer-mag
-
+### Computer mag
 - [A List Apart](https://alistapart.com)
 - [Adslzone](https://www.adslzone.net)
 - [Bleepingcomputer](https://www.bleepingcomputer.com/)
@@ -2106,8 +1998,7 @@
 - [Tom's Hardware](https://www.tomshardware.com)
 - [Videocardz](https://videocardz.com)
 
-#### linux-mag
-
+#### Linux mag
 - [9to5linux - Linux News, Reviews, Tutorials, And More](https://9to5linux.com/)
 - [Average Linux User](https://averagelinuxuser.com/)
 - [Debugpoint.com](https://www.debugpoint.com/)
@@ -2183,13 +2074,11 @@
 - [Vitux](https://vitux.com/)
 - [Xmodulo](https://www.xmodulo.com/)
 
-#### windows-mag
-
+#### Windows mag
 - [Windows Central](https://www.windowscentral.com)
 - [Windowsclub](https://www.thewindowsclub.com)
 
-### gaming-mag
-
+### Gaming mag
 - [3djuegos](https://www.3djuegos.com)
 - [Areajugones](https://areajugones.sport.es)
 - [Digistatement](https://digistatement.com)
@@ -2236,8 +2125,7 @@
 - [Vulkk.com](https://vulkk.com/)
 - [Xgn](https://www.xgn.es)
 
-### informatic-guides
-
+### Informatic guides
 - [Bitactro](https://bitactro.com)
 - [Codec Guide](https://www.codecguide.com/)
 - [Codegena](https://codegena.com)
@@ -2246,13 +2134,11 @@
 - [Landchad.net](https://landchad.net/)
 - [Solvetic](https://www.solvetic.com)
 
-### internet-mag
-
+### Internet mag
 - [Blockonomi](https://blockonomi.com)
 - [Circleid](https://www.circleid.com)
 
-### phones-mag
-
+### Phones mag
 - [Andro4all](https://andro4all.com)
 - [Android Authority](https://www.androidauthority.com)
 - [Android Básico](https://androidbasico.com)
@@ -2270,8 +2156,7 @@
 - [Tutecnomundo - Android, Noticias Y Tutoriales](https://tutecnomundo.com/)
 - [Xda-developers](https://www.xda-developers.com)
 
-### popular-tech-mag
-
+### Popular Tech mag
 - [9to5google](https://9to5google.com/)
 - [Ars Technica](https://arstechnica.com)
 - [Beebom](https://beebom.com)
@@ -2295,8 +2180,7 @@
 - [Xataka](https://www.xataka.com)
 - [Zdnet](https://www.zdnet.com/)
 
-### tech-mag
-
+### Tech mag
 - ⭐ **[Robots: Your Guide To The World Of Robotics](https://robotsguide.com/)**
 - ⭐ **[Solar Lt Mag](https://solar.lowtechmagazine.com)**
 - [01net](https://www.01net.com/)
@@ -2366,11 +2250,9 @@
 - [Venturebeat](https://venturebeat.com/)
 - [Wikiversus](https://www.wikiversus.com)
 
-### vehicle-mag
+### Vehicle mag
 
-
-#### aviation-mag
-
+#### Aviation mag
 - [Aeroespacio](http://www.aeroespacio.com.ar)
 - [Aerotendencias](https://www.aerotendencias.com)
 - [Airfields-freeman](http://www.airfields-freeman.com)
@@ -2390,8 +2272,7 @@
 - [Noticias Aéreas](https://noticiasaereas.com)
 - [Private Jet Card](https://prijet.com/)
 
-#### car-mag
-
+#### Car mag
 - [8000vueltas](https://8000vueltas.com)
 - [Autoweek](https://www.autoweek.com)
 - [Car And Driver](https://www.caranddriver.com)
@@ -2411,8 +2292,7 @@
 - [Top Gear](https://www.topgear.com/car-news)
 - [Topspeed](https://www.topspeed.com)
 
-#### ship-mag
-
+#### Ship mag
 - [Boat International](https://www.boatinternational.com/)
 - [Boats.com](https://es.boats.com)
 - [Cosas De Barcos](https://www.cosasdebarcos.com)
@@ -2422,14 +2302,12 @@
 - [Superyachts.com](https://www.superyachts.com/)
 - [The Maritime Executive](https://www.maritime-executive.com)
 
-### web-dev-mag
-
+### Web dev mag
 - [Codesource.io](https://codesource.io/)
 - [Make A Website Hub](https://makeawebsitehub.com)
 - [Programmableweb](https://www.programmableweb.com)
 
-## world-newspaper
-
+## World Newspaper
 - [Africa.com](https://africa.com)
 - [Afrol News](http://www.afrol.com)
 - [Aftenposten](https://www.aftenposten.no)
@@ -2496,8 +2374,7 @@
 - [Wion](https://www.wionews.com/)
 - [Yomiuri Shimbun](https://www.yomiuri.co.jp)
 
-### china-news
-
+### China news
 - [56.com](https://www.56.com)
 - [360 Kuai](https://www.360kuai.com)
 - [Cctv](https://www.cctv.com)
@@ -2526,8 +2403,7 @@
 - [Xinhua](http://www.xinhuanet.com)
 - [Zhihu Zhuanlan](https://zhuanlan.zhihu.com)
 
-### deutsch-news
-
+### Deutsch news
 - [Bild.de](https://www.bild.de/)
 - [Dw Deutsche Welle](https://www.dw.com/de/themen/s-9077)
 - [Frantfurt Allgemeine](https://www.faz.net/aktuell)
@@ -2537,8 +2413,7 @@
 - [Taz.de](https://taz.de)
 - [Zeit.de](https://www.zeit.de/index)
 
-### france-news
-
+### France news
 - [20 Minutes](https://www.20minutes.fr)
 - [Afp](https://www.afp.com)
 - [Bfmtv](https://www.bfmtv.com)
@@ -2554,8 +2429,7 @@
 - [Le Parisien](http://www.leparisien.fr)
 - [Les Dna](https://www.dna.fr)
 
-### greek-news
-
+### Greek news
 - [Athens Voice](https://www.athensvoice.gr)
 - [Ekathimerini.com](https://www.ekathimerini.com)
 - [Flash.gr](https://www.flash.gr)
@@ -2568,8 +2442,7 @@
 - [Star.gr](https://www.star.gr)
 - [Zougla](https://www.zougla.gr)
 
-### india-news
-
+### India news
 - [Hindustan Times](https://www.hindustantimes.com/)
 - [Indiatimes.com](https://www.indiatimes.com/)
 - [Indiatoday](https://www.indiatoday.in/)
@@ -2578,12 +2451,10 @@
 - [The Indian Express](https://indianexpress.com/)
 - [Zee News](https://zeenews.india.com/)
 
-### korea-news
-
+### Korea news
 - [Naver](https://www.naver.com/)
 
-### latan-news
-
+### LATAN News
 - [Eltiempo.com](https://www.eltiempo.com)
 - [La Nación Arg](https://www.lanacion.com.ar/)
 - [Starmedia](https://www.starmedia.com)
@@ -2591,15 +2462,13 @@
 - [Telemundo](https://www.telemundo.com)
 - [Univision](https://www.univision.com)
 
-### russia-news
-
+### Russia news
 - [Republic.ru](https://republic.ru/)
 - [Rt](https://www.rt.com)
 - [Sputnik](https://sputniknews.com)
 - [The Moscow Times](https://www.themoscowtimes.com)
 
-### spain-news
-
+### Spain news
 - [20minutos](https://www.20minutos.es)
 - [Abc](https://www.abc.es)
 - [Actuall](https://www.actuall.com)
@@ -2661,8 +2530,7 @@
 - [Vozpópuli](https://www.vozpopuli.com)
 - [W Radio Mx](https://wradio.com.mx)
 
-### uk-news
-
+### UK news
 - [Bbc](https://www.bbc.com/)
 - [City A.m.](https://www.cityam.com)
 - [Express.co.uk](https://www.express.co.uk)
@@ -2676,8 +2544,7 @@
 - [The Telegraph](https://www.telegraph.co.uk)
 - [Ukcolumn](https://www.ukcolumn.org)
 
-### usa-news
-
+### USA news
 - [6sqft](https://www.6sqft.com)
 - [Abc News](https://abcnews.go.com)
 - [Adge](https://adage.com)
