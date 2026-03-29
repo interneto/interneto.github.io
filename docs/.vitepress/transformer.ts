@@ -1,3 +1,5 @@
+import { replaceUnderscore } from './transformer/core'
+
 /**
  *  Copyright (c) 2025 taskylizard. Apache License 2.0.
  *
@@ -37,17 +39,13 @@ const generatedCategoryPages = new Set([
   'utility.md'
 ])
 
-import { replaceUnderscore } from './transformer/core'
-
 export const transform = (text: string) => replaceUnderscore(text)
 
 export const transformGuide = (text: string) => {
   if (!text.includes('Beginners Guide')) return text
 
   // Normalize legacy markdown links in the guide to keep search indexing stable.
-  return text
-    .replaceAll('](#', '](/#')
-    .replaceAll('_', '-')
+  return text.replaceAll('](#', '](/#').replaceAll('_', '-')
 }
 
 export { generatedCategoryPages }

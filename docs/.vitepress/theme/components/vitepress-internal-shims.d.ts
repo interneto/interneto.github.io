@@ -53,5 +53,7 @@ declare module 'vitepress/dist/client/theme-default/support/lru' {
 }
 
 declare module 'vitepress/dist/client/theme-default/support/translation' {
-  export function createSearchTranslate(translations: any): (key: string) => string
+  export function createSearchTranslate(
+    translations: any
+  ): (key: string) => string
 }

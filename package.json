@@ -13,8 +13,8 @@
     "docs:preview": "vitepress preview docs/",
     "format": "prettier -w --cache --check .",
     "og:dev": "x-satori -t ./docs/.vitepress/hooks/Template.vue -c ./docs/.vitepress/hooks/satoriConfig.ts --dev",
-    "clean": "rm -rf dist docs/.vitepress/dist docs/.vitepress/cache .pnpm-store",
-    "clean:cache": "rm -rf .pnpm-store .npmrc"
+    "clean": "rimraf dist docs/.vitepress/dist docs/.vitepress/cache .pnpm-store",
+    "clean:cache": "rimraf .pnpm-store .npmrc"
   },
   "dependencies": {
     "@fmhy/colors": "^0.0.11",
@@ -61,6 +61,7 @@
     "prettier": "^3.8.1",
     "prettier-plugin-pkgsort": "^0.3.0",
     "prettier-plugin-tailwindcss": "^0.7.2",
+    "rimraf": "^5.0.5",
     "sass": "^1.97.3",
     "typescript": "^5.9.3",
     "unplugin-auto-import": "^21.0.0",

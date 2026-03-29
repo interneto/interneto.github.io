@@ -14,7 +14,7 @@ const data = [
   {
     name: 'nbats',
     github: 'https://github.com/david7ce'
-  },
+  }
 ] satisfies Author[]
 
 const authors = computed(() =>

@@ -1,10 +1,10 @@
 <script setup lang="ts">
 import { useData } from 'vitepress'
-import { ref, onMounted, onUnmounted, provide, nextTick } from 'vue'
 import DefaultTheme from 'vitepress/theme'
+import { nextTick, onMounted, onUnmounted, provide, ref } from 'vue'
 import Announcement from './components/Announcement.vue'
-import Sidebar from './components/SidebarCard.vue'
 import Base64Dialog from './components/Base64Dialog.vue'
+import Sidebar from './components/SidebarCard.vue'
 import { useTheme } from './themes/themeHandler'
 
 const { isDark } = useData()
@@ -55,17 +55,20 @@ const handleClick = (e: MouseEvent) => {
   // Check if the clicked element is a link or within a link
   const target = e.target as HTMLElement
   const link = target.closest ? target.closest('a') : null
-  
+
   if (link) {
     const href = (link as HTMLAnchorElement).href
-    
+
     if (typeof href === 'string') {
-      if (href.includes('https://rentry.co/FMHYB64') || href.startsWith('https://rentry.co/FMHYB64')) {
+      if (
+        href.includes('https://rentry.co/FMHYB64') ||
+        href.startsWith('https://rentry.co/FMHYB64')
+      ) {
         const dontShow = localStorage.getItem('fmhy-base64-dialog-preference')
         if (dontShow === 'true') {
           return // Let the link click proceed normally
         }
-        
+
         e.preventDefault()
         e.stopPropagation()
         formattedUrl.value = href
@@ -94,13 +97,16 @@ onUnmounted(() => {
     </template>
     <template #home-features-before>
       <p class="text-center text-lg text-text-2 mb-2">
-        Or browse these pages
-        ✨
+        Browse these categories of software ✨
       </p>
     </template>
     <Content />
   </Layout>
-  <Base64Dialog :show="showBase64Dialog" :url="formattedUrl" @close="showBase64Dialog = false" />
+  <Base64Dialog
+    :show="showBase64Dialog"
+    :url="formattedUrl"
+    @close="showBase64Dialog = false"
+  />
 </template>
 
 <style>

@@ -28,7 +28,6 @@ declare module '*.vue' {
   export default component
 }
 
-
 declare module 'vitepress/dist/client/theme-default/composables/nav' {
   export function useNav(): {
     isScreenOpen: import('vue').Ref<boolean>
@@ -101,5 +100,7 @@ declare module 'vitepress/dist/client/theme-default/support/lru' {
 }
 
 declare module 'vitepress/dist/client/theme-default/support/translation' {
-  export function createSearchTranslate(translations: any): (key: string) => string
+  export function createSearchTranslate(
+    translations: any
+  ): (key: string) => string
 }

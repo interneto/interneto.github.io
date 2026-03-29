@@ -61,7 +61,11 @@ onBeforeUnmount(() => {
         :key="color"
         :aria-label="`Set brand color ${color}`"
         class="h-6 w-6 cursor-pointer rounded-full border border-$vp-c-divider"
-        :class="active === color ? 'ring-2 ring-$vp-c-brand-1 ring-offset-2 ring-offset-$vp-c-bg' : ''"
+        :class="
+          active === color
+            ? 'ring-2 ring-$vp-c-brand-1 ring-offset-2 ring-offset-$vp-c-bg'
+            : ''
+        "
         :style="{ backgroundColor: color }"
         type="button"
         @click="applyColor(color)"

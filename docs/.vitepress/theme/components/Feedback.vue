@@ -5,7 +5,11 @@ defineProps<{
 </script>
 
 <template>
-  <a class="feedback-link" href="/other/contributing" title="Suggest an improvement">
+  <a
+    class="feedback-link"
+    href="/other/contributing"
+    title="Suggest an improvement"
+  >
     Suggest edit
   </a>
 </template>
