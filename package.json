@@ -65,6 +65,7 @@
     "sass": "^1.97.3",
     "typescript": "^5.9.3",
     "unplugin-auto-import": "^21.0.0",
+    "vite": "^8.0.3",
     "vite-plugin-optimize-exclude": "^0.0.1",
     "vite-plugin-pwa": "^1.2.0",
     "vite-plugin-terminal": "^1.4.0"

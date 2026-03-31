@@ -162,54 +162,23 @@ function parseCsv(text) {
   let field = ''
   let inQuotes = false
 
-  for (let i = 0; i < text.length; i += 1) {
+  for (let i = 0; i < text.length; i++) {
     const ch = text[i]
     const next = text[i + 1]
-
-    // Handle quoted field content
     if (inQuotes) {
-      if (ch === '"' && next === '"') {
-        field += '"'
-        i += 1
-      } else if (ch === '"') {
-        inQuotes = false
-      } else {
-        field += ch
-      }
-      continue
+      if (ch === '"' && next === '"') { field += '"'; i++; continue; }
+      if (ch === '"') { inQuotes = false; continue; }
+      field += ch; continue;
     }
-
-    // Handle delimiter or quote start
-    if (ch === '"') {
-      inQuotes = true
-    } else if (ch === ',') {
-      row.push(field)
-      field = ''
-    } else if (ch === '\n') {
-      row.push(field)
-      rows.push(row)
-      row = []
-      field = ''
-    } else if (ch !== '\r') {
-      field += ch
-    }
+    if (ch === '"') { inQuotes = true; continue; }
+    if (ch === ',') { row.push(field); field = ''; continue; }
+    if (ch === '\n') { row.push(field); rows.push(row); row = []; field = ''; continue; }
+    if (ch !== '\r') field += ch;
   }
-
-  if (field.length > 0 || row.length > 0) {
-    row.push(field)
-    rows.push(row)
-  }
-
-  if (!rows.length) return []
-
-  const headers = rows[0].map((h) => h.trim())
-  return rows.slice(1).map((values) => {
-    const out = {}
-    headers.forEach((h, idx) => {
-      out[h] = values[idx] ?? ''
-    })
-    return out
-  })
+  if (field.length > 0 || row.length > 0) { row.push(field); rows.push(row); }
+  if (!rows.length) return [];
+  const headers = rows[0].map((h) => h.trim());
+  return rows.slice(1).map((values) => Object.fromEntries(headers.map((h, idx) => [h, values[idx] ?? ''])));
 }
 
 function cleanText(text) {
@@ -231,24 +200,16 @@ function toCamelCaseWords(text) {
 }
 
 function normalizeFolder(folder) {
-  return folder
-    .split('/')
-    .map((s) => cleanText(s))
-    .filter(Boolean)
+  // Solo limpiar espacios y usar el texto tal cual para todas las partes
+  return folder.split('/').map((s) => cleanText(s)).filter(Boolean)
 }
 
 function extractSourceCodeUrls(note) {
-  if (!note) return null
-
-  const sourceCodeMatch = note.match(/Source-code:\s*(.+?)(?=,\s*[A-Za-z]|$)/i)
-  if (!sourceCodeMatch?.[1]) return null
-
-  const urls = sourceCodeMatch[1]
-    .split(',')
-    .map((url) => url.trim())
-    .filter((url) => url.length > 0 && url.startsWith('http'))
-
-  return urls.length > 0 ? urls : null
+  if (!note) return null;
+  const match = note.match(/Source-code:\s*(.+?)(?=,\s*[A-Za-z]|$)/i);
+  if (!match?.[1]) return null;
+  const urls = match[1].split(',').map((url) => url.trim()).filter((url) => url.startsWith('http'));
+  return urls.length ? urls : null;
 }
 
 function safeUnlink(filePath) {
@@ -334,37 +295,30 @@ function isValidRowFolder(folderParts) {
 }
 
 function buildItemFromRow(row) {
-  const title = toCamelCaseWords(row.title)
-  const url = cleanText(row.url)
-
-  if (!title || !url) return null
-
+  const title = cleanText(row.title);
+  const url = cleanText(row.url);
+  if (!title || !url) return null;
   return {
     title,
     url,
-    favorite: String(row.favorite || '').toLowerCase() === 'true',
+    favorite: String(row.favorite).toLowerCase() === 'true',
     sourceCodeUrls: extractSourceCodeUrls(row.note)
-  }
+  };
 }
 
 function processRowsIntoGroups(rows, groups) {
-  let count = 0
-
+  let count = 0;
   for (const row of rows) {
-    const folderParts = normalizeFolder(row.folder || '')
-    if (!isValidRowFolder(folderParts)) continue
-
-    const category = folderParts[1]
-    if (!CATEGORY_BY_FOLDER.has(category)) continue
-
-    const item = buildItemFromRow(row)
-    if (!item) continue
-
-    addToTree(groups.get(category), folderParts.slice(2), item)
-    count += 1
+    const folderParts = normalizeFolder(row.folder || '');
+    if (!isValidRowFolder(folderParts)) continue;
+    const category = folderParts[1];
+    if (!CATEGORY_BY_FOLDER.has(category)) continue;
+    const item = buildItemFromRow(row);
+    if (!item) continue;
+    addToTree(groups.get(category), folderParts.slice(2), item);
+    count++;
   }
-
-  return count
+  return count;
 }
 
 function writeGroupFiles(groups) {
