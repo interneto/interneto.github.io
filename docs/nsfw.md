@@ -4,7 +4,6 @@
 
 - 🌐 **[NSFW Subreddits](https://www.reddit.com/r/NSFW411/wiki/index)**, [2](https://bin.disroot.org/?81af22c09e92865d#FYLXmjaKbaojaELwAv1szcfy7rahuA77ntnFu2HBEBGf), [3](https://redd.it/brypgf), [NSFWDOG](https://nsfwdog.com/) or [Multireddits](https://www.reddit.com/r/multihub/top/?sort=top&t=year)
 - ⭐ **[ThePornDude](https://theporndude.com/)**
-
 - [Asian Porn Times](https://asianporntimes.com/)
 - [BigPornList](https://bigpornlist.net/)
 - [IndianPornList](https://indianpornlist.com/)
@@ -37,7 +36,6 @@
 ### AI Companion
 
 - ⭐ **[Candy.AI - Create Your AI Girlfriend](https://candy.ai/)**
-
 - [aiAllure - Create Your AI Companion & Personalized Virtual Girlfriend](https://www.aiallure.com/)
 - [Create your own AI Girlfriend - Nemora.ai](https://nemora.ai/)
 - [CrushOn.AI - No Filter NSFW Character AI Chat - Spicy AI GF](https://crushon.ai/)
@@ -74,7 +72,6 @@
 ### AI nude
 
 - ⭐ **[TryNectar’s AI Girlfriend](https://trynectar.ai/)**
-
 - [AI Deepnude Generator to Turn Photo to AI Nudes, Free Undress AI & Clothes Remover](https://ainude.best/)
 - [AI Mistress - Experience Unique AI Dominatrix Chat](https://ai-mistress.com/)
 - [AI-PORN.AI - Free AI Porn Generator](https://ai-porn.ai/)
