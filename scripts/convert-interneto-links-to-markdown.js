@@ -191,25 +191,41 @@ function escapeMd(text) {
   return cleanText(text).replace(/\[/g, '\\[').replace(/\]/g, '\\]')
 }
 
-function toCamelCaseWords(text) {
-  return cleanText(text)
-    .split(' ')
-    .filter(Boolean)
-    .map((word) => word[0].toUpperCase() + word.slice(1).toLowerCase())
-    .join(' ')
-}
-
 function normalizeFolder(folder) {
   // Solo limpiar espacios y usar el texto tal cual para todas las partes
   return folder.split('/').map((s) => cleanText(s)).filter(Boolean)
 }
 
 function extractSourceCodeUrls(note) {
-  if (!note) return null;
-  const match = note.match(/Source-code:\s*(.+?)(?=,\s*[A-Za-z]|$)/i);
-  if (!match?.[1]) return null;
-  const urls = match[1].split(',').map((url) => url.trim()).filter((url) => url.startsWith('http'));
-  return urls.length ? urls : null;
+  if (!note) return null
+
+  const sourceCodeLabelMatch = String(note).match(/source-code\s*:/i)
+  if (!sourceCodeLabelMatch) return null
+
+  // Capture only the contiguous URL list immediately after "Source-code:".
+  // This avoids consuming unrelated URLs later in the note text.
+  let sourceCodeSegment = String(note).slice(
+    sourceCodeLabelMatch.index + sourceCodeLabelMatch[0].length
+  )
+  const urls = []
+
+  while (true) {
+    const urlMatch = sourceCodeSegment.match(/^\s*,?\s*(https?:\/\/[^\s,]+)/i)
+    if (!urlMatch) break
+
+    const url = cleanText(urlMatch[1])
+    try {
+      // Validate URL shape and normalize output.
+      urls.push(new URL(url).toString())
+    } catch {
+      break
+    }
+
+    sourceCodeSegment = sourceCodeSegment.slice(urlMatch[0].length)
+  }
+
+  if (!urls.length) return null
+  return Array.from(new Set(urls))
 }
 
 function safeUnlink(filePath) {
@@ -295,34 +311,43 @@ function isValidRowFolder(folderParts) {
 }
 
 function buildItemFromRow(row) {
-  const title = cleanText(row.title);
-  const url = cleanText(row.url);
-  if (!title || !url) return null;
+  const title = cleanText(row.title)
+  const rawUrl = cleanText(row.url)
+  if (!title || !rawUrl) return null
+
+  let url
+  try {
+    url = new URL(rawUrl).toString()
+  } catch {
+    return null
+  }
+
   return {
     title,
     url,
     favorite: String(row.favorite).toLowerCase() === 'true',
     sourceCodeUrls: extractSourceCodeUrls(row.note)
-  };
+  }
 }
 
 function processRowsIntoGroups(rows, groups) {
-  let count = 0;
+  let count = 0
   for (const row of rows) {
-    const folderParts = normalizeFolder(row.folder || '');
-    if (!isValidRowFolder(folderParts)) continue;
-    const category = folderParts[1];
-    if (!CATEGORY_BY_FOLDER.has(category)) continue;
-    const item = buildItemFromRow(row);
-    if (!item) continue;
-    addToTree(groups.get(category), folderParts.slice(2), item);
-    count++;
+    const folderParts = normalizeFolder(row.folder || '')
+    if (!isValidRowFolder(folderParts)) continue
+    const category = folderParts[1]
+    if (!CATEGORY_BY_FOLDER.has(category)) continue
+    const item = buildItemFromRow(row)
+    if (!item) continue
+    addToTree(groups.get(category), folderParts.slice(2), item)
+    count++
   }
-  return count;
+  return count
 }
 
 function writeGroupFiles(groups) {
   let count = 0
+  const writtenFiles = []
 
   for (const category of CATEGORY_CONFIG) {
     const filePath = path.join(OUTPUT_DIR, category.file)
@@ -332,10 +357,11 @@ function writeGroupFiles(groups) {
       category.description
     )
     fs.writeFileSync(filePath, markdown, 'utf8')
+    writtenFiles.push(path.relative(ROOT_DIR, filePath))
     count += 1
   }
 
-  return count
+  return { count, writtenFiles }
 }
 
 function renderGroupFile(groupName, group, description) {
@@ -347,16 +373,21 @@ function renderGroupFile(groupName, group, description) {
   ]
 
   renderItems(lines, group.items)
-  renderChildren(lines, group.children, 2)
+  renderChildren(lines, new Map([...group.children].sort(([a], [b]) => a.localeCompare(b))), 2)
 
   return lines.join('\n').trim() + '\n'
 }
 
-function runLinting() {
+function runLinting(targetFiles = []) {
   console.log('\n📋 Running markdown lint...')
+  const lintArgs = [path.resolve(__dirname, 'lint-markdown.js')]
+  if (targetFiles.length > 0) {
+    lintArgs.push('--files', ...targetFiles)
+  }
+
   const result = spawnSync(
     'node',
-    [path.resolve(__dirname, 'lint-markdown.js')],
+    lintArgs,
     {
       stdio: 'inherit',
       cwd: ROOT_DIR
@@ -386,12 +417,12 @@ function run() {
 
   const included = processRowsIntoGroups(rows, groups)
   clearOutputFiles()
-  const filesWritten = writeGroupFiles(groups)
+  const { count: filesWritten, writtenFiles } = writeGroupFiles(groups)
 
   console.log(
     `Converted ${included} links into ${filesWritten} markdown files at: ${OUTPUT_DIR}`
   )
-  runLinting()
+  runLinting(writtenFiles)
 }
 
 run()

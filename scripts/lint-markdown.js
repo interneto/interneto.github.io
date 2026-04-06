@@ -4,6 +4,48 @@ import { fileURLToPath } from 'node:url'
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
 const DOCS_DIR = path.resolve(__dirname, '../docs')
+const TYPOS_CSV = path.resolve(__dirname, 'typos.csv')
+
+function normalizePathForChecks(filePath) {
+  return filePath.replace(/\\/g, '/')
+}
+
+function resolveTargetFilesFromArgs() {
+  const args = process.argv.slice(2)
+  const filesIndex = args.indexOf('--files')
+
+  if (filesIndex === -1) return null
+
+  const targetArgs = args
+    .slice(filesIndex + 1)
+    .filter((arg) => arg && !arg.startsWith('--'))
+
+  if (!targetArgs.length) return []
+
+  return targetArgs
+    .map((file) => path.resolve(process.cwd(), file))
+    .filter((file) => fs.existsSync(file) && file.endsWith('.md'))
+}
+
+function loadTyposMap() {
+  const map = new Map()
+  if (!fs.existsSync(TYPOS_CSV)) return map
+
+  const csv = fs.readFileSync(TYPOS_CSV, 'utf-8')
+  for (const line of csv.split('\n')) {
+    const trimmed = line.trim()
+    if (!trimmed || trimmed.startsWith('#')) continue
+
+    const firstComma = trimmed.indexOf(',')
+    if (firstComma === -1) continue
+
+    const typo = trimmed.slice(0, firstComma).trim().toLowerCase()
+    const correction = trimmed.slice(firstComma + 1).trim()
+    if (typo.length >= 4 && correction.length >= 2) map.set(typo, correction)
+  }
+
+  return map
+}
 
 // Non-recursive scan of DOCS_DIR
 function getDocsFiles(dir) {
@@ -19,42 +61,19 @@ function getDocsFiles(dir) {
   return mdFiles
 }
 
-const files = getDocsFiles(DOCS_DIR)
+const explicitTargetFiles = resolveTargetFilesFromArgs()
+const files = explicitTargetFiles ?? getDocsFiles(DOCS_DIR)
 let hasErrors = false
 
 // Load typos from CSV
-const typosMap = new Map()
-/* sucks right now
-try {
-    const typosPath = path.resolve(__dirname, 'typos.csv');
-    if (fs.existsSync(typosPath)) {
-        const typosContent = fs.readFileSync(typosPath, 'utf-8');
-        const typoLines = typosContent.split('\n');
-        typoLines.forEach(line => {
-            const parts = line.split(',');
-            if (parts.length >= 2) {
-                const typo = parts[0].trim().toLowerCase();
-                const correction = parts[1].trim();
-                if (typo && correction) {
-                    typosMap.set(typo, correction);
-                }
-            }
-        });
-        console.log(`✅ Loaded ${typosMap.size} typos from dictionary.`);
-    } else {
-        console.warn('⚠️ scripts/typos.csv not found, using fallback list.');
-    }
-} catch (e) {
-    console.warn(`⚠️ Failed to load typos: ${e.message}`);
-}
-*/
+const typosMap = loadTyposMap()
 
 console.log('🔍 Scanning markdown files for formatting issues...\n')
 
 files.forEach((file) => {
   const content = fs.readFileSync(file, 'utf-8')
   const lines = content.split('\n')
-  const relativePath = path.relative(process.cwd(), file)
+  const relativePath = normalizePathForChecks(path.relative(process.cwd(), file))
 
   // Files to complete ignore from all checks
   const FILES_TO_IGNORE = ['docs/feedback.md', 'docs/index.md']
@@ -76,6 +95,10 @@ files.forEach((file) => {
       currentHeader = line
     }
     let errors = []
+    const isListEntryWithLink =
+      /^\s*[*+-]\s+(⭐\s+)?(\*\*)?\[[^\]]+\]\([^)]+\)(\*\*)?(\s*\/\s*\[🔗\]\([^)]+\)(,\s*\[🔗\]\([^)]+\))*)?\s*$/u.test(
+        line
+      )
 
     // Check 1: Starred links must be bolded
     // Pattern: * ⭐ [Link] -> Bad
@@ -160,7 +183,7 @@ files.forEach((file) => {
     )
 
     // Ignore VitePress sidebar links (e.g. "link: /foo")
-    if (!/^\s*link:/i.test(line)) {
+    if (!/^\s*link:/i.test(line) && !isListEntryWithLink) {
       // A. Missing space after slash: " /Word"
       // Exception: /> (HTML close tag)
       // Exception: /Word/ (Path/Board e.g. /co/)
@@ -206,11 +229,7 @@ files.forEach((file) => {
       'docs/unsafe.md'
     ]
 
-    if (
-      !FILES_TO_IGNORE_LINK_SEPARATOR_CHECK.some((ignoredFile) =>
-        file.endsWith(ignoredFile)
-      )
-    ) {
+    if (!FILES_TO_IGNORE_LINK_SEPARATOR_CHECK.includes(relativePath)) {
       const linkRegex = /\[([^\]]+)\]\(([^)]+)\)/g
       let match
       while ((match = linkRegex.exec(line)) !== null) {
@@ -350,7 +369,7 @@ files.forEach((file) => {
     }
 
     // Check 10, 11, 12: English-specific checks (Repeated words, Typos, Grammar)
-    if (!isSeparatedEnglishCheck) {
+    if (!isSeparatedEnglishCheck && !isListEntryWithLink) {
       // Prepare clean line for text-based checks (remove URLs and Markdown links)
       // Remove entire link block: [Text](Url) -> "__LINK__" to avoid merging adjacent words
       const lineCleaned = line
@@ -367,7 +386,6 @@ files.forEach((file) => {
         }
       }
 
-      // Check 11: Common Typos
       // Check 11: Common Typos from CSV
       // We load this once usually, but here for simplicity we assume 'commonTyposMap' is prepared.
       // Actually, let's just stick to the hardcoded list for now as a fallback,
