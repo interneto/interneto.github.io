@@ -1,5 +1,5 @@
 ---
-title: Welcome
+title: Interneto Links - Landing Page
 layout: home
 description: Pass from the Internet to the Innernet!
 
