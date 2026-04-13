@@ -104,7 +104,7 @@ features:
   - title: Travel & Location
     link: /travel-and-location
     details: Maps, transport, travel planning, and location services.
-    icon: 🌎
+    icon: 🛬
 
   - title: Utility
     link: /utility
