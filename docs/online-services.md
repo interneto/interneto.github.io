@@ -2116,7 +2116,7 @@
 - [Diptera.info](https://diptera.info/news.php)
 - [Flora-On](https://flora-on.pt/)
 - [Marine Species](https://www.marinespecies.org/)
-- [Pangaea.de - Data Earth & enviroment](https://www.pangaea.de/)
+- [Pangaea.de - Data Earth & Environment](https://www.pangaea.de/)
 - [Picture Insect - Online insect encyclopedia and insect identifier](https://pictureinsect.com/)
 - [PlantAtlas.org](https://plantatlas.usf.edu/)
 - [Plants Database - Garden.org](https://garden.org/plants)
