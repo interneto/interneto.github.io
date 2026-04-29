@@ -1,6 +1,6 @@
 # Internet Communication
 
-**Total Bookmarks:** 1546
+**Total Bookmarks:** 1536
 
 
 ## 2FA
@@ -321,15 +321,19 @@
 - [Savemp4 - Download Reddit Videos](https://savemp4.red/)
 - [Sconverter](https://sconverter.com/)
 - [SnapDownloader](https://snapdownloader.com/)
+- [SnapTik - Download TikTok Videos Without Watermark (TikTok Downloader)](https://snaptik.as/)
+- [SnapTik - Tiktok Downloader](https://snaptik.app/en2)
 - [soimort/you-get · GItHub](https://github.com/soimort/you-get)
 - [ssstik - TikTok downloader](https://ssstik.io/en)
 - [Stacher7](https://stacher.io/)
 - [thisvideo twitter](https://thisvid.space/)
 - [TikMate](https://tikmate.online/)
+- [TikTok Downloader - Download TikTok Video Without Watermark](https://ssstik.io/)
 - [Tiktok Downloader - SnapTik](https://snaptik.app/en)
 - [TikTok Video Downloader](https://downloader.bot/en)
 - [Tiktok Video Downloader - downtik.to](https://downtik.to/)
 - [Tiktok Video Downloader - tikdownhub](https://tikdownhub.com/en)
+- [TikWM: Download TikTok video without watermark](https://tikwm.com/)
 - [TubeOffline](https://www.tubeoffline.com/)
 - [TwitchLeecher · GitHub](https://github.com/Franiac/TwitchLeecher)
 - [Twitter Vid - Twitter Video Downloader](https://twittervid.com/)
@@ -397,7 +401,6 @@
 - [shortsdown - Download Youtube Shorts](https://shortsdown.com/en/)
 - [VidPaw](https://www.vidpaw.com/en/)
 - [Y2Mate.is](https://y2mate.is/en22/)
-- [Youtube 4k Downloader](https://youtube4kdownloader.com/en78/)
 - [Youtube Multi Downloader](https://youtubemultidownloader.net/playlists.html)
 - [Youtube Playlist Downloader](https://youtubeplaylist.cc/)
 - [Youtube To Mp3](https://youtubetomp3.co/)
@@ -575,9 +578,9 @@
 - [Kuaishou](https://www.kuaishou.com/new-reco)
 - [SEEK - Australia's no. 1 jobs, employment, career and recruitment site](https://www.seek.com.au/)
 
-### Frontend social net
+### Social Net (frontend)
 - [digitalblossom/alternative-frontends · GitHub](https://github.com/digitalblossom/alternative-frontends)
-- [Farside](https://farside.link/)
+- [Farside](https://farside.link/) / [🔗](https://sr.ht/~benbusby/farside)
 - [FOSS Front-Ends social networks](https://www.funkyspacemonkey.com/foss-front-ends-and-alternatives-for-twitter-instagram-reddit-youtube-and-more)
 - [LibRedirect - Privacy-friendly Redirector](https://libredirect.github.io/)
 - [libreom/predirect · GitHub](https://github.com/libreom/predirect)
@@ -607,51 +610,33 @@
 - [Yourmom](https://www.yourmom.org/)
 
 #### TikTok frontend
-- [Akuma Cosplays](https://akumacosplays.com/)
-- [ProxiTok - Discover](https://proxitok.pabloferreiro.es/discover)
-- [ProxiTok Wiki · Public instances](https://github.com/pablouser1/ProxiTok/wiki/Public-instances)
-- [Tikdo](https://tikdo.live/)
+- [pablouser1/ProxiTok · GitHub](https://github.com/pablouser1/ProxiTok)
 - [TikyToky](https://tikytoky.com/)
 - [Urlebird - TikTok Viewer](https://urlebird.com/)
 
 #### Twitter frontend
 - [Nitter](https://nitter.net/)
 - [Nitter Instance Status](https://status.d420.de/)
+- [XCancel](https://xcancel.com/)
 - [zedeus/nitter: Alternative Twitter front-end · GitHub](https://github.com/zedeus/nitter)
 
 #### Youtube frontend
-- [CHClip.net](https://chclip.net/)
+- ⭐ **[Invidious.io](https://invidious.io/)**
 - [Cinemaphile](https://cinemaphile.com/)
 - [Clipzui](https://www.clipzui.com/)
 - [CloudTube](https://tube.cadence.moe/)
 - [DevTube](https://dev.tube/)
-- [Hardlimit - Local videos](https://video.hardlimit.com/videos/local)
-- [Liambi Videos](https://videos.liambi.com/home.php)
-- [Piped - Trending](https://piped-material.xn--17b.net/)
-- [Piped - Trending](https://piped.video/trending)
-- [Tellywise.tv](https://www.tellywise.tv/)
-- [TruuTube](https://truutube.com/home)
-- [TubeTrotter](https://www.tubetrotter.live/)
-- [Tubo - Trending](https://tubo.media/)
-- [VidLii](https://www.vidlii.com/)
-- [Wimp.com](https://www.wimp.com/)
-- [Yout-ube](https://www.yout-ube.com/)
-
-##### Invidious
-- ⭐ **[Invidious.io](https://invidious.io/)**
-- ⭐ **[Invidious.io redirect](https://redirect.invidious.io/)**
-- [Invidious - baczek](https://invidious.baczek.me/feed/popular)
-- [Invidious - flokinet](https://invidious.flokinet.to/feed/popular)
-- [Invidious - projectsegfau](https://inv.bp.projectsegfau.lt/feed/popular)
-- [Invidious - projectsegfau](https://invidious.projectsegfau.lt/feed/popular)
-- [Invidious - puffyan](https://vid.puffyan.us/feed/popular)
-- [Invidious - slipfox](https://invidious.slipfox.xyz/feed/popular)
 - [Invidious - tiekoetter](https://invidious.tiekoetter.com/feed/popular)
 - [Invidious - y.com](https://y.com.sb/feed/popular)
 - [Invidious Instances](https://api.invidious.io/)
-- [Invidious Instances - Invidious Documentation](https://docs.invidious.io/instances/#list-of-public-invidious-instances-sorted-from-oldest-to-newest)
-- [Invidious search - artemislena](https://yt.artemislena.eu/)
+- [Liambi Videos](https://videos.liambi.com/home.php)
+- [Piped - Trending](https://piped-material.xn--17b.net/)
+- [Piped - Trending](https://piped.video/trending)
+- [TubeTrotter](https://www.tubetrotter.live/)
+- [VidLii](https://www.vidlii.com/)
+- [Wimp.com](https://www.wimp.com/)
 - [Yewtu.be](https://yewtu.be/)
+- [Yout-ube](https://www.yout-ube.com/)
 
 ### Anonymus social
 - [Ablo](https://ablo.live/#/landing/getstarted)
@@ -732,6 +717,7 @@
 - [Potato Meshtastic](https://potatomesh.net/)
 - [Pravica.io](https://pravica.io/)
 - [Retroshare](https://retroshare.cc/)
+- [Robonomics Network](https://robonomics.network/)
 - [Scuttlebutt](https://scuttlebutt.nz/)
 - [SkoHub](https://skohub.io/)
 - [Social - Nextcloud](https://apps.nextcloud.com/apps/social)
@@ -1120,7 +1106,7 @@
 - [Revolt](https://revolt.chat/)
 - [Rocket.Chat](https://rocket.chat/)
 - [Session - Private messenger](https://getsession.org/) / [🔗](https://github.com/session-foundation)
-- [Signal](https://signal.org/)
+- [Signal Messenger: Speak Freely](https://signal.org/) / [🔗](https://github.com/signalapp)
 - [Silent Circle](https://www.silentcircle.com/)
 - [Skedify](https://www.skedify.me/)
 - [Status.im](https://status.im/)
@@ -1277,7 +1263,6 @@
 - [Firefish](https://joinfirefish.org/)
 - [GETTR](https://gettr.com/trending)
 - [Hive Social](https://www.hivesocial.app/)
-- [Koo: Connect with Millions of People, Celebrities and Topics on Koo!](https://www.kooapp.com/)
 - [Lectrn](https://lectrn.com/)
 - [Lilt](https://lilt.social/)
 - [Manyverse – a social network off the grid](https://www.manyver.se/)
@@ -1457,6 +1442,8 @@
 - [Automated dependency updates with pull requests - Deps](https://www.dependencies.io/)
 - [Composer PHP](https://getcomposer.org/)
 - [dnvm - the dotnet version manager](https://dnvm.net/)
+- [rbenv - the Ruby version manager](https://rbenv.org/) / [🔗](https://github.com/rbenv/rbenv)
+- [RVM: Ruby Version Manager - RVM Ruby Version Manager](https://rvm.io/)
 - [SDKMAN! the Software Development Kit Manager](https://sdkman.io/)
 - [Yarn](https://classic.yarnpkg.com/en/) / [🔗](https://github.com/yarnpkg/yarn)
 
@@ -1600,6 +1587,7 @@
 - [Beaker | A peer-to-peer browser](https://beakerbrowser.com/)
 - [Blisk](https://blisk.io/)
 - [Brave Browser](https://brave.com/)
+- [Brave Origin Nightly Download](https://brave.com/origin/download-nightly/)
 - [Bromite](https://www.bromite.org/)
 - [CentBrowser](https://www.centbrowser.com/)
 - [Chrome](https://www.google.com/chrome)

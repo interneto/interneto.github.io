@@ -1,6 +1,6 @@
 # Financial Assets
 
-**Total Bookmarks:** 414
+**Total Bookmarks:** 415
 
 - [brokeronline](https://www.brokeronline.es/)
 - [IPIP](https://whois.ipip.net/)
@@ -100,6 +100,7 @@
 
 ### Cryptocurrency Explorer
 - [| Be early to the future of finance](https://www.blockchain.com/en)
+- [₿ag — Bitcoin Portfolio Monitor](https://bitbag.app/) / [🔗](https://github.com/UXAVIA/bag)
 - [Arbitrum One (ETH) Blockchain Explorer](https://arbiscan.io/)
 - [Base (ETH) Blockchain Explorer](https://basescan.org/)
 - [Bitcoin explorer](https://www.bitaps.com/)
@@ -321,7 +322,7 @@
 - [SushiSwap](https://sushi.com/)
 - [tea.xyz - Testnet to fuel the open-source software revolution](https://app.tea.xyz/)
 - [Ubiq Smart](https://ubiqsmart.com/)
-- [Union](https://union.build/)
+- [Union](https://union.build/) / [🔗](https://github.com/unionlabs/union)
 - [YAM Finance](https://yam.finance/)
 - [YFDAI.finance](https://yfdai.finance/)
 

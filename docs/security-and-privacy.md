@@ -1,6 +1,6 @@
 # Security & Privacy
 
-**Total Bookmarks:** 302
+**Total Bookmarks:** 306
 
 - [Fight Chat Control - Protect Digital Privacy in the EU](https://fightchatcontrol.eu/)
 - [PrivacySpy: We track online privacy](https://privacyspy.org/)
@@ -219,7 +219,9 @@
 - [BeEF](http://beefproject.com/)
 - [CIRT.net](https://www.cirt.net/)
 - [Fern-wifi-cracker · GitHub](https://github.com/savio-code/fern-wifi-cracker)
+- [GitHub - PurpleAILAB/Decepticon: Autonomous Hacking Agent for Red Team · GitHub](https://github.com/PurpleAILAB/Decepticon)
 - [Hashcat - advanced password recovery](https://hashcat.net/hashcat/) / [🔗](https://github.com/hashcat/hashcat)
+- [Keygraph | The Unified AppSec Platform](https://keygraph.io/) / [🔗](https://github.com/KeygraphHQ/shannon)
 - [Metasploit | Penetration Testing Software, Pen Testing Security](https://metasploit.com/) / [🔗](https://github.com/rapid7/metasploit-framework)
 - [niwciu/ModbusSniffer: Modbus RTU packet sniffer with GUI](https://github.com/niwciu/ModbusSniffer)
 - [NVIDIA/garak: the LLM vulnerability scanner](https://github.com/NVIDIA/garak)
@@ -230,6 +232,7 @@
 - [Snort](https://www.snort.org/)
 - [swisskyrepo/PayloadsAllTheThings: A list of useful payloads and bypass for Web Application Security and Pentest/CTF](https://github.com/swisskyrepo/PayloadsAllTheThings)
 - [v1s1t0r1sh3r3/airgeddon · GitHub](https://github.com/v1s1t0r1sh3r3/airgeddon)
+- [zakirkun/deep-eye: An advanced AI-driven vulnerability scanner and penetration testing tool](https://github.com/zakirkun/deep-eye)
 
 ### RockYou
 - [aoluggo/word-list-pentest: Spanish word list (plain text) for use in pen-test. WIFI Try with wifite // Lista de palabras en español (texto sin formato) para usar en pruebas de penetración. WIFI Prueba con wifite.](https://github.com/aoluggo/word-list-pentest)
@@ -245,6 +248,7 @@
 - [AirVPN - The air to breathe the real Internet](https://airvpn.org/)
 - [Aletsch - Your Own Private and Secure VPN](https://aletsch.app/)
 - [Amnezia - Create your personal VPN](https://amnezia.org/en)
+- [Amnezia - Internet freedom has a name](https://amnezia.org/) / [🔗](https://github.com/amnezia-vpn/amnezia-client)
 - [Astrill VPN](https://www.astrill.com/)
 - [Atlas VPN](https://atlasvpn.com/)
 - [Betternet](https://www.betternet.co/)

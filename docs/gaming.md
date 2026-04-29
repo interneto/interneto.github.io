@@ -1,6 +1,6 @@
 # Gaming
 
-**Total Bookmarks:** 708
+**Total Bookmarks:** 714
 
 - [2048 - Apps on Google Play](https://play.google.com/store/apps/details?id=com.tpcstld.twozerogame)
 - [Anuken/Mindustry: The automation tower defense RTS](https://github.com/Anuken/Mindustry)
@@ -213,6 +213,8 @@
 - [Gartic.com](https://gartic.com/)
 - [Hacker Typer](https://hackertyper.net/)
 - [Infinite Flowers Zoomquilt](https://infiniteflowers.net/)
+- [Pax Historia](https://www.paxhistoria.co/)
+- [Play4Row - Play Connect Four Online Free](https://play4row.com/)
 - [Suika Game](https://suikagame.com/)
 - [thank mr skeltal](https://xn--rl8hlm.tk/)
 - [The Office Stare Machine](http://theofficestaremachine.com/)
@@ -307,6 +309,7 @@
 - [Quick, Draw!](https://quickdraw.withgoogle.com/)
 - [sandspiel](https://sandspiel.club/)
 - [Skribbl.io](https://skribbl.io/)
+- [Yo Printables - Unlimited Coloring Pages & Drawing Ideas](https://yoprintables.com/)
 
 ## Gaming Utilities
 - [PSX-Place](https://www.psx-place.com/)
@@ -623,11 +626,14 @@
 - [Endurya](https://endurya.com/)
 - [EVE Online](https://www.eveonline.com/)
 - [FINAL FANTASY XIV](https://na.finalfantasyxiv.com/)
+- [Genshin Impact – Step into a Vast Magical World for Adventure](https://genshin.hoyoverse.com/en/home)
 - [Honkai: Star Rail](https://hsr.hoyoverse.com/en-us/)
 - [Isleward](https://play.isleward.com/) / [🔗](https://gitlab.com/Isleward/isleward)
+- [Netmarble - The Seven Deadly Sins: Origin](https://7origin.netmarble.com/en/)
 - [OpenMW](https://openmw.org/) / [🔗](https://gitlab.com/OpenMW/openmw)
 - [Persona - Game](https://persona.atlus.com/series/portal/us/)
 - [Pkémon Reborn Evolved](https://www.rebornevo.com/)
+- [Pokémon Champions](https://champions.pokemon.com/en-us/)
 - [Pokémon Pokopia](https://pokopia.pokemon.com/en-us/)
 - [Ryzom - Free to Play Open-Source MMORPG](https://ryzom.com/)
 - [The Witcher 3 - Maps](http://witcher3map.com/)

@@ -428,7 +428,8 @@ files.forEach((file) => {
           'cah',
           'rin',
           'tx',
-          'mame'
+          'mame',
+          'agentic'
         ]
         for (const word of words) {
           const lowerWord = word.toLowerCase()

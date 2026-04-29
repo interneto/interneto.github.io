@@ -1,6 +1,6 @@
 # News Media
 
-**Total Bookmarks:** 2369
+**Total Bookmarks:** 2372
 
 
 ## Arts media
@@ -190,6 +190,7 @@
 - [Shihyu's PKM](https://shihyuho.github.io/pkm/)
 - [SlRvb - Obsidian Publish](https://publish.obsidian.md/slrvb/90+Site/SlRvb+Home)
 - [Socratica](https://toolbox.socratica.info/)
+- [spaceaudits - Obsidian Publish](https://publish.obsidian.md/spaceaudits)
 - [Spiritual Digital Garden](https://spiritual-garden.com/)
 - [Sspaeti Second Brain 🧠](https://brain.sspaeti.com/)
 - [Steam Deck Guide — TiddleHost](https://steamdeckguide.tiddlyhost.com/)
@@ -209,6 +210,7 @@
 - [Walk in the Forest](https://walkintheforest.com/Content/%F0%9F%91%8B%F0%9F%8F%BD+Welcome)
 - [Welcome 🌌 - John's Digital Galaxy 🌌](https://notes.johnmavrick.com/Digital+Galaxy/Welcome+%F0%9F%8C%8C)
 - [Wiki Club Aluche — TiddleHost](https://club-ciclista-aluche.tiddlyhost.com/)
+- [WikiTerra](https://wikiterra.github.io/) / [🔗](https://github.com/wikiterra/wikiterra.github.io/)
 - [Writing Note by Note](https://writingnotebynote.com/)
 - [XXIIVV - Webring](https://webring.xxiivv.com/)
 - [Zytomorrow DG](https://zytomorrow.top/)
@@ -797,6 +799,7 @@
 - [Computing Notes - Xinyang YU](https://notes.yxy.ninja/)
 - [Ctrl blog by Daniel Aleksandersen](https://www.ctrl.blog/)
 - [Data Engineering Blog](https://sspaeti.com/)
+- [Destroy All Software](https://www.destroyallsoftware.com/screencasts)
 - [devconnected – Software Engineering Articles, Guides & Tips](https://devconnected.com/)
 - [DevGa.me](https://devga.me/)
 - [Disconnected Systems](https://disconnected.systems/)
@@ -1576,7 +1579,7 @@
 #### Environment mag
 - [ReTime.org](https://retime.org/)
 
-### Psycology mag
+### Psychology mag
 - [Sueños Significados](https://suenosignificado.com/)
 - [TheMindFool](https://themindfool.com/)
 

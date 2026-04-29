@@ -1,6 +1,6 @@
 # Travel & Location
 
-**Total Bookmarks:** 774
+**Total Bookmarks:** 776
 
 
 ## Booking
@@ -195,10 +195,12 @@
 - [AntennaWeb - Result](https://www.antennaweb.org/results)
 - [Canadian Cellular Towers Map](http://www.ertyu.org/steven_nikkel/cancellsites.html)
 - [Cellmapper](https://www.cellmapper.net/map)
+- [CNMC - Mapa de Cobertura Fibra y Red Móvil España](https://calidadtelecos.cnmc.gob.es/mapa-cobertura)
 - [Cobertura móvil Movistar](https://www.movistar.es/particulares/coberturas/movil)
 - [Coverage antenna map - nPerf.com](https://www.nperf.com/en/map/US/-/-/signal/?ll=47.93335932610921&lg=-123.45000000000002&zoom=3)
 - [electricityMap](https://www.electricitymap.org/map)
 - [Huracan Electric 3D Map](https://he.net/3d-map)
+- [Internet Infrastructure Map (2026)](https://map.kmcd.dev/?year=2026)
 - [Kaspersky Cyberthreat map](https://cybermap.kaspersky.com/)
 - [Mapa de Meshtastic](https://mapa.meshtastic.es/) / [🔗](https://github.com/liamcottle/meshtastic-map)
 - [MeshMap - Meshtastic Node Map](https://meshmap.net/)
@@ -252,11 +254,11 @@
 - [Waze map](https://www.waze.com/)
 
 ### GIS Software
+- ⭐ **[CARTO - The Agentic GIS Platform](https://carto.com/)**
 - ⭐ **[QGIS project!](https://qgis.org/)** / [🔗](https://github.com/qgis/QGIS)
 - [ArcGIS Pro | Esri](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview)
 - [Atlas: GIS & Maps in the Browser](https://atlas.co/)
 - [Cadcorp | An NEC Company](https://cadcorp.com/)
-- [CARTO - The Agentic GIS Platform](https://carto.com/)
 - [contextily: context geo tiles in Python](https://contextily.readthedocs.io/en/latest/) / [🔗](https://github.com/geopandas/contextily)
 - [Felt - Cloud-Native GIS Software & Online Mapping Platform](https://felt.com/)
 - [GDAL — Translator library for raster and vector geospatial data formats](https://gdal.org/en/stable/) / [🔗](https://github.com/OSGeo/gdal)

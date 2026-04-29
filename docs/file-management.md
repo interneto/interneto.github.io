@@ -1,6 +1,6 @@
 # File Management
 
-**Total Bookmarks:** 809
+**Total Bookmarks:** 814
 
 
 ## Backup
@@ -139,6 +139,7 @@
 - [Compress PDF Files Online](https://pdfcompressor.com/)
 - [Compress video online](https://compress-video-online.com/)
 - [Compress2Go](https://www.compress2go.com/)
+- [CompressO: Compress any video/image into a tiny size](https://compresso.codeforreal.com/) / [🔗](https://github.com/codeforreal1/compressO)
 - [FastStone Resizer](https://www.faststone.org/FSResizerDetail.htm)
 - [Free PDF Compressor](http://www.freepdfcompressor.com/)
 - [google/snappy: A fast compressor/decompressor](https://github.com/google/snappy)
@@ -272,7 +273,7 @@
 ### Encryptor
 - ⭐ **[Cryptomator](https://cryptomator.org/)**
 - ⭐ **[Hat.sh - client-side encryption](https://hat.sh/)**
-- ⭐ **[VeraCrypt](https://veracrypt.fr/en/Home.html)**
+- ⭐ **[VeraCrypt](https://veracrypt.io/en/Home.html)** / [🔗](https://veracrypt.io/en/Home.html)
 - [AES Crypt](https://aescrypt.com/)
 - [AxCrypt - File Security Made Easy](https://axcrypt.net/)
 - [BitLocker](https://docs.microsoft.com/en-us/windows/security/information-protection/bitlocker/bitlocker-overview)
@@ -620,7 +621,7 @@
 - [Explorer++](https://explorerplusplus.com/)
 - [File Juggler](https://www.filejuggler.com/)
 - [File Pilot - Next-gen file explorer](https://filepilot.tech/)
-- [filebrowser/filebrowser: 📂 Web File Browser](https://github.com/filebrowser/filebrowser)
+- [FileBrowser](https://filebrowser.org/) / [🔗](https://github.com/filebrowser/filebrowser)
 - [files-community/files · GitHub](https://github.com/files-community/Files)
 - [Fileside](https://www.fileside.app/)
 - [Filestash](https://www.filestash.app/)
@@ -705,10 +706,12 @@
 
 ## File manager app
 - [Cx Explorer](https://play.google.com/store/apps/details?id=com.cxinventor.file.explorer)
+- [Documents by Readdle | The best iOS file manager](https://readdle.com/documents)
 - [error311/FileRise · GitHub](https://github.com/error311/FileRise)
 - [File Commander](https://www.mobisystems.com/en-us/file-commander-premium/)
 - [File manager plus](https://play.google.com/store/apps/details?id=com.alphainventor.filemanager)
 - [File Viewer for Android](https://sharpened.com/software/android/file_viewer)
+- [MiXplorer](https://mixplorer.com/)
 - [NextApp | FX File Explorer](http://www.nextapp.com/fx/)
 - [Solid Explorer File Manager](https://neatbytes.com/solidexplorer)
 - [Team Amaze - Amaze File Manager](https://teamamaze.xyz/)
@@ -770,8 +773,10 @@
 
 ## File viewer
 - [ePubViewer](https://pgaskin.net/ePubViewer/)
+- [filiparag/wikiman · GitHub](https://github.com/filiparag/wikiman)
 - [fx – command-line tool for JSON](https://fx.wtf/)
 - [GTKWave](https://gtkwave.sourceforge.net/)
+- [NFO Viewer](https://otsaloma.io/nfoview/) / [🔗](https://github.com/otsaloma/nfoview)
 - [Nyre221/dolphin-quick-view · GitHub](https://github.com/Nyre221/dolphin-quick-view)
 - [pwmt/zathura: Document viewer](https://github.com/pwmt/zathura)
 

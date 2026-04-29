@@ -1,6 +1,6 @@
 # Education
 
-**Total Bookmarks:** 1273
+**Total Bookmarks:** 1275
 
 - [Academia Lab](https://academia-lab.com/)
 - [DosisPedia](https://dosispedia.com/)
@@ -82,6 +82,7 @@
 - [Joma Class](https://www.jomaclass.com/)
 - [JSCamp - Bootcamp gratuito y completo de Programación con JavaScript](https://jscamp.dev/)
 - [Laracasts](https://laracasts.com/)
+- [Learn Ruby - Free Interactive Ruby Tutorial](https://www.learnrubyonline.org/)
 - [LemonCode](https://lemoncode.net/)
 - [Lighthouse Labs](https://www.lighthouselabs.ca/)
 - [Low Level Academy](https://lowlevel.academy/)
@@ -89,7 +90,6 @@
 - [media.ccc.de](https://media.ccc.de/#t=5)
 - [midudev 👨‍💻 | Frontend, JavaScript, React, CSS, Performance](https://midu.dev/)
 - [objc.io](https://www.objc.io/)
-- [p5.js](https://p5js.org/)
 - [Programming Hub](https://www.programminghub.io/)
 - [Retos de Programación by MoureDev | Mejora tu lógica y portfolio](https://retosdeprogramacion.com/)
 - [Rustfinity | Learn and Practice the Rust Programming Language](https://www.rustfinity.com/)
@@ -100,6 +100,7 @@
 - [The Odin Project](https://www.theodinproject.com/)
 - [Traversy Media](https://www.traversymedia.com/)
 - [Treehouse](https://teamtreehouse.com/)
+- [Tutorialspoint](https://www.tutorialspoint.com/)
 - [W3Schools Campus | Launch Your Tech Career with Coding Courses & Certificates](https://campus.w3schools.com/)
 - [wfTutorials - Recent Tutorials](https://app.wftutorials.com/dashboard/)
 
@@ -143,6 +144,12 @@
 - [Gematrinator.com](https://gematrinator.com/)
 - [Gematrix.org](https://www.gematrix.org/)
 - [Hebrew Gematria Calculator](https://www.gimatria.co.il/)
+
+### Fractal Graphing Calc
+- [Fractal Explorer by Mytino](https://mytino.itch.io/fractal-explorer)
+- [Mandelbrot](https://mandelbrot.ophir.dev/#{%22pos%22:{%22x%22:-0.4705000000000001,%22y%22:-0.2735000000000001},%22zoom%22:250})
+- [Mandelbrot Set Explorer](http://mandel.gart.nz/)
+- [Pixel Play](https://anvaka.github.io/pplay/?tx=0&ty=0&scale=1)
 
 ### Math calculator
 - ⭐ **[Geogebra - free math tools](https://www.geogebra.org/)** / [🔗](https://github.com/geogebra/geogebra)
@@ -197,6 +204,7 @@
 
 ### Math Graphing Calculator
 - [3D Surface Plotter](https://academo.org/demos/3d-surface-plotter)
+- [Anvaka - Visualization of exponential sums](https://anvaka.github.io/e-sum/?code=x%2F8%20%2B%205*cos%28x*101.824%29%20&bufferSize=12000&totalSteps=298900&spi=90) / [🔗](https://github.com/anvaka/e-sum)
 - [CalcPlot3D](https://math.libretexts.org/Learning_Objects/CalcPlot3D_Interactive_Figures/CalcPlot3D)
 - [CPM 3D Plotter](https://technology.cpm.org/general/3dgraph)
 - [Desmos Calculator](https://www.desmos.com/calculator?lang=en)
@@ -342,7 +350,6 @@
 - [Springboard](https://www.springboard.com/)
 - [Studio - Online Classes](https://studio.com/)
 - [Trazos.net](https://trazos.net/)
-- [Tutorialspoint](https://www.tutorialspoint.com/index.htm)
 - [Tuts+](https://tutsplus.com/)
 - [Udacity](https://www.udacity.com/)
 - [Udemy](https://www.udemy.com/)
@@ -930,7 +937,6 @@
 - [Learn Razor Pages](https://www.learnrazorpages.com/)
 - [Learn to Code From Zero with Godot](https://gdquest.github.io/learn-gdscript/)
 - [Learn To Code Together](https://learntocodetogether.com/)
-- [Learn X in Y Minutes](https://learnxinyminutes.com/)
 - [LearnKu](https://learnku.com/)
 - [Lenguaje HTML](https://lenguajehtml.com/)
 - [Lenguaje Javascript](https://lenguajejs.com/)
@@ -1009,6 +1015,9 @@
 - [The Gradient](https://thegradient.pub/)
 - [vas3k](https://vas3k.com/)
 - [Vas3k - Machine Learning](https://vas3k.com/blog/machine_learning)
+
+##### Programming Documentation
+- [Learn X in Y Minutes](https://learnxinyminutes.com/)
 
 ##### Supercomputing
 - [Barcelona Supercomputing Center](https://www.bsc.es/)
@@ -1114,15 +1123,12 @@
 - [Estadística](http://www.estadistica.net/)
 - [Fernando Revilla - Docencia matemática](http://fernandorevilla.es/)
 - [FlowingData](https://flowingdata.com/)
-- [Fractal Explorer by Mytino](https://mytino.itch.io/fractal-explorer)
 - [Geometría dinámica](https://www.geometriadinamica.es/)
 - [Gitit.net](https://gitit.net/)
 - [House of Graphs](https://hog.grinvin.org/)
 - [Integrales Irracionales](http://www.estadistica.net/Algoritmos2/2irracionales.html)
 - [Interactive Mathematics](https://www.intmath.com/)
 - [IXL | Ejercicios de Matemáticas](https://es.ixl.com/)
-- [Mandelbrot](https://mandelbrot.ophir.dev/#{%22pos%22:{%22x%22:-0.4705000000000001,%22y%22:-0.2735000000000001},%22zoom%22:250})
-- [Mandelbrot Set Explorer](http://mandel.gart.nz/)
 - [Matemáticas | Khan Academy](https://es.khanacademy.org/math)
 - [Matemáticas IES](https://matematicasies.com/)
 - [MateMovil](https://matemovil.com/)

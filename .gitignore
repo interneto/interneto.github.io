@@ -7,5 +7,5 @@ node_modules/
 .env
 .idea/
 .vscode/
-interneto-links.csv
+links/
 docs/nsfw_content.md
