@@ -1,3 +1,12 @@
+---
+title: Comparing AI Coding Tools
+description: Comparing best AI Coding Tools in 2026
+date: 2026-04-29
+next: false
+prev: false
+footer: true
+---
+
 <Post authors="David7ce"/>
 
 AI coding workflows now split into three layers:
@@ -10,7 +19,7 @@ This guide compares the most relevant tools in each layer.
 
 ## All AI Code Editors
 
-|          | Tool                                                | Company        | License           | Price         | Strengths                        | Tradeoffs                |
+| Icon app | Tool                                                | Company        | License           | Price         | Strengths                        | Tradeoffs                |
 |:--------:|-----------------------------------------------------|----------------|-------------------|---------------|----------------------------------|--------------------------|
 | ![][vsc] | [VS Code + Copilot](https://code.visualstudio.com/) | Microsoft      | MIT + Proprietary | Free / $10/mo | Huge ecosystem, familiar UX      | Manual AI config         |
 | ![][cur] | [Cursor](https://cursor.com/)                       | Anysphere      | Proprietary       | Free / $20/mo | Fast edits, codebase chat        | VS Code fork drift       |
@@ -20,17 +29,17 @@ This guide compares the most relevant tools in each layer.
 
 ## AI CLI and Agents
 
-|            | Tool                                                      | Company            | License     | Price        | Strengths                       | Tradeoffs       |
-|:----------:|-----------------------------------------------------------|--------------------|-------------|--------------|---------------------------------|-----------------|
-|  ![][cc]   | [Claude Code](https://claude.ai/code)                     | Anthropic          | Proprietary | Pay-per-use  | Long context, deep codebase nav | API cost        |
-|  ![][cdx]  | [OpenAI Codex](https://openai.com/codex/)                 | OpenAI             | Proprietary | Pay-per-use  | Strong planning + execution     | Cloud only      |
-|  ![][gem]  | [Gemini CLI](https://github.com/google-gemini/gemini-cli) | Google             | Apache-2.0  | Free (quota) | Google tools, multimodal        | Early toolchain |
-| ![][ghcli] | [GitHub CLI](https://cli.github.com/)                     | GitHub / Microsoft | MIT         | Free         | GitHub ops, scriptable          | Not an LLM      |
-|  ![][oc]   | [OpenCode](https://opencode.ai/)                          | Community          | MIT         | Free         | Open, hackable                  | Setup overhead  |
+|  Icon app  | Tool                                                      | Company   | License        | Price        | Strengths                       | Tradeoffs          |
+|:----------:|-----------------------------------------------------------|-----------|----------------|--------------|---------------------------------|--------------------|
+|  ![][cc]   | [Claude Code](https://claude.ai/code)                     | Anthropic | Proprietary    | Pay-per-use  | Long context, deep codebase nav | API cost           |
+|  ![][cdx]  | [OpenAI Codex](https://openai.com/codex/)                 | OpenAI    | Proprietary    | Pay-per-use  | Strong planning + execution     | Cloud only         |
+|  ![][gem]  | [Gemini CLI](https://github.com/google-gemini/gemini-cli) | Google    | Apache-2.0     | Free (quota) | Google tools, multimodal        | Early toolchain    |
+| ![][ghcli] | [GitHub CLI](https://github.com/features/copilot/cli)     | Microsoft | GH CLI License | Free         | GitHub ops, scriptable          | Not very powerfull |
+|  ![][oc]   | [OpenCode](https://opencode.ai/)                          | Community | MIT            | Free         | Open, hackable                  | Setup overhead     |
 
 ## Local LLM Runtimes
 
-|           | Tool                                               | Company              | License     | Price | Strengths                          | Tradeoffs               |
+| Icon app  | Tool                                               | Company              | License     | Price | Strengths                          | Tradeoffs               |
 |:---------:|----------------------------------------------------|----------------------|-------------|-------|------------------------------------|-------------------------|
 | ![][oll]  | [Ollama](https://ollama.com/)                      | Ollama               | MIT         | Free  | Easy setup, HTTP API, broad models | Hardware-limited        |
 | ![][lms]  | [LM Studio](https://lmstudio.ai/)                  | LM Studio            | Proprietary | Free  | GUI, local API mode                | Less scriptable         |
