@@ -9,8 +9,6 @@ footer: true
 
 <Post authors="David7ce"/>
 
-:::
-
 # What Is Information? How To Create Knowledge?
 
 A lightweight model for turning your saved links into durable understanding.
