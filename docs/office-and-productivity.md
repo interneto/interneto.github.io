@@ -1,6 +1,6 @@
 # Office & Productivity
 
-**Total Bookmarks:** 1251
+**Total Bookmarks:** 1025
 
 - ⭐ **[Hotkey Cheatsheet - Improve Your Productivity with Keyboard Shortcuts](https://hotkeycheatsheet.com/)**
 - [Boosted](https://www.boostedproductivity.com/)
@@ -277,6 +277,7 @@
 - [Notionlytics](https://notionlytics.com/)
 - [Oktopost](https://www.oktopost.com/)
 - [Open Web Analytics](https://www.openwebanalytics.com/)
+- [OpenMetadata: #1 Open Source Metadata Platform](https://open-metadata.org/) / [🔗](https://github.com/open-metadata/OpenMetadata)
 - [Openpanel.dev - An open-source alternative to Mixpanel](https://openpanel.dev/)
 - [Palantir - Gotham](https://www.palantir.com/platforms/gotham/)
 - [Pridma analytics - Customizable, privacy-friendly Google Analytics alternative](https://www.prismeanalytics.com/)
@@ -641,12 +642,14 @@
 - [NoteSelf — Your selfish notebook](https://noteself.org/)
 - [Notorious](https://notorious.gabmus.org/)
 - [Office / KleverNotes · GitLab](https://invent.kde.org/office/klevernotes)
+- [Omi AI - note taking app recorder for voice to notes transcription](https://www.omi.me/) / [🔗](https://github.com/BasedHardware/omi)
 - [Open Notebook](https://www.open-notebook.ai/) / [🔗](https://github.com/lfnovo/open-notebook)
 - [Org preview HTML · GitHub](https://github.com/jakebox/org-preview-html/)
 - [Orgmode.nvim](https://nvim-orgmode.github.io/)
 - [Orgzly](http://www.orgzly.com/)
 - [Otter Voice](https://otter.ai/)
 - [outline/outline · GitHub](https://github.com/outline/outline)
+- [OwnSync Notes](https://ownsyncnote.com/)
 - [Passfindr - The Swiss Army Knife of Note-Taking](https://passfindr.com/)
 - [Plume](https://www.get-plume.com/)
 - [Postach.io](https://postach.io/)
@@ -679,6 +682,7 @@
 - [Tangent Notes](https://www.tangentnotes.com/)
 - [ThinkPost](https://thinkpost.io/)
 - [tiddlyroam](https://tiddlyroam.org/)
+- [Tolaria — A second brain for the AI era](https://tolaria.md/) / [🔗](https://github.com/refactoringhq/tolaria)
 - [tomboy-notes/tomboy-ng · GitHub](https://github.com/tomboy-notes/tomboy-ng)
 - [Transno](https://transno.com/mobile/)
 - [Tressel - Save content from the Internet to your notes](https://tressel.xyz/)
@@ -700,6 +704,15 @@
 - [zk](https://zk-org.github.io/zk/)
 - [Znote – Turn your notes into tools](https://znote.io/)
 - [Zoho NoteBook](https://www.zoho.com/notebook)
+
+## Novel Authoring Tool
+- [Lore Forge](https://loreforge.com/)
+- [Manuskript](https://www.theologeek.ch/manuskript/) / [🔗](https://github.com/olivierkes/manuskript/)
+- [novelWriter](https://novelwriter.io/) / [🔗](https://github.com/vkbo/novelwriter)
+- [Pinery: Self-Publishing App.](https://pinery.app/)
+- [Scrivener - Literature & Latte](https://www.literatureandlatte.com/scrivener/overview)
+- [STARC - All-in-One Screenwriting App for Mac, Windows, Android & iOS](https://starc.app/) / [🔗](https://github.com/story-apps/starc)
+- [Ulysses](https://ulysses.app/)
 
 ## Office suite
 - ⭐ **[LibreOffice - Free Office Suite](https://www.libreoffice.org/)**
@@ -934,7 +947,7 @@
 - [Zenkit Projects](https://zenkit.com/)
 
 ## Reference management
-- ⭐ **[Zotero](https://www.zotero.org/)**
+- ⭐ **[Zotero](https://www.zotero.org/)** / [🔗](https://github.com/zotero/zotero)
 - [BibTeX](http://www.bibtex.org/)
 - [Citavi](https://www.citavi.com/es)
 - [Citavi - Best Reference Management Software](https://citavi.com/en)
@@ -963,20 +976,6 @@
 
 ## Scanner
 
-### OMR
-- ⭐ **[Sheet Music Manager - Convert Music to MusicXML](https://www.sheetmusictranscriber.com/)**
-- ⭐ **[Sheet Music Scanner | SCANSCORE Sheet Music Scanning Software](https://scan-score.com/en/)**
-- [aashrafh/Mozart: An optical music recognition (OMR) system. Converts sheet music to a machine-readable version.](https://github.com/aashrafh/Mozart)
-- [Audiveris/audiveris: Latest generation of Audiveris OMR engine](https://github.com/Audiveris/audiveris)
-- [BreezeWhite/oemer: End-to-end Optical Music Recognition (OMR) system. Transcribe phone-taken music sheet image into MusicXML, which can be edited and converted to MIDI.](https://github.com/BreezeWhite/oemer)
-- [MUSITEK - Music Scanning Software](https://www.musitek.com/)
-- [Newzik – Beyond Sheet Music](https://newzik.com/en/)
-- [PhotoScore Music Scanning Software from Neuratron](https://www.neuratron.com/photoscore.htm)
-- [PlayScore 2 Sheet Music Scanner | PlayScore](https://www.playscore.co/)
-- [Scan2Notes - The Most Accurate AI Sheet Music Scanner | klang.io](https://klang.io/scan2notes/)
-- [Sheet Music Scanner](https://sheetmusicscanner.com/)
-- [SheetVision - The AI Data Analyst for Everyone](https://sheetvisions.com/) / [🔗](https://github.com/cal-pratt/SheetVision)
-
 ### Barcode scanner
 - [BinaryEye · GitHub](https://github.com/markusfisch/BinaryEye)
 - [CoBang · GitHub](https://github.com/hongquan/CoBang)
@@ -988,11 +987,29 @@
 - [Scangine](https://scangine.com/)
 - [zxing/zxing: ZXing ("Zebra Crossing") · GitHub](https://github.com/zxing/zxing)
 
+### Document Scanner
+- [Adobe Scan FAQ](https://helpx.adobe.com/mobile-apps/help/adobe-scan-faq.html)
+- [Akylas/com.akylas.documentscanner · GitHub](https://github.com/Akylas/com.akylas.documentscanner)
+- [Akylas/OSS-DocumentScanner: Document scanning app](https://github.com/Akylas/OSS-DocumentScanner)
+- [CamScanner](https://www.camscanner.com/)
+- [egdels/makeacopy · GitHub](https://github.com/egdels/makeacopy)
+- [ethereal-developers/OpenScan · GitHub](https://github.com/ethereal-developers/OpenScan)
+- [FairScan - Simple & Respectful Document Scanner for Android](https://fairscan.org/) / [🔗](https://github.com/pynicolas/FairScan)
+- [Fast Scanner](https://www.coolmobilesolution.com/)
+- [Genius Scan - Mobile Document Scanner App with PDF Creation and OCR Text Recognition](https://thegrizzlylabs.com/genius-scan)
+- [LittleTrickster/PDF-Doc-Scan · GitHub](https://github.com/LittleTrickster/PDF-Doc-Scan)
+- [Microsoft Lens - PDF Scanner - Apps on Google Play](https://play.google.com/store/apps/details?id=com.microsoft.office.officelens)
+- [Pocket Scanner | The Best Scanner App For iOS](https://www.kdan.com/pocket-scanner)
+- [SwiftScan](https://swiftscan.app/en/index.html)
+- [Tap Mobile](https://tap.pm/)
+- [Tiny Scanner: document scanning, file converter and text recognition](https://www.tinyscan.app/)
+
 ### OCR
 - [Amazon Textract - OCR Software, Data Extraction Tool](https://aws.amazon.com/textract/)
 - [Capture2Text - SourceForge](https://sourceforge.net/projects/capture2text/)
 - [Easy Screen OCR](https://easyscreenocr.com/)
 - [eSearch - screen recognition · search](https://esearch-app.netlify.app/)
+- [firecrawl/pdf-inspector: Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions](https://github.com/firecrawl/pdf-inspector)
 - [Free OCR](http://www.freeocr.net/)
 - [GetFrog.app](https://getfrog.app/)
 - [gImageReader · GitHub](https://github.com/manisandro/gImageReader)
@@ -1023,22 +1040,19 @@
 - [TextSnatcher · GitHub](https://github.com/RajSolai/TextSnatcher)
 - [TextSniper](https://textsniper.app/)
 
-### Document Scanner
-- [Adobe Scan FAQ](https://helpx.adobe.com/mobile-apps/help/adobe-scan-faq.html)
-- [Akylas/com.akylas.documentscanner · GitHub](https://github.com/Akylas/com.akylas.documentscanner)
-- [Akylas/OSS-DocumentScanner: Document scanning app](https://github.com/Akylas/OSS-DocumentScanner)
-- [CamScanner](https://www.camscanner.com/)
-- [egdels/makeacopy · GitHub](https://github.com/egdels/makeacopy)
-- [ethereal-developers/OpenScan · GitHub](https://github.com/ethereal-developers/OpenScan)
-- [FairScan - Simple & Respectful Document Scanner for Android](https://fairscan.org/) / [🔗](https://github.com/pynicolas/FairScan)
-- [Fast Scanner](https://www.coolmobilesolution.com/)
-- [Genius Scan - Mobile Document Scanner App with PDF Creation and OCR Text Recognition](https://thegrizzlylabs.com/genius-scan)
-- [LittleTrickster/PDF-Doc-Scan · GitHub](https://github.com/LittleTrickster/PDF-Doc-Scan)
-- [Microsoft Lens - PDF Scanner - Apps on Google Play](https://play.google.com/store/apps/details?id=com.microsoft.office.officelens)
-- [Pocket Scanner | The Best Scanner App For iOS](https://www.kdan.com/pocket-scanner)
-- [SwiftScan](https://swiftscan.app/en/index.html)
-- [Tap Mobile](https://tap.pm/)
-- [Tiny Scanner: document scanning, file converter and text recognition](https://www.tinyscan.app/)
+### OMR
+- ⭐ **[Sheet Music Manager - Convert Music to MusicXML](https://www.sheetmusictranscriber.com/)**
+- ⭐ **[Sheet Music Scanner | SCANSCORE Sheet Music Scanning Software](https://scan-score.com/en/)**
+- [aashrafh/Mozart: An optical music recognition (OMR) system. Converts sheet music to a machine-readable version.](https://github.com/aashrafh/Mozart)
+- [Audiveris/audiveris: Latest generation of Audiveris OMR engine](https://github.com/Audiveris/audiveris)
+- [BreezeWhite/oemer: End-to-end Optical Music Recognition (OMR) system. Transcribe phone-taken music sheet image into MusicXML, which can be edited and converted to MIDI.](https://github.com/BreezeWhite/oemer)
+- [MUSITEK - Music Scanning Software](https://www.musitek.com/)
+- [Newzik – Beyond Sheet Music](https://newzik.com/en/)
+- [PhotoScore Music Scanning Software from Neuratron](https://www.neuratron.com/photoscore.htm)
+- [PlayScore 2 Sheet Music Scanner | PlayScore](https://www.playscore.co/)
+- [Scan2Notes - The Most Accurate AI Sheet Music Scanner | klang.io](https://klang.io/scan2notes/)
+- [Sheet Music Scanner](https://sheetmusicscanner.com/)
+- [SheetVision - The AI Data Analyst for Everyone](https://sheetvisions.com/) / [🔗](https://github.com/cal-pratt/SheetVision)
 
 ## Survey or poll
 - [BlockSurvey.io](https://blocksurvey.io/)
@@ -1059,268 +1073,9 @@
 ## TelePrompter
 - [jpomykala/NotchPrompter: A very basic, always-on-top floating text prompter for macOS. Perfect for quick videos, or keeping important text visible while you work](https://github.com/jpomykala/NotchPrompter)
 
-## Text editing
-- [espanso](https://espanso.org/) / [🔗](https://github.com/espanso/espanso)
-
-### Code editor
-- [Acode - powerful code editor](https://acode.app/)
-- [Atom.io](https://atom.io/)
-- [BBEdit 15 - Bare Bones Software](https://www.barebones.com/products/bbedit/)
-- [Bluefish Editor](https://bluefish.openoffice.nl/index.html)
-- [Bootstrap Studio](https://bootstrapstudio.io/)
-- [Brackets.io](https://brackets.io/)
-- [CodeEdit | A native code editor for macOS](https://www.codeedit.app/)
-- [CodeMirror](https://codemirror.net/)
-- [Codeshare](https://codeshare.io/)
-- [Flexpilot IDE - Open-Source AI Native IDE](https://flexpilot.ai/)
-- [ICEcoder](https://icecoder.net/)
-- [Lapdev](https://lap.dev/)
-- [Light Table](http://lighttable.com/)
-- [Lite XL](https://lite-xl.com/)
-- [Monaco Editor](https://microsoft.github.io/monaco-editor/)
-- [NoteTab – Text Editor](https://www.notetab.com/)
-- [p5.js Web Editor](https://editor.p5js.org/)
-- [PearAI - The AI Code Editor For Your Next Project](https://trypear.ai/)
-- [Pingendo](https://pingendo.com/)
-- [PSeInt - SourceForge](https://pseint.sourceforge.net/)
-- [PSPad - free unicode developer editor](https://www.pspad.com/en/)
-- [RunJS](https://runjs.app/)
-- [UltraEdit Text Editor + Coding Software](https://www.ultraedit.com/)
-- [VSCodium](https://vscodium.com/)
-
-### AI Code Editor
-- ⭐ **[OpenCode | The open source AI coding agent](https://opencode.ai/)** / [🔗](https://github.com/sst/opencode)
-- ⭐ **[Visual Studio Code](https://code.visualstudio.com/)**
-- ⭐ **[Zed - Code at the speed of thought](https://zed.dev/)**
-- [Athas Industries - A lightweight code editor](https://athas.dev/) / [🔗](https://github.com/athasdev/athas)
-- [Codex | AI Coding Partner from OpenAI | OpenAI](https://openai.com/codex/)
-- [Cursor - The AI Code Editor](https://www.cursor.com/) / [🔗](https://github.com/cursor/cursor)
-- [Firebase Studio](https://firebase.studio/)
-- [Google Antigravity](https://antigravity.google/)
-- [Open Interpreter: The Desktop Agent](https://www.openinterpreter.com/) / [🔗](https://github.com/openinterpreter/open-interpreter)
-- [Revise - AI editor for your documents](https://revise.io/)
-- [Windsurf (formerly Codeium)](https://windsurf.com/)
-
-### Hex editor
-- ⭐ **[ImHex](https://imhex.werwolv.net/)**
-- [HexEd.it - Browser-based Online and Offline Hex Editing](https://hexed.it/)
-- [Hiew.ru](https://www.hiew.ru/)
-- [HxD - mh-nexus](https://mh-nexus.de/en/hxd/)
-- [Online Hex editor tool](https://hex-works.com/)
-- [SweetScape Software Inc - Pro Text/Hex Editor](https://www.sweetscape.com/)
-- [WerWolv/ImHex · GitHub](https://github.com/WerWolv/ImHex)
-
-### Latex editor
-- ⭐ **[Overleaf](https://www.overleaf.com/)**
-- [CoCalc](https://cocalc.com/)
-- [GNU TeXmacs (FSF GNU project)](https://www.texmacs.org/tmweb/home/welcome.en.html)
-- [Kile (LaTeX)](https://kile.sourceforge.io/)
-- [LaTeX Base](https://latexbase.com/)
-- [LaTeX Codecogs](https://latex.codecogs.com/)
-- [LaTeX Equation Editor](https://latexeditor.lagrida.com/)
-- [LyX](https://www.lyx.org/)
-- [Mathcha - Online Math Editor](https://www.mathcha.io/)
-- [MiKTeX.org](https://miktex.org/)
-- [Prism | A free, LaTeX-native workspace for scientists | OpenAI](https://openai.com/prism/)
-- [Setzer - LaTeX Editor](https://www.cvfosammmm.org/setzer/)
-- [Texmaker](https://www.xm1math.net/texmaker/)
-- [Texpad · Smoothest way to write LaTeX](https://www.texpad.com/)
-- [TeXShop](https://pages.uoregon.edu/koch/texshop)
-- [TeXstudio](https://texstudio.org/)
-- [TeXworks](https://tug.org/texworks/)
-- [VIM-LaTeX](http://vim-latex.sourceforge.net/)
-
-### Markdown editor
-- ⭐ **[HackMD - Collaborative Markdown Knowledge Base](https://hackmd.io/)**
-- ⭐ **[HedgeDoc - Ideas grow better together](https://hedgedoc.org/)**
-- ⭐ **[Obsidian - Sharpen your thinking](https://obsidian.md/)**
-- [Apostrophe – Apps for GNOME](https://apps.gnome.org/app/org.gnome.gitlab.somas.Apostrophe/)
-- [Byword](https://bywordapp.com/)
-- [Clearly Markdown](https://clearly.md/) / [🔗](https://github.com/Shpigford/clearly)
-- [CodiMD - Collaborative markdown notes](https://codimd.web.cern.ch/)
-- [Dillinger - Online Markdown Editor](https://dillinger.io/)
-- [DrWrite (Online editor for Dropbox)](https://github.com/ryanpcmcquen/DrWrite)
-- [Editor.md - Ipandao](http://editor.md.ipandao.com/)
-- [fabiocolacio/Marker · GitHub](https://github.com/fabiocolacio/Marker)
-- [GNOME / Apostrophe · GitLab](https://gitlab.gnome.org/World/apostrophe/)
-- [gsantner/markor · GitHub](https://github.com/gsantner/markor)
-- [MacDown](https://macdown.uranusjr.com/)
-- [Mark Text](https://marktext.app/)
-- [MarkD - Advanced Markdown Editor](https://markd.it/)
-- [Markdownify](https://markdownify.js.org/)
-- [Marked 2](https://marked2app.com/)
-- [markText/markText · GitHub](https://github.com/marktext/marktext)
-- [MWeb - Pro Markdown writing, note taking and static blog generator App](https://www.mweb.im/)
-- [nvUltra](https://nvultra.com/)
-- [Omni-Notes](https://omninotes.app/)
-- [QOwnNotes](https://www.qownnotes.org/)
-- [RetroNote - A markdown based writing app for all your needs](https://www.retronote.app/)
-- [StackEdit – In-browser Markdown editor](https://stackedit.io/app#)
-- [Sylvain PHILIP / Bookup · GitLab](https://gitlab.gnome.org/ilhooq/bookup)
-- [Tenno](https://tenno.app/)
-- [toolstack/Folio · GitHub](https://github.com/toolstack/Folio)
-- [Typora.io - markdown editor and reader](https://typora.io/)
-
-### Novel Authoring Tool
-- [Lore Forge](https://loreforge.com/)
-- [Manuskript](https://www.theologeek.ch/manuskript/) / [🔗](https://github.com/olivierkes/manuskript/)
-- [novelWriter](https://novelwriter.io/) / [🔗](https://github.com/vkbo/novelwriter)
-- [Pinery: Self-Publishing App.](https://pinery.app/)
-- [Scrivener - Literature & Latte](https://www.literatureandlatte.com/scrivener/overview)
-- [STARC - All-in-One Screenwriting App for Mac, Windows, Android & iOS](https://starc.app/) / [🔗](https://github.com/story-apps/starc)
-- [Ulysses](https://ulysses.app/)
-
-### IDE (Integrated Development Environment)
-- [Aide - Your AI Programming Assistant](https://aide.dev/)
-- [Anaconda Distribution](https://www.anaconda.com/products/distribution)
-- [Anjuta DevStudio](http://anjuta.org/)
-- [Apache NetBeans](https://netbeans.apache.org/)
-- [B4X | Cross platform RAD development tools](https://www.b4x.com/)
-- [BlueJ](https://www.bluej.org/)
-- [Cevelop](https://www.cevelop.com/)
-- [Code::Blocks](https://www.codeblocks.org/)
-- [Dev-C++](https://bloodshed.net/)
-- [Eclipse IDE](https://www.eclipse.org/ide/)
-- [Gambas IDE](http://gambas.sourceforge.net/en/main.html)
-- [GoormIDE](https://ide.goorm.io/)
-- [Graviton Editor](https://graviton.netlify.app/)
-- [IntelliJ IDEA - JetBrains](https://www.jetbrains.com/idea) / [🔗](https://github.com/JetBrains/intellij-community)
-- [JetBrains Rider - Cross-Platform .NET IDE](https://www.jetbrains.com/rider/)
-- [KDevelop.org](https://www.kdevelop.org/)
-- [Komodo IDE](https://www.activestate.com/products/komodo-ide)
-- [Lazarus IDE](https://www.lazarus-ide.org/)
-- [Leporello.js](https://leporello.tech/)
-- [MonoDevelop](https://www.monodevelop.com/)
-- [Nova IDE](https://nova.app/)
-- [One Ware Studio](https://one-ware.com/studio/)
-- [Phoenix - IDE for web](https://phcode.dev/)
-- [PlatformIO](https://platformio.org/)
-- [Portable Python](https://sourceforge.net/projects/portable-python/)
-- [PyCharm: Python IDE by JetBrains](https://www.jetbrains.com/pycharm/)
-- [PyDev](http://www.pydev.org/)
-- [R Markdown](https://rmarkdown.rstudio.com/)
-- [React Studio](https://reactstudio.com/)
-- [SharpDevelop](https://github.com/icsharpcode/sharpdevelop)
-- [Spyder IDE](https://www.spyder-ide.org/)
-- [Thonny, Python IDE](https://thonny.org/)
-- [Trae - Ship Faster with Trae](https://www.trae.ai/)
-- [Visual Studio - IDE for software developers](https://visualstudio.microsoft.com/)
-- [VisualVM](https://visualvm.github.io/)
-- [WebStorm - JetBrains](https://www.jetbrains.com/webstorm/)
-- [Xcode - Apple](https://developer.apple.com/xcode/)
-- [Zasper: A Supercharged IDE for Data ScienceE](https://zasper.io/)
-
-### Text editor
-- ⭐ **[GitJournal - MD Notes integrated with Git](https://gitjournal.io/)**
-- ⭐ **[Kate - Modern text editor](https://kate-editor.org/)** / [🔗](https://invent.kde.org/utilities/kate)
-- ⭐ **[Nano Editor](https://www.nano-editor.org/)**
-- ⭐ **[Sublime Text](https://www.sublimetext.com/)**
-- ⭐ **[Typst - Compose papers faster](https://typst.app/)**
-- ⭐ **[XML Copy Editor](https://xml-copy-editor.sourceforge.io/)**
-- ⭐ **[Zen - Online Text Editor](https://zen.unit.ms/)**
-- [4coder 4.1 by Mr. 4th](https://mr-4th.itch.io/4coder)
-- [Acode - Code editor for Android](https://acode.foxdebug.com/)
-- [billthefarmer/editor: Android simple text editor · GitHub](https://github.com/billthefarmer/editor)
-- [BlueGriffon](http://bluegriffon.org/)
-- [CKEditor](https://ckeditor.com/)
-- [Coastline](https://play.google.com/store/apps/details?gl=US&hl=en_US&id=com.rumsunrise.coastline)
-- [CudaText Editor](https://cudatext.github.io/)
-- [dail8859/NotepadNext · GitHub](https://github.com/dail8859/NotepadNext)
-- [Dcoder](https://dcoder.tech/)
-- [Edit Pad - Online Text Editor](https://www.editpad.org/)
-- [elementary/code · GitHub](https://github.com/elementary/code)
-- [EverEdit](https://everedit.net/)
-- [face-hh/fextify · GitHub](https://github.com/face-hh/fextify)
-- [Flatfile](https://flatfile.com/)
-- [focus-editor/focus: A simple and fast text editor](https://github.com/focus-editor/focus)
-- [ForLoopCodes/legacy-notepad · GitHub](https://github.com/ForLoopCodes/legacy-notepad)
-- [Fresh - The Terminal Text Editor](https://sinelaw.github.io/fresh/)
-- [Geany - The Flyweight IDE](https://geany.org/)
-- [Gedit - GNOME](https://wiki.gnome.org/Apps/Gedit)
-- [GNOME terminator](https://gnome-terminator.org/)
-- [Helix](https://helix-editor.com/)
-- [Heynote](https://heynote.com/)
-- [ibara/mg: OpenBSD Mg editor](https://github.com/ibara/mg)
-- [jEdit](http://www.jedit.org/)
-- [Joe's Own Editor](https://joe-editor.sourceforge.io/)
-- [Kakoune](https://kakoune.org/)
-- [Kakoune · GitHub](https://github.com/mawww/kakoune)
-- [KiloDoc](https://www.kilodoc.com/about)
-- [klange/bim: lightweight terminal text editor](https://github.com/klange/bim)
-- [Leaf Note - Google Play](https://play.google.com/store/apps/details?id=me.shouheng.leafnote)
-- [Left by Rek & Devine](https://hundredrabbits.itch.io/left)
-- [Markor](https://gsantner.net/project/markor.html?source=gplay)
-- [Micro editor](https://micro-editor.github.io/)
-- [microsoft/edit: We all edit.](https://github.com/microsoft/edit?tab=readme-ov-file)
-- [New blank page](https://blank.page/)
-- [Notepad](https://play.google.com/store/apps/details?gl=US&hl=en_US&id=com.farmerbb.notepad)
-- [Notepad - Offline capable](https://notepad.js.org/)
-- [Notepad++](https://notepad-plus-plus.org/)
-- [Notepadqq](https://notepadqq.com/s/)
-- [Notepads](https://www.notepadsapp.com/) / [🔗](https://github.com/0x7c13/Notepads)
-- [OlaProeis/Ferrite: A fast, lightweight text editor for Markdown, JSON, YAML, and TOML files. Built with Rust and egui for a native, responsive experience.](https://github.com/OlaProeis/Ferrite)
-- [Online Notepad](https://onlinenotepad.org/notepad)
-- [Paperless.io](https://www.paperless.io/)
-- [ProseMirror](https://prosemirror.net/)
-- [PSPad editor](https://www.pspad.com/)
-- [Pulsar edit](https://pulsar-edit.dev/) / [🔗](https://github.com/pulsar-edit/pulsar)
-- [QuickEdit Text Editor](https://rhmsoft.com/qedit/help.html)
-- [Quill - Your powerful rich text editor](https://quilljs.com/)
-- [Scintilla and SciTE](https://scintilla.org/)
-- [Squibler](https://www.squibler.io/)
-- [TextMate](https://macromates.com/)
-- [TinyMCE](https://www.tiny.cloud/)
-- [tsujan/FeatherPad · GitHub](https://github.com/tsujan/FeatherPad)
-- [VScode for Android - Apps on Google Play](https://play.google.com/store/apps/details?id=dev.environment.VScode_Paid)
-- [Xi editor](https://xi-editor.io/)
-
-#### emacs editor
-- ⭐ **[GNU Emacs](https://www.gnu.org/software/emacs/)**
-- ⭐ **[Org mode](https://orgmode.org/)**
-- [Doom-emacs](https://github.com/hlissner/doom-emacs)
-- [Emacs.sexy](https://emacs.sexy/)
-- [Spacemacs](https://www.spacemacs.org/)
-- [zevlg/telega.el: GNU Emacs telegram client · GitHub](https://github.com/zevlg/telega.el/)
-
-#### vim editor
-- ⭐ **[Neovim.io](https://neovim.io/)** / [🔗](https://github.com/neovim/neovim)
-- [akiyosi/goneovim · GitHub](https://github.com/akiyosi/goneovim)
-- [artart222/CodeArt · GitHub](https://github.com/artart222/CodeArt)
-- [AstroNvim](https://astronvim.com/)
-- [equalsraf/neovim-qt · GitHub](https://github.com/equalsraf/neovim-qt)
-- [LazyVim](https://www.lazyvim.org/)
-- [LunarVim](https://www.lunarvim.org/)
-- [Neovide](https://neovide.dev/)
-- [NvChad · Neovim with lua is cool](https://nvchad.com/)
-- [nyoom-engineering/nyoom.nvim · GitHub](https://github.com/nyoom-engineering/nyoom.nvim)
-- [vhakulinen/gnvim · GitHub](https://github.com/vhakulinen/gnvim)
-- [Vim](https://www.vim.org/) / [🔗](https://github.com/vim/vim)
-- [yatli/fvim · GitHub](https://github.com/yatli/fvim)
-
-### Word processor
-- [AbiWord](http://www.nl.abisource.com/)
-- [Calmly Writer: The Ultimate Distraction-Free Writing App](https://www.calmlywriter.com/)
-- [KDE ghostwriter](https://ghostwriter.kde.org/)
-- [TextMaker - Softmaker](https://www.softmaker.com/en/softmaker-office-textmaker)
-- [Tritium | Integrated drafting environment for Lawyers](https://tritium.legal/)
-
-### XML editor
-- [aleksey-hoffman/sigma-file-manager · GitHub](https://github.com/aleksey-hoffman/sigma-file-manager)
-- [doug-101/TreeLine · GitHub](https://github.com/doug-101/TreeLine)
-- [microsoft/XmlNotepad · GitHub](https://github.com/microsoft/xmlnotepad)
-- [morbac/xmltools: XML Tools plugin for Notepad++](https://github.com/morbac/xmltools)
-- [The XML Framework: Lightweight and High-Performance Data Processing](https://basex.org/)
-- [tree-sitter/tree-sitter · GitHub](https://github.com/tree-sitter/tree-sitter)
-- [XAML Studio | Microsoft Store](https://apps.microsoft.com/detail/9ntls214tkmq?hl=en-US&gl=ES) / [🔗](https://github.com/dotnet/XAMLStudio)
-- [XML Editor](https://www.oxygenxml.com/xml_editor.html)
-- [XML Editor, XML Tools, and XQuery - Stylus Studio](https://www.stylusstudio.com/)
-
-## Text viewer
-- [filiparag/wikiman · GitHub](https://github.com/filiparag/wikiman)
-- [NFO Viewer](https://otsaloma.io/nfoview/) / [🔗](https://github.com/otsaloma/nfoview)
-
 ## Whiteboard editor
 - ⭐ **[Excalidraw.com](https://excalidraw.com/)**
+- ⭐ **[Tldraw](https://www.tldraw.com/)**
 - ⭐ **[Witeboard](https://witeboard.com/0)**
 - [DigStack](https://www.digstack.com/landing/current)
 - [DoodleMaker](https://doodlemaker.com/go/)
@@ -1334,7 +1089,6 @@
 - [Scribble Together](https://scribbletogether.com/)
 - [Sketch Toy](https://sketchtoy.com/)
 - [Sketchpad](https://sketchpad.app/en)
-- [Tldraw](https://www.tldraw.com/)
 - [TruScribe](https://truscribe.com/)
 - [TTS Sketch Maker](https://ttssketchmaker.com/)
 - [WBO — Collaborative whiteboard](https://wbo.ophir.dev/)
@@ -1342,16 +1096,10 @@
 - [Whiteboard team](https://www.whiteboard.team/)
 - [Whiteboard.fi](https://whiteboard.fi/)
 
-## Wireframe
-- [Balsamiq: Fast, focused wireframing tools](https://balsamiq.com/)
-- [Flow - DanRoss](https://danross.co/flow/)
-- [Justinmind](https://www.justinmind.com/)
-- [mydraft.cc](https://mydraft.cc/)
-- [Overflow.io](https://overflow.io/)
-- [Sketchize](https://www.sketchize.com/)
-- [Stitch - Design with AI](https://stitch.withgoogle.com/)
-- [Whimsical - The iterative workspace for product teams](https://whimsical.com/)
-- [Wired Elements](https://wiredjs.com/)
-- [Wireframe.cc](https://wireframe.cc/)
-- [Wireframes to Go](https://wireframestogo.com/)
-- [Wirify](https://www.wirify.com/)
+## Word processor
+- [AbiWord](http://www.nl.abisource.com/)
+- [Calmly Writer: The Ultimate Distraction-Free Writing App](https://www.calmlywriter.com/)
+- [KDE ghostwriter](https://ghostwriter.kde.org/)
+- [Microsoft 365 - Microsoft Word](https://www.microsoft.com/en/microsoft-365/word?market=af)
+- [TextMaker - Softmaker](https://www.softmaker.com/en/softmaker-office-textmaker)
+- [Tritium | Integrated drafting environment for Lawyers](https://tritium.legal/)

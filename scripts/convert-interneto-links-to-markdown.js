@@ -6,8 +6,15 @@ import { fileURLToPath } from 'node:url'
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
 const ROOT_DIR = path.resolve(__dirname, '..')
 
-const INPUT_CSV = path.resolve(ROOT_DIR, 'interneto-links.csv')
 const OUTPUT_DIR = path.resolve(ROOT_DIR, 'docs')
+const INPUT_CSV_CANDIDATES = [
+  path.resolve(ROOT_DIR, 'interneto-links.csv'),
+  path.resolve(ROOT_DIR, 'links', 'interneto-links.csv')
+]
+
+function resolveInputCsvPath() {
+  return INPUT_CSV_CANDIDATES.find((candidate) => fs.existsSync(candidate)) || null
+}
 
 const CATEGORY_CONFIG = [
   {
@@ -405,11 +412,15 @@ function runLinting(targetFiles = []) {
 }
 
 function run() {
-  if (!fs.existsSync(INPUT_CSV)) {
-    throw new Error(`CSV file not found: ${INPUT_CSV}`)
+  const inputCsvPath = resolveInputCsvPath()
+
+  if (!inputCsvPath) {
+    throw new Error(
+      `CSV file not found in any known location: ${INPUT_CSV_CANDIDATES.join(', ')}`
+    )
   }
 
-  const csv = fs.readFileSync(INPUT_CSV, 'utf8')
+  const csv = fs.readFileSync(inputCsvPath, 'utf8')
   const rows = parseCsv(csv)
   const groups = new Map(
     CATEGORY_CONFIG.map((entry) => [entry.folder, createNode()])

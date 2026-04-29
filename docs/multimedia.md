@@ -1,6 +1,6 @@
 # Multimedia
 
-**Total Bookmarks:** 2208
+**Total Bookmarks:** 2230
 
 
 ## Audio & Music
@@ -34,7 +34,6 @@
 - [Metavoice - Conversational Speech Model for Voice AI Agents](https://tts.metavoice.io/)
 - [Microsoft Azure - Azure AI Speech](https://azure.microsoft.com/en-us/products/ai-services/ai-speech/)
 - [Microsoft Speech SDK 5.1 - Microsoft Download Center](https://www.microsoft.com/en-us/download/details.aspx?id=10121)
-- [MiniMax - Intelligence with everyone](https://www.minimax.io/)
 - [nari-labs/dia: A TTS model capable of generating ltra-realistic dialogue in one pass.](https://github.com/nari-labs/dia)
 - [Notevibes](https://notevibes.com/)
 - [NVIDIA PersonaPlex: Natural Conversational AI With Any Role and Voice - NVIDIA ADLR](https://research.nvidia.com/labs/adlr/personaplex/)
@@ -44,6 +43,7 @@
 - [Speaking of Voxtral](https://mistral.ai/news/voxtral-tts) / [🔗](https://huggingface.co/mistralai/models?search=voxtral)
 - [VibeVoice](https://microsoft.github.io/VibeVoice/) / [🔗](https://github.com/microsoft/VibeVoice)
 - [VisionAid International - Voice Downloads](https://www.visionaid.co.uk/visionaid-international---voice-downloads)
+- [Voicebox - Open Source Voice Cloning Desktop App](https://voicebox.sh/) / [🔗](https://github.com/jamiepine/voicebox)
 - [VOSK Models | Alpha Cephei](https://alphacephei.com/vosk/models)
 - [yl4579/StyleTTS2: StyleTTS 2: Towards Human-Level Text-to-Speech through Style Diffusion and Adversarial Training with Large Speech Language Models](https://github.com/yl4579/StyleTTS2)
 
@@ -145,6 +145,7 @@
 
 #### Speech recognition
 - ⭐ **[abus-aikorea/voice-pro · GitHub](https://github.com/abus-aikorea/voice-pro)**
+- ⭐ **[Moonshine AI](https://www.moonshine.ai/)** / [🔗](https://github.com/moonshine-ai/moonshine)
 - [AI Subtitle Generation, Transcription, Translation powered by OpenSubtitles](https://ai.opensubtitles.com/)
 - [alphacep/vosk-api: Offline speech recognition API](https://github.com/alphacep/vosk-api)
 - [Applio](https://applio.org/)
@@ -768,7 +769,7 @@
 - [VirtualPiano.net](https://virtualpiano.net/)
 - [VMPK. Virtual MIDI Piano Keyboard](https://vmpk.sourceforge.io/)
 
-## Image
+## Photos & Graphics
 
 ### 2D CG
 - [Infinite Painter - A powerful sketching, painting and illustration app.](https://www.infinitestudio.art/painter.php)
@@ -813,7 +814,7 @@
 - [Scribl!](https://www.scribl.ink/)
 - [Sozi](https://sozi.baierouge.fr/)
 - [Stop Motion Studio](https://www.cateater.com/)
-- [Storyboarder - wonder unit](https://wonderunit.com/storyboarder/)
+- [Storyboarder - wonder unit](https://wonderunit.com/storyboarder/) / [🔗](https://github.com/wonderunit/storyboarder)
 - [SVGator](https://www.svgator.com/)
 - [Synfig – Free and open-source animation software](https://www.synfig.org/)
 - [Tahoma2D - Free 2D & stop motion animation software](https://tahoma2d.org/)
@@ -1257,6 +1258,7 @@
 - [DraftSight - 2D CAD Design and Drafting Software](https://www.draftsight.com/)
 - [dubstar-04/Design: 2D CAD For GNOME](https://github.com/dubstar-04/Design)
 - [Dune 3D](https://dune3d.org/)
+- [FluidCAD - Parametric CAD for everyone](https://fluidcad.io/)
 - [Fusion 360](https://www.autodesk.com/campaigns/fusion-360)
 - [GstarCAD 2022](https://www.gstarcad.net/)
 - [Heeks/heekscad: Computer-Aided Design application based on OCE](https://github.com/Heeks/heekscad)
@@ -1385,6 +1387,7 @@
 - [Literature & Latte](https://www.literatureandlatte.com/)
 - [nTopology](https://ntopology.com/)
 - [Open Cascade](https://www.opencascade.com/)
+- [Pencil – Design on canvas. Land in code.](https://www.pencil.dev/)
 - [Playground - Free AI Design Tool: Logos, T-Shirts, Social Media](https://playground.com/)
 - [Smart pattern - Official website of the Valentina project](https://smart-pattern.com.ua/en/) / [🔗](https://gitlab.com/smart-pattern/valentina)
 - [Syncronorm](https://www.syncronorm.com/products/depence2/overview)
@@ -1467,6 +1470,7 @@
 - [Constella — The Visual Infinite Graph with AI](https://www.constella.app/)
 - [Creately.com](https://creately.com/)
 - [CS academy - Graph Editor](https://csacademy.com/app/graph_editor/)
+- [Delineato · Wireframes e Mockups Simples para Freelancers](https://delineato.app/)
 - [EdrawMind](https://www.edrawmind.com/)
 - [Edynco](https://www.edynco.com/)
 - [FLORA - Mindmap with AI](https://www.florafauna.ai/)
@@ -1763,6 +1767,23 @@
 - [Shottr.cc](https://shottr.cc/)
 - [Shutter](https://shutter-project.org/)
 - [Smart screenshot app for pros — history, edit, organize easily](https://pixsnip.com/)
+
+### Wireframe
+- ⭐ **[Napkins.dev – Screenshot to code](https://www.napkins.dev/)**
+- [Balsamiq: Fast, focused wireframing tools](https://balsamiq.com/)
+- [Flow - DanRoss](https://danross.co/flow/)
+- [Justinmind](https://www.justinmind.com/)
+- [mydraft.cc](https://mydraft.cc/)
+- [Onlook — Cursor for Designers](https://www.onlook.com/) / [🔗](https://github.com/onlook-dev/onlook)
+- [OpenPencil — Open-Source Design Editor](https://openpencil.dev/) / [🔗](https://github.com/open-pencil/open-pencil)
+- [Overflow.io](https://overflow.io/)
+- [Sketchize](https://www.sketchize.com/)
+- [Stitch - Design with AI](https://stitch.withgoogle.com/)
+- [Whimsical - The iterative workspace for product teams](https://whimsical.com/)
+- [Wired Elements](https://wiredjs.com/)
+- [Wireframe.cc](https://wireframe.cc/)
+- [Wireframes to Go](https://wireframestogo.com/)
+- [Wirify](https://www.wirify.com/)
 
 ## Reading
 
@@ -2132,6 +2153,7 @@
 - [Descript - Edit Videos & Podcasts Like a Doc](https://www.descript.com/)
 - [devhyper/open-video-editor · GitHub](https://github.com/devhyper/open-video-editor)
 - [Director Suite | Cyberlink](https://www.cyberlink.com/products/director-suite/features_en_US.html)
+- [edenaion/EZ-CorridorKey: Perfect Green Screen Keys made EZ!](https://github.com/edenaion/EZ-CorridorKey)
 - [EDIUS](https://www.edius.net/)
 - [Final Cut Pro | Apple](https://www.apple.com/final-cut-pro/)
 - [Flowblade](https://jliljebl.github.io/flowblade/)
@@ -2220,11 +2242,11 @@
 
 ### Video client
 - ⭐ **[Alex313031/quark-player: An Electron based Web Video Services Player, supporting Netflix, Youtube, Twitch, Floatplane, Hulu and More!](https://github.com/Alex313031/quark-player)**
+- ⭐ **[Grayjay - Follow Creators, Not Platforms](https://grayjay.app/)**
 - [AbleMusic](https://uditkarode.github.io/able/)
 - [Benexl/yt-x: Browse youtube from your terminal](https://github.com/Benexl/yt-x)
 - [cuynu/ytvanced · GitHub](https://github.com/cuynu/ytvanced)
 - [Delfin - Jellyfin client](https://delfin.avery.cafe/)
-- [Grayjay - Follow Creators, Not Platforms](https://grayjay.app/)
 - [jellyfin/jellyfin-mpv-shim · GitHub](https://github.com/jellyfin/jellyfin-mpv-shim)
 - [mu-fazil-vk/FluxTube · GitHub](https://github.com/mu-fazil-vk/FluxTube)
 - [MultiViewer — Watch F1 and More With Onboards and Live Timing](https://multiviewer.app/)
@@ -2242,6 +2264,7 @@
 - [trizen/youtube-viewer · GItHub](https://github.com/trizen/youtube-viewer)
 - [uYou+ · GitHub](https://github.com/qnblackcat/uYouPlus)
 - [vfsfitvnm/ViMusic · GitHub](https://github.com/vfsfitvnm/ViMusic)
+- [WiiFin](https://wiifin.zipna.me/) / [🔗](https://github.com/fabienmillet/WiiFin)
 - [Zenda-Cross/vega-app · GitHub](https://github.com/Zenda-Cross/vega-app)
 
 #### IPTV player
@@ -2302,6 +2325,7 @@
 - [Swiptv - IPTV Smart Player for iPhone, Apple TV, Mac and iPad](https://www.swiptv.app/)
 - [TDT Spain - Tu TV en Android](https://www.tdtspain.com/)
 - [TIVI player - IPTV Test & Free IPTV Trial App](https://tiviplayer.io/)
+- [tonywagner/EPlusTV: Virtual linear channels for various providers](https://github.com/tonywagner/EPlusTV)
 - [Tunarr](https://tunarr.com/) / [🔗](https://github.com/chrisbenincasa/tunarr)
 - [TV-Browser](https://www.tvbrowser.org/)
 - [Universof IPTV](https://universof.com/descargas/uni.apk)

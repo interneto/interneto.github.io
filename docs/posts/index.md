@@ -10,6 +10,7 @@ footer: true
 
 # Posts
 
+- [Comparing AI Coding Tools](/posts/comparing-ai-coding-tools)
 - [Comparing Bookmark Managers](/posts/comparing-bookmark-managers)
 - [How To Categorize Links](/posts/how-to-categorize-links)
 - [What Is Information?](/posts/what-is-info)

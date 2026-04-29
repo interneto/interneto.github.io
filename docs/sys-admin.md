@@ -1,6 +1,6 @@
 # Sys Admin
 
-**Total Bookmarks:** 1150
+**Total Bookmarks:** 1168
 
 - [osquery](https://osquery.io/)
 - [PIVPN: Simplest way to setup a VPN](https://pivpn.io/)
@@ -17,6 +17,7 @@
 - [Automa - An extension for browser automation](https://extension.automa.site/)
 - [Automate for Android ⋅ LlamaLab](https://llamalab.com/automate/)
 - [Autoruns for Windows - Sysinternals](https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns)
+- [Boilerplates — Something big is coming.](https://getboilerplates.app/) / [🔗](https://github.com/ChristianLempa/boilerplates)
 - [Claris](https://www.claris.com/)
 - [Drone CI – Automate Software Testing and Delivery](https://www.drone.io/)
 - [Flow Launcher](https://www.flowlauncher.com/)
@@ -437,6 +438,7 @@
 - [GloriousEggroll/proton-ge-custom · GitHub](https://github.com/GloriousEggroll/proton-ge-custom)
 - [James McDonnell / wine · GitLab](https://gitlab.winehq.org/ElementalWarrior/wine)
 - [Matoking/protontricks · GitHub](https://github.com/Matoking/protontricks)
+- [noahc3/AffinityPluginLoader · GitHub](https://github.com/noahc3/AffinityPluginLoader)
 - [PhialsBasement/wine-adobe-installers: Wine with a bit of extra spice](https://github.com/PhialsBasement/wine-adobe-installers)
 - [PyWinery · GitHub](https://github.com/ergoithz/pywinery)
 - [q4wine](https://sourceforge.net/projects/q4wine/)
@@ -455,12 +457,12 @@
 ### OS-level virtualization
 - ⭐ **[Distrobox](https://distrobox.it/)** / [🔗](https://github.com/89luca89/distrobox)
 - ⭐ **[Docker: Accelerated Container Application Development](https://www.docker.com/)**
-- [abiosoft/colima: Container runtimes on macOS (and Linux)](https://github.com/abiosoft/colima)
 - [Anbox Cloud - Scalable Android in the cloud](https://anbox-cloud.io/)
 - [anbox/anbox · GitHub](https://github.com/anbox/anbox)
 - [Arcane - Simple and Elegant Docker Management UI](https://arcane.ofkm.dev/)
 - [astro/microvm.nix: NixOS MicroVMs](https://github.com/astro/microvm.nix)
 - [Bird's-eye view for Kubernetes](https://getseabird.github.io/)
+- [Colima - Container runtimes on macOS and Linux](https://colima.run/) / [🔗](https://github.com/abiosoft/colima)
 - [container toolbx](https://containertoolbx.org/)
 - [containerd](https://containerd.io/)
 - [Crane](https://michaelsauter.github.io/crane/)
@@ -497,6 +499,7 @@
 - [Boxes - GNOME Wiki!](https://wiki.gnome.org/action/show/Apps/Boxes)
 - [BSD Hypervisor](https://bhyve.org/)
 - [Cameyo by Google - Virtualization solutions](https://cameyo.google/)
+- [Canonical Multipass - Orchestrates virtual Ubuntu instances](https://canonical.com/multipass) / [🔗](https://github.com/canonical/multipass)
 - [cyberus-technology/virtualbox-kvm · GitHub](https://github.com/cyberus-technology/virtualbox-kvm)
 - [Firecracker](https://firecracker-microvm.github.io/)
 - [foxlet/macOS-Simple-KVM · GitHub](https://github.com/foxlet/macOS-Simple-KVM)
@@ -505,9 +508,9 @@
 - [kholia/OSX-KVM · GitHub](https://github.com/kholia/OSX-KVM)
 - [Libvirt . The virtualization API](https://libvirt.org/)
 - [Libvirt Sandbox](https://sandbox.libvirt.org/)
+- [Lima](https://lima-vm.io/) / [🔗](https://github.com/lima-vm/lima)
 - [Linux Containers (LXC)](https://linuxcontainers.org/)
 - [Linux KVM](https://www.linux-kvm.org/page/Main_Page)
-- [Multipass orchestrates virtual Ubuntu instances | Canonical](https://canonical.com/multipass)
 - [Multipass VMS](https://multipass.run/)
 - [Packer by HashiCorp](https://www.packer.io/)
 - [Parallels](https://www.parallels.com/)
@@ -519,7 +522,7 @@
 - [sandboxie-plus/Sandboxie: Sandboxie Plus & Classic](https://github.com/sandboxie-plus/Sandboxie)
 - [SmartOS container](https://www.joyent.com/smartos)
 - [tobimensch/aqemu · GitHub](https://github.com/tobimensch/aqemu)
-- [UTM](https://getutm.app/)
+- [UTM](https://getutm.app/) / [🔗](https://github.com/utmapp/UTM)
 - [virt/virtio-win - Fedora](https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/)
 - [virtualbox (version download)](https://download.virtualbox.org/virtualbox/)
 - [VMmanager ISPsystem — Virtualization management platform based on QEMU/KVM](https://www.ispsystem.com/vmmanager)
@@ -669,7 +672,7 @@
 - [YouTube Data API](https://developers.google.com/youtube/v3/docs)
 
 #### HTTP client
-- [AXIOS](https://axios-http.com/)
+- [AXIOS](https://axios-http.com/) / [🔗](https://axios-http.com/)
 - [GetIt | Simple HTTP request application](https://getit.bartkessels.net/)
 - [h5ai · modern HTTP web server index · larsjung.de](https://larsjung.de/h5ai/)
 - [HTTPie](https://httpie.io/)
@@ -760,11 +763,13 @@
 - [productdevbook/port-killer · GitHub](https://github.com/productdevbook/port-killer)
 - [PRTG Network Monitor: All-in-One Network Monitoring Software](https://www.paessler.com/prtg)
 - [SimpleWall - HeryPP](https://www.henrypp.org/product/simplewall)
+- [Sniffnet: comfortably monitor your Internet traffic](https://sniffnet.net/) / [🔗](https://github.com/GyulyVGC/sniffnet)
 - [SoftPerfect : system and network management software](https://www.softperfect.com/)
 - [Suricata.io](https://suricata.io/)
 - [Tautulli](https://tautulli.com/) / [🔗](https://github.com/Tautulli/Tautulli)
 - [taylorwilsdon/netshow: Lightweight, performant interactive network connection monitor with friendly service names](https://github.com/taylorwilsdon/netshow)
 - [Tiny Shield - Network Monitoring & Protection for macOS](https://tinyshield.proxyman.com/)
+- [TraceBar — Live Traceroute in Your Menubar](https://tracebar.app/) / [🔗](https://github.com/tracebar-app/tracebar)
 - [Traceroute for Linux](https://traceroute.sourceforge.net/)
 - [Wazuh - Open Source XDR. Open Source SIEM](https://wazuh.com/)
 - [Yeraze/meshmonitor: Web tool for monitoring a Meshtastic Node Deployment over TCP/HTTP](https://github.com/Yeraze/meshmonitor)
@@ -894,6 +899,7 @@
 - [FoxyProxy](https://getfoxyproxy.org/)
 - [HAProxy](https://www.haproxy.org/)
 - [InterceptSuite - MITM Proxy for Thick Client & Non-HTTP Traffic](https://interceptsuite.com/)
+- [InvisiProxy LTS | Free Web Proxy - Bypass Filters & Access Blocked Sites](https://invisiproxy.com/) / [🔗](https://github.com/QuiteAFancyEmerald/InvisiProxy)
 - [LocalXpose | Bye bye localhost, hello world](https://localxpose.io/)
 - [Proxy-Hub](https://proxy-hub.com/)
 - [ProxyScrape | Unlock the power of the web with proxies](https://proxyscrape.com/)
@@ -929,6 +935,7 @@
 - [URLVoid - Check if a Website is Malicious/Scam or Safe/Legit](https://www.urlvoid.com/)
 
 ##### URL Shortner
+- [7.ly](https://www.7.ly/)
 - [AdFly](https://adf.ly/)
 - [AdFoc.us | Shrink, Share, and Earn!](https://adfoc.us/)
 - [Amazon shortner](https://amzn.to/)
@@ -963,15 +970,18 @@
 - [rb.gr - Free-url-shortener](https://free-url-shortener.rb.gy/)
 - [Rebrandly - Short URLs Free & Branded Links](https://www.rebrandly.com/)
 - [reddit shortner](https://redd.it/)
+- [s.id — Free Bio Link Tool, URL Shortener & QR Codes Generator](https://home.s.id/gl/en)
 - [ShortURL](https://www.shorturl.at/)
 - [Shrinkearn](https://shrinkearn.com/)
 - [ShrinkMe - URL shortner](https://shrinkme.io/)
 - [shrtcode](https://app.shrtco.de/)
 - [Sur.ly](https://sur.ly/)
 - [T.LY](https://t.ly/home)
+- [T.LY - URL Shortener, Branded Links & Click Tracking URL Shortener, Custom Domain & Short Link Management](https://t.ly/)
 - [t.me shortner](https://t.me/)
 - [Tiny URL](https://tiny.cc/)
 - [TinyURL](https://tinyurl.com/app)
+- [u.to — URL Shortening Service](https://u.to/)
 - [Unshort.link](https://unshort.link/)
 - [UQR.me](https://uqr.me/qr-code-generator/)
 - [url.rw](https://url.rw/)
@@ -996,6 +1006,7 @@
 - [Outage.Report](https://outage.report/)
 - [Resumen del estado](https://downdetector.es/)
 - [Soy Yo o Está Caído?](https://www.soyyooestacaido.com/)
+- [StatusGator - Cloud Monitoring with the #1 Status Page Aggregator](https://statusgator.com/)
 - [Website Down?!](https://www.website-down.com/)
 
 ### Packet analyzer
@@ -1015,7 +1026,7 @@
 ### Remote Desktop
 - ⭐ **[AnyDesk - The fast remove desk application](https://anydesk.com/en)**
 - ⭐ **[Duet - Remote Desktop, Second Display, Drawing Tablet, and More](https://www.duetdisplay.com/)**
-- ⭐ **[RustDesk - Remote desktop](https://rustdesk.com/)**
+- ⭐ **[RustDesk - Remote desktop](https://rustdesk.com/)** / [🔗](https://github.com/rustdesk/rustdesk)
 - [AirDroid](https://www.airdroid.com/)
 - [Apache Guacamole](https://guacamole.apache.org/)
 - [Apple Remote Desktop](https://support.apple.com/guide/remote-desktop/welcome/mac)
@@ -1039,6 +1050,7 @@
 - [Thincast Client](https://thincast.com/en/products/client)
 - [TigerVNC](https://tigervnc.org/) / [🔗](https://github.com/TigerVNC/tigervnc)
 - [UltraVNC - Remote Desktop](https://uvnc.com/)
+- [Workbench | High-Performance Remote Desktop for Mac](https://astropad.com/product/workbench/)
 
 ### Remote control
 - [ismartcoding/plain-app · GitHub](https://github.com/ismartcoding/plain-app)
@@ -1114,16 +1126,20 @@
 - [checkra1n](https://checkra.in/)
 - [Cydia](https://cydia-app.com/)
 - [opa334/Dopamine: Dopamine is a semi-untethered jailbreak for iOS 15 and 16](https://github.com/opa334/Dopamine)
+- [opa334/TrollStore: Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple](https://github.com/opa334/TrollStore)
 - [palera1n](https://palera.in/) / [🔗](https://github.com/palera1n/palera1n)
 - [unc0ver](https://unc0ver.dev/)
 
 ### APK analyzer
+- [alexcmgit/kanade: Android app to extract apks from installed apps.](https://github.com/alexcmgit/kanade)
 - [AndroidApkAnalyzer · GitHub](https://github.com/MartinStyk/AndroidApkAnalyzer)
 - [Apk Analyzer - Apps on Google Play](https://play.google.com/store/apps/details?id=sk.styk.martin.apkanalyzer)
 - [APK Backup - Apps on Google Play](https://play.google.com/store/apps/details?id=app.apk.backup&gl=US)
 - [App APK Extractor & Analyzer - Apps on Google Play](https://play.google.com/store/apps/details?id=com.ytheekshana.apkextractor)
 - [Device Info | System & CPU Info - Android App](https://www.deviceinfo.app/)
+- [Domilopment/apk-extractor: A Simple Modern APK Extractor App](https://github.com/Domilopment/apk-extractor)
 - [Install APK - Apps on Google Play](https://play.google.com/store/apps/details?id=com.rhythm.hexise.inst)
+- [ML Manager: An APK extractor & app manager for Android](https://about.javiersantos.me/mlmanager/)
 - [URLCheck - Google Play](https://play.google.com/store/apps/details?id=com.trianguloy.urlchecker)
 
 ### Cleaner PC
@@ -1143,6 +1159,7 @@
 - [IObit](https://www.iobit.com/en/index.php)
 - [iolo](https://www.iolo.com/)
 - [KDE Utilities - Sweeper](https://utils.kde.org/projects/sweeper/)
+- [momenbasel/PureMac: Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.](https://github.com/momenbasel/PureMac)
 - [PC Booster](https://www.pcbooster.com/)
 - [PC Cleaner](http://pccleaner.com/)
 - [Revo Uninstaller](https://www.revouninstaller.com/)
@@ -1196,7 +1213,7 @@
 - [xaitax/TotalRecall · GitHub](https://github.com/xaitax/TotalRecall)
 - [XMeters](https://entropy6.com/xmeters/)
 
-### Sys adminstrator
+### Sys administrator
 - [gsudo](https://gerardog.github.io/gsudo/)
 - [Sudo](https://www.sudo.ws/)
 
@@ -1211,6 +1228,7 @@
 
 ### Uninstall software
 - ⭐ **[Geek Uninstaller](https://geekuninstaller.com/)**
+- [Canta - Debloat Android without root](https://samolego.github.io/Canta/) / [🔗](https://github.com/samolego/Canta)
 - [Display Driver Uninstaller](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html)
 - [HiBit Uninstaller](http://www.hibitsoft.ir/Uninstaller.html)
 - [IObit Uninstaller](https://www.iobit.com/en/advanceduninstaller.php)

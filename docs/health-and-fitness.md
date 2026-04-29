@@ -1,6 +1,6 @@
 # Health & Fitness
 
-**Total Bookmarks:** 331
+**Total Bookmarks:** 332
 
 - [Alma: Your Nutrition Companion | Track, Learn & Discover Food](https://www.alma.food/)
 - [brandonp2412/Flexify · GitHub](https://github.com/brandonp2412/Flexify?tab=readme-ov-file)
@@ -24,6 +24,7 @@
 - [Anatomyou VR](https://anatomyou.com/)
 - [BioDigital | Interactive 3D Anatomy](https://www.biodigital.com/)
 - [Complete Anatomy - advanced 3D anatomy platform](https://3d4medical.com/)
+- [Human Anatomy and Disease in Interactive 3D | BioDigital Human Platform](https://human.biodigital.com/login)
 - [Kenhub - Learn Anatomy](https://www.kenhub.com/)
 - [PocketAnatomy - Medical Anatomy Software](https://www.pocketanatomy.com/)
 - [Primal Pictures | 3D Anatomy Software](https://www.primalpictures.com/)
