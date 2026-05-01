@@ -43,17 +43,32 @@ export const nav: DefaultTheme.NavItem[] = [
   { text: 'ℹ️ About', link: '/about' }
 ]
 
-export const sidebar: DefaultTheme.Sidebar | DefaultTheme.NavItemWithLink[] = [
+export const postsSidebar: DefaultTheme.SidebarItem[] = [
   {
-    text: 'Categories',
+    text: 'Posts',
     collapsed: false,
     items: [
+      { text: 'What Is Information?', link: '/posts/what-is-info' },
+      { text: 'How To Categorize Links', link: '/posts/how-to-categorize-links' },
+      { text: 'Comparing Bookmark Managers', link: '/posts/comparing-bookmark-managers' },
+      { text: 'Comparing AI Coding Tools', link: '/posts/comparing-ai-coding-tools' }
+    ]
+  }
+]
+
+export const sidebar: DefaultTheme.Sidebar = {
+  '/posts/': postsSidebar,
+  '/': [
+    {
+      text: 'Categories',
+      collapsed: false,
+      items: [
       {
         text: '🏢 by_Company',
         link: '/by-company'
       },
       {
-        text: '🐧 Operating_System',
+        text: '🐧 Operating System',
         link: '/os'
       },
       {
@@ -132,3 +147,4 @@ export const sidebar: DefaultTheme.Sidebar | DefaultTheme.NavItemWithLink[] = [
     ]
   }
 ]
+}
