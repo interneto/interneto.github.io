@@ -9,51 +9,60 @@ footer: true
 
 <Post authors="David7ce"/>
 
-## Problem with classification
+## Why classification is hard
 
-For example Google has topics in many sections like: +Net, Arts, Business, Education, Media, Society, World. How do we categorize the Google webs, by the platform, the owner company, its use or the topic?
+One website can belong to multiple categories at the same time. Google is a good example:
 
-The general "Google" folder is inside "Business – Enterprises – Internet – Communication", 4th steps inside the parent folder. If we organize by topics, the webs would be moved to different folders:
+- As a company, it belongs to business.
+- As products, it spans maps, video, education, communication, and more.
+- As content, each service may fit a different topic.
 
-- **Google blog** in Media – Blogs Media – Software Blogs
-- **Google maps** in World – Maps – Earth
-- **YouTube** in +Net - Content – Video - Video Platform
+If you classify only by company, you lose topic context. If you classify only by topic, you lose ownership context.
 
-But if we organize by company name, it won't be a section categorized by topic or platform. To solve this problem arises the _Tags_, to group links by another topic and maintaining the folder structure, such us:
+## Practical model: folders + tags
 
-- #Google, #Maps, #Video-platform
+The most flexible system is:
 
-For me the best way to classify webs is to organize by topic or use, and then add the correspondent tags like #Company: Google And if you want to reuse a link it would be good to create a shortcut with the path folder or group by tags.
+1. Use folders for the primary dimension (usually topic or use case).
+2. Use tags for secondary dimensions (company, format, platform, region, status).
 
-The ways of sorting can be:
+Example:
 
-- 2D either with columns, keys, circles, lists, trees.
-- 3D (with the use of shadows and colors).
-- Sorting by:
-    - alphabetical order
-    - color used
-    - date of creation
-    - loading speed
-    - number of words
-    - number of visits
-    - region
-    - score
-    - server consumption / server type
-    - similarity between logos
-    - storage
-    - subject "If a mind analyzes all possible parameters occurring in a day the size of the mind to process it would be one light year in diameter."
+- Put **Google Maps** under `World > Maps`.
+- Put **YouTube** under `Net > Content > Video Platforms`.
+- Add tags like `#company/google`, `#format/video`, `#type/platform`.
 
-### The way to classify can vary
+This keeps your tree clean while still allowing cross-category search.
 
-- the most common is to classify from general to the concrete, from the most abstract to the most concise.
-- since the internet contains everything imaginable and more, it becomes a dictionary classification.
-- within the classification there are many methods to organize the content and therefore labeling is necessary in addition to a hierarchical tree.
+## Sorting dimensions you can use
 
-## Target
+Depending on your workflow, you can sort or filter links by:
 
-With a big list of categorized selected links, you can create a web directory very useful to understand better the digital world and also you can investigate and extract better information using this system.
+- Alphabetical order
+- Date added
+- Visit frequency
+- Region / language
+- Content type
+- Storage model (cloud/local)
+- Performance or loading speed
+- Personal score / priority
 
-The main problem is that the classification system and the knowledge is a personal thing. For that reason it would be great to create a bookmark manager based on your thoughts to satisfy them.
+Use only the dimensions you can maintain consistently. A simple system that you keep updated always beats a perfect system you abandon.
+
+## Classification principles
+
+- Go from general to specific.
+- Keep folder depth reasonable (usually 2 to 4 levels).
+- Reuse tags instead of creating near-duplicates.
+- Favor predictable naming over clever naming.
+
+The web is too broad for one strict hierarchy. Tags are the bridge that makes a hierarchical tree practical at scale.
+
+## Goal
+
+With a well-structured collection of links, you can build a directory that is easier to navigate, easier to maintain, and much more useful for research and learning.
+
+Classification is personal, so your system should match how you think. The best bookmark manager is the one that supports your mental model and can still scale to thousands of links.
 
 ### Tools that fit this approach
 
