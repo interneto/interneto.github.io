@@ -2,8 +2,8 @@
 title: What Is Information?
 description: Data to information to knowledge for saved links
 date: 2025-08-31
-next: false
-prev: false
+next: true
+prev: true
 footer: true
 ---
 

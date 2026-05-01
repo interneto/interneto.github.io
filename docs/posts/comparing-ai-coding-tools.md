@@ -2,8 +2,8 @@
 title: Comparing AI Coding Tools
 description: Comparing best AI Coding Tools in 2026
 date: 2026-04-29
-next: false
-prev: false
+next: true
+prev: true
 footer: true
 ---
 
