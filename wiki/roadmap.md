@@ -9,10 +9,7 @@
 
 ## Planned
 
-- 🗓️ Map of Main Content
-- 🗓️ User contribution guidelines
-- 🗓️ Link categorization automation
+- 🗓️ Map of favourite apps as ZUI
 - 🗓️ Advanced filtering options
-- 🗓️ Community integration
 - 🗓️ Bookmark import/export tools
-
+- 🗓️ User contribution guidelines
