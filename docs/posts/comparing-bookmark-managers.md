@@ -9,40 +9,82 @@ footer: true
 
 <Post authors="David7ce"/>
 
-After getting a directory of categorized links you need software that makes search, tagging, and structure effortless. Below is a quick comparison of mainstream options and two recommendations that cover most needs.
+## Overview
 
-- With [Google Chrome](https://www.google.com/chrome/index.html) you can use the bookmark manager with chrome://bookmarks or the shortcut Ctr+Shift+O. The app permit to:
-    - save links with name and url
-    - create folders and sub-folders
-    - search folders, links and names
-    - option to show the folder of a link and
-    - sort links by name
-    - import / export links as an HTML
+Managing bookmarks effectively is crucial for organizing your digital resources. After building a directory of categorized links, you need software that makes searching, tagging, and organization seamless. This guide compares the most popular options.
 
-- With [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/) you can use the bookmark manager with the shortcut Ctr+Shift+O. The app permit to:
-    - save links with name, url, tag and keyword
-    - create folders and sub-folders
-    - sort by name, tag, location, most recent visit, visit count, added, last modified, A > Z, Z > A
-    - search name links and urls, not with folders
-    - import / export links as an HTML
-    - backup as json
-    - restore links from previous days
+## Available Options
 
-- With [raindrop.io](https://raindrop.io/) app you can search for folders, tags and links. It's the best bookmark manager but only works online.
+### 🔍 Google Chrome
 
-|        App         | Chrome | Firefox | Raindrop.io |
-|:------------------:|:------:|:-------:|:-----------:|
-| Graph of bookmarks |  ---   |   ---   |     ---     |
-|   Local / Online   | Local  |  Local  |   Online    |
-|   Search folders   |  YES   |   NO    |     YES     |
-|  Stored in local   |  YES   |   YES   |     NO      |
-|        Tags        |   NO   |   YES   |     YES     |
+Built-in bookmark manager accessible at `chrome://bookmarks` (Ctrl+Shift+O)
 
-Here is a mind map of the best tool to create a bookmark manager.
+**Features:**
+- Save links with name and URL
+- Create nested folders and subfolders
+- Search across folders, links, and names
+- Display folder location for each bookmark
+- Sort bookmarks by name
+- Import/export as HTML
 
-![Bookmark manager points](https://interneto.github.io/resources/assets/app-comparison/bookmark-manager-points.png)
+### 🦊 Mozilla Firefox
 
-Takeaways:
+Native bookmark manager accessible with Ctrl+Shift+O
 
-- **Start with Raindrop.io** if you want the fastest setup and polished experience.
-- **Choose Linkwarden** if you need self-hosting, snapshots, or tighter control of your data.
+**Features:**
+- Save links with name, URL, tags, and keywords
+- Create nested folders and subfolders
+- Advanced sorting (name, tag, location, visit count, date added, modified, A–Z, Z–A)
+- Search bookmarks by name and URL (not across folders)
+- Import/export as HTML
+- Backup/restore as JSON
+- Restore previous versions from backup history
+
+### ☁️ Raindrop.io
+
+Online-first bookmark management platform with polished UX
+
+**Features:**
+- Search across folders, tags, and bookmarks
+- Web-based with cloud synchronization
+- Rich tagging system
+- Folder organization
+- Cross-device availability
+- Premium features available
+
+## Feature Comparison
+
+|                                                                Icon                                                                | App                 | Storage | Search Folders | Local Storage | Tags | Filters (Tags + Metadata) | Collaboration | Public Pages |   Export   | Sync |
+|:----------------------------------------------------------------------------------------------------------------------------------:|---------------------|:-------:|:--------------:|:-------------:|:----:|:-------------------------:|:-------------:|:------------:|:----------:|:----:|
+|      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/chrome.svg" width="32" height="32" alt="Chrome" />      | **Google Chrome**   |  Local  |       ✅        |       ✅       |  ❌   |             ❌             |       ❌       |      ❌       |    HTML    |  ⚠️   |
+|     <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/firefox.svg" width="32" height="32" alt="Firefox" />     | **Mozilla Firefox** |  Local  |       ❌        |       ✅       |  ✅   |             ✅             |       ❌       |      ❌       | HTML, JSON |  ⚠️   |
+|                       <img src="https://raindrop.io/favicon.ico" width="32" height="32" alt="Raindrop.io" />                       | **Raindrop.io**     |  Cloud  |       ✅        |       ❌       |  ✅   |             ✅             |       ✅       |      ✅       | HTML, CSV  |  ✅   |
+| <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/linkwarden.webp" width="32" height="32" alt="Linkwarden" /> | **Linkwarden**      |  Cloud  |       ✅        |       ❌       |  ✅   |             ✅             |       ✅       |      ✅       |    HTML    |  ✅   |
+
+## Visual Analysis
+
+![Bookmark manager comparison points](https://interneto.github.io/resources/assets/app-comparison/bookmark-manager-points.png)
+
+## Recommendations
+
+**🚀 Best for quick setup:** Use **Raindrop.io** if you want:
+- Fastest onboarding with polished interface
+- Cloud synchronization across devices
+- Powerful tagging and organization
+- Web-based access anywhere
+
+**🔒 Best for data control:** Use **Firefox Bookmarks** if you need:
+- Full local storage without external servers
+- Backup and restore capabilities
+- No monthly subscriptions
+- Complete data ownership
+
+**💼 Best for developers:** Use **Linkwarden** (self-hosted) if you want:
+- Self-hosting and data control
+- Web snapshots and archives
+- Open-source flexibility
+- Complete data privacy
+
+## Bottom Line
+
+Start with your browser's built-in bookmarks for basic organization. Graduate to Raindrop.io when you need cross-device sync and better search. Consider Linkwarden if self-hosting and data ownership are priorities.
