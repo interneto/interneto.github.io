@@ -14,3 +14,4 @@ footer: true
 - [Comparing Bookmark Managers](/posts/comparing-bookmark-managers)
 - [How To Categorize Links](/posts/how-to-categorize-links)
 - [What Is Information?](/posts/what-is-info)
+- [How Files Are Transferred and Synced Between Devices](/posts/file-sync)
