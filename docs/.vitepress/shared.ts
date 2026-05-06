@@ -49,10 +49,12 @@ export const postsSidebar: DefaultTheme.SidebarItem[] = [
     text: 'Posts',
     collapsed: false,
     items: [
-      { text: 'What Is Information?', link: '/posts/what-is-info' },
+      { text: 'Comparing AI Coding Tools', link: '/posts/ai-coding-tools' },
+      { text: 'Comparing Bookmark Managers', link: '/posts/bookmark-managers' },
+      { text: 'Cybersecurity Vulnerabilities', link: '/posts/cybersecurity-vulnerabilities' },
+      { text: 'How Files Are Transferred and Synced Between Devices', link: '/posts/file-sync' },
       { text: 'How To Categorize Links', link: '/posts/how-to-categorize-links' },
-      { text: 'Comparing Bookmark Managers', link: '/posts/comparing-bookmark-managers' },
-      { text: 'Comparing AI Coding Tools', link: '/posts/comparing-ai-coding-tools' }
+      { text: 'What Is Information?', link: '/posts/what-is-info' }
     ]
   }
 ]
