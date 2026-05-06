@@ -12,8 +12,7 @@
     "resolveJsonModule": true,
     "noUnusedLocals": true,
     "strictNullChecks": true,
-    "forceConsistentCasingInFileNames": true,
-    "types": ["vite/client", "vitepress"]
+    "forceConsistentCasingInFileNames": true
   },
   "exclude": ["node_modules"],
   "include": [
