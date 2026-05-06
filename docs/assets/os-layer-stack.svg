@@ -1,0 +1,144 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 660" font-family="'Segoe UI',Arial,sans-serif">
+
+  <!-- Background -->
+  <rect width="860" height="660" fill="#0f172a"/>
+
+  <!-- ======= COLUMN HEADERS ======= -->
+  <rect x="16"  y="8" width="266" height="36" rx="5" fill="#14532d"/>
+  <text x="149" y="31" text-anchor="middle" fill="#bbf7d0" font-size="14" font-weight="700">Linux</text>
+
+  <rect x="297" y="8" width="266" height="36" rx="5" fill="#1e3a8a"/>
+  <text x="430" y="31" text-anchor="middle" fill="#bfdbfe" font-size="14" font-weight="700">Windows</text>
+
+  <rect x="578" y="8" width="266" height="36" rx="5" fill="#4c1d95"/>
+  <text x="711" y="31" text-anchor="middle" fill="#e9d5ff" font-size="14" font-weight="700">macOS</text>
+
+  <!-- ======= ROW 0 — APPLICATIONS (y=48) ======= -->
+  <rect x="16"  y="48" width="266" height="72" rx="3" fill="#92400e"/>
+  <rect x="16"  y="48" width="4"   height="72" fill="#22c55e"/>
+  <text x="149" y="73" text-anchor="middle" fill="white"   font-size="12" font-weight="700">Applications</text>
+  <text x="149" y="91" text-anchor="middle" fill="#fde68a" font-size="10">Flatpak · Snap · AppImage · CLI</text>
+
+  <rect x="297" y="48" width="266" height="72" rx="3" fill="#92400e"/>
+  <rect x="297" y="48" width="4"   height="72" fill="#60a5fa"/>
+  <text x="430" y="73" text-anchor="middle" fill="white"   font-size="12" font-weight="700">Applications</text>
+  <text x="430" y="91" text-anchor="middle" fill="#fde68a" font-size="10">Win32 · UWP · MSIX · Electron</text>
+
+  <rect x="578" y="48" width="266" height="72" rx="3" fill="#92400e"/>
+  <rect x="578" y="48" width="4"   height="72" fill="#c084fc"/>
+  <text x="711" y="73" text-anchor="middle" fill="white"   font-size="12" font-weight="700">Applications</text>
+  <text x="711" y="91" text-anchor="middle" fill="#fde68a" font-size="10">Cocoa · SwiftUI · Catalyst · Electron</text>
+
+  <!-- ======= ROW 1 — SHELL / UI (y=124) ======= -->
+  <rect x="16"  y="124" width="266" height="72" rx="3" fill="#065f46"/>
+  <rect x="16"  y="124" width="4"   height="72" fill="#22c55e"/>
+  <text x="149" y="149" text-anchor="middle" fill="white"   font-size="12" font-weight="700">Desktop Environment &amp; Shell</text>
+  <text x="149" y="167" text-anchor="middle" fill="#a7f3d0" font-size="10">GNOME · KDE · XFCE · bash · zsh</text>
+
+  <rect x="297" y="124" width="266" height="72" rx="3" fill="#065f46"/>
+  <rect x="297" y="124" width="4"   height="72" fill="#60a5fa"/>
+  <text x="430" y="149" text-anchor="middle" fill="white"   font-size="12" font-weight="700">Shell &amp; Terminal</text>
+  <text x="430" y="167" text-anchor="middle" fill="#a7f3d0" font-size="10">Explorer.exe · PowerShell · CMD</text>
+
+  <rect x="578" y="124" width="266" height="72" rx="3" fill="#065f46"/>
+  <rect x="578" y="124" width="4"   height="72" fill="#c084fc"/>
+  <text x="711" y="149" text-anchor="middle" fill="white"   font-size="12" font-weight="700">Aqua UI &amp; Shell</text>
+  <text x="711" y="167" text-anchor="middle" fill="#a7f3d0" font-size="10">Finder · Dock · zsh · Terminal.app</text>
+
+  <!-- ======= ROW 2 — WM / COMPOSITOR (y=200) ======= -->
+  <rect x="16"  y="200" width="266" height="72" rx="3" fill="#5b21b6"/>
+  <rect x="16"  y="200" width="4"   height="72" fill="#22c55e"/>
+  <text x="149" y="225" text-anchor="middle" fill="white"   font-size="12" font-weight="700">WM / Compositor / Login</text>
+  <text x="149" y="243" text-anchor="middle" fill="#ddd6fe" font-size="10">Mutter · KWin · sway · GDM · SDDM</text>
+
+  <rect x="297" y="200" width="266" height="72" rx="3" fill="#5b21b6"/>
+  <rect x="297" y="200" width="4"   height="72" fill="#60a5fa"/>
+  <text x="430" y="225" text-anchor="middle" fill="white"   font-size="12" font-weight="700">Desktop Window Manager</text>
+  <text x="430" y="243" text-anchor="middle" fill="#ddd6fe" font-size="10">DWM · DirectComposition</text>
+
+  <rect x="578" y="200" width="266" height="72" rx="3" fill="#5b21b6"/>
+  <rect x="578" y="200" width="4"   height="72" fill="#c084fc"/>
+  <text x="711" y="225" text-anchor="middle" fill="white"   font-size="12" font-weight="700">Quartz Compositor</text>
+  <text x="711" y="243" text-anchor="middle" fill="#ddd6fe" font-size="10">WindowServer · Core Animation</text>
+
+  <!-- ======= ROW 3 — DISPLAY PROTOCOL / RUNTIME (y=276) ======= -->
+  <rect x="16"  y="276" width="266" height="72" rx="3" fill="#075985"/>
+  <rect x="16"  y="276" width="4"   height="72" fill="#22c55e"/>
+  <text x="149" y="301" text-anchor="middle" fill="white"   font-size="12" font-weight="700">Display Protocol</text>
+  <text x="149" y="319" text-anchor="middle" fill="#bae6fd" font-size="10">X11 / Xorg · Wayland</text>
+
+  <rect x="297" y="276" width="266" height="72" rx="3" fill="#075985"/>
+  <rect x="297" y="276" width="4"   height="72" fill="#60a5fa"/>
+  <text x="430" y="301" text-anchor="middle" fill="white"   font-size="12" font-weight="700">Runtime &amp; APIs</text>
+  <text x="430" y="319" text-anchor="middle" fill="#bae6fd" font-size="10">.NET · DirectX · VCRuntime</text>
+
+  <rect x="578" y="276" width="266" height="72" rx="3" fill="#075985"/>
+  <rect x="578" y="276" width="4"   height="72" fill="#c084fc"/>
+  <text x="711" y="301" text-anchor="middle" fill="white"   font-size="12" font-weight="700">Graphics Frameworks</text>
+  <text x="711" y="319" text-anchor="middle" fill="#bae6fd" font-size="10">Core Graphics · Metal · OpenGL</text>
+
+  <!-- ======= ROW 4 — SYSTEM / INIT (y=352) ======= -->
+  <rect x="16"  y="352" width="266" height="72" rx="3" fill="#1e40af"/>
+  <rect x="16"  y="352" width="4"   height="72" fill="#22c55e"/>
+  <text x="149" y="377" text-anchor="middle" fill="white"   font-size="12" font-weight="700">Init System &amp; Libs</text>
+  <text x="149" y="395" text-anchor="middle" fill="#bfdbfe" font-size="10">systemd · OpenRC · glibc · musl</text>
+
+  <rect x="297" y="352" width="266" height="72" rx="3" fill="#1e40af"/>
+  <rect x="297" y="352" width="4"   height="72" fill="#60a5fa"/>
+  <text x="430" y="377" text-anchor="middle" fill="white"   font-size="12" font-weight="700">Subsystems</text>
+  <text x="430" y="395" text-anchor="middle" fill="#bfdbfe" font-size="10">Win32 · WinRT · UWP · WSL2</text>
+
+  <rect x="578" y="352" width="266" height="72" rx="3" fill="#1e40af"/>
+  <rect x="578" y="352" width="4"   height="72" fill="#c084fc"/>
+  <text x="711" y="377" text-anchor="middle" fill="white"   font-size="12" font-weight="700">Core OS Services</text>
+  <text x="711" y="395" text-anchor="middle" fill="#bfdbfe" font-size="10">launchd · libSystem · BSD APIs</text>
+
+  <!-- ======= ROW 5 — KERNEL (y=428) ======= -->
+  <rect x="16"  y="428" width="266" height="72" rx="3" fill="#1e3a8a"/>
+  <rect x="16"  y="428" width="4"   height="72" fill="#22c55e"/>
+  <text x="149" y="453" text-anchor="middle" fill="white"   font-size="12" font-weight="700">Linux Kernel</text>
+  <text x="149" y="471" text-anchor="middle" fill="#93c5fd" font-size="10">Modules · Drivers · Syscalls</text>
+
+  <rect x="297" y="428" width="266" height="72" rx="3" fill="#1e3a8a"/>
+  <rect x="297" y="428" width="4"   height="72" fill="#60a5fa"/>
+  <text x="430" y="453" text-anchor="middle" fill="white"   font-size="12" font-weight="700">NT Kernel</text>
+  <text x="430" y="471" text-anchor="middle" fill="#93c5fd" font-size="10">ntoskrnl.exe · HAL · Drivers</text>
+
+  <rect x="578" y="428" width="266" height="72" rx="3" fill="#1e3a8a"/>
+  <rect x="578" y="428" width="4"   height="72" fill="#c084fc"/>
+  <text x="711" y="453" text-anchor="middle" fill="white"   font-size="12" font-weight="700">XNU Kernel</text>
+  <text x="711" y="471" text-anchor="middle" fill="#93c5fd" font-size="10">Mach · BSD · DriverKit</text>
+
+  <!-- ======= ROW 6 — BOOTLOADER (y=504) ======= -->
+  <rect x="16"  y="504" width="266" height="72" rx="3" fill="#1e293b"/>
+  <rect x="16"  y="504" width="4"   height="72" fill="#22c55e"/>
+  <text x="149" y="529" text-anchor="middle" fill="white"   font-size="12" font-weight="700">Bootloader</text>
+  <text x="149" y="547" text-anchor="middle" fill="#94a3b8" font-size="10">GRUB · systemd-boot · rEFInd</text>
+
+  <rect x="297" y="504" width="266" height="72" rx="3" fill="#1e293b"/>
+  <rect x="297" y="504" width="4"   height="72" fill="#60a5fa"/>
+  <text x="430" y="529" text-anchor="middle" fill="white"   font-size="12" font-weight="700">Boot Manager</text>
+  <text x="430" y="547" text-anchor="middle" fill="#94a3b8" font-size="10">bootmgr · BCD · UEFI loader</text>
+
+  <rect x="578" y="504" width="266" height="72" rx="3" fill="#1e293b"/>
+  <rect x="578" y="504" width="4"   height="72" fill="#c084fc"/>
+  <text x="711" y="529" text-anchor="middle" fill="white"   font-size="12" font-weight="700">Bootloader</text>
+  <text x="711" y="547" text-anchor="middle" fill="#94a3b8" font-size="10">iBoot · boot.efi</text>
+
+  <!-- ======= ROW 7 — FIRMWARE (y=580) ======= -->
+  <rect x="16"  y="580" width="266" height="72" rx="3" fill="#111827" stroke="#374151" stroke-width="1"/>
+  <rect x="16"  y="580" width="4"   height="72" fill="#22c55e"/>
+  <text x="149" y="605" text-anchor="middle" fill="#e2e8f0" font-size="12" font-weight="700">Firmware</text>
+  <text x="149" y="623" text-anchor="middle" fill="#64748b" font-size="10">UEFI · BIOS · coreboot</text>
+
+  <rect x="297" y="580" width="266" height="72" rx="3" fill="#111827" stroke="#374151" stroke-width="1"/>
+  <rect x="297" y="580" width="4"   height="72" fill="#60a5fa"/>
+  <text x="430" y="605" text-anchor="middle" fill="#e2e8f0" font-size="12" font-weight="700">Firmware</text>
+  <text x="430" y="623" text-anchor="middle" fill="#64748b" font-size="10">UEFI · Secure Boot</text>
+
+  <rect x="578" y="580" width="266" height="72" rx="3" fill="#111827" stroke="#374151" stroke-width="1"/>
+  <rect x="578" y="580" width="4"   height="72" fill="#c084fc"/>
+  <text x="711" y="605" text-anchor="middle" fill="#e2e8f0" font-size="12" font-weight="700">Firmware</text>
+  <text x="711" y="623" text-anchor="middle" fill="#64748b" font-size="10">Boot ROM · T2 / M-series</text>
+
+</svg>
