@@ -1,5 +1,5 @@
 ---
-title: Cybersecurity Vulnerabilities: CVE, KEV, 0-Day, and Theoretical Risk
+title: Cybersecurity Vulnerabilities (CVE, KEV, 0-Day, and Theoretical Risk)
 description: A practical guide to vulnerability types and why reported weaknesses keep growing every year.
 date: 2026-05-03
 next: true
