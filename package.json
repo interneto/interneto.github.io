@@ -7,6 +7,7 @@
   },
   "scripts": {
     "dev": "vitepress dev docs/",
+    "docs:build": "vitepress build docs/",
     "build": "vitepress build docs/",
     "build:prod": "pnpm clean && pnpm install && vitepress build docs/",
     "preview": "vitepress preview docs/",
