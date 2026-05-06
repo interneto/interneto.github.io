@@ -24,7 +24,7 @@ const withBase = (p: string): string => `${base}${p.replace(/^\/+/, '')}`
 export default defineConfig({
   title: 'Interneto Links',
   description: meta.description,
-  titleTemplate: ':title • Pass from the Internet to the Innernet',
+  titleTemplate: ':title • Rediscover the Internet',
   lang: 'en-US',
   lastUpdated: false,
   cleanUrls: true,

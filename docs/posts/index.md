@@ -13,6 +13,7 @@ footer: true
 
 - [AI Coding Tools](/posts/ai-coding-tools)
 - [Bookmark Managers](/posts/bookmark-managers)
+- [Linux Distributions](/posts/linux-distros)
 
 ## How To
 
