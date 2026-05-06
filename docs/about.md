@@ -95,8 +95,11 @@ This design prioritizes:
 
 Several modern projects operate in adjacent spaces:
 
-- AlternativeTo — large curated index of tools and resources  
-- FMHY — structured database of software alternatives  
+- [AlternativeTo](https://alternativeto.net/) — curated index of tools and software alternatives  
+- [FMHY](https://fmhy.net/) — structured database of software alternatives and digital resources  
+- [Eylenburg](https://eylenburg.github.io/) — comprehensive software comparisons (OS, desktop environments, web browsers, messaging apps, cloud services, payment methods, spreadsheets, digital freedom tools)
+- [ComparisonTables](https://comparisontabl.es/) — detailed hardware device comparisons in tabular format
+- [Kimovil](https://www.kimovil.com/en/) — smartphone specifications and price comparison
 
 While these platforms emphasize breadth and community contribution, **Interneto focuses more narrowly on structured classification and long-term knowledge organization**.
 
