@@ -7,11 +7,19 @@ prev: false
 footer: true
 ---
 
-
 # Posts
 
-- [Comparing AI Coding Tools](/posts/comparing-ai-coding-tools)
-- [Comparing Bookmark Managers](/posts/comparing-bookmark-managers)
+## Comparing Software
+
+- [AI Coding Tools](/posts/ai-coding-tools)
+- [Bookmark Managers](/posts/bookmark-managers)
+
+## How To
+
 - [How To Categorize Links](/posts/how-to-categorize-links)
-- [What Is Information?](/posts/what-is-info)
 - [How Files Are Transferred and Synced Between Devices](/posts/file-sync)
+
+## Explanations
+
+- [Cybersecurity Vulneravilities](/posts/cybersecurity-vulnerabilities)
+- [What Is Information?](/posts/what-is-info)
