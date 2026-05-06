@@ -9,7 +9,15 @@ footer: true
 
 <Post authors="David7ce"/>
 
-AI coding workflows now split into three layers:
+## Overview
+
+AI coding is no longer one tool and one model. In 2026, productive workflows combine editors, terminal agents, and model runtimes depending on the task, privacy requirements, and team setup.
+
+The diagram below shows the core components of a modern AI system:
+
+<img src="../assets/ai-components.png" alt="AI Components" width="420" />
+
+In practice, AI coding workflows now split into three layers:
 
 - Editor-native AI experiences (for coding in context)
 - CLI agents (for task execution and automation)
