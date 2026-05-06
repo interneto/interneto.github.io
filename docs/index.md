@@ -1,11 +1,11 @@
 ---
 title: Interneto Links - Landing Page
 layout: home
-description: Pass from the Internet to the Innernet!
+description: Rediscover the Internet!
 
 hero:
   name: Interneto Links
-  tagline: Pass from the Internet to the Innernet!
+  tagline: Rediscover the Internet!
   image:
     src: icon.png
     alt: Interneto Icon

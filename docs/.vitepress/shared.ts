@@ -20,7 +20,7 @@ import type { DefaultTheme } from 'vitepress'
 
 export const meta = {
   name: 'Interneto Links',
-  description: 'Pass from the Internet to the Innernet!',
+  description: 'Rediscover the Internet!',
   hostname: 'https://interneto.github.io',
   keywords: ['stream', 'movies', 'gaming', 'reading', 'anime'],
   build: {
