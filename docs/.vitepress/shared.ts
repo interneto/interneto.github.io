@@ -40,7 +40,8 @@ export const excluded = [
 
 export const nav: DefaultTheme.NavItem[] = [
   { text: '📑 Posts', link: '/posts/index' },
-  { text: 'ℹ️ About', link: '/about' }
+  { text: 'ℹ️ About', link: '/about' },
+  { text: '🐙 GitHub', link: 'https://github.com/interneto/interneto.github.io' }
 ]
 
 export const postsSidebar: DefaultTheme.SidebarItem[] = [
