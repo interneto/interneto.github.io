@@ -23,4 +23,5 @@ footer: true
 ## Explanations
 
 - [Cybersecurity Vulneravilities](/posts/cybersecurity-vulnerabilities)
+- [Operating System Layer Stack](/posts/os-layer-stack)
 - [What Is Information?](/posts/what-is-info)
