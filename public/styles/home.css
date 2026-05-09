@@ -1,0 +1,141 @@
+.home-page-wrapper {
+	min-height: 100vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: center;
+	padding-top: 2.5rem;
+}
+
+.home-header {
+	position: relative;
+	width: 100%;
+	max-width: 1040px;
+	padding-left: 4.5rem;
+	padding-right: 4.5rem;
+	text-align: center;
+}
+
+.home-kicker {
+	text-transform: uppercase;
+	letter-spacing: 0.12em;
+	font-size: 0.78rem;
+	font-weight: 700;
+	color: var(--vp-c-brand-3);
+	margin: 0 0 0.5rem;
+}
+
+.home-header h1,
+.home-header p {
+	text-align: center;
+}
+
+.home-header h1 {
+	font-size: clamp(1.8rem, 3.2vw, 2.5rem);
+	line-height: 1.15;
+	margin-bottom: 0.75rem;
+}
+
+.home-header p {
+	max-width: 76ch;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.home-header .theme-toggle {
+	position: absolute;
+	top: 0;
+	right: 0;
+}
+
+.home-main {
+	display: flex;
+	gap: 0.9rem;
+	flex-wrap: wrap;
+	justify-content: center;
+	margin-top: 1.7rem;
+	flex: 1;
+	align-content: flex-start;
+	max-width: 1040px;
+}
+
+.home-link {
+	padding: 1.05rem 1.35rem;
+	font-size: 1rem;
+	font-weight: 600;
+	border-radius: 12px;
+	color: var(--text-on-primary);
+	text-decoration: none;
+	box-shadow: var(--elevation-soft);
+	border: 1px solid transparent;
+	transition: transform 0.2s ease, box-shadow 0.2s ease, filter 0.2s ease;
+}
+
+.home-link:hover {
+	transform: translateY(-1px);
+	box-shadow: var(--shadow-hover);
+	filter: saturate(1.03);
+}
+
+.home-link-desktop {
+	background: var(--home-link-desktop-bg);
+}
+
+.home-link-mobile {
+	background: var(--home-link-mobile-bg);
+}
+
+.home-link-vscode {
+	background: var(--home-link-vscode-bg);
+}
+
+.home-link-browser {
+	background: var(--home-link-browser-bg);
+}
+
+.home-link-lib {
+	background: var(--home-link-lib-bg);
+}
+
+.home-footer {
+	margin-top: auto;
+	padding-top: 2rem;
+	text-align: center;
+	color: var(--home-footer-text);
+}
+
+@media (max-width: 640px) {
+	.home-page-wrapper {
+		padding-top: 1.25rem;
+	}
+
+	.home-header {
+		padding-left: 0;
+		padding-right: 0;
+		padding-top: 3.25rem;
+	}
+
+	.home-header .theme-toggle {
+		top: 0;
+		right: 0.5rem;
+	}
+}
+
+.home-back-link {
+	display: inline-block;
+	margin-bottom: 0.75rem;
+	padding: 0.55rem 1rem;
+	border: 1px solid var(--border-color);
+	border-radius: 999px;
+	background: var(--card-background);
+	color: var(--text-primary);
+	text-decoration: none;
+	font-size: 0.95rem;
+	transition: all 0.2s ease;
+}
+
+.home-back-link:hover {
+	border-color: var(--primary-color);
+	color: var(--primary-color);
+	box-shadow: var(--shadow-light);
+}

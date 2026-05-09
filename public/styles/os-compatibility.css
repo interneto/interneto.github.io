@@ -1,0 +1,580 @@
+/* ==========================================================================
+   IMPORT BASE STYLES
+   ========================================================================== */
+@import url('base-styles.css');
+
+:root {
+    --sticky-first-col-width: 120px;
+}
+
+/* ==========================================================================
+   PAGE SPECIFIC OVERRIDES
+   ========================================================================== */
+body {
+    min-height: 100vh;
+    padding: var(--spacing-md);
+}
+
+.page-header {
+    position: relative;
+    margin-bottom: var(--spacing-md);
+    text-align: center;
+}
+
+.page-header h1 {
+    display: inline-block;
+    margin-right: 50px;
+}
+
+.theme-toggle {
+    position: absolute;
+    top: 0;
+    right: 0;
+    background: var(--card-background);
+    border: 2px solid var(--border-color);
+    border-radius: 50%;
+    width: 44px;
+    height: 44px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    font-size: 20px;
+    transition: all 0.3s ease;
+    box-shadow: var(--shadow-light);
+}
+
+.theme-toggle:hover {
+    transform: scale(1.1) rotate(15deg);
+    box-shadow: var(--shadow-hover);
+    border-color: var(--primary-color);
+}
+
+.theme-toggle:focus {
+    outline: 3px solid var(--focus-ring-color);
+    outline-offset: 2px;
+}
+
+.theme-toggle:active {
+    transform: scale(0.95);
+}
+
+/* ==========================================================================
+   MOBILE FIRST - BASE STYLES (for mobile)
+   ========================================================================== */
+
+/* Container */
+.container {
+    padding: var(--spacing-lg);
+    border-radius: 8px;
+}
+
+h1 {
+    font-size: 1.2em;
+    margin-bottom: var(--spacing-xs);
+}
+
+.subtitle {
+    font-size: 0.75em;
+    margin-bottom: var(--spacing-md);
+}
+
+.page-note {
+    font-size: 0.7em;
+    color: var(--text-muted);
+    margin-bottom: var(--spacing-md);
+}
+
+/* Controls & Search */
+.controls {
+    margin-bottom: var(--spacing-md);
+}
+
+.filter-chips {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--spacing-xs);
+    justify-content: center;
+    margin-top: var(--spacing-sm);
+}
+
+.filter-chip {
+    border: 1px solid var(--border-color);
+    background: var(--card-background);
+    color: var(--text-primary);
+    padding: 6px 12px;
+    border-radius: 999px;
+    font-size: 12px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    width: auto;
+}
+
+.filter-chip:hover {
+    border-color: var(--primary-color);
+    box-shadow: var(--shadow-light);
+}
+
+.filter-chip.active {
+    background: var(--primary-color);
+    color: var(--text-on-primary);
+    border-color: var(--primary-color);
+}
+
+.filter-chip:focus-visible {
+    outline: 3px solid var(--focus-ring-color-soft);
+    outline-offset: 2px;
+}
+
+.legend {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--spacing-sm);
+    justify-content: center;
+    margin-bottom: var(--spacing-md);
+    color: var(--text-secondary);
+    font-size: 12px;
+}
+
+.legend-item {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    background: var(--card-background);
+    border: 1px solid var(--border-color);
+    border-radius: 999px;
+    padding: 4px 10px;
+}
+
+.legend-note {
+    border-style: dashed;
+}
+
+.legend-icon {
+    font-size: 14px;
+}
+
+.search-box {
+    width: 100%;
+}
+
+.search-box input {
+    appearance: none;
+    -webkit-appearance: none;
+    background-color: var(--card-background);
+    color: var(--text-primary);
+    border: 2px solid var(--border-color);
+    box-shadow: none;
+    padding: 8px var(--spacing-md);
+    font-size: 0.85em;
+}
+
+.search-box input::placeholder {
+    color: var(--text-muted);
+    opacity: 1;
+}
+
+.search-box input::-webkit-search-decoration,
+.search-box input::-webkit-search-cancel-button,
+.search-box input::-webkit-search-results-button,
+.search-box input::-webkit-search-results-decoration {
+    -webkit-appearance: none;
+}
+
+.search-box input:focus {
+    background-color: var(--card-background);
+    color: var(--text-primary);
+    border-color: var(--primary-color);
+}
+
+/* Table Container */
+.table-container {
+    border-radius: 6px;
+    margin: 0;
+    box-shadow: var(--shadow-light);
+    overflow-x: auto;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background: var(--card-background);
+    font-size: clamp(0.85em, 2vw, 1em);
+}
+
+thead {
+    background: var(--primary-color);
+    color: var(--text-on-primary);
+}
+
+/* Table Headers - Mobile */
+th {
+    padding: clamp(6px, 1.5vw, 14px) clamp(2px, 1vw, 10px);
+    text-align: left;
+    font-weight: 600;
+    font-size: clamp(0.5em, 1.5vw, 0.85em);
+    text-transform: uppercase;
+    letter-spacing: clamp(0px, 0.05vw, 0.3px);
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    white-space: nowrap;
+}
+
+th.sortable:focus-visible {
+    outline: 3px solid var(--neutral-overlay-50);
+    outline-offset: -2px;
+}
+
+td.sticky-col,
+th.sticky-col {
+    position: sticky;
+    left: 0;
+    background: var(--card-background);
+    z-index: 6;
+}
+
+th.sticky-col {
+    background: var(--primary-color);
+    color: var(--text-on-primary);
+    z-index: 16;
+}
+
+td.sticky-col {
+    box-shadow: 2px 0 0 var(--border-color);
+}
+
+/* th.sticky-col.app-col,
+td.sticky-col.app-col {
+    z-index: 7;
+} */
+
+th.sticky-col.app-col {
+    z-index: 17;
+}
+
+th.sortable {
+    cursor: pointer;
+    user-select: none;
+    position: relative;
+    padding-right: clamp(14px, 2vw, 30px);
+}
+
+/* Category column - narrower */
+th:first-child,
+td:first-child {
+    min-width: 60px;
+    width: 120px;
+    max-width: 120px;
+    padding: clamp(4px, 1vw, 12px) clamp(1px, 0.5vw, 10px);
+}
+
+/* Application column - narrower */
+th:nth-child(2),
+td:nth-child(2) {
+    min-width: 80px;
+    width: 200px;
+    max-width: 200px;
+    padding: clamp(4px, 1vw, 12px) clamp(2px, 0.5vw, 10px);
+}
+
+/* OS columns - much narrower */
+th.os-column,
+td.os-column {
+    text-align: center;
+    min-width: 32px;
+    width: 100px;
+    max-width: 100px;
+    padding: clamp(6px, 1.5vw, 14px) clamp(1px, 0.5vw, 6px);
+    font-size: clamp(0.48em, 1.2vw, 0.8em);
+}
+
+/* Sort Arrows */
+.sort-arrows {
+    position: absolute;
+    right: clamp(2px, 0.5vw, 8px);
+    top: 50%;
+    transform: translateY(-50%);
+    display: flex;
+    flex-direction: column;
+    gap: 1px;
+}
+
+.sort-arrow {
+    width: 0;
+    height: 0;
+    border-left: clamp(2px, 0.4vw, 4px) solid transparent;
+    border-right: clamp(2px, 0.4vw, 4px) solid transparent;
+    opacity: 0.4;
+    transition: opacity 0.2s ease;
+}
+
+.sort-arrow.up {
+    border-bottom: clamp(3px, 0.5vw, 5px) solid var(--text-on-primary);
+}
+
+.sort-arrow.down {
+    border-top: clamp(3px, 0.5vw, 5px) solid var(--text-on-primary);
+}
+
+.sort-arrow.active {
+    opacity: 1;
+}
+
+/* Table Data - Mobile */
+td {
+    padding: clamp(4px, 1vw, 12px) clamp(2px, 0.5vw, 10px);
+    border-bottom: 1px solid var(--border-color);
+    font-size: clamp(0.65em, 1.5vw, 0.9em);
+    min-width: 0;
+}
+
+td.os-available {
+    padding: clamp(4px, 1vw, 12px) clamp(1px, 0.5vw, 6px);
+}
+
+tbody tr {
+    transition: background-color 0.2s ease;
+}
+
+/* Explicit hover colors for table rows (light/dark via variables) */
+#packagesTable tbody tr:hover,
+.table-container table tbody tr:hover {
+    background-color: var(--table-row-hover-bg) !important;
+}
+
+/* App Info */
+.app-info {
+    display: flex;
+    align-items: center;
+    gap: clamp(3px, 1vw, 10px);
+    min-width: 0;
+}
+
+.app-logo {
+    width: clamp(14px, 3vw, 28px);
+    height: clamp(14px, 3vw, 28px);
+    flex-shrink: 0;
+    object-fit: contain;
+    border-radius: 4px;
+}
+
+.app-name {
+    font-weight: 500;
+    color: var(--text-primary);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-size: clamp(0.8em, 1.8vw, 1em);
+    max-width: clamp(60px, 15vw, none);
+}
+
+.category-badge {
+    display: inline-block;
+    padding: clamp(1px, 0.3vw, 5px) clamp(4px, 1vw, 10px);
+    background: var(--category-badge-bg);
+    color: var(--category-badge-text);
+    border-radius: clamp(6px, 1vw, 12px);
+    font-size: clamp(0.55em, 1.3vw, 0.8em);
+    font-weight: 500;
+    white-space: nowrap;
+    max-width: clamp(55px, 15vw, none);
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.os-available {
+    text-align: center;
+    font-size: clamp(0.85em, 2vw, 1.4em);
+}
+
+/* Statistics - Mobile */
+.stats {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: var(--spacing-md);
+    margin-top: var(--spacing-sm);
+    padding: var(--spacing-md);
+    background: var(--table-row-hover-bg);
+    border-radius: var(--border-radius);
+}
+
+.stat-item {
+    text-align: center;
+    flex: 1 1 calc(50% - var(--spacing-md));
+    min-width: 100px;
+}
+
+.stat-number {
+    font-size: 1.3em;
+    font-weight: bold;
+    color: var(--primary-color);
+}
+
+.stat-label {
+    color: var(--text-secondary);
+    font-size: 0.75em;
+    margin-top: var(--spacing-xs);
+}
+
+/* ==========================================================================
+   RESPONSIVE - MOBILE FIRST APPROACH
+   ========================================================================== */
+
+/* TABLET SCREENS (min 480px) */
+@media (min-width: 480px) {
+    h1 {
+        font-size: 1.8em;
+    }
+
+    .subtitle {
+        font-size: 0.95em;
+    }
+
+    .search-box input {
+        font-size: 0.9em;
+    }
+}
+
+/* PC SCREENS (min 768px) */
+@media (min-width: 768px) {
+    body {
+        padding: var(--spacing-xl);
+    }
+
+    .container {
+        padding: var(--spacing-xl);
+    }
+
+    h1 {
+        font-size: 2em;
+    }
+
+    .subtitle {
+        font-size: 1.05em;
+    }
+
+    .controls {
+        margin-bottom: var(--spacing-lg);
+    }
+
+    .search-box {
+        max-width: 600px;
+        margin: 0 auto;
+    }
+
+    .search-box input {
+        padding: 10px var(--spacing-lg);
+        font-size: 1em;
+    }
+
+    .table-container {
+        border-radius: var(--border-radius);
+    }
+
+    .stats {
+        gap: var(--spacing-lg);
+        padding: var(--spacing-lg);
+        margin-top: var(--spacing-lg);
+        flex-wrap: nowrap;
+    }
+
+    .stat-item {
+        flex: 1;
+        min-width: auto;
+    }
+
+    .stat-number {
+        font-size: 1.6em;
+    }
+
+    .stat-label {
+        font-size: 0.85em;
+    }
+}
+
+/* LARGE SCREENS (min 1200px) */
+@media (min-width: 1200px) {
+    h1 {
+        font-size: 2.5em;
+    }
+
+    .subtitle {
+        font-size: 1.1em;
+        margin-bottom: var(--spacing-xl);
+    }
+
+    .stats {
+        gap: 30px;
+    }
+
+    .stat-number {
+        font-size: 2em;
+    }
+
+    .stat-label {
+        font-size: 0.9em;
+    }
+}
+
+/* ==========================================================================
+   GENERIC TABLE PAGES (MOBILE + VSCODE TABLE)
+   ========================================================================== */
+.table-wrapper,
+.extensions-table-wrapper {
+    overflow-x: auto;
+    border: 1px solid var(--border-color);
+    border-radius: var(--border-radius);
+    background: var(--card-background);
+    box-shadow: var(--shadow-light);
+}
+
+.packages-table,
+.extensions-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.packages-table th,
+.packages-table td,
+.extensions-table th,
+.extensions-table td {
+    text-align: left;
+    padding: 10px;
+    border-bottom: 1px solid var(--border-color);
+    vertical-align: top;
+}
+
+.extensions-table code {
+    white-space: nowrap;
+    font-size: 12px;
+}
+
+.table-meta {
+    margin: var(--spacing-sm) 0;
+    color: var(--text-secondary);
+}
+
+.store-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    font-weight: 600;
+}
+
+.table-inline-code {
+    display: inline-block;
+    padding: 2px 6px;
+    border-radius: 6px;
+    background: var(--surface-muted);
+    color: var(--text-primary);
+    white-space: nowrap;
+    font-size: 12px;
+}
+
+.store-icon {
+    font-size: 13px;
+    line-height: 1;
+    font-weight: 700;
+}

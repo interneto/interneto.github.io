@@ -1,0 +1,116 @@
+:root {
+  --vp-c-brand-1: #7bc5e4;
+  --vp-c-brand-2: #5ab5d4;
+  --vp-c-brand-3: #2b8fb8;
+  --vp-c-brand-soft: #a8d8eb;
+  --vp-c-bg: #ffffff;
+  --vp-c-bg-alt: #f6f6f7;
+  --vp-c-bg-elv: rgba(255, 255, 255, 0.78);
+  --vp-c-text-1: #213547;
+  --vp-c-text-2: #476582;
+  --vp-c-text-3: #8a9eb5;
+  --vp-c-divider: #dfe3e8;
+  --vp-c-surface: #ffffff;
+  --vp-shadow-1: 0 1px 2px rgba(10, 18, 30, 0.08);
+  --vp-shadow-2: 0 8px 30px rgba(10, 18, 30, 0.08);
+}
+
+[data-theme="dark"] {
+  --vp-c-brand-1: #47caff;
+  --vp-c-brand-2: #2bb8eb;
+  --vp-c-brand-3: #1a5a7f;
+  --vp-c-brand-soft: #7ed8f0;
+  --vp-c-bg: #11161d;
+  --vp-c-bg-alt: #0f1318;
+  --vp-c-bg-elv: rgba(15, 19, 24, 0.8);
+  --vp-c-text-1: #d8dee9;
+  --vp-c-text-2: #9fb1c7;
+  --vp-c-text-3: #7487a1;
+  --vp-c-divider: #2b3440;
+  --vp-c-surface: #1a212b;
+  --vp-shadow-1: 0 1px 2px rgba(0, 0, 0, 0.34);
+  --vp-shadow-2: 0 12px 35px rgba(0, 0, 0, 0.3);
+}
+
+html,
+body {
+  background: var(--vp-c-bg);
+  color: var(--vp-c-text-1);
+}
+
+body {
+  transition: background-color 0.25s ease, color 0.25s ease;
+}
+
+.vp-shell-header {
+  position: sticky;
+  top: 0;
+  z-index: 40;
+  backdrop-filter: blur(10px);
+  background: var(--vp-c-bg-elv);
+  border-bottom: 1px solid var(--vp-c-divider);
+}
+
+.vp-shell-header-inner {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 12px 16px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+.vp-shell-brand {
+  color: var(--vp-c-text-1);
+  font-weight: 700;
+  letter-spacing: 0.2px;
+  text-decoration: none;
+}
+
+.vp-shell-nav {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.vp-shell-actions {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.vp-shell-link {
+  color: var(--vp-c-text-2);
+  text-decoration: none;
+  font-size: 0.95rem;
+  border-radius: 999px;
+  border: 1px solid transparent;
+  padding: 6px 10px;
+  transition: all 0.2s ease;
+}
+
+.vp-shell-link:hover {
+  color: var(--vp-c-text-1);
+  border-color: var(--vp-c-divider);
+  background: var(--vp-c-bg-alt);
+}
+
+.vp-shell-link.is-active {
+  color: var(--vp-c-brand-3);
+  border-color: color-mix(in srgb, var(--vp-c-brand-3) 30%, var(--vp-c-divider));
+  background: color-mix(in srgb, var(--vp-c-brand-1) 12%, transparent);
+}
+
+@media (max-width: 800px) {
+  .vp-shell-header-inner {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .vp-shell-actions {
+    width: 100%;
+    justify-content: space-between;
+  }
+}

@@ -1,0 +1,19 @@
+---
+interface Props {
+  backHref?: string;
+  backLabel?: string;
+  compatHref?: string;
+  compatLabel?: string;
+}
+const { backHref = '/index', backLabel = 'Back to Home', compatHref, compatLabel } = Astro.props;
+---
+<nav class="page-nav" aria-label="Page links">
+  <div class="info-link">
+    <a href={backHref} title={backLabel}>⬅ {backLabel}</a>
+  </div>
+  {compatHref && compatLabel && (
+    <div class="info-link">
+      <a href={compatHref} title={compatLabel}>📊 {compatLabel}</a>
+    </div>
+  )}
+</nav>

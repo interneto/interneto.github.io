@@ -1,11 +1,4 @@
-build/
-coverage/
 dist/
 node_modules/
-*.log
-.DS_Store
-.env
-.idea/
-.vscode/
-links/
-docs/nsfw_content.md
+static-website/
+webs-to-unify/

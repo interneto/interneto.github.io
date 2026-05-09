@@ -1,0 +1,184 @@
+---
+import VPNavBar from '../components/VPNavBar.astro';
+import VPSidebar from '../components/VPSidebar.astro';
+import SiteFooter from '../components/SiteFooter.astro';
+
+interface Props {
+  title: string;
+  description?: string;
+  hasSidebar?: boolean;
+  hideSidebar?: boolean;
+  hideFooter?: boolean;
+  extraStyles?: string[];
+}
+
+const { 
+  title, 
+  description = 'Interneto - Rediscover the Internet',
+  hasSidebar = true,
+  hideSidebar = false,
+  hideFooter = false, 
+  extraStyles = [] 
+} = Astro.props;
+
+const BASE = import.meta.env.BASE_URL.replace(/\/?$/, '/');
+const pathname = Astro.url.pathname;
+const shouldShowSidebar = hasSidebar && !hideSidebar;
+---
+
+<!DOCTYPE html>
+<html lang="es" class="light">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content={description} />
+  <script is:inline>
+    // Theme detection and application
+    (function () {
+      try {
+        const stored = localStorage.getItem('vitepress-theme-appearance');
+        const preference = stored || 'auto';
+        const isDark = preference === 'dark' || 
+          (preference === 'auto' && window.matchMedia('(prefers-color-scheme: dark)').matches);
+        
+        const html = document.documentElement;
+        html.setAttribute('data-theme', isDark ? 'dark' : 'light');
+        html.classList.toggle('dark', isDark);
+        html.style.colorScheme = isDark ? 'dark' : 'light';
+        
+        // Store preference
+        if (!stored) {
+          localStorage.setItem('vitepress-theme-appearance', isDark ? 'dark' : 'light');
+        }
+      } catch (_) {
+        document.documentElement.setAttribute('data-theme', 'light');
+      }
+    })();
+
+    // Detect macOS
+    document.documentElement.classList.toggle('mac', /Mac|iPhone|iPad/i.test(navigator.platform));
+  </script>
+  
+  <title>{title} • Rediscover the Internet</title>
+  <link rel="icon" type="image/x-icon" href={`${BASE}favicon.ico`} />
+  <link rel="icon" type="image/png" sizes="32x32" href={`${BASE}favicon-32x32.png`} />
+  <link rel="icon" type="image/png" sizes="16x16" href={`${BASE}favicon-16x16.png`} />
+  <link rel="apple-touch-icon" sizes="180x180" href={`${BASE}apple-touch-icon.png`} />
+  <link rel="manifest" href={`${BASE}site.webmanifest`} />
+  <link rel="stylesheet" href={`${BASE}styles/vitepress-base.css`} />
+  <link rel="stylesheet" href={`${BASE}styles/vp-layout.css`} />
+  {extraStyles.map(href => <link rel="stylesheet" href={`${BASE}${href.replace(/^\//, '')}`} />)}
+  <script define:vars={{ shouldShowSidebar, pathname }}>
+    // Expose for client-side scripts
+    window.__VPConfig = {
+      shouldShowSidebar,
+      pathname,
+      base: '/',
+    };
+  </script>
+</head>
+<body>
+  <div id="app" class="Layout">
+    <a href="#VPContent" class="VPSkipLink visually-hidden">Skip to content</a>
+    
+    <VPNavBar />
+    
+    {shouldShowSidebar && <VPSidebar currentPath={pathname} />}
+    
+    <main id="VPContent" class={`VPContent ${shouldShowSidebar ? 'with-sidebar' : ''}`}>
+      <slot />
+    </main>
+
+    {!hideFooter && <SiteFooter />}
+  </div>
+
+  <script>
+    import '/src/scripts/theme-manager';
+  </script>
+
+  <style is:global>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    html {
+      font-size: 16px;
+      line-height: 1.6;
+      -webkit-text-size-adjust: 100%;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+    }
+
+    body {
+      background-color: var(--vp-c-bg);
+      color: var(--vp-c-text-1);
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+      transition: background-color 0.3s, color 0.3s;
+    }
+
+    #app {
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+    }
+
+    .Layout {
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+    }
+
+    .VPContent {
+      flex: 1;
+      margin-left: 0;
+      margin-top: 61px;
+      transition: margin 0.3s;
+    }
+
+    .VPContent.with-sidebar {
+      margin-left: 240px;
+    }
+
+    .VPSkipLink {
+      position: fixed;
+      top: -40px;
+      left: 16px;
+      z-index: 99;
+      padding: 8px 16px;
+      border-radius: 4px;
+      background-color: var(--vp-c-brand-1);
+      color: white;
+      text-decoration: none;
+      font-weight: 500;
+    }
+
+    .VPSkipLink:focus {
+      top: 16px;
+    }
+
+    .visually-hidden {
+      position: absolute;
+      width: 1px;
+      height: 1px;
+      padding: 0;
+      margin: -1px;
+      overflow: hidden;
+      clip: rect(0, 0, 0, 0);
+      white-space: nowrap;
+      border-width: 0;
+    }
+
+    @media (max-width: 960px) {
+      .VPContent {
+        margin-left: 0;
+      }
+
+      .VPContent.with-sidebar {
+        margin-left: 0;
+      }
+    }
+  </style>
+</body>
+</html>

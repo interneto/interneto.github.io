@@ -1,0 +1,35 @@
+---
+const BASE = import.meta.env.BASE_URL.replace(/\/?$/, '/');
+const pathname = Astro.url.pathname;
+
+const links = [
+  { href: `${BASE}`, label: 'Inicio', startsWith: `${BASE}` },
+  { href: `${BASE}docs`, label: 'Docs', startsWith: `${BASE}docs` },
+  { href: `${BASE}posts`, label: 'Posts', startsWith: `${BASE}posts` },
+  { href: `${BASE}desktop`, label: 'Toolbox', startsWith: `${BASE}desktop` },
+  { href: `${BASE}map`, label: 'Bookmark Map', startsWith: `${BASE}map` },
+];
+
+const isActive = (href: string, startsWith: string) => {
+  if (href === `${BASE}`) {
+    return pathname === BASE;
+  }
+  return pathname.startsWith(startsWith);
+};
+---
+
+<header class="vp-shell-header">
+  <div class="vp-shell-header-inner">
+    <a class="vp-shell-brand" href={`${BASE}`}>Interneto</a>
+    <div class="vp-shell-actions">
+      <nav class="vp-shell-nav" aria-label="Navegacion principal">
+        {links.map((link) => (
+          <a class={`vp-shell-link ${isActive(link.href, link.startsWith) ? 'is-active' : ''}`} href={link.href}>
+            {link.label}
+          </a>
+        ))}
+      </nav>
+      <button type="button" id="themeToggle" class="theme-toggle" aria-label="Switch to dark mode" title="Dark mode">🌙</button>
+    </div>
+  </div>
+</header>

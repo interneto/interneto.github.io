@@ -1,0 +1,243 @@
+/* ==========================================================================
+   LIBRARY INSTALLER & COMPATIBILITY — shared page styles
+   ========================================================================== */
+
+/* Library item row */
+.lib-item {
+    display: flex;
+    align-items: center;
+    gap: var(--spacing-sm);
+    padding: 8px var(--spacing-xs);
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+    flex-wrap: wrap;
+}
+
+.lib-item:hover {
+    background-color: var(--hover-bg);
+}
+
+.lib-name {
+    flex: 1;
+    min-width: 0;
+    font-size: 13px;
+    color: var(--text-primary);
+    font-family: 'Courier New', monospace;
+    word-break: break-all;
+}
+
+/* Badge group */
+.lib-badges {
+    display: flex;
+    gap: 4px;
+    flex-wrap: wrap;
+    flex-shrink: 0;
+}
+
+/* Generic badge */
+.badge {
+    display: inline-block;
+    padding: 2px 7px;
+    border-radius: 999px;
+    font-size: 10px;
+    font-weight: 600;
+    letter-spacing: 0.2px;
+    text-transform: lowercase;
+    white-space: nowrap;
+}
+
+.badge-popular {
+    background-color: #fff3cd;
+    color: #856404;
+    border: 1px solid #ffc107;
+}
+
+[data-theme="dark"] .badge-popular {
+    background-color: #3a3000;
+    color: #ffd54f;
+    border-color: #ffc107;
+}
+
+.badge-modern {
+    background-color: #e3f2fd;
+    color: #1565c0;
+    border: 1px solid #90caf9;
+}
+
+[data-theme="dark"] .badge-modern {
+    background-color: #1a2f4a;
+    color: #90caf9;
+    border-color: #4a7abf;
+}
+
+.badge-lightweight {
+    background-color: #e8f5e9;
+    color: #2e7d32;
+    border: 1px solid #81c784;
+}
+
+[data-theme="dark"] .badge-lightweight {
+    background-color: #1a3a1a;
+    color: #81c784;
+    border-color: #3a7a3a;
+}
+
+.badge-internal {
+    background-color: #f1f3f5;
+    color: #495057;
+    border: 1px solid #d0d7de;
+}
+
+[data-theme="dark"] .badge-internal {
+    background-color: #2f3338;
+    color: #c9d1d9;
+    border-color: #4a5158;
+}
+
+.lib-item-internal {
+    opacity: 0.88;
+}
+
+/* ==========================================================================
+   COMPATIBILITY TABLE CELLS
+   ========================================================================== */
+
+th.lang-col {
+    text-align: left;
+    min-width: 130px;
+    padding: 10px 12px;
+    white-space: nowrap;
+}
+
+td.lang-cell {
+    vertical-align: top;
+    padding: 10px 12px;
+    min-width: 130px;
+}
+
+td.category-cell {
+    font-weight: 600;
+    font-size: 13px;
+    padding: 10px 12px;
+    vertical-align: top;
+    white-space: nowrap;
+}
+
+.compat-lib-item {
+    display: flex;
+    align-items: baseline;
+    gap: 4px;
+    margin-bottom: 5px;
+    font-size: 12px;
+    color: var(--text-primary);
+    flex-wrap: wrap;
+}
+
+.compat-lib-item:last-child {
+    margin-bottom: 0;
+}
+
+.compat-badge {
+    display: inline-block;
+    padding: 1px 6px;
+    border-radius: 999px;
+    font-size: 10px;
+    font-weight: 600;
+    white-space: nowrap;
+    flex-shrink: 0;
+}
+
+.compat-badge-included {
+    background-color: #e8f5e9;
+    color: #2e7d32;
+    border: 1px solid #81c784;
+}
+
+[data-theme="dark"] .compat-badge-included {
+    background-color: #1a3a1a;
+    color: #81c784;
+    border-color: #3a7a3a;
+}
+
+.compat-badge-external {
+    background-color: #e3f2fd;
+    color: #1565c0;
+    border: 1px solid #90caf9;
+}
+
+[data-theme="dark"] .compat-badge-external {
+    background-color: #1a2f4a;
+    color: #90caf9;
+    border-color: #4a7abf;
+}
+
+.legend-tools {
+    display: flex;
+    align-items: center;
+    gap: var(--spacing-sm);
+    margin-bottom: var(--spacing-sm);
+}
+
+.compat-filter-label {
+    margin: 0;
+    font-size: 12px;
+    color: var(--text-secondary);
+}
+
+.compat-visibility-select {
+    width: auto;
+    min-width: 140px;
+    padding: 6px 10px;
+    border-radius: var(--border-radius);
+    border: 1px solid var(--border-color);
+    background: var(--card-background);
+    color: var(--text-primary);
+    font-size: 12px;
+}
+
+/* ==========================================================================
+   INFO NOTE (C/C++ disclaimer)
+   ========================================================================== */
+
+.info-note {
+    margin: var(--spacing-lg) 0 var(--spacing-md) 0;
+    padding: var(--spacing-md) var(--spacing-lg);
+    background: var(--warning-bg);
+    border: 1px solid var(--warning-border);
+    border-radius: var(--border-radius);
+    color: var(--warning-text);
+    font-size: 14px;
+}
+
+.info-note h3 {
+    margin-top: 0;
+    margin-bottom: var(--spacing-sm);
+    color: var(--warning-text);
+    font-size: 15px;
+}
+
+.info-note p {
+    color: var(--warning-text);
+    margin-bottom: var(--spacing-xs);
+    font-size: 13px;
+}
+
+.info-note ul {
+    margin: var(--spacing-xs) 0 var(--spacing-sm) var(--spacing-lg);
+    padding: 0;
+}
+
+.info-note li {
+    margin-bottom: var(--spacing-xs);
+    font-size: 13px;
+    color: var(--warning-text);
+}
+
+.info-note code {
+    background: var(--neutral-overlay-10);
+    padding: 1px 5px;
+    border-radius: 4px;
+    font-family: 'Courier New', monospace;
+    font-size: 12px;
+}

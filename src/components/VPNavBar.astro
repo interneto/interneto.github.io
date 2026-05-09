@@ -1,0 +1,319 @@
+---
+interface NavLink {
+  text: string;
+  link: string;
+  icon?: string;
+}
+
+export interface Props {
+  title: string;
+  icon?: string;
+  links?: NavLink[];
+  searchEnabled?: boolean;
+}
+
+const { title = 'Interneto', icon = '📚', links = [], searchEnabled = true } = Astro.props;
+const BASE = import.meta.env.BASE_URL.replace(/\/?$/, '/');
+const pathname = Astro.url.pathname;
+
+const defaultLinks: NavLink[] = [
+  { text: '📚 Categories', link: `${BASE}categories/` },
+  { text: '📑 Posts', link: `${BASE}posts/` },
+  { text: 'ℹ️ About', link: `${BASE}about/` },
+  { text: '🐙 GitHub', link: 'https://github.com/interneto/interneto.github.io' },
+];
+
+const navLinks = links.length > 0 ? links : defaultLinks;
+
+const isActive = (link: string) => {
+  if (link === `${BASE}` || link === '/') {
+    return pathname === BASE || pathname === '/';
+  }
+  return pathname.startsWith(link);
+};
+---
+
+<header class="vp-nav">
+  <div class="vp-nav-bar vp-nav-bar-home top">
+    <div class="vp-nav-wrapper">
+      <div class="vp-nav-container">
+        <div class="vp-nav-title">
+          <a class="vp-nav-brand" href={`${BASE}`}>
+            {icon && <span class="vp-nav-icon">{icon}</span>}
+            <span class="vp-nav-brand-text">{title}</span>
+          </a>
+        </div>
+        <div class="vp-nav-content">
+          <div class="vp-nav-body">
+            {searchEnabled && (
+              <div class="vp-nav-search">
+                <button type="button" class="vp-search-button" aria-label="Search">
+                  <span class="vp-search-icon">🔍</span>
+                  <span class="vp-search-text">Search</span>
+                  <span class="vp-search-keys"><kbd>Ctrl</kbd><kbd>K</kbd></span>
+                </button>
+              </div>
+            )}
+            <nav class="vp-nav-menu" aria-label="Main Navigation">
+              {navLinks.map((link) => (
+                <a 
+                  class={`vp-nav-menu-link ${isActive(link.link) ? 'active' : ''}`}
+                  href={link.link}
+                  target={link.link.startsWith('http') ? '_blank' : undefined}
+                  rel={link.link.startsWith('http') ? 'noreferrer' : undefined}
+                >
+                  {link.text}
+                </a>
+              ))}
+            </nav>
+          </div>
+          <div class="vp-nav-actions">
+            <button type="button" id="themeToggle" class="vp-theme-toggle" aria-label="Switch theme" title="Theme">
+              <span class="vp-icon-moon">🌙</span>
+              <span class="vp-icon-sun">☀️</span>
+            </button>
+          </div>
+        </div>
+        <button type="button" class="vp-nav-hamburger" aria-label="mobile navigation" aria-expanded="false">
+          <span class="vp-hamburger-line"></span>
+          <span class="vp-hamburger-line"></span>
+          <span class="vp-hamburger-line"></span>
+        </button>
+      </div>
+    </div>
+    <div class="vp-nav-divider"></div>
+  </div>
+</header>
+
+<style>
+  .vp-nav {
+    position: sticky;
+    top: 0;
+    z-index: 60;
+    background-color: var(--vp-c-bg-elv);
+    border-bottom: 1px solid var(--vp-c-divider);
+    backdrop-filter: blur(8px);
+  }
+
+  .vp-nav-bar {
+    padding: 0;
+    height: 61px;
+  }
+
+  .vp-nav-wrapper {
+    display: flex;
+    justify-content: center;
+    padding: 0 24px;
+  }
+
+  .vp-nav-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 1280px;
+    height: 61px;
+  }
+
+  .vp-nav-title {
+    flex-shrink: 0;
+  }
+
+  .vp-nav-brand {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 18px;
+    color: var(--vp-c-text-1);
+    transition: opacity 0.25s;
+  }
+
+  .vp-nav-brand:hover {
+    opacity: 0.6;
+  }
+
+  .vp-nav-icon {
+    display: inline-block;
+    font-size: 24px;
+  }
+
+  .vp-nav-brand-text {
+    color: var(--vp-c-brand-1);
+  }
+
+  .vp-nav-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 32px;
+    flex-grow: 1;
+  }
+
+  .vp-nav-body {
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    flex-grow: 1;
+  }
+
+  .vp-nav-search {
+    margin-left: auto;
+  }
+
+  .vp-search-button {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 6px 12px;
+    border: 1px solid var(--vp-c-divider);
+    border-radius: 6px;
+    background-color: var(--vp-c-bg-alt);
+    color: var(--vp-c-text-2);
+    cursor: pointer;
+    font-size: 14px;
+    transition: all 0.2s;
+  }
+
+  .vp-search-button:hover {
+    background-color: var(--vp-c-bg);
+    border-color: var(--vp-c-brand-1);
+    color: var(--vp-c-text-1);
+  }
+
+  .vp-search-icon {
+    display: inline-block;
+    font-size: 16px;
+  }
+
+  .vp-search-keys {
+    display: flex;
+    gap: 4px;
+    margin-left: 8px;
+    padding-left: 8px;
+    border-left: 1px solid var(--vp-c-divider);
+  }
+
+  .vp-search-keys kbd {
+    padding: 2px 4px;
+    font-size: 12px;
+    border: 1px solid var(--vp-c-divider);
+    border-radius: 3px;
+    background-color: var(--vp-c-bg);
+    font-family: monospace;
+  }
+
+  .vp-nav-menu {
+    display: flex;
+    gap: 24px;
+    align-items: center;
+  }
+
+  .vp-nav-menu-link {
+    position: relative;
+    display: inline-block;
+    padding: 8px 0;
+    color: var(--vp-c-text-1);
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 15px;
+    transition: color 0.25s;
+  }
+
+  .vp-nav-menu-link:hover {
+    color: var(--vp-c-brand-1);
+  }
+
+  .vp-nav-menu-link.active {
+    color: var(--vp-c-brand-1);
+  }
+
+  .vp-nav-menu-link.active::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 2px;
+    background-color: var(--vp-c-brand-1);
+  }
+
+  .vp-nav-actions {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+  }
+
+  .vp-theme-toggle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 36px;
+    height: 36px;
+    border: 1px solid var(--vp-c-divider);
+    border-radius: 6px;
+    background-color: transparent;
+    cursor: pointer;
+    font-size: 18px;
+    transition: all 0.2s;
+  }
+
+  .vp-theme-toggle:hover {
+    background-color: var(--vp-c-bg-alt);
+    border-color: var(--vp-c-brand-1);
+  }
+
+  .vp-icon-sun {
+    display: none;
+  }
+
+  [data-theme="dark"] .vp-icon-moon {
+    display: none;
+  }
+
+  [data-theme="dark"] .vp-icon-sun {
+    display: inline;
+  }
+
+  .vp-nav-hamburger {
+    display: none;
+    flex-direction: column;
+    gap: 4px;
+    padding: 4px;
+    border: none;
+    background: none;
+    cursor: pointer;
+  }
+
+  .vp-hamburger-line {
+    width: 24px;
+    height: 2px;
+    background-color: var(--vp-c-text-1);
+    border-radius: 1px;
+    transition: all 0.3s;
+  }
+
+  .vp-nav-divider {
+    height: 1px;
+    background: linear-gradient(to right, var(--vp-c-divider), transparent);
+  }
+
+  @media (max-width: 768px) {
+    .vp-nav-hamburger {
+      display: flex;
+    }
+
+    .vp-nav-search {
+      display: none;
+    }
+
+    .vp-nav-menu {
+      display: none;
+    }
+
+    .vp-nav-body {
+      flex-grow: 0;
+    }
+  }
+</style>

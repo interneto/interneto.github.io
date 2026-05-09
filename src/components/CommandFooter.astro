@@ -1,0 +1,18 @@
+---
+interface Props {
+  label?: string;
+  initialText?: string;
+}
+const { label = 'Installation command:', initialText = 'Select packages and OS to generate command...' } = Astro.props;
+---
+<div class="command-footer" id="commandFooter" hidden role="region" aria-label="Install command">
+  <div class="command-container">
+    <div class="command-output">
+      <div class="command-header">
+        <span class="command-language" id="commandLanguage">{label}</span>
+        <button type="button" class="copy-btn" id="copyCommandBtn" title="Copy to clipboard" aria-label="Copy to clipboard">📋 Copy</button>
+      </div>
+      <code id="installation-command" aria-live="polite">{initialText}</code>
+    </div>
+  </div>
+</div>

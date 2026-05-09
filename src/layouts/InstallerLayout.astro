@@ -1,0 +1,30 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import PageHeader from '../components/PageHeader.astro';
+import PageNav from '../components/PageNav.astro';
+
+interface Props {
+  title: string;
+  heading: string;
+  navBack?: { href: string; label: string };
+  navCompat?: { href: string; label: string };
+  extraStyles?: string[];
+}
+
+const { title, heading, navBack, navCompat, extraStyles = [] } = Astro.props;
+const BASE = import.meta.env.BASE_URL.replace(/\/?$/, '/');
+
+// Resolve paths relative to base (strip leading slash, then prefix with BASE_URL)
+const resolveHref = (href: string) => `${BASE}${href.replace(/^\//, '')}`;
+const backHref = navBack ? resolveHref(navBack.href) : BASE;
+const backLabel = navBack?.label ?? 'Back to Home';
+const compatHref = navCompat ? resolveHref(navCompat.href) : undefined;
+const compatLabel = navCompat?.label;
+---
+<BaseLayout title={title} extraStyles={['styles/generator.css', ...extraStyles]}>
+  <div class="page-wrapper">
+    <PageHeader heading={heading} />
+    <PageNav backHref={backHref} backLabel={backLabel} compatHref={compatHref} compatLabel={compatLabel} />
+    <slot />
+  </div>
+</BaseLayout>

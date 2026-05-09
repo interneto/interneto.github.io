@@ -1,0 +1,380 @@
+{
+    "javascript": {
+        "label": "JavaScript",
+        "emoji": "🟨",
+        "manager": { "name": "npm", "cmd": "npm install" },
+        "categories": {
+            "UI Framework": [
+                { "name": "react", "display": "React", "badges": ["popular"] },
+                { "name": "vue", "display": "Vue", "badges": ["popular"] },
+                { "name": "svelte", "display": "Svelte", "badges": ["popular", "modern"] },
+                { "name": "@angular/core", "display": "Angular", "badges": ["popular"] },
+                { "name": "solid-js", "display": "Solid.js", "badges": ["modern", "lightweight"] },
+                { "name": "preact", "display": "Preact", "badges": ["lightweight"] }
+            ],
+            "Meta-Framework": [
+                { "name": "next", "display": "Next.js", "badges": ["popular"] },
+                { "name": "nuxt", "display": "Nuxt", "badges": ["popular"] },
+                { "name": "astro", "display": "Astro", "badges": ["popular", "modern"] },
+                { "name": "@remix-run/react", "display": "Remix", "badges": ["modern"] },
+                { "name": "@sveltejs/kit", "display": "SvelteKit", "badges": ["modern"] }
+            ],
+            "State Management": [
+                { "name": "@reduxjs/toolkit", "display": "Redux Toolkit", "badges": ["popular"] },
+                { "name": "zustand", "display": "Zustand", "badges": ["popular", "modern"] },
+                { "name": "mobx", "display": "MobX", "badges": ["popular"] },
+                { "name": "jotai", "display": "Jotai", "badges": ["modern", "lightweight"] },
+                { "name": "pinia", "display": "Pinia", "badges": ["popular", "modern"] },
+                { "name": "recoil", "display": "Recoil", "badges": ["popular"] }
+            ],
+            "Styling": [
+                { "name": "tailwindcss", "display": "Tailwind CSS", "badges": ["popular"] },
+                { "name": "sass", "display": "Sass", "badges": ["popular"] },
+                { "name": "styled-components", "display": "styled-components", "badges": ["popular"] },
+                { "name": "@emotion/react", "display": "Emotion", "badges": ["popular"] },
+                { "name": "unocss", "display": "UnoCSS", "badges": ["modern", "lightweight"] },
+                { "name": "open-props", "display": "Open Props", "badges": ["lightweight"] }
+            ],
+            "UI Components": [
+                { "name": "@radix-ui/react-dialog", "display": "Radix UI", "badges": ["popular", "modern"] },
+                { "name": "@headlessui/react", "display": "Headless UI", "badges": ["popular"] },
+                { "name": "antd", "display": "Ant Design", "badges": ["popular"] },
+                { "name": "@mantine/core", "display": "Mantine", "badges": ["modern"] },
+                { "name": "lucide-react", "display": "Lucide React", "badges": ["popular", "modern"] },
+                { "name": "framer-motion", "display": "Framer Motion", "badges": ["popular"] }
+            ],
+            "Build Tools": [
+                { "name": "vite", "display": "Vite", "badges": ["popular", "modern"] },
+                { "name": "webpack", "display": "Webpack", "badges": ["popular"] },
+                { "name": "esbuild", "display": "esbuild", "badges": ["modern", "lightweight"] },
+                { "name": "rollup", "display": "Rollup", "badges": ["popular"] },
+                { "name": "parcel", "display": "Parcel", "badges": ["lightweight"] }
+            ],
+            "Backend Framework": [
+                { "name": "express", "display": "Express", "badges": ["popular"] },
+                { "name": "fastify", "display": "Fastify", "badges": ["modern", "lightweight"] },
+                { "name": "hono", "display": "Hono", "badges": ["modern", "lightweight"] },
+                { "name": "@nestjs/core", "display": "NestJS", "badges": ["popular"] },
+                { "name": "koa", "display": "Koa", "badges": ["popular", "lightweight"] }
+            ],
+            "HTTP Client": [
+                { "name": "axios", "display": "Axios", "badges": ["popular"] },
+                { "name": "@tanstack/react-query", "display": "TanStack Query", "badges": ["popular", "modern"] },
+                { "name": "swr", "display": "SWR", "badges": ["popular"] },
+                { "name": "@apollo/client", "display": "Apollo Client", "badges": ["popular"] },
+                { "name": "ky", "display": "ky", "badges": ["modern", "lightweight"] },
+                { "name": "got", "display": "got", "badges": ["modern"] }
+            ],
+            "ORM / Database": [
+                { "name": "prisma", "display": "Prisma", "badges": ["popular", "modern"] },
+                { "name": "drizzle-orm", "display": "Drizzle ORM", "badges": ["modern", "lightweight"] },
+                { "name": "typeorm", "display": "TypeORM", "badges": ["popular"] },
+                { "name": "sequelize", "display": "Sequelize", "badges": ["popular"] },
+                { "name": "mongoose", "display": "Mongoose", "badges": ["popular"] },
+                { "name": "knex", "display": "Knex.js", "badges": ["popular"] }
+            ],
+            "Testing": [
+                { "name": "vitest", "display": "Vitest", "badges": ["modern", "lightweight"] },
+                { "name": "jest", "display": "Jest", "badges": ["popular"] },
+                { "name": "mocha", "display": "Mocha", "badges": ["popular"] },
+                { "name": "@testing-library/react", "display": "Testing Library", "badges": ["popular"] },
+                { "name": "playwright", "display": "Playwright", "badges": ["popular", "modern"] },
+                { "name": "cypress", "display": "Cypress", "badges": ["popular"] },
+                { "name": "storybook", "display": "Storybook", "badges": ["popular"] }
+            ],
+            "Logging": [
+                { "name": "pino", "display": "Pino", "badges": ["modern", "lightweight"] },
+                { "name": "winston", "display": "Winston", "badges": ["popular"] },
+                { "name": "morgan", "display": "Morgan", "badges": ["popular"] }
+            ],
+            "Validation": [
+                { "name": "zod", "display": "Zod", "badges": ["popular", "modern"] },
+                { "name": "yup", "display": "Yup", "badges": ["popular"] },
+                { "name": "valibot", "display": "Valibot", "badges": ["modern", "lightweight"] },
+                { "name": "joi", "display": "Joi", "badges": ["popular"] }
+            ],
+            "Auth / Security": [
+                { "name": "passport", "display": "Passport", "badges": ["popular"] },
+                { "name": "jose", "display": "jose", "badges": ["modern", "lightweight"] },
+                { "name": "better-auth", "display": "Better Auth", "badges": ["modern"] },
+                { "name": "jsonwebtoken", "display": "jsonwebtoken", "badges": ["popular"] },
+                { "name": "bcryptjs", "display": "bcryptjs", "badges": ["popular"] }
+            ]
+        }
+    },
+    "python": {
+        "label": "Python",
+        "emoji": "🐍",
+        "manager": { "name": "pip", "cmd": "pip install" },
+        "categories": {
+            "Backend Framework": [
+                { "name": "fastapi", "display": "FastAPI", "badges": ["popular", "modern"] },
+                { "name": "flask", "display": "Flask", "badges": ["popular", "lightweight"] },
+                { "name": "django", "display": "Django", "badges": ["popular"] },
+                { "name": "starlette", "display": "Starlette", "badges": ["modern", "lightweight"] },
+                { "name": "tornado", "display": "Tornado", "badges": ["popular"] },
+                { "name": "litestar", "display": "Litestar", "badges": ["modern"] }
+            ],
+            "HTTP Client": [
+                { "name": "httpx", "display": "HTTPX", "badges": ["modern"] },
+                { "name": "requests", "display": "Requests", "badges": ["popular"] },
+                { "name": "aiohttp", "display": "aiohttp", "badges": ["popular"] },
+                { "name": "urllib3", "display": "urllib3", "badges": ["popular"] }
+            ],
+            "ORM / Database": [
+                { "name": "sqlalchemy", "display": "SQLAlchemy", "badges": ["popular"] },
+                { "name": "tortoise-orm", "display": "Tortoise ORM", "badges": ["modern"] },
+                { "name": "peewee", "display": "Peewee", "badges": ["lightweight"] },
+                { "name": "alembic", "display": "Alembic", "badges": ["popular"] },
+                { "name": "pymongo", "display": "PyMongo", "badges": ["popular"] }
+            ],
+            "Testing": [
+                { "name": "pytest", "display": "pytest", "badges": ["popular"] },
+                { "name": "hypothesis", "display": "Hypothesis", "badges": ["modern"] },
+                { "name": "factory-boy", "display": "Factory Boy", "badges": ["popular"] },
+                { "name": "coverage", "display": "Coverage.py", "badges": ["popular"] }
+            ],
+            "Logging": [
+                { "name": "loguru", "display": "Loguru", "badges": ["popular", "modern"] },
+                { "name": "structlog", "display": "structlog", "badges": ["modern"] },
+                { "name": "rich", "display": "Rich", "badges": ["popular", "modern"] }
+            ],
+            "Validation": [
+                { "name": "pydantic", "display": "Pydantic", "badges": ["popular", "modern"] },
+                { "name": "marshmallow", "display": "Marshmallow", "badges": ["popular"] },
+                { "name": "cerberus", "display": "Cerberus", "badges": ["lightweight"] },
+                { "name": "attrs", "display": "attrs", "badges": ["popular"] }
+            ],
+            "Auth / Security": [
+                { "name": "python-jose", "display": "python-jose", "badges": ["popular"] },
+                { "name": "authlib", "display": "Authlib", "badges": ["modern"] },
+                { "name": "passlib", "display": "Passlib", "badges": ["popular"] },
+                { "name": "bcrypt", "display": "bcrypt", "badges": ["popular"] }
+            ]
+        }
+    },
+    "java": {
+        "label": "Java",
+        "emoji": "☕",
+        "manager": { "name": "Maven", "cmd": "maven" },
+        "categories": {
+            "Backend Framework": [
+                { "name": "org.springframework.boot:spring-boot-starter-web", "display": "Spring Boot Web", "badges": ["popular"] },
+                { "name": "io.quarkus:quarkus-resteasy-reactive", "display": "Quarkus RESTEasy", "badges": ["modern"] },
+                { "name": "io.micronaut:micronaut-http-server-netty", "display": "Micronaut HTTP", "badges": ["modern", "lightweight"] },
+                { "name": "io.javalin:javalin", "display": "Javalin", "badges": ["lightweight", "modern"] }
+            ],
+            "HTTP Client": [
+                { "name": "com.squareup.okhttp3:okhttp", "display": "OkHttp", "badges": ["popular"] },
+                { "name": "com.squareup.retrofit2:retrofit", "display": "Retrofit", "badges": ["popular"] },
+                { "name": "io.github.openfeign:feign-core", "display": "Feign", "badges": ["lightweight"] },
+                { "name": "org.apache.httpcomponents.client5:httpclient5", "display": "Apache HttpClient 5", "badges": ["popular"] }
+            ],
+            "ORM / Database": [
+                { "name": "org.hibernate.orm:hibernate-core", "display": "Hibernate ORM", "badges": ["popular"] },
+                { "name": "org.jooq:jooq", "display": "jOOQ", "badges": ["popular", "modern"] },
+                { "name": "org.mybatis:mybatis", "display": "MyBatis", "badges": ["popular"] },
+                { "name": "org.springframework.data:spring-data-jpa", "display": "Spring Data JPA", "badges": ["popular"] }
+            ],
+            "Testing": [
+                { "name": "org.junit.jupiter:junit-jupiter", "display": "JUnit 5", "badges": ["popular"] },
+                { "name": "org.mockito:mockito-core", "display": "Mockito", "badges": ["popular"] },
+                { "name": "org.assertj:assertj-core", "display": "AssertJ", "badges": ["popular", "modern"] },
+                { "name": "org.testcontainers:testcontainers", "display": "Testcontainers", "badges": ["modern"] }
+            ],
+            "Logging": [
+                { "name": "ch.qos.logback:logback-classic", "display": "Logback", "badges": ["popular"] },
+                { "name": "org.apache.logging.log4j:log4j-core", "display": "Log4j 2", "badges": ["popular"] },
+                { "name": "org.slf4j:slf4j-api", "display": "SLF4J", "badges": ["popular"] }
+            ],
+            "Validation": [
+                { "name": "org.hibernate.validator:hibernate-validator", "display": "Hibernate Validator", "badges": ["popular"] },
+                { "name": "jakarta.validation:jakarta.validation-api", "display": "Jakarta Validation", "badges": ["popular"] }
+            ],
+            "Auth / Security": [
+                { "name": "org.springframework.security:spring-security-core", "display": "Spring Security", "badges": ["popular"] },
+                { "name": "com.auth0:java-jwt", "display": "java-jwt", "badges": ["popular"] },
+                { "name": "com.nimbusds:nimbus-jose-jwt", "display": "nimbus-jose-jwt", "badges": ["popular"] }
+            ]
+        }
+    },
+    "csharp": {
+        "label": "C#",
+        "emoji": "🔷",
+        "manager": { "name": "dotnet", "cmd": "dotnet add package" },
+        "categories": {
+            "Backend Framework": [
+                { "name": "Carter", "display": "Carter", "badges": ["lightweight", "modern"] },
+                { "name": "FastEndpoints", "display": "FastEndpoints", "badges": ["modern"] },
+                { "name": "ServiceStack", "display": "ServiceStack", "badges": ["popular"] },
+                { "name": "Hangfire", "display": "Hangfire", "badges": ["popular"] }
+            ],
+            "HTTP Client": [
+                { "name": "Refit", "display": "Refit", "badges": ["popular", "modern"] },
+                { "name": "RestSharp", "display": "RestSharp", "badges": ["popular"] },
+                { "name": "Flurl.Http", "display": "Flurl.Http", "badges": ["lightweight"] },
+                { "name": "Polly", "display": "Polly", "badges": ["popular"] }
+            ],
+            "ORM / Database": [
+                { "name": "Microsoft.EntityFrameworkCore", "display": "Entity Framework Core", "badges": ["popular"] },
+                { "name": "Dapper", "display": "Dapper", "badges": ["popular", "lightweight"] },
+                { "name": "NHibernate", "display": "NHibernate", "badges": ["popular"] },
+                { "name": "MongoDB.Driver", "display": "MongoDB Driver", "badges": ["popular"] }
+            ],
+            "Testing": [
+                { "name": "xunit", "display": "xUnit", "badges": ["popular", "modern"] },
+                { "name": "Moq", "display": "Moq", "badges": ["popular"] },
+                { "name": "FluentAssertions", "display": "FluentAssertions", "badges": ["popular", "modern"] },
+                { "name": "NSubstitute", "display": "NSubstitute", "badges": ["modern"] }
+            ],
+            "Logging": [
+                { "name": "Serilog", "display": "Serilog", "badges": ["popular", "modern"] },
+                { "name": "NLog", "display": "NLog", "badges": ["popular"] },
+                { "name": "Microsoft.Extensions.Logging", "display": "MS Logging", "badges": ["popular"] }
+            ],
+            "Validation": [
+                { "name": "FluentValidation", "display": "FluentValidation", "badges": ["popular", "modern"] },
+                { "name": "GuardClauses", "display": "GuardClauses", "badges": ["lightweight"] }
+            ],
+            "Auth / Security": [
+                { "name": "Microsoft.AspNetCore.Authentication.JwtBearer", "display": "JWT Bearer", "badges": ["popular"] },
+                { "name": "BCrypt.Net-Next", "display": "BCrypt.Net", "badges": ["popular"] },
+                { "name": "IdentityModel", "display": "IdentityModel", "badges": ["popular"] }
+            ]
+        }
+    },
+    "go": {
+        "label": "Go",
+        "emoji": "🐹",
+        "manager": { "name": "go get", "cmd": "go get" },
+        "categories": {
+            "Backend Framework": [
+                { "name": "github.com/gin-gonic/gin", "display": "Gin", "badges": ["popular"] },
+                { "name": "github.com/gofiber/fiber/v2", "display": "Fiber", "badges": ["modern", "lightweight"] },
+                { "name": "github.com/labstack/echo/v4", "display": "Echo", "badges": ["popular", "lightweight"] },
+                { "name": "github.com/go-chi/chi/v5", "display": "Chi", "badges": ["lightweight", "modern"] },
+                { "name": "github.com/danielgtaylor/huma/v2", "display": "Huma", "badges": ["modern"] }
+            ],
+            "HTTP Client": [
+                { "name": "github.com/go-resty/resty/v2", "display": "Resty", "badges": ["popular"] },
+                { "name": "github.com/imroc/req/v3", "display": "req", "badges": ["modern"] },
+                { "name": "github.com/hashicorp/go-retryablehttp", "display": "go-retryablehttp", "badges": ["popular"] }
+            ],
+            "ORM / Database": [
+                { "name": "gorm.io/gorm", "display": "GORM", "badges": ["popular"] },
+                { "name": "github.com/uptrace/bun", "display": "Bun", "badges": ["modern", "lightweight"] },
+                { "name": "github.com/jmoiron/sqlx", "display": "sqlx", "badges": ["popular", "lightweight"] },
+                { "name": "github.com/jackc/pgx/v5", "display": "pgx", "badges": ["popular", "modern"] }
+            ],
+            "Testing": [
+                { "name": "github.com/stretchr/testify", "display": "testify", "badges": ["popular"] },
+                { "name": "github.com/onsi/ginkgo/v2", "display": "Ginkgo", "badges": ["popular"] },
+                { "name": "github.com/vektra/mockery/v2", "display": "mockery", "badges": ["popular"] }
+            ],
+            "Logging": [
+                { "name": "go.uber.org/zap", "display": "Zap", "badges": ["popular", "modern"] },
+                { "name": "github.com/rs/zerolog", "display": "zerolog", "badges": ["modern", "lightweight"] },
+                { "name": "github.com/sirupsen/logrus", "display": "logrus", "badges": ["popular"] },
+                { "name": "golang.org/x/exp/slog", "display": "slog", "badges": ["modern"] }
+            ],
+            "Validation": [
+                { "name": "github.com/go-playground/validator/v10", "display": "validator", "badges": ["popular"] },
+                { "name": "github.com/asaskevich/govalidator", "display": "govalidator", "badges": ["popular"] }
+            ],
+            "Auth / Security": [
+                { "name": "github.com/golang-jwt/jwt/v5", "display": "golang-jwt", "badges": ["popular"] },
+                { "name": "golang.org/x/oauth2", "display": "oauth2", "badges": ["popular"] },
+                { "name": "github.com/casbin/casbin/v2", "display": "Casbin", "badges": ["popular"] }
+            ]
+        }
+    },
+    "rust": {
+        "label": "Rust",
+        "emoji": "🦀",
+        "manager": { "name": "cargo add", "cmd": "cargo add" },
+        "categories": {
+            "Backend Framework": [
+                { "name": "axum", "display": "Axum", "badges": ["popular", "modern"] },
+                { "name": "actix-web", "display": "Actix Web", "badges": ["popular"] },
+                { "name": "rocket", "display": "Rocket", "badges": ["popular"] },
+                { "name": "warp", "display": "Warp", "badges": ["modern"] },
+                { "name": "poem", "display": "Poem", "badges": ["modern"] }
+            ],
+            "HTTP Client": [
+                { "name": "reqwest", "display": "Reqwest", "badges": ["popular"] },
+                { "name": "ureq", "display": "ureq", "badges": ["lightweight"] },
+                { "name": "hyper", "display": "Hyper", "badges": ["popular"] }
+            ],
+            "ORM / Database": [
+                { "name": "sqlx", "display": "SQLx", "badges": ["popular", "modern"] },
+                { "name": "diesel", "display": "Diesel", "badges": ["popular"] },
+                { "name": "sea-orm", "display": "SeaORM", "badges": ["modern"] },
+                { "name": "serde", "display": "Serde", "badges": ["popular"] }
+            ],
+            "Testing": [
+                { "name": "mockall", "display": "mockall", "badges": ["popular"] },
+                { "name": "rstest", "display": "rstest", "badges": ["modern", "lightweight"] },
+                { "name": "proptest", "display": "proptest", "badges": ["modern"] }
+            ],
+            "Logging": [
+                { "name": "tracing", "display": "Tracing", "badges": ["popular", "modern"] },
+                { "name": "log", "display": "log", "badges": ["popular", "lightweight"] },
+                { "name": "env_logger", "display": "env_logger", "badges": ["popular", "lightweight"] }
+            ],
+            "Validation": [
+                { "name": "validator", "display": "validator", "badges": ["popular"] },
+                { "name": "garde", "display": "garde", "badges": ["modern"] }
+            ],
+            "Auth / Security": [
+                { "name": "jsonwebtoken", "display": "jsonwebtoken", "badges": ["popular"] },
+                { "name": "argon2", "display": "argon2", "badges": ["popular", "modern"] },
+                { "name": "bcrypt", "display": "bcrypt", "badges": ["popular"] }
+            ]
+        }
+    },
+    "php": {
+        "label": "PHP",
+        "emoji": "🐘",
+        "manager": { "name": "Composer", "cmd": "composer require" },
+        "categories": {
+            "Backend Framework": [
+                { "name": "laravel/framework", "display": "Laravel", "badges": ["popular"] },
+                { "name": "symfony/symfony", "display": "Symfony", "badges": ["popular"] },
+                { "name": "slim/slim", "display": "Slim", "badges": ["lightweight"] },
+                { "name": "cakephp/cakephp", "display": "CakePHP", "badges": ["popular"] },
+                { "name": "codeigniter4/framework", "display": "CodeIgniter", "badges": ["popular"] }
+            ],
+            "HTTP Client": [
+                { "name": "guzzlehttp/guzzle", "display": "Guzzle", "badges": ["popular"] },
+                { "name": "symfony/http-client", "display": "Symfony HTTP Client", "badges": ["modern"] },
+                { "name": "kriswallsmith/buzz", "display": "Buzz", "badges": ["lightweight"] }
+            ],
+            "ORM / Database": [
+                { "name": "doctrine/orm", "display": "Doctrine ORM", "badges": ["popular"] },
+                { "name": "illuminate/database", "display": "Eloquent", "badges": ["popular"] },
+                { "name": "cycle/orm", "display": "Cycle ORM", "badges": ["modern"] },
+                { "name": "atlas/orm", "display": "Atlas ORM", "badges": ["modern"] }
+            ],
+            "Testing": [
+                { "name": "phpunit/phpunit", "display": "PHPUnit", "badges": ["popular"] },
+                { "name": "pestphp/pest", "display": "Pest", "badges": ["modern"] },
+                { "name": "mockery/mockery", "display": "Mockery", "badges": ["popular"] },
+                { "name": "phpspec/prophecy", "display": "Prophecy", "badges": ["popular"] }
+            ],
+            "Logging": [
+                { "name": "monolog/monolog", "display": "Monolog", "badges": ["popular"] },
+                { "name": "seldaek/monolog", "display": "Seldaek Monolog", "badges": ["popular"] }
+            ],
+            "Validation": [
+                { "name": "respect/validation", "display": "Respect Validation", "badges": ["popular"] },
+                { "name": "illuminate/validation", "display": "Laravel Validator", "badges": ["popular"] },
+                { "name": "rakit/validation", "display": "Rakit Validation", "badges": ["lightweight"] }
+            ],
+            "Auth / Security": [
+                { "name": "firebase/php-jwt", "display": "firebase/php-jwt", "badges": ["popular"] },
+                { "name": "lcobucci/jwt", "display": "lcobucci/jwt", "badges": ["modern"] },
+                { "name": "defuse/php-encryption", "display": "defuse/php-encryption", "badges": ["popular"] }
+            ]
+        }
+    }
+}

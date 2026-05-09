@@ -1,0 +1,40 @@
+---
+interface OptionsItem {
+  value: string;
+  label: string;
+}
+interface Props {
+  searchPlaceholder?: string;
+  hasFossToggle?: boolean;
+  optionsItems?: OptionsItem[];
+}
+const {
+  searchPlaceholder = 'Search packages by name',
+  hasFossToggle = true,
+  optionsItems = [],
+} = Astro.props;
+---
+<div class="page-controls">
+  <div class="page-controls-panel main-controls">
+    <input id="searchInput" class="search-input" type="search" placeholder={searchPlaceholder} />
+    <label class="select-all-control">
+      <input type="checkbox" id="selectAllCheckbox" class="select-all-checkbox" />
+      <span id="selectAllLabel">Select</span>
+    </label>
+    <button type="button" class="toggle-all-btn" id="toggleAllBtn" title="Collapse/Expand all categories">
+      <span id="toggleAllIcon">▼</span>
+      <span id="toggleAllLabel">Collapse</span>
+    </button>
+    {hasFossToggle && (
+      <button type="button" class="foss-toggle-btn" id="fossToggleBtn" title="Show only Free and Open Source Software">🌿 FOSS</button>
+    )}
+    <slot name="extra-selects" />
+    {optionsItems.length > 0 && (
+      <select id="optionsSelect" class="options-select">
+        <option value="" hidden selected>⚙️ Options</option>
+        {optionsItems.map(item => <option value={item.value}>{item.label}</option>)}
+      </select>
+    )}
+  </div>
+  <input type="file" id="fileInput" accept=".json" style="display: none;" />
+</div>
