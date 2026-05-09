@@ -1,0 +1,51 @@
+---
+import CompatLayout from '../layouts/CompatLayout.astro';
+---
+<CompatLayout
+  title="Library Compatibility"
+  heading="📚 Library Compatibility"
+  subtitle="Equivalent external libraries by category and programming language."
+  installerHref="lib"
+  installerLabel="Go to Library Installer"
+  extraStyles={['styles/lib-installer.css']}
+  searchPlaceholder="Search library or category..."
+>
+  <div slot="legend" class="legend" aria-label="Type legend">
+    <div class="legend-tools">
+      <label for="compatVisibilitySelect" class="compat-filter-label">Libraries:</label>
+      <select id="compatVisibilitySelect" class="compat-visibility-select" aria-label="Filter compatibility by library type">
+        <option value="external" selected>External only</option>
+        <option value="all">All</option>
+        <option value="core">Core only</option>
+      </select>
+    </div>
+    <div class="legend-item">
+      <span class="compat-badge compat-badge-included" title="Included in language/runtime">core</span>
+      Included in standard library or runtime
+    </div>
+    <div class="legend-item">
+      <span class="compat-badge compat-badge-external" title="Requires package manager">ext</span>
+      External dependency managed by package manager
+    </div>
+  </div>
+  <div class="table-container">
+    <table id="compatTable">
+      <thead id="tableHead"></thead>
+      <tbody id="tableBody"></tbody>
+    </table>
+  </div>
+  <div slot="extra" class="info-note" role="note" aria-label="Note about C and C++">
+    <h3>⚠️ Note on C / C++</h3>
+    <p>C and C++ are intentionally excluded from this table because:</p>
+    <ul>
+      <li>They lack a universal, standardized package manager. Tools like <code>Conan</code> or <code>vcpkg</code> exist but are not universally adopted.</li>
+      <li>Libraries are typically integrated via compilation flags and manual linking (e.g. <code>-lfoo</code>, CMake <code>find_package()</code>, or <code>pkg-config</code>).</li>
+      <li>Dependency management varies significantly by platform, compiler, and build system.</li>
+    </ul>
+    <p>For these reasons, C/C++ is also excluded from the automatic install command generator.</p>
+  </div>
+  <script>
+    import { initLibCompat } from '../scripts/lib-compat';
+    initLibCompat();
+  </script>
+</CompatLayout>

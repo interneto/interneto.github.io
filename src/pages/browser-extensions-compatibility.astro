@@ -1,0 +1,25 @@
+---
+import CompatLayout from '../layouts/CompatLayout.astro';
+---
+<CompatLayout
+  title="Browser Extensions Table"
+  heading="🧩 Browser Extensions Compatibility"
+  subtitle="Extension list and store links for Firefox and Chromium-based browsers."
+  installerHref="browser"
+  installerLabel="Go to Installer"
+  searchPlaceholder="Search extension name, id, or category"
+>
+  <div slot="controls" class="page-controls-panel">
+    <div class="page-filter-row filter-chips" id="filterChips" role="group" aria-label="Filter by category"></div>
+  </div>
+  <div class="table-container">
+    <table id="packagesTable">
+      <thead id="tableHead"></thead>
+      <tbody id="tableBody"></tbody>
+    </table>
+  </div>
+  <div class="stats" id="statsContainer"></div>
+  <script>
+    import '../scripts/software-table-pages';
+  </script>
+</CompatLayout>

@@ -1,0 +1,39 @@
+---
+import InstallerLayout from '../layouts/InstallerLayout.astro';
+import CommandFooter from '../components/CommandFooter.astro';
+import PackageControls from '../components/PackageControls.astro';
+---
+<InstallerLayout
+  title="Library Installer"
+  heading="Library Installer"
+  navBack={{ href: '/', label: 'Back to Home' }}
+  navCompat={{ href: '/lib-compatibility', label: 'Library Compatibility Table' }}
+  extraStyles={['styles/lib-installer.css']}
+>
+  <section class="package-section">
+    <div class="container">
+      <div class="os-selector-container">
+        <div class="primary-os-selector" id="langSelector" role="group" aria-label="Select programming language"></div>
+        <div class="secondary-os-selector" id="javaToolSelector" style="display:none;" role="group" aria-label="Select Java build tool">
+          <button type="button" class="distro-btn active" data-tool="maven">Maven (pom.xml)</button>
+          <button type="button" class="distro-btn" data-tool="gradle">Gradle (build.gradle)</button>
+        </div>
+      </div>
+      <PackageControls searchPlaceholder="Search libraries by name" showFossToggle={false} showFileInput={false}>
+        <button type="button" class="toggle-all-btn" id="internalToggleBtn" title="Show or hide internal libraries">
+          <span>🧪</span>
+          <span id="internalToggleLabel">Show internal</span>
+        </button>
+        <select id="optionsSelect" class="options-select">
+          <option value="" hidden selected>⚙️ Options</option>
+          <option value="exportPackages">📤 Export Libraries (JSON)</option>
+        </select>
+      </PackageControls>
+    </div>
+    <div id="libContainer" class="package-container columns" role="list" aria-label="Library categories"></div>
+  </section>
+  <CommandFooter />
+  <script>
+    import '../scripts/lib-installer';
+  </script>
+</InstallerLayout>

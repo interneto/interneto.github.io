@@ -1,0 +1,198 @@
+---
+import { getCollection } from 'astro:content';
+import VPLayout from '../../layouts/VPLayout.astro';
+
+const BASE = import.meta.env.BASE_URL.replace(/\/?$/, '/');
+
+export async function getStaticPaths() {
+  const posts = await getCollection('posts');
+  return posts.map((entry) => ({
+    params: { slug: entry.id.replace(/\.md$/i, '') },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await entry.render();
+const pageTitle = entry.data.title ?? entry.id;
+---
+
+<VPLayout title={pageTitle} hasSidebar={true}>
+  <div class="vp-post-wrapper">
+    <nav class="vp-breadcrumb" aria-label="Breadcrumb">
+      <a href={`${BASE}`}>Home</a>
+      <span class="vp-breadcrumb-sep">›</span>
+      <a href={`${BASE}posts/`}>Posts</a>
+      <span class="vp-breadcrumb-sep">›</span>
+      <span>{pageTitle}</span>
+    </nav>
+
+    <article class="vp-post-content">
+      <header class="vp-post-header">
+        <h1>{pageTitle}</h1>
+        {entry.data.description && <p class="vp-post-lead">{entry.data.description}</p>}
+      </header>
+      <div class="vp-prose">
+        <Content />
+      </div>
+    </article>
+  </div>
+</VPLayout>
+
+<style>
+  .vp-post-wrapper {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 48px 32px;
+  }
+
+  .vp-breadcrumb {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 32px;
+    font-size: 14px;
+    color: var(--vp-c-text-2);
+    flex-wrap: wrap;
+  }
+
+  .vp-breadcrumb a {
+    color: var(--vp-c-brand-1);
+    text-decoration: none;
+    transition: color 0.2s;
+  }
+
+  .vp-breadcrumb a:hover {
+    color: var(--vp-c-brand-2);
+    text-decoration: underline;
+  }
+
+  .vp-breadcrumb-sep {
+    margin: 0 4px;
+  }
+
+  .vp-post-header {
+    margin-bottom: 48px;
+    padding-bottom: 32px;
+    border-bottom: 1px solid var(--vp-c-divider);
+  }
+
+  .vp-post-header h1 {
+    font-size: 2.5em;
+    font-weight: 700;
+    line-height: 1.2;
+    margin-bottom: 16px;
+    color: var(--vp-c-text-1);
+  }
+
+  .vp-post-lead {
+    font-size: 1.1em;
+    color: var(--vp-c-text-2);
+    line-height: 1.6;
+    margin: 0;
+  }
+
+  .vp-prose {
+    line-height: 1.8;
+    font-size: 1em;
+  }
+
+  .vp-prose h2 {
+    margin-top: 1.5em;
+    margin-bottom: 0.75em;
+    font-size: 1.75em;
+    font-weight: 600;
+  }
+
+  .vp-prose h3 {
+    margin-top: 1.25em;
+    margin-bottom: 0.5em;
+    font-size: 1.4em;
+    font-weight: 600;
+  }
+
+  .vp-prose p {
+    margin: 1em 0;
+    line-height: 1.8;
+  }
+
+  .vp-prose ul,
+  .vp-prose ol {
+    margin: 1em 0;
+    padding-left: 2em;
+  }
+
+  .vp-prose li {
+    margin: 0.5em 0;
+  }
+
+  .vp-prose code {
+    background-color: var(--vp-c-bg-alt);
+    padding: 2px 6px;
+    border-radius: 4px;
+    font-size: 0.95em;
+    color: var(--vp-c-text-1);
+    border: 1px solid var(--vp-c-divider);
+  }
+
+  .vp-prose pre {
+    background-color: var(--vp-c-bg-alt);
+    border-radius: 8px;
+    padding: 16px;
+    overflow-x: auto;
+    margin: 1em 0;
+    border: 1px solid var(--vp-c-divider);
+  }
+
+  .vp-prose pre code {
+    background: none;
+    border: none;
+    padding: 0;
+    font-size: 1em;
+  }
+
+  .vp-prose blockquote {
+    margin: 1em 0;
+    padding: 0 1em;
+    border-left: 4px solid var(--vp-c-brand-1);
+    color: var(--vp-c-text-2);
+    font-style: italic;
+  }
+
+  .vp-prose table {
+    width: 100%;
+    margin: 1em 0;
+    border-collapse: collapse;
+    border: 1px solid var(--vp-c-divider);
+  }
+
+  .vp-prose th {
+    background-color: var(--vp-c-bg-alt);
+    padding: 12px;
+    text-align: left;
+    font-weight: 600;
+    border: 1px solid var(--vp-c-divider);
+  }
+
+  .vp-prose td {
+    padding: 12px;
+    border: 1px solid var(--vp-c-divider);
+  }
+
+  @media (max-width: 768px) {
+    .vp-post-wrapper {
+      padding: 32px 16px;
+    }
+
+    .vp-post-header h1 {
+      font-size: 1.875em;
+    }
+
+    .vp-prose h2 {
+      font-size: 1.4em;
+    }
+
+    .vp-prose h3 {
+      font-size: 1.2em;
+    }
+  }
+</style>

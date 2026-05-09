@@ -1,0 +1,31 @@
+---
+interface Props {
+  searchPlaceholder?: string;
+  showFossToggle?: boolean;
+  showFileInput?: boolean;
+}
+
+const {
+  searchPlaceholder = 'Search packages by name',
+  showFossToggle = true,
+  showFileInput = true,
+} = Astro.props;
+---
+<div class="page-controls">
+  <div class="page-controls-panel main-controls">
+    <input id="searchInput" class="search-input" type="search" placeholder={searchPlaceholder} />
+    <label class="select-all-control">
+      <input type="checkbox" id="selectAllCheckbox" class="select-all-checkbox" />
+      <span id="selectAllLabel">Select</span>
+    </label>
+    <button type="button" class="toggle-all-btn" id="toggleAllBtn" title="Collapse/Expand all categories">
+      <span id="toggleAllIcon">▼</span>
+      <span id="toggleAllLabel">Collapse</span>
+    </button>
+    {showFossToggle && (
+      <button type="button" class="foss-toggle-btn" id="fossToggleBtn" title="Show only Free and Open Source Software">🌿 FOSS</button>
+    )}
+    <slot />
+  </div>
+  {showFileInput && <input type="file" id="fileInput" accept=".json" style="display: none;" />}
+</div>

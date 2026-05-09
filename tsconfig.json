@@ -1,25 +1,6 @@
 {
+  "extends": "astro/tsconfigs/strict",
   "compilerOptions": {
-    "verbatimModuleSyntax": true,
-    "module": "esnext",
-    "target": "esnext",
-    "lib": ["DOM", "ESNext"],
-    "strict": true,
-    "jsx": "preserve",
-    "esModuleInterop": true,
-    "skipLibCheck": true,
-    "moduleResolution": "Bundler",
-    "resolveJsonModule": true,
-    "noUnusedLocals": true,
-    "strictNullChecks": true,
-    "forceConsistentCasingInFileNames": true
-  },
-  "exclude": ["node_modules"],
-  "include": [
-    "**/.vitepress/**/*.d.ts",
-    "**/.vitepress/**/*.ts",
-    "**/.vitepress/**/*.mts",
-    "**/.vitepress/**/*.vue",
-    "./.cache/imports.d.ts"
-  ]
+    "noImplicitAny": false
+  }
 }

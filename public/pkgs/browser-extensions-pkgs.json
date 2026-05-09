@@ -1,0 +1,186 @@
+{
+    "extensions": {
+        "adguard": {
+            "name": "AdGuard AdBlocker",
+            "category": "Privacy and Security",
+            "firefox_id": null,
+            "firefox_slug": null,
+            "chromium_id": "bgnkhhnnamicmpeenaelnjfhikgbkllg"
+        },
+        "adguard-browser-assistant": {
+            "name": "AdGuard Browser Assistant",
+            "category": "Privacy and Security",
+            "firefox_id": "browserassistant@adguard.com",
+            "firefox_slug": "adguard-browser-assistant",
+            "chromium_id": null
+        },
+        "bitwarden": {
+            "name": "Bitwarden Password Manager",
+            "category": "Privacy and Security",
+            "firefox_id": "{446900e4-71c2-419f-a6a7-df9c091e268b}",
+            "firefox_slug": "bitwarden-password-manager",
+            "chromium_id": "nngceckbapebfimnlniiiahkandclblb"
+        },
+        "dark-reader": {
+            "name": "Dark Reader",
+            "category": "Appearance",
+            "firefox_id": "addon@darkreader.org",
+            "firefox_slug": "darkreader",
+            "chromium_id": "eimadpbcbfnmbkopoojfekhnkhdbieeh"
+        },
+        "downthemall": {
+            "name": "DownThemAll!",
+            "category": "Productivity",
+            "firefox_id": null,
+            "firefox_slug": "downthemall",
+            "chromium_id": "nljkibfhlpcnanjgbnlnbjecgicbjkge"
+        },
+        "eagle": {
+            "name": "Eagle for Chrome",
+            "category": "Productivity",
+            "firefox_id": null,
+            "firefox_slug": "eagle-app",
+            "chromium_id": "lieogkinebikhdchceieedcigeafdkid"
+        },
+        "feedbro": {
+            "name": "Feedbro",
+            "category": "Productivity",
+            "firefox_id": null,
+            "firefox_slug": "feedbroreader",
+            "chromium_id": null
+        },
+        "flagfox": {
+            "name": "Flagfox",
+            "category": "Developer Tools",
+            "firefox_id": null,
+            "firefox_slug": "flagfox",
+            "chromium_id": null
+        },
+        "i-still-dont-care-about-cookies": {
+            "name": "I still don't care about cookies",
+            "category": "Privacy and Security",
+            "firefox_id": "idcac-pub@guus.ninja",
+            "firefox_slug": "istilldontcareaboutcookies",
+            "chromium_id": "edibdbjcniadpccecjdfdjjppcpchdlm"
+        },
+        "obsidian-web-clipper": {
+            "name": "Obsidian Web Clipper",
+            "category": "Productivity",
+            "firefox_id": null,
+            "firefox_slug": "web-clipper-obsidian",
+            "chromium_id": "cnjifjpddelmedmihgijeibhnjfabmlf"
+        },
+        "printfriendly": {
+            "name": "Print Friendly & PDF",
+            "category": "Productivity",
+            "firefox_id": null,
+            "firefox_slug": "print-friendly-pdf",
+            "chromium_id": "ohlencieiipommannpdfcmfdpjjmeolj"
+        },
+        "js-switcher": {
+            "name": "Quick JavaScript Switcher",
+            "category": "Developer Tools",
+            "firefox_id": null,
+            "firefox_slug": "quick-js-switcher",
+            "chromium_id": "geddoclleiomckbhadiaipdggiiccfje"
+        },
+        "raindrop-io": {
+            "name": "Raindrop.io",
+            "category": "Productivity",
+            "firefox_id": "jid0-adyhmvsP91nUO8pRv0Mn2VKeB84@jetpack",
+            "firefox_slug": "raindropio",
+            "chromium_id": "ldgfbffkinooeloadekpmfoklnobpien"
+        },
+        "return-youtube-dislike": {
+            "name": "Return YouTube Dislike",
+            "category": "Media",
+            "firefox_id": "{762f9885-5a13-4abd-9c77-433dcd38b8fd}",
+            "firefox_slug": "return-youtube-dislikes",
+            "chromium_id": "gebbhagfogifgggkldgodflihgfeippi"
+        },
+        "simple-cookie": {
+            "name": "Simple Cookie",
+            "category": "Privacy and Security",
+            "firefox_id": null,
+            "firefox_slug": "simplecookie",
+            "chromium_id": null
+        },
+        "sponsorblock": {
+            "name": "SponsorBlock for YouTube",
+            "category": "Media",
+            "firefox_id": "sponsorBlocker@ajay.app",
+            "firefox_slug": "sponsorblock",
+            "chromium_id": "mnjggcdmjocbbbhaepdhchncahnbgone"
+        },
+        "tampermonkey": {
+            "name": "Tampermonkey",
+            "category": "Developer Tools",
+            "firefox_id": null,
+            "firefox_slug": "tampermonkey",
+            "chromium_id": "dhdgffkkebhmkfjojejmpbldmpobfkfo"
+        },
+        "time-tracker": {
+            "name": "Time Tracker & Productivity",
+            "category": "Productivity",
+            "firefox_id": null,
+            "firefox_slug": "besttimetracker",
+            "chromium_id": "dkdhhcbjijekmneelocdllcldcpmekmm"
+        },
+        "ublock-origin": {
+            "name": "uBlock Origin",
+            "category": "Privacy and Security",
+            "firefox_id": "uBlock0@raymondhill.net",
+            "firefox_slug": "ublock-origin",
+            "chromium_id": "cjpalhdlnbpafiamejdnhcphjbkeiagm"
+        },
+        "unhook": {
+            "name": "Unhook - Remove YouTube Recommended",
+            "category": "Media",
+            "firefox_id": null,
+            "firefox_slug": "youtube-recommended-videos",
+            "chromium_id": "khncfooichmfjbepaaaebmommgaepoid"
+        },
+        "user-agent-switcher": {
+            "name": "User-Agent Switcher and Manager",
+            "category": "Developer Tools",
+            "firefox_id": null,
+            "firefox_slug": "user-agent-string-switcher",
+            "chromium_id": "kchfmpdcejfkipopnolndinkeoipnoia"
+        },
+        "videoplayer": {
+            "name": "VideoPlayer MPD/M3U8/IPTV/EPG",
+            "category": "Media",
+            "firefox_id": "videoplayer@sharkiller.dev",
+            "firefox_slug": "videoplayer-mpd-m3u8-iptv-epg",
+            "chromium_id": "opmeopcambhfimffbomjgemehjkbbmji"
+        },
+        "wappalyzer": {
+            "name": "Wappalyzer",
+            "category": "Developer Tools",
+            "firefox_id": null,
+            "firefox_slug": "wappalyzer",
+            "chromium_id": "gppongmhjkpfnbhagpmjfkannfbllamg"
+        },
+        "wcag-color-contrast-checker": {
+            "name": "WCAG Color Contrast Checker",
+            "category": "Developer Tools",
+            "firefox_id": null,
+            "firefox_slug": "wcag-contrast-checker",
+            "chromium_id": "plnahcmalebffmaghcpcmpaciebdhgdf"
+        },
+        "worldwide-radio": {
+            "name": "Worldwide Radio",
+            "category": "Media",
+            "firefox_id": null,
+            "firefox_slug": "worldwide-radio",
+            "chromium_id": null
+        },
+        "youtube-custom-speed": {
+            "name": "Youtube Custom Speed",
+            "category": "Media",
+            "firefox_id": "youtube-custom-speed@niziolek.dev",
+            "firefox_slug": "youtube-custom-speed",
+            "chromium_id": "kmfcinojnfabkpndlgomnfjllgeppegb"
+        }
+    }
+}

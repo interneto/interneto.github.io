@@ -1,0 +1,128 @@
+---
+import { getCollection } from 'astro:content';
+import VPLayout from '../../layouts/VPLayout.astro';
+
+const BASE = import.meta.env.BASE_URL.replace(/\/?$/, '/');
+const docs = (await getCollection('docs')).sort((a, b) => a.id.localeCompare(b.id));
+const cleanSlug = (id: string) => id.replace(/\.md$/i, '');
+---
+
+<VPLayout title="Categories" hasSidebar={true}>
+  <div class="vp-content-wrapper">
+    <header class="vp-content-header">
+      <h1>Categories</h1>
+      <p class="vp-content-subtitle">Comprehensive link directory organized by category with curated resources and tools.</p>
+    </header>
+
+    <section class="vp-docs-grid" aria-label="Categories index">
+      {docs.map((entry) => (
+        <article class="vp-doc-card">
+          <h2 class="vp-doc-title">
+            <a href={`${BASE}categories/${cleanSlug(entry.id)}/`}>{entry.data.title ?? cleanSlug(entry.id)}</a>
+          </h2>
+          {entry.data.description && <p class="vp-doc-description">{entry.data.description}</p>}
+          <a href={`${BASE}categories/${cleanSlug(entry.id)}/`} class="vp-doc-link">Explore →</a>
+        </article>
+      ))}
+    </section>
+  </div>
+</VPLayout>
+
+<style>
+  .vp-content-wrapper {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 48px 32px;
+  }
+
+  .vp-content-header {
+    margin-bottom: 48px;
+  }
+
+  .vp-content-header h1 {
+    font-size: 2.5em;
+    font-weight: 700;
+    color: var(--vp-c-text-1);
+    margin-bottom: 16px;
+  }
+
+  .vp-content-subtitle {
+    font-size: 1.1em;
+    color: var(--vp-c-text-2);
+    line-height: 1.6;
+  }
+
+  .vp-docs-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 24px;
+  }
+
+  .vp-doc-card {
+    padding: 24px;
+    border: 1px solid var(--vp-c-divider);
+    border-radius: 8px;
+    background-color: var(--vp-c-bg-alt);
+    transition: all 0.3s ease;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .vp-doc-card:hover {
+    background-color: var(--vp-c-bg);
+    border-color: var(--vp-c-brand-1);
+    transform: translateY(-4px);
+    box-shadow: 0 12px 24px rgba(123, 197, 228, 0.15);
+  }
+
+  .vp-doc-title {
+    font-size: 1.2em;
+    font-weight: 600;
+    margin-bottom: 12px;
+  }
+
+  .vp-doc-title a {
+    color: var(--vp-c-text-1);
+    text-decoration: none;
+  }
+
+  .vp-doc-title a:hover {
+    color: var(--vp-c-brand-1);
+  }
+
+  .vp-doc-description {
+    color: var(--vp-c-text-2);
+    font-size: 0.95em;
+    margin-bottom: 16px;
+    flex-grow: 1;
+    line-height: 1.6;
+  }
+
+  .vp-doc-link {
+    color: var(--vp-c-brand-1);
+    font-weight: 500;
+    text-decoration: none;
+    font-size: 0.9em;
+    display: inline-block;
+    transition: all 0.2s;
+  }
+
+  .vp-doc-link:hover {
+    color: var(--vp-c-brand-2);
+    transform: translateX(4px);
+  }
+
+  @media (max-width: 768px) {
+    .vp-content-wrapper {
+      padding: 32px 16px;
+    }
+
+    .vp-content-header h1 {
+      font-size: 1.875em;
+    }
+
+    .vp-docs-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

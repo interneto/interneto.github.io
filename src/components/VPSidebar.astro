@@ -1,0 +1,160 @@
+---
+interface SidebarItem {
+  text: string;
+  href: string;
+  icon?: string;
+  isActive: boolean;
+}
+
+interface Props {
+  currentPath?: string;
+}
+
+const { currentPath = '' } = Astro.props;
+const BASE = import.meta.env.BASE_URL.replace(/\/?$/, '/');
+
+const isPathActive = (link: string): boolean => {
+  return currentPath.startsWith(link) || currentPath === link;
+};
+
+// Build category items
+const categoryItems: SidebarItem[] = [
+  { text: '🏢 By Company', href: `${BASE}categories/by-company/`, isActive: isPathActive(`${BASE}categories/by-company/`) },
+  { text: '🐧 Operating System', href: `${BASE}categories/os/`, isActive: isPathActive(`${BASE}categories/os/`) },
+  { text: '🧰 AI Tools and Services', href: `${BASE}categories/ai-tools-and-services/`, isActive: isPathActive(`${BASE}categories/ai-tools-and-services/`) },
+  { text: '⌨️ Development', href: `${BASE}categories/dev/`, isActive: isPathActive(`${BASE}categories/dev/`) },
+  { text: '🎓 Education', href: `${BASE}categories/education/`, isActive: isPathActive(`${BASE}categories/education/`) },
+  { text: '📁 File Management', href: `${BASE}categories/file-management/`, isActive: isPathActive(`${BASE}categories/file-management/`) },
+  { text: '💰 Financial Assets', href: `${BASE}categories/financial-assets/`, isActive: isPathActive(`${BASE}categories/financial-assets/`) },
+  { text: '🎮 Gaming', href: `${BASE}categories/gaming/`, isActive: isPathActive(`${BASE}categories/gaming/`) },
+  { text: '❤️ Health and Fitness', href: `${BASE}categories/health-and-fitness/`, isActive: isPathActive(`${BASE}categories/health-and-fitness/`) },
+  { text: '🏠 Home and Family', href: `${BASE}categories/home-and-family/`, isActive: isPathActive(`${BASE}categories/home-and-family/`) },
+  { text: '☎️ Intercommunication', href: `${BASE}categories/intercomm/`, isActive: isPathActive(`${BASE}categories/intercomm/`) },
+  { text: '📺 Multimedia', href: `${BASE}categories/multimedia/`, isActive: isPathActive(`${BASE}categories/multimedia/`) },
+  { text: '📰 News and Media', href: `${BASE}categories/news-media/`, isActive: isPathActive(`${BASE}categories/news-media/`) },
+  { text: '💼 Office and Productivity', href: `${BASE}categories/office-and-productivity/`, isActive: isPathActive(`${BASE}categories/office-and-productivity/`) },
+  { text: '🌐 Online Services', href: `${BASE}categories/online-services/`, isActive: isPathActive(`${BASE}categories/online-services/`) },
+  { text: '🛡️ Security and Privacy', href: `${BASE}categories/security-and-privacy/`, isActive: isPathActive(`${BASE}categories/security-and-privacy/`) },
+  { text: '💻 System Administration', href: `${BASE}categories/sys-admin/`, isActive: isPathActive(`${BASE}categories/sys-admin/`) },
+  { text: '🕐 Time', href: `${BASE}categories/time/`, isActive: isPathActive(`${BASE}categories/time/`) },
+  { text: '🌎 Travel and Location', href: `${BASE}categories/travel-and-location/`, isActive: isPathActive(`${BASE}categories/travel-and-location/`) },
+  { text: '🛠️ Utility', href: `${BASE}categories/utility/`, isActive: isPathActive(`${BASE}categories/utility/`) },
+];
+
+// Build post items
+const postItems: SidebarItem[] = [
+  { text: 'Comparing AI Coding Tools', href: `${BASE}posts/ai-coding-tools/`, isActive: isPathActive(`${BASE}posts/ai-coding-tools/`) },
+  { text: 'Comparing Bookmark Managers', href: `${BASE}posts/bookmark-managers/`, isActive: isPathActive(`${BASE}posts/bookmark-managers/`) },
+  { text: 'Cybersecurity Vulnerabilities', href: `${BASE}posts/cybersecurity-vulnerabilities/`, isActive: isPathActive(`${BASE}posts/cybersecurity-vulnerabilities/`) },
+  { text: 'How Files Are Transferred', href: `${BASE}posts/file-sync/`, isActive: isPathActive(`${BASE}posts/file-sync/`) },
+  { text: 'How To Categorize Links', href: `${BASE}posts/how-to-categorize-links/`, isActive: isPathActive(`${BASE}posts/how-to-categorize-links/`) },
+  { text: 'What Is Information?', href: `${BASE}posts/what-is-info/`, isActive: isPathActive(`${BASE}posts/what-is-info/`) },
+];
+
+const mapItems: SidebarItem[] = [
+  { text: 'Open Dashboard', href: `${BASE}map/`, isActive: isPathActive(`${BASE}map/`) },
+  { text: 'Classic View', href: `${BASE}map/?view=classic`, isActive: false },
+  { text: 'Semantic View', href: `${BASE}map/?view=semantic`, isActive: false },
+  { text: 'Geo View', href: `${BASE}map/?view=geo`, isActive: false },
+  { text: 'Blog Posts', href: `${BASE}posts/`, isActive: false },
+  { text: 'Categories', href: `${BASE}categories/`, isActive: false },
+];
+
+// Determine which sidebar to show
+const showPostsSidebar = currentPath.includes('/posts');
+const showMapSidebar = currentPath.includes('/map');
+const items = showPostsSidebar ? postItems : showMapSidebar ? mapItems : categoryItems;
+const title = showPostsSidebar ? 'Posts' : showMapSidebar ? 'Link Dashboard' : 'Categories';
+---
+
+<aside class="vp-sidebar">
+  <div class="vp-sidebar-content">
+    <nav class="vp-sidebar-nav">
+      <div class="vp-sidebar-title">{title}</div>
+      <div class="vp-sidebar-items">
+        {items.map((item) => (
+          <a 
+            class={`vp-sidebar-item-link ${item.isActive ? 'active' : ''}`}
+            href={item.href}
+          >
+            <span>{item.text}</span>
+          </a>
+        ))}
+      </div>
+    </nav>
+  </div>
+</aside>
+
+<style>
+  .vp-sidebar {
+    position: fixed;
+    top: 61px;
+    left: 0;
+    bottom: 0;
+    width: 240px;
+    background-color: var(--vp-c-bg-alt);
+    border-right: 1px solid var(--vp-c-divider);
+    overflow-y: auto;
+    overflow-x: hidden;
+    z-index: 50;
+  }
+
+  .vp-sidebar-content {
+    padding: 24px 0;
+  }
+
+  .vp-sidebar-nav {
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+  }
+
+  .vp-sidebar-title {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 12px 16px 8px;
+    font-weight: 600;
+    color: var(--vp-c-text-1);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    font-size: 12px;
+    margin-top: 8px;
+  }
+
+  .vp-sidebar-items {
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+  }
+
+  .vp-sidebar-item-link {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 8px 16px 8px 32px;
+    color: var(--vp-c-text-2);
+    text-decoration: none;
+    font-size: 14px;
+    transition: all 0.2s;
+  }
+
+  .vp-sidebar-item-link:hover {
+    color: var(--vp-c-text-1);
+    background-color: rgba(123, 197, 228, 0.1);
+  }
+
+  .vp-sidebar-item-link.active {
+    color: var(--vp-c-brand-1);
+    background-color: rgba(123, 197, 228, 0.15);
+    font-weight: 500;
+    border-left: 3px solid var(--vp-c-brand-1);
+    padding-left: 29px;
+  }
+
+  @media (max-width: 960px) {
+    .vp-sidebar {
+      display: none;
+    }
+  }
+</style>

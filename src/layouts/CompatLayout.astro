@@ -1,0 +1,54 @@
+---
+import BaseLayout from './BaseLayout.astro';
+
+interface Props {
+  title: string;
+  heading: string;
+  subtitle: string;
+  installerHref: string;
+  installerLabel?: string;
+  extraStyles?: string[];
+  searchPlaceholder?: string;
+}
+
+const {
+  title,
+  heading,
+  subtitle,
+  installerHref,
+  installerLabel = 'Go to Installer',
+  extraStyles = [],
+  searchPlaceholder = 'Search...',
+} = Astro.props;
+
+const BASE = import.meta.env.BASE_URL.replace(/\/?$/, '/');
+---
+<BaseLayout title={title} extraStyles={['styles/os-compatibility.css', ...extraStyles]}>
+  <div class="container">
+    <header class="page-header">
+      <h1>{heading}</h1>
+      <button type="button" id="themeToggle" class="theme-toggle" aria-label="Switch to dark mode" title="Dark mode">🌙</button>
+    </header>
+    <p class="subtitle">{subtitle}</p>
+    <nav class="page-nav" aria-label="Page links">
+      <div class="info-link">
+        <a href={BASE} title="Back to home page">⬅ Back to Home</a>
+      </div>
+      <div class="info-link">
+        <a href={`${BASE}${installerHref}`} title={installerLabel}>⚙️ {installerLabel}</a>
+      </div>
+    </nav>
+    <div class="page-controls controls">
+      <div class="page-controls-panel">
+        <div class="search-box">
+          <input type="search" id="searchInput" placeholder={searchPlaceholder} />
+        </div>
+      </div>
+      <slot name="controls" />
+    </div>
+    <slot name="legend" />
+    <slot />
+    <slot name="extra" />
+  </div>
+  <slot name="script" />
+</BaseLayout>

@@ -1,0 +1,142 @@
+---
+export interface Feature {
+  icon?: string;
+  title: string;
+  details?: string;
+  link?: string;
+}
+
+interface Props {
+  features: Feature[];
+  title?: string;
+}
+
+const { features, title } = Astro.props;
+---
+
+<section class="vp-features">
+  <div class="vp-features-container">
+    {title && <h2 class="vp-features-title">{title}</h2>}
+    <div class="vp-features-grid">
+      {features.map((feature) => (
+        <div class="vp-feature-item">
+          {feature.link ? (
+            <a href={feature.link} class="vp-feature-link">
+              {feature.icon && <div class="vp-feature-icon">{feature.icon}</div>}
+              <h3 class="vp-feature-title">{feature.title}</h3>
+              {feature.details && <p class="vp-feature-details">{feature.details}</p>}
+            </a>
+          ) : (
+            <>
+              {feature.icon && <div class="vp-feature-icon">{feature.icon}</div>}
+              <h3 class="vp-feature-title">{feature.title}</h3>
+              {feature.details && <p class="vp-feature-details">{feature.details}</p>}
+            </>
+          )}
+        </div>
+      ))}
+    </div>
+  </div>
+</section>
+
+<style>
+  .vp-features {
+    position: relative;
+    padding: 64px 32px;
+    background: linear-gradient(
+      to bottom,
+      transparent,
+      rgba(123, 197, 228, 0.03)
+    );
+  }
+
+  .vp-features-container {
+    max-width: 1280px;
+    margin: 0 auto;
+  }
+
+  .vp-features-title {
+    text-align: center;
+    font-size: 32px;
+    font-weight: 700;
+    margin: 0 0 48px;
+    color: var(--vp-c-text-1);
+  }
+
+  .vp-features-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 24px;
+  }
+
+  .vp-feature-item {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    padding: 24px;
+    border-radius: 12px;
+    background-color: var(--vp-c-bg-alt);
+    border: 1px solid var(--vp-c-divider);
+    transition: all 0.3s ease;
+  }
+
+  .vp-feature-link {
+    display: contents;
+    text-decoration: none;
+  }
+
+  .vp-feature-item:hover {
+    background-color: var(--vp-c-bg);
+    border-color: var(--vp-c-brand-1);
+    transform: translateY(-4px);
+    box-shadow: 0 12px 24px rgba(123, 197, 228, 0.15);
+  }
+
+  .vp-feature-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 48px;
+    height: 48px;
+    font-size: 32px;
+    background: linear-gradient(135deg, var(--vp-c-brand-soft), var(--vp-c-brand-1));
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+  .vp-feature-title {
+    font-size: 18px;
+    font-weight: 600;
+    color: var(--vp-c-text-1);
+    margin: 0;
+  }
+
+  .vp-feature-details {
+    font-size: 14px;
+    color: var(--vp-c-text-2);
+    margin: 0;
+    line-height: 1.5;
+  }
+
+  @media (max-width: 768px) {
+    .vp-features {
+      padding: 48px 16px;
+    }
+
+    .vp-features-title {
+      font-size: 24px;
+      margin-bottom: 32px;
+    }
+
+    .vp-features-grid {
+      grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+      gap: 16px;
+    }
+
+    .vp-feature-item {
+      padding: 16px;
+    }
+  }
+</style>
