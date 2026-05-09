@@ -1,3 +1,8 @@
+---
+title: Time
+description: Scheduling, time tracking, and calendar-related tools.
+---
+
 # Time
 
 **Total Bookmarks:** 161
@@ -179,4 +184,3 @@
 - [StayFree](https://stayfreeapps.com/)
 - [SurfPal: Screen Time Tracker & Website Blocker](https://surfpal.mutacore.com/)
 - [YourHour App](https://www.yourhour.app/)
-

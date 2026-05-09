@@ -1,3 +1,8 @@
+---
+title: Education
+description: Courses, references, and learning platforms across topics.
+---
+
 # Education
 
 **Total Bookmarks:** 1275
@@ -1439,4 +1444,3 @@
 - [TypeRush - Worldwide League of Typing Racers!](https://www.typerush.com/)
 - [TypeStep – Typing Practice](https://typestep.app/en/practice/)
 - [Typing.com](https://www.typing.com/)
-

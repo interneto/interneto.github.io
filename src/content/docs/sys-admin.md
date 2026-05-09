@@ -1,3 +1,8 @@
+---
+title: Sys Admin
+description: Admin tooling for servers, networking, and infrastructure.
+---
+
 # Sys Admin
 
 **Total Bookmarks:** 1168
@@ -1342,4 +1347,3 @@
 - [The StoryGraph](https://thestorygraph.com/)
 - [UptimeRobot](https://uptimerobot.com/)
 - [wolfpld/tracy: Frame profiler](https://github.com/wolfpld/tracy)
-

@@ -3,8 +3,56 @@ import { getCollection } from 'astro:content';
 import VPLayout from '../../layouts/VPLayout.astro';
 
 const BASE = import.meta.env.BASE_URL.replace(/\/?$/, '/');
-const docs = (await getCollection('docs')).sort((a, b) => a.id.localeCompare(b.id));
+const allDocs = await getCollection('docs');
 const cleanSlug = (id: string) => id.replace(/\.md$/i, '');
+
+// Category icons mapping
+const categoryIcons: Record<string, string> = {
+  'by-company': '🏢',
+  'os': '🐧',
+  'ai-tools-and-services': '🧰',
+  'dev': '⌨️',
+  'gaming': '🎮',
+  'education': '🎓',
+  'file-management': '📁',
+  'financial-assets': '💰',
+  'health-and-fitness': '❤️',
+  'home-and-family': '🏠',
+  'intercomm': '☎️',
+  'multimedia': '📺',
+  'news-media': '📰',
+  'office-and-productivity': '💼',
+  'online-services': '🌐',
+  'security-and-privacy': '🛡️',
+  'sys-admin': '💻',
+  'time': '🕐',
+  'travel-and-location': '🛬',
+  'utility': '🔧',
+};
+
+// Filter to only include main categories (exclude about, index, nsfw pages)
+const docs = allDocs
+  .filter(entry => {
+    const slug = cleanSlug(entry.id);
+    return !['about', 'index', 'nsfw', 'nsfw_content'].includes(slug);
+  })
+  .sort((a, b) => {
+    // Sort by custom order based on the provided list
+    const customOrder = [
+      'by-company', 'os', 'ai-tools-and-services', 'dev', 'gaming',
+      'education', 'file-management', 'financial-assets', 'health-and-fitness',
+      'home-and-family', 'intercomm', 'multimedia', 'news-media',
+      'office-and-productivity', 'online-services', 'security-and-privacy',
+      'sys-admin', 'time', 'travel-and-location', 'utility'
+    ];
+    const aIndex = customOrder.indexOf(cleanSlug(a.id));
+    const bIndex = customOrder.indexOf(cleanSlug(b.id));
+    return aIndex - bIndex;
+  });
+
+const getIcon = (id: string) => {
+  return categoryIcons[cleanSlug(id)] || '📚';
+};
 ---
 
 <VPLayout title="Categories" hasSidebar={true}>
@@ -14,23 +62,29 @@ const cleanSlug = (id: string) => id.replace(/\.md$/i, '');
       <p class="vp-content-subtitle">Comprehensive link directory organized by category with curated resources and tools.</p>
     </header>
 
-    <section class="vp-docs-grid" aria-label="Categories index">
-      {docs.map((entry) => (
-        <article class="vp-doc-card">
-          <h2 class="vp-doc-title">
-            <a href={`${BASE}categories/${cleanSlug(entry.id)}/`}>{entry.data.title ?? cleanSlug(entry.id)}</a>
-          </h2>
-          {entry.data.description && <p class="vp-doc-description">{entry.data.description}</p>}
-          <a href={`${BASE}categories/${cleanSlug(entry.id)}/`} class="vp-doc-link">Explore →</a>
-        </article>
-      ))}
+    <section class="vp-categories-grid" aria-label="Categories index">
+      {docs.map((entry) => {
+        const slug = cleanSlug(entry.id);
+        const link = `${BASE}categories/${slug}/`;
+        const icon = getIcon(entry.id);
+        const title = entry.data.title ?? slug;
+        const description = entry.data.description ?? '';
+        
+        return (
+          <a href={link} class="vp-category-card">
+            <div class="vp-category-icon">{icon}</div>
+            <h2 class="vp-category-title">{title}</h2>
+            <p class="vp-category-description">{description}</p>
+          </a>
+        );
+      })}
     </section>
   </div>
 </VPLayout>
 
 <style>
   .vp-content-wrapper {
-    max-width: 900px;
+    max-width: 1400px;
     margin: 0 auto;
     padding: 48px 32px;
   }
@@ -52,50 +106,91 @@ const cleanSlug = (id: string) => id.replace(/\.md$/i, '');
     line-height: 1.6;
   }
 
-  .vp-docs-grid {
+  .vp-categories-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    grid-template-columns: repeat(4, 1fr);
     gap: 24px;
   }
 
-  .vp-doc-card {
-    padding: 24px;
-    border: 1px solid var(--vp-c-divider);
-    border-radius: 8px;
-    background-color: var(--vp-c-bg-alt);
-    transition: all 0.3s ease;
+  .vp-category-card {
     display: flex;
     flex-direction: column;
-  }
-
-  .vp-doc-card:hover {
-    background-color: var(--vp-c-bg);
-    border-color: var(--vp-c-brand-1);
-    transform: translateY(-4px);
-    box-shadow: 0 12px 24px rgba(123, 197, 228, 0.15);
-  }
-
-  .vp-doc-title {
-    font-size: 1.2em;
-    font-weight: 600;
-    margin-bottom: 12px;
-  }
-
-  .vp-doc-title a {
-    color: var(--vp-c-text-1);
+    align-items: flex-start;
+    padding: 28px 24px;
+    border: 1px solid var(--vp-c-divider);
+    border-radius: 12px;
+    background-color: var(--vp-c-bg-alt);
+    transition: all 0.3s ease;
     text-decoration: none;
+    color: inherit;
+    cursor: pointer;
   }
 
-  .vp-doc-title a:hover {
+  .vp-category-card:hover {
+    border-color: var(--vp-c-brand-1);
+    background-color: var(--vp-c-bg);
+    transform: translateY(-4px);
+    box-shadow: 0 12px 32px rgba(123, 197, 228, 0.2);
+  }
+
+  .vp-category-icon {
+    font-size: 48px;
+    margin-bottom: 16px;
+    line-height: 1;
+  }
+
+  .vp-category-title {
+    font-size: 1.3em;
+    font-weight: 600;
+    color: var(--vp-c-text-1);
+    margin-bottom: 12px;
+    margin-top: 0;
+  }
+
+  .vp-category-card:hover .vp-category-title {
     color: var(--vp-c-brand-1);
   }
 
-  .vp-doc-description {
-    color: var(--vp-c-text-2);
+  .vp-category-description {
     font-size: 0.95em;
-    margin-bottom: 16px;
-    flex-grow: 1;
+    color: var(--vp-c-text-2);
     line-height: 1.6;
+    margin: 0;
+  }
+
+  @media (max-width: 1200px) {
+    .vp-categories-grid {
+      grid-template-columns: repeat(3, 1fr);
+    }
+  }
+
+  @media (max-width: 768px) {
+    .vp-categories-grid {
+      grid-template-columns: repeat(2, 1fr);
+      gap: 20px;
+    }
+
+    .vp-content-wrapper {
+      padding: 32px 16px;
+    }
+
+    .vp-category-icon {
+      font-size: 40px;
+    }
+
+    .vp-category-title {
+      font-size: 1.15em;
+    }
+  }
+
+  @media (max-width: 480px) {
+    .vp-categories-grid {
+      grid-template-columns: 1fr;
+    }
+
+    .vp-content-header h1 {
+      font-size: 1.8em;
+    }
   }
 
   .vp-doc-link {

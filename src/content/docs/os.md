@@ -1,3 +1,8 @@
+---
+title: OS
+description: Tools, apps, and resources organized by operating system.
+---
+
 # OS
 
 **Total Bookmarks:** 1076
@@ -1200,4 +1205,3 @@
 - [MkLinux.org](http://mklinux.org/)
 - [The Linux Kernel documentation](https://docs.kernel.org/)
 - [XanMod Kernel](https://xanmod.org/)
-

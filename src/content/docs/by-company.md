@@ -1,3 +1,8 @@
+---
+title: By Company
+description: Browse services grouped by parent company and ecosystem.
+---
+
 # By Company
 
 **Total Bookmarks:** 29
@@ -31,4 +36,3 @@
 - [ServiceNow - Apps and Solutions](https://store.servicenow.com/store/apps)
 - [Steinberg - Products](https://www.steinberg.net/products/)
 - [Tencent Cloud - Products](https://www.tencentcloud.com/product)
-

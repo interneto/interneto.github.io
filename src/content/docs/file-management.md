@@ -1,3 +1,8 @@
+---
+title: File Management
+description: File tools for storage, sharing, transfer, and organization.
+---
+
 # File Management
 
 **Total Bookmarks:** 814
@@ -906,4 +911,3 @@
 - [MediaConch](https://mediaarea.net/MediaConch)
 - [najepaliya/kleaner · GitHub](https://github.com/najepaliya/kleaner)
 - [PhotoME](https://www.photome.de/)
-

@@ -1,3 +1,8 @@
+---
+title: Utility
+description: General-purpose utilities and handy tools for quick tasks.
+---
+
 # Utility
 
 **Total Bookmarks:** 20
@@ -26,4 +31,3 @@
 - [Physics Toolbox Sensor Suite](https://play.google.com/store/apps/details?id=com.chrystianvieyra.physicstoolboxsuite)
 - [Sensors Toolbox](https://play.google.com/store/apps/details?id=com.exatools.sensors)
 - [VectorBee | Comprehensive Vector Design with Unlimited Customization](https://www.vectorbee.com/en/)
-
