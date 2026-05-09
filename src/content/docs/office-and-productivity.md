@@ -1,3 +1,8 @@
+---
+title: Office & Productivity
+description: Productivity suites, note-taking, planning, and office tools.
+---
+
 # Office & Productivity
 
 **Total Bookmarks:** 1025
@@ -1103,4 +1108,3 @@
 - [Microsoft 365 - Microsoft Word](https://www.microsoft.com/en/microsoft-365/word?market=af)
 - [TextMaker - Softmaker](https://www.softmaker.com/en/softmaker-office-textmaker)
 - [Tritium | Integrated drafting environment for Lawyers](https://tritium.legal/)
-

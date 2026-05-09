@@ -1,3 +1,8 @@
+---
+title: Multimedia
+description: Audio, video, and creative media tools and sources.
+---
+
 # Multimedia
 
 **Total Bookmarks:** 2230
@@ -2434,4 +2439,3 @@
 - [Pion.ly](https://pion.ly/)
 - [video-dev/hls.js · GitHub](https://github.com/video-dev/hls.js)
 - [Zulko/moviepy · GitHub](https://github.com/Zulko/moviepy)
-

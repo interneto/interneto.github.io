@@ -18,9 +18,9 @@ const pathname = Astro.url.pathname;
 
 const defaultLinks: NavLink[] = [
   { text: '📚 Categories', link: `${BASE}categories/` },
+  { text: '🗺️ Map of Links', link: `${BASE}map/` },
   { text: '📑 Posts', link: `${BASE}posts/` },
   { text: 'ℹ️ About', link: `${BASE}about/` },
-  { text: '🐙 GitHub', link: 'https://github.com/interneto/interneto.github.io' },
 ];
 
 const navLinks = links.length > 0 ? links : defaultLinks;
@@ -39,7 +39,7 @@ const isActive = (link: string) => {
       <div class="vp-nav-container">
         <div class="vp-nav-title">
           <a class="vp-nav-brand" href={`${BASE}`}>
-            {icon && <span class="vp-nav-icon">{icon}</span>}
+            <img src={`${BASE}icon.png`} alt="Interneto" class="vp-nav-icon-img" />
             <span class="vp-nav-brand-text">{title}</span>
           </a>
         </div>
@@ -137,6 +137,13 @@ const isActive = (link: string) => {
   .vp-nav-icon {
     display: inline-block;
     font-size: 24px;
+  }
+
+  .vp-nav-icon-img {
+    width: 24px;
+    height: 24px;
+    display: inline-block;
+    object-fit: contain;
   }
 
   .vp-nav-brand-text {

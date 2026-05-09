@@ -1,3 +1,8 @@
+---
+title: Gaming
+description: Games, emulation, launchers, and gaming utilities.
+---
+
 # Gaming
 
 **Total Bookmarks:** 714
@@ -788,4 +793,3 @@
 - [Wordle Game](https://wordlegame.org/)
 - [Wordle Play](https://wordleplay.com/)
 - [Wordle.today](https://wordle.today/)
-

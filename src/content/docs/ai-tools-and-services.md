@@ -1,3 +1,8 @@
+---
+title: AI Tools & Services
+description: Practical AI tools, assistants, and services for daily workflows.
+---
+
 # AI Tools & Services
 
 **Total Bookmarks:** 489
@@ -533,4 +538,3 @@
 - [vllm-project/vllm: A high-throughput and memory-efficient inference and serving engine for LLMs](https://github.com/vllm-project/vllm)
 - [wilpel/caveman-compression: Caveman Compression is a semantic compression method for LLM contexts](https://github.com/wilpel/caveman-compression)
 - [zilliztech/claude-context · GitHub](https://github.com/zilliztech/claude-context)
-

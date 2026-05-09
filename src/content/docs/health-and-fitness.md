@@ -1,3 +1,8 @@
+---
+title: Health & Fitness
+description: Resources for workouts, wellness, and healthy habits.
+---
+
 # Health & Fitness
 
 **Total Bookmarks:** 332
@@ -372,4 +377,3 @@
 - [Samuel Hahnemann](http://www.homeoint.org/books3/hahnemann2/index.htm)
 - [Society of Homeopaths](https://homeopathy-soh.org/)
 - [The School of Homeopathy](https://www.homeopathyschool.com/)
-

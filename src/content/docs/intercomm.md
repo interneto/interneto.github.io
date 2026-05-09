@@ -1,3 +1,8 @@
+---
+title: Internet Communication
+description: Communication tools for messaging, calls, and collaboration.
+---
+
 # Internet Communication
 
 **Total Bookmarks:** 1536
@@ -1708,4 +1713,3 @@
 - [Tangram · GitHub](https://github.com/sonnyp/Tangram)
 - [Wavebox Productivity](https://wavebox.io/)
 - [WebCatalog](https://webcatalog.io/webcatalog/)
-

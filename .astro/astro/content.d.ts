@@ -239,16 +239,16 @@ declare module 'astro:content' {
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"nsfw.md": {
-	id: "nsfw.md";
-  slug: "nsfw";
+"nsfw-content.md": {
+	id: "nsfw-content.md";
+  slug: "nsfw-content";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"nsfw_content.md": {
-	id: "nsfw_content.md";
-  slug: "nsfw_content";
+"nsfw.md": {
+	id: "nsfw.md";
+  slug: "nsfw";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">

@@ -1,3 +1,8 @@
+---
+title: Financial Assets
+description: Financial platforms, tracking tools, and money-related resources.
+---
+
 # Financial Assets
 
 **Total Bookmarks:** 415
@@ -453,4 +458,3 @@
 - [Visual Chart](https://visualchart.com/)
 - [Votery](https://www.votery.net/)
 - [Yellow trade](https://www.yellow.com/)
-

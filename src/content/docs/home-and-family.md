@@ -1,3 +1,8 @@
+---
+title: Home & Family
+description: Everyday home, parenting, and family-focused resources.
+---
+
 # Home & Family
 
 **Total Bookmarks:** 76
@@ -90,4 +95,3 @@
 ## Shopping list
 - [AnyList - The best way to create and share a grocery shopping list](https://www.anylist.com/)
 - [Bring! Shopping List](https://www.getbring.com/en/home)
-

@@ -1,3 +1,8 @@
+---
+title: Security & Privacy
+description: Privacy-focused services, security tools, and safe practices.
+---
+
 # Security & Privacy
 
 **Total Bookmarks:** 306
@@ -336,4 +341,3 @@
 - [WebSniffer](https://websniffer.com/)
 - [What is my browser?](https://www.whatismybrowser.com/)
 - [WhatRuns – Discover What Runs a Website](https://www.whatruns.com/)
-
