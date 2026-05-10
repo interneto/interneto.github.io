@@ -238,7 +238,7 @@ export function renderGeo(
   const mapPanel = document.querySelector<HTMLElement>('.map-panel')!;
   const width  = Math.max(mapPanel.clientWidth,  520);
   const height = Math.max(mapPanel.clientHeight, 420);
-  const margin = 16;
+  const margin = 0;
   const drawW  = width  - margin * 2;
   const drawH  = height - margin * 2;
   svg.attr('viewBox', `0 0 ${width} ${height}`);

@@ -311,11 +311,46 @@ export function renderSemantic(
     && zoomState.transform.y === 0;
 
   if (isIdentity) {
-    // Fit the virtual canvas into the viewport with a bit of padding
-    const fitScale  = Math.min(viewW / VIRTUAL_W, viewH / VIRTUAL_H) * 0.92;
-    const fitTx     = (viewW  - VIRTUAL_W * fitScale) / 2;
-    const fitTy     = (viewH  - VIRTUAL_H * fitScale) / 2;
-    zoomState.transform = d3.zoomIdentity.translate(fitTx, fitTy).scale(fitScale);
+    // Fit to actual content bounds and anchor near the top to avoid empty top gap.
+    const bounds = {
+      minX: Infinity,
+      minY: Infinity,
+      maxX: -Infinity,
+      maxY: -Infinity,
+    };
+
+    for (const island of layout.islands) {
+      bounds.minX = Math.min(bounds.minX, island.x - island.radius);
+      bounds.minY = Math.min(bounds.minY, island.y - island.radius);
+      bounds.maxX = Math.max(bounds.maxX, island.x + island.radius);
+      bounds.maxY = Math.max(bounds.maxY, island.y + island.radius);
+    }
+
+    for (const region of layout.regions) {
+      bounds.minX = Math.min(bounds.minX, region.x - region.radius);
+      bounds.minY = Math.min(bounds.minY, region.y - region.radius);
+      bounds.maxX = Math.max(bounds.maxX, region.x + region.radius);
+      bounds.maxY = Math.max(bounds.maxY, region.y + region.radius);
+    }
+
+    for (const link of layout.links) {
+      bounds.minX = Math.min(bounds.minX, link.x - link.radius);
+      bounds.minY = Math.min(bounds.minY, link.y - link.radius);
+      bounds.maxX = Math.max(bounds.maxX, link.x + link.radius);
+      bounds.maxY = Math.max(bounds.maxY, link.y + link.radius);
+    }
+
+    const contentW = Math.max(1, bounds.maxX - bounds.minX);
+    const contentH = Math.max(1, bounds.maxY - bounds.minY);
+    const padX = 16;
+    const padTop = 8;
+    const padBottom = 16;
+    const usableW = Math.max(1, viewW - padX * 2);
+    const usableH = Math.max(1, viewH - padTop - padBottom);
+    const fitScale = Math.min(usableW / contentW, usableH / contentH);
+    const tx = padX - bounds.minX * fitScale + (usableW - contentW * fitScale) / 2;
+    const ty = padTop - bounds.minY * fitScale;
+    zoomState.transform = d3.zoomIdentity.translate(tx, ty).scale(fitScale);
     zoomState.viewTransforms.semantic = zoomState.transform;
   }
 

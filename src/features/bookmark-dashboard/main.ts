@@ -47,27 +47,16 @@ if (!mountNode) {
 }
 
 mountNode.innerHTML = `
-  <main class="layout">
-    <aside class="info-panel" id="info-panel" hidden>
-      <button class="close-btn" id="close-panel" aria-label="Close panel" type="button">x</button>
-      <div id="info-content"></div>
-    </aside>
-    <section class="map-panel">
-      <div class="zoom-controls" id="zoom-controls" aria-label="Zoom controls">
-        <button class="zoom-btn" id="zoom-in"    type="button" aria-label="Zoom in">+</button>
-        <button class="zoom-btn" id="zoom-out"   type="button" aria-label="Zoom out">-</button>
-        <button class="zoom-btn zoom-btn--wide" id="zoom-reset" type="button" aria-label="Reset zoom">Reset</button>
-      </div>
-      <svg id="zui-svg" aria-label="Bookmark map"></svg>
-    </section>
-  </main>
-
   <div class="info-bar">
-    <svg class="search-icon" viewBox="0 0 20 20" fill="none" aria-hidden="true">
-      <circle cx="8.5" cy="8.5" r="5.5" stroke="currentColor" stroke-width="1.6"/>
-      <path d="M13.5 13.5L17 17" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/>
-    </svg>
-    <input id="search-input" type="search" placeholder="Search bookmarks..." autocomplete="off" spellcheck="false" />
+    <button class="search-toggle-btn" id="search-toggle" type="button" aria-label="Toggle search" aria-expanded="false">
+      <svg class="search-icon" viewBox="0 0 20 20" fill="none" aria-hidden="true">
+        <circle cx="8.5" cy="8.5" r="5.5" stroke="currentColor" stroke-width="1.6"/>
+        <path d="M13.5 13.5L17 17" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/>
+      </svg>
+    </button>
+    <div class="search-shell" id="search-shell">
+      <input id="search-input" type="search" placeholder="Search bookmarks..." autocomplete="off" spellcheck="false" />
+    </div>
     <div class="view-toggle" role="tablist" aria-label="View mode">
       <button class="view-btn" id="view-classic" data-view="classic" type="button">Classic</button>
       <button class="view-btn" id="view-semantic" data-view="semantic" type="button">Semantic</button>
@@ -76,11 +65,28 @@ mountNode.innerHTML = `
     <button class="favorites-filter-btn" id="favorites-filter" type="button" aria-pressed="false">☆ Favorite Links</button>
     <span id="stats"></span>
   </div>
+
+  <main class="layout">
+    <section class="map-panel">
+      <aside class="info-panel" id="info-panel" hidden>
+        <button class="close-btn" id="close-panel" aria-label="Close panel" type="button">x</button>
+        <div id="info-content"></div>
+      </aside>
+      <div class="zoom-controls" id="zoom-controls" aria-label="Zoom controls">
+        <button class="zoom-btn" id="zoom-in"    type="button" aria-label="Zoom in">+</button>
+        <button class="zoom-btn" id="zoom-out"   type="button" aria-label="Zoom out">-</button>
+        <button class="zoom-btn zoom-btn--wide" id="zoom-reset" type="button" aria-label="Reset zoom">Reset</button>
+      </div>
+      <svg id="zui-svg" aria-label="Bookmark map"></svg>
+    </section>
+  </main>
 `;
 
 // ─── DOM references ───────────────────────────────────────────────────────────
 
 const searchInput   = document.querySelector<HTMLInputElement>('#search-input')!;
+const searchToggleBtn = document.querySelector<HTMLButtonElement>('#search-toggle')!;
+const searchShell = document.querySelector<HTMLDivElement>('#search-shell')!;
 const statsEl       = document.querySelector<HTMLSpanElement>('#stats')!;
 const infoPanel     = document.querySelector<HTMLElement>('#info-panel')!;
 const infoContent   = document.querySelector<HTMLDivElement>('#info-content')!;
@@ -171,6 +177,14 @@ function syncFavoritesFilterButton(): void {
   favoritesFilterBtn.classList.toggle('is-active', state.favoritesOnly);
   favoritesFilterBtn.setAttribute('aria-pressed', state.favoritesOnly ? 'true' : 'false');
   favoritesFilterBtn.textContent = state.favoritesOnly ? '★ Favorite Links' : '☆ Favorite Links';
+}
+
+function syncSearchVisibility(): void {
+  const hasQuery = state.query.length > 0;
+  const searchOpen = searchShell.classList.contains('is-open') || hasQuery;
+  searchShell.classList.toggle('is-open', searchOpen);
+  searchToggleBtn.classList.toggle('is-active', searchOpen);
+  searchToggleBtn.setAttribute('aria-expanded', searchOpen ? 'true' : 'false');
 }
 
 // ─── Zoom controls ────────────────────────────────────────────────────────────
@@ -298,13 +312,29 @@ state.viewMode = parseViewModeFromUrl();
 state.query    = parseQueryFromUrl();
 state.favoritesOnly = parseFavoritesOnlyFromUrl();
 searchInput.value = state.query;
+if (state.query) {
+  searchShell.classList.add('is-open');
+}
 syncViewButtons(state.viewMode);
 syncFavoritesFilterButton();
+syncSearchVisibility();
 
 searchInput.addEventListener('input', () => {
   state.query = searchInput.value.trim().toLowerCase();
   updateSearchUrl(state.query);
+  syncSearchVisibility();
   render();
+});
+
+searchToggleBtn.addEventListener('click', () => {
+  const isOpen = searchShell.classList.contains('is-open');
+  if (isOpen && state.query.length === 0) {
+    searchShell.classList.remove('is-open');
+  } else {
+    searchShell.classList.add('is-open');
+    searchInput.focus();
+  }
+  syncSearchVisibility();
 });
 
 favoritesFilterBtn.addEventListener('click', () => {
