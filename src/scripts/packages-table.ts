@@ -230,11 +230,11 @@ export async function loadPackagesTable(): Promise<void> {
 
 function getExtensionIconPath(extensionId: string): string {
     const fileName = extensionId.replace(/\./g, '-');
-    return `./img/vscode-extensions/${fileName}.svg`;
+    return `${BASE}img/vscode-extensions/${fileName}.svg`;
 }
 
 function getBrowserExtensionIconPath(id: string): string {
-    return `./img/browser-extensions/${id}.png`;
+    return `${BASE}img/browser-extensions/${id}.png`;
 }
 
 function groupByCategory<T extends { category: string }>(items: T[]): Record<string, T[]> {

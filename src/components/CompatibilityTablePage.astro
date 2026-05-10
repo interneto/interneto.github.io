@@ -1,0 +1,57 @@
+---
+import CompatLayout from '../layouts/CompatLayout.astro';
+
+export interface Props {
+  title: string;
+  heading: string;
+  subtitle: string;
+  installerHref: string;
+  installerLabel?: string;
+  searchPlaceholder?: string;
+  extraStyles?: string[];
+  showFilterChips?: boolean;
+  filterAriaLabel?: string;
+  pageNote?: string;
+}
+
+const {
+  title,
+  heading,
+  subtitle,
+  installerHref,
+  installerLabel = 'Go to Installer',
+  searchPlaceholder = 'Search...',
+  extraStyles = [],
+  showFilterChips = false,
+  filterAriaLabel = 'Filter options',
+  pageNote,
+} = Astro.props;
+---
+
+<CompatLayout
+  title={title}
+  heading={heading}
+  subtitle={subtitle}
+  installerHref={installerHref}
+  installerLabel={installerLabel}
+  searchPlaceholder={searchPlaceholder}
+  extraStyles={extraStyles}
+>
+  {(showFilterChips || Astro.slots.has('controls')) && (
+    <div slot="controls" class="page-controls-panel">
+      {showFilterChips && (
+        <div class="page-filter-row filter-chips" id="filterChips" role="group" aria-label={filterAriaLabel}></div>
+      )}
+      <slot name="controls" />
+    </div>
+  )}
+
+  <slot name="legend" slot="legend" />
+
+  {pageNote && <p class="page-note">{pageNote}</p>}
+
+  <slot />
+
+  <slot name="extra" slot="extra" />
+  <slot name="script" slot="script" />
+</CompatLayout>

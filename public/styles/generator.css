@@ -533,6 +533,11 @@ form {
     border-radius: 12px;
     padding: 8px;
     background: color-mix(in srgb, var(--card-background) 94%, var(--primary-color) 6%);
+    margin-bottom: var(--spacing-sm);
+}
+
+.category:last-child {
+    margin-bottom: 0;
 }
 
 .category-header {
@@ -628,6 +633,24 @@ form {
     max-height: 0;
 }
 
+.subcategory {
+    margin-bottom: var(--spacing-sm);
+    padding: var(--spacing-xs);
+    border: 1px solid color-mix(in srgb, var(--border-color) 82%, var(--primary-color) 18%);
+    border-radius: 10px;
+    background: color-mix(in srgb, var(--card-background) 97%, var(--neutral-overlay-10) 3%);
+}
+
+.subcategory:last-child {
+    margin-bottom: 0;
+}
+
+.subcategory h5 {
+    margin: 0 0 var(--spacing-xs) 0;
+    padding-bottom: 6px;
+    border-bottom: 1px dashed color-mix(in srgb, var(--border-color) 78%, var(--primary-color) 22%);
+}
+
 .category-checkbox {
     cursor: pointer;
     margin: 0;
@@ -649,6 +672,10 @@ form {
     border: 1px solid transparent;
     transition: background-color 0.2s ease, border-color 0.2s ease;
     gap: var(--spacing-sm);
+}
+
+.column label:last-child {
+    margin-bottom: 0;
 }
 
 .column label:hover {
@@ -801,14 +828,30 @@ form {
 
 .ext-item {
     position: relative;
+    background: color-mix(in srgb, var(--card-background) 96%, var(--primary-color) 4%);
+    border-color: color-mix(in srgb, var(--border-color) 78%, var(--primary-color) 22%);
+    box-shadow: inset 0 1px 0 var(--neutral-overlay-05);
 }
 
 .ext-item.foss-hidden {
     display: none;
 }
 
+.ext-item:hover {
+    background: color-mix(in srgb, var(--hover-bg) 84%, var(--primary-color) 16%);
+    border-color: color-mix(in srgb, var(--border-color) 60%, var(--primary-color) 40%);
+}
+
+.ext-item:has(input[type="checkbox"]:checked) {
+    background: color-mix(in srgb, var(--primary-color) 14%, var(--card-background));
+    border-color: color-mix(in srgb, var(--primary-color) 48%, var(--border-color));
+}
+
 .ext-icon {
     border-radius: 4px;
+    background: color-mix(in srgb, var(--card-background) 90%, var(--primary-color) 10%);
+    border: 1px solid color-mix(in srgb, var(--border-color) 72%, var(--primary-color) 28%);
+    padding: 1px;
 }
 
 @media (max-width: 767px) {

@@ -1,18 +1,18 @@
 ---
-import CompatLayout from '../../layouts/CompatLayout.astro';
+import CompatibilityTablePage from '../../components/CompatibilityTablePage.astro';
+import softwareTablePagesScriptUrl from '../../scripts/software-table-pages.ts?url';
 ---
-<CompatLayout
+<CompatibilityTablePage
   title="VS Code Extensions Table"
   heading="🧩 VS Code Extensions Compatibility"
   subtitle="Installed extension list and package identifiers for command generation."
   installerHref="vscode"
   installerLabel="Go to Installer"
   searchPlaceholder="Search extension name, package name, or category"
+  showFilterChips={true}
+  filterAriaLabel="Filter by extension category"
+  pageNote="Search, sort, and filter extensions by category with the same software-table pattern used on desktop."
 >
-  <div slot="controls" class="page-controls-panel">
-    <div class="page-filter-row filter-chips" id="filterChips" role="group" aria-label="Filter by extension category"></div>
-  </div>
-  <p class="page-note">Search, sort, and filter extensions by category with the same software-table pattern used on desktop.</p>
   <div class="table-container">
     <table id="packagesTable">
       <thead id="tableHead"></thead>
@@ -20,7 +20,5 @@ import CompatLayout from '../../layouts/CompatLayout.astro';
     </table>
   </div>
   <div class="stats" id="statsContainer"></div>
-  <script>
-    import '../../scripts/software-table-pages';
-  </script>
-</CompatLayout>
+  <script slot="script" type="module" src={softwareTablePagesScriptUrl}></script>
+</CompatibilityTablePage>

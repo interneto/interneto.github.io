@@ -1,0 +1,48 @@
+---
+import CompatLayout from '../layouts/CompatLayout.astro';
+
+export interface Props {
+  title: string;
+  heading: string;
+  subtitle: string;
+  installerHref: string;
+  installerLabel?: string;
+  searchPlaceholder?: string;
+  filterAriaLabel: string;
+  pageNote?: string;
+}
+
+const {
+  title,
+  heading,
+  subtitle,
+  installerHref,
+  installerLabel = 'Go to Installer',
+  searchPlaceholder = 'Search package, category, or id',
+  filterAriaLabel,
+  pageNote,
+} = Astro.props;
+---
+<CompatLayout
+  title={title}
+  heading={heading}
+  subtitle={subtitle}
+  installerHref={installerHref}
+  installerLabel={installerLabel}
+  searchPlaceholder={searchPlaceholder}
+>
+  <div slot="controls" class="page-controls-panel">
+    <div class="page-filter-row filter-chips" id="filterChips" role="group" aria-label={filterAriaLabel}></div>
+  </div>
+
+  {pageNote && <p class="page-note">{pageNote}</p>}
+
+  <div class="table-container">
+    <table id="packagesTable">
+      <thead id="tableHead"></thead>
+      <tbody id="tableBody"></tbody>
+    </table>
+  </div>
+
+  <div class="stats" id="statsContainer"></div>
+</CompatLayout>
