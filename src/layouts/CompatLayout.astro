@@ -32,8 +32,8 @@ const {
         <div class="search-box">
           <input type="search" id="searchInput" placeholder={searchPlaceholder} />
         </div>
+        <slot name="controls" />
       </div>
-      <slot name="controls" />
     </div>
     <slot name="legend" />
     <slot />

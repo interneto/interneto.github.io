@@ -69,39 +69,64 @@ h1 {
     padding: 14px;
     border: 1px solid var(--border-color);
     border-radius: 16px;
-    background: color-mix(in srgb, var(--card-background) 94%, var(--primary-color) 6%);
-    box-shadow: var(--shadow-light);
+    background: linear-gradient(135deg, color-mix(in srgb, var(--card-background) 88%, var(--primary-color) 12%), color-mix(in srgb, var(--card-background) 96%, var(--primary-color) 4%));
+    box-shadow: 0 10px 24px var(--neutral-overlay-08), inset 0 1px 0 var(--neutral-overlay-10);
+}
+
+.controls .page-controls-panel {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    align-items: center;
+}
+
+.page-controls-inline {
+    display: flex;
+    flex: 1 1 320px;
+    flex-wrap: wrap;
+    gap: 12px;
+    align-items: center;
+}
+
+.page-filter-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    align-items: center;
 }
 
 .filter-chips {
     display: flex;
     flex-wrap: wrap;
     gap: var(--spacing-xs);
-    justify-content: center;
-    margin-top: var(--spacing-sm);
+    justify-content: flex-start;
+    margin-top: 0;
 }
 
 .filter-chip {
-    border: 1px solid var(--border-color);
-    background: var(--card-background);
+    border: 1.5px solid color-mix(in srgb, var(--border-color) 62%, var(--primary-color) 38%);
+    background: linear-gradient(180deg, color-mix(in srgb, var(--card-background) 88%, var(--primary-color) 12%), color-mix(in srgb, var(--card-background) 96%, var(--primary-color) 4%));
     color: var(--text-primary);
-    padding: 6px 12px;
+    padding: 8px 14px;
     border-radius: 999px;
     font-size: 12px;
     cursor: pointer;
     transition: all 0.2s ease;
     width: auto;
+    box-shadow: 0 2px 8px var(--neutral-overlay-05);
 }
 
 .filter-chip:hover {
     border-color: var(--primary-color);
-    box-shadow: var(--shadow-light);
+    box-shadow: 0 8px 18px color-mix(in srgb, var(--primary-color) 18%, transparent);
+    transform: translateY(-1px);
 }
 
 .filter-chip.active {
-    background: var(--primary-color);
+    background: linear-gradient(180deg, color-mix(in srgb, var(--primary-color) 92%, #ffffff 8%), var(--primary-color));
     color: var(--text-on-primary);
     border-color: var(--primary-color);
+    box-shadow: 0 10px 20px color-mix(in srgb, var(--primary-color) 30%, transparent);
 }
 
 .filter-chip:focus-visible {
@@ -138,18 +163,21 @@ h1 {
 }
 
 .search-box {
-    width: 100%;
+    flex: 1 1 320px;
+    min-width: min(100%, 280px);
 }
 
 .search-box input {
     appearance: none;
     -webkit-appearance: none;
-    background-color: var(--card-background);
+    background: linear-gradient(180deg, color-mix(in srgb, var(--card-background) 86%, var(--primary-color) 14%), color-mix(in srgb, var(--card-background) 95%, var(--primary-color) 5%));
     color: var(--text-primary);
-    border: 2px solid var(--border-color);
-    box-shadow: none;
-    padding: 8px var(--spacing-md);
+    border: 1.5px solid color-mix(in srgb, var(--border-color) 56%, var(--primary-color) 44%);
+    box-shadow: 0 4px 12px var(--neutral-overlay-06), inset 0 1px 0 var(--neutral-overlay-10);
+    padding: 12px var(--spacing-lg);
     font-size: 0.85em;
+    border-radius: 14px;
+    transition: border-color 0.2s ease, box-shadow 0.2s ease, transform 0.2s ease, background 0.2s ease;
 }
 
 .search-box input::placeholder {
@@ -165,30 +193,39 @@ h1 {
 }
 
 .search-box input:focus {
-    background-color: var(--card-background);
+    background: linear-gradient(180deg, color-mix(in srgb, var(--card-background) 88%, var(--primary-color) 12%), color-mix(in srgb, var(--card-background) 97%, var(--primary-color) 3%));
     color: var(--text-primary);
     border-color: var(--primary-color);
+    box-shadow: 0 0 0 3px var(--focus-ring-color-soft), 0 10px 22px var(--neutral-overlay-08);
+}
+
+.search-box input:hover {
+    border-color: color-mix(in srgb, var(--primary-color) 68%, var(--border-color));
+    box-shadow: 0 8px 18px var(--neutral-overlay-08), inset 0 1px 0 var(--neutral-overlay-10);
+    transform: translateY(-1px);
 }
 
 /* Table Container */
 .table-container {
     border-radius: 18px;
     margin: 0;
-    border: 1px solid var(--border-color);
-    box-shadow: var(--shadow-hover);
+    border: 1px solid color-mix(in srgb, var(--border-color) 62%, var(--primary-color) 38%);
+    box-shadow: 0 14px 30px var(--neutral-overlay-10), inset 0 1px 0 var(--neutral-overlay-10);
     overflow-x: auto;
+    background: linear-gradient(180deg, color-mix(in srgb, var(--card-background) 96%, var(--primary-color) 4%), color-mix(in srgb, var(--card-background) 91%, var(--primary-color) 9%));
 }
 
 table {
     width: 100%;
     border-collapse: collapse;
-    background: color-mix(in srgb, var(--card-background) 98%, var(--primary-color) 2%);
+    background: transparent;
     font-size: clamp(0.85em, 2vw, 1em);
 }
 
 thead {
-    background: linear-gradient(90deg, var(--primary-color), color-mix(in srgb, var(--primary-color) 82%, #ffffff 18%));
+    background: linear-gradient(180deg, color-mix(in srgb, var(--primary-color) 92%, #ffffff 8%), color-mix(in srgb, var(--primary-color) 72%, #0f172a 28%));
     color: var(--text-on-primary);
+    box-shadow: inset 0 -1px 0 color-mix(in srgb, var(--primary-color) 42%, #0f172a 58%);
 }
 
 /* Table Headers - Mobile */
@@ -203,6 +240,8 @@ th {
     top: 0;
     z-index: 10;
     white-space: nowrap;
+    background: transparent;
+    border-bottom: 1px solid color-mix(in srgb, var(--primary-color) 40%, #0f172a 60%);
 }
 
 th.sortable:focus-visible {
@@ -214,18 +253,19 @@ td.sticky-col,
 th.sticky-col {
     position: sticky;
     left: 0;
-    background: var(--card-background);
     z-index: 6;
 }
 
 th.sticky-col {
-    background: var(--primary-color);
+    background: linear-gradient(180deg, color-mix(in srgb, var(--primary-color) 92%, #ffffff 8%), color-mix(in srgb, var(--primary-color) 72%, #0f172a 28%));
     color: var(--text-on-primary);
     z-index: 16;
+    box-shadow: 2px 0 0 color-mix(in srgb, var(--primary-color) 24%, #0f172a 76%);
 }
 
 td.sticky-col {
-    box-shadow: 2px 0 0 var(--border-color);
+    background: linear-gradient(180deg, color-mix(in srgb, var(--card-background) 92%, var(--primary-color) 8%), color-mix(in srgb, var(--card-background) 98%, var(--primary-color) 2%));
+    box-shadow: 2px 0 0 color-mix(in srgb, var(--border-color) 70%, var(--primary-color) 30%);
 }
 
 /* th.sticky-col.app-col,
@@ -308,7 +348,7 @@ td.os-column {
 /* Table Data - Mobile */
 td {
     padding: clamp(4px, 1vw, 12px) clamp(2px, 0.5vw, 10px);
-    border-bottom: 1px solid var(--border-color);
+    border-bottom: 1px solid color-mix(in srgb, var(--border-color) 78%, var(--primary-color) 22%);
     font-size: clamp(0.65em, 1.5vw, 0.9em);
     min-width: 0;
 }
@@ -380,8 +420,10 @@ tbody tr {
     gap: var(--spacing-md);
     margin-top: var(--spacing-sm);
     padding: var(--spacing-md);
-    background: var(--table-row-hover-bg);
-    border-radius: var(--border-radius);
+    background: linear-gradient(135deg, color-mix(in srgb, var(--card-background) 90%, var(--primary-color) 10%), color-mix(in srgb, var(--table-row-hover-bg) 88%, var(--primary-color) 12%));
+    border-radius: 16px;
+    border: 1px solid color-mix(in srgb, var(--border-color) 70%, var(--primary-color) 30%);
+    box-shadow: 0 8px 18px var(--neutral-overlay-06);
 }
 
 .stat-item {
@@ -445,7 +487,7 @@ tbody tr {
 
     .search-box {
         max-width: 600px;
-        margin: 0 auto;
+        margin: 0;
     }
 
     .search-box input {

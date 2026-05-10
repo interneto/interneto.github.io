@@ -1,35 +1,42 @@
+@import url('base-styles.css');
+
 /*   PAGE LAYOUT - MOBILE FIRST========================================================================== */
 .page-wrapper {
-    max-width: 2200px;
+    max-width: 1280px;
     margin: 0 auto;
     padding: 0 18px 160px;
 }
 
 .container {
-    max-width: 2200px;
+    max-width: 1280px;
     margin: 0 auto;
-    background: color-mix(in srgb, var(--card-background) 94%, var(--primary-color) 6%);
-    border: 1px solid var(--border-color);
-    border-radius: 18px;
-    box-shadow: var(--shadow-light);
-    padding: clamp(16px, 2vw, 28px);
+    background:
+        radial-gradient(circle at top right, color-mix(in srgb, var(--primary-color) 14%, transparent), transparent 30%),
+        linear-gradient(180deg, color-mix(in srgb, var(--card-background) 91%, var(--primary-color) 9%), color-mix(in srgb, var(--card-background) 97%, var(--primary-color) 3%));
+    border: 1px solid color-mix(in srgb, var(--border-color) 60%, var(--primary-color) 40%);
+    border-radius: 24px;
+    box-shadow: 0 18px 42px var(--neutral-overlay-10), inset 0 1px 0 var(--neutral-overlay-10);
+    padding: clamp(18px, 2.5vw, 30px);
 }
 
 .page-header {
-    margin: 18px 0 20px;
-    padding: clamp(20px, 3vw, 30px);
+    margin: 18px 0 22px;
+    padding: clamp(24px, 3.5vw, 36px);
     text-align: center;
     position: relative;
-    border: 1px solid var(--border-color);
-    border-radius: 22px;
-    background: radial-gradient(circle at top right, var(--neutral-overlay-10), transparent 36%), linear-gradient(180deg, color-mix(in srgb, var(--card-background) 90%, var(--primary-color) 10%), var(--card-background));
-    box-shadow: var(--shadow-hover);
+    border: 1px solid color-mix(in srgb, var(--border-color) 58%, var(--primary-color) 42%);
+    border-radius: 24px;
+    background:
+        radial-gradient(circle at top right, color-mix(in srgb, var(--primary-color) 20%, transparent), transparent 34%),
+        linear-gradient(180deg, color-mix(in srgb, var(--card-background) 84%, var(--primary-color) 16%), color-mix(in srgb, var(--card-background) 96%, var(--primary-color) 4%));
+    box-shadow: 0 18px 36px var(--neutral-overlay-10), inset 0 1px 0 var(--neutral-overlay-10);
 }
 
 .page-header h1 {
     margin-bottom: 0;
     text-align: center;
     font-size: clamp(1.8rem, 4vw, 3rem);
+    line-height: 1.1;
 }
 
 .theme-toggle {
@@ -112,6 +119,13 @@
     max-width: 100%;
 }
 
+.main-controls .options-select {
+    width: auto;
+    min-width: 152px;
+    max-width: none;
+    flex: 0 0 auto;
+}
+
 .dropdown-item {
     display: flex;
     align-items: center;
@@ -167,6 +181,36 @@
 
 .package-section {
     padding: 0;
+}
+
+.package-section form,
+.package-section>.container {
+    position: relative;
+}
+
+.installer-page-section {
+    position: relative;
+}
+
+.installer-surface {
+    position: relative;
+    overflow: hidden;
+}
+
+.installer-surface::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    border-radius: inherit;
+    background:
+        linear-gradient(135deg, color-mix(in srgb, var(--primary-color) 10%, transparent), transparent 52%),
+        radial-gradient(circle at top right, color-mix(in srgb, var(--primary-color) 12%, transparent), transparent 32%);
+    pointer-events: none;
+}
+
+.installer-surface>* {
+    position: relative;
+    z-index: 1;
 }
 
 .package-section>h2 {
@@ -237,7 +281,7 @@ form {
 }
 
 .page-controls {
-    margin-bottom: 16px;
+    margin-bottom: 18px;
 }
 
 .page-controls-panel {
@@ -250,39 +294,46 @@ form {
     display: flex;
     flex-wrap: wrap;
     gap: 12px;
-    padding: 14px;
+    padding: 16px;
     background: linear-gradient(135deg, color-mix(in srgb, var(--card-background) 88%, var(--primary-color) 12%), color-mix(in srgb, var(--card-background) 94%, var(--primary-color) 6%));
     border: 1.5px solid color-mix(in srgb, var(--border-color) 60%, var(--primary-color) 40%);
-    border-radius: 20px;
-    box-shadow: 0 4px 12px var(--neutral-overlay-08), inset 0 1px 0 var(--neutral-overlay-10);
+    border-radius: 22px;
+    box-shadow: 0 10px 24px var(--neutral-overlay-08), inset 0 1px 0 var(--neutral-overlay-10);
     width: 100%;
     max-width: 100%;
     --main-control-height: 44px;
     align-items: center;
 }
 
-.main-controls > .search-input {
+.main-controls>.search-input {
     order: 99;
     flex: 1 1 100%;
     width: 100%;
     min-width: 0;
     border-radius: 14px;
     border-width: 1.5px;
-    background: color-mix(in srgb, var(--card-background) 85%, var(--primary-color) 15%);
-    box-shadow: inset 0 0 0 1px color-mix(in srgb, var(--border-color) 65%, var(--primary-color) 35%), 0 2px 4px var(--neutral-overlay-05);
+    border-color: color-mix(in srgb, var(--border-color) 56%, var(--primary-color) 44%);
+    background: linear-gradient(180deg, color-mix(in srgb, var(--card-background) 82%, var(--primary-color) 18%), color-mix(in srgb, var(--card-background) 92%, var(--primary-color) 8%));
+    box-shadow: inset 0 0 0 1px color-mix(in srgb, var(--border-color) 55%, var(--primary-color) 45%), 0 4px 10px var(--neutral-overlay-06);
     transition: all 0.2s ease;
-    padding: 8px 14px;
+    padding: 10px 14px;
 }
 
-.main-controls > .search-input:focus {
+.main-controls>.search-input:focus {
     outline: none;
     border-color: var(--primary-color);
-    box-shadow: inset 0 0 0 1px var(--primary-color), 0 0 0 3px color-mix(in srgb, var(--focus-ring-color) 40%, transparent);
-    background: color-mix(in srgb, var(--card-background) 92%, var(--primary-color) 8%);
+    box-shadow: inset 0 0 0 1px var(--primary-color), 0 0 0 3px color-mix(in srgb, var(--focus-ring-color) 40%, transparent), 0 10px 22px var(--neutral-overlay-08);
+    background: linear-gradient(180deg, color-mix(in srgb, var(--card-background) 86%, var(--primary-color) 14%), color-mix(in srgb, var(--card-background) 94%, var(--primary-color) 6%));
 }
 
-.main-controls > .search-input::placeholder {
+.main-controls>.search-input::placeholder {
     color: var(--text-secondary);
+}
+
+.main-controls>.search-input:hover {
+    border-color: color-mix(in srgb, var(--primary-color) 68%, var(--border-color));
+    box-shadow: inset 0 0 0 1px color-mix(in srgb, var(--primary-color) 35%, transparent), 0 8px 18px var(--neutral-overlay-08);
+    transform: translateY(-1px);
 }
 
 .controls-group {
@@ -290,6 +341,7 @@ form {
     gap: 10px;
     align-items: center;
     flex-wrap: wrap;
+    flex: 1 1 auto;
 }
 
 .controls-trailing {
@@ -519,9 +571,11 @@ form {
 }
 
 /* PLATFORM SELECT (Browser Selection) */
+.control-select,
 .platform-select {
     height: var(--main-control-height);
     padding: 8px 12px;
+    padding-right: 36px;
     box-sizing: border-box;
     background: color-mix(in srgb, var(--card-background) 88%, var(--primary-color) 12%);
     border: 1.5px solid color-mix(in srgb, var(--border-color) 65%, var(--primary-color) 35%);
@@ -532,8 +586,19 @@ form {
     cursor: pointer;
     transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
     box-shadow: 0 2px 6px var(--neutral-overlay-05);
+    min-width: 152px;
+    appearance: none;
+    background-image:
+        linear-gradient(45deg, transparent 50%, currentColor 50%),
+        linear-gradient(135deg, currentColor 50%, transparent 50%);
+    background-position:
+        calc(100% - 18px) calc(50% - 2px),
+        calc(100% - 12px) calc(50% - 2px);
+    background-size: 6px 6px, 6px 6px;
+    background-repeat: no-repeat;
 }
 
+.control-select:hover,
 .platform-select:hover {
     border-color: color-mix(in srgb, var(--primary-color) 70%, var(--border-color));
     background: color-mix(in srgb, var(--hover-bg) 90%, var(--primary-color) 10%);
@@ -541,11 +606,13 @@ form {
     transform: translateY(-2px);
 }
 
+.control-select:active,
 .platform-select:active {
     background: color-mix(in srgb, var(--primary-color) 18%, var(--card-background));
     transform: translateY(0px);
 }
 
+.control-select:focus,
 .platform-select:focus {
     outline: none;
     border-color: var(--primary-color);
@@ -553,36 +620,25 @@ form {
 }
 
 .main-controls .options-select {
-    height: var(--main-control-height);
-    padding: 8px 12px;
-    box-sizing: border-box;
-    background: color-mix(in srgb, var(--card-background) 88%, var(--primary-color) 12%);
-    border: 1.5px solid color-mix(in srgb, var(--border-color) 65%, var(--primary-color) 35%);
-    border-radius: 12px;
-    color: var(--text-primary);
-    font-size: 14px;
-    font-weight: 500;
-    cursor: pointer;
-    transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
-    box-shadow: 0 2px 6px var(--neutral-overlay-05);
+    flex: 0 0 auto;
 }
 
 .main-controls .options-select:hover {
-    border-color: color-mix(in srgb, var(--primary-color) 70%, var(--border-color));
-    background: color-mix(in srgb, var(--hover-bg) 90%, var(--primary-color) 10%);
-    box-shadow: 0 4px 12px color-mix(in srgb, var(--primary-color) 25%, transparent);
-    transform: translateY(-2px);
+    background-position:
+        calc(100% - 18px) calc(50% - 2px),
+        calc(100% - 12px) calc(50% - 2px);
 }
 
 .main-controls .options-select:active {
-    background: color-mix(in srgb, var(--primary-color) 18%, var(--card-background));
-    transform: translateY(0px);
+    background-position:
+        calc(100% - 18px) calc(50% - 2px),
+        calc(100% - 12px) calc(50% - 2px);
 }
 
 .main-controls .options-select:focus {
-    outline: none;
-    border-color: var(--primary-color);
-    box-shadow: 0 0 0 3px color-mix(in srgb, var(--focus-ring-color) 40%, transparent);
+    background-position:
+        calc(100% - 18px) calc(50% - 2px),
+        calc(100% - 12px) calc(50% - 2px);
 }
 
 .foss-toggle-btn.active {
@@ -668,15 +724,22 @@ form {
 }
 
 .package-container {
-    max-width: 2200px;
-    margin: var(--spacing-md) auto 0 auto;
-    background: linear-gradient(180deg, color-mix(in srgb, var(--card-background) 94%, var(--primary-color) 6%), var(--card-background));
-    border-radius: 14px;
-    border: 1px solid color-mix(in srgb, var(--border-color) 78%, var(--primary-color) 22%);
-    box-shadow: var(--shadow-light), inset 0 1px 0 var(--neutral-overlay-10);
-    padding: var(--spacing-md);
+    max-width: 1280px;
+    margin: calc(var(--spacing-md) + 2px) auto 0 auto;
+    background:
+        linear-gradient(180deg, color-mix(in srgb, var(--card-background) 96%, var(--primary-color) 4%), color-mix(in srgb, var(--card-background) 91%, var(--primary-color) 9%));
+    border-radius: 22px;
+    border: 1px solid color-mix(in srgb, var(--border-color) 64%, var(--primary-color) 36%);
+    box-shadow: 0 16px 34px var(--neutral-overlay-10), inset 0 1px 0 var(--neutral-overlay-10);
+    padding: calc(var(--spacing-md) + 2px);
     min-height: 200px;
     position: relative;
+}
+
+.installer-page-section .package-container {
+    background:
+        radial-gradient(circle at top right, color-mix(in srgb, var(--primary-color) 10%, transparent), transparent 28%),
+        linear-gradient(180deg, color-mix(in srgb, var(--card-background) 95%, var(--primary-color) 5%), color-mix(in srgb, var(--card-background) 89%, var(--primary-color) 11%));
 }
 
 .loading-spinner {
@@ -738,54 +801,58 @@ form {
 .columns {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
-    gap: var(--spacing-sm);
+    gap: calc(var(--spacing-sm) + 4px);
     margin: var(--spacing-md) 0;
 }
 
 .column {
-    background: linear-gradient(180deg, color-mix(in srgb, var(--card-background) 97%, var(--primary-color) 3%), color-mix(in srgb, var(--card-background) 91%, var(--primary-color) 9%));
-    border: 1px solid color-mix(in srgb, var(--border-color) 66%, var(--primary-color) 34%);
-    border-radius: 12px;
+    border-radius: 16px;
     padding: var(--spacing-md);
-    box-shadow: inset 0 0 0 1px var(--neutral-overlay-05);
-    transition: border-color 0.2s ease, box-shadow 0.2s ease;
+    box-shadow: 0 8px 18px var(--neutral-overlay-06), inset 0 1px 0 var(--neutral-overlay-10);
+    transition: border-color 0.2s ease, box-shadow 0.2s ease, transform 0.2s ease;
 }
 
 .column:hover {
     border-color: color-mix(in srgb, var(--primary-color) 42%, var(--border-color));
-    box-shadow: inset 0 0 0 1px var(--neutral-overlay-05), 0 8px 18px var(--neutral-overlay-10);
+    box-shadow: 0 14px 28px var(--neutral-overlay-10), inset 0 1px 0 var(--neutral-overlay-10);
+    transform: translateY(-2px);
 }
 
 .category {
-    border: 1px solid color-mix(in srgb, var(--border-color) 72%, var(--primary-color) 28%);
-    border-radius: 12px;
-    padding: 8px;
-    background: color-mix(in srgb, var(--card-background) 94%, var(--primary-color) 6%);
+    border: 1px solid color-mix(in srgb, var(--border-color) 64%, var(--primary-color) 36%);
+    border-radius: 16px;
+    background: linear-gradient(180deg, color-mix(in srgb, var(--card-background) 95%, var(--primary-color) 5%), color-mix(in srgb, var(--card-background) 89%, var(--primary-color) 11%));
     margin-bottom: var(--spacing-sm);
+    box-shadow: 0 6px 16px var(--neutral-overlay-05), inset 0 1px 0 var(--neutral-overlay-10);
+    transition: border-color 0.2s ease, box-shadow 0.2s ease, transform 0.2s ease;
 }
 
 .category:last-child {
     margin-bottom: 0;
 }
 
+.category:hover {
+    border-color: color-mix(in srgb, var(--primary-color) 48%, var(--border-color));
+    box-shadow: 0 12px 24px var(--neutral-overlay-08), inset 0 1px 0 var(--neutral-overlay-10);
+    transform: translateY(-1px);
+}
+
 .category-header {
     display: flex;
     align-items: center;
     gap: var(--spacing-sm);
-    margin-bottom: var(--spacing-sm);
-    padding: var(--spacing-sm);
+    padding: calc(var(--spacing-sm) + 2px);
     cursor: pointer;
-    border-radius: 10px;
-    border: 1px solid color-mix(in srgb, var(--border-color) 70%, var(--primary-color) 30%);
+    border-radius: 12px;
     transition: all 0.3s ease;
-    background: var(--category-gradient);
-    box-shadow: var(--shadow-light);
+    background: linear-gradient(135deg, color-mix(in srgb, var(--card-background) 82%, var(--primary-color) 18%), color-mix(in srgb, var(--card-background) 92%, var(--primary-color) 8%));
+    box-shadow: 0 4px 12px var(--neutral-overlay-05), inset 0 1px 0 var(--neutral-overlay-10);
 }
 
 .category-header:hover {
-    background: var(--category-gradient-hover);
+    background: linear-gradient(135deg, color-mix(in srgb, var(--hover-bg) 78%, var(--primary-color) 22%), color-mix(in srgb, var(--card-background) 88%, var(--primary-color) 12%));
     transform: translateY(-1px);
-    box-shadow: var(--shadow-hover);
+    box-shadow: 0 8px 18px var(--neutral-overlay-08), inset 0 1px 0 var(--neutral-overlay-10);
 }
 
 .category-header:active {
@@ -853,20 +920,22 @@ form {
     overflow: hidden;
     transition: max-height 0.3s ease;
     border-top: 1px dashed color-mix(in srgb, var(--border-color) 70%, var(--primary-color) 30%);
-    padding-top: var(--spacing-xs);
+    padding: var(--spacing-sm);
+    padding-top: var(--spacing-sm);
     margin-top: var(--spacing-xs);
+    border-radius: 12px;
+    background: color-mix(in srgb, var(--card-background) 97%, var(--neutral-overlay-10) 3%);
 }
 
 .category.collapsed .category-content {
     max-height: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    border-top-width: 0;
 }
 
 .subcategory {
-    margin-bottom: var(--spacing-sm);
-    padding: var(--spacing-xs);
-    border: 1px solid color-mix(in srgb, var(--border-color) 82%, var(--primary-color) 18%);
-    border-radius: 10px;
-    background: color-mix(in srgb, var(--card-background) 97%, var(--neutral-overlay-10) 3%);
+    padding: var(--spacing-sm);
 }
 
 .subcategory:last-child {
@@ -951,11 +1020,12 @@ form {
 
 .os-selector-container {
     margin: var(--spacing-lg) 0;
-    padding: var(--spacing-md);
-    background: linear-gradient(180deg, color-mix(in srgb, var(--card-background) 90%, var(--primary-color) 10%), color-mix(in srgb, var(--card-background) 96%, var(--primary-color) 4%));
-    border: 1px solid color-mix(in srgb, var(--border-color) 72%, var(--primary-color) 28%);
-    border-radius: 14px;
-    box-shadow: inset 0 1px 0 var(--neutral-overlay-10);
+    padding: calc(var(--spacing-md) + 2px);
+    background:
+        linear-gradient(180deg, color-mix(in srgb, var(--card-background) 88%, var(--primary-color) 12%), color-mix(in srgb, var(--card-background) 96%, var(--primary-color) 4%));
+    border: 1px solid color-mix(in srgb, var(--border-color) 64%, var(--primary-color) 36%);
+    border-radius: 20px;
+    box-shadow: 0 10px 24px var(--neutral-overlay-08), inset 0 1px 0 var(--neutral-overlay-10);
 }
 
 .primary-os-selector {
@@ -964,6 +1034,10 @@ form {
     justify-content: center;
     flex-wrap: wrap;
     margin-bottom: var(--spacing-md);
+}
+
+.os-selector-container>.primary-os-selector:last-child {
+    margin-bottom: 0;
 }
 
 .os-btn {
@@ -1030,8 +1104,10 @@ form {
     gap: var(--spacing-xs);
     justify-content: center;
     padding: var(--spacing-md);
-    background: var(--hover-bg);
-    border-radius: var(--border-radius);
+    background: linear-gradient(180deg, color-mix(in srgb, var(--card-background) 95%, var(--primary-color) 5%), color-mix(in srgb, var(--hover-bg) 88%, var(--primary-color) 12%));
+    border-radius: 14px;
+    border: 1px solid color-mix(in srgb, var(--border-color) 72%, var(--primary-color) 28%);
+    box-shadow: inset 0 1px 0 var(--neutral-overlay-10);
 }
 
 [data-theme="dark"] .secondary-os-selector {
@@ -1058,6 +1134,23 @@ form {
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+.os-btn {
+    background: linear-gradient(180deg, color-mix(in srgb, var(--card-background) 84%, var(--primary-color) 16%), color-mix(in srgb, var(--card-background) 93%, var(--primary-color) 7%));
+    border-color: color-mix(in srgb, var(--border-color) 60%, var(--primary-color) 40%);
+    box-shadow: 0 3px 10px var(--neutral-overlay-06), inset 0 1px 0 var(--neutral-overlay-10);
+}
+
+.os-btn:hover {
+    background: linear-gradient(180deg, color-mix(in srgb, var(--hover-bg) 80%, var(--primary-color) 20%), color-mix(in srgb, var(--card-background) 90%, var(--primary-color) 10%));
+    border-color: var(--primary-color);
+    box-shadow: 0 10px 20px color-mix(in srgb, var(--primary-color) 18%, transparent), inset 0 1px 0 var(--neutral-overlay-10);
+}
+
+.os-btn.active {
+    background: linear-gradient(180deg, color-mix(in srgb, var(--primary-color) 92%, white 8%), var(--primary-color));
+    box-shadow: 0 10px 20px color-mix(in srgb, var(--primary-color) 35%, transparent), inset 0 1px 0 color-mix(in srgb, white 28%, transparent);
 }
 
 [data-theme="dark"] .distro-btn {
@@ -1126,6 +1219,7 @@ form {
     border-radius: 10px;
     box-shadow: 0 2px 6px var(--neutral-overlay-04), inset 0 1px 0 var(--neutral-overlay-08);
     transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+    gap: 12px;
 }
 
 .ext-item.foss-hidden {
@@ -1166,8 +1260,20 @@ form {
     padding: 1px;
 }
 
+.ext-item input[type="checkbox"],
+.lib-item input[type="checkbox"],
+.column label input[type="checkbox"] {
+    margin: 0 2px 0 0;
+}
+
+.ext-item>span,
+.lib-name,
+.column label>span:last-child {
+    line-height: 1.45;
+}
+
 @media (max-width: 767px) {
-    .main-controls > .search-input {
+    .main-controls>.search-input {
         flex-basis: 100%;
         width: 100%;
         min-width: 0;

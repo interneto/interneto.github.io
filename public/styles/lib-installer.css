@@ -6,7 +6,7 @@
 .lib-item {
     display: flex;
     align-items: center;
-    gap: 10px;
+    gap: 12px;
     padding: 12px 10px;
     border-radius: 10px;
     cursor: pointer;
@@ -135,6 +135,9 @@ th.lang-col {
     min-width: 130px;
     padding: 10px 12px;
     white-space: nowrap;
+    background: linear-gradient(180deg, color-mix(in srgb, var(--primary-color) 92%, #ffffff 8%), color-mix(in srgb, var(--primary-color) 72%, #0f172a 28%));
+    color: var(--text-on-primary);
+    border-bottom: 1px solid color-mix(in srgb, var(--primary-color) 50%, #0f172a 50%);
 }
 
 td.lang-cell {
@@ -149,6 +152,36 @@ td.category-cell {
     padding: 10px 12px;
     vertical-align: top;
     white-space: nowrap;
+    background: linear-gradient(180deg, color-mix(in srgb, var(--card-background) 90%, var(--primary-color) 10%), color-mix(in srgb, var(--card-background) 98%, var(--primary-color) 2%));
+}
+
+#compatTable th.sticky-col {
+    background: linear-gradient(180deg, color-mix(in srgb, var(--primary-color) 92%, #ffffff 8%), color-mix(in srgb, var(--primary-color) 72%, #0f172a 28%));
+    color: var(--text-on-primary);
+    border-bottom: 1px solid color-mix(in srgb, var(--primary-color) 50%, #0f172a 50%);
+    box-shadow: 2px 0 0 color-mix(in srgb, var(--primary-color) 24%, #0f172a 76%);
+}
+
+#compatTable td.sticky-col {
+    background: linear-gradient(180deg, color-mix(in srgb, var(--card-background) 90%, var(--primary-color) 10%), color-mix(in srgb, var(--card-background) 98%, var(--primary-color) 2%));
+}
+
+.compat-visibility-select {
+    min-height: 40px;
+    padding: 8px 36px 8px 12px;
+    border-radius: 12px;
+    border: 1.5px solid color-mix(in srgb, var(--border-color) 60%, var(--primary-color) 40%);
+    background: linear-gradient(180deg, color-mix(in srgb, var(--card-background) 88%, var(--primary-color) 12%), color-mix(in srgb, var(--card-background) 96%, var(--primary-color) 4%));
+    box-shadow: 0 2px 8px var(--neutral-overlay-05);
+    appearance: none;
+    background-image:
+        linear-gradient(45deg, transparent 50%, currentColor 50%),
+        linear-gradient(135deg, currentColor 50%, transparent 50%);
+    background-position:
+        calc(100% - 18px) calc(50% - 2px),
+        calc(100% - 12px) calc(50% - 2px);
+    background-size: 6px 6px, 6px 6px;
+    background-repeat: no-repeat;
 }
 
 .compat-lib-item {
