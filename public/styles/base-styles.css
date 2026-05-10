@@ -185,9 +185,7 @@ a:focus-visible {
 .container {
     max-width: 2200px;
     margin: 0 auto;
-    background: var(--card-background);
     border-radius: 8px;
-    box-shadow: var(--shadow-light);
     padding: var(--spacing-md);
 }
 

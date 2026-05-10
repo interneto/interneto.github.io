@@ -10,13 +10,6 @@
 .container {
     max-width: 1280px;
     margin: 0 auto;
-    background:
-        radial-gradient(circle at top right, color-mix(in srgb, var(--primary-color) 14%, transparent), transparent 30%),
-        linear-gradient(180deg, color-mix(in srgb, var(--card-background) 91%, var(--primary-color) 9%), color-mix(in srgb, var(--card-background) 97%, var(--primary-color) 3%));
-    border: 1px solid color-mix(in srgb, var(--border-color) 60%, var(--primary-color) 40%);
-    border-radius: 24px;
-    box-shadow: 0 18px 42px var(--neutral-overlay-10), inset 0 1px 0 var(--neutral-overlay-10);
-    padding: clamp(18px, 2.5vw, 30px);
 }
 
 .page-header {
@@ -24,16 +17,9 @@
     padding: clamp(24px, 3.5vw, 36px);
     text-align: center;
     position: relative;
-    border: 1px solid color-mix(in srgb, var(--border-color) 58%, var(--primary-color) 42%);
-    border-radius: 24px;
-    background:
-        radial-gradient(circle at top right, color-mix(in srgb, var(--primary-color) 20%, transparent), transparent 34%),
-        linear-gradient(180deg, color-mix(in srgb, var(--card-background) 84%, var(--primary-color) 16%), color-mix(in srgb, var(--card-background) 96%, var(--primary-color) 4%));
-    box-shadow: 0 18px 36px var(--neutral-overlay-10), inset 0 1px 0 var(--neutral-overlay-10);
 }
 
 .page-header h1 {
-    margin-bottom: 0;
     text-align: center;
     font-size: clamp(1.8rem, 4vw, 3rem);
     line-height: 1.1;
@@ -805,26 +791,10 @@ form {
     margin: var(--spacing-md) 0;
 }
 
-.column {
-    border-radius: 16px;
-    padding: var(--spacing-md);
-    box-shadow: 0 8px 18px var(--neutral-overlay-06), inset 0 1px 0 var(--neutral-overlay-10);
-    transition: border-color 0.2s ease, box-shadow 0.2s ease, transform 0.2s ease;
-}
-
 .column:hover {
     border-color: color-mix(in srgb, var(--primary-color) 42%, var(--border-color));
     box-shadow: 0 14px 28px var(--neutral-overlay-10), inset 0 1px 0 var(--neutral-overlay-10);
     transform: translateY(-2px);
-}
-
-.category {
-    border: 1px solid color-mix(in srgb, var(--border-color) 64%, var(--primary-color) 36%);
-    border-radius: 16px;
-    background: linear-gradient(180deg, color-mix(in srgb, var(--card-background) 95%, var(--primary-color) 5%), color-mix(in srgb, var(--card-background) 89%, var(--primary-color) 11%));
-    margin-bottom: var(--spacing-sm);
-    box-shadow: 0 6px 16px var(--neutral-overlay-05), inset 0 1px 0 var(--neutral-overlay-10);
-    transition: border-color 0.2s ease, box-shadow 0.2s ease, transform 0.2s ease;
 }
 
 .category:last-child {
