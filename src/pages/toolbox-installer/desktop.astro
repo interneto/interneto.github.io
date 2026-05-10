@@ -1,0 +1,45 @@
+---
+import ToolboxInstallerSection from '../../components/ToolboxInstallerSection.astro';
+import ToolboxResultsContainer from '../../components/ToolboxResultsContainer.astro';
+import appScriptUrl from '../../scripts/app.ts?url';
+
+const options = [
+  { value: 'loadFavorites', label: '✨ My Favorites' },
+  { value: 'importPackages', label: '📥 Import Packages (JSON)' },
+  { value: 'exportPackages', label: '📤 Export Packages (JSON)' },
+];
+---
+<ToolboxInstallerSection
+  title="Desktop Installer"
+  heading="Desktop Installer"
+  searchPlaceholder="Search packages by name"
+  options={options}
+  useForm={true}
+  formId="packageForm"
+>
+  <div slot="selectors" class="os-selector-container">
+    <div class="primary-os-selector">
+      <button type="button" class="os-btn active" data-os="windows">🪟 Windows</button>
+      <button type="button" class="os-btn" data-os="macos">🍎 macOS</button>
+      <button type="button" class="os-btn" data-os="linux">🐧 Linux</button>
+      <button type="button" class="os-btn" data-os="freebsd">🔥 FreeBSD</button>
+    </div>
+    <div class="secondary-os-selector hidden" id="linuxDistroSelector">
+      <button type="button" class="distro-btn active" data-distro="linux_arch_pacman">Arch (pm+yay)</button>
+      <button type="button" class="distro-btn" data-distro="linux_debian_apt">Debian (apt)</button>
+      <button type="button" class="distro-btn" data-distro="linux_fedora_rpm">Fedora (rpm)</button>
+      <button type="button" class="distro-btn" data-distro="linux_gentoo_emerge">Gentoo (emerge)</button>
+      <button type="button" class="distro-btn" data-distro="linux_flatpak">Linux (flatpak)</button>
+      <button type="button" class="distro-btn" data-distro="unix_nix_env">Linux (nix)</button>
+      <button type="button" class="distro-btn" data-distro="linux_snap">Linux (snap)</button>
+    </div>
+  </div>
+
+  <ToolboxResultsContainer
+    slot="content"
+    id="packageContainer"
+    showLoadingSpinner={true}
+  />
+
+  <script slot="script" type="module" src={appScriptUrl}></script>
+</ToolboxInstallerSection>

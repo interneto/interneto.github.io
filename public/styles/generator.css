@@ -2,27 +2,34 @@
 .page-wrapper {
     max-width: 2200px;
     margin: 0 auto;
-    padding: 0;
+    padding: 0 18px 48px;
 }
 
 .container {
     max-width: 2200px;
     margin: 0 auto;
-    background: var(--card-background);
-    border-radius: 8px;
+    background: color-mix(in srgb, var(--card-background) 94%, var(--primary-color) 6%);
+    border: 1px solid var(--border-color);
+    border-radius: 18px;
     box-shadow: var(--shadow-light);
-    padding: var(--spacing-md);
+    padding: clamp(16px, 2vw, 28px);
 }
 
 .page-header {
-    padding: var(--spacing-md) var(--spacing-sm);
+    margin: 18px 0 20px;
+    padding: clamp(20px, 3vw, 30px);
     text-align: center;
     position: relative;
+    border: 1px solid var(--border-color);
+    border-radius: 22px;
+    background: radial-gradient(circle at top right, var(--neutral-overlay-10), transparent 36%), linear-gradient(180deg, color-mix(in srgb, var(--card-background) 90%, var(--primary-color) 10%), var(--card-background));
+    box-shadow: var(--shadow-hover);
 }
 
 .page-header h1 {
     margin-bottom: 0;
     text-align: center;
+    font-size: clamp(1.8rem, 4vw, 3rem);
 }
 
 .theme-toggle {
@@ -159,7 +166,7 @@
 }
 
 .package-section {
-    padding: 0 var(--spacing-sm);
+    padding: 0;
 }
 
 .package-section>h2 {
@@ -234,9 +241,10 @@ form {
     flex-wrap: wrap;
     gap: var(--spacing-md);
     padding: var(--spacing-md);
-    background: var(--card-background);
+    background: linear-gradient(180deg, var(--card-background), color-mix(in srgb, var(--card-background) 94%, var(--primary-color) 6%));
     border: 1px solid var(--border-color);
-    border-radius: var(--border-radius);
+    border-radius: 16px;
+    box-shadow: inset 0 1px 0 var(--neutral-overlay-10);
     width: 100%;
     max-width: 100%;
     --main-control-height: 44px;
@@ -279,7 +287,7 @@ form {
     padding: var(--spacing-xs) var(--spacing-sm);
     background-color: transparent;
     border: 1px solid var(--border-color);
-    border-radius: var(--border-radius);
+    border-radius: 999px;
     cursor: pointer;
     font-size: 14px;
     color: var(--text-primary);
@@ -315,7 +323,7 @@ form {
     padding: var(--spacing-xs) var(--spacing-sm);
     background-color: transparent;
     border: 1px solid var(--border-color);
-    border-radius: var(--border-radius);
+    border-radius: 999px;
     cursor: pointer;
     font-size: 14px;
     color: var(--text-primary);
@@ -779,21 +787,21 @@ form {
 }
 
 .command-footer {
-    position: fixed;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    border-top: 2px solid var(--border-color);
-    box-shadow: 0 -4px 20px var(--neutral-overlay-25);
-    z-index: 1000;
+    position: static;
+    margin: var(--spacing-lg) var(--spacing-sm) 0;
+    border: 1px solid var(--border-color);
+    border-radius: 18px;
+    box-shadow: var(--shadow-light);
     padding: var(--spacing-sm);
-    max-height: 30vh;
-    overflow-y: auto;
-    background: var(--card-background);
+    background: color-mix(in srgb, var(--card-background) 96%, var(--primary-color) 4%);
 }
 
 [data-theme="dark"] .command-footer {
-    box-shadow: 0 -4px 20px var(--neutral-overlay-50);
+    box-shadow: 0 8px 24px var(--neutral-overlay-50);
+}
+
+.command-footer[hidden] {
+    display: none;
 }
 
 .command-container {
@@ -806,8 +814,8 @@ form {
 
 .command-output {
     background-color: var(--card-background);
-    border: 2px solid var(--border-color);
-    border-radius: var(--border-radius);
+    border: 1px solid var(--border-color);
+    border-radius: 14px;
     overflow: hidden;
     display: flex;
     flex-direction: column;
@@ -819,7 +827,7 @@ form {
     align-items: center;
     padding: var(--spacing-xs) var(--spacing-sm);
     border-bottom: 1px solid var(--border-color);
-    background-color: var(--neutral-overlay-05);
+    background-color: color-mix(in srgb, var(--card-background) 90%, var(--primary-color) 10%);
 }
 
 [data-theme="dark"] .command-output {
@@ -839,7 +847,7 @@ form {
     background-color: var(--neutral-overlay-15);
     color: var(--text-primary);
     border: 1px solid var(--neutral-overlay-30);
-    border-radius: var(--border-radius);
+    border-radius: 999px;
     cursor: pointer;
     font-size: 12px;
     font-weight: 500;
@@ -885,10 +893,6 @@ form {
 
 .distro-hidden input[type="checkbox"] {
     cursor: not-allowed;
-}
-
-body {
-    padding-bottom: 25vh;
 }
 
 @media (min-width: 480px) {
@@ -955,6 +959,7 @@ body {
     }
 
     .command-footer {
+        margin: var(--spacing-lg) var(--spacing-md) 0;
         padding: var(--spacing-md);
     }
 
@@ -989,6 +994,7 @@ body {
 
 @media (min-width: 1024px) {
     .command-footer {
+        margin: var(--spacing-xl) 0 0;
         padding: var(--spacing-md);
     }
 
@@ -1005,19 +1011,15 @@ body {
         font-size: 14px;
     }
 
-    body {
-        padding-bottom: 30vh;
-    }
-
 }
 
 @media (min-width: 1400px) {
     .page-wrapper {
-        padding: 0 var(--spacing-lg);
+        padding: 0 var(--spacing-lg) 56px;
     }
 
     .page-header {
-        padding: var(--spacing-md) 0;
+        padding: clamp(22px, 2vw, 34px);
     }
 
     .intro-section {

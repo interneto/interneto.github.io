@@ -1,0 +1,26 @@
+---
+export interface Props {
+  id: string;
+  role?: string;
+  ariaLabel?: string;
+  showLoadingSpinner?: boolean;
+  loadingText?: string;
+}
+
+const {
+  id,
+  role,
+  ariaLabel,
+  showLoadingSpinner = false,
+  loadingText = 'Loading packages...',
+} = Astro.props;
+---
+
+<div id={id} class="package-container columns" role={role} aria-label={ariaLabel}>
+  {showLoadingSpinner && (
+    <div class="loading-spinner" id="loadingSpinner">
+      <div class="spinner"></div>
+      <p>{loadingText}</p>
+    </div>
+  )}
+</div>

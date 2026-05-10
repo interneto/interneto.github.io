@@ -1,0 +1,30 @@
+---
+import ToolboxInstallerSection from '../../components/ToolboxInstallerSection.astro';
+import ToolboxResultsContainer from '../../components/ToolboxResultsContainer.astro';
+import appScriptUrl from '../../scripts/app.ts?url';
+
+const options = [
+  { value: 'loadFavorites', label: '✨ My Favorites' },
+  { value: 'importPackages', label: '📥 Import packages (JSON)' },
+  { value: 'exportPackages', label: '📤 Export packages (JSON)' },
+];
+---
+<ToolboxInstallerSection
+  title="Mobile Installer"
+  heading="Mobile Installer"
+  searchPlaceholder="Search packages by name"
+  options={options}
+  useForm={true}
+  formId="packageForm"
+>
+  <div slot="selectors" class="os-selector-container">
+    <div class="primary-os-selector">
+      <button type="button" class="os-btn" data-os="android">🔥 Android</button>
+      <button type="button" class="os-btn" data-os="ios">🐧 iOS</button>
+    </div>
+  </div>
+
+  <ToolboxResultsContainer slot="content" id="packageContainer" />
+
+  <script slot="script" type="module" src={appScriptUrl}></script>
+</ToolboxInstallerSection>

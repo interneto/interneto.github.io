@@ -1,0 +1,35 @@
+---
+import ToolboxInstallerSection from '../../components/ToolboxInstallerSection.astro';
+import ToolboxResultsContainer from '../../components/ToolboxResultsContainer.astro';
+import libInstallerScriptUrl from '../../scripts/lib-installer.ts?url';
+
+const options = [
+  { value: 'exportPackages', label: '📤 Export Libraries (JSON)' },
+];
+---
+<ToolboxInstallerSection
+  title="Library Installer"
+  heading="Library Installer"
+  extraStyles={['styles/lib-installer.css']}
+  searchPlaceholder="Search libraries by name"
+  options={options}
+  showFossToggle={false}
+  showFileInput={false}
+>
+  <div slot="selectors" class="os-selector-container">
+    <div class="primary-os-selector" id="langSelector" role="group" aria-label="Select programming language"></div>
+    <div class="secondary-os-selector" id="javaToolSelector" style="display:none;" role="group" aria-label="Select Java build tool">
+      <button type="button" class="distro-btn active" data-tool="maven">Maven (pom.xml)</button>
+      <button type="button" class="distro-btn" data-tool="gradle">Gradle (build.gradle)</button>
+    </div>
+  </div>
+
+  <button slot="controls" type="button" class="toggle-all-btn" id="internalToggleBtn" title="Show or hide internal libraries">
+    <span>🧪</span>
+    <span id="internalToggleLabel">Show internal</span>
+  </button>
+
+  <ToolboxResultsContainer slot="content" id="libContainer" role="list" ariaLabel="Library categories" />
+
+  <script slot="script" type="module" src={libInstallerScriptUrl}></script>
+</ToolboxInstallerSection>

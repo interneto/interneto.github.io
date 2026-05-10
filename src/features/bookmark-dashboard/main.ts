@@ -14,18 +14,23 @@ type AppState = {
   records: BookmarkRecord[];
   query: string;
   viewMode: ViewMode;
+  favoritesOnly: boolean;
+  favoriteIds: Set<string>;
 };
 
 const state: AppState = {
   records: [],
   query: '',
   viewMode: 'classic',
+  favoritesOnly: false,
+  favoriteIds: new Set<string>(),
 };
 
 const ISLANDS = ['Categories', 'Web Database', 'Web Platforms'] as const;
 type IslandName = (typeof ISLANDS)[number];
 
 const assetBaseUrl = import.meta.env.BASE_URL;
+const FAVORITES_STORAGE_KEY = 'interneto.favorite-links';
 
 function assetPath(fileName: string): string {
   return `${assetBaseUrl}${fileName}`;
@@ -42,20 +47,6 @@ if (!mountNode) {
 }
 
 mountNode.innerHTML = `
-  <div class="search-bar">
-    <svg class="search-icon" viewBox="0 0 20 20" fill="none" aria-hidden="true">
-      <circle cx="8.5" cy="8.5" r="5.5" stroke="currentColor" stroke-width="1.6"/>
-      <path d="M13.5 13.5L17 17" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/>
-    </svg>
-    <input id="search-input" type="search" placeholder="Search bookmarks..." autocomplete="off" spellcheck="false" />
-    <div class="view-toggle" role="tablist" aria-label="View mode">
-      <button class="view-btn" id="view-classic" data-view="classic" type="button">Classic</button>
-      <button class="view-btn" id="view-semantic" data-view="semantic" type="button">Semantic</button>
-      <button class="view-btn" id="view-geo" data-view="geo" type="button">Geo Map</button>
-    </div>
-    <span id="stats"></span>
-  </div>
-
   <main class="layout">
     <aside class="info-panel" id="info-panel" hidden>
       <button class="close-btn" id="close-panel" aria-label="Close panel" type="button">x</button>
@@ -71,9 +62,20 @@ mountNode.innerHTML = `
     </section>
   </main>
 
-  <footer class="footer">
-    <span class="footer-brand">Interneto</span>
-  </footer>
+  <div class="info-bar">
+    <svg class="search-icon" viewBox="0 0 20 20" fill="none" aria-hidden="true">
+      <circle cx="8.5" cy="8.5" r="5.5" stroke="currentColor" stroke-width="1.6"/>
+      <path d="M13.5 13.5L17 17" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/>
+    </svg>
+    <input id="search-input" type="search" placeholder="Search bookmarks..." autocomplete="off" spellcheck="false" />
+    <div class="view-toggle" role="tablist" aria-label="View mode">
+      <button class="view-btn" id="view-classic" data-view="classic" type="button">Classic</button>
+      <button class="view-btn" id="view-semantic" data-view="semantic" type="button">Semantic</button>
+      <button class="view-btn" id="view-geo" data-view="geo" type="button">Geo Map</button>
+    </div>
+    <button class="favorites-filter-btn" id="favorites-filter" type="button" aria-pressed="false">☆ Favorite Links</button>
+    <span id="stats"></span>
+  </div>
 `;
 
 // ─── DOM references ───────────────────────────────────────────────────────────
@@ -84,6 +86,7 @@ const infoPanel     = document.querySelector<HTMLElement>('#info-panel')!;
 const infoContent   = document.querySelector<HTMLDivElement>('#info-content')!;
 const closePanelBtn = document.querySelector<HTMLButtonElement>('#close-panel')!;
 const viewButtons   = Array.from(document.querySelectorAll<HTMLButtonElement>('.view-btn'));
+const favoritesFilterBtn = document.querySelector<HTMLButtonElement>('#favorites-filter')!;
 const zoomInBtn     = document.querySelector<HTMLButtonElement>('#zoom-in')!;
 const zoomOutBtn    = document.querySelector<HTMLButtonElement>('#zoom-out')!;
 const zoomResetBtn  = document.querySelector<HTMLButtonElement>('#zoom-reset')!;
@@ -99,6 +102,11 @@ function parseViewModeFromUrl(): ViewMode {
 
 function parseQueryFromUrl(): string {
   return (new URL(window.location.href).searchParams.get('q') ?? '').trim().toLowerCase();
+}
+
+function parseFavoritesOnlyFromUrl(): boolean {
+  const value = new URL(window.location.href).searchParams.get('favorites');
+  return value === '1' || value === 'true';
 }
 
 function syncViewButtons(mode: ViewMode): void {
@@ -129,6 +137,42 @@ function updateSearchUrl(query: string): void {
   window.history.replaceState(null, '', `${url.pathname}${url.search}${url.hash}`);
 }
 
+function updateFavoritesUrl(enabled: boolean): void {
+  const url = new URL(window.location.href);
+  if (!enabled) {
+    url.searchParams.delete('favorites');
+  } else {
+    url.searchParams.set('favorites', '1');
+  }
+  window.history.replaceState(null, '', `${url.pathname}${url.search}${url.hash}`);
+}
+
+function loadStoredFavoriteIds(): Set<string> {
+  try {
+    const raw = localStorage.getItem(FAVORITES_STORAGE_KEY);
+    if (!raw) return new Set<string>();
+    const list = JSON.parse(raw) as unknown;
+    if (!Array.isArray(list)) return new Set<string>();
+    return new Set<string>(list.filter((v): v is string => typeof v === 'string' && v.length > 0));
+  } catch {
+    return new Set<string>();
+  }
+}
+
+function persistFavoriteIds(): void {
+  localStorage.setItem(FAVORITES_STORAGE_KEY, JSON.stringify(Array.from(state.favoriteIds)));
+}
+
+function isFavoriteRecord(record: BookmarkRecord): boolean {
+  return record.isFavorite || state.favoriteIds.has(record.id);
+}
+
+function syncFavoritesFilterButton(): void {
+  favoritesFilterBtn.classList.toggle('is-active', state.favoritesOnly);
+  favoritesFilterBtn.setAttribute('aria-pressed', state.favoritesOnly ? 'true' : 'false');
+  favoritesFilterBtn.textContent = state.favoritesOnly ? '★ Favorite Links' : '☆ Favorite Links';
+}
+
 // ─── Zoom controls ────────────────────────────────────────────────────────────
 
 function animateZoom(transform: d3.ZoomTransform): void {
@@ -154,8 +198,13 @@ function resetZoom(): void {
 // ─── Data filters ─────────────────────────────────────────────────────────────
 
 function applyFilters(records: BookmarkRecord[]): BookmarkRecord[] {
-  if (!state.query) return records;
   return records.filter((record) => {
+    if (state.favoritesOnly && !isFavoriteRecord(record)) {
+      return false;
+    }
+    if (!state.query) {
+      return true;
+    }
     const haystack = [record.title, record.uri, ...record.tags, ...record.folderPath]
       .join(' ').toLowerCase();
     return haystack.includes(state.query);
@@ -197,6 +246,9 @@ function showLinkPanel(node: VizNode): void {
   infoContent.innerHTML = `
     <div class="info-path">${escapeHtml(path)}</div>
     <h2 class="info-title">${escapeHtml(record.title)}</h2>
+    <button class="info-favorite-btn" id="favorite-toggle" data-bookmark-id="${escapeHtml(record.id)}" type="button">
+      ${isFavoriteRecord(record) ? '★ Remove Favorite' : '☆ Add Favorite'}
+    </button>
     <a class="info-url" href="${record.uri}" target="_blank" rel="noreferrer noopener"
        title="${escapeHtml(record.uri)}">${escapeHtml(record.uri)}</a>
     ${record.tags.length
@@ -214,11 +266,12 @@ function render(): void {
   const filteredRecords  = applyFilters(state.records);
   const clusteredRecords = filteredRecords.map((r) => clusterizeRecord(r));
   const classicRecords   = limitTopLinksPerSubcategory(clusteredRecords, 3);
+  const favoritesCount = state.records.filter((record) => isFavoriteRecord(record)).length;
 
   if (state.viewMode === 'classic') {
-    statsEl.textContent = `${classicRecords.length.toLocaleString()} shown (top 3/subcategory) · ${filteredRecords.length.toLocaleString()} matched · ${state.records.length.toLocaleString()} total`;
+    statsEl.textContent = `${classicRecords.length.toLocaleString()} shown (top 3/subcategory) · ${filteredRecords.length.toLocaleString()} matched · ${state.records.length.toLocaleString()} total · ${favoritesCount.toLocaleString()} favorites`;
   } else {
-    statsEl.textContent = `${filteredRecords.length.toLocaleString()} / ${state.records.length.toLocaleString()}`;
+    statsEl.textContent = `${filteredRecords.length.toLocaleString()} / ${state.records.length.toLocaleString()} · ${favoritesCount.toLocaleString()} favorites`;
   }
 
   const svg = d3.select<SVGSVGElement, unknown>('#zui-svg');
@@ -243,12 +296,46 @@ function render(): void {
 
 state.viewMode = parseViewModeFromUrl();
 state.query    = parseQueryFromUrl();
+state.favoritesOnly = parseFavoritesOnlyFromUrl();
 searchInput.value = state.query;
 syncViewButtons(state.viewMode);
+syncFavoritesFilterButton();
 
 searchInput.addEventListener('input', () => {
   state.query = searchInput.value.trim().toLowerCase();
   updateSearchUrl(state.query);
+  render();
+});
+
+favoritesFilterBtn.addEventListener('click', () => {
+  state.favoritesOnly = !state.favoritesOnly;
+  updateFavoritesUrl(state.favoritesOnly);
+  syncFavoritesFilterButton();
+  render();
+});
+
+infoContent.addEventListener('click', (event) => {
+  const target = event.target;
+  if (!(target instanceof HTMLElement)) return;
+  const toggleBtn = target.closest<HTMLButtonElement>('#favorite-toggle');
+  if (!toggleBtn) return;
+  const bookmarkId = toggleBtn.dataset.bookmarkId;
+  if (!bookmarkId) return;
+
+  if (state.favoriteIds.has(bookmarkId)) {
+    state.favoriteIds.delete(bookmarkId);
+  } else {
+    state.favoriteIds.add(bookmarkId);
+  }
+
+  const currentRecord = state.records.find((record) => record.id === bookmarkId);
+  if (currentRecord) {
+    toggleBtn.textContent = isFavoriteRecord(currentRecord)
+      ? '★ Remove Favorite'
+      : '☆ Add Favorite';
+  }
+
+  persistFavoriteIds();
   render();
 });
 
@@ -278,5 +365,14 @@ async function bootstrap(): Promise<void> {
     (r) => r.json() as Promise<RawBookmarkNode>,
   );
   state.records = flattenBookmarks(data);
+  state.favoriteIds = loadStoredFavoriteIds();
+
+  for (const record of state.records) {
+    if (record.isFavorite) {
+      state.favoriteIds.add(record.id);
+    }
+  }
+
+  persistFavoriteIds();
   render();
 }

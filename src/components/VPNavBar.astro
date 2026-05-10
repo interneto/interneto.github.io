@@ -1,4 +1,6 @@
 ---
+import { isToolboxRoute } from '../scripts/toolbox-routes';
+
 interface NavLink {
   text: string;
   link: string;
@@ -6,19 +8,19 @@ interface NavLink {
 }
 
 export interface Props {
-  title: string;
+  title?: string;
   icon?: string;
   links?: NavLink[];
-  searchEnabled?: boolean;
 }
 
-const { title = 'Interneto', icon = '📚', links = [], searchEnabled = true } = Astro.props;
+const { title = 'Interneto', icon = '📚', links = [] } = Astro.props;
 const BASE = import.meta.env.BASE_URL.replace(/\/?$/, '/');
 const pathname = Astro.url.pathname;
 
 const defaultLinks: NavLink[] = [
   { text: '📚 Categories', link: `${BASE}categories/` },
   { text: '🗺️ Map of Links', link: `${BASE}map/` },
+  { text: '🧰 Toolbox Installer', link: `${BASE}toolbox-installer/` },
   { text: '📑 Posts', link: `${BASE}posts/` },
   { text: 'ℹ️ About', link: `${BASE}about/` },
 ];
@@ -26,6 +28,9 @@ const defaultLinks: NavLink[] = [
 const navLinks = links.length > 0 ? links : defaultLinks;
 
 const isActive = (link: string) => {
+  if (link === `${BASE}toolbox-installer/`) {
+    return isToolboxRoute(pathname, BASE);
+  }
   if (link === `${BASE}` || link === '/') {
     return pathname === BASE || pathname === '/';
   }
@@ -45,15 +50,6 @@ const isActive = (link: string) => {
         </div>
         <div class="vp-nav-content">
           <div class="vp-nav-body">
-            {searchEnabled && (
-              <div class="vp-nav-search">
-                <button type="button" class="vp-search-button" aria-label="Search">
-                  <span class="vp-search-icon">🔍</span>
-                  <span class="vp-search-text">Search</span>
-                  <span class="vp-search-keys"><kbd>Ctrl</kbd><kbd>K</kbd></span>
-                </button>
-              </div>
-            )}
             <nav class="vp-nav-menu" aria-label="Main Navigation">
               {navLinks.map((link) => (
                 <a 
@@ -109,14 +105,16 @@ const isActive = (link: string) => {
   .vp-nav-container {
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: flex-start;
+    gap: 14px;
     width: 100%;
     max-width: 1280px;
     height: 61px;
   }
 
   .vp-nav-title {
-    flex-shrink: 0;
+    flex: 0 1 auto;
+    min-width: 0;
   }
 
   .vp-nav-brand {
@@ -153,68 +151,33 @@ const isActive = (link: string) => {
   .vp-nav-content {
     display: flex;
     align-items: center;
-    justify-content: space-between;
-    gap: 32px;
-    flex-grow: 1;
+    justify-content: flex-end;
+    gap: 12px;
+    flex: 1 1 auto;
+    min-width: 0;
   }
 
   .vp-nav-body {
     display: flex;
     align-items: center;
-    gap: 24px;
-    flex-grow: 1;
-  }
-
-  .vp-nav-search {
-    margin-left: auto;
-  }
-
-  .vp-search-button {
-    display: flex;
-    align-items: center;
+    justify-content: flex-end;
     gap: 8px;
-    padding: 6px 12px;
-    border: 1px solid var(--vp-c-divider);
-    border-radius: 6px;
-    background-color: var(--vp-c-bg-alt);
-    color: var(--vp-c-text-2);
-    cursor: pointer;
-    font-size: 14px;
-    transition: all 0.2s;
+    flex: 1 1 auto;
+    min-width: 0;
+    overflow-x: auto;
+    scrollbar-width: none;
   }
 
-  .vp-search-button:hover {
-    background-color: var(--vp-c-bg);
-    border-color: var(--vp-c-brand-1);
-    color: var(--vp-c-text-1);
-  }
-
-  .vp-search-icon {
-    display: inline-block;
-    font-size: 16px;
-  }
-
-  .vp-search-keys {
-    display: flex;
-    gap: 4px;
-    margin-left: 8px;
-    padding-left: 8px;
-    border-left: 1px solid var(--vp-c-divider);
-  }
-
-  .vp-search-keys kbd {
-    padding: 2px 4px;
-    font-size: 12px;
-    border: 1px solid var(--vp-c-divider);
-    border-radius: 3px;
-    background-color: var(--vp-c-bg);
-    font-family: monospace;
+  .vp-nav-body::-webkit-scrollbar {
+    display: none;
   }
 
   .vp-nav-menu {
     display: flex;
-    gap: 24px;
+    gap: 18px;
     align-items: center;
+    flex-wrap: nowrap;
+    white-space: nowrap;
   }
 
   .vp-nav-menu-link {
@@ -249,7 +212,8 @@ const isActive = (link: string) => {
   .vp-nav-actions {
     display: flex;
     align-items: center;
-    gap: 16px;
+    gap: 8px;
+    flex-shrink: 0;
   }
 
   .vp-theme-toggle {
@@ -309,10 +273,7 @@ const isActive = (link: string) => {
   @media (max-width: 768px) {
     .vp-nav-hamburger {
       display: flex;
-    }
-
-    .vp-nav-search {
-      display: none;
+      margin-left: auto;
     }
 
     .vp-nav-menu {
@@ -321,6 +282,10 @@ const isActive = (link: string) => {
 
     .vp-nav-body {
       flex-grow: 0;
+    }
+
+    .vp-nav-brand-text {
+      display: none;
     }
   }
 </style>

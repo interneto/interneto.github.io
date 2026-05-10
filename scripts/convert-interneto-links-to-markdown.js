@@ -187,6 +187,8 @@ const CATEGORY_BY_FOLDER = new Map(
   CATEGORY_CONFIG.map((entry) => [entry.folder, entry])
 )
 
+const HIDDEN_CATEGORY_PATTERN = /nsfw(?:-content)?/i
+
 function parseCsv(text) {
   const rows = []
   let row = []
@@ -341,6 +343,14 @@ function isValidRowFolder(folderParts) {
   return folderParts.length >= 2 && folderParts[0] === 'Apps'
 }
 
+function shouldHideRowByCategory(row, folderParts) {
+  const folderText = folderParts.join(' / ')
+  const textToScan = [folderText, row.title, row.tags, row.note]
+    .filter(Boolean)
+    .join(' ')
+  return HIDDEN_CATEGORY_PATTERN.test(textToScan)
+}
+
 function buildItemFromRow(row) {
   const title = cleanText(row.title)
   const rawUrl = cleanText(row.url)
@@ -366,6 +376,7 @@ function processRowsIntoGroups(rows, groups) {
   for (const row of rows) {
     const folderParts = normalizeFolder(row.folder || '')
     if (!isValidRowFolder(folderParts)) continue
+    if (shouldHideRowByCategory(row, folderParts)) continue
     const category = folderParts[1]
     if (!CATEGORY_BY_FOLDER.has(category)) continue
     const item = buildItemFromRow(row)

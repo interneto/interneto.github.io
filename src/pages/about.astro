@@ -1,40 +1,31 @@
 ---
 import { getCollection } from 'astro:content';
-import VPLayout from '../../layouts/VPLayout.astro';
+import VPLayout from '../layouts/VPLayout.astro';
 
 const BASE = import.meta.env.BASE_URL.replace(/\/?$/, '/');
+const docs = await getCollection('docs');
+const entry = docs.find((item) => item.id.replace(/\.md$/i, '') === 'about');
 
-export async function getStaticPaths() {
-  const docs = await getCollection('docs');
-  return docs
-    .filter((entry) => {
-      const slug = entry.id.replace(/\.md$/i, '');
-      return !['about', 'index'].includes(slug);
-    })
-    .map((entry) => ({
-      params: { slug: entry.id.replace(/\.md$/i, '') },
-      props: { entry },
-    }));
+if (!entry) {
+  throw new Error('About content not found.');
 }
 
-const { entry } = Astro.props;
 const { Content } = await entry.render();
-const pageTitle = entry.data.title ?? entry.id;
+const pageTitle = entry.data.title ?? 'About';
 ---
 
-<VPLayout title={pageTitle} hasSidebar={true}>
-  <div class="vp-post-wrapper">
+<VPLayout title={pageTitle} hasSidebar={false}>
+  <div class="vp-about-wrapper">
     <nav class="vp-breadcrumb" aria-label="Breadcrumb">
       <a href={`${BASE}`}>Home</a>
-      <span class="vp-breadcrumb-sep">›</span>
-      <a href={`${BASE}categories/`}>Categories</a>
       <span class="vp-breadcrumb-sep">›</span>
       <span>{pageTitle}</span>
     </nav>
 
-    <article class="vp-post-content">
-      <header class="vp-post-header">
+    <article class="vp-about-content">
+      <header class="vp-about-header">
         <h1>{pageTitle}</h1>
+        {entry.data.description && <p class="vp-about-lead">{entry.data.description}</p>}
       </header>
       <div class="vp-prose">
         <Content />
@@ -44,7 +35,7 @@ const pageTitle = entry.data.title ?? entry.id;
 </VPLayout>
 
 <style>
-  .vp-post-wrapper {
+  .vp-about-wrapper {
     max-width: 900px;
     margin: 0 auto;
     padding: 48px 32px;
@@ -74,18 +65,25 @@ const pageTitle = entry.data.title ?? entry.id;
     margin: 0 4px;
   }
 
-  .vp-post-header {
+  .vp-about-header {
     margin-bottom: 48px;
     padding-bottom: 32px;
     border-bottom: 1px solid var(--vp-c-divider);
   }
 
-  .vp-post-header h1 {
+  .vp-about-header h1 {
     font-size: 2.5em;
     font-weight: 700;
     line-height: 1.2;
-    margin: 0;
+    margin-bottom: 16px;
     color: var(--vp-c-text-1);
+  }
+
+  .vp-about-lead {
+    font-size: 1.1em;
+    color: var(--vp-c-text-2);
+    line-height: 1.6;
+    margin: 0;
   }
 
   .vp-prose {
@@ -93,20 +91,18 @@ const pageTitle = entry.data.title ?? entry.id;
     font-size: 1em;
   }
 
-  .vp-prose :is(h2, h3, h4, h5, h6) {
+  .vp-prose h2 {
     margin-top: 1.5em;
     margin-bottom: 0.75em;
+    font-size: 1.75em;
     font-weight: 600;
   }
 
-  .vp-prose h2 {
-    font-size: 1.75em;
-    border-bottom: 1px solid var(--vp-c-divider);
-    padding-bottom: 0.5em;
-  }
-
   .vp-prose h3 {
+    margin-top: 1.25em;
+    margin-bottom: 0.5em;
     font-size: 1.4em;
+    font-weight: 600;
   }
 
   .vp-prose p {
@@ -114,7 +110,8 @@ const pageTitle = entry.data.title ?? entry.id;
     line-height: 1.8;
   }
 
-  .vp-prose :is(ul, ol) {
+  .vp-prose ul,
+  .vp-prose ol {
     margin: 1em 0;
     padding-left: 2em;
   }
@@ -177,11 +174,11 @@ const pageTitle = entry.data.title ?? entry.id;
   }
 
   @media (max-width: 768px) {
-    .vp-post-wrapper {
+    .vp-about-wrapper {
       padding: 32px 16px;
     }
 
-    .vp-post-header h1 {
+    .vp-about-header h1 {
       font-size: 1.875em;
     }
 

@@ -6,7 +6,12 @@ interface SidebarItem {
   isActive: boolean;
 }
 
-interface Props {
+interface SidebarSection {
+  title: string;
+  items: SidebarItem[];
+}
+
+export interface Props {
   currentPath?: string;
 }
 
@@ -41,14 +46,30 @@ const categoryItems: SidebarItem[] = [
   { text: '🛠️ Utility', href: `${BASE}categories/utility/`, isActive: isPathActive(`${BASE}categories/utility/`) },
 ];
 
-// Build post items
-const postItems: SidebarItem[] = [
-  { text: 'Comparing AI Coding Tools', href: `${BASE}posts/ai-coding-tools/`, isActive: isPathActive(`${BASE}posts/ai-coding-tools/`) },
-  { text: 'Comparing Bookmark Managers', href: `${BASE}posts/bookmark-managers/`, isActive: isPathActive(`${BASE}posts/bookmark-managers/`) },
-  { text: 'Cybersecurity Vulnerabilities', href: `${BASE}posts/cybersecurity-vulnerabilities/`, isActive: isPathActive(`${BASE}posts/cybersecurity-vulnerabilities/`) },
-  { text: 'How Files Are Transferred', href: `${BASE}posts/file-sync/`, isActive: isPathActive(`${BASE}posts/file-sync/`) },
-  { text: 'How To Categorize Links', href: `${BASE}posts/how-to-categorize-links/`, isActive: isPathActive(`${BASE}posts/how-to-categorize-links/`) },
-  { text: 'What Is Information?', href: `${BASE}posts/what-is-info/`, isActive: isPathActive(`${BASE}posts/what-is-info/`) },
+const postSections: SidebarSection[] = [
+  {
+    title: 'Comparing',
+    items: [
+      { text: 'AI Coding Tools', href: `${BASE}posts/ai-coding-tools/`, isActive: isPathActive(`${BASE}posts/ai-coding-tools/`) },
+      { text: 'Bookmark Managers', href: `${BASE}posts/bookmark-managers/`, isActive: isPathActive(`${BASE}posts/bookmark-managers/`) },
+      { text: 'Linux Distributions', href: `${BASE}posts/linux-distros/`, isActive: isPathActive(`${BASE}posts/linux-distros/`) },
+    ]
+  },
+  {
+    title: 'How-To',
+    items: [
+      { text: 'How To Categorize Links', href: `${BASE}posts/how-to-categorize-links/`, isActive: isPathActive(`${BASE}posts/how-to-categorize-links/`) },
+      { text: 'How Files Are Transferred', href: `${BASE}posts/file-sync/`, isActive: isPathActive(`${BASE}posts/file-sync/`) },
+    ]
+  },
+  {
+    title: 'Articles',
+    items: [
+      { text: 'Cybersecurity Vulnerabilities', href: `${BASE}posts/cybersecurity-vulnerabilities/`, isActive: isPathActive(`${BASE}posts/cybersecurity-vulnerabilities/`) },
+      { text: 'Operating System Layer Stack', href: `${BASE}posts/os-layer-stack/`, isActive: isPathActive(`${BASE}posts/os-layer-stack/`) },
+      { text: 'What Is Information?', href: `${BASE}posts/what-is-info/`, isActive: isPathActive(`${BASE}posts/what-is-info/`) },
+    ]
+  },
 ];
 
 const mapItems: SidebarItem[] = [
@@ -63,7 +84,9 @@ const mapItems: SidebarItem[] = [
 // Determine which sidebar to show
 const showPostsSidebar = currentPath.includes('/posts');
 const showMapSidebar = currentPath.includes('/map');
-const items = showPostsSidebar ? postItems : showMapSidebar ? mapItems : categoryItems;
+const showCategoryFavoritesToggle = currentPath.includes('/categories');
+const showCategorySidebar = !showPostsSidebar && !showMapSidebar;
+const items = showPostsSidebar ? [] : showMapSidebar ? mapItems : categoryItems;
 const title = showPostsSidebar ? 'Posts' : showMapSidebar ? 'Link Dashboard' : 'Categories';
 ---
 
@@ -71,19 +94,140 @@ const title = showPostsSidebar ? 'Posts' : showMapSidebar ? 'Link Dashboard' : '
   <div class="vp-sidebar-content">
     <nav class="vp-sidebar-nav">
       <div class="vp-sidebar-title">{title}</div>
-      <div class="vp-sidebar-items">
-        {items.map((item) => (
-          <a 
-            class={`vp-sidebar-item-link ${item.isActive ? 'active' : ''}`}
-            href={item.href}
-          >
-            <span>{item.text}</span>
-          </a>
-        ))}
-      </div>
+      {showCategorySidebar && (
+        <div class="vp-sidebar-search-wrap">
+          <input
+            id="categorySidebarSearch"
+            class="vp-sidebar-search-input"
+            type="search"
+            placeholder="Search categories"
+            autocomplete="off"
+            aria-label="Search categories"
+          />
+        </div>
+      )}
+      {showCategoryFavoritesToggle && (
+        <button type="button" class="vp-sidebar-toggle-btn" id="categoryFavoritesToggle" aria-pressed="false">
+          ☆ Favorite Links
+        </button>
+      )}
+      {showPostsSidebar ? (
+        postSections.map((section) => (
+          <div class="vp-sidebar-section">
+            <div class="vp-sidebar-section-title">{section.title}</div>
+            <div class="vp-sidebar-items">
+              {section.items.map((item) => (
+                <a
+                  class={`vp-sidebar-item-link ${item.isActive ? 'active' : ''}`}
+                  href={item.href}
+                >
+                  <span>{item.text}</span>
+                </a>
+              ))}
+            </div>
+          </div>
+        ))
+      ) : (
+        <div class="vp-sidebar-items">
+          {items.map((item) => (
+            <a
+              class={`vp-sidebar-item-link ${item.isActive ? 'active' : ''}`}
+              href={item.href}
+            >
+              <span>{item.text}</span>
+            </a>
+          ))}
+        </div>
+      )}
     </nav>
   </div>
 </aside>
+
+<script>
+  const CATEGORY_FAVORITES_STORAGE_KEY = 'interneto.category-favorites-only';
+  const favoritesToggle = document.getElementById('categoryFavoritesToggle');
+  const categorySearchInput = document.getElementById('categorySidebarSearch');
+
+  if (categorySearchInput instanceof HTMLInputElement) {
+    const categoryLinks = Array.from(document.querySelectorAll('.vp-sidebar-items .vp-sidebar-item-link'));
+    const normalize = (value) => value.trim().toLowerCase();
+
+    const applyCategorySidebarFilter = (query) => {
+      const normalizedQuery = normalize(query);
+
+      categoryLinks.forEach((link) => {
+        const label = normalize(link.textContent || '');
+        const visible = normalizedQuery === '' || label.includes(normalizedQuery);
+        link.classList.toggle('vp-sidebar-search-hidden', !visible);
+      });
+    };
+
+    categorySearchInput.addEventListener('input', () => {
+      applyCategorySidebarFilter(categorySearchInput.value);
+    });
+  }
+
+  if (favoritesToggle) {
+    const proseRoot = document.querySelector('.vp-prose');
+    const listItems = proseRoot ? Array.from(proseRoot.querySelectorAll('li')) : [];
+    const headings = proseRoot
+      ? Array.from(proseRoot.querySelectorAll('h2, h3, h4, h5, h6'))
+      : [];
+    const lists = proseRoot
+      ? Array.from(proseRoot.querySelectorAll('ul, ol'))
+      : [];
+
+    const isFavoriteItem = (item) => item.textContent?.trim().startsWith('⭐') ?? false;
+    const setToggleState = (enabled) => {
+      favoritesToggle.classList.toggle('is-active', enabled);
+      favoritesToggle.setAttribute('aria-pressed', enabled ? 'true' : 'false');
+      favoritesToggle.textContent = enabled ? '★ Favorite Links' : '☆ Favorite Links';
+    };
+
+    const getHeadingLevel = (heading) => Number.parseInt(heading.tagName.slice(1), 10);
+
+    const syncFavoritesFilter = (enabled) => {
+      listItems.forEach((item) => {
+        item.classList.toggle('vp-favorite-hidden', enabled && !isFavoriteItem(item));
+      });
+
+      lists.forEach((list) => {
+        const visibleItems = Array.from(list.children).some((child) => !child.classList.contains('vp-favorite-hidden'));
+        list.classList.toggle('vp-favorite-hidden', enabled && !visibleItems);
+      });
+
+      headings.forEach((heading) => {
+        const currentLevel = getHeadingLevel(heading);
+        let sibling = heading.nextElementSibling;
+        let hasVisibleContent = false;
+
+        while (sibling) {
+          if (/^H[2-6]$/.test(sibling.tagName) && getHeadingLevel(sibling) <= currentLevel) {
+            break;
+          }
+          if (!sibling.classList.contains('vp-favorite-hidden')) {
+            hasVisibleContent = true;
+            break;
+          }
+          sibling = sibling.nextElementSibling;
+        }
+
+        heading.classList.toggle('vp-favorite-hidden', enabled && !hasVisibleContent);
+      });
+    };
+
+    const storedValue = localStorage.getItem(CATEGORY_FAVORITES_STORAGE_KEY) === 'true';
+    setToggleState(storedValue);
+    syncFavoritesFilter(storedValue);
+
+    favoritesToggle.addEventListener('click', () => {
+      const nextValue = favoritesToggle.getAttribute('aria-pressed') !== 'true';
+      localStorage.setItem(CATEGORY_FAVORITES_STORAGE_KEY, String(nextValue));
+      setToggleState(nextValue);
+      syncFavoritesFilter(nextValue);
+    });
+  }
+</script>
 
 <style>
   .vp-sidebar {
@@ -126,6 +270,79 @@ const title = showPostsSidebar ? 'Posts' : showMapSidebar ? 'Link Dashboard' : '
     display: flex;
     flex-direction: column;
     gap: 0;
+  }
+
+  .vp-sidebar-toggle-btn {
+    margin: 4px 16px 12px;
+    padding: 10px 12px;
+    border: 1px solid var(--vp-c-divider);
+    border-radius: 8px;
+    background-color: var(--vp-c-bg);
+    color: var(--vp-c-text-2);
+    text-align: left;
+    font-size: 13px;
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+
+  .vp-sidebar-toggle-btn:hover {
+    color: var(--vp-c-text-1);
+    border-color: var(--vp-c-brand-1);
+  }
+
+  .vp-sidebar-toggle-btn.is-active {
+    color: var(--vp-c-brand-1);
+    border-color: var(--vp-c-brand-1);
+    background-color: rgba(123, 197, 228, 0.12);
+  }
+
+  :global(.vp-favorite-hidden) {
+    display: none;
+  }
+
+  .vp-sidebar-search-wrap {
+    margin: 6px 16px 8px;
+  }
+
+  .vp-sidebar-search-input {
+    width: 100%;
+    height: 36px;
+    padding: 8px 10px;
+    border: 1px solid var(--vp-c-divider);
+    border-radius: 8px;
+    background-color: var(--vp-c-bg);
+    color: var(--vp-c-text-1);
+    font-size: 13px;
+    outline: none;
+    transition: border-color 0.2s, box-shadow 0.2s;
+  }
+
+  .vp-sidebar-search-input:focus {
+    border-color: var(--vp-c-brand-1);
+    box-shadow: 0 0 0 2px rgba(123, 197, 228, 0.18);
+  }
+
+  .vp-sidebar-search-input::placeholder {
+    color: var(--vp-c-text-3);
+  }
+
+  .vp-sidebar-item-link.vp-sidebar-search-hidden {
+    display: none;
+  }
+
+  .vp-sidebar-section {
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+  }
+
+  .vp-sidebar-section-title {
+    padding: 12px 16px 6px;
+    font-size: 11px;
+    letter-spacing: 0.5px;
+    color: var(--vp-c-text-3);
+    text-transform: uppercase;
+    font-weight: 600;
   }
 
   .vp-sidebar-item-link {

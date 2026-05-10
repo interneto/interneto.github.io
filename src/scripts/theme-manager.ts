@@ -4,15 +4,16 @@ import { THEME_CONFIG, EVENT_NAMES } from './config';
 
 let currentTheme: string | null = null;
 let isInitialized = false;
+let mediaQueryList: MediaQueryList | null = null;
 
 export function initTheme(): void {
     if (isInitialized) {
         updateToggleButton(getTheme());
         return;
     }
-    const savedTheme = getSavedTheme();
-    applyTheme(savedTheme);
+    applyPreferredTheme(getSavedTheme());
     setupToggleButton();
+    setupSystemThemeListener();
     isInitialized = true;
 }
 
@@ -26,6 +27,7 @@ export function setTheme(theme: string): void {
         return;
     }
     localStorage.setItem(THEME_CONFIG.STORAGE_KEY, theme);
+    localStorage.removeItem(THEME_CONFIG.LEGACY_STORAGE_KEY);
     applyTheme(theme);
     const event = new CustomEvent(EVENT_NAMES.THEME_CHANGED, { detail: { theme } });
     document.dispatchEvent(event);
@@ -44,12 +46,38 @@ export function toggleTheme(): void {
 }
 
 function getSavedTheme(): string {
-    return localStorage.getItem(THEME_CONFIG.STORAGE_KEY) || THEME_CONFIG.LIGHT;
+    const savedTheme = localStorage.getItem(THEME_CONFIG.STORAGE_KEY);
+    if (savedTheme === THEME_CONFIG.DARK || savedTheme === THEME_CONFIG.LIGHT) {
+        return savedTheme;
+    }
+
+    const legacyTheme = localStorage.getItem(THEME_CONFIG.LEGACY_STORAGE_KEY);
+    if (legacyTheme === THEME_CONFIG.DARK || legacyTheme === THEME_CONFIG.LIGHT) {
+        localStorage.setItem(THEME_CONFIG.STORAGE_KEY, legacyTheme);
+        localStorage.removeItem(THEME_CONFIG.LEGACY_STORAGE_KEY);
+        return legacyTheme;
+    }
+
+    return '';
+}
+
+function getSystemTheme(): string {
+    return window.matchMedia('(prefers-color-scheme: dark)').matches
+        ? THEME_CONFIG.DARK
+        : THEME_CONFIG.LIGHT;
+}
+
+function applyPreferredTheme(theme: string): void {
+    applyTheme(theme || getSystemTheme());
 }
 
 function applyTheme(theme: string): void {
     currentTheme = theme;
-    document.documentElement.setAttribute('data-theme', theme);
+    const root = document.documentElement;
+    const isDark = theme === THEME_CONFIG.DARK;
+    root.setAttribute('data-theme', theme);
+    root.classList.toggle('dark', isDark);
+    root.style.colorScheme = isDark ? THEME_CONFIG.DARK : THEME_CONFIG.LIGHT;
     updateToggleButton(theme);
 }
 
@@ -75,6 +103,26 @@ function setupToggleButton(): void {
             toggleTheme();
         }
     });
+}
+
+function setupSystemThemeListener(): void {
+    mediaQueryList = window.matchMedia('(prefers-color-scheme: dark)');
+    const syncWithSystemTheme = () => {
+        if (getSavedTheme()) {
+            return;
+        }
+        const theme = getSystemTheme();
+        applyTheme(theme);
+        const event = new CustomEvent(EVENT_NAMES.THEME_CHANGED, { detail: { theme } });
+        document.dispatchEvent(event);
+    };
+
+    if ('addEventListener' in mediaQueryList) {
+        mediaQueryList.addEventListener('change', syncWithSystemTheme);
+        return;
+    }
+
+    mediaQueryList.addListener(syncWithSystemTheme);
 }
 
 if (document.readyState === 'loading') {
