@@ -244,7 +244,7 @@ export function renderGeo(
   svg.attr('viewBox', `0 0 ${width} ${height}`);
 
   svg.append('rect').attr('width', width).attr('height', height)
-    .attr('fill', '#04121e').attr('class', 'geo-ocean');
+    .attr('fill', 'var(--map-ocean, #04121e)').attr('class', 'geo-ocean');
 
   const defs       = svg.append('defs');
   const scene      = svg.append('g').attr('class', 'scene geo-scene');
@@ -483,29 +483,29 @@ export function renderGeo(
   const islandLabels = labelLayer
     .selectAll<SVGTextElement, GeoNode>('text.geo-island-label').data(islands).join('text')
     .attr('class', 'geo-island-label').attr('text-anchor', 'middle').attr('dominant-baseline', 'middle')
-    .attr('fill', '#f0faff').attr('paint-order', 'stroke')
-    .attr('stroke', 'rgba(2,10,18,0.9)').attr('stroke-width', 3.5)
+    .attr('fill', 'var(--map-label-1)').attr('paint-order', 'stroke')
+    .attr('stroke', 'var(--map-label-stroke)').attr('stroke-width', 3.5)
     .style('font-size', '14px').style('font-weight', '700').text(n => n.name);
 
   const catLabels = labelLayer
     .selectAll<SVGTextElement, GeoNode>('text.geo-cat-label').data(allCategories).join('text')
     .attr('class', 'geo-cat-label').attr('text-anchor', 'middle').attr('dominant-baseline', 'middle')
-    .attr('fill', '#e4f4ff').attr('paint-order', 'stroke')
-    .attr('stroke', 'rgba(2,10,18,0.88)').attr('stroke-width', 3.2)
+    .attr('fill', 'var(--map-label-2)').attr('paint-order', 'stroke')
+    .attr('stroke', 'var(--map-label-stroke)').attr('stroke-width', 3.2)
     .style('font-size', '12px').style('font-weight', '600').text(n => n.name);
 
   const subcatLabels = labelLayer
     .selectAll<SVGTextElement, GeoNode>('text.geo-subcat-label').data(allSubcats).join('text')
     .attr('class', 'geo-subcat-label').attr('text-anchor', 'middle').attr('dominant-baseline', 'middle')
-    .attr('fill', '#c8e8ff').attr('paint-order', 'stroke')
-    .attr('stroke', 'rgba(2,10,18,0.86)').attr('stroke-width', 2.8)
+    .attr('fill', 'var(--map-label-3)').attr('paint-order', 'stroke')
+    .attr('stroke', 'var(--map-label-stroke)').attr('stroke-width', 2.8)
     .style('font-size', '10px').text(n => n.name);
 
   const linkLabels = labelLayer
     .selectAll<SVGTextElement, GeoNode>('text.geo-link-label').data(allLinks).join('text')
     .attr('class', 'geo-link-label').attr('text-anchor', 'middle').attr('dominant-baseline', 'middle')
-    .attr('fill', '#b0d8f0').attr('paint-order', 'stroke')
-    .attr('stroke', 'rgba(2,10,18,0.9)').attr('stroke-width', 2.4)
+    .attr('fill', 'var(--map-label-link)').attr('paint-order', 'stroke')
+    .attr('stroke', 'var(--map-label-stroke)').attr('stroke-width', 2.4)
     .style('font-size', '8px').text(n => n.name);
 
   function applyTransform(): void {

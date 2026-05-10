@@ -1,8 +1,11 @@
 ---
+import Icon from './Icon.astro';
+import type { IconName } from './Icon.astro';
+
 interface SidebarItem {
   text: string;
   href: string;
-  icon?: string;
+  icon?: IconName;
   isActive: boolean;
 }
 
@@ -73,12 +76,12 @@ const postSections: SidebarSection[] = [
 ];
 
 const mapItems: SidebarItem[] = [
-  { text: 'Open Dashboard', href: `${BASE}map/`, isActive: isPathActive(`${BASE}map/`) },
-  { text: 'Classic View', href: `${BASE}map/?view=classic`, isActive: false },
-  { text: 'Semantic View', href: `${BASE}map/?view=semantic`, isActive: false },
-  { text: 'Geo View', href: `${BASE}map/?view=geo`, isActive: false },
-  { text: 'Blog Posts', href: `${BASE}posts/`, isActive: false },
-  { text: 'Categories', href: `${BASE}categories/`, isActive: false },
+  { text: 'Open Dashboard', href: `${BASE}map/`, icon: 'map', isActive: isPathActive(`${BASE}map/`) },
+  { text: 'Classic View', href: `${BASE}map/?view=classic`, icon: 'map', isActive: false },
+  { text: 'Semantic View', href: `${BASE}map/?view=semantic`, icon: 'map', isActive: false },
+  { text: 'Geo View', href: `${BASE}map/?view=geo`, icon: 'map', isActive: false },
+  { text: 'Blog Posts', href: `${BASE}posts/`, icon: 'posts', isActive: false },
+  { text: 'Categories', href: `${BASE}categories/`, icon: 'categories', isActive: false },
 ];
 
 // Determine which sidebar to show
@@ -121,7 +124,10 @@ const title = showPostsSidebar ? 'Posts' : showMapSidebar ? 'Link Dashboard' : '
                   class={`vp-sidebar-item-link ${item.isActive ? 'active' : ''}`}
                   href={item.href}
                 >
-                  <span>{item.text}</span>
+                  <span class="vp-sidebar-item-content">
+                    <Icon name={item.icon ?? 'posts'} class="vp-sidebar-link-icon" />
+                    <span>{item.text}</span>
+                  </span>
                 </a>
               ))}
             </div>
@@ -134,7 +140,10 @@ const title = showPostsSidebar ? 'Posts' : showMapSidebar ? 'Link Dashboard' : '
               class={`vp-sidebar-item-link ${item.isActive ? 'active' : ''}`}
               href={item.href}
             >
-              <span>{item.text}</span>
+              <span class="vp-sidebar-item-content">
+                {item.icon && <Icon name={item.icon} class="vp-sidebar-link-icon" />}
+                <span>{item.text}</span>
+              </span>
             </a>
           ))}
         </div>

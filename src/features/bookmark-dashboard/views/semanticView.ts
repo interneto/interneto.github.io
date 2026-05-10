@@ -237,8 +237,8 @@ export function renderSemantic(
     .selectAll<SVGTextElement, SemanticIsland>('text.island-label')
     .data(layout.islands).join('text')
     .attr('class', 'island-label').attr('text-anchor', 'middle').attr('dominant-baseline', 'middle')
-    .attr('fill', '#edf7ff').attr('paint-order', 'stroke')
-    .attr('stroke', 'rgba(0, 12, 22, 0.9)').attr('stroke-width', 3)
+    .attr('fill', 'var(--map-label-1)').attr('paint-order', 'stroke')
+    .attr('stroke', 'var(--map-label-stroke)').attr('stroke-width', 3)
     .style('font-size', '13px')
     .text(n => `${n.name} (${n.count})`);
 
@@ -246,8 +246,8 @@ export function renderSemantic(
     .selectAll<SVGTextElement, SemanticRegion>('text.region-label')
     .data(layout.regions).join('text')
     .attr('class', 'region-label').attr('text-anchor', 'middle').attr('dominant-baseline', 'middle')
-    .attr('fill', '#d8f0ff').attr('paint-order', 'stroke')
-    .attr('stroke', 'rgba(0, 12, 22, 0.88)').attr('stroke-width', 3)
+    .attr('fill', 'var(--map-label-2)').attr('paint-order', 'stroke')
+    .attr('stroke', 'var(--map-label-stroke)').attr('stroke-width', 3)
     .style('font-size', '11px')
     .text(n => n.name);
 
@@ -255,8 +255,8 @@ export function renderSemantic(
     .selectAll<SVGTextElement, SemanticLink>('text.semantic-link-label')
     .data(layout.links).join('text')
     .attr('class', 'semantic-link-label').attr('dominant-baseline', 'middle')
-    .attr('fill', '#b8d9eb').attr('paint-order', 'stroke')
-    .attr('stroke', 'rgba(0, 12, 22, 0.92)').attr('stroke-width', 3)
+    .attr('fill', 'var(--map-label-3)').attr('paint-order', 'stroke')
+    .attr('stroke', 'var(--map-label-stroke)').attr('stroke-width', 3)
     .style('font-size', '10px')
     .text(n => n.title);
 
@@ -266,7 +266,7 @@ export function renderSemantic(
   }
 
   function updateLabelVisibility(scale: number): void {
-    islandLabels.each(function (node) {
+    islandLabels.each(function (this: SVGTextElement, node) {
       const tx  = zoomState.transform.applyX(node.x);
       const ty  = zoomState.transform.applyY(node.y);
       const show = scale <= 2.8 || node.radius * scale > 80;
@@ -275,7 +275,7 @@ export function renderSemantic(
       el.attr('display', null).attr('x', tx + margin).attr('y', ty + margin);
     });
 
-    regionLabels.each(function (node) {
+    regionLabels.each(function (this: SVGTextElement, node) {
       const tx   = zoomState.transform.applyX(node.x);
       const ty   = zoomState.transform.applyY(node.y);
       const show = scale >= 0.95 && node.radius * scale > 34;
@@ -284,7 +284,7 @@ export function renderSemantic(
       el.attr('display', null).attr('x', tx + margin).attr('y', ty + margin);
     });
 
-    linkLabels.each(function (node) {
+    linkLabels.each(function (this: SVGTextElement, node) {
       const tx   = zoomState.transform.applyX(node.x + 4);
       const ty   = zoomState.transform.applyY(node.y);
       const show = scale >= 3.2;

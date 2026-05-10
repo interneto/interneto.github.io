@@ -194,9 +194,9 @@ export function renderClassic(
     .attr('text-anchor', 'middle')
     .attr('dominant-baseline', 'middle')
     .text((node) => node.data.name)
-    .attr('fill', '#e7f3ff')
+    .attr('fill', 'var(--map-label-1)')
     .attr('paint-order', 'stroke')
-    .attr('stroke', 'rgba(0, 12, 22, 0.92)')
+    .attr('stroke', 'var(--map-label-stroke)')
     .attr('stroke-width', 3)
     .style('font-size', '12px');
 
@@ -207,9 +207,9 @@ export function renderClassic(
     .attr('class', 'link-label')
     .attr('dominant-baseline', 'middle')
     .text((node) => node.data.name)
-    .attr('fill', '#abd1df')
+    .attr('fill', 'var(--map-label-3)')
     .attr('paint-order', 'stroke')
-    .attr('stroke', 'rgba(0, 12, 22, 0.92)')
+    .attr('stroke', 'var(--map-label-stroke)')
     .attr('stroke-width', 3)
     .style('font-size', '10px');
 

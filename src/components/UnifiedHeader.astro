@@ -1,5 +1,6 @@
 ---
 import { isToolboxRoute } from '../scripts/toolbox-routes';
+import Icon from './Icon.astro';
 
 const BASE = import.meta.env.BASE_URL.replace(/\/?$/, '/');
 const pathname = Astro.url.pathname;
@@ -27,14 +28,17 @@ const isActive = (href: string, startsWith: string) => {
   <div class="vp-shell-header-inner">
     <a class="vp-shell-brand" href={`${BASE}`}>Interneto</a>
     <div class="vp-shell-actions">
-      <nav class="vp-shell-nav" aria-label="Navegacion principal">
+      <nav class="vp-shell-nav" aria-label="Navegación principal">
         {links.map((link) => (
           <a class={`vp-shell-link ${isActive(link.href, link.startsWith) ? 'is-active' : ''}`} href={link.href}>
             {link.label}
           </a>
         ))}
       </nav>
-      <button type="button" id="themeToggle" class="theme-toggle" aria-label="Switch to dark mode" title="Dark mode">🌙</button>
+      <button type="button" id="themeToggle" data-theme-toggle class="theme-toggle" aria-label="Switch to dark mode" title="Dark mode">
+        <Icon name="moon" class="theme-toggle-icon theme-toggle-icon-moon" />
+        <Icon name="sun" class="theme-toggle-icon theme-toggle-icon-sun" />
+      </button>
     </div>
   </div>
 </header>
