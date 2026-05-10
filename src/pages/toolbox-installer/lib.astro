@@ -15,6 +15,7 @@ const options = [
   options={options}
   showFossToggle={false}
   showFileInput={false}
+  showInternalToggle={true}
 >
   <div slot="selectors" class="os-selector-container">
     <div class="primary-os-selector" id="langSelector" role="group" aria-label="Select programming language"></div>
@@ -23,11 +24,6 @@ const options = [
       <button type="button" class="distro-btn" data-tool="gradle">Gradle (build.gradle)</button>
     </div>
   </div>
-
-  <button slot="controls" type="button" class="toggle-all-btn" id="internalToggleBtn" title="Show or hide internal libraries">
-    <span>🧪</span>
-    <span id="internalToggleLabel">Show internal</span>
-  </button>
 
   <ToolboxResultsContainer slot="content" id="libContainer" role="list" ariaLabel="Library categories" />
 

@@ -47,6 +47,7 @@
                 { "name": "vite", "display": "Vite", "badges": ["popular", "modern"] },
                 { "name": "webpack", "display": "Webpack", "badges": ["popular"] },
                 { "name": "esbuild", "display": "esbuild", "badges": ["modern", "lightweight"] },
+                { "name": "terser", "display": "Terser", "badges": ["popular", "lightweight"] },
                 { "name": "rollup", "display": "Rollup", "badges": ["popular"] },
                 { "name": "parcel", "display": "Parcel", "badges": ["lightweight"] }
             ],

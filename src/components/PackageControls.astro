@@ -13,19 +13,27 @@ const {
 ---
 <div class="page-controls">
   <div class="page-controls-panel main-controls">
-    <input id="searchInput" class="search-input" type="search" placeholder={searchPlaceholder} />
-    <label class="select-all-control">
-      <input type="checkbox" id="selectAllCheckbox" class="select-all-checkbox" />
-      <span id="selectAllLabel">Select</span>
-    </label>
-    <button type="button" class="toggle-all-btn" id="toggleAllBtn" title="Collapse/Expand all categories">
-      <span id="toggleAllIcon">▼</span>
-      <span id="toggleAllLabel">Collapse</span>
-    </button>
-    {showFossToggle && (
-      <button type="button" class="foss-toggle-btn" id="fossToggleBtn" title="Show only Free and Open Source Software">🌿 FOSS</button>
-    )}
-    <slot />
+    <input id="searchInput" class="search-input" type="search" placeholder={searchPlaceholder} aria-label="Search" />
+    
+    <div class="controls-group">
+      <label class="select-all-control" title="Select or deselect all items">
+        <input type="checkbox" id="selectAllCheckbox" class="select-all-checkbox" aria-label="Select all" />
+        <span id="selectAllLabel" class="control-label">Select</span>
+      </label>
+      
+      <button type="button" class="control-btn toggle-all-btn" id="toggleAllBtn" title="Collapse/Expand all categories" aria-label="Toggle all categories">
+        <span id="toggleAllIcon" class="toggle-icon">▼</span>
+        <span id="toggleAllLabel" class="control-label">Collapse</span>
+      </button>
+      
+      {showFossToggle && (
+        <button type="button" class="control-btn foss-toggle-btn" id="fossToggleBtn" title="Show only Free and Open Source Software" aria-label="Toggle FOSS filter">🌿 <span class="control-label">FOSS</span></button>
+      )}
+    </div>
+    
+    <div class="controls-trailing">
+      <slot />
+    </div>
   </div>
-  {showFileInput && <input type="file" id="fileInput" accept=".json" style="display: none;" />}
+  {showFileInput && <input type="file" id="fileInput" accept=".json" style="display: none;" aria-label="Import packages from JSON" />}
 </div>

@@ -1,0 +1,131 @@
+---
+interface SelectOption {
+  value: string;
+  label: string;
+}
+
+export interface Props {
+  searchPlaceholder?: string;
+  showFossToggle?: boolean;
+  showFileInput?: boolean;
+  showInternalToggle?: boolean;
+  browserSelectionOptions?: Array<{ value: string; label: string }>;
+  options?: SelectOption[];
+  optionsId?: string;
+  optionsPlaceholder?: string;
+}
+
+const {
+  searchPlaceholder = 'Search packages by name',
+  showFossToggle = true,
+  showFileInput = true,
+  showInternalToggle = false,
+  browserSelectionOptions = [],
+  options = [],
+  optionsId = 'optionsSelect',
+  optionsPlaceholder = '⚙️ Options',
+} = Astro.props;
+---
+
+<div class="page-controls">
+  <div class="page-controls-panel main-controls">
+    <input
+      id="searchInput"
+      class="search-input"
+      type="search"
+      placeholder={searchPlaceholder}
+      aria-label="Search"
+    />
+
+    <div class="controls-group">
+      {/* SELECT ALL */}
+      <label class="select-all-control" title="Select or deselect all items">
+        <input
+          type="checkbox"
+          id="selectAllCheckbox"
+          class="select-all-checkbox"
+          aria-label="Select all"
+        />
+        <span id="selectAllLabel" class="control-label">Select</span>
+      </label>
+
+      {/* COLLAPSE/EXPAND */}
+      <button
+        type="button"
+        class="control-btn toggle-all-btn"
+        id="toggleAllBtn"
+        title="Collapse/Expand all categories"
+        aria-label="Toggle all categories"
+      >
+        <span id="toggleAllIcon" class="toggle-icon">▼</span>
+        <span id="toggleAllLabel" class="control-label">Collapse</span>
+      </button>
+
+      {/* FOSS TOGGLE */}
+      {showFossToggle && (
+        <button
+          type="button"
+          class="control-btn foss-toggle-btn"
+          id="fossToggleBtn"
+          title="Show only Free and Open Source Software"
+          aria-label="Toggle FOSS filter"
+        >
+          🌿 <span class="control-label">FOSS</span>
+        </button>
+      )}
+
+      {/* SHOW INTERNAL (Library) */}
+      {showInternalToggle && (
+        <button
+          type="button"
+          class="control-btn internal-toggle-btn"
+          id="internalToggleBtn"
+          title="Show or hide internal libraries"
+          aria-label="Toggle internal libraries"
+        >
+          <span>🧪</span>
+          <span id="internalToggleLabel" class="control-label">Internal</span>
+        </button>
+      )}
+
+      {/* BROWSER SELECTION (Browser Extensions) */}
+      {browserSelectionOptions.length > 0 && (
+        <select
+          id="browserSelect"
+          class="control-select platform-select"
+          aria-label="Select browser"
+        >
+          {browserSelectionOptions.map((option) => (
+            <option value={option.value}>{option.label}</option>
+          ))}
+        </select>
+      )}
+    </div>
+
+    <div class="controls-trailing">
+      {/* OPTIONS SELECT */}
+      {options.length > 0 && (
+        <select id={optionsId} class="options-select">
+          <option value="" hidden selected>
+            {optionsPlaceholder}
+          </option>
+          {options.map((option) => (
+            <option value={option.value}>{option.label}</option>
+          ))}
+        </select>
+      )}
+
+      <slot />
+    </div>
+  </div>
+
+  {showFileInput && (
+    <input
+      type="file"
+      id="fileInput"
+      accept=".json"
+      style="display: none;"
+      aria-label="Import packages from JSON"
+    />
+  )}
+</div>

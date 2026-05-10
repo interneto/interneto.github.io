@@ -383,3 +383,9 @@ export function initLibCompat() {
     setupSearch();
     setupVisibilityFilter();
 }
+
+if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initLibCompat);
+} else {
+    initLibCompat();
+}

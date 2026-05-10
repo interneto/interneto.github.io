@@ -1,7 +1,7 @@
 ---
 import InstallerLayout from '../layouts/InstallerLayout.astro';
 import CommandFooter from './CommandFooter.astro';
-import ToolboxControls from './ToolboxControls.astro';
+import UnifiedControls from './UnifiedControls.astro';
 
 interface SelectOption {
   value: string;
@@ -18,6 +18,8 @@ export interface Props {
   optionsPlaceholder?: string;
   showFossToggle?: boolean;
   showFileInput?: boolean;
+  showInternalToggle?: boolean;
+  browserSelectionOptions?: Array<{ value: string; label: string }>;
   useForm?: boolean;
   formId?: string;
 }
@@ -32,6 +34,8 @@ const {
   optionsPlaceholder = '⚙️ Options',
   showFossToggle = true,
   showFileInput = true,
+  showInternalToggle = false,
+  browserSelectionOptions = [],
   useForm = false,
   formId,
 } = Astro.props;
@@ -47,17 +51,16 @@ const {
       <form id={formId}>
         <div class="container">
           <slot name="selectors" />
-          <ToolboxControls
+          <UnifiedControls
             searchPlaceholder={searchPlaceholder}
             options={options}
             optionsId={optionsId}
             optionsPlaceholder={optionsPlaceholder}
             showFossToggle={showFossToggle}
             showFileInput={showFileInput}
-          >
-            <slot name="controls" slot="leading-controls" />
-            <slot name="trailing-controls" slot="trailing-controls" />
-          </ToolboxControls>
+            showInternalToggle={showInternalToggle}
+            browserSelectionOptions={browserSelectionOptions}
+          />
         </div>
         <slot name="content" />
       </form>
@@ -65,17 +68,16 @@ const {
       <>
         <div class="container">
           <slot name="selectors" />
-          <ToolboxControls
+          <UnifiedControls
             searchPlaceholder={searchPlaceholder}
             options={options}
             optionsId={optionsId}
             optionsPlaceholder={optionsPlaceholder}
             showFossToggle={showFossToggle}
             showFileInput={showFileInput}
-          >
-            <slot name="controls" slot="leading-controls" />
-            <slot name="trailing-controls" slot="trailing-controls" />
-          </ToolboxControls>
+            showInternalToggle={showInternalToggle}
+            browserSelectionOptions={browserSelectionOptions}
+          />
         </div>
         <slot name="content" />
       </>

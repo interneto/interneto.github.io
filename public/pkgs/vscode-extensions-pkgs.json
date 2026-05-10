@@ -56,6 +56,10 @@
       "name": "GitHub Pull Requests",
       "category": "AI"
     },
+    "Google.colab": {
+      "name": "Google Colab",
+      "category": "AI"
+    },
     "ms-vscode.hexeditor": {
       "name": "Hex Editor",
       "category": "Utilities"
