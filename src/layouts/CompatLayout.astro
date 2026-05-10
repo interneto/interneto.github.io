@@ -1,5 +1,5 @@
 ---
-import BaseLayout from './BaseLayout.astro';
+import VPLayout from './VPLayout.astro';
 
 interface Props {
   title: string;
@@ -21,7 +21,7 @@ const {
   searchPlaceholder = 'Search...',
 } = Astro.props;
 ---
-<BaseLayout title={title} extraStyles={['styles/os-compatibility.css', ...extraStyles]}>
+<VPLayout title={title} hasSidebar={false} extraStyles={['styles/os-compatibility.css', ...extraStyles]}>
   <div class="container">
     <header class="page-header">
       <h1>{heading}</h1>
@@ -40,4 +40,4 @@ const {
     <slot name="extra" />
   </div>
   <slot name="script" />
-</BaseLayout>
+</VPLayout>

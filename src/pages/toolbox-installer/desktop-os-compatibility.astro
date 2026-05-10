@@ -1,30 +1,31 @@
 ---
-import CompatLayout from '../../layouts/CompatLayout.astro';
+import CompatibilityTablePage from '../../components/CompatibilityTablePage.astro';
+import osCompatInitScriptUrl from '../../scripts/os-compat-init.ts?url';
 ---
-<CompatLayout
+<CompatibilityTablePage
   title="Package OS Compatibility"
   heading="🖥️ Package OS Compatibility"
   subtitle="Application availability across different operating systems."
   installerHref="desktop"
   installerLabel="Go to Installer"
   searchPlaceholder="Search package or category"
+  pageNote="Note: some vendor suites are not listed (Adobe, Autodesk, Apple, Microsoft)."
 >
-  <div slot="controls" class="page-controls-panel">
-    <div class="page-filter-row filter-chips" role="group" aria-label="Filter by OS availability">
-      <button type="button" class="filter-chip active" data-os="all" aria-pressed="true">All</button>
-      <button type="button" class="filter-chip" data-os="windows" aria-pressed="false">Windows</button>
-      <button type="button" class="filter-chip" data-os="macos" aria-pressed="false">macOS</button>
-      <button type="button" class="filter-chip" data-os="linux" aria-pressed="false">Linux</button>
-      <button type="button" class="filter-chip" data-os="freebsd" aria-pressed="false">FreeBSD</button>
-    </div>
+  <div slot="controls" class="page-filter-row filter-chips" role="group" aria-label="Filter by OS availability">
+    <button type="button" class="filter-chip active" data-os="all" aria-pressed="true">All</button>
+    <button type="button" class="filter-chip" data-os="windows" aria-pressed="false">Windows</button>
+    <button type="button" class="filter-chip" data-os="macos" aria-pressed="false">macOS</button>
+    <button type="button" class="filter-chip" data-os="linux" aria-pressed="false">Linux</button>
+    <button type="button" class="filter-chip" data-os="freebsd" aria-pressed="false">FreeBSD</button>
   </div>
+
   <div slot="legend" class="legend" aria-label="OS compatibility legend">
     <div class="legend-item"><span class="legend-icon">✅</span> Available (via package manager)</div>
     <div class="legend-item"><span class="legend-icon">⚠️</span> Available (manual installation)</div>
     <div class="legend-item"><span class="legend-icon">❌</span> Not available</div>
     <div class="legend-item legend-note">Linux includes: pacman + AUR, apt, rpm, emerge, flatpak, snap, nix</div>
   </div>
-  <p class="page-note">Note: some vendor suites are not listed (Adobe, Autodesk, Apple, Microsoft).</p>
+
   <div class="table-container">
     <table id="packagesTable">
       <thead>
@@ -52,6 +53,7 @@ import CompatLayout from '../../layouts/CompatLayout.astro';
       <tbody id="tableBody"></tbody>
     </table>
   </div>
+
   <div class="stats">
     <div class="stat-item"><div class="stat-number" id="totalPackages">0</div><div class="stat-label">Total Packages</div></div>
     <div class="stat-item"><div class="stat-number" id="windowsCount">0</div><div class="stat-label">Windows</div></div>
@@ -59,7 +61,6 @@ import CompatLayout from '../../layouts/CompatLayout.astro';
     <div class="stat-item"><div class="stat-number" id="linuxCount">0</div><div class="stat-label">Linux</div></div>
     <div class="stat-item"><div class="stat-number" id="freebsdCount">0</div><div class="stat-label">FreeBSD</div></div>
   </div>
-  <script>
-    import '../../scripts/os-compat-init';
-  </script>
-</CompatLayout>
+
+  <script slot="script" type="module" src={osCompatInitScriptUrl}></script>
+</CompatibilityTablePage>
