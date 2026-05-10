@@ -21,6 +21,31 @@ interface PackagesData {
   packages: Record<string, PackageInfo>;
 }
 
+const DEFAULT_ICON_EXTENSIONS = ['svg', 'png', 'jpg', 'jpeg', 'webp'];
+
+// Some app icons in the repo are only available as png/jpg, so prefer those first.
+const ICON_EXTENSION_OVERRIDES: Record<string, string[]> = {
+        'gpx-viewer': ['png', 'svg', 'jpg', 'jpeg', 'webp'],
+        'lawnchair': ['jpg', 'png', 'svg', 'jpeg', 'webp'],
+        'piano-companion': ['png', 'svg', 'jpg', 'jpeg', 'webp'],
+        'mobilesheets': ['png', 'svg', 'jpg', 'jpeg', 'webp'],
+        'guitar-tuner': ['jpg', 'png', 'svg', 'jpeg', 'webp'],
+        'google-edge-gallery': ['png', 'svg', 'jpg', 'jpeg', 'webp'],
+        'myrecipebox': ['png', 'svg', 'jpg', 'jpeg', 'webp'],
+        'bring': ['png', 'svg', 'jpg', 'jpeg', 'webp'],
+        'google-weather': ['png', 'svg', 'jpg', 'jpeg', 'webp'],
+        'cloudflare-1111': ['png', 'svg', 'jpg', 'jpeg', 'webp'],
+        'read-era-premium': ['png', 'svg', 'jpg', 'jpeg', 'webp'],
+        'sun-surveyor': ['png', 'svg', 'jpg', 'jpeg', 'webp'],
+        'hyper-calc-pro': ['png', 'svg', 'jpg', 'jpeg', 'webp'],
+};
+
+function getIconExtensionCandidates(pkgKey: string): string[] {
+        const override = ICON_EXTENSION_OVERRIDES[pkgKey] ?? [];
+        const merged = [...override, ...DEFAULT_ICON_EXTENSIONS];
+        return merged.filter((ext, index) => merged.indexOf(ext) === index);
+}
+
 /**
  * Generate and insert the complete packages UI structure
  */
@@ -190,10 +215,16 @@ function createSubcategorySection(
             packageCheckbox.dataset.category = pkgInfo.category;
             
             const packageImg = document.createElement('img');
-            const iconExtensions = ['svg', 'png', 'jpg', 'jpeg', 'webp'];
+            packageImg.classList.add('pkg-icon');
+            packageImg.loading = 'lazy';
+            packageImg.decoding = 'async';
+
+            const iconExtensions = getIconExtensionCandidates(pkgKey);
             let iconIndex = 0;
             const setIconSource = () => {
                 if (iconIndex >= iconExtensions.length) {
+                    packageImg.src = `${CONFIG.IMAGE_PATH}no.svg`;
+                    packageImg.classList.add('pkg-icon-fallback');
                     return;
                 }
                 packageImg.src = `${CONFIG.IMAGE_PATH}${pkgKey}.${iconExtensions[iconIndex]}`;

@@ -240,11 +240,11 @@ form {
     display: flex;
     flex-wrap: wrap;
     gap: var(--spacing-md);
-    padding: var(--spacing-md);
-    background: linear-gradient(180deg, var(--card-background), color-mix(in srgb, var(--card-background) 94%, var(--primary-color) 6%));
-    border: 1px solid var(--border-color);
-    border-radius: 16px;
-    box-shadow: inset 0 1px 0 var(--neutral-overlay-10);
+    padding: calc(var(--spacing-md) + 2px);
+    background: linear-gradient(180deg, color-mix(in srgb, var(--card-background) 90%, var(--primary-color) 10%), color-mix(in srgb, var(--card-background) 96%, var(--primary-color) 4%));
+    border: 1px solid color-mix(in srgb, var(--border-color) 70%, var(--primary-color) 30%);
+    border-radius: 18px;
+    box-shadow: inset 0 1px 0 var(--neutral-overlay-10), 0 6px 18px var(--neutral-overlay-10);
     width: 100%;
     max-width: 100%;
     --main-control-height: 44px;
@@ -260,9 +260,14 @@ form {
 }
 
 .main-controls>.search-input {
-    flex: 1 1 180px;
-    width: auto;
-    min-width: 120px;
+    order: 99;
+    flex: 1 1 100%;
+    width: 100%;
+    min-width: 0;
+    border-radius: 12px;
+    border-width: 1px;
+    background: color-mix(in srgb, var(--card-background) 88%, var(--primary-color) 12%);
+    box-shadow: inset 0 0 0 1px color-mix(in srgb, var(--border-color) 72%, var(--primary-color) 28%);
 }
 
 .select-all-control {
@@ -285,7 +290,7 @@ form {
     height: var(--main-control-height);
     gap: 6px;
     padding: var(--spacing-xs) var(--spacing-sm);
-    background-color: transparent;
+    background-color: color-mix(in srgb, var(--card-background) 86%, var(--primary-color) 14%);
     border: 1px solid var(--border-color);
     border-radius: 999px;
     cursor: pointer;
@@ -295,8 +300,13 @@ form {
 }
 
 .toggle-all-btn:hover {
-    background-color: var(--hover-bg);
+    background-color: color-mix(in srgb, var(--hover-bg) 80%, var(--primary-color) 20%);
     border-color: var(--primary-color);
+}
+
+.toggle-all-btn:active {
+    transform: translateY(1px);
+    background-color: color-mix(in srgb, var(--primary-color) 24%, var(--card-background));
 }
 
 .toggle-all-btn:focus {
@@ -321,7 +331,7 @@ form {
     height: var(--main-control-height);
     gap: 6px;
     padding: var(--spacing-xs) var(--spacing-sm);
-    background-color: transparent;
+    background-color: color-mix(in srgb, var(--card-background) 88%, var(--success-color) 12%);
     border: 1px solid var(--border-color);
     border-radius: 999px;
     cursor: pointer;
@@ -331,8 +341,12 @@ form {
 }
 
 .foss-toggle-btn:hover {
-    background-color: var(--hover-bg);
+    background-color: color-mix(in srgb, var(--hover-bg) 82%, var(--success-color) 18%);
     border-color: var(--success-color);
+}
+
+.foss-toggle-btn:active {
+    transform: translateY(1px);
 }
 
 .foss-toggle-btn:focus {
@@ -344,6 +358,9 @@ form {
     height: var(--main-control-height);
     padding: 0 var(--spacing-sm);
     box-sizing: border-box;
+    background: color-mix(in srgb, var(--card-background) 86%, var(--primary-color) 14%);
+    border: 1px solid color-mix(in srgb, var(--border-color) 70%, var(--primary-color) 30%);
+    border-radius: 999px;
 }
 
 .foss-toggle-btn.active {
@@ -431,9 +448,10 @@ form {
 .package-container {
     max-width: 2200px;
     margin: var(--spacing-md) auto 0 auto;
-    background: var(--card-background);
-    border-radius: 8px;
-    box-shadow: var(--shadow-light);
+    background: linear-gradient(180deg, color-mix(in srgb, var(--card-background) 94%, var(--primary-color) 6%), var(--card-background));
+    border-radius: 14px;
+    border: 1px solid color-mix(in srgb, var(--border-color) 78%, var(--primary-color) 22%);
+    box-shadow: var(--shadow-light), inset 0 1px 0 var(--neutral-overlay-10);
     padding: var(--spacing-md);
     min-height: 200px;
     position: relative;
@@ -503,10 +521,18 @@ form {
 }
 
 .column {
-    background: var(--card-background);
-    border: 1px solid var(--border-color);
-    border-radius: var(--border-radius);
+    background: linear-gradient(180deg, color-mix(in srgb, var(--card-background) 97%, var(--primary-color) 3%), color-mix(in srgb, var(--card-background) 91%, var(--primary-color) 9%));
+    border: 1px solid color-mix(in srgb, var(--border-color) 66%, var(--primary-color) 34%);
+    border-radius: 12px;
     padding: var(--spacing-md);
+    box-shadow: inset 0 0 0 1px var(--neutral-overlay-05);
+}
+
+.category {
+    border: 1px solid color-mix(in srgb, var(--border-color) 72%, var(--primary-color) 28%);
+    border-radius: 12px;
+    padding: 8px;
+    background: color-mix(in srgb, var(--card-background) 94%, var(--primary-color) 6%);
 }
 
 .category-header {
@@ -516,7 +542,8 @@ form {
     margin-bottom: var(--spacing-sm);
     padding: var(--spacing-sm);
     cursor: pointer;
-    border-radius: 8px;
+    border-radius: 10px;
+    border: 1px solid color-mix(in srgb, var(--border-color) 70%, var(--primary-color) 30%);
     transition: all 0.3s ease;
     background: var(--category-gradient);
     box-shadow: var(--shadow-light);
@@ -526,6 +553,11 @@ form {
     background: var(--category-gradient-hover);
     transform: translateY(-1px);
     box-shadow: var(--shadow-hover);
+}
+
+.category-header:active {
+    transform: translateY(0);
+    background: color-mix(in srgb, var(--category-gradient-hover) 86%, var(--primary-color) 14%);
 }
 
 .category-header:focus {
@@ -587,6 +619,9 @@ form {
     max-height: 5000px;
     overflow: hidden;
     transition: max-height 0.3s ease;
+    border-top: 1px dashed color-mix(in srgb, var(--border-color) 70%, var(--primary-color) 30%);
+    padding-top: var(--spacing-xs);
+    margin-top: var(--spacing-xs);
 }
 
 .category.collapsed .category-content {
@@ -610,13 +645,20 @@ form {
     align-items: center;
     margin-bottom: var(--spacing-xs);
     padding: var(--spacing-xs);
-    border-radius: 4px;
-    transition: background-color 0.2s ease;
+    border-radius: 8px;
+    border: 1px solid transparent;
+    transition: background-color 0.2s ease, border-color 0.2s ease;
     gap: var(--spacing-sm);
 }
 
 .column label:hover {
-    background-color: var(--hover-bg);
+    background-color: color-mix(in srgb, var(--hover-bg) 78%, var(--primary-color) 22%);
+    border-color: color-mix(in srgb, var(--border-color) 62%, var(--primary-color) 38%);
+}
+
+.column label:has(input[type="checkbox"]:checked) {
+    background-color: color-mix(in srgb, var(--primary-color) 16%, var(--card-background));
+    border-color: color-mix(in srgb, var(--primary-color) 45%, var(--border-color));
 }
 
 .column input[type="checkbox"] {
@@ -628,12 +670,24 @@ form {
     flex-shrink: 0;
 }
 
+.pkg-icon {
+    border-radius: 6px;
+    background: color-mix(in srgb, var(--card-background) 92%, var(--primary-color) 8%);
+    border: 1px solid color-mix(in srgb, var(--border-color) 75%, var(--primary-color) 25%);
+    padding: 1px;
+}
+
+.pkg-icon-fallback {
+    opacity: 0.75;
+}
+
 .os-selector-container {
     margin: var(--spacing-lg) 0;
     padding: var(--spacing-md);
-    background: var(--card-background);
-    border: 1px solid var(--border-color);
-    border-radius: var(--border-radius);
+    background: linear-gradient(180deg, color-mix(in srgb, var(--card-background) 90%, var(--primary-color) 10%), color-mix(in srgb, var(--card-background) 96%, var(--primary-color) 4%));
+    border: 1px solid color-mix(in srgb, var(--border-color) 72%, var(--primary-color) 28%);
+    border-radius: 14px;
+    box-shadow: inset 0 1px 0 var(--neutral-overlay-10);
 }
 
 .primary-os-selector {
@@ -687,6 +741,10 @@ form {
     color: var(--text-on-primary);
     border-color: var(--primary-color);
     box-shadow: var(--shadow-hover);
+}
+
+.os-btn:active {
+    transform: translateY(0);
 }
 
 .secondary-os-selector {
@@ -775,6 +833,10 @@ form {
     color: var(--text-on-primary);
     border-color: var(--primary-color);
     box-shadow: var(--shadow-light);
+}
+
+.distro-btn:active {
+    transform: translateY(0);
 }
 
 .secondary-os-selector a {
