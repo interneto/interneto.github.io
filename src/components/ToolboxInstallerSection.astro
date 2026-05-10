@@ -1,0 +1,86 @@
+---
+import InstallerLayout from '../layouts/InstallerLayout.astro';
+import CommandFooter from './CommandFooter.astro';
+import ToolboxControls from './ToolboxControls.astro';
+
+interface SelectOption {
+  value: string;
+  label: string;
+}
+
+export interface Props {
+  title: string;
+  heading: string;
+  extraStyles?: string[];
+  searchPlaceholder: string;
+  options?: SelectOption[];
+  optionsId?: string;
+  optionsPlaceholder?: string;
+  showFossToggle?: boolean;
+  showFileInput?: boolean;
+  useForm?: boolean;
+  formId?: string;
+}
+
+const {
+  title,
+  heading,
+  extraStyles = [],
+  searchPlaceholder,
+  options = [],
+  optionsId = 'optionsSelect',
+  optionsPlaceholder = '⚙️ Options',
+  showFossToggle = true,
+  showFileInput = true,
+  useForm = false,
+  formId,
+} = Astro.props;
+---
+
+<InstallerLayout
+  title={title}
+  heading={heading}
+  extraStyles={extraStyles}
+>
+  <section class="package-section">
+    {useForm ? (
+      <form id={formId}>
+        <div class="container">
+          <slot name="selectors" />
+          <ToolboxControls
+            searchPlaceholder={searchPlaceholder}
+            options={options}
+            optionsId={optionsId}
+            optionsPlaceholder={optionsPlaceholder}
+            showFossToggle={showFossToggle}
+            showFileInput={showFileInput}
+          >
+            <slot name="controls" slot="leading-controls" />
+            <slot name="trailing-controls" slot="trailing-controls" />
+          </ToolboxControls>
+        </div>
+        <slot name="content" />
+      </form>
+    ) : (
+      <>
+        <div class="container">
+          <slot name="selectors" />
+          <ToolboxControls
+            searchPlaceholder={searchPlaceholder}
+            options={options}
+            optionsId={optionsId}
+            optionsPlaceholder={optionsPlaceholder}
+            showFossToggle={showFossToggle}
+            showFileInput={showFileInput}
+          >
+            <slot name="controls" slot="leading-controls" />
+            <slot name="trailing-controls" slot="trailing-controls" />
+          </ToolboxControls>
+        </div>
+        <slot name="content" />
+      </>
+    )}
+  </section>
+  <CommandFooter />
+  <slot name="script" />
+</InstallerLayout>

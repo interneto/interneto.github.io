@@ -3,8 +3,31 @@ import { getCollection } from 'astro:content';
 import VPLayout from '../../layouts/VPLayout.astro';
 
 const BASE = import.meta.env.BASE_URL.replace(/\/?$/, '/');
-const posts = (await getCollection('posts')).sort((a, b) => a.id.localeCompare(b.id));
 const cleanSlug = (id: string) => id.replace(/\.md$/i, '');
+const sectionBySlug: Record<string, 'Comparing' | 'How-To' | 'Articles'> = {
+  'ai-coding-tools': 'Comparing',
+  'bookmark-managers': 'Comparing',
+  'linux-distros': 'Comparing',
+  'how-to-categorize-links': 'How-To',
+  'file-sync': 'How-To',
+  'cybersecurity-vulnerabilities': 'Articles',
+  'os-layer-stack': 'Articles',
+  'what-is-info': 'Articles',
+};
+
+const posts = (await getCollection('posts'))
+  .filter((entry) => cleanSlug(entry.id) !== 'index')
+  .sort((a, b) => a.id.localeCompare(b.id));
+
+const sectionOrder: Array<'Comparing' | 'How-To' | 'Articles'> = ['Comparing', 'How-To', 'Articles'];
+
+const groupedPosts = sectionOrder.map((section) => ({
+  section,
+  items: posts.filter((entry) => {
+    const slug = cleanSlug(entry.id);
+    return (sectionBySlug[slug] ?? 'Articles') === section;
+  })
+}));
 ---
 
 <VPLayout title="📑 Posts" hasSidebar={true}>
@@ -14,17 +37,22 @@ const cleanSlug = (id: string) => id.replace(/\.md$/i, '');
       <p class="vp-content-subtitle">Curated articles, guides, and insights about internet tools and organization.</p>
     </header>
 
-    <section class="vp-posts-grid" aria-label="Posts index">
-      {posts.map((entry) => (
-        <article class="vp-post-card">
-          <h2 class="vp-post-title">
-            <a href={`${BASE}posts/${cleanSlug(entry.id)}/`}>{entry.data.title ?? cleanSlug(entry.id)}</a>
-          </h2>
-          {entry.data.description && <p class="vp-post-description">{entry.data.description}</p>}
-          <a href={`${BASE}posts/${cleanSlug(entry.id)}/`} class="vp-post-link">Read more →</a>
-        </article>
-      ))}
-    </section>
+    {groupedPosts.map((group) => (
+      <section class="vp-posts-section" aria-label={`${group.section} posts`}>
+        <h2 class="vp-posts-section-title">{group.section}</h2>
+        <div class="vp-posts-grid">
+          {group.items.map((entry) => (
+            <article class="vp-post-card">
+              <h3 class="vp-post-title">
+                <a href={`${BASE}posts/${cleanSlug(entry.id)}/`}>{entry.data.title ?? cleanSlug(entry.id)}</a>
+              </h3>
+              {entry.data.description && <p class="vp-post-description">{entry.data.description}</p>}
+              <a href={`${BASE}posts/${cleanSlug(entry.id)}/`} class="vp-post-link">Read more →</a>
+            </article>
+          ))}
+        </div>
+      </section>
+    ))}
   </div>
 </VPLayout>
 
@@ -37,6 +65,21 @@ const cleanSlug = (id: string) => id.replace(/\.md$/i, '');
 
   .vp-content-header {
     margin-bottom: 48px;
+  }
+
+  .vp-posts-section {
+    margin-bottom: 44px;
+  }
+
+  .vp-posts-section:last-child {
+    margin-bottom: 0;
+  }
+
+  .vp-posts-section-title {
+    margin: 0 0 18px;
+    font-size: 1.25em;
+    color: var(--vp-c-text-1);
+    letter-spacing: 0.02em;
   }
 
   .vp-content-header h1 {

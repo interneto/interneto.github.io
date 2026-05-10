@@ -20,11 +20,19 @@ const BASE = import.meta.env.BASE_URL.replace(/\/?$/, '/');
   <script is:inline>
     (function () {
       try {
-        const theme = localStorage.getItem('theme-preference') || 'light';
-        document.documentElement.setAttribute('data-theme', theme);
-        document.documentElement.style.colorScheme = theme === 'dark' ? 'dark' : 'light';
+        const storedTheme = localStorage.getItem('theme-preference');
+        const legacyTheme = localStorage.getItem('vitepress-theme-appearance');
+        const preferredTheme = storedTheme || legacyTheme;
+        const theme = preferredTheme === 'dark' || preferredTheme === 'light'
+          ? preferredTheme
+          : (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+        const root = document.documentElement;
+        root.setAttribute('data-theme', theme);
+        root.classList.toggle('dark', theme === 'dark');
+        root.style.colorScheme = theme === 'dark' ? 'dark' : 'light';
       } catch (_) {
         document.documentElement.setAttribute('data-theme', 'light');
+        document.documentElement.classList.remove('dark');
         document.documentElement.style.colorScheme = 'light';
       }
     })();
@@ -40,7 +48,7 @@ const BASE = import.meta.env.BASE_URL.replace(/\/?$/, '/');
   <slot />
   {!hideFooter && <SiteFooter />}
   <script>
-    import '/src/scripts/theme-manager';
+    import '../scripts/theme-manager.ts';
   </script>
 </body>
 </html>

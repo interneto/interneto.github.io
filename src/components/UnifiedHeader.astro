@@ -1,4 +1,6 @@
 ---
+import { isToolboxRoute } from '../scripts/toolbox-routes';
+
 const BASE = import.meta.env.BASE_URL.replace(/\/?$/, '/');
 const pathname = Astro.url.pathname;
 
@@ -6,11 +8,14 @@ const links = [
   { href: `${BASE}`, label: 'Inicio', startsWith: `${BASE}` },
   { href: `${BASE}docs`, label: 'Docs', startsWith: `${BASE}docs` },
   { href: `${BASE}posts`, label: 'Posts', startsWith: `${BASE}posts` },
-  { href: `${BASE}desktop`, label: 'Toolbox', startsWith: `${BASE}desktop` },
+  { href: `${BASE}toolbox-installer`, label: 'Toolbox', startsWith: `${BASE}toolbox-installer` },
   { href: `${BASE}map`, label: 'Bookmark Map', startsWith: `${BASE}map` },
 ];
 
 const isActive = (href: string, startsWith: string) => {
+  if (href === `${BASE}toolbox-installer`) {
+    return isToolboxRoute(pathname, BASE);
+  }
   if (href === `${BASE}`) {
     return pathname === BASE;
   }

@@ -2,7 +2,7 @@
 import VPLayout from '../layouts/VPLayout.astro';
 ---
 
-<VPLayout title="Link Dashboard" hasSidebar={true} hideFooter={true}>
+<VPLayout title="Link Dashboard" hasSidebar={false} hideFooter={true}>
   <section class="map-page-shell">
     <div id="bookmark-dashboard-root"></div>
   </section>
@@ -14,10 +14,12 @@ import VPLayout from '../layouts/VPLayout.astro';
 
 <style>
   .map-page-shell {
-    min-height: calc(100vh - 61px);
+    height: calc(100dvh - 61px);
+    overflow: hidden;
   }
 
   #bookmark-dashboard-root {
-    min-height: calc(100vh - 61px);
+    height: 100%;
+    min-height: 0;
   }
 </style>

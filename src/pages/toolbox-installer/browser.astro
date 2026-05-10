@@ -1,0 +1,26 @@
+---
+import ToolboxInstallerSection from '../../components/ToolboxInstallerSection.astro';
+import ToolboxResultsContainer from '../../components/ToolboxResultsContainer.astro';
+import packagesTableScriptUrl from '../../scripts/packages-table.ts?url';
+
+const options = [
+  { value: 'exportPackages', label: '📤 Export Extensions (JSON)' },
+];
+---
+<ToolboxInstallerSection
+  title="Browser Extensions Installer"
+  heading="Browser Extensions Installer"
+  searchPlaceholder="Search by extension name"
+  options={options}
+  showFileInput={false}
+>
+  <select slot="controls" id="browserSelect" class="options-select">
+    <option value="both">🌐 Both browsers</option>
+    <option value="firefox">🦊 Firefox</option>
+    <option value="chromium">🔵 Chromium</option>
+  </select>
+
+  <ToolboxResultsContainer slot="content" id="browserExtensionsCategories" />
+
+  <script slot="script" type="module" src={packagesTableScriptUrl}></script>
+</ToolboxInstallerSection>

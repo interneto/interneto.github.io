@@ -5,6 +5,7 @@ import VPLayout from '../../layouts/VPLayout.astro';
 const BASE = import.meta.env.BASE_URL.replace(/\/?$/, '/');
 const allDocs = await getCollection('docs');
 const cleanSlug = (id: string) => id.replace(/\.md$/i, '');
+const HIDDEN_CATEGORY_PATTERN = /nsfw(?:-content)?/i;
 
 // Category icons mapping
 const categoryIcons: Record<string, string> = {
@@ -30,11 +31,14 @@ const categoryIcons: Record<string, string> = {
   'utility': '🔧',
 };
 
-// Filter to only include main categories (exclude about, index, nsfw pages)
+// Filter to only include main categories (exclude about, index)
 const docs = allDocs
   .filter(entry => {
     const slug = cleanSlug(entry.id);
-    return !['about', 'index', 'nsfw', 'nsfw_content'].includes(slug);
+    if (['about', 'index'].includes(slug)) {
+      return false;
+    }
+    return !HIDDEN_CATEGORY_PATTERN.test(slug);
   })
   .sort((a, b) => {
     // Sort by custom order based on the provided list

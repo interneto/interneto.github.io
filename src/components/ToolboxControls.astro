@@ -1,0 +1,45 @@
+---
+import PackageControls from './PackageControls.astro';
+
+interface SelectOption {
+  value: string;
+  label: string;
+}
+
+export interface Props {
+  searchPlaceholder: string;
+  options?: SelectOption[];
+  optionsId?: string;
+  optionsPlaceholder?: string;
+  showFossToggle?: boolean;
+  showFileInput?: boolean;
+}
+
+const {
+  searchPlaceholder,
+  options = [],
+  optionsId = 'optionsSelect',
+  optionsPlaceholder = '⚙️ Options',
+  showFossToggle = true,
+  showFileInput = true,
+} = Astro.props;
+---
+
+<PackageControls
+  searchPlaceholder={searchPlaceholder}
+  showFossToggle={showFossToggle}
+  showFileInput={showFileInput}
+>
+  <slot name="leading-controls" />
+
+  {options.length > 0 && (
+    <select id={optionsId} class="options-select">
+      <option value="" hidden selected>{optionsPlaceholder}</option>
+      {options.map((option) => (
+        <option value={option.value}>{option.label}</option>
+      ))}
+    </select>
+  )}
+
+  <slot name="trailing-controls" />
+</PackageControls>

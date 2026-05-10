@@ -71,6 +71,7 @@ body {
 .vp-shell-nav {
   display: flex;
   align-items: center;
+  justify-content: flex-end;
   gap: 12px;
   flex-wrap: wrap;
 }
@@ -78,7 +79,9 @@ body {
 .vp-shell-actions {
   display: flex;
   align-items: center;
+  justify-content: flex-end;
   gap: 10px;
+  margin-left: auto;
 }
 
 .vp-shell-link {

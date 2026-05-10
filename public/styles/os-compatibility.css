@@ -12,51 +12,24 @@
    ========================================================================== */
 body {
     min-height: 100vh;
-    padding: var(--spacing-md);
+    padding: 24px 18px 48px;
 }
 
 .page-header {
     position: relative;
-    margin-bottom: var(--spacing-md);
+    margin-bottom: 18px;
     text-align: center;
+    padding: 24px;
+    border: 1px solid var(--border-color);
+    border-radius: 22px;
+    background: radial-gradient(circle at top right, var(--neutral-overlay-10), transparent 40%), linear-gradient(180deg, color-mix(in srgb, var(--card-background) 90%, var(--primary-color) 10%), var(--card-background));
+    box-shadow: var(--shadow-hover);
 }
 
 .page-header h1 {
-    display: inline-block;
-    margin-right: 50px;
-}
-
-.theme-toggle {
-    position: absolute;
-    top: 0;
-    right: 0;
-    background: var(--card-background);
-    border: 2px solid var(--border-color);
-    border-radius: 50%;
-    width: 44px;
-    height: 44px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    cursor: pointer;
-    font-size: 20px;
-    transition: all 0.3s ease;
-    box-shadow: var(--shadow-light);
-}
-
-.theme-toggle:hover {
-    transform: scale(1.1) rotate(15deg);
-    box-shadow: var(--shadow-hover);
-    border-color: var(--primary-color);
-}
-
-.theme-toggle:focus {
-    outline: 3px solid var(--focus-ring-color);
-    outline-offset: 2px;
-}
-
-.theme-toggle:active {
-    transform: scale(0.95);
+    display: block;
+    margin: 0;
+    font-size: clamp(1.8rem, 4vw, 3rem);
 }
 
 /* ==========================================================================
@@ -65,8 +38,10 @@ body {
 
 /* Container */
 .container {
-    padding: var(--spacing-lg);
-    border-radius: 8px;
+    padding: clamp(16px, 2vw, 28px);
+    border-radius: 18px;
+    border: 1px solid var(--border-color);
+    background: color-mix(in srgb, var(--card-background) 94%, var(--primary-color) 6%);
 }
 
 h1 {
@@ -75,8 +50,11 @@ h1 {
 }
 
 .subtitle {
-    font-size: 0.75em;
-    margin-bottom: var(--spacing-md);
+    max-width: 72ch;
+    margin: 0 auto var(--spacing-md);
+    font-size: 0.92em;
+    color: var(--text-secondary);
+    line-height: 1.65;
 }
 
 .page-note {
@@ -88,6 +66,11 @@ h1 {
 /* Controls & Search */
 .controls {
     margin-bottom: var(--spacing-md);
+    padding: 14px;
+    border: 1px solid var(--border-color);
+    border-radius: 16px;
+    background: color-mix(in srgb, var(--card-background) 94%, var(--primary-color) 6%);
+    box-shadow: var(--shadow-light);
 }
 
 .filter-chips {
@@ -131,7 +114,7 @@ h1 {
     flex-wrap: wrap;
     gap: var(--spacing-sm);
     justify-content: center;
-    margin-bottom: var(--spacing-md);
+    margin-bottom: calc(var(--spacing-md) + 4px);
     color: var(--text-secondary);
     font-size: 12px;
 }
@@ -189,21 +172,22 @@ h1 {
 
 /* Table Container */
 .table-container {
-    border-radius: 6px;
+    border-radius: 18px;
     margin: 0;
-    box-shadow: var(--shadow-light);
+    border: 1px solid var(--border-color);
+    box-shadow: var(--shadow-hover);
     overflow-x: auto;
 }
 
 table {
     width: 100%;
     border-collapse: collapse;
-    background: var(--card-background);
+    background: color-mix(in srgb, var(--card-background) 98%, var(--primary-color) 2%);
     font-size: clamp(0.85em, 2vw, 1em);
 }
 
 thead {
-    background: var(--primary-color);
+    background: linear-gradient(90deg, var(--primary-color), color-mix(in srgb, var(--primary-color) 82%, #ffffff 18%));
     color: var(--text-on-primary);
 }
 

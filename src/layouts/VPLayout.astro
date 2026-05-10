@@ -36,22 +36,20 @@ const shouldShowSidebar = hasSidebar && !hideSidebar;
     // Theme detection and application
     (function () {
       try {
-        const stored = localStorage.getItem('vitepress-theme-appearance');
-        const preference = stored || 'auto';
-        const isDark = preference === 'dark' || 
-          (preference === 'auto' && window.matchMedia('(prefers-color-scheme: dark)').matches);
+        const storedTheme = localStorage.getItem('theme-preference');
+        const legacyTheme = localStorage.getItem('vitepress-theme-appearance');
+        const preferredTheme = storedTheme || legacyTheme;
+        const isDark = preferredTheme === 'dark' ||
+          (preferredTheme !== 'light' && window.matchMedia('(prefers-color-scheme: dark)').matches);
         
         const html = document.documentElement;
         html.setAttribute('data-theme', isDark ? 'dark' : 'light');
         html.classList.toggle('dark', isDark);
         html.style.colorScheme = isDark ? 'dark' : 'light';
-        
-        // Store preference
-        if (!stored) {
-          localStorage.setItem('vitepress-theme-appearance', isDark ? 'dark' : 'light');
-        }
       } catch (_) {
         document.documentElement.setAttribute('data-theme', 'light');
+        document.documentElement.classList.remove('dark');
+        document.documentElement.style.colorScheme = 'light';
       }
     })();
 
@@ -81,7 +79,7 @@ const shouldShowSidebar = hasSidebar && !hideSidebar;
   <div id="app" class="Layout">
     <a href="#VPContent" class="VPSkipLink visually-hidden">Skip to content</a>
     
-    <VPNavBar />
+    <VPNavBar title="Interneto" />
     
     {shouldShowSidebar && <VPSidebar currentPath={pathname} />}
     
@@ -93,7 +91,7 @@ const shouldShowSidebar = hasSidebar && !hideSidebar;
   </div>
 
   <script>
-    import '/src/scripts/theme-manager';
+    import '../scripts/theme-manager.ts';
   </script>
 
   <style is:global>

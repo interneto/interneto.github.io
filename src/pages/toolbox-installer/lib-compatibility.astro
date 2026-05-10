@@ -1,5 +1,5 @@
 ---
-import CompatLayout from '../layouts/CompatLayout.astro';
+import CompatLayout from '../../layouts/CompatLayout.astro';
 ---
 <CompatLayout
   title="Library Compatibility"
@@ -45,7 +45,7 @@ import CompatLayout from '../layouts/CompatLayout.astro';
     <p>For these reasons, C/C++ is also excluded from the automatic install command generator.</p>
   </div>
   <script>
-    import { initLibCompat } from '../scripts/lib-compat';
+    import { initLibCompat } from '../../scripts/lib-compat';
     initLibCompat();
   </script>
 </CompatLayout>

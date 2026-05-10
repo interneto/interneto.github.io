@@ -1,0 +1,234 @@
+---
+import VPLayout from '../layouts/VPLayout.astro';
+
+const BASE = import.meta.env.BASE_URL.replace(/\/?$/, '/');
+
+const toolboxCards = [
+  {
+    title: 'Desktop Installer',
+    description: 'Install desktop apps with command generation, filters, and favorites.',
+    href: `${BASE}toolbox-installer/desktop/`,
+    icon: '🖥️',
+  },
+  {
+    title: 'Mobile Installer',
+    description: 'Browse mobile packages for Android and iOS workflows.',
+    href: `${BASE}toolbox-installer/mobile/`,
+    icon: '📱',
+  },
+  {
+    title: 'Library Installer',
+    description: 'Search software libraries by ecosystem and export selections.',
+    href: `${BASE}toolbox-installer/lib/`,
+    icon: '📚',
+  },
+  {
+    title: 'Browser Extensions',
+    description: 'Pick browser add-ons for Firefox and Chromium.',
+    href: `${BASE}toolbox-installer/browser/`,
+    icon: '🧩',
+  },
+  {
+    title: 'VS Code Extensions',
+    description: 'Curated editor extensions with import, export, and favorites.',
+    href: `${BASE}toolbox-installer/vscode/`,
+    icon: '🛠️',
+  },
+];
+
+const compatibilityLinks = [
+  { label: 'Desktop OS Compatibility', href: `${BASE}toolbox-installer/desktop-os-compatibility/`, icon: '🖥️' },
+  { label: 'Mobile OS Compatibility', href: `${BASE}toolbox-installer/mobile-os-compatibility/`, icon: '📱' },
+  { label: 'Library Compatibility Table', href: `${BASE}toolbox-installer/lib-compatibility/`, icon: '📚' },
+  { label: 'Browser Extensions Compatibility', href: `${BASE}toolbox-installer/browser-extensions-compatibility/`, icon: '🧩' },
+  { label: 'VS Code Extensions Compatibility', href: `${BASE}toolbox-installer/vscode-extensions-compatibility/`, icon: '🛠️' },
+];
+---
+
+<VPLayout title="Toolbox Installer" hasSidebar={false} extraStyles={['styles/generator.css', 'styles/os-compatibility.css']}>
+  <section class="toolbox-landing">
+    <section class="toolbox-section">
+      <div class="toolbox-section-header">
+        <h2>Toolbox installer</h2>
+        <p>Choose the installer surface you want to work with.</p>
+      </div>
+      <div class="toolbox-grid">
+        {toolboxCards.map((card) => (
+          <a class="toolbox-card" href={card.href}>
+            <span class="toolbox-card-icon">{card.icon}</span>
+            <h3>{card.title}</h3>
+            <p>{card.description}</p>
+          </a>
+        ))}
+      </div>
+    </section>
+
+    <div class="toolbox-separator" aria-hidden="true"></div>
+
+    <section class="toolbox-section">
+      <div class="toolbox-section-header">
+        <h2>OS Compatibility Tables</h2>
+        <p>Compare availability and support before jumping into each installer.</p>
+      </div>
+      <div class="toolbox-compatibility-grid">
+        {compatibilityLinks.map((item) => (
+          <a class="toolbox-compatibility-link" href={item.href}>
+            <span class="toolbox-card-icon">{item.icon}</span>
+            <span>{item.label}</span>
+          </a>
+        ))}
+      </div>
+    </section>
+  </section>
+</VPLayout>
+
+<style>
+  .toolbox-landing {
+    max-width: 1220px;
+    margin: 0 auto;
+    padding: 36px 20px 60px;
+  }
+
+  .toolbox-hero-shell {
+    margin-bottom: 28px;
+  }
+
+  .toolbox-hero {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    gap: 20px;
+    align-items: end;
+    padding: 28px;
+    border: 1px solid var(--border-color);
+    border-radius: 18px;
+    background: radial-gradient(circle at top right, rgba(106, 160, 255, 0.18), transparent 38%), linear-gradient(180deg, var(--card-background), color-mix(in srgb, var(--card-background) 90%, var(--primary-color) 10%));
+    box-shadow: var(--shadow-hover);
+  }
+
+  .toolbox-eyebrow {
+    margin-bottom: 10px;
+    color: var(--primary-color);
+    font-size: 0.8rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+  }
+
+  .toolbox-hero h1 {
+    margin: 0 0 10px;
+    font-size: clamp(2rem, 5vw, 3.4rem);
+  }
+
+  .toolbox-hero p {
+    max-width: 70ch;
+    margin: 0;
+    color: var(--text-secondary);
+    line-height: 1.7;
+  }
+
+  .toolbox-primary-link {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 220px;
+    padding: 14px 18px;
+    border-radius: 999px;
+    background: var(--primary-color);
+    color: var(--text-on-primary);
+    text-decoration: none;
+    font-weight: 700;
+    box-shadow: var(--shadow-light);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+
+  .toolbox-section {
+    margin-top: 24px;
+  }
+
+  .toolbox-section-header {
+    margin-bottom: 18px;
+  }
+
+  .toolbox-section-header h2 {
+    margin: 0 0 8px;
+    font-size: 1.45rem;
+  }
+
+  .toolbox-section-header p {
+    margin: 0;
+    color: var(--text-secondary);
+  }
+
+  .toolbox-grid,
+  .toolbox-compatibility-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 18px;
+  }
+
+  .toolbox-card,
+  .toolbox-compatibility-link {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    min-height: 170px;
+    padding: 20px;
+    border: 1px solid var(--border-color);
+    border-radius: 16px;
+    background: var(--card-background);
+    color: var(--text-primary);
+    text-decoration: none;
+    box-shadow: var(--shadow-light);
+    transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+  }
+
+  .toolbox-card:hover,
+  .toolbox-compatibility-link:hover,
+  .toolbox-primary-link:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-hover);
+  }
+
+  .toolbox-card:hover,
+  .toolbox-compatibility-link:hover {
+    border-color: var(--primary-color);
+  }
+
+  .toolbox-card-icon {
+    font-size: 1.6rem;
+  }
+
+  .toolbox-card h3 {
+    margin: 0;
+    font-size: 1.05rem;
+  }
+
+  .toolbox-card p {
+    margin: 0;
+    color: var(--text-secondary);
+    line-height: 1.6;
+  }
+
+  .toolbox-compatibility-link {
+    flex-direction: row;
+    align-items: center;
+    min-height: 0;
+    font-weight: 700;
+  }
+
+  .toolbox-separator {
+    margin: 30px 0 0;
+    border-top: 1px solid var(--border-color);
+  }
+
+  @media (max-width: 768px) {
+    .toolbox-landing {
+      padding: 26px 16px 46px;
+    }
+
+    .toolbox-hero {
+      grid-template-columns: 1fr;
+      align-items: start;
+    }
+  }
+</style>

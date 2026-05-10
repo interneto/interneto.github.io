@@ -156,6 +156,7 @@ export const EVENT_NAMES = {
 // ============================================================================
 export const THEME_CONFIG = {
     STORAGE_KEY: 'theme-preference',
+    LEGACY_STORAGE_KEY: 'vitepress-theme-appearance',
     DARK: 'dark',
     LIGHT: 'light',
     BUTTON_ID: 'themeToggle',
