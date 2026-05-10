@@ -108,7 +108,7 @@ export function renderClassic(
   const mapPanel = document.querySelector<HTMLElement>('.map-panel')!;
   const width = Math.max(mapPanel.clientWidth, 520);
   const height = Math.max(mapPanel.clientHeight, 420);
-  const margin = 12;
+  const margin = 0;
   const drawWidth = Math.max(20, width - margin * 2);
   const drawHeight = Math.max(20, height - margin * 2);
 
@@ -127,10 +127,10 @@ export function renderClassic(
   const treemap = d3
     .treemap<VizNode>()
     .size([drawWidth, drawHeight])
-    .paddingOuter(8)
+    .paddingOuter(2)
     .paddingTop((node) => {
-      if (node.depth === 1) return 22;
-      if (node.depth === 2) return 16;
+      if (node.depth === 1) return 14;
+      if (node.depth === 2) return 10;
       return 4;
     })
     .paddingInner(3)
