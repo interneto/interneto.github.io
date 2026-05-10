@@ -64,16 +64,44 @@ const isActive = (link: string) => {
             </nav>
           </div>
           <div class="vp-nav-actions">
-            <button type="button" id="themeToggle" class="vp-theme-toggle" aria-label="Switch theme" title="Theme">
+            <button type="button" id="themeToggle" data-theme-toggle class="vp-theme-toggle" aria-label="Switch theme" title="Theme">
               <span class="vp-icon-moon">🌙</span>
               <span class="vp-icon-sun">☀️</span>
             </button>
           </div>
         </div>
-        <button type="button" class="vp-nav-hamburger" aria-label="mobile navigation" aria-expanded="false">
+        <button
+          type="button"
+          id="vpNavHamburger"
+          class="vp-nav-hamburger"
+          aria-label="Toggle mobile menu"
+          aria-controls="vpMobileNavPanel"
+          aria-expanded="false"
+        >
           <span class="vp-hamburger-line"></span>
           <span class="vp-hamburger-line"></span>
           <span class="vp-hamburger-line"></span>
+        </button>
+      </div>
+    </div>
+    <div id="vpMobileNavPanel" class="vp-mobile-nav-panel" aria-hidden="true">
+      <nav class="vp-mobile-nav-links" aria-label="Mobile Navigation">
+        {navLinks.map((link) => (
+          <a
+            class={`vp-mobile-nav-link ${isActive(link.link) ? 'active' : ''}`}
+            href={link.link}
+            target={link.link.startsWith('http') ? '_blank' : undefined}
+            rel={link.link.startsWith('http') ? 'noreferrer' : undefined}
+          >
+            {link.text}
+          </a>
+        ))}
+      </nav>
+      <div class="vp-mobile-nav-theme-row">
+        <span class="vp-mobile-nav-theme-label">Theme</span>
+        <button type="button" data-theme-toggle class="vp-theme-toggle vp-theme-toggle-mobile" aria-label="Switch theme" title="Theme">
+          <span class="vp-icon-moon">🌙</span>
+          <span class="vp-icon-sun">☀️</span>
         </button>
       </div>
     </div>
@@ -138,8 +166,8 @@ const isActive = (link: string) => {
   }
 
   .vp-nav-icon-img {
-    width: 24px;
-    height: 24px;
+    width: 30px;
+    height: 30px;
     display: inline-block;
     object-fit: contain;
   }
@@ -270,22 +298,95 @@ const isActive = (link: string) => {
     background: linear-gradient(to right, var(--vp-c-divider), transparent);
   }
 
-  @media (max-width: 768px) {
+  .vp-mobile-nav-panel {
+    display: none;
+  }
+
+  .vp-nav-hamburger[aria-expanded='true'] .vp-hamburger-line:nth-child(1) {
+    transform: translateY(6px) rotate(45deg);
+  }
+
+  .vp-nav-hamburger[aria-expanded='true'] .vp-hamburger-line:nth-child(2) {
+    opacity: 0;
+  }
+
+  .vp-nav-hamburger[aria-expanded='true'] .vp-hamburger-line:nth-child(3) {
+    transform: translateY(-6px) rotate(-45deg);
+  }
+
+  @media (max-width: 960px) {
+    .vp-nav {
+      z-index: 90;
+    }
+
     .vp-nav-hamburger {
       display: flex;
       margin-left: auto;
     }
 
-    .vp-nav-menu {
+    .vp-nav-content {
       display: none;
     }
 
-    .vp-nav-body {
-      flex-grow: 0;
+    .vp-mobile-nav-panel {
+      display: block;
+      max-height: 0;
+      overflow: hidden;
+      border-top: 1px solid transparent;
+      background: var(--vp-c-bg-elv);
+      transition: max-height 0.25s ease, border-color 0.25s ease;
+    }
+
+    :global(html.vp-mobile-nav-open) .vp-mobile-nav-panel {
+      max-height: 80vh;
+      border-top-color: var(--vp-c-divider);
+    }
+
+    .vp-mobile-nav-links {
+      display: flex;
+      flex-direction: column;
+      gap: 0;
+      padding: 8px 14px;
+    }
+
+    .vp-mobile-nav-link {
+      display: block;
+      padding: 12px 10px;
+      color: var(--vp-c-text-1);
+      text-decoration: none;
+      border-radius: 10px;
+      font-size: 15px;
+      font-weight: 500;
+    }
+
+    .vp-mobile-nav-link:hover,
+    .vp-mobile-nav-link.active {
+      color: var(--vp-c-brand-1);
+      background: color-mix(in srgb, var(--vp-c-brand-1) 14%, transparent);
+    }
+
+    .vp-mobile-nav-theme-row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 10px 24px 16px;
+      border-top: 1px dashed var(--vp-c-divider);
+    }
+
+    .vp-mobile-nav-theme-label {
+      font-size: 13px;
+      color: var(--vp-c-text-2);
+      text-transform: uppercase;
+      letter-spacing: 0.4px;
+    }
+
+    .vp-theme-toggle-mobile {
+      width: 38px;
+      height: 38px;
     }
 
     .vp-nav-brand-text {
-      display: none;
+      display: inline;
     }
   }
 </style>

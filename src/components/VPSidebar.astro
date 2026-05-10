@@ -90,7 +90,7 @@ const items = showPostsSidebar ? [] : showMapSidebar ? mapItems : categoryItems;
 const title = showPostsSidebar ? 'Posts' : showMapSidebar ? 'Link Dashboard' : 'Categories';
 ---
 
-<aside class="vp-sidebar">
+<aside id="vpSidebar" class="vp-sidebar" aria-hidden="false">
   <div class="vp-sidebar-content">
     <nav class="vp-sidebar-nav">
       <div class="vp-sidebar-title">{title}</div>
@@ -371,7 +371,21 @@ const title = showPostsSidebar ? 'Posts' : showMapSidebar ? 'Link Dashboard' : '
 
   @media (max-width: 960px) {
     .vp-sidebar {
-      display: none;
+      display: block;
+      width: min(86vw, 320px);
+      max-width: 320px;
+      transform: translateX(-100%);
+      opacity: 0;
+      visibility: hidden;
+      transition: transform 0.25s ease, opacity 0.25s ease, visibility 0.25s ease;
+      box-shadow: 0 16px 38px rgba(0, 0, 0, 0.28);
+      z-index: 80;
+    }
+
+    :global(html.vp-mobile-sidebar-open) .vp-sidebar {
+      transform: translateX(0);
+      opacity: 1;
+      visibility: visible;
     }
   }
 </style>

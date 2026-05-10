@@ -3,4 +3,37 @@ const year = new Date().getFullYear();
 ---
 <footer id="siteFooter" class="site-footer">
   <span>© {year} <a href="https://github.com/David7ce/interneto.github.io" target="_blank" rel="noopener">Interneto</a></span>
+  <span class="site-footer-sep" aria-hidden="true">•</span>
+  <span>Made with ❤️ and <a href="https://astro.build" target="_blank" rel="noopener">Astro</a></span>
 </footer>
+
+<style is:global>
+  .site-footer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 5px 10px;
+    padding: 10px 15px;
+    margin-top: 25px;
+    border-top: 1px solid var(--border-color, var(--vp-c-divider));
+    font-size: 12px;
+    color: var(--text-muted, var(--vp-c-text-3));
+  }
+
+  .site-footer a {
+    color: inherit;
+    text-decoration: none;
+    transition: color 0.2s ease;
+  }
+
+  .site-footer a:hover {
+    color: var(--primary-color, var(--vp-c-brand-1));
+    text-decoration: underline;
+  }
+
+  .site-footer-sep {
+    color: var(--border-color, var(--vp-c-divider));
+  }
+</style>

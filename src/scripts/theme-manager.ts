@@ -82,27 +82,40 @@ function applyTheme(theme: string): void {
 }
 
 function updateToggleButton(theme: string): void {
-    const toggleBtn = document.getElementById(THEME_CONFIG.BUTTON_ID);
-    if (!toggleBtn) return;
     const isDark = theme === THEME_CONFIG.DARK;
-    toggleBtn.textContent = isDark ? THEME_CONFIG.EMOJIS.DARK : THEME_CONFIG.EMOJIS.LIGHT;
-    toggleBtn.setAttribute('aria-label', isDark ? THEME_CONFIG.ARIA_LABELS.DARK : THEME_CONFIG.ARIA_LABELS.LIGHT);
-    toggleBtn.setAttribute('title', isDark ? THEME_CONFIG.TITLES.DARK : THEME_CONFIG.TITLES.LIGHT);
+    const toggleButtons = getToggleButtons();
+    if (toggleButtons.length === 0) return;
+    toggleButtons.forEach((toggleBtn) => {
+        toggleBtn.textContent = isDark ? THEME_CONFIG.EMOJIS.DARK : THEME_CONFIG.EMOJIS.LIGHT;
+        toggleBtn.setAttribute('aria-label', isDark ? THEME_CONFIG.ARIA_LABELS.DARK : THEME_CONFIG.ARIA_LABELS.LIGHT);
+        toggleBtn.setAttribute('title', isDark ? THEME_CONFIG.TITLES.DARK : THEME_CONFIG.TITLES.LIGHT);
+    });
 }
 
 function setupToggleButton(): void {
-    const toggleBtn = document.getElementById(THEME_CONFIG.BUTTON_ID);
-    if (!toggleBtn) {
+    const toggleButtons = getToggleButtons();
+    if (toggleButtons.length === 0) {
         console.warn('Theme toggle button not found');
         return;
     }
-    toggleBtn.addEventListener('click', toggleTheme);
-    toggleBtn.addEventListener('keydown', (e: KeyboardEvent) => {
-        if (e.key === 'Enter' || e.key === ' ') {
-            e.preventDefault();
-            toggleTheme();
-        }
+    toggleButtons.forEach((toggleBtn) => {
+        toggleBtn.addEventListener('click', toggleTheme);
+        toggleBtn.addEventListener('keydown', (e: KeyboardEvent) => {
+            if (e.key === 'Enter' || e.key === ' ') {
+                e.preventDefault();
+                toggleTheme();
+            }
+        });
     });
+}
+
+function getToggleButtons(): HTMLElement[] {
+    const byDataAttr = Array.from(document.querySelectorAll<HTMLElement>('[data-theme-toggle]'));
+    if (byDataAttr.length > 0) {
+        return byDataAttr;
+    }
+    const byId = document.getElementById(THEME_CONFIG.BUTTON_ID);
+    return byId ? [byId] : [];
 }
 
 function setupSystemThemeListener(): void {
