@@ -38,7 +38,7 @@ const {
   extraStyles={extraStyles}
 >
   {(showFilterChips || Astro.slots.has('controls')) && (
-    <div slot="controls" class="page-controls-panel">
+    <div slot="controls" class="page-controls-inline">
       {showFilterChips && (
         <div class="page-filter-row filter-chips" id="filterChips" role="group" aria-label={filterAriaLabel}></div>
       )}

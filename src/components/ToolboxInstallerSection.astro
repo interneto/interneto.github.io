@@ -46,10 +46,10 @@ const {
   heading={heading}
   extraStyles={extraStyles}
 >
-  <section class="package-section">
+  <section class="package-section installer-page-section">
     {useForm ? (
       <form id={formId}>
-        <div class="container">
+        <div class="container installer-surface">
           <slot name="selectors" />
           <UnifiedControls
             searchPlaceholder={searchPlaceholder}
@@ -66,7 +66,7 @@ const {
       </form>
     ) : (
       <>
-        <div class="container">
+        <div class="container installer-surface">
           <slot name="selectors" />
           <UnifiedControls
             searchPlaceholder={searchPlaceholder}
