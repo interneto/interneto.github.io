@@ -87,6 +87,10 @@ const compatibilityLinks = [
     max-width: 1220px;
     margin: 0 auto;
     padding: 36px 20px 60px;
+    border: 1px solid var(--border-color);
+    border-radius: 18px;
+    background: color-mix(in srgb, var(--card-background) 95%, var(--primary-color) 5%);
+    box-shadow: var(--shadow-light);
   }
 
   .toolbox-hero-shell {
@@ -143,6 +147,10 @@ const compatibilityLinks = [
 
   .toolbox-section {
     margin-top: 24px;
+    padding: 16px;
+    border: 1px solid color-mix(in srgb, var(--border-color) 76%, var(--primary-color) 24%);
+    border-radius: 16px;
+    background: linear-gradient(180deg, color-mix(in srgb, var(--card-background) 97%, var(--primary-color) 3%), color-mix(in srgb, var(--card-background) 92%, var(--primary-color) 8%));
   }
 
   .toolbox-section-header {
@@ -217,8 +225,8 @@ const compatibilityLinks = [
   }
 
   .toolbox-separator {
-    margin: 30px 0 0;
-    border-top: 1px solid var(--border-color);
+    margin: 24px 2px 0;
+    border-top: 1px dashed color-mix(in srgb, var(--border-color) 74%, var(--primary-color) 26%);
   }
 
   @media (max-width: 768px) {

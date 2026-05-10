@@ -2,7 +2,7 @@
 .page-wrapper {
     max-width: 2200px;
     margin: 0 auto;
-    padding: 0 18px 48px;
+    padding: 0 18px 160px;
 }
 
 .container {
@@ -236,90 +236,183 @@ form {
     margin: var(--spacing-md) 0;
 }
 
+.page-controls {
+    margin-bottom: 16px;
+}
+
+.page-controls-panel {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
 .main-controls {
     display: flex;
     flex-wrap: wrap;
-    gap: var(--spacing-md);
-    padding: calc(var(--spacing-md) + 2px);
-    background: linear-gradient(180deg, color-mix(in srgb, var(--card-background) 90%, var(--primary-color) 10%), color-mix(in srgb, var(--card-background) 96%, var(--primary-color) 4%));
-    border: 1px solid color-mix(in srgb, var(--border-color) 70%, var(--primary-color) 30%);
-    border-radius: 18px;
-    box-shadow: inset 0 1px 0 var(--neutral-overlay-10), 0 6px 18px var(--neutral-overlay-10);
+    gap: 12px;
+    padding: 14px;
+    background: linear-gradient(135deg, color-mix(in srgb, var(--card-background) 88%, var(--primary-color) 12%), color-mix(in srgb, var(--card-background) 94%, var(--primary-color) 6%));
+    border: 1.5px solid color-mix(in srgb, var(--border-color) 60%, var(--primary-color) 40%);
+    border-radius: 20px;
+    box-shadow: 0 4px 12px var(--neutral-overlay-08), inset 0 1px 0 var(--neutral-overlay-10);
     width: 100%;
     max-width: 100%;
     --main-control-height: 44px;
     align-items: center;
 }
 
-.main-controls>* {
-    flex: 0 0 7rem;
-    width: 7rem;
-    min-width: 0;
-    height: var(--main-control-height);
-    box-sizing: border-box;
-}
-
-.main-controls>.search-input {
+.main-controls > .search-input {
     order: 99;
     flex: 1 1 100%;
     width: 100%;
     min-width: 0;
-    border-radius: 12px;
-    border-width: 1px;
-    background: color-mix(in srgb, var(--card-background) 88%, var(--primary-color) 12%);
-    box-shadow: inset 0 0 0 1px color-mix(in srgb, var(--border-color) 72%, var(--primary-color) 28%);
+    border-radius: 14px;
+    border-width: 1.5px;
+    background: color-mix(in srgb, var(--card-background) 85%, var(--primary-color) 15%);
+    box-shadow: inset 0 0 0 1px color-mix(in srgb, var(--border-color) 65%, var(--primary-color) 35%), 0 2px 4px var(--neutral-overlay-05);
+    transition: all 0.2s ease;
+    padding: 8px 14px;
+}
+
+.main-controls > .search-input:focus {
+    outline: none;
+    border-color: var(--primary-color);
+    box-shadow: inset 0 0 0 1px var(--primary-color), 0 0 0 3px color-mix(in srgb, var(--focus-ring-color) 40%, transparent);
+    background: color-mix(in srgb, var(--card-background) 92%, var(--primary-color) 8%);
+}
+
+.main-controls > .search-input::placeholder {
+    color: var(--text-secondary);
+}
+
+.controls-group {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.controls-trailing {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-left: auto;
 }
 
 .select-all-control {
     display: flex;
     align-items: center;
-    justify-content: flex-start;
+    justify-content: center;
     height: var(--main-control-height);
-    padding: 0 var(--spacing-sm);
-    gap: var(--spacing-sm);
+    padding: 0 12px;
+    gap: 8px;
     cursor: pointer;
     user-select: none;
     font-weight: 600;
+    font-size: 14px;
     color: var(--text-primary);
+    border: 1.5px solid color-mix(in srgb, var(--border-color) 65%, var(--primary-color) 35%);
+    border-radius: 12px;
+    background: color-mix(in srgb, var(--card-background) 88%, var(--primary-color) 12%);
+    transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+    box-shadow: 0 2px 6px var(--neutral-overlay-05);
+    white-space: nowrap;
 }
 
+.select-all-control:hover {
+    border-color: color-mix(in srgb, var(--primary-color) 70%, var(--border-color));
+    background: color-mix(in srgb, var(--hover-bg) 90%, var(--primary-color) 10%);
+    box-shadow: 0 4px 12px color-mix(in srgb, var(--primary-color) 20%, transparent);
+    transform: translateY(-2px);
+}
+
+.select-all-control:has(.select-all-checkbox:checked),
+.select-all-control:has(.select-all-checkbox:indeterminate) {
+    border-color: var(--primary-color);
+    background: color-mix(in srgb, var(--primary-color) 14%, var(--card-background));
+    box-shadow: 0 4px 12px color-mix(in srgb, var(--primary-color) 25%, transparent);
+}
+
+.select-all-control:has(.select-all-checkbox:checked):hover,
+.select-all-control:has(.select-all-checkbox:indeterminate):hover {
+    background: color-mix(in srgb, var(--primary-color) 20%, var(--card-background));
+    transform: translateY(-2px);
+}
+
+.select-all-control:active {
+    transform: translateY(0px);
+}
+
+.control-label {
+    display: inline;
+    font-size: 14px;
+}
+
+.control-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: var(--main-control-height);
+    gap: 6px;
+    padding: 8px 14px;
+    border-radius: 12px;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 500;
+    transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+    border: 1.5px solid;
+    box-shadow: 0 2px 6px var(--neutral-overlay-05);
+    white-space: nowrap;
+    user-select: none;
+}
+
+/* TOGGLE ALL BUTTON==========================================================================*/
 .toggle-all-btn {
     display: flex;
     align-items: center;
     justify-content: center;
     height: var(--main-control-height);
     gap: 6px;
-    padding: var(--spacing-xs) var(--spacing-sm);
-    background-color: color-mix(in srgb, var(--card-background) 86%, var(--primary-color) 14%);
-    border: 1px solid var(--border-color);
-    border-radius: 999px;
+    padding: 8px 14px;
+    background-color: color-mix(in srgb, var(--card-background) 84%, var(--primary-color) 16%);
+    border: 1.5px solid color-mix(in srgb, var(--border-color) 65%, var(--primary-color) 35%);
+    border-radius: 12px;
     cursor: pointer;
     font-size: 14px;
+    font-weight: 500;
     color: var(--text-primary);
-    transition: all 0.2s ease;
+    transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+    box-shadow: 0 2px 6px var(--neutral-overlay-05);
 }
 
 .toggle-all-btn:hover {
-    background-color: color-mix(in srgb, var(--hover-bg) 80%, var(--primary-color) 20%);
+    background-color: color-mix(in srgb, var(--hover-bg) 85%, var(--primary-color) 15%);
     border-color: var(--primary-color);
+    box-shadow: 0 4px 12px color-mix(in srgb, var(--primary-color) 25%, transparent);
+    transform: translateY(-2px);
 }
 
 .toggle-all-btn:active {
-    transform: translateY(1px);
-    background-color: color-mix(in srgb, var(--primary-color) 24%, var(--card-background));
+    transform: translateY(0px);
+    box-shadow: 0 1px 3px color-mix(in srgb, var(--primary-color) 15%, transparent);
 }
 
 .toggle-all-btn:focus {
-    outline: 3px solid var(--focus-ring-color);
-    outline-offset: 2px;
+    outline: none;
+    border-color: var(--primary-color);
+    box-shadow: 0 0 0 3px color-mix(in srgb, var(--focus-ring-color) 40%, transparent);
 }
 
-#toggleAllIcon {
-    transition: transform 0.3s ease;
-    font-size: 10px;
+.toggle-icon {
+    transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    font-size: 11px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
 }
 
-.toggle-all-btn.collapsed #toggleAllIcon {
+.toggle-all-btn.collapsed .toggle-icon {
     transform: rotate(-90deg);
 }
 
@@ -330,37 +423,166 @@ form {
     justify-content: center;
     height: var(--main-control-height);
     gap: 6px;
-    padding: var(--spacing-xs) var(--spacing-sm);
-    background-color: color-mix(in srgb, var(--card-background) 88%, var(--success-color) 12%);
-    border: 1px solid var(--border-color);
-    border-radius: 999px;
+    padding: 8px 14px;
+    background-color: color-mix(in srgb, var(--card-background) 86%, var(--success-color) 14%);
+    border: 1.5px solid color-mix(in srgb, var(--border-color) 70%, var(--success-color) 30%);
+    border-radius: 12px;
     cursor: pointer;
     font-size: 14px;
+    font-weight: 500;
     color: var(--text-primary);
-    transition: all 0.2s ease;
+    transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+    box-shadow: 0 2px 6px var(--neutral-overlay-05);
+    white-space: nowrap;
 }
 
 .foss-toggle-btn:hover {
-    background-color: color-mix(in srgb, var(--hover-bg) 82%, var(--success-color) 18%);
+    background-color: color-mix(in srgb, var(--hover-bg) 85%, var(--success-color) 15%);
     border-color: var(--success-color);
+    box-shadow: 0 4px 12px color-mix(in srgb, var(--success-color) 25%, transparent);
+    transform: translateY(-2px);
 }
 
 .foss-toggle-btn:active {
-    transform: translateY(1px);
+    transform: translateY(0px);
+    box-shadow: 0 1px 3px color-mix(in srgb, var(--success-color) 15%, transparent);
 }
 
 .foss-toggle-btn:focus {
-    outline: 3px solid var(--success-focus-ring);
-    outline-offset: 2px;
+    outline: none;
+    border-color: var(--success-color);
+    box-shadow: 0 0 0 3px color-mix(in srgb, var(--success-focus-ring) 40%, transparent);
+}
+
+.foss-toggle-btn.active {
+    background-color: var(--success-color);
+    border-color: var(--success-color);
+    color: var(--text-on-primary);
+    box-shadow: 0 4px 12px color-mix(in srgb, var(--success-color) 40%, transparent);
+}
+
+.foss-toggle-btn.active:hover {
+    background-color: var(--success-hover);
+    border-color: var(--success-hover);
+    box-shadow: 0 6px 16px color-mix(in srgb, var(--success-color) 50%, transparent);
+    transform: translateY(-2px);
+}
+
+/* INTERNAL TOGGLE BUTTON (Library Installer) */
+.internal-toggle-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: var(--main-control-height);
+    gap: 6px;
+    padding: 8px 14px;
+    background-color: color-mix(in srgb, var(--card-background) 86%, var(--primary-color) 14%);
+    border: 1.5px solid color-mix(in srgb, var(--border-color) 65%, var(--primary-color) 35%);
+    border-radius: 12px;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 500;
+    color: var(--text-primary);
+    transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+    box-shadow: 0 2px 6px var(--neutral-overlay-05);
+    white-space: nowrap;
+}
+
+.internal-toggle-btn:hover {
+    background-color: color-mix(in srgb, var(--hover-bg) 85%, var(--primary-color) 15%);
+    border-color: var(--primary-color);
+    box-shadow: 0 4px 12px color-mix(in srgb, var(--primary-color) 25%, transparent);
+    transform: translateY(-2px);
+}
+
+.internal-toggle-btn:active {
+    transform: translateY(0px);
+    box-shadow: 0 1px 3px color-mix(in srgb, var(--primary-color) 15%, transparent);
+}
+
+.internal-toggle-btn:focus {
+    outline: none;
+    border-color: var(--primary-color);
+    box-shadow: 0 0 0 3px color-mix(in srgb, var(--focus-ring-color) 40%, transparent);
+}
+
+.internal-toggle-btn.active {
+    background-color: var(--primary-color);
+    border-color: var(--primary-color);
+    color: var(--text-on-primary);
+    box-shadow: 0 4px 12px color-mix(in srgb, var(--primary-color) 40%, transparent);
+}
+
+.internal-toggle-btn.active:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 16px color-mix(in srgb, var(--primary-color) 50%, transparent);
+}
+
+/* PLATFORM SELECT (Browser Selection) */
+.platform-select {
+    height: var(--main-control-height);
+    padding: 8px 12px;
+    box-sizing: border-box;
+    background: color-mix(in srgb, var(--card-background) 88%, var(--primary-color) 12%);
+    border: 1.5px solid color-mix(in srgb, var(--border-color) 65%, var(--primary-color) 35%);
+    border-radius: 12px;
+    color: var(--text-primary);
+    font-size: 14px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+    box-shadow: 0 2px 6px var(--neutral-overlay-05);
+}
+
+.platform-select:hover {
+    border-color: color-mix(in srgb, var(--primary-color) 70%, var(--border-color));
+    background: color-mix(in srgb, var(--hover-bg) 90%, var(--primary-color) 10%);
+    box-shadow: 0 4px 12px color-mix(in srgb, var(--primary-color) 25%, transparent);
+    transform: translateY(-2px);
+}
+
+.platform-select:active {
+    background: color-mix(in srgb, var(--primary-color) 18%, var(--card-background));
+    transform: translateY(0px);
+}
+
+.platform-select:focus {
+    outline: none;
+    border-color: var(--primary-color);
+    box-shadow: 0 0 0 3px color-mix(in srgb, var(--focus-ring-color) 40%, transparent);
 }
 
 .main-controls .options-select {
     height: var(--main-control-height);
-    padding: 0 var(--spacing-sm);
+    padding: 8px 12px;
     box-sizing: border-box;
-    background: color-mix(in srgb, var(--card-background) 86%, var(--primary-color) 14%);
-    border: 1px solid color-mix(in srgb, var(--border-color) 70%, var(--primary-color) 30%);
-    border-radius: 999px;
+    background: color-mix(in srgb, var(--card-background) 88%, var(--primary-color) 12%);
+    border: 1.5px solid color-mix(in srgb, var(--border-color) 65%, var(--primary-color) 35%);
+    border-radius: 12px;
+    color: var(--text-primary);
+    font-size: 14px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+    box-shadow: 0 2px 6px var(--neutral-overlay-05);
+}
+
+.main-controls .options-select:hover {
+    border-color: color-mix(in srgb, var(--primary-color) 70%, var(--border-color));
+    background: color-mix(in srgb, var(--hover-bg) 90%, var(--primary-color) 10%);
+    box-shadow: 0 4px 12px color-mix(in srgb, var(--primary-color) 25%, transparent);
+    transform: translateY(-2px);
+}
+
+.main-controls .options-select:active {
+    background: color-mix(in srgb, var(--primary-color) 18%, var(--card-background));
+    transform: translateY(0px);
+}
+
+.main-controls .options-select:focus {
+    outline: none;
+    border-color: var(--primary-color);
+    box-shadow: 0 0 0 3px color-mix(in srgb, var(--focus-ring-color) 40%, transparent);
 }
 
 .foss-toggle-btn.active {
@@ -387,16 +609,16 @@ form {
 }
 
 .select-all-checkbox {
-    width: 22px;
-    height: 22px;
+    width: 20px;
+    height: 20px;
     cursor: pointer;
-    transform: scale(1.2);
-    min-width: 22px;
-    min-height: 22px;
+    accent-color: var(--primary-color);
+    border-radius: 4px;
 }
 
 #selectAllLabel {
-    font-size: 15px;
+    font-size: 14px;
+    font-weight: 500;
     color: var(--text-primary);
     cursor: pointer;
 }
@@ -526,6 +748,12 @@ form {
     border-radius: 12px;
     padding: var(--spacing-md);
     box-shadow: inset 0 0 0 1px var(--neutral-overlay-05);
+    transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.column:hover {
+    border-color: color-mix(in srgb, var(--primary-color) 42%, var(--border-color));
+    box-shadow: inset 0 0 0 1px var(--neutral-overlay-05), 0 8px 18px var(--neutral-overlay-10);
 }
 
 .category {
@@ -667,10 +895,11 @@ form {
     display: flex;
     align-items: center;
     margin-bottom: var(--spacing-xs);
-    padding: var(--spacing-xs);
+    padding: calc(var(--spacing-xs) + 2px) var(--spacing-xs);
     border-radius: 8px;
-    border: 1px solid transparent;
-    transition: background-color 0.2s ease, border-color 0.2s ease;
+    border: 1px solid color-mix(in srgb, var(--border-color) 88%, transparent 12%);
+    background: color-mix(in srgb, var(--card-background) 97%, var(--primary-color) 3%);
+    transition: background-color 0.2s ease, border-color 0.2s ease, transform 0.15s ease;
     gap: var(--spacing-sm);
 }
 
@@ -681,11 +910,23 @@ form {
 .column label:hover {
     background-color: color-mix(in srgb, var(--hover-bg) 78%, var(--primary-color) 22%);
     border-color: color-mix(in srgb, var(--border-color) 62%, var(--primary-color) 38%);
+    transform: translateY(-1px);
+}
+
+.column label:active {
+    transform: translateY(0);
+    background-color: color-mix(in srgb, var(--primary-color) 20%, var(--card-background));
 }
 
 .column label:has(input[type="checkbox"]:checked) {
     background-color: color-mix(in srgb, var(--primary-color) 16%, var(--card-background));
     border-color: color-mix(in srgb, var(--primary-color) 45%, var(--border-color));
+    box-shadow: inset 0 0 0 1px color-mix(in srgb, var(--primary-color) 42%, transparent);
+}
+
+.column label:has(input[type="checkbox"]:focus-visible) {
+    outline: 2px solid var(--focus-ring-color);
+    outline-offset: 1px;
 }
 
 .column input[type="checkbox"] {
@@ -726,52 +967,61 @@ form {
 }
 
 .os-btn {
-    padding: var(--spacing-md) var(--spacing-sm);
-    background-color: var(--hover-bg);
+    padding: 10px 16px;
+    background-color: color-mix(in srgb, var(--card-background) 88%, var(--primary-color) 12%);
     color: var(--text-primary);
-    border: 2px solid var(--border-color);
-    border-radius: var(--border-radius);
+    border: 1.5px solid color-mix(in srgb, var(--border-color) 68%, var(--primary-color) 32%);
+    border-radius: 10px;
     cursor: pointer;
     font-size: 14px;
     font-weight: 500;
-    transition: all 0.3s ease;
-    min-width: 100px;
+    transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+    min-width: 90px;
     min-height: 44px;
     display: flex;
     align-items: center;
     justify-content: center;
     gap: 4px;
+    box-shadow: 0 2px 6px var(--neutral-overlay-05);
 }
 
 [data-theme="dark"] .os-btn {
-    background-color: var(--surface-muted);
-    border-color: var(--border-color);
+    background-color: color-mix(in srgb, var(--card-background) 90%, var(--primary-color) 10%);
+    border-color: color-mix(in srgb, var(--border-color) 65%, var(--primary-color) 35%);
 }
 
 .os-btn:hover {
-    background-color: var(--surface-muted-strong);
+    background-color: color-mix(in srgb, var(--hover-bg) 88%, var(--primary-color) 12%);
     border-color: var(--primary-color);
     transform: translateY(-2px);
+    box-shadow: 0 4px 12px color-mix(in srgb, var(--primary-color) 20%, transparent);
 }
 
 [data-theme="dark"] .os-btn:hover {
-    background-color: var(--surface-muted-strong);
+    background-color: color-mix(in srgb, var(--hover-bg) 85%, var(--primary-color) 15%);
 }
 
 .os-btn:focus {
-    outline: 3px solid var(--focus-ring-color);
-    outline-offset: 2px;
+    outline: none;
+    border-color: var(--primary-color);
+    box-shadow: 0 0 0 3px color-mix(in srgb, var(--focus-ring-color) 40%, transparent);
 }
 
 .os-btn.active {
     background-color: var(--primary-color);
     color: var(--text-on-primary);
     border-color: var(--primary-color);
-    box-shadow: var(--shadow-hover);
+    box-shadow: 0 4px 12px color-mix(in srgb, var(--primary-color) 40%, transparent);
+}
+
+.os-btn.active:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 6px 16px color-mix(in srgb, var(--primary-color) 50%, transparent);
 }
 
 .os-btn:active {
-    transform: translateY(0);
+    transform: translateY(0px);
+    box-shadow: 0 1px 3px color-mix(in srgb, var(--primary-color) 15%, transparent);
 }
 
 .secondary-os-selector {
@@ -793,29 +1043,60 @@ form {
 }
 
 .distro-btn {
-    padding: var(--spacing-sm) var(--spacing-md);
-    background-color: var(--card-background);
+    padding: 8px 14px;
+    background-color: color-mix(in srgb, var(--card-background) 88%, var(--primary-color) 12%);
     color: var(--text-primary);
-    border: 2px solid var(--border-color);
-    border-radius: var(--border-radius);
+    border: 1.5px solid color-mix(in srgb, var(--border-color) 68%, var(--primary-color) 32%);
+    border-radius: 10px;
     cursor: pointer;
     font-size: 13px;
     font-weight: 500;
-    transition: all 0.2s ease;
+    transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
     min-height: 36px;
     white-space: nowrap;
+    box-shadow: 0 2px 6px var(--neutral-overlay-04);
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 [data-theme="dark"] .distro-btn {
-    background-color: var(--surface-muted);
-    color: var(--text-primary);
-    border-color: var(--border-color);
+    background-color: color-mix(in srgb, var(--card-background) 90%, var(--primary-color) 10%);
+    border-color: color-mix(in srgb, var(--border-color) 65%, var(--primary-color) 35%);
 }
 
 .distro-btn:hover {
-    background-color: var(--surface-muted-strong);
+    background-color: color-mix(in srgb, var(--hover-bg) 88%, var(--primary-color) 12%);
     border-color: var(--primary-color);
-    transform: translateY(-1px);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 10px color-mix(in srgb, var(--primary-color) 20%, transparent);
+}
+
+[data-theme="dark"] .distro-btn:hover {
+    background-color: color-mix(in srgb, var(--hover-bg) 85%, var(--primary-color) 15%);
+}
+
+.distro-btn:focus {
+    outline: none;
+    border-color: var(--primary-color);
+    box-shadow: 0 0 0 3px color-mix(in srgb, var(--focus-ring-color) 40%, transparent);
+}
+
+.distro-btn.active {
+    background-color: var(--primary-color);
+    color: var(--text-on-primary);
+    border-color: var(--primary-color);
+    box-shadow: 0 4px 12px color-mix(in srgb, var(--primary-color) 35%, transparent);
+}
+
+.distro-btn.active:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 6px 14px color-mix(in srgb, var(--primary-color) 45%, transparent);
+}
+
+.distro-btn:active {
+    transform: translateY(0px);
+    box-shadow: 0 1px 3px color-mix(in srgb, var(--primary-color) 15%, transparent);
 }
 
 .search-input {
@@ -824,13 +1105,27 @@ form {
     width: auto;
     height: var(--main-control-height);
     margin: 0;
+    border: 1px solid color-mix(in srgb, var(--border-color) 72%, var(--primary-color) 28%);
+    color: var(--text-primary);
+}
+
+.search-input:hover {
+    border-color: color-mix(in srgb, var(--primary-color) 55%, var(--border-color));
+}
+
+.search-input:focus {
+    outline: none;
+    border-color: var(--primary-color);
+    box-shadow: 0 0 0 3px var(--focus-ring-color-soft);
 }
 
 .ext-item {
     position: relative;
-    background: color-mix(in srgb, var(--card-background) 96%, var(--primary-color) 4%);
-    border-color: color-mix(in srgb, var(--border-color) 78%, var(--primary-color) 22%);
-    box-shadow: inset 0 1px 0 var(--neutral-overlay-05);
+    background: color-mix(in srgb, var(--card-background) 94%, var(--primary-color) 6%);
+    border: 1px solid color-mix(in srgb, var(--border-color) 72%, var(--primary-color) 28%);
+    border-radius: 10px;
+    box-shadow: 0 2px 6px var(--neutral-overlay-04), inset 0 1px 0 var(--neutral-overlay-08);
+    transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .ext-item.foss-hidden {
@@ -838,13 +1133,30 @@ form {
 }
 
 .ext-item:hover {
-    background: color-mix(in srgb, var(--hover-bg) 84%, var(--primary-color) 16%);
-    border-color: color-mix(in srgb, var(--border-color) 60%, var(--primary-color) 40%);
+    background: color-mix(in srgb, var(--hover-bg) 90%, var(--primary-color) 10%);
+    border-color: color-mix(in srgb, var(--border-color) 50%, var(--primary-color) 50%);
+    transform: translateY(-2px);
+    box-shadow: 0 6px 14px color-mix(in srgb, var(--primary-color) 20%, transparent), inset 0 1px 0 var(--neutral-overlay-08);
 }
 
 .ext-item:has(input[type="checkbox"]:checked) {
-    background: color-mix(in srgb, var(--primary-color) 14%, var(--card-background));
-    border-color: color-mix(in srgb, var(--primary-color) 48%, var(--border-color));
+    background: color-mix(in srgb, var(--primary-color) 12%, var(--card-background));
+    border-color: var(--primary-color);
+    box-shadow: 0 4px 12px color-mix(in srgb, var(--primary-color) 25%, transparent), inset 0 0 0 1px color-mix(in srgb, var(--primary-color) 30%, transparent);
+}
+
+.ext-item:has(input[type="checkbox"]:checked):hover {
+    background: color-mix(in srgb, var(--primary-color) 18%, var(--card-background));
+    box-shadow: 0 6px 16px color-mix(in srgb, var(--primary-color) 35%, transparent), inset 0 0 0 1px color-mix(in srgb, var(--primary-color) 40%, transparent);
+}
+
+.ext-item:active {
+    transform: translateY(0px);
+}
+
+.ext-item:has(input[type="checkbox"]:focus-visible) {
+    outline: 2px solid var(--focus-ring-color);
+    outline-offset: 2px;
 }
 
 .ext-icon {
@@ -892,13 +1204,17 @@ form {
 }
 
 .command-footer {
-    position: static;
-    margin: var(--spacing-lg) var(--spacing-sm) 0;
-    border: 1px solid var(--border-color);
-    border-radius: 18px;
-    box-shadow: var(--shadow-light);
-    padding: var(--spacing-sm);
-    background: color-mix(in srgb, var(--card-background) 96%, var(--primary-color) 4%);
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 45;
+    margin: 0;
+    border-top: 1px solid color-mix(in srgb, var(--border-color) 70%, var(--primary-color) 30%);
+    box-shadow: 0 -12px 24px var(--neutral-overlay-15);
+    padding: var(--spacing-xs) var(--spacing-sm);
+    background: color-mix(in srgb, var(--card-background) 94%, var(--primary-color) 6%);
+    backdrop-filter: blur(8px);
 }
 
 [data-theme="dark"] .command-footer {
@@ -920,7 +1236,7 @@ form {
 .command-output {
     background-color: var(--card-background);
     border: 1px solid var(--border-color);
-    border-radius: 14px;
+    border-radius: 12px;
     overflow: hidden;
     display: flex;
     flex-direction: column;
@@ -933,6 +1249,7 @@ form {
     padding: var(--spacing-xs) var(--spacing-sm);
     border-bottom: 1px solid var(--border-color);
     background-color: color-mix(in srgb, var(--card-background) 90%, var(--primary-color) 10%);
+    gap: var(--spacing-sm);
 }
 
 [data-theme="dark"] .command-output {
@@ -989,6 +1306,9 @@ form {
     font-size: 12px;
     word-break: break-all;
     line-height: 1.5;
+    max-height: 24vh;
+    overflow: auto;
+    padding: var(--spacing-xs) var(--spacing-sm);
 }
 
 .distro-hidden {
@@ -1012,6 +1332,10 @@ form {
 
     .package-section {
         padding: 0 var(--spacing-md);
+    }
+
+    .page-wrapper {
+        padding-bottom: 170px;
     }
 
     .package-actions {
@@ -1064,8 +1388,8 @@ form {
     }
 
     .command-footer {
-        margin: var(--spacing-lg) var(--spacing-md) 0;
-        padding: var(--spacing-md);
+        margin: 0;
+        padding: var(--spacing-sm) var(--spacing-md);
     }
 
     .command-language {
@@ -1079,6 +1403,16 @@ form {
 
     .command-output code {
         font-size: 13px;
+    }
+}
+
+@media (max-width: 767px) {
+    .command-footer {
+        padding-bottom: calc(var(--spacing-xs) + env(safe-area-inset-bottom));
+    }
+
+    .command-output code {
+        max-height: 20vh;
     }
 }
 
@@ -1099,7 +1433,7 @@ form {
 
 @media (min-width: 1024px) {
     .command-footer {
-        margin: var(--spacing-xl) 0 0;
+        margin: 0;
         padding: var(--spacing-md);
     }
 

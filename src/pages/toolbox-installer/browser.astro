@@ -6,6 +6,12 @@ import packagesTableScriptUrl from '../../scripts/packages-table.ts?url';
 const options = [
   { value: 'exportPackages', label: '📤 Export Extensions (JSON)' },
 ];
+
+const browserSelectionOptions = [
+  { value: 'both', label: '🌐 Both browsers' },
+  { value: 'firefox', label: '🦊 Firefox' },
+  { value: 'chromium', label: '🔵 Chromium' },
+];
 ---
 <ToolboxInstallerSection
   title="Browser Extensions Installer"
@@ -13,13 +19,8 @@ const options = [
   searchPlaceholder="Search by extension name"
   options={options}
   showFileInput={false}
+  browserSelectionOptions={browserSelectionOptions}
 >
-  <select slot="controls" id="browserSelect" class="options-select">
-    <option value="both">🌐 Both browsers</option>
-    <option value="firefox">🦊 Firefox</option>
-    <option value="chromium">🔵 Chromium</option>
-  </select>
-
   <ToolboxResultsContainer slot="content" id="browserExtensionsCategories" />
 
   <script slot="script" type="module" src={packagesTableScriptUrl}></script>

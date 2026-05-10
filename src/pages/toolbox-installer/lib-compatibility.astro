@@ -1,6 +1,6 @@
 ---
 import CompatibilityTablePage from '../../components/CompatibilityTablePage.astro';
-import { initLibCompat } from '../../scripts/lib-compat';
+import libCompatScriptUrl from '../../scripts/lib-compat.ts?url';
 ---
 <CompatibilityTablePage
   title="Library Compatibility"
@@ -48,7 +48,5 @@ import { initLibCompat } from '../../scripts/lib-compat';
     <p>For these reasons, C/C++ is also excluded from the automatic install command generator.</p>
   </div>
 
-  <script slot="script">
-    initLibCompat();
-  </script>
+  <script slot="script" type="module" src={libCompatScriptUrl}></script>
 </CompatibilityTablePage>

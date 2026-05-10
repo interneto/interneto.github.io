@@ -6,16 +6,43 @@
 .lib-item {
     display: flex;
     align-items: center;
-    gap: var(--spacing-sm);
-    padding: 8px var(--spacing-xs);
-    border-radius: 6px;
+    gap: 10px;
+    padding: 12px 10px;
+    border-radius: 10px;
     cursor: pointer;
-    transition: background-color 0.2s ease;
+    border: 1px solid color-mix(in srgb, var(--border-color) 70%, var(--primary-color) 30%);
+    background: color-mix(in srgb, var(--card-background) 94%, var(--primary-color) 6%);
+    transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
     flex-wrap: wrap;
+    box-shadow: 0 2px 6px var(--neutral-overlay-04), inset 0 1px 0 var(--neutral-overlay-08);
 }
 
 .lib-item:hover {
-    background-color: var(--hover-bg);
+    background-color: color-mix(in srgb, var(--hover-bg) 90%, var(--primary-color) 10%);
+    border-color: color-mix(in srgb, var(--primary-color) 60%, var(--border-color));
+    transform: translateY(-2px);
+    box-shadow: 0 6px 14px color-mix(in srgb, var(--primary-color) 20%, transparent), inset 0 1px 0 var(--neutral-overlay-08);
+}
+
+.lib-item:active {
+    transform: translateY(0px);
+}
+
+.lib-item:has(input[type="checkbox"]:checked) {
+    background-color: color-mix(in srgb, var(--primary-color) 12%, var(--card-background));
+    border-color: var(--primary-color);
+    box-shadow: 0 4px 12px color-mix(in srgb, var(--primary-color) 25%, transparent), inset 0 0 0 1px color-mix(in srgb, var(--primary-color) 30%, transparent);
+}
+
+.lib-item:has(input[type="checkbox"]:checked):hover {
+    background-color: color-mix(in srgb, var(--primary-color) 18%, var(--card-background));
+    transform: translateY(-2px);
+    box-shadow: 0 6px 16px color-mix(in srgb, var(--primary-color) 35%, transparent), inset 0 0 0 1px color-mix(in srgb, var(--primary-color) 40%, transparent);
+}
+
+.lib-item:has(input[type="checkbox"]:focus-visible) {
+    outline: 2px solid var(--focus-ring-color);
+    outline-offset: 2px;
 }
 
 .lib-name {
