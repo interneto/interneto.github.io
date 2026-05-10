@@ -1,56 +1,48 @@
 ---
-import VPLayout from '../layouts/VPLayout.astro';
-import VPHero from '../components/VPHero.astro';
-import VPFeatures from '../components/VPFeatures.astro';
+import VPLayout from "../layouts/VPLayout.astro";
+import VPHero from "../components/VPHero.astro";
+import VPFeatures from "../components/VPFeatures.astro";
 
-const BASE = import.meta.env.BASE_URL.replace(/\/?$/, '/');
+const BASE = import.meta.env.BASE_URL.replace(/\/?$/, "/");
 
 const homeSections = [
   {
-    icon: '🧰',
-    title: 'Toolbox Installer',
-    details: 'Install curated desktop tools quickly',
-    link: `${BASE}toolbox-installer/`,
-  },
-  {
-    icon: '📚',
-    title: 'Categories',
-    details: 'Browse all curated categories in one place',
+    icon: "📚",
+    title: "Categories",
+    details: "Browse all curated categories in one place",
     link: `${BASE}categories/`,
   },
   {
-    icon: '🗺️',
-    title: 'Map',
-    details: 'Open the interactive link dashboard',
+    icon: "🗺️",
+    title: "Map",
+    details: "Open the interactive link dashboard",
     link: `${BASE}map/`,
   },
-    {
-    icon: '📑',
-    title: 'Posts',
-    details: 'Curated articles, comparisons, and guides',
+  {
+    icon: "🧰",
+    title: "Toolbox Installer",
+    details: "Install curated desktop tools quickly",
+    link: `${BASE}toolbox-installer/`,
+  },
+  {
+    icon: "📑",
+    title: "Posts",
+    details: "Curated articles, comparisons, and guides",
     link: `${BASE}posts/`,
-  }
+  },
 ];
 ---
 
 <VPLayout title="Interneto" hideSidebar hideFooter={false}>
-  <VPHero 
-    title="Interneto" 
+  <VPHero
+    title="Interneto"
     tagline="Rediscover the Internet! 🌐"
     image={{
-      src: '/icon.png',
-      alt: 'Interneto Icon'
+      src: "/icon.png",
+      alt: "Interneto Icon",
     }}
-    actions={[
-      { theme: 'brand', text: 'Open Toolbox Installer', link: `${BASE}toolbox-installer/` },
-      { theme: 'brand', text: 'Explore Categories', link: `${BASE}categories/` },
-      { theme: 'alt', text: 'Read Blog', link: `${BASE}posts/` }
-    ]}
   />
-  <VPFeatures 
-    title="Explore"
-    features={homeSections}
-  />
+  <VPFeatures title="Explore" features={homeSections} />
 </VPLayout>
 
 <style>
