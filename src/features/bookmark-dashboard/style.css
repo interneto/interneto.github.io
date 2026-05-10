@@ -10,6 +10,7 @@
   --muted:   #98b9cc;
   --accent:  #7ea2ff;
   --ok:      #79d3ac;
+  --map-info-bar-height: 56px;
 }
 
 *, *::before, *::after { box-sizing: border-box; }
@@ -30,8 +31,7 @@ body {
 
 /* ── App shell ───────────────────────────────────────────────── */
 
-#app,
-#bookmark-dashboard-root {
+#app {
   display: flex;
   flex-direction: column;
   height: 100%;
@@ -40,18 +40,33 @@ body {
   overflow: hidden;
 }
 
+#bookmark-dashboard-root {
+  display: grid;
+  grid-template-rows: minmax(0, 1fr) auto;
+  height: 100%;
+  min-height: 100%;
+  width: 100%;
+  overflow: hidden;
+  padding-bottom: calc(var(--map-info-bar-height) + env(safe-area-inset-bottom, 0px));
+}
+
 /* ── Info bar (bottom dock) ─────────────────────────────────── */
 
 .info-bar {
   display: flex;
   align-items: center;
   gap: 0.65rem;
-  padding: 0.55rem 1rem;
+  padding: 0.55rem 1rem calc(0.55rem + env(safe-area-inset-bottom, 0px));
+  min-height: var(--map-info-bar-height);
   border-top: 1px solid var(--line);
   background: rgba(4, 18, 30, 0.82);
   backdrop-filter: blur(10px);
   flex-shrink: 0;
-  z-index: 10;
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 70;
 }
 
 .search-icon {
@@ -142,8 +157,10 @@ body {
 .layout {
   display: flex;
   flex: 1;
+  height: 100%;
   min-height: 0;
   position: relative;
+  overflow: hidden;
 }
 
 /* ── Info panel (left, hidden by default) ────────────────────── */
@@ -272,8 +289,8 @@ body {
 
 .zoom-controls {
   position: absolute;
-  top: 0.65rem;
-  right: 0.75rem;
+  right: 0.9rem;
+  bottom: calc(var(--map-info-bar-height) + env(safe-area-inset-bottom, 0px) + 0.75rem);
   z-index: 8;
   display: inline-flex;
   gap: 0.3rem;
@@ -330,7 +347,7 @@ body {
 }
 
 .node--link:hover rect {
-  fill: rgba(160, 236, 203, 0.92);
+  fill: rgba(126, 162, 255, 0.86);
 }
 
 .semantic-node circle {
@@ -367,6 +384,7 @@ body {
 
 .geo-link:hover circle {
   opacity: 1;
+  fill: rgba(126, 162, 255, 0.88);
 }
 
 .geo-labels text {
@@ -403,8 +421,8 @@ body {
   }
 
   .zoom-controls {
-    top: 0.5rem;
-    right: 0.5rem;
+    right: 0.6rem;
+    bottom: calc(var(--map-info-bar-height) + env(safe-area-inset-bottom, 0px) + 0.6rem);
   }
 
   .info-panel { width: 100%; position: absolute; top: 0; left: 0; height: 100%; z-index: 20; }
