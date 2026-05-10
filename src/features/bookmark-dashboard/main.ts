@@ -75,7 +75,12 @@ mountNode.innerHTML = `
       <div class="zoom-controls" id="zoom-controls" aria-label="Zoom controls">
         <button class="zoom-btn" id="zoom-in"    type="button" aria-label="Zoom in">+</button>
         <button class="zoom-btn" id="zoom-out"   type="button" aria-label="Zoom out">-</button>
-        <button class="zoom-btn zoom-btn--wide" id="zoom-reset" type="button" aria-label="Reset zoom">Reset</button>
+        <button class="zoom-btn zoom-btn--wide" id="zoom-reset" type="button" aria-label="Reset zoom">
+          <svg class="zoom-btn-icon" viewBox="0 0 20 20" fill="none" aria-hidden="true">
+            <path d="M4.2 10a5.8 5.8 0 1 0 2-4.35" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>
+            <path d="M4.2 5.65v3.45h3.45" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </button>
       </div>
       <svg id="zui-svg" aria-label="Bookmark map"></svg>
     </section>

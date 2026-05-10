@@ -6,6 +6,10 @@ let currentTheme: string | null = null;
 let isInitialized = false;
 let mediaQueryList: MediaQueryList | null = null;
 
+type LegacyMediaQueryList = MediaQueryList & {
+    addListener?: (listener: (event: MediaQueryListEvent) => void) => void;
+};
+
 export function initTheme(): void {
     if (isInitialized) {
         updateToggleButton(getTheme());
@@ -86,7 +90,10 @@ function updateToggleButton(theme: string): void {
     const toggleButtons = getToggleButtons();
     if (toggleButtons.length === 0) return;
     toggleButtons.forEach((toggleBtn) => {
-        toggleBtn.textContent = isDark ? THEME_CONFIG.EMOJIS.DARK : THEME_CONFIG.EMOJIS.LIGHT;
+        // Keep inline SVG icons intact when present; CSS handles icon swap via [data-theme].
+        if (!toggleBtn.querySelector('svg')) {
+            toggleBtn.textContent = isDark ? THEME_CONFIG.EMOJIS.DARK : THEME_CONFIG.EMOJIS.LIGHT;
+        }
         toggleBtn.setAttribute('aria-label', isDark ? THEME_CONFIG.ARIA_LABELS.DARK : THEME_CONFIG.ARIA_LABELS.LIGHT);
         toggleBtn.setAttribute('title', isDark ? THEME_CONFIG.TITLES.DARK : THEME_CONFIG.TITLES.LIGHT);
     });
@@ -120,6 +127,7 @@ function getToggleButtons(): HTMLElement[] {
 
 function setupSystemThemeListener(): void {
     mediaQueryList = window.matchMedia('(prefers-color-scheme: dark)');
+    const legacyMediaQueryList = mediaQueryList as LegacyMediaQueryList;
     const syncWithSystemTheme = () => {
         if (getSavedTheme()) {
             return;
@@ -130,12 +138,14 @@ function setupSystemThemeListener(): void {
         document.dispatchEvent(event);
     };
 
-    if ('addEventListener' in mediaQueryList) {
+    if (typeof mediaQueryList.addEventListener === 'function') {
         mediaQueryList.addEventListener('change', syncWithSystemTheme);
         return;
     }
 
-    mediaQueryList.addListener(syncWithSystemTheme);
+    if (typeof legacyMediaQueryList.addListener === 'function') {
+        legacyMediaQueryList.addListener(syncWithSystemTheme);
+    }
 }
 
 if (document.readyState === 'loading') {

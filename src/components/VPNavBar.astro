@@ -1,28 +1,29 @@
 ---
 import { isToolboxRoute } from '../scripts/toolbox-routes';
+import Icon from './Icon.astro';
+import type { IconName } from './Icon.astro';
 
 interface NavLink {
   text: string;
   link: string;
-  icon?: string;
+  icon: IconName;
 }
 
 export interface Props {
   title?: string;
-  icon?: string;
   links?: NavLink[];
 }
 
-const { title = 'Interneto', icon = '📚', links = [] } = Astro.props;
+const { title = 'Interneto', links = [] } = Astro.props;
 const BASE = import.meta.env.BASE_URL.replace(/\/?$/, '/');
 const pathname = Astro.url.pathname;
 
 const defaultLinks: NavLink[] = [
-  { text: '📚 Categories', link: `${BASE}categories/` },
-  { text: '🗺️ Map of Links', link: `${BASE}map/` },
-  { text: '🧰 Toolbox Installer', link: `${BASE}toolbox-installer/` },
-  { text: '📑 Posts', link: `${BASE}posts/` },
-  { text: 'ℹ️ About', link: `${BASE}about/` },
+  { text: 'Categories', link: `${BASE}categories/`, icon: 'categories' },
+  { text: 'Map of Links', link: `${BASE}map/`, icon: 'map' },
+  { text: 'Toolbox Installer', link: `${BASE}toolbox-installer/`, icon: 'toolbox' },
+  { text: 'Posts', link: `${BASE}posts/`, icon: 'posts' },
+  { text: 'About', link: `${BASE}about/`, icon: 'about' },
 ];
 
 const navLinks = links.length > 0 ? links : defaultLinks;
@@ -58,15 +59,18 @@ const isActive = (link: string) => {
                   target={link.link.startsWith('http') ? '_blank' : undefined}
                   rel={link.link.startsWith('http') ? 'noreferrer' : undefined}
                 >
-                  {link.text}
+                  <span class="vp-nav-menu-link-content">
+                    <Icon name={link.icon} class="vp-nav-link-icon" />
+                    <span>{link.text}</span>
+                  </span>
                 </a>
               ))}
             </nav>
           </div>
           <div class="vp-nav-actions">
             <button type="button" id="themeToggle" data-theme-toggle class="vp-theme-toggle" aria-label="Switch theme" title="Theme">
-              <span class="vp-icon-moon">🌙</span>
-              <span class="vp-icon-sun">☀️</span>
+              <Icon name="moon" class="vp-theme-icon vp-theme-icon-moon" />
+              <Icon name="sun" class="vp-theme-icon vp-theme-icon-sun" />
             </button>
           </div>
         </div>
@@ -93,15 +97,18 @@ const isActive = (link: string) => {
             target={link.link.startsWith('http') ? '_blank' : undefined}
             rel={link.link.startsWith('http') ? 'noreferrer' : undefined}
           >
-            {link.text}
+            <span class="vp-mobile-nav-link-content">
+              <Icon name={link.icon} class="vp-mobile-nav-link-icon" />
+              <span>{link.text}</span>
+            </span>
           </a>
         ))}
       </nav>
       <div class="vp-mobile-nav-theme-row">
         <span class="vp-mobile-nav-theme-label">Theme</span>
         <button type="button" data-theme-toggle class="vp-theme-toggle vp-theme-toggle-mobile" aria-label="Switch theme" title="Theme">
-          <span class="vp-icon-moon">🌙</span>
-          <span class="vp-icon-sun">☀️</span>
+          <Icon name="moon" class="vp-theme-icon vp-theme-icon-moon" />
+          <Icon name="sun" class="vp-theme-icon vp-theme-icon-sun" />
         </button>
       </div>
     </div>

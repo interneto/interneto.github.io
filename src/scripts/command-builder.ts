@@ -5,6 +5,15 @@
 
 import { DISTRO_PREFIXES } from './config';
 
+type PackageInfo = {
+    name: string;
+    package_manager: Record<string, string | undefined>;
+};
+
+type PackagesData = {
+    packages: Record<string, PackageInfo | undefined>;
+};
+
 /**
  * Build an installation command from selected packages and distro
  * @param {string} selectedDistro - The package manager key (e.g., 'linux_arch_pacman')
@@ -17,10 +26,14 @@ import { DISTRO_PREFIXES } from './config';
  * @returns {Array} result.nonInstallablePackages - Packages not available for this distro
  * @returns {boolean} result.hasCommand - Whether a command was generated
  */
-export function buildCommand(selectedDistro, selectedPackageIds, packagesData) {
-    const installationCommands = [];
-    const aurPackages = [];
-    const nonInstallablePackages = [];
+export function buildCommand(
+    selectedDistro: string,
+    selectedPackageIds: string[],
+    packagesData: PackagesData,
+) {
+    const installationCommands: string[] = [];
+    const aurPackages: string[] = [];
+    const nonInstallablePackages: string[] = [];
 
     // Process each selected package
     selectedPackageIds.forEach(packageId => {
@@ -72,7 +85,7 @@ export function buildCommand(selectedDistro, selectedPackageIds, packagesData) {
  * @param {string} distroKey - The distro key (e.g., 'linux_arch_pacman')
  * @returns {string} The command prefix (e.g., 'sudo pacman -S')
  */
-export function getCommandPrefix(distroKey) {
+export function getCommandPrefix(distroKey: string): string {
     return DISTRO_PREFIXES[distroKey] || '';
 }
 
@@ -89,6 +102,6 @@ export function getAvailableDistros() {
  * @param {string} distroKey - The distro key to check
  * @returns {boolean} True if valid distro
  */
-export function isValidDistro(distroKey) {
+export function isValidDistro(distroKey: string): boolean {
     return distroKey in DISTRO_PREFIXES;
 }

@@ -1,0 +1,45 @@
+---
+export type IconName = 'categories' | 'map' | 'toolbox' | 'posts' | 'about' | 'moon' | 'sun';
+
+interface Props {
+  name: IconName;
+  class?: string;
+  title?: string;
+}
+
+const { name, class: className = '', title } = Astro.props;
+
+const paths: Record<IconName, string> = {
+  categories: 'M4 5.25h5.5v5.5H4zM10.5 5.25H16v5.5h-5.5zM4 10.75h5.5v5.5H4zM10.5 10.75H16v5.5h-5.5z',
+  map: 'M4.5 4.75l4-1.5 3 1.5 4-1.5v12l-4 1.5-3-1.5-4 1.5zm4 0v12m3-10.5v12',
+  toolbox: 'M3.5 7.25h13v8.75h-13zM7.25 7.25V5.75A1.75 1.75 0 0 1 9 4h2a1.75 1.75 0 0 1 1.75 1.75v1.5M3.5 10h13',
+  posts: 'M4.5 4.25h11A1.5 1.5 0 0 1 17 5.75v8.5a1.5 1.5 0 0 1-1.5 1.5h-11A1.5 1.5 0 0 1 3 14.25v-8.5a1.5 1.5 0 0 1 1.5-1.5zm2 3.25h7m-7 3h7m-7 3h4.5',
+  about: 'M10 3.25a6.75 6.75 0 1 0 0 13.5 6.75 6.75 0 0 0 0-13.5zm0 3.25a.85.85 0 1 1 0 1.7.85.85 0 0 1 0-1.7zm-1 3h2v4.25H9z',
+  moon: '',
+  sun: '',
+};
+
+const d = paths[name];
+const ariaHidden = title ? 'false' : 'true';
+const isThemeIcon = name === 'moon' || name === 'sun';
+---
+
+<svg
+  class={`icon ${className}`}
+  viewBox={isThemeIcon ? '0 0 24 24' : '0 0 20 20'}
+  fill="none"
+  aria-hidden={ariaHidden}
+  role={title ? 'img' : 'presentation'}
+>
+  {title && <title>{title}</title>}
+  {name === 'sun' && (
+    <>
+      <circle cx="12" cy="12" r="5" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M12 1v2m0 18v2M4.22 4.22l1.42 1.42m12.72 12.72 1.42 1.42M1 12h2m18 0h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+    </>
+  )}
+  {name === 'moon' && (
+    <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  )}
+  {!isThemeIcon && <path d={d} stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />}
+</svg>
