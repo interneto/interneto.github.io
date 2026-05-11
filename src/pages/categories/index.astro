@@ -76,8 +76,10 @@ const getIcon = (id: string) => {
         
         return (
           <a href={link} class="vp-category-card">
-            <div class="vp-category-icon">{icon}</div>
-            <h2 class="vp-category-title">{title}</h2>
+            <div class="vp-category-head">
+              <div class="vp-category-icon">{icon}</div>
+              <h2 class="vp-category-title">{title}</h2>
+            </div>
             <p class="vp-category-description">{description}</p>
           </a>
         );

@@ -1,0 +1,800 @@
+{
+    "sources": {
+        "desktop": "/pkgs/desktop-pkgs.json",
+        "mobile": "/pkgs/mobile-pkgs.json"
+    },
+    "entries": [
+        {
+            "category": "Communication",
+            "name": "Discord",
+            "icon": "/img/apps/discord.svg",
+            "link": "https://discord.com/",
+            "tags": [
+                "web",
+                "desktop",
+                "mobile"
+            ]
+        },
+        {
+            "category": "Communication",
+            "name": "Telegram",
+            "icon": "/img/apps/telegram.svg",
+            "link": "https://telegram.org/",
+            "tags": [
+                "web",
+                "desktop",
+                "mobile"
+            ]
+        },
+        {
+            "category": "Communication",
+            "name": "Slack",
+            "icon": "/img/apps/no.svg",
+            "link": "https://slack.com/",
+            "tags": [
+                "web",
+                "desktop",
+                "mobile"
+            ]
+        },
+        {
+            "category": "Design",
+            "name": "Figma",
+            "icon": "/img/apps/figma.svg",
+            "link": "https://www.figma.com/",
+            "tags": [
+                "web",
+                "desktop",
+                "mobile"
+            ]
+        },
+        {
+            "category": "Design",
+            "name": "Canva",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.canva.com/",
+            "tags": [
+                "web",
+                "desktop",
+                "mobile"
+            ]
+        },
+        {
+            "category": "Development",
+            "name": "GitHub",
+            "icon": "/img/apps/github.svg",
+            "link": "https://github.com/",
+            "tags": [
+                "web",
+                "desktop",
+                "mobile"
+            ]
+        },
+        {
+            "category": "Development",
+            "name": "Visual Studio Code",
+            "icon": "/img/apps/visual-studio-code.svg",
+            "link": "https://code.visualstudio.com/",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "Development",
+            "name": "Docker",
+            "icon": "/img/apps/docker.svg",
+            "link": "https://www.docker.com/",
+            "tags": [
+                "web",
+                "desktop"
+            ]
+        },
+        {
+            "category": "Development",
+            "name": "Postman",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.postman.com/",
+            "tags": [
+                "web",
+                "desktop"
+            ]
+        },
+        {
+            "category": "Knowledge",
+            "name": "Archive.org",
+            "icon": "/img/apps/archive.svg",
+            "link": "https://archive.org/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Knowledge",
+            "name": "Wikipedia",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.wikipedia.org/",
+            "tags": [
+                "web",
+                "mobile"
+            ]
+        },
+        {
+            "category": "Knowledge",
+            "name": "MDN Web Docs",
+            "icon": "/img/apps/no.svg",
+            "link": "https://developer.mozilla.org/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Libraries",
+            "name": "React",
+            "icon": "/img/apps/react.svg",
+            "link": "https://react.dev/",
+            "tags": [
+                "lib"
+            ]
+        },
+        {
+            "category": "Libraries",
+            "name": "Astro",
+            "icon": "/icon.png",
+            "link": "https://astro.build/",
+            "tags": [
+                "lib"
+            ]
+        },
+        {
+            "category": "Libraries",
+            "name": "Tailwind CSS",
+            "icon": "/img/apps/no.svg",
+            "link": "https://tailwindcss.com/",
+            "tags": [
+                "lib"
+            ]
+        },
+        {
+            "category": "Libraries",
+            "name": "Vue",
+            "icon": "/img/apps/no.svg",
+            "link": "https://vuejs.org/",
+            "tags": [
+                "lib"
+            ]
+        },
+        {
+            "category": "Media",
+            "name": "YouTube",
+            "icon": "/img/apps/youtube.svg",
+            "link": "https://www.youtube.com/",
+            "tags": [
+                "web",
+                "desktop",
+                "mobile"
+            ]
+        },
+        {
+            "category": "Media",
+            "name": "Spotify",
+            "icon": "/img/apps/no.svg",
+            "link": "https://open.spotify.com/",
+            "tags": [
+                "web",
+                "desktop",
+                "mobile"
+            ]
+        },
+        {
+            "category": "Productivity",
+            "name": "Notion",
+            "icon": "/img/apps/notion.svg",
+            "link": "https://www.notion.so/",
+            "tags": [
+                "web",
+                "desktop",
+                "mobile"
+            ]
+        },
+        {
+            "category": "Productivity",
+            "name": "Obsidian",
+            "icon": "/img/apps/no.svg",
+            "link": "https://obsidian.md/",
+            "tags": [
+                "desktop",
+                "mobile"
+            ]
+        },
+        {
+            "category": "Social",
+            "name": "Reddit",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.reddit.com/",
+            "tags": [
+                "web",
+                "mobile"
+            ]
+        },
+        {
+            "category": "Weather",
+            "name": "Windy",
+            "icon": "/img/apps/windy.svg",
+            "link": "https://www.windy.com/",
+            "tags": [
+                "web",
+                "mobile"
+            ]
+        },
+        {
+            "category": "Discovery",
+            "name": "AlternativeTo",
+            "icon": "/img/apps/no.svg",
+            "link": "https://alternativeto.net/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Discovery",
+            "name": "CoinGecko",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.coingecko.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Discovery",
+            "name": "Eylenburg",
+            "icon": "/img/apps/no.svg",
+            "link": "https://eylenburg.github.io/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Discovery",
+            "name": "FMHY",
+            "icon": "/img/apps/no.svg",
+            "link": "https://fmhy.net/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Discovery",
+            "name": "FMHY Tracker",
+            "icon": "/img/apps/no.svg",
+            "link": "https://fmhy-tracker.pages.dev/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Reading",
+            "name": "Folo",
+            "icon": "/img/apps/no.svg",
+            "link": "https://app.folo.is/timeline/articles/all/pending",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Development",
+            "name": "GitHub Explore",
+            "icon": "/img/apps/github.svg",
+            "link": "https://github.com/explore",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Reading",
+            "name": "Goodreads",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.goodreads.com/",
+            "tags": [
+                "web",
+                "mobile"
+            ]
+        },
+        {
+            "category": "Media",
+            "name": "IMDb",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.imdb.com/",
+            "tags": [
+                "web",
+                "mobile"
+            ]
+        },
+        {
+            "category": "Productivity",
+            "name": "RecipeSage",
+            "icon": "/img/apps/no.svg",
+            "link": "https://recipesage.com/#/list/main",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Media",
+            "name": "Trakt",
+            "icon": "/img/apps/no.svg",
+            "link": "https://app.trakt.tv/",
+            "tags": [
+                "web",
+                "mobile"
+            ]
+        },
+        {
+            "category": "Media",
+            "name": "Fandom",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.fandom.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Learning",
+            "name": "Boot.dev",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.boot.dev/dashboard",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Learning",
+            "name": "Codecademy",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.codecademy.com/catalog",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Learning",
+            "name": "freeCodeCamp",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.freecodecamp.org/learn",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Learning",
+            "name": "GeoGebra",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.geogebra.org/math",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Learning",
+            "name": "Khan Academy",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.khanacademy.org/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Learning",
+            "name": "OpenWebinars",
+            "icon": "/img/apps/no.svg",
+            "link": "https://openwebinars.net/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Learning",
+            "name": "W3Schools",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.w3schools.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Learning",
+            "name": "WolframAlpha",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.wolframalpha.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "AI",
+            "name": "DeepL Translator",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.deepl.com/en/translator",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "AI",
+            "name": "Google Translate",
+            "icon": "/img/apps/no.svg",
+            "link": "https://translate.google.com/?hl=en&tab=TT&sl=es&tl=ru&op=translate",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "AI",
+            "name": "ChatGPT",
+            "icon": "/img/apps/no.svg",
+            "link": "https://chatgpt.com/",
+            "tags": [
+                "web",
+                "mobile"
+            ]
+        },
+        {
+            "category": "AI",
+            "name": "Claude",
+            "icon": "/img/apps/no.svg",
+            "link": "https://claude.ai/login",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "AI",
+            "name": "DeepSeek Chat",
+            "icon": "/img/apps/no.svg",
+            "link": "https://chat.deepseek.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "AI",
+            "name": "ElevenLabs",
+            "icon": "/img/apps/no.svg",
+            "link": "https://elevenlabs.io/app/home",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "AI",
+            "name": "Magnific",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.magnific.com/app",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "AI",
+            "name": "Gemini",
+            "icon": "/img/apps/no.svg",
+            "link": "https://gemini.google.com/app",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "AI",
+            "name": "OpenRouter",
+            "icon": "/img/apps/no.svg",
+            "link": "https://openrouter.ai/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "AI",
+            "name": "Replicate Collections",
+            "icon": "/img/apps/no.svg",
+            "link": "https://replicate.com/collections/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Design",
+            "name": "Excalidraw",
+            "icon": "/img/apps/no.svg",
+            "link": "https://excalidraw.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Design",
+            "name": "Pencil Project",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.pencil.dev/",
+            "tags": [
+                "web",
+                "desktop"
+            ]
+        },
+        {
+            "category": "Design",
+            "name": "Stitch with Google",
+            "icon": "/img/apps/no.svg",
+            "link": "https://stitch.withgoogle.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Social",
+            "name": "LinkedIn",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.linkedin.com/",
+            "tags": [
+                "web",
+                "mobile"
+            ]
+        },
+        {
+            "category": "Social",
+            "name": "Mastodon",
+            "icon": "/img/apps/no.svg",
+            "link": "https://mastodon.social/explore",
+            "tags": [
+                "web",
+                "mobile"
+            ]
+        },
+        {
+            "category": "Social",
+            "name": "Instagram",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.instagram.com/",
+            "tags": [
+                "web",
+                "mobile"
+            ]
+        },
+        {
+            "category": "Social",
+            "name": "TikTok",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.tiktok.com/explore",
+            "tags": [
+                "web",
+                "mobile"
+            ]
+        },
+        {
+            "category": "Communication",
+            "name": "Telegram Web",
+            "icon": "/img/apps/telegram.svg",
+            "link": "https://web.telegram.org/a/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Communication",
+            "name": "WhatsApp Web",
+            "icon": "/img/apps/no.svg",
+            "link": "https://web.whatsapp.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Maps",
+            "name": "AllTrails",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.alltrails.com/",
+            "tags": [
+                "web",
+                "mobile"
+            ]
+        },
+        {
+            "category": "Maps",
+            "name": "Google Maps",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.google.com/maps/@0,0,3z?entry=ttu&g_ep=EgoyMDI1MDkyNC4wIKXMDSoASAFQAw%3D%3D",
+            "tags": [
+                "web",
+                "mobile"
+            ]
+        },
+        {
+            "category": "Maps",
+            "name": "Google Earth Web",
+            "icon": "/img/apps/no.svg",
+            "link": "https://earth.google.com/web/@36.23919503,-6.44153304,0a,4589641.05349735d,35y,0h,0t,0r/data=CgRCAggCOgMKATBCAggASg0I____________ARAA?authuser=0",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Maps",
+            "name": "OpenStreetMap",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.openstreetmap.org/#map=3/28.69/0.09",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Maps",
+            "name": "Wikiloc",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&page=1",
+            "tags": [
+                "web",
+                "mobile"
+            ]
+        },
+        {
+            "category": "Streaming",
+            "name": "Crunchyroll",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.crunchyroll.com/",
+            "tags": [
+                "web",
+                "mobile"
+            ]
+        },
+        {
+            "category": "Streaming",
+            "name": "DAZN",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.dazn.com/en-ES/home",
+            "tags": [
+                "web",
+                "mobile"
+            ]
+        },
+        {
+            "category": "Streaming",
+            "name": "Disney+",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.disneyplus.com/home",
+            "tags": [
+                "web",
+                "mobile"
+            ]
+        },
+        {
+            "category": "Streaming",
+            "name": "HBO Max",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.hbomax.com/es/en",
+            "tags": [
+                "web",
+                "mobile"
+            ]
+        },
+        {
+            "category": "Streaming",
+            "name": "Netflix",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.netflix.com/es-en/",
+            "tags": [
+                "web",
+                "mobile"
+            ]
+        },
+        {
+            "category": "Streaming",
+            "name": "Movistar Plus+",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.movistarplus.es/",
+            "tags": [
+                "web",
+                "mobile"
+            ]
+        },
+        {
+            "category": "Streaming",
+            "name": "Prime Video",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.primevideo.com/offers/nonprimehomepage",
+            "tags": [
+                "web",
+                "mobile"
+            ]
+        },
+        {
+            "category": "Streaming",
+            "name": "Plex Web",
+            "icon": "/img/apps/no.svg",
+            "link": "https://app.plex.tv/desktop/#!/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Streaming",
+            "name": "Pluto TV",
+            "icon": "/img/apps/no.svg",
+            "link": "https://pluto.tv/es/live-tv/5f984f4a09e92d0007d74647?lang=en",
+            "tags": [
+                "web",
+                "mobile"
+            ]
+        },
+        {
+            "category": "Streaming",
+            "name": "Pstream",
+            "icon": "/img/apps/no.svg",
+            "link": "https://pstream.net/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Streaming",
+            "name": "Stremio Web",
+            "icon": "/img/apps/no.svg",
+            "link": "https://web.stremio.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Streaming",
+            "name": "Teleonline",
+            "icon": "/img/apps/no.svg",
+            "link": "https://teleonline.org/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Streaming",
+            "name": "TV Multiview",
+            "icon": "/img/apps/no.svg",
+            "link": "https://interneto.github.io/tv-multiview/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Media",
+            "name": "Odysee",
+            "icon": "/img/apps/no.svg",
+            "link": "https://odysee.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Media",
+            "name": "Radio Garden",
+            "icon": "/img/apps/no.svg",
+            "link": "https://radio.garden/balloon-ride",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Media",
+            "name": "Twitch",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.twitch.tv/",
+            "tags": [
+                "web",
+                "mobile"
+            ]
+        },
+        {
+            "category": "Discovery",
+            "name": "Interneto",
+            "icon": "/icon.png",
+            "link": "https://interneto.github.io/",
+            "tags": [
+                "web"
+            ]
+        }
+    ]
+}

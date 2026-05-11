@@ -1,0 +1,121 @@
+---
+import VPLayout from '../layouts/VPLayout.astro';
+
+const BASE = import.meta.env.BASE_URL.replace(/\/?$/, '/');
+
+const toolboxCards = [
+  {
+    title: 'Desktop Installer',
+    description: 'Install desktop apps with command generation, filters, and favorites.',
+    href: `${BASE}toolbox/desktop/`,
+    icon: '🖥️',
+  },
+  {
+    title: 'Mobile Installer',
+    description: 'Browse mobile packages for Android and iOS workflows.',
+    href: `${BASE}toolbox/mobile/`,
+    icon: '📱',
+  },
+  {
+    title: 'Library Installer',
+    description: 'Search software libraries by ecosystem and export selections.',
+    href: `${BASE}toolbox/lib/`,
+    icon: '📚',
+  },
+  {
+    title: 'Browser Extensions',
+    description: 'Pick browser add-ons for Firefox and Chromium.',
+    href: `${BASE}toolbox/browser/`,
+    icon: '🧩',
+  },
+  {
+    title: 'VS Code Extensions',
+    description: 'Curated editor extensions with import, export, and favorites.',
+    href: `${BASE}toolbox/vscode/`,
+    icon: '🛠️',
+  },
+];
+
+const compatibilityLinks = [
+  { label: 'Desktop OS Compatibility', href: `${BASE}toolbox/desktop-os-compatibility/`, icon: '🖥️' },
+  { label: 'Mobile OS Compatibility', href: `${BASE}toolbox/mobile-os-compatibility/`, icon: '📱' },
+  { label: 'Library Compatibility Table', href: `${BASE}toolbox/lib-compatibility/`, icon: '📚' },
+  { label: 'Browser Extensions Compatibility', href: `${BASE}toolbox/browser-extensions-compatibility/`, icon: '🧩' },
+  { label: 'VS Code Extensions Compatibility', href: `${BASE}toolbox/vscode-extensions-compatibility/`, icon: '🛠️' },
+];
+
+const directoryLinks = [
+  {
+    label: 'Unified Packages Table',
+    href: `${BASE}toolbox/packages/`,
+    icon: '📦',
+    description: 'Browse one flat searchable directory grouped by category with shared #desktop, #mobile, #web, and #lib tags.',
+  },
+];
+---
+
+<VPLayout title="Toolbox" hasSidebar={false} extraStyles={['styles/toolbox-landing.css']}>
+  <section class="toolbox-landing">
+    <section class="toolbox-hero-shell">
+      <div class="toolbox-hero">
+        <div>
+          <div class="toolbox-eyebrow">Toolbox</div>
+          <h1>Toolbox</h1>
+          <p>One home for installers, compatibility references, and a shared packages directory spanning desktop apps, mobile apps, websites, and libraries.</p>
+        </div>
+        <a class="toolbox-primary-link" href={`${BASE}toolbox/packages/`}>Open Packages Directory</a>
+      </div>
+    </section>
+
+    <section class="toolbox-section">
+      <div class="toolbox-section-header">
+        <h2>Installers</h2>
+        <p>Choose the installer surface you want to work with.</p>
+      </div>
+      <div class="toolbox-grid">
+        {toolboxCards.map((card) => (
+          <a class="toolbox-card" href={card.href}>
+            <span class="toolbox-card-icon">{card.icon}</span>
+            <h3>{card.title}</h3>
+            <p>{card.description}</p>
+          </a>
+        ))}
+      </div>
+    </section>
+
+    <div class="toolbox-separator" aria-hidden="true"></div>
+
+    <section class="toolbox-section">
+      <div class="toolbox-section-header">
+        <h2>Compatibility Tables</h2>
+        <p>Compare availability and support before jumping into each installer.</p>
+      </div>
+      <div class="toolbox-compatibility-grid">
+        {compatibilityLinks.map((item) => (
+          <a class="toolbox-compatibility-link" href={item.href}>
+            <span class="toolbox-card-icon">{item.icon}</span>
+            <span>{item.label}</span>
+          </a>
+        ))}
+      </div>
+    </section>
+
+    <div class="toolbox-separator" aria-hidden="true"></div>
+
+    <section class="toolbox-section">
+      <div class="toolbox-section-header">
+        <h2>Packages Directory</h2>
+        <p>Use one shared dataset across desktop, mobile, web, and library views without nested groups.</p>
+      </div>
+      <div class="toolbox-grid">
+        {directoryLinks.map((item) => (
+          <a class="toolbox-card" href={item.href}>
+            <span class="toolbox-card-icon">{item.icon}</span>
+            <h3>{item.label}</h3>
+            <p>{item.description}</p>
+          </a>
+        ))}
+      </div>
+    </section>
+  </section>
+</VPLayout>
