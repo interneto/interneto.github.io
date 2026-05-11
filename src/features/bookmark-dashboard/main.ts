@@ -7,6 +7,7 @@ import type { ViewMode } from './shared';
 import { renderClassic, limitTopLinksPerSubcategory } from './views/classicView';
 import { renderGeo } from './views/geoView';
 import { renderSemantic } from './views/semanticView';
+import { renderTree } from './views/treeView';
 
 // ─── App state ────────────────────────────────────────────────────────────────
 
@@ -59,6 +60,7 @@ mountNode.innerHTML = `
     </div>
     <div class="view-toggle" role="tablist" aria-label="View mode">
       <button class="view-btn" id="view-classic" data-view="classic" type="button">Classic</button>
+      <button class="view-btn" id="view-tree" data-view="tree" type="button">Tree</button>
       <button class="view-btn" id="view-semantic" data-view="semantic" type="button">Semantic</button>
       <button class="view-btn" id="view-geo" data-view="geo" type="button">Geo Map</button>
     </div>
@@ -106,6 +108,7 @@ const zoomResetBtn  = document.querySelector<HTMLButtonElement>('#zoom-reset')!;
 
 function parseViewModeFromUrl(): ViewMode {
   const value = new URL(window.location.href).searchParams.get('view');
+  if (value === 'tree') return 'tree';
   if (value === 'semantic') return 'semantic';
   if (value === 'geo') return 'geo';
   return 'classic';
@@ -287,26 +290,30 @@ function render(): void {
   const classicRecords   = limitTopLinksPerSubcategory(clusteredRecords, 3);
   const favoritesCount = state.records.filter((record) => isFavoriteRecord(record)).length;
 
-  if (state.viewMode === 'classic') {
-    statsEl.textContent = `${classicRecords.length.toLocaleString()} shown (top 3/subcategory) · ${filteredRecords.length.toLocaleString()} matched · ${state.records.length.toLocaleString()} total · ${favoritesCount.toLocaleString()} favorites`;
-  } else {
-    statsEl.textContent = `${filteredRecords.length.toLocaleString()} / ${state.records.length.toLocaleString()} · ${favoritesCount.toLocaleString()} favorites`;
-  }
-
   const svg = d3.select<SVGSVGElement, unknown>('#zui-svg');
   svg.selectAll('*').remove();
 
   zoomState.transform = zoomState.viewTransforms[state.viewMode];
 
   if (state.viewMode === 'semantic') {
+    statsEl.textContent = `${filteredRecords.length.toLocaleString()} / ${state.records.length.toLocaleString()} · ${favoritesCount.toLocaleString()} favorites`;
     renderSemantic(svg, clusteredRecords, showLinkPanel);
     return;
   }
 
   if (state.viewMode === 'geo') {
+    statsEl.textContent = `${filteredRecords.length.toLocaleString()} / ${state.records.length.toLocaleString()} · ${favoritesCount.toLocaleString()} favorites`;
     renderGeo(svg, clusteredRecords, showLinkPanel);
     return;
   }
+
+  if (state.viewMode === 'tree') {
+    const metrics = renderTree(svg, clusteredRecords, showLinkPanel, render);
+    statsEl.textContent = `${metrics.visibleNodes.toLocaleString()} nodes · ${metrics.visibleBookmarks.toLocaleString()} links visible · ${filteredRecords.length.toLocaleString()} matched · ${state.records.length.toLocaleString()} total · ${favoritesCount.toLocaleString()} favorites`;
+    return;
+  }
+
+  statsEl.textContent = `${classicRecords.length.toLocaleString()} shown (top 3/subcategory) · ${filteredRecords.length.toLocaleString()} matched · ${state.records.length.toLocaleString()} total · ${favoritesCount.toLocaleString()} favorites`;
 
   renderClassic(svg, classicRecords, showLinkPanel);
 }
@@ -383,7 +390,7 @@ zoomResetBtn.addEventListener('click', () => { resetZoom();  });
 for (const button of viewButtons) {
   button.addEventListener('click', () => {
     const selected = button.dataset.view;
-    if (selected !== 'classic' && selected !== 'semantic' && selected !== 'geo') return;
+    if (selected !== 'classic' && selected !== 'tree' && selected !== 'semantic' && selected !== 'geo') return;
     state.viewMode = selected;
     syncViewButtons(selected);
     updateViewModeUrl(selected);
