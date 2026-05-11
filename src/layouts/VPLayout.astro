@@ -76,7 +76,7 @@ const shouldShowSidebar = hasSidebar && !hideSidebar;
     };
   </script>
 </head>
-<body>
+<body class="vp-shell-body">
   <div id="app" class="Layout">
     <a href="#VPContent" class="VPSkipLink visually-hidden">Skip to content</a>
     
@@ -102,45 +102,52 @@ const shouldShowSidebar = hasSidebar && !hideSidebar;
       const root = document.documentElement;
       const hamburger = document.getElementById('vpNavHamburger');
       const mobileNavPanel = document.getElementById('vpMobileNavPanel');
+      const navOverlay = document.getElementById('vpNavOverlay');
       const sidebar = document.getElementById('vpSidebar');
       const sidebarTrigger = document.getElementById('vpSidebarTrigger');
-      const backdrop = document.getElementById('vpMobileSidebarBackdrop');
-      const mobileQuery = window.matchMedia('(max-width: 960px)');
+      const sidebarBackdrop = document.getElementById('vpMobileSidebarBackdrop');
 
-      if (!hamburger) return;
-
-      const setNavOpen = (open) => {
-        root.classList.toggle('vp-mobile-nav-open', open);
-        hamburger.setAttribute('aria-expanded', open ? 'true' : 'false');
-        if (mobileNavPanel) {
-          mobileNavPanel.setAttribute('aria-hidden', open ? 'false' : 'true');
-        }
-      };
-
-      const setSidebarOpen = (open) => {
+      /* ── Sidebar ── */
+      function setSidebarOpen(open) {
         if (!sidebar) return;
         root.classList.toggle('vp-mobile-sidebar-open', open);
         sidebar.setAttribute('aria-hidden', open ? 'false' : 'true');
         if (sidebarTrigger) {
           sidebarTrigger.setAttribute('aria-expanded', open ? 'true' : 'false');
         }
-      };
-
-      const closeAll = () => {
-        setNavOpen(false);
-        setSidebarOpen(false);
-      };
-
-      if (mobileQuery.matches) {
-        closeAll();
       }
 
-      hamburger.addEventListener('click', () => {
-        const isOpen = hamburger.getAttribute('aria-expanded') === 'true';
-        setSidebarOpen(false);
-        setNavOpen(!isOpen);
-      });
+      /* ── Mobile nav ── */
+      function setNavOpen(open) {
+        root.classList.toggle('vp-mobile-nav-open', open);
+        if (hamburger) hamburger.setAttribute('aria-expanded', open ? 'true' : 'false');
+        if (mobileNavPanel) mobileNavPanel.setAttribute('aria-hidden', open ? 'false' : 'true');
+        if (navOverlay) navOverlay.setAttribute('aria-hidden', open ? 'false' : 'true');
+      }
 
+      if (hamburger) {
+        hamburger.addEventListener('click', () => {
+          const isOpen = hamburger.getAttribute('aria-expanded') === 'true';
+          setSidebarOpen(false);
+          setNavOpen(!isOpen);
+        });
+      }
+
+      /* Close mobile nav when a nav link is clicked */
+      if (mobileNavPanel) {
+        mobileNavPanel.addEventListener('click', (e) => {
+          if (e.target instanceof HTMLElement && e.target.closest('a')) {
+            setNavOpen(false);
+          }
+        });
+      }
+
+      /* Close mobile nav when overlay is clicked */
+      if (navOverlay) {
+        navOverlay.addEventListener('click', () => setNavOpen(false));
+      }
+
+      /* Sidebar trigger and backdrop */
       if (sidebarTrigger) {
         sidebarTrigger.addEventListener('click', () => {
           const isOpen = sidebarTrigger.getAttribute('aria-expanded') === 'true';
@@ -149,34 +156,28 @@ const shouldShowSidebar = hasSidebar && !hideSidebar;
         });
       }
 
-      if (backdrop) {
-        backdrop.addEventListener('click', () => setSidebarOpen(false));
+      if (sidebarBackdrop) {
+        sidebarBackdrop.addEventListener('click', () => setSidebarOpen(false));
       }
 
-      document.addEventListener('click', (event) => {
-        const target = event.target;
-        if (!(target instanceof HTMLElement)) return;
-        if (!target.closest('.vp-mobile-nav-panel') && !target.closest('#vpNavHamburger')) {
+      /* Close both menus on Escape */
+      document.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape') {
           setNavOpen(false);
+          setSidebarOpen(false);
         }
       });
 
-      document.addEventListener('keydown', (event) => {
-        if (event.key === 'Escape') closeAll();
-      });
-
-      mobileQuery.addEventListener('change', (event) => {
-        if (!event.matches) {
-          closeAll();
-          if (sidebar) {
-            sidebar.setAttribute('aria-hidden', 'false');
-          }
-        }
-      });
-
-      document.querySelectorAll('.vp-mobile-nav-link').forEach((link) => {
-        link.addEventListener('click', () => setNavOpen(false));
-      });
+      /* Close mobile nav when viewport becomes wide enough (resize) */
+      const desktopMq = window.matchMedia('(min-width: 48rem)');
+      function handleResize(mq) {
+        if (mq.matches) setNavOpen(false);
+      }
+      if (desktopMq.addEventListener) {
+        desktopMq.addEventListener('change', handleResize);
+      } else if (desktopMq.addListener) {
+        desktopMq.addListener(handleResize); // Safari < 14
+      }
     })();
   </script>
 </body>

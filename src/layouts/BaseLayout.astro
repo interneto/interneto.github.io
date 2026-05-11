@@ -1,6 +1,6 @@
 ---
 import SiteFooter from '../components/SiteFooter.astro';
-import UnifiedHeader from '../components/UnifiedHeader.astro';
+import VPNavBar from '../components/VPNavBar.astro';
 
 interface Props {
   title: string;
@@ -41,10 +41,11 @@ const BASE = import.meta.env.BASE_URL.replace(/\/?$/, '/');
   <link rel="icon" type="image/svg+xml" href={`${BASE}favicon.svg`} />
   <link rel="stylesheet" href={`${BASE}styles/vitepress-base.css`} />
   <link rel="stylesheet" href={`${BASE}styles/base-styles.css`} />
+  <link rel="stylesheet" href={`${BASE}styles/vp-shell.css`} />
   {extraStyles.map(href => <link rel="stylesheet" href={`${BASE}${href.replace(/^\//, '')}`} />)}
 </head>
-<body>
-  {!hideHeader && <UnifiedHeader />}
+<body class="vp-shell-body">
+  {!hideHeader && <VPNavBar />}
   <slot />
   {!hideFooter && <SiteFooter />}
   <script>

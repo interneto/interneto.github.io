@@ -40,45 +40,49 @@ const isActive = (link: string) => {
 ---
 
 <header class="vp-nav">
-  <div class="vp-nav-bar vp-nav-bar-home top">
-    <div class="vp-nav-wrapper">
-      <div class="vp-nav-container">
-        <div class="vp-nav-title">
-          <a class="vp-nav-brand" href={`${BASE}`}>
-            <img src={`${BASE}icon.png`} alt="Interneto" class="vp-nav-icon-img" />
-            <span class="vp-nav-brand-text">{title}</span>
+  <div class="vp-nav-wrapper">
+    <div class="vp-nav-container">
+      <!-- Brand (always visible) -->
+      <a class="vp-nav-brand" href={`${BASE}`}>
+        <img src={`${BASE}icon.png`} alt="Interneto" class="vp-nav-icon-img" />
+        <span class="vp-nav-brand-text">{title}</span>
+      </a>
+
+      <!-- Desktop navigation (hidden on mobile, shown at ≥768px via CSS) -->
+      <nav class="vp-nav-menu" aria-label="Main navigation">
+        {navLinks.map((link) => (
+          <a
+            class={`vp-nav-menu-link ${isActive(link.link) ? 'active' : ''}`}
+            href={link.link}
+            target={link.link.startsWith('http') ? '_blank' : undefined}
+            rel={link.link.startsWith('http') ? 'noreferrer' : undefined}
+          >
+            <span class="vp-nav-menu-link-content">
+              <Icon name={link.icon} class="vp-nav-link-icon" />
+              <span>{link.text}</span>
+            </span>
           </a>
-        </div>
-        <div class="vp-nav-content">
-          <div class="vp-nav-body">
-            <nav class="vp-nav-menu" aria-label="Main Navigation">
-              {navLinks.map((link) => (
-                <a 
-                  class={`vp-nav-menu-link ${isActive(link.link) ? 'active' : ''}`}
-                  href={link.link}
-                  target={link.link.startsWith('http') ? '_blank' : undefined}
-                  rel={link.link.startsWith('http') ? 'noreferrer' : undefined}
-                >
-                  <span class="vp-nav-menu-link-content">
-                    <Icon name={link.icon} class="vp-nav-link-icon" />
-                    <span>{link.text}</span>
-                  </span>
-                </a>
-              ))}
-            </nav>
-          </div>
-          <div class="vp-nav-actions">
-            <button type="button" id="themeToggle" data-theme-toggle class="vp-theme-toggle" aria-label="Switch theme" title="Theme">
-              <Icon name="moon" class="vp-theme-icon vp-theme-icon-moon" />
-              <Icon name="sun" class="vp-theme-icon vp-theme-icon-sun" />
-            </button>
-          </div>
-        </div>
+        ))}
+      </nav>
+
+      <!-- Right actions: theme toggle (always visible) + hamburger (hidden at ≥768px) -->
+      <div class="vp-nav-actions">
+        <button
+          type="button"
+          id="themeToggle"
+          data-theme-toggle
+          class="vp-theme-toggle"
+          aria-label="Switch theme"
+          title="Toggle theme"
+        >
+          <Icon name="moon" class="vp-theme-icon vp-theme-icon-moon" />
+          <Icon name="sun" class="vp-theme-icon vp-theme-icon-sun" />
+        </button>
         <button
           type="button"
           id="vpNavHamburger"
           class="vp-nav-hamburger"
-          aria-label="Toggle mobile menu"
+          aria-label="Toggle navigation menu"
           aria-controls="vpMobileNavPanel"
           aria-expanded="false"
         >
@@ -88,30 +92,27 @@ const isActive = (link: string) => {
         </button>
       </div>
     </div>
-    <div id="vpMobileNavPanel" class="vp-mobile-nav-panel" aria-hidden="true">
-      <nav class="vp-mobile-nav-links" aria-label="Mobile Navigation">
-        {navLinks.map((link) => (
-          <a
-            class={`vp-mobile-nav-link ${isActive(link.link) ? 'active' : ''}`}
-            href={link.link}
-            target={link.link.startsWith('http') ? '_blank' : undefined}
-            rel={link.link.startsWith('http') ? 'noreferrer' : undefined}
-          >
-            <span class="vp-mobile-nav-link-content">
-              <Icon name={link.icon} class="vp-mobile-nav-link-icon" />
-              <span>{link.text}</span>
-            </span>
-          </a>
-        ))}
-      </nav>
-      <div class="vp-mobile-nav-theme-row">
-        <span class="vp-mobile-nav-theme-label">Theme</span>
-        <button type="button" data-theme-toggle class="vp-theme-toggle vp-theme-toggle-mobile" aria-label="Switch theme" title="Theme">
-          <Icon name="moon" class="vp-theme-icon vp-theme-icon-moon" />
-          <Icon name="sun" class="vp-theme-icon vp-theme-icon-sun" />
-        </button>
-      </div>
-    </div>
-    <div class="vp-nav-divider"></div>
   </div>
+
+  <!-- Mobile nav panel (solid opaque background, opens below header) -->
+  <div id="vpMobileNavPanel" class="vp-mobile-nav-panel" aria-hidden="true">
+    <nav class="vp-mobile-nav-links" aria-label="Mobile navigation">
+      {navLinks.map((link) => (
+        <a
+          class={`vp-mobile-nav-link ${isActive(link.link) ? 'active' : ''}`}
+          href={link.link}
+          target={link.link.startsWith('http') ? '_blank' : undefined}
+          rel={link.link.startsWith('http') ? 'noreferrer' : undefined}
+        >
+          <span class="vp-mobile-nav-link-content">
+            <Icon name={link.icon} class="vp-mobile-nav-link-icon" />
+            <span>{link.text}</span>
+          </span>
+        </a>
+      ))}
+    </nav>
+  </div>
+
+  <!-- Overlay: darkens content when mobile menu is open; click to close -->
+  <div id="vpNavOverlay" class="vp-nav-overlay" aria-hidden="true"></div>
 </header>
