@@ -1,0 +1,48 @@
+---
+import CompatibilityTablePage from '../../components/CompatibilityTablePage.astro';
+import toolboxDirectoryScriptUrl from '../../scripts/toolbox-directory.ts?url';
+const BASE = import.meta.env.BASE_URL.replace(/\/?$/, '/');
+---
+
+<CompatibilityTablePage
+  title="Toolbox Packages"
+  heading="Toolbox Packages"
+  subtitle="A flat shared directory of apps, websites, platforms, and libraries."
+  installerHref={`${BASE}toolbox/`}
+  installerLabel="Back to Toolbox"
+  searchPlaceholder="Search category, package, platform, or tag"
+  extraStyles={['styles/toolbox-directory.css']}
+  pageNote="One shared JSON source powers the full directory, with multi-tag entries across desktop, mobile, web, and library surfaces."
+>
+  <div slot="controls" class="page-filter-row filter-chips" role="group" aria-label="Filter packages by tag">
+    <button type="button" class="filter-chip active" data-tag="all" aria-pressed="true">All</button>
+    <button type="button" class="filter-chip" data-tag="desktop" aria-pressed="false">#desktop</button>
+    <button type="button" class="filter-chip" data-tag="mobile" aria-pressed="false">#mobile</button>
+    <button type="button" class="filter-chip" data-tag="web" aria-pressed="false">#web</button>
+    <button type="button" class="filter-chip" data-tag="lib" aria-pressed="false">#lib</button>
+  </div>
+
+  <div class="table-container">
+    <table id="toolboxDirectoryTable" class="toolbox-directory-table">
+      <thead>
+        <tr>
+          <th>Category</th>
+          <th>Icon + Name</th>
+          <th>Tags</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+  </div>
+
+  <div class="stats" aria-label="Directory stats">
+    <div class="stat-item"><div class="stat-number" id="directoryVisibleCount">0</div><div class="stat-label">Visible Entries</div></div>
+    <div class="stat-item"><div class="stat-number" id="directoryTotalCount">0</div><div class="stat-label">Total Entries</div></div>
+    <div class="stat-item"><div class="stat-number" id="directoryDesktopCount">0</div><div class="stat-label">#desktop</div></div>
+    <div class="stat-item"><div class="stat-number" id="directoryMobileCount">0</div><div class="stat-label">#mobile</div></div>
+    <div class="stat-item"><div class="stat-number" id="directoryWebCount">0</div><div class="stat-label">#web</div></div>
+    <div class="stat-item"><div class="stat-number" id="directoryLibCount">0</div><div class="stat-label">#lib</div></div>
+  </div>
+
+  <script slot="script" type="module" src={toolboxDirectoryScriptUrl}></script>
+</CompatibilityTablePage>

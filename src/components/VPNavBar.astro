@@ -21,7 +21,7 @@ const pathname = Astro.url.pathname;
 const defaultLinks: NavLink[] = [
   { text: 'Categories', link: `${BASE}categories/`, icon: 'categories' },
   { text: 'Map of Links', link: `${BASE}map/`, icon: 'map' },
-  { text: 'Toolbox Installer', link: `${BASE}toolbox-installer/`, icon: 'toolbox' },
+  { text: 'Toolbox', link: `${BASE}toolbox/`, icon: 'toolbox' },
   { text: 'Posts', link: `${BASE}posts/`, icon: 'posts' },
   { text: 'About', link: `${BASE}about/`, icon: 'about' },
 ];
@@ -29,7 +29,7 @@ const defaultLinks: NavLink[] = [
 const navLinks = links.length > 0 ? links : defaultLinks;
 
 const isActive = (link: string) => {
-  if (link === `${BASE}toolbox-installer/`) {
+  if (link === `${BASE}toolbox/` || link === `${BASE}toolbox-installer/`) {
     return isToolboxRoute(pathname, BASE);
   }
   if (link === `${BASE}` || link === '/') {

@@ -1,5 +1,5 @@
 /**
- * Toolbox Installer - Main Application
+ * Toolbox - Main Application
  * Entry point for initializing all modules and functionality
  */
 
