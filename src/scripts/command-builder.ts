@@ -5,12 +5,12 @@
 
 import { DISTRO_PREFIXES } from './config';
 
-type PackageInfo = {
+export type PackageInfo = {
     name: string;
     package_manager: Record<string, string | undefined>;
 };
 
-type PackagesData = {
+export type PackagesData = {
     packages: Record<string, PackageInfo | undefined>;
 };
 

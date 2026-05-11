@@ -11,7 +11,7 @@ interface Props {
 const { title, heading, extraStyles = [] } = Astro.props;
 ---
 <VPLayout title={title} hasSidebar={false} extraStyles={['styles/generator.css', ...extraStyles]}>
-  <div class="page-wrapper">
+  <div class="page-wrapper installer-page-wrapper">
     <PageHeader heading={heading} />
     <slot />
   </div>
