@@ -1,7 +1,7 @@
 import * as d3 from 'd3';
 
 // ─── View mode type ───────────────────────────────────────────────────────────
-export type ViewMode = 'classic' | 'semantic' | 'geo';
+export type ViewMode = 'classic' | 'semantic' | 'geo' | 'tree';
 
 // ─── Shared color scale ───────────────────────────────────────────────────────
 export const PARENT_PALETTE: string[] = [
@@ -17,6 +17,7 @@ export const zoomState = {
     classic:  d3.zoomIdentity as d3.ZoomTransform,
     semantic: d3.zoomIdentity as d3.ZoomTransform,
     geo:      d3.zoomIdentity as d3.ZoomTransform,
+    tree:     d3.zoomIdentity as d3.ZoomTransform,
   } as Record<ViewMode, d3.ZoomTransform>,
 };
 

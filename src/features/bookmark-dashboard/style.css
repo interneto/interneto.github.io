@@ -462,6 +462,71 @@ body {
   transition: transform 0.15s ease, opacity 0.15s ease;
 }
 
+/* ── Tree view ─────────────────────────────────────────────── */
+
+.tree-link {
+  fill: none;
+  stroke: color-mix(in srgb, var(--accent) 62%, var(--line));
+  stroke-linecap: round;
+  transition: opacity 0.2s ease;
+}
+
+.tree-node-hit {
+  fill: transparent;
+}
+
+.tree-node-core {
+  transition: filter 0.18s ease, r 0.2s ease;
+}
+
+.tree-node:hover .tree-node-core {
+  filter: brightness(1.12);
+}
+
+.tree-node--group .tree-node-core {
+  filter: drop-shadow(0 0 10px rgba(37, 87, 130, 0.28));
+}
+
+.tree-node--bookmark .tree-node-core {
+  filter: drop-shadow(0 0 8px rgba(37, 87, 130, 0.2));
+}
+
+.tree-node-toggle {
+  fill: color-mix(in srgb, var(--text) 90%, white 10%);
+  font-family: 'IBM Plex Mono', Consolas, monospace;
+  font-size: 10px;
+  font-weight: 700;
+  pointer-events: none;
+}
+
+.tree-node.is-collapsed .tree-node-core {
+  stroke-dasharray: 2.5 2;
+}
+
+.tree-labels text {
+  fill: var(--map-label-2);
+  font-family: 'Space Grotesk', 'Segoe UI', sans-serif;
+  font-size: 11px;
+  letter-spacing: 0.01em;
+  paint-order: stroke;
+  stroke: var(--map-label-stroke);
+  stroke-width: 3;
+}
+
+.tree-node-label {
+  transition: opacity 0.18s ease;
+}
+
+.tree-node-label.depth-0 {
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.tree-node-label.depth-1 {
+  font-size: 12px;
+  font-weight: 600;
+}
+
 /* ── Geo Map view ────────────────────────────────────────────── */
 
 .geo-island,
