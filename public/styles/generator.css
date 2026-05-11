@@ -1,10 +1,19 @@
 @import url('base-styles.css');
 
 /*   PAGE LAYOUT - MOBILE FIRST========================================================================== */
+:root {
+    --command-footer-space: 0px;
+    --command-footer-min-space: 9rem;
+}
+
 .page-wrapper {
     max-width: 1280px;
     margin: 0 auto;
-    padding: 0 18px 160px;
+    padding: 0 18px max(var(--command-footer-min-space), var(--command-footer-space));
+}
+
+.installer-page-wrapper {
+    max-width: 1520px;
 }
 
 .container {
@@ -731,7 +740,7 @@ form {
 }
 
 .package-container {
-    max-width: 1280px;
+    max-width: 1600px;
     margin: calc(var(--spacing-md) + 2px) auto 0 auto;
     background:
         linear-gradient(180deg, color-mix(in srgb, var(--card-background) 96%, var(--primary-color) 4%), color-mix(in srgb, var(--card-background) 91%, var(--primary-color) 9%));
@@ -807,19 +816,56 @@ form {
 
 .columns {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    grid-template-columns: minmax(0, 1fr);
     gap: calc(var(--spacing-sm) + 4px);
     margin: var(--spacing-md) 0;
+    align-items: start;
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
+    gap: calc(var(--spacing-sm) + 4px);
+    min-width: 0;
 }
 
 .column:hover {
-    border-color: color-mix(in srgb, var(--primary-color) 42%, var(--border-color));
-    box-shadow: 0 14px 28px var(--neutral-overlay-10), inset 0 1px 0 var(--neutral-overlay-10);
-    transform: translateY(-2px);
+    transform: none;
+    box-shadow: none;
+    border-color: transparent;
+}
+
+.category {
+    display: block;
+    min-width: 0;
 }
 
 .category:last-child {
     margin-bottom: 0;
+}
+
+@media (min-width: 48rem) {
+    .columns {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+}
+
+@media (min-width: 64rem) {
+    .columns {
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+}
+
+@media (min-width: 80rem) {
+    .columns {
+        grid-template-columns: repeat(4, minmax(0, 1fr));
+    }
+}
+
+@media (min-width: 96rem) {
+    .columns {
+        grid-template-columns: repeat(5, minmax(0, 1fr));
+    }
 }
 
 .category:hover {
@@ -1432,7 +1478,7 @@ form {
     }
 
     .page-wrapper {
-        padding-bottom: 170px;
+        padding-bottom: max(var(--command-footer-min-space), var(--command-footer-space));
     }
 
     .package-actions {
@@ -1551,7 +1597,7 @@ form {
 
 @media (min-width: 1400px) {
     .page-wrapper {
-        padding: 0 var(--spacing-lg) 56px;
+        padding: 0 var(--spacing-lg) max(calc(var(--command-footer-min-space) - 1.5rem), var(--command-footer-space));
     }
 
     .page-header {

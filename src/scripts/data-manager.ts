@@ -5,15 +5,16 @@
 
 import { CONFIG, EVENT_NAMES } from './config';
 import { getSelectedPackageIds, getElement } from './dom-utils';
+import type { PackageInfo, PackagesData } from './command-builder';
 
 // Module state
-let packagesData: { packages: Record<string, unknown> } | null = null;
+let packagesData: PackagesData | null = null;
 
 /**
  * Load packages from JSON file
  * @returns {Promise<Object>} The loaded packages data
  */
-export async function loadPackages() {
+export async function loadPackages(): Promise<PackagesData> {
     try {
         const loadingSpinner = getElement('LOADING_SPINNER');
         const packageContainer = getElement('PACKAGE_CONTAINER');
@@ -24,7 +25,7 @@ export async function loadPackages() {
             throw new Error(`Failed to load packages data: ${response.statusText}`);
         }
         
-        packagesData = await response.json();
+        packagesData = await response.json() as PackagesData;
         
         if (loadingSpinner) {
             loadingSpinner.classList.add('hidden');
@@ -63,7 +64,7 @@ export async function loadPackages() {
  * Get the current packages data
  * @returns {Object|null} The packages data or null if not loaded
  */
-export function getPackagesData() {
+export function getPackagesData(): PackagesData | null {
     return packagesData;
 }
 
@@ -72,11 +73,11 @@ export function getPackagesData() {
  * @param {string} packageId - The package ID
  * @returns {Object|null} The package info or null if not found
  */
-export function getPackageData(packageId) {
+export function getPackageData(packageId: string): PackageInfo | null {
     if (!packagesData || !packagesData.packages) {
         return null;
     }
-    return packagesData.packages[packageId] || null;
+    return (packagesData.packages[packageId] as PackageInfo | undefined) || null;
 }
 
 /**

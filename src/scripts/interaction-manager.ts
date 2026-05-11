@@ -183,6 +183,16 @@ export function setupCopyButton() {
  * Setup auto-generation of command on selection changes
  */
 export function setupAutoCommandGeneration() {
+    syncCommandFooterSpace();
+
+    const commandFooter = document.getElementById('commandFooter');
+    if (commandFooter && 'ResizeObserver' in window) {
+        const resizeObserver = new ResizeObserver(() => syncCommandFooterSpace());
+        resizeObserver.observe(commandFooter);
+    }
+
+    window.addEventListener('resize', syncCommandFooterSpace);
+
     // Trigger on package checkbox change
     document.addEventListener('change', function(e) {
         const target = e.target as HTMLInputElement | null;
@@ -232,6 +242,7 @@ export function autoGenerateCommand() {
                 commandElement.textContent = 'Select packages to generate installation command...';
             }
             if (commandFooter) commandFooter.hidden = true;
+            syncCommandFooterSpace();
             return;
         }
 
@@ -255,9 +266,19 @@ export function autoGenerateCommand() {
             }
         }
         if (commandFooter) commandFooter.hidden = false;
+        syncCommandFooterSpace();
     } catch (error) {
         console.error('Error generating command:', error);
     }
+}
+
+function syncCommandFooterSpace() {
+    const commandFooter = document.getElementById('commandFooter') as HTMLElement | null;
+    const footerSpace = commandFooter && !commandFooter.hidden
+        ? commandFooter.offsetHeight + 16
+        : 0;
+
+    document.documentElement.style.setProperty('--command-footer-space', `${footerSpace}px`);
 }
 
 /**

@@ -23,6 +23,14 @@ interface PackagesData {
 
 const DEFAULT_ICON_EXTENSIONS = ['svg', 'png', 'jpg', 'jpeg', 'webp'];
 
+let categoryLayoutState: {
+    container: HTMLElement;
+    sections: HTMLElement[];
+    columnCount: number;
+} | null = null;
+
+let hasResponsiveLayoutListener = false;
+
 // Some app icons in the repo are only available as png/jpg, so prefer those first.
 const ICON_EXTENSION_OVERRIDES: Record<string, string[]> = {
         'gpx-viewer': ['png', 'svg', 'jpg', 'jpeg', 'webp'],
@@ -59,33 +67,29 @@ export function generatePackages(packagesData: PackagesData): void {
     
     packageContainer.innerHTML = ''; // Clear container
 
-    // Define categories by column
-    const columnCategories = [
-        ['Development'],
-        ['Internet & Communication'],
-        ['System'],
-        ['File Management'],
-        ['Audio'],
-        ['Image'],
-        ['Video'],
-        ['Office'],
-        ['Virtualization'],
-        ['Utility'],
-        ['Gaming'],
-        ['Reading'],
-        ['Science'],
+    const categories = [
+        'Development',
+        'Internet & Communication',
+        'System',
+        'File Management',
+        'Audio',
+        'Image',
+        'Video',
+        'Office',
+        'Virtualization',
+        'Utility',
+        'Gaming',
+        'Reading',
+        'Science',
     ];
 
-    // Create columns
-    columnCategories.forEach(categoryList => {
-        const columnDiv = document.createElement('div');
-        columnDiv.classList.add(CLASS_NAMES.COLUMN);
-        packageContainer.appendChild(columnDiv);
+    const categorySections = categories.map(category => createCategorySection(category, packagesData));
+    renderCategoryColumns(packageContainer, categorySections);
 
-        categoryList.forEach(category => {
-            createCategorySection(columnDiv, category, packagesData);
-        });
-    });
+    if (!hasResponsiveLayoutListener) {
+        window.addEventListener('resize', handleResponsiveCategoryLayout);
+        hasResponsiveLayoutListener = true;
+    }
 }
 
 /**
@@ -94,11 +98,10 @@ export function generatePackages(packagesData: PackagesData): void {
  * @param {string} category - Category name
  * @param {Object} packagesData - The packages data
  */
-function createCategorySection(columnDiv: HTMLElement, category: string, packagesData: PackagesData): void {
+function createCategorySection(category: string, packagesData: PackagesData): HTMLElement {
     const categoryDiv = document.createElement('div');
     const categoryClass = category.replace(/\s+/g, '-').toLowerCase();
     categoryDiv.classList.add(CLASS_NAMES.CATEGORY, categoryClass);
-    columnDiv.appendChild(categoryDiv);
 
     // Category header
     const categoryHeader = document.createElement('div');
@@ -179,6 +182,49 @@ function createCategorySection(columnDiv: HTMLElement, category: string, package
             }
         }
     });
+
+    return categoryDiv;
+}
+
+function getResponsiveColumnCount(): number {
+    const width = window.innerWidth;
+
+    if (width >= 1536) return 5;
+    if (width >= 1280) return 4;
+    if (width >= 1024) return 3;
+    if (width >= 768) return 2;
+    return 1;
+}
+
+function renderCategoryColumns(packageContainer: HTMLElement, categorySections: HTMLElement[]): void {
+    const columnCount = getResponsiveColumnCount();
+    packageContainer.innerHTML = '';
+
+    const columns = Array.from({ length: columnCount }, () => {
+        const columnDiv = document.createElement('div');
+        columnDiv.classList.add(CLASS_NAMES.COLUMN);
+        packageContainer.appendChild(columnDiv);
+        return columnDiv;
+    });
+
+    categorySections.forEach((section, index) => {
+        columns[index % columnCount].appendChild(section);
+    });
+
+    categoryLayoutState = {
+        container: packageContainer,
+        sections: categorySections,
+        columnCount,
+    };
+}
+
+function handleResponsiveCategoryLayout(): void {
+    if (!categoryLayoutState) return;
+
+    const nextColumnCount = getResponsiveColumnCount();
+    if (nextColumnCount === categoryLayoutState.columnCount) return;
+
+    renderCategoryColumns(categoryLayoutState.container, categoryLayoutState.sections);
 }
 
 /**
