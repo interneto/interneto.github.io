@@ -339,6 +339,13 @@ declare module 'astro:content' {
   collection: "posts";
   data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
+"history-of-computing.md": {
+	id: "history-of-computing.md";
+  slug: "history-of-computing";
+  body: string;
+  collection: "posts";
+  data: InferEntrySchema<"posts">
+} & { render(): Render[".md"] };
 "how-to-categorize-links.md": {
 	id: "how-to-categorize-links.md";
   slug: "how-to-categorize-links";
