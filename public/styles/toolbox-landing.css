@@ -1,27 +1,27 @@
 .toolbox-landing {
   max-width: 1220px;
   margin: 0 auto;
-  padding: 36px 20px 60px;
+  padding: 2rem 1rem 3rem;
 }
 
 .toolbox-hero-shell {
-  margin-bottom: 28px;
+  margin-bottom: 1.75rem;
 }
 
 .toolbox-hero {
   display: grid;
-  grid-template-columns: 1fr auto;
-  gap: 20px;
+  grid-template-columns: 1fr;
+  gap: 1rem;
   align-items: end;
-  padding: 28px;
+  padding: 1.25rem;
   border: 1px solid var(--border-color);
-  border-radius: 18px;
+  border-radius: 1.125rem;
   background: radial-gradient(circle at top right, rgba(106, 160, 255, 0.18), transparent 38%), linear-gradient(180deg, var(--card-background), color-mix(in srgb, var(--card-background) 90%, var(--primary-color) 10%));
   box-shadow: var(--shadow-hover);
 }
 
 .toolbox-eyebrow {
-  margin-bottom: 10px;
+  margin-bottom: 0.625rem;
   color: var(--primary-color);
   font-size: 0.8rem;
   font-weight: 700;
@@ -30,7 +30,7 @@
 }
 
 .toolbox-hero h1 {
-  margin: 0 0 10px;
+  margin: 0 0 0.625rem;
   font-size: clamp(2rem, 5vw, 3.4rem);
 }
 
@@ -45,8 +45,8 @@
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  min-width: 220px;
-  padding: 14px 18px;
+  min-width: 13.75rem;
+  padding: 0.875rem 1.125rem;
   border-radius: 999px;
   background: var(--primary-color);
   color: var(--text-on-primary);
@@ -57,18 +57,18 @@
 }
 
 .toolbox-section {
-  margin-top: 24px;
-  padding: 18px;
+  margin-top: 1.5rem;
+  padding: 1rem;
 }
 
 .toolbox-section-header {
-  margin-bottom: 18px;
-  padding: 6px 4px 0;
+  margin-bottom: 1.125rem;
+  padding: 0.375rem 0.25rem 0;
 }
 
 .toolbox-section-header h2 {
   margin: 0 0 8px;
-  font-size: 1.45rem;
+  font-size: 1.25rem;
 }
 
 .toolbox-section-header p {
@@ -79,19 +79,19 @@
 .toolbox-grid,
 .toolbox-compatibility-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-  gap: 20px;
+  grid-template-columns: repeat(auto-fit, minmax(13.75rem, 1fr));
+  gap: 1rem;
 }
 
 .toolbox-card,
 .toolbox-compatibility-link {
   display: flex;
   flex-direction: column;
-  gap: 14px;
-  min-height: 170px;
-  padding: 22px;
+  gap: 0.875rem;
+  min-height: 10.625rem;
+  padding: 1.125rem;
   border: 1px solid color-mix(in srgb, var(--border-color) 62%, var(--primary-color) 38%);
-  border-radius: 18px;
+  border-radius: 1.125rem;
   background:
     linear-gradient(180deg, color-mix(in srgb, var(--card-background) 84%, var(--primary-color) 16%), color-mix(in srgb, var(--card-background) 95%, var(--primary-color) 5%));
   color: var(--text-primary);
@@ -138,9 +138,9 @@
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  width: 52px;
-  height: 52px;
-  border-radius: 14px;
+  width: 3.25rem;
+  height: 3.25rem;
+  border-radius: 0.875rem;
   font-size: 1.65rem;
   background: linear-gradient(180deg, color-mix(in srgb, var(--card-background) 72%, var(--primary-color) 28%), color-mix(in srgb, var(--card-background) 88%, var(--primary-color) 12%));
   border: 1px solid color-mix(in srgb, var(--border-color) 58%, var(--primary-color) 42%);
@@ -168,7 +168,7 @@
   align-items: center;
   min-height: 0;
   font-weight: 700;
-  gap: 14px;
+  gap: 0.875rem;
 }
 
 .toolbox-compatibility-link span:last-child {
@@ -178,17 +178,26 @@
 }
 
 .toolbox-separator {
-  margin: 24px 2px 0;
+  margin: 1.5rem 0.125rem 0;
   border-top: 1px dashed color-mix(in srgb, var(--border-color) 58%, var(--primary-color) 42%);
 }
 
-@media (max-width: 768px) {
+@media (min-width: 48rem) {
   .toolbox-landing {
-    padding: 26px 16px 46px;
+    padding: 2.25rem 1.25rem 3.5rem;
   }
 
   .toolbox-hero {
-    grid-template-columns: 1fr;
-    align-items: start;
+    grid-template-columns: 1fr auto;
+    gap: 1.25rem;
+    align-items: end;
+  }
+
+  .toolbox-section {
+    padding: 1.125rem;
+  }
+
+  .toolbox-section-header h2 {
+    font-size: 1.45rem;
   }
 }

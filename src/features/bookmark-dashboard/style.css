@@ -590,13 +590,31 @@ body {
   }
 }
 
-@media (max-width: 420px) {
+@media (min-width: 26.25rem) {
+  .info-bar {
+    gap: 0.34rem;
+    padding: calc(0.38rem + env(safe-area-inset-top, 0px)) 0.45rem 0.4rem;
+  }
+
+  .search-toggle-btn {
+    width: 2.125rem;
+    height: 2.125rem;
+  }
+
   .view-btn {
     font-size: 0.66rem;
     padding: 0.22rem 0.3rem;
+    letter-spacing: 0.02em;
   }
 
   .favorites-filter-btn {
     font-size: 0.68rem;
+    min-height: 2.125rem;
+  }
+
+  #stats {
+    white-space: normal;
+    line-height: 1.25;
+    font-size: 0.64rem;
   }
 }

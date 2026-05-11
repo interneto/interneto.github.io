@@ -5,14 +5,31 @@
 // ============================================================================
 const BASE = import.meta.env.BASE_URL.replace(/\/?$/, '/');
 
-function detectJsonUrl(): string {
-    const path = window.location.pathname;
-    if (path.includes('mobile')) {
-        return `${BASE}pkgs/mobile-pkgs.json`;
-    } else if (path.includes('desktop')) {
-        return `${BASE}pkgs/desktop-pkgs.json`;
+function resolvePkgsFileFromPath(pathname: string): string {
+    const path = pathname.toLowerCase();
+
+    if (path.includes('browser-extensions') || path.includes('/browser/')) {
+        return 'browser-extensions-pkgs.json';
     }
-    return `${BASE}pkgs/desktop-pkgs.json`;
+
+    if (path.includes('vscode-extensions') || /\/(vscode)\//.test(path)) {
+        return 'vscode-extensions-pkgs.json';
+    }
+
+    if (path.includes('/lib/') || path.includes('lib-compatibility')) {
+        return 'lib-pkgs.json';
+    }
+
+    if (path.includes('/mobile/') || path.includes('mobile-os-compatibility')) {
+        return 'mobile-pkgs.json';
+    }
+
+    return 'desktop-pkgs.json';
+}
+
+function detectJsonUrl(): string {
+    const fileName = resolvePkgsFileFromPath(window.location.pathname);
+    return `${BASE}pkgs/${fileName}`;
 }
 
 export const CONFIG = {
@@ -178,13 +195,8 @@ export const THEME_CONFIG = {
 // OS COMPATIBILITY CONFIGURATION
 // ============================================================================
 function detectCompatJsonUrl(): string {
-    const path = window.location.pathname;
-    if (path.includes('mobile')) {
-        return `${BASE}pkgs/mobile-pkgs.json`;
-    } else if (path.includes('desktop')) {
-        return `${BASE}pkgs/desktop-pkgs.json`;
-    }
-    return `${BASE}pkgs/desktop-pkgs.json`;
+    const fileName = resolvePkgsFileFromPath(window.location.pathname);
+    return `${BASE}pkgs/${fileName}`;
 }
 
 export const OS_COMPAT_CONFIG = {

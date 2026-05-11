@@ -1,0 +1,137 @@
+.vp-content-wrapper {
+  max-width: 87.5rem;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
+
+.vp-content-header {
+  margin-bottom: 2rem;
+}
+
+.vp-content-header h1 {
+  font-size: 1.8rem;
+  font-weight: 700;
+  color: var(--vp-c-text-1);
+  margin-bottom: 1rem;
+}
+
+.vp-content-subtitle {
+  font-size: 1rem;
+  color: var(--vp-c-text-2);
+  line-height: 1.6;
+}
+
+.vp-categories-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+}
+
+.vp-category-card {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 1.4rem 1.2rem;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 0.75rem;
+  background-color: var(--vp-c-bg-alt);
+  transition: all 0.3s ease;
+  text-decoration: none;
+  color: inherit;
+  cursor: pointer;
+}
+
+.vp-category-card:hover {
+  border-color: var(--vp-c-brand-1);
+  background-color: var(--vp-c-bg);
+  transform: translateY(-0.25rem);
+  box-shadow: 0 0.75rem 2rem rgba(123, 197, 228, 0.2);
+}
+
+.vp-category-icon {
+  font-size: 2.25rem;
+  margin-bottom: 0.875rem;
+  line-height: 1;
+}
+
+.vp-category-title {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: var(--vp-c-text-1);
+  margin-bottom: 0.7rem;
+  margin-top: 0;
+}
+
+.vp-category-card:hover .vp-category-title {
+  color: var(--vp-c-brand-1);
+}
+
+.vp-category-description {
+  font-size: 0.95rem;
+  color: var(--vp-c-text-2);
+  line-height: 1.6;
+  margin: 0;
+}
+
+@media (min-width: 30rem) {
+  .vp-categories-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1.25rem;
+  }
+
+  .vp-content-header h1 {
+    font-size: 1.9rem;
+  }
+
+  .vp-category-icon {
+    font-size: 2.5rem;
+  }
+
+  .vp-category-title {
+    font-size: 1.15rem;
+  }
+}
+
+@media (min-width: 48rem) {
+  .vp-content-wrapper {
+    padding: 3rem 2rem;
+  }
+
+  .vp-content-header {
+    margin-bottom: 3rem;
+  }
+
+  .vp-content-header h1 {
+    font-size: 2.5rem;
+  }
+
+  .vp-content-subtitle {
+    font-size: 1.1rem;
+  }
+}
+
+@media (min-width: 75rem) {
+  .vp-categories-grid {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.5rem;
+  }
+
+  .vp-category-card {
+    padding: 1.75rem 1.5rem;
+  }
+
+  .vp-category-icon {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+  }
+
+  .vp-category-title {
+    font-size: 1.3rem;
+  }
+}
+
+@media (min-width: 90rem) {
+  .vp-categories-grid {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
