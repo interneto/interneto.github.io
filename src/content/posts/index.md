@@ -22,5 +22,6 @@ footer: true
 
 - [Cybersecurity Vulneravilities](/posts/cybersecurity-vulnerabilities)
 - [Operating System Layer Stack](/posts/os-layer-stack)
+- [Good Software Manifesto](/posts/good-software-manifesto)
 - [What Is Information?](/posts/what-is-info)
 
