@@ -517,7 +517,7 @@ export function renderGeo(
     scene.selectAll<SVGGElement, unknown>('.geo-borders').style('opacity', k >= 0.6 ? 1 : 0);
     linkSel.style('opacity', k >= 2.4 ? 1 : 0).attr('pointer-events', k >= 2.4 ? null : 'none');
 
-    islandLabels.each(function (node) {
+    islandLabels.each(function (this: SVGTextElement, node) {
       const show = k < 1.6;
       const el = d3.select(this);
       if (!show) { el.attr('display', 'none'); return; }
@@ -525,7 +525,7 @@ export function renderGeo(
         .attr('x', margin + zoomState.transform.applyX(node.x))
         .attr('y', margin + zoomState.transform.applyY(node.y));
     });
-    catLabels.each(function (node) {
+    catLabels.each(function (this: SVGTextElement, node) {
       const show = k >= 1.6 && k < 3.2;
       const el = d3.select(this);
       if (!show) { el.attr('display', 'none'); return; }
@@ -533,7 +533,7 @@ export function renderGeo(
         .attr('x', margin + zoomState.transform.applyX(node.x))
         .attr('y', margin + zoomState.transform.applyY(node.y));
     });
-    subcatLabels.each(function (node) {
+    subcatLabels.each(function (this: SVGTextElement, node) {
       const show = k >= 3.2 && k < 5.2;
       const el = d3.select(this);
       if (!show) { el.attr('display', 'none'); return; }
@@ -541,7 +541,7 @@ export function renderGeo(
         .attr('x', margin + zoomState.transform.applyX(node.x))
         .attr('y', margin + zoomState.transform.applyY(node.y));
     });
-    linkLabels.each(function (node) {
+    linkLabels.each(function (this: SVGTextElement, node) {
       const show = k >= 5.2 && node.r * k > 5;
       const el = d3.select(this);
       if (!show) { el.attr('display', 'none'); return; }

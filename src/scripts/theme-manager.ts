@@ -5,11 +5,6 @@ import { THEME_CONFIG, EVENT_NAMES } from './config';
 let currentTheme: string | null = null;
 let isInitialized = false;
 let mediaQueryList: MediaQueryList | null = null;
-
-type LegacyMediaQueryList = MediaQueryList & {
-    addListener?: (listener: (event: MediaQueryListEvent) => void) => void;
-};
-
 export function initTheme(): void {
     if (isInitialized) {
         updateToggleButton(getTheme());
@@ -31,7 +26,6 @@ export function setTheme(theme: string): void {
         return;
     }
     localStorage.setItem(THEME_CONFIG.STORAGE_KEY, theme);
-    localStorage.removeItem(THEME_CONFIG.LEGACY_STORAGE_KEY);
     applyTheme(theme);
     const event = new CustomEvent(EVENT_NAMES.THEME_CHANGED, { detail: { theme } });
     document.dispatchEvent(event);
@@ -54,14 +48,6 @@ function getSavedTheme(): string {
     if (savedTheme === THEME_CONFIG.DARK || savedTheme === THEME_CONFIG.LIGHT) {
         return savedTheme;
     }
-
-    const legacyTheme = localStorage.getItem(THEME_CONFIG.LEGACY_STORAGE_KEY);
-    if (legacyTheme === THEME_CONFIG.DARK || legacyTheme === THEME_CONFIG.LIGHT) {
-        localStorage.setItem(THEME_CONFIG.STORAGE_KEY, legacyTheme);
-        localStorage.removeItem(THEME_CONFIG.LEGACY_STORAGE_KEY);
-        return legacyTheme;
-    }
-
     return '';
 }
 
@@ -127,7 +113,6 @@ function getToggleButtons(): HTMLElement[] {
 
 function setupSystemThemeListener(): void {
     mediaQueryList = window.matchMedia('(prefers-color-scheme: dark)');
-    const legacyMediaQueryList = mediaQueryList as LegacyMediaQueryList;
     const syncWithSystemTheme = () => {
         if (getSavedTheme()) {
             return;
@@ -138,14 +123,7 @@ function setupSystemThemeListener(): void {
         document.dispatchEvent(event);
     };
 
-    if (typeof mediaQueryList.addEventListener === 'function') {
-        mediaQueryList.addEventListener('change', syncWithSystemTheme);
-        return;
-    }
-
-    if (typeof legacyMediaQueryList.addListener === 'function') {
-        legacyMediaQueryList.addListener(syncWithSystemTheme);
-    }
+    mediaQueryList.addEventListener('change', syncWithSystemTheme);
 }
 
 if (document.readyState === 'loading') {

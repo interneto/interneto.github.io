@@ -1350,6 +1350,24 @@
         "windows_winget": "HandBrake"
       }
     },
+    "handy": {
+      "name": "Handy",
+      "category": "Utility",
+      "subcategory": "Productivity",
+      "package_manager": {
+        "linux_arch_aur": "handy-bin",
+        "linux_arch_pacman": null,
+        "linux_debian_apt": null,
+        "linux_fedora_rpm": null,
+        "linux_gentoo_emerge": null,
+        "linux_flatpak": null,
+        "linux_snap": null,
+        "freebsd_pkg": null,
+        "macos_brew": "handy",
+        "unix_nix_env": null,
+        "windows_winget": "cjpais.Handy"
+      }
+    },
     "haruna": {
       "name": "Haruna",
       "category": "Video",
