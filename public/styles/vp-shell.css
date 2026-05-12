@@ -314,6 +314,8 @@ body.vp-shell-body .vp-nav .vp-nav-hamburger[aria-expanded='true'] .vp-hamburger
 /* Mobile nav panel – solid opaque background, hidden by default */
 body.vp-shell-body .vp-mobile-nav-panel {
   display: none;
+  position: relative;
+  z-index: 100;
   background-color: var(--vp-c-bg-elv);
   border-top: 1px solid var(--vp-c-divider);
 }

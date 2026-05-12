@@ -201,6 +201,107 @@
   border-top: 1px dashed color-mix(in srgb, var(--border-color) 58%, var(--primary-color) 42%);
 }
 
+.toolbox-package-preview-section {
+  display: grid;
+  gap: 1rem;
+}
+
+.toolbox-preview-stats {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  color: var(--text-secondary);
+}
+
+.toolbox-preview-stats span {
+  padding: 0.45rem 0.75rem;
+  border: 1px solid color-mix(in srgb, var(--border-color) 70%, var(--primary-color) 30%);
+  border-radius: 999px;
+  background: color-mix(in srgb, var(--card-background) 90%, var(--primary-color) 10%);
+  font-size: 0.92rem;
+  font-weight: 600;
+}
+
+.toolbox-package-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
+  gap: 1rem;
+}
+
+.toolbox-package-card {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 0.875rem;
+  align-items: start;
+  padding: 1rem;
+  border: 1px solid color-mix(in srgb, var(--border-color) 62%, var(--primary-color) 38%);
+  border-radius: 1rem;
+  background: linear-gradient(180deg, color-mix(in srgb, var(--card-background) 88%, var(--primary-color) 12%), color-mix(in srgb, var(--card-background) 96%, var(--primary-color) 4%));
+  box-shadow: 0 10px 24px var(--neutral-overlay-08), inset 0 1px 0 var(--neutral-overlay-10);
+  color: var(--text-primary);
+  text-decoration: none;
+}
+
+.toolbox-package-card:hover {
+  text-decoration: none;
+}
+
+.toolbox-package-icon {
+  width: 3rem;
+  height: 3rem;
+  object-fit: contain;
+  padding: 0.45rem;
+  border-radius: 0.875rem;
+  background: color-mix(in srgb, var(--card-background) 86%, var(--primary-color) 14%);
+  border: 1px solid color-mix(in srgb, var(--border-color) 60%, var(--primary-color) 40%);
+}
+
+.toolbox-package-copy {
+  display: grid;
+  gap: 0.3rem;
+}
+
+.toolbox-package-copy strong {
+  font-size: 1rem;
+  line-height: 1.3;
+}
+
+.toolbox-package-copy span {
+  color: var(--text-secondary);
+  font-size: 0.92rem;
+}
+
+.toolbox-package-tags {
+  grid-column: 1 / -1;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.toolbox-package-tags span {
+  padding: 0.3rem 0.55rem;
+  border-radius: 999px;
+  background: color-mix(in srgb, var(--primary-color) 12%, transparent);
+  color: var(--text-secondary);
+  font-size: 0.82rem;
+  font-weight: 700;
+}
+
+.toolbox-secondary-link {
+  width: fit-content;
+  padding: 0.85rem 1.05rem;
+  border: 1px solid color-mix(in srgb, var(--border-color) 60%, var(--primary-color) 40%);
+  border-radius: 999px;
+  color: var(--text-primary);
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.toolbox-secondary-link:hover,
+.toolbox-secondary-link:focus-visible {
+  text-decoration: none;
+}
+
 @media (min-width: 48rem) {
   .toolbox-landing {
     padding: 2.25rem 1.25rem 3.5rem;
