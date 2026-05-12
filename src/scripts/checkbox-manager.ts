@@ -32,13 +32,14 @@ export function setupCategoryCheckboxes() {
             
             // Batch DOM updates
             requestAnimationFrame(() => {
-                // Only toggle visible packages (not hidden by FOSS filter)
+                // Only toggle visible packages (not hidden by FOSS filter, search, or distro)
                 packageCheckboxes.forEach(pkgCb => {
                     const label = pkgCb.closest('label');
                     if (
                         label
                         && !label.classList.contains(CLASS_NAMES.FOSS_HIDDEN)
                         && !label.classList.contains(CLASS_NAMES.SEARCH_HIDDEN)
+                        && !label.classList.contains(CLASS_NAMES.DISTRO_HIDDEN)
                     ) {
                         (pkgCb as HTMLInputElement).checked = newState;
                     }
@@ -75,12 +76,13 @@ export function updateCategoryCheckbox(category: string | undefined) {
     
     if (!categoryCheckbox) return;
     
-    // Only count visible packages (not hidden by FOSS filter)
+    // Only count visible packages (not hidden by FOSS filter, search, or distro)
     const visibleCheckboxes = Array.from(packageCheckboxes).filter(cb => {
         const label = cb.closest('label');
         return label
             && !label.classList.contains(CLASS_NAMES.FOSS_HIDDEN)
-            && !label.classList.contains(CLASS_NAMES.SEARCH_HIDDEN);
+            && !label.classList.contains(CLASS_NAMES.SEARCH_HIDDEN)
+            && !label.classList.contains(CLASS_NAMES.DISTRO_HIDDEN);
     });
     
     const checkedCount = visibleCheckboxes.filter(cb => (cb as HTMLInputElement).checked).length;

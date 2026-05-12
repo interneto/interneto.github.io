@@ -2,6 +2,14 @@
 
 Interneto website built with Astro.
 
+## Requirements
+
+- Node.js 22.12.0 or newer
+- Recommended for local development: Node.js 24 LTS
+- Package manager: pnpm 10
+
+Astro 6 does not support Node 20, so local development and builds must run on Node 22.12.0 or higher. For longer-lived local development, use Node 24 LTS.
+
 ## Project
 
 Interneto is a web platform for resource discovery and curation, with core sections for:

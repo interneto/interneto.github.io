@@ -6,11 +6,18 @@
 import { CLASS_NAMES, ATTR_NAMES, ELEMENT_IDS } from './config';
 
 /**
- * Get all selected package IDs (visible or hidden by FOSS filter)
+ * Get all selected package IDs that are currently visible (not hidden by search, FOSS filter, or distro)
  * @returns {string[]} Array of selected package IDs
  */
 export function getSelectedPackageIds() {
     return Array.from(document.querySelectorAll<HTMLInputElement>('input[name="pkg"]:checked'))
+        .filter(checkbox => {
+            const label = checkbox.closest('label');
+            return label
+                && !label.classList.contains(CLASS_NAMES.FOSS_HIDDEN)
+                && !label.classList.contains(CLASS_NAMES.SEARCH_HIDDEN)
+                && !label.classList.contains(CLASS_NAMES.DISTRO_HIDDEN);
+        })
         .map(checkbox => checkbox.value);
 }
 

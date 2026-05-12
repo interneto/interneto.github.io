@@ -218,7 +218,7 @@ export function renderClassic(
   }
 
   function updateLabelVisibility(scale: number): void {
-    regionNodes.each(function onEach(node) {
+    regionNodes.each(function onEach(this: SVGGElement, node) {
       const widthPx  = (node.x1 - node.x0) * scale;
       const heightPx = (node.y1 - node.y0) * scale;
       const areaPx   = widthPx * heightPx;
@@ -232,7 +232,7 @@ export function renderClassic(
         .attr('pointer-events', visible ? null : 'none');
     });
 
-    linkNodes.each(function onEach(node) {
+    linkNodes.each(function onEach(this: SVGGElement, node) {
       const widthPx  = (node.x1 - node.x0) * scale;
       const heightPx = (node.y1 - node.y0) * scale;
       const areaPx   = widthPx * heightPx;
@@ -242,7 +242,7 @@ export function renderClassic(
         .attr('pointer-events', visible ? null : 'none');
     });
 
-    groupLabels.each(function onEach(node) {
+    groupLabels.each(function onEach(this: SVGTextElement, node) {
       const widthPx  = (node.x1 - node.x0) * scale;
       const heightPx = (node.y1 - node.y0) * scale;
       const areaPx   = widthPx * heightPx;
@@ -262,7 +262,7 @@ export function renderClassic(
       element.attr('display', null).attr('x', projected.x).attr('y', projected.y).style('font-size', fontSize);
     });
 
-    linkLabels.each(function onEach(node) {
+    linkLabels.each(function onEach(this: SVGTextElement, node) {
       const cw       = node.x1 - node.x0;
       const ch       = node.y1 - node.y0;
       const size     = Math.min(cw, ch);
