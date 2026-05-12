@@ -232,8 +232,23 @@
 
 .vp-prose .history-card p {
   margin: 0;
+  max-height: 0;
+  opacity: 0;
+  overflow: hidden;
+  transform: translateY(-0.15rem);
+  transition:
+    max-height 0.2s ease,
+    opacity 0.2s ease,
+    transform 0.2s ease;
   color: var(--vp-c-text-2);
   line-height: 1.65;
+}
+
+.vp-prose .history-card:hover p,
+.vp-prose .history-card:focus-within p {
+  max-height: 12rem;
+  opacity: 1;
+  transform: translateY(0);
 }
 
 .vp-prose .history-timeline--grouped {

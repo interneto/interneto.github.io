@@ -1,50 +1,97 @@
 ---
 import VPLayout from "../layouts/VPLayout.astro";
-import VPHero from "../components/VPHero.astro";
-import VPFeatures from "../components/VPFeatures.astro";
+import Icon from "../components/Icon.astro";
+import type { IconName } from "../components/Icon.astro";
 
 const BASE = import.meta.env.BASE_URL.replace(/\/?$/, "/");
 
-const homeSections = [
+interface HomeSection {
+  icon: IconName;
+  title: string;
+  label: string;
+  details: string;
+  link: string;
+}
+
+const homeSections: HomeSection[] = [
   {
-    icon: "📚",
+    icon: "categories",
     title: "Categories",
+    label: "Browse",
     details: "Browse all curated categories in one place",
     link: `${BASE}categories/`,
   },
   {
-    icon: "🗺️",
+    icon: "map",
     title: "Map",
+    label: "Visualize",
     details: "Open the interactive link dashboard",
     link: `${BASE}map/`,
   },
   {
-    icon: "🧰",
+    icon: "toolbox",
     title: "Toolbox",
+    label: "Install",
     details: "Explore installers, compatibility tables, and the shared package directory",
     link: `${BASE}toolbox/`,
   },
   {
-    icon: "📑",
+    icon: "posts",
     title: "Posts",
+    label: "Read",
     details: "Curated articles, comparisons, and guides",
     link: `${BASE}posts/`,
   },
 ];
 ---
 
-<VPLayout title="Interneto" hideSidebar hideFooter={false}>
-  <VPHero
-    title="Interneto"
-    tagline="Rediscover the Internet! 🌐"
-    image={{
-      src: "/icon.png",
-      alt: "Interneto Icon",
-    }}
-  />
-  <VPFeatures title="Explore" features={homeSections} />
-</VPLayout>
+<VPLayout title="Interneto" hideSidebar hideFooter={false} extraStyles={["styles/home.css"]}>
+  <section class="home-landing" aria-label="Interneto landing">
+    <div class="home-grid">
+      <div class="home-intro-panel">
+        <p class="home-eyebrow">Internet atlas</p>
+        <h1>Interneto</h1>
+        <p class="home-summary">
+          A compact desktop landing page for jumping straight into categories, maps, tools, and posts
+          without burning vertical space.
+        </p>
 
-<style>
-  /* Estilos generales del homepage */
-</style>
+        <div class="home-primary-actions">
+          <a class="home-primary-link home-primary-link-brand" href={`${BASE}categories/`}>Open categories</a>
+          <a class="home-primary-link" href={`${BASE}map/`}>Open map</a>
+        </div>
+
+        <div class="home-icon-panel">
+          <div class="home-icon-frame">
+            <img class="home-icon-image" src={`${BASE}icon.png`} alt="Interneto icon" />
+          </div>
+        </div>
+      </div>
+
+      <div class="home-explore-panel">
+        <div class="home-panel-header">
+          <div>
+            <p class="home-panel-kicker">Start here</p>
+            <h2>Everything grouped in one view</h2>
+          </div>
+          <a class="home-inline-link" href={`${BASE}about/`}>Project notes</a>
+        </div>
+
+        <div class="home-card-grid">
+          {homeSections.map((section) => (
+            <a class="home-card" href={section.link}>
+              <div class="home-card-top">
+                <div class="home-card-leading">
+                  <Icon name={section.icon} class="home-card-icon" />
+                  <span class="home-card-title">{section.title}</span>
+                </div>
+                <span class="home-card-label">{section.label}</span>
+              </div>
+              <p>{section.details}</p>
+            </a>
+          ))}
+        </div>
+      </div>
+    </div>
+  </section>
+</VPLayout>
