@@ -3,9 +3,9 @@
  * Injects a consistent page footer on all pages.
  */
 
-const REPO_URL = 'https://github.com/David7ce/toolbox-installer';
+const REPO_URL = 'https://github.com/interneto/interneto.github.io';
 
-export function createSiteFooter() {
+export function createSiteFooter(): void {
     if (document.getElementById('siteFooter')) return;
 
     const year = new Date().getFullYear();
@@ -13,13 +13,9 @@ export function createSiteFooter() {
     footer.id = 'siteFooter';
     footer.className = 'site-footer';
     footer.innerHTML = `
-        <span>&copy; ${year} <a href="${REPO_URL}" target="_blank" rel="noopener">Toolbox</a></span>
-        <span class="site-footer-sep" aria-hidden="true">·</span>
-        <span>Data sourced from community package lists</span>
-        <span class="site-footer-sep" aria-hidden="true">·</span>
-        <a href="${REPO_URL}/issues" target="_blank" rel="noopener">Report an issue</a>
-        <span class="site-footer-sep" aria-hidden="true">·</span>
-        <a href="https://david7ce.github.io/toolbox/lib" target="_blank" rel="noopener">Source code</a>
+        <span>&copy; ${year} <a href="${REPO_URL}" target="_blank" rel="noopener">Interneto</a></span>
+        <span class="site-footer-sep" aria-hidden="true">&bull;</span>
+        <span>Made with &#10084;&#65039; and <a href="https://astro.build" target="_blank" rel="noopener">Astro</a></span>
     `;
-    document.body.appendChild(footer);
+    document.body.append(footer);
 }

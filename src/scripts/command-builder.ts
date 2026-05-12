@@ -7,11 +7,13 @@ import { DISTRO_PREFIXES } from './config';
 
 export type PackageInfo = {
     name: string;
-    package_manager: Record<string, string | undefined>;
+    category: string;
+    subcategory: string;
+    package_manager: Record<string, string | null>;
 };
 
 export type PackagesData = {
-    packages: Record<string, PackageInfo | undefined>;
+    packages: Record<string, PackageInfo>;
 };
 
 /**

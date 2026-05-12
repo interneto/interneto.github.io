@@ -3,7 +3,7 @@
  * Entry point for initializing all modules and functionality
  */
 
-import { loadPackages, getPackagesData } from './data-manager';
+import { loadPackages } from './data-manager';
 import { generatePackages } from './ui-builder';
 import {
     setupCategoryCheckboxes,
@@ -27,32 +27,22 @@ import {
  */
 async function initializeApp() {
     try {
-        // Load packages data
-        console.log('Loading packages...');
         const packagesData = await loadPackages();
         
-        // Generate UI
-        console.log('Generating packages UI...');
         generatePackages(packagesData);
         
-        // Setup all event handlers
-        console.log('Setting up event handlers...');
         setupSelectAllCheckbox();
         setupCategoryCheckboxes();
         setupFossToggle();
         
-        // Setup interactions
         setupOSSelector();
         setupSearchInput();
         setupToggleAllButton();
         setupCopyButton();
         setupAutoCommandGeneration();
         
-        // Setup import/export
         setupOptionsSelect();
         setupFileInput();
-        
-        console.log('Application initialized successfully');
     } catch (error) {
         console.error('Failed to initialize application:', error);
     }

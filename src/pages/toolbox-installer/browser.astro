@@ -1,8 +1,6 @@
 ---
 import ToolboxInstallerSection from '../../components/ToolboxInstallerSection.astro';
 import ToolboxResultsContainer from '../../components/ToolboxResultsContainer.astro';
-import packagesTableScriptUrl from '../../scripts/packages-table.ts?url';
-
 const options = [
   { value: 'exportPackages', label: '📤 Export Extensions (JSON)' },
 ];
@@ -23,5 +21,8 @@ const browserSelectionOptions = [
 >
   <ToolboxResultsContainer slot="content" id="browserExtensionsCategories" />
 
-  <script slot="script" type="module" src={packagesTableScriptUrl}></script>
 </ToolboxInstallerSection>
+
+<script>
+import '../../scripts/packages-table.ts';
+</script>

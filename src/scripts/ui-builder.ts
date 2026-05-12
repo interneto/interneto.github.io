@@ -5,21 +5,7 @@
 
 import { CONFIG, CLASS_NAMES, ATTR_NAMES, CATEGORY_EMOJIS } from './config';
 import { getElement } from './dom-utils';
-
-interface PackageManager {
-  [distro: string]: string | null;
-}
-
-interface PackageInfo {
-  name: string;
-  category: string;
-  subcategory: string;
-  package_manager: PackageManager;
-}
-
-interface PackagesData {
-  packages: Record<string, PackageInfo>;
-}
+import type { PackageInfo, PackagesData } from './command-builder';
 
 const DEFAULT_ICON_EXTENSIONS = ['svg', 'png', 'jpg', 'jpeg', 'webp'];
 
