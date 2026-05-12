@@ -1,6 +1,5 @@
 ---
 import CompatibilityTablePage from '../../components/CompatibilityTablePage.astro';
-import osCompatInitScriptUrl from '../../scripts/os-compat-init.ts?url';
 ---
 <CompatibilityTablePage
   title="Package OS Compatibility"
@@ -62,5 +61,8 @@ import osCompatInitScriptUrl from '../../scripts/os-compat-init.ts?url';
     <div class="stat-item"><div class="stat-number" id="freebsdCount">0</div><div class="stat-label">FreeBSD</div></div>
   </div>
 
-  <script slot="script" type="module" src={osCompatInitScriptUrl}></script>
 </CompatibilityTablePage>
+
+<script>
+import '../../scripts/os-compat-init.ts';
+</script>

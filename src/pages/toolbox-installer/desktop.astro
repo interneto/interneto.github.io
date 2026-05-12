@@ -1,8 +1,6 @@
 ---
 import ToolboxInstallerSection from '../../components/ToolboxInstallerSection.astro';
 import ToolboxResultsContainer from '../../components/ToolboxResultsContainer.astro';
-import appScriptUrl from '../../scripts/app.ts?url';
-
 const options = [
   { value: 'loadFavorites', label: '✨ My Favorites' },
   { value: 'importPackages', label: '📥 Import Packages (JSON)' },
@@ -41,5 +39,8 @@ const options = [
     showLoadingSpinner={true}
   />
 
-  <script slot="script" type="module" src={appScriptUrl}></script>
 </ToolboxInstallerSection>
+
+<script>
+import '../../scripts/app.ts';
+</script>

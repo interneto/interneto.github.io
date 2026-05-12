@@ -1,6 +1,5 @@
 ---
 import CompatibilityTablePage from '../../components/CompatibilityTablePage.astro';
-import toolboxDirectoryScriptUrl from '../../scripts/toolbox-directory.ts?url';
 const BASE = import.meta.env.BASE_URL.replace(/\/?$/, '/');
 ---
 
@@ -44,5 +43,8 @@ const BASE = import.meta.env.BASE_URL.replace(/\/?$/, '/');
     <div class="stat-item"><div class="stat-number" id="directoryLibCount">0</div><div class="stat-label">#lib</div></div>
   </div>
 
-  <script slot="script" type="module" src={toolboxDirectoryScriptUrl}></script>
 </CompatibilityTablePage>
+
+<script>
+import '../../scripts/toolbox-directory.ts';
+</script>

@@ -1,6 +1,5 @@
 ---
 import CompatibilityTablePage from '../../components/CompatibilityTablePage.astro';
-import softwareTablePagesScriptUrl from '../../scripts/software-table-pages.ts?url';
 ---
 <CompatibilityTablePage
   title="Browser Extensions Table"
@@ -19,5 +18,8 @@ import softwareTablePagesScriptUrl from '../../scripts/software-table-pages.ts?u
     </table>
   </div>
   <div class="stats" id="statsContainer"></div>
-  <script slot="script" type="module" src={softwareTablePagesScriptUrl}></script>
 </CompatibilityTablePage>
+
+<script>
+import '../../scripts/software-table-pages.ts';
+</script>

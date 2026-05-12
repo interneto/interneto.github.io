@@ -1,8 +1,6 @@
 ---
 import ToolboxInstallerSection from '../../components/ToolboxInstallerSection.astro';
 import ToolboxResultsContainer from '../../components/ToolboxResultsContainer.astro';
-import packagesTableScriptUrl from '../../scripts/packages-table.ts?url';
-
 const options = [
   { value: 'loadFavorites', label: '✨ My Favorites' },
   { value: 'importPackages', label: '📥 Import Extensions (JSON)' },
@@ -17,5 +15,8 @@ const options = [
 >
   <ToolboxResultsContainer slot="content" id="extensionsCategories" />
 
-  <script slot="script" type="module" src={packagesTableScriptUrl}></script>
 </ToolboxInstallerSection>
+
+<script>
+import '../../scripts/packages-table.ts';
+</script>
