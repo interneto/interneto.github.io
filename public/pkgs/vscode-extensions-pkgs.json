@@ -1,5 +1,13 @@
 {
   "extensions": {
+    "anthropic.claude-code": {
+      "name": "Claude Code",
+      "category": "AI"
+    },
+    "cline.cline": {
+      "name": "Cline",
+      "category": "AI"
+    },
     "continue.continue": {
       "name": "Continue",
       "category": "AI"
@@ -52,12 +60,20 @@
       "name": "GitHub Copilot Chat",
       "category": "AI"
     },
+    "github.copilot": {
+      "name": "GitHub Copilot",
+      "category": "AI"
+    },
     "github.vscode-pull-request-github": {
       "name": "GitHub Pull Requests",
       "category": "AI"
     },
     "google.colab": {
       "name": "Google Colab",
+      "category": "AI"
+    },
+    "openai.codex": {
+      "name": "OpenAI Codex",
       "category": "AI"
     },
     "ms-vscode.hexeditor": {

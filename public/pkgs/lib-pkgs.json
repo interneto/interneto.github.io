@@ -49,7 +49,10 @@
                 { "name": "esbuild", "display": "esbuild", "badges": ["modern", "lightweight"] },
                 { "name": "terser", "display": "Terser", "badges": ["popular", "lightweight"] },
                 { "name": "rollup", "display": "Rollup", "badges": ["popular"] },
-                { "name": "parcel", "display": "Parcel", "badges": ["lightweight"] }
+                { "name": "parcel", "display": "Parcel", "badges": ["lightweight"] },
+                { "name": "cline", "display": "Cline", "badges": ["modern"] },
+                { "name": "@github/copilot", "display": "GitHub Copilot", "badges": ["popular", "modern"] },
+                { "name": "@openai/codex", "display": "OpenAI Codex", "badges": ["modern"] }
             ],
             "Backend Framework": [
                 { "name": "express", "display": "Express", "badges": ["popular"] },

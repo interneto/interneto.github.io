@@ -396,6 +396,27 @@
         "windows_winget": "Google.Chrome"
       }
     },
+    "claude-code": {
+      "name": "Claude Code",
+      "category": "Development",
+      "subcategory": "Ai Client",
+      "package_manager": {
+        "linux_arch_aur": null,
+        "linux_arch_pacman": null,
+        "linux_debian_apt": null,
+        "linux_fedora_rpm": null,
+        "linux_gentoo_emerge": null,
+        "linux_flatpak": null,
+        "linux_snap": null,
+        "freebsd_pkg": null,
+        "macos_brew": "claude-code",
+        "unix_nix_env": null,
+        "windows_winget": "Anthropic.ClaudeCode"
+      },
+      "manual_install": {
+        "unix": "curl -fsSL https://claude.ai/install.sh | bash"
+      }
+    },
     "comfyui": {
       "name": "ComfyUI",
       "category": "Image",
