@@ -216,7 +216,7 @@
         "ios_pkg": "google-drive-online-backup/id507874739"
       }
     },
-    "google-edge-gallery": {
+    "google-ai-edge-gallery": {
       "name": "Google Edge Gallery",
       "category": "Image",
       "subcategory": "Gallery",
@@ -279,13 +279,13 @@
         "ios_pkg": ""
       }
     },
-    "guitar-tuner": {
-      "name": "Guitar Tuner",
+    "guitartuna": {
+      "name": "Guitar Tuna",
       "category": "Audio",
       "subcategory": "Music Tools",
       "package_manager": {
-        "android_pkg": "",
-        "ios_pkg": ""
+        "android_pkg": "com.ovelin.guitartuna",
+        "ios_pkg": "guitartuna-afinador-acordes/id527588389"
       }
     },
     "hyper-calc-pro": {
@@ -504,7 +504,7 @@
         "ios_pkg": ""
       }
     },
-    "read-era-premium": {
+    "readera": {
       "name": "ReadEra Premium",
       "category": "Reading",
       "subcategory": "Ebook Reader",

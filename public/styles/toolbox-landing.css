@@ -90,6 +90,7 @@
   gap: 1rem;
 }
 
+/* Unified card styling - simplified and consistent with .vp-card */
 .toolbox-card,
 .toolbox-compatibility-link {
   display: flex;
@@ -97,59 +98,37 @@
   gap: 0.875rem;
   min-height: 10.625rem;
   padding: 1.125rem;
-  border: 1px solid color-mix(in srgb, var(--border-color) 62%, var(--primary-color) 38%);
-  border-radius: 1.125rem;
-  background:
-    linear-gradient(180deg, color-mix(in srgb, var(--card-background) 84%, var(--primary-color) 16%), color-mix(in srgb, var(--card-background) 95%, var(--primary-color) 5%));
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 0.75rem;
+  background-color: var(--vp-c-bg-alt);
   color: var(--text-primary);
   text-decoration: none;
-  box-shadow: 0 10px 24px var(--neutral-overlay-08), inset 0 1px 0 var(--neutral-overlay-10);
+  box-shadow: var(--shadow-light);
   transition: all 0.3s ease;
-  position: relative;
-  overflow: hidden;
-}
-
-.toolbox-card::before,
-.toolbox-compatibility-link::before {
-  content: '';
-  position: absolute;
-  inset: 0;
-  background: linear-gradient(135deg, color-mix(in srgb, var(--primary-color) 10%, transparent), transparent 55%);
-  opacity: 0.9;
-  pointer-events: none;
-}
-
-.toolbox-card:hover,
-.toolbox-compatibility-link:hover,
-.toolbox-primary-link:hover {
-  transform: translateY(-4px);
-  box-shadow: 0 18px 34px var(--neutral-overlay-10), inset 0 1px 0 var(--neutral-overlay-10);
-  text-decoration: none;
-}
-
-.toolbox-card:focus-visible,
-.toolbox-compatibility-link:focus-visible {
-  text-decoration: none;
 }
 
 .toolbox-card:hover,
 .toolbox-compatibility-link:hover {
   border-color: var(--vp-c-brand-1);
-  background: var(--vp-c-bg);
+  background-color: var(--vp-c-bg);
   transform: translateY(-0.25rem);
   box-shadow: 0 0.75rem 2rem rgba(123, 197, 228, 0.2);
+  text-decoration: none;
+}
+
+.toolbox-card:focus-visible,
+.toolbox-compatibility-link:focus-visible {
+  outline: 2px solid var(--focus-ring-color);
+  outline-offset: 2px;
+  text-decoration: none;
 }
 
 .toolbox-card:active,
 .toolbox-compatibility-link:active {
-  transform: translateY(-1px);
-  box-shadow: 0 10px 22px var(--neutral-overlay-08), inset 0 1px 0 var(--neutral-overlay-10);
   text-decoration: none;
 }
 
 .toolbox-card-icon {
-  position: relative;
-  z-index: 1;
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -157,14 +136,12 @@
   height: 3.25rem;
   border-radius: 0.875rem;
   font-size: 1.65rem;
-  background: linear-gradient(180deg, color-mix(in srgb, var(--card-background) 72%, var(--primary-color) 28%), color-mix(in srgb, var(--card-background) 88%, var(--primary-color) 12%));
-  border: 1px solid color-mix(in srgb, var(--border-color) 58%, var(--primary-color) 42%);
-  box-shadow: 0 6px 14px var(--neutral-overlay-08), inset 0 1px 0 var(--neutral-overlay-10);
+  background-color: var(--card-background);
+  border: 1px solid var(--border-color);
+  box-shadow: var(--shadow-light);
 }
 
 .toolbox-card h3 {
-  position: relative;
-  z-index: 1;
   margin: 0;
   font-size: 1.08rem;
   line-height: 1.3;
@@ -175,8 +152,6 @@
 }
 
 .toolbox-card p {
-  position: relative;
-  z-index: 1;
   margin: 0;
   color: var(--text-secondary);
   line-height: 1.6;
@@ -191,115 +166,12 @@
 }
 
 .toolbox-compatibility-link span:last-child {
-  position: relative;
-  z-index: 1;
   line-height: 1.35;
 }
 
 .toolbox-separator {
   margin: 1.5rem 0.125rem 0;
   border-top: 1px dashed color-mix(in srgb, var(--border-color) 58%, var(--primary-color) 42%);
-}
-
-.toolbox-package-preview-section {
-  display: grid;
-  gap: 1rem;
-}
-
-.toolbox-preview-stats {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.75rem;
-  color: var(--text-secondary);
-}
-
-.toolbox-preview-stats span {
-  padding: 0.45rem 0.75rem;
-  border: 1px solid color-mix(in srgb, var(--border-color) 70%, var(--primary-color) 30%);
-  border-radius: 999px;
-  background: color-mix(in srgb, var(--card-background) 90%, var(--primary-color) 10%);
-  font-size: 0.92rem;
-  font-weight: 600;
-}
-
-.toolbox-package-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
-  gap: 1rem;
-}
-
-.toolbox-package-card {
-  display: grid;
-  grid-template-columns: auto 1fr;
-  gap: 0.875rem;
-  align-items: start;
-  padding: 1rem;
-  border: 1px solid color-mix(in srgb, var(--border-color) 62%, var(--primary-color) 38%);
-  border-radius: 1rem;
-  background: linear-gradient(180deg, color-mix(in srgb, var(--card-background) 88%, var(--primary-color) 12%), color-mix(in srgb, var(--card-background) 96%, var(--primary-color) 4%));
-  box-shadow: 0 10px 24px var(--neutral-overlay-08), inset 0 1px 0 var(--neutral-overlay-10);
-  color: var(--text-primary);
-  text-decoration: none;
-}
-
-.toolbox-package-card:hover {
-  text-decoration: none;
-}
-
-.toolbox-package-icon {
-  width: 3rem;
-  height: 3rem;
-  object-fit: contain;
-  padding: 0.45rem;
-  border-radius: 0.875rem;
-  background: color-mix(in srgb, var(--card-background) 86%, var(--primary-color) 14%);
-  border: 1px solid color-mix(in srgb, var(--border-color) 60%, var(--primary-color) 40%);
-}
-
-.toolbox-package-copy {
-  display: grid;
-  gap: 0.3rem;
-}
-
-.toolbox-package-copy strong {
-  font-size: 1rem;
-  line-height: 1.3;
-}
-
-.toolbox-package-copy span {
-  color: var(--text-secondary);
-  font-size: 0.92rem;
-}
-
-.toolbox-package-tags {
-  grid-column: 1 / -1;
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.5rem;
-}
-
-.toolbox-package-tags span {
-  padding: 0.3rem 0.55rem;
-  border-radius: 999px;
-  background: color-mix(in srgb, var(--primary-color) 12%, transparent);
-  color: var(--text-secondary);
-  font-size: 0.82rem;
-  font-weight: 700;
-}
-
-.toolbox-secondary-link {
-  width: fit-content;
-  padding: 0.85rem 1.05rem;
-  border: 1px solid color-mix(in srgb, var(--border-color) 60%, var(--primary-color) 40%);
-  border-radius: 999px;
-  color: var(--text-primary);
-  font-weight: 700;
-  text-decoration: none;
-}
-
-.toolbox-secondary-link:hover,
-.toolbox-secondary-link:focus-visible {
-  text-decoration: none;
 }
 
 @media (min-width: 48rem) {

@@ -121,6 +121,22 @@ export function setupToggleAllButton() {
     });
 }
 
+function updateSearchGroupVisibility(packageContainer: HTMLElement) {
+    const visibleLabelSelector = `label:not(.${CLASS_NAMES.FOSS_HIDDEN}):not(.${CLASS_NAMES.SEARCH_HIDDEN}):not(.${CLASS_NAMES.DISTRO_HIDDEN})`;
+
+    const subcategories = packageContainer.querySelectorAll<HTMLElement>(`.${CLASS_NAMES.SUBCATEGORY}`);
+    subcategories.forEach((subcategory) => {
+        const hasVisibleLabels = !!subcategory.querySelector(visibleLabelSelector);
+        subcategory.classList.toggle(CLASS_NAMES.SEARCH_HIDDEN, !hasVisibleLabels);
+    });
+
+    const categories = packageContainer.querySelectorAll<HTMLElement>(`.${CLASS_NAMES.CATEGORY}`);
+    categories.forEach((category) => {
+        const hasVisibleLabels = !!category.querySelector(visibleLabelSelector);
+        category.classList.toggle(CLASS_NAMES.SEARCH_HIDDEN, !hasVisibleLabels);
+    });
+}
+
 /**
  * Setup package search input for desktop/mobile generators.
  */
@@ -130,19 +146,44 @@ export function setupSearchInput() {
 
     if (!searchInput || !packageContainer) return;
 
+    let searchTimeout: ReturnType<typeof setTimeout>;
+
     searchInput.addEventListener('input', () => {
+        // Clear previous timeout to debounce
+        clearTimeout(searchTimeout);
+
         const query = (searchInput as HTMLInputElement).value.trim().toLowerCase();
-        const labels = packageContainer.querySelectorAll('label');
 
-        labels.forEach((label) => {
-            const searchText = label.dataset.search || '';
-            const matches = !query || searchText.includes(query);
-            label.classList.toggle(CLASS_NAMES.SEARCH_HIDDEN, !matches);
-        });
+        // Only apply filters if query has content
+        if (query.length === 0) {
+            // Show all packages when search is cleared
+            const labels = packageContainer.querySelectorAll<HTMLLabelElement>('label');
+            labels.forEach((label) => {
+                label.classList.remove(CLASS_NAMES.SEARCH_HIDDEN);
+            });
+            updateSearchGroupVisibility(packageContainer);
+            updateAllCategoryCheckboxes();
+            updateSelectAllState();
+            autoGenerateCommand();
+            return;
+        }
 
-        updateAllCategoryCheckboxes();
-        updateSelectAllState();
-        autoGenerateCommand();
+        // Debounce the search for performance (100ms delay)
+        searchTimeout = setTimeout(() => {
+            const labels = packageContainer.querySelectorAll<HTMLLabelElement>('label');
+
+            labels.forEach((label) => {
+                const searchText = label.dataset.search || '';
+                // Support word pattern matching: search for query as substring (like "*text*" wildcard)
+                const matches = searchText.includes(query);
+                label.classList.toggle(CLASS_NAMES.SEARCH_HIDDEN, !matches);
+            });
+
+            updateSearchGroupVisibility(packageContainer);
+            updateAllCategoryCheckboxes();
+            updateSelectAllState();
+            autoGenerateCommand();
+        }, 100);
     });
 }
 
