@@ -1,91 +1,7 @@
 ---
 import VPLayout from '../layouts/VPLayout.astro';
-import { readFile } from 'node:fs/promises';
-import path from 'node:path';
 
 const BASE = import.meta.env.BASE_URL.replace(/\/?$/, '/');
-const PUBLIC_PKGS_DIR = path.join(process.cwd(), 'public', 'pkgs');
-
-type ToolboxTag = 'desktop' | 'mobile' | 'web' | 'lib';
-
-interface ToolboxEntry {
-  category: string;
-  name: string;
-  icon: string;
-  link: string;
-  tags: ToolboxTag[];
-}
-
-interface ToolboxConfig {
-  entries?: ToolboxEntry[];
-}
-
-interface LegacyPackageInfo {
-  name?: string;
-  category?: string;
-}
-
-interface LegacyPackagesData {
-  packages?: Record<string, LegacyPackageInfo>;
-}
-
-const buildSearchLink = (name: string) => `https://duckduckgo.com/?q=${encodeURIComponent(name)}`;
-const normalizeName = (name: string) => name.trim().toLowerCase().replace(/[^a-z0-9]+/g, '');
-
-function mergeEntry(map: Map<string, ToolboxEntry>, incoming: ToolboxEntry) {
-  const key = normalizeName(incoming.name);
-  const current = map.get(key);
-
-  if (!current) {
-    map.set(key, {
-      ...incoming,
-      tags: Array.from(new Set(incoming.tags)).sort() as ToolboxTag[],
-    });
-    return;
-  }
-
-  current.tags = Array.from(new Set([...current.tags, ...incoming.tags])).sort() as ToolboxTag[];
-
-  if (!current.category && incoming.category) current.category = incoming.category;
-  if ((current.icon.endsWith('/img/apps/no.svg') || current.icon === '/img/apps/no.svg') && incoming.icon) current.icon = incoming.icon;
-  if (current.link.includes('duckduckgo.com/?q=') && incoming.link) current.link = incoming.link;
-}
-
-function buildEntriesFromLegacy(data: LegacyPackagesData, tag: Extract<ToolboxTag, 'desktop' | 'mobile'>) {
-  return Object.entries(data.packages ?? {}).map(([pkgKey, pkg]) => ({
-    category: (pkg.category ?? 'Other').trim(),
-    name: (pkg.name ?? pkgKey).trim(),
-    icon: `/img/apps/${pkgKey}.svg`,
-    link: buildSearchLink((pkg.name ?? pkgKey).trim()),
-    tags: [tag],
-  }));
-}
-
-const [toolboxConfigRaw, desktopRaw, mobileRaw] = await Promise.all([
-  readFile(path.join(PUBLIC_PKGS_DIR, 'toolbox-directory.json'), 'utf-8'),
-  readFile(path.join(PUBLIC_PKGS_DIR, 'desktop-pkgs.json'), 'utf-8'),
-  readFile(path.join(PUBLIC_PKGS_DIR, 'mobile-pkgs.json'), 'utf-8'),
-]);
-
-const toolboxConfig = JSON.parse(toolboxConfigRaw) as ToolboxConfig;
-const desktopPackages = JSON.parse(desktopRaw) as LegacyPackagesData;
-const mobilePackages = JSON.parse(mobileRaw) as LegacyPackagesData;
-const mergedPackages = new Map<string, ToolboxEntry>();
-
-(toolboxConfig.entries ?? []).forEach((entry) => mergeEntry(mergedPackages, entry));
-buildEntriesFromLegacy(desktopPackages, 'desktop').forEach((entry) => mergeEntry(mergedPackages, entry));
-buildEntriesFromLegacy(mobilePackages, 'mobile').forEach((entry) => mergeEntry(mergedPackages, entry));
-
-const packageDirectoryEntries = Array.from(mergedPackages.values())
-  .sort((a, b) => a.name.localeCompare(b.name));
-
-const packagePreview = packageDirectoryEntries.slice(0, 12);
-const packageCounts = packageDirectoryEntries.reduce((acc, entry) => {
-  entry.tags.forEach((tag) => {
-    acc[tag] += 1;
-  });
-  return acc;
-}, { desktop: 0, mobile: 0, web: 0, lib: 0 });
 
 const toolboxCards = [
   {
@@ -200,43 +116,6 @@ const directoryLinks = [
           </a>
         ))}
       </div>
-    </section>
-
-    <section class="toolbox-section toolbox-package-preview-section">
-      <div class="toolbox-section-header">
-        <h2>Packages Preview</h2>
-        <p>A live snapshot from the shared directory so `/toolbox/` shows actual packages immediately.</p>
-      </div>
-
-      <div class="toolbox-preview-stats" aria-label="Package directory summary">
-        <span>{packageDirectoryEntries.length} total</span>
-        <span>{packageCounts.desktop} desktop</span>
-        <span>{packageCounts.mobile} mobile</span>
-        <span>{packageCounts.web} web</span>
-        <span>{packageCounts.lib} lib</span>
-      </div>
-
-      <div class="toolbox-package-grid">
-        {packagePreview.map((entry) => (
-          <a class="toolbox-package-card" href={entry.link} target="_blank" rel="noreferrer">
-            <img
-              class="toolbox-package-icon"
-              src={`${BASE}${entry.icon.replace(/^\//, '')}`}
-              alt={`${entry.name} icon`}
-              loading="lazy"
-            />
-            <div class="toolbox-package-copy">
-              <strong>{entry.name}</strong>
-              <span>{entry.category}</span>
-            </div>
-            <div class="toolbox-package-tags" aria-label={`${entry.name} tags`}>
-              {entry.tags.map((tag) => <span>#{tag}</span>)}
-            </div>
-          </a>
-        ))}
-      </div>
-
-      <a class="toolbox-secondary-link" href={`${BASE}toolbox/packages/`}>Browse all packages</a>
     </section>
   </section>
 </VPLayout>

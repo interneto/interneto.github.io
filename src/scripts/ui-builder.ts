@@ -20,18 +20,8 @@ let hasResponsiveLayoutListener = false;
 // Some app icons in the repo are only available as png/jpg, so prefer those first.
 const ICON_EXTENSION_OVERRIDES: Record<string, string[]> = {
         'gpx-viewer': ['png', 'svg', 'jpg', 'jpeg', 'webp'],
-        'lawnchair': ['jpg', 'png', 'svg', 'jpeg', 'webp'],
-        'piano-companion': ['png', 'svg', 'jpg', 'jpeg', 'webp'],
-        'mobilesheets': ['png', 'svg', 'jpg', 'jpeg', 'webp'],
-        'guitar-tuner': ['jpg', 'png', 'svg', 'jpeg', 'webp'],
-        'google-edge-gallery': ['png', 'svg', 'jpg', 'jpeg', 'webp'],
-        'myrecipebox': ['png', 'svg', 'jpg', 'jpeg', 'webp'],
-        'bring': ['png', 'svg', 'jpg', 'jpeg', 'webp'],
-        'google-weather': ['png', 'svg', 'jpg', 'jpeg', 'webp'],
-        'cloudflare-1111': ['png', 'svg', 'jpg', 'jpeg', 'webp'],
-        'read-era-premium': ['png', 'svg', 'jpg', 'jpeg', 'webp'],
-        'sun-surveyor': ['png', 'svg', 'jpg', 'jpeg', 'webp'],
         'hyper-calc-pro': ['png', 'svg', 'jpg', 'jpeg', 'webp'],
+        'piano-companion': ['png', 'svg', 'jpg', 'jpeg', 'webp'],
 };
 
 function getIconExtensionCandidates(pkgKey: string): string[] {

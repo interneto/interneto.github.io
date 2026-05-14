@@ -677,7 +677,7 @@ form {
 }
 
 .search-hidden {
-    display: none;
+    display: none !important;
 }
 
 .select-all-checkbox {

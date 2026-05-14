@@ -1,26 +1,3 @@
-.vp-content-wrapper {
-  max-width: 87.5rem;
-  margin: 0 auto;
-  padding: 2rem 1rem;
-}
-
-.vp-content-header {
-  margin-bottom: 2rem;
-}
-
-.vp-content-header h1 {
-  font-size: 1.8rem;
-  font-weight: 700;
-  color: var(--vp-c-text-1);
-  margin-bottom: 1rem;
-}
-
-.vp-content-subtitle {
-  font-size: 1rem;
-  color: var(--vp-c-text-2);
-  line-height: 1.6;
-}
-
 .vp-categories-grid {
   display: grid;
   grid-template-columns: 1fr;
@@ -110,20 +87,8 @@
 }
 
 @media (min-width: 48rem) {
-  .vp-content-wrapper {
-    padding: 3rem 2rem;
-  }
-
-  .vp-content-header {
-    margin-bottom: 3rem;
-  }
-
-  .vp-content-header h1 {
-    font-size: 2.5rem;
-  }
-
-  .vp-content-subtitle {
-    font-size: 1.1rem;
+  .vp-category-title {
+    font-size: 1.2rem;
   }
 }
 

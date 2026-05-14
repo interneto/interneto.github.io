@@ -111,7 +111,7 @@
         {
             "category": "Knowledge",
             "name": "Wikipedia",
-            "icon": "/img/apps/no.svg",
+            "icon": "/img/apps/wikipedia.svg",
             "link": "https://www.wikipedia.org/",
             "tags": [
                 "web",
@@ -121,7 +121,7 @@
         {
             "category": "Knowledge",
             "name": "MDN Web Docs",
-            "icon": "/img/apps/no.svg",
+            "icon": "/img/apps/mdn.svg",
             "link": "https://developer.mozilla.org/",
             "tags": [
                 "web"
@@ -139,7 +139,7 @@
         {
             "category": "Libraries",
             "name": "Astro",
-            "icon": "/icon.png",
+            "icon": "/img/apps/astro.svg",
             "link": "https://astro.build/",
             "tags": [
                 "lib"
@@ -148,7 +148,7 @@
         {
             "category": "Libraries",
             "name": "Tailwind CSS",
-            "icon": "/img/apps/no.svg",
+            "icon": "/img/apps/tailwind-css.svg",
             "link": "https://tailwindcss.com/",
             "tags": [
                 "lib"
@@ -157,7 +157,7 @@
         {
             "category": "Libraries",
             "name": "Vue",
-            "icon": "/img/apps/no.svg",
+            "icon": "/img/apps/vue.svg",
             "link": "https://vuejs.org/",
             "tags": [
                 "lib"
@@ -177,7 +177,7 @@
         {
             "category": "Media",
             "name": "Spotify",
-            "icon": "/img/apps/no.svg",
+            "icon": "/img/apps/spotify.svg",
             "link": "https://open.spotify.com/",
             "tags": [
                 "web",
@@ -199,7 +199,7 @@
         {
             "category": "Productivity",
             "name": "Obsidian",
-            "icon": "/img/apps/no.svg",
+            "icon": "/img/apps/obsidian.svg",
             "link": "https://obsidian.md/",
             "tags": [
                 "desktop",
@@ -209,7 +209,7 @@
         {
             "category": "Social",
             "name": "Reddit",
-            "icon": "/img/apps/no.svg",
+            "icon": "/img/apps/reddit.svg",
             "link": "https://www.reddit.com/",
             "tags": [
                 "web",
@@ -229,7 +229,7 @@
         {
             "category": "Discovery",
             "name": "AlternativeTo",
-            "icon": "/img/apps/no.svg",
+            "icon": "/img/apps/alternativeto.svg",
             "link": "https://alternativeto.net/",
             "tags": [
                 "web"
@@ -238,7 +238,7 @@
         {
             "category": "Discovery",
             "name": "CoinGecko",
-            "icon": "/img/apps/no.svg",
+            "icon": "/img/apps/coingecko.svg",
             "link": "https://www.coingecko.com/",
             "tags": [
                 "web"
@@ -256,7 +256,7 @@
         {
             "category": "Discovery",
             "name": "FMHY",
-            "icon": "/img/apps/no.svg",
+            "icon": "/img/apps/fmhy.svg",
             "link": "https://fmhy.net/",
             "tags": [
                 "web"
@@ -265,7 +265,7 @@
         {
             "category": "Discovery",
             "name": "FMHY Tracker",
-            "icon": "/img/apps/no.svg",
+            "icon": "/img/apps/fmhy-tracker.svg",
             "link": "https://fmhy-tracker.pages.dev/",
             "tags": [
                 "web"
@@ -274,7 +274,7 @@
         {
             "category": "Reading",
             "name": "Folo",
-            "icon": "/img/apps/no.svg",
+            "icon": "/img/apps/folo.svg",
             "link": "https://app.folo.is/timeline/articles/all/pending",
             "tags": [
                 "web"
@@ -302,7 +302,7 @@
         {
             "category": "Media",
             "name": "IMDb",
-            "icon": "/img/apps/no.svg",
+            "icon": "/img/apps/imdb.svg",
             "link": "https://www.imdb.com/",
             "tags": [
                 "web",
@@ -312,7 +312,7 @@
         {
             "category": "Productivity",
             "name": "RecipeSage",
-            "icon": "/img/apps/no.svg",
+            "icon": "/img/apps/recipesage.svg",
             "link": "https://recipesage.com/#/list/main",
             "tags": [
                 "web"
@@ -321,7 +321,7 @@
         {
             "category": "Media",
             "name": "Trakt",
-            "icon": "/img/apps/no.svg",
+            "icon": "/img/apps/trakt.svg",
             "link": "https://app.trakt.tv/",
             "tags": [
                 "web",
@@ -331,7 +331,7 @@
         {
             "category": "Media",
             "name": "Fandom",
-            "icon": "/img/apps/no.svg",
+            "icon": "/img/apps/fandom.svg",
             "link": "https://www.fandom.com/",
             "tags": [
                 "web"
@@ -340,7 +340,7 @@
         {
             "category": "Learning",
             "name": "Boot.dev",
-            "icon": "/img/apps/no.svg",
+            "icon": "/img/apps/bootdev.svg",
             "link": "https://www.boot.dev/dashboard",
             "tags": [
                 "web"
@@ -349,7 +349,7 @@
         {
             "category": "Learning",
             "name": "Codecademy",
-            "icon": "/img/apps/no.svg",
+            "icon": "/img/apps/codecademy.svg",
             "link": "https://www.codecademy.com/catalog",
             "tags": [
                 "web"
@@ -358,7 +358,7 @@
         {
             "category": "Learning",
             "name": "freeCodeCamp",
-            "icon": "/img/apps/no.svg",
+            "icon": "/img/apps/freecodecamp.svg",
             "link": "https://www.freecodecamp.org/learn",
             "tags": [
                 "web"
@@ -367,7 +367,7 @@
         {
             "category": "Learning",
             "name": "GeoGebra",
-            "icon": "/img/apps/no.svg",
+            "icon": "/img/apps/geogebra.svg",
             "link": "https://www.geogebra.org/math",
             "tags": [
                 "web"
@@ -376,7 +376,7 @@
         {
             "category": "Learning",
             "name": "Khan Academy",
-            "icon": "/img/apps/no.svg",
+            "icon": "/img/apps/khan-academy.svg",
             "link": "https://www.khanacademy.org/",
             "tags": [
                 "web"
@@ -385,7 +385,7 @@
         {
             "category": "Learning",
             "name": "OpenWebinars",
-            "icon": "/img/apps/no.svg",
+            "icon": "/img/apps/openwebinars.svg",
             "link": "https://openwebinars.net/",
             "tags": [
                 "web"
@@ -394,7 +394,7 @@
         {
             "category": "Learning",
             "name": "W3Schools",
-            "icon": "/img/apps/no.svg",
+            "icon": "/img/apps/w3schools.svg",
             "link": "https://www.w3schools.com/",
             "tags": [
                 "web"
@@ -403,7 +403,7 @@
         {
             "category": "Learning",
             "name": "WolframAlpha",
-            "icon": "/img/apps/no.svg",
+            "icon": "/img/apps/wolframalpha.svg",
             "link": "https://www.wolframalpha.com/",
             "tags": [
                 "web"
@@ -412,7 +412,7 @@
         {
             "category": "AI",
             "name": "DeepL Translator",
-            "icon": "/img/apps/no.svg",
+            "icon": "/img/apps/deepl.svg",
             "link": "https://www.deepl.com/en/translator",
             "tags": [
                 "web"
@@ -421,7 +421,7 @@
         {
             "category": "AI",
             "name": "Google Translate",
-            "icon": "/img/apps/no.svg",
+            "icon": "/img/apps/google-translate.svg",
             "link": "https://translate.google.com/?hl=en&tab=TT&sl=es&tl=ru&op=translate",
             "tags": [
                 "web"
@@ -430,7 +430,7 @@
         {
             "category": "AI",
             "name": "ChatGPT",
-            "icon": "/img/apps/no.svg",
+            "icon": "/img/apps/chatgpt.svg",
             "link": "https://chatgpt.com/",
             "tags": [
                 "web",
@@ -440,7 +440,7 @@
         {
             "category": "AI",
             "name": "Claude",
-            "icon": "/img/apps/no.svg",
+            "icon": "/img/apps/claude.svg",
             "link": "https://claude.ai/login",
             "tags": [
                 "web"
@@ -449,7 +449,7 @@
         {
             "category": "AI",
             "name": "DeepSeek Chat",
-            "icon": "/img/apps/no.svg",
+            "icon": "/img/apps/deepseek.svg",
             "link": "https://chat.deepseek.com/",
             "tags": [
                 "web"
@@ -457,8 +457,17 @@
         },
         {
             "category": "AI",
+            "name": "Google Edge AI Gallery",
+            "icon": "/img/apps/google-ai-edge-gallery.svg",
+            "link": "https://play.google.com/store/apps/details?id=com.google.ai.edge.gallery",
+            "tags": [
+                "mobile"
+            ]
+        },
+        {
+            "category": "AI",
             "name": "ElevenLabs",
-            "icon": "/img/apps/no.svg",
+            "icon": "/img/apps/elevenlabs.svg",
             "link": "https://elevenlabs.io/app/home",
             "tags": [
                 "web"
@@ -467,7 +476,7 @@
         {
             "category": "AI",
             "name": "Magnific",
-            "icon": "/img/apps/no.svg",
+            "icon": "/img/apps/magnific.svg",
             "link": "https://www.magnific.com/app",
             "tags": [
                 "web"
@@ -476,7 +485,7 @@
         {
             "category": "AI",
             "name": "Gemini",
-            "icon": "/img/apps/no.svg",
+            "icon": "/img/apps/gemini.svg",
             "link": "https://gemini.google.com/app",
             "tags": [
                 "web"
@@ -485,7 +494,7 @@
         {
             "category": "AI",
             "name": "OpenRouter",
-            "icon": "/img/apps/no.svg",
+            "icon": "/img/apps/openrouter.svg",
             "link": "https://openrouter.ai/",
             "tags": [
                 "web"
@@ -494,7 +503,7 @@
         {
             "category": "AI",
             "name": "Replicate Collections",
-            "icon": "/img/apps/no.svg",
+            "icon": "/img/apps/replicate.svg",
             "link": "https://replicate.com/collections/",
             "tags": [
                 "web"
@@ -503,7 +512,7 @@
         {
             "category": "Design",
             "name": "Excalidraw",
-            "icon": "/img/apps/no.svg",
+            "icon": "/img/apps/excalidraw.svg",
             "link": "https://excalidraw.com/",
             "tags": [
                 "web"
@@ -512,7 +521,7 @@
         {
             "category": "Design",
             "name": "Pencil Project",
-            "icon": "/img/apps/no.svg",
+            "icon": "/img/apps/pencil.svg",
             "link": "https://www.pencil.dev/",
             "tags": [
                 "web",
@@ -521,8 +530,8 @@
         },
         {
             "category": "Design",
-            "name": "Stitch with Google",
-            "icon": "/img/apps/no.svg",
+            "name": "Google Stitch",
+            "icon": "/img/apps/stitch.svg",
             "link": "https://stitch.withgoogle.com/",
             "tags": [
                 "web"
@@ -531,7 +540,7 @@
         {
             "category": "Social",
             "name": "LinkedIn",
-            "icon": "/img/apps/no.svg",
+            "icon": "/img/apps/linkedin.svg",
             "link": "https://www.linkedin.com/",
             "tags": [
                 "web",
@@ -541,7 +550,7 @@
         {
             "category": "Social",
             "name": "Mastodon",
-            "icon": "/img/apps/no.svg",
+            "icon": "/img/apps/mastodon.svg",
             "link": "https://mastodon.social/explore",
             "tags": [
                 "web",
@@ -551,7 +560,7 @@
         {
             "category": "Social",
             "name": "Instagram",
-            "icon": "/img/apps/no.svg",
+            "icon": "/img/apps/instagram.svg",
             "link": "https://www.instagram.com/",
             "tags": [
                 "web",
@@ -561,7 +570,7 @@
         {
             "category": "Social",
             "name": "TikTok",
-            "icon": "/img/apps/no.svg",
+            "icon": "/img/apps/tiktok.svg",
             "link": "https://www.tiktok.com/explore",
             "tags": [
                 "web",
@@ -570,17 +579,8 @@
         },
         {
             "category": "Communication",
-            "name": "Telegram Web",
-            "icon": "/img/apps/telegram.svg",
-            "link": "https://web.telegram.org/a/",
-            "tags": [
-                "web"
-            ]
-        },
-        {
-            "category": "Communication",
             "name": "WhatsApp Web",
-            "icon": "/img/apps/no.svg",
+            "icon": "/img/apps/whatsapp.svg",
             "link": "https://web.whatsapp.com/",
             "tags": [
                 "web"
@@ -589,7 +589,7 @@
         {
             "category": "Maps",
             "name": "AllTrails",
-            "icon": "/img/apps/no.svg",
+            "icon": "/img/apps/alltrails.svg",
             "link": "https://www.alltrails.com/",
             "tags": [
                 "web",
@@ -599,7 +599,7 @@
         {
             "category": "Maps",
             "name": "Google Maps",
-            "icon": "/img/apps/no.svg",
+            "icon": "/img/apps/google-maps.svg",
             "link": "https://www.google.com/maps/@0,0,3z?entry=ttu&g_ep=EgoyMDI1MDkyNC4wIKXMDSoASAFQAw%3D%3D",
             "tags": [
                 "web",
@@ -609,7 +609,7 @@
         {
             "category": "Maps",
             "name": "Google Earth Web",
-            "icon": "/img/apps/no.svg",
+            "icon": "/img/apps/google-earth.svg",
             "link": "https://earth.google.com/web/@36.23919503,-6.44153304,0a,4589641.05349735d,35y,0h,0t,0r/data=CgRCAggCOgMKATBCAggASg0I____________ARAA?authuser=0",
             "tags": [
                 "web"
@@ -618,7 +618,7 @@
         {
             "category": "Maps",
             "name": "OpenStreetMap",
-            "icon": "/img/apps/no.svg",
+            "icon": "/img/apps/openstreetmap.svg",
             "link": "https://www.openstreetmap.org/#map=3/28.69/0.09",
             "tags": [
                 "web"
@@ -627,7 +627,7 @@
         {
             "category": "Maps",
             "name": "Wikiloc",
-            "icon": "/img/apps/no.svg",
+            "icon": "/img/apps/wikiloc.svg",
             "link": "https://www.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&page=1",
             "tags": [
                 "web",
@@ -637,7 +637,7 @@
         {
             "category": "Streaming",
             "name": "Crunchyroll",
-            "icon": "/img/apps/no.svg",
+            "icon": "/img/apps/crunchyroll.svg",
             "link": "https://www.crunchyroll.com/",
             "tags": [
                 "web",
@@ -647,7 +647,7 @@
         {
             "category": "Streaming",
             "name": "DAZN",
-            "icon": "/img/apps/no.svg",
+            "icon": "/img/apps/dazn.svg",
             "link": "https://www.dazn.com/en-ES/home",
             "tags": [
                 "web",
@@ -657,7 +657,7 @@
         {
             "category": "Streaming",
             "name": "Disney+",
-            "icon": "/img/apps/no.svg",
+            "icon": "/img/apps/disneyplus.svg",
             "link": "https://www.disneyplus.com/home",
             "tags": [
                 "web",
@@ -666,8 +666,8 @@
         },
         {
             "category": "Streaming",
-            "name": "HBO Max",
-            "icon": "/img/apps/no.svg",
+            "name": "HBO",
+            "icon": "/img/apps/hbo.svg",
             "link": "https://www.hbomax.com/es/en",
             "tags": [
                 "web",
@@ -677,7 +677,7 @@
         {
             "category": "Streaming",
             "name": "Netflix",
-            "icon": "/img/apps/no.svg",
+            "icon": "/img/apps/netflix.svg",
             "link": "https://www.netflix.com/es-en/",
             "tags": [
                 "web",
@@ -687,7 +687,7 @@
         {
             "category": "Streaming",
             "name": "Movistar Plus+",
-            "icon": "/img/apps/no.svg",
+            "icon": "/img/apps/movistar-plus.svg",
             "link": "https://www.movistarplus.es/",
             "tags": [
                 "web",
@@ -697,7 +697,7 @@
         {
             "category": "Streaming",
             "name": "Prime Video",
-            "icon": "/img/apps/no.svg",
+            "icon": "/img/apps/prime-video.svg",
             "link": "https://www.primevideo.com/offers/nonprimehomepage",
             "tags": [
                 "web",
@@ -707,7 +707,7 @@
         {
             "category": "Streaming",
             "name": "Plex Web",
-            "icon": "/img/apps/no.svg",
+            "icon": "/img/apps/plex.svg",
             "link": "https://app.plex.tv/desktop/#!/",
             "tags": [
                 "web"
@@ -716,7 +716,7 @@
         {
             "category": "Streaming",
             "name": "Pluto TV",
-            "icon": "/img/apps/no.svg",
+            "icon": "/img/apps/pluto-tv.svg",
             "link": "https://pluto.tv/es/live-tv/5f984f4a09e92d0007d74647?lang=en",
             "tags": [
                 "web",
@@ -726,7 +726,7 @@
         {
             "category": "Streaming",
             "name": "Pstream",
-            "icon": "/img/apps/no.svg",
+            "icon": "/img/apps/pstream.svg",
             "link": "https://pstream.net/",
             "tags": [
                 "web"
@@ -735,7 +735,7 @@
         {
             "category": "Streaming",
             "name": "Stremio Web",
-            "icon": "/img/apps/no.svg",
+            "icon": "/img/apps/stremio.svg",
             "link": "https://web.stremio.com/",
             "tags": [
                 "web"
@@ -744,7 +744,7 @@
         {
             "category": "Streaming",
             "name": "Teleonline",
-            "icon": "/img/apps/no.svg",
+            "icon": "/img/apps/teleonline.svg",
             "link": "https://teleonline.org/",
             "tags": [
                 "web"
@@ -753,7 +753,7 @@
         {
             "category": "Streaming",
             "name": "TV Multiview",
-            "icon": "/img/apps/no.svg",
+            "icon": "/img/apps/tv-multiview.svg",
             "link": "https://interneto.github.io/tv-multiview/",
             "tags": [
                 "web"
@@ -762,7 +762,7 @@
         {
             "category": "Media",
             "name": "Odysee",
-            "icon": "/img/apps/no.svg",
+            "icon": "/img/apps/odysee.svg",
             "link": "https://odysee.com/",
             "tags": [
                 "web"
@@ -771,7 +771,7 @@
         {
             "category": "Media",
             "name": "Radio Garden",
-            "icon": "/img/apps/no.svg",
+            "icon": "/img/apps/radio-garden.svg",
             "link": "https://radio.garden/balloon-ride",
             "tags": [
                 "web"
@@ -780,7 +780,7 @@
         {
             "category": "Media",
             "name": "Twitch",
-            "icon": "/img/apps/no.svg",
+            "icon": "/img/apps/twitch.svg",
             "link": "https://www.twitch.tv/",
             "tags": [
                 "web",
