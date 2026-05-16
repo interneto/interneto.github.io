@@ -15,6 +15,7 @@ import {
     setupSearchInput,
     setupToggleAllButton,
     setupCopyButton,
+    setupCopyListButton,
     setupAutoCommandGeneration,
 } from './interaction-manager';
 import {
@@ -39,6 +40,7 @@ async function initializeApp() {
         setupSearchInput();
         setupToggleAllButton();
         setupCopyButton();
+        setupCopyListButton();
         setupAutoCommandGeneration();
         
         setupOptionsSelect();

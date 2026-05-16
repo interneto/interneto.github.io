@@ -9,9 +9,15 @@ interface Props {
 }
 
 const { title, heading, extraStyles = [] } = Astro.props;
+const BASE = import.meta.env.BASE_URL.replace(/\/?$/, '/');
 ---
 <VPLayout title={title} hasSidebar={false} extraStyles={['styles/generator.css', ...extraStyles]}>
   <div class="page-wrapper installer-page-wrapper">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href={`${BASE}toolbox/`}>Toolbox</a>
+      <span aria-hidden="true">›</span>
+      <span aria-current="page">{heading}</span>
+    </nav>
     <PageHeader heading={heading} />
     <slot />
   </div>

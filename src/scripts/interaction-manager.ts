@@ -188,6 +188,32 @@ export function setupSearchInput() {
 }
 
 /**
+ * Setup copy-names-list button
+ */
+export function setupCopyListButton() {
+    const copyListBtn = document.getElementById('copyListBtn');
+    if (!copyListBtn) return;
+
+    copyListBtn.addEventListener('click', async () => {
+        const packagesData = getPackagesData();
+        const ids = getSelectedPackageIds();
+        if (!ids.length || !packagesData) return;
+
+        const names = ids
+            .map((id) => packagesData.packages[id]?.name ?? id)
+            .join('\n');
+
+        try {
+            await navigator.clipboard.writeText(names);
+            copyListBtn.textContent = '✓ Copied!';
+            setTimeout(() => { copyListBtn.textContent = '📝 Names'; }, 2000);
+        } catch {
+            alert('Failed to copy to clipboard');
+        }
+    });
+}
+
+/**
  * Setup copy command button
  */
 export function setupCopyButton() {
@@ -277,6 +303,8 @@ export function autoGenerateCommand() {
 
         const selectedPackageIds = getSelectedPackageIds();
 
+        updatePkgCount(selectedPackageIds.length);
+
         if (selectedPackageIds.length === 0) {
             const commandElement = getElement('INSTALLATION_COMMAND');
             if (commandElement) {
@@ -313,6 +341,12 @@ export function autoGenerateCommand() {
     }
 }
 
+function updatePkgCount(count: number) {
+    const el = document.getElementById('pkgCount');
+    if (!el) return;
+    el.textContent = count > 0 ? `${count} selected` : '';
+}
+
 function syncCommandFooterSpace() {
     const commandFooter = document.getElementById('commandFooter') as HTMLElement | null;
     const footerSpace = commandFooter && !commandFooter.hidden
@@ -327,7 +361,7 @@ function syncCommandFooterSpace() {
  * @param {string} activeOS - The active OS
  * @returns {string|null} The distro key or null
  */
-function getDistroFromOS(activeOS) {
+function getDistroFromOS(activeOS: string | undefined): string | null {
     switch(activeOS) {
         case 'linux':
             return getActiveDistro() || 'linux_arch_pacman';
@@ -351,7 +385,7 @@ function getDistroFromOS(activeOS) {
  * @param {string} text - The text to check
  * @returns {boolean} True if text is placeholder
  */
-function isPlaceholderText(text) {
+function isPlaceholderText(text: string): boolean {
     return text === 'Select packages to generate installation command...' ||
            text === 'Please select an operating system' ||
            text === 'No compatible packages selected for this OS';

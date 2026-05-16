@@ -321,6 +321,32 @@ img {
 .py-2 { padding-top: 1em; padding-bottom: 1em; }
 .py-3 { padding-top: 1.5em; padding-bottom: 1.5em; }
 
+/* Breadcrumb nav */
+.breadcrumb {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  margin: 0.75rem 0 0.25rem;
+  font-size: 0.8rem;
+  color: var(--text-secondary);
+}
+
+.breadcrumb a {
+  color: var(--text-secondary);
+  text-decoration: none;
+  transition: color 0.15s;
+}
+
+.breadcrumb a:hover {
+  color: var(--primary-color);
+}
+
+.breadcrumb span[aria-current="page"] {
+  color: var(--text-primary);
+  font-weight: 500;
+}
+
 /* Print styles */
 @media print {
   .vp-nav,

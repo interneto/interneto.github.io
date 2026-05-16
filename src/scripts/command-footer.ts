@@ -32,8 +32,13 @@ export function createCommandFooter({
             <div class="command-output">
                 <div class="command-header">
                     <span class="command-language"${langId}>${commandLabel}</span>
-                    <button type="button" class="copy-btn" id="copyCommandBtn"
-                        title="Copy to clipboard" aria-label="Copy to clipboard">📋 Copy</button>
+                    <span class="pkg-count" id="pkgCount" aria-live="polite"></span>
+                    <div class="command-actions">
+                        <button type="button" class="copy-btn" id="copyListBtn"
+                            title="Copy package names" aria-label="Copy package names as list">📝 Names</button>
+                        <button type="button" class="copy-btn" id="copyCommandBtn"
+                            title="Copy install command" aria-label="Copy install command">📋 Copy</button>
+                    </div>
                 </div>
                 <code id="installation-command" aria-live="polite">${initialText}</code>
             </div>

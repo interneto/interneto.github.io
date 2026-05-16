@@ -70,9 +70,6 @@ export function generatePackages(packagesData: PackagesData): void {
 
 /**
  * Create a category section with its subcategories and packages
- * @param {HTMLElement} columnDiv - The column container
- * @param {string} category - Category name
- * @param {Object} packagesData - The packages data
  */
 function createCategorySection(category: string, packagesData: PackagesData): HTMLElement {
     const categoryDiv = document.createElement('div');
@@ -105,6 +102,15 @@ function createCategorySection(category: string, packagesData: PackagesData): HT
     const categoryHeading = document.createElement('h4');
     categoryHeading.textContent = category;
     categoryHeader.appendChild(categoryHeading);
+
+    // Package count badge
+    const pkgCount = Object.values(packagesData.packages).filter(
+        (p) => p.category === category
+    ).length;
+    const categoryBadge = document.createElement('span');
+    categoryBadge.classList.add(CLASS_NAMES.CATEGORY_BADGE);
+    categoryBadge.textContent = String(pkgCount);
+    categoryHeader.appendChild(categoryBadge);
 
     // Toggle arrow
     const toggleArrow = document.createElement('span');
