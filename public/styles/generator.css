@@ -942,6 +942,18 @@ form {
     font-weight: 600;
 }
 
+.category-badge {
+    font-size: 0.7rem;
+    font-weight: 700;
+    line-height: 1;
+    padding: 2px 7px;
+    border-radius: 999px;
+    background: color-mix(in srgb, var(--primary-color) 14%, var(--card-background));
+    border: 1px solid color-mix(in srgb, var(--primary-color) 28%, var(--border-color));
+    color: var(--text-secondary);
+    white-space: nowrap;
+}
+
 .toggle-arrow {
     font-size: 12px;
     transition: transform 0.3s ease;
@@ -1295,6 +1307,65 @@ form {
     background: color-mix(in srgb, var(--card-background) 90%, var(--primary-color) 10%);
     border: 1px solid color-mix(in srgb, var(--border-color) 72%, var(--primary-color) 28%);
     padding: 1px;
+}
+
+/* Command footer extras */
+.command-actions {
+    display: flex;
+    gap: 0.5rem;
+    align-items: center;
+    margin-left: auto;
+}
+
+.pkg-count {
+    font-size: 0.78rem;
+    font-weight: 600;
+    color: var(--primary-color);
+    white-space: nowrap;
+}
+
+/* Installer page info panel */
+.installer-info {
+    margin-bottom: 0.75rem;
+}
+
+.installer-info summary {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3rem;
+    cursor: pointer;
+    list-style: none;
+    font-size: 0.82rem;
+    font-weight: 500;
+    color: var(--text-secondary);
+    padding: 0.2rem 0.5rem;
+    border-radius: 6px;
+    transition: color 0.15s, background 0.15s;
+    user-select: none;
+}
+
+.installer-info summary::-webkit-details-marker {
+    display: none;
+}
+
+.installer-info summary:hover {
+    color: var(--primary-color);
+    background: color-mix(in srgb, var(--primary-color) 8%, transparent);
+}
+
+.installer-info[open] summary {
+    color: var(--primary-color);
+}
+
+.installer-info-body {
+    margin-top: 0.5rem;
+    padding: 0.55rem 0.75rem;
+    font-size: 0.84rem;
+    color: var(--text-secondary);
+    line-height: 1.6;
+    background: color-mix(in srgb, var(--primary-color) 5%, var(--card-background));
+    border-left: 2px solid color-mix(in srgb, var(--primary-color) 45%, var(--border-color));
+    border-radius: 0 6px 6px 0;
 }
 
 .ext-item input[type="checkbox"],

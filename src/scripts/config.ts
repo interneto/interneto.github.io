@@ -139,6 +139,8 @@ export const ELEMENT_IDS = {
     PACKAGE_CONTAINER: 'packageContainer',
     LOADING_SPINNER: 'loadingSpinner',
     COPY_COMMAND_BTN: 'copyCommandBtn',
+    COPY_LIST_BTN: 'copyListBtn',
+    PKG_COUNT: 'pkgCount',
     TOGGLE_ALL_BTN: 'toggleAllBtn',
     FOSS_TOGGLE_BTN: 'fossToggleBtn',
     SELECT_ALL_LABEL: 'selectAllLabel',

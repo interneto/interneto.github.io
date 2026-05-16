@@ -9,6 +9,7 @@ export type PackageInfo = {
     name: string;
     category: string;
     subcategory: string;
+    description?: string;
     package_manager: Record<string, string | null>;
 };
 

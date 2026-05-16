@@ -11,6 +11,7 @@ interface SelectOption {
 export interface Props {
   title: string;
   heading: string;
+  info?: string;
   extraStyles?: string[];
   searchPlaceholder: string;
   options?: SelectOption[];
@@ -27,6 +28,7 @@ export interface Props {
 const {
   title,
   heading,
+  info,
   extraStyles = [],
   searchPlaceholder,
   options = [],
@@ -50,6 +52,12 @@ const {
     {useForm ? (
       <form id={formId}>
         <div class="container installer-surface">
+          {info && (
+            <details class="installer-info">
+              <summary>ⓘ About this installer</summary>
+              <p class="installer-info-body">{info}</p>
+            </details>
+          )}
           <slot name="selectors" />
           <UnifiedControls
             searchPlaceholder={searchPlaceholder}
@@ -67,6 +75,12 @@ const {
     ) : (
       <>
         <div class="container installer-surface">
+          {info && (
+            <details class="installer-info">
+              <summary>ⓘ About this installer</summary>
+              <p class="installer-info-body">{info}</p>
+            </details>
+          )}
           <slot name="selectors" />
           <UnifiedControls
             searchPlaceholder={searchPlaceholder}

@@ -16,13 +16,28 @@ const {
   heading,
   subtitle,
   installerHref,
-  installerLabel = 'Go to Installer',
+  installerLabel = 'Installer',
   extraStyles = [],
   searchPlaceholder = 'Search...',
 } = Astro.props;
+const BASE = import.meta.env.BASE_URL.replace(/\/?$/, '/');
+// installerHref is a slug like "desktop" or a full path — show mid-level crumb only for slugs
+const isSlug = installerHref && !installerHref.startsWith('/') && !installerHref.startsWith('http');
+const installerUrl = isSlug ? `${BASE}toolbox/${installerHref}/` : null;
 ---
 <VPLayout title={title} hasSidebar={false} extraStyles={['styles/os-compatibility.css', ...extraStyles]}>
   <div class="container">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href={`${BASE}toolbox/`}>Toolbox</a>
+      {installerUrl && (
+        <>
+          <span aria-hidden="true">›</span>
+          <a href={installerUrl}>{installerLabel}</a>
+        </>
+      )}
+      <span aria-hidden="true">›</span>
+      <span aria-current="page">{heading}</span>
+    </nav>
     <header class="page-header">
       <h1>{heading}</h1>
     </header>

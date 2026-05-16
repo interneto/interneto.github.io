@@ -1,6 +1,7 @@
 ---
 import Icon from './Icon.astro';
 import type { IconName } from './Icon.astro';
+import { POST_SECTIONS } from '../data/posts';
 
 interface SidebarItem {
   text: string;
@@ -49,33 +50,15 @@ const categoryItems: SidebarItem[] = [
   { text: '🛠️ Utility', href: `${BASE}categories/utility/`, isActive: isPathActive(`${BASE}categories/utility/`) },
 ];
 
-const postSections: SidebarSection[] = [
-  {
-    title: 'Comparing',
-    items: [
-      { text: 'AI Coding Tools', href: `${BASE}posts/ai-coding-tools/`, isActive: isPathActive(`${BASE}posts/ai-coding-tools/`) },
-      { text: 'Bookmark Managers', href: `${BASE}posts/bookmark-managers/`, isActive: isPathActive(`${BASE}posts/bookmark-managers/`) },
-      { text: 'Linux Distributions', href: `${BASE}posts/linux-distros/`, isActive: isPathActive(`${BASE}posts/linux-distros/`) },
-    ]
-  },
-  {
-    title: 'How-To',
-    items: [
-      { text: 'How To Categorize Links', href: `${BASE}posts/how-to-categorize-links/`, isActive: isPathActive(`${BASE}posts/how-to-categorize-links/`) },
-      { text: 'How Files Are Transferred', href: `${BASE}posts/file-sync/`, isActive: isPathActive(`${BASE}posts/file-sync/`) },
-    ]
-  },
-  {
-    title: 'Articles',
-    items: [
-      { text: 'History of Computing Timeline', href: `${BASE}posts/history-of-computing/`, isActive: isPathActive(`${BASE}posts/history-of-computing/`) },
-      { text: 'Cybersecurity Vulnerabilities', href: `${BASE}posts/cybersecurity-vulnerabilities/`, isActive: isPathActive(`${BASE}posts/cybersecurity-vulnerabilities/`) },
-      { text: 'Operating System Layer Stack', href: `${BASE}posts/os-layer-stack/`, isActive: isPathActive(`${BASE}posts/os-layer-stack/`) },
-      { text: 'Good Software Manifesto', href: `${BASE}posts/good-software-manifesto/`, isActive: isPathActive(`${BASE}posts/good-software-manifesto/`) },
-      { text: 'What Is Information?', href: `${BASE}posts/what-is-info/`, isActive: isPathActive(`${BASE}posts/what-is-info/`) },
-    ]
-  },
-];
+const postSections: SidebarSection[] = POST_SECTIONS.map((section) => ({
+  title: section.title,
+  items: section.items.map((item) => ({
+    text: item.text,
+    href: `${BASE}posts/${item.slug}/`,
+    icon: (item.icon ?? 'posts') as IconName,
+    isActive: isPathActive(`${BASE}posts/${item.slug}/`),
+  })),
+}));
 
 const mapItems: SidebarItem[] = [
   { text: 'Open Dashboard', href: `${BASE}map/`, icon: 'map', isActive: isPathActive(`${BASE}map/`) },
@@ -161,9 +144,9 @@ const title = showPostsSidebar ? 'Posts' : showMapSidebar ? 'Link Dashboard' : '
 
   if (categorySearchInput instanceof HTMLInputElement) {
     const categoryLinks = Array.from(document.querySelectorAll('.vp-sidebar-items .vp-sidebar-item-link'));
-    const normalize = (value) => value.trim().toLowerCase();
+    const normalize = (value: string) => value.trim().toLowerCase();
 
-    const applyCategorySidebarFilter = (query) => {
+    const applyCategorySidebarFilter = (query: string) => {
       const normalizedQuery = normalize(query);
 
       categoryLinks.forEach((link) => {
@@ -188,16 +171,16 @@ const title = showPostsSidebar ? 'Posts' : showMapSidebar ? 'Link Dashboard' : '
       ? Array.from(proseRoot.querySelectorAll('ul, ol'))
       : [];
 
-    const isFavoriteItem = (item) => item.textContent?.trim().startsWith('⭐') ?? false;
-    const setToggleState = (enabled) => {
+    const isFavoriteItem = (item: Element) => item.textContent?.trim().startsWith('⭐') ?? false;
+    const setToggleState = (enabled: boolean) => {
       favoritesToggle.classList.toggle('is-active', enabled);
       favoritesToggle.setAttribute('aria-pressed', enabled ? 'true' : 'false');
       favoritesToggle.textContent = enabled ? '★ Favorite Links' : '☆ Favorite Links';
     };
 
-    const getHeadingLevel = (heading) => Number.parseInt(heading.tagName.slice(1), 10);
+    const getHeadingLevel = (heading: Element) => Number.parseInt(heading.tagName.slice(1), 10);
 
-    const syncFavoritesFilter = (enabled) => {
+    const syncFavoritesFilter = (enabled: boolean) => {
       listItems.forEach((item) => {
         item.classList.toggle('vp-favorite-hidden', enabled && !isFavoriteItem(item));
       });
