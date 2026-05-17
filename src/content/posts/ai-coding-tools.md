@@ -10,63 +10,74 @@ footer: true
 
 ## Overview
 
-AI coding is no longer one tool and one model. In 2026, productive workflows combine editors, terminal agents, and model runtimes depending on the task, privacy requirements, and team setup.
+AI coding is no longer one tool and one model. In 2026, productive workflows combine editors, coding interfaces, and model runtimes depending on the task, privacy requirements, and team setup.
 
 The diagram below shows the core components of a modern AI system:
 
-<img src="/docs-assets/ai-components.png" alt="AI Components" width="420" />
+<div style="display:flex;flex-wrap: nowrap;gap:16px; justify-content: center;">
+	<img src="/docs-assets/ai-components.svg" alt="AI Components" style="width:450px;max-width:100%;height:auto;flex:0 1 450px;">
+	<img src="/docs-assets/ai-system-architecture.svg" alt="AI System Architecture" style="width:450px;max-width:100%;height:auto;flex:0 1 450px;">
+</div>
 
 In practice, AI coding workflows now split into three layers:
 
 - Editor-native AI experiences (for coding in context)
-- CLI agents (for task execution and automation)
+- Coding interfaces and automation tools (CLI, cloud, SDK, third-party)
 - Model runtimes and APIs (for local/private inference)
 
 This guide compares the most relevant tools in each layer.
 
 ## AI Code Editors
 
-| Icon app | Tool                                                                            | Company        | License           | Price         | Strengths                                     | Tradeoffs                |
-|:--------:|---------------------------------------------------------------------------------|----------------|-------------------|---------------|-----------------------------------------------|--------------------------|
-| ![][ag]  | [Antigravity](https://antigravity.google/)                                      | Google         | Proprietary       | Free (beta)   | Agentic, deep Google integration              | Early access             |
-| ![][cur] | [Cursor](https://cursor.com/)                                                   | Anysphere      | Proprietary       | Free / $20/mo | Fast edits, codebase chat                     | VS Code fork drift       |
-| ![][vsc] | [VS Code (Agentic)](https://code.visualstudio.com/docs/copilot/agents/overview) | Microsoft      | MIT + Proprietary | Free / $10/mo | Solid, huge ecosystem, integrating Agentic AI | Not very autonomous      |
-| ![][ws]  | [Windsurf](https://windsurf.com/)                                               | OpenAI         | Proprietary       | Free / $15/mo | Agentic flow, integrated AI                   | Younger ecosystem        |
-| ![][zed] | [Zed](https://zed.dev/)                                                         | Zed Industries | GPL-3.0           | Free          | Blazing fast, collaborative                   | Smaller extension market |
+| Icon app | Tool                                                                            | Company        | License           | Price         | Best for                                  |
+|:--------:|---------------------------------------------------------------------------------|----------------|-------------------|---------------|-------------------------------------------|
+| ![][ag]  | [Antigravity](https://antigravity.google/)                                      | Google         | Proprietary       | Free (beta)   | Agentic workflows in Google ecosystem     |
+| ![][cur] | [Cursor](https://cursor.com/)                                                   | Anysphere      | Proprietary       | Free / $20/mo | Fast code edits and project chat          |
+| ![][vsc] | [VS Code (Agentic)](https://code.visualstudio.com/docs/copilot/agents/overview) | Microsoft      | MIT + Proprietary | Free / $10/mo | Balanced daily coding with extensions     |
+| ![][ws]  | [Windsurf](https://windsurf.com/)                                               | OpenAI         | Proprietary       | Free / $15/mo | AI-first coding flow                      |
+| ![][zed] | [Zed](https://zed.dev/)                                                         | Zed Industries | GPL-3.0           | Free          | High-performance coding and collaboration |
 
-## AI Coding Agent
+> Note: Best for only summarizes the primary use case; final selection depends on your stack and daily workflow.
 
-|  Icon app   | Tool                                                          | Company   | License        | Price        | Strengths                       | Tradeoffs          |
-|:-----------:|---------------------------------------------------------------|-----------|----------------|--------------|---------------------------------|--------------------|
-|   ![][cc]   | [Claude Code](https://claude.ai/code)                         | Anthropic | Proprietary    | Pay-per-use  | Long context, deep codebase nav | API cost           |
-|  ![][cdx]   | [Codex](https://openai.com/codex/)                            | OpenAI    | Proprietary    | Pay-per-use  | Strong planning + execution     | Cloud only         |
-| ![][gemcli] | [Gemini CLI](https://github.com/google-gemini/gemini-cli)     | Google    | Apache-2.0     | Free (quota) | Google tools, multimodal        | Early toolchain    |
-| ![][ghcli]  | [GitHub Copilot CLI](https://github.com/features/copilot/cli) | Microsoft | GH CLI License | Free         | GitHub ops, scriptable          | Not very powerfull |
-|   ![][oc]   | [OpenCode](https://opencode.ai/)                              | Community | MIT            | Free         | Open, hackable                  | Setup overhead     |
+## AI Coding Interfaces (Not Always Full Agents)
+
+|  Icon app   | Tool                                                      | Type                      | Interaction Modes                             | Runtime Target          | Pricing Model                            | Best for                               |
+|:-----------:|-----------------------------------------------------------|---------------------------|-----------------------------------------------|-------------------------|------------------------------------------|----------------------------------------|
+|   ![][cc]   | [Claude Code](https://claude.ai/code)                     | Terminal coding interface | CLI, Cloud API, Third-party integrations      | Cloud (provider models) | Model plan/API usage                     | Deep repo work in terminal workflows   |
+|  ![][cdx]   | [Codex](https://openai.com/codex/)                        | Agentic coding interface  | Cloud app, API, SDK, Third-party tools        | Cloud (provider models) | Model tier/plan usage                    | End-to-end coding tasks with execution |
+| ![][gemcli] | [Gemini CLI](https://github.com/google-gemini/gemini-cli) | CLI coding interface      | CLI, Cloud API, SDK, Third-party integrations | Cloud (Gemini models)   | Free quota + paid tiers                  | Google-centric multimodal workflows    |
+| ![][ghcli]  | [GitHub Copilot](https://github.com/features/copilot)     | CLI assistant             | CLI, GitHub integration                       | Cloud (Copilot models)  | Included in Copilot plan limits          | GitHub-heavy scripting and repo ops    |
+|   ![][oc]   | [OpenCode](https://opencode.ai/)                          | Open coding framework     | CLI, Local, Cloud API, SDK                    | Local and cloud hybrid  | Free tool; backend/provider cost applies | Flexible custom local/cloud setups     |
+
+> Note: These tools are interfaces around models; real cost usually depends on the selected provider/model.
 
 ## AI Coding Models
 
-|  Icon app   | Model                                                   | Provider    | License             | Access                   | Best for                                    | Tradeoffs                          |
-|:-----------:|---------------------------------------------------------|-------------|---------------------|--------------------------|---------------------------------------------|------------------------------------|
-|  ![][cla4]  | [Claude Sonnet 4](https://www.anthropic.com/claude)     | Anthropic   | Proprietary         | API / Claude Code        | Large refactors, repo understanding         | Paid usage, cloud dependency       |
-| ![][codes]  | [Codestral](https://mistral.ai/news/codestral/)         | Mistral AI  | Proprietary weights | API / partner platforms  | Fast code generation and completion         | Smaller ecosystem than top vendors |
-|  ![][dsv3]  | [DeepSeek V4](https://www.deepseek.com/)                | DeepSeek    | Open weights        | Local / hosted providers | Strong value for large-scale coding usage   | Ops overhead for self-hosting      |
-| ![][gemini] | [Gemini 2.5 Pro](https://ai.google.dev/)                | Google      | Proprietary         | API / Google ecosystem   | Multimodal workflows and long context       | Tooling variance by environment    |
-|  ![][gpt5]  | [GPT-5.3-Codex](https://openai.com/)                    | OpenAI      | Proprietary         | API / integrated tools   | End-to-end coding tasks and automation      | Paid usage, cloud dependency       |
-|  ![][kimi]  | [Kimi K2.6](https://www.kimi.com/ai-models/kimi-k2-6)   | Moonshot AI | Proprietary         | API / cloud              | Long-context coding and reasoning workflows | Limited global ecosystem           |
-|  ![][llm3]  | [Llama 3.3](https://www.llama.com/)                     | Meta        | Open weights        | Local / hosted providers | Private deployments and self-hosting        | Hardware and tuning requirements   |
-|  ![][mimo]  | [MiMo v2.5 Pro](https://mimo.xiaomi.com/mimo-v2-5-pro/) | Xiaomi      | Proprietary         | API / cloud              | Coding and multilingual assistant tasks     | Limited documentation in English   |
-|  ![][qwen]  | [Qwen 2.5 Coder](https://qwenlm.github.io/)             | Alibaba     | Open weights        | Local / hosted providers | Code-heavy tasks with cost-efficient infra  | Quality varies by size and setup   |
+|  Icon app   | Model                                              | Provider    | License             | Access                   | Best for                                    |
+|:-----------:|----------------------------------------------------|-------------|---------------------|--------------------------|---------------------------------------------|
+|  ![][cla4]  | [Claude Sonnet](https://www.anthropic.com/claude)  | Anthropic   | Proprietary         | API / Claude Code        | Large refactors, repo understanding         |
+| ![][codes]  | [Codestral](https://mistral.ai/news/codestral/)    | Mistral AI  | Proprietary weights | API / partner platforms  | Fast code generation and completion         |
+|  ![][dsv3]  | [DeepSeek V4](https://www.deepseek.com/)           | DeepSeek    | Open weights        | Local / hosted providers | Strong value for large-scale coding usage   |
+| ![][gemini] | [Gemini Pro](https://ai.google.dev/)               | Google      | Proprietary         | API / Google ecosystem   | Multimodal workflows and long context       |
+|  ![][gpt5]  | [GPT-Codex](https://chatgpt.com/codex/pricing/)    | OpenAI      | Proprietary         | API / integrated tools   | End-to-end coding tasks and automation      |
+|  ![][kimi]  | [Kimi K](https://www.kimi.com/ai-models/kimi-k2-6) | Moonshot AI | Proprietary         | API / cloud              | Long-context coding and reasoning workflows |
+|  ![][llm3]  | [Llama](https://www.llama.com/)                    | Meta        | Open weights        | Local / hosted providers | Private deployments and self-hosting        |
+|  ![][qwen]  | [Qwen Coder](https://qwenlm.github.io/)            | Alibaba     | Open weights        | Local / hosted providers | Code-heavy tasks with cost-efficient infra  |
+|  ![][mimo]  | [Xiaomi MiMo](https://mimo.xiaomi.com/)            | Xiaomi      | Proprietary         | API / cloud              | Coding and multilingual assistant tasks     |
+
+> Note: For models, always compare quality, latency, token cost, and regional availability.
 
 
 ## Local LLM Runtimes
 
-| Icon app  | Tool                                               | Company              | License     | Price | Strengths                          | Tradeoffs               |
-|:---------:|----------------------------------------------------|----------------------|-------------|-------|------------------------------------|-------------------------|
-| ![][oll]  | [Ollama](https://ollama.com/)                      | Ollama               | MIT         | Free  | Easy setup, HTTP API, broad models | Hardware-limited        |
-| ![][lms]  | [LM Studio](https://lmstudio.ai/)                  | LM Studio            | Proprietary | Free  | GUI, local API mode                | Less scriptable         |
-| ![][llcp] | [llama.cpp](https://github.com/ggml-org/llama.cpp) | ggml-org / Community | MIT         | Free  | Fast, all quant formats, flexible  | Technical setup         |
-| ![][g4a]  | [GPT4All](https://www.nomic.ai/gpt4all)            | Nomic AI             | MIT         | Free  | Privacy-first, easy onboarding     | Weaker on complex tasks |
+| Icon app  | Tool                                               | Company              | License     | Price | Best for                            |
+|:---------:|----------------------------------------------------|----------------------|-------------|-------|-------------------------------------|
+| ![][oll]  | [Ollama](https://ollama.com/)                      | Ollama               | MIT         | Free  | Quick local setup with broad models |
+| ![][lms]  | [LM Studio](https://lmstudio.ai/)                  | LM Studio            | Proprietary | Free  | GUI-based local experimentation     |
+| ![][llcp] | [llama.cpp](https://github.com/ggml-org/llama.cpp) | ggml-org / Community | MIT         | Free  | Maximum control and performance     |
+| ![][g4a]  | [GPT4All](https://www.nomic.ai/gpt4all)            | Nomic AI             | MIT         | Free  | Privacy-first onboarding            |
+
+> Note: Local performance depends more on hardware (RAM/VRAM/CPU/GPU) than on the tool alone.
 
 <!-- favicon references -->
 [ag]:     https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://antigravity.google&size=32
@@ -77,7 +88,7 @@ This guide compares the most relevant tools in each layer.
 [cur]:    https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://cursor.com&size=32
 [dsv3]:   https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://deepseek.com&size=32
 [g4a]:    https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://nomic.ai&size=32
-[gemcli]: https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://github.com&size=32
+[gemcli]: https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://geminicli.com&size=32
 [gemini]: https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://ai.google.dev&size=32
 [ghcli]:  https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/github-copilot.svg
 [gpt5]:   https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://openai.com&size=32
@@ -97,6 +108,6 @@ This guide compares the most relevant tools in each layer.
 
 - **General use** → VS Code + Copilot
 - **AI-first editor** → Cursor or Windsurf
-- **Terminal agent** → Claude Code or Gemini CLI
+- **Terminal interface** → Claude Code or Gemini CLI
 - **Local / private** → Ollama (quick) or llama.cpp (max control)
 
