@@ -45,6 +45,7 @@ This guide compares the most relevant tools in each layer.
 |:-----------:|-----------------------------------------------------------|---------------------------|-----------------------------------------------|-------------------------|------------------------------------------|----------------------------------------|
 |   ![][cc]   | [Claude Code](https://claude.ai/code)                     | Terminal coding interface | CLI, Cloud API, Third-party integrations      | Cloud (provider models) | Model plan/API usage                     | Deep repo work in terminal workflows   |
 |  ![][cdx]   | [Codex](https://openai.com/codex/)                        | Agentic coding interface  | Cloud app, API, SDK, Third-party tools        | Cloud (provider models) | Model tier/plan usage                    | End-to-end coding tasks with execution |
+|   ![][dv]   | [Devin](https://devin.ai/)                                | Autonomous coding agent   | Cloud app, Slack, API                         | Cloud (provider models) | Subscription / ACU-based usage           | Autonomous long-running coding tasks   |
 | ![][gemcli] | [Gemini CLI](https://github.com/google-gemini/gemini-cli) | CLI coding interface      | CLI, Cloud API, SDK, Third-party integrations | Cloud (Gemini models)   | Free quota + paid tiers                  | Google-centric multimodal workflows    |
 | ![][ghcli]  | [GitHub Copilot](https://github.com/features/copilot)     | CLI assistant             | CLI, GitHub integration                       | Cloud (Copilot models)  | Included in Copilot plan limits          | GitHub-heavy scripting and repo ops    |
 |   ![][oc]   | [OpenCode](https://opencode.ai/)                          | Open coding framework     | CLI, Local, Cloud API, SDK                    | Local and cloud hybrid  | Free tool; backend/provider cost applies | Flexible custom local/cloud setups     |
@@ -87,6 +88,7 @@ This guide compares the most relevant tools in each layer.
 [codes]:  https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://mistral.ai&size=32
 [cur]:    https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://cursor.com&size=32
 [dsv3]:   https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://deepseek.com&size=32
+[dv]:     https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://devin.ai/&size=32
 [g4a]:    https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://nomic.ai&size=32
 [gemcli]: https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://geminicli.com&size=32
 [gemini]: https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://ai.google.dev&size=32
@@ -110,4 +112,3 @@ This guide compares the most relevant tools in each layer.
 - **AI-first editor** → Cursor or Windsurf
 - **Terminal interface** → Claude Code or Gemini CLI
 - **Local / private** → Ollama (quick) or llama.cpp (max control)
-
