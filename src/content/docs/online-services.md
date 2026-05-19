@@ -60,7 +60,7 @@ description: Useful web services and cloud-based utilities.
 - [Reglamento WLM](https://wikilov.es/es/Wiki_Loves_Monuments/Reglamento_2020)
 
 ### Sports Competition
-- [La Velada del Año V: evento de boxeo por Ibai Llanos](https://www.infolavelada.com/) / [🔗](https://github.com/David7ce/la-velada-web-oficial)
+- [La Velada del Año V: evento de boxeo por Ibai Llanos](https://www.infolavelada.com/) / [🔗](https://github.com/midudev/la-velada-web-oficial)
 - [RoxCoach - Analyse Your Hyrox Results](https://www.rox-coach.com/)
 
 #### Race Competition
