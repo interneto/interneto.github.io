@@ -30,7 +30,7 @@ node scripts/convert.js
 **What it does:**
 1. Reads `links/interneto-links.csv` (Raindrop.io export)
 2. Parses CSV and validates items
-3. Generates markdown files in `src/content/docs/`
+3. Generates markdown files in `src/content/categories/`
 4. Each markdown file includes YAML frontmatter with title + description
 5. Runs markdown linting on output
 
@@ -41,7 +41,7 @@ node scripts/convert.js
 - `favorite` - Boolean for starred items
 - `note` - Optional note (can include source-code URLs)
 
-**Output:** Markdown files in `src/content/docs/` with frontmatter:
+**Output:** Markdown files in `src/content/categories/` with frontmatter:
 ```yaml
 ---
 title: By Company
@@ -111,7 +111,7 @@ General utilities:
    ```
 
 3. **Review generated markdown**
-   - Check output in `src/content/docs/`
+   - Check output in `src/content/categories/`
    - Frontmatter should include title + description
 
 4. **Commit changes**

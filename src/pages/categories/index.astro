@@ -3,7 +3,7 @@ import { getCollection } from 'astro:content';
 import VPLayout from '../../layouts/VPLayout.astro';
 
 const BASE = import.meta.env.BASE_URL.replace(/\/?$/, '/');
-const allDocs = await getCollection('docs');
+const allDocs = await getCollection('categories');
 const cleanSlug = (id: string) => id.replace(/\.md$/i, '');
 const HIDDEN_CATEGORY_PATTERN = /nsfw(?:-content)?/i;
 
