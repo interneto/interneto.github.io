@@ -174,7 +174,7 @@ export const CATEGORY_DESCRIPTIONS = {
 }
 
 export const PATHS = {
-  OUTPUT_DIR: 'src/content/docs',
+  OUTPUT_DIR: 'src/content/categories',
   INPUT_CSV_CANDIDATES: [
     'links/interneto-links.csv',
     'interneto-links.csv'

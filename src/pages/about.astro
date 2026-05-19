@@ -3,7 +3,7 @@ import { getCollection, render } from 'astro:content';
 import VPLayout from '../layouts/VPLayout.astro';
 
 const BASE = import.meta.env.BASE_URL.replace(/\/?$/, '/');
-const docs = await getCollection('docs');
+const docs = await getCollection('categories');
 const entry = docs.find((item) => item.id.replace(/\.md$/i, '') === 'about');
 
 if (!entry) {

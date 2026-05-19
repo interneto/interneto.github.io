@@ -11,8 +11,8 @@ const commonSchema = z.object({
   footer: z.any().optional(),
 });
 
-const docs = defineCollection({
-  loader: glob({ pattern: '**/*.{md,mdx}', base: './src/content/docs' }),
+const categories = defineCollection({
+  loader: glob({ pattern: '**/*.{md,mdx}', base: './src/content/categories' }),
   schema: commonSchema,
 });
 
@@ -22,6 +22,6 @@ const posts = defineCollection({
 });
 
 export const collections = {
-  docs,
+  categories,
   posts,
 };

@@ -5,7 +5,7 @@ import VPLayout from '../../layouts/VPLayout.astro';
 const BASE = import.meta.env.BASE_URL.replace(/\/?$/, '/');
 
 export async function getStaticPaths() {
-  const docs = await getCollection('docs');
+  const docs = await getCollection('categories');
   return docs
     .filter((entry) => {
       const slug = entry.id.replace(/\.md$/i, '');
@@ -18,9 +18,11 @@ export async function getStaticPaths() {
 }
 
 const { entry } = Astro.props;
-const { Content } = await render(entry);
+const { Content, headings } = await render(entry);
 const pageTitle = entry.data.title ?? entry.id;
 const hasLeadingMarkdownTitle = /^\s*#\s+/.test(entry.body ?? '');
+
+const tocItems = (headings ?? []).filter((h) => h.depth >= 2 && h.depth <= 3);
 ---
 
 <VPLayout title={pageTitle} hasSidebar={true} extraStyles={['styles/categories-page.css']}>
@@ -43,5 +45,51 @@ const hasLeadingMarkdownTitle = /^\s*#\s+/.test(entry.body ?? '');
         <Content />
       </div>
     </article>
+
+    {tocItems.length > 0 && (
+      <aside class="vp-toc" aria-label="On this page">
+        <div class="vp-toc-inner">
+          <p class="vp-toc-title">On this page</p>
+          <nav>
+            <ul class="vp-toc-list">
+              {tocItems.map((h) => (
+                <li class={`vp-toc-item vp-toc-depth-${h.depth}`}>
+                  <a href={`#${h.slug}`} data-toc-target={h.slug}>{h.text}</a>
+                </li>
+              ))}
+            </ul>
+          </nav>
+        </div>
+      </aside>
+    )}
   </div>
+
+  <script is:inline>
+    (() => {
+      const links = document.querySelectorAll('.vp-toc a[data-toc-target]');
+      if (!links.length) return;
+      const map = new Map();
+      links.forEach((a) => {
+        const id = a.getAttribute('data-toc-target');
+        const el = id && document.getElementById(id);
+        if (el) map.set(el, a);
+      });
+      if (!map.size) return;
+      const setActive = (link) => {
+        links.forEach((l) => l.classList.toggle('is-active', l === link));
+      };
+      const observer = new IntersectionObserver(
+        (entries) => {
+          const visible = entries
+            .filter((e) => e.isIntersecting)
+            .sort((a, b) => a.target.getBoundingClientRect().top - b.target.getBoundingClientRect().top);
+          if (visible.length) {
+            setActive(map.get(visible[0].target));
+          }
+        },
+        { rootMargin: '-80px 0px -70% 0px', threshold: [0, 1] }
+      );
+      map.forEach((_link, el) => observer.observe(el));
+    })();
+  </script>
 </VPLayout>
