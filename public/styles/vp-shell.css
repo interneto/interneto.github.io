@@ -40,7 +40,7 @@ body {
 }
 
 .VPContent.with-sidebar {
-  margin-left: 0;
+  margin: 1rem;
 }
 
 .VPSkipLink {
@@ -503,6 +503,7 @@ html.vp-mobile-sidebar-open .vp-sidebar {
 
   .VPContent.with-sidebar {
     margin-left: 15rem;
+    padding-left: 2rem;
   }
 
   .vp-sidebar-mobile-trigger,
