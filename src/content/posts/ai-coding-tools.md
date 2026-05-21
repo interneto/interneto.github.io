@@ -34,6 +34,8 @@ This guide compares the most relevant tools in each layer.
 - **Local / private** → Ollama (quick setup) or llama.cpp (max control)
 - **Best value model** → Kimi K2.6 (open weights, frontier quality)
 - **Cheapest capable model** → DeepSeek V4 Flash
+- **Skills ecosystem** → skills.sh (open, any agent) or autoskills.sh (auto-detect stack)
+- **Prompt engineering** → Prompt Engineering Guide (reference) or Learn Prompting (course)
 
 
 ## Local LLM Runtimes
@@ -56,7 +58,7 @@ Full editors with deep AI integration — context-aware completions, inline edit
 
 |   Icon   | Tool                                                                            | Company        | License           | Price         | Best for                                                    |
 |:--------:|---------------------------------------------------------------------------------|----------------|-------------------|---------------|-------------------------------------------------------------|
-| ![][ag]  | [Antigravity](https://antigravity.google/)                                      | Google         | Proprietary       | Free (beta)   | Agentic workflows in Google ecosystem     |
+| ![][ag]  | [Antigravity](https://antigravity.google/)                                      | Google         | Proprietary       | Free (beta)   | Agentic workflows in Google ecosystem                       |
 | ![][cur] | [Cursor](https://cursor.com/)                                                   | Anysphere      | Proprietary       | Free / $20/mo | Fast inline edits and project-wide chat                     |
 | ![][vsc] | [VS Code (Agentic)](https://code.visualstudio.com/docs/copilot/agents/overview) | Microsoft      | MIT + Proprietary | Free / $10/mo | Balanced daily coding with a broad extension ecosystem      |
 | ![][ws]  | [Windsurf](https://windsurf.com/)                                               | Codeium        | Proprietary       | Free / $15/mo | AI-first coding flow with Cascade agent                     |
@@ -72,16 +74,18 @@ Full editors with deep AI integration — context-aware completions, inline edit
 
 These tools are model-agnostic interfaces that go beyond the editor — terminal workflows, autonomous agents, and cloud-based execution environments.
 
-|    Icon     | Tool                                                      | Type                     | Interaction                              | Runtime                    | Pricing                          | Best for                                   |
-|:-----------:|-----------------------------------------------------------|--------------------------|------------------------------------------|----------------------------|----------------------------------|--------------------------------------------|
-|   ![][cc]   | [Claude Code](https://claude.ai/code)                     | Terminal coding agent    | CLI, Cloud API, third-party integrations | Cloud (Anthropic / custom) | Model plan or API usage          | Deep repo work in terminal workflows       |
-|  ![][cdx]   | [Codex](https://openai.com/codex/)                        | Agentic coding interface | Cloud app, API, SDK, third-party         | Cloud (OpenAI models)      | Model tier / plan                | End-to-end coding tasks with execution     |
-|   ![][dv]   | [Devin](https://devin.ai/)                                | Autonomous coding agent  | Cloud app, Slack, API                    | Cloud (provider models)    | Subscription / ACU-based         | Long-running autonomous coding tasks       |
-| ![][gemcli] | [Gemini CLI](https://github.com/google-gemini/gemini-cli) | CLI coding interface     | CLI, Cloud API, SDK, third-party         | Cloud (Gemini models)      | Free quota + paid tiers          | Google-centric and multimodal workflows    |
-| ![][ghcli]  | [GitHub Copilot](https://github.com/features/copilot)     | Editor + CLI assistant   | IDE extensions, CLI, GitHub integration  | Cloud (Copilot / Azure)    | Included in Copilot plan         | GitHub-native scripting and repo workflows |
-|   ![][oc]   | [OpenCode](https://opencode.ai/)                          | Open coding framework    | CLI, local, Cloud API, SDK               | Local and cloud hybrid     | Free tool; provider cost applies | Flexible custom local/cloud setups         |
+|    Icon    | Tool                                                                  | Type                     | Interaction                              | Runtime                    | Pricing                          | Best for                                   |
+|:----------:|-----------------------------------------------------------------------|--------------------------|------------------------------------------|----------------------------|----------------------------------|--------------------------------------------|
+|  ![][ag]   | [Antigravity CLI](https://antigravity.google/product/antigravity-cli) | CLI coding interface     | CLI, Cloud API, SDK, third-party         | Cloud (Gemini models)      | Free quota + paid tiers          | Google-centric and multimodal workflows    |
+|  ![][cc]   | [Claude Code](https://claude.ai/code)                                 | Terminal coding agent    | CLI, Cloud API, third-party integrations | Cloud (Anthropic / custom) | Model plan or API usage          | Deep repo work in terminal workflows       |
+|  ![][cdx]  | [Codex](https://openai.com/codex/)                                    | Agentic coding interface | Cloud app, API, SDK, third-party         | Cloud (OpenAI models)      | Model tier / plan                | End-to-end coding tasks with execution     |
+|  ![][dv]   | [Devin](https://devin.ai/)                                            | Autonomous coding agent  | Cloud app, Slack, API                    | Cloud (provider models)    | Subscription / ACU-based         | Long-running autonomous coding tasks       |
+| ![][ghcli] | [GitHub Copilot](https://github.com/features/copilot)                 | Editor + CLI assistant   | IDE extensions, CLI, GitHub integration  | Cloud (Copilot / Azure)    | Included in Copilot plan         | GitHub-native scripting and repo workflows |
+| ![][herm]  | [Hermes](https://hermes-agent.nousresearch.com/)                      | Autonomous coding agent  | CLI, local, Cloud API, third-party       | Local and cloud hybrid     | Free (open-source)               | Free autonomous self-improvement agent     |
+| ![][oclaw] | [OpenClaw](https://github.com/openclaw/openclaw)                      | Autonomous coding agent  | CLI, local, Cloud API, third-party       | Local and cloud hybrid     | Free (open-source)               | Open-source self-hosted autonomous agent   |
+|  ![][oc]   | [OpenCode](https://opencode.ai/)                                      | Open coding framework    | CLI, local, Cloud API, SDK               | Local and cloud hybrid     | Free tool; provider cost applies | Flexible custom local/cloud setups         |
 
-> **Note:** These tools are interfaces around models. The real cost depends on the selected provider and model tier, not the tool itself.
+> **Note:** These tools are interfaces around models.The real cost depends on the selected provider and model tier, not the tool itself.
 
 
 ## AI Coding Models
@@ -128,6 +132,36 @@ Data from [Artificial Analysis](https://artificialanalysis.ai/leaderboards/model
 
 ---
 
+## AI Prompt Skills
+
+Agent skills are reusable instruction sets — typically `.md` files — that give AI coding agents specialized knowledge, workflows, and best practices. Install them into your agent's context to extend its capabilities without fine-tuning.
+
+### Skills Ecosystems
+
+| Tool                                                                  | Provider    | Best for                                                                   |
+|-----------------------------------------------------------------------|-------------|----------------------------------------------------------------------------|
+| [skills.sh](https://skills.sh/)                                       | Vercel Labs | Open skills ecosystem; install community or custom skills via `npx skills` |
+| [agentskills.io](https://agentskills.io/home)                         | Community   | Standardized skills protocol compatible with any AI agent                  |
+| [autoskills.sh](https://www.autoskills.sh/)                           | Community   | Auto-detect your stack and install the right skills automatically          |
+| [ClawHub](https://clawhub.ai/)                                        | OpenClaw    | Fast skill registry with vector search for discovery                       |
+| [anthropics/skills](https://github.com/anthropics/skills)             | Anthropic   | Official Anthropic-curated agent skills                                    |
+| [openai/skills](https://github.com/openai/skills)                     | OpenAI      | Official Codex skills catalog                                              |
+| [google/skills](https://github.com/google/skills)                     | Google      | Official Google product and technology skills                              |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Community   | Production-grade engineering skills by Addy Osmani                         |
+| [Wondel.ai Skills](https://skills.wondel.ai/)                         | Community   | 41 business and engineering frameworks as agent skills                     |
+
+### Prompt Engineering Guides
+
+| Resource                                                                                        | Best for                                                        |
+|-------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|
+| [Prompt Engineering Guide](https://www.promptingguide.ai/)                                      | Comprehensive reference covering all major prompting techniques |
+| [Learn Prompting](https://learnprompting.org/)                                                  | Structured course with 60+ modules on prompt engineering        |
+| [GitHub Copilot Chat Cookbook](https://docs.github.com/copilot/tutorials/copilot-chat-cookbook) | Practical Copilot-specific prompt examples and patterns         |
+| [Awesome ChatGPT Prompts](https://prompts.chat/)                                                | Curated community prompts for common tasks and roles            |
+
+
+---
+
 <!-- favicon references -->
 [ag]:     https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://antigravity.google&size=32
 [cc]:     https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://anthropic.com&size=32
@@ -142,6 +176,7 @@ Data from [Artificial Analysis](https://artificialanalysis.ai/leaderboards/model
 [gemini]: https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://ai.google.dev&size=32
 [ghcli]:  https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/github-copilot.svg
 [gpt5]:   https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://openai.com&size=32
+[herm]:   https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://nousresearch.com&size=32
 [kimi]:   https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://kimi.com&size=32
 [llcp]:   https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://github.com&size=32
 [llm3]:   https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://llama.com&size=32
@@ -149,6 +184,7 @@ Data from [Artificial Analysis](https://artificialanalysis.ai/leaderboards/model
 [mimo]:   https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://mimo.xiaomi.com&size=32
 [oc]:     https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://opencode.ai&size=32
 [oll]:    https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://ollama.com&size=32
+[oclaw]:  https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://github.com&size=32
 [qwen]:   https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://qwenlm.github.io&size=32
 [vsc]:    https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://code.visualstudio.com&size=32
 [ws]:     https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://windsurf.com&size=32
