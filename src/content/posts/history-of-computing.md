@@ -8,9 +8,12 @@ date: 2026-05-12
 
 Major milestones in computer hardware and software, listed in reverse chronological order (newest to oldest).
 
-Hardware events appear on the left branch and software events on the right branch. Years are unique (no repetition): events in the same year are stacked under that single year node.
+Years are unique (no repetition): events in the same year are stacked under that single year node.
 
-<p><strong>Left:</strong> Hardware · <strong>Right:</strong> Software</p>
+<div class="history-filter-controls" role="group" aria-label="Filter timeline categories">
+  <button type="button" class="history-filter-button history-filter-button--hardware is-active" data-history-filter="hardware" aria-pressed="true">Hardware</button>
+  <button type="button" class="history-filter-button history-filter-button--software is-active" data-history-filter="software" aria-pressed="true">Software</button>
+</div>
 
 <div class="history-timeline history-timeline--grouped" role="list" aria-label="History of computing timeline">
   <section class="history-year-group" role="listitem">
@@ -76,8 +79,8 @@ Hardware events appear on the left branch and software events on the right branc
       <div class="history-lane history-lane--left"></div>
       <div class="history-lane history-lane--right">
         <article class="history-card history-card--software">
-          <div class="history-card-head"><span class="history-product-icon" aria-hidden="true">🏝️</span><h3>Fortnite Global Breakthrough</h3></div>
-          <p>Fortnite popularized live-service game operations at massive scale, blending social features, events, and continuous software updates.</p>
+          <div class="history-card-head"><span class="history-product-icon" aria-hidden="true">🧠</span><h3>Transformer Architecture Published</h3></div>
+          <p>The "Attention Is All You Need" paper introduced transformers, a model architecture that reshaped NLP, coding assistants, and modern AI software.</p>
         </article>
       </div>
     </div>
@@ -94,8 +97,8 @@ Hardware events appear on the left branch and software events on the right branc
           <p>VS Code accelerated modern development workflows with an extensible editor model and integrated tooling for many ecosystems.</p>
         </article>
         <article class="history-card history-card--software">
-          <div class="history-card-head"><span class="history-product-icon" aria-hidden="true">🗣️</span><h3>Discord Launch</h3></div>
-          <p>Discord unified voice, chat, and community spaces, becoming core communication infrastructure for gaming and software communities.</p>
+          <div class="history-card-head"><span class="history-product-icon" aria-hidden="true">☸️</span><h3>Kubernetes 1.0 Release</h3></div>
+          <p>Kubernetes established a standard control plane for container orchestration, becoming foundational to cloud-native software operations.</p>
         </article>
       </div>
     </div>
@@ -110,19 +113,19 @@ Hardware events appear on the left branch and software events on the right branc
   <section class="history-year-group" role="listitem">
     <span class="history-year">2013</span>
     <span class="history-dot" aria-hidden="true"></span>
-    <div class="history-year-lanes"><div class="history-lane history-lane--left"></div><div class="history-lane history-lane--right"><article class="history-card history-card--software"><div class="history-card-head"><span class="history-product-icon" aria-hidden="true">✉️</span><h3>Telegram Launch</h3></div><p>Telegram introduced cloud-synced messaging with strong multi-device support, influencing modern chat platform expectations.</p></article></div></div>
+    <div class="history-year-lanes"><div class="history-lane history-lane--left"></div><div class="history-lane history-lane--right"><article class="history-card history-card--software"><div class="history-card-head"><span class="history-product-icon" aria-hidden="true">⚛️</span><h3>React Open-Sourced</h3></div><p>React popularized component-based UI architecture and transformed frontend engineering patterns across web applications.</p></article></div></div>
   </section>
 
   <section class="history-year-group" role="listitem">
     <span class="history-year">2011</span>
     <span class="history-dot" aria-hidden="true"></span>
-    <div class="history-year-lanes"><div class="history-lane history-lane--left"></div><div class="history-lane history-lane--right"><article class="history-card history-card--software"><div class="history-card-head"><span class="history-product-icon" aria-hidden="true">⛏️</span><h3>Minecraft 1.0 Release</h3></div><p>Minecraft established a durable sandbox model for user-generated content and long-term game software evolution.</p></article></div></div>
+    <div class="history-year-lanes"><div class="history-lane history-lane--left"></div><div class="history-lane history-lane--right"><article class="history-card history-card--software"><div class="history-card-head"><span class="history-product-icon" aria-hidden="true">🐘</span><h3>Apache Hadoop 1.0 Release</h3></div><p>Hadoop 1.0 standardized large-scale distributed data processing workflows and accelerated modern data engineering ecosystems.</p></article></div></div>
   </section>
 
   <section class="history-year-group" role="listitem">
     <span class="history-year">2010</span>
     <span class="history-dot" aria-hidden="true"></span>
-    <div class="history-year-lanes"><div class="history-lane history-lane--left"></div><div class="history-lane history-lane--right"><article class="history-card history-card--software"><div class="history-card-head"><span class="history-product-icon" aria-hidden="true">📸</span><h3>Instagram Launch</h3></div><p>Instagram accelerated mobile-native media software patterns around visual feeds, filters, and creator-driven social distribution.</p></article></div></div>
+    <div class="history-year-lanes"><div class="history-lane history-lane--left"></div><div class="history-lane history-lane--right"><article class="history-card history-card--software"><div class="history-card-head"><span class="history-product-icon" aria-hidden="true">⚡</span><h3>Apache Spark Introduced</h3></div><p>Spark introduced an in-memory distributed computation model that significantly advanced data analytics and machine learning pipelines.</p></article></div></div>
   </section>
 
   <section class="history-year-group" role="listitem">
@@ -131,8 +134,8 @@ Hardware events appear on the left branch and software events on the right branc
     <div class="history-year-lanes">
       <div class="history-lane history-lane--left"></div>
       <div class="history-lane history-lane--right">
-        <article class="history-card history-card--software"><div class="history-card-head"><span class="history-product-icon" aria-hidden="true">🏆</span><h3>League of Legends Launch</h3></div><p>LoL helped define modern esports operations and continuous balance patching in competitive online software.</p></article>
-        <article class="history-card history-card--software"><div class="history-card-head"><span class="history-product-icon" aria-hidden="true">💬</span><h3>WhatsApp Launch</h3></div><p>WhatsApp pushed internet-based messaging to global scale, accelerating the decline of traditional SMS-centric communication.</p></article>
+        <article class="history-card history-card--software"><div class="history-card-head"><span class="history-product-icon" aria-hidden="true">🟢</span><h3>Node.js Initial Release</h3></div><p>Node.js brought event-driven JavaScript to server-side development, reshaping backend and full-stack web ecosystems.</p></article>
+        <article class="history-card history-card--software"><div class="history-card-head"><span class="history-product-icon" aria-hidden="true">₿</span><h3>Bitcoin Network Goes Live</h3></div><p>Bitcoin demonstrated decentralized consensus at internet scale and influenced distributed systems and cryptographic software design.</p></article>
       </div>
     </div>
   </section>
@@ -207,7 +210,7 @@ Hardware events appear on the left branch and software events on the right branc
   <section class="history-year-group" role="listitem">
     <span class="history-year">1997</span>
     <span class="history-dot" aria-hidden="true"></span>
-    <div class="history-year-lanes"><div class="history-lane history-lane--left"></div><div class="history-lane history-lane--right"><article class="history-card history-card--software"><div class="history-card-head"><span class="history-product-icon" aria-hidden="true">📺</span><h3>Netflix Company Founded</h3></div><p>Netflix began as an internet-era media business that later influenced global software delivery for streaming platforms.</p></article></div></div>
+    <div class="history-year-lanes"><div class="history-lane history-lane--left"></div><div class="history-lane history-lane--right"><article class="history-card history-card--software"><div class="history-card-head"><span class="history-product-icon" aria-hidden="true">♟️</span><h3>Deep Blue Defeats Garry Kasparov</h3></div><p>IBM's Deep Blue milestone showed the practical power of specialized compute and search-based AI in a globally visible benchmark.</p></article></div></div>
   </section>
 
   <section class="history-year-group" role="listitem">
@@ -249,7 +252,7 @@ Hardware events appear on the left branch and software events on the right branc
   <section class="history-year-group" role="listitem">
     <span class="history-year">1985</span>
     <span class="history-dot" aria-hidden="true"></span>
-    <div class="history-year-lanes"><div class="history-lane history-lane--left"></div><div class="history-lane history-lane--right"><article class="history-card history-card--software"><div class="history-card-head"><span class="history-product-icon" aria-hidden="true">🪟</span><h3>Windows 1.0 Initial Release</h3></div><p>The first Windows version introduced a graphical shell on top of MS-DOS, beginning Microsoft's long GUI software era.</p></article></div></div>
+    <div class="history-year-lanes"><div class="history-lane history-lane--left"><article class="history-card history-card--hardware"><div class="history-card-head"><span class="history-product-icon" aria-hidden="true">🧩</span><h3>ARM1 Prototype and ARM RISC Architecture</h3></div><p>The ARM1 prototype validated a low-power RISC design philosophy that later scaled across mobile, embedded, and server hardware.</p></article></div><div class="history-lane history-lane--right"><article class="history-card history-card--software"><div class="history-card-head"><span class="history-product-icon" aria-hidden="true">🪟</span><h3>Windows 1.0 Initial Release</h3></div><p>The first Windows version introduced a graphical shell on top of MS-DOS, beginning Microsoft's long GUI software era.</p></article></div></div>
   </section>
 
   <section class="history-year-group" role="listitem">
@@ -273,7 +276,7 @@ Hardware events appear on the left branch and software events on the right branc
   <section class="history-year-group" role="listitem">
     <span class="history-year">1978</span>
     <span class="history-dot" aria-hidden="true"></span>
-    <div class="history-year-lanes"><div class="history-lane history-lane--left"></div><div class="history-lane history-lane--right"><article class="history-card history-card--software"><div class="history-card-head"><span class="history-product-icon" aria-hidden="true">🕸️</span><h3>OSI Model Conceptualization Phase</h3></div><p>Late-1970s networking work formalized layered communication concepts that evolved into the OSI reference model.</p></article></div></div>
+    <div class="history-year-lanes"><div class="history-lane history-lane--left"><article class="history-card history-card--hardware"><div class="history-card-head"><span class="history-product-icon" aria-hidden="true">🧱</span><h3>Intel 8086 and the x86 Architecture</h3></div><p>The 8086 introduced the x86 instruction set family, establishing a hardware architecture lineage that dominates PC and server computing.</p></article></div><div class="history-lane history-lane--right"></div></div>
   </section>
 
   <section class="history-year-group" role="listitem">
@@ -306,3 +309,64 @@ Hardware events appear on the left branch and software events on the right branc
     <div class="history-year-lanes"><div class="history-lane history-lane--left"><article class="history-card history-card--hardware"><div class="history-card-head"><span class="history-product-icon" aria-hidden="true">🧪</span><h3>Bell Labs Transistor Demonstration</h3></div><p>The transistor replaced vacuum tubes over time, making modern reliable, compact, and power-efficient computers possible.</p></article></div><div class="history-lane history-lane--right"></div></div>
   </section>
 </div>
+
+<script>
+  (() => {
+    const initHistoryFilters = () => {
+      const controls = document.querySelector('.history-filter-controls');
+      const timeline = document.querySelector('.history-timeline--grouped');
+      if (!controls || !timeline) return;
+
+      const buttons = controls.querySelectorAll('[data-history-filter]');
+      if (!buttons.length) return;
+
+      const state = {
+        hardware: true,
+        software: true,
+      };
+
+      const updateGroups = () => {
+        const groups = timeline.querySelectorAll('.history-year-group');
+        groups.forEach((group) => {
+          const hardwareCards = group.querySelectorAll('.history-card--hardware');
+          const softwareCards = group.querySelectorAll('.history-card--software');
+          const hasVisibleHardware = state.hardware && hardwareCards.length > 0;
+          const hasVisibleSoftware = state.software && softwareCards.length > 0;
+          group.classList.toggle('is-empty', !hasVisibleHardware && !hasVisibleSoftware);
+        });
+      };
+
+      const updateUI = () => {
+        timeline.classList.toggle('history-hide-hardware', !state.hardware);
+        timeline.classList.toggle('history-hide-software', !state.software);
+
+        buttons.forEach((button) => {
+          const key = button.getAttribute('data-history-filter');
+          const active = key === 'hardware' ? state.hardware : state.software;
+          button.classList.toggle('is-active', active);
+          button.setAttribute('aria-pressed', String(active));
+        });
+
+        updateGroups();
+      };
+
+      buttons.forEach((button) => {
+        button.addEventListener('click', () => {
+          const key = button.getAttribute('data-history-filter');
+          if (key !== 'hardware' && key !== 'software') return;
+          state[key] = !state[key];
+          updateUI();
+        });
+      });
+
+      updateUI();
+    };
+
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', initHistoryFilters, { once: true });
+    } else {
+      initHistoryFilters();
+    }
+    document.addEventListener('astro:page-load', initHistoryFilters);
+  })();
+</script>
