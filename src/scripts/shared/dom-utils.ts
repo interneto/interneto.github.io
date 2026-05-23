@@ -3,7 +3,7 @@
  * Centralized DOM query and manipulation functions to avoid duplication
  */
 
-import { CLASS_NAMES, ATTR_NAMES, ELEMENT_IDS } from './config';
+import { CLASS_NAMES, ATTR_NAMES, ELEMENT_IDS } from './dom-constants';
 
 /**
  * Get all selected package IDs that are currently visible (not hidden by search, FOSS filter, or distro)

@@ -3,14 +3,14 @@
  * Manages checkbox state, three-state logic, and visibility filtering
  */
 
-import { CLASS_NAMES, EVENT_NAMES } from './config';
+import { CLASS_NAMES, EVENT_NAMES } from '../shared/dom-constants';
 import {
     getVisibleCheckboxes,
     getPackageCheckboxesByCategory,
     getCategoryCheckbox,
     getElement,
     toggleClass,
-} from './dom-utils';
+} from '../shared/dom-utils';
 
 /**
  * Setup all checkbox-related functionality

@@ -3,13 +3,13 @@
  * Entry point for desktop-os-compatibility.html
  */
 
-import { OS_COMPAT_CONFIG } from './config';
-import { initTheme } from './theme-manager';
-import { loadCompatibilityData } from './os-compat-data';
-import * as state from './os-compat-state';
-import * as table from './os-compat-table';
-import * as interactions from './os-compat-interactions';
-import { onDOMReady } from './dom-utils';
+import { initConfigData } from '../shared/data-loader';
+import { initTheme } from '../site/theme-manager';
+import { loadCompatibilityData } from './data';
+import * as state from './state';
+import * as table from './table';
+import * as interactions from './interactions';
+import { onDOMReady } from '../shared/dom-utils';
 
 /**
  * Initialize the OS Compatibility application
@@ -18,11 +18,12 @@ async function init() {
     try {
         // Initialize theme first (synchronous)
         initTheme();
-        
+
         // Show loading state
         table.showLoading('Loading package data...');
-        
-        // Load data
+
+        // Load JSON config + packages in parallel
+        await initConfigData();
         const packages = await loadCompatibilityData();
         
         // Initialize state with loaded packages

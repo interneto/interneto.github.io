@@ -24,7 +24,7 @@ const pageTitle = entry.data.title ?? entry.id;
 const hasLeadingMarkdownTitle = /^\s*#\s+/.test(entry.body ?? '');
 ---
 
-<VPLayout title={pageTitle} hasSidebar={false} extraStyles={['styles/content-shared.css', 'styles/categories-page.css']}>
+<VPLayout title={pageTitle} hasSidebar={true} extraStyles={['styles/content-shared.css', 'styles/categories-page.css']}>
   <div class="vp-post-wrapper">
     <nav class="vp-breadcrumb" aria-label="Breadcrumb">
       <a href={`${BASE}`}>Home</a>

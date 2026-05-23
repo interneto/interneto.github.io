@@ -3,13 +3,14 @@
  * Manages the FOSS-only toggle and package filtering
  */
 
-import { NON_FOSS_PACKAGES, CLASS_NAMES, EVENT_NAMES } from './config';
+import { CLASS_NAMES, EVENT_NAMES } from '../shared/dom-constants';
+import { getFossList } from '../shared/data-loader';
 import {
     getElement,
     getPackageCheckbox,
     addClass,
     removeClass,
-} from './dom-utils';
+} from '../shared/dom-utils';
 import {
     updateAllCategoryCheckboxes,
     updateSelectAllState,
@@ -42,7 +43,7 @@ export function setupFossToggle() {
  * @param {boolean} isActive - Whether to show only FOSS packages
  */
 export function applyFossFilter(isActive) {
-    NON_FOSS_PACKAGES.forEach(pkgId => {
+    getFossList().forEach(pkgId => {
         const checkbox = getPackageCheckbox(pkgId);
         if (checkbox) {
             const label = checkbox.closest('label');
@@ -82,7 +83,7 @@ export function isFossFilterActive() {
  */
 export function getVisibleNonFossCount() {
     let count = 0;
-    NON_FOSS_PACKAGES.forEach(pkgId => {
+    getFossList().forEach(pkgId => {
         const checkbox = getPackageCheckbox(pkgId);
         if (checkbox) {
             const label = checkbox.closest('label');

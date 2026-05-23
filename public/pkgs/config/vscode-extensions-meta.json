@@ -1,0 +1,12 @@
+{
+  "nonFoss": [
+    "bmewburn.vscode-intelephense-client",
+    "github.copilot-chat",
+    "ms-python.vscode-pylance"
+  ],
+  "favorites": [
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "github.copilot-chat"
+  ]
+}

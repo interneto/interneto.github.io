@@ -1,0 +1,14 @@
+{
+  "linux_arch_pacman": "sudo pacman -S",
+  "linux_debian_apt": "sudo apt install",
+  "linux_fedora_rpm": "sudo dnf install",
+  "linux_gentoo_emerge": "sudo emerge",
+  "unix_nix_env": "sudo nix-env -iA",
+  "linux_flatpak": "flatpak install",
+  "linux_snap": "sudo snap install",
+  "freebsd_pkg": "sudo pkg install",
+  "macos_brew": "brew install",
+  "windows_winget": "winget install",
+  "android_pkg": "adb install",
+  "ios_pkg": "apt install"
+}

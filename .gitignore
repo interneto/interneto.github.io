@@ -1,3 +1,6 @@
+.astro/
+.claude/
+.vscode/
 dist/
 node_modules/
 static-website/

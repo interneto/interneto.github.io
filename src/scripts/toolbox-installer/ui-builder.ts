@@ -3,8 +3,10 @@
  * Handles DOM generation for packages, categories, and subcategories
  */
 
-import { CONFIG, CLASS_NAMES, ATTR_NAMES, CATEGORY_EMOJIS } from './config';
-import { getElement } from './dom-utils';
+import { CONFIG } from '../shared/paths';
+import { CLASS_NAMES, ATTR_NAMES } from '../shared/dom-constants';
+import { getCategoryEmojis } from '../shared/data-loader';
+import { getElement } from '../shared/dom-utils';
 import type { PackageInfo, PackagesData } from './command-builder';
 
 const DEFAULT_ICON_EXTENSIONS = ['svg', 'png', 'jpg', 'jpeg', 'webp'];
@@ -95,7 +97,7 @@ function createCategorySection(category: string, packagesData: PackagesData): HT
     // Emoji
     const categoryEmoji = document.createElement('span');
     categoryEmoji.classList.add(CLASS_NAMES.CATEGORY_EMOJI);
-    categoryEmoji.textContent = CATEGORY_EMOJIS[category] || '📦';
+    categoryEmoji.textContent = getCategoryEmojis()[category] || '📦';
     categoryHeader.appendChild(categoryEmoji);
 
     // Heading

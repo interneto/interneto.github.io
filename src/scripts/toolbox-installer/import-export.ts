@@ -3,10 +3,11 @@
  * Handles file import/export UI and file input setup
  */
 
-import { CONFIG, CLASS_NAMES, EVENT_NAMES } from './config';
+import { CONFIG } from '../shared/paths';
+import { CLASS_NAMES, EVENT_NAMES } from '../shared/dom-constants';
 import {
     getElement,
-} from './dom-utils';
+} from '../shared/dom-utils';
 import {
     importPackagesFromFile,
     exportPackages,

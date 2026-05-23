@@ -3,8 +3,9 @@
  * Handles package data loading, import/export, and favorites
  */
 
-import { CONFIG, EVENT_NAMES } from './config';
-import { getSelectedPackageIds, getElement } from './dom-utils';
+import { CONFIG } from '../shared/paths';
+import { EVENT_NAMES } from '../shared/dom-constants';
+import { getSelectedPackageIds, getElement } from '../shared/dom-utils';
 import type { PackageInfo, PackagesData } from './command-builder';
 
 // Module state

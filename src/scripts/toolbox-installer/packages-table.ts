@@ -1,5 +1,11 @@
 // Módulo para renderizar la tabla de paquetes (desktop y mobile)
 
+import {
+    initConfigData,
+    getVscodeNonFossExtensions,
+    getVscodeFavoriteExtensions,
+} from '../shared/data-loader';
+
 const BASE = ((import.meta as unknown as { env: { BASE_URL: string } }).env.BASE_URL).replace(/\/?$/, '/');
 
 // ============================================================================
@@ -258,18 +264,6 @@ function getVscodeExtensionsFromData(data: ExtensionData): Omit<VscodeExtension,
     return Object.entries(data.extensions).map(([id, ext]) => ({ id, ...ext }));
 }
 
-const NON_FOSS_VSCODE_EXTENSIONS = new Set([
-    'bmewburn.vscode-intelephense-client',
-    'github.copilot-chat',
-    'ms-python.vscode-pylance',
-]);
-
-const FAVORITE_VSCODE_EXTENSIONS = [
-    'dbaeumer.vscode-eslint',
-    'esbenp.prettier-vscode',
-    'github.copilot-chat',
-];
-
 function renderVscodeGenerator(items: Omit<VscodeExtension, 'isFoss'>[]): void {
     const container = document.getElementById('extensionsCategories');
     const commandFooter = document.getElementById('commandFooter');
@@ -301,7 +295,7 @@ function renderVscodeGenerator(items: Omit<VscodeExtension, 'isFoss'>[]): void {
 
     const normalizedItems: VscodeExtension[] = items.map((item) => ({
         ...item,
-        isFoss: !NON_FOSS_VSCODE_EXTENSIONS.has(item.id),
+        isFoss: !getVscodeNonFossExtensions().includes(item.id),
     }));
 
     const grouped = groupByCategory(normalizedItems);
@@ -521,7 +515,7 @@ function renderVscodeGenerator(items: Omit<VscodeExtension, 'isFoss'>[]): void {
         if (!action) return;
 
         if (action === 'loadFavorites') {
-            setSelectionByIds(FAVORITE_VSCODE_EXTENSIONS);
+            setSelectionByIds(getVscodeFavoriteExtensions());
         }
         if (action === 'importPackages') {
             fileInput!.value = '';
@@ -955,7 +949,8 @@ export async function loadBrowserExtensionsGenerator(): Promise<void> {
 // INIT
 // ============================================================================
 
-function initSharedPages(): void {
+async function initSharedPages(): Promise<void> {
+    await initConfigData();
     if (document.getElementById('extensionsCategories')) {
         loadVscodeExtensionsGenerator();
     }

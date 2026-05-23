@@ -3,7 +3,7 @@
  * Centralized event management and dispatching
  */
 
-import { EVENT_NAMES } from './config';
+import { EVENT_NAMES } from './dom-constants';
 
 /**
  * Dispatch a custom event

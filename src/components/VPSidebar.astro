@@ -69,14 +69,14 @@ const mapItems: SidebarItem[] = [
   { text: 'Categories', href: `${BASE}categories/`, icon: 'categories', isActive: false },
 ];
 
-// Only show left sidebar on index pages of /categories/ and /posts/, plus /map/
-const isCategoriesIndex = currentPath === `${BASE}categories` || currentPath === `${BASE}categories/`;
-const isPostsIndex = currentPath === `${BASE}posts` || currentPath === `${BASE}posts/`;
+// Left sidebar on /categories/ + /categories/<slug>, /posts/ + /post/<slug>, and /map/
+const isCategoriesArea = currentPath.startsWith(`${BASE}categories`);
+const isPostsArea = currentPath.startsWith(`${BASE}posts`) || currentPath.startsWith(`${BASE}post/`) || currentPath === `${BASE}post`;
 const isMapPage = currentPath.includes('/map');
 
 const sidebarKind: 'categories' | 'posts' | 'map' | 'none' =
-  isCategoriesIndex ? 'categories' :
-  isPostsIndex ? 'posts' :
+  isCategoriesArea ? 'categories' :
+  isPostsArea ? 'posts' :
   isMapPage ? 'map' : 'none';
 
 const title =
@@ -157,23 +157,33 @@ const title =
 )}
 
 <script>
-  const categorySearchInput = document.getElementById('categorySidebarSearch');
+  const normalize = (value: string) => value.trim().toLowerCase();
 
-  if (categorySearchInput instanceof HTMLInputElement) {
-    const categoryLinks = Array.from(document.querySelectorAll('.vp-sidebar-items .vp-sidebar-item-link'));
-    const normalize = (value: string) => value.trim().toLowerCase();
+  const wireSidebarSearch = (inputId: string) => {
+    const input = document.getElementById(inputId);
+    if (!(input instanceof HTMLInputElement)) return;
+    const sidebar = document.getElementById('vpSidebar');
+    if (!sidebar) return;
+    const links = Array.from(sidebar.querySelectorAll('.vp-sidebar-item-link'));
+    const sections = Array.from(sidebar.querySelectorAll('.vp-sidebar-section'));
 
-    const applyCategorySidebarFilter = (query: string) => {
-      const normalizedQuery = normalize(query);
-      categoryLinks.forEach((link) => {
+    const apply = (query: string) => {
+      const q = normalize(query);
+      links.forEach((link) => {
         const label = normalize(link.textContent || '');
-        const visible = normalizedQuery === '' || label.includes(normalizedQuery);
+        const visible = q === '' || label.includes(q);
         link.classList.toggle('vp-sidebar-search-hidden', !visible);
+      });
+      sections.forEach((section) => {
+        const hasVisible = Array.from(section.querySelectorAll('.vp-sidebar-item-link'))
+          .some((l) => !l.classList.contains('vp-sidebar-search-hidden'));
+        section.classList.toggle('vp-sidebar-search-hidden', !hasVisible);
       });
     };
 
-    categorySearchInput.addEventListener('input', () => {
-      applyCategorySidebarFilter(categorySearchInput.value);
-    });
-  }
+    input.addEventListener('input', () => apply(input.value));
+  };
+
+  wireSidebarSearch('categorySidebarSearch');
+  wireSidebarSearch('postsSidebarSearch');
 </script>

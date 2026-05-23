@@ -4,8 +4,8 @@
  */
 
 import { OS_COMPAT_CONFIG } from './config';
-import * as state from './os-compat-state';
-import * as table from './os-compat-table';
+import * as state from './state';
+import * as table from './table';
 
 /**
  * Setup all interactions

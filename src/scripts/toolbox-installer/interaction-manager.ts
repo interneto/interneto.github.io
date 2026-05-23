@@ -3,14 +3,14 @@
  * Handles user interactions: OS selection, button toggles, copy, command generation
  */
 
-import { CLASS_NAMES, EVENT_NAMES } from './config';
+import { CLASS_NAMES, EVENT_NAMES } from '../shared/dom-constants';
 import {
     getActiveOS,
     getActiveDistro,
     getElement,
     updateActiveButton,
     getSelectedPackageIds,
-} from './dom-utils';
+} from '../shared/dom-utils';
 import {
     updateAllCategoryCheckboxes,
     updateSelectAllState,

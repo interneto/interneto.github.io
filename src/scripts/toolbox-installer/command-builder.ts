@@ -3,7 +3,7 @@
  * Pure logic for building installation commands based on selected packages and distro
  */
 
-import { DISTRO_PREFIXES } from './config';
+import { getDistroPrefixes } from '../shared/data-loader';
 
 export type PackageInfo = {
     name: string;
@@ -89,7 +89,7 @@ export function buildCommand(
  * @returns {string} The command prefix (e.g., 'sudo pacman -S')
  */
 export function getCommandPrefix(distroKey: string): string {
-    return DISTRO_PREFIXES[distroKey] || '';
+    return getDistroPrefixes()[distroKey] || '';
 }
 
 /**
@@ -97,7 +97,7 @@ export function getCommandPrefix(distroKey: string): string {
  * @returns {Array<string>} Array of distro keys
  */
 export function getAvailableDistros() {
-    return Object.keys(DISTRO_PREFIXES);
+    return Object.keys(getDistroPrefixes());
 }
 
 /**
@@ -106,5 +106,5 @@ export function getAvailableDistros() {
  * @returns {boolean} True if valid distro
  */
 export function isValidDistro(distroKey: string): boolean {
-    return distroKey in DISTRO_PREFIXES;
+    return distroKey in getDistroPrefixes();
 }

@@ -1,6 +1,7 @@
 // Theme Manager - Shared dark/light theme management for all pages
 
-import { THEME_CONFIG, EVENT_NAMES } from './config';
+import { THEME_CONFIG } from '../shared/theme-config';
+import { EVENT_NAMES } from '../shared/dom-constants';
 
 let currentTheme: string | null = null;
 let isInitialized = false;

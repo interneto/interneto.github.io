@@ -7,7 +7,11 @@
 // DATA
 // ============================================================================
 
-import { BASE_LIB_CATEGORIES, CATEGORY_ICONS } from './lib-categories';
+import {
+    initConfigData,
+    getLibBaseCategories,
+    getLibCategoryIcons,
+} from '../shared/data-loader';
 
 // CDN base URLs
 const DASHBOARD_ICONS_CDN = 'https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg';
@@ -125,7 +129,7 @@ const LIB_ICON_SLUGS: Record<string, string> = {
 };
 
 function getCategoryIconHtml(catName: string): string {
-    const iconName = CATEGORY_ICONS[catName] ?? 'package';
+    const iconName = getLibCategoryIcons()[catName] ?? 'package';
     return `<img class="category-icon" src="${LUCIDE_CDN}/${iconName}.svg" alt="" width="18" height="18" aria-hidden="true">`;
 }
 
@@ -192,7 +196,7 @@ function renderJavaToolSelector() {
 function getOrderedCategories(categories: Record<string, LibEntry[]>): Array<[string, LibEntry[]]> {
     const entries = Object.entries(categories);
     const baseOrder: Record<string, number> = {};
-    BASE_LIB_CATEGORIES.forEach((name, index) => {
+    getLibBaseCategories().forEach((name, index) => {
         baseOrder[name] = index;
     });
 
@@ -510,6 +514,7 @@ function setupJavaToolButtons() {
 // ============================================================================
 
 document.addEventListener('DOMContentLoaded', async () => {
+    await initConfigData();
     const base = import.meta.env.BASE_URL.replace(/\/?$/, '/');
     const res = await fetch(`${base}pkgs/lib-pkgs.json`);
     LANG_DATA = await res.json();

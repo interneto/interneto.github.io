@@ -3,7 +3,7 @@
  * Shows equivalent libraries across languages by category.
  */
 
-import { BASE_LIB_CATEGORIES } from './lib-categories';
+import { initConfigData, getLibBaseCategories } from '../shared/data-loader';
 
 // ============================================================================
 // DATA
@@ -11,7 +11,8 @@ import { BASE_LIB_CATEGORIES } from './lib-categories';
 
 const LANGUAGES = ['JavaScript', 'Python', 'Java', 'C#', 'Go', 'Rust', 'PHP'];
 
-const CATEGORIES = [...BASE_LIB_CATEGORIES];
+// Populated from JSON inside initLibCompat()
+let CATEGORIES: string[] = [];
 
 type CompatType = 'included' | 'external';
 
@@ -378,7 +379,9 @@ function setupVisibilityFilter() {
 // INIT
 // ============================================================================
 
-export function initLibCompat() {
+export async function initLibCompat() {
+    await initConfigData();
+    CATEGORIES = [...getLibBaseCategories()];
     buildTable();
     setupSearch();
     setupVisibilityFilter();

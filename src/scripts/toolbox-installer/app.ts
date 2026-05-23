@@ -3,6 +3,7 @@
  * Entry point for initializing all modules and functionality
  */
 
+import { initConfigData } from '../shared/data-loader';
 import { loadPackages } from './data-manager';
 import { generatePackages } from './ui-builder';
 import {
@@ -28,6 +29,7 @@ import {
  */
 async function initializeApp() {
     try {
+        await initConfigData();
         const packagesData = await loadPackages();
         
         generatePackages(packagesData);
