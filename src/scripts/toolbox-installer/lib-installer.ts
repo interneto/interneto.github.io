@@ -13,6 +13,22 @@ import {
     getLibCategoryIcons,
     getLibIcons,
 } from '../shared/data-loader';
+import { PATHS } from '../shared/paths';
+
+const LIB_LOCAL_BASE = `${PATHS.BASE}img/software/lib/`;
+
+// For a given slug, try the local copy first, then the remote CDN, then the lucide fallback.
+// We do this with chained onerror handlers so non-existent locals fall through silently.
+function buildIconSrcChain(slug: string | undefined, fallbackIcon: string): { src: string; onerror: string } {
+    const { cdn } = getLibIcons();
+    const lucideFallback = `${cdn.lucide}/${fallbackIcon}.svg`;
+    if (!slug) return { src: lucideFallback, onerror: '' };
+    const local = `${LIB_LOCAL_BASE}${slug}.svg`;
+    const remote = `${cdn.dashboardIcons}/${slug}.svg`;
+    // local 404 → try remote; remote 404 → fall back to lucide package
+    const onerror = `this.onerror=function(){this.onerror=null;this.src='${lucideFallback}';};this.src='${remote}';`;
+    return { src: local, onerror };
+}
 
 function getCategoryIconHtml(catName: string): string {
     const { cdn } = getLibIcons();
@@ -21,18 +37,23 @@ function getCategoryIconHtml(catName: string): string {
 }
 
 function getLangIconHtml(langKey: string): string {
-    const { cdn, languages } = getLibIcons();
+    const { languages } = getLibIcons();
     const entry = languages[langKey];
-    const src = entry?.url ?? (entry?.slug ? `${cdn.dashboardIcons}/${entry.slug}.svg` : `${cdn.lucide}/code.svg`);
-    return `<img class="lang-icon" src="${src}" alt="" width="16" height="16" aria-hidden="true">`;
+    if (entry?.url) {
+        return `<img class="lang-icon" src="${entry.url}" alt="" width="16" height="16" aria-hidden="true">`;
+    }
+    const { src, onerror } = buildIconSrcChain(entry?.slug, 'code');
+    const onerrorAttr = onerror ? ` onerror="${onerror}"` : '';
+    return `<img class="lang-icon" src="${src}" alt="" width="16" height="16" aria-hidden="true"${onerrorAttr}>`;
 }
 
 function getLibIconHtml(libName: string): string {
-    const { cdn, libraries } = getLibIcons();
+    const { libraries } = getLibIcons();
     const key = libName.toLowerCase().replace(/[^a-z0-9]/g, '');
     const slug = libraries[key] ?? libraries[key.split(/[-_]/)[0]];
-    const src = slug ? `${cdn.dashboardIcons}/${slug}.svg` : `${cdn.lucide}/package.svg`;
-    return `<img class="lib-icon" src="${src}" alt="" width="16" height="16" aria-hidden="true" onerror="this.src='${cdn.lucide}/package.svg'">`;
+    const { src, onerror } = buildIconSrcChain(slug, 'package');
+    const onerrorAttr = onerror ? ` onerror="${onerror}"` : '';
+    return `<img class="lib-icon" src="${src}" alt="" width="16" height="16" aria-hidden="true"${onerrorAttr}>`;
 }
 
 type LibEntry = { name: string; display?: string; badges: string[]; internal?: boolean };
