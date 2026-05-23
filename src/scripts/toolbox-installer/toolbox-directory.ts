@@ -134,12 +134,6 @@ function buildEntriesFromLegacy(
     });
 }
 
-function getTagBadges(tags: Tag[]): string {
-    return tags
-        .map((tag) => `<span class="tag-badge tag-${tag}">#${tag}</span>`)
-        .join('');
-}
-
 function renderRows(entries: DirectoryEntry[]): void {
     if (!tableBody) return;
 
@@ -199,12 +193,8 @@ function renderRows(entries: DirectoryEntry[]): void {
         const iconsCell = document.createElement('td');
         iconsCell.innerHTML = `<div class="directory-icon-list">${iconsMarkup}</div>`;
 
-        const tagsCell = document.createElement('td');
-        tagsCell.innerHTML = `<div class="directory-tags">${getTagBadges(uniqueTags)}</div>`;
-
         row.appendChild(categoryCell);
         row.appendChild(iconsCell);
-        row.appendChild(tagsCell);
         tableBody.appendChild(row);
         });
 }
@@ -303,7 +293,7 @@ async function init(): Promise<void> {
         applyFilters(entries);
     } catch (error) {
         console.error('Failed to initialize toolbox directory:', error);
-        tableBody.innerHTML = '<tr><td colspan="3">Could not load unified directory data.</td></tr>';
+        tableBody.innerHTML = '<tr><td colspan="2">Could not load unified directory data.</td></tr>';
     }
 }
 

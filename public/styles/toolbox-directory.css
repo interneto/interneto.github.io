@@ -11,18 +11,13 @@
 
 .toolbox-directory-table th:nth-child(1),
 .toolbox-directory-table td:nth-child(1) {
-  width: 22%;
-  min-width: 12.5rem;
+  width: 12%;
+  min-width: 8rem;
 }
 
 .toolbox-directory-table th:nth-child(2),
 .toolbox-directory-table td:nth-child(2) {
-  width: 50%;
-}
-
-.toolbox-directory-table th:nth-child(3),
-.toolbox-directory-table td:nth-child(3) {
-  width: 28%;
+  width: 88%;
 }
 
 .toolbox-directory-table td {
@@ -128,11 +123,39 @@
   color: color-mix(in srgb, #8250df 78%, var(--text-primary));
 }
 
+.tag-filter-chips .filter-chip {
+  --chip-color: var(--primary-color);
+  border-color: color-mix(in srgb, var(--chip-color) 55%, var(--border-color));
+  background: linear-gradient(180deg,
+    color-mix(in srgb, var(--card-background) 86%, var(--chip-color) 14%),
+    color-mix(in srgb, var(--card-background) 94%, var(--chip-color) 6%));
+  color: color-mix(in srgb, var(--chip-color) 78%, var(--text-primary));
+}
+
+.tag-filter-chips .filter-chip:hover {
+  border-color: var(--chip-color);
+  box-shadow: 0 8px 18px color-mix(in srgb, var(--chip-color) 22%, transparent);
+}
+
+.tag-filter-chips .filter-chip.active {
+  background: linear-gradient(180deg,
+    color-mix(in srgb, var(--chip-color) 92%, #ffffff 8%),
+    var(--chip-color));
+  color: #ffffff;
+  border-color: var(--chip-color);
+  box-shadow: 0 10px 20px color-mix(in srgb, var(--chip-color) 32%, transparent);
+}
+
+.tag-chip-desktop { --chip-color: #1f6feb; }
+.tag-chip-mobile  { --chip-color: #2da44e; }
+.tag-chip-web     { --chip-color: #f29423; }
+.tag-chip-lib     { --chip-color: #8250df; }
+
 @media (max-width: 47.99rem) {
   .toolbox-directory-table th:nth-child(1),
   .toolbox-directory-table td:nth-child(1) {
-    width: 30%;
-    min-width: 8.75rem;
+    width: 22%;
+    min-width: 6.5rem;
   }
 
   .directory-icon {

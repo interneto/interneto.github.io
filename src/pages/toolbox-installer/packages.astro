@@ -13,12 +13,12 @@ const BASE = import.meta.env.BASE_URL.replace(/\/?$/, '/');
   extraStyles={['styles/toolbox-directory.css']}
   pageNote="One shared JSON source powers the full directory, with multi-tag entries across desktop, mobile, web, and library surfaces."
 >
-  <div slot="controls" class="page-filter-row filter-chips" role="group" aria-label="Filter packages by tag">
-    <button type="button" class="filter-chip active" data-tag="all" aria-pressed="true">All</button>
-    <button type="button" class="filter-chip" data-tag="desktop" aria-pressed="false">#desktop</button>
-    <button type="button" class="filter-chip" data-tag="mobile" aria-pressed="false">#mobile</button>
-    <button type="button" class="filter-chip" data-tag="web" aria-pressed="false">#web</button>
-    <button type="button" class="filter-chip" data-tag="lib" aria-pressed="false">#lib</button>
+  <div slot="controls" class="page-filter-row filter-chips tag-filter-chips" role="group" aria-label="Filter packages by tag">
+    <button type="button" class="filter-chip tag-chip-all active" data-tag="all" aria-pressed="true">All</button>
+    <button type="button" class="filter-chip tag-chip-desktop" data-tag="desktop" aria-pressed="false">#desktop</button>
+    <button type="button" class="filter-chip tag-chip-mobile" data-tag="mobile" aria-pressed="false">#mobile</button>
+    <button type="button" class="filter-chip tag-chip-web" data-tag="web" aria-pressed="false">#web</button>
+    <button type="button" class="filter-chip tag-chip-lib" data-tag="lib" aria-pressed="false">#lib</button>
   </div>
 
   <div class="table-container">
@@ -27,7 +27,6 @@ const BASE = import.meta.env.BASE_URL.replace(/\/?$/, '/');
         <tr>
           <th>Category</th>
           <th>Icon + Name</th>
-          <th>Tags</th>
         </tr>
       </thead>
       <tbody></tbody>
