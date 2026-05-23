@@ -144,6 +144,24 @@
         "windows_winget": "Apache.Httpd"
       }
     },
+    "apache-netbeans": {
+      "name": "Apache NetBeans",
+      "category": "Development",
+      "subcategory": "IDE",
+      "package_manager": {
+        "linux_arch_aur": null,
+        "linux_arch_pacman": null,
+        "linux_debian_apt": null,
+        "linux_fedora_rpm": null,
+        "linux_gentoo_emerge": null,
+        "linux_flatpak": "org.apache.netbeans",
+        "linux_snap": "netbeans",
+        "freebsd_pkg": null,
+        "macos_brew": "netbeans",
+        "unix_nix_env": null,
+        "windows_winget": "Apache.NetBeans"
+      }
+    },
     "ardour": {
       "name": "Ardour",
       "category": "Audio",
@@ -216,6 +234,24 @@
         "windows_winget": "AudioRelay.AudioRelay"
       }
     },
+    "autocad": {
+      "name": "AutoCAD",
+      "category": "Image",
+      "subcategory": "3D Modeling",
+      "package_manager": {
+        "linux_arch_aur": null,
+        "linux_arch_pacman": null,
+        "linux_debian_apt": null,
+        "linux_fedora_rpm": null,
+        "linux_gentoo_emerge": null,
+        "linux_flatpak": null,
+        "linux_snap": null,
+        "freebsd_pkg": null,
+        "macos_brew": null,
+        "unix_nix_env": null,
+        "windows_winget": "Autodesk.AutoCAD"
+      }
+    },
     "balabolka": {
       "name": "Balabolka",
       "category": "Audio",
@@ -286,6 +322,24 @@
         "macos_brew": "bitwig-studio",
         "unix_nix_env": "nixos.bitwig-studio",
         "windows_winget": "bitwig.bitwig"
+      }
+    },
+    "bleachbit": {
+      "name": "BleachBit",
+      "category": "System",
+      "subcategory": "System Cleaner",
+      "package_manager": {
+        "linux_arch_aur": null,
+        "linux_arch_pacman": "bleachbit",
+        "linux_debian_apt": "bleachbit",
+        "linux_fedora_rpm": "bleachbit",
+        "linux_gentoo_emerge": null,
+        "linux_flatpak": "org.bleachbit.BleachBit",
+        "linux_snap": null,
+        "freebsd_pkg": null,
+        "macos_brew": "bleachbit",
+        "unix_nix_env": null,
+        "windows_winget": "BleachBit.BleachBit"
       }
     },
     "blender": {
@@ -1317,6 +1371,24 @@
         "windows_winget": "Gramps.Gramps"
       }
     },
+    "graphite": {
+      "name": "Graphite",
+      "category": "Development",
+      "subcategory": "Version Control",
+      "package_manager": {
+        "linux_arch_aur": null,
+        "linux_arch_pacman": null,
+        "linux_debian_apt": null,
+        "linux_fedora_rpm": null,
+        "linux_gentoo_emerge": null,
+        "linux_flatpak": null,
+        "linux_snap": null,
+        "freebsd_pkg": null,
+        "macos_brew": "withgraphite/tap/graphite",
+        "unix_nix_env": null,
+        "windows_winget": null
+      }
+    },
     "guitar-pro": {
       "name": "Guitar Pro",
       "category": "Audio",
@@ -1533,6 +1605,24 @@
         "windows_winget": "Inkscape.Inkscape"
       }
     },
+    "instaloader": {
+      "name": "Instaloader",
+      "category": "Internet & Communication",
+      "subcategory": "Download Manager",
+      "package_manager": {
+        "linux_arch_aur": "instaloader",
+        "linux_arch_pacman": null,
+        "linux_debian_apt": "instaloader",
+        "linux_fedora_rpm": null,
+        "linux_gentoo_emerge": null,
+        "linux_flatpak": null,
+        "linux_snap": null,
+        "freebsd_pkg": null,
+        "macos_brew": "instaloader",
+        "unix_nix_env": null,
+        "windows_winget": "Instaloader.Instaloader"
+      }
+    },
     "intellij-idea": {
       "name": "IntelliJ IDEA",
       "category": "Development",
@@ -1709,6 +1799,24 @@
         "linux_snap": null,
         "freebsd_pkg": null,
         "macos_brew": "keka",
+        "unix_nix_env": null,
+        "windows_winget": null
+      }
+    },
+    "kitty": {
+      "name": "Kitty",
+      "category": "System",
+      "subcategory": "Terminal Emulator",
+      "package_manager": {
+        "linux_arch_aur": null,
+        "linux_arch_pacman": "kitty",
+        "linux_debian_apt": "kitty",
+        "linux_fedora_rpm": "kitty",
+        "linux_gentoo_emerge": null,
+        "linux_flatpak": null,
+        "linux_snap": null,
+        "freebsd_pkg": null,
+        "macos_brew": "kitty",
         "unix_nix_env": null,
         "windows_winget": null
       }
@@ -2721,12 +2829,48 @@
         "windows_winget": null
       }
     },
+    "phpmyadmin": {
+      "name": "phpMyAdmin",
+      "category": "Development",
+      "subcategory": "Database Admin",
+      "package_manager": {
+        "linux_arch_aur": null,
+        "linux_arch_pacman": "phpmyadmin",
+        "linux_debian_apt": "phpmyadmin",
+        "linux_fedora_rpm": "phpMyAdmin",
+        "linux_gentoo_emerge": null,
+        "linux_flatpak": null,
+        "linux_snap": null,
+        "freebsd_pkg": null,
+        "macos_brew": "phpmyadmin",
+        "unix_nix_env": null,
+        "windows_winget": null
+      }
+    },
     "pi-hole": {
       "name": "Pi-hole",
       "category": "Internet & Communication",
       "subcategory": "DNS Server",
       "package_manager": {
         "linux_arch_aur": "pi-hole-core",
+        "linux_arch_pacman": null,
+        "linux_debian_apt": null,
+        "linux_fedora_rpm": null,
+        "linux_gentoo_emerge": null,
+        "linux_flatpak": null,
+        "linux_snap": null,
+        "freebsd_pkg": null,
+        "macos_brew": null,
+        "unix_nix_env": null,
+        "windows_winget": null
+      }
+    },
+    "pihole": {
+      "name": "Pi-hole",
+      "category": "Internet & Communication",
+      "subcategory": "Ad Blocker",
+      "package_manager": {
+        "linux_arch_aur": "pi-hole-server",
         "linux_arch_pacman": null,
         "linux_debian_apt": null,
         "linux_fedora_rpm": null,
@@ -2793,6 +2937,24 @@
         "windows_winget": "PostgreSQL.PostgreSQL"
       }
     },
+    "postman": {
+      "name": "Postman",
+      "category": "Development",
+      "subcategory": "API Client",
+      "package_manager": {
+        "linux_arch_aur": null,
+        "linux_arch_pacman": null,
+        "linux_debian_apt": null,
+        "linux_fedora_rpm": null,
+        "linux_gentoo_emerge": null,
+        "linux_flatpak": "com.getpostman.Postman",
+        "linux_snap": "postman",
+        "freebsd_pkg": null,
+        "macos_brew": "postman",
+        "unix_nix_env": null,
+        "windows_winget": "Postman.Postman"
+      }
+    },
     "ppsspp": {
       "name": "PPSSPP",
       "category": "Gaming",
@@ -2809,6 +2971,24 @@
         "macos_brew": "ppsspp",
         "unix_nix_env": "ppsspp",
         "windows_winget": "HenrikRydgard.PPSSPP"
+      }
+    },
+    "proton": {
+      "name": "Proton VPN",
+      "category": "Internet & Communication",
+      "subcategory": "VPN",
+      "package_manager": {
+        "linux_arch_aur": null,
+        "linux_arch_pacman": null,
+        "linux_debian_apt": null,
+        "linux_fedora_rpm": null,
+        "linux_gentoo_emerge": null,
+        "linux_flatpak": "com.protonvpn.www",
+        "linux_snap": null,
+        "freebsd_pkg": null,
+        "macos_brew": "protonvpn",
+        "unix_nix_env": null,
+        "windows_winget": "Proton.ProtonVPN"
       }
     },
     "proton-qt": {
@@ -2953,6 +3133,24 @@
         "macos_brew": "qgis",
         "unix_nix_env": "nixos.qgis",
         "windows_winget": "OSGeo.QGIS"
+      }
+    },
+    "qt": {
+      "name": "Qt Creator",
+      "category": "Development",
+      "subcategory": "IDE",
+      "package_manager": {
+        "linux_arch_aur": null,
+        "linux_arch_pacman": "qtcreator",
+        "linux_debian_apt": "qtcreator",
+        "linux_fedora_rpm": "qt-creator",
+        "linux_gentoo_emerge": null,
+        "linux_flatpak": null,
+        "linux_snap": null,
+        "freebsd_pkg": null,
+        "macos_brew": "qt-creator",
+        "unix_nix_env": null,
+        "windows_winget": "TheQtCompany.QtCreator"
       }
     },
     "raindrop-io": {
@@ -3261,6 +3459,24 @@
         "windows_winget": null
       }
     },
+    "shutter": {
+      "name": "Shutter",
+      "category": "Utility",
+      "subcategory": "Screenshot",
+      "package_manager": {
+        "linux_arch_aur": "shutter",
+        "linux_arch_pacman": null,
+        "linux_debian_apt": "shutter",
+        "linux_fedora_rpm": "shutter",
+        "linux_gentoo_emerge": null,
+        "linux_flatpak": null,
+        "linux_snap": null,
+        "freebsd_pkg": null,
+        "macos_brew": null,
+        "unix_nix_env": null,
+        "windows_winget": "PaulPacifico.ShutterEncoder"
+      }
+    },
     "shutter-encoder": {
       "name": "Shutter Encoder",
       "category": "Video",
@@ -3295,6 +3511,42 @@
         "macos_brew": "signal",
         "unix_nix_env": "nixos.signal-desktop",
         "windows_winget": "OpenWhisperSystems.Signal"
+      }
+    },
+    "simplex-chat": {
+      "name": "SimpleX Chat",
+      "category": "Internet & Communication",
+      "subcategory": "Messaging",
+      "package_manager": {
+        "linux_arch_aur": null,
+        "linux_arch_pacman": null,
+        "linux_debian_apt": null,
+        "linux_fedora_rpm": null,
+        "linux_gentoo_emerge": null,
+        "linux_flatpak": "chat.simplex.simplex",
+        "linux_snap": null,
+        "freebsd_pkg": null,
+        "macos_brew": "simplex",
+        "unix_nix_env": null,
+        "windows_winget": "SimpleXChat.SimpleX"
+      }
+    },
+    "sketchup": {
+      "name": "SketchUp",
+      "category": "Image",
+      "subcategory": "3D Modeling",
+      "package_manager": {
+        "linux_arch_aur": null,
+        "linux_arch_pacman": null,
+        "linux_debian_apt": null,
+        "linux_fedora_rpm": null,
+        "linux_gentoo_emerge": null,
+        "linux_flatpak": null,
+        "linux_snap": null,
+        "freebsd_pkg": null,
+        "macos_brew": null,
+        "unix_nix_env": null,
+        "windows_winget": "Trimble.SketchUp"
       }
     },
     "speech-note": {
@@ -3891,6 +4143,24 @@
         "windows_winget": "Oracle.VirtualBox"
       }
     },
+    "visual-studio": {
+      "name": "Visual Studio",
+      "category": "Development",
+      "subcategory": "IDE",
+      "package_manager": {
+        "linux_arch_aur": null,
+        "linux_arch_pacman": null,
+        "linux_debian_apt": null,
+        "linux_fedora_rpm": null,
+        "linux_gentoo_emerge": null,
+        "linux_flatpak": null,
+        "linux_snap": null,
+        "freebsd_pkg": null,
+        "macos_brew": "visual-studio",
+        "unix_nix_env": null,
+        "windows_winget": "Microsoft.VisualStudio.2022.Community"
+      }
+    },
     "visual-studio-code": {
       "name": "Visual-Studio-Code",
       "category": "Development",
@@ -3943,6 +4213,24 @@
         "macos_brew": "vlc",
         "unix_nix_env": "nixos.vlc",
         "windows_winget": "VideoLAN.VLC"
+      }
+    },
+    "vmm": {
+      "name": "Virtual Machine Manager",
+      "category": "Virtualization",
+      "subcategory": "Virtual Machine Manager",
+      "package_manager": {
+        "linux_arch_aur": null,
+        "linux_arch_pacman": "virt-manager",
+        "linux_debian_apt": "virt-manager",
+        "linux_fedora_rpm": "virt-manager",
+        "linux_gentoo_emerge": null,
+        "linux_flatpak": null,
+        "linux_snap": null,
+        "freebsd_pkg": null,
+        "macos_brew": null,
+        "unix_nix_env": null,
+        "windows_winget": null
       }
     },
     "vmware": {
@@ -4212,6 +4500,24 @@
         "freebsd_pkg": "yt-dlp",
         "macos_brew": "yt-dl",
         "unix_nix_env": "yt-nixos.yt-dlp",
+        "windows_winget": "yt-dlp.yt-dlp"
+      }
+    },
+    "ytdl": {
+      "name": "yt-dlp",
+      "category": "Internet & Communication",
+      "subcategory": "Download Manager",
+      "package_manager": {
+        "linux_arch_aur": null,
+        "linux_arch_pacman": "yt-dlp",
+        "linux_debian_apt": "yt-dlp",
+        "linux_fedora_rpm": "yt-dlp",
+        "linux_gentoo_emerge": null,
+        "linux_flatpak": null,
+        "linux_snap": null,
+        "freebsd_pkg": null,
+        "macos_brew": "yt-dlp",
+        "unix_nix_env": null,
         "windows_winget": "yt-dlp.yt-dlp"
       }
     },

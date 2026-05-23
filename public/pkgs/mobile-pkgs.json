@@ -95,7 +95,7 @@
       "category": "Office",
       "subcategory": "Government",
       "package_manager": {
-        "android_pkg": "",
+        "android_pkg": "es.aeat.pin24h",
         "ios_pkg": ""
       }
     },
@@ -105,7 +105,7 @@
       "subcategory": "Security",
       "package_manager": {
         "android_pkg": "com.cloudflare.onedotonedotonedotone",
-        "ios_pkg": ""
+        "ios_pkg": "cl-ve/id842624380"
       }
     },
     "comaps": {
@@ -113,8 +113,8 @@
       "category": "Internet & Communication",
       "subcategory": "Maps",
       "package_manager": {
-        "android_pkg": "",
-        "ios_pkg": ""
+        "android_pkg": "app.comaps.google",
+        "ios_pkg": "comaps/id6747180809"
       }
     },
     "cpu-info": {
@@ -277,6 +277,15 @@
       "package_manager": {
         "android_pkg": "com.vecturagames.android.app.gpxviewer",
         "ios_pkg": ""
+      }
+    },
+    "guitar-tuner": {
+      "name": "Guitar Tuna",
+      "category": "Audio",
+      "subcategory": "Music Tools",
+      "package_manager": {
+        "android_pkg": "com.sonkins.tguitar",
+        "ios_pkg": "guitar-tuner-liketones/id6449972752"
       }
     },
     "guitartuna": {

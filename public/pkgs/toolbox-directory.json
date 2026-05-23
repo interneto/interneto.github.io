@@ -10,9 +10,9 @@
             "icon": "/img/apps/discord.svg",
             "link": "https://discord.com/",
             "tags": [
-                "web",
                 "desktop",
-                "mobile"
+                "mobile",
+                "web"
             ]
         },
         {
@@ -21,9 +21,9 @@
             "icon": "/img/apps/telegram.svg",
             "link": "https://telegram.org/",
             "tags": [
-                "web",
                 "desktop",
-                "mobile"
+                "mobile",
+                "web"
             ]
         },
         {
@@ -32,9 +32,9 @@
             "icon": "/img/apps/no.svg",
             "link": "https://slack.com/",
             "tags": [
-                "web",
                 "desktop",
-                "mobile"
+                "mobile",
+                "web"
             ]
         },
         {
@@ -43,20 +43,20 @@
             "icon": "/img/apps/figma.svg",
             "link": "https://www.figma.com/",
             "tags": [
-                "web",
                 "desktop",
-                "mobile"
+                "mobile",
+                "web"
             ]
         },
         {
             "category": "Design",
             "name": "Canva",
-            "icon": "/img/apps/no.svg",
+            "icon": "/img/apps/canva.svg",
             "link": "https://www.canva.com/",
             "tags": [
-                "web",
                 "desktop",
-                "mobile"
+                "mobile",
+                "web"
             ]
         },
         {
@@ -65,9 +65,9 @@
             "icon": "/img/apps/github.svg",
             "link": "https://github.com/",
             "tags": [
-                "web",
                 "desktop",
-                "mobile"
+                "mobile",
+                "web"
             ]
         },
         {
@@ -85,18 +85,18 @@
             "icon": "/img/apps/docker.svg",
             "link": "https://www.docker.com/",
             "tags": [
-                "web",
-                "desktop"
+                "desktop",
+                "web"
             ]
         },
         {
             "category": "Development",
             "name": "Postman",
-            "icon": "/img/apps/no.svg",
+            "icon": "/img/apps/postman.svg",
             "link": "https://www.postman.com/",
             "tags": [
-                "web",
-                "desktop"
+                "desktop",
+                "web"
             ]
         },
         {
@@ -114,8 +114,8 @@
             "icon": "/img/apps/wikipedia.svg",
             "link": "https://www.wikipedia.org/",
             "tags": [
-                "web",
-                "mobile"
+                "mobile",
+                "web"
             ]
         },
         {
@@ -169,9 +169,9 @@
             "icon": "/img/apps/youtube.svg",
             "link": "https://www.youtube.com/",
             "tags": [
-                "web",
                 "desktop",
-                "mobile"
+                "mobile",
+                "web"
             ]
         },
         {
@@ -180,9 +180,9 @@
             "icon": "/img/apps/spotify.svg",
             "link": "https://open.spotify.com/",
             "tags": [
-                "web",
                 "desktop",
-                "mobile"
+                "mobile",
+                "web"
             ]
         },
         {
@@ -191,9 +191,9 @@
             "icon": "/img/apps/notion.svg",
             "link": "https://www.notion.so/",
             "tags": [
-                "web",
                 "desktop",
-                "mobile"
+                "mobile",
+                "web"
             ]
         },
         {
@@ -212,8 +212,8 @@
             "icon": "/img/apps/reddit.svg",
             "link": "https://www.reddit.com/",
             "tags": [
-                "web",
-                "mobile"
+                "mobile",
+                "web"
             ]
         },
         {
@@ -222,8 +222,8 @@
             "icon": "/img/apps/windy.svg",
             "link": "https://www.windy.com/",
             "tags": [
-                "web",
-                "mobile"
+                "mobile",
+                "web"
             ]
         },
         {
@@ -295,8 +295,8 @@
             "icon": "/img/apps/no.svg",
             "link": "https://www.goodreads.com/",
             "tags": [
-                "web",
-                "mobile"
+                "mobile",
+                "web"
             ]
         },
         {
@@ -305,8 +305,8 @@
             "icon": "/img/apps/imdb.svg",
             "link": "https://www.imdb.com/",
             "tags": [
-                "web",
-                "mobile"
+                "mobile",
+                "web"
             ]
         },
         {
@@ -324,8 +324,8 @@
             "icon": "/img/apps/trakt.svg",
             "link": "https://app.trakt.tv/",
             "tags": [
-                "web",
-                "mobile"
+                "mobile",
+                "web"
             ]
         },
         {
@@ -433,8 +433,8 @@
             "icon": "/img/apps/chatgpt.svg",
             "link": "https://chatgpt.com/",
             "tags": [
-                "web",
-                "mobile"
+                "mobile",
+                "web"
             ]
         },
         {
@@ -524,8 +524,8 @@
             "icon": "/img/apps/pencil.svg",
             "link": "https://www.pencil.dev/",
             "tags": [
-                "web",
-                "desktop"
+                "desktop",
+                "web"
             ]
         },
         {
@@ -543,8 +543,8 @@
             "icon": "/img/apps/linkedin.svg",
             "link": "https://www.linkedin.com/",
             "tags": [
-                "web",
-                "mobile"
+                "mobile",
+                "web"
             ]
         },
         {
@@ -553,8 +553,8 @@
             "icon": "/img/apps/mastodon.svg",
             "link": "https://mastodon.social/explore",
             "tags": [
-                "web",
-                "mobile"
+                "mobile",
+                "web"
             ]
         },
         {
@@ -563,8 +563,8 @@
             "icon": "/img/apps/instagram.svg",
             "link": "https://www.instagram.com/",
             "tags": [
-                "web",
-                "mobile"
+                "mobile",
+                "web"
             ]
         },
         {
@@ -573,8 +573,8 @@
             "icon": "/img/apps/tiktok.svg",
             "link": "https://www.tiktok.com/explore",
             "tags": [
-                "web",
-                "mobile"
+                "mobile",
+                "web"
             ]
         },
         {
@@ -592,8 +592,8 @@
             "icon": "/img/apps/alltrails.svg",
             "link": "https://www.alltrails.com/",
             "tags": [
-                "web",
-                "mobile"
+                "mobile",
+                "web"
             ]
         },
         {
@@ -602,8 +602,8 @@
             "icon": "/img/apps/google-maps.svg",
             "link": "https://www.google.com/maps/@0,0,3z?entry=ttu&g_ep=EgoyMDI1MDkyNC4wIKXMDSoASAFQAw%3D%3D",
             "tags": [
-                "web",
-                "mobile"
+                "mobile",
+                "web"
             ]
         },
         {
@@ -630,8 +630,8 @@
             "icon": "/img/apps/wikiloc.svg",
             "link": "https://www.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&page=1",
             "tags": [
-                "web",
-                "mobile"
+                "mobile",
+                "web"
             ]
         },
         {
@@ -640,8 +640,8 @@
             "icon": "/img/apps/crunchyroll.svg",
             "link": "https://www.crunchyroll.com/",
             "tags": [
-                "web",
-                "mobile"
+                "mobile",
+                "web"
             ]
         },
         {
@@ -650,8 +650,8 @@
             "icon": "/img/apps/dazn.svg",
             "link": "https://www.dazn.com/en-ES/home",
             "tags": [
-                "web",
-                "mobile"
+                "mobile",
+                "web"
             ]
         },
         {
@@ -660,8 +660,8 @@
             "icon": "/img/apps/disneyplus.svg",
             "link": "https://www.disneyplus.com/home",
             "tags": [
-                "web",
-                "mobile"
+                "mobile",
+                "web"
             ]
         },
         {
@@ -670,8 +670,8 @@
             "icon": "/img/apps/hbo.svg",
             "link": "https://www.hbomax.com/es/en",
             "tags": [
-                "web",
-                "mobile"
+                "mobile",
+                "web"
             ]
         },
         {
@@ -680,8 +680,8 @@
             "icon": "/img/apps/netflix.svg",
             "link": "https://www.netflix.com/es-en/",
             "tags": [
-                "web",
-                "mobile"
+                "mobile",
+                "web"
             ]
         },
         {
@@ -690,8 +690,8 @@
             "icon": "/img/apps/movistar-plus.svg",
             "link": "https://www.movistarplus.es/",
             "tags": [
-                "web",
-                "mobile"
+                "mobile",
+                "web"
             ]
         },
         {
@@ -700,8 +700,8 @@
             "icon": "/img/apps/prime-video.svg",
             "link": "https://www.primevideo.com/offers/nonprimehomepage",
             "tags": [
-                "web",
-                "mobile"
+                "mobile",
+                "web"
             ]
         },
         {
@@ -710,6 +710,8 @@
             "icon": "/img/apps/plex.svg",
             "link": "https://app.plex.tv/desktop/#!/",
             "tags": [
+                "desktop",
+                "mobile",
                 "web"
             ]
         },
@@ -719,8 +721,8 @@
             "icon": "/img/apps/pluto-tv.svg",
             "link": "https://pluto.tv/es/live-tv/5f984f4a09e92d0007d74647?lang=en",
             "tags": [
-                "web",
-                "mobile"
+                "mobile",
+                "web"
             ]
         },
         {
@@ -783,8 +785,8 @@
             "icon": "/img/apps/twitch.svg",
             "link": "https://www.twitch.tv/",
             "tags": [
-                "web",
-                "mobile"
+                "mobile",
+                "web"
             ]
         },
         {
