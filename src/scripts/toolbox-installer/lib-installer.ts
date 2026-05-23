@@ -134,7 +134,8 @@ function renderCategories() {
         if (visibleLibs.length === 0) continue;
 
         const column = document.createElement('div');
-        column.className = 'column';
+        // CSS lives under .category.collapsed in generator.css — both classes required.
+        column.className = 'column category';
 
         const header = document.createElement('div');
         header.className = 'category-header';

@@ -3169,12 +3169,6 @@
         },
         {
             "category": "Streaming",
-            "name": "PIRLO TV",
-            "link": "https://pirlotvdh.pl/",
-            "tags": []
-        },
-        {
-            "category": "Streaming",
             "name": "Plex TV",
             "icon": "plex-tv.ico",
             "link": "https://watch.plex.tv/",

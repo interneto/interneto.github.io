@@ -4,12 +4,6 @@ import ToolboxResultsContainer from '../../components/ToolboxResultsContainer.as
 const options = [
   { value: 'exportPackages', label: '📤 Export Extensions (JSON)' },
 ];
-
-const browserSelectionOptions = [
-  { value: 'both', label: '🌐 Both browsers' },
-  { value: 'firefox', label: '🦊 Firefox' },
-  { value: 'chromium', label: '🔵 Chromium' },
-];
 ---
 <ToolboxInstallerSection
   title="Browser Extensions Installer"
@@ -18,8 +12,15 @@ const browserSelectionOptions = [
   searchPlaceholder="Search by extension name"
   options={options}
   showFileInput={false}
-  browserSelectionOptions={browserSelectionOptions}
 >
+  <div slot="selectors" class="os-selector-container">
+    <div class="primary-os-selector">
+      <button type="button" class="os-btn active" data-browser="both">🌐 Both browsers</button>
+      <button type="button" class="os-btn" data-browser="firefox">🦊 Firefox</button>
+      <button type="button" class="os-btn" data-browser="chromium">🔵 Chromium</button>
+    </div>
+  </div>
+
   <ToolboxResultsContainer slot="content" id="browserExtensionsCategories" />
 
 </ToolboxInstallerSection>

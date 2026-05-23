@@ -658,14 +658,17 @@ function renderBrowserExtensionsGenerator(items: BrowserExtension[]): void {
     const selectAllLabel = document.getElementById('selectAllLabel');
     const toggleAllBtn = document.getElementById('toggleAllBtn');
     const toggleAllLabel = document.getElementById('toggleAllLabel');
+    // Browser picker can be either a <select id="browserSelect"> (legacy) or a row of
+    // <button data-browser="..."> (current Browser Extensions page, mirroring the OS picker).
     const browserSelect = document.getElementById('browserSelect') as HTMLSelectElement | null;
+    const browserButtons = Array.from(document.querySelectorAll<HTMLButtonElement>('button[data-browser]'));
     const optionsSelect = document.getElementById('optionsSelect') as HTMLSelectElement | null;
     const searchInput = document.getElementById('searchInput') as HTMLInputElement | null;
     const copyBtn = document.getElementById('copyCommandBtn');
 
     if (
         !container || !commandTarget || !selectAll || !selectAllLabel
-        || !toggleAllBtn || !toggleAllLabel || !browserSelect
+        || !toggleAllBtn || !toggleAllLabel
         || !optionsSelect || !searchInput || !copyBtn
     ) {
         return;
@@ -893,12 +896,23 @@ function renderBrowserExtensionsGenerator(items: BrowserExtension[]): void {
         setAllCategoriesCollapsed(!state.allCollapsed);
     });
 
-    browserSelect.addEventListener('change', () => {
-        state.browser = browserSelect!.value;
+    function setBrowser(value: string) {
+        state.browser = value;
         applyFilters();
         updateLinks();
         updateSelectAllState();
-    });
+    }
+
+    if (browserSelect) {
+        browserSelect.addEventListener('change', () => setBrowser(browserSelect.value));
+    }
+    for (const btn of browserButtons) {
+        btn.addEventListener('click', () => {
+            const value = btn.dataset.browser ?? 'both';
+            for (const other of browserButtons) other.classList.toggle('active', other === btn);
+            setBrowser(value);
+        });
+    }
 
     optionsSelect.addEventListener('change', () => {
         const action = optionsSelect!.value;
