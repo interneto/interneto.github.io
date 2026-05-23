@@ -14,8 +14,8 @@ AI coding is no longer one tool and one model. In 2026, productive workflows com
 The diagram below shows the core components of a modern AI coding system:
 
 <div style="display:flex;flex-wrap: nowrap;gap:16px; justify-content: center;">
-	<img src="/docs-assets/ai-components.svg" alt="AI Components" style="width:450px;max-width:100%;height:auto;flex:0 1 450px;">
-	<img src="/docs-assets/ai-system-architecture.svg" alt="AI System Architecture" style="width:450px;max-width:100%;height:auto;flex:0 1 450px;">
+	<img src="/img/assets/ai-components.svg" alt="AI Components" style="width:450px;max-width:100%;height:auto;flex:0 1 450px;">
+	<img src="/img/assets/ai-system-architecture.svg" alt="AI System Architecture" style="width:450px;max-width:100%;height:auto;flex:0 1 450px;">
 </div>
 
 In practice, AI coding workflows split into three layers:
