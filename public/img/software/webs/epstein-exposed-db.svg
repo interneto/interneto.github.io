@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" role="img" aria-label="Epstein Exposed">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a1220" />
+      <stop offset="100%" stop-color="#111b2e" />
+    </linearGradient>
+    <linearGradient id="ring" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f6d47a" />
+      <stop offset="100%" stop-color="#d4a843" />
+    </linearGradient>
+  </defs>
+  <rect width="180" height="180" rx="40" fill="url(#bg)" />
+  <circle cx="90" cy="90" r="58" fill="none" stroke="url(#ring)" stroke-width="10" />
+  <path d="M62 56h41v12H74v18h25v12H74v18h29v12H62V56Z" fill="#f6d47a" />
+  <path d="M107 111l19 19" fill="none" stroke="#f6d47a" stroke-linecap="round" stroke-width="10" />
+  <circle cx="97" cy="101" r="24" fill="none" stroke="#f6d47a" stroke-width="10" />
+</svg>

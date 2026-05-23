@@ -22,7 +22,7 @@ interface DirectoryConfig {
 }
 
 const BASE = (import.meta.env.BASE_URL || '/').replace(/\/?$/, '/');
-const DEFAULT_ICON = `${BASE}img/apps/no.svg`;
+const DEFAULT_ICON = `${BASE}img/software/apps/no.svg`;
 
 const tableBody = document.querySelector<HTMLTableSectionElement>('#toolboxDirectoryTable tbody');
 const searchInput = document.getElementById('searchInput') as HTMLInputElement | null;
@@ -61,7 +61,7 @@ function faviconFromLink(link: string): string | null {
 }
 
 function isPlaceholderIcon(icon: string): boolean {
-    return !icon || icon.endsWith('/img/apps/no.svg') || icon.endsWith('img/apps/no.svg');
+    return !icon || icon.endsWith('/img/software/apps/no.svg') || icon.endsWith('img/software/apps/no.svg');
 }
 
 async function fetchJson<T>(url: string): Promise<T> {
