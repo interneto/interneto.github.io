@@ -19,6 +19,7 @@
     "d3": "^7.9.0"
   },
   "devDependencies": {
-    "@types/node": "^25.7.0"
+    "@types/node": "^25.7.0",
+    "svgo": "^4.0.1"
   }
 }
