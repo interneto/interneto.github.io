@@ -46,9 +46,9 @@ const slug = (s) => s
     .replace(/[^a-z0-9]+/g, '-')
     .replace(/^-+|-+$/g, '');
 
-const isPlaceholder = (icon) => !icon || icon.endsWith('no.svg');
-const isExternal = (icon) => /^https?:\/\//.test(icon);
-const isLocalCurated = (icon) => icon && icon.startsWith('/img/') && !icon.endsWith('no.svg');
+// In the new schema, entries either have a curated `icon` (bare filename in /img/software/webs/,
+// or an absolute path, or http URL) or no `icon` at all. We process the latter unless --retry.
+const needsDownload = (icon) => !icon;
 
 function fetchWithTimeout(url, init = {}) {
     const ctrl = new AbortController();
@@ -148,8 +148,6 @@ async function downloadIcon(candidate) {
 }
 
 async function processEntry(entry) {
-    // Skip entries that already use a curated local SVG.
-    if (isLocalCurated(entry.icon) && !RETRY_FAILED) return { status: 'skipped-curated' };
     if (!entry.link) return { status: 'no-link' };
 
     let siteUrl;
@@ -175,7 +173,8 @@ async function processEntry(entry) {
         if (!got) continue;
         const outPath = resolve(outDir, `${name}.${got.ext}`);
         writeFileSync(outPath, got.buffer);
-        entry.icon = `/img/software/webs/${name}.${got.ext}`;
+        // Store bare filename — the renderer prefixes /img/software/webs/ automatically.
+        entry.icon = `${name}.${got.ext}`;
         return { status: 'ok', ext: got.ext, from: c.href };
     }
     return { status: 'all-failed' };
@@ -196,7 +195,7 @@ async function runWithConcurrency(items, worker, concurrency) {
 }
 
 const todo = directory.entries.slice(0, LIMIT).filter((e) =>
-    RETRY_FAILED ? true : (isPlaceholder(e.icon) || isExternal(e.icon)),
+    RETRY_FAILED ? true : needsDownload(e.icon),
 );
 
 console.log(`Processing ${todo.length} entries (of ${directory.entries.length} total)...`);

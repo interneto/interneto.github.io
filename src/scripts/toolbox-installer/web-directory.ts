@@ -12,7 +12,10 @@ const VALID_TAGS: readonly Tag[] = ['desktop', 'mobile', 'extension-store'];
 interface DirectoryEntry {
     category: string;
     name: string;
-    icon: string;
+    // Bare filename inside /img/software/webs/ (e.g. "chatgpt.svg"). Optional —
+    // when missing the renderer falls back to the favicon service. Legacy values
+    // (absolute paths or http URLs) are still handled for forward-compat.
+    icon?: string;
     link: string;
     tags: Tag[];
 }
@@ -22,6 +25,7 @@ interface DirectoryConfig {
 }
 
 const BASE = (import.meta.env.BASE_URL || '/').replace(/\/?$/, '/');
+const WEBS_PREFIX = `${BASE}img/software/webs/`;
 const DEFAULT_ICON = `${BASE}img/software/apps/no.svg`;
 
 const tableBody = document.querySelector<HTMLTableSectionElement>('#toolboxDirectoryTable tbody');
@@ -40,10 +44,13 @@ const state = {
     tag: 'all',
 };
 
-function withBase(path: string): string {
-    if (!path) return DEFAULT_ICON;
-    if (path.startsWith('http://') || path.startsWith('https://')) return path;
-    return `${BASE}${path.replace(/^\//, '')}`;
+// Resolve an entry's `icon` field. Bare filenames live in /img/software/webs/.
+// Absolute paths (starting with /) and http(s) URLs are returned as-is, scoped to BASE.
+function resolveIcon(icon: string | undefined): string | null {
+    if (!icon) return null;
+    if (icon.startsWith('http://') || icon.startsWith('https://')) return icon;
+    if (icon.startsWith('/')) return `${BASE}${icon.replace(/^\//, '')}`;
+    return `${WEBS_PREFIX}${icon}`;
 }
 
 function buildSearchLink(name: string): string {
@@ -58,10 +65,6 @@ function faviconFromLink(link: string): string | null {
     } catch {
         return null;
     }
-}
-
-function isPlaceholderIcon(icon: string): boolean {
-    return !icon || icon.endsWith('/img/software/apps/no.svg') || icon.endsWith('img/software/apps/no.svg');
 }
 
 async function fetchJson<T>(url: string): Promise<T> {
@@ -118,9 +121,10 @@ function renderRows(entries: DirectoryEntry[]): void {
                     const linkHref = entry.link || buildSearchLink(entry.name);
                     const safeLink = escapeHtml(linkHref);
                     const favicon = faviconFromLink(linkHref);
-                    const primarySrc = isPlaceholderIcon(entry.icon) && favicon
-                        ? favicon
-                        : withBase(entry.icon);
+                    const resolved = resolveIcon(entry.icon);
+                    // No curated icon → favicon is primary; favicon failing → no.svg.
+                    // Curated icon → it's primary; on error walk: favicon → no.svg.
+                    const primarySrc = resolved ?? favicon ?? DEFAULT_ICON;
                     const safeIcon = escapeHtml(primarySrc);
                     const safeFavicon = favicon ? escapeHtml(favicon) : '';
                     const safeFallback = escapeHtml(DEFAULT_ICON);
