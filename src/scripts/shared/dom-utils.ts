@@ -92,8 +92,8 @@ export function setAriaAttributes(element, attributes) {
  * @param {string} packageId - The package ID
  * @returns {HTMLInputElement|null} The checkbox element or null
  */
-export function getPackageCheckbox(packageId) {
-    return document.getElementById(packageId);
+export function getPackageCheckbox(packageId: string): HTMLInputElement | null {
+    return document.getElementById(packageId) as HTMLInputElement | null;
 }
 
 /**

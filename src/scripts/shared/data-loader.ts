@@ -13,12 +13,31 @@ export interface VscodeExtensionsMeta {
     favorites: string[];
 }
 
+export type LibCompatType = 'included' | 'external';
+export interface LibCompatEntry { name: string; type: LibCompatType; }
+export interface LibCompatTable {
+    languages: string[];
+    table: Record<string, Record<string, LibCompatEntry[]>>;
+}
+
+export interface LibIconsConfig {
+    cdn: { dashboardIcons: string; lucide: string };
+    languages: Record<string, { slug?: string; url?: string }>;
+    libraries: Record<string, string>;
+}
+
 let fossList: string[] = [];
 let categoryEmojis: Record<string, string> = {};
 let distroPrefixes: Record<string, string> = {};
 let windowsNonWinget: WindowsNonWingetEntry[] = [];
 let libCategories: LibCategoriesConfig = { base: [], icons: {} };
 let vscodeExtensionsMeta: VscodeExtensionsMeta = { nonFoss: [], favorites: [] };
+let libCompatTable: LibCompatTable = { languages: [], table: {} };
+let libIcons: LibIconsConfig = {
+    cdn: { dashboardIcons: '', lucide: '' },
+    languages: {},
+    libraries: {},
+};
 
 let initPromise: Promise<void> | null = null;
 
@@ -39,13 +58,17 @@ export function initConfigData(): Promise<void> {
         fetchJson<WindowsNonWingetEntry[]>('windows-non-winget'),
         fetchJson<LibCategoriesConfig>('lib-categories'),
         fetchJson<VscodeExtensionsMeta>('vscode-extensions-meta'),
-    ]).then(([foss, emojis, distros, nonWinget, libs, vscode]) => {
+        fetchJson<LibCompatTable>('lib-compat-table'),
+        fetchJson<LibIconsConfig>('lib-icons'),
+    ]).then(([foss, emojis, distros, nonWinget, libs, vscode, compat, icons]) => {
         fossList = foss;
         categoryEmojis = emojis;
         distroPrefixes = distros;
         windowsNonWinget = nonWinget;
         libCategories = libs;
         vscodeExtensionsMeta = vscode;
+        libCompatTable = compat;
+        libIcons = icons;
     });
     return initPromise;
 }
@@ -58,3 +81,5 @@ export const getLibBaseCategories = (): string[] => libCategories.base;
 export const getLibCategoryIcons = (): Record<string, string> => libCategories.icons;
 export const getVscodeNonFossExtensions = (): string[] => vscodeExtensionsMeta.nonFoss;
 export const getVscodeFavoriteExtensions = (): string[] => vscodeExtensionsMeta.favorites;
+export const getLibCompatTable = (): LibCompatTable => libCompatTable;
+export const getLibIcons = (): LibIconsConfig => libIcons;

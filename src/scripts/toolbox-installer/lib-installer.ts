@@ -11,140 +11,28 @@ import {
     initConfigData,
     getLibBaseCategories,
     getLibCategoryIcons,
+    getLibIcons,
 } from '../shared/data-loader';
 
-// CDN base URLs
-const DASHBOARD_ICONS_CDN = 'https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg';
-const LUCIDE_CDN = 'https://cdn.jsdelivr.net/npm/lucide-static@latest/icons';
-
-// Language icons (Dashboard Icons slugs)
-const LANG_ICONS: Record<string, string> = {
-    javascript: 'javascript',
-    python: 'python',
-    java: 'openjdk',
-    csharp: 'dotnet',
-    go: 'go',
-    rust: 'rust',
-    php: 'php',
-};
-
-const LANG_ICON_URLS: Record<string, string> = {
-    java: `${DASHBOARD_ICONS_CDN}/java.svg`,
-    csharp: `${DASHBOARD_ICONS_CDN}/csharp.svg`,
-};
-
-// Library icons (Dashboard Icons slugs)
-// Keys are display names lowercased with all non-alphanumeric chars removed
-const LIB_ICON_SLUGS: Record<string, string> = {
-    // Frontend — UI Frameworks
-    react: 'react',
-    vue: 'vuedotjs',
-    svelte: 'svelte',
-    angular: 'angular',
-    solidjs: 'solid',
-    preact: 'preact',
-    // Frontend — Meta-Frameworks
-    nextjs: 'nextdotjs',
-    nuxt: 'nuxtdotjs',
-    astro: 'astro',
-    remix: 'remix',
-    sveltekit: 'svelte',
-    vite: 'vite',
-    // Frontend — State
-    reduxtoolkit: 'redux',
-    redux: 'redux',
-    mobx: 'mobx',
-    pinia: 'pinia',
-    // Frontend — Data Fetching
-    tanstackquery: 'reactquery',
-    swr: 'swr',
-    axios: 'axios',
-    apolloclient: 'apollographql',
-    // Frontend — Styling
-    tailwindcss: 'tailwindcss',
-    sass: 'sass',
-    styledcomponents: 'styledcomponents',
-    emotion: 'emotion',
-    unocss: 'unocss',
-    // Frontend — UI Components
-    antdesign: 'antdesign',
-    lucidereact: 'lucide',
-    framermotion: 'framer',
-    // Frontend — Testing
-    testinglibrary: 'testinglibrary',
-    playwright: 'playwright',
-    cypress: 'cypress',
-    vitest: 'vitest',
-    storybook: 'storybook',
-    // Frontend — Build Tools
-    webpack: 'webpack',
-    esbuild: 'esbuild',
-    rollup: 'rollupdotjs',
-    parcel: 'parcel',
-    // JavaScript backend
-    express: 'express',
-    fastify: 'fastify',
-    hono: 'hono',
-    nestjs: 'nestjs',
-    koa: 'koa',
-    prisma: 'prisma',
-    drizzleorm: 'drizzle',
-    typeorm: 'typeorm',
-    sequelize: 'sequelize',
-    mongoose: 'mongoose',
-    jest: 'jest',
-    mocha: 'mocha',
-    winston: 'winston',
-    zod: 'zod',
-    passport: 'passport',
-    jsonwebtoken: 'jsonwebtokens',
-    // Python
-    fastapi: 'fastapi',
-    flask: 'flask',
-    django: 'django',
-    sqlalchemy: 'sqlalchemy',
-    pytest: 'pytest',
-    pydantic: 'pydantic',
-    rich: 'rich',
-    // Java
-    springbootweb: 'spring',
-    spring: 'spring',
-    quarkusresteasy: 'quarkus',
-    quarkus: 'quarkus',
-    hibernateorm: 'hibernate',
-    hibernate: 'hibernate',
-    junit5: 'junit5',
-    // PHP
-    laravel: 'laravel',
-    symfony: 'symfony',
-    guzzle: 'guzzle',
-    // Rust
-    actixweb: 'actix',
-    rocket: 'rocket',
-    // Go
-    gin: 'gin',
-    fiber: 'gofiber',
-    // C#
-    serilog: 'serilog',
-};
-
 function getCategoryIconHtml(catName: string): string {
+    const { cdn } = getLibIcons();
     const iconName = getLibCategoryIcons()[catName] ?? 'package';
-    return `<img class="category-icon" src="${LUCIDE_CDN}/${iconName}.svg" alt="" width="18" height="18" aria-hidden="true">`;
+    return `<img class="category-icon" src="${cdn.lucide}/${iconName}.svg" alt="" width="18" height="18" aria-hidden="true">`;
 }
 
 function getLangIconHtml(langKey: string): string {
-    const directUrl = LANG_ICON_URLS[langKey];
-    const slug = LANG_ICONS[langKey];
-    const src = directUrl ?? (slug ? `${DASHBOARD_ICONS_CDN}/${slug}.svg` : `${LUCIDE_CDN}/code.svg`);
+    const { cdn, languages } = getLibIcons();
+    const entry = languages[langKey];
+    const src = entry?.url ?? (entry?.slug ? `${cdn.dashboardIcons}/${entry.slug}.svg` : `${cdn.lucide}/code.svg`);
     return `<img class="lang-icon" src="${src}" alt="" width="16" height="16" aria-hidden="true">`;
 }
 
 function getLibIconHtml(libName: string): string {
+    const { cdn, libraries } = getLibIcons();
     const key = libName.toLowerCase().replace(/[^a-z0-9]/g, '');
-    const slug = LIB_ICON_SLUGS[key] ?? LIB_ICON_SLUGS[key.split(/[-_]/)[0]];
-    const src = slug ? `${DASHBOARD_ICONS_CDN}/${slug}.svg` : `${LUCIDE_CDN}/package.svg`;
-    return `<img class="lib-icon" src="${src}" alt="" width="16" height="16" aria-hidden="true" onerror="this.src='${LUCIDE_CDN}/package.svg'">`;
+    const slug = libraries[key] ?? libraries[key.split(/[-_]/)[0]];
+    const src = slug ? `${cdn.dashboardIcons}/${slug}.svg` : `${cdn.lucide}/package.svg`;
+    return `<img class="lib-icon" src="${src}" alt="" width="16" height="16" aria-hidden="true" onerror="this.src='${cdn.lucide}/package.svg'">`;
 }
 
 type LibEntry = { name: string; display?: string; badges: string[]; internal?: boolean };
