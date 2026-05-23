@@ -1,5 +1,6 @@
 import * as d3 from 'd3';
 import './style.css';
+import bookmarksData from '../../data/bookmarks.json';
 import { flattenBookmarks } from './services/bookmarkParser';
 import type { BookmarkRecord, RawBookmarkNode, VizNode } from './types/bookmarks';
 import { clamp, escapeHtml, zoomState } from './shared';
@@ -30,12 +31,7 @@ const state: AppState = {
 const ISLANDS = ['Categories', 'Web Database', 'Web Platforms'] as const;
 type IslandName = (typeof ISLANDS)[number];
 
-const assetBaseUrl = import.meta.env.BASE_URL;
 const FAVORITES_STORAGE_KEY = 'interneto.favorite-links';
-
-function assetPath(fileName: string): string {
-  return `${assetBaseUrl}${fileName}`;
-}
 
 // ─── HTML template ────────────────────────────────────────────────────────────
 
@@ -403,10 +399,7 @@ for (const button of viewButtons) {
 void bootstrap();
 
 async function bootstrap(): Promise<void> {
-  const data = await fetch(assetPath('bookmarks.json')).then(
-    (r) => r.json() as Promise<RawBookmarkNode>,
-  );
-  state.records = flattenBookmarks(data);
+  state.records = flattenBookmarks(bookmarksData as RawBookmarkNode);
   state.favoriteIds = loadStoredFavoriteIds();
 
   for (const record of state.records) {

@@ -5,10 +5,508 @@
     },
     "entries": [
         {
+            "category": "3D Image",
+            "name": "3DOcean",
+            "icon": "/img/apps/no.svg",
+            "link": "https://3docean.net/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "3D Image",
+            "name": "Printables.com",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.printables.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "3D Image",
+            "name": "RenderHub 3D Models",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.renderhub.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "3D Image",
+            "name": "Sketchfab",
+            "icon": "/img/apps/no.svg",
+            "link": "https://sketchfab.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "3D Image",
+            "name": "TurboSquid",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.turbosquid.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Academy",
+            "name": "Coursera",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.coursera.org/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Academy",
+            "name": "edX",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.edx.org/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Academy",
+            "name": "GCFGlobal",
+            "icon": "/img/apps/no.svg",
+            "link": "https://edu.gcfglobal.org/en/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Academy",
+            "name": "Skillshare",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.skillshare.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Academy",
+            "name": "Udacity",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.udacity.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "AI",
+            "name": "ChatGPT",
+            "icon": "/img/apps/chatgpt.svg",
+            "link": "https://chatgpt.com/",
+            "tags": [
+                "mobile",
+                "web"
+            ]
+        },
+        {
+            "category": "AI",
+            "name": "Claude",
+            "icon": "/img/apps/claude.svg",
+            "link": "https://claude.ai/login",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "AI",
+            "name": "DeepL Translator",
+            "icon": "/img/apps/deepl.svg",
+            "link": "https://www.deepl.com/en/translator",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "AI",
+            "name": "DeepSeek Chat",
+            "icon": "/img/apps/deepseek.svg",
+            "link": "https://chat.deepseek.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "AI",
+            "name": "ElevenLabs",
+            "icon": "/img/apps/elevenlabs.svg",
+            "link": "https://elevenlabs.io/app/home",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "AI",
+            "name": "Gemini",
+            "icon": "/img/apps/gemini.svg",
+            "link": "https://gemini.google.com/app",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "AI",
+            "name": "Google Edge AI Gallery",
+            "icon": "/img/apps/google-ai-edge-gallery.svg",
+            "link": "https://play.google.com/store/apps/details?id=com.google.ai.edge.gallery",
+            "tags": [
+                "mobile"
+            ]
+        },
+        {
+            "category": "AI",
+            "name": "Google Translate",
+            "icon": "/img/apps/google-translate.svg",
+            "link": "https://translate.google.com/?hl=en&tab=TT&sl=es&tl=ru&op=translate",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "AI",
+            "name": "Magnific",
+            "icon": "/img/apps/magnific.svg",
+            "link": "https://www.magnific.com/app",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "AI",
+            "name": "OpenRouter",
+            "icon": "/img/apps/openrouter.svg",
+            "link": "https://openrouter.ai/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "AI",
+            "name": "Replicate Collections",
+            "icon": "/img/apps/replicate.svg",
+            "link": "https://replicate.com/collections/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Anime-Streaming",
+            "name": "AnimeFLV",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www3.animeflv.net/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Anime-Streaming",
+            "name": "AnimeWorld",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.animeworld.tv/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Anime-Streaming",
+            "name": "Neko-sama",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.neko-sama.org/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Anime-Streaming",
+            "name": "Voiranime",
+            "icon": "/img/apps/no.svg",
+            "link": "https://v6.voiranime.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Anime-Streaming",
+            "name": "Zoro.to - Anime online",
+            "icon": "/img/apps/no.svg",
+            "link": "https://w1.zoro.se/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "app-list",
+            "name": "Adobe - all apps",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.adobe.com/creativecloud/all-apps.html",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "app-list",
+            "name": "Affinity Seriff",
+            "icon": "/img/apps/no.svg",
+            "link": "https://affinity.serif.com/en-us/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "app-list",
+            "name": "Apps by Apple",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.apple.com/apps/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "app-list",
+            "name": "ArchWiki - List of applications",
+            "icon": "/img/apps/no.svg",
+            "link": "https://wiki.archlinux.org/title/List_of_applications",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "app-list",
+            "name": "Autodesk - All products",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.autodesk.com/products",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "app-list",
+            "name": "Google Workspace",
+            "icon": "/img/apps/no.svg",
+            "link": "https://workspace.google.com/features/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "app-list",
+            "name": "Jamstack - SSGs",
+            "icon": "/img/apps/no.svg",
+            "link": "https://jamstack.org/generators/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "app-list",
+            "name": "Microsoft 365 Products",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.microsoft.com/en-us/microsoft-365/products-apps-services",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "app-list",
+            "name": "Steinberg Products",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.steinberg.net/products/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Audio",
+            "name": "Audacious",
+            "icon": "/img/apps/audacious.svg",
+            "link": "https://audacious-media-player.org/",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "Audio",
+            "name": "Audacity",
+            "icon": "/img/apps/audacity.svg",
+            "link": "https://www.audacityteam.org/",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "Audio",
+            "name": "Guitar Pro",
+            "icon": "/img/apps/guitar-pro.svg",
+            "link": "https://www.guitar-pro.com/",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "Audio",
+            "name": "LMMS",
+            "icon": "/img/apps/lmms.svg",
+            "link": "https://lmms.io/",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "Audio",
+            "name": "MuseScore",
+            "icon": "/img/apps/musescore.svg",
+            "link": "https://musescore.com/",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "Audio",
+            "name": "MusicBee",
+            "icon": "/img/apps/musicbee.svg",
+            "link": "https://getmusicbee.com/",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "Audio",
+            "name": "Musicolet",
+            "icon": "/img/apps/musicolet.svg",
+            "link": "https://krosbits.in/musicolet/",
+            "tags": [
+                "mobile"
+            ]
+        },
+        {
+            "category": "Audio",
+            "name": "YouTube Music",
+            "icon": "/img/apps/youtube-music.svg",
+            "link": "https://music.youtube.com/",
+            "tags": [
+                "mobile"
+            ]
+        },
+        {
+            "category": "Aviation DB",
+            "name": "ADS-B Exchange - track aircraft live",
+            "icon": "/img/apps/no.svg",
+            "link": "https://globe.adsbexchange.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Aviation DB",
+            "name": "AirNav Radar",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.airnavradar.com/@29.00248,16.86876,z3",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Aviation DB",
+            "name": "AIRPLANES.LIVE",
+            "icon": "/img/apps/no.svg",
+            "link": "https://airplanes.live/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Aviation DB",
+            "name": "FlightAware",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.flightaware.com/live/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Aviation DB",
+            "name": "Flightradar 24",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.flightradar24.com/31.31,-14.30/5",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Aviation DB",
+            "name": "FlightStats",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.flightstats.com/v2",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Aviation DB",
+            "name": "IVAO Webeye",
+            "icon": "/img/apps/no.svg",
+            "link": "https://webeye.ivao.aero/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Aviation DB",
+            "name": "OurAirports",
+            "icon": "/img/apps/no.svg",
+            "link": "https://ourairports.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Aviation DB",
+            "name": "Plane Finder",
+            "icon": "/img/apps/no.svg",
+            "link": "https://planefinder.net/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Biology DB",
+            "name": "AlphaFold Protein Structure Database",
+            "icon": "/img/apps/no.svg",
+            "link": "https://alphafold.ebi.ac.uk/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Case Law DB",
+            "name": "Epstein Exposed DB",
+            "icon": "/img/apps/no.svg",
+            "link": "https://epsteinexposed.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
             "category": "Communication",
             "name": "Discord",
             "icon": "/img/apps/discord.svg",
             "link": "https://discord.com/",
+            "tags": [
+                "desktop",
+                "mobile",
+                "web"
+            ]
+        },
+        {
+            "category": "Communication",
+            "name": "Slack",
+            "icon": "/img/apps/no.svg",
+            "link": "https://slack.com/",
             "tags": [
                 "desktop",
                 "mobile",
@@ -28,12 +526,165 @@
         },
         {
             "category": "Communication",
-            "name": "Slack",
+            "name": "WhatsApp Web",
+            "icon": "/img/apps/whatsapp.svg",
+            "link": "https://web.whatsapp.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Consumer-electronics-store",
+            "name": "B&H Photo Video",
             "icon": "/img/apps/no.svg",
-            "link": "https://slack.com/",
+            "link": "https://www.bhphotovideo.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Consumer-electronics-store",
+            "name": "MediaMarkt Canarias",
+            "icon": "/img/apps/no.svg",
+            "link": "https://canarias.mediamarkt.es/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Consumer-electronics-store",
+            "name": "Newegg",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.newegg.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Consumer-electronics-store",
+            "name": "PcComponentes",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.pccomponentes.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Consumer-electronics-store",
+            "name": "Qi Canarias - Todo Tecnología",
+            "icon": "/img/apps/no.svg",
+            "link": "https://qicanarias.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Consumer-electronics-store",
+            "name": "Thomann",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.thomann.de/intl/index.html",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Consumer-electronics-store",
+            "name": "Última Informática",
+            "icon": "/img/apps/no.svg",
+            "link": "https://ultimainformatica.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Consumer-electronics-store",
+            "name": "Worten",
+            "icon": "/img/apps/no.svg",
+            "link": "https://canarias.worten.es/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Department-store",
+            "name": "El Corte Inglés",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.elcorteingles.es/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Department-store",
+            "name": "IKEA",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.ikea.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Department-store",
+            "name": "IKEA Tenerife",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.islas.ikea.es/tenerife/es",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Department-store",
+            "name": "Kohl's",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.kohls.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Department-store",
+            "name": "Leroy Merlin",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.leroymerlin.es/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Department-store",
+            "name": "Macy's",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.macys.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Department-store",
+            "name": "Nordstrom",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.nordstrom.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Design",
+            "name": "Canva",
+            "icon": "/img/apps/canva.svg",
+            "link": "https://www.canva.com/",
             "tags": [
                 "desktop",
                 "mobile",
+                "web"
+            ]
+        },
+        {
+            "category": "Design",
+            "name": "Excalidraw",
+            "icon": "/img/apps/excalidraw.svg",
+            "link": "https://excalidraw.com/",
+            "tags": [
                 "web"
             ]
         },
@@ -50,31 +701,28 @@
         },
         {
             "category": "Design",
-            "name": "Canva",
-            "icon": "/img/apps/canva.svg",
-            "link": "https://www.canva.com/",
+            "name": "Google Stitch",
+            "icon": "/img/apps/stitch.svg",
+            "link": "https://stitch.withgoogle.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Design",
+            "name": "Pencil Project",
+            "icon": "/img/apps/pencil.svg",
+            "link": "https://www.pencil.dev/",
             "tags": [
                 "desktop",
-                "mobile",
                 "web"
             ]
         },
         {
             "category": "Development",
-            "name": "GitHub",
-            "icon": "/img/apps/github.svg",
-            "link": "https://github.com/",
-            "tags": [
-                "desktop",
-                "mobile",
-                "web"
-            ]
-        },
-        {
-            "category": "Development",
-            "name": "Visual Studio Code",
-            "icon": "/img/apps/visual-studio-code.svg",
-            "link": "https://code.visualstudio.com/",
+            "name": "Apache NetBeans",
+            "icon": "/img/apps/no.svg",
+            "link": "https://netbeans.apache.org/front/main/index.html",
             "tags": [
                 "desktop"
             ]
@@ -91,6 +739,98 @@
         },
         {
             "category": "Development",
+            "name": "GitHub",
+            "icon": "/img/apps/github.svg",
+            "link": "https://github.com/",
+            "tags": [
+                "desktop",
+                "mobile",
+                "web"
+            ]
+        },
+        {
+            "category": "Development",
+            "name": "GitHub Explore",
+            "icon": "/img/apps/github.svg",
+            "link": "https://github.com/explore",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Development",
+            "name": "Graphite",
+            "icon": "/img/apps/graphite.svg",
+            "link": "https://editor.graphite.rs/",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "Development",
+            "name": "Hugo",
+            "icon": "/img/apps/hugo.svg",
+            "link": "https://gohugo.io/",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "Development",
+            "name": "Kubernetes",
+            "icon": "/img/apps/kubectl.svg",
+            "link": "https://kubernetes.io/",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "Development",
+            "name": "Laragon",
+            "icon": "/img/apps/laragon.svg",
+            "link": "https://laragon.org/",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "Development",
+            "name": "MediaWiki",
+            "icon": "/img/apps/mediawiki.svg",
+            "link": "https://www.mediawiki.org/wiki/MediaWiki",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "Development",
+            "name": "Neovim",
+            "icon": "/img/apps/neovim.svg",
+            "link": "https://neovim.io/",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "Development",
+            "name": "Node.js",
+            "icon": "/img/apps/nodejs.svg",
+            "link": "https://nodejs.org/en",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "Development",
+            "name": "Notepad++",
+            "icon": "/img/apps/notepad-plus-plus.svg",
+            "link": "https://notepad-plus-plus.org/",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "Development",
             "name": "Postman",
             "icon": "/img/apps/postman.svg",
             "link": "https://www.postman.com/",
@@ -100,129 +840,344 @@
             ]
         },
         {
-            "category": "Knowledge",
-            "name": "Archive.org",
-            "icon": "/img/apps/archive.svg",
-            "link": "https://archive.org/",
+            "category": "Development",
+            "name": "Scrapy",
+            "icon": "/img/apps/scrapy.svg",
+            "link": "https://scrapy.org/",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "Development",
+            "name": "Sublime Text",
+            "icon": "/img/apps/sublime-text-4.svg",
+            "link": "https://www.sublimetext.com/",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "Development",
+            "name": "Unreal Engine",
+            "icon": "/img/apps/unreal-engine.svg",
+            "link": "https://www.unrealengine.com/en-US",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "Development",
+            "name": "Visual Studio",
+            "icon": "/img/apps/visual-studio.svg",
+            "link": "https://visualstudio.microsoft.com/downloads/",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "Development",
+            "name": "Visual Studio Code",
+            "icon": "/img/apps/visual-studio-code.svg",
+            "link": "https://code.visualstudio.com/",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "Development",
+            "name": "XAMPP",
+            "icon": "/img/apps/xampp.svg",
+            "link": "https://www.apachefriends.org/",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "Digital-Store",
+            "name": "7digital",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.7digital.com/",
             "tags": [
                 "web"
             ]
         },
         {
-            "category": "Knowledge",
-            "name": "Wikipedia",
-            "icon": "/img/apps/wikipedia.svg",
-            "link": "https://www.wikipedia.org/",
-            "tags": [
-                "mobile",
-                "web"
-            ]
-        },
-        {
-            "category": "Knowledge",
-            "name": "MDN Web Docs",
-            "icon": "/img/apps/mdn.svg",
-            "link": "https://developer.mozilla.org/",
+            "category": "Digital-Store",
+            "name": "Apple App Store - Games",
+            "icon": "/img/apps/no.svg",
+            "link": "https://apps.apple.com/us/charts/ipad/action-games/7001",
             "tags": [
                 "web"
             ]
         },
         {
-            "category": "Libraries",
-            "name": "React",
-            "icon": "/img/apps/react.svg",
-            "link": "https://react.dev/",
+            "category": "Digital-Store",
+            "name": "Bandcamp",
+            "icon": "/img/apps/no.svg",
+            "link": "https://bandcamp.com/",
             "tags": [
-                "lib"
-            ]
-        },
-        {
-            "category": "Libraries",
-            "name": "Astro",
-            "icon": "/img/apps/astro.svg",
-            "link": "https://astro.build/",
-            "tags": [
-                "lib"
-            ]
-        },
-        {
-            "category": "Libraries",
-            "name": "Tailwind CSS",
-            "icon": "/img/apps/tailwind-css.svg",
-            "link": "https://tailwindcss.com/",
-            "tags": [
-                "lib"
-            ]
-        },
-        {
-            "category": "Libraries",
-            "name": "Vue",
-            "icon": "/img/apps/vue.svg",
-            "link": "https://vuejs.org/",
-            "tags": [
-                "lib"
-            ]
-        },
-        {
-            "category": "Media",
-            "name": "YouTube",
-            "icon": "/img/apps/youtube.svg",
-            "link": "https://www.youtube.com/",
-            "tags": [
-                "desktop",
-                "mobile",
                 "web"
             ]
         },
         {
-            "category": "Media",
-            "name": "Spotify",
-            "icon": "/img/apps/spotify.svg",
-            "link": "https://open.spotify.com/",
+            "category": "Digital-Store",
+            "name": "Beatport",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.beatport.com/",
             "tags": [
-                "desktop",
-                "mobile",
                 "web"
             ]
         },
         {
-            "category": "Productivity",
-            "name": "Notion",
-            "icon": "/img/apps/notion.svg",
-            "link": "https://www.notion.so/",
+            "category": "Digital-Store",
+            "name": "Bleep",
+            "icon": "/img/apps/no.svg",
+            "link": "https://bleep.com/",
             "tags": [
-                "desktop",
-                "mobile",
                 "web"
             ]
         },
         {
-            "category": "Productivity",
-            "name": "Obsidian",
-            "icon": "/img/apps/obsidian.svg",
-            "link": "https://obsidian.md/",
+            "category": "Digital-Store",
+            "name": "CD Baby",
+            "icon": "/img/apps/no.svg",
+            "link": "https://cdbaby.com/",
             "tags": [
-                "desktop",
-                "mobile"
-            ]
-        },
-        {
-            "category": "Social",
-            "name": "Reddit",
-            "icon": "/img/apps/reddit.svg",
-            "link": "https://www.reddit.com/",
-            "tags": [
-                "mobile",
                 "web"
             ]
         },
         {
-            "category": "Weather",
-            "name": "Windy",
-            "icon": "/img/apps/windy.svg",
-            "link": "https://www.windy.com/",
+            "category": "Digital-Store",
+            "name": "CDKeys",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.cdkeys.com/",
             "tags": [
-                "mobile",
+                "web"
+            ]
+        },
+        {
+            "category": "Digital-Store",
+            "name": "Clixou",
+            "icon": "/img/apps/no.svg",
+            "link": "https://clixou.sellpass.io/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Digital-Store",
+            "name": "Discogs",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.discogs.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Digital-Store",
+            "name": "DriveThruRPG",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.drivethrurpg.com/en/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Digital-Store",
+            "name": "Eneba",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.eneba.com/es/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Digital-Store",
+            "name": "Epic Games",
+            "icon": "/img/apps/no.svg",
+            "link": "https://store.epicgames.com/en-US/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Digital-Store",
+            "name": "Epidemic Sound",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.epidemicsound.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Digital-Store",
+            "name": "GOG.com",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.gog.com/en/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Digital-Store",
+            "name": "Google Play - Games",
+            "icon": "/img/apps/no.svg",
+            "link": "https://play.google.com/store/games?hl=en-us",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Digital-Store",
+            "name": "HDTracks",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.hdtracks.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Digital-Store",
+            "name": "Instant Gaming",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.instant-gaming.com/en/pc/steam/bestsellers/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Digital-Store",
+            "name": "Juno Download",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.junodownload.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Digital-Store",
+            "name": "Kobo.com",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.kobo.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Digital-Store",
+            "name": "Libro.fm",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.libro.fm/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Digital-Store",
+            "name": "Microsoft Store - Games",
+            "icon": "/img/apps/no.svg",
+            "link": "https://apps.microsoft.com/games?hl=en-us&gl=US",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Digital-Store",
+            "name": "Movies on Google Play",
+            "icon": "/img/apps/no.svg",
+            "link": "https://play.google.com/store/movies",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Digital-Store",
+            "name": "Movies on Microsoft Store",
+            "icon": "/img/apps/no.svg",
+            "link": "https://apps.microsoft.com/movies?hl=en-us&gl=US",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Digital-Store",
+            "name": "PlayStation™Store",
+            "icon": "/img/apps/no.svg",
+            "link": "https://store.playstation.com/es-es/pages/latest",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Digital-Store",
+            "name": "ReverbNation",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.reverbnation.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Digital-Store",
+            "name": "Soundstripe",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.soundstripe.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Digital-Store",
+            "name": "Splice",
+            "icon": "/img/apps/no.svg",
+            "link": "https://splice.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Digital-Store",
+            "name": "SteamDB",
+            "icon": "/img/apps/no.svg",
+            "link": "https://steamdb.info/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Digital-Store",
+            "name": "Traxsource",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.traxsource.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Digital-Store",
+            "name": "TuneCore",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.tunecore.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Digital-Store",
+            "name": "Xbox Cloud Gaming (beta) en  Xbox.com",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.xbox.com/es-ES/play",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Digital-Store",
+            "name": "zAccounts.io",
+            "icon": "/img/apps/no.svg",
+            "link": "https://zaccounts.io/",
+            "tags": [
                 "web"
             ]
         },
@@ -272,67 +1227,1100 @@
             ]
         },
         {
-            "category": "Reading",
-            "name": "Folo",
-            "icon": "/img/apps/folo.svg",
-            "link": "https://app.folo.is/timeline/articles/all/pending",
+            "category": "Discovery",
+            "name": "Interneto",
+            "icon": "/icon.png",
+            "link": "https://interneto.github.io/",
             "tags": [
                 "web"
             ]
         },
         {
-            "category": "Development",
-            "name": "GitHub Explore",
-            "icon": "/img/apps/github.svg",
-            "link": "https://github.com/explore",
-            "tags": [
-                "web"
-            ]
-        },
-        {
-            "category": "Reading",
-            "name": "Goodreads",
+            "category": "Documents DB",
+            "name": "Academia.edu - Find Research Papers, Topics, Researchers",
             "icon": "/img/apps/no.svg",
-            "link": "https://www.goodreads.com/",
+            "link": "https://www.academia.edu/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Documents DB",
+            "name": "ResearchGate | Find and share research",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.researchgate.net/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Documents DB",
+            "name": "Sci-Hub: to open science",
+            "icon": "/img/apps/no.svg",
+            "link": "https://sci-hub.se/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Documents DB",
+            "name": "Scribd",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.scribd.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Encyclopedia DB",
+            "name": "Britannica",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.britannica.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Encyclopedia DB",
+            "name": "EncycloSearch",
+            "icon": "/img/apps/no.svg",
+            "link": "https://encyclosearch.org/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Encyclopedia DB",
+            "name": "Grokipedia",
+            "icon": "/img/apps/no.svg",
+            "link": "https://grokipedia.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Encyclopedia DB",
+            "name": "Kiwix Server",
+            "icon": "/img/apps/no.svg",
+            "link": "https://library.kiwix.org/?lang=eng",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Encyclopedia DB",
+            "name": "True Earth wiki",
+            "icon": "/img/apps/no.svg",
+            "link": "https://trueearth.wikitide.org/wiki/Main_Page",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Encyclopedia DB",
+            "name": "Wikipedia - Top views",
+            "icon": "/img/apps/no.svg",
+            "link": "https://pageviews.wmcloud.org/topviews/?project=en.wikipedia.org&platform=all-access&date=last-month&excludes=",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Encyclopedia DB",
+            "name": "World History Encyclopedia",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.worldhistory.org/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "File Management",
+            "name": "7-Zip",
+            "icon": "/img/apps/7zip.svg",
+            "link": "https://www.7-zip.org/",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "File Management",
+            "name": "Dropbox",
+            "icon": "/img/apps/dropbox.svg",
+            "link": "https://www.dropbox.com/",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "File Management",
+            "name": "Eagle-Mode",
+            "icon": "/img/apps/eaglemode.svg",
+            "link": "https://eaglemode.sourceforge.net/",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "File Management",
+            "name": "Files",
+            "icon": "/img/apps/files.svg",
+            "link": "https://files.community/",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "File Management",
+            "name": "FreeFileSync",
+            "icon": "/img/apps/freefilesync.svg",
+            "link": "https://freefilesync.org/",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "File Management",
+            "name": "HandBrake",
+            "icon": "/img/apps/handbrake.svg",
+            "link": "https://handbrake.fr/",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "File Management",
+            "name": "MusicBrainz-Picard",
+            "icon": "/img/apps/musicbrainz-picard.svg",
+            "link": "https://picard.musicbrainz.org/",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "File Management",
+            "name": "Rclone",
+            "icon": "/img/apps/rclone.svg",
+            "link": "https://rclone.org/",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "File Management",
+            "name": "Rsync",
+            "icon": "/img/apps/rsync.svg",
+            "link": "https://rsync.samba.org/",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "File Management",
+            "name": "Syncthing",
+            "icon": "/img/apps/syncthing.svg",
+            "link": "https://syncthing.net/",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "Flight DB",
+            "name": "FAA NOTAM Search",
+            "icon": "/img/apps/no.svg",
+            "link": "https://notams.aim.faa.gov/notamSearch/nsapp.html#/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Flight DB",
+            "name": "Flight XXXX - AirNav Radar",
+            "icon": "/img/apps/no.svg",
+            "link": "https://web7.radarbox.com/data/flights/XXXX",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Flight DB",
+            "name": "Flight XXXX - FlightAware",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.flightaware.com/live/flight/XXXX",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Flight DB",
+            "name": "Flight XXXX - Flightradar24",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.flightradar24.com/data/flights/xxxx",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Flight DB",
+            "name": "Flight XXXX - Plane Finder",
+            "icon": "/img/apps/no.svg",
+            "link": "https://planefinder.net/data/flight/XXXX",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Forum",
+            "name": "4chan",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.4chan.org/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Forum",
+            "name": "Disqus",
+            "icon": "/img/apps/no.svg",
+            "link": "https://disqus.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Forum",
+            "name": "Forocoches",
+            "icon": "/img/apps/no.svg",
+            "link": "https://forocoches.com/foro/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Forum",
+            "name": "nodo313",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.nodo313.net/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Forum",
+            "name": "Obsidian Forum",
+            "icon": "/img/apps/no.svg",
+            "link": "https://forum.obsidian.md/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Forum",
+            "name": "Stackoverflow",
+            "icon": "/img/apps/no.svg",
+            "link": "https://stackoverflow.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Forum",
+            "name": "XDA developers Forum",
+            "icon": "/img/apps/no.svg",
+            "link": "https://forum.xda-developers.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Games DB",
+            "name": "IGDB",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.igdb.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Gaming",
+            "name": "Chess Prince",
+            "icon": "/img/apps/chess-prince.svg",
+            "link": "https://chess-prince.com/",
+            "tags": [
+                "mobile"
+            ]
+        },
+        {
+            "category": "Gaming",
+            "name": "Chess.com",
+            "icon": "/img/apps/chess-com.svg",
+            "link": "https://www.chess.com/home",
+            "tags": [
+                "mobile"
+            ]
+        },
+        {
+            "category": "Gaming",
+            "name": "Steam",
+            "icon": "/img/apps/steam.svg",
+            "link": "https://store.steampowered.com/about/",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "Gasoline DB",
+            "name": "GasoFlash - Precios de la gasolina",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.gasoflash.es/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Geomaps DB",
+            "name": "ACME Mapper 2.2",
+            "icon": "/img/apps/no.svg",
+            "link": "https://mapper.acme.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Geomaps DB",
+            "name": "Apple Maps",
+            "icon": "/img/apps/no.svg",
+            "link": "https://maps.apple.com/frame?center=0.4807124296272137%2C3.652611569093864&span=149.5310998716505%2C288.5017421602788",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Geomaps DB",
+            "name": "Bing Maps",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.bing.com/maps?cp=-0.043993%7E0.329551&lvl=3.3",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Geomaps DB",
+            "name": "GeoHack",
+            "icon": "/img/apps/no.svg",
+            "link": "https://geohack.toolforge.org/geohack.php?params=0_0_0_S_0_0_0_W",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Geomaps DB",
+            "name": "Google My Maps",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.google.com/maps/d/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Geomaps DB",
+            "name": "Mapbox",
+            "icon": "/img/apps/no.svg",
+            "link": "https://labs.mapbox.com/contribute/#/?q=&l=1.983%2F21.459%2F18.4008",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Geomaps DB",
+            "name": "MINETUR - Mapa antenas",
+            "icon": "/img/apps/no.svg",
+            "link": "https://geoportal.minetur.gob.es/VCTEL/vcne.do",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Geomaps DB",
+            "name": "Overpass Turbo",
+            "icon": "/img/apps/no.svg",
+            "link": "https://overpass-turbo.eu/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Geomaps DB",
+            "name": "Submarine Cable Map",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.submarinecablemap.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Geomaps DB",
+            "name": "Wikimapia",
+            "icon": "/img/apps/no.svg",
+            "link": "https://wikimapia.org/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Geomaps DB",
+            "name": "Yandex Maps",
+            "icon": "/img/apps/no.svg",
+            "link": "https://yandex.com/maps/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Geomaps DB",
+            "name": "Yandex metro map",
+            "icon": "/img/apps/no.svg",
+            "link": "https://yandex.com/metro/moscow?scheme_id=sc34974011",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Hardware DB",
+            "name": "NanoReview – tech comparison and ratings",
+            "icon": "/img/apps/no.svg",
+            "link": "https://nanoreview.net/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Hardware DB",
+            "name": "Technical City - Unbiased hardware comparisons",
+            "icon": "/img/apps/no.svg",
+            "link": "https://technical.city/en",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Hardware DB",
+            "name": "UserBenchmark",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.userbenchmark.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Image",
+            "name": "Blender",
+            "icon": "/img/apps/blender.svg",
+            "link": "https://www.blender.org/",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "Image",
+            "name": "DeviantArt",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.deviantart.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Image",
+            "name": "digiKam",
+            "icon": "/img/apps/digikam.svg",
+            "link": "https://www.digikam.org/",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "Image",
+            "name": "FreeCAD",
+            "icon": "/img/apps/freecad.svg",
+            "link": "https://www.freecad.org/",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "Image",
+            "name": "Freepik",
+            "icon": "/img/apps/freepik.svg",
+            "link": "https://www.freepik.com/",
+            "tags": [
+                "mobile"
+            ]
+        },
+        {
+            "category": "Image",
+            "name": "GIMP",
+            "icon": "/img/apps/gimp.svg",
+            "link": "https://www.gimp.org/",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "Image",
+            "name": "Imgur",
+            "icon": "/img/apps/no.svg",
+            "link": "https://imgur.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Image",
+            "name": "Inkscape",
+            "icon": "/img/apps/inkscape.svg",
+            "link": "https://inkscape.org/",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "Image",
+            "name": "Krita",
+            "icon": "/img/apps/krita.svg",
+            "link": "https://krita.org/",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "Image",
+            "name": "Librestock Photos",
+            "icon": "/img/apps/no.svg",
+            "link": "https://librestock.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Image",
+            "name": "Pexels",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.pexels.com/leaderboard/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Image",
+            "name": "PhotoPrism",
+            "icon": "/img/apps/photoprism.svg",
+            "link": "https://www.photoprism.app/",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "Image",
+            "name": "Pixabay",
+            "icon": "/img/apps/no.svg",
+            "link": "https://pixabay.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Image",
+            "name": "Shutterstock",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.shutterstock.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Image",
+            "name": "SketchUp",
+            "icon": "/img/apps/sketchup.svg",
+            "link": "https://www.sketchup.com/en",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "Image",
+            "name": "Unsplash",
+            "icon": "/img/apps/no.svg",
+            "link": "https://unsplash.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Image",
+            "name": "Upscayl",
+            "icon": "/img/apps/upscayl.svg",
+            "link": "https://www.upscayl.org/",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "Image",
+            "name": "Wikimedia Commons",
+            "icon": "/img/apps/no.svg",
+            "link": "https://commons.wikimedia.org/wiki/Main_Page",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Internet & Communication",
+            "name": "cURL",
+            "icon": "/img/apps/curl.svg",
+            "link": "https://curl.se/",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "Internet & Communication",
+            "name": "DuckDuckGo",
+            "icon": "/img/apps/duckduckgo.svg",
+            "link": "https://duckduckgo.com/",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "Internet & Communication",
+            "name": "Firefox",
+            "icon": "/img/apps/firefox.svg",
+            "link": "https://www.firefox.com/en-US/",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "Internet & Communication",
+            "name": "Gmail",
+            "icon": "/img/apps/gmail.svg",
+            "link": "https://mail.google.com/mail/u/0/",
+            "tags": [
+                "mobile"
+            ]
+        },
+        {
+            "category": "Internet & Communication",
+            "name": "Home Assistant",
+            "icon": "/img/apps/home-assistant.svg",
+            "link": "https://www.home-assistant.io/",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "Internet & Communication",
+            "name": "LibreWolf",
+            "icon": "/img/apps/librewolf.svg",
+            "link": "https://librewolf.net/",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "Internet & Communication",
+            "name": "Nginx",
+            "icon": "/img/apps/nginx.svg",
+            "link": "https://www.nginx.com/",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "Internet & Communication",
+            "name": "Opera",
+            "icon": "/img/apps/opera.svg",
+            "link": "https://www.opera.com/",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "Internet & Communication",
+            "name": "Outlook",
+            "icon": "/img/apps/outlook.svg",
+            "link": "https://outlook.live.com/owa/",
+            "tags": [
+                "mobile"
+            ]
+        },
+        {
+            "category": "Internet & Communication",
+            "name": "Pi-hole",
+            "icon": "/img/apps/pi-hole.svg",
+            "link": "https://pi-hole.net/",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "Internet & Communication",
+            "name": "Proton Mail",
+            "icon": "/img/apps/protonmail.svg",
+            "link": "https://mail.proton.me/u/0/inbox",
+            "tags": [
+                "mobile"
+            ]
+        },
+        {
+            "category": "Internet & Communication",
+            "name": "qBittorrent",
+            "icon": "/img/apps/qbittorrent.svg",
+            "link": "https://www.qbittorrent.org/",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "Internet & Communication",
+            "name": "Raindrop.io",
+            "icon": "/img/apps/raindrop-io.svg",
+            "link": "https://app.raindrop.io/account/login",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "Internet & Communication",
+            "name": "Signal",
+            "icon": "/img/apps/signal.svg",
+            "link": "https://signal.org/",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "Internet & Communication",
+            "name": "SimpleX Chat",
+            "icon": "/img/apps/simplex-chat.svg",
+            "link": "https://simplex.chat/",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "Internet & Communication",
+            "name": "Thunderbird",
+            "icon": "/img/apps/thunderbird.svg",
+            "link": "https://www.thunderbird.net/en-US/",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "Internet & Communication",
+            "name": "WhatsApp",
+            "icon": "/img/apps/whatsapp.svg",
+            "link": "https://www.whatsapp.com/download",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "Internet & Communication",
+            "name": "X",
+            "icon": "/img/apps/x.svg",
+            "link": "https://x.com/",
+            "tags": [
+                "mobile"
+            ]
+        },
+        {
+            "category": "IPTV Provider",
+            "name": "AlphaIPTV",
+            "icon": "/img/apps/no.svg",
+            "link": "https://alphaiptv.net/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "IPTV Provider",
+            "name": "Buho IPTV",
+            "icon": "/img/apps/no.svg",
+            "link": "https://buhoiptv.es/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "IPTV Provider",
+            "name": "Clixou – IPTV",
+            "icon": "/img/apps/no.svg",
+            "link": "https://clixou.sellpass.io/products/IPTV",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "IPTV Provider",
+            "name": "DisfrutaTV",
+            "icon": "/img/apps/no.svg",
+            "link": "https://disfrutatv.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "IPTV Provider",
+            "name": "IPTV subscribe",
+            "icon": "/img/apps/no.svg",
+            "link": "https://iptvsubscribetv.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "IPTV Provider",
+            "name": "IPTV Wuaze – free code",
+            "icon": "/img/apps/no.svg",
+            "link": "https://iptvfree.wuaze.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "IPTV Provider",
+            "name": "IPTVSOSO.NET",
+            "icon": "/img/apps/no.svg",
+            "link": "https://iptvsoso.net/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "IPTV Provider",
+            "name": "Joy IPTV Service",
+            "icon": "/img/apps/no.svg",
+            "link": "https://joy-iptv.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "IPTV Provider",
+            "name": "Koiptv IPTV",
+            "icon": "/img/apps/no.svg",
+            "link": "https://koiptv.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "IPTV Provider",
+            "name": "mychannelstv",
+            "icon": "/img/apps/no.svg",
+            "link": "https://mychannelstv.com/iptv-premium-espana/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "IPTV Provider",
+            "name": "World-iptv",
+            "icon": "/img/apps/no.svg",
+            "link": "https://world-iptv.club/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Job Network",
+            "name": "Glassdoor",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.glassdoor.es/index.htm",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Job Network",
+            "name": "Indeed",
+            "icon": "/img/apps/no.svg",
+            "link": "https://indeed.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Knowledge",
+            "name": "Archive.org",
+            "icon": "/img/apps/archive.svg",
+            "link": "https://archive.org/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Knowledge",
+            "name": "MDN Web Docs",
+            "icon": "/img/apps/mdn.svg",
+            "link": "https://developer.mozilla.org/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Knowledge",
+            "name": "Wikipedia",
+            "icon": "/img/apps/wikipedia.svg",
+            "link": "https://www.wikipedia.org/",
             "tags": [
                 "mobile",
                 "web"
             ]
         },
         {
-            "category": "Media",
-            "name": "IMDb",
-            "icon": "/img/apps/imdb.svg",
-            "link": "https://www.imdb.com/",
-            "tags": [
-                "mobile",
-                "web"
-            ]
-        },
-        {
-            "category": "Productivity",
-            "name": "RecipeSage",
-            "icon": "/img/apps/recipesage.svg",
-            "link": "https://recipesage.com/#/list/main",
+            "category": "language-dictionary",
+            "name": "Cambridge Dictionary",
+            "icon": "/img/apps/no.svg",
+            "link": "https://dictionary.cambridge.org/",
             "tags": [
                 "web"
             ]
         },
         {
-            "category": "Media",
-            "name": "Trakt",
-            "icon": "/img/apps/trakt.svg",
-            "link": "https://app.trakt.tv/",
+            "category": "language-dictionary",
+            "name": "Chinese Dictionary",
+            "icon": "/img/apps/no.svg",
+            "link": "https://hanyucidian.org/",
             "tags": [
-                "mobile",
                 "web"
             ]
         },
         {
-            "category": "Media",
-            "name": "Fandom",
-            "icon": "/img/apps/fandom.svg",
-            "link": "https://www.fandom.com/",
+            "category": "language-dictionary",
+            "name": "DECEL - Diccionario Etimológico Castellano En Línea",
+            "icon": "/img/apps/no.svg",
+            "link": "https://etimologias.dechile.net/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "language-dictionary",
+            "name": "Dictionary.com",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.dictionary.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "language-dictionary",
+            "name": "Dictionnaire de l'Académie française",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.dictionnaire-academie.fr/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "language-dictionary",
+            "name": "hwxnet",
+            "icon": "/img/apps/no.svg",
+            "link": "https://cd.hwxnet.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "language-dictionary",
+            "name": "JapanDict: Japanese Dictionary",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.japandict.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "language-dictionary",
+            "name": "Jisho.org: Japanese Dictionary",
+            "icon": "/img/apps/no.svg",
+            "link": "https://jisho.org/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "language-dictionary",
+            "name": "Larousse.fr : encyclopédie et dictionnaires gratuits en ligne",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.larousse.fr/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "language-dictionary",
+            "name": "MDBG Chinese Dictionary",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.mdbg.net/chinese/dictionary",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "language-dictionary",
+            "name": "Oxford Learner's Dictionaries",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.oxfordlearnersdictionaries.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "language-dictionary",
+            "name": "Pagina d'entrata - Accademia della Crusca",
+            "icon": "/img/apps/no.svg",
+            "link": "https://accademiadellacrusca.it/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "language-dictionary",
+            "name": "RAE - Diccionario Lengua Española",
+            "icon": "/img/apps/no.svg",
+            "link": "https://dle.rae.es/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "language-dictionary",
+            "name": "SpreadTheSign - Sign language dictionary",
+            "icon": "/img/apps/no.svg",
+            "link": "https://spreadthesign.com/en.us/search/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "language-dictionary",
+            "name": "WordReference.com",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.wordreference.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "language-dictionary",
+            "name": "Wörterbuch der deutschen Sprache ✒️ Duden Online",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.duden.de/woerterbuch",
             "tags": [
                 "web"
             ]
@@ -410,130 +2398,1709 @@
             ]
         },
         {
-            "category": "AI",
-            "name": "DeepL Translator",
-            "icon": "/img/apps/deepl.svg",
-            "link": "https://www.deepl.com/en/translator",
+            "category": "Libraries",
+            "name": "Astro",
+            "icon": "/img/apps/astro.svg",
+            "link": "https://astro.build/",
+            "tags": [
+                "lib"
+            ]
+        },
+        {
+            "category": "Libraries",
+            "name": "React",
+            "icon": "/img/apps/react.svg",
+            "link": "https://react.dev/",
+            "tags": [
+                "lib"
+            ]
+        },
+        {
+            "category": "Libraries",
+            "name": "Tailwind CSS",
+            "icon": "/img/apps/tailwind-css.svg",
+            "link": "https://tailwindcss.com/",
+            "tags": [
+                "lib"
+            ]
+        },
+        {
+            "category": "Libraries",
+            "name": "Vue",
+            "icon": "/img/apps/vue.svg",
+            "link": "https://vuejs.org/",
+            "tags": [
+                "lib"
+            ]
+        },
+        {
+            "category": "Library",
+            "name": "Amazon Kindle",
+            "icon": "/img/apps/no.svg",
+            "link": "https://read.amazon.com/kindle-library",
             "tags": [
                 "web"
             ]
         },
         {
-            "category": "AI",
-            "name": "Google Translate",
-            "icon": "/img/apps/google-translate.svg",
-            "link": "https://translate.google.com/?hl=en&tab=TT&sl=es&tl=ru&op=translate",
+            "category": "Library",
+            "name": "arXiv.org e-Print archive",
+            "icon": "/img/apps/no.svg",
+            "link": "https://arxiv.org/",
             "tags": [
                 "web"
             ]
         },
         {
-            "category": "AI",
-            "name": "ChatGPT",
-            "icon": "/img/apps/chatgpt.svg",
-            "link": "https://chatgpt.com/",
+            "category": "Library",
+            "name": "Bookracy - Why Pay for Books?",
+            "icon": "/img/apps/no.svg",
+            "link": "https://bookracy.ru/?q=",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Library",
+            "name": "Data.gov Home - Data.gov",
+            "icon": "/img/apps/no.svg",
+            "link": "https://data.gov/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Library",
+            "name": "Directory of Open Access Journals – DOAJ",
+            "icon": "/img/apps/no.svg",
+            "link": "https://doaj.org/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Library",
+            "name": "Europeana",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.europeana.eu/es",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Library",
+            "name": "Google Play Books",
+            "icon": "/img/apps/no.svg",
+            "link": "https://play.google.com/books",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Library",
+            "name": "Google Scholar",
+            "icon": "/img/apps/no.svg",
+            "link": "https://scholar.google.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Library",
+            "name": "IEEE Xplore",
+            "icon": "/img/apps/no.svg",
+            "link": "https://ieeexplore.ieee.org/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Library",
+            "name": "Internet Archive",
+            "icon": "/img/apps/no.svg",
+            "link": "https://archive.org/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Library",
+            "name": "JSTOR Home",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.jstor.org/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Library",
+            "name": "Library Genesis",
+            "icon": "/img/apps/no.svg",
+            "link": "https://libgen.li/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Library",
+            "name": "My Anonamouse",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.myanonamouse.net/login.php?returnto=%2F",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Library",
+            "name": "Open Library - Internet Archive",
+            "icon": "/img/apps/no.svg",
+            "link": "https://openlibrary.org/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Library",
+            "name": "Project Gutenberg",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.gutenberg.org/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Library",
+            "name": "PubMed",
+            "icon": "/img/apps/no.svg",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Library",
+            "name": "ScienceDirect.com",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.sciencedirect.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Library",
+            "name": "World Bank Open Data",
+            "icon": "/img/apps/no.svg",
+            "link": "https://data.worldbank.org/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Library",
+            "name": "WorldCat",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.worldcat.org/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Library",
+            "name": "Z-Library",
+            "icon": "/img/apps/no.svg",
+            "link": "https://z-lib.gd/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Manual DB",
+            "name": "ManualLibs",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.manualslib.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Maps",
+            "name": "AllTrails",
+            "icon": "/img/apps/alltrails.svg",
+            "link": "https://www.alltrails.com/",
             "tags": [
                 "mobile",
                 "web"
             ]
         },
         {
-            "category": "AI",
-            "name": "Claude",
-            "icon": "/img/apps/claude.svg",
-            "link": "https://claude.ai/login",
+            "category": "Maps",
+            "name": "CARTO - The Agentic GIS Platform",
+            "icon": "/img/apps/no.svg",
+            "link": "https://carto.com/",
             "tags": [
                 "web"
             ]
         },
         {
-            "category": "AI",
-            "name": "DeepSeek Chat",
-            "icon": "/img/apps/deepseek.svg",
-            "link": "https://chat.deepseek.com/",
+            "category": "Maps",
+            "name": "Geomarketing inAtlas",
+            "icon": "/img/apps/no.svg",
+            "link": "https://informa.inatlas.com/#/dashboard",
             "tags": [
                 "web"
             ]
         },
         {
-            "category": "AI",
-            "name": "Google Edge AI Gallery",
-            "icon": "/img/apps/google-ai-edge-gallery.svg",
-            "link": "https://play.google.com/store/apps/details?id=com.google.ai.edge.gallery",
+            "category": "Maps",
+            "name": "Google Earth Web",
+            "icon": "/img/apps/google-earth.svg",
+            "link": "https://earth.google.com/web/@36.23919503,-6.44153304,0a,4589641.05349735d,35y,0h,0t,0r/data=CgRCAggCOgMKATBCAggASg0I____________ARAA?authuser=0",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Maps",
+            "name": "Google Maps",
+            "icon": "/img/apps/google-maps.svg",
+            "link": "https://www.google.com/maps/@0,0,3z?entry=ttu&g_ep=EgoyMDI1MDkyNC4wIKXMDSoASAFQAw%3D%3D",
+            "tags": [
+                "mobile",
+                "web"
+            ]
+        },
+        {
+            "category": "Maps",
+            "name": "IGN - Terremotos Canarias",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.ign.es/web/vlc-ultimo-terremoto/-/terremotos-canarias/get10dias#",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Maps",
+            "name": "Map of Active Volcanoes and recent Earthquakes world-wide",
+            "icon": "/img/apps/no.svg",
+            "link": "https://earthquakes.volcanodiscovery.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Maps",
+            "name": "OpenStreetMap",
+            "icon": "/img/apps/openstreetmap.svg",
+            "link": "https://www.openstreetmap.org/#map=3/28.69/0.09",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Maps",
+            "name": "USGS - Earthquakes",
+            "icon": "/img/apps/no.svg",
+            "link": "https://earthquake.usgs.gov/earthquakes/map/?extent=-55.17887,-116.89453&extent=71.07406,155.39063",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Maps",
+            "name": "Wikiloc",
+            "icon": "/img/apps/wikiloc.svg",
+            "link": "https://www.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&page=1",
+            "tags": [
+                "mobile",
+                "web"
+            ]
+        },
+        {
+            "category": "Maps",
+            "name": "World Monitor",
+            "icon": "/img/apps/no.svg",
+            "link": "https://world-monitor.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Media",
+            "name": "Fandom",
+            "icon": "/img/apps/fandom.svg",
+            "link": "https://www.fandom.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Media",
+            "name": "IMDb",
+            "icon": "/img/apps/imdb.svg",
+            "link": "https://www.imdb.com/",
+            "tags": [
+                "mobile",
+                "web"
+            ]
+        },
+        {
+            "category": "Media",
+            "name": "Odysee",
+            "icon": "/img/apps/odysee.svg",
+            "link": "https://odysee.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Media",
+            "name": "Radio Garden",
+            "icon": "/img/apps/radio-garden.svg",
+            "link": "https://radio.garden/balloon-ride",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Media",
+            "name": "Spotify",
+            "icon": "/img/apps/spotify.svg",
+            "link": "https://open.spotify.com/",
+            "tags": [
+                "desktop",
+                "mobile",
+                "web"
+            ]
+        },
+        {
+            "category": "Media",
+            "name": "Trakt",
+            "icon": "/img/apps/trakt.svg",
+            "link": "https://app.trakt.tv/",
+            "tags": [
+                "mobile",
+                "web"
+            ]
+        },
+        {
+            "category": "Media",
+            "name": "Twitch",
+            "icon": "/img/apps/twitch.svg",
+            "link": "https://www.twitch.tv/",
+            "tags": [
+                "mobile",
+                "web"
+            ]
+        },
+        {
+            "category": "Media",
+            "name": "YouTube",
+            "icon": "/img/apps/youtube.svg",
+            "link": "https://www.youtube.com/",
+            "tags": [
+                "desktop",
+                "mobile",
+                "web"
+            ]
+        },
+        {
+            "category": "Mega e-commerce",
+            "name": "Alibaba.com",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.alibaba.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Mega e-commerce",
+            "name": "Amazon",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.amazon.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Mega e-commerce",
+            "name": "Amazon price tracker - camelcamelcamel.com",
+            "icon": "/img/apps/no.svg",
+            "link": "https://es.camelcamelcamel.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Mega e-commerce",
+            "name": "ASOS",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.asos.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Mega e-commerce",
+            "name": "Decathlon",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.decathlon.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Mega e-commerce",
+            "name": "Drop",
+            "icon": "/img/apps/no.svg",
+            "link": "https://drop.com/home",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Mega e-commerce",
+            "name": "eBay",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.ebay.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Mega e-commerce",
+            "name": "Etsy",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.etsy.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Mega e-commerce",
+            "name": "Guanxe",
+            "icon": "/img/apps/no.svg",
+            "link": "https://guanxe.com/es/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Mega e-commerce",
+            "name": "Mercado Libre",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.mercadolibre.com.ar/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Mega e-commerce",
+            "name": "Online Canarias",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.onlinecanarias.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Mega e-commerce",
+            "name": "SHEIN",
+            "icon": "/img/apps/no.svg",
+            "link": "https://es.shein.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Mega e-commerce",
+            "name": "Target",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.target.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Mega e-commerce",
+            "name": "Temu",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.temu.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Mega e-commerce",
+            "name": "Tokopedia",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.tokopedia.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Mega e-commerce",
+            "name": "trivago",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.trivago.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Mega e-commerce",
+            "name": "Vinted",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.vinted.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Mega e-commerce",
+            "name": "Zalando",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.zalando.es/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Movies-Streaming",
+            "name": "1Shows",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.1shows.nl/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Movies-Streaming",
+            "name": "345Movies",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.345movie.net/home",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Movies-Streaming",
+            "name": "actvid.rs",
+            "icon": "/img/apps/no.svg",
+            "link": "https://actvid.rs/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Movies-Streaming",
+            "name": "Aether",
+            "icon": "/img/apps/no.svg",
+            "link": "https://aether.mom/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Movies-Streaming",
+            "name": "Autoembed",
+            "icon": "/img/apps/no.svg",
+            "link": "https://watch.autoembed.cc/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Movies-Streaming",
+            "name": "Bludclart",
+            "icon": "/img/apps/no.svg",
+            "link": "https://watch.bludclart.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Movies-Streaming",
+            "name": "Cineby",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.cineby.gd/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Movies-Streaming",
+            "name": "cinecalidad.pro",
+            "icon": "/img/apps/no.svg",
+            "link": "https://cinecalidad.pro/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Movies-Streaming",
+            "name": "Cinegram",
+            "icon": "/img/apps/no.svg",
+            "link": "https://cinegram.net/home",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Movies-Streaming",
+            "name": "Cinemaos",
+            "icon": "/img/apps/no.svg",
+            "link": "https://cinemaos.tech/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Movies-Streaming",
+            "name": "FlickyStream",
+            "icon": "/img/apps/no.svg",
+            "link": "https://flickystream.ru/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Movies-Streaming",
+            "name": "FLIXER",
+            "icon": "/img/apps/no.svg",
+            "link": "https://flixer.sh/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Movies-Streaming",
+            "name": "GoMovies",
+            "icon": "/img/apps/no.svg",
+            "link": "https://gomovies.mu/home",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Movies-Streaming",
+            "name": "Heartive",
+            "icon": "/img/apps/no.svg",
+            "link": "https://heartiveloves.pages.dev/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Movies-Streaming",
+            "name": "Hexa",
+            "icon": "/img/apps/no.svg",
+            "link": "https://hexa.su/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Movies-Streaming",
+            "name": "HydraHD",
+            "icon": "/img/apps/no.svg",
+            "link": "https://hydrahd.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Movies-Streaming",
+            "name": "kindor.pro",
+            "icon": "/img/apps/no.svg",
+            "link": "https://kindor.pro/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Movies-Streaming",
+            "name": "MoviePluto",
+            "icon": "/img/apps/no.svg",
+            "link": "https://moviepluto.fun/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Movies-Streaming",
+            "name": "NEPU Stream",
+            "icon": "/img/apps/no.svg",
+            "link": "https://nepu.to/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Movies-Streaming",
+            "name": "Rive",
+            "icon": "/img/apps/no.svg",
+            "link": "https://rivestream.org/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Movies-Streaming",
+            "name": "StreamFlix",
+            "icon": "/img/apps/no.svg",
+            "link": "https://watch.streamflix.one/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Movies-Streaming",
+            "name": "The Archive",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.thearchive.tv/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Movies-Streaming",
+            "name": "VeloraTV",
+            "icon": "/img/apps/no.svg",
+            "link": "https://veloratv.ru/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Movies-Streaming",
+            "name": "WooFLix",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.wooflixtv.co/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Movies-Streaming",
+            "name": "XPrime",
+            "icon": "/img/apps/no.svg",
+            "link": "https://xprime.stream/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Music DB",
+            "name": "Every Noise at Once - 1d",
+            "icon": "/img/apps/no.svg",
+            "link": "https://everynoise.com/everynoise1d.html",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Music DB",
+            "name": "Kworb.net - All your music data needs in one place",
+            "icon": "/img/apps/no.svg",
+            "link": "https://kworb.net/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Music-scores",
+            "name": "Cifraclub",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.cifraclub.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Music-scores",
+            "name": "Flat.io",
+            "icon": "/img/apps/no.svg",
+            "link": "https://flat.io/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Music-scores",
+            "name": "Gitagram",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.gitagram.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Music-scores",
+            "name": "GProTab.net",
+            "icon": "/img/apps/no.svg",
+            "link": "https://gprotab.net/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Music-scores",
+            "name": "Guitar Dashboard - Circle of fifths",
+            "icon": "/img/apps/no.svg",
+            "link": "https://guitardashboard.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Music-scores",
+            "name": "Guitar Pro - mySongBook",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.guitar-pro.com/tabs",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Music-scores",
+            "name": "Guitar Tab Universe",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.guitartabs.cc/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Music-scores",
+            "name": "GuitareTab",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.guitaretab.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Music-scores",
+            "name": "LickLibrary - Online Guitar Lessons Library",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.licklibrary.com/learn/lessons",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Music-scores",
+            "name": "Songsterr",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.songsterr.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Music-scores",
+            "name": "Ultimate Guitar",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.ultimate-guitar.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Music-Streaming",
+            "name": "Amazon Music",
+            "icon": "/img/apps/no.svg",
+            "link": "https://music.amazon.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Music-Streaming",
+            "name": "‎Apple Music - Web Player",
+            "icon": "/img/apps/no.svg",
+            "link": "https://music.apple.com/us/new",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Music-Streaming",
+            "name": "Audible.es",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.audible.es/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Music-Streaming",
+            "name": "audio.com",
+            "icon": "/img/apps/no.svg",
+            "link": "https://audio.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Music-Streaming",
+            "name": "AudioJungle",
+            "icon": "/img/apps/no.svg",
+            "link": "https://audiojungle.net/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Music-Streaming",
+            "name": "Audiomack",
+            "icon": "/img/apps/no.svg",
+            "link": "https://audiomack.com/trending-now",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Music-Streaming",
+            "name": "Audius - trending",
+            "icon": "/img/apps/no.svg",
+            "link": "https://audius.co/trending",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Music-Streaming",
+            "name": "Deezer",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.deezer.com/us/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Music-Streaming",
+            "name": "Filmmusic.io",
+            "icon": "/img/apps/no.svg",
+            "link": "https://filmmusic.io/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Music-Streaming",
+            "name": "Free Music Archive",
+            "icon": "/img/apps/no.svg",
+            "link": "https://freemusicarchive.org/home",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Music-Streaming",
+            "name": "Jamendo Music",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.jamendo.com/start",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Music-Streaming",
+            "name": "Jango",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.jango.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Music-Streaming",
+            "name": "Mixcloud",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.mixcloud.com/discover/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Music-Streaming",
+            "name": "Qobuz",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.qobuz.com/us-en/shop",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Music-Streaming",
+            "name": "Soundcloud",
+            "icon": "/img/apps/no.svg",
+            "link": "https://soundcloud.com/charts/top",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Naval DB",
+            "name": "Marine Traffic",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.marinetraffic.com/en/ais/home/centerx:-12.0/centery:25.0/zoom:4",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Naval DB",
+            "name": "VesselFinder",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.vesselfinder.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Office",
+            "name": "AliExpress",
+            "icon": "/img/apps/aliexpress.svg",
+            "link": "https://es.aliexpress.com/",
             "tags": [
                 "mobile"
             ]
         },
         {
-            "category": "AI",
-            "name": "ElevenLabs",
-            "icon": "/img/apps/elevenlabs.svg",
-            "link": "https://elevenlabs.io/app/home",
+            "category": "Office",
+            "name": "BBVA",
+            "icon": "/img/apps/bbva.svg",
+            "link": "https://www.bbva.es/personas.html",
+            "tags": [
+                "mobile"
+            ]
+        },
+        {
+            "category": "Office",
+            "name": "draw.io",
+            "icon": "/img/apps/drawio.svg",
+            "link": "https://www.drawio.com/",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "Office",
+            "name": "LibreOffice",
+            "icon": "/img/apps/libreoffice.svg",
+            "link": "https://www.libreoffice.org/",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "Office",
+            "name": "MEGA",
+            "icon": "/img/apps/mega.svg",
+            "link": "https://mega.io/",
+            "tags": [
+                "mobile"
+            ]
+        },
+        {
+            "category": "Office",
+            "name": "MyRecipeBox",
+            "icon": "/img/apps/myrecipebox.svg",
+            "link": "https://www.myrecipebox.app/en/",
+            "tags": [
+                "mobile"
+            ]
+        },
+        {
+            "category": "Office",
+            "name": "Pandoc",
+            "icon": "/img/apps/pandoc.svg",
+            "link": "https://pandoc.org/",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "OS-directory",
+            "name": "DistroWatch",
+            "icon": "/img/apps/no.svg",
+            "link": "https://distrowatch.com/",
             "tags": [
                 "web"
             ]
         },
         {
-            "category": "AI",
-            "name": "Magnific",
-            "icon": "/img/apps/magnific.svg",
-            "link": "https://www.magnific.com/app",
+            "category": "OS-directory",
+            "name": "Eylenburg's Tech Website",
+            "icon": "/img/apps/no.svg",
+            "link": "https://eylenburg.github.io/",
             "tags": [
                 "web"
             ]
         },
         {
-            "category": "AI",
-            "name": "Gemini",
-            "icon": "/img/apps/gemini.svg",
-            "link": "https://gemini.google.com/app",
+            "category": "Phones DB",
+            "name": "GSMArena.com - mobile phone reviews",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.gsmarena.com/",
             "tags": [
                 "web"
             ]
         },
         {
-            "category": "AI",
-            "name": "OpenRouter",
-            "icon": "/img/apps/openrouter.svg",
-            "link": "https://openrouter.ai/",
+            "category": "Phones DB",
+            "name": "Kimovil",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.kimovil.com/es/",
             "tags": [
                 "web"
             ]
         },
         {
-            "category": "AI",
-            "name": "Replicate Collections",
-            "icon": "/img/apps/replicate.svg",
-            "link": "https://replicate.com/collections/",
+            "category": "Phones DB",
+            "name": "Smartprix - Best Online Comparison Shopping",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.smartprix.com/",
             "tags": [
                 "web"
             ]
         },
         {
-            "category": "Design",
-            "name": "Excalidraw",
-            "icon": "/img/apps/excalidraw.svg",
-            "link": "https://excalidraw.com/",
+            "category": "Pirate DB",
+            "name": "Artista Pirata",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.artistapirata.com/",
             "tags": [
                 "web"
             ]
         },
         {
-            "category": "Design",
-            "name": "Pencil Project",
-            "icon": "/img/apps/pencil.svg",
-            "link": "https://www.pencil.dev/",
+            "category": "Pirate DB",
+            "name": "Audio wareZ",
+            "icon": "/img/apps/no.svg",
+            "link": "https://audioz.download/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Pirate DB",
+            "name": "Cracked.io",
+            "icon": "/img/apps/no.svg",
+            "link": "https://cracked.io/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Pirate DB",
+            "name": "Discografiascompletas",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.discografiascompletas.org/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Pirate DB",
+            "name": "FitGirl Repacks",
+            "icon": "/img/apps/no.svg",
+            "link": "https://fitgirl-repacks.site/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Pirate DB",
+            "name": "freeflacmusic.com",
+            "icon": "/img/apps/no.svg",
+            "link": "https://album.freeflacmusic.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Pirate DB",
+            "name": "hotparty.club",
+            "icon": "/img/apps/no.svg",
+            "link": "https://hotparty.club/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Pirate DB",
+            "name": "jazzmusic.cool",
+            "icon": "/img/apps/no.svg",
+            "link": "https://jazzmusic.cool/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Pirate DB",
+            "name": "Luckystudio4u",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.luckystudio4u.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Pirate DB",
+            "name": "Microsoft Activation Scripts (MAS) | MAS",
+            "icon": "/img/apps/no.svg",
+            "link": "https://massgrave.dev/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Pirate DB",
+            "name": "NexusGames",
+            "icon": "/img/apps/no.svg",
+            "link": "https://nexus-games.net/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Pirate DB",
+            "name": "Programasvirtualespc.net",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.programasvirtualespc.net/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Pirate DB",
+            "name": "Skidrow & Reloaded",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.skidrowreloaded.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Premium Streaming",
+            "name": "Apple TV+",
+            "icon": "/img/apps/no.svg",
+            "link": "https://tv.apple.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Premium Streaming",
+            "name": "Filmin",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.filmin.es/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Premium Streaming",
+            "name": "HBO Max",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.hbomax.com/es/es",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Premium Streaming",
+            "name": "MGM+",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.mgmplus.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Premium Streaming",
+            "name": "Movistar+",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.movistarplus.es/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Premium Streaming",
+            "name": "Paramount+",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.paramountplus.com/intl/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Premium Streaming",
+            "name": "Plex TV",
+            "icon": "/img/apps/no.svg",
+            "link": "https://watch.plex.tv/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Premium Streaming",
+            "name": "Rakuten TV",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.rakuten.tv/es",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Premium Streaming",
+            "name": "SkyShowtime",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.skyshowtime.com/es",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Productivity",
+            "name": "Notion",
+            "icon": "/img/apps/notion.svg",
+            "link": "https://www.notion.so/",
             "tags": [
                 "desktop",
+                "mobile",
                 "web"
             ]
         },
         {
-            "category": "Design",
-            "name": "Google Stitch",
-            "icon": "/img/apps/stitch.svg",
-            "link": "https://stitch.withgoogle.com/",
+            "category": "Productivity",
+            "name": "Obsidian",
+            "icon": "/img/apps/obsidian.svg",
+            "link": "https://obsidian.md/",
             "tags": [
+                "desktop",
+                "mobile"
+            ]
+        },
+        {
+            "category": "Productivity",
+            "name": "RecipeSage",
+            "icon": "/img/apps/recipesage.svg",
+            "link": "https://recipesage.com/#/list/main",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Products DB",
+            "name": "RTINGS - Reviews and Ratings",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.rtings.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Products DB",
+            "name": "Versus | Compare everything",
+            "icon": "/img/apps/no.svg",
+            "link": "https://versus.com/en",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Radio",
+            "name": "BBC Radio - Orbit",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.bbc.co.uk/orbitmusic",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Radio",
+            "name": "Internet Radio",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.internet-radio.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Radio",
+            "name": "last.fm",
+            "icon": "/img/apps/no.svg",
+            "link": "https://last.fm/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Radio",
+            "name": "radio-browser.info",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.radio-browser.info/map",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Radio",
+            "name": "radio.net",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.radio.net/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Radio",
+            "name": "TreesRadio",
+            "icon": "/img/apps/no.svg",
+            "link": "https://treesradio.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Radio",
+            "name": "TuneIn",
+            "icon": "/img/apps/no.svg",
+            "link": "https://tunein.com/radio/home/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Reading",
+            "name": "Calibre",
+            "icon": "/img/apps/calibre.svg",
+            "link": "https://calibre-ebook.com/",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "Reading",
+            "name": "Folo",
+            "icon": "/img/apps/folo.svg",
+            "link": "https://app.folo.is/timeline/articles/all/pending",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Reading",
+            "name": "Goodreads",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.goodreads.com/",
+            "tags": [
+                "mobile",
+                "web"
+            ]
+        },
+        {
+            "category": "Reading",
+            "name": "Koodo-Reader",
+            "icon": "/img/apps/koodoreader.svg",
+            "link": "https://github.com/koodo-reader/koodo-reader",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "Resale",
+            "name": "Cash Converters Canarias",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.cashconverters.es/ic/es_ES/comprar/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Resale",
+            "name": "Facebook Marketplace",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.facebook.com/marketplace/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Resale",
+            "name": "MILANUNCIOS",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.milanuncios.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Resale",
+            "name": "RefurbMe - Apple reacondicioando",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.refurb.me/es",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Resale",
+            "name": "ThredUp",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.thredup.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Resale",
+            "name": "Wallapop",
+            "icon": "/img/apps/no.svg",
+            "link": "https://es.wallapop.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Reviews DB",
+            "name": "TasteDive",
+            "icon": "/img/apps/no.svg",
+            "link": "https://tastedive.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Routes DB",
+            "name": "Komoot",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.komoot.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Science",
+            "name": "Google Earth",
+            "icon": "/img/apps/google-earth.svg",
+            "link": "https://www.google.com/earth/about/versions/#download-pro",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "Science",
+            "name": "Knots 3D",
+            "icon": "/img/apps/knots-3d.svg",
+            "link": "https://knots3d.com/en/complete-list-of-knots",
+            "tags": [
+                "mobile"
+            ]
+        },
+        {
+            "category": "Science",
+            "name": "Periodic Table",
+            "icon": "/img/apps/periodic-table.svg",
+            "link": "https://periodic-table.tech/",
+            "tags": [
+                "mobile"
+            ]
+        },
+        {
+            "category": "semantic-dictionary",
+            "name": "BabelNet",
+            "icon": "/img/apps/no.svg",
+            "link": "https://babelnet.org/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "semantic-dictionary",
+            "name": "ConceptNet",
+            "icon": "/img/apps/no.svg",
+            "link": "https://conceptnet.io/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "semantic-dictionary",
+            "name": "Lexipedia",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.lexipedia.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "semantic-dictionary",
+            "name": "Wikidata",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.wikidata.org/wiki/Wikidata:Main_Page",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Shoes DB",
+            "name": "Running Warehouse Europe",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.runningwarehouse.eu/?lang=es",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Shoes DB",
+            "name": "RunRepeat",
+            "icon": "/img/apps/no.svg",
+            "link": "https://runrepeat.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Shop",
+            "name": "Etsy Spain",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.etsy.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Shop",
+            "name": "REI: A Life Outdoors is a Life Well Lived | REI Co-op",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.rei.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Shop",
+            "name": "ZARA Spain",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.zara.com/es/en/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Social",
+            "name": "Instagram",
+            "icon": "/img/apps/instagram.svg",
+            "link": "https://www.instagram.com/",
+            "tags": [
+                "mobile",
                 "web"
             ]
         },
@@ -559,9 +4126,9 @@
         },
         {
             "category": "Social",
-            "name": "Instagram",
-            "icon": "/img/apps/instagram.svg",
-            "link": "https://www.instagram.com/",
+            "name": "Reddit",
+            "icon": "/img/apps/reddit.svg",
+            "link": "https://www.reddit.com/",
             "tags": [
                 "mobile",
                 "web"
@@ -578,59 +4145,830 @@
             ]
         },
         {
-            "category": "Communication",
-            "name": "WhatsApp Web",
-            "icon": "/img/apps/whatsapp.svg",
-            "link": "https://web.whatsapp.com/",
+            "category": "Social Blog",
+            "name": "Asura Scans - Read Comics",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.asurascans.com/",
             "tags": [
                 "web"
             ]
         },
         {
-            "category": "Maps",
-            "name": "AllTrails",
-            "icon": "/img/apps/alltrails.svg",
-            "link": "https://www.alltrails.com/",
-            "tags": [
-                "mobile",
-                "web"
-            ]
-        },
-        {
-            "category": "Maps",
-            "name": "Google Maps",
-            "icon": "/img/apps/google-maps.svg",
-            "link": "https://www.google.com/maps/@0,0,3z?entry=ttu&g_ep=EgoyMDI1MDkyNC4wIKXMDSoASAFQAw%3D%3D",
-            "tags": [
-                "mobile",
-                "web"
-            ]
-        },
-        {
-            "category": "Maps",
-            "name": "Google Earth Web",
-            "icon": "/img/apps/google-earth.svg",
-            "link": "https://earth.google.com/web/@36.23919503,-6.44153304,0a,4589641.05349735d,35y,0h,0t,0r/data=CgRCAggCOgMKATBCAggASg0I____________ARAA?authuser=0",
+            "category": "Social Blog",
+            "name": "Medium",
+            "icon": "/img/apps/no.svg",
+            "link": "https://medium.com/",
             "tags": [
                 "web"
             ]
         },
         {
-            "category": "Maps",
-            "name": "OpenStreetMap",
-            "icon": "/img/apps/openstreetmap.svg",
-            "link": "https://www.openstreetmap.org/#map=3/28.69/0.09",
+            "category": "Social Blog",
+            "name": "Substack",
+            "icon": "/img/apps/no.svg",
+            "link": "https://substack.com/",
             "tags": [
                 "web"
             ]
         },
         {
-            "category": "Maps",
-            "name": "Wikiloc",
-            "icon": "/img/apps/wikiloc.svg",
-            "link": "https://www.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&page=1",
+            "category": "Social Trending",
+            "name": "Bluesky",
+            "icon": "/img/apps/no.svg",
+            "link": "https://bsky.app/",
             "tags": [
-                "mobile",
+                "web"
+            ]
+        },
+        {
+            "category": "Social Trending",
+            "name": "Facebook",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.facebook.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Social Trending",
+            "name": "Google Meet",
+            "icon": "/img/apps/no.svg",
+            "link": "https://meet.google.com/landing",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Social Trending",
+            "name": "Meetup",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.meetup.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Social Trending",
+            "name": "Microsoft Teams",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.microsoft.com/en-us/microsoft-teams/free",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Social Trending",
+            "name": "Pinterest",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.pinterest.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Social Trending",
+            "name": "QQ",
+            "icon": "/img/apps/no.svg",
+            "link": "https://im.qq.com/index/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Social Trending",
+            "name": "Telegram web",
+            "icon": "/img/apps/no.svg",
+            "link": "https://web.telegram.org/a/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Social Trending",
+            "name": "Tinder",
+            "icon": "/img/apps/no.svg",
+            "link": "https://tinder.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Social Trending",
+            "name": "WeChat",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.wechat.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Social-extra",
+            "name": "Element",
+            "icon": "/img/apps/no.svg",
+            "link": "https://element.io/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Social-extra",
+            "name": "fediverse.party",
+            "icon": "/img/apps/no.svg",
+            "link": "https://fediverse.party/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Social-extra",
+            "name": "Flickr",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.flickr.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Social-extra",
+            "name": "Pixelfed",
+            "icon": "/img/apps/no.svg",
+            "link": "https://pixelfed.org/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Social-extra",
+            "name": "Pleroma",
+            "icon": "/img/apps/no.svg",
+            "link": "https://pleroma.social/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Social-extra",
+            "name": "Quora",
+            "icon": "/img/apps/no.svg",
+            "link": "https://es.quora.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Social-extra",
+            "name": "Threads",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.threads.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Social-extra",
+            "name": "Tumblr",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.tumblr.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Social-extra",
+            "name": "VK",
+            "icon": "/img/apps/no.svg",
+            "link": "https://vk.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Social-extra",
+            "name": "Wire",
+            "icon": "/img/apps/no.svg",
+            "link": "https://wire.com/en/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Software DB",
+            "name": "CVE: Common Vulnerabilities and Exposures",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.cve.org/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Software DB",
+            "name": "Exploit Database",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.exploit-db.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "software-list",
+            "name": "Alternative.me",
+            "icon": "/img/apps/no.svg",
+            "link": "https://alternative.me/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "software-list",
+            "name": "App Stacks",
+            "icon": "/img/apps/no.svg",
+            "link": "https://appstacks.club/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "software-list",
+            "name": "AppAgg",
+            "icon": "/img/apps/no.svg",
+            "link": "https://appagg.com/?hl=en",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "software-list",
+            "name": "Appmus",
+            "icon": "/img/apps/no.svg",
+            "link": "https://appmus.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "software-list",
+            "name": "DB Engines",
+            "icon": "/img/apps/no.svg",
+            "link": "https://db-engines.com/en/ranking",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "software-list",
+            "name": "FileInfo",
+            "icon": "/img/apps/no.svg",
+            "link": "https://fileinfo.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "software-list",
+            "name": "GitHub Trend",
+            "icon": "/img/apps/no.svg",
+            "link": "https://github.com/trending",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "software-list",
+            "name": "Map of GitHub",
+            "icon": "/img/apps/no.svg",
+            "link": "https://anvaka.github.io/map-of-github/#2/0/0",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "software-list",
+            "name": "PRISM Break",
+            "icon": "/img/apps/no.svg",
+            "link": "https://prism-break.org/en/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "software-list",
+            "name": "Privacy Tools",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.privacytools.io/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "software-list",
+            "name": "Product Hunt",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.producthunt.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "software-list",
+            "name": "PYPL",
+            "icon": "/img/apps/no.svg",
+            "link": "https://pypl.github.io/PYPL.html",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "software-list",
+            "name": "SaaSHub",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.saashub.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "software-list",
+            "name": "Slant - Tags",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.slant.co/tags/development",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "software-list",
+            "name": "Softpedia",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.softpedia.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "software-list",
+            "name": "web-platform-tests dashboard",
+            "icon": "/img/apps/no.svg",
+            "link": "https://wpt.fyi/results/?label=experimental&label=master&aligned",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Software-repository",
+            "name": "‎App Store - iPhone",
+            "icon": "/img/apps/no.svg",
+            "link": "https://apps.apple.com/us/iphone/today",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Software-repository",
+            "name": "App Store - ‎iPhone Top Games & Apps",
+            "icon": "/img/apps/no.svg",
+            "link": "https://apps.apple.com/us/iphone/charts",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Software-repository",
+            "name": "‎App Store - mac",
+            "icon": "/img/apps/no.svg",
+            "link": "https://apps.apple.com/us/mac/discover",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Software-repository",
+            "name": "AppGallery - Huawei",
+            "icon": "/img/apps/no.svg",
+            "link": "https://appgallery.huawei.com/Featured",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Software-repository",
+            "name": "AppimageHub",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.appimagehub.com/browse",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Software-repository",
+            "name": "Aptoide",
+            "icon": "/img/apps/no.svg",
+            "link": "https://en.aptoide.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Software-repository",
+            "name": "Arch Linux Packages",
+            "icon": "/img/apps/no.svg",
+            "link": "https://archlinux.org/packages/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Software-repository",
+            "name": "Aurora OSS",
+            "icon": "/img/apps/no.svg",
+            "link": "https://auroraoss.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Software-repository",
+            "name": "Chocolatey Software | Packages",
+            "icon": "/img/apps/no.svg",
+            "link": "https://community.chocolatey.org/packages",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Software-repository",
+            "name": "DanStore | The Ultimate Store Explorer",
+            "icon": "/img/apps/no.svg",
+            "link": "https://danstore-ms.vercel.app/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Software-repository",
+            "name": "Debian stable",
+            "icon": "/img/apps/no.svg",
+            "link": "https://packages.debian.org/stable/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Software-repository",
+            "name": "F-Droid",
+            "icon": "/img/apps/no.svg",
+            "link": "https://f-droid.org/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Software-repository",
+            "name": "Fedora Packages",
+            "icon": "/img/apps/no.svg",
+            "link": "https://packages.fedoraproject.org/index-static.html",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Software-repository",
+            "name": "Flathub",
+            "icon": "/img/apps/no.svg",
+            "link": "https://flathub.org/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Software-repository",
+            "name": "Google Play Store",
+            "icon": "/img/apps/no.svg",
+            "link": "https://play.google.com/store/apps",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Software-repository",
+            "name": "Homebrew Formulae",
+            "icon": "/img/apps/no.svg",
+            "link": "https://formulae.brew.sh/formula/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Software-repository",
+            "name": "homebrew-cask",
+            "icon": "/img/apps/no.svg",
+            "link": "https://formulae.brew.sh/cask/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Software-repository",
+            "name": "IzzyOnDroid F-Droid Repository",
+            "icon": "/img/apps/no.svg",
+            "link": "https://apt.izzysoft.de/fdroid/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Software-repository",
+            "name": "Microsoft Apps",
+            "icon": "/img/apps/no.svg",
+            "link": "https://apps.microsoft.com/home?hl=en-us&gl=US",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Software-repository",
+            "name": "microsoft/winget-pkgs",
+            "icon": "/img/apps/no.svg",
+            "link": "https://github.com/microsoft/winget-pkgs",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Software-repository",
+            "name": "openSUSE Software",
+            "icon": "/img/apps/no.svg",
+            "link": "https://software.opensuse.org/packages",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Software-repository",
+            "name": "OS Package Generator",
+            "icon": "/img/apps/no.svg",
+            "link": "https://david7ce.github.io/toolbox-installer/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Software-repository",
+            "name": "pkgs.org",
+            "icon": "/img/apps/no.svg",
+            "link": "https://pkgs.org/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Software-repository",
+            "name": "PortableApps",
+            "icon": "/img/apps/no.svg",
+            "link": "https://portableapps.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Software-repository",
+            "name": "Repology",
+            "icon": "/img/apps/no.svg",
+            "link": "https://repology.org/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Software-repository",
+            "name": "TuxMate - Linux bulk app installer",
+            "icon": "/img/apps/no.svg",
+            "link": "https://tuxmate.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Software-repository",
+            "name": "winstall",
+            "icon": "/img/apps/no.svg",
+            "link": "https://winstall.app/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Source-Code",
+            "name": "Beanstalk",
+            "icon": "/img/apps/no.svg",
+            "link": "https://beanstalkapp.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Source-Code",
+            "name": "Bitbucket",
+            "icon": "/img/apps/no.svg",
+            "link": "https://bitbucket.org/repo/all/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Source-Code",
+            "name": "Cloudflare",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.cloudflare.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Source-Code",
+            "name": "Codeberg.org",
+            "icon": "/img/apps/no.svg",
+            "link": "https://codeberg.org/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Source-Code",
+            "name": "dinahosting",
+            "icon": "/img/apps/no.svg",
+            "link": "https://panel.dinahosting.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Source-Code",
+            "name": "Gitea",
+            "icon": "/img/apps/no.svg",
+            "link": "https://gitea.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Source-Code",
+            "name": "GitLab",
+            "icon": "/img/apps/no.svg",
+            "link": "https://about.gitlab.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Source-Code",
+            "name": "Hostinger.com",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.hostinger.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Source-Code",
+            "name": "Hugging Face",
+            "icon": "/img/apps/no.svg",
+            "link": "https://huggingface.co/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Source-Code",
+            "name": "itch.io",
+            "icon": "/img/apps/no.svg",
+            "link": "https://itch.io/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Source-Code",
+            "name": "Kaggle",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.kaggle.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Source-Code",
+            "name": "Launchpad",
+            "icon": "/img/apps/no.svg",
+            "link": "https://launchpad.net/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Source-Code",
+            "name": "Netlify",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.netlify.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Source-Code",
+            "name": "SourceForge",
+            "icon": "/img/apps/no.svg",
+            "link": "https://sourceforge.net/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Source-Code",
+            "name": "sourcehut",
+            "icon": "/img/apps/no.svg",
+            "link": "https://sourcehut.org/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Source-Code",
+            "name": "Vercel",
+            "icon": "/img/apps/no.svg",
+            "link": "https://vercel.com/login",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Sports-Streaming",
+            "name": "DaddyLiveHD",
+            "icon": "/img/apps/no.svg",
+            "link": "https://dlhd.link/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Sports-Streaming",
+            "name": "NVB Steam",
+            "icon": "/img/apps/no.svg",
+            "link": "https://ntvstream.cx/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Sports-Streaming",
+            "name": "PELOTA LIBRE TV",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.pelotalibrevivo.net/home.php",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Sports-Streaming",
+            "name": "PIRLO TV",
+            "icon": "/img/apps/no.svg",
+            "link": "https://pirlotvdh.pl/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Sports-Streaming",
+            "name": "StreamSports99",
+            "icon": "/img/apps/no.svg",
+            "link": "https://streamsports99.su/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Sports-Streaming",
+            "name": "TopSports",
+            "icon": "/img/apps/no.svg",
+            "link": "https://topsports.click/pelotalibre/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Sports-Streaming",
+            "name": "Watch Footy",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.watchfooty.st/en",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Sports-Streaming",
+            "name": "Watch Sports",
+            "icon": "/img/apps/no.svg",
+            "link": "https://watchsports.to/",
+            "tags": [
                 "web"
             ]
         },
@@ -676,16 +5014,6 @@
         },
         {
             "category": "Streaming",
-            "name": "Netflix",
-            "icon": "/img/apps/netflix.svg",
-            "link": "https://www.netflix.com/es-en/",
-            "tags": [
-                "mobile",
-                "web"
-            ]
-        },
-        {
-            "category": "Streaming",
             "name": "Movistar Plus+",
             "icon": "/img/apps/movistar-plus.svg",
             "link": "https://www.movistarplus.es/",
@@ -696,9 +5024,9 @@
         },
         {
             "category": "Streaming",
-            "name": "Prime Video",
-            "icon": "/img/apps/prime-video.svg",
-            "link": "https://www.primevideo.com/offers/nonprimehomepage",
+            "name": "Netflix",
+            "icon": "/img/apps/netflix.svg",
+            "link": "https://www.netflix.com/es-en/",
             "tags": [
                 "mobile",
                 "web"
@@ -720,6 +5048,16 @@
             "name": "Pluto TV",
             "icon": "/img/apps/pluto-tv.svg",
             "link": "https://pluto.tv/es/live-tv/5f984f4a09e92d0007d74647?lang=en",
+            "tags": [
+                "mobile",
+                "web"
+            ]
+        },
+        {
+            "category": "Streaming",
+            "name": "Prime Video",
+            "icon": "/img/apps/prime-video.svg",
+            "link": "https://www.primevideo.com/offers/nonprimehomepage",
             "tags": [
                 "mobile",
                 "web"
@@ -762,38 +5100,1136 @@
             ]
         },
         {
-            "category": "Media",
-            "name": "Odysee",
-            "icon": "/img/apps/odysee.svg",
-            "link": "https://odysee.com/",
+            "category": "Supermarket",
+            "name": "Alcampo",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.compraonline.alcampo.es/",
             "tags": [
                 "web"
             ]
         },
         {
-            "category": "Media",
-            "name": "Radio Garden",
-            "icon": "/img/apps/radio-garden.svg",
-            "link": "https://radio.garden/balloon-ride",
+            "category": "Supermarket",
+            "name": "Carrefour",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.carrefour.es/",
             "tags": [
                 "web"
             ]
         },
         {
-            "category": "Media",
-            "name": "Twitch",
-            "icon": "/img/apps/twitch.svg",
-            "link": "https://www.twitch.tv/",
+            "category": "Supermarket",
+            "name": "HiperDino",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.hiperdino.es/c9495/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Supermarket",
+            "name": "Kroger",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.kroger.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Supermarket",
+            "name": "Lidl",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.lidl.es/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Supermarket",
+            "name": "Mercadona",
+            "icon": "/img/apps/no.svg",
+            "link": "https://tienda.mercadona.es/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Supermarket",
+            "name": "Tesco",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.tesco.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Supermarket",
+            "name": "Walmart",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.walmart.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "System",
+            "name": "Alacritty",
+            "icon": "/img/apps/alacritty.svg",
+            "link": "https://alacritty.org/",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "System",
+            "name": "BleachBit",
+            "icon": "/img/apps/bleachbit.svg",
+            "link": "https://www.bleachbit.org/",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "System",
+            "name": "Cryptomator",
+            "icon": "/img/apps/cryptomator.svg",
+            "link": "https://cryptomator.org/",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "System",
+            "name": "Git",
+            "icon": "/img/apps/git.svg",
+            "link": "https://git-scm.com/",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "System",
+            "name": "Konsole",
+            "icon": "/img/apps/konsole.svg",
+            "link": "https://konsole.kde.org/",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "System",
+            "name": "meld",
+            "icon": "/img/apps/meld.svg",
+            "link": "https://meldmerge.org/",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "System",
+            "name": "Nmap",
+            "icon": "/img/apps/nmap.svg",
+            "link": "https://nmap.org/",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "System",
+            "name": "Starship",
+            "icon": "/img/apps/starship.svg",
+            "link": "https://starship.rs/",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "System",
+            "name": "Ventoy",
+            "icon": "/img/apps/ventoy.svg",
+            "link": "https://www.ventoy.net/en/index.html",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "System",
+            "name": "VeraCrypt",
+            "icon": "/img/apps/veracrypt.svg",
+            "link": "https://veracrypt.fr/en/Home.html",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "Torrent Indexer",
+            "name": "1337x",
+            "icon": "/img/apps/no.svg",
+            "link": "http://1337x.to/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Torrent Indexer",
+            "name": "BTDigg DHT",
+            "icon": "/img/apps/no.svg",
+            "link": "https://btdig.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Torrent Indexer",
+            "name": "dontorrent",
+            "icon": "/img/apps/no.svg",
+            "link": "https://dontorrent.equipment/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Torrent Indexer",
+            "name": "Elitetorrent",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.elitetorrent.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Torrent Indexer",
+            "name": "esmeraldatorrent",
+            "icon": "/img/apps/no.svg",
+            "link": "https://esmeraldatorrent.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Torrent Indexer",
+            "name": "EXT Torrents",
+            "icon": "/img/apps/no.svg",
+            "link": "https://ext.to/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Torrent Indexer",
+            "name": "GloTorrents",
+            "icon": "/img/apps/no.svg",
+            "link": "https://glodls.to/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Torrent Indexer",
+            "name": "Knaben Database",
+            "icon": "/img/apps/no.svg",
+            "link": "https://knaben.org/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Torrent Indexer",
+            "name": "MagnetDL",
+            "icon": "/img/apps/no.svg",
+            "link": "http://www.magnetdl.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Torrent Indexer",
+            "name": "naranjatorrent",
+            "icon": "/img/apps/no.svg",
+            "link": "https://naranjatorrent.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Torrent Indexer",
+            "name": "PediaTorrent",
+            "icon": "/img/apps/no.svg",
+            "link": "https://pediatorrent.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Torrent Indexer",
+            "name": "RuTracker.org",
+            "icon": "/img/apps/no.svg",
+            "link": "https://rutracker.org/forum/index.php",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Torrent Indexer",
+            "name": "Snowfl",
+            "icon": "/img/apps/no.svg",
+            "link": "https://snowfl.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Torrent Indexer",
+            "name": "ThePirateBay",
+            "icon": "/img/apps/no.svg",
+            "link": "https://thepiratebay.org/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Torrent Indexer",
+            "name": "TomaDivx",
+            "icon": "/img/apps/no.svg",
+            "link": "https://tomadivx.net/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Torrent Indexer",
+            "name": "Unblocked",
+            "icon": "/img/apps/no.svg",
+            "link": "https://unblock-it.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Torrent Indexer",
+            "name": "Unblockit",
+            "icon": "/img/apps/no.svg",
+            "link": "https://unblockit.pages.dev/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Torrent Indexer",
+            "name": "YourBittorrent",
+            "icon": "/img/apps/no.svg",
+            "link": "https://yourbittorrent.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Torrent Indexer",
+            "name": "YTS",
+            "icon": "/img/apps/no.svg",
+            "link": "http://yts.lt/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Torrent Indexer",
+            "name": "YTSMovies",
+            "icon": "/img/apps/no.svg",
+            "link": "https://yts.rs/browse-movies",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Torrent Indexer",
+            "name": "Zooqle",
+            "icon": "/img/apps/no.svg",
+            "link": "https://zooqle.skin/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Travel-agency",
+            "name": "Airbnb",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.airbnb.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Travel-agency",
+            "name": "Booking.com",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.booking.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Travel-agency",
+            "name": "DirectHotels.com",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.directhotels.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Travel-agency",
+            "name": "Expedia Travel",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.expedia.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Travel-agency",
+            "name": "Glamping Hub",
+            "icon": "/img/apps/no.svg",
+            "link": "https://glampinghub.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Travel-agency",
+            "name": "HomeExchange",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.homeexchange.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Travel-agency",
+            "name": "HomeToGo",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.hometogo.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Travel-agency",
+            "name": "Hopper",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.hopper.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Travel-agency",
+            "name": "KAYAK",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.kayak.es/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Travel-agency",
+            "name": "Kid & Coe",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.kidandcoe.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Travel-agency",
+            "name": "Priceline.com",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.priceline.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Travel-agency",
+            "name": "Top10.com",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.top10.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Travel-agency",
+            "name": "Viator",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.viator.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Travel-agency",
+            "name": "Vrbo",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.vrbo.com/es-es/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "TV DB",
+            "name": "AniList",
+            "icon": "/img/apps/no.svg",
+            "link": "https://anilist.co/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "TV DB",
+            "name": "Google TV",
+            "icon": "/img/apps/no.svg",
+            "link": "https://tv.google/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "TV DB",
+            "name": "JustWatch",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.justwatch.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "TV DB",
+            "name": "Programación Atresplayer",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.atresplayer.com/programacion/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "TV DB",
+            "name": "Programación TV en EL PAÍS",
+            "icon": "/img/apps/no.svg",
+            "link": "https://programacion-tv.elpais.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "TV DB",
+            "name": "Rotten Tomatoes",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.rottentomatoes.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "TV DB",
+            "name": "Simkl",
+            "icon": "/img/apps/no.svg",
+            "link": "https://simkl.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "TV DB",
+            "name": "SincroGuia TV",
+            "icon": "/img/apps/no.svg",
+            "link": "https://sincroguia-tv.expansion.com/programacion-tv",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "TV DB",
+            "name": "There's nothing to watch",
+            "icon": "/img/apps/no.svg",
+            "link": "https://nothing-to-watch.port80.ch/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "TV DB",
+            "name": "TheTVDB",
+            "icon": "/img/apps/no.svg",
+            "link": "https://thetvdb.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "TV DB",
+            "name": "TMDB",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.themoviedb.org/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "TV DB",
+            "name": "TVguia.es",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.tvguia.es/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "TV Platform",
+            "name": "Easy Web TV - Countries",
+            "icon": "/img/apps/no.svg",
+            "link": "https://zhangboheng.github.io/Easy-Web-TV-M3u8/catalogues/counplay.html?tab=es&title=Spain",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "TV Platform",
+            "name": "Famelack",
+            "icon": "/img/apps/no.svg",
+            "link": "https://famelack.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "TV Platform",
+            "name": "Jackal",
+            "icon": "/img/apps/no.svg",
+            "link": "http://jackal.surge.sh/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "TV Platform",
+            "name": "jest.one TV",
+            "icon": "/img/apps/no.svg",
+            "link": "https://tv.jest.one/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "TV Platform",
+            "name": "Photocall.tv",
+            "icon": "/img/apps/no.svg",
+            "link": "https://photocalltv.org/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "TV Platform",
+            "name": "RgShows",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.rgshows.ru/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "TV Platform",
+            "name": "RgShows - LiveTV",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.rgshows.ru/livetv/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "TV Platform",
+            "name": "RTVE Play",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.rtve.es/play/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "TV Platform",
+            "name": "Tubi",
+            "icon": "/img/apps/no.svg",
+            "link": "https://gdpr.tubi.tv/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Utility",
+            "name": "ActivityWatch",
+            "icon": "/img/apps/activitywatch.svg",
+            "link": "https://activitywatch.net/",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "Utility",
+            "name": "Bitwarden",
+            "icon": "/img/apps/bitwarden.svg",
+            "link": "https://bitwarden.com/",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "Utility",
+            "name": "DeepL",
+            "icon": "/img/apps/deepl.svg",
+            "link": "https://www.deepl.com/translator",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "Utility",
+            "name": "Flameshot",
+            "icon": "/img/apps/flameshot.svg",
+            "link": "https://flameshot.org/",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "Utility",
+            "name": "KeePassXC",
+            "icon": "/img/apps/keepassxc.svg",
+            "link": "https://keepassxc.org/",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "Utility",
+            "name": "OpenRGB",
+            "icon": "/img/apps/openrgb.svg",
+            "link": "https://openrgb.org/",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "Utility",
+            "name": "RustDesk",
+            "icon": "/img/apps/rustdesk.svg",
+            "link": "https://rustdesk.com/",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "Utility",
+            "name": "TeamViewer",
+            "icon": "/img/apps/teamviewer.svg",
+            "link": "https://www.teamviewer.com/en/",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "Utility",
+            "name": "Weawow",
+            "icon": "/img/apps/weawow.svg",
+            "link": "https://weawow.com/i/aboutus",
+            "tags": [
+                "mobile"
+            ]
+        },
+        {
+            "category": "Video",
+            "name": "DaVinci Resolve",
+            "icon": "/img/apps/davinci-resolve.svg",
+            "link": "https://www.blackmagicdesign.com/products/davinciresolve",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "Video",
+            "name": "FFmpeg",
+            "icon": "/img/apps/ffmpeg.svg",
+            "link": "https://ffmpeg.org/",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "Video",
+            "name": "IPTVnator",
+            "icon": "/img/apps/iptvnator.svg",
+            "link": "https://iptvnator.vercel.app/",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "Video",
+            "name": "Kdenlive",
+            "icon": "/img/apps/kdenlive.svg",
+            "link": "https://kdenlive.org/en/",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "Video",
+            "name": "Kodi",
+            "icon": "/img/apps/kodi.svg",
+            "link": "https://kodi.tv/",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "Video",
+            "name": "LibreTube",
+            "icon": "/img/apps/libretube.svg",
+            "link": "https://libretube.dev/",
+            "tags": [
+                "mobile"
+            ]
+        },
+        {
+            "category": "Video",
+            "name": "NewPipe",
+            "icon": "/img/apps/newpipe.svg",
+            "link": "https://newpipe.net/",
+            "tags": [
+                "mobile"
+            ]
+        },
+        {
+            "category": "Video",
+            "name": "Stremio",
+            "icon": "/img/apps/stremio.svg",
+            "link": "https://www.stremio.com/",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "Video Sharing",
+            "name": "bilibili",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.bilibili.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Video Sharing",
+            "name": "Dailymotion",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.dailymotion.com/es",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Video Sharing",
+            "name": "Kick",
+            "icon": "/img/apps/no.svg",
+            "link": "https://kick.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Video Sharing",
+            "name": "NicoVideo",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.nicovideo.jp/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Video Sharing",
+            "name": "NOAA Ocean Exploration Video",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.ncei.noaa.gov/access/ocean-exploration/video/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Video Sharing",
+            "name": "OK.ru",
+            "icon": "/img/apps/no.svg",
+            "link": "https://ok.ru/video",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Video Sharing",
+            "name": "Peertube",
+            "icon": "/img/apps/no.svg",
+            "link": "https://peertube.tv/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Video Sharing",
+            "name": "Rokfin",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.rokfin.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Video Sharing",
+            "name": "Rumble",
+            "icon": "/img/apps/no.svg",
+            "link": "https://rumble.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Video Sharing",
+            "name": "Vimeo",
+            "icon": "/img/apps/no.svg",
+            "link": "https://vimeo.com/watch",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Video Sharing",
+            "name": "Yewtu.be",
+            "icon": "/img/apps/no.svg",
+            "link": "https://yewtu.be/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Video Sharing",
+            "name": "YT Invidious",
+            "icon": "/img/apps/no.svg",
+            "link": "https://redirect.invidious.io/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Video Sharing",
+            "name": "YT Piped",
+            "icon": "/img/apps/no.svg",
+            "link": "https://piped.video/trending",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Virtualization",
+            "name": "Bottles",
+            "icon": "/img/apps/bottles.svg",
+            "link": "https://usebottles.com/",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "Virtualization",
+            "name": "Distrobox",
+            "icon": "/img/apps/distrobox.svg",
+            "link": "https://github.com/89luca89/distrobox",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "Virtualization",
+            "name": "QEMU",
+            "icon": "/img/apps/qemu.svg",
+            "link": "https://www.qemu.org/",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "Virtualization",
+            "name": "Virtual Machine Manager",
+            "icon": "/img/apps/no.svg",
+            "link": "https://virt-manager.org/",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "Virtualization",
+            "name": "VirtualBox",
+            "icon": "/img/apps/virtualbox.svg",
+            "link": "https://www.virtualbox.org/",
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "category": "Weather",
+            "name": "Windy",
+            "icon": "/img/apps/windy.svg",
+            "link": "https://www.windy.com/",
             "tags": [
                 "mobile",
                 "web"
             ]
         },
         {
-            "category": "Discovery",
-            "name": "Interneto",
-            "icon": "/icon.png",
-            "link": "https://interneto.github.io/",
+            "category": "Web DB",
+            "name": "HypeStat | Web Statistics and Analysis",
+            "icon": "/img/apps/no.svg",
+            "link": "https://hypestat.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Web DB",
+            "name": "Majestic Million - Report",
+            "icon": "/img/apps/no.svg",
+            "link": "https://majestic.com/reports/majestic-million",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Web DB",
+            "name": "Netcraft - Site report",
+            "icon": "/img/apps/no.svg",
+            "link": "https://sitereport.netcraft.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Web DB",
+            "name": "Similarweb - Website Traffic",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.similarweb.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Web DB",
+            "name": "Tranco list",
+            "icon": "/img/apps/no.svg",
+            "link": "https://tranco-list.eu/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Web DB",
+            "name": "W3Techs",
+            "icon": "/img/apps/no.svg",
+            "link": "https://w3techs.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Web Directory",
+            "name": "BoredJumbo",
+            "icon": "/img/apps/no.svg",
+            "link": "https://boredjumbo.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Web Directory",
+            "name": "craigslist > sites",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.craigslist.org/about/sites",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Web Directory",
+            "name": "Interneto links - raindrop.io",
+            "icon": "/img/apps/no.svg",
+            "link": "https://raindrop.io/interneto",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Web Directory",
+            "name": "Similarsites.com",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.similarsites.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Web Directory",
+            "name": "Startpage - start.me",
+            "icon": "/img/apps/no.svg",
+            "link": "https://start.me/start/int/startpage",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Webcam DB",
+            "name": "Airpano",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.airpano.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Webcam DB",
+            "name": "Canarias Life",
+            "icon": "/img/apps/no.svg",
+            "link": "https://canariaslife.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Webcam DB",
+            "name": "SkylineWebcams",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.skylinewebcams.com/",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Webcam DB",
+            "name": "Windy: Webcams",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.windy.com/-Webcams/webcams?40.331,-3.758,5",
+            "tags": [
+                "web"
+            ]
+        },
+        {
+            "category": "Webcam Street DB",
+            "name": "EarthCam",
+            "icon": "/img/apps/no.svg",
+            "link": "https://www.earthcam.com/",
             "tags": [
                 "web"
             ]

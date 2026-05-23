@@ -78,9 +78,10 @@
     --border-radius: 0.5rem;
 }
 
-/* Dark mode with prefers-color-scheme */
+/* Dark mode with prefers-color-scheme — only when no explicit [data-theme] is set,
+   otherwise it overrides the user's toggle on dark-OS systems toggling to light. */
 @media (prefers-color-scheme: dark) {
-    :root {
+    :root:not([data-theme]) {
         color-scheme: dark;
         --primary-color: #4a9eff;
         --primary-hover: #7cb7ff;
