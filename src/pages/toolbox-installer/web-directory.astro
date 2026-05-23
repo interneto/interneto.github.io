@@ -1,0 +1,49 @@
+---
+import CompatibilityTablePage from '../../components/CompatibilityTablePage.astro';
+const BASE = import.meta.env.BASE_URL.replace(/\/?$/, '/');
+---
+
+<CompatibilityTablePage
+  title="Web Directory"
+  heading="Web Directory"
+  subtitle="A shared directory of web destinations — apps, platforms, and databases that live in the browser."
+  installerHref={`${BASE}toolbox/`}
+  installerLabel="Back to Toolbox"
+  searchPlaceholder="Search category, name, or surface"
+  extraStyles={['styles/toolbox-directory.css']}
+  pageNote="Everything here runs in the browser — there's no installer; opening the link 'installs' the app in your browser. Tags mark optional native surfaces a destination also ships."
+>
+  <div slot="controls" class="page-filter-row filter-chips tag-filter-chips" role="group" aria-label="Filter web destinations by surface">
+    <button type="button" class="filter-chip tag-chip-all active" data-tag="all" aria-pressed="true">All</button>
+    <button type="button" class="filter-chip tag-chip-web-only" data-tag="web-only" aria-pressed="false">web-only</button>
+    <button type="button" class="filter-chip tag-chip-desktop" data-tag="desktop" aria-pressed="false">+desktop app</button>
+    <button type="button" class="filter-chip tag-chip-mobile" data-tag="mobile" aria-pressed="false">+mobile app</button>
+    <button type="button" class="filter-chip tag-chip-extension-store" data-tag="extension-store" aria-pressed="false">extension store</button>
+  </div>
+
+  <div class="table-container">
+    <table id="toolboxDirectoryTable" class="toolbox-directory-table">
+      <thead>
+        <tr>
+          <th>Category</th>
+          <th>Icon + Name</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+  </div>
+
+  <div class="stats" aria-label="Directory stats">
+    <div class="stat-item"><div class="stat-number" id="directoryVisibleCount">0</div><div class="stat-label">Visible</div></div>
+    <div class="stat-item"><div class="stat-number" id="directoryTotalCount">0</div><div class="stat-label">Total</div></div>
+    <div class="stat-item"><div class="stat-number" id="directoryWebOnlyCount">0</div><div class="stat-label">web-only</div></div>
+    <div class="stat-item"><div class="stat-number" id="directoryDesktopCount">0</div><div class="stat-label">+desktop</div></div>
+    <div class="stat-item"><div class="stat-number" id="directoryMobileCount">0</div><div class="stat-label">+mobile</div></div>
+    <div class="stat-item"><div class="stat-number" id="directoryExtensionStoreCount">0</div><div class="stat-label">ext store</div></div>
+  </div>
+
+</CompatibilityTablePage>
+
+<script>
+import '../../scripts/toolbox-installer/web-directory.ts';
+</script>

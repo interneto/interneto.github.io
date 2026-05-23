@@ -144,24 +144,6 @@
         "windows_winget": "Apache.Httpd"
       }
     },
-    "apache-netbeans": {
-      "name": "Apache NetBeans",
-      "category": "Development",
-      "subcategory": "IDE",
-      "package_manager": {
-        "linux_arch_aur": null,
-        "linux_arch_pacman": null,
-        "linux_debian_apt": null,
-        "linux_fedora_rpm": null,
-        "linux_gentoo_emerge": null,
-        "linux_flatpak": "org.apache.netbeans",
-        "linux_snap": "netbeans",
-        "freebsd_pkg": null,
-        "macos_brew": "netbeans",
-        "unix_nix_env": null,
-        "windows_winget": "Apache.NetBeans"
-      }
-    },
     "ardour": {
       "name": "Ardour",
       "category": "Audio",

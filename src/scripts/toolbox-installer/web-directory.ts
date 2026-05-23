@@ -1,4 +1,13 @@
-type Tag = 'desktop' | 'mobile' | 'web' | 'lib';
+// Renders the Web Directory table from /pkgs/web-directory.json.
+// Tags describe extra surfaces a web destination ALSO has:
+//   desktop          → also ships a desktop app
+//   mobile           → also ships a mobile app
+//   extension-store  → is a storefront for browser extensions
+// No tag = pure web.
+
+type Tag = 'desktop' | 'mobile' | 'extension-store';
+
+const VALID_TAGS: readonly Tag[] = ['desktop', 'mobile', 'extension-store'];
 
 interface DirectoryEntry {
     category: string;
@@ -6,24 +15,10 @@ interface DirectoryEntry {
     icon: string;
     link: string;
     tags: Tag[];
-    key?: string;
 }
 
 interface DirectoryConfig {
-    sources?: {
-        desktop?: string;
-        mobile?: string;
-    };
     entries?: DirectoryEntry[];
-}
-
-interface LegacyPackageInfo {
-    name?: string;
-    category?: string;
-}
-
-interface LegacyPackagesData {
-    packages?: Record<string, LegacyPackageInfo>;
 }
 
 const BASE = (import.meta.env.BASE_URL || '/').replace(/\/?$/, '/');
@@ -35,10 +30,10 @@ const chips = Array.from(document.querySelectorAll<HTMLButtonElement>('.filter-c
 
 const totalCount = document.getElementById('directoryTotalCount');
 const visibleCount = document.getElementById('directoryVisibleCount');
+const webOnlyCount = document.getElementById('directoryWebOnlyCount');
 const desktopCount = document.getElementById('directoryDesktopCount');
 const mobileCount = document.getElementById('directoryMobileCount');
-const webCount = document.getElementById('directoryWebCount');
-const libCount = document.getElementById('directoryLibCount');
+const extStoreCount = document.getElementById('directoryExtensionStoreCount');
 
 const state = {
     query: '',
@@ -51,16 +46,22 @@ function withBase(path: string): string {
     return `${BASE}${path.replace(/^\//, '')}`;
 }
 
-function normalizeName(name: string): string {
-    return name.trim().toLowerCase().replace(/[^a-z0-9]+/g, '');
-}
-
-function ensureTagSet(entry: DirectoryEntry): Set<Tag> {
-    return new Set(entry.tags.filter((tag): tag is Tag => ['desktop', 'mobile', 'web', 'lib'].includes(tag)));
-}
-
 function buildSearchLink(name: string): string {
     return `https://duckduckgo.com/?q=${encodeURIComponent(name)}`;
+}
+
+function faviconFromLink(link: string): string | null {
+    try {
+        const url = new URL(link);
+        if (!/^https?:$/.test(url.protocol)) return null;
+        return `https://icons.duckduckgo.com/ip3/${url.hostname}.ico`;
+    } catch {
+        return null;
+    }
+}
+
+function isPlaceholderIcon(icon: string): boolean {
+    return !icon || icon.endsWith('/img/apps/no.svg') || icon.endsWith('img/apps/no.svg');
 }
 
 async function fetchJson<T>(url: string): Promise<T> {
@@ -80,63 +81,19 @@ function escapeHtml(value: string): string {
         .replaceAll("'", '&#39;');
 }
 
-function mergeEntry(
-    map: Map<string, DirectoryEntry>,
-    incoming: DirectoryEntry,
-): void {
-    const key = normalizeName(incoming.name);
-    const current = map.get(key);
-
-    if (!current) {
-        map.set(key, {
-            ...incoming,
-            tags: Array.from(ensureTagSet(incoming)).sort() as Tag[],
-        });
-        return;
+function sanitizeTags(raw: unknown): Tag[] {
+    if (!Array.isArray(raw)) return [];
+    const set = new Set<Tag>();
+    for (const t of raw) {
+        if (typeof t === 'string' && (VALID_TAGS as readonly string[]).includes(t)) {
+            set.add(t as Tag);
+        }
     }
-
-    const mergedTags = new Set<Tag>([...ensureTagSet(current), ...ensureTagSet(incoming)]);
-
-    const hasMeaningfulIcon = (icon: string) => !!icon && !icon.endsWith('/img/apps/no.svg') && !icon.endsWith('img/apps/no.svg');
-    const hasMeaningfulLink = (link: string) => !!link && !link.includes('duckduckgo.com/?q=');
-
-    current.tags = Array.from(mergedTags).sort() as Tag[];
-
-    if (incoming.category && !current.category) {
-        current.category = incoming.category;
-    }
-
-    if (hasMeaningfulIcon(incoming.icon) && !hasMeaningfulIcon(current.icon)) {
-        current.icon = incoming.icon;
-    }
-
-    if (hasMeaningfulLink(incoming.link) && !hasMeaningfulLink(current.link)) {
-        current.link = incoming.link;
-    }
-}
-
-function buildEntriesFromLegacy(
-    legacy: LegacyPackagesData,
-    tag: Tag,
-): DirectoryEntry[] {
-    return Object.entries(legacy.packages ?? {}).map(([pkgKey, pkg]) => {
-        const name = (pkg.name ?? pkgKey).trim();
-        const category = (pkg.category ?? 'Other').trim();
-
-        return {
-            category,
-            name,
-            icon: `/img/apps/${pkgKey}.svg`,
-            link: buildSearchLink(name),
-            tags: [tag],
-            key: pkgKey,
-        };
-    });
+    return Array.from(set).sort();
 }
 
 function renderRows(entries: DirectoryEntry[]): void {
     if (!tableBody) return;
-
     tableBody.innerHTML = '';
 
     const grouped = new Map<string, DirectoryEntry[]>();
@@ -151,16 +108,25 @@ function renderRows(entries: DirectoryEntry[]): void {
         .forEach(([category, groupEntries]) => {
             const uniqueTags = Array.from(
                 new Set(groupEntries.flatMap((entry) => entry.tags))
-            ).sort() as Tag[];
+            ).sort();
 
             const iconsMarkup = groupEntries
                 .slice()
                 .sort((a, b) => a.name.localeCompare(b.name))
                 .map((entry) => {
                     const safeName = escapeHtml(entry.name);
-                    const safeLink = escapeHtml(entry.link || buildSearchLink(entry.name));
-                    const safeIcon = escapeHtml(withBase(entry.icon));
+                    const linkHref = entry.link || buildSearchLink(entry.name);
+                    const safeLink = escapeHtml(linkHref);
+                    const favicon = faviconFromLink(linkHref);
+                    const primarySrc = isPlaceholderIcon(entry.icon) && favicon
+                        ? favicon
+                        : withBase(entry.icon);
+                    const safeIcon = escapeHtml(primarySrc);
+                    const safeFavicon = favicon ? escapeHtml(favicon) : '';
                     const safeFallback = escapeHtml(DEFAULT_ICON);
+                    const onerror = safeFavicon && primarySrc !== favicon
+                        ? `this.onerror=function(){this.onerror=null;this.src='${safeFallback}';};this.src='${safeFavicon}';`
+                        : `this.onerror=null;this.src='${safeFallback}';`;
                     return `
                         <a
                             class="directory-icon-link"
@@ -175,27 +141,27 @@ function renderRows(entries: DirectoryEntry[]): void {
                                 src="${safeIcon}"
                                 alt="${safeName} icon"
                                 loading="lazy"
-                                onerror="this.onerror=null;this.src='${safeFallback}';"
+                                onerror="${onerror}"
                             />
                         </a>
                     `;
                 })
                 .join('');
 
-        const row = document.createElement('tr');
-        row.dataset.search = `${category} ${groupEntries.map((entry) => entry.name).join(' ')} ${uniqueTags.map((tag) => `#${tag}`).join(' ')}`.toLowerCase();
-        row.dataset.tags = uniqueTags.join(' ');
+            const row = document.createElement('tr');
+            row.dataset.search = `${category} ${groupEntries.map((entry) => entry.name).join(' ')} ${uniqueTags.map((tag) => `#${tag}`).join(' ')}`.toLowerCase();
+            row.dataset.tags = uniqueTags.join(' ');
 
-        const categoryCell = document.createElement('td');
-        categoryCell.className = 'directory-category';
-        categoryCell.textContent = category;
+            const categoryCell = document.createElement('td');
+            categoryCell.className = 'directory-category';
+            categoryCell.textContent = category;
 
-        const iconsCell = document.createElement('td');
-        iconsCell.innerHTML = `<div class="directory-icon-list">${iconsMarkup}</div>`;
+            const iconsCell = document.createElement('td');
+            iconsCell.innerHTML = `<div class="directory-icon-list">${iconsMarkup}</div>`;
 
-        row.appendChild(categoryCell);
-        row.appendChild(iconsCell);
-        tableBody.appendChild(row);
+            row.appendChild(categoryCell);
+            row.appendChild(iconsCell);
+            tableBody.appendChild(row);
         });
 }
 
@@ -203,27 +169,22 @@ function updateStats(totalEntries: DirectoryEntry[], visibleEntries: DirectoryEn
     if (totalCount) totalCount.textContent = String(totalEntries.length);
     if (visibleCount) visibleCount.textContent = String(visibleEntries.length);
 
-    const totalByTag = {
-        desktop: 0,
-        mobile: 0,
-        web: 0,
-        lib: 0,
-    };
-
+    let webOnly = 0;
+    const byTag: Record<Tag, number> = { desktop: 0, mobile: 0, 'extension-store': 0 };
     totalEntries.forEach((entry) => {
-        entry.tags.forEach((tag) => {
-            totalByTag[tag] += 1;
-        });
+        if (entry.tags.length === 0) webOnly++;
+        entry.tags.forEach((tag) => { byTag[tag] += 1; });
     });
 
-    if (desktopCount) desktopCount.textContent = String(totalByTag.desktop);
-    if (mobileCount) mobileCount.textContent = String(totalByTag.mobile);
-    if (webCount) webCount.textContent = String(totalByTag.web);
-    if (libCount) libCount.textContent = String(totalByTag.lib);
+    if (webOnlyCount) webOnlyCount.textContent = String(webOnly);
+    if (desktopCount) desktopCount.textContent = String(byTag.desktop);
+    if (mobileCount) mobileCount.textContent = String(byTag.mobile);
+    if (extStoreCount) extStoreCount.textContent = String(byTag['extension-store']);
 }
 
 function matchesTag(entry: DirectoryEntry): boolean {
     if (state.tag === 'all') return true;
+    if (state.tag === 'web-only') return entry.tags.length === 0;
     return entry.tags.includes(state.tag as Tag);
 }
 
@@ -240,35 +201,14 @@ function applyFilters(entries: DirectoryEntry[]): void {
 }
 
 async function loadDirectoryData(): Promise<DirectoryEntry[]> {
-    const configUrl = `${BASE}pkgs/toolbox-directory.json`;
-    const config = await fetchJson<DirectoryConfig>(configUrl);
-
-    const [desktopData, mobileData] = await Promise.all([
-        config.sources?.desktop ? fetchJson<LegacyPackagesData>(withBase(config.sources.desktop)) : Promise.resolve({ packages: {} }),
-        config.sources?.mobile ? fetchJson<LegacyPackagesData>(withBase(config.sources.mobile)) : Promise.resolve({ packages: {} }),
-    ]);
-
-    const merged = new Map<string, DirectoryEntry>();
-
-    (config.entries ?? []).forEach((entry) => {
-        mergeEntry(merged, entry);
-    });
-
-    buildEntriesFromLegacy(desktopData, 'desktop').forEach((entry) => {
-        mergeEntry(merged, entry);
-    });
-
-    buildEntriesFromLegacy(mobileData, 'mobile').forEach((entry) => {
-        mergeEntry(merged, entry);
-    });
-
-    return Array.from(merged.values())
+    const config = await fetchJson<DirectoryConfig>(`${BASE}pkgs/web-directory.json`);
+    return (config.entries ?? [])
+        .map((entry) => ({ ...entry, tags: sanitizeTags(entry.tags) }))
         .sort((a, b) => a.category.localeCompare(b.category) || a.name.localeCompare(b.name));
 }
 
 async function init(): Promise<void> {
     if (!tableBody) return;
-
     try {
         const entries = await loadDirectoryData();
         renderRows(entries);
@@ -292,8 +232,8 @@ async function init(): Promise<void> {
 
         applyFilters(entries);
     } catch (error) {
-        console.error('Failed to initialize toolbox directory:', error);
-        tableBody.innerHTML = '<tr><td colspan="2">Could not load unified directory data.</td></tr>';
+        console.error('Failed to initialize web directory:', error);
+        tableBody.innerHTML = '<tr><td colspan="2">Could not load web directory data.</td></tr>';
     }
 }
 

@@ -159,10 +159,6 @@ td {
   border: 1px solid var(--vp-c-divider);
 }
 
-tr:hover {
-  background-color: var(--vp-c-bg-alt);
-}
-
 /* Forms */
 input, textarea, select {
   font-family: var(--vp-font-family-base);

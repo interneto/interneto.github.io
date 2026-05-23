@@ -46,10 +46,10 @@ const compatibilityLinks = [
 
 const directoryLinks = [
   {
-    label: 'Unified Packages Table',
-    href: `${BASE}toolbox/packages/`,
-    icon: '📦',
-    description: 'Browse one flat searchable directory grouped by category with shared #desktop, #mobile, #web, and #lib tags.',
+    label: 'Web Directory',
+    href: `${BASE}toolbox/web-directory/`,
+    icon: '🌐',
+    description: 'A directory of web destinations grouped by category. No installer needed — opening the link runs the app in your browser.',
   },
 ];
 ---
@@ -61,9 +61,9 @@ const directoryLinks = [
         <div>
           <div class="toolbox-eyebrow">Toolbox</div>
           <h1>Toolbox</h1>
-          <p>One home for installers, compatibility references, and a shared packages directory spanning desktop apps, mobile apps, websites, and libraries.</p>
+          <p>One home for installers, compatibility references, and a web directory of platforms and databases that run straight in the browser.</p>
         </div>
-        <a class="toolbox-primary-link" href={`${BASE}toolbox/packages/`}>Open Packages Directory</a>
+        <a class="toolbox-primary-link" href={`${BASE}toolbox/web-directory/`}>Open Web Directory</a>
       </div>
     </section>
 
@@ -104,8 +104,8 @@ const directoryLinks = [
 
     <section class="toolbox-section">
       <div class="toolbox-section-header">
-        <h2>Packages Directory</h2>
-        <p>Use one shared dataset across desktop, mobile, web, and library views without nested groups.</p>
+        <h2>Web Directory</h2>
+        <p>Web apps, platforms, and databases — all browser-based, no install step.</p>
       </div>
       <div class="toolbox-grid">
         {directoryLinks.map((item) => (
