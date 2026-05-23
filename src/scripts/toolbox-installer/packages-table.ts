@@ -240,7 +240,7 @@ function getExtensionIconPath(extensionId: string): string {
 }
 
 function getBrowserExtensionIconPath(id: string): string {
-    return `${BASE}img/browser-extensions/${id}.png`;
+    return `${BASE}img/browser-extensions/${id}.svg`;
 }
 
 function groupByCategory<T extends { category: string }>(items: T[]): Record<string, T[]> {
@@ -729,7 +729,13 @@ function renderBrowserExtensionsGenerator(items: BrowserExtension[]): void {
                 icon.height = 18;
                 icon.alt = `${ext.name} icon`;
                 icon.src = getBrowserExtensionIconPath(ext.id);
-                icon.addEventListener('error', () => { icon.style.visibility = 'hidden'; });
+                icon.addEventListener('error', () => {
+                    if (icon.src.endsWith('.svg')) {
+                        icon.src = icon.src.replace('.svg', '.png');
+                    } else {
+                        icon.style.visibility = 'hidden';
+                    }
+                });
 
                 label.dataset.search = `${ext.name} ${ext.id}`.toLowerCase();
                 label.dataset.firefoxSlug = ext.firefox_slug ?? '';
