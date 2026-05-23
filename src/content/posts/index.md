@@ -9,24 +9,24 @@ footer: true
 
 ## Comparing
 
-- [AI Coding Tools](/posts/ai-coding-tools)
-- [Bookmark Managers](/posts/bookmark-managers)
-- [Linux Distributions](/posts/linux-distros)
+- [AI Coding Tools](/post/ai-coding-tools)
+- [Bookmark Managers](/post/bookmark-managers)
+- [Linux Distributions](/post/linux-distros)
 
 ## How-To
 
-- [How To Categorize Links](/posts/how-to-categorize-links)
-- [How Files Are Transferred and Synced Between Devices](/posts/file-sync)
+- [How To Categorize Links](/post/how-to-categorize-links)
+- [How Files Are Transferred and Synced Between Devices](/post/file-sync)
 
 ## Articles
 
-- [History of Computing Timeline](/posts/history-of-computing)
-- [Cybersecurity Vulnerabilities](/posts/cybersecurity-vulnerabilities)
-- [Operating System Layer Stack](/posts/os-layer-stack)
-- [Good Software Manifesto](/posts/good-software-manifesto)
-- [What Is Information?](/posts/what-is-info)
+- [History of Computing Timeline](/post/history-of-computing)
+- [Cybersecurity Vulnerabilities](/post/cybersecurity-vulnerabilities)
+- [Operating System Layer Stack](/post/os-layer-stack)
+- [Good Software Manifesto](/post/good-software-manifesto)
+- [What Is Information?](/post/what-is-info)
 
 ## Philosophy
 
-- [Turing-Complete: A Discovery Inherent to Reality](/posts/turing-complete-reality)
+- [Turing-Complete: A Discovery Inherent to Reality](/post/turing-complete-reality)
 

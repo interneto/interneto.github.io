@@ -1,0 +1,92 @@
+---
+import type { MarkdownHeading } from 'astro';
+
+export interface Props {
+  headings: MarkdownHeading[];
+  minDepth?: number;
+  maxDepth?: number;
+}
+
+const { headings, minDepth = 2, maxDepth = 3 } = Astro.props;
+const tocItems = (headings ?? []).filter((h) => h.depth >= minDepth && h.depth <= maxDepth);
+---
+
+{tocItems.length > 0 && (
+  <>
+    <aside class="vp-toc" id="vpToc" aria-label="On this page">
+      <div class="vp-toc-inner">
+        <p class="vp-toc-title">On this page</p>
+        <nav>
+          <ul class="vp-toc-list">
+            {tocItems.map((h) => (
+              <li class={`vp-toc-item vp-toc-depth-${h.depth}`}>
+                <a href={`#${h.slug}`} data-toc-target={h.slug}>{h.text}</a>
+              </li>
+            ))}
+          </ul>
+        </nav>
+      </div>
+    </aside>
+
+    <button
+      type="button"
+      id="vpTocFab"
+      class="vp-toc-fab"
+      aria-controls="vpToc"
+      aria-expanded="false"
+      aria-label="Toggle on-this-page panel"
+    >☰ On this page</button>
+    <button id="vpTocBackdrop" class="vp-toc-backdrop" aria-label="Close on-this-page panel"></button>
+
+    <script is:inline>
+      (() => {
+        const root = document.documentElement;
+        const fab = document.getElementById('vpTocFab');
+        const toc = document.getElementById('vpToc');
+        const backdrop = document.getElementById('vpTocBackdrop');
+        const links = toc ? toc.querySelectorAll('a[data-toc-target]') : [];
+
+        function setOpen(open) {
+          root.classList.toggle('vp-toc-mobile-open', open);
+          if (fab) fab.setAttribute('aria-expanded', open ? 'true' : 'false');
+        }
+
+        if (fab) fab.addEventListener('click', () => {
+          const isOpen = fab.getAttribute('aria-expanded') === 'true';
+          setOpen(!isOpen);
+        });
+        if (backdrop) backdrop.addEventListener('click', () => setOpen(false));
+
+        links.forEach((a) => a.addEventListener('click', () => setOpen(false)));
+
+        document.addEventListener('keydown', (e) => {
+          if (e.key === 'Escape') setOpen(false);
+        });
+
+        if (!links.length) return;
+        const map = new Map();
+        links.forEach((a) => {
+          const id = a.getAttribute('data-toc-target');
+          const el = id && document.getElementById(id);
+          if (el) map.set(el, a);
+        });
+        if (!map.size) return;
+        const setActive = (link) => {
+          links.forEach((l) => l.classList.toggle('is-active', l === link));
+        };
+        const observer = new IntersectionObserver(
+          (entries) => {
+            const visible = entries
+              .filter((e) => e.isIntersecting)
+              .sort((a, b) => a.target.getBoundingClientRect().top - b.target.getBoundingClientRect().top);
+            if (visible.length) {
+              setActive(map.get(visible[0].target));
+            }
+          },
+          { rootMargin: '-80px 0px -70% 0px', threshold: [0, 1] }
+        );
+        map.forEach((_link, el) => observer.observe(el));
+      })();
+    </script>
+  </>
+)}

@@ -12,7 +12,7 @@ export async function GET(context: APIContext) {
       title: post.data.title,
       description: post.data.description ?? '',
       pubDate: new Date(post.data.date!),
-      link: `/posts/${post.id.replace(/\.md$/i, '')}/`,
+      link: `/post/${post.id.replace(/\.md$/i, '')}/`,
     }));
 
   return rss({

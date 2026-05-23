@@ -26,7 +26,7 @@ const isPathActive = (link: string): boolean => {
   return currentPath.startsWith(link) || currentPath === link;
 };
 
-// Build category items
+// Build category items (used on /categories/ index only)
 const categoryItems: SidebarItem[] = [
   { text: '🏢 By Company', href: `${BASE}categories/by-company/`, isActive: isPathActive(`${BASE}categories/by-company/`) },
   { text: '🐧 Operating System', href: `${BASE}categories/os/`, isActive: isPathActive(`${BASE}categories/os/`) },
@@ -54,9 +54,9 @@ const postSections: SidebarSection[] = POST_SECTIONS.map((section) => ({
   title: section.title,
   items: section.items.map((item) => ({
     text: item.text,
-    href: `${BASE}posts/${item.slug}/`,
+    href: `${BASE}post/${item.slug}/`,
     icon: (item.icon ?? 'posts') as IconName,
-    isActive: isPathActive(`${BASE}posts/${item.slug}/`),
+    isActive: isPathActive(`${BASE}post/${item.slug}/`),
   })),
 }));
 
@@ -65,81 +65,98 @@ const mapItems: SidebarItem[] = [
   { text: 'Classic View', href: `${BASE}map/?view=classic`, icon: 'map', isActive: false },
   { text: 'Semantic View', href: `${BASE}map/?view=semantic`, icon: 'map', isActive: false },
   { text: 'Geo View', href: `${BASE}map/?view=geo`, icon: 'map', isActive: false },
-  { text: 'Blog Posts', href: `${BASE}posts/`, icon: 'posts', isActive: false },
+  { text: 'Posts', href: `${BASE}posts/`, icon: 'posts', isActive: false },
   { text: 'Categories', href: `${BASE}categories/`, icon: 'categories', isActive: false },
 ];
 
-// Determine which sidebar to show
-const showPostsSidebar = currentPath.includes('/posts');
-const showMapSidebar = currentPath.includes('/map');
-const showCategoryFavoritesToggle = currentPath.includes('/categories');
-const showCategorySidebar = !showPostsSidebar && !showMapSidebar;
-const items = showPostsSidebar ? [] : showMapSidebar ? mapItems : categoryItems;
-const title = showPostsSidebar ? 'Posts' : showMapSidebar ? 'Link Dashboard' : 'Categories';
+// Only show left sidebar on index pages of /categories/ and /posts/, plus /map/
+const isCategoriesIndex = currentPath === `${BASE}categories` || currentPath === `${BASE}categories/`;
+const isPostsIndex = currentPath === `${BASE}posts` || currentPath === `${BASE}posts/`;
+const isMapPage = currentPath.includes('/map');
+
+const sidebarKind: 'categories' | 'posts' | 'map' | 'none' =
+  isCategoriesIndex ? 'categories' :
+  isPostsIndex ? 'posts' :
+  isMapPage ? 'map' : 'none';
+
+const title =
+  sidebarKind === 'categories' ? 'Categories' :
+  sidebarKind === 'posts' ? 'Posts' :
+  sidebarKind === 'map' ? 'Link Dashboard' : '';
 ---
 
-<aside id="vpSidebar" class="vp-sidebar" aria-hidden="false">
-  <div class="vp-sidebar-content">
-    <nav class="vp-sidebar-nav">
-      <div class="vp-sidebar-title">{title}</div>
-      {showCategorySidebar && (
-        <div class="vp-sidebar-search-wrap">
-          <input
-            id="categorySidebarSearch"
-            class="vp-sidebar-search-input"
-            type="search"
-            placeholder="Search categories"
-            autocomplete="off"
-            aria-label="Search categories"
-          />
-        </div>
-      )}
-      {showCategoryFavoritesToggle && (
-        <button type="button" class="vp-sidebar-toggle-btn" id="categoryFavoritesToggle" aria-pressed="false">
-          ☆ Favorite Links
-        </button>
-      )}
-      {showPostsSidebar ? (
-        postSections.map((section) => (
-          <div class="vp-sidebar-section">
-            <div class="vp-sidebar-section-title">{section.title}</div>
-            <div class="vp-sidebar-items">
-              {section.items.map((item) => (
-                <a
-                  class={`vp-sidebar-item-link ${item.isActive ? 'active' : ''}`}
-                  href={item.href}
-                >
-                  <span class="vp-sidebar-item-content">
-                    <Icon name={item.icon ?? 'posts'} class="vp-sidebar-link-icon" />
-                    <span>{item.text}</span>
-                  </span>
-                </a>
-              ))}
-            </div>
+{sidebarKind !== 'none' && (
+  <aside id="vpSidebar" class="vp-sidebar" aria-hidden="false">
+    <div class="vp-sidebar-content">
+      <nav class="vp-sidebar-nav">
+        <div class="vp-sidebar-title">{title}</div>
+
+        {sidebarKind === 'categories' && (
+          <div class="vp-sidebar-search-wrap">
+            <input
+              id="categorySidebarSearch"
+              class="vp-sidebar-search-input"
+              type="search"
+              placeholder="Search categories"
+              autocomplete="off"
+              aria-label="Search categories"
+            />
           </div>
-        ))
-      ) : (
-        <div class="vp-sidebar-items">
-          {items.map((item) => (
-            <a
-              class={`vp-sidebar-item-link ${item.isActive ? 'active' : ''}`}
-              href={item.href}
-            >
-              <span class="vp-sidebar-item-content">
-                {item.icon && <Icon name={item.icon} class="vp-sidebar-link-icon" />}
-                <span>{item.text}</span>
-              </span>
-            </a>
-          ))}
-        </div>
-      )}
-    </nav>
-  </div>
-</aside>
+        )}
+
+        {sidebarKind === 'posts' && (
+          <div class="vp-sidebar-search-wrap">
+            <input
+              id="postsSidebarSearch"
+              class="vp-sidebar-search-input"
+              type="search"
+              placeholder="Search posts"
+              autocomplete="off"
+              aria-label="Search posts"
+            />
+          </div>
+        )}
+
+        {sidebarKind === 'posts' ? (
+          postSections.map((section) => (
+            <div class="vp-sidebar-section">
+              <div class="vp-sidebar-section-title">{section.title}</div>
+              <div class="vp-sidebar-items">
+                {section.items.map((item) => (
+                  <a
+                    class={`vp-sidebar-item-link ${item.isActive ? 'active' : ''}`}
+                    href={item.href}
+                  >
+                    <span class="vp-sidebar-item-content">
+                      <Icon name={item.icon ?? 'posts'} class="vp-sidebar-link-icon" />
+                      <span>{item.text}</span>
+                    </span>
+                  </a>
+                ))}
+              </div>
+            </div>
+          ))
+        ) : (
+          <div class="vp-sidebar-items">
+            {(sidebarKind === 'categories' ? categoryItems : mapItems).map((item) => (
+              <a
+                class={`vp-sidebar-item-link ${item.isActive ? 'active' : ''}`}
+                href={item.href}
+              >
+                <span class="vp-sidebar-item-content">
+                  {item.icon && <Icon name={item.icon} class="vp-sidebar-link-icon" />}
+                  <span>{item.text}</span>
+                </span>
+              </a>
+            ))}
+          </div>
+        )}
+      </nav>
+    </div>
+  </aside>
+)}
 
 <script>
-  const CATEGORY_FAVORITES_STORAGE_KEY = 'interneto.category-favorites-only';
-  const favoritesToggle = document.getElementById('categoryFavoritesToggle');
   const categorySearchInput = document.getElementById('categorySidebarSearch');
 
   if (categorySearchInput instanceof HTMLInputElement) {
@@ -148,7 +165,6 @@ const title = showPostsSidebar ? 'Posts' : showMapSidebar ? 'Link Dashboard' : '
 
     const applyCategorySidebarFilter = (query: string) => {
       const normalizedQuery = normalize(query);
-
       categoryLinks.forEach((link) => {
         const label = normalize(link.textContent || '');
         const visible = normalizedQuery === '' || label.includes(normalizedQuery);
@@ -158,67 +174,6 @@ const title = showPostsSidebar ? 'Posts' : showMapSidebar ? 'Link Dashboard' : '
 
     categorySearchInput.addEventListener('input', () => {
       applyCategorySidebarFilter(categorySearchInput.value);
-    });
-  }
-
-  if (favoritesToggle) {
-    const proseRoot = document.querySelector('.vp-prose');
-    const listItems = proseRoot ? Array.from(proseRoot.querySelectorAll('li')) : [];
-    const headings = proseRoot
-      ? Array.from(proseRoot.querySelectorAll('h2, h3, h4, h5, h6'))
-      : [];
-    const lists = proseRoot
-      ? Array.from(proseRoot.querySelectorAll('ul, ol'))
-      : [];
-
-    const isFavoriteItem = (item: Element) => item.textContent?.trim().startsWith('⭐') ?? false;
-    const setToggleState = (enabled: boolean) => {
-      favoritesToggle.classList.toggle('is-active', enabled);
-      favoritesToggle.setAttribute('aria-pressed', enabled ? 'true' : 'false');
-      favoritesToggle.textContent = enabled ? '★ Favorite Links' : '☆ Favorite Links';
-    };
-
-    const getHeadingLevel = (heading: Element) => Number.parseInt(heading.tagName.slice(1), 10);
-
-    const syncFavoritesFilter = (enabled: boolean) => {
-      listItems.forEach((item) => {
-        item.classList.toggle('vp-favorite-hidden', enabled && !isFavoriteItem(item));
-      });
-
-      lists.forEach((list) => {
-        const visibleItems = Array.from(list.children).some((child) => !child.classList.contains('vp-favorite-hidden'));
-        list.classList.toggle('vp-favorite-hidden', enabled && !visibleItems);
-      });
-
-      headings.forEach((heading) => {
-        const currentLevel = getHeadingLevel(heading);
-        let sibling = heading.nextElementSibling;
-        let hasVisibleContent = false;
-
-        while (sibling) {
-          if (/^H[2-6]$/.test(sibling.tagName) && getHeadingLevel(sibling) <= currentLevel) {
-            break;
-          }
-          if (!sibling.classList.contains('vp-favorite-hidden')) {
-            hasVisibleContent = true;
-            break;
-          }
-          sibling = sibling.nextElementSibling;
-        }
-
-        heading.classList.toggle('vp-favorite-hidden', enabled && !hasVisibleContent);
-      });
-    };
-
-    const storedValue = localStorage.getItem(CATEGORY_FAVORITES_STORAGE_KEY) === 'true';
-    setToggleState(storedValue);
-    syncFavoritesFilter(storedValue);
-
-    favoritesToggle.addEventListener('click', () => {
-      const nextValue = favoritesToggle.getAttribute('aria-pressed') !== 'true';
-      localStorage.setItem(CATEGORY_FAVORITES_STORAGE_KEY, String(nextValue));
-      setToggleState(nextValue);
-      syncFavoritesFilter(nextValue);
     });
   }
 </script>

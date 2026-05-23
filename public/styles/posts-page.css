@@ -1,53 +1,4 @@
-.vp-post-wrapper {
-  max-width: 56.25rem;
-  margin: 0 auto;
-  padding: 2rem 1rem;
-}
-
-.vp-breadcrumb {
-  display: flex;
-  gap: 0.5rem;
-  margin-bottom: 2rem;
-  font-size: 0.875rem;
-  color: var(--vp-c-text-2);
-  flex-wrap: wrap;
-}
-
-.vp-breadcrumb a {
-  color: var(--vp-c-brand-1);
-  text-decoration: none;
-  transition: color 0.2s;
-}
-
-.vp-breadcrumb a:hover {
-  color: var(--vp-c-brand-2);
-  text-decoration: underline;
-}
-
-.vp-breadcrumb-sep {
-  margin: 0 0.25rem;
-}
-
-.vp-post-header {
-  margin-bottom: 2.5rem;
-  padding-bottom: 2rem;
-  border-bottom: 1px solid var(--vp-c-divider);
-}
-
-.vp-post-header h1 {
-  font-size: 1.875rem;
-  font-weight: 700;
-  line-height: 1.2;
-  margin-bottom: 1rem;
-  color: var(--vp-c-text-1);
-}
-
-.vp-post-lead {
-  font-size: 1rem;
-  color: var(--vp-c-text-2);
-  line-height: 1.6;
-  margin: 0;
-}
+/* Wrapper/breadcrumb/header live in content-shared.css. This file only keeps prose + post-specific elements. */
 
 .vp-prose {
   line-height: 1.8;
@@ -341,22 +292,6 @@
 }
 
 @media (min-width: 48rem) {
-  .vp-post-wrapper {
-    padding: 3rem 2rem;
-  }
-
-  .vp-breadcrumb {
-    margin-bottom: 2rem;
-  }
-
-  .vp-post-header h1 {
-    font-size: 2.5rem;
-  }
-
-  .vp-post-lead {
-    font-size: 1.1rem;
-  }
-
   .vp-prose h2 {
     font-size: 1.75rem;
   }

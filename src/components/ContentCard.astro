@@ -1,0 +1,26 @@
+---
+export interface Props {
+  href: string;
+  title: string;
+  description?: string;
+  icon?: string;
+  tags?: string[];
+}
+
+const { href, title, description, icon, tags = [] } = Astro.props;
+---
+
+<a href={href} class="vp-content-card" data-tags={tags.join(',')}>
+  <div class="vp-content-card-head">
+    {icon && <span class="vp-content-card-icon" aria-hidden="true">{icon}</span>}
+    <h2 class="vp-content-card-title">{title}</h2>
+  </div>
+  {description && <p class="vp-content-card-description">{description}</p>}
+  {tags.length > 0 && (
+    <ul class="vp-content-card-tags" aria-label="Tags">
+      {tags.map((tag) => (
+        <li class="vp-content-card-tag">{tag}</li>
+      ))}
+    </ul>
+  )}
+</a>

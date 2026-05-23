@@ -1,13 +1,13 @@
 ---
 import { getCollection } from 'astro:content';
 import VPLayout from '../../layouts/VPLayout.astro';
+import ContentCard from '../../components/ContentCard.astro';
 
 const BASE = import.meta.env.BASE_URL.replace(/\/?$/, '/');
 const allDocs = await getCollection('categories');
 const cleanSlug = (id: string) => id.replace(/\.md$/i, '');
 const HIDDEN_CATEGORY_PATTERN = /nsfw(?:-content)?/i;
 
-// Category icons mapping
 const categoryIcons: Record<string, string> = {
   'by-company': '🏢',
   'os': '🐧',
@@ -31,57 +31,40 @@ const categoryIcons: Record<string, string> = {
   'utility': '🔧',
 };
 
-// Filter to only include main categories (exclude about, index)
+const customOrder = [
+  'by-company', 'os', 'ai-tools-and-services', 'dev', 'gaming',
+  'education', 'file-management', 'financial-assets', 'health-and-fitness',
+  'home-and-family', 'intercomm', 'multimedia', 'news-media',
+  'office-and-productivity', 'online-services', 'security-and-privacy',
+  'sys-admin', 'time', 'travel-and-location', 'utility'
+];
+
 const docs = allDocs
-  .filter(entry => {
+  .filter((entry) => {
     const slug = cleanSlug(entry.id);
-    if (['about', 'index'].includes(slug)) {
-      return false;
-    }
+    if (['about', 'index'].includes(slug)) return false;
     return !HIDDEN_CATEGORY_PATTERN.test(slug);
   })
-  .sort((a, b) => {
-    // Sort by custom order based on the provided list
-    const customOrder = [
-      'by-company', 'os', 'ai-tools-and-services', 'dev', 'gaming',
-      'education', 'file-management', 'financial-assets', 'health-and-fitness',
-      'home-and-family', 'intercomm', 'multimedia', 'news-media',
-      'office-and-productivity', 'online-services', 'security-and-privacy',
-      'sys-admin', 'time', 'travel-and-location', 'utility'
-    ];
-    const aIndex = customOrder.indexOf(cleanSlug(a.id));
-    const bIndex = customOrder.indexOf(cleanSlug(b.id));
-    return aIndex - bIndex;
-  });
-
-const getIcon = (id: string) => {
-  return categoryIcons[cleanSlug(id)] || '📚';
-};
+  .sort((a, b) => customOrder.indexOf(cleanSlug(a.id)) - customOrder.indexOf(cleanSlug(b.id)));
 ---
 
-<VPLayout title="Categories" hasSidebar={true} extraStyles={['styles/categories-index.css']}>
+<VPLayout title="Categories" hasSidebar={true} extraStyles={['styles/content-shared.css']}>
   <div class="vp-content-wrapper">
     <header class="vp-content-header">
       <h1>Categories</h1>
       <p class="vp-content-subtitle">Comprehensive link directory organized by category with curated resources and tools.</p>
     </header>
 
-    <section class="vp-categories-grid" aria-label="Categories index">
+    <section class="vp-content-grid" aria-label="Categories index">
       {docs.map((entry) => {
         const slug = cleanSlug(entry.id);
-        const link = `${BASE}categories/${slug}/`;
-        const icon = getIcon(entry.id);
-        const title = entry.data.title ?? slug;
-        const description = entry.data.description ?? '';
-        
         return (
-          <a href={link} class="vp-category-card">
-            <div class="vp-category-head">
-              <div class="vp-category-icon">{icon}</div>
-              <h2 class="vp-category-title">{title}</h2>
-            </div>
-            <p class="vp-category-description">{description}</p>
-          </a>
+          <ContentCard
+            href={`${BASE}categories/${slug}/`}
+            title={entry.data.title ?? slug}
+            description={entry.data.description ?? ''}
+            icon={categoryIcons[slug] ?? '📚'}
+          />
         );
       })}
     </section>
