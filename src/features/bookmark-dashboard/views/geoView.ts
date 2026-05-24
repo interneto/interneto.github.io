@@ -174,24 +174,6 @@ function organicBorderPath(va: [number, number], vb: [number, number], hashSeed:
   return line(pts) ?? '';
 }
 
-// ─── Random point inside cell AND island ──────────────────────────────────────
-
-function randomInPolyAndIsland(
-  cell: [number, number][],
-  islandPoly: [number, number][],
-  rng: () => number,
-  maxTries = 120,
-): [number, number] {
-  const [minX, minY, maxX, maxY] = polyBbox(cell);
-  const w = maxX - minX, h = maxY - minY;
-  for (let t = 0; t < maxTries; t++) {
-    const px = minX + rng() * w, py = minY + rng() * h;
-    if (ptInPoly(px, py, cell) && ptInPoly(px, py, islandPoly)) return [px, py];
-  }
-  const cc = polyCentroid(cell);
-  return ptInPoly(cc[0], cc[1], islandPoly) ? cc : polyCentroid(islandPoly);
-}
-
 // ─── Find shared Voronoi edge ─────────────────────────────────────────────────
 
 function findSharedVoronoiEdge(
@@ -253,12 +235,22 @@ export function renderGeo(
   const islands = buildGeoTree(records);
 
   const nIsl = islands.length;
-  const belt = Math.min(drawW, drawH) * 0.34;
+  // Precompute radii first so the belt distance can scale with them: adjacent islands
+  // must sit further apart than their combined radius regardless of viewport size.
+  islands.forEach((isl) => { isl.r = clamp(100 + Math.sqrt(isl.weight) * 6, 110, 240); });
+  const ISLAND_GAP = 80;
+  const maxR = islands.reduce((m, isl) => Math.max(m, isl.r), 0);
+  // Chord length needed between two adjacent islands on the belt = 2R + gap.
+  // For N islands evenly placed, chord = 2·belt·sin(π/N), so belt = chord / (2·sin(π/N)).
+  const minBeltFromIslands = nIsl > 1
+    ? (2 * maxR + ISLAND_GAP) / (2 * Math.sin(Math.PI / nIsl))
+    : 0;
+  const screenBelt = Math.min(drawW, drawH) * 0.34;
+  const belt = Math.max(screenBelt, minBeltFromIslands);
   islands.forEach((isl, ii) => {
     const angle = nIsl > 1 ? (Math.PI * 2 * ii) / nIsl - Math.PI / 2 : 0;
     isl.x = drawW / 2 + (nIsl > 1 ? Math.cos(angle) * belt : 0);
     isl.y = drawH / 2 + (nIsl > 1 ? Math.sin(angle) * belt : 0);
-    isl.r = clamp(100 + Math.sqrt(isl.weight) * 6, 110, 240);
   });
 
   const allCategories: GeoNode[] = [];
@@ -353,30 +345,77 @@ export function renderGeo(
       }
     }
 
+    // Seed every link near its subcategory centroid, then run a per-island d3-force
+    // simulation so they spread without overlapping. Each link is anchored to its
+    // subcategory via positional forces; collision keeps them apart; a tick callback
+    // clamps escapees back inside the island polygon.
+    const islandLinks: GeoNode[] = [];
     sci2 = 0;
     for (const cat of categories) {
       for (const subcat of (cat.children ?? [])) {
         const links = subcat.children ?? [];
-        const cells: [number, number][][] = [];
-        for (let si = 0; si < finalSeeds.length; si++) {
-          if (seedToSubcat[si] !== sci2) continue;
-          const cell = vor.cellPolygon(si) as [number, number][] | null;
-          if (cell) cells.push(cell);
-        }
         const rngL = seededRng(stableHash(subcat.id));
-        links.forEach(link => {
-          if (cells.length === 0) {
-            link.x = subcat.x + (rngL() - 0.5) * 14;
-            link.y = subcat.y + (rngL() - 0.5) * 14;
-          } else {
-            const cell = cells[Math.floor(rngL() * cells.length)];
-            [link.x, link.y] = randomInPolyAndIsland(cell, islandPts, rngL);
-          }
+        links.forEach((link) => {
+          link.x = subcat.x + (rngL() - 0.5) * Math.max(subcat.r, 12);
+          link.y = subcat.y + (rngL() - 0.5) * Math.max(subcat.r, 12);
         });
-        allLinks.push(...links);
+        islandLinks.push(...links);
         sci2++;
       }
     }
+
+    // Convex hull of each subcategory's Voronoi cells = its "zone". Links must live
+     // inside their own zone — no spilling into a neighbouring subcategory's territory.
+    const subcatHulls = new Map<string, [number, number][]>();
+    allIslandSubcats.forEach((sc, gSci) => {
+      const pts = subcatPts[gSci];
+      if (pts.length < 3) return;
+      const hull = d3.polygonHull(pts);
+      if (hull) subcatHulls.set(sc.id, hull);
+    });
+
+    if (islandLinks.length > 0) {
+      const subcatById = new Map(allIslandSubcats.map(sc => [sc.id, sc]));
+      const subcatIdFor = (l: GeoNode) =>
+        `geo/subcat/${island.name}/${l.categoryName}/${l.subCatName}`;
+      const subcatFor = (l: GeoNode) => subcatById.get(subcatIdFor(l));
+
+      // After every tick, snap any link that escaped its subcategory zone back toward
+      // the subcat centroid. Strong pull (t=0.55) so escapees converge fast.
+      const enforceZones = () => {
+        for (const link of islandLinks) {
+          const hull = subcatHulls.get(subcatIdFor(link));
+          if (!hull) continue;
+          if (!ptInPoly(link.x, link.y, hull)) {
+            const sc = subcatFor(link);
+            const cx = sc?.x ?? island.x;
+            const cy = sc?.y ?? island.y;
+            const t = 0.55;
+            link.x = link.x * (1 - t) + cx * t;
+            link.y = link.y * (1 - t) + cy * t;
+          }
+        }
+      };
+
+      const sim = d3.forceSimulation<GeoNode>(islandLinks)
+        .force('x', d3.forceX<GeoNode>(l => subcatFor(l)?.x ?? island.x).strength(0.22))
+        .force('y', d3.forceY<GeoNode>(l => subcatFor(l)?.y ?? island.y).strength(0.22))
+        // Padding (+2.4) is the visual gap so the small disc + label area don't kiss.
+        .force('collide', d3.forceCollide<GeoNode>(l => l.r + 2.4).iterations(2))
+        .on('tick', enforceZones)
+        .stop();
+      const iterations = Math.min(120, Math.ceil(Math.log(islandLinks.length + 10) * 25));
+      for (let k = 0; k < iterations; k++) sim.tick();
+      enforceZones();
+      // Final island-poly clamp in case any survived the per-zone snap.
+      for (const link of islandLinks) {
+        if (!ptInPoly(link.x, link.y, islandPts)) {
+          const sc = subcatFor(link);
+          if (sc) { link.x = sc.x; link.y = sc.y; }
+        }
+      }
+    }
+    allLinks.push(...islandLinks);
 
     allCategories.push(...categories);
     allSubcats.push(...allIslandSubcats);
@@ -403,11 +442,15 @@ export function renderGeo(
       if (!cell) continue;
       const ci    = seedToCat[si];
       const gSci  = seedToSubcat[si];
-      const h     = (baseColor.h + ci * catHueStep) % 360;
-      const sat   = clamp(baseColor.s * 100 + 6, 22, 70);
       const scName = (allIslandSubcats[gSci] as GeoNode | undefined)?.name ?? String(gSci);
-      const lV    = stableHash(scName) % 8;
-      const l     = clamp(baseColor.l * 100 + 18 + lV, 20, 56);
+      // Per-subcategory color: small hue shift within the parent category's hue band
+      // plus a larger lightness spread so neighbouring subcategories read as distinct.
+      const scHash    = stableHash(scName);
+      const subHueShift = ((scHash % 31) - 15) * 0.35;   // ±5° within the category hue
+      const h     = (baseColor.h + ci * catHueStep + subHueShift + 360) % 360;
+      const sat   = clamp(baseColor.s * 100 + 6 + ((scHash >> 5) % 12), 26, 76);
+      const lV    = (scHash % 22) - 6;                    // [-6, +15]
+      const l     = clamp(baseColor.l * 100 + 22 + lV, 22, 62);
       const cat   = categories[ci] as GeoNode | undefined;
       if (!cat) continue;
       cellGroup.append('path')
@@ -438,15 +481,26 @@ export function renderGeo(
         const bd = organicBorderPath(edge[0], edge[1], stableHash(`${si}-${sj}`));
         if (!bd) continue;
 
+        // Three-layer border: light halo (outside glow), thick dark line (the
+        // perimeter), and a faint inner highlight to give the edge a crisp pop.
         if (seedToCat[si] !== seedToCat[sj]) {
+          // Country-level border: between different categories.
           borderGroup.append('path').attr('d', bd).attr('fill', 'none')
-            .attr('stroke', 'rgba(255,255,255,0.20)').attr('stroke-width', 5)
-            .attr('filter', 'blur(2px)');
+            .attr('stroke', 'rgba(255,255,255,0.28)').attr('stroke-width', 7)
+            .attr('filter', 'blur(2.2px)');
           borderGroup.append('path').attr('d', bd).attr('fill', 'none')
-            .attr('stroke', 'rgba(0,0,0,0.58)').attr('stroke-width', 2.4);
+            .attr('stroke', 'rgba(0,0,0,0.85)').attr('stroke-width', 3.4)
+            .attr('stroke-linejoin', 'round').attr('stroke-linecap', 'round');
+          borderGroup.append('path').attr('d', bd).attr('fill', 'none')
+            .attr('stroke', 'rgba(255,255,255,0.30)').attr('stroke-width', 0.9);
         } else {
+          // Province-level border: between sibling subcategories under the same category.
           borderGroup.append('path').attr('d', bd).attr('fill', 'none')
-            .attr('stroke', 'rgba(0,0,0,0.30)').attr('stroke-width', 0.9);
+            .attr('stroke', 'rgba(255,255,255,0.18)').attr('stroke-width', 3.2)
+            .attr('filter', 'blur(1.4px)');
+          borderGroup.append('path').attr('d', bd).attr('fill', 'none')
+            .attr('stroke', 'rgba(0,0,0,0.65)').attr('stroke-width', 1.6)
+            .attr('stroke-linejoin', 'round').attr('stroke-linecap', 'round');
         }
       }
     }
@@ -473,7 +527,11 @@ export function renderGeo(
       const base = d3.hsl(parentColor(l.islandName));
       return `hsla(${base.h}, ${clamp(base.s * 100 + 12, 36, 90).toFixed(1)}%, ${clamp(base.l * 100 + 34, 58, 84).toFixed(1)}%, 0.92)`;
     })
-    .attr('stroke', 'rgba(4,16,28,0.55)').attr('stroke-width', 0.7)
+    .attr('stroke', 'rgba(4,16,28,0.55)')
+    // non-scaling-stroke + an explicit stroke-width that we recompute on zoom keeps
+    // the border proportional to the visible circle (≈15% of visual radius).
+    .attr('vector-effect', 'non-scaling-stroke')
+    .attr('stroke-width', l => Math.max(0.6, l.r * 0.18))
     .on('click', (_, node) => {
       if (node.record) {
         onLinkClick({ id: node.id, name: node.name, type: 'bookmark', record: node.record });
@@ -501,9 +559,11 @@ export function renderGeo(
     .attr('stroke', 'var(--map-label-stroke)').attr('stroke-width', 2.8)
     .style('font-size', '10px').text(n => n.name);
 
+  // Link labels render BELOW the dot — map-of-github style. `hanging` baseline pins
+  // the top of the text glyph to y so the gap stays constant regardless of font.
   const linkLabels = labelLayer
     .selectAll<SVGTextElement, GeoNode>('text.geo-link-label').data(allLinks).join('text')
-    .attr('class', 'geo-link-label').attr('text-anchor', 'middle').attr('dominant-baseline', 'middle')
+    .attr('class', 'geo-link-label').attr('text-anchor', 'middle').attr('dominant-baseline', 'hanging')
     .attr('fill', 'var(--map-label-link)').attr('paint-order', 'stroke')
     .attr('stroke', 'var(--map-label-stroke)').attr('stroke-width', 2.4)
     .style('font-size', '8px').text(n => n.name);
@@ -512,42 +572,83 @@ export function renderGeo(
     scene.attr('transform', `translate(${margin},${margin}) ${zoomState.transform.toString()}`);
   }
 
-  function updateVisibility(k: number): void {
-    scene.selectAll<SVGGElement, unknown>('.geo-territories').style('opacity', k >= 0.6 ? 1 : 0);
-    scene.selectAll<SVGGElement, unknown>('.geo-borders').style('opacity', k >= 0.6 ? 1 : 0);
-    linkSel.style('opacity', k >= 2.4 ? 1 : 0).attr('pointer-events', k >= 2.4 ? null : 'none');
+  // Smooth opacity interpolation across zoom bands. `fadeIn..fadeFull` ramps 0→1;
+  // `holdEnd..fadeOut` ramps 1→0. Outside the [fadeIn, fadeOut] window the label
+  // is hidden via display=none so it doesn't hit-test or get painted.
+  function bandOpacity(k: number, fadeIn: number, fadeFull: number, holdEnd: number, fadeOut: number): number {
+    if (k <= fadeIn || k >= fadeOut) return 0;
+    if (k < fadeFull) return (k - fadeIn) / (fadeFull - fadeIn);
+    if (k <= holdEnd) return 1;
+    return 1 - (k - holdEnd) / (fadeOut - holdEnd);
+  }
 
-    islandLabels.each(function (this: SVGTextElement, node) {
-      const show = k < 1.6;
-      const el = d3.select(this);
-      if (!show) { el.attr('display', 'none'); return; }
-      el.attr('display', null)
-        .attr('x', margin + zoomState.transform.applyX(node.x))
-        .attr('y', margin + zoomState.transform.applyY(node.y));
-    });
-    catLabels.each(function (this: SVGTextElement, node) {
-      const show = k >= 1.6 && k < 3.2;
-      const el = d3.select(this);
-      if (!show) { el.attr('display', 'none'); return; }
-      el.attr('display', null)
-        .attr('x', margin + zoomState.transform.applyX(node.x))
-        .attr('y', margin + zoomState.transform.applyY(node.y));
-    });
-    subcatLabels.each(function (this: SVGTextElement, node) {
-      const show = k >= 3.2 && k < 5.2;
-      const el = d3.select(this);
-      if (!show) { el.attr('display', 'none'); return; }
-      el.attr('display', null)
-        .attr('x', margin + zoomState.transform.applyX(node.x))
-        .attr('y', margin + zoomState.transform.applyY(node.y));
-    });
+  // Bands chosen so neighbouring levels cross-fade for ~0.4 zoom units instead of
+  // popping in/out. Original boundaries: 1.6, 3.2, 5.2.
+  function levelBands(k: number) {
+    return {
+      island:  bandOpacity(k, 0,    0,    1.4,  1.8),
+      cat:     bandOpacity(k, 1.4,  1.8,  3.0,  3.4),
+      subcat:  bandOpacity(k, 3.0,  3.4,  5.0,  5.4),
+      link:    bandOpacity(k, 5.0,  5.4,  Infinity, Infinity),
+      // Territory + border fade in slightly later than islands, never out.
+      territory: bandOpacity(k, 0.5, 0.8, Infinity, Infinity),
+    };
+  }
+
+  function placeLabel(this: SVGTextElement, node: GeoNode, opacity: number, yOffset = 0): void {
+    const el = d3.select(this);
+    if (opacity <= 0.001) { el.attr('display', 'none'); return; }
+    el.attr('display', null).style('opacity', opacity)
+      .attr('x', margin + zoomState.transform.applyX(node.x))
+      .attr('y', margin + zoomState.transform.applyY(node.y) + yOffset);
+  }
+
+  // Visual size caps so dots and labels don't balloon at high zoom.
+  const LINK_MAX_VISUAL_R = 7;        // px, normal link
+  const LINK_FAV_MAX_VISUAL_R = 9;    // px, favourites get a slight bump
+  // Font grows 5% per zoom unit above 1, capped at +50% of baseline.
+  const fontScale = (k: number) => Math.min(1 + Math.max(0, k - 1) * 0.05, 1.5);
+  // Visual radius an SVG circle ends up displaying at zoom k = (attr.r * k).
+  // We invert it so the displayed size is capped: r_attr = min(baseR * k, maxR) / k.
+  const visualR = (baseR: number, maxR: number, k: number) => Math.min(baseR * k, maxR);
+
+  function updateVisibility(k: number): void {
+    const b = levelBands(k);
+    scene.selectAll<SVGGElement, unknown>('.geo-territories').style('opacity', b.territory);
+    scene.selectAll<SVGGElement, unknown>('.geo-borders').style('opacity', b.territory);
+
+    // Counter-scale link dots so they stop growing once they hit the cap, and keep
+    // the border proportional to the visible disc (non-scaling-stroke = stroke-width
+    // is in screen px, independent of the scene zoom).
+    linkSel
+      .style('opacity', b.link)
+      .attr('pointer-events', b.link > 0.5 ? null : 'none')
+      .attr('r', (l) => {
+        const maxR = l.record?.isFavorite ? LINK_FAV_MAX_VISUAL_R : LINK_MAX_VISUAL_R;
+        return visualR(l.r, maxR, k) / k;
+      })
+      .attr('stroke-width', (l) => {
+        const maxR = l.record?.isFavorite ? LINK_FAV_MAX_VISUAL_R : LINK_MAX_VISUAL_R;
+        return Math.max(0.6, visualR(l.r, maxR, k) * 0.18);
+      });
+
+    // Slight, capped font growth across all label layers.
+    const fs = fontScale(k);
+    islandLabels.style('font-size', `${14 * fs}px`);
+    catLabels.style('font-size',    `${12 * fs}px`);
+    subcatLabels.style('font-size', `${10 * fs}px`);
+    linkLabels.style('font-size',   `${8 * fs}px`);
+
+    islandLabels.each(function (this: SVGTextElement, node) { placeLabel.call(this, node, b.island); });
+    catLabels.each(function (this: SVGTextElement, node) { placeLabel.call(this, node, b.cat); });
+    subcatLabels.each(function (this: SVGTextElement, node) { placeLabel.call(this, node, b.subcat); });
+    // Link labels sit BELOW the dot. Gap = capped visual radius + 2px so the label
+    // doesn't drift away from the dot once we hit the size cap.
     linkLabels.each(function (this: SVGTextElement, node) {
-      const show = k >= 5.2 && node.r * k > 5;
-      const el = d3.select(this);
-      if (!show) { el.attr('display', 'none'); return; }
-      el.attr('display', null)
-        .attr('x', margin + zoomState.transform.applyX(node.x))
-        .attr('y', margin + zoomState.transform.applyY(node.y));
+      const maxR = node.record?.isFavorite ? LINK_FAV_MAX_VISUAL_R : LINK_MAX_VISUAL_R;
+      const offset = visualR(node.r, maxR, k) + 2;
+      const showByR = node.r * k > 5;
+      placeLabel.call(this, node, showByR ? b.link : 0, offset);
     });
   }
 

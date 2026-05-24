@@ -20,6 +20,7 @@
   },
   "devDependencies": {
     "@types/node": "^25.7.0",
+    "playwright": "^1.60.0",
     "svgo": "^4.0.1"
   }
 }
