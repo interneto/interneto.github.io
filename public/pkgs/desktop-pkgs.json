@@ -141,7 +141,7 @@
         "freebsd_pkg": "apache24",
         "macos_brew": "httpd",
         "unix_nix_env": "apache-httpd",
-        "windows_winget": "Apache.Httpd"
+        "windows_winget": "ApacheLounge.httpd"
       }
     },
     "ardour": {
@@ -177,7 +177,7 @@
         "freebsd_pkg": "audacious",
         "macos_brew": "audacious",
         "unix_nix_env": "nixos.audacious",
-        "windows_winget": "Audacious.Audacious"
+        "windows_winget": "Audacious.MediaPlayer"
       }
     },
     "audacity": {
@@ -213,7 +213,7 @@
         "freebsd_pkg": null,
         "macos_brew": null,
         "unix_nix_env": null,
-        "windows_winget": "AudioRelay.AudioRelay"
+        "windows_winget": "AsaphaHalifa.AudioRelay"
       }
     },
     "autocad": {
@@ -231,7 +231,7 @@
         "freebsd_pkg": null,
         "macos_brew": null,
         "unix_nix_env": null,
-        "windows_winget": "Autodesk.AutoCAD"
+        "windows_winget": null
       }
     },
     "balabolka": {
@@ -249,7 +249,7 @@
         "freebsd_pkg": null,
         "macos_brew": null,
         "unix_nix_env": null,
-        "windows_winget": "Ilya.Morozov.Balabolka"
+        "windows_winget": "CrossPlusA.Balabolka"
       }
     },
     "balena-etcher": {
@@ -576,7 +576,7 @@
         "freebsd_pkg": null,
         "macos_brew": "deno",
         "unix_nix_env": "deno",
-        "windows_winget": "Deno.Deno"
+        "windows_winget": "DenoLand.Deno"
       }
     },
     "digikam": {
@@ -594,7 +594,7 @@
         "freebsd_pkg": "digikam",
         "macos_brew": "digikam",
         "unix_nix_env": "nixos.digikam",
-        "windows_winget": "digiKam.digiKam"
+        "windows_winget": "KDE.digiKam"
       }
     },
     "discord": {
@@ -702,7 +702,7 @@
         "freebsd_pkg": null,
         "macos_brew": "dotnet",
         "unix_nix_env": "dotnet-runtime",
-        "windows_winget": "Microsoft.DotNet.SDK"
+        "windows_winget": "Microsoft.DotNet.SDK.10"
       }
     },
     "drawio": {
@@ -720,7 +720,7 @@
         "freebsd_pkg": null,
         "macos_brew": "drawio",
         "unix_nix_env": "drawio",
-        "windows_winget": "JGraph.drawio"
+        "windows_winget": "JGraph.Draw"
       }
     },
     "dropbox": {
@@ -864,7 +864,7 @@
         "freebsd_pkg": null,
         "macos_brew": "espanso",
         "unix_nix_env": "espanso",
-        "windows_winget": "Federico.Espanso"
+        "windows_winget": "Espanso.Espanso"
       }
     },
     "evolution": {
@@ -1098,7 +1098,7 @@
         "freebsd_pkg": null,
         "macos_brew": null,
         "unix_nix_env": null,
-        "windows_winget": "FxSoundLLC.FxSound"
+        "windows_winget": "FxSound.FxSound"
       }
     },
     "gcc": {
@@ -1116,7 +1116,7 @@
         "freebsd_pkg": "gcc",
         "macos_brew": "gcc",
         "unix_nix_env": "gcc",
-        "windows_winget": "GNU.GCC"
+        "windows_winget": "BrechtSanders.WinLibs.POSIX.UCRT"
       }
     },
     "geany": {
@@ -1224,7 +1224,7 @@
         "freebsd_pkg": "gnome-boxes",
         "macos_brew": "gnome-boxes",
         "unix_nix_env": "gnome-nixos.gnome-boxes",
-        "windows_winget": "Boxes"
+        "windows_winget": null
       }
     },
     "gnucash": {
@@ -1260,7 +1260,7 @@
         "freebsd_pkg": "godot",
         "macos_brew": "godot",
         "unix_nix_env": "nixos.godot",
-        "windows_winget": "GodotEngine.Godot"
+        "windows_winget": "GodotEngine.GodotEngine"
       }
     },
     "google-earth": {
@@ -1332,7 +1332,7 @@
         "freebsd_pkg": "gpxsee",
         "macos_brew": "gpxsee",
         "unix_nix_env": "gpxsee",
-        "windows_winget": "gpxsee.GPXSee"
+        "windows_winget": "tumic0.GPXSee"
       }
     },
     "gramps": {
@@ -1710,7 +1710,7 @@
         "freebsd_pkg": "kate",
         "macos_brew": "kate",
         "unix_nix_env": "nixos.kate",
-        "windows_winget": "KateEditor.Kate"
+        "windows_winget": "KDE.Kate"
       }
     },
     "kde-connect": {
@@ -1746,7 +1746,7 @@
         "freebsd_pkg": "kdenlive",
         "macos_brew": "kdenlive",
         "unix_nix_env": "nixos.kdenlive",
-        "windows_winget": "Kdenlive.Kdenlive"
+        "windows_winget": "KDE.Kdenlive"
       }
     },
     "keepassxc": {
@@ -1980,7 +1980,7 @@
         "freebsd_pkg": null,
         "macos_brew": "ledger-live",
         "unix_nix_env": null,
-        "windows_winget": "Ledger.LedgerLive"
+        "windows_winget": "LedgerHQ.LedgerLive"
       }
     },
     "libreoffice": {
@@ -2052,7 +2052,7 @@
         "freebsd_pkg": null,
         "macos_brew": null,
         "unix_nix_env": null,
-        "windows_winget": "LucasChess.LucasChess"
+        "windows_winget": null
       }
     },
     "lulu": {
@@ -2124,7 +2124,7 @@
         "freebsd_pkg": "mariadb105-server",
         "macos_brew": "mariadb",
         "unix_nix_env": "mariadb",
-        "windows_winget": "MariaDB.MariaDBServer"
+        "windows_winget": "MariaDB.Server"
       }
     },
     "mediawiki": {
@@ -2232,7 +2232,7 @@
         "freebsd_pkg": null,
         "macos_brew": null,
         "unix_nix_env": null,
-        "windows_winget": "Monero.MoneroGUI"
+        "windows_winget": null
       }
     },
     "mongodb": {
@@ -2304,7 +2304,7 @@
         "freebsd_pkg": "mpv",
         "macos_brew": "mpv",
         "unix_nix_env": "nixos.mpv",
-        "windows_winget": "MPVPlayer.MPV"
+        "windows_winget": "shinchiro.mpv"
       }
     },
     "mullvad-vpn": {
@@ -2358,7 +2358,7 @@
         "freebsd_pkg": null,
         "macos_brew": null,
         "unix_nix_env": null,
-        "windows_winget": "MusicBee.MusicBee"
+        "windows_winget": "9P4CLT2RJ1RS"
       }
     },
     "musicbrainz-picard": {
@@ -2430,7 +2430,7 @@
         "freebsd_pkg": null,
         "macos_brew": null,
         "unix_nix_env": null,
-        "windows_winget": "NewElle.NewElle"
+        "windows_winget": null
       }
     },
     "nextcloud-desktop": {
@@ -2484,7 +2484,7 @@
         "freebsd_pkg": "nmap",
         "macos_brew": "nmap",
         "unix_nix_env": "nixos.nmap",
-        "windows_winget": "Nmap.Nmap"
+        "windows_winget": "Insecure.Nmap"
       }
     },
     "nodejs": {
@@ -2790,7 +2790,7 @@
         "freebsd_pkg": null,
         "macos_brew": null,
         "unix_nix_env": null,
-        "windows_winget": "pear-devs.pear-desktop"
+        "windows_winget": null
       }
     },
     "photoprism": {
@@ -2880,7 +2880,7 @@
         "freebsd_pkg": "playonlinux",
         "macos_brew": "playonlinux",
         "unix_nix_env": "nixos.playonlinux",
-        "windows_winget": "PlayOnLinux"
+        "windows_winget": null
       }
     },
     "plex": {
@@ -2916,7 +2916,7 @@
         "freebsd_pkg": "postgresql13-server",
         "macos_brew": "postgresql",
         "unix_nix_env": "postgresql",
-        "windows_winget": "PostgreSQL.PostgreSQL"
+        "windows_winget": "PostgreSQL.PostgreSQL.17"
       }
     },
     "postman": {
@@ -2952,7 +2952,7 @@
         "freebsd_pkg": "ppsspp",
         "macos_brew": "ppsspp",
         "unix_nix_env": "ppsspp",
-        "windows_winget": "HenrikRydgard.PPSSPP"
+        "windows_winget": "PPSSPPTeam.PPSSPP"
       }
     },
     "proton": {
@@ -3006,7 +3006,7 @@
         "freebsd_pkg": null,
         "macos_brew": "protonvpn",
         "unix_nix_env": "nixos.protonvpn-gui",
-        "windows_winget": "ProtonTechnologies.ProtonVPN"
+        "windows_winget": "Proton.ProtonVPN"
       }
     },
     "putty": {
@@ -3042,7 +3042,7 @@
         "freebsd_pkg": "python",
         "macos_brew": "python",
         "unix_nix_env": "nixos.python3",
-        "windows_winget": "Python.Python.3"
+        "windows_winget": "Python.Python.3.13"
       }
     },
     "qalculate": {
@@ -3132,7 +3132,7 @@
         "freebsd_pkg": null,
         "macos_brew": "qt-creator",
         "unix_nix_env": null,
-        "windows_winget": "TheQtCompany.QtCreator"
+        "windows_winget": "TheQtCompanyLtd.QtCreator"
       }
     },
     "raindrop-io": {
@@ -3150,7 +3150,7 @@
         "freebsd_pkg": null,
         "macos_brew": "raindropio",
         "unix_nix_env": null,
-        "windows_winget": "Raindrop.Raindrop"
+        "windows_winget": "RustemMussabekov.Raindrop"
       }
     },
     "rapidraw": {
@@ -3168,7 +3168,7 @@
         "freebsd_pkg": null,
         "macos_brew": null,
         "unix_nix_env": null,
-        "windows_winget": "RapidRaw.RapidRaw"
+        "windows_winget": "CyberTimon.RapidRAW"
       }
     },
     "rawtherapee": {
@@ -3474,7 +3474,7 @@
         "freebsd_pkg": null,
         "macos_brew": "shutter-encoder",
         "unix_nix_env": null,
-        "windows_winget": "ShutterEncoder.ShutterEncoder"
+        "windows_winget": "PaulPacifico.ShutterEncoder"
       }
     },
     "signal": {
@@ -3510,7 +3510,7 @@
         "freebsd_pkg": null,
         "macos_brew": "simplex",
         "unix_nix_env": null,
-        "windows_winget": "SimpleXChat.SimpleX"
+        "windows_winget": "SimpleX.SimpleX-Chat"
       }
     },
     "sketchup": {
@@ -3528,7 +3528,7 @@
         "freebsd_pkg": null,
         "macos_brew": null,
         "unix_nix_env": null,
-        "windows_winget": "Trimble.SketchUp"
+        "windows_winget": "Trimble.SketchUp.2026"
       }
     },
     "speech-note": {
@@ -3582,7 +3582,7 @@
         "freebsd_pkg": "sqlite3",
         "macos_brew": "sqlite",
         "unix_nix_env": "sqlite",
-        "windows_winget": "SQLite.SQLite3"
+        "windows_winget": "SQLite.SQLite"
       }
     },
     "stability-matrix": {
@@ -3744,7 +3744,7 @@
         "freebsd_pkg": null,
         "macos_brew": "stretchly",
         "unix_nix_env": null,
-        "windows_winget": "hovancik.Stretchly"
+        "windows_winget": "Stretchly.Stretchly"
       }
     },
     "sublime-text-4": {
@@ -3816,7 +3816,7 @@
         "freebsd_pkg": "taskwarrior",
         "macos_brew": "task",
         "unix_nix_env": "taskwarrior",
-        "windows_winget": "TaskwarriorC.Taskwarrior"
+        "windows_winget": null
       }
     },
     "teamviewer": {
@@ -3978,7 +3978,7 @@
         "freebsd_pkg": "tree",
         "macos_brew": "tree",
         "unix_nix_env": "nixos.tree",
-        "windows_winget": "sharkdp.tree"
+        "windows_winget": "GnuWin32.Tree"
       }
     },
     "ungoogled-chromium": {
@@ -4284,7 +4284,7 @@
         "freebsd_pkg": null,
         "macos_brew": "whatsapp",
         "unix_nix_env": null,
-        "windows_winget": "WhatsApp.WhatsApp"
+        "windows_winget": "9NKSQGP7F2NH"
       }
     },
     "whisper-cpp": {
@@ -4338,7 +4338,7 @@
         "freebsd_pkg": "wine",
         "macos_brew": "wine",
         "unix_nix_env": "nixos.wine",
-        "windows_winget": "WineHQ.Wine"
+        "windows_winget": null
       }
     },
     "wireguard": {
@@ -4410,7 +4410,7 @@
         "freebsd_pkg": null,
         "macos_brew": null,
         "unix_nix_env": null,
-        "windows_winget": "Xampp.Xampp"
+        "windows_winget": "ApacheFriends.Xampp.8.2"
       }
     },
     "xemu": {
