@@ -54,6 +54,24 @@
         "windows_winget": "AdGuard.AdGuard"
       }
     },
+    "adguard-vpn": {
+      "name": "AdGuard VPN",
+      "category": "Internet & Communication",
+      "subcategory": "VPN",
+      "package_manager": {
+        "linux_arch_aur": null,
+        "linux_arch_pacman": null,
+        "linux_debian_apt": null,
+        "linux_fedora_rpm": null,
+        "linux_gentoo_emerge": null,
+        "linux_flatpak": null,
+        "linux_snap": null,
+        "freebsd_pkg": null,
+        "macos_brew": "adguard-vpn",
+        "unix_nix_env": null,
+        "windows_winget": "AdGuard.AdGuardVPN"
+      }
+    },
     "affinity-studio": {
       "name": "Affinity Studio",
       "category": "Image",
