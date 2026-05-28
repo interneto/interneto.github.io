@@ -47,4 +47,67 @@ const hasLeadingMarkdownTitle = /^\s*#\s+/.test(entry.body ?? '');
 
     <ContentTOC headings={headings} />
   </div>
+
+  <script is:inline>
+    (() => {
+      const toggle = document.getElementById('categoryFavoritesToggle');
+      const prose = document.querySelector('.vp-prose');
+      if (!toggle || !prose) return;
+
+      const STORAGE_KEY = 'interneto:favorites-only';
+      const STAR_RE = /^\s*⭐/;
+
+      const items = Array.from(prose.querySelectorAll('li'));
+      const favItems = items.filter((li) => STAR_RE.test(li.textContent || ''));
+      favItems.forEach((li) => li.classList.add('vp-fav-item'));
+
+      const lists = Array.from(prose.querySelectorAll('ul, ol'));
+      const headings = Array.from(prose.querySelectorAll('h2, h3, h4'));
+
+      const isVisible = (el) => !el.classList.contains('vp-favorite-hidden');
+
+      const applyFilter = (on) => {
+        toggle.setAttribute('aria-checked', on ? 'true' : 'false');
+        toggle.classList.toggle('is-active', on);
+
+        items.forEach((li) => {
+          const isFav = li.classList.contains('vp-fav-item');
+          li.classList.toggle('vp-favorite-hidden', on && !isFav);
+        });
+
+        lists.forEach((list) => {
+          const hasVisibleChild = Array.from(list.children).some(isVisible);
+          list.classList.toggle('vp-favorite-hidden', on && !hasVisibleChild);
+        });
+
+        headings.forEach((h) => {
+          let sibling = h.nextElementSibling;
+          let hasContent = false;
+          while (sibling && !/^H[2-4]$/.test(sibling.tagName)) {
+            if (isVisible(sibling) && (sibling.tagName === 'UL' || sibling.tagName === 'OL' || sibling.textContent?.trim())) {
+              hasContent = true;
+              break;
+            }
+            sibling = sibling.nextElementSibling;
+          }
+          h.classList.toggle('vp-favorite-hidden', on && !hasContent);
+        });
+      };
+
+      let on = false;
+      try {
+        on = localStorage.getItem(STORAGE_KEY) === '1';
+      } catch {}
+
+      applyFilter(on);
+
+      toggle.addEventListener('click', () => {
+        on = !on;
+        try {
+          localStorage.setItem(STORAGE_KEY, on ? '1' : '0');
+        } catch {}
+        applyFilter(on);
+      });
+    })();
+  </script>
 </VPLayout>

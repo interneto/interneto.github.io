@@ -71,6 +71,7 @@ const mapItems: SidebarItem[] = [
 
 // Left sidebar on /categories/ + /categories/<slug>, /posts/ + /post/<slug>, and /map/
 const isCategoriesArea = currentPath.startsWith(`${BASE}categories`);
+const isCategoryDetail = isCategoriesArea && currentPath !== `${BASE}categories` && currentPath !== `${BASE}categories/`;
 const isPostsArea = currentPath.startsWith(`${BASE}posts`) || currentPath.startsWith(`${BASE}post/`) || currentPath === `${BASE}post`;
 const isMapPage = currentPath.includes('/map');
 
@@ -101,6 +102,27 @@ const title =
               autocomplete="off"
               aria-label="Search categories"
             />
+          </div>
+        )}
+
+        {isCategoryDetail && (
+          <div class="vp-sidebar-favorites-wrap">
+            <button
+              id="categoryFavoritesToggle"
+              type="button"
+              class="vp-favorites-switch"
+              role="switch"
+              aria-checked="false"
+              aria-label="Show only favorite links"
+            >
+              <span class="vp-favorites-switch-track" aria-hidden="true">
+                <span class="vp-favorites-switch-thumb"></span>
+              </span>
+              <span class="vp-favorites-switch-label">
+                <span class="vp-favorites-switch-star" aria-hidden="true">★</span>
+                Favorites
+              </span>
+            </button>
           </div>
         )}
 
