@@ -230,7 +230,7 @@ function updateCommand() {
                 const parts = lib.split(':');
                 const groupId = parts[0];
                 const artifactId = parts[1] ?? parts[0];
-                return `<dependency>\n    <groupId>${groupId}</groupId>\n    <artifactId>${artifactId}</artifactId>\n</dependency>`;
+                return `<dependency>\n    <groupId>${groupId}</groupId>\n    <artifactId>${artifactId}</artifactId>\n    <version>LATEST</version>\n</dependency>`;
             });
             cmd = `<!-- Add inside <dependencies> in pom.xml -->\n${deps.join('\n')}`;
         } else {
@@ -239,7 +239,7 @@ function updateCommand() {
                 const parts = lib.split(':');
                 const groupId = parts[0];
                 const artifactId = parts[1] ?? parts[0];
-                return `implementation '${groupId}:${artifactId}'`;
+                return `implementation '${groupId}:${artifactId}:+'`;
             });
             cmd = `// Add inside dependencies { } in build.gradle\n${deps.join('\n')}`;
         }
