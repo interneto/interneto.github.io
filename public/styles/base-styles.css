@@ -485,6 +485,39 @@ option {
     color: var(--border-color);
 }
 
+.site-footer-social {
+    display: inline-flex;
+    align-items: center;
+    gap: var(--spacing-xs);
+}
+
+.site-footer-social a {
+    display: inline-flex;
+}
+
+.site-footer-social img {
+    width: 16px;
+    height: 16px;
+    vertical-align: middle;
+    opacity: 0.7;
+    transition: opacity 0.2s ease;
+}
+
+.site-footer-social a:hover img {
+    opacity: 1;
+}
+
+/* GitHub mark is near-black; lighten it on dark backgrounds so it stays visible. */
+[data-theme="dark"] .site-footer-icon-github {
+    filter: invert(1);
+}
+
+@media (prefers-color-scheme: dark) {
+    :root:not([data-theme]) .site-footer-icon-github {
+        filter: invert(1);
+    }
+}
+
 /* ==========================================================================
    UNIFIED CARD COMPONENT - REUSABLE STYLES
    ========================================================================== */

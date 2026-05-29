@@ -9,59 +9,33 @@ footer: true
 
 > The name **Interneto** derives from "**Inter**-communicated **Net**works", with the **O** representing closed circular connections.
 
-**Interneto Links** is a curated web directory: a structured collection of categorized websites maintained in Raindrop.io and exported into Markdown-based documentation.
+**Interneto Links** is a curated web directory: categorized websites maintained in Raindrop.io and exported into Markdown-based documentation.
 
 ## Project Background
 
-The project originated in 2020 by **David7ce**, with the goal of building a freely accessible, systematically organized database of websites.
+Started in 2020 by **David7ce** to build a freely accessible, systematically organized database of websites.
 
-At first glance, the scope appears infeasible. Estimates suggest there are between 1–2 billion registered domains, with continuous churn (creation and expiration). However, the effective working set is significantly smaller:
-
-- Fewer than ~200 million domains are actively maintained  
-- A large proportion are parked, inactive, or low-value  
-- Only a small fraction (roughly an order of magnitude lower) provide meaningful utility  
-
-Sources such as the *Netcraft Web Server Survey (February 2026)* and the *Majestic Million* dataset support this general distribution, although exact percentages vary depending on methodology and definition of “active” or “useful”.
-
-Given this, attempting exhaustive classification is neither tractable nor particularly useful. **Interneto instead operates under a selective curation model**, prioritizing:
-
-- Functional relevance  
-- Technical or informational value  
-- Signal over noise  
+Indexing the whole web is intractable — of an estimated 1–2 billion registered domains, fewer than ~200 million are actively maintained and only a small fraction provide meaningful utility (per the *Netcraft Web Server Survey* and *Majestic Million*). So Interneto uses **selective curation**, prioritizing functional relevance, technical/informational value, and signal over noise.
 
 ## Historical Context
 
-Earlier efforts attempted to manually index the web:
-
-- **DMOZ (Open Directory Project)** — discontinued in 2017  
-- **Curlie** — a community-maintained successor, with limited activity  
-
-These systems relied heavily on hierarchical taxonomy and human moderation. While structurally robust, they struggled with scalability and maintenance overhead.
-
-In contrast, modern discovery is dominated by:
-
-- Search engines (e.g., Google, Bing, DuckDuckGo, Yandex)  
-- AI-driven interfaces (e.g., ChatGPT, Claude, Gemini)  
-
-These systems optimize for retrieval rather than structured understanding, which has contributed to the decline of traditional directories.
+Earlier manual indexes — **DMOZ** (discontinued 2017) and its successor **Curlie** — relied on hierarchical taxonomy and human moderation, and struggled with scale and maintenance. Modern discovery is now dominated by search engines (Google, Bing, DuckDuckGo) and AI interfaces (ChatGPT, Claude, Gemini), which optimize for retrieval over structure — contributing to the decline of directories.
 
 ## Why Web Directories Still Matter
 
-Despite reduced mainstream usage, curated directories provide distinct advantages:
+Curated directories still offer distinct advantages:
 
-- **Low infrastructure overhead** — can be hosted as static content  
-- **Privacy-preserving** — no tracking, profiling, or ad targeting  
-- **High signal density** — manually filtered resources  
-- **Independence from SEO and marketing incentives**  
-- **Portability** — can be cloned, versioned, and used locally  
+- **Low infrastructure overhead** — hostable as static content
+- **Privacy-preserving** — no tracking or ad targeting
+- **High signal density** — manually filtered resources
+- **Independence** from SEO and marketing incentives
+- **Portability** — cloneable, versionable, usable locally
 
-From a systems perspective, they function more like **knowledge bases** than search engines.
+They function more like **knowledge bases** than search engines.
 
 ## Core Challenge: Structure vs Discoverability
 
-The primary limitation of directories is not data collection, but **navigation**.
-
-Strict hierarchical categorization introduces trade-offs:
+The main limitation is **navigation**, not data collection:
 
 | Approach            | Strengths                       | Limitations                      |
 |---------------------|---------------------------------|----------------------------------|
@@ -69,44 +43,29 @@ Strict hierarchical categorization introduces trade-offs:
 | Tag-based (graph)   | Flexible, multi-dimensional     | Can become inconsistent/noisy    |
 | Search-driven       | Fast retrieval                  | Weak global structure            |
 
-Interneto leans toward a **hybrid model**:
-
-- Hierarchical categories for baseline structure  
-- Tagging for cross-cutting relationships  
-- Static export for performance and portability  
+Interneto uses a **hybrid model**: hierarchical categories for baseline structure, tagging for cross-cutting relationships, and static export for performance and portability.
 
 ## Implementation Approach
 
-The current workflow is:
+1. **Collection** — curated links stored in Raindrop.io
+2. **Classification** — assignment of categories and tags
+3. **Export** — transformation into Markdown files
+4. **Presentation** — static website with navigable structure
 
-1. **Collection** — curated links stored in Raindrop.io  
-2. **Classification** — assignment of categories and tags  
-3. **Export** — transformation into Markdown files  
-4. **Presentation** — static website with navigable structure  
-
-This design prioritizes:
-
-- Simplicity  
-- Version control compatibility  
-- Long-term maintainability  
+This prioritizes simplicity, version-control compatibility, and long-term maintainability.
 
 ## Related Projects
 
-Several modern projects operate in adjacent spaces:
-
-- [AlternativeTo](https://alternativeto.net/) — curated index of tools and software alternatives  
-- [FMHY](https://fmhy.net/) — structured database of software alternatives and digital resources  
-- [Eylenburg](https://eylenburg.github.io/) — comprehensive software comparisons (OS, desktop environments, web browsers, messaging apps, cloud services, payment methods, spreadsheets, digital freedom tools)
+- [AlternativeTo](https://alternativeto.net/) — curated index of tools and software alternatives
+- [FMHY](https://fmhy.net/) — structured database of software alternatives and digital resources
+- [Eylenburg](https://eylenburg.github.io/) — comprehensive software comparisons (OS, desktop environments, browsers, messaging, cloud, payments, spreadsheets, digital freedom tools)
 - [ComparisonTables](https://comparisontabl.es/) — detailed hardware device comparisons in tabular format
 - [Kimovil](https://www.kimovil.com/en/) — smartphone specifications and price comparison
 
-While these platforms emphasize breadth and community contribution, **Interneto focuses more narrowly on structured classification and long-term knowledge organization**.
+These emphasize breadth and community contribution, while **Interneto focuses more narrowly on structured classification and long-term knowledge organization**.
 
 ## Perspective
 
-Interneto does not attempt to index the entire web. Instead, it treats the web as a **high-entropy system**, where value emerges from selective filtering and structured organization.
-
-The underlying assumption is pragmatic:
+Interneto does not index the entire web. It treats the web as a **high-entropy system** where value emerges from selective filtering and structured organization.
 
 > A smaller, well-structured subset of the web can be more useful than an exhaustive but unstructured whole.
-
