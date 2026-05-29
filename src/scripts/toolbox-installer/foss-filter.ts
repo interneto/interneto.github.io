@@ -4,7 +4,7 @@
  */
 
 import { CLASS_NAMES, EVENT_NAMES } from '../shared/dom-constants';
-import { getFossList } from '../shared/data-loader';
+import { getNonFossList } from '../shared/data-loader';
 import {
     getElement,
     getPackageCheckbox,
@@ -43,7 +43,7 @@ export function setupFossToggle() {
  * @param {boolean} isActive - Whether to show only FOSS packages
  */
 export function applyFossFilter(isActive) {
-    getFossList().forEach(pkgId => {
+    getNonFossList().forEach(pkgId => {
         const checkbox = getPackageCheckbox(pkgId);
         if (checkbox) {
             const label = checkbox.closest('label');
@@ -83,7 +83,7 @@ export function isFossFilterActive() {
  */
 export function getVisibleNonFossCount() {
     let count = 0;
-    getFossList().forEach(pkgId => {
+    getNonFossList().forEach(pkgId => {
         const checkbox = getPackageCheckbox(pkgId);
         if (checkbox) {
             const label = checkbox.closest('label');

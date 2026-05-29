@@ -1,7 +1,7 @@
 /**
  * Library Compatibility Table
  * Shows equivalent libraries across languages by category.
- * Data lives in public/pkgs/config/lib-compat-table.json.
+ * Data lives in public/pkgs/config.json (libCompatTable).
  */
 
 import {

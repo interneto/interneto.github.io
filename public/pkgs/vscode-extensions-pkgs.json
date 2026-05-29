@@ -112,6 +112,10 @@
       "name": "Image Preview",
       "category": "Utilities"
     },
+    "marimo-team.vscode-marimo": {
+      "name": "marimo",
+      "category": "Languages"
+    },
     "mathematic.vscode-pdf": {
       "name": "PDF Viewer",
       "category": "Utilities"

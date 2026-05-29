@@ -1,7 +1,18 @@
-// Runtime loaders for JSON config in public/pkgs/config/.
+// Runtime loaders for the merged JSON config in public/pkgs/config.json.
 // Each entry script must `await initConfigData()` before using the sync getters.
 
 import { PATHS } from './paths';
+
+interface ConfigFile {
+    nonFossList: string[];
+    categoryEmojis: Record<string, string>;
+    distroPrefixes: Record<string, string>;
+    windowsNonWinget: WindowsNonWingetEntry[];
+    libCategories: LibCategoriesConfig;
+    vscodeExtensionsMeta: VscodeExtensionsMeta;
+    libCompatTable: LibCompatTable;
+    libIcons: LibIconsConfig;
+}
 
 export interface WindowsNonWingetEntry { id: string; name: string; }
 export interface LibCategoriesConfig {
@@ -26,7 +37,7 @@ export interface LibIconsConfig {
     libraries: Record<string, string>;
 }
 
-let fossList: string[] = [];
+let nonFossList: string[] = [];
 let categoryEmojis: Record<string, string> = {};
 let distroPrefixes: Record<string, string> = {};
 let windowsNonWinget: WindowsNonWingetEntry[] = [];
@@ -41,39 +52,29 @@ let libIcons: LibIconsConfig = {
 
 let initPromise: Promise<void> | null = null;
 
-async function fetchJson<T>(name: string): Promise<T> {
-    const res = await fetch(`${PATHS.CONFIG_DIR}${name}.json`);
-    if (!res.ok) {
-        throw new Error(`Failed to load config/${name}.json: ${res.statusText}`);
-    }
-    return res.json() as Promise<T>;
-}
-
 export function initConfigData(): Promise<void> {
     if (initPromise) return initPromise;
-    initPromise = Promise.all([
-        fetchJson<string[]>('foss-list'),
-        fetchJson<Record<string, string>>('category-emojis'),
-        fetchJson<Record<string, string>>('distro-prefixes'),
-        fetchJson<WindowsNonWingetEntry[]>('windows-non-winget'),
-        fetchJson<LibCategoriesConfig>('lib-categories'),
-        fetchJson<VscodeExtensionsMeta>('vscode-extensions-meta'),
-        fetchJson<LibCompatTable>('lib-compat-table'),
-        fetchJson<LibIconsConfig>('lib-icons'),
-    ]).then(([foss, emojis, distros, nonWinget, libs, vscode, compat, icons]) => {
-        fossList = foss;
-        categoryEmojis = emojis;
-        distroPrefixes = distros;
-        windowsNonWinget = nonWinget;
-        libCategories = libs;
-        vscodeExtensionsMeta = vscode;
-        libCompatTable = compat;
-        libIcons = icons;
-    });
+    initPromise = fetch(PATHS.CONFIG_URL)
+        .then((res) => {
+            if (!res.ok) {
+                throw new Error(`Failed to load config.json: ${res.statusText}`);
+            }
+            return res.json() as Promise<ConfigFile>;
+        })
+        .then((config) => {
+            nonFossList = config.nonFossList;
+            categoryEmojis = config.categoryEmojis;
+            distroPrefixes = config.distroPrefixes;
+            windowsNonWinget = config.windowsNonWinget;
+            libCategories = config.libCategories;
+            vscodeExtensionsMeta = config.vscodeExtensionsMeta;
+            libCompatTable = config.libCompatTable;
+            libIcons = config.libIcons;
+        });
     return initPromise;
 }
 
-export const getFossList = (): string[] => fossList;
+export const getNonFossList = (): string[] => nonFossList;
 export const getCategoryEmojis = (): Record<string, string> => categoryEmojis;
 export const getDistroPrefixes = (): Record<string, string> => distroPrefixes;
 export const getWindowsNonWinget = (): WindowsNonWingetEntry[] => windowsNonWinget;

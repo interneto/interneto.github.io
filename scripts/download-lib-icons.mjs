@@ -4,8 +4,8 @@
 // as a fallback, but local files load faster and survive CDN outages.
 //
 // Sources of truth:
-//   - public/pkgs/lib-pkgs.json            — what libraries exist per language
-//   - public/pkgs/config/lib-icons.json    — name→slug mapping (and language slugs)
+//   - public/pkgs/lib-pkgs.json    — what libraries exist per language
+//   - public/pkgs/config.json      — libIcons: name→slug mapping (and language slugs)
 //
 // Run with:  node scripts/download-lib-icons.mjs
 
@@ -17,12 +17,12 @@ const here = dirname(fileURLToPath(import.meta.url));
 const root = resolve(here, '..');
 
 const libPkgsPath = resolve(root, 'public/pkgs/lib-pkgs.json');
-const libIconsPath = resolve(root, 'public/pkgs/config/lib-icons.json');
+const configPath = resolve(root, 'public/pkgs/config.json');
 const outDir = resolve(root, 'public/img/software/lib');
 if (!existsSync(outDir)) mkdirSync(outDir, { recursive: true });
 
 const libPkgs = JSON.parse(readFileSync(libPkgsPath, 'utf8'));
-const libIcons = JSON.parse(readFileSync(libIconsPath, 'utf8'));
+const libIcons = JSON.parse(readFileSync(configPath, 'utf8')).libIcons;
 
 // Three CDNs in cascade because no single source covers everything:
 //   1. simple-icons       — brand monochrome icons (react, vue, prettier, eslint, jest…)
