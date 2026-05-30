@@ -82,6 +82,7 @@ These tools are model-agnostic interfaces that go beyond the editor — terminal
 |  ![][dv]   | [Devin](https://devin.ai/)                                            | Autonomous coding agent  | Cloud app, Slack, API                    | Cloud (provider models)    | Subscription / ACU-based         | Long-running autonomous coding tasks       |
 | ![][ghcli] | [GitHub Copilot](https://github.com/features/copilot)                 | Editor + CLI assistant   | IDE extensions, CLI, GitHub integration  | Cloud (Copilot / Azure)    | Included in Copilot plan         | GitHub-native scripting and repo workflows |
 | ![][herm]  | [Hermes](https://hermes-agent.nousresearch.com/)                      | Autonomous coding agent  | CLI, local, Cloud API, third-party       | Local and cloud hybrid     | Free (open-source)               | Free autonomous self-improvement agent     |
+| ![][mmx]   | [MiniMax CLI](https://github.com/MiniMax-AI/cli)                      | Terminal coding agent    | CLI, Cloud API, third-party              | Cloud (MiniMax models)     | Free tool; provider cost applies | MiniMax-centric terminal coding workflows  |
 | ![][oclaw] | [OpenClaw](https://github.com/openclaw/openclaw)                      | Autonomous coding agent  | CLI, local, Cloud API, third-party       | Local and cloud hybrid     | Free (open-source)               | Open-source self-hosted autonomous agent   |
 |  ![][oc]   | [OpenCode](https://opencode.ai/)                                      | Open coding framework    | CLI, local, Cloud API, SDK               | Local and cloud hybrid     | Free tool; provider cost applies | Flexible custom local/cloud setups         |
 
@@ -182,6 +183,7 @@ Agent skills are reusable instruction sets — typically `.md` files — that gi
 [llm3]:   https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://llama.com&size=32
 [lms]:    https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://lmstudio.ai&size=32
 [mimo]:   https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://mimo.xiaomi.com&size=32
+[mmx]:    https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://minimax.io&size=32
 [oc]:     https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://opencode.ai&size=32
 [oll]:    https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://ollama.com&size=32
 [oclaw]:  https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://github.com&size=32
