@@ -20,7 +20,8 @@ const pathname = Astro.url.pathname;
 
 const defaultLinks: NavLink[] = [
   { text: 'Categories', link: `${BASE}categories/`, icon: 'categories' },
-  { text: 'Map of Links', link: `${BASE}map/`, icon: 'map' },
+  // Map of Links is kept in the codebase (src/pages/_map.astro) but excluded
+  // from the deployed site, so it is intentionally omitted from the nav.
   { text: 'Toolbox', link: `${BASE}toolbox/`, icon: 'toolbox' },
   { text: 'Posts', link: `${BASE}posts/`, icon: 'posts' },
   { text: 'About', link: `${BASE}about/`, icon: 'about' },

@@ -1,0 +1,135 @@
+---
+import CompatibilityTablePage from '../../components/CompatibilityTablePage.astro';
+
+// Static, curated comparison of desktop operating systems. iOS is excluded
+// (end users cannot install it on their own hardware); Android is mobile-only
+// and lives with the mobile installers, so this table focuses on desktop OSes.
+interface OsRow {
+  name: string;
+  icon: string;
+  foss: boolean;
+  kernel: string;
+  packageManager: string;
+  winApps: string; // ✅ native | ⚠️ compat layer | ❌ no
+  linuxApps: string;
+  cost: string;
+}
+
+const operatingSystems: OsRow[] = [
+  { name: 'Windows 11', icon: '🪟', foss: false, kernel: 'Windows NT', packageManager: 'winget / Microsoft Store', winApps: '✅', linuxApps: '⚠️ WSL', cost: 'Paid' },
+  { name: 'macOS', icon: '🍎', foss: false, kernel: 'XNU (Darwin)', packageManager: 'Homebrew (3rd-party)', winApps: '⚠️ VM', linuxApps: '⚠️ VM', cost: 'Bundled' },
+  { name: 'Ubuntu', icon: '🐧', foss: true, kernel: 'Linux', packageManager: 'APT / Snap', winApps: '⚠️ Wine', linuxApps: '✅', cost: 'Free' },
+  { name: 'Debian', icon: '🌀', foss: true, kernel: 'Linux', packageManager: 'APT', winApps: '⚠️ Wine', linuxApps: '✅', cost: 'Free' },
+  { name: 'Fedora', icon: '🎩', foss: true, kernel: 'Linux', packageManager: 'DNF (rpm) / Flatpak', winApps: '⚠️ Wine', linuxApps: '✅', cost: 'Free' },
+  { name: 'Arch Linux', icon: '🏛️', foss: true, kernel: 'Linux', packageManager: 'pacman / AUR', winApps: '⚠️ Wine', linuxApps: '✅', cost: 'Free' },
+  { name: 'FreeBSD', icon: '🔥', foss: true, kernel: 'FreeBSD', packageManager: 'pkg / ports', winApps: '❌', linuxApps: '⚠️ Linuxulator', cost: 'Free' },
+];
+---
+<CompatibilityTablePage
+  title="Operating System Compatibility"
+  heading="💿 Operating System Compatibility"
+  subtitle="Compare desktop operating systems by licensing, package management, and software compatibility."
+  installerHref="os"
+  installerLabel="OS Installer"
+  searchPlaceholder="Search operating system"
+  pageNote="Note: iOS is excluded (end users cannot self-install it); Android lives with the mobile installers."
+>
+  <div slot="controls" class="page-filter-row filter-chips" id="osFossFilter" role="group" aria-label="Filter by license">
+    <button type="button" class="filter-chip active" data-foss="all" aria-pressed="true">All</button>
+    <button type="button" class="filter-chip" data-foss="true" aria-pressed="false">Open source</button>
+    <button type="button" class="filter-chip" data-foss="false" aria-pressed="false">Proprietary</button>
+  </div>
+
+  <div slot="legend" class="legend" aria-label="Compatibility legend">
+    <div class="legend-item"><span class="legend-icon">✅</span> Native support</div>
+    <div class="legend-item"><span class="legend-icon">⚠️</span> Via compatibility layer / VM</div>
+    <div class="legend-item"><span class="legend-icon">❌</span> Not supported</div>
+  </div>
+
+  <div class="table-container">
+    <table id="osCompatTable">
+      <thead>
+        <tr>
+          <th class="sticky-col app-col">Operating System</th>
+          <th class="os-column">Open&nbsp;Source</th>
+          <th>Kernel</th>
+          <th>Package Manager</th>
+          <th class="os-column">Win&nbsp;Apps</th>
+          <th class="os-column">Linux&nbsp;Apps</th>
+          <th class="os-column">Cost</th>
+        </tr>
+      </thead>
+      <tbody>
+        {operatingSystems.map((os) => (
+          <tr data-name={os.name.toLowerCase()} data-foss={String(os.foss)}>
+            <td class="sticky-col">
+              <span class="app-info">
+                <span class="os-emoji" aria-hidden="true">{os.icon}</span>
+                <span class="app-name">{os.name}</span>
+              </span>
+            </td>
+            <td class="os-available">{os.foss ? '✅' : '❌'}</td>
+            <td>{os.kernel}</td>
+            <td>{os.packageManager}</td>
+            <td class="os-available">{os.winApps}</td>
+            <td class="os-available">{os.linuxApps}</td>
+            <td>{os.cost}</td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+</CompatibilityTablePage>
+
+<style>
+  .os-emoji {
+    font-size: clamp(1em, 3vw, 1.4em);
+    flex-shrink: 0;
+  }
+  /* These two cells hold short phrases, let them wrap rather than shrink. */
+  #osCompatTable td:nth-child(5),
+  #osCompatTable td:nth-child(6) {
+    white-space: normal;
+  }
+</style>
+
+<script>
+  const table = document.getElementById('osCompatTable');
+  const search = document.getElementById('searchInput');
+  const filterGroup = document.getElementById('osFossFilter');
+  if (table instanceof HTMLTableElement) {
+    const rows = Array.from(table.querySelectorAll('tbody tr')) as HTMLTableRowElement[];
+    let query = '';
+    let foss = 'all';
+
+    const apply = () => {
+      rows.forEach((row) => {
+        const matchesText = row.dataset.name?.includes(query) ?? true;
+        const matchesFoss = foss === 'all' || row.dataset.foss === foss;
+        row.style.display = matchesText && matchesFoss ? '' : 'none';
+      });
+    };
+
+    if (search instanceof HTMLInputElement) {
+      search.addEventListener('input', () => {
+        query = search.value.trim().toLowerCase();
+        apply();
+      });
+    }
+
+    if (filterGroup) {
+      filterGroup.querySelectorAll('.filter-chip').forEach((chip) => {
+        chip.addEventListener('click', () => {
+          filterGroup.querySelectorAll('.filter-chip').forEach((c) => {
+            c.classList.remove('active');
+            c.setAttribute('aria-pressed', 'false');
+          });
+          chip.classList.add('active');
+          chip.setAttribute('aria-pressed', 'true');
+          foss = (chip as HTMLElement).dataset.foss ?? 'all';
+          apply();
+        });
+      });
+    }
+  }
+</script>

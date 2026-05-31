@@ -4,7 +4,9 @@
       "Bash(pnpm add *)",
       "Bash(Remove-Item \"d:\\\\Workspaces\\\\David7ce-user\\\\Interneto-Project\\\\interneto-website\\\\src\\\\pages\\\\toolbox-installer.astro\")",
       "Bash(cd /d/Workspaces/David7ce-user/Interneto-Project/interneto-website && pwd && ls src/scripts/toolbox-installer/)",
-      "Read(//d/d/Workspaces/David7ce-user/Interneto-Project/interneto-website/src/scripts/**)"
+      "Read(//d/d/Workspaces/David7ce-user/Interneto-Project/interneto-website/src/scripts/**)",
+      "Bash(git mv *)",
+      "Bash(npx astro *)"
     ]
   }
 }

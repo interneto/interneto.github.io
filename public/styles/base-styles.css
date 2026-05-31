@@ -6,8 +6,10 @@
 :root {
     /* Light mode */
     color-scheme: light;
-    --primary-color: #007bff;
-    --primary-hover: #0056b3;
+    /* Accent aligned with the site brand (--vp-c-brand) so the toolbox
+       installer/compatibility pages match the rest of the site. */
+    --primary-color: #36a3d0;
+    --primary-hover: #2b87b0;
     --text-on-primary: #ffffff;
     --background-color: #f2f2f2;
     --card-background: #ffffff;
@@ -83,8 +85,8 @@
 @media (prefers-color-scheme: dark) {
     :root:not([data-theme]) {
         color-scheme: dark;
-        --primary-color: #4a9eff;
-        --primary-hover: #7cb7ff;
+        --primary-color: #47caff;
+        --primary-hover: #6fd6ff;
         --text-on-primary: #0a1624;
         --background-color: #1a1a1a;
         --card-background: #2d2d2d;
@@ -151,8 +153,8 @@
 /* Support for data-theme attribute (alternative dark mode toggle) */
 [data-theme="dark"] {
     color-scheme: dark;
-    --primary-color: #4a9eff;
-    --primary-hover: #7cb7ff;
+    --primary-color: #47caff;
+    --primary-hover: #6fd6ff;
     --text-on-primary: #0a1624;
     --background-color: #1a1a1a;
     --card-background: #2d2d2d;

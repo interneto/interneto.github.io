@@ -76,15 +76,16 @@ h1 {
 .controls .page-controls-panel {
     display: flex;
     flex-wrap: wrap;
-    gap: 12px;
+    gap: 8px 10px;
     align-items: center;
+    justify-content: flex-start;
 }
 
 .page-controls-inline {
     display: flex;
-    flex: 1 1 320px;
+    flex: 1 1 260px;
     flex-wrap: wrap;
-    gap: 12px;
+    gap: 8px;
     align-items: center;
 }
 
@@ -233,7 +234,7 @@ th {
     padding: clamp(6px, 1.5vw, 14px) clamp(2px, 1vw, 10px);
     text-align: left;
     font-weight: 600;
-    font-size: clamp(0.5em, 1.5vw, 0.85em);
+    font-size: clamp(0.72em, 1.6vw, 0.85em);
     text-transform: uppercase;
     letter-spacing: clamp(0px, 0.05vw, 0.3px);
     position: sticky;
@@ -310,7 +311,7 @@ td.os-column {
     width: 100px;
     max-width: 100px;
     padding: clamp(6px, 1.5vw, 14px) clamp(1px, 0.5vw, 6px);
-    font-size: clamp(0.48em, 1.2vw, 0.8em);
+    font-size: clamp(0.7em, 1.4vw, 0.82em);
 }
 
 /* Sort Arrows */
@@ -349,7 +350,7 @@ td.os-column {
 td {
     padding: clamp(4px, 1vw, 12px) clamp(2px, 0.5vw, 10px);
     border-bottom: 1px solid color-mix(in srgb, var(--border-color) 78%, var(--primary-color) 22%);
-    font-size: clamp(0.65em, 1.5vw, 0.9em);
+    font-size: clamp(0.78em, 1.6vw, 0.9em);
     min-width: 0;
 }
 
@@ -399,7 +400,7 @@ tbody tr {
     background: var(--category-badge-bg);
     color: var(--category-badge-text);
     border-radius: clamp(6px, 1vw, 12px);
-    font-size: clamp(0.55em, 1.3vw, 0.8em);
+    font-size: clamp(0.72em, 1.4vw, 0.8em);
     font-weight: 500;
     white-space: nowrap;
     max-width: clamp(55px, 15vw, none);

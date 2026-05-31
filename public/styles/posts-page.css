@@ -68,7 +68,14 @@
 }
 
 .vp-prose table {
-  width: 100%;
+  /* Let wide tables scroll horizontally instead of stretching the page.
+     display:block + width:max-content sizes the table to its content,
+     while max-width:100% + overflow-x:auto keeps it within the screen and
+     moves only the table with the scrollbar. */
+  display: block;
+  width: max-content;
+  max-width: 100%;
+  overflow-x: auto;
   margin: 1em 0;
   border-collapse: collapse;
   border: 1px solid var(--vp-c-divider);

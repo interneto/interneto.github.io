@@ -1,0 +1,250 @@
+---
+import InstallerLayout from '../../layouts/InstallerLayout.astro';
+
+const BASE = import.meta.env.BASE_URL.replace(/\/?$/, '/');
+
+// Installing an operating system means writing bootable media rather than
+// running a package command, so each entry links to the official download
+// and shows the recommended way to create install media.
+interface OsInstall {
+  name: string;
+  icon: string;
+  foss: boolean;
+  download: string;
+  method: string;
+  command?: string;
+}
+
+const operatingSystems: OsInstall[] = [
+  {
+    name: 'Windows 11',
+    icon: '🪟',
+    foss: false,
+    download: 'https://www.microsoft.com/software-download/windows11',
+    method: 'Use the Media Creation Tool, or write the ISO to a USB drive with Rufus / Ventoy, then boot from it.',
+  },
+  {
+    name: 'macOS',
+    icon: '🍎',
+    foss: false,
+    download: 'https://support.apple.com/macos',
+    method: 'Only installable on Apple hardware. Download from the App Store, then build install media with createinstallmedia.',
+    command: 'sudo /Applications/Install\\ macOS\\ Sonoma.app/Contents/Resources/createinstallmedia --volume /Volumes/MyUSB',
+  },
+  {
+    name: 'Ubuntu',
+    icon: '🐧',
+    foss: true,
+    download: 'https://ubuntu.com/download/desktop',
+    method: 'Write the ISO to a USB drive (Ventoy, Rufus, balenaEtcher) and boot it. On Linux you can use dd directly.',
+    command: 'sudo dd if=ubuntu-24.04-desktop-amd64.iso of=/dev/sdX bs=4M status=progress oflag=sync',
+  },
+  {
+    name: 'Debian',
+    icon: '🌀',
+    foss: true,
+    download: 'https://www.debian.org/distrib/',
+    method: 'Download the netinst or full ISO and write it to a USB drive, then boot from it.',
+    command: 'sudo dd if=debian-12-amd64-netinst.iso of=/dev/sdX bs=4M status=progress oflag=sync',
+  },
+  {
+    name: 'Fedora',
+    icon: '🎩',
+    foss: true,
+    download: 'https://fedoraproject.org/workstation/',
+    method: 'Use Fedora Media Writer (recommended) or write the ISO to a USB drive with dd.',
+    command: 'sudo dd if=Fedora-Workstation-Live-x86_64.iso of=/dev/sdX bs=4M status=progress oflag=sync',
+  },
+  {
+    name: 'Arch Linux',
+    icon: '🏛️',
+    foss: true,
+    download: 'https://archlinux.org/download/',
+    method: 'Write the ISO to a USB drive, boot it, and follow the guided archinstall script or the manual install guide.',
+    command: 'sudo dd if=archlinux-x86_64.iso of=/dev/sdX bs=4M status=progress oflag=sync',
+  },
+  {
+    name: 'FreeBSD',
+    icon: '🔥',
+    foss: true,
+    download: 'https://www.freebsd.org/where/',
+    method: 'Download the memstick image and write it to a USB drive, then boot the installer (bsdinstall).',
+    command: 'sudo dd if=FreeBSD-14.0-RELEASE-amd64-memstick.img of=/dev/sdX bs=4M status=progress',
+  },
+];
+---
+<InstallerLayout title="Operating System Installer" heading="💿 Operating System Installer">
+  <section class="package-section installer-page-section">
+    <div class="container installer-surface">
+      <details class="installer-info">
+        <summary>ⓘ About this installer</summary>
+        <p class="installer-info-body">
+          Operating systems are installed from bootable media rather than a package command.
+          Each card links to the official download and shows the recommended way to create
+          install media. Always double-check the target device (<code>/dev/sdX</code>) before
+          running <code>dd</code> — it overwrites the whole drive.
+        </p>
+      </details>
+
+      <a class="os-compat-link" href={`${BASE}toolbox/os-compatibility/`}>
+        📊 Compare these operating systems →
+      </a>
+
+      <div class="os-install-grid">
+        {operatingSystems.map((os) => (
+          <article class="os-install-card">
+            <header class="os-install-head">
+              <span class="os-install-icon" aria-hidden="true">{os.icon}</span>
+              <h2 class="os-install-name">{os.name}</h2>
+              <span class={`os-install-badge ${os.foss ? 'is-foss' : 'is-proprietary'}`}>
+                {os.foss ? 'Open source' : 'Proprietary'}
+              </span>
+            </header>
+            <p class="os-install-method">{os.method}</p>
+            {os.command && (
+              <div class="os-install-command">
+                <code>{os.command}</code>
+                <button type="button" class="os-copy-btn" data-command={os.command} aria-label={`Copy ${os.name} command`}>Copy</button>
+              </div>
+            )}
+            <a class="os-install-download" href={os.download} target="_blank" rel="noreferrer">
+              Official download ↗
+            </a>
+          </article>
+        ))}
+      </div>
+    </div>
+  </section>
+</InstallerLayout>
+
+<style>
+  .os-compat-link {
+    display: inline-block;
+    margin-bottom: var(--spacing-lg);
+    font-weight: 600;
+    color: var(--primary-color);
+  }
+
+  .os-install-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: var(--spacing-md);
+  }
+
+  .os-install-card {
+    display: flex;
+    flex-direction: column;
+    gap: var(--spacing-sm);
+    padding: var(--spacing-lg);
+    border: 1px solid var(--border-color);
+    border-radius: var(--border-radius);
+    background: var(--card-background);
+    box-shadow: var(--shadow-light);
+  }
+
+  .os-install-head {
+    display: flex;
+    align-items: center;
+    gap: var(--spacing-sm);
+    flex-wrap: wrap;
+  }
+
+  .os-install-icon {
+    font-size: 1.6rem;
+  }
+
+  .os-install-name {
+    margin: 0;
+    font-size: 1.1rem;
+  }
+
+  .os-install-badge {
+    margin-left: auto;
+    padding: 2px 10px;
+    border-radius: 999px;
+    font-size: 0.7rem;
+    font-weight: 600;
+    white-space: nowrap;
+  }
+
+  .os-install-badge.is-foss {
+    background: var(--category-badge-bg);
+    color: var(--category-badge-text);
+  }
+
+  .os-install-badge.is-proprietary {
+    background: var(--surface-muted-strong);
+    color: var(--text-secondary);
+  }
+
+  .os-install-method {
+    margin: 0;
+    font-size: 0.88rem;
+    color: var(--text-secondary);
+    line-height: 1.55;
+  }
+
+  .os-install-command {
+    display: flex;
+    align-items: center;
+    gap: var(--spacing-sm);
+    background: var(--surface-muted);
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    padding: 8px 10px;
+    overflow-x: auto;
+  }
+
+  .os-install-command code {
+    flex: 1;
+    font-size: 0.78rem;
+    white-space: nowrap;
+    color: var(--text-primary);
+  }
+
+  .os-copy-btn {
+    flex-shrink: 0;
+    border: 1px solid var(--primary-color);
+    background: transparent;
+    color: var(--primary-color);
+    border-radius: 6px;
+    padding: 3px 10px;
+    font-size: 0.75rem;
+    cursor: pointer;
+    transition: background 0.2s ease, color 0.2s ease;
+  }
+
+  .os-copy-btn:hover,
+  .os-copy-btn.copied {
+    background: var(--primary-color);
+    color: var(--text-on-primary);
+  }
+
+  .os-install-download {
+    margin-top: auto;
+    font-weight: 600;
+    font-size: 0.85rem;
+    color: var(--primary-color);
+  }
+</style>
+
+<script>
+  document.querySelectorAll('.os-copy-btn').forEach((btn) => {
+    btn.addEventListener('click', async () => {
+      const command = (btn as HTMLElement).dataset.command;
+      if (!command) return;
+      try {
+        await navigator.clipboard.writeText(command);
+        const original = btn.textContent;
+        btn.textContent = 'Copied!';
+        btn.classList.add('copied');
+        setTimeout(() => {
+          btn.textContent = original;
+          btn.classList.remove('copied');
+        }, 1500);
+      } catch (_) {
+        /* clipboard unavailable — ignore */
+      }
+    });
+  });
+</script>
