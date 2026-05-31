@@ -2,89 +2,164 @@
 import VPLayout from "../layouts/VPLayout.astro";
 import Icon from "../components/Icon.astro";
 import type { IconName } from "../components/Icon.astro";
+import { getCollection } from "astro:content";
+import desktopPkgs from "../../public/pkgs/desktop-pkgs.json";
+import mobilePkgs from "../../public/pkgs/mobile-pkgs.json";
+import browserPkgs from "../../public/pkgs/browser-extensions-pkgs.json";
+import vscodePkgs from "../../public/pkgs/vscode-extensions-pkgs.json";
+import libPkgs from "../../public/pkgs/lib-pkgs.json";
+import webDirectory from "../../public/pkgs/web-directory.json";
 
-const BASE = import.meta.env.BASE_URL.replace(/\/?$/, "/");
+const BASE = (import.meta as any).env.BASE_URL.replace(/\/?$/, "/");
 
-interface HomeSection {
+// ── Build-time stats, computed straight from the real datasets ────────────────
+// Mirror the categories index page's filter (exclude about/index meta pages and
+// the hidden nsfw variants) so this count always matches what /categories/ shows.
+const HIDDEN_CATEGORY = /nsfw(?:-content)?/i;
+const categories = (await getCollection("categories")).filter((entry) => {
+  const slug = entry.id.replace(/\.md$/i, "");
+  return !["about", "index"].includes(slug) && !HIDDEN_CATEGORY.test(slug);
+});
+const posts = (await getCollection("posts")).filter(
+  (entry) => entry.id.replace(/\.md$/i, "") !== "index",
+);
+
+const libCount = Object.values(libPkgs as Record<string, any>).reduce(
+  (sum, lang) =>
+    sum +
+    Object.values(lang.categories ?? {}).reduce(
+      (s: number, arr: any) => s + arr.length,
+      0,
+    ),
+  0,
+);
+const packageCount =
+  Object.keys((desktopPkgs as any).packages).length +
+  Object.keys((mobilePkgs as any).packages).length +
+  Object.keys((browserPkgs as any).extensions).length +
+  Object.keys((vscodePkgs as any).extensions).length +
+  libCount;
+const webCount = (webDirectory as any).entries.length;
+
+const numberFmt = new Intl.NumberFormat("en-US");
+const stats = [
+  { value: categories.length, label: "Categories" },
+  { value: packageCount, label: "Installable packages" },
+  { value: webCount, label: "Web apps" },
+  { value: posts.length, label: "Essays & guides" },
+];
+
+// ── Primary destinations ──────────────────────────────────────────────────────
+interface Destination {
   icon: IconName;
   title: string;
-  label: string;
+  meta: string;
   details: string;
   link: string;
 }
 
-const homeSections: HomeSection[] = [
+const destinations: Destination[] = [
   {
     icon: "categories",
     title: "Categories",
-    label: "Browse",
-    details: "Browse all curated categories in one place",
+    meta: `${categories.length} sections`,
+    details:
+      "A curated atlas of the web, grouped by what it's for — development, security, media, finance, and more.",
     link: `${BASE}categories/`,
   },
   {
     icon: "toolbox",
     title: "Toolbox",
-    label: "Install",
-    details: "Explore installers, compatibility tables, and the shared package directory",
+    meta: "6 installers",
+    details:
+      "Build install commands for desktop apps, libraries, browser & VS Code extensions, plus OS guides and a web directory.",
     link: `${BASE}toolbox/`,
   },
   {
     icon: "posts",
     title: "Posts",
-    label: "Read",
-    details: "Curated articles, comparisons, and guides",
+    meta: `${posts.length} pieces`,
+    details:
+      "Field notes on computing, the open web, and the ideas behind the tools — essays, comparisons, and guides.",
     link: `${BASE}posts/`,
   },
+];
+
+// ── Why-it's-different highlights ─────────────────────────────────────────────
+const highlights: { icon: IconName; title: string; text: string }[] = [
+  { icon: "code", title: "Open source", text: "Built in the open and free to fork." },
+  { icon: "shield", title: "No tracking", text: "A static site — no analytics, no cookies." },
+  { icon: "terminal", title: "Web + terminal", text: "Generate installs in the browser or run them with the TUI companion." },
+  { icon: "bolt", title: "Static & fast", text: "Prebuilt with Astro and served as flat files." },
 ];
 ---
 
 <VPLayout title="Interneto" hideSidebar hideFooter={false} extraStyles={["styles/home.css"]}>
-  <section class="home-landing" aria-label="Interneto landing">
-    <div class="home-grid">
-      <div class="home-intro-panel">
-        <p class="home-eyebrow">Internet atlas</p>
-        <h1>Interneto</h1>
+  <section class="home" aria-label="Interneto landing">
+    <!-- Hero -->
+    <header class="home-hero">
+      <div class="home-hero-copy">
+        <p class="home-eyebrow">Internet atlas · Open source</p>
+        <h1 class="home-title">Interneto</h1>
+        <p class="home-tagline">Rediscover the Internet.</p>
         <p class="home-summary">
-          A compact desktop landing page for jumping straight into categories, tools, and posts
-          without burning vertical space.
+          A curated atlas of the web, a multi-platform package installer, and field notes on
+          computing — all open, fast, and free of tracking.
         </p>
-
-        <div class="home-primary-actions">
-          <a class="home-primary-link home-primary-link-brand" href={`${BASE}categories/`}>Open categories</a>
-          <a class="home-primary-link" href={`${BASE}toolbox/`}>Open toolbox</a>
-        </div>
-
-        <div class="home-icon-panel">
-          <div class="home-icon-frame">
-            <img class="home-icon-image" src={`${BASE}icon.png`} alt="Interneto icon" />
-          </div>
+        <div class="home-actions">
+          <a class="home-btn home-btn-brand" href={`${BASE}categories/`}>Explore categories</a>
+          <a class="home-btn" href={`${BASE}toolbox/`}>Open the toolbox</a>
+          <a class="home-btn home-btn-ghost" href={`${BASE}about/`}>About the project</a>
         </div>
       </div>
-
-      <div class="home-explore-panel">
-        <div class="home-panel-header">
-          <div>
-            <p class="home-panel-kicker">Start here</p>
-            <h2>Everything grouped in one view</h2>
-          </div>
-          <a class="home-inline-link" href={`${BASE}about/`}>Project notes</a>
-        </div>
-
-        <div class="home-card-grid">
-          {homeSections.map((section) => (
-            <a class="home-card" href={section.link}>
-              <div class="home-card-top">
-                <div class="home-card-leading">
-                  <Icon name={section.icon} class="home-card-icon" />
-                  <span class="home-card-title">{section.title}</span>
-                </div>
-                <span class="home-card-label">{section.label}</span>
-              </div>
-              <p>{section.details}</p>
-            </a>
-          ))}
-        </div>
+      <div class="home-hero-art" aria-hidden="true">
+        <div class="home-hero-glow"></div>
+        <img class="home-hero-icon" src={`${BASE}icon.png`} alt="" />
       </div>
-    </div>
+    </header>
+
+    <!-- Live stats -->
+    <ul class="home-stats" aria-label="What's inside">
+      {stats.map((stat) => (
+        <li class="home-stat">
+          <span class="home-stat-value">{numberFmt.format(stat.value)}</span>
+          <span class="home-stat-label">{stat.label}</span>
+        </li>
+      ))}
+    </ul>
+
+    <!-- Destinations -->
+    <section class="home-section" aria-labelledby="home-start">
+      <div class="home-section-head">
+        <h2 id="home-start">Three ways in</h2>
+        <p>Browse the map of the web, assemble your setup, or read the thinking behind it.</p>
+      </div>
+      <div class="home-cards">
+        {destinations.map((dest) => (
+          <a class="home-card" href={dest.link}>
+            <span class="home-card-chip"><Icon name={dest.icon} class="home-card-icon" /></span>
+            <span class="home-card-meta">{dest.meta}</span>
+            <h3 class="home-card-title">{dest.title}</h3>
+            <p class="home-card-text">{dest.details}</p>
+            <span class="home-card-go" aria-hidden="true">Open →</span>
+          </a>
+        ))}
+      </div>
+    </section>
+
+    <!-- Highlights -->
+    <section class="home-section" aria-label="Why Interneto">
+      <ul class="home-highlights">
+        {highlights.map((item) => (
+          <li class="home-highlight">
+            <Icon name={item.icon} class="home-highlight-icon" />
+            <div>
+              <span class="home-highlight-title">{item.title}</span>
+              <span class="home-highlight-text">{item.text}</span>
+            </div>
+          </li>
+        ))}
+      </ul>
+    </section>
   </section>
 </VPLayout>

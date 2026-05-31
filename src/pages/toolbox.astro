@@ -1,7 +1,7 @@
 ---
 import VPLayout from '../layouts/VPLayout.astro';
 
-const BASE = import.meta.env.BASE_URL.replace(/\/?$/, '/');
+const BASE = (import.meta as any).env.BASE_URL.replace(/\/?$/, '/');
 
 const toolboxCards = [
   {
@@ -59,6 +59,23 @@ const directoryLinks = [
     description: 'A directory of web destinations grouped by category. No installer needed — opening the link runs the app in your browser.',
   },
 ];
+
+// Cross-platform terminal companion — the same toolbox, run from your shell.
+const TUI_REPO = 'https://github.com/interneto/tui-toolbox-installer';
+const tuiInstall = [
+  {
+    label: 'Windows (PowerShell)',
+    code: 'irm https://raw.githubusercontent.com/interneto/tui-toolbox-installer/main/scripts/install.ps1 | iex',
+  },
+  {
+    label: 'macOS / Linux',
+    code: 'curl -fsSL https://raw.githubusercontent.com/interneto/tui-toolbox-installer/main/scripts/install.sh | sh',
+  },
+];
+const tuiUv = [
+  { label: 'Run once (no install)', code: 'uvx --from git+https://github.com/interneto/tui-toolbox-installer interneto-install' },
+  { label: 'Install the command', code: 'uv tool install git+https://github.com/interneto/tui-toolbox-installer' },
+];
 ---
 
 <VPLayout title="Toolbox" hasSidebar={false} extraStyles={['styles/toolbox-landing.css']}>
@@ -88,6 +105,54 @@ const directoryLinks = [
           </a>
         ))}
       </div>
+    </section>
+
+    <div class="toolbox-separator" aria-hidden="true"></div>
+
+    <section class="toolbox-section toolbox-tui">
+      <div class="toolbox-section-header">
+        <h2>Prefer the terminal?</h2>
+        <p>
+          Run the cross-platform <strong>TUI installer</strong> — it autodetects your system, lets
+          you multi-select packages just like this site, and installs them for real.
+          <a class="toolbox-tui-repo" href={TUI_REPO} target="_blank" rel="noreferrer">View on GitHub ↗</a>
+        </p>
+      </div>
+
+      <div class="toolbox-tui-cmds">
+        {tuiInstall.map((cmd) => (
+          <div class="tb-cmd">
+            <span class="tb-cmd-label">{cmd.label}</span>
+            <div class="tb-cmd-row">
+              <code>{cmd.code}</code>
+              <button type="button" class="tb-copy" data-copy={cmd.code} aria-label={`Copy ${cmd.label} command`}>Copy</button>
+            </div>
+          </div>
+        ))}
+      </div>
+
+      <details class="toolbox-tui-more">
+        <summary>Already have <code>uv</code>, or want a local dev checkout?</summary>
+        <p class="toolbox-tui-sub">Skip the bootstrap with <a href="https://docs.astral.sh/uv/" target="_blank" rel="noreferrer">uv</a>:</p>
+        <div class="toolbox-tui-cmds">
+          {tuiUv.map((cmd) => (
+            <div class="tb-cmd">
+              <span class="tb-cmd-label">{cmd.label}</span>
+              <div class="tb-cmd-row">
+                <code>{cmd.code}</code>
+                <button type="button" class="tb-copy" data-copy={cmd.code} aria-label={`Copy ${cmd.label} command`}>Copy</button>
+              </div>
+            </div>
+          ))}
+        </div>
+        <p class="toolbox-tui-sub">From a local checkout (development):</p>
+        <pre class="toolbox-tui-pre"><code>python -m venv .venv && . .venv/bin/activate   # Windows: .venv\Scripts\activate
+pip install -e ".[dev]"      # app + test tooling
+interneto-install            # launch the TUI
+interneto-install --detect   # just print what was autodetected
+pytest                       # run the smoke tests</code></pre>
+        <p class="toolbox-tui-sub">Re-running either one-liner upgrades to the latest version.</p>
+      </details>
     </section>
 
     <div class="toolbox-separator" aria-hidden="true"></div>
@@ -125,5 +190,26 @@ const directoryLinks = [
       </div>
     </section>
   </section>
+
+  <script>
+    document.querySelectorAll('.tb-copy').forEach((btn) => {
+      btn.addEventListener('click', async () => {
+        const code = (btn as HTMLElement).dataset.copy;
+        if (!code) return;
+        try {
+          await navigator.clipboard.writeText(code);
+          const original = btn.textContent;
+          btn.textContent = 'Copied!';
+          btn.classList.add('is-copied');
+          setTimeout(() => {
+            btn.textContent = original;
+            btn.classList.remove('is-copied');
+          }, 1500);
+        } catch (_) {
+          /* clipboard unavailable */
+        }
+      });
+    });
+  </script>
 </VPLayout>
 

@@ -193,3 +193,108 @@
     font-size: 1.45rem;
   }
 }
+
+/* ── Terminal installer (TUI) section ─────────────────────────────────────── */
+.toolbox-tui .toolbox-tui-repo {
+  margin-left: 0.35rem;
+  font-weight: 600;
+  white-space: nowrap;
+  color: var(--vp-c-brand-2);
+}
+
+.toolbox-tui-cmds {
+  display: grid;
+  gap: 0.75rem;
+  margin-top: 1rem;
+}
+
+.tb-cmd {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+
+.tb-cmd-label {
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--vp-c-brand-2);
+}
+
+.tb-cmd-row {
+  display: flex;
+  align-items: stretch;
+  gap: 0.5rem;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 12px;
+  background: var(--vp-c-bg-alt);
+  padding: 0.5rem 0.5rem 0.5rem 0.85rem;
+}
+
+.tb-cmd-row code {
+  flex: 1;
+  min-width: 0;
+  overflow-x: auto;
+  white-space: nowrap;
+  font-size: 0.84rem;
+  line-height: 1.9;
+  color: var(--vp-c-text-1);
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+}
+
+.tb-copy {
+  flex-shrink: 0;
+  align-self: center;
+  border: 1px solid var(--vp-c-brand-2);
+  background: transparent;
+  color: var(--vp-c-brand-2);
+  border-radius: 8px;
+  padding: 0.3rem 0.8rem;
+  font-size: 0.8rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.18s ease, color 0.18s ease;
+}
+
+.tb-copy:hover,
+.tb-copy.is-copied {
+  background: var(--vp-c-brand-2);
+  color: #fff;
+}
+
+.toolbox-tui-more {
+  margin-top: 1.1rem;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 14px;
+  background: var(--vp-c-bg-alt);
+  padding: 0.85rem 1.05rem;
+}
+
+.toolbox-tui-more > summary {
+  cursor: pointer;
+  font-weight: 600;
+  color: var(--vp-c-text-1);
+}
+
+.toolbox-tui-more[open] > summary {
+  margin-bottom: 0.85rem;
+}
+
+.toolbox-tui-sub {
+  margin: 0.9rem 0 0.4rem;
+  font-size: 0.9rem;
+  color: var(--vp-c-text-2);
+}
+
+.toolbox-tui-pre {
+  margin: 0;
+  overflow-x: auto;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 12px;
+  background: var(--vp-c-bg);
+  padding: 0.85rem 1rem;
+  font-size: 0.82rem;
+  line-height: 1.6;
+  color: var(--vp-c-text-1);
+}
