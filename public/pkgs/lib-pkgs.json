@@ -1007,6 +1007,15 @@
                         "modern"
                     ]
                 }
+            ],
+            "Data / Documents": [
+                {
+                    "name": "opendataloader-pdf",
+                    "display": "OpenDataLoader",
+                    "badges": [
+                        "modern"
+                    ]
+                }
             ]
         }
     },

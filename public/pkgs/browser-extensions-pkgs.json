@@ -91,6 +91,13 @@
             "firefox_slug": "raindropio",
             "chromium_id": "ldgfbffkinooeloadekpmfoklnobpien"
         },
+        "responsive-viewer": {
+            "name": "Responsive Viewer",
+            "category": "Developer Tools",
+            "firefox_id": null,
+            "firefox_slug": null,
+            "chromium_id": "inmopeiepgfljkpkidclfgbgbmfcennb"
+        },
         "return-youtube-dislike": {
             "name": "Return YouTube Dislike",
             "category": "Media",

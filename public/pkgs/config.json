@@ -94,7 +94,8 @@
       "Data Fetching": "refresh-cw",
       "Styling": "palette",
       "UI Components": "component",
-      "Build Tools": "wrench"
+      "Build Tools": "wrench",
+      "Data / Documents": "file-text"
     }
   },
   "vscodeExtensionsMeta": {
@@ -480,7 +481,8 @@
       "ruff": "ruff",
       "black": "python",
       "mypy": "python",
-      "isort": "python"
+      "isort": "python",
+      "opendataloader": "opendataloader"
     }
   }
 }
