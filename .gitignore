@@ -2,6 +2,7 @@
 .claude/
 .vscode/
 dist/
+links/
 node_modules/
 roadmap/
 nsfw-content.md
