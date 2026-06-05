@@ -13,9 +13,9 @@ AI coding is no longer one tool and one model. In 2026, productive workflows com
 
 The diagram below shows the core components of a modern AI coding system:
 
-<div style="display:flex;flex-wrap:wrap;gap:16px;justify-content:center;align-items:flex-start;">
-	<img src="/img/assets/ai-components.svg" alt="AI Components" style="flex:1 1 320px;width:100%;max-width:450px;height:auto;">
-	<img src="/img/assets/ai-system-architecture.svg" alt="AI System Architecture" style="flex:1 1 320px;width:100%;max-width:450px;height:auto;">
+<div style="display:flex;flex-wrap: wrap;gap:16px; justify-content: center;">
+	<img src="/img/assets/ai-components.svg" alt="AI Components" style="width:450px;max-width:100%;height:auto;flex:0 1 450px;">
+	<img src="/img/assets/ai-system-architecture.svg" alt="AI System Architecture" style="width:450px;max-width:100%;height:auto;flex:0 1 450px;">
 </div>
 
 In practice, AI coding workflows split into three layers:
@@ -74,17 +74,18 @@ Full editors with deep AI integration — context-aware completions, inline edit
 
 These tools are model-agnostic interfaces that go beyond the editor — terminal workflows, autonomous agents, and cloud-based execution environments.
 
-|    Icon    | Tool                                                                  | Company       | License     | Interaction                              | Runtime                    | Pricing                          | Best for                                   |
-|:----------:|-----------------------------------------------------------------------|---------------|-------------|------------------------------------------|----------------------------|----------------------------------|--------------------------------------------|
-|  ![][ag]   | [Antigravity CLI](https://antigravity.google/product/antigravity-cli) | Google        | Proprietary | CLI, Cloud API, SDK, third-party         | Cloud (Gemini models)      | Free quota + paid tiers          | Google-centric and multimodal workflows    |
-|  ![][cc]   | [Claude Code](https://claude.ai/code)                                 | Anthropic     | Proprietary | CLI, Cloud API, third-party integrations | Cloud (Anthropic / custom) | Model plan or API usage          | Deep repo work in terminal workflows       |
-|  ![][cdx]  | [Codex](https://openai.com/codex/)                                    | OpenAI        | Apache-2.0  | Cloud app, API, SDK, third-party         | Cloud (OpenAI models)      | Model tier / plan                | End-to-end coding tasks with execution     |
-|  ![][dv]   | [Devin](https://devin.ai/)                                            | Cognition     | Proprietary | Cloud app, Slack, API                    | Cloud (provider models)    | Subscription / ACU-based         | Long-running autonomous coding tasks       |
-| ![][ghcli] | [GitHub Copilot](https://github.com/features/copilot)                 | GitHub        | Proprietary | IDE extensions, CLI, GitHub integration  | Cloud (Copilot / Azure)    | Included in Copilot plan         | GitHub-native scripting and repo workflows |
-| ![][herm]  | [Hermes](https://hermes-agent.nousresearch.com/)                      | Nous Research | Apache-2.0  | CLI, local, Cloud API, third-party       | Local and cloud hybrid     | Free (open-source)               | Free autonomous self-improvement agent     |
-|  ![][mmx]  | [MiniMax CLI](https://github.com/MiniMax-AI/cli)                      | MiniMax       | MIT         | CLI, Cloud API, third-party              | Cloud (MiniMax models)     | Free tool; provider cost applies | MiniMax-centric terminal coding workflows  |
-| ![][oclaw] | [OpenClaw](https://github.com/openclaw/openclaw)                      | Community     | MIT         | CLI, local, Cloud API, third-party       | Local and cloud hybrid     | Free (open-source)               | Open-source self-hosted autonomous agent   |
-|  ![][oc]   | [OpenCode](https://opencode.ai/)                                      | SST           | MIT         | CLI, local, Cloud API, SDK               | Local and cloud hybrid     | Free tool; provider cost applies | Flexible custom local/cloud setups         |
+|    Icon    | Tool                                                                  | Type                     | Interaction                              | Runtime                    | Pricing                          | Best for                                   |
+|:----------:|-----------------------------------------------------------------------|--------------------------|------------------------------------------|----------------------------|----------------------------------|--------------------------------------------|
+|  ![][ag]   | [Antigravity CLI](https://antigravity.google/product/antigravity-cli) | CLI coding interface     | CLI, Cloud API, SDK, third-party         | Cloud (Gemini models)      | Free quota + paid tiers          | Google-centric and multimodal workflows    |
+|  ![][cc]   | [Claude Code](https://claude.ai/code)                                 | Terminal coding agent    | CLI, Cloud API, third-party integrations | Cloud (Anthropic / custom) | Model plan or API usage          | Deep repo work in terminal workflows       |
+|  ![][cdx]  | [Codex](https://openai.com/codex/)                                    | Agentic coding interface | Cloud app, API, SDK, third-party         | Cloud (OpenAI models)      | Model tier / plan                | End-to-end coding tasks with execution     |
+| ![][devin] | [Devin](https://devin.ai/)                                            | Autonomous coding agent  | Cloud app, Slack, API                    | Cloud (provider models)    | Subscription / ACU-based         | Long-running autonomous coding tasks       |
+| ![][ghcli] | [GitHub Copilot](https://github.com/features/copilot)                 | Editor + CLI assistant   | IDE extensions, CLI, GitHub integration  | Cloud (Copilot / Azure)    | Included in Copilot plan         | GitHub-native scripting and repo workflows |
+| ![][herm]  | [Hermes](https://hermes-agent.nousresearch.com/)                      | Autonomous coding agent  | CLI, local, Cloud API, third-party       | Local and cloud hybrid     | Free (open-source)               | Free autonomous self-improvement agent     |
+|  ![][mmx]  | [MiniMax CLI](https://github.com/MiniMax-AI/cli)                      | Terminal coding agent    | CLI, Cloud API, third-party              | Cloud (MiniMax models)     | Free tool; provider cost applies | MiniMax-centric terminal coding workflows  |
+| ![][odyss] | [Odysseus](https://github.com/pewdiepie-archdaemon/odysseus)          | Autonomous coding agent  | CLI, local, Cloud API, third-party       | Local and cloud hybrid     | Free (open-source)               | Open-source self-hosted autonomous agent   |
+| ![][oclaw] | [OpenClaw](https://github.com/openclaw/openclaw)                      | Autonomous coding agent  | CLI, local, Cloud API, third-party       | Local and cloud hybrid     | Free (open-source)               | Open-source self-hosted autonomous agent   |
+|  ![][oc]   | [OpenCode](https://opencode.ai/)                                      | Open coding framework    | CLI, local, Cloud API, SDK               | Local and cloud hybrid     | Free tool; provider cost applies | Flexible custom local/cloud setups         |
 
 > **Note:** These tools are interfaces around models.The real cost depends on the selected provider and model tier, not the tool itself.
 
@@ -163,76 +164,32 @@ Agent skills are reusable instruction sets — typically `.md` files — that gi
 
 ---
 
-## Tools by Company
-
-The AI coding landscape is increasingly organized around a handful of companies that ship a full stack — editor, agent, model, and sometimes hardware. Grouping tools by their maker makes it easier to track who is expanding into new layers and to keep this guide growing as each ecosystem adds products.
-
-### Frontier labs (model + agent + tooling)
-
-| Company       | Editor / Interface | Agent           | Model(s)             | Skills            | Hardware / Infra      |
-|---------------|--------------------|-----------------|----------------------|-------------------|-----------------------|
-| **Google**    | Antigravity        | Antigravity CLI | Gemini Pro / Flash   | google/skills     | TPU (Trillium), Cloud |
-| **Anthropic** | —                  | Claude Code     | Claude Sonnet / Opus | anthropics/skills | — (cloud partners)    |
-| **OpenAI**    | Windsurf           | Codex           | GPT-5 / Codex        | openai/skills     | — (Azure, Stargate)   |
-| **Microsoft** | VS Code (Agentic)  | GitHub Copilot  | (partner models)     | —                 | Azure AI              |
-| **xAI**       | —                  | —               | Grok                 | —                 | Colossus cluster      |
-
-### Open-weights model makers
-
-| Company           | Model(s)      | License      | Notable for                           |
-|-------------------|---------------|--------------|---------------------------------------|
-| **Moonshot AI**   | Kimi K2.6     | Open weights | Best value frontier quality           |
-| **DeepSeek**      | DeepSeek V4   | Open weights | Cheapest capable, strong at scale     |
-| **Meta**          | Llama 4       | Open weights | Self-hosting and private deployments  |
-| **Alibaba**       | Qwen Coder    | Open weights | Cost-efficient code-heavy tasks       |
-| **Xiaomi**        | MiMo-V2.5-Pro | Open weights | Low-cost long context                 |
-| **Mistral AI**    | Codestral     | Open weights | Fast code generation                  |
-| **MiniMax**       | MiniMax CLI   | MIT          | Terminal coding around MiniMax models |
-| **Nous Research** | Hermes        | Apache-2.0   | Autonomous self-improving agent       |
-
-### AI-native editors & runtimes
-
-| Company            | Product   | Layer            | License     |
-|--------------------|-----------|------------------|-------------|
-| **Anysphere**      | Cursor    | Editor           | Proprietary |
-| **Codeium**        | Windsurf  | Editor           | Proprietary |
-| **Zed Industries** | Zed       | Editor           | GPL-3.0     |
-| **Ollama**         | Ollama    | Local runtime    | MIT         |
-| **LM Studio**      | LM Studio | Local runtime    | Proprietary |
-| **Nomic AI**       | GPT4All   | Local runtime    | MIT         |
-| **ggml-org**       | llama.cpp | Local runtime    | MIT         |
-| **SST**            | OpenCode  | Agent            | MIT         |
-| **Cognition**      | Devin     | Autonomous agent | Proprietary |
-
-> **Why group by company:** the fastest-moving players keep expanding vertically — a model lab ships an agent, then an editor, then skills, and eventually hardware. Tracking that expansion (and the gaps marked "—") is the simplest way to anticipate where each ecosystem grows next and what to add to this guide.
-
----
-
 <!-- favicon references -->
-[ag]:     https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://antigravity.google&size=32
-[cc]:     https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://anthropic.com&size=32
-[cdx]:    https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://openai.com&size=32
-[cla4]:   https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://anthropic.com&size=32
-[codes]:  https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://mistral.ai&size=32
-[cur]:    https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://cursor.com&size=32
-[dsv3]:   https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://deepseek.com&size=32
-[dv]:     https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://devin.ai/&size=32
-[g4a]:    https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://nomic.ai&size=32
-[gemcli]: https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://geminicli.com&size=32
-[gemini]: https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://ai.google.dev&size=32
-[ghcli]:  https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/github-copilot.svg
-[gpt5]:   https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://openai.com&size=32
-[herm]:   https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://nousresearch.com&size=32
-[kimi]:   https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://kimi.com&size=32
-[llcp]:   https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://github.com&size=32
-[llm3]:   https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://llama.com&size=32
-[lms]:    https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://lmstudio.ai&size=32
-[mimo]:   https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://mimo.xiaomi.com&size=32
-[mmx]:    https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://minimax.io&size=32
-[oc]:     https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://opencode.ai&size=32
-[oll]:    https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://ollama.com&size=32
-[oclaw]:  https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://github.com&size=32
-[qwen]:   https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://qwenlm.github.io&size=32
-[vsc]:    https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://code.visualstudio.com&size=32
-[ws]:     https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://windsurf.com&size=32
-[zed]:    https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://zed.dev&size=32
+[ag]:     /img/assets/ai-coding-tools/antigravity.svg
+[cc]:     /img/software/apps/claude-code.svg
+[cdx]:    /img/software/apps/chatgpt.svg
+[cla4]:   /img/software/apps/claude.svg
+[codes]:  /img/assets/ai-coding-tools/mistral.svg
+[cur]:    /img/assets/ai-coding-tools/cursor.svg
+[dsv3]:   /img/software/apps/deepseek.svg
+[devin]:  /img/software/apps/devin.svg
+[g4a]:    /img/assets/ai-coding-tools/gpt4all.svg
+[gemcli]: /img/software/apps/gemini.svg
+[gemini]: /img/software/apps/gemini.svg
+[ghcli]:  /img/assets/ai-coding-tools/github-copilot.svg
+[gpt5]:   /img/software/apps/chatgpt.svg
+[herm]:   /img/assets/ai-coding-tools/nousresearch.svg
+[kimi]:   /img/assets/ai-coding-tools/kimi.svg
+[llcp]:   /img/software/apps/github.svg
+[llm3]:   /img/assets/ai-coding-tools/meta.svg
+[lms]:    /img/assets/ai-coding-tools/lmstudio.svg
+[mimo]:   /img/assets/ai-coding-tools/xiaomi.svg
+[mmx]:    /img/assets/ai-coding-tools/minimax.svg
+[oc]:     /img/assets/ai-coding-tools/opencode.svg
+[odyss]:  /img/software/apps/odysseus.svg
+[oll]:    /img/software/apps/ollama.svg
+[oclaw]:  /img/software/apps/github.svg
+[qwen]:   /img/assets/ai-coding-tools/qwen.svg
+[vsc]:    /img/software/apps/visual-studio-code.svg
+[ws]:     /img/assets/ai-coding-tools/windsurf.svg
+[zed]:    /img/software/apps/zed.svg
