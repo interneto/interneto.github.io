@@ -64,9 +64,6 @@ Full editors with deep AI integration — context-aware completions, inline edit
 | ![][ws]  | [Windsurf](https://windsurf.com/)                                               | Codeium        | Proprietary       | Free / $15/mo | AI-first coding flow with Cascade agent                     |
 | ![][zed] | [Zed](https://zed.dev/)                                                         | Zed Industries | GPL-3.0           | Free          | High-performance editing with built-in AI and collaboration |
 
-> Note: Best for only summarizes the primary use case; final selection depends on your stack and daily workflow.
-
-
 > **Note:** The best editor depends on your stack, team setup, and preferred AI model. Most support multiple providers.
 
 
@@ -74,18 +71,19 @@ Full editors with deep AI integration — context-aware completions, inline edit
 
 These tools are model-agnostic interfaces that go beyond the editor — terminal workflows, autonomous agents, and cloud-based execution environments.
 
-|    Icon    | Tool                                                                  | Type                     | Interaction                              | Runtime                    | Pricing                          | Best for                                   |
-|:----------:|-----------------------------------------------------------------------|--------------------------|------------------------------------------|----------------------------|----------------------------------|--------------------------------------------|
-|  ![][ag]   | [Antigravity CLI](https://antigravity.google/product/antigravity-cli) | CLI coding interface     | CLI, Cloud API, SDK, third-party         | Cloud (Gemini models)      | Free quota + paid tiers          | Google-centric and multimodal workflows    |
-|  ![][cc]   | [Claude Code](https://claude.ai/code)                                 | Terminal coding agent    | CLI, Cloud API, third-party integrations | Cloud (Anthropic / custom) | Model plan or API usage          | Deep repo work in terminal workflows       |
-|  ![][cdx]  | [Codex](https://openai.com/codex/)                                    | Agentic coding interface | Cloud app, API, SDK, third-party         | Cloud (OpenAI models)      | Model tier / plan                | End-to-end coding tasks with execution     |
-| ![][devin] | [Devin](https://devin.ai/)                                            | Autonomous coding agent  | Cloud app, Slack, API                    | Cloud (provider models)    | Subscription / ACU-based         | Long-running autonomous coding tasks       |
-| ![][ghcli] | [GitHub Copilot](https://github.com/features/copilot)                 | Editor + CLI assistant   | IDE extensions, CLI, GitHub integration  | Cloud (Copilot / Azure)    | Included in Copilot plan         | GitHub-native scripting and repo workflows |
-| ![][herm]  | [Hermes](https://hermes-agent.nousresearch.com/)                      | Autonomous coding agent  | CLI, local, Cloud API, third-party       | Local and cloud hybrid     | Free (open-source)               | Free autonomous self-improvement agent     |
-|  ![][mmx]  | [MiniMax CLI](https://github.com/MiniMax-AI/cli)                      | Terminal coding agent    | CLI, Cloud API, third-party              | Cloud (MiniMax models)     | Free tool; provider cost applies | MiniMax-centric terminal coding workflows  |
-| ![][odyss] | [Odysseus](https://github.com/pewdiepie-archdaemon/odysseus)          | Autonomous coding agent  | CLI, local, Cloud API, third-party       | Local and cloud hybrid     | Free (open-source)               | Open-source self-hosted autonomous agent   |
-| ![][oclaw] | [OpenClaw](https://github.com/openclaw/openclaw)                      | Autonomous coding agent  | CLI, local, Cloud API, third-party       | Local and cloud hybrid     | Free (open-source)               | Open-source self-hosted autonomous agent   |
-|  ![][oc]   | [OpenCode](https://opencode.ai/)                                      | Open coding framework    | CLI, local, Cloud API, SDK               | Local and cloud hybrid     | Free tool; provider cost applies | Flexible custom local/cloud setups         |
+|    Icon    | Tool                                                                  | Type                     | Interaction                              | Runtime                    | Pricing                          | Best for                                    |
+|:----------:|-----------------------------------------------------------------------|--------------------------|------------------------------------------|----------------------------|----------------------------------|---------------------------------------------|
+|  ![][ag]   | [Antigravity CLI](https://antigravity.google/product/antigravity-cli) | CLI coding interface     | CLI, Cloud API, SDK, third-party         | Cloud (Gemini models)      | Free quota + paid tiers          | Google-centric and multimodal workflows     |
+|  ![][cc]   | [Claude Code](https://claude.ai/code)                                 | Terminal coding agent    | CLI, Cloud API, third-party integrations | Cloud (Anthropic / custom) | Model plan or API usage          | Deep repo work in terminal workflows        |
+|  ![][cdx]  | [Codex](https://openai.com/codex/)                                    | Agentic coding interface | Cloud app, API, SDK, third-party         | Cloud (OpenAI models)      | Model tier / plan                | End-to-end coding tasks with execution      |
+| ![][devin] | [Devin](https://devin.ai/)                                            | Autonomous coding agent  | Cloud app, Slack, API                    | Cloud (provider models)    | Subscription / ACU-based         | Long-running autonomous coding tasks        |
+| ![][ghcli] | [GitHub Copilot](https://github.com/features/copilot)                 | Editor + CLI assistant   | IDE extensions, CLI, GitHub integration  | Cloud (Copilot / Azure)    | Included in Copilot plan         | GitHub-native scripting and repo workflows  |
+| ![][herm]  | [Hermes](https://hermes-agent.nousresearch.com/)                      | Autonomous coding agent  | CLI, local, Cloud API, third-party       | Local and cloud hybrid     | Free (open-source)               | Free autonomous self-improvement agent      |
+|  ![][mmx]  | [MiniMax CLI](https://github.com/MiniMax-AI/cli)                      | Terminal coding agent    | CLI, Cloud API, third-party              | Cloud (MiniMax models)     | Free tool; provider cost applies | MiniMax-centric terminal coding workflows   |
+| ![][odys]  | [Odysseus](https://github.com/pewdiepie-archdaemon/odysseus)          | Autonomous coding agent  | GUI, local, Cloud API, third-party       | Local and cloud hybrid     | Free (open-source)               | Open-source self-hosted autonomous agent    |
+| ![][oclaw] | [OpenClaw](https://github.com/openclaw/openclaw)                      | Autonomous coding agent  | CLI, local, Cloud API, third-party       | Local and cloud hybrid     | Free (open-source)               | Open-source self-hosted autonomous agent    |
+|  ![][oc]   | [OpenCode](https://opencode.ai/)                                      | Open coding framework    | CLI, local, Cloud API, SDK               | Local and cloud hybrid     | Free tool; provider cost applies | Flexible custom local/cloud setups          |
+|  ![][oi]   | [Open Interpreter](https://www.openinterpreter.com/)                  | Autonomous coding agent  | CLI, local, Cloud API, third-party       | Local and cloud hybrid     | Free (open-source)               | Local code execution and computer-use tasks |
 
 > **Note:** These tools are interfaces around models.The real cost depends on the selected provider and model tier, not the tool itself.
 
@@ -161,7 +159,6 @@ Agent skills are reusable instruction sets — typically `.md` files — that gi
 | [GitHub Copilot Chat Cookbook](https://docs.github.com/copilot/tutorials/copilot-chat-cookbook) | Practical Copilot-specific prompt examples and patterns         |
 | [Awesome ChatGPT Prompts](https://prompts.chat/)                                                | Curated community prompts for common tasks and roles            |
 
-
 ---
 
 <!-- favicon references -->
@@ -174,7 +171,6 @@ Agent skills are reusable instruction sets — typically `.md` files — that gi
 [dsv3]:   /img/software/apps/deepseek.svg
 [devin]:  /img/software/apps/devin.svg
 [g4a]:    /img/assets/ai-coding-tools/gpt4all.svg
-[gemcli]: /img/software/apps/gemini.svg
 [gemini]: /img/software/apps/gemini.svg
 [ghcli]:  /img/assets/ai-coding-tools/github-copilot.svg
 [gpt5]:   /img/software/apps/chatgpt.svg
@@ -186,7 +182,8 @@ Agent skills are reusable instruction sets — typically `.md` files — that gi
 [mimo]:   /img/assets/ai-coding-tools/xiaomi.svg
 [mmx]:    /img/assets/ai-coding-tools/minimax.svg
 [oc]:     /img/assets/ai-coding-tools/opencode.svg
-[odyss]:  /img/software/apps/odysseus.svg
+[odys]:   /img/software/apps/odysseus.svg
+[oi]:     /img/assets/ai-coding-tools/open-interpreter.svg
 [oll]:    /img/software/apps/ollama.svg
 [oclaw]:  /img/software/apps/github.svg
 [qwen]:   /img/assets/ai-coding-tools/qwen.svg
