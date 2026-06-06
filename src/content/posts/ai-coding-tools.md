@@ -1,35 +1,28 @@
 ---
-title: Comparing AI Coding Tools
-description: Comparing the best AI coding tools and models in 2026
+title: AI Coding in 2026
+description: Understanding the stack, tools, and models powering modern AI coding
 date: 2026-04-29
 next: true
 prev: true
 footer: true
 ---
 
-## Overview
+## What Is AI Coding?
 
-AI coding is no longer one tool and one model. In 2026, productive workflows combine editors, coding interfaces, and model runtimes depending on the task, privacy requirements, and team setup.
+AI coding is no longer one tool and one model. Productive workflows now combine editors, coding interfaces, and model runtimes — and you choose them independently based on task, privacy, and team setup.
 
-The diagram below shows the core components of a modern AI coding system:
+This guide explains **what you need to know** to build or use an AI-powered coding system: the industry architecture, why closed models lead, what a minimal viable stack looks like, and which tools do what.
 
-<div style="display:flex;flex-wrap: wrap;gap:16px; justify-content: center;">
-	<img src="/img/assets/ai-components.svg" alt="AI Components" style="width:450px;max-width:100%;height:auto;flex:0 1 450px;">
-	<img src="/img/assets/ai-system-architecture.svg" alt="AI System Architecture" style="width:450px;max-width:100%;height:auto;flex:0 1 450px;">
-</div>
+Three layers power modern AI coding:
+- **Editor-native AI** — inline completions and edits, in your editor
+- **Coding agents** — autonomous CLI/cloud interfaces for complex tasks  
+- **Model runtimes and APIs** — local inference or hosted cloud compute
 
-In practice, AI coding workflows split into three layers:
+---
 
-- **Editor-native AI** — coding in context, inside your editor
-- **Coding interfaces and agents** — CLI, cloud, SDK, and third-party automation tools
-- **Model runtimes, access platforms, and APIs** — local inference, cloud gateways, and hosted compute
+## The Industry Stack
 
-This guide compares the most relevant tools in each layer.
-
-
-## Full-Stack AI Systems
-
-A frontier AI system is a vertical stack — from **silicon at the bottom to the app at the top**. The table below synthesizes it into two ecosystems: the **closed / proprietary** frontier labs (OpenAI · Anthropic · Google) and the **open-source** stack you can self-host. Read it top-down (user-facing) to bottom (**hardware = the foundation**); proprietary cells follow OpenAI / Anthropic / Google order where they differ, and `/` separates alternatives.
+A frontier AI system is a vertical stack — from **silicon at the bottom to the app at the top**. Below are two ecosystems: the **closed / proprietary** labs (OpenAI · Anthropic · Google) and the **open-source** stack you can self-host. Read top-down (user-facing) to bottom (foundation); proprietary entries follow OpenAI/Anthropic/Google order, with `/` separating alternatives.
 
 | Stack layer             | <img src="/img/software/apps/chatgpt.svg" alt="OpenAI" style="height:1.1em;vertical-align:-.18em;border-radius:0"> <img src="/img/software/apps/claude.svg" alt="Anthropic" style="height:1.1em;vertical-align:-.18em;border-radius:0"> <img src="/img/software/apps/gemini.svg" alt="Google" style="height:1.1em;vertical-align:-.18em;border-radius:0"> Closed / Proprietary | <img src="/img/assets/ai-coding-tools/meta.svg" alt="Llama" style="height:1.1em;vertical-align:-.18em;border-radius:0"> <img src="/img/assets/ai-coding-tools/qwen.svg" alt="Qwen" style="height:1.1em;vertical-align:-.18em;border-radius:0"> <img src="/img/software/apps/deepseek.svg" alt="DeepSeek" style="height:1.1em;vertical-align:-.18em;border-radius:0"> <img src="/img/assets/ai-coding-tools/kimi.svg" alt="Kimi" style="height:1.1em;vertical-align:-.18em;border-radius:0"> Open-Source |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -51,185 +44,96 @@ A frontier AI system is a vertical stack — from **silicon at the bottom to the
 
 > **Note:** Closed stacks are vertically integrated — lower cost and tighter control, but heavier lock-in. The open-source stack trades turnkey convenience for portability: every layer, from the chip to the app, can be swapped or self-hosted.
 
-### The Hidden Ingredient — the Data Flywheel
+### Why Closed Models Lead: The Data Flywheel
 
-Notice what the two columns *share*: identical chips, the same training frameworks, near-identical transformer architectures, even the same pre-training objective. Raw pre-training is commoditizing — which is why open weights keep closing the gap. The durable edge of the closed labs lives almost entirely in **post-training**: proprietary human-preference and expert data, reward models, RL environments, and a tight eval-and-iteration loop that is never published.
+The two ecosystems share identical chips, training frameworks, and transformer architectures. **Raw pre-training is commoditizing.** The edge of closed labs lives in **post-training**: proprietary human-preference data, reward models, and a tight eval loop never published.
 
-It compounds into a **flywheel**: a frontier model ships inside a product, hundreds of millions of users generate fresh feedback, that feedback fuels better post-training, and a better model ships. Compute and data-labeling spend start the wheel; the product then spins it for free. Open weights can copy the *artifact*, but not the loop that produced it.
+This creates a **flywheel**: frontier model → product → millions of users → fresh feedback → better post-training → better model. Users spin it for free. Open weights copy the artifact, not the loop.
 
-The open ecosystem has reproduced most of the *machinery* of that loop — just not the fuel:
+The open stack has the machinery but lacks the fuel (product-scale feedback). The independent path: **RLVR (RL with verifiable rewards)** — for code/math, rewards are automatic (tests pass, answer checks). Perfect for coding, needs no massive user base.
 
-| Flywheel part         | Closed (proprietary)       | Open equivalent                        |
-|-----------------------|----------------------------|----------------------------------------|
-| Data registry         | Internal data lakes        | Hugging Face Hub                       |
-| Pre-training data     | Web + licensed + synthetic | FineWeb / The Stack / Dolma            |
-| Post-training toolkit | In-house RLHF infra        | TRL / OpenRLHF / Axolotl               |
-| Reference recipe      | Unpublished                | OLMo + Tülu 3 (SFT → DPO → RLVR)       |
-| RL algorithm          | Proprietary                | GRPO (open, via DeepSeek)              |
-| Human feedback        | Product telemetry          | LMArena votes / OpenAssistant          |
-| Evals                 | Private suites             | lm-eval-harness / SWE-bench            |
-| Compute pooling       | Owned clusters             | Decentralized (Prime Intellect / Nous) |
+### The Minimal Stack: What You Actually Need
 
-> **The gap, and the open bet:** the single piece with no open equivalent is *product-scale human feedback*. The open substitute — distilling training data from closed models — is derivative and tracks behind by design. The genuinely independent open path is **RL with verifiable rewards (RLVR)**: for code, math, and agentic tasks the reward is automatic (tests pass, the answer checks out), so progress needs neither armies of labelers nor a giant consumer product — exactly the coding domain this guide cares about.
-
-### The Minimal Stack — and Where the Math Runs
-
-The table above is the whole industry. One developer actually needs **four layers** — and two tools cover them. Everything higher up (apps, SDKs, vector DBs, orchestration, the entire training column) is optional. The smallest usable AI coder is two commands:
+A developer needs **four layers**; two tools cover it:
 
 ```bash
-ollama run qwen3.6    # runtime + model = a working LLM, in one line
-opencode              # optional agent on top, pointed at your local Ollama
+ollama run qwen3.6    # runtime + model
+opencode              # optional agent
 ```
 
-| Layer              | Minimal pick              | What it actually does                                   |
-|--------------------|---------------------------|---------------------------------------------------------|
-| Agent *(optional)* | OpenCode                  | Turns your intent into prompts + tool calls             |
-| Runtime            | Ollama (llama.cpp / GGML) | **Runs the transformer forward pass**                   |
-| Model              | Qwen Coder — GGUF weights | The learned weight matrices (just numbers)              |
-| Hardware           | Your GPU / CPU            | **The real math: matrix multiplies (GEMM) + attention** |
+| Layer | You need | What it does |
+|-------|----------|--------------|
+| **Agent** | OpenCode *(optional)* | Intent → prompts + tools |
+| **Runtime** | Ollama (llama.cpp) | Transformer forward pass |
+| **Model** | Qwen Coder (GGUF) | Learned weight matrices |
+| **Hardware** | GPU/CPU | Matrix multiply + attention |
 
-So where is the *transform*, and where is the *real math*? Your prompt is split into tokens, each mapped to an embedding vector. Those vectors flow through the model's stacked **Transformer blocks** — every block runs **self-attention** (each token attends to all the others) plus a **feed-forward** network, and both are almost entirely **matrix multiplications** (GEMM). That sequence *is* the transform. The model file holds only the weights — the numbers inside those matrices. The **runtime** (llama.cpp / GGML inside Ollama) turns the architecture into a schedule of multiplications, and the **GPU/CPU executes the arithmetic** — billions of multiply-adds per token generated.
+**The computation:** Prompt → tokens → embeddings → stacked Transformer blocks (self-attention + feed-forward = mostly GEMM). Runtime schedules operations; chip executes them — billions of multiply-adds per token.
 
-> **In one line:** the model is the *numbers*, the runtime is the *recipe*, the hardware is *where the arithmetic happens*. Strip everything else away and an AI coder is just `ollama run` feeding weight matrices to a chip that multiplies them — one token at a time.
+**Summary:** Model = numbers. Runtime = recipe. Hardware = executor. Everything else is optional.
 
+## AI Components
 
-## Quick Picks
+<style>
+.icon-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.5em;
+  height: 2.5em;
+  margin: 0.3em;
+  background: var(--vp-c-bg-soft);
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 0.5em;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+  transition: all 0.2s;
+}
 
-- **General use** → VS Code + Copilot
-- **AI-first editor** → Cursor or Windsurf
-- **Terminal agent** → Claude Code or Gemini CLI
-- **Local / private** → Ollama (quick setup) or llama.cpp (max control)
-- **Best value model** → Kimi K2.6 (open weights, frontier quality)
-- **Cheapest capable model** → DeepSeek V4 Flash
-- **Skills ecosystem** → skills.sh (open, any agent) or autoskills.sh (auto-detect stack)
-- **Prompt engineering** → Prompt Engineering Guide (reference) or Learn Prompting (course)
+.icon-badge:hover {
+  box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+  transform: translateY(-1px);
+}
 
+.icon-badge img {
+  width: 1.5em;
+  height: 1.5em;
+  object-fit: contain;
+}
+</style>
 
-## Local LLM Runtimes
+|    AI components    |                                                                                                                                                                                                                                                                 Open-Source                                                                                                                                                                                                                                                                  |                                                                                                                                                                                         Proprietary                                                                                                                                                                                         |
+|:-------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| **Local Runtimes**  |                                     <a href="https://ollama.com/" class="icon-badge" title="Ollama">![Ollama][oll]</a> <a href="https://lmstudio.ai/" class="icon-badge" title="LM Studio">![LM Studio][lms]</a> <a href="https://github.com/ggml-org/llama.cpp" class="icon-badge" title="llama.cpp">![llama.cpp][llcp]</a> <a href="https://vllm.ai/" class="icon-badge" title="vLLM">![vLLM][vllm]</a> <a href="https://www.nomic.ai/gpt4all" class="icon-badge" title="GPT4All">![GPT4All][g4a]</a>                                      |                                                                                                                                                                                                                                                                                                                                                                                             |
+|  **Code Editors**   |                                           <a href="https://antigravity.google/" class="icon-badge" title="Antigravity">![Antigravity][ag]</a> <a href="https://cursor.com/" class="icon-badge" title="Cursor">![Cursor][cur]</a> <a href="https://code.visualstudio.com/" class="icon-badge" title="VS Code">![VS Code][vsc]</a> <a href="https://windsurf.com/" class="icon-badge" title="Windsurf">![Windsurf][ws]</a> <a href="https://zed.dev/" class="icon-badge" title="Zed">![Zed][zed]</a>                                           |                                                                                                                                                                                                                                                                                                                                                                                             |
+|  **Agents / CLI**   | <a href="https://opencode.ai/" class="icon-badge" title="OpenCode">![OpenCode][oc]</a> <a href="https://www.openinterpreter.com/" class="icon-badge" title="Open Interpreter">![Open Interpreter][oi]</a> <a href="https://hermes-agent.nousresearch.com/" class="icon-badge" title="Hermes">![Hermes][herm]</a> <a href="https://github.com/MiniMax-AI/cli" class="icon-badge" title="MiniMax CLI">![MiniMax][mmx]</a> <a href="https://github.com/pewdiepie-archdaemon/odysseus" class="icon-badge" title="Odysseus">![Odysseus][odys]</a> | <a href="https://claude.ai/code" class="icon-badge" title="Claude Code">![Claude Code][cc]</a> <a href="https://openai.com/codex/" class="icon-badge" title="Codex">![Codex][cdx]</a> <a href="https://devin.ai/" class="icon-badge" title="Devin">![Devin][devin]</a> <a href="https://github.com/features/copilot" class="icon-badge" title="GitHub Copilot">![GitHub Copilot][ghcli]</a> |
+| **Model Platforms** |                                                                               <a href="https://huggingface.co/" class="icon-badge" title="Hugging Face">![Hugging Face][hfzg]</a> <a href="https://openrouter.ai/" class="icon-badge" title="OpenRouter">![OpenRouter][or]</a> <a href="https://replicate.com/" class="icon-badge" title="Replicate">![Replicate][rep]</a> <a href="https://vast.ai/" class="icon-badge" title="Vast.ai">![Vast.ai][vast]</a>                                                                                |                                                                                                                                                                                                                                                                                                                                                                                             |
+|    **AI Models**    |                                                                                      <a href="https://www.llama.com/" class="icon-badge" title="Llama">![Llama][llm3]</a> <a href="https://qwenlm.github.io/" class="icon-badge" title="Qwen">![Qwen][qwen]</a> <a href="https://www.deepseek.com/" class="icon-badge" title="DeepSeek">![DeepSeek][dsv3]</a> <a href="https://mistral.ai/" class="icon-badge" title="Codestral">![Mistral][codes]</a>                                                                                       |              <a href="https://www.anthropic.com/claude" class="icon-badge" title="Claude">![Claude][cla4]</a> <a href="https://openai.com/chatgpt" class="icon-badge" title="GPT">![GPT][gpt5]</a> <a href="https://ai.google.dev/" class="icon-badge" title="Gemini">![Gemini][gemini]</a> <a href="https://www.kimi.com/" class="icon-badge" title="Kimi">![Kimi][kimi]</a>               |
 
-To run AI models locally you need a runtime — the layer that loads, manages, and serves the model on your hardware.
+---
 
-|   Icon    | Tool                                               | Company              | License     | Price | Best for                                      |
-|:---------:|----------------------------------------------------|----------------------|-------------|-------|-----------------------------------------------|
-| ![][oll]  | [Ollama](https://ollama.com/)                      | Ollama               | MIT         | Free  | Quick local setup with broad model support    |
-| ![][lms]  | [LM Studio](https://lmstudio.ai/)                  | LM Studio            | Proprietary | Free  | GUI-based local experimentation               |
-| ![][llcp] | [llama.cpp](https://github.com/ggml-org/llama.cpp) | ggml-org / Community | MIT         | Free  | Maximum control, performance, and portability |
-| ![][vllm] | [vLLM](https://vllm.ai/)                           | vLLM Project         | Apache-2.0  | Free  | High-throughput LLM serving and API inference |
-| ![][g4a]  | [GPT4All](https://www.nomic.ai/gpt4all)            | Nomic AI             | MIT         | Free  | Privacy-first onboarding, no cloud required   |
+## Multimodal AI: Beyond Text and Code
 
-> **Note:** Local performance depends primarily on hardware (RAM, VRAM, CPU, GPU) rather than the runtime tool itself.
+The same machinery — transformers plus **diffusion** models for pixels and audio — generates speech, images, video, and music. These aren't tools; they're models. They run identical forward-pass math on identical hardware; only the training domain changes. The closed-vs-open split repeats across every modality:
 
+| Modality                 | Closed / Proprietary                                                                                                                                                                        | Open-Source                                                                                                                                                                                                                        | Run it locally with                                                                                                  |
+|--------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
+| **Speech-to-text (STT)** | [OpenAI gpt-4o-transcribe](https://platform.openai.com/docs/guides/speech-to-text) / [Deepgram](https://deepgram.com/) / [ElevenLabs Scribe](https://elevenlabs.io/features/speech-to-text) | [Whisper](https://github.com/openai/whisper) / [NVIDIA Parakeet](https://github.com/NVIDIA/NeMo) / [Moonshine](https://github.com/kakao-ai/moonshine)                                                                              | [whisper.cpp](https://github.com/ggml-org/whisper.cpp) / [faster-whisper](https://github.com/SYSTRAN/faster-whisper) |
+| **Text-to-speech (TTS)** | [ElevenLabs](https://elevenlabs.io/) / [OpenAI TTS](https://platform.openai.com/docs/guides/text-to-speech) / [Cartesia](https://cartesia.ai/)                                              | [Kokoro](https://huggingface.co/hexgrad/Kokoro-82M) / [XTTS](https://github.com/coqui-ai/TTS) / [Piper](https://github.com/rhasspy/piper) / [Orpheus](https://github.com/camb-ai/orpheus)                                          | [Piper](https://github.com/rhasspy/piper) / [ComfyUI](https://github.com/comfyanonymous/ComfyUI)                     |
+| **Image generation**     | [Midjourney](https://www.midjourney.com/) / [GPT Image](https://platform.openai.com/docs/guides/vision) / [Google Nano Banana](https://ai.google.dev/models/gemini-2-0-flash)               | [FLUX.1](https://huggingface.co/black-forest-labs/FLUX.1-dev) / [Stable Diffusion 3.5](https://huggingface.co/stabilityai/stable-diffusion-3.5-large) / [Qwen-Image](https://github.com/QwenLM/Qwen-VL)                            | [ComfyUI](https://github.com/comfyanonymous/ComfyUI) / [Diffusers](https://github.com/huggingface/diffusers)         |
+| **Video generation**     | [Sora](https://openai.com/sora) / [Veo 3](https://deepmind.google/technologies/veo/) / [Runway Gen-4](https://runwayml.com/) / [Kling](https://klingai.com/)                                | [Wan 2.2](https://huggingface.co/alimama-creative/Wan2.2) / [HunyuanVideo](https://github.com/Tencent/HunyuanVideo) / [LTX-Video](https://github.com/Lightricks/LTX-Video) / [Mochi](https://huggingface.co/genmo/mochi-1-preview) | [ComfyUI](https://github.com/comfyanonymous/ComfyUI)                                                                 |
+| **Music / audio**        | [Suno](https://suno.com/) / [Udio](https://www.udio.com/) / [Google Lyria](https://deepmind.google/technologies/lyria/)                                                                     | [Stable Audio](https://www.stableaudio.com/) / [MusicGen](https://github.com/facebookresearch/audiocraft) / [ACE-Step](https://huggingface.co/Amplabs/ACE-Step)                                                                    | [Transformers](https://huggingface.co/docs/transformers/) / [ComfyUI](https://github.com/comfyanonymous/ComfyUI)     |
+| **Embeddings**           | [OpenAI text-embedding-3](https://platform.openai.com/docs/guides/embeddings) / [Cohere](https://cohere.com/embeddings) / [Voyage](https://www.voyageai.com/)                               | [BGE](https://huggingface.co/BAAI/bge-large-en-v1.5) / [Nomic Embed](https://huggingface.co/nomic-ai/nomic-embed-text-v1.5) / [Qwen3-Embedding](https://github.com/QwenLM/Qwen)                                                    | [Ollama](https://ollama.com/) / [sentence-transformers](https://github.com/UKPLab/sentence-transformers)             |
+| **3D / assets**          | [Meshy](https://www.meshy.ai/) / [Luma](https://lumalabs.ai/) / [Rodin](https://www.roblox.com/rodin)                                                                                       | [TRELLIS](https://huggingface.co/JeffreyXiang/TRELLIS) / [Hunyuan3D](https://github.com/Tencent/Hunyuan3D-2)                                                                                                                       | [ComfyUI](https://github.com/comfyanonymous/ComfyUI)                                                                 |
 
-## AI Code Editors
+> **Note:** Image, video, and audio use **ComfyUI** as the universal open runtime — the Ollama of pixels. Speech uses **whisper.cpp**. Reverse flows (image/audio → understanding) are handled by multimodal LLMs above.
 
-Full editors with deep AI integration — context-aware completions, inline edits, and chat within your coding environment.
+---
 
-|   Icon   | Tool                                                                            | Company        | License           | Price         | Best for                                                    |
-|:--------:|---------------------------------------------------------------------------------|----------------|-------------------|---------------|-------------------------------------------------------------|
-| ![][ag]  | [Antigravity](https://antigravity.google/)                                      | Google         | Proprietary       | Free (beta)   | Agentic workflows in Google ecosystem                       |
-| ![][cur] | [Cursor](https://cursor.com/)                                                   | Anysphere      | Proprietary       | Free / $20/mo | Fast inline edits and project-wide chat                     |
-| ![][vsc] | [VS Code (Agentic)](https://code.visualstudio.com/docs/copilot/agents/overview) | Microsoft      | MIT + Proprietary | Free / $10/mo | Balanced daily coding with a broad extension ecosystem      |
-| ![][ws]  | [Windsurf](https://windsurf.com/)                                               | Codeium        | Proprietary       | Free / $15/mo | AI-first coding flow with Cascade agent                     |
-| ![][zed] | [Zed](https://zed.dev/)                                                         | Zed Industries | GPL-3.0           | Free          | High-performance editing with built-in AI and collaboration |
+## The Jarvis Question
 
-> **Note:** The best editor depends on your stack, team setup, and preferred AI model. Most support multiple providers.
+Assemble the pieces above and you get something familiar: a system you **talk to**, that **sees**, **reasons**, **plans**, writes code, **generates** visuals, **calls tools**, and **remembers**. That is **J.A.R.V.I.S.** from Iron Man.
 
-
-## AI Coding Interfaces and Agents
-
-These tools are model-agnostic interfaces that go beyond the editor — terminal workflows, autonomous agents, and cloud-based execution environments.
-
-|    Icon    | Tool                                                                  | Type                     | Interaction                              | Runtime                    | Pricing                          | Best for                                    |
-|:----------:|-----------------------------------------------------------------------|--------------------------|------------------------------------------|----------------------------|----------------------------------|---------------------------------------------|
-|  ![][ag]   | [Antigravity CLI](https://antigravity.google/product/antigravity-cli) | CLI coding interface     | CLI, Cloud API, SDK, third-party         | Cloud (Gemini models)      | Free quota + paid tiers          | Google-centric and multimodal workflows     |
-|  ![][cc]   | [Claude Code](https://claude.ai/code)                                 | Terminal coding agent    | CLI, Cloud API, third-party integrations | Cloud (Anthropic / custom) | Model plan or API usage          | Deep repo work in terminal workflows        |
-|  ![][cdx]  | [Codex](https://openai.com/codex/)                                    | Agentic coding interface | Cloud app, API, SDK, third-party         | Cloud (OpenAI models)      | Model tier / plan                | End-to-end coding tasks with execution      |
-| ![][devin] | [Devin](https://devin.ai/)                                            | Autonomous coding agent  | Cloud app, Slack, API                    | Cloud (provider models)    | Subscription / ACU-based         | Long-running autonomous coding tasks        |
-| ![][ghcli] | [GitHub Copilot](https://github.com/features/copilot)                 | Editor + CLI assistant   | IDE extensions, CLI, GitHub integration  | Cloud (Copilot / Azure)    | Included in Copilot plan         | GitHub-native scripting and repo workflows  |
-| ![][herm]  | [Hermes](https://hermes-agent.nousresearch.com/)                      | Autonomous coding agent  | CLI, local, Cloud API, third-party       | Local and cloud hybrid     | Free (open-source)               | Free autonomous self-improvement agent      |
-|  ![][mmx]  | [MiniMax CLI](https://github.com/MiniMax-AI/cli)                      | Terminal coding agent    | CLI, Cloud API, third-party              | Cloud (MiniMax models)     | Free tool; provider cost applies | MiniMax-centric terminal coding workflows   |
-| ![][odys]  | [Odysseus](https://github.com/pewdiepie-archdaemon/odysseus)          | Autonomous coding agent  | GUI, local, Cloud API, third-party       | Local and cloud hybrid     | Free (open-source)               | Open-source self-hosted autonomous agent    |
-| ![][oclaw] | [OpenClaw](https://github.com/openclaw/openclaw)                      | Autonomous coding agent  | CLI, local, Cloud API, third-party       | Local and cloud hybrid     | Free (open-source)               | Open-source self-hosted autonomous agent    |
-|  ![][oc]   | [OpenCode](https://opencode.ai/)                                      | Open coding framework    | CLI, local, Cloud API, SDK               | Local and cloud hybrid     | Free tool; provider cost applies | Flexible custom local/cloud setups          |
-|  ![][oi]   | [Open Interpreter](https://www.openinterpreter.com/)                  | Autonomous coding agent  | CLI, local, Cloud API, third-party       | Local and cloud hybrid     | Free (open-source)               | Local code execution and computer-use tasks |
-
-> **Note:** These tools are interfaces around models. The real cost depends on the selected provider and model tier, not the tool itself.
-
-
-## Model Access Platforms
-
-These platforms sit underneath or beside coding tools. They provide hosted model access, serverless inference, rentable compute, or a unified gateway across multiple providers.
-
-|   Icon    | Platform                                                                               | Type                       | Access model                       | Pricing                         | Best for                                      |
-|:---------:|----------------------------------------------------------------------------------------|----------------------------|------------------------------------|---------------------------------|-----------------------------------------------|
-| ![][hfzg] | [Hugging Face Zero GPU Spaces](https://huggingface.co/spaces/enzostvs/zero-gpu-spaces) | Hosted demo / shared infra | Web UI, Hugging Face Spaces        | Free tier / community-hosted    | Testing community demos with minimal setup    |
-|  ![][or]  | [OpenRouter](https://openrouter.ai/)                                                   | Unified model gateway      | API, SDK, third-party integrations | Pay per model / provider markup | Switching across many hosted model providers  |
-| ![][rep]  | [Replicate](https://replicate.com/)                                                    | Hosted inference platform  | API, web, third-party integrations | Usage-based                     | Running open models via API without own infra |
-| ![][vast] | [Vast.ai](https://vast.ai/)                                                            | GPU rental marketplace     | Cloud compute, containers, SSH     | Usage-based / rented hardware   | Cheap on-demand GPUs and self-managed stacks  |
-
-> **Note:** These are not coding agents by themselves. They are the model-access and compute layer that editors, agents, scripts, and apps can sit on top of.
-
-
-## AI Coding Models
-
-The models powering code generation, refactoring, and reasoning inside these tools.
-
-|    Icon     | Model                                                    | Provider    | License             | Access                   | Best for                                   |
-|:-----------:|----------------------------------------------------------|-------------|---------------------|--------------------------|--------------------------------------------|
-|  ![][cla4]  | [Claude Sonnet / Opus](https://www.anthropic.com/claude) | Anthropic   | Proprietary         | API / Claude Code        | Large refactors, deep repo understanding   |
-| ![][codes]  | [Codestral](https://mistral.ai/news/codestral/)          | Mistral AI  | Proprietary weights | API / partner platforms  | Fast code generation and completion        |
-|  ![][dsv3]  | [DeepSeek V4](https://www.deepseek.com/)                 | DeepSeek    | Open weights        | Local / hosted providers | Strong value for large-scale coding usage  |
-| ![][gemini] | [Gemini Pro](https://ai.google.dev/)                     | Google      | Proprietary         | API / Google ecosystem   | Multimodal workflows and long context      |
-|  ![][gpt5]  | [GPT-5 / Codex](https://openai.com/codex/)               | OpenAI      | Proprietary         | API / integrated tools   | Broad coding tasks and automation          |
-|  ![][kimi]  | [Kimi K2.6](https://www.kimi.com/ai-models/kimi-k2-6)    | Moonshot AI | Open weights        | API / hosted providers   | Frontier quality at open-weights cost      |
-|  ![][llm3]  | [Llama 4](https://www.llama.com/)                        | Meta        | Open weights        | Local / hosted providers | Private deployments and self-hosting       |
-|  ![][qwen]  | [Qwen Coder](https://qwenlm.github.io/)                  | Alibaba     | Open weights        | Local / hosted providers | Code-heavy tasks with cost-efficient infra |
-|  ![][mimo]  | [MiMo-V2.5-Pro](https://mimo.xiaomi.com/)                | Xiaomi      | Open weights        | API / hosted providers   | Competitive coding quality at low cost     |
-
-> **Note:** Always compare quality, latency, token cost, context window, and regional availability before committing to a model in production.
-
-
-### AI Model Benchmark (May 2026)
-
-Data from [Artificial Analysis](https://artificialanalysis.ai/leaderboards/models) — independent evaluations across intelligence, speed, and cost.
-
-| Model             | Company     | Intelligence ↑ | Speed (tok/s) ↑ | Input ($/1M) | Output ($/1M) | Context |
-|-------------------|-------------|:--------------:|:---------------:|:------------:|:-------------:|:-------:|
-| GPT-5.5           | OpenAI      |       60       |       60        |    $2.00     |     $8.00     |  922k   |
-| Claude Opus 4.7   | Anthropic   |       57       |       48        |    $3.00     |    $15.00     |   1M    |
-| Gemini 3.1 Pro    | Google      |       57       |       130       |    $1.25     |    $10.00     |   1M    |
-| Kimi K2.6         | Moonshot AI |       54       |       98        |    $0.95     |     $3.50     |  256k   |
-| MiMo-V2.5-Pro     | Xiaomi      |       54       |       57        |    $0.30     |     $1.10     |   1M    |
-| Grok 4.3          | xAI         |       53       |       102       |    $1.00     |     $3.00     |   1M    |
-| DeepSeek V4 Pro   | DeepSeek    |       52       |       29        |    $0.28     |     $1.10     |   1M    |
-| DeepSeek V4 Flash | DeepSeek    |       47       |       97        |    $0.07     |     $0.28     |   1M    |
-| Gemini 3 Flash    | Google      |       46       |       165       |    $0.30     |     $2.50     |   1M    |
-
-> **Intelligence** — Artificial Analysis Intelligence Index v4.0 (composite of 10 evals: GPQA, HLE, SciCode, agentic tasks, and more).  
-> **Speed** — output tokens/s via first-party API (median over last 72h).  
-> **Input / Output** — API price per 1M tokens. Effective cost varies with prompt caching and usage ratio.
-
-*Best intelligence:* GPT-5.5 · *Fastest:* Gemini 3 Flash · *Best value frontier:* Kimi K2.6 · *Cheapest capable:* DeepSeek V4 Flash
-
-## Beyond Text — Other AI Modalities
-
-Everything above is text and code. But the same machinery — transformers, plus **diffusion** models for pixels and audio — also generates speech, images, video, and music. To settle the obvious question: **these are models, not tools.** They run the same kind of forward-pass math on the same hardware; only the model and its runtime change, so they drop into the identical stack (app → model → runtime → hardware). The open ecosystem mirrors the closed one, modality for modality:
-
-| Modality                 | Closed / Proprietary                                    | Open-Source                                | Run it locally with            |
-|--------------------------|---------------------------------------------------------|--------------------------------------------|--------------------------------|
-| **Speech-to-text (STT)** | OpenAI gpt-4o-transcribe / Deepgram / ElevenLabs Scribe | Whisper / NVIDIA Parakeet / Moonshine      | whisper.cpp / faster-whisper   |
-| **Text-to-speech (TTS)** | ElevenLabs / OpenAI TTS / Cartesia                      | Kokoro / XTTS / Piper / Orpheus            | Transformers / Piper / ComfyUI |
-| **Image generation**     | Midjourney / GPT Image / Google Nano Banana             | FLUX.1 / Stable Diffusion 3.5 / Qwen-Image | ComfyUI / Diffusers            |
-| **Video generation**     | Sora / Veo 3 / Runway Gen-4 / Kling                     | Wan 2.2 / HunyuanVideo / LTX-Video / Mochi | ComfyUI                        |
-| **Music / audio**        | Suno / Udio / Google Lyria                              | Stable Audio / MusicGen / ACE-Step         | Transformers / ComfyUI         |
-| **Embeddings**           | OpenAI text-embedding-3 / Cohere / Voyage               | BGE / Nomic Embed / Qwen3-Embedding        | Ollama / sentence-transformers |
-| **3D / assets**          | Meshy / Luma / Rodin                                    | TRELLIS / Hunyuan3D                        | ComfyUI                        |
-
-> **Note:** The closed-vs-open split repeats in every modality. For image, video, and audio the universal open runtime is **ComfyUI** — the Ollama of pixels — and **whisper.cpp** covers speech. The reverse direction (image / audio → text *understanding*) is already handled by the multimodal LLMs in the main table.
-
-### How Close Is This to Jarvis?
-
-Step back and the resemblance is hard to miss: a system you **talk to**, that **sees**, **reasons**, **plans**, writes code, **generates** images and video, **calls tools**, and **remembers** — that is essentially **J.A.R.V.I.S.** from Iron Man. The films treated it as one seamless intelligence; the tables above are the same capability set, assembled from separate models behind a runtime. Most of Jarvis already exists — it simply is not yet fused into one low-latency, always-on, autonomous whole.
+The films treated it as one seamless intelligence. The tables above show the same capability set — just separate models behind a unified runtime. **Most of Jarvis already exists.** It simply isn't fused into one low-latency, always-on, autonomous system yet.
 
 | Jarvis capability   | Built from (today's stack)                          | Status        |
 |---------------------|-----------------------------------------------------|---------------|
@@ -244,43 +148,34 @@ Step back and the resemblance is hard to miss: a system you **talk to**, that **
 
 > **What is still science fiction:** not the individual abilities — those ship today — but the *integration*: sub-second multimodal round-trips, reliable long-horizon autonomy with no human in the loop, persistent lifelong memory, and a grounded world model for acting in physical space. Jarvis is now an **orchestration and reliability** problem, not a capability one.
 
+---
+
+## Agent Skills: Extending AI Reasoning
+
+Agent skills are reusable `.md` instruction sets that embed domain knowledge into agents without retraining. Use them to teach coding patterns, API protocols, company standards, or specialized workflows.
+
+| Registry | Guides |
+|----------|--------|
+| **Skill ecosystems** | [skills.sh](https://skills.sh/) · [agentskills.io](https://agentskills.io/home) · [ClawHub](https://clawhub.ai/) · [Wondel.ai](https://skills.wondel.ai/) |
+| **Official curations** | [Anthropic](https://github.com/anthropics/skills) · [OpenAI](https://github.com/openai/skills) · [Google](https://github.com/google/skills) · [Addy Osmani](https://github.com/addyosmani/agent-skills) |
+| **Prompt guides** | [Prompting Guide](https://www.promptingguide.ai/) · [Learn Prompting](https://learnprompting.org/) · [Copilot Cookbook](https://docs.github.com/copilot/tutorials/copilot-chat-cookbook) |
 
 ---
 
-## AI Prompt Skills
+## Where We Are
 
-Agent skills are reusable instruction sets — typically `.md` files — that give AI coding agents specialized knowledge, workflows, and best practices. Install them into your agent's context to extend its capabilities without fine-tuning.
+**The capability exists today.** The full stack is shipped: frontier models, open-source alternatives, local runtimes, agents, multimodal synthesis, and autonomous tool-use. 
 
-### Skills Ecosystems
+**The remaining work is integration.** Jarvis requires not new capabilities but reliable orchestration: sub-second multimodal latency, persistent memory, autonomous long-horizon planning, and physical grounding. These are engineering problems, not research frontiers.
 
-| Tool                                                                  | Provider    | Best for                                                                   |
-|-----------------------------------------------------------------------|-------------|----------------------------------------------------------------------------|
-| [skills.sh](https://skills.sh/)                                       | Vercel Labs | Open skills ecosystem; install community or custom skills via `npx skills` |
-| [agentskills.io](https://agentskills.io/home)                         | Community   | Standardized skills protocol compatible with any AI agent                  |
-| [autoskills.sh](https://www.autoskills.sh/)                           | Community   | Auto-detect your stack and install the right skills automatically          |
-| [ClawHub](https://clawhub.ai/)                                        | OpenClaw    | Fast skill registry with vector search for discovery                       |
-| [anthropics/skills](https://github.com/anthropics/skills)             | Anthropic   | Official Anthropic-curated agent skills                                    |
-| [openai/skills](https://github.com/openai/skills)                     | OpenAI      | Official Codex skills catalog                                              |
-| [google/skills](https://github.com/google/skills)                     | Google      | Official Google product and technology skills                              |
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Community   | Production-grade engineering skills by Addy Osmani                         |
-| [Wondel.ai Skills](https://skills.wondel.ai/)                         | Community   | 41 business and engineering frameworks as agent skills                     |
-
-### Prompt Engineering Guides
-
-| Resource                                                                                        | Best for                                                        |
-|-------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|
-| [Prompt Engineering Guide](https://www.promptingguide.ai/)                                      | Comprehensive reference covering all major prompting techniques |
-| [Learn Prompting](https://learnprompting.org/)                                                  | Structured course with 60+ modules on prompt engineering        |
-| [GitHub Copilot Chat Cookbook](https://docs.github.com/copilot/tutorials/copilot-chat-cookbook) | Practical Copilot-specific prompt examples and patterns         |
-| [Awesome ChatGPT Prompts](https://prompts.chat/)                                                | Curated community prompts for common tasks and roles            |
-
----
+Choose your layers. Run locally for privacy. Use cloud for simplicity. Mix open and closed. The tools, the models, and the math are all available. The 2026 question isn't *what can we build* but *how do we build it well*.
 
 <!-- favicon references -->
 [ag]:     /img/assets/ai-coding-tools/antigravity.svg
 [cc]:     /img/software/apps/claude-code.svg
 [cdx]:    /img/software/apps/chatgpt.svg
 [cla4]:   /img/software/apps/claude.svg
+[cline]:   /img/software/apps/cline.svg
 [codes]:  /img/assets/ai-coding-tools/mistral.svg
 [cur]:    /img/assets/ai-coding-tools/cursor.svg
 [dsv3]:   /img/software/apps/deepseek.svg
@@ -292,7 +187,7 @@ Agent skills are reusable instruction sets — typically `.md` files — that gi
 [herm]:   /img/assets/ai-coding-tools/nousresearch.svg
 [hfzg]:   /img/assets/ai-coding-tools/huggingface.svg
 [kimi]:   /img/assets/ai-coding-tools/kimi.svg
-[llcp]:   /img/software/apps/github.svg
+[llcp]:   /img/software/apps/llama-cpp.svg
 [llm3]:   /img/assets/ai-coding-tools/meta.svg
 [lms]:    /img/assets/ai-coding-tools/lmstudio.svg
 [mimo]:   /img/assets/ai-coding-tools/xiaomi.svg
@@ -302,6 +197,8 @@ Agent skills are reusable instruction sets — typically `.md` files — that gi
 [oi]:     /img/assets/ai-coding-tools/open-interpreter.svg
 [oll]:    /img/software/apps/ollama.svg
 [oclaw]:  /img/software/apps/github.svg
+[openai]: /img/software/apps/chatgpt.svg
+[ollama]: /img/software/apps/ollama.svg
 [or]:     /img/software/apps/openrouter.svg
 [qwen]:   /img/assets/ai-coding-tools/qwen.svg
 [rep]:    /img/software/apps/replicate.svg
