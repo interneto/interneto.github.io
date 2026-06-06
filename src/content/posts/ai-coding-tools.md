@@ -22,7 +22,7 @@ In practice, AI coding workflows split into three layers:
 
 - **Editor-native AI** — coding in context, inside your editor
 - **Coding interfaces and agents** — CLI, cloud, SDK, and third-party automation tools
-- **Model runtimes and APIs** — local or private inference, or cloud model access
+- **Model runtimes, access platforms, and APIs** — local inference, cloud gateways, and hosted compute
 
 This guide compares the most relevant tools in each layer.
 
@@ -85,7 +85,21 @@ These tools are model-agnostic interfaces that go beyond the editor — terminal
 |  ![][oc]   | [OpenCode](https://opencode.ai/)                                      | Open coding framework    | CLI, local, Cloud API, SDK               | Local and cloud hybrid     | Free tool; provider cost applies | Flexible custom local/cloud setups          |
 |  ![][oi]   | [Open Interpreter](https://www.openinterpreter.com/)                  | Autonomous coding agent  | CLI, local, Cloud API, third-party       | Local and cloud hybrid     | Free (open-source)               | Local code execution and computer-use tasks |
 
-> **Note:** These tools are interfaces around models.The real cost depends on the selected provider and model tier, not the tool itself.
+> **Note:** These tools are interfaces around models. The real cost depends on the selected provider and model tier, not the tool itself.
+
+
+## Model Access Platforms
+
+These platforms sit underneath or beside coding tools. They provide hosted model access, serverless inference, rentable compute, or a unified gateway across multiple providers.
+
+|    Icon    | Platform                                                                                | Type                       | Access model                       | Pricing                         | Best for                                      |
+|:----------:|-----------------------------------------------------------------------------------------|----------------------------|------------------------------------|---------------------------------|-----------------------------------------------|
+| ![][hfzg]  | [Hugging Face Zero GPU Spaces](https://huggingface.co/spaces/enzostvs/zero-gpu-spaces) | Hosted demo / shared infra | Web UI, Hugging Face Spaces        | Free tier / community-hosted    | Testing community demos with minimal setup    |
+|  ![][or]   | [OpenRouter](https://openrouter.ai/)                                                    | Unified model gateway      | API, SDK, third-party integrations | Pay per model / provider markup | Switching across many hosted model providers  |
+| ![][rep]   | [Replicate](https://replicate.com/)                                                     | Hosted inference platform  | API, web, third-party integrations | Usage-based                     | Running open models via API without own infra |
+| ![][vast]  | [Vast.ai](https://vast.ai/)                                                              | GPU rental marketplace     | Cloud compute, containers, SSH     | Usage-based / rented hardware   | Cheap on-demand GPUs and self-managed stacks  |
+
+> **Note:** These are not coding agents by themselves. They are the model-access and compute layer that editors, agents, scripts, and apps can sit on top of.
 
 
 ## AI Coding Models
@@ -175,6 +189,7 @@ Agent skills are reusable instruction sets — typically `.md` files — that gi
 [ghcli]:  /img/assets/ai-coding-tools/github-copilot.svg
 [gpt5]:   /img/software/apps/chatgpt.svg
 [herm]:   /img/assets/ai-coding-tools/nousresearch.svg
+[hfzg]:   /img/assets/ai-coding-tools/huggingface.svg
 [kimi]:   /img/assets/ai-coding-tools/kimi.svg
 [llcp]:   /img/software/apps/github.svg
 [llm3]:   /img/assets/ai-coding-tools/meta.svg
@@ -186,7 +201,10 @@ Agent skills are reusable instruction sets — typically `.md` files — that gi
 [oi]:     /img/assets/ai-coding-tools/open-interpreter.svg
 [oll]:    /img/software/apps/ollama.svg
 [oclaw]:  /img/software/apps/github.svg
+[or]:     /img/software/apps/openrouter.svg
 [qwen]:   /img/assets/ai-coding-tools/qwen.svg
+[rep]:    /img/software/apps/replicate.svg
+[vast]:   /img/assets/ai-coding-tools/vast.svg
 [vsc]:    /img/software/apps/visual-studio-code.svg
 [ws]:     /img/assets/ai-coding-tools/windsurf.svg
 [zed]:    /img/software/apps/zed.svg
