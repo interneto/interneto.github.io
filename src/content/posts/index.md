@@ -29,4 +29,5 @@ footer: true
 ## Philosophy
 
 - [Turing-Complete: A Discovery Inherent to Reality](/post/turing-complete-reality)
+- [Organic Life vs Artificial Life: From Cell to Body](/post/organic-vs-artificial-life)
 
