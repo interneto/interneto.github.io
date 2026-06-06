@@ -5,7 +5,7 @@ description: Development tools, docs, hosting, and programming resources.
 
 # Dev
 
-**Total Bookmarks:** 2555
+**Total Bookmarks:** 2583
 
 - [Autonomous Visualization System](https://avs.auto/#/)
 - [Dash for macOS - API Documentation Browser, Snippet Manager](https://kapeli.com/dash)
@@ -231,6 +231,7 @@ description: Development tools, docs, hosting, and programming resources.
 - ⭐ **[PostgreSQL](https://www.postgresql.org/)**
 - [Apache Cassandra](https://cassandra.apache.org/_/index.html)
 - [Apache CouchDB](https://couchdb.apache.org/)
+- [Arango - Contextual Data Layer for Enteprise AI](https://arango.ai/)
 - [Axisbase.com](http://www.axisbase.com/)
 - [Bigtable: A Distributed Storage System for Structured Data – Google Research](https://research.google/pubs/pub27898/)
 - [Chat2DB](http://chat2db.ai/)
@@ -263,6 +264,7 @@ description: Development tools, docs, hosting, and programming resources.
 - [TiDB: The Advanced Distributed SQL Database](https://www.pingcap.com/tidb/)
 - [TigerBeetle - Track Financial Transactions at Scale](https://tigerbeetle.com/)
 - [Turso - the next evolution of SQLite](https://turso.tech/)
+- [TypeDB - Built for systems, not records](https://typedb.com/) / [🔗](https://github.com/typedb/typedb)
 - [Vector database - Milvus](https://milvus.io/)
 - [Weavite - vector database](https://weaviate.io/)
 
@@ -364,6 +366,7 @@ description: Development tools, docs, hosting, and programming resources.
 - [deco.cx - The TypeScript-powered Webdev Engine](https://deco.cx/)
 - [Drupal - CMS](https://www.drupal.org/)
 - [Elgg.org](https://elgg.org/)
+- [EmDash CMS](https://emdashcms.com/) / [🔗](https://github.com/emdash-cms/emdash)
 - [EverShop - Open source NodeJS ecommerce platform](https://evershop.io/)
 - [Forestry.io](https://forestry.io/)
 - [Formbricks | Privacy-first Experience Management](https://formbricks.com/)
@@ -401,7 +404,7 @@ description: Development tools, docs, hosting, and programming resources.
 - [Takeshape.io](https://www.takeshape.io/)
 - [Textpattern CMS](https://textpattern.com/)
 - [Tips.io | Build simple Tailwind websites without the hangover.](https://tips.io/)
-- [TYPO3](https://typo3.org/)
+- [TYPO3 Project and Governance — Democratic Open Source](https://typo3.org/)
 - [Ubiquiti - UniFi](https://www.ui.com/)
 - [Umbraco](https://umbraco.com/)
 - [UserVoice](https://uservoice.com/)
@@ -564,7 +567,6 @@ description: Development tools, docs, hosting, and programming resources.
 - [fmalina/page: Static website generator](https://github.com/fmalina/page)
 - [Hakyll SSG](https://jaspervdj.be/hakyll/)
 - [Hexo.io](https://hexo.io/)
-- [marimo | a next-generation Python notebook](https://marimo.io/)
 - [Pelican – A Python Static Site Generator](https://getpelican.com/)
 
 #### SSG hosting
@@ -643,6 +645,7 @@ description: Development tools, docs, hosting, and programming resources.
 - [Apache MXNet](https://mxnet.incubator.apache.org/versions/1.9.1/)
 - [Caffe | Deep Learning Framework](https://caffe.berkeleyvision.org/)
 - [Chainer: A flexible framework for neural networks](https://chainer.org/)
+- [Meta Seal - State-of-the-Art Open Source AI Watermarking](https://facebookresearch.github.io/meta-seal/)
 - [PyTorch](https://pytorch.org/) / [🔗](https://github.com/pytorch/pytorch)
 - [TensorFlow](https://www.tensorflow.org/)
 - [Torch](http://torch.ch/)
@@ -827,6 +830,7 @@ description: Development tools, docs, hosting, and programming resources.
 - [Analog JS](https://analogjs.org/)
 - [Angular](https://angular.dev/) / [🔗](https://github.com/angular/angular)
 - [ASP.NET - .NET](https://dotnet.microsoft.com/en-us/apps/aspnet)
+- [Aspire—Your Stack, Streamlined](https://aspire.dev/) / [🔗](https://github.com/microsoft/aspire)
 - [Assembler CSS | Modern UI framework](https://asmcss.com/)
 - [Cipi Control Panel](https://cipi.sh/)
 - [CrowCpp](https://crowcpp.org/master/)
@@ -872,9 +876,10 @@ description: Development tools, docs, hosting, and programming resources.
 
 ### Module bundler
 - [Backbone.js](https://backbonejs.org/)
+- [esbuild - An extremely fast bundler for the web](https://esbuild.github.io/) / [🔗](https://github.com/evanw/esbuild)
 - [Farm Documentation | Farm](https://www.farmfe.org/)
 - [Rolldown | Rust bundler for JavaScript](https://rolldown.rs/)
-- [Rollup](https://rollupjs.org/)
+- [Rollup](https://rollupjs.org/) / [🔗](https://github.com/rollup/rollup)
 - [rollup.js](https://www.rollupjs.org/guide/en/)
 - [Turbo](https://turbo.build/)
 - [webpack.js.org](https://webpack.js.org/)
@@ -912,6 +917,7 @@ description: Development tools, docs, hosting, and programming resources.
 - [Hummingbot](https://hummingbot.org/) / [🔗](https://github.com/hummingbot/hummingbot)
 - [Junction bot](https://docs.junction.space/)
 - [Kahoot Bot](https://kahootbot.org/)
+- [sci-bot](https://sci-bot.ru/)
 
 #### Discord bot
 - [AltDentifier](https://altdentifier.com/)
@@ -1112,6 +1118,7 @@ description: Development tools, docs, hosting, and programming resources.
 - [bypass-paywalls-chrome · GitHub](https://github.com/iamadamdev/bypass-paywalls-chrome)
 - [everywall/ladder · GitHub](https://github.com/everywall/ladder)
 - [kubero-dev/ladder · GitHub](https://github.com/kubero-dev/ladder)
+- [Remove Paywalls — Read full articles behind a paywall, for free](https://removepaywalls.com/)
 - [RemovePaywall | Free online paywall remover](https://www.removepaywall.com/)
 
 #### Cookies manager
@@ -1201,6 +1208,7 @@ description: Development tools, docs, hosting, and programming resources.
 - [Web Of Trust](https://www.mywot.com/)
 
 #### Productivity extension
+- [Cat Gatekeeper - Chrome Web Store](https://chromewebstore.google.com/detail/cat-gatekeeper/elbikiflgfhjdjmficnigpeegjbhdidh)
 - [ChatGPT Bulk Delete – Firefox](https://addons.mozilla.org/en-US/firefox/addon/chatgpt-bulk-delete/?utm_source=chatgpt.com)
 - [HumbleNewTabPage · GitHub](https://github.com/ibillingsley/HumbleNewTabPage)
 - [Improved Potato - Chrome web store](https://chrome.google.com/webstore/detail/improved-potato/kjnippnbinaiaophckfmlbicclieefpf)
@@ -1248,9 +1256,11 @@ description: Development tools, docs, hosting, and programming resources.
 - [codebicycle/videospeed · GitHub](https://github.com/codebicycle/videospeed)
 - [Drag and Drop Playlist Creator](https://playlists.at/)
 - [lawrencehook/remove-youtube-suggestions · GitHub](https://github.com/lawrencehook/remove-youtube-suggestions)
+- [LockedIn - Stay Focused on YouTube | Block Shorts & Distractions](https://kartikhalkunde.github.io/LockedIn-YT/)
 - [nizioleque/youtube-custom-speed · GitHub](https://github.com/nizioleque/youtube-custom-speed?tab=readme-ov-file)
 - [PocketTube](https://yousub.info/)
 - [Project VORAPIS - Get Old YouTube Layout Back](https://vorapis.pages.dev/#/)
+- [Sv443/BetterYTM: Enhancements for YouTube Music and YouTube](https://github.com/Sv443/BetterYTM)
 - [Toxblh/youtube-speed-control · GitHub](https://github.com/Toxblh/youtube-speed-control)
 - [Unhook - Remove YouTube Recommended Videos and More](https://unhook.app/)
 - [vantezzen/skip-silence · GitHub](https://github.com/vantezzen/skip-silence)
@@ -1372,6 +1382,7 @@ description: Development tools, docs, hosting, and programming resources.
 - [o2: Converts obsidian markdown syntax to other platforms](https://github.com/songkg7/o2)
 - [obi-sync · GitHub](https://github.com/acheong08/obi-sync)
 - [obi-sync-lib · GitHub](https://github.com/acheong08/obi-sync-lib)
+- [Obsidian Community](https://community.obsidian.md/)
 - [Obsidian gruvbox · GitHub](https://github.com/insanum/obsidian_gruvbox)
 - [Obsidian timelines · GitHub](https://github.com/Darakah/obsidian-timelines)
 - [Obsidian_supercharged_links · GitHub](https://github.com/mdelobelle/obsidian_supercharged_links)
@@ -1721,6 +1732,7 @@ description: Development tools, docs, hosting, and programming resources.
 - [GitLens — GitKraken](https://gitlens.amod.io/)
 - [godotengine/godot-vscode-plugin: Godot development tools for VSCode](https://github.com/godotengine/godot-vscode-plugin)
 - [golang/vscode-go · GitHub](https://github.com/golang/vscode-go)
+- [googlecolab/colab-vscode · GitHub](https://github.com/googlecolab/colab-vscode)
 - [Gruntfuggly/todo-tree · GitHub](https://github.com/Gruntfuggly/todo-tree)
 - [hediet/vscode-drawio · GitHub](https://github.com/hediet/vscode-drawio)
 - [Helixform/CodeCursor · GitHub](https://github.com/Helixform/CodeCursor)
@@ -1805,7 +1817,6 @@ description: Development tools, docs, hosting, and programming resources.
 - [MediaFusion | ElfHosted - Stremio Addon](https://mediafusion.elfhosted.com/) / [🔗](https://github.com/mhdzumair/MediaFusion)
 - [METEOR](https://meteorfortheweebs.midnightignite.me/configure)
 - [MyTrakt Sync - Enhanced Stremio Trakt Integration](https://mytrakt.elfhosted.com/)
-- [Nuvio Streams | Elfhosted](https://nuviostreams.hayd.uk/) / [🔗](https://github.com/tapframe/NuvioStreamsAddon)
 - [ranaldsgift/KefinTweaks: An essential collection of Jellyfin Tweaks that you always knew you needed](https://github.com/ranaldsgift/KefinTweaks)
 - [Stremio Addon Manager](https://addon-manager.dontwanttos.top/)
 - [Stremio Addons Guide | ElfHosted](https://stremio-addons-guide.elfhosted.com/)
@@ -1967,6 +1978,7 @@ description: Development tools, docs, hosting, and programming resources.
 - [Gittyup](https://murmele.github.io/Gittyup/)
 - [GitUp](https://gitup.co/)
 - [GitWand](https://gitwand.devlint.fr/) / [🔗](https://github.com/devlint/GitWand)
+- [lazygit - Simple Terminal UI for Git Commands](https://lazygit.dev/) / [🔗](https://github.com/jesseduffield/lazygit)
 - [maks/MGit · GitHub](https://github.com/maks/MGit)
 - [MGit – Google Play](https://play.google.com/store/apps/details?id=com.manichord.mgit)
 - [PolyGit](https://www.polygitapp.com/)
@@ -1990,6 +2002,7 @@ description: Development tools, docs, hosting, and programming resources.
 - [Debian Live Team / live-build · GitLab](https://salsa.debian.org/live-team/live-build)
 - [DebianLive - Debian Wiki](https://wiki.debian.org/DebianLive)
 - [Distroshare/distroshare-ubuntu-imager · GitHub](https://github.com/Distroshare/distroshare-ubuntu-imager)
+- [kirodubes/kiro-iso · GitHub](https://github.com/kirodubes/kiro-iso)
 - [Linux Live Kit](https://www.linux-live.org/)
 - [MX-Linux/mx-snapshot · GitHub](https://github.com/MX-Linux/mx-snapshot)
 - [sbeaugrand/debinst: Create, install, and configure a debian semi-automatically](https://github.com/sbeaugrand/debinst)
@@ -2005,6 +2018,7 @@ description: Development tools, docs, hosting, and programming resources.
 - [argtable - ANSI C command line parser](https://argtable.sourceforge.io/)
 - [Armadillo: C++ library](http://arma.sourceforge.net/)
 - [Automerge CRDT](https://automerge.org/)
+- [BirdbrainEngineer/lenia_ca: Core functionality for simulating Lenia system of cellular automata in Rust](https://github.com/BirdbrainEngineer/lenia_ca)
 - [BlurHash](https://blurha.sh/)
 - [Boost C++ Libraries](https://www.boost.org/)
 - [Cinder](https://libcinder.org/)
@@ -2103,6 +2117,7 @@ description: Development tools, docs, hosting, and programming resources.
 ### JS library
 - ⭐ **[Anime.js - JavaScritp Animation Engine](https://animejs.com/)**
 - ⭐ **[antvis/G6: A Graph Visualization Framework in JavaScript](https://github.com/antvis/G6)**
+- ⭐ **[D3.js](https://d3js.org/)**
 - [AG Grid - High-Performance React Grid, Angular Grid, JavaScript Grid](https://www.ag-grid.com/)
 - [apvarun/toastify-js · GitHub](https://github.com/apvarun/toastify-js)
 - [AR.js - AR on the web](https://ar-js-org.github.io/AR.js/)
@@ -2115,7 +2130,6 @@ description: Development tools, docs, hosting, and programming resources.
 - [cola.js: Constraint-based Layout in the Browser](https://ialab.it.monash.edu/webcola/) / [🔗](https://github.com/tgdwyer/WebCola)
 - [core-js](https://core-js.io/) / [🔗](https://github.com/zloirock/core-js)
 - [D3 Graph Gallery](https://www.d3-graph-gallery.com/)
-- [D3.js](https://d3js.org/)
 - [Date Utility Library](https://date-fns.org/)
 - [Day.js · 2kB JavaScript date utility library](https://day.js.org/)
 - [Discord.js](https://discord.js.org/)
@@ -2123,6 +2137,7 @@ description: Development tools, docs, hosting, and programming resources.
 - [Dracula Graph Library](https://www.graphdracula.net/)
 - [Drag & Drop • by FormKit](https://drag-and-drop.formkit.com/)
 - [Dropzone.js](https://www.dropzone.dev/)
+- [Falcor: One Model Everywhere](https://netflix.github.io/falcor/) / [🔗](https://github.com/Netflix/falcor)
 - [Floating UI - Create tooltips, popovers, dropdowns, and more](https://floating-ui.com/)
 - [Fotorama — Simple and Powerful Responsive jQuery Image Gallery](https://fotorama.io/)
 - [FullCalendar - JavaScript Event Calendar](https://fullcalendar.io/)
@@ -2166,7 +2181,7 @@ description: Development tools, docs, hosting, and programming resources.
 - [Pug JS](https://pugjs.org/api/getting-started.html)
 - [RaphaëlJS](http://raphaeljs.com/)
 - [RDF JavaScript Libraries](https://rdf.js.org/)
-- [React JS](https://reactjs.org/)
+- [React JS](https://react.dev/)
 - [Redux JS](https://redux.js.org/)
 - [remark - markdown processor powered by plugins](https://remark.js.org/)
 - [RxJS](https://rxjs.dev/) / [🔗](https://github.com/ReactiveX/rxjs)
@@ -2176,6 +2191,7 @@ description: Development tools, docs, hosting, and programming resources.
 - [SolidJS](https://www.solidjs.com/)
 - [Swiper - The Most Modern Mobile Touch Slider](https://swiperjs.com/)
 - [Tailwind CSS Animated](https://www.tailwindcss-animated.com/)
+- [Terser](https://terser.org/) / [🔗](https://github.com/terser/terser)
 - [Three.js](https://threejs.org/) / [🔗](https://github.com/mrdoob/three.js)
 - [Vanta JS](https://www.vantajs.com/)
 - [vue-chartjs](https://vue-chartjs.org/)
@@ -2208,6 +2224,7 @@ description: Development tools, docs, hosting, and programming resources.
 - [libimobiledevice](https://libimobiledevice.org/)
 - [Manim Community](https://www.manim.community/)
 - [mapbox/delaunator · GitHub](https://github.com/mapbox/delaunator)
+- [marimo | a next-generation Python notebook](https://marimo.io/) / [🔗](https://github.com/marimo-team)
 - [masastack/MASA.Blazor · GitHub](https://github.com/masastack/MASA.Blazor)
 - [Matplotlib - Visualization with Python](https://matplotlib.org/) / [🔗](https://github.com/matplotlib/matplotlib)
 - [mlpack.org](https://www.mlpack.org/)
@@ -2238,6 +2255,7 @@ description: Development tools, docs, hosting, and programming resources.
 - [zlib.net](https://zlib.net/)
 
 ### UI component
+- ⭐ **[shadcn/ui - Build your Component Library](https://ui.shadcn.com/)**
 - [21st - Craft with AI](https://21st.dev/home)
 - [Angular Material](https://material.angular.dev/) / [🔗](https://github.com/angular/components)
 - [Ant Design](https://ant.design/) / [🔗](https://github.com/ant-design/ant-design)
@@ -2255,7 +2273,6 @@ description: Development tools, docs, hosting, and programming resources.
 - [React Bits](https://reactbits.dev/)
 - [Semantic UI](https://semantic-ui.com/)
 - [shadcn-ui/ui: Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.](https://github.com/shadcn-ui/ui)
-- [shadcn/ui - Build your Component Library](https://ui.shadcn.com/)
 - [SVG Artista](https://svgartista.net/)
 - [SweetAlert2](https://sweetalert2.github.io/)
 - [Tailwind UI](https://tailwindui.com/)
@@ -2273,6 +2290,7 @@ description: Development tools, docs, hosting, and programming resources.
 - [FrankenPHP: the modern PHP app server](https://frankenphp.dev/)
 - [gdbgui](https://www.gdbgui.com/)
 - [LAMP](https://lamp.sh/)
+- [Laravel Herd](https://herd.laravel.com/)
 - [Local WordPress](https://localwp.com/)
 - [MAMP](https://www.mamp.info/en/windows/)
 - [Neard](https://neard.io/)
@@ -2289,7 +2307,7 @@ description: Development tools, docs, hosting, and programming resources.
 - [Gerbera](https://gerbera.io/)
 - [Kaleidescape - The Ultimate Movie Platform](https://www.kaleidescape.com/)
 - [Kometa Wiki](https://kometa.wiki/en/latest/#what-can-kometa-do) / [🔗](https://github.com/Kometa-Team/Kometa)
-- [Nuvio - Media Hub](https://tapframe.github.io/NuvioStreaming/) / [🔗](https://github.com/tapframe/NuvioStreaming)
+- [Nuvio - Media Hub](https://nuvioapp.space/) / [🔗](https://github.com/NuvioMedia)
 - [PS3 Media Server](https://www.ps3mediaserver.org/)
 - [PS3 Media Server download | SourceForge.net](https://sourceforge.net/projects/ps3mediaserver/)
 - [TVersity Media Server](http://tversity.com/)
@@ -2311,6 +2329,7 @@ description: Development tools, docs, hosting, and programming resources.
 - [Certbot - EFF](https://certbot.eff.org/)
 - [Daphile - player OS](https://www.daphile.com/)
 - [Dashy.to](https://dashy.to/)
+- [Fusion - Discover, organize, and browse](https://fusionapp.dev/) / [🔗](https://github.com/qooode/fusion)
 - [Hydrus network](https://hydrusnetwork.github.io/hydrus/index.html)
 - [Jellyfin demo](https://demo.jellyfin.org/stable/web/index.html#!/home.html)
 - [Leonflix](https://leonflix.net/)
@@ -2330,6 +2349,7 @@ description: Development tools, docs, hosting, and programming resources.
 - [Serviio](https://serviio.org/)
 - [staniel359/muffon: Music streaming browser](https://github.com/staniel359/muffon#readme)
 - [Streama](https://docs.streama-project.com/)
+- [Symfonium: Android Music Player for Local, Plex, Jellyfin, Audiobookshelf & Cloud](https://symfonium.app/)
 - [TiVo](https://www.tivo.com/)
 - [vixalien/muzika · GitHub](https://github.com/vixalien/muzika)
 
@@ -2361,6 +2381,7 @@ description: Development tools, docs, hosting, and programming resources.
 - [browse.ai | Scrape and Monitor Data from Any Website](https://www.browse.ai/)
 - [Browserless](https://www.browserless.io/)
 - [ChromeDriver](https://chromedriver.chromium.org/)
+- [Decodo (Formerly Smartproxy) | Official Website & Login](https://decodo.com/)
 - [Diffbot | Knowledge Graph, AI Web Data Extraction and Crawling](https://www.diffbot.com/)
 - [facundoolano/google-play-scraper: Node.js scraper to get data from Google Play](https://github.com/facundoolano/google-play-scraper)
 - [GChristensen/scrapyard · GitHub](https://github.com/GChristensen/scrapyard)
@@ -2422,6 +2443,8 @@ description: Development tools, docs, hosting, and programming resources.
 - [MobaXterm](https://mobaxterm.mobatek.net/)
 - [MS WSL](https://docs.microsoft.com/en-us/windows/wsl/)
 - [PuTTY: a free SSH and Telnet client](https://www.chiark.greenend.org.uk/~sgtatham/putty/)
+- [Ratty — A GPU-rendered terminal emulator with inline 3D graphics 🐀🧀](https://ratty-term.org/) / [🔗](https://github.com/orhun/ratty)
+- [RMUX - The Multiplexer Engine for Agents](https://rmux.io/)
 - [RohitKushvaha01/ReTerminal: A Simple Android Terminal Emulator](https://github.com/RohitKushvaha01/ReTerminal)
 - [RXVT terminal project](http://rxvt.sourceforge.net/)
 - [sebkur/forceterm: Fully featured terminal based on jediterm](https://github.com/sebkur/forceterm)
@@ -2440,6 +2463,7 @@ description: Development tools, docs, hosting, and programming resources.
 ### Command-line shell
 - [adamwiggins/rush · GitHub](https://github.com/adamwiggins/rush)
 - [Bash - GNU Project](https://www.gnu.org/software/bash/bash.html)
+- [brush](https://brush.sh/) / [🔗](https://github.com/reubeno/brush)
 - [casey/just: 🤖 Just a command runner](https://github.com/casey/just)
 - [DASH](http://gondor.apana.org.au/~herbert/dash/)
 - [fish shell](https://fishshell.com/)
@@ -2520,15 +2544,18 @@ description: Development tools, docs, hosting, and programming resources.
 - [Google AI Studio](https://aistudio.google.com/welcome)
 - [Google Antigravity](https://antigravity.google/)
 - [IntelliJ IDEA - JetBrains](https://www.jetbrains.com/idea) / [🔗](https://github.com/JetBrains/intellij-community)
+- [nickvasilescu/hermes-desktop-os1: Hermes Desktop - OS1 Edition: native macOS workspace for Hermes Agent on Orgo cloud computers and SSH hosts](https://github.com/nickvasilescu/hermes-desktop-os1)
 - [Open WebUI: Self-Hosted AI Platform](https://openwebui.com/) / [🔗](https://github.com/open-webui/open-webui)
 - [Pingendo](https://pingendo.com/)
 - [Revise - AI editor for your documents](https://revise.io/)
 - [RunJS](https://runjs.app/) / [🔗](https://github.com/lukehaas/RunJS)
+- [Superset - Run 10+ parallel coding agents on your machine](https://superset.sh/) / [🔗](https://github.com/superset-sh/superset)
 - [UltraEdit Text Editor + Coding Software](https://www.ultraedit.com/)
 - [Windsurf (formerly Codeium)](https://windsurf.com/)
 - [Xcode - Apple](https://developer.apple.com/xcode/)
 
 ##### Code editor
+- ⭐ **[PSeInt - SourceForge](https://pseint.sourceforge.net/)**
 - [Athas Industries - A lightweight code editor](https://athas.dev/) / [🔗](https://github.com/athasdev/athas)
 - [Atom.io](https://atom.io/)
 - [BBEdit 15 - Bare Bones Software](https://www.barebones.com/products/bbedit/)
@@ -2537,13 +2564,13 @@ description: Development tools, docs, hosting, and programming resources.
 - [Brackets.io](https://brackets.io/)
 - [CodeEdit | A native code editor for macOS](https://www.codeedit.app/)
 - [CodeMirror](https://codemirror.net/) / [🔗](https://code.haverbeke.berlin/codemirror/dev/)
+- [Fresh - The Terminal IDE](https://getfresh.dev/) / [🔗](https://github.com/sinelaw/fresh)
 - [ICEcoder](https://icecoder.net/) / [🔗](http://github.com/icecoder/ICEcoder)
 - [Lapce - Lightning-fast and Powerful Code Editor](https://lap.dev/lapce/) / [🔗](https://github.com/lapce/lapce)
 - [Light Table](http://lighttable.com/)
 - [Lite XL](https://lite-xl.com/) / [🔗](https://github.com/lite-xl/lite-xl)
 - [Monaco Editor](https://microsoft.github.io/monaco-editor/) / [🔗](https://github.com/microsoft/monaco-editor)
 - [NoteTab – Text Editor](https://www.notetab.com/)
-- [PSeInt - SourceForge](https://pseint.sourceforge.net/)
 - [PSPad - free unicode developer editor](https://www.pspad.com/en/)
 
 ##### IDE (Integrated Development Environment)
@@ -2556,6 +2583,7 @@ description: Development tools, docs, hosting, and programming resources.
 - [Cevelop](https://www.cevelop.com/)
 - [Code::Blocks](https://www.codeblocks.org/)
 - [Dev-C++](https://bloodshed.net/)
+- [Development containers](https://containers.dev/) / [🔗](https://github.com/devcontainers/spec)
 - [Eclipse IDE](https://www.eclipse.org/ide/)
 - [Gambas IDE](http://gambas.sourceforge.net/en/main.html)
 - [GoormIDE](https://ide.goorm.io/)

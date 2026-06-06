@@ -5,7 +5,7 @@ description: Audio, video, and creative media tools and sources.
 
 # Multimedia
 
-**Total Bookmarks:** 2230
+**Total Bookmarks:** 2244
 
 
 ## Audio & Music
@@ -30,6 +30,7 @@ description: Audio, video, and creative media tools and sources.
 #### TTS model
 - ⭐ **[myshell-ai/OpenVoice: Instant voice cloning by MyShell](https://github.com/myshell-ai/OpenVoice)**
 - ⭐ **[neonbjb/tortoise-tts · GitHub](https://github.com/neonbjb/tortoise-tts)**
+- ⭐ **[Voicebox - Open Source Voice Cloning Desktop App](https://voicebox.sh/)** / [🔗](https://github.com/jamiepine/voicebox)
 - [Amazon Polly - Text to Speech Software](https://aws.amazon.com/polly/)
 - [Cloud Text-to-Speech (HD voices) | Google Cloud Documentation](https://docs.cloud.google.com/text-to-speech/docs/chirp3-hd)
 - [CrashXBETAX/Text_To_Speech_Live_WinUI3_Public · GitHub](https://github.com/CrashXBETAX/Text_To_Speech_Live_WinUI3_Public)
@@ -48,7 +49,6 @@ description: Audio, video, and creative media tools and sources.
 - [Speaking of Voxtral](https://mistral.ai/news/voxtral-tts) / [🔗](https://huggingface.co/mistralai/models?search=voxtral)
 - [VibeVoice](https://microsoft.github.io/VibeVoice/) / [🔗](https://github.com/microsoft/VibeVoice)
 - [VisionAid International - Voice Downloads](https://www.visionaid.co.uk/visionaid-international---voice-downloads)
-- [Voicebox - Open Source Voice Cloning Desktop App](https://voicebox.sh/) / [🔗](https://github.com/jamiepine/voicebox)
 - [VOSK Models | Alpha Cephei](https://alphacephei.com/vosk/models)
 - [yl4579/StyleTTS2: StyleTTS 2: Towards Human-Level Text-to-Speech through Style Diffusion and Adversarial Training with Large Speech Language Models](https://github.com/yl4579/StyleTTS2)
 
@@ -180,7 +180,9 @@ description: Audio, video, and creative media tools and sources.
 - [Pipit — #1 Voice-to-Text App for macOS](https://www.pipitvoice.com/)
 - [rwth-i6/rasr: The RWTH ASR Toolkit.](https://github.com/rwth-i6/rasr)
 - [Speech to Note - Voice to Text, Note Speech & Speak Writer Solution](https://speechtonote.com/)
+- [Super Voice Mode — AI Voice Assistant and Dictation App for Mac](https://voicemode.io/)
 - [superwhisper](https://superwhisper.com/)
+- [Thoth: Private Meeting Recorder for Mac](https://thoth-app.com/)
 - [TranscribeX - Fast Local AI Transcription for macOS](https://www.transcribex.io/)
 - [‎Transcriptor](https://apps.apple.com/us/app/transcriptor/id6738774291)
 - [txtplay.ai | Transform your media into text and subtitles](https://www.txtplay.ai/)
@@ -611,6 +613,7 @@ description: Audio, video, and creative media tools and sources.
 #### Music notation
 - ⭐ **[Guitar Pro](https://www.guitar-pro.com/)**
 - ⭐ **[MuseScore - Free music composition and notation software](https://musescore.org/en)**
+- ⭐ **[Soundslice | Create living sheet music](https://www.soundslice.com/)**
 - [AlphaTab](https://www.alphatab.net/)
 - [Aria Maestosa](https://ariamaestosa.github.io/ariamaestosa/docs/index.html)
 - [Avid Sibelius](https://www.avid.com/sibelius)
@@ -632,7 +635,6 @@ description: Audio, video, and creative media tools and sources.
 - [ScoreCloud - Free Music Notation Software - Music Composition & Writing](https://scorecloud.com/)
 - [smartChord](https://smartchord.de/)
 - [Songtive](https://www.songtive.com/)
-- [Soundslice | Create living sheet music](https://www.soundslice.com/)
 - [Soundslice | Create living sheet music](https://www.soundslice.com/homepage/)
 - [StaffPad® - Make beautiful music](https://www.staffpad.net/)
 - [Tonalsoft](http://tonalsoft.com/default.aspx)
@@ -799,6 +801,7 @@ description: Audio, video, and creative media tools and sources.
 - [Flixel | Create imagery that gets noticed with Cinemagraph Pro](https://flixel.com/)
 - [Friction](https://friction.graphics/)
 - [Harmony 21 - Toon Boom](https://www.toonboom.com/products/harmony)
+- [HyperFrames — Edit Videos By Vibe-Coding](https://hyperframes.heygen.com/) / [🔗](https://github.com/heygen-com/hyperframes)
 - [Inochi2D](https://inochi2d.com/)
 - [Juice FX by CodeManu](https://codemanu.itch.io/juicefx)
 - [Live2D Cubism - 2D Model Maker](https://www.live2d.com/en/)
@@ -812,7 +815,7 @@ description: Audio, video, and creative media tools and sources.
 - [Pixilart](https://www.pixilart.com/)
 - [Principle](https://principleformac.com/)
 - [qStopMotion](https://qstopmotion.org/)
-- [Remotion](https://www.remotion.dev/)
+- [Remotion | Make videos programmatically](https://www.remotion.dev/) / [🔗](https://github.com/remotion-dev/remotion)
 - [Rive.app](https://rive.app/)
 - [RoughAnimator - animation app](https://www.roughanimator.com/)
 - [Scribl · GitHub](https://github.com/jneem/scribl)
@@ -1077,8 +1080,9 @@ description: Audio, video, and creative media tools and sources.
 - [UFRaw](http://ufraw.sourceforge.net/)
 
 #### Vector graphics editor
+- ⭐ **[Affinity | Professional Creative Software, Free for Everyone](https://www.affinity.studio/en)**
+- ⭐ **[Figma](https://www.figma.com/)**
 - [Adobe Illustrator](https://www.adobe.com/products/illustrator.html)
-- [Affinity | Professional Creative Software, Free for Everyone](https://www.affinity.studio/)
 - [Boxy SVG Editor](https://boxy-svg.com/)
 - [Calligra Karbon](https://calligra.org/karbon/)
 - [Candlestick 1.0.1](https://candlestickers.app/) / [🔗](https://github.com/Candlestickers/Candlestick)
@@ -1096,6 +1100,7 @@ description: Audio, video, and creative media tools and sources.
 ### 3D CG
 - ⭐ **[3D Force-Directed Graph](https://vasturiano.github.io/3d-force-graph/)** / [🔗](https://github.com/vasturiano/3d-force-graph)
 - ⭐ **[SPAR3D](https://spar3d.github.io/)**
+- [3D Cell Forge](https://3dcellforge.org/) / [🔗](https://github.com/huangserva/3DCellForge)
 - [Extreme Lighting Reconstruction](https://relight-to-reconstruct.github.io/)
 - [Hyper3D - Rodin & ChatAvatar](https://hyper3d.ai/rodin)
 - [IceSL](https://icesl.loria.fr/)
@@ -1243,6 +1248,7 @@ description: Audio, video, and creative media tools and sources.
 #### CAD
 - ⭐ **[FreeCAD: Your own 3D parametric modeler](https://www.freecad.org/)** / [🔗](https://github.com/FreeCAD/FreeCAD)
 - ⭐ **[Shapr3D - 3D CAD for designing manufacturing-ready models](https://www.shapr3d.com/)**
+- ⭐ **[ZWSOFT: Reliable All-in-One CAx Solutions Provider Empowering Sustainable Innovation](https://www.zwsoft.com/)**
 - [4M - CAD](https://www.4msa.com/index.php?lang=en)
 - [AdamCAD: AI Powered CAD](https://www.adamcad.com/)
 - [AmazingViz](https://www.amazingviz.net/)
@@ -1265,8 +1271,10 @@ description: Audio, video, and creative media tools and sources.
 - [Dune 3D](https://dune3d.org/)
 - [FluidCAD - Parametric CAD for everyone](https://fluidcad.io/)
 - [Fusion 360](https://www.autodesk.com/campaigns/fusion-360)
+- [Graphisoft Archicad | BIM Software for Architects](https://www.graphisoft.com/en-us/plans-and-products/archicad/)
 - [GstarCAD 2022](https://www.gstarcad.net/)
 - [Heeks/heekscad: Computer-Aided Design application based on OCE](https://github.com/Heeks/heekscad)
+- [Hypar](https://hypar.io/)
 - [ImplicitCad.org](https://implicitcad.org/)
 - [IntelliCAD](https://intellicadms.com/)
 - [IronCAD](https://www.ironcad.com/)
@@ -1290,7 +1298,6 @@ description: Audio, video, and creative media tools and sources.
 - [TouchCAD](http://www.touchcad.com/)
 - [VariCAD](https://www.varicad.com/en/home/)
 - [ZWCAD: La Mejor Alternativa a AutoCAD - Eficiente y Asequible](https://www.zwspain.com/)
-- [ZWSOFT: Reliable All-in-One CAx Solutions Provider Empowering Sustainable Innovation](https://www.zwsoft.com/)
 
 #### Digital clothing
 - [Browzwear](https://browzwear.com/)
@@ -1323,6 +1330,7 @@ description: Audio, video, and creative media tools and sources.
 - [Adobe Color](https://color.adobe.com/create/color-wheel)
 - [BrandColors](https://brandcolors.net/)
 - [Color Contrast Checker](https://marijohannessen.github.io/color-contrast-checker/)
+- [Color Designer - the most comprehensive color tools platform](https://colordesigner.io/)
 - [Color Hunt](https://colorhunt.co/)
 - [Color Leap](https://colorleap.app/home)
 - [Color Lisa](http://www.colorlisa.com/)
@@ -1381,7 +1389,9 @@ description: Audio, video, and creative media tools and sources.
 ### Design software
 - ⭐ **[Napkin AI - The visual AI for business storytelling](https://www.napkin.ai/)**
 - ⭐ **[Penpot | Design Freedom for Teams](https://penpot.app/)**
-- [Dynamo BIM](https://dynamobim.org/)
+- [Brik AI – Turn Creative Vision into Living Design Tools](https://brik.space/)
+- [Capacity - Turn that idea you had in mind into a website](https://capacity.so/)
+- [Dynamo BIM](https://dynamobim.org/) / [🔗](https://github.com/DynamoDS)
 - [EasternGraphics](https://www.easterngraphics.com/en/)
 - [Jitter · Fast and simple motion design tool](https://jitter.video/)
 - [Keyshot - Product Design-to-Market, Visualization, & DAM](https://www.keyshot.com/)
@@ -1392,8 +1402,10 @@ description: Audio, video, and creative media tools and sources.
 - [Literature & Latte](https://www.literatureandlatte.com/)
 - [nTopology](https://ntopology.com/)
 - [Open Cascade](https://www.opencascade.com/)
+- [Open CoDesign | Open-Source AI Design Tool — BYOK, Local-First, MIT](https://opencoworkai.github.io/open-codesign/) / [🔗](https://github.com/OpenCoworkAI/open-codesign)
 - [Pencil – Design on canvas. Land in code.](https://www.pencil.dev/)
 - [Playground - Free AI Design Tool: Logos, T-Shirts, Social Media](https://playground.com/)
+- [Recraft | AI for designers, creatives, sellers, and teams](https://www.recraft.ai/)
 - [Smart pattern - Official website of the Valentina project](https://smart-pattern.com.ua/en/) / [🔗](https://gitlab.com/smart-pattern/valentina)
 - [Syncronorm](https://www.syncronorm.com/products/depence2/overview)
 - [TurboCAD](https://www.turbocad.com/)
@@ -1523,12 +1535,12 @@ description: Audio, video, and creative media tools and sources.
 - [CF Studio](https://studio.creativefabrica.com/)
 - [Lottielab | Create and Edit Lottie Animations](https://www.lottielab.com/)
 - [MagicPattern](https://www.magicpattern.design/)
+- [Stitch - Design with AI](https://stitch.withgoogle.com/)
 - [Web studio - Open visual development for the open web](https://webstudio.is/)
 - [美图Designkit - 设计室](https://www.designkit.com/)
 
 #### Presentation program
-- ⭐ **[Canva - Free Design Tool](https://www.canva.com/)**
-- ⭐ **[Figma](https://www.figma.com/)**
+- ⭐ **[Canva - Free Design Tool](https://www.canva.com/en/)**
 - ⭐ **[Gamma](https://gamma.app/)**
 - ⭐ **[Genial.ly - platform for interactive animation content](https://genial.ly/)**
 - ⭐ **[Graphite.rs editor](https://editor.graphite.rs/)**
@@ -1776,6 +1788,7 @@ description: Audio, video, and creative media tools and sources.
 ### Wireframe
 - ⭐ **[Napkins.dev – Screenshot to code](https://www.napkins.dev/)**
 - [Balsamiq: Fast, focused wireframing tools](https://balsamiq.com/)
+- [Canvas](https://canvas.apps.chrome/)
 - [Flow - DanRoss](https://danross.co/flow/)
 - [Justinmind](https://www.justinmind.com/)
 - [mydraft.cc](https://mydraft.cc/)
@@ -1783,7 +1796,6 @@ description: Audio, video, and creative media tools and sources.
 - [OpenPencil — Open-Source Design Editor](https://openpencil.dev/) / [🔗](https://github.com/open-pencil/open-pencil)
 - [Overflow.io](https://overflow.io/)
 - [Sketchize](https://www.sketchize.com/)
-- [Stitch - Design with AI](https://stitch.withgoogle.com/)
 - [Whimsical - The iterative workspace for product teams](https://whimsical.com/)
 - [Wired Elements](https://wiredjs.com/)
 - [Wireframe.cc](https://wireframe.cc/)
@@ -1808,13 +1820,13 @@ description: Audio, video, and creative media tools and sources.
 - [Tachiyomi](https://tachiyomi.org/)
 
 ### eBook reader
+- ⭐ **[Amazon Kindle - Web Reader](https://read.amazon.com/landing)**
 - ⭐ **[Calibre - E-book](https://calibre-ebook.com/)**
 - ⭐ **[Foliate —modern eBook viewer](https://johnfactotum.github.io/foliate/)**
 - ⭐ **[Koodo Reader](https://koodo.960960.xyz/en)**
 - ⭐ **[KOReader](https://koreader.rocks/)**
 - [Acclorite/book-story · GitHub](https://github.com/Acclorite/book-story)
 - [Aldiko - Reading App](https://www.demarque.com/en-aldiko)
-- [Amazon Kindle - Web Reader](https://read.amazon.com/landing)
 - [Amazon Kindle Reading](https://www.amazon.com/b/node=16571048011)
 - [Aquile Reader](https://aquilereader.wordpress.com/)
 - [Aquile Reader](https://www.aquilereader.in/)
@@ -2020,6 +2032,7 @@ description: Audio, video, and creative media tools and sources.
 - [DLNA](https://www.dlna.org/)
 - [EZCast - Universal wireless screen mirroring solution](https://www.ezcast.com/)
 - [FCast](https://fcast.org/) / [🔗](https://github.com/futo-org/fcast)
+- [GitHub - eerimoq/moblin: Moblin, a free iOS app for IRL streaming](https://github.com/eerimoq/moblin)
 - [Go2TV - Media Casting Made Easy](https://go2tv.app/)
 - [InstantBits](https://www.webvideocaster.app/home)
 - [LocalCast - Free Media Casting App](https://www.localcast.app/)
@@ -2216,6 +2229,7 @@ description: Audio, video, and creative media tools and sources.
 - [VideoStudio Pro](https://www.videostudiopro.com/en/)
 - [VideoUtils](https://www.videoutils.com/)
 - [VSDC](https://www.videosoftdev.com/)
+- [WannaCut | Beta Access](https://wannacut.app/) / [🔗](https://github.com/ter-9001/WannaCut)
 - [WeVideo](https://www.wevideo.com/)
 - [wide.video - Free Online Video Editor](https://wide.video/)
 - [Wombo.ai](https://www.wombo.ai/)
@@ -2231,6 +2245,7 @@ description: Audio, video, and creative media tools and sources.
 - [ButtleOFX](https://buttleofx.wordpress.com/)
 - [Flowframes - Fast Video Interpolation for any GPU by N00MKRAD](https://nmkd.itch.io/flowframes)
 - [Fusion 17 | Blackmagic Design](https://www.blackmagicdesign.com/products/fusion/)
+- [Gyroflow v1.6.3 is out!](https://gyroflow.xyz/) / [🔗](https://github.com/gyroflow/gyroflow)
 - [HitFilm Pro | FXhome](https://fxhome.com/product/hitfilm-pro)
 - [JangaFX - Real-Time VFX Software](https://jangafx.com/)
 - [Media entertainment | Autodesk](https://www.autodesk.com/industry/media-entertainment)
@@ -2255,7 +2270,6 @@ description: Audio, video, and creative media tools and sources.
 - [jellyfin/jellyfin-mpv-shim · GitHub](https://github.com/jellyfin/jellyfin-mpv-shim)
 - [mu-fazil-vk/FluxTube · GitHub](https://github.com/mu-fazil-vk/FluxTube)
 - [MultiViewer — Watch F1 and More With Onboards and Live Timing](https://multiviewer.app/)
-- [Nuvio - Media Hub](https://tapframe.github.io/NuvioMobile/) / [🔗](https://github.com/tapframe/NuvioStreaming)
 - [PikaShow](https://pikashows.com/)
 - [pystardust/ani-cli: A cli tool to browse and play anime](https://github.com/pystardust/ani-cli)
 - [pystardust/ytfzf · GitHub](https://github.com/pystardust/ytfzf)
@@ -2276,6 +2290,7 @@ description: Audio, video, and creative media tools and sources.
 - ⭐ **[FORMULER | MYTVOnline+ IPTV Player](https://www.formuler.tv/mytvonline-plus)**
 - ⭐ **[Fredolx/open-tv: Ultra-fast, simple and powerful cross-platform IPTV app](https://github.com/fredolx/open-tv)**
 - ⭐ **[IPTV Expert - The Ultimate IPTV Player Experience](https://www.iptv-smarters-expert.app/)**
+- ⭐ **[IPTV Extreme Playlists Portal](https://iptvextreme.eu/)**
 - ⭐ **[IPTVnator · GitHub](https://github.com/4gray/iptvnator)** / [🔗](https://github.com/4gray/iptvnator)
 - ⭐ **[linuxmint/hypnotix: An M3U IPTV Player](https://github.com/linuxmint/hypnotix)**
 - ⭐ **[Televizo](https://televizo.net/)**
@@ -2292,7 +2307,6 @@ description: Audio, video, and creative media tools and sources.
 - [IBO Player | Premium media player](https://iboplayer.com/)
 - [iMPlayer TV IPTV Player - Apps on Google Play](https://play.google.com/store/apps/details?id=com.myiptvonline.implayer&hl=en)
 - [IP-TV Player Remote](https://iptvremote.blogspot.com/?m=1)
-- [IPTV Extreme Playlists Portal](https://iptvextreme.eu/)
 - [IPTV Player - Stream Everything Anywhere](https://iptvpls.tv/)
 - [IPTV Player – HLS & M3U Player (Play M3U8)](https://iptvplayer.stream/)
 - [IPTV Player Live: M3U & Xtream](https://iptv-live.zanapps.com/)
@@ -2345,8 +2359,8 @@ description: Audio, video, and creative media tools and sources.
 - [yuki-iptv](https://codeberg.org/liya/yuki-iptv)
 
 #### Youtube client
+- ⭐ **[LibreTube](https://libretube.dev/)** / [🔗](https://github.com/libre-tube/LibreTube)
 - ⭐ **[pear-devs/pear-desktop · GitHub](https://github.com/th-ch/youtube-music)**
-- [LibreTube](https://libretube.dev/) / [🔗](https://github.com/libre-tube/LibreTube)
 - [Metrolist - YouTube Music Client](https://metrolist.meowery.eu/) / [🔗](https://github.com/MetrolistGroup/Metrolist)
 - [NewPipe - a free YouTube client](https://newpipe.net/) / [🔗](https://github.com/TeamNewPipe/NewPipe/)
 - [nonbili/NouTube: YouTube and YouTube Music in a single app. No ads, plays in the background.](https://github.com/nonbili/NouTube)

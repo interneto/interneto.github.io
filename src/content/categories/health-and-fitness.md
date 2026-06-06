@@ -5,7 +5,7 @@ description: Resources for workouts, wellness, and healthy habits.
 
 # Health & Fitness
 
-**Total Bookmarks:** 332
+**Total Bookmarks:** 333
 
 - [Alma: Your Nutrition Companion | Track, Learn & Discover Food](https://www.alma.food/)
 - [brandonp2412/Flexify · GitHub](https://github.com/brandonp2412/Flexify?tab=readme-ov-file)
@@ -82,6 +82,7 @@ description: Resources for workouts, wellness, and healthy habits.
 - [Newpneumonia - Baidu](https://voice.baidu.com/act/newpneumonia/newpneumonia)
 
 ## Food Recipes
+- [WeChef - Recipe Journal](https://wechef.site/)
 
 ### Recipe manager
 - ⭐ **[CookBook - The Recipe Manager & Planner App](https://cookbookmanager.com/)**
@@ -298,6 +299,7 @@ description: Resources for workouts, wellness, and healthy habits.
 - ⭐ **[GoldenCheetah](https://www.goldencheetah.org/)** / [🔗](https://github.com/GoldenCheetah/GoldenCheetah)
 - ⭐ **[jannis/FitoTrack - Codeberg.org](https://codeberg.org/jannis/FitoTrack)**
 - ⭐ **[jonasoreland/runnerup · GitHub](https://github.com/jonasoreland/runnerup)**
+- ⭐ **[MyTourbook](https://mytourbook.sourceforge.io/mytourbook/index.php)** / [🔗](https://github.com/mytourbook/mytourbook)
 - ⭐ **[OpenTracksApp](https://opentracksapp.com/)**
 - ⭐ **[Strava | Running, Cycling & Hiking App - Train, Track & Share](https://www.strava.com/)**
 - [adidas Running | Running Plans to Get Fit](https://www.runtastic.com/)
@@ -308,7 +310,6 @@ description: Resources for workouts, wellness, and healthy habits.
 - [Garmin Connect](https://connect.garmin.com/)
 - [Geovelo : Ride serenely and impact the decisions of new bike paths in your city](https://geovelo.app/en/)
 - [INTVL](https://www.intvl.com.au/)
-- [MyTourbook](https://mytourbook.sourceforge.io/mytourbook/index.php) / [🔗](https://github.com/mytourbook/mytourbook)
 - [Nike Run Club App](https://www.nike.com/nrc-app)
 - [OpenTracksApp/OpenTracks · GitHub](https://github.com/OpenTracksApp/OpenTracks)
 - [OutRun](https://outrun.tadris.de/)

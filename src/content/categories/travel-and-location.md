@@ -5,8 +5,9 @@ description: Maps, transport, travel planning, and location services.
 
 # Travel & Location
 
-**Total Bookmarks:** 776
+**Total Bookmarks:** 779
 
+- [TREK](https://demo-nomad.pakulat.org/dashboard) / [🔗](https://github.com/mauriceboe/TREK)
 
 ## Booking
 - ⭐ **[OpenTable - Restaurants and Restaurant Bookings](https://www.opentable.com/)**
@@ -38,6 +39,7 @@ description: Maps, transport, travel planning, and location services.
 - [Sygic Sygic GPS Navigation](https://www.sygic.com/)
 - [TomTom app | TomTom](https://www.tomtom.com/en_gb/navigation/mobile-apps/tomtom-app/)
 - [TopoGrafix - GPS Software, Waypoints, and Maps for your Garmin, Magellan, or Lowrance GPS](https://www.topografix.com/)
+- [Trail Sense](https://kylecorry.com/Trail-Sense/) / [🔗](https://github.com/kylecorry31/Trail-Sense)
 
 ### GPS for aviation
 - [AIRMATE – Préparation et suivi de vols](https://www.airmate.aero/)
@@ -50,11 +52,11 @@ description: Maps, transport, travel planning, and location services.
 - [Welcome to SkyDemon, VFR Flight Planning and GPS Moving Map](https://www.skydemon.aero/)
 
 ### GPX viewer
+- ⭐ **[GPX viewer and recorder - Free download and install on Windows | Microsoft Store](https://apps.microsoft.com/detail/9nblggh4w2z7?hl=en-us&gl=US)**
 - [fit file repair tool - Home](https://www.fitfilerepairtool.info/)
 - [GPS Visualizer](https://www.gpsvisualizer.com/)
 - [GPX File Viewer & Sharer | The Best Free Online GPX File Viewer and Sharer](https://www.viewgpx.com/)
 - [GPX Viewer](https://gpxviewer.com/)
-- [GPX viewer and recorder - Free download and install on Windows | Microsoft Store](https://apps.microsoft.com/detail/9nblggh4w2z7?hl=en-us&gl=US)
 - [GPX Viewer PRO](https://vecturagames.com/gpxviewerpro/)
 - [gpx.studio — the online GPX file editor](https://gpx.studio/)
 - [GPXSee - GPS log file viewer and analyzer](https://www.gpxsee.org/)
@@ -72,17 +74,20 @@ description: Maps, transport, travel planning, and location services.
 - [VLMs as GeoGuessr Masters—Exceptional Performance, Hidden Biases, and Privacy Risks Mind the Photos You Post: AI Knows Where You Are!](https://arxiv.org/html/2502.11163v1?utm_source=chatgpt.com)
 
 ## Maps
+- [BTC Map](https://btcmap.org/) / [🔗](https://github.com/teambtcmap/btcmap.org)
 - [Every Door](https://every-door.app/)
 - [Geomarketing inAtlas](https://informa.inatlas.com/#/home)
 - [Map of Active Volcanoes and recent Earthquakes world-wide](https://earthquakes.volcanodiscovery.com/)
 - [Mapas y listas de QSO/SWL en tiempo real](https://www.dxmaps.com/spots/mapg.php?Lan=S)
 - [OGC GeoPackage](https://www.geopackage.org/)
+- [One Piece World Map - Interactive Map of Islands and Routes](https://www.op-maps.com/en)
 - [OurAirports](https://ourairports.com/)
 - [SeismicMonitor](https://www.iris.edu/app/seismic-monitor/map?lat=16.4657&lng=-67.5192&zoom=2)
 
 ### Geographic maps
 - ⭐ **[GrafCan](https://visor.grafcan.es/)**
 - ⭐ **[NASA GISS: G.Projector — Map Projections](https://www.giss.nasa.gov/tools/gprojector/)**
+- ⭐ **[OpenStreetMap](https://www.openstreetmap.org/#map=3/0.00/0.00)** / [🔗](https://github.com/openstreetmap/openstreetmap-website)
 - [2GIS](https://2gis.ae/dubai)
 - [Amapint.com](https://www.amapint.com/en/)
 - [Ancient Earth globe](https://dinosaurpictures.org/ancient-earth#0)
@@ -122,7 +127,6 @@ description: Maps, transport, travel planning, and location services.
 - [Ocearch](https://www.ocearch.org/tracker?list=)
 - [OpenSeaMap](https://map.openseamap.org/)
 - [OpenStreetBrowser](https://openstreetbrowser.org/#lat=0&lon=0&zoom=3)
-- [OpenStreetMap](https://www.openstreetmap.org/#map=3/0.00/0.00) / [🔗](https://github.com/openstreetmap/openstreetmap-website)
 - [OpenStreetMap Data](https://planet.openstreetmap.org/)
 - [OruxMaps](https://oruxmaps.com/cs/es)
 - [Protected Planet](https://www.protectedplanet.net/)
@@ -221,6 +225,7 @@ description: Maps, transport, travel planning, and location services.
 - ⭐ **[Bing Maps](https://www.bing.com/maps/?cp=0%7E0.351563&lvl=2.0)**
 - ⭐ **[Google Earth](https://earth.google.com/web/@0,0,0a,22251752.77375655d,35y,0h,0t,0r)**
 - ⭐ **[Google Maps](https://www.google.com/maps/@0,0,20660137m/data=!3m1!1e3)**
+- ⭐ **[Yandex.Maps](https://yandex.com/maps?ll=-0.000000%2C0.000000&z=3)**
 - [ACME Mapper](https://mapper.acme.com/)
 - [Baidu map 3D](https://map.baidu.com/@0,0,3.73z/maptype%3DB_EARTH_MAP)
 - [BestFreeMaps](https://bestfreemaps.com/map.html?layer=satellite)
@@ -244,7 +249,6 @@ description: Maps, transport, travel planning, and location services.
 - [Satellite Maps 3D Scene](https://satellitemaps.nesdis.noaa.gov/arcgis/apps/webappviewer3d/index.html?id=ced40646adeb41f1ad60786a23f03edf)
 - [Toolforge Geohack](https://geohack.toolforge.org/)
 - [Toolforge WikiMap](https://wikimap.toolforge.org/)
-- [Yandex.Maps](https://yandex.com/maps?ll=-0.000000%2C0.000000&z=3)
 - [Zoom Earth | Daily Map](https://zoom.earth/maps/daily/#view=0,0,4z/date=2022-05-06,pm/overlays=labels:off,lines:off)
 
 #### Traffic maps
@@ -574,7 +578,6 @@ description: Maps, transport, travel planning, and location services.
 - [Thruhikes](https://thruhikes.net/)
 - [TouchTrails](https://www.touchtrails.com/)
 - [Trackbook - tool for your outdoors](https://trackbook.com/?lat=25.165173&lng=-27.158203&z=3.00&basemap=7)
-- [Trail Sense](https://kylecorry.com/Trail-Sense/)
 - [Travel Scan - Trip Planner - Apps on Google Play](https://play.google.com/store/apps/details?id=com.travelscan.app)
 - [ViewRanger](https://www.viewranger.com/en-gb)
 - [wanderer](https://wanderer.to/)

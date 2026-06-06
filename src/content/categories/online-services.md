@@ -5,7 +5,7 @@ description: Useful web services and cloud-based utilities.
 
 # Online Services
 
-**Total Bookmarks:** 5596
+**Total Bookmarks:** 5655
 
 
 ## Biography
@@ -220,6 +220,7 @@ description: Useful web services and cloud-based utilities.
 - [fatsecret Platform - Global Food & Nutrition Data for Apps, Websites and Brands](https://platform.fatsecret.com/)
 - [Food APIs](https://rapidapi.com/collection/food-apis)
 - [FreeWebApi](https://freewebapi.com/)
+- [JokeAPI - Documentation](https://v2.jokeapi.dev/)
 - [PokéAPI](https://pokeapi.co/)
 - [Public APIs — A directory of free and public apis](https://publicapis.io/)
 - [Rapid API](https://rapidapi.com/hub)
@@ -227,33 +228,47 @@ description: Useful web services and cloud-based utilities.
 - [TheCocktailDB.com - Free Cocktail API](https://www.thecocktaildb.com/)
 - [Zestful - Simple API for Parsing Recipe Ingredients](https://zestfuldata.com/)
 
+### Case Law Database
+- [Epstein Exposed - The Most Comprehensive Epstein Files Database](https://epsteinexposed.com/) / [🔗](https://github.com/stonesalltheway1/Epstein-Pipeline)
+- [Jmail, logged in as jeevacation@gmail.com](https://jmail.world/)
+- [The Epstein Network](https://epsteinvisualizer.com/)
+
 ### Coins Db
 - [euro-coins.tv - The Online Coin Catalogue with daily updated market prices for every single coin](https://www.euro-coins.tv/)
 - [NGC - Coin Grading | Numismatic Guaranty Company](https://www.ngccoin.com/)
 - [Numismaster - Collector coin and paper money data and values and numismatic news since 1952.](https://www.numismaster.com/)
 - [Numista](https://en.numista.com/)
 
-### Emoji Db
-- ⭐ **[Emojipedia](https://emojipedia.org/)**
-- [Cool Symbols](https://coolsymbol.com/)
-- [Emoji Keyboard](https://emojikeyboard.io/)
-- [EmojiCopy](https://www.emojicopy.com/)
-- [EmojiDB](https://emojidb.org/)
-- [Emojikeyboard](https://emojikeyboard.top/es)
-- [Emojis.com](https://www.emojis.com/)
-- [emojis.iki](https://emojis.wiki/)
-- [EmojiTerra](https://emojiterra.com/)
-- [emojitracker](http://emojitracker.com/)
-- [FastEmoji](https://www.fastemoji.com/)
-- [FB Icons](https://fbicons.net/)
-- [Fsymbols](https://fsymbols.com/)
-- [Get Emoji](https://getemoji.com/)
-- [gitmoji](https://gitmoji.dev/)
-- [HotEmoji](https://hotemoji.com/)
-- [Megaemoji](https://www.megaemoji.com/)
-- [Mogiconos](https://www.mogicons.com/en)
-- [Symbol Signs](https://symbolsign.com/)
-- [symbolkeyboard](https://symbolkeyboard.com/)
+### Cybersecurity Vulnerabilities Db (CVE)
+- [CVE Database - Security Vulnerabilities and Exploits | Vulners.com](https://vulners.com/)
+- [CVE Record: CVE-2025-31115](https://www.cve.org/CVERecord?id=CVE-2025-31115)
+- [CVE: Common Vulnerabilities and Exposures](https://www.cve.org/) / [🔗](https://github.com/CVEProject)
+- [CWE - Common Weakness Enumeration](https://cwe.mitre.org/)
+- [JVN iPedia](https://jvndb.jvn.jp/en/)
+- [NVD - Search and Statistics](https://nvd.nist.gov/vuln/search#/nvd/home?resultType=records)
+- [OpenCVE - Vulnerability Intelligence Platform](https://www.opencve.io/)
+- [pypa/advisory-database: Advisory database for Python packages published on pypi.org](https://github.com/pypa/advisory-database)
+- [VARIoT databases of IoT exploits and vulnerabilities](https://www.variotdbs.pl/)
+- [Vibe Coding Failures: Documented AI Code Incidents](https://crackr.dev/vibe-coding-failures)
+- [Vulnerability-Lookup](https://vulnerability.circl.lu/)
+- [xyh4ck/iot_poc · GitHub](https://github.com/xyh4ck/iot_poc)
+
+#### CVE-top
+- [CVE Record: CVE-2017-0144](https://www.cve.org/CVERecord?id=CVE-2017-0144)
+- [CVE Record: CVE-2021-44228](https://www.cve.org/CVERecord?id=CVE-2021-44228)
+- [CVE Record: CVE-2024-3094](https://www.cve.org/CVERecord?id=CVE-2024-3094)
+- [CVE Record: CVE-2025-0108](https://www.cve.org/CVERecord?id=CVE-2025-0108)
+- [CVE Record: CVE-2025-3248](https://www.cve.org/CVERecord?id=CVE-2025-3248)
+- [CVE Record: CVE-2025-10035](https://www.cve.org/CVERecord?id=CVE-2025-10035)
+- [CVE Record: CVE-2025-32433](https://www.cve.org/CVERecord?id=CVE-2025-32433)
+- [CVE Record: CVE-2025-32463](https://www.cve.org/CVERecord?id=CVE-2025-32463)
+- [CVE Record: CVE-2025-43300](https://www.cve.org/CVERecord?id=CVE-2025-43300)
+- [CVE Record: CVE-2025-53770](https://www.cve.org/CVERecord?id=CVE-2025-53770)
+- [CVE Record: CVE-2025-55177](https://www.cve.org/CVERecord?id=CVE-2025-55177)
+- [CVE Record: CVE-2025-55182](https://www.cve.org/CVERecord?id=CVE-2025-55182)
+- [CVE Record: CVE-2025-64446](https://www.cve.org/CVERecord?id=CVE-2025-64446)
+- [CVE Record: CVE-2026-31431](https://www.cve.org/CVERecord?id=CVE-2026-31431)
+- [CVE-2026-43284 - Red Hat Customer Portal](https://access.redhat.com/security/cve/cve-2026-43284)
 
 ### Graph map Db
 - ⭐ **[Code Galaxies Visualization](https://anvaka.github.io/pm/#/?_k=oqyjty)**
@@ -394,6 +409,7 @@ description: Useful web services and cloud-based utilities.
 - [awesome-selfhosted/awesome-selfhosted · GitHub](https://github.com/awesome-selfhosted/awesome-selfhosted)
 - [awesome-stock-resources · GitHub](https://github.com/neutraltone/Awesome-Stock-Resources)
 - [awesomedata/awesome-public-datasets · GitHub](https://github.com/awesomedata/awesome-public-datasets)
+- [Axorax/awesome-free-apps: Curated list of the best free apps for PC and mobile](https://github.com/Axorax/awesome-free-apps)
 - [best-of-lists/best-of · GitHub](https://github.com/best-of-lists/best-of)
 - [bobeff/open-source-games: A list of open source games.](https://github.com/bobeff/open-source-games)
 - [castrojo/awesome-immutable · GItHub](https://github.com/castrojo/awesome-immutable)
@@ -496,10 +512,13 @@ description: Useful web services and cloud-based utilities.
 - [VoltAgent/awesome-design-md: A collection of DESIGN.md files inspired by popular brand design systems](https://github.com/VoltAgent/awesome-design-md)
 - [vsouza/awesome-ios · GitHub](https://github.com/vsouza/awesome-ios)
 - [YouMind-OpenLab/awesome-nano-banana-pro-prompts · GitHub](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)
+- [ZeroLu/awesome-gpt-image: A curated collection of the best GPT Image 2 prompts and examples. The prompts come from top creators on X.](https://github.com/ZeroLu/awesome-gpt-image)
+- [ZeroLu/awesome-seedance: The ultimate collection of high-fidelity Seedance 2.0 prompts and Seedance AI resources. Discover Seedance 2.0 how to use for cinematic film, anime, UGC, social media, meme and advertising. Includes Seedance API guides and advanced video generation workflows.](https://github.com/ZeroLu/awesome-seedance)
 - [ziadoz/awesome-php · GitHub](https://github.com/ziadoz/awesome-php)
 - [Zie619/n8n-workflows: all of the workflows of n8n i could find (also from the site itself)](https://github.com/Zie619/n8n-workflows)
 
 #### IPTV list
+- ⭐ **[eja.tv](https://eja.tv/)**
 - ⭐ **[iptv Wuaze](https://iptvfree.wuaze.com/?i=1)**
 - ⭐ **[iptv-org](https://iptv-org.github.io/)** / [🔗](https://github.com/iptv-org/iptv)
 - [AlliptvLinks – Watch free IPTV m3u streams playlists, iptv Extreme OttPlayer GSE smarters m3u/m3u8 lists, links, VLC, TiviMate, Xtream codes 2024](https://alliptvlinks.com/iptv-m3u-lists_5/)
@@ -509,7 +528,6 @@ description: Useful web services and cloud-based utilities.
 - [doms9/iptv: tv channels & sporting events](https://github.com/doms9/iptv)
 - [dongyubin/IPTV: 2025年10月更新直播源，体育直播源、F1直播源，IPTV电视直播源、APTV电视直播源、IPTV直播软件、中国IPTV直播源M3U、TV观看工具，iptv最新可用直播源iptv4/iptv6，TVBox接口，福利节目源，IPTV检查工具、电视家替代APP](https://github.com/dongyubin/IPTV)
 - [Drewski2423/DrewLive: ⭐️ High Quality IPTV with Over 7000 Live Channels - Sports, Movies, Anime, and More! 🚀](https://github.com/Drewski2423/DrewLive)
-- [eja.tv](https://eja.tv/)
 - [evoactivity/PlutoIPTV: Grab EPG & M3U from Pluto.tv](https://github.com/evoactivity/PlutoIPTV)
 - [Free-TV/IPTV: M3U Playlist for free TV channels](https://github.com/Free-TV/IPTV)
 - [GitHub - LaQuay/TDTChannels: Listado de Canales de TV (TDT) en abierto, 100% legal, 100% gratuito // Spanish TV Channels, 100% legal, 100% free](https://github.com/LaQuay/TDTChannels)
@@ -533,13 +551,14 @@ description: Useful web services and cloud-based utilities.
 - [matthuisman/slyguy.addons: Github mirror of SlyGuy add-ons](https://github.com/matthuisman/slyguy.addons)
 - [MJH - IPTV list](https://i.mjh.nz/)
 - [Mystique-Play/Mystique · Forgejo](https://forgejo.mxnticek.eu/Mystique-Play/Mystique)
+- [Paradise-91/ParaTV](https://github.com/Paradise-91/ParaTV)
 - [r/iptvx](https://www.reddit.com/r/iptvx/)
 - [World-iptv - Unlock Unlimited Entertainment](https://world-iptv.club/)
 
 ##### EPG list
+- ⭐ **[EPG dobleM](https://davidmuma.github.io/EPG/)** / [🔗](https://github.com/davidmuma/EPG_dobleM)
 - ⭐ **[iptv-epg.org](https://iptv-epg.org/)**
 - [celetor/epg: 电子节目单，支持XML格式，支持Diyp&百川](https://github.com/celetor/epg)
-- [EPG dobleM](https://davidmuma.github.io/EPG/) / [🔗](https://github.com/davidmuma/EPG_dobleM)
 - [EPG for IPTV](https://epg.best/)
 - [EPG_dobleM: Guía de Programación · GitHub](https://github.com/davidmuma/EPG_dobleM/)
 - [EPGSHARE01](https://epgshare01.online/)
@@ -849,6 +868,7 @@ description: Useful web services and cloud-based utilities.
 - ⭐ **[Subdl: Download Movie subtitles in any language!](https://subdl.com/)**
 - ⭐ **[Subtitles - download movie and TV Series subtitles](https://www.opensubtitles.org/en/search/subs)**
 - [Addic7ed.com - The source of latest TV subtitles](https://www.addic7ed.com/)
+- [Filmot - Search in Youtube captions and subtitles](https://filmot.com/)
 - [JustSubtitles - Download Free Movie & TV Show Subtitles](https://www.justsubtitles.com/)
 - [opensubtitles.com](https://www.opensubtitles.com/)
 - [Subscene - Passionate about good subtitles](https://subscene.com/)
@@ -1077,7 +1097,7 @@ description: Useful web services and cloud-based utilities.
 - [دانلود رایگان نرم افزار](https://soft98.ir/)
 
 #### Pirate video indexer
-- [Acer Movies](https://acermovies.val.run/)
+- ⭐ **[Acer Movies](https://acermovies.val.run/)**
 - [DDLBase.com - Your best source for HQ content](https://ddlbase.com/)
 - [DescargaMas - Peliculas y series](https://descargamas.org/)
 - [Dramaday.me](https://dramaday.me/)
@@ -1236,10 +1256,10 @@ description: Useful web services and cloud-based utilities.
 - [Pyran1/RAT-Collection: Remote Access Trojan collection.(260+ RAT-Builders!)](https://github.com/Pyran1/RAT-Collection)
 - [ShuilongwxZoey/MyMalwareDatabase: All of my gdi malwares (with source codes) are here. I made them ONLY for educational and entertainment purposes. I'm NOT responsible for any damages by using my gdi malware.](https://github.com/ShuilongwxZoey/MyMalwareDatabase)
 - [System32Booster/MalwareDatabase](https://github.com/System32Booster/MalwareDatabase)
+- [theZoo aka Malware DB](https://thezoo.morirt.com/) / [🔗](https://github.com/ytisf/theZoo)
 - [VirusSign](https://www.virussign.com/)
 - [VirusSign/malware-samples: Live malware samples and database, daily update.](https://github.com/VirusSign/malware-samples)
 - [Yedboy33k/MalwareDatabase: This is my Malware Database, for educational purposes only !!](https://github.com/Yedboy33k/MalwareDatabase)
-- [ytisf/theZoo: A repository of LIVE malwares for your own joy and pleasure. theZoo is a project created to make the possibility of malware analysis open and available to the public.](https://github.com/ytisf/theZoo)
 
 #### Operating Systems Db
 - ⭐ **[DistroWatch.com - Put the fun back into computing. Use Linux, BSD.](https://distrowatch.com/)**
@@ -1275,20 +1295,20 @@ description: Useful web services and cloud-based utilities.
 - [FileCR - THE BIGGEST SOFTWARE STORE](https://filecr.com/us-en/)
 
 ###### Extra software distribution
+- ⭐ **[Meta Quest Store](https://www.meta.com/en-us/experiences/)**
 - [Malavida](https://www.malavida.com/es/windows)
-- [Meta Quest Store](https://www.meta.com/en-us/experiences/)
 - [TizenBrew | More apps for your Tizen TV](https://tizenbrew.6513006.xyz/)
 - [WebOS Homebrew](https://www.webosbrew.org/)
 
 ###### Android software distribution
+- ⭐ **[Aurora OSS](https://auroraoss.com/)** / [🔗](https://gitlab.com/AuroraOSS/AuroraStore)
+- ⭐ **[Google Play - Android Apps](https://play.google.com/store/apps)**
 - [360 zhushou](http://zhushou.360.cn/)
 - [Accrescent](https://accrescent.app/)
 - [Amazon App Store](https://www.amazon.com/gp/mas/get/android)
 - [AppBrain.com - Top Android Apps and Games on Google Play](https://www.appbrain.com/)
-- [AuroraOSS](https://auroraoss.com/) / [🔗](https://gitlab.com/AuroraOSS/AuroraStore)
 - [Droid-ify](https://github.com/Iamlooker/Droid-ify)
 - [G-Droid · GitLab](https://gitlab.com/gdroid/gdroidclient/)
-- [Google Play - Android Apps](https://play.google.com/store/apps)
 - [HUAWEI AppGallery](https://appgallery.huawei.com/Featured)
 - [Indus OS | Indian Android App Store](https://www.indusos.com/)
 - [Kali NetHunter App Store](https://store.nethunter.com/)
@@ -1299,7 +1319,7 @@ description: Useful web services and cloud-based utilities.
 - [Samsung Galaxy Store - Apps](https://galaxystore.samsung.com/apps)
 - [Xiaomi app](https://app.mi.com/)
 
-####### Android_store_categories
+**Android_store_categories**
 - [Android wear - Android Apps on Google Play](https://play.google.com/store/apps/category/ANDROID_WEAR)
 - [Application - Android Apps on Google Play](https://play.google.com/store/apps/category/APPLICATION)
 - [Arcade - Android Apps on Google Play](https://play.google.com/store/apps/category/GAME_ARCADE)
@@ -1353,7 +1373,7 @@ description: Useful web services and cloud-based utilities.
 - [Video Players & Editors - Android Apps on Google Play](https://play.google.com/store/apps/category/VIDEO_PLAYERS)
 - [Weather - Android Apps on Google Play](https://play.google.com/store/apps/category/WEATHER)
 
-####### APK repo
+**APK repo**
 - [9Apps](https://www.9apps.com/)
 - [An1 - Free games and programs for android](https://an1.com/)
 - [Android Freeware](https://www.androidfreeware.net/)
@@ -1401,8 +1421,8 @@ description: Useful web services and cloud-based utilities.
 - [Wikiapp](https://descargar.wiki/)
 
 ###### iOS software distribution
+- ⭐ **[App Store - Today for iPhone](https://apps.apple.com/us/iphone/today)**
 - [AltStore](https://altstore.io/) / [🔗](https://github.com/altstoreio/AltStore)
-- [App Store - Today for iPhone](https://apps.apple.com/us/iphone/today)
 - [Cydia Download iOS 26.2, 18.7.3, 17.7.10, 16.7.12, 15.8.5 and 12.5.7 Versions \[Cydia Free\]](https://www.cydiafree.com/)
 - [iloader - Free Open-Source iOS Sideloading Companion](https://iloader.app/) / [🔗](https://github.com/nab138/iloader)
 - [Impactor | iOS sideloading application](https://impactor.khcrysalis.dev/) / [🔗](https://github.com/CLARATION/Impactor)
@@ -1461,6 +1481,7 @@ description: Useful web services and cloud-based utilities.
 
 ###### Windows software distribution
 - ⭐ **[Microsoft Store - Generation Project (v1.2.3)](https://store.rg-adguard.net/)**
+- ⭐ **[PRISM Break](https://prism-break.org/en/)**
 - [100-downloads](https://100-downloads.com/)
 - [BytesIn](https://www.bytesin.com/)
 - [Ccm](https://es.ccm.net/download/windows)
@@ -1480,7 +1501,6 @@ description: Useful web services and cloud-based utilities.
 - [Oldversions.com](http://www.oldversion.com/)
 - [OuterTech](https://www.outertech.com/)
 - [PortalProgramas](https://www.portalprogramas.com/)
-- [PRISM Break](https://prism-break.org/en/)
 - [Programas-Gratis.net](https://www.programas-gratis.net/)
 - [Shareware Junction](http://www.sharewarejunction.com/)
 - [Soft32](https://www.soft32.com/?rel=logo)
@@ -1494,7 +1514,7 @@ description: Useful web services and cloud-based utilities.
 - [winstall - winget packages for Windows](https://winstall.app/)
 - [Yep! Download](https://yepdownload.com/)
 
-####### Portable software distribution
+**Portable software distribution**
 - [FC Portables](https://www.fcportables.com/)
 - [Muchos Portables](https://www.muchosportables.com/)
 - [Portable Freeware](https://www.portablefreeware.com/)
@@ -1556,6 +1576,7 @@ description: Useful web services and cloud-based utilities.
 - [KeysFan](https://www.keysfan.com/)
 - [Kinguinem](https://www.kinguin.net/)
 - [MTCGAME | Digital Online Global Game Store](https://www.mtcgame.com/)
+- [ODosta Store](https://odosta.com/)
 - [SCDKey](https://www.scdkey.com/)
 - [Skin.Club - Buy Cases, Get New Skins & Items](https://skin.club/en)
 - [Xtralife](https://www.xtralife.com/)
@@ -1648,7 +1669,7 @@ description: Useful web services and cloud-based utilities.
 - [Toolify - Best AI Tools Directory & AI Tools List](https://www.toolify.ai/)
 - [YouMind - AI Creation Agent](https://youmind.com/)
 
-##### Alternative software
+##### Software Comparator
 - ⭐ **[AlternativeTo - Crowdsourced software recommendations](https://alternativeto.net/)**
 - ⭐ **[KenneyNL/Adobe-Alternatives · GitHub](https://github.com/KenneyNL/Adobe-Alternatives)**
 - ⭐ **[Privacy Tools](https://www.privacytools.io/)**
@@ -1684,6 +1705,7 @@ description: Useful web services and cloud-based utilities.
 - [ReposHub](https://reposhub.com/)
 - [Side Hustle Stack](https://sidehustlestack.co/)
 - [Softlookup](https://www.softlookup.com/)
+- [Software Compare - Find software that's best for you](https://softwarecompare.org/) / [🔗](https://github.com/SoftwareCompare/SoftwareCompare)
 - [SoftwareSuggest](https://www.softwaresuggest.com/us/)
 - [The-re-view.org](https://the-re-view.org/)
 - [Tool Finder: Productivity Tools Reviews, Guides & News](https://toolfinder.co/)
@@ -1707,6 +1729,35 @@ description: Useful web services and cloud-based utilities.
 - [SofaScore](https://www.sofascore.com/)
 - [WorldFootball](https://www.worldfootball.net/)
 - [YebScore](https://yebscore.com/nba/home)
+
+### Unicode
+
+#### Emoji Db
+- ⭐ **[Emojipedia](https://emojipedia.org/)**
+- [Cool Symbols](https://coolsymbol.com/)
+- [Emoji Keyboard](https://emojikeyboard.io/)
+- [Emoji Kitchen - Browse Google's unique emoji combinations](https://emojikitchen.dev/)
+- [emoji.supply](https://emoji.supply/)
+- [EmojiCopy](https://www.emojicopy.com/)
+- [EmojiDB](https://emojidb.org/)
+- [Emojikeyboard](https://emojikeyboard.top/es)
+- [Emojis.com](https://www.emojis.com/)
+- [emojis.iki](https://emojis.wiki/)
+- [EmojiTerra](https://emojiterra.com/)
+- [emojitracker](http://emojitracker.com/)
+- [FastEmoji](https://www.fastemoji.com/)
+- [FB Icons](https://fbicons.net/)
+- [Fsymbols](https://fsymbols.com/)
+- [Get Emoji](https://getemoji.com/)
+- [gitmoji](https://gitmoji.dev/)
+- [graphemica · Love Letters](https://graphemica.com/)
+- [HotEmoji](https://hotemoji.com/)
+- [Megaemoji](https://www.megaemoji.com/)
+- [Mogiconos](https://www.mogicons.com/en)
+- [SYMBL (◕‿◕) Symbols, Emojis, Characters, Scripts, Alphabets, Hieroglyphs and the entire Unicode](https://symbl.cc/)
+- [Symbol Signs](https://symbolsign.com/)
+- [symbolkeyboard](https://symbolkeyboard.com/)
+- [Unicode – The World Standard for Text and Emoji](https://home.unicode.org/) / [🔗](https://github.com/unicode-org), [🔗](https://github.com/unicode-org/cldr)
 
 ### User manual Db
 - [¿Manual perdido? Descarga el manual que estás buscando.](https://www.manual.pa/)
@@ -1979,9 +2030,9 @@ description: Useful web services and cloud-based utilities.
 - [Wotaku](https://wotaku.wiki/)
 
 ##### DMOZ
+- ⭐ **[Curlie (en)](https://curlie.org/en)**
 - [Building a URL classifier using DMOZ data](https://utatds.github.io/2017-01-18-URL-classification-using-DMOZ-data)
 - [Curlie (de)](https://curlie.org/de)
-- [Curlie (en)](https://curlie.org/en)
 - [Curlie (es)](https://curlie.org/es)
 - [DMOZ RDF](https://archive.org/details/dmoz-rdf-20150327)
 - [DMOZ-odp](https://www.dmoz-odp.org/)
@@ -2120,8 +2171,11 @@ description: Useful web services and cloud-based utilities.
 - [Dinosaur Pictures](https://dinosaurpictures.org/)
 - [Diptera.info](https://diptera.info/news.php)
 - [Flora-On](https://flora-on.pt/)
+- [iNaturalist – A Community for Naturalists](https://www.inaturalist.org/)
 - [Marine Species](https://www.marinespecies.org/)
-- [Pangaea.de - Data Earth & Environment](https://www.pangaea.de/)
+- [Merlin Bird ID](https://merlin.allaboutbirds.org/)
+- [Observation.org](https://observation.org/)
+- [Pangaea.de - Data Publisher for Earth & Environmental Science](https://www.pangaea.de/)
 - [Picture Insect - Online insect encyclopedia and insect identifier](https://pictureinsect.com/)
 - [PlantAtlas.org](https://plantatlas.usf.edu/)
 - [Plants Database - Garden.org](https://garden.org/plants)
@@ -2242,17 +2296,13 @@ description: Useful web services and cloud-based utilities.
 - [NGC Objects](https://commons.wikimedia.org/wiki/Category:NGC_objects_by_number)
 - [NGC of Nebulae](https://en.wikipedia.org/wiki/New_General_Catalogue)
 
-### Case Law Database
-- [Epstein Exposed - The Most Comprehensive Epstein Files Database](https://epsteinexposed.com/) / [🔗](https://github.com/stonesalltheway1/Epstein-Pipeline)
-- [Jmail, logged in as jeevacation@gmail.com](https://jmail.world/)
-- [The Epstein Network](https://epsteinvisualizer.com/)
-
 ## Encyclopedia
 - ⭐ **[Wikipedia](https://en.wikipedia.org/wiki/Main_Page)**
 - [Britannica](https://www.britannica.com/)
 - [Citizendium](https://en.citizendium.org/)
 - [Drinking Game Zone - The Alcohol Drinking Games Encyclopedia](https://drinkinggamezone.com/)
 - [EcuRed](https://www.ecured.cu/EcuRed:Enciclopedia_cubana)
+- [Enciclopedia Guanche](https://guanches.org/P%C3%A1gina_principal)
 - [Encyc](https://encyc.org/wiki/Main_Page)
 - [Encyclopedia of Myths](http://www.mythencyclopedia.com/)
 - [Encyclopedia.com](https://www.encyclopedia.com/)
@@ -2346,7 +2396,6 @@ description: Useful web services and cloud-based utilities.
 - [Minifeed](https://minifeed.org/)
 
 ### Symbols
-- [Los Simbolos](https://lossimbolos.com/)
 - [MundoCruces](https://mundocruces.com/)
 - [Simbología del Mundo](https://simbologiadelmundo.com/)
 - [Simboloteca.com](https://simboloteca.com/)
@@ -2384,6 +2433,7 @@ description: Useful web services and cloud-based utilities.
 - [Indie Wiki Buddy - Listings](https://getindie.wiki/listings/)
 - [IQ.Wiki | Crypto Encyclopedia](https://iq.wiki/)
 - [Kiwix - Main Page](https://wiki.kiwix.org/wiki/Main_Page)
+- [LifeWiki](https://conwaylife.com/wiki/Main_Page)
 - [LPedia](https://lpedia.org/wiki/Main_Page)
 - [Metapedia](https://www.metapedia.org/)
 - [Miraheze - 100% free, ad-free wikis, request yours today!](https://meta.miraheze.org/wiki/Miraheze_Meta)
@@ -2452,8 +2502,7 @@ description: Useful web services and cloud-based utilities.
 - [capo.js: get your ﹤𝚑𝚎𝚊𝚍﹥ in order](https://rviscomi.github.io/capo.js/)
 - [Code Wiki](https://codewiki.google/)
 - [Codeberg Documentation](https://docs.codeberg.org/)
-- [ComfyUI Wiki Tutorials Manual | ComfyUI WIKI Manual](https://comfyui-wiki.com/en)
-- [ComfyUI-WIKI](https://comfyui-wiki.com/)
+- [ComfyUI-WIKI](https://comfyui-wiki.com/en)
 - [Coolify Docs](https://docs.coollabs.io/)
 - [DeepWiki | AI documentation you can talk to, for every repo](https://deepwiki.com/)
 - [Deno by Example](https://examples.deno.land/)
@@ -2668,6 +2717,7 @@ description: Useful web services and cloud-based utilities.
 - [The Fast and the Furious Wiki | Fandom](https://fastandfurious.fandom.com/wiki/Main_Page)
 - [The Hunger Games Wiki | Fandom](https://thehungergames.fandom.com/wiki/The_Hunger_Games_Wiki)
 - [The Last of Us Wiki | Fandom](https://thelastofus.fandom.com/wiki/The_Last_of_Us_Wiki)
+- [The Library of Ohara](https://thelibraryofohara.com/)
 - [The Mad Max Wiki | Fandom](https://madmax.fandom.com/wiki/The_Road_Warrior_-_Mad_Max_Wiki)
 - [The One Wiki to Rule Them All | Fandom](https://lord-of-the-rings.fandom.com/wiki/Main_Page)
 - [The Shining Wiki | Fandom](https://theshining.fandom.com/wiki/The_Shining_Wiki)
@@ -2770,11 +2820,13 @@ description: Useful web services and cloud-based utilities.
 - [DICE | More of the shows you love](https://dice.fm/)
 - [Fever | Discover the best Events in your City and Book Tickets](https://feverup.com/en)
 - [Fiestas y Tradiciones de España](https://www.tradicionesyfiestas.com/)
+- [Google Cloud Next 2026 – Las Vegas Conference](https://www.googlecloudevents.com/next-vegas)
 - [La Noche en Blanco de La Laguna | LNB 21](https://lanocheenblanco.aytolalaguna.es/)
 - [La San Silvestre](https://lasansilvestre.com/)
 - [Lagenda](https://lagenda.org/)
 - [Ldjam.com](https://ldjam.com/)
 - [Luma - Delightful events start here](https://luma.com/)
+- [Microsoft Build, June 2-3, 2026 / San Francisco and online](https://build.microsoft.com/en-US/home)
 - [Ng-conf 2021](https://www.2021.ng-conf.org/)
 - [NYC.com | New York's Box Office](https://www.nyc.com/)
 - [Opensouthcode 2023](https://www.opensouthcode.org/conferences/opensouthcode2023)
@@ -2910,8 +2962,8 @@ description: Useful web services and cloud-based utilities.
 - [TodoColeccion](https://www.todocoleccion.net/)
 
 ### Cubing
+- ⭐ **[CubeDesk - Rubik's Cube Timer | 1v1 | Trainer](https://www.cubedesk.io/home)**
 - [csTimer](https://cstimer.net/)
-- [CubeDesk - Rubik's Cube Timer | 1v1 | Trainer](https://www.cubedesk.io/home)
 - [CubeSkills](https://www.cubeskills.com/)
 - [God's Number is 20](https://cube20.org/)
 - [Ibero Rubik](https://www.iberorubik.com/)
@@ -3064,6 +3116,7 @@ description: Useful web services and cloud-based utilities.
 - [Library Genesis](https://libgen.is/)
 - [Library of Babel](https://libraryofbabel.info/)
 - [OneSearch library](https://search.nlb.gov.sg/)
+- [OpenReview](https://openreview.net/)
 - [ProQuest](https://www.proquest.com/)
 - [RefWorks](https://refworks.proquest.com/)
 - [Scopus](https://www.scopus.com/)
@@ -3291,7 +3344,6 @@ description: Useful web services and cloud-based utilities.
 ##### SFX music
 - [ADSR Sounds](https://www.adsrsounds.com/)
 - [Airbit](https://airbit.com/)
-- [Artlist](https://artlist.io/)
 - [AudionautiX](https://audionautix.com/)
 - [Cymatics.fm](https://cymatics.fm/)
 - [Epidemic Sound - Sound Effects](https://www.epidemicsound.com/sound-effects)
@@ -3541,6 +3593,7 @@ description: Useful web services and cloud-based utilities.
 #### Design resources
 - ⭐ **[Icons8 - Free Icons, Clipart illustrations, Photos and Music](https://icons8.com/)**
 - [1001FreeDownloads](https://www.1001freedownloads.com/)
+- [bergside/design-md-chrome · GitHub](https://github.com/bergside/design-md-chrome)
 - [bookmarks.design](https://www.bookmarks.design/)
 - [Characters - Visual Library](https://characterdesignreferences.com/visual-library)
 - [Clipart.com](https://www.clipart.com/)
@@ -3711,6 +3764,7 @@ description: Useful web services and cloud-based utilities.
 - [IcoMoon](https://icomoon.io/)
 - [Icon Organizer & Icon Library](https://nucleoapp.com/)
 - [icon-icons](https://icon-icons.com/)
+- [Iconbuddy — Free and Open Source SVG icons](https://iconbuddy.com/)
 - [Iconduck](https://iconduck.com/)
 - [Iconer](https://iconer.app/)
 - [Icônes](https://icones.js.org/) / [🔗](https://github.com/antfu/icones)
@@ -3759,6 +3813,7 @@ description: Useful web services and cloud-based utilities.
 - [The Icon of](https://www.theiconof.com/search)
 - [to \[icon\]](https://www.toicon.com/)
 - [unDraw.co](https://undraw.co/)
+- [UXWing - Free icons for website with commercial use no attribution](https://uxwing.com/)
 - [Vector Logo 4U](https://vectorlogo4u.com/)
 - [Vector Logo Zone - Gorgeous SVG logos, perfect for your README or credits page](https://www.vectorlogo.zone/)
 - [Vector Portal](https://vectorportal.com/)
@@ -4253,7 +4308,7 @@ description: Useful web services and cloud-based utilities.
 - [Envoyer.io](https://envoyer.io/)
 - [GitHub Codespaces](https://github.com/features/codespaces)
 - [GitHub web editor](https://github.dev/github/dev)
-- [Gitpod.io](https://www.gitpod.io/)
+- [Gitpod.io](https://www.gitpod.io/) / [🔗](https://github.com/gitpod-io/gitpod)
 - [HyperDX - Affordable full-stack production debugging & monitoring](https://www.hyperdx.io/)
 - [RunKit is Node prototyping](https://runkit.com/home)
 - [ScriptPad](https://scriptpad.dev/)
@@ -4759,6 +4814,7 @@ description: Useful web services and cloud-based utilities.
 - ⭐ **[Zoro.to - Anime online](https://w1.zoro.se/)**
 - [Anidap - Watch Anime Online Free | English Sub/Dub in HD](https://anidap.se/)
 - [Anime News Network](https://www.animenewsnetwork.com/)
+- [Anime Slayer- موقع انمي سلاير مشاهدة وتحميل أون لاين](https://animeslayer.to/)
 - [Anime-Planet](https://www.anime-planet.com/)
 - [AnimeFire - Assistir animes online](https://animefire.net/)
 - [AnimeID](https://www.animeid.tv/)
@@ -4811,6 +4867,7 @@ description: Useful web services and cloud-based utilities.
 - [CineBolt - Stream Movies & TV Shows Online | Premium 4K Streaming](https://cinebolt.net/)
 - [Cineby](https://www.cineby.gd/)
 - [Cinemaos](https://cinemaos.tech/)
+- [Coreflix | Stream Movies & TV Shows Online](https://coreflix.tv/)
 - [CorsFlix](https://watch.corsflix.dpdns.org/)
 - [Cuevana3.ws](https://cuevana3.ws/)
 - [EE3](https://ee3.me/)
@@ -4865,6 +4922,7 @@ description: Useful web services and cloud-based utilities.
 - [pelispedia.is](https://pelispedia.is/)
 - [pelispedia.life](https://pelispedia.life/inicio)
 - [Playdede](https://playdede.nu/)
+- [PlayIMDb - Watch Movies from IMDb Instantly](https://playimdb.com/)
 - [Popcornflix](https://www.popcornflix.com/pages/discover/d/movies)
 - [Popcornflix](https://popcornflix.io/)
 - [PopcornMovies - Watch Movies & TV Shows Online Free HD](https://popcornmovies.to/home)
@@ -5064,6 +5122,7 @@ description: Useful web services and cloud-based utilities.
 - [Molotov.tv - Regarder la télé sur tous vos appareils](https://www.molotov.tv/)
 - [Movistar+](https://www.movistarplus.es/)
 - [MUBI: Watch and Discover Movies](https://mubi.com/)
+- [Muvi: Best Video Streaming Solution | On-Demand, Live, Apps & Monetization](https://www.muvi.com/)
 - [Nebula – Indie Streaming](https://nebula.tv/)
 - [Netflix - Watch TV Shows Online, Watch Movies Online](https://www.netflix.com/es-en/)
 - [NHK](https://www.nhk.or.jp/)
@@ -5340,6 +5399,7 @@ description: Useful web services and cloud-based utilities.
 - [Facebook Pay](https://pay.facebook.com/)
 - [Giropay](https://www.giropay.de/)
 - [GiveDirectly](https://www.givedirectly.org/)
+- [GNU Taler - Taxable Anonymous Libre Electronic Resources](https://www.taler.net/en/)
 - [Google Wallet](https://wallet.google/)
 - [iDEAL](https://www.ideal.nl/)
 - [Imagin bank](https://imagin.com/)
@@ -5568,9 +5628,11 @@ description: Useful web services and cloud-based utilities.
 - [Alphabetize words](https://www.alphabetize.org/)
 - [Alphabetizer.org](https://alphabetizer.org/)
 - [Flap TV - txt tools](https://www.flap.tv/)
+- [LingoJam | Make a Translator Online!](https://lingojam.com/)
 - [SmallSEOTools](https://smallseotools.com/)
 - [Sort My List - Alphabetize, Remove Line Breaks, Add Labels, Prune Text](https://sortmylist.com/)
 - [The Alphabetizer App](https://alphabetize.app/)
+- [Zalgo Text Generator - Create Glitchy Text Online](https://zalgo.org/)
 
 #### Regex
 - ⭐ **[Regex101](https://regex101.com/)**
@@ -5644,6 +5706,7 @@ description: Useful web services and cloud-based utilities.
 - [TinyWow - Free AI Writing, PDF, Image, and other Online Tools](https://tinywow.com/)
 - [Toolsley](https://www.toolsley.com/)
 - [Toolzweb](https://toolzweb.net/)
+- [Unlighthouse](https://unlighthouse.dev/) / [🔗](https://github.com/harlan-zw/unlighthouse)
 - [UrlOpener.com](https://url-opener.com/)
 - [URLOpener.net](https://urlopener.net/)
 - [Vago-Tools - Free Web Tools](https://free.vago-tools.com/home)
@@ -5657,8 +5720,8 @@ description: Useful web services and cloud-based utilities.
 
 #### Web security
 - [AmIUnique](https://amiunique.org/)
+- [Copy Fail — CVE-2026-31431](https://copy.fail/)
 - [Cover Your Tracks](https://coveryourtracks.eff.org/results?aat=1&dnt=1111&fpi_whorls=%7B%22v2%22%3A%7B%22plugins%22%3A%22permission+denied%22%2C%22hardware_concurrency%22%3A12%2C%22audio%22%3A%22124.04347527516074%22%2C%22canvas_hash_v2%22%3A%22f7bd521f8ecaba25dee1f4d4e3175fea%22%2C%22webgl_hash_v2%22%3A%229baad7fde09e8bfac122b54d655bed9f%22%7D%7D)
-- [CVE: Common Vulnerabilities and Exposures](https://www.cve.org/)
 - [Device Info](https://www.deviceinfo.me/)
 - [Have I Been Pwned](https://haveibeenpwned.com/)
 - [IETF Datatracker](https://datatracker.ietf.org/)
@@ -5738,24 +5801,27 @@ description: Useful web services and cloud-based utilities.
 - [ProSettings.net](https://prosettings.net/)
 
 #### AI Benchmark Comparator
-- ⭐ **[LiveBench](https://livebench.ai/#/)** / [🔗](https://github.com/livebench/livebench)
+- ⭐ **[Arena Leaderboard | Compare & Benchmark the Best Frontier AI Models](https://arena.ai/leaderboard)**
+- ⭐ **[LiveBench](https://livebench.ai/#/)** / [🔗](https://github.com/LiveBench/LiveBench)
 - ⭐ **[Zero GPU Spaces - a Hugging Face Space by enzostvs](https://huggingface.co/spaces/enzostvs/zero-gpu-spaces)**
-- [Arena Leaderboard | Compare & Benchmark the Best Frontier AI Models](https://arena.ai/leaderboard)
 - [Artificial Analysis - AI Model & API Providers Analysis](https://artificialanalysis.ai/)
 - [BridgeBench — AI Coding & Vibe Coding Benchmark](https://www.bridgebench.ai/)
 - [CanIRun.ai — Can your machine run AI models?](https://www.canirun.ai/)
+- [Cybench](https://cybench.github.io/) / [🔗](https://github.com/andyzorigin/cybench)
+- [CyberGym](https://www.cybergym.io/) / [🔗](https://github.com/sunblaze-ucb/cybergym)
+- [DeepSWE Benchmark: GPT vs Claude for Agentic Coding](https://deepswe.net/#opus-4-8-result)
 - [List of large language models - Wikipedia](https://en.wikipedia.org/wiki/List_of_large_language_models)
 - [LLM Explorer: A Curated Large Language Model Directory](https://llm-explorer.com/)
 - [LLM Leaderboard - Vellum](https://www.vellum.ai/llm-leaderboard)
 - [LLM Leaderboard 2025 - Model Rankings & Analysis](https://llm-stats.com/)
 - [OpenRouter - LLM Rankings](https://openrouter.ai/rankings)
 - [Price Per Toke - LLM API Pricing 2026](https://pricepertoken.com/)
+- [SWE-bench](https://www.swebench.com/)
 
 #### CPU Comparator
 - [BrowserBench.org](https://browserbench.org/)
 - [Comparación CPU, GPU](https://technical.city/es)
 - [GPUCheck](https://www.gpucheck.com/)
-- [SWE-bench](https://www.swebench.com/)
 - [UserBenchmark](https://www.userbenchmark.com/)
 - [WikiChip](https://en.wikichip.org/wiki/WikiChip)
 
@@ -6066,7 +6132,6 @@ description: Useful web services and cloud-based utilities.
 - [Enterpix | AI Art Search Engine](https://www.enterpix.app/)
 - [Freepik - Find images that speak to you](https://www.freepik.com/images)
 - [Imaiger - AI Image Search Tool For Generated Art and Images](https://imaiger.com/)
-- [OpenArt | Discover and generate AI Art](https://openart.ai/)
 - [PromptBase | Prompt Marketplace: DALL·E, Midjourney, Stable Diffusion & GPT-3](https://promptbase.com/)
 - [Same Energy | Visual Search Engine](https://same.energy/)
 

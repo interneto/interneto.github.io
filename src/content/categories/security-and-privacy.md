@@ -5,7 +5,7 @@ description: Privacy-focused services, security tools, and safe practices.
 
 # Security & Privacy
 
-**Total Bookmarks:** 306
+**Total Bookmarks:** 309
 
 - [Fight Chat Control - Protect Digital Privacy in the EU](https://fightchatcontrol.eu/)
 - [PrivacySpy: We track online privacy](https://privacyspy.org/)
@@ -134,7 +134,7 @@ description: Privacy-focused services, security tools, and safe practices.
 - ⭐ **[KeePassDX](https://keepassdx.com/)**
 - ⭐ **[KeePassXC - Password Manager](https://keepassxc.org/)** / [🔗](https://github.com/keepassxreboot/keepassxc)
 - [1Password - Password Manager for Families, Businesses, Teams](https://1password.com/)
-- [AliasVault](https://www.aliasvault.net/)
+- [AliasVault](https://www.aliasvault.net/) / [🔗](https://github.com/aliasvault/aliasvault)
 - [Argon2](https://www.argon2.com/) / [🔗](https://github.com/P-H-C/phc-winner-argon2)
 - [arsvechkarev/Vault: Simple, fast, secure password manager](https://github.com/arsvechkarev/Vault)
 - [AuthPass](https://authpass.com/)
@@ -172,6 +172,7 @@ description: Privacy-focused services, security tools, and safe practices.
 - [Pass - The Standard Unix Password Manager](https://www.passwordstore.org/)
 - [Passbolt](https://www.passbolt.com/)
 - [Passpack](https://www.passpack.com/)
+- [PassQuantum — Post-Quantum Password Manager](https://esh2007.github.io/PassQuantum-web/) / [🔗](https://github.com/ESH2007/PassQuantum)
 - [Passwall](https://signup.passwall.io/)
 - [Password data safe](https://passwordsafe.app/)
 - [Password Manager SafeInCloud](https://www.safe-in-cloud.com/en/)
@@ -197,6 +198,7 @@ description: Privacy-focused services, security tools, and safe practices.
 
 ## Security & Testing
 - [C2Matrix](https://docs.google.com/spreadsheets/d/1b4mUxa6cDQuTV2BPC6aA-GR4zGZi0ooPYtBe4IgPsSc/edit?pli=1&gid=0#gid=0)
+- [cilock — Build provenance, signed scan evidence, continuous compliance](https://cilock.aflock.ai/) / [🔗](https://github.com/aflock-ai/rookery)
 - [Firejail](https://firejail.wordpress.com/)
 - [OATH Toolkit](https://oath-toolkit.codeberg.page/)
 - [Proton - Data Breach Observatory](https://proton.me/business/pass/breach-observatory)
@@ -281,6 +283,7 @@ description: Privacy-focused services, security tools, and safe practices.
 - [Netmaker: Wireguard VPN & Software Defined Networking](https://www.netmaker.io/)
 - [NordVPN - The best online VPN service for speed and security](https://nordvpn.com/)
 - [Nym | The Next Generation of Privacy Infrastructure](https://nymtech.net/)
+- [Obscura VPN | Privacy that’s more than a promise](https://obscura.com/)
 - [Obscura VPN | Privacy that’s more than a promise](https://obscura.net/)
 - [OpenVPN](https://openvpn.net/)
 - [Orbot - Tor for Mobile](https://orbot.app/en/) / [🔗](https://github.com/guardianproject/orbot-android)

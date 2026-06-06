@@ -5,7 +5,7 @@ description: Games, emulation, launchers, and gaming utilities.
 
 # Gaming
 
-**Total Bookmarks:** 714
+**Total Bookmarks:** 723
 
 - [2048 - Apps on Google Play](https://play.google.com/store/apps/details?id=com.tpcstld.twozerogame)
 - [Anuken/Mindustry: The automation tower defense RTS](https://github.com/Anuken/Mindustry)
@@ -77,6 +77,7 @@ description: Games, emulation, launchers, and gaming utilities.
 - [Yo Frankie! – Apricot Open Game Project](https://apricot.blender.org/)
 
 ## Arcade
+- [Akinator the Genie :: Elokence](https://www.elokence.com/content/akinator-the-genie)
 - [Antstream Arcade: Play over 1300 Classic Retro Video Games](https://www.antstream.com/)
 - [Cookie Consent Speed.Run](https://cookieconsentspeed.run/)
 - [DOS Zone | DOS games in browser](https://dos.zone/)
@@ -240,6 +241,7 @@ description: Games, emulation, launchers, and gaming utilities.
 - [Kern Type](https://type.method.ac/)
 - [Librerama](https://librerama.codeberg.page/play.html)
 - [Mental Math](https://mental-math.codeberg.page/)
+- [Play John Conway’s Game of Life](https://playgameoflife.com/)
 - [Ralex91/Rahoot: Rahoot is a self-hosted and open-source Kahoot! clone platform, designed for smaller events.](https://github.com/Ralex91/Rahoot)
 - [Shape Type](https://shape.method.ac/)
 - [The Bézier Game - Method.ac](https://bezier.method.ac/)
@@ -275,10 +277,12 @@ description: Games, emulation, launchers, and gaming utilities.
 - [Tynker](https://www.tynker.com/)
 - [Untrusted - javascript adventure game](https://alexnisnevich.github.io/untrusted/)
 - [VIM Adventures](https://vim-adventures.com/)
+- [Vim Royale](https://www.vimroyale.com/)
 
 ### Geographic games
 - ⭐ **[GeoGuessr - Let's explore the world!](https://www.geoguessr.com/)**
 - ⭐ **[Geoguessr - Seterra (The Ultimate Map Quiz Site)](https://www.geoguessr.com/quiz/seterra)**
+- ⭐ **[Human Phenotypes](http://humanphenotypes.net/)**
 - [Back Of Your Hand](https://backofyourhand.com/game?difficulty=taxi-driver&lat=28.4719&lng=-16.2541&numberOfQuestions=5&radius=2000)
 - [City Guesser - Can you guess what city you're in?](https://virtualvacation.us/guess)
 - [Ekvis - Learn Languages And Geography](https://ekvis.com/)
@@ -291,7 +295,6 @@ description: Games, emulation, launchers, and gaming utilities.
 - [Globe Quiz](https://globequiz.com/)
 - [Globle](https://globle-game.com/)
 - [Hide & Seek World: Online Multiplayer Street View Game](https://hideandseek.world/)
-- [Human Phenotypes](http://humanphenotypes.net/)
 - [LanguageGuessr](https://languageguessr.io/)
 - [Lizard Point Quizzes](https://lizardpoint.com/)
 - [MapCrunch - Random Street View](https://www.mapcrunch.com/)
@@ -386,6 +389,7 @@ description: Games, emulation, launchers, and gaming utilities.
 - [NVIDIA GeForce Experience](https://www.nvidia.com/es-es/geforce/geforce-experience/)
 - [Origin Client](https://www.origin.com/esp/en-us/store/download)
 - [Pegasus Frontend](https://pegasus-frontend.org/)
+- [PlayNest – Connect Accounts, Track Games & View Stats](https://playnest.dev/)
 - [Playnite - video game library manager](https://playnite.link/) / [🔗](https://github.com/JosefNemec/Playnite)
 - [PolyMC](https://polymc.org/)
 - [Prism Launcher](https://prismlauncher.org/)
@@ -399,6 +403,7 @@ description: Games, emulation, launchers, and gaming utilities.
 - [Ultimate launcher](https://ultimatelauncher.com/)
 - [WebMC](https://webmc.xyz/)
 - [xiv.zone - Astra](https://xiv.zone/astra/)
+- [Zalith Launcher](https://www.zalithlauncher.cn/en/) / [🔗](https://github.com/ZalithLauncher/ZalithLauncher2)
 
 ### Games Guides
 - [Alto's Odyssey Tips & Tricks](https://www.imore.com/altos-odyssey-tips-and-tricks-help-you-escape-lemurs-ride-walls-over-chasms-and-more)
@@ -420,6 +425,7 @@ description: Games, emulation, launchers, and gaming utilities.
 - [All mods | Thunderstore - The Risk of Rain 2 Mod Database](https://thunderstore.io/)
 - [Cheat Engine](https://www.cheatengine.org/)
 - [CurseForge](https://www.curseforge.com/)
+- [CurseForge - Minecraft Mods & Modpacks](https://www.curseforge.com/minecraft)
 - [Despistaos RP](https://despistaos.es/)
 - [ebkr/r2modmanPlus: A simple and easy to use mod manager for several games using Thunderstore](https://github.com/ebkr/r2modmanPlus)
 - [FiveM](https://fivem.net/)
@@ -434,6 +440,7 @@ description: Games, emulation, launchers, and gaming utilities.
 - [Nexus-Mods/Vortex: Vortex Development](https://github.com/Nexus-Mods/Vortex)
 - [OpenIV - The ultimate modding tool for GTA](https://openiv.com/)
 - [Platinmods.com - Android & iOS MODs, Mobile Games & Apps](https://platinmods.com/)
+- [RedM](https://redm.net/)
 - [RedM](https://redm.gg/)
 - [Redmodding](https://redmodding.org/)
 - [Terra 1 to 1 - Mods](https://www.curseforge.com/minecraft/mc-mods/terra-1-to-1-minecraft-world-project)
@@ -460,6 +467,7 @@ description: Games, emulation, launchers, and gaming utilities.
 
 ### Game Server
 - [40servidoresmc](https://www.40servidoresmc.es/)
+- [Calagopus - Open-Source Game Server Management Panel](https://calagopus.com/) / [🔗](https://github.com/calagopus/panel)
 - [CatServer](https://catmc.org/)
 - [Cuberite - A lightweight, fast and extensible game server for Minecraft](https://cuberite.org/)
 - [EngineHub](https://enginehub.org/)
@@ -690,7 +698,7 @@ description: Games, emulation, launchers, and gaming utilities.
 - [Lincity - A City Simulation Game](https://lincity.sourceforge.net/)
 - [Microsoft Flight Simulator](https://www.flightsimulator.com/)
 - [Minetest - Open source voxel game engine](https://www.minetest.net/)
-- [NOBOOK Virtual Laboratory](https://chemistry-en.nobook.com/console/templates/resource)
+- [NetHack](https://www.nethack.org/)
 - [OpenCity, another 3D city simulator](http://www.opencity.info/)
 - [OpenRCT2](https://openrct2.org/)
 - [OpenRCT2](https://openrct2.io/)
@@ -790,6 +798,7 @@ description: Games, emulation, launchers, and gaming utilities.
 ## Word
 - [Juego de Basta!](https://bastaonline.net/)
 - [Jugar Scattergories](https://www.jugarscattergories.com/)
+- [Three Letters Game](https://threelettersgame.com/)
 - [Wordle Game](https://wordlegame.org/)
 - [Wordle Play](https://wordleplay.com/)
 - [Wordle.today](https://wordle.today/)

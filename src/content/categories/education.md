@@ -5,7 +5,7 @@ description: Courses, references, and learning platforms across topics.
 
 # Education
 
-**Total Bookmarks:** 1275
+**Total Bookmarks:** 1297
 
 - [Academia Lab](https://academia-lab.com/)
 - [DosisPedia](https://dosispedia.com/)
@@ -508,7 +508,7 @@ description: Courses, references, and learning platforms across topics.
 - [Freelang Dictionary](https://www.freelang.net/dictionary/index.php)
 - [OneLook Dictionary](https://www.onelook.com/)
 - [Online Etymology Dictionary](https://www.etymonline.com/)
-- [Open English WordNet](https://en-word.net/)
+- [Open English WordNet](https://en-word.net/) / [🔗](https://github.com/globalwordnet/english-wordnet)
 - [Oxford English Dictionary](https://www.oed.com/)
 - [Oxford Learner's Dictionaries](https://www.oxfordlearnersdictionaries.com/)
 - [Princeton WordNet](https://wordnetcode.princeton.edu/?C=M;O=D)
@@ -534,6 +534,7 @@ description: Courses, references, and learning platforms across topics.
 - [Diccionario Canario o Habla Canaria | Un fisquito de Canario, por favor ...](https://guanchipedia.com/diccionario-canario-de-guanchipedia/)
 - [Diccionario de la lengua española](https://dle.rae.es/)
 - [Diccionario de uso del español - María Moliner | VK](https://vk.com/wall-57851681_3396)
+- [Diccionario del español actual de Manuel Seco: nueva edición digital](https://www.fbbva.es/diccionario/)
 - [Diccionario del español de México](https://dem.colmex.mx/)
 - [Diccionario Enciclopédico Español](https://www.definiciones-de.com/)
 - [Diccionario histórico de la lengua española](https://apps.rae.es/CNDHE/org/publico/pages/consulta/entradaCompleja.view)
@@ -543,6 +544,7 @@ description: Courses, references, and learning platforms across topics.
 - [Dirae](https://dirae.es/)
 - [Frases y Citas en Latín - dechile.net](https://latin.dechile.net/)
 - [Palabras que](https://www.palabrasque.com/)
+- [RAE API - Diccionario RAE](https://rae-api.com/)
 - [SignificadoDe](https://www.significadode.org/palabras.htm)
 - [SM Diccionarios](http://clave.smdiccionarios.com/app.php)
 - [Wiktionary es - Wikimedia](https://dumps.wikimedia.org/eswiktionary/)
@@ -554,17 +556,22 @@ description: Courses, references, and learning platforms across topics.
 - [Abbreviations and acronyms dictionary](https://www.acronymfinder.com/)
 - [All Acronyms](https://www.allacronyms.com/)
 - [Branah | Type in your language](https://www.branah.com/)
+- [Chinese Open Wordnet (cow)](https://bond-lab.github.io/cow/)
 - [English Grammar Online - EGO](https://www.ego4u.com/)
+- [FrameNet - Berkeley](https://framenet.icsi.berkeley.edu/frames)
+- [Global WordNet Association](https://globalwordnet.github.io/resources/wordnets-in-the-world)
 - [Lenguaje español](https://www.lenguaje.com/)
 - [Lexico.com](https://www.lexico.com/)
 - [Lexipedia](https://www.lexipedia.com/)
 - [Macroscope - Analysis of languages](https://macroscope.tech/wordanalysis?searchTerm=%22%22&settings=%7B%22sentimentSettingsPanel%22%3A%7B%22isOpen%22%3Atrue%2C%22settings%22%3A%7B%22type%22%3A%22VALENCE%22%7D%7D%2C%22frequencySettingsPanel%22%3A%7B%22isOpen%22%3Atrue%2C%22settings%22%3A%7B%7D%7D%2C%22synonymListSettingsPanel%22%3A%7B%22isOpen%22%3Afalse%2C%22settings%22%3A%7B%22year%22%3A1990%2C%22numberOfSynonyms%22%3A5%2C%22method%22%3A%22SGNS%22%7D%7D%2C%22synonymNetworkSettingsPanel%22%3A%7B%22isOpen%22%3Afalse%2C%22settings%22%3A%7B%22year%22%3A1990%2C%22synonymsPerTarget%22%3A5%2C%22similarityThreshold%22%3A0.7%7D%7D%2C%22contextNetworkSettingsPanel%22%3A%7B%22isOpen%22%3Afalse%2C%22settings%22%3A%7B%22year%22%3A2000%2C%22maximumNodes%22%3A50%2C%22contextRelevance%22%3A0.55%2C%22contextCohesiveness%22%3A0.55%2C%22individualWordRelevance%22%3A3%2C%22minimumEdges%22%3A5%2C%22displayNodes%22%3A110%2C%22method%22%3A%22COR%22%7D%7D%2C%22semanticDriftSettingsPanel%22%3A%7B%22isOpen%22%3Afalse%2C%22settings%22%3A%7B%7D%7D%2C%22contextChangeSettingsPanel%22%3A%7B%22isOpen%22%3Afalse%2C%22settings%22%3A%7B%22startYear%22%3A1800%2C%22endYear%22%3A2000%2C%22numberOfContextWords%22%3A20%7D%7D%7D)
 - [Moby Thesaurus](https://moby-thesaurus.org/)
+- [own-pt/openWordnet-PT: OpenWordnet-PT: an open access wordnet for Portuguese](https://github.com/own-pt/openWordnet-PT)
 - [Pealim - Hebrew](https://www.pealim.com/)
 - [Power Thesaurus](https://www.powerthesaurus.org/)
 - [Refine](https://refine.sh/)
 - [Relatedwords](https://relatedwords.org/)
 - [RhymeZone](https://www.rhymezone.com/)
+- [Salah-Sal/arabic-wordnet-v4: Arabic WordNet 4.0 · GitHub](https://github.com/Salah-Sal/arabic-wordnet-v4)
 - [Sinónimo.es](https://www.xn--sinnimo-n0a.es/)
 - [Sinónimos Online](https://www.sinonimosonline.com/)
 - [Synoniemen.net](https://synoniemen.net/)
@@ -574,6 +581,7 @@ description: Courses, references, and learning platforms across topics.
 - [Verbix verb conjugator](https://www.verbix.com/)
 - [Vocabulary.com](https://www.vocabulary.com/)
 - [WordHippo](https://www.wordhippo.com/)
+- [Wordnet List - Cygnet — A Network of Signs](https://cygnet.maudslay.eu/#/wordnets)
 - [WordType.org](https://wordtype.org/)
 
 ### How to pronounce
@@ -592,6 +600,7 @@ description: Courses, references, and learning platforms across topics.
 - [david-swift/Memorize: Study flashcards in a native GNOME app](https://github.com/david-swift/Memorize)
 - [Dekki](https://www.dekki.ai/)
 - [Mochi — Spaced repetition made easy](https://mochi.cards/)
+- [Quizfreely: Free & Open Source Studying Tool](https://quizfreely.org/) / [🔗](https://github.com/quizfreely/quizfreely)
 - [Studying - done the correct way](https://scholarsome.com/)
 - [studylib.net - Essays, homework help, flashcards, research papers, book reports, and others](https://www.studylib.net/)
 - [wbernard/Memorado: Memorize anything](https://github.com/wbernard/Memorado)
@@ -634,6 +643,7 @@ description: Courses, references, and learning platforms across topics.
 - [Language Transfer](https://www.languagetransfer.org/)
 - [Learn a Language](https://www.learnalanguage.com/)
 - [Learn French](https://www.tolearnfrench.com/)
+- [Lexi Explorer](https://lexiexplorer.com/)
 - [Loecsen / Online languages](https://www.loecsen.com/en)
 - [My Languages](https://www.mylanguages.org/)
 - [PushkinOnline - Learn russian](https://pushkininstitute.ru/learn?locale=es)
@@ -779,6 +789,7 @@ description: Courses, references, and learning platforms across topics.
 - [Rezandovoy - Rezandovoy](https://www.rezandovoy.org/)
 
 ### Bible
+- ⭐ **[Bolls Bible](https://bolls.life/YLT/1/1/)**
 - [Bible](https://www.bible.com/)
 - [Bible 365](https://bible365.uk/)
 - [Bible Gateway - 12 NIV](https://www.biblegateway.com/passage/?search=12&version=NIV)
@@ -791,7 +802,6 @@ description: Courses, references, and learning platforms across topics.
 - [Biblia Paralela](https://bibliaparalela.com/)
 - [BibliaTodo](https://www.bibliatodo.com/es)
 - [Blue Letter Bible](https://www.blueletterbible.org/)
-- [Bolls Bible](https://bolls.life/YLT/1/1/)
 - [Bolls Bible](https://bolls.life/)
 - [Die Bibel](https://www.toledot.info/die-welt-der-bibel.php?t=main)
 - [Documenta Latina](https://www.vatican.va/latin/latin_index.html)
@@ -882,10 +892,12 @@ description: Courses, references, and learning platforms across topics.
 - ⭐ **[DevDocs.io](https://devdocs.io/)**
 - ⭐ **[Devhints](https://devhints.io/)** / [🔗](https://github.com/rstacruz/cheatsheets)
 - ⭐ **[Linux Commands Library](https://linuxcommandlibrary.com/)**
+- ⭐ **[The OSI-Model in a simple way](https://osi-model.com/)**
 - [.NET Academy](https://dotnetcademy.net/)
 - [30 seconds of code](https://www.30secondsofcode.org/)
 - [100 Exercises To Learn Rust](https://rust-exercises.com/)
 - [Abrirllave](https://www.abrirllave.com/)
+- [alg0.dev - Algorithm Visualizer](https://www.alg0.dev/) / [🔗](https://github.com/midudev/alg0.dev)
 - [Aprenderaprogramar](https://aprenderaprogramar.com/)
 - [ASCII Codes](https://ascii.cl/)
 - [Ask Python](https://www.askpython.com/)
@@ -964,7 +976,6 @@ description: Courses, references, and learning platforms across topics.
 - [QuickRef.ME - Quick Reference Cheat Sheet](https://quickref.me/)
 - [React Cheat Sheet](https://reactcheatsheet.com/)
 - [Refactoring and Design Patterns](https://refactoring.guru/)
-- [RFC Editor](https://www.rfc-editor.org/)
 - [RipTutorial](https://riptutorial.com/)
 - [SoloLearn](https://www.sololearn.com/en)
 - [Spck Editor - Explore Labs](https://spck.io/)
@@ -979,7 +990,6 @@ description: Courses, references, and learning platforms across topics.
 - [Terminal de Linux](https://terminaldelinux.com/)
 - [TeXample.net](https://texample.net/)
 - [The DotNet Guide](https://thedotnetguide.com/)
-- [The OSI-Model in a simple way](https://osi-model.com/)
 - [The Web Platform: HTML5](https://platform.html5.org/)
 - [Three.js Fundamentals](https://threejsfundamentals.org/)
 - [Tutlane](https://www.tutlane.com/)
@@ -996,11 +1006,11 @@ description: Courses, references, and learning platforms across topics.
 - [web.resource.org](https://web.resource.org/)
 
 ##### Machine Learning
+- ⭐ **[Distill](https://distill.pub/)**
 - [ACL Anthology](https://aclanthology.org/)
 - [Algorithmia](https://algorithmia.com/)
 - [Alias-i, Inc.](http://www.alias-i.com/)
 - [Deep Learning](https://www.deeplearningbook.org/)
-- [Distill](https://distill.pub/)
 - [Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn)
 - [fast.ai](https://www.fast.ai/)
 - [GLUE Benchmark](https://gluebenchmark.com/)
@@ -1131,6 +1141,7 @@ description: Courses, references, and learning platforms across topics.
 - [Geometría dinámica](https://www.geometriadinamica.es/)
 - [Gitit.net](https://gitit.net/)
 - [House of Graphs](https://hog.grinvin.org/)
+- [Immersive Math](https://immersivemath.com/ila/index.html)
 - [Integrales Irracionales](http://www.estadistica.net/Algoritmos2/2irracionales.html)
 - [Interactive Mathematics](https://www.intmath.com/)
 - [IXL | Ejercicios de Matemáticas](https://es.ixl.com/)
@@ -1177,6 +1188,7 @@ description: Courses, references, and learning platforms across topics.
 - [HyperPhysics Concepts](http://hyperphysics.phy-astr.gsu.edu/hbase/index.html)
 - [La web de Física](https://www.lawebdefisica.com/)
 - [Laplace - Física US](http://laplace.us.es/wiki/index.php/P%C3%A1gina_Principal)
+- [oPhysics](https://ophysics.com/)
 - [Paul Falstad](https://www.falstad.com/)
 - [PhotoVoltaic Education](https://www.pveducation.org/)
 - [Physclips UNSW](https://www.animations.physics.unsw.edu.au/)
@@ -1287,13 +1299,23 @@ description: Courses, references, and learning platforms across topics.
 - [Psychology Today](https://www.psychologytoday.com/us)
 
 ## Simulator
+- [3D Conway's Game of Life](https://rbeaulieu.github.io/3DGameOfLife/3DGameOfLife.html) / [🔗](https://github.com/RBeaulieu/3DGameOfLife)
 - [Airplane Simulation - Walter Bislins](https://walter.bislins.ch/bloge/index.asp?page=Airplane+Simulation+%28Version+1%29)
+- [Cellular Automata Laboratory](https://www.fourmilab.ch/cellab/webca/)
+- [Conway's Game of Life - Google Play Store](https://play.google.com/store/apps/details?id=com.jobik.gameoflife) / [🔗](https://github.com/Efimj/GameOfLife)
+- [daneelsan/Wireworld: a Turing-complete cellular automaton suited for simulating logic gates and other real-world computer elements](https://github.com/daneelsan/Wireworld)
+- [DigiSim — Digital logic, taught and built. Gate to 8-bit CPU.](https://digisim.io/)
 - [eCalc - reliable electric drive simulations](https://www.ecalc.ch/)
+- [gabe565/cli-of-life: Play Conway's Game of Life in your terminal](https://github.com/gabe565/cli-of-life)
+- [Game of Life 3D](https://creetah.com/game-of-life)
+- [Golly Game of Life](https://golly.sourceforge.io/) / [🔗](https://sourceforge.net/projects/golly/)
 - [JaamSim Pro](https://www.jaamsimpro.com/)
 - [NI - LabVIEW](https://www.ni.com/en/shop/labview.html)
+- [NOBOOK Virtual Laboratory](https://chemistry-en.nobook.com/console/templates/resource)
 - [OpenRocket Simulator](https://openrocket.info/) / [🔗](https://github.com/openrocket/openrocket)
 - [PhET Simulations - University of Colorado Boulder](https://phet.colorado.edu/en/simulations/filter)
 - [Pražský Orloj - Prague Astronomical Clock Simulator](https://orloj.org/orloj/)
+- [simulator.io - Build and simulate logic circuits](https://simulator.io/)
 - [swarm-subnet/Langostino: An open-source autonomous drone platform using ROS2 and AI-powered flight control](https://github.com/swarm-subnet/Langostino)
 
 ### Optical simulator
@@ -1362,6 +1384,7 @@ description: Courses, references, and learning platforms across topics.
 ## Translator
 - ⭐ **[DeepL Translator](https://www.deepl.com/translator)**
 - ⭐ **[Dialect](https://dialectapp.org/)**
+- ⭐ **[SpanishDict](https://www.spanishdict.com/)**
 - [Apertium](https://apertium.org/index.eng.html#?dir=eng-epo&q=)
 - [Babelfish.com](https://www.babelfish.com/)
 - [Babylon Software](https://www.babylon-software.com/)
@@ -1404,7 +1427,6 @@ description: Courses, references, and learning platforms across topics.
 - [S3.Translator](https://www.s3blog.org/s3translator.html)
 - [So Fanyi](https://fanyi.so.com/)
 - [Spanish-English Dictionary](https://spanishdictionary.cc/)
-- [SpanishDict](https://www.spanishdict.com/)
 - [SpanishDict (ingles.com)](https://www.ingles.com/)
 - [Systran Translate](https://translate.systran.net/translationTools/text)
 - [Systransoft Translator](https://www.systransoft.com/translate/)

@@ -46,7 +46,8 @@ function renderItems(lines, items) {
 function renderChildren(lines, children, level) {
   for (const [name, node] of children) {
     lines.push('')
-    lines.push(`${'#'.repeat(level)} ${escapeMd(name)}`)
+    // Markdown supports at most 6 heading levels; deeper nesting falls back to bold.
+    lines.push(level <= 6 ? `${'#'.repeat(level)} ${escapeMd(name)}` : `**${escapeMd(name)}**`)
     renderItems(lines, node.items)
     renderChildren(lines, node.children, level + 1)
   }

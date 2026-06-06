@@ -5,7 +5,7 @@ description: Productivity suites, note-taking, planning, and office tools.
 
 # Office & Productivity
 
-**Total Bookmarks:** 1025
+**Total Bookmarks:** 1034
 
 - ⭐ **[Hotkey Cheatsheet - Improve Your Productivity with Keyboard Shortcuts](https://hotkeycheatsheet.com/)**
 - [Boosted](https://www.boostedproductivity.com/)
@@ -313,7 +313,6 @@ description: Productivity suites, note-taking, planning, and office tools.
 
 ### Data visualization
 - ⭐ **[Gephi.org](https://gephi.org/)**
-- ⭐ **[Gource - a software version control visualization tool](https://gource.io/)**
 - ⭐ **[PlotAPI | Beautiful visualization, made easy](https://plotapi.com/)** / [🔗](https://github.com/shahinrostami/chord)
 - ⭐ **[Wandora app](http://wandora.org/www/)**
 - ⭐ **[yWorks](https://www.yworks.com/)**
@@ -363,6 +362,7 @@ description: Productivity suites, note-taking, planning, and office tools.
 - [BigML](https://bigml.com/)
 - [CelebFaces Dataset](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
 - [CKAN - The open source data management system](https://ckan.org/) / [🔗](https://github.com/ckan/ckan)
+- [Data Package](https://datapackage.org/) / [🔗](https://github.com/frictionlessdata/datapackage)
 - [Data Portals](https://www.datacatalogs.org/search)
 - [Database Hub](https://www.back4app.com/database)
 - [Datafiniti](https://datafiniti.co/)
@@ -370,6 +370,7 @@ description: Productivity suites, note-taking, planning, and office tools.
 - [GetData.IO](https://getdata.io/)
 - [Google Dataset Search](https://datasetsearch.research.google.com/)
 - [Harvard Dataverse](https://dataverse.harvard.edu/)
+- [jiweibo/ImageNet: This implements training of popular model architectures, such as AlexNet, ResNet and VGG on the ImageNet dataset](https://github.com/jiweibo/ImageNet)
 - [JRC Data Catalogue - EU](https://data.jrc.ec.europa.eu/)
 - [KDnuggets - Dataset](https://www.kdnuggets.com/datasets/index.html)
 - [LAION](https://laion.ai/)
@@ -388,6 +389,11 @@ description: Productivity suites, note-taking, planning, and office tools.
 - [Unidata app](https://unidata.app/)
 - [Webscope | Yahoo Labs](https://webscope.sandbox.yahoo.com/)
 - [Wolfram Data Repository](https://datarepository.wolframcloud.com/)
+
+### Software Repository Visualization
+- ⭐ **[Gource - a software version control visualization tool](https://gource.io/)** / [🔗](https://github.com/acaudwell/Gource)
+- [Git History](https://githistory.xyz/)
+- [unhappychoice/gitlogue: A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story](https://github.com/unhappychoice/gitlogue)
 
 ## Email Marketing Services
 - [BatchLeads - Real Estate Investing Software Made Simple](https://batchleads.io/)
@@ -450,6 +456,7 @@ description: Productivity suites, note-taking, planning, and office tools.
 - [Splitser.com | Divide and settle expenses in the app](https://splitser.com/)
 - [Summit - Open Source Invoicing & Finance App](https://summitfinance.app/)
 - [teelur/budget-board: A simple app for tracking monthly spending and working towards financial goals](https://github.com/teelur/budget-board)
+- [tomfunk/fungible: Terminal UI for personal finance — Plaid sync, CSV import, AI assistant, and MCP server](https://github.com/tomfunk/fungible)
 - [Tricount - Organize group expenses](https://www.tricount.com/)
 - [Wallet by BudgetBakers - Your New Personal Finance Manager](https://budgetbakers.com/)
 - [Wealthfolio | Desktop Investment Tracker](https://wealthfolio.app/)
@@ -585,7 +592,7 @@ description: Productivity suites, note-taking, planning, and office tools.
 - [FiiNote](https://www.fiinote.com/#/)
 - [Flexcil - The best study toolkit for both PDF reader and note taking](https://www.flexcil.com/)
 - [Foam Bubble](https://foambubble.github.io/)
-- [FSNotes App](https://fsnot.es/)
+- [FSNotes App](https://fsnot.es/) / [🔗](https://github.com/glushchenko/fsnotes)
 - [genei.io](https://www.genei.io/)
 - [Ghostnote](https://www.ghostnoteapp.com/)
 - [Ginger Labs](https://www.gingerlabs.com/)
@@ -601,6 +608,7 @@ description: Productivity suites, note-taking, planning, and office tools.
 - [Jira | Atlassian](https://www.atlassian.com/software/jira)
 - [Joplin](https://joplinapp.org/) / [🔗](https://github.com/laurent22/joplin)
 - [JotterPad.app](https://jotterpad.app/)
+- [jsgrrchg/NeverWrite: The bastard son between Cursor and Obsidian](https://github.com/jsgrrchg/NeverWrite) / [🔗](https://github.com/jsgrrchg/NeverWrite)
 - [Kanopi.io](https://kanopi.io/)
 - [KDE Marknote](https://apps.kde.org/marknote/) / [🔗](https://invent.kde.org/office/marknote)
 - [Keepmark - Documents Manager](https://keepmark.io/en/)
@@ -632,6 +640,7 @@ description: Productivity suites, note-taking, planning, and office tools.
 - [Nebo](https://www.nebo.app/)
 - [NeuraCache](https://neuracache.com/)
 - [Neuron Zettelkasten](https://neuron.zettel.page/)
+- [NeverWrite — Write, think, and build with AI that asks before it changes](https://neverwrite.app/) / [🔗](https://github.com/jsgrrchg/NeverWrite)
 - [Nota.md](https://nota.md/)
 - [Notability](https://notability.com/)
 - [Notable.app](https://notable.app/)
@@ -904,6 +913,7 @@ description: Productivity suites, note-taking, planning, and office tools.
 - [Apploye - Next Generation Employee Productivity Platform](https://apploye.com/)
 - [Baserow - Open source no-code database](https://baserow.io/)
 - [Bonsai](https://www.hellobonsai.com/)
+- [Box - Secure, AI-Powered Content Management, Workflow & Collaboration](https://www.box.com/home)
 - [Bugzilla](https://www.bugzilla.org/)
 - [ClickUp](https://clickup.com/)
 - [Command E](https://getcommande.com/)
@@ -947,6 +957,7 @@ description: Productivity suites, note-taking, planning, and office tools.
 - [tillywork - Work management for all your teams](https://tilly.work/)
 - [TIMIFY](https://www.timify.com/en-gb)
 - [Walling - Organize & Present Your Ideas](https://walling.app/)
+- [Worklog — Local-first Desktop Project Manager](https://regisx001.github.io/Worklog/) / [🔗](https://regisx001.github.io/Worklog/)
 - [Wrike](https://www.wrike.com/)
 - [Wrike | Versatile & Robust Project Management Software](https://www.wrike.com/vx/)
 - [Zenkit Projects](https://zenkit.com/)
@@ -1046,10 +1057,10 @@ description: Productivity suites, note-taking, planning, and office tools.
 - [TextSniper](https://textsniper.app/)
 
 ### OMR
+- ⭐ **[Audiveris/audiveris: Latest generation of Audiveris OMR engine](https://github.com/Audiveris/audiveris)**
 - ⭐ **[Sheet Music Manager - Convert Music to MusicXML](https://www.sheetmusictranscriber.com/)**
 - ⭐ **[Sheet Music Scanner | SCANSCORE Sheet Music Scanning Software](https://scan-score.com/en/)**
 - [aashrafh/Mozart: An optical music recognition (OMR) system. Converts sheet music to a machine-readable version.](https://github.com/aashrafh/Mozart)
-- [Audiveris/audiveris: Latest generation of Audiveris OMR engine](https://github.com/Audiveris/audiveris)
 - [BreezeWhite/oemer: End-to-end Optical Music Recognition (OMR) system. Transcribe phone-taken music sheet image into MusicXML, which can be edited and converted to MIDI.](https://github.com/BreezeWhite/oemer)
 - [MUSITEK - Music Scanning Software](https://www.musitek.com/)
 - [Newzik – Beyond Sheet Music](https://newzik.com/en/)

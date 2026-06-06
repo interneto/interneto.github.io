@@ -5,7 +5,7 @@ description: Admin tooling for servers, networking, and infrastructure.
 
 # Sys Admin
 
-**Total Bookmarks:** 1168
+**Total Bookmarks:** 1187
 
 - [osquery](https://osquery.io/)
 - [PIVPN: Simplest way to setup a VPN](https://pivpn.io/)
@@ -32,6 +32,7 @@ description: Admin tooling for servers, networking, and infrastructure.
 - [Jenkins](https://www.jenkins.io/)
 - [Keyboard Maestro](https://www.keyboardmaestro.com/main/)
 - [Microsoft - Power Automate](https://powerautomate.microsoft.com/en-us/)
+- [Mouzi - Intelligent File Organizer](https://mouzi.cc/) / [🔗](https://github.com/hsr88/mouzi)
 - [Mutate - Qdore](https://github.com/qdore/Mutate)
 - [Node-RED - Low-code programming for event-driven applications](https://nodered.org/)
 - [Puppet](https://puppet.com/)
@@ -68,6 +69,9 @@ description: Admin tooling for servers, networking, and infrastructure.
 - [QiPress](http://aalapshah.in/qipress)
 - [ScreenKey](https://www.thregr.org/~wavexx/software/screenkey/)
 - [YetAnotherKeyDisplayer](https://github.com/Jagailo/YetAnotherKeyDisplayer)
+
+## Battery Monitor
+- [BudsLink](https://maniacx.github.io/BudsLink/) / [🔗](https://github.com/maniacx/BudsLink)
 
 ## Booteable ISO
 - ⭐ **[netboot.xyz - Your favorite operating systems in one place](https://netboot.xyz/)**
@@ -110,6 +114,7 @@ description: Admin tooling for servers, networking, and infrastructure.
 - [DaisyDisk](https://daisydiskapp.com/)
 - [DVDStyler](https://www.dvdstyler.org/en/)
 - [E2fsprogs: Ext2 Filesystem Utilities](http://e2fsprogs.sourceforge.net/)
+- [FileBricks — Free Visual Disk Space Analyzer & Duplicate File Finder for Windows](https://www.tkosoft.com/products/filebricks)
 - [GNOME / gnome-disk-utility · GitLab](https://gitlab.gnome.org/GNOME/gnome-disk-utility)
 - [GParted](https://gparted.org/)
 - [GSmartControl · Hard disk drive and SSD health inspection tool](https://gsmartcontrol.shaduri.dev/)
@@ -146,6 +151,7 @@ description: Admin tooling for servers, networking, and infrastructure.
 - [Iperius Backup](https://www.iperiusbackup.com/index.aspx)
 - [iSeePassword Studio](https://www.iseepassword.com/)
 - [ostafen/digler: Digler is a tool for forensic disk analysis and file recovery. It's designed to help you unearth lost or deleted data from various disk images and raw devices.](https://github.com/ostafen/digler)
+- [Partition Recovery and File Undelete](https://www.cgsecurity.org/wiki/TestDisk) / [🔗](https://github.com/cgsecurity/testdisk)
 - [PhotoRec - CGSecurity](https://www.cgsecurity.org/wiki/PhotoRec)
 - [Recoverit](https://recoverit.wondershare.com/)
 - [Recuva](https://www.ccleaner.com/recuva)
@@ -173,6 +179,7 @@ description: Admin tooling for servers, networking, and infrastructure.
 - [Samba](https://www.samba.org/)
 - [SMBus (System Management Bus)](http://www.smbus.org/)
 - [Touchegg - JoseExposito](https://github.com/JoseExposito/touchegg)
+- [Zadig - USB driver installation made easy](https://zadig.akeo.ie/)
 
 ### Audio driver
 - [AlsaProject wiki](https://alsa-project.org/wiki/Main_Page)
@@ -240,6 +247,7 @@ description: Admin tooling for servers, networking, and infrastructure.
 - [NVIDIA drivers](https://www.nvidia.com/download/index.aspx)
 
 ### Keyboard driver
+- [Ergogen](https://ergogen.xyz/new) / [🔗](https://github.com/ergogen)
 - [KBD – Linux keyboard tools](https://kbd-project.org/)
 - [VIA](https://www.usevia.app/) / [🔗](https://github.com/the-via/app)
 - [Xpadder](https://xpadder.com/)
@@ -249,11 +257,13 @@ description: Admin tooling for servers, networking, and infrastructure.
 - [across | The Only Real Software KVM | Keyboard/Mouse Sharing App | Bluetooth Keyboard/Mouse Emulator](https://www.acrosscenter.com/)
 - [Kult Promethium](https://the-g-lab.tech/en/produit/kult-promethium/)
 - [Logitech G HUB](https://support.logi.com/hc/en-gb/articles/360025298133)
+- [OpenLogi](https://openlogi.org/en) / [🔗](https://github.com/AprilNEA/OpenLogi)
 - [Remote touchpad · GitHub](https://github.com/Unrud/remote-touchpad)
 
 ### RGB driver
 - [Adam Honse / KeyboardVisualizer · GitLab](https://gitlab.com/CalcProgrammer1/KeyboardVisualizer)
 - [Artemis RGB](https://artemis-rgb.com/)
+- [Asus Aura Sync Utility - Download the standalone version](https://aurasync.net/)
 - [Aurora RGB](https://www.project-aurora.com/)
 - [ckb-next/ckb-next · GitHub](https://github.com/ckb-next/ckb-next)
 - [CKB: RGB Driver for Linux](https://github.com/ccMSC/ckb)
@@ -263,7 +273,7 @@ description: Admin tooling for servers, networking, and infrastructure.
 - [liquidctl/liquidctl · GitHub](https://github.com/liquidctl/liquidctl)
 - [openlinkhub.dev](https://openlinkhub.dev/) / [🔗](https://github.com/jurkovic-nikola/OpenLinkHub)
 - [OpenRazer](https://openrazer.github.io/)
-- [OpenRGB](https://openrgb.org/)
+- [OpenRGB](https://openrgb.org/) / [🔗](https://codeberg.org/OpenRGB/OpenRGB/)
 - [QLab](https://qlab.app/)
 - [Razer Synapse 3 | Razer](https://www.razer.com/synapse-3)
 - [TT RGB Plus | ThermalTake](https://ttrgbplus.thermaltake.com/)
@@ -304,6 +314,7 @@ description: Admin tooling for servers, networking, and infrastructure.
 - [Win USB Google](https://developer.android.com/studio/run/win-usb)
 
 ## Emulation & virtualization
+- [Floci — Fast, Free AWS Emulator](https://floci.io/) / [🔗](https://github.com/floci-io/floci)
 
 ### OS-emulator
 - [Box86 – Linux Userspace x86 Emulator with a Twist](https://box86.org/)
@@ -388,6 +399,7 @@ description: Admin tooling for servers, networking, and infrastructure.
 - [Anbox - Android in a Box](https://anbox.io/)
 - [GameLoop - Android emulator](https://www.gameloop.com/)
 - [Genymotion – Android Emulator](https://www.genymotion.com/)
+- [HQarroum/docker-android: 🤖 A minimal and customizable Docker image running the Android emulator as a service](https://github.com/HQarroum/docker-android)
 - [LDPlayer](https://www.ldplayer.net/)
 - [MEmu PLay](https://www.memuplay.com/)
 - [MuMuPlayer: Best Android Emulator on PC or Mac for Running Mobile Games and Apps](https://www.mumuplayer.com/)
@@ -517,6 +529,7 @@ description: Admin tooling for servers, networking, and infrastructure.
 - [Linux Containers (LXC)](https://linuxcontainers.org/)
 - [Linux KVM](https://www.linux-kvm.org/page/Main_Page)
 - [Multipass VMS](https://multipass.run/)
+- [Omnissa Horizon](https://omnissahorizon.com/appblast/endpoint/domain)
 - [Packer by HashiCorp](https://www.packer.io/)
 - [Parallels](https://www.parallels.com/)
 - [Portable-VirtualBox](https://www.vbox.me/)
@@ -679,15 +692,19 @@ description: Admin tooling for servers, networking, and infrastructure.
 #### HTTP client
 - [AXIOS](https://axios-http.com/) / [🔗](https://axios-http.com/)
 - [GetIt | Simple HTTP request application](https://getit.bartkessels.net/)
+- [Googl Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging)
 - [h5ai · modern HTTP web server index · larsjung.de](https://larsjung.de/h5ai/)
 - [HTTPie](https://httpie.io/)
 - [Httpiness - Parametric HTTP client for slalom API testing](https://www.httpiness.com/)
 - [HTTPX](https://www.python-httpx.org/)
 - [Hurl - Run and Test HTTP Requests](https://hurl.dev/)
 - [NeoMutt - command line mail reader](https://neomutt.org/)
+- [ntfy.sh | Send push notifications to your phone via PUT/POST](https://ntfy.sh/) / [🔗](https://github.com/binwiederhier/ntfy)
 - [profanity-im/profanity: Ncurses based XMPP client](https://github.com/profanity-im/profanity)
+- [Pushy - Lightning-Fast & Highly-Reliable Push Notifications](https://pushy.me/)
 - [roster · GitLab](https://git.bugsy.cz/beval/roster)
 - [Tweeten, a powerful Twitter client](https://tweetenapp.com/)
+- [UnifiedPush](https://unifiedpush.org/)
 
 #### FTP client
 - [ColoradoFTP](https://cftp.coldcore.com/)
@@ -759,11 +776,9 @@ description: Admin tooling for servers, networking, and infrastructure.
 - [Leaf Node - Leaf Node Monitoring](https://www.leafnode.nl/)
 - [Net Speed Monitor](https://netspeedmonitor.net/)
 - [Netdata: Monitoring and troubleshooting transformed](https://www.netdata.cloud/) / [🔗](https://github.com/netdata/netdata)
-- [NetHack](https://www.nethack.org/)
 - [NetLimiter](https://www.netlimiter.com/)
 - [Netweak — Monitoring platform](https://netweak.com/)
 - [Network Performance Monitoring Software - LiveAction](https://www.liveaction.com/)
-- [Npcap - Windows Packet Capture Library & Driver](https://npcap.com/)
 - [Open Visual Traceroute](https://sourceforge.net/projects/openvisualtrace/)
 - [productdevbook/port-killer · GitHub](https://github.com/productdevbook/port-killer)
 - [PRTG Network Monitor: All-in-One Network Monitoring Software](https://www.paessler.com/prtg)
@@ -786,6 +801,7 @@ description: Admin tooling for servers, networking, and infrastructure.
 - [192.168.1.1 Admin Login](https://192-168-i-i.com/)
 - [DNS Lookup — Nslookup.io](https://www.nslookup.io/)
 - [G Suite.Tools](https://gsuite.tools/)
+- [NATS.io](https://nats.io/) / [🔗](https://github.com/nats-io/nats-server)
 - [NetYogi - Free Online Network Tools](https://netyogi.net/)
 - [pool.ntp.org: the internet cluster of ntp servers](https://www.ntppool.org/en/)
 - [Router Network](https://router-network.com/)
@@ -900,6 +916,7 @@ description: Admin tooling for servers, networking, and infrastructure.
 
 #### Proxy
 - ⭐ **[mitmproxy - an interactive HTTPS proxy](https://mitmproxy.org/)** / [🔗](https://github.com/mitmproxy/mitmproxy)
+- ⭐ **[Tor Project | Arti](https://arti.torproject.org/)** / [🔗](https://gitlab.torproject.org/tpo/core/arti)
 - [ASocks | Unlimited Residential Proxy](https://asocks.com/)
 - [FoxyProxy](https://getfoxyproxy.org/)
 - [HAProxy](https://www.haproxy.org/)
@@ -913,7 +930,7 @@ description: Admin tooling for servers, networking, and infrastructure.
 - [Shadowsocks - Tunnel proxy](https://shadowsocks.org/)
 - [Snowflake - Tor Project](https://snowflake.torproject.org/)
 - [SSL Proxy](https://www.sslsecureproxy.com/)
-- [Tor Project | Arti](https://arti.torproject.org/) / [🔗](https://gitlab.torproject.org/tpo/core/arti)
+- [Traefik, The Cloud Native Application Proxy | Traefik Labs](https://traefik.io/traefik) / [🔗](https://github.com/traefik/traefik)
 - [Tunnel to dev](https://tunnelto.dev/)
 
 #### Traceroute Online
@@ -1020,11 +1037,15 @@ description: Admin tooling for servers, networking, and infrastructure.
 - [CommView](https://www.tamos.com/products/commview)
 - [Endace Full Packet Capture Recording | 10-100Gbps & Beyond](https://www.endace.com/)
 - [Ettercap](https://www.ettercap-project.org/)
+- [evilsocket/opensnitch · GitHub](https://github.com/evilsocket/opensnitch)
 - [Fiddler - Web Debugging Proxy and Troubleshooting Tools](https://www.telerik.com/fiddler)
 - [jpr5/ngrep: ngrep is like GNU grep applied to the network layer. It's a PCAP-based tool that allows you to specify an extended regular or hexadecimal expression to match against data payloads of packets. It understands many kinds of protocols, including IPv4/6, TCP, UDP, ICMPv4/6, IGMP and Raw, across a wide variety of interface types, and understands BPF filter logic in the same fashion as more common packet sniffing tools, such as tcpdump and snoop.](https://github.com/jpr5/ngrep)
 - [Kismet - Wi-Fi, Bluetooth, RF, and more](https://www.kismetwireless.net/) / [🔗](https://github.com/kismetwireless/kismet)
+- [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html)
+- [Npcap - Windows Packet Capture Library & Driver](https://npcap.com/) / [🔗](https://github.com/nmap/npcap)
 - [ntopng - ntop](https://www.ntop.org/products/traffic-analysis/ntopng/) / [🔗](https://github.com/ntop/ntopng)
 - [Proxyman · Debug, intercept & mock HTTP with Proxyman](https://proxyman.com/)
+- [raboof/nethogs: Linux 'net top' tool](https://github.com/raboof/nethogs)
 - [TCPDUMP & LIBPCAP](https://www.tcpdump.org/)
 - [Tshark](https://tshark.dev/)
 
@@ -1104,13 +1125,13 @@ description: Admin tooling for servers, networking, and infrastructure.
 - [sameerasw/essentials: Essential tools and mods for Android nerds](https://github.com/sameerasw/essentials)
 
 ##### Root & Modding Android
+- ⭐ **[Magisk Manager](https://www.magiskmanager.org/)**
 - [0x192/universal-android-debloater · GitHub](https://github.com/0x192/universal-android-debloater)
 - [amo13/Anarchy-Droid · GItHub](https://github.com/amo13/Anarchy-Droid)
 - [Anarchy-Droid](https://anarchy-droid.com/)
 - [Android MTK](https://androidmtk.com/)
 - [Kingroot](https://kingrootapp.net/)
 - [Kingroot Official](https://kingrootofficial.com/)
-- [Magisk Manager](https://www.magiskmanager.org/)
 - [One Click Root](https://oneclickroot.com/)
 - [Universal-Debloater-Alliance/universal-android-debloater-next-generation: Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/)
 - [W1nst0n / Universal Android Debloater · GitLab](https://gitlab.com/W1nst0n/universal-android-debloater)

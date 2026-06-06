@@ -5,7 +5,7 @@ description: Tools, apps, and resources organized by operating system.
 
 # OS
 
-**Total Bookmarks:** 1076
+**Total Bookmarks:** 1085
 
 - [Comparison of OS - Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_operating_systems)
 - [Comparison of real-time operating systems - Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_real-time_operating_systems)
@@ -15,6 +15,7 @@ description: Tools, apps, and resources organized by operating system.
 ## OS by devices
 
 ### Console OS
+- [Horizon OC](https://horizon-oc.github.io/) / [🔗](https://github.com/Horizon-OC/Horizon-OC)
 - [IOS - WiiBrew](https://wiibrew.org/wiki/IOS)
 - [Nintendo Switch Brew](https://switchbrew.org/)
 - [ValveSoftware/SteamOS: SteamOS community tracker](https://github.com/ValveSoftware/SteamOS)
@@ -28,6 +29,7 @@ description: Tools, apps, and resources organized by operating system.
 - [Landing Page - PS3 Developer wiki](https://www.psdevwiki.com/)
 - [pebxcvi/PSHomeCacheDepot: Playstation Home Data Archive](https://github.com/pebxcvi/PSHomeCacheDepot)
 - [PS - PS Developer wiki](https://www.psdevwiki.com/ps3/Landing_Page)
+- [ps5-linux/ps5-linux-loader: Linux payload implementing the HV exploit and a custom bootloader](https://github.com/ps5-linux/ps5-linux-loader)
 - [ps5-payload-dev/websrv: A simple web server for jailbroken PS5s that accepts connections on port 8080](https://github.com/ps5-payload-dev/websrv)
 - [PS5Dev/PS5-UMTX-Jailbreak: A webkit-based kernel exploit and jailbreak for PS5](https://github.com/PS5Dev/PS5-UMTX-Jailbreak)
 - [TheWizWikii/PS5-PS4-Payload-injector-Pro](https://github.com/TheWizWikii/PS5-PS4-Payload-injector-Pro)
@@ -205,6 +207,7 @@ description: Tools, apps, and resources organized by operating system.
 - [Zepp Health | Empowering Health, Inspiring Joy](https://www.zepp.com/)
 
 ### Server OS
+- [Start9Labs/start-os: A graphical server OS optimized for self-hosting · GitHub](https://github.com/Start9Labs/start-os)
 
 #### Enterprise Server OS
 - ⭐ **[Proxmox - Powerful open-source server solution](https://www.proxmox.com/en/)**
@@ -341,8 +344,9 @@ description: Tools, apps, and resources organized by operating system.
 - [XinuOS](https://www.xinuos.com/)
 
 ###### Linux-based
+- [Ageless Linux — Software for Humans of Indeterminate Age](https://agelesslinux.org/)
 
-####### Arch-based
+**Arch-based**
 - ⭐ **[Arch Linux](https://archlinux.org/)**
 - ⭐ **[Archcraft.io](https://archcraft.io/)**
 - ⭐ **[ArcoLinux](https://arcolinux.com/)**
@@ -423,13 +427,14 @@ description: Tools, apps, and resources organized by operating system.
 - [Ultimate Editon OS](https://ultimateedition.info/)
 - [w84death/floppinux: An Embedded 🐧Linux on a Single 💾Floppy](https://github.com/w84death/floppinux)
 
-####### Chrome-OS
+**Chrome-OS**
 - [ChromeOS - The Cloud-First, Secure OS for your Business](https://chromeos.google/)
+- [ChromeOS Flex: Fast, Secure OS for PCs & Macs](https://chromeos.google/intl/en_ca/products/chromeos-flex/)
 - [Chromium OS](https://www.chromium.org/chromium-os/)
 - [Chrultrabook Docs - What is a chrultrabook and who is this documentation for?](https://docs.chrultrabook.com/)
 - [FydeOS - Simple, Swift, and Secure for Everyone](https://fydeos.io/)
 
-####### Debian-based
+**Debian-based**
 - ⭐ **[Debian - The Universal Operating System](https://www.debian.org/)**
 - ⭐ **[Devuan GNU+Linux](https://www.devuan.org/)**
 - ⭐ **[Kali Linux | Penetration Testing Linux](https://www.kali.org/)**
@@ -463,6 +468,7 @@ description: Tools, apps, and resources organized by operating system.
 - [GnoppixNG](https://sourceforge.net/projects/gnoppixng/)
 - [GParted - Live CD](https://gparted.org/livecd.php)
 - [grml.org](https://grml.org/)
+- [HackerOS](https://hackeros-linux-system.github.io/HackerOS-Website/Home-page.html)
 - [HeliumOS](https://www.heliumos.org/)
 - [Kaisen Linux](https://kaisenlinux.org/)
 - [Kali Linux - Tools](https://tools.kali.org/)
@@ -498,6 +504,7 @@ description: Tools, apps, and resources organized by operating system.
 - [SELKS by Stamus Networks](https://www.stamus-networks.com/selks)
 - [siduction Linux](https://siduction.org/)
 - [SolydXK](https://solydxk.com/)
+- [Soplos Linux - Tu sistema operativo amigable](https://soplos.org/)
 - [SparkyLinux](https://sparkylinux.org/)
 - [SpiralLinux](https://spirallinux.github.io/)
 - [SysLinuxOS](https://syslinuxos.com/)
@@ -508,7 +515,7 @@ description: Tools, apps, and resources organized by operating system.
 - [Window Maker Live](https://wmlive.sourceforge.net/)
 - [Zephix Linux](https://zephix-linux.sourceforge.io/)
 
-####### Gentoo-based
+**Gentoo-based**
 - ⭐ **[Gentoo Linux](https://www.gentoo.org/)**
 - [Bicom Systems](https://www.bicomsystems.com/download/)
 - [Calculate Linux](https://www.calculate-linux.org/)
@@ -529,10 +536,10 @@ description: Tools, apps, and resources organized by operating system.
 - [Xenia Linux](https://xenialinux.com/)
 - [Xenia Linux](https://xenia-group.gitlab.io/xeniaweb/)
 
-####### Fedora-based
+**Fedora-based**
+- ⭐ **[Asahi Linux](https://asahilinux.org/)**
 - ⭐ **[Fedora Linux](https://fedoraproject.org/)**
 - ⭐ **[Nobara Project](https://nobaraproject.org/)**
-- [Asahi Linux](https://asahilinux.org/)
 - [Aurora](https://getaurora.dev/)
 - [Aurora - your next OS.](https://getaurora.dev/en)
 - [Bazzite – The next generation of Linux gaming](https://bazzite.gg/)
@@ -551,13 +558,13 @@ description: Tools, apps, and resources organized by operating system.
 - [Ultramarine Linux](https://ultramarine-linux.org/)
 - [Universal Blue – Powered by the future, delivered today](https://universal-blue.org/)
 
-####### NixOS-based
+**NixOS-based**
 - ⭐ **[Nix & NixOS](https://nixos.org/)**
 - [Athena OS](https://athenaos.org/)
 - [ExpidusOS](https://expidusos.com/en/)
 - [SnowflakeOS](https://snowflakeos.org/)
 
-####### Indie Linux distro
+**Indie Linux distro**
 - ⭐ **[Alpine Linux](https://www.alpinelinux.org/)**
 - ⭐ **[dahliaOS](https://dahliaos.io/)**
 - ⭐ **[Pardus Linux](https://www.pardus.org.tr/en/)**
@@ -656,7 +663,7 @@ description: Tools, apps, and resources organized by operating system.
 - [Yocto Project](https://www.yoctoproject.org/)
 - [Zentyal Linux Server](https://zentyal.com/)
 
-####### RedHat-based
+**RedHat-based**
 - ⭐ **[OpenMandriva](https://www.openmandriva.org/)**
 - ⭐ **[OpenSUSE Tumbleweed](https://get.opensuse.org/tumbleweed/)**
 - ⭐ **[SUSE Linux Enterprise Desktop (SLED) | SUSE](https://www.suse.com/download/sled/)**
@@ -674,7 +681,7 @@ description: Tools, apps, and resources organized by operating system.
 - [Scientific Linux](https://scientificlinux.org/)
 - [Vine Linux](https://www.vinelinux.org/)
 
-####### Slackware-based
+**Slackware-based**
 - ⭐ **[Puppy Linux](https://puppylinux-woof-ce.github.io/)**
 - ⭐ **[Slackware Linux](http://slackware.com/)**
 - [Absolute Linux](https://www.absolutelinux.org/)
@@ -687,7 +694,7 @@ description: Tools, apps, and resources organized by operating system.
 - [SylixOS](https://sylixos.com/)
 - [Zenwalk GNU Linux](http://www.zenwalk.org/)
 
-####### Ubuntu-based
+**Ubuntu-based**
 - ⭐ **[Elementary OS](https://elementary.io/)**
 - ⭐ **[KDE neon](https://neon.kde.org/)**
 - ⭐ **[Linux Lite OS](https://www.linuxliteos.com/)**
@@ -713,6 +720,7 @@ description: Tools, apps, and resources organized by operating system.
 - [LXLE Desktop](https://lxle.net/)
 - [MakuluLinux](http://www.makululinux.com/wp/)
 - [NebiOS - Cutting-Edge & User-Friendly Linux OS](https://nebios.org/)
+- [Omakub](https://omakub.org/)
 - [OSGeoLive](https://live.osgeo.org/en/index.html)
 - [PikaOS — The cool birb OS](https://pika-os.com/)
 - [Rhino Linux](https://rhinolinux.org/)
@@ -735,12 +743,12 @@ description: Tools, apps, and resources organized by operating system.
 - [Wubuntu - The Windows Ubuntu Operating System](https://www.wubuntu.org/)
 - [Xubuntu](https://xubuntu.org/)
 
-####### Void-based
+**Void-based**
 - ⭐ **[Void Linux - Enter the Void](https://voidlinux.org/)**
 - [Cereus Linux](https://cereuslinuxproject.github.io/)
 - [d77void GNU/Linux](https://d77void.sourceforge.io/)
 
-####### WSL
+**WSL**
 - [Alpine WSL - Microsoft Store](https://apps.microsoft.com/detail/9P804CRF0395?hl=en-us&gl=US)
 - [Arch WSL - Microsoft Store](https://apps.microsoft.com/detail/9mznmnksm73x?hl=en-US&gl=ES)
 - [Athena OS - Microsoft Apps](https://apps.microsoft.com/detail/9N1M7Q4F1KQF?hl=en-US&gl=US)
@@ -842,7 +850,7 @@ description: Tools, apps, and resources organized by operating system.
 - [theShell - Vicr123](https://old.vicr123.com/theshell/)
 - [Trinity Desktop Environment](https://trinitydesktop.org/)
 - [UDE - Unix Desktop Environment](https://udeproject.sourceforge.net/)
-- [UKUI Environment](https://www.ukui.org/)
+- [UKUI enviroment](https://www.ukui.org/)
 - [Unix Desktop Environment Project (UDE)](https://sourceforge.net/projects/udeproject/)
 - [Vera-desktop](https://github.com/vera-desktop/vera)
 - [vicr123/thedesk · GitHub](https://github.com/vicr123/thedesk)
@@ -1154,6 +1162,7 @@ description: Tools, apps, and resources organized by operating system.
 ### Init system
 - [apple-oss-distributions/launchd · GitHub](https://github.com/apple-oss-distributions/launchd)
 - [Buildroot](https://buildroot.org/)
+- [Dinit — service manager, init system](https://davmac.org/projects/dinit/) / [🔗](https://github.com/davmac314/dinit)
 - [dinit · GitHub](https://github.com/davmac314/dinit)
 - [No systemd](https://nosystemd.org/)
 - [OpenRC init system · GitHub](https://github.com/OpenRC/openrc)

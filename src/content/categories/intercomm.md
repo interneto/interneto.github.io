@@ -5,7 +5,7 @@ description: Communication tools for messaging, calls, and collaboration.
 
 # Internet Communication
 
-**Total Bookmarks:** 1536
+**Total Bookmarks:** 1544
 
 
 ## 2FA
@@ -698,6 +698,7 @@ description: Communication tools for messaging, calls, and collaboration.
 - [GNU social](https://gnusocial.network/)
 - [GNUnet](https://www.gnunet.org/en/)
 - [Guppe Groups](https://a.gup.pe/)
+- [Holo.social - Fediverse Relay](https://holos.social/)
 - [Hubzilla](https://hubzilla.org/page/info/discover)
 - [hubzilla / core · GitLab](https://framagit.org/hubzilla/core)
 - [Immers Space](https://web.immers.space/)
@@ -715,12 +716,14 @@ description: Communication tools for messaging, calls, and collaboration.
 - [Misskey](https://join.misskey.page/en-US/)
 - [Movim](https://movim.eu/)
 - [NKN | Network Infrastructure for Decentralized Internet](https://nkn.org/)
+- [Open-Mesh](https://www.open-mesh.org/projects/open-mesh/wiki) / [🔗](https://git.open-mesh.org/batman-adv.git)
 - [PeakD](https://peakd.com/)
 - [PeerTube](https://joinpeertube.org/)
 - [Pleroma](https://pleroma.social/)
 - [Plume](https://joinplu.me/)
 - [Potato Meshtastic](https://potatomesh.net/)
 - [Pravica.io](https://pravica.io/)
+- [Reticulum Network](https://reticulum.network/)
 - [Retroshare](https://retroshare.cc/)
 - [Robonomics Network](https://robonomics.network/)
 - [Scuttlebutt](https://scuttlebutt.nz/)
@@ -1064,6 +1067,7 @@ description: Communication tools for messaging, calls, and collaboration.
 - [Adium](https://adium.im/)
 - [balzack/databag · GitHub](https://github.com/balzack/databag)
 - [Berty.tech](https://berty.tech/)
+- [bitchat](https://bitchat.free/) / [🔗](https://github.com/permissionlesstech/bitchat)
 - [BlueBubbles - iMessage](https://bluebubbles.app/)
 - [Brax.Me](https://brax.me/)
 - [Bridgefy – Offline Messages App & SDK](https://bridgefy.me/)
@@ -1077,6 +1081,7 @@ description: Communication tools for messaging, calls, and collaboration.
 - [Fluxer: A chat app that puts you first](https://fluxer.app/) / [🔗](https://github.com/fluxerapp/fluxer)
 - [Gab Chat](https://chat.gab.com/)
 - [GG App](https://www.ggapp.com/)
+- [GitHub - diorwave/cmd-chat: My ISP tried to block this repo. 🤐 A truly peer-to-peer, end-to-end encrypted CLI chat that leaves NO logs. Perfect for... sensitive discussions. 🔥 Get it before it gets taken down · GitHub](https://github.com/diorwave/cmd-chat)
 - [Gitter - Where developers come to talk](https://gitter.im/)
 - [GroupMe | Group chat app](https://groupme.com/)
 - [Hamsket · GitHub](https://github.com/TheGoddessInari/hamsket)
@@ -1090,12 +1095,14 @@ description: Communication tools for messaging, calls, and collaboration.
 - [Keet.io](https://keet.io/)
 - [Keybase](https://keybase.io/)
 - [kik](https://www.kik.com/)
+- [liamcottle/reticulum-meshchat: A simple mesh network communications app powered by the Reticulum Network Stack.](https://github.com/liamcottle/reticulum-meshchat)
 - [LINE](https://line.me/en)
 - [Loom - Free screen recorder](https://www.loom.com/)
 - [Macaw](https://macaw.me/)
 - [MeroChat - Text only, friendly random chat!](https://mero.chat/) / [🔗](https://github.com/typestruck/merochat)
 - [MeWe](https://mewe.com/)
 - [moezbhatti/qksms · GitHub](https://github.com/moezbhatti/qksms)
+- [Molly](https://molly.im/)
 - [MOMO](http://immomo.com/)
 - [NextAlone/Nagram: The third-party Telegram android app](https://github.com/nextalone/nagram)
 - [NGL](https://ngl.link/)
@@ -1550,6 +1557,7 @@ description: Communication tools for messaging, calls, and collaboration.
 - [Synaptic Package Manager](https://www.nongnu.org/synaptic/)
 - [The Cargo Book - Rust package manager](https://doc.rust-lang.org/stable/cargo/)
 - [Timoni](https://timoni.sh/)
+- [topgrade-rs/topgrade: Upgrade all the things](https://github.com/topgrade-rs/topgrade)
 - [UPM - Replit](https://github.com/replit/upm)
 - [Vanilla-OS/apx · GitHub](https://github.com/Vanilla-OS/apx)
 - [vcpkg - Open source C/C++ dependency manager from Microsoft](https://vcpkg.io/en/index.html)

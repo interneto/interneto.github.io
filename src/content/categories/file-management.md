@@ -5,7 +5,7 @@ description: File tools for storage, sharing, transfer, and organization.
 
 # File Management
 
-**Total Bookmarks:** 814
+**Total Bookmarks:** 824
 
 
 ## Backup
@@ -74,7 +74,7 @@ description: File tools for storage, sharing, transfer, and organization.
 - ⭐ **[Tarsnap - Online backups](https://www.tarsnap.com/)**
 - [Backblaze - Online Backup and Cloud Storage Services](https://www.backblaze.com/)
 - [BorgBase - Simple and Secure Hosting for your Borg and Restic Repositories](https://www.borgbase.com/)
-- [Box](https://www.box.com/)
+- [Brault | The Creative File Management App](https://brault.app/)
 - [Cozy Cloud](https://cozy.io/en/)
 - [Degoo Cloud](https://degoo.com/)
 - [DocumentCloud](https://www.documentcloud.org/home)
@@ -121,6 +121,7 @@ description: File tools for storage, sharing, transfer, and organization.
 - [Storegate](https://www.storegate.com/en/)
 - [SugarSync](https://www1.sugarsync.com/)
 - [Sync.com](https://www.sync.com/)
+- [Syncany - Secure file sync software for arbitrary storage backends](https://www.syncany.org/) / [🔗](https://github.com/syncany)
 - [TeraBox - Free Cloud Storage Up To 1 TB](https://www.terabox.com/)
 - [Tresorit - End to end encrypted cloud storage](https://tresorit.com/)
 - [Vika](https://vika.cn/login)
@@ -133,6 +134,7 @@ description: File tools for storage, sharing, transfer, and organization.
 
 ## Compressor
 - ⭐ **[7-Zip](https://7-zip.org/)** / [🔗](https://sourceforge.net/projects/sevenzip/)
+- ⭐ **[facebook/zstd · GitHub](https://github.com/facebook/zstd)**
 - [AfterCodecs](https://www.autokroma.com/AfterCodecs/)
 - [Ark - KDE](https://apps.kde.org/ark/)
 - [Bandizip](https://www.bandisoft.com/bandizip/)
@@ -161,6 +163,7 @@ description: File tools for storage, sharing, transfer, and organization.
 - [RIOT - Radical Image Optimization Tool](https://riot-optimizer.com/)
 - [rust-av/Av1an: Cross-platform command-line AV1 / VP9 / HEVC / H264 encoding framework with per scene quality encoding](https://github.com/rust-av/Av1an)
 - [Shutter Encoder](https://www.shutterencoder.com/en/)
+- [SVGO](https://svgo.dev/)
 - [TinyFast - Fast File Compressor Tool for MacOS](https://tinyfast.app/)
 - [Transmageddon](http://www.linuxrising.org/)
 - [UPX](https://upx.github.io/)
@@ -168,13 +171,13 @@ description: File tools for storage, sharing, transfer, and organization.
 - [VProlab Video Compress - Free, High-Quality Online Tool](https://videocompress.prolab.sh/)
 - [WinRAR](https://www.rarlab.com/)
 - [WinZip](https://www.winzip.com/en/)
-- [XZ Utils](https://tukaani.org/xz/)
+- [XZ Utils](https://tukaani.org/xz/) / [🔗](https://github.com/tukaani-project/xz)
 
 ## Converter
 
 ### Calendar converter
 - ⭐ **[Asli Tools - Calendar Converter](https://aslitools.com/tools/date-converter/)**
-- [Calendar Converter](https://www.azuzan.com/calendar-converter)
+- ⭐ **[Calendar Converter](https://www.azuzan.com/calendar-converter)**
 - [Calendar Converter](https://www.fourmilab.ch/documents/calendar/)
 - [Calendar Converter - App Store](https://www.tranquillitybase.jp/CalendarConverter/CalendarConverter_en.html)
 - [Calendar Converter for Near East Historians](https://www.muqawwim.com/)
@@ -210,6 +213,7 @@ description: File tools for storage, sharing, transfer, and organization.
 
 ### Encoder
 - ⭐ **[Morse Code Translator – Morse to Text – Text to Morse Code](https://morsecodeapp.com/)**
+- [Adaptive Video Encoder](https://adaptive-encoder.com/)
 - [fkinoshita/Telegraph: Write and decode morse](https://github.com/fkinoshita/Telegraph)
 - [KDE Utilities](https://utils.kde.org/)
 - [Universal Encoding Tool](https://unenc.com/)
@@ -256,6 +260,7 @@ description: File tools for storage, sharing, transfer, and organization.
 - [Online-convert](https://www.online-convert.com/)
 - [OnlineConvertFree](https://onlineconvertfree.com/)
 - [opendatalab/MinerU · GitHub](https://github.com/opendatalab/MinerU)
+- [OpenDataLoader PDF - PDF Parser for AI-Ready Data | Auto-Tag PDFs for Accessibility](https://opendataloader.org/) / [🔗](https://github.com/opendataloader-project/opendataloader-pdf)
 - [OPML to CSV converter](http://opml2csv.com/)
 - [Optimize bookmarks HTML](https://optimize-bookmarks-html.glitch.me/)
 - [PDF to DOC](https://pdf2doc.com/)
@@ -317,6 +322,7 @@ description: File tools for storage, sharing, transfer, and organization.
 - [Viivo](https://www.viivo.com/)
 
 ### File converter
+- ⭐ **[ImageMagick - Mastering Digital Image Alchemy](https://imagemagick.org/)** / [🔗](https://github.com/imagemagick/imagemagick)
 - ⭐ **[Pandoc](https://pandoc.org/)**
 - [aleiepure/devtoolbox · GitHub](https://github.com/aleiepure/devtoolbox)
 - [App Ciano - Multimedia converter](https://robertsanseries.github.io/ciano/)
@@ -330,7 +336,6 @@ description: File tools for storage, sharing, transfer, and organization.
 - [Gifsicle - Command-Line Animated GIFs](https://www.lcdf.org/gifsicle/)
 - [gifski — highest-quality GIF converter](https://gif.ski/)
 - [GraphicsMagick - SourceForge](https://sourceforge.net/projects/graphicsmagick/)
-- [ImageMagick - Mastering Digital Image Alchemy](https://imagemagick.org/) / [🔗](https://github.com/imagemagick/imagemagick)
 - [Khaleel Al-Adhami / Switcheroo · GitLab](https://gitlab.com/adhami3310/Switcheroo)
 - [MacX DVD Video Converter](https://www.macxdvd.com/)
 - [medialab/xan: The CSV magician](https://github.com/medialab/xan)
@@ -351,6 +356,7 @@ description: File tools for storage, sharing, transfer, and organization.
 - [Compressor.io](https://compressor.io/)
 - [Fasterland](https://fasterland.net/)
 - [favicon.io](https://favicon.io/)
+- [ICO Converter](https://www.icoconverter.com/)
 - [Image Compressor](https://www.imagecompressor.net/)
 - [Image Compressor](https://www.imagecompresser.com/)
 - [Image compressor](https://imagecompressor.com/)
@@ -373,6 +379,7 @@ description: File tools for storage, sharing, transfer, and organization.
 - [Easy Resize](https://www.easy-resize.com/en/)
 - [ImageOptim](https://imageoptim.com/api)
 - [imgproxy: fast and secure on-the-fly image processing](https://imgproxy.net/)
+- [imgto.xyz - Free Image Optimization Toolkit](https://imgto.xyz/)
 - [Online Image Resizer](https://online-image-resizer.com/)
 - [RasterFox - Optimize Images with Pixel-Perfect Precision](https://rasterfox.app/)
 - [ResizeImage.net](https://resizeimage.net/)
@@ -420,6 +427,7 @@ description: File tools for storage, sharing, transfer, and organization.
 #### HTML converter
 - [Convert HTML to OPML](https://alldocs.app/convert-html-to-opml)
 - [HTML bookmarks into CSV](https://gist.github.com/keikoro/699e2003d5814bc0d5224a9e78676373)
+- [HTML to Markdown Converter - HTML to Markdown](https://htmlmarkdown.com/)
 - [HTML to OPML Converter](https://www.vertopal.com/en/convert/html-to-opml)
 - [Word 2 MD](https://word2md.com/)
 - [Word to HTML](https://wordhtml.com/)
@@ -556,6 +564,7 @@ description: File tools for storage, sharing, transfer, and organization.
 - [ZeroFS](https://zerofs.link/)
 
 ## File manager
+- [eXtplorer 3 | Modern Web File Manager](https://www.extplorer.net/) / [🔗](https://github.com/soerennb/extplorer/)
 
 ### DAM (Digital Asset Management)
 - ⭐ **[Eagle - Organize all your reference images in one place](https://eagle.cool/)**
@@ -600,8 +609,8 @@ description: File tools for storage, sharing, transfer, and organization.
 ### File manager GUI
 - ⭐ **[Cryo file manager](https://cryonet.io/)**
 - ⭐ **[Dolphin KDE](https://apps.kde.org/dolphin)** / [🔗](https://invent.kde.org/system/dolphin)
+- ⭐ **[Eagle - Organize design files has never been easier](https://en.eagle.cool/)**
 - ⭐ **[Eagle Mode - Zooming interface](https://eaglemode.sourceforge.net/)**
-- ⭐ **[Eagle.cool](https://en.eagle.cool/)**
 - ⭐ **[Files.community](https://files.community/)**
 - ⭐ **[Tablacus Explorer](https://tablacus.github.io/explorer_en.html)**
 - ⭐ **[XYplorer](https://www.xyplorer.com/)**
@@ -766,6 +775,7 @@ description: File tools for storage, sharing, transfer, and organization.
 - [Genymobile/scrcpy · GitHub](https://github.com/Genymobile/scrcpy)
 - [grishka/NearDrop: An unofficial Google Nearby Share/Quick Share app for macOS](https://github.com/grishka/NearDrop)
 - [KDE Connect](https://kdeconnect.kde.org/)
+- [KiteSend — Peer-to-peer encrypted file transfer](https://kitesend.net/)
 - [Link to Windows - Apps on Google Play](https://play.google.com/store/apps/details?id=com.microsoft.appmanager)
 - [LocalSend](https://localsend.org/) / [🔗](https://github.com/localsend/localsend)
 - [Quick Share | Aplicaciones y servicios | Samsung ES](https://www.samsung.com/es/apps/quick-share/)

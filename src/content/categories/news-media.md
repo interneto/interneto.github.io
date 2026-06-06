@@ -5,7 +5,7 @@ description: News sources, media outlets, and current-events platforms.
 
 # News Media
 
-**Total Bookmarks:** 2372
+**Total Bookmarks:** 2377
 
 
 ## Arts media
@@ -471,6 +471,7 @@ description: News sources, media outlets, and current-events platforms.
 - [Unexplained Mysteries around the world](https://www.world-mysteries.com/)
 
 ### News blog
+- [ECOMONEWS — La newsletter más mona de internet](https://ecomonos.com/)
 - [El Orden Mundial: el medio de análisis internacional en español](https://elordenmundial.com/)
 - [Noticias del mundo](https://www.periodicoelnuevomundo.com/)
 
@@ -683,6 +684,7 @@ description: News sources, media outlets, and current-events platforms.
 - [Charlie Gerard | Senior frontend developer & Creative Technologist](https://charliegerard.dev/)
 - [Chen Hui Jing](https://chenhuijing.com/)
 - [conradlin](https://www.conradlin.com/)
+- [Everything That Went Wrong With Claude](https://clawd.rip/)
 - [Gabriel Chávez blog](https://gabrielchavez.me/)
 - [Gettalong](https://gettalong.org/)
 - [Gusty's Oasis](https://gusted.xyz/)
@@ -900,6 +902,7 @@ description: News sources, media outlets, and current-events platforms.
 - [Cybernews](https://cybernews.com/)
 - [CyberSecurity News](https://cybersecuritynews.es/)
 - [Dark Reading](https://www.darkreading.com/)
+- [Dark Web Informer](https://darkwebinformer.com/)
 - [Derecho de la Red](https://derechodelared.com/)
 - [elhacker.NET](https://www.elhacker.net/)
 - [Elie Bursztein's site](https://elie.net/)
@@ -995,6 +998,7 @@ description: News sources, media outlets, and current-events platforms.
 - [Giztele](https://www.giztele.com/)
 - [I Love Free Software](https://www.ilovefreesoftware.com/)
 - [Informático Vitoria](https://www.informaticovitoria.com/)
+- [Is AI Profitable Yet?](https://isaiprofitable.com/)
 - [kilObit](https://kil0bit.blogspot.com/)
 - [Kimovil Blog](https://blog.kimovil.com/es)
 - [List Of Freeware](https://listoffreeware.com/)
@@ -1482,6 +1486,7 @@ description: News sources, media outlets, and current-events platforms.
 - [eHow](https://www.ehow.com/)
 - [eHow español](https://www.ehowenespanol.com/)
 - [Folyo.me](https://folyo.me/)
+- [Learn Me A Bitcoin (By Greg Walker)](https://learnmeabitcoin.com/)
 - [Lifehack](https://www.lifehack.org/)
 - [Wonder How To](https://www.wonderhowto.com/)
 
