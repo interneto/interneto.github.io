@@ -47,6 +47,7 @@ To run AI models locally you need a runtime — the layer that loads, manages, a
 | ![][oll]  | [Ollama](https://ollama.com/)                      | Ollama               | MIT         | Free  | Quick local setup with broad model support    |
 | ![][lms]  | [LM Studio](https://lmstudio.ai/)                  | LM Studio            | Proprietary | Free  | GUI-based local experimentation               |
 | ![][llcp] | [llama.cpp](https://github.com/ggml-org/llama.cpp) | ggml-org / Community | MIT         | Free  | Maximum control, performance, and portability |
+| ![][vllm] | [vLLM](https://vllm.ai/)                           | vLLM Project         | Apache-2.0  | Free  | High-throughput LLM serving and API inference |
 | ![][g4a]  | [GPT4All](https://www.nomic.ai/gpt4all)            | Nomic AI             | MIT         | Free  | Privacy-first onboarding, no cloud required   |
 
 > **Note:** Local performance depends primarily on hardware (RAM, VRAM, CPU, GPU) rather than the runtime tool itself.
@@ -205,6 +206,7 @@ Agent skills are reusable instruction sets — typically `.md` files — that gi
 [qwen]:   /img/assets/ai-coding-tools/qwen.svg
 [rep]:    /img/software/apps/replicate.svg
 [vast]:   /img/assets/ai-coding-tools/vast.svg
+[vllm]:   /img/assets/ai-coding-tools/vllm.svg
 [vsc]:    /img/software/apps/visual-studio-code.svg
 [ws]:     /img/assets/ai-coding-tools/windsurf.svg
 [zed]:    /img/software/apps/zed.svg
