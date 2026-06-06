@@ -7,7 +7,8 @@
       "Read(//d/d/Workspaces/David7ce-user/Interneto-Project/interneto-website/src/scripts/**)",
       "Bash(git mv *)",
       "Bash(npx astro *)",
-      "Bash(pnpm build *)"
+      "Bash(pnpm build *)",
+      "Bash(node -e ' *)"
     ]
   }
 }

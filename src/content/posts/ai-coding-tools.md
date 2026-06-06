@@ -44,11 +44,53 @@ A frontier AI system is a vertical stack — from **silicon at the bottom to the
 | **Alignment**           | SFT / RLHF / Constitutional AI (Anthropic)                                                                                                                                                                                                                                                                                                                                     | SFT / DPO / RLHF (open preference data)                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | **Training framework**  | PyTorch / JAX                                                                                                                                                                                                                                                                                                                                                                  | PyTorch / DeepSpeed / Megatron                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | **Orchestration**       | Internal (Kubernetes / Ray)                                                                                                                                                                                                                                                                                                                                                    | Kubernetes / Ray / Slurm                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| **Operating system**    | Linux (Ubuntu / Debian / custom)                                                                                                                                                                                                                                                                                                                                               | Linux / macOS / Windows (self-host)                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | **Cloud / data center** | Azure / AWS / Google Cloud                                                                                                                                                                                                                                                                                                                                                     | Vast.ai / RunPod / self-hosted                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | **Accelerator (chips)** | NVIDIA / TPU / Trainium / Broadcom (custom)                                                                                                                                                                                                                                                                                                                                    | NVIDIA / AMD / Apple Silicon                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | **Interconnect**        | NVLink / InfiniBand                                                                                                                                                                                                                                                                                                                                                            | InfiniBand / Ethernet                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 
 > **Note:** Closed stacks are vertically integrated — lower cost and tighter control, but heavier lock-in. The open-source stack trades turnkey convenience for portability: every layer, from the chip to the app, can be swapped or self-hosted.
+
+### The Hidden Ingredient — the Data Flywheel
+
+Notice what the two columns *share*: identical chips, the same training frameworks, near-identical transformer architectures, even the same pre-training objective. Raw pre-training is commoditizing — which is why open weights keep closing the gap. The durable edge of the closed labs lives almost entirely in **post-training**: proprietary human-preference and expert data, reward models, RL environments, and a tight eval-and-iteration loop that is never published.
+
+It compounds into a **flywheel**: a frontier model ships inside a product, hundreds of millions of users generate fresh feedback, that feedback fuels better post-training, and a better model ships. Compute and data-labeling spend start the wheel; the product then spins it for free. Open weights can copy the *artifact*, but not the loop that produced it.
+
+The open ecosystem has reproduced most of the *machinery* of that loop — just not the fuel:
+
+| Flywheel part         | Closed (proprietary)       | Open equivalent                        |
+|-----------------------|----------------------------|----------------------------------------|
+| Data registry         | Internal data lakes        | Hugging Face Hub                       |
+| Pre-training data     | Web + licensed + synthetic | FineWeb / The Stack / Dolma            |
+| Post-training toolkit | In-house RLHF infra        | TRL / OpenRLHF / Axolotl               |
+| Reference recipe      | Unpublished                | OLMo + Tülu 3 (SFT → DPO → RLVR)       |
+| RL algorithm          | Proprietary                | GRPO (open, via DeepSeek)              |
+| Human feedback        | Product telemetry          | LMArena votes / OpenAssistant          |
+| Evals                 | Private suites             | lm-eval-harness / SWE-bench            |
+| Compute pooling       | Owned clusters             | Decentralized (Prime Intellect / Nous) |
+
+> **The gap, and the open bet:** the single piece with no open equivalent is *product-scale human feedback*. The open substitute — distilling training data from closed models — is derivative and tracks behind by design. The genuinely independent open path is **RL with verifiable rewards (RLVR)**: for code, math, and agentic tasks the reward is automatic (tests pass, the answer checks out), so progress needs neither armies of labelers nor a giant consumer product — exactly the coding domain this guide cares about.
+
+### The Minimal Stack — and Where the Math Runs
+
+The table above is the whole industry. One developer actually needs **four layers** — and two tools cover them. Everything higher up (apps, SDKs, vector DBs, orchestration, the entire training column) is optional. The smallest usable AI coder is two commands:
+
+```bash
+ollama run qwen3.6    # runtime + model = a working LLM, in one line
+opencode              # optional agent on top, pointed at your local Ollama
+```
+
+| Layer              | Minimal pick              | What it actually does                                   |
+|--------------------|---------------------------|---------------------------------------------------------|
+| Agent *(optional)* | OpenCode                  | Turns your intent into prompts + tool calls             |
+| Runtime            | Ollama (llama.cpp / GGML) | **Runs the transformer forward pass**                   |
+| Model              | Qwen Coder — GGUF weights | The learned weight matrices (just numbers)              |
+| Hardware           | Your GPU / CPU            | **The real math: matrix multiplies (GEMM) + attention** |
+
+So where is the *transform*, and where is the *real math*? Your prompt is split into tokens, each mapped to an embedding vector. Those vectors flow through the model's stacked **Transformer blocks** — every block runs **self-attention** (each token attends to all the others) plus a **feed-forward** network, and both are almost entirely **matrix multiplications** (GEMM). That sequence *is* the transform. The model file holds only the weights — the numbers inside those matrices. The **runtime** (llama.cpp / GGML inside Ollama) turns the architecture into a schedule of multiplications, and the **GPU/CPU executes the arithmetic** — billions of multiply-adds per token generated.
+
+> **In one line:** the model is the *numbers*, the runtime is the *recipe*, the hardware is *where the arithmetic happens*. Strip everything else away and an AI coder is just `ollama run` feeding weight matrices to a chip that multiplies them — one token at a time.
 
 
 ## Quick Picks
@@ -168,6 +210,39 @@ Data from [Artificial Analysis](https://artificialanalysis.ai/leaderboards/model
 > **Input / Output** — API price per 1M tokens. Effective cost varies with prompt caching and usage ratio.
 
 *Best intelligence:* GPT-5.5 · *Fastest:* Gemini 3 Flash · *Best value frontier:* Kimi K2.6 · *Cheapest capable:* DeepSeek V4 Flash
+
+## Beyond Text — Other AI Modalities
+
+Everything above is text and code. But the same machinery — transformers, plus **diffusion** models for pixels and audio — also generates speech, images, video, and music. To settle the obvious question: **these are models, not tools.** They run the same kind of forward-pass math on the same hardware; only the model and its runtime change, so they drop into the identical stack (app → model → runtime → hardware). The open ecosystem mirrors the closed one, modality for modality:
+
+| Modality                 | Closed / Proprietary                                    | Open-Source                                | Run it locally with            |
+|--------------------------|---------------------------------------------------------|--------------------------------------------|--------------------------------|
+| **Speech-to-text (STT)** | OpenAI gpt-4o-transcribe / Deepgram / ElevenLabs Scribe | Whisper / NVIDIA Parakeet / Moonshine      | whisper.cpp / faster-whisper   |
+| **Text-to-speech (TTS)** | ElevenLabs / OpenAI TTS / Cartesia                      | Kokoro / XTTS / Piper / Orpheus            | Transformers / Piper / ComfyUI |
+| **Image generation**     | Midjourney / GPT Image / Google Nano Banana             | FLUX.1 / Stable Diffusion 3.5 / Qwen-Image | ComfyUI / Diffusers            |
+| **Video generation**     | Sora / Veo 3 / Runway Gen-4 / Kling                     | Wan 2.2 / HunyuanVideo / LTX-Video / Mochi | ComfyUI                        |
+| **Music / audio**        | Suno / Udio / Google Lyria                              | Stable Audio / MusicGen / ACE-Step         | Transformers / ComfyUI         |
+| **Embeddings**           | OpenAI text-embedding-3 / Cohere / Voyage               | BGE / Nomic Embed / Qwen3-Embedding        | Ollama / sentence-transformers |
+| **3D / assets**          | Meshy / Luma / Rodin                                    | TRELLIS / Hunyuan3D                        | ComfyUI                        |
+
+> **Note:** The closed-vs-open split repeats in every modality. For image, video, and audio the universal open runtime is **ComfyUI** — the Ollama of pixels — and **whisper.cpp** covers speech. The reverse direction (image / audio → text *understanding*) is already handled by the multimodal LLMs in the main table.
+
+### How Close Is This to Jarvis?
+
+Step back and the resemblance is hard to miss: a system you **talk to**, that **sees**, **reasons**, **plans**, writes code, **generates** images and video, **calls tools**, and **remembers** — that is essentially **J.A.R.V.I.S.** from Iron Man. The films treated it as one seamless intelligence; the tables above are the same capability set, assembled from separate models behind a runtime. Most of Jarvis already exists — it simply is not yet fused into one low-latency, always-on, autonomous whole.
+
+| Jarvis capability   | Built from (today's stack)                          | Status        |
+|---------------------|-----------------------------------------------------|---------------|
+| Talk & listen       | STT + LLM + TTS (Whisper → GPT/Claude → ElevenLabs) | ✅ Works today |
+| Reason & plan       | Frontier LLM + agent loop                           | ✅ Strong      |
+| See & understand    | Multimodal LLM (vision)                             | ✅ Works today |
+| Design & generate   | Image / video / 3D models (FLUX / Veo / TRELLIS)    | ◑ Partial     |
+| Act — control tools | Agent SDK + MCP + tool calling                      | ◑ Sandboxed   |
+| Remember            | Vector DB + long context                            | ◑ Improving   |
+| Always-on autonomy  | Orchestration + RLVR agents                         | ❌ Not yet     |
+| Physical embodiment | Robotics + world models                             | ❌ Early       |
+
+> **What is still science fiction:** not the individual abilities — those ship today — but the *integration*: sub-second multimodal round-trips, reliable long-horizon autonomy with no human in the loop, persistent lifelong memory, and a grounded world model for acting in physical space. Jarvis is now an **orchestration and reliability** problem, not a capability one.
 
 
 ---
