@@ -216,6 +216,12 @@
   display: none;
 }
 
+.vp-content-empty {
+  color: var(--vp-c-text-2);
+  font-style: italic;
+  margin-top: 1rem;
+}
+
 /* ---- TOC (right rail, used on /post/<slug>/ and /categories/<slug>/) ---- */
 .vp-toc {
   display: none;

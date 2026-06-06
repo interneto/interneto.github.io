@@ -97,8 +97,9 @@ const allTags = Array.from(
           const tags = (card.getAttribute('data-tags') || '').split(',').filter(Boolean);
           const title = normalize(card.querySelector('.vp-content-card-title')?.textContent || '');
           const desc = normalize(card.querySelector('.vp-content-card-description')?.textContent || '');
+          const tagText = tags.join(' ').toLowerCase();
           const matchesTag = !activeTag || tags.includes(activeTag);
-          const matchesQuery = !activeQuery || title.includes(activeQuery) || desc.includes(activeQuery);
+          const matchesQuery = !activeQuery || title.includes(activeQuery) || desc.includes(activeQuery) || tagText.includes(activeQuery);
           card.classList.toggle('vp-tag-hidden', !matchesTag);
           card.classList.toggle('vp-search-hidden', !matchesQuery);
         });

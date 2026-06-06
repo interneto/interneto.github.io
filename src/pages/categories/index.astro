@@ -68,5 +68,33 @@ const docs = allDocs
         );
       })}
     </section>
+
+    <p class="vp-content-empty" data-search-empty hidden>No categories match your search.</p>
   </div>
+
+  <script is:inline>
+    (() => {
+      const cards = Array.from(document.querySelectorAll('.vp-content-card'));
+      const searchInput = document.getElementById('categorySidebarSearch');
+      const empty = document.querySelector('[data-search-empty]');
+      if (!(searchInput instanceof HTMLInputElement)) return;
+
+      const normalize = (v) => v.trim().toLowerCase();
+
+      const apply = () => {
+        const q = normalize(searchInput.value);
+        let anyVisible = false;
+        cards.forEach((card) => {
+          const title = normalize(card.querySelector('.vp-content-card-title')?.textContent || '');
+          const desc = normalize(card.querySelector('.vp-content-card-description')?.textContent || '');
+          const matches = !q || title.includes(q) || desc.includes(q);
+          card.classList.toggle('vp-search-hidden', !matches);
+          if (matches) anyVisible = true;
+        });
+        if (empty) empty.hidden = anyVisible;
+      };
+
+      searchInput.addEventListener('input', apply);
+    })();
+  </script>
 </VPLayout>
