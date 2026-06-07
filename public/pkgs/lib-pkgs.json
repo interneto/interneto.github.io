@@ -269,6 +269,13 @@
                     ]
                 },
                 {
+                    "name": "opencode-ai",
+                    "display": "opencode",
+                    "badges": [
+                        "modern"
+                    ]
+                },
+                {
                     "name": "parcel",
                     "display": "Parcel",
                     "badges": [

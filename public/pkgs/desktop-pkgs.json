@@ -471,6 +471,24 @@
         "unix": "curl -fsSL https://claude.ai/install.sh | bash"
       }
     },
+    "codex": {
+      "name": "Codex",
+      "category": "Development",
+      "subcategory": "Ai Client",
+      "package_manager": {
+        "linux_arch_aur": "codex-bin",
+        "linux_arch_pacman": null,
+        "linux_debian_apt": null,
+        "linux_fedora_rpm": null,
+        "linux_gentoo_emerge": null,
+        "linux_flatpak": null,
+        "linux_snap": null,
+        "freebsd_pkg": null,
+        "macos_brew": "codex",
+        "unix_nix_env": "nixos.codex",
+        "windows_winget": "OpenAI.Codex"
+      }
+    },
     "comfyui": {
       "name": "ComfyUI",
       "category": "Image",
@@ -2683,6 +2701,24 @@
         "macos_brew": "onlyoffice",
         "unix_nix_env": "onlyoffice-nixos.onlyoffice-bin",
         "windows_winget": "ONLYOFFICE.DesktopEditors"
+      }
+    },
+    "opencode": {
+      "name": "opencode",
+      "category": "Development",
+      "subcategory": "Ai Client",
+      "package_manager": {
+        "linux_arch_aur": "opencode-bin",
+        "linux_arch_pacman": null,
+        "linux_debian_apt": null,
+        "linux_fedora_rpm": null,
+        "linux_gentoo_emerge": null,
+        "linux_flatpak": null,
+        "linux_snap": null,
+        "freebsd_pkg": null,
+        "macos_brew": "sst/tap/opencode",
+        "unix_nix_env": "nixos.opencode",
+        "windows_winget": "SST.opencode"
       }
     },
     "openrgb": {
