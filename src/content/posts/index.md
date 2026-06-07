@@ -10,6 +10,7 @@ footer: true
 ## Comparing
 
 - [AI Coding Tools](/post/ai-coding-tools)
+- [Chatbot AI Platform Comparison](/post/chatbot-ai-platform-comparison)
 - [Bookmark Managers](/post/bookmark-managers)
 - [Linux Distributions](/post/linux-distros)
 
@@ -28,6 +29,7 @@ footer: true
 
 ## Philosophy
 
-- [Turing-Complete: A Discovery Inherent to Reality](/post/turing-complete-reality)
 - [Organic Life vs Artificial Life: From Cell to Body](/post/organic-vs-artificial-life)
+- [Risks of using Artifical Intelligence](/posts/ai-risks)
+- [Turing-Complete: A Discovery Inherent to Reality](/post/turing-complete-reality)
 

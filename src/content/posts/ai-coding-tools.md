@@ -9,13 +9,13 @@ footer: true
 
 ## What Is AI Coding?
 
-AI coding is no longer one tool and one model. Productive workflows now combine editors, coding interfaces, and model runtimes — and you choose them independently based on task, privacy, and team setup.
+AI coding is no longer one tool plus one model. Real workflows mix editor, agent, runtime, model host, and hardware depending on task, privacy, and budget.
 
-This guide explains **what you need to know** to build or use an AI-powered coding system:
-1. The industry architecture — two competing stacks
-2. Why closed models lead — the data flywheel
-3. What a minimal viable stack looks like — and where the math runs
-4. Which tools do what — comprehensive catalog across layers
+This guide is compact by design:
+1. Shared industry stack
+2. Provider deltas that actually matter
+3. Minimal local stack
+4. Tool catalog by layer
 
 ---
 
@@ -42,11 +42,16 @@ A frontier AI system is a vertical stack — from **silicon at the bottom to the
 
 > **Note:** Closed stacks are vertically integrated — lower cost and tighter control, but heavier lock-in. The open-source stack trades turnkey convenience for portability: every layer, from the chip to the app, can be swapped or self-hosted.
 
-### Why Closed Models Lead: The Data Flywheel
+### What Is Mostly Standardized
 
-The two ecosystems share identical chips, frameworks, and architectures. **Raw pre-training is commoditizing.** The edge of closed labs lives in **post-training**: proprietary human-preference data, reward models, and a tight eval loop. This creates a **flywheel**: frontier model → product → millions of users → feedback → better post-training → better model. Users spin it for free. Open weights copy the artifact, not the loop that produced it.
+- Markdown-first text output
+- SSE + JSON delta streaming
+- Markdown -> AST -> component render path
+- MCP as practical tool-calling standard
 
-The open stack has the machinery but lacks product-scale feedback. The independent path: **RLVR (RL with verifiable rewards)** — for code/math, rewards are automatic (tests pass, answer checks). Perfect for coding, needs no massive user base.
+Most products now look similar in the middle layers; real differences are concentrated in model behavior, context reliability, product UX, and ecosystem lock-in.
+
+For the full provider-by-provider snapshot, see [src/content/posts/chatbot-ai-platform-comparison.md](src/content/posts/chatbot-ai-platform-comparison.md).
 
 ### The Minimal Stack: What You Actually Need
 
@@ -123,51 +128,21 @@ The same machinery — transformers plus **diffusion** models for pixels and aud
 
 ---
 
-## Building Jarvis: Integration Over Capability
+## Build Strategy in 2026
 
-Assemble the pieces above and you get something familiar: a system you **talk to**, that **sees**, **reasons**, **plans**, writes code, **generates** visuals, **calls tools**, and **remembers**. That is **J.A.R.V.I.S.** from Iron Man.
+Use this quick decision rule:
 
-The films treated it as one seamless intelligence. The stacks above show the same capability set — separate models unified behind a runtime. **Most of Jarvis already exists.** It simply isn't fused into one low-latency, always-on, autonomous system yet.
+- Local-first when privacy, cost control, or offline operation dominates
+- Cloud-first when setup speed and model quality dominate
+- Hybrid when you want local dev loops plus cloud fallback for hard tasks
 
-| Jarvis capability   | Built from (today's stack)                          | Status        |
-|---------------------|-----------------------------------------------------|---------------|
-| Talk & listen       | STT + LLM + TTS (Whisper → GPT/Claude → ElevenLabs) | ✅ Works today |
-| Reason & plan       | Frontier LLM + agent loop                           | ✅ Strong      |
-| See & understand    | Multimodal LLM (vision)                             | ✅ Works today |
-| Design & generate   | Image / video / 3D models (FLUX / Veo / TRELLIS)    | ◑ Partial     |
-| Act — control tools | Agent SDK + MCP + tool calling                      | ◑ Sandboxed   |
-| Remember            | Vector DB + long context                            | ◑ Improving   |
-| Always-on autonomy  | Orchestration + RLVR agents                         | ❌ Not yet     |
-| Physical embodiment | Robotics + world models                             | ❌ Early       |
-
-> **What is still science fiction:** not the individual abilities — those ship today — but the *integration*: sub-second multimodal round-trips, reliable long-horizon autonomy with no human in the loop, persistent lifelong memory, and a grounded world model for acting in physical space. Jarvis is now an **orchestration and reliability** problem, not a capability one.
-
----
-
-## Agent Skills: Extending Capabilities
-
-Agent skills are reusable `.md` instruction sets that embed domain knowledge into agents without retraining. Teach coding patterns, API protocols, company standards, or specialized workflows.
-
-- **Registries:** [skills.sh](https://skills.sh/) · [agentskills.io](https://agentskills.io/) · [ClawHub](https://clawhub.ai/)
-- **Official:** [Anthropic](https://github.com/anthropics/skills) · [OpenAI](https://github.com/openai/skills) · [Google](https://github.com/google/skills)
-- **Learn:** [Prompting Guide](https://www.promptingguide.ai/) · [Learn Prompting](https://learnprompting.org/)
-
----
-
-## Where We Are
-
-**The capability exists today.** The full stack is shipped: frontier models, open-source alternatives, local runtimes, agents, multimodal synthesis, and autonomous tool-use. For coding specifically, the gap between theory and shipping code is now near-zero.
-
-**The remaining work is integration.** Jarvis requires not new capabilities but reliable orchestration: sub-second multimodal latency, persistent memory across sessions, autonomous long-horizon planning without human intervention, and physical grounding for robots. These are engineering and reliability problems — not research frontiers.
-
-**The 2026 choice:** Run locally for privacy, use cloud for simplicity, or mix both. The tools exist. The models exist. The math is public. The question is no longer *what can we build* but *how do we build it well*.
+At this point, the hard problem is no longer model availability. It is integration quality: latency, reliability, memory design, and tool orchestration.
 
 <!-- favicon references -->
 [ag]:     /img/assets/ai-coding-tools/antigravity.svg
 [cc]:     /img/software/apps/claude-code.svg
 [cdx]:    /img/software/apps/codex.svg
 [cla4]:   /img/software/apps/claude.svg
-[cline]:   /img/software/apps/cline.svg
 [codes]:  /img/assets/ai-coding-tools/mistral.svg
 [cur]:    /img/assets/ai-coding-tools/cursor.svg
 [dsv3]:   /img/software/apps/deepseek.svg
@@ -182,15 +157,10 @@ Agent skills are reusable `.md` instruction sets that embed domain knowledge int
 [llcp]:   /img/software/apps/llama-cpp.svg
 [llm3]:   /img/assets/ai-coding-tools/meta.svg
 [lms]:    /img/assets/ai-coding-tools/lmstudio.svg
-[mimo]:   /img/assets/ai-coding-tools/xiaomi.svg
 [mmx]:    /img/assets/ai-coding-tools/minimax.svg
 [oc]:     /img/assets/ai-coding-tools/opencode.svg
-[odys]:   /img/software/apps/odysseus.svg
 [oi]:     /img/assets/ai-coding-tools/open-interpreter.svg
 [oll]:    /img/software/apps/ollama.svg
-[oclaw]:  /img/software/apps/github.svg
-[openai]: /img/software/apps/chatgpt.svg
-[ollama]: /img/software/apps/ollama.svg
 [or]:     /img/software/apps/openrouter.svg
 [qwen]:   /img/assets/ai-coding-tools/qwen.svg
 [rep]:    /img/software/apps/replicate.svg
