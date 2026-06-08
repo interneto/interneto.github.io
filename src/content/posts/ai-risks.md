@@ -1,7 +1,7 @@
 ---
 title: AI Risks
 description: The Risks of Relying on Artificial Intelligence
-date: 2026-04-29
+date: 2026-06-08
 next: true
 prev: true
 footer: true

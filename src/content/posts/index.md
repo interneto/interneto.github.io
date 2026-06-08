@@ -16,6 +16,7 @@ footer: true
 
 ## How-To
 
+- [How to Build a Deterministic AI UI Product](/post/how-to-build-deterministic-ai-product)
 - [How To Categorize Links](/post/how-to-categorize-links)
 - [How Files Are Transferred and Synced Between Devices](/post/file-sync)
 

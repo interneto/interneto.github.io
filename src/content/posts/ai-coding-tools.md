@@ -1,7 +1,7 @@
 ---
 title: AI Coding Tools
 description: Understanding the stack, tools, and models powering modern AI coding
-date: 2026-04-29
+date: 2026-06-06
 next: true
 prev: true
 footer: true
