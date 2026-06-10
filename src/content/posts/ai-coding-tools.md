@@ -83,10 +83,10 @@ opencode              # optional agent
   width: 2.5em;
   height: 2.5em;
   margin: 0.3em;
-  background: rgba(128,128,128,0.08);
-  border: 1px solid rgba(128,128,128,0.2);
+  background: rgba(128,128,128,0.55);
+  border: 1px solid rgba(128,128,128,0.35);
   border-radius: 0.5em;
-  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12);
   transition: all 0.2s;
 }
 
