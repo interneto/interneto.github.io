@@ -5,6 +5,10 @@ date: 2026-06-06
 next: true
 prev: true
 footer: true
+tags:
+  - philosophy
+  - ai
+  - society
 ---
 
 ## The Old Machine

@@ -5,6 +5,10 @@ date: 2026-05-13
 next: true
 prev: true
 footer: true
+tags:
+  - software
+  - design
+  - principles
 ---
 
 ## Overview

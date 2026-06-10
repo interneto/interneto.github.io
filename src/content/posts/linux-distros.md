@@ -5,6 +5,10 @@ date: 2026-05-06
 next: true
 prev: true
 footer: true
+tags:
+  - linux
+  - distros
+  - comparison
 ---
 
 

@@ -8,13 +8,8 @@ footer: true
 tags:
   - philosophy
   - artificial-life
-  - information
   - biology
-  - hardware
-  - software
-  - ai
-  - robotics
-  - evolution
+  - information
 ---
 
 

@@ -5,6 +5,10 @@ date: 2026-05-03
 next: true
 prev: true
 footer: true
+tags:
+  - security
+  - vulnerabilities
+  - cve
 ---
 
 

@@ -5,6 +5,11 @@ date: 2026-06-08
 next: true
 prev: true
 footer: true
+tags:
+  - ai
+  - product
+  - ui
+  - how-to
 ---
 
 # How to Build a Deterministic AI UI Product

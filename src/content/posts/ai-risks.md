@@ -5,6 +5,10 @@ date: 2026-06-08
 next: true
 prev: true
 footer: true
+tags:
+  - ai
+  - society
+  - ethics
 ---
 
 # The Risk of Relying on Artificial Intelligence: When We Stop Thinking for Ourselves

@@ -5,6 +5,10 @@ date: 2026-05-16
 next: true
 prev: true
 footer: true
+tags:
+  - philosophy
+  - computation
+  - turing-complete
 ---
 
 ## The Question Before the Machine

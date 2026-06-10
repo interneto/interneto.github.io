@@ -5,6 +5,11 @@ date: 2026-06-06
 next: true
 prev: true
 footer: true
+tags:
+  - ai
+  - software
+  - tools
+  - comparison
 ---
 
 ## What Is AI Coding?

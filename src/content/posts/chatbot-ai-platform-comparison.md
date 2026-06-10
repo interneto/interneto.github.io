@@ -5,6 +5,11 @@ date: 2026-06-07
 next: true
 prev: true
 footer: true
+tags:
+  - ai
+  - llm
+  - chatbots
+  - comparison
 ---
 
 # Chatbot AI Platform Comparison (June 2026 Snapshot)

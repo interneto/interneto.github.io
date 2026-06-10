@@ -5,6 +5,10 @@ date: 2026-06-01
 next: true
 prev: true
 footer: true
+tags:
+  - networking
+  - file-transfer
+  - cloud
 ---
 
 
