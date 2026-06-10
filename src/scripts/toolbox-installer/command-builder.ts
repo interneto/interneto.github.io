@@ -19,15 +19,15 @@ export type PackagesData = {
 
 /**
  * Build an installation command from selected packages and distro
- * @param {string} selectedDistro - The package manager key (e.g., 'linux_arch_pacman')
- * @param {Array} selectedPackageIds - Array of selected package IDs
- * @param {Object} packagesData - The packages data object with structure: { packages: { id: {...} } }
- * @returns {Object} Result object with command, warnings, and metadata
- * @returns {string} result.finalCommand - The main installation command
- * @returns {string} result.aurCommand - AUR command (if applicable for Arch)
- * @returns {string} result.resultCommand - Combined final command
- * @returns {Array} result.nonInstallablePackages - Packages not available for this distro
- * @returns {boolean} result.hasCommand - Whether a command was generated
+ * @param selectedDistro - The package manager key (e.g., 'linux_arch_pacman')
+ * @param selectedPackageIds - Array of selected package IDs
+ * @param packagesData - The packages data object with structure: { packages: { id: {...} } }
+ * @returns Result object with:
+ *   - finalCommand: The main installation command
+ *   - aurCommand: AUR command (if applicable for Arch)
+ *   - resultCommand: Combined final command
+ *   - nonInstallablePackages: Packages not available for this distro
+ *   - hasCommand: Whether a command was generated
  */
 export function buildCommand(
     selectedDistro: string,
@@ -94,7 +94,7 @@ export function getCommandPrefix(distroKey: string): string {
 
 /**
  * Get all available distro keys
- * @returns {Array<string>} Array of distro keys
+ * @returns Array of distro keys
  */
 export function getAvailableDistros() {
     return Object.keys(getDistroPrefixes());

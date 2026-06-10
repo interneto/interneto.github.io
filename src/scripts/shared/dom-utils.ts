@@ -7,7 +7,7 @@ import { CLASS_NAMES, ATTR_NAMES, ELEMENT_IDS } from './dom-constants';
 
 /**
  * Get all selected package IDs that are currently visible (not hidden by search, FOSS filter, or distro)
- * @returns {string[]} Array of selected package IDs
+ * @returns Array of selected package IDs
  */
 export function getSelectedPackageIds() {
     return Array.from(document.querySelectorAll<HTMLInputElement>('input[name="pkg"]:checked'))
@@ -23,7 +23,7 @@ export function getSelectedPackageIds() {
 
 /**
  * Get all visible (not hidden by FOSS filter) package checkboxes
- * @returns {HTMLInputElement[]} Array of visible checkbox elements
+ * @returns Array of visible checkbox elements
  */
 export function getVisibleCheckboxes() {
     return Array.from(document.querySelectorAll(`.${CLASS_NAMES.PACKAGE_CHECKBOX}`))
@@ -38,7 +38,7 @@ export function getVisibleCheckboxes() {
 
 /**
  * Get the currently active OS
- * @returns {string|null} The active OS (linux, windows, macos, freebsd) or null
+ * @returns The active OS (linux, windows, macos, freebsd) or null
  */
 export function getActiveOS() {
     const activeBtn = document.querySelector(`.${CLASS_NAMES.OS_BTN}.${CLASS_NAMES.ACTIVE}`) as HTMLElement | null;
@@ -47,7 +47,7 @@ export function getActiveOS() {
 
 /**
  * Get the currently active Linux distro
- * @returns {string|null} The active distro key or null
+ * @returns The active distro key or null
  */
 export function getActiveDistro() {
     const activeBtn = document.querySelector(`.${CLASS_NAMES.DISTRO_BTN}.${CLASS_NAMES.ACTIVE}`) as HTMLElement | null;
@@ -56,20 +56,20 @@ export function getActiveDistro() {
 
 /**
  * Update active state on a group of buttons
- * @param {string} selectorClass - CSS class of buttons to manage
- * @param {HTMLElement} clickedElement - The button that was clicked
- * @param {boolean} updateAria - Whether to update aria-checked attribute
+ * @param selectorClass - CSS class of buttons to manage
+ * @param clickedElement - The button that was clicked
+ * @param updateAria - Whether to update aria-checked attribute
  */
-export function updateActiveButton(selectorClass, clickedElement, updateAria = false) {
+export function updateActiveButton(selectorClass: string, clickedElement: Element, updateAria = false) {
     const buttons = document.querySelectorAll(`.${selectorClass}`);
-    
+
     buttons.forEach(btn => {
         btn.classList.remove(CLASS_NAMES.ACTIVE);
         if (updateAria) {
             btn.setAttribute(ATTR_NAMES.ARIA_CHECKED, 'false');
         }
     });
-    
+
     clickedElement.classList.add(CLASS_NAMES.ACTIVE);
     if (updateAria) {
         clickedElement.setAttribute(ATTR_NAMES.ARIA_CHECKED, 'true');
@@ -78,10 +78,10 @@ export function updateActiveButton(selectorClass, clickedElement, updateAria = f
 
 /**
  * Set multiple ARIA attributes on an element
- * @param {HTMLElement} element - Target element
- * @param {Object} attributes - Object with attribute names as keys and values
+ * @param element - Target element
+ * @param attributes - Object with attribute names as keys and values
  */
-export function setAriaAttributes(element, attributes) {
+export function setAriaAttributes(element: Element, attributes: Record<string, string>) {
     Object.entries(attributes).forEach(([key, value]) => {
         element.setAttribute(`aria-${key}`, value);
     });
@@ -89,8 +89,8 @@ export function setAriaAttributes(element, attributes) {
 
 /**
  * Get checkbox by package ID
- * @param {string} packageId - The package ID
- * @returns {HTMLInputElement|null} The checkbox element or null
+ * @param packageId - The package ID
+ * @returns The checkbox element or null
  */
 export function getPackageCheckbox(packageId: string): HTMLInputElement | null {
     return document.getElementById(packageId) as HTMLInputElement | null;
@@ -98,10 +98,10 @@ export function getPackageCheckbox(packageId: string): HTMLInputElement | null {
 
 /**
  * Get all checkboxes for a specific category
- * @param {string} category - Category name
- * @returns {HTMLInputElement[]} Array of checkbox elements
+ * @param category - Category name
+ * @returns Array of checkbox elements
  */
-export function getPackageCheckboxesByCategory(category) {
+export function getPackageCheckboxesByCategory(category: string | undefined) {
     return Array.from(
         document.querySelectorAll(`.${CLASS_NAMES.PACKAGE_CHECKBOX}[${ATTR_NAMES.CATEGORY}="${category}"]`)
     );
@@ -109,10 +109,10 @@ export function getPackageCheckboxesByCategory(category) {
 
 /**
  * Get the category checkbox for a specific category
- * @param {string} category - Category name
- * @returns {HTMLInputElement|null} The category checkbox or null
+ * @param category - Category name
+ * @returns The category checkbox or null
  */
-export function getCategoryCheckbox(category) {
+export function getCategoryCheckbox(category: string | undefined) {
     return document.querySelector(
         `.${CLASS_NAMES.CATEGORY_CHECKBOX}[${ATTR_NAMES.CATEGORY}="${category}"]`
     );
@@ -120,41 +120,38 @@ export function getCategoryCheckbox(category) {
 
 /**
  * Get element by ID from ELEMENT_IDS constants
- * @param {string} idKey - Key from ELEMENT_IDS
- * @returns {HTMLElement|null}
+ * @param idKey - Key from ELEMENT_IDS
  */
-export function getElement(idKey) {
+export function getElement(idKey: keyof typeof ELEMENT_IDS) {
     const elementId = ELEMENT_IDS[idKey];
     return elementId ? document.getElementById(elementId) : null;
 }
 
 /**
  * Query all elements of a certain class
- * @param {string} classNameKey - Key from CLASS_NAMES
- * @returns {NodeListOf<HTMLElement>}
+ * @param classNameKey - Key from CLASS_NAMES
  */
-export function queryByClass(classNameKey) {
+export function queryByClass(classNameKey: keyof typeof CLASS_NAMES) {
     const className = CLASS_NAMES[classNameKey];
     return className ? document.querySelectorAll(`.${className}`) : null;
 }
 
 /**
  * Check if an element has a specific CSS class
- * @param {HTMLElement} element - Target element
- * @param {string} classKey - Key from CLASS_NAMES
- * @returns {boolean}
+ * @param element - Target element
+ * @param classKey - Key from CLASS_NAMES
  */
-export function hasClass(element, classKey) {
+export function hasClass(element: Element | null, classKey: keyof typeof CLASS_NAMES) {
     const className = CLASS_NAMES[classKey];
     return element && className ? element.classList.contains(className) : false;
 }
 
 /**
  * Add CSS class to element using CLASS_NAMES key
- * @param {HTMLElement} element - Target element
- * @param {string} classKey - Key from CLASS_NAMES
+ * @param element - Target element
+ * @param classKey - Key from CLASS_NAMES
  */
-export function addClass(element, classKey) {
+export function addClass(element: Element | null, classKey: keyof typeof CLASS_NAMES) {
     const className = CLASS_NAMES[classKey];
     if (element && className) {
         element.classList.add(className);
@@ -163,10 +160,10 @@ export function addClass(element, classKey) {
 
 /**
  * Remove CSS class from element using CLASS_NAMES key
- * @param {HTMLElement} element - Target element
- * @param {string} classKey - Key from CLASS_NAMES
+ * @param element - Target element
+ * @param classKey - Key from CLASS_NAMES
  */
-export function removeClass(element, classKey) {
+export function removeClass(element: Element | null, classKey: keyof typeof CLASS_NAMES) {
     const className = CLASS_NAMES[classKey];
     if (element && className) {
         element.classList.remove(className);
@@ -175,22 +172,21 @@ export function removeClass(element, classKey) {
 
 /**
  * Toggle CSS class on element
- * @param {HTMLElement} element - Target element
- * @param {string} classKey - Key from CLASS_NAMES
- * @returns {boolean} New state of the class
+ * @param element - Target element
+ * @param classKey - Key from CLASS_NAMES
+ * @returns New state of the class
  */
-export function toggleClass(element, classKey) {
+export function toggleClass(element: Element | null, classKey: keyof typeof CLASS_NAMES) {
     const className = CLASS_NAMES[classKey];
     return element && className ? element.classList.toggle(className) : false;
 }
 
 /**
  * Query a single element with optional warning
- * @param {string} selector - CSS selector
- * @param {boolean} warnIfNotFound - Log warning if not found
- * @returns {HTMLElement|null}
+ * @param selector - CSS selector
+ * @param warnIfNotFound - Log warning if not found
  */
-export function querySelector(selector, warnIfNotFound = false) {
+export function querySelector(selector: string, warnIfNotFound = false) {
     const element = document.querySelector(selector);
     if (!element && warnIfNotFound) {
         console.warn(`Element not found: ${selector}`);
@@ -200,19 +196,19 @@ export function querySelector(selector, warnIfNotFound = false) {
 
 /**
  * Query all elements and return as array
- * @param {string} selector - CSS selector
- * @returns {HTMLElement[]} Array of elements
+ * @param selector - CSS selector
+ * @returns Array of elements
  */
-export function querySelectorAll(selector) {
+export function querySelectorAll(selector: string) {
     return Array.from(document.querySelectorAll(selector));
 }
 
 /**
  * Set multiple attributes on an element at once
- * @param {HTMLElement} element - Target element
- * @param {Object} attributes - Object with attribute names and values
+ * @param element - Target element
+ * @param attributes - Object with attribute names and values
  */
-export function batchSetAttributes(element, attributes) {
+export function batchSetAttributes(element: Element | null, attributes: Record<string, string | null | undefined>) {
     if (!element) return;
     Object.entries(attributes).forEach(([key, value]) => {
         if (value !== null && value !== undefined) {
@@ -223,13 +219,13 @@ export function batchSetAttributes(element, attributes) {
 
 /**
  * Create an element with attributes and classes
- * @param {string} tagName - HTML tag name
- * @param {Object} options - Options object
- * @param {string[]} options.classes - Array of CSS classes
- * @param {Object} options.attributes - Object with attributes
- * @param {string} options.textContent - Text content
- * @param {string} options.innerHTML - Inner HTML
- * @returns {HTMLElement} Created element
+ * @param tagName - HTML tag name
+ * @param options - Options object
+ * @param options.classes - Array of CSS classes
+ * @param options.attributes - Object with attributes
+ * @param options.textContent - Text content
+ * @param options.innerHTML - Inner HTML
+ * @returns Created element
  */
 interface CreateElementOptions {
     classes?: string[];
@@ -240,31 +236,31 @@ interface CreateElementOptions {
 
 export function createElement(tagName: string, options: CreateElementOptions = {}) {
     const element = document.createElement(tagName);
-    
+
     if (options.classes) {
         element.classList.add(...options.classes);
     }
-    
+
     if (options.attributes) {
         batchSetAttributes(element, options.attributes);
     }
-    
+
     if (options.textContent) {
         element.textContent = options.textContent;
     }
-    
+
     if (options.innerHTML) {
         element.innerHTML = options.innerHTML;
     }
-    
+
     return element;
 }
 
 /**
  * Remove all child nodes from an element
- * @param {HTMLElement} element - Target element
+ * @param element - Target element
  */
-export function clearElement(element) {
+export function clearElement(element: Element | null) {
     if (element) {
         while (element.firstChild) {
             element.removeChild(element.firstChild);
@@ -274,9 +270,9 @@ export function clearElement(element) {
 
 /**
  * Show element by removing display: none
- * @param {HTMLElement} element - Target element
+ * @param element - Target element
  */
-export function showElement(element) {
+export function showElement(element: HTMLElement | null) {
     if (element) {
         element.style.display = '';
     }
@@ -284,9 +280,9 @@ export function showElement(element) {
 
 /**
  * Hide element with display: none
- * @param {HTMLElement} element - Target element
+ * @param element - Target element
  */
-export function hideElement(element) {
+export function hideElement(element: HTMLElement | null) {
     if (element) {
         element.style.display = 'none';
     }
@@ -294,12 +290,12 @@ export function hideElement(element) {
 
 /**
  * Toggle element visibility
- * @param {HTMLElement} element - Target element
- * @param {boolean} show - Force show (true) or hide (false), or toggle if undefined
+ * @param element - Target element
+ * @param show - Force show (true) or hide (false), or toggle if undefined
  */
-export function toggleElement(element, show) {
+export function toggleElement(element: HTMLElement | null, show?: boolean) {
     if (!element) return;
-    
+
     if (show === undefined) {
         // Toggle based on current state
         element.style.display = element.style.display === 'none' ? '' : 'none';
@@ -310,16 +306,21 @@ export function toggleElement(element, show) {
 
 /**
  * Add event listener to multiple elements
- * @param {string|HTMLElement[]} selector - CSS selector or array of elements
- * @param {string} event - Event name
- * @param {Function} handler - Event handler
- * @param {Object} options - Event listener options
+ * @param selector - CSS selector or array of elements
+ * @param event - Event name
+ * @param handler - Event handler
+ * @param options - Event listener options
  */
-export function addEventListeners(selector, event, handler, options = {}) {
-    const elements = typeof selector === 'string' 
+export function addEventListeners(
+    selector: string | Element[],
+    event: string,
+    handler: EventListenerOrEventListenerObject,
+    options: AddEventListenerOptions = {}
+) {
+    const elements = typeof selector === 'string'
         ? querySelectorAll(selector)
         : selector;
-    
+
     elements.forEach(element => {
         element.addEventListener(event, handler, options);
     });
@@ -327,16 +328,21 @@ export function addEventListeners(selector, event, handler, options = {}) {
 
 /**
  * Delegate event to parent element
- * @param {HTMLElement} parent - Parent element
- * @param {string} selector - Child selector to match
- * @param {string} event - Event name
- * @param {Function} handler - Event handler
+ * @param parent - Parent element
+ * @param selector - Child selector to match
+ * @param event - Event name
+ * @param handler - Event handler
  */
-export function delegateEvent(parent, selector, event, handler) {
+export function delegateEvent(
+    parent: Element | null,
+    selector: string,
+    event: string,
+    handler: (this: Element, e: Event) => void
+) {
     if (!parent) return;
-    
+
     parent.addEventListener(event, (e) => {
-        const target = e.target.closest(selector);
+        const target = (e.target as Element | null)?.closest(selector);
         if (target) {
             handler.call(target, e);
         }
@@ -345,9 +351,9 @@ export function delegateEvent(parent, selector, event, handler) {
 
 /**
  * Wait for DOM to be ready
- * @param {Function} callback - Callback function
+ * @param callback - Callback function
  */
-export function onDOMReady(callback) {
+export function onDOMReady(callback: () => void) {
     if (document.readyState === 'loading') {
         document.addEventListener('DOMContentLoaded', callback);
     } else {
@@ -357,10 +363,10 @@ export function onDOMReady(callback) {
 
 /**
  * Scroll element into view smoothly
- * @param {HTMLElement} element - Target element
- * @param {Object} options - Scroll options
+ * @param element - Target element
+ * @param options - Scroll options
  */
-export function scrollIntoView(element, options = { behavior: 'smooth', block: 'center' }) {
+export function scrollIntoView(element: Element | null, options: ScrollIntoViewOptions = { behavior: 'smooth', block: 'center' }) {
     if (element) {
         element.scrollIntoView(options);
     }
@@ -368,9 +374,9 @@ export function scrollIntoView(element, options = { behavior: 'smooth', block: '
 
 /**
  * Debounce function execution
- * @param {Function} func - Function to debounce
- * @param {number} delay - Delay in milliseconds
- * @returns {Function} Debounced function
+ * @param func - Function to debounce
+ * @param delay - Delay in milliseconds
+ * @returns Debounced function
  */
 export function debounce(func: (...args: unknown[]) => unknown, delay: number) {
     let timeoutId: ReturnType<typeof setTimeout> | undefined;
@@ -382,9 +388,9 @@ export function debounce(func: (...args: unknown[]) => unknown, delay: number) {
 
 /**
  * Throttle function execution
- * @param {Function} func - Function to throttle
- * @param {number} limit - Time limit in milliseconds
- * @returns {Function} Throttled function
+ * @param func - Function to throttle
+ * @param limit - Time limit in milliseconds
+ * @returns Throttled function
  */
 export function throttle(func: (...args: unknown[]) => unknown, limit: number) {
     let inThrottle: boolean;

@@ -61,10 +61,14 @@ for (const lang of Object.values(libPkgs)) {
     }
 }
 
-function fetchWithTimeout(url) {
+async function fetchWithTimeout(url) {
     const ctrl = new AbortController();
     const t = setTimeout(() => ctrl.abort(), TIMEOUT_MS);
-    return fetch(url, { signal: ctrl.signal, redirect: 'follow' }).finally(() => clearTimeout(t));
+    try {
+        return await fetch(url, { signal: ctrl.signal, redirect: 'follow' });
+    } finally {
+        clearTimeout(t);
+    }
 }
 
 async function tryFetch(url) {

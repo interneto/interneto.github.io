@@ -4,17 +4,7 @@
  */
 
 import { OS_COMPAT_CONFIG } from './config';
-
-interface OsCompatPackage {
-    name: string;
-    category: string;
-    windowsStatus?: string;
-    windows?: unknown;
-    macos?: unknown;
-    linux?: unknown;
-    freebsd?: unknown;
-    [key: string]: unknown;
-}
+import type { OsCompatPackage, SortState } from './types';
 
 // Internal state (not exported directly)
 let state = {
@@ -23,14 +13,14 @@ let state = {
     sortState: {
         column: OS_COMPAT_CONFIG.DEFAULT_SORT.COLUMN,
         direction: OS_COMPAT_CONFIG.DEFAULT_SORT.DIRECTION,
-    },
+    } as SortState,
     osFilters: new Set([OS_COMPAT_CONFIG.DEFAULT_FILTER]),
     searchTerm: '',
 };
 
 /**
  * Get complete state (immutable copy)
- * @returns {Object} Copy of current state
+ * @returns Copy of current state
  */
 export function getState() {
     return {
@@ -44,15 +34,15 @@ export function getState() {
 
 /**
  * Set packages data
- * @param {Array} packages - Array of package objects
+ * @param packages - Array of package objects
  */
-export function setPackages(packages) {
+export function setPackages(packages: OsCompatPackage[]) {
     state.packages = [...packages];
 }
 
 /**
  * Get all packages
- * @returns {Array} Array of package objects
+ * @returns Array of package objects
  */
 export function getPackages() {
     return state.packages;
@@ -60,7 +50,7 @@ export function getPackages() {
 
 /**
  * Get filtered packages
- * @returns {Array} Array of filtered package objects
+ * @returns Array of filtered package objects
  */
 export function getFilteredPackages() {
     return state.filteredPackages;
@@ -68,7 +58,7 @@ export function getFilteredPackages() {
 
 /**
  * Get current sort state
- * @returns {Object} Sort state with column and direction
+ * @returns Sort state with column and direction
  */
 export function getSortState() {
     return { ...state.sortState };
@@ -76,19 +66,19 @@ export function getSortState() {
 
 /**
  * Set sort column and direction
- * @param {string} column - Column name to sort by
- * @param {string} direction - 'asc' or 'desc'
+ * @param column - Column name to sort by
+ * @param direction - 'asc' or 'desc'
  */
-export function setSortColumn(column, direction) {
+export function setSortColumn(column: string, direction: string) {
     state.sortState = { column, direction };
 }
 
 /**
  * Toggle sort direction for a column
- * @param {string} column - Column name
- * @returns {Object} New sort state
+ * @param column - Column name
+ * @returns New sort state
  */
-export function toggleSortDirection(column) {
+export function toggleSortDirection(column: string) {
     if (state.sortState.column === column) {
         // Same column - toggle direction
         state.sortState.direction = state.sortState.direction === 'asc' ? 'desc' : 'asc';
@@ -102,7 +92,7 @@ export function toggleSortDirection(column) {
 
 /**
  * Get active OS filters
- * @returns {Set} Set of active OS filter names
+ * @returns Set of active OS filter names
  */
 export function getOsFilters() {
     return new Set(state.osFilters);
@@ -110,31 +100,31 @@ export function getOsFilters() {
 
 /**
  * Set OS filters
- * @param {Array|Set} filters - Array or Set of OS filter names
+ * @param filters - Array or Set of OS filter names
  */
-export function setOsFilters(filters) {
+export function setOsFilters(filters: Iterable<string>) {
     state.osFilters = new Set(filters);
 }
 
 /**
  * Toggle an OS filter
- * @param {string} os - OS name to toggle
+ * @param os - OS name to toggle
  */
-export function toggleOsFilter(os) {
+export function toggleOsFilter(os: string) {
     if (os === OS_COMPAT_CONFIG.DEFAULT_FILTER) {
         // Selecting 'all' clears other filters
         state.osFilters = new Set([OS_COMPAT_CONFIG.DEFAULT_FILTER]);
     } else {
         // Remove 'all' if it exists
         state.osFilters.delete(OS_COMPAT_CONFIG.DEFAULT_FILTER);
-        
+
         // Toggle the specific OS
         if (state.osFilters.has(os)) {
             state.osFilters.delete(os);
         } else {
             state.osFilters.add(os);
         }
-        
+
         // If no filters remaining, add 'all'
         if (state.osFilters.size === 0) {
             state.osFilters.add(OS_COMPAT_CONFIG.DEFAULT_FILTER);
@@ -144,16 +134,16 @@ export function toggleOsFilter(os) {
 
 /**
  * Check if a specific OS filter is active
- * @param {string} os - OS name
- * @returns {boolean} True if filter is active
+ * @param os - OS name
+ * @returns True if filter is active
  */
-export function isFilterActive(os) {
+export function isFilterActive(os: string) {
     return state.osFilters.has(os);
 }
 
 /**
  * Get search term
- * @returns {string} Current search term
+ * @returns Current search term
  */
 export function getSearchTerm() {
     return state.searchTerm;
@@ -161,9 +151,9 @@ export function getSearchTerm() {
 
 /**
  * Set search term
- * @param {string} term - Search term
+ * @param term - Search term
  */
-export function setSearchTerm(term) {
+export function setSearchTerm(term: string) {
     state.searchTerm = term.trim().toLowerCase();
 }
 
@@ -173,7 +163,7 @@ export function setSearchTerm(term) {
  */
 export function applyFilters() {
     let filtered = [...state.packages];
-    
+
     // Apply search filter
     if (state.searchTerm) {
         filtered = filtered.filter(pkg => {
@@ -181,7 +171,7 @@ export function applyFilters() {
             return text.includes(state.searchTerm);
         });
     }
-    
+
     // Apply OS filter
     const hasOsFilter = !state.osFilters.has(OS_COMPAT_CONFIG.DEFAULT_FILTER);
     if (hasOsFilter) {
@@ -189,25 +179,25 @@ export function applyFilters() {
             return Array.from(state.osFilters).some(os => pkg[os]);
         });
     }
-    
+
     // Apply sort
     filtered = sortPackages(filtered, state.sortState.column, state.sortState.direction);
-    
+
     state.filteredPackages = filtered;
 }
 
 /**
  * Sort packages by column and direction
- * @param {Array} packages - Packages to sort
- * @param {string} column - Column name
- * @param {string} direction - 'asc' or 'desc'
- * @returns {Array} Sorted array
+ * @param packages - Packages to sort
+ * @param column - Column name
+ * @param direction - 'asc' or 'desc'
+ * @returns Sorted array
  */
-function sortPackages(packages, column, direction) {
+function sortPackages(packages: OsCompatPackage[], column: string, direction: string) {
     return [...packages].sort((a, b) => {
         let valA = String(a[column]).toLowerCase();
         let valB = String(b[column]).toLowerCase();
-        
+
         if (direction === 'asc') {
             return valA < valB ? -1 : valA > valB ? 1 : 0;
         } else {
@@ -230,19 +220,19 @@ export function resetFilters() {
 
 /**
  * Get statistics about current filtered packages
- * @returns {Object} Statistics object
+ * @returns Statistics object
  */
 export function getStatistics() {
     const list = state.filteredPackages;
-    
+
     // Count Windows packages by status
-    const windowsWingetCount = list.filter(p => 
+    const windowsWingetCount = list.filter(p =>
         p.windowsStatus === OS_COMPAT_CONFIG.WINDOW_STATUSES.WINGET
     ).length;
-    const windowsNonWingetCount = list.filter(p => 
+    const windowsNonWingetCount = list.filter(p =>
         p.windowsStatus === OS_COMPAT_CONFIG.WINDOW_STATUSES.NON_WINGET
     ).length;
-    
+
     return {
         total: list.length,
         windows: {

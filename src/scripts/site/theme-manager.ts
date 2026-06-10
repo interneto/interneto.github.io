@@ -3,7 +3,6 @@
 import { THEME_CONFIG } from '../shared/theme-config';
 import { EVENT_NAMES } from '../shared/dom-constants';
 
-let currentTheme: string | null = null;
 let isInitialized = false;
 let mediaQueryList: MediaQueryList | null = null;
 export function initTheme(): void {
@@ -63,7 +62,6 @@ function applyPreferredTheme(theme: string): void {
 }
 
 function applyTheme(theme: string): void {
-    currentTheme = theme;
     const root = document.documentElement;
     const isDark = theme === THEME_CONFIG.DARK;
     root.setAttribute('data-theme', theme);

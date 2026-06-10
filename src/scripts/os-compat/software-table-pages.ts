@@ -2,7 +2,51 @@ export {}; // module scope — prevents duplicate declaration conflicts
 
 const BASE = import.meta.env.BASE_URL.replace(/\/?$/, '/');
 
-function getPageType() {
+type PageType = 'mobile' | 'browser' | 'vscode';
+
+interface TableItem {
+    id: string;
+    category: string;
+    name: string;
+    searchText: string;
+    [key: string]: unknown;
+}
+
+interface TableColumn {
+    key: string;
+    label: string;
+    sortable: boolean;
+    headerClass?: string;
+    cellClass?: string;
+    renderCell?: (item: TableItem) => string;
+}
+
+interface FilterOption {
+    value: string;
+    label: string;
+}
+
+interface StatItem {
+    label: string;
+    value: string | number;
+}
+
+interface SortState {
+    column: string;
+    direction: string;
+}
+
+interface PageConfig {
+    jsonUrl: string;
+    defaultSort: SortState;
+    normalizeData: (data: unknown) => TableItem[];
+    getFilterOptions: (items: TableItem[]) => FilterOption[];
+    matchesFilter: (item: TableItem, filterValue: string) => boolean;
+    columns: TableColumn[];
+    getStats: (filteredItems: TableItem[]) => StatItem[];
+}
+
+function getPageType(): PageType | null {
     const path = window.location.pathname;
 
     if (path.includes('mobile-os-compatibility')) {
@@ -20,13 +64,13 @@ function getPageType() {
     return null;
 }
 
-function escapeHtml(value) {
+function escapeHtml(value: unknown) {
     const div = document.createElement('div');
-    div.textContent = value ?? '';
+    div.textContent = value == null ? '' : String(value);
     return div.innerHTML;
 }
 
-function createSortArrowsMarkup(columnKey) {
+function createSortArrowsMarkup(columnKey: string) {
     return `
         <span class="sort-arrows">
             <span class="sort-arrow up" data-column="${columnKey}" data-direction="asc"></span>
@@ -35,7 +79,7 @@ function createSortArrowsMarkup(columnKey) {
     `;
 }
 
-function createStoreLinkMarkup(url, label, icon) {
+function createStoreLinkMarkup(url: unknown, label: string, icon: string) {
     if (!url) {
         return '-';
     }
@@ -110,7 +154,7 @@ function normalizeVscodeData(data: unknown) {
     }));
 }
 
-const PAGE_CONFIGS = {
+const PAGE_CONFIGS: Record<PageType, PageConfig> = {
     mobile: {
         jsonUrl: `${BASE}pkgs/mobile-pkgs.json`,
         defaultSort: { column: 'name', direction: 'asc' },
@@ -215,7 +259,7 @@ const PAGE_CONFIGS = {
     },
 };
 
-function sortItems(items, column, direction) {
+function sortItems(items: TableItem[], column: string, direction: string) {
     return [...items].sort((left, right) => {
         const leftValue = String(left[column] ?? '').toLowerCase();
         const rightValue = String(right[column] ?? '').toLowerCase();
@@ -232,7 +276,7 @@ function sortItems(items, column, direction) {
     });
 }
 
-function createTableHeader(config, sortState) {
+function createTableHeader(config: PageConfig, sortState: SortState) {
     const head = document.getElementById('tableHead');
     if (!head) return;
 
@@ -258,7 +302,7 @@ function createTableHeader(config, sortState) {
     head.innerHTML = `<tr>${headerMarkup}</tr>`;
 }
 
-function renderTableBody(config, items) {
+function renderTableBody(config: PageConfig, items: TableItem[]) {
     const tbody = document.getElementById('tableBody');
     if (!tbody) return;
 
@@ -286,7 +330,7 @@ function renderTableBody(config, items) {
     }).join('');
 }
 
-function renderStats(config, items) {
+function renderStats(config: PageConfig, items: TableItem[]) {
     const statsContainer = document.getElementById('statsContainer');
     if (!statsContainer) return;
 
@@ -299,7 +343,7 @@ function renderStats(config, items) {
     `).join('');
 }
 
-function renderFilterChips(options, activeFilters) {
+function renderFilterChips(options: FilterOption[], activeFilters: Set<string>) {
     const container = document.getElementById('filterChips');
     if (!container) return;
 
@@ -322,12 +366,12 @@ function initializePage() {
 
     const searchInput = document.getElementById('searchInput') as HTMLInputElement | null;
     const state: {
-        items: Record<string, unknown>[];
-        filteredItems: Record<string, unknown>[];
+        items: TableItem[];
+        filteredItems: TableItem[];
         activeFilters: Set<string>;
-        sortState: { column: string; direction: string };
+        sortState: SortState;
         searchTerm: string;
-        filterOptions: { value: string; label: string }[];
+        filterOptions: FilterOption[];
     } = {
         items: [],
         filteredItems: [],

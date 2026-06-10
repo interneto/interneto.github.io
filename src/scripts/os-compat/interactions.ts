@@ -6,6 +6,7 @@
 import { OS_COMPAT_CONFIG } from './config';
 import * as state from './state';
 import * as table from './table';
+import type { OsCompatPackage } from './types';
 
 /**
  * Setup all interactions
@@ -39,7 +40,7 @@ function setupSorting() {
 
 /**
  * Handle sort column click
- * @param {Event} e - Click event
+ * @param _e - Click event
  */
 function handleSortClick(this: HTMLElement, _e: Event) {
     const column = this.getAttribute(OS_COMPAT_CONFIG.DATA_ATTRS.SORT);
@@ -83,7 +84,7 @@ function setupFiltering() {
 
 /**
  * Handle filter button click
- * @param {Event} e - Click event
+ * @param _e - Click event
  */
 function handleFilterClick(this: HTMLElement, _e: Event) {
     const filterOs = this.getAttribute(OS_COMPAT_CONFIG.DATA_ATTRS.FILTER);
@@ -102,7 +103,6 @@ function handleFilterClick(this: HTMLElement, _e: Event) {
     table.updateStats(state.getStatistics());
     
     // Announce to screen readers
-    const activeFilters = Array.from(state.getOsFilters());
     announceToScreenReader(
         `Filter ${filterOs} ${state.isFilterActive(filterOs) ? 'activated' : 'deactivated'}. ` +
         `${filtered.length} packages shown.`
@@ -138,9 +138,9 @@ function setupSearch() {
 
 /**
  * Handle search input
- * @param {string} searchTerm - Search term
+ * @param searchTerm - Search term
  */
-function handleSearch(searchTerm) {
+function handleSearch(searchTerm: string) {
     // Update state
     state.setSearchTerm(searchTerm);
     
@@ -166,9 +166,9 @@ function handleSearch(searchTerm) {
 
 /**
  * Show/hide clear search button based on input
- * @param {string} searchTerm - Current search term
+ * @param searchTerm - Current search term
  */
-function updateClearButton(searchTerm) {
+function updateClearButton(searchTerm: string) {
     const clearBtn = document.getElementById(OS_COMPAT_CONFIG.ELEMENT_IDS.CLEAR_SEARCH);
     if (!clearBtn) return;
     
@@ -252,9 +252,9 @@ export function setupExport() {
 
 /**
  * Export packages to CSV
- * @param {Array} packages - Packages to export
+ * @param packages - Packages to export
  */
-function exportToCSV(packages) {
+function exportToCSV(packages: OsCompatPackage[]) {
     // CSV header
     const headers = ['Category', 'App', 'Windows', 'macOS', 'Linux', 'FreeBSD'];
     const csvRows = [headers.join(',')];
@@ -291,16 +291,16 @@ function exportToCSV(packages) {
 
 /**
  * Announce message to screen readers
- * @param {string} message - Message to announce
+ * @param message - Message to announce
  */
-function announceToScreenReader(message) {
+function announceToScreenReader(message: string) {
     const announcer = document.getElementById('sr-announcer') || createAnnouncer();
     announcer.textContent = message;
 }
 
 /**
  * Create screen reader announcer element
- * @returns {HTMLElement} Announcer element
+ * @returns Announcer element
  */
 function createAnnouncer() {
     const announcer = document.createElement('div');
@@ -343,10 +343,10 @@ export function setupColumnToggles() {
 
 /**
  * Toggle column visibility
- * @param {string} column - Column name
- * @param {boolean} visible - Show or hide
+ * @param column - Column name
+ * @param visible - Show or hide
  */
-function toggleColumn(column, visible) {
+function toggleColumn(column: string, visible: boolean) {
     const style = visible ? '' : 'none';
     
     // Update headers

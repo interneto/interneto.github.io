@@ -4,6 +4,7 @@
  */
 
 import { OS_COMPAT_CONFIG } from './config';
+import type { OsCompatPackage } from './types';
 
 interface RawPackageManager {
     windows_winget?: string | null;
@@ -27,36 +28,24 @@ interface RawPackage {
     package_manager?: RawPackageManager;
 }
 
-interface CompatPackage {
-    id: string;
-    name: string;
-    category: string;
-    subcategory: string;
-    windows: boolean;
-    windowsStatus: string;
-    macos: boolean;
-    linux: boolean;
-    freebsd: boolean;
-}
-
 // Module state
-let packagesData: CompatPackage[] = [];
+let packagesData: OsCompatPackage[] = [];
 
 /**
  * Load and transform package compatibility data
- * @returns {Promise<Array>} Array of package objects with OS compatibility info
+ * @returns Array of package objects with OS compatibility info
  */
 export async function loadCompatibilityData() {
     try {
         const response = await fetch(OS_COMPAT_CONFIG.JSON_URL);
-        
+
         if (!response.ok) {
             throw new Error(`Failed to load packages: ${response.statusText}`);
         }
-        
+
         const data = await response.json();
         packagesData = transformPackageData(data);
-        
+
         return packagesData;
     } catch (error) {
         console.error('Error loading compatibility data:', error);
@@ -66,7 +55,7 @@ export async function loadCompatibilityData() {
 
 /**
  * Get all loaded packages
- * @returns {Array} Array of package objects
+ * @returns Array of package objects
  */
 export function getPackages() {
     return packagesData;
@@ -74,37 +63,37 @@ export function getPackages() {
 
 /**
  * Get a package by ID
- * @param {string} id - Package ID
- * @returns {Object|null} Package object or null if not found
+ * @param id - Package ID
+ * @returns Package object or null if not found
  */
-export function getPackageById(id) {
+export function getPackageById(id: string) {
     return packagesData.find(pkg => pkg.id === id) || null;
 }
 
 /**
  * Transform raw JSON data into compatibility matrix
- * @param {Object} jsonData - Raw JSON from *-pkgs.json
- * @returns {Array} Transformed package array
+ * @param jsonData - Raw JSON from *-pkgs.json
+ * @returns Transformed package array
  */
-function transformPackageData(jsonData: { packages: Record<string, RawPackage> }): CompatPackage[] {
+function transformPackageData(jsonData: { packages: Record<string, RawPackage> }): OsCompatPackage[] {
     const windowsNonWingetIds = new Set(
         OS_COMPAT_CONFIG.WINDOWS_NON_WINGET.map(pkg => pkg.id)
     );
-    
+
     return Object.entries(jsonData.packages).map(([id, pkg]) => {
         const pm = pkg.package_manager;
-        
+
         // Check Windows support
         const hasWinget = isPresent(pm?.windows_winget);
         const isNonWingetWindows = windowsNonWingetIds.has(id);
         const hasWindows = hasWinget || isNonWingetWindows;
         const windowsStatus = getWindowsStatus(hasWinget, isNonWingetWindows);
-        
+
         // Check other OS support
         const hasMacOS = isPresent(pm?.macos_brew);
         const hasLinux = checkLinuxSupport(pm);
         const hasFreeBSD = isPresent(pm?.freebsd_pkg);
-        
+
         return {
             id,
             name: pkg.name,
@@ -121,10 +110,10 @@ function transformPackageData(jsonData: { packages: Record<string, RawPackage> }
 
 /**
  * Check if a value is present (not null, undefined, or empty string)
- * @param {*} value - Value to check
- * @returns {boolean} True if value is present
+ * @param value - Value to check
+ * @returns True if value is present
  */
-function isPresent(value) {
+function isPresent(value: unknown) {
     if (typeof value === 'string') {
         return value.trim().length > 0;
     }
@@ -133,10 +122,10 @@ function isPresent(value) {
 
 /**
  * Check Linux support across multiple package managers
- * @param {Object} pm - Package manager object
- * @returns {boolean} True if Linux is supported
+ * @param pm - Package manager object
+ * @returns True if Linux is supported
  */
-function checkLinuxSupport(pm) {
+function checkLinuxSupport(pm: RawPackageManager | undefined) {
     const linuxPackageManagers = [
         pm?.linux_arch_pacman,
         pm?.linux_arch_aur,
@@ -147,17 +136,17 @@ function checkLinuxSupport(pm) {
         pm?.linux_snap,
         pm?.unix_nix_env,
     ];
-    
+
     return linuxPackageManagers.some(isPresent);
 }
 
 /**
  * Determine Windows status (winget, non-winget, or none)
- * @param {boolean} hasWinget - Has winget support
- * @param {boolean} isNonWinget - Is in non-winget list
- * @returns {string} Status string
+ * @param hasWinget - Has winget support
+ * @param isNonWinget - Is in non-winget list
+ * @returns Status string
  */
-function getWindowsStatus(hasWinget, isNonWinget) {
+function getWindowsStatus(hasWinget: boolean, isNonWinget: boolean) {
     if (hasWinget) {
         return OS_COMPAT_CONFIG.WINDOW_STATUSES.WINGET;
     }
@@ -169,25 +158,25 @@ function getWindowsStatus(hasWinget, isNonWinget) {
 
 /**
  * Get count of packages by OS
- * @param {string} os - Operating system name
- * @returns {number} Count of packages available for that OS
+ * @param os - Operating system name
+ * @returns Count of packages available for that OS
  */
-export function getCountByOS(os) {
+export function getCountByOS(os: string) {
     return packagesData.filter(pkg => pkg[os]).length;
 }
 
 /**
  * Get count of packages by category
- * @param {string} category - Category name
- * @returns {number} Count of packages in that category
+ * @param category - Category name
+ * @returns Count of packages in that category
  */
-export function getCountByCategory(category) {
+export function getCountByCategory(category: string) {
     return packagesData.filter(pkg => pkg.category === category).length;
 }
 
 /**
  * Get all unique categories
- * @returns {Array<string>} Array of unique category names
+ * @returns Array of unique category names
  */
 export function getCategories() {
     const categories = new Set(packagesData.map(pkg => pkg.category));
@@ -196,10 +185,10 @@ export function getCategories() {
 
 /**
  * Filter packages by OS availability
- * @param {string} os - Operating system name
- * @returns {Array} Filtered package array
+ * @param os - Operating system name
+ * @returns Filtered package array
  */
-export function filterByOS(os) {
+export function filterByOS(os: string) {
     if (os === 'all' || os === OS_COMPAT_CONFIG.DEFAULT_FILTER) {
         return packagesData;
     }

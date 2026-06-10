@@ -50,11 +50,14 @@ const slug = (s) => s
 // or an absolute path, or http URL) or no `icon` at all. We process the latter unless --retry.
 const needsDownload = (icon) => !icon;
 
-function fetchWithTimeout(url, init = {}) {
+async function fetchWithTimeout(url, init = {}) {
     const ctrl = new AbortController();
     const timer = setTimeout(() => ctrl.abort(), TIMEOUT_MS);
-    return fetch(url, { ...init, signal: ctrl.signal, redirect: 'follow', headers: { 'user-agent': UA, ...(init.headers || {}) } })
-        .finally(() => clearTimeout(timer));
+    try {
+        return await fetch(url, { ...init, signal: ctrl.signal, redirect: 'follow', headers: { 'user-agent': UA, ...(init.headers || {}) } });
+    } finally {
+        clearTimeout(timer);
+    }
 }
 
 function extFromUrl(href) {
@@ -92,18 +95,6 @@ function parseIconLinks(html, baseUrl) {
         out.push({ href: absolute, ext, size, isApple: rels.includes('apple-touch-icon') });
     }
     return out;
-}
-
-// Pick best icon candidate. Rank by ext (svg first), then by size (larger first).
-function pickBest(candidates) {
-    return candidates
-        .filter((c) => c.ext in FORMAT_RANK)
-        .sort((a, b) => {
-            const ra = FORMAT_RANK[a.ext];
-            const rb = FORMAT_RANK[b.ext];
-            if (ra !== rb) return ra - rb;
-            return (b.size || 0) - (a.size || 0);
-        })[0];
 }
 
 async function discoverFavicons(siteUrl) {

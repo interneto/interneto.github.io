@@ -40,9 +40,9 @@ export function setupFossToggle() {
 
 /**
  * Apply FOSS filter - hide/show non-FOSS packages
- * @param {boolean} isActive - Whether to show only FOSS packages
+ * @param isActive - Whether to show only FOSS packages
  */
-export function applyFossFilter(isActive) {
+export function applyFossFilter(isActive: boolean) {
     getNonFossList().forEach(pkgId => {
         const checkbox = getPackageCheckbox(pkgId);
         if (checkbox) {
@@ -70,7 +70,7 @@ export function applyFossFilter(isActive) {
 
 /**
  * Check if FOSS filter is currently active
- * @returns {boolean} True if FOSS filter is active
+ * @returns True if FOSS filter is active
  */
 export function isFossFilterActive() {
     const fossToggleBtn = getElement('FOSS_TOGGLE_BTN');
@@ -79,7 +79,7 @@ export function isFossFilterActive() {
 
 /**
  * Get count of non-FOSS packages currently visible
- * @returns {number}
+ * @returns Count of visible non-FOSS packages
  */
 export function getVisibleNonFossCount() {
     let count = 0;

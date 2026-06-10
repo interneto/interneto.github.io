@@ -141,7 +141,7 @@ export function renderTree(
     target: pointById.get(link.target.data.id)!,
   }));
 
-  const linkPath = d3.linkHorizontal<{ x: number; y: number }, { x: number; y: number }>()
+  const linkPath = d3.linkHorizontal<{ source: { x: number; y: number }; target: { x: number; y: number } }, { x: number; y: number }>()
     .x((d) => d.x)
     .y((d) => d.y);
 
@@ -158,7 +158,8 @@ export function renderTree(
     };
   }
 
-  const t = svg.transition().duration(420).ease(d3.easeCubicOut);
+  // Named transition on the svg ancestor; descendant selections inherit its timing by name.
+  svg.transition('tree-reflow').duration(420).ease(d3.easeCubicOut);
 
   linkLayer
     .selectAll<SVGPathElement, TreeLinkPoint>('path.tree-link')
@@ -168,7 +169,7 @@ export function renderTree(
     .attr('d', (d) => linkPath(toLinkDatum(d, true)) ?? '')
     .attr('stroke-width', (d) => (d.target.node.depth <= 2 ? 1.65 : d.target.node.depth === 3 ? 1.25 : 1.05))
     .attr('opacity', 0.12)
-    .transition(t)
+    .transition('tree-reflow')
     .attr('d', (d) => linkPath(toLinkDatum(d)) ?? '')
     .attr('opacity', (d) => (d.target.node.data.type === 'bookmark' ? 0.56 : 0.68));
 
@@ -230,7 +231,7 @@ export function renderTree(
     .text((d) => (collapsedNodeIds.has(d.node.data.id) ? '+' : '-'));
 
   nodeSelection
-    .transition(t)
+    .transition('tree-reflow')
     .attr('transform', (d) => `translate(${d.x},${d.y})`)
     .style('opacity', 1);
 

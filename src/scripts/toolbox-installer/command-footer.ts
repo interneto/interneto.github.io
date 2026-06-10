@@ -5,12 +5,12 @@
  */
 
 /**
- * @param {Object} [options]
- * @param {string} [options.ariaLabel]       - ARIA region label
- * @param {string} [options.commandLabel]    - Text shown in the header bar
- * @param {boolean} [options.hasLangId]      - Whether to add id="commandLanguage" to the label span
- * @param {string} [options.initialText]     - Initial placeholder inside <code>
- * @returns {HTMLElement} The created footer element
+ * @param options
+ * @param options.ariaLabel    - ARIA region label
+ * @param options.commandLabel - Text shown in the header bar
+ * @param options.hasLangId    - Whether to add id="commandLanguage" to the label span
+ * @param options.initialText  - Initial placeholder inside <code>
+ * @returns The created footer element
  */
 export function createCommandFooter({
     ariaLabel = 'Install command',

@@ -9,7 +9,6 @@ import {
     getPackageCheckboxesByCategory,
     getCategoryCheckbox,
     getElement,
-    toggleClass,
 } from '../shared/dom-utils';
 
 /**
@@ -164,16 +163,16 @@ export function updateAllCategoryCheckboxes() {
 
 /**
  * Perform an action on all visible checkboxes
- * @param {Function} callback - Function to call on each visible checkbox
+ * @param callback - Function to call on each visible checkbox
  */
-export function forEachVisibleCheckbox(callback) {
+export function forEachVisibleCheckbox(callback: (checkbox: Element) => void) {
     const visibleCheckboxes = getVisibleCheckboxes();
     visibleCheckboxes.forEach(callback);
 }
 
 /**
  * Get the count of checked visible checkboxes
- * @returns {number} Count of checked visible packages
+ * @returns Count of checked visible packages
  */
 export function getCheckedVisibleCount() {
     const visibleCheckboxes = getVisibleCheckboxes();
@@ -182,7 +181,7 @@ export function getCheckedVisibleCount() {
 
 /**
  * Get the count of total visible checkboxes
- * @returns {number} Count of total visible packages
+ * @returns Count of total visible packages
  */
 export function getTotalVisibleCount() {
     return getVisibleCheckboxes().length;

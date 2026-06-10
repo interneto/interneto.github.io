@@ -221,7 +221,8 @@ function updateCommand() {
         return;
     }
 
-    let managerLabel, cmd;
+    let managerLabel: string;
+    let cmd: string;
 
     if (selectedLang === 'java') {
         if (selectedTool === 'maven') {
@@ -263,7 +264,7 @@ function updateCommand() {
 // ACTIONS
 // ============================================================================
 
-function selectLang(lang) {
+function selectLang(lang: string) {
     selectedLang = lang;
     selectedLibs.clear();
     const searchInput = document.getElementById('searchInput') as HTMLInputElement | null;
@@ -275,7 +276,7 @@ function selectLang(lang) {
     updateCommand();
 }
 
-function selectTool(tool) {
+function selectTool(tool: string) {
     selectedTool = tool;
     renderJavaToolSelector();
     updateCommand();
@@ -403,13 +404,16 @@ function setupCopyButton() {
     });
 }
 
-function fallbackCopy(text, callback) {
+function fallbackCopy(text: string, callback: () => void) {
     const ta = document.createElement('textarea');
     ta.value = text;
     ta.style.cssText = 'position:fixed;opacity:0;top:0;left:0';
     document.body.appendChild(ta);
     ta.select();
-    try { document.execCommand('copy'); callback(); } catch (_) { /* noop */ }
+    // execCommand is deprecated but remains the only synchronous clipboard fallback
+    // for browsers without the async Clipboard API (which is preferred above).
+    const legacyDocument = document as unknown as { execCommand(commandId: string): boolean };
+    try { legacyDocument.execCommand('copy'); callback(); } catch { /* noop */ }
     document.body.removeChild(ta);
 }
 

@@ -18,8 +18,7 @@ let packagesData: PackagesData | null = null;
 export async function loadPackages(): Promise<PackagesData> {
     try {
         const loadingSpinner = getElement('LOADING_SPINNER');
-        const packageContainer = getElement('PACKAGE_CONTAINER');
-        
+
         const response = await fetch(CONFIG.JSON_URL);
         
         if (!response.ok) {
@@ -83,10 +82,10 @@ export function getPackageData(packageId: string): PackageInfo | null {
 
 /**
  * Import packages from a JSON file
- * @param {File} file - The JSON file to import
- * @returns {Promise<Object>} Result with importedCount and notFoundCount
+ * @param file - The JSON file to import
+ * @returns Result with importedCount and notFoundCount
  */
-export async function importPackagesFromFile(file) {
+export async function importPackagesFromFile(file: File) {
     if (!file) {
         throw new Error('No file provided');
     }
@@ -145,7 +144,6 @@ export async function importPackagesFromFile(file) {
 
 /**
  * Export currently selected packages as JSON
- * @returns {Promise<void>}
  */
 export async function exportPackages() {
     try {
@@ -180,7 +178,7 @@ export async function exportPackages() {
 
 /**
  * Load and apply favorite packages from fav-packages.json
- * @returns {Promise<Object>} Result with loadedCount
+ * @returns Result with loadedCount
  */
 export async function loadFavorites() {
     try {
@@ -227,7 +225,7 @@ export async function loadFavorites() {
 
 /**
  * Wait for packages data to be loaded
- * @returns {Promise<Object>} Resolves when packages are loaded
+ * @returns Resolves when packages are loaded
  */
 export async function waitForPackagesLoaded() {
     if (packagesData) {

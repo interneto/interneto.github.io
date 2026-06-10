@@ -16,7 +16,6 @@ import { CATEGORY_CONFIG, PATHS } from './config/categories.js'
 import { parseCsv, buildItemFromRow } from './lib/csv-parser.js'
 import { renderGroupFile } from './lib/markdown-renderer.js'
 import {
-  resolveInputCsvPath,
   clearOutputDir,
   normalizeFolder,
   isValidRowFolder
@@ -25,7 +24,6 @@ import {
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
 const ROOT_DIR = path.resolve(__dirname, '..')
 const OUTPUT_DIR = path.resolve(ROOT_DIR, PATHS.OUTPUT_DIR)
-const INPUT_CSV_CANDIDATES = PATHS.INPUT_CSV_CANDIDATES.map(p => path.resolve(ROOT_DIR, p))
 
 function log(icon, message) {
   console.log(`${icon} ${message}`)

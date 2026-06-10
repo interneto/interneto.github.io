@@ -4,7 +4,6 @@
  */
 
 import { CONFIG } from '../shared/paths';
-import { CLASS_NAMES, EVENT_NAMES } from '../shared/dom-constants';
 import {
     getElement,
 } from '../shared/dom-utils';
