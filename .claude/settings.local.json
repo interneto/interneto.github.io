@@ -9,7 +9,10 @@
       "Bash(npx astro *)",
       "Bash(pnpm build *)",
       "Bash(node -e ' *)",
-      "PowerShell(pnpm run typecheck 2>&1 | Tee-Object -FilePath \"$env:TEMP\\\\tc.txt\" | Out-Null; \\(Get-Content \"$env:TEMP\\\\tc.txt\" | Select-String -Pattern 'ts\\\\\\(\\(\\\\d+\\)\\\\\\)' -AllMatches | ForEach-Object { $_.Matches.Value }\\) | Group-Object | Sort-Object Count -Descending | Select-Object Count, Name)"
+      "PowerShell(pnpm run typecheck 2>&1 | Tee-Object -FilePath \"$env:TEMP\\\\tc.txt\" | Out-Null; \\(Get-Content \"$env:TEMP\\\\tc.txt\" | Select-String -Pattern 'ts\\\\\\(\\(\\\\d+\\)\\\\\\)' -AllMatches | ForEach-Object { $_.Matches.Value }\\) | Group-Object | Sort-Object Count -Descending | Select-Object Count, Name)",
+      "Bash(node -e \"JSON.parse\\(require\\('fs'\\).readFileSync\\('public/pkgs/desktop-pkgs.json','utf8'\\)\\); console.log\\('valid JSON'\\)\")",
+      "Bash(node scripts/optimize-svgs.mjs)",
+      "Bash(pnpm run *)"
     ]
   }
 }
