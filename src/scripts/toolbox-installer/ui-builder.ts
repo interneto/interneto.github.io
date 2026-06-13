@@ -20,11 +20,7 @@ let categoryLayoutState: {
 let hasResponsiveLayoutListener = false;
 
 // Some app icons in the repo are only available as png/jpg, so prefer those first.
-const ICON_EXTENSION_OVERRIDES: Record<string, string[]> = {
-        'gpx-viewer': ['png', 'svg', 'jpg', 'jpeg', 'webp'],
-        'hyper-calc-pro': ['png', 'svg', 'jpg', 'jpeg', 'webp'],
-        'piano-companion': ['png', 'svg', 'jpg', 'jpeg', 'webp'],
-};
+const ICON_EXTENSION_OVERRIDES: Record<string, string[]> = {};
 
 function getIconExtensionCandidates(pkgKey: string): string[] {
         const override = ICON_EXTENSION_OVERRIDES[pkgKey] ?? [];

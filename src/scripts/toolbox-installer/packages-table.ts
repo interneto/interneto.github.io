@@ -678,7 +678,7 @@ function renderBrowserExtensionsGenerator(items: BrowserExtension[]): void {
         selected: new Set<string>(),
         searchQuery: '',
         allCollapsed: false,
-        browser: 'both',
+        browser: 'firefox',
     };
 
     const grouped = groupByCategory(items);

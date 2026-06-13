@@ -1089,6 +1089,18 @@ form {
     margin-bottom: 0;
 }
 
+/* Monochrome OS logo rendered via mask so it inherits the button's text color
+   (var(--text-primary) by default, white on .active) across light/dark themes. */
+.os-btn-icon {
+    display: inline-block;
+    width: 18px;
+    height: 18px;
+    flex-shrink: 0;
+    background-color: currentColor;
+    -webkit-mask: var(--os-icon) center / contain no-repeat;
+    mask: var(--os-icon) center / contain no-repeat;
+}
+
 .os-btn {
     padding: 10px 16px;
     background-color: color-mix(in srgb, var(--card-background) 88%, var(--primary-color) 12%);

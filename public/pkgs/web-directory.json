@@ -1351,7 +1351,7 @@
         {
             "category": "Maps",
             "name": "Flight XXXX - Flightradar24",
-            "icon": "flightradar24.ico",
+            "icon": "flightradar-24.svg",
             "link": "https://www.flightradar24.com/data/flights/xxxx",
             "tags": []
         },

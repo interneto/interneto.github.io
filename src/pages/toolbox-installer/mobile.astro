@@ -1,6 +1,7 @@
 ---
 import ToolboxInstallerSection from '../../components/ToolboxInstallerSection.astro';
 import ToolboxResultsContainer from '../../components/ToolboxResultsContainer.astro';
+const BASE = import.meta.env.BASE_URL.replace(/\/?$/, '/');
 const options = [
   { value: 'loadFavorites', label: '✨ My Favorites' },
   { value: 'importPackages', label: '📥 Import packages (JSON)' },
@@ -18,8 +19,8 @@ const options = [
 >
   <div slot="selectors" class="os-selector-container">
     <div class="primary-os-selector">
-      <button type="button" class="os-btn" data-os="android">🔥 Android</button>
-      <button type="button" class="os-btn" data-os="ios">🐧 iOS</button>
+      <button type="button" class="os-btn active" data-os="android"><span class="os-btn-icon" style={`--os-icon:url(${BASE}img/os/android.svg)`} aria-hidden="true"></span> Android</button>
+      <button type="button" class="os-btn" data-os="ios"><span class="os-btn-icon" style={`--os-icon:url(${BASE}img/os/ios.svg)`} aria-hidden="true"></span> iOS</button>
     </div>
   </div>
 
