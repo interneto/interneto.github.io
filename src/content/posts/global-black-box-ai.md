@@ -6,9 +6,8 @@ next: true
 prev: true
 footer: true
 tags:
-  - philosophy
   - ai
-  - society
+  - philosophy
 ---
 
 ## The Old Machine

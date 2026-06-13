@@ -7,8 +7,6 @@ prev: true
 footer: true
 tags:
   - philosophy
-  - computation
-  - turing-complete
 ---
 
 ## The Question Before the Machine

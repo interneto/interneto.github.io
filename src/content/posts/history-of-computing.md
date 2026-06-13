@@ -3,9 +3,7 @@ title: History of Computing Timeline
 description: Reverse-chronological timeline of major hardware and software milestones.
 date: 2026-05-12
 tags:
-  - history
-  - computing
-  - hardware
+  - systems
   - software
 ---
 

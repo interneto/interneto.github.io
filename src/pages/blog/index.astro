@@ -46,10 +46,10 @@ const allTags = Array.from(
 ).sort();
 ---
 
-<VPLayout title="📑 Posts" hasSidebar={true} extraStyles={['styles/content-shared.css']}>
+<VPLayout title="📑 Blog" hasSidebar={true} extraStyles={['styles/content-shared.css']}>
   <div class="vp-content-wrapper">
     <header class="vp-content-header">
-      <h1>Posts</h1>
+      <h1>Blog</h1>
       <p class="vp-content-subtitle">Curated articles, guides, and insights about internet tools and organization.</p>
     </header>
 
@@ -69,7 +69,7 @@ const allTags = Array.from(
         <div class="vp-content-grid">
           {group.items.map((entry) => (
             <ContentCard
-              href={`${BASE}post/${cleanSlug(entry.id)}/`}
+              href={`${BASE}blog/${cleanSlug(entry.id)}/`}
               title={entry.data.title ?? cleanSlug(entry.id)}
               description={entry.data.description}
               icon={sectionIcons[group.section]}

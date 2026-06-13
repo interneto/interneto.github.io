@@ -6,9 +6,8 @@ next: true
 prev: true
 footer: true
 tags:
-  - bookmarks
   - productivity
-  - comparison
+  - software
 ---
 
 ## Overview

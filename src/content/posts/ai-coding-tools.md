@@ -8,8 +8,6 @@ footer: true
 tags:
   - ai
   - software
-  - tools
-  - comparison
 ---
 
 ## What Is AI Coding?

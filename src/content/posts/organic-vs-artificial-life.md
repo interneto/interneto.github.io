@@ -7,9 +7,6 @@ prev: true
 footer: true
 tags:
   - philosophy
-  - artificial-life
-  - biology
-  - information
 ---
 
 

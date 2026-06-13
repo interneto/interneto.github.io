@@ -7,8 +7,6 @@ prev: true
 footer: true
 tags:
   - software
-  - design
-  - principles
 ---
 
 ## Overview

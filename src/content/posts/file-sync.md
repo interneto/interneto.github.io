@@ -6,9 +6,7 @@ next: true
 prev: true
 footer: true
 tags:
-  - networking
-  - file-transfer
-  - cloud
+  - systems
 ---
 
 

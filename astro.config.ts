@@ -9,6 +9,11 @@ export default defineConfig({
   integrations: [sitemap()],
   redirects: {
     '/toolbox-installer': '/toolbox/',
+    // Routes renamed: categories -> directory, posts/post -> blog (listing + articles).
+    '/categories': '/directory/',
+    '/categories/[...slug]': '/directory/[...slug]',
+    '/posts': '/blog/',
+    '/post/[...slug]': '/blog/[...slug]',
   },
   vite: {
     optimizeDeps: {

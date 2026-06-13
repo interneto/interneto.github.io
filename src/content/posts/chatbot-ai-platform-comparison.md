@@ -7,9 +7,6 @@ prev: true
 footer: true
 tags:
   - ai
-  - llm
-  - chatbots
-  - comparison
 ---
 
 # Chatbot AI Platform Comparison (June 2026 Snapshot)

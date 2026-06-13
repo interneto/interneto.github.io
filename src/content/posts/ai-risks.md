@@ -7,8 +7,7 @@ prev: true
 footer: true
 tags:
   - ai
-  - society
-  - ethics
+  - philosophy
 ---
 
 # The Risk of Relying on Artificial Intelligence: When We Stop Thinking for Ourselves

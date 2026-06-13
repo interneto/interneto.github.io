@@ -61,27 +61,27 @@ interface Destination {
 const destinations: Destination[] = [
   {
     icon: "categories",
-    title: "Categories",
+    title: "Directory",
     meta: `${categories.length} sections`,
     details:
       "A curated atlas of the web, grouped by what it's for — development, security, media, finance, and more.",
-    link: `${BASE}categories/`,
+    link: `${BASE}directory/`,
   },
   {
     icon: "toolbox",
     title: "Toolbox",
     meta: "6 installers",
     details:
-      "Build install commands for desktop apps, libraries, browser & VS Code extensions, plus OS guides and a web directory.",
+      "Build install commands for desktop apps, libraries, browser & VS Code extensions, plus OS guides and curated web apps.",
     link: `${BASE}toolbox/`,
   },
   {
     icon: "posts",
-    title: "Posts",
+    title: "Blog",
     meta: `${posts.length} pieces`,
     details:
       "Field notes on computing, the open web, and the ideas behind the tools — essays, comparisons, and guides.",
-    link: `${BASE}posts/`,
+    link: `${BASE}blog/`,
   },
 ];
 
@@ -107,7 +107,7 @@ const highlights: { icon: IconName; title: string; text: string }[] = [
           computing — all open, fast, and free of tracking.
         </p>
         <div class="home-actions">
-          <a class="home-btn home-btn-brand" href={`${BASE}categories/`}>Explore categories</a>
+          <a class="home-btn home-btn-brand" href={`${BASE}directory/`}>Explore categories</a>
           <a class="home-btn" href={`${BASE}toolbox/`}>Open the toolbox</a>
           <a class="home-btn home-btn-ghost" href={`${BASE}about/`}>About the project</a>
         </div>

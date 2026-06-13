@@ -7,9 +7,7 @@ prev: true
 footer: true
 tags:
   - ai
-  - product
-  - ui
-  - how-to
+  - software
 ---
 
 # How to Build a Deterministic AI UI Product
