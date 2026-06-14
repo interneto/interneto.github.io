@@ -1,5 +1,5 @@
 ---
-title: AI Chatbot Platform Comparison
+title: AI Chatbot Platforms
 description: Layer-by-layer comparison of ChatGPT, Claude, Gemini, and DeepSeek — models, architecture, tooling, and infrastructure (June 2026 snapshot)
 date: 2026-06-07
 next: true
@@ -10,7 +10,7 @@ tags:
   - software
 ---
 
-# AI Chatbot Platform Comparison
+# AI Chatbot Platform
 
 Layer-by-layer comparison of ChatGPT, Claude, Gemini, and DeepSeek — from model internals to client UI and infrastructure.
 
