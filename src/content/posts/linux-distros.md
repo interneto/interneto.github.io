@@ -6,7 +6,8 @@ next: true
 prev: true
 footer: true
 tags:
-  - systems
+  - comparison
+  - software
 ---
 
 

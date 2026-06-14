@@ -1,64 +1,182 @@
 ---
-title: Chatbot AI Platform Comparison
-description: Layer-by-layer comparison of ChatGPT, Claude, Gemini, and DeepSeek stacks (June 2026 snapshot)
+title: AI Chatbot Platform Comparison
+description: Layer-by-layer comparison of ChatGPT, Claude, Gemini, and DeepSeek — models, architecture, tooling, and infrastructure (June 2026 snapshot)
 date: 2026-06-07
 next: true
 prev: true
 footer: true
 tags:
-  - ai
+  - comparison
+  - software
 ---
 
-# Chatbot AI Platform Comparison (June 2026 Snapshot)
+# AI Chatbot Platform Comparison
 
-Layer-by-layer comparison of ChatGPT, Claude, Gemini, and DeepSeek from model internals to client and infrastructure.
+Layer-by-layer comparison of ChatGPT, Claude, Gemini, and DeepSeek — from model internals to client UI and infrastructure.
 
 This is a living document. Update it when major model versions, protocols, or platform architecture change.
 
-## Layer-by-Layer Comparison
+## Platform Stack
 
-| Dimension                    | Combined View (![ChatGPT][chatgpt-icon] ChatGPT / ![Claude][claude-icon] Claude / ![Gemini][gemini-icon] Gemini / ![DeepSeek][deepseek-icon] DeepSeek)                                                                                                          |
-|------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Current model (Jun 2026)** | **Common:** Fast release cadence with model families and routing tiers.<br>**Diff:** ChatGPT GPT family; Claude Opus/Sonnet/Haiku; Gemini family; DeepSeek family (open-model-first positioning).                                                               |
-| **Model architecture**       | **Common:** Decoder-only autoregressive Transformer base.<br>**Diff:** OpenAI/Anthropic internals undisclosed; Gemini publicly confirms MoE top-k routing; DeepSeek is publicly open-model oriented.                                                            |
-| **Multimodality**            | **Common:** Multimodal workflows are now expected at platform level.<br>**Diff:** ChatGPT text/image/audio/voice; Claude text+vision; Gemini native interleaved text/image/audio/video; DeepSeek is primarily discussed for reasoning/coding model performance. |
-| **Context window**           | **Common:** Long context is strategic for all.<br>**Diff:** ChatGPT ~400K; Claude 200K+ by tier; Gemini at least 1M; DeepSeek varies by model/release tier.                                                                                                     |
-| **Base output + transport**  | **Common:** Markdown + SSE/JSON deltas is the de facto pattern.<br>**Diff:** Gemini highlights stronger internal gRPC/protobuf usage.                                                                                                                           |
-| **Text rendering path**      | **Common:** Markdown -> AST -> React components.<br>**Diff:** No major practical divergence.                                                                                                                                                                    |
-| **Rich UI / agent protocol** | **Common:** UI-rich clients plus tool-capable agent flows.<br>**Diff:** ChatGPT Apps SDK + Canvas over MCP; Claude Artifacts/Cowork with MCP origin; Gemini Canvas + Workspace depth + A2UI + MCP.                                                              |
-| **Tooling standard**         | **Common:** MCP is the shared tools interface.<br>**Diff:** Variance is ecosystem maturity and packaging, not protocol direction.                                                                                                                               |
-| **Client layer**             | **Common:** Web React/TypeScript + native apps.<br>**Diff:** Workflow integration depth varies by ecosystem.                                                                                                                                                    |
-| **Compute / infrastructure** | **Common:** Hyperscale infra + custom accelerators.<br>**Diff:** ChatGPT mainly Azure; Claude AWS Trainium + Google TPU; Gemini on Google TPUs.                                                                                                                 |
+<table>
+  <colgroup>
+    <col style="width:18%">
+    <col style="width:20.5%">
+    <col style="width:20.5%">
+    <col style="width:20.5%">
+    <col style="width:20.5%">
+  </colgroup>
+  <thead>
+    <tr>
+      <th>Dimension</th>
+      <th><img src="/img/software/apps/chatgpt.svg" width="18" height="18" style="display:inline;vertical-align:middle"> ChatGPT</th>
+      <th><img src="/img/software/apps/claude.svg" width="18" height="18" style="display:inline;vertical-align:middle"> Claude</th>
+      <th><img src="/img/software/apps/deepseek.svg" width="18" height="18" style="display:inline;vertical-align:middle"> DeepSeek</th>
+      <th><img src="/img/software/apps/gemini.svg" width="18" height="18" style="display:inline;vertical-align:middle"> Gemini</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Company</strong></td>
+      <td>OpenAI</td>
+      <td>Anthropic</td>
+      <td>DeepSeek AI</td>
+      <td>Google DeepMind</td>
+    </tr>
+    <tr>
+      <td><strong>Type / License</strong></td>
+      <td colspan="2">Proprietary — closed weights, closed API</td>
+      <td>Open weights (MIT / Apache 2.0 per model); closed API available</td>
+      <td>Proprietary — closed weights, closed API</td>
+    </tr>
+    <tr>
+      <td><strong>Model family (Jun 2026)</strong></td>
+      <td>GPT family; Instant / Thinking / Pro auto-routing</td>
+      <td>Opus / Sonnet / Haiku family</td>
+      <td>DeepSeek family; open-model-first</td>
+      <td>Gemini family (Flash + Pro)</td>
+    </tr>
+    <tr>
+      <td><strong>Architecture</strong></td>
+      <td colspan="2">Decoder-only Transformer; internals undisclosed</td>
+      <td>Decoder-only Transformer; open weights</td>
+      <td>Decoder-only Transformer; confirmed MoE top-k routing</td>
+    </tr>
+    <tr>
+      <td><strong>Multimodality</strong></td>
+      <td>Text, image, audio, voice</td>
+      <td>Text + vision</td>
+      <td>Text; focus on reasoning and coding</td>
+      <td>Native interleaved: text, image, audio, video</td>
+    </tr>
+    <tr>
+      <td><strong>Context window</strong></td>
+      <td>~400K tokens</td>
+      <td colspan="2">200K+ (tier-dependent)</td>
+      <td>1M tokens</td>
+    </tr>
+    <tr>
+      <td><strong>Output + transport</strong></td>
+      <td colspan="4">Markdown + SSE / JSON deltas — de facto standard <em>(Gemini additionally uses gRPC / protobuf internally)</em></td>
+    </tr>
+    <tr>
+      <td><strong>Render path</strong></td>
+      <td colspan="4">Markdown → AST → React components — no major divergence</td>
+    </tr>
+    <tr>
+      <td><strong>Rich UI / agents</strong></td>
+      <td>Apps SDK + Canvas over MCP</td>
+      <td>Artifacts + Cowork / Design; MCP origin</td>
+      <td>—</td>
+      <td>Canvas + Workspace depth; A2UI + MCP</td>
+    </tr>
+    <tr>
+      <td><strong>Tool standard</strong></td>
+      <td colspan="4">MCP — variance is ecosystem maturity and packaging, not protocol direction</td>
+    </tr>
+    <tr>
+      <td><strong>Client</strong></td>
+      <td colspan="4">Web React / TypeScript + native apps — depth varies by ecosystem</td>
+    </tr>
+    <tr>
+      <td><strong>Infra</strong></td>
+      <td>Azure</td>
+      <td>AWS Trainium + Google TPU</td>
+      <td>—</td>
+      <td>Google TPUs</td>
+    </tr>
+  </tbody>
+</table>
 
-## Related AI Coding Clients (Not Foundation Platforms)
+## AI Coding Clients
 
-GitHub Copilot, OpenCode, Codex, and Claude Code solve a similar user problem (AI-assisted coding), but they are client/orchestration products rather than full-stack foundation model platforms.
+Claude Code, Codex, GitHub Copilot, and OpenCode solve a similar problem (AI-assisted coding), but they are client-layer products — not foundation model platforms.
 
-| Dimension              | Combined View (![GitHub Copilot][copilot-icon] Copilot / ![OpenCode][opencode-icon] OpenCode / ![Codex][codex-icon] Codex / ![Claude Code][claude-code-icon] Claude Code)                                                                                 |
-|------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Product category**   | **Common:** AI coding clients, not foundation-model platforms.<br>**Diff:** Copilot is enterprise IDE-first; OpenCode is open-source agent/CLI-first; Codex and Claude Code are coding-focused agent clients.                                             |
-| **Model ownership**    | **Common:** These clients do not train frontier base models.<br>**Diff:** They rely on upstream model providers with different coupling/routing strategies.                                                                                               |
-| **Model strategy**     | **Common:** Multi-provider usage is core.<br>**Diff:** Copilot uses plan/feature-based routing; OpenCode emphasizes bring-your-own provider control; Codex and Claude Code are tightly coupled to their native model ecosystems.                          |
-| **Primary interface**  | **Common:** Assistant-style coding workflow.<br>**Diff:** Copilot centers VS Code/IDE chat + inline completion + agent flows; OpenCode centers terminal-first workflow; Codex/Claude Code emphasize agentic coding sessions in terminal/editor workflows. |
-| **Tools/protocol fit** | **Common:** Strong tool-calling orientation.<br>**Diff:** Copilot aligns with MCP ecosystem in product integrations; OpenCode emphasizes MCP/open-tooling flexibility; Codex and Claude Code emphasize integrated coding-tool loops.                      |
-| **Infra position**     | **Common:** Application-layer clients above model platforms.<br>**Diff:** Integration style differs, not foundation stack ownership.                                                                                                                      |
+<table>
+  <colgroup>
+    <col style="width:18%">
+    <col style="width:20.5%">
+    <col style="width:20.5%">
+    <col style="width:20.5%">
+    <col style="width:20.5%">
+  </colgroup>
+  <thead>
+    <tr>
+      <th>Dimension</th>
+      <th><img src="/img/software/apps/claude-code.svg" width="18" height="18" style="display:inline;vertical-align:middle"> Claude Code</th>
+      <th><img src="/img/software/apps/codex.svg" width="18" height="18" style="display:inline;vertical-align:middle"> Codex</th>
+      <th><img src="/img/software/vscode-extensions/github-copilot.svg" width="18" height="18" style="display:inline;vertical-align:middle;background:white;border-radius:50%;border:1px solid #ccc;padding:1px"> GitHub Copilot</th>
+      <th><img src="/img/software/apps/opencode.svg" width="18" height="18" style="display:inline;vertical-align:middle"> OpenCode</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Company</strong></td>
+      <td>Anthropic</td>
+      <td>OpenAI</td>
+      <td>GitHub (Microsoft)</td>
+      <td>sst (community)</td>
+    </tr>
+    <tr>
+      <td><strong>Type / License</strong></td>
+      <td>Proprietary client — closed source; subscription required</td>
+      <td>Open-source client — MIT; subscription required for the API</td>
+      <td colspan="2">Open-source client — MIT; BYOK: Ollama, any API provider, or GitHub-hosted models</td>
+    </tr>
+    <tr>
+      <td><strong>Model strategy</strong></td>
+      <td colspan="2">Tightly coupled to native model ecosystem</td>
+      <td colspan="2">Multi-provider: GitHub-hosted models, BYOK, or local (Ollama)</td>
+    </tr>
+    <tr>
+      <td><strong>Interface</strong></td>
+      <td colspan="2">Agentic coding sessions in terminal / editor</td>
+      <td>VS Code / IDE chat + inline completion + agent flows</td>
+      <td>Terminal-first workflow</td>
+    </tr>
+    <tr>
+      <td><strong>Tool fit</strong></td>
+      <td colspan="2">Integrated coding-tool loops</td>
+      <td>MCP ecosystem alignment</td>
+      <td>MCP / open-tooling flexibility</td>
+    </tr>
+    <tr>
+      <td><strong>Layer</strong></td>
+      <td colspan="4">Application-layer clients above model platforms</td>
+    </tr>
+  </tbody>
+</table>
 
-## Quick Takeaways
+## Key Takeaways
 
-- Core app stack is converged: Markdown output, SSE + JSON deltas, Markdown -> AST -> React, and MCP tools.
-- Main differences are model behavior, context limits by tier, product UX, and infrastructure strategy.
-- Copilot, OpenCode, Codex, and Claude Code are best understood as AI coding clients on top of these platforms, not as parallel foundation-model stacks.
-- Internals remain mostly proprietary, so treat architecture details as vendor-confirmed where available.
+- The middle layers have converged: Markdown output, SSE + JSON delta streaming, Markdown → AST → React rendering, and MCP as the tool-calling standard.
+- Real differences sit in model behavior, reasoning quality, context window reliability, product UX, and infrastructure strategy.
+- DeepSeek is the only platform here with open weights — a meaningful distinction for self-hosting and reproducibility.
+- Claude Code, Codex, GitHub Copilot, and OpenCode are coding clients built on top of these platforms, not independent model stacks.
+- Most internal architecture details remain proprietary; treat vendor-unconfirmed claims as estimates.
 
 ## Maintenance Note
 
 Update this article when model families, default routing behavior, context windows, or protocol layers change.
 
-[chatgpt-icon]: /img/software/apps/chatgpt.svg
-[claude-icon]: /img/software/apps/claude.svg
-[gemini-icon]: /img/software/apps/gemini.svg
-[copilot-icon]: /img/software/vscode-extensions/github-copilot.svg
-[opencode-icon]: /img/software/apps/opencode.svg
-[codex-icon]: /img/software/apps/codex.svg
-[claude-code-icon]: /img/software/apps/claude-code.svg
-[deepseek-icon]: /img/software/apps/deepseek.svg
+

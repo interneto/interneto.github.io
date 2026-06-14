@@ -1,12 +1,12 @@
 ---
-title: Comparing Bookmark Managers
+title: Bookmark Managers
 description: Quick comparison of bookmark manager apps and practical recommendations
 date: 2025-08-31
 next: true
 prev: true
 footer: true
 tags:
-  - productivity
+  - comparison
   - software
 ---
 

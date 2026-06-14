@@ -2,35 +2,27 @@
 import { getCollection } from 'astro:content';
 import VPLayout from '../../layouts/VPLayout.astro';
 import ContentCard from '../../components/ContentCard.astro';
+import { POST_SECTIONS } from '../../data/posts';
 
 const BASE = import.meta.env.BASE_URL.replace(/\/?$/, '/');
 const cleanSlug = (id: string) => id.replace(/\.md$/i, '');
 
-type SectionName = 'Comparing' | 'How-To' | 'Articles' | 'Philosophy';
+// Derive section and order from posts.ts — single source of truth
+const sectionOrder = POST_SECTIONS.map((s) => s.title);
 
-const sectionBySlug: Record<string, SectionName> = {
-  'ai-coding-tools': 'Comparing',
-  'bookmark-managers': 'Comparing',
-  'linux-distros': 'Comparing',
-  'how-to-categorize-links': 'How-To',
-  'file-sync': 'How-To',
-  'cybersecurity-vulnerabilities': 'Articles',
-  'history-of-computing': 'Articles',
-  'os-layer-stack': 'Articles',
-  'good-software-manifesto': 'Articles',
-  'what-is-info': 'Articles',
-  'turing-complete-reality': 'Philosophy',
-  'organic-vs-artificial-life': 'Philosophy',
-};
+const sectionBySlug: Record<string, string> = {};
+for (const section of POST_SECTIONS) {
+  for (const item of section.items) {
+    sectionBySlug[item.slug] = section.title;
+  }
+}
 
-const sectionIcons: Record<SectionName, string> = {
+const sectionIcons: Record<string, string> = {
   'Comparing': '📊',
   'How-To': '📝',
   'Articles': '📄',
   'Philosophy': '🤔',
 };
-
-const sectionOrder: SectionName[] = ['Comparing', 'How-To', 'Articles', 'Philosophy'];
 
 const posts = (await getCollection('posts'))
   .filter((entry) => cleanSlug(entry.id) !== 'index')

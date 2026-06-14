@@ -6,7 +6,7 @@ next: true
 prev: true
 footer: true
 tags:
-  - ai
+  - comparison
   - software
 ---
 
