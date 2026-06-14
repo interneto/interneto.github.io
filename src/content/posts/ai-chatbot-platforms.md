@@ -1,6 +1,6 @@
 ---
 title: AI Chatbot Platforms
-description: Layer-by-layer comparison of ChatGPT, Claude, Gemini, and DeepSeek — models, architecture, tooling, and infrastructure (June 2026 snapshot)
+description: Layer-by-layer comparison of ChatGPT, Claude, Gemini, and DeepSeek — models, architecture, capabilities, tooling, and infrastructure (June 2026 snapshot)
 date: 2026-06-07
 next: true
 prev: true
@@ -107,6 +107,43 @@ This is a living document. Update it when major model versions, protocols, or pl
     </tr>
   </tbody>
 </table>
+
+## Capabilities
+
+Beyond chat, each platform exposes interactive tools and rich rendering. What the app can *do* in a conversation — search the web, run code, render diagrams, preview UI — increasingly matters as much as raw model quality. Snapshot below; these features ship and change fast.
+
+<table>
+  <colgroup>
+    <col style="width:18%">
+    <col style="width:20.5%">
+    <col style="width:20.5%">
+    <col style="width:20.5%">
+    <col style="width:20.5%">
+  </colgroup>
+  <thead>
+    <tr>
+      <th>Capability</th>
+      <th><img src="/img/software/apps/chatgpt.svg" width="18" height="18" style="display:inline;vertical-align:middle"> ChatGPT</th>
+      <th><img src="/img/software/apps/claude.svg" width="18" height="18" style="display:inline;vertical-align:middle"> Claude</th>
+      <th><img src="/img/software/apps/deepseek.svg" width="18" height="18" style="display:inline;vertical-align:middle"> DeepSeek</th>
+      <th><img src="/img/software/apps/gemini.svg" width="18" height="18" style="display:inline;vertical-align:middle"> Gemini</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td><strong>Web search</strong></td><td>✅ with citations</td><td>✅</td><td>✅</td><td>✅ Search grounding</td></tr>
+    <tr><td><strong>Code execution</strong></td><td>✅ Python sandbox</td><td>✅ analysis tool</td><td>⚠️ code-gen only</td><td>✅ Python</td></tr>
+    <tr><td><strong>Live editor</strong></td><td>Canvas</td><td>Artifacts</td><td>—</td><td>Canvas</td></tr>
+    <tr><td><strong>Mermaid diagrams</strong></td><td>✅ in Canvas</td><td>✅ in Artifacts</td><td>code only</td><td>✅ in Canvas</td></tr>
+    <tr><td><strong>SVG / HTML / React preview</strong></td><td>✅ Canvas</td><td>✅ Artifacts</td><td>—</td><td>✅ Canvas</td></tr>
+    <tr><td><strong>Interactive maps</strong></td><td>✅ Apps (e.g. Mapbox)</td><td>⚠️ via MCP</td><td>—</td><td>✅ Google Maps</td></tr>
+    <tr><td><strong>Image generation</strong></td><td>✅</td><td>—</td><td>—</td><td>✅</td></tr>
+    <tr><td><strong>Voice (in / out)</strong></td><td>✅ Advanced Voice</td><td>⚠️ mobile</td><td>—</td><td>✅ Gemini Live</td></tr>
+    <tr><td><strong>File / data analysis</strong></td><td>✅</td><td>✅</td><td>⚠️ basic</td><td>✅</td></tr>
+    <tr><td><strong>Apps / extensibility</strong></td><td>✅ Apps SDK + MCP</td><td>✅ MCP connectors</td><td>—</td><td>✅ A2UI + MCP</td></tr>
+  </tbody>
+</table>
+
+> **Note:** Rich-UI output renders through the live-editor surfaces — ChatGPT **Canvas**, Claude **Artifacts**, Gemini **Canvas** — which preview HTML/React, SVG, and Mermaid inline. Maps and other third-party widgets arrive through the **Apps/MCP** layer, not the base model.
 
 ## AI Coding Clients
 

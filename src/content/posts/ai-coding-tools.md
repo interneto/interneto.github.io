@@ -52,9 +52,7 @@ A frontier AI system is a vertical stack — from **silicon at the bottom to the
 - Markdown -> AST -> component render path
 - MCP as practical tool-calling standard
 
-Most products now look similar in the middle layers; real differences are concentrated in model behavior, context reliability, product UX, and ecosystem lock-in.
-
-For the full provider-by-provider snapshot, see [src/content/posts/chatbot-ai-platform-comparison.md](src/content/posts/chatbot-ai-platform-comparison.md).
+The middle layers have converged; real differences are concentrated in model behavior, context reliability, product UX, and ecosystem lock-in. For the provider-by-provider comparison — and what each chatbot can actually do (web search, Canvas/Artifacts, Mermaid, maps) — see [AI Chatbot Platforms](/blog/ai-chatbot-platforms/).
 
 ### The Minimal Stack: What You Actually Need
 
