@@ -13,7 +13,7 @@ export const POST_SECTIONS: PostSection[] = [
   {
     title: 'Comparing',
     items: [
-      { text: 'AI Coding Tools', slug: 'ai-coding-tools' },
+      { text: 'AI Coding Tools', slug: 'ai-tools' },
       { text: 'AI Chatbot Platforms', slug: 'ai-chatbot-platforms' },
       { text: 'Bookmark Managers', slug: 'bookmark-managers' },
       { text: 'Linux Distributions', slug: 'linux-distros' },

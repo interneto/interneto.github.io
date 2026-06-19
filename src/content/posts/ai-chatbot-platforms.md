@@ -99,6 +99,13 @@ This is a living document. Update it when major model versions, protocols, or pl
       <td colspan="4">Web React / TypeScript + native apps — depth varies by ecosystem</td>
     </tr>
     <tr>
+      <td><strong>Platforms (OS)</strong></td>
+      <td>Web · iOS · Android · Windows · macOS</td>
+      <td>Web · iOS · Android · Windows · macOS</td>
+      <td>Web · iOS · Android</td>
+      <td>Web · iOS · Android</td>
+    </tr>
+    <tr>
       <td><strong>Infra</strong></td>
       <td>Azure</td>
       <td>AWS Trainium + Google TPU</td>
@@ -107,6 +114,8 @@ This is a living document. Update it when major model versions, protocols, or pl
     </tr>
   </tbody>
 </table>
+
+> **Linux** has no official native client for any of these — use the web app. ChatGPT and Claude ship native **Windows / macOS** desktop apps; DeepSeek and Gemini are web + mobile only (Gemini is also built into Android and ChromeOS).
 
 ## Capabilities
 
