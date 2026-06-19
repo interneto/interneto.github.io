@@ -15,66 +15,16 @@ tags:
 AI coding is no longer one tool plus one model. Real workflows mix editor, agent, runtime, model host, and hardware depending on task, privacy, and budget.
 
 This guide is compact by design:
-1. Shared industry stack
-2. Provider deltas that actually matter
-3. Minimal local stack
-4. Tool catalog by layer
+1. The stack at a glance
+2. Minimal local stack
+3. Multimodal models
+4. Build strategy
 
 ---
 
-## The Industry Stack
+## The AI Stack
 
-A frontier AI system is a vertical stack — from **silicon at the bottom to the app at the top**. Below are two ecosystems: the **closed / proprietary** labs (OpenAI · Anthropic · Google) and the **open-source** stack you can self-host. Read top-down (user-facing) to bottom (foundation); proprietary entries follow OpenAI/Anthropic/Google order, with `/` separating alternatives.
-
-| **Stack Layer**                  | **Closed / Proprietary Ecosystem**                               | **Open-Source / Self-Hosted Ecosystem**                                                       |
-|----------------------------------|------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
-| **App (UI/UX)**                  | ChatGPT, Claude, Gemini                                          | Open WebUI, AnythingLLM, Jan                                                                  |
-| **Coding Agent**                 | GitHub Copilot, Claude Code, Cursor                              | Cline, Aider, OpenDevin (All Hands)                                                           |
-| **Agent SDK / Orchestrator**     | OpenAI Assistants API, LangChain Smith (Managed)                 | LangChain, LlamaIndex, CrewAI, Autogen                                                        |
-| **Vector DB / Memory**           | Pinecone, Vertex AI Search, Enterprise Weaviate                  | pgvector, Qdrant, Chroma, Milvus                                                              |
-| **Model**                        | GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro                        | Llama 3, Qwen 2.5, DeepSeek-V3, Phi-4                                                         |
-| **API / Model Hosting**          | OpenAI Platform, Anthropic API, Vertex AI                        | _Self-hosted:_ vLLM, Ollama, TGI <br> _Managed Open-Model Providers:_ OpenRouter, Together AI |
-| **Inference Runtime**            | Proprietary internal engines (Google/OpenAI)                     | vLLM, Ollama, llama.cpp, SGLang, TensorRT-LLM                                                 |
-| **Pre-training Data**            | Undisclosed web scraping, licensed media, private synthetic data | Open corpora (FineWeb, RedPajama, The Stack)                                                  |
-| **Alignment (RLHF/DPO)**         | Proprietary RLHF, Constitutional AI, RL methods                  | Open-source alignment pipelines (TRL, Alignment Handbook), Open datasets                      |
-| **Training Frameworks**          | Custom internal orchestration layers                             | PyTorch, JAX, DeepSpeed, Megatron-LM                                                          |
-| **Infrastructure Orchestration** | Managed hyperscaler clusters                                     | Kubernetes, Ray, Slurm (bare-metal)                                                           |
-| **Cloud Compute**                | AWS, Azure, Google Cloud (TPUs)                                  | RunPod, Vast.ai, Lambda Labs, on-prem clusters                                                |
-| **Hardware Accelerator**         | Custom Cloud ASICs (TPU, Trainium, Axion)                        | NVIDIA GPUs (H100/B200), AMD Instinct (MI300X), Apple Silicon                                 |
-| **Interconnect**                 | InfiniBand, NVLink / NVSwitch (NVIDIA ecosystem)                 | Ultra Ethernet, Standard RoCE/Ethernet                                                        |
-
-> **Note:** Closed stacks are vertically integrated — lower cost and tighter control, but heavier lock-in. The open-source stack trades turnkey convenience for portability: every layer, from the chip to the app, can be swapped or self-hosted.
-
-### What Is Mostly Standardized
-
-- Markdown-first text output
-- SSE + JSON delta streaming
-- Markdown -> AST -> component render path
-- MCP as practical tool-calling standard
-
-The middle layers have converged; real differences are concentrated in model behavior, context reliability, product UX, and ecosystem lock-in. For the provider-by-provider comparison — and what each chatbot can actually do (web search, Canvas/Artifacts, Mermaid, maps) — see [AI Chatbot Platforms](/blog/ai-chatbot-platforms/).
-
-### The Minimal Stack: What You Actually Need
-
-A developer needs **four layers**; two tools cover it:
-
-```bash
-ollama run qwen3.6    # runtime + model
-opencode              # optional agent
-```
-
-| Layer        | Tool / Component      | What it does                |
-|--------------|-----------------------|-----------------------------|
-| **Agent**    | OpenCode *(optional)* | Intent → prompts + tools    |
-| **Runtime**  | Ollama (llama.cpp)    | Transformer forward pass    |
-| **Model**    | Qwen Coder (GGUF)     | Learned weight matrices     |
-| **Hardware** | GPU / CPU             | Matrix multiply + attention |
-
-**The computation:** Prompt → tokens → embeddings → stacked Transformer blocks (self-attention + feed-forward = mostly GEMM). Runtime schedules operations; chip executes them — billions of multiply-adds per token.
-
-**Summary:** Model = numbers. Runtime = recipe. Hardware = executor. Everything else is optional.
-
-## AI Components
+A frontier AI system is a vertical stack — **silicon at the bottom, the app on top**. Two ecosystems run in parallel: **open-source** layers you can self-host and swap freely, and **closed / proprietary** ones that trade portability for turnkey convenience and lock-in. The map below is the tooling at a glance, top of stack to bottom.
 
 <style>
 .icon-badge {
@@ -101,15 +51,47 @@ opencode              # optional agent
   height: 1.5em;
   object-fit: contain;
 }
+
+/* Astro emits `align="center"` (an attribute), which .vp-prose th's
+   text-align:left overrides — re-center via a more specific selector. */
+.vp-prose th[align="center"],
+.vp-prose td[align="center"] {
+  text-align: center;
+  vertical-align: middle;
+}
 </style>
 
-|    AI components    |                                                                                                                                                                                                                                                  Open-Source                                                                                                                                                                                                                                                   |                                                                                                                                                                           Proprietary                                                                                                                                                                            |
-|:-------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| **Local Runtimes**  |                      <a href="https://github.com/ggml-org/llama.cpp" class="icon-badge" title="llama.cpp">![llama.cpp][llcp]</a> <a href="https://ollama.com/" class="icon-badge" title="Ollama">![Ollama][oll]</a> <a href="https://lmstudio.ai/" class="icon-badge" title="LM Studio">![LM Studio][lms]</a> <a href="https://vllm.ai/" class="icon-badge" title="vLLM">![vLLM][vllm]</a> <a href="https://www.nomic.ai/gpt4all" class="icon-badge" title="GPT4All">![GPT4All][g4a]</a>                       |                                                                                                                                                                                                                                                                                                                                                                  |
-|  **Code Editors**   |                                                                                                                                                                   <a href="https://code.visualstudio.com/" class="icon-badge" title="VS Code">![VS Code][vsc]</a> <a href="https://zed.dev/" class="icon-badge" title="Zed">![Zed][zed]</a>                                                                                                                                                                    |                                          <a href="https://antigravity.google/" class="icon-badge" title="Antigravity">![Antigravity][ag]</a> <a href="https://cursor.com/" class="icon-badge" title="Cursor">![Cursor][cur]</a> <a href="https://windsurf.com/" class="icon-badge" title="Windsurf">![Windsurf][ws]</a>                                          |
-|  **Agents / CLI**   | <a href="https://openai.com/codex/" class="icon-badge" title="Codex">![Codex][cdx]</a> <a href="https://opencode.ai/" class="icon-badge" title="OpenCode">![OpenCode][oc]</a> <a href="https://www.openinterpreter.com/" class="icon-badge" title="Open Interpreter">![Open Interpreter][oi]</a> <a href="https://hermes-agent.nousresearch.com/" class="icon-badge" title="Hermes">![Hermes][herm]</a> <a href="https://github.com/MiniMax-AI/cli" class="icon-badge" title="MiniMax CLI">![MiniMax][mmx]</a> <a href="https://mimo.xiaomi.com/mimocode" class="icon-badge" title="MiMo Code">![MiMo Code][mimo]</a> |                               <a href="https://claude.ai/code" class="icon-badge" title="Claude Code">![Claude Code][cc]</a> <a href="https://devin.ai/" class="icon-badge" title="Devin">![Devin][devin]</a> <a href="https://github.com/features/copilot" class="icon-badge" title="GitHub Copilot">![GitHub Copilot][ghcli]</a>                               |
-| **Model Platforms** |                                                                <a href="https://huggingface.co/" class="icon-badge" title="Hugging Face">![Hugging Face][hfzg]</a> <a href="https://openrouter.ai/" class="icon-badge" title="OpenRouter">![OpenRouter][or]</a> <a href="https://replicate.com/" class="icon-badge" title="Replicate">![Replicate][rep]</a> <a href="https://vast.ai/" class="icon-badge" title="Vast.ai">![Vast.ai][vast]</a>                                                                 |                                                                                                                                                                                                                                                                                                                                                                  |
-|    **AI Models**    |                                                                       <a href="https://www.llama.com/" class="icon-badge" title="Llama">![Llama][llm3]</a> <a href="https://qwenlm.github.io/" class="icon-badge" title="Qwen">![Qwen][qwen]</a> <a href="https://www.deepseek.com/" class="icon-badge" title="DeepSeek">![DeepSeek][dsv3]</a> <a href="https://mistral.ai/" class="icon-badge" title="Codestral">![Mistral][codes]</a>                                                                        | <a href="https://www.anthropic.com/claude" class="icon-badge" title="Claude">![Claude][cla4]</a> <a href="https://openai.com/chatgpt" class="icon-badge" title="GPT">![GPT][gpt5]</a> <a href="https://ai.google.dev/" class="icon-badge" title="Gemini">![Gemini][gemini]</a> <a href="https://www.kimi.com/" class="icon-badge" title="Kimi">![Kimi][kimi]</a> |
+|    **Stack Layer**     |                                                                                                                                                                                                                                                                                                                                             **Open-Source**                                                                                                                                                                                                                                                                                                                                             |                                                                                                                                                                         **Proprietary**                                                                                                                                                                          |
+|:----------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|    **Code Editors**    |                                                                                                                                                                                                                   <a href="https://code.visualstudio.com/" class="icon-badge" title="VS Code">![VS Code][vsc]</a> <a href="https://zed.dev/" class="icon-badge" title="Zed">![Zed][zed]</a> <a href="https://vscodium.com/" class="icon-badge" title="VSCodium">![VSCodium][vsm]</a>                                                                                                                                                                                                                    |                                          <a href="https://antigravity.google/" class="icon-badge" title="Antigravity">![Antigravity][ag]</a> <a href="https://cursor.com/" class="icon-badge" title="Cursor">![Cursor][cur]</a> <a href="https://windsurf.com/" class="icon-badge" title="Windsurf">![Windsurf][ws]</a>                                          |
+|    **Agents / CLI**    | <a href="https://openai.com/codex/" class="icon-badge" title="Codex">![Codex][cdx]</a> <a href="https://opencode.ai/" class="icon-badge" title="OpenCode">![OpenCode][oc]</a> <a href="https://www.openinterpreter.com/" class="icon-badge" title="Open Interpreter">![Open Interpreter][oi]</a> <a href="https://cline.bot/" class="icon-badge" title="Cline">![Cline][cline]</a> <a href="https://hermes-agent.nousresearch.com/" class="icon-badge" title="Hermes">![Hermes][herm]</a> <a href="https://github.com/MiniMax-AI/cli" class="icon-badge" title="MiniMax CLI">![MiniMax][mmx]</a> <a href="https://mimo.xiaomi.com/mimocode" class="icon-badge" title="MiMo Code">![MiMo Code][mimo]</a> |                               <a href="https://claude.ai/code" class="icon-badge" title="Claude Code">![Claude Code][cc]</a> <a href="https://devin.ai/" class="icon-badge" title="Devin">![Devin][devin]</a> <a href="https://github.com/features/copilot" class="icon-badge" title="GitHub Copilot">![GitHub Copilot][ghcli]</a>                               |
+|     **AI Models**      |                                          <a href="https://www.llama.com/" class="icon-badge" title="Llama">![Llama][llm3]</a> <a href="https://qwenlm.github.io/" class="icon-badge" title="Qwen">![Qwen][qwen]</a> <a href="https://www.deepseek.com/" class="icon-badge" title="DeepSeek">![DeepSeek][dsv3]</a> <a href="https://mistral.ai/" class="icon-badge" title="Mistral">![Mistral][codes]</a> <a href="https://www.minimax.io/" class="icon-badge" title="MiniMax">![MiniMax][mmx]</a> <a href="https://mimo.xiaomi.com/" class="icon-badge" title="MiMo">![MiMo][mimo]</a> <a href="https://z.ai/" class="icon-badge" title="GLM">![GLM][glm]</a>                                           | <a href="https://www.anthropic.com/claude" class="icon-badge" title="Claude">![Claude][cla4]</a> <a href="https://openai.com/chatgpt" class="icon-badge" title="GPT">![GPT][gpt5]</a> <a href="https://ai.google.dev/" class="icon-badge" title="Gemini">![Gemini][gemini]</a> <a href="https://www.kimi.com/" class="icon-badge" title="Kimi">![Kimi][kimi]</a> |
+|   **Model Hosting**    |                                                                                                                                                             <a href="https://huggingface.co/" class="icon-badge" title="Hugging Face">![Hugging Face][hfzg]</a> <a href="https://openrouter.ai/" class="icon-badge" title="OpenRouter">![OpenRouter][or]</a> <a href="https://replicate.com/" class="icon-badge" title="Replicate">![Replicate][rep]</a> <a href="https://vast.ai/" class="icon-badge" title="Vast.ai">![Vast.ai][vast]</a>                                                                                                                                                             |                       <a href="https://platform.openai.com/" class="icon-badge" title="OpenAI Platform">![OpenAI][oai]</a> <a href="https://www.anthropic.com/api" class="icon-badge" title="Anthropic API">![Anthropic][anth]</a> <a href="https://cloud.google.com/vertex-ai" class="icon-badge" title="Vertex AI">![Vertex AI][gcl]</a>                       |
+|      **Runtimes**      |                                                <a href="https://github.com/ggml-org/llama.cpp" class="icon-badge" title="llama.cpp">![llama.cpp][llcp]</a> <a href="https://ollama.com/" class="icon-badge" title="Ollama">![Ollama][oll]</a> <a href="https://lmstudio.ai/" class="icon-badge" title="LM Studio">![LM Studio][lms]</a> <a href="https://vllm.ai/" class="icon-badge" title="vLLM">![vLLM][vllm]</a> <a href="https://www.nomic.ai/gpt4all" class="icon-badge" title="GPT4All">![GPT4All][g4a]</a> <a href="https://github.com/triton-inference-server/server" class="icon-badge" title="Triton Inference Server">![Triton][triton]</a>                                                 |                                                                                                                                                                       Cloud infrastructure                                                                                                                                                                       |
+| **Vector DB / Memory** |                                                                                                                                                                                                       <a href="https://github.com/pgvector/pgvector" class="icon-badge" title="pgvector">![pgvector][pg]</a> <a href="https://www.mongodb.com/" class="icon-badge" title="MongoDB">![MongoDB][mdb]</a> <a href="https://www.sqlite.org/" class="icon-badge" title="SQLite">![SQLite][sqlite]</a>                                                                                                                                                                                                        |                                                                     <a href="https://www.pinecone.io/" class="icon-badge" title="Pinecone">![Pinecone][pc]</a> <a href="https://cloud.google.com/enterprise-search" class="icon-badge" title="Vertex AI Search">![Vertex AI Search][gcl]</a>                                                                     |
+| **Infra / Containers** |                                                                                                                                                                                                                 <a href="https://www.docker.com/" class="icon-badge" title="Docker">![Docker][dock]</a> <a href="https://podman.io/" class="icon-badge" title="Podman">![Podman][pod]</a> <a href="https://www.terraform.io/" class="icon-badge" title="Terraform">![Terraform][tf]</a>                                                                                                                                                                                                                 |                                         <a href="https://aws.amazon.com/" class="icon-badge" title="AWS">![AWS][aws]</a> <a href="https://azure.microsoft.com/" class="icon-badge" title="Azure">![Azure][azr]</a> <a href="https://cloud.google.com/" class="icon-badge" title="Google Cloud">![Google Cloud][gcl]</a>                                          |
+
+> **Below the badges:** the foundation layers share no clean tooling icons. **Open** — corpora (FineWeb, RedPajama, The Stack), alignment (TRL, Alignment Handbook), frameworks (PyTorch, JAX, DeepSpeed, Megatron-LM), accelerators (NVIDIA H100/B200, AMD MI300X, Apple Silicon). **Closed** — undisclosed data, proprietary RLHF / Constitutional AI, internal orchestration, cloud ASICs (TPU, Trainium, Axion). Every open layer can be swapped or self-hosted; closed stacks are vertically integrated — lower friction, heavier lock-in.
+
+### What Is Mostly Standardized
+
+- Markdown-first text output
+- SSE + JSON delta streaming
+- Markdown -> AST -> component render path
+- MCP as practical tool-calling standard
+
+The middle layers have converged; real differences concentrate in model behavior, context reliability, product UX, and ecosystem lock-in. For the provider-by-provider comparison — and what each chatbot can actually do (web search, Canvas/Artifacts, Mermaid, maps) — see [AI Chatbot Platforms](/blog/ai-chatbot-platforms/).
+
+### The Minimal Stack
+
+Four layers — **model, runtime, agent, hardware** — but two tools cover the software:
+
+```bash
+ollama run qwen3.6    # runtime + model
+opencode              # optional agent
+```
+
+Prompt → tokens → embeddings → stacked Transformer blocks (self-attention + feed-forward, mostly GEMM); the runtime schedules the ops, the chip runs the multiply-adds. **Model = numbers, runtime = recipe, hardware = executor. Everything else is optional.**
 
 ---
 
@@ -144,30 +126,46 @@ At this point, the hard problem is no longer model availability. It is integrati
 [cc]:     /img/software/apps/claude-code.svg
 [cdx]:    /img/software/apps/codex.svg
 [cla4]:   /img/software/apps/claude.svg
+[cline]:  /img/software/apps/cline.svg
 [codes]:  /img/assets/ai-coding-tools/mistral.svg
 [cur]:    /img/assets/ai-coding-tools/cursor.svg
+[dock]:   /img/software/apps/docker.svg
 [dsv3]:   /img/software/apps/deepseek.svg
 [devin]:  /img/software/apps/devin.svg
 [g4a]:    /img/assets/ai-coding-tools/gpt4all.svg
 [gemini]: /img/software/apps/gemini.svg
 [ghcli]:  /img/assets/ai-coding-tools/github-copilot.svg
+[glm]:    /img/assets/ai-coding-tools/zai.svg
 [gpt5]:   /img/software/apps/chatgpt.svg
-[herm]:   /img/assets/ai-coding-tools/nousresearch.svg
+[herm]:   /img/assets/ai-coding-tools/nousresearch-hermes.svg
 [hfzg]:   /img/assets/ai-coding-tools/huggingface.svg
 [kimi]:   /img/assets/ai-coding-tools/kimi.svg
 [llcp]:   /img/software/apps/llama-cpp.svg
 [llm3]:   /img/assets/ai-coding-tools/meta.svg
 [lms]:    /img/assets/ai-coding-tools/lmstudio.svg
+[mdb]:    /img/software/apps/mongodb.svg
 [mimo]:   /img/assets/ai-coding-tools/xiaomi.svg
 [mmx]:    /img/assets/ai-coding-tools/minimax.svg
 [oc]:     /img/assets/ai-coding-tools/opencode.svg
 [oi]:     /img/assets/ai-coding-tools/open-interpreter.svg
 [oll]:    /img/software/apps/ollama.svg
 [or]:     /img/software/apps/openrouter.svg
+[pg]:     /img/software/apps/postgresql.svg
+[pod]:    /img/software/apps/podman.svg
 [qwen]:   /img/assets/ai-coding-tools/qwen.svg
 [rep]:    /img/software/apps/replicate.svg
+[sqlite]: /img/software/apps/sqlite.svg
+[tf]:     /img/software/apps/terraform.svg
+[triton]: /img/assets/ai-coding-tools/triton.svg
 [vast]:   /img/assets/ai-coding-tools/vast.svg
 [vllm]:   /img/assets/ai-coding-tools/vllm.svg
 [vsc]:    /img/software/apps/visual-studio-code.svg
+[vsm]:    /img/software/apps/vscodium.svg
 [ws]:     /img/assets/ai-coding-tools/windsurf.svg
 [zed]:    /img/software/apps/zed.svg
+[oai]:    /img/assets/ai-coding-tools/openai.svg
+[anth]:   /img/assets/ai-coding-tools/anthropic.svg
+[gcl]:    /img/assets/ai-coding-tools/google-cloud.svg
+[aws]:    /img/assets/ai-coding-tools/aws.svg
+[azr]:    /img/assets/ai-coding-tools/azure.svg
+[pc]:     /img/assets/ai-coding-tools/pinecone.svg
