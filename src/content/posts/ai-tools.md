@@ -120,6 +120,17 @@ A model on its own only knows its training data and what fits in the current pro
 
 ---
 
+## What You Actually Pay For
+
+The software is mostly **free**. Open weights, runtimes ([Ollama](https://ollama.com/), llama.cpp, vLLM), MCP, and most of the tooling above cost nothing to download and run. The money goes to **compute and the managed service around it**:
+
+- **Renting compute** — GPUs/TPUs are expensive and a large model needs a lot of them. You either rent *by the token* (a hosted API) or rent the *machine by the hour* ([Vast.ai](https://vast.ai/), [Replicate](https://replicate.com/), cloud GPUs). The bill tracks usage.
+- **The managed platform** — a subscription (ChatGPT Plus, Claude Pro, Gemini AI Pro) bundles inference *plus* everything around it: uptime, scaling, guardrails, the app/UI, support, and the ongoing cost of training, post-training (RLHF), and the people who do it.
+
+Run an open model on hardware you already own and the software is free — you only pay the electricity. The moment someone else runs it for you, you're paying rent on **their compute and their service**, not for the model itself.
+
+> **Three pricing shapes:** *self-host* (free software, your hardware) · *per-token API* (rent compute by usage) · *subscription* (rent the whole managed platform).
+
 ## How to Choose
 
 Pick where the work runs, then the smallest model that clears the task:

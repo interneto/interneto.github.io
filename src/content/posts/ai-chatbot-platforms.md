@@ -50,6 +50,13 @@ This is a living document. Update it when major model versions, protocols, or pl
       <td>Proprietary — closed weights, closed API</td>
     </tr>
     <tr>
+      <td><strong>Pricing</strong></td>
+      <td>Free tier · Plus / Pro subscription · API per-token</td>
+      <td>Free tier · Pro / Max subscription · API per-token</td>
+      <td>Free tier · low-cost API per-token · self-host free (open weights)</td>
+      <td>Free tier · AI Pro / Ultra subscription · API per-token</td>
+    </tr>
+    <tr>
       <td><strong>Model family (Jun 2026)</strong></td>
       <td>GPT family; Instant / Thinking / Pro auto-routing</td>
       <td>Opus / Sonnet / Haiku family</td>
@@ -116,6 +123,8 @@ This is a living document. Update it when major model versions, protocols, or pl
 </table>
 
 > **Linux** has no official native client for any of these — use the web app. ChatGPT and Claude ship native **Windows / macOS** desktop apps; DeepSeek and Gemini are web + mobile only (Gemini is also built into Android and ChromeOS).
+>
+> **What the price buys:** not the model — the weights, clients, and protocols are free (DeepSeek's are even downloadable). You're paying to **rent compute** (per-token API or the subscription's hosted inference) plus the **managed service** around it: uptime, guardrails, the app, support, and ongoing training / post-training and the staff behind it. Self-host an open model and the software is free; you just supply the hardware.
 
 ## Capabilities
 
