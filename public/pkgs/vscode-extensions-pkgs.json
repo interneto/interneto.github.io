@@ -2,275 +2,275 @@
   "extensions": {
     "anthropic.claude-code": {
       "name": "Claude Code",
-      "category": "ai-tools-and-services"
+      "category": "AI"
     },
     "astro-build.astro-vscode": {
       "name": "Astro",
-      "category": "development"
+      "category": "Languages"
     },
     "bierner.markdown-mermaid": {
       "name": "Markdown Mermaid",
-      "category": "development"
+      "category": "Markdown and Docs"
     },
     "bigmodelingtools.erdiagram": {
       "name": "ER Diagram",
-      "category": "development"
+      "category": "Databases"
     },
     "bmewburn.vscode-intelephense-client": {
       "name": "Intelephense",
-      "category": "development"
+      "category": "Languages"
     },
     "cline.cline": {
       "name": "Cline",
-      "category": "ai-tools-and-services"
+      "category": "AI"
     },
     "continue.continue": {
       "name": "Continue",
-      "category": "ai-tools-and-services"
+      "category": "AI"
     },
     "cweijan.vscode-database-client2": {
       "name": "Database Client",
-      "category": "development"
+      "category": "Databases"
     },
     "cweijan.vscode-office": {
       "name": "Office Viewer",
-      "category": "development"
+      "category": "Utilities"
     },
     "davidanson.vscode-markdownlint": {
       "name": "Markdown Lint",
-      "category": "development"
+      "category": "Markdown and Docs"
     },
     "dbaeumer.vscode-eslint": {
       "name": "ESLint",
-      "category": "development"
+      "category": "Formatting and Linting"
     },
     "devsense.composer-php-vscode": {
       "name": "PHP Tools (Composer)",
-      "category": "development"
+      "category": "Languages"
     },
     "dotjoshjohnson.xml": {
       "name": "XML Tools",
-      "category": "development"
+      "category": "Web and Frontend"
     },
     "dracula-theme.theme-dracula": {
       "name": "Dracula Theme",
-      "category": "development"
+      "category": "Utilities"
     },
     "ecmel.vscode-html-css": {
       "name": "HTML CSS Support",
-      "category": "development"
+      "category": "Web and Frontend"
     },
     "editorconfig.editorconfig": {
       "name": "EditorConfig",
-      "category": "development"
+      "category": "Formatting and Linting"
     },
     "esbenp.prettier-vscode": {
       "name": "Prettier",
-      "category": "development"
+      "category": "Formatting and Linting"
     },
     "fcrespo82.markdown-table-formatter": {
       "name": "Markdown Table Formatter",
-      "category": "development"
+      "category": "Markdown and Docs"
     },
     "firefox-devtools.vscode-firefox-debug": {
       "name": "Firefox Debugger",
-      "category": "development"
+      "category": "Utilities"
     },
     "foam.foam-vscode": {
       "name": "Foam",
-      "category": "development"
+      "category": "Markdown and Docs"
     },
     "github.copilot": {
       "name": "GitHub Copilot",
-      "category": "ai-tools-and-services"
+      "category": "AI"
     },
     "github.copilot-chat": {
       "name": "GitHub Copilot Chat",
-      "category": "ai-tools-and-services"
+      "category": "AI"
     },
     "github.vscode-github-actions": {
       "name": "GitHub Actions",
-      "category": "ai-tools-and-services"
+      "category": "AI"
     },
     "github.vscode-pull-request-github": {
       "name": "GitHub Pull Requests",
-      "category": "ai-tools-and-services"
+      "category": "AI"
     },
     "google.colab": {
       "name": "Google Colab",
-      "category": "ai-tools-and-services"
+      "category": "AI"
     },
     "gruntfuggly.todo-tree": {
       "name": "Todo Tree",
-      "category": "development"
+      "category": "Utilities"
     },
     "humao.rest-client": {
       "name": "REST Client",
-      "category": "development"
+      "category": "Web and Frontend"
     },
     "kisstkondoros.vscode-gutter-preview": {
       "name": "Image Preview",
-      "category": "development"
+      "category": "Utilities"
     },
     "marimo-team.vscode-marimo": {
       "name": "marimo",
-      "category": "development"
+      "category": "Languages"
     },
     "mathematic.vscode-pdf": {
       "name": "PDF Viewer",
-      "category": "development"
+      "category": "Utilities"
     },
     "mechatroner.rainbow-csv": {
       "name": "Rainbow CSV",
-      "category": "development"
+      "category": "Utilities"
     },
     "mguellsegarra.highlight-on-copy": {
       "name": "Highlight on Copy",
-      "category": "development"
+      "category": "Utilities"
     },
     "midudev.better-svg": {
       "name": "Better SVG",
-      "category": "development"
+      "category": "Web and Frontend"
     },
     "miguelsolorio.symbols": {
       "name": "Symbols",
-      "category": "development"
+      "category": "Utilities"
     },
     "ms-azuretools.vscode-containers": {
       "name": "Dev Containers",
-      "category": "development"
+      "category": "DevOps and Cloud"
     },
     "ms-azuretools.vscode-docker": {
       "name": "Docker",
-      "category": "development"
+      "category": "DevOps and Cloud"
     },
     "ms-kubernetes-tools.vscode-kubernetes-tools": {
       "name": "Kubernetes",
-      "category": "development"
+      "category": "DevOps and Cloud"
     },
     "ms-python.debugpy": {
       "name": "Python Debugger",
-      "category": "development"
+      "category": "Languages"
     },
     "ms-python.python": {
       "name": "Python",
-      "category": "development"
+      "category": "Languages"
     },
     "ms-python.vscode-pylance": {
       "name": "Pylance",
-      "category": "development"
+      "category": "Languages"
     },
     "ms-vscode-remote.remote-containers": {
       "name": "Remote Containers",
-      "category": "development"
+      "category": "Remote Development"
     },
     "ms-vscode-remote.remote-ssh": {
       "name": "Remote SSH",
-      "category": "development"
+      "category": "Remote Development"
     },
     "ms-vscode-remote.remote-ssh-edit": {
       "name": "Remote SSH (Edit)",
-      "category": "development"
+      "category": "Remote Development"
     },
     "ms-vscode-remote.remote-wsl": {
       "name": "Remote WSL",
-      "category": "development"
+      "category": "Remote Development"
     },
     "ms-vscode.hexeditor": {
       "name": "Hex Editor",
-      "category": "development"
+      "category": "Utilities"
     },
     "ms-vscode.live-server": {
       "name": "Live Server",
-      "category": "development"
+      "category": "Web and Frontend"
     },
     "ms-vscode.powershell": {
       "name": "PowerShell",
-      "category": "development"
+      "category": "Languages"
     },
     "ms-vscode.remote-explorer": {
       "name": "Remote Explorer",
-      "category": "development"
+      "category": "Remote Development"
     },
     "ms-vscode.remote-server": {
       "name": "Remote Server",
-      "category": "development"
+      "category": "Remote Development"
     },
     "ms-vsliveshare.vsliveshare": {
       "name": "Live Share",
-      "category": "development"
+      "category": "Remote Development"
     },
     "mtxr.sqltools": {
       "name": "SQLTools",
-      "category": "development"
+      "category": "Databases"
     },
     "mtxr.sqltools-driver-mysql": {
       "name": "SQLTools MySQL Driver",
-      "category": "development"
+      "category": "Databases"
     },
     "openai.codex": {
       "name": "OpenAI Codex",
-      "category": "ai-tools-and-services"
+      "category": "AI"
     },
     "pflannery.vscode-versionlens": {
       "name": "Version Lens",
-      "category": "development"
+      "category": "Utilities"
     },
     "pomdtr.excalidraw-editor": {
       "name": "Excalidraw Editor",
-      "category": "development"
+      "category": "Utilities"
     },
     "redhat.vscode-xml": {
       "name": "XML",
-      "category": "development"
+      "category": "Languages"
     },
     "redhat.vscode-yaml": {
       "name": "YAML",
-      "category": "development"
+      "category": "Languages"
     },
     "rodrigovallades.es7-react-js-snippets": {
       "name": "ES7 React Snippets",
-      "category": "development"
+      "category": "Languages"
     },
     "standard.vscode-standard": {
       "name": "JavaScript Standard Style",
-      "category": "development"
+      "category": "Formatting and Linting"
     },
     "usernamehw.errorlens": {
       "name": "Error Lens",
-      "category": "development"
+      "category": "Formatting and Linting"
     },
     "vue.volar": {
       "name": "Volar",
-      "category": "development"
+      "category": "Languages"
     },
     "wallabyjs.quokka-vscode": {
       "name": "Quokka.js",
-      "category": "development"
+      "category": "Languages"
     },
     "webnative.webnative": {
       "name": "WebNative",
-      "category": "development"
+      "category": "Web and Frontend"
     },
     "xdebug.php-debug": {
       "name": "PHP Debug",
-      "category": "development"
+      "category": "Languages"
     },
     "yandeu.five-server": {
       "name": "Five Server",
-      "category": "development"
+      "category": "Web and Frontend"
     },
     "yoavbls.pretty-ts-errors": {
       "name": "Pretty TypeScript Errors",
-      "category": "development"
+      "category": "Languages"
     },
     "yzane.markdown-pdf": {
       "name": "Markdown PDF",
-      "category": "development"
+      "category": "Markdown and Docs"
     },
     "zobo.php-intellisense": {
       "name": "PHP IntelliSense",
-      "category": "development"
+      "category": "Languages"
     }
   }
 }

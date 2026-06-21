@@ -29,25 +29,36 @@ const walk = (node) => {
 }
 taxonomy.categories.forEach(walk)
 
-// Catalogs that carry a per-item `category`, and the key holding the item map.
+// Extension axes are a separate classification (own native category names).
+const extAccepted = new Set()
+for (const axis of Object.values(taxonomy.extensionAxes ?? {})) {
+  if (Array.isArray(axis)) for (const e of axis) if (e?.name) extAccepted.add(e.name)
+}
+
+// Main catalogs validate against the category tree (+ subcategories);
+// extension catalogs validate against their own axis names.
 const CATALOGS = [
-  ['public/pkgs/desktop-pkgs.json', 'packages'],
-  ['public/pkgs/mobile-pkgs.json', 'packages'],
-  ['public/pkgs/browser-extensions-pkgs.json', 'extensions'],
-  ['public/pkgs/vscode-extensions-pkgs.json', 'extensions'],
-  ['public/pkgs/web-directory.json', 'entries'],
+  ['public/pkgs/desktop-pkgs.json', 'packages', 'main'],
+  ['public/pkgs/mobile-pkgs.json', 'packages', 'main'],
+  ['public/pkgs/web-directory.json', 'entries', 'main'],
+  ['public/pkgs/browser-extensions-pkgs.json', 'extensions', 'ext'],
+  ['public/pkgs/vscode-extensions-pkgs.json', 'extensions', 'ext'],
 ]
 
 const unmapped = new Map()   // category -> count
 const badSubcat = new Map()  // "category › subcategory" -> count
 
-for (const [file, key] of CATALOGS) {
+for (const [file, key, kind] of CATALOGS) {
   const data = read(file)
   const container = data[key]
   const items = Array.isArray(container) ? container : Object.values(container ?? {})
   for (const item of items) {
     const cat = item?.category
     if (!cat) continue
+    if (kind === 'ext') {
+      if (!extAccepted.has(cat)) unmapped.set(cat, (unmapped.get(cat) ?? 0) + 1)
+      continue
+    }
     if (!accepted.has(cat)) {
       unmapped.set(cat, (unmapped.get(cat) ?? 0) + 1)
       continue

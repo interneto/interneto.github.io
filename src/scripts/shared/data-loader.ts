@@ -7,7 +7,6 @@ interface ConfigFile {
     nonFossList: string[];
     distroPrefixes: Record<string, string>;
     windowsNonWinget: WindowsNonWingetEntry[];
-    libCategories: LibCategoriesConfig;
     vscodeExtensionsMeta: VscodeExtensionsMeta;
     libCompatTable: LibCompatTable;
     libIcons: LibIconsConfig;
@@ -21,7 +20,12 @@ export interface TaxonomyNode {
     aliases?: string[];
     children?: TaxonomyNode[];
 }
-interface TaxonomyFile { categories: TaxonomyNode[]; }
+export interface ExtensionAxisEntry { name: string; emoji?: string; }
+interface TaxonomyFile {
+    categories: TaxonomyNode[];
+    extensionAxes?: Record<string, unknown>;
+    libraryAxis?: LibCategoriesConfig;
+}
 
 export interface WindowsNonWingetEntry { id: string; name: string; }
 export interface LibCategoriesConfig {
@@ -73,7 +77,7 @@ async function fetchJson<T>(url: string, label: string): Promise<T> {
 // aliases resolve to that node's display name; every node name carries an emoji.
 // Children (e.g. Multimedia sons) are leaf nodes — items resolve to the most
 // specific node, so grouping rolls up by son, not parent.
-function buildTaxonomyMaps(nodes: TaxonomyNode[]): void {
+function buildTaxonomyMaps(taxonomy: TaxonomyFile): void {
     aliasToName = new Map();
     categoryEmojis = {};
     const walk = (node: TaxonomyNode) => {
@@ -83,7 +87,16 @@ function buildTaxonomyMaps(nodes: TaxonomyNode[]): void {
         }
         node.children?.forEach(walk);
     };
-    nodes.forEach(walk);
+    taxonomy.categories.forEach(walk);
+
+    // Extension axes are separate (own native categories, bypass alias mapping) —
+    // register only their emojis so the UI can badge them.
+    for (const axis of Object.values(taxonomy.extensionAxes ?? {})) {
+        if (!Array.isArray(axis)) continue;
+        for (const entry of axis as ExtensionAxisEntry[]) {
+            if (entry?.name && entry.emoji) categoryEmojis[entry.name] = entry.emoji;
+        }
+    }
 }
 
 export function initConfigData(): Promise<void> {
@@ -95,12 +108,12 @@ export function initConfigData(): Promise<void> {
         nonFossList = config.nonFossList;
         distroPrefixes = config.distroPrefixes;
         windowsNonWinget = config.windowsNonWinget;
-        libCategories = config.libCategories;
         vscodeExtensionsMeta = config.vscodeExtensionsMeta;
         libCompatTable = config.libCompatTable;
         libIcons = config.libIcons;
+        libCategories = taxonomy.libraryAxis ?? { base: [], icons: {} };
         taxonomyNodes = taxonomy.categories;
-        buildTaxonomyMaps(taxonomyNodes);
+        buildTaxonomyMaps(taxonomy);
     });
     return initPromise;
 }

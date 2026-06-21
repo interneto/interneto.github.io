@@ -52,11 +52,11 @@ const SUBCAT_ALIASES = {
 // Subcategories with no meaningful home -> cleared (category keeps legacy mapping).
 const DROP = new Set(['Security', 'Productivity', 'Learning', 'Tracking', '(none)', ''])
 
+// Browser/VS Code extensions are a separate axis (taxonomy.extensionAxes) and
+// keep their own native categories — not migrated here.
 const CATALOGS = [
   ['public/pkgs/desktop-pkgs.json', 'packages'],
   ['public/pkgs/mobile-pkgs.json', 'packages'],
-  ['public/pkgs/browser-extensions-pkgs.json', 'extensions'],
-  ['public/pkgs/vscode-extensions-pkgs.json', 'extensions'],
   ['public/pkgs/web-directory.json', 'entries'],
 ]
 

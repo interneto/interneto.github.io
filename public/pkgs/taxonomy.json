@@ -4,7 +4,7 @@
   "categories": [
     { "id": "ai-tools-and-services", "name": "AI Tools & Services", "emoji": "🤖", "description": "Chatbots, GenAI, model platforms, and AI rankings", "aliases": ["AI"], "subcategories": [] },
     { "id": "business-and-commerce", "name": "Business & Commerce", "emoji": "🏪", "description": "Stores, marketplaces, product research, and resale", "aliases": ["Shopping"], "subcategories": ["Shopping"] },
-    { "id": "development", "name": "Development", "emoji": "💻", "description": "Code editors, IDEs, hosting, frameworks, CMS, docs, and converters", "aliases": ["Developer Tools", "Languages", "Markdown and Docs", "Databases", "Formatting and Linting", "Utilities", "Web and Frontend", "DevOps and Cloud", "Remote Development"], "subcategories": ["Code Editor", "Text Editor", "IDE", "Programming Language", "Runtime", "Compiler", "Game Engine", "SQL", "Database Client", "Database Admin", "NoSQL", "Git Client", "Version Control", "Code Hosting", "API Client", "Web Scraping", "Static Site Generator", "CMS", "AI Assistant", "Development Environment", "Automation", "Visualization", "Infrastructure as Code", "Kubernetes", "Container Orchestration", "Network Debugger"] },
+    { "id": "development", "name": "Development", "emoji": "💻", "description": "Code editors, IDEs, hosting, frameworks, CMS, docs, and converters", "aliases": [], "subcategories": ["Code Editor", "Text Editor", "IDE", "Programming Language", "Runtime", "Compiler", "Game Engine", "SQL", "Database Client", "Database Admin", "NoSQL", "Git Client", "Version Control", "Code Hosting", "API Client", "Web Scraping", "Static Site Generator", "CMS", "AI Assistant", "Development Environment", "Automation", "Visualization", "Infrastructure as Code", "Kubernetes", "Container Orchestration", "Network Debugger"] },
     { "id": "education-and-reference", "name": "Education & Reference", "emoji": "📚", "description": "Courses, tutorials, dictionaries, encyclopedias, research papers, and note systems", "aliases": ["Education", "Science", "Knowledge", "Learning"], "subcategories": ["Astronomy", "Mathematics", "Chemistry", "Geography", "GIS", "Genealogy", "Learning Management System", "Encyclopedia"] },
     { "id": "file-management", "name": "File Management", "emoji": "📁", "description": "File sharing, downloaders, torrents, and cloud storage", "aliases": [], "subcategories": ["File Manager", "File Synchronization", "Cloud Storage", "Compressor", "Backup", "Music Tagger", "Download Manager", "Torrent Client", "File Sharing", "File Transfer", "File Search", "File Comparator", "Disk Imaging"] },
     { "id": "gaming", "name": "Gaming", "emoji": "🎮", "description": "Games, launchers, emulators, and gaming utilities", "aliases": [], "subcategories": ["Emulation", "Game Launcher", "Game Platform", "Board Games", "Chess"] },
@@ -27,6 +27,56 @@
     { "id": "social-and-communications", "name": "Social & Communications", "emoji": "💬", "description": "Email, messaging, forums, social networks, and video conferencing", "aliases": ["Internet & Communication", "Social", "Communication"], "subcategories": ["Messaging", "Email", "Team Chat", "Video Conferencing", "Voice Chat", "Social", "Professional Network", "Forum"] },
     { "id": "system-administration", "name": "System Administration", "emoji": "🖥️", "description": "Servers, networking, terminals, virtualization, and remote desktop", "aliases": ["Virtualization"], "subcategories": ["Virtual Machine Manager", "Hypervisor", "Containerization", "Compatibility Layer", "Compatibility Tool Manager", "Remote Desktop", "Screen Sharing", "Network Analyzer", "Networking", "HTTP Server", "DNS Server", "FTP Client", "Mobile Device Control"] },
     { "id": "travel-and-location", "name": "Travel & Location", "emoji": "✈️", "description": "Maps, weather, travel agencies, and flights", "aliases": ["Maps", "Weather"], "subcategories": ["Maps", "Weather", "GPS"] },
-    { "id": "web-browsers", "name": "Web Browsers", "emoji": "🌍", "description": "Browsers and browser-related tools", "aliases": ["Appearance"], "subcategories": ["Web Browser"] }
-  ]
+    { "id": "web-browsers", "name": "Web Browsers", "emoji": "🌍", "description": "Browsers and browser-related tools", "aliases": [], "subcategories": ["Web Browser"] }
+  ],
+  "extensionAxes": {
+    "note": "Browser and VS Code extensions use their own flat classification (display names, not the slug-id category tree above), like the library axis. Display names must not contain '-'.",
+    "browser": [
+      { "name": "Privacy and Security", "emoji": "🔒" },
+      { "name": "Appearance", "emoji": "🎨" },
+      { "name": "Productivity", "emoji": "📊" },
+      { "name": "Developer Tools", "emoji": "🛠️" },
+      { "name": "Media", "emoji": "🎬" }
+    ],
+    "vscode": [
+      { "name": "AI", "emoji": "🤖" },
+      { "name": "Languages", "emoji": "🔤" },
+      { "name": "Markdown and Docs", "emoji": "📝" },
+      { "name": "Databases", "emoji": "🗄️" },
+      { "name": "Utilities", "emoji": "🧰" },
+      { "name": "Formatting and Linting", "emoji": "🧹" },
+      { "name": "Web and Frontend", "emoji": "🌐" },
+      { "name": "DevOps and Cloud", "emoji": "☁️" },
+      { "name": "Remote Development", "emoji": "🔌" }
+    ]
+  },
+  "libraryAxis": {
+    "note": "Libraries/frameworks are a separate axis (not the slug-id tree). 'base' is the ordered display list; 'icons' maps each category to a Lucide icon name (includes extras used by the compatibility table).",
+    "base": [
+      "Backend Framework",
+      "HTTP Client",
+      "ORM / Database",
+      "Testing",
+      "Logging",
+      "Validation",
+      "Auth / Security"
+    ],
+    "icons": {
+      "Backend Framework": "server",
+      "HTTP Client": "globe",
+      "ORM / Database": "database",
+      "Testing": "flask-conical",
+      "Logging": "scroll-text",
+      "Validation": "shield-check",
+      "Auth / Security": "lock-keyhole",
+      "UI Framework": "layout-panel-left",
+      "Meta-Framework": "layers",
+      "State Management": "git-branch",
+      "Data Fetching": "refresh-cw",
+      "Styling": "palette",
+      "UI Components": "component",
+      "Build Tools": "wrench",
+      "Data / Documents": "file-text"
+    }
+  }
 }

@@ -10,13 +10,24 @@
  */
 
 import { resolveCategoryName } from './data-loader';
+import { resolvePkgsFileFromPath } from './paths';
+
+// Browser/VS Code extensions are a separate classification axis — they keep
+// their own native category names and must NOT be mapped into the main tree.
+function isExtensionCatalog(): boolean {
+  if (typeof window === 'undefined') return false;
+  const file = resolvePkgsFileFromPath(window.location.pathname);
+  return file === 'browser-extensions-pkgs.json' || file === 'vscode-extensions-pkgs.json';
+}
 
 /**
  * Translate a legacy toolbox category to its taxonomy display name
  * (the most specific node — e.g. "Image" → "Photos & Graphics").
- * Returns the original string if no mapping exists.
+ * Extension catalogs bypass mapping (own axis). Returns the original string if
+ * no mapping exists.
  */
 export function mapCategory(toolboxCategory: string): string {
+  if (isExtensionCatalog()) return toolboxCategory;
   return resolveCategoryName(toolboxCategory);
 }
 
