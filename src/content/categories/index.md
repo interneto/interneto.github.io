@@ -10,104 +10,99 @@ hero:
     alt: Interneto Icon
 
 features:
-  - title: By Company
-    link: /by-company
-    details: Browse services grouped by parent company and ecosystem.
-    icon: 🏢
-
-  - title: OS
-    link: /os
-    details: Tools, apps, and resources organized by operating system.
-    icon: 🐧
-
   - title: AI Tools & Services
     link: /ai-tools-and-services
-    details: Practical AI tools, assistants, and services for daily workflows.
-    icon: 🧰
+    details: Chatbots, GenAI, model platforms, and AI rankings.
+    icon: 🤖
 
-  - title: Dev
-    link: /dev
-    details: Development tools, docs, hosting, and programming resources.
-    icon: ⌨️
+  - title: Business & Commerce
+    link: /business-and-commerce
+    details: Stores, marketplaces, product research, and resale.
+    icon: 🏪
 
-  - title: Gaming
-    link: /gaming
-    details: Games, emulation, launchers, and gaming utilities.
-    icon: 🎮
+  - title: Development
+    link: /development
+    details: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters.
+    icon: 💻
 
-  - title: Education
-    link: /education
-    details: Courses, references, and learning platforms across topics.
-    icon: 🎓
+  - title: Education & Reference
+    link: /education-and-reference
+    details: Courses, tutorials, dictionaries, encyclopedias, research papers, and note systems.
+    icon: 📚
 
   - title: File Management
     link: /file-management
-    details: File tools for storage, sharing, transfer, and organization.
+    details: File sharing, downloaders, torrents, and cloud storage.
     icon: 📁
 
-  - title: Financial Assets
-    link: /financial-assets
-    details: Financial platforms, tracking tools, and money-related resources.
-    icon: 💰
+  - title: Gaming
+    link: /gaming
+    details: Games, launchers, emulators, and gaming utilities.
+    icon: 🎮
 
   - title: Health & Fitness
     link: /health-and-fitness
-    details: Resources for workouts, wellness, and healthy habits.
-    icon: ❤️
+    details: Workouts, wellness, and health tracking.
+    icon: 💪
 
   - title: Home & Family
     link: /home-and-family
-    details: Everyday home, parenting, and family-focused resources.
+    details: Home automation, recipes, and family services.
     icon: 🏠
 
-  - title: InterComm
-    link: /intercomm
-    details: Communication tools for messaging, calls, and collaboration.
-    icon: ☎️
+  - title: Money & Finance
+    link: /money-and-finance
+    details: Banking, cryptocurrency, and financial tracking.
+    icon: 💰
 
   - title: Multimedia
     link: /multimedia
-    details: Audio, video, and creative media tools and sources.
-    icon: 📺
+    details: Audio & Music, Photos & Graphics, and Video & Movies.
+    icon: 🎬
 
-  - title: News Media
-    link: /news-media
-    details: News sources, media outlets, and current-events platforms.
+  - title: News & Books
+    link: /news-and-books
+    details: News, blogs, digital gardens, libraries, and magazines.
     icon: 📰
 
   - title: Office & Productivity
     link: /office-and-productivity
-    details: Productivity suites, note-taking, planning, and office tools.
-    icon: 💼
+    details: Note-taking, task management, bookmarking, calculators, translators, and time tracking.
+    icon: 📊
 
   - title: Online Services
     link: /online-services
-    details: Useful web services and cloud-based utilities.
+    details: Search engines, web directories, software directories, corporations, and organizations.
     icon: 🌐
+
+  - title: OS & Utilities
+    link: /os-and-utilities
+    details: Operating systems, OS components, WMs, system tools, hardware utilities, and CD/DVD tools.
+    icon: ⚙️
 
   - title: Security & Privacy
     link: /security-and-privacy
-    details: Privacy-focused services, security tools, and safe practices.
-    icon: 🛡️
+    details: Password managers, cybersecurity, and web privacy.
+    icon: 🔒
 
-  - title: Sys Admin
-    link: /sys-admin
-    details: Admin tooling for servers, networking, and infrastructure.
-    icon: 💻
+  - title: Social & Communications
+    link: /social-and-communications
+    details: Email, messaging, forums, social networks, and video conferencing.
+    icon: 💬
 
-  - title: Time
-    link: /time
-    details: Scheduling, time tracking, and calendar-related tools.
-    icon: 🕐
+  - title: System Administration
+    link: /system-administration
+    details: Servers, networking, terminals, virtualization, and remote desktop.
+    icon: 🖥️
 
   - title: Travel & Location
     link: /travel-and-location
-    details: Maps, transport, travel planning, and location services.
-    icon: 🛬
+    details: Maps, weather, travel agencies, and flights.
+    icon: ✈️
 
-  - title: Utility
-    link: /utility
-    details: General-purpose utilities and handy tools for quick tasks.
-    icon: 🔧
+  - title: Web Browsers
+    link: /web-browsers
+    details: Browsers and browser-related tools.
+    icon: 🌍
 ---
 

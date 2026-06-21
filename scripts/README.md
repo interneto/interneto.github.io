@@ -35,7 +35,7 @@ node scripts/convert.js
 5. Runs markdown linting on output
 
 **Input:** CSV file with structure:
-- `folder` - Category path (e.g., `Apps/by-Company/...`)
+- `folder` - Category path (e.g., `AI Tools & Services/Assistants/...`)
 - `title` - Bookmark title
 - `url` - Bookmark URL
 - `favorite` - Boolean for starred items
@@ -122,11 +122,13 @@ General utilities:
 The converter recognizes items in paths: `Apps/{category}/...`
 
 Current categories (19 total):
-- by-Company, OS, AI Tools & Services, Dev, Gaming
-- Education, File Management, Financial assets, Health & Fitness
-- Home & Family, InterComm, Multimedia, News Media
-- Office & Productivity, Online Services, Security & Privacy
-- Sys Admin, Time, Travel & Location, Utility
+- AI Tools & Services, Business & Commerce, Development
+- Education & Reference, File Management, Gaming
+- Health & Fitness, Home & Family, Money & Finance
+- Multimedia, News & Books, Office & Productivity
+- Online Services, OS & Utilities, Security & Privacy
+- Social & Communications, System Administration
+- Travel & Location, Web Browsers
 
 ## Notes
 

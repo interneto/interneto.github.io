@@ -9,34 +9,35 @@ const cleanSlug = (id: string) => id.replace(/\.md$/i, '');
 const HIDDEN_CATEGORY_PATTERN = /nsfw(?:-content)?/i;
 
 const categoryIcons: Record<string, string> = {
-  'by-company': '🏢',
-  'os': '🐧',
-  'ai-tools-and-services': '🧰',
-  'dev': '⌨️',
-  'gaming': '🎮',
-  'education': '🎓',
+  'ai-tools-and-services': '🤖',
+  'business-and-commerce': '🏪',
+  'development': '💻',
+  'education-and-reference': '📚',
   'file-management': '📁',
-  'financial-assets': '💰',
-  'health-and-fitness': '❤️',
+  'gaming': '🎮',
+  'health-and-fitness': '💪',
   'home-and-family': '🏠',
-  'intercomm': '☎️',
-  'multimedia': '📺',
-  'news-media': '📰',
-  'office-and-productivity': '💼',
+  'money-and-finance': '💰',
+  'multimedia': '🎬',
+  'news-and-books': '📰',
+  'office-and-productivity': '📊',
   'online-services': '🌐',
-  'security-and-privacy': '🛡️',
-  'sys-admin': '💻',
-  'time': '🕐',
-  'travel-and-location': '🛬',
-  'utility': '🔧',
+  'os-and-utilities': '⚙️',
+  'security-and-privacy': '🔒',
+  'social-and-communications': '💬',
+  'system-administration': '🖥️',
+  'travel-and-location': '✈️',
+  'web-browsers': '🌍',
 };
 
 const customOrder = [
-  'by-company', 'os', 'ai-tools-and-services', 'dev', 'gaming',
-  'education', 'file-management', 'financial-assets', 'health-and-fitness',
-  'home-and-family', 'intercomm', 'multimedia', 'news-media',
-  'office-and-productivity', 'online-services', 'security-and-privacy',
-  'sys-admin', 'time', 'travel-and-location', 'utility'
+  'ai-tools-and-services', 'business-and-commerce',
+  'development', 'education-and-reference', 'file-management',
+  'gaming', 'health-and-fitness', 'home-and-family',
+  'money-and-finance', 'multimedia', 'news-and-books',
+  'office-and-productivity', 'online-services', 'os-and-utilities',
+  'security-and-privacy', 'social-and-communications',
+  'system-administration', 'travel-and-location', 'web-browsers'
 ];
 
 const docs = allDocs

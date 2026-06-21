@@ -1,148 +1,145 @@
 /**
  * Category Configuration
- * Maps Raindrop.io folder structure to markdown files and UI metadata
+ *
+ * Single source of truth for the 19 web categories.
+ * Maps 1:1 to Raindrop.io folder structure.
+ *
+ * Canonical reference: docs/taxonomy.md
  */
 
 export const CATEGORY_CONFIG = [
   {
-    folder: 'by-Company',
-    displayName: 'By Company',
-    file: 'by-company.md',
-    description: 'Useful services organized by company',
-    icon: '🏢'
-  },
-  {
-    folder: 'OS',
-    displayName: 'OS',
-    file: 'os.md',
-    description: 'Operating systems and tools',
-    icon: '💻'
-  },
-  {
     folder: 'AI Tools & Services',
     displayName: 'AI Tools & Services',
     file: 'ai-tools-and-services.md',
-    description: 'Artificial Intelligence tools and services',
+    description: 'Chatbots, GenAI, model platforms, and AI rankings',
     icon: '🤖'
   },
   {
-    folder: 'Dev',
-    displayName: 'Dev',
-    file: 'dev.md',
-    description: 'Development tools and resources',
-    icon: '⚙️'
+    folder: 'Business & Commerce',
+    displayName: 'Business & Commerce',
+    file: 'business-and-commerce.md',
+    description: 'Stores, marketplaces, product research, and resale',
+    icon: '🏪'
   },
   {
-    folder: 'Education',
-    displayName: 'Education',
-    file: 'education.md',
-    description: 'Educational resources and platforms',
+    folder: 'Development',
+    displayName: 'Development',
+    file: 'development.md',
+    description: 'Code editors, IDEs, hosting, frameworks, CMS, docs, and converters',
+    icon: '💻'
+  },
+  {
+    folder: 'Education & Reference',
+    displayName: 'Education & Reference',
+    file: 'education-and-reference.md',
+    description: 'Courses, tutorials, dictionaries, encyclopedias, research papers, and note systems',
     icon: '📚'
   },
   {
     folder: 'File Management',
     displayName: 'File Management',
     file: 'file-management.md',
-    description: 'File storage and management solutions',
+    description: 'File sharing, downloaders, torrents, and cloud storage',
     icon: '📁'
-  },
-  {
-    folder: 'Financial assets',
-    displayName: 'Financial Assets',
-    file: 'financial-assets.md',
-    description: 'Financial and investment tools',
-    icon: '💰'
   },
   {
     folder: 'Gaming',
     displayName: 'Gaming',
     file: 'gaming.md',
-    description: 'Gaming platforms and services',
+    description: 'Games, launchers, emulators, and gaming utilities',
     icon: '🎮'
   },
   {
     folder: 'Health & Fitness',
     displayName: 'Health & Fitness',
     file: 'health-and-fitness.md',
-    description: 'Health and fitness applications',
+    description: 'Workouts, wellness, and health tracking',
     icon: '💪'
   },
   {
     folder: 'Home & Family',
     displayName: 'Home & Family',
     file: 'home-and-family.md',
-    description: 'Home automation and family services',
+    description: 'Home automation, recipes, and family services',
     icon: '🏠'
   },
   {
-    folder: 'InterComm',
-    displayName: 'Internet Communication',
-    file: 'intercomm.md',
-    description: 'Communication and collaboration tools',
-    icon: '💬'
+    folder: 'Money & Finance',
+    displayName: 'Money & Finance',
+    file: 'money-and-finance.md',
+    description: 'Banking, cryptocurrency, and financial tracking',
+    icon: '💰'
   },
   {
     folder: 'Multimedia',
     displayName: 'Multimedia',
     file: 'multimedia.md',
-    description: 'Multimedia and content creation tools',
+    description: 'Audio & Music, Photos & Graphics, and Video & Movies',
     icon: '🎬'
   },
   {
-    folder: 'News Media',
-    displayName: 'News Media',
-    file: 'news-media.md',
-    description: 'News and media platforms',
+    folder: 'News & Books',
+    displayName: 'News & Books',
+    file: 'news-and-books.md',
+    description: 'News, blogs, digital gardens, libraries, and magazines',
     icon: '📰'
   },
   {
     folder: 'Office & Productivity',
     displayName: 'Office & Productivity',
     file: 'office-and-productivity.md',
-    description: 'Office and productivity applications',
+    description: 'Note-taking, task management, bookmarking, calculators, translators, and time tracking',
     icon: '📊'
   },
   {
     folder: 'Online Services',
     displayName: 'Online Services',
     file: 'online-services.md',
-    description: 'Online services and utilities',
+    description: 'Search engines, web directories, software directories, corporations, and organizations',
     icon: '🌐'
+  },
+  {
+    folder: 'OS & Utilities',
+    displayName: 'OS & Utilities',
+    file: 'os-and-utilities.md',
+    description: 'Operating systems, OS components, WMs, system tools, hardware utilities, and CD/DVD tools',
+    icon: '⚙️'
   },
   {
     folder: 'Security & Privacy',
     displayName: 'Security & Privacy',
     file: 'security-and-privacy.md',
-    description: 'Security and privacy tools',
+    description: 'Password managers, cybersecurity, and web privacy',
     icon: '🔒'
   },
   {
-    folder: 'Sys Admin',
-    displayName: 'Sys Admin',
-    file: 'sys-admin.md',
-    description: 'System administration tools',
-    icon: '🛠️'
+    folder: 'Social & Communications',
+    displayName: 'Social & Communications',
+    file: 'social-and-communications.md',
+    description: 'Email, messaging, forums, social networks, and video conferencing',
+    icon: '💬'
   },
   {
-    folder: 'Time',
-    displayName: 'Time',
-    file: 'time.md',
-    description: 'Time management and scheduling tools',
-    icon: '⏰'
+    folder: 'System Administration',
+    displayName: 'System Administration',
+    file: 'system-administration.md',
+    description: 'Servers, networking, terminals, virtualization, and remote desktop',
+    icon: '🖥️'
   },
   {
     folder: 'Travel & Location',
     displayName: 'Travel & Location',
     file: 'travel-and-location.md',
-    description: 'Travel and location services',
+    description: 'Maps, weather, travel agencies, and flights',
     icon: '✈️'
   },
   {
-    folder: 'Utility',
-    displayName: 'Utility',
-    file: 'utility.md',
-    description: 'Utility tools and applications',
-    icon: '🔧'
+    folder: 'Web Browsers',
+    displayName: 'Web Browsers',
+    file: 'web-browsers.md',
+    description: 'Browsers and browser-related tools',
+    icon: '🌍'
   }
 ]
 
@@ -151,26 +148,25 @@ export const CATEGORY_CONFIG = [
  * Used in frontmatter when generating markdown files
  */
 export const CATEGORY_DESCRIPTIONS = {
-  'by-Company': 'Browse services grouped by parent company and ecosystem.',
-  'OS': 'Tools, apps, and resources organized by operating system.',
   'AI Tools & Services': 'Practical AI tools, assistants, and services for daily workflows.',
-  'Dev': 'Development tools, docs, hosting, and programming resources.',
-  'Gaming': 'Games, emulation, launchers, and gaming utilities.',
-  'Education': 'Courses, references, and learning platforms across topics.',
+  'Business & Commerce': 'Online stores, marketplaces, product research, and resale platforms.',
+  'Development': 'Development tools, docs, hosting, and programming resources.',
+  'Education & Reference': 'Courses, references, and learning platforms across topics.',
   'File Management': 'File tools for storage, sharing, transfer, and organization.',
-  'Financial assets': 'Financial platforms, tracking tools, and money-related resources.',
+  'Gaming': 'Games, emulation, launchers, and gaming utilities.',
   'Health & Fitness': 'Resources for workouts, wellness, and healthy habits.',
   'Home & Family': 'Everyday home, parenting, and family-focused resources.',
-  'InterComm': 'Communication tools for messaging, calls, and collaboration.',
-  'Multimedia': 'Audio, video, and creative media tools and sources.',
-  'News Media': 'News sources, media outlets, and current-events platforms.',
+  'Money & Finance': 'Financial platforms, banking, crypto, and money-related resources.',
+  'Multimedia': 'Audio, photos, video, and creative media tools and sources.',
+  'News & Books': 'News sources, blogs, digital gardens, libraries, and magazines.',
   'Office & Productivity': 'Productivity suites, note-taking, planning, and office tools.',
   'Online Services': 'Useful web services and cloud-based utilities.',
+  'OS & Utilities': 'Operating systems, system tools, hardware utilities, and CD/DVD tools.',
   'Security & Privacy': 'Privacy-focused services, security tools, and safe practices.',
-  'Sys Admin': 'Admin tooling for servers, networking, and infrastructure.',
-  'Time': 'Scheduling, time tracking, and calendar-related tools.',
+  'Social & Communications': 'Communication tools for messaging, calls, and collaboration.',
+  'System Administration': 'Admin tooling for servers, networking, and infrastructure.',
   'Travel & Location': 'Maps, transport, travel planning, and location services.',
-  'Utility': 'General-purpose utilities and handy tools for quick tasks.'
+  'Web Browsers': 'Browsers and browser-related tools and extensions.'
 }
 
 export const PATHS = {
