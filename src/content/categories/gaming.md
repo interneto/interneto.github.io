@@ -5,7 +5,7 @@ description: Games, emulation, launchers, and gaming utilities.
 
 # Gaming
 
-**Total Bookmarks:** 723
+**Total Bookmarks:** 724
 
 - [2048 - Apps on Google Play](https://play.google.com/store/apps/details?id=com.tpcstld.twozerogame)
 - [Anuken/Mindustry: The automation tower defense RTS](https://github.com/Anuken/Mindustry)
@@ -431,6 +431,7 @@ description: Games, emulation, launchers, and gaming utilities.
 - [FiveM](https://fivem.net/)
 - [Flightsim - Flight Simulator Mods](https://flightsim.to/)
 - [GTA5-Mods](https://www.gta5-mods.com/)
+- [MelonLoader - Universal Mod Loader](https://melonloader.co/)
 - [Mod Organizer 2](https://www.modorganizer.org/)
 - [Mod Organizer 2](https://www.nexusmods.com/skyrimspecialedition/mods/6194)
 - [mod.io - Cross Platform Mod Support for Games](https://mod.io/)

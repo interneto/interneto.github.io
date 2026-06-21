@@ -78,6 +78,8 @@ Multimedia/
   Photos & Graphics/
   Video & Movies/
 News & Books/
+  News Media/
+  Reading/
 Office & Productivity/
 Online Services/
 OS & Utilities/

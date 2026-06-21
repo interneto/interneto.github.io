@@ -28,25 +28,25 @@ const isPathActive = (link: string): boolean => {
 
 // Build category items (used on /categories/ index only)
 const categoryItems: SidebarItem[] = [
-  { text: '🤖 AI Tools & Services', href: `${BASE}directory/ai-tools-and-services/`, isActive: isPathActive(`${BASE}directory/ai-tools-and-services/`) },
-  { text: '� Business & Commerce', href: `${BASE}directory/business-and-commerce/`, isActive: isPathActive(`${BASE}directory/business-and-commerce/`) },
-  { text: '💻 Development', href: `${BASE}directory/development/`, isActive: isPathActive(`${BASE}directory/development/`) },
-  { text: '📚 Education & Reference', href: `${BASE}directory/education-and-reference/`, isActive: isPathActive(`${BASE}directory/education-and-reference/`) },
-  { text: '📁 File Management', href: `${BASE}directory/file-management/`, isActive: isPathActive(`${BASE}directory/file-management/`) },
-  { text: '🎮 Gaming', href: `${BASE}directory/gaming/`, isActive: isPathActive(`${BASE}directory/gaming/`) },
-  { text: '💪 Health & Fitness', href: `${BASE}directory/health-and-fitness/`, isActive: isPathActive(`${BASE}directory/health-and-fitness/`) },
-  { text: '🏠 Home & Family', href: `${BASE}directory/home-and-family/`, isActive: isPathActive(`${BASE}directory/home-and-family/`) },
-  { text: '💰 Money & Finance', href: `${BASE}directory/money-and-finance/`, isActive: isPathActive(`${BASE}directory/money-and-finance/`) },
-  { text: '🎬 Multimedia', href: `${BASE}directory/multimedia/`, isActive: isPathActive(`${BASE}directory/multimedia/`) },
-  { text: '📰 News & Books', href: `${BASE}directory/news-and-books/`, isActive: isPathActive(`${BASE}directory/news-and-books/`) },
-  { text: '📊 Office & Productivity', href: `${BASE}directory/office-and-productivity/`, isActive: isPathActive(`${BASE}directory/office-and-productivity/`) },
-  { text: '🌐 Online Services', href: `${BASE}directory/online-services/`, isActive: isPathActive(`${BASE}directory/online-services/`) },
-  { text: '⚙️ OS & Utilities', href: `${BASE}directory/os-and-utilities/`, isActive: isPathActive(`${BASE}directory/os-and-utilities/`) },
-  { text: '🔒 Security & Privacy', href: `${BASE}directory/security-and-privacy/`, isActive: isPathActive(`${BASE}directory/security-and-privacy/`) },
-  { text: '💬 Social & Communications', href: `${BASE}directory/social-and-communications/`, isActive: isPathActive(`${BASE}directory/social-and-communications/`) },
-  { text: '🖥️ System Administration', href: `${BASE}directory/system-administration/`, isActive: isPathActive(`${BASE}directory/system-administration/`) },
-  { text: '✈️ Travel & Location', href: `${BASE}directory/travel-and-location/`, isActive: isPathActive(`${BASE}directory/travel-and-location/`) },
-  { text: '🌍 Web Browsers', href: `${BASE}directory/web-browsers/`, isActive: isPathActive(`${BASE}directory/web-browsers/`) },
+  { text: '🤖 AI Tools & Services', href: `${BASE}categories/ai-tools-and-services/`, isActive: isPathActive(`${BASE}categories/ai-tools-and-services/`) },
+  { text: '� Business & Commerce', href: `${BASE}categories/business-and-commerce/`, isActive: isPathActive(`${BASE}categories/business-and-commerce/`) },
+  { text: '💻 Development', href: `${BASE}categories/development/`, isActive: isPathActive(`${BASE}categories/development/`) },
+  { text: '📚 Education & Reference', href: `${BASE}categories/education-and-reference/`, isActive: isPathActive(`${BASE}categories/education-and-reference/`) },
+  { text: '📁 File Management', href: `${BASE}categories/file-management/`, isActive: isPathActive(`${BASE}categories/file-management/`) },
+  { text: '🎮 Gaming', href: `${BASE}categories/gaming/`, isActive: isPathActive(`${BASE}categories/gaming/`) },
+  { text: '💪 Health & Fitness', href: `${BASE}categories/health-and-fitness/`, isActive: isPathActive(`${BASE}categories/health-and-fitness/`) },
+  { text: '🏠 Home & Family', href: `${BASE}categories/home-and-family/`, isActive: isPathActive(`${BASE}categories/home-and-family/`) },
+  { text: '💰 Money & Finance', href: `${BASE}categories/money-and-finance/`, isActive: isPathActive(`${BASE}categories/money-and-finance/`) },
+  { text: '🎬 Multimedia', href: `${BASE}categories/multimedia/`, isActive: isPathActive(`${BASE}categories/multimedia/`) },
+  { text: '📰 News & Books', href: `${BASE}categories/news-and-books/`, isActive: isPathActive(`${BASE}categories/news-and-books/`) },
+  { text: '📊 Office & Productivity', href: `${BASE}categories/office-and-productivity/`, isActive: isPathActive(`${BASE}categories/office-and-productivity/`) },
+  { text: '🌐 Online Services', href: `${BASE}categories/online-services/`, isActive: isPathActive(`${BASE}categories/online-services/`) },
+  { text: '⚙️ OS & Utilities', href: `${BASE}categories/os-and-utilities/`, isActive: isPathActive(`${BASE}categories/os-and-utilities/`) },
+  { text: '🔒 Security & Privacy', href: `${BASE}categories/security-and-privacy/`, isActive: isPathActive(`${BASE}categories/security-and-privacy/`) },
+  { text: '💬 Social & Communications', href: `${BASE}categories/social-and-communications/`, isActive: isPathActive(`${BASE}categories/social-and-communications/`) },
+  { text: '🖥️ System Administration', href: `${BASE}categories/system-administration/`, isActive: isPathActive(`${BASE}categories/system-administration/`) },
+  { text: '✈️ Travel & Location', href: `${BASE}categories/travel-and-location/`, isActive: isPathActive(`${BASE}categories/travel-and-location/`) },
+  { text: '🌍 Web Browsers', href: `${BASE}categories/web-browsers/`, isActive: isPathActive(`${BASE}categories/web-browsers/`) },
 ];
 
 const postSections: SidebarSection[] = POST_SECTIONS.map((section) => ({
@@ -65,12 +65,12 @@ const mapItems: SidebarItem[] = [
   { text: 'Semantic View', href: `${BASE}map/?view=semantic`, icon: 'map', isActive: false },
   { text: 'Geo View', href: `${BASE}map/?view=geo`, icon: 'map', isActive: false },
   { text: 'Blog', href: `${BASE}blog/`, icon: 'posts', isActive: false },
-  { text: 'Directory', href: `${BASE}directory/`, icon: 'categories', isActive: false },
+  { text: 'Categories', href: `${BASE}categories/`, icon: 'categories', isActive: false },
 ];
 
-// Left sidebar on /directory/ + /directory/<slug>, /blog/ + /post/<slug>, and /map/
-const isCategoriesArea = currentPath.startsWith(`${BASE}directory`);
-const isCategoryDetail = isCategoriesArea && currentPath !== `${BASE}directory` && currentPath !== `${BASE}directory/`;
+// Left sidebar on /categories/ + /categories/<slug>, /blog/ + /post/<slug>, and /map/
+const isCategoriesArea = currentPath.startsWith(`${BASE}categories`);
+const isCategoryDetail = isCategoriesArea && currentPath !== `${BASE}categories` && currentPath !== `${BASE}categories/`;
 const isPostsArea = currentPath.startsWith(`${BASE}blog`);
 const isMapPage = currentPath.includes('/map');
 
@@ -80,7 +80,7 @@ const sidebarKind: 'categories' | 'posts' | 'map' | 'none' =
   isMapPage ? 'map' : 'none';
 
 const title =
-  sidebarKind === 'categories' ? 'Directory' :
+  sidebarKind === 'categories' ? 'Categories' :
   sidebarKind === 'posts' ? 'Blog' :
   sidebarKind === 'map' ? 'Link Dashboard' : '';
 ---

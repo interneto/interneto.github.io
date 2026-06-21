@@ -49,11 +49,11 @@ const docs = allDocs
   .sort((a, b) => customOrder.indexOf(cleanSlug(a.id)) - customOrder.indexOf(cleanSlug(b.id)));
 ---
 
-<VPLayout title="Directory" hasSidebar={true} extraStyles={['styles/content-shared.css']}>
+<VPLayout title="Categories" hasSidebar={true} extraStyles={['styles/content-shared.css']}>
   <div class="vp-content-wrapper">
     <header class="vp-content-header">
-      <h1>Directory</h1>
-      <p class="vp-content-subtitle">Comprehensive link directory organized by category with curated resources and tools.</p>
+      <h1>Categories</h1>
+      <p class="vp-content-subtitle">Comprehensive web directory organized by category with curated resources and tools.</p>
     </header>
 
     <section class="vp-content-grid" aria-label="Categories index">
@@ -61,7 +61,7 @@ const docs = allDocs
         const slug = cleanSlug(entry.id);
         return (
           <ContentCard
-            href={`${BASE}directory/${slug}/`}
+            href={`${BASE}categories/${slug}/`}
             title={entry.data.title ?? slug}
             description={entry.data.description ?? ''}
             icon={categoryIcons[slug] ?? '📚'}

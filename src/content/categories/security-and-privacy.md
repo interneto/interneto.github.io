@@ -5,7 +5,7 @@ description: Privacy-focused services, security tools, and safe practices.
 
 # Security & Privacy
 
-**Total Bookmarks:** 309
+**Total Bookmarks:** 310
 
 - [Fight Chat Control - Protect Digital Privacy in the EU](https://fightchatcontrol.eu/)
 - [PrivacySpy: We track online privacy](https://privacyspy.org/)
@@ -339,6 +339,7 @@ description: Privacy-focused services, security tools, and safe practices.
 - [GWhois.org](https://gwhois.org/)
 - [Host.io](https://host.io/)
 - [lychee](https://lychee.cli.rs/)
+- [OpenGraph.to - Free Open Graph Checker & Preview Tool](https://www.opengraph.to/)
 - [urlscan.io](https://urlscan.io/)
 - [Visualping](https://visualping.io/)
 - [WebSniffer](https://websniffer.com/)

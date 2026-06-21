@@ -61,11 +61,11 @@ interface Destination {
 const destinations: Destination[] = [
   {
     icon: "categories",
-    title: "Directory",
+    title: "Categories",
     meta: `${categories.length} sections`,
     details:
       "A curated atlas of the web, grouped by what it's for — development, security, media, finance, and more.",
-    link: `${BASE}directory/`,
+    link: `${BASE}categories/`,
   },
   {
     icon: "toolbox",
@@ -107,7 +107,7 @@ const highlights: { icon: IconName; title: string; text: string }[] = [
           computing — all open, fast, and free of tracking.
         </p>
         <div class="home-actions">
-          <a class="home-btn home-btn-brand" href={`${BASE}directory/`}>Explore categories</a>
+          <a class="home-btn home-btn-brand" href={`${BASE}categories/`}>Explore categories</a>
           <a class="home-btn" href={`${BASE}toolbox/`}>Open the toolbox</a>
           <a class="home-btn home-btn-ghost" href={`${BASE}about/`}>About the project</a>
         </div>

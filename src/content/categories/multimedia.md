@@ -1,11 +1,11 @@
 ---
 title: Multimedia
-description: Audio, video, and creative media tools and sources.
+description: Audio, photos, video, and creative media tools and sources.
 ---
 
 # Multimedia
 
-**Total Bookmarks:** 2244
+**Total Bookmarks:** 2260
 
 
 ## Audio & Music
@@ -27,45 +27,7 @@ description: Audio, video, and creative media tools and sources.
 - [AnthemScore - Automatic Music Transcription Software](https://www.lunaverus.com/)
 - [Melodyne](https://www.celemony.com/en/melodyne/what-is-melodyne)
 
-#### TTS model
-- ⭐ **[myshell-ai/OpenVoice: Instant voice cloning by MyShell](https://github.com/myshell-ai/OpenVoice)**
-- ⭐ **[neonbjb/tortoise-tts · GitHub](https://github.com/neonbjb/tortoise-tts)**
-- ⭐ **[Voicebox - Open Source Voice Cloning Desktop App](https://voicebox.sh/)** / [🔗](https://github.com/jamiepine/voicebox)
-- [Amazon Polly - Text to Speech Software](https://aws.amazon.com/polly/)
-- [Cloud Text-to-Speech (HD voices) | Google Cloud Documentation](https://docs.cloud.google.com/text-to-speech/docs/chirp3-hd)
-- [CrashXBETAX/Text_To_Speech_Live_WinUI3_Public · GitHub](https://github.com/CrashXBETAX/Text_To_Speech_Live_WinUI3_Public)
-- [gexgd0419/NaturalVoiceSAPIAdapter: Make Azure natural TTS voices accessible to any SAPI 5-compatible application.](https://github.com/gexgd0419/NaturalVoiceSAPIAdapter)
-- [IBM TTS](https://www.ibm.com/demos/live/tts-demo/self-service/home)
-- [ken107/piper-browser-extension · GitHub](https://github.com/ken107/piper-browser-extension)
-- [Metavoice - Conversational Speech Model for Voice AI Agents](https://tts.metavoice.io/)
-- [Microsoft Azure - Azure AI Speech](https://azure.microsoft.com/en-us/products/ai-services/ai-speech/)
-- [Microsoft Speech SDK 5.1 - Microsoft Download Center](https://www.microsoft.com/en-us/download/details.aspx?id=10121)
-- [nari-labs/dia: A TTS model capable of generating ltra-realistic dialogue in one pass.](https://github.com/nari-labs/dia)
-- [Notevibes](https://notevibes.com/)
-- [NVIDIA PersonaPlex: Natural Conversational AI With Any Role and Voice - NVIDIA ADLR](https://research.nvidia.com/labs/adlr/personaplex/)
-- [Piper Voice Samples](https://rhasspy.github.io/piper-samples/)
-- [QwenLM/Qwen3-TTS: Qwen3-TTS is an open-source series of TTS models developed by the Qwen team at Alibaba Cloud, supporting stable, expressive, and streaming speech generation, free-form voice design, and vivid voice cloning.](https://github.com/QwenLM/Qwen3-TTS)
-- [Resenmble.ai - AI Voice Generator with Text to Speech and Speech to Speech](https://www.resemble.ai/)
-- [Speaking of Voxtral](https://mistral.ai/news/voxtral-tts) / [🔗](https://huggingface.co/mistralai/models?search=voxtral)
-- [VibeVoice](https://microsoft.github.io/VibeVoice/) / [🔗](https://github.com/microsoft/VibeVoice)
-- [VisionAid International - Voice Downloads](https://www.visionaid.co.uk/visionaid-international---voice-downloads)
-- [VOSK Models | Alpha Cephei](https://alphacephei.com/vosk/models)
-- [yl4579/StyleTTS2: StyleTTS 2: Towards Human-Level Text-to-Speech through Style Diffusion and Adversarial Training with Large Speech Language Models](https://github.com/yl4579/StyleTTS2)
-
-#### TTS Engine
-- ⭐ **[rhasspy/piper: A fast, local neural text to speech system](https://github.com/rhasspy/piper)**
-- [Azure Speech in Foundry Tools | Microsoft Azure](https://azure.microsoft.com/en-us/products/ai-foundry/tools/speech)
-- [DiTTo-TTS](https://ditto-tts.github.io/)
-- [espeak-ng/espeak-ng · GitHub](https://github.com/espeak-ng/espeak-ng)
-- [marytts/marytts · GitHub](https://github.com/marytts/marytts)
-- [netease-youdao/EmotiVoice · GitHub](https://github.com/netease-youdao/EmotiVoice)
-- [numediart/MBROLA: speech synthesizer based on the concatenation of diphones](https://github.com/numediart/MBROLA)
-- [Otosaku/OtosakuTTS-iOS · GitHub](https://github.com/Otosaku/OtosakuTTS-iOS?utm_source=chatgpt.com)
-- [resemble-ai/chatterbox: SoTA open-source TTS](https://github.com/resemble-ai/chatterbox)
-- [RHVoice/RHVoice: a free and open source speech synthesizer for Russian and other languages](https://github.com/RHVoice/RHVoice)
-- [thorstenMueller/Thorsten-Voice · GitHub](https://github.com/thorstenMueller/Thorsten-Voice)
-
-#### TTS Synthesizer
+#### TTS Applications
 - ⭐ **[Balabolka - Cross Plus A](https://www.cross-plus-a.com/balabolka.htm)**
 - ⭐ **[Edge TTS - Free Text to Speech Online](https://edge-tts.com/)**
 - ⭐ **[ElevenLabs - AI Voice Generator & Text to Speech](https://elevenlabs.io/)**
@@ -107,11 +69,13 @@ description: Audio, video, and creative media tools and sources.
 - [LokerL/tts-vue · GitHub](https://github.com/LokerL/tts-vue)
 - [Lovo - AI Voice Generator: Realistic Text to Speech & Voice Cloning](https://lovo.ai/)
 - [Luvvoice: Free Convert Text to Speech Online, No Word Limit](https://luvvoice.com/)
+- [Miso One — Realistic AI Text to Speech Generator](https://miso-one.com/)
 - [muflone/gespeaker · GitHub](https://github.com/muflone/gespeaker)
 - [mush42/sonata-nvda · GitHub](https://github.com/mush42/sonata-nvda)
 - [Narrator for Accessibility | Microsoft Windows](https://www.microsoft.com/en-us/windows/tips/narrator)
 - [Natural Readers](https://www.naturalreaders.com/)
 - [Online Microsoft Sam TTS Generator](https://www.tetyys.com/SAPI4/)
+- [OpenTTS - Free Text To Speech](https://opentts.net/home)
 - [Parrot AI - Celebrity Voice Generator](https://www.tryparrotai.com/)
 - [Plachtaa/VALL-E-X: An open source implementation of Microsoft's VALL-E X zero-shot TTS model. Demo is available in https://plachtaa.github.io/vallex/](https://github.com/Plachtaa/VALL-E-X)
 - [Read Aloud AI](https://readaloudai.com/)
@@ -210,6 +174,46 @@ description: Audio, video, and creative media tools and sources.
 - [Bark speaker directory](https://rsxdalv.github.io/bark-speaker-directory)
 - [OpenAI.fm](https://www.openai.fm/)
 - [Prompt Echo - Bark Voices](https://promptecho.com/)
+
+#### TTS Development
+- ⭐ **[myshell-ai/OpenVoice: Instant voice cloning by MyShell](https://github.com/myshell-ai/OpenVoice)**
+- ⭐ **[neonbjb/tortoise-tts · GitHub](https://github.com/neonbjb/tortoise-tts)**
+- ⭐ **[rhasspy/piper: A fast, local neural text to speech system](https://github.com/rhasspy/piper)**
+- ⭐ **[Voicebox - Open Source Voice Cloning Desktop App](https://voicebox.sh/)** / [🔗](https://github.com/jamiepine/voicebox)
+- [Amazon Polly - Text to Speech Software](https://aws.amazon.com/polly/)
+- [Azure Speech in Foundry Tools | Microsoft Azure](https://azure.microsoft.com/en-us/products/ai-foundry/tools/speech)
+- [ChatTTS: Text-to-Speech For Chat](https://chattts.com/) / [🔗](https://github.com/2noise/ChatTTS)
+- [Cloud Text-to-Speech (HD voices) | Google Cloud Documentation](https://docs.cloud.google.com/text-to-speech/docs/chirp3-hd)
+- [CrashXBETAX/Text_To_Speech_Live_WinUI3_Public · GitHub](https://github.com/CrashXBETAX/Text_To_Speech_Live_WinUI3_Public)
+- [DiTTo-TTS](https://ditto-tts.github.io/)
+- [espeak-ng/espeak-ng · GitHub](https://github.com/espeak-ng/espeak-ng)
+- [gexgd0419/NaturalVoiceSAPIAdapter: Make Azure natural TTS voices accessible to any SAPI 5-compatible application.](https://github.com/gexgd0419/NaturalVoiceSAPIAdapter)
+- [hexgrad/Kokoro-82M · Hugging Face](https://huggingface.co/hexgrad/Kokoro-82M)
+- [IBM TTS](https://www.ibm.com/demos/live/tts-demo/self-service/home)
+- [ken107/piper-browser-extension · GitHub](https://github.com/ken107/piper-browser-extension)
+- [marytts/marytts · GitHub](https://github.com/marytts/marytts)
+- [Metavoice - Conversational Speech Model for Voice AI Agents](https://tts.metavoice.io/)
+- [Microsoft Azure - Azure AI Speech](https://azure.microsoft.com/en-us/products/ai-services/ai-speech/)
+- [Microsoft Speech SDK 5.1 - Microsoft Download Center](https://www.microsoft.com/en-us/download/details.aspx?id=10121)
+- [myshell-ai/MeloTTS: High-quality multi-lingual text-to-speech library by MyShell.ai](https://github.com/myshell-ai/MeloTTS)
+- [nari-labs/dia: A TTS model capable of generating ltra-realistic dialogue in one pass.](https://github.com/nari-labs/dia)
+- [netease-youdao/EmotiVoice · GitHub](https://github.com/netease-youdao/EmotiVoice)
+- [Notevibes](https://notevibes.com/)
+- [numediart/MBROLA: speech synthesizer based on the concatenation of diphones](https://github.com/numediart/MBROLA)
+- [NVIDIA PersonaPlex: Natural Conversational AI With Any Role and Voice - NVIDIA ADLR](https://research.nvidia.com/labs/adlr/personaplex/)
+- [Otosaku/OtosakuTTS-iOS · GitHub](https://github.com/Otosaku/OtosakuTTS-iOS?utm_source=chatgpt.com)
+- [Piper Voice Samples](https://rhasspy.github.io/piper-samples/)
+- [QwenLM/Qwen3-TTS: Qwen3-TTS is an open-source series of TTS models developed by the Qwen team at Alibaba Cloud, supporting stable, expressive, and streaming speech generation, free-form voice design, and vivid voice cloning.](https://github.com/QwenLM/Qwen3-TTS)
+- [resemble-ai/chatterbox: SoTA open-source TTS](https://github.com/resemble-ai/chatterbox)
+- [Resenmble.ai - AI Voice Generator with Text to Speech and Speech to Speech](https://www.resemble.ai/) / [🔗](https://github.com/resemble-ai)
+- [RHVoice/RHVoice: a free and open source speech synthesizer for Russian and other languages](https://github.com/RHVoice/RHVoice)
+- [Speaking of Voxtral](https://mistral.ai/news/voxtral-tts) / [🔗](https://huggingface.co/mistralai/models?search=voxtral)
+- [thorstenMueller/Thorsten-Voice · GitHub](https://github.com/thorstenMueller/Thorsten-Voice)
+- [TTS Spaces Arena - a Hugging Face Space by Pendrokar](https://huggingface.co/spaces/Pendrokar/TTS-Spaces-Arena)
+- [VibeVoice](https://microsoft.github.io/VibeVoice/) / [🔗](https://github.com/microsoft/VibeVoice)
+- [VisionAid International - Voice Downloads](https://www.visionaid.co.uk/visionaid-international---voice-downloads)
+- [VOSK Models | Alpha Cephei](https://alphacephei.com/vosk/models)
+- [yl4579/StyleTTS2: StyleTTS 2: Towards Human-Level Text-to-Speech through Style Diffusion and Adversarial Training with Large Speech Language Models](https://github.com/yl4579/StyleTTS2)
 
 ### Audio editor
 - ⭐ **[Audacity](https://www.audacityteam.org/)** / [🔗](https://github.com/audacity/audacity)
@@ -614,7 +618,7 @@ description: Audio, video, and creative media tools and sources.
 - ⭐ **[Guitar Pro](https://www.guitar-pro.com/)**
 - ⭐ **[MuseScore - Free music composition and notation software](https://musescore.org/en)**
 - ⭐ **[Soundslice | Create living sheet music](https://www.soundslice.com/)**
-- [AlphaTab](https://www.alphatab.net/)
+- [alphaTab - Build modern music notation apps for web, desktop and mobile](https://www.alphatab.net/) / [🔗](https://github.com/CoderLine/alphaTab)
 - [Aria Maestosa](https://ariamaestosa.github.io/ariamaestosa/docs/index.html)
 - [Avid Sibelius](https://www.avid.com/sibelius)
 - [bragefuglseth/fretboard: Look up guitar chords](https://github.com/bragefuglseth/fretboard)
@@ -629,7 +633,10 @@ description: Audio, video, and creative media tools and sources.
 - [LilyPond – Music notation for everyone](https://lilypond.org/)
 - [More-Than-Solitaire/Tabs-Lite · GitHub](https://github.com/More-Than-Solitaire/Tabs-Lite)
 - [NoteEdit](https://www.berlios.de/software/noteedit/)
+- [Open Sheet Music Display](https://opensheetmusicdisplay.org/) / [🔗](https://github.com/opensheetmusicdisplay/opensheetmusicdisplay)
+- [paulrosen/abcjs: javascript for rendering abc music notation](https://github.com/paulrosen/abcjs)
 - [Perfect Ear](https://www.perfectear.app/)
+- [Perlence/PyGuitarPro: Read, write and manipulate GP3, GP4 and GP5 files](https://github.com/perlence/pyguitarpro)
 - [Piano Companion](https://www.songtive.com/products/piano-companion)
 - [Rosegarden music](https://www.rosegardenmusic.com/)
 - [ScoreCloud - Free Music Notation Software - Music Composition & Writing](https://scorecloud.com/)
@@ -637,8 +644,11 @@ description: Audio, video, and creative media tools and sources.
 - [Songtive](https://www.songtive.com/)
 - [Soundslice | Create living sheet music](https://www.soundslice.com/homepage/)
 - [StaffPad® - Make beautiful music](https://www.staffpad.net/)
+- [The Guido Project](https://guido.grame.fr/) / [🔗](https://github.com/grame-cncm/guidolib)
 - [Tonalsoft](http://tonalsoft.com/default.aspx)
 - [ToneLib Jam | Perfect all-in-one practice and music composing tool](https://tonelib.net/jam-overview.html)
+- [Verovio](https://www.verovio.org/index.xhtml) / [🔗](https://github.com/rism-digital/verovio)
+- [VexFlow - HTML5 Music Engraving](https://www.vexflow.com/) / [🔗](https://github.com/0xfe/vexflow)
 
 #### Music tool app
 - [| My Guitar Tabs - Guitar Tabs Editor and Digital Notebook](https://my-guitar-tabs.com/)
@@ -1218,9 +1228,7 @@ description: Audio, video, and creative media tools and sources.
 - [Qubicle](https://www.minddesk.com/)
 - [VoxEdit](https://www.voxedit.io/#/en/)
 
-#### AR
-
-##### VR editor
+#### AR/VR editor
 - [3DBear](https://www.3dbear.io/)
 - [A-Frame](https://aframe.io/)
 - [Aryzon - 3D Augmented Reality Headset](https://www.aryzon.com/)
@@ -1403,6 +1411,7 @@ description: Audio, video, and creative media tools and sources.
 - [nTopology](https://ntopology.com/)
 - [Open Cascade](https://www.opencascade.com/)
 - [Open CoDesign | Open-Source AI Design Tool — BYOK, Local-First, MIT](https://opencoworkai.github.io/open-codesign/) / [🔗](https://github.com/OpenCoworkAI/open-codesign)
+- [Open Design — Official open-source Claude Design alternative](https://open-design.ai/) / [🔗](https://github.com/nexu-io/open-design)
 - [Pencil – Design on canvas. Land in code.](https://www.pencil.dev/)
 - [Playground - Free AI Design Tool: Logos, T-Shirts, Social Media](https://playground.com/)
 - [Recraft | AI for designers, creatives, sellers, and teams](https://www.recraft.ai/)
@@ -1654,6 +1663,7 @@ description: Audio, video, and creative media tools and sources.
 - [Gallery - Google Play](https://play.google.com/store/apps/details?id=com.threestar.gallery)
 - [HTTPhotos - DigiCamSoft](https://us.digicamsoft.com/softhttphotos.html)
 - [IacobIonut01/Gallery: Media Gallery app for Android made with Jetpack Compose](https://github.com/IacobIonut01/Gallery)
+- [IacobIonut01/ReFra: Media Gallery app for Android made with Jetpack Compose](https://github.com/IacobIonut01/ReFra)
 - [Imaginario](https://imaginario.mardy.it/)
 - [Inboard](https://inboardapp.com/)
 - [jAlbum](https://jalbum.net/en)
@@ -1871,6 +1881,7 @@ description: Audio, video, and creative media tools and sources.
 - [rNeomy/reader-view: Access Firefox's built in reader view from right click context menu](https://github.com/rNeomy/reader-view)
 - [Sigil Plugin Index - MobileRead](https://www.mobileread.com/forums/showthread.php?t=247431)
 - [Sigil-Ebook](https://sigil-ebook.com/)
+- [Thorium Reader](https://thorium.edrlab.org/en/) / [🔗](https://github.com/edrlab/thorium-reader)
 - [Trackkun - Manga reader & tracker for the web](https://trackkun.com/)
 - [troyeguo/koodo-reader · GitHub](https://github.com/troyeguo/koodo-reader)
 - [YACReader](https://www.yacreader.com/)
@@ -1968,6 +1979,7 @@ description: Audio, video, and creative media tools and sources.
 - [Superfeedr](https://superfeedr.com/)
 - [Suzie97/Communique · GitHub](https://github.com/Suzie97/Communique)
 - [SyFeed](https://syfeed.com/)
+- [Thysrael/Horizon: 📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达](https://github.com/Thysrael/Horizon)
 - [TT RSS](https://tt-rss.org/) / [🔗](https://github.com/tt-rss/tt-rss)
 - [TypicalAM/goread · GitHub](https://github.com/TypicalAM/goread)
 - [Versionfeeds - RSS for releases of software](https://versionfeeds.com/)

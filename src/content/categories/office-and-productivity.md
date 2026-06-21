@@ -5,7 +5,7 @@ description: Productivity suites, note-taking, planning, and office tools.
 
 # Office & Productivity
 
-**Total Bookmarks:** 1034
+**Total Bookmarks:** 1036
 
 - ⭐ **[Hotkey Cheatsheet - Improve Your Productivity with Keyboard Shortcuts](https://hotkeycheatsheet.com/)**
 - [Boosted](https://www.boostedproductivity.com/)
@@ -122,7 +122,7 @@ description: Productivity suites, note-taking, planning, and office tools.
 - ⭐ **[Homepage.org](https://www.homepage.org/)**
 - ⭐ **[Kadaza - The Ultimate Homepage & Web Portal](https://www.kadaza.com/)**
 - ⭐ **[NightTab · GitHub](https://zombiefox.github.io/nightTab/)**
-- ⭐ **[Startpage - start.me](https://start.me/start/int/startpage)**
+- ⭐ **[Startpage - start.me](https://start.me/)**
 - ⭐ **[Symbaloo: Bookmarks & Favorites](https://www.symbaloo.com/home/mix/13eP2FA6a5)**
 - [444websites](http://www.444websites.com/)
 - [Anori — Make your new tab truly your](https://anori.app/)
@@ -140,6 +140,7 @@ description: Productivity suites, note-taking, planning, and office tools.
 - [Speed Dial 2 - New tab page extension for Google Chrome](https://www.speeddial2.com/)
 - [uStart.org - Your customisable start page!](https://www.ustart.org/)
 - [WebOas.is | The Ultimate Startpage, Homepage, Web Portal!](https://weboasis.su/)
+- [WebOas.is | WebOasis | The Ultimate Startpage, Homepage, Web Portal!](https://ndsamuelson.github.io/weboas-is/)
 
 ### Read later
 - ⭐ **[Obsidian Web Clipper](https://obsidian.md/clipper)**
@@ -751,6 +752,7 @@ description: Productivity suites, note-taking, planning, and office tools.
 - [Microsoft office (MS 365)](https://www.office.com/)
 - [MSOffice 2021x 64 - Internet Archive](https://archive.org/details/msoffice-2021x-64-pre-activated)
 - [NeoOffice](https://www.neooffice.org/neojava/en/index.php)
+- [Office EU - Europe's Open-Source Productivity Suite](https://office.eu/)
 - [Office suite Doc Reader](https://play.google.com/store/apps/details?id=com.office.reader.all.docs.viewer)
 - [OfficeSuite](https://www.officesuite.com/en)
 - [Online Office](https://www.onlyoffice.com/)

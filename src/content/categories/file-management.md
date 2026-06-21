@@ -5,7 +5,7 @@ description: File tools for storage, sharing, transfer, and organization.
 
 # File Management
 
-**Total Bookmarks:** 824
+**Total Bookmarks:** 828
 
 
 ## Backup
@@ -149,6 +149,7 @@ description: File tools for storage, sharing, transfer, and organization.
 - [CompressO: Compress any video/image into a tiny size](https://compresso.codeforreal.com/) / [🔗](https://github.com/codeforreal1/compressO)
 - [FastStone Resizer](https://www.faststone.org/FSResizerDetail.htm)
 - [Free PDF Compressor](http://www.freepdfcompressor.com/)
+- [GetCompress ∙ Video, Images, PDF & GIF compressed locally](https://getcompress.com/)
 - [google/snappy: A fast compressor/decompressor](https://github.com/google/snappy)
 - [Hamstersoft](https://www.hamstersoft.com/)
 - [Huluti/Curtail: Simple & useful image compressor](https://github.com/Huluti/Curtail)
@@ -489,6 +490,7 @@ description: File tools for storage, sharing, transfer, and organization.
 - [Araxis Merge](https://www.araxis.com/merge/)
 - [Diffchecker - Compare text online to find the difference between two text files](https://www.diffchecker.com/)
 - [DiffNow - Compare Files, URLs, and Clipboard Contents Online](https://www.diffnow.com/compare-clips)
+- [jnsahaj/lumen: Beautiful git diff viewer, generate commits with AI, get summary of changes, all from the CLI](https://github.com/jnsahaj/lumen)
 - [Kaleidoscope](https://kaleidoscope.app/)
 - [KDiff3](https://kdiff3.sourceforge.net/)
 - [Kompare - KDE](https://apps.kde.org/kompare/)
@@ -744,6 +746,7 @@ description: File tools for storage, sharing, transfer, and organization.
 ## File Search
 - [cardisoft/cardinal: Fastest file searching tool for macOS](https://github.com/cardisoft/cardinal)
 - [Cling - Instant fuzzy find any file, act on it in the same instant](https://lowtechguys.com/cling/)
+- [Omni - local semantic search for your Mac](https://hanxiao.io/omni/)
 
 ## File system
 - [A Robust Flash File System Since 2002 | Yaffs - A Flash File System for embedded use](https://yaffs.net/)
@@ -770,6 +773,7 @@ description: File tools for storage, sharing, transfer, and organization.
 - ⭐ **[Blip is the fastest way to send files](https://blip.net/)**
 - ⭐ **[pixeldrain - Free file sharing service](https://pixeldrain.com/)**
 - [AirMore](https://airmore.com/)
+- [AlterSend — Private, unlimited file transfer](https://altersend.com/) / [🔗](https://github.com/denislupookov/altersend)
 - [antimof/UxPlay: AirPlay Unix mirroring server](https://github.com/antimof/UxPlay)
 - [Blaze | File sharing web app ⚡](https://blaze.vercel.app/)
 - [Genymobile/scrcpy · GitHub](https://github.com/Genymobile/scrcpy)

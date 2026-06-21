@@ -19,7 +19,7 @@ const BASE = import.meta.env.BASE_URL.replace(/\/?$/, '/');
 const pathname = Astro.url.pathname;
 
 const defaultLinks: NavLink[] = [
-  { text: 'Directory', link: `${BASE}directory/`, icon: 'categories' },
+  { text: 'Categories', link: `${BASE}categories/`, icon: 'categories' },
   // Map of Links is kept in the codebase (src/pages/_map.astro) but excluded
   // from the deployed site, so it is intentionally omitted from the nav.
   { text: 'Toolbox', link: `${BASE}toolbox/`, icon: 'toolbox' },

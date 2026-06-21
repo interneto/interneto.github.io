@@ -23,8 +23,11 @@ function clearOutputDir(outputDir, filesToRemove) {
   filesToRemove.forEach(file => safeUnlink(path.join(outputDir, file)))
 }
 
+// Raindrop nests collections with " / " (space-slash-space). The top folder
+// itself is literally named "Apps/Services" (contains a bare slash), so split
+// only on the spaced separator, never on bare "/".
 function normalizeFolder(folder) {
-  return folder.split('/').map((s) => {
+  return folder.split(' / ').map((s) => {
     return String(s || '')
       .replace(/\s+/g, ' ')
       .trim()
@@ -32,7 +35,7 @@ function normalizeFolder(folder) {
 }
 
 function isValidRowFolder(folderParts) {
-  return folderParts.length >= 2 && folderParts[0] === 'Apps'
+  return folderParts.length >= 2 && folderParts[0] === 'Apps/Services'
 }
 
 export {

@@ -5,7 +5,7 @@ description: Practical AI tools, assistants, and services for daily workflows.
 
 # AI Tools & Services
 
-**Total Bookmarks:** 519
+**Total Bookmarks:** 536
 
 
 ## AI Apps
@@ -38,6 +38,7 @@ description: Practical AI tools, assistants, and services for daily workflows.
 - [goose | Your open source AI agent](https://goose-docs.ai/) / [🔗](https://github.com/block/goose)
 - [Gumloop | AI Automation Framework](https://www.gumloop.com/)
 - [Hermes Agent — AI Agent Framework](https://hermes-agent.nousresearch.com/) / [🔗](https://github.com/NousResearch/hermes-agent)
+- [jasperan/picooraclaw: PicoClaw that works with Oracle AI Database](https://github.com/jasperan/picooraclaw)
 - [Kilo: The Open Source AI Coding Agent for VS Code, JetBrains, and your CLI](https://kilo.ai/)
 - [Letta](https://letta.com/) / [🔗](https://github.com/letta-ai)
 - [LobeHub - Your Chief Agent Operator](https://lobehub.com/) / [🔗](https://github.com/lobehub/lobehub)
@@ -45,10 +46,13 @@ description: Practical AI tools, assistants, and services for daily workflows.
 - [Microsoft UFO - Weaving the Digital Agent Galaxy](https://microsoft.github.io/UFO/) / [🔗](https://github.com/microsoft/UFO)
 - [Mission Control — Open-Source AI Agent Orchestration Dashboard](https://mc.builderz.dev/) / [🔗](https://github.com/builderz-labs/mission-control)
 - [MLflow - Open Source AI Platform for Agents, LLMs & Models](https://mlflow.org/#core-concepts) / [🔗](https://github.com/mlflow/mlflow)
+- [MyShell AI | Build, Share, and Own AI Agent](https://myshell.ai/)
 - [NanoClaw - Secure AI Agent for WhatsApp, Telegram & More](https://nanoclaw.dev/) / [🔗](https://github.com/gavrielc/nanoclaw)
 - [NVIDIA NemoClaw: Deploy Safer AI Assistants with OpenClaw Safety Guardrails](https://www.nvidia.com/en-us/ai/nemoclaw/) / [🔗](https://github.com/NVIDIA/NemoClaw)
 - [OpenHands | The Open Platform for Cloud Coding Agents](https://openhands.dev/) / [🔗](https://github.com/OpenHands/OpenHands)
+- [Paca — Humans and AI agents, one Scrum team](https://paca-ai.org/) / [🔗](https://github.com/Paca-AI/paca)
 - [Paperclip — Open-source orchestration for zero-human companies](https://paperclip.ing/) / [🔗](https://github.com/paperclipai/paperclip)
+- [Paseo – Run Claude Code, Codex, Copilot, OpenCode from anywhere](https://paseo.sh/) / [🔗](https://github.com/getpaseo/paseo)
 - [Perplexity - Personal Computer for Mac](https://www.perplexity.ai/personal-computer)
 - [Pi Coding Agent](https://pi.dev/)
 - [PicoClaw — Ultra-Lightweight AI Assistant in Go for Raspberry Pi, Linux & RISC-V](https://picoclaw.io/) / [🔗](https://github.com/sipeed/picoclaw)
@@ -67,15 +71,13 @@ description: Practical AI tools, assistants, and services for daily workflows.
 - [Zapier | Automation that moves you forward](https://zapier.com/)
 - [zerostack — minimal coding agent](https://gi-dellav.github.io/zerostack/)
 
-### AI Audio
-
-#### Music
+### AI Audio/Music
 - ⭐ **[Eleven Labs - AI Music Generator](https://elevenlabs.io/music)**
+- ⭐ **[Fish Audio: Free Generative AI Text To Speech & Voice Cloning](https://fish.audio/)** / [🔗](https://github.com/fishaudio)
 - [AIVA, the AI Music Generation Assistant](https://www.aiva.ai/)
 - [CallPark - AI-powered phone agent](https://trycallpark.com/)
 - [DIKTATORIAL Suite - Online AI Audio Mastering Tool with Texting](https://diktatorial.com/)
 - [ElevenMusic - Discover, Remix, Create](https://elevenmusic.io/)
-- [Fish Audio: Free Generative AI Text To Speech & Voice Cloning](https://fish.audio/)
 - [Google DeepMind - Lyria](https://deepmind.google/technologies/lyria/)
 - [Illuminate | Learn Your Way](https://illuminate.google.com/home)
 - [Klangio – AI Software Tools for Transcribing Music into Notes](https://klang.io/)
@@ -110,6 +112,7 @@ description: Practical AI tools, assistants, and services for daily workflows.
 - [ImagineArt - AI Creative Suite](https://www.imagine.art/)
 - [Krea: AI Creative Suite for Images, Video, & 3D](https://www.krea.ai/)
 - [Microsoft 365 Copilot – Your AI Assistant for Work and Life](https://m365.cloud.microsoft/)
+- [Open Generative AI — Free AI Image & Video Studio | Muapi](https://muapi.ai/open-generative-ai) / [🔗](https://github.com/anil-matcha/open-generative-ai)
 - [OpenArt | Discover and generate AI Art](https://openart.ai/home)
 - [Vheer - AI-Powered Image & Video Generation](https://vheer.com/)
 - [Weavy | AI-Powered Design Workflows, Built for Creative Pros](https://www.weavy.ai/)
@@ -153,21 +156,25 @@ description: Practical AI tools, assistants, and services for daily workflows.
 - ⭐ **[LM Studio - Discover and run local LLMs](https://lmstudio.ai/)** / [🔗](https://github.com/lmstudio-ai)
 - ⭐ **[Local AI](https://localai.io/)** / [🔗](https://github.com/mudler/LocalAI)
 - ⭐ **[Newelle - Your Ultimate Virtual Assistant](https://newelle.qsk.me/#home)** / [🔗](https://github.com/qwersyk/Newelle)
-- ⭐ **[Ollama](https://ollama.com/)** / [🔗](https://github.com/ollama/ollama)
 - ⭐ **[Pinokio - Localhost Platform for Humans and AI](https://pinokio.co/)** / [🔗](https://github.com/pinokiocomputer/pinokio)
 - ⭐ **[SillyTavern](https://docs.sillytavern.app/)** / [🔗](https://github.com/SillyTavern/SillyTavern)
 - [AgenticSeek - Private AI Assistant](https://fosowl.github.io/agenticSeek.html) / [🔗](https://github.com/Fosowl/agenticSeek)
+- [BerriAI/litellm · GitHub](https://github.com/BerriAI/litellm)
 - [Chatbox AI: Your AI Copilot, Best AI Client on any device, Free Download](https://chatboxai.app/en/) / [🔗](https://github.com/chatboxai/chatbox)
 - [Ensu](https://ente.io/ensu/)
 - [fullmoon: local intelligence](https://fullmoon.app/) / [🔗](https://github.com/mainframecomputer/fullmoon-ios)
+- [GitHub - chatbox/chatbox: User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)](https://github.com/chatboxai/chatbox)
 - [google-ai-edge/gallery: A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.](https://github.com/google-ai-edge/gallery)
 - [Jan - Open-source ChatGPT Alternative](https://jan.ai/) / [🔗](https://github.com/janhq/jan)
+- [Jarvis Web Client](https://www.openjarvis.org/) / [🔗](https://github.com/open-jarvis/OpenJarvis)
 - [Jeffser/Alpaca · GitHub](https://github.com/Jeffser/Alpaca)
 - [Layla - Experience the Best Offline AI Assistant](https://www.layla-network.ai/)
 - [Lekh AI – Run AI Locally on Mac & iPhone](https://lekhai.app/)
 - [LibreChat](https://www.librechat.ai/) / [🔗](https://github.com/danny-avila/LibreChat)
 - [LLM Hub – 15+ Private AI Models on Android, Free](https://www.llm-hub.app/) / [🔗](https://github.com/timmyy123/LLM-Hub)
+- [Local Waifu | A self-learning AI companion for macOS](https://localwaifu.com/)
 - [LocalAI – Offline AI Chat LLM - Apps on Google Play](https://play.google.com/store/apps/details?id=com.ApexCreator.localaiapp)
+- [Locally AI - Run AI models locally on your iPhone, iPad, and Mac](https://locallyai.app/)
 - [mozilla-ai/llamafile: Distribute and run LLMs with a single file. · GitHub](https://github.com/mozilla-ai/llamafile)
 - [Odysseus — A Self-Hosted AI Workspace](https://pewdiepie-archdaemon.github.io/odysseus/) / [🔗](https://github.com/pewdiepie-archdaemon/odysseus)
 - [Osaurus — Own your AI](https://osaurus.ai/) / [🔗](https://github.com/osaurus-ai/osaurus)
@@ -182,6 +189,7 @@ description: Practical AI tools, assistants, and services for daily workflows.
 ### AI Coding Assistant
 - ⭐ **[Continue • Quality control for your software factory](https://www.continue.dev/)** / [🔗](https://github.com/continuedev/continue)
 - ⭐ **[GitHub Copilot · Your AI pair programmer](https://github.com/features/copilot/)** / [🔗](https://github.com/github/copilot-cli), [🔗](https://github.com/microsoft/vscode-copilot-chat)
+- ⭐ **[Heretic - Fully automatic censorship removal for language models](https://heretic-project.org/)** / [🔗](https://github.com/p-e-w/heretic), [🔗](https://heretic-project.org/)
 - ⭐ **[OpenCode | The open source AI coding agent](https://opencode.ai/)** / [🔗](https://github.com/anomalyco/opencode)
 - [0din - The GenAI Bug Bounty Program](https://0din.ai/)
 - [a0.dev - Create Mobile Apps with AI](https://a0.dev/)
@@ -220,7 +228,6 @@ description: Practical AI tools, assistants, and services for daily workflows.
 - [new.website | Build Websites with AI](https://new.website/)
 - [NVIDIA NeMo | Build, monitor, and optimize AI agents](https://www.nvidia.com/en-us/ai-data-science/products/nemo/) / [🔗](https://github.com/NVIDIA-NeMo/NeMo)
 - [OpenViking - Context File System for AI Agents](https://openviking.ai/) / [🔗](https://github.com/volcengine/OpenViking)
-- [p-e-w/heretic: Fully automatic censorship removal for language models](https://github.com/p-e-w/heretic)
 - [Postgres Sandbox](https://database.build/)
 - [Pythagora-io/gpt-pilot: The first real AI developer](https://github.com/Pythagora-io/gpt-pilot)
 - [Qoder - The Agentic Coding Platform](https://qoder.com/)
@@ -466,6 +473,7 @@ description: Practical AI tools, assistants, and services for daily workflows.
 - [LangChain](https://www.langchain.com/)
 - [Liquid AI: Build efficient general-purpose AI at every scale](https://www.liquid.ai/)
 - [NLP Cloud - Advanced Artificial Intelligence API](https://nlpcloud.com/)
+- [Unsloth - Train and Run Models Locally](https://unsloth.ai/) / [🔗](https://github.com/unslothai/unsloth)
 - [Weights & Biases – Developer tools for ML](https://wandb.ai/site)
 
 ### AI LLMs
@@ -498,6 +506,7 @@ description: Practical AI tools, assistants, and services for daily workflows.
 - [GPT-4 - OpenAI](https://openai.com/gpt-4)
 - [h2oai/h2ogpt · GitHub](https://github.com/h2oai/h2ogpt)
 - [hpcaitech/Open-Sora · GitHub](https://github.com/hpcaitech/Open-Sora)
+- [ideogram-oss/ideogram4: Ideogram 4: Open image model at the forefront of design](https://github.com/ideogram-oss/ideogram4)
 - [ItzCrazyKns/Perplexica · GitHub](https://github.com/ItzCrazyKns/Perplexica)
 - [karpathy/nanochat: The best ChatGPT that $100 can buy](https://github.com/karpathy/nanochat)
 - [Koala: A Dialogue Model for Academic Research](https://bair.berkeley.edu/blog/2023/04/03/koala/)
@@ -518,6 +527,7 @@ description: Practical AI tools, assistants, and services for daily workflows.
 - [monster-labs/control_v1p_sd15_qrcode_monster at main](https://huggingface.co/monster-labs/control_v1p_sd15_qrcode_monster/tree/main)
 - [nashsu/FreeAskInternet · GitHub](https://github.com/nashsu/FreeAskInternet)
 - [nikopueringer/CorridorKey: Perfect Green Screen Keys](https://github.com/nikopueringer/CorridorKey)
+- [NVIDIA Nemotron - Build Agentic AI with Multimodal Foundation Models](https://www.nvidia.com/en-us/ai-data-science/foundation-models/nemotron/)
 - [Open Euro LLM](https://openeurollm.eu/)
 - [OpenAI - Platform](https://platform.openai.com/)
 - [openai/gpt-2 · GitHub](https://github.com/openai/gpt-2)
@@ -540,12 +550,14 @@ description: Practical AI tools, assistants, and services for daily workflows.
 - [zai-org/GLM-Image · Hugging Face](https://huggingface.co/zai-org/GLM-Image)
 
 ### AI LLM Serving
+- ⭐ **[Ollama](https://ollama.com/)** / [🔗](https://github.com/ollama/ollama)
 - ⭐ **[OpenRouter](https://openrouter.ai/)**
 - [AgenticOS - The Operating System for Autonomous AI Agents](https://www.hyper.space/login)
 - [AIMLAPI.com - Access 400+ AI Models with a Single AI API](https://aimlapi.com/)
 - [alibaba/MNN · GitHub](https://github.com/alibaba/MNN)
 - [Amazon Q - AWS](https://aws.amazon.com/q/)
 - [AMD-AIG-AIMA/Instella: Fully Open Language Models with Stellar Performance](https://github.com/AMD-AIG-AIMA/Instella)
+- [Andyyyy64/whichllm: Find the local LLM that actually runs and performs best on your hardware](https://github.com/Andyyyy64/whichllm)
 - [BentoML: Build, Ship, Scale AI Applications](https://bentoml.com/) / [🔗](https://github.com/bentoml/OpenLLM)
 - [BlockRunAI/ClawRouter: The agent-native LLM router for OpenClaw. 41+ models, 1ms routing, USDC payments on Base & Solana via x402](https://github.com/BlockRunAI/ClawRouter)
 - [Caveman — the token-efficient stack for agent-native builders](https://getcaveman.dev/) / [🔗](https://github.com/juliusbrussee/caveman)
@@ -554,10 +566,12 @@ description: Practical AI tools, assistants, and services for daily workflows.
 - [Flowise - Build AI Agents, Visually](https://flowiseai.com/) / [🔗](https://github.com/FlowiseAI/Flowise)
 - [Langfuse](https://langfuse.com/) / [🔗](https://github.com/langfuse/langfuse)
 - [LiteLLM](https://litellm.ai/) / [🔗](https://github.com/BerriAI/litellm)
+- [Llama.cpp - Run LLM Inference in C/C++](https://llama-cpp.com/) / [🔗](https://github.com/ggml-org/llama.cpp)
 - [LLMLingua Series | Effectively Deliver Information to LLMs via Prompt Compression](https://llmlingua.com/) / [🔗](https://github.com/microsoft/LLMLingua)
 - [Memori – The memory fabric for enterprise AI](https://memorilabs.ai/)
 - [microsoft/semantic-kernel: Integrate cutting-edge LLM technology quickly and easily into your apps](https://github.com/microsoft/semantic-kernel)
 - [MLC LLM | Home](https://llm.mlc.ai/) / [🔗](https://github.com/mlc-ai/mlc-llm)
+- [MLX — MLX 0.31.2 documentation](https://ml-explore.github.io/mlx/build/html/index.html) / [🔗](https://github.com/ml-explore/mlx)
 - [NVIDIA NIM APIs](https://build.nvidia.com/)
 - [Portkey - Production Stack for Gen AI Builders](https://portkey.ai/)
 - [sgl-project/sglang: SGLang is a fast serving framework for large language models and vision language models.](https://github.com/sgl-project/sglang)
@@ -565,6 +579,7 @@ description: Practical AI tools, assistants, and services for daily workflows.
 - [Stability-AI/StableSwarmUI: StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.](https://github.com/Stability-AI/StableSwarmUI)
 - [Syllabi - Open Source AI Chatbot Platform with RAG](https://www.syllabi-ai.com/) / [🔗](https://github.com/Achu-shankar/Syllabi)
 - [Together AI – Fast Inference, Fine-Tuning & Training](https://www.together.ai/)
+- [vLLM](https://vllm.ai/) / [🔗](https://github.com/vllm-project/vllm)
 - [vllm-project/vllm: A high-throughput and memory-efficient inference and serving engine for LLMs](https://github.com/vllm-project/vllm)
 - [wilpel/caveman-compression: Caveman Compression is a semantic compression method for LLM contexts](https://github.com/wilpel/caveman-compression)
 - [zilliztech/claude-context · GitHub](https://github.com/zilliztech/claude-context)

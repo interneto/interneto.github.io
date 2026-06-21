@@ -5,7 +5,7 @@ description: Useful web services and cloud-based utilities.
 
 # Online Services
 
-**Total Bookmarks:** 5655
+**Total Bookmarks:** 5664
 
 
 ## Biography
@@ -463,6 +463,7 @@ description: Useful web services and cloud-based utilities.
 - [luong-komorebi/Awesome-Linux-Software · GitHub](https://github.com/luong-komorebi/Awesome-Linux-Software)
 - [lyz-code/best-of-digital-gardens · GItHub](https://github.com/lyz-code/best-of-digital-gardens)
 - [mapbox/awesome-vector-tiles · GitHub](https://github.com/mapbox/awesome-vector-tiles)
+- [mathworks-robotics/awesome-matlab-robotics: This is a list of awesome demos, tutorials, utilities and overall resources for the robotics community that use MATLAB and Simulink](https://github.com/mathworks-robotics/awesome-matlab-robotics)
 - [Michael0x2a/curated-programming-resources · GitHub](https://github.com/Michael0x2a/curated-programming-resources)
 - [mikeroyal/Self-Hosting-Guide · GitHub](https://github.com/mikeroyal/Self-Hosting-Guide)
 - [MobilityData/awesome-transit: Community list of transit APIs, apps, datasets, research, and software :bus::star2::train::star2::steam_locomotive:](https://github.com/MobilityData/awesome-transit)
@@ -4105,6 +4106,7 @@ description: Useful web services and cloud-based utilities.
 - [Recherche eBook](https://recherche-ebook.fr/en/)
 - [Shadow Libraries](https://shadowlibraries.github.io/)
 - [Standard Ebooks](https://standardebooks.org/ebooks)
+- [TapXWorld/ChinaTextbook: 所有小初高、大学PDF教材。](https://github.com/TapXWorld/ChinaTextbook)
 - [The Online Books Page](https://onlinebooks.library.upenn.edu/)
 - [wecabrio](https://wecabrio.com/)
 - [z-lib.gs](https://z-lib.gs/)
@@ -4283,6 +4285,7 @@ description: Useful web services and cloud-based utilities.
 - [Sweep: turn bugs and feature requests into code changes](https://sweep.dev/)
 - [Volta.sh](https://volta.sh/)
 - [What Firefox trains are we in?](https://whattrainisitnow.com/)
+- [Xiaomi mimocode](https://mimo.xiaomi.com/mimocode)
 
 ###### Download Git
 - [DownGit](https://minhaskamal.github.io/DownGit/#/home)
@@ -4396,6 +4399,7 @@ description: Useful web services and cloud-based utilities.
 - [FossHub](https://www.fosshub.com/)
 - [Gerrit Code Review](https://www.gerritcodereview.com/)
 - [Gitdab](https://gitdab.com/)
+- [gitdot](https://gitdot.io/) / [🔗](https://gitdot.io/bkdevs/gitdot)
 - [Gitea](https://about.gitea.com/) / [🔗](https://github.com/go-gitea/gitea)
 - [Gitea: Git with a cup of tea](https://gitea.com/)
 - [Gitee - Enterprise DevOps Research and Development Efficiency Platform](https://gitee.com/)
@@ -5027,6 +5031,7 @@ description: Useful web services and cloud-based utilities.
 - [Globe TV - Free Live TV Worldwide](https://globetv.app/)
 - [HUHU.TO](https://huhu.to/)
 - [Kukooo TV - Watch 1000+ Live TV Channels Online Free](https://tv.kukooo.com/)
+- [livestreamlinks.net - Free Live TV Channels by Country](https://livestreamlinks.net/en/live-tv)
 - [NTV - Watch Live TV Channels & Streams Online for Free](https://ntvstream.cx/)
 - [PHOTOCALL TV - Televisión y radio online](https://photocalltv.org/)
 - [Public IPTV - Watch Live TV Channels](https://publiciptv.com/)
@@ -5293,12 +5298,14 @@ description: Useful web services and cloud-based utilities.
 - [VixSrc](https://vixsrc.to/)
 
 ## Online Tools
+- ⭐ **[FreeTool – The Best Free Tools for all Curious Minds](https://freetool.odoo.com/)**
 - ⭐ **[Topster.net](https://www.topster.net/)**
 - [123apps](https://123apps.com/)
 - [AppsYogi - Free Apps for Work & Play](https://appsyogi.com/)
 - [Asil Tools - PDF Converter, Image Tools, Calculators & More](https://aslitools.com/)
 - [binvis.io](https://binvis.io/#/)
 - [Count Wordsworth](https://countwordsworth.com/)
+- [delphitools — privacy-first browser tools](https://delphi.tools/)
 - [DocsYogi - Free Online File Viewer | View 13+ File Formats](https://docsyogi.com/)
 - [Extract Video Frame - utils.com](https://frame.utils.com/)
 - [FileProInfo](https://fileproinfo.com/)
@@ -5805,11 +5812,13 @@ description: Useful web services and cloud-based utilities.
 - ⭐ **[LiveBench](https://livebench.ai/#/)** / [🔗](https://github.com/LiveBench/LiveBench)
 - ⭐ **[Zero GPU Spaces - a Hugging Face Space by enzostvs](https://huggingface.co/spaces/enzostvs/zero-gpu-spaces)**
 - [Artificial Analysis - AI Model & API Providers Analysis](https://artificialanalysis.ai/)
+- [Benchlm.ai - LLM Leaderboard 2026](https://benchlm.ai/)
 - [BridgeBench — AI Coding & Vibe Coding Benchmark](https://www.bridgebench.ai/)
 - [CanIRun.ai — Can your machine run AI models?](https://www.canirun.ai/)
 - [Cybench](https://cybench.github.io/) / [🔗](https://github.com/andyzorigin/cybench)
 - [CyberGym](https://www.cybergym.io/) / [🔗](https://github.com/sunblaze-ucb/cybergym)
 - [DeepSWE Benchmark: GPT vs Claude for Agentic Coding](https://deepswe.net/#opus-4-8-result)
+- [Humanity's Last Exam](https://agi.safe.ai/)
 - [List of large language models - Wikipedia](https://en.wikipedia.org/wiki/List_of_large_language_models)
 - [LLM Explorer: A Curated Large Language Model Directory](https://llm-explorer.com/)
 - [LLM Leaderboard - Vellum](https://www.vellum.ai/llm-leaderboard)
