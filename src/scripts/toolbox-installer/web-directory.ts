@@ -29,7 +29,6 @@ interface DirectoryConfig {
 
 const BASE = (import.meta.env.BASE_URL || '/').replace(/\/?$/, '/');
 const WEBS_PREFIX = `${BASE}img/software/webs/`;
-const DEFAULT_ICON = `${BASE}img/software/apps/no.svg`;
 
 const tableBody = document.querySelector<HTMLTableSectionElement>('#toolboxDirectoryTable tbody');
 const searchInput = document.getElementById('searchInput') as HTMLInputElement | null;
@@ -60,14 +59,16 @@ function buildSearchLink(name: string): string {
     return `https://duckduckgo.com/?q=${encodeURIComponent(name)}`;
 }
 
-function faviconFromLink(link: string): string | null {
-    try {
-        const url = new URL(link);
-        if (!/^https?:$/.test(url.protocol)) return null;
-        return `https://icons.duckduckgo.com/ip3/${url.hostname}.ico`;
-    } catch {
-        return null;
-    }
+// Inline SVG monogram fallback — always SVG, no network (avoids the 404/corrupt
+// favicon-service requests), scales crisply. Color derived from the name.
+function monogramIcon(name: string): string {
+    const ch = (name.trim()[0] || '?').toUpperCase();
+    const hue = [...name].reduce((h, c) => (h * 31 + c.charCodeAt(0)) % 360, 7);
+    const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">`
+        + `<rect width="32" height="32" rx="6" fill="hsl(${hue} 55% 45%)"/>`
+        + `<text x="16" y="22" font-family="system-ui,sans-serif" font-size="17" font-weight="600" fill="#fff" text-anchor="middle">${escapeHtml(ch)}</text>`
+        + `</svg>`;
+    return `data:image/svg+xml,${encodeURIComponent(svg)}`;
 }
 
 async function fetchJson<T>(url: string): Promise<T> {
@@ -123,17 +124,15 @@ function renderRows(entries: DirectoryEntry[]): void {
                     const safeName = escapeHtml(entry.name);
                     const linkHref = entry.link || buildSearchLink(entry.name);
                     const safeLink = escapeHtml(linkHref);
-                    const favicon = faviconFromLink(linkHref);
                     const resolved = resolveIcon(entry.icon);
-                    // No curated icon → favicon is primary; favicon failing → no.svg.
-                    // Curated icon → it's primary; on error walk: favicon → no.svg.
-                    const primarySrc = resolved ?? favicon ?? DEFAULT_ICON;
+                    const monogram = monogramIcon(entry.name);
+                    // Curated icon is primary; on error fall back to the SVG monogram
+                    // (a data URI, so it never fails — no external favicon requests).
+                    const primarySrc = resolved ?? monogram;
                     const safeIcon = escapeHtml(primarySrc);
-                    const safeFavicon = favicon ? escapeHtml(favicon) : '';
-                    const safeFallback = escapeHtml(DEFAULT_ICON);
-                    const onerror = safeFavicon && primarySrc !== favicon
-                        ? `this.onerror=function(){this.onerror=null;this.src='${safeFallback}';};this.src='${safeFavicon}';`
-                        : `this.onerror=null;this.src='${safeFallback}';`;
+                    const onerror = primarySrc === monogram
+                        ? 'this.onerror=null;'
+                        : `this.onerror=null;this.src='${escapeHtml(monogram)}';`;
                     return `
                         <a
                             class="directory-icon-link"

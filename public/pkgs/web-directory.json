@@ -703,7 +703,8 @@
             "category": "online-services",
             "name": "HypeStat | Web Statistics and Analysis",
             "link": "https://hypestat.com/",
-            "tags": []
+            "tags": [],
+            "icon": "hypestat-web-statistics-and-analysis.ico"
         },
         {
             "category": "online-services",
@@ -723,7 +724,8 @@
             "category": "online-services",
             "name": "jazzmusic.cool",
             "link": "https://jazzmusic.cool/",
-            "tags": []
+            "tags": [],
+            "icon": "jazzmusic-cool.png"
         },
         {
             "category": "online-services",
@@ -838,7 +840,8 @@
             "category": "online-services",
             "name": "W3Techs",
             "link": "https://w3techs.com/",
-            "tags": []
+            "tags": [],
+            "icon": "w3techs.ico"
         },
         {
             "category": "online-services",
@@ -2412,7 +2415,8 @@
             "category": "business-and-commerce",
             "name": "Carrefour",
             "link": "https://www.carrefour.es/",
-            "tags": []
+            "tags": [],
+            "icon": "carrefour.ico"
         },
         {
             "category": "business-and-commerce",

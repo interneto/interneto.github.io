@@ -206,12 +206,13 @@ function createSubcategorySection(
 ): void {
     const subcategoryDiv = document.createElement('div');
     const subcategoryClass = subcategory.replace(/\s+/g, '-').toLowerCase();
-    subcategoryDiv.classList.add(CLASS_NAMES.SUBCATEGORY, subcategoryClass);
+    subcategoryDiv.classList.add(CLASS_NAMES.SUBCATEGORY);
+    if (subcategoryClass) subcategoryDiv.classList.add(subcategoryClass);
     categoryContent.appendChild(subcategoryDiv);
 
     // Subcategory heading
     const subcategoryHeading = document.createElement('h5');
-    subcategoryHeading.textContent = subcategory;
+    subcategoryHeading.textContent = subcategory || 'Other';
     subcategoryDiv.appendChild(subcategoryHeading);
 
     // Create package labels
