@@ -5,6 +5,7 @@
 
 import { OS_COMPAT_CONFIG } from './config';
 import type { OsCompatPackage } from './types';
+import { mapCategory } from '../shared/category-mapping';
 
 interface RawPackageManager {
     windows_winget?: string | null;
@@ -97,7 +98,7 @@ function transformPackageData(jsonData: { packages: Record<string, RawPackage> }
         return {
             id,
             name: pkg.name,
-            category: pkg.category ?? '',
+            category: mapCategory(pkg.category ?? ''),
             subcategory: pkg.subcategory ?? '',
             windows: hasWindows,
             windowsStatus,

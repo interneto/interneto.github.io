@@ -5,6 +5,7 @@ date: 2026-05-06
 next: true
 prev: true
 footer: true
+category: OS & Utilities
 tags:
   - comparison
   - software

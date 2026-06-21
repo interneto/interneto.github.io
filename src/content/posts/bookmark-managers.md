@@ -5,6 +5,7 @@ date: 2025-08-31
 next: true
 prev: true
 footer: true
+category: Office & Productivity
 tags:
   - comparison
   - software

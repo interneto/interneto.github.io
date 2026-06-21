@@ -7,6 +7,7 @@ import { CONFIG } from '../shared/paths';
 import { CLASS_NAMES, ATTR_NAMES } from '../shared/dom-constants';
 import { getCategoryEmojis } from '../shared/data-loader';
 import { getElement } from '../shared/dom-utils';
+import { mapCategory, getUniqueTaxonomyCategories } from '../shared/category-mapping';
 import type { PackageInfo, PackagesData } from './command-builder';
 
 const DEFAULT_ICON_EXTENSIONS = ['svg', 'png', 'jpg', 'jpeg', 'webp'];
@@ -41,21 +42,9 @@ export function generatePackages(packagesData: PackagesData): void {
     
     packageContainer.innerHTML = ''; // Clear container
 
-    const categories = [
-        'Development',
-        'Internet & Communication',
-        'System',
-        'File Management',
-        'Audio',
-        'Image',
-        'Video',
-        'Office',
-        'Virtualization',
-        'Utility',
-        'Gaming',
-        'Reading',
-        'Science',
-    ];
+    // Derive taxonomy categories from actual package data (via mapping layer)
+    const legacyCategories = [...new Set(Object.values(packagesData.packages).map(p => p.category))];
+    const categories = getUniqueTaxonomyCategories(legacyCategories);
 
     const categorySections = categories.map(category => createCategorySection(category, packagesData));
     renderCategoryColumns(packageContainer, categorySections);
@@ -103,7 +92,7 @@ function createCategorySection(category: string, packagesData: PackagesData): HT
 
     // Package count badge
     const pkgCount = Object.values(packagesData.packages).filter(
-        (p) => p.category === category
+        (p) => mapCategory(p.category) === category
     ).length;
     const categoryBadge = document.createElement('span');
     categoryBadge.classList.add(CLASS_NAMES.CATEGORY_BADGE);
@@ -121,10 +110,10 @@ function createCategorySection(category: string, packagesData: PackagesData): HT
     categoryContent.classList.add(CLASS_NAMES.CATEGORY_CONTENT);
     categoryDiv.appendChild(categoryContent);
 
-    // Collect packages by subcategory
+    // Collect packages by subcategory (match via mapped taxonomy category)
     const subcategories: Record<string, { key: string; info: PackageInfo }[]> = {};
     Object.entries(packagesData.packages).forEach(([pkgKey, pkgInfo]) => {
-        if (pkgInfo.category === category) {
+        if (mapCategory(pkgInfo.category) === category) {
             const subcategory = pkgInfo.subcategory;
             if (!subcategories[subcategory]) {
                 subcategories[subcategory] = [];

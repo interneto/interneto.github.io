@@ -20,6 +20,7 @@ const posts = defineCollection({
   loader: glob({ pattern: '**/*.{md,mdx}', base: './src/content/posts' }),
   schema: commonSchema.extend({
     tags: z.array(z.string()).optional(),
+    category: z.string().optional(),
   }),
 });
 

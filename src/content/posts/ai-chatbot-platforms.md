@@ -5,6 +5,7 @@ date: 2026-06-07
 next: true
 prev: true
 footer: true
+category: AI Tools & Services
 tags:
   - comparison
   - software
