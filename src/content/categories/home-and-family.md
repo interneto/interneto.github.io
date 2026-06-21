@@ -1,6 +1,6 @@
 ---
 title: Home & Family
-description: Everyday home, parenting, and family-focused resources.
+description: Home automation, recipes, and family services
 ---
 
 # Home & Family

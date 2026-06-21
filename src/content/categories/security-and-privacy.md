@@ -1,6 +1,6 @@
 ---
 title: Security & Privacy
-description: Privacy-focused services, security tools, and safe practices.
+description: Password managers, cybersecurity, and web privacy
 ---
 
 # Security & Privacy

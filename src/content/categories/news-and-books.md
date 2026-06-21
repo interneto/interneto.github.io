@@ -1,6 +1,6 @@
 ---
 title: News & Books
-description: News sources, blogs, digital gardens, libraries, and magazines.
+description: News, blogs, digital gardens, libraries, and magazines
 ---
 
 # News & Books

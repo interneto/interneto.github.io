@@ -1,6 +1,6 @@
 ---
 title: Travel & Location
-description: Maps, transport, travel planning, and location services.
+description: Maps, weather, travel agencies, and flights
 ---
 
 # Travel & Location

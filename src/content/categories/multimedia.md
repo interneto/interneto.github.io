@@ -1,6 +1,6 @@
 ---
 title: Multimedia
-description: Audio, photos, video, and creative media tools and sources.
+description: Audio & Music, Photos & Graphics, and Video & Movies
 ---
 
 # Multimedia

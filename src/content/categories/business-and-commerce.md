@@ -1,6 +1,6 @@
 ---
 title: Business & Commerce
-description: Online stores, marketplaces, product research, and resale platforms.
+description: Stores, marketplaces, product research, and resale
 ---
 
 # Business & Commerce

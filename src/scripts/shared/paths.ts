@@ -28,6 +28,7 @@ function detectJsonUrl(): string {
 export const PATHS = {
     BASE,
     CONFIG_URL: `${BASE}pkgs/config.json`,
+    TAXONOMY_URL: `${BASE}pkgs/taxonomy.json`,
     IMAGE_PATH: `${BASE}img/software/apps/`,
     FAV_PACKAGES_URL: `${BASE}pkgs/list/fav-packages.json`,
     JSON_URL: detectJsonUrl(),

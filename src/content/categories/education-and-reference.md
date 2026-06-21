@@ -1,6 +1,6 @@
 ---
 title: Education & Reference
-description: Courses, references, and learning platforms across topics.
+description: Courses, tutorials, dictionaries, encyclopedias, research papers, and note systems
 ---
 
 # Education & Reference

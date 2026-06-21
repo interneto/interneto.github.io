@@ -1,6 +1,6 @@
 ---
 title: Online Services
-description: Useful web services and cloud-based utilities.
+description: Search engines, web directories, software directories, corporations, and organizations
 ---
 
 # Online Services

@@ -1,6 +1,6 @@
 ---
 title: OS & Utilities
-description: Operating systems, system tools, hardware utilities, and CD/DVD tools.
+description: Operating systems, OS components, WMs, system tools, hardware utilities, and CD/DVD tools
 ---
 
 # OS & Utilities

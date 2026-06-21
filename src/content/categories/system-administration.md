@@ -1,6 +1,6 @@
 ---
 title: System Administration
-description: Admin tooling for servers, networking, and infrastructure.
+description: Servers, networking, terminals, virtualization, and remote desktop
 ---
 
 # System Administration

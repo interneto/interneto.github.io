@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "note": "Single source of truth for the category taxonomy. Nodes carry id, display name, emoji, optional children, and aliases (legacy category strings mapped to this node at runtime). Consumed by the site runtime (src/scripts/shared/data-loader.ts), the build (scripts/config/categories.js), and validation (scripts/validate-categories.js). Libraries are a separate axis and are NOT in this tree.",
+  "categories": [
+    { "id": "ai-tools-and-services", "name": "AI Tools & Services", "emoji": "🤖", "description": "Chatbots, GenAI, model platforms, and AI rankings", "aliases": ["AI"] },
+    { "id": "business-and-commerce", "name": "Business & Commerce", "emoji": "🏪", "description": "Stores, marketplaces, product research, and resale", "aliases": ["Shopping"] },
+    { "id": "development", "name": "Development", "emoji": "💻", "description": "Code editors, IDEs, hosting, frameworks, CMS, docs, and converters", "aliases": ["Developer Tools", "Languages", "Markdown and Docs", "Databases", "Formatting and Linting", "Utilities", "Web and Frontend", "DevOps and Cloud", "Remote Development"] },
+    { "id": "education-and-reference", "name": "Education & Reference", "emoji": "📚", "description": "Courses, tutorials, dictionaries, encyclopedias, research papers, and note systems", "aliases": ["Education", "Science", "Knowledge", "Learning"] },
+    { "id": "file-management", "name": "File Management", "emoji": "📁", "description": "File sharing, downloaders, torrents, and cloud storage", "aliases": [] },
+    { "id": "gaming", "name": "Gaming", "emoji": "🎮", "description": "Games, launchers, emulators, and gaming utilities", "aliases": [] },
+    { "id": "health-and-fitness", "name": "Health & Fitness", "emoji": "💪", "description": "Workouts, wellness, and health tracking", "aliases": [] },
+    { "id": "home-and-family", "name": "Home & Family", "emoji": "🏠", "description": "Home automation, recipes, and family services", "aliases": [] },
+    { "id": "money-and-finance", "name": "Money & Finance", "emoji": "💰", "description": "Banking, cryptocurrency, and financial tracking", "aliases": ["Financial assets"] },
+    {
+      "id": "multimedia", "name": "Multimedia", "emoji": "🎬", "description": "Audio & Music, Photos & Graphics, and Video & Movies", "aliases": [],
+      "children": [
+        { "id": "photos-and-graphics", "name": "Photos & Graphics", "emoji": "🖼️", "aliases": ["Image", "Design"] },
+        { "id": "audio-and-music", "name": "Audio & Music", "emoji": "🎵", "aliases": ["Audio"] },
+        { "id": "video-and-movies", "name": "Video & Movies", "emoji": "🎞️", "aliases": ["Video", "Media", "Streaming"] }
+      ]
+    },
+    { "id": "news-and-books", "name": "News & Books", "emoji": "📰", "description": "News, blogs, digital gardens, libraries, and magazines", "aliases": ["Reading"] },
+    { "id": "office-and-productivity", "name": "Office & Productivity", "emoji": "📊", "description": "Note-taking, task management, bookmarking, calculators, translators, and time tracking", "aliases": ["Office", "Productivity"] },
+    { "id": "online-services", "name": "Online Services", "emoji": "🌐", "description": "Search engines, web directories, software directories, corporations, and organizations", "aliases": ["Discovery"] },
+    { "id": "os-and-utilities", "name": "OS & Utilities", "emoji": "⚙️", "description": "Operating systems, OS components, WMs, system tools, hardware utilities, and CD/DVD tools", "aliases": ["System", "Utility"] },
+    { "id": "security-and-privacy", "name": "Security & Privacy", "emoji": "🔒", "description": "Password managers, cybersecurity, and web privacy", "aliases": ["Privacy and Security"] },
+    { "id": "social-and-communications", "name": "Social & Communications", "emoji": "💬", "description": "Email, messaging, forums, social networks, and video conferencing", "aliases": ["Internet & Communication", "Social", "Communication"] },
+    { "id": "system-administration", "name": "System Administration", "emoji": "🖥️", "description": "Servers, networking, terminals, virtualization, and remote desktop", "aliases": ["Virtualization"] },
+    { "id": "travel-and-location", "name": "Travel & Location", "emoji": "✈️", "description": "Maps, weather, travel agencies, and flights", "aliases": ["Maps", "Weather"] },
+    { "id": "web-browsers", "name": "Web Browsers", "emoji": "🌍", "description": "Browsers and browser-related tools", "aliases": ["Appearance"] }
+  ]
+}

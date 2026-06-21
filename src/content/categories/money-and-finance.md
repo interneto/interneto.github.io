@@ -1,6 +1,6 @@
 ---
 title: Money & Finance
-description: Financial platforms, banking, crypto, and money-related resources.
+description: Banking, cryptocurrency, and financial tracking
 ---
 
 # Money & Finance

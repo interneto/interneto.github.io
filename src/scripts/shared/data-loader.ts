@@ -5,7 +5,6 @@ import { PATHS } from './paths';
 
 interface ConfigFile {
     nonFossList: string[];
-    categoryEmojis: Record<string, string>;
     distroPrefixes: Record<string, string>;
     windowsNonWinget: WindowsNonWingetEntry[];
     libCategories: LibCategoriesConfig;
@@ -13,6 +12,16 @@ interface ConfigFile {
     libCompatTable: LibCompatTable;
     libIcons: LibIconsConfig;
 }
+
+export interface TaxonomyNode {
+    id: string;
+    name: string;
+    emoji?: string;
+    description?: string;
+    aliases?: string[];
+    children?: TaxonomyNode[];
+}
+interface TaxonomyFile { categories: TaxonomyNode[]; }
 
 export interface WindowsNonWingetEntry { id: string; name: string; }
 export interface LibCategoriesConfig {
@@ -39,6 +48,8 @@ export interface LibIconsConfig {
 
 let nonFossList: string[] = [];
 let categoryEmojis: Record<string, string> = {};
+let taxonomyNodes: TaxonomyNode[] = [];
+let aliasToName: Map<string, string> = new Map();
 let distroPrefixes: Record<string, string> = {};
 let windowsNonWinget: WindowsNonWingetEntry[] = [];
 let libCategories: LibCategoriesConfig = { base: [], icons: {} };
@@ -52,27 +63,53 @@ let libIcons: LibIconsConfig = {
 
 let initPromise: Promise<void> | null = null;
 
+async function fetchJson<T>(url: string, label: string): Promise<T> {
+    const res = await fetch(url);
+    if (!res.ok) throw new Error(`Failed to load ${label}: ${res.statusText}`);
+    return res.json() as Promise<T>;
+}
+
+// Flatten the taxonomy tree and build lookup maps: every node's name, id, and
+// aliases resolve to that node's display name; every node name carries an emoji.
+// Children (e.g. Multimedia sons) are leaf nodes — items resolve to the most
+// specific node, so grouping rolls up by son, not parent.
+function buildTaxonomyMaps(nodes: TaxonomyNode[]): void {
+    aliasToName = new Map();
+    categoryEmojis = {};
+    const walk = (node: TaxonomyNode) => {
+        if (node.emoji) categoryEmojis[node.name] = node.emoji;
+        for (const key of [node.name, node.id, ...(node.aliases ?? [])]) {
+            aliasToName.set(key, node.name);
+        }
+        node.children?.forEach(walk);
+    };
+    nodes.forEach(walk);
+}
+
 export function initConfigData(): Promise<void> {
     if (initPromise) return initPromise;
-    initPromise = fetch(PATHS.CONFIG_URL)
-        .then((res) => {
-            if (!res.ok) {
-                throw new Error(`Failed to load config.json: ${res.statusText}`);
-            }
-            return res.json() as Promise<ConfigFile>;
-        })
-        .then((config) => {
-            nonFossList = config.nonFossList;
-            categoryEmojis = config.categoryEmojis;
-            distroPrefixes = config.distroPrefixes;
-            windowsNonWinget = config.windowsNonWinget;
-            libCategories = config.libCategories;
-            vscodeExtensionsMeta = config.vscodeExtensionsMeta;
-            libCompatTable = config.libCompatTable;
-            libIcons = config.libIcons;
-        });
+    initPromise = Promise.all([
+        fetchJson<ConfigFile>(PATHS.CONFIG_URL, 'config.json'),
+        fetchJson<TaxonomyFile>(PATHS.TAXONOMY_URL, 'taxonomy.json'),
+    ]).then(([config, taxonomy]) => {
+        nonFossList = config.nonFossList;
+        distroPrefixes = config.distroPrefixes;
+        windowsNonWinget = config.windowsNonWinget;
+        libCategories = config.libCategories;
+        vscodeExtensionsMeta = config.vscodeExtensionsMeta;
+        libCompatTable = config.libCompatTable;
+        libIcons = config.libIcons;
+        taxonomyNodes = taxonomy.categories;
+        buildTaxonomyMaps(taxonomyNodes);
+    });
     return initPromise;
 }
+
+/** Resolve a legacy category string (or id/name) to its taxonomy display name. */
+export const resolveCategoryName = (legacy: string): string =>
+    aliasToName.get(legacy) ?? legacy;
+
+export const getTaxonomy = (): TaxonomyNode[] => taxonomyNodes;
 
 export const getNonFossList = (): string[] => nonFossList;
 export const getCategoryEmojis = (): Record<string, string> => categoryEmojis;

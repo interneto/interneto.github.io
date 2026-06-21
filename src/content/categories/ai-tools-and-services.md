@@ -1,6 +1,6 @@
 ---
 title: AI Tools & Services
-description: Practical AI tools, assistants, and services for daily workflows.
+description: Chatbots, GenAI, model platforms, and AI rankings
 ---
 
 # AI Tools & Services

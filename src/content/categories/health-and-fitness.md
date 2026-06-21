@@ -1,6 +1,6 @@
 ---
 title: Health & Fitness
-description: Resources for workouts, wellness, and healthy habits.
+description: Workouts, wellness, and health tracking
 ---
 
 # Health & Fitness

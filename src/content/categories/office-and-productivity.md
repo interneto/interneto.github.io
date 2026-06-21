@@ -1,6 +1,6 @@
 ---
 title: Office & Productivity
-description: Productivity suites, note-taking, planning, and office tools.
+description: Note-taking, task management, bookmarking, calculators, translators, and time tracking
 ---
 
 # Office & Productivity

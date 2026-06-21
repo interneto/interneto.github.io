@@ -1,54 +1,23 @@
 /**
- * Category Mapping — Toolbox → Taxonomy
+ * Category Mapping — legacy toolbox category → taxonomy display name.
  *
- * Maps legacy toolbox category strings to the 19-category standard taxonomy.
- * Used at runtime so JSON data doesn't need immediate migration.
+ * The mapping table now lives in the single source of truth
+ * (public/pkgs/taxonomy.json, each node's `aliases`), loaded at runtime by
+ * data-loader. This module is a thin wrapper kept for call-site stability.
+ * `initConfigData()` must resolve before these are used.
  *
  * Canonical reference: docs/taxonomy.md
  */
 
-export const TOOLBOX_TO_TAXONOMY: Record<string, string> = {
-  // Desktop packages
-  'File Management': 'File Management',
-  'Internet & Communication': 'Social & Communications',
-  'Utility': 'OS & Utilities',
-  'Office': 'Office & Productivity',
-  'Development': 'Development',
-  'Gaming': 'Gaming',
-  'Audio': 'Multimedia',
-  'Video': 'Multimedia',
-  'Image': 'Multimedia',
-  'System': 'OS & Utilities',
-  'Virtualization': 'System Administration',
-  'Reading': 'Education & Reference',
-  'Science': 'Education & Reference',
-  'Education': 'Education & Reference',
-
-  // Browser extensions
-  'Privacy and Security': 'Security & Privacy',
-  'Appearance': 'Web Browsers',
-  'Productivity': 'Office & Productivity',
-  'Developer Tools': 'Development',
-  'Media': 'Multimedia',
-
-  // VS Code extensions
-  'AI': 'AI Tools & Services',
-  'Languages': 'Development',
-  'Markdown and Docs': 'Development',
-  'Databases': 'Development',
-  'Formatting and Linting': 'Development',
-  'Utilities': 'Development',
-  'Web and Frontend': 'Development',
-  'DevOps and Cloud': 'Development',
-  'Remote Development': 'Development',
-};
+import { resolveCategoryName } from './data-loader';
 
 /**
- * Translate a legacy toolbox category to its taxonomy name.
+ * Translate a legacy toolbox category to its taxonomy display name
+ * (the most specific node — e.g. "Image" → "Photos & Graphics").
  * Returns the original string if no mapping exists.
  */
 export function mapCategory(toolboxCategory: string): string {
-  return TOOLBOX_TO_TAXONOMY[toolboxCategory] ?? toolboxCategory;
+  return resolveCategoryName(toolboxCategory);
 }
 
 /**

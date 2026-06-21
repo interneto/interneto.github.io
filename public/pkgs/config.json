@@ -30,27 +30,6 @@
     "xnview",
     "zoom"
   ],
-  "categoryEmojis": {
-    "AI Tools & Services": "🤖",
-    "Business & Commerce": "🏪",
-    "Development": "💻",
-    "Education & Reference": "📚",
-    "File Management": "📁",
-    "Gaming": "🎮",
-    "Health & Fitness": "💪",
-    "Home & Family": "🏠",
-    "Money & Finance": "💰",
-    "Multimedia": "🎬",
-    "News & Books": "📰",
-    "Office & Productivity": "📊",
-    "Online Services": "🌐",
-    "OS & Utilities": "⚙️",
-    "Security & Privacy": "🔒",
-    "Social & Communications": "💬",
-    "System Administration": "🖥️",
-    "Travel & Location": "✈️",
-    "Web Browsers": "🌍"
-  },
   "distroPrefixes": {
     "linux_arch_pacman": "sudo pacman -S",
     "linux_debian_apt": "sudo apt install",

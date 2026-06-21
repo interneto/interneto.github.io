@@ -1,6 +1,6 @@
 ---
 title: Social & Communications
-description: Communication tools for messaging, calls, and collaboration.
+description: Email, messaging, forums, social networks, and video conferencing
 ---
 
 # Social & Communications

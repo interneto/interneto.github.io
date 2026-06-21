@@ -1,6 +1,6 @@
 ---
 title: Development
-description: Development tools, docs, hosting, and programming resources.
+description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 ---
 
 # Development

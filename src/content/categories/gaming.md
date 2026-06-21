@@ -1,6 +1,6 @@
 ---
 title: Gaming
-description: Games, emulation, launchers, and gaming utilities.
+description: Games, launchers, emulators, and gaming utilities
 ---
 
 # Gaming

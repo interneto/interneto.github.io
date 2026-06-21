@@ -1,6 +1,6 @@
 ---
 title: Web Browsers
-description: Browsers and browser-related tools and extensions.
+description: Browsers and browser-related tools
 ---
 
 # Web Browsers

@@ -2,6 +2,7 @@
 
 > **Status**: Active. This is the canonical taxonomy for the Interneto website.
 > **Last updated**: 2026-06-21
+> **Machine-readable source**: [`public/pkgs/taxonomy.json`](../public/pkgs/taxonomy.json) — the runtime (`src/scripts/shared/data-loader.ts`), the content build (`scripts/config/categories.js`), and validation (`scripts/validate-categories.js`) all derive from it. Legacy toolbox category strings are mapped to nodes via each node's `aliases`. This doc is the human narrative; the JSON is authoritative.
 > **Conventions reference**: `../ai-bookmarks-classification/CONVENTIONS.md`
 
 ## Why one taxonomy

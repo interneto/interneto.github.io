@@ -1,6 +1,6 @@
 ---
 title: File Management
-description: File tools for storage, sharing, transfer, and organization.
+description: File sharing, downloaders, torrents, and cloud storage
 ---
 
 # File Management

@@ -5,6 +5,9 @@
 //   extension-store  → is a storefront for browser extensions
 // No tag = pure web.
 
+import { initConfigData } from '../shared/data-loader';
+import { mapCategory } from '../shared/category-mapping';
+
 type Tag = 'desktop' | 'mobile' | 'extension-store';
 
 const VALID_TAGS: readonly Tag[] = ['desktop', 'mobile', 'extension-store'];
@@ -207,13 +210,14 @@ function applyFilters(entries: DirectoryEntry[]): void {
 async function loadDirectoryData(): Promise<DirectoryEntry[]> {
     const config = await fetchJson<DirectoryConfig>(`${BASE}pkgs/web-directory.json`);
     return (config.entries ?? [])
-        .map((entry) => ({ ...entry, tags: sanitizeTags(entry.tags) }))
+        .map((entry) => ({ ...entry, category: mapCategory(entry.category), tags: sanitizeTags(entry.tags) }))
         .sort((a, b) => a.category.localeCompare(b.category) || a.name.localeCompare(b.name));
 }
 
 async function init(): Promise<void> {
     if (!tableBody) return;
     try {
+        await initConfigData();
         const entries = await loadDirectoryData();
         renderRows(entries);
 
