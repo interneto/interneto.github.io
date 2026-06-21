@@ -44,7 +44,8 @@ export function generatePackages(packagesData: PackagesData): void {
 
     // Derive taxonomy categories from actual package data (via mapping layer)
     const legacyCategories = [...new Set(Object.values(packagesData.packages).map(p => p.category))];
-    const categories = getUniqueTaxonomyCategories(legacyCategories);
+    const categories = getUniqueTaxonomyCategories(legacyCategories)
+        .sort((a, b) => a.toLowerCase().localeCompare(b.toLowerCase()));
 
     const categorySections = categories.map(category => createCategorySection(category, packagesData));
     renderCategoryColumns(packageContainer, categorySections);
