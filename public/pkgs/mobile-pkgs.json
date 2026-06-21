@@ -2,7 +2,7 @@
   "packages": {
     "aliexpress": {
       "name": "AliExpress",
-      "category": "Office",
+      "category": "business-and-commerce",
       "subcategory": "Shopping",
       "package_manager": {
         "android_pkg": "com.alibaba.aliexpresshd",
@@ -11,8 +11,8 @@
     },
     "authenticator": {
       "name": "Authenticator",
-      "category": "Utility",
-      "subcategory": "Security",
+      "category": "os-and-utilities",
+      "subcategory": "",
       "package_manager": {
         "android_pkg": "com.google.android.apps.authenticator2",
         "ios_pkg": "google-authenticator/id388497605"
@@ -20,8 +20,8 @@
     },
     "bbva": {
       "name": "BBVA",
-      "category": "Office",
-      "subcategory": "Finance",
+      "category": "money-and-finance",
+      "subcategory": "Finance Manager",
       "package_manager": {
         "android_pkg": "com.bbva.bbvacontigo",
         "ios_pkg": "bbva-spain/id325813155"
@@ -29,7 +29,7 @@
     },
     "bitwarden": {
       "name": "Bitwarden",
-      "category": "Utility",
+      "category": "security-and-privacy",
       "subcategory": "Password Manager",
       "package_manager": {
         "android_pkg": "com.x8bit.bitwarden",
@@ -38,8 +38,8 @@
     },
     "bring": {
       "name": "Bring!",
-      "category": "Office",
-      "subcategory": "Shopping List",
+      "category": "business-and-commerce",
+      "subcategory": "Shopping",
       "package_manager": {
         "android_pkg": "ch.publisheria.bring",
         "ios_pkg": "bring-shopping-list-recipes/id580669177"
@@ -47,7 +47,7 @@
     },
     "carpeta-ciudadana": {
       "name": "Carpeta Ciudadana",
-      "category": "Office",
+      "category": "online-services",
       "subcategory": "Government",
       "package_manager": {
         "android_pkg": "es.gob.carpetaciudadana",
@@ -56,7 +56,7 @@
     },
     "chatgpt": {
       "name": "ChatGPT",
-      "category": "Development",
+      "category": "development",
       "subcategory": "AI Assistant",
       "package_manager": {
         "android_pkg": "com.openai.chatgpt",
@@ -65,7 +65,7 @@
     },
     "chess-com": {
       "name": "Chess.com",
-      "category": "Gaming",
+      "category": "gaming",
       "subcategory": "Board Games",
       "package_manager": {
         "android_pkg": "com.chess",
@@ -74,7 +74,7 @@
     },
     "chess-prince": {
       "name": "Chess Prince",
-      "category": "Gaming",
+      "category": "gaming",
       "subcategory": "Board Games",
       "package_manager": {
         "android_pkg": "com.jetstartgames.chess",
@@ -83,7 +83,7 @@
     },
     "chrome": {
       "name": "Google Chrome",
-      "category": "Internet & Communication",
+      "category": "web-browsers",
       "subcategory": "Web Browser",
       "package_manager": {
         "android_pkg": "com.android.chrome",
@@ -92,7 +92,7 @@
     },
     "clave": {
       "name": "Cl@ve",
-      "category": "Office",
+      "category": "online-services",
       "subcategory": "Government",
       "package_manager": {
         "android_pkg": "es.aeat.pin24h",
@@ -101,8 +101,8 @@
     },
     "cloudflare-1111": {
       "name": "1.1.1.1",
-      "category": "Utility",
-      "subcategory": "Security",
+      "category": "os-and-utilities",
+      "subcategory": "",
       "package_manager": {
         "android_pkg": "com.cloudflare.onedotonedotonedotone",
         "ios_pkg": "cl-ve/id842624380"
@@ -110,7 +110,7 @@
     },
     "comaps": {
       "name": "CoMaps",
-      "category": "Internet & Communication",
+      "category": "travel-and-location",
       "subcategory": "Maps",
       "package_manager": {
         "android_pkg": "app.comaps.google",
@@ -119,7 +119,7 @@
     },
     "cpu-info": {
       "name": "CPU Info",
-      "category": "System",
+      "category": "os-and-utilities",
       "subcategory": "Device Info",
       "package_manager": {
         "android_pkg": "com.ytheekshana.deviceinfo",
@@ -128,7 +128,7 @@
     },
     "deepl": {
       "name": "DeepL",
-      "category": "Office",
+      "category": "office-and-productivity",
       "subcategory": "Translation",
       "package_manager": {
         "android_pkg": "com.deepl.mobiletranslator",
@@ -137,7 +137,7 @@
     },
     "firefox": {
       "name": "Firefox",
-      "category": "Internet & Communication",
+      "category": "web-browsers",
       "subcategory": "Web Browser",
       "package_manager": {
         "android_pkg": "org.mozilla.firefox",
@@ -146,7 +146,7 @@
     },
     "fitotrack": {
       "name": "FitoTrack",
-      "category": "Utility",
+      "category": "health-and-fitness",
       "subcategory": "Fitness",
       "package_manager": {
         "android_pkg": "de.tadris.fitness",
@@ -155,8 +155,8 @@
     },
     "folo": {
       "name": "Folo",
-      "category": "Reading",
-      "subcategory": "RSS",
+      "category": "news-and-books",
+      "subcategory": "RSS Reader",
       "package_manager": {
         "android_pkg": "",
         "ios_pkg": ""
@@ -164,8 +164,8 @@
     },
     "fosswallet": {
       "name": "FossWallet",
-      "category": "Office",
-      "subcategory": "Finance",
+      "category": "money-and-finance",
+      "subcategory": "Finance Manager",
       "package_manager": {
         "android_pkg": "",
         "ios_pkg": ""
@@ -173,7 +173,7 @@
     },
     "freepik": {
       "name": "Freepik",
-      "category": "Image",
+      "category": "photos-and-graphics",
       "subcategory": "Design Assets",
       "package_manager": {
         "android_pkg": "com.freepikcompany.freepik",
@@ -182,7 +182,7 @@
     },
     "github": {
       "name": "GitHub",
-      "category": "Development",
+      "category": "development",
       "subcategory": "Code Hosting",
       "package_manager": {
         "android_pkg": "com.github.android",
@@ -191,7 +191,7 @@
     },
     "gmail": {
       "name": "Gmail",
-      "category": "Internet & Communication",
+      "category": "social-and-communications",
       "subcategory": "Email",
       "package_manager": {
         "android_pkg": "com.google.android.gm",
@@ -200,7 +200,7 @@
     },
     "google-calendar": {
       "name": "Google Calendar",
-      "category": "Office",
+      "category": "office-and-productivity",
       "subcategory": "Calendar",
       "package_manager": {
         "android_pkg": "com.google.android.calendar",
@@ -209,7 +209,7 @@
     },
     "google-drive": {
       "name": "Google Drive",
-      "category": "Office",
+      "category": "file-management",
       "subcategory": "Cloud Storage",
       "package_manager": {
         "android_pkg": "com.google.android.apps.docs",
@@ -218,7 +218,7 @@
     },
     "google-ai-edge-gallery": {
       "name": "Google Edge Gallery",
-      "category": "Image",
+      "category": "photos-and-graphics",
       "subcategory": "Gallery",
       "package_manager": {
         "android_pkg": "",
@@ -227,7 +227,7 @@
     },
     "google-files": {
       "name": "Files by Google",
-      "category": "Utility",
+      "category": "file-management",
       "subcategory": "File Manager",
       "package_manager": {
         "android_pkg": "com.google.android.apps.nbu.files",
@@ -236,7 +236,7 @@
     },
     "google-maps": {
       "name": "Google Maps",
-      "category": "Internet & Communication",
+      "category": "travel-and-location",
       "subcategory": "Maps",
       "package_manager": {
         "android_pkg": "com.google.android.apps.maps",
@@ -245,7 +245,7 @@
     },
     "google-photos": {
       "name": "Google Photos",
-      "category": "Image",
+      "category": "photos-and-graphics",
       "subcategory": "Photo Backup",
       "package_manager": {
         "android_pkg": "com.google.android.apps.photos",
@@ -254,7 +254,7 @@
     },
     "google-translate": {
       "name": "Google Translate",
-      "category": "Office",
+      "category": "office-and-productivity",
       "subcategory": "Translation",
       "package_manager": {
         "android_pkg": "com.google.android.apps.translate",
@@ -263,7 +263,7 @@
     },
     "google-weather": {
       "name": "Google Weather",
-      "category": "Utility",
+      "category": "travel-and-location",
       "subcategory": "Weather",
       "package_manager": {
         "android_pkg": "com.google.android.apps.weather",
@@ -272,7 +272,7 @@
     },
     "gpx-viewer": {
       "name": "GPX Viewer",
-      "category": "Internet & Communication",
+      "category": "travel-and-location",
       "subcategory": "Maps",
       "package_manager": {
         "android_pkg": "com.vecturagames.android.app.gpxviewer",
@@ -281,8 +281,8 @@
     },
     "guitar-tuner": {
       "name": "Guitar Tuna",
-      "category": "Audio",
-      "subcategory": "Music Tools",
+      "category": "audio-and-music",
+      "subcategory": "Audio Processing",
       "package_manager": {
         "android_pkg": "com.sonkins.tguitar",
         "ios_pkg": "guitar-tuner-liketones/id6449972752"
@@ -290,8 +290,8 @@
     },
     "guitartuna": {
       "name": "Guitar Tuna",
-      "category": "Audio",
-      "subcategory": "Music Tools",
+      "category": "audio-and-music",
+      "subcategory": "Audio Processing",
       "package_manager": {
         "android_pkg": "com.ovelin.guitartuna",
         "ios_pkg": "guitartuna-afinador-acordes/id527588389"
@@ -299,7 +299,7 @@
     },
     "hyper-calc-pro": {
       "name": "Hyper Calc Pro",
-      "category": "Science",
+      "category": "office-and-productivity",
       "subcategory": "Calculator",
       "package_manager": {
         "android_pkg": "",
@@ -308,7 +308,7 @@
     },
     "instagram": {
       "name": "Instagram",
-      "category": "Internet & Communication",
+      "category": "social-and-communications",
       "subcategory": "Social",
       "package_manager": {
         "android_pkg": "com.instagram.android",
@@ -317,7 +317,7 @@
     },
     "keepassxd": {
       "name": "KeePassDX",
-      "category": "Utility",
+      "category": "security-and-privacy",
       "subcategory": "Password Manager",
       "package_manager": {
         "android_pkg": "com.kunzisoft.keepass.libre",
@@ -326,7 +326,7 @@
     },
     "kiwi-browser": {
       "name": "Kiwi Browser",
-      "category": "Internet & Communication",
+      "category": "web-browsers",
       "subcategory": "Web Browser",
       "package_manager": {
         "android_pkg": "com.kiwibrowser.browser",
@@ -335,8 +335,8 @@
     },
     "knots-3d": {
       "name": "Knots 3D",
-      "category": "Science",
-      "subcategory": "Learning",
+      "category": "education-and-reference",
+      "subcategory": "",
       "package_manager": {
         "android_pkg": "com.nynix.knots3d",
         "ios_pkg": "knots-3d/id453571750"
@@ -344,7 +344,7 @@
     },
     "lawnchair": {
       "name": "Lawnchair",
-      "category": "System",
+      "category": "os-and-utilities",
       "subcategory": "Launcher",
       "package_manager": {
         "android_pkg": "app.lawnchair",
@@ -353,7 +353,7 @@
     },
     "libretube": {
       "name": "LibreTube",
-      "category": "Video",
+      "category": "video-and-movies",
       "subcategory": "Streaming",
       "package_manager": {
         "android_pkg": "com.github.libretube",
@@ -362,7 +362,7 @@
     },
     "linkedin": {
       "name": "LinkedIn",
-      "category": "Internet & Communication",
+      "category": "social-and-communications",
       "subcategory": "Professional Network",
       "package_manager": {
         "android_pkg": "com.linkedin.android",
@@ -371,7 +371,7 @@
     },
     "localsend": {
       "name": "LocalSend",
-      "category": "Utility",
+      "category": "file-management",
       "subcategory": "File Transfer",
       "package_manager": {
         "android_pkg": "org.localsend.localsend_app",
@@ -380,7 +380,7 @@
     },
     "material-files": {
       "name": "Material Files",
-      "category": "Utility",
+      "category": "file-management",
       "subcategory": "File Manager",
       "package_manager": {
         "android_pkg": "me.zhanghai.android.files",
@@ -389,7 +389,7 @@
     },
     "mega": {
       "name": "MEGA",
-      "category": "Office",
+      "category": "file-management",
       "subcategory": "Cloud Storage",
       "package_manager": {
         "android_pkg": "mega.privacy.android.app",
@@ -398,8 +398,8 @@
     },
     "mobilesheets": {
       "name": "MobileSheets",
-      "category": "Audio",
-      "subcategory": "Sheet Music",
+      "category": "audio-and-music",
+      "subcategory": "Music Notation",
       "package_manager": {
         "android_pkg": "com.zubersoft.mobilesheets",
         "ios_pkg": ""
@@ -407,7 +407,7 @@
     },
     "mpvkit": {
       "name": "MPVKit",
-      "category": "Video",
+      "category": "video-and-movies",
       "subcategory": "Media Player",
       "package_manager": {
         "android_pkg": "",
@@ -416,7 +416,7 @@
     },
     "mullvad": {
       "name": "Mullvad VPN",
-      "category": "Internet & Communication",
+      "category": "security-and-privacy",
       "subcategory": "VPN",
       "package_manager": {
         "android_pkg": "net.mullvad.mullvadvpn",
@@ -425,8 +425,8 @@
     },
     "musicolet": {
       "name": "Musicolet",
-      "category": "Audio",
-      "subcategory": "Music Player",
+      "category": "audio-and-music",
+      "subcategory": "Audio Player",
       "package_manager": {
         "android_pkg": "in.krosbits.musicolet",
         "ios_pkg": ""
@@ -434,7 +434,7 @@
     },
     "myrecipebox": {
       "name": "MyRecipeBox",
-      "category": "Office",
+      "category": "home-and-family",
       "subcategory": "Recipes",
       "package_manager": {
         "android_pkg": "",
@@ -443,7 +443,7 @@
     },
     "newpipe": {
       "name": "NewPipe",
-      "category": "Video",
+      "category": "video-and-movies",
       "subcategory": "Streaming",
       "package_manager": {
         "android_pkg": "org.schabi.newpipe",
@@ -452,8 +452,8 @@
     },
     "obsidian": {
       "name": "Obsidian",
-      "category": "Office",
-      "subcategory": "Notes",
+      "category": "office-and-productivity",
+      "subcategory": "Note Taking",
       "package_manager": {
         "android_pkg": "md.obsidian",
         "ios_pkg": "obsidian-connected-notes/id1557175442"
@@ -461,7 +461,7 @@
     },
     "outlook": {
       "name": "Outlook",
-      "category": "Internet & Communication",
+      "category": "social-and-communications",
       "subcategory": "Email",
       "package_manager": {
         "android_pkg": "com.microsoft.office.outlook",
@@ -470,8 +470,8 @@
     },
     "pcacpdroid": {
       "name": "PCAPdroid",
-      "category": "System",
-      "subcategory": "Network Analysis",
+      "category": "system-administration",
+      "subcategory": "Network Analyzer",
       "package_manager": {
         "android_pkg": "com.emanuelef.remote_capture",
         "ios_pkg": ""
@@ -479,7 +479,7 @@
     },
     "periodic-table": {
       "name": "Periodic Table",
-      "category": "Science",
+      "category": "education-and-reference",
       "subcategory": "Chemistry",
       "package_manager": {
         "android_pkg": "mendeleev.redlime",
@@ -488,8 +488,8 @@
     },
     "piano-companion": {
       "name": "Piano Companion",
-      "category": "Audio",
-      "subcategory": "Music Theory",
+      "category": "audio-and-music",
+      "subcategory": "Music Notation",
       "package_manager": {
         "android_pkg": "com.songtive.pianocompanion",
         "ios_pkg": ""
@@ -497,7 +497,7 @@
     },
     "protonmail": {
       "name": "Proton Mail",
-      "category": "Internet & Communication",
+      "category": "social-and-communications",
       "subcategory": "Email",
       "package_manager": {
         "android_pkg": "ch.protonmail.android",
@@ -506,8 +506,8 @@
     },
     "raindrop-io": {
       "name": "Raindrop.io",
-      "category": "Internet & Communication",
-      "subcategory": "Bookmarks",
+      "category": "office-and-productivity",
+      "subcategory": "Bookmark Manager",
       "package_manager": {
         "android_pkg": "io.raindrop.raindropio",
         "ios_pkg": ""
@@ -515,7 +515,7 @@
     },
     "readera": {
       "name": "ReadEra Premium",
-      "category": "Reading",
+      "category": "news-and-books",
       "subcategory": "Ebook Reader",
       "package_manager": {
         "android_pkg": "org.readera.premium",
@@ -524,7 +524,7 @@
     },
     "revanced-manager": {
       "name": "Vanced Manager",
-      "category": "Video",
+      "category": "video-and-movies",
       "subcategory": "Streaming",
       "package_manager": {
         "android_pkg": "com.vanced.manager",
@@ -533,8 +533,8 @@
     },
     "sd-maid-2": {
       "name": "SD Maid 2",
-      "category": "System",
-      "subcategory": "Device Cleanup",
+      "category": "os-and-utilities",
+      "subcategory": "System Cleaner",
       "package_manager": {
         "android_pkg": "eu.darken.sdmse",
         "ios_pkg": ""
@@ -542,7 +542,7 @@
     },
     "sefirah": {
       "name": "Sefirah",
-      "category": "Science",
+      "category": "education-and-reference",
       "subcategory": "Astronomy",
       "package_manager": {
         "android_pkg": "",
@@ -551,7 +551,7 @@
     },
     "spotify": {
       "name": "Spotify",
-      "category": "Audio",
+      "category": "audio-and-music",
       "subcategory": "Music Streaming",
       "package_manager": {
         "android_pkg": "com.spotify.music",
@@ -560,7 +560,7 @@
     },
     "star-walk-2": {
       "name": "Star Walk",
-      "category": "Science",
+      "category": "education-and-reference",
       "subcategory": "Astronomy",
       "package_manager": {
         "android_pkg": "com.vitotechnology.StarWalk2",
@@ -569,7 +569,7 @@
     },
     "steam": {
       "name": "Steam",
-      "category": "Gaming",
+      "category": "gaming",
       "subcategory": "Game Platform",
       "package_manager": {
         "android_pkg": "com.valvesoftware.android.steam.community",
@@ -578,7 +578,7 @@
     },
     "stellarium": {
       "name": "Stellarium",
-      "category": "Science",
+      "category": "education-and-reference",
       "subcategory": "Astronomy",
       "package_manager": {
         "android_pkg": "com.noctuasoftware.stellarium_free",
@@ -587,7 +587,7 @@
     },
     "stremio": {
       "name": "Stremio",
-      "category": "Video",
+      "category": "video-and-movies",
       "subcategory": "Streaming",
       "package_manager": {
         "android_pkg": "com.stremio.one",
@@ -596,7 +596,7 @@
     },
     "sun-surveyor": {
       "name": "Sun Surveyor",
-      "category": "Science",
+      "category": "education-and-reference",
       "subcategory": "Astronomy",
       "package_manager": {
         "android_pkg": "com.ratana.sunsurveyor",
@@ -605,7 +605,7 @@
     },
     "telegram": {
       "name": "telegram",
-      "category": "Internet & Communication",
+      "category": "social-and-communications",
       "subcategory": "Messaging",
       "package_manager": {
         "android_pkg": "org.telegram.messenger",
@@ -614,8 +614,8 @@
     },
     "ticktick": {
       "name": "TickTick",
-      "category": "Office",
-      "subcategory": "Productivity",
+      "category": "office-and-productivity",
+      "subcategory": "",
       "package_manager": {
         "android_pkg": "com.ticktick.task",
         "ios_pkg": "ticktick-things-to-do-list/id626144601"
@@ -623,7 +623,7 @@
     },
     "tiktok": {
       "name": "TikTok",
-      "category": "Internet & Communication",
+      "category": "social-and-communications",
       "subcategory": "Social",
       "package_manager": {
         "android_pkg": "com.zhiliaoapp.musically",
@@ -632,8 +632,8 @@
     },
     "trakt": {
       "name": "Trakt",
-      "category": "Video",
-      "subcategory": "Tracking",
+      "category": "video-and-movies",
+      "subcategory": "",
       "package_manager": {
         "android_pkg": "tv.trakt.trakt",
         "ios_pkg": ""
@@ -641,7 +641,7 @@
     },
     "vlc": {
       "name": "VLC",
-      "category": "Video",
+      "category": "video-and-movies",
       "subcategory": "Media Player",
       "package_manager": {
         "android_pkg": "org.videolan.vlc",
@@ -650,7 +650,7 @@
     },
     "weawow": {
       "name": "Weawow",
-      "category": "Utility",
+      "category": "travel-and-location",
       "subcategory": "Weather",
       "package_manager": {
         "android_pkg": "com.weawow",
@@ -659,8 +659,8 @@
     },
     "wikiloc": {
       "name": "Wikiloc",
-      "category": "Internet & Communication",
-      "subcategory": "Outdoor Maps",
+      "category": "travel-and-location",
+      "subcategory": "Maps",
       "package_manager": {
         "android_pkg": "com.wikiloc.wikilocandroid",
         "ios_pkg": "wikiloc-outdoor-navigation-gps/id408684376"
@@ -668,7 +668,7 @@
     },
     "wikipedia": {
       "name": "Wikipedia",
-      "category": "Reading",
+      "category": "education-and-reference",
       "subcategory": "Encyclopedia",
       "package_manager": {
         "android_pkg": "org.wikipedia",
@@ -677,7 +677,7 @@
     },
     "wolfram-alpha": {
       "name": "Wolfram Alpha",
-      "category": "Science",
+      "category": "office-and-productivity",
       "subcategory": "Calculator",
       "package_manager": {
         "android_pkg": "com.wolfram.android.alpha",
@@ -686,7 +686,7 @@
     },
     "x": {
       "name": "X",
-      "category": "Internet & Communication",
+      "category": "social-and-communications",
       "subcategory": "Social",
       "package_manager": {
         "android_pkg": "com.twitter.android",
@@ -695,7 +695,7 @@
     },
     "xodo": {
       "name": "Xodo PDF",
-      "category": "Reading",
+      "category": "news-and-books",
       "subcategory": "PDF Reader",
       "package_manager": {
         "android_pkg": "com.xodo.pdf.reader",
@@ -704,7 +704,7 @@
     },
     "youtube": {
       "name": "YouTube",
-      "category": "Video",
+      "category": "video-and-movies",
       "subcategory": "Streaming",
       "package_manager": {
         "android_pkg": "com.google.android.youtube",
@@ -713,7 +713,7 @@
     },
     "youtube-music": {
       "name": "YouTube Music",
-      "category": "Audio",
+      "category": "audio-and-music",
       "subcategory": "Music Streaming",
       "package_manager": {
         "android_pkg": "com.google.android.apps.youtube.music",
@@ -722,7 +722,7 @@
     },
     "zen-iptv": {
       "name": "Zen IPTV",
-      "category": "Video",
+      "category": "video-and-movies",
       "subcategory": "Streaming",
       "package_manager": {
         "android_pkg": "",
@@ -731,7 +731,7 @@
     },
     "zepp": {
       "name": "Zepp",
-      "category": "Utility",
+      "category": "health-and-fitness",
       "subcategory": "Fitness",
       "package_manager": {
         "android_pkg": "com.huami.watch.hmwatchmanager",

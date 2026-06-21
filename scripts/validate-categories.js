@@ -13,13 +13,18 @@ import { fileURLToPath } from 'node:url'
 const root = resolve(dirname(fileURLToPath(import.meta.url)), '..')
 const read = (p) => JSON.parse(readFileSync(resolve(root, p), 'utf8'))
 
-// Build the set of accepted category strings from the taxonomy tree.
+// Build, from the taxonomy tree: the set of accepted category strings
+// (name/id/aliases) and, per node, the set of subcategories it owns.
 const taxonomy = read('public/pkgs/taxonomy.json')
 const accepted = new Set()
+const subsByCategory = new Map() // accepted category string -> Set of its subcategories
 const walk = (node) => {
-  accepted.add(node.name)
-  accepted.add(node.id)
-  for (const a of node.aliases ?? []) accepted.add(a)
+  const keys = [node.name, node.id, ...(node.aliases ?? [])]
+  const subs = new Set(node.subcategories ?? [])
+  for (const k of keys) {
+    accepted.add(k)
+    subsByCategory.set(k, subs)
+  }
   node.children?.forEach(walk)
 }
 taxonomy.categories.forEach(walk)
@@ -33,7 +38,8 @@ const CATALOGS = [
   ['public/pkgs/web-directory.json', 'entries'],
 ]
 
-const unmapped = new Map() // category -> count
+const unmapped = new Map()   // category -> count
+const badSubcat = new Map()  // "category › subcategory" -> count
 
 for (const [file, key] of CATALOGS) {
   const data = read(file)
@@ -41,19 +47,36 @@ for (const [file, key] of CATALOGS) {
   const items = Array.isArray(container) ? container : Object.values(container ?? {})
   for (const item of items) {
     const cat = item?.category
-    if (cat && !accepted.has(cat)) {
+    if (!cat) continue
+    if (!accepted.has(cat)) {
       unmapped.set(cat, (unmapped.get(cat) ?? 0) + 1)
+      continue
+    }
+    const sub = (item.subcategory ?? '').trim()
+    if (sub && !subsByCategory.get(cat).has(sub)) {
+      const k = `${cat} › ${sub}`
+      badSubcat.set(k, (badSubcat.get(k) ?? 0) + 1)
     }
   }
 }
 
+let failed = false
 if (unmapped.size) {
+  failed = true
   console.error('❌ Unmapped categories (not in taxonomy.json name/id/aliases):')
   for (const [cat, n] of [...unmapped].sort((a, b) => b[1] - a[1])) {
     console.error(`   ${String(n).padStart(4)}  ${JSON.stringify(cat)}`)
   }
-  console.error('\nFix: add the string to a node\'s "aliases" in public/pkgs/taxonomy.json.')
-  process.exit(1)
+  console.error('Fix: add the string to a node\'s "aliases" in public/pkgs/taxonomy.json.\n')
 }
+if (badSubcat.size) {
+  failed = true
+  console.error('❌ Subcategories not owned by their category (taxonomy.json "subcategories"):')
+  for (const [k, n] of [...badSubcat].sort((a, b) => b[1] - a[1])) {
+    console.error(`   ${String(n).padStart(4)}  ${k}`)
+  }
+  console.error('Fix: add the subcategory under that node, or move/normalize it.\n')
+}
+if (failed) process.exit(1)
 
-console.log('✅ All toolbox categories resolve to taxonomy.json')
+console.log('✅ All toolbox categories + subcategories resolve to taxonomy.json')
