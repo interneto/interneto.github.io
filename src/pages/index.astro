@@ -43,9 +43,8 @@ const webCount = (webDirectory as any).entries.length;
 
 const numberFmt = new Intl.NumberFormat("en-US");
 const stats = [
-  { value: categories.length, label: "Categories" },
-  { value: packageCount, label: "Installable packages" },
-  { value: webCount, label: "Web apps" },
+  { value: categories.length, label: "Categories", sublabel: "~40k links" },
+  { value: packageCount + webCount, label: "Toolbox", sublabel: `${numberFmt.format(packageCount)} pkgs + ${numberFmt.format(webCount)} web apps` },
   { value: posts.length, label: "Essays & guides" },
 ];
 
@@ -124,6 +123,7 @@ const highlights: { icon: IconName; title: string; text: string }[] = [
         <li class="home-stat">
           <span class="home-stat-value">{numberFmt.format(stat.value)}</span>
           <span class="home-stat-label">{stat.label}</span>
+          {stat.sublabel && <span class="home-stat-sublabel">{stat.sublabel}</span>}
         </li>
       ))}
     </ul>

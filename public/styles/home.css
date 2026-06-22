@@ -131,7 +131,7 @@
 .home-hero-icon {
 	position: relative;
 	display: block;
-	width: min(70%, 12rem);
+	width: min(70%, 16rem);
 	height: auto;
 	object-fit: contain;
 	filter: drop-shadow(0 18px 32px color-mix(in srgb, var(--vp-c-brand-2) 28%, transparent));
@@ -172,6 +172,12 @@
 	font-weight: 600;
 	letter-spacing: 0.02em;
 	color: var(--vp-c-text-2);
+}
+
+.home-stat-sublabel {
+	font-size: 0.68rem;
+	color: var(--vp-c-text-3);
+	margin-top: 0.15rem;
 }
 
 /* ── Sections ─────────────────────────────────────────────────────────────── */
@@ -318,7 +324,7 @@
 /* ── Responsive ───────────────────────────────────────────────────────────── */
 @media (min-width: 40rem) {
 	.home-stats {
-		grid-template-columns: repeat(4, 1fr);
+		grid-template-columns: repeat(3, 1fr);
 	}
 
 	.home-stat + .home-stat::before {
