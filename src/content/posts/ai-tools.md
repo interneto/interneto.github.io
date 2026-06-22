@@ -144,6 +144,13 @@ Pick where the work runs, then the smallest model that clears the task:
 
 The model layer is no longer the bottleneck — open weights trail the frontier by months, not years, and the stack between them has converged on the same handful of standards (MCP, SSE streaming, markdown I/O). What separates a demo from a product now is **integration**: how you manage context, where you keep memory, which tools you wire in, and how reliably they run. The models are commodities; the system you build around them is the work.
 
+## References
+
+- [Agent Arena | AI Agent Performance Leaderboard](https://arena.ai/leaderboard/agent)
+- [Artificial Analysis | AI Model & API Providers Analysis](https://artificialanalysis.ai/)
+- [LiveBench | LLM Benchmark](https://livebench.ai/#/?highunseenbias=true)
+- [Interneto | LLM Pricing](https://interneto.github.io/llm-pricing/)
+
 <!-- favicon references -->
 [ag]:     /img/assets/ai-tools/antigravity.svg
 [gpt]:    /img/software/apps/chatgpt.svg
