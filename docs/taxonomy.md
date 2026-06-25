@@ -97,28 +97,28 @@ The converter (`scripts/convert.js`) reads the CSV, groups by top-level folder, 
 
 ## Mapping: old website categories → new
 
-| Old (`categories.js` pre-Jun-2026) | New                       | Action                                                                                            |
-| ---                                | ---                       | ---                                                                                               |
-| `by-Company`                       | —                         | **Special page** (alternative view, not a taxonomy category)                                      |
-| `OS`                               | `OS & Utilities`          | Renamed                                                                                           |
-| `AI Tools & Services`              | `AI Tools & Services`     | ✅                                                                                                 |
-| `Dev`                              | `Development`             | Renamed                                                                                           |
-| `Education`                        | `Education & Reference`   | Renamed                                                                                           |
-| `File Management`                  | `File Management`         | ✅                                                                                                 |
-| `Financial assets`                 | `Money & Finance`         | Renamed                                                                                           |
-| `Gaming`                           | `Gaming`                  | ✅ (now unified: games + launchers + emulators)                                                    |
-| `Health & Fitness`                 | `Health & Fitness`        | ✅                                                                                                 |
-| `Home & Family`                    | `Home & Family`           | ✅                                                                                                 |
-| `InterComm`                        | `Social & Communications` | Renamed                                                                                           |
-| `Multimedia`                       | `Multimedia`              | ✅ (now with 3 subcategories instead of flat)                                                      |
-| `News Media`                       | `News & Books`            | Renamed                                                                                           |
-| `Office & Productivity`            | `Office & Productivity`   | ✅                                                                                                 |
-| `Online Services`                  | `Online Services`         | ✅                                                                                                 |
-| `Security & Privacy`               | `Security & Privacy`      | ✅                                                                                                 |
-| `Sys Admin`                        | `System Administration`   | Renamed                                                                                           |
-| `Time`                             | `Office & Productivity`   | Absorbed                                                                                          |
-| `Travel & Location`                | `Travel & Location`       | ✅                                                                                                 |
-| `Utility`                          | `OS & Utilities`          | Absorbed (most links)                                                                             |
+| Old (`categories.js` pre-Jun-2026) | New                       | Action                                                       |
+|------------------------------------|---------------------------|--------------------------------------------------------------|
+| `by-Company`                       | —                         | **Special page** (alternative view, not a taxonomy category) |
+| `OS`                               | `OS & Utilities`          | Renamed                                                      |
+| `AI Tools & Services`              | `AI Tools & Services`     | ✅                                                            |
+| `Dev`                              | `Development`             | Renamed                                                      |
+| `Education`                        | `Education & Reference`   | Renamed                                                      |
+| `File Management`                  | `File Management`         | ✅                                                            |
+| `Financial assets`                 | `Money & Finance`         | Renamed                                                      |
+| `Gaming`                           | `Gaming`                  | ✅ (now unified: games + launchers + emulators)               |
+| `Health & Fitness`                 | `Health & Fitness`        | ✅                                                            |
+| `Home & Family`                    | `Home & Family`           | ✅                                                            |
+| `InterComm`                        | `Social & Communications` | Renamed                                                      |
+| `Multimedia`                       | `Multimedia`              | ✅ (now with 3 subcategories instead of flat)                 |
+| `News Media`                       | `News & Books`            | Renamed                                                      |
+| `Office & Productivity`            | `Office & Productivity`   | ✅                                                            |
+| `Online Services`                  | `Online Services`         | ✅                                                            |
+| `Security & Privacy`               | `Security & Privacy`      | ✅                                                            |
+| `Sys Admin`                        | `System Administration`   | Renamed                                                      |
+| `Time`                             | `Office & Productivity`   | Absorbed                                                     |
+| `Travel & Location`                | `Travel & Location`       | ✅                                                            |
+| `Utility`                          | `OS & Utilities`          | Absorbed (most links)                                        |
 
 ### New categories added
 
@@ -230,7 +230,7 @@ Posts use freeform `tags` in frontmatter. An optional `category` field reference
 | Post                      | Category                |
 |---------------------------|-------------------------|
 | `ai-chatbot-platforms.md` | `AI Tools & Services`   |
-| `ai-tools.md`             | `AI Tools & Services`   |
+| `gen-ai-tools.md`         | `AI Tools & Services`   |
 | `bookmark-managers.md`    | `Office & Productivity` |
 | `linux-distros.md`        | `OS & Utilities`        |
 | `what-is-info.md`         | `Education & Reference` |

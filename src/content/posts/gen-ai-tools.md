@@ -13,13 +13,13 @@ tags:
 
 ## What Is Generative AI?
 
-Generative AI is no longer a chatbot or interface with input-output, nowadays it has been evolutioned to an agentic tools integrated into apps or fully AI generative assistant tools.
+Generative AI is no longer a chatbot interface with input-output like ChatGPT, nowadays it has been evolutioned to an agentic tools integrated into apps or fully AI generative assistant tools.
 
 ---
 
 ## It's Stochastic, Not a Calculator
 
-Every output here is **non-deterministic** — stochastic, probabilistic, random. The model doesn't *compute* an answer; at each step it samples the next token from a probability distribution, so the same prompt can yield different results (and *temperature* / sampling settings dial that randomness up or down).
+Every output here is **non-deterministic** — stochastic, probabilistic. The model doesn't *compute* an answer; at each step it samples the next token from a probability distribution, so the same prompt can yield different results (and *temperature* / sampling settings dial that randomness up or down).
 
 The model itself is a **black box**: billions of trained weights, not readable logic. You can't program a specific output the way you write a function. You only steer it three ways:
 
@@ -152,54 +152,54 @@ The model layer is no longer the bottleneck — open weights trail the frontier 
 - [Interneto | LLM Pricing](https://interneto.github.io/llm-pricing/)
 
 <!-- favicon references -->
-[ag]:     /img/assets/ai-tools/antigravity.svg
+[ag]:     /img/assets/gen-ai-tools/antigravity.svg
 [gpt]:    /img/software/apps/chatgpt.svg
 [claude]: /img/software/apps/claude.svg
 [gem]:    /img/software/apps/gemini.svg
 [grok]:   /img/software/apps/grok.svg
 [dseek]:  /img/software/apps/deepseek.svg
-[qwn]:    /img/assets/ai-tools/qwen.svg
-[km]:     /img/assets/ai-tools/kimi.svg
-[zai]:    /img/assets/ai-tools/zai.svg
+[qwn]:    /img/assets/gen-ai-tools/qwen.svg
+[km]:     /img/assets/gen-ai-tools/kimi.svg
+[zai]:    /img/assets/gen-ai-tools/zai.svg
 [mag]:    /img/software/apps/magnific.svg
 [el]:     /img/software/apps/elevenlabs.svg
-[hig]:    /img/assets/ai-tools/higgsfield.svg
+[hig]:    /img/assets/gen-ai-tools/higgsfield.svg
 [cc]:     /img/software/apps/claude-code.svg
 [cdx]:    /img/software/apps/codex.svg
 [cline]:  /img/software/apps/cline.svg
 [comfy]:  /img/software/apps/comfyui.svg
-[cur]:    /img/assets/ai-tools/cursor.svg
+[cur]:    /img/assets/gen-ai-tools/cursor.svg
 [dock]:   /img/software/apps/docker.svg
 [devin]:  /img/software/apps/devin.svg
-[g4a]:    /img/assets/ai-tools/gpt4all.svg
-[ghcli]:  /img/assets/ai-tools/github-copilot.svg
-[herm]:   /img/assets/ai-tools/nousresearch-hermes.svg
-[hfzg]:   /img/assets/ai-tools/huggingface.svg
+[g4a]:    /img/assets/gen-ai-tools/gpt4all.svg
+[ghcli]:  /img/assets/gen-ai-tools/github-copilot.svg
+[herm]:   /img/assets/gen-ai-tools/nousresearch-hermes.svg
+[hfzg]:   /img/assets/gen-ai-tools/huggingface.svg
 [llcp]:   /img/software/apps/llama-cpp.svg
-[lms]:    /img/assets/ai-tools/lmstudio.svg
+[lms]:    /img/assets/gen-ai-tools/lmstudio.svg
 [mdb]:    /img/software/apps/mongodb.svg
-[mimo]:   /img/assets/ai-tools/xiaomi.svg
-[mmx]:    /img/assets/ai-tools/minimax.svg
-[oc]:     /img/assets/ai-tools/opencode.svg
-[oi]:     /img/assets/ai-tools/open-interpreter.svg
+[mimo]:   /img/assets/gen-ai-tools/xiaomi.svg
+[mmx]:    /img/assets/gen-ai-tools/minimax.svg
+[oc]:     /img/assets/gen-ai-tools/opencode.svg
+[oi]:     /img/assets/gen-ai-tools/open-interpreter.svg
 [oll]:    /img/software/apps/ollama.svg
 [or]:     /img/software/apps/openrouter.svg
 [pg]:     /img/software/apps/postgresql.svg
-[qdr]:    /img/assets/ai-tools/qdrant.svg
+[qdr]:    /img/assets/gen-ai-tools/qdrant.svg
 [pod]:    /img/software/apps/podman.svg
 [rep]:    /img/software/apps/replicate.svg
 [sqlite]: /img/software/apps/sqlite.svg
 [tf]:     /img/software/apps/terraform.svg
-[triton]: /img/assets/ai-tools/triton.svg
-[vast]:   /img/assets/ai-tools/vast.svg
-[vllm]:   /img/assets/ai-tools/vllm.svg
+[triton]: /img/assets/gen-ai-tools/triton.svg
+[vast]:   /img/assets/gen-ai-tools/vast.svg
+[vllm]:   /img/assets/gen-ai-tools/vllm.svg
 [vsc]:    /img/software/apps/visual-studio-code.svg
 [vsm]:    /img/software/apps/vscodium.svg
-[ws]:     /img/assets/ai-tools/windsurf.svg
+[ws]:     /img/assets/gen-ai-tools/windsurf.svg
 [zed]:    /img/software/apps/zed.svg
-[oai]:    /img/assets/ai-tools/openai.svg
-[anth]:   /img/assets/ai-tools/anthropic.svg
-[gcl]:    /img/assets/ai-tools/google-cloud.svg
-[aws]:    /img/assets/ai-tools/aws.svg
-[azr]:    /img/assets/ai-tools/azure.svg
-[pc]:     /img/assets/ai-tools/pinecone.svg
+[oai]:    /img/assets/gen-ai-tools/openai.svg
+[anth]:   /img/assets/gen-ai-tools/anthropic.svg
+[gcl]:    /img/assets/gen-ai-tools/google-cloud.svg
+[aws]:    /img/assets/gen-ai-tools/aws.svg
+[azr]:    /img/assets/gen-ai-tools/azure.svg
+[pc]:     /img/assets/gen-ai-tools/pinecone.svg
