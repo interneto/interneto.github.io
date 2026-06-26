@@ -134,15 +134,16 @@ Prompt → tokens → embeddings → stacked Transformer blocks (self-attention 
 
 ---
 
-## Context, Memory, Connectors, Skills & Plugins
+## Context, Memory, Connectors, Skills, Plugins & the Harness
 
-A model on its own only knows its training data and what fits in the current prompt. A handful of mechanisms extend it — they're how a chatbot becomes an *agent*:
+A model on its own only knows its training data and what fits in the current prompt. A handful of mechanisms extend it — and one (the **harness**) wires them together — turning a chatbot into an *agent*:
 
 - **Context** — the token window the model sees *this turn* (prompt, files, tool output, history). Finite (often 200K–1M tokens); fill it with what's relevant, everything else gets truncated or summarized. *Think RAM: fast, small, wiped each turn.*
 - **Memory** — state that **persists across turns/sessions** beyond the window: scratch files, conversation summaries, or a [vector DB](https://github.com/pgvector/pgvector) for retrieval (RAG). *Think disk: it persists.*
 - **Connectors (MCP)** — the [Model Context Protocol](https://modelcontextprotocol.io/), a standard wire format for exposing tools, data, and actions to any model. One MCP server (GitHub, Postgres, filesystem, Slack…) works across Claude, ChatGPT, and IDEs — no per-app glue. *Think I/O bus, and it's the one that's converged: write a tool once, every model can call it.*
 - **Skills** — folders of instructions, scripts, and resources the agent loads on demand to do a specific task its way ([skills.sh](https://www.skills.sh/), [anthropics/skills](https://github.com/anthropics/skills), [openai/skills](https://github.com/openai/skills)). Just files — portable across agents, version-controlled, no code to wire in. *Think a how-to manual the agent reads when the task calls for it.*
 - **Plugins** — packaged bundles of tools/skills/prompts you install into a host app, built on MCP or a host's own API (ChatGPT apps, Claude/IDE plugins, editor extensions). *Think installed apps.*
+- **Harness (agent loop)** — the runtime *around* the model that wires the rest together: it assembles the context, sends it, parses any tool/MCP calls, runs them, feeds results back, and repeats until the task is done. The model predicts tokens; the harness is what turns that into an agent. *Think the event loop of the whole system.*
 
 ---
 
