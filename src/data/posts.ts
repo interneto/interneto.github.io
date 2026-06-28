@@ -16,7 +16,7 @@ export const POST_SECTIONS: PostSection[] = [
       { text: 'Generative AI Tools', slug: 'gen-ai-tools' },
       { text: 'AI Chatbot Platforms', slug: 'ai-chatbot-platforms' },
       { text: 'Bookmark Managers', slug: 'bookmark-managers' },
-      { text: 'Linux Distributions', slug: 'linux-distros' },
+      { text: 'Operating Systems', slug: 'operating-systems' },
     ],
   },
   {
