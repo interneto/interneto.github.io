@@ -252,6 +252,24 @@
         "windows_winget": "AsaphaHalifa.AudioRelay"
       }
     },
+    "audiveris": {
+      "name": "Audiveris",
+      "category": "audio-and-music",
+      "subcategory": "Music Notation",
+      "package_manager": {
+        "linux_arch_aur": "audiveris",
+        "linux_arch_pacman": null,
+        "linux_debian_apt": null,
+        "linux_fedora_rpm": null,
+        "linux_gentoo_emerge": null,
+        "linux_flatpak": null,
+        "linux_snap": null,
+        "freebsd_pkg": null,
+        "macos_brew": null,
+        "unix_nix_env": "nixos.audiveris",
+        "windows_winget": null
+      }
+    },
     "autocad": {
       "name": "AutoCAD",
       "category": "photos-and-graphics",
