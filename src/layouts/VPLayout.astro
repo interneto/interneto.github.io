@@ -135,6 +135,36 @@ const ogImageUrl = ogImage ?? `https://interneto.github.io/icon.png`;
         }
       }
 
+      /* ── Desktop sidebar collapse (menu button works at all widths) ── */
+      const COLLAPSE_KEY = 'interneto:sidebar-collapsed';
+      const sidebarDesktopMq = window.matchMedia('(min-width: 60rem)');
+
+      function setSidebarCollapsed(collapsed, persist) {
+        root.classList.toggle('vp-sidebar-collapsed', collapsed);
+        if (sidebarTrigger) {
+          sidebarTrigger.setAttribute('aria-expanded', collapsed ? 'false' : 'true');
+        }
+        if (persist) {
+          try { localStorage.setItem(COLLAPSE_KEY, collapsed ? '1' : '0'); } catch {}
+        }
+      }
+
+      function storedCollapsed() {
+        try { return localStorage.getItem(COLLAPSE_KEY) === '1'; } catch { return false; }
+      }
+
+      /* Apply the saved collapse preference on desktop load. */
+      if (sidebar && sidebarDesktopMq.matches) {
+        setSidebarCollapsed(storedCollapsed(), false);
+      }
+
+      sidebarDesktopMq.addEventListener('change', (mq) => {
+        if (mq.matches) {
+          setSidebarOpen(false);
+          setSidebarCollapsed(storedCollapsed(), false);
+        }
+      });
+
       /* ── Mobile nav ── */
       function setNavOpen(open) {
         root.classList.toggle('vp-mobile-nav-open', open);
@@ -168,9 +198,15 @@ const ogImageUrl = ogImage ?? `https://interneto.github.io/icon.png`;
       /* Sidebar trigger and backdrop */
       if (sidebarTrigger) {
         sidebarTrigger.addEventListener('click', () => {
-          const isOpen = sidebarTrigger.getAttribute('aria-expanded') === 'true';
-          setNavOpen(false);
-          setSidebarOpen(!isOpen);
+          if (sidebarDesktopMq.matches) {
+            /* Desktop: collapse / expand the in-grid sidebar. */
+            setSidebarCollapsed(!root.classList.contains('vp-sidebar-collapsed'), true);
+          } else {
+            /* Mobile: open / close the off-canvas drawer. */
+            const isOpen = sidebarTrigger.getAttribute('aria-expanded') === 'true';
+            setNavOpen(false);
+            setSidebarOpen(!isOpen);
+          }
         });
       }
 

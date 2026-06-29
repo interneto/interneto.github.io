@@ -72,7 +72,9 @@ body {
 }
 
 .vp-sidebar-mobile-trigger {
-  display: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.375rem;
   position: fixed;
   left: 1rem;
   top: 4.75rem;
@@ -477,12 +479,6 @@ html[data-theme='dark'] .site-footer-icon-github {
 }
 
 @media (max-width: 960px) {
-  .vp-sidebar-mobile-trigger {
-    display: inline-flex;
-    align-items: center;
-    gap: 0.375rem;
-  }
-
   .VPContent.with-sidebar {
     padding-top: 3rem;
   }
@@ -537,9 +533,21 @@ html.vp-mobile-sidebar-open .vp-sidebar {
     padding-left: 2rem;
   }
 
-  .vp-sidebar-mobile-trigger,
   .vp-mobile-sidebar-backdrop {
     display: none !important;
+  }
+
+  /* Desktop collapse: the menu button hides the in-grid sidebar and the
+     content reclaims the full width. */
+  html.vp-sidebar-collapsed .vp-sidebar {
+    transform: translateX(-100%);
+    opacity: 0;
+    visibility: hidden;
+  }
+
+  html.vp-sidebar-collapsed .VPContent.with-sidebar {
+    margin-left: 0;
+    padding-top: 3rem;
   }
 }
 
