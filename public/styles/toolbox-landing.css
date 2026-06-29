@@ -16,7 +16,7 @@
   padding: 1.25rem;
   border: 1px solid var(--border-color);
   border-radius: 1.125rem;
-  background: radial-gradient(circle at top right, rgba(106, 160, 255, 0.18), transparent 38%), linear-gradient(180deg, var(--card-background), color-mix(in srgb, var(--card-background) 90%, var(--primary-color) 10%));
+  background: radial-gradient(circle at top right, color-mix(in srgb, var(--primary-color) 18%, transparent), transparent 38%), linear-gradient(180deg, var(--card-background), color-mix(in srgb, var(--card-background) 90%, var(--primary-color) 10%));
   box-shadow: var(--shadow-hover);
 }
 
@@ -112,7 +112,7 @@
   border-color: var(--vp-c-brand-1);
   background-color: var(--vp-c-bg);
   transform: translateY(-0.25rem);
-  box-shadow: 0 0.75rem 2rem rgba(123, 197, 228, 0.2);
+  box-shadow: 0 0.75rem 2rem color-mix(in srgb, var(--primary-color) 20%, transparent);
   text-decoration: none;
 }
 
@@ -266,7 +266,7 @@
 .tb-copy:hover,
 .tb-copy.is-copied {
   background: var(--vp-c-brand-2);
-  color: #fff;
+  color: var(--text-on-primary);
 }
 
 .toolbox-tui-more {

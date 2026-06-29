@@ -43,6 +43,22 @@
     --warning-bg: #fff3cd;
     --warning-border: #ffc107;
     --warning-text: #856404;
+    /* Library/compat status badges */
+    --badge-info-bg: #e3f2fd;
+    --badge-info-text: #1565c0;
+    --badge-info-border: #90caf9;
+    --badge-ok-bg: #e8f5e9;
+    --badge-ok-text: #2e7d32;
+    --badge-ok-border: #81c784;
+    --badge-neutral-bg: #f1f3f5;
+    --badge-neutral-text: #495057;
+    --badge-neutral-border: #d0d7de;
+    /* Surface-type tag hues (desktop / mobile / web / lib) — identity colors,
+       mixed with the surface at use site so they read in both themes. */
+    --tag-desktop: #1f6feb;
+    --tag-mobile: #2da44e;
+    --tag-web: #f29423;
+    --tag-lib: #8250df;
     --warning-scrollbar-thumb: rgba(255, 193, 7, 0.5);
     --warning-scrollbar-thumb-hover: rgba(255, 193, 7, 0.7);
     --category-gradient: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
@@ -120,6 +136,15 @@
         --warning-bg: #3a3000;
         --warning-border: #ffc107;
         --warning-text: #ffd54f;
+        --badge-info-bg: #1a2f4a;
+        --badge-info-text: #90caf9;
+        --badge-info-border: #4a7abf;
+        --badge-ok-bg: #1a3a1a;
+        --badge-ok-text: #81c784;
+        --badge-ok-border: #3a7a3a;
+        --badge-neutral-bg: #2f3338;
+        --badge-neutral-text: #c9d1d9;
+        --badge-neutral-border: #4a5158;
         --warning-scrollbar-thumb: rgba(255, 193, 7, 0.5);
         --warning-scrollbar-thumb-hover: rgba(255, 193, 7, 0.7);
         --category-gradient: linear-gradient(135deg, #3a3a3a 0%, #2a4a6a 100%);
@@ -188,6 +213,15 @@
     --warning-bg: #3a3000;
     --warning-border: #ffc107;
     --warning-text: #ffd54f;
+    --badge-info-bg: #1a2f4a;
+    --badge-info-text: #90caf9;
+    --badge-info-border: #4a7abf;
+    --badge-ok-bg: #1a3a1a;
+    --badge-ok-text: #81c784;
+    --badge-ok-border: #3a7a3a;
+    --badge-neutral-bg: #2f3338;
+    --badge-neutral-text: #c9d1d9;
+    --badge-neutral-border: #4a5158;
     --warning-scrollbar-thumb: rgba(255, 193, 7, 0.5);
     --warning-scrollbar-thumb-hover: rgba(255, 193, 7, 0.7);
     --category-gradient: linear-gradient(135deg, #3a3a3a 0%, #2a4a6a 100%);

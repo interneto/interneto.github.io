@@ -100,27 +100,27 @@
 }
 
 .tag-desktop {
-  background: color-mix(in srgb, #1f6feb 18%, var(--card-background));
-  border-color: color-mix(in srgb, #1f6feb 40%, var(--border-color));
-  color: color-mix(in srgb, #1f6feb 80%, var(--text-primary));
+  background: color-mix(in srgb, var(--tag-desktop) 18%, var(--card-background));
+  border-color: color-mix(in srgb, var(--tag-desktop) 40%, var(--border-color));
+  color: color-mix(in srgb, var(--tag-desktop) 80%, var(--text-primary));
 }
 
 .tag-mobile {
-  background: color-mix(in srgb, #2da44e 16%, var(--card-background));
-  border-color: color-mix(in srgb, #2da44e 38%, var(--border-color));
-  color: color-mix(in srgb, #2da44e 78%, var(--text-primary));
+  background: color-mix(in srgb, var(--tag-mobile) 16%, var(--card-background));
+  border-color: color-mix(in srgb, var(--tag-mobile) 38%, var(--border-color));
+  color: color-mix(in srgb, var(--tag-mobile) 78%, var(--text-primary));
 }
 
 .tag-web {
-  background: color-mix(in srgb, #bf8700 18%, var(--card-background));
-  border-color: color-mix(in srgb, #bf8700 36%, var(--border-color));
-  color: color-mix(in srgb, #bf8700 78%, var(--text-primary));
+  background: color-mix(in srgb, var(--tag-web) 18%, var(--card-background));
+  border-color: color-mix(in srgb, var(--tag-web) 36%, var(--border-color));
+  color: color-mix(in srgb, var(--tag-web) 78%, var(--text-primary));
 }
 
 .tag-lib {
-  background: color-mix(in srgb, #8250df 18%, var(--card-background));
-  border-color: color-mix(in srgb, #8250df 36%, var(--border-color));
-  color: color-mix(in srgb, #8250df 78%, var(--text-primary));
+  background: color-mix(in srgb, var(--tag-lib) 18%, var(--card-background));
+  border-color: color-mix(in srgb, var(--tag-lib) 36%, var(--border-color));
+  color: color-mix(in srgb, var(--tag-lib) 78%, var(--text-primary));
 }
 
 .tag-filter-chips .filter-chip {
@@ -146,10 +146,10 @@
   box-shadow: 0 10px 20px color-mix(in srgb, var(--chip-color) 32%, transparent);
 }
 
-.tag-chip-desktop { --chip-color: #1f6feb; }
-.tag-chip-mobile  { --chip-color: #2da44e; }
-.tag-chip-web     { --chip-color: #f29423; }
-.tag-chip-lib     { --chip-color: #8250df; }
+.tag-chip-desktop { --chip-color: var(--tag-desktop); }
+.tag-chip-mobile  { --chip-color: var(--tag-mobile); }
+.tag-chip-web     { --chip-color: var(--tag-web); }
+.tag-chip-lib     { --chip-color: var(--tag-lib); }
 
 @media (max-width: 47.99rem) {
   .toolbox-directory-table th:nth-child(1),

@@ -74,52 +74,30 @@
     white-space: nowrap;
 }
 
+/* Status badges use centralized tokens (base-styles.css) — theme-aware in both
+   the [data-theme] toggle and prefers-color-scheme dark, no per-badge overrides. */
 .badge-popular {
-    background-color: #fff3cd;
-    color: #856404;
-    border: 1px solid #ffc107;
-}
-
-[data-theme="dark"] .badge-popular {
-    background-color: #3a3000;
-    color: #ffd54f;
-    border-color: #ffc107;
+    background-color: var(--warning-bg);
+    color: var(--warning-text);
+    border: 1px solid var(--warning-border);
 }
 
 .badge-modern {
-    background-color: #e3f2fd;
-    color: #1565c0;
-    border: 1px solid #90caf9;
-}
-
-[data-theme="dark"] .badge-modern {
-    background-color: #1a2f4a;
-    color: #90caf9;
-    border-color: #4a7abf;
+    background-color: var(--badge-info-bg);
+    color: var(--badge-info-text);
+    border: 1px solid var(--badge-info-border);
 }
 
 .badge-lightweight {
-    background-color: #e8f5e9;
-    color: #2e7d32;
-    border: 1px solid #81c784;
-}
-
-[data-theme="dark"] .badge-lightweight {
-    background-color: #1a3a1a;
-    color: #81c784;
-    border-color: #3a7a3a;
+    background-color: var(--badge-ok-bg);
+    color: var(--badge-ok-text);
+    border: 1px solid var(--badge-ok-border);
 }
 
 .badge-internal {
-    background-color: #f1f3f5;
-    color: #495057;
-    border: 1px solid #d0d7de;
-}
-
-[data-theme="dark"] .badge-internal {
-    background-color: #2f3338;
-    color: #c9d1d9;
-    border-color: #4a5158;
+    background-color: var(--badge-neutral-bg);
+    color: var(--badge-neutral-text);
+    border: 1px solid var(--badge-neutral-border);
 }
 
 .lib-item-internal {
@@ -209,27 +187,15 @@ td.category-cell {
 }
 
 .compat-badge-included {
-    background-color: #e8f5e9;
-    color: #2e7d32;
-    border: 1px solid #81c784;
-}
-
-[data-theme="dark"] .compat-badge-included {
-    background-color: #1a3a1a;
-    color: #81c784;
-    border-color: #3a7a3a;
+    background-color: var(--badge-ok-bg);
+    color: var(--badge-ok-text);
+    border: 1px solid var(--badge-ok-border);
 }
 
 .compat-badge-external {
-    background-color: #e3f2fd;
-    color: #1565c0;
-    border: 1px solid #90caf9;
-}
-
-[data-theme="dark"] .compat-badge-external {
-    background-color: #1a2f4a;
-    color: #90caf9;
-    border-color: #4a7abf;
+    background-color: var(--badge-info-bg);
+    color: var(--badge-info-text);
+    border: 1px solid var(--badge-info-border);
 }
 
 .legend-tools {
