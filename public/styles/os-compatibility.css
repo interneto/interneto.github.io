@@ -20,10 +20,7 @@ body {
     margin-bottom: 18px;
     text-align: center;
     padding: 24px;
-    border: 1px solid var(--border-color);
     border-radius: 22px;
-    background: radial-gradient(circle at top right, var(--neutral-overlay-10), transparent 40%), linear-gradient(180deg, color-mix(in srgb, var(--card-background) 90%, var(--primary-color) 10%), var(--card-background));
-    box-shadow: var(--shadow-hover);
 }
 
 .page-header h1 {
@@ -265,14 +262,8 @@ th.sticky-col {
 }
 
 td.sticky-col {
-    background: linear-gradient(180deg, color-mix(in srgb, var(--card-background) 92%, var(--primary-color) 8%), color-mix(in srgb, var(--card-background) 98%, var(--primary-color) 2%));
     box-shadow: 2px 0 0 color-mix(in srgb, var(--border-color) 70%, var(--primary-color) 30%);
 }
-
-/* th.sticky-col.app-col,
-td.sticky-col.app-col {
-    z-index: 7;
-} */
 
 th.sticky-col.app-col {
     z-index: 17;
