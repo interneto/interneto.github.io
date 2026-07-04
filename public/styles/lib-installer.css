@@ -100,6 +100,14 @@
     border: 1px solid var(--badge-neutral-border);
 }
 
+/* MCP servers — a package-type tag, not a quality claim, so it shares the
+   neutral chip style with "internal" rather than adding another hue. */
+.badge-mcp {
+    background-color: var(--badge-neutral-bg);
+    color: var(--badge-neutral-text);
+    border: 1px solid var(--badge-neutral-border);
+}
+
 .lib-item-internal {
     opacity: 0.88;
 }

@@ -104,6 +104,10 @@
       "name": "Todo Tree",
       "category": "Utilities"
     },
+    "highagency.pencildev": {
+      "name": "Pencil",
+      "category": "Web and Frontend"
+    },
     "humao.rest-client": {
       "name": "REST Client",
       "category": "Web and Frontend"
