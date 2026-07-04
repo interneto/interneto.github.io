@@ -8,7 +8,8 @@ const BASE = import.meta.env.BASE_URL.replace(/\/?$/, '/');
 // and shows the recommended way to create install media.
 interface OsInstall {
   name: string;
-  icon: string;
+  icon: string; // filename (no ext) in /img/assets/operating-systems/
+  family: 'desktop' | 'linux' | 'bsd';
   foss: boolean;
   download: string;
   method: string;
@@ -18,14 +19,16 @@ interface OsInstall {
 const operatingSystems: OsInstall[] = [
   {
     name: 'Windows 11',
-    icon: '🪟',
+    icon: 'windows',
+    family: 'desktop',
     foss: false,
     download: 'https://www.microsoft.com/software-download/windows11',
     method: 'Use the Media Creation Tool, or write the ISO to a USB drive with Rufus / Ventoy, then boot from it.',
   },
   {
     name: 'macOS',
-    icon: '🍎',
+    icon: 'apple',
+    family: 'desktop',
     foss: false,
     download: 'https://support.apple.com/macos',
     method: 'Only installable on Apple hardware. Download from the App Store, then build install media with createinstallmedia.',
@@ -33,7 +36,8 @@ const operatingSystems: OsInstall[] = [
   },
   {
     name: 'Ubuntu',
-    icon: '🐧',
+    icon: 'ubuntu',
+    family: 'linux',
     foss: true,
     download: 'https://ubuntu.com/download/desktop',
     method: 'Write the ISO to a USB drive (Ventoy, Rufus, balenaEtcher) and boot it. On Linux you can use dd directly.',
@@ -41,7 +45,8 @@ const operatingSystems: OsInstall[] = [
   },
   {
     name: 'Debian',
-    icon: '🌀',
+    icon: 'debian',
+    family: 'linux',
     foss: true,
     download: 'https://www.debian.org/distrib/',
     method: 'Download the netinst or full ISO and write it to a USB drive, then boot from it.',
@@ -49,7 +54,8 @@ const operatingSystems: OsInstall[] = [
   },
   {
     name: 'Fedora',
-    icon: '🎩',
+    icon: 'fedora',
+    family: 'linux',
     foss: true,
     download: 'https://fedoraproject.org/workstation/',
     method: 'Use Fedora Media Writer (recommended) or write the ISO to a USB drive with dd.',
@@ -57,7 +63,8 @@ const operatingSystems: OsInstall[] = [
   },
   {
     name: 'Arch Linux',
-    icon: '🏛️',
+    icon: 'arch-linux',
+    family: 'linux',
     foss: true,
     download: 'https://archlinux.org/download/',
     method: 'Write the ISO to a USB drive, boot it, and follow the guided archinstall script or the manual install guide.',
@@ -65,13 +72,20 @@ const operatingSystems: OsInstall[] = [
   },
   {
     name: 'FreeBSD',
-    icon: '🔥',
+    icon: 'freebsd',
+    family: 'bsd',
     foss: true,
     download: 'https://www.freebsd.org/where/',
     method: 'Download the memstick image and write it to a USB drive, then boot the installer (bsdinstall).',
     command: 'sudo dd if=FreeBSD-14.0-RELEASE-amd64-memstick.img of=/dev/sdX bs=4M status=progress',
   },
 ];
+
+const FAMILY_LABEL: Record<OsInstall['family'], string> = {
+  desktop: 'Desktop platforms',
+  linux: 'Linux distributions',
+  bsd: 'BSD',
+};
 ---
 <InstallerLayout title="Operating System Installer" heading="💿 Operating System Installer">
   <section class="package-section installer-page-section">
@@ -91,26 +105,33 @@ const operatingSystems: OsInstall[] = [
       </a>
 
       <div class="os-install-grid">
-        {operatingSystems.map((os) => (
-          <article class="os-install-card">
-            <header class="os-install-head">
-              <span class="os-install-icon" aria-hidden="true">{os.icon}</span>
-              <h2 class="os-install-name">{os.name}</h2>
-              <span class={`os-install-badge ${os.foss ? 'is-foss' : 'is-proprietary'}`}>
-                {os.foss ? 'Open source' : 'Proprietary'}
-              </span>
-            </header>
-            <p class="os-install-method">{os.method}</p>
-            {os.command && (
-              <div class="os-install-command">
-                <code>{os.command}</code>
-                <button type="button" class="os-copy-btn" data-command={os.command} aria-label={`Copy ${os.name} command`}>Copy</button>
-              </div>
+        {operatingSystems.map((os, i) => (
+          <>
+            {os.family !== operatingSystems[i - 1]?.family && (
+              <h3 class="os-group-heading">{FAMILY_LABEL[os.family]}</h3>
             )}
-            <a class="os-install-download" href={os.download} target="_blank" rel="noreferrer">
-              Official download ↗
-            </a>
-          </article>
+            <article class="os-install-card">
+              <header class="os-install-head">
+                <span class="os-install-icon">
+                  <img src={`${BASE}img/assets/operating-systems/${os.icon}.svg`} alt="" width="24" height="24" loading="lazy" />
+                </span>
+                <h2 class="os-install-name">{os.name}</h2>
+                <span class={`os-install-badge ${os.foss ? 'is-foss' : 'is-proprietary'}`}>
+                  {os.foss ? 'Open source' : 'Proprietary'}
+                </span>
+              </header>
+              <p class="os-install-method">{os.method}</p>
+              {os.command && (
+                <div class="os-install-command">
+                  <code>{os.command}</code>
+                  <button type="button" class="os-copy-btn" data-command={os.command} aria-label={`Copy ${os.name} command`}>Copy</button>
+                </div>
+              )}
+              <a class="os-install-download" href={os.download} target="_blank" rel="noreferrer">
+                Official download ↗
+              </a>
+            </article>
+          </>
         ))}
       </div>
     </div>
@@ -129,6 +150,21 @@ const operatingSystems: OsInstall[] = [
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
     gap: var(--spacing-md);
+  }
+
+  /* Family divider — groups Windows/macOS, the Linux distros, and BSD apart. */
+  .os-group-heading {
+    grid-column: 1 / -1;
+    margin: var(--spacing-sm) 0 0;
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--text-secondary);
+  }
+
+  .os-group-heading:first-child {
+    margin-top: 0;
   }
 
   .os-install-card {
@@ -150,7 +186,21 @@ const operatingSystems: OsInstall[] = [
   }
 
   .os-install-icon {
-    font-size: 1.6rem;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 2.25rem;
+    height: 2.25rem;
+    flex-shrink: 0;
+    border-radius: 0.5rem;
+    background: rgba(128, 128, 128, 0.16);
+    border: 1px solid rgba(128, 128, 128, 0.3);
+  }
+
+  .os-install-icon img {
+    width: 1.4rem;
+    height: 1.4rem;
+    object-fit: contain;
   }
 
   .os-install-name {
