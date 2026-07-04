@@ -53,7 +53,7 @@ Client logic splits into two subsystems:
 
 **Dual route trees:** `src/pages/toolbox/*.astro` and `src/pages/toolbox-installer/*.astro` mirror each other; the `toolbox/` files are thin wrappers that re-export the `toolbox-installer/` page (`import Page from '../toolbox-installer/desktop.astro'`). The real page markup + `<script>` import lives in `toolbox-installer/`. `astro.config.ts` redirects `/toolbox-installer` -> `/toolbox/`. When editing a toolbox page, edit the `toolbox-installer/` version.
 
-The package catalogs are also consumed by a separate project — the TUI toolbox installer (`github.com/interneto/tui-toolbox-installer`) syncs `pkgs` from this site. Keep the JSON shape stable.
+The package catalogs are also consumed by a separate project — the TUI toolbox installer (`github.com/interneto/tui-toolbox-installer`) syncs `pkgs` from this site. Keep the JSON shape stable. After editing `public/pkgs/*.json`, use the `sync-tui-pkgs` skill (or run `python ../tui-installer/scripts/sync_pkgs.py`) to push the update into the sibling checkout.
 
 ### Pages / layouts / components
 - `src/pages/` — routes; `[...slug].astro` dynamic routes for categories and posts; `rss.xml.ts` feed.
