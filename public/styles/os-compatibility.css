@@ -36,9 +36,6 @@ body {
 /* Container */
 .container {
     padding: clamp(16px, 2vw, 28px);
-    border-radius: 18px;
-    border: 1px solid var(--border-color);
-    background: color-mix(in srgb, var(--card-background) 94%, var(--primary-color) 6%);
 }
 
 h1 {
@@ -63,11 +60,6 @@ h1 {
 /* Controls & Search */
 .controls {
     margin-bottom: var(--spacing-md);
-    padding: 14px;
-    border: 1px solid var(--border-color);
-    border-radius: 16px;
-    background: linear-gradient(135deg, color-mix(in srgb, var(--card-background) 88%, var(--primary-color) 12%), color-mix(in srgb, var(--card-background) 96%, var(--primary-color) 4%));
-    box-shadow: 0 10px 24px var(--neutral-overlay-08), inset 0 1px 0 var(--neutral-overlay-10);
 }
 
 .controls .page-controls-panel {
@@ -207,9 +199,6 @@ h1 {
 .table-container {
     border-radius: 18px;
     margin: 0;
-    border: 1px solid color-mix(in srgb, var(--border-color) 62%, var(--primary-color) 38%);
-    box-shadow: 0 14px 30px var(--neutral-overlay-10), inset 0 1px 0 var(--neutral-overlay-10);
-    overflow-x: auto;
     background: linear-gradient(180deg, color-mix(in srgb, var(--card-background) 96%, var(--primary-color) 4%), color-mix(in srgb, var(--card-background) 91%, var(--primary-color) 9%));
 }
 
@@ -231,8 +220,7 @@ th {
     padding: clamp(6px, 1.5vw, 14px) clamp(2px, 1vw, 10px);
     text-align: left;
     font-weight: 600;
-    font-size: clamp(0.72em, 1.6vw, 0.85em);
-    text-transform: uppercase;
+    font-size: clamp(0.78em, 1.6vw, 0.9em);
     letter-spacing: clamp(0px, 0.05vw, 0.3px);
     position: sticky;
     top: 0;
@@ -303,6 +291,45 @@ td.os-column {
     max-width: 100px;
     padding: clamp(6px, 1.5vw, 14px) clamp(1px, 0.5vw, 6px);
     font-size: clamp(0.7em, 1.4vw, 0.82em);
+    border-left: 1px solid color-mix(in srgb, var(--border-color) 82%, var(--primary-color) 18%);
+}
+
+td.os-column {
+    vertical-align: middle;
+}
+
+.os-status {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: clamp(20px, 3.4vw, 26px);
+    height: clamp(20px, 3.4vw, 26px);
+    border-radius: 50%;
+    color: #ffffff;
+    flex-shrink: 0;
+}
+
+.os-status svg {
+    width: 58%;
+    height: 58%;
+    fill: none;
+    stroke: currentColor;
+    stroke-width: 3;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+}
+
+.os-status--yes {
+    background: var(--success-color);
+}
+
+.os-status--no {
+    background: #e5484d;
+}
+
+.os-status--warn {
+    background: var(--warning-border);
+    color: #4a3400;
 }
 
 /* Sort Arrows */
@@ -401,7 +428,7 @@ tbody tr {
 
 .os-available {
     text-align: center;
-    font-size: clamp(0.85em, 2vw, 1.4em);
+    font-size: clamp(0.78em, 1.5vw, 0.95em);
 }
 
 /* Statistics - Mobile */

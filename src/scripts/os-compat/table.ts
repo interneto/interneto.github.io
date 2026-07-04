@@ -60,22 +60,26 @@ function createTableRow(pkg: OsCompatPackage) {
  * @param windowsStatus - Special Windows status (optional)
  * @returns HTML for icon
  */
+const CHECK_SVG = '<svg viewBox="0 0 24 24"><polyline points="4 13 9 18 20 6"/></svg>';
+const CROSS_SVG = '<svg viewBox="0 0 24 24"><line x1="5" y1="5" x2="19" y2="19"/><line x1="19" y1="5" x2="5" y2="19"/></svg>';
+const WARN_SVG = '<svg viewBox="0 0 24 24"><line x1="12" y1="7" x2="12" y2="14"/><circle cx="12" cy="18" r="0.5" fill="currentColor" stroke="currentColor"/></svg>';
+
 function getOsIcon(available: boolean, windowsStatus: string | null | undefined = null) {
     if (!available) {
-        return `<span title="Not available">${OS_COMPAT_CONFIG.ICONS.NOT_AVAILABLE}</span>`;
+        return `<span class="os-status os-status--no" title="Not available">${CROSS_SVG}</span>`;
     }
 
     // Handle Windows special statuses
     if (windowsStatus === OS_COMPAT_CONFIG.WINDOW_STATUSES.NON_WINGET) {
-        return `<span title="Available but not in winget">${OS_COMPAT_CONFIG.ICONS.NON_WINGET}</span>`;
+        return `<span class="os-status os-status--warn" title="Available but not in winget">${WARN_SVG}</span>`;
     }
 
     if (windowsStatus === OS_COMPAT_CONFIG.WINDOW_STATUSES.WINGET) {
-        return `<span title="Available in winget">${OS_COMPAT_CONFIG.ICONS.WINGET}</span>`;
+        return `<span class="os-status os-status--yes" title="Available in winget">${CHECK_SVG}</span>`;
     }
 
     // Default available icon
-    return `<span title="Available">${OS_COMPAT_CONFIG.ICONS.AVAILABLE}</span>`;
+    return `<span class="os-status os-status--yes" title="Available">${CHECK_SVG}</span>`;
 }
 
 /**

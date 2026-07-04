@@ -383,10 +383,6 @@ option {
     flex-direction: column;
     gap: var(--spacing-sm);
     padding: var(--spacing-md);
-    background: var(--card-background);
-    border: 1px solid var(--border-color);
-    border-radius: var(--border-radius);
-    box-shadow: var(--shadow-light);
 }
 
 .page-controls .search-box,
