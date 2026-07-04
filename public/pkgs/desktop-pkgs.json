@@ -397,7 +397,7 @@
       }
     },
     "bitwig-studio": {
-      "name": "Bitwig-Studio",
+      "name": "Bitwig Studio",
       "category": "audio-and-music",
       "subcategory": "Digital Audio Workstation",
       "package_manager": {
@@ -780,7 +780,7 @@
     "distrobox": {
       "name": "Distrobox",
       "category": "system-administration",
-      "subcategory": "Compatibility Layer",
+      "subcategory": "Containerization",
       "package_manager": {
         "linux_arch_aur": null,
         "linux_arch_pacman": "distrobox",
@@ -832,7 +832,7 @@
       }
     },
     "dolphin-emu": {
-      "name": "Dolphin-emu",
+      "name": "Dolphin Emulator",
       "category": "gaming",
       "subcategory": "Emulation",
       "package_manager": {
@@ -1392,7 +1392,7 @@
     "geany": {
       "name": "Geany",
       "category": "development",
-      "subcategory": "Text Editor",
+      "subcategory": "Code Editor",
       "package_manager": {
         "linux_arch_aur": null,
         "linux_arch_pacman": "geany",
@@ -2130,7 +2130,7 @@
     "kate": {
       "name": "Kate",
       "category": "development",
-      "subcategory": "Text Editor",
+      "subcategory": "Code Editor",
       "package_manager": {
         "linux_arch_aur": null,
         "linux_arch_pacman": "kate",
@@ -2290,7 +2290,7 @@
       }
     },
     "koodoreader": {
-      "name": "Koodo-Reader",
+      "name": "Koodo Reader",
       "category": "news-and-books",
       "subcategory": "Ebook Reader",
       "package_manager": {
@@ -2848,7 +2848,7 @@
       }
     },
     "musicbrainz-picard": {
-      "name": "MusicBrainz-Picard",
+      "name": "MusicBrainz Picard",
       "category": "file-management",
       "subcategory": "Music Tagger",
       "package_manager": {
@@ -2886,7 +2886,7 @@
     "neovim": {
       "name": "Neovim",
       "category": "development",
-      "subcategory": "Text Editor",
+      "subcategory": "Code Editor",
       "package_manager": {
         "linux_arch_aur": null,
         "linux_arch_pacman": "neovim",
@@ -2994,7 +2994,7 @@
     "notepad-plus-plus": {
       "name": "Notepad++",
       "category": "development",
-      "subcategory": "Text Editor",
+      "subcategory": "Code Editor",
       "package_manager": {
         "linux_arch_aur": null,
         "linux_arch_pacman": null,
@@ -4344,7 +4344,7 @@
     "sublime-text-4": {
       "name": "Sublime Text",
       "category": "development",
-      "subcategory": "Text Editor",
+      "subcategory": "Code Editor",
       "package_manager": {
         "linux_arch_aur": "sublime-text-4",
         "linux_arch_pacman": null,
@@ -4792,7 +4792,7 @@
       }
     },
     "visual-studio-code": {
-      "name": "Visual-Studio-Code",
+      "name": "Visual Studio Code",
       "category": "development",
       "subcategory": "Code Editor",
       "package_manager": {
@@ -4884,7 +4884,7 @@
     "waydroid": {
       "name": "WayDroid",
       "category": "system-administration",
-      "subcategory": "Containerization",
+      "subcategory": "Compatibility Layer",
       "package_manager": {
         "linux_arch_aur": "waydroid-git",
         "linux_arch_pacman": null,
