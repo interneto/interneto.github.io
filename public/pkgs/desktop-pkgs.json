@@ -579,6 +579,24 @@
         "unix": "curl -fsSL https://claude.ai/install.sh | bash"
       }
     },
+    "claude": {
+      "name": "Claude Desktop",
+      "category": "development",
+      "subcategory": "AI Assistant",
+      "package_manager": {
+        "linux_arch_aur": null,
+        "linux_arch_pacman": null,
+        "linux_debian_apt": null,
+        "linux_fedora_rpm": null,
+        "linux_gentoo_emerge": null,
+        "linux_flatpak": null,
+        "linux_snap": null,
+        "freebsd_pkg": null,
+        "macos_brew": "claude",
+        "unix_nix_env": null,
+        "windows_winget": "Anthropic.Claude"
+      }
+    },
     "codex": {
       "name": "Codex",
       "category": "development",
