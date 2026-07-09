@@ -5,7 +5,7 @@ description: Password managers, cybersecurity, and web privacy
 
 # Security & Privacy
 
-**Total Bookmarks:** 310
+**Total Bookmarks:** 311
 
 - [Fight Chat Control - Protect Digital Privacy in the EU](https://fightchatcontrol.eu/)
 - [PrivacySpy: We track online privacy](https://privacyspy.org/)
@@ -134,12 +134,13 @@ description: Password managers, cybersecurity, and web privacy
 - ⭐ **[KeePassDX](https://keepassdx.com/)**
 - ⭐ **[KeePassXC - Password Manager](https://keepassxc.org/)** / [🔗](https://github.com/keepassxreboot/keepassxc)
 - [1Password - Password Manager for Families, Businesses, Teams](https://1password.com/)
-- [AliasVault](https://www.aliasvault.net/) / [🔗](https://github.com/aliasvault/aliasvault)
+- [AliasVault](https://www.aliasvault.com/) / [🔗](https://github.com/aliasvault/aliasvault)
 - [Argon2](https://www.argon2.com/) / [🔗](https://github.com/P-H-C/phc-winner-argon2)
 - [arsvechkarev/Vault: Simple, fast, secure password manager](https://github.com/arsvechkarev/Vault)
 - [AuthPass](https://authpass.com/)
 - [AuthPass](https://authpass.app/)
 - [Bitwarden Web Vault](https://vault.bitwarden.com/#/register)
+- [boazeb/papervault: Paper vault for passwords and secrets](https://github.com/boazeb/papervault)
 - [Catima - Libre Card Wallet](https://catima.app/)
 - [Dashlane - Password Manager](https://www.dashlane.com/)
 - [Enpass](https://www.enpass.io/)

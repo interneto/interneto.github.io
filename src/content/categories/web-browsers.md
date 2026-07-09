@@ -5,8 +5,25 @@ description: Browsers and browser-related tools
 
 # Web Browsers
 
-**Total Bookmarks:** 121
+**Total Bookmarks:** 139
 
+- [Arc from The Browser Company](https://arc.net/)
+- [Brow.sh](https://www.brow.sh/)
+- [BrowserOS - Open-Source AI Browser | Privacy-First Alternative to Perplexity Comet](https://www.browseros.com/) / [🔗](https://github.com/browseros-ai/BrowserOS)
+- [ChatGPT Atlas](https://chatgpt.com/atlas)
+- [chawan: TUI Web Browser](https://sr.ht/~bptato/chawan/)
+- [Dillo Website](https://dillo-browser.github.io/)
+- [EinkBro](https://einkbro.github.io/overview.html)
+- [firedragon-browser · GitHub](https://github.com/dr460nf1r3/firedragon-browser)
+- [Glide](https://glide-browser.app/) / [🔗](https://github.com/glide-browser/glide)
+- [Gosub Web Browser Engine](https://gosub.io/)
+- [Perplexity Comet](https://comet.perplexity.ai/)
+- [Polypane, The browser for ambitious developers](https://polypane.app/)
+- [suprow – Lightweight browser for web apps](https://suprow.app/)
+- [Surfinite](https://surfinite.com/en/)
+- [truefedex/tv-bro: Simple web browser for android optimized to use with TV remote](https://github.com/truefedex/tv-bro)
+- [W3M](https://w3m.sourceforge.net/)
+- [web-platform-tests dashboard](https://wpt.fyi/results/?label=experimental&label=master&aligned) / [🔗](https://github.com/web-platform-tests/wpt.fyi)
 
 ## Chromium-based
 - ⭐ **[Chromium](https://www.chromium.org/Home/)**
@@ -85,6 +102,7 @@ description: Browsers and browser-related tools
 - [Midori Browser](https://astian.org/midori-browser/)
 - [Mullvad Browser](https://mullvad.net/en/browser)
 - [Pale Moon Project](https://www.palemoon.org/)
+- [PowerFox Browser](https://powerfox.jazzzny.me/) / [🔗](https://github.com/Jazzzny/powerfox-browser)
 - [SeaMonkey Project](https://www.seamonkey-project.org/)
 - [SlimBrowser](https://www.slimbrowser.net/)
 - [Waterfox, Free Web Browser](https://www.waterfox.net/en-US/)

@@ -5,7 +5,7 @@ description: Search engines, web directories, software directories, corporations
 
 # Online Services
 
-**Total Bookmarks:** 5664
+**Total Bookmarks:** 5682
 
 
 ## Biography
@@ -435,7 +435,7 @@ description: Search engines, web directories, software directories, corporations
 - [FlutterExampleApps · GitHub](https://github.com/iampawan/FlutterExampleApps)
 - [fmhy/FMHYedit · GitHub](https://github.com/fmhy/FMHYEdit)
 - [fosslife/awesome-ricing · GitHub](https://github.com/fosslife/awesome-ricing)
-- [Free for developers](https://free-for.dev/#/)
+- [Free for developers](https://free-for.dev/#/) / [🔗](https://github.com/ripienaar/free-for-dev)
 - [Free-for-dev · GitHub](https://github.com/ripienaar/free-for-dev)
 - [Frontend-feeds: RSS feed · GitHub](https://github.com/impressivewebs/frontend-feeds)
 - [Furthir/awesome-useful-projects · GitHub](https://github.com/Furthir/awesome-useful-projects)
@@ -775,6 +775,12 @@ description: Search engines, web directories, software directories, corporations
 - [The Greatest Books of All Time](https://thegreatestbooks.org/)
 - [The Internet Speculative Fiction Database](http://www.isfdb.org/)
 - [The Literature Network](http://www.online-literature.com/)
+
+#### Demoscene
+- [demoparty.net - a list of demoscene events](https://www.demoparty.net/)
+- [pouët.net :: your online demoscene resource](https://www.pouet.net/)
+- [SCENE.ORG](https://scene.org/)
+- [scene.org file archive](https://files.scene.org/)
 
 #### Games Db
 - ⭐ **[ProtonDB](https://www.protondb.com/)**
@@ -1201,6 +1207,7 @@ description: Search engines, web directories, software directories, corporations
 - [Sky torrents](https://www.skytorrents.lol/)
 - [SolidTorrents](https://solidtorrents.to/)
 - [TGx](https://torrentgalaxy.to/)
+- [Tor Link - Darknet search engine](https://tor.link/)
 - [Torlock](https://www.torlock.com/)
 - [torlock - Torrents Download](https://ww1.torlock.live/)
 - [Torrage.info](https://torrage.info/)
@@ -1513,6 +1520,7 @@ description: Search engines, web directories, software directories, corporations
 - [Waxoo](https://www.waxoo.com/)
 - [winget.run](https://winget.run/)
 - [winstall - winget packages for Windows](https://winstall.app/)
+- [WinWorld: Welcome](https://winworldpc.com/home)
 - [Yep! Download](https://yepdownload.com/)
 
 **Portable software distribution**
@@ -2175,6 +2183,7 @@ description: Search engines, web directories, software directories, corporations
 - [iNaturalist – A Community for Naturalists](https://www.inaturalist.org/)
 - [Marine Species](https://www.marinespecies.org/)
 - [Merlin Bird ID](https://merlin.allaboutbirds.org/)
+- [NYC Tree Map](https://tree-map.nycgovparks.org/)
 - [Observation.org](https://observation.org/)
 - [Pangaea.de - Data Publisher for Earth & Environmental Science](https://www.pangaea.de/)
 - [Picture Insect - Online insect encyclopedia and insect identifier](https://pictureinsect.com/)
@@ -2864,6 +2873,7 @@ description: Search engines, web directories, software directories, corporations
 - [WeCodeFest 2020](https://wecodefest.com/)
 
 ### Festival
+- [Assembly - The biggest gaming festival and demoparty in Finland](https://assembly.org/en)
 - [Busan International Film Festival](https://www.biff.kr/eng)
 - [Coachella Valley Music & Arts Festival](https://coachella.com/)
 - [FARRA WORLD](https://farra.world/)
@@ -3301,6 +3311,7 @@ description: Search engines, web directories, software directories, corporations
 - [Wynk Music | Free Music Online](https://wynk.in/music)
 - [Yandex Music](https://music.yandex.com/home)
 - [YouTube Music](https://music.youtube.com/tasteprofile)
+- [ytify](https://ytify.pp.ua/)
 - [Яндекс Музыка — собираем музыку и подкасты для вас](https://music.yandex.ru/)
 
 ##### Digital Music Store
@@ -4045,6 +4056,7 @@ description: Search engines, web directories, software directories, corporations
 - [Krscomics.com](https://krscomics.com/)
 - [Lambiek](https://www.lambiek.net/)
 - [Paizo](https://paizo.com/)
+- [PHD Comics](https://phdcomics.com/)
 - [Piperka](https://piperka.net/about.html)
 - [Read Comics Free](https://readcomicsfree.com/)
 - [Read Comics Online](https://readcomicsonline.ru/)
@@ -4079,6 +4091,7 @@ description: Search engines, web directories, software directories, corporations
 - [Anna’s Archive](https://annas-archive.li/) / [🔗](https://software.annas-archive.li/AnnaArchivist/annas-archive)
 - [Booknet](https://booknet.com/)
 - [Bookracy - Why Pay for Knowledge?](https://bookracy.ru/?q=)
+- [Bookracy — Why Pay for Knowledge?](https://bookracy.com/?q=)
 - [ebook3000.com](http://ebook3000.com/)
 - [EPUB Mania](https://epubmania.com/)
 - [epublibre](https://www.epublibre.org/inicio/index)
@@ -4233,6 +4246,7 @@ description: Search engines, web directories, software directories, corporations
 - [Bazel](https://bazel.build/)
 - [Blazor | .NET](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor)
 - [Buck2 | Buck2 build system website](https://buck2.build/)
+- [casey/just: 🤖 Just a command runner](https://github.com/casey/just)
 - [Gradio](https://gradio.app/)
 - [Pulumi - Universal Infrastructure as Code](https://www.pulumi.com/)
 - [Sequelize | ORM for TS & JS](https://sequelize.org/)
@@ -4267,6 +4281,7 @@ description: Search engines, web directories, software directories, corporations
 - [Comby.dev](https://comby.dev/)
 - [Electron Forge](https://www.electronforge.io/)
 - [Emmet.io](https://emmet.io/)
+- [GitHub Spec Kit | Spec Kit Documentation](https://github.github.com/spec-kit/index.html) / [🔗](https://github.com/github/spec-kit)
 - [gulp.js](https://gulpjs.com/)
 - [HTML Cheat Sheet](https://htmlcheatsheet.com/)
 - [HTML5 Boilerplate](https://html5boilerplate.com/)
@@ -4900,6 +4915,7 @@ description: Search engines, web directories, software directories, corporations
 - [Kindor | Películas y Series Online](https://kindor.pro/)
 - [KinoGo.biz](https://kinogo.biz/)
 - [kipflix](https://kipflix.xyz/)
+- [LaMovie - Películas, Series y Animes Online en HD Gratis](https://lamovie.org/)
 - [Lk21 Nonton Film](https://tv9.lk21official.wiki/)
 - [lookmovie2.to](https://www.lookmovie2.to/)
 - [M4ufree - Watch Free Full Movies Online](https://ww2.m4ufree.com/)
@@ -5005,6 +5021,7 @@ description: Search engines, web directories, software directories, corporations
 - [Stream2watch](https://tv.xn--tream2watch-i9d.com/)
 - [StreamEast - Watch Free Live Sports Online | NFL, CFB, UFC Streams](https://v2.streameast.ga/)
 - [Streamed - Watch Any Live Sport Online, Best Source to watch NBA, NHL, MLB, UFC For Free!](https://streamed.pk/)
+- [Streami - Your Home for Live Sports](https://streamic.ru/)
 - [StreamSports99 - Watch Free Live Sports Anytime, Anywhere](https://streamsports99.su/)
 - [Tarjeta Roja Tv Online](https://www.tarjetarojatvonline.sx/)
 - [TimStreams - Free Live Sports & Events Streaming](https://timstreams.xyz/)
@@ -5820,6 +5837,7 @@ description: Search engines, web directories, software directories, corporations
 - [DeepSWE Benchmark: GPT vs Claude for Agentic Coding](https://deepswe.net/#opus-4-8-result)
 - [Humanity's Last Exam](https://agi.safe.ai/)
 - [List of large language models - Wikipedia](https://en.wikipedia.org/wiki/List_of_large_language_models)
+- [LLM API Pricing Comparison 2026 — Cost Per Token for GPT, Claude, Gemini & More](https://benchlm.ai/llm-pricing)
 - [LLM Explorer: A Curated Large Language Model Directory](https://llm-explorer.com/)
 - [LLM Leaderboard - Vellum](https://www.vellum.ai/llm-leaderboard)
 - [LLM Leaderboard 2025 - Model Rankings & Analysis](https://llm-stats.com/)
@@ -5874,6 +5892,7 @@ description: Search engines, web directories, software directories, corporations
 - [ComparisonTables | Compare, sort, filter & find!](https://comparisontabl.es/)
 - [DXOMARK - Quality Testing, Scores and Reviews](https://www.dxomark.com/)
 - [Kitele](https://www.kitele.com/es/)
+- [Mousepad Finder | MouseCTRL](https://mousectrl.com/mousepad-finder)
 - [NanoReview – tech comparison and ratings](https://nanoreview.net/)
 - [PriceRunner UK - Save by comparing prices from 6,400 British stores](https://www.pricerunner.com/)
 - [Product Chart](https://www.productchart.com/)
@@ -6118,6 +6137,7 @@ description: Search engines, web directories, software directories, corporations
 - [Tiger.ch](https://tiger.ch/)
 - [tobi/qmd: mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local](https://github.com/tobi/qmd)
 - [Trovi](https://www.trovi.com/)
+- [Uruky — Busque de forma privada y sin publicidad](https://uruky.com/)
 - [whoogle-search · GitHub](https://github.com/benbusby/whoogle-search)
 - [Wiby](https://wiby.org/)
 - [Wonder](https://askwonder.com/)

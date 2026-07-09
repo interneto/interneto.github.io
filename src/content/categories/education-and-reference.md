@@ -5,7 +5,7 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 
 # Education & Reference
 
-**Total Bookmarks:** 1299
+**Total Bookmarks:** 1301
 
 - [Academia Lab](https://academia-lab.com/)
 - [DosisPedia](https://dosispedia.com/)
@@ -36,6 +36,7 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [Lesson Planet](https://www.lessonplanet.com/)
 - [Lightbox Academy](https://lboxacademy.es/)
 - [MMDanza – Academia de baile](https://mmdanza.com/)
+- [Mojza](https://mojza.org/)
 - [OnlineLessons.tv](https://onlinelessons.tv/)
 - [OpenClassrooms](https://openclassrooms.com/en)
 - [Oppia | Free, Online and Interactive Lessons for Anyone](https://www.oppia.org/)
@@ -266,8 +267,7 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [Rechneronline - Useful Calculators](https://rechneronline.de/english.php)
 - [Shane's Personal Celestial Sphere Model](https://adl.place/shanes-fe-model)
 - [Walter Bislin Model](https://walterbislin.journalofgeocentriccosmology.org/)
-- [WikiTerra - Flat Earth Dome Model](https://wikiterra.github.io/fed-model/)
-- [WikiTerra - Flat Earth Dome Model](https://wikiterra.github.io/fed-model/)
+- [WikiTerra · jsgraph](https://wikiterra.github.io/jsgraph/)
 
 ### Sleep Cycle Calculator
 - ⭐ **[Sleepytime - bedtime calculator](https://sleepytime.cc/)**
@@ -439,6 +439,7 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [Study.com](https://study.com/)
 
 ## Dictionary
+- [American Sign Language ASL Dictionary](https://www.signasl.org/)
 - [Archive / gnome-dictionary · GitLab](https://gitlab.gnome.org/Archive/gnome-dictionary)
 - [Artha ~ The Open Thesaurus](https://sourceforge.net/projects/artha/)
 - [cli-dictionary/cli-dictionary · GitHub](https://github.com/cli-dictionary/cli-dictionary)
@@ -654,6 +655,7 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [YellowBridge Chinese](https://www.yellowbridge.com/)
 
 ### English language
+- [English phrasal verbs](https://little-brother.github.io/english-phrasal-verbs/)
 
 #### English test
 - [Altissia](https://altissia.org/free-english-language-test)

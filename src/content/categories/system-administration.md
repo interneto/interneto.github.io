@@ -5,7 +5,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 
 # System Administration
 
-**Total Bookmarks:** 1193
+**Total Bookmarks:** 1196
 
 - [osquery](https://osquery.io/)
 - [PIVPN: Simplest way to setup a VPN](https://pivpn.io/)
@@ -319,6 +319,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 ### OS-emulator
 - [Box86 – Linux Userspace x86 Emulator with a Twist](https://box86.org/)
 - [CraftOS-PC](https://www.craftos-pc.cc/)
+- [Retro Virtual Machine](https://retrovirtualmachine.org/)
 - [VICE - the Versatile Commodore Emulator](https://vice-emu.sourceforge.io/)
 
 #### Game console emulator
@@ -656,6 +657,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [Hanko - Open source authentication beyond passwords](https://www.hanko.io/)
 - [HexmosTech/Lama2 · GItHub](https://github.com/HexmosTech/Lama2)
 - [Hoppscotch API](https://hoppscotch.io/)
+- [Http sms - Convert your android phone into an SMS gateway](https://httpsms.com/) / [🔗](https://github.com/NdoleStudio/httpsms)
 - [Humlix](https://www.humlix.com/)
 - [Hypergraph - The Next Generation GraphQL Content Platform](https://hygraph.com/)
 - [Insomnia - The Collaborative API Development Platform](https://insomnia.rest/)
@@ -1209,6 +1211,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [Atoptool.nl](https://www.atoptool.nl/)
 - [Bitsum. Real-time CPU Optimization and Automation](https://bitsum.com/)
 - [Bpytop - Aristocratos](https://github.com/aristocratos/bpytop)
+- [CodexBar](https://codexbar.app/) / [🔗](https://github.com/steipete/CodexBar)
 - [Conky · GitHub](https://github.com/brndnmtthws/conky)
 - [ctop](https://ctop.sh/)
 - [EtherApe, a graphical network monitor](https://etherape.sourceforge.io/)

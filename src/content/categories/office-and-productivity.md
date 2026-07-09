@@ -5,7 +5,7 @@ description: Note-taking, task management, bookmarking, calculators, translators
 
 # Office & Productivity
 
-**Total Bookmarks:** 1199
+**Total Bookmarks:** 1204
 
 - ⭐ **[Hotkey Cheatsheet - Improve Your Productivity with Keyboard Shortcuts](https://hotkeycheatsheet.com/)**
 - [Boosted](https://www.boostedproductivity.com/)
@@ -75,6 +75,7 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [ckolderup/postmarks · GitHub](https://github.com/ckolderup/postmarks)
 - [Clipd.io](https://www.clipd.io/)
 - [Collectie](https://getcollectie.com/)
+- [Compendro: Actually Finish What You Save to Read Later](https://compendro.com/en/)
 - [Deckr Surf](https://deckr.surf/)
 - [Diigo](https://www.diigo.com/)
 - [Fastbmk](http://fastbmk.com/)
@@ -286,6 +287,7 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [OpenMetadata: #1 Open Source Metadata Platform](https://open-metadata.org/) / [🔗](https://github.com/open-metadata/OpenMetadata)
 - [Openpanel.dev - An open-source alternative to Mixpanel](https://openpanel.dev/)
 - [Palantir - Gotham](https://www.palantir.com/platforms/gotham/)
+- [Piqo Analytics — Grow your traffic, search, and revenue](https://piqo.app/)
 - [Pridma analytics - Customizable, privacy-friendly Google Analytics alternative](https://www.prismeanalytics.com/)
 - [Qlik Data Integration, Data Quality, and Analytics Solutions](https://www.qlik.com/us)
 - [Scalpex index](https://www.scalpexindex.com/)
@@ -513,7 +515,7 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [Tasker for Android](https://tasker.joaoapps.com/)
 - [Taskito.io](https://taskito.io/)
 - [Tasks.org](https://tasks.org/)
-- [Taskwarrior](https://taskwarrior.org/)
+- [Taskwarrior](https://taskwarrior.org/) / [🔗](https://github.com/GothenburgBitFactory/taskwarrior)
 - [TeuxDeux](https://teuxdeux.com/)
 - [The all-new Things](https://culturedcode.com/things/)
 - [Todo.txt](http://todotxt.org/) / [🔗](https://github.com/todotxt/todo.txt)
@@ -867,6 +869,7 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [PDF24 Tools](https://tools.pdf24.org/en/)
 - [pdfarranger · GitHub](https://github.com/pdfarranger/pdfarranger)
 - [PDFfiller](https://www.pdffiller.com/)
+- [Quaterio — Visual Document Editor & PDF Generation API](https://quaterio.com/)
 - [Sejda PDF](https://www.sejda.com/)
 - [SimplePDF - A free PDF editor to easily edit documents and fill in forms](https://simplepdf.eu/)
 - [Smallpdf](https://smallpdf.com/)
@@ -1063,6 +1066,7 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - ⭐ **[Sheet Music Manager - Convert Music to MusicXML](https://www.sheetmusictranscriber.com/)**
 - ⭐ **[Sheet Music Scanner | SCANSCORE Sheet Music Scanning Software](https://scan-score.com/en/)**
 - [aashrafh/Mozart: An optical music recognition (OMR) system. Converts sheet music to a machine-readable version.](https://github.com/aashrafh/Mozart)
+- [Audiveris Pages](https://audiveris.github.io/audiveris/) / [🔗](https://github.com/audiveris/audiveris)
 - [BreezeWhite/oemer: End-to-end Optical Music Recognition (OMR) system. Transcribe phone-taken music sheet image into MusicXML, which can be edited and converted to MIDI.](https://github.com/BreezeWhite/oemer)
 - [MUSITEK - Music Scanning Software](https://www.musitek.com/)
 - [Newzik – Beyond Sheet Music](https://newzik.com/en/)
@@ -1093,6 +1097,7 @@ description: Note-taking, task management, bookmarking, calculators, translators
 
 ## Time
 - [24 Time Zones](https://24timezones.com/#/map)
+- [Current Time Now - Exact Local Time in Any City](https://time.now/)
 - [Dayspedia - it's all about Time!](https://dayspedia.com/)
 - [FlutterTime World Clock & Timezone Converter for iPhone & Android (2026) - Flutter Time App](https://fluttertime.com/)
 - [Network Time Protocol](https://www.ntp.org/)

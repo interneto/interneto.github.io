@@ -5,7 +5,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 
 # Multimedia
 
-**Total Bookmarks:** 2093
+**Total Bookmarks:** 2106
 
 
 ## Audio & Music
@@ -127,7 +127,9 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [DuRT - Speech Recognition](https://durt.dudufuture.top/)
 - [EzDubs - Real-time AI dubbing with voice preservation](https://www.ezdubs.ai/)
 - [facebookresearch/omnilingual-asr: Omnilingual ASR Open-Source Multilingual SpeechRecognition for 1600+ Languages](https://github.com/facebookresearch/omnilingual-asr?ref=producthunt)
+- [FluidVoice — Free Open Source Voice-to-Text for macOS](https://altic.dev/fluid) / [🔗](https://github.com/altic-dev/FluidVoice)
 - [ggml-org/whisper.cpp: Port of OpenAI's Whisper model in C/C++](https://github.com/ggml-org/whisper.cpp)
+- [GitHub - canonical/myna: Myna is a lightweight speech-to-text application for Ubuntu Desktop.](https://github.com/canonical/myna)
 - [Gladia I Audio Transcription API](https://www.gladia.io/)
 - [Handy](https://handy.computer/) / [🔗](https://github.com/cjpais/Handy)
 - [Hermes - Magical Voice-to-Text for Mac](https://hermesvoice.com/)
@@ -142,6 +144,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [OpenWhispr | Open Source AI Voice Dictation](https://openwhispr.com/) / [🔗](https://github.com/HeroTools/open-whispr)
 - [Parlatype](https://www.parlatype.xyz/)
 - [Pipit — #1 Voice-to-Text App for macOS](https://www.pipitvoice.com/)
+- [Quobi: talk, get clean text, on your device.](https://www.quobi.ai/) / [🔗](https://github.com/Quobi-AI/Quobi)
 - [rwth-i6/rasr: The RWTH ASR Toolkit.](https://github.com/rwth-i6/rasr)
 - [Speech to Note - Voice to Text, Note Speech & Speak Writer Solution](https://speechtonote.com/)
 - [Super Voice Mode — AI Voice Assistant and Dictation App for Mac](https://voicemode.io/)
@@ -416,7 +419,6 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [beets: music media organizer](https://beets.io/)
 - [brahmkshatriya/echo: Just a music player](https://github.com/brahmkshatriya/echo)
 - [Castro Podcast app](https://castro.fm/)
-- [Cider](https://cider.sh/)
 - [Clementine Player](https://www.clementine-player.org/)
 - [CMUS player](https://cmus.github.io/)
 - [Colibri | Mac Lossless Audio Player](https://colibri-lossless.com/)
@@ -522,6 +524,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 #### Music client
 - ⭐ **[Spotube](https://spotube.krtirtho.dev/)** / [🔗](https://github.com/KRTirtho/spotube)
 - [AudioTube](https://apps.kde.org/audiotube/)
+- [Cider - FOSS Apple Music client](https://cider.sh/)
 - [deep5050/radio-active](https://github.com/deep5050/radio-active)
 - [dweymouth/supersonic: A lightweight and full-featured cross-platform desktop client for self-hosted music servers](https://github.com/dweymouth/supersonic)
 - [HemantKArya/BloomeeTunes · GitHub](https://github.com/HemantKArya/BloomeeTunes?tab=readme-ov-file)
@@ -597,6 +600,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [ProGuitar | Tools](https://www.proguitar.com/tools)
 - [The Music Lab](https://www.themusiclab.org/)
 - [Vocalstudio](https://vocalstudio.es/)
+- [WAVE — Music Redefined](https://waveapp.pages.dev/) / [🔗](https://github.com/ayman708-UX/WAVE)
 
 #### Live Coding Music
 - ⭐ **[Strudel REPL](https://strudel.cc/)** / [🔗](https://codeberg.org/uzu/strudel)
@@ -1022,7 +1026,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 #### Pixel art
 - [Aseprite - Animated sprite editor & pixel art tool](https://www.aseprite.org/) / [🔗](https://github.com/aseprite/aseprite)
 - [danterolle/tilf: Tilf (Tiny Elf) is a simple yet powerful pixel art editor built with PySide6. It’s designed for creating sprites, icons, and small 2D assets with essential drawing tools, live preview, undo/redo, and export options.](https://github.com/danterolle/tilf)
-- [LibreSprite](https://libresprite.github.io/#!/)
+- [LibreSprite](https://libresprite.github.io/#!/) / [🔗](https://github.com/LibreSprite/LibreSprite)
 - [PikoPixel](http://twilightedge.com/mac/pikopixel/)
 - [Piskel - online sprite editor](https://www.piskelapp.com/)
 - [Pixel Art to CSS](https://www.pixelartcss.com/)
@@ -1032,6 +1036,8 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [Pixquare | Pixel art for iPad](https://www.pixquare.art/)
 - [Resprite](https://resprite.fengeon.com/)
 - [Sprite Fusion - A simple, free tilemap Editor Online](https://www.spritefusion.com/)
+- [ZX-Paintbrush by Source Solutions, Inc.](https://sourcesolutions.itch.io/zx-paintbrush)
+- [ZXDrawer by Juntelart](https://juntelart.itch.io/zxdrawer)
 
 #### Raster graphic editor
 - ⭐ **[FireAlpaca](https://firealpaca.com/)**
@@ -1105,6 +1111,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [MewPurPur/GodSVG · GitHub](https://github.com/MewPurPur/GodSVG)
 - [ProtoSketch - Simple yet powerful graphic design for iPad](https://protosketch.io/)
 - [SmoothDraw](http://www.smoothdraw.com/)
+- [Vector Ink | Vector Design Tools for Everyone](https://vectorink.io/)
 - [Vectornator.io](https://www.vectornator.io/)
 
 ### 3D CG
@@ -1134,6 +1141,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [3DCoat - Create 3D models easily](https://3dcoat.com/)
 - [3DS Max | Autodesk](https://www.autodesk.com/products/3ds-max/overview?term=1-YEAR&tab=subscription)
 - [3DVista](https://www.3dvista.com/)
+- [Akse — Draw. Build. Print.](https://akse3d-en.skaperiet.no/) / [🔗](https://github.com/joachimhs/akse3d)
 - [ArcGIS - Esri 3D](https://www.esri.com/en-us/arcgis/3d-gis/overview)
 - [ArmorPaint | 3D PBR Texture Painting](https://armorpaint.org/)
 - [Autodesk Meshmixer](https://www.meshmixer.com/)
@@ -1159,6 +1167,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [Material-maker · GitHub](https://github.com/RodZill4/material-maker)
 - [Maya | Autodesk](https://www.autodesk.com/products/maya/overview?term=1-YEAR&tab=subscription)
 - [MeshLab](https://www.meshlab.net/)
+- [Mixar — The AI Native 3D Editor](https://www.mixar.app/) / [🔗](https://github.com/Mixar-AI/mixar-app)
 - [Nira.app](https://nira.app/)
 - [Origami Simulator](https://origamisimulator.org/)
 - [Reality Capture - Novascan 3D](https://novascan3d.com/reality-capture/)
@@ -1396,6 +1405,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 
 ### Design software
 - ⭐ **[Napkin AI - The visual AI for business storytelling](https://www.napkin.ai/)**
+- ⭐ **[Pencil – Design on canvas. Land in code.](https://www.pencil.dev/)**
 - ⭐ **[Penpot | Design Freedom for Teams](https://penpot.app/)**
 - [Brik AI – Turn Creative Vision into Living Design Tools](https://brik.space/)
 - [Capacity - Turn that idea you had in mind into a website](https://capacity.so/)
@@ -1412,7 +1422,6 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [Open Cascade](https://www.opencascade.com/)
 - [Open CoDesign | Open-Source AI Design Tool — BYOK, Local-First, MIT](https://opencoworkai.github.io/open-codesign/) / [🔗](https://github.com/OpenCoworkAI/open-codesign)
 - [Open Design — Official open-source Claude Design alternative](https://open-design.ai/) / [🔗](https://github.com/nexu-io/open-design)
-- [Pencil – Design on canvas. Land in code.](https://www.pencil.dev/)
 - [Playground - Free AI Design Tool: Logos, T-Shirts, Social Media](https://playground.com/)
 - [Recraft | AI for designers, creatives, sellers, and teams](https://www.recraft.ai/)
 - [Smart pattern - Official website of the Valentina project](https://smart-pattern.com.ua/en/) / [🔗](https://gitlab.com/smart-pattern/valentina)
@@ -1466,11 +1475,13 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [SeaDve/Delineate: View and edit graphs](https://github.com/SeaDve/Delineate)
 - [SIERRA - Phantom Helix Intelligence](https://phantomhelix.com/)
 - [skanaar/nomnoml: The sassy UML diagram renderer](https://github.com/skanaar/nomnoml)
+- [StackRender - Database Schema Diagram Editor & SQL Migration Generator](https://www.stackrender.io/) / [🔗](https://github.com/stackrender/stackrender)
 - [Star Charts](https://starchart.cc/)
 - [StarUML](https://staruml.io/)
 - [StoryFlow Editor - Visual Scripting for Interactive Stories](https://storyflow-editor.com/)
 - [STRUCTORIZER](https://structorizer.fisch.lu/)
 - [Structurizr](https://structurizr.com/)
+- [TikZ Editor](https://tikz.dev/editor/) / [🔗](https://github.com/DominikPeters/tikz-editor)
 - [UMLet - Free UML Tools](https://www.umlet.com/)
 - [Vega.io](https://vega.github.io/)
 - [Visual-paradigm](https://www.visual-paradigm.com/)
@@ -1816,6 +1827,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 
 ### Camera app
 - [Camera – Apps for GNOME](https://apps.gnome.org/Snapshot/)
+- [Cognitum RuView — See without cameras](https://cognitum.one/ruview) / [🔗](https://github.com/ruvnet/RuView)
 - [eszdman/PhotonCamera: Android Camera that uses Enhanced image processing](https://github.com/eszdman/PhotonCamera)
 - [Halide Mark II: Pro. Camera. Action.](https://halide.cam/)
 - [Kino — Pro Video Camera for iPhone](https://www.shotwithkino.com/)
@@ -2152,6 +2164,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [IPTV Stream Solutions](https://iptvstreamsolutions.com/)
 - [IPTV Streamer](https://www.iptvstreamer.com/)
 - [IPTV Web Browser Player](https://pleyr.net/en)
+- [IPTVnator - Open Source IPTV Player](https://4gray.github.io/iptvnator/) / [🔗](https://github.com/4gray/iptvnator)
 - [Jetpack IPTV - Live TV player - Apps on Google Play](https://play.google.com/store/apps/details?id=com.jetpack.iptv&hl=en)
 - [KgTv Player](https://www.kgtv.tk/)
 - [kodi-pvr/pvr.iptvsimple: IPTV Simple client for Kodi PVR](https://github.com/kodi-pvr/pvr.iptvsimple)
