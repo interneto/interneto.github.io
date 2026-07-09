@@ -2,7 +2,7 @@
 .claude/
 .vscode/
 dist/
-links/
 node_modules/
 roadmap/
+links/interneto-links.csv
 nsfw-content.md
