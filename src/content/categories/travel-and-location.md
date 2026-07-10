@@ -5,7 +5,7 @@ description: Maps, weather, travel agencies, and flights
 
 # Travel & Location
 
-**Total Bookmarks:** 781
+**Total Bookmarks:** 785
 
 - [TREK](https://demo-nomad.pakulat.org/dashboard) / [🔗](https://github.com/mauriceboe/TREK)
 
@@ -81,6 +81,7 @@ description: Maps, weather, travel agencies, and flights
 - [Mapas y listas de QSO/SWL en tiempo real](https://www.dxmaps.com/spots/mapg.php?Lan=S)
 - [OGC GeoPackage](https://www.geopackage.org/)
 - [One Piece World Map - Interactive Map of Islands and Routes](https://www.op-maps.com/en)
+- [OpenStreetData](https://openstreetdata.org/)
 - [OurAirports](https://ourairports.com/)
 - [SeismicMonitor](https://www.iris.edu/app/seismic-monitor/map?lat=16.4657&lng=-67.5192&zoom=2)
 
@@ -129,6 +130,7 @@ description: Maps, weather, travel agencies, and flights
 - [OpenSeaMap](https://map.openseamap.org/)
 - [OpenStreetBrowser](https://openstreetbrowser.org/#lat=0&lon=0&zoom=3)
 - [OpenStreetMap Data](https://planet.openstreetmap.org/)
+- [ORS Maps](https://maps.openrouteservice.org/#/place/@8.533887863159181,49.459003372452855,6)
 - [OruxMaps](https://oruxmaps.com/cs/es)
 - [Protected Planet](https://www.protectedplanet.net/)
 - [QQ Maps](https://map.qq.com/)
@@ -576,6 +578,7 @@ description: Maps, weather, travel agencies, and flights
 - [Rutas Tenerife rural](https://www.rutasteneriferural.com/es)
 - [Rutaviva](https://rutaviva.com/)
 - [seanmorley15/AdventureLog: Self-hostable travel tracker and trip planner.](https://github.com/seanmorley15/AdventureLog)
+- [Tenerife On - Cabildo de Tenerife](https://www.tenerifeon.es/)
 - [TenMas](https://tenmasmovil.es/)
 - [Thruhikes](https://thruhikes.net/)
 - [TouchTrails](https://www.touchtrails.com/)
@@ -633,6 +636,7 @@ description: Maps, weather, travel agencies, and flights
 #### Group excursions
 - [Caminantes de Aguere](https://www.caminantesdeaguere.com/)
 - [Focus On Women](https://focusonwomen.es/)
+- [Huakai: Viajes en grupo por el mundo, llena tu vida de nuevas aventuras](https://huakai.es/)
 
 ### Homestays
 - [Agoda](https://www.agoda.com/)

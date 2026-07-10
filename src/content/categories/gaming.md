@@ -5,7 +5,7 @@ description: Games, launchers, emulators, and gaming utilities
 
 # Gaming
 
-**Total Bookmarks:** 724
+**Total Bookmarks:** 726
 
 - [2048 - Apps on Google Play](https://play.google.com/store/apps/details?id=com.tpcstld.twozerogame)
 - [Anuken/Mindustry: The automation tower defense RTS](https://github.com/Anuken/Mindustry)
@@ -410,6 +410,7 @@ description: Games, launchers, emulators, and gaming utilities
 - [Bazaar DB](https://bazaardb.gg/)
 - [Blitz](https://blitz.gg/)
 - [Deck Shop for Clash Royale](https://www.deckshop.pro/)
+- [Emulation Revival - Xbox Dev Mode: Emulators, Apps & Game Ports](https://emulationrevival.github.io/)
 - [Gamepressure](https://guides.gamepressure.com/)
 - [Guías de juegos](https://www.eliteguias.com/)
 - [HowLongToBeat](https://howlongtobeat.com/)
@@ -699,6 +700,7 @@ description: Games, launchers, emulators, and gaming utilities
 - [Lincity - A City Simulation Game](https://lincity.sourceforge.net/)
 - [Microsoft Flight Simulator](https://www.flightsimulator.com/)
 - [Minetest - Open source voxel game engine](https://www.minetest.net/)
+- [MIRA](https://mira-wm.com/) / [🔗](https://github.com/mira-wm/mira)
 - [NetHack](https://www.nethack.org/)
 - [OpenCity, another 3D city simulator](http://www.opencity.info/)
 - [OpenRCT2](https://openrct2.org/)

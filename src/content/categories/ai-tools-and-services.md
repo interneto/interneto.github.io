@@ -5,7 +5,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 
 # AI Tools & Services
 
-**Total Bookmarks:** 536
+**Total Bookmarks:** 545
 
 
 ## AI Apps
@@ -15,6 +15,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - ⭐ **[AutoGPT](https://agpt.co/)** / [🔗](https://github.com/Significant-Gravitas/AutoGPT)
 - ⭐ **[n8n.io - a powerful workflow automation tool](https://n8n.io/)** / [🔗](https://github.com/n8n-io/n8n)
 - ⭐ **[OpenClaw — Personal AI Assistant](https://openclaw.ai/)** / [🔗](https://github.com/openclaw/openclaw)
+- [AgentMetal — the infra provider your agent can use itself](https://agentmetal.dev/)
 - [AlphaCode](https://alphacode.ai/en)
 - [Amazon Bedrock – Build genAI applications and agents at production scale – AWS](https://aws.amazon.com/bedrock/)
 - [AnyClaw](https://www.anyclaw.dev/)
@@ -35,6 +36,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [espressif/esp-claw: ESP-Claw, a "Chat Coding" AI agent framework for IoT devices · GitHub](https://github.com/espressif/esp-claw)
 - [EvoMap - AI Self-Evolution Infrastructure](https://evomap.ai/) / [🔗](https://github.com/EvoMap/evolver)
 - [FlowHunt](https://www.flowhunt.io/)
+- [Flue — The Open Agent Framework](https://flueframework.com/)
 - [goose | Your open source AI agent](https://goose-docs.ai/) / [🔗](https://github.com/block/goose)
 - [Gumloop | AI Automation Framework](https://www.gumloop.com/)
 - [Hermes Agent — AI Agent Framework](https://hermes-agent.nousresearch.com/) / [🔗](https://github.com/NousResearch/hermes-agent)
@@ -68,6 +70,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [SuperHQ | Run AI coding agents in real sandboxes](https://superhq.ai/)
 - [Tobira — AI Agent Network](https://tobira.ai/)
 - [viaSocket - AI Workflow Automation Tool](https://viasocket.com/)
+- [Vibe-Trading Wiki](https://vibetrading.wiki/home/) / [🔗](https://github.com/HKUDS/Vibe-Trading)
 - [Zapier | Automation that moves you forward](https://zapier.com/)
 - [zerostack — minimal coding agent](https://gi-dellav.github.io/zerostack/)
 
@@ -102,6 +105,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 
 ### AI Creative Suite
 - ⭐ **[Civitai | Stable Diffusion models, embeddings, hypernetworks and more](https://civitai.com/)**
+- ⭐ **[Comfy — Professional Control of Visual AI](https://www.comfy.org/)** / [🔗](https://github.com/Comfy-Org)
 - ⭐ **[Ideogram - Helping people become more creative](https://ideogram.ai/t/explore)**
 - ⭐ **[Leonardo.ai - AI art generator](https://leonardo.ai/)**
 - ⭐ **[Magnific - Create and edit images using AI (Freepik)](https://www.magnific.com/app/tools/image)**
@@ -109,11 +113,13 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - ⭐ **[Stability Matrix - Simple management and inference UI for Stable Diffusion](https://lykos.ai/)** / [🔗](https://github.com/LykosAI/StabilityMatrix)
 - [Artlist - Generative AI Tools & Digital Assets for Creators](https://artlist.io/)
 - [ComfyUI Cloud](https://cloud.comfy.org/cloud/login)
+- [Figma Weave | AI-Powered Design Workflows, Built for Creative Pros](https://weave.figma.com/)
+- [FLORA — Generative AI Canvas for Creative Teams](https://flora.ai/)
 - [ImagineArt - AI Creative Suite](https://www.imagine.art/)
 - [Krea: AI Creative Suite for Images, Video, & 3D](https://www.krea.ai/)
 - [Microsoft 365 Copilot – Your AI Assistant for Work and Life](https://m365.cloud.microsoft/)
 - [Open Generative AI — Free AI Image & Video Studio | Muapi](https://muapi.ai/open-generative-ai) / [🔗](https://github.com/anil-matcha/open-generative-ai)
-- [OpenArt | Discover and generate AI Art](https://openart.ai/home)
+- [OpenArt | Discover and generate AI Art](https://openart.ai/)
 - [Vheer - AI-Powered Image & Video Generation](https://vheer.com/)
 - [Weavy | AI-Powered Design Workflows, Built for Creative Pros](https://www.weavy.ai/)
 - [Zorq AI - AI Image & Video Generation Platform | Transform Ideas Into Stunning Visuals](https://zorqai.com/)
@@ -159,6 +165,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - ⭐ **[Pinokio - Localhost Platform for Humans and AI](https://pinokio.co/)** / [🔗](https://github.com/pinokiocomputer/pinokio)
 - ⭐ **[SillyTavern](https://docs.sillytavern.app/)** / [🔗](https://github.com/SillyTavern/SillyTavern)
 - [AgenticSeek - Private AI Assistant](https://fosowl.github.io/agenticSeek.html) / [🔗](https://github.com/Fosowl/agenticSeek)
+- [ayushh0110/ScreenMind: AI-powered screen memory — captures, analyzes, and lets you search/chat your screen history. Powered by Gemma 4 . 100% local, 100% private.](https://github.com/ayushh0110/ScreenMind)
 - [BerriAI/litellm · GitHub](https://github.com/BerriAI/litellm)
 - [Chatbox AI: Your AI Copilot, Best AI Client on any device, Free Download](https://chatboxai.app/en/) / [🔗](https://github.com/chatboxai/chatbox)
 - [Ensu](https://ente.io/ensu/)
@@ -197,11 +204,9 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [aider is AI pair programming in your terminal](https://aider.chat/)
 - [Air: Multitask with agents, stay in control](https://air.dev/)
 - [All Hands AI](https://www.all-hands.dev/)
-- [anthropics/claude-code · GitHub](https://github.com/anthropics/claude-code)
 - [Augment Code](https://www.augmentcode.com/)
 - [Blitzy: AI-Powered Autonomous Software Development Platform](https://blitzy.com/)
 - [Cerebras - Generate apps in 1 second](https://www.cerebras.ai/)
-- [ChromeDevTools/chrome-devtools-mcp: Chrome DevTools for coding agents](https://github.com/ChromeDevTools/chrome-devtools-mcp)
 - [Claude Code overview - Claude Code Docs](https://code.claude.com/docs/en/overview) / [🔗](https://github.com/anthropics/claude-code)
 - [Cline - AI Coding, Open Source and Uncompromised](https://cline.bot/)
 - [Codeium · Free AI Code Completion & Chat](https://codeium.com/)
@@ -224,6 +229,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [Kiro: The AI IDE for prototype to production](https://kiro.dev/)
 - [Legasite - Save a Day on Every Project](https://www.legasite.io/)
 - [Lovable - Vibe Code Apps & Websites with AI, Fast](https://lovable.dev/)
+- [Mira - Code review, at the speed of merge.](https://miracode.ai/) / [🔗](https://github.com/miracodeai/mira)
 - [Mistral AI - AI coding agents for enterprises](https://mistral.ai/products/vibe)
 - [new.website | Build Websites with AI](https://new.website/)
 - [NVIDIA NeMo | Build, monitor, and optimize AI agents](https://www.nvidia.com/en-us/ai-data-science/products/nemo/) / [🔗](https://github.com/NVIDIA-NeMo/NeMo)
@@ -269,6 +275,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [RunDiffusion - Automatic1111 in the Cloud](https://rundiffusion.com/)
 - [Stability.Ai Platform](https://platform.stability.ai/)
 - [Stable Diffusion Online](https://stablediffusionweb.com/)
+- [SwarmUI](https://swarmui.net/)
 - [TRELLIS 3D AI - Transform Images to 3D Assets Free | Trellis 3D](https://trellis3d.co/)
 
 #### AI image upscaler
@@ -319,7 +326,6 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [Typed AI - La mejor IA para opositar](https://www.typedai.com/)
 
 ### AI Video
-- ⭐ **[Comfy — Professional Control of Visual AI](https://www.comfy.org/)** / [🔗](https://github.com/comfy-org/ComfyUI)
 - ⭐ **[Hailuo AI: AI Video Generator from Text & Image](https://hailuoai.video/)**
 - ⭐ **[Higgsfield](https://www.higgsfield.ai/)**
 - [AI STUDIOS - Best AI Video Generator](https://www.aistudios.com/)
@@ -363,6 +369,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [PixVerse - Create breath-taking videos with PixVerse AI](https://app.pixverse.ai/onboard)
 - [Pollo AI - The Ultimate AI Video & Image Creation Platform](https://pollo.ai/)
 - [Rephrase.ai - Convert Text into Engaging AI Videos in Minutes](https://www.rephrase.ai/)
+- [saddam213/AmuseAI · GitHub](https://github.com/saddam213/AmuseAI)
 - [Sand.ai](https://sand.ai/)
 - [SocialArt.ai — AI Content Studio for Social Media](https://socialart.ai/)
 - [Stable Video Diffusion Online - Convert Images and Text into Videos](https://stablevideo.work/)
@@ -543,6 +550,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [Tencent-Hunyuan/HunyuanImage-3.0: HunyuanImage-3.0: A Powerful Native Multimodal Model for Image Generation](https://github.com/Tencent-Hunyuan/HunyuanImage-3.0)
 - [THUDM/CogVideo: text and image to video generation: CogVideoX (2024) and CogVideo (ICLR 2023)](https://github.com/THUDM/CogVideo)
 - [Wan-Video/Wan2.1: Wan: Open and Advanced Large-Scale Video Generative Models](https://github.com/Wan-Video/Wan2.1)
+- [ximinng/LLM4SVG: \[CVPR 2025\] Official implementation for "Empowering LLMs to Understand and Generate Complex Vector Graphics" https://arxiv.org/abs/2412.11102](https://github.com/ximinng/LLM4SVG)
 - [XLabs-AI/flux-controlnet-collections · Hugging Face](https://huggingface.co/XLabs-AI/flux-controlnet-collections)
 - [young-geng/EasyLM · GitHub](https://github.com/young-geng/EasyLM)
 - [yuruotong1/autoMate: Like Manus, Computer Use Agent(CUA) and Omniparser, we are computer-using agents.AI-driven local automation assistant that uses natural language to make computers work by themselves](https://github.com/yuruotong1/autoMate)
@@ -568,6 +576,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [LiteLLM](https://litellm.ai/) / [🔗](https://github.com/BerriAI/litellm)
 - [Llama.cpp - Run LLM Inference in C/C++](https://llama-cpp.com/) / [🔗](https://github.com/ggml-org/llama.cpp)
 - [LLMLingua Series | Effectively Deliver Information to LLMs via Prompt Compression](https://llmlingua.com/) / [🔗](https://github.com/microsoft/LLMLingua)
+- [lyogavin/airllm: AirLLM 70B inference with single 4GB GPU · GitHub](https://github.com/lyogavin/airllm)
 - [Memori – The memory fabric for enterprise AI](https://memorilabs.ai/)
 - [microsoft/semantic-kernel: Integrate cutting-edge LLM technology quickly and easily into your apps](https://github.com/microsoft/semantic-kernel)
 - [MLC LLM | Home](https://llm.mlc.ai/) / [🔗](https://github.com/mlc-ai/mlc-llm)

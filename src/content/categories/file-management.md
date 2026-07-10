@@ -5,7 +5,7 @@ description: File sharing, downloaders, torrents, and cloud storage
 
 # File Management
 
-**Total Bookmarks:** 828
+**Total Bookmarks:** 831
 
 
 ## Backup
@@ -159,6 +159,7 @@ description: File sharing, downloaders, torrents, and cloud storage
 - [LZ4 - Extremely fast compression](https://lz4.org/)
 - [MacPacker - Preview & Extract (nested) archives on macOS](https://macpacker.app/)
 - [Mass Image Compressor](https://sourceforge.net/projects/icompress/)
+- [NanaZip](https://nanazip.org/) / [🔗](https://github.com/M2Team/NanaZip)
 - [Opus Codec](https://opus-codec.org/)
 - [PeaZip](https://peazip.github.io/)
 - [RIOT - Radical Image Optimization Tool](https://riot-optimizer.com/)
@@ -284,7 +285,7 @@ description: File sharing, downloaders, torrents, and cloud storage
 ### Encryptor
 - ⭐ **[Cryptomator](https://cryptomator.org/)**
 - ⭐ **[Hat.sh - client-side encryption](https://hat.sh/)**
-- ⭐ **[VeraCrypt](https://veracrypt.io/en/Home.html)** / [🔗](https://veracrypt.io/en/Home.html)
+- ⭐ **[VeraCrypt](https://veracrypt.io/en/Home.html)** / [🔗](https://github.com/veracrypt/VeraCrypt)
 - [AES Crypt](https://aescrypt.com/)
 - [AxCrypt - File Security Made Easy](https://axcrypt.net/)
 - [BitLocker](https://docs.microsoft.com/en-us/windows/security/information-protection/bitlocker/bitlocker-overview)
@@ -301,7 +302,6 @@ description: File sharing, downloaders, torrents, and cloud storage
 - [Eraser](https://sourceforge.net/projects/eraser/)
 - [FiloSottile/age: A simple, modern and secure encryption tool](https://github.com/FiloSottile/age)
 - [GNU PG](https://gnupg.org/)
-- [HACKERALERT/Picocrypt · GitHub](https://github.com/HACKERALERT/Picocrypt)
 - [Jpinsoft/DeepSound: Official DeepSound repository migrated from jpinsoft.net. DeepSound is a freeware steganography tool and audio converter that hides secret data into audio files. The application also enables you to extract secret files directly from audio files or audio CD tracks.](https://github.com/Jpinsoft/DeepSound)
 - [kryptor](https://www.kryptor.co.uk/)
 - [mhogomchungu/zuluCrypt · GitHub](https://github.com/mhogomchungu/zuluCrypt)
@@ -340,6 +340,7 @@ description: File sharing, downloaders, torrents, and cloud storage
 - [Khaleel Al-Adhami / Switcheroo · GitLab](https://gitlab.com/adhami3310/Switcheroo)
 - [MacX DVD Video Converter](https://www.macxdvd.com/)
 - [medialab/xan: The CSV magician](https://github.com/medialab/xan)
+- [MinerU](https://opendatalab.github.io/MinerU/) / [🔗](https://github.com/opendatalab/MinerU)
 - [PDFyogi - Free PDF Tools Online](https://pdfyogi.com/)
 - [PoikoSoft](https://www.poikosoft.com/)
 - [Vector Magic](https://vectormagic.com/)
@@ -430,6 +431,7 @@ description: File sharing, downloaders, torrents, and cloud storage
 - [HTML bookmarks into CSV](https://gist.github.com/keikoro/699e2003d5814bc0d5224a9e78676373)
 - [HTML to Markdown Converter - HTML to Markdown](https://htmlmarkdown.com/)
 - [HTML to OPML Converter](https://www.vertopal.com/en/convert/html-to-opml)
+- [html.to.design — Convert any website into fully editable Figma designs](https://html.to.design/home)
 - [Word 2 MD](https://word2md.com/)
 - [Word to HTML](https://wordhtml.com/)
 - [Word To HTML](https://wordtohtml.net/)
@@ -746,6 +748,7 @@ description: File sharing, downloaders, torrents, and cloud storage
 ## File Search
 - [cardisoft/cardinal: Fastest file searching tool for macOS](https://github.com/cardisoft/cardinal)
 - [Cling - Instant fuzzy find any file, act on it in the same instant](https://lowtechguys.com/cling/)
+- [fzf](https://junegunn.github.io/fzf/) / [🔗](https://github.com/junegunn/fzf)
 - [Omni - local semantic search for your Mac](https://hanxiao.io/omni/)
 
 ## File system

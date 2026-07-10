@@ -5,7 +5,7 @@ description: Email, messaging, forums, social networks, and video conferencing
 
 # Social & Communications
 
-**Total Bookmarks:** 1409
+**Total Bookmarks:** 1414
 
 
 ## 2FA
@@ -40,6 +40,7 @@ description: Email, messaging, forums, social networks, and video conferencing
 
 ## Autopilot system
 - [ArduPilot](https://ardupilot.org/)
+- [Comma Openpilot — make driving chill](https://comma.ai/openpilot) / [🔗](https://github.com/commaai/openpilot)
 - [Litchi for DJI Drones](https://www.flylitchi.com/)
 - [PX4 Autopilot](https://px4.io/)
 - [QGroundControl - Drone Control](http://qgroundcontrol.com/)
@@ -51,6 +52,7 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [BirdyChat - Work Chat & Productivity](https://www.birdy.chat/)
 - [Chatango](https://chatango.com/)
 - [Chatterino](https://chatterino.com/)
+- [Chatto — Self-hostable team chat](https://chatto.run/) / [🔗](https://github.com/chattocorp/chatto)
 - [Choqok](https://choqok.kde.org/)
 - [Cinny](https://cinny.in/) / [🔗](https://github.com/cinnyapp/cinny)
 - [Conduit - Your own chat server](https://conduit.rs/)
@@ -155,6 +157,7 @@ description: Email, messaging, forums, social networks, and video conferencing
 - ⭐ **[Webtor.io - Download and play torrents](https://webtor.io/#/)**
 - ⭐ **[WebTorrent - Streaming browser torrent client](https://webtorrent.io/)** / [🔗](https://github.com/webtorrent/webtorrent)
 - [alanmcgovern/monotorrent · GitHub](https://github.com/alanmcgovern/monotorrent)
+- [aMule, the all-platform eMule-like P2P client](https://www.amule.org/) / [🔗](https://sourceforge.net/projects/amule/files/aMule/)
 - [ArabP2P](https://www.arabp2p.net/)
 - [aTube Catcher](https://www.atube.me/)
 - [axet / android-torrent-client · GitLab](https://gitlab.com/axet/android-torrent-client)
@@ -523,6 +526,7 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [DropMail.me](https://dropmail.me/en/)
 - [Email Fake](https://emailfake.com/)
 - [Emailnator - Disposable Temp Mail](https://www.emailnator.com/)
+- [Free Edu Email Generator | Instant Temp Edu Mail](https://edumailfree.com/)
 - [free-sms](https://www.receive-sms-online.info/34634106970-Spain)
 - [Guerrilla Mail](https://www.guerrillamail.com/)
 - [Inboxes - Disposable Temporary email.](https://inboxes.com/)
@@ -718,6 +722,7 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [Misskey](https://join.misskey.page/en-US/)
 - [Movim](https://movim.eu/)
 - [NKN | Network Infrastructure for Decentralized Internet](https://nkn.org/)
+- [Olas | Co-own AI](https://olas.network/)
 - [Open-Mesh](https://www.open-mesh.org/projects/open-mesh/wiki) / [🔗](https://git.open-mesh.org/batman-adv.git)
 - [PeakD](https://peakd.com/)
 - [PeerTube](https://joinpeertube.org/)

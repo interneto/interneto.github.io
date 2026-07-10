@@ -5,7 +5,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 
 # OS & Utilities
 
-**Total Bookmarks:** 1112
+**Total Bookmarks:** 1117
 
 - [Comparison of OS - Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_operating_systems)
 - [Comparison of real-time operating systems - Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_real-time_operating_systems)
@@ -94,7 +94,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [Bliss OS](https://blissos.org/)
 - [BlissRoms](https://blissroms.org/)
 - [Bootleggers ROM](https://www.bootleggersrom.xyz/)
-- [CalyxOS](https://calyxos.org/)
+- [CalyxOS](https://calyxos.org/) / [🔗](https://gitlab.com/CalyxOS)
 - [Chainfire](https://chainfire.eu/)
 - [ColorOS](https://www.coloros.com/)
 - [ColorOS 12 | OPPO Global](https://www.oppo.com/en/coloros12/)
@@ -277,6 +277,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [Haiku OS](https://www.haiku-os.org/)
 - [IBM z/OS operating system](https://www.ibm.com/products/zos)
 - [Inferno](https://www.vitanuova.com/inferno/)
+- [Inferno OS: operating system for portable distributed applications](https://inferno-os.org/)
 - [KolibriOS](https://www.kolibrios.org/en/)
 - [KotOS](https://kot-org.github.io/)
 - [meanOs - The smallest and the most powerful operating system](https://mean.xn--s-sqa.com/)
@@ -326,6 +327,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [Hackintosh.com](https://hackintosh.com/)
 - [macOS - apple](https://www.apple.com/macos/)
 - [macOS 14 - Internet Archive](https://archive.org/details/macOS_14_Sonoma_beta_4_ISO)
+- [OpenCore Legacy Patcher](https://dortania.github.io/OpenCore-Legacy-Patcher/) / [🔗](https://github.com/dortania/OpenCore-Legacy-Patcher/)
 
 ##### Unix-like
 
@@ -467,6 +469,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [Freespire](https://www.freespire.net/)
 - [Gnoppix Linux](https://www.gnoppix.com/)
 - [GnoppixNG](https://sourceforge.net/projects/gnoppixng/)
+- [GNU Super Lite Linux download | SourceForge.net](https://sourceforge.net/projects/gnu-super-lite-linux/)
 - [GParted - Live CD](https://gparted.org/livecd.php)
 - [grml.org](https://grml.org/)
 - [HackerOS](https://hackeros-linux-system.github.io/HackerOS-Website/Home-page.html)
@@ -618,6 +621,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [Linux-Mandrake](https://mandrakelinux.org/)
 - [Linuxfx OS](https://www.linuxfx.org/)
 - [List of Linux distributions - Wikipedia](https://en.wikipedia.org/wiki/List_of_Linux_distributions)
+- [luke8086/gentleos32: Hobby operating system for vintage 32-bit PCs](https://github.com/luke8086/gentleos32)
 - [NixOS Hydra](https://hydra.nixos.org/)
 - [nuta/kerla · GitHub](https://github.com/nuta/kerla)
 - [NuTyX GNU/Linux](https://www.nutyx.org/en/)
@@ -638,6 +642,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [PrimTux](https://primtux.fr/)
 - [Regata OS](https://www.regataos.com.br/)
 - [rlxos](https://rlxos.dev/)
+- [rokudev/lt-sdk](https://github.com/rokudev/lt-sdk)
 - [Runtu](https://runtu.org/)
 - [SELinuxProject/selinux: This is the upstream repository for the Security Enhanced Linux (SELinux) userland libraries and tools. The software provided by this project complements the SELinux features integrated into the Linux kernel and is used by Linux distributions. All bugs and patches should be submitted to selinux@vger.kernel.org](https://github.com/SELinuxProject/selinux)
 - [Serpent OS](https://www.serpentos.com/)
@@ -850,7 +855,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [NsCDE/NsCDE · GitHub](https://github.com/NsCDE/NsCDE)
 - [Phosh](https://phosh.mobi/) / [🔗](https://gitlab.gnome.org/World/Phosh/phosh)
 - [ROX Desktop](http://rox.sourceforge.net/desktop/)
-- [Sxmo: Simple X mobile](https://sxmo.org/)
+- [Sxmo: Simple X mobile](https://sxmo.org/) / [🔗](https://sxmo.org/source)
 - [theShell - Vicr123](https://old.vicr123.com/theshell/)
 - [Trinity Desktop Environment](https://trinitydesktop.org/)
 - [UDE - Unix Desktop Environment](https://udeproject.sourceforge.net/)

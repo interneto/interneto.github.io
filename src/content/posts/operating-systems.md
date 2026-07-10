@@ -18,20 +18,20 @@ An operating system sits between the hardware and your apps. Two things define o
 
 Most OSes are a single, vendor-controlled product. **Linux** is the exception — it's only a kernel, around which thousands of **distributions** bundle their own userland into complete systems. The mobile OSes aren't new kernels either: **Android** is built on Linux, and **iOS** shares the **Darwin** core with macOS.
 
-| OS          | Kernel                    | Vendor / model              | Packaging (manager · format)                     | File system (default)  | Desktop (default)            | CPU architectures      | License                   | Primary domain              |
-|:------------|:--------------------------|:----------------------------|:-------------------------------------------------|:-----------------------|:-----------------------------|:-----------------------|:--------------------------|:----------------------------|
-| **Linux**   | Linux (monolithic)        | Community — many distros    | apt · dnf · pacman / `.deb` `.rpm` `.pkg`        | ext4 (Btrfs, XFS, ZFS) | GNOME / KDE (distro choice)  | x86-64, ARM, RISC-V, … | FOSS (GPL)                | Servers, desktop, embedded  |
-| **Windows** | NT (hybrid)               | Microsoft (proprietary)     | winget · exe/MSI · Store / `.exe` `.msi` `.appx` | NTFS (ReFS)            | Windows shell (Explorer)     | x86-64, ARM64          | Proprietary               | Desktop, gaming, enterprise |
-| **macOS**   | XNU / Darwin (Mach + BSD) | Apple (proprietary)         | Homebrew · App Store / `.app` `.dmg` `.pkg`      | APFS (HFS+)            | Aqua (Finder)                | ARM64 (Apple Silicon)  | Proprietary (Darwin open) | Desktop, creative           |
-| **FreeBSD** | BSD (monolithic)          | Community (FreeBSD Project) | pkg · ports / `.pkg` (txz)                       | UFS, ZFS               | None default (X11 + DE opt.) | x86-64, ARM, RISC-V    | BSD (permissive)          | Servers, networking, NAS    |
-| **Android** | Linux                     | Google + OEMs (AOSP open)   | Play Store · APK / `.apk`                        | ext4 / F2FS            | Android UI (OEM skins)       | ARM64, x86             | Apache / FOSS core        | Mobile, embedded, TV        |
-| **iOS**     | XNU / Darwin              | Apple (proprietary)         | App Store / `.ipa`                               | APFS                   | SpringBoard                  | ARM64 (Apple)          | Proprietary               | Mobile (iPhone/iPad)        |
+| OS                                                                                                                                              | Kernel                    | Vendor / model              | Packaging (manager · format)                     | File system (default)  | Desktop (default)            | CPU architectures      | License                   | Primary domain              |
+|:------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------|:----------------------------|:-------------------------------------------------|:-----------------------|:-----------------------------|:-----------------------|:--------------------------|:----------------------------|
+| <img src="/img/assets/operating-systems/linux.svg" width="20" height="20" alt="" style="vertical-align:middle;margin-right:6px" />**Linux**     | Linux (monolithic)        | Community — many distros    | apt · dnf · pacman / `.deb` `.rpm` `.pkg`        | ext4 (Btrfs, XFS, ZFS) | GNOME / KDE (distro choice)  | x86-64, ARM, RISC-V, … | FOSS (GPL)                | Servers, desktop, embedded  |
+| <img src="/img/assets/operating-systems/windows.svg" width="20" height="20" alt="" style="vertical-align:middle;margin-right:6px" />**Windows** | NT (hybrid)               | Microsoft (proprietary)     | winget · exe/MSI · Store / `.exe` `.msi` `.appx` | NTFS (ReFS)            | Windows shell (Explorer)     | x86-64, ARM64          | Proprietary               | Desktop, gaming, enterprise |
+| <img src="/img/assets/operating-systems/macos.svg" width="20" height="20" alt="" style="vertical-align:middle;margin-right:6px" />**macOS**     | XNU / Darwin (Mach + BSD) | Apple (proprietary)         | Homebrew · App Store / `.app` `.dmg` `.pkg`      | APFS (HFS+)            | Aqua (Finder)                | ARM64 (Apple Silicon)  | Proprietary (Darwin open) | Desktop, creative           |
+| <img src="/img/assets/operating-systems/freebsd.svg" width="20" height="20" alt="" style="vertical-align:middle;margin-right:6px" />**FreeBSD** | BSD (monolithic)          | Community (FreeBSD Project) | pkg · ports / `.pkg` (txz)                       | UFS, ZFS               | None default (X11 + DE opt.) | x86-64, ARM, RISC-V    | BSD (permissive)          | Servers, networking, NAS    |
+| <img src="/img/assets/operating-systems/android.svg" width="20" height="20" alt="" style="vertical-align:middle;margin-right:6px" />**Android** | Linux                     | Google + OEMs (AOSP open)   | Play Store · APK / `.apk`                        | ext4 / F2FS            | Android UI (OEM skins)       | ARM64, x86             | Apache / FOSS core        | Mobile, embedded, TV        |
+| <img src="/img/assets/operating-systems/ios.svg" width="20" height="20" alt="" style="vertical-align:middle;margin-right:6px" />**iOS**       | XNU / Darwin              | Apple (proprietary)         | App Store / `.ipa`                               | APFS                   | SpringBoard                  | ARM64 (Apple)          | Proprietary               | Mobile (iPhone/iPad)        |
 
 > Kernels cluster into a few lineages: **Linux** (Linux, Android), **Darwin/BSD** (macOS, iOS, FreeBSD/OpenBSD/NetBSD), and **NT** (Windows). Much of what feels different between systems is the userland and ecosystem, not the kernel.
 
 ---
 
-## Linux Distributions
+## <img src="/img/assets/operating-systems/linux.svg" width="28" height="28" alt="" style="vertical-align:middle;margin-right:8px" />Linux Distributions
 
 A distribution bundles the Linux kernel with a package manager, init system, desktop environment, and default software. Choosing one means choosing a philosophy: rolling releases or stable snapshots, binary packages or source compilation, curated defaults or complete freedom. Most distros inherit tooling and repositories from a common ancestor — the family tree below.
 
@@ -55,19 +55,19 @@ For a deep distro-by-distro feature matrix, see the eylenburg comparisons under 
 
 ---
 
-## Windows
+## <img src="/img/assets/operating-systems/windows.svg" width="28" height="28" alt="" style="vertical-align:middle;margin-right:8px" />Windows
 
 Microsoft's **NT** kernel (hybrid design), the dominant desktop and gaming OS. Proprietary, tightly integrated with Office and the enterprise/Active Directory world. Software arrives as `.exe`/`.msi` installers, increasingly via **winget** (CLI) and the **Microsoft Store**. Editions range from Home/Pro to Server and the stripped-down **LTSC**. **WSL** runs a real Linux userland inside Windows.
 
-## macOS
+## <img src="/img/assets/operating-systems/macos.svg" width="28" height="28" alt="" style="vertical-align:middle;margin-right:8px" />macOS
 
 Apple's desktop OS, built on **XNU/Darwin** — a hybrid of the **Mach** microkernel and a **BSD** userland (so it's Unix-certified). Proprietary and tied to Apple hardware (Apple Silicon). Apps ship as `.app` bundles via drag-install, the **App Store**, or **Homebrew** for the command line. Shares its Darwin core with iOS.
 
-## BSD
+## <img src="/img/assets/operating-systems/freebsd.svg" width="28" height="28" alt="" style="vertical-align:middle;margin-right:8px" />BSD
 
 The other Unix lineage, permissively licensed (BSD), prized for coherence and networking. **FreeBSD** (servers, storage/NAS, the base of PlayStation and Netflix's CDN), **OpenBSD** (security-first, firewalls), **NetBSD** (portability), **DragonFly BSD**. Software via **ports** (source) and **pkg** (binary). macOS's userland and many tools descend from BSD.
 
-## Mobile: Android & iOS
+## <img src="/img/assets/operating-systems/android.svg" width="28" height="28" alt="" style="vertical-align:middle;margin-right:4px" /><img src="/img/assets/operating-systems/ios.svg" width="28" height="28" alt="" style="vertical-align:middle;margin-right:8px" />Mobile: Android & iOS
 
 - **Android** — a Linux kernel plus Google's **AOSP** userland. Open at the core, but most phones ship an OEM skin (One UI, etc.); custom **ROMs** like LineageOS or GrapheneOS replace it. Apps are **APK**s via the Play Store or sideloading. Also powers Wear OS, Android TV, and Android Automotive.
 - **iOS** — Apple's mobile OS on the same **Darwin** core as macOS. Closed and curated: apps only through the **App Store** (IPA), strict sandboxing. Variants: iPadOS, watchOS, tvOS.

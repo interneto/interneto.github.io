@@ -28,6 +28,7 @@ const isPathActive = (link: string): boolean => {
 
 // Build category items (used on /categories/ index only)
 const categoryItems: SidebarItem[] = [
+  { text: '🏢 By Company', href: `${BASE}categories/by-company/`, isActive: isPathActive(`${BASE}categories/by-company/`) },
   { text: '🤖 AI Tools & Services', href: `${BASE}categories/ai-tools-and-services/`, isActive: isPathActive(`${BASE}categories/ai-tools-and-services/`) },
   { text: '� Business & Commerce', href: `${BASE}categories/business-and-commerce/`, isActive: isPathActive(`${BASE}categories/business-and-commerce/`) },
   { text: '💻 Development', href: `${BASE}categories/development/`, isActive: isPathActive(`${BASE}categories/development/`) },
