@@ -2505,6 +2505,24 @@
         "windows_winget": "LibreWolf.LibreWolf"
       }
     },
+    "llama-cpp": {
+      "name": "llama.cpp",
+      "category": "development",
+      "subcategory": "AI Assistant",
+      "package_manager": {
+        "linux_arch_aur": "llama.cpp",
+        "linux_arch_pacman": null,
+        "linux_debian_apt": null,
+        "linux_fedora_rpm": null,
+        "linux_gentoo_emerge": null,
+        "linux_flatpak": null,
+        "linux_snap": null,
+        "freebsd_pkg": "llama-cpp",
+        "macos_brew": "llama.cpp",
+        "unix_nix_env": "nixos.llama-cpp",
+        "windows_winget": "ggml.llamacpp"
+      }
+    },
     "lmms": {
       "name": "LMMS",
       "category": "audio-and-music",
