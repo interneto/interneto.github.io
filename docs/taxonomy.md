@@ -99,7 +99,7 @@ The converter (`scripts/convert.js`) reads the CSV, groups by top-level folder, 
 
 | Old (`categories.js` pre-Jun-2026) | New                       | Action                                                       |
 |------------------------------------|---------------------------|--------------------------------------------------------------|
-| `by-Company`                       | —                         | **Special page** (alternative view, not a taxonomy category) |
+| `by-Company`                       | —                         | Removed (2026-07-27, no longer used)                          |
 | `OS`                               | `OS & Utilities`          | Renamed                                                      |
 | `AI Tools & Services`              | `AI Tools & Services`     | ✅                                                            |
 | `Dev`                              | `Development`             | Renamed                                                      |
@@ -238,10 +238,6 @@ Posts use freeform `tags` in frontmatter. An optional `category` field reference
 ---
 
 ## Special cases
-
-### `by-Company`
-
-Not a taxonomy category. An alternative view grouping links by parent company (Google, Microsoft, Meta, etc.). Kept as a special page outside the taxonomy hierarchy.
 
 ### NSFW
 
