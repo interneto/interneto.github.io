@@ -2091,6 +2091,24 @@
         "windows_winget": null
       }
     },
+    "jj": {
+      "name": "Jujutsu",
+      "category": "development",
+      "subcategory": "Version Control",
+      "package_manager": {
+        "linux_arch_aur": "jujutsu-git",
+        "linux_arch_pacman": "jujutsu",
+        "linux_debian_apt": null,
+        "linux_fedora_rpm": null,
+        "linux_gentoo_emerge": "dev-vcs/jj",
+        "linux_flatpak": null,
+        "linux_snap": null,
+        "freebsd_pkg": "jujutsu",
+        "macos_brew": "jj",
+        "unix_nix_env": "nixos.jujutsu",
+        "windows_winget": "jj-vcs.jj"
+      }
+    },
     "joplin": {
       "name": "Joplin",
       "category": "office-and-productivity",
