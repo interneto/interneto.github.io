@@ -146,14 +146,15 @@ const FAMILY_LABEL: Record<OsRow['family'], string> = {
      from Windows/macOS. */
   .os-group-row td {
     padding: 0.4rem clamp(6px, 1.5vw, 14px) !important;
+    text-align: left;
     font-size: 0.72rem;
     font-weight: 700;
     letter-spacing: 0.06em;
     text-transform: uppercase;
     color: var(--text-secondary);
     background: var(--surface-muted);
-    border-top: 1px solid var(--border-color);
-    border-bottom: 1px solid var(--border-color);
+    border-top: 1px solid var(--table-line-color);
+    border-bottom: 1px solid var(--table-line-color);
   }
 
   /* These two cells hold short phrases, let them wrap rather than shrink. */

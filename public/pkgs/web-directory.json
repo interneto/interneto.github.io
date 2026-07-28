@@ -381,13 +381,6 @@
         },
         {
             "category": "development",
-            "name": "GitHub Explore",
-            "icon": "github.svg",
-            "link": "https://github.com/explore",
-            "tags": []
-        },
-        {
-            "category": "development",
             "name": "GitLab",
             "icon": "gitlab.ico",
             "link": "https://about.gitlab.com/",
@@ -402,16 +395,9 @@
         },
         {
             "category": "development",
-            "name": "Homebrew Formulae",
-            "icon": "homebrew-formulae.svg",
-            "link": "https://formulae.brew.sh/formula/",
-            "tags": []
-        },
-        {
-            "category": "development",
-            "name": "homebrew-cask",
-            "icon": "homebrew-cask.svg",
-            "link": "https://formulae.brew.sh/cask/",
+            "name": "homebrew",
+            "icon": "homebrew.svg",
+            "link": "https://formulae.brew.sh/",
             "tags": []
         },
         {
@@ -2506,13 +2492,6 @@
         },
         {
             "category": "business-and-commerce",
-            "name": "Etsy",
-            "icon": "etsy.png",
-            "link": "https://www.etsy.com/",
-            "tags": []
-        },
-        {
-            "category": "business-and-commerce",
             "name": "Etsy Spain",
             "icon": "etsy-spain.png",
             "link": "https://www.etsy.com/",
@@ -2550,13 +2529,6 @@
             "name": "HDTracks",
             "icon": "hdtracks.ico",
             "link": "https://www.hdtracks.com/",
-            "tags": []
-        },
-        {
-            "category": "business-and-commerce",
-            "name": "HiperDino",
-            "icon": "hiperdino.png",
-            "link": "https://www.hiperdino.es/c9495/",
             "tags": []
         },
         {
@@ -3064,18 +3036,6 @@
         },
         {
             "category": "video-and-movies",
-            "name": "Cineby",
-            "link": "https://www.cineby.gd/",
-            "tags": []
-        },
-        {
-            "category": "video-and-movies",
-            "name": "cinecalidad.pro",
-            "link": "https://cinecalidad.pro/",
-            "tags": []
-        },
-        {
-            "category": "video-and-movies",
             "name": "Cinemaos",
             "icon": "cinemaos.svg",
             "link": "https://cinemaos.tech/",
@@ -3177,16 +3137,6 @@
             "icon": "plex-tv.ico",
             "link": "https://watch.plex.tv/",
             "tags": []
-        },
-        {
-            "category": "video-and-movies",
-            "name": "Plex Web",
-            "icon": "plex.svg",
-            "link": "https://app.plex.tv/desktop/#!/",
-            "tags": [
-                "desktop",
-                "mobile"
-            ]
         },
         {
             "category": "video-and-movies",

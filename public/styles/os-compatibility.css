@@ -5,6 +5,11 @@
 
 :root {
     --sticky-first-col-width: 120px;
+    /* One line color for every table rule (row + column dividers) so light and
+       dark themes read with the same visual weight. Mixing toward --text-primary
+       (instead of a fixed gray) keeps contrast against --card-background
+       consistent in both themes without a separate dark-mode override. */
+    --table-line-color: color-mix(in srgb, var(--border-color) 55%, var(--text-primary) 45%);
 }
 
 /* ==========================================================================
@@ -55,6 +60,7 @@ h1 {
     font-size: 0.7em;
     color: var(--text-muted);
     margin-bottom: var(--spacing-md);
+    text-align: center;
 }
 
 /* Controls & Search */
@@ -62,17 +68,18 @@ h1 {
     margin-bottom: var(--spacing-md);
 }
 
+/* Search and filter chips always stack as two rows — mixing them into one
+   wrapping flex row let the search box's width shift depending on how many
+   chips happened to fit next to it. */
 .controls .page-controls-panel {
     display: flex;
-    flex-wrap: wrap;
-    gap: 8px 10px;
+    flex-direction: column;
     align-items: center;
-    justify-content: flex-start;
+    gap: 10px;
 }
 
 .page-controls-inline {
     display: flex;
-    flex: 1 1 260px;
     flex-wrap: wrap;
     gap: 8px;
     align-items: center;
@@ -89,7 +96,7 @@ h1 {
     display: flex;
     flex-wrap: wrap;
     gap: var(--spacing-xs);
-    justify-content: flex-start;
+    justify-content: center;
     margin-top: 0;
 }
 
@@ -152,9 +159,15 @@ h1 {
     font-size: 14px;
 }
 
-.search-box {
-    flex: 1 1 320px;
-    min-width: min(100%, 280px);
+/* Specificity note: base-styles.css's ".page-controls .search-box" (2 classes,
+   inside a breakpoint) beats a plain ".search-box" and sets flex: 1 1 16rem.
+   That was harmless growing width in the old row layout; growing height in
+   this column layout is what stretched the box — match its specificity to
+   reset flex-grow back to 0. */
+.page-controls .search-box {
+    flex: 0 1 auto;
+    width: 100%;
+    max-width: 420px;
 }
 
 .search-box input {
@@ -197,14 +210,47 @@ h1 {
 
 /* Table Container */
 .table-container {
-    border-radius: 18px;
-    margin: 0;
+    --table-radius: 18px;
+    border-radius: var(--table-radius);
+    /* Cap the table's width on wide screens — the page container goes up to
+       2200px, but a row of short cells stretched that wide forces the eye to
+       travel too far to compare columns. Centered so it doesn't hug the left
+       edge once capped. */
+    max-width: 1040px;
+    margin: 0 auto;
     background: linear-gradient(180deg, color-mix(in srgb, var(--card-background) 96%, var(--primary-color) 4%), color-mix(in srgb, var(--card-background) 91%, var(--primary-color) 9%));
+}
+
+/* The header's sticky-col cell paints its own opaque background above the
+   thead gradient (see th.sticky-col below), and the last row's cells paint
+   over the container's bottom corners — both would otherwise square off
+   against the container's rounded corners. Round those cells directly rather
+   than clipping the container (overflow:hidden would break the sticky thead). */
+thead th:first-child {
+    border-top-left-radius: calc(var(--table-radius) - 1px);
+}
+
+thead th:last-child {
+    border-top-right-radius: calc(var(--table-radius) - 1px);
+}
+
+tbody tr:last-child td:first-child {
+    border-bottom-left-radius: calc(var(--table-radius) - 1px);
+}
+
+tbody tr:last-child td:last-child {
+    border-bottom-right-radius: calc(var(--table-radius) - 1px);
 }
 
 table {
     width: 100%;
-    border-collapse: collapse;
+    /* border-collapse: collapse silently drops border-radius on td/th in every
+       browser — needed below so the header/footer corners nest inside the
+       container's rounded corner instead of squaring off against it. Only one
+       side of each shared edge ever declares a border (border-left/-bottom),
+       so separate + zero spacing renders identically to collapse otherwise. */
+    border-collapse: separate;
+    border-spacing: 0;
     background: transparent;
     font-size: clamp(0.85em, 2vw, 1em);
 }
@@ -227,7 +273,16 @@ th {
     z-index: 10;
     white-space: nowrap;
     background: transparent;
-    border-bottom: 1px solid color-mix(in srgb, var(--primary-color) 40%, #0f172a 60%);
+    border-bottom: 1px solid var(--table-line-color);
+}
+
+/* Identity columns (Category/App, OS name, …) read left-to-right like a label;
+   every other column holds a status icon, short code, or badge, so it's
+   centered — one alignment rule per column "kind" instead of per page. */
+th:not(.sticky-col),
+td:not(.sticky-col) {
+    text-align: center;
+    border-left: 1px solid var(--table-line-color);
 }
 
 th.sortable:focus-visible {
@@ -250,7 +305,8 @@ th.sticky-col {
 }
 
 td.sticky-col {
-    box-shadow: 2px 0 0 color-mix(in srgb, var(--border-color) 70%, var(--primary-color) 30%);
+    background: var(--card-background);
+    box-shadow: 2px 0 0 var(--table-line-color);
 }
 
 th.sticky-col.app-col {
@@ -260,7 +316,10 @@ th.sticky-col.app-col {
 th.sortable {
     cursor: pointer;
     user-select: none;
-    position: relative;
+    /* Not "position: relative" — th already gets position:sticky (it's still
+       a valid positioning context for the absolutely-positioned sort arrows
+       below). Overriding it to relative here silently broke the sticky
+       header for every sortable column (Category/App). */
     padding-right: clamp(14px, 2vw, 30px);
 }
 
@@ -282,16 +341,15 @@ td:nth-child(2) {
     padding: clamp(4px, 1vw, 12px) clamp(2px, 0.5vw, 10px);
 }
 
-/* OS columns - much narrower */
+/* OS columns - much narrower (alignment + divider come from the generic
+   :not(.sticky-col) rule above) */
 th.os-column,
 td.os-column {
-    text-align: center;
     min-width: 32px;
     width: 100px;
     max-width: 100px;
     padding: clamp(6px, 1.5vw, 14px) clamp(1px, 0.5vw, 6px);
     font-size: clamp(0.7em, 1.4vw, 0.82em);
-    border-left: 1px solid color-mix(in srgb, var(--border-color) 82%, var(--primary-color) 18%);
 }
 
 td.os-column {
@@ -367,9 +425,16 @@ td.os-column {
 /* Table Data - Mobile */
 td {
     padding: clamp(4px, 1vw, 12px) clamp(2px, 0.5vw, 10px);
-    border-bottom: 1px solid color-mix(in srgb, var(--border-color) 78%, var(--primary-color) 22%);
+    border-bottom: 1px solid var(--table-line-color);
     font-size: clamp(0.78em, 1.6vw, 0.9em);
     min-width: 0;
+}
+
+/* Zebra striping — scoped to the identity columns (Category/App) only. The
+   value columns (status icons, codes, links) stay one flat color; striping
+   them too made the whole row look busy instead of just labeling it. */
+tbody tr:nth-child(even) td.sticky-col {
+    background-color: color-mix(in srgb, var(--surface-muted) 65%, transparent);
 }
 
 td.os-available {
@@ -505,7 +570,7 @@ tbody tr {
     }
 
     .search-box {
-        max-width: 600px;
+        max-width: 420px;
         margin: 0;
     }
 

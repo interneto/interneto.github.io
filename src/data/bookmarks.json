@@ -7545,11 +7545,6 @@
                                             "title": "Yandex Maps",
                                             "type": "text/x-moz-place",
                                             "uri": "https://yandex.com/maps/"
-                                        },
-                                        {
-                                            "title": "Yandex metro map",
-                                            "type": "text/x-moz-place",
-                                            "uri": "https://yandex.com/metro/moscow?scheme_id=sc34974011"
                                         }
                                     ]
                                 },
