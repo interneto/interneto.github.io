@@ -29,14 +29,14 @@ tags:
 
 ## ▷ P-Stream Forks
 
-> Sites that fork the original P-Stream / movie-web projects. You can add **extra sources** to these by using this **[extension](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/movie-web-sources.md)**. Default sources vary site-to-site depending on which sites feel are worth using. Make sure to install an [adblocker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) (full version of uBlock Origin), and keep in mind some sites allow you to turn off ads in settings.
+> Sites that fork the original P-Stream / movie-web projects. Add **extra sources** via this **[extension](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/movie-web-sources.md)**. Adblocker recommended — see note above.
 
 - **[Aether](https://aether.bar/)**, [2](https://aether.cx/) - Movies / TV / Anime / Auto-Next / 4K / [Discord](https://discord.gg/MadMF7xb5q)
 - **[Z-Stream](https://zstream.mov/)** - Movies / TV / Anime / Auto-Next / 4K / [Status](https://rentry.co/xpstream) / [Discord](https://discord.gg/mtSMCeTM2z) / [GitHub](https://github.com/xp-technologies-dev/p-stream)
 
 ## ▷ Dedicated-Server
 
-> Sites with a focus on a single player / server. These are generally good in terms of speed, consistency, and having less mislabeled content. Many also remove and/or fix broken links manually. Make sure to install an [adblocker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) (full version of uBlock Origin), and keep in mind some sites allow you to turn off ads in settings. Check the [grading page](https://github.com/fmhy/FMHY/wiki/Stream-Site-Grading) / [2](https://fmhy-grading.pages.dev/) to see each site's respective pros & cons.
+> Sites with a focus on a single player / server — generally faster, more consistent, less mislabeled content. Many also fix broken links manually. Adblocker recommended — see note above.
 
 - **[AniCine](https://anicine.xyz/)** - Movies / TV / Anime / [Discord](https://discord.gg/2GYMjGuh3)
 - **[EE3](https://ee3.me/)** or [RIPS](https://rips.cc/) - Movies / Invite Codes: `mpgh` or `1hack` / Requires Sign-Up
@@ -47,7 +47,7 @@ tags:
 
 ## ▷ Multi-Server
 
-> Sites that allow users to choose between multiple different players from a list. Sources vary site-to-site depending on which sites feel are worth using. Make sure to install an [adblocker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) (full version of uBlock Origin), and keep in mind some sites allow you to turn off ads in settings. Check the [grading page](https://github.com/fmhy/FMHY/wiki/Stream-Site-Grading) / [2](https://fmhy-grading.pages.dev/) to see each site's respective pros & cons.
+> Sites that let users pick between multiple players from a list. Adblocker recommended — see note above.
 
 - **[1Shows](https://www.1shows.org/)**, [1Flex](https://www.1flex.org/) or [1Tube](https://www.1tube.org/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/the-one) / [4K Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/1shows-note.md)
 - **[CinemaOS](https://cinemaos.live/)**, [2](https://cinemaos.tech/), [3](https://cinemaos.me/) or [NoirX](https://noirx.me/), [2](https://noirx.live/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/38yFnFCJnA)
@@ -57,11 +57,6 @@ tags:
 - **[Anixtv](https://anixx.fun/)**, [2](https://anixtv.us.cc/), [3](https://anixtv.in/) - Movies / TV / Anime / Auto-Next / [Status](https://anixtv.pro/) / [Discord](https://discord.com/invite/AGsGU5KUYy)
 - **[HydraHD](https://hydrahd.com/)**, [2](https://hydrahd.ru/) - Movies / TV / Anime / Auto-Next / [Status](https://hydrahd.info/) / [Telegram](https://t.me/HDHYDRAHD)
 - **[Fireflix](https://fireflix.pages.dev/)** - Movies / TV / Anime / Auto-Next
-
-## ▷ Multi-Server (Backups)
-
-> More sites that allow users to choose between multiple different players from a list. Sources vary site-to-site depending on which sites feel are worth using. Make sure to install an [adblocker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) (full version of uBlock Origin), and keep in mind some sites allow you to turn off ads in settings. Check the [grading page](https://github.com/fmhy/FMHY/wiki/Stream-Site-Grading) / [2](https://fmhy-grading.pages.dev/) to see each site's respective pros & cons.
-
 
 ## ▷ Free w/ Ads
 
@@ -156,8 +151,6 @@ tags:
 
 ## ▷ Live Sports
 
-> Make sure to install an [adblocker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_adblocking) (we recommend the full version of uBlock Origin) before using live sites. Try a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_vpn) if sites are blocked, and remember to use [throwaway](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_temp_mail) or [alias](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_email_aliasing) emails when signing up for sites.
-
 - ↪️ **[Sports Calendars / Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_sports)**
 - **[Streamed](https://streamed.pk/)**, [2](https://streamed.st/) / [Mirrors](https://strmd.link/) - Stream Aggregator / [Discord](https://discord.gg/KHC4xTYZgv)
 - **[⁠StreamFree](https://streamfree.top/)** / [Mirrors](https://strmfree.link/) / [Discord](https://discord.gg/XkkAQ2PEDz)
@@ -168,10 +161,8 @@ tags:
 - **[BINTV](https://www.bintv.cc/)**, [2](https://cosectv.com/) - Stream Aggregator / [Status](https://www.bintv.link/) / [Telegram](https://t.me/+PiQ1lsDtjoU5NmFl) / [Discord](https://discord.com/invite/fp3EQjFAJQ)
 - **[SportyHunter](https://sportyhunter.xyz/)**, [2](https://sportyhunter.site/) - Stream Aggregator
 - **[Watch Footy](https://watchfooty.st/)** - Stream Aggregator / [Mirrors](https://wfty.link/) / [Discord](https://discord.gg/T38kUWZHtB)
-- **[NTV](http://ntv.cx/)**, [2](https://ntvs.cx/) - TV / Sports / Aggregator / [Discord](https://discord.gg/uY3ud5gcpW)
 - **[PPV.TO](https://ppv.st/)**, [2](https://ppv.is/), [3](https://ppv.cx/), [4](https://ppv.lc/) - Live Events / [Mirrors](https://ppv.domains/) / [Discord](https://ppv.to/discord)
 - **[WatchSports](https://watchsports.su/)** - Stream Aggregator
-- **[DaddyLive](https://dlhd.st/)**, [2](https://daddylive.pk/) - TV / Sports / [Telegram](https://t.me/+8uBUT1-0B741NTll)
 - **[LiveTV](https://livetv.sx/enx/)**
 
 ## ▷ Sports Replays
@@ -235,13 +226,8 @@ tags:
 - **[MKV BASE](https://mkvbase.site/)** - Movies / TV / Anime / 4K / Remuxes / 3D / [Telegram](https://t.me/MkVBase)
 - **[⁠XDMovies](https://top.xdmovies.wtf/)** - Movies / TV / 4K / [Discord](https://discord.com/invite/Py5KKx28Bx)
 - **[MovieParadise](https://movieparadise.org/)** - Movies / TV / [Sign-Up Code (Important)](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/movieparadise-code.md)
-- **[Rive](https://www.rivestream.app/)**, [2](https://rivestream.ru/), [3](https://rivestream.top/) or [CorsFlix](https://watch.corsflix.net), [2](https://corsflix.net), [3](https://watch.corsflix.dpdns.org) - Movies / TV / Anime / [Status](https://rentry.co/rivestream) / [Discord](https://discord.gg/6xJmJja8fV)
-- **[1Shows](https://www.1shows.org/)** - Movies / TV / Anime / [Discord](https://discord.gg/the-one)
 - **[Drama Day](https://dramaday.me/)** - Asian Drama
 - **[MKVDrama](https://mkvdrama.net/)** - Asian Drama
-
-## ▷ Telegram Channels
-
 
 ## ▷ Anime Downloading
 
@@ -284,7 +270,6 @@ tags:
 - **[1337x Movies](https://1337x.to/movie-library/1/)** - Movies / TV / Anime / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_sites)
 - **[RuTracker Movies](https://rutracker.org/forum/index.php?c=2)** - Movies / TV / Anime / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_sites)
 - **[ExT](https://ext.to/)**, [2](https://search.extto.com/) / [Proxy](https://extranet.torrentbay.st/)
-- **[Rive](https://www.rivestream.app/)**, [2](https://rivestream.ru/), [3](https://rivestream.top/) or [CorsFlix](https://watch.corsflix.net), [2](https://corsflix.net), [3](https://watch.corsflix.dpdns.org) - Movies / TV / Anime / [Status](https://rentry.co/rivestream) / [Discord](https://discord.gg/6xJmJja8fV)
 - **[Heartive](https://heartivetv.pages.dev/)** - Movies / TV / Anime / Magnets on Files
 - **[EZTV](https://eztvx.to/)** - TV / Anime
 
