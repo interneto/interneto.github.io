@@ -555,7 +555,7 @@
         "freebsd_pkg": "chromium",
         "macos_brew": "chromium",
         "unix_nix_env": "nixos.chromium",
-        "windows_winget": "Google.Chrome"
+        "windows_winget": "Hibbiki.Chromium"
       }
     },
     "claude-code": {
@@ -4711,12 +4711,12 @@
         "linux_debian_apt": "ungoogled-chromium",
         "linux_fedora_rpm": "ungoogled-chromium",
         "linux_gentoo_emerge": "www-client/ungoogled-chromium",
-        "linux_flatpak": "org.chromium.Chromium",
+        "linux_flatpak": "io.github.ungoogled_software.ungoogled_chromium",
         "linux_snap": null,
         "freebsd_pkg": "ungoogled-chromium",
         "macos_brew": "ungoogled-chromium",
         "unix_nix_env": "ungoogled-nixos.ungoogled-chromium",
-        "windows_winget": "Ungoogled-Chromium"
+        "windows_winget": "eloston.ungoogled-chromium"
       }
     },
     "unity": {
