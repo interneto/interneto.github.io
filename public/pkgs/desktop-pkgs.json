@@ -1281,6 +1281,24 @@
         "windows_winget": null
       }
     },
+    "fl-studio": {
+      "name": "FL Studio",
+      "category": "audio-and-music",
+      "subcategory": "Digital Audio Workstation",
+      "package_manager": {
+        "linux_arch_aur": null,
+        "linux_arch_pacman": null,
+        "linux_debian_apt": null,
+        "linux_fedora_rpm": null,
+        "linux_gentoo_emerge": null,
+        "linux_flatpak": null,
+        "linux_snap": null,
+        "freebsd_pkg": null,
+        "macos_brew": null,
+        "unix_nix_env": null,
+        "windows_winget": "ImageLine.FLStudio"
+      }
+    },
     "foliate": {
       "name": "Foliate",
       "category": "news-and-books",
@@ -2593,6 +2611,24 @@
         "macos_brew": "logseq",
         "unix_nix_env": "nixos.logseq",
         "windows_winget": "Logseq.Logseq"
+      }
+    },
+    "loopmidi": {
+      "name": "loopMIDI",
+      "category": "os-and-utilities",
+      "subcategory": "System Utility",
+      "package_manager": {
+        "linux_arch_aur": null,
+        "linux_arch_pacman": null,
+        "linux_debian_apt": null,
+        "linux_fedora_rpm": null,
+        "linux_gentoo_emerge": null,
+        "linux_flatpak": null,
+        "linux_snap": null,
+        "freebsd_pkg": null,
+        "macos_brew": null,
+        "unix_nix_env": null,
+        "windows_winget": "TobiasErichsen.loopMIDI"
       }
     },
     "lucaschess": {
@@ -4807,6 +4843,24 @@
         "macos_brew": "vagrant",
         "unix_nix_env": "nixos.vagrant",
         "windows_winget": "Hashicorp.Vagrant"
+      }
+    },
+    "valhalla-supermassive": {
+      "name": "Valhalla Supermassive",
+      "category": "audio-and-music",
+      "subcategory": "Audio Processing",
+      "package_manager": {
+        "linux_arch_aur": null,
+        "linux_arch_pacman": null,
+        "linux_debian_apt": null,
+        "linux_fedora_rpm": null,
+        "linux_gentoo_emerge": null,
+        "linux_flatpak": null,
+        "linux_snap": null,
+        "freebsd_pkg": null,
+        "macos_brew": "valhalla-supermassive",
+        "unix_nix_env": null,
+        "windows_winget": null
       }
     },
     "ventoy": {
