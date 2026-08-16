@@ -41,28 +41,6 @@
   line-height: 1.7;
 }
 
-.toolbox-primary-link {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  min-width: 13.75rem;
-  padding: 0.875rem 1.125rem;
-  border-radius: 999px;
-  background: var(--primary-color);
-  color: var(--text-on-primary);
-  text-decoration: none;
-  font-weight: 700;
-  box-shadow: var(--shadow-light);
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
-}
-
-.toolbox-primary-link:hover,
-.toolbox-primary-link:focus-visible,
-.toolbox-primary-link:active {
-  text-decoration: none;
-  color: var(--text-on-primary);
-}
-
 .toolbox-section {
   margin-top: 1.5rem;
   padding: 1rem;
@@ -202,28 +180,34 @@
   color: var(--vp-c-brand-2);
 }
 
-.toolbox-tui-cmds {
-  display: grid;
-  /* minmax(0, 1fr) lets the column shrink below its content width so long
-     commands scroll inside the code box instead of widening the page. */
-  grid-template-columns: minmax(0, 1fr);
-  gap: 0.75rem;
+.toolbox-tui-os-toggle {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
   margin-top: 1rem;
 }
 
-.tb-cmd {
-  display: flex;
-  flex-direction: column;
-  gap: 0.35rem;
-  min-width: 0;
+.tui-os-btn {
+  border: 1px solid var(--vp-c-divider);
+  background: var(--vp-c-bg-alt);
+  color: var(--vp-c-text-1);
+  border-radius: 999px;
+  padding: 0.4rem 0.95rem;
+  font-size: 0.85rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.18s ease, color 0.18s ease, border-color 0.18s ease;
 }
 
-.tb-cmd-label {
-  font-size: 0.78rem;
-  font-weight: 700;
-  letter-spacing: 0.04em;
-  text-transform: uppercase;
-  color: var(--vp-c-brand-2);
+.tui-os-btn.active {
+  background: var(--primary-color);
+  border-color: var(--primary-color);
+  color: var(--text-on-primary);
+}
+
+.tb-cmd {
+  margin-top: 0.75rem;
+  min-width: 0;
 }
 
 .tb-cmd-row {
@@ -267,40 +251,4 @@
 .tb-copy.is-copied {
   background: var(--vp-c-brand-2);
   color: var(--text-on-primary);
-}
-
-.toolbox-tui-more {
-  margin-top: 1.1rem;
-  border: 1px solid var(--vp-c-divider);
-  border-radius: 14px;
-  background: var(--vp-c-bg-alt);
-  padding: 0.85rem 1.05rem;
-}
-
-.toolbox-tui-more > summary {
-  cursor: pointer;
-  font-weight: 600;
-  color: var(--vp-c-text-1);
-}
-
-.toolbox-tui-more[open] > summary {
-  margin-bottom: 0.85rem;
-}
-
-.toolbox-tui-sub {
-  margin: 0.9rem 0 0.4rem;
-  font-size: 0.9rem;
-  color: var(--vp-c-text-2);
-}
-
-.toolbox-tui-pre {
-  margin: 0;
-  overflow-x: auto;
-  border: 1px solid var(--vp-c-divider);
-  border-radius: 12px;
-  background: var(--vp-c-bg);
-  padding: 0.85rem 1rem;
-  font-size: 0.82rem;
-  line-height: 1.6;
-  color: var(--vp-c-text-1);
 }

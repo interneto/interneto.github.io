@@ -53,28 +53,27 @@ const compatibilityLinks = [
 
 const directoryLinks = [
   {
-    label: 'Web Directory',
-    href: `${BASE}toolbox/web-directory/`,
+    label: 'App Directory',
+    href: `${BASE}toolbox/app-directory/`,
     icon: '🌐',
-    description: 'A directory of web destinations grouped by category. No installer needed — opening the link runs the app in your browser.',
+    description: 'Every app in one place, tagged by which platforms it also reaches. No installer needed — opening the link runs the web app in your browser.',
   },
 ];
 
 // Cross-platform terminal companion — the same toolbox, run from your shell.
+// One command per OS family; the page auto-selects based on the visitor's platform.
 const TUI_REPO = 'https://github.com/interneto/tui-toolbox-installer';
 const tuiInstall = [
   {
-    label: 'Windows (PowerShell)',
+    id: 'windows',
+    label: 'Windows',
     code: 'irm https://raw.githubusercontent.com/interneto/tui-toolbox-installer/main/scripts/install.ps1 | iex',
   },
   {
+    id: 'unix',
     label: 'macOS / Linux',
     code: 'curl -fsSL https://raw.githubusercontent.com/interneto/tui-toolbox-installer/main/scripts/install.sh | sh',
   },
-];
-const tuiUv = [
-  { label: 'Run once (no install)', code: 'uvx --from git+https://github.com/interneto/tui-toolbox-installer interneto-install' },
-  { label: 'Install the command', code: 'uv tool install git+https://github.com/interneto/tui-toolbox-installer' },
 ];
 ---
 
@@ -85,9 +84,8 @@ const tuiUv = [
         <div>
           <div class="toolbox-eyebrow">Toolbox</div>
           <h1>Toolbox</h1>
-          <p>One home for installers, compatibility references, and a web directory of platforms and databases that run straight in the browser.</p>
+          <p>One home for installers, an app directory, and compatibility references — all running straight in the browser.</p>
         </div>
-        <a class="toolbox-primary-link" href={`${BASE}toolbox/web-directory/`}>Open Web Directory</a>
       </div>
     </section>
 
@@ -109,6 +107,24 @@ const tuiUv = [
 
     <div class="toolbox-separator" aria-hidden="true"></div>
 
+    <section class="toolbox-section">
+      <div class="toolbox-section-header">
+        <h2>App Directory</h2>
+        <p>Web apps, platforms, and databases — tagged by which platforms they also reach.</p>
+      </div>
+      <div class="toolbox-grid">
+        {directoryLinks.map((item) => (
+          <a class="toolbox-card" href={item.href}>
+            <span class="toolbox-card-icon">{item.icon}</span>
+            <h3>{item.label}</h3>
+            <p>{item.description}</p>
+          </a>
+        ))}
+      </div>
+    </section>
+
+    <div class="toolbox-separator" aria-hidden="true"></div>
+
     <section class="toolbox-section toolbox-tui">
       <div class="toolbox-section-header">
         <h2>Prefer the terminal?</h2>
@@ -119,40 +135,20 @@ const tuiUv = [
         </p>
       </div>
 
-      <div class="toolbox-tui-cmds">
-        {tuiInstall.map((cmd) => (
-          <div class="tb-cmd">
-            <span class="tb-cmd-label">{cmd.label}</span>
-            <div class="tb-cmd-row">
-              <code>{cmd.code}</code>
-              <button type="button" class="tb-copy" data-copy={cmd.code} aria-label={`Copy ${cmd.label} command`}>Copy</button>
-            </div>
-          </div>
+      <div class="toolbox-tui-os-toggle" role="group" aria-label="Choose your OS">
+        {tuiInstall.map((cmd, i) => (
+          <button type="button" class="tui-os-btn" data-os={cmd.id} aria-pressed={i === 0 ? 'true' : 'false'}>{cmd.label}</button>
         ))}
       </div>
 
-      <details class="toolbox-tui-more">
-        <summary>Already have <code>uv</code>, or want a local dev checkout?</summary>
-        <p class="toolbox-tui-sub">Skip the bootstrap with <a href="https://docs.astral.sh/uv/" target="_blank" rel="noreferrer">uv</a>:</p>
-        <div class="toolbox-tui-cmds">
-          {tuiUv.map((cmd) => (
-            <div class="tb-cmd">
-              <span class="tb-cmd-label">{cmd.label}</span>
-              <div class="tb-cmd-row">
-                <code>{cmd.code}</code>
-                <button type="button" class="tb-copy" data-copy={cmd.code} aria-label={`Copy ${cmd.label} command`}>Copy</button>
-              </div>
-            </div>
+      <div class="tb-cmd">
+        <div class="tb-cmd-row">
+          {tuiInstall.map((cmd, i) => (
+            <code class="tui-os-cmd" data-os={cmd.id} hidden={i !== 0}>{cmd.code}</code>
           ))}
+          <button type="button" id="tuiCopyBtn" class="tb-copy" aria-label="Copy install command">Copy</button>
         </div>
-        <p class="toolbox-tui-sub">From a local checkout (development):</p>
-        <pre class="toolbox-tui-pre"><code>python -m venv .venv && . .venv/bin/activate   # Windows: .venv\Scripts\activate
-pip install -e ".[dev]"      # app + test tooling
-interneto-install            # launch the TUI
-interneto-install --detect   # just print what was autodetected
-pytest                       # run the smoke tests</code></pre>
-        <p class="toolbox-tui-sub">Re-running either one-liner upgrades to the latest version.</p>
-      </details>
+      </div>
     </section>
 
     <div class="toolbox-separator" aria-hidden="true"></div>
@@ -171,44 +167,50 @@ pytest                       # run the smoke tests</code></pre>
         ))}
       </div>
     </section>
-
-    <div class="toolbox-separator" aria-hidden="true"></div>
-
-    <section class="toolbox-section">
-      <div class="toolbox-section-header">
-        <h2>Web Directory</h2>
-        <p>Web apps, platforms, and databases — all browser-based, no install step.</p>
-      </div>
-      <div class="toolbox-grid">
-        {directoryLinks.map((item) => (
-          <a class="toolbox-card" href={item.href}>
-            <span class="toolbox-card-icon">{item.icon}</span>
-            <h3>{item.label}</h3>
-            <p>{item.description}</p>
-          </a>
-        ))}
-      </div>
-    </section>
   </section>
 
   <script>
-    document.querySelectorAll('.tb-copy').forEach((btn) => {
-      btn.addEventListener('click', async () => {
-        const code = (btn as HTMLElement).dataset.copy;
-        if (!code) return;
-        try {
-          await navigator.clipboard.writeText(code);
-          const original = btn.textContent;
-          btn.textContent = 'Copied!';
-          btn.classList.add('is-copied');
-          setTimeout(() => {
-            btn.textContent = original;
-            btn.classList.remove('is-copied');
-          }, 1500);
-        } catch (_) {
-          /* clipboard unavailable */
-        }
+    // Auto-detect Windows vs macOS/Linux, but let the visitor override.
+    const osButtons = Array.from(document.querySelectorAll<HTMLButtonElement>('.tui-os-btn'));
+    const osCommands = Array.from(document.querySelectorAll<HTMLElement>('.tui-os-cmd'));
+
+    function setOS(os: string) {
+      osButtons.forEach((btn) => {
+        const active = btn.dataset.os === os;
+        btn.classList.toggle('active', active);
+        btn.setAttribute('aria-pressed', String(active));
       });
+      osCommands.forEach((el) => {
+        el.hidden = el.dataset.os !== os;
+      });
+    }
+
+    osButtons.forEach((btn) => {
+      btn.addEventListener('click', () => setOS(btn.dataset.os ?? 'unix'));
+    });
+
+    if (osButtons.length) {
+      const isWindows = navigator.userAgent.toLowerCase().includes('win');
+      setOS(isWindows ? 'windows' : 'unix');
+    }
+
+    const copyBtn = document.getElementById('tuiCopyBtn');
+    copyBtn?.addEventListener('click', async () => {
+      const visible = osCommands.find((el) => !el.hidden);
+      const code = visible?.textContent;
+      if (!code) return;
+      try {
+        await navigator.clipboard.writeText(code);
+        const original = copyBtn.textContent;
+        copyBtn.textContent = 'Copied!';
+        copyBtn.classList.add('is-copied');
+        setTimeout(() => {
+          copyBtn.textContent = original;
+          copyBtn.classList.remove('is-copied');
+        }, 1500);
+      } catch (_) {
+        /* clipboard unavailable */
+      }
     });
   </script>
 </VPLayout>

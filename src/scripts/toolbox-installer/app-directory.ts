@@ -1,4 +1,4 @@
-// Renders the Web Directory table from /pkgs/web-directory.json.
+// Renders the App Directory table from /pkgs/web-directory.json.
 // Tags describe extra surfaces a web destination ALSO has:
 //   desktop  → also ships a desktop app
 //   mobile   → also ships a mobile app
@@ -241,8 +241,8 @@ async function init(): Promise<void> {
 
         applyFilters(entries);
     } catch (error) {
-        console.error('Failed to initialize web directory:', error);
-        tableBody.innerHTML = '<tr><td colspan="2">Could not load web directory data.</td></tr>';
+        console.error('Failed to initialize app directory:', error);
+        tableBody.innerHTML = '<tr><td colspan="2">Could not load app directory data.</td></tr>';
     }
 }
 
