@@ -858,7 +858,7 @@
     "gsmarena": {
       "name": "GSMArena",
       "category": "education-and-reference",
-      "subcategory": "Reference",
+      "subcategory": "Encyclopedia",
       "package_manager": {
         "android_pkg": "com.gsmarena.android",
         "ios_pkg": ""
@@ -876,7 +876,7 @@
     "kraken": {
       "name": "Kraken",
       "category": "money-and-finance",
-      "subcategory": "Cryptocurrency",
+      "subcategory": "Cryptocurrency Wallet",
       "package_manager": {
         "android_pkg": "com.kraken.invest.app",
         "ios_pkg": "kraken-buy-crypto-stocks/id1481947260"
@@ -885,7 +885,7 @@
     "ledger-live": {
       "name": "Ledger Live",
       "category": "money-and-finance",
-      "subcategory": "Cryptocurrency",
+      "subcategory": "Cryptocurrency Wallet",
       "package_manager": {
         "android_pkg": "com.ledger.live",
         "ios_pkg": "ledger-live-crypto-wallet/id1361671700"
@@ -966,7 +966,7 @@
     "rabby-wallet": {
       "name": "Rabby Wallet",
       "category": "money-and-finance",
-      "subcategory": "Cryptocurrency",
+      "subcategory": "Cryptocurrency Wallet",
       "package_manager": {
         "android_pkg": "com.debank.rabbymobile",
         "ios_pkg": "rabby-wallet-crypto-evm/id6474381673"
@@ -1011,7 +1011,7 @@
     "snapseed": {
       "name": "Snapseed",
       "category": "photos-and-graphics",
-      "subcategory": "Photo Editor",
+      "subcategory": "Image Editor",
       "package_manager": {
         "android_pkg": "com.niksoftware.snapseed",
         "ios_pkg": "snapseed-photo-editor/id439438619"
@@ -1038,7 +1038,7 @@
     "syncthing-fork": {
       "name": "Syncthing-Fork",
       "category": "file-management",
-      "subcategory": "File Sync",
+      "subcategory": "File Synchronization",
       "package_manager": {
         "android_pkg": "com.github.catfriend1.syncthingandroid",
         "ios_pkg": ""
@@ -1046,8 +1046,8 @@
     },
     "termux": {
       "name": "Termux",
-      "category": "development",
-      "subcategory": "Terminal",
+      "category": "os-and-utilities",
+      "subcategory": "Terminal Emulator",
       "package_manager": {
         "android_pkg": "com.termux",
         "ios_pkg": ""
