@@ -43,21 +43,13 @@ const toolboxCards = [
 ];
 
 const compatibilityLinks = [
+  { label: 'App Directory', href: `${BASE}toolbox/app-directory/`, icon: '🌐' },
   { label: 'Operating System Compatibility', href: `${BASE}toolbox/os-compatibility/`, icon: '💿' },
   { label: 'Desktop App OS Compatibility', href: `${BASE}toolbox/desktop-os-compatibility/`, icon: '🖥️' },
   { label: 'Mobile OS Compatibility', href: `${BASE}toolbox/mobile-os-compatibility/`, icon: '📱' },
   { label: 'Library Compatibility Table', href: `${BASE}toolbox/lib-compatibility/`, icon: '📚' },
   { label: 'Browser Extensions Compatibility', href: `${BASE}toolbox/browser-extensions-compatibility/`, icon: '🧩' },
   { label: 'VS Code Extensions Compatibility', href: `${BASE}toolbox/vscode-extensions-compatibility/`, icon: '🛠️' },
-];
-
-const directoryLinks = [
-  {
-    label: 'App Directory',
-    href: `${BASE}toolbox/app-directory/`,
-    icon: '🌐',
-    description: 'Every app in one place, tagged by which platforms it also reaches. No installer needed — opening the link runs the web app in your browser.',
-  },
 ];
 
 // Cross-platform terminal companion — the same toolbox, run from your shell.
@@ -103,50 +95,28 @@ const tuiInstall = [
           </a>
         ))}
       </div>
-    </section>
 
-    <div class="toolbox-separator" aria-hidden="true"></div>
-
-    <section class="toolbox-section">
-      <div class="toolbox-section-header">
-        <h2>App Directory</h2>
-        <p>Web apps, platforms, and databases — tagged by which platforms they also reach.</p>
-      </div>
-      <div class="toolbox-grid">
-        {directoryLinks.map((item) => (
-          <a class="toolbox-card" href={item.href}>
-            <span class="toolbox-card-icon">{item.icon}</span>
-            <h3>{item.label}</h3>
-            <p>{item.description}</p>
-          </a>
-        ))}
-      </div>
-    </section>
-
-    <div class="toolbox-separator" aria-hidden="true"></div>
-
-    <section class="toolbox-section toolbox-tui">
-      <div class="toolbox-section-header">
-        <h2>Prefer the terminal?</h2>
-        <p>
-          Run the cross-platform <strong>TUI installer</strong> — it autodetects your system, lets
-          you multi-select packages just like this site, and installs them for real.
+      <div class="toolbox-tui">
+        <p class="toolbox-tui-intro">
+          Prefer the terminal? Run the cross-platform <strong>TUI installer</strong> — it
+          autodetects your system, lets you multi-select packages just like this site, and
+          installs them for real.
           <a class="toolbox-tui-repo" href={TUI_REPO} target="_blank" rel="noreferrer">View on GitHub ↗</a>
         </p>
-      </div>
 
-      <div class="toolbox-tui-os-toggle" role="group" aria-label="Choose your OS">
-        {tuiInstall.map((cmd, i) => (
-          <button type="button" class="tui-os-btn" data-os={cmd.id} aria-pressed={i === 0 ? 'true' : 'false'}>{cmd.label}</button>
-        ))}
-      </div>
-
-      <div class="tb-cmd">
-        <div class="tb-cmd-row">
+        <div class="toolbox-tui-os-toggle" role="group" aria-label="Choose your OS">
           {tuiInstall.map((cmd, i) => (
-            <code class="tui-os-cmd" data-os={cmd.id} hidden={i !== 0}>{cmd.code}</code>
+            <button type="button" class="tui-os-btn" data-os={cmd.id} aria-pressed={i === 0 ? 'true' : 'false'}>{cmd.label}</button>
           ))}
-          <button type="button" id="tuiCopyBtn" class="tb-copy" aria-label="Copy install command">Copy</button>
+        </div>
+
+        <div class="tb-cmd">
+          <div class="tb-cmd-row">
+            {tuiInstall.map((cmd, i) => (
+              <code class="tui-os-cmd" data-os={cmd.id} hidden={i !== 0}>{cmd.code}</code>
+            ))}
+            <button type="button" id="tuiCopyBtn" class="tb-copy" aria-label="Copy install command">Copy</button>
+          </div>
         </div>
       </div>
     </section>
@@ -156,7 +126,7 @@ const tuiInstall = [
     <section class="toolbox-section">
       <div class="toolbox-section-header">
         <h2>Compatibility Tables</h2>
-        <p>Compare availability and support before jumping into each installer.</p>
+        <p>Browse everything, or compare availability and support before jumping into an installer.</p>
       </div>
       <div class="toolbox-compatibility-grid">
         {compatibilityLinks.map((item) => (

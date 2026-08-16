@@ -172,7 +172,18 @@
   }
 }
 
-/* ── Terminal installer (TUI) section ─────────────────────────────────────── */
+/* ── Terminal installer (TUI) — nested inside the Installers section ────────── */
+.toolbox-tui {
+  margin-top: 1.5rem;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--vp-c-divider);
+}
+
+.toolbox-tui-intro {
+  margin: 0;
+  color: var(--text-secondary);
+}
+
 .toolbox-tui .toolbox-tui-repo {
   margin-left: 0.35rem;
   font-weight: 600;
