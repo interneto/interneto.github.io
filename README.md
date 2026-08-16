@@ -21,6 +21,8 @@ Interneto is a web platform for resource discovery and curation, with core secti
 
 The site is designed around static content and a fast browsing experience on desktop and mobile.
 
+See [MANIFESTO.md](./MANIFESTO.md) for the editorial and curation principles behind what gets included.
+
 ## Stack
 
 - Astro 6
