@@ -1,5 +1,5 @@
 {
-  "favorites": [
+  "desktop": [
     "7zip",
     "affinity-studio",
     "audacious",
@@ -47,5 +47,34 @@
     "vlc",
     "whatsapp",
     "yt-dlp"
+  ],
+  "mobile": [
+    "bitwarden",
+    "obsidian",
+    "telegram",
+    "vlc",
+    "whatsapp",
+    "firefox",
+    "mullvad",
+    "syncthing-fork",
+    "newpipe",
+    "claude"
+  ],
+  "browserExtensions": [
+    "ublock-origin",
+    "bitwarden",
+    "dark-reader",
+    "sponsorblock",
+    "i-still-dont-care-about-cookies",
+    "return-youtube-dislike",
+    "tampermonkey"
+  ],
+  "vscodeExtensions": [
+    "anthropic.claude-code",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "github.copilot-chat",
+    "ms-python.python",
+    "usernamehw.errorlens"
   ]
 }

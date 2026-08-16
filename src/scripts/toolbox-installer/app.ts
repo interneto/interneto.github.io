@@ -4,6 +4,7 @@
  */
 
 import { initConfigData } from '../shared/data-loader';
+import { initFavoritesData } from '../shared/favorites-store';
 import { loadPackages } from './data-manager';
 import { generatePackages } from './ui-builder';
 import {
@@ -11,6 +12,7 @@ import {
     setupSelectAllCheckbox,
 } from './checkbox-manager';
 import { setupFossToggle } from './foss-filter';
+import { setupFavsToggle } from './favs-filter';
 import {
     setupOSSelector,
     setupSearchInput,
@@ -30,13 +32,15 @@ import {
 async function initializeApp() {
     try {
         await initConfigData();
+        await initFavoritesData();
         const packagesData = await loadPackages();
-        
+
         generatePackages(packagesData);
-        
+
         setupSelectAllCheckbox();
         setupCategoryCheckboxes();
         setupFossToggle();
+        setupFavsToggle();
         
         setupOSSelector();
         setupSearchInput();

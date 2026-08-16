@@ -688,3 +688,24 @@ tbody tr {
     line-height: 1;
     font-weight: 700;
 }
+
+.availability-cell {
+    display: inline-block;
+    font-size: 15px;
+    line-height: 1;
+}
+
+.availability-cell.no {
+    opacity: 0.45;
+}
+
+.badge-cell {
+    display: inline-block;
+    font-size: 15px;
+    line-height: 1;
+    opacity: 0.35;
+}
+
+.badge-cell.active {
+    opacity: 1;
+}

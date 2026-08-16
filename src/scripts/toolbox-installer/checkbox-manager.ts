@@ -37,6 +37,7 @@ export function setupCategoryCheckboxes() {
                     if (
                         label
                         && !label.classList.contains(CLASS_NAMES.FOSS_HIDDEN)
+                        && !label.classList.contains(CLASS_NAMES.FAVS_HIDDEN)
                         && !label.classList.contains(CLASS_NAMES.SEARCH_HIDDEN)
                         && !label.classList.contains(CLASS_NAMES.DISTRO_HIDDEN)
                     ) {
@@ -80,6 +81,7 @@ export function updateCategoryCheckbox(category: string | undefined) {
         const label = cb.closest('label');
         return label
             && !label.classList.contains(CLASS_NAMES.FOSS_HIDDEN)
+            && !label.classList.contains(CLASS_NAMES.FAVS_HIDDEN)
             && !label.classList.contains(CLASS_NAMES.SEARCH_HIDDEN)
             && !label.classList.contains(CLASS_NAMES.DISTRO_HIDDEN);
     });

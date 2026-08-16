@@ -74,6 +74,19 @@ const {
         </button>
       )}
 
+      {/* FAVS TOGGLE */}
+      {showFossToggle && (
+        <button
+          type="button"
+          class="control-btn favs-toggle-btn"
+          id="favsToggleBtn"
+          title="Show only my favorites"
+          aria-label="Toggle favorites filter"
+        >
+          ⭐ <span class="control-label">Favs</span>
+        </button>
+      )}
+
       {/* SHOW INTERNAL (Library) */}
       {showInternalToggle && (
         <button

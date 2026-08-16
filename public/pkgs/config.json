@@ -1,35 +1,63 @@
 {
-  "nonFossList": [
-    "affinity-studio",
-    "anydesk",
-    "audiorelay",
-    "balabolka",
-    "bitwig-studio",
-    "davinci-resolve",
-    "discord",
-    "dropbox",
-    "google-earth",
-    "guitar-pro",
-    "mega",
-    "musicbee",
-    "notion",
-    "obsidian",
-    "ocenaudio",
-    "opera",
-    "plex",
-    "reaper",
-    "spotify",
-    "steam",
-    "sublime-text-4",
-    "teamviewer",
-    "unity",
-    "vivaldi",
-    "vmware",
-    "whatsapp",
-    "windscribe",
-    "xnview",
-    "zoom"
-  ],
+  "nonFossLists": {
+    "desktop": [
+      "affinity-studio",
+      "anydesk",
+      "audiorelay",
+      "balabolka",
+      "bitwig-studio",
+      "davinci-resolve",
+      "discord",
+      "dropbox",
+      "google-earth",
+      "guitar-pro",
+      "mega",
+      "musicbee",
+      "notion",
+      "obsidian",
+      "ocenaudio",
+      "opera",
+      "plex",
+      "reaper",
+      "spotify",
+      "steam",
+      "sublime-text-4",
+      "teamviewer",
+      "unity",
+      "vivaldi",
+      "vmware",
+      "whatsapp",
+      "windscribe",
+      "xnview",
+      "zoom"
+    ],
+    "mobile": [
+      "aliexpress", "bbva", "bring", "carpeta-ciudadana", "chatgpt", "chess-com",
+      "chess-prince", "chrome", "clave", "cloudflare-1111", "cpu-info", "deepl",
+      "freepik", "github", "gmail", "google-calendar", "google-drive", "google-files",
+      "google-maps", "google-photos", "google-translate", "google-weather", "gpx-viewer",
+      "guitar-tuner", "guitartuna", "hyper-calc-pro", "instagram", "knots-3d", "linkedin",
+      "mobilesheets", "musicolet", "myrecipebox", "obsidian", "outlook", "periodic-table",
+      "piano-companion", "raindrop-io", "readera", "sd-maid-2", "spotify", "star-walk-2",
+      "steam", "stremio", "sun-surveyor", "ticktick", "tiktok", "trakt", "weawow",
+      "wikiloc", "wolfram-alpha", "x", "xodo", "youtube", "youtube-music", "zen-iptv",
+      "zepp", "adguard", "anatomy-learning", "blekip", "claude", "devcheck",
+      "diccionario-rae", "disney-plus", "futo-keyboard", "google-play-books", "gps-status",
+      "gsmarena", "hellochinese", "kraken", "ledger-live", "material-photo-widget",
+      "peakfinder", "photopills", "revolut", "google-sheets", "snapseed", "strava",
+      "whatsapp", "windy"
+    ],
+    "browserExtensions": [
+      "adguard", "adguard-browser-assistant", "eagle", "printfriendly", "js-switcher",
+      "raindrop-io", "simple-cookie", "tampermonkey", "time-tracker", "unhook",
+      "videoplayer", "wappalyzer", "worldwide-radio", "youtube-custom-speed"
+    ],
+    "vscodeExtensions": [
+      "bmewburn.vscode-intelephense-client",
+      "github.copilot-chat",
+      "ms-python.vscode-pylance"
+    ]
+  },
   "distroPrefixes": {
     "linux_arch_pacman": "sudo pacman -S",
     "linux_debian_apt": "sudo apt install",
@@ -55,18 +83,6 @@
     { "id": "strawberry", "name": "Strawberry" },
     { "id": "vmware", "name": "VMware" }
   ],
-  "vscodeExtensionsMeta": {
-    "nonFoss": [
-      "bmewburn.vscode-intelephense-client",
-      "github.copilot-chat",
-      "ms-python.vscode-pylance"
-    ],
-    "favorites": [
-      "dbaeumer.vscode-eslint",
-      "esbenp.prettier-vscode",
-      "github.copilot-chat"
-    ]
-  },
   "libCompatTable": {
     "languages": ["JavaScript", "Python", "Java", "C#", "Go", "Rust", "PHP"],
     "table": {

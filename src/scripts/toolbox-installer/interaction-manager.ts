@@ -122,7 +122,7 @@ export function setupToggleAllButton() {
 }
 
 function updateSearchGroupVisibility(packageContainer: HTMLElement) {
-    const visibleLabelSelector = `label:not(.${CLASS_NAMES.FOSS_HIDDEN}):not(.${CLASS_NAMES.SEARCH_HIDDEN}):not(.${CLASS_NAMES.DISTRO_HIDDEN})`;
+    const visibleLabelSelector = `label:not(.${CLASS_NAMES.FOSS_HIDDEN}):not(.${CLASS_NAMES.FAVS_HIDDEN}):not(.${CLASS_NAMES.SEARCH_HIDDEN}):not(.${CLASS_NAMES.DISTRO_HIDDEN})`;
 
     const subcategories = packageContainer.querySelectorAll<HTMLElement>(`.${CLASS_NAMES.SUBCATEGORY}`);
     subcategories.forEach((subcategory) => {

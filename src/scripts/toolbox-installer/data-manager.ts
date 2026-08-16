@@ -6,6 +6,7 @@
 import { CONFIG } from '../shared/paths';
 import { EVENT_NAMES } from '../shared/dom-constants';
 import { getSelectedPackageIds, getElement } from '../shared/dom-utils';
+import { initFavoritesData, getFavoritesForCurrentPage } from '../shared/favorites-store';
 import type { PackageInfo, PackagesData } from './command-builder';
 
 // Module state
@@ -182,19 +183,9 @@ export async function exportPackages() {
  */
 export async function loadFavorites() {
     try {
-        const response = await fetch(CONFIG.FAV_PACKAGES_URL);
-        
-        if (!response.ok) {
-            throw new Error(`Failed to load favorites: ${response.statusText}`);
-        }
-        
-        const data = await response.json();
-        const favorites = data.favorites || data;
-        
-        if (!Array.isArray(favorites)) {
-            throw new Error('Invalid favorites format');
-        }
-        
+        await initFavoritesData();
+        const favorites = getFavoritesForCurrentPage();
+
         // Wait for packages to be loaded if needed
         if (!packagesData) {
             await new Promise(resolve => {

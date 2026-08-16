@@ -2,9 +2,12 @@
 
 import {
     initConfigData,
-    getVscodeNonFossExtensions,
-    getVscodeFavoriteExtensions,
+    getNonFossListFor,
 } from '../shared/data-loader';
+import {
+    initFavoritesData,
+    getFavoritesFor,
+} from '../shared/favorites-store';
 
 const BASE = ((import.meta as unknown as { env: { BASE_URL: string } }).env.BASE_URL).replace(/\/?$/, '/');
 
@@ -273,6 +276,7 @@ function renderVscodeGenerator(items: Omit<VscodeExtension, 'isFoss'>[]): void {
     const toggleAllBtn = document.getElementById('toggleAllBtn');
     const toggleAllLabel = document.getElementById('toggleAllLabel');
     const fossToggleBtn = document.getElementById('fossToggleBtn');
+    const favsToggleBtn = document.getElementById('favsToggleBtn');
     const optionsSelect = document.getElementById('optionsSelect') as HTMLSelectElement | null;
     const fileInput = document.getElementById('fileInput') as HTMLInputElement | null;
     const searchInput = document.getElementById('searchInput') as HTMLInputElement | null;
@@ -280,7 +284,7 @@ function renderVscodeGenerator(items: Omit<VscodeExtension, 'isFoss'>[]): void {
 
     if (
         !container || !commandTarget || !selectAll || !selectAllLabel
-        || !toggleAllBtn || !toggleAllLabel || !fossToggleBtn
+        || !toggleAllBtn || !toggleAllLabel || !fossToggleBtn || !favsToggleBtn
         || !optionsSelect || !fileInput || !searchInput || !copyBtn
     ) {
         return;
@@ -290,12 +294,15 @@ function renderVscodeGenerator(items: Omit<VscodeExtension, 'isFoss'>[]): void {
         selected: new Set<string>(),
         searchQuery: '',
         fossOnly: false,
+        favsOnly: false,
         allCollapsed: false,
     };
 
+    const favoriteIds = new Set(getFavoritesFor('vscodeExtensions'));
+
     const normalizedItems: VscodeExtension[] = items.map((item) => ({
         ...item,
-        isFoss: !getVscodeNonFossExtensions().includes(item.id),
+        isFoss: !getNonFossListFor('vscodeExtensions').includes(item.id),
     }));
 
     const grouped = groupByCategory(normalizedItems);
@@ -359,6 +366,7 @@ function renderVscodeGenerator(items: Omit<VscodeExtension, 'isFoss'>[]): void {
 
                 label.dataset.search = `${ext.name} ${ext.id}`.toLowerCase();
                 label.dataset.isFoss = ext.isFoss ? 'true' : 'false';
+                label.dataset.isFavorite = favoriteIds.has(ext.id) ? 'true' : 'false';
 
                 input.addEventListener('change', () => {
                     if (input.checked) {
@@ -401,7 +409,9 @@ function renderVscodeGenerator(items: Omit<VscodeExtension, 'isFoss'>[]): void {
     function getVisibleExtensionCheckboxes(): HTMLInputElement[] {
         return getAllExtensionCheckboxes().filter((checkbox) => {
             const lbl = checkbox.closest<HTMLElement>('.ext-item');
-            return lbl && lbl.style.display !== 'none' && !lbl.classList.contains('foss-hidden');
+            return lbl && lbl.style.display !== 'none'
+                && !lbl.classList.contains('foss-hidden')
+                && !lbl.classList.contains('favs-hidden');
         });
     }
 
@@ -424,9 +434,12 @@ function renderVscodeGenerator(items: Omit<VscodeExtension, 'isFoss'>[]): void {
         container!.querySelectorAll<HTMLElement>('.ext-item').forEach((lbl) => {
             const matchesSearch = (lbl.dataset.search ?? '').includes(state.searchQuery);
             const isFoss = lbl.dataset.isFoss === 'true';
+            const isFavorite = lbl.dataset.isFavorite === 'true';
             const passesFoss = !state.fossOnly || isFoss;
+            const passesFavs = !state.favsOnly || isFavorite;
             lbl.classList.toggle('foss-hidden', !passesFoss);
-            lbl.style.display = matchesSearch && passesFoss ? '' : 'none';
+            lbl.classList.toggle('favs-hidden', !passesFavs);
+            lbl.style.display = matchesSearch && passesFoss && passesFavs ? '' : 'none';
         });
     }
 
@@ -510,12 +523,19 @@ function renderVscodeGenerator(items: Omit<VscodeExtension, 'isFoss'>[]): void {
         updateSelectAllState();
     });
 
+    favsToggleBtn.addEventListener('click', () => {
+        state.favsOnly = !state.favsOnly;
+        favsToggleBtn.classList.toggle('active', state.favsOnly);
+        applyFilters();
+        updateSelectAllState();
+    });
+
     optionsSelect.addEventListener('change', () => {
         const action = optionsSelect!.value;
         if (!action) return;
 
         if (action === 'loadFavorites') {
-            setSelectionByIds(getVscodeFavoriteExtensions());
+            setSelectionByIds(Array.from(favoriteIds));
         }
         if (action === 'importPackages') {
             fileInput!.value = '';
@@ -662,6 +682,8 @@ function renderBrowserExtensionsGenerator(items: BrowserExtension[]): void {
     // <button data-browser="..."> (current Browser Extensions page, mirroring the OS picker).
     const browserSelect = document.getElementById('browserSelect') as HTMLSelectElement | null;
     const browserButtons = Array.from(document.querySelectorAll<HTMLButtonElement>('button[data-browser]'));
+    const favsToggleBtn = document.getElementById('favsToggleBtn');
+    const fossToggleBtn = document.getElementById('fossToggleBtn');
     const optionsSelect = document.getElementById('optionsSelect') as HTMLSelectElement | null;
     const searchInput = document.getElementById('searchInput') as HTMLInputElement | null;
     const copyBtn = document.getElementById('copyCommandBtn');
@@ -677,9 +699,14 @@ function renderBrowserExtensionsGenerator(items: BrowserExtension[]): void {
     const state = {
         selected: new Set<string>(),
         searchQuery: '',
+        favsOnly: false,
+        fossOnly: false,
         allCollapsed: false,
         browser: 'firefox',
     };
+
+    const favoriteIds = new Set(getFavoritesFor('browserExtensions'));
+    const nonFossIds = new Set(getNonFossListFor('browserExtensions'));
 
     const grouped = groupByCategory(items);
     const categories = Object.keys(grouped).sort((a, b) => a.localeCompare(b));
@@ -743,6 +770,8 @@ function renderBrowserExtensionsGenerator(items: BrowserExtension[]): void {
                 label.dataset.search = `${ext.name} ${ext.id}`.toLowerCase();
                 label.dataset.firefoxSlug = ext.firefox_slug ?? '';
                 label.dataset.chromiumId = ext.chromium_id ?? '';
+                label.dataset.isFavorite = favoriteIds.has(ext.id) ? 'true' : 'false';
+                label.dataset.isFoss = nonFossIds.has(ext.id) ? 'false' : 'true';
 
                 input.addEventListener('change', () => {
                     if (input.checked) {
@@ -831,7 +860,11 @@ function renderBrowserExtensionsGenerator(items: BrowserExtension[]): void {
             } else if (browser === 'chromium') {
                 matchesBrowser = (lbl.dataset.chromiumId ?? '') !== '';
             }
-            lbl.style.display = matchesSearch && matchesBrowser ? '' : 'none';
+            const passesFavs = !state.favsOnly || lbl.dataset.isFavorite === 'true';
+            const passesFoss = !state.fossOnly || lbl.dataset.isFoss === 'true';
+            lbl.classList.toggle('favs-hidden', !passesFavs);
+            lbl.classList.toggle('foss-hidden', !passesFoss);
+            lbl.style.display = matchesSearch && matchesBrowser && passesFavs && passesFoss ? '' : 'none';
         });
     }
 
@@ -914,6 +947,24 @@ function renderBrowserExtensionsGenerator(items: BrowserExtension[]): void {
         });
     }
 
+    if (favsToggleBtn) {
+        favsToggleBtn.addEventListener('click', () => {
+            state.favsOnly = !state.favsOnly;
+            favsToggleBtn.classList.toggle('active', state.favsOnly);
+            applyFilters();
+            updateSelectAllState();
+        });
+    }
+
+    if (fossToggleBtn) {
+        fossToggleBtn.addEventListener('click', () => {
+            state.fossOnly = !state.fossOnly;
+            fossToggleBtn.classList.toggle('active', state.fossOnly);
+            applyFilters();
+            updateSelectAllState();
+        });
+    }
+
     optionsSelect.addEventListener('change', () => {
         const action = optionsSelect!.value;
         if (!action) return;
@@ -971,6 +1022,7 @@ export async function loadBrowserExtensionsGenerator(): Promise<void> {
 
 async function initSharedPages(): Promise<void> {
     await initConfigData();
+    await initFavoritesData();
     if (document.getElementById('extensionsCategories')) {
         loadVscodeExtensionsGenerator();
     }

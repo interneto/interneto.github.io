@@ -539,6 +539,58 @@ form {
     transform: translateY(-2px);
 }
 
+/* FAVS TOGGLE BUTTON==========================================================================*/
+.favs-toggle-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: var(--main-control-height);
+    gap: 6px;
+    padding: 8px 14px;
+    background-color: color-mix(in srgb, var(--card-background) 86%, var(--warning-border) 14%);
+    border: 1.5px solid color-mix(in srgb, var(--border-color) 70%, var(--warning-border) 30%);
+    border-radius: 12px;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 500;
+    color: var(--text-primary);
+    transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+    box-shadow: 0 2px 6px var(--neutral-overlay-05);
+    white-space: nowrap;
+}
+
+.favs-toggle-btn:hover {
+    background-color: color-mix(in srgb, var(--hover-bg) 85%, var(--warning-border) 15%);
+    border-color: var(--warning-border);
+    box-shadow: 0 4px 12px color-mix(in srgb, var(--warning-border) 25%, transparent);
+    transform: translateY(-2px);
+}
+
+.favs-toggle-btn:active {
+    transform: translateY(0px);
+    box-shadow: 0 1px 3px color-mix(in srgb, var(--warning-border) 15%, transparent);
+}
+
+.favs-toggle-btn:focus {
+    outline: none;
+    border-color: var(--warning-border);
+    box-shadow: 0 0 0 3px color-mix(in srgb, var(--warning-border) 40%, transparent);
+}
+
+.favs-toggle-btn.active {
+    background-color: var(--warning-border);
+    border-color: var(--warning-border);
+    color: var(--warning-text);
+    box-shadow: 0 4px 12px color-mix(in srgb, var(--warning-border) 40%, transparent);
+}
+
+.favs-toggle-btn.active:hover {
+    background-color: color-mix(in srgb, var(--warning-border) 85%, black 15%);
+    border-color: var(--warning-border);
+    box-shadow: 0 6px 16px color-mix(in srgb, var(--warning-border) 50%, transparent);
+    transform: translateY(-2px);
+}
+
 /* INTERNAL TOGGLE BUTTON (Library Installer) */
 .internal-toggle-btn {
     display: flex;
@@ -672,6 +724,14 @@ form {
 }
 
 .foss-hidden {
+    display: none;
+    visibility: hidden;
+    height: 0;
+    margin: 0;
+    padding: 0;
+}
+
+.favs-hidden {
     display: none;
     visibility: hidden;
     height: 0;
