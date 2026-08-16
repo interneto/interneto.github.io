@@ -220,7 +220,6 @@ async function init(): Promise<void> {
     try {
         await initConfigData();
         const entries = await loadDirectoryData();
-        renderRows(entries);
 
         searchInput?.addEventListener('input', () => {
             state.query = searchInput.value.trim().toLowerCase();
