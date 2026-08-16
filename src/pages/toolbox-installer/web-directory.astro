@@ -15,10 +15,10 @@ const BASE = import.meta.env.BASE_URL.replace(/\/?$/, '/');
 >
   <div slot="controls" class="page-filter-row filter-chips tag-filter-chips" role="group" aria-label="Filter web destinations by surface">
     <button type="button" class="filter-chip tag-chip-all active" data-tag="all" aria-pressed="true">All</button>
-    <button type="button" class="filter-chip tag-chip-web-only" data-tag="web-only" aria-pressed="false">web-only</button>
-    <button type="button" class="filter-chip tag-chip-desktop" data-tag="desktop" aria-pressed="false">+desktop app</button>
-    <button type="button" class="filter-chip tag-chip-mobile" data-tag="mobile" aria-pressed="false">+mobile app</button>
-    <button type="button" class="filter-chip tag-chip-extension-store" data-tag="extension-store" aria-pressed="false">extension store</button>
+    <button type="button" class="filter-chip tag-chip-web" data-tag="web-only" aria-pressed="false">web app</button>
+    <button type="button" class="filter-chip tag-chip-desktop" data-tag="desktop" aria-pressed="false">desktop app</button>
+    <button type="button" class="filter-chip tag-chip-mobile" data-tag="mobile" aria-pressed="false">mobile app</button>
+    <button type="button" class="filter-chip tag-chip-cross-platform" data-tag="cross-platform" aria-pressed="false">cross-platform</button>
   </div>
 
   <div class="table-container">
@@ -26,7 +26,7 @@ const BASE = import.meta.env.BASE_URL.replace(/\/?$/, '/');
       <thead>
         <tr>
           <th>Category</th>
-          <th>Links</th>
+          <th>Apps</th>
         </tr>
       </thead>
       <tbody></tbody>
@@ -36,10 +36,10 @@ const BASE = import.meta.env.BASE_URL.replace(/\/?$/, '/');
   <div class="stats" aria-label="Directory stats">
     <div class="stat-item"><div class="stat-number" id="directoryVisibleCount">0</div><div class="stat-label">Visible</div></div>
     <div class="stat-item"><div class="stat-number" id="directoryTotalCount">0</div><div class="stat-label">Total</div></div>
-    <div class="stat-item"><div class="stat-number" id="directoryWebOnlyCount">0</div><div class="stat-label">web-only</div></div>
-    <div class="stat-item"><div class="stat-number" id="directoryDesktopCount">0</div><div class="stat-label">+desktop</div></div>
-    <div class="stat-item"><div class="stat-number" id="directoryMobileCount">0</div><div class="stat-label">+mobile</div></div>
-    <div class="stat-item"><div class="stat-number" id="directoryExtensionStoreCount">0</div><div class="stat-label">ext store</div></div>
+    <div class="stat-item"><div class="stat-number" id="directoryWebOnlyCount">0</div><div class="stat-label">web app</div></div>
+    <div class="stat-item"><div class="stat-number" id="directoryDesktopCount">0</div><div class="stat-label">desktop app</div></div>
+    <div class="stat-item"><div class="stat-number" id="directoryMobileCount">0</div><div class="stat-label">mobile app</div></div>
+    <div class="stat-item"><div class="stat-number" id="directoryCrossPlatformCount">0</div><div class="stat-label">cross-platform</div></div>
   </div>
 
 </CompatibilityTablePage>

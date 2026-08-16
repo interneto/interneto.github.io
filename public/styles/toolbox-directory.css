@@ -146,10 +146,11 @@
   box-shadow: 0 10px 20px color-mix(in srgb, var(--chip-color) 32%, transparent);
 }
 
-.tag-chip-desktop { --chip-color: var(--tag-desktop); }
-.tag-chip-mobile  { --chip-color: var(--tag-mobile); }
-.tag-chip-web     { --chip-color: var(--tag-web); }
-.tag-chip-lib     { --chip-color: var(--tag-lib); }
+.tag-chip-desktop        { --chip-color: var(--tag-desktop); }
+.tag-chip-mobile         { --chip-color: var(--tag-mobile); }
+.tag-chip-web            { --chip-color: var(--tag-web); }
+.tag-chip-lib            { --chip-color: var(--tag-lib); }
+.tag-chip-cross-platform { --chip-color: var(--tag-cross-platform); }
 
 @media (max-width: 47.99rem) {
   .toolbox-directory-table th:nth-child(1),

@@ -61,6 +61,7 @@
     --tag-mobile: var(--success-color);
     --tag-web: #c8860b;
     --tag-lib: color-mix(in srgb, var(--text-primary) 55%, var(--border-color));
+    --tag-cross-platform: color-mix(in srgb, var(--tag-desktop) 50%, var(--tag-mobile));
     --warning-scrollbar-thumb: rgba(255, 193, 7, 0.5);
     --warning-scrollbar-thumb-hover: rgba(255, 193, 7, 0.7);
     --category-gradient: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);

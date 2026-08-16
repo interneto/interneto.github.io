@@ -1,16 +1,15 @@
 // Renders the Web Directory table from /pkgs/web-directory.json.
 // Tags describe extra surfaces a web destination ALSO has:
-//   desktop          → also ships a desktop app
-//   mobile           → also ships a mobile app
-//   extension-store  → is a storefront for browser extensions
-// No tag = pure web.
+//   desktop  → also ships a desktop app
+//   mobile   → also ships a mobile app
+// No tag = pure web app. Both tags = cross-platform (filter is derived, not stored).
 
 import { initConfigData } from '../shared/data-loader';
 import { mapCategory } from '../shared/category-mapping';
 
-type Tag = 'desktop' | 'mobile' | 'extension-store';
+type Tag = 'desktop' | 'mobile';
 
-const VALID_TAGS: readonly Tag[] = ['desktop', 'mobile', 'extension-store'];
+const VALID_TAGS: readonly Tag[] = ['desktop', 'mobile'];
 
 interface DirectoryEntry {
     category: string;
@@ -39,7 +38,7 @@ const visibleCount = document.getElementById('directoryVisibleCount');
 const webOnlyCount = document.getElementById('directoryWebOnlyCount');
 const desktopCount = document.getElementById('directoryDesktopCount');
 const mobileCount = document.getElementById('directoryMobileCount');
-const extStoreCount = document.getElementById('directoryExtensionStoreCount');
+const crossPlatformCount = document.getElementById('directoryCrossPlatformCount');
 
 const state = {
     query: '',
@@ -176,21 +175,24 @@ function updateStats(totalEntries: DirectoryEntry[], visibleEntries: DirectoryEn
     if (visibleCount) visibleCount.textContent = String(visibleEntries.length);
 
     let webOnly = 0;
-    const byTag: Record<Tag, number> = { desktop: 0, mobile: 0, 'extension-store': 0 };
+    let crossPlatform = 0;
+    const byTag: Record<Tag, number> = { desktop: 0, mobile: 0 };
     totalEntries.forEach((entry) => {
         if (entry.tags.length === 0) webOnly++;
+        if (entry.tags.includes('desktop') && entry.tags.includes('mobile')) crossPlatform++;
         entry.tags.forEach((tag) => { byTag[tag] += 1; });
     });
 
     if (webOnlyCount) webOnlyCount.textContent = String(webOnly);
     if (desktopCount) desktopCount.textContent = String(byTag.desktop);
     if (mobileCount) mobileCount.textContent = String(byTag.mobile);
-    if (extStoreCount) extStoreCount.textContent = String(byTag['extension-store']);
+    if (crossPlatformCount) crossPlatformCount.textContent = String(crossPlatform);
 }
 
 function matchesTag(entry: DirectoryEntry): boolean {
     if (state.tag === 'all') return true;
     if (state.tag === 'web-only') return entry.tags.length === 0;
+    if (state.tag === 'cross-platform') return entry.tags.includes('desktop') && entry.tags.includes('mobile');
     return entry.tags.includes(state.tag as Tag);
 }
 
