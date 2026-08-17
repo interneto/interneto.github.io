@@ -2,7 +2,6 @@
 import ToolboxInstallerSection from '../../components/ToolboxInstallerSection.astro';
 import ToolboxResultsContainer from '../../components/ToolboxResultsContainer.astro';
 const options = [
-  { value: 'loadFavorites', label: '✨ My Favorites' },
   { value: 'importPackages', label: '📥 Import Agents (JSON)' },
   { value: 'exportPackages', label: '📤 Export Agents (JSON)' },
 ];
@@ -13,9 +12,19 @@ const options = [
   info="Browse MCP servers, plugins, and skills for Claude Code, Codex CLI, and other AI coding agents. Pick the tools you need and copy the ready-to-run install commands."
   searchPlaceholder="Search by name or category"
   options={options}
+  showFossToggle={false}
+  showFileInput={false}
   useForm={true}
   formId="agentForm"
 >
+  <div slot="selectors" class="os-selector-container">
+    <div class="page-filter-row filter-chips" role="group" aria-label="Filter by type">
+      <button type="button" class="filter-chip active" data-filter="all" aria-pressed="true">All</button>
+      <button type="button" class="filter-chip" data-filter="mcp" aria-pressed="false">🔌 MCP Servers</button>
+      <button type="button" class="filter-chip" data-filter="plugin" aria-pressed="false">🧩 Plugins / Skills</button>
+    </div>
+  </div>
+
   <div slot="content">
     <ToolboxResultsContainer
       id="packageContainer"

@@ -76,8 +76,6 @@ function applyFilters(): void {
     if (activeFilter !== 'all') {
         if (activeFilter === 'mcp') items = items.filter(i => i.isMcp);
         else if (activeFilter === 'plugin') items = items.filter(i => !i.isMcp);
-        else if (activeFilter === 'claude') items = items.filter(i => i.claude);
-        else if (activeFilter === 'codex') items = items.filter(i => i.codex);
     }
 
     // Sort
@@ -116,7 +114,7 @@ function renderTable(): void {
     if (!tbody) return;
 
     if (filteredItems.length === 0) {
-        tbody.innerHTML = `<tr><td colspan="5" style="text-align:center;padding:2rem;color:var(--text-secondary);">No tools match your filters</td></tr>`;
+        tbody.innerHTML = `<tr><td colspan="4" style="text-align:center;padding:2rem;color:var(--text-secondary);">No tools match your filters</td></tr>`;
         return;
     }
 
@@ -124,7 +122,6 @@ function renderTable(): void {
         <tr>
             <td class="sticky-col category-col">${escapeHtml(item.category)}</td>
             <td class="sticky-col app-col"><strong>${escapeHtml(item.name)}</strong></td>
-            <td class="os-column"><span class="type-badge ${item.isMcp ? 'mcp' : 'plugin'}">${item.isMcp ? 'MCP' : 'Plugin'}</span></td>
             <td class="os-column">${statusIcon(item.claude, item.claude ? 'Compatible with Claude Code' : 'Not compatible with Claude Code')}</td>
             <td class="os-column">${statusIcon(item.codex, item.codex ? 'Compatible with Codex CLI' : 'Not compatible with Codex CLI')}</td>
         </tr>
@@ -135,13 +132,9 @@ function updateStats(): void {
     const totalEl = document.getElementById('totalPackages');
     const mcpEl = document.getElementById('mcpCount');
     const pluginEl = document.getElementById('pluginCount');
-    const claudeEl = document.getElementById('claudeCount');
-    const codexEl = document.getElementById('codexCount');
     if (totalEl) totalEl.textContent = String(filteredItems.length);
     if (mcpEl) mcpEl.textContent = String(filteredItems.filter(i => i.isMcp).length);
     if (pluginEl) pluginEl.textContent = String(filteredItems.filter(i => !i.isMcp).length);
-    if (claudeEl) claudeEl.textContent = String(filteredItems.filter(i => i.claude).length);
-    if (codexEl) codexEl.textContent = String(filteredItems.filter(i => i.codex).length);
 }
 
 function updateFilterChips(): void {
@@ -222,7 +215,7 @@ async function init(): Promise<void> {
         initTheme();
         const tbody = document.getElementById('tableBody');
         if (tbody) {
-            tbody.innerHTML = `<tr><td colspan="5" style="text-align:center;padding:2rem;">Loading agents data...</td></tr>`;
+            tbody.innerHTML = `<tr><td colspan="4" style="text-align:center;padding:2rem;">Loading agents data...</td></tr>`;
         }
 
         await initConfigData();
@@ -238,7 +231,7 @@ async function init(): Promise<void> {
         console.error('Agents compat init failed:', err);
         const tbody = document.getElementById('tableBody');
         if (tbody) {
-            tbody.innerHTML = `<tr><td colspan="5" style="text-align:center;padding:2rem;color:var(--error-color, #e74c3c);"><strong>Error:</strong> Failed to load agents data.</td></tr>`;
+            tbody.innerHTML = `<tr><td colspan="4" style="text-align:center;padding:2rem;color:var(--error-color, #e74c3c);"><strong>Error:</strong> Failed to load agents data.</td></tr>`;
         }
     }
 }
