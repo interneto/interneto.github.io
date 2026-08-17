@@ -1,17 +1,10 @@
 export {}; // module scope — prevents duplicate declaration conflicts
 
-import { initConfigData, getNonFossListFor } from '../shared/data-loader';
-import { initFavoritesData, getFavoritesFor, type FavCategory } from '../shared/favorites-store';
+import { initConfigData } from '../shared/data-loader';
 
 const BASE = import.meta.env.BASE_URL.replace(/\/?$/, '/');
 
 type PageType = 'mobile' | 'browser' | 'vscode';
-
-const FAV_CATEGORY_BY_PAGE_TYPE: Record<PageType, FavCategory> = {
-    mobile: 'mobile',
-    browser: 'browserExtensions',
-    vscode: 'vscodeExtensions',
-};
 
 interface TableItem {
     id: string;
@@ -48,7 +41,7 @@ interface SortState {
 interface PageConfig {
     jsonUrl: string;
     defaultSort: SortState;
-    normalizeData: (data: unknown, favCategory: FavCategory) => TableItem[];
+    normalizeData: (data: unknown) => TableItem[];
     getFilterOptions: (items: TableItem[]) => FilterOption[];
     matchesFilter: (item: TableItem, filterValue: string) => boolean;
     columns: TableColumn[];
@@ -88,37 +81,21 @@ function createSortArrowsMarkup(columnKey: string) {
     `;
 }
 
-function createStoreLinkMarkup(url: unknown, label: string, icon: string) {
+// Same circular check/cross badge used by desktop-os-compatibility (.os-status, from
+// os-compatibility.css, loaded on every compat page via CompatLayout).
+const CHECK_SVG = '<svg viewBox="0 0 24 24"><polyline points="4 13 9 18 20 6"/></svg>';
+const CROSS_SVG = '<svg viewBox="0 0 24 24"><line x1="5" y1="5" x2="19" y2="19"/><line x1="19" y1="5" x2="5" y2="19"/></svg>';
+
+function createStatusBadge(url: unknown, label: string) {
     if (!url) {
-        return '-';
+        return `<span class="os-status os-status--no" title="Not available">${CROSS_SVG}</span>`;
     }
 
-    return `
-        <a class="store-link" href="${escapeHtml(url)}" target="_blank" rel="noopener noreferrer">
-            <span class="store-icon">${escapeHtml(icon)}</span>
-            <span>${escapeHtml(label)}</span>
-        </a>
-    `;
+    return `<a class="os-status os-status--yes" href="${escapeHtml(url)}" target="_blank" rel="noopener noreferrer" title="${escapeHtml(label)}">${CHECK_SVG}</a>`;
 }
 
-function createAvailabilityMarkup(url: unknown, label: string) {
-    if (!url) {
-        return '<span class="availability-cell no" aria-label="Not available">❌</span>';
-    }
-
-    return `
-        <a class="availability-cell yes" href="${escapeHtml(url)}" target="_blank" rel="noopener noreferrer" aria-label="${escapeHtml(label)}">✅</a>
-    `;
-}
-
-function createBadgeMarkup(active: boolean, icon: string, label: string) {
-    return `<span class="badge-cell${active ? ' active' : ''}" aria-label="${escapeHtml(label)}">${active ? icon : '—'}</span>`;
-}
-
-function normalizeBrowserData(data: unknown, favCategory: FavCategory) {
+function normalizeBrowserData(data: unknown) {
     const extensions = (data as Record<string, unknown>)?.extensions || {};
-    const favoriteIds = new Set(getFavoritesFor(favCategory));
-    const nonFossIds = new Set(getNonFossListFor(favCategory));
     return Object.entries(extensions as Record<string, Record<string, string>>).map(([id, ext]) => {
         const firefoxSlug = ext?.firefox_slug?.trim() || '';
         const chromiumId = ext?.chromium_id?.trim() || '';
@@ -134,17 +111,13 @@ function normalizeBrowserData(data: unknown, favCategory: FavCategory) {
             chromiumUrl: chromiumId
                 ? `https://chromewebstore.google.com/detail/${encodeURIComponent(chromiumId)}`
                 : '',
-            isFavorite: favoriteIds.has(id),
-            isFoss: !nonFossIds.has(id),
             searchText: [ext?.name || '', id, ext?.category || '', firefoxSlug, chromiumId].join(' ').toLowerCase(),
         };
     });
 }
 
-function normalizeMobileData(data: unknown, favCategory: FavCategory) {
+function normalizeMobileData(data: unknown) {
     const packages = (data as Record<string, unknown>)?.packages || {};
-    const favoriteIds = new Set(getFavoritesFor(favCategory));
-    const nonFossIds = new Set(getNonFossListFor(favCategory));
     return Object.entries(packages as Record<string, Record<string, unknown>>).map(([id, pkg]) => {
         const pm = pkg?.package_manager as Record<string, string> | undefined;
         const androidPackageName = pm?.android_pkg?.trim() || '';
@@ -162,8 +135,6 @@ function normalizeMobileData(data: unknown, favCategory: FavCategory) {
             iosUrl: iosPackageName
                 ? `https://apps.apple.com/app/${iosPackageName}`
                 : '',
-            isFavorite: favoriteIds.has(id),
-            isFoss: !nonFossIds.has(id),
             searchText: [
                 (pkg as Record<string, string>)?.name || '',
                 (pkg as Record<string, string>)?.category || '',
@@ -175,16 +146,12 @@ function normalizeMobileData(data: unknown, favCategory: FavCategory) {
     });
 }
 
-function normalizeVscodeData(data: unknown, favCategory: FavCategory) {
+function normalizeVscodeData(data: unknown) {
     const extensions = (data as Record<string, unknown>)?.extensions || {};
-    const favoriteIds = new Set(getFavoritesFor(favCategory));
-    const nonFossIds = new Set(getNonFossListFor(favCategory));
     return Object.entries(extensions as Record<string, Record<string, string>>).map(([id, ext]) => ({
         id,
         category: ext?.category || 'Other',
         name: ext?.name || id,
-        isFavorite: favoriteIds.has(id),
-        isFoss: !nonFossIds.has(id),
         searchText: [ext?.name || '', id, ext?.category || ''].join(' ').toLowerCase(),
     }));
 }
@@ -215,10 +182,8 @@ const PAGE_CONFIGS: Record<PageType, PageConfig> = {
         columns: [
             { key: 'category', label: 'Category', sortable: true, headerClass: 'sortable sticky-col category-col', cellClass: 'sticky-col category-col' },
             { key: 'name', label: 'App', sortable: true, headerClass: 'sortable sticky-col app-col', cellClass: 'sticky-col app-col' },
-            { key: 'androidPackageName', label: 'Android', sortable: true, renderCell: (item) => createAvailabilityMarkup(item.androidUrl, 'Open in Play Store') },
-            { key: 'iosPackageName', label: 'iOS', sortable: true, renderCell: (item) => createAvailabilityMarkup(item.iosUrl, 'Open in App Store') },
-            { key: 'isFavorite', label: 'Favs', sortable: true, renderCell: (item) => createBadgeMarkup(Boolean(item.isFavorite), '⭐', 'Favorite') },
-            { key: 'isFoss', label: 'FOSS', sortable: true, renderCell: (item) => createBadgeMarkup(Boolean(item.isFoss), '🌿', 'Open source') },
+            { key: 'androidPackageName', label: 'Android', sortable: true, renderCell: (item) => createStatusBadge(item.androidUrl, 'Open in Play Store') },
+            { key: 'iosPackageName', label: 'iOS', sortable: true, renderCell: (item) => createStatusBadge(item.iosUrl, 'Open in App Store') },
         ],
         getStats(filteredItems) {
             const categories = new Set(filteredItems.map((item) => item.category));
@@ -245,10 +210,8 @@ const PAGE_CONFIGS: Record<PageType, PageConfig> = {
         columns: [
             { key: 'category', label: 'Category', sortable: true, headerClass: 'sortable sticky-col category-col', cellClass: 'sticky-col category-col' },
             { key: 'name', label: 'Extension', sortable: true, headerClass: 'sortable sticky-col app-col', cellClass: 'sticky-col app-col' },
-            { key: 'firefoxUrl', label: 'Firefox', sortable: false, renderCell: (item) => createStoreLinkMarkup(item.firefoxUrl, 'Firefox Extension', '🦊') },
-            { key: 'chromiumUrl', label: 'Chromium', sortable: false, renderCell: (item) => createStoreLinkMarkup(item.chromiumUrl, 'Chromium Extension', '🔵') },
-            { key: 'isFavorite', label: 'Favs', sortable: true, renderCell: (item) => createBadgeMarkup(Boolean(item.isFavorite), '⭐', 'Favorite') },
-            { key: 'isFoss', label: 'FOSS', sortable: true, renderCell: (item) => createBadgeMarkup(Boolean(item.isFoss), '🌿', 'Open source') },
+            { key: 'firefoxUrl', label: 'Firefox', sortable: false, renderCell: (item) => createStatusBadge(item.firefoxUrl, 'Open Firefox Extension') },
+            { key: 'chromiumUrl', label: 'Chromium', sortable: false, renderCell: (item) => createStatusBadge(item.chromiumUrl, 'Open Chromium Extension') },
         ],
         getStats(filteredItems) {
             const categories = new Set(filteredItems.map((item) => item.category));
@@ -275,8 +238,6 @@ const PAGE_CONFIGS: Record<PageType, PageConfig> = {
             { key: 'category', label: 'Category', sortable: true, headerClass: 'sortable sticky-col category-col', cellClass: 'sticky-col category-col' },
             { key: 'name', label: 'Extension', sortable: true, headerClass: 'sortable sticky-col app-col', cellClass: 'sticky-col app-col' },
             { key: 'id', label: 'Package Name', sortable: true, renderCell: (item) => `<code class="table-inline-code">${escapeHtml(item.id)}</code>` },
-            { key: 'isFavorite', label: 'Favs', sortable: true, renderCell: (item) => createBadgeMarkup(Boolean(item.isFavorite), '⭐', 'Favorite') },
-            { key: 'isFoss', label: 'FOSS', sortable: true, renderCell: (item) => createBadgeMarkup(Boolean(item.isFoss), '🌿', 'Open source') },
         ],
         getStats(filteredItems) {
             const categories = filteredItems.reduce((acc, item) => {
@@ -514,9 +475,7 @@ function initializePage() {
         });
     }
 
-    const favCategory = FAV_CATEGORY_BY_PAGE_TYPE[pageType];
-
-    Promise.all([initConfigData(), initFavoritesData()])
+    initConfigData()
         .then(() => fetch(config.jsonUrl))
         .then((response) => {
             if (!response.ok) {
@@ -525,7 +484,7 @@ function initializePage() {
             return response.json();
         })
         .then((data) => {
-            state.items = config.normalizeData(data, favCategory);
+            state.items = config.normalizeData(data);
             state.filterOptions = config.getFilterOptions(state.items);
             applyState();
         })

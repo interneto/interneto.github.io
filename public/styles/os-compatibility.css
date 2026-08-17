@@ -666,13 +666,6 @@ tbody tr {
     color: var(--text-secondary);
 }
 
-.store-link {
-    display: inline-flex;
-    align-items: center;
-    gap: 6px;
-    font-weight: 600;
-}
-
 .table-inline-code {
     display: inline-block;
     padding: 2px 6px;
@@ -683,29 +676,7 @@ tbody tr {
     font-size: 12px;
 }
 
-.store-icon {
-    font-size: 13px;
-    line-height: 1;
-    font-weight: 700;
-}
-
-.availability-cell {
-    display: inline-block;
-    font-size: 15px;
-    line-height: 1;
-}
-
-.availability-cell.no {
-    opacity: 0.45;
-}
-
-.badge-cell {
-    display: inline-block;
-    font-size: 15px;
-    line-height: 1;
-    opacity: 0.35;
-}
-
-.badge-cell.active {
-    opacity: 1;
+a.os-status {
+    text-decoration: none;
+    cursor: pointer;
 }

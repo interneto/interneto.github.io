@@ -2411,7 +2411,7 @@
         {
             "category": "social-and-communications",
             "name": "Medium",
-            "icon": "medium.ico",
+            "icon": "medium.svg",
             "link": "https://medium.com/"
         },
         {
@@ -2470,15 +2470,6 @@
             "name": "Substack",
             "icon": "substack.svg",
             "link": "https://substack.com/"
-        },
-        {
-            "category": "social-and-communications",
-            "name": "Telegram web",
-            "icon": "telegram-web.svg",
-            "link": "https://web.telegram.org/a/",
-            "tags": [
-                "foss"
-            ]
         },
         {
             "category": "social-and-communications",
