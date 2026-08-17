@@ -87,9 +87,9 @@ function generatePackages(): void {
     for (const cat of sortedCats) {
         const agents = grouped[cat];
 
-        html += `
-        <div class="${CLASS_NAMES.CATEGORY}">
+        html += `<div class="${CLASS_NAMES.CATEGORY}">
             <div class="${CLASS_NAMES.CATEGORY_HEADER}" role="button" tabindex="0" aria-expanded="true">
+                <span class="toggle-arrow">▼</span>
                 <input type="checkbox" class="${CLASS_NAMES.CATEGORY_CHECKBOX}" data-category="${escapeHtml(cat)}">
                 <span class="${CLASS_NAMES.CATEGORY_EMOJI}">${getCatEmoji(cat)}</span>
                 <h4>${escapeHtml(cat)}</h4>
@@ -334,7 +334,8 @@ function setupToggleAllButton(): void {
     const btn = getElement('TOGGLE_ALL_BTN');
     const label = getElement('TOGGLE_ALL_LABEL');
     if (!btn) return;
-    let allCollapsed = false;
+    let allCollapsed = true; // start collapsed
+    if (label) label.textContent = 'Expand';
     btn.addEventListener('click', () => {
         allCollapsed = !allCollapsed;
         document.querySelectorAll('.' + CLASS_NAMES.CATEGORY).forEach(c => c.classList.toggle(CLASS_NAMES.COLLAPSED, allCollapsed));
@@ -390,7 +391,11 @@ async function init(): Promise<void> {
         setupCopyListButton();
 
         // Collapse all categories on load for compact view
-        // init already collapsed via setupToggleAllButton
+        setTimeout(() => {
+            document.querySelectorAll('.' + CLASS_NAMES.CATEGORY).forEach(c => c.classList.add(CLASS_NAMES.COLLAPSED));
+            const toggleLabel = getElement('TOGGLE_ALL_LABEL');
+            if (toggleLabel) toggleLabel.textContent = 'Expand';
+        }, 50);
         autoGenerateCommand();
     } catch (err) {
         console.error('Agents installer init failed:', err);
