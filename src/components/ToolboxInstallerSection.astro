@@ -23,6 +23,8 @@ export interface Props {
   browserSelectionOptions?: Array<{ value: string; label: string }>;
   useForm?: boolean;
   formId?: string;
+  commandLabel?: string;
+  commandInitialText?: string;
 }
 
 const {
@@ -40,6 +42,8 @@ const {
   browserSelectionOptions = [],
   useForm = false,
   formId,
+  commandLabel,
+  commandInitialText,
 } = Astro.props;
 ---
 
@@ -99,5 +103,5 @@ const {
   </section>
 
   <slot name="footer" />
-  <CommandFooter />
+  <CommandFooter label={commandLabel} initialText={commandInitialText} />
 </InstallerLayout>

@@ -674,6 +674,7 @@ function renderBrowserExtensionsGenerator(items: BrowserExtension[]): void {
     const container = document.getElementById('browserExtensionsCategories');
     const commandFooter = document.getElementById('commandFooter');
     const commandTarget = document.getElementById('installation-command');
+    const pkgCount = document.getElementById('pkgCount');
     const selectAll = document.getElementById('selectAllCheckbox') as HTMLInputElement | null;
     const selectAllLabel = document.getElementById('selectAllLabel');
     const toggleAllBtn = document.getElementById('toggleAllBtn');
@@ -687,6 +688,7 @@ function renderBrowserExtensionsGenerator(items: BrowserExtension[]): void {
     const optionsSelect = document.getElementById('optionsSelect') as HTMLSelectElement | null;
     const searchInput = document.getElementById('searchInput') as HTMLInputElement | null;
     const copyBtn = document.getElementById('copyCommandBtn');
+    const copyListBtn = document.getElementById('copyListBtn');
 
     if (
         !container || !commandTarget || !selectAll || !selectAllLabel
@@ -820,6 +822,7 @@ function renderBrowserExtensionsGenerator(items: BrowserExtension[]): void {
 
     function updateLinks(): void {
         const selectedIds = Array.from(state.selected).sort((a, b) => a.localeCompare(b));
+        if (pkgCount) pkgCount.textContent = selectedIds.length > 0 ? `${selectedIds.length} selected` : '';
         if (selectedIds.length === 0) {
             commandTarget!.textContent = 'Select extensions to generate install links...';
             if (commandFooter) commandFooter.hidden = true;
@@ -995,6 +998,24 @@ function renderBrowserExtensionsGenerator(items: BrowserExtension[]): void {
             setTimeout(() => { copyBtn.textContent = original; }, 1200);
         } catch (error) {
             console.error('Unable to copy links:', error);
+        }
+    });
+
+    copyListBtn?.addEventListener('click', async () => {
+        const selectedItems = items.filter((ext) => state.selected.has(ext.id));
+        if (!selectedItems.length) return;
+        const names = selectedItems
+            .slice()
+            .sort((a, b) => a.name.localeCompare(b.name))
+            .map((ext) => ext.name)
+            .join('\n');
+        try {
+            await navigator.clipboard.writeText(names);
+            const original = copyListBtn.textContent;
+            copyListBtn.textContent = '✓ Copied!';
+            setTimeout(() => { copyListBtn.textContent = original; }, 1200);
+        } catch (error) {
+            console.error('Unable to copy names:', error);
         }
     });
 

@@ -12,11 +12,14 @@ const options = [
   searchPlaceholder="Search by extension name"
   options={options}
   showFileInput={false}
+  commandLabel="Extension links:"
+  commandInitialText="Select extensions to generate install links..."
 >
   <div slot="selectors" class="os-selector-container">
     <div class="primary-os-selector">
       <button type="button" class="os-btn active" data-browser="firefox">🦊 Firefox</button>
       <button type="button" class="os-btn" data-browser="chromium">🔵 Chromium</button>
+      <button type="button" class="os-btn" data-browser="both">🔀 Both</button>
     </div>
   </div>
 
