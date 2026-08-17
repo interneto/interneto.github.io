@@ -253,22 +253,41 @@ function autoGenerateCommand(): void {
         return;
     }
 
-    // Build commands: prefer claude, then codex, then any
-    const lines: string[] = [];
+    // Build commands grouped by agent type
+    const claudeLines: string[] = [];
+    const codexLines: string[] = [];
+    const otherLines: string[] = [];
+
     for (const id of ids) {
         const entry = allAgents.find(a => a.id === id);
         if (!entry) continue;
-        const install = entry.installs?.find(i => i.agent === 'claude')
-            || entry.installs?.find(i => i.agent === 'codex')
-            || entry.installs?.[0];
-        if (install?.cmd) {
-            lines.push(`# ${entry.name}\n${install.cmd}`);
+        const claude = entry.installs?.find(i => i.agent === 'claude');
+        const codex = entry.installs?.find(i => i.agent === 'codex');
+        const other = entry.installs?.find(i => i.agent !== 'claude' && i.agent !== 'codex');
+
+        if (claude?.cmd) {
+            claudeLines.push(`# ${entry.name}\n${claude.cmd}`);
+        } else if (codex?.cmd) {
+            codexLines.push(`# ${entry.name}\n${codex.cmd}`);
+        } else if (other?.cmd) {
+            otherLines.push(`# ${entry.name}\n${other.cmd}`);
         } else {
-            lines.push(`# ${entry.name}\n# No install command available`);
+            otherLines.push(`# ${entry.name}\n# No install command available`);
         }
     }
 
-    cmdEl.textContent = lines.join('\n\n');
+    const parts: string[] = [];
+    if (claudeLines.length > 0) {
+        parts.push(`# ── Claude Code ──\n${claudeLines.join('\n\n')}`);
+    }
+    if (codexLines.length > 0) {
+        parts.push(`# ── Codex CLI ──\n${codexLines.join('\n\n')}`);
+    }
+    if (otherLines.length > 0) {
+        parts.push(`# ── Others ──\n${otherLines.join('\n\n')}`);
+    }
+
+    cmdEl.textContent = parts.join('\n\n');
     if (footer) footer.hidden = false;
 }
 
