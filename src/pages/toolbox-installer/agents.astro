@@ -1,7 +1,6 @@
 ---
 import ToolboxInstallerSection from '../../components/ToolboxInstallerSection.astro';
 import ToolboxResultsContainer from '../../components/ToolboxResultsContainer.astro';
-const BASE = import.meta.env.BASE_URL.replace(/\/?$/, '/');
 const options = [
   { value: 'loadFavorites', label: '✨ My Favorites' },
   { value: 'importPackages', label: '📥 Import Agents (JSON)' },
@@ -11,19 +10,12 @@ const options = [
 <ToolboxInstallerSection
   title="AI Agents Installer"
   heading="🤖 AI Agents Installer"
-  info="Browse MCP servers, plugins, and skills for Claude Code, Codex CLI, and other AI coding agents. Select your agent, pick the tools you need, and copy the ready-to-run install commands."
-  searchPlaceholder="Search by name, type, or category"
+  info="Browse MCP servers, plugins, and skills for Claude Code, Codex CLI, and other AI coding agents. Pick the tools you need and copy the ready-to-run install commands."
+  searchPlaceholder="Search by name or category"
   options={options}
   useForm={true}
   formId="agentForm"
 >
-  <div slot="selectors" class="os-selector-container">
-    <div class="primary-os-selector agent-selector">
-      <button type="button" class="os-btn active" data-os="claude"><span class="os-btn-icon" aria-hidden="true">🤖</span> Claude Code</button>
-      <button type="button" class="os-btn" data-os="codex"><span class="os-btn-icon" aria-hidden="true">⌨️</span> Codex CLI</button>
-    </div>
-  </div>
-
   <div slot="content">
     <ToolboxResultsContainer
       id="packageContainer"

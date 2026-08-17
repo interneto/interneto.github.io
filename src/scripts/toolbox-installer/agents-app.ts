@@ -33,12 +33,8 @@ interface AgentsData {
     agents: Record<string, AgentEntry>;
 }
 
-type ActiveAgent = 'claude' | 'codex';
-
 // ---- State ----
 let allAgents: Array<{ id: string } & AgentEntry> = [];
-let packagesData: { packages: Record<string, { name: string; category: string; subcategory: string; agent_compat?: { claude: boolean; codex: boolean }; installs?: AgentInstall[] }> } = { packages: {} };
-let activeAgent: ActiveAgent = 'claude';
 let searchTerm = '';
 let favorites: string[] = [];
 
@@ -49,18 +45,6 @@ async function loadData(): Promise<void> {
     if (!res.ok) throw new Error(`Failed to load agents: ${res.statusText}`);
     const data: AgentsData = await res.json();
     allAgents = Object.entries(data.agents).map(([id, entry]) => ({ id, ...entry }));
-    // Also build a packagesData shape for the desktop installer's command pipeline
-    const pkgs: Record<string, any> = {};
-    for (const a of allAgents) {
-        pkgs[a.id] = {
-            name: a.name,
-            category: a.category || 'Other',
-            subcategory: a.type,
-            agent_compat: a.agent_compat,
-            installs: a.installs,
-        };
-    }
-    packagesData = { packages: pkgs };
 }
 
 // ─── Category Emoji ──────────────────────────────────────────────────────────
@@ -81,11 +65,11 @@ function generatePackages(): void {
     const container = getElement('PACKAGE_CONTAINER');
     if (!container) return;
 
-    // Filter by agent compatibility + search
-    let items = allAgents.filter(a => a.agent_compat?.[activeAgent]);
+    // Show ALL agents (no agent filter)
+    let items = allAgents;
     if (searchTerm) {
         const q = searchTerm.toLowerCase();
-        items = items.filter(a => `${a.name} ${a.category} ${a.type} ${a.description}`.toLowerCase().includes(q));
+        items = items.filter(a => `${a.name} ${a.category} ${a.type}`.toLowerCase().includes(q));
     }
 
     // Group by category
@@ -102,7 +86,6 @@ function generatePackages(): void {
     let html = '';
     for (const cat of sortedCats) {
         const agents = grouped[cat];
-        const hasFav = agents.some(a => favSet.has(a.id));
 
         html += `
         <div class="${CLASS_NAMES.CATEGORY}">
@@ -129,22 +112,17 @@ function generatePackages(): void {
 
 function renderPackage(id: string, agent: typeof allAgents[0], favSet: Set<string>): string {
     const isFav = favSet.has(id);
-    const desc = agent.description ? escapeHtml(agent.description.substring(0, 180)) : '';
-
-    let compatChips = '';
-    if (agent.agent_compat?.claude) compatChips += '<span class="agent-badge claude">Claude</span>';
-    if (agent.agent_compat?.codex) compatChips += '<span class="agent-badge codex">Codex</span>';
+    const isMcp = agent.type === 'MCP Server';
+    const icon = isMcp ? '🔌' : '🧩';
+    const tag = isMcp ? 'MCP' : 'Plugin';
+    const tagClass = isMcp ? 'mcp' : 'plugin';
 
     return `
-    <label class="pkg-label" data-id="${id}" data-search="${escapeHtml((agent.name + ' ' + agent.category + ' ' + agent.type).toLowerCase())}">
+    <label class="pkg-label" data-id="${id}" data-search="${escapeHtml((agent.name + ' ' + agent.category + ' ' + tag).toLowerCase())}">
         <input type="checkbox" name="pkg" value="${id}" class="${CLASS_NAMES.PACKAGE_CHECKBOX}" ${isFav ? 'checked' : ''}>
-        <span class="pkg-icon-wrap"><span class="pkg-type-icon ${agent.type === 'MCP Server' ? 'mcp' : 'plugin'}">${agent.type === 'MCP Server' ? '🔌' : '🧩'}</span></span>
-        <span class="pkg-info">
-            <strong class="pkg-name-label">${escapeHtml(agent.name)}</strong>
-            <span class="pkg-type-label">${agent.type}</span>
-            ${compatChips}
-            ${desc ? `<span class="pkg-desc-label">${desc}</span>` : ''}
-        </span>
+        <span class="pkg-icon-wrap">${icon}</span>
+        <span class="pkg-name-label">${escapeHtml(agent.name)}</span>
+        <span class="pkg-type-tag ${tagClass}">${tag}</span>
     </label>`;
 }
 
@@ -152,31 +130,6 @@ function escapeHtml(s: string): string {
     const d = document.createElement('div');
     d.textContent = s;
     return d.innerHTML;
-}
-
-// ─── Agent Selector ──────────────────────────────────────────────────────────
-
-function setupAgentSelector(): void {
-    const btns = document.querySelectorAll<HTMLElement>('.os-btn.agent-selector-btn, .primary-os-selector.agent-selector .os-btn');
-    // Actually use the existing .os-btn inside .agent-selector
-    const selector = document.querySelector('.primary-os-selector.agent-selector');
-    if (!selector) return;
-
-    const osBtns = selector.querySelectorAll<HTMLElement>('.os-btn');
-    osBtns.forEach(btn => {
-        btn.addEventListener('click', () => {
-            const os = btn.dataset.os as ActiveAgent;
-            if (!os) return;
-            activeAgent = os;
-            osBtns.forEach(b => {
-                b.classList.remove(CLASS_NAMES.ACTIVE);
-                b.setAttribute('aria-pressed', 'false');
-            });
-            btn.classList.add(CLASS_NAMES.ACTIVE);
-            btn.setAttribute('aria-pressed', 'true');
-            generatePackages();
-        });
-    });
 }
 
 // ─── Search ──────────────────────────────────────────────────────────────────
@@ -288,12 +241,11 @@ function autoGenerateCommand(): void {
     const countEl = document.getElementById('pkgCount');
     if (!cmdEl) return;
 
-    const selected = document.querySelectorAll<HTMLInputElement>('input[name="pkg"]:checked');
     const visible = document.querySelectorAll<HTMLInputElement>('label.pkg-label:not(.' + CLASS_NAMES.SEARCH_HIDDEN + ') input[name="pkg"]:checked');
     const ids = Array.from(visible).map(c => c.value);
-    const count = selected.length;
+    const totalChecked = document.querySelectorAll<HTMLInputElement>('input[name="pkg"]:checked').length;
 
-    if (countEl) countEl.textContent = count > 0 ? `${count} selected` : '';
+    if (countEl) countEl.textContent = totalChecked > 0 ? `${totalChecked} selected` : '';
 
     if (ids.length === 0) {
         cmdEl.textContent = 'Select tools to generate install commands...';
@@ -301,22 +253,18 @@ function autoGenerateCommand(): void {
         return;
     }
 
-    // Build per-agent install commands from each selected package
+    // Build commands: prefer claude, then codex, then any
     const lines: string[] = [];
     for (const id of ids) {
         const entry = allAgents.find(a => a.id === id);
         if (!entry) continue;
-        const install = entry.installs?.find(i => i.agent === activeAgent);
+        const install = entry.installs?.find(i => i.agent === 'claude')
+            || entry.installs?.find(i => i.agent === 'codex')
+            || entry.installs?.[0];
         if (install?.cmd) {
             lines.push(`# ${entry.name}\n${install.cmd}`);
         } else {
-            // Fallback: show any agent-unspecified install
-            const anyInstall = entry.installs?.[0];
-            if (anyInstall?.cmd) {
-                lines.push(`# ${entry.name}\n${anyInstall.cmd}`);
-            } else {
-                lines.push(`# ${entry.name}\n# No install command for ${activeAgent}`);
-            }
+            lines.push(`# ${entry.name}\n# No install command available`);
         }
     }
 
@@ -403,13 +351,19 @@ async function init(): Promise<void> {
         await loadData();
 
         generatePackages();
-        setupAgentSelector();
         setupSearchInput();
         setupSelectAllCheckbox();
         setupToggleAllButton();
         setupAutoCommandGeneration();
         setupCopyButton();
         setupCopyListButton();
+
+        // Collapse all categories on load for compact view
+        setTimeout(() => {
+            document.querySelectorAll('.' + CLASS_NAMES.CATEGORY).forEach(c => c.classList.add(CLASS_NAMES.COLLAPSED));
+            const toggleLabel = getElement('TOGGLE_ALL_LABEL');
+            if (toggleLabel) toggleLabel.textContent = 'Expand';
+        }, 100);
     } catch (err) {
         console.error('Agents installer init failed:', err);
         const container = getElement('PACKAGE_CONTAINER');
