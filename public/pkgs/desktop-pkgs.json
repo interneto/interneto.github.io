@@ -1174,7 +1174,7 @@
       }
     },
     "ffmpeg": {
-      "name": " FFmpeg",
+      "name": "FFmpeg",
       "category": "video-and-movies",
       "subcategory": "Video Encoder/Decoder",
       "package_manager": {
@@ -1188,7 +1188,7 @@
         "freebsd_pkg": "ffmpeg",
         "macos_brew": "ffmpeg",
         "unix_nix_env": "nixos.ffmpeg",
-        "windows_winget": "Mozilla.Firefox"
+        "windows_winget": "FFmpeg.FFmpeg"
       }
     },
     "files": {
@@ -4158,7 +4158,7 @@
         "freebsd_pkg": null,
         "macos_brew": null,
         "unix_nix_env": null,
-        "windows_winget": "PaulPacifico.ShutterEncoder"
+        "windows_winget": null
       }
     },
     "shutter-encoder": {

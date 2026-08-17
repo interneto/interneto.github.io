@@ -74,14 +74,23 @@
   },
   "windowsNonWinget": [
     { "id": "ardour", "name": "Ardour" },
+    { "id": "autocad", "name": "AutoCAD" },
     { "id": "davinci-resolve", "name": "DaVinci Resolve" },
     { "id": "eaglemode", "name": "Eagle-Mode" },
     { "id": "freefilesync", "name": "FreeFileSync" },
+    { "id": "home-assistant", "name": "Home Assistant" },
+    { "id": "jitsi-meet", "name": "Jitsi Meet" },
+    { "id": "lucaschess", "name": "Lucas Chess" },
     { "id": "mediawiki", "name": "MediaWiki" },
     { "id": "moodle", "name": "Moodle" },
+    { "id": "pear-desktop", "name": "Pear Desktop (YT-Music)" },
+    { "id": "photoprism", "name": "PhotoPrism" },
+    { "id": "phpmyadmin", "name": "phpMyAdmin" },
+    { "id": "scrapy", "name": "Scrapy" },
     { "id": "stability-matrix", "name": "StabilityMatrix" },
     { "id": "strawberry", "name": "Strawberry" },
-    { "id": "vmware", "name": "VMware" }
+    { "id": "vmware", "name": "VMware" },
+    { "id": "whisper-cpp", "name": "Whisper.cpp" }
   ],
   "libCompatTable": {
     "languages": ["JavaScript", "Python", "Java", "C#", "Go", "Rust", "PHP"],
