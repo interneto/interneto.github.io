@@ -25,7 +25,7 @@
       "name": "Github MCP",
       "type": "MCP Server",
       "category": "Development",
-      "description": "Remote HTTP MCP: https://api.githubcopilot.com/mcp/",
+      "description": "https://api.githubcopilot.com/mcp/",
       "agent_compat": {
         "claude": true,
         "codex": true
@@ -37,7 +37,7 @@
         },
         {
           "agent": "codex",
-          "cmd": "codex mcp add github --url https://api.githubcopilot.com/mcp/ --bearer-token-env-var GITHUB_PAT_TOKEN"
+          "cmd": "codex mcp add github --url https://api.githubcopilot.com/mcp/"
         }
       ],
       "url": "https://api.githubcopilot.com/mcp/"
@@ -46,7 +46,7 @@
       "name": "Raindrop MCP",
       "type": "MCP Server",
       "category": "Bookmarks",
-      "description": "Remote HTTP MCP: https://api.raindrop.io/rest/v2/ai/mcp",
+      "description": "https://api.raindrop.io/rest/v2/ai/mcp",
       "agent_compat": {
         "claude": true,
         "codex": true
@@ -67,7 +67,7 @@
       "name": "Hyperframes MCP",
       "type": "MCP Server",
       "category": "Creative",
-      "description": "Remote HTTP MCP: https://hyperframes.heygen.com",
+      "description": "https://hyperframes.heygen.com",
       "agent_compat": {
         "claude": true,
         "codex": true
@@ -85,7 +85,7 @@
       "url": "https://hyperframes.heygen.com"
     },
     "mcp-dashboard-icons": {
-      "name": "Dashboard icons MCP",
+      "name": "Dashboard Icons MCP",
       "type": "MCP Server",
       "category": "Design",
       "description": "dashboard-icons stdio MCP server",
@@ -106,7 +106,7 @@
       "url": ""
     },
     "pkg-ableton-mcp": {
-      "name": "ableton-mcp",
+      "name": "Ableton MCP",
       "type": "Plugin/Skill",
       "category": "DAW/Music",
       "description": "ahujasid/ableton-mcp — control Ableton Live (tracks, clips, MIDI, devices) from Claude via a stdio server (uvx). Needs uv installed first, then a one-time manual step: copy AbletonMCP_Remote_Script/__",
@@ -123,7 +123,7 @@
       "url": ""
     },
     "pkg-academic-research-skills": {
-      "name": "academic-research-skills",
+      "name": "Academic Research Skills",
       "type": "Plugin/Skill",
       "category": "Development",
       "description": "ARS — human-in-the-loop research/writing/peer-review pipeline for academic papers, https://github.com/Imbad0202/academic-research-skills. Codex uses the separate ars-codex sibling distribution",
@@ -144,7 +144,7 @@
       "url": ""
     },
     "pkg-adobe-creativity": {
-      "name": "adobe-creativity",
+      "name": "Adobe Creativity",
       "type": "MCP Server",
       "category": "Creative",
       "description": "official Adobe-built remote MCP connector (Adobe + Anthropic) — 50+ tools across Photoshop, Lightroom, Illustrator, Firefly, Premiere, Express, InDesign, Adobe Stock. Hosted HTTP server, OAuth on firs",
@@ -161,9 +161,9 @@
       "url": ""
     },
     "pkg-affinity": {
-      "name": "affinity",
+      "name": "Affinity",
       "type": "Plugin/Skill",
-      "category": "MCP",
+      "category": "Services",
       "description": "Official Affinity (Canva) AI Connector for Claude — launched April 2026, free during beta. Account-specific, no static public endpoint: log into your Affinity account (app or affinity.studio) → Integr",
       "agent_compat": {
         "claude": true,
@@ -178,7 +178,7 @@
       "url": ""
     },
     "pkg-agent-skills": {
-      "name": "agent-skills",
+      "name": "Agent Skills",
       "type": "Plugin/Skill",
       "category": "Development",
       "description": "Addy Osmani's 24 production-grade SDLC skills, spec through ship — https://github.com/addyosmani/agent-skills",
@@ -199,7 +199,7 @@
       "url": ""
     },
     "pkg-ast-grep": {
-      "name": "ast-grep",
+      "name": "Ast Grep",
       "type": "Plugin/Skill",
       "category": "Development",
       "description": "structural code search/rewrite CLI — installs the ast-grep binary itself; any agent with shell access can call it directly, no MCP/plugin registration needed",
@@ -216,7 +216,7 @@
       "url": ""
     },
     "pkg-blender-mcp": {
-      "name": "blender-mcp",
+      "name": "Blender MCP",
       "type": "Plugin/Skill",
       "category": "Creative",
       "description": "ahujasid/blender-mcp — control Blender (3D modeling, scene manipulation) from Claude via a stdio server (uvx). Needs uv installed first, then a one-time manual step: install the repo's addon.py in Ble",
@@ -233,7 +233,7 @@
       "url": ""
     },
     "pkg-brand-voice": {
-      "name": "brand-voice",
+      "name": "Brand Voice",
       "type": "Plugin/Skill",
       "category": "Marketing",
       "description": "Tribe AI plugin — discover brand voice and validate AI-generated content against it — knowledge-work-plugins marketplace, needs the knowledge-work-plugins entry installed first",
@@ -250,10 +250,10 @@
       "url": ""
     },
     "pkg-build-web-apps": {
-      "name": "build-web-apps",
+      "name": "Build Web Apps",
       "type": "Plugin/Skill",
       "category": "Plugin/Agent",
-      "description": "build-web-apps",
+      "description": "",
       "agent_compat": {
         "claude": false,
         "codex": true
@@ -267,10 +267,10 @@
       "url": ""
     },
     "pkg-canva": {
-      "name": "canva",
+      "name": "Canva",
       "type": "Plugin/Skill",
-      "category": "Services",
-      "description": "canva",
+      "category": "Plugin/Agent",
+      "description": "",
       "agent_compat": {
         "claude": false,
         "codex": true
@@ -284,10 +284,10 @@
       "url": ""
     },
     "pkg-caveman": {
-      "name": "caveman",
+      "name": "Caveman",
       "type": "Plugin/Skill",
       "category": "Plugin/Agent",
-      "description": "caveman",
+      "description": "",
       "agent_compat": {
         "claude": true,
         "codex": true
@@ -305,7 +305,7 @@
       "url": ""
     },
     "pkg-claude-md-management": {
-      "name": "claude-md-management",
+      "name": "Claude Md Management",
       "type": "Plugin/Skill",
       "category": "Plugin/Agent",
       "description": "audits CLAUDE.md quality, captures session learnings back into it — on-theme for this repo since .ai/skills/core/*.md is this project's own CLAUDE.md source",
@@ -322,10 +322,10 @@
       "url": ""
     },
     "pkg-claude-plugins-official": {
-      "name": "claude-plugins-official",
+      "name": "Claude Plugins Official",
       "type": "Plugin/Skill",
       "category": "Plugin/Agent",
-      "description": "claude-plugins-official",
+      "description": "",
       "agent_compat": {
         "claude": true,
         "codex": false
@@ -339,7 +339,7 @@
       "url": ""
     },
     "pkg-cloudflare": {
-      "name": "cloudflare",
+      "name": "Cloudflare",
       "type": "MCP Server",
       "category": "Cloud/DevOps",
       "description": "official Cloudflare remote MCP — inspect/manage Cloudflare resources (Workers, DNS, KV, etc), plan infra changes. Hosted HTTP server, OAuth on first connect, no API key — https://developers.cloudflare",
@@ -360,10 +360,10 @@
       "url": ""
     },
     "pkg-code-simplifier": {
-      "name": "code-simplifier",
+      "name": "Code Simplifier",
       "type": "Plugin/Skill",
-      "category": "Development",
-      "description": "code-simplifier",
+      "category": "Plugin/Agent",
+      "description": "",
       "agent_compat": {
         "claude": true,
         "codex": false
@@ -377,7 +377,7 @@
       "url": ""
     },
     "pkg-codebase-memory-mcp": {
-      "name": "codebase-memory-mcp",
+      "name": "Codebase Memory MCP",
       "type": "MCP Server",
       "category": "Development",
       "description": "installs its own MCP server + Claude Code hooks — see https://github.com/DeusData/codebase-memory-mcp",
@@ -394,10 +394,10 @@
       "url": ""
     },
     "pkg-codex": {
-      "name": "codex",
+      "name": "Codex",
       "type": "Plugin/Skill",
-      "category": "Development",
-      "description": "codex",
+      "category": "Plugin/Agent",
+      "description": "",
       "agent_compat": {
         "claude": true,
         "codex": false
@@ -411,7 +411,7 @@
       "url": ""
     },
     "pkg-comfyui-mcp": {
-      "name": "comfyui-mcp",
+      "name": "Comfyui MCP",
       "type": "MCP Server",
       "category": "Development",
       "description": "artokun/comfyui-mcp — MCP server + Claude Code plugin for ComfyUI: image generation, workflow visualization/authoring, model management, 37 tools/38 skills. Needs ComfyUI running locally (or reachable",
@@ -432,7 +432,7 @@
       "url": ""
     },
     "pkg-composio": {
-      "name": "composio",
+      "name": "Composio",
       "type": "Plugin/Skill",
       "category": "Productivity",
       "description": "one MCP endpoint proxying 20,000+ tools across 1000+ SaaS apps (GitHub, Slack, Notion, etc.), loaded just-in-time so the catalog doesn't blow context — https://composio.dev. No static public URL: need",
@@ -449,7 +449,7 @@
       "url": ""
     },
     "pkg-context7": {
-      "name": "context7",
+      "name": "Context7",
       "type": "MCP Server",
       "category": "Development",
       "description": "docs MCP server — Claude gets the official marketplace plugin, Codex gets a direct mcp add, ctx7 setup covers Cursor/opencode/VS Code/30+ other clients",
@@ -474,7 +474,7 @@
       "url": ""
     },
     "pkg-daw-mcp": {
-      "name": "daw-mcp",
+      "name": "DAW MCP",
       "type": "Plugin/Skill",
       "category": "DAW/Music",
       "description": "Bitwig/Ableton MIDI clip bridge — https://github.com/ptaczek/daw-mcp. Clone/build to ~/.local/daw-mcp first (npm install && npm run build in mcp-server/) and install the Bitwig/Ableton extension per i",
@@ -491,7 +491,7 @@
       "url": ""
     },
     "pkg-design": {
-      "name": "design",
+      "name": "Design",
       "type": "Plugin/Skill",
       "category": "Creative",
       "description": "Anthropic-built plugin — critique, design systems, UX writing, accessibility audits — knowledge-work-plugins marketplace, needs the knowledge-work-plugins entry installed first",
@@ -508,7 +508,7 @@
       "url": ""
     },
     "pkg-diagram-design": {
-      "name": "diagram-design",
+      "name": "Diagram Design",
       "type": "Plugin/Skill",
       "category": "Creative",
       "description": "cathrynlavery/diagram-design — 27 editorial-quality technical/product diagram types, rendered standalone HTML with inline SVG, skinnable to brand colors/fonts. Progressive disclosure (reference files ",
@@ -529,7 +529,7 @@
       "url": ""
     },
     "pkg-elevenlabs": {
-      "name": "elevenlabs",
+      "name": "Elevenlabs",
       "type": "Plugin/Skill",
       "category": "Development",
       "description": "official ElevenLabs MCP — text-to-speech, voice cloning, speech-to-text, sound effects. Local stdio server via uvx, needs ELEVENLABS_API_KEY exported first (free tier: 10k credits/month, https://eleve",
@@ -546,7 +546,7 @@
       "url": ""
     },
     "pkg-exa": {
-      "name": "exa",
+      "name": "Exa",
       "type": "MCP Server",
       "category": "Development",
       "description": "official Exa remote MCP — web search, clean page fetching, and optional multi-step research. The base hosted endpoint works anonymously with rate limits; Claude's official plugin includes Exa skills a",
@@ -567,7 +567,7 @@
       "url": ""
     },
     "pkg-filesystem-mcp": {
-      "name": "filesystem-mcp",
+      "name": "Filesystem MCP",
       "type": "Plugin/Skill",
       "category": "Development",
       "description": "official Model Context Protocol filesystem server, maintained by the MCP project. It is scoped to the supplied current working directory, so it cannot access arbitrary paths. Windows launches it throu",
@@ -588,7 +588,7 @@
       "url": ""
     },
     "pkg-engineering": {
-      "name": "engineering",
+      "name": "Engineering",
       "type": "Plugin/Skill",
       "category": "Development",
       "description": "Anthropic-built plugin — standups, code review, architecture decisions, incident response — knowledge-work-plugins marketplace, needs the knowledge-work-plugins entry installed first",
@@ -605,7 +605,7 @@
       "url": ""
     },
     "pkg-figma": {
-      "name": "figma",
+      "name": "Figma",
       "type": "Plugin/Skill",
       "category": "Creative",
       "description": "Figma-built plugin — design file access, extract components, design-to-code — knowledge-work-plugins marketplace, needs the knowledge-work-plugins entry installed first",
@@ -622,7 +622,7 @@
       "url": ""
     },
     "pkg-firecrawl-cli": {
-      "name": "firecrawl-cli",
+      "name": "Firecrawl CLI",
       "type": "Plugin/Skill",
       "category": "Plugin/Agent",
       "description": "init --all --browser",
@@ -639,7 +639,7 @@
       "url": ""
     },
     "pkg-firecrawl-mcp": {
-      "name": "firecrawl-mcp",
+      "name": "Firecrawl MCP",
       "type": "Plugin/Skill",
       "category": "Development",
       "description": "official Firecrawl MCP — web scraping, crawling, search, site mapping for agents. Local stdio server via npx, needs FIRECRAWL_API_KEY exported first (https://www.firecrawl.dev/app/api-keys) — https://",
@@ -656,7 +656,7 @@
       "url": ""
     },
     "pkg-fl-studio-mcp": {
-      "name": "fl-studio-mcp",
+      "name": "Fl Studio MCP",
       "type": "Plugin/Skill",
       "category": "DAW/Music",
       "description": "karl-andres/fl-studio-mcp — control FL Studio (transport, mixer, channels, plugins, piano roll) from Claude via a loopMIDI bridge and an FL Studio controller script. Needs loopMIDI installed manually ",
@@ -673,10 +673,10 @@
       "url": ""
     },
     "pkg-frontend-design": {
-      "name": "frontend-design",
+      "name": "Frontend Design",
       "type": "Plugin/Skill",
-      "category": "Creative",
-      "description": "frontend-design",
+      "category": "Plugin/Agent",
+      "description": "",
       "agent_compat": {
         "claude": true,
         "codex": false
@@ -690,7 +690,7 @@
       "url": ""
     },
     "pkg-github-mcp-server": {
-      "name": "github-mcp-server",
+      "name": "Github MCP Server",
       "type": "MCP Server",
       "category": "Development",
       "description": "official GitHub MCP server (github/github-mcp-server), remote-hosted at api.githubcopilot.com — first use needs OAuth or a GitHub PAT. This is the machine-wide Claude plugin install; this project's ow",
@@ -711,7 +711,7 @@
       "url": ""
     },
     "pkg-grafana": {
-      "name": "grafana",
+      "name": "Grafana",
       "type": "Plugin/Skill",
       "category": "Cloud/DevOps",
       "description": "official Grafana MCP (grafana/mcp-grafana) — query dashboards/metrics/logs/alerts, work with Incident and Sift. Local stdio server, needs the mcp-grafana binary on PATH first (`go install github.com/g",
@@ -728,10 +728,10 @@
       "url": ""
     },
     "pkg-higgsfield-ai-skills": {
-      "name": "higgsfield-ai/skills",
+      "name": "Higgsfield Ai/skills",
       "type": "Plugin/Skill",
       "category": "Plugin/Agent",
-      "description": "higgsfield-ai/skills",
+      "description": "",
       "agent_compat": {
         "claude": false,
         "codex": true
@@ -745,7 +745,7 @@
       "url": ""
     },
     "pkg-hookify": {
-      "name": "hookify",
+      "name": "Hookify",
       "type": "Plugin/Skill",
       "category": "Development",
       "description": "define Claude Code hooks from plain markdown rules instead of hand-writing shell/JS hook scripts",
@@ -762,7 +762,7 @@
       "url": ""
     },
     "pkg-hyperframes": {
-      "name": "hyperframes",
+      "name": "Hyperframes",
       "type": "Plugin/Skill",
       "category": "Development",
       "description": "HeyGen HyperFrames — write HTML, render video (compositions, GSAP/runtime animations, captions, voiceovers, website-to-video) — https://hyperframes.heygen.com, https://github.com/heygen-com/hyperframe",
@@ -779,7 +779,7 @@
       "url": ""
     },
     "pkg-knowledge-work-plugins": {
-      "name": "knowledge-work-plugins",
+      "name": "Knowledge Work Plugins",
       "type": "Plugin/Skill",
       "category": "Creative",
       "description": "Anthropic's open-source knowledge-worker plugin marketplace — bundles skills/connectors/commands per job function — https://github.com/anthropics/knowledge-work-plugins. Add this before installing any",
@@ -796,7 +796,7 @@
       "url": ""
     },
     "pkg-kubernetes": {
-      "name": "kubernetes",
+      "name": "Kubernetes",
       "type": "Plugin/Skill",
       "category": "Cloud/DevOps",
       "description": "containers/kubernetes-mcp-server — native Kubernetes/OpenShift MCP. Uses the active kubeconfig; configured read-only to prevent mutating cluster resources. Requires cluster credentials — https://githu",
@@ -817,9 +817,9 @@
       "url": ""
     },
     "pkg-magnific": {
-      "name": "magnific",
+      "name": "Magnific",
       "type": "Plugin/Skill",
-      "category": "MCP",
+      "category": "Services",
       "description": "official Magnific MCP — image/video generation and upscaling; OAuth sign-in, no API key; remote streamable-HTTP server at mcp.magnific.com — https://www.magnific.com/mcp",
       "agent_compat": {
         "claude": true,
@@ -838,7 +838,7 @@
       "url": ""
     },
     "pkg-marketing": {
-      "name": "marketing",
+      "name": "Marketing",
       "type": "Plugin/Skill",
       "category": "Marketing",
       "description": "Anthropic-built plugin — create content, plan campaigns, analyze performance, maintain brand voice consistency — knowledge-work-plugins marketplace, needs the knowledge-work-plugins entry installed fi",
@@ -855,7 +855,7 @@
       "url": ""
     },
     "pkg-notion": {
-      "name": "notion",
+      "name": "Notion",
       "type": "MCP Server",
       "category": "Productivity",
       "description": "official Notion-hosted remote MCP — search, read, write pages/databases across your workspace; OAuth sign-in, no API key. 18 tools — https://developers.notion.com/docs/mcp",
@@ -872,10 +872,10 @@
       "url": ""
     },
     "pkg-obsidian": {
-      "name": "obsidian",
+      "name": "Obsidian",
       "type": "Plugin/Skill",
-      "category": "Productivity",
-      "description": "obsidian",
+      "category": "Plugin/Agent",
+      "description": "",
       "agent_compat": {
         "claude": true,
         "codex": false
@@ -889,7 +889,7 @@
       "url": ""
     },
     "pkg-pdf-viewer": {
-      "name": "pdf-viewer",
+      "name": "PDF Viewer",
       "type": "Plugin/Skill",
       "category": "Research",
       "description": "Anthropic-built plugin — view, annotate, and sign PDFs in an interactive viewer — knowledge-work-plugins marketplace, needs the knowledge-work-plugins entry installed first",
@@ -906,7 +906,7 @@
       "url": ""
     },
     "pkg-php-lsp": {
-      "name": "php-lsp",
+      "name": "Php LSP",
       "type": "Plugin/Skill",
       "category": "Development",
       "description": "Intelephense code intelligence for PHP — Claude Code LSP plugin only",
@@ -923,9 +923,9 @@
       "url": ""
     },
     "pkg-playwright": {
-      "name": "playwright",
+      "name": "Playwright",
       "type": "MCP Server",
-      "category": "MCP",
+      "category": "Services",
       "description": "Microsoft's browser automation / E2E testing MCP server",
       "agent_compat": {
         "claude": true,
@@ -944,10 +944,10 @@
       "url": ""
     },
     "pkg-ponytail": {
-      "name": "ponytail",
+      "name": "Ponytail",
       "type": "Plugin/Skill",
       "category": "Plugin/Agent",
-      "description": "ponytail",
+      "description": "",
       "agent_compat": {
         "claude": true,
         "codex": true
@@ -965,7 +965,7 @@
       "url": ""
     },
     "pkg-postiz": {
-      "name": "postiz",
+      "name": "Postiz",
       "type": "Plugin/Skill",
       "category": "Marketing",
       "description": "social media automation across 28+ platforms — knowledge-work-plugins marketplace, needs the knowledge-work-plugins entry installed first",
@@ -982,7 +982,7 @@
       "url": ""
     },
     "pkg-productivity": {
-      "name": "productivity",
+      "name": "Productivity",
       "type": "Plugin/Skill",
       "category": "Productivity",
       "description": "Anthropic-built plugin — manage tasks, plan your day, build memory of work context; syncs with calendar, email, chat — knowledge-work-plugins marketplace, needs the knowledge-work-plugins entry instal",
@@ -999,7 +999,7 @@
       "url": ""
     },
     "pkg-pyright-lsp": {
-      "name": "pyright-lsp",
+      "name": "Pyright LSP",
       "type": "Plugin/Skill",
       "category": "Development",
       "description": "Pyright code intelligence + type checking for Python — Claude Code LSP plugin only",
@@ -1016,7 +1016,7 @@
       "url": ""
     },
     "pkg-reaper-mcp": {
-      "name": "reaper-mcp",
+      "name": "Reaper MCP",
       "type": "Plugin/Skill",
       "category": "DAW/Music",
       "description": "bonfire-systems/reaper-mcp — control REAPER (create/mix/master tracks, MIDI + audio) from Claude via python-reapy. Needs a one-time manual step in REAPER first: Actions > Run ReaScript > scripts/enabl",
@@ -1033,7 +1033,7 @@
       "url": ""
     },
     "pkg-serena": {
-      "name": "serena",
+      "name": "Serena",
       "type": "Plugin/Skill",
       "category": "Development",
       "description": "oraios/serena — semantic code navigation and editing MCP that uses language-server tooling for precise, symbol-aware changes. Local stdio server via uvx; first use initializes its project index — http",
@@ -1050,9 +1050,9 @@
       "url": ""
     },
     "pkg-runnet": {
-      "name": "runnet",
+      "name": "Runnet",
       "type": "MCP Server",
-      "category": "MCP",
+      "category": "Services",
       "description": "RuView Sensing Bridge (SENSE-BRIDGE) MCP server, registered as 'rvagent' — https://www.npmjs.com/package/@ruvnet/rvagent",
       "agent_compat": {
         "claude": true,
@@ -1067,9 +1067,9 @@
       "url": ""
     },
     "pkg-ruview": {
-      "name": "ruview",
+      "name": "Ruview",
       "type": "MCP Server",
-      "category": "MCP",
+      "category": "Services",
       "description": "Ruflo Engine MCP server, registered as 'ruflo' — https://www.npmjs.com/package/ruflo",
       "agent_compat": {
         "claude": true,
@@ -1084,7 +1084,7 @@
       "url": ""
     },
     "pkg-suno": {
-      "name": "suno",
+      "name": "Suno",
       "type": "Plugin/Skill",
       "category": "Development",
       "description": "AceDataCloud/SunoMCP — Suno AI music generation, lyrics, cover workflows. Unofficial: Suno has no public API, this is a hosted reseller bridge (no local install), remote HTTP server at suno.mcp.acedat",
@@ -1101,7 +1101,7 @@
       "url": ""
     },
     "pkg-sentry": {
-      "name": "sentry",
+      "name": "Sentry",
       "type": "MCP Server",
       "category": "Cloud/DevOps",
       "description": "official Sentry remote MCP — investigate production errors, issues, traces, and release health. Hosted HTTP server; OAuth sign-in on first connection — https://docs.sentry.io/product/sentry-mcp/",
@@ -1118,10 +1118,10 @@
       "url": ""
     },
     "pkg-superpowers": {
-      "name": "superpowers",
+      "name": "Superpowers",
       "type": "Plugin/Skill",
       "category": "Plugin/Agent",
-      "description": "superpowers",
+      "description": "",
       "agent_compat": {
         "claude": true,
         "codex": false
@@ -1135,7 +1135,7 @@
       "url": ""
     },
     "pkg-supabase": {
-      "name": "supabase",
+      "name": "Supabase",
       "type": "MCP Server",
       "category": "Cloud/DevOps",
       "description": "official Supabase remote MCP — manage projects, query data, and work with database configuration. Hosted HTTP server with OAuth; review Supabase's MCP security guidance before authorizing production p",
@@ -1156,7 +1156,7 @@
       "url": ""
     },
     "pkg-typescript-lsp": {
-      "name": "typescript-lsp",
+      "name": "Typescript LSP",
       "type": "Plugin/Skill",
       "category": "Development",
       "description": "typescript-language-server code intelligence — Claude Code LSP plugin only; VS Code-based tools (Cursor, Windsurf, Copilot) already bundle a TS language service, no separate install needed there",
