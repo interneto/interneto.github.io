@@ -185,12 +185,13 @@ function setupCategoryCheckboxes(): void {
         newCb.addEventListener('click', (e) => {
             e.stopPropagation();
             const cat = newCb.dataset.category;
-            const pkgs = document.querySelectorAll<HTMLInputElement>('label.pkg-label[' + attrEsc('data-id') + '] input.' + CLASS_NAMES.PACKAGE_CHECKBOX);
+            const pkgs = document.querySelectorAll<HTMLInputElement>('label.pkg-label input.' + CLASS_NAMES.PACKAGE_CHECKBOX);
             const inCat: HTMLInputElement[] = [];
             pkgs.forEach(p => {
                 const label = p.closest<HTMLElement>('.' + CLASS_NAMES.CATEGORY);
-                if (label && label.querySelector('.' + CLASS_NAMES.CATEGORY_HEADER + ' input')?.dataset.category === cat) {
-                    inCat.push(p);
+                if (label) {
+                    const catCb = label.querySelector<HTMLInputElement>('.' + CLASS_NAMES.CATEGORY_CHECKBOX);
+                    if (catCb?.dataset.category === cat) inCat.push(p);
                 }
             });
             inCat.forEach(p => p.checked = newCb.checked);
@@ -198,6 +199,17 @@ function setupCategoryCheckboxes(): void {
             updateSelectAllState();
             document.dispatchEvent(new CustomEvent(EVENT_NAMES.SELECTION_CHANGED));
             autoGenerateCommand();
+        });
+    });
+    // Also setup collapse toggle on category headers
+    document.querySelectorAll('.' + CLASS_NAMES.CATEGORY_HEADER).forEach(header => {
+        header.addEventListener('click', (e) => {
+            // Don't toggle if clicking the checkbox
+            if ((e.target as HTMLElement).type === 'checkbox') return;
+            const catDiv = (header as HTMLElement).closest('.' + CLASS_NAMES.CATEGORY);
+            if (catDiv) {
+                catDiv.classList.toggle(CLASS_NAMES.COLLAPSED);
+            }
         });
     });
 }
@@ -378,11 +390,8 @@ async function init(): Promise<void> {
         setupCopyListButton();
 
         // Collapse all categories on load for compact view
-        setTimeout(() => {
-            document.querySelectorAll('.' + CLASS_NAMES.CATEGORY).forEach(c => c.classList.add(CLASS_NAMES.COLLAPSED));
-            const toggleLabel = getElement('TOGGLE_ALL_LABEL');
-            if (toggleLabel) toggleLabel.textContent = 'Expand';
-        }, 100);
+        // init already collapsed via setupToggleAllButton
+        autoGenerateCommand();
     } catch (err) {
         console.error('Agents installer init failed:', err);
         const container = getElement('PACKAGE_CONTAINER');
