@@ -1,15 +1,16 @@
 // Renders the App Directory table from /pkgs/app-directory.json.
-// Tags describe extra surfaces a web destination ALSO has:
+// Tags describe extra surfaces a web destination ALSO has, plus licensing:
 //   desktop  → also ships a desktop app
 //   mobile   → also ships a mobile app
-// No tag = pure web app. Both tags = cross-platform (filter is derived, not stored).
+//   foss     → the client/software is Free and Open Source
+// No desktop/mobile tag = pure web app. Both = cross-platform (filter is derived, not stored).
 
 import { initConfigData } from '../shared/data-loader';
 import { mapCategory } from '../shared/category-mapping';
 
-type Tag = 'desktop' | 'mobile';
+type Tag = 'desktop' | 'mobile' | 'foss';
 
-const VALID_TAGS: readonly Tag[] = ['desktop', 'mobile'];
+const VALID_TAGS: readonly Tag[] = ['desktop', 'mobile', 'foss'];
 
 interface DirectoryEntry {
     category: string;
@@ -39,6 +40,7 @@ const webOnlyCount = document.getElementById('directoryWebOnlyCount');
 const desktopCount = document.getElementById('directoryDesktopCount');
 const mobileCount = document.getElementById('directoryMobileCount');
 const crossPlatformCount = document.getElementById('directoryCrossPlatformCount');
+const fossCount = document.getElementById('directoryFossCount');
 
 const state = {
     query: '',
@@ -176,9 +178,10 @@ function updateStats(totalEntries: DirectoryEntry[], visibleEntries: DirectoryEn
 
     let webOnly = 0;
     let crossPlatform = 0;
-    const byTag: Record<Tag, number> = { desktop: 0, mobile: 0 };
+    const byTag: Record<Tag, number> = { desktop: 0, mobile: 0, foss: 0 };
     totalEntries.forEach((entry) => {
-        if (entry.tags.length === 0) webOnly++;
+        const platformTags = entry.tags.filter((tag) => tag === 'desktop' || tag === 'mobile');
+        if (platformTags.length === 0) webOnly++;
         if (entry.tags.includes('desktop') && entry.tags.includes('mobile')) crossPlatform++;
         entry.tags.forEach((tag) => { byTag[tag] += 1; });
     });
@@ -187,11 +190,12 @@ function updateStats(totalEntries: DirectoryEntry[], visibleEntries: DirectoryEn
     if (desktopCount) desktopCount.textContent = String(byTag.desktop);
     if (mobileCount) mobileCount.textContent = String(byTag.mobile);
     if (crossPlatformCount) crossPlatformCount.textContent = String(crossPlatform);
+    if (fossCount) fossCount.textContent = String(byTag.foss);
 }
 
 function matchesTag(entry: DirectoryEntry): boolean {
     if (state.tag === 'all') return true;
-    if (state.tag === 'web-only') return entry.tags.length === 0;
+    if (state.tag === 'web-only') return !entry.tags.includes('desktop') && !entry.tags.includes('mobile');
     if (state.tag === 'cross-platform') return entry.tags.includes('desktop') && entry.tags.includes('mobile');
     return entry.tags.includes(state.tag as Tag);
 }

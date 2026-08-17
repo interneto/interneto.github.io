@@ -42,8 +42,16 @@ const toolboxCards = [
   },
 ];
 
+const directoryLinks = [
+  {
+    label: 'App Directory',
+    href: `${BASE}toolbox/app-directory/`,
+    icon: '🌐',
+    description: 'Every app in one place, tagged by which platforms it also reaches and whether it\'s FOSS. No installer needed — opening the link runs the web app in your browser.',
+  },
+];
+
 const compatibilityLinks = [
-  { label: 'App Directory', href: `${BASE}toolbox/app-directory/`, icon: '🌐' },
   { label: 'Operating System Compatibility', href: `${BASE}toolbox/os-compatibility/`, icon: '💿' },
   { label: 'Desktop App OS Compatibility', href: `${BASE}toolbox/desktop-os-compatibility/`, icon: '🖥️' },
   { label: 'Mobile OS Compatibility', href: `${BASE}toolbox/mobile-os-compatibility/`, icon: '📱' },
@@ -125,8 +133,26 @@ const tuiInstall = [
 
     <section class="toolbox-section">
       <div class="toolbox-section-header">
+        <h2>App Directory</h2>
+        <p>Web apps, platforms, and databases — tagged by which platforms they also reach.</p>
+      </div>
+      <div class="toolbox-grid">
+        {directoryLinks.map((item) => (
+          <a class="toolbox-card" href={item.href}>
+            <span class="toolbox-card-icon">{item.icon}</span>
+            <h3>{item.label}</h3>
+            <p>{item.description}</p>
+          </a>
+        ))}
+      </div>
+    </section>
+
+    <div class="toolbox-separator" aria-hidden="true"></div>
+
+    <section class="toolbox-section">
+      <div class="toolbox-section-header">
         <h2>Compatibility Tables</h2>
-        <p>Browse everything, or compare availability and support before jumping into an installer.</p>
+        <p>Compare availability and support before jumping into each installer.</p>
       </div>
       <div class="toolbox-compatibility-grid">
         {compatibilityLinks.map((item) => (

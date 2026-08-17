@@ -113,7 +113,8 @@
             "link": "https://telegram.org/",
             "tags": [
                 "desktop",
-                "mobile"
+                "mobile",
+                "foss"
             ]
         },
         {
@@ -142,7 +143,10 @@
             "category": "photos-and-graphics",
             "name": "Excalidraw",
             "icon": "excalidraw.svg",
-            "link": "https://excalidraw.com/"
+            "link": "https://excalidraw.com/",
+            "tags": [
+                "foss"
+            ]
         },
         {
             "category": "photos-and-graphics",
@@ -232,7 +236,10 @@
             "category": "photos-and-graphics",
             "name": "Wikimedia Commons",
             "icon": "wikimedia-commons.ico",
-            "link": "https://commons.wikimedia.org/wiki/Main_Page"
+            "link": "https://commons.wikimedia.org/wiki/Main_Page",
+            "tags": [
+                "foss"
+            ]
         },
         {
             "category": "development",
@@ -250,7 +257,10 @@
             "category": "development",
             "name": "AppimageHub",
             "icon": "appimagehub.ico",
-            "link": "https://www.appimagehub.com/browse"
+            "link": "https://www.appimagehub.com/browse",
+            "tags": [
+                "foss"
+            ]
         },
         {
             "category": "development",
@@ -261,13 +271,19 @@
             "category": "development",
             "name": "Arch Linux Packages",
             "icon": "arch-linux-packages.png",
-            "link": "https://archlinux.org/packages/"
+            "link": "https://archlinux.org/packages/",
+            "tags": [
+                "foss"
+            ]
         },
         {
             "category": "development",
             "name": "Aurora OSS",
             "icon": "aurora-oss.svg",
-            "link": "https://auroraoss.com/"
+            "link": "https://auroraoss.com/",
+            "tags": [
+                "foss"
+            ]
         },
         {
             "category": "development",
@@ -284,12 +300,18 @@
             "category": "development",
             "name": "Codeberg.org",
             "icon": "codeberg-org.svg",
-            "link": "https://codeberg.org/"
+            "link": "https://codeberg.org/",
+            "tags": [
+                "foss"
+            ]
         },
         {
             "category": "development",
             "name": "Debian stable",
-            "link": "https://packages.debian.org/stable/"
+            "link": "https://packages.debian.org/stable/",
+            "tags": [
+                "foss"
+            ]
         },
         {
             "category": "development",
@@ -316,25 +338,37 @@
             "category": "development",
             "name": "F-Droid",
             "icon": "f-droid.svg",
-            "link": "https://f-droid.org/"
+            "link": "https://f-droid.org/",
+            "tags": [
+                "foss"
+            ]
         },
         {
             "category": "development",
             "name": "Fedora Packages",
             "icon": "fedora-packages.ico",
-            "link": "https://packages.fedoraproject.org/index-static.html"
+            "link": "https://packages.fedoraproject.org/index-static.html",
+            "tags": [
+                "foss"
+            ]
         },
         {
             "category": "development",
             "name": "Flathub",
             "icon": "flathub.svg",
-            "link": "https://flathub.org/"
+            "link": "https://flathub.org/",
+            "tags": [
+                "foss"
+            ]
         },
         {
             "category": "development",
             "name": "Gitea",
             "icon": "gitea.png",
-            "link": "https://gitea.com/"
+            "link": "https://gitea.com/",
+            "tags": [
+                "foss"
+            ]
         },
         {
             "category": "development",
@@ -350,7 +384,10 @@
             "category": "development",
             "name": "GitLab",
             "icon": "gitlab.ico",
-            "link": "https://about.gitlab.com/"
+            "link": "https://about.gitlab.com/",
+            "tags": [
+                "foss"
+            ]
         },
         {
             "category": "development",
@@ -362,7 +399,10 @@
             "category": "development",
             "name": "homebrew",
             "icon": "homebrew.svg",
-            "link": "https://formulae.brew.sh/"
+            "link": "https://formulae.brew.sh/",
+            "tags": [
+                "foss"
+            ]
         },
         {
             "category": "development",
@@ -386,7 +426,10 @@
             "category": "development",
             "name": "IzzyOnDroid F-Droid Repository",
             "icon": "izzyondroid-f-droid-repository.ico",
-            "link": "https://apt.izzysoft.de/fdroid/"
+            "link": "https://apt.izzysoft.de/fdroid/",
+            "tags": [
+                "foss"
+            ]
         },
         {
             "category": "development",
@@ -398,7 +441,10 @@
             "category": "development",
             "name": "Launchpad",
             "icon": "launchpad.svg",
-            "link": "https://launchpad.net/"
+            "link": "https://launchpad.net/",
+            "tags": [
+                "foss"
+            ]
         },
         {
             "category": "development",
@@ -422,7 +468,10 @@
             "category": "development",
             "name": "PortableApps",
             "icon": "portableapps.png",
-            "link": "https://portableapps.com/"
+            "link": "https://portableapps.com/",
+            "tags": [
+                "foss"
+            ]
         },
         {
             "category": "development",
@@ -437,7 +486,10 @@
             "category": "development",
             "name": "Repology",
             "icon": "repology.ico",
-            "link": "https://repology.org/"
+            "link": "https://repology.org/",
+            "tags": [
+                "foss"
+            ]
         },
         {
             "category": "development",
@@ -449,13 +501,19 @@
             "category": "development",
             "name": "sourcehut",
             "icon": "sourcehut.svg",
-            "link": "https://sourcehut.org/"
+            "link": "https://sourcehut.org/",
+            "tags": [
+                "foss"
+            ]
         },
         {
             "category": "development",
             "name": "TuxMate - Linux bulk app installer",
             "icon": "tuxmate-linux.ico",
-            "link": "https://tuxmate.com/"
+            "link": "https://tuxmate.com/",
+            "tags": [
+                "foss"
+            ]
         },
         {
             "category": "development",
@@ -467,7 +525,10 @@
             "category": "development",
             "name": "winstall",
             "icon": "winstall.ico",
-            "link": "https://winstall.app/"
+            "link": "https://winstall.app/",
+            "tags": [
+                "foss"
+            ]
         },
         {
             "category": "online-services",
@@ -520,7 +581,10 @@
         {
             "category": "online-services",
             "name": "ArchWiki - List of applications",
-            "link": "https://wiki.archlinux.org/title/List_of_applications"
+            "link": "https://wiki.archlinux.org/title/List_of_applications",
+            "tags": [
+                "foss"
+            ]
         },
         {
             "category": "online-services",
@@ -589,7 +653,10 @@
             "category": "online-services",
             "name": "FMHY",
             "icon": "fmhy.svg",
-            "link": "https://fmhy.net/"
+            "link": "https://fmhy.net/",
+            "tags": [
+                "foss"
+            ]
         },
         {
             "category": "online-services",
@@ -619,7 +686,10 @@
             "category": "online-services",
             "name": "Interneto",
             "icon": "/icon.png",
-            "link": "https://interneto.github.io/"
+            "link": "https://interneto.github.io/",
+            "tags": [
+                "foss"
+            ]
         },
         {
             "category": "online-services",
@@ -655,19 +725,28 @@
             "category": "online-services",
             "name": "Map of GitHub",
             "icon": "map-of-github.png",
-            "link": "https://anvaka.github.io/map-of-github/#2/0/0"
+            "link": "https://anvaka.github.io/map-of-github/#2/0/0",
+            "tags": [
+                "foss"
+            ]
         },
         {
             "category": "online-services",
             "name": "PRISM Break",
             "icon": "prism-break.png",
-            "link": "https://prism-break.org/en/"
+            "link": "https://prism-break.org/en/",
+            "tags": [
+                "foss"
+            ]
         },
         {
             "category": "online-services",
             "name": "Privacy Tools",
             "icon": "privacy-tools.svg",
-            "link": "https://www.privacytools.io/"
+            "link": "https://www.privacytools.io/",
+            "tags": [
+                "foss"
+            ]
         },
         {
             "category": "online-services",
@@ -736,7 +815,10 @@
             "category": "online-services",
             "name": "web-platform-tests dashboard",
             "icon": "web-platform-tests-dashboard.ico",
-            "link": "https://wpt.fyi/results/?label=experimental&label=master&aligned"
+            "link": "https://wpt.fyi/results/?label=experimental&label=master&aligned",
+            "tags": [
+                "foss"
+            ]
         },
         {
             "category": "online-services",
@@ -758,7 +840,10 @@
             "category": "education-and-reference",
             "name": "AlphaFold Protein Structure Database",
             "icon": "alphafold.svg",
-            "link": "https://alphafold.ebi.ac.uk/"
+            "link": "https://alphafold.ebi.ac.uk/",
+            "tags": [
+                "foss"
+            ]
         },
         {
             "category": "education-and-reference",
@@ -780,7 +865,10 @@
         {
             "category": "education-and-reference",
             "name": "ConceptNet",
-            "link": "https://conceptnet.io/"
+            "link": "https://conceptnet.io/",
+            "tags": [
+                "foss"
+            ]
         },
         {
             "category": "education-and-reference",
@@ -839,7 +927,10 @@
         {
             "category": "education-and-reference",
             "name": "Kiwix Server",
-            "link": "https://library.kiwix.org/?lang=eng"
+            "link": "https://library.kiwix.org/?lang=eng",
+            "tags": [
+                "foss"
+            ]
         },
         {
             "category": "education-and-reference",
@@ -875,7 +966,10 @@
             "category": "education-and-reference",
             "name": "MDN Web Docs",
             "icon": "mdn.svg",
-            "link": "https://developer.mozilla.org/"
+            "link": "https://developer.mozilla.org/",
+            "tags": [
+                "foss"
+            ]
         },
         {
             "category": "education-and-reference",
@@ -929,7 +1023,10 @@
             "category": "education-and-reference",
             "name": "Wikidata",
             "icon": "wikidata.ico",
-            "link": "https://www.wikidata.org/wiki/Wikidata:Main_Page"
+            "link": "https://www.wikidata.org/wiki/Wikidata:Main_Page",
+            "tags": [
+                "foss"
+            ]
         },
         {
             "category": "education-and-reference",
@@ -937,7 +1034,8 @@
             "icon": "wikipedia.svg",
             "link": "https://www.wikipedia.org/",
             "tags": [
-                "mobile"
+                "mobile",
+                "foss"
             ]
         },
         {
@@ -980,13 +1078,19 @@
             "category": "education-and-reference",
             "name": "edX",
             "icon": "edx.ico",
-            "link": "https://www.edx.org/"
+            "link": "https://www.edx.org/",
+            "tags": [
+                "foss"
+            ]
         },
         {
             "category": "education-and-reference",
             "name": "freeCodeCamp",
             "icon": "freecodecamp.svg",
-            "link": "https://www.freecodecamp.org/learn"
+            "link": "https://www.freecodecamp.org/learn",
+            "tags": [
+                "foss"
+            ]
         },
         {
             "category": "education-and-reference",
@@ -998,7 +1102,10 @@
             "category": "education-and-reference",
             "name": "GeoGebra",
             "icon": "geogebra.svg",
-            "link": "https://www.geogebra.org/math"
+            "link": "https://www.geogebra.org/math",
+            "tags": [
+                "foss"
+            ]
         },
         {
             "category": "education-and-reference",
@@ -1126,7 +1233,10 @@
             "category": "travel-and-location",
             "name": "GeoHack",
             "icon": "geohack.png",
-            "link": "https://geohack.toolforge.org/geohack.php?params=0_0_0_S_0_0_0_W"
+            "link": "https://geohack.toolforge.org/geohack.php?params=0_0_0_S_0_0_0_W",
+            "tags": [
+                "foss"
+            ]
         },
         {
             "category": "travel-and-location",
@@ -1223,19 +1333,28 @@
             "category": "travel-and-location",
             "name": "OpenStreetMap",
             "icon": "openstreetmap.svg",
-            "link": "https://www.openstreetmap.org/#map=3/28.69/0.09"
+            "link": "https://www.openstreetmap.org/#map=3/28.69/0.09",
+            "tags": [
+                "foss"
+            ]
         },
         {
             "category": "travel-and-location",
             "name": "OurAirports",
             "icon": "ourairports.ico",
-            "link": "https://ourairports.com/"
+            "link": "https://ourairports.com/",
+            "tags": [
+                "foss"
+            ]
         },
         {
             "category": "travel-and-location",
             "name": "Overpass Turbo",
             "icon": "overpass-turbo.svg",
-            "link": "https://overpass-turbo.eu/"
+            "link": "https://overpass-turbo.eu/",
+            "tags": [
+                "foss"
+            ]
         },
         {
             "category": "travel-and-location",
@@ -1351,7 +1470,10 @@
             "category": "video-and-movies",
             "name": "Audius - trending",
             "icon": "audius-trending.svg",
-            "link": "https://audius.co/trending"
+            "link": "https://audius.co/trending",
+            "tags": [
+                "foss"
+            ]
         },
         {
             "category": "video-and-movies",
@@ -1501,7 +1623,10 @@
             "category": "video-and-movies",
             "name": "Odysee",
             "icon": "odysee.svg",
-            "link": "https://odysee.com/"
+            "link": "https://odysee.com/",
+            "tags": [
+                "foss"
+            ]
         },
         {
             "category": "video-and-movies",
@@ -1513,7 +1638,10 @@
             "category": "video-and-movies",
             "name": "Peertube",
             "icon": "peertube.png",
-            "link": "https://peertube.tv/"
+            "link": "https://peertube.tv/",
+            "tags": [
+                "foss"
+            ]
         },
         {
             "category": "video-and-movies",
@@ -1530,7 +1658,10 @@
         {
             "category": "video-and-movies",
             "name": "radio-browser.info",
-            "link": "https://www.radio-browser.info/map"
+            "link": "https://www.radio-browser.info/map",
+            "tags": [
+                "foss"
+            ]
         },
         {
             "category": "video-and-movies",
@@ -1667,7 +1798,10 @@
             "category": "video-and-movies",
             "name": "YT Invidious",
             "icon": "yt-invidious.ico",
-            "link": "https://redirect.invidious.io/"
+            "link": "https://redirect.invidious.io/",
+            "tags": [
+                "foss"
+            ]
         },
         {
             "category": "office-and-productivity",
@@ -1695,7 +1829,10 @@
             "category": "office-and-productivity",
             "name": "RecipeSage",
             "icon": "recipesage.svg",
-            "link": "https://recipesage.com/#/list/main"
+            "link": "https://recipesage.com/#/list/main",
+            "tags": [
+                "foss"
+            ]
         },
         {
             "category": "news-and-books",
@@ -1706,7 +1843,10 @@
             "category": "news-and-books",
             "name": "arXiv.org e-Print archive",
             "icon": "arxiv-org.svg",
-            "link": "https://arxiv.org/"
+            "link": "https://arxiv.org/",
+            "tags": [
+                "foss"
+            ]
         },
         {
             "category": "news-and-books",
@@ -1723,19 +1863,28 @@
             "category": "news-and-books",
             "name": "Directory of Open Access Journals – DOAJ",
             "icon": "directory-of-open-access-journals-doaj.svg",
-            "link": "https://doaj.org/"
+            "link": "https://doaj.org/",
+            "tags": [
+                "foss"
+            ]
         },
         {
             "category": "news-and-books",
             "name": "Europeana",
             "icon": "europeana.ico",
-            "link": "https://www.europeana.eu/es"
+            "link": "https://www.europeana.eu/es",
+            "tags": [
+                "foss"
+            ]
         },
         {
             "category": "news-and-books",
             "name": "Folo",
             "icon": "folo.svg",
-            "link": "https://app.folo.is/timeline/articles/all/pending"
+            "link": "https://app.folo.is/timeline/articles/all/pending",
+            "tags": [
+                "foss"
+            ]
         },
         {
             "category": "news-and-books",
@@ -1792,7 +1941,10 @@
             "category": "news-and-books",
             "name": "Open Library - Internet Archive",
             "icon": "open-library-internet-archive.ico",
-            "link": "https://openlibrary.org/"
+            "link": "https://openlibrary.org/",
+            "tags": [
+                "foss"
+            ]
         },
         {
             "category": "news-and-books",
@@ -2184,7 +2336,10 @@
             "category": "social-and-communications",
             "name": "Bluesky",
             "icon": "bluesky.svg",
-            "link": "https://bsky.app/"
+            "link": "https://bsky.app/",
+            "tags": [
+                "foss"
+            ]
         },
         {
             "category": "social-and-communications",
@@ -2196,7 +2351,10 @@
             "category": "social-and-communications",
             "name": "Element",
             "icon": "element.png",
-            "link": "https://element.io/"
+            "link": "https://element.io/",
+            "tags": [
+                "foss"
+            ]
         },
         {
             "category": "social-and-communications",
@@ -2246,7 +2404,8 @@
             "icon": "mastodon.svg",
             "link": "https://mastodon.social/explore",
             "tags": [
-                "mobile"
+                "mobile",
+                "foss"
             ]
         },
         {
@@ -2316,7 +2475,10 @@
             "category": "social-and-communications",
             "name": "Telegram web",
             "icon": "telegram-web.svg",
-            "link": "https://web.telegram.org/a/"
+            "link": "https://web.telegram.org/a/",
+            "tags": [
+                "foss"
+            ]
         },
         {
             "category": "social-and-communications",
@@ -2510,7 +2672,10 @@
             "category": "video-and-movies",
             "name": "Stremio Web",
             "icon": "stremio.svg",
-            "link": "https://web.stremio.com/"
+            "link": "https://web.stremio.com/",
+            "tags": [
+                "foss"
+            ]
         },
         {
             "category": "video-and-movies",
@@ -2528,7 +2693,10 @@
             "category": "video-and-movies",
             "name": "TV Multiview",
             "icon": "tv-multiview.svg",
-            "link": "https://interneto.github.io/tv-multiview/"
+            "link": "https://interneto.github.io/tv-multiview/",
+            "tags": [
+                "foss"
+            ]
         },
         {
             "category": "video-and-movies",
@@ -2622,12 +2790,18 @@
         {
             "category": "development",
             "name": "npm",
-            "link": "https://www.npmjs.com/"
+            "link": "https://www.npmjs.com/",
+            "tags": [
+                "foss"
+            ]
         },
         {
             "category": "development",
             "name": "PyPI",
-            "link": "https://pypi.org/"
+            "link": "https://pypi.org/",
+            "tags": [
+                "foss"
+            ]
         },
         {
             "category": "photos-and-graphics",
@@ -2646,7 +2820,10 @@
             "category": "video-and-movies",
             "name": "Zstream",
             "icon": "pstream.svg",
-            "link": "https://zstream.mov/"
+            "link": "https://zstream.mov/",
+            "tags": [
+                "foss"
+            ]
         }
     ]
 }

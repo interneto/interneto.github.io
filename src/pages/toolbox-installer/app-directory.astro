@@ -6,12 +6,12 @@ const BASE = import.meta.env.BASE_URL.replace(/\/?$/, '/');
 <CompatibilityTablePage
   title="App Directory"
   heading="App Directory"
-  subtitle="Every app in one place — web destinations tagged by which platforms they also reach."
+  subtitle="Every app in one place — web destinations tagged by which platforms they also reach, and whether they're FOSS."
   installerHref={`${BASE}toolbox/`}
   installerLabel="Back to Toolbox"
   searchPlaceholder="Search category, name, or surface"
   extraStyles={['styles/toolbox-directory.css']}
-  pageNote="Everything here runs in the browser — there's no installer; opening the link 'installs' the app in your browser. Tags mark optional native surfaces a destination also ships."
+  pageNote="Everything here runs in the browser — there's no installer; opening the link 'installs' the app in your browser. Tags mark optional native surfaces a destination also ships, and whether it's Free and Open Source."
 >
   <div slot="controls" class="page-filter-row filter-chips tag-filter-chips" role="group" aria-label="Filter web destinations by surface">
     <button type="button" class="filter-chip tag-chip-all active" data-tag="all" aria-pressed="true">All</button>
@@ -19,6 +19,7 @@ const BASE = import.meta.env.BASE_URL.replace(/\/?$/, '/');
     <button type="button" class="filter-chip tag-chip-desktop" data-tag="desktop" aria-pressed="false">desktop app</button>
     <button type="button" class="filter-chip tag-chip-mobile" data-tag="mobile" aria-pressed="false">mobile app</button>
     <button type="button" class="filter-chip tag-chip-cross-platform" data-tag="cross-platform" aria-pressed="false">cross-platform</button>
+    <button type="button" class="filter-chip tag-chip-foss" data-tag="foss" aria-pressed="false">🌿 FOSS</button>
   </div>
 
   <div class="directory-related-links">
@@ -46,6 +47,7 @@ const BASE = import.meta.env.BASE_URL.replace(/\/?$/, '/');
     <div class="stat-item"><div class="stat-number" id="directoryDesktopCount">0</div><div class="stat-label">desktop app</div></div>
     <div class="stat-item"><div class="stat-number" id="directoryMobileCount">0</div><div class="stat-label">mobile app</div></div>
     <div class="stat-item"><div class="stat-number" id="directoryCrossPlatformCount">0</div><div class="stat-label">cross-platform</div></div>
+    <div class="stat-item"><div class="stat-number" id="directoryFossCount">0</div><div class="stat-label">FOSS</div></div>
   </div>
 
 </CompatibilityTablePage>

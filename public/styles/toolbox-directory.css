@@ -142,6 +142,7 @@
 .tag-chip-mobile         { --chip-color: var(--tag-mobile); }
 .tag-chip-web            { --chip-color: var(--tag-web); }
 .tag-chip-cross-platform { --chip-color: var(--tag-cross-platform); }
+.tag-chip-foss           { --chip-color: var(--success-color); }
 
 @media (max-width: 47.99rem) {
   .toolbox-directory-table th:nth-child(1),
