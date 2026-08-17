@@ -10,8 +10,9 @@ export function resolvePkgsFileFromPath(pathname: string): string {
     }
     if (path.includes('vscode-extensions') || /\/(vscode)\//.test(path)) {
         return 'vscode-extensions-pkgs.json';
-    }
-    if (path.includes('/lib/') || path.includes('lib-compatibility')) {
+    }    if (path.includes('/agents/') || path.includes('agents-compatibility') || path.includes('mcp')) {
+        return 'agents-pkgs.json';
+    }    if (path.includes('/lib/') || path.includes('lib-compatibility')) {
         return 'lib-pkgs.json';
     }
     if (path.includes('/mobile/') || path.includes('mobile-os-compatibility')) {

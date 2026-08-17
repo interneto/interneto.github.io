@@ -1,0 +1,1156 @@
+{
+  "agents": {
+    "mcp-filesystem": {
+      "name": "Filesystem MCP",
+      "type": "MCP Server",
+      "category": "Core",
+      "description": "filesystem stdio server via npx",
+      "agent_compat": {
+        "claude": true,
+        "codex": false
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "npx -y @modelcontextprotocol/server-filesystem ."
+        }
+      ],
+      "url": ""
+    },
+    "mcp-github": {
+      "name": "Github MCP",
+      "type": "MCP Server",
+      "category": "Development",
+      "description": "https://api.githubcopilot.com/mcp/",
+      "agent_compat": {
+        "claude": true,
+        "codex": true
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude mcp add --transport http github https://api.githubcopilot.com/mcp/"
+        }
+      ],
+      "url": "https://api.githubcopilot.com/mcp/"
+    },
+    "mcp-raindrop": {
+      "name": "Raindrop MCP",
+      "type": "MCP Server",
+      "category": "Bookmarks",
+      "description": "https://api.raindrop.io/rest/v2/ai/mcp",
+      "agent_compat": {
+        "claude": true,
+        "codex": true
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude mcp add --transport http raindrop https://api.raindrop.io/rest/v2/ai/mcp"
+        }
+      ],
+      "url": "https://api.raindrop.io/rest/v2/ai/mcp"
+    },
+    "mcp-hyperframes": {
+      "name": "Hyperframes MCP",
+      "type": "MCP Server",
+      "category": "Creative",
+      "description": "https://hyperframes.heygen.com",
+      "agent_compat": {
+        "claude": true,
+        "codex": true
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude mcp add --transport http hyperframes https://hyperframes.heygen.com"
+        }
+      ],
+      "url": "https://hyperframes.heygen.com"
+    },
+    "mcp-dashboard-icons": {
+      "name": "Dashboard icons MCP",
+      "type": "MCP Server",
+      "category": "Design",
+      "description": "dashboard-icons stdio server via npx",
+      "agent_compat": {
+        "claude": true,
+        "codex": false
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "npx -y mcp-remote https://dashboardicons.com/api/mcp"
+        }
+      ],
+      "url": ""
+    },
+    "pkg-ableton-mcp": {
+      "name": "ableton-mcp",
+      "type": "Plugin/Skill",
+      "category": "DAW/Music",
+      "description": "ahujasid/ableton-mcp — control Ableton Live (tracks, clips, MIDI, devices) from Claude via a stdio server (uvx). Needs uv installed first, then a one-time manual step: copy AbletonMCP_Remote_Script/__",
+      "agent_compat": {
+        "claude": true,
+        "codex": false
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude mcp add -s user ableton -- uvx ableton-mcp"
+        }
+      ],
+      "url": ""
+    },
+    "pkg-academic-research-skills": {
+      "name": "academic-research-skills",
+      "type": "Plugin/Skill",
+      "category": "Development",
+      "description": "ARS — human-in-the-loop research/writing/peer-review pipeline for academic papers, https://github.com/Imbad0202/academic-research-skills. Codex uses the separate ars-codex sibling distribution",
+      "agent_compat": {
+        "claude": true,
+        "codex": true
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude plugin marketplace add Imbad0202/academic-research-skills && claude plugin install academic-research-skills@academic-research-skills --scope user"
+        },
+        {
+          "agent": "codex",
+          "cmd": "codex plugin marketplace add Imbad0202/academic-research-skills-codex --ref main && codex plugin add ars-codex@ars-codex"
+        }
+      ],
+      "url": ""
+    },
+    "pkg-adobe-creativity": {
+      "name": "adobe-creativity",
+      "type": "MCP Server",
+      "category": "Creative",
+      "description": "official Adobe-built remote MCP connector (Adobe + Anthropic) — 50+ tools across Photoshop, Lightroom, Illustrator, Firefly, Premiere, Express, InDesign, Adobe Stock. Hosted HTTP server, OAuth on firs",
+      "agent_compat": {
+        "claude": true,
+        "codex": false
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude mcp add -s user --transport http adobe-creativity https://adobe-creativity.adobe.io/mcp"
+        }
+      ],
+      "url": ""
+    },
+    "pkg-affinity": {
+      "name": "affinity",
+      "type": "Plugin/Skill",
+      "category": "MCP",
+      "description": "Official Affinity (Canva) AI Connector for Claude — launched April 2026, free during beta. Account-specific, no static public endpoint: log into your Affinity account (app or affinity.studio) → Integr",
+      "agent_compat": {
+        "claude": true,
+        "codex": false
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude mcp add --transport http affinity \"$AFFINITY_MCP_URL\""
+        }
+      ],
+      "url": ""
+    },
+    "pkg-agent-skills": {
+      "name": "agent-skills",
+      "type": "Plugin/Skill",
+      "category": "Development",
+      "description": "Addy Osmani's 24 production-grade SDLC skills, spec through ship — https://github.com/addyosmani/agent-skills",
+      "agent_compat": {
+        "claude": true,
+        "codex": true
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude plugin marketplace add addyosmani/agent-skills && claude plugin install agent-skills@addy-agent-skills --scope user"
+        },
+        {
+          "agent": "codex",
+          "cmd": "npx skills add addyosmani/agent-skills -a codex"
+        }
+      ],
+      "url": ""
+    },
+    "pkg-ast-grep": {
+      "name": "ast-grep",
+      "type": "Plugin/Skill",
+      "category": "Development",
+      "description": "structural code search/rewrite CLI — installs the ast-grep binary itself; any agent with shell access can call it directly, no MCP/plugin registration needed",
+      "agent_compat": {
+        "claude": true,
+        "codex": true
+      },
+      "installs": [
+        {
+          "agent": "",
+          "cmd": "npm install -g @ast-grep/cli"
+        }
+      ],
+      "url": ""
+    },
+    "pkg-blender-mcp": {
+      "name": "blender-mcp",
+      "type": "Plugin/Skill",
+      "category": "Creative",
+      "description": "ahujasid/blender-mcp — control Blender (3D modeling, scene manipulation) from Claude via a stdio server (uvx). Needs uv installed first, then a one-time manual step: install the repo's addon.py in Ble",
+      "agent_compat": {
+        "claude": true,
+        "codex": false
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude mcp add -s user blender -- uvx blender-mcp"
+        }
+      ],
+      "url": ""
+    },
+    "pkg-brand-voice": {
+      "name": "brand-voice",
+      "type": "Plugin/Skill",
+      "category": "Marketing",
+      "description": "Tribe AI plugin — discover brand voice and validate AI-generated content against it — knowledge-work-plugins marketplace, needs the knowledge-work-plugins entry installed first",
+      "agent_compat": {
+        "claude": true,
+        "codex": false
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude plugin install brand-voice@knowledge-work-plugins --scope user"
+        }
+      ],
+      "url": ""
+    },
+    "pkg-build-web-apps": {
+      "name": "build-web-apps",
+      "type": "Plugin/Skill",
+      "category": "Plugin/Agent",
+      "description": "",
+      "agent_compat": {
+        "claude": false,
+        "codex": true
+      },
+      "installs": [
+        {
+          "agent": "codex",
+          "cmd": "npx codex-marketplace add openai/plugins/plugins/build-web-apps --plugin"
+        }
+      ],
+      "url": ""
+    },
+    "pkg-canva": {
+      "name": "canva",
+      "type": "Plugin/Skill",
+      "category": "Services",
+      "description": "",
+      "agent_compat": {
+        "claude": false,
+        "codex": true
+      },
+      "installs": [
+        {
+          "agent": "codex",
+          "cmd": "npx codex-marketplace add openai/plugins/plugins/canva --plugin"
+        }
+      ],
+      "url": ""
+    },
+    "pkg-caveman": {
+      "name": "caveman",
+      "type": "Plugin/Skill",
+      "category": "Plugin/Agent",
+      "description": "",
+      "agent_compat": {
+        "claude": true,
+        "codex": true
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude plugin marketplace add JuliusBrussee/caveman && claude plugin install caveman@caveman --scope user"
+        },
+        {
+          "agent": "codex",
+          "cmd": "npx skills add JuliusBrussee/caveman -a codex"
+        }
+      ],
+      "url": ""
+    },
+    "pkg-claude-md-management": {
+      "name": "claude-md-management",
+      "type": "Plugin/Skill",
+      "category": "Plugin/Agent",
+      "description": "audits CLAUDE.md quality, captures session learnings back into it — on-theme for this repo since .ai/skills/core/*.md is this project's own CLAUDE.md source",
+      "agent_compat": {
+        "claude": true,
+        "codex": false
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude plugin install claude-md-management@claude-plugins-official --scope user"
+        }
+      ],
+      "url": ""
+    },
+    "pkg-claude-plugins-official": {
+      "name": "claude-plugins-official",
+      "type": "Plugin/Skill",
+      "category": "Plugin/Agent",
+      "description": "",
+      "agent_compat": {
+        "claude": true,
+        "codex": false
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude plugin marketplace add anthropics/claude-plugins-official"
+        }
+      ],
+      "url": ""
+    },
+    "pkg-cloudflare": {
+      "name": "cloudflare",
+      "type": "MCP Server",
+      "category": "Cloud/DevOps",
+      "description": "official Cloudflare remote MCP — inspect/manage Cloudflare resources (Workers, DNS, KV, etc), plan infra changes. Hosted HTTP server, OAuth on first connect, no API key — https://developers.cloudflare",
+      "agent_compat": {
+        "claude": true,
+        "codex": true
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude mcp add -s user --transport http cloudflare https://mcp.cloudflare.com/mcp"
+        },
+        {
+          "agent": "codex",
+          "cmd": "npx codex-marketplace add openai/plugins/plugins/cloudflare --plugin"
+        }
+      ],
+      "url": ""
+    },
+    "pkg-code-simplifier": {
+      "name": "code-simplifier",
+      "type": "Plugin/Skill",
+      "category": "Development",
+      "description": "",
+      "agent_compat": {
+        "claude": true,
+        "codex": false
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude plugin install code-simplifier@claude-plugins-official --scope user"
+        }
+      ],
+      "url": ""
+    },
+    "pkg-codebase-memory-mcp": {
+      "name": "codebase-memory-mcp",
+      "type": "MCP Server",
+      "category": "Development",
+      "description": "installs its own MCP server + Claude Code hooks — see https://github.com/DeusData/codebase-memory-mcp",
+      "agent_compat": {
+        "claude": true,
+        "codex": false
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "powershell -NoProfile -ExecutionPolicy Bypass -Command irm https://raw.githubusercontent.com/DeusData/codebase-memory-mcp/main/install.ps1 | iex"
+        }
+      ],
+      "url": ""
+    },
+    "pkg-codex": {
+      "name": "codex",
+      "type": "Plugin/Skill",
+      "category": "Development",
+      "description": "",
+      "agent_compat": {
+        "claude": true,
+        "codex": false
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude plugin marketplace add openai/codex-plugin-cc && claude plugin install codex@openai-codex --scope user"
+        }
+      ],
+      "url": ""
+    },
+    "pkg-comfyui-mcp": {
+      "name": "comfyui-mcp",
+      "type": "MCP Server",
+      "category": "Development",
+      "description": "artokun/comfyui-mcp — MCP server + Claude Code plugin for ComfyUI: image generation, workflow visualization/authoring, model management, 37 tools/38 skills. Needs ComfyUI running locally (or reachable",
+      "agent_compat": {
+        "claude": true,
+        "codex": true
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude plugin marketplace add artokun/comfyui-mcp && claude plugin install comfy@comfyui-mcp --scope user"
+        },
+        {
+          "agent": "codex",
+          "cmd": "codex mcp add comfyui -- npx -y comfyui-mcp"
+        }
+      ],
+      "url": ""
+    },
+    "pkg-composio": {
+      "name": "composio",
+      "type": "Plugin/Skill",
+      "category": "Productivity",
+      "description": "one MCP endpoint proxying 20,000+ tools across 1000+ SaaS apps (GitHub, Slack, Notion, etc.), loaded just-in-time so the catalog doesn't blow context — https://composio.dev. No static public URL: need",
+      "agent_compat": {
+        "claude": true,
+        "codex": false
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude mcp add --transport http composio \"$COMPOSIO_MCP_URL\" --headers \"X-API-Key:$COMPOSIO_API_KEY\""
+        }
+      ],
+      "url": ""
+    },
+    "pkg-context7": {
+      "name": "context7",
+      "type": "MCP Server",
+      "category": "Development",
+      "description": "docs MCP server — Claude gets the official marketplace plugin, Codex gets a direct mcp add, ctx7 setup covers Cursor/opencode/VS Code/30+ other clients",
+      "agent_compat": {
+        "claude": true,
+        "codex": true
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude plugin install context7@claude-plugins-official --scope user"
+        },
+        {
+          "agent": "codex",
+          "cmd": "codex mcp add context7 -- npx -y @upstash/context7-mcp"
+        },
+        {
+          "agent": "",
+          "cmd": "npx ctx7 setup"
+        }
+      ],
+      "url": ""
+    },
+    "pkg-daw-mcp": {
+      "name": "daw-mcp",
+      "type": "Plugin/Skill",
+      "category": "DAW/Music",
+      "description": "Bitwig/Ableton MIDI clip bridge — https://github.com/ptaczek/daw-mcp. Clone/build to ~/.local/daw-mcp first (npm install && npm run build in mcp-server/) and install the Bitwig/Ableton extension per i",
+      "agent_compat": {
+        "claude": true,
+        "codex": false
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude mcp add daw --scope user -- node %USERPROFILE%\\.local\\daw-mcp\\mcp-server\\dist\\mcp-server.js"
+        }
+      ],
+      "url": ""
+    },
+    "pkg-design": {
+      "name": "design",
+      "type": "Plugin/Skill",
+      "category": "Creative",
+      "description": "Anthropic-built plugin — critique, design systems, UX writing, accessibility audits — knowledge-work-plugins marketplace, needs the knowledge-work-plugins entry installed first",
+      "agent_compat": {
+        "claude": true,
+        "codex": false
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude plugin install design@knowledge-work-plugins --scope user"
+        }
+      ],
+      "url": ""
+    },
+    "pkg-diagram-design": {
+      "name": "diagram-design",
+      "type": "Plugin/Skill",
+      "category": "Creative",
+      "description": "cathrynlavery/diagram-design — 27 editorial-quality technical/product diagram types, rendered standalone HTML with inline SVG, skinnable to brand colors/fonts. Progressive disclosure (reference files ",
+      "agent_compat": {
+        "claude": true,
+        "codex": true
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude plugin marketplace add cathrynlavery/diagram-design && claude plugin install diagram-design@diagram-design --scope user"
+        },
+        {
+          "agent": "codex",
+          "cmd": "npx skills add https://github.com/cathrynlavery/diagram-design -a codex"
+        }
+      ],
+      "url": ""
+    },
+    "pkg-elevenlabs": {
+      "name": "elevenlabs",
+      "type": "Plugin/Skill",
+      "category": "Development",
+      "description": "official ElevenLabs MCP — text-to-speech, voice cloning, speech-to-text, sound effects. Local stdio server via uvx, needs ELEVENLABS_API_KEY exported first (free tier: 10k credits/month, https://eleve",
+      "agent_compat": {
+        "claude": true,
+        "codex": false
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude mcp add -s user -e ELEVENLABS_API_KEY=\"$ELEVENLABS_API_KEY\" elevenlabs -- uvx elevenlabs-mcp"
+        }
+      ],
+      "url": ""
+    },
+    "pkg-exa": {
+      "name": "exa",
+      "type": "MCP Server",
+      "category": "Development",
+      "description": "official Exa remote MCP — web search, clean page fetching, and optional multi-step research. The base hosted endpoint works anonymously with rate limits; Claude's official plugin includes Exa skills a",
+      "agent_compat": {
+        "claude": true,
+        "codex": true
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude plugin install exa@claude-plugins-official --scope user"
+        },
+        {
+          "agent": "codex",
+          "cmd": "codex mcp add exa --url https://mcp.exa.ai/mcp"
+        }
+      ],
+      "url": ""
+    },
+    "pkg-filesystem-mcp": {
+      "name": "filesystem-mcp",
+      "type": "Plugin/Skill",
+      "category": "Development",
+      "description": "official Model Context Protocol filesystem server, maintained by the MCP project. It is scoped to the supplied current working directory, so it cannot access arbitrary paths. Windows launches it throu",
+      "agent_compat": {
+        "claude": true,
+        "codex": true
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude mcp add -s user filesystem -- cmd /c npx -y @modelcontextprotocol/server-filesystem ."
+        },
+        {
+          "agent": "codex",
+          "cmd": "codex mcp add filesystem -- npx -y @modelcontextprotocol/server-filesystem ."
+        }
+      ],
+      "url": ""
+    },
+    "pkg-engineering": {
+      "name": "engineering",
+      "type": "Plugin/Skill",
+      "category": "Development",
+      "description": "Anthropic-built plugin — standups, code review, architecture decisions, incident response — knowledge-work-plugins marketplace, needs the knowledge-work-plugins entry installed first",
+      "agent_compat": {
+        "claude": true,
+        "codex": false
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude plugin install engineering@knowledge-work-plugins --scope user"
+        }
+      ],
+      "url": ""
+    },
+    "pkg-figma": {
+      "name": "figma",
+      "type": "Plugin/Skill",
+      "category": "Creative",
+      "description": "Figma-built plugin — design file access, extract components, design-to-code — knowledge-work-plugins marketplace, needs the knowledge-work-plugins entry installed first",
+      "agent_compat": {
+        "claude": true,
+        "codex": false
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude plugin install figma@knowledge-work-plugins --scope user"
+        }
+      ],
+      "url": ""
+    },
+    "pkg-firecrawl-cli": {
+      "name": "firecrawl-cli",
+      "type": "Plugin/Skill",
+      "category": "Plugin/Agent",
+      "description": "init --all --browser",
+      "agent_compat": {
+        "claude": true,
+        "codex": true
+      },
+      "installs": [
+        {
+          "agent": "",
+          "cmd": "npx -y firecrawl-cli@latest init --all --browser"
+        }
+      ],
+      "url": ""
+    },
+    "pkg-firecrawl-mcp": {
+      "name": "firecrawl-mcp",
+      "type": "Plugin/Skill",
+      "category": "Development",
+      "description": "official Firecrawl MCP — web scraping, crawling, search, site mapping for agents. Local stdio server via npx, needs FIRECRAWL_API_KEY exported first (https://www.firecrawl.dev/app/api-keys) — https://",
+      "agent_compat": {
+        "claude": true,
+        "codex": false
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude mcp add -s user -e FIRECRAWL_API_KEY=\"$FIRECRAWL_API_KEY\" firecrawl -- npx -y firecrawl-mcp"
+        }
+      ],
+      "url": ""
+    },
+    "pkg-fl-studio-mcp": {
+      "name": "fl-studio-mcp",
+      "type": "Plugin/Skill",
+      "category": "DAW/Music",
+      "description": "karl-andres/fl-studio-mcp — control FL Studio (transport, mixer, channels, plugins, piano roll) from Claude via a loopMIDI bridge and an FL Studio controller script. Needs loopMIDI installed manually ",
+      "agent_compat": {
+        "claude": true,
+        "codex": false
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "if not exist \"%USERPROFILE%\\.local\\fl-studio-mcp\" git clone https://github.com/karl-andres/fl-studio-mcp.git \"%USERPROFILE%\\.local\\fl-studio-mcp\" && cd /d \"%USERPROFILE%\\.local\\fl-studio-mcp\" && uv sync --python 3.12 && if not exist \"%USERPROFILE%\\Documents\\Image-Line\\FL Studio\\Settings\\Hardware\\FLS"
+        }
+      ],
+      "url": ""
+    },
+    "pkg-frontend-design": {
+      "name": "frontend-design",
+      "type": "Plugin/Skill",
+      "category": "Creative",
+      "description": "",
+      "agent_compat": {
+        "claude": true,
+        "codex": false
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude plugin install frontend-design@claude-plugins-official --scope user"
+        }
+      ],
+      "url": ""
+    },
+    "pkg-github-mcp-server": {
+      "name": "github-mcp-server",
+      "type": "MCP Server",
+      "category": "Development",
+      "description": "official GitHub MCP server (github/github-mcp-server), remote-hosted at api.githubcopilot.com — first use needs OAuth or a GitHub PAT. This is the machine-wide Claude plugin install; this project's ow",
+      "agent_compat": {
+        "claude": true,
+        "codex": true
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude plugin install github@claude-plugins-official --scope user"
+        },
+        {
+          "agent": "codex",
+          "cmd": "codex mcp add github --url https://api.githubcopilot.com/mcp/ --bearer-token-env-var GITHUB_PAT_TOKEN"
+        }
+      ],
+      "url": ""
+    },
+    "pkg-grafana": {
+      "name": "grafana",
+      "type": "Plugin/Skill",
+      "category": "Cloud/DevOps",
+      "description": "official Grafana MCP (grafana/mcp-grafana) — query dashboards/metrics/logs/alerts, work with Incident and Sift. Local stdio server, needs the mcp-grafana binary on PATH first (`go install github.com/g",
+      "agent_compat": {
+        "claude": true,
+        "codex": false
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude mcp add -s user -e GRAFANA_URL=\"$GRAFANA_URL\" -e GRAFANA_SERVICE_ACCOUNT_TOKEN=\"$GRAFANA_SERVICE_ACCOUNT_TOKEN\" grafana -- mcp-grafana"
+        }
+      ],
+      "url": ""
+    },
+    "pkg-higgsfield-ai-skills": {
+      "name": "higgsfield-ai/skills",
+      "type": "Plugin/Skill",
+      "category": "Plugin/Agent",
+      "description": "",
+      "agent_compat": {
+        "claude": false,
+        "codex": true
+      },
+      "installs": [
+        {
+          "agent": "codex",
+          "cmd": "npx codex-marketplace add higgsfield-ai/skills --plugin"
+        }
+      ],
+      "url": ""
+    },
+    "pkg-hookify": {
+      "name": "hookify",
+      "type": "Plugin/Skill",
+      "category": "Development",
+      "description": "define Claude Code hooks from plain markdown rules instead of hand-writing shell/JS hook scripts",
+      "agent_compat": {
+        "claude": true,
+        "codex": false
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude plugin install hookify@claude-plugins-official --scope user"
+        }
+      ],
+      "url": ""
+    },
+    "pkg-hyperframes": {
+      "name": "hyperframes",
+      "type": "Plugin/Skill",
+      "category": "Development",
+      "description": "HeyGen HyperFrames — write HTML, render video (compositions, GSAP/runtime animations, captions, voiceovers, website-to-video) — https://hyperframes.heygen.com, https://github.com/heygen-com/hyperframe",
+      "agent_compat": {
+        "claude": true,
+        "codex": false
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude plugin install hyperframes@claude-plugins-official --scope user"
+        }
+      ],
+      "url": ""
+    },
+    "pkg-knowledge-work-plugins": {
+      "name": "knowledge-work-plugins",
+      "type": "Plugin/Skill",
+      "category": "Creative",
+      "description": "Anthropic's open-source knowledge-worker plugin marketplace — bundles skills/connectors/commands per job function — https://github.com/anthropics/knowledge-work-plugins. Add this before installing any",
+      "agent_compat": {
+        "claude": true,
+        "codex": false
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude plugin marketplace add anthropics/knowledge-work-plugins"
+        }
+      ],
+      "url": ""
+    },
+    "pkg-kubernetes": {
+      "name": "kubernetes",
+      "type": "Plugin/Skill",
+      "category": "Cloud/DevOps",
+      "description": "containers/kubernetes-mcp-server — native Kubernetes/OpenShift MCP. Uses the active kubeconfig; configured read-only to prevent mutating cluster resources. Requires cluster credentials — https://githu",
+      "agent_compat": {
+        "claude": true,
+        "codex": true
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude mcp add -s user kubernetes -- npx -y kubernetes-mcp-server@latest --read-only"
+        },
+        {
+          "agent": "codex",
+          "cmd": "codex mcp add kubernetes -- npx -y kubernetes-mcp-server@latest --read-only"
+        }
+      ],
+      "url": ""
+    },
+    "pkg-magnific": {
+      "name": "magnific",
+      "type": "Plugin/Skill",
+      "category": "MCP",
+      "description": "official Magnific MCP — image/video generation and upscaling; OAuth sign-in, no API key; remote streamable-HTTP server at mcp.magnific.com — https://www.magnific.com/mcp",
+      "agent_compat": {
+        "claude": true,
+        "codex": true
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude mcp add --transport http magnific https://mcp.magnific.com"
+        },
+        {
+          "agent": "codex",
+          "cmd": "codex mcp add magnific --url https://mcp.magnific.com"
+        }
+      ],
+      "url": ""
+    },
+    "pkg-marketing": {
+      "name": "marketing",
+      "type": "Plugin/Skill",
+      "category": "Marketing",
+      "description": "Anthropic-built plugin — create content, plan campaigns, analyze performance, maintain brand voice consistency — knowledge-work-plugins marketplace, needs the knowledge-work-plugins entry installed fi",
+      "agent_compat": {
+        "claude": true,
+        "codex": false
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude plugin install marketing@knowledge-work-plugins --scope user"
+        }
+      ],
+      "url": ""
+    },
+    "pkg-notion": {
+      "name": "notion",
+      "type": "MCP Server",
+      "category": "Productivity",
+      "description": "official Notion-hosted remote MCP — search, read, write pages/databases across your workspace; OAuth sign-in, no API key. 18 tools — https://developers.notion.com/docs/mcp",
+      "agent_compat": {
+        "claude": true,
+        "codex": false
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude mcp add -s user --transport http notion https://mcp.notion.com/mcp"
+        }
+      ],
+      "url": ""
+    },
+    "pkg-obsidian": {
+      "name": "obsidian",
+      "type": "Plugin/Skill",
+      "category": "Productivity",
+      "description": "",
+      "agent_compat": {
+        "claude": true,
+        "codex": false
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude plugin marketplace add kepano/obsidian-skills && claude plugin install obsidian@obsidian-skills --scope user"
+        }
+      ],
+      "url": ""
+    },
+    "pkg-pdf-viewer": {
+      "name": "pdf-viewer",
+      "type": "Plugin/Skill",
+      "category": "Research",
+      "description": "Anthropic-built plugin — view, annotate, and sign PDFs in an interactive viewer — knowledge-work-plugins marketplace, needs the knowledge-work-plugins entry installed first",
+      "agent_compat": {
+        "claude": true,
+        "codex": false
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude plugin install pdf-viewer@knowledge-work-plugins --scope user"
+        }
+      ],
+      "url": ""
+    },
+    "pkg-php-lsp": {
+      "name": "php-lsp",
+      "type": "Plugin/Skill",
+      "category": "Development",
+      "description": "Intelephense code intelligence for PHP — Claude Code LSP plugin only",
+      "agent_compat": {
+        "claude": true,
+        "codex": false
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "npm install -g intelephense && claude plugin install php-lsp@claude-plugins-official --scope user"
+        }
+      ],
+      "url": ""
+    },
+    "pkg-playwright": {
+      "name": "playwright",
+      "type": "MCP Server",
+      "category": "MCP",
+      "description": "Microsoft's browser automation / E2E testing MCP server",
+      "agent_compat": {
+        "claude": true,
+        "codex": true
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude plugin install playwright@claude-plugins-official --scope user && node cli/playwright-chromium-fallback.js"
+        },
+        {
+          "agent": "codex",
+          "cmd": "codex mcp add playwright -- npx -y @playwright/mcp@latest"
+        }
+      ],
+      "url": ""
+    },
+    "pkg-ponytail": {
+      "name": "ponytail",
+      "type": "Plugin/Skill",
+      "category": "Plugin/Agent",
+      "description": "",
+      "agent_compat": {
+        "claude": true,
+        "codex": true
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude plugin marketplace add DietrichGebert/ponytail && claude plugin install ponytail@ponytail --scope user"
+        },
+        {
+          "agent": "codex",
+          "cmd": "codex plugin marketplace add DietrichGebert/ponytail codex"
+        }
+      ],
+      "url": ""
+    },
+    "pkg-postiz": {
+      "name": "postiz",
+      "type": "Plugin/Skill",
+      "category": "Marketing",
+      "description": "social media automation across 28+ platforms — knowledge-work-plugins marketplace, needs the knowledge-work-plugins entry installed first",
+      "agent_compat": {
+        "claude": true,
+        "codex": false
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude plugin install postiz@knowledge-work-plugins --scope user"
+        }
+      ],
+      "url": ""
+    },
+    "pkg-productivity": {
+      "name": "productivity",
+      "type": "Plugin/Skill",
+      "category": "Productivity",
+      "description": "Anthropic-built plugin — manage tasks, plan your day, build memory of work context; syncs with calendar, email, chat — knowledge-work-plugins marketplace, needs the knowledge-work-plugins entry instal",
+      "agent_compat": {
+        "claude": true,
+        "codex": false
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude plugin install productivity@knowledge-work-plugins --scope user"
+        }
+      ],
+      "url": ""
+    },
+    "pkg-pyright-lsp": {
+      "name": "pyright-lsp",
+      "type": "Plugin/Skill",
+      "category": "Development",
+      "description": "Pyright code intelligence + type checking for Python — Claude Code LSP plugin only",
+      "agent_compat": {
+        "claude": true,
+        "codex": false
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "npm install -g pyright && claude plugin install pyright-lsp@claude-plugins-official --scope user"
+        }
+      ],
+      "url": ""
+    },
+    "pkg-reaper-mcp": {
+      "name": "reaper-mcp",
+      "type": "Plugin/Skill",
+      "category": "DAW/Music",
+      "description": "bonfire-systems/reaper-mcp — control REAPER (create/mix/master tracks, MIDI + audio) from Claude via python-reapy. Needs a one-time manual step in REAPER first: Actions > Run ReaScript > scripts/enabl",
+      "agent_compat": {
+        "claude": true,
+        "codex": false
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "pip install reaper-mcp-server && claude mcp add -s user reaper -- reaper-mcp-server"
+        }
+      ],
+      "url": ""
+    },
+    "pkg-serena": {
+      "name": "serena",
+      "type": "Plugin/Skill",
+      "category": "Development",
+      "description": "oraios/serena — semantic code navigation and editing MCP that uses language-server tooling for precise, symbol-aware changes. Local stdio server via uvx; first use initializes its project index — http",
+      "agent_compat": {
+        "claude": true,
+        "codex": false
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude mcp add -s user serena -- uvx --from git+https://github.com/oraios/serena serena-mcp-server"
+        }
+      ],
+      "url": ""
+    },
+    "pkg-runnet": {
+      "name": "runnet",
+      "type": "MCP Server",
+      "category": "MCP",
+      "description": "RuView Sensing Bridge (SENSE-BRIDGE) MCP server, registered as 'rvagent' — https://www.npmjs.com/package/@ruvnet/rvagent",
+      "agent_compat": {
+        "claude": true,
+        "codex": false
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude mcp add rvagent -- npx @ruvnet/rvagent stdio"
+        }
+      ],
+      "url": ""
+    },
+    "pkg-ruview": {
+      "name": "ruview",
+      "type": "MCP Server",
+      "category": "MCP",
+      "description": "Ruflo Engine MCP server, registered as 'ruflo' — https://www.npmjs.com/package/ruflo",
+      "agent_compat": {
+        "claude": true,
+        "codex": false
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude mcp add ruflo -- npx ruflo@latest mcp start"
+        }
+      ],
+      "url": ""
+    },
+    "pkg-suno": {
+      "name": "suno",
+      "type": "Plugin/Skill",
+      "category": "Development",
+      "description": "AceDataCloud/SunoMCP — Suno AI music generation, lyrics, cover workflows. Unofficial: Suno has no public API, this is a hosted reseller bridge (no local install), remote HTTP server at suno.mcp.acedat",
+      "agent_compat": {
+        "claude": true,
+        "codex": false
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude mcp add -s user --transport http suno https://suno.mcp.acedata.cloud/mcp"
+        }
+      ],
+      "url": ""
+    },
+    "pkg-sentry": {
+      "name": "sentry",
+      "type": "MCP Server",
+      "category": "Cloud/DevOps",
+      "description": "official Sentry remote MCP — investigate production errors, issues, traces, and release health. Hosted HTTP server; OAuth sign-in on first connection — https://docs.sentry.io/product/sentry-mcp/",
+      "agent_compat": {
+        "claude": true,
+        "codex": false
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude mcp add -s user --transport http sentry https://mcp.sentry.dev/mcp"
+        }
+      ],
+      "url": ""
+    },
+    "pkg-superpowers": {
+      "name": "superpowers",
+      "type": "Plugin/Skill",
+      "category": "Plugin/Agent",
+      "description": "",
+      "agent_compat": {
+        "claude": true,
+        "codex": false
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude plugin install superpowers@claude-plugins-official --scope user"
+        }
+      ],
+      "url": ""
+    },
+    "pkg-supabase": {
+      "name": "supabase",
+      "type": "MCP Server",
+      "category": "Cloud/DevOps",
+      "description": "official Supabase remote MCP — manage projects, query data, and work with database configuration. Hosted HTTP server with OAuth; review Supabase's MCP security guidance before authorizing production p",
+      "agent_compat": {
+        "claude": true,
+        "codex": true
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude mcp add -s user --transport http supabase https://mcp.supabase.com/mcp"
+        },
+        {
+          "agent": "codex",
+          "cmd": "codex mcp add supabase --url https://mcp.supabase.com/mcp"
+        }
+      ],
+      "url": ""
+    },
+    "pkg-typescript-lsp": {
+      "name": "typescript-lsp",
+      "type": "Plugin/Skill",
+      "category": "Development",
+      "description": "typescript-language-server code intelligence — Claude Code LSP plugin only; VS Code-based tools (Cursor, Windsurf, Copilot) already bundle a TS language service, no separate install needed there",
+      "agent_compat": {
+        "claude": true,
+        "codex": false
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "npm install -g typescript-language-server typescript && claude plugin install typescript-lsp@claude-plugins-official --scope user"
+        }
+      ],
+      "url": ""
+    }
+  }
+}

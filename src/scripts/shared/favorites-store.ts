@@ -3,7 +3,7 @@
 
 import { PATHS } from './paths';
 
-export type FavCategory = 'desktop' | 'mobile' | 'browserExtensions' | 'vscodeExtensions';
+export type FavCategory = 'desktop' | 'mobile' | 'browserExtensions' | 'vscodeExtensions' | 'agents';
 
 interface FavoritesFile {
     desktop: string[];
@@ -20,8 +20,9 @@ export function resolveFavCategoryFromPath(pathname: string): FavCategory {
     }
     if (path.includes('vscode-extensions') || /\/(vscode)\//.test(path)) {
         return 'vscodeExtensions';
-    }
-    if (path.includes('/mobile/') || path.includes('mobile-os-compatibility')) {
+    }    if (path.includes('/agents/') || path.includes('agents-compatibility')) {
+        return 'agents';
+    }    if (path.includes('/mobile/') || path.includes('mobile-os-compatibility')) {
         return 'mobile';
     }
     return 'desktop';

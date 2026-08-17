@@ -1,0 +1,63 @@
+---
+import CompatibilityTablePage from '../../components/CompatibilityTablePage.astro';
+---
+<CompatibilityTablePage
+  title="AI Agents Compatibility"
+  heading="🤖 AI Agents Compatibility"
+  subtitle="Which MCP servers, plugins, and skills work with each AI coding agent."
+  installerHref="agents"
+  installerLabel="Go to Installer"
+  searchPlaceholder="Search tool name, type, or category"
+  pageNote="Claude Code, Codex CLI, and other agents use different plugin/MCP registration methods."
+>
+  <div slot="controls" class="page-filter-row filter-chips" role="group" aria-label="Filter by type">
+    <button type="button" class="filter-chip active" data-os="all" aria-pressed="true">All</button>
+    <button type="button" class="filter-chip" data-os="mcp" aria-pressed="false">MCP Servers</button>
+    <button type="button" class="filter-chip" data-os="plugin" aria-pressed="false">Plugins / Skills</button>
+    <button type="button" class="filter-chip" data-os="claude" aria-pressed="false">Claude Code</button>
+    <button type="button" class="filter-chip" data-os="codex" aria-pressed="false">Codex CLI</button>
+  </div>
+
+  <div slot="legend" class="legend" aria-label="Compatibility legend">
+    <div class="legend-item"><span class="legend-icon">✅</span> Compatible</div>
+    <div class="legend-item"><span class="legend-icon">❌</span> Not compatible</div>
+  </div>
+
+  <div class="table-container">
+    <table id="packagesTable">
+      <thead>
+        <tr>
+          <th class="sortable sticky-col category-col" data-column="category" tabindex="0" role="button" aria-sort="none">
+            Category
+            <span class="sort-arrows">
+              <span class="sort-arrow up" data-column="category" data-direction="asc"></span>
+              <span class="sort-arrow down" data-column="category" data-direction="desc"></span>
+            </span>
+          </th>
+          <th class="sortable sticky-col app-col" data-column="name" tabindex="0" role="button" aria-sort="none">
+            Tool
+            <span class="sort-arrows">
+              <span class="sort-arrow up" data-column="name" data-direction="asc"></span>
+              <span class="sort-arrow down" data-column="name" data-direction="desc"></span>
+            </span>
+          </th>
+          <th class="os-column">Type</th>
+          <th class="os-column">Claude</th>
+          <th class="os-column">Codex</th>
+        </tr>
+      </thead>
+      <tbody id="tableBody"></tbody>
+    </table>
+  </div>
+
+  <div class="stats">
+    <div class="stat-item"><div class="stat-number" id="totalPackages">0</div><div class="stat-label">Total Tools</div></div>
+    <div class="stat-item"><div class="stat-number" id="mcpCount">0</div><div class="stat-label">MCP Servers</div></div>
+    <div class="stat-item"><div class="stat-number" id="pluginCount">0</div><div class="stat-label">Plugins / Skills</div></div>
+    <div class="stat-item"><div class="stat-number" id="claudeCount">0</div><div class="stat-label">Claude Code</div></div>
+    <div class="stat-item"><div class="stat-number" id="codexCount">0</div><div class="stat-label">Codex CLI</div></div>
+  </div>
+</CompatibilityTablePage>
+<script>
+import '../../scripts/os-compat/agents-compat.ts';
+</script>

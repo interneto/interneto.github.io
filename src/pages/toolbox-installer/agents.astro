@@ -1,0 +1,21 @@
+---
+import ToolboxInstallerSection from '../../components/ToolboxInstallerSection.astro';
+import ToolboxResultsContainer from '../../components/ToolboxResultsContainer.astro';
+const options = [
+  { value: 'loadFavorites', label: '✨ My Favorites' },
+  { value: 'importPackages', label: '📥 Import Agents (JSON)' },
+  { value: 'exportPackages', label: '📤 Export Agents (JSON)' },
+];
+---
+<ToolboxInstallerSection
+  title="AI Agents Installer"
+  heading="🤖 AI Agents Installer"
+  info="Browse MCP servers, plugins, and skills for Claude Code, Codex CLI, and other AI coding agents."
+  searchPlaceholder="Search by name, type, or category"
+  options={options}
+>
+  <ToolboxResultsContainer slot="content" id="agentsContainer" />
+</ToolboxInstallerSection>
+<script>
+import '../../scripts/toolbox-installer/agents-installer.ts';
+</script>
