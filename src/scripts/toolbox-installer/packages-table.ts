@@ -670,6 +670,25 @@ function buildChromiumExtensionUrl(chromiumId: string | undefined): string | nul
     return `https://chromewebstore.google.com/detail/${encodeURIComponent(chromiumId)}`;
 }
 
+// Direct package downloads, for sideloading instead of opening the store page
+// (e.g. Ungoogled Chromium has no Web Store; Firefox users who just want the file).
+function buildFirefoxXpiUrl(slug: string | undefined): string | null {
+    if (!slug) return null;
+    // AMO redirects this to the current version's actual .xpi file.
+    return `https://addons.mozilla.org/firefox/downloads/latest/${encodeURIComponent(slug)}/`;
+}
+
+// Chrome Web Store's CRX update endpoint, used directly instead of via the browser's
+// update mechanism. `prodversion` only needs to satisfy the extension's minimum Chrome
+// version — it doesn't need to match the visitor's real browser.
+const CRX_PRODVERSION = '120.0.0.0';
+
+function buildChromiumCrxUrl(chromiumId: string | undefined): string | null {
+    if (!chromiumId) return null;
+    const id = encodeURIComponent(chromiumId);
+    return `https://clients2.google.com/service/update2/crx?response=redirect&acceptformat=crx2,crx3&prodversion=${CRX_PRODVERSION}&x=id%3D${id}%26installsource%3Dondemand%26uc`;
+}
+
 function renderBrowserExtensionsGenerator(items: BrowserExtension[]): void {
     const container = document.getElementById('browserExtensionsCategories');
     const commandFooter = document.getElementById('commandFooter');
@@ -683,6 +702,7 @@ function renderBrowserExtensionsGenerator(items: BrowserExtension[]): void {
     // <button data-browser="..."> (current Browser Extensions page, mirroring the OS picker).
     const browserSelect = document.getElementById('browserSelect') as HTMLSelectElement | null;
     const browserButtons = Array.from(document.querySelectorAll<HTMLButtonElement>('button[data-browser]'));
+    const directDownloadToggle = document.getElementById('directDownloadToggle');
     const favsToggleBtn = document.getElementById('favsToggleBtn');
     const fossToggleBtn = document.getElementById('fossToggleBtn');
     const optionsSelect = document.getElementById('optionsSelect') as HTMLSelectElement | null;
@@ -705,6 +725,7 @@ function renderBrowserExtensionsGenerator(items: BrowserExtension[]): void {
         fossOnly: false,
         allCollapsed: false,
         browser: 'firefox',
+        directDownload: false,
     };
 
     const favoriteIds = new Set(getFavoritesFor('browserExtensions'));
@@ -838,18 +859,24 @@ function renderBrowserExtensionsGenerator(items: BrowserExtension[]): void {
             .forEach((ext) => {
                 const browser = state.browser;
                 if (browser === 'firefox' || browser === 'both') {
-                    const url = buildFirefoxAddonUrl(ext.firefox_slug);
+                    const url = state.directDownload
+                        ? buildFirefoxXpiUrl(ext.firefox_slug)
+                        : buildFirefoxAddonUrl(ext.firefox_slug);
                     if (url) lines.push(`[Firefox] ${ext.name}: ${url}`);
                 }
                 if (browser === 'chromium' || browser === 'both') {
-                    const url = buildChromiumExtensionUrl(ext.chromium_id);
+                    const url = state.directDownload
+                        ? buildChromiumCrxUrl(ext.chromium_id)
+                        : buildChromiumExtensionUrl(ext.chromium_id);
                     if (url) lines.push(`[Chromium] ${ext.name}: ${url}`);
                 }
             });
 
         commandTarget!.textContent = lines.length > 0
             ? lines.join('\n')
-            : 'No store links available for selected browser.';
+            : state.directDownload
+                ? 'No direct download available for selected browser.'
+                : 'No store links available for selected browser.';
         if (commandFooter) commandFooter.hidden = false;
     }
 
@@ -947,6 +974,14 @@ function renderBrowserExtensionsGenerator(items: BrowserExtension[]): void {
             const value = btn.dataset.browser ?? 'both';
             for (const other of browserButtons) other.classList.toggle('active', other === btn);
             setBrowser(value);
+        });
+    }
+
+    if (directDownloadToggle) {
+        directDownloadToggle.addEventListener('click', () => {
+            state.directDownload = !state.directDownload;
+            directDownloadToggle.classList.toggle('active', state.directDownload);
+            updateLinks();
         });
     }
 

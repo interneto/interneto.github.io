@@ -8,7 +8,7 @@ const options = [
 <ToolboxInstallerSection
   title="Browser Extensions Installer"
   heading="Browser Extensions Installer"
-  info="Browse curated extensions for Firefox and Chromium. Filter by browser, select what you need, and export your list."
+  info="Browse curated extensions for Firefox and Chromium. Filter by browser, select what you need, and export your list. Direct .crx/.xpi mode links straight to the package file — useful for sideloading (e.g. Ungoogled Chromium, which has no Web Store) instead of opening the store page."
   searchPlaceholder="Search by extension name"
   options={options}
   showFileInput={false}
@@ -20,6 +20,9 @@ const options = [
       <button type="button" class="os-btn active" data-browser="firefox">🦊 Firefox</button>
       <button type="button" class="os-btn" data-browser="chromium">🔵 Chromium</button>
       <button type="button" class="os-btn" data-browser="both">🔀 Both</button>
+    </div>
+    <div class="secondary-os-selector">
+      <button type="button" class="os-btn" id="directDownloadToggle" title="Link directly to the .crx/.xpi package file instead of the store page — for sideloading">📦 Direct .crx/.xpi</button>
     </div>
   </div>
 
