@@ -1,4 +1,4 @@
-// Renders the App Directory table from /pkgs/web-directory.json.
+// Renders the App Directory table from /pkgs/app-directory.json.
 // Tags describe extra surfaces a web destination ALSO has:
 //   desktop  → also ships a desktop app
 //   mobile   → also ships a mobile app
@@ -209,7 +209,7 @@ function applyFilters(entries: DirectoryEntry[]): void {
 }
 
 async function loadDirectoryData(): Promise<DirectoryEntry[]> {
-    const config = await fetchJson<DirectoryConfig>(`${BASE}pkgs/web-directory.json`);
+    const config = await fetchJson<DirectoryConfig>(`${BASE}pkgs/app-directory.json`);
     return (config.entries ?? [])
         .map((entry) => ({ ...entry, category: mapCategory(entry.category), tags: sanitizeTags(entry.tags) }))
         .sort((a, b) => a.category.localeCompare(b.category) || a.name.localeCompare(b.name));

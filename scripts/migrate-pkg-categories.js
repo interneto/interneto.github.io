@@ -57,7 +57,7 @@ const DROP = new Set(['Security', 'Productivity', 'Learning', 'Tracking', '(none
 const CATALOGS = [
   ['public/pkgs/desktop-pkgs.json', 'packages'],
   ['public/pkgs/mobile-pkgs.json', 'packages'],
-  ['public/pkgs/web-directory.json', 'entries'],
+  ['public/pkgs/app-directory.json', 'entries'],
 ]
 
 const detectIndent = (text) => {

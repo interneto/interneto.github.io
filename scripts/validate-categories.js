@@ -40,7 +40,7 @@ for (const axis of Object.values(taxonomy.extensionAxes ?? {})) {
 const CATALOGS = [
   ['public/pkgs/desktop-pkgs.json', 'packages', 'main'],
   ['public/pkgs/mobile-pkgs.json', 'packages', 'main'],
-  ['public/pkgs/web-directory.json', 'entries', 'main'],
+  ['public/pkgs/app-directory.json', 'entries', 'main'],
   ['public/pkgs/browser-extensions-pkgs.json', 'extensions', 'ext'],
   ['public/pkgs/vscode-extensions-pkgs.json', 'extensions', 'ext'],
 ]

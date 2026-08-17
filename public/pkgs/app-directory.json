@@ -44,8 +44,7 @@
             "category": "ai-tools-and-services",
             "name": "ElevenLabs",
             "icon": "elevenlabs.svg",
-            "link": "https://elevenlabs.io/app/home",
-            "tags": []
+            "link": "https://elevenlabs.io/app/home"
         },
         {
             "category": "ai-tools-and-services",
@@ -79,15 +78,13 @@
             "category": "ai-tools-and-services",
             "name": "OpenRouter",
             "icon": "openrouter.svg",
-            "link": "https://openrouter.ai/",
-            "tags": []
+            "link": "https://openrouter.ai/"
         },
         {
             "category": "ai-tools-and-services",
             "name": "Replicate Collections",
             "icon": "replicate.svg",
-            "link": "https://replicate.com/collections/",
-            "tags": []
+            "link": "https://replicate.com/collections/"
         },
         {
             "category": "social-and-communications",
@@ -123,8 +120,7 @@
             "category": "photos-and-graphics",
             "name": "3DOcean",
             "icon": "3docean.ico",
-            "link": "https://3docean.net/",
-            "tags": []
+            "link": "https://3docean.net/"
         },
         {
             "category": "photos-and-graphics",
@@ -140,15 +136,13 @@
             "category": "photos-and-graphics",
             "name": "DeviantArt",
             "icon": "deviantart.svg",
-            "link": "https://www.deviantart.com/",
-            "tags": []
+            "link": "https://www.deviantart.com/"
         },
         {
             "category": "photos-and-graphics",
             "name": "Excalidraw",
             "icon": "excalidraw.svg",
-            "link": "https://excalidraw.com/",
-            "tags": []
+            "link": "https://excalidraw.com/"
         },
         {
             "category": "photos-and-graphics",
@@ -163,22 +157,19 @@
         {
             "category": "photos-and-graphics",
             "name": "Freepik",
-            "link": "https://www.magnific.com/",
-            "tags": []
+            "link": "https://www.magnific.com/"
         },
         {
             "category": "photos-and-graphics",
             "name": "Google Stitch",
             "icon": "stitch.svg",
-            "link": "https://stitch.withgoogle.com/",
-            "tags": []
+            "link": "https://stitch.withgoogle.com/"
         },
         {
             "category": "photos-and-graphics",
             "name": "Imgur",
             "icon": "imgur.ico",
-            "link": "https://imgur.com/",
-            "tags": []
+            "link": "https://imgur.com/"
         },
         {
             "category": "photos-and-graphics",
@@ -192,35 +183,30 @@
         {
             "category": "photos-and-graphics",
             "name": "Pexels",
-            "link": "https://www.pexels.com/leaderboard/",
-            "tags": []
+            "link": "https://www.pexels.com/leaderboard/"
         },
         {
             "category": "photos-and-graphics",
             "name": "Pixabay",
-            "link": "https://pixabay.com/",
-            "tags": []
+            "link": "https://pixabay.com/"
         },
         {
             "category": "photos-and-graphics",
             "name": "Printables.com",
             "icon": "printables-com.ico",
-            "link": "https://www.printables.com/",
-            "tags": []
+            "link": "https://www.printables.com/"
         },
         {
             "category": "photos-and-graphics",
             "name": "RenderHub 3D Models",
             "icon": "renderhub-3d-models.svg",
-            "link": "https://www.renderhub.com/",
-            "tags": []
+            "link": "https://www.renderhub.com/"
         },
         {
             "category": "photos-and-graphics",
             "name": "Shutterstock",
             "icon": "shutterstock.png",
-            "link": "https://www.shutterstock.com/",
-            "tags": []
+            "link": "https://www.shutterstock.com/"
         },
         {
             "category": "photos-and-graphics",
@@ -234,103 +220,88 @@
         {
             "category": "photos-and-graphics",
             "name": "TurboSquid",
-            "link": "https://www.turbosquid.com/",
-            "tags": []
+            "link": "https://www.turbosquid.com/"
         },
         {
             "category": "photos-and-graphics",
             "name": "Unsplash",
             "icon": "unsplash.ico",
-            "link": "https://unsplash.com/",
-            "tags": []
+            "link": "https://unsplash.com/"
         },
         {
             "category": "photos-and-graphics",
             "name": "Wikimedia Commons",
             "icon": "wikimedia-commons.ico",
-            "link": "https://commons.wikimedia.org/wiki/Main_Page",
-            "tags": []
+            "link": "https://commons.wikimedia.org/wiki/Main_Page"
         },
         {
             "category": "development",
             "name": "App Store - iPhone",
             "icon": "app-store-iphone.svg",
-            "link": "https://apps.apple.com/us/iphone/today",
-            "tags": []
+            "link": "https://apps.apple.com/us/iphone/today"
         },
         {
             "category": "development",
             "name": "AppGallery - Huawei",
             "icon": "appgallery-huawei.png",
-            "link": "https://appgallery.huawei.com/Featured",
-            "tags": []
+            "link": "https://appgallery.huawei.com/Featured"
         },
         {
             "category": "development",
             "name": "AppimageHub",
             "icon": "appimagehub.ico",
-            "link": "https://www.appimagehub.com/browse",
-            "tags": []
+            "link": "https://www.appimagehub.com/browse"
         },
         {
             "category": "development",
             "name": "Aptoide",
-            "link": "https://en.aptoide.com/",
-            "tags": []
+            "link": "https://en.aptoide.com/"
         },
         {
             "category": "development",
             "name": "Arch Linux Packages",
             "icon": "arch-linux-packages.png",
-            "link": "https://archlinux.org/packages/",
-            "tags": []
+            "link": "https://archlinux.org/packages/"
         },
         {
             "category": "development",
             "name": "Aurora OSS",
             "icon": "aurora-oss.svg",
-            "link": "https://auroraoss.com/",
-            "tags": []
+            "link": "https://auroraoss.com/"
         },
         {
             "category": "development",
             "name": "Beanstalk",
             "icon": "beanstalk.ico",
-            "link": "https://beanstalkapp.com/",
-            "tags": []
+            "link": "https://beanstalkapp.com/"
         },
         {
             "category": "development",
             "name": "Cloudflare",
-            "link": "https://www.cloudflare.com/",
-            "tags": []
+            "link": "https://www.cloudflare.com/"
         },
         {
             "category": "development",
             "name": "Codeberg.org",
             "icon": "codeberg-org.svg",
-            "link": "https://codeberg.org/",
-            "tags": []
+            "link": "https://codeberg.org/"
         },
         {
             "category": "development",
             "name": "Debian stable",
-            "link": "https://packages.debian.org/stable/",
-            "tags": []
+            "link": "https://packages.debian.org/stable/"
         },
         {
             "category": "development",
             "name": "dinahosting",
             "icon": "dinahosting.ico",
-            "link": "https://panel.dinahosting.com/",
-            "tags": []
+            "link": "https://panel.dinahosting.com/"
         },
         {
             "category": "development",
             "name": "DistroWatch",
             "icon": "distrowatch.ico",
-            "link": "https://distrowatch.com/",
-            "tags": []
+            "link": "https://distrowatch.com/"
         },
         {
             "category": "development",
@@ -345,29 +316,25 @@
             "category": "development",
             "name": "F-Droid",
             "icon": "f-droid.svg",
-            "link": "https://f-droid.org/",
-            "tags": []
+            "link": "https://f-droid.org/"
         },
         {
             "category": "development",
             "name": "Fedora Packages",
             "icon": "fedora-packages.ico",
-            "link": "https://packages.fedoraproject.org/index-static.html",
-            "tags": []
+            "link": "https://packages.fedoraproject.org/index-static.html"
         },
         {
             "category": "development",
             "name": "Flathub",
             "icon": "flathub.svg",
-            "link": "https://flathub.org/",
-            "tags": []
+            "link": "https://flathub.org/"
         },
         {
             "category": "development",
             "name": "Gitea",
             "icon": "gitea.png",
-            "link": "https://gitea.com/",
-            "tags": []
+            "link": "https://gitea.com/"
         },
         {
             "category": "development",
@@ -383,92 +350,79 @@
             "category": "development",
             "name": "GitLab",
             "icon": "gitlab.ico",
-            "link": "https://about.gitlab.com/",
-            "tags": []
+            "link": "https://about.gitlab.com/"
         },
         {
             "category": "development",
             "name": "Google Play Store",
             "icon": "google-play-store.ico",
-            "link": "https://play.google.com/store/apps",
-            "tags": []
+            "link": "https://play.google.com/store/apps"
         },
         {
             "category": "development",
             "name": "homebrew",
             "icon": "homebrew.svg",
-            "link": "https://formulae.brew.sh/",
-            "tags": []
+            "link": "https://formulae.brew.sh/"
         },
         {
             "category": "development",
             "name": "Hostinger.com",
             "icon": "hostinger-com.ico",
-            "link": "https://www.hostinger.com/",
-            "tags": []
+            "link": "https://www.hostinger.com/"
         },
         {
             "category": "development",
             "name": "Hugging Face",
             "icon": "hugging-face.ico",
-            "link": "https://huggingface.co/",
-            "tags": []
+            "link": "https://huggingface.co/"
         },
         {
             "category": "development",
             "name": "itch.io",
             "icon": "itch-io.ico",
-            "link": "https://itch.io/",
-            "tags": []
+            "link": "https://itch.io/"
         },
         {
             "category": "development",
             "name": "IzzyOnDroid F-Droid Repository",
             "icon": "izzyondroid-f-droid-repository.ico",
-            "link": "https://apt.izzysoft.de/fdroid/",
-            "tags": []
+            "link": "https://apt.izzysoft.de/fdroid/"
         },
         {
             "category": "development",
             "name": "Kaggle",
             "icon": "kaggle.ico",
-            "link": "https://www.kaggle.com/",
-            "tags": []
+            "link": "https://www.kaggle.com/"
         },
         {
             "category": "development",
             "name": "Launchpad",
             "icon": "launchpad.svg",
-            "link": "https://launchpad.net/",
-            "tags": []
+            "link": "https://launchpad.net/"
         },
         {
             "category": "development",
             "name": "Microsoft Apps",
             "icon": "microsoft-apps.ico",
-            "link": "https://apps.microsoft.com/home?hl=en-us&gl=US",
-            "tags": []
+            "link": "https://apps.microsoft.com/home?hl=en-us&gl=US"
         },
         {
             "category": "development",
             "name": "Netlify",
             "icon": "netlify.svg",
-            "link": "https://www.netlify.com/",
-            "tags": []
+            "link": "https://www.netlify.com/"
         },
         {
             "category": "development",
             "name": "pkgs.org",
             "icon": "pkgs-org.ico",
-            "link": "https://pkgs.org/",
-            "tags": []
+            "link": "https://pkgs.org/"
         },
         {
             "category": "development",
             "name": "PortableApps",
             "icon": "portableapps.png",
-            "link": "https://portableapps.com/",
-            "tags": []
+            "link": "https://portableapps.com/"
         },
         {
             "category": "development",
@@ -483,626 +437,499 @@
             "category": "development",
             "name": "Repology",
             "icon": "repology.ico",
-            "link": "https://repology.org/",
-            "tags": []
+            "link": "https://repology.org/"
         },
         {
             "category": "development",
             "name": "SourceForge",
             "icon": "sourceforge.svg",
-            "link": "https://sourceforge.net/",
-            "tags": []
+            "link": "https://sourceforge.net/"
         },
         {
             "category": "development",
             "name": "sourcehut",
             "icon": "sourcehut.svg",
-            "link": "https://sourcehut.org/",
-            "tags": []
+            "link": "https://sourcehut.org/"
         },
         {
             "category": "development",
             "name": "TuxMate - Linux bulk app installer",
             "icon": "tuxmate-linux.ico",
-            "link": "https://tuxmate.com/",
-            "tags": []
+            "link": "https://tuxmate.com/"
         },
         {
             "category": "development",
             "name": "Vercel",
             "icon": "vercel.ico",
-            "link": "https://vercel.com/",
-            "tags": []
+            "link": "https://vercel.com/"
         },
         {
             "category": "development",
             "name": "winstall",
             "icon": "winstall.ico",
-            "link": "https://winstall.app/",
-            "tags": []
+            "link": "https://winstall.app/"
         },
         {
             "category": "online-services",
             "name": "1337x",
             "icon": "1337x.svg",
-            "link": "https://www.1377x.is/",
-            "tags": []
+            "link": "https://www.1377x.is/"
         },
         {
             "category": "online-services",
             "name": "Adobe - all apps",
             "icon": "adobe-all-apps.ico",
-            "link": "https://www.adobe.com/creativecloud/all-apps.html",
-            "tags": []
+            "link": "https://www.adobe.com/creativecloud/all-apps.html"
         },
         {
             "category": "online-services",
             "name": "Affinity Seriff",
             "icon": "affinity-seriff.svg",
-            "link": "https://affinity.serif.com/en-us/",
-            "tags": []
+            "link": "https://affinity.serif.com/en-us/"
         },
         {
             "category": "online-services",
             "name": "AlternativeTo",
             "icon": "alternativeto.svg",
-            "link": "https://alternativeto.net/",
-            "tags": []
+            "link": "https://alternativeto.net/"
         },
         {
             "category": "online-services",
             "name": "App Stacks",
             "icon": "app-stacks.png",
-            "link": "https://appstacks.club/",
-            "tags": []
+            "link": "https://appstacks.club/"
         },
         {
             "category": "online-services",
             "name": "AppAgg",
             "icon": "appagg.svg",
-            "link": "https://appagg.com/?hl=en",
-            "tags": []
+            "link": "https://appagg.com/?hl=en"
         },
         {
             "category": "online-services",
             "name": "Appmus",
             "icon": "appmus.ico",
-            "link": "https://appmus.com/",
-            "tags": []
+            "link": "https://appmus.com/"
         },
         {
             "category": "online-services",
             "name": "Apps by Apple",
             "icon": "apps-by-apple.ico",
-            "link": "https://www.apple.com/apps/",
-            "tags": []
+            "link": "https://www.apple.com/apps/"
         },
         {
             "category": "online-services",
             "name": "ArchWiki - List of applications",
-            "link": "https://wiki.archlinux.org/title/List_of_applications",
-            "tags": []
+            "link": "https://wiki.archlinux.org/title/List_of_applications"
         },
         {
             "category": "online-services",
             "name": "Audio wareZ",
             "icon": "audio-warez.ico",
-            "link": "https://audioz.download/",
-            "tags": []
+            "link": "https://audioz.download/"
         },
         {
             "category": "online-services",
             "name": "Autodesk - All products",
-            "link": "https://www.autodesk.com/products",
-            "tags": []
+            "link": "https://www.autodesk.com/products"
         },
         {
             "category": "online-services",
             "name": "CoinGecko",
             "icon": "coingecko.svg",
-            "link": "https://www.coingecko.com/",
-            "tags": []
+            "link": "https://www.coingecko.com/"
         },
         {
             "category": "online-services",
             "name": "craigslist > sites",
             "icon": "craigslist-sites.ico",
-            "link": "https://www.craigslist.org/about/sites",
-            "tags": []
+            "link": "https://www.craigslist.org/about/sites"
         },
         {
             "category": "online-services",
             "name": "CVE: Common Vulnerabilities and Exposures",
             "icon": "cve-common-vulnerabilities-and-exposures.svg",
-            "link": "https://www.cve.org/",
-            "tags": []
+            "link": "https://www.cve.org/"
         },
         {
             "category": "online-services",
             "name": "DB Engines",
             "icon": "db-engines.ico",
-            "link": "https://db-engines.com/en/ranking",
-            "tags": []
+            "link": "https://db-engines.com/en/ranking"
         },
         {
             "category": "online-services",
             "name": "Discografiascompletas",
-            "link": "https://www.discografiascompletas.org/",
-            "tags": []
+            "link": "https://www.discografiascompletas.org/"
         },
         {
             "category": "online-services",
             "name": "Exploit Database",
             "icon": "exploit-database.ico",
-            "link": "https://www.exploit-db.com/",
-            "tags": []
+            "link": "https://www.exploit-db.com/"
         },
         {
             "category": "online-services",
             "name": "EXT Torrents",
             "icon": "ext-torrents.ico",
-            "link": "https://ext.to/",
-            "tags": []
+            "link": "https://ext.to/"
         },
         {
             "category": "online-services",
             "name": "Eylenburg",
-            "link": "https://eylenburg.github.io/",
-            "tags": []
+            "link": "https://eylenburg.github.io/"
         },
         {
             "category": "online-services",
             "name": "FileInfo",
             "icon": "fileinfo.svg",
-            "link": "https://fileinfo.com/",
-            "tags": []
+            "link": "https://fileinfo.com/"
         },
         {
             "category": "online-services",
             "name": "FMHY",
             "icon": "fmhy.svg",
-            "link": "https://fmhy.net/",
-            "tags": []
+            "link": "https://fmhy.net/"
         },
         {
             "category": "online-services",
             "name": "GitHub Trend",
             "icon": "github-trend.svg",
-            "link": "https://github.com/trending",
-            "tags": []
+            "link": "https://github.com/trending"
         },
         {
             "category": "online-services",
             "name": "GloTorrents",
             "icon": "glotorrents.ico",
-            "link": "https://glodls.to/",
-            "tags": []
+            "link": "https://glodls.to/"
         },
         {
             "category": "online-services",
             "name": "Google Workspace",
             "icon": "google-workspace.ico",
-            "link": "https://workspace.google.com/features/",
-            "tags": []
+            "link": "https://workspace.google.com/features/"
         },
         {
             "category": "online-services",
             "name": "HypeStat | Web Statistics and Analysis",
-            "link": "https://hypestat.com/",
-            "tags": [],
-            "icon": "hypestat-web-statistics-and-analysis.ico"
+            "icon": "hypestat-web-statistics-and-analysis.ico",
+            "link": "https://hypestat.com/"
         },
         {
             "category": "online-services",
             "name": "Interneto",
             "icon": "/icon.png",
-            "link": "https://interneto.github.io/",
-            "tags": []
+            "link": "https://interneto.github.io/"
         },
         {
             "category": "online-services",
             "name": "Jamstack - SSGs",
             "icon": "jamstack-ssgs.png",
-            "link": "https://jamstack.org/generators/",
-            "tags": []
+            "link": "https://jamstack.org/generators/"
         },
         {
             "category": "online-services",
             "name": "jazzmusic.cool",
-            "link": "https://jazzmusic.cool/",
-            "tags": [],
-            "icon": "jazzmusic-cool.png"
+            "icon": "jazzmusic-cool.png",
+            "link": "https://jazzmusic.cool/"
         },
         {
             "category": "online-services",
             "name": "Knaben Database",
             "icon": "knaben-database.svg",
-            "link": "https://knaben.org/",
-            "tags": []
+            "link": "https://knaben.org/"
         },
         {
             "category": "online-services",
             "name": "Luckystudio4u",
             "icon": "luckystudio4u.png",
-            "link": "https://www.luckystudio4u.com/",
-            "tags": []
+            "link": "https://www.luckystudio4u.com/"
         },
         {
             "category": "online-services",
             "name": "Majestic Million - Report",
             "icon": "majestic-million-report.ico",
-            "link": "https://majestic.com/reports/majestic-million",
-            "tags": []
+            "link": "https://majestic.com/reports/majestic-million"
         },
         {
             "category": "online-services",
             "name": "Map of GitHub",
             "icon": "map-of-github.png",
-            "link": "https://anvaka.github.io/map-of-github/#2/0/0",
-            "tags": []
+            "link": "https://anvaka.github.io/map-of-github/#2/0/0"
         },
         {
             "category": "online-services",
             "name": "PRISM Break",
             "icon": "prism-break.png",
-            "link": "https://prism-break.org/en/",
-            "tags": []
+            "link": "https://prism-break.org/en/"
         },
         {
             "category": "online-services",
             "name": "Privacy Tools",
             "icon": "privacy-tools.svg",
-            "link": "https://www.privacytools.io/",
-            "tags": []
+            "link": "https://www.privacytools.io/"
         },
         {
             "category": "online-services",
             "name": "Product Hunt",
             "icon": "product-hunt.ico",
-            "link": "https://www.producthunt.com/",
-            "tags": []
+            "link": "https://www.producthunt.com/"
         },
         {
             "category": "online-services",
             "name": "PYPL",
-            "link": "https://pypl.github.io/PYPL.html",
-            "tags": []
+            "link": "https://pypl.github.io/PYPL.html"
         },
         {
             "category": "online-services",
             "name": "SaaSHub",
             "icon": "saashub.png",
-            "link": "https://www.saashub.com/",
-            "tags": []
+            "link": "https://www.saashub.com/"
         },
         {
             "category": "online-services",
             "name": "Similarweb - Website Traffic",
             "icon": "similarweb-website-traffic.png",
-            "link": "https://www.similarweb.com/",
-            "tags": []
+            "link": "https://www.similarweb.com/"
         },
         {
             "category": "online-services",
             "name": "Snowfl",
             "icon": "snowfl.ico",
-            "link": "https://snowfl.com/",
-            "tags": []
+            "link": "https://snowfl.com/"
         },
         {
             "category": "online-services",
             "name": "Softpedia",
             "icon": "softpedia.svg",
-            "link": "https://www.softpedia.com/",
-            "tags": []
+            "link": "https://www.softpedia.com/"
         },
         {
             "category": "online-services",
             "name": "TasteDive",
             "icon": "tastedive.png",
-            "link": "https://tastedive.com/",
-            "tags": []
+            "link": "https://tastedive.com/"
         },
         {
             "category": "online-services",
             "name": "ThePirateBay",
-            "link": "https://thepiratebay.org/",
-            "tags": []
+            "link": "https://thepiratebay.org/"
         },
         {
             "category": "online-services",
             "name": "Tranco list",
-            "link": "https://tranco-list.eu/",
-            "tags": []
+            "link": "https://tranco-list.eu/"
         },
         {
             "category": "online-services",
             "name": "Unblocked",
             "icon": "unblocked.png",
-            "link": "https://unblock-it.com/",
-            "tags": []
+            "link": "https://unblock-it.com/"
         },
         {
             "category": "online-services",
             "name": "W3Techs",
-            "link": "https://w3techs.com/",
-            "tags": [],
-            "icon": "w3techs.ico"
+            "icon": "w3techs.ico",
+            "link": "https://w3techs.com/"
         },
         {
             "category": "online-services",
             "name": "web-platform-tests dashboard",
             "icon": "web-platform-tests-dashboard.ico",
-            "link": "https://wpt.fyi/results/?label=experimental&label=master&aligned",
-            "tags": []
+            "link": "https://wpt.fyi/results/?label=experimental&label=master&aligned"
         },
         {
             "category": "online-services",
             "name": "YTSMovies",
-            "link": "https://yts.rs/browse-movies",
-            "tags": []
+            "link": "https://yts.rs/browse-movies"
         },
         {
             "category": "gaming",
             "name": "IGDB",
-            "link": "https://www.igdb.com/",
-            "tags": []
+            "link": "https://www.igdb.com/"
         },
         {
             "category": "education-and-reference",
             "name": "Academia.edu - Find Research Papers, Topics, Researchers",
             "icon": "academia-edu.ico",
-            "link": "https://www.academia.edu/",
-            "tags": []
+            "link": "https://www.academia.edu/"
         },
         {
             "category": "education-and-reference",
             "name": "AlphaFold Protein Structure Database",
             "icon": "alphafold.svg",
-            "link": "https://alphafold.ebi.ac.uk/",
-            "tags": []
-        },
-        {
-            "category": "education-and-reference",
-            "name": "Archive.org",
-            "icon": "archive.svg",
-            "link": "https://archive.org/",
-            "tags": []
+            "link": "https://alphafold.ebi.ac.uk/"
         },
         {
             "category": "education-and-reference",
             "name": "BabelNet",
             "icon": "babelnet.ico",
-            "link": "https://babelnet.org/",
-            "tags": []
+            "link": "https://babelnet.org/"
         },
         {
             "category": "education-and-reference",
             "name": "Britannica",
             "icon": "britannica.png",
-            "link": "https://www.britannica.com/",
-            "tags": []
+            "link": "https://www.britannica.com/"
         },
         {
             "category": "education-and-reference",
             "name": "Cambridge Dictionary",
-            "link": "https://dictionary.cambridge.org/",
-            "tags": []
-        },
-        {
-            "category": "education-and-reference",
-            "name": "Chinese Dictionary",
-            "icon": "chinese-dictionary.png",
-            "link": "https://hanyucidian.org/",
-            "tags": []
+            "link": "https://dictionary.cambridge.org/"
         },
         {
             "category": "education-and-reference",
             "name": "ConceptNet",
-            "link": "https://conceptnet.io/",
-            "tags": []
+            "link": "https://conceptnet.io/"
         },
         {
             "category": "education-and-reference",
             "name": "DECEL - Diccionario Etimológico Castellano En Línea",
             "icon": "decel-diccionario-castellano.ico",
-            "link": "https://etimologias.dechile.net/",
-            "tags": []
+            "link": "https://etimologias.dechile.net/"
         },
         {
             "category": "education-and-reference",
             "name": "Dictionary.com",
             "icon": "dictionary-com.ico",
-            "link": "https://www.dictionary.com/",
-            "tags": []
+            "link": "https://www.dictionary.com/"
         },
         {
             "category": "education-and-reference",
             "name": "Dictionnaire de l'Académie française",
             "icon": "dictionnaire-de-l-academie-francaise.svg",
-            "link": "https://www.dictionnaire-academie.fr/",
-            "tags": []
+            "link": "https://www.dictionnaire-academie.fr/"
         },
         {
             "category": "education-and-reference",
             "name": "EncycloSearch",
             "icon": "encyclosearch.svg",
-            "link": "https://encyclosearch.org/",
-            "tags": []
+            "link": "https://encyclosearch.org/"
         },
         {
             "category": "education-and-reference",
             "name": "Epstein Exposed DB",
             "icon": "epstein-exposed-db.svg",
-            "link": "https://epsteinexposed.com/",
-            "tags": []
+            "link": "https://epsteinexposed.com/"
         },
         {
             "category": "education-and-reference",
             "name": "Grokipedia",
             "icon": "grokipedia.ico",
-            "link": "https://grokipedia.com/",
-            "tags": []
+            "link": "https://grokipedia.com/"
         },
         {
             "category": "education-and-reference",
             "name": "GSMArena.com - mobile phone reviews",
             "icon": "gsmarena-com.ico",
-            "link": "https://www.gsmarena.com/",
-            "tags": []
+            "link": "https://www.gsmarena.com/"
         },
         {
             "category": "education-and-reference",
             "name": "hwxnet",
             "icon": "hwxnet.ico",
-            "link": "https://cd.hwxnet.com/",
-            "tags": []
-        },
-        {
-            "category": "education-and-reference",
-            "name": "JapanDict: Japanese Dictionary",
-            "icon": "japandict-japanese-dictionary.svg",
-            "link": "https://www.japandict.com/",
-            "tags": []
+            "link": "https://cd.hwxnet.com/"
         },
         {
             "category": "education-and-reference",
             "name": "Jisho.org: Japanese Dictionary",
             "icon": "jisho-org-japanese-dictionary.ico",
-            "link": "https://jisho.org/",
-            "tags": []
-        },
-        {
-            "category": "education-and-reference",
-            "name": "Kimovil",
-            "icon": "kimovil.ico",
-            "link": "https://www.kimovil.com/es/",
-            "tags": []
+            "link": "https://jisho.org/"
         },
         {
             "category": "education-and-reference",
             "name": "Kiwix Server",
-            "link": "https://library.kiwix.org/?lang=eng",
-            "tags": []
+            "link": "https://library.kiwix.org/?lang=eng"
         },
         {
             "category": "education-and-reference",
             "name": "Knots 3D",
             "icon": "knots-3d.ico",
-            "link": "https://knots3d.com/en/complete-list-of-knots",
-            "tags": []
+            "link": "https://knots3d.com/en/complete-list-of-knots"
         },
         {
             "category": "education-and-reference",
             "name": "Larousse.fr : encyclopédie et dictionnaires gratuits en ligne",
             "icon": "larousse-fr.ico",
-            "link": "https://www.larousse.fr/",
-            "tags": []
+            "link": "https://www.larousse.fr/"
         },
         {
             "category": "education-and-reference",
             "name": "Lexipedia",
             "icon": "lexipedia.ico",
-            "link": "https://www.lexipedia.com/",
-            "tags": []
+            "link": "https://www.lexipedia.com/"
         },
         {
             "category": "education-and-reference",
             "name": "ManualLibs",
             "icon": "manuallibs.png",
-            "link": "https://www.manualslib.com/",
-            "tags": []
+            "link": "https://www.manualslib.com/"
         },
         {
             "category": "education-and-reference",
             "name": "MDBG Chinese Dictionary",
             "icon": "mdbg-chinese-dictionary.ico",
-            "link": "https://www.mdbg.net/chinese/dictionary",
-            "tags": []
+            "link": "https://www.mdbg.net/chinese/dictionary"
         },
         {
             "category": "education-and-reference",
             "name": "MDN Web Docs",
             "icon": "mdn.svg",
-            "link": "https://developer.mozilla.org/",
-            "tags": []
-        },
-        {
-            "category": "education-and-reference",
-            "name": "NanoReview – tech comparison and ratings",
-            "icon": "nanoreview-tech-comparison-and-ratings.ico",
-            "link": "https://nanoreview.net/",
-            "tags": []
+            "link": "https://developer.mozilla.org/"
         },
         {
             "category": "education-and-reference",
             "name": "Oxford Learner's Dictionaries",
             "icon": "oxford-learner-s-dictionaries.ico",
-            "link": "https://www.oxfordlearnersdictionaries.com/",
-            "tags": []
+            "link": "https://www.oxfordlearnersdictionaries.com/"
         },
         {
             "category": "education-and-reference",
             "name": "Pagina d'entrata - Accademia della Crusca",
             "icon": "accademia-della-crusca.ico",
-            "link": "https://accademiadellacrusca.it/",
-            "tags": []
+            "link": "https://accademiadellacrusca.it/"
         },
         {
             "category": "education-and-reference",
             "name": "RAE - Diccionario Lengua Española",
             "icon": "rae-diccionario-lengua-espanola.ico",
-            "link": "https://dle.rae.es/",
-            "tags": []
+            "link": "https://dle.rae.es/"
         },
         {
             "category": "education-and-reference",
             "name": "ResearchGate | Find and share research",
             "icon": "researchgate.ico",
-            "link": "https://www.researchgate.net/",
-            "tags": []
+            "link": "https://www.researchgate.net/"
         },
         {
             "category": "education-and-reference",
             "name": "Sci-Hub: to open science",
             "icon": "sci-hub.svg",
-            "link": "https://www.sci-hub.box/",
-            "tags": []
+            "link": "https://www.sci-hub.box/"
         },
         {
             "category": "education-and-reference",
             "name": "Scribd",
             "icon": "scribd.ico",
-            "link": "https://www.scribd.com/",
-            "tags": []
-        },
-        {
-            "category": "education-and-reference",
-            "name": "Technical City - Unbiased hardware comparisons",
-            "icon": "technical-city.svg",
-            "link": "https://technical.city/en",
-            "tags": []
+            "link": "https://www.scribd.com/"
         },
         {
             "category": "education-and-reference",
             "name": "True Earth wiki",
             "icon": "true-earth-wiki.png",
-            "link": "https://trueearth.wikitide.org/wiki/Main_Page",
-            "tags": []
+            "link": "https://trueearth.wikitide.org/wiki/Main_Page"
         },
         {
             "category": "education-and-reference",
             "name": "UserBenchmark",
             "icon": "userbenchmark.ico",
-            "link": "https://www.userbenchmark.com/",
-            "tags": []
+            "link": "https://www.userbenchmark.com/"
         },
         {
             "category": "education-and-reference",
             "name": "Wikidata",
             "icon": "wikidata.ico",
-            "link": "https://www.wikidata.org/wiki/Wikidata:Main_Page",
-            "tags": []
+            "link": "https://www.wikidata.org/wiki/Wikidata:Main_Page"
         },
         {
             "category": "education-and-reference",
@@ -1117,148 +944,115 @@
             "category": "education-and-reference",
             "name": "WordReference.com",
             "icon": "wordreference-com.svg",
-            "link": "https://www.wordreference.com/",
-            "tags": []
+            "link": "https://www.wordreference.com/"
         },
         {
             "category": "education-and-reference",
             "name": "World History Encyclopedia",
             "icon": "world-history-encyclopedia.ico",
-            "link": "https://www.worldhistory.org/",
-            "tags": []
+            "link": "https://www.worldhistory.org/"
         },
         {
             "category": "education-and-reference",
             "name": "Wörterbuch der deutschen Sprache ✒️ Duden Online",
             "icon": "worterbuch-der-deutschen.svg",
-            "link": "https://www.duden.de/woerterbuch",
-            "tags": []
+            "link": "https://www.duden.de/woerterbuch"
         },
         {
             "category": "education-and-reference",
             "name": "Boot.dev",
             "icon": "bootdev.svg",
-            "link": "https://www.boot.dev/dashboard",
-            "tags": []
+            "link": "https://www.boot.dev/dashboard"
         },
         {
             "category": "education-and-reference",
             "name": "Codecademy",
             "icon": "codecademy.svg",
-            "link": "https://www.codecademy.com/catalog",
-            "tags": []
+            "link": "https://www.codecademy.com/catalog"
         },
         {
             "category": "education-and-reference",
             "name": "Coursera",
             "icon": "coursera.ico",
-            "link": "https://www.coursera.org/",
-            "tags": []
+            "link": "https://www.coursera.org/"
         },
         {
             "category": "education-and-reference",
             "name": "edX",
             "icon": "edx.ico",
-            "link": "https://www.edx.org/",
-            "tags": []
+            "link": "https://www.edx.org/"
         },
         {
             "category": "education-and-reference",
             "name": "freeCodeCamp",
             "icon": "freecodecamp.svg",
-            "link": "https://www.freecodecamp.org/learn",
-            "tags": []
+            "link": "https://www.freecodecamp.org/learn"
         },
         {
             "category": "education-and-reference",
             "name": "GCFGlobal",
             "icon": "gcfglobal.png",
-            "link": "https://edu.gcfglobal.org/en/",
-            "tags": []
+            "link": "https://edu.gcfglobal.org/en/"
         },
         {
             "category": "education-and-reference",
             "name": "GeoGebra",
             "icon": "geogebra.svg",
-            "link": "https://www.geogebra.org/math",
-            "tags": []
+            "link": "https://www.geogebra.org/math"
         },
         {
             "category": "education-and-reference",
             "name": "Khan Academy",
             "icon": "khan-academy.svg",
-            "link": "https://www.khanacademy.org/",
-            "tags": []
+            "link": "https://www.khanacademy.org/"
         },
         {
             "category": "education-and-reference",
             "name": "OpenWebinars",
             "icon": "openwebinars.svg",
-            "link": "https://openwebinars.net/",
-            "tags": []
+            "link": "https://openwebinars.net/"
         },
         {
             "category": "education-and-reference",
             "name": "Skillshare",
             "icon": "skillshare.ico",
-            "link": "https://www.skillshare.com/",
-            "tags": []
+            "link": "https://www.skillshare.com/"
         },
         {
             "category": "education-and-reference",
             "name": "Udacity",
             "icon": "udacity.ico",
-            "link": "https://www.udacity.com/",
-            "tags": []
+            "link": "https://www.udacity.com/"
         },
         {
             "category": "education-and-reference",
             "name": "W3Schools",
             "icon": "w3schools.svg",
-            "link": "https://www.w3schools.com/",
-            "tags": []
+            "link": "https://www.w3schools.com/"
         },
         {
             "category": "education-and-reference",
             "name": "WolframAlpha",
             "icon": "wolframalpha.svg",
-            "link": "https://www.wolframalpha.com/",
-            "tags": []
+            "link": "https://www.wolframalpha.com/"
         },
         {
             "category": "travel-and-location",
             "name": "ACME Mapper 2.2",
             "icon": "acme-mapper-2-2.gif",
-            "link": "https://mapper.acme.com/",
-            "tags": []
+            "link": "https://mapper.acme.com/"
         },
         {
             "category": "travel-and-location",
             "name": "ADS-B Exchange - track aircraft live",
             "icon": "ads-b-exchange-track-aircraft-live.png",
-            "link": "https://globe.adsbexchange.com/",
-            "tags": []
+            "link": "https://globe.adsbexchange.com/"
         },
         {
             "category": "travel-and-location",
             "name": "Airbnb",
             "icon": "airbnb.svg",
-            "link": "https://www.airbnb.com/",
-            "tags": []
-        },
-        {
-            "category": "travel-and-location",
-            "name": "AirNav Radar",
-            "icon": "airnav-radar.ico",
-            "link": "https://www.airnavradar.com/@29.00248,16.86876,z3",
-            "tags": []
-        },
-        {
-            "category": "travel-and-location",
-            "name": "AIRPLANES.LIVE",
-            "icon": "airplanes-live.ico",
-            "link": "https://airplanes.live/",
-            "tags": []
+            "link": "https://www.airbnb.com/"
         },
         {
             "category": "travel-and-location",
@@ -1273,139 +1067,84 @@
             "category": "travel-and-location",
             "name": "Apple Maps",
             "icon": "apple-maps.ico",
-            "link": "https://maps.apple.com/frame?center=0.4807124296272137%2C3.652611569093864&span=149.5310998716505%2C288.5017421602788",
-            "tags": []
+            "link": "https://maps.apple.com/frame?center=0.4807124296272137%2C3.652611569093864&span=149.5310998716505%2C288.5017421602788"
         },
         {
             "category": "travel-and-location",
             "name": "Bing Maps",
             "icon": "bing-maps.ico",
-            "link": "https://www.bing.com/maps?cp=-0.043993%7E0.329551&lvl=3.3",
-            "tags": []
+            "link": "https://www.bing.com/maps?cp=-0.043993%7E0.329551&lvl=3.3"
         },
         {
             "category": "travel-and-location",
             "name": "Booking.com",
             "icon": "booking-com.png",
-            "link": "https://www.booking.com/",
-            "tags": []
+            "link": "https://www.booking.com/"
         },
         {
             "category": "travel-and-location",
             "name": "CARTO - The Agentic GIS Platform",
-            "link": "https://carto.com/",
-            "tags": []
+            "link": "https://carto.com/"
         },
         {
             "category": "travel-and-location",
             "name": "DirectHotels.com",
             "icon": "directhotels-com.ico",
-            "link": "https://www.directhotels.com/",
-            "tags": []
+            "link": "https://www.directhotels.com/"
         },
         {
             "category": "travel-and-location",
             "name": "EarthCam",
             "icon": "earthcam.ico",
-            "link": "https://www.earthcam.com/",
-            "tags": []
+            "link": "https://www.earthcam.com/"
         },
         {
             "category": "travel-and-location",
             "name": "Expedia Travel",
             "icon": "expedia-travel.ico",
-            "link": "https://www.expedia.com/",
-            "tags": []
+            "link": "https://www.expedia.com/"
         },
         {
             "category": "travel-and-location",
             "name": "FAA NOTAM Search",
             "icon": "faa-notam-search.ico",
-            "link": "https://notams.aim.faa.gov/notamSearch/nsapp.html#/",
-            "tags": []
-        },
-        {
-            "category": "travel-and-location",
-            "name": "Flight XXXX - AirNav Radar",
-            "link": "https://web7.radarbox.com/data/flights/XXXX",
-            "tags": []
-        },
-        {
-            "category": "travel-and-location",
-            "name": "Flight XXXX - FlightAware",
-            "icon": "flight-xxxx-flightaware.ico",
-            "link": "https://www.flightaware.com/live/flight/XXXX",
-            "tags": []
-        },
-        {
-            "category": "travel-and-location",
-            "name": "Flight XXXX - Flightradar24",
-            "icon": "flightradar-24.svg",
-            "link": "https://www.flightradar24.com/data/flights/xxxx",
-            "tags": []
-        },
-        {
-            "category": "travel-and-location",
-            "name": "Flight XXXX - Plane Finder",
-            "icon": "flight-xxxx-plane-finder.ico",
-            "link": "https://planefinder.net/data/flight/XXXX",
-            "tags": []
+            "link": "https://notams.aim.faa.gov/notamSearch/nsapp.html#/"
         },
         {
             "category": "travel-and-location",
             "name": "FlightAware",
             "icon": "flightaware.ico",
-            "link": "https://www.flightaware.com/live/",
-            "tags": []
+            "link": "https://www.flightaware.com/live/"
         },
         {
             "category": "travel-and-location",
             "name": "Flightradar 24",
             "icon": "flightradar-24.svg",
-            "link": "https://www.flightradar24.com/31.31,-14.30/5",
-            "tags": []
-        },
-        {
-            "category": "travel-and-location",
-            "name": "FlightStats",
-            "icon": "flightstats.ico",
-            "link": "https://www.flightstats.com/v2",
-            "tags": []
-        },
-        {
-            "category": "travel-and-location",
-            "name": "GasoFlash - Precios de la gasolina",
-            "icon": "gasoflash.ico",
-            "link": "https://www.gasoflash.es/",
-            "tags": []
+            "link": "https://www.flightradar24.com/31.31,-14.30/5"
         },
         {
             "category": "travel-and-location",
             "name": "GeoHack",
             "icon": "geohack.png",
-            "link": "https://geohack.toolforge.org/geohack.php?params=0_0_0_S_0_0_0_W",
-            "tags": []
+            "link": "https://geohack.toolforge.org/geohack.php?params=0_0_0_S_0_0_0_W"
         },
         {
             "category": "travel-and-location",
             "name": "Geomarketing inAtlas",
             "icon": "geomarketing-inatlas.ico",
-            "link": "https://informa.inatlas.com/#/dashboard",
-            "tags": []
+            "link": "https://informa.inatlas.com/#/dashboard"
         },
         {
             "category": "travel-and-location",
             "name": "Glamping Hub",
             "icon": "glamping-hub.ico",
-            "link": "https://glampinghub.com/",
-            "tags": []
+            "link": "https://glampinghub.com/"
         },
         {
             "category": "travel-and-location",
             "name": "Google Earth Web",
             "icon": "google-earth.svg",
-            "link": "https://earth.google.com/web/@36.23919503,-6.44153304,0a,4589641.05349735d,35y,0h,0t,0r/data=CgRCAggCOgMKATBCAggASg0I____________ARAA?authuser=0",
-            "tags": []
+            "link": "https://earth.google.com/web/@36.23919503,-6.44153304,0a,4589641.05349735d,35y,0h,0t,0r/data=CgRCAggCOgMKATBCAggASg0I____________ARAA?authuser=0"
         },
         {
             "category": "travel-and-location",
@@ -1420,158 +1159,118 @@
             "category": "travel-and-location",
             "name": "Google My Maps",
             "icon": "google-my-maps.ico",
-            "link": "https://www.google.com/maps/d/",
-            "tags": []
+            "link": "https://www.google.com/maps/d/"
         },
         {
             "category": "travel-and-location",
             "name": "HomeExchange",
             "icon": "homeexchange.svg",
-            "link": "https://www.homeexchange.com/",
-            "tags": []
+            "link": "https://www.homeexchange.com/"
         },
         {
             "category": "travel-and-location",
             "name": "HomeToGo",
             "icon": "hometogo.ico",
-            "link": "https://www.hometogo.com/",
-            "tags": []
+            "link": "https://www.hometogo.com/"
         },
         {
             "category": "travel-and-location",
             "name": "Hopper",
             "icon": "hopper.ico",
-            "link": "https://www.hopper.com/",
-            "tags": []
-        },
-        {
-            "category": "travel-and-location",
-            "name": "IGN - Terremotos Canarias",
-            "icon": "ign-terremotos-canarias.ico",
-            "link": "https://www.ign.es/web/vlc-ultimo-terremoto/-/terremotos-canarias/get10dias#",
-            "tags": []
+            "link": "https://www.hopper.com/"
         },
         {
             "category": "travel-and-location",
             "name": "IVAO Webeye",
             "icon": "ivao-webeye.ico",
-            "link": "https://webeye.ivao.aero/",
-            "tags": []
+            "link": "https://webeye.ivao.aero/"
         },
         {
             "category": "travel-and-location",
             "name": "KAYAK",
             "icon": "kayak.svg",
-            "link": "https://www.kayak.es/",
-            "tags": []
+            "link": "https://www.kayak.es/"
         },
         {
             "category": "travel-and-location",
             "name": "Kid & Coe",
-            "link": "https://www.kidandcoe.com/",
-            "tags": []
+            "link": "https://www.kidandcoe.com/"
         },
         {
             "category": "travel-and-location",
             "name": "Komoot",
             "icon": "komoot.svg",
-            "link": "https://www.komoot.com/",
-            "tags": []
+            "link": "https://www.komoot.com/"
         },
         {
             "category": "travel-and-location",
             "name": "Map of Active Volcanoes and recent Earthquakes world-wide",
             "icon": "map-of-active-volcanoes.ico",
-            "link": "https://earthquakes.volcanodiscovery.com/",
-            "tags": []
+            "link": "https://earthquakes.volcanodiscovery.com/"
         },
         {
             "category": "travel-and-location",
             "name": "Mapbox",
             "icon": "mapbox.ico",
-            "link": "https://labs.mapbox.com/contribute/#/?q=&l=1.983%2F21.459%2F18.4008",
-            "tags": []
+            "link": "https://labs.mapbox.com/contribute/#/?q=&l=1.983%2F21.459%2F18.4008"
         },
         {
             "category": "travel-and-location",
             "name": "Marine Traffic",
-            "link": "https://www.marinetraffic.com/en/ais/home/centerx:-12.0/centery:25.0/zoom:4",
-            "tags": []
-        },
-        {
-            "category": "travel-and-location",
-            "name": "MINETUR - Mapa antenas",
-            "link": "https://geoportal.minetur.gob.es/VCTEL/vcne.do",
-            "tags": []
+            "link": "https://www.marinetraffic.com/en/ais/home/centerx:-12.0/centery:25.0/zoom:4"
         },
         {
             "category": "travel-and-location",
             "name": "OpenStreetMap",
             "icon": "openstreetmap.svg",
-            "link": "https://www.openstreetmap.org/#map=3/28.69/0.09",
-            "tags": []
+            "link": "https://www.openstreetmap.org/#map=3/28.69/0.09"
         },
         {
             "category": "travel-and-location",
             "name": "OurAirports",
             "icon": "ourairports.ico",
-            "link": "https://ourairports.com/",
-            "tags": []
+            "link": "https://ourairports.com/"
         },
         {
             "category": "travel-and-location",
             "name": "Overpass Turbo",
             "icon": "overpass-turbo.svg",
-            "link": "https://overpass-turbo.eu/",
-            "tags": []
-        },
-        {
-            "category": "travel-and-location",
-            "name": "Plane Finder",
-            "icon": "plane-finder.ico",
-            "link": "https://planefinder.net/",
-            "tags": []
+            "link": "https://overpass-turbo.eu/"
         },
         {
             "category": "travel-and-location",
             "name": "Priceline.com",
             "icon": "priceline-com.svg",
-            "link": "https://www.priceline.com/",
-            "tags": []
+            "link": "https://www.priceline.com/"
         },
         {
             "category": "travel-and-location",
             "name": "Submarine Cable Map",
             "icon": "submarine-cable-map.ico",
-            "link": "https://www.submarinecablemap.com/",
-            "tags": []
+            "link": "https://www.submarinecablemap.com/"
         },
         {
             "category": "travel-and-location",
             "name": "USGS - Earthquakes",
             "icon": "usgs-earthquakes.ico",
-            "link": "https://earthquake.usgs.gov/earthquakes/map/?extent=-55.17887,-116.89453&extent=71.07406,155.39063",
-            "tags": []
+            "link": "https://earthquake.usgs.gov/earthquakes/map/?extent=-55.17887,-116.89453&extent=71.07406,155.39063"
         },
         {
             "category": "travel-and-location",
             "name": "VesselFinder",
             "icon": "vesselfinder.svg",
-            "link": "https://www.vesselfinder.com/",
-            "tags": []
+            "link": "https://www.vesselfinder.com/"
         },
         {
             "category": "travel-and-location",
             "name": "Viator",
-            "link": "https://www.viator.com/",
-            "tags": []
+            "link": "https://www.viator.com/"
         },
         {
             "category": "travel-and-location",
             "name": "Vrbo",
             "icon": "vrbo.ico",
-            "link": "https://www.vrbo.com/es-es/",
-            "tags": []
+            "link": "https://www.vrbo.com/es-es/"
         },
         {
             "category": "travel-and-location",
@@ -1586,217 +1285,144 @@
             "category": "travel-and-location",
             "name": "Wikimapia",
             "icon": "wikimapia.ico",
-            "link": "https://wikimapia.org/",
-            "tags": []
+            "link": "https://wikimapia.org/"
         },
         {
             "category": "travel-and-location",
             "name": "World Monitor",
             "icon": "world-monitor.svg",
-            "link": "https://world-monitor.com/",
-            "tags": []
+            "link": "https://world-monitor.com/"
         },
         {
             "category": "travel-and-location",
             "name": "Yandex Maps",
             "icon": "yandex-maps.svg",
-            "link": "https://yandex.com/maps/",
-            "tags": []
-        },
-        {
-            "category": "travel-and-location",
-            "name": "Yandex metro map",
-            "icon": "yandex-metro-map.svg",
-            "link": "https://yandex.com/metro/moscow?scheme_id=sc34974011",
-            "tags": []
+            "link": "https://yandex.com/maps/"
         },
         {
             "category": "video-and-movies",
             "name": "Airpano",
             "icon": "airpano.ico",
-            "link": "https://www.airpano.com/",
-            "tags": []
+            "link": "https://www.airpano.com/"
         },
         {
             "category": "video-and-movies",
             "name": "Amazon Music",
             "icon": "amazon-music.png",
-            "link": "https://music.amazon.com/",
-            "tags": []
+            "link": "https://music.amazon.com/"
         },
         {
             "category": "video-and-movies",
             "name": "AniList",
             "icon": "anilist.ico",
-            "link": "https://anilist.co/",
-            "tags": []
+            "link": "https://anilist.co/"
         },
         {
             "category": "video-and-movies",
             "name": "Apple Music - Web Player",
             "icon": "apple-music-web-player.svg",
-            "link": "https://music.apple.com/us/new",
-            "tags": []
+            "link": "https://music.apple.com/us/new"
         },
         {
             "category": "video-and-movies",
             "name": "Audible.es",
             "icon": "audible-es.ico",
-            "link": "https://www.audible.es/",
-            "tags": []
+            "link": "https://www.audible.es/"
         },
         {
             "category": "video-and-movies",
             "name": "audio.com",
             "icon": "audio-com.ico",
-            "link": "https://audio.com/",
-            "tags": []
+            "link": "https://audio.com/"
         },
         {
             "category": "video-and-movies",
             "name": "AudioJungle",
             "icon": "audiojungle.ico",
-            "link": "https://audiojungle.net/",
-            "tags": []
+            "link": "https://audiojungle.net/"
         },
         {
             "category": "video-and-movies",
             "name": "Audiomack",
             "icon": "audiomack.ico",
-            "link": "https://audiomack.com/trending-now",
-            "tags": []
+            "link": "https://audiomack.com/trending-now"
         },
         {
             "category": "video-and-movies",
             "name": "Audius - trending",
             "icon": "audius-trending.svg",
-            "link": "https://audius.co/trending",
-            "tags": []
+            "link": "https://audius.co/trending"
         },
         {
             "category": "video-and-movies",
             "name": "BBC Radio - Orbit",
             "icon": "bbc-radio-orbit.ico",
-            "link": "https://www.bbc.co.uk/orbitmusic",
-            "tags": []
+            "link": "https://www.bbc.co.uk/orbitmusic"
         },
         {
             "category": "video-and-movies",
             "name": "bilibili",
             "icon": "bilibili.ico",
-            "link": "https://www.bilibili.com/",
-            "tags": []
-        },
-        {
-            "category": "video-and-movies",
-            "name": "Canarias Life",
-            "icon": "canarias-life.png",
-            "link": "https://canariaslife.com/",
-            "tags": []
-        },
-        {
-            "category": "video-and-movies",
-            "name": "Cifraclub",
-            "icon": "cifraclub.ico",
-            "link": "https://www.cifraclub.com/",
-            "tags": []
+            "link": "https://www.bilibili.com/"
         },
         {
             "category": "video-and-movies",
             "name": "Dailymotion",
             "icon": "dailymotion.png",
-            "link": "https://www.dailymotion.com/es",
-            "tags": []
+            "link": "https://www.dailymotion.com/es"
         },
         {
             "category": "video-and-movies",
             "name": "Deezer",
             "icon": "deezer.png",
-            "link": "https://www.deezer.com/us/",
-            "tags": []
+            "link": "https://www.deezer.com/us/"
         },
         {
             "category": "video-and-movies",
             "name": "Every Noise at Once - 1d",
             "icon": "every-noise-at-once-1d.ico",
-            "link": "https://everynoise.com/everynoise1d.html",
-            "tags": []
+            "link": "https://everynoise.com/everynoise1d.html"
         },
         {
             "category": "video-and-movies",
             "name": "Fandom",
             "icon": "fandom.svg",
-            "link": "https://www.fandom.com/",
-            "tags": []
+            "link": "https://www.fandom.com/"
         },
         {
             "category": "video-and-movies",
             "name": "Filmmusic.io",
             "icon": "filmmusic-io.svg",
-            "link": "https://filmmusic.io/",
-            "tags": []
+            "link": "https://filmmusic.io/"
         },
         {
             "category": "video-and-movies",
             "name": "Flat.io",
             "icon": "flat-io.svg",
-            "link": "https://flat.io/",
-            "tags": []
+            "link": "https://flat.io/"
         },
         {
             "category": "video-and-movies",
             "name": "Free Music Archive",
             "icon": "free-music-archive.svg",
-            "link": "https://freemusicarchive.org/home",
-            "tags": []
+            "link": "https://freemusicarchive.org/home"
         },
         {
             "category": "video-and-movies",
             "name": "Gitagram",
             "icon": "gitagram.svg",
-            "link": "https://www.gitagram.com/",
-            "tags": []
+            "link": "https://www.gitagram.com/"
         },
         {
             "category": "video-and-movies",
             "name": "Google TV",
             "icon": "google-tv.ico",
-            "link": "https://tv.google/",
-            "tags": []
-        },
-        {
-            "category": "video-and-movies",
-            "name": "GProTab.net",
-            "icon": "gprotab-net.ico",
-            "link": "https://gprotab.net/",
-            "tags": []
+            "link": "https://tv.google/"
         },
         {
             "category": "video-and-movies",
             "name": "Guitar Dashboard - Circle of fifths",
-            "link": "https://guitardashboard.com/",
-            "tags": []
-        },
-        {
-            "category": "video-and-movies",
-            "name": "Guitar Pro - mySongBook",
-            "icon": "guitar-pro-mysongbook.svg",
-            "link": "https://www.guitar-pro.com/tabs",
-            "tags": []
-        },
-        {
-            "category": "video-and-movies",
-            "name": "Guitar Tab Universe",
-            "icon": "guitar-tab-universe.png",
-            "link": "https://www.guitartabs.cc/",
-            "tags": []
-        },
-        {
-            "category": "video-and-movies",
-            "name": "GuitareTab",
-            "icon": "guitaretab.ico",
-            "link": "https://www.guitaretab.com/",
-            "tags": []
+            "link": "https://guitardashboard.com/"
         },
         {
             "category": "video-and-movies",
@@ -1809,202 +1435,143 @@
         },
         {
             "category": "video-and-movies",
-            "name": "Internet Radio",
-            "icon": "internet-radio.ico",
-            "link": "https://www.internet-radio.com/",
-            "tags": []
-        },
-        {
-            "category": "video-and-movies",
             "name": "Jamendo Music",
             "icon": "jamendo-music.ico",
-            "link": "https://www.jamendo.com/start",
-            "tags": []
+            "link": "https://www.jamendo.com/start"
         },
         {
             "category": "video-and-movies",
             "name": "Jango",
-            "link": "https://www.jango.com/",
-            "tags": []
+            "link": "https://www.jango.com/"
         },
         {
             "category": "video-and-movies",
             "name": "JustWatch",
             "icon": "justwatch.ico",
-            "link": "https://www.justwatch.com/",
-            "tags": []
+            "link": "https://www.justwatch.com/"
         },
         {
             "category": "video-and-movies",
             "name": "Kick",
-            "link": "https://kick.com/",
-            "tags": []
+            "link": "https://kick.com/"
         },
         {
             "category": "video-and-movies",
             "name": "Kworb.net - All your music data needs in one place",
             "icon": "kworb-net.ico",
-            "link": "https://kworb.net/",
-            "tags": []
+            "link": "https://kworb.net/"
         },
         {
             "category": "video-and-movies",
             "name": "last.fm",
             "icon": "last-fm.ico",
-            "link": "https://last.fm/",
-            "tags": []
+            "link": "https://last.fm/"
         },
         {
             "category": "video-and-movies",
             "name": "LickLibrary - Online Guitar Lessons Library",
             "icon": "licklibrary-online-guitar.ico",
-            "link": "https://www.licklibrary.com/learn/lessons",
-            "tags": []
+            "link": "https://www.licklibrary.com/learn/lessons"
         },
         {
             "category": "video-and-movies",
             "name": "Mixcloud",
             "icon": "mixcloud.ico",
-            "link": "https://www.mixcloud.com/discover/",
-            "tags": []
+            "link": "https://www.mixcloud.com/discover/"
         },
         {
             "category": "video-and-movies",
             "name": "Musescore",
             "icon": "musescore.svg",
-            "link": "https://musescore.com/",
-            "tags": []
+            "link": "https://musescore.com/"
         },
         {
             "category": "video-and-movies",
             "name": "NicoVideo",
             "icon": "nicovideo.ico",
-            "link": "https://www.nicovideo.jp/",
-            "tags": []
+            "link": "https://www.nicovideo.jp/"
         },
         {
             "category": "video-and-movies",
             "name": "NOAA Ocean Exploration Video",
             "icon": "noaa-ocean-exploration-video.ico",
-            "link": "https://www.ncei.noaa.gov/access/ocean-exploration/video/",
-            "tags": []
+            "link": "https://www.ncei.noaa.gov/access/ocean-exploration/video/"
         },
         {
             "category": "video-and-movies",
             "name": "Odysee",
             "icon": "odysee.svg",
-            "link": "https://odysee.com/",
-            "tags": []
+            "link": "https://odysee.com/"
         },
         {
             "category": "video-and-movies",
             "name": "OK.ru",
             "icon": "ok-ru.svg",
-            "link": "https://ok.ru/video",
-            "tags": []
+            "link": "https://ok.ru/video"
         },
         {
             "category": "video-and-movies",
             "name": "Peertube",
             "icon": "peertube.png",
-            "link": "https://peertube.tv/",
-            "tags": []
-        },
-        {
-            "category": "video-and-movies",
-            "name": "Programación Atresplayer",
-            "icon": "programacion-atresplayer.ico",
-            "link": "https://www.atresplayer.com/programacion/",
-            "tags": []
-        },
-        {
-            "category": "video-and-movies",
-            "name": "Programación TV en EL PAÍS",
-            "icon": "programacion-tv-en-el-pais.png",
-            "link": "https://programacion-tv.elpais.com/",
-            "tags": []
+            "link": "https://peertube.tv/"
         },
         {
             "category": "video-and-movies",
             "name": "Qobuz",
             "icon": "qobuz.svg",
-            "link": "https://www.qobuz.com/us-en/shop",
-            "tags": []
+            "link": "https://www.qobuz.com/us-en/shop"
         },
         {
             "category": "video-and-movies",
             "name": "Radio Garden",
             "icon": "radio-garden.svg",
-            "link": "https://radio.garden/balloon-ride",
-            "tags": []
+            "link": "https://radio.garden/balloon-ride"
         },
         {
             "category": "video-and-movies",
             "name": "radio-browser.info",
-            "link": "https://www.radio-browser.info/map",
-            "tags": []
-        },
-        {
-            "category": "video-and-movies",
-            "name": "radio.net",
-            "icon": "radio-net.png",
-            "link": "https://www.radio.net/",
-            "tags": []
+            "link": "https://www.radio-browser.info/map"
         },
         {
             "category": "video-and-movies",
             "name": "Rokfin",
-            "link": "https://www.rokfin.com/",
-            "tags": []
+            "link": "https://www.rokfin.com/"
         },
         {
             "category": "video-and-movies",
             "name": "Rotten Tomatoes",
             "icon": "rotten-tomatoes.jpg",
-            "link": "https://www.rottentomatoes.com/",
-            "tags": []
+            "link": "https://www.rottentomatoes.com/"
         },
         {
             "category": "video-and-movies",
             "name": "Rumble",
             "icon": "rumble.ico",
-            "link": "https://rumble.com/",
-            "tags": []
+            "link": "https://rumble.com/"
         },
         {
             "category": "video-and-movies",
             "name": "Simkl",
             "icon": "simkl.ico",
-            "link": "https://simkl.com/",
-            "tags": []
-        },
-        {
-            "category": "video-and-movies",
-            "name": "SincroGuia TV",
-            "icon": "sincroguia-tv.ico",
-            "link": "https://sincroguia-tv.expansion.com/programacion-tv",
-            "tags": []
+            "link": "https://simkl.com/"
         },
         {
             "category": "video-and-movies",
             "name": "SkylineWebcams",
             "icon": "skylinewebcams.png",
-            "link": "https://www.skylinewebcams.com/",
-            "tags": []
+            "link": "https://www.skylinewebcams.com/"
         },
         {
             "category": "video-and-movies",
             "name": "Songsterr",
             "icon": "songsterr.svg",
-            "link": "https://www.songsterr.com/",
-            "tags": []
+            "link": "https://www.songsterr.com/"
         },
         {
             "category": "video-and-movies",
             "name": "Soundcloud",
             "icon": "soundcloud.ico",
-            "link": "https://soundcloud.com/charts/top",
-            "tags": []
+            "link": "https://soundcloud.com/charts/top"
         },
         {
             "category": "video-and-movies",
@@ -2020,22 +1587,19 @@
             "category": "video-and-movies",
             "name": "There's nothing to watch",
             "icon": "there-s-nothing-to-watch.svg",
-            "link": "https://nothing-to-watch.port80.ch/",
-            "tags": []
+            "link": "https://nothing-to-watch.port80.ch/"
         },
         {
             "category": "video-and-movies",
             "name": "TheTVDB",
             "icon": "thetvdb.png",
-            "link": "https://thetvdb.com/",
-            "tags": []
+            "link": "https://thetvdb.com/"
         },
         {
             "category": "video-and-movies",
             "name": "TMDB",
             "icon": "tmdb.ico",
-            "link": "https://www.themoviedb.org/",
-            "tags": []
+            "link": "https://www.themoviedb.org/"
         },
         {
             "category": "video-and-movies",
@@ -2049,22 +1613,13 @@
         {
             "category": "video-and-movies",
             "name": "TreesRadio",
-            "link": "https://treesradio.com/",
-            "tags": []
+            "link": "https://treesradio.com/"
         },
         {
             "category": "video-and-movies",
             "name": "TuneIn",
             "icon": "tunein.ico",
-            "link": "https://tunein.com/radio/home/",
-            "tags": []
-        },
-        {
-            "category": "video-and-movies",
-            "name": "TVguia.es",
-            "icon": "tvguia-es.ico",
-            "link": "https://www.tvguia.es/",
-            "tags": []
+            "link": "https://tunein.com/radio/home/"
         },
         {
             "category": "video-and-movies",
@@ -2078,29 +1633,19 @@
         {
             "category": "video-and-movies",
             "name": "Ultimate Guitar",
-            "link": "https://www.ultimate-guitar.com/",
-            "tags": []
+            "link": "https://www.ultimate-guitar.com/"
         },
         {
             "category": "video-and-movies",
             "name": "Vimeo",
             "icon": "vimeo.svg",
-            "link": "https://vimeo.com/watch",
-            "tags": []
+            "link": "https://vimeo.com/watch"
         },
         {
             "category": "video-and-movies",
             "name": "Windy: Webcams",
             "icon": "windy-webcams.ico",
-            "link": "https://www.windy.com/-Webcams/webcams?40.331,-3.758,5",
-            "tags": []
-        },
-        {
-            "category": "video-and-movies",
-            "name": "Yewtu.be",
-            "icon": "yewtu-be.svg",
-            "link": "https://yewtu.be/",
-            "tags": []
+            "link": "https://www.windy.com/-Webcams/webcams?40.331,-3.758,5"
         },
         {
             "category": "video-and-movies",
@@ -2116,36 +1661,25 @@
             "category": "video-and-movies",
             "name": "YouTube Music",
             "icon": "youtube-music.ico",
-            "link": "https://music.youtube.com/",
-            "tags": []
+            "link": "https://music.youtube.com/"
         },
         {
             "category": "video-and-movies",
             "name": "YT Invidious",
             "icon": "yt-invidious.ico",
-            "link": "https://redirect.invidious.io/",
-            "tags": []
-        },
-        {
-            "category": "video-and-movies",
-            "name": "YT Piped",
-            "icon": "yt-piped.ico",
-            "link": "https://piped.video/trending",
-            "tags": []
+            "link": "https://redirect.invidious.io/"
         },
         {
             "category": "office-and-productivity",
             "name": "Glassdoor",
             "icon": "glassdoor.png",
-            "link": "https://www.glassdoor.es/index.htm",
-            "tags": []
+            "link": "https://www.glassdoor.es/index.htm"
         },
         {
             "category": "office-and-productivity",
             "name": "Indeed",
             "icon": "indeed.ico",
-            "link": "https://indeed.com/",
-            "tags": []
+            "link": "https://indeed.com/"
         },
         {
             "category": "office-and-productivity",
@@ -2161,55 +1695,47 @@
             "category": "office-and-productivity",
             "name": "RecipeSage",
             "icon": "recipesage.svg",
-            "link": "https://recipesage.com/#/list/main",
-            "tags": []
+            "link": "https://recipesage.com/#/list/main"
         },
         {
             "category": "news-and-books",
             "name": "Amazon Kindle",
-            "link": "https://read.amazon.com/kindle-library",
-            "tags": []
+            "link": "https://read.amazon.com/kindle-library"
         },
         {
             "category": "news-and-books",
             "name": "arXiv.org e-Print archive",
             "icon": "arxiv-org.svg",
-            "link": "https://arxiv.org/",
-            "tags": []
+            "link": "https://arxiv.org/"
         },
         {
             "category": "news-and-books",
             "name": "Bookracy - Why Pay for Books?",
-            "link": "https://bookracy.ru/?q=",
-            "tags": []
+            "link": "https://bookracy.ru/?q="
         },
         {
             "category": "news-and-books",
             "name": "Data.gov Home - Data.gov",
             "icon": "data-gov-home-data-gov.ico",
-            "link": "https://data.gov/",
-            "tags": []
+            "link": "https://data.gov/"
         },
         {
             "category": "news-and-books",
             "name": "Directory of Open Access Journals – DOAJ",
             "icon": "directory-of-open-access-journals-doaj.svg",
-            "link": "https://doaj.org/",
-            "tags": []
+            "link": "https://doaj.org/"
         },
         {
             "category": "news-and-books",
             "name": "Europeana",
             "icon": "europeana.ico",
-            "link": "https://www.europeana.eu/es",
-            "tags": []
+            "link": "https://www.europeana.eu/es"
         },
         {
             "category": "news-and-books",
             "name": "Folo",
             "icon": "folo.svg",
-            "link": "https://app.folo.is/timeline/articles/all/pending",
-            "tags": []
+            "link": "https://app.folo.is/timeline/articles/all/pending"
         },
         {
             "category": "news-and-books",
@@ -2224,644 +1750,477 @@
             "category": "news-and-books",
             "name": "Google Play Books",
             "icon": "google-play-books.ico",
-            "link": "https://play.google.com/books",
-            "tags": []
+            "link": "https://play.google.com/books"
         },
         {
             "category": "news-and-books",
             "name": "Google Scholar",
             "icon": "google-scholar.ico",
-            "link": "https://scholar.google.com/",
-            "tags": []
+            "link": "https://scholar.google.com/"
         },
         {
             "category": "news-and-books",
             "name": "IEEE Xplore",
             "icon": "ieee-xplore.ico",
-            "link": "https://ieeexplore.ieee.org/",
-            "tags": []
+            "link": "https://ieeexplore.ieee.org/"
         },
         {
             "category": "news-and-books",
             "name": "Internet Archive",
             "icon": "internet-archive.ico",
-            "link": "https://archive.org/",
-            "tags": []
+            "link": "https://archive.org/"
         },
         {
             "category": "news-and-books",
             "name": "JSTOR Home",
             "icon": "jstor-home.ico",
-            "link": "https://www.jstor.org/",
-            "tags": []
+            "link": "https://www.jstor.org/"
         },
         {
             "category": "news-and-books",
             "name": "Library Genesis",
             "icon": "library-genesis.ico",
-            "link": "https://libgen.li/",
-            "tags": []
+            "link": "https://libgen.li/"
         },
         {
             "category": "news-and-books",
             "name": "My Anonamouse",
             "icon": "my-anonamouse.svg",
-            "link": "https://www.myanonamouse.net/login.php?returnto=%2F",
-            "tags": []
+            "link": "https://www.myanonamouse.net/login.php?returnto=%2F"
         },
         {
             "category": "news-and-books",
             "name": "Open Library - Internet Archive",
             "icon": "open-library-internet-archive.ico",
-            "link": "https://openlibrary.org/",
-            "tags": []
+            "link": "https://openlibrary.org/"
         },
         {
             "category": "news-and-books",
             "name": "Project Gutenberg",
             "icon": "project-gutenberg.png",
-            "link": "https://www.gutenberg.org/",
-            "tags": []
+            "link": "https://www.gutenberg.org/"
         },
         {
             "category": "news-and-books",
             "name": "PubMed",
             "icon": "pubmed.ico",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/",
-            "tags": []
+            "link": "https://pubmed.ncbi.nlm.nih.gov/"
         },
         {
             "category": "news-and-books",
             "name": "ScienceDirect.com",
-            "link": "https://www.sciencedirect.com/",
-            "tags": []
+            "link": "https://www.sciencedirect.com/"
         },
         {
             "category": "news-and-books",
             "name": "World Bank Open Data",
             "icon": "world-bank-open-data.ico",
-            "link": "https://data.worldbank.org/",
-            "tags": []
+            "link": "https://data.worldbank.org/"
         },
         {
             "category": "news-and-books",
             "name": "WorldCat",
             "icon": "worldcat.svg",
-            "link": "https://www.worldcat.org/",
-            "tags": []
+            "link": "https://www.worldcat.org/"
         },
         {
             "category": "news-and-books",
             "name": "Z-Library",
-            "link": "https://z-lib.gd/",
-            "tags": []
+            "link": "https://z-lib.gd/"
         },
         {
             "category": "business-and-commerce",
             "name": "7digital",
             "icon": "7digital.ico",
-            "link": "https://www.7digital.com/",
-            "tags": []
-        },
-        {
-            "category": "business-and-commerce",
-            "name": "Alcampo",
-            "icon": "alcampo.ico",
-            "link": "https://www.compraonline.alcampo.es/",
-            "tags": []
+            "link": "https://www.7digital.com/"
         },
         {
             "category": "business-and-commerce",
             "name": "Alibaba.com",
             "icon": "alibaba-com.ico",
-            "link": "https://www.alibaba.com/",
-            "tags": []
+            "link": "https://www.alibaba.com/"
         },
         {
             "category": "business-and-commerce",
             "name": "AliExpress",
             "icon": "aliexpress.svg",
-            "link": "https://es.aliexpress.com/",
-            "tags": []
+            "link": "https://es.aliexpress.com/"
         },
         {
             "category": "business-and-commerce",
             "name": "Amazon",
             "icon": "amazon.ico",
-            "link": "https://www.amazon.com/",
-            "tags": []
+            "link": "https://www.amazon.com/"
         },
         {
             "category": "business-and-commerce",
             "name": "Amazon price tracker - camelcamelcamel.com",
             "icon": "camelcamelcamel-com.ico",
-            "link": "https://es.camelcamelcamel.com/",
-            "tags": []
+            "link": "https://es.camelcamelcamel.com/"
         },
         {
             "category": "business-and-commerce",
             "name": "Apple App Store - Games",
             "icon": "apple-app-store-games.svg",
-            "link": "https://apps.apple.com/us/charts/ipad/action-games/7001",
-            "tags": []
+            "link": "https://apps.apple.com/us/charts/ipad/action-games/7001"
         },
         {
             "category": "business-and-commerce",
             "name": "ASOS",
-            "link": "https://www.asos.com/",
-            "tags": []
+            "link": "https://www.asos.com/"
         },
         {
             "category": "business-and-commerce",
             "name": "B&H Photo Video",
-            "link": "https://www.bhphotovideo.com/",
-            "tags": []
+            "link": "https://www.bhphotovideo.com/"
         },
         {
             "category": "business-and-commerce",
             "name": "Bandcamp",
             "icon": "bandcamp.svg",
-            "link": "https://bandcamp.com/",
-            "tags": []
+            "link": "https://bandcamp.com/"
         },
         {
             "category": "business-and-commerce",
             "name": "Beatport",
-            "link": "https://www.beatport.com/",
-            "tags": []
+            "link": "https://www.beatport.com/"
         },
         {
             "category": "business-and-commerce",
             "name": "Bleep",
             "icon": "bleep.png",
-            "link": "https://bleep.com/",
-            "tags": []
-        },
-        {
-            "category": "business-and-commerce",
-            "name": "Carrefour",
-            "link": "https://www.carrefour.es/",
-            "tags": [],
-            "icon": "carrefour.ico"
-        },
-        {
-            "category": "business-and-commerce",
-            "name": "Cash Converters Canarias",
-            "icon": "cash-converters-canarias.ico",
-            "link": "https://www.cashconverters.es/ic/es_ES/comprar/",
-            "tags": []
+            "link": "https://bleep.com/"
         },
         {
             "category": "business-and-commerce",
             "name": "CD Baby",
             "icon": "cd-baby.svg",
-            "link": "https://cdbaby.com/",
-            "tags": []
+            "link": "https://cdbaby.com/"
         },
         {
             "category": "business-and-commerce",
             "name": "CDKeys",
-            "link": "https://www.cdkeys.com/",
-            "tags": []
-        },
-        {
-            "category": "business-and-commerce",
-            "name": "Clixou",
-            "icon": "clixou.ico",
-            "link": "https://clixou.sellpass.io/",
-            "tags": []
+            "link": "https://www.cdkeys.com/"
         },
         {
             "category": "business-and-commerce",
             "name": "Decathlon",
             "icon": "decathlon.png",
-            "link": "https://www.decathlon.com/",
-            "tags": []
+            "link": "https://www.decathlon.com/"
         },
         {
             "category": "business-and-commerce",
             "name": "Discogs",
-            "link": "https://www.discogs.com/",
-            "tags": []
+            "link": "https://www.discogs.com/"
         },
         {
             "category": "business-and-commerce",
             "name": "DriveThruRPG",
-            "link": "https://www.drivethrurpg.com/en/",
-            "tags": []
+            "link": "https://www.drivethrurpg.com/en/"
         },
         {
             "category": "business-and-commerce",
             "name": "Drop",
             "icon": "drop.png",
-            "link": "https://drop.com/home",
-            "tags": []
+            "link": "https://drop.com/home"
         },
         {
             "category": "business-and-commerce",
             "name": "eBay",
             "icon": "ebay.ico",
-            "link": "https://www.ebay.com/",
-            "tags": []
-        },
-        {
-            "category": "business-and-commerce",
-            "name": "El Corte Inglés",
-            "link": "https://www.elcorteingles.es/",
-            "tags": []
+            "link": "https://www.ebay.com/"
         },
         {
             "category": "business-and-commerce",
             "name": "Eneba",
             "icon": "eneba.ico",
-            "link": "https://www.eneba.com/es/",
-            "tags": []
+            "link": "https://www.eneba.com/es/"
         },
         {
             "category": "business-and-commerce",
             "name": "Epic Games",
             "icon": "epic-games.ico",
-            "link": "https://store.epicgames.com/en-US/",
-            "tags": []
+            "link": "https://store.epicgames.com/en-US/"
         },
         {
             "category": "business-and-commerce",
             "name": "Epidemic Sound",
-            "link": "https://www.epidemicsound.com/",
-            "tags": []
+            "link": "https://www.epidemicsound.com/"
         },
         {
             "category": "business-and-commerce",
             "name": "Etsy Spain",
             "icon": "etsy-spain.png",
-            "link": "https://www.etsy.com/",
-            "tags": []
+            "link": "https://www.etsy.com/"
         },
         {
             "category": "business-and-commerce",
             "name": "Facebook Marketplace",
             "icon": "facebook-marketplace.ico",
-            "link": "https://www.facebook.com/marketplace/",
-            "tags": []
+            "link": "https://www.facebook.com/marketplace/"
         },
         {
             "category": "business-and-commerce",
             "name": "GOG.com",
             "icon": "gog-com.ico",
-            "link": "https://www.gog.com/en/",
-            "tags": []
+            "link": "https://www.gog.com/en/"
         },
         {
             "category": "business-and-commerce",
             "name": "Google Play - Games",
             "icon": "google-play-games.ico",
-            "link": "https://play.google.com/store/games?hl=en-us",
-            "tags": []
-        },
-        {
-            "category": "business-and-commerce",
-            "name": "Guanxe",
-            "link": "https://guanxe.com/es/",
-            "tags": []
+            "link": "https://play.google.com/store/games?hl=en-us"
         },
         {
             "category": "business-and-commerce",
             "name": "HDTracks",
             "icon": "hdtracks.ico",
-            "link": "https://www.hdtracks.com/",
-            "tags": []
+            "link": "https://www.hdtracks.com/"
         },
         {
             "category": "business-and-commerce",
             "name": "IKEA",
             "icon": "ikea.ico",
-            "link": "https://www.ikea.com/",
-            "tags": []
+            "link": "https://www.ikea.com/"
         },
         {
             "category": "business-and-commerce",
             "name": "Instant Gaming",
             "icon": "instant-gaming.png",
-            "link": "https://www.instant-gaming.com/en/pc/steam/bestsellers/",
-            "tags": []
+            "link": "https://www.instant-gaming.com/en/pc/steam/bestsellers/"
         },
         {
             "category": "business-and-commerce",
             "name": "Juno Download",
             "icon": "juno-download.ico",
-            "link": "https://www.junodownload.com/",
-            "tags": []
+            "link": "https://www.junodownload.com/"
         },
         {
             "category": "business-and-commerce",
             "name": "Kobo.com",
-            "link": "https://www.kobo.com/",
-            "tags": []
-        },
-        {
-            "category": "business-and-commerce",
-            "name": "Kohl's",
-            "link": "https://www.kohls.com/",
-            "tags": []
-        },
-        {
-            "category": "business-and-commerce",
-            "name": "Kroger",
-            "link": "https://www.kroger.com/",
-            "tags": []
+            "link": "https://www.kobo.com/"
         },
         {
             "category": "business-and-commerce",
             "name": "Leroy Merlin",
             "icon": "leroy-merlin.ico",
-            "link": "https://www.leroymerlin.es/",
-            "tags": []
+            "link": "https://www.leroymerlin.es/"
         },
         {
             "category": "business-and-commerce",
             "name": "Libro.fm",
             "icon": "libro-fm.svg",
-            "link": "https://www.libro.fm/",
-            "tags": []
+            "link": "https://www.libro.fm/"
         },
         {
             "category": "business-and-commerce",
             "name": "Lidl",
             "icon": "lidl.svg",
-            "link": "https://www.lidl.es/",
-            "tags": []
-        },
-        {
-            "category": "business-and-commerce",
-            "name": "Macy's",
-            "link": "https://www.macys.com/",
-            "tags": []
-        },
-        {
-            "category": "business-and-commerce",
-            "name": "MediaMarkt Canarias",
-            "icon": "mediamarkt-canarias.svg",
-            "link": "https://canarias.mediamarkt.es/",
-            "tags": []
+            "link": "https://www.lidl.es/"
         },
         {
             "category": "business-and-commerce",
             "name": "Mercado Libre",
             "icon": "mercado-libre.svg",
-            "link": "https://www.mercadolibre.com.ar/",
-            "tags": []
-        },
-        {
-            "category": "business-and-commerce",
-            "name": "Mercadona",
-            "icon": "mercadona.ico",
-            "link": "https://tienda.mercadona.es/",
-            "tags": []
+            "link": "https://www.mercadolibre.com.ar/"
         },
         {
             "category": "business-and-commerce",
             "name": "Microsoft Store - Games",
             "icon": "microsoft-store-games.ico",
-            "link": "https://apps.microsoft.com/games?hl=en-us&gl=US",
-            "tags": []
+            "link": "https://apps.microsoft.com/games?hl=en-us&gl=US"
         },
         {
             "category": "business-and-commerce",
             "name": "MILANUNCIOS",
             "icon": "milanuncios.png",
-            "link": "https://www.milanuncios.com/",
-            "tags": []
+            "link": "https://www.milanuncios.com/"
         },
         {
             "category": "business-and-commerce",
             "name": "Newegg",
             "icon": "newegg.ico",
-            "link": "https://www.newegg.com/",
-            "tags": []
-        },
-        {
-            "category": "business-and-commerce",
-            "name": "Nordstrom",
-            "icon": "nordstrom.ico",
-            "link": "https://www.nordstrom.com/",
-            "tags": []
+            "link": "https://www.newegg.com/"
         },
         {
             "category": "business-and-commerce",
             "name": "PcComponentes",
-            "link": "https://www.pccomponentes.com/",
-            "tags": []
+            "link": "https://www.pccomponentes.com/"
         },
         {
             "category": "business-and-commerce",
             "name": "RefurbMe - Compare refurbished Apple",
             "icon": "refurbme-compare-refurbished-apple.ico",
-            "link": "https://www.refurb.me/",
-            "tags": []
+            "link": "https://www.refurb.me/"
         },
         {
             "category": "business-and-commerce",
             "name": "REI: A Life Outdoors is a Life Well Lived",
-            "link": "https://www.rei.com/",
-            "tags": []
+            "link": "https://www.rei.com/"
         },
         {
             "category": "business-and-commerce",
             "name": "RTINGS - Reviews and Ratings",
             "icon": "rtings-reviews-and-ratings.ico",
-            "link": "https://www.rtings.com/",
-            "tags": []
+            "link": "https://www.rtings.com/"
         },
         {
             "category": "business-and-commerce",
             "name": "Running Warehouse Europe",
             "icon": "running-warehouse-europe.ico",
-            "link": "https://www.runningwarehouse.eu/?lang=es",
-            "tags": []
+            "link": "https://www.runningwarehouse.eu/?lang=es"
         },
         {
             "category": "business-and-commerce",
             "name": "RunRepeat",
             "icon": "runrepeat.svg",
-            "link": "https://runrepeat.com/",
-            "tags": []
+            "link": "https://runrepeat.com/"
         },
         {
             "category": "business-and-commerce",
             "name": "SHEIN",
             "icon": "shein.ico",
-            "link": "https://es.shein.com/",
-            "tags": []
+            "link": "https://es.shein.com/"
         },
         {
             "category": "business-and-commerce",
             "name": "Soundstripe",
             "icon": "soundstripe.svg",
-            "link": "https://www.soundstripe.com/",
-            "tags": []
+            "link": "https://www.soundstripe.com/"
         },
         {
             "category": "business-and-commerce",
             "name": "Splice",
             "icon": "splice.png",
-            "link": "https://splice.com/",
-            "tags": []
+            "link": "https://splice.com/"
         },
         {
             "category": "business-and-commerce",
             "name": "SteamDB",
             "icon": "steamdb.ico",
-            "link": "https://steamdb.info/",
-            "tags": []
+            "link": "https://steamdb.info/"
         },
         {
             "category": "business-and-commerce",
             "name": "Target",
             "icon": "target.png",
-            "link": "https://www.target.com/",
-            "tags": []
+            "link": "https://www.target.com/"
         },
         {
             "category": "business-and-commerce",
             "name": "Temu",
-            "link": "https://www.temu.com/",
-            "tags": []
-        },
-        {
-            "category": "business-and-commerce",
-            "name": "Tesco",
-            "link": "https://www.tesco.com/",
-            "tags": []
+            "link": "https://www.temu.com/"
         },
         {
             "category": "business-and-commerce",
             "name": "Thomann",
             "icon": "thomann.ico",
-            "link": "https://www.thomann.de/intl/index.html",
-            "tags": []
+            "link": "https://www.thomann.de/intl/index.html"
         },
         {
             "category": "business-and-commerce",
             "name": "Tokopedia",
             "icon": "tokopedia.ico",
-            "link": "https://www.tokopedia.com/",
-            "tags": []
+            "link": "https://www.tokopedia.com/"
         },
         {
             "category": "business-and-commerce",
             "name": "Traxsource",
             "icon": "traxsource.ico",
-            "link": "https://www.traxsource.com/",
-            "tags": []
+            "link": "https://www.traxsource.com/"
         },
         {
             "category": "business-and-commerce",
             "name": "trivago",
-            "link": "https://www.trivago.com/",
-            "tags": []
+            "link": "https://www.trivago.com/"
         },
         {
             "category": "business-and-commerce",
             "name": "Versus | Compare everything",
             "icon": "versus-compare-everything.ico",
-            "link": "https://versus.com/en",
-            "tags": []
+            "link": "https://versus.com/en"
         },
         {
             "category": "business-and-commerce",
             "name": "Vinted",
             "icon": "vinted.ico",
-            "link": "https://www.vinted.com/",
-            "tags": []
+            "link": "https://www.vinted.com/"
         },
         {
             "category": "business-and-commerce",
             "name": "Wallapop",
             "icon": "wallapop.png",
-            "link": "https://es.wallapop.com/",
-            "tags": []
+            "link": "https://es.wallapop.com/"
         },
         {
             "category": "business-and-commerce",
             "name": "Walmart",
             "icon": "walmart.svg",
-            "link": "https://www.walmart.com/",
-            "tags": []
+            "link": "https://www.walmart.com/"
         },
         {
             "category": "business-and-commerce",
             "name": "Worten",
             "icon": "worten.svg",
-            "link": "https://www.worten.es/",
-            "tags": []
+            "link": "https://www.worten.es/"
         },
         {
             "category": "business-and-commerce",
             "name": "Zalando",
-            "link": "https://www.zalando.es/",
-            "tags": []
+            "link": "https://www.zalando.es/"
         },
         {
             "category": "business-and-commerce",
             "name": "ZARA Spain",
-            "link": "https://www.zara.com/es/en/",
-            "tags": []
+            "link": "https://www.zara.com/es/en/"
         },
         {
             "category": "social-and-communications",
             "name": "4chan",
             "icon": "4chan.ico",
-            "link": "https://www.4chan.org/",
-            "tags": []
+            "link": "https://www.4chan.org/"
         },
         {
             "category": "social-and-communications",
             "name": "Bluesky",
             "icon": "bluesky.svg",
-            "link": "https://bsky.app/",
-            "tags": []
+            "link": "https://bsky.app/"
         },
         {
             "category": "social-and-communications",
             "name": "Disqus",
             "icon": "disqus.ico",
-            "link": "https://disqus.com/",
-            "tags": []
+            "link": "https://disqus.com/"
         },
         {
             "category": "social-and-communications",
             "name": "Element",
             "icon": "element.png",
-            "link": "https://element.io/",
-            "tags": []
+            "link": "https://element.io/"
         },
         {
             "category": "social-and-communications",
             "name": "Facebook",
             "icon": "facebook.ico",
-            "link": "https://www.facebook.com/",
-            "tags": []
+            "link": "https://www.facebook.com/"
         },
         {
             "category": "social-and-communications",
             "name": "fediverse.party",
             "icon": "fediverse-party.ico",
-            "link": "https://fediverse.party/",
-            "tags": []
+            "link": "https://fediverse.party/"
         },
         {
             "category": "social-and-communications",
             "name": "Flickr",
             "icon": "flickr.png",
-            "link": "https://www.flickr.com/",
-            "tags": []
+            "link": "https://www.flickr.com/"
         },
         {
             "category": "social-and-communications",
             "name": "Google Meet",
             "icon": "google-meet.png",
-            "link": "https://meet.google.com/landing",
-            "tags": []
+            "link": "https://meet.google.com/landing"
         },
         {
             "category": "social-and-communications",
@@ -2894,50 +2253,43 @@
             "category": "social-and-communications",
             "name": "Medium",
             "icon": "medium.ico",
-            "link": "https://medium.com/",
-            "tags": []
+            "link": "https://medium.com/"
         },
         {
             "category": "social-and-communications",
             "name": "Meetup",
             "icon": "meetup.ico",
-            "link": "https://www.meetup.com/",
-            "tags": []
+            "link": "https://www.meetup.com/"
         },
         {
             "category": "social-and-communications",
             "name": "Microsoft Teams",
             "icon": "microsoft-teams.ico",
-            "link": "https://www.microsoft.com/en-us/microsoft-teams/free",
-            "tags": []
+            "link": "https://www.microsoft.com/en-us/microsoft-teams/free"
         },
         {
             "category": "social-and-communications",
             "name": "Obsidian Forum",
             "icon": "obsidian-forum.png",
-            "link": "https://forum.obsidian.md/",
-            "tags": []
+            "link": "https://forum.obsidian.md/"
         },
         {
             "category": "social-and-communications",
             "name": "Pinterest",
             "icon": "pinterest.svg",
-            "link": "https://www.pinterest.com/",
-            "tags": []
+            "link": "https://www.pinterest.com/"
         },
         {
             "category": "social-and-communications",
             "name": "QQ",
             "icon": "qq.png",
-            "link": "https://im.qq.com/index/",
-            "tags": []
+            "link": "https://im.qq.com/index/"
         },
         {
             "category": "social-and-communications",
             "name": "Quora",
             "icon": "quora.ico",
-            "link": "https://es.quora.com/",
-            "tags": []
+            "link": "https://es.quora.com/"
         },
         {
             "category": "social-and-communications",
@@ -2952,29 +2304,25 @@
             "category": "social-and-communications",
             "name": "Stackoverflow",
             "icon": "stackoverflow.svg",
-            "link": "https://stackoverflow.com/",
-            "tags": []
+            "link": "https://stackoverflow.com/"
         },
         {
             "category": "social-and-communications",
             "name": "Substack",
             "icon": "substack.svg",
-            "link": "https://substack.com/",
-            "tags": []
+            "link": "https://substack.com/"
         },
         {
             "category": "social-and-communications",
             "name": "Telegram web",
             "icon": "telegram-web.svg",
-            "link": "https://web.telegram.org/a/",
-            "tags": []
+            "link": "https://web.telegram.org/a/"
         },
         {
             "category": "social-and-communications",
             "name": "Threads",
             "icon": "threads.svg",
-            "link": "https://www.threads.com/",
-            "tags": []
+            "link": "https://www.threads.com/"
         },
         {
             "category": "social-and-communications",
@@ -2989,57 +2337,49 @@
             "category": "social-and-communications",
             "name": "Tumblr",
             "icon": "tumblr.svg",
-            "link": "https://www.tumblr.com/",
-            "tags": []
+            "link": "https://www.tumblr.com/"
         },
         {
             "category": "social-and-communications",
             "name": "VK",
             "icon": "vk.png",
-            "link": "https://vk.com/",
-            "tags": []
+            "link": "https://vk.com/"
         },
         {
             "category": "social-and-communications",
             "name": "WeChat",
             "icon": "wechat.svg",
-            "link": "https://www.wechat.com/",
-            "tags": []
+            "link": "https://www.wechat.com/"
         },
         {
             "category": "social-and-communications",
             "name": "Wire",
             "icon": "wire.png",
-            "link": "https://wire.com/en/",
-            "tags": []
+            "link": "https://wire.com/en/"
         },
         {
             "category": "social-and-communications",
             "name": "XDA developers Forum",
             "icon": "xda-developers-forum.ico",
-            "link": "https://forum.xda-developers.com/",
-            "tags": []
+            "link": "https://forum.xda-developers.com/"
         },
         {
             "category": "video-and-movies",
             "name": "AnimeFLV",
             "icon": "animeflv.ico",
-            "link": "https://www3.animeflv.net/",
-            "tags": []
+            "link": "https://www3.animeflv.net/"
         },
         {
             "category": "video-and-movies",
             "name": "Apple TV+",
             "icon": "apple-tv.png",
-            "link": "https://tv.apple.com/",
-            "tags": []
+            "link": "https://tv.apple.com/"
         },
         {
             "category": "video-and-movies",
             "name": "Cinemaos",
             "icon": "cinemaos.svg",
-            "link": "https://cinemaos.tech/",
-            "tags": []
+            "link": "https://cinemaos.tech/"
         },
         {
             "category": "video-and-movies",
@@ -3072,8 +2412,7 @@
             "category": "video-and-movies",
             "name": "Filmin",
             "icon": "filmin.png",
-            "link": "https://www.filmin.es/",
-            "tags": []
+            "link": "https://www.filmin.es/"
         },
         {
             "category": "video-and-movies",
@@ -3087,27 +2426,23 @@
         {
             "category": "video-and-movies",
             "name": "HydraHD",
-            "link": "https://hydrahd.com/",
-            "tags": []
+            "link": "https://hydrahd.com/"
         },
         {
             "category": "video-and-movies",
             "name": "jest.one TV",
-            "link": "https://tv.jest.one/",
-            "tags": []
+            "link": "https://tv.jest.one/"
         },
         {
             "category": "video-and-movies",
             "name": "Movistar+",
             "icon": "movistar.svg",
-            "link": "https://www.movistarplus.es/",
-            "tags": []
+            "link": "https://www.movistarplus.es/"
         },
         {
             "category": "video-and-movies",
             "name": "Neko-sama",
-            "link": "https://www.neko-sama.org/",
-            "tags": []
+            "link": "https://www.neko-sama.org/"
         },
         {
             "category": "video-and-movies",
@@ -3121,22 +2456,19 @@
         {
             "category": "video-and-movies",
             "name": "NVB Steam",
-            "link": "https://ntvstream.cx/",
-            "tags": []
+            "link": "https://ntvstream.cx/"
         },
         {
             "category": "video-and-movies",
             "name": "Paramount+",
             "icon": "paramount.ico",
-            "link": "https://www.paramountplus.com/intl/",
-            "tags": []
+            "link": "https://www.paramountplus.com/intl/"
         },
         {
             "category": "video-and-movies",
             "name": "Plex TV",
             "icon": "plex-tv.ico",
-            "link": "https://watch.plex.tv/",
-            "tags": []
+            "link": "https://watch.plex.tv/"
         },
         {
             "category": "video-and-movies",
@@ -3158,101 +2490,63 @@
         },
         {
             "category": "video-and-movies",
-            "name": "Pstream",
-            "icon": "pstream.svg",
-            "link": "https://pstream.net/",
-            "tags": []
-        },
-        {
-            "category": "video-and-movies",
             "name": "Rakuten TV",
             "icon": "rakuten-tv.ico",
-            "link": "https://www.rakuten.tv/es",
-            "tags": []
+            "link": "https://www.rakuten.tv/es"
         },
         {
             "category": "video-and-movies",
             "name": "RgShows",
             "icon": "rgshows.png",
-            "link": "https://www.1tube.org/",
-            "tags": []
+            "link": "https://www.1tube.org/"
         },
         {
             "category": "video-and-movies",
             "name": "RTVE Play",
             "icon": "rtve-play.ico",
-            "link": "https://www.rtve.es/play/",
-            "tags": []
-        },
-        {
-            "category": "video-and-movies",
-            "name": "SkyShowtime",
-            "icon": "skyshowtime.ico",
-            "link": "https://www.skyshowtime.com/es",
-            "tags": []
-        },
-        {
-            "category": "video-and-movies",
-            "name": "StreamSports99",
-            "icon": "streamsports99.ico",
-            "link": "https://streamsports99.su/",
-            "tags": []
+            "link": "https://www.rtve.es/play/"
         },
         {
             "category": "video-and-movies",
             "name": "Stremio Web",
             "icon": "stremio.svg",
-            "link": "https://web.stremio.com/",
-            "tags": []
-        },
-        {
-            "category": "video-and-movies",
-            "name": "Teleonline",
-            "icon": "teleonline.svg",
-            "link": "https://teleonline.org/",
-            "tags": []
+            "link": "https://web.stremio.com/"
         },
         {
             "category": "video-and-movies",
             "name": "The Archive",
             "icon": "the-archive.ico",
-            "link": "https://www.thearchive.tv/",
-            "tags": []
+            "link": "https://www.thearchive.tv/"
         },
         {
             "category": "video-and-movies",
             "name": "Tubi",
             "icon": "tubi.ico",
-            "link": "https://gdpr.tubi.tv/",
-            "tags": []
+            "link": "https://gdpr.tubi.tv/"
         },
         {
             "category": "video-and-movies",
             "name": "TV Multiview",
             "icon": "tv-multiview.svg",
-            "link": "https://interneto.github.io/tv-multiview/",
-            "tags": []
+            "link": "https://interneto.github.io/tv-multiview/"
         },
         {
             "category": "video-and-movies",
             "name": "Watch Footy",
             "icon": "watch-footy.ico",
-            "link": "https://www.watchfooty.st/en",
-            "tags": []
+            "link": "https://www.watchfooty.st/en"
         },
         {
             "category": "video-and-movies",
             "name": "XPrime",
             "icon": "xprime.ico",
-            "link": "https://xprime.su/",
-            "tags": []
+            "link": "https://xprime.su/"
         },
         {
             "category": "video-and-movies",
             "name": "Zoro.to - Anime online",
             "icon": "zoro-to-anime-online.webp",
-            "link": "https://www.zoroto.se/",
-            "tags": []
+            "link": "https://www.zoroto.se/"
         },
         {
             "category": "travel-and-location",
@@ -3262,6 +2556,97 @@
             "tags": [
                 "mobile"
             ]
+        },
+        {
+            "category": "gaming",
+            "name": "Steam",
+            "link": "https://store.steampowered.com/",
+            "tags": [
+                "desktop",
+                "mobile"
+            ]
+        },
+        {
+            "category": "gaming",
+            "name": "Chess.com",
+            "link": "https://www.chess.com/",
+            "tags": [
+                "desktop",
+                "mobile"
+            ]
+        },
+        {
+            "category": "office-and-productivity",
+            "name": "Trello",
+            "link": "https://trello.com/",
+            "tags": [
+                "desktop",
+                "mobile"
+            ]
+        },
+        {
+            "category": "office-and-productivity",
+            "name": "Todoist",
+            "link": "https://todoist.com/",
+            "tags": [
+                "desktop",
+                "mobile"
+            ]
+        },
+        {
+            "category": "office-and-productivity",
+            "name": "Google Calendar",
+            "link": "https://calendar.google.com/",
+            "tags": [
+                "mobile"
+            ]
+        },
+        {
+            "category": "ai-tools-and-services",
+            "name": "Perplexity",
+            "link": "https://www.perplexity.ai/",
+            "tags": [
+                "desktop",
+                "mobile"
+            ]
+        },
+        {
+            "category": "social-and-communications",
+            "name": "WhatsApp Web",
+            "link": "https://web.whatsapp.com/",
+            "tags": [
+                "desktop",
+                "mobile"
+            ]
+        },
+        {
+            "category": "development",
+            "name": "npm",
+            "link": "https://www.npmjs.com/"
+        },
+        {
+            "category": "development",
+            "name": "PyPI",
+            "link": "https://pypi.org/"
+        },
+        {
+            "category": "photos-and-graphics",
+            "name": "Behance",
+            "link": "https://www.behance.net/",
+            "tags": [
+                "mobile"
+            ]
+        },
+        {
+            "category": "travel-and-location",
+            "name": "Google Flights",
+            "link": "https://www.google.com/travel/flights"
+        },
+        {
+            "category": "video-and-movies",
+            "name": "Zstream",
+            "icon": "pstream.svg",
+            "link": "https://zstream.mov/"
         }
     ]
 }

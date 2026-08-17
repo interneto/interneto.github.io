@@ -1,10 +1,10 @@
 #!/usr/bin/env node
-// Downloads favicons for entries in public/pkgs/web-directory.json into
+// Downloads favicons for entries in public/pkgs/app-directory.json into
 // public/img/software/webs/{slug}.{ext}. Preference: svg > ico > png > webp.
 // Only processes entries whose icon is the no.svg placeholder or an external URL —
 // curated SVGs in /img/software/apps/ are left untouched.
 //
-// Updates web-directory.json icon paths in place for successful downloads.
+// Updates app-directory.json icon paths in place for successful downloads.
 //
 // Run with:  node scripts/download-web-favicons.mjs [--limit N] [--retry]
 
@@ -14,7 +14,7 @@ import { fileURLToPath } from 'node:url';
 
 const here = dirname(fileURLToPath(import.meta.url));
 const root = resolve(here, '..');
-const dirPath = resolve(root, 'public/pkgs/web-directory.json');
+const dirPath = resolve(root, 'public/pkgs/app-directory.json');
 const outDir = resolve(root, 'public/img/software/webs');
 if (!existsSync(outDir)) mkdirSync(outDir, { recursive: true });
 
