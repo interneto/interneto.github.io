@@ -4,15 +4,19 @@
       "name": "Filesystem MCP",
       "type": "MCP Server",
       "category": "Core",
-      "description": "filesystem stdio server via npx",
+      "description": "filesystem stdio MCP server",
       "agent_compat": {
         "claude": true,
-        "codex": false
+        "codex": true
       },
       "installs": [
         {
           "agent": "claude",
           "cmd": "npx -y @modelcontextprotocol/server-filesystem ."
+        },
+        {
+          "agent": "codex",
+          "cmd": "codex mcp add filesystem -- npx -y @modelcontextprotocol/server-filesystem ."
         }
       ],
       "url": ""
@@ -21,7 +25,7 @@
       "name": "Github MCP",
       "type": "MCP Server",
       "category": "Development",
-      "description": "https://api.githubcopilot.com/mcp/",
+      "description": "Remote HTTP MCP: https://api.githubcopilot.com/mcp/",
       "agent_compat": {
         "claude": true,
         "codex": true
@@ -30,6 +34,10 @@
         {
           "agent": "claude",
           "cmd": "claude mcp add --transport http github https://api.githubcopilot.com/mcp/"
+        },
+        {
+          "agent": "codex",
+          "cmd": "codex mcp add github --url https://api.githubcopilot.com/mcp/ --bearer-token-env-var GITHUB_PAT_TOKEN"
         }
       ],
       "url": "https://api.githubcopilot.com/mcp/"
@@ -38,7 +46,7 @@
       "name": "Raindrop MCP",
       "type": "MCP Server",
       "category": "Bookmarks",
-      "description": "https://api.raindrop.io/rest/v2/ai/mcp",
+      "description": "Remote HTTP MCP: https://api.raindrop.io/rest/v2/ai/mcp",
       "agent_compat": {
         "claude": true,
         "codex": true
@@ -47,6 +55,10 @@
         {
           "agent": "claude",
           "cmd": "claude mcp add --transport http raindrop https://api.raindrop.io/rest/v2/ai/mcp"
+        },
+        {
+          "agent": "codex",
+          "cmd": "codex mcp add raindrop --url https://api.raindrop.io/rest/v2/ai/mcp"
         }
       ],
       "url": "https://api.raindrop.io/rest/v2/ai/mcp"
@@ -55,7 +67,7 @@
       "name": "Hyperframes MCP",
       "type": "MCP Server",
       "category": "Creative",
-      "description": "https://hyperframes.heygen.com",
+      "description": "Remote HTTP MCP: https://hyperframes.heygen.com",
       "agent_compat": {
         "claude": true,
         "codex": true
@@ -64,6 +76,10 @@
         {
           "agent": "claude",
           "cmd": "claude mcp add --transport http hyperframes https://hyperframes.heygen.com"
+        },
+        {
+          "agent": "codex",
+          "cmd": "codex mcp add hyperframes --url https://hyperframes.heygen.com"
         }
       ],
       "url": "https://hyperframes.heygen.com"
@@ -72,15 +88,19 @@
       "name": "Dashboard icons MCP",
       "type": "MCP Server",
       "category": "Design",
-      "description": "dashboard-icons stdio server via npx",
+      "description": "dashboard-icons stdio MCP server",
       "agent_compat": {
         "claude": true,
-        "codex": false
+        "codex": true
       },
       "installs": [
         {
           "agent": "claude",
           "cmd": "npx -y mcp-remote https://dashboardicons.com/api/mcp"
+        },
+        {
+          "agent": "codex",
+          "cmd": "codex mcp add dashboard-icons -- npx -y mcp-remote https://dashboardicons.com/api/mcp"
         }
       ],
       "url": ""
@@ -233,7 +253,7 @@
       "name": "build-web-apps",
       "type": "Plugin/Skill",
       "category": "Plugin/Agent",
-      "description": "",
+      "description": "build-web-apps",
       "agent_compat": {
         "claude": false,
         "codex": true
@@ -250,7 +270,7 @@
       "name": "canva",
       "type": "Plugin/Skill",
       "category": "Services",
-      "description": "",
+      "description": "canva",
       "agent_compat": {
         "claude": false,
         "codex": true
@@ -267,7 +287,7 @@
       "name": "caveman",
       "type": "Plugin/Skill",
       "category": "Plugin/Agent",
-      "description": "",
+      "description": "caveman",
       "agent_compat": {
         "claude": true,
         "codex": true
@@ -305,7 +325,7 @@
       "name": "claude-plugins-official",
       "type": "Plugin/Skill",
       "category": "Plugin/Agent",
-      "description": "",
+      "description": "claude-plugins-official",
       "agent_compat": {
         "claude": true,
         "codex": false
@@ -343,7 +363,7 @@
       "name": "code-simplifier",
       "type": "Plugin/Skill",
       "category": "Development",
-      "description": "",
+      "description": "code-simplifier",
       "agent_compat": {
         "claude": true,
         "codex": false
@@ -377,7 +397,7 @@
       "name": "codex",
       "type": "Plugin/Skill",
       "category": "Development",
-      "description": "",
+      "description": "codex",
       "agent_compat": {
         "claude": true,
         "codex": false
@@ -656,7 +676,7 @@
       "name": "frontend-design",
       "type": "Plugin/Skill",
       "category": "Creative",
-      "description": "",
+      "description": "frontend-design",
       "agent_compat": {
         "claude": true,
         "codex": false
@@ -711,7 +731,7 @@
       "name": "higgsfield-ai/skills",
       "type": "Plugin/Skill",
       "category": "Plugin/Agent",
-      "description": "",
+      "description": "higgsfield-ai/skills",
       "agent_compat": {
         "claude": false,
         "codex": true
@@ -855,7 +875,7 @@
       "name": "obsidian",
       "type": "Plugin/Skill",
       "category": "Productivity",
-      "description": "",
+      "description": "obsidian",
       "agent_compat": {
         "claude": true,
         "codex": false
@@ -927,7 +947,7 @@
       "name": "ponytail",
       "type": "Plugin/Skill",
       "category": "Plugin/Agent",
-      "description": "",
+      "description": "ponytail",
       "agent_compat": {
         "claude": true,
         "codex": true
@@ -1101,7 +1121,7 @@
       "name": "superpowers",
       "type": "Plugin/Skill",
       "category": "Plugin/Agent",
-      "description": "",
+      "description": "superpowers",
       "agent_compat": {
         "claude": true,
         "codex": false
