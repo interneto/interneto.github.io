@@ -46,15 +46,16 @@ function getCatEmoji(cat: string): string {
     return m[cat] || '📦';
 }
 
-function renderLabel(id: string, agent: typeof allAgents[0], favSet: Set<string>): string {
+function renderLabel(id: string, agent: typeof allAgents[0], favSet: Set<string>, available: boolean): string {
     const isFav = favSet.has(id);
     const isMcp = agent.type === 'MCP Server';
     const icon = isMcp ? '🔌' : '🧩';
     const tag = isMcp ? 'MCP' : 'Plugin';
     const tagCls = isMcp ? 'mcp' : 'plugin';
+    const labelCls = available ? 'pkg-label' : `pkg-label ${CLASS_NAMES.DISTRO_HIDDEN}`;
     return `
-    <label class="pkg-label" data-id="${id}" data-search="${esc((agent.name + ' ' + agent.category + ' ' + tag).toLowerCase())}">
-        <input type="checkbox" name="pkg" value="${id}" class="${CLASS_NAMES.PACKAGE_CHECKBOX}" ${isFav ? 'checked' : ''}>
+    <label class="${labelCls}" data-id="${id}" data-search="${esc((agent.name + ' ' + agent.category + ' ' + tag).toLowerCase())}">
+        <input type="checkbox" name="pkg" value="${id}" class="${CLASS_NAMES.PACKAGE_CHECKBOX}" ${isFav && available ? 'checked' : ''} ${available ? '' : 'disabled'}>
         <span class="pkg-icon-wrap">${icon}</span>
         <span class="pkg-name-label">${esc(agent.name)}</span>
         <span class="pkg-type-tag ${tagCls}">${tag}</span>
@@ -72,7 +73,7 @@ function generatePackages(): void {
         Array.from(document.querySelectorAll<HTMLInputElement>('input[name="pkg"]:checked')).map(c => c.value)
     );
 
-    let items = allAgents.filter(a => a.agent_compat?.[activeAgent]);
+    let items = allAgents.slice();
     if (activeFilter === 'mcp') items = items.filter(a => a.type === 'MCP Server');
     else if (activeFilter === 'plugin') items = items.filter(a => a.type !== 'MCP Server');
     if (searchTerm) {
@@ -101,15 +102,15 @@ function generatePackages(): void {
                 <span class="${CLASS_NAMES.CATEGORY_BADGE}">${agents.length}</span>
             </div>
             <div class="${CLASS_NAMES.CATEGORY_CONTENT}">
-                ${agents.map(a => renderLabel(a.id, a, favSet)).join('')}
+                ${agents.map(a => renderLabel(a.id, a, favSet, !!a.agent_compat?.[activeAgent])).join('')}
             </div>
         </div>`;
     }
     container.innerHTML = html || '<p class="no-results" style="text-align:center;padding:2rem;color:var(--text-secondary);">No agents match your filters.</p>';
 
-    // Restore checked state
+    // Restore checked state (skip items disabled for the active agent)
     document.querySelectorAll<HTMLInputElement>('input[name="pkg"]').forEach(c => {
-        if (checkedIds.has(c.value)) c.checked = true;
+        if (checkedIds.has(c.value) && !c.disabled) c.checked = true;
     });
 
     setupCategoryCheckboxes();
@@ -181,7 +182,7 @@ function setupCategoryCheckboxes(): void {
         nc.addEventListener('click', (e) => {
             e.stopPropagation();
             const cat = nc.dataset.category;
-            document.querySelectorAll<HTMLLabelElement>('label.pkg-label:not(.' + CLASS_NAMES.SEARCH_HIDDEN + ')').forEach(l => {
+            document.querySelectorAll<HTMLLabelElement>('label.pkg-label:not(.' + CLASS_NAMES.SEARCH_HIDDEN + '):not(.' + CLASS_NAMES.DISTRO_HIDDEN + ')').forEach(l => {
                 const p = l.closest('.' + CLASS_NAMES.CATEGORY);
                 if (p) {
                     const cc = p.querySelector<HTMLInputElement>('.' + CLASS_NAMES.CATEGORY_CHECKBOX);
@@ -211,7 +212,7 @@ function updateCategoryCheckbox(category?: string): void {
     if (!cb) return;
     const catEl = cb.closest('.' + CLASS_NAMES.CATEGORY);
     if (!catEl) return;
-    const cbs = catEl.querySelectorAll<HTMLInputElement>('label.pkg-label:not(.' + CLASS_NAMES.SEARCH_HIDDEN + ') input.' + CLASS_NAMES.PACKAGE_CHECKBOX);
+    const cbs = catEl.querySelectorAll<HTMLInputElement>('label.pkg-label:not(.' + CLASS_NAMES.SEARCH_HIDDEN + '):not(.' + CLASS_NAMES.DISTRO_HIDDEN + ') input.' + CLASS_NAMES.PACKAGE_CHECKBOX);
     const ch = Array.from(cbs).filter(c => c.checked);
     if (ch.length === 0) { cb.checked = false; cb.indeterminate = false; }
     else if (ch.length === cbs.length) { cb.checked = true; cb.indeterminate = false; }
@@ -226,7 +227,7 @@ function updateSelectAllState(): void {
     const sa = getElement('SELECT_ALL_CHECKBOX') as HTMLInputElement | null;
     const lb = getElement('SELECT_ALL_LABEL');
     if (!sa || !lb) return;
-    const vis = document.querySelectorAll<HTMLInputElement>('label.pkg-label:not(.' + CLASS_NAMES.SEARCH_HIDDEN + ') input.' + CLASS_NAMES.PACKAGE_CHECKBOX);
+    const vis = document.querySelectorAll<HTMLInputElement>('label.pkg-label:not(.' + CLASS_NAMES.SEARCH_HIDDEN + '):not(.' + CLASS_NAMES.DISTRO_HIDDEN + ') input.' + CLASS_NAMES.PACKAGE_CHECKBOX);
     const ch = Array.from(vis).filter(c => c.checked);
     if (ch.length === 0) { sa.indeterminate = false; sa.checked = false; lb.textContent = 'Select'; }
     else if (ch.length === vis.length) { sa.indeterminate = false; sa.checked = true; lb.textContent = 'Deselect'; }
@@ -284,7 +285,7 @@ function setupSelectAllCheckbox(): void {
     const sa = getElement('SELECT_ALL_CHECKBOX') as HTMLInputElement | null;
     if (!sa) return;
     sa.addEventListener('change', () => {
-        document.querySelectorAll<HTMLInputElement>('label.pkg-label:not(.' + CLASS_NAMES.SEARCH_HIDDEN + ') input.' + CLASS_NAMES.PACKAGE_CHECKBOX).forEach(c => c.checked = sa.checked);
+        document.querySelectorAll<HTMLInputElement>('label.pkg-label:not(.' + CLASS_NAMES.SEARCH_HIDDEN + '):not(.' + CLASS_NAMES.DISTRO_HIDDEN + ') input.' + CLASS_NAMES.PACKAGE_CHECKBOX).forEach(c => c.checked = sa.checked);
         updateAllCategoryCheckboxes();
         updateSelectAllState();
         autoGenerateCommand();
