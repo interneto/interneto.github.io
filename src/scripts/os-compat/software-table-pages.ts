@@ -364,7 +364,7 @@ function initializePage() {
     const config = PAGE_CONFIGS[pageType];
     if (!config) return;
 
-    const searchInput = document.getElementById('searchInput') as HTMLInputElement | null;
+    const searchInput = document.getElementById('compatSearchInput') as HTMLInputElement | null;
     const state: {
         items: TableItem[];
         filteredItems: TableItem[];

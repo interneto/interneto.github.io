@@ -12,6 +12,7 @@ export interface Props {
   showFilterChips?: boolean;
   filterAriaLabel?: string;
   pageNote?: string;
+  bare?: boolean;
 }
 
 const {
@@ -25,6 +26,7 @@ const {
   showFilterChips = false,
   filterAriaLabel = 'Filter options',
   pageNote,
+  bare = false,
 } = Astro.props;
 ---
 
@@ -36,6 +38,7 @@ const {
   installerLabel={installerLabel}
   searchPlaceholder={searchPlaceholder}
   extraStyles={extraStyles}
+  bare={bare}
 >
   {(showFilterChips || Astro.slots.has('controls')) && (
     <div slot="controls" class="page-controls-inline">

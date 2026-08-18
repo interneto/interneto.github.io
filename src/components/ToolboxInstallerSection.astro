@@ -25,6 +25,7 @@ export interface Props {
   formId?: string;
   commandLabel?: string;
   commandInitialText?: string;
+  bare?: boolean;
 }
 
 const {
@@ -44,6 +45,7 @@ const {
   formId,
   commandLabel,
   commandInitialText,
+  bare = false,
 } = Astro.props;
 ---
 
@@ -51,6 +53,7 @@ const {
   title={title}
   heading={heading}
   extraStyles={extraStyles}
+  bare={bare}
 >
   <section class="package-section installer-page-section">
     {useForm ? (

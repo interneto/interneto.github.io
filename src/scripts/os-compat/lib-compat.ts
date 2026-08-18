@@ -78,7 +78,7 @@ function buildTable() {
 }
 
 function applySearchFilter() {
-    const input = document.getElementById('searchInput') as HTMLInputElement | null;
+    const input = document.getElementById('compatSearchInput') as HTMLInputElement | null;
     if (!input) return;
     const q = input.value.toLowerCase();
     document.querySelectorAll('#tableBody tr').forEach(row => {
@@ -87,7 +87,7 @@ function applySearchFilter() {
 }
 
 function setupSearch() {
-    const input = document.getElementById('searchInput');
+    const input = document.getElementById('compatSearchInput');
     if (!input) return;
     input.addEventListener('input', applySearchFilter);
 }

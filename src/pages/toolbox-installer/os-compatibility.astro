@@ -166,7 +166,7 @@ const FAMILY_LABEL: Record<OsRow['family'], string> = {
 
 <script>
   const table = document.getElementById('osCompatTable');
-  const search = document.getElementById('searchInput');
+  const search = document.getElementById('compatSearchInput');
   const filterGroup = document.getElementById('osFossFilter');
   if (table instanceof HTMLTableElement) {
     const rows = Array.from(table.querySelectorAll('tbody tr')) as HTMLTableRowElement[];

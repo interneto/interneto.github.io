@@ -85,7 +85,7 @@ export const OS_COMPAT_CONSTANTS = {
     },
     ELEMENT_IDS: {
         TABLE_BODY: 'tableBody',
-        SEARCH_INPUT: 'searchInput',
+        SEARCH_INPUT: 'compatSearchInput',
         CLEAR_SEARCH: 'clearSearch',
         RESET_FILTERS: 'resetFilters',
         EXPORT_BTN: 'exportBtn',

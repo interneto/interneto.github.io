@@ -202,7 +202,7 @@ function setupFiltering(): void {
 }
 
 function setupSearch(): void {
-    const input = document.getElementById('searchInput') as HTMLInputElement | null;
+    const input = document.getElementById('compatSearchInput') as HTMLInputElement | null;
     if (!input) return;
     let timer: ReturnType<typeof setTimeout>;
     input.addEventListener('input', () => {
