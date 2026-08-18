@@ -7,7 +7,6 @@
  */
 
 import { initConfigData } from '../shared/data-loader';
-import { initFavoritesData, getFavoritesForCurrentPage } from '../shared/favorites-store';
 import { CLASS_NAMES, EVENT_NAMES } from '../shared/dom-constants';
 import { getElement, onDOMReady } from '../shared/dom-utils';
 
@@ -26,7 +25,6 @@ let allAgents: Array<{ id: string } & AgentEntry> = [];
 let activeAgent: 'claude' | 'codex' | 'copilot' | 'npx' = 'claude';
 let activeFilter: 'all' | 'mcp' | 'plugin' = 'all';
 let searchTerm = '';
-let favorites: string[] = [];
 let checkedIds: Set<string> = new Set();
 
 async function loadData(): Promise<void> {
@@ -46,8 +44,7 @@ function getCatEmoji(cat: string): string {
     return m[cat] || '📦';
 }
 
-function renderLabel(id: string, agent: typeof allAgents[0], favSet: Set<string>, available: boolean): string {
-    const isFav = favSet.has(id);
+function renderLabel(id: string, agent: typeof allAgents[0], available: boolean): string {
     const isMcp = agent.type === 'MCP Server';
     const icon = isMcp ? '🔌' : '🧩';
     const tag = isMcp ? 'MCP' : 'Plugin';
@@ -55,7 +52,7 @@ function renderLabel(id: string, agent: typeof allAgents[0], favSet: Set<string>
     const labelCls = available ? 'pkg-label' : `pkg-label ${CLASS_NAMES.DISTRO_HIDDEN}`;
     return `
     <label class="${labelCls}" data-id="${id}" data-search="${esc((agent.name + ' ' + agent.category + ' ' + tag).toLowerCase())}">
-        <input type="checkbox" name="pkg" value="${id}" class="${CLASS_NAMES.PACKAGE_CHECKBOX}" ${isFav && available ? 'checked' : ''} ${available ? '' : 'disabled'}>
+        <input type="checkbox" name="pkg" value="${id}" class="${CLASS_NAMES.PACKAGE_CHECKBOX}" ${available ? '' : 'disabled'}>
         <span class="pkg-icon-wrap">${icon}</span>
         <span class="pkg-name-label">${esc(agent.name)}</span>
         <span class="pkg-type-tag ${tagCls}">${tag}</span>
@@ -88,7 +85,6 @@ function generatePackages(): void {
         grouped[cat].push(a);
     }
     const sortedCats = Object.keys(grouped).sort((a, b) => a.toLowerCase().localeCompare(b.toLowerCase()));
-    const favSet = new Set(favorites);
 
     let html = '';
     for (const cat of sortedCats) {
@@ -102,7 +98,7 @@ function generatePackages(): void {
                 <span class="${CLASS_NAMES.CATEGORY_BADGE}">${agents.length}</span>
             </div>
             <div class="${CLASS_NAMES.CATEGORY_CONTENT}">
-                ${agents.map(a => renderLabel(a.id, a, favSet, !!a.agent_compat?.[activeAgent])).join('')}
+                ${agents.map(a => renderLabel(a.id, a, !!a.agent_compat?.[activeAgent])).join('')}
             </div>
         </div>`;
     }
@@ -329,8 +325,6 @@ function setupCopyListButton(): void {
 async function init(): Promise<void> {
     try {
         await initConfigData();
-        await initFavoritesData();
-        favorites = getFavoritesForCurrentPage();
         await loadData();
         generatePackages();
         setupAgentSelector();
