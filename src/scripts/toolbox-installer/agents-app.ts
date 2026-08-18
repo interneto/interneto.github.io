@@ -6,7 +6,7 @@
  * commands (Claude Code / Codex CLI) from each agent entry's `installs[]`.
  */
 
-import { initConfigData, getCategoryEmojis } from '../shared/data-loader';
+import { initConfigData } from '../shared/data-loader';
 import { initFavoritesData, getFavoritesForCurrentPage } from '../shared/favorites-store';
 import { CLASS_NAMES, EVENT_NAMES } from '../shared/dom-constants';
 import { getElement, onDOMReady } from '../shared/dom-utils';
@@ -191,7 +191,7 @@ function setupCategoryCheckboxes(): void {
                 const label = p.closest<HTMLElement>('.' + CLASS_NAMES.CATEGORY);
                 if (label) {
                     const catCb = label.querySelector<HTMLInputElement>('.' + CLASS_NAMES.CATEGORY_CHECKBOX);
-                    if (catCb?.dataset.category === cat) inCat.push(p);
+                    if (catCb && (catCb as HTMLInputElement).dataset.category === cat) inCat.push(p);
                 }
             });
             inCat.forEach(p => p.checked = newCb.checked);
@@ -205,7 +205,7 @@ function setupCategoryCheckboxes(): void {
     document.querySelectorAll('.' + CLASS_NAMES.CATEGORY_HEADER).forEach(header => {
         header.addEventListener('click', (e) => {
             // Don't toggle if clicking the checkbox
-            if ((e.target as HTMLElement).type === 'checkbox') return;
+            if ((e.target as HTMLInputElement).type === 'checkbox') return;
             const catDiv = (header as HTMLElement).closest('.' + CLASS_NAMES.CATEGORY);
             if (catDiv) {
                 catDiv.classList.toggle(CLASS_NAMES.COLLAPSED);

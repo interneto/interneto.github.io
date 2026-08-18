@@ -51,6 +51,7 @@ let nonFossLists: Record<FavCategory, string[]> = {
     mobile: [],
     browserExtensions: [],
     vscodeExtensions: [],
+    agents: [],
 };
 let categoryEmojis: Record<string, string> = {};
 let taxonomyNodes: TaxonomyNode[] = [];

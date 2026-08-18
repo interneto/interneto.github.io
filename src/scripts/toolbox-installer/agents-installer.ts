@@ -119,7 +119,7 @@ function renderAgentCard(agent: typeof allAgents[0]): string {
         installHtml = `<div class="install-row"><span class="no-install">No install command available</span></div>`;
     }
 
-    const compatBadges = [];
+    const compatBadges: string[] = [];
     if (agent.agent_compat?.claude) compatBadges.push('<span class="agent-badge claude">Claude</span>');
     if (agent.agent_compat?.codex) compatBadges.push('<span class="agent-badge codex">Codex</span>');
 

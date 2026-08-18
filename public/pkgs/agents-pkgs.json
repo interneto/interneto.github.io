@@ -22,7 +22,7 @@
       "url": ""
     },
     "mcp-github": {
-      "name": "Github MCP",
+      "name": "GitHub MCP",
       "type": "MCP Server",
       "category": "Development",
       "description": "https://api.githubcopilot.com/mcp/",
@@ -64,7 +64,7 @@
       "url": "https://api.raindrop.io/rest/v2/ai/mcp"
     },
     "mcp-hyperframes": {
-      "name": "Hyperframes MCP",
+      "name": "HyperFrames MCP",
       "type": "MCP Server",
       "category": "Creative",
       "description": "https://hyperframes.heygen.com",
@@ -305,7 +305,7 @@
       "url": ""
     },
     "pkg-claude-md-management": {
-      "name": "Claude Md Management",
+      "name": "Claude MD Management",
       "type": "Plugin/Skill",
       "category": "Plugin/Agent",
       "description": "audits CLAUDE.md quality, captures session learnings back into it — on-theme for this repo since .ai/skills/core/*.md is this project's own CLAUDE.md source",
@@ -411,7 +411,7 @@
       "url": ""
     },
     "pkg-comfyui-mcp": {
-      "name": "Comfyui MCP",
+      "name": "ComfyUI MCP",
       "type": "MCP Server",
       "category": "Development",
       "description": "artokun/comfyui-mcp — MCP server + Claude Code plugin for ComfyUI: image generation, workflow visualization/authoring, model management, 37 tools/38 skills. Needs ComfyUI running locally (or reachable",
@@ -529,7 +529,7 @@
       "url": ""
     },
     "pkg-elevenlabs": {
-      "name": "Elevenlabs",
+      "name": "ElevenLabs",
       "type": "Plugin/Skill",
       "category": "Development",
       "description": "official ElevenLabs MCP — text-to-speech, voice cloning, speech-to-text, sound effects. Local stdio server via uvx, needs ELEVENLABS_API_KEY exported first (free tier: 10k credits/month, https://eleve",
@@ -656,7 +656,7 @@
       "url": ""
     },
     "pkg-fl-studio-mcp": {
-      "name": "Fl Studio MCP",
+      "name": "FL Studio MCP",
       "type": "Plugin/Skill",
       "category": "DAW/Music",
       "description": "karl-andres/fl-studio-mcp — control FL Studio (transport, mixer, channels, plugins, piano roll) from Claude via a loopMIDI bridge and an FL Studio controller script. Needs loopMIDI installed manually ",
@@ -690,7 +690,7 @@
       "url": ""
     },
     "pkg-github-mcp-server": {
-      "name": "Github MCP Server",
+      "name": "GitHub MCP Server",
       "type": "MCP Server",
       "category": "Development",
       "description": "official GitHub MCP server (github/github-mcp-server), remote-hosted at api.githubcopilot.com — first use needs OAuth or a GitHub PAT. This is the machine-wide Claude plugin install; this project's ow",
@@ -728,7 +728,7 @@
       "url": ""
     },
     "pkg-higgsfield-ai-skills": {
-      "name": "Higgsfield Ai/skills",
+      "name": "Higgsfield AI/Skills",
       "type": "Plugin/Skill",
       "category": "Plugin/Agent",
       "description": "",
@@ -762,7 +762,7 @@
       "url": ""
     },
     "pkg-hyperframes": {
-      "name": "Hyperframes",
+      "name": "HyperFrames",
       "type": "Plugin/Skill",
       "category": "Development",
       "description": "HeyGen HyperFrames — write HTML, render video (compositions, GSAP/runtime animations, captions, voiceovers, website-to-video) — https://hyperframes.heygen.com, https://github.com/heygen-com/hyperframe",
@@ -1016,7 +1016,7 @@
       "url": ""
     },
     "pkg-reaper-mcp": {
-      "name": "Reaper MCP",
+      "name": "REAPER MCP",
       "type": "Plugin/Skill",
       "category": "DAW/Music",
       "description": "bonfire-systems/reaper-mcp — control REAPER (create/mix/master tracks, MIDI + audio) from Claude via python-reapy. Needs a one-time manual step in REAPER first: Actions > Run ReaScript > scripts/enabl",
@@ -1050,7 +1050,7 @@
       "url": ""
     },
     "pkg-runnet": {
-      "name": "Runnet",
+      "name": "RunNet",
       "type": "MCP Server",
       "category": "Services",
       "description": "RuView Sensing Bridge (SENSE-BRIDGE) MCP server, registered as 'rvagent' — https://www.npmjs.com/package/@ruvnet/rvagent",
@@ -1067,7 +1067,7 @@
       "url": ""
     },
     "pkg-ruview": {
-      "name": "Ruview",
+      "name": "RuView",
       "type": "MCP Server",
       "category": "Services",
       "description": "Ruflo Engine MCP server, registered as 'ruflo' — https://www.npmjs.com/package/ruflo",
@@ -1156,7 +1156,7 @@
       "url": ""
     },
     "pkg-typescript-lsp": {
-      "name": "Typescript LSP",
+      "name": "TypeScript LSP",
       "type": "Plugin/Skill",
       "category": "Development",
       "description": "typescript-language-server code intelligence — Claude Code LSP plugin only; VS Code-based tools (Cursor, Windsurf, Copilot) already bundle a TS language service, no separate install needed there",
