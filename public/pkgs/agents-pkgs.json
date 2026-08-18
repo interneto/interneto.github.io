@@ -1,141 +1,6 @@
 {
   "agents": {
-    "mcp-filesystem": {
-      "name": "Filesystem MCP",
-      "type": "MCP Server",
-      "category": "Core",
-      "agent_compat": {
-        "claude": true,
-        "codex": true,
-        "copilot": true,
-        "npx": true
-      },
-      "installs": [
-        {
-          "agent": "claude",
-          "cmd": "claude mcp add filesystem -- npx -y @modelcontextprotocol/server-filesystem ."
-        },
-        {
-          "agent": "codex",
-          "cmd": "codex mcp add filesystem -- npx -y @modelcontextprotocol/server-filesystem ."
-        },
-        {
-          "agent": "copilot",
-          "cmd": "copilot mcp add filesystem -- npx -y @modelcontextprotocol/server-filesystem ."
-        },
-        {
-          "agent": "npx",
-          "cmd": "npx -y @modelcontextprotocol/server-filesystem ."
-        }
-      ],
-      "url": ""
-    },
-    "mcp-github": {
-      "name": "GitHub MCP",
-      "type": "MCP Server",
-      "category": "Development",
-      "agent_compat": {
-        "claude": true,
-        "codex": true,
-        "copilot": true
-      },
-      "installs": [
-        {
-          "agent": "claude",
-          "cmd": "claude mcp add --transport http github https://api.githubcopilot.com/mcp/"
-        },
-        {
-          "agent": "codex",
-          "cmd": "codex mcp add github --url https://api.githubcopilot.com/mcp/"
-        },
-        {
-          "agent": "copilot",
-          "cmd": "copilot mcp add --transport http github https://api.githubcopilot.com/mcp/"
-        }
-      ],
-      "url": "https://api.githubcopilot.com/mcp/"
-    },
-    "mcp-raindrop": {
-      "name": "Raindrop MCP",
-      "type": "MCP Server",
-      "category": "Bookmarks",
-      "agent_compat": {
-        "claude": true,
-        "codex": true,
-        "copilot": true
-      },
-      "installs": [
-        {
-          "agent": "claude",
-          "cmd": "claude mcp add --transport http raindrop https://api.raindrop.io/rest/v2/ai/mcp"
-        },
-        {
-          "agent": "codex",
-          "cmd": "codex mcp add raindrop --url https://api.raindrop.io/rest/v2/ai/mcp"
-        },
-        {
-          "agent": "copilot",
-          "cmd": "copilot mcp add --transport http raindrop https://api.raindrop.io/rest/v2/ai/mcp"
-        }
-      ],
-      "url": "https://api.raindrop.io/rest/v2/ai/mcp"
-    },
-    "mcp-hyperframes": {
-      "name": "HyperFrames MCP",
-      "type": "MCP Server",
-      "category": "Creative",
-      "agent_compat": {
-        "claude": true,
-        "codex": true,
-        "copilot": true
-      },
-      "installs": [
-        {
-          "agent": "claude",
-          "cmd": "claude mcp add --transport http hyperframes https://hyperframes.heygen.com"
-        },
-        {
-          "agent": "codex",
-          "cmd": "codex mcp add hyperframes --url https://hyperframes.heygen.com"
-        },
-        {
-          "agent": "copilot",
-          "cmd": "copilot mcp add --transport http hyperframes https://hyperframes.heygen.com"
-        }
-      ],
-      "url": "https://hyperframes.heygen.com"
-    },
-    "mcp-dashboard-icons": {
-      "name": "Dashboard Icons MCP",
-      "type": "MCP Server",
-      "category": "Design",
-      "agent_compat": {
-        "claude": true,
-        "codex": true,
-        "copilot": true,
-        "npx": true
-      },
-      "installs": [
-        {
-          "agent": "claude",
-          "cmd": "claude mcp add dashboard-icons -- npx -y mcp-remote https://dashboardicons.com/api/mcp"
-        },
-        {
-          "agent": "codex",
-          "cmd": "codex mcp add dashboard-icons -- npx -y mcp-remote https://dashboardicons.com/api/mcp"
-        },
-        {
-          "agent": "copilot",
-          "cmd": "copilot mcp add dashboard-icons -- npx -y mcp-remote https://dashboardicons.com/api/mcp"
-        },
-        {
-          "agent": "npx",
-          "cmd": "npx -y mcp-remote https://dashboardicons.com/api/mcp"
-        }
-      ],
-      "url": ""
-    },
-    "pkg-ableton-mcp": {
+    "ableton-mcp": {
       "name": "Ableton MCP",
       "type": "Plugin/Skill",
       "category": "DAW/Music",
@@ -156,7 +21,7 @@
       ],
       "url": ""
     },
-    "pkg-academic-research-skills": {
+    "academic-research-skills": {
       "name": "Academic Research Skills",
       "type": "Plugin/Skill",
       "category": "Development",
@@ -181,7 +46,7 @@
       ],
       "url": ""
     },
-    "pkg-adobe-creativity": {
+    "adobe-creativity": {
       "name": "Adobe Creativity",
       "type": "MCP Server",
       "category": "Creative",
@@ -202,7 +67,7 @@
       ],
       "url": ""
     },
-    "pkg-affinity": {
+    "affinity": {
       "name": "Affinity",
       "type": "Creative",
       "category": "Creative",
@@ -223,7 +88,7 @@
       ],
       "url": ""
     },
-    "pkg-agent-skills": {
+    "agent-skills": {
       "name": "Agent Skills",
       "type": "Plugin/Skill",
       "category": "Development",
@@ -253,7 +118,7 @@
       ],
       "url": ""
     },
-    "pkg-ast-grep": {
+    "ast-grep": {
       "name": "Ast Grep",
       "type": "Plugin/Skill",
       "category": "Development",
@@ -278,7 +143,7 @@
       ],
       "url": ""
     },
-    "pkg-blender-mcp": {
+    "blender-mcp": {
       "name": "Blender MCP",
       "type": "Plugin/Skill",
       "category": "Creative",
@@ -299,7 +164,7 @@
       ],
       "url": ""
     },
-    "pkg-brand-voice": {
+    "brand-voice": {
       "name": "Brand Voice",
       "type": "Plugin/Skill",
       "category": "Marketing",
@@ -320,7 +185,7 @@
       ],
       "url": ""
     },
-    "pkg-build-web-apps": {
+    "build-web-apps": {
       "name": "Build Web Apps",
       "type": "Plugin/Skill",
       "category": "Plugin/Agent",
@@ -341,7 +206,7 @@
       ],
       "url": ""
     },
-    "pkg-canva": {
+    "canva": {
       "name": "Canva",
       "type": "Creative",
       "category": "Creative",
@@ -362,7 +227,7 @@
       ],
       "url": ""
     },
-    "pkg-caveman": {
+    "caveman": {
       "name": "Caveman",
       "type": "Plugin/Skill",
       "category": "Plugin/Agent",
@@ -392,7 +257,32 @@
       ],
       "url": ""
     },
-    "pkg-claude-md-management": {
+    "chrome-devtools": {
+      "name": "Chrome DevTools MCP",
+      "type": "MCP Server",
+      "category": "Debugging",
+      "agent_compat": {
+        "claude": true,
+        "codex": true,
+        "copilot": true
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude mcp add chrome-devtools -- npx chrome-devtools-mcp@latest"
+        },
+        {
+          "agent": "codex",
+          "cmd": "codex mcp add chrome-devtools -- npx chrome-devtools-mcp@latest"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot mcp add chrome-devtools -- npx chrome-devtools-mcp@latest"
+        }
+      ],
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+    },
+    "claude-md-management": {
       "name": "Claude MD Management",
       "type": "Plugin/Skill",
       "category": "Plugin/Agent",
@@ -413,7 +303,7 @@
       ],
       "url": ""
     },
-    "pkg-claude-plugins-official": {
+    "claude-plugins-official": {
       "name": "Claude Plugins Official",
       "type": "Plugin/Skill",
       "category": "Plugin/Agent",
@@ -434,7 +324,7 @@
       ],
       "url": ""
     },
-    "pkg-cloudflare": {
+    "cloudflare": {
       "name": "Cloudflare",
       "type": "MCP Server",
       "category": "Cloud/DevOps",
@@ -464,7 +354,7 @@
       ],
       "url": ""
     },
-    "pkg-code-simplifier": {
+    "code-simplifier": {
       "name": "Code Simplifier",
       "type": "Plugin/Skill",
       "category": "Plugin/Agent",
@@ -485,7 +375,7 @@
       ],
       "url": ""
     },
-    "pkg-codebase-memory-mcp": {
+    "codebase-memory-mcp": {
       "name": "Codebase Memory MCP",
       "type": "MCP Server",
       "category": "Development",
@@ -501,7 +391,7 @@
       ],
       "url": ""
     },
-    "pkg-codex": {
+    "codex": {
       "name": "Codex",
       "type": "Plugin/Skill",
       "category": "Plugin/Agent",
@@ -522,7 +412,7 @@
       ],
       "url": ""
     },
-    "pkg-comfyui-mcp": {
+    "comfyui-mcp": {
       "name": "ComfyUI MCP",
       "type": "MCP Server",
       "category": "Development",
@@ -547,7 +437,7 @@
       ],
       "url": ""
     },
-    "pkg-composio": {
+    "composio": {
       "name": "Composio",
       "type": "Plugin/Skill",
       "category": "Productivity",
@@ -568,10 +458,35 @@
       ],
       "url": ""
     },
-    "pkg-context7": {
-      "name": "Context7",
+    "context7": {
+      "name": "Context7 MCP",
       "type": "MCP Server",
-      "category": "Development",
+      "category": "Documentation",
+      "agent_compat": {
+        "claude": true,
+        "codex": true,
+        "copilot": true
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude mcp add --transport http context7 https://mcp.context7.com/mcp"
+        },
+        {
+          "agent": "codex",
+          "cmd": "codex mcp add context7 --url https://mcp.context7.com/mcp"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot mcp add --transport http context7 https://mcp.context7.com/mcp"
+        }
+      ],
+      "url": "https://mcp.context7.com/mcp"
+    },
+    "dashboard-icons": {
+      "name": "Dashboard Icons MCP",
+      "type": "MCP Server",
+      "category": "Design",
       "agent_compat": {
         "claude": true,
         "codex": true,
@@ -581,28 +496,24 @@
       "installs": [
         {
           "agent": "claude",
-          "cmd": "claude plugin install context7@claude-plugins-official --scope user"
+          "cmd": "claude mcp add dashboard-icons -- npx -y mcp-remote https://dashboardicons.com/api/mcp"
         },
         {
           "agent": "codex",
-          "cmd": "codex mcp add context7 -- npx -y @upstash/context7-mcp"
+          "cmd": "codex mcp add dashboard-icons -- npx -y mcp-remote https://dashboardicons.com/api/mcp"
         },
         {
           "agent": "copilot",
-          "cmd": "copilot plugin install context7@claude-plugins-official"
-        },
-        {
-          "agent": "",
-          "cmd": "npx ctx7 setup"
+          "cmd": "copilot mcp add dashboard-icons -- npx -y mcp-remote https://dashboardicons.com/api/mcp"
         },
         {
           "agent": "npx",
-          "cmd": "npx ctx7 setup"
+          "cmd": "npx -y mcp-remote https://dashboardicons.com/api/mcp"
         }
       ],
       "url": ""
     },
-    "pkg-daw-mcp": {
+    "daw-mcp": {
       "name": "DAW MCP",
       "type": "Plugin/Skill",
       "category": "DAW/Music",
@@ -623,7 +534,7 @@
       ],
       "url": ""
     },
-    "pkg-design": {
+    "design": {
       "name": "Design",
       "type": "Plugin/Skill",
       "category": "Creative",
@@ -644,7 +555,7 @@
       ],
       "url": ""
     },
-    "pkg-diagram-design": {
+    "diagram-design": {
       "name": "Diagram Design",
       "type": "Plugin/Skill",
       "category": "Creative",
@@ -674,7 +585,7 @@
       ],
       "url": ""
     },
-    "pkg-elevenlabs": {
+    "elevenlabs": {
       "name": "ElevenLabs",
       "type": "Plugin/Skill",
       "category": "Development",
@@ -695,32 +606,7 @@
       ],
       "url": ""
     },
-    "pkg-exa": {
-      "name": "Exa",
-      "type": "MCP Server",
-      "category": "Development",
-      "agent_compat": {
-        "claude": true,
-        "codex": true,
-        "copilot": true
-      },
-      "installs": [
-        {
-          "agent": "claude",
-          "cmd": "claude plugin install exa@claude-plugins-official --scope user"
-        },
-        {
-          "agent": "codex",
-          "cmd": "codex mcp add exa --url https://mcp.exa.ai/mcp"
-        },
-        {
-          "agent": "copilot",
-          "cmd": "copilot plugin install exa@claude-plugins-official"
-        }
-      ],
-      "url": ""
-    },
-    "pkg-engineering": {
+    "engineering": {
       "name": "Engineering",
       "type": "Plugin/Skill",
       "category": "Development",
@@ -741,28 +627,87 @@
       ],
       "url": ""
     },
-    "pkg-figma": {
-      "name": "Figma",
-      "type": "Plugin/Skill",
-      "category": "Creative",
+    "exa": {
+      "name": "Exa MCP",
+      "type": "MCP Server",
+      "category": "Search",
       "agent_compat": {
         "claude": true,
-        "codex": false,
+        "codex": true,
+        "copilot": true
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude mcp add --transport http exa https://mcp.exa.ai/mcp"
+        },
+        {
+          "agent": "codex",
+          "cmd": "codex mcp add exa --url https://mcp.exa.ai/mcp"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot mcp add --transport http exa https://mcp.exa.ai/mcp"
+        }
+      ],
+      "url": "https://mcp.exa.ai/mcp"
+    },
+    "figma": {
+      "name": "Figma Dev Mode MCP",
+      "type": "MCP Server",
+      "category": "Design",
+      "agent_compat": {
+        "claude": true,
+        "codex": true,
+        "copilot": true
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude mcp add --transport http figma https://mcp.figma.com/mcp"
+        },
+        {
+          "agent": "codex",
+          "cmd": "codex mcp add figma --url https://mcp.figma.com/mcp && codex mcp login figma"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot mcp add --transport http figma https://mcp.figma.com/mcp"
+        }
+      ],
+      "url": "https://mcp.figma.com/mcp"
+    },
+    "filesystem": {
+      "name": "Filesystem MCP",
+      "type": "MCP Server",
+      "category": "Core",
+      "agent_compat": {
+        "claude": true,
+        "codex": true,
+        "copilot": true,
         "npx": true
       },
       "installs": [
         {
           "agent": "claude",
-          "cmd": "/plugin marketplace add https://www.claudepluginhub.com/api/plugins/figma-figma/marketplace.json\n/plugin install figma-figma@cpd-figma-figma"
+          "cmd": "claude mcp add filesystem -- npx -y @modelcontextprotocol/server-filesystem ."
+        },
+        {
+          "agent": "codex",
+          "cmd": "codex mcp add filesystem -- npx -y @modelcontextprotocol/server-filesystem ."
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot mcp add filesystem -- npx -y @modelcontextprotocol/server-filesystem ."
         },
         {
           "agent": "npx",
-          "cmd": "npx claudepluginhub p/figma-figma"
+          "cmd": "npx -y @modelcontextprotocol/server-filesystem ."
         }
       ],
       "url": ""
     },
-    "pkg-firecrawl-cli": {
+    "firecrawl-cli": {
       "name": "Firecrawl CLI",
       "type": "Plugin/Skill",
       "category": "Plugin/Agent",
@@ -787,7 +732,7 @@
       ],
       "url": ""
     },
-    "pkg-firecrawl-mcp": {
+    "firecrawl-mcp": {
       "name": "Firecrawl MCP",
       "type": "Plugin/Skill",
       "category": "Development",
@@ -808,7 +753,7 @@
       ],
       "url": ""
     },
-    "pkg-fl-studio-mcp": {
+    "fl-studio-mcp": {
       "name": "FL Studio MCP",
       "type": "Plugin/Skill",
       "category": "DAW/Music",
@@ -824,7 +769,7 @@
       ],
       "url": ""
     },
-    "pkg-frontend-design": {
+    "frontend-design": {
       "name": "Frontend Design",
       "type": "Plugin/Skill",
       "category": "Plugin/Agent",
@@ -845,8 +790,8 @@
       ],
       "url": ""
     },
-    "pkg-github-mcp-server": {
-      "name": "GitHub MCP Server",
+    "github": {
+      "name": "GitHub MCP",
       "type": "MCP Server",
       "category": "Development",
       "agent_compat": {
@@ -857,20 +802,20 @@
       "installs": [
         {
           "agent": "claude",
-          "cmd": "claude plugin install github@claude-plugins-official --scope user"
+          "cmd": "claude mcp add --transport http github https://api.githubcopilot.com/mcp/"
         },
         {
           "agent": "codex",
-          "cmd": "codex mcp add github --url https://api.githubcopilot.com/mcp/ --bearer-token-env-var GITHUB_PAT_TOKEN"
+          "cmd": "codex mcp add github --url https://api.githubcopilot.com/mcp/"
         },
         {
           "agent": "copilot",
-          "cmd": "copilot plugin install github@claude-plugins-official"
+          "cmd": "copilot mcp add --transport http github https://api.githubcopilot.com/mcp/"
         }
       ],
-      "url": ""
+      "url": "https://api.githubcopilot.com/mcp/"
     },
-    "pkg-grafana": {
+    "grafana": {
       "name": "Grafana",
       "type": "Plugin/Skill",
       "category": "Cloud/DevOps",
@@ -891,7 +836,23 @@
       ],
       "url": ""
     },
-    "pkg-higgsfield-ai-skills": {
+    "guitar-pro-mcp": {
+      "name": "Guitar Pro MCP",
+      "type": "MCP Server",
+      "category": "DAW/Music",
+      "agent_compat": {
+        "claude": true,
+        "codex": false
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "if not exist \"%USERPROFILE%\\.local\\guitar-pro-mcp\" git clone https://github.com/wegitor/guitar-pro-mcp.git \"%USERPROFILE%\\.local\\guitar-pro-mcp\" && cd /d \"%USERPROFILE%\\.local\\guitar-pro-mcp\" && uv venv && uv pip install . && claude mcp add -s user guitar-pro -- uv --directory \"%USERPROFILE%\\.local\\guitar-pro-mcp\" run -m src.run_mcp_server"
+        }
+      ],
+      "url": ""
+    },
+    "higgsfield-ai-skills": {
       "name": "Higgsfield AI/Skills",
       "type": "Plugin/Skill",
       "category": "Plugin/Agent",
@@ -912,7 +873,7 @@
       ],
       "url": ""
     },
-    "pkg-hookify": {
+    "hookify": {
       "name": "Hookify",
       "type": "Plugin/Skill",
       "category": "Development",
@@ -933,28 +894,32 @@
       ],
       "url": ""
     },
-    "pkg-hyperframes": {
-      "name": "HyperFrames",
-      "type": "Plugin/Skill",
-      "category": "Development",
+    "hyperframes": {
+      "name": "HyperFrames MCP",
+      "type": "MCP Server",
+      "category": "Creative",
       "agent_compat": {
         "claude": true,
-        "codex": false,
+        "codex": true,
         "copilot": true
       },
       "installs": [
         {
           "agent": "claude",
-          "cmd": "claude plugin install hyperframes@claude-plugins-official --scope user"
+          "cmd": "claude mcp add --transport http hyperframes https://hyperframes.heygen.com"
+        },
+        {
+          "agent": "codex",
+          "cmd": "codex mcp add hyperframes --url https://hyperframes.heygen.com"
         },
         {
           "agent": "copilot",
-          "cmd": "copilot plugin install hyperframes@claude-plugins-official"
+          "cmd": "copilot mcp add --transport http hyperframes https://hyperframes.heygen.com"
         }
       ],
-      "url": ""
+      "url": "https://hyperframes.heygen.com"
     },
-    "pkg-knowledge-work-plugins": {
+    "knowledge-work-plugins": {
       "name": "Knowledge Work Plugins",
       "type": "Plugin/Skill",
       "category": "Creative",
@@ -975,7 +940,7 @@
       ],
       "url": ""
     },
-    "pkg-kubernetes": {
+    "kubernetes": {
       "name": "Kubernetes",
       "type": "Plugin/Skill",
       "category": "Cloud/DevOps",
@@ -1000,7 +965,32 @@
       ],
       "url": ""
     },
-    "pkg-magnific": {
+    "linear": {
+      "name": "Linear MCP",
+      "type": "MCP Server",
+      "category": "Project Management",
+      "agent_compat": {
+        "claude": true,
+        "codex": true,
+        "copilot": true
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude mcp add --transport http linear https://mcp.linear.app/mcp"
+        },
+        {
+          "agent": "codex",
+          "cmd": "codex mcp add linear --url https://mcp.linear.app/mcp && codex mcp login linear"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot mcp add --transport http linear https://mcp.linear.app/mcp"
+        }
+      ],
+      "url": "https://mcp.linear.app/mcp"
+    },
+    "magnific": {
       "name": "Magnific",
       "type": "Creative",
       "category": "Creative",
@@ -1025,7 +1015,7 @@
       ],
       "url": ""
     },
-    "pkg-marketing": {
+    "marketing": {
       "name": "Marketing",
       "type": "Plugin/Skill",
       "category": "Marketing",
@@ -1046,7 +1036,23 @@
       ],
       "url": ""
     },
-    "pkg-notion": {
+    "musescore-mcp": {
+      "name": "MuseScore MCP",
+      "type": "MCP Server",
+      "category": "DAW/Music",
+      "agent_compat": {
+        "claude": true,
+        "codex": false
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "if not exist \"%USERPROFILE%\\.local\\mcp-musescore\" git clone https://github.com/ghchen99/mcp-musescore.git \"%USERPROFILE%\\.local\\mcp-musescore\" && cd /d \"%USERPROFILE%\\.local\\mcp-musescore\" && python -m venv .venv && .venv\\Scripts\\pip install -r requirements.txt && if not exist \"%USERPROFILE%\\Documents\\MuseScore4\\Plugins\" mkdir \"%USERPROFILE%\\Documents\\MuseScore4\\Plugins\" && copy /y musescore-mcp-websocket.qml \"%USERPROFILE%\\Documents\\MuseScore4\\Plugins\\\" && claude mcp add -s user musescore -- \"%USERPROFILE%\\.local\\mcp-musescore\\.venv\\Scripts\\python.exe\" \"%USERPROFILE%\\.local\\mcp-musescore\\server.py\""
+        }
+      ],
+      "url": ""
+    },
+    "notion": {
       "name": "Notion",
       "type": "MCP Server",
       "category": "Productivity",
@@ -1067,7 +1073,7 @@
       ],
       "url": ""
     },
-    "pkg-obsidian": {
+    "obsidian": {
       "name": "Obsidian",
       "type": "Plugin/Skill",
       "category": "Plugin/Agent",
@@ -1088,7 +1094,7 @@
       ],
       "url": ""
     },
-    "pkg-pdf-viewer": {
+    "pdf-viewer": {
       "name": "PDF Viewer",
       "type": "Plugin/Skill",
       "category": "Research",
@@ -1109,7 +1115,7 @@
       ],
       "url": ""
     },
-    "pkg-php-lsp": {
+    "php-lsp": {
       "name": "Php LSP",
       "type": "Plugin/Skill",
       "category": "Development",
@@ -1135,7 +1141,7 @@
       ],
       "url": ""
     },
-    "pkg-playwright": {
+    "playwright": {
       "name": "Playwright",
       "type": "MCP Server",
       "category": "Services",
@@ -1160,7 +1166,7 @@
       ],
       "url": ""
     },
-    "pkg-ponytail": {
+    "ponytail": {
       "name": "Ponytail",
       "type": "Plugin/Skill",
       "category": "Plugin/Agent",
@@ -1191,7 +1197,32 @@
       ],
       "url": ""
     },
-    "pkg-postiz": {
+    "postgres": {
+      "name": "PostgreSQL MCP",
+      "type": "MCP Server",
+      "category": "Database",
+      "agent_compat": {
+        "claude": true,
+        "codex": true,
+        "copilot": true
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude mcp add postgres -- npx -y @modelcontextprotocol/server-postgres \"postgresql://USER:PASSWORD@HOST:5432/DB\""
+        },
+        {
+          "agent": "codex",
+          "cmd": "codex mcp add postgres -- npx -y @modelcontextprotocol/server-postgres \"postgresql://USER:PASSWORD@HOST:5432/DB\""
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot mcp add postgres -- npx -y @modelcontextprotocol/server-postgres \"postgresql://USER:PASSWORD@HOST:5432/DB\""
+        }
+      ],
+      "url": "https://github.com/modelcontextprotocol/servers/tree/main/src/postgres"
+    },
+    "postiz": {
       "name": "Postiz",
       "type": "Plugin/Skill",
       "category": "Marketing",
@@ -1212,7 +1243,7 @@
       ],
       "url": ""
     },
-    "pkg-productivity": {
+    "productivity": {
       "name": "Productivity",
       "type": "Plugin/Skill",
       "category": "Productivity",
@@ -1233,7 +1264,7 @@
       ],
       "url": ""
     },
-    "pkg-pyright-lsp": {
+    "pyright-lsp": {
       "name": "Pyright LSP",
       "type": "Plugin/Skill",
       "category": "Development",
@@ -1259,7 +1290,32 @@
       ],
       "url": ""
     },
-    "pkg-reaper-mcp": {
+    "raindrop": {
+      "name": "Raindrop MCP",
+      "type": "MCP Server",
+      "category": "Bookmarks",
+      "agent_compat": {
+        "claude": true,
+        "codex": true,
+        "copilot": true
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude mcp add --transport http raindrop https://api.raindrop.io/rest/v2/ai/mcp"
+        },
+        {
+          "agent": "codex",
+          "cmd": "codex mcp add raindrop --url https://api.raindrop.io/rest/v2/ai/mcp"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot mcp add --transport http raindrop https://api.raindrop.io/rest/v2/ai/mcp"
+        }
+      ],
+      "url": "https://api.raindrop.io/rest/v2/ai/mcp"
+    },
+    "reaper-mcp": {
       "name": "REAPER MCP",
       "type": "Plugin/Skill",
       "category": "DAW/Music",
@@ -1280,28 +1336,7 @@
       ],
       "url": ""
     },
-    "pkg-serena": {
-      "name": "Serena",
-      "type": "Plugin/Skill",
-      "category": "Development",
-      "agent_compat": {
-        "claude": true,
-        "codex": false,
-        "copilot": true
-      },
-      "installs": [
-        {
-          "agent": "claude",
-          "cmd": "claude mcp add -s user serena -- uvx --from git+https://github.com/oraios/serena serena-mcp-server"
-        },
-        {
-          "agent": "copilot",
-          "cmd": "copilot mcp add serena -- uvx --from git+https://github.com/oraios/serena serena-mcp-server"
-        }
-      ],
-      "url": ""
-    },
-    "pkg-runnet": {
+    "runnet": {
       "name": "Ruvnet",
       "type": "MCP Server",
       "category": "Services",
@@ -1322,7 +1357,7 @@
       ],
       "url": ""
     },
-    "pkg-ruview": {
+    "ruview": {
       "name": "RuView",
       "type": "MCP Server",
       "category": "Services",
@@ -1343,28 +1378,7 @@
       ],
       "url": ""
     },
-    "pkg-suno": {
-      "name": "Suno",
-      "type": "Plugin/Skill",
-      "category": "Development",
-      "agent_compat": {
-        "claude": true,
-        "codex": false,
-        "copilot": true
-      },
-      "installs": [
-        {
-          "agent": "claude",
-          "cmd": "claude mcp add -s user --transport http suno https://suno.mcp.acedata.cloud/mcp"
-        },
-        {
-          "agent": "copilot",
-          "cmd": "copilot mcp add --transport http suno https://suno.mcp.acedata.cloud/mcp"
-        }
-      ],
-      "url": ""
-    },
-    "pkg-sentry": {
+    "sentry": {
       "name": "Sentry",
       "type": "MCP Server",
       "category": "Cloud/DevOps",
@@ -1385,10 +1399,35 @@
       ],
       "url": ""
     },
-    "pkg-superpowers": {
-      "name": "Superpowers",
+    "serena": {
+      "name": "Serena MCP",
+      "type": "MCP Server",
+      "category": "Development",
+      "agent_compat": {
+        "claude": true,
+        "codex": true,
+        "copilot": true
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "uv tool install -p 3.13 serena-agent && serena setup claude-code"
+        },
+        {
+          "agent": "codex",
+          "cmd": "uv tool install -p 3.13 serena-agent && serena setup codex"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "uv tool install -p 3.13 serena-agent && copilot mcp add serena -- serena start-mcp-server --context=copilot-cli --project-from-cwd"
+        }
+      ],
+      "url": "https://github.com/oraios/serena"
+    },
+    "suno": {
+      "name": "Suno",
       "type": "Plugin/Skill",
-      "category": "Plugin/Agent",
+      "category": "Development",
       "agent_compat": {
         "claude": true,
         "codex": false,
@@ -1397,16 +1436,16 @@
       "installs": [
         {
           "agent": "claude",
-          "cmd": "claude plugin install superpowers@claude-plugins-official --scope user"
+          "cmd": "claude mcp add -s user --transport http suno https://suno.mcp.acedata.cloud/mcp"
         },
         {
           "agent": "copilot",
-          "cmd": "copilot plugin install superpowers@claude-plugins-official"
+          "cmd": "copilot mcp add --transport http suno https://suno.mcp.acedata.cloud/mcp"
         }
       ],
       "url": ""
     },
-    "pkg-supabase": {
+    "supabase": {
       "name": "Supabase",
       "type": "MCP Server",
       "category": "Cloud/DevOps",
@@ -1431,7 +1470,28 @@
       ],
       "url": ""
     },
-    "pkg-typescript-lsp": {
+    "superpowers": {
+      "name": "Superpowers",
+      "type": "Plugin/Skill",
+      "category": "Plugin/Agent",
+      "agent_compat": {
+        "claude": true,
+        "codex": false,
+        "copilot": true
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude plugin install superpowers@claude-plugins-official --scope user"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot plugin install superpowers@claude-plugins-official"
+        }
+      ],
+      "url": ""
+    },
+    "typescript-lsp": {
       "name": "TypeScript LSP",
       "type": "Plugin/Skill",
       "category": "Development",

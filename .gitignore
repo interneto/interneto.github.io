@@ -4,10 +4,12 @@
 dist/
 node_modules/
 roadmap/
+.playwright-mcp/
+.serena/
 links/interneto-links.csv
 links/interneto-links.htm
 nsfw-content.md
-.playwright-mcp/
+
 # Temp files from ClaudePluginHub API queries
 scripts/fetch-cph-*.py
 scripts/query-cph-*.py
