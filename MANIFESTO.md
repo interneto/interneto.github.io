@@ -42,7 +42,7 @@ Android, iOS, Windows, Linux, macOS, browser extensions, and libraries are each 
 
 ## 7. Web vs native
 
-A good web app is often the right recommendation over installing something unnecessary — the App Directory exists for exactly this: destinations where opening the link *is* the install step. A native app earns its place when it offers something the browser can't: offline use, background operation, notifications, GPS/sensors/camera, Bluetooth/USB, deeper OS integration, performance, or specialized hardware access. Native apps should not duplicate an equivalent web experience just to exist on a platform.
+A good web app is often the right recommendation over installing something unnecessary — the Web Directory exists for exactly this: destinations where opening the link *is* the install step. A native app earns its place when it offers something the browser can't: offline use, background operation, notifications, GPS/sensors/camera, Bluetooth/USB, deeper OS integration, performance, or specialized hardware access. Native apps should not duplicate an equivalent web experience just to exist on a platform.
 
 ## 8. Quality and maintenance
 

@@ -244,8 +244,8 @@ async function init(): Promise<void> {
 
         applyFilters(entries);
     } catch (error) {
-        console.error('Failed to initialize app directory:', error);
-        tableBody.innerHTML = '<tr><td colspan="2">Could not load app directory data.</td></tr>';
+        console.error('Failed to initialize web directory:', error);
+        tableBody.innerHTML = '<tr><td colspan="2">Could not load web directory data.</td></tr>';
     }
 }
 
