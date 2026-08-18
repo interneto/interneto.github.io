@@ -51,15 +51,15 @@ interface PageConfig {
 function getPageType(): PageType | null {
     const path = window.location.pathname;
 
-    if (path.includes('mobile-os-compatibility')) {
+    if (path.includes('/mobile/') || path.includes('mobile-os-compatibility')) {
         return 'mobile';
     }
 
-    if (path.includes('vscode-extensions-compatibility')) {
+    if (path.includes('/vscode/') || path.includes('vscode-extensions-compatibility')) {
         return 'vscode';
     }
 
-    if (path.includes('browser-extensions-compatibility')) {
+    if (path.includes('/browser/') || path.includes('browser-extensions-compatibility')) {
         return 'browser';
     }
 
