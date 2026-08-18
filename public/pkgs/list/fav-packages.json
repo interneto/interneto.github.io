@@ -76,5 +76,12 @@
     "github.copilot-chat",
     "ms-python.python",
     "usernamehw.errorlens"
+  ],
+  "agents": [
+    "mcp-filesystem",
+    "mcp-github",
+    "pkg-context7",
+    "pkg-playwright",
+    "pkg-superpowers"
   ]
 }

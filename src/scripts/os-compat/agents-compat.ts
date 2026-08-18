@@ -221,7 +221,7 @@ async function init(): Promise<void> {
         initTheme();
         const tbody = document.getElementById('tableBody');
         if (tbody) {
-            tbody.innerHTML = `<tr><td colspan="4" style="text-align:center;padding:2rem;">Loading agents data...</td></tr>`;
+            tbody.innerHTML = `<tr><td colspan="6" style="text-align:center;padding:2rem;">Loading agents data...</td></tr>`;
         }
 
         await initConfigData();
@@ -237,7 +237,7 @@ async function init(): Promise<void> {
         console.error('Agents compat init failed:', err);
         const tbody = document.getElementById('tableBody');
         if (tbody) {
-            tbody.innerHTML = `<tr><td colspan="4" style="text-align:center;padding:2rem;color:var(--error-color, #e74c3c);"><strong>Error:</strong> Failed to load agents data.</td></tr>`;
+            tbody.innerHTML = `<tr><td colspan="6" style="text-align:center;padding:2rem;color:var(--error-color, #e74c3c);"><strong>Error:</strong> Failed to load agents data.</td></tr>`;
         }
     }
 }

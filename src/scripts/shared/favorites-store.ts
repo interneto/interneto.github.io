@@ -10,6 +10,7 @@ interface FavoritesFile {
     mobile: string[];
     browserExtensions: string[];
     vscodeExtensions: string[];
+    agents: string[];
 }
 
 export function resolveFavCategoryFromPath(pathname: string): FavCategory {
@@ -20,9 +21,11 @@ export function resolveFavCategoryFromPath(pathname: string): FavCategory {
     }
     if (path.includes('vscode-extensions') || /\/(vscode)\//.test(path)) {
         return 'vscodeExtensions';
-    }    if (path.includes('/agents/') || path.includes('agents-compatibility')) {
+    }
+    if (path.includes('/agents/') || path.includes('agents-compatibility')) {
         return 'agents';
-    }    if (path.includes('/mobile/') || path.includes('mobile-os-compatibility')) {
+    }
+    if (path.includes('/mobile/') || path.includes('mobile-os-compatibility')) {
         return 'mobile';
     }
     return 'desktop';
@@ -33,6 +36,7 @@ let favoritesByCategory: FavoritesFile = {
     mobile: [],
     browserExtensions: [],
     vscodeExtensions: [],
+    agents: [],
 };
 
 let initPromise: Promise<void> | null = null;
@@ -50,6 +54,7 @@ export function initFavoritesData(): Promise<void> {
                 mobile: data.mobile ?? [],
                 browserExtensions: data.browserExtensions ?? [],
                 vscodeExtensions: data.vscodeExtensions ?? [],
+                agents: data.agents ?? [],
             };
         })
         .catch((error) => {

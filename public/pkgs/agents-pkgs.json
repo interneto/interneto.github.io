@@ -12,7 +12,7 @@
       "installs": [
         {
           "agent": "claude",
-          "cmd": "npx -y @modelcontextprotocol/server-filesystem ."
+          "cmd": "claude mcp add filesystem -- npx -y @modelcontextprotocol/server-filesystem ."
         },
         {
           "agent": "codex",
@@ -97,7 +97,7 @@
       "installs": [
         {
           "agent": "claude",
-          "cmd": "npx -y mcp-remote https://dashboardicons.com/api/mcp"
+          "cmd": "claude mcp add dashboard-icons -- npx -y mcp-remote https://dashboardicons.com/api/mcp"
         },
         {
           "agent": "codex",
@@ -375,11 +375,11 @@
         },
         {
           "agent": "codex",
-          "cmd": "npx codex-marketplace add openai/plugins/plugins/cloudflare --plugin"
+          "cmd": "codex mcp add cloudflare --url https://mcp.cloudflare.com/mcp"
         },
         {
           "agent": "npx",
-          "cmd": "npx codex-marketplace add openai/plugins/plugins/cloudflare --plugin"
+          "cmd": "npx -y mcp-remote https://mcp.cloudflare.com/mcp"
         }
       ],
       "url": ""
@@ -591,26 +591,6 @@
         {
           "agent": "codex",
           "cmd": "codex mcp add exa --url https://mcp.exa.ai/mcp"
-        }
-      ],
-      "url": ""
-    },
-    "pkg-filesystem-mcp": {
-      "name": "Filesystem MCP",
-      "type": "Plugin/Skill",
-      "category": "Development",
-      "agent_compat": {
-        "claude": true,
-        "codex": true
-      },
-      "installs": [
-        {
-          "agent": "claude",
-          "cmd": "claude mcp add -s user filesystem -- cmd /c npx -y @modelcontextprotocol/server-filesystem ."
-        },
-        {
-          "agent": "codex",
-          "cmd": "codex mcp add filesystem -- npx -y @modelcontextprotocol/server-filesystem ."
         }
       ],
       "url": ""
@@ -998,7 +978,6 @@
       "agent_compat": {
         "claude": true,
         "codex": true,
-        "copilot": true,
         "npx": true
       },
       "installs": [
@@ -1009,10 +988,6 @@
         {
           "agent": "codex",
           "cmd": "codex plugin marketplace add DietrichGebert/ponytail\ncodex plugin add ponytail@ponytail"
-        },
-        {
-          "agent": "copilot",
-          "cmd": "copilot plugin marketplace add DietrichGebert/ponytail\ncopilot plugin install ponytail@ponytail"
         },
         {
           "agent": "npx",
