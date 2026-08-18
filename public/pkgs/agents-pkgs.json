@@ -7,6 +7,7 @@
       "agent_compat": {
         "claude": true,
         "codex": true,
+        "copilot": true,
         "npx": true
       },
       "installs": [
@@ -17,6 +18,10 @@
         {
           "agent": "codex",
           "cmd": "codex mcp add filesystem -- npx -y @modelcontextprotocol/server-filesystem ."
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot mcp add filesystem -- npx -y @modelcontextprotocol/server-filesystem ."
         },
         {
           "agent": "npx",
@@ -31,7 +36,8 @@
       "category": "Development",
       "agent_compat": {
         "claude": true,
-        "codex": true
+        "codex": true,
+        "copilot": true
       },
       "installs": [
         {
@@ -41,6 +47,10 @@
         {
           "agent": "codex",
           "cmd": "codex mcp add github --url https://api.githubcopilot.com/mcp/"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot mcp add --transport http github https://api.githubcopilot.com/mcp/"
         }
       ],
       "url": "https://api.githubcopilot.com/mcp/"
@@ -51,7 +61,8 @@
       "category": "Bookmarks",
       "agent_compat": {
         "claude": true,
-        "codex": true
+        "codex": true,
+        "copilot": true
       },
       "installs": [
         {
@@ -61,6 +72,10 @@
         {
           "agent": "codex",
           "cmd": "codex mcp add raindrop --url https://api.raindrop.io/rest/v2/ai/mcp"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot mcp add --transport http raindrop https://api.raindrop.io/rest/v2/ai/mcp"
         }
       ],
       "url": "https://api.raindrop.io/rest/v2/ai/mcp"
@@ -71,7 +86,8 @@
       "category": "Creative",
       "agent_compat": {
         "claude": true,
-        "codex": true
+        "codex": true,
+        "copilot": true
       },
       "installs": [
         {
@@ -81,6 +97,10 @@
         {
           "agent": "codex",
           "cmd": "codex mcp add hyperframes --url https://hyperframes.heygen.com"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot mcp add --transport http hyperframes https://hyperframes.heygen.com"
         }
       ],
       "url": "https://hyperframes.heygen.com"
@@ -92,6 +112,7 @@
       "agent_compat": {
         "claude": true,
         "codex": true,
+        "copilot": true,
         "npx": true
       },
       "installs": [
@@ -102,6 +123,10 @@
         {
           "agent": "codex",
           "cmd": "codex mcp add dashboard-icons -- npx -y mcp-remote https://dashboardicons.com/api/mcp"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot mcp add dashboard-icons -- npx -y mcp-remote https://dashboardicons.com/api/mcp"
         },
         {
           "agent": "npx",
@@ -116,12 +141,17 @@
       "category": "DAW/Music",
       "agent_compat": {
         "claude": true,
-        "codex": false
+        "codex": false,
+        "copilot": true
       },
       "installs": [
         {
           "agent": "claude",
           "cmd": "claude mcp add -s user ableton -- uvx ableton-mcp"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot mcp add ableton -- uvx ableton-mcp"
         }
       ],
       "url": ""
@@ -132,7 +162,8 @@
       "category": "Development",
       "agent_compat": {
         "claude": true,
-        "codex": true
+        "codex": true,
+        "copilot": true
       },
       "installs": [
         {
@@ -142,6 +173,10 @@
         {
           "agent": "codex",
           "cmd": "codex plugin marketplace add Imbad0202/academic-research-skills-codex --ref main && codex plugin add ars-codex@ars-codex"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot plugin marketplace add Imbad0202/academic-research-skills && copilot plugin install academic-research-skills@academic-research-skills"
         }
       ],
       "url": ""
@@ -152,12 +187,17 @@
       "category": "Creative",
       "agent_compat": {
         "claude": true,
-        "codex": false
+        "codex": false,
+        "copilot": true
       },
       "installs": [
         {
           "agent": "claude",
           "cmd": "claude mcp add -s user --transport http adobe-creativity https://adobe-creativity.adobe.io/mcp"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot mcp add --transport http adobe-creativity https://adobe-creativity.adobe.io/mcp"
         }
       ],
       "url": ""
@@ -168,12 +208,17 @@
       "category": "Creative",
       "agent_compat": {
         "claude": true,
-        "codex": false
+        "codex": false,
+        "copilot": true
       },
       "installs": [
         {
           "agent": "claude",
           "cmd": "claude mcp add --transport http affinity \"$AFFINITY_MCP_URL\""
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot mcp add --transport http affinity \"$AFFINITY_MCP_URL\""
         }
       ],
       "url": ""
@@ -185,6 +230,7 @@
       "agent_compat": {
         "claude": true,
         "codex": true,
+        "copilot": true,
         "npx": true
       },
       "installs": [
@@ -195,6 +241,10 @@
         {
           "agent": "codex",
           "cmd": "npx skills add addyosmani/agent-skills -a codex"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot plugin marketplace add addyosmani/agent-skills && copilot plugin install agent-skills@addy-agent-skills"
         },
         {
           "agent": "npx",
@@ -234,12 +284,17 @@
       "category": "Creative",
       "agent_compat": {
         "claude": true,
-        "codex": false
+        "codex": false,
+        "copilot": true
       },
       "installs": [
         {
           "agent": "claude",
           "cmd": "claude mcp add -s user blender -- uvx blender-mcp"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot mcp add blender -- uvx blender-mcp"
         }
       ],
       "url": ""
@@ -250,12 +305,17 @@
       "category": "Marketing",
       "agent_compat": {
         "claude": true,
-        "codex": false
+        "codex": false,
+        "copilot": true
       },
       "installs": [
         {
           "agent": "claude",
           "cmd": "claude plugin install brand-voice@knowledge-work-plugins --scope user"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot plugin install brand-voice@knowledge-work-plugins"
         }
       ],
       "url": ""
@@ -309,6 +369,7 @@
       "agent_compat": {
         "claude": true,
         "codex": true,
+        "copilot": true,
         "npx": true
       },
       "installs": [
@@ -319,6 +380,10 @@
         {
           "agent": "codex",
           "cmd": "npx skills add JuliusBrussee/caveman -a codex"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot plugin marketplace add JuliusBrussee/caveman && copilot plugin install caveman@caveman"
         },
         {
           "agent": "npx",
@@ -333,12 +398,17 @@
       "category": "Plugin/Agent",
       "agent_compat": {
         "claude": true,
-        "codex": false
+        "codex": false,
+        "copilot": true
       },
       "installs": [
         {
           "agent": "claude",
           "cmd": "claude plugin install claude-md-management@claude-plugins-official --scope user"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot plugin install claude-md-management@claude-plugins-official"
         }
       ],
       "url": ""
@@ -349,12 +419,17 @@
       "category": "Plugin/Agent",
       "agent_compat": {
         "claude": true,
-        "codex": false
+        "codex": false,
+        "copilot": true
       },
       "installs": [
         {
           "agent": "claude",
           "cmd": "claude plugin marketplace add anthropics/claude-plugins-official"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot plugin marketplace add anthropics/claude-plugins-official"
         }
       ],
       "url": ""
@@ -366,6 +441,7 @@
       "agent_compat": {
         "claude": true,
         "codex": true,
+        "copilot": true,
         "npx": true
       },
       "installs": [
@@ -376,6 +452,10 @@
         {
           "agent": "codex",
           "cmd": "codex mcp add cloudflare --url https://mcp.cloudflare.com/mcp"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot mcp add --transport http cloudflare https://mcp.cloudflare.com/mcp"
         },
         {
           "agent": "npx",
@@ -390,12 +470,17 @@
       "category": "Plugin/Agent",
       "agent_compat": {
         "claude": true,
-        "codex": false
+        "codex": false,
+        "copilot": true
       },
       "installs": [
         {
           "agent": "claude",
           "cmd": "claude plugin install code-simplifier@claude-plugins-official --scope user"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot plugin install code-simplifier@claude-plugins-official"
         }
       ],
       "url": ""
@@ -422,12 +507,17 @@
       "category": "Plugin/Agent",
       "agent_compat": {
         "claude": true,
-        "codex": false
+        "codex": false,
+        "copilot": true
       },
       "installs": [
         {
           "agent": "claude",
           "cmd": "claude plugin marketplace add openai/codex-plugin-cc && claude plugin install codex@openai-codex --scope user"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot plugin marketplace add openai/codex-plugin-cc && copilot plugin install codex@openai-codex"
         }
       ],
       "url": ""
@@ -438,7 +528,8 @@
       "category": "Development",
       "agent_compat": {
         "claude": true,
-        "codex": true
+        "codex": true,
+        "copilot": true
       },
       "installs": [
         {
@@ -448,6 +539,10 @@
         {
           "agent": "codex",
           "cmd": "codex mcp add comfyui -- npx -y comfyui-mcp"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot plugin marketplace add artokun/comfyui-mcp && copilot plugin install comfy@comfyui-mcp"
         }
       ],
       "url": ""
@@ -458,12 +553,17 @@
       "category": "Productivity",
       "agent_compat": {
         "claude": true,
-        "codex": false
+        "codex": false,
+        "copilot": true
       },
       "installs": [
         {
           "agent": "claude",
           "cmd": "claude mcp add --transport http composio \"$COMPOSIO_MCP_URL\" --headers \"X-API-Key:$COMPOSIO_API_KEY\""
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot mcp add --transport http composio \"$COMPOSIO_MCP_URL\" --header \"X-API-Key: $COMPOSIO_API_KEY\""
         }
       ],
       "url": ""
@@ -475,6 +575,7 @@
       "agent_compat": {
         "claude": true,
         "codex": true,
+        "copilot": true,
         "npx": true
       },
       "installs": [
@@ -485,6 +586,10 @@
         {
           "agent": "codex",
           "cmd": "codex mcp add context7 -- npx -y @upstash/context7-mcp"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot plugin install context7@claude-plugins-official"
         },
         {
           "agent": "",
@@ -503,12 +608,17 @@
       "category": "DAW/Music",
       "agent_compat": {
         "claude": true,
-        "codex": false
+        "codex": false,
+        "copilot": true
       },
       "installs": [
         {
           "agent": "claude",
           "cmd": "claude mcp add daw --scope user -- node %USERPROFILE%\\.local\\daw-mcp\\mcp-server\\dist\\mcp-server.js"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot mcp add daw -- node %USERPROFILE%.localdaw-mcpmcp-serverdistmcp-server.js"
         }
       ],
       "url": ""
@@ -541,6 +651,7 @@
       "agent_compat": {
         "claude": true,
         "codex": true,
+        "copilot": true,
         "npx": true
       },
       "installs": [
@@ -551,6 +662,10 @@
         {
           "agent": "codex",
           "cmd": "npx skills add https://github.com/cathrynlavery/diagram-design -a codex"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot plugin marketplace add cathrynlavery/diagram-design && copilot plugin install diagram-design@diagram-design"
         },
         {
           "agent": "npx",
@@ -565,12 +680,17 @@
       "category": "Development",
       "agent_compat": {
         "claude": true,
-        "codex": false
+        "codex": false,
+        "copilot": true
       },
       "installs": [
         {
           "agent": "claude",
           "cmd": "claude mcp add -s user -e ELEVENLABS_API_KEY=\"$ELEVENLABS_API_KEY\" elevenlabs -- uvx elevenlabs-mcp"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot mcp add --env ELEVENLABS_API_KEY=\"$ELEVENLABS_API_KEY\" elevenlabs -- uvx elevenlabs-mcp"
         }
       ],
       "url": ""
@@ -581,7 +701,8 @@
       "category": "Development",
       "agent_compat": {
         "claude": true,
-        "codex": true
+        "codex": true,
+        "copilot": true
       },
       "installs": [
         {
@@ -591,6 +712,10 @@
         {
           "agent": "codex",
           "cmd": "codex mcp add exa --url https://mcp.exa.ai/mcp"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot plugin install exa@claude-plugins-official"
         }
       ],
       "url": ""
@@ -601,12 +726,17 @@
       "category": "Development",
       "agent_compat": {
         "claude": true,
-        "codex": false
+        "codex": false,
+        "copilot": true
       },
       "installs": [
         {
           "agent": "claude",
           "cmd": "claude plugin install engineering@knowledge-work-plugins --scope user"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot plugin install engineering@knowledge-work-plugins"
         }
       ],
       "url": ""
@@ -663,12 +793,17 @@
       "category": "Development",
       "agent_compat": {
         "claude": true,
-        "codex": false
+        "codex": false,
+        "copilot": true
       },
       "installs": [
         {
           "agent": "claude",
           "cmd": "claude mcp add -s user -e FIRECRAWL_API_KEY=\"$FIRECRAWL_API_KEY\" firecrawl -- npx -y firecrawl-mcp"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot mcp add --env FIRECRAWL_API_KEY=\"$FIRECRAWL_API_KEY\" firecrawl -- npx -y firecrawl-mcp"
         }
       ],
       "url": ""
@@ -695,12 +830,17 @@
       "category": "Plugin/Agent",
       "agent_compat": {
         "claude": true,
-        "codex": false
+        "codex": false,
+        "copilot": true
       },
       "installs": [
         {
           "agent": "claude",
           "cmd": "claude plugin install frontend-design@claude-plugins-official --scope user"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot plugin install frontend-design@claude-plugins-official"
         }
       ],
       "url": ""
@@ -711,7 +851,8 @@
       "category": "Development",
       "agent_compat": {
         "claude": true,
-        "codex": true
+        "codex": true,
+        "copilot": true
       },
       "installs": [
         {
@@ -721,6 +862,10 @@
         {
           "agent": "codex",
           "cmd": "codex mcp add github --url https://api.githubcopilot.com/mcp/ --bearer-token-env-var GITHUB_PAT_TOKEN"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot plugin install github@claude-plugins-official"
         }
       ],
       "url": ""
@@ -731,12 +876,17 @@
       "category": "Cloud/DevOps",
       "agent_compat": {
         "claude": true,
-        "codex": false
+        "codex": false,
+        "copilot": true
       },
       "installs": [
         {
           "agent": "claude",
           "cmd": "claude mcp add -s user -e GRAFANA_URL=\"$GRAFANA_URL\" -e GRAFANA_SERVICE_ACCOUNT_TOKEN=\"$GRAFANA_SERVICE_ACCOUNT_TOKEN\" grafana -- mcp-grafana"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot mcp add --env GRAFANA_URL=\"$GRAFANA_URL\" --env GRAFANA_SERVICE_ACCOUNT_TOKEN=\"$GRAFANA_SERVICE_ACCOUNT_TOKEN\" grafana -- mcp-grafana"
         }
       ],
       "url": ""
@@ -768,12 +918,17 @@
       "category": "Development",
       "agent_compat": {
         "claude": true,
-        "codex": false
+        "codex": false,
+        "copilot": true
       },
       "installs": [
         {
           "agent": "claude",
           "cmd": "claude plugin install hookify@claude-plugins-official --scope user"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot plugin install hookify@claude-plugins-official"
         }
       ],
       "url": ""
@@ -784,12 +939,17 @@
       "category": "Development",
       "agent_compat": {
         "claude": true,
-        "codex": false
+        "codex": false,
+        "copilot": true
       },
       "installs": [
         {
           "agent": "claude",
           "cmd": "claude plugin install hyperframes@claude-plugins-official --scope user"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot plugin install hyperframes@claude-plugins-official"
         }
       ],
       "url": ""
@@ -800,12 +960,17 @@
       "category": "Creative",
       "agent_compat": {
         "claude": true,
-        "codex": false
+        "codex": false,
+        "copilot": true
       },
       "installs": [
         {
           "agent": "claude",
           "cmd": "claude plugin marketplace add anthropics/knowledge-work-plugins"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot plugin marketplace add anthropics/knowledge-work-plugins"
         }
       ],
       "url": ""
@@ -816,7 +981,8 @@
       "category": "Cloud/DevOps",
       "agent_compat": {
         "claude": true,
-        "codex": true
+        "codex": true,
+        "copilot": true
       },
       "installs": [
         {
@@ -826,6 +992,10 @@
         {
           "agent": "codex",
           "cmd": "codex mcp add kubernetes -- npx -y kubernetes-mcp-server@latest --read-only"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot mcp add kubernetes -- npx -y kubernetes-mcp-server@latest --read-only"
         }
       ],
       "url": ""
@@ -836,7 +1006,8 @@
       "category": "Creative",
       "agent_compat": {
         "claude": true,
-        "codex": true
+        "codex": true,
+        "copilot": true
       },
       "installs": [
         {
@@ -846,6 +1017,10 @@
         {
           "agent": "codex",
           "cmd": "codex mcp add magnific --url https://mcp.magnific.com"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot mcp add --transport http magnific https://mcp.magnific.com"
         }
       ],
       "url": ""
@@ -856,12 +1031,17 @@
       "category": "Marketing",
       "agent_compat": {
         "claude": true,
-        "codex": false
+        "codex": false,
+        "copilot": true
       },
       "installs": [
         {
           "agent": "claude",
           "cmd": "claude plugin install marketing@knowledge-work-plugins --scope user"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot plugin install marketing@knowledge-work-plugins"
         }
       ],
       "url": ""
@@ -914,12 +1094,17 @@
       "category": "Research",
       "agent_compat": {
         "claude": true,
-        "codex": false
+        "codex": false,
+        "copilot": true
       },
       "installs": [
         {
           "agent": "claude",
           "cmd": "claude plugin install pdf-viewer@knowledge-work-plugins --scope user"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot plugin install pdf-viewer@knowledge-work-plugins"
         }
       ],
       "url": ""
@@ -931,12 +1116,17 @@
       "agent_compat": {
         "claude": true,
         "codex": false,
+        "copilot": true,
         "npx": true
       },
       "installs": [
         {
           "agent": "claude",
           "cmd": "npm install -g intelephense && claude plugin install php-lsp@claude-plugins-official --scope user"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "npm install -g intelephense && copilot plugin install php-lsp@claude-plugins-official"
         },
         {
           "agent": "npx",
@@ -978,6 +1168,7 @@
       "agent_compat": {
         "claude": true,
         "codex": true,
+        "copilot": true,
         "npx": true
       },
       "installs": [
@@ -988,6 +1179,10 @@
         {
           "agent": "codex",
           "cmd": "codex plugin marketplace add DietrichGebert/ponytail\ncodex plugin add ponytail@ponytail"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "/plugin marketplace add DietrichGebert/ponytail\n/plugin install ponytail@ponytail"
         },
         {
           "agent": "npx",
@@ -1002,12 +1197,17 @@
       "category": "Marketing",
       "agent_compat": {
         "claude": true,
-        "codex": false
+        "codex": false,
+        "copilot": true
       },
       "installs": [
         {
           "agent": "claude",
           "cmd": "claude plugin install postiz@knowledge-work-plugins --scope user"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot plugin install postiz@knowledge-work-plugins"
         }
       ],
       "url": ""
@@ -1018,12 +1218,17 @@
       "category": "Productivity",
       "agent_compat": {
         "claude": true,
-        "codex": false
+        "codex": false,
+        "copilot": true
       },
       "installs": [
         {
           "agent": "claude",
           "cmd": "claude plugin install productivity@knowledge-work-plugins --scope user"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot plugin install productivity@knowledge-work-plugins"
         }
       ],
       "url": ""
@@ -1035,12 +1240,17 @@
       "agent_compat": {
         "claude": true,
         "codex": false,
+        "copilot": true,
         "npx": true
       },
       "installs": [
         {
           "agent": "claude",
           "cmd": "npm install -g pyright && claude plugin install pyright-lsp@claude-plugins-official --scope user"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "npm install -g pyright && copilot plugin install pyright-lsp@claude-plugins-official"
         },
         {
           "agent": "npx",
@@ -1055,12 +1265,17 @@
       "category": "DAW/Music",
       "agent_compat": {
         "claude": true,
-        "codex": false
+        "codex": false,
+        "copilot": true
       },
       "installs": [
         {
           "agent": "claude",
           "cmd": "pip install reaper-mcp-server && claude mcp add -s user reaper -- reaper-mcp-server"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "pip install reaper-mcp-server && copilot mcp add reaper -- reaper-mcp-server"
         }
       ],
       "url": ""
@@ -1071,12 +1286,17 @@
       "category": "Development",
       "agent_compat": {
         "claude": true,
-        "codex": false
+        "codex": false,
+        "copilot": true
       },
       "installs": [
         {
           "agent": "claude",
           "cmd": "claude mcp add -s user serena -- uvx --from git+https://github.com/oraios/serena serena-mcp-server"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot mcp add serena -- uvx --from git+https://github.com/oraios/serena serena-mcp-server"
         }
       ],
       "url": ""
@@ -1087,12 +1307,17 @@
       "category": "Services",
       "agent_compat": {
         "claude": true,
-        "codex": false
+        "codex": false,
+        "copilot": true
       },
       "installs": [
         {
           "agent": "claude",
           "cmd": "claude mcp add rvagent -- npx @ruvnet/rvagent stdio"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot mcp add rvagent -- npx @ruvnet/rvagent stdio"
         }
       ],
       "url": ""
@@ -1103,12 +1328,17 @@
       "category": "Services",
       "agent_compat": {
         "claude": true,
-        "codex": false
+        "codex": false,
+        "copilot": true
       },
       "installs": [
         {
           "agent": "claude",
           "cmd": "claude mcp add ruflo -- npx ruflo@latest mcp start"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot mcp add ruflo -- npx ruflo@latest mcp start"
         }
       ],
       "url": ""
@@ -1119,12 +1349,17 @@
       "category": "Development",
       "agent_compat": {
         "claude": true,
-        "codex": false
+        "codex": false,
+        "copilot": true
       },
       "installs": [
         {
           "agent": "claude",
           "cmd": "claude mcp add -s user --transport http suno https://suno.mcp.acedata.cloud/mcp"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot mcp add --transport http suno https://suno.mcp.acedata.cloud/mcp"
         }
       ],
       "url": ""
@@ -1156,12 +1391,17 @@
       "category": "Plugin/Agent",
       "agent_compat": {
         "claude": true,
-        "codex": false
+        "codex": false,
+        "copilot": true
       },
       "installs": [
         {
           "agent": "claude",
           "cmd": "claude plugin install superpowers@claude-plugins-official --scope user"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot plugin install superpowers@claude-plugins-official"
         }
       ],
       "url": ""
@@ -1198,12 +1438,17 @@
       "agent_compat": {
         "claude": true,
         "codex": false,
+        "copilot": true,
         "npx": true
       },
       "installs": [
         {
           "agent": "claude",
           "cmd": "npm install -g typescript-language-server typescript && claude plugin install typescript-lsp@claude-plugins-official --scope user"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "npm install -g typescript-language-server typescript && copilot plugin install typescript-lsp@claude-plugins-official"
         },
         {
           "agent": "npx",
