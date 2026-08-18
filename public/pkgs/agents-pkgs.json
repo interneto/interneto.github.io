@@ -6,7 +6,8 @@
       "category": "Core",
       "agent_compat": {
         "claude": true,
-        "codex": true
+        "codex": true,
+        "npx": true
       },
       "installs": [
         {
@@ -16,6 +17,10 @@
         {
           "agent": "codex",
           "cmd": "codex mcp add filesystem -- npx -y @modelcontextprotocol/server-filesystem ."
+        },
+        {
+          "agent": "npx",
+          "cmd": "npx -y @modelcontextprotocol/server-filesystem ."
         }
       ],
       "url": ""
@@ -86,7 +91,8 @@
       "category": "Design",
       "agent_compat": {
         "claude": true,
-        "codex": true
+        "codex": true,
+        "npx": true
       },
       "installs": [
         {
@@ -96,6 +102,10 @@
         {
           "agent": "codex",
           "cmd": "codex mcp add dashboard-icons -- npx -y mcp-remote https://dashboardicons.com/api/mcp"
+        },
+        {
+          "agent": "npx",
+          "cmd": "npx -y mcp-remote https://dashboardicons.com/api/mcp"
         }
       ],
       "url": ""
@@ -174,7 +184,8 @@
       "category": "Development",
       "agent_compat": {
         "claude": true,
-        "codex": true
+        "codex": true,
+        "npx": true
       },
       "installs": [
         {
@@ -183,6 +194,10 @@
         },
         {
           "agent": "codex",
+          "cmd": "npx skills add addyosmani/agent-skills -a codex"
+        },
+        {
+          "agent": "npx",
           "cmd": "npx skills add addyosmani/agent-skills -a codex"
         }
       ],
@@ -194,7 +209,8 @@
       "category": "Development",
       "agent_compat": {
         "claude": true,
-        "codex": true
+        "codex": true,
+        "npx": true
       },
       "installs": [
         {
@@ -203,6 +219,10 @@
         },
         {
           "agent": "codex",
+          "cmd": "npm install -g @ast-grep/cli"
+        },
+        {
+          "agent": "npx",
           "cmd": "npm install -g @ast-grep/cli"
         }
       ],
@@ -246,11 +266,16 @@
       "category": "Plugin/Agent",
       "agent_compat": {
         "claude": false,
-        "codex": true
+        "codex": true,
+        "npx": true
       },
       "installs": [
         {
           "agent": "codex",
+          "cmd": "npx codex-marketplace add openai/plugins/plugins/build-web-apps --plugin"
+        },
+        {
+          "agent": "npx",
           "cmd": "npx codex-marketplace add openai/plugins/plugins/build-web-apps --plugin"
         }
       ],
@@ -262,11 +287,16 @@
       "category": "Creative",
       "agent_compat": {
         "claude": false,
-        "codex": true
+        "codex": true,
+        "npx": true
       },
       "installs": [
         {
           "agent": "codex",
+          "cmd": "npx codex-marketplace add openai/plugins/plugins/canva --plugin"
+        },
+        {
+          "agent": "npx",
           "cmd": "npx codex-marketplace add openai/plugins/plugins/canva --plugin"
         }
       ],
@@ -278,7 +308,8 @@
       "category": "Plugin/Agent",
       "agent_compat": {
         "claude": true,
-        "codex": true
+        "codex": true,
+        "npx": true
       },
       "installs": [
         {
@@ -287,6 +318,10 @@
         },
         {
           "agent": "codex",
+          "cmd": "npx skills add JuliusBrussee/caveman -a codex"
+        },
+        {
+          "agent": "npx",
           "cmd": "npx skills add JuliusBrussee/caveman -a codex"
         }
       ],
@@ -330,7 +365,8 @@
       "category": "Cloud/DevOps",
       "agent_compat": {
         "claude": true,
-        "codex": true
+        "codex": true,
+        "npx": true
       },
       "installs": [
         {
@@ -339,6 +375,10 @@
         },
         {
           "agent": "codex",
+          "cmd": "npx codex-marketplace add openai/plugins/plugins/cloudflare --plugin"
+        },
+        {
+          "agent": "npx",
           "cmd": "npx codex-marketplace add openai/plugins/plugins/cloudflare --plugin"
         }
       ],
@@ -434,7 +474,8 @@
       "category": "Development",
       "agent_compat": {
         "claude": true,
-        "codex": true
+        "codex": true,
+        "npx": true
       },
       "installs": [
         {
@@ -447,6 +488,10 @@
         },
         {
           "agent": "",
+          "cmd": "npx ctx7 setup"
+        },
+        {
+          "agent": "npx",
           "cmd": "npx ctx7 setup"
         }
       ],
@@ -495,7 +540,8 @@
       "category": "Creative",
       "agent_compat": {
         "claude": true,
-        "codex": true
+        "codex": true,
+        "npx": true
       },
       "installs": [
         {
@@ -504,6 +550,10 @@
         },
         {
           "agent": "codex",
+          "cmd": "npx skills add https://github.com/cathrynlavery/diagram-design -a codex"
+        },
+        {
+          "agent": "npx",
           "cmd": "npx skills add https://github.com/cathrynlavery/diagram-design -a codex"
         }
       ],
@@ -608,7 +658,8 @@
       "category": "Plugin/Agent",
       "agent_compat": {
         "claude": true,
-        "codex": true
+        "codex": true,
+        "npx": true
       },
       "installs": [
         {
@@ -617,6 +668,10 @@
         },
         {
           "agent": "codex",
+          "cmd": "npx -y firecrawl-cli@latest init --all --browser"
+        },
+        {
+          "agent": "npx",
           "cmd": "npx -y firecrawl-cli@latest init --all --browser"
         }
       ],
@@ -712,11 +767,16 @@
       "category": "Plugin/Agent",
       "agent_compat": {
         "claude": false,
-        "codex": true
+        "codex": true,
+        "npx": true
       },
       "installs": [
         {
           "agent": "codex",
+          "cmd": "npx codex-marketplace add higgsfield-ai/skills --plugin"
+        },
+        {
+          "agent": "npx",
           "cmd": "npx codex-marketplace add higgsfield-ai/skills --plugin"
         }
       ],
@@ -890,12 +950,17 @@
       "category": "Development",
       "agent_compat": {
         "claude": true,
-        "codex": false
+        "codex": false,
+        "npx": true
       },
       "installs": [
         {
           "agent": "claude",
           "cmd": "npm install -g intelephense && claude plugin install php-lsp@claude-plugins-official --scope user"
+        },
+        {
+          "agent": "npx",
+          "cmd": "npm install -g intelephense"
         }
       ],
       "url": ""
@@ -994,12 +1059,17 @@
       "category": "Development",
       "agent_compat": {
         "claude": true,
-        "codex": false
+        "codex": false,
+        "npx": true
       },
       "installs": [
         {
           "agent": "claude",
           "cmd": "npm install -g pyright && claude plugin install pyright-lsp@claude-plugins-official --scope user"
+        },
+        {
+          "agent": "npx",
+          "cmd": "npm install -g pyright"
         }
       ],
       "url": ""
@@ -1152,12 +1222,17 @@
       "category": "Development",
       "agent_compat": {
         "claude": true,
-        "codex": false
+        "codex": false,
+        "npx": true
       },
       "installs": [
         {
           "agent": "claude",
           "cmd": "npm install -g typescript-language-server typescript && claude plugin install typescript-lsp@claude-plugins-official --scope user"
+        },
+        {
+          "agent": "npx",
+          "cmd": "npm install -g typescript-language-server typescript"
         }
       ],
       "url": ""

@@ -72,9 +72,7 @@ function generatePackages(): void {
         Array.from(document.querySelectorAll<HTMLInputElement>('input[name="pkg"]:checked')).map(c => c.value)
     );
 
-    let items = activeAgent === 'npx'
-        ? [...allAgents]
-        : allAgents.filter(a => a.agent_compat?.[activeAgent]);
+    let items = allAgents.filter(a => a.agent_compat?.[activeAgent]);
     if (activeFilter === 'mcp') items = items.filter(a => a.type === 'MCP Server');
     else if (activeFilter === 'plugin') items = items.filter(a => a.type !== 'MCP Server');
     if (searchTerm) {
@@ -258,7 +256,8 @@ function autoGenerateCommand(): void {
         if (!e) continue;
         const inst = e.installs?.find(i => i.agent === activeAgent) || e.installs?.find(i => i.agent === '') || e.installs?.[0];
         if (inst?.cmd) {
-            lines.push(inst.cmd);
+            // Join multi-step commands with && so each package is one line
+            lines.push(inst.cmd.replace(/\n/g, ' && '));
         }
     }
 
