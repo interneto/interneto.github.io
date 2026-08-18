@@ -14,8 +14,6 @@ import CompatibilityTablePage from '../../components/CompatibilityTablePage.astr
     <button type="button" class="filter-chip active" data-os="all" aria-pressed="true">All</button>
     <button type="button" class="filter-chip" data-os="mcp" aria-pressed="false">MCP Servers</button>
     <button type="button" class="filter-chip" data-os="plugin" aria-pressed="false">Plugins / Skills</button>
-    <button type="button" class="filter-chip" data-os="claude" aria-pressed="false">Claude Code</button>
-    <button type="button" class="filter-chip" data-os="codex" aria-pressed="false">Codex CLI</button>
   </div>
 
   <div slot="legend" class="legend" aria-label="Compatibility legend">
@@ -41,9 +39,10 @@ import CompatibilityTablePage from '../../components/CompatibilityTablePage.astr
               <span class="sort-arrow down" data-column="name" data-direction="desc"></span>
             </span>
           </th>
-          <th class="os-column">Type</th>
           <th class="os-column">Claude</th>
           <th class="os-column">Codex</th>
+          <th class="os-column">Copilot</th>
+          <th class="os-column">NPX</th>
         </tr>
       </thead>
       <tbody id="tableBody"></tbody>

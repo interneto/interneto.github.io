@@ -8,3 +8,8 @@ links/interneto-links.csv
 links/interneto-links.htm
 nsfw-content.md
 .playwright-mcp/
+# Temp files from ClaudePluginHub API queries
+scripts/fetch-cph-*.py
+scripts/query-cph-*.py
+scripts/crossref-cph*.py
+scripts/parse-cph*.py

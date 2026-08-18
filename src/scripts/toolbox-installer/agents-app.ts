@@ -17,16 +17,17 @@ const JSON_URL = `${BASE}pkgs/agents-pkgs.json`;
 interface AgentInstall { agent: string; cmd: string; }
 interface AgentEntry {
     name: string; type: string; category: string; description: string;
-    agent_compat: { claude: boolean; codex: boolean };
+    agent_compat: { claude: boolean; codex: boolean; copilot?: boolean; npx?: boolean };
     installs: AgentInstall[]; url: string;
 }
 interface AgentsData { agents: Record<string, AgentEntry>; }
 
 let allAgents: Array<{ id: string } & AgentEntry> = [];
-let activeAgent: 'claude' | 'codex' = 'claude';
+let activeAgent: 'claude' | 'codex' | 'copilot' | 'npx' = 'claude';
 let activeFilter: 'all' | 'mcp' | 'plugin' = 'all';
 let searchTerm = '';
 let favorites: string[] = [];
+let checkedIds: Set<string> = new Set();
 
 async function loadData(): Promise<void> {
     const res = await fetch(JSON_URL);
@@ -66,7 +67,14 @@ function generatePackages(): void {
     const container = getElement('PACKAGE_CONTAINER');
     if (!container) return;
 
-    let items = allAgents.filter(a => a.agent_compat?.[activeAgent]);
+    // Save checked state before re-render
+    checkedIds = new Set(
+        Array.from(document.querySelectorAll<HTMLInputElement>('input[name="pkg"]:checked')).map(c => c.value)
+    );
+
+    let items = activeAgent === 'npx'
+        ? [...allAgents]
+        : allAgents.filter(a => a.agent_compat?.[activeAgent]);
     if (activeFilter === 'mcp') items = items.filter(a => a.type === 'MCP Server');
     else if (activeFilter === 'plugin') items = items.filter(a => a.type !== 'MCP Server');
     if (searchTerm) {
@@ -101,6 +109,11 @@ function generatePackages(): void {
     }
     container.innerHTML = html || '<p class="no-results" style="text-align:center;padding:2rem;color:var(--text-secondary);">No agents match your filters.</p>';
 
+    // Restore checked state
+    document.querySelectorAll<HTMLInputElement>('input[name="pkg"]').forEach(c => {
+        if (checkedIds.has(c.value)) c.checked = true;
+    });
+
     setupCategoryCheckboxes();
     updateAllCategoryCheckboxes();
     updateSelectAllState();
@@ -113,7 +126,7 @@ function setupAgentSelector(): void {
     const btns = selector.querySelectorAll<HTMLElement>('.os-btn');
     btns.forEach(btn => {
         btn.addEventListener('click', () => {
-            const agent = btn.dataset.agent as 'claude' | 'codex';
+            const agent = btn.dataset.agent as 'claude' | 'codex' | 'copilot' | 'npx';
             if (!agent) return;
             activeAgent = agent;
             btns.forEach(b => { b.classList.remove(CLASS_NAMES.ACTIVE); b.setAttribute('aria-pressed', 'false'); });
@@ -243,16 +256,13 @@ function autoGenerateCommand(): void {
     for (const id of ids) {
         const e = allAgents.find(a => a.id === id);
         if (!e) continue;
-        const inst = e.installs?.find(i => i.agent === activeAgent) || e.installs?.[0];
+        const inst = e.installs?.find(i => i.agent === activeAgent) || e.installs?.find(i => i.agent === '') || e.installs?.[0];
         if (inst?.cmd) {
-            lines.push(`# ${e.name}\n${inst.cmd}`);
-        } else {
-            lines.push(`# ${e.name}\n# No install command for ${activeAgent}`);
+            lines.push(inst.cmd);
         }
     }
 
-    const agentLabel = activeAgent === 'claude' ? 'Claude Code' : 'Codex CLI';
-    cmdEl.textContent = `# ── Install commands for ${agentLabel} ──\n${lines.join('\n\n')}`;
+    cmdEl.textContent = lines.join('\n');
     if (footer) footer.hidden = false;
 }
 

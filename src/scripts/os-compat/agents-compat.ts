@@ -19,7 +19,7 @@ interface AgentEntry {
     type: string;
     category: string;
     description: string;
-    agent_compat: { claude: boolean; codex: boolean };
+    agent_compat: { claude: boolean; codex: boolean; copilot?: boolean; npx?: boolean };
 }
 
 interface AgentsData {
@@ -33,6 +33,8 @@ interface TableItem {
     category: string;
     claude: boolean;
     codex: boolean;
+    copilot: boolean;
+    npx: boolean;
     isMcp: boolean;
 }
 
@@ -43,7 +45,7 @@ let filteredItems: TableItem[] = [];
 
 interface SortState { column: string; direction: string; }
 let sortState: SortState = { column: 'name', direction: 'asc' };
-let activeFilter = 'all'; // 'all', 'mcp', 'plugin', 'claude', 'codex'
+let activeFilter = 'all'; // 'all', 'mcp', 'plugin'
 let searchTerm = '';
 
 // ---- Data ----
@@ -56,6 +58,8 @@ function loadData(data: AgentsData): void {
         category: entry.category || 'Other',
         claude: entry.agent_compat?.claude ?? false,
         codex: entry.agent_compat?.codex ?? false,
+        copilot: entry.agent_compat?.copilot ?? false,
+        npx: entry.agent_compat?.npx ?? false,
         isMcp: entry.type === 'MCP Server',
     }));
 }
@@ -82,7 +86,7 @@ function applyFilters(): void {
     items.sort((a, b) => {
         let va = String(a[sortState.column as keyof TableItem] ?? '').toLowerCase();
         let vb = String(b[sortState.column as keyof TableItem] ?? '').toLowerCase();
-        if (sortState.column === 'codex' || sortState.column === 'claude') {
+        if (sortState.column === 'codex' || sortState.column === 'claude' || sortState.column === 'copilot' || sortState.column === 'npx') {
             va = a[sortState.column as keyof TableItem] ? '1' : '0';
             vb = b[sortState.column as keyof TableItem] ? '1' : '0';
         }
@@ -114,7 +118,7 @@ function renderTable(): void {
     if (!tbody) return;
 
     if (filteredItems.length === 0) {
-        tbody.innerHTML = `<tr><td colspan="4" style="text-align:center;padding:2rem;color:var(--text-secondary);">No tools match your filters</td></tr>`;
+        tbody.innerHTML = `<tr><td colspan="6" style="text-align:center;padding:2rem;color:var(--text-secondary);">No tools match your filters</td></tr>`;
         return;
     }
 
@@ -124,6 +128,8 @@ function renderTable(): void {
             <td class="sticky-col app-col"><strong>${escapeHtml(item.name)}</strong></td>
             <td class="os-column">${statusIcon(item.claude, item.claude ? 'Compatible with Claude Code' : 'Not compatible with Claude Code')}</td>
             <td class="os-column">${statusIcon(item.codex, item.codex ? 'Compatible with Codex CLI' : 'Not compatible with Codex CLI')}</td>
+            <td class="os-column">${statusIcon(item.copilot, item.copilot ? 'Compatible with GitHub Copilot CLI' : 'Not compatible with GitHub Copilot CLI')}</td>
+            <td class="os-column">${statusIcon(item.npx, item.npx ? 'Compatible with NPX (any agent)' : 'Not compatible with NPX (any agent)')}</td>
         </tr>
     `).join('');
 }

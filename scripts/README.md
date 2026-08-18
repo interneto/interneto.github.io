@@ -119,6 +119,58 @@ General utilities:
 
 ## Category Mapping
 
+### Raindrop → Markdown
+
+The converter maps Raindrop folder paths to markdown files using `config/categories.js`. Each top-level folder becomes a separate markdown file with nested items rendered as subheadings.
+
+---
+
+## ClaudePluginHub API — Agent install commands
+
+The AI Agents installer (`public/pkgs/agents-pkgs.json`) uses the [ClaudePluginHub](https://www.claudepluginhub.com) API to source standardized install commands for Claude Code plugins and MCP servers.
+
+### API endpoint
+
+```
+POST https://www.claudepluginhub.com/api/recommend
+Content-Type: application/json
+
+{
+  "dependencies": ["react", "typescript", "node"],
+  "files": ["package.json", "tsconfig.json"]
+}
+```
+
+Returns a `sections[].results[]` array where each result has:
+
+```json
+{
+  "name": "typescript-lsp",
+  "install": {
+    "command": "npx claudepluginhub p/anthropics-typescript-lsp-plugins-typescript-lsp",
+    "claude": {
+      "addCommand": "/plugin marketplace add https://.../marketplace.json",
+      "installCommand": "/plugin install ...@cpd-..."
+    }
+  }
+}
+```
+
+### How to update entries
+
+1. Query the API with relevant dependencies to find matching entries
+2. Map the CPH `install.claude` commands to `installs[].cmd` in `agents-pkgs.json`
+3. Add a generic `npx` install entry: `npx claudepluginhub p/<slug>`
+4. Set `agent_compat.npx: true` for entries that have a generic command
+
+The API is rate-limited per IP. Use `curl` (not Python) to avoid Cloudflare blocks:
+
+```bash
+curl -sL -X POST "https://www.claudepluginhub.com/api/recommend" \
+  -H "Content-Type: application/json" \
+  -d '{"dependencies":["react","typescript"],"files":["package.json"]}'
+```
+
 The converter recognizes items in paths: `Apps/{category}/...`
 
 Current categories (19 total):

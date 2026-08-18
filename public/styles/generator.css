@@ -1798,6 +1798,53 @@ form {
     }
 }
 
+/* ── Filter chips (agents installer) ── */
+.page-filter-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    align-items: center;
+}
+
+.filter-chips {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--spacing-xs);
+    justify-content: center;
+    margin-top: 0;
+}
+
+.filter-chip {
+    border: 1.5px solid color-mix(in srgb, var(--border-color) 62%, var(--primary-color) 38%);
+    background: linear-gradient(180deg, color-mix(in srgb, var(--card-background) 88%, var(--primary-color) 12%), color-mix(in srgb, var(--card-background) 96%, var(--primary-color) 4%));
+    color: var(--text-primary);
+    padding: 8px 14px;
+    border-radius: 999px;
+    font-size: 12px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    width: auto;
+    box-shadow: 0 2px 8px var(--neutral-overlay-05);
+}
+
+.filter-chip:hover {
+    border-color: var(--primary-color);
+    box-shadow: 0 8px 18px color-mix(in srgb, var(--primary-color) 18%, transparent);
+    transform: translateY(-1px);
+}
+
+.filter-chip.active {
+    background: linear-gradient(180deg, color-mix(in srgb, var(--primary-color) 92%, #ffffff 8%), var(--primary-color));
+    color: var(--text-on-primary);
+    border-color: var(--primary-color);
+    box-shadow: 0 10px 20px color-mix(in srgb, var(--primary-color) 30%, transparent);
+}
+
+.filter-chip:focus-visible {
+    outline: 3px solid var(--focus-ring-color-soft);
+    outline-offset: 2px;
+}
+
 @media (min-width: 768px) {
     .primary-os-selector {
         flex-wrap: wrap;
