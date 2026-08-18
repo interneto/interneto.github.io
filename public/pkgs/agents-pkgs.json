@@ -162,7 +162,7 @@
     },
     "pkg-affinity": {
       "name": "Affinity",
-      "type": "Plugin/Skill",
+      "type": "Creative",
       "category": "Services",
       "description": "Official Affinity (Canva) AI Connector for Claude — launched April 2026, free during beta. Account-specific, no static public endpoint: log into your Affinity account (app or affinity.studio) → Integr",
       "agent_compat": {
@@ -268,7 +268,7 @@
     },
     "pkg-canva": {
       "name": "Canva",
-      "type": "Plugin/Skill",
+      "type": "Creative",
       "category": "Plugin/Agent",
       "description": "",
       "agent_compat": {
@@ -818,7 +818,7 @@
     },
     "pkg-magnific": {
       "name": "Magnific",
-      "type": "Plugin/Skill",
+      "type": "Creative",
       "category": "Services",
       "description": "official Magnific MCP — image/video generation and upscaling; OAuth sign-in, no API key; remote streamable-HTTP server at mcp.magnific.com — https://www.magnific.com/mcp",
       "agent_compat": {

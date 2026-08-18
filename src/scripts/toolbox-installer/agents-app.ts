@@ -1,9 +1,9 @@
 /**
  * Agents App — AI Agents Installer
  *
- * Reuses the desktop installer UI patterns (checkboxes, category toggles,
- * search, CommandFooter with copy buttons) but generates agent install
- * commands (Claude Code / Codex CLI) from each agent entry's `installs[]`.
+ * Shows all MCP servers, plugins, and skills filtered by agent + type.
+ * Checkboxes + CommandFooter generate a single bulk install command
+ * for the selected agent (Claude Code / Codex CLI).
  */
 
 import { initConfigData } from '../shared/data-loader';
@@ -14,149 +14,148 @@ import { getElement, onDOMReady } from '../shared/dom-utils';
 const BASE = import.meta.env.BASE_URL.replace(/\/?$/, '/');
 const JSON_URL = `${BASE}pkgs/agents-pkgs.json`;
 
-interface AgentInstall {
-    agent: string;
-    cmd: string;
-}
-
+interface AgentInstall { agent: string; cmd: string; }
 interface AgentEntry {
-    name: string;
-    type: string;
-    category: string;
-    description: string;
+    name: string; type: string; category: string; description: string;
     agent_compat: { claude: boolean; codex: boolean };
-    installs: AgentInstall[];
-    url: string;
+    installs: AgentInstall[]; url: string;
 }
+interface AgentsData { agents: Record<string, AgentEntry>; }
 
-interface AgentsData {
-    agents: Record<string, AgentEntry>;
-}
-
-// ---- State ----
 let allAgents: Array<{ id: string } & AgentEntry> = [];
+let activeAgent: 'claude' | 'codex' = 'claude';
+let activeFilter: 'all' | 'mcp' | 'plugin' = 'all';
 let searchTerm = '';
 let favorites: string[] = [];
 
-// ─── Data Loading ───────────────────────────────────────────────────────────
-
 async function loadData(): Promise<void> {
     const res = await fetch(JSON_URL);
-    if (!res.ok) throw new Error(`Failed to load agents: ${res.statusText}`);
+    if (!res.ok) throw new Error(`Failed: ${res.statusText}`);
     const data: AgentsData = await res.json();
     allAgents = Object.entries(data.agents).map(([id, entry]) => ({ id, ...entry }));
 }
 
-// ─── Category Emoji ──────────────────────────────────────────────────────────
-
 function getCatEmoji(cat: string): string {
-    const map: Record<string, string> = {
-        'Core': '🔧', 'Development': '💻', 'Cloud/DevOps': '☁️', 'Creative': '🎨',
-        'DAW/Music': '🎵', 'Design': '🖌️', 'Productivity': '📋', 'Search': '🔍',
-        'Research': '📚', 'Marketing': '📢', 'Bookmarks': '🔖', 'Services': '⚡',
-        'MCP': '🔌', 'Plugin/Agent': '🧩',
+    const m: Record<string, string> = {
+        Core: '🔧', Development: '💻', 'Cloud/DevOps': '☁️', Creative: '🎨',
+        'DAW/Music': '🎵', Design: '🖌️', Productivity: '📋', Search: '🔍',
+        Research: '📚', Marketing: '📢', Bookmarks: '🔖', Services: '⚡',
+        'Plugin/Agent': '🧩',
     };
-    return map[cat] || '📦';
+    return m[cat] || '📦';
 }
 
-// ─── UI Builder ──────────────────────────────────────────────────────────────
+function renderLabel(id: string, agent: typeof allAgents[0], favSet: Set<string>): string {
+    const isFav = favSet.has(id);
+    const isMcp = agent.type === 'MCP Server';
+    const icon = isMcp ? '🔌' : '🧩';
+    const tag = isMcp ? 'MCP' : 'Plugin';
+    const tagCls = isMcp ? 'mcp' : 'plugin';
+    return `
+    <label class="pkg-label" data-id="${id}" data-search="${esc((agent.name + ' ' + agent.category + ' ' + tag).toLowerCase())}">
+        <input type="checkbox" name="pkg" value="${id}" class="${CLASS_NAMES.PACKAGE_CHECKBOX}" ${isFav ? 'checked' : ''}>
+        <span class="pkg-icon-wrap">${icon}</span>
+        <span class="pkg-name-label">${esc(agent.name)}</span>
+        <span class="pkg-type-tag ${tagCls}">${tag}</span>
+    </label>`;
+}
+
+function esc(s: string): string { const d = document.createElement('div'); d.textContent = s; return d.innerHTML; }
 
 function generatePackages(): void {
     const container = getElement('PACKAGE_CONTAINER');
     if (!container) return;
 
-    // Show ALL agents (no agent filter)
-    let items = allAgents;
+    let items = allAgents.filter(a => a.agent_compat?.[activeAgent]);
+    if (activeFilter === 'mcp') items = items.filter(a => a.type === 'MCP Server');
+    else if (activeFilter === 'plugin') items = items.filter(a => a.type !== 'MCP Server');
     if (searchTerm) {
-        const q = searchTerm.toLowerCase();
+        const q = searchTerm;
         items = items.filter(a => `${a.name} ${a.category} ${a.type}`.toLowerCase().includes(q));
     }
 
-    // Group by category
     const grouped: Record<string, typeof items> = {};
     for (const a of items) {
         const cat = a.category || 'Other';
         if (!grouped[cat]) grouped[cat] = [];
         grouped[cat].push(a);
     }
-
     const sortedCats = Object.keys(grouped).sort((a, b) => a.toLowerCase().localeCompare(b.toLowerCase()));
     const favSet = new Set(favorites);
 
     let html = '';
     for (const cat of sortedCats) {
         const agents = grouped[cat];
-
         html += `<div class="${CLASS_NAMES.CATEGORY}">
             <div class="${CLASS_NAMES.CATEGORY_HEADER}" role="button" tabindex="0" aria-expanded="true">
                 <span class="toggle-arrow">▼</span>
-                <input type="checkbox" class="${CLASS_NAMES.CATEGORY_CHECKBOX}" data-category="${escapeHtml(cat)}">
+                <input type="checkbox" class="${CLASS_NAMES.CATEGORY_CHECKBOX}" data-category="${esc(cat)}">
                 <span class="${CLASS_NAMES.CATEGORY_EMOJI}">${getCatEmoji(cat)}</span>
-                <h4>${escapeHtml(cat)}</h4>
+                <h4>${esc(cat)}</h4>
                 <span class="${CLASS_NAMES.CATEGORY_BADGE}">${agents.length}</span>
             </div>
             <div class="${CLASS_NAMES.CATEGORY_CONTENT}">
-                ${agents.map(a => renderPackage(a.id, a, favSet)).join('')}
+                ${agents.map(a => renderLabel(a.id, a, favSet)).join('')}
             </div>
         </div>`;
     }
-
     container.innerHTML = html || '<p class="no-results" style="text-align:center;padding:2rem;color:var(--text-secondary);">No agents match your filters.</p>';
 
-    // Wire category checkboxes
     setupCategoryCheckboxes();
     updateAllCategoryCheckboxes();
     updateSelectAllState();
     autoGenerateCommand();
 }
 
-function renderPackage(id: string, agent: typeof allAgents[0], favSet: Set<string>): string {
-    const isFav = favSet.has(id);
-    const isMcp = agent.type === 'MCP Server';
-    const icon = isMcp ? '🔌' : '🧩';
-    const tag = isMcp ? 'MCP' : 'Plugin';
-    const tagClass = isMcp ? 'mcp' : 'plugin';
-
-    return `
-    <label class="pkg-label" data-id="${id}" data-search="${escapeHtml((agent.name + ' ' + agent.category + ' ' + tag).toLowerCase())}">
-        <input type="checkbox" name="pkg" value="${id}" class="${CLASS_NAMES.PACKAGE_CHECKBOX}" ${isFav ? 'checked' : ''}>
-        <span class="pkg-icon-wrap">${icon}</span>
-        <span class="pkg-name-label">${escapeHtml(agent.name)}</span>
-        <span class="pkg-type-tag ${tagClass}">${tag}</span>
-    </label>`;
+function setupAgentSelector(): void {
+    const selector = document.querySelector('.primary-os-selector');
+    if (!selector) return;
+    const btns = selector.querySelectorAll<HTMLElement>('.os-btn');
+    btns.forEach(btn => {
+        btn.addEventListener('click', () => {
+            const agent = btn.dataset.agent as 'claude' | 'codex';
+            if (!agent) return;
+            activeAgent = agent;
+            btns.forEach(b => { b.classList.remove(CLASS_NAMES.ACTIVE); b.setAttribute('aria-pressed', 'false'); });
+            btn.classList.add(CLASS_NAMES.ACTIVE);
+            btn.setAttribute('aria-pressed', 'true');
+            generatePackages();
+        });
+    });
 }
 
-function escapeHtml(s: string): string {
-    const d = document.createElement('div');
-    d.textContent = s;
-    return d.innerHTML;
+function setupFilterChips(): void {
+    const chips = document.querySelectorAll<HTMLElement>('.filter-chip');
+    chips.forEach(chip => {
+        chip.addEventListener('click', () => {
+            const filter = chip.dataset.filter as 'all' | 'mcp' | 'plugin';
+            if (!filter) return;
+            activeFilter = filter;
+            chips.forEach(c => { c.classList.remove('active'); c.setAttribute('aria-pressed', 'false'); });
+            chip.classList.add('active');
+            chip.setAttribute('aria-pressed', 'true');
+            generatePackages();
+        });
+    });
 }
-
-// ─── Search ──────────────────────────────────────────────────────────────────
 
 function setupSearchInput(): void {
     const input = getElement('SEARCH_INPUT') as HTMLInputElement | null;
     const container = getElement('PACKAGE_CONTAINER');
     if (!input || !container) return;
-
     let timer: ReturnType<typeof setTimeout>;
     input.addEventListener('input', () => {
         clearTimeout(timer);
         timer = setTimeout(() => {
             searchTerm = input.value.trim().toLowerCase();
-
-            if (!searchTerm) {
-                const labels = container.querySelectorAll<HTMLLabelElement>('label.pkg-label');
-                labels.forEach(l => l.classList.remove(CLASS_NAMES.SEARCH_HIDDEN));
-            } else {
-                const labels = container.querySelectorAll<HTMLLabelElement>('label.pkg-label');
-                labels.forEach(l => {
-                    const text = l.dataset.search || '';
-                    l.classList.toggle(CLASS_NAMES.SEARCH_HIDDEN, !text.includes(searchTerm));
-                });
-            }
-
-            updateSearchGroupVisibility();
+            container.querySelectorAll<HTMLLabelElement>('label.pkg-label').forEach(l => {
+                const txt = l.dataset.search || '';
+                l.classList.toggle(CLASS_NAMES.SEARCH_HIDDEN, !!searchTerm && !txt.includes(searchTerm));
+            });
+            const vl = 'label.pkg-label:not(.' + CLASS_NAMES.SEARCH_HIDDEN + ')';
+            container.querySelectorAll<HTMLElement>('.' + CLASS_NAMES.CATEGORY).forEach(c => {
+                c.classList.toggle(CLASS_NAMES.SEARCH_HIDDEN, !c.querySelector(vl));
+            });
             updateAllCategoryCheckboxes();
             updateSelectAllState();
             autoGenerateCommand();
@@ -164,65 +163,47 @@ function setupSearchInput(): void {
     });
 }
 
-function updateSearchGroupVisibility(): void {
-    const container = getElement('PACKAGE_CONTAINER');
-    if (!container) return;
-    const visibleLabel = 'label.pkg-label:not(.' + CLASS_NAMES.SEARCH_HIDDEN + ')';
-    const cats = container.querySelectorAll<HTMLElement>('.' + CLASS_NAMES.CATEGORY);
-    cats.forEach(cat => {
-        const hasVisible = !!cat.querySelector(visibleLabel);
-        cat.classList.toggle(CLASS_NAMES.SEARCH_HIDDEN, !hasVisible);
-    });
-}
-
-// ─── Checkbox Manager (inline, self-contained) ──────────────────────────────
-
 function setupCategoryCheckboxes(): void {
     document.querySelectorAll<HTMLInputElement>('.' + CLASS_NAMES.CATEGORY_CHECKBOX).forEach(cb => {
-        // Remove old listeners by replacing
-        const newCb = cb.cloneNode(true) as HTMLInputElement;
-        cb.parentNode?.replaceChild(newCb, cb);
-        newCb.addEventListener('click', (e) => {
+        const nc = cb.cloneNode(true) as HTMLInputElement;
+        cb.parentNode?.replaceChild(nc, cb);
+        nc.addEventListener('click', (e) => {
             e.stopPropagation();
-            const cat = newCb.dataset.category;
-            const pkgs = document.querySelectorAll<HTMLInputElement>('label.pkg-label input.' + CLASS_NAMES.PACKAGE_CHECKBOX);
-            const inCat: HTMLInputElement[] = [];
-            pkgs.forEach(p => {
-                const label = p.closest<HTMLElement>('.' + CLASS_NAMES.CATEGORY);
-                if (label) {
-                    const catCb = label.querySelector<HTMLInputElement>('.' + CLASS_NAMES.CATEGORY_CHECKBOX);
-                    if (catCb && (catCb as HTMLInputElement).dataset.category === cat) inCat.push(p);
+            const cat = nc.dataset.category;
+            document.querySelectorAll<HTMLLabelElement>('label.pkg-label:not(.' + CLASS_NAMES.SEARCH_HIDDEN + ')').forEach(l => {
+                const p = l.closest('.' + CLASS_NAMES.CATEGORY);
+                if (p) {
+                    const cc = p.querySelector<HTMLInputElement>('.' + CLASS_NAMES.CATEGORY_CHECKBOX);
+                    if (cc?.dataset.category === cat) {
+                        const c = l.querySelector<HTMLInputElement>('.' + CLASS_NAMES.PACKAGE_CHECKBOX);
+                        if (c) c.checked = nc.checked;
+                    }
                 }
             });
-            inCat.forEach(p => p.checked = newCb.checked);
             updateCategoryCheckbox(cat);
             updateSelectAllState();
             document.dispatchEvent(new CustomEvent(EVENT_NAMES.SELECTION_CHANGED));
             autoGenerateCommand();
         });
     });
-    // Also setup collapse toggle on category headers
     document.querySelectorAll('.' + CLASS_NAMES.CATEGORY_HEADER).forEach(header => {
         header.addEventListener('click', (e) => {
-            // Don't toggle if clicking the checkbox
             if ((e.target as HTMLInputElement).type === 'checkbox') return;
             const catDiv = (header as HTMLElement).closest('.' + CLASS_NAMES.CATEGORY);
-            if (catDiv) {
-                catDiv.classList.toggle(CLASS_NAMES.COLLAPSED);
-            }
+            if (catDiv) catDiv.classList.toggle(CLASS_NAMES.COLLAPSED);
         });
     });
 }
 
 function updateCategoryCheckbox(category?: string): void {
-    const cb = document.querySelector<HTMLInputElement>('.' + CLASS_NAMES.CATEGORY_CHECKBOX + '[data-category="' + attrEsc(category || '') + '"]');
+    const cb = document.querySelector<HTMLInputElement>('.' + CLASS_NAMES.CATEGORY_CHECKBOX + '[data-category="' + (category || '') + '"]');
     if (!cb) return;
     const catEl = cb.closest('.' + CLASS_NAMES.CATEGORY);
     if (!catEl) return;
-    const checkboxes = catEl.querySelectorAll<HTMLInputElement>('label.pkg-label:not(.' + CLASS_NAMES.SEARCH_HIDDEN + ') input.' + CLASS_NAMES.PACKAGE_CHECKBOX);
-    const checked = Array.from(checkboxes).filter(c => c.checked);
-    if (checked.length === 0) { cb.checked = false; cb.indeterminate = false; }
-    else if (checked.length === checkboxes.length) { cb.checked = true; cb.indeterminate = false; }
+    const cbs = catEl.querySelectorAll<HTMLInputElement>('label.pkg-label:not(.' + CLASS_NAMES.SEARCH_HIDDEN + ') input.' + CLASS_NAMES.PACKAGE_CHECKBOX);
+    const ch = Array.from(cbs).filter(c => c.checked);
+    if (ch.length === 0) { cb.checked = false; cb.indeterminate = false; }
+    else if (ch.length === cbs.length) { cb.checked = true; cb.indeterminate = false; }
     else { cb.checked = false; cb.indeterminate = true; }
 }
 
@@ -231,33 +212,26 @@ function updateAllCategoryCheckboxes(): void {
 }
 
 function updateSelectAllState(): void {
-    const selectAll = getElement('SELECT_ALL_CHECKBOX') as HTMLInputElement | null;
-    const label = getElement('SELECT_ALL_LABEL');
-    if (!selectAll || !label) return;
-    const visible = document.querySelectorAll<HTMLInputElement>('label.pkg-label:not(.' + CLASS_NAMES.SEARCH_HIDDEN + ') input.' + CLASS_NAMES.PACKAGE_CHECKBOX);
-    const checked = Array.from(visible).filter(c => c.checked);
-    if (checked.length === 0) { selectAll.indeterminate = false; selectAll.checked = false; label.textContent = 'Select'; }
-    else if (checked.length === visible.length) { selectAll.indeterminate = false; selectAll.checked = true; label.textContent = 'Deselect'; }
-    else { selectAll.indeterminate = true; label.textContent = 'Selected'; }
+    const sa = getElement('SELECT_ALL_CHECKBOX') as HTMLInputElement | null;
+    const lb = getElement('SELECT_ALL_LABEL');
+    if (!sa || !lb) return;
+    const vis = document.querySelectorAll<HTMLInputElement>('label.pkg-label:not(.' + CLASS_NAMES.SEARCH_HIDDEN + ') input.' + CLASS_NAMES.PACKAGE_CHECKBOX);
+    const ch = Array.from(vis).filter(c => c.checked);
+    if (ch.length === 0) { sa.indeterminate = false; sa.checked = false; lb.textContent = 'Select'; }
+    else if (ch.length === vis.length) { sa.indeterminate = false; sa.checked = true; lb.textContent = 'Deselect'; }
+    else { sa.indeterminate = true; lb.textContent = 'Selected'; }
 }
-
-function attrEsc(s: string): string {
-    return s.replace(/["\\]/g, '');
-}
-
-// ─── Command Generation ─────────────────────────────────────────────────────
 
 function autoGenerateCommand(): void {
     const footer = document.getElementById('commandFooter');
     const cmdEl = getElement('INSTALLATION_COMMAND');
-    const countEl = document.getElementById('pkgCount');
+    const cntEl = document.getElementById('pkgCount');
     if (!cmdEl) return;
 
-    const visible = document.querySelectorAll<HTMLInputElement>('label.pkg-label:not(.' + CLASS_NAMES.SEARCH_HIDDEN + ') input[name="pkg"]:checked');
-    const ids = Array.from(visible).map(c => c.value);
-    const totalChecked = document.querySelectorAll<HTMLInputElement>('input[name="pkg"]:checked').length;
-
-    if (countEl) countEl.textContent = totalChecked > 0 ? `${totalChecked} selected` : '';
+    const vis = document.querySelectorAll<HTMLInputElement>('label.pkg-label:not(.' + CLASS_NAMES.SEARCH_HIDDEN + ') input[name="pkg"]:checked');
+    const ids = Array.from(vis).map(c => c.value);
+    const total = document.querySelectorAll<HTMLInputElement>('input[name="pkg"]:checked').length;
+    if (cntEl) cntEl.textContent = total > 0 ? `${total} selected` : '';
 
     if (ids.length === 0) {
         cmdEl.textContent = 'Select tools to generate install commands...';
@@ -265,52 +239,31 @@ function autoGenerateCommand(): void {
         return;
     }
 
-    // Build commands grouped by agent type
-    const claudeLines: string[] = [];
-    const codexLines: string[] = [];
-    const otherLines: string[] = [];
-
+    const lines: string[] = [];
     for (const id of ids) {
-        const entry = allAgents.find(a => a.id === id);
-        if (!entry) continue;
-        const claude = entry.installs?.find(i => i.agent === 'claude');
-        const codex = entry.installs?.find(i => i.agent === 'codex');
-        const other = entry.installs?.find(i => i.agent !== 'claude' && i.agent !== 'codex');
-
-        if (claude?.cmd) {
-            claudeLines.push(`# ${entry.name}\n${claude.cmd}`);
-        } else if (codex?.cmd) {
-            codexLines.push(`# ${entry.name}\n${codex.cmd}`);
-        } else if (other?.cmd) {
-            otherLines.push(`# ${entry.name}\n${other.cmd}`);
+        const e = allAgents.find(a => a.id === id);
+        if (!e) continue;
+        const inst = e.installs?.find(i => i.agent === activeAgent) || e.installs?.[0];
+        if (inst?.cmd) {
+            lines.push(`# ${e.name}\n${inst.cmd}`);
         } else {
-            otherLines.push(`# ${entry.name}\n# No install command available`);
+            lines.push(`# ${e.name}\n# No install command for ${activeAgent}`);
         }
     }
 
-    const parts: string[] = [];
-    if (claudeLines.length > 0) {
-        parts.push(`# ── Claude Code ──\n${claudeLines.join('\n\n')}`);
-    }
-    if (codexLines.length > 0) {
-        parts.push(`# ── Codex CLI ──\n${codexLines.join('\n\n')}`);
-    }
-    if (otherLines.length > 0) {
-        parts.push(`# ── Others ──\n${otherLines.join('\n\n')}`);
-    }
-
-    cmdEl.textContent = parts.join('\n\n');
+    const agentLabel = activeAgent === 'claude' ? 'Claude Code' : 'Codex CLI';
+    cmdEl.textContent = `# ── Install commands for ${agentLabel} ──\n${lines.join('\n\n')}`;
     if (footer) footer.hidden = false;
 }
 
 function setupAutoCommandGeneration(): void {
     document.addEventListener('change', (e) => {
-        const target = e.target as HTMLInputElement | null;
-        if (target?.type === 'checkbox' && target.classList.contains(CLASS_NAMES.PACKAGE_CHECKBOX)) {
-            const cat = target.closest('.' + CLASS_NAMES.CATEGORY);
+        const t = e.target as HTMLInputElement | null;
+        if (t?.type === 'checkbox' && t.classList.contains(CLASS_NAMES.PACKAGE_CHECKBOX)) {
+            const cat = t.closest('.' + CLASS_NAMES.CATEGORY);
             if (cat) {
-                const cbInput = cat.querySelector<HTMLInputElement>('.' + CLASS_NAMES.CATEGORY_CHECKBOX);
-                if (cbInput) updateCategoryCheckbox(cbInput.dataset.category);
+                const ci = cat.querySelector<HTMLInputElement>('.' + CLASS_NAMES.CATEGORY_CHECKBOX);
+                if (ci) updateCategoryCheckbox(ci.dataset.category);
             }
             updateSelectAllState();
             autoGenerateCommand();
@@ -319,11 +272,10 @@ function setupAutoCommandGeneration(): void {
 }
 
 function setupSelectAllCheckbox(): void {
-    const selectAll = getElement('SELECT_ALL_CHECKBOX') as HTMLInputElement | null;
-    if (!selectAll) return;
-    selectAll.addEventListener('change', () => {
-        const checked = selectAll.checked;
-        document.querySelectorAll<HTMLInputElement>('label.pkg-label:not(.' + CLASS_NAMES.SEARCH_HIDDEN + ') input.' + CLASS_NAMES.PACKAGE_CHECKBOX).forEach(cb => cb.checked = checked);
+    const sa = getElement('SELECT_ALL_CHECKBOX') as HTMLInputElement | null;
+    if (!sa) return;
+    sa.addEventListener('change', () => {
+        document.querySelectorAll<HTMLInputElement>('label.pkg-label:not(.' + CLASS_NAMES.SEARCH_HIDDEN + ') input.' + CLASS_NAMES.PACKAGE_CHECKBOX).forEach(c => c.checked = sa.checked);
         updateAllCategoryCheckboxes();
         updateSelectAllState();
         autoGenerateCommand();
@@ -332,29 +284,24 @@ function setupSelectAllCheckbox(): void {
 
 function setupToggleAllButton(): void {
     const btn = getElement('TOGGLE_ALL_BTN');
-    const label = getElement('TOGGLE_ALL_LABEL');
+    const lbl = getElement('TOGGLE_ALL_LABEL');
     if (!btn) return;
-    let allCollapsed = true; // start collapsed
-    if (label) label.textContent = 'Expand';
+    let collapsed = true;
+    if (lbl) lbl.textContent = 'Expand';
     btn.addEventListener('click', () => {
-        allCollapsed = !allCollapsed;
-        document.querySelectorAll('.' + CLASS_NAMES.CATEGORY).forEach(c => c.classList.toggle(CLASS_NAMES.COLLAPSED, allCollapsed));
-        if (label) label.textContent = allCollapsed ? 'Expand' : 'Collapse';
+        collapsed = !collapsed;
+        document.querySelectorAll('.' + CLASS_NAMES.CATEGORY).forEach(c => c.classList.toggle(CLASS_NAMES.COLLAPSED, collapsed));
+        if (lbl) lbl.textContent = collapsed ? 'Expand' : 'Collapse';
     });
 }
 
 function setupCopyButton(): void {
-    const copyBtn = getElement('COPY_COMMAND_BTN');
-    if (!copyBtn) return;
-    copyBtn.addEventListener('click', async () => {
-        const cmdEl = getElement('INSTALLATION_COMMAND');
-        const text = cmdEl?.textContent;
-        if (!text || text.startsWith('Select')) return;
-        try {
-            await navigator.clipboard.writeText(text);
-            copyBtn.textContent = '✓ Copied!';
-            setTimeout(() => { copyBtn.textContent = '📋 Copy'; }, 2000);
-        } catch { /* ignore */ }
+    const cb = getElement('COPY_COMMAND_BTN');
+    if (!cb) return;
+    cb.addEventListener('click', async () => {
+        const t = getElement('INSTALLATION_COMMAND')?.textContent;
+        if (!t || t.startsWith('Select')) return;
+        try { await navigator.clipboard.writeText(t); cb.textContent = '✓ Copied!'; setTimeout(() => { cb.textContent = '📋 Copy'; }, 2000); } catch {}
     });
 }
 
@@ -365,15 +312,9 @@ function setupCopyListButton(): void {
         const ids = Array.from(document.querySelectorAll<HTMLInputElement>('input[name="pkg"]:checked')).map(c => c.value);
         const names = ids.map(id => allAgents.find(a => a.id === id)?.name || id).join('\n');
         if (!names) return;
-        try {
-            await navigator.clipboard.writeText(names);
-            btn.textContent = '✓ Copied!';
-            setTimeout(() => { btn.textContent = '📝 Names'; }, 2000);
-        } catch { /* ignore */ }
+        try { await navigator.clipboard.writeText(names); btn.textContent = '✓ Copied!'; setTimeout(() => { btn.textContent = '📝 Names'; }, 2000); } catch {}
     });
 }
-
-// ─── Init ────────────────────────────────────────────────────────────────────
 
 async function init(): Promise<void> {
     try {
@@ -381,26 +322,22 @@ async function init(): Promise<void> {
         await initFavoritesData();
         favorites = getFavoritesForCurrentPage();
         await loadData();
-
         generatePackages();
+        setupAgentSelector();
+        setupFilterChips();
         setupSearchInput();
         setupSelectAllCheckbox();
         setupToggleAllButton();
         setupAutoCommandGeneration();
         setupCopyButton();
         setupCopyListButton();
-
-        // Collapse all categories on load for compact view
         setTimeout(() => {
             document.querySelectorAll('.' + CLASS_NAMES.CATEGORY).forEach(c => c.classList.add(CLASS_NAMES.COLLAPSED));
-            const toggleLabel = getElement('TOGGLE_ALL_LABEL');
-            if (toggleLabel) toggleLabel.textContent = 'Expand';
         }, 50);
-        autoGenerateCommand();
     } catch (err) {
-        console.error('Agents installer init failed:', err);
-        const container = getElement('PACKAGE_CONTAINER');
-        if (container) container.innerHTML = '<p class="error-message">Failed to load agents data. Please refresh the page.</p>';
+        console.error('Agents init failed:', err);
+        const c = getElement('PACKAGE_CONTAINER');
+        if (c) c.innerHTML = '<p class="error-message">Failed to load agents data.</p>';
     }
 }
 

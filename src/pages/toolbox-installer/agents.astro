@@ -18,6 +18,10 @@ const options = [
   formId="agentForm"
 >
   <div slot="selectors" class="os-selector-container">
+    <div class="primary-os-selector">
+      <button type="button" class="os-btn active" data-agent="claude"><span class="os-btn-icon" aria-hidden="true">🤖</span> Claude Code</button>
+      <button type="button" class="os-btn" data-agent="codex"><span class="os-btn-icon" aria-hidden="true">⌨️</span> Codex CLI</button>
+    </div>
     <div class="page-filter-row filter-chips" role="group" aria-label="Filter by type">
       <button type="button" class="filter-chip active" data-filter="all" aria-pressed="true">All</button>
       <button type="button" class="filter-chip" data-filter="mcp" aria-pressed="false">🔌 MCP Servers</button>
