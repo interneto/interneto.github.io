@@ -1053,25 +1053,29 @@
       "url": ""
     },
     "notion": {
-      "name": "Notion",
+      "name": "Notion MCP",
       "type": "MCP Server",
-      "category": "Productivity",
+      "category": "Knowledge Base",
       "agent_compat": {
         "claude": true,
-        "codex": false,
-        "npx": true
+        "codex": true,
+        "copilot": true
       },
       "installs": [
         {
           "agent": "claude",
-          "cmd": "/plugin marketplace add https://www.claudepluginhub.com/api/plugins/makenotion-notion/marketplace.json\n/plugin install makenotion-notion@cpd-makenotion-notion"
+          "cmd": "claude mcp add --transport http notion https://mcp.notion.com/mcp"
         },
         {
-          "agent": "npx",
-          "cmd": "npx claudepluginhub p/makenotion-notion"
+          "agent": "codex",
+          "cmd": "codex mcp add notion --url https://mcp.notion.com/mcp && codex mcp login notion"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot mcp add --transport http notion https://mcp.notion.com/mcp"
         }
       ],
-      "url": ""
+      "url": "https://mcp.notion.com/mcp"
     },
     "obsidian": {
       "name": "Obsidian",
@@ -1424,6 +1428,31 @@
       ],
       "url": "https://github.com/oraios/serena"
     },
+    "stripe": {
+      "name": "Stripe MCP",
+      "type": "MCP Server",
+      "category": "Payments",
+      "agent_compat": {
+        "claude": true,
+        "codex": true,
+        "copilot": true
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude mcp add --transport http stripe https://mcp.stripe.com"
+        },
+        {
+          "agent": "codex",
+          "cmd": "codex mcp add stripe --url https://mcp.stripe.com && codex mcp login stripe"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot mcp add --transport http stripe https://mcp.stripe.com"
+        }
+      ],
+      "url": "https://mcp.stripe.com"
+    },
     "suno": {
       "name": "Suno",
       "type": "Plugin/Skill",
@@ -1516,6 +1545,31 @@
         }
       ],
       "url": ""
+    },
+    "vercel": {
+      "name": "Vercel MCP",
+      "type": "MCP Server",
+      "category": "Deployment",
+      "agent_compat": {
+        "claude": true,
+        "codex": true,
+        "copilot": true
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude mcp add --transport http vercel https://mcp.vercel.com"
+        },
+        {
+          "agent": "codex",
+          "cmd": "codex mcp add vercel --url https://mcp.vercel.com && codex mcp login vercel"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot mcp add --transport http vercel https://mcp.vercel.com"
+        }
+      ],
+      "url": "https://mcp.vercel.com"
     }
   }
 }
