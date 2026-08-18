@@ -3,68 +3,78 @@ import VPLayout from '../layouts/VPLayout.astro';
 
 const BASE = (import.meta as any).env.BASE_URL.replace(/\/?$/, '/');
 
+// Every card in the toolbox lives in one grid now — installers and the app
+// directory alike — filterable by platform. Each platform's compatibility
+// table isn't a separate card anymore; it's a view toggle inside that card's
+// own page (see PlatformViewToggle.astro).
 const toolboxCards = [
   {
     title: 'OS Installer',
     description: 'Get and install desktop operating systems — Windows, macOS, Linux, and FreeBSD.',
     href: `${BASE}toolbox/os/`,
     icon: '💿',
+    platform: 'os',
   },
   {
     title: 'Desktop Installer',
     description: 'Install desktop apps with command generation, filters, and favorites.',
     href: `${BASE}toolbox/desktop/`,
     icon: '🖥️',
+    platform: 'desktop',
   },
   {
     title: 'Mobile Installer',
     description: 'Browse mobile packages for Android and iOS workflows.',
     href: `${BASE}toolbox/mobile/`,
     icon: '📱',
+    platform: 'mobile',
   },
   {
     title: 'Library Installer',
     description: 'Search software libraries by ecosystem and export selections.',
     href: `${BASE}toolbox/lib/`,
     icon: '📚',
+    platform: 'library',
   },
   {
     title: 'Browser Extensions',
     description: 'Pick browser add-ons for Firefox and Chromium.',
     href: `${BASE}toolbox/browser/`,
     icon: '🧩',
+    platform: 'extensions',
   },
   {
     title: 'VS Code Extensions',
     description: 'Curated editor extensions with import, export, and favorites.',
     href: `${BASE}toolbox/vscode/`,
     icon: '🛠️',
+    platform: 'extensions',
   },
   {
     title: 'AI Agents',
     description: 'MCP servers, plugins, and skills for Claude Code, Codex CLI, and AI coding agents.',
     href: `${BASE}toolbox/agents/`,
     icon: '🤖',
+    platform: 'agents',
   },
-];
-
-const directoryLinks = [
   {
-    label: 'App Directory',
+    title: 'App Directory',
+    description: 'Every app in one place, tagged by which platforms it also reaches and whether it\'s FOSS. No installer needed — opening the link runs the web app in your browser.',
     href: `${BASE}toolbox/app-directory/`,
     icon: '🌐',
-    description: 'Every app in one place, tagged by which platforms it also reaches and whether it\'s FOSS. No installer needed — opening the link runs the web app in your browser.',
+    platform: 'web',
   },
 ];
 
-const compatibilityLinks = [
-  { label: 'Operating System Compatibility', href: `${BASE}toolbox/os-compatibility/`, icon: '💿' },
-  { label: 'Desktop App OS Compatibility', href: `${BASE}toolbox/desktop-os-compatibility/`, icon: '🖥️' },
-  { label: 'Mobile OS Compatibility', href: `${BASE}toolbox/mobile-os-compatibility/`, icon: '📱' },
-  { label: 'Library Compatibility Table', href: `${BASE}toolbox/lib-compatibility/`, icon: '📚' },
-  { label: 'Browser Extensions Compatibility', href: `${BASE}toolbox/browser-extensions-compatibility/`, icon: '🧩' },
-  { label: 'VS Code Extensions Compatibility', href: `${BASE}toolbox/vscode-extensions-compatibility/`, icon: '🛠️' },
-  { label: 'AI Agents Compatibility', href: `${BASE}toolbox/agents-compatibility/`, icon: '🤖' },
+const platformFilters = [
+  { value: 'all', label: 'All' },
+  { value: 'os', label: '💿 OS' },
+  { value: 'desktop', label: '🖥️ Desktop' },
+  { value: 'mobile', label: '📱 Mobile' },
+  { value: 'library', label: '📚 Library' },
+  { value: 'extensions', label: '🧩 Extensions' },
+  { value: 'agents', label: '🤖 Agents' },
+  { value: 'web', label: '🌐 Web' },
 ];
 
 // Cross-platform terminal companion — the same toolbox, run from your shell.
@@ -91,19 +101,21 @@ const tuiInstall = [
         <div>
           <div class="toolbox-eyebrow">Toolbox</div>
           <h1>Toolbox</h1>
-          <p>One home for installers, an app directory, and compatibility references — all running straight in the browser.</p>
+          <p>One home for installers and an app directory, all running straight in the browser — each one's compatibility table is a tab away on its own page.</p>
         </div>
       </div>
     </section>
 
     <section class="toolbox-section">
-      <div class="toolbox-section-header">
-        <h2>Installers</h2>
-        <p>Choose the installer surface you want to work with.</p>
+      <div class="toolbox-platform-filter" role="group" aria-label="Filter by platform">
+        {platformFilters.map((f, i) => (
+          <button type="button" class:list={['platform-chip', { active: i === 0 }]} data-platform={f.value} aria-pressed={i === 0 ? 'true' : 'false'}>{f.label}</button>
+        ))}
       </div>
-      <div class="toolbox-grid">
+
+      <div class="toolbox-grid" id="toolboxCardGrid">
         {toolboxCards.map((card) => (
-          <a class="toolbox-card" href={card.href}>
+          <a class="toolbox-card" href={card.href} data-platform={card.platform}>
             <span class="toolbox-card-icon">{card.icon}</span>
             <h3>{card.title}</h3>
             <p>{card.description}</p>
@@ -135,44 +147,28 @@ const tuiInstall = [
         </div>
       </div>
     </section>
-
-    <div class="toolbox-separator" aria-hidden="true"></div>
-
-    <section class="toolbox-section">
-      <div class="toolbox-section-header">
-        <h2>App Directory</h2>
-        <p>Web apps, platforms, and databases — tagged by which platforms they also reach.</p>
-      </div>
-      <div class="toolbox-grid">
-        {directoryLinks.map((item) => (
-          <a class="toolbox-card" href={item.href}>
-            <span class="toolbox-card-icon">{item.icon}</span>
-            <h3>{item.label}</h3>
-            <p>{item.description}</p>
-          </a>
-        ))}
-      </div>
-    </section>
-
-    <div class="toolbox-separator" aria-hidden="true"></div>
-
-    <section class="toolbox-section">
-      <div class="toolbox-section-header">
-        <h2>Compatibility Tables</h2>
-        <p>Compare availability and support before jumping into each installer.</p>
-      </div>
-      <div class="toolbox-compatibility-grid">
-        {compatibilityLinks.map((item) => (
-          <a class="toolbox-compatibility-link" href={item.href}>
-            <span class="toolbox-card-icon">{item.icon}</span>
-            <span>{item.label}</span>
-          </a>
-        ))}
-      </div>
-    </section>
   </section>
 
   <script>
+    // Platform filter chips above the card grid.
+    const platformChips = Array.from(document.querySelectorAll<HTMLButtonElement>('.platform-chip'));
+    const toolboxCardEls = Array.from(document.querySelectorAll<HTMLAnchorElement>('#toolboxCardGrid .toolbox-card'));
+
+    platformChips.forEach((chip) => {
+      chip.addEventListener('click', () => {
+        const platform = chip.dataset.platform ?? 'all';
+        platformChips.forEach((c) => {
+          const active = c === chip;
+          c.classList.toggle('active', active);
+          c.setAttribute('aria-pressed', String(active));
+        });
+        toolboxCardEls.forEach((card) => {
+          const match = platform === 'all' || card.dataset.platform === platform;
+          card.classList.toggle('platform-hidden', !match);
+        });
+      });
+    });
+
     // Auto-detect Windows vs macOS/Linux, but let the visitor override.
     const osButtons = Array.from(document.querySelectorAll<HTMLButtonElement>('.tui-os-btn'));
     const osCommands = Array.from(document.querySelectorAll<HTMLElement>('.tui-os-cmd'));

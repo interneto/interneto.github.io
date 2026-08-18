@@ -61,16 +61,47 @@
   color: var(--text-secondary);
 }
 
-.toolbox-grid,
-.toolbox-compatibility-grid {
+.toolbox-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(13.75rem, 1fr));
   gap: 1rem;
 }
 
+.toolbox-platform-filter {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 1.125rem;
+}
+
+.platform-chip {
+  border: 1px solid var(--vp-c-divider);
+  background: var(--vp-c-bg-alt);
+  color: var(--vp-c-text-1);
+  border-radius: 999px;
+  padding: 0.4rem 0.95rem;
+  font-size: 0.85rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.18s ease, color 0.18s ease, border-color 0.18s ease;
+}
+
+.platform-chip:hover {
+  border-color: var(--vp-c-brand-2);
+}
+
+.platform-chip.active {
+  background: var(--primary-color);
+  border-color: var(--primary-color);
+  color: var(--text-on-primary);
+}
+
+.toolbox-card.platform-hidden {
+  display: none;
+}
+
 /* Unified card styling - simplified and consistent with .vp-card */
-.toolbox-card,
-.toolbox-compatibility-link {
+.toolbox-card {
   display: flex;
   flex-direction: column;
   gap: 0.875rem;
@@ -85,8 +116,7 @@
   transition: all 0.3s ease;
 }
 
-.toolbox-card:hover,
-.toolbox-compatibility-link:hover {
+.toolbox-card:hover {
   border-color: var(--vp-c-brand-1);
   background-color: var(--vp-c-bg);
   transform: translateY(-0.25rem);
@@ -94,15 +124,13 @@
   text-decoration: none;
 }
 
-.toolbox-card:focus-visible,
-.toolbox-compatibility-link:focus-visible {
+.toolbox-card:focus-visible {
   outline: 2px solid var(--focus-ring-color);
   outline-offset: 2px;
   text-decoration: none;
 }
 
-.toolbox-card:active,
-.toolbox-compatibility-link:active {
+.toolbox-card:active {
   text-decoration: none;
 }
 
@@ -133,23 +161,6 @@
   margin: 0;
   color: var(--text-secondary);
   line-height: 1.6;
-}
-
-.toolbox-compatibility-link {
-  flex-direction: row;
-  align-items: center;
-  min-height: 0;
-  font-weight: 700;
-  gap: 0.875rem;
-}
-
-.toolbox-compatibility-link span:last-child {
-  line-height: 1.35;
-}
-
-.toolbox-separator {
-  margin: 1.5rem 0.125rem 0;
-  border-top: 1px dashed color-mix(in srgb, var(--border-color) 58%, var(--primary-color) 42%);
 }
 
 @media (min-width: 48rem) {
