@@ -1,6 +1,7 @@
 ---
 import VPLayout from '../../layouts/VPLayout.astro';
 import PageHeader from '../../components/PageHeader.astro';
+import PlatformNav from '../../components/PlatformNav.astro';
 import PlatformViewToggle from '../../components/PlatformViewToggle.astro';
 import CompatibilityTablePage from '../../components/CompatibilityTablePage.astro';
 
@@ -124,6 +125,7 @@ const osCompatRows: OsRow[] = [
       <span aria-current="page">Operating System Installer</span>
     </nav>
     <PageHeader heading="💿 Operating System Installer" />
+    <PlatformNav current="os" />
     <PlatformViewToggle compatLabel="OS Compatibility" />
 
     <div id="installerView">

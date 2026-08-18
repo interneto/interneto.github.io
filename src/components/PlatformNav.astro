@@ -1,0 +1,28 @@
+---
+// Compact quick-switch row shown on every merged installer/compat page,
+// linking to the other 6 sibling platforms without a trip back to /toolbox/.
+interface Props {
+  current: 'os' | 'desktop' | 'mobile' | 'lib' | 'browser' | 'vscode' | 'agents';
+}
+const { current } = Astro.props;
+const BASE = import.meta.env.BASE_URL.replace(/\/?$/, '/');
+
+const PLATFORMS = [
+  { slug: 'os', label: 'OS', icon: '💿' },
+  { slug: 'desktop', label: 'Desktop', icon: '🖥️' },
+  { slug: 'mobile', label: 'Mobile', icon: '📱' },
+  { slug: 'lib', label: 'Library', icon: '📚' },
+  { slug: 'browser', label: 'Browser Ext.', icon: '🧩' },
+  { slug: 'vscode', label: 'VS Code Ext.', icon: '🛠️' },
+  { slug: 'agents', label: 'AI Agents', icon: '🤖' },
+] as const;
+---
+<nav class="platform-nav" aria-label="Switch installer">
+  {PLATFORMS.map((p) => (
+    p.slug === current ? (
+      <span class="platform-nav-link active" aria-current="page">{p.icon} {p.label}</span>
+    ) : (
+      <a class="platform-nav-link" href={`${BASE}toolbox/${p.slug}/`}>{p.icon} {p.label}</a>
+    )
+  ))}
+</nav>

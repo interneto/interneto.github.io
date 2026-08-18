@@ -1,6 +1,7 @@
 ---
 import VPLayout from '../../layouts/VPLayout.astro';
 import PageHeader from '../../components/PageHeader.astro';
+import PlatformNav from '../../components/PlatformNav.astro';
 import PlatformViewToggle from '../../components/PlatformViewToggle.astro';
 import ToolboxInstallerSection from '../../components/ToolboxInstallerSection.astro';
 import ToolboxResultsContainer from '../../components/ToolboxResultsContainer.astro';
@@ -20,6 +21,7 @@ const options = [
       <span aria-current="page">Desktop Installer</span>
     </nav>
     <PageHeader heading="Desktop Installer" />
+    <PlatformNav current="desktop" />
     <PlatformViewToggle compatLabel="OS Compatibility" />
 
     <div id="installerView">

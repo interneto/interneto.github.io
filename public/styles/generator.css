@@ -1219,6 +1219,40 @@ form {
     box-shadow: inset 0 1px 0 var(--neutral-overlay-10);
 }
 
+/* Quick-switch row between sibling installer platforms (PlatformNav.astro) */
+.platform-nav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.5rem;
+    margin-bottom: var(--spacing-md);
+}
+
+.platform-nav-link {
+    border: 1px solid var(--border-color);
+    background: var(--card-background);
+    color: var(--text-secondary);
+    border-radius: 999px;
+    padding: 0.35rem 0.85rem;
+    font-size: 0.8rem;
+    font-weight: 600;
+    text-decoration: none;
+    transition: background 0.18s ease, color 0.18s ease, border-color 0.18s ease;
+}
+
+.platform-nav-link:hover {
+    border-color: var(--primary-color);
+    color: var(--text-primary);
+    text-decoration: none;
+}
+
+.platform-nav-link.active {
+    background: var(--primary-color);
+    border-color: var(--primary-color);
+    color: var(--text-on-primary);
+    cursor: default;
+}
+
 /* Installer / Compatibility Table switch on merged toolbox platform pages */
 .view-toggle {
     display: flex;
