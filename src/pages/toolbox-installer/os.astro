@@ -1,5 +1,8 @@
 ---
-import InstallerLayout from '../../layouts/InstallerLayout.astro';
+import VPLayout from '../../layouts/VPLayout.astro';
+import PageHeader from '../../components/PageHeader.astro';
+import PlatformViewToggle from '../../components/PlatformViewToggle.astro';
+import CompatibilityTablePage from '../../components/CompatibilityTablePage.astro';
 
 const BASE = import.meta.env.BASE_URL.replace(/\/?$/, '/');
 
@@ -86,66 +89,161 @@ const FAMILY_LABEL: Record<OsInstall['family'], string> = {
   linux: 'Linux distributions',
   bsd: 'BSD',
 };
+
+// Static, curated comparison of desktop operating systems. iOS is excluded
+// (end users cannot install it on their own hardware); Android is mobile-only
+// and lives with the mobile installers, so this table focuses on desktop OSes.
+interface OsRow {
+  name: string;
+  icon: string;
+  homepage: string;
+  family: 'desktop' | 'linux' | 'bsd';
+  foss: boolean;
+  kernel: string;
+  packageManager: string;
+  winApps: string; // ✅ native | ⚠️ compat layer | ❌ no
+  linuxApps: string;
+  cost: string;
+}
+
+const osCompatRows: OsRow[] = [
+  { name: 'Windows 11', icon: 'windows', homepage: 'https://www.microsoft.com/windows/windows-11', family: 'desktop', foss: false, kernel: 'Windows NT', packageManager: 'winget / Microsoft Store', winApps: '✅', linuxApps: '⚠️ WSL', cost: 'Paid' },
+  { name: 'macOS', icon: 'apple', homepage: 'https://www.apple.com/macos/', family: 'desktop', foss: false, kernel: 'XNU (Darwin)', packageManager: 'Homebrew (3rd-party)', winApps: '⚠️ VM', linuxApps: '⚠️ VM', cost: 'Bundled' },
+  { name: 'Ubuntu', icon: 'ubuntu', homepage: 'https://ubuntu.com/', family: 'linux', foss: true, kernel: 'Linux', packageManager: 'APT / Snap', winApps: '⚠️ Wine', linuxApps: '✅', cost: 'Free' },
+  { name: 'Debian', icon: 'debian', homepage: 'https://www.debian.org/', family: 'linux', foss: true, kernel: 'Linux', packageManager: 'APT', winApps: '⚠️ Wine', linuxApps: '✅', cost: 'Free' },
+  { name: 'Fedora', icon: 'fedora', homepage: 'https://fedoraproject.org/', family: 'linux', foss: true, kernel: 'Linux', packageManager: 'DNF (rpm) / Flatpak', winApps: '⚠️ Wine', linuxApps: '✅', cost: 'Free' },
+  { name: 'Arch Linux', icon: 'arch-linux', homepage: 'https://archlinux.org/', family: 'linux', foss: true, kernel: 'Linux', packageManager: 'pacman / AUR', winApps: '⚠️ Wine', linuxApps: '✅', cost: 'Free' },
+  { name: 'FreeBSD', icon: 'freebsd', homepage: 'https://www.freebsd.org/', family: 'bsd', foss: true, kernel: 'FreeBSD', packageManager: 'pkg / ports', winApps: '❌', linuxApps: '⚠️ Linuxulator', cost: 'Free' },
+];
 ---
-<InstallerLayout title="Operating System Installer" heading="💿 Operating System Installer">
-  <section class="package-section installer-page-section">
-    <div class="container installer-surface">
-      <details class="installer-info">
-        <summary>ⓘ About this installer</summary>
-        <p class="installer-info-body">
-          Operating systems are installed from bootable media rather than a package command.
-          Each card links to the official download and shows the recommended way to create
-          install media. Always double-check the target device (<code>/dev/sdX</code>) before
-          running <code>dd</code> — it overwrites the whole drive.
-        </p>
-      </details>
+<VPLayout title="Operating System Installer" hasSidebar={false} extraStyles={['styles/generator.css', 'styles/os-compatibility.css']}>
+  <div class="page-wrapper installer-page-wrapper">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href={`${BASE}toolbox/`}>Toolbox</a>
+      <span aria-hidden="true">›</span>
+      <span aria-current="page">Operating System Installer</span>
+    </nav>
+    <PageHeader heading="💿 Operating System Installer" />
+    <PlatformViewToggle compatLabel="OS Compatibility" />
 
-      <a class="os-compat-link" href={`${BASE}toolbox/os-compatibility/`}>
-        📊 Compare these operating systems →
-      </a>
+    <div id="installerView">
+      <section class="package-section installer-page-section">
+        <div class="container installer-surface">
+          <details class="installer-info">
+            <summary>ⓘ About this installer</summary>
+            <p class="installer-info-body">
+              Operating systems are installed from bootable media rather than a package command.
+              Each card links to the official download and shows the recommended way to create
+              install media. Always double-check the target device (<code>/dev/sdX</code>) before
+              running <code>dd</code> — it overwrites the whole drive.
+            </p>
+          </details>
 
-      <div class="os-install-grid">
-        {operatingSystems.map((os, i) => (
-          <>
-            {os.family !== operatingSystems[i - 1]?.family && (
-              <h3 class="os-group-heading">{FAMILY_LABEL[os.family]}</h3>
-            )}
-            <article class="os-install-card">
-              <header class="os-install-head">
-                <span class="os-install-icon">
-                  <img src={`${BASE}img/assets/operating-systems/${os.icon}.svg`} alt="" width="24" height="24" loading="lazy" />
-                </span>
-                <h2 class="os-install-name">{os.name}</h2>
-                <span class={`os-install-badge ${os.foss ? 'is-foss' : 'is-proprietary'}`}>
-                  {os.foss ? 'Open source' : 'Proprietary'}
-                </span>
-              </header>
-              <p class="os-install-method">{os.method}</p>
-              {os.command && (
-                <div class="os-install-command">
-                  <code>{os.command}</code>
-                  <button type="button" class="os-copy-btn" data-command={os.command} aria-label={`Copy ${os.name} command`}>Copy</button>
-                </div>
-              )}
-              <a class="os-install-download" href={os.download} target="_blank" rel="noreferrer">
-                Official download ↗
-              </a>
-            </article>
-          </>
-        ))}
-      </div>
+          <div class="os-install-grid">
+            {operatingSystems.map((os, i) => (
+              <>
+                {os.family !== operatingSystems[i - 1]?.family && (
+                  <h3 class="os-group-heading">{FAMILY_LABEL[os.family]}</h3>
+                )}
+                <article class="os-install-card">
+                  <header class="os-install-head">
+                    <span class="os-install-icon">
+                      <img src={`${BASE}img/assets/operating-systems/${os.icon}.svg`} alt="" width="24" height="24" loading="lazy" />
+                    </span>
+                    <h2 class="os-install-name">{os.name}</h2>
+                    <span class={`os-install-badge ${os.foss ? 'is-foss' : 'is-proprietary'}`}>
+                      {os.foss ? 'Open source' : 'Proprietary'}
+                    </span>
+                  </header>
+                  <p class="os-install-method">{os.method}</p>
+                  {os.command && (
+                    <div class="os-install-command">
+                      <code>{os.command}</code>
+                      <button type="button" class="os-copy-btn" data-command={os.command} aria-label={`Copy ${os.name} command`}>Copy</button>
+                    </div>
+                  )}
+                  <a class="os-install-download" href={os.download} target="_blank" rel="noreferrer">
+                    Official download ↗
+                  </a>
+                </article>
+              </>
+            ))}
+          </div>
+        </div>
+      </section>
     </div>
-  </section>
-</InstallerLayout>
+
+    <div id="compatView" hidden>
+      <CompatibilityTablePage
+        bare
+        title="Operating System Compatibility"
+        heading="💿 Operating System Compatibility"
+        subtitle="Compare desktop operating systems by licensing, package management, and software compatibility."
+        installerHref="os"
+        installerLabel="OS Installer"
+        searchPlaceholder="Search operating system"
+        pageNote="Note: iOS is excluded (end users cannot self-install it); Android lives with the mobile installers."
+      >
+        <div slot="controls" class="page-filter-row filter-chips" id="osFossFilter" role="group" aria-label="Filter by license">
+          <button type="button" class="filter-chip active" data-foss="all" aria-pressed="true">All</button>
+          <button type="button" class="filter-chip" data-foss="true" aria-pressed="false">Open source</button>
+          <button type="button" class="filter-chip" data-foss="false" aria-pressed="false">Proprietary</button>
+        </div>
+
+        <div slot="legend" class="legend" aria-label="Compatibility legend">
+          <div class="legend-item"><span class="legend-icon">✅</span> Native support</div>
+          <div class="legend-item"><span class="legend-icon">⚠️</span> Via compatibility layer / VM</div>
+          <div class="legend-item"><span class="legend-icon">❌</span> Not supported</div>
+        </div>
+
+        <div class="table-container">
+          <table id="osCompatTable">
+            <thead>
+              <tr>
+                <th class="sticky-col app-col">Operating System</th>
+                <th class="os-column">Open&nbsp;Source</th>
+                <th>Kernel</th>
+                <th>Package Manager</th>
+                <th class="os-column">Win&nbsp;Apps</th>
+                <th class="os-column">Linux&nbsp;Apps</th>
+                <th class="os-column">Cost</th>
+              </tr>
+            </thead>
+            <tbody>
+              {osCompatRows.map((os, i) => (
+                <>
+                  {os.family !== osCompatRows[i - 1]?.family && (
+                    <tr class="os-group-row" aria-hidden="true">
+                      <td colspan="7">{FAMILY_LABEL[os.family]}</td>
+                    </tr>
+                  )}
+                  <tr data-name={os.name.toLowerCase()} data-foss={String(os.foss)}>
+                    <td class="sticky-col">
+                      <span class="app-info">
+                        <span class="os-icon-chip">
+                          <img src={`${BASE}img/assets/operating-systems/${os.icon}.svg`} alt="" width="20" height="20" loading="lazy" />
+                        </span>
+                        <a class="app-name" href={os.homepage} target="_blank" rel="noreferrer">{os.name}</a>
+                      </span>
+                    </td>
+                    <td class="os-available">{os.foss ? '✅' : '❌'}</td>
+                    <td>{os.kernel}</td>
+                    <td>{os.packageManager}</td>
+                    <td class="os-available">{os.winApps}</td>
+                    <td class="os-available">{os.linuxApps}</td>
+                    <td>{os.cost}</td>
+                  </tr>
+                </>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      </CompatibilityTablePage>
+    </div>
+  </div>
+</VPLayout>
 
 <style>
-  .os-compat-link {
-    display: inline-block;
-    margin-bottom: var(--spacing-lg);
-    font-weight: 600;
-    color: var(--primary-color);
-  }
-
   .os-install-grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
@@ -280,6 +378,66 @@ const FAMILY_LABEL: Record<OsInstall['family'], string> = {
     font-size: 0.85rem;
     color: var(--primary-color);
   }
+
+  /* The shared td/th:first-child rule caps this at 120px for other compat
+     tables (short category names); OS names ("Windows 11", "Arch Linux") plus
+     an icon need more room, so override it scoped to this table only. */
+  #osCompatTable th:first-child,
+  #osCompatTable td:first-child {
+    min-width: 180px;
+    width: 220px;
+    max-width: none;
+  }
+
+  #osCompatTable .app-name {
+    max-width: none;
+    text-decoration: none;
+  }
+
+  #osCompatTable .app-name:hover {
+    text-decoration: underline;
+  }
+
+  /* Icon chip: fixed neutral backdrop so both colored and black/monochrome
+     brand marks (e.g. Apple) stay legible in both light and dark themes. */
+  .os-icon-chip {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 1.75rem;
+    height: 1.75rem;
+    flex-shrink: 0;
+    border-radius: 0.4rem;
+    background: rgba(128, 128, 128, 0.16);
+    border: 1px solid rgba(128, 128, 128, 0.3);
+  }
+
+  .os-icon-chip img {
+    width: 1.1rem;
+    height: 1.1rem;
+    object-fit: contain;
+  }
+
+  /* Family divider row: groups the Linux distros (and BSD) visually apart
+     from Windows/macOS. */
+  .os-group-row td {
+    padding: 0.4rem clamp(6px, 1.5vw, 14px) !important;
+    text-align: left;
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--text-secondary);
+    background: var(--surface-muted);
+    border-top: 1px solid var(--table-line-color);
+    border-bottom: 1px solid var(--table-line-color);
+  }
+
+  /* These two cells hold short phrases, let them wrap rather than shrink. */
+  #osCompatTable td:nth-child(5),
+  #osCompatTable td:nth-child(6) {
+    white-space: normal;
+  }
 </style>
 
 <script>
@@ -301,4 +459,47 @@ const FAMILY_LABEL: Record<OsInstall['family'], string> = {
       }
     });
   });
+
+  const table = document.getElementById('osCompatTable');
+  const search = document.getElementById('compatSearchInput');
+  const filterGroup = document.getElementById('osFossFilter');
+  if (table instanceof HTMLTableElement) {
+    const rows = Array.from(table.querySelectorAll('tbody tr')) as HTMLTableRowElement[];
+    let query = '';
+    let foss = 'all';
+
+    const apply = () => {
+      rows.forEach((row) => {
+        const matchesText = row.dataset.name?.includes(query) ?? true;
+        const matchesFoss = foss === 'all' || row.dataset.foss === foss;
+        row.style.display = matchesText && matchesFoss ? '' : 'none';
+      });
+    };
+
+    if (search instanceof HTMLInputElement) {
+      search.addEventListener('input', () => {
+        query = search.value.trim().toLowerCase();
+        apply();
+      });
+    }
+
+    if (filterGroup) {
+      filterGroup.querySelectorAll('.filter-chip').forEach((chip) => {
+        chip.addEventListener('click', () => {
+          filterGroup.querySelectorAll('.filter-chip').forEach((c) => {
+            c.classList.remove('active');
+            c.setAttribute('aria-pressed', 'false');
+          });
+          chip.classList.add('active');
+          chip.setAttribute('aria-pressed', 'true');
+          foss = (chip as HTMLElement).dataset.foss ?? 'all';
+          apply();
+        });
+      });
+    }
+  }
+</script>
+
+<script>
+import '../../scripts/shared/view-toggle.ts';
 </script>

@@ -144,7 +144,7 @@ function updateStats(): void {
 }
 
 function updateFilterChips(): void {
-    document.querySelectorAll<HTMLElement>('.filter-chip').forEach(btn => {
+    document.querySelectorAll<HTMLElement>('#compatView .filter-chip').forEach(btn => {
         const os = btn.getAttribute('data-os');
         const active = os === activeFilter;
         btn.classList.toggle('active', active);
@@ -191,7 +191,7 @@ function setupSorting(): void {
 }
 
 function setupFiltering(): void {
-    document.querySelectorAll<HTMLElement>('.filter-chip').forEach(btn => {
+    document.querySelectorAll<HTMLElement>('#compatView .filter-chip').forEach(btn => {
         btn.addEventListener('click', () => {
             const os = btn.getAttribute('data-os');
             if (!os) return;

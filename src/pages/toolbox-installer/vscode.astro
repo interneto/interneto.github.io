@@ -1,23 +1,67 @@
 ---
+import VPLayout from '../../layouts/VPLayout.astro';
+import PageHeader from '../../components/PageHeader.astro';
+import PlatformViewToggle from '../../components/PlatformViewToggle.astro';
 import ToolboxInstallerSection from '../../components/ToolboxInstallerSection.astro';
 import ToolboxResultsContainer from '../../components/ToolboxResultsContainer.astro';
+import CompatibilityTablePage from '../../components/CompatibilityTablePage.astro';
+const BASE = import.meta.env.BASE_URL.replace(/\/?$/, '/');
 const options = [
   { value: 'loadFavorites', label: '✨ My Favorites' },
   { value: 'importPackages', label: '📥 Import Extensions (JSON)' },
   { value: 'exportPackages', label: '📤 Export Extensions (JSON)' },
 ];
 ---
-<ToolboxInstallerSection
-  title="VS Code Installer"
-  heading="VS Code Installer"
-  info="Browse curated VS Code extensions organized by category. Select, import, export, and mark favorites to build your ideal editor setup."
-  searchPlaceholder="Search by extension name"
-  options={options}
->
-  <ToolboxResultsContainer slot="content" id="extensionsCategories" />
+<VPLayout title="VS Code Installer" hasSidebar={false} extraStyles={['styles/generator.css', 'styles/os-compatibility.css']}>
+  <div class="page-wrapper installer-page-wrapper">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href={`${BASE}toolbox/`}>Toolbox</a>
+      <span aria-hidden="true">›</span>
+      <span aria-current="page">VS Code Installer</span>
+    </nav>
+    <PageHeader heading="VS Code Installer" />
+    <PlatformViewToggle compatLabel="Compatibility Table" />
 
-</ToolboxInstallerSection>
+    <div id="installerView">
+      <ToolboxInstallerSection
+        bare
+        title="VS Code Installer"
+        heading="VS Code Installer"
+        info="Browse curated VS Code extensions organized by category. Select, import, export, and mark favorites to build your ideal editor setup."
+        searchPlaceholder="Search by extension name"
+        options={options}
+      >
+        <ToolboxResultsContainer slot="content" id="extensionsCategories" />
+      </ToolboxInstallerSection>
+    </div>
+
+    <div id="compatView" hidden>
+      <CompatibilityTablePage
+        bare
+        title="VS Code Extensions Table"
+        heading="🧩 VS Code Extensions Compatibility"
+        subtitle="Installed extension list and package identifiers for command generation."
+        installerHref="vscode"
+        installerLabel="Go to Installer"
+        searchPlaceholder="Search extension name, package name, or category"
+        showFilterChips={true}
+        filterAriaLabel="Filter by extension category"
+        pageNote="Search, sort, and filter extensions by category with the same software-table pattern used on desktop."
+      >
+        <div class="table-container">
+          <table id="packagesTable">
+            <thead id="tableHead"></thead>
+            <tbody id="tableBody"></tbody>
+          </table>
+        </div>
+        <div class="stats" id="statsContainer"></div>
+      </CompatibilityTablePage>
+    </div>
+  </div>
+</VPLayout>
 
 <script>
 import '../../scripts/toolbox-installer/packages-table.ts';
+import '../../scripts/os-compat/software-table-pages.ts';
+import '../../scripts/shared/view-toggle.ts';
 </script>

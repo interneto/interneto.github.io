@@ -1,6 +1,10 @@
 ---
+import VPLayout from '../../layouts/VPLayout.astro';
+import PageHeader from '../../components/PageHeader.astro';
+import PlatformViewToggle from '../../components/PlatformViewToggle.astro';
 import ToolboxInstallerSection from '../../components/ToolboxInstallerSection.astro';
 import ToolboxResultsContainer from '../../components/ToolboxResultsContainer.astro';
+import CompatibilityTablePage from '../../components/CompatibilityTablePage.astro';
 const BASE = import.meta.env.BASE_URL.replace(/\/?$/, '/');
 const options = [
   { value: 'loadFavorites', label: '✨ My Favorites' },
@@ -8,46 +12,126 @@ const options = [
   { value: 'exportPackages', label: '📤 Export Packages (JSON)' },
 ];
 ---
-<ToolboxInstallerSection
-  title="Desktop Installer"
-  heading="Desktop Installer"
-  info="Browse and select desktop applications for Windows, macOS, Linux, and FreeBSD. Pick your OS and distro, then generate a ready-to-run installation command."
-  searchPlaceholder="Search packages by name"
-  options={options}
-  useForm={true}
-  formId="packageForm"
->
-  <div slot="selectors" class="os-selector-container">
-    <div class="primary-os-selector">
-      <button type="button" class="os-btn active" data-os="windows"><span class="os-btn-icon" style={`--os-icon:url(${BASE}img/os/windows.svg)`} aria-hidden="true"></span> Windows</button>
-      <button type="button" class="os-btn" data-os="macos"><span class="os-btn-icon" style={`--os-icon:url(${BASE}img/os/apple.svg)`} aria-hidden="true"></span> macOS</button>
-      <button type="button" class="os-btn" data-os="linux"><span class="os-btn-icon" style={`--os-icon:url(${BASE}img/os/linux.svg)`} aria-hidden="true"></span> Linux</button>
-      <button type="button" class="os-btn" data-os="freebsd"><span class="os-btn-icon" style={`--os-icon:url(${BASE}img/os/freebsd.svg)`} aria-hidden="true"></span> FreeBSD</button>
+<VPLayout title="Desktop Installer" hasSidebar={false} extraStyles={['styles/generator.css', 'styles/os-compatibility.css']}>
+  <div class="page-wrapper installer-page-wrapper">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href={`${BASE}toolbox/`}>Toolbox</a>
+      <span aria-hidden="true">›</span>
+      <span aria-current="page">Desktop Installer</span>
+    </nav>
+    <PageHeader heading="Desktop Installer" />
+    <PlatformViewToggle compatLabel="OS Compatibility" />
+
+    <div id="installerView">
+      <ToolboxInstallerSection
+        bare
+        title="Desktop Installer"
+        heading="Desktop Installer"
+        info="Browse and select desktop applications for Windows, macOS, Linux, and FreeBSD. Pick your OS and distro, then generate a ready-to-run installation command."
+        searchPlaceholder="Search packages by name"
+        options={options}
+        useForm={true}
+        formId="packageForm"
+      >
+        <div slot="selectors" class="os-selector-container">
+          <div class="primary-os-selector">
+            <button type="button" class="os-btn active" data-os="windows"><span class="os-btn-icon" style={`--os-icon:url(${BASE}img/os/windows.svg)`} aria-hidden="true"></span> Windows</button>
+            <button type="button" class="os-btn" data-os="macos"><span class="os-btn-icon" style={`--os-icon:url(${BASE}img/os/apple.svg)`} aria-hidden="true"></span> macOS</button>
+            <button type="button" class="os-btn" data-os="linux"><span class="os-btn-icon" style={`--os-icon:url(${BASE}img/os/linux.svg)`} aria-hidden="true"></span> Linux</button>
+            <button type="button" class="os-btn" data-os="freebsd"><span class="os-btn-icon" style={`--os-icon:url(${BASE}img/os/freebsd.svg)`} aria-hidden="true"></span> FreeBSD</button>
+          </div>
+          <div class="secondary-os-selector hidden" id="linuxDistroSelector">
+            <button type="button" class="distro-btn active" data-distro="linux_arch_pacman">Arch (pm+yay)</button>
+            <button type="button" class="distro-btn" data-distro="linux_debian_apt">Debian (apt)</button>
+            <button type="button" class="distro-btn" data-distro="linux_fedora_rpm">Fedora (rpm)</button>
+            <button type="button" class="distro-btn" data-distro="linux_gentoo_emerge">Gentoo (emerge)</button>
+            <button type="button" class="distro-btn" data-distro="linux_flatpak">Linux (flatpak)</button>
+            <button type="button" class="distro-btn" data-distro="unix_nix_env">Linux (nix)</button>
+            <button type="button" class="distro-btn" data-distro="linux_snap">Linux (snap)</button>
+          </div>
+        </div>
+
+        <div slot="content">
+          <ToolboxResultsContainer
+            id="packageContainer"
+            showLoadingSpinner={true}
+          />
+        </div>
+
+        <div slot="footer" style="font-size: 0.85rem; color: #666; margin-top: 1rem; text-align: center;">
+          <em>Linux and FreeBSD package information sourced from <a href="https://pkgs.org/" style="color: inherit;">pkgs.org</a></em>
+        </div>
+      </ToolboxInstallerSection>
     </div>
-    <div class="secondary-os-selector hidden" id="linuxDistroSelector">
-      <button type="button" class="distro-btn active" data-distro="linux_arch_pacman">Arch (pm+yay)</button>
-      <button type="button" class="distro-btn" data-distro="linux_debian_apt">Debian (apt)</button>
-      <button type="button" class="distro-btn" data-distro="linux_fedora_rpm">Fedora (rpm)</button>
-      <button type="button" class="distro-btn" data-distro="linux_gentoo_emerge">Gentoo (emerge)</button>
-      <button type="button" class="distro-btn" data-distro="linux_flatpak">Linux (flatpak)</button>
-      <button type="button" class="distro-btn" data-distro="unix_nix_env">Linux (nix)</button>
-      <button type="button" class="distro-btn" data-distro="linux_snap">Linux (snap)</button>
+
+    <div id="compatView" hidden>
+      <CompatibilityTablePage
+        bare
+        title="Package OS Compatibility"
+        heading="🖥️ Package OS Compatibility"
+        subtitle="Application availability across different operating systems."
+        installerHref="desktop"
+        installerLabel="Go to Installer"
+        searchPlaceholder="Search package or category"
+        pageNote="Note: some vendor suites are not listed (Adobe, Autodesk, Apple, Microsoft)."
+      >
+        <div slot="controls" class="page-filter-row filter-chips" role="group" aria-label="Filter by OS availability">
+          <button type="button" class="filter-chip active" data-os="all" aria-pressed="true">All</button>
+          <button type="button" class="filter-chip" data-os="windows" aria-pressed="false">Windows</button>
+          <button type="button" class="filter-chip" data-os="macos" aria-pressed="false">macOS</button>
+          <button type="button" class="filter-chip" data-os="linux" aria-pressed="false">Linux</button>
+          <button type="button" class="filter-chip" data-os="freebsd" aria-pressed="false">FreeBSD</button>
+        </div>
+
+        <div slot="legend" class="legend" aria-label="OS compatibility legend">
+          <div class="legend-item"><span class="legend-icon">✅</span> Available (via package manager)</div>
+          <div class="legend-item"><span class="legend-icon">⚠️</span> Available (manual installation)</div>
+          <div class="legend-item"><span class="legend-icon">❌</span> Not available</div>
+          <div class="legend-item legend-note">Linux includes: pacman + AUR, apt, rpm, emerge, flatpak, snap, nix</div>
+        </div>
+
+        <div class="table-container">
+          <table id="packagesTable">
+            <thead>
+              <tr>
+                <th class="sortable sticky-col category-col" data-column="category" tabindex="0" role="button" aria-sort="none">
+                  Category
+                  <span class="sort-arrows">
+                    <span class="sort-arrow up" data-column="category" data-direction="asc"></span>
+                    <span class="sort-arrow down" data-column="category" data-direction="desc"></span>
+                  </span>
+                </th>
+                <th class="sortable sticky-col app-col" data-column="name" tabindex="0" role="button" aria-sort="none">
+                  App
+                  <span class="sort-arrows">
+                    <span class="sort-arrow up" data-column="name" data-direction="asc"></span>
+                    <span class="sort-arrow down" data-column="name" data-direction="desc"></span>
+                  </span>
+                </th>
+                <th class="os-column">Win</th>
+                <th class="os-column">Mac</th>
+                <th class="os-column">Linux</th>
+                <th class="os-column">FreeBSD</th>
+              </tr>
+            </thead>
+            <tbody id="tableBody"></tbody>
+          </table>
+        </div>
+
+        <div class="stats">
+          <div class="stat-item"><div class="stat-number" id="totalPackages">0</div><div class="stat-label">Total Packages</div></div>
+          <div class="stat-item"><div class="stat-number" id="windowsCount">0</div><div class="stat-label">Windows</div></div>
+          <div class="stat-item"><div class="stat-number" id="macosCount">0</div><div class="stat-label">macOS</div></div>
+          <div class="stat-item"><div class="stat-number" id="linuxCount">0</div><div class="stat-label">Linux</div></div>
+          <div class="stat-item"><div class="stat-number" id="freebsdCount">0</div><div class="stat-label">FreeBSD</div></div>
+        </div>
+      </CompatibilityTablePage>
     </div>
   </div>
-
-  <div slot="content">
-    <ToolboxResultsContainer
-      id="packageContainer"
-      showLoadingSpinner={true}
-    />
-  </div>
-
-  <div slot="footer" style="font-size: 0.85rem; color: #666; margin-top: 1rem; text-align: center;">
-    <em>Linux and FreeBSD package information sourced from <a href="https://pkgs.org/" style="color: inherit;">pkgs.org</a></em>
-  </div>
-
-</ToolboxInstallerSection>
+</VPLayout>
 
 <script>
 import '../../scripts/toolbox-installer/app.ts';
+import '../../scripts/os-compat/init.ts';
+import '../../scripts/shared/view-toggle.ts';
 </script>

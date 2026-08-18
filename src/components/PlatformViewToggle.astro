@@ -1,0 +1,11 @@
+---
+interface Props {
+  installerLabel?: string;
+  compatLabel?: string;
+}
+const { installerLabel = 'Installer', compatLabel = 'Compatibility Table' } = Astro.props;
+---
+<div class="view-toggle" role="group" aria-label="Switch view">
+  <button type="button" class="view-toggle-btn active" data-view="installer" aria-pressed="true">{installerLabel}</button>
+  <button type="button" class="view-toggle-btn" data-view="compat" aria-pressed="false">{compatLabel}</button>
+</div>

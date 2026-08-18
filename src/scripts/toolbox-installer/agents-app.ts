@@ -133,7 +133,7 @@ function setupAgentSelector(): void {
 }
 
 function setupFilterChips(): void {
-    const chips = document.querySelectorAll<HTMLElement>('.filter-chip');
+    const chips = document.querySelectorAll<HTMLElement>('#installerView .filter-chip');
     chips.forEach(chip => {
         chip.addEventListener('click', () => {
             const filter = chip.dataset.filter as 'all' | 'mcp' | 'plugin';
