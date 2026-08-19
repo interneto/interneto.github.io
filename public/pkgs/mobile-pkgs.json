@@ -1,5 +1,14 @@
 {
   "packages": {
+    "adguard": {
+      "name": "AdGuard",
+      "category": "security-and-privacy",
+      "subcategory": "Ad Blocker",
+      "package_manager": {
+        "android_pkg": "com.adguard.android",
+        "ios_pkg": ""
+      }
+    },
     "aliexpress": {
       "name": "AliExpress",
       "category": "business-and-commerce",
@@ -7,6 +16,15 @@
       "package_manager": {
         "android_pkg": "com.alibaba.aliexpresshd",
         "ios_pkg": "aliexpress-shopping-app/id436672029"
+      }
+    },
+    "anatomy-learning": {
+      "name": "Anatomy Learning",
+      "category": "education-and-reference",
+      "subcategory": "Anatomy",
+      "package_manager": {
+        "android_pkg": "com.AnatomyLearning.Anatomy3DViewer3",
+        "ios_pkg": "anatomy-learning-3d-anatomy/id1593953398"
       }
     },
     "authenticator": {
@@ -27,6 +45,15 @@
         "ios_pkg": "bbva-spain/id325813155"
       }
     },
+    "binary-eye": {
+      "name": "Binary Eye",
+      "category": "os-and-utilities",
+      "subcategory": "QR Scanner",
+      "package_manager": {
+        "android_pkg": "de.markusfisch.android.binaryeye",
+        "ios_pkg": ""
+      }
+    },
     "bitwarden": {
       "name": "Bitwarden",
       "category": "security-and-privacy",
@@ -34,6 +61,15 @@
       "package_manager": {
         "android_pkg": "com.x8bit.bitwarden",
         "ios_pkg": "bitwarden-password-manager/id1137397744"
+      }
+    },
+    "blekip": {
+      "name": "BleKip",
+      "category": "os-and-utilities",
+      "subcategory": "Bluetooth",
+      "package_manager": {
+        "android_pkg": "in.krosbits.blekip",
+        "ios_pkg": ""
       }
     },
     "bring": {
@@ -90,6 +126,15 @@
         "ios_pkg": "chrome-web-browser-by-google/id535886823"
       }
     },
+    "claude": {
+      "name": "Claude",
+      "category": "development",
+      "subcategory": "AI Assistant",
+      "package_manager": {
+        "android_pkg": "com.anthropic.claude",
+        "ios_pkg": "claude-by-anthropic/id6473753684"
+      }
+    },
     "clave": {
       "name": "Cl@ve",
       "category": "online-services",
@@ -135,6 +180,33 @@
         "ios_pkg": "deepl-translate-write/id1552407475"
       }
     },
+    "devcheck": {
+      "name": "DevCheck",
+      "category": "os-and-utilities",
+      "subcategory": "Device Info",
+      "package_manager": {
+        "android_pkg": "flar2.devcheck",
+        "ios_pkg": ""
+      }
+    },
+    "diccionario-rae": {
+      "name": "Diccionario RAE",
+      "category": "education-and-reference",
+      "subcategory": "Dictionary",
+      "package_manager": {
+        "android_pkg": "es.rae.dle_offline",
+        "ios_pkg": "diccionario-rae-y-asale-dle/id1011116985"
+      }
+    },
+    "disney-plus": {
+      "name": "Disney+",
+      "category": "video-and-movies",
+      "subcategory": "Streaming",
+      "package_manager": {
+        "android_pkg": "com.disney.disneyplus",
+        "ios_pkg": "disney/id1446075923"
+      }
+    },
     "firefox": {
       "name": "Firefox",
       "category": "web-browsers",
@@ -162,6 +234,15 @@
         "ios_pkg": ""
       }
     },
+    "fossify-calendar": {
+      "name": "Calendar (Fossify)",
+      "category": "office-and-productivity",
+      "subcategory": "Calendar",
+      "package_manager": {
+        "android_pkg": "org.fossify.calendar",
+        "ios_pkg": ""
+      }
+    },
     "fosswallet": {
       "name": "FossWallet",
       "category": "money-and-finance",
@@ -177,6 +258,15 @@
       "subcategory": "Design Assets",
       "package_manager": {
         "android_pkg": "com.freepikcompany.freepik",
+        "ios_pkg": ""
+      }
+    },
+    "futo-keyboard": {
+      "name": "FUTO Keyboard",
+      "category": "os-and-utilities",
+      "subcategory": "Keyboard",
+      "package_manager": {
+        "android_pkg": "org.futo.inputmethod.latin.playstore",
         "ios_pkg": ""
       }
     },
@@ -198,6 +288,24 @@
         "ios_pkg": "gmail-email-by-google/id422689480"
       }
     },
+    "golly": {
+      "name": "Golly",
+      "category": "education-and-reference",
+      "subcategory": "Cellular Automaton",
+      "package_manager": {
+        "android_pkg": "net.sf.golly",
+        "ios_pkg": ""
+      }
+    },
+    "google-ai-edge-gallery": {
+      "name": "Google Edge Gallery",
+      "category": "photos-and-graphics",
+      "subcategory": "Gallery",
+      "package_manager": {
+        "android_pkg": "com.google.ai.edge.gallery",
+        "ios_pkg": ""
+      }
+    },
     "google-calendar": {
       "name": "Google Calendar",
       "category": "office-and-productivity",
@@ -214,15 +322,6 @@
       "package_manager": {
         "android_pkg": "com.google.android.apps.docs",
         "ios_pkg": "google-drive-online-backup/id507874739"
-      }
-    },
-    "google-ai-edge-gallery": {
-      "name": "Google Edge Gallery",
-      "category": "photos-and-graphics",
-      "subcategory": "Gallery",
-      "package_manager": {
-        "android_pkg": "com.google.ai.edge.gallery",
-        "ios_pkg": ""
       }
     },
     "google-files": {
@@ -252,6 +351,24 @@
         "ios_pkg": "google-photos/id962194608"
       }
     },
+    "google-play-books": {
+      "name": "Google Play Books",
+      "category": "news-and-books",
+      "subcategory": "Ebook Reader",
+      "package_manager": {
+        "android_pkg": "com.google.android.apps.books",
+        "ios_pkg": "google-play-books-audiobooks/id400989007"
+      }
+    },
+    "google-sheets": {
+      "name": "Google Sheets",
+      "category": "office-and-productivity",
+      "subcategory": "Spreadsheet",
+      "package_manager": {
+        "android_pkg": "com.google.android.apps.docs.editors.sheets",
+        "ios_pkg": "google-sheets/id842849113"
+      }
+    },
     "google-translate": {
       "name": "Google Translate",
       "category": "office-and-productivity",
@@ -270,12 +387,30 @@
         "ios_pkg": ""
       }
     },
+    "gps-status": {
+      "name": "GPS Status",
+      "category": "travel-and-location",
+      "subcategory": "GPS",
+      "package_manager": {
+        "android_pkg": "com.eclipsim.gpsstatus2",
+        "ios_pkg": ""
+      }
+    },
     "gpx-viewer": {
       "name": "GPX Viewer",
       "category": "travel-and-location",
       "subcategory": "Maps",
       "package_manager": {
         "android_pkg": "com.vecturagames.android.app.gpxviewer",
+        "ios_pkg": ""
+      }
+    },
+    "gsmarena": {
+      "name": "GSMArena",
+      "category": "education-and-reference",
+      "subcategory": "Encyclopedia",
+      "package_manager": {
+        "android_pkg": "com.gsmarena.android",
         "ios_pkg": ""
       }
     },
@@ -295,6 +430,15 @@
       "package_manager": {
         "android_pkg": "com.ovelin.guitartuna",
         "ios_pkg": "guitartuna-afinador-acordes/id527588389"
+      }
+    },
+    "hellochinese": {
+      "name": "HelloChinese",
+      "category": "education-and-reference",
+      "subcategory": "Language Learning",
+      "package_manager": {
+        "android_pkg": "com.hellochinese",
+        "ios_pkg": "hellochinese-learn-chinese/id1001507516"
       }
     },
     "hyper-calc-pro": {
@@ -342,6 +486,15 @@
         "ios_pkg": "knots-3d/id453571750"
       }
     },
+    "kraken": {
+      "name": "Kraken",
+      "category": "money-and-finance",
+      "subcategory": "Cryptocurrency Wallet",
+      "package_manager": {
+        "android_pkg": "com.kraken.invest.app",
+        "ios_pkg": "kraken-buy-crypto-stocks/id1481947260"
+      }
+    },
     "lawnchair": {
       "name": "Lawnchair",
       "category": "os-and-utilities",
@@ -349,6 +502,15 @@
       "package_manager": {
         "android_pkg": "app.lawnchair.play",
         "ios_pkg": ""
+      }
+    },
+    "ledger-live": {
+      "name": "Ledger Live",
+      "category": "money-and-finance",
+      "subcategory": "Cryptocurrency Wallet",
+      "package_manager": {
+        "android_pkg": "com.ledger.live",
+        "ios_pkg": "ledger-live-crypto-wallet/id1361671700"
       }
     },
     "libretube": {
@@ -378,12 +540,30 @@
         "ios_pkg": ""
       }
     },
+    "look4sat": {
+      "name": "Look4Sat",
+      "category": "education-and-reference",
+      "subcategory": "Satellite Tracking",
+      "package_manager": {
+        "android_pkg": "com.rtbishop.look4sat",
+        "ios_pkg": ""
+      }
+    },
     "material-files": {
       "name": "Material Files",
       "category": "file-management",
       "subcategory": "File Manager",
       "package_manager": {
         "android_pkg": "me.zhanghai.android.files",
+        "ios_pkg": ""
+      }
+    },
+    "material-photo-widget": {
+      "name": "Material Photo Widget",
+      "category": "photos-and-graphics",
+      "subcategory": "Widget",
+      "package_manager": {
+        "android_pkg": "com.fibelatti.photowidget",
         "ios_pkg": ""
       }
     },
@@ -394,6 +574,24 @@
       "package_manager": {
         "android_pkg": "mega.privacy.android.app",
         "ios_pkg": "mega/id706857885"
+      }
+    },
+    "meshtastic": {
+      "name": "Meshtastic",
+      "category": "system-administration",
+      "subcategory": "Mesh Networking",
+      "package_manager": {
+        "android_pkg": "com.geeksville.mesh",
+        "ios_pkg": "meshtastic/id1586432531"
+      }
+    },
+    "microg": {
+      "name": "microG Services",
+      "category": "os-and-utilities",
+      "subcategory": "System Services",
+      "package_manager": {
+        "android_pkg": "app.revanced.android.gms",
+        "ios_pkg": ""
       }
     },
     "mobilesheets": {
@@ -459,6 +657,15 @@
         "ios_pkg": "obsidian-connected-notes/id1557175442"
       }
     },
+    "oss-document-scanner": {
+      "name": "OSS Document Scanner",
+      "category": "office-and-productivity",
+      "subcategory": "Document Scanner",
+      "package_manager": {
+        "android_pkg": "com.akylas.documentscanner",
+        "ios_pkg": ""
+      }
+    },
     "outlook": {
       "name": "Outlook",
       "category": "social-and-communications",
@@ -477,6 +684,15 @@
         "ios_pkg": ""
       }
     },
+    "peakfinder": {
+      "name": "PeakFinder",
+      "category": "travel-and-location",
+      "subcategory": "Outdoor and Hiking",
+      "package_manager": {
+        "android_pkg": "org.peakfinder.area.alps",
+        "ios_pkg": "peakfinder/id357421934"
+      }
+    },
     "periodic-table": {
       "name": "Periodic Table",
       "category": "education-and-reference",
@@ -484,6 +700,24 @@
       "package_manager": {
         "android_pkg": "mendeleev.redlime",
         "ios_pkg": "periodic-table-2023-pro/id1473710520"
+      }
+    },
+    "photopills": {
+      "name": "PhotoPills",
+      "category": "photos-and-graphics",
+      "subcategory": "Photography Planning",
+      "package_manager": {
+        "android_pkg": "com.photopills.android.photopills",
+        "ios_pkg": "photopills/id596026805"
+      }
+    },
+    "phyphox": {
+      "name": "phyphox",
+      "category": "education-and-reference",
+      "subcategory": "Physics",
+      "package_manager": {
+        "android_pkg": "de.rwth_aachen.phyphox",
+        "ios_pkg": "phyphox/id1127319693"
       }
     },
     "piano-companion": {
@@ -495,6 +729,15 @@
         "ios_pkg": ""
       }
     },
+    "pocketpal-ai": {
+      "name": "PocketPal AI",
+      "category": "development",
+      "subcategory": "AI Assistant",
+      "package_manager": {
+        "android_pkg": "com.pocketpalai",
+        "ios_pkg": "pocketpal-ai/id6502579498"
+      }
+    },
     "protonmail": {
       "name": "Proton Mail",
       "category": "social-and-communications",
@@ -502,6 +745,15 @@
       "package_manager": {
         "android_pkg": "ch.protonmail.android",
         "ios_pkg": "proton-mail-encrypted-email/id979659905"
+      }
+    },
+    "rabby-wallet": {
+      "name": "Rabby Wallet",
+      "category": "money-and-finance",
+      "subcategory": "Cryptocurrency Wallet",
+      "package_manager": {
+        "android_pkg": "com.debank.rabbymobile",
+        "ios_pkg": "rabby-wallet-crypto-evm/id6474381673"
       }
     },
     "raindrop-io": {
@@ -531,6 +783,24 @@
         "ios_pkg": ""
       }
     },
+    "revolut": {
+      "name": "Revolut",
+      "category": "money-and-finance",
+      "subcategory": "Banking",
+      "package_manager": {
+        "android_pkg": "com.revolut.revolut",
+        "ios_pkg": "revolut-send-spend-and-save/id932493382"
+      }
+    },
+    "rf-analyzer": {
+      "name": "RF Analyzer",
+      "category": "system-administration",
+      "subcategory": "SDR and Radio",
+      "package_manager": {
+        "android_pkg": "com.mantz_it.rfanalyzer",
+        "ios_pkg": ""
+      }
+    },
     "sd-maid-2": {
       "name": "SD Maid 2",
       "category": "os-and-utilities",
@@ -547,6 +817,24 @@
       "package_manager": {
         "android_pkg": "com.castle.sefirah",
         "ios_pkg": ""
+      }
+    },
+    "simplex-chat": {
+      "name": "SimpleX",
+      "category": "social-and-communications",
+      "subcategory": "Messaging",
+      "package_manager": {
+        "android_pkg": "chat.simplex.app",
+        "ios_pkg": "simplex-chat-secure-messenger/id1605771084"
+      }
+    },
+    "snapseed": {
+      "name": "Snapseed",
+      "category": "photos-and-graphics",
+      "subcategory": "Image Editor",
+      "package_manager": {
+        "android_pkg": "com.niksoftware.snapseed",
+        "ios_pkg": "snapseed-photo-editor/id439438619"
       }
     },
     "spotify": {
@@ -585,6 +873,24 @@
         "ios_pkg": ""
       }
     },
+    "stratum": {
+      "name": "Stratum",
+      "category": "security-and-privacy",
+      "subcategory": "Two-Factor Authentication",
+      "package_manager": {
+        "android_pkg": "com.stratumauth.app",
+        "ios_pkg": ""
+      }
+    },
+    "strava": {
+      "name": "Strava",
+      "category": "health-and-fitness",
+      "subcategory": "Fitness",
+      "package_manager": {
+        "android_pkg": "com.strava",
+        "ios_pkg": "strava-run-bike-walk/id426826309"
+      }
+    },
     "stremio": {
       "name": "Stremio",
       "category": "video-and-movies",
@@ -603,6 +909,15 @@
         "ios_pkg": "sun-surveyor-sun-moon/id525176875"
       }
     },
+    "syncthing-fork": {
+      "name": "Syncthing-Fork",
+      "category": "file-management",
+      "subcategory": "File Synchronization",
+      "package_manager": {
+        "android_pkg": "com.github.catfriend1.syncthingandroid",
+        "ios_pkg": ""
+      }
+    },
     "telegram": {
       "name": "telegram",
       "category": "social-and-communications",
@@ -610,6 +925,15 @@
       "package_manager": {
         "android_pkg": "org.telegram.messenger",
         "ios_pkg": "telegram-messenger/id686449807"
+      }
+    },
+    "termux": {
+      "name": "Termux",
+      "category": "os-and-utilities",
+      "subcategory": "Terminal Emulator",
+      "package_manager": {
+        "android_pkg": "com.termux",
+        "ios_pkg": ""
       }
     },
     "ticktick": {
@@ -628,6 +952,15 @@
       "package_manager": {
         "android_pkg": "com.zhiliaoapp.musically",
         "ios_pkg": "tiktok/id835599320"
+      }
+    },
+    "trail-sense": {
+      "name": "Trail Sense",
+      "category": "travel-and-location",
+      "subcategory": "Outdoor and Hiking",
+      "package_manager": {
+        "android_pkg": "com.kylecorry.trail_sense",
+        "ios_pkg": ""
       }
     },
     "trakt": {
@@ -657,6 +990,15 @@
         "ios_pkg": ""
       }
     },
+    "whatsapp": {
+      "name": "WhatsApp",
+      "category": "social-and-communications",
+      "subcategory": "Messaging",
+      "package_manager": {
+        "android_pkg": "com.whatsapp",
+        "ios_pkg": "whatsapp-messenger/id310633997"
+      }
+    },
     "wikiloc": {
       "name": "Wikiloc",
       "category": "travel-and-location",
@@ -673,6 +1015,15 @@
       "package_manager": {
         "android_pkg": "org.wikipedia",
         "ios_pkg": "wikipedia/id324715238"
+      }
+    },
+    "windy": {
+      "name": "Windy",
+      "category": "travel-and-location",
+      "subcategory": "Weather",
+      "package_manager": {
+        "android_pkg": "com.windyty.android",
+        "ios_pkg": "windy-com-weather-radar/id1161387262"
       }
     },
     "wolfram-alpha": {
@@ -720,6 +1071,24 @@
         "ios_pkg": "youtube-music/id1017492454"
       }
     },
+    "youtube-music-revanced": {
+      "name": "YT Music ReVanced",
+      "category": "audio-and-music",
+      "subcategory": "Music Streaming",
+      "package_manager": {
+        "android_pkg": "app.revanced.android.apps.youtube.music",
+        "ios_pkg": ""
+      }
+    },
+    "youtube-revanced": {
+      "name": "YouTube ReVanced",
+      "category": "video-and-movies",
+      "subcategory": "Streaming",
+      "package_manager": {
+        "android_pkg": "app.revanced.android.youtube",
+        "ios_pkg": ""
+      }
+    },
     "zen-iptv": {
       "name": "Zen IPTV",
       "category": "video-and-movies",
@@ -736,366 +1105,6 @@
       "package_manager": {
         "android_pkg": "com.huami.watch.hmwatchmanager",
         "ios_pkg": "zepp/id938688461"
-      }
-    },
-    "adguard": {
-      "name": "AdGuard",
-      "category": "security-and-privacy",
-      "subcategory": "Ad Blocker",
-      "package_manager": {
-        "android_pkg": "com.adguard.android",
-        "ios_pkg": ""
-      }
-    },
-    "anatomy-learning": {
-      "name": "Anatomy Learning",
-      "category": "education-and-reference",
-      "subcategory": "Anatomy",
-      "package_manager": {
-        "android_pkg": "com.AnatomyLearning.Anatomy3DViewer3",
-        "ios_pkg": "anatomy-learning-3d-anatomy/id1593953398"
-      }
-    },
-    "binary-eye": {
-      "name": "Binary Eye",
-      "category": "os-and-utilities",
-      "subcategory": "QR Scanner",
-      "package_manager": {
-        "android_pkg": "de.markusfisch.android.binaryeye",
-        "ios_pkg": ""
-      }
-    },
-    "blekip": {
-      "name": "BleKip",
-      "category": "os-and-utilities",
-      "subcategory": "Bluetooth",
-      "package_manager": {
-        "android_pkg": "in.krosbits.blekip",
-        "ios_pkg": ""
-      }
-    },
-    "fossify-calendar": {
-      "name": "Calendar (Fossify)",
-      "category": "office-and-productivity",
-      "subcategory": "Calendar",
-      "package_manager": {
-        "android_pkg": "org.fossify.calendar",
-        "ios_pkg": ""
-      }
-    },
-    "claude": {
-      "name": "Claude",
-      "category": "development",
-      "subcategory": "AI Assistant",
-      "package_manager": {
-        "android_pkg": "com.anthropic.claude",
-        "ios_pkg": "claude-by-anthropic/id6473753684"
-      }
-    },
-    "devcheck": {
-      "name": "DevCheck",
-      "category": "os-and-utilities",
-      "subcategory": "Device Info",
-      "package_manager": {
-        "android_pkg": "flar2.devcheck",
-        "ios_pkg": ""
-      }
-    },
-    "diccionario-rae": {
-      "name": "Diccionario RAE",
-      "category": "education-and-reference",
-      "subcategory": "Dictionary",
-      "package_manager": {
-        "android_pkg": "es.rae.dle_offline",
-        "ios_pkg": "diccionario-rae-y-asale-dle/id1011116985"
-      }
-    },
-    "disney-plus": {
-      "name": "Disney+",
-      "category": "video-and-movies",
-      "subcategory": "Streaming",
-      "package_manager": {
-        "android_pkg": "com.disney.disneyplus",
-        "ios_pkg": "disney/id1446075923"
-      }
-    },
-    "futo-keyboard": {
-      "name": "FUTO Keyboard",
-      "category": "os-and-utilities",
-      "subcategory": "Keyboard",
-      "package_manager": {
-        "android_pkg": "org.futo.inputmethod.latin.playstore",
-        "ios_pkg": ""
-      }
-    },
-    "golly": {
-      "name": "Golly",
-      "category": "education-and-reference",
-      "subcategory": "Cellular Automaton",
-      "package_manager": {
-        "android_pkg": "net.sf.golly",
-        "ios_pkg": ""
-      }
-    },
-    "google-play-books": {
-      "name": "Google Play Books",
-      "category": "news-and-books",
-      "subcategory": "Ebook Reader",
-      "package_manager": {
-        "android_pkg": "com.google.android.apps.books",
-        "ios_pkg": "google-play-books-audiobooks/id400989007"
-      }
-    },
-    "gps-status": {
-      "name": "GPS Status",
-      "category": "travel-and-location",
-      "subcategory": "GPS",
-      "package_manager": {
-        "android_pkg": "com.eclipsim.gpsstatus2",
-        "ios_pkg": ""
-      }
-    },
-    "gsmarena": {
-      "name": "GSMArena",
-      "category": "education-and-reference",
-      "subcategory": "Encyclopedia",
-      "package_manager": {
-        "android_pkg": "com.gsmarena.android",
-        "ios_pkg": ""
-      }
-    },
-    "hellochinese": {
-      "name": "HelloChinese",
-      "category": "education-and-reference",
-      "subcategory": "Language Learning",
-      "package_manager": {
-        "android_pkg": "com.hellochinese",
-        "ios_pkg": "hellochinese-learn-chinese/id1001507516"
-      }
-    },
-    "kraken": {
-      "name": "Kraken",
-      "category": "money-and-finance",
-      "subcategory": "Cryptocurrency Wallet",
-      "package_manager": {
-        "android_pkg": "com.kraken.invest.app",
-        "ios_pkg": "kraken-buy-crypto-stocks/id1481947260"
-      }
-    },
-    "ledger-live": {
-      "name": "Ledger Live",
-      "category": "money-and-finance",
-      "subcategory": "Cryptocurrency Wallet",
-      "package_manager": {
-        "android_pkg": "com.ledger.live",
-        "ios_pkg": "ledger-live-crypto-wallet/id1361671700"
-      }
-    },
-    "look4sat": {
-      "name": "Look4Sat",
-      "category": "education-and-reference",
-      "subcategory": "Satellite Tracking",
-      "package_manager": {
-        "android_pkg": "com.rtbishop.look4sat",
-        "ios_pkg": ""
-      }
-    },
-    "material-photo-widget": {
-      "name": "Material Photo Widget",
-      "category": "photos-and-graphics",
-      "subcategory": "Widget",
-      "package_manager": {
-        "android_pkg": "com.fibelatti.photowidget",
-        "ios_pkg": ""
-      }
-    },
-    "meshtastic": {
-      "name": "Meshtastic",
-      "category": "system-administration",
-      "subcategory": "Mesh Networking",
-      "package_manager": {
-        "android_pkg": "com.geeksville.mesh",
-        "ios_pkg": "meshtastic/id1586432531"
-      }
-    },
-    "microg": {
-      "name": "microG Services",
-      "category": "os-and-utilities",
-      "subcategory": "System Services",
-      "package_manager": {
-        "android_pkg": "app.revanced.android.gms",
-        "ios_pkg": ""
-      }
-    },
-    "oss-document-scanner": {
-      "name": "OSS Document Scanner",
-      "category": "office-and-productivity",
-      "subcategory": "Document Scanner",
-      "package_manager": {
-        "android_pkg": "com.akylas.documentscanner",
-        "ios_pkg": ""
-      }
-    },
-    "peakfinder": {
-      "name": "PeakFinder",
-      "category": "travel-and-location",
-      "subcategory": "Outdoor and Hiking",
-      "package_manager": {
-        "android_pkg": "org.peakfinder.area.alps",
-        "ios_pkg": "peakfinder/id357421934"
-      }
-    },
-    "photopills": {
-      "name": "PhotoPills",
-      "category": "photos-and-graphics",
-      "subcategory": "Photography Planning",
-      "package_manager": {
-        "android_pkg": "com.photopills.android.photopills",
-        "ios_pkg": "photopills/id596026805"
-      }
-    },
-    "phyphox": {
-      "name": "phyphox",
-      "category": "education-and-reference",
-      "subcategory": "Physics",
-      "package_manager": {
-        "android_pkg": "de.rwth_aachen.phyphox",
-        "ios_pkg": "phyphox/id1127319693"
-      }
-    },
-    "rabby-wallet": {
-      "name": "Rabby Wallet",
-      "category": "money-and-finance",
-      "subcategory": "Cryptocurrency Wallet",
-      "package_manager": {
-        "android_pkg": "com.debank.rabbymobile",
-        "ios_pkg": "rabby-wallet-crypto-evm/id6474381673"
-      }
-    },
-    "revolut": {
-      "name": "Revolut",
-      "category": "money-and-finance",
-      "subcategory": "Banking",
-      "package_manager": {
-        "android_pkg": "com.revolut.revolut",
-        "ios_pkg": "revolut-send-spend-and-save/id932493382"
-      }
-    },
-    "rf-analyzer": {
-      "name": "RF Analyzer",
-      "category": "system-administration",
-      "subcategory": "SDR and Radio",
-      "package_manager": {
-        "android_pkg": "com.mantz_it.rfanalyzer",
-        "ios_pkg": ""
-      }
-    },
-    "google-sheets": {
-      "name": "Google Sheets",
-      "category": "office-and-productivity",
-      "subcategory": "Spreadsheet",
-      "package_manager": {
-        "android_pkg": "com.google.android.apps.docs.editors.sheets",
-        "ios_pkg": "google-sheets/id842849113"
-      }
-    },
-    "simplex-chat": {
-      "name": "SimpleX",
-      "category": "social-and-communications",
-      "subcategory": "Messaging",
-      "package_manager": {
-        "android_pkg": "chat.simplex.app",
-        "ios_pkg": "simplex-chat-secure-messenger/id1605771084"
-      }
-    },
-    "snapseed": {
-      "name": "Snapseed",
-      "category": "photos-and-graphics",
-      "subcategory": "Image Editor",
-      "package_manager": {
-        "android_pkg": "com.niksoftware.snapseed",
-        "ios_pkg": "snapseed-photo-editor/id439438619"
-      }
-    },
-    "stratum": {
-      "name": "Stratum",
-      "category": "security-and-privacy",
-      "subcategory": "Two-Factor Authentication",
-      "package_manager": {
-        "android_pkg": "com.stratumauth.app",
-        "ios_pkg": ""
-      }
-    },
-    "strava": {
-      "name": "Strava",
-      "category": "health-and-fitness",
-      "subcategory": "Fitness",
-      "package_manager": {
-        "android_pkg": "com.strava",
-        "ios_pkg": "strava-run-bike-walk/id426826309"
-      }
-    },
-    "syncthing-fork": {
-      "name": "Syncthing-Fork",
-      "category": "file-management",
-      "subcategory": "File Synchronization",
-      "package_manager": {
-        "android_pkg": "com.github.catfriend1.syncthingandroid",
-        "ios_pkg": ""
-      }
-    },
-    "termux": {
-      "name": "Termux",
-      "category": "os-and-utilities",
-      "subcategory": "Terminal Emulator",
-      "package_manager": {
-        "android_pkg": "com.termux",
-        "ios_pkg": ""
-      }
-    },
-    "trail-sense": {
-      "name": "Trail Sense",
-      "category": "travel-and-location",
-      "subcategory": "Outdoor and Hiking",
-      "package_manager": {
-        "android_pkg": "com.kylecorry.trail_sense",
-        "ios_pkg": ""
-      }
-    },
-    "whatsapp": {
-      "name": "WhatsApp",
-      "category": "social-and-communications",
-      "subcategory": "Messaging",
-      "package_manager": {
-        "android_pkg": "com.whatsapp",
-        "ios_pkg": "whatsapp-messenger/id310633997"
-      }
-    },
-    "windy": {
-      "name": "Windy",
-      "category": "travel-and-location",
-      "subcategory": "Weather",
-      "package_manager": {
-        "android_pkg": "com.windyty.android",
-        "ios_pkg": "windy-com-weather-radar/id1161387262"
-      }
-    },
-    "youtube-revanced": {
-      "name": "YouTube ReVanced",
-      "category": "video-and-movies",
-      "subcategory": "Streaming",
-      "package_manager": {
-        "android_pkg": "app.revanced.android.youtube",
-        "ios_pkg": ""
-      }
-    },
-    "youtube-music-revanced": {
-      "name": "YT Music ReVanced",
-      "category": "audio-and-music",
-      "subcategory": "Music Streaming",
-      "package_manager": {
-        "android_pkg": "app.revanced.android.apps.youtube.music",
-        "ios_pkg": ""
       }
     }
   }
