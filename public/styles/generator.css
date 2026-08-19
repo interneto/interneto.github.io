@@ -580,13 +580,14 @@ form {
 .favs-toggle-btn.active {
     background-color: var(--warning-border);
     border-color: var(--warning-border);
-    color: var(--warning-text);
+    color: #212529;
     box-shadow: 0 4px 12px color-mix(in srgb, var(--warning-border) 40%, transparent);
 }
 
 .favs-toggle-btn.active:hover {
     background-color: color-mix(in srgb, var(--warning-border) 85%, black 15%);
     border-color: var(--warning-border);
+    color: #212529;
     box-shadow: 0 6px 16px color-mix(in srgb, var(--warning-border) 50%, transparent);
     transform: translateY(-2px);
 }
@@ -1592,6 +1593,36 @@ form {
 [data-theme="dark"] .pkg-type-tag.plugin {
     color: #fbbf24;
     border-color: color-mix(in srgb, #f59e0b 50%, transparent);
+}
+
+.pkg-type-tag.skill {
+    background: color-mix(in srgb, #10b981 20%, transparent);
+    color: #059669;
+    border: 1px solid color-mix(in srgb, #10b981 35%, transparent);
+}
+
+[data-theme="dark"] .pkg-type-tag.skill {
+    color: #34d399;
+    border-color: color-mix(in srgb, #10b981 50%, transparent);
+}
+
+.pkg-type-tag.hook {
+    background: color-mix(in srgb, #8b5cf6 20%, transparent);
+    color: #7c3aed;
+    border: 1px solid color-mix(in srgb, #8b5cf6 35%, transparent);
+}
+
+[data-theme="dark"] .pkg-type-tag.hook {
+    color: #a78bfa;
+    border-color: color-mix(in srgb, #8b5cf6 50%, transparent);
+}
+
+/* Tag group next to package name */
+.pkg-tags {
+    display: inline-flex;
+    gap: 4px;
+    flex-wrap: wrap;
+    flex-shrink: 0;
 }
 
 /* Package icon inline with label */

@@ -19,6 +19,7 @@ interface AgentEntry {
     type: string;
     category: string;
     description: string;
+    tags?: string[];
     agent_compat: { claude: boolean; codex: boolean; copilot?: boolean; npx?: boolean };
 }
 
@@ -31,6 +32,7 @@ interface TableItem {
     name: string;
     type: string;
     category: string;
+    tags: string[];
     claude: boolean;
     codex: boolean;
     copilot: boolean;
@@ -45,7 +47,7 @@ let filteredItems: TableItem[] = [];
 
 interface SortState { column: string; direction: string; }
 let sortState: SortState = { column: 'name', direction: 'asc' };
-let activeFilter = 'all'; // 'all', 'mcp', 'plugin'
+let activeFilter = 'all'; // 'all', 'mcp', 'plugin', 'skill', 'hook'
 let searchTerm = '';
 
 // ---- Data ----
@@ -56,6 +58,7 @@ function loadData(data: AgentsData): void {
         name: entry.name,
         type: entry.type,
         category: entry.category || 'Other',
+        tags: entry.tags || [],
         claude: entry.agent_compat?.claude ?? false,
         codex: entry.agent_compat?.codex ?? false,
         copilot: entry.agent_compat?.copilot ?? false,
@@ -76,10 +79,12 @@ function applyFilters(): void {
         );
     }
 
-    // Type/agent filter
+    // Type filter
     if (activeFilter !== 'all') {
         if (activeFilter === 'mcp') items = items.filter(i => i.isMcp);
-        else if (activeFilter === 'plugin') items = items.filter(i => !i.isMcp);
+        else if (activeFilter === 'plugin') items = items.filter(i => !i.isMcp && i.tags.includes('Plugin'));
+        else if (activeFilter === 'skill') items = items.filter(i => i.tags.includes('Skill'));
+        else if (activeFilter === 'hook') items = items.filter(i => i.tags.includes('Hook'));
     }
 
     // Sort
@@ -136,11 +141,15 @@ function renderTable(): void {
 
 function updateStats(): void {
     const totalEl = document.getElementById('totalPackages');
-    const mcpEl = document.getElementById('mcpCount');
-    const pluginEl = document.getElementById('pluginCount');
+    const claudeEl = document.getElementById('claudeCount');
+    const codexEl = document.getElementById('codexCount');
+    const copilotEl = document.getElementById('copilotCount');
+    const npxEl = document.getElementById('npxCount');
     if (totalEl) totalEl.textContent = String(filteredItems.length);
-    if (mcpEl) mcpEl.textContent = String(filteredItems.filter(i => i.isMcp).length);
-    if (pluginEl) pluginEl.textContent = String(filteredItems.filter(i => !i.isMcp).length);
+    if (claudeEl) claudeEl.textContent = String(filteredItems.filter(i => i.claude).length);
+    if (codexEl) codexEl.textContent = String(filteredItems.filter(i => i.codex).length);
+    if (copilotEl) copilotEl.textContent = String(filteredItems.filter(i => i.copilot).length);
+    if (npxEl) npxEl.textContent = String(filteredItems.filter(i => i.npx).length);
 }
 
 function updateFilterChips(): void {

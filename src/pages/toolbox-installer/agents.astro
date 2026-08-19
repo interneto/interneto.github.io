@@ -32,6 +32,7 @@ const options = [
         searchPlaceholder="Search by name or category"
         options={options}
         showFossToggle={false}
+        showFavsToggle={true}
         showFileInput={false}
         useForm={true}
         formId="agentForm"
@@ -45,8 +46,10 @@ const options = [
           </div>
           <div class="page-filter-row filter-chips" role="group" aria-label="Filter by type">
             <button type="button" class="filter-chip active" data-filter="all" aria-pressed="true">All</button>
-            <button type="button" class="filter-chip" data-filter="mcp" aria-pressed="false">🔌 MCP Servers</button>
-            <button type="button" class="filter-chip" data-filter="plugin" aria-pressed="false">🧩 Plugins / Skills</button>
+            <button type="button" class="filter-chip" data-filter="mcp" aria-pressed="false">🔌 MCP</button>
+            <button type="button" class="filter-chip" data-filter="plugin" aria-pressed="false">🧩 Plugin</button>
+            <button type="button" class="filter-chip" data-filter="skill" aria-pressed="false">📚 Skill</button>
+            <button type="button" class="filter-chip" data-filter="hook" aria-pressed="false">⚙️ Hook</button>
           </div>
         </div>
 
@@ -72,8 +75,10 @@ const options = [
       >
         <div slot="controls" class="page-filter-row filter-chips" role="group" aria-label="Filter by type">
           <button type="button" class="filter-chip active" data-os="all" aria-pressed="true">All</button>
-          <button type="button" class="filter-chip" data-os="mcp" aria-pressed="false">MCP Servers</button>
-          <button type="button" class="filter-chip" data-os="plugin" aria-pressed="false">Plugins / Skills</button>
+          <button type="button" class="filter-chip" data-os="mcp" aria-pressed="false">🔌 MCP</button>
+          <button type="button" class="filter-chip" data-os="plugin" aria-pressed="false">🧩 Plugin</button>
+          <button type="button" class="filter-chip" data-os="skill" aria-pressed="false">📚 Skill</button>
+          <button type="button" class="filter-chip" data-os="hook" aria-pressed="false">⚙️ Hook</button>
         </div>
 
         <div slot="legend" class="legend" aria-label="Compatibility legend">
@@ -111,8 +116,10 @@ const options = [
 
         <div class="stats">
           <div class="stat-item"><div class="stat-number" id="totalPackages">0</div><div class="stat-label">Total Tools</div></div>
-          <div class="stat-item"><div class="stat-number" id="mcpCount">0</div><div class="stat-label">MCP Servers</div></div>
-          <div class="stat-item"><div class="stat-number" id="pluginCount">0</div><div class="stat-label">Plugins / Skills</div></div>
+          <div class="stat-item"><div class="stat-number" id="claudeCount">0</div><div class="stat-label">Claude Code</div></div>
+          <div class="stat-item"><div class="stat-number" id="codexCount">0</div><div class="stat-label">Codex CLI</div></div>
+          <div class="stat-item"><div class="stat-number" id="copilotCount">0</div><div class="stat-label">GitHub Copilot</div></div>
+          <div class="stat-item"><div class="stat-number" id="npxCount">0</div><div class="stat-label">NPX</div></div>
         </div>
       </CompatibilityTablePage>
     </div>

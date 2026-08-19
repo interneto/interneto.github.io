@@ -78,10 +78,14 @@
     "usernamehw.errorlens"
   ],
   "agents": [
-    "mcp-filesystem",
-    "mcp-github",
-    "pkg-context7",
-    "pkg-playwright",
-    "pkg-superpowers"
+    "serena",
+    "context7",
+    "playwright",
+    "daw-mcp",
+    "superpowers",
+    "frontend-design",
+    "claude-md-management",
+    "code-simplifier",
+    "hookify"
   ]
 }

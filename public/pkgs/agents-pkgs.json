@@ -19,7 +19,10 @@
           "cmd": "copilot mcp add ableton -- uvx ableton-mcp"
         }
       ],
-      "url": ""
+      "url": "",
+      "tags": [
+        "MCP"
+      ]
     },
     "academic-research-skills": {
       "name": "Academic Research Skills",
@@ -44,7 +47,11 @@
           "cmd": "copilot plugin marketplace add Imbad0202/academic-research-skills && copilot plugin install academic-research-skills@academic-research-skills"
         }
       ],
-      "url": ""
+      "url": "",
+      "tags": [
+        "Plugin",
+        "Skill"
+      ]
     },
     "adobe-creativity": {
       "name": "Adobe Creativity",
@@ -65,7 +72,10 @@
           "cmd": "copilot mcp add --transport http adobe-creativity https://adobe-creativity.adobe.io/mcp"
         }
       ],
-      "url": ""
+      "url": "",
+      "tags": [
+        "MCP"
+      ]
     },
     "affinity": {
       "name": "Affinity",
@@ -86,7 +96,10 @@
           "cmd": "copilot mcp add --transport http affinity \"$AFFINITY_MCP_URL\""
         }
       ],
-      "url": ""
+      "url": "",
+      "tags": [
+        "MCP"
+      ]
     },
     "agent-skills": {
       "name": "Agent Skills",
@@ -116,7 +129,11 @@
           "cmd": "npx skills add addyosmani/agent-skills -a codex"
         }
       ],
-      "url": ""
+      "url": "",
+      "tags": [
+        "Plugin",
+        "Skill"
+      ]
     },
     "ast-grep": {
       "name": "Ast Grep",
@@ -141,7 +158,11 @@
           "cmd": "npm install -g @ast-grep/cli"
         }
       ],
-      "url": ""
+      "url": "",
+      "tags": [
+        "Plugin",
+        "Skill"
+      ]
     },
     "blender-mcp": {
       "name": "Blender MCP",
@@ -162,7 +183,10 @@
           "cmd": "copilot mcp add blender -- uvx blender-mcp"
         }
       ],
-      "url": ""
+      "url": "",
+      "tags": [
+        "MCP"
+      ]
     },
     "brand-voice": {
       "name": "Brand Voice",
@@ -183,7 +207,11 @@
           "cmd": "copilot plugin install brand-voice@knowledge-work-plugins"
         }
       ],
-      "url": ""
+      "url": "",
+      "tags": [
+        "Plugin",
+        "Skill"
+      ]
     },
     "build-web-apps": {
       "name": "Build Web Apps",
@@ -204,7 +232,11 @@
           "cmd": "npx codex-marketplace add openai/plugins/plugins/build-web-apps --plugin"
         }
       ],
-      "url": ""
+      "url": "",
+      "tags": [
+        "Plugin",
+        "Skill"
+      ]
     },
     "canva": {
       "name": "Canva",
@@ -225,7 +257,11 @@
           "cmd": "npx codex-marketplace add openai/plugins/plugins/canva --plugin"
         }
       ],
-      "url": ""
+      "url": "",
+      "tags": [
+        "Plugin",
+        "Skill"
+      ]
     },
     "caveman": {
       "name": "Caveman",
@@ -255,7 +291,11 @@
           "cmd": "npx skills add JuliusBrussee/caveman -a codex"
         }
       ],
-      "url": ""
+      "url": "",
+      "tags": [
+        "Plugin",
+        "Skill"
+      ]
     },
     "chrome-devtools": {
       "name": "Chrome DevTools MCP",
@@ -280,7 +320,10 @@
           "cmd": "copilot mcp add chrome-devtools -- npx chrome-devtools-mcp@latest"
         }
       ],
-      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "tags": [
+        "MCP"
+      ]
     },
     "claude-md-management": {
       "name": "Claude MD Management",
@@ -301,7 +344,11 @@
           "cmd": "copilot plugin install claude-md-management@claude-plugins-official"
         }
       ],
-      "url": ""
+      "url": "",
+      "tags": [
+        "Plugin",
+        "Skill"
+      ]
     },
     "claude-plugins-official": {
       "name": "Claude Plugins Official",
@@ -322,7 +369,10 @@
           "cmd": "copilot plugin marketplace add anthropics/claude-plugins-official"
         }
       ],
-      "url": ""
+      "url": "",
+      "tags": [
+        "Plugin"
+      ]
     },
     "cloudflare": {
       "name": "Cloudflare",
@@ -352,7 +402,10 @@
           "cmd": "npx -y mcp-remote https://mcp.cloudflare.com/mcp"
         }
       ],
-      "url": ""
+      "url": "",
+      "tags": [
+        "MCP"
+      ]
     },
     "code-simplifier": {
       "name": "Code Simplifier",
@@ -373,7 +426,11 @@
           "cmd": "copilot plugin install code-simplifier@claude-plugins-official"
         }
       ],
-      "url": ""
+      "url": "",
+      "tags": [
+        "Plugin",
+        "Skill"
+      ]
     },
     "codebase-memory-mcp": {
       "name": "Codebase Memory MCP",
@@ -389,7 +446,10 @@
           "cmd": "powershell -NoProfile -ExecutionPolicy Bypass -Command irm https://raw.githubusercontent.com/DeusData/codebase-memory-mcp/main/install.ps1 | iex"
         }
       ],
-      "url": ""
+      "url": "",
+      "tags": [
+        "MCP"
+      ]
     },
     "codex": {
       "name": "Codex",
@@ -410,7 +470,11 @@
           "cmd": "copilot plugin marketplace add openai/codex-plugin-cc && copilot plugin install codex@openai-codex"
         }
       ],
-      "url": ""
+      "url": "",
+      "tags": [
+        "Plugin",
+        "Skill"
+      ]
     },
     "comfyui-mcp": {
       "name": "ComfyUI MCP",
@@ -435,7 +499,10 @@
           "cmd": "copilot plugin marketplace add artokun/comfyui-mcp && copilot plugin install comfy@comfyui-mcp"
         }
       ],
-      "url": ""
+      "url": "",
+      "tags": [
+        "MCP"
+      ]
     },
     "composio": {
       "name": "Composio",
@@ -456,7 +523,10 @@
           "cmd": "copilot mcp add --transport http composio \"$COMPOSIO_MCP_URL\" --header \"X-API-Key: $COMPOSIO_API_KEY\""
         }
       ],
-      "url": ""
+      "url": "",
+      "tags": [
+        "MCP"
+      ]
     },
     "context7": {
       "name": "Context7 MCP",
@@ -481,7 +551,11 @@
           "cmd": "copilot mcp add --transport http context7 https://mcp.context7.com/mcp"
         }
       ],
-      "url": "https://mcp.context7.com/mcp"
+      "url": "https://mcp.context7.com/mcp",
+      "tags": [
+        "MCP",
+        "Plugin"
+      ]
     },
     "dashboard-icons": {
       "name": "Dashboard Icons MCP",
@@ -511,7 +585,10 @@
           "cmd": "npx -y mcp-remote https://dashboardicons.com/api/mcp"
         }
       ],
-      "url": ""
+      "url": "",
+      "tags": [
+        "MCP"
+      ]
     },
     "daw-mcp": {
       "name": "DAW MCP",
@@ -532,7 +609,10 @@
           "cmd": "copilot mcp add daw -- node %USERPROFILE%.localdaw-mcpmcp-serverdistmcp-server.js"
         }
       ],
-      "url": ""
+      "url": "",
+      "tags": [
+        "MCP"
+      ]
     },
     "design": {
       "name": "Design",
@@ -553,7 +633,11 @@
           "cmd": "npx claudepluginhub p/anthropics-design-design"
         }
       ],
-      "url": ""
+      "url": "",
+      "tags": [
+        "Plugin",
+        "Skill"
+      ]
     },
     "diagram-design": {
       "name": "Diagram Design",
@@ -583,7 +667,11 @@
           "cmd": "npx skills add https://github.com/cathrynlavery/diagram-design -a codex"
         }
       ],
-      "url": ""
+      "url": "",
+      "tags": [
+        "Plugin",
+        "Skill"
+      ]
     },
     "elevenlabs": {
       "name": "ElevenLabs",
@@ -604,7 +692,10 @@
           "cmd": "copilot mcp add --env ELEVENLABS_API_KEY=\"$ELEVENLABS_API_KEY\" elevenlabs -- uvx elevenlabs-mcp"
         }
       ],
-      "url": ""
+      "url": "",
+      "tags": [
+        "MCP"
+      ]
     },
     "engineering": {
       "name": "Engineering",
@@ -625,7 +716,11 @@
           "cmd": "copilot plugin install engineering@knowledge-work-plugins"
         }
       ],
-      "url": ""
+      "url": "",
+      "tags": [
+        "Plugin",
+        "Skill"
+      ]
     },
     "exa": {
       "name": "Exa MCP",
@@ -650,7 +745,10 @@
           "cmd": "copilot mcp add --transport http exa https://mcp.exa.ai/mcp"
         }
       ],
-      "url": "https://mcp.exa.ai/mcp"
+      "url": "https://mcp.exa.ai/mcp",
+      "tags": [
+        "MCP"
+      ]
     },
     "figma": {
       "name": "Figma Dev Mode MCP",
@@ -675,7 +773,10 @@
           "cmd": "copilot mcp add --transport http figma https://mcp.figma.com/mcp"
         }
       ],
-      "url": "https://mcp.figma.com/mcp"
+      "url": "https://mcp.figma.com/mcp",
+      "tags": [
+        "MCP"
+      ]
     },
     "filesystem": {
       "name": "Filesystem MCP",
@@ -705,7 +806,10 @@
           "cmd": "npx -y @modelcontextprotocol/server-filesystem ."
         }
       ],
-      "url": ""
+      "url": "",
+      "tags": [
+        "MCP"
+      ]
     },
     "firecrawl-cli": {
       "name": "Firecrawl CLI",
@@ -730,7 +834,11 @@
           "cmd": "npx -y firecrawl-cli@latest init --all --browser"
         }
       ],
-      "url": ""
+      "url": "",
+      "tags": [
+        "Plugin",
+        "Skill"
+      ]
     },
     "firecrawl-mcp": {
       "name": "Firecrawl MCP",
@@ -751,7 +859,10 @@
           "cmd": "copilot mcp add --env FIRECRAWL_API_KEY=\"$FIRECRAWL_API_KEY\" firecrawl -- npx -y firecrawl-mcp"
         }
       ],
-      "url": ""
+      "url": "",
+      "tags": [
+        "MCP"
+      ]
     },
     "fl-studio-mcp": {
       "name": "FL Studio MCP",
@@ -767,7 +878,10 @@
           "cmd": "if not exist \"%USERPROFILE%\\.local\\fl-studio-mcp\" git clone https://github.com/karl-andres/fl-studio-mcp.git \"%USERPROFILE%\\.local\\fl-studio-mcp\" && cd /d \"%USERPROFILE%\\.local\\fl-studio-mcp\" && uv sync --python 3.12 && if not exist \"%USERPROFILE%\\Documents\\Image-Line\\FL Studio\\Settings\\Hardware\\FLS"
         }
       ],
-      "url": ""
+      "url": "",
+      "tags": [
+        "MCP"
+      ]
     },
     "frontend-design": {
       "name": "Frontend Design",
@@ -788,7 +902,11 @@
           "cmd": "copilot plugin install frontend-design@claude-plugins-official"
         }
       ],
-      "url": ""
+      "url": "",
+      "tags": [
+        "Plugin",
+        "Skill"
+      ]
     },
     "github": {
       "name": "GitHub MCP",
@@ -813,7 +931,10 @@
           "cmd": "copilot mcp add --transport http github https://api.githubcopilot.com/mcp/"
         }
       ],
-      "url": "https://api.githubcopilot.com/mcp/"
+      "url": "https://api.githubcopilot.com/mcp/",
+      "tags": [
+        "MCP"
+      ]
     },
     "grafana": {
       "name": "Grafana",
@@ -834,7 +955,10 @@
           "cmd": "copilot mcp add --env GRAFANA_URL=\"$GRAFANA_URL\" --env GRAFANA_SERVICE_ACCOUNT_TOKEN=\"$GRAFANA_SERVICE_ACCOUNT_TOKEN\" grafana -- mcp-grafana"
         }
       ],
-      "url": ""
+      "url": "",
+      "tags": [
+        "MCP"
+      ]
     },
     "guitar-pro-mcp": {
       "name": "Guitar Pro MCP",
@@ -850,7 +974,10 @@
           "cmd": "if not exist \"%USERPROFILE%\\.local\\guitar-pro-mcp\" git clone https://github.com/wegitor/guitar-pro-mcp.git \"%USERPROFILE%\\.local\\guitar-pro-mcp\" && cd /d \"%USERPROFILE%\\.local\\guitar-pro-mcp\" && uv venv && uv pip install . && claude mcp add -s user guitar-pro -- uv --directory \"%USERPROFILE%\\.local\\guitar-pro-mcp\" run -m src.run_mcp_server"
         }
       ],
-      "url": ""
+      "url": "",
+      "tags": [
+        "MCP"
+      ]
     },
     "higgsfield-ai-skills": {
       "name": "Higgsfield AI/Skills",
@@ -871,7 +998,11 @@
           "cmd": "npx codex-marketplace add higgsfield-ai/skills --plugin"
         }
       ],
-      "url": ""
+      "url": "",
+      "tags": [
+        "Plugin",
+        "Skill"
+      ]
     },
     "hookify": {
       "name": "Hookify",
@@ -892,7 +1023,11 @@
           "cmd": "copilot plugin install hookify@claude-plugins-official"
         }
       ],
-      "url": ""
+      "url": "",
+      "tags": [
+        "Plugin",
+        "Hook"
+      ]
     },
     "hyperframes": {
       "name": "HyperFrames MCP",
@@ -917,7 +1052,10 @@
           "cmd": "copilot mcp add --transport http hyperframes https://hyperframes.heygen.com"
         }
       ],
-      "url": "https://hyperframes.heygen.com"
+      "url": "https://hyperframes.heygen.com",
+      "tags": [
+        "MCP"
+      ]
     },
     "knowledge-work-plugins": {
       "name": "Knowledge Work Plugins",
@@ -938,7 +1076,10 @@
           "cmd": "copilot plugin marketplace add anthropics/knowledge-work-plugins"
         }
       ],
-      "url": ""
+      "url": "",
+      "tags": [
+        "Plugin"
+      ]
     },
     "kubernetes": {
       "name": "Kubernetes",
@@ -963,7 +1104,10 @@
           "cmd": "copilot mcp add kubernetes -- npx -y kubernetes-mcp-server@latest --read-only"
         }
       ],
-      "url": ""
+      "url": "",
+      "tags": [
+        "MCP"
+      ]
     },
     "linear": {
       "name": "Linear MCP",
@@ -988,7 +1132,10 @@
           "cmd": "copilot mcp add --transport http linear https://mcp.linear.app/mcp"
         }
       ],
-      "url": "https://mcp.linear.app/mcp"
+      "url": "https://mcp.linear.app/mcp",
+      "tags": [
+        "MCP"
+      ]
     },
     "magnific": {
       "name": "Magnific",
@@ -1013,7 +1160,10 @@
           "cmd": "copilot mcp add --transport http magnific https://mcp.magnific.com"
         }
       ],
-      "url": ""
+      "url": "",
+      "tags": [
+        "MCP"
+      ]
     },
     "marketing": {
       "name": "Marketing",
@@ -1034,7 +1184,11 @@
           "cmd": "copilot plugin install marketing@knowledge-work-plugins"
         }
       ],
-      "url": ""
+      "url": "",
+      "tags": [
+        "Plugin",
+        "Skill"
+      ]
     },
     "musescore-mcp": {
       "name": "MuseScore MCP",
@@ -1050,7 +1204,10 @@
           "cmd": "if not exist \"%USERPROFILE%\\.local\\mcp-musescore\" git clone https://github.com/ghchen99/mcp-musescore.git \"%USERPROFILE%\\.local\\mcp-musescore\" && cd /d \"%USERPROFILE%\\.local\\mcp-musescore\" && python -m venv .venv && .venv\\Scripts\\pip install -r requirements.txt && if not exist \"%USERPROFILE%\\Documents\\MuseScore4\\Plugins\" mkdir \"%USERPROFILE%\\Documents\\MuseScore4\\Plugins\" && copy /y musescore-mcp-websocket.qml \"%USERPROFILE%\\Documents\\MuseScore4\\Plugins\\\" && claude mcp add -s user musescore -- \"%USERPROFILE%\\.local\\mcp-musescore\\.venv\\Scripts\\python.exe\" \"%USERPROFILE%\\.local\\mcp-musescore\\server.py\""
         }
       ],
-      "url": ""
+      "url": "",
+      "tags": [
+        "MCP"
+      ]
     },
     "notion": {
       "name": "Notion MCP",
@@ -1075,7 +1232,10 @@
           "cmd": "copilot mcp add --transport http notion https://mcp.notion.com/mcp"
         }
       ],
-      "url": "https://mcp.notion.com/mcp"
+      "url": "https://mcp.notion.com/mcp",
+      "tags": [
+        "MCP"
+      ]
     },
     "obsidian": {
       "name": "Obsidian",
@@ -1096,7 +1256,11 @@
           "cmd": "npx claudepluginhub p/kepano-obsidian"
         }
       ],
-      "url": ""
+      "url": "",
+      "tags": [
+        "Plugin",
+        "Skill"
+      ]
     },
     "pdf-viewer": {
       "name": "PDF Viewer",
@@ -1117,7 +1281,11 @@
           "cmd": "copilot plugin install pdf-viewer@knowledge-work-plugins"
         }
       ],
-      "url": ""
+      "url": "",
+      "tags": [
+        "Plugin",
+        "Skill"
+      ]
     },
     "php-lsp": {
       "name": "Php LSP",
@@ -1143,7 +1311,11 @@
           "cmd": "npm install -g intelephense"
         }
       ],
-      "url": ""
+      "url": "",
+      "tags": [
+        "Plugin",
+        "Skill"
+      ]
     },
     "playwright": {
       "name": "Playwright",
@@ -1168,7 +1340,11 @@
           "cmd": "npx claudepluginhub p/anthropics-playwright-external-plugins-playwright"
         }
       ],
-      "url": ""
+      "url": "",
+      "tags": [
+        "MCP",
+        "Plugin"
+      ]
     },
     "ponytail": {
       "name": "Ponytail",
@@ -1199,7 +1375,11 @@
           "cmd": "npx ponytail"
         }
       ],
-      "url": ""
+      "url": "",
+      "tags": [
+        "Plugin",
+        "Hook"
+      ]
     },
     "postgres": {
       "name": "PostgreSQL MCP",
@@ -1224,7 +1404,10 @@
           "cmd": "copilot mcp add postgres -- npx -y @modelcontextprotocol/server-postgres \"postgresql://USER:PASSWORD@HOST:5432/DB\""
         }
       ],
-      "url": "https://github.com/modelcontextprotocol/servers/tree/main/src/postgres"
+      "url": "https://github.com/modelcontextprotocol/servers/tree/main/src/postgres",
+      "tags": [
+        "MCP"
+      ]
     },
     "postiz": {
       "name": "Postiz",
@@ -1245,7 +1428,11 @@
           "cmd": "copilot plugin install postiz@knowledge-work-plugins"
         }
       ],
-      "url": ""
+      "url": "",
+      "tags": [
+        "Plugin",
+        "Skill"
+      ]
     },
     "productivity": {
       "name": "Productivity",
@@ -1266,7 +1453,11 @@
           "cmd": "copilot plugin install productivity@knowledge-work-plugins"
         }
       ],
-      "url": ""
+      "url": "",
+      "tags": [
+        "Plugin",
+        "Skill"
+      ]
     },
     "pyright-lsp": {
       "name": "Pyright LSP",
@@ -1292,7 +1483,11 @@
           "cmd": "npm install -g pyright"
         }
       ],
-      "url": ""
+      "url": "",
+      "tags": [
+        "Plugin",
+        "Skill"
+      ]
     },
     "raindrop": {
       "name": "Raindrop MCP",
@@ -1317,7 +1512,10 @@
           "cmd": "copilot mcp add --transport http raindrop https://api.raindrop.io/rest/v2/ai/mcp"
         }
       ],
-      "url": "https://api.raindrop.io/rest/v2/ai/mcp"
+      "url": "https://api.raindrop.io/rest/v2/ai/mcp",
+      "tags": [
+        "MCP"
+      ]
     },
     "reaper-mcp": {
       "name": "REAPER MCP",
@@ -1338,7 +1536,10 @@
           "cmd": "pip install reaper-mcp-server && copilot mcp add reaper -- reaper-mcp-server"
         }
       ],
-      "url": ""
+      "url": "",
+      "tags": [
+        "MCP"
+      ]
     },
     "runnet": {
       "name": "Ruvnet",
@@ -1359,7 +1560,10 @@
           "cmd": "copilot mcp add rvagent -- npx @ruvnet/rvagent stdio"
         }
       ],
-      "url": ""
+      "url": "",
+      "tags": [
+        "MCP"
+      ]
     },
     "ruview": {
       "name": "RuView",
@@ -1380,7 +1584,10 @@
           "cmd": "copilot mcp add ruflo -- npx ruflo@latest mcp start"
         }
       ],
-      "url": ""
+      "url": "",
+      "tags": [
+        "MCP"
+      ]
     },
     "sentry": {
       "name": "Sentry",
@@ -1401,7 +1608,10 @@
           "cmd": "npx claudepluginhub p/getsentry-sentry"
         }
       ],
-      "url": ""
+      "url": "",
+      "tags": [
+        "MCP"
+      ]
     },
     "serena": {
       "name": "Serena MCP",
@@ -1426,7 +1636,10 @@
           "cmd": "uv tool install -p 3.13 serena-agent && copilot mcp add serena -- serena start-mcp-server --context=copilot-cli --project-from-cwd"
         }
       ],
-      "url": "https://github.com/oraios/serena"
+      "url": "https://github.com/oraios/serena",
+      "tags": [
+        "MCP"
+      ]
     },
     "stripe": {
       "name": "Stripe MCP",
@@ -1451,7 +1664,10 @@
           "cmd": "copilot mcp add --transport http stripe https://mcp.stripe.com"
         }
       ],
-      "url": "https://mcp.stripe.com"
+      "url": "https://mcp.stripe.com",
+      "tags": [
+        "MCP"
+      ]
     },
     "suno": {
       "name": "Suno",
@@ -1472,7 +1688,10 @@
           "cmd": "copilot mcp add --transport http suno https://suno.mcp.acedata.cloud/mcp"
         }
       ],
-      "url": ""
+      "url": "",
+      "tags": [
+        "MCP"
+      ]
     },
     "supabase": {
       "name": "Supabase",
@@ -1497,7 +1716,10 @@
           "cmd": "npx claudepluginhub p/jawwadfirdousi-supabase-supabase"
         }
       ],
-      "url": ""
+      "url": "",
+      "tags": [
+        "MCP"
+      ]
     },
     "superpowers": {
       "name": "Superpowers",
@@ -1518,7 +1740,11 @@
           "cmd": "copilot plugin install superpowers@claude-plugins-official"
         }
       ],
-      "url": ""
+      "url": "",
+      "tags": [
+        "Plugin",
+        "Skill"
+      ]
     },
     "typescript-lsp": {
       "name": "TypeScript LSP",
@@ -1544,7 +1770,11 @@
           "cmd": "npm install -g typescript-language-server typescript"
         }
       ],
-      "url": ""
+      "url": "",
+      "tags": [
+        "Plugin",
+        "Skill"
+      ]
     },
     "vercel": {
       "name": "Vercel MCP",
@@ -1569,7 +1799,10 @@
           "cmd": "copilot mcp add --transport http vercel https://mcp.vercel.com"
         }
       ],
-      "url": "https://mcp.vercel.com"
+      "url": "https://mcp.vercel.com",
+      "tags": [
+        "MCP"
+      ]
     }
   }
 }

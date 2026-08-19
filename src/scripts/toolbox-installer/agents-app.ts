@@ -7,6 +7,7 @@
  */
 
 import { initConfigData } from '../shared/data-loader';
+import { initFavoritesData, getFavoritesForCurrentPage } from '../shared/favorites-store';
 import { CLASS_NAMES, EVENT_NAMES } from '../shared/dom-constants';
 import { getElement, onDOMReady } from '../shared/dom-utils';
 
@@ -16,6 +17,7 @@ const JSON_URL = `${BASE}pkgs/agents-pkgs.json`;
 interface AgentInstall { agent: string; cmd: string; }
 interface AgentEntry {
     name: string; type: string; category: string; description: string;
+    tags?: string[];
     agent_compat: { claude: boolean; codex: boolean; copilot?: boolean; npx?: boolean };
     installs: AgentInstall[]; url: string;
 }
@@ -23,7 +25,8 @@ interface AgentsData { agents: Record<string, AgentEntry>; }
 
 let allAgents: Array<{ id: string } & AgentEntry> = [];
 let activeAgent: 'claude' | 'codex' | 'copilot' | 'npx' = 'claude';
-let activeFilter: 'all' | 'mcp' | 'plugin' = 'all';
+let activeFilter: 'all' | 'mcp' | 'plugin' | 'skill' | 'hook' = 'all';
+let favsOnly = false;
 let searchTerm = '';
 let checkedIds: Set<string> = new Set();
 
@@ -47,15 +50,19 @@ function getCatEmoji(cat: string): string {
 function renderLabel(id: string, agent: typeof allAgents[0], available: boolean): string {
     const isMcp = agent.type === 'MCP Server';
     const icon = isMcp ? '🔌' : '🧩';
-    const tag = isMcp ? 'MCP' : 'Plugin';
-    const tagCls = isMcp ? 'mcp' : 'plugin';
+    // Prefer explicit tags; fall back to a single derived tag for legacy data.
+    const tags = (agent.tags && agent.tags.length ? agent.tags : [isMcp ? 'MCP' : 'Plugin']);
+    const tagHtml = tags.map(t => {
+        const cls = t.toLowerCase();
+        return `<span class="pkg-type-tag ${cls}">${esc(t)}</span>`;
+    }).join('');
     const labelCls = available ? 'pkg-label' : `pkg-label ${CLASS_NAMES.DISTRO_HIDDEN}`;
     return `
-    <label class="${labelCls}" data-id="${id}" data-search="${esc((agent.name + ' ' + agent.category + ' ' + tag).toLowerCase())}">
+    <label class="${labelCls}" data-id="${id}" data-search="${esc((agent.name + ' ' + agent.category + ' ' + tags.join(' ')).toLowerCase())}">
         <input type="checkbox" name="pkg" value="${id}" class="${CLASS_NAMES.PACKAGE_CHECKBOX}" ${available ? '' : 'disabled'}>
         <span class="pkg-icon-wrap">${icon}</span>
         <span class="pkg-name-label">${esc(agent.name)}</span>
-        <span class="pkg-type-tag ${tagCls}">${tag}</span>
+        <span class="pkg-tags">${tagHtml}</span>
     </label>`;
 }
 
@@ -72,10 +79,16 @@ function generatePackages(): void {
 
     let items = allAgents.slice();
     if (activeFilter === 'mcp') items = items.filter(a => a.type === 'MCP Server');
-    else if (activeFilter === 'plugin') items = items.filter(a => a.type !== 'MCP Server');
+    else if (activeFilter === 'plugin') items = items.filter(a => a.type !== 'MCP Server' && (a.tags || []).includes('Plugin'));
+    else if (activeFilter === 'skill') items = items.filter(a => (a.tags || []).includes('Skill'));
+    else if (activeFilter === 'hook') items = items.filter(a => (a.tags || []).includes('Hook'));
+    if (favsOnly) {
+        const favs = new Set(getFavoritesForCurrentPage());
+        items = items.filter(a => favs.has(a.id));
+    }
     if (searchTerm) {
         const q = searchTerm;
-        items = items.filter(a => `${a.name} ${a.category} ${a.type}`.toLowerCase().includes(q));
+        items = items.filter(a => `${a.name} ${a.category} ${a.type} ${(a.tags || []).join(' ')}`.toLowerCase().includes(q));
     }
 
     const grouped: Record<string, typeof items> = {};
@@ -136,7 +149,7 @@ function setupFilterChips(): void {
     const chips = document.querySelectorAll<HTMLElement>('#installerView .filter-chip');
     chips.forEach(chip => {
         chip.addEventListener('click', () => {
-            const filter = chip.dataset.filter as 'all' | 'mcp' | 'plugin';
+            const filter = chip.dataset.filter as 'all' | 'mcp' | 'plugin' | 'skill' | 'hook';
             if (!filter) return;
             activeFilter = filter;
             chips.forEach(c => { c.classList.remove('active'); c.setAttribute('aria-pressed', 'false'); });
@@ -144,6 +157,17 @@ function setupFilterChips(): void {
             chip.setAttribute('aria-pressed', 'true');
             generatePackages();
         });
+    });
+}
+
+function setupFavsToggle(): void {
+    const btn = getElement('FAVS_TOGGLE_BTN');
+    if (!btn) return;
+    btn.addEventListener('click', () => {
+        favsOnly = !favsOnly;
+        btn.classList.toggle(CLASS_NAMES.ACTIVE, favsOnly);
+        btn.setAttribute('aria-pressed', String(favsOnly));
+        generatePackages();
     });
 }
 
@@ -325,10 +349,12 @@ function setupCopyListButton(): void {
 async function init(): Promise<void> {
     try {
         await initConfigData();
+        await initFavoritesData();
         await loadData();
         generatePackages();
         setupAgentSelector();
         setupFilterChips();
+        setupFavsToggle();
         setupSearchInput();
         setupSelectAllCheckbox();
         setupToggleAllButton();
