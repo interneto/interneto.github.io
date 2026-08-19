@@ -2847,24 +2847,6 @@
         "windows_winget": "MongoDB.Server"
       }
     },
-    "moodle": {
-      "name": "Moodle",
-      "category": "education-and-reference",
-      "subcategory": "Learning Management System",
-      "package_manager": {
-        "linux_arch_aur": null,
-        "linux_arch_pacman": null,
-        "linux_debian_apt": null,
-        "linux_fedora_rpm": null,
-        "linux_gentoo_emerge": null,
-        "linux_flatpak": null,
-        "linux_snap": null,
-        "freebsd_pkg": null,
-        "macos_brew": null,
-        "unix_nix_env": null,
-        "windows_winget": null
-      }
-    },
     "mpc-hc": {
       "name": "MPC-HC",
       "category": "video-and-movies",
@@ -3037,7 +3019,7 @@
         "linux_debian_apt": null,
         "linux_fedora_rpm": null,
         "linux_gentoo_emerge": null,
-        "linux_flatpak": null,
+        "linux_flatpak": "io.github.qwersyk.Newelle",
         "linux_snap": null,
         "freebsd_pkg": null,
         "macos_brew": null,
@@ -3429,24 +3411,6 @@
       "subcategory": "Music Streaming",
       "package_manager": {
         "linux_arch_aur": "pear-desktop",
-        "linux_arch_pacman": null,
-        "linux_debian_apt": null,
-        "linux_fedora_rpm": null,
-        "linux_gentoo_emerge": null,
-        "linux_flatpak": null,
-        "linux_snap": null,
-        "freebsd_pkg": null,
-        "macos_brew": null,
-        "unix_nix_env": null,
-        "windows_winget": null
-      }
-    },
-    "photoprism": {
-      "name": "PhotoPrism",
-      "category": "photos-and-graphics",
-      "subcategory": "Photo Manager",
-      "package_manager": {
-        "linux_arch_aur": null,
         "linux_arch_pacman": null,
         "linux_debian_apt": null,
         "linux_fedora_rpm": null,

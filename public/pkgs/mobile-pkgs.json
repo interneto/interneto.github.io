@@ -230,8 +230,8 @@
       "category": "news-and-books",
       "subcategory": "RSS Reader",
       "package_manager": {
-        "android_pkg": "",
-        "ios_pkg": ""
+        "android_pkg": "is.follow",
+        "ios_pkg": "folo-ai-reader/id6739802604"
       }
     },
     "fossify-calendar": {
@@ -405,17 +405,8 @@
         "ios_pkg": ""
       }
     },
-    "gsmarena": {
-      "name": "GSMArena",
-      "category": "education-and-reference",
-      "subcategory": "Encyclopedia",
-      "package_manager": {
-        "android_pkg": "com.gsmarena.android",
-        "ios_pkg": ""
-      }
-    },
     "guitar-tuner": {
-      "name": "Guitar Tuna",
+      "name": "Guitar Tuner - LikeTones",
       "category": "audio-and-music",
       "subcategory": "Audio Processing",
       "package_manager": {
@@ -604,11 +595,11 @@
       }
     },
     "mpvkit": {
-      "name": "MPVKit",
+      "name": "mpvKt",
       "category": "video-and-movies",
       "subcategory": "Media Player",
       "package_manager": {
-        "android_pkg": "",
+        "android_pkg": "live.mehiz.mpvkt",
         "ios_pkg": ""
       }
     },

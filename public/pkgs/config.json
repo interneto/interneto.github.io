@@ -32,25 +32,100 @@
       "zoom"
     ],
     "mobile": [
-      "aliexpress", "bbva", "bring", "carpeta-ciudadana", "chatgpt", "chess-com",
-      "chess-prince", "chrome", "clave", "cloudflare-1111", "cpu-info", "deepl",
-      "freepik", "github", "gmail", "google-calendar", "google-drive", "google-files",
-      "google-maps", "google-photos", "google-translate", "google-weather", "gpx-viewer",
-      "guitar-tuner", "guitartuna", "hyper-calc-pro", "instagram", "knots-3d", "linkedin",
-      "mobilesheets", "musicolet", "myrecipebox", "obsidian", "outlook", "periodic-table",
-      "piano-companion", "raindrop-io", "readera", "sd-maid-2", "spotify", "star-walk-2",
-      "steam", "stremio", "sun-surveyor", "ticktick", "tiktok", "trakt", "weawow",
-      "wikiloc", "wolfram-alpha", "x", "xodo", "youtube", "youtube-music", "zen-iptv",
-      "zepp", "adguard", "anatomy-learning", "blekip", "claude", "devcheck",
-      "diccionario-rae", "disney-plus", "futo-keyboard", "google-play-books", "gps-status",
-      "gsmarena", "hellochinese", "kraken", "ledger-live", "material-photo-widget",
-      "peakfinder", "photopills", "revolut", "google-sheets", "snapseed", "strava",
-      "whatsapp", "windy"
+      "aliexpress",
+      "bbva",
+      "bring",
+      "carpeta-ciudadana",
+      "chatgpt",
+      "chess-com",
+      "chess-prince",
+      "chrome",
+      "clave",
+      "cloudflare-1111",
+      "cpu-info",
+      "deepl",
+      "freepik",
+      "github",
+      "gmail",
+      "google-calendar",
+      "google-drive",
+      "google-files",
+      "google-maps",
+      "google-photos",
+      "google-translate",
+      "google-weather",
+      "gpx-viewer",
+      "guitar-tuner",
+      "guitartuna",
+      "hyper-calc-pro",
+      "instagram",
+      "knots-3d",
+      "linkedin",
+      "mobilesheets",
+      "musicolet",
+      "myrecipebox",
+      "obsidian",
+      "outlook",
+      "periodic-table",
+      "piano-companion",
+      "raindrop-io",
+      "readera",
+      "sd-maid-2",
+      "spotify",
+      "star-walk-2",
+      "steam",
+      "stremio",
+      "sun-surveyor",
+      "ticktick",
+      "tiktok",
+      "trakt",
+      "weawow",
+      "wikiloc",
+      "wolfram-alpha",
+      "x",
+      "xodo",
+      "youtube",
+      "youtube-music",
+      "zen-iptv",
+      "zepp",
+      "adguard",
+      "anatomy-learning",
+      "blekip",
+      "claude",
+      "devcheck",
+      "diccionario-rae",
+      "disney-plus",
+      "futo-keyboard",
+      "google-play-books",
+      "gps-status",
+      "hellochinese",
+      "kraken",
+      "ledger-live",
+      "material-photo-widget",
+      "peakfinder",
+      "photopills",
+      "revolut",
+      "google-sheets",
+      "snapseed",
+      "strava",
+      "whatsapp",
+      "windy"
     ],
     "browserExtensions": [
-      "adguard", "adguard-browser-assistant", "eagle", "printfriendly", "js-switcher",
-      "raindrop-io", "simple-cookie", "tampermonkey", "time-tracker", "unhook",
-      "videoplayer", "wappalyzer", "worldwide-radio", "youtube-custom-speed"
+      "adguard",
+      "adguard-browser-assistant",
+      "eagle",
+      "printfriendly",
+      "js-switcher",
+      "raindrop-io",
+      "simple-cookie",
+      "tampermonkey",
+      "time-tracker",
+      "unhook",
+      "videoplayer",
+      "wappalyzer",
+      "worldwide-radio",
+      "youtube-custom-speed"
     ],
     "vscodeExtensions": [
       "bmewburn.vscode-intelephense-client",
@@ -73,280 +148,760 @@
     "ios_pkg": "apt install"
   },
   "windowsNonWinget": [
-    { "id": "ardour", "name": "Ardour" },
-    { "id": "autocad", "name": "AutoCAD" },
-    { "id": "davinci-resolve", "name": "DaVinci Resolve" },
-    { "id": "eaglemode", "name": "Eagle-Mode" },
-    { "id": "freefilesync", "name": "FreeFileSync" },
-    { "id": "home-assistant", "name": "Home Assistant" },
-    { "id": "jitsi-meet", "name": "Jitsi Meet" },
-    { "id": "lucaschess", "name": "Lucas Chess" },
-    { "id": "mediawiki", "name": "MediaWiki" },
-    { "id": "moodle", "name": "Moodle" },
-    { "id": "pear-desktop", "name": "Pear Desktop (YT-Music)" },
-    { "id": "photoprism", "name": "PhotoPrism" },
-    { "id": "phpmyadmin", "name": "phpMyAdmin" },
-    { "id": "scrapy", "name": "Scrapy" },
-    { "id": "stability-matrix", "name": "StabilityMatrix" },
-    { "id": "strawberry", "name": "Strawberry" },
-    { "id": "vmware", "name": "VMware" },
-    { "id": "whisper-cpp", "name": "Whisper.cpp" }
+    {
+      "id": "ardour",
+      "name": "Ardour"
+    },
+    {
+      "id": "autocad",
+      "name": "AutoCAD"
+    },
+    {
+      "id": "davinci-resolve",
+      "name": "DaVinci Resolve"
+    },
+    {
+      "id": "eaglemode",
+      "name": "Eagle-Mode"
+    },
+    {
+      "id": "freefilesync",
+      "name": "FreeFileSync"
+    },
+    {
+      "id": "home-assistant",
+      "name": "Home Assistant"
+    },
+    {
+      "id": "jitsi-meet",
+      "name": "Jitsi Meet"
+    },
+    {
+      "id": "lucaschess",
+      "name": "Lucas Chess"
+    },
+    {
+      "id": "mediawiki",
+      "name": "MediaWiki"
+    },
+    {
+      "id": "pear-desktop",
+      "name": "Pear Desktop (YT-Music)"
+    },
+    {
+      "id": "phpmyadmin",
+      "name": "phpMyAdmin"
+    },
+    {
+      "id": "scrapy",
+      "name": "Scrapy"
+    },
+    {
+      "id": "stability-matrix",
+      "name": "StabilityMatrix"
+    },
+    {
+      "id": "strawberry",
+      "name": "Strawberry"
+    },
+    {
+      "id": "vmware",
+      "name": "VMware"
+    },
+    {
+      "id": "whisper-cpp",
+      "name": "Whisper.cpp"
+    }
   ],
   "libCompatTable": {
-    "languages": ["JavaScript", "Python", "Java", "C#", "Go", "Rust", "PHP"],
+    "languages": [
+      "JavaScript",
+      "Python",
+      "Java",
+      "C#",
+      "Go",
+      "Rust",
+      "PHP"
+    ],
     "table": {
       "Backend Framework": {
         "JavaScript": [
-          { "name": "Express", "type": "external" },
-          { "name": "Fastify", "type": "external" },
-          { "name": "Hono", "type": "external" }
+          {
+            "name": "Express",
+            "type": "external"
+          },
+          {
+            "name": "Fastify",
+            "type": "external"
+          },
+          {
+            "name": "Hono",
+            "type": "external"
+          }
         ],
         "Python": [
-          { "name": "FastAPI", "type": "external" },
-          { "name": "Flask", "type": "external" },
-          { "name": "Django", "type": "external" }
+          {
+            "name": "FastAPI",
+            "type": "external"
+          },
+          {
+            "name": "Flask",
+            "type": "external"
+          },
+          {
+            "name": "Django",
+            "type": "external"
+          }
         ],
         "Java": [
-          { "name": "Spring Boot", "type": "external" },
-          { "name": "Quarkus", "type": "external" },
-          { "name": "Micronaut", "type": "external" }
+          {
+            "name": "Spring Boot",
+            "type": "external"
+          },
+          {
+            "name": "Quarkus",
+            "type": "external"
+          },
+          {
+            "name": "Micronaut",
+            "type": "external"
+          }
         ],
         "C#": [
-          { "name": "ASP.NET Core", "type": "included" },
-          { "name": "Carter", "type": "external" },
-          { "name": "FastEndpoints", "type": "external" }
+          {
+            "name": "ASP.NET Core",
+            "type": "included"
+          },
+          {
+            "name": "Carter",
+            "type": "external"
+          },
+          {
+            "name": "FastEndpoints",
+            "type": "external"
+          }
         ],
         "Go": [
-          { "name": "net/http", "type": "included" },
-          { "name": "Gin", "type": "external" },
-          { "name": "Fiber", "type": "external" }
+          {
+            "name": "net/http",
+            "type": "included"
+          },
+          {
+            "name": "Gin",
+            "type": "external"
+          },
+          {
+            "name": "Fiber",
+            "type": "external"
+          }
         ],
         "Rust": [
-          { "name": "Axum", "type": "external" },
-          { "name": "Actix-web", "type": "external" },
-          { "name": "Rocket", "type": "external" }
+          {
+            "name": "Axum",
+            "type": "external"
+          },
+          {
+            "name": "Actix-web",
+            "type": "external"
+          },
+          {
+            "name": "Rocket",
+            "type": "external"
+          }
         ],
         "PHP": [
-          { "name": "Laravel", "type": "external" },
-          { "name": "Symfony", "type": "external" },
-          { "name": "Slim", "type": "external" }
+          {
+            "name": "Laravel",
+            "type": "external"
+          },
+          {
+            "name": "Symfony",
+            "type": "external"
+          },
+          {
+            "name": "Slim",
+            "type": "external"
+          }
         ]
       },
       "HTTP Client": {
         "JavaScript": [
-          { "name": "fetch", "type": "included" },
-          { "name": "Axios", "type": "external" },
-          { "name": "ky", "type": "external" }
+          {
+            "name": "fetch",
+            "type": "included"
+          },
+          {
+            "name": "Axios",
+            "type": "external"
+          },
+          {
+            "name": "ky",
+            "type": "external"
+          }
         ],
         "Python": [
-          { "name": "urllib", "type": "included" },
-          { "name": "httpx", "type": "external" },
-          { "name": "requests", "type": "external" }
+          {
+            "name": "urllib",
+            "type": "included"
+          },
+          {
+            "name": "httpx",
+            "type": "external"
+          },
+          {
+            "name": "requests",
+            "type": "external"
+          }
         ],
         "Java": [
-          { "name": "java.net.http", "type": "included" },
-          { "name": "OkHttp", "type": "external" },
-          { "name": "Retrofit", "type": "external" }
+          {
+            "name": "java.net.http",
+            "type": "included"
+          },
+          {
+            "name": "OkHttp",
+            "type": "external"
+          },
+          {
+            "name": "Retrofit",
+            "type": "external"
+          }
         ],
         "C#": [
-          { "name": "HttpClient", "type": "included" },
-          { "name": "Refit", "type": "external" },
-          { "name": "RestSharp", "type": "external" }
+          {
+            "name": "HttpClient",
+            "type": "included"
+          },
+          {
+            "name": "Refit",
+            "type": "external"
+          },
+          {
+            "name": "RestSharp",
+            "type": "external"
+          }
         ],
         "Go": [
-          { "name": "net/http", "type": "included" },
-          { "name": "Resty", "type": "external" },
-          { "name": "req", "type": "external" }
+          {
+            "name": "net/http",
+            "type": "included"
+          },
+          {
+            "name": "Resty",
+            "type": "external"
+          },
+          {
+            "name": "req",
+            "type": "external"
+          }
         ],
         "Rust": [
-          { "name": "reqwest", "type": "external" },
-          { "name": "ureq", "type": "external" },
-          { "name": "hyper", "type": "external" }
+          {
+            "name": "reqwest",
+            "type": "external"
+          },
+          {
+            "name": "ureq",
+            "type": "external"
+          },
+          {
+            "name": "hyper",
+            "type": "external"
+          }
         ],
         "PHP": [
-          { "name": "cURL ext.", "type": "included" },
-          { "name": "Guzzle", "type": "external" },
-          { "name": "symfony/http-client", "type": "external" }
+          {
+            "name": "cURL ext.",
+            "type": "included"
+          },
+          {
+            "name": "Guzzle",
+            "type": "external"
+          },
+          {
+            "name": "symfony/http-client",
+            "type": "external"
+          }
         ]
       },
       "ORM / Database": {
         "JavaScript": [
-          { "name": "Prisma", "type": "external" },
-          { "name": "Drizzle ORM", "type": "external" },
-          { "name": "TypeORM", "type": "external" }
+          {
+            "name": "Prisma",
+            "type": "external"
+          },
+          {
+            "name": "Drizzle ORM",
+            "type": "external"
+          },
+          {
+            "name": "TypeORM",
+            "type": "external"
+          }
         ],
         "Python": [
-          { "name": "SQLAlchemy", "type": "external" },
-          { "name": "Tortoise ORM", "type": "external" },
-          { "name": "Peewee", "type": "external" }
+          {
+            "name": "SQLAlchemy",
+            "type": "external"
+          },
+          {
+            "name": "Tortoise ORM",
+            "type": "external"
+          },
+          {
+            "name": "Peewee",
+            "type": "external"
+          }
         ],
         "Java": [
-          { "name": "Hibernate", "type": "external" },
-          { "name": "jOOQ", "type": "external" },
-          { "name": "MyBatis", "type": "external" }
+          {
+            "name": "Hibernate",
+            "type": "external"
+          },
+          {
+            "name": "jOOQ",
+            "type": "external"
+          },
+          {
+            "name": "MyBatis",
+            "type": "external"
+          }
         ],
         "C#": [
-          { "name": "EF Core", "type": "external" },
-          { "name": "Dapper", "type": "external" },
-          { "name": "NHibernate", "type": "external" }
+          {
+            "name": "EF Core",
+            "type": "external"
+          },
+          {
+            "name": "Dapper",
+            "type": "external"
+          },
+          {
+            "name": "NHibernate",
+            "type": "external"
+          }
         ],
         "Go": [
-          { "name": "GORM", "type": "external" },
-          { "name": "sqlx", "type": "external" },
-          { "name": "Bun", "type": "external" }
+          {
+            "name": "GORM",
+            "type": "external"
+          },
+          {
+            "name": "sqlx",
+            "type": "external"
+          },
+          {
+            "name": "Bun",
+            "type": "external"
+          }
         ],
         "Rust": [
-          { "name": "SQLx", "type": "external" },
-          { "name": "Diesel", "type": "external" },
-          { "name": "SeaORM", "type": "external" }
+          {
+            "name": "SQLx",
+            "type": "external"
+          },
+          {
+            "name": "Diesel",
+            "type": "external"
+          },
+          {
+            "name": "SeaORM",
+            "type": "external"
+          }
         ],
         "PHP": [
-          { "name": "Doctrine ORM", "type": "external" },
-          { "name": "Eloquent", "type": "external" },
-          { "name": "Cycle ORM", "type": "external" }
+          {
+            "name": "Doctrine ORM",
+            "type": "external"
+          },
+          {
+            "name": "Eloquent",
+            "type": "external"
+          },
+          {
+            "name": "Cycle ORM",
+            "type": "external"
+          }
         ]
       },
       "Testing": {
         "JavaScript": [
-          { "name": "Vitest", "type": "external" },
-          { "name": "Jest", "type": "external" },
-          { "name": "Mocha", "type": "external" }
+          {
+            "name": "Vitest",
+            "type": "external"
+          },
+          {
+            "name": "Jest",
+            "type": "external"
+          },
+          {
+            "name": "Mocha",
+            "type": "external"
+          }
         ],
         "Python": [
-          { "name": "unittest", "type": "included" },
-          { "name": "pytest", "type": "external" },
-          { "name": "hypothesis", "type": "external" }
+          {
+            "name": "unittest",
+            "type": "included"
+          },
+          {
+            "name": "pytest",
+            "type": "external"
+          },
+          {
+            "name": "hypothesis",
+            "type": "external"
+          }
         ],
         "Java": [
-          { "name": "JUnit 5", "type": "external" },
-          { "name": "Mockito", "type": "external" },
-          { "name": "AssertJ", "type": "external" }
+          {
+            "name": "JUnit 5",
+            "type": "external"
+          },
+          {
+            "name": "Mockito",
+            "type": "external"
+          },
+          {
+            "name": "AssertJ",
+            "type": "external"
+          }
         ],
         "C#": [
-          { "name": "MSTest", "type": "included" },
-          { "name": "xUnit", "type": "external" },
-          { "name": "Moq", "type": "external" }
+          {
+            "name": "MSTest",
+            "type": "included"
+          },
+          {
+            "name": "xUnit",
+            "type": "external"
+          },
+          {
+            "name": "Moq",
+            "type": "external"
+          }
         ],
         "Go": [
-          { "name": "testing", "type": "included" },
-          { "name": "testify", "type": "external" },
-          { "name": "Ginkgo", "type": "external" }
+          {
+            "name": "testing",
+            "type": "included"
+          },
+          {
+            "name": "testify",
+            "type": "external"
+          },
+          {
+            "name": "Ginkgo",
+            "type": "external"
+          }
         ],
         "Rust": [
-          { "name": "built-in tests", "type": "included" },
-          { "name": "mockall", "type": "external" },
-          { "name": "rstest", "type": "external" }
+          {
+            "name": "built-in tests",
+            "type": "included"
+          },
+          {
+            "name": "mockall",
+            "type": "external"
+          },
+          {
+            "name": "rstest",
+            "type": "external"
+          }
         ],
         "PHP": [
-          { "name": "PHPUnit", "type": "external" },
-          { "name": "Pest", "type": "external" },
-          { "name": "Mockery", "type": "external" }
+          {
+            "name": "PHPUnit",
+            "type": "external"
+          },
+          {
+            "name": "Pest",
+            "type": "external"
+          },
+          {
+            "name": "Mockery",
+            "type": "external"
+          }
         ]
       },
       "Logging": {
         "JavaScript": [
-          { "name": "console", "type": "included" },
-          { "name": "Pino", "type": "external" },
-          { "name": "Winston", "type": "external" }
+          {
+            "name": "console",
+            "type": "included"
+          },
+          {
+            "name": "Pino",
+            "type": "external"
+          },
+          {
+            "name": "Winston",
+            "type": "external"
+          }
         ],
         "Python": [
-          { "name": "logging", "type": "included" },
-          { "name": "Loguru", "type": "external" },
-          { "name": "structlog", "type": "external" }
+          {
+            "name": "logging",
+            "type": "included"
+          },
+          {
+            "name": "Loguru",
+            "type": "external"
+          },
+          {
+            "name": "structlog",
+            "type": "external"
+          }
         ],
         "Java": [
-          { "name": "java.util.logging", "type": "included" },
-          { "name": "Logback", "type": "external" },
-          { "name": "Log4j 2", "type": "external" }
+          {
+            "name": "java.util.logging",
+            "type": "included"
+          },
+          {
+            "name": "Logback",
+            "type": "external"
+          },
+          {
+            "name": "Log4j 2",
+            "type": "external"
+          }
         ],
         "C#": [
-          { "name": "M.E.Logging", "type": "included" },
-          { "name": "Serilog", "type": "external" },
-          { "name": "NLog", "type": "external" }
+          {
+            "name": "M.E.Logging",
+            "type": "included"
+          },
+          {
+            "name": "Serilog",
+            "type": "external"
+          },
+          {
+            "name": "NLog",
+            "type": "external"
+          }
         ],
         "Go": [
-          { "name": "log/slog", "type": "included" },
-          { "name": "Zap", "type": "external" },
-          { "name": "zerolog", "type": "external" }
+          {
+            "name": "log/slog",
+            "type": "included"
+          },
+          {
+            "name": "Zap",
+            "type": "external"
+          },
+          {
+            "name": "zerolog",
+            "type": "external"
+          }
         ],
         "Rust": [
-          { "name": "tracing", "type": "external" },
-          { "name": "log", "type": "external" },
-          { "name": "env_logger", "type": "external" }
+          {
+            "name": "tracing",
+            "type": "external"
+          },
+          {
+            "name": "log",
+            "type": "external"
+          },
+          {
+            "name": "env_logger",
+            "type": "external"
+          }
         ],
         "PHP": [
-          { "name": "error_log()", "type": "included" },
-          { "name": "Monolog", "type": "external" }
+          {
+            "name": "error_log()",
+            "type": "included"
+          },
+          {
+            "name": "Monolog",
+            "type": "external"
+          }
         ]
       },
       "Validation": {
         "JavaScript": [
-          { "name": "Zod", "type": "external" },
-          { "name": "Yup", "type": "external" },
-          { "name": "Valibot", "type": "external" }
+          {
+            "name": "Zod",
+            "type": "external"
+          },
+          {
+            "name": "Yup",
+            "type": "external"
+          },
+          {
+            "name": "Valibot",
+            "type": "external"
+          }
         ],
         "Python": [
-          { "name": "Pydantic", "type": "external" },
-          { "name": "marshmallow", "type": "external" },
-          { "name": "cerberus", "type": "external" }
+          {
+            "name": "Pydantic",
+            "type": "external"
+          },
+          {
+            "name": "marshmallow",
+            "type": "external"
+          },
+          {
+            "name": "cerberus",
+            "type": "external"
+          }
         ],
         "Java": [
-          { "name": "jakarta.validation", "type": "external" },
-          { "name": "Hibernate Validator", "type": "external" }
+          {
+            "name": "jakarta.validation",
+            "type": "external"
+          },
+          {
+            "name": "Hibernate Validator",
+            "type": "external"
+          }
         ],
         "C#": [
-          { "name": "DataAnnotations", "type": "included" },
-          { "name": "FluentValidation", "type": "external" },
-          { "name": "GuardClauses", "type": "external" }
+          {
+            "name": "DataAnnotations",
+            "type": "included"
+          },
+          {
+            "name": "FluentValidation",
+            "type": "external"
+          },
+          {
+            "name": "GuardClauses",
+            "type": "external"
+          }
         ],
         "Go": [
-          { "name": "validator/v10", "type": "external" },
-          { "name": "govalidator", "type": "external" }
+          {
+            "name": "validator/v10",
+            "type": "external"
+          },
+          {
+            "name": "govalidator",
+            "type": "external"
+          }
         ],
         "Rust": [
-          { "name": "validator", "type": "external" },
-          { "name": "garde", "type": "external" }
+          {
+            "name": "validator",
+            "type": "external"
+          },
+          {
+            "name": "garde",
+            "type": "external"
+          }
         ],
         "PHP": [
-          { "name": "Respect Validation", "type": "external" },
-          { "name": "Laravel Validator", "type": "external" },
-          { "name": "Rakit Validation", "type": "external" }
+          {
+            "name": "Respect Validation",
+            "type": "external"
+          },
+          {
+            "name": "Laravel Validator",
+            "type": "external"
+          },
+          {
+            "name": "Rakit Validation",
+            "type": "external"
+          }
         ]
       },
       "Auth / Security": {
         "JavaScript": [
-          { "name": "Passport", "type": "external" },
-          { "name": "jose", "type": "external" },
-          { "name": "better-auth", "type": "external" }
+          {
+            "name": "Passport",
+            "type": "external"
+          },
+          {
+            "name": "jose",
+            "type": "external"
+          },
+          {
+            "name": "better-auth",
+            "type": "external"
+          }
         ],
         "Python": [
-          { "name": "python-jose", "type": "external" },
-          { "name": "authlib", "type": "external" },
-          { "name": "passlib", "type": "external" }
+          {
+            "name": "python-jose",
+            "type": "external"
+          },
+          {
+            "name": "authlib",
+            "type": "external"
+          },
+          {
+            "name": "passlib",
+            "type": "external"
+          }
         ],
         "Java": [
-          { "name": "Spring Security", "type": "external" },
-          { "name": "java-jwt", "type": "external" },
-          { "name": "nimbus-jose-jwt", "type": "external" }
+          {
+            "name": "Spring Security",
+            "type": "external"
+          },
+          {
+            "name": "java-jwt",
+            "type": "external"
+          },
+          {
+            "name": "nimbus-jose-jwt",
+            "type": "external"
+          }
         ],
         "C#": [
-          { "name": "ASP.NET Core Auth", "type": "included" },
-          { "name": "BCrypt.Net", "type": "external" },
-          { "name": "IdentityModel", "type": "external" }
+          {
+            "name": "ASP.NET Core Auth",
+            "type": "included"
+          },
+          {
+            "name": "BCrypt.Net",
+            "type": "external"
+          },
+          {
+            "name": "IdentityModel",
+            "type": "external"
+          }
         ],
         "Go": [
-          { "name": "golang-jwt/jwt", "type": "external" },
-          { "name": "golang.org/x/oauth2", "type": "external" }
+          {
+            "name": "golang-jwt/jwt",
+            "type": "external"
+          },
+          {
+            "name": "golang.org/x/oauth2",
+            "type": "external"
+          }
         ],
         "Rust": [
-          { "name": "jsonwebtoken", "type": "external" },
-          { "name": "argon2", "type": "external" },
-          { "name": "bcrypt", "type": "external" }
+          {
+            "name": "jsonwebtoken",
+            "type": "external"
+          },
+          {
+            "name": "argon2",
+            "type": "external"
+          },
+          {
+            "name": "bcrypt",
+            "type": "external"
+          }
         ],
         "PHP": [
-          { "name": "firebase/php-jwt", "type": "external" },
-          { "name": "lcobucci/jwt", "type": "external" },
-          { "name": "defuse/php-encryption", "type": "external" }
+          {
+            "name": "firebase/php-jwt",
+            "type": "external"
+          },
+          {
+            "name": "lcobucci/jwt",
+            "type": "external"
+          },
+          {
+            "name": "defuse/php-encryption",
+            "type": "external"
+          }
         ]
       }
     }
@@ -357,13 +912,29 @@
       "lucide": "https://cdn.jsdelivr.net/npm/lucide-static@latest/icons"
     },
     "languages": {
-      "javascript": { "slug": "javascript" },
-      "python": { "slug": "python" },
-      "java": { "slug": "openjdk", "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/java.svg" },
-      "csharp": { "slug": "dotnet", "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/csharp.svg" },
-      "go": { "slug": "go" },
-      "rust": { "slug": "rust" },
-      "php": { "slug": "php" }
+      "javascript": {
+        "slug": "javascript"
+      },
+      "python": {
+        "slug": "python"
+      },
+      "java": {
+        "slug": "openjdk",
+        "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/java.svg"
+      },
+      "csharp": {
+        "slug": "dotnet",
+        "url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/csharp.svg"
+      },
+      "go": {
+        "slug": "go"
+      },
+      "rust": {
+        "slug": "rust"
+      },
+      "php": {
+        "slug": "php"
+      }
     },
     "libraries": {
       "react": "react",
