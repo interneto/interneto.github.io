@@ -504,6 +504,15 @@
         "ios_pkg": "ledger-live-crypto-wallet/id1361671700"
       }
     },
+    "librefit": {
+      "name": "LibreFit",
+      "category": "health-and-fitness",
+      "subcategory": "Nutrition",
+      "package_manager": {
+        "android_pkg": "org.librefit.app",
+        "ios_pkg": ""
+      }
+    },
     "libretube": {
       "name": "LibreTube",
       "category": "video-and-movies",
@@ -646,6 +655,15 @@
       "package_manager": {
         "android_pkg": "md.obsidian",
         "ios_pkg": "obsidian-connected-notes/id1557175442"
+      }
+    },
+    "open-nutrition-tracker": {
+      "name": "OpenNutriTracker",
+      "category": "health-and-fitness",
+      "subcategory": "Nutrition",
+      "package_manager": {
+        "android_pkg": "com.opennutritracker.ont.opennutritracker",
+        "ios_pkg": ""
       }
     },
     "oss-document-scanner": {
