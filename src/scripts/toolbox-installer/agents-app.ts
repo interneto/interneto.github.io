@@ -282,7 +282,8 @@ function autoGenerateCommand(): void {
         }
     }
 
-    cmdEl.textContent = lines.join('\n');
+    // Chain every selected package into one pasteable line (fail-fast: stops at first error)
+    cmdEl.textContent = lines.join(' && ');
     if (footer) footer.hidden = false;
 }
 

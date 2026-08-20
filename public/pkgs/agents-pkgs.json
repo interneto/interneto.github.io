@@ -200,11 +200,11 @@
       "installs": [
         {
           "agent": "claude",
-          "cmd": "claude plugin install brand-voice@knowledge-work-plugins --scope user"
+          "cmd": "claude plugin marketplace add anthropics/knowledge-work-plugins && claude plugin install brand-voice@knowledge-work-plugins --scope user"
         },
         {
           "agent": "copilot",
-          "cmd": "copilot plugin install brand-voice@knowledge-work-plugins"
+          "cmd": "copilot plugin marketplace add anthropics/knowledge-work-plugins && copilot plugin install brand-voice@knowledge-work-plugins"
         }
       ],
       "url": "",
@@ -337,11 +337,11 @@
       "installs": [
         {
           "agent": "claude",
-          "cmd": "claude plugin install claude-md-management@claude-plugins-official --scope user"
+          "cmd": "claude plugin marketplace add anthropics/claude-plugins-official && claude plugin install claude-md-management@claude-plugins-official --scope user"
         },
         {
           "agent": "copilot",
-          "cmd": "copilot plugin install claude-md-management@claude-plugins-official"
+          "cmd": "copilot plugin marketplace add anthropics/claude-plugins-official && copilot plugin install claude-md-management@claude-plugins-official"
         }
       ],
       "url": "",
@@ -419,11 +419,11 @@
       "installs": [
         {
           "agent": "claude",
-          "cmd": "claude plugin install code-simplifier@claude-plugins-official --scope user"
+          "cmd": "claude plugin marketplace add anthropics/claude-plugins-official && claude plugin install code-simplifier@claude-plugins-official --scope user"
         },
         {
           "agent": "copilot",
-          "cmd": "copilot plugin install code-simplifier@claude-plugins-official"
+          "cmd": "copilot plugin marketplace add anthropics/claude-plugins-official && copilot plugin install code-simplifier@claude-plugins-official"
         }
       ],
       "url": "",
@@ -709,11 +709,11 @@
       "installs": [
         {
           "agent": "claude",
-          "cmd": "claude plugin install engineering@knowledge-work-plugins --scope user"
+          "cmd": "claude plugin marketplace add anthropics/knowledge-work-plugins && claude plugin install engineering@knowledge-work-plugins --scope user"
         },
         {
           "agent": "copilot",
-          "cmd": "copilot plugin install engineering@knowledge-work-plugins"
+          "cmd": "copilot plugin marketplace add anthropics/knowledge-work-plugins && copilot plugin install engineering@knowledge-work-plugins"
         }
       ],
       "url": "",
@@ -895,11 +895,11 @@
       "installs": [
         {
           "agent": "claude",
-          "cmd": "claude plugin install frontend-design@claude-plugins-official --scope user"
+          "cmd": "claude plugin marketplace add anthropics/claude-plugins-official && claude plugin install frontend-design@claude-plugins-official --scope user"
         },
         {
           "agent": "copilot",
-          "cmd": "copilot plugin install frontend-design@claude-plugins-official"
+          "cmd": "copilot plugin marketplace add anthropics/claude-plugins-official && copilot plugin install frontend-design@claude-plugins-official"
         }
       ],
       "url": "",
@@ -1016,11 +1016,11 @@
       "installs": [
         {
           "agent": "claude",
-          "cmd": "claude plugin install hookify@claude-plugins-official --scope user"
+          "cmd": "claude plugin marketplace add anthropics/claude-plugins-official && claude plugin install hookify@claude-plugins-official --scope user"
         },
         {
           "agent": "copilot",
-          "cmd": "copilot plugin install hookify@claude-plugins-official"
+          "cmd": "copilot plugin marketplace add anthropics/claude-plugins-official && copilot plugin install hookify@claude-plugins-official"
         }
       ],
       "url": "",
@@ -1177,11 +1177,11 @@
       "installs": [
         {
           "agent": "claude",
-          "cmd": "claude plugin install marketing@knowledge-work-plugins --scope user"
+          "cmd": "claude plugin marketplace add anthropics/knowledge-work-plugins && claude plugin install marketing@knowledge-work-plugins --scope user"
         },
         {
           "agent": "copilot",
-          "cmd": "copilot plugin install marketing@knowledge-work-plugins"
+          "cmd": "copilot plugin marketplace add anthropics/knowledge-work-plugins && copilot plugin install marketing@knowledge-work-plugins"
         }
       ],
       "url": "",
@@ -1274,11 +1274,11 @@
       "installs": [
         {
           "agent": "claude",
-          "cmd": "claude plugin install pdf-viewer@knowledge-work-plugins --scope user"
+          "cmd": "claude plugin marketplace add anthropics/knowledge-work-plugins && claude plugin install pdf-viewer@knowledge-work-plugins --scope user"
         },
         {
           "agent": "copilot",
-          "cmd": "copilot plugin install pdf-viewer@knowledge-work-plugins"
+          "cmd": "copilot plugin marketplace add anthropics/knowledge-work-plugins && copilot plugin install pdf-viewer@knowledge-work-plugins"
         }
       ],
       "url": "",
@@ -1300,11 +1300,11 @@
       "installs": [
         {
           "agent": "claude",
-          "cmd": "npm install -g intelephense && claude plugin install php-lsp@claude-plugins-official --scope user"
+          "cmd": "npm install -g intelephense && claude plugin marketplace add anthropics/claude-plugins-official && claude plugin install php-lsp@claude-plugins-official --scope user"
         },
         {
           "agent": "copilot",
-          "cmd": "npm install -g intelephense && copilot plugin install php-lsp@claude-plugins-official"
+          "cmd": "npm install -g intelephense && copilot plugin marketplace add anthropics/claude-plugins-official && copilot plugin install php-lsp@claude-plugins-official"
         },
         {
           "agent": "npx",
@@ -1421,11 +1421,11 @@
       "installs": [
         {
           "agent": "claude",
-          "cmd": "claude plugin install postiz@knowledge-work-plugins --scope user"
+          "cmd": "claude plugin marketplace add anthropics/knowledge-work-plugins && claude plugin install postiz@knowledge-work-plugins --scope user"
         },
         {
           "agent": "copilot",
-          "cmd": "copilot plugin install postiz@knowledge-work-plugins"
+          "cmd": "copilot plugin marketplace add anthropics/knowledge-work-plugins && copilot plugin install postiz@knowledge-work-plugins"
         }
       ],
       "url": "",
@@ -1446,11 +1446,11 @@
       "installs": [
         {
           "agent": "claude",
-          "cmd": "claude plugin install productivity@knowledge-work-plugins --scope user"
+          "cmd": "claude plugin marketplace add anthropics/knowledge-work-plugins && claude plugin install productivity@knowledge-work-plugins --scope user"
         },
         {
           "agent": "copilot",
-          "cmd": "copilot plugin install productivity@knowledge-work-plugins"
+          "cmd": "copilot plugin marketplace add anthropics/knowledge-work-plugins && copilot plugin install productivity@knowledge-work-plugins"
         }
       ],
       "url": "",
@@ -1472,11 +1472,11 @@
       "installs": [
         {
           "agent": "claude",
-          "cmd": "npm install -g pyright && claude plugin install pyright-lsp@claude-plugins-official --scope user"
+          "cmd": "npm install -g pyright && claude plugin marketplace add anthropics/claude-plugins-official && claude plugin install pyright-lsp@claude-plugins-official --scope user"
         },
         {
           "agent": "copilot",
-          "cmd": "npm install -g pyright && copilot plugin install pyright-lsp@claude-plugins-official"
+          "cmd": "npm install -g pyright && copilot plugin marketplace add anthropics/claude-plugins-official && copilot plugin install pyright-lsp@claude-plugins-official"
         },
         {
           "agent": "npx",
@@ -1733,11 +1733,11 @@
       "installs": [
         {
           "agent": "claude",
-          "cmd": "claude plugin install superpowers@claude-plugins-official --scope user"
+          "cmd": "claude plugin marketplace add anthropics/claude-plugins-official && claude plugin install superpowers@claude-plugins-official --scope user"
         },
         {
           "agent": "copilot",
-          "cmd": "copilot plugin install superpowers@claude-plugins-official"
+          "cmd": "copilot plugin marketplace add anthropics/claude-plugins-official && copilot plugin install superpowers@claude-plugins-official"
         }
       ],
       "url": "",
@@ -1759,11 +1759,11 @@
       "installs": [
         {
           "agent": "claude",
-          "cmd": "npm install -g typescript-language-server typescript && claude plugin install typescript-lsp@claude-plugins-official --scope user"
+          "cmd": "npm install -g typescript-language-server typescript && claude plugin marketplace add anthropics/claude-plugins-official && claude plugin install typescript-lsp@claude-plugins-official --scope user"
         },
         {
           "agent": "copilot",
-          "cmd": "npm install -g typescript-language-server typescript && copilot plugin install typescript-lsp@claude-plugins-official"
+          "cmd": "npm install -g typescript-language-server typescript && copilot plugin marketplace add anthropics/claude-plugins-official && copilot plugin install typescript-lsp@claude-plugins-official"
         },
         {
           "agent": "npx",
