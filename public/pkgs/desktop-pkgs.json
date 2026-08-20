@@ -324,24 +324,6 @@
         "windows_winget": "Microsoft.Sysinternals.Autoruns"
       }
     },
-    "sysinternals-suite": {
-      "name": "Sysinternals Suite",
-      "category": "os-and-utilities",
-      "subcategory": "System Utility",
-      "package_manager": {
-        "linux_arch_aur": null,
-        "linux_arch_pacman": null,
-        "linux_debian_apt": null,
-        "linux_fedora_rpm": null,
-        "linux_gentoo_emerge": null,
-        "linux_flatpak": null,
-        "linux_snap": null,
-        "freebsd_pkg": null,
-        "macos_brew": null,
-        "unix_nix_env": null,
-        "windows_winget": "Microsoft.Sysinternals.Suite"
-      }
-    },
     "balabolka": {
       "name": "Balabolka",
       "category": "audio-and-music",
@@ -939,6 +921,24 @@
         "windows_winget": "Dropbox.Dropbox"
       }
     },
+    "dua-cli": {
+      "name": "Dua",
+      "category": "os-and-utilities",
+      "subcategory": "CLI Utility",
+      "package_manager": {
+        "linux_arch_aur": null,
+        "linux_arch_pacman": "dua-cli",
+        "linux_debian_apt": null,
+        "linux_fedora_rpm": null,
+        "linux_gentoo_emerge": null,
+        "linux_flatpak": null,
+        "linux_snap": null,
+        "freebsd_pkg": null,
+        "macos_brew": "dua-cli",
+        "unix_nix_env": "nixos.dua",
+        "windows_winget": "Byron.dua-cli"
+      }
+    },
     "duckduckgo": {
       "name": "DuckDuckGo",
       "category": "web-browsers",
@@ -973,6 +973,24 @@
         "macos_brew": "duckstation",
         "unix_nix_env": "duckstation",
         "windows_winget": "Stenzek.DuckStation"
+      }
+    },
+    "dust": {
+      "name": "Dust",
+      "category": "os-and-utilities",
+      "subcategory": "CLI Utility",
+      "package_manager": {
+        "linux_arch_aur": null,
+        "linux_arch_pacman": "dust",
+        "linux_debian_apt": null,
+        "linux_fedora_rpm": null,
+        "linux_gentoo_emerge": null,
+        "linux_flatpak": null,
+        "linux_snap": null,
+        "freebsd_pkg": null,
+        "macos_brew": "dust",
+        "unix_nix_env": "nixos.dust",
+        "windows_winget": "bootandy.dust"
       }
     },
     "eaglemode": {
@@ -1245,6 +1263,24 @@
         "windows_winget": "Mozilla.Firefox"
       }
     },
+    "fl-studio": {
+      "name": "FL Studio",
+      "category": "audio-and-music",
+      "subcategory": "Digital Audio Workstation",
+      "package_manager": {
+        "linux_arch_aur": null,
+        "linux_arch_pacman": null,
+        "linux_debian_apt": null,
+        "linux_fedora_rpm": null,
+        "linux_gentoo_emerge": null,
+        "linux_flatpak": null,
+        "linux_snap": null,
+        "freebsd_pkg": null,
+        "macos_brew": null,
+        "unix_nix_env": null,
+        "windows_winget": "ImageLine.FLStudio"
+      }
+    },
     "flameshot": {
       "name": "Flameshot",
       "category": "os-and-utilities",
@@ -1279,24 +1315,6 @@
         "macos_brew": null,
         "unix_nix_env": "nixos.flatseal",
         "windows_winget": null
-      }
-    },
-    "fl-studio": {
-      "name": "FL Studio",
-      "category": "audio-and-music",
-      "subcategory": "Digital Audio Workstation",
-      "package_manager": {
-        "linux_arch_aur": null,
-        "linux_arch_pacman": null,
-        "linux_debian_apt": null,
-        "linux_fedora_rpm": null,
-        "linux_gentoo_emerge": null,
-        "linux_flatpak": null,
-        "linux_snap": null,
-        "freebsd_pkg": null,
-        "macos_brew": null,
-        "unix_nix_env": null,
-        "windows_winget": "ImageLine.FLStudio"
       }
     },
     "foliate": {
@@ -2343,24 +2361,6 @@
         "windows_winget": "XBMCFoundation.Kodi"
       }
     },
-    "kudu": {
-      "name": "Kudu",
-      "category": "development",
-      "subcategory": "Deployment",
-      "package_manager": {
-        "linux_arch_aur": null,
-        "linux_arch_pacman": null,
-        "linux_debian_apt": null,
-        "linux_fedora_rpm": null,
-        "linux_gentoo_emerge": null,
-        "linux_flatpak": null,
-        "linux_snap": null,
-        "freebsd_pkg": null,
-        "macos_brew": null,
-        "unix_nix_env": null,
-        "windows_winget": "AdventDevelopmentInc.Kudu"
-      }
-    },
     "konsole": {
       "name": "Konsole",
       "category": "os-and-utilities",
@@ -2467,6 +2467,24 @@
         "macos_brew": "kubectl",
         "unix_nix_env": "kubectl",
         "windows_winget": "Kubernetes.kubectl"
+      }
+    },
+    "kudu": {
+      "name": "Kudu",
+      "category": "development",
+      "subcategory": "Deployment",
+      "package_manager": {
+        "linux_arch_aur": null,
+        "linux_arch_pacman": null,
+        "linux_debian_apt": null,
+        "linux_fedora_rpm": null,
+        "linux_gentoo_emerge": null,
+        "linux_flatpak": null,
+        "linux_snap": null,
+        "freebsd_pkg": null,
+        "macos_brew": null,
+        "unix_nix_env": null,
+        "windows_winget": "AdventDevelopmentInc.Kudu"
       }
     },
     "laragon": {
@@ -4483,6 +4501,24 @@
         "macos_brew": "syncthing",
         "unix_nix_env": "nixos.syncthing",
         "windows_winget": "Syncthing.Syncthing"
+      }
+    },
+    "sysinternals-suite": {
+      "name": "Sysinternals Suite",
+      "category": "os-and-utilities",
+      "subcategory": "System Utility",
+      "package_manager": {
+        "linux_arch_aur": null,
+        "linux_arch_pacman": null,
+        "linux_debian_apt": null,
+        "linux_fedora_rpm": null,
+        "linux_gentoo_emerge": null,
+        "linux_flatpak": null,
+        "linux_snap": null,
+        "freebsd_pkg": null,
+        "macos_brew": null,
+        "unix_nix_env": null,
+        "windows_winget": "Microsoft.Sysinternals.Suite"
       }
     },
     "tailscale": {
