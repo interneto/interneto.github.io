@@ -164,6 +164,34 @@
         "Skill"
       ]
     },
+    "audio2score-mcp": {
+      "name": "Audio2Score MCP",
+      "type": "MCP Server",
+      "category": "DAW/Music",
+      "agent_compat": {
+        "claude": true,
+        "codex": true,
+        "copilot": true
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "if not exist \"%USERPROFILE%\\.local\\audio2score-mcp\" git clone https://github.com/David7ce/audio2score-mcp.git \"%USERPROFILE%\\.local\\audio2score-mcp\" && cd /d \"%USERPROFILE%\\.local\\audio2score-mcp\" && uv venv --python 3.11 venv && uv pip install -r requirements.txt --python venv\\Scripts\\python.exe && claude mcp add -s user audio2score -- \"%USERPROFILE%\\.local\\audio2score-mcp\\venv\\Scripts\\python.exe\" \"%USERPROFILE%\\.local\\audio2score-mcp\\mcp_server.py\""
+        },
+        {
+          "agent": "codex",
+          "cmd": "if not exist \"%USERPROFILE%\\.local\\audio2score-mcp\" git clone https://github.com/David7ce/audio2score-mcp.git \"%USERPROFILE%\\.local\\audio2score-mcp\" && cd /d \"%USERPROFILE%\\.local\\audio2score-mcp\" && uv venv --python 3.11 venv && uv pip install -r requirements.txt --python venv\\Scripts\\python.exe && codex mcp add audio2score -- \"%USERPROFILE%\\.local\\audio2score-mcp\\venv\\Scripts\\python.exe\" \"%USERPROFILE%\\.local\\audio2score-mcp\\mcp_server.py\""
+        },
+        {
+          "agent": "copilot",
+          "cmd": "if not exist \"%USERPROFILE%\\.local\\audio2score-mcp\" git clone https://github.com/David7ce/audio2score-mcp.git \"%USERPROFILE%\\.local\\audio2score-mcp\" && cd /d \"%USERPROFILE%\\.local\\audio2score-mcp\" && uv venv --python 3.11 venv && uv pip install -r requirements.txt --python venv\\Scripts\\python.exe && copilot mcp add audio2score -- \"%USERPROFILE%\\.local\\audio2score-mcp\\venv\\Scripts\\python.exe\" \"%USERPROFILE%\\.local\\audio2score-mcp\\mcp_server.py\""
+        }
+      ],
+      "url": "https://github.com/David7ce/audio2score-mcp",
+      "tags": [
+        "MCP"
+      ]
+    },
     "blender-mcp": {
       "name": "Blender MCP",
       "type": "Plugin/Skill",
