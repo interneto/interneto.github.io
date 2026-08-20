@@ -1,0 +1,1755 @@
+{
+  "installTemplates": {
+    "plugin-marketplace": {
+      "claude": "{{prefix}}claude plugin marketplace add {{repo}} && claude plugin install {{plugin}}@{{marketplaceName}} --scope user",
+      "copilot": "{{prefix}}copilot plugin marketplace add {{repo}} && copilot plugin install {{plugin}}@{{marketplaceName}}"
+    },
+    "plugin-marketplace-only": {
+      "claude": "claude plugin marketplace add {{repo}}",
+      "copilot": "copilot plugin marketplace add {{repo}}"
+    },
+    "claudepluginhub": {
+      "claude": "/plugin marketplace add https://www.claudepluginhub.com/api/plugins/{{slug}}/marketplace.json\n/plugin install {{slug}}@cpd-{{slug}}",
+      "npx": "npx claudepluginhub p/{{slug}}"
+    }
+  },
+  "agents": {
+    "ableton-mcp": {
+      "name": "Ableton MCP",
+      "type": "Plugin/Skill",
+      "category": "DAW/Music",
+      "agent_compat": {
+        "claude": true,
+        "codex": false,
+        "copilot": true
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude mcp add -s user ableton -- uvx ableton-mcp"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot mcp add ableton -- uvx ableton-mcp"
+        }
+      ],
+      "url": "",
+      "tags": [
+        "MCP"
+      ]
+    },
+    "academic-research-skills": {
+      "name": "Academic Research Skills",
+      "type": "Plugin/Skill",
+      "category": "Development",
+      "agent_compat": {
+        "claude": true,
+        "codex": true,
+        "copilot": true
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude plugin marketplace add Imbad0202/academic-research-skills && claude plugin install academic-research-skills@academic-research-skills --scope user"
+        },
+        {
+          "agent": "codex",
+          "cmd": "codex plugin marketplace add Imbad0202/academic-research-skills-codex --ref main && codex plugin add ars-codex@ars-codex"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot plugin marketplace add Imbad0202/academic-research-skills && copilot plugin install academic-research-skills@academic-research-skills"
+        }
+      ],
+      "url": "",
+      "tags": [
+        "Plugin",
+        "Skill"
+      ]
+    },
+    "adobe-creativity": {
+      "name": "Adobe Creativity",
+      "type": "MCP Server",
+      "category": "Creative",
+      "agent_compat": {
+        "claude": true,
+        "codex": false,
+        "copilot": true
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude mcp add -s user --transport http adobe-creativity https://adobe-creativity.adobe.io/mcp"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot mcp add --transport http adobe-creativity https://adobe-creativity.adobe.io/mcp"
+        }
+      ],
+      "url": "",
+      "tags": [
+        "MCP"
+      ]
+    },
+    "affinity": {
+      "name": "Affinity",
+      "type": "Creative",
+      "category": "Creative",
+      "agent_compat": {
+        "claude": true,
+        "codex": false,
+        "copilot": true
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude mcp add --transport http affinity \"$AFFINITY_MCP_URL\""
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot mcp add --transport http affinity \"$AFFINITY_MCP_URL\""
+        }
+      ],
+      "url": "",
+      "tags": [
+        "MCP"
+      ]
+    },
+    "agent-skills": {
+      "name": "Agent Skills",
+      "type": "Plugin/Skill",
+      "category": "Development",
+      "agent_compat": {
+        "claude": true,
+        "codex": true,
+        "copilot": true,
+        "npx": true
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude plugin marketplace add addyosmani/agent-skills && claude plugin install agent-skills@addy-agent-skills --scope user"
+        },
+        {
+          "agent": "codex",
+          "cmd": "npx skills add addyosmani/agent-skills -a codex"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot plugin marketplace add addyosmani/agent-skills && copilot plugin install agent-skills@addy-agent-skills"
+        },
+        {
+          "agent": "npx",
+          "cmd": "npx skills add addyosmani/agent-skills -a codex"
+        }
+      ],
+      "url": "",
+      "tags": [
+        "Plugin",
+        "Skill"
+      ]
+    },
+    "ast-grep": {
+      "name": "Ast Grep",
+      "type": "Plugin/Skill",
+      "category": "Development",
+      "agent_compat": {
+        "claude": true,
+        "codex": true,
+        "npx": true
+      },
+      "install": {
+        "agents": [
+          "claude",
+          "codex",
+          "npx"
+        ],
+        "cmd": "npm install -g @ast-grep/cli"
+      },
+      "url": "",
+      "tags": [
+        "Plugin",
+        "Skill"
+      ]
+    },
+    "audio2score-mcp": {
+      "name": "Audio2Score MCP",
+      "type": "MCP Server",
+      "category": "DAW/Music",
+      "agent_compat": {
+        "claude": true,
+        "codex": true,
+        "copilot": true
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "if not exist \"%USERPROFILE%\\.local\\audio2score-mcp\" git clone https://github.com/David7ce/audio2score-mcp.git \"%USERPROFILE%\\.local\\audio2score-mcp\" && cd /d \"%USERPROFILE%\\.local\\audio2score-mcp\" && uv venv --python 3.11 venv && uv pip install -r requirements.txt --python venv\\Scripts\\python.exe && claude mcp add -s user audio2score -- \"%USERPROFILE%\\.local\\audio2score-mcp\\venv\\Scripts\\python.exe\" \"%USERPROFILE%\\.local\\audio2score-mcp\\mcp_server.py\""
+        },
+        {
+          "agent": "codex",
+          "cmd": "if not exist \"%USERPROFILE%\\.local\\audio2score-mcp\" git clone https://github.com/David7ce/audio2score-mcp.git \"%USERPROFILE%\\.local\\audio2score-mcp\" && cd /d \"%USERPROFILE%\\.local\\audio2score-mcp\" && uv venv --python 3.11 venv && uv pip install -r requirements.txt --python venv\\Scripts\\python.exe && codex mcp add audio2score -- \"%USERPROFILE%\\.local\\audio2score-mcp\\venv\\Scripts\\python.exe\" \"%USERPROFILE%\\.local\\audio2score-mcp\\mcp_server.py\""
+        },
+        {
+          "agent": "copilot",
+          "cmd": "if not exist \"%USERPROFILE%\\.local\\audio2score-mcp\" git clone https://github.com/David7ce/audio2score-mcp.git \"%USERPROFILE%\\.local\\audio2score-mcp\" && cd /d \"%USERPROFILE%\\.local\\audio2score-mcp\" && uv venv --python 3.11 venv && uv pip install -r requirements.txt --python venv\\Scripts\\python.exe && copilot mcp add audio2score -- \"%USERPROFILE%\\.local\\audio2score-mcp\\venv\\Scripts\\python.exe\" \"%USERPROFILE%\\.local\\audio2score-mcp\\mcp_server.py\""
+        }
+      ],
+      "url": "https://github.com/David7ce/audio2score-mcp",
+      "tags": [
+        "MCP"
+      ]
+    },
+    "blender-mcp": {
+      "name": "Blender MCP",
+      "type": "Plugin/Skill",
+      "category": "Creative",
+      "agent_compat": {
+        "claude": true,
+        "codex": false,
+        "copilot": true
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude mcp add -s user blender -- uvx blender-mcp"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot mcp add blender -- uvx blender-mcp"
+        }
+      ],
+      "url": "",
+      "tags": [
+        "MCP"
+      ]
+    },
+    "brand-voice": {
+      "name": "Brand Voice",
+      "type": "Plugin/Skill",
+      "category": "Marketing",
+      "agent_compat": {
+        "claude": true,
+        "codex": false,
+        "copilot": true
+      },
+      "install": {
+        "template": "plugin-marketplace",
+        "vars": {
+          "repo": "anthropics/knowledge-work-plugins",
+          "marketplaceName": "knowledge-work-plugins"
+        }
+      },
+      "url": "",
+      "tags": [
+        "Plugin",
+        "Skill"
+      ]
+    },
+    "build-web-apps": {
+      "name": "Build Web Apps",
+      "type": "Plugin/Skill",
+      "category": "Plugin/Agent",
+      "agent_compat": {
+        "claude": false,
+        "codex": true,
+        "npx": true
+      },
+      "install": {
+        "agents": [
+          "codex",
+          "npx"
+        ],
+        "cmd": "npx codex-marketplace add openai/plugins/plugins/build-web-apps --plugin"
+      },
+      "url": "",
+      "tags": [
+        "Plugin",
+        "Skill"
+      ]
+    },
+    "canva": {
+      "name": "Canva",
+      "type": "Creative",
+      "category": "Creative",
+      "agent_compat": {
+        "claude": false,
+        "codex": true,
+        "npx": true
+      },
+      "install": {
+        "agents": [
+          "codex",
+          "npx"
+        ],
+        "cmd": "npx codex-marketplace add openai/plugins/plugins/canva --plugin"
+      },
+      "url": "",
+      "tags": [
+        "Plugin",
+        "Skill"
+      ]
+    },
+    "caveman": {
+      "name": "Caveman",
+      "type": "Plugin/Skill",
+      "category": "Plugin/Agent",
+      "agent_compat": {
+        "claude": true,
+        "codex": true,
+        "copilot": true,
+        "npx": true
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude plugin marketplace add JuliusBrussee/caveman && claude plugin install caveman@caveman --scope user"
+        },
+        {
+          "agent": "codex",
+          "cmd": "npx skills add JuliusBrussee/caveman -a codex"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot plugin marketplace add JuliusBrussee/caveman && copilot plugin install caveman@caveman"
+        },
+        {
+          "agent": "npx",
+          "cmd": "npx skills add JuliusBrussee/caveman -a codex"
+        }
+      ],
+      "url": "",
+      "tags": [
+        "Plugin",
+        "Skill"
+      ]
+    },
+    "chrome-devtools": {
+      "name": "Chrome DevTools MCP",
+      "type": "MCP Server",
+      "category": "Debugging",
+      "agent_compat": {
+        "claude": true,
+        "codex": true,
+        "copilot": true
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude mcp add chrome-devtools -- npx chrome-devtools-mcp@latest"
+        },
+        {
+          "agent": "codex",
+          "cmd": "codex mcp add chrome-devtools -- npx chrome-devtools-mcp@latest"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot mcp add chrome-devtools -- npx chrome-devtools-mcp@latest"
+        }
+      ],
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "tags": [
+        "MCP"
+      ]
+    },
+    "claude-md-management": {
+      "name": "Claude MD Management",
+      "type": "Plugin/Skill",
+      "category": "Plugin/Agent",
+      "agent_compat": {
+        "claude": true,
+        "codex": false,
+        "copilot": true
+      },
+      "install": {
+        "template": "plugin-marketplace",
+        "vars": {
+          "repo": "anthropics/claude-plugins-official",
+          "marketplaceName": "claude-plugins-official"
+        }
+      },
+      "url": "",
+      "tags": [
+        "Plugin",
+        "Skill"
+      ]
+    },
+    "claude-plugins-official": {
+      "name": "Claude Plugins Official",
+      "type": "Plugin/Skill",
+      "category": "Plugin/Agent",
+      "agent_compat": {
+        "claude": true,
+        "codex": false,
+        "copilot": true
+      },
+      "install": {
+        "template": "plugin-marketplace-only",
+        "vars": {
+          "repo": "anthropics/claude-plugins-official"
+        }
+      },
+      "url": "",
+      "tags": [
+        "Plugin"
+      ]
+    },
+    "cloudflare": {
+      "name": "Cloudflare",
+      "type": "MCP Server",
+      "category": "Cloud/DevOps",
+      "agent_compat": {
+        "claude": true,
+        "codex": true,
+        "copilot": true,
+        "npx": true
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude mcp add -s user --transport http cloudflare https://mcp.cloudflare.com/mcp"
+        },
+        {
+          "agent": "codex",
+          "cmd": "codex mcp add cloudflare --url https://mcp.cloudflare.com/mcp"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot mcp add --transport http cloudflare https://mcp.cloudflare.com/mcp"
+        },
+        {
+          "agent": "npx",
+          "cmd": "npx -y mcp-remote https://mcp.cloudflare.com/mcp"
+        }
+      ],
+      "url": "",
+      "tags": [
+        "MCP"
+      ]
+    },
+    "code-simplifier": {
+      "name": "Code Simplifier",
+      "type": "Plugin/Skill",
+      "category": "Plugin/Agent",
+      "agent_compat": {
+        "claude": true,
+        "codex": false,
+        "copilot": true
+      },
+      "install": {
+        "template": "plugin-marketplace",
+        "vars": {
+          "repo": "anthropics/claude-plugins-official",
+          "marketplaceName": "claude-plugins-official"
+        }
+      },
+      "url": "",
+      "tags": [
+        "Plugin",
+        "Skill"
+      ]
+    },
+    "codebase-memory-mcp": {
+      "name": "Codebase Memory MCP",
+      "type": "MCP Server",
+      "category": "Development",
+      "agent_compat": {
+        "claude": true,
+        "codex": false
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "powershell -NoProfile -ExecutionPolicy Bypass -Command irm https://raw.githubusercontent.com/DeusData/codebase-memory-mcp/main/install.ps1 | iex"
+        }
+      ],
+      "url": "",
+      "tags": [
+        "MCP"
+      ]
+    },
+    "codex": {
+      "name": "Codex",
+      "type": "Plugin/Skill",
+      "category": "Plugin/Agent",
+      "agent_compat": {
+        "claude": true,
+        "codex": false,
+        "copilot": true
+      },
+      "install": {
+        "template": "plugin-marketplace",
+        "vars": {
+          "repo": "openai/codex-plugin-cc",
+          "marketplaceName": "openai-codex"
+        }
+      },
+      "url": "",
+      "tags": [
+        "Plugin",
+        "Skill"
+      ]
+    },
+    "comfyui-mcp": {
+      "name": "ComfyUI MCP",
+      "type": "MCP Server",
+      "category": "Development",
+      "agent_compat": {
+        "claude": true,
+        "codex": true,
+        "copilot": true
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude plugin marketplace add artokun/comfyui-mcp && claude plugin install comfy@comfyui-mcp --scope user"
+        },
+        {
+          "agent": "codex",
+          "cmd": "codex mcp add comfyui -- npx -y comfyui-mcp"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot plugin marketplace add artokun/comfyui-mcp && copilot plugin install comfy@comfyui-mcp"
+        }
+      ],
+      "url": "",
+      "tags": [
+        "MCP"
+      ]
+    },
+    "composio": {
+      "name": "Composio",
+      "type": "Plugin/Skill",
+      "category": "Productivity",
+      "agent_compat": {
+        "claude": true,
+        "codex": false,
+        "copilot": true
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude mcp add --transport http composio \"$COMPOSIO_MCP_URL\" --headers \"X-API-Key:$COMPOSIO_API_KEY\""
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot mcp add --transport http composio \"$COMPOSIO_MCP_URL\" --header \"X-API-Key: $COMPOSIO_API_KEY\""
+        }
+      ],
+      "url": "",
+      "tags": [
+        "MCP"
+      ]
+    },
+    "context7": {
+      "name": "Context7 MCP",
+      "type": "MCP Server",
+      "category": "Documentation",
+      "agent_compat": {
+        "claude": true,
+        "codex": true,
+        "copilot": true
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude mcp add --transport http context7 https://mcp.context7.com/mcp"
+        },
+        {
+          "agent": "codex",
+          "cmd": "codex mcp add context7 --url https://mcp.context7.com/mcp"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot mcp add --transport http context7 https://mcp.context7.com/mcp"
+        }
+      ],
+      "url": "https://mcp.context7.com/mcp",
+      "tags": [
+        "MCP",
+        "Plugin"
+      ]
+    },
+    "dashboard-icons": {
+      "name": "Dashboard Icons MCP",
+      "type": "MCP Server",
+      "category": "Design",
+      "agent_compat": {
+        "claude": true,
+        "codex": true,
+        "copilot": true,
+        "npx": true
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude mcp add dashboard-icons -- npx -y mcp-remote https://dashboardicons.com/api/mcp"
+        },
+        {
+          "agent": "codex",
+          "cmd": "codex mcp add dashboard-icons -- npx -y mcp-remote https://dashboardicons.com/api/mcp"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot mcp add dashboard-icons -- npx -y mcp-remote https://dashboardicons.com/api/mcp"
+        },
+        {
+          "agent": "npx",
+          "cmd": "npx -y mcp-remote https://dashboardicons.com/api/mcp"
+        }
+      ],
+      "url": "",
+      "tags": [
+        "MCP"
+      ]
+    },
+    "daw-mcp": {
+      "name": "DAW MCP",
+      "type": "Plugin/Skill",
+      "category": "DAW/Music",
+      "agent_compat": {
+        "claude": true,
+        "codex": false,
+        "copilot": true
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude mcp add daw --scope user -- node %USERPROFILE%\\.local\\daw-mcp\\mcp-server\\dist\\mcp-server.js"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot mcp add daw -- node %USERPROFILE%.localdaw-mcpmcp-serverdistmcp-server.js"
+        }
+      ],
+      "url": "",
+      "tags": [
+        "MCP"
+      ]
+    },
+    "design": {
+      "name": "Design",
+      "type": "Plugin/Skill",
+      "category": "Creative",
+      "agent_compat": {
+        "claude": true,
+        "codex": false,
+        "npx": true
+      },
+      "install": {
+        "template": "claudepluginhub",
+        "vars": {
+          "slug": "anthropics-design-design"
+        }
+      },
+      "url": "",
+      "tags": [
+        "Plugin",
+        "Skill"
+      ]
+    },
+    "diagram-design": {
+      "name": "Diagram Design",
+      "type": "Plugin/Skill",
+      "category": "Creative",
+      "agent_compat": {
+        "claude": true,
+        "codex": true,
+        "copilot": true,
+        "npx": true
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude plugin marketplace add cathrynlavery/diagram-design && claude plugin install diagram-design@diagram-design --scope user"
+        },
+        {
+          "agent": "codex",
+          "cmd": "npx skills add https://github.com/cathrynlavery/diagram-design -a codex"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot plugin marketplace add cathrynlavery/diagram-design && copilot plugin install diagram-design@diagram-design"
+        },
+        {
+          "agent": "npx",
+          "cmd": "npx skills add https://github.com/cathrynlavery/diagram-design -a codex"
+        }
+      ],
+      "url": "",
+      "tags": [
+        "Plugin",
+        "Skill"
+      ]
+    },
+    "elevenlabs": {
+      "name": "ElevenLabs",
+      "type": "Plugin/Skill",
+      "category": "Development",
+      "agent_compat": {
+        "claude": true,
+        "codex": false,
+        "copilot": true
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude mcp add -s user -e ELEVENLABS_API_KEY=\"$ELEVENLABS_API_KEY\" elevenlabs -- uvx elevenlabs-mcp"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot mcp add --env ELEVENLABS_API_KEY=\"$ELEVENLABS_API_KEY\" elevenlabs -- uvx elevenlabs-mcp"
+        }
+      ],
+      "url": "",
+      "tags": [
+        "MCP"
+      ]
+    },
+    "engineering": {
+      "name": "Engineering",
+      "type": "Plugin/Skill",
+      "category": "Development",
+      "agent_compat": {
+        "claude": true,
+        "codex": false,
+        "copilot": true
+      },
+      "install": {
+        "template": "plugin-marketplace",
+        "vars": {
+          "repo": "anthropics/knowledge-work-plugins",
+          "marketplaceName": "knowledge-work-plugins"
+        }
+      },
+      "url": "",
+      "tags": [
+        "Plugin",
+        "Skill"
+      ]
+    },
+    "exa": {
+      "name": "Exa MCP",
+      "type": "MCP Server",
+      "category": "Search",
+      "agent_compat": {
+        "claude": true,
+        "codex": true,
+        "copilot": true
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude mcp add --transport http exa https://mcp.exa.ai/mcp"
+        },
+        {
+          "agent": "codex",
+          "cmd": "codex mcp add exa --url https://mcp.exa.ai/mcp"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot mcp add --transport http exa https://mcp.exa.ai/mcp"
+        }
+      ],
+      "url": "https://mcp.exa.ai/mcp",
+      "tags": [
+        "MCP"
+      ]
+    },
+    "figma": {
+      "name": "Figma Dev Mode MCP",
+      "type": "MCP Server",
+      "category": "Design",
+      "agent_compat": {
+        "claude": true,
+        "codex": true,
+        "copilot": true
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude mcp add --transport http figma https://mcp.figma.com/mcp"
+        },
+        {
+          "agent": "codex",
+          "cmd": "codex mcp add figma --url https://mcp.figma.com/mcp && codex mcp login figma"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot mcp add --transport http figma https://mcp.figma.com/mcp"
+        }
+      ],
+      "url": "https://mcp.figma.com/mcp",
+      "tags": [
+        "MCP"
+      ]
+    },
+    "filesystem": {
+      "name": "Filesystem MCP",
+      "type": "MCP Server",
+      "category": "Core",
+      "agent_compat": {
+        "claude": true,
+        "codex": true,
+        "copilot": true,
+        "npx": true
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude mcp add filesystem -- npx -y @modelcontextprotocol/server-filesystem ."
+        },
+        {
+          "agent": "codex",
+          "cmd": "codex mcp add filesystem -- npx -y @modelcontextprotocol/server-filesystem ."
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot mcp add filesystem -- npx -y @modelcontextprotocol/server-filesystem ."
+        },
+        {
+          "agent": "npx",
+          "cmd": "npx -y @modelcontextprotocol/server-filesystem ."
+        }
+      ],
+      "url": "",
+      "tags": [
+        "MCP"
+      ]
+    },
+    "firecrawl-cli": {
+      "name": "Firecrawl CLI",
+      "type": "Plugin/Skill",
+      "category": "Plugin/Agent",
+      "agent_compat": {
+        "claude": true,
+        "codex": true,
+        "npx": true
+      },
+      "install": {
+        "agents": [
+          "claude",
+          "codex",
+          "npx"
+        ],
+        "cmd": "npx -y firecrawl-cli@latest init --all --browser"
+      },
+      "url": "",
+      "tags": [
+        "Plugin",
+        "Skill"
+      ]
+    },
+    "firecrawl-mcp": {
+      "name": "Firecrawl MCP",
+      "type": "Plugin/Skill",
+      "category": "Development",
+      "agent_compat": {
+        "claude": true,
+        "codex": false,
+        "copilot": true
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude mcp add -s user -e FIRECRAWL_API_KEY=\"$FIRECRAWL_API_KEY\" firecrawl -- npx -y firecrawl-mcp"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot mcp add --env FIRECRAWL_API_KEY=\"$FIRECRAWL_API_KEY\" firecrawl -- npx -y firecrawl-mcp"
+        }
+      ],
+      "url": "",
+      "tags": [
+        "MCP"
+      ]
+    },
+    "fl-studio-mcp": {
+      "name": "FL Studio MCP",
+      "type": "Plugin/Skill",
+      "category": "DAW/Music",
+      "agent_compat": {
+        "claude": true,
+        "codex": false
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "if not exist \"%USERPROFILE%\\.local\\fl-studio-mcp\" git clone https://github.com/karl-andres/fl-studio-mcp.git \"%USERPROFILE%\\.local\\fl-studio-mcp\" && cd /d \"%USERPROFILE%\\.local\\fl-studio-mcp\" && uv sync --python 3.12 && if not exist \"%USERPROFILE%\\Documents\\Image-Line\\FL Studio\\Settings\\Hardware\\FLS"
+        }
+      ],
+      "url": "",
+      "tags": [
+        "MCP"
+      ]
+    },
+    "frontend-design": {
+      "name": "Frontend Design",
+      "type": "Plugin/Skill",
+      "category": "Plugin/Agent",
+      "agent_compat": {
+        "claude": true,
+        "codex": false,
+        "copilot": true
+      },
+      "install": {
+        "template": "plugin-marketplace",
+        "vars": {
+          "repo": "anthropics/claude-plugins-official",
+          "marketplaceName": "claude-plugins-official"
+        }
+      },
+      "url": "",
+      "tags": [
+        "Plugin",
+        "Skill"
+      ]
+    },
+    "github": {
+      "name": "GitHub MCP",
+      "type": "MCP Server",
+      "category": "Development",
+      "agent_compat": {
+        "claude": true,
+        "codex": true,
+        "copilot": true
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude mcp add --transport http github https://api.githubcopilot.com/mcp/"
+        },
+        {
+          "agent": "codex",
+          "cmd": "codex mcp add github --url https://api.githubcopilot.com/mcp/"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot mcp add --transport http github https://api.githubcopilot.com/mcp/"
+        }
+      ],
+      "url": "https://api.githubcopilot.com/mcp/",
+      "tags": [
+        "MCP"
+      ]
+    },
+    "grafana": {
+      "name": "Grafana",
+      "type": "Plugin/Skill",
+      "category": "Cloud/DevOps",
+      "agent_compat": {
+        "claude": true,
+        "codex": false,
+        "copilot": true
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude mcp add -s user -e GRAFANA_URL=\"$GRAFANA_URL\" -e GRAFANA_SERVICE_ACCOUNT_TOKEN=\"$GRAFANA_SERVICE_ACCOUNT_TOKEN\" grafana -- mcp-grafana"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot mcp add --env GRAFANA_URL=\"$GRAFANA_URL\" --env GRAFANA_SERVICE_ACCOUNT_TOKEN=\"$GRAFANA_SERVICE_ACCOUNT_TOKEN\" grafana -- mcp-grafana"
+        }
+      ],
+      "url": "",
+      "tags": [
+        "MCP"
+      ]
+    },
+    "guitar-pro-mcp": {
+      "name": "Guitar Pro MCP",
+      "type": "MCP Server",
+      "category": "DAW/Music",
+      "agent_compat": {
+        "claude": true,
+        "codex": false
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "if not exist \"%USERPROFILE%\\.local\\guitar-pro-mcp\" git clone https://github.com/wegitor/guitar-pro-mcp.git \"%USERPROFILE%\\.local\\guitar-pro-mcp\" && cd /d \"%USERPROFILE%\\.local\\guitar-pro-mcp\" && uv venv && uv pip install . && claude mcp add -s user guitar-pro -- uv --directory \"%USERPROFILE%\\.local\\guitar-pro-mcp\" run -m src.run_mcp_server"
+        }
+      ],
+      "url": "",
+      "tags": [
+        "MCP"
+      ]
+    },
+    "higgsfield-ai-skills": {
+      "name": "Higgsfield AI/Skills",
+      "type": "Plugin/Skill",
+      "category": "Plugin/Agent",
+      "agent_compat": {
+        "claude": false,
+        "codex": true,
+        "npx": true
+      },
+      "install": {
+        "agents": [
+          "codex",
+          "npx"
+        ],
+        "cmd": "npx codex-marketplace add higgsfield-ai/skills --plugin"
+      },
+      "url": "",
+      "tags": [
+        "Plugin",
+        "Skill"
+      ]
+    },
+    "hookify": {
+      "name": "Hookify",
+      "type": "Plugin/Skill",
+      "category": "Development",
+      "agent_compat": {
+        "claude": true,
+        "codex": false,
+        "copilot": true
+      },
+      "install": {
+        "template": "plugin-marketplace",
+        "vars": {
+          "repo": "anthropics/claude-plugins-official",
+          "marketplaceName": "claude-plugins-official"
+        }
+      },
+      "url": "",
+      "tags": [
+        "Plugin",
+        "Hook"
+      ]
+    },
+    "hyperframes": {
+      "name": "HyperFrames MCP",
+      "type": "MCP Server",
+      "category": "Creative",
+      "agent_compat": {
+        "claude": true,
+        "codex": true,
+        "copilot": true
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude mcp add --transport http hyperframes https://hyperframes.heygen.com"
+        },
+        {
+          "agent": "codex",
+          "cmd": "codex mcp add hyperframes --url https://hyperframes.heygen.com"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot mcp add --transport http hyperframes https://hyperframes.heygen.com"
+        }
+      ],
+      "url": "https://hyperframes.heygen.com",
+      "tags": [
+        "MCP"
+      ]
+    },
+    "knowledge-work-plugins": {
+      "name": "Knowledge Work Plugins",
+      "type": "Plugin/Skill",
+      "category": "Creative",
+      "agent_compat": {
+        "claude": true,
+        "codex": false,
+        "copilot": true
+      },
+      "install": {
+        "template": "plugin-marketplace-only",
+        "vars": {
+          "repo": "anthropics/knowledge-work-plugins"
+        }
+      },
+      "url": "",
+      "tags": [
+        "Plugin"
+      ]
+    },
+    "kubernetes": {
+      "name": "Kubernetes",
+      "type": "Plugin/Skill",
+      "category": "Cloud/DevOps",
+      "agent_compat": {
+        "claude": true,
+        "codex": true,
+        "copilot": true
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude mcp add -s user kubernetes -- npx -y kubernetes-mcp-server@latest --read-only"
+        },
+        {
+          "agent": "codex",
+          "cmd": "codex mcp add kubernetes -- npx -y kubernetes-mcp-server@latest --read-only"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot mcp add kubernetes -- npx -y kubernetes-mcp-server@latest --read-only"
+        }
+      ],
+      "url": "",
+      "tags": [
+        "MCP"
+      ]
+    },
+    "linear": {
+      "name": "Linear MCP",
+      "type": "MCP Server",
+      "category": "Project Management",
+      "agent_compat": {
+        "claude": true,
+        "codex": true,
+        "copilot": true
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude mcp add --transport http linear https://mcp.linear.app/mcp"
+        },
+        {
+          "agent": "codex",
+          "cmd": "codex mcp add linear --url https://mcp.linear.app/mcp && codex mcp login linear"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot mcp add --transport http linear https://mcp.linear.app/mcp"
+        }
+      ],
+      "url": "https://mcp.linear.app/mcp",
+      "tags": [
+        "MCP"
+      ]
+    },
+    "magnific": {
+      "name": "Magnific",
+      "type": "Creative",
+      "category": "Creative",
+      "agent_compat": {
+        "claude": true,
+        "codex": true,
+        "copilot": true
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude mcp add --transport http magnific https://mcp.magnific.com"
+        },
+        {
+          "agent": "codex",
+          "cmd": "codex mcp add magnific --url https://mcp.magnific.com"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot mcp add --transport http magnific https://mcp.magnific.com"
+        }
+      ],
+      "url": "",
+      "tags": [
+        "MCP"
+      ]
+    },
+    "marketing": {
+      "name": "Marketing",
+      "type": "Plugin/Skill",
+      "category": "Marketing",
+      "agent_compat": {
+        "claude": true,
+        "codex": false,
+        "copilot": true
+      },
+      "install": {
+        "template": "plugin-marketplace",
+        "vars": {
+          "repo": "anthropics/knowledge-work-plugins",
+          "marketplaceName": "knowledge-work-plugins"
+        }
+      },
+      "url": "",
+      "tags": [
+        "Plugin",
+        "Skill"
+      ]
+    },
+    "musescore-mcp": {
+      "name": "MuseScore MCP",
+      "type": "MCP Server",
+      "category": "DAW/Music",
+      "agent_compat": {
+        "claude": true,
+        "codex": false
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "if not exist \"%USERPROFILE%\\.local\\mcp-musescore\" git clone https://github.com/ghchen99/mcp-musescore.git \"%USERPROFILE%\\.local\\mcp-musescore\" && cd /d \"%USERPROFILE%\\.local\\mcp-musescore\" && python -m venv .venv && .venv\\Scripts\\pip install -r requirements.txt && if not exist \"%USERPROFILE%\\Documents\\MuseScore4\\Plugins\" mkdir \"%USERPROFILE%\\Documents\\MuseScore4\\Plugins\" && copy /y musescore-mcp-websocket.qml \"%USERPROFILE%\\Documents\\MuseScore4\\Plugins\\\" && claude mcp add -s user musescore -- \"%USERPROFILE%\\.local\\mcp-musescore\\.venv\\Scripts\\python.exe\" \"%USERPROFILE%\\.local\\mcp-musescore\\server.py\""
+        }
+      ],
+      "url": "",
+      "tags": [
+        "MCP"
+      ]
+    },
+    "notion": {
+      "name": "Notion MCP",
+      "type": "MCP Server",
+      "category": "Knowledge Base",
+      "agent_compat": {
+        "claude": true,
+        "codex": true,
+        "copilot": true
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude mcp add --transport http notion https://mcp.notion.com/mcp"
+        },
+        {
+          "agent": "codex",
+          "cmd": "codex mcp add notion --url https://mcp.notion.com/mcp && codex mcp login notion"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot mcp add --transport http notion https://mcp.notion.com/mcp"
+        }
+      ],
+      "url": "https://mcp.notion.com/mcp",
+      "tags": [
+        "MCP"
+      ]
+    },
+    "obsidian": {
+      "name": "Obsidian",
+      "type": "Plugin/Skill",
+      "category": "Plugin/Agent",
+      "agent_compat": {
+        "claude": true,
+        "codex": false,
+        "npx": true
+      },
+      "install": {
+        "template": "claudepluginhub",
+        "vars": {
+          "slug": "kepano-obsidian"
+        }
+      },
+      "url": "",
+      "tags": [
+        "Plugin",
+        "Skill"
+      ]
+    },
+    "pdf-viewer": {
+      "name": "PDF Viewer",
+      "type": "Plugin/Skill",
+      "category": "Research",
+      "agent_compat": {
+        "claude": true,
+        "codex": false,
+        "copilot": true
+      },
+      "install": {
+        "template": "plugin-marketplace",
+        "vars": {
+          "repo": "anthropics/knowledge-work-plugins",
+          "marketplaceName": "knowledge-work-plugins"
+        }
+      },
+      "url": "",
+      "tags": [
+        "Plugin",
+        "Skill"
+      ]
+    },
+    "php-lsp": {
+      "name": "Php LSP",
+      "type": "Plugin/Skill",
+      "category": "Development",
+      "agent_compat": {
+        "claude": true,
+        "codex": false,
+        "copilot": true,
+        "npx": true
+      },
+      "install": {
+        "template": "plugin-marketplace",
+        "vars": {
+          "prefix": "npm install -g intelephense && ",
+          "repo": "anthropics/claude-plugins-official",
+          "marketplaceName": "claude-plugins-official"
+        }
+      },
+      "url": "",
+      "tags": [
+        "Plugin",
+        "Skill"
+      ]
+    },
+    "playwright": {
+      "name": "Playwright",
+      "type": "MCP Server",
+      "category": "Services",
+      "agent_compat": {
+        "claude": true,
+        "codex": true,
+        "npx": true
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "/plugin marketplace add https://www.claudepluginhub.com/api/plugins/anthropics-playwright-external-plugins-playwright/marketplace.json\n/plugin install anthropics-playwright-external-plugins-playwright@cpd-anthropics-playwright-external-plugins-playwright"
+        },
+        {
+          "agent": "codex",
+          "cmd": "codex mcp add playwright -- npx -y @playwright/mcp@latest"
+        },
+        {
+          "agent": "npx",
+          "cmd": "npx claudepluginhub p/anthropics-playwright-external-plugins-playwright"
+        }
+      ],
+      "url": "",
+      "tags": [
+        "MCP",
+        "Plugin"
+      ]
+    },
+    "ponytail": {
+      "name": "Ponytail",
+      "type": "Plugin/Skill",
+      "category": "Plugin/Agent",
+      "description": "The most effort ponytail will ever ask of you \u2014 Claude Code and Codex plugins run two tiny Node.js lifecycle hooks, so node needs to be on your PATH (note for Nix/nvm users: it must be on the non-interactive shell's PATH). If it isn't, the skills still work, the always-on activation just stays quiet instead of erroring on every prompt.",
+      "agent_compat": {
+        "claude": true,
+        "codex": true,
+        "copilot": true,
+        "npx": true
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "/plugin marketplace add DietrichGebert/ponytail\n/plugin install ponytail@ponytail"
+        },
+        {
+          "agent": "codex",
+          "cmd": "codex plugin marketplace add DietrichGebert/ponytail\ncodex plugin add ponytail@ponytail"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "/plugin marketplace add DietrichGebert/ponytail\n/plugin install ponytail@ponytail"
+        },
+        {
+          "agent": "npx",
+          "cmd": "npx ponytail"
+        }
+      ],
+      "url": "",
+      "tags": [
+        "Plugin",
+        "Hook"
+      ]
+    },
+    "postgres": {
+      "name": "PostgreSQL MCP",
+      "type": "MCP Server",
+      "category": "Database",
+      "agent_compat": {
+        "claude": true,
+        "codex": true,
+        "copilot": true
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude mcp add postgres -- npx -y @modelcontextprotocol/server-postgres \"postgresql://USER:PASSWORD@HOST:5432/DB\""
+        },
+        {
+          "agent": "codex",
+          "cmd": "codex mcp add postgres -- npx -y @modelcontextprotocol/server-postgres \"postgresql://USER:PASSWORD@HOST:5432/DB\""
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot mcp add postgres -- npx -y @modelcontextprotocol/server-postgres \"postgresql://USER:PASSWORD@HOST:5432/DB\""
+        }
+      ],
+      "url": "https://github.com/modelcontextprotocol/servers/tree/main/src/postgres",
+      "tags": [
+        "MCP"
+      ]
+    },
+    "postiz": {
+      "name": "Postiz",
+      "type": "Plugin/Skill",
+      "category": "Marketing",
+      "agent_compat": {
+        "claude": true,
+        "codex": false,
+        "copilot": true
+      },
+      "install": {
+        "template": "plugin-marketplace",
+        "vars": {
+          "repo": "anthropics/knowledge-work-plugins",
+          "marketplaceName": "knowledge-work-plugins"
+        }
+      },
+      "url": "",
+      "tags": [
+        "Plugin",
+        "Skill"
+      ]
+    },
+    "productivity": {
+      "name": "Productivity",
+      "type": "Plugin/Skill",
+      "category": "Productivity",
+      "agent_compat": {
+        "claude": true,
+        "codex": false,
+        "copilot": true
+      },
+      "install": {
+        "template": "plugin-marketplace",
+        "vars": {
+          "repo": "anthropics/knowledge-work-plugins",
+          "marketplaceName": "knowledge-work-plugins"
+        }
+      },
+      "url": "",
+      "tags": [
+        "Plugin",
+        "Skill"
+      ]
+    },
+    "pyright-lsp": {
+      "name": "Pyright LSP",
+      "type": "Plugin/Skill",
+      "category": "Development",
+      "agent_compat": {
+        "claude": true,
+        "codex": false,
+        "copilot": true,
+        "npx": true
+      },
+      "install": {
+        "template": "plugin-marketplace",
+        "vars": {
+          "prefix": "npm install -g pyright && ",
+          "repo": "anthropics/claude-plugins-official",
+          "marketplaceName": "claude-plugins-official"
+        }
+      },
+      "url": "",
+      "tags": [
+        "Plugin",
+        "Skill"
+      ]
+    },
+    "raindrop": {
+      "name": "Raindrop MCP",
+      "type": "MCP Server",
+      "category": "Bookmarks",
+      "agent_compat": {
+        "claude": true,
+        "codex": true,
+        "copilot": true
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude mcp add --transport http raindrop https://api.raindrop.io/rest/v2/ai/mcp"
+        },
+        {
+          "agent": "codex",
+          "cmd": "codex mcp add raindrop --url https://api.raindrop.io/rest/v2/ai/mcp"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot mcp add --transport http raindrop https://api.raindrop.io/rest/v2/ai/mcp"
+        }
+      ],
+      "url": "https://api.raindrop.io/rest/v2/ai/mcp",
+      "tags": [
+        "MCP"
+      ]
+    },
+    "reaper-mcp": {
+      "name": "REAPER MCP",
+      "type": "Plugin/Skill",
+      "category": "DAW/Music",
+      "agent_compat": {
+        "claude": true,
+        "codex": false,
+        "copilot": true
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "pip install reaper-mcp-server && claude mcp add -s user reaper -- reaper-mcp-server"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "pip install reaper-mcp-server && copilot mcp add reaper -- reaper-mcp-server"
+        }
+      ],
+      "url": "",
+      "tags": [
+        "MCP"
+      ]
+    },
+    "runnet": {
+      "name": "Ruvnet",
+      "type": "MCP Server",
+      "category": "Services",
+      "agent_compat": {
+        "claude": true,
+        "codex": false,
+        "copilot": true
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude mcp add rvagent -- npx @ruvnet/rvagent stdio"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot mcp add rvagent -- npx @ruvnet/rvagent stdio"
+        }
+      ],
+      "url": "",
+      "tags": [
+        "MCP"
+      ]
+    },
+    "ruview": {
+      "name": "RuView",
+      "type": "MCP Server",
+      "category": "Services",
+      "agent_compat": {
+        "claude": true,
+        "codex": false,
+        "copilot": true
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude mcp add ruflo -- npx ruflo@latest mcp start"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot mcp add ruflo -- npx ruflo@latest mcp start"
+        }
+      ],
+      "url": "",
+      "tags": [
+        "MCP"
+      ]
+    },
+    "sentry": {
+      "name": "Sentry",
+      "type": "MCP Server",
+      "category": "Cloud/DevOps",
+      "agent_compat": {
+        "claude": true,
+        "codex": false,
+        "npx": true
+      },
+      "install": {
+        "template": "claudepluginhub",
+        "vars": {
+          "slug": "getsentry-sentry"
+        }
+      },
+      "url": "",
+      "tags": [
+        "MCP"
+      ]
+    },
+    "serena": {
+      "name": "Serena MCP",
+      "type": "MCP Server",
+      "category": "Development",
+      "agent_compat": {
+        "claude": true,
+        "codex": true,
+        "copilot": true
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "uv tool install -p 3.13 serena-agent && serena setup claude-code"
+        },
+        {
+          "agent": "codex",
+          "cmd": "uv tool install -p 3.13 serena-agent && serena setup codex"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "uv tool install -p 3.13 serena-agent && copilot mcp add serena -- serena start-mcp-server --context=copilot-cli --project-from-cwd"
+        }
+      ],
+      "url": "https://github.com/oraios/serena",
+      "tags": [
+        "MCP"
+      ]
+    },
+    "stripe": {
+      "name": "Stripe MCP",
+      "type": "MCP Server",
+      "category": "Payments",
+      "agent_compat": {
+        "claude": true,
+        "codex": true,
+        "copilot": true
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude mcp add --transport http stripe https://mcp.stripe.com"
+        },
+        {
+          "agent": "codex",
+          "cmd": "codex mcp add stripe --url https://mcp.stripe.com && codex mcp login stripe"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot mcp add --transport http stripe https://mcp.stripe.com"
+        }
+      ],
+      "url": "https://mcp.stripe.com",
+      "tags": [
+        "MCP"
+      ]
+    },
+    "suno": {
+      "name": "Suno",
+      "type": "Plugin/Skill",
+      "category": "Development",
+      "agent_compat": {
+        "claude": true,
+        "codex": false,
+        "copilot": true
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude mcp add -s user --transport http suno https://suno.mcp.acedata.cloud/mcp"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot mcp add --transport http suno https://suno.mcp.acedata.cloud/mcp"
+        }
+      ],
+      "url": "",
+      "tags": [
+        "MCP"
+      ]
+    },
+    "supabase": {
+      "name": "Supabase",
+      "type": "MCP Server",
+      "category": "Cloud/DevOps",
+      "agent_compat": {
+        "claude": true,
+        "codex": true,
+        "npx": true
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "/plugin marketplace add https://www.claudepluginhub.com/api/plugins/jawwadfirdousi-supabase-supabase/marketplace.json\n/plugin install jawwadfirdousi-supabase-supabase@cpd-jawwadfirdousi-supabase-supabase"
+        },
+        {
+          "agent": "codex",
+          "cmd": "codex mcp add supabase --url https://mcp.supabase.com/mcp"
+        },
+        {
+          "agent": "npx",
+          "cmd": "npx claudepluginhub p/jawwadfirdousi-supabase-supabase"
+        }
+      ],
+      "url": "",
+      "tags": [
+        "MCP"
+      ]
+    },
+    "superpowers": {
+      "name": "Superpowers",
+      "type": "Plugin/Skill",
+      "category": "Plugin/Agent",
+      "agent_compat": {
+        "claude": true,
+        "codex": false,
+        "copilot": true
+      },
+      "install": {
+        "template": "plugin-marketplace",
+        "vars": {
+          "repo": "anthropics/claude-plugins-official",
+          "marketplaceName": "claude-plugins-official"
+        }
+      },
+      "url": "",
+      "tags": [
+        "Plugin",
+        "Skill"
+      ]
+    },
+    "typescript-lsp": {
+      "name": "TypeScript LSP",
+      "type": "Plugin/Skill",
+      "category": "Development",
+      "agent_compat": {
+        "claude": true,
+        "codex": false,
+        "copilot": true,
+        "npx": true
+      },
+      "install": {
+        "template": "plugin-marketplace",
+        "vars": {
+          "prefix": "npm install -g typescript-language-server typescript && ",
+          "repo": "anthropics/claude-plugins-official",
+          "marketplaceName": "claude-plugins-official"
+        }
+      },
+      "url": "",
+      "tags": [
+        "Plugin",
+        "Skill"
+      ]
+    },
+    "vercel": {
+      "name": "Vercel MCP",
+      "type": "MCP Server",
+      "category": "Deployment",
+      "agent_compat": {
+        "claude": true,
+        "codex": true,
+        "copilot": true
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude mcp add --transport http vercel https://mcp.vercel.com"
+        },
+        {
+          "agent": "codex",
+          "cmd": "codex mcp add vercel --url https://mcp.vercel.com && codex mcp login vercel"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot mcp add --transport http vercel https://mcp.vercel.com"
+        }
+      ],
+      "url": "https://mcp.vercel.com",
+      "tags": [
+        "MCP"
+      ]
+    }
+  }
+}

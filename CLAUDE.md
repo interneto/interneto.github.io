@@ -27,7 +27,10 @@ node scripts/lint-markdown.js        # lint generated markdown (uses scripts/typ
 node scripts/optimize-svgs.mjs       # svgo pass over public/img/software (skips fake-.svg PNGs)
 node scripts/download-lib-icons.mjs  # fetch library icons referenced by config.json
 node scripts/download-web-favicons.mjs
+node scripts/generate-agents-pkgs.mjs # scripts/agents-pkgs.source.json -> public/pkgs/agents-pkgs.json
 ```
+
+`public/pkgs/agents-pkgs.json` is **generated** — edit `scripts/agents-pkgs.source.json` (templated, hand-maintained) and re-run the generator, never hand-edit the served file directly; a re-run silently overwrites it. `git diff public/pkgs/agents-pkgs.json` after running should show only your intended change.
 
 ## Architecture
 
