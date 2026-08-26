@@ -165,7 +165,7 @@ const renderPlot = (filteredModels: Model[]) => {
 
 const update = () => {
   const date = dates[+$date.value];
-  document.querySelector("#date-label")!.textContent = d3.timeFormat("%b %Y")(d3.timeParse("%Y-%m")(date)!);
+  document.querySelector("#date-label")!.textContent = d3.timeFormat("%b %Y")(d3.timeParse("%Y-%m")(date.replace(/\?$/, ""))!);
 
   const search = document.querySelector<HTMLInputElement>("#model")!.value.trim();
   const matches = new Set(
