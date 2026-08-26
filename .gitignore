@@ -16,3 +16,5 @@ scripts/fetch-cph-*.py
 scripts/query-cph-*.py
 scripts/crossref-cph*.py
 scripts/parse-cph*.py
+
+.worktrees/
