@@ -135,7 +135,7 @@ const renderPlot = (filteredModels: Model[]) => {
             strokeOpacity: false,
             strokeWidth: false,
             model: (d: string) => d,
-            x: (d: number) => `$${num(d)} / MTok`,
+            x: (d: number) => `$${num(d)} / 1M tokens`,
             y: (d: number) => num0(d),
           },
         },
@@ -151,8 +151,11 @@ const renderPlot = (filteredModels: Model[]) => {
           lineAnchor: "bottom",
         }
       ),
-      Plot.axisX({ label: "Cost per million input tokens" }),
-      Plot.axisY({ label: "ELO score", tickSpacing: 100 }),
+      Plot.axisX({
+        label: "Price ($ per 1M input tokens, log scale)",
+        tickFormat: (d: number) => `$${d3.format(".3~f")(d)}`,
+      }),
+      Plot.axisY({ label: "Quality (ELO score)", tickSpacing: 100 }),
     ],
   });
   document.querySelector("#llm-cost")!.replaceChildren(plot);
