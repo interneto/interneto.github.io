@@ -32,7 +32,6 @@ function defaultExecutable() {
 
 export async function downloadLeaderboard({ url, output, cdp = 'http://localhost:9222', browserMode = 'auto', executable = null, timeout = 60_000 }) {
   let browser = null;
-  let ownsBrowser = false;
 
   if (browserMode === 'auto' || browserMode === 'cdp') {
     try {
@@ -42,8 +41,10 @@ export async function downloadLeaderboard({ url, output, cdp = 'http://localhost
     }
   }
   if (!browser) {
-    browser = await chromium.launch({ headless: true, executablePath: executable ?? undefined });
-    ownsBrowser = true;
+    if (executable && !existsSync(executable)) {
+      throw new Error(`executable does not exist: ${executable}`);
+    }
+    browser = await chromium.launch({ headless: true, executablePath: (executable ?? defaultExecutable()) ?? undefined });
   }
 
   const context = browser.contexts()[0] ?? (await browser.newContext());
@@ -59,10 +60,16 @@ export async function downloadLeaderboard({ url, output, cdp = 'http://localhost
     value = await page.evaluate(EXTRACT_SCRIPT);
   } finally {
     await page.close();
-    // Only close a browser we launched ourselves — a CDP-connected browser
-    // belongs to the user's already-running Chrome and must be left open,
-    // exactly like download.py's `if owns_browser: browser.close()`.
-    if (ownsBrowser) await browser.close();
+    // Always close, including a CDP-connected browser: Playwright Node's
+    // browser.close() on a CDP connection only disconnects the client — it
+    // does not terminate the remote Chrome process the CDP endpoint belongs
+    // to (a follow-up connection to the same endpoint still succeeds). An
+    // open CDP WebSocket otherwise keeps the Node event loop alive forever,
+    // so the process never exits without this call. This differs from
+    // download.py's `if owns_browser: browser.close()`, which relied on
+    // Python's `with sync_playwright(): ...` context manager for its actual
+    // process-exit cleanup — Node has no equivalent, so we can't skip this.
+    await browser.close();
   }
 
   if (typeof value !== 'string' || !value.trim()) {
@@ -144,16 +151,10 @@ async function main() {
     console.error('Error: --browser must be auto, cdp, or launch.');
     process.exit(2);
   }
-  if (executable && !existsSync(executable)) {
-    console.error(`Error: executable does not exist: ${executable}`);
-    process.exit(2);
-  }
-
-  const resolvedExecutable = executable ?? defaultExecutable();
 
   let summary;
   try {
-    summary = await downloadLeaderboard({ url, output: resolve(output), cdp, browserMode, executable: resolvedExecutable, timeout });
+    summary = await downloadLeaderboard({ url, output: resolve(output), cdp, browserMode, executable, timeout });
   } catch (error) {
     console.error(`Error: ${error.message}`);
     process.exit(1);

@@ -6,7 +6,7 @@
 // Run with:
 //   node scripts/llm-pricing-update-elo.mjs <tsv-file> --column overall [--elo path] [--dry-run]
 
-import { resolve } from 'node:path';
+import { dirname, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import {
   UpdateEloError,
@@ -20,7 +20,10 @@ import {
   writeRows,
 } from './lib/llm-pricing.mjs';
 
-export async function updateElo({ filePath, column, eloPath = 'src/data/llm-pricing/elo.csv', dryRun = false }) {
+const __dirname = dirname(fileURLToPath(import.meta.url));
+const DEFAULT_ELO_PATH = resolve(__dirname, '..', 'src', 'data', 'llm-pricing', 'elo.csv');
+
+export async function updateElo({ filePath, column, eloPath = DEFAULT_ELO_PATH, dryRun = false }) {
   const { headers, rows } = readEloRows(eloPath);
   const targetColumn = resolveColumn(column, headers);
   const updates = readUpdates(filePath);
@@ -38,7 +41,7 @@ export async function updateElo({ filePath, column, eloPath = 'src/data/llm-pric
 function parseArgs(argv) {
   const positional = [];
   let column = null;
-  let eloPath = 'src/data/llm-pricing/elo.csv';
+  let eloPath = null;
   let dryRun = false;
 
   for (let i = 0; i < argv.length; i++) {
@@ -65,7 +68,7 @@ async function main() {
   }
 
   try {
-    await updateElo({ filePath: resolve(filePath), column, eloPath: resolve(eloPath), dryRun });
+    await updateElo({ filePath: resolve(filePath), column, eloPath: eloPath ? resolve(eloPath) : DEFAULT_ELO_PATH, dryRun });
   } catch (error) {
     if (error instanceof UpdateEloError) {
       console.error(`Error: ${error.message}`);

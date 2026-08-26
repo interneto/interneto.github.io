@@ -7,9 +7,13 @@
 
 import { mkdtempSync, rmSync } from 'node:fs';
 import { tmpdir } from 'node:os';
-import { join } from 'node:path';
+import { dirname, join } from 'node:path';
+import { fileURLToPath } from 'node:url';
 import { downloadLeaderboard } from './llm-pricing-download.mjs';
 import { updateElo } from './llm-pricing-update-elo.mjs';
+
+const __dirname = dirname(fileURLToPath(import.meta.url));
+const ELO_PATH = join(__dirname, '..', 'src', 'data', 'llm-pricing', 'elo.csv');
 
 const VIEWS = [
   { url: 'https://lmarena.ai/leaderboard/text', column: 'overall' },
@@ -30,7 +34,7 @@ try {
     });
 
     console.log(`Updating elo.csv column ${column}`);
-    await updateElo({ filePath: output, column, eloPath: 'src/data/llm-pricing/elo.csv' });
+    await updateElo({ filePath: output, column, eloPath: ELO_PATH });
   }
 } finally {
   rmSync(tmpDir, { recursive: true, force: true });
