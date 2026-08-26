@@ -144,25 +144,26 @@ export function resolveColumn(columnName, headers) {
 
 export function readUpdates(tsvPath) {
   const text = readFileSync(tsvPath, 'utf8');
-  const lines = text.split(/\r\n|\n/);
-  if (lines.length === 0 || (lines.length === 1 && !lines[0].trim())) {
+  const rows = d3.tsvParseRows(text);
+  if (rows.length === 0) {
     throw new UpdateEloError(`${tsvPath} is empty.`);
   }
 
   const updates = new Map();
-  for (let i = 1; i < lines.length; i++) {
-    const line = lines[i];
-    if (!line.trim()) continue;
-    const row = line.split('\t');
+  const dataRows = rows.slice(1);
+  for (let i = 0; i < dataRows.length; i++) {
+    const row = dataRows[i];
+    const lineNumber = i + 2;
+    if (row.length === 0 || row.every((cell) => !cell.trim())) continue;
     if (row.length < 2) {
-      throw new UpdateEloError(`${tsvPath}:${i + 1} must have at least two TSV columns.`);
+      throw new UpdateEloError(`${tsvPath}:${lineNumber} must have at least two TSV columns.`);
     }
     const model = row[0].trim();
     const score = row[1].trim();
-    if (!model) throw new UpdateEloError(`${tsvPath}:${i + 1} is missing the model name.`);
-    if (!score) throw new UpdateEloError(`${tsvPath}:${i + 1} is missing the score value.`);
+    if (!model) throw new UpdateEloError(`${tsvPath}:${lineNumber} is missing the model name.`);
+    if (!score) throw new UpdateEloError(`${tsvPath}:${lineNumber} is missing the score value.`);
     if (!Number.isFinite(Number(score))) {
-      throw new UpdateEloError(`${tsvPath}:${i + 1} has a non-numeric score ${JSON.stringify(score)}.`);
+      throw new UpdateEloError(`${tsvPath}:${lineNumber} has a non-numeric score ${JSON.stringify(score)}.`);
     }
     updates.set(model, score);
   }
