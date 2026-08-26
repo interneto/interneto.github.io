@@ -1,0 +1,313 @@
+:root {
+  --bg: #fff;
+  --bg-rgb: 255, 255, 255;
+  --fg: #212529;
+  --border: #ced4da;
+  --border-rgb: 206, 212, 218;
+  --muted: #6c757d;
+  --accent: #06b6d4;
+  --radius: 6px;
+}
+
+html[data-theme='dark'] {
+  --bg: #1a1a2e;
+  --bg-rgb: 26, 26, 46;
+  --fg: #f8f9fa;
+  --border: #495057;
+  --border-rgb: 73, 80, 87;
+  --muted: #adb5bd;
+  --accent: #22d3ee;
+}
+
+/* Scoped to this feature's own root — the bare `*`/`html, body` resets the
+   source repo used are safe there because that page owns the whole
+   document; here the same page also renders the site's nav bar and footer,
+   so an unscoped reset would strip their spacing too. */
+#llm-pricing-root,
+#llm-pricing-root *,
+#llm-pricing-root *::before,
+#llm-pricing-root *::after {
+  box-sizing: border-box;
+}
+
+#llm-pricing-root * {
+  margin: 0;
+  padding: 0;
+}
+
+#llm-pricing-root {
+  height: 100%;
+  overflow-x: hidden;
+  background: var(--bg);
+  color: var(--fg);
+  font-family: system-ui, sans-serif;
+  font-size: 14px;
+  scrollbar-width: none;
+  display: flex;
+  flex-direction: column;
+  padding: 10px 16px;
+}
+
+#llm-pricing-root::-webkit-scrollbar { display: none; }
+
+#controls {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-bottom: 10px;
+}
+
+#controls-top {
+  display: grid;
+  grid-template-columns: 1fr auto 1fr;
+  align-items: center;
+  gap: 12px;
+}
+
+#controls-left {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+#title-row {
+  display: contents; /* transparent on desktop — children slot into the grid normally */
+}
+
+#title-block {
+  text-align: center;
+}
+
+/* ── Mobile: stack into rows ── */
+@media (max-width: 540px) {
+  #llm-pricing-root { padding: 10px 12px; }
+
+  #controls { gap: 6px; margin-bottom: 8px; }
+
+  #controls-top {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+  }
+
+  /* title + ? on same row */
+  #title-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+  }
+
+  #title-block { text-align: left; }
+
+  /* select + filter full width */
+  #controls-left {
+    width: 100%;
+    gap: 8px;
+  }
+
+  #controls-left select { flex: 1; }
+  #controls-left #model  { flex: 2; width: auto; }
+}
+
+#controls-right {
+  display: flex;
+  justify-content: flex-end;
+  position: relative;
+}
+
+#info-btn {
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  border: 1.5px solid var(--border);
+  background: transparent;
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: 700;
+  cursor: pointer;
+  line-height: 1;
+  transition: border-color 0.15s, color 0.15s;
+}
+
+#info-btn:hover { border-color: var(--fg); color: var(--fg); }
+
+#info-popover[hidden] { display: none; }
+
+#info-popover {
+  position: absolute;
+  top: calc(100% + 6px);
+  right: 0;
+  width: min(360px, 90vw);
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  box-shadow: 0 6px 24px rgba(var(--border-rgb), 0.35);
+  padding: 14px 16px 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  font-size: 12px;
+  line-height: 1.6;
+  z-index: 100;
+}
+
+#info-popover a { color: var(--accent); text-decoration: underline; text-underline-offset: 2px; }
+#info-popover strong { font-weight: 600; }
+
+.info-meta {
+  font-size: 11px;
+  color: var(--muted);
+  border-top: 1px solid var(--border);
+  padding-top: 8px;
+  margin-top: 2px;
+}
+
+#controls-slider {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+#controls-slider input[type="range"] {
+  flex: 1;
+  height: 6px;
+  accent-color: var(--muted);
+  cursor: pointer;
+}
+
+#brand {
+  font-weight: 700;
+  font-size: 16px;
+  letter-spacing: -0.01em;
+  color: var(--fg);
+  line-height: 1.2;
+}
+
+#subtitle {
+  font-size: 11px;
+  color: var(--muted);
+  margin-top: 1px;
+}
+
+.legend {
+  white-space: nowrap;
+  font-size: 12px;
+  color: var(--muted);
+}
+
+#date-label {
+  white-space: nowrap;
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--muted);
+  min-width: 72px;
+}
+
+#llm-pricing-root select,
+#llm-pricing-root #model {
+  background: var(--bg);
+  color: var(--fg);
+  border: 1.5px solid var(--border);
+  border-radius: var(--radius);
+  padding: 6px 10px;
+  font-size: 14px;
+  outline: none;
+  transition: border-color 0.15s;
+}
+
+#llm-pricing-root select:focus,
+#llm-pricing-root #model:focus {
+  border-color: #0d6efd;
+}
+
+#llm-pricing-root select { cursor: pointer; }
+#model { width: 120px; }
+
+#chart-area {
+  flex: 1;
+  min-height: 400px;
+  margin-top: 10px;
+  overflow-x: auto;
+  overflow-y: hidden;
+}
+
+#llm-cost {
+  height: 100%;
+  min-height: 400px;
+  min-width: 360px;
+}
+
+@media (max-width: 540px) {
+  #chart-area {
+    overflow-x: scroll; /* force scrollbar track visible on iOS */
+    scrollbar-width: thin;
+    scrollbar-color: var(--border) transparent;
+  }
+  #chart-area::-webkit-scrollbar { height: 5px; display: block; }
+  #chart-area::-webkit-scrollbar-track { background: transparent; }
+  #chart-area::-webkit-scrollbar-thumb { background: var(--border); border-radius: 3px; }
+}
+
+#llm-cost > svg {
+  width: 100%;
+  display: block;
+}
+
+#scrolly-section { display: none; }
+
+/* scrolly styles kept for if/when re-enabled */
+.scrolly-step { height: 85vh; position: relative; }
+.scrolly-gap  { height: 40vh; }
+
+.scrolly-card {
+  position: sticky;
+  z-index: 50;
+  top: calc(0.75rem + 45vh);
+  max-width: 360px;
+  width: 38%;
+  min-width: 240px;
+  padding: 1.1rem 1.35rem 0.9rem;
+  border-radius: 14px;
+  backdrop-filter: blur(14px) saturate(1.6);
+  background: rgba(var(--bg-rgb), 0.18);
+  border: 1px solid rgba(var(--border-rgb), 0.35);
+  box-shadow: 0 8px 32px rgba(var(--border-rgb), 0.2);
+  font-size: 0.8rem;
+  line-height: 1.55;
+  opacity: 0;
+  transform: translateY(12px);
+  transition: opacity 0.45s ease, transform 0.45s ease;
+  margin-right: auto;
+}
+
+.scrolly-card.vert-top  { top: 4.75rem; }
+.scrolly-card.pos-right { margin-left: auto; margin-right: 0; }
+.scrolly-card.pos-center { margin-left: auto; margin-right: auto; }
+.scrolly-card.is-active { opacity: 1; transform: translateY(0); }
+
+.scrolly-card h6 {
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  margin-bottom: 0.5rem;
+  opacity: 0.75;
+}
+
+.scrolly-card p { margin-bottom: 0.55rem; }
+.scrolly-card p:last-child { margin-bottom: 0; }
+
+.scrolly-card .card-links {
+  margin-top: 0.6rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+}
+
+.scrolly-card .card-links a {
+  font-size: 0.72rem;
+  opacity: 0.8;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
