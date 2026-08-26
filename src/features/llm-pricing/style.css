@@ -1,22 +1,20 @@
+/* Reuse the site's VitePress theme tokens (defined in
+   public/styles/vitepress-base.css) so this chart inherits the same light/dark
+   palette as the rest of the page, rather than its own hardcoded colors. */
 :root {
-  --bg: #fff;
+  --bg: var(--vp-c-bg);
   --bg-rgb: 255, 255, 255;
-  --fg: #212529;
-  --border: #ced4da;
-  --border-rgb: 206, 212, 218;
-  --muted: #6c757d;
-  --accent: #06b6d4;
+  --fg: var(--vp-c-text-1);
+  --border: var(--vp-c-divider);
+  --border-rgb: 223, 227, 232;
+  --muted: var(--vp-c-text-3);
+  --accent: var(--vp-c-brand-1);
   --radius: 6px;
 }
 
 html[data-theme='dark'] {
-  --bg: #1a1a2e;
-  --bg-rgb: 26, 26, 46;
-  --fg: #f8f9fa;
-  --border: #495057;
-  --border-rgb: 73, 80, 87;
-  --muted: #adb5bd;
-  --accent: #22d3ee;
+  --bg-rgb: 17, 22, 29;
+  --border-rgb: 43, 52, 64;
 }
 
 /* Scoped to this feature's own root — the bare `*`/`html, body` resets the
