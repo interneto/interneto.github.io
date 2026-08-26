@@ -7,6 +7,7 @@
 //   node scripts/llm-pricing-update-elo.mjs <tsv-file> --column overall [--elo path] [--dry-run]
 
 import { resolve } from 'node:path';
+import { fileURLToPath } from 'node:url';
 import {
   UpdateEloError,
   applyUpdates,
@@ -74,6 +75,6 @@ async function main() {
   }
 }
 
-if (import.meta.url === `file://${process.argv[1]}`) {
+if (fileURLToPath(import.meta.url) === process.argv[1]) {
   await main();
 }
