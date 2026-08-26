@@ -71,6 +71,18 @@ const allTags = Array.from(
         </div>
       </section>
     ))}
+
+    <section class="vp-content-section" data-section="Tools" aria-label="Tools posts">
+      <h2 class="vp-content-section-title">Tools</h2>
+      <div class="vp-content-grid">
+        <ContentCard
+          href={`${BASE}blog/llm-pricing/`}
+          title="LLM Pricing"
+          description="Compare the cost and quality of large language models — an interactive chart, kept in sync with the LMArena leaderboards."
+          icon="📊"
+        />
+      </div>
+    </section>
   </div>
 
   <script is:inline>
