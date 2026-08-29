@@ -318,10 +318,13 @@ function setupToggleAllButton(): void {
     const lbl = getElement('TOGGLE_ALL_LABEL');
     if (!btn) return;
     let collapsed = true;
+    // Collapse-all is the default state on load.
+    btn.classList.add(CLASS_NAMES.COLLAPSED);
     if (lbl) lbl.textContent = 'Expand';
     btn.addEventListener('click', () => {
         collapsed = !collapsed;
         document.querySelectorAll('.' + CLASS_NAMES.CATEGORY).forEach(c => c.classList.toggle(CLASS_NAMES.COLLAPSED, collapsed));
+        btn.classList.toggle(CLASS_NAMES.COLLAPSED, collapsed);
         if (lbl) lbl.textContent = collapsed ? 'Expand' : 'Collapse';
     });
 }

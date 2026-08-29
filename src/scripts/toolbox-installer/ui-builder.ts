@@ -127,7 +127,7 @@ function createCategorySection(category: string, packagesData: PackagesData): HT
     Object.keys(subcategories)
         .sort((a, b) => a.toLowerCase().localeCompare(b.toLowerCase()))
         .forEach(subcategory => {
-            createSubcategorySection(categoryContent, subcategory, subcategories);
+            createSubcategorySection(category, categoryContent, subcategory, subcategories);
         });
 
     // Add click handler for category toggle (just toggle class, don't interfere with checkbox)
@@ -201,6 +201,7 @@ function handleResponsiveCategoryLayout(): void {
  * Create a subcategory section with its packages
  */
 function createSubcategorySection(
+    category: string,
     categoryContent: HTMLElement,
     subcategory: string,
     subcategories: Record<string, { key: string; info: PackageInfo }[]>
@@ -229,7 +230,7 @@ function createSubcategorySection(
             packageCheckbox.id = pkgKey;
             packageCheckbox.dataset.packageName = pkgInfo.name;
             packageCheckbox.classList.add(CLASS_NAMES.PACKAGE_CHECKBOX);
-            packageCheckbox.dataset.category = pkgInfo.category;
+            packageCheckbox.dataset.category = category;
             
             const packageImg = document.createElement('img');
             packageImg.classList.add('pkg-icon');
