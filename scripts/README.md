@@ -188,3 +188,33 @@ Current categories (19 total):
 - Items must be under `Apps/` folder to be processed
 - Descriptions in CATEGORY_DESCRIPTIONS are preserved across regenerations
 - Linting checks markdown formatting and typos
+
+## Refresh the LLM Pricing chart data
+
+```bash
+node scripts/llm-pricing-update.mjs
+```
+
+**What it does:**
+1. Scrapes the Overall, Hard, and Coding LMArena leaderboards
+   (`https://lmarena.ai/leaderboard/text*`) via Chrome DevTools Protocol
+   (or a launched headless Chromium if no CDP browser is available on
+   `localhost:9222`).
+2. Merges each into `src/data/llm-pricing/elo.csv`, backfilling
+   `cpmi`/`launch`/`source` from OpenRouter's public models API when blank.
+
+Set `LLMPRICING_CHROMIUM` to a Chrome/Chromium executable path if Playwright
+can't find one automatically. To update a single leaderboard view instead of
+all three:
+
+```bash
+node scripts/llm-pricing-download.mjs https://lmarena.ai/leaderboard/text /tmp/overall.tsv
+node scripts/llm-pricing-update-elo.mjs /tmp/overall.tsv --column overall
+```
+
+This is a Node port of the update tooling from
+[sanand0/llmpricing](https://github.com/sanand0/llmpricing) (specifically
+`download.py` and `scripts/update_elo.py`), the original source for this
+chart's data. See also
+[david7ce/llm-pricing](https://github.com/david7ce/llm-pricing), a fork that
+runs the same refresh independently.

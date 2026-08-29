@@ -59,6 +59,21 @@ const postSections: SidebarSection[] = POST_SECTIONS.map((section) => ({
   })),
 }));
 
+// Hand-written "Tools" section — LLM Pricing is a real Astro page, not a
+// markdown post in POST_SECTIONS, so it's listed here directly (mirrors the
+// hand-written "Tools" card on the blog index).
+postSections.push({
+  title: 'Tools',
+  items: [
+    {
+      text: 'LLM Pricing',
+      href: `${BASE}blog/llm-pricing/`,
+      icon: 'toolbox',
+      isActive: isPathActive(`${BASE}blog/llm-pricing/`),
+    },
+  ],
+});
+
 const mapItems: SidebarItem[] = [
   { text: 'Open Dashboard', href: `${BASE}map/`, icon: 'map', isActive: isPathActive(`${BASE}map/`) },
   { text: 'Classic View', href: `${BASE}map/?view=classic`, icon: 'map', isActive: false },

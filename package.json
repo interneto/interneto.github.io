@@ -15,8 +15,10 @@
   "dependencies": {
     "@astrojs/rss": "^4.0.19",
     "@astrojs/sitemap": "^3.7.3",
+    "@observablehq/plot": "^0.6.17",
     "astro": "^7.0.6",
-    "d3": "^7.9.0"
+    "d3": "^7.9.0",
+    "fuzzysort": "^4.0.2"
   },
   "devDependencies": {
     "@astrojs/check": "^0.9.9",

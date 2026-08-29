@@ -23,6 +23,7 @@ export const POST_SECTIONS: PostSection[] = [
     title: 'Articles',
     items: [
       { text: 'What Is Information?', slug: 'what-is-info' },
+      { text: 'Video Streaming Sites (FMHY)', slug: 'streaming-platforms' },
     ],
   },
 ];
