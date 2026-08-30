@@ -254,14 +254,6 @@
           ]
         },
         {
-          "name": "codebase-memory-mcp",
-          "display": "Codebase Memory MCP",
-          "badges": [
-            "modern",
-            "mcp"
-          ]
-        },
-        {
           "name": "@bytebase/dbhub",
           "display": "DBHub",
           "badges": [
@@ -483,6 +475,21 @@
         }
       ],
       "Tooling / Workflow": [
+        {
+          "name": "corepack",
+          "display": "Corepack (pnpm@11.24.0)",
+          "badges": [
+            "popular"
+          ]
+        },
+        {
+          "name": "codebase-memory-mcp",
+          "display": "Codebase Memory MCP",
+          "badges": [
+            "modern",
+            "mcp"
+          ]
+        },
         {
           "name": "commander",
           "display": "Commander.js",
