@@ -38,10 +38,36 @@ function isValidRowFolder(folderParts) {
   return folderParts.length >= 2 && folderParts[0] === 'Apps/Services'
 }
 
+function createNode() {
+  return { items: [], children: new Map() }
+}
+
+function addToTree(group, pathParts, item) {
+  if (!pathParts.length) {
+    group.items.push(item)
+    return
+  }
+
+  for (const part of pathParts.slice(0, -1)) {
+    if (!group.children.has(part)) {
+      group.children.set(part, createNode())
+    }
+    group = group.children.get(part)
+  }
+
+  const lastPart = pathParts[pathParts.length - 1]
+  if (!group.children.has(lastPart)) {
+    group.children.set(lastPart, createNode())
+  }
+  group.children.get(lastPart).items.push(item)
+}
+
 export {
   resolveInputCsvPath,
   safeUnlink,
   clearOutputDir,
   normalizeFolder,
-  isValidRowFolder
+  isValidRowFolder,
+  createNode,
+  addToTree
 }

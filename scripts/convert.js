@@ -18,7 +18,9 @@ import { renderGroupFile } from './lib/markdown-renderer.js'
 import {
   clearOutputDir,
   normalizeFolder,
-  isValidRowFolder
+  isValidRowFolder,
+  createNode,
+  addToTree
 } from './lib/utils.js'
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
@@ -32,30 +34,6 @@ function log(icon, message) {
 // ============================================================================
 // Core processing logic
 // ============================================================================
-
-function createNode() {
-  return { items: [], children: new Map() }
-}
-
-function addToTree(group, pathParts, item) {
-  if (!pathParts.length) {
-    group.items.push(item)
-    return
-  }
-
-  for (const part of pathParts.slice(0, -1)) {
-    if (!group.children.has(part)) {
-      group.children.set(part, createNode())
-    }
-    group = group.children.get(part)
-  }
-
-  const lastPart = pathParts[pathParts.length - 1]
-  if (!group.children.has(lastPart)) {
-    group.children.set(lastPart, createNode())
-  }
-  group.children.get(lastPart).items.push(item)
-}
 
 function processRowsIntoGroups(rows, groups) {
   let count = 0
