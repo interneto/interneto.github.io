@@ -9,6 +9,8 @@ import browserPkgs from "../../public/pkgs/browser-extensions-pkgs.json";
 import vscodePkgs from "../../public/pkgs/vscode-extensions-pkgs.json";
 import libPkgs from "../../public/pkgs/lib-pkgs.json";
 import webDirectory from "../../public/pkgs/app-directory.json";
+import bookmarks from "../../public/generated/bookmarks.json";
+import { formatCount } from "../lib/format-count";
 
 const BASE = (import.meta as any).env.BASE_URL.replace(/\/?$/, "/");
 
@@ -43,7 +45,7 @@ const webCount = (webDirectory as any).entries.length;
 
 const numberFmt = new Intl.NumberFormat("en-US");
 const stats = [
-  { value: categories.length, label: "Categories", sublabel: "~40k links" },
+  { value: categories.length, label: "Categories", sublabel: `${formatCount(bookmarks.length)} links` },
   { value: packageCount + webCount, label: "Toolbox", sublabel: `${numberFmt.format(packageCount)} pkgs + ${numberFmt.format(webCount)} web apps` },
   { value: posts.length, label: "Essays & guides" },
 ];

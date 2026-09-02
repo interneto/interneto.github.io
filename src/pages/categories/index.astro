@@ -2,8 +2,27 @@
 import { getCollection } from 'astro:content';
 import VPLayout from '../../layouts/VPLayout.astro';
 import ContentCard from '../../components/ContentCard.astro';
+import bookmarks from '../../../public/generated/bookmarks.json';
+import taxonomy from '../../../public/pkgs/taxonomy.json';
+import { formatCount } from '../../lib/format-count';
 
 const BASE = import.meta.env.BASE_URL.replace(/\/?$/, '/');
+
+const countByCategory: Record<string, number> = {};
+for (const b of bookmarks) {
+  countByCategory[b.category] = (countByCategory[b.category] ?? 0) + 1;
+}
+
+const MAX_SUBCATEGORIES = 6;
+const subcategoriesByCategory: Record<string, string[]> = {};
+for (const c of taxonomy.categories) {
+  const subs = c.subcategories?.length ? c.subcategories : (c.children?.map((ch) => ch.name) ?? []);
+  subcategoriesByCategory[c.id] =
+    subs.length > MAX_SUBCATEGORIES
+      ? [...subs.slice(0, MAX_SUBCATEGORIES), `+${subs.length - MAX_SUBCATEGORIES} more`]
+      : subs;
+}
+
 const allDocs = await getCollection('categories');
 const cleanSlug = (id: string) => id.replace(/\.md$/i, '');
 const HIDDEN_CATEGORY_PATTERN = /nsfw(?:-content)?/i;
@@ -65,6 +84,8 @@ const docs = allDocs
             title={entry.data.title ?? slug}
             description={entry.data.description ?? ''}
             icon={categoryIcons[slug] ?? '📚'}
+            count={`${formatCount(countByCategory[slug] ?? 0)} links`}
+            tags={subcategoriesByCategory[slug] ?? []}
           />
         );
       })}

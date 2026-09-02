@@ -5,15 +5,19 @@ export interface Props {
   description?: string;
   icon?: string;
   tags?: string[];
+  count?: string;
 }
 
-const { href, title, description, icon, tags = [] } = Astro.props;
+const { href, title, description, icon, tags = [], count } = Astro.props;
 ---
 
 <a href={href} class="vp-content-card" data-tags={tags.join(',')}>
   <div class="vp-content-card-head">
     {icon && <span class="vp-content-card-icon" aria-hidden="true">{icon}</span>}
-    <h2 class="vp-content-card-title">{title}</h2>
+    <div class="vp-content-card-title-row">
+      <h2 class="vp-content-card-title">{title}</h2>
+      {count && <span class="vp-content-card-count">{count}</span>}
+    </div>
   </div>
   {description && <p class="vp-content-card-description">{description}</p>}
   {tags.length > 0 && (

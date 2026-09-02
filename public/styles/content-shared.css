@@ -40,6 +40,7 @@
 .vp-content-grid {
   display: grid;
   grid-template-columns: 1fr;
+  align-items: start;
   gap: 1rem;
 }
 
@@ -105,12 +106,28 @@
   transform: translateY(-0.15em);
 }
 
+.vp-content-card-title-row {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.5rem;
+  min-width: 0;
+}
+
 .vp-content-card-title {
   font-size: 1.1rem;
   font-weight: 600;
   color: var(--vp-c-text-1);
   margin: 0;
   line-height: 1.25;
+}
+
+.vp-content-card-count {
+  flex-shrink: 0;
+  font-size: 0.75rem;
+  font-weight: 500;
+  color: var(--vp-c-text-2);
+  white-space: nowrap;
 }
 
 .vp-content-card:hover .vp-content-card-title {
