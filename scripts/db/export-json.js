@@ -16,7 +16,7 @@ export function exportJson(db) {
         (SELECT GROUP_CONCAT(url, char(1)) FROM (SELECT url FROM source_code_urls WHERE bookmark_id = b.id ORDER BY rowid)) AS source_urls
       FROM bookmarks b
       WHERE b.removed_at IS NULL
-      ORDER BY b.category, b.title COLLATE NOCASE
+      ORDER BY b.category, b.title COLLATE NOCASE, b.raindrop_id
     `)
     .all()
 

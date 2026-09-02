@@ -14,6 +14,7 @@ export function getDb(dbPath = DEFAULT_DB_PATH) {
     fs.mkdirSync(path.dirname(dbPath), { recursive: true })
   }
   const db = new DatabaseSync(dbPath)
+  db.exec('PRAGMA foreign_keys = ON')
   const schema = fs.readFileSync(SCHEMA_PATH, 'utf8')
   db.exec(schema)
   return db

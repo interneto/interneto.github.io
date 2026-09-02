@@ -15,6 +15,7 @@
     "db:import": "node scripts/db/import.js",
     "db:validate": "node scripts/db/validate.js",
     "db:export": "node scripts/db/export-markdown.js && node scripts/db/export-json.js",
+    "db:test": "node --test \"scripts/db/**/*.test.js\"",
     "sync": "node scripts/db/import.js && node scripts/db/validate.js && node scripts/db/export-markdown.js && node scripts/db/export-json.js"
   },
   "dependencies": {

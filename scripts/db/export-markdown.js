@@ -22,6 +22,11 @@ export function exportMarkdown(db, outputDir) {
   // GROUP_CONCAT+JOIN — SQLite satisfies that join via the (bookmark_id, url)
   // primary key index and returns urls alphabetically, which silently reorders
   // them relative to import order and breaks parity with convert.js's parse-order.
+  // ORDER BY b.id: without an explicit order, row order is whatever SQLite's
+  // query planner picks (currently a rowid scan, but that's incidental — an
+  // index added later on removed_at could change it) and would silently
+  // reorder subheadings between runs. Same class of bug as the GROUP_CONCAT
+  // fix above, just for the outer query instead of the source-urls subquery.
   const rows = db
     .prepare(`
       SELECT b.*, (
@@ -31,6 +36,7 @@ export function exportMarkdown(db, outputDir) {
       ) AS source_urls
       FROM bookmarks b
       WHERE b.removed_at IS NULL
+      ORDER BY b.id
     `)
     .all()
 
