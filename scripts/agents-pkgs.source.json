@@ -200,6 +200,26 @@
         "MCP"
       ]
     },
+    "aws-mcp": {
+      "name": "AWS MCP Server",
+      "type": "MCP Server",
+      "category": "Cloud/DevOps",
+      "agent_compat": {
+        "claude": true,
+        "codex": false,
+        "copilot": false
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude mcp add-json aws-mcp --scope user '{\"command\":\"uvx\",\"args\":[\"mcp-proxy-for-aws==1.6.0\",\"https://aws-mcp.us-east-1.api.aws/mcp\",\"--metadata\",\"AWS_REGION=us-west-2\"]}'"
+        }
+      ],
+      "url": "https://aws-mcp.us-east-1.api.aws/mcp",
+      "tags": [
+        "MCP"
+      ]
+    },
     "blender-mcp": {
       "name": "Blender MCP",
       "type": "Plugin/Skill",
@@ -753,6 +773,34 @@
         }
       ],
       "url": "https://mcp.exa.ai/mcp",
+      "tags": [
+        "MCP"
+      ]
+    },
+    "excalidraw": {
+      "name": "Excalidraw MCP",
+      "type": "MCP Server",
+      "category": "Design",
+      "agent_compat": {
+        "claude": true,
+        "codex": true,
+        "copilot": true
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "claude mcp add --transport http excalidraw https://mcp.excalidraw.com"
+        },
+        {
+          "agent": "codex",
+          "cmd": "codex mcp add excalidraw --url https://mcp.excalidraw.com"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "copilot mcp add --transport http excalidraw https://mcp.excalidraw.com"
+        }
+      ],
+      "url": "https://mcp.excalidraw.com",
       "tags": [
         "MCP"
       ]
