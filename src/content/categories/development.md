@@ -5,7 +5,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 
 # Development
 
-**Total Bookmarks:** 2636
+**Total Bookmarks:** 2646
 
 - [Adobe Open Source](https://opensource.adobe.com/)
 - [Asterisk](https://www.asterisk.org/)
@@ -70,6 +70,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [SiSoftware](https://www.sisoftware.co.uk/)
 - [Special K](https://www.special-k.info/)
 - [SpeedFan](http://www.almico.com/speedfan.php)
+- [sunblaze-ucb/exploitgym: ExploitGym is a large-scale, realistic benchmark built from real-world vulnerabilities designed to evaluate AI agents' ability to develop exploits.](https://github.com/sunblaze-ucb/exploitgym)
 - [Tencent-Hunyuan/AutoCodeBenchmark](https://github.com/Tencent-Hunyuan/AutoCodeBenchmark)
 - [UL Benchmarks](https://benchmarks.ul.com/)
 - [UNIGINE Benchmarks](https://benchmark.unigine.com/)
@@ -265,7 +266,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 ### DBMS
 - ⭐ **[Microsoft - SQL Server Downloads](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)**
 - ⭐ **[PostgreSQL](https://www.postgresql.org/)**
-- [Apache Cassandra](https://cassandra.apache.org/_/index.html)
+- [Apache Cassandra](https://cassandra.apache.org/_/index.html) / [🔗](https://github.com/apache/cassandra)
 - [Apache CouchDB](https://couchdb.apache.org/)
 - [Arango - Contextual Data Layer for Enteprise AI](https://arango.ai/)
 - [Axisbase.com](http://www.axisbase.com/)
@@ -430,6 +431,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [Orckestra - C1 CMS](https://c1.orckestra.com/)
 - [Pickit](https://www.pickit.com/)
 - [Plone CMS](https://plone.org/)
+- [PrestaShop Project - Open Source e-Commerce platform](https://www.prestashop-project.org/) / [🔗](https://github.com/PrestaShop/prestaShop/)
 - [Primo](https://primocms.org/)
 - [ProcessWire CMS](https://processwire.com/)
 - [Productboard](https://www.productboard.com/)
@@ -1047,6 +1049,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 
 ### Browser extension
 - ⭐ **[Tampermonkey](https://www.tampermonkey.net/)**
+- [AI Energy Tracker - Chrome Web Store](https://chromewebstore.google.com/detail/ai-energy-tracker/hhilnlhaojghiniihhppiecjkjphpnlo)
 - [Andrews54757/FastStream: Stream videos without buffering in the browser](https://github.com/Andrews54757/FastStream/)
 - [animeshkundu/youtube-audio · GitHub](https://github.com/animeshkundu/youtube-audio)
 - [Augmented Steam](https://augmentedsteam.com/)
@@ -1339,7 +1342,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [Strattic](https://www.strattic.com/)
 - [TranslatePress](https://translatepress.com/)
 - [VideoPress](https://videopress.com/)
-- [WooCommerce](https://woo.com/)
+- [WooCommerce](https://woocommerce.com/)
 - [WordPress VIP](https://wpvip.com/)
 - [WP Engine](https://wpengine.com/)
 - [Wp PDF](https://wp-pdf.com/)
@@ -1946,6 +1949,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [Armory 3D](https://armory3d.org/)
 - [Bevy Engine](https://bevy.org/) / [🔗](https://github.com/bevyengine/bevy)
 - [bladecoder/bladecoder-adventure-engine · GitHub](https://github.com/bladecoder/bladecoder-adventure-engine)
+- [Box2D](https://box2d.org/) / [🔗](https://github.com/erincatto)
 - [Buildbox](https://www.buildbox.com/)
 - [Bullet Real-Time Physics Simulation](https://pybullet.org/wordpress/)
 - [cheat-engine/cheat-engine · GitHub](https://github.com/cheat-engine/cheat-engine)
@@ -1957,6 +1961,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [Ebitengine - A dead simple 2D game engine for Go](https://ebitengine.org/)
 - [enable3d • 3D for Web, Mobile and PC](https://enable3d.io/)
 - [Engines Database](https://enginesdatabase.com/)
+- [Erincatto/box3d: Box3D is a 3D physics engine for games · GitHub](https://github.com/erincatto/box3d)
 - [Falco 3D Engine - Game Engine](https://falco3d.com/)
 - [Felgo](https://felgo.com/)
 - [Flame engine](https://flame-engine.org/)
@@ -2494,6 +2499,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [microsoft/terminal · GitHub](https://github.com/microsoft/terminal)
 - [MobaXterm](https://mobaxterm.mobatek.net/)
 - [MS WSL](https://docs.microsoft.com/en-us/windows/wsl/)
+- [Otty — A native, beautiful terminal app](https://otty.sh/)
 - [PuTTY: a free SSH and Telnet client](https://www.chiark.greenend.org.uk/~sgtatham/putty/)
 - [Ratty — A GPU-rendered terminal emulator with inline 3D graphics 🐀🧀](https://ratty-term.org/) / [🔗](https://github.com/orhun/ratty)
 - [RMUX - The Multiplexer Engine for Agents](https://rmux.io/)
@@ -2704,6 +2710,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [Dillinger - Online Markdown Editor](https://dillinger.io/)
 - [DrWrite (Online editor for Dropbox)](https://github.com/ryanpcmcquen/DrWrite)
 - [Editor.md - Ipandao](http://editor.md.ipandao.com/)
+- [erictli/scratch: A minimalist, offline-first markdown note-taking app](https://github.com/erictli/scratch)
 - [fabiocolacio/Marker · GitHub](https://github.com/fabiocolacio/Marker)
 - [GNOME / Apostrophe · GitLab](https://gitlab.gnome.org/World/apostrophe/)
 - [gsantner/markor · GitHub](https://github.com/gsantner/markor)
@@ -2756,6 +2763,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [Helix](https://helix-editor.com/)
 - [Heynote](https://heynote.com/)
 - [ibara/mg: OpenBSD Mg editor](https://github.com/ibara/mg)
+- [Incise — A precise text editor, native to the Mac.](https://incise.dev/)
 - [jEdit](http://www.jedit.org/)
 - [Joe's Own Editor](https://joe-editor.sourceforge.io/)
 - [Kakoune](https://kakoune.org/)
@@ -2825,6 +2833,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [XML Editor, XML Tools, and XQuery - Stylus Studio](https://www.stylusstudio.com/)
 
 ## Version control system
+- ⭐ **[Jujutsu docs](https://www.jj-vcs.dev/latest/)** / [🔗](https://github.com/jj-vcs/jj)
 - [Apache Allura](https://allura.apache.org/)
 - [Apache Subversion](https://subversion.apache.org/)
 - [BitKeeper](https://www.bitkeeper.org/)
@@ -2835,15 +2844,16 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [Fossil](https://fossil-scm.org/home/doc/trunk/www/index.wiki)
 - [Git](https://git-scm.com/) / [🔗](https://github.com/git/git)
 - [Git Large File Storage](https://git-lfs.com/)
-- [Jujutsu docs](https://www.jj-vcs.dev/latest/) / [🔗](https://github.com/jj-vcs/jj)
 - [Kallithea](https://kallithea-scm.org/)
 - [libgit2](https://libgit2.org/)
 - [Lore: next-generation open source version control](https://lore.org/) / [🔗](https://github.com/EpicGames/lore)
 - [Mercurial SCM](https://www.mercurial-scm.org/)
 - [monotone](https://www.monotone.ca/)
+- [Perforce P4: Version Control that Scales With Your Team](https://www.perforce.com/products/helix-core)
 - [Pijul](https://pijul.org/)
 - [Plastic SCM](https://www.plasticscm.com/)
 - [RabbitVCS](http://rabbitvcs.org/)
+- [Sapling - Sapling from Meta](https://sapling-scm.com/) / [🔗](https://github.com/ezyang/ghstack)
 - [SmartSVN – SVN Client](https://www.smartsvn.com/)
 - [Snowtrack.io](https://www.snowtrack.io/)
 - [snowtrack/snowfs · GitHub](https://github.com/snowtrack/snowfs)

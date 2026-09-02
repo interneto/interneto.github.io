@@ -5,7 +5,7 @@ description: Email, messaging, forums, social networks, and video conferencing
 
 # Social & Communications
 
-**Total Bookmarks:** 1414
+**Total Bookmarks:** 1418
 
 
 ## 2FA
@@ -122,6 +122,7 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [inbasic/turbo-download-manager-v2](https://github.com/inbasic/turbo-download-manager-v2)
 - [KGet](https://apps.kde.org/kget/)
 - [LFTP - sophisticated file transfer program](https://lftp.yar.ru/)
+- [LinkSnappy - Get your files as a premium user from all hosts!](https://linksnappy.com/home)
 - [MateusRodCosta/SaveLocally: Save files locally via the share menu](https://github.com/MateusRodCosta/SaveLocally)
 - [NeoDownloader: web image downloader](https://www.neodownloader.com/)
 - [pyLoad](https://pyload.net/) / [🔗](https://github.com/pyload/pyload)
@@ -436,6 +437,7 @@ description: Email, messaging, forums, social networks, and video conferencing
 - ⭐ **[Lookyloo/lookyloo · GitHub](https://github.com/Lookyloo/lookyloo)**
 - ⭐ **[Webrecorder](https://webrecorder.net/)**
 - ⭐ **[Website Copier](https://websitecopier.net/)**
+- [AhmadIbrahiim/Website-downloader: 💡 Download the complete source code of any website (including all assets). \[ Javascripts, Stylesheets, Images \] using Node.js](https://github.com/AhmadIbrahiim/Website-downloader)
 - [ArchiveTeam/grab-site · GitHub](https://github.com/ArchiveTeam/grab-site)
 - [ArchiveTeam/wpull · GitHub](https://github.com/ArchiveTeam/wpull)
 - [aria2/aria2 · GItHub](https://github.com/aria2/aria2)
@@ -481,7 +483,7 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [BlueMail](https://bluemail.me/)
 - [ClamAVNet](https://www.clamav.net/) / [🔗](https://github.com/rybbit-io/rybbit)
 - [e4ward.com](https://e4ward.com/)
-- [Fastmail](https://www.fastmail.com/)
+- [Fastmail - Email and calendar made better](https://www.fastmail.com/)
 - [Gmail](https://mail.google.com/mail/u/0#inbox)
 - [GMass](https://www.gmass.co/)
 - [GMX](https://www.gmx.com/)
@@ -580,13 +582,14 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [TypeApp](https://typeapp.com/)
 - [vladimiry/ElectronMail · GitHub](https://github.com/vladimiry/ElectronMail/)
 - [Zero email](https://0.email/)
-- [Zimbra | Private email & Collaboration](https://www.zimbra.com/)
+- [Zimbra | Private email & Collaboration](https://www.zimbra.com/) / [🔗](https://github.com/Zimbra)
 
 ## Social Network
 - [Douban](https://www.douban.com/)
 - [Glasp](https://glasp.co/login)
 - [Hacoo - Sharing Discovering & Inspiring](https://www.hacoo.app/)
 - [Kuaishou](https://www.kuaishou.com/new-reco)
+- [mu · a mew social thing](https://hello.mu.social/) / [🔗](https://github.com/eurosky-social/eurosky-social-app)
 - [SEEK - Australia's no. 1 jobs, employment, career and recruitment site](https://www.seek.com.au/)
 
 ### Social Net (frontend)
@@ -1067,6 +1070,7 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [Xfce Forums](https://forum.xfce.org/)
 
 ### Instant messaging
+- ⭐ **[bitchat](https://bitchat.free/)** / [🔗](https://github.com/permissionlesstech/bitchat)
 - ⭐ **[Briar - Secure messaging, anywhere](https://briarproject.org/)**
 - ⭐ **[Discord - Group Chat That's All Fun & Games](https://discord.com/)**
 - ⭐ **[SimpleX Chat](https://simplex.chat/)**
@@ -1074,7 +1078,6 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [Adium](https://adium.im/)
 - [balzack/databag · GitHub](https://github.com/balzack/databag)
 - [Berty.tech](https://berty.tech/)
-- [bitchat](https://bitchat.free/) / [🔗](https://github.com/permissionlesstech/bitchat)
 - [BlueBubbles - iMessage](https://bluebubbles.app/)
 - [Brax.Me](https://brax.me/)
 - [Bridgefy – Offline Messages App & SDK](https://bridgefy.me/)
@@ -1488,7 +1491,7 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [PkgBrowser - OSDN](https://osdn.net/projects/pkgbrowser/)
 - [Plasma / Discover · GitLab](https://invent.kde.org/plasma/discover)
 - [RudraSwat/modren: A modern store for Linux users](https://github.com/rudraswat/modren)
-- [Shelly - Modern Arch Linux Package Manager](https://shellyalpm.com/index.html) / [🔗](https://github.com/Seafoam-Labs/Shelly-ALPM)
+- [Shelly - Modern Arch Linux Package Manager](https://www.seafoam-labs.org/shelly-alpm) / [🔗](https://github.com/Seafoam-Labs/Shelly-ALPM)
 - [shundhammer/myrlyn: Myrlyn package manager GUI for Linux](https://github.com/shundhammer/myrlyn)
 - [Sparkle project](https://sparkle-project.org/)
 - [SUMo - KC Softwares](https://kcsoftwares.com/index.php?sumo)
@@ -1518,6 +1521,7 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [conda-forge | community driven packaging for conda](https://conda-forge.org/)
 - [crates.io: Rust Package Registry](https://crates.io/)
 - [DNF (package manager)](https://dnf.readthedocs.io/en/latest/index.html#)
+- [Droid-ify - Clutterfree F-Droid Client](https://droidify.app/)
 - [Flatpak](https://www.flatpak.org/)
 - [Fleek - Own Your $HOME](https://getfleek.dev/)
 - [freshrpms.net](https://freshrpms.net/)

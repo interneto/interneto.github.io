@@ -5,9 +5,10 @@ description: Workouts, wellness, and health tracking
 
 # Health & Fitness
 
-**Total Bookmarks:** 333
+**Total Bookmarks:** 339
 
 - [Alma: Your Nutrition Companion | Track, Learn & Discover Food](https://www.alma.food/)
+- [Barbell Medicine: Science-Based Coaching & Nutrition](https://www.barbellmedicine.com/)
 - [brandonp2412/Flexify · GitHub](https://github.com/brandonp2412/Flexify?tab=readme-ov-file)
 - [CommonHealth - Manage Your Health Data](https://www.commonhealth.org/)
 - [diegopvlk/Dosage: Medication tracker for Linux](https://github.com/diegopvlk/Dosage)
@@ -19,13 +20,14 @@ description: Workouts, wellness, and health tracking
 - [Workrave](https://workrave.org/)
 
 ## Anatomy
+- ⭐ **[AnatomyLearning – By Dr. R. Blanco Salado](https://anatomylearning.com/)**
+- ⭐ **[The Open Anatomy Project](https://www.openanatomy.org/)**
 - ⭐ **[Visible Body - Virtual Anatomy to See Inside the Human Body](https://www.visiblebody.com/)**
 - [3D Organon - The Leading XR Medical Anatomy Platform](https://www.3dorganon.com/)
 - [4D Anatomy](https://www.4danatomy.com/)
 - [Anatomical Structures | AnatomyTOOL](https://anatomytool.org/)
 - [Anatomy 3D Atlas](https://www.anatomy3datlas.com/)
 - [Anatomy.app | 3D models, articles, and quizzes](https://anatomy.app/)
-- [AnatomyLearning](https://anatomylearning.com/)
 - [Anatomyou VR](https://anatomyou.com/)
 - [BioDigital | Interactive 3D Anatomy](https://www.biodigital.com/)
 - [Complete Anatomy - advanced 3D anatomy platform](https://3d4medical.com/)
@@ -33,7 +35,6 @@ description: Workouts, wellness, and health tracking
 - [Kenhub - Learn Anatomy](https://www.kenhub.com/)
 - [PocketAnatomy - Medical Anatomy Software](https://www.pocketanatomy.com/)
 - [Primal Pictures | 3D Anatomy Software](https://www.primalpictures.com/)
-- [The Open Anatomy Project](https://www.openanatomy.org/)
 - [VOKA Anatomy Pro](https://voka.io/)
 - [Zygote Body 3D Anatomy | Human Anatomy 3D](https://www.zygotebody.com/)
 
@@ -245,6 +246,7 @@ description: Workouts, wellness, and health tracking
 ### Bodybuilding
 - [Bodybuilding](https://www.bodybuilding.com/en-ES/index)
 - [Muscle & Strength](https://www.muscleandstrength.com/)
+- [Strength Level - Weightlifting Calculator (Bench/Squat/Deadlift)](https://strengthlevel.com/)
 
 ### Fitness app
 - ⭐ **[Workout Cool](https://workout.cool/)**
@@ -270,8 +272,10 @@ description: Workouts, wellness, and health tracking
 - [Fitness.daily](https://fitnessdaily.online/)
 - [Fitness22](https://www.fitness22.com/)
 - [Foroatletismo](https://www.foroatletismo.com/)
+- [GOWOD - Personalized Mobility & Stretching For Every Sport](https://www.gowod.app/)
 - [Gym Virtual](http://gymvirtual.com/)
 - [Haga Calentamiento](http://www.hagacalentamiento.com/)
+- [Intervals.icu - Free Cycling, Running, Triathlon Training Platform](https://www.intervals.icu/)
 - [JustFit App: At-Home Workouts & Fitness Programs for Women](https://justfit.app/)
 - [LiftLog - The Best Open Source Workout Tracker](https://liftlog.online/)
 - [MadMuscles - Personalized workout program](https://madmuscles.com/)
@@ -281,6 +285,7 @@ description: Workouts, wellness, and health tracking
 - [MySports App – MySports Member Platform](https://www.mysports.com/business/de/?utm_source=duckduckgo&utm_medium=referral)
 - [NeuroNation](https://www.neuronation.com/)
 - [petergardfjall/garminexport: Garmin Connect activity exporter and backup tool](https://github.com/petergardfjall/garminexport)
+- [pliability // #1 mobility, stretching + recovery app](https://pliability.com/)
 - [RDFit SmartWatch App](https://rdfit.net/)
 - [Running Trainer](http://www.runningtrainer.com/)
 - [Simpledesign.ltd](https://simpledesign.ltd/)
@@ -291,6 +296,7 @@ description: Workouts, wellness, and health tracking
 - [VOS.health - Mental Health App](https://www.vos.health/en/)
 - [Wahoo Fitness | Shop Indoor Bikes, Bike Trainers, & More](https://www.wahoofitness.com/)
 - [Walk at Home](https://walkathome.com/)
+- [wger](https://wger.de/en/software/features) / [🔗](https://github.com/wger-project/wger)
 - [Zeopoxa](https://www.zeopoxa.com/)
 - [Zero Fasting](https://www.zerofasting.com/)
 - [Zombies, Run!](https://zrx.app/)

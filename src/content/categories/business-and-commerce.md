@@ -5,7 +5,7 @@ description: Stores, marketplaces, product research, and resale
 
 # Business & Commerce
 
-**Total Bookmarks:** 5050
+**Total Bookmarks:** 5052
 
 
 ## Corporation
@@ -2751,6 +2751,7 @@ description: Stores, marketplaces, product research, and resale
 - [Comscore](https://www.comscore.com/)
 - [CoTech](https://www.coops.tech/)
 - [DataMiner](https://www.dataminer.co/)
+- [Dayvo Sistemas - Agencia de Marketing Digital y Diseño Web](https://dayvo.com/)
 - [Ditto - Release Your Music](https://dittomusic.com/en)
 - [EthicalAds](https://www.ethicalads.io/)
 - [Four Nine Design](https://www.fourninedesign.com/)
@@ -3359,7 +3360,7 @@ description: Stores, marketplaces, product research, and resale
 - [Safelayer](https://www.safelayer.com/es)
 - [Sectra Communications - Secure communication. Trusted since 1978.](https://communications.sectra.com/)
 - [Shielder](https://www.shielder.com/)
-- [Snyk](https://snyk.io/)
+- [Snyk AI Security Fabric | Secure Code, Models & Agents](https://snyk.io/)
 - [Sontiq](https://www.sontiq.com/)
 - [SSH.com](https://www.ssh.com/)
 - [Sucuri](https://sucuri.net/)
@@ -3962,6 +3963,7 @@ description: Stores, marketplaces, product research, and resale
 ###### VR company
 - [Bigscreen Beyond - The world's smallest VR headset](https://www.bigscreenvr.com/)
 - [Magic Leap](https://www.magicleap.com/en-us)
+- [Monako.ai](https://www.monako.ai/)
 - [Nreal.ai](https://www.nreal.ai/)
 - [Oculus](https://www.oculus.com/)
 - [SimulaVR](https://simulavr.com/)

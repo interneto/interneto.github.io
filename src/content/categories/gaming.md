@@ -5,7 +5,7 @@ description: Games, launchers, emulators, and gaming utilities
 
 # Gaming
 
-**Total Bookmarks:** 726
+**Total Bookmarks:** 729
 
 - [2048 - Apps on Google Play](https://play.google.com/store/apps/details?id=com.tpcstld.twozerogame)
 - [Anuken/Mindustry: The automation tower defense RTS](https://github.com/Anuken/Mindustry)
@@ -367,6 +367,7 @@ description: Games, launchers, emulators, and gaming utilities
 - [Bethesda Launcher](https://bethesda.net/en/games/home)
 - [Blizzard Entertainment](https://www.blizzard.com/en-us/apps/battle.net/desktop)
 - [Crankshaft - Steam Plugin Framework](https://crankshaft.space/)
+- [dekomote/vermouth: A game and app launcher for Linux - native, Windows, and retro. KDE-first, lightweight, no frills](https://github.com/dekomote/vermouth)
 - [ElyPrismLauncher · Home](https://elyprismlauncher.github.io/) / [🔗](https://github.com/ElyPrismLauncher/ElyPrismLauncher)
 - [Epic Games](https://store.epicgames.com/en-US/)
 - [Faugus/faugus-launcher: A simple and lightweight app for running Windows games using UMU-Launcher](https://github.com/Faugus/faugus-launcher)
@@ -746,6 +747,7 @@ description: Games, launchers, emulators, and gaming utilities
 - [WinStars 3](https://winstars.net/)
 - [Worlds.com](http://worlds.com/)
 - [X-Plane 11 Flight Simulator](https://www.x-plane.com/)
+- [your ai slop bores me](https://youraislopbores.me/)
 
 ## Sports games
 - [Comunio World Cup](https://www.comunio.com/welcome)
@@ -790,6 +792,7 @@ description: Games, launchers, emulators, and gaming utilities
 - [Google Feud Game](https://www.googlefeud.com/)
 - [GuessTheGame - Your daily video game guessing puzzle!](https://guessthe.game/)
 - [Hangman Online - Play Hangman Games](https://www.hangman.io/)
+- [LinkedIn or Interpol - The Game](https://linkedin-or-interpol.com/)
 - [Play Hangman Game](http://www.playhangman.com/)
 - [Play More or Less Game! - The next generation of Higher or Lower!](https://moreorless.io/)
 - [The Higher Lower Game](http://www.higherlowergame.com/)

@@ -57,6 +57,25 @@ node scripts/lint-markdown.js
 
 Runs markdown linting on generated files.
 
+### SQLite mirror (db:*, sync)
+
+```bash
+pnpm run db:init      # create data/bookmarks.db + apply schema (idempotent)
+pnpm run db:import    # CSV -> SQLite upsert; soft-deletes rows missing from the CSV, never hard-deletes
+pnpm run db:validate  # check every bookmark's category resolves in public/pkgs/taxonomy.json
+pnpm run db:export    # SQLite -> src/content/categories/*.md + public/generated/bookmarks.json
+pnpm run sync         # import -> validate -> export, in order
+```
+
+`data/bookmarks.db` is gitignored and fully rebuildable from the CSV — delete it and re-run
+`db:import` any time. `public/generated/bookmarks.json` is committed so its Git history is a
+diffable changelog of the underlying data.
+
+`scripts/convert.js` (the original CSV -> Markdown converter) still works standalone and its
+output stays byte-identical to `db:export`'s markdown output — `scripts/db/export-markdown.js`
+shares the same tree-building helpers (`scripts/lib/utils.js`) and the same renderer
+(`scripts/lib/markdown-renderer.js`).
+
 ## Configuration
 
 ### `config/categories.js`

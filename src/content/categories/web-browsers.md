@@ -5,7 +5,7 @@ description: Browsers and browser-related tools
 
 # Web Browsers
 
-**Total Bookmarks:** 139
+**Total Bookmarks:** 140
 
 - [Arc from The Browser Company](https://arc.net/)
 - [Brow.sh](https://www.brow.sh/)
@@ -18,6 +18,7 @@ description: Browsers and browser-related tools
 - [Glide](https://glide-browser.app/) / [🔗](https://github.com/glide-browser/glide)
 - [Gosub Web Browser Engine](https://gosub.io/)
 - [Perplexity Comet](https://comet.perplexity.ai/)
+- [PocketJS — Bare Metal Modern Web](https://pocketjs.dev/) / [🔗](https://github.com/pocket-stack/pocketjs)
 - [Polypane, The browser for ambitious developers](https://polypane.app/)
 - [suprow – Lightweight browser for web apps](https://suprow.app/)
 - [Surfinite](https://surfinite.com/en/)
@@ -88,7 +89,7 @@ description: Browsers and browser-related tools
 - [Yandex Browser](https://browser.yandex.com/)
 
 ## Firefox-based
-- ⭐ **[LibreWolf Browser](https://librewolf.net/)**
+- ⭐ **[LibreWolf Browser](https://librewolf.net/)** / [🔗](https://codeberg.org/librewolf/source)
 - ⭐ **[Mozilla Firefox](https://www.firefox.com/en-US/)** / [🔗](https://github.com/mozilla-firefox/firefox)
 - ⭐ **[Tor Project - Anonymity online](https://www.torproject.org/)**
 - ⭐ **[Zen Browser](https://www.zen-browser.app/)**

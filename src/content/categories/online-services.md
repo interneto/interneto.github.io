@@ -5,7 +5,7 @@ description: Search engines, web directories, software directories, corporations
 
 # Online Services
 
-**Total Bookmarks:** 5682
+**Total Bookmarks:** 5691
 
 
 ## Biography
@@ -216,6 +216,7 @@ description: Search engines, web directories, software directories, corporations
 ### API Database
 - ⭐ **[TheMealDB.com - Free recipe API and database](https://www.themealdb.com/)**
 - [API Platform](https://api-platform.com/)
+- [APIs.io - API Search](https://apis.io/)
 - [Edamam - Food Database API, Nutrition API and Recipe API](https://www.edamam.com/)
 - [fatsecret Platform - Global Food & Nutrition Data for Apps, Websites and Brands](https://platform.fatsecret.com/)
 - [Food APIs](https://rapidapi.com/collection/food-apis)
@@ -1299,11 +1300,9 @@ description: Search engines, web directories, software directories, corporations
 - [Web3xplorer](https://www.web3xplorer.com/)
 
 ##### App distribution
+- ⭐ **[Meta Quest Store](https://www.meta.com/en-us/experiences/)**
 - [AppAgg — Apps, Games, Discounts, Lists, Search, RSS+](https://appagg.com/?hl=en)
 - [FileCR - THE BIGGEST SOFTWARE STORE](https://filecr.com/us-en/)
-
-###### Extra software distribution
-- ⭐ **[Meta Quest Store](https://www.meta.com/en-us/experiences/)**
 - [Malavida](https://www.malavida.com/es/windows)
 - [TizenBrew | More apps for your Tizen TV](https://tizenbrew.6513006.xyz/)
 - [WebOS Homebrew](https://www.webosbrew.org/)
@@ -1601,8 +1600,8 @@ description: Search engines, web directories, software directories, corporations
 - [VsixHub](https://www.vsixhub.com/)
 
 ###### Add-ons browser
-- ⭐ **[Add-ons for Firefox](https://addons.mozilla.org/en-US/firefox/)**
-- ⭐ **[Chrome Web Store](https://chrome.google.com/webstore/category/extensions)**
+- ⭐ **[Chrome Web Store](https://chromewebstore.google.com/)**
+- ⭐ **[Firefox Add-ons](https://addons.mozilla.org/en-US/firefox)**
 - ⭐ **[Ungoogled Extensions](https://www.ungoogledextensions.com/)**
 - [Add-ons for Pale Moon](https://addons.palemoon.org/)
 - [Add-ons for Thunderbird](https://addons.thunderbird.net/en-US/thunderbird/)
@@ -1610,6 +1609,7 @@ description: Search engines, web directories, software directories, corporations
 - [Chrome Stats](https://chrome-stats.com/)
 - [Chromium-web-store · GitHub](https://github.com/NeverDecaf/chromium-web-store)
 - [CRX Viewer](https://robwu.nl/crxviewer/)
+- [Crx4Chrome - Extension Crx Download](https://www.crx4chrome.com/)
 - [Firefox Extension Workshop](https://extensionworkshop.com/)
 - [JustOff's Extensions](https://justoff.github.io/)
 - [Maxthon Extensions Center](https://extension.maxthon.com/)
@@ -2186,6 +2186,7 @@ description: Search engines, web directories, software directories, corporations
 - [NYC Tree Map](https://tree-map.nycgovparks.org/)
 - [Observation.org](https://observation.org/)
 - [Pangaea.de - Data Publisher for Earth & Environmental Science](https://www.pangaea.de/)
+- [Picture Bird - Online bird encyclopedia and bird identifier](https://picturebirdai.com/)
 - [Picture Insect - Online insect encyclopedia and insect identifier](https://pictureinsect.com/)
 - [PlantAtlas.org](https://plantatlas.usf.edu/)
 - [Plants Database - Garden.org](https://garden.org/plants)
@@ -2586,6 +2587,7 @@ description: Search engines, web directories, software directories, corporations
 - [Midjourney Documentation](https://midjourney.gitbook.io/docs/)
 - [Mindstone - Tuancao](https://mindstone.tuancao.me/)
 - [Minimal Documentation](https://minimal.guide/home)
+- [Mintlify - The Knowledge Platform Built for Agents](https://www.mintlify.com/) / [🔗](https://github.com/mintlify)
 - [MkDocs Material](https://squidfunk.github.io/mkdocs-material/)
 - [Mkdocs Obsidian Wiki](https://obsidian-publisher.netlify.app/)
 - [MozillaWiki](https://wiki.mozilla.org/Main_Page)
@@ -4241,6 +4243,7 @@ description: Search engines, web directories, software directories, corporations
 - [QRCode Monster](https://qrcode.monster/)
 - [Qrcode-tiger](https://www.qrcode-tiger.com/)
 - [QRcode.com](https://www.qrcode.com/en)
+- [qrfy.io](https://qrfy.io/)
 
 ##### Build utility
 - [Bazel](https://bazel.build/)
@@ -4410,7 +4413,7 @@ description: Search engines, web directories, software directories, corporations
 - [CodeMonkey](https://codemonkey.link/)
 - [Coder - Your Self-Hosted Remote Development Platform](https://coder.com/)
 - [DarcsHub](https://hub.darcs.net/)
-- [Forgejo – Beyond coding. We forge.](https://forgejo.org/)
+- [Forgejo – Beyond coding. We forge.](https://forgejo.org/) / [🔗](https://codeberg.org/forgejo/forgejo)
 - [FossHub](https://www.fosshub.com/)
 - [Gerrit Code Review](https://www.gerritcodereview.com/)
 - [Gitdab](https://gitdab.com/)
@@ -4992,6 +4995,8 @@ description: Search engines, web directories, software directories, corporations
 - ⭐ **[FCTV33 - Live Sports](https://www.fctv33.com/)**
 - [Batmanstream Stream Sports](https://www.batmanstream.org/)
 - [BINTV - Watch Any Live Sports Online](https://www.bintv.fun/)
+- [BINTV - Watch Live Sports Free](https://www.bintv.cc/)
+- [Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD](https://colatv.live/)
 - [CrackStreams – Watch Live Sports, NFL, NBA, UFC & More](https://sportswatcher.ink/)
 - [Cricfy TV - Live Cricket on PC an SmartTV](https://cricfy.net/tv-3/)
 - [CricFyTV - Watch Free Live Sports](https://cricfytv.org/)
@@ -5322,7 +5327,7 @@ description: Search engines, web directories, software directories, corporations
 - [Asil Tools - PDF Converter, Image Tools, Calculators & More](https://aslitools.com/)
 - [binvis.io](https://binvis.io/#/)
 - [Count Wordsworth](https://countwordsworth.com/)
-- [delphitools — privacy-first browser tools](https://delphi.tools/)
+- [delphitools — privacy-first browser tools](https://delphi.tools/) / [🔗](https://github.com/1612elphi/delphitools)
 - [DocsYogi - Free Online File Viewer | View 13+ File Formats](https://docsyogi.com/)
 - [Extract Video Frame - utils.com](https://frame.utils.com/)
 - [FileProInfo](https://fileproinfo.com/)
@@ -5546,6 +5551,7 @@ description: Search engines, web directories, software directories, corporations
 - [Audioalter](https://audioalter.com/)
 - [Collision for hashes](https://collision.geopjr.dev/)
 - [data: URI Generator - dopiaza](https://dopiaza.org/tools/datauri/index.php)
+- [Dungeon Forge — Procedural Dungeon Generator](https://procedural-dungeon.netlify.app/)
 - [htmldocs](https://htmldocs.com/)
 - [Markdown-Videos](https://markdown-videos.jorgenkh.no/)
 - [PolicyMaker ᐈ【Online Legal Documents】Templates (FREE)](https://policymaker.io/)
@@ -5828,6 +5834,7 @@ description: Search engines, web directories, software directories, corporations
 - ⭐ **[Arena Leaderboard | Compare & Benchmark the Best Frontier AI Models](https://arena.ai/leaderboard)**
 - ⭐ **[LiveBench](https://livebench.ai/#/)** / [🔗](https://github.com/LiveBench/LiveBench)
 - ⭐ **[Zero GPU Spaces - a Hugging Face Space by enzostvs](https://huggingface.co/spaces/enzostvs/zero-gpu-spaces)**
+- [ARC Prize - What is ARC-AGI?](https://arcprize.org/arc-agi)
 - [Artificial Analysis - AI Model & API Providers Analysis](https://artificialanalysis.ai/)
 - [Benchlm.ai - LLM Leaderboard 2026](https://benchlm.ai/)
 - [BridgeBench — AI Coding & Vibe Coding Benchmark](https://www.bridgebench.ai/)

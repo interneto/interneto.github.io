@@ -5,7 +5,7 @@ description: Note-taking, task management, bookmarking, calculators, translators
 
 # Office & Productivity
 
-**Total Bookmarks:** 1204
+**Total Bookmarks:** 1212
 
 - ⭐ **[Hotkey Cheatsheet - Improve Your Productivity with Keyboard Shortcuts](https://hotkeycheatsheet.com/)**
 - [Boosted](https://www.boostedproductivity.com/)
@@ -49,7 +49,7 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [Tizmos](https://tizmos.com/)
 - [Twos App](https://www.twosapp.com/62bc8eae49a3f41aa69fb0ec)
 - [Upwave](https://www.upwave.io/)
-- [Vikunja.io](https://vikunja.io/)
+- [Vikunja.io](https://vikunja.io/) / [🔗](https://code.vikunja.io/)
 - [Webjets.io](https://www.webjets.io/)
 - [WorkFlowy - A simpler way to organize your work](https://workflowy.com/)
 
@@ -419,6 +419,8 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [Craftplan](https://puemos.github.io/craftplan/) / [🔗](https://github.com/puemos/craftplan)
 - [ERPNext: Free and Open Source Cloud ERP Software](https://erpnext.com/)
 - [GOIA - Software de gestión de explotaciones agrícolas](https://www.goia.es/)
+- [Presto Software Presupuestos y Control de Obras](https://presto-software.com/)
+- [VeriFactus - Facturación electrónica certificada](https://verifactus.com/)
 
 ## Finance manager
 - [Actual | Actual Budget Documentation](https://actualbudget.org/)
@@ -446,6 +448,7 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [nlogozzo/NickvisionMoney · GitHub](https://github.com/nlogozzo/NickvisionMoney)
 - [OneSplit - Makes splitting bills a breeze](https://www.onesplit.ai/)
 - [Pebble - Personal ETF](https://pebble.finance/)
+- [Pocket Clear — Free Privacy-First Expense Tracker for Couples & Individuals](https://pocketclear.app/)
 - [PugPocket - Dividí Gastos, No Amistades](https://pugpocket.com/)
 - [Purrse | Sharing expenses with friends, family or colleagues.](https://purrse.app/)
 - [QuickBooks®: Official Site | Smart Tools. Better Business.](https://quickbooks.intuit.com/#)
@@ -468,6 +471,7 @@ description: Note-taking, task management, bookmarking, calculators, translators
 ## Font editor
 - [Analyze Any Font](https://font-analyzer-six.vercel.app/)
 - [Birdfont](https://birdfont.org/)
+- [draw-your-font](https://danilo-znamerovszkij.github.io/draw-your-font/) / [🔗](https://github.com/danilo-znamerovszkij/draw-your-font)
 - [FontForge](https://fontforge.org/en-US/)
 - [TruFont](https://trufont.github.io/)
 
@@ -492,6 +496,7 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [dooit-org/dooit: An awesome TUI todo manager](https://github.com/dooit-org/dooit?tab=readme-ov-file)
 - [dotnet/dotnet-console-games: Game examples implemented as .NET console applications primarily for providing education and inspiration. :)](https://github.com/dotnet/dotnet-console-games)
 - [Dynalist.io](https://dynalist.io/)
+- [Errands – Apps for GNOME](https://apps.gnome.org/List/) / [🔗](https://github.com/mrvladus/Errands)
 - [Everdo](https://everdo.net/)
 - [Fizzy](https://www.fizzy.do/) / [🔗](https://github.com/basecamp/fizzy)
 - [Focus To-Do](https://www.focustodo.cn/)
@@ -736,6 +741,7 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [Abstract Software Project](https://abstractsoftware.gitlab.io/)
 - [AllCVDesign](https://allcvdesign.com/)
 - [Artifex](https://artifex.com/)
+- [bento — the office suite that fits in a file](https://bento.page/) / [🔗](https://github.com/nyblnet/bento)
 - [Calligra](https://calligra.org/)
 - [Collabora Office](https://www.collaboraoffice.com/)
 - [EtherCalc](https://ethercalc.net/)
@@ -857,6 +863,7 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [DocHub](https://dochub.com/)
 - [Draftable](https://draftable.com/)
 - [iLovePDF](https://www.ilovepdf.com/)
+- [JOPDF | Free & Fast PDF Editor for Windows, Mac & Linux](https://www.jopdf.com/)
 - [Kdan PDF Reader](https://www.kdanmobile.com/pdf-reader)
 - [LiquidText](https://www.liquidtext.net/)
 - [Marco Scarpetta / PDF Mix Tool · GitLab](https://gitlab.com/scarpetta/pdfmixtool)
@@ -1134,7 +1141,7 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [DigiCal](http://digibites.nl/digical)
 - [Doodle](https://doodle.com/en)
 - [Dot — Menu Bar Calendar & Meeting Reminder App for Mac](https://www.trydot.app/)
-- [Etar-Calendar · GitHub](https://github.com/Etar-Group/Etar-Calendar)
+- [Etar-Group/Etar-Calendar · GitHub](https://github.com/Etar-Group/Etar-Calendar)
 - [Flexibits](https://flexibits.com/)
 - [fruux](https://fruux.com/)
 - [Google Calendar](https://calendar.google.com/calendar/r)
@@ -1307,3 +1314,4 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [Microsoft 365 - Microsoft Word](https://www.microsoft.com/en/microsoft-365/word?market=af)
 - [TextMaker - Softmaker](https://www.softmaker.com/en/softmaker-office-textmaker)
 - [Tritium | Integrated drafting environment for Lawyers](https://tritium.legal/)
+- [Wordgard](https://wordgard.net/) / [🔗](https://code.haverbeke.berlin/wordgard/wordgard)

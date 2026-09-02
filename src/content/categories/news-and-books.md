@@ -5,7 +5,7 @@ description: News, blogs, digital gardens, libraries, and magazines
 
 # News & Books
 
-**Total Bookmarks:** 2545
+**Total Bookmarks:** 2548
 
 
 ## News
@@ -895,6 +895,7 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [Programster's Blog](https://blog.programster.org/)
 - [Qball's Weblog](https://blog.sarine.nl/)
 - [Rakhim.org](https://rakhim.org/)
+- [Sean Godecke - Blog](https://www.seangoedecke.com/)
 - [Sick Codes](https://sick.codes/)
 - [Sidebar.io](https://sidebar.io/)
 - [Simon Aubury – Medium](https://simon-aubury.medium.com/)
@@ -2363,6 +2364,7 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [Narcity](https://www.narcity.com/)
 - [Okezone.com - Berita Terkini dan Informasi Terbaru Hari Ini](https://www.okezone.com/)
 - [OpIndia](https://www.opindia.com/)
+- [Pollar · World News, Analysis & Live Markets](https://pollar.news/en)
 - [Radio Prague International](https://www.radio.cz/en)
 - [Radio Télévision Suisse](https://www.rts.ch/)
 - [Rediff](https://www.rediff.com/)
@@ -2752,6 +2754,7 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [cscarney/syndic · GitHub](https://github.com/cscarney/syndic)
 - [Den for RSS](https://den.io/)
 - [DevHub - GitHub Notifications & Activities on your Desktop](https://devhubapp.com/)
+- [DONDURMA / Signal Reader v1.0](https://dondurma.devopen.io/) / [🔗](https://github.com/DevOpen-io/dondurma-rss-reader)
 - [electh/nextflux: Yet another web-based frontend for Miniflux](https://github.com/electh/nextflux)
 - [Feed Fever](https://feedafever.com/)
 - [Feedbin](https://feedbin.com/)

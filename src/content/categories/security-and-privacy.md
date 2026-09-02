@@ -5,7 +5,7 @@ description: Password managers, cybersecurity, and web privacy
 
 # Security & Privacy
 
-**Total Bookmarks:** 311
+**Total Bookmarks:** 312
 
 - [Fight Chat Control - Protect Digital Privacy in the EU](https://fightchatcontrol.eu/)
 - [PrivacySpy: We track online privacy](https://privacyspy.org/)
@@ -204,6 +204,7 @@ description: Password managers, cybersecurity, and web privacy
 - [OATH Toolkit](https://oath-toolkit.codeberg.page/)
 - [Proton - Data Breach Observatory](https://proton.me/business/pass/breach-observatory)
 - [Security.org: Security Doesn't Have to be Complicated](https://www.security.org/)
+- [Semgrep App Security Platform | AI-assisted SAST, SCA and Secrets Detection](https://semgrep.dev/) / [🔗](https://github.com/semgrep/semgrep)
 - [sigstore/cosign: Code signing and transparency for containers and binaries](https://github.com/sigstore/cosign)
 - [ZAP proxy](https://www.zaproxy.org/)
 

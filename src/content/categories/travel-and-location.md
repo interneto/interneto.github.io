@@ -5,7 +5,7 @@ description: Maps, weather, travel agencies, and flights
 
 # Travel & Location
 
-**Total Bookmarks:** 785
+**Total Bookmarks:** 790
 
 - [TREK](https://demo-nomad.pakulat.org/dashboard) / [🔗](https://github.com/mauriceboe/TREK)
 
@@ -110,6 +110,7 @@ description: Maps, weather, travel agencies, and flights
 - [GPlates Portal](http://portal.gplates.org/)
 - [HERE WeGo](https://wego.here.com/?x=ep&map=0,0,3,normal)
 - [HHMI - Earth Viewer](https://media.hhmi.org/biointeractive/earthviewer_web/earthviewer.html)
+- [Incendios Forestales en España en Tiempo Real](https://xn--incendiosespaa-2nb.es/)
 - [KML, KMZ Viewer with Drive](https://kmlviewer.nsspot.net/)
 - [Kosmosnimki.ru](https://www.kosmosnimki.ru/)
 - [Leylines Map](https://maps.leylines.net/)
@@ -132,6 +133,7 @@ description: Maps, weather, travel agencies, and flights
 - [OpenStreetMap Data](https://planet.openstreetmap.org/)
 - [ORS Maps](https://maps.openrouteservice.org/#/place/@8.533887863159181,49.459003372452855,6)
 - [OruxMaps](https://oruxmaps.com/cs/es)
+- [Outmap - 3D Map App for Backcountry Skiing, Hiking and Mountain Adventures](https://outmap.pro/)
 - [Protected Planet](https://www.protectedplanet.net/)
 - [QQ Maps](https://map.qq.com/)
 - [Qwant Maps](https://www.qwant.com/maps#map=1.05/0.0000000/0.0000000)
@@ -274,6 +276,7 @@ description: Maps, weather, travel agencies, and flights
 - [contextily: context geo tiles in Python](https://contextily.readthedocs.io/en/latest/) / [🔗](https://github.com/geopandas/contextily)
 - [Felt - Cloud-Native GIS Software & Online Mapping Platform](https://felt.com/)
 - [GDAL — Translator library for raster and vector geospatial data formats](https://gdal.org/en/stable/) / [🔗](https://github.com/OSGeo/gdal)
+- [GeoLibre](https://geolibre.app/) / [🔗](https://github.com/opengeos/GeoLibre)
 - [GeoMesa](https://www.geomesa.org/) / [🔗](https://github.com/locationtech/geomesa)
 - [GeoSpy | Find a Photo's Location Instantly](https://geospy.ai/)
 - [Global Mapper](https://www.bluemarblegeo.com/global-mapper/)
@@ -302,7 +305,7 @@ description: Maps, weather, travel agencies, and flights
 - [Campy - Find all campsites and camperstops in Europe](https://campy.app/)
 - [Cesium: The Platform for 3D Geospatial](https://cesium.com/)
 - [chrieke/prettymapp · GitHub](https://github.com/chrieke/prettymapp)
-- [Comaps - Hike, Bike, Drive Offline Navigate with Privacy](https://www.comaps.app/)
+- [Comaps - Hike, Bike, Drive Offline Navigate with Privacy](https://www.comaps.app/) / [🔗](https://codeberg.org/comaps/comaps)
 - [deevroman/better-osm-org · GitHub](https://github.com/deevroman/better-osm-org)
 - [drajmarsh - 3D Sun-Path](https://drajmarsh.bitbucket.io/sunpath3d.html)
 - [drajmarsh - Earth/Sun](https://drajmarsh.bitbucket.io/earthsun.html)
@@ -514,6 +517,7 @@ description: Maps, weather, travel agencies, and flights
 
 ### Sea weather
 - [Surf Forecast](https://www.surf-forecast.com/)
+- [Tide Times and Tide Charts Worldwide](https://www.tide-forecast.com/)
 
 ### Space weather
 - [Space Dashboard](https://spacedashboard.com/)
@@ -887,6 +891,7 @@ description: Maps, weather, travel agencies, and flights
 - [JSatTrak](https://www.gano.name/shawn/JSatTrak)
 - [LeoLabs](https://platform.leolabs.space/visualizations/leo)
 - [Live_ISS_Stream | IBM video](https://video.ibm.com/channel/live-iss-stream+)
+- [Look4Sat: Satellite tracker](https://play.google.com/store/apps/details?id=com.rtbishop.look4sat) / [🔗](https://github.com/rt-bishop/Look4Sat)
 - [N2YO](https://www.n2yo.com/)
 - [OrbTrack](https://www.lizard-tail.com/isana/tracking)
 - [POES Status](https://www.ospo.noaa.gov/Operations/POES/status.html#noaa15)

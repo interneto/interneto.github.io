@@ -5,7 +5,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 
 # Multimedia
 
-**Total Bookmarks:** 2106
+**Total Bookmarks:** 2117
 
 
 ## Audio & Music
@@ -122,6 +122,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [bigWav.app - Private audio transcription & annotation](https://bigwav.app/)
 - [Camb.ai: AI Voice Translation & Dubbing for Videos](https://www.camb.ai/)
 - [CMUSphinx Open Source Speech Recognition](https://cmusphinx.github.io/) / [🔗](https://github.com/cmusphinx/pocketsphinx/)
+- [diktafon · GitHub](https://github.com/jaromiru/diktafon)
 - [Dubdub: AI Dubbing & Voiceovers with emotions](https://www.dubdub.ai/)
 - [Dubify - Dub your videos using AI Magic](https://www.dubify.io/)
 - [DuRT - Speech Recognition](https://durt.dudufuture.top/)
@@ -153,6 +154,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [TranscribeX - Fast Local AI Transcription for macOS](https://www.transcribex.io/)
 - [‎Transcriptor](https://apps.apple.com/us/app/transcriptor/id6738774291)
 - [txtplay.ai | Transform your media into text and subtitles](https://www.txtplay.ai/)
+- [Vocalinux: Offline Voice Dictation for Linux](https://vocalinux.com/) / [🔗](https://github.com/jatinkrmalik/vocalinux)
 - [Voicy Speech to Text](https://usevoicy.com/)
 - [voxforge.org - Free Speech... Recognition (Linux, Windows and Mac)](https://www.voxforge.org/)
 - [Whisper Turbo](https://whisper-turbo.com/)
@@ -555,7 +557,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [zehkira / Monophony · GitLab](https://gitlab.com/zehkira/monophony)
 
 #### Podcast client
-- [AntennaPod – The Open Podcast Player](https://antennapod.org/)
+- [AntennaPod – The Open Podcast Player](https://antennapod.org/) / [🔗](https://github.com/AntennaPod/AntennaPod)
 - [audiobookshelf](https://www.audiobookshelf.org/)
 - [Castopod - Podcast Host](https://castopod.org/)
 - [gPodder](https://gpodder.github.io/)
@@ -1227,6 +1229,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [SVG Viewer](https://www.svgviewer.dev/)
 - [sView](https://www.sview.ru/en/)
 - [WarpX · GitHub](https://ecp-warpx.github.io/)
+- [zeelsheladiya/SculptView · GitHub](https://github.com/zeelsheladiya/SculptView)
 
 #### 3D Voxel
 - [Buildbox](https://signup.buildbox.com/)
@@ -1273,7 +1276,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [Archicad | Graphisoft](https://graphisoft.com/solutions/archicad)
 - [ArcSite](https://www.arcsite.com/)
 - [Asset Forge](https://assetforge.io/)
-- [AutoCAD | Autodesk](https://www.autodesk.com/products/autocad/overview?term=1-YEAR&tab=subscription)
+- [AutoCAD | Autodesk](https://www.autodesk.com/products/autocad/overview)
 - [AutoCAD crack](https://sites.google.com/site/autocad2020crack/)
 - [AutoCAD Web](https://web.autocad.com/login)
 - [Autodesk Revit | Get Prices & Buy Official Revit Software](https://www.autodesk.com/products/revit/overview)
@@ -1304,7 +1307,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [OpenSCAD - Solid 3D CAD Modeller](https://openscad.org/) / [🔗](https://github.com/openscad/openscad/)
 - [Patchwork 3D](https://www.patchwork3d.com/)
 - [PrusaSlicer | Original Prusa 3D printers directly from Josef Prusa](https://www.prusa3d.com/page/prusaslicer_424/) / [🔗](https://github.com/prusa3d/PrusaSlicer)
-- [QCAD](https://www.qcad.org/en/)
+- [QCAD: 2D CAD](https://www.qcad.org/en/)
 - [RapCAD](https://github.com/GilesBathgate/RapCAD)
 - [Revit | Autodesk](https://www.autodesk.com/products/revit/overview?term=1-YEAR&tab=subscription)
 - [Siemens Software - NX software](https://plm.sw.siemens.com/en-US/nx/)
@@ -1797,6 +1800,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [Markup Hero](https://markuphero.com/)
 - [naelstrof/maim · GitHub](https://github.com/naelstrof/maim)
 - [Nanoshot](http://nanoshot.sourceforge.net/)
+- [OpenScreenShot — Full-page screenshot & annotation tool for Chrome](https://openscreenshot.app/) / [🔗](https://github.com/pghqdev/OpenScreenShot)
 - [PixelSnap 2](https://getpixelsnap.com/)
 - [Screen Rec - Instant Video Messages & Screenshots](https://screenrec.com/)
 - [Screengrab · GitHub](https://github.com/lxqt/screengrab)
@@ -1888,6 +1892,12 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [Steam Remote Play](https://store.steampowered.com/remoteplay)
 - [Video & TV Cast](https://video-tv-cast.com/)
 
+### Screen annotation tool
+- [Epic Pen](https://epicpen.com/)
+- [iRehmanAhmad/RePen](https://github.com/iRehmanAhmad/RePen)
+- [KMag](https://apps.kde.org/kmag/) / [🔗](https://invent.kde.org/accessibility/kmag)
+- [ZoomIt - Sysinternals](https://learn.microsoft.com/en-us/sysinternals/downloads/zoomit)
+
 ### Screen recorder
 - ⭐ **[gpu-screen-recorder - A shadowplay-like screen recorder for Linux](https://git.dec05eba.com/gpu-screen-recorder/about/)**
 - ⭐ **[Open Broadcaster Software | OBS](https://obsproject.com/)**
@@ -1943,7 +1953,6 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [Vokoscreen - Screencasts for Windows and Linux](https://linuxecke.volkoh.de/vokoscreen/vokoscreen.html)
 - [xlmnxp/blue-recorder · GitHub](https://github.com/xlmnxp/blue-recorder)
 - [Xsplit](https://xsplit.com/)
-- [ZoomIt - Sysinternals](https://learn.microsoft.com/en-us/sysinternals/downloads/zoomit)
 
 #### Screen mirroring
 - ⭐ **[Genymobile/scrcpy · GitHub](https://github.com/genymobile/scrcpy/)**
@@ -1956,6 +1965,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [Soduto](https://soduto.com/)
 - [Tab Display](https://tab-display.enfpdev.com/en)
 - [Touch Portal - Remote macro control deck](https://www.touch-portal.com/)
+- [tranvuongquocdat/SideScreen](https://github.com/tranvuongquocdat/SideScreen)
 - [Unified Remote – Remote Control App for your Computer](https://www.unifiedremote.com/)
 - [Vysor.io](https://www.vysor.io/)
 - [Wormhole - Browse & Control phone on PC](https://er.run/)
@@ -1972,6 +1982,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [Vento](https://vento.so/new)
 
 ### Subtitles
+- [Linglass — Dual subtitles, YouTube + Netflix](https://linglass.app/)
 
 #### Subtitles editor
 - [Advanced Subtitle Editor](https://aegisub.org/)
@@ -1992,6 +2003,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 #### Subtitles generator
 - [abb128/LiveCaptions · GitHub](https://github.com/abb128/LiveCaptions)
 - [absadiki/subsai: 🎞️ Subtitles generation tool (Web-UI + CLI + Python package) powered by OpenAI's Whisper and its variants 🎞️](https://github.com/absadiki/subsai)
+- [AnyDub — Real-time Translation for Any Video & Live Meeting](https://anydub.pro/)
 - [Danily07/Translumo: Advanced real-time screen translator](https://github.com/Danily07/Translumo)
 - [FreeSubtitles.ai](https://freesubtitles.ai/)
 - [Seagull · Subtitles for everything](https://getseagull.com/)
@@ -2188,6 +2200,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [Smarters Pro](http://webtv-new.iptvsmarters.com/)
 - [Smarters Pro – The Ultimate OTT & Media Player for All Devices](https://smarterspro.com/)
 - [Snappier IPTV – Watch Live TV or VOD](https://snappieriptv.app/)
+- [Spectati — Plex, Jellyfin & IPTV Player for Apple TV](https://spectati.com/)
 - [Streamtest.in](https://streamtest.in/)
 - [Swiptv - IPTV Smart Player for iPhone, Apple TV, Mac and iPad](https://www.swiptv.app/)
 - [TDT Spain - Tu TV en Android](https://www.tdtspain.com/)

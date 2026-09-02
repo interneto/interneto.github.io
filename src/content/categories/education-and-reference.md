@@ -5,7 +5,7 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 
 # Education & Reference
 
-**Total Bookmarks:** 1301
+**Total Bookmarks:** 1303
 
 - [Academia Lab](https://academia-lab.com/)
 - [DosisPedia](https://dosispedia.com/)
@@ -139,6 +139,7 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [unPROFESOR.com](https://www.unprofesor.com/)
 
 ## Calculator
+- [AI Electricity & Water Use Cost Calculator - BEUK](https://www.businessenergyuk.com/knowledge-hub/ai-cost-calculator/)
 - [CalculateYogi - Free Online Calculators for Everything](https://calculateyogi.com/)
 - [Calculator Soup - Online Calculators](https://www.calculatorsoup.com/)
 - [RapidTables](https://www.rapidtables.com/)
@@ -1313,6 +1314,7 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [gabe565/cli-of-life: Play Conway's Game of Life in your terminal](https://github.com/gabe565/cli-of-life)
 - [Game of Life 3D](https://creetah.com/game-of-life)
 - [Golly Game of Life](https://golly.sourceforge.io/) / [🔗](https://sourceforge.net/projects/golly/)
+- [HEC-HMS](https://www.hec.usace.army.mil/software/hec-hms/)
 - [JaamSim Pro](https://www.jaamsimpro.com/)
 - [NI - LabVIEW](https://www.ni.com/en/shop/labview.html)
 - [NOBOOK Virtual Laboratory](https://chemistry-en.nobook.com/console/templates/resource)

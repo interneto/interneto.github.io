@@ -5,7 +5,7 @@ description: File sharing, downloaders, torrents, and cloud storage
 
 # File Management
 
-**Total Bookmarks:** 831
+**Total Bookmarks:** 833
 
 
 ## Backup
@@ -544,6 +544,7 @@ description: File sharing, downloaders, torrents, and cloud storage
 - [Send files](https://send.cm/)
 - [Send Letters Online](https://sendletter.org/)
 - [Send.vis.ee](https://send.vis.ee/)
+- [ShareBin.eu - Free File Sharing and Live Notepad](https://sharebin.eu/)
 - [ShareDrop](https://www.sharedrop.io/)
 - [SpaceDrop](https://spacedrop.app/)
 - [stv0g/gose: A tera-scale file uploader · GitHub](https://github.com/stv0g/gose)
@@ -699,6 +700,7 @@ description: File sharing, downloaders, torrents, and cloud storage
 - [nvim-tree/nvim-tree.lua · GitHub](https://github.com/nvim-tree/nvim-tree.lua)
 - [PCMan File Manager](https://sourceforge.net/projects/pcmanfm/)
 - [Ranger — console file manager](https://ranger.github.io/)
+- [superfile - Terminal File Manager](https://superfile.dev/) / [🔗](https://github.com/yorukot/superfile)
 - [Superfile | terminal-based file manager](https://superfile.netlify.app/)
 - [Vifm](https://vifm.info/)
 - [xplr](https://xplr.dev/)
@@ -841,7 +843,7 @@ description: File sharing, downloaders, torrents, and cloud storage
 - ⭐ **[Syncthing](https://syncthing.net/)** / [🔗](https://github.com/syncthing/syncthing), [🔗](https://github.com/researchxxl/syncthing-android)
 - [Autosync - Google Play](https://play.google.com/store/apps/details?id=com.ttxapps.autosync)
 - [ChronoSync | Econ Technologies](https://www.econtechnologies.com/)
-- [DAVx⁵](https://www.davx5.com/)
+- [DAVx⁵](https://www.davx5.com/) / [🔗](https://github.com/bitfireAT/davx5-ose)
 - [DirSync Pro](https://www.dirsyncpro.org/)
 - [Dropsync](https://play.google.com/store/apps/details?id=com.ttxapps.dropsync)
 - [DropSync](https://www.mudflatsoftware.com/)

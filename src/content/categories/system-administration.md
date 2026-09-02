@@ -5,7 +5,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 
 # System Administration
 
-**Total Bookmarks:** 1196
+**Total Bookmarks:** 1199
 
 - [osquery](https://osquery.io/)
 - [PIVPN: Simplest way to setup a VPN](https://pivpn.io/)
@@ -591,6 +591,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [Anubis: Web AI Firewall Utility](https://anubis.techaro.lol/) / [🔗](https://github.com/TecharoHQ/anubis)
 - [Arkose Labs - Stop SMS Toll Fraud. Create Greater Trust Online](https://www.arkoselabs.com/)
 - [Cloudflare Turnstile | CAPTCHA Replacement Solution](https://www.cloudflare.com/application-services/products/turnstile/)
+- [Friendlycaptcha](https://friendlycaptcha.com/)
 - [hCaptcha](https://www.hcaptcha.com/)
 - [reCAPTCHA | Google for Developers](https://developers.google.com/recaptcha)
 
@@ -860,13 +861,13 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [Agent Client Protocol](https://agentclientprotocol.com/get-started/introduction) / [🔗](https://github.com/agentclientprotocol)
 - [IETF HTTP Working Group](https://httpwg.org/)
 - [magic-wormhole/magic-wormhole (protocol) · GitHub](https://github.com/magic-wormhole/magic-wormhole)
+- [Model Context Protocol](https://modelcontextprotocol.io/docs/getting-started/intro) / [🔗](https://github.com/modelcontextprotocol)
 - [MQTT - The Standard for IoT Messaging](https://mqtt.org/)
 - [OpenSSH](https://www.openssh.org/)
 - [Project V · V2ray](https://www.v2ray.com/en/index.html)
 - [The AT Protocol](https://atproto.com/)
 - [Varnish HTTP Cache](https://varnish-cache.org/)
 - [WebDAV Resources](http://www.webdav.org/)
-- [What is the Model Context Protocol (MCP)? - Model Context Protocol](https://modelcontextprotocol.io/docs/getting-started/intro) / [🔗](https://github.com/modelcontextprotocol)
 
 ##### Decentralized Protocol
 - ⭐ **[Matrix.org](https://matrix.org/)**
@@ -1100,6 +1101,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [Andronix App](https://andronix.app/)
 - [Lucky Patcher](https://www.luckypatchers.com/)
 - [PrefEdit Root](https://play.google.com/store/apps/details?id=com.corphish.prefedit)
+- [RikkaApps/Shizuku: Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process](https://github.com/RikkaApps/Shizuku)
 - [Root Booster](https://play.google.com/store/apps/details?id=com.ram.memory.booster.cpu.saver)
 - [Root Checker](https://rootchecker.com/)
 - [Root Essentials](https://sites.google.com/view/superthomaslab/root-essentials)
@@ -1188,6 +1190,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [IObit](https://www.iobit.com/en/index.php)
 - [iolo](https://www.iolo.com/)
 - [KDE Utilities - Sweeper](https://utils.kde.org/projects/sweeper/)
+- [Kudu — Free System Maintenance Suite](https://usekudu.com/) / [🔗](https://github.com/AdventDevInc/kudu)
 - [momenbasel/PureMac: Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.](https://github.com/momenbasel/PureMac)
 - [PC Booster](https://www.pcbooster.com/)
 - [PC Cleaner](http://pccleaner.com/)

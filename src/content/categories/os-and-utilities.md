@@ -5,7 +5,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 
 # OS & Utilities
 
-**Total Bookmarks:** 1117
+**Total Bookmarks:** 1122
 
 - [Comparison of OS - Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_operating_systems)
 - [Comparison of real-time operating systems - Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_real-time_operating_systems)
@@ -334,7 +334,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 ###### Indie Unix-like
 - [Andy-Python-Programmer/aero · GitHub](https://github.com/Andy-Python-Programmer/aero)
 - [AtheOS](https://atheos.metaproject.frl/)
-- [GNU Guix](https://guix.gnu.org/)
+- [GNU Guix](https://guix.gnu.org/) / [🔗](https://codeberg.org/guix/guix)
 - [IBM Power AIX](https://www.ibm.com/products/aix)
 - [illumos](https://illumos.org/)
 - [Lemon OS](https://lemonos.org/)
@@ -495,6 +495,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [Neptune OS](https://neptuneos.com/en/start-page.html)
 - [Netrunner GNU/Linux](https://www.netrunner.com/)
 - [Nitrux](https://nxos.org/)
+- [Noah Cagle / Hannah Montana Linux v26.0 · GitLab](https://gitlab.com/DecaCagle/hannahmontanalinux26)
 - [PakOS - SourceForge](https://sourceforge.net/projects/pakos/)
 - [Pardus](https://pardus.github.io/)
 - [Parrot Security](https://www.parrotsec.org/)
@@ -557,7 +558,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [GeckoLinux](https://geckolinux.github.io/)
 - [Mageia 8](https://www.mageia.org/en/8/)
 - [Origami Linux – Fold Your System](https://origami.wf/)
-- [PikaOS Linux](https://wiki.pika-os.com/en/home)
+- [PikaOS Linux](https://wiki.pika-os.com/en/home) / [🔗](https://git.pika-os.com/explore/repos)
 - [Playtron](https://www.playtron.one/)
 - [risi OS](https://risi.io/)
 - [Ultramarine Linux](https://ultramarine-linux.org/)
@@ -910,6 +911,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [Plasma / Latte Dock · GitLab](https://invent.kde.org/plasma/latte-dock)
 - [Polybar · GitHub](https://polybar.github.io/)
 - [Start11 - Stardock](https://www.stardock.com/products/start11/)
+- [Vorssaint — The modular Swiss Army knife for macOS](https://vorssaint.com/) / [🔗](https://github.com/vorssaint/vorssaint-utils)
 - [Waybar · GItHub](https://github.com/Alexays/Waybar)
 
 #### Login manager
@@ -1010,6 +1012,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [niri-wm/niri: A scrollable-tiling Wayland compositor](https://github.com/niri-wm/niri)
 - [Nitrux/maui-shell · GitHub](https://github.com/Nitrux/maui-shell)
 - [nwg-shell · GitHub](https://github.com/nwg-piotr/nwg-shell)
+- [river](https://isaacfreund.com/software/river/) / [🔗](https://codeberg.org/river/river)
 - [riverwm/river: A dynamic tiling Wayland compositor](https://codeberg.org/river/river)
 - [rofi: Rofi-wayland](https://github.com/lbonn/rofi)
 - [Shell desktop · GitHub](https://github.com/lirios/shell)
@@ -1075,6 +1078,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [Openbox](http://openbox.org/wiki/Main_Page)
 - [PeKWM](https://www.pekwm.org/)
 - [Sawfish WindowManager](https://sawfish.tuxfamily.org/)
+- [Settle · Your layouts. On tap.](https://settle.gokhangokova.com/)
 - [SimulaVR/Simula · GitHub](https://github.com/SimulaVR/Simula)
 - [sowm · GItHub](https://github.com/dylanaraps/sowm)
 - [swm · GitHub](https://github.com/dcat/swm)
@@ -1233,6 +1237,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [FossifyOrg/Keyboard · GitHub](https://github.com/FossifyOrg/Keyboard)
 - [mgth/LittleBigMouse: DPI Aware mouse move across screens](https://github.com/mgth/littlebigmouse)
 - [Micrsoft/PowerToys · GitHub](https://github.com/microsoft/PowerToys)
+- [Pointer Cue | Toybird Labs](https://labs.toybird.com/apps/pointer-cue/)
 
 ### Accessibility
 - [Be My Eyes - Accessibility Technology for blind & low vision people](https://www.bemyeyes.com/)
