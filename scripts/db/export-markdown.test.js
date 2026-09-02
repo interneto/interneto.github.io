@@ -9,6 +9,10 @@ import { exportMarkdown } from './export-markdown.js'
 const csv = [
   'id,title,note,excerpt,url,folder,tags,created,cover,highlights,favorite',
   '1,"Test Tool","","","https://example.com/","Apps/Services / AI Tools & Services / AI Apps","",2026-01-01T00:00:00.000Z,,,true',
+  // Regression test for the GROUP_CONCAT alphabetization bug: source-code URLs
+  // must render in note-text (insertion) order, not sorted alphabetically.
+  // "z" comes first in the note but "a" sorts first alphabetically.
+  '2,"Multi Source Tool","Source-code: https://github.com/z/zzz, https://github.com/a/aaa","","https://example.org/","Apps/Services / AI Tools & Services / AI Apps","",2026-01-01T00:00:00.000Z,,,false',
 ].join('\n')
 
 const db = getDb(':memory:')
@@ -22,6 +26,13 @@ assert.ok(written.includes('ai-tools-and-services.md'))
 const content = fs.readFileSync(path.join(outputDir, 'ai-tools-and-services.md'), 'utf8')
 assert.match(content, /## AI Apps/)
 assert.match(content, /⭐ \*\*\[Test Tool\]\(https:\/\/example\.com\/\)\*\*/)
+
+const multiSourceLine = content.split('\n').find((line) => line.includes('Multi Source Tool'))
+assert.ok(multiSourceLine, 'Multi Source Tool line not found')
+assert.equal(
+  multiSourceLine,
+  '- [Multi Source Tool](https://example.org/) / [🔗](https://github.com/z/zzz), [🔗](https://github.com/a/aaa)'
+)
 
 fs.rmSync(outputDir, { recursive: true, force: true })
 console.log('export-markdown.test.js: PASS')
