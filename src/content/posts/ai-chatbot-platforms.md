@@ -13,9 +13,15 @@ tags:
 
 # AI Chatbot Platforms, Coding Agents, and Model Families
 
-Layer-by-layer comparison of the AI ecosystem stack: LLM serving, client agents, model families, protocol transport, and UI rendering.
+A layer-by-layer comparison of the AI ecosystem stack: LLM serving, client agents, model families, protocol transport, and UI rendering. The goal is to separate what's converged and shared across the whole space from what actually differs — ecosystem by ecosystem, and model family by model family — so the tables below can stay focused on the differences that matter.
 
-Each ecosystem earns its place differently. **Anthropic's Claude** is the strongest pick for programming and design work — Claude Code and Claude's reasoning consistently lead on real coding and creative tasks. **OpenAI's ChatGPT** remains the best all-around experience: the broadest feature set, the most polished UI, and the widest third-party integration. **Google** pairs a strong model with the deepest product integration (Search, Workspace, Android) at a competitive price. **GitHub Copilot** wins on IDE-native workflow, since it already lives where most developers work. **Open Coding** (OpenCode, Cline, Kilo Code) is the best value outright — a free runtime plus $10/month unlocks near-frontier coding models. **Autonomous** agents (OpenClaw, Hermes) trade polish for automation reach, running unattended at effectively zero licensing cost. On raw subscription math, **Google's Gemini** stretches furthest per dollar among the paid plans — its $200 tier reaches a 20× multiplier over the $20 base — but Open Coding still wins on absolute value since the runtime itself is free.
+## Common ground
+
+- The middle layers have converged: Markdown output, SSE + JSON delta streaming, Markdown → AST → React rendering, and MCP as the tool-calling standard.
+- Real differences sit in model behavior, reasoning quality, context window reliability, product UX, and infrastructure strategy.
+- Open weights aren't rare: DeepSeek, Qwen, Llama, GLM, and Kimi all ship open checkpoints — DeepSeek and Qwen are the most practical picks for self-hosting and reproducibility.
+- Claude Code, Codex, GitHub Copilot, and OpenCode are coding clients built on top of these platforms, not independent model stacks.
+- Most internal architecture details remain proprietary; treat vendor-unconfirmed claims as estimates.
 
 ## Final comparison — complete AI agent ecosystems
 
@@ -28,9 +34,18 @@ Each ecosystem earns its place differently. **Anthropic's Claude** is the strong
 | 🟠 Open Coding | 🌍      | OpenCode · Cline · Kilo Code                                          | Any                   | Ollama · vLLM · llama.cpp · LM Studio · local server | Git · IDE · Terminal · MCP · APIs                  | Desktop · Web          | Free runtime · OpenCode Zen pay-as-you-go · Go $10 · API / local |
 | 🔴 Autonomous  | 🌍      | OpenClaw · Hermes                                                     | Any                   | Ollama · vLLM · llama.cpp · cloud optional           | Tools · Memory · Skills · Automation · MCP         | Desktop · Web · Mobile | Free runtime · API / local                   |
 
-## Model families by company
+**Best value by ecosystem**
 
-On LiveBench-style benchmarks, quality and price move independently once you leave the frontier subscriptions. **GLM** (Zhipu) is the value leader among open models — strong scores at a fraction of frontier pricing. For self-hosting, **Qwen** (Alibaba) is the practical default: its smaller checkpoints run on a single consumer GPU under an Apache-2.0 license. For the best open model overall, **DeepSeek** trails the closed frontier by only a few points on coding benchmarks while shipping fully open, MIT-licensed weights.
+| Ecosystem      | Best value pick                                          |
+|----------------|------------------------------------------------------------|
+| 🟣 Anthropic   | Best for programming & design work                        |
+| 🟢 OpenAI      | Best overall experience — broadest features, most polish  |
+| 🔵 Google      | Best $/multiplier — $200 tier reaches 20× the base plan    |
+| ⚫ GitHub      | Best IDE-native workflow, already where developers work   |
+| 🟠 Open Coding | Best absolute value — free runtime, $10/month for the rest |
+| 🔴 Autonomous  | Best for unattended automation at near-zero cost           |
+
+## Model families by company
 
 | Country | Company    | LLM family (name & variants)                        |
 |---------|------------|-------------------------------------------------------|
@@ -45,10 +60,14 @@ On LiveBench-style benchmarks, quality and price move independently once you lea
 | 🇨🇳      | Moonshot   | Kimi — K2 · reasoning family                            |
 | 🇨🇳      | Zhipu      | GLM — 4.5                                               |
 
-## Key Takeaways
+**Best value by model family** (LiveBench-style benchmarks)
 
-- The middle layers have converged: Markdown output, SSE + JSON delta streaming, Markdown → AST → React rendering, and MCP as the tool-calling standard.
-- Real differences sit in model behavior, reasoning quality, context window reliability, product UX, and infrastructure strategy.
-- DeepSeek, Qwen, Llama, GLM, and Kimi all ship open weights here — DeepSeek and Qwen are the most practical picks for self-hosting and reproducibility.
-- Claude Code, Codex, GitHub Copilot, and OpenCode are coding clients built on top of these platforms, not independent model stacks.
-- Most internal architecture details remain proprietary; treat vendor-unconfirmed claims as estimates.
+| Family            | Best value pick                                                |
+|-------------------|-------------------------------------------------------------------|
+| GLM (Zhipu)       | Value leader among open models — strong scores, fraction of the price |
+| Qwen (Alibaba)    | Best for self-hosting — smaller checkpoints run on one consumer GPU, Apache-2.0 |
+| DeepSeek          | Best open model overall — trails the closed frontier by a few points, MIT-licensed |
+
+## Conclusion
+
+The chatbot and coding-agent space keeps converging on the same middle layers — Markdown, SSE streaming, MCP — while the real differentiation has moved to the edges of the stack: which ecosystem fits how you actually work, and which model gives the best return per dollar. For most builders that settles into a hybrid pattern: a frontier subscription for the work that needs it (Claude for programming and design, ChatGPT for breadth of experience), paired with an open-weight model like Qwen or DeepSeek for the routine, high-volume tasks where self-hosting pays for itself.
