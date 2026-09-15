@@ -1,6 +1,8 @@
 # Roadmap
 
-> Planned work that isn't scheduled yet. See [`taxonomy.md`](./taxonomy.md) for the current category structure and `CLAUDE.md` for the content pipeline these items touch.
+> **Status**: Active. Planned work that isn't scheduled yet.
+> **Last updated**: 2026-09-15
+> **Related**: [`taxonomy.md`](./taxonomy.md) for the current category structure, [`releases.md`](./releases.md) for what's already shipped, and `CLAUDE.md` for the content pipeline these items touch.
 
 ## Categorization
 
