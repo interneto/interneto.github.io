@@ -15,22 +15,22 @@ tags:
 
 Layer-by-layer comparison of the AI ecosystem stack: LLM serving, client agents, model families, protocol transport, and UI rendering.
 
+Each ecosystem earns its place differently. **Anthropic's Claude** is the strongest pick for programming and design work — Claude Code and Claude's reasoning consistently lead on real coding and creative tasks. **OpenAI's ChatGPT** remains the best all-around experience: the broadest feature set, the most polished UI, and the widest third-party integration. **Google** pairs a strong model with the deepest product integration (Search, Workspace, Android) at a competitive price. **GitHub Copilot** wins on IDE-native workflow, since it already lives where most developers work. **Open Coding** (OpenCode, Cline, Kilo Code) is the best value outright — a free runtime plus $10/month unlocks near-frontier coding models. **Autonomous** agents (OpenClaw, Hermes) trade polish for automation reach, running unattended at effectively zero licensing cost. On raw subscription math, **Google's Gemini** stretches furthest per dollar among the paid plans — its $200 tier reaches a 20× multiplier over the $20 base — but Open Coding still wins on absolute value since the runtime itself is free.
+
 ## Final comparison — complete AI agent ecosystems
 
 | Ecosystem      | Country | Client / agent                                                        | Model family          | LLM serving                                          | Integration                                        | Platforms              | Price                                        |
 |----------------|---------|-----------------------------------------------------------------------|-----------------------|------------------------------------------------------|----------------------------------------------------|------------------------|----------------------------------------------|
 | 🟣 Anthropic   | 🇺🇸    | Claude Code · Agent                                                   | Claude                | AWS · Anthropic cloud                                | GitHub · IDE · Cloud · MCP                         | Desktop · Web · Mobile | $20 ~1× · $100 ~5× · $200 ~20×               |
 | 🟢 OpenAI      | 🇺🇸    | Codex · Cloud GPT                                                     | GPT                   | Azure · OpenAI cloud                                 | GitHub · IDE · Cloud · MCP                         | Desktop · Web · Mobile | $20 ~1× · $200 ~10×                          |
-| 🔵 Google      | 🇺🇸    | Gemini CLI · Antigravity                                              | Gemini                | Google Cloud · TPUs                                  | GitHub · IDE · Google Cloud · MCP                  | Desktop · Web · Mobile | $20 ~1× · $100 ~5–20×                        |
-| ⚫ GitHub      | 🇺🇸    | Copilot · Agent                                                       | GPT · Claude · Gemini | GitHub cloud · Actions · runners                     | GitHub · PR · Issues · Actions                     | Desktop · Web · Mobile | $35 Pro · usage credits                      |
-| 🟠 Open Coding | 🌍      | OpenCode · Cline · Kilo Code · t3code (agent harness control surface) | Any                   | Ollama · vLLM · llama.cpp · LM Studio · local server | Git · IDE · Terminal · MCP · APIs · t3code harness | Desktop · Web          | Free runtime · OpenCode Zen pay-as-you-go · Go $10 · API / local |
+| 🔵 Google      | 🇺🇸    | Gemini CLI · Antigravity                                              | Gemini                | Google Cloud · TPUs                                  | GitHub · IDE · Google Cloud · MCP                  | Desktop · Web · Mobile | $20 ~1× · $100 ~5× · $200 ~20×               |
+| ⚫ GitHub      | 🇺🇸    | Copilot · Agent                                                       | GPT · Claude · Gemini | GitHub cloud · Actions · runners                     | GitHub · PR · Issues · Actions                     | Desktop · Web · Mobile | $10 Pro · $35 Pro+ · usage credits           |
+| 🟠 Open Coding | 🌍      | OpenCode · Cline · Kilo Code                                          | Any                   | Ollama · vLLM · llama.cpp · LM Studio · local server | Git · IDE · Terminal · MCP · APIs                  | Desktop · Web          | Free runtime · OpenCode Zen pay-as-you-go · Go $10 · API / local |
 | 🔴 Autonomous  | 🌍      | OpenClaw · Hermes                                                     | Any                   | Ollama · vLLM · llama.cpp · cloud optional           | Tools · Memory · Skills · Automation · MCP         | Desktop · Web · Mobile | Free runtime · API / local                   |
 
-`t3code` fits better with the Open Coding family than with the Autonomous row because it is a harness/control-surface layer rather than a full self-running autonomous runtime.
-
-> **Best quality-price:** for pure value, **Open Coding** (OpenCode, Cline, Kilo Code) is hard to beat — the runtime is free and pairs with any open-weight model, with OpenCode's Go plan adding frontier-adjacent models for $10/month. Among the flagship subscriptions, **Google's Gemini** stretches furthest per dollar, with its $100 tier reaching up to a 20× multiplier over the $20 base plan.
-
 ## Model families by company
+
+On LiveBench-style benchmarks, quality and price move independently once you leave the frontier subscriptions. **GLM** (Zhipu) is the value leader among open models — strong scores at a fraction of frontier pricing. For self-hosting, **Qwen** (Alibaba) is the practical default: its smaller checkpoints run on a single consumer GPU under an Apache-2.0 license. For the best open model overall, **DeepSeek** trails the closed frontier by only a few points on coding benchmarks while shipping fully open, MIT-licensed weights.
 
 | Country | Company    | LLM family (name & variants)                        |
 |---------|------------|-------------------------------------------------------|
