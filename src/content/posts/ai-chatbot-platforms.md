@@ -53,9 +53,9 @@ There's no single winner here — the right ecosystem depends on what you're act
 | 🇨🇳      | Alibaba    | Qwen — 3 family                                         |
 | 🇨🇳      | DeepSeek   | DeepSeek — V4 · reasoning variants                      |
 | 🇨🇳      | Moonshot   | Kimi — K2 · reasoning family                            |
-| 🇨🇳      | Zhipu      | GLM — 4.5                                               |
 | 🇨🇳      | Tencent    | Hunyuan — Hy3 · Hy4 · T1 reasoning                      |
 | 🇨🇳      | Xiaomi     | MiMo — V2.5 · V2.5 Pro · Omni                           |
+| 🇨🇳      | Zhipu      | GLM — 4.5                                               |
 
 These are per-model API/token prices, not the ecosystem subscriptions above — for live, continuously-updated numbers, see this site's own [LLM Pricing](/blog/llm-pricing/) tracker.
 
