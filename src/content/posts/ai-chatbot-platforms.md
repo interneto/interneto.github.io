@@ -33,6 +33,9 @@ A layer-by-layer comparison of the AI ecosystem stack: LLM serving, client agent
 | ⚫ GitHub      | 🇺🇸    | Copilot · Agent                                                       | GPT · Claude · Gemini | GitHub cloud · Actions · runners                     | GitHub · PR · Issues · Actions                     | Desktop · Web · Mobile | $10 Pro · $35 Pro+ · usage credits           |
 | 🟠 Open Coding | 🌍      | OpenCode · Cline · Kilo Code                                          | Any                   | Ollama · vLLM · llama.cpp · LM Studio · local server | Git · IDE · Terminal · MCP · APIs                  | Desktop · Web          | Free runtime · OpenCode Zen pay-as-you-go · Go $10 · API / local |
 | 🔴 Autonomous  | 🌍      | OpenClaw · Hermes                                                     | Any                   | Ollama · vLLM · llama.cpp · cloud optional           | Tools · Memory · Skills · Automation · MCP         | Desktop · Web · Mobile | Free runtime · API / local                   |
+| 🟡 Routing     | 🌍      | OpenRouter                                                            | Any (400+ models)     | Passthrough to every major provider's cloud          | API · SDKs · MCP                                   | Web · API              | Pay-per-token, ~0% markup · free-tier models |
+
+OpenRouter isn't the only unified gateway: **LiteLLM** is the open-source, self-hostable option; **Portkey** adds compliance and observability tooling on top; **Requesty** offers a similar hosted catalog. **Together AI** and **Fireworks AI** take a different approach — they're inference providers hosting open models on their own hardware, not aggregators reselling everyone else's.
 
 For live, continuously-updated numbers behind the figures above, see this site's own [LLM Pricing](/blog/llm-pricing/) tracker.
 
