@@ -2,7 +2,7 @@
 
 > **Status**: Active. Planned work that isn't scheduled yet.
 > **Last updated**: 2026-09-15
-> **Related**: [`TAXONOMY.md`](./TAXONOMY.md) for the current category structure, [`RELEASES.md`](./RELEASES.md) for what's already shipped, and `CLAUDE.md` for the content pipeline these items touch.
+> **Related**: [`TAXONOMY.md`](./TAXONOMY.md) for the current category structure, [`CHANGELOG.md`](./CHANGELOG.md) for what's already shipped, and `CLAUDE.md` for the content pipeline these items touch.
 
 ## Categorization
 

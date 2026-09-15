@@ -1,4 +1,4 @@
-# Releases
+# Changelog
 
 > **Status**: Active. Dated changelog of notable, user-facing changes.
 > **Last updated**: 2026-09-15
@@ -9,7 +9,7 @@ This site deploys continuously on every push to `main` (see `.github/workflows/d
 ## 2026-09-15
 
 - Rewrote the AI Chatbot Platforms post: fixed GitHub Copilot and Google Gemini pricing, dropped the References/Maintenance Note/Cohere row, added a "Common ground" section and per-table "best value" tables, replaced Key Takeaways with a single Conclusion.
-- Added `docs/ROADMAP.md` and `docs/RELEASES.md`.
+- Added `docs/ROADMAP.md` and `docs/CHANGELOG.md`.
 
 ## 2026-08-29
 
