@@ -25,26 +25,22 @@ A layer-by-layer comparison of the AI ecosystem stack: LLM serving, client agent
 
 ## AI agent ecosystems
 
-| Ecosystem      | Country | Client / agent                                                        | Model family          | LLM serving                                          | Integration                                        | Platforms              | Price                                        |
-|----------------|---------|-----------------------------------------------------------------------|-----------------------|------------------------------------------------------|----------------------------------------------------|------------------------|----------------------------------------------|
-| 🟣 Anthropic   | 🇺🇸    | Claude Code · Agent                                                   | Claude                | AWS · Anthropic cloud                                | GitHub · IDE · Cloud · MCP                         | Desktop · Web · Mobile | $20 ~1× · $100 ~5× · $200 ~20×               |
-| 🟢 OpenAI      | 🇺🇸    | Codex · Cloud GPT                                                     | GPT                   | Azure · OpenAI cloud                                 | GitHub · IDE · Cloud · MCP                         | Desktop · Web · Mobile | $20 ~1× · $200 ~10×                          |
-| 🔵 Google      | 🇺🇸    | Gemini CLI · Antigravity                                              | Gemini                | Google Cloud · TPUs                                  | GitHub · IDE · Google Cloud · MCP                  | Desktop · Web · Mobile | $20 ~1× · $100 ~5× · $200 ~20×               |
-| ⚫ GitHub      | 🇺🇸    | Copilot · Agent                                                       | GPT · Claude · Gemini | GitHub cloud · Actions · runners                     | GitHub · PR · Issues · Actions                     | Desktop · Web · Mobile | $10 Pro · $35 Pro+ · usage credits           |
-| 🟠 Open Coding | 🌍      | OpenCode · Cline · Kilo Code                                          | Any                   | Ollama · vLLM · llama.cpp · LM Studio · local server | Git · IDE · Terminal · MCP · APIs                  | Desktop · Web          | Free runtime · OpenCode Zen pay-as-you-go · Go $10 · API / local |
-| 🔴 Autonomous  | 🌍      | OpenClaw · Hermes                                                     | Any                   | Ollama · vLLM · llama.cpp · cloud optional           | Tools · Memory · Skills · Automation · MCP         | Desktop · Web · Mobile | Free runtime · API / local                   |
+| Ecosystem      | Country | Client / agent                                                        | Model family          | LLM serving                                          | Integration                                        | Platforms              | Price                                        | Best for                                    |
+|----------------|---------|-----------------------------------------------------------------------|-----------------------|------------------------------------------------------|----------------------------------------------------|------------------------|----------------------------------------------|----------------------------------------------|
+| 🟣 Anthropic   | 🇺🇸    | Claude Code · Agent                                                   | Claude                | AWS · Anthropic cloud                                | GitHub · IDE · Cloud · MCP                         | Desktop · Web · Mobile | $20 ~1× · $100 ~5× · $200 ~20×               | Programming & design work                    |
+| 🟢 OpenAI      | 🇺🇸    | Codex · Cloud GPT                                                     | GPT                   | Azure · OpenAI cloud                                 | GitHub · IDE · Cloud · MCP                         | Desktop · Web · Mobile | $20 ~1× · $200 ~10×                          | Breadth of features & polish                 |
+| 🔵 Google      | 🇺🇸    | Gemini CLI · Antigravity                                              | Gemini                | Google Cloud · TPUs                                  | GitHub · IDE · Google Cloud · MCP                  | Desktop · Web · Mobile | $20 ~1× · $100 ~5× · $200 ~20×               | Deep product integration (Search, Workspace) |
+| ⚫ GitHub      | 🇺🇸    | Copilot · Agent                                                       | GPT · Claude · Gemini | GitHub cloud · Actions · runners                     | GitHub · PR · Issues · Actions                     | Desktop · Web · Mobile | $10 Pro · $35 Pro+ · usage credits           | IDE-native workflow                           |
+| 🟠 Open Coding | 🌍      | OpenCode · Cline · Kilo Code                                          | Any                   | Ollama · vLLM · llama.cpp · LM Studio · local server | Git · IDE · Terminal · MCP · APIs                  | Desktop · Web          | Free runtime · OpenCode Zen pay-as-you-go · Go $10 · API / local | Self-hosted flexibility & cost control        |
+| 🔴 Autonomous  | 🌍      | OpenClaw · Hermes                                                     | Any                   | Ollama · vLLM · llama.cpp · cloud optional           | Tools · Memory · Skills · Automation · MCP         | Desktop · Web · Mobile | Free runtime · API / local                   | Unattended automation                         |
+
+There's no single winner here — the right ecosystem depends on what you're actually optimizing for, which is why "Best for" is a column rather than a ranking.
 
 ### Routers & gateways
 
 **OpenRouter**, **LiteLLM**, **Portkey**, **Requesty**, and **OmniRoute** aren't ecosystems of their own — they're a routing layer that plugs *into* the clients above (VS Code Copilot Chat, Claude Code, Hermes agent, and so on), giving each one API key to reach hundreds of models across every provider instead of a separate integration per vendor. **OpenRouter** is the hosted default (400+ models, near-zero markup, free-tier models available); **LiteLLM** and **OmniRoute** are open-source and self-hostable (OmniRoute is local-first and MIT-licensed); **Portkey** adds compliance and observability tooling; **Requesty** offers a similar hosted catalog. **Together AI** and **Fireworks AI** are a different animal — inference providers hosting open models on their own hardware, not aggregators reselling everyone else's.
 
 For live, continuously-updated numbers behind the figures above, see this site's own [LLM Pricing](/blog/llm-pricing/) tracker.
-
-**Best value by ecosystem**
-
-- **Open Coding** — best absolute value: free runtime, $10/month unlocks near-frontier models.
-- **Google (Gemini)** — best $/multiplier: the $200 tier reaches 20× the $20 base plan.
-- **Autonomous** (OpenClaw, Hermes) — best for unattended automation at near-zero licensing cost.
 
 ## Model families by company
 
