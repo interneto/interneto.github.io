@@ -6,7 +6,7 @@
  * data-loader. This module is a thin wrapper kept for call-site stability.
  * `initConfigData()` must resolve before these are used.
  *
- * Canonical reference: docs/taxonomy.md
+ * Canonical reference: docs/TAXONOMY.md
  */
 
 import { resolveCategoryName } from './data-loader';
