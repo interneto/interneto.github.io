@@ -23,7 +23,7 @@ A layer-by-layer comparison of the AI ecosystem stack: LLM serving, client agent
 - Claude Code, Codex, GitHub Copilot, and OpenCode are coding clients built on top of these platforms, not independent model stacks.
 - Most internal architecture details remain proprietary; treat vendor-unconfirmed claims as estimates.
 
-## Final comparison — complete AI agent ecosystems
+## AI agent ecosystems
 
 | Ecosystem      | Country | Client / agent                                                        | Model family          | LLM serving                                          | Integration                                        | Platforms              | Price                                        |
 |----------------|---------|-----------------------------------------------------------------------|-----------------------|------------------------------------------------------|----------------------------------------------------|------------------------|----------------------------------------------|
@@ -34,16 +34,13 @@ A layer-by-layer comparison of the AI ecosystem stack: LLM serving, client agent
 | 🟠 Open Coding | 🌍      | OpenCode · Cline · Kilo Code                                          | Any                   | Ollama · vLLM · llama.cpp · LM Studio · local server | Git · IDE · Terminal · MCP · APIs                  | Desktop · Web          | Free runtime · OpenCode Zen pay-as-you-go · Go $10 · API / local |
 | 🔴 Autonomous  | 🌍      | OpenClaw · Hermes                                                     | Any                   | Ollama · vLLM · llama.cpp · cloud optional           | Tools · Memory · Skills · Automation · MCP         | Desktop · Web · Mobile | Free runtime · API / local                   |
 
+For live, continuously-updated numbers behind the figures above, see this site's own [LLM Pricing](/blog/llm-pricing/) tracker.
+
 **Best value by ecosystem**
 
-| Ecosystem      | Best value pick                                          |
-|----------------|------------------------------------------------------------|
-| 🟣 Anthropic   | Best for programming & design work                        |
-| 🟢 OpenAI      | Best overall experience — broadest features, most polish  |
-| 🔵 Google      | Best $/multiplier — $200 tier reaches 20× the base plan    |
-| ⚫ GitHub      | Best IDE-native workflow, already where developers work   |
-| 🟠 Open Coding | Best absolute value — free runtime, $10/month for the rest |
-| 🔴 Autonomous  | Best for unattended automation at near-zero cost           |
+- **Open Coding** — best absolute value: free runtime, $10/month unlocks near-frontier models.
+- **Google (Gemini)** — best $/multiplier: the $200 tier reaches 20× the $20 base plan.
+- **Autonomous** (OpenClaw, Hermes) — best for unattended automation at near-zero licensing cost.
 
 ## Model families by company
 
@@ -59,14 +56,14 @@ A layer-by-layer comparison of the AI ecosystem stack: LLM serving, client agent
 | 🇨🇳      | DeepSeek   | DeepSeek — V4 · reasoning variants                      |
 | 🇨🇳      | Moonshot   | Kimi — K2 · reasoning family                            |
 | 🇨🇳      | Zhipu      | GLM — 4.5                                               |
+| 🇨🇳      | Tencent    | Hunyuan — Hy3 · Hy4 · T1 reasoning                      |
+| 🇨🇳      | Xiaomi     | MiMo — V2.5 · V2.5 Pro · Omni                           |
 
-**Best value by model family** (LiveBench-style benchmarks)
+**Best value by model family**, based on [LiveBench](https://livebench.ai/) scores:
 
-| Family            | Best value pick                                                |
-|-------------------|-------------------------------------------------------------------|
-| GLM (Zhipu)       | Value leader among open models — strong scores, fraction of the price |
-| Qwen (Alibaba)    | Best for self-hosting — smaller checkpoints run on one consumer GPU, Apache-2.0 |
-| DeepSeek          | Best open model overall — trails the closed frontier by a few points, MIT-licensed |
+- **GLM** (Zhipu) — value leader among open models: strong scores at a fraction of frontier pricing.
+- **Qwen** (Alibaba) — best for self-hosting: smaller checkpoints run on one consumer GPU, Apache-2.0.
+- **DeepSeek** — best open model overall: trails the closed frontier by a few points, MIT-licensed.
 
 ## Conclusion
 
