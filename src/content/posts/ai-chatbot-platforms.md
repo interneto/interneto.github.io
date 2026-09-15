@@ -1,6 +1,6 @@
 ---
 title: AI Chatbot Platforms, Coding Agents, and Model Families
-description: A June 2026 comparison of AI chatbot platforms, coding agents, model families, and LLM serving across Anthropic, OpenAI, Google, Meta, DeepSeek, xAI, Mistral, Cohere, Alibaba, Zhipu, and Kimi.
+description: A June 2026 comparison of AI chatbot platforms, coding agents, model families, and LLM serving across Anthropic, OpenAI, Google, Meta, DeepSeek, xAI, Mistral, Alibaba, Zhipu, and Kimi.
 date: 2026-06-07
 next: true
 prev: true
@@ -49,6 +49,6 @@ On LiveBench-style benchmarks, quality and price move independently once you lea
 
 - The middle layers have converged: Markdown output, SSE + JSON delta streaming, Markdown → AST → React rendering, and MCP as the tool-calling standard.
 - Real differences sit in model behavior, reasoning quality, context window reliability, product UX, and infrastructure strategy.
-- DeepSeek is the only platform here with open weights — a meaningful distinction for self-hosting and reproducibility.
-- Claude Code, Codex, GitHub Copilot, and OpenCode are coding clients built on top of these platforms, not independent model stacks.II
+- DeepSeek, Qwen, Llama, GLM, and Kimi all ship open weights here — DeepSeek and Qwen are the most practical picks for self-hosting and reproducibility.
+- Claude Code, Codex, GitHub Copilot, and OpenCode are coding clients built on top of these platforms, not independent model stacks.
 - Most internal architecture details remain proprietary; treat vendor-unconfirmed claims as estimates.
