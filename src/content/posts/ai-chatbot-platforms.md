@@ -40,8 +40,6 @@ There's no single winner here — the right ecosystem depends on what you're act
 
 **OpenRouter**, **LiteLLM**, **Portkey**, **Requesty**, and **OmniRoute** aren't ecosystems of their own — they're a routing layer that plugs *into* the clients above (VS Code Copilot Chat, Claude Code, Hermes agent, and so on), giving each one API key to reach hundreds of models across every provider instead of a separate integration per vendor. **OpenRouter** is the hosted default (400+ models, near-zero markup, free-tier models available); **LiteLLM** and **OmniRoute** are open-source and self-hostable (OmniRoute is local-first and MIT-licensed); **Portkey** adds compliance and observability tooling; **Requesty** offers a similar hosted catalog. **Together AI** and **Fireworks AI** are a different animal — inference providers hosting open models on their own hardware, not aggregators reselling everyone else's.
 
-For live, continuously-updated numbers behind the figures above, see this site's own [LLM Pricing](/blog/llm-pricing/) tracker.
-
 ## Model families by company
 
 | Country | Company    | LLM family (name & variants)                        |
@@ -58,6 +56,8 @@ For live, continuously-updated numbers behind the figures above, see this site's
 | 🇨🇳      | Zhipu      | GLM — 4.5                                               |
 | 🇨🇳      | Tencent    | Hunyuan — Hy3 · Hy4 · T1 reasoning                      |
 | 🇨🇳      | Xiaomi     | MiMo — V2.5 · V2.5 Pro · Omni                           |
+
+These are per-model API/token prices, not the ecosystem subscriptions above — for live, continuously-updated numbers, see this site's own [LLM Pricing](/blog/llm-pricing/) tracker.
 
 **Best value by model family**, based on [LiveBench](https://livebench.ai/) scores:
 
