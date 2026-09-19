@@ -1,6 +1,6 @@
 ---
-title: AI Chatbot Platforms
-description: Layer-by-layer comparison of ChatGPT, Claude, Gemini, and DeepSeek — models, architecture, capabilities, tooling, and infrastructure (June 2026 snapshot)
+title: AI Chatbot Platforms, Coding Agents, and Model Families
+description: A June 2026 comparison of AI chatbot platforms, coding agents, model families, and LLM serving across Anthropic, OpenAI, Google, Meta, DeepSeek, xAI, Mistral, Alibaba, Zhipu, and Kimi.
 date: 2026-06-07
 next: true
 prev: true
@@ -11,228 +11,60 @@ tags:
   - software
 ---
 
-# AI Chatbot Platform
+# AI Chatbot Platforms, Coding Agents, and Model Families
 
-Layer-by-layer comparison of ChatGPT, Claude, Gemini, and DeepSeek — from model internals to client UI and infrastructure.
+A layer-by-layer comparison of the AI ecosystem stack: LLM serving, client agents, model families, protocol transport, and UI rendering. The goal is to separate what's converged and shared across the whole space from what actually differs — ecosystem by ecosystem, and model family by model family — so the tables below can stay focused on the differences that matter.
 
-This is a living document. Update it when major model versions, protocols, or platform architecture change.
-
-## Platform Stack
-
-<table>
-  <colgroup>
-    <col style="width:18%">
-    <col style="width:20.5%">
-    <col style="width:20.5%">
-    <col style="width:20.5%">
-    <col style="width:20.5%">
-  </colgroup>
-  <thead>
-    <tr>
-      <th>Dimension</th>
-      <th><img src="/img/software/apps/chatgpt.svg" width="18" height="18" style="display:inline;vertical-align:middle"> ChatGPT</th>
-      <th><img src="/img/software/apps/claude.svg" width="18" height="18" style="display:inline;vertical-align:middle"> Claude</th>
-      <th><img src="/img/software/apps/deepseek.svg" width="18" height="18" style="display:inline;vertical-align:middle"> DeepSeek</th>
-      <th><img src="/img/software/apps/gemini.svg" width="18" height="18" style="display:inline;vertical-align:middle"> Gemini</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>Company</strong></td>
-      <td>OpenAI</td>
-      <td>Anthropic</td>
-      <td>DeepSeek AI</td>
-      <td>Google DeepMind</td>
-    </tr>
-    <tr>
-      <td><strong>Type / License</strong></td>
-      <td colspan="2">Proprietary — closed weights, closed API</td>
-      <td>Open weights (MIT / Apache 2.0 per model); closed API available</td>
-      <td>Proprietary — closed weights, closed API</td>
-    </tr>
-    <tr>
-      <td><strong>Pricing</strong></td>
-      <td>Free tier · Plus / Pro subscription · API per-token</td>
-      <td>Free tier · Pro / Max subscription · API per-token</td>
-      <td>Free tier · low-cost API per-token · self-host free (open weights)</td>
-      <td>Free tier · AI Pro / Ultra subscription · API per-token</td>
-    </tr>
-    <tr>
-      <td><strong>Model family (Jun 2026)</strong></td>
-      <td>GPT family; Instant / Thinking / Pro auto-routing</td>
-      <td>Opus / Sonnet / Haiku family</td>
-      <td>DeepSeek family; open-model-first</td>
-      <td>Gemini family (Flash + Pro)</td>
-    </tr>
-    <tr>
-      <td><strong>Architecture</strong></td>
-      <td colspan="2">Decoder-only Transformer; internals undisclosed</td>
-      <td>Decoder-only Transformer; open weights</td>
-      <td>Decoder-only Transformer; confirmed MoE top-k routing</td>
-    </tr>
-    <tr>
-      <td><strong>Multimodality</strong></td>
-      <td>Text, image, audio, voice</td>
-      <td>Text + vision</td>
-      <td>Text; focus on reasoning and coding</td>
-      <td>Native interleaved: text, image, audio, video</td>
-    </tr>
-    <tr>
-      <td><strong>Context window</strong></td>
-      <td>~400K tokens</td>
-      <td colspan="2">200K+ (tier-dependent)</td>
-      <td>1M tokens</td>
-    </tr>
-    <tr>
-      <td><strong>Output + transport</strong></td>
-      <td colspan="4">Markdown + SSE / JSON deltas — de facto standard <em>(Gemini additionally uses gRPC / protobuf internally)</em></td>
-    </tr>
-    <tr>
-      <td><strong>Render path</strong></td>
-      <td colspan="4">Markdown → AST → React components — no major divergence</td>
-    </tr>
-    <tr>
-      <td><strong>Rich UI / agents</strong></td>
-      <td>Apps SDK + Canvas over MCP</td>
-      <td>Artifacts + Cowork / Design; MCP origin</td>
-      <td>—</td>
-      <td>Canvas + Workspace depth; A2UI + MCP</td>
-    </tr>
-    <tr>
-      <td><strong>Tool standard</strong></td>
-      <td colspan="4">MCP — variance is ecosystem maturity and packaging, not protocol direction</td>
-    </tr>
-    <tr>
-      <td><strong>Client</strong></td>
-      <td colspan="4">Web React / TypeScript + native apps — depth varies by ecosystem</td>
-    </tr>
-    <tr>
-      <td><strong>Platforms (OS)</strong></td>
-      <td>Web · iOS · Android · Windows · macOS</td>
-      <td>Web · iOS · Android · Windows · macOS</td>
-      <td>Web · iOS · Android</td>
-      <td>Web · iOS · Android</td>
-    </tr>
-    <tr>
-      <td><strong>Infra</strong></td>
-      <td>Azure</td>
-      <td>AWS Trainium + Google TPU</td>
-      <td>—</td>
-      <td>Google TPUs</td>
-    </tr>
-  </tbody>
-</table>
-
-> **Linux** has no official native client for any of these — use the web app. ChatGPT and Claude ship native **Windows / macOS** desktop apps; DeepSeek and Gemini are web + mobile only (Gemini is also built into Android and ChromeOS).
->
-> **What the price buys:** not the model — the weights, clients, and protocols are free (DeepSeek's are even downloadable). You're paying to **rent compute** (per-token API or the subscription's hosted inference) plus the **managed service** around it: uptime, guardrails, the app, support, and ongoing training / post-training and the staff behind it. Self-host an open model and the software is free; you just supply the hardware.
-
-## Capabilities
-
-Beyond chat, each platform exposes interactive tools and rich rendering. What the app can *do* in a conversation — search the web, run code, render diagrams, preview UI — increasingly matters as much as raw model quality. Snapshot below; these features ship and change fast.
-
-<table>
-  <colgroup>
-    <col style="width:18%">
-    <col style="width:20.5%">
-    <col style="width:20.5%">
-    <col style="width:20.5%">
-    <col style="width:20.5%">
-  </colgroup>
-  <thead>
-    <tr>
-      <th>Capability</th>
-      <th><img src="/img/software/apps/chatgpt.svg" width="18" height="18" style="display:inline;vertical-align:middle"> ChatGPT</th>
-      <th><img src="/img/software/apps/claude.svg" width="18" height="18" style="display:inline;vertical-align:middle"> Claude</th>
-      <th><img src="/img/software/apps/deepseek.svg" width="18" height="18" style="display:inline;vertical-align:middle"> DeepSeek</th>
-      <th><img src="/img/software/apps/gemini.svg" width="18" height="18" style="display:inline;vertical-align:middle"> Gemini</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr><td><strong>Web search</strong></td><td>✅ with citations</td><td>✅</td><td>✅</td><td>✅ Search grounding</td></tr>
-    <tr><td><strong>Code execution</strong></td><td>✅ Python sandbox</td><td>✅ analysis tool</td><td>⚠️ code-gen only</td><td>✅ Python</td></tr>
-    <tr><td><strong>Live editor</strong></td><td>Canvas</td><td>Artifacts</td><td>—</td><td>Canvas</td></tr>
-    <tr><td><strong>Mermaid diagrams</strong></td><td>✅ in Canvas</td><td>✅ in Artifacts</td><td>code only</td><td>✅ in Canvas</td></tr>
-    <tr><td><strong>SVG / HTML / React preview</strong></td><td>✅ Canvas</td><td>✅ Artifacts</td><td>—</td><td>✅ Canvas</td></tr>
-    <tr><td><strong>Interactive maps</strong></td><td>✅ Apps (e.g. Mapbox)</td><td>⚠️ via MCP</td><td>—</td><td>✅ Google Maps</td></tr>
-    <tr><td><strong>Image generation</strong></td><td>✅</td><td>—</td><td>—</td><td>✅</td></tr>
-    <tr><td><strong>Voice (in / out)</strong></td><td>✅ Advanced Voice</td><td>⚠️ mobile</td><td>—</td><td>✅ Gemini Live</td></tr>
-    <tr><td><strong>File / data analysis</strong></td><td>✅</td><td>✅</td><td>⚠️ basic</td><td>✅</td></tr>
-    <tr><td><strong>Apps / extensibility</strong></td><td>✅ Apps SDK + MCP</td><td>✅ MCP connectors</td><td>—</td><td>✅ A2UI + MCP</td></tr>
-  </tbody>
-</table>
-
-> **Note:** Rich-UI output renders through the live-editor surfaces — ChatGPT **Canvas**, Claude **Artifacts**, Gemini **Canvas** — which preview HTML/React, SVG, and Mermaid inline. Maps and other third-party widgets arrive through the **Apps/MCP** layer, not the base model.
-
-## AI Coding Clients
-
-Claude Code, Codex, GitHub Copilot, and OpenCode solve a similar problem (AI-assisted coding), but they are client-layer products — not foundation model platforms.
-
-<table>
-  <colgroup>
-    <col style="width:18%">
-    <col style="width:20.5%">
-    <col style="width:20.5%">
-    <col style="width:20.5%">
-    <col style="width:20.5%">
-  </colgroup>
-  <thead>
-    <tr>
-      <th>Dimension</th>
-      <th><img src="/img/software/apps/claude-code.svg" width="18" height="18" style="display:inline;vertical-align:middle"> Claude Code</th>
-      <th><img src="/img/software/apps/codex.svg" width="18" height="18" style="display:inline;vertical-align:middle"> Codex</th>
-      <th><img src="/img/software/vscode-extensions/github-copilot.svg" width="18" height="18" style="display:inline;vertical-align:middle;background:white;border-radius:50%;border:1px solid #ccc;padding:1px"> GitHub Copilot</th>
-      <th><img src="/img/software/apps/opencode.svg" width="18" height="18" style="display:inline;vertical-align:middle"> OpenCode</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>Company</strong></td>
-      <td>Anthropic</td>
-      <td>OpenAI</td>
-      <td>GitHub (Microsoft)</td>
-      <td>sst (community)</td>
-    </tr>
-    <tr>
-      <td><strong>Type / License</strong></td>
-      <td>Proprietary client — closed source; subscription required</td>
-      <td>Open-source client — MIT; subscription required for the API</td>
-      <td colspan="2">Open-source client — MIT; BYOK: Ollama, any API provider, or GitHub-hosted models</td>
-    </tr>
-    <tr>
-      <td><strong>Model strategy</strong></td>
-      <td colspan="2">Tightly coupled to native model ecosystem</td>
-      <td colspan="2">Multi-provider: GitHub-hosted models, BYOK, or local (Ollama)</td>
-    </tr>
-    <tr>
-      <td><strong>Interface</strong></td>
-      <td colspan="2">Agentic coding sessions in terminal / editor</td>
-      <td>VS Code / IDE chat + inline completion + agent flows</td>
-      <td>Terminal-first workflow</td>
-    </tr>
-    <tr>
-      <td><strong>Tool fit</strong></td>
-      <td colspan="2">Integrated coding-tool loops</td>
-      <td>MCP ecosystem alignment</td>
-      <td>MCP / open-tooling flexibility</td>
-    </tr>
-    <tr>
-      <td><strong>Layer</strong></td>
-      <td colspan="4">Application-layer clients above model platforms</td>
-    </tr>
-  </tbody>
-</table>
-
-## Key Takeaways
+## Common ground
 
 - The middle layers have converged: Markdown output, SSE + JSON delta streaming, Markdown → AST → React rendering, and MCP as the tool-calling standard.
 - Real differences sit in model behavior, reasoning quality, context window reliability, product UX, and infrastructure strategy.
-- DeepSeek is the only platform here with open weights — a meaningful distinction for self-hosting and reproducibility.
+- Open weights aren't rare: DeepSeek, Qwen, Llama, GLM, and Kimi all ship open checkpoints — DeepSeek and Qwen are the most practical picks for self-hosting and reproducibility.
 - Claude Code, Codex, GitHub Copilot, and OpenCode are coding clients built on top of these platforms, not independent model stacks.
 - Most internal architecture details remain proprietary; treat vendor-unconfirmed claims as estimates.
 
-## Maintenance Note
+## AI agent ecosystems
 
-Update this article when model families, default routing behavior, context windows, or protocol layers change.
+| Ecosystem      | Country | Client / agent                                                        | Model family          | LLM serving                                          | Integration                                        | Platforms              | Price                                        | Best for                                    |
+|----------------|---------|-----------------------------------------------------------------------|-----------------------|------------------------------------------------------|----------------------------------------------------|------------------------|----------------------------------------------|----------------------------------------------|
+| 🟣 Anthropic   | 🇺🇸    | Claude Code · Agent                                                   | Claude                | AWS · Anthropic cloud                                | GitHub · IDE · Cloud · MCP                         | Desktop · Web · Mobile | $20 ~1× · $100 ~5× · $200 ~20×               | Programming & design work                    |
+| 🟢 OpenAI      | 🇺🇸    | Codex · Cloud GPT                                                     | GPT                   | Azure · OpenAI cloud                                 | GitHub · IDE · Cloud · MCP                         | Desktop · Web · Mobile | $20 ~1× · $200 ~10×                          | Breadth of features & polish                 |
+| 🔵 Google      | 🇺🇸    | Gemini CLI · Antigravity                                              | Gemini                | Google Cloud · TPUs                                  | GitHub · IDE · Google Cloud · MCP                  | Desktop · Web · Mobile | $20 ~1× · $100 ~5× · $200 ~20×               | Deep product integration (Search, Workspace) |
+| ⚫ GitHub      | 🇺🇸    | Copilot · Agent                                                       | GPT · Claude · Gemini | GitHub cloud · Actions · runners                     | GitHub · PR · Issues · Actions                     | Desktop · Web · Mobile | $10 Pro · $35 Pro+ · usage credits           | IDE-native workflow                           |
+| 🟠 Open Coding | 🌍      | OpenCode · Cline · Kilo Code                                          | Any                   | Ollama · vLLM · llama.cpp · LM Studio · local server | Git · IDE · Terminal · MCP · APIs                  | Desktop · Web          | Free runtime · OpenCode Zen pay-as-you-go · Go $10 · API / local | Self-hosted flexibility & cost control        |
+| 🔴 Autonomous  | 🌍      | OpenClaw · Hermes                                                     | Any                   | Ollama · vLLM · llama.cpp · cloud optional           | Tools · Memory · Skills · Automation · MCP         | Desktop · Web · Mobile | Free runtime · API / local                   | Unattended automation                         |
 
+There's no single winner here — the right ecosystem depends on what you're actually optimizing for, which is why "Best for" is a column rather than a ranking.
 
+### Routers & gateways
+
+**OpenRouter**, **LiteLLM**, **Portkey**, **Requesty**, and **OmniRoute** aren't ecosystems of their own — they're a routing layer that plugs *into* the clients above (VS Code Copilot Chat, Claude Code, Hermes agent, and so on), giving each one API key to reach hundreds of models across every provider instead of a separate integration per vendor. **OpenRouter** is the hosted default (400+ models, near-zero markup, free-tier models available); **LiteLLM** and **OmniRoute** are open-source and self-hostable (OmniRoute is local-first and MIT-licensed); **Portkey** adds compliance and observability tooling; **Requesty** offers a similar hosted catalog. **Together AI** and **Fireworks AI** are a different animal — inference providers hosting open models on their own hardware, not aggregators reselling everyone else's.
+
+## Model families by company
+
+| Country | Company    | LLM family (name & variants)                        |
+|---------|------------|-------------------------------------------------------|
+| 🇫🇷      | Mistral AI | Mistral — Large · Small · Codestral                    |
+| 🇺🇸      | Anthropic  | Claude — Sonnet · Opus · Haiku                          |
+| 🇺🇸      | Google     | Gemini — 3 · Flash · Pro · Ultra                        |
+| 🇺🇸      | Meta       | Llama — 4.x family                                      |
+| 🇺🇸      | OpenAI     | GPT — Luna · Terra · Sol · Astra                        |
+| 🇺🇸      | xAI        | Grok — family                                           |
+| 🇨🇳      | Alibaba    | Qwen — 3 family                                         |
+| 🇨🇳      | DeepSeek   | DeepSeek — V4 · reasoning variants                      |
+| 🇨🇳      | Moonshot   | Kimi — K2 · reasoning family                            |
+| 🇨🇳      | Tencent    | Hunyuan — Hy3 · Hy4 · T1 reasoning                      |
+| 🇨🇳      | Xiaomi     | MiMo — V2.5 · V2.5 Pro · Omni                           |
+| 🇨🇳      | Zhipu      | GLM — 4.5                                               |
+
+These are per-model API/token prices, not the ecosystem subscriptions above — for live, continuously-updated numbers, see this site's own [LLM Pricing](/blog/llm-pricing/) tracker.
+
+**Best value by model family**, based on [LiveBench](https://livebench.ai/) scores:
+
+- **GLM** (Zhipu) — value leader among open models: strong scores at a fraction of frontier pricing.
+- **Qwen** (Alibaba) — best for self-hosting: smaller checkpoints run on one consumer GPU, Apache-2.0.
+- **DeepSeek** — best open model overall: trails the closed frontier by a few points, MIT-licensed.
+
+## Conclusion
+
+The chatbot and coding-agent space keeps converging on the same middle layers — Markdown, SSE streaming, MCP — while the real differentiation has moved to the edges of the stack: which ecosystem fits how you actually work, and which model gives the best return per dollar. For most builders that settles into a hybrid pattern: a frontier subscription for the work that needs it (Claude for programming and design, ChatGPT for breadth of experience), paired with an open-weight model like Qwen or DeepSeek for the routine, high-volume tasks where self-hosting pays for itself.

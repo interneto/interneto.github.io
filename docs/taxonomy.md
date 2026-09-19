@@ -304,7 +304,7 @@ Old category URLs redirect to new ones (configured in `astro.config.ts`):
 
 ## References
 
-- **This document**: `docs/taxonomy.md`
+- **This document**: `docs/TAXONOMY.md`
 - **Category config**: `scripts/config/categories.js`
 - **Converter**: `scripts/convert.js`
 - **Toolbox config**: `public/pkgs/config.json`

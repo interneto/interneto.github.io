@@ -5,7 +5,7 @@
  * Only top-level categories map to content collections (one .md per category);
  * children (e.g. Multimedia sons) and `aliases` are for the runtime toolbox.
  *
- * Canonical reference: docs/taxonomy.md
+ * Canonical reference: docs/TAXONOMY.md
  */
 
 import fs from 'node:fs'

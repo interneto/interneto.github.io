@@ -175,7 +175,7 @@ The model layer is no longer the bottleneck — open weights trail the frontier 
 - [Agent Arena | AI Agent Performance Leaderboard](https://arena.ai/leaderboard/agent)
 - [Artificial Analysis | AI Model & API Providers Analysis](https://artificialanalysis.ai/)
 - [LiveBench | LLM Benchmark](https://livebench.ai/#/?highunseenbias=true)
-- [Interneto | LLM Pricing](https://interneto.github.io/llm-pricing/)
+- [Interneto | LLM Pricing](/blog/llm-pricing/)
 
 <!-- favicon references -->
 [ag]:     /img/assets/gen-ai-tools/antigravity.svg
