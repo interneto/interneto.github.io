@@ -164,6 +164,40 @@
         "Skill"
       ]
     },
+    "archify": {
+      "name": "Archify",
+      "type": "Plugin/Skill",
+      "category": "Development",
+      "agent_compat": {
+        "claude": true,
+        "codex": true,
+        "copilot": true,
+        "npx": true
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "npx skills add tt-a1i/archify -g"
+        },
+        {
+          "agent": "codex",
+          "cmd": "npx skills add tt-a1i/archify -g"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "npx skills add tt-a1i/archify -g"
+        },
+        {
+          "agent": "npx",
+          "cmd": "npx skills add tt-a1i/archify -g"
+        }
+      ],
+      "url": "https://github.com/tt-a1i/archify",
+      "tags": [
+        "Plugin",
+        "Skill"
+      ]
+    },
     "audio2score-mcp": {
       "name": "Audio2Score MCP",
       "type": "MCP Server",
