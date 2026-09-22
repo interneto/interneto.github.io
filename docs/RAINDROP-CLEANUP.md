@@ -108,7 +108,12 @@ Tree first, bookmarks second, one subtree at a time.
 - `Content` subtree top level audited: `Text / Source-code / Audio / Audiovisual / Software-packages / Resource / Image / Upload` is a clean single format axis, no rework needed at that level.
 - `Health video` (1) and `Places video` (2), both under `Audiovisual`, merged into existing siblings `Explaining video` and `Documentary video` after confirming content fit. Shells empty.
 - Still open in `Audiovisual`: `Political system video` (4 bookmarks — actual content is Illuminati/Jesuits/Rothschild/Vatican conspiracy videos, label doesn't match; needs maintainer input on the right name) — not renamed. `VR video` (1) and `Records video` (3, world-record clips) left as-is — genuinely distinct content, no good merge target.
-- ~425 collections / ~11,200 bookmarks still unreviewed in `Saved > Content`, mainly `Source-code` (possible near-duplicate: `Scripts` vs `Coding content` — unverified) and `Software-packages`.
+- `Political system video` → renamed (by maintainer, directly in Raindrop) to `Conspiracy Theory video` — matches its actual contents (Illuminati/Jesuits/Rothschild/Vatican videos). Confirmed correct.
+- `Scripts` vs `Coding content` (`Source-code`): checked both, no overlap — `Scripts` is OS install/setup scripts only, `Coding content` is a broad grab-bag (CodePen demos, Colab notebooks, tutorials, checklists). Rule 5 (near-duplicate merge) doesn't apply. `Coding content` itself is low-coherence and a real split candidate later (≥40 items, rule 3) — not attempted yet.
+- `Software-packages` audited: clean single axis (package manager/ecosystem), consistent `kebab-case` naming matching real package-manager slugs (the `lower` flag here is a deliberate, coherent convention, not an inconsistency — left untouched). No changes needed.
+- `Encyclopedia content` (2,559 bookmarks, the second-largest branch in `Content`) audited: a coherent Dewey-like subject tree, single axis at every level, all consistently `wp`-suffixed. Two real fixes: `Tunning wp` → `Tuning wp` (typo); `Music Theory (Spanish) wp` (my earlier translation of `Teoría musical wp`) turned out to split the tree on *language* where every other node here splits on *subject* — a rule-1 violation I introduced myself. Re-checked its 23 bookmarks' actual content and they're specifically about intervals/tuning, so split them into the existing `Interval music wp` (+12) and `Tuning wp` (+11) rather than the generic parent — higher fidelity, still zero new categories. Shell empty.
+- Sampled `Physics wp`'s 151 "own" bookmarks (a big mixed-flag branch): confirmed legitimate — general physics-glossary entries (Buoyancy, Angular momentum, Capacitance…) that don't fit one subfield. Entity-with-subtypes, not a lazy dump. Left as-is.
+- Remaining unreviewed in `Saved > Content`: `Text` branch outside Encyclopedia content (Blog content, Book, Patent content, …), `Resource`, `Image`, `Upload`, and the `Music content` genre tree under `Audio`. `App repository` (1,986 bookmarks, one flat leaf) is the single biggest remaining MDL opportunity in the whole library — flagged, not attempted; a real subdivision needs a dedicated pass (likely by language/topic, sampled from the 1,986 first).
 - `Business & Commerce` (103 flags) and `Online Services` (97 flags) not yet started — next largest after `Content`.
 
 ## Test state
@@ -117,7 +122,9 @@ Tree first, bookmarks second, one subtree at a time.
 
 ## Open questions for the maintainer
 
-1. `Minesterio de APA` → confirmed as "Ministry of Agriculture, Fisheries and Food"?
-2. What should `Political system video` (4 conspiracy-theory videos) be renamed to?
-3. Roles of `Saved` (working read: holds content items) and `Society` (working read: holds entities — governments, organizations, portfolios) — correct?
-4. Which order for the remaining big branches: finish `Saved > Content`, or move to `Business & Commerce` / `Online Services` next?
+All answered 2026-09-22:
+
+1. `Ministry of Agriculture, Fisheries and Food` — confirmed correct.
+2. `Political system video` — already renamed by maintainer to `Conspiracy Theory video`, confirmed correct.
+3. `Saved` = content, `Society` = entities — confirmed correct.
+4. Order: finish `Saved > Content` before moving to `Business & Commerce` / `Online Services`. In progress.
