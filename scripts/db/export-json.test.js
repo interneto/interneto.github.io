@@ -6,7 +6,7 @@ import { exportJson } from './export-json.js'
 
 const csv = [
   'id,title,note,excerpt,url,folder,tags,created,cover,highlights,favorite',
-  '1,"Test Tool","Source-code: https://github.com/x/y","A tool","https://example.com/","Apps/Services / AI Tools & Services / AI Apps","Type: Open-Source",2026-01-01T00:00:00.000Z,https://example.com/cover.png,,true',
+  '1,"Test Tool","Source-code: https://github.com/x/y","A tool","https://example.com/","Apps & Services / AI Tools & Services / AI Apps","Type: Open-Source",2026-01-01T00:00:00.000Z,https://example.com/cover.png,,true',
 ].join('\n')
 
 const db = getDb(':memory:')

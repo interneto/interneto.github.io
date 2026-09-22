@@ -12,7 +12,7 @@
  *   orphans.tsv      collections with 0 bookmarks in their whole subtree
  *   bookmarks.tsv    id, collection_id, folder, title  (from the CSV export; only if the CSV exists)
  *
- * Paths use " > " because collection titles can contain "/" (e.g. "Apps/Services").
+ * Paths use " > " because collection titles can contain "/" (e.g. "Apps & Services").
  * CSV folder paths use " / ", which is how bookmarks are matched back to collection ids.
  */
 
