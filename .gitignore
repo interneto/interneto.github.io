@@ -19,3 +19,6 @@ scripts/crossref-cph*.py
 scripts/parse-cph*.py
 
 .worktrees/
+
+# Raindrop snapshot (regenerable)
+links/snapshot/
