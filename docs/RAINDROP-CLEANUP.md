@@ -18,7 +18,7 @@ From the maintainer, override any convenience:
 1. **Never delete** anything: bookmarks, collections, tags, highlights.
 2. ~~Never create anything net-new~~ — **superseded 2026-09-22**: creating collections (and bookmarks) is now allowed. `REVIEW` and `TEST` were the original pre-existing utility folders, created by hand by the maintainer before this changed.
 3. Allowed operations: **rename** a collection, **reparent** a collection (group it under an existing one, or under a newly created one), **move** a bookmark to a collection, **create** a collection (e.g. a new umbrella/grouping folder) when grouping calls for one that doesn't exist yet — prefer reusing or reparenting under an existing collection first (rule 4/5 in the classification system below), create only when no existing one fits.
-4. **Merging is allowed as long as nothing is deleted**: consolidating means moving every bookmark out of the redundant collection into the target and leaving the now-empty shell in place (or reparenting it under `REVIEW`) — never `merge_collections`, which deletes the source collections.
+4. **Merging is allowed as long as nothing is deleted**: consolidating means moving every bookmark out of the redundant collection into the target — never `merge_collections`, which deletes the source collections. **Standing rule, 2026-09-22: every merge always leaves its source collection empty (0 links) — that's expected, not a mistake, since deleting it is still forbidden. Reparent that now-empty shell under `REVIEW` in the same batch, immediately after the merge, rather than waiting for a separate sweep.** A rename never does this (same collection, same links, just relabeled) — only merges need this step.
 5. Not allowed on bookmarks: changing title, link, note, tags or metadata. Only the collection changes.
 6. Anything uncertain, or without a good home, goes to `REVIEW`. The maintainer decides later.
 7. Empty (orphan) collections are never removed by Claude. They are left in place or moved under `REVIEW`; the maintainer deletes them in the Raindrop app if they choose to.
@@ -97,8 +97,9 @@ Tree first, bookmarks second, one subtree at a time.
 1. **Refresh the snapshot** (see Data sources). Re-export the CSV before bookmark work.
 2. **Read before deciding.** For any node the rules above flag, pull a sample of its actual bookmarks (`find_bookmarks` with `collection_ids`) before renaming, merging or moving anything. The rules size the decision; the content confirms it.
 3. **Small, verified batches over one giant blind pass.** Apply a handful of high-confidence changes, then re-fetch the affected collections/bookmarks to confirm before reporting done or moving to the next cluster.
-4. **Low-confidence or judgment calls**: surface to the maintainer rather than guessing (e.g. a category whose name plainly doesn't match its contents, with no obvious correct rename).
-5. **Rebuild the site data** once a subtree is settled: re-export the CSV, `node scripts/convert.js` (or `pnpm sync`), `pnpm typecheck`, commit the regenerated content.
+4. **After any merge, reparent the emptied source under `REVIEW` in that same batch** (see hard rule 4) — don't leave it sitting empty where it was, and don't wait for a separate cleanup pass.
+5. **Low-confidence or judgment calls**: surface to the maintainer rather than guessing (e.g. a category whose name plainly doesn't match its contents, with no obvious correct rename).
+6. **Rebuild the site data** once a subtree is settled: re-export the CSV, `node scripts/convert.js` (or `pnpm sync`), `pnpm typecheck`, commit the regenerated content.
 
 ### Progress log
 
