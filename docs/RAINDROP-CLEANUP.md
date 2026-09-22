@@ -150,7 +150,7 @@ Tree first, bookmarks second, one subtree at a time.
 
 ## Test state
 
-`TEST` (id `75353327`) holds one bookmark ("Anthropic - Company"), used to prove `update_bookmarks` works. `REVIEW` (id `75353467`) now holds 20 empty collections (see progress log), ready for the maintainer to delete. Maintainer can delete `TEST` too whenever.
+`TEST` (id `75353327`) holds one bookmark ("Anthropic - Company"), used to prove `update_bookmarks` works. `REVIEW` (id `75353467`) now holds 24 empty collections (see progress log), ready for the maintainer to delete. Maintainer can delete `TEST` too whenever.
 
 ## Open questions for the maintainer
 
@@ -159,4 +159,25 @@ All answered 2026-09-22:
 1. `Ministry of Agriculture, Fisheries and Food` — confirmed correct.
 2. `Political system video` — already renamed by maintainer to `Conspiracy Theory video`, confirmed correct.
 3. `Saved` = content, `Society` = entities — confirmed correct.
-4. Order: finish `Saved > Content` before moving to `Business & Commerce` / `Online Services`. In progress.
+4. Order: finish `Saved > Content` before moving to `Business & Commerce` / `Online Services`. Done.
+
+## Pending tasks
+
+Everything below is known-outstanding as of 2026-09-22 — not yet done, not forgotten. Ordered roughly by what matters most.
+
+1. **Standardize category names across the whole library.** Only fixed where a specific naming clash was found while reviewing a branch (typos, one-off inconsistencies with immediate siblings). Never done as its own pass. Needs a real style decision from the maintainer first — candidates seen so far:
+   - Casing: sentence case (~1.2k titles) vs Title Case (~1.1k) is mixed library-wide; only fixed locally, never normalized globally.
+   - `kebab-case` package-manager names (`arch-packages`, `debian-packages`) are a **deliberate, correct** exception — don't touch those.
+   - Emoji-prefixed titles (`🎤 Pop`, `🤟 Rock`, `🎹 Instruments` under `Music content`) were flagged early, never addressed — keep, drop, or normalize?
+   - Abbreviation style is inconsistent (`OSD`, `NIH`, `NOAA` left as acronyms; `HHS`/`HS` were spelled out because siblings were already spelled out — the rule applied was "match your immediate siblings," not a library-wide standard).
+   - This needs the maintainer to pick a convention (Title Case? sentence case? acronym policy?) before a global pass — otherwise it's just more local guessing.
+2. **Apply the "read actual sibling content" lens more broadly.** The `AI Tools & Services` deep pass proved structural checks (branching factor, typos) miss real content-mixing that only shows up when you read what's inside near-adjacent categories (`LiteLLM` looked fine structurally, was wrong once read). This was only done for `AI Tools & Services` because the maintainer flagged it — every other reviewed branch got the shallower structural pass. Worth redoing branches with that deeper lens, especially the large ones (`Content`, `Online Services`, `Business & Commerce`).
+3. **`Saved > Creator` (2,594 bookmarks) and `Content Uploaded` (17) — never started.** The only two `Saved` branches not yet touched.
+4. **`Office & Productivity` still above target** (26 direct children, down from 29). Remaining candidate pairs not confidently merged: `Word processor` vs `Office suite`, `Contact manager` vs `CRM`. Need more digging than the earlier pass had budget for.
+5. **`Blogs media` (24 children) and `Forum` (16 children)** left wide on purpose — no honest shared umbrella found for their small single-topic leaves. Worth one more look in case a real grouping was missed.
+6. **`Portfolio > Dr`: 5 people still unclassified** (Sebastian La Rosa, Laura Prichard, Mar Gómez, Jimmy Wales, Joe Dispenza) — their actual field isn't determinable from title/domain alone; would need each site's content checked (`fetch_bookmark_content`) to place with confidence.
+7. **CSV re-export still pending on the maintainer's side.** `links/interneto-links.csv` was stale as of the last check (28,551 rows still say the old `Apps/Services` root name). Re-export from Raindrop before the next `node scripts/convert.js` / `pnpm sync`, or rows will be silently skipped by the now-corrected guard in `scripts/lib/utils.js`.
+8. **Site rebuild never run this session.** All changes so far are in Raindrop only — `src/content/categories/*.md` (and the live site) don't reflect any of it yet. Needs, in order: re-export CSV (#7) → `node scripts/convert.js` or `pnpm sync` → `pnpm typecheck` → commit.
+9. **`REVIEW` (24 items) and `TEST` (1 bookmark) are ready for the maintainer to delete** in the Raindrop app — Claude cannot delete. Includes the 4 religion-group leaves (`Buddhism`, `Hinduism`, `Islam`, `Judaism`) the maintainer may want to reconsider keeping as placeholders rather than deleting.
+10. **One low-confidence typo left unfixed**: `Cords map` (`Travel & Location`, 1 bookmark) — its content didn't confirm what "Cords" was meant to be.
+11. **Unrelated, from earlier in this session**: a distro-icon UI change (`src/pages/toolbox-installer/desktop.astro`, `public/styles/generator.css`) was made and confirmed lost from git history (commits never reached this working copy, cause unconfirmed). Not redone — say if you still want it.
