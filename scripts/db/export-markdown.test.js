@@ -8,11 +8,11 @@ import { exportMarkdown } from './export-markdown.js'
 
 const csv = [
   'id,title,note,excerpt,url,folder,tags,created,cover,highlights,favorite',
-  '1,"Test Tool","","","https://example.com/","Apps/Services / AI Tools & Services / AI Apps","",2026-01-01T00:00:00.000Z,,,true',
+  '1,"Test Tool","","","https://example.com/","Apps & Services / AI Tools & Services / AI Apps","",2026-01-01T00:00:00.000Z,,,true',
   // Regression test for the GROUP_CONCAT alphabetization bug: source-code URLs
   // must render in note-text (insertion) order, not sorted alphabetically.
   // "z" comes first in the note but "a" sorts first alphabetically.
-  '2,"Multi Source Tool","Source-code: https://github.com/z/zzz, https://github.com/a/aaa","","https://example.org/","Apps/Services / AI Tools & Services / AI Apps","",2026-01-01T00:00:00.000Z,,,false',
+  '2,"Multi Source Tool","Source-code: https://github.com/z/zzz, https://github.com/a/aaa","","https://example.org/","Apps & Services / AI Tools & Services / AI Apps","",2026-01-01T00:00:00.000Z,,,false',
 ].join('\n')
 
 const db = getDb(':memory:')
