@@ -19,10 +19,13 @@
     "sync": "node scripts/db/import.js && node scripts/db/validate.js && node scripts/db/export-markdown.js && node scripts/db/export-json.js"
   },
   "dependencies": {
+    "@astrojs/markdown-remark": "^7.3.1",
+    "@astrojs/markdown-satteri": "^0.4.2",
+    "@astrojs/mdx": "^8.0.2",
     "@astrojs/rss": "^4.0.19",
-    "@astrojs/sitemap": "^3.7.3",
+    "@astrojs/sitemap": "^3.7.4",
     "@observablehq/plot": "^0.6.17",
-    "astro": "^7.0.6",
+    "astro": "^7.3.4",
     "d3": "^7.9.0",
     "fuzzysort": "^4.0.2"
   },

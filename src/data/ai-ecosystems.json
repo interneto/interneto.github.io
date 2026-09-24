@@ -1,0 +1,274 @@
+{
+  "ecosystems": {
+    "title": "AI agent ecosystems",
+    "columns": [
+      { "key": "name", "label": "Ecosystem", "sortable": true },
+      { "key": "country", "label": "Country", "sortable": true },
+      { "key": "client", "label": "Client / agent" },
+      { "key": "modelFamily", "label": "Model family" },
+      { "key": "serving", "label": "LLM serving" },
+      { "key": "integration", "label": "Integration" },
+      { "key": "platforms", "label": "Platforms" },
+      { "key": "price", "label": "Price" },
+      { "key": "bestFor", "label": "Best for" }
+    ],
+    "rows": [
+      {
+        "name": "Anthropic",
+        "icon": "/img/assets/gen-ai-tools/anthropic.svg",
+        "country": "🇺🇸",
+        "countryCode": "US",
+        "client": "Claude Code · Agent",
+        "modelFamily": "Claude",
+        "serving": "AWS · Anthropic cloud",
+        "integration": "GitHub · IDE · Cloud · MCP",
+        "platforms": "Desktop · Web · Mobile",
+        "price": "$20 ~1× · $100 ~5× · $200 ~20×",
+        "bestFor": "Programming & design work",
+        "popularity": 5
+      },
+      {
+        "name": "DeepSeek",
+        "icon": "/img/software/webs/deepseek.svg",
+        "country": "🇨🇳",
+        "countryCode": "CN",
+        "client": "DeepSeek Chat · DeepSeek Code · API",
+        "modelFamily": "DeepSeek",
+        "serving": "DeepSeek cloud · self-host (open weights)",
+        "integration": "API · MCP · IDE · Terminal",
+        "platforms": "Web · Mobile · API",
+        "price": "Free web · API pay-as-you-go (cheap)",
+        "bestFor": "Open-weight value & self-hosting",
+        "popularity": 4
+      },
+      {
+        "name": "Google",
+        "icon": "/img/software/webs/gemini.svg",
+        "country": "🇺🇸",
+        "countryCode": "US",
+        "client": "Gemini CLI · Antigravity",
+        "modelFamily": "Gemini",
+        "serving": "Google Cloud · TPUs",
+        "integration": "GitHub · IDE · Google Cloud · MCP",
+        "platforms": "Desktop · Web · Mobile",
+        "price": "$20 ~1× · $100 ~5× · $200 ~20×",
+        "bestFor": "Deep product integration (Search, Workspace)",
+        "popularity": 4
+      },
+      {
+        "name": "GitHub",
+        "icon": "/img/assets/gen-ai-tools/github-copilot.svg",
+        "country": "🇺🇸",
+        "countryCode": "US",
+        "client": "Copilot · Agent",
+        "modelFamily": "GPT · Claude · Gemini",
+        "serving": "GitHub cloud · Actions · runners",
+        "integration": "GitHub · PR · Issues · Actions",
+        "platforms": "Desktop · Web · Mobile",
+        "price": "$10 Pro · $35 Pro+ · usage credits",
+        "bestFor": "IDE-native workflow",
+        "popularity": 5
+      },
+      {
+        "name": "OpenAI",
+        "icon": "/img/assets/gen-ai-tools/openai.svg",
+        "country": "🇺🇸",
+        "countryCode": "US",
+        "client": "Codex · Cloud GPT",
+        "modelFamily": "GPT",
+        "serving": "Azure · OpenAI cloud",
+        "integration": "GitHub · IDE · Cloud · MCP",
+        "platforms": "Desktop · Web · Mobile",
+        "price": "$20 ~1× · $200 ~10×",
+        "bestFor": "Breadth of features & polish",
+        "popularity": 5
+      },
+      {
+        "name": "Open Autonomous",
+        "icon": "/img/assets/gen-ai-tools/nousresearch-hermes.svg",
+        "country": "🌍",
+        "countryCode": "GLOBAL",
+        "client": "OpenClaw · Hermes",
+        "modelFamily": "Any",
+        "serving": "Ollama · vLLM · llama.cpp · cloud optional",
+        "integration": "Tools · Memory · Skills · Automation · MCP",
+        "platforms": "Desktop · Web · Mobile",
+        "price": "Free runtime · API / local",
+        "bestFor": "Unattended automation",
+        "popularity": 2
+      },
+      {
+        "name": "Open Coding",
+        "icon": "/img/software/apps/opencode.svg",
+        "country": "🌍",
+        "countryCode": "GLOBAL",
+        "client": "OpenCode · Cline · Kilo Code",
+        "modelFamily": "Any",
+        "serving": "Ollama · vLLM · llama.cpp · LM Studio · local server",
+        "integration": "Git · IDE · Terminal · MCP · APIs",
+        "platforms": "Desktop · Web",
+        "price": "Free runtime · OpenCode Zen pay-as-you-go · Go $10 · API / local",
+        "bestFor": "Self-hosted flexibility & cost control",
+        "popularity": 3
+      }
+    ]
+  },
+  "agents": {
+    "title": "Deep client / agent comparison",
+    "columns": [
+      { "key": "name", "label": "Agent", "sortable": true },
+      { "key": "motor", "label": "Motor (core loop)" },
+      { "key": "flux", "label": "Flux (state & context flow)" },
+      { "key": "context", "label": "Context strategy" },
+      { "key": "sandboxing", "label": "Sandboxing / safety" },
+      { "key": "parallelism", "label": "Multi-agent / parallelism" },
+      { "key": "dataPath", "label": "Local data path" },
+      { "key": "database", "label": "Internal database" },
+      { "key": "bestFor", "label": "Best for" }
+    ],
+    "rows": [
+      {
+        "name": "Antigravity CLI",
+        "icon": "/img/assets/gen-ai-tools/antigravity.svg",
+        "motor": "ReAct-style loop over shell + file tools",
+        "flux": "Local session; tool results appended to transcript",
+        "context": "Long context window; Gemini-native summarization",
+        "sandboxing": "Local execution, permission prompts",
+        "parallelism": "Limited; mostly single-threaded",
+        "dataPath": "~/.gemini/ (config, sessions)",
+        "database": "JSON files",
+        "bestFor": "Deep Google Cloud / Workspace integration"
+      },
+      {
+        "name": "Claude Code",
+        "icon": "/img/software/apps/claude-code.svg",
+        "motor": "ReAct-style plan → act → observe loop with explicit sub-agent dispatch",
+        "flux": "Session-scoped transcript; file edits tracked as diffs",
+        "context": "Sliding window + compaction; explicit context edits",
+        "sandboxing": "OS-level sandboxing, permission prompts",
+        "parallelism": "Sub-agents for parallel exploration",
+        "dataPath": "~/.claude/ (projects, history, todos)",
+        "database": "JSON files",
+        "bestFor": "Deep, long-running programming sessions"
+      },
+      {
+        "name": "Cline",
+        "icon": "/img/software/apps/cline.svg",
+        "motor": "ReAct-style loop; plan/act modes, human-in-the-loop checkpoints",
+        "flux": "Local session; file diffs tracked",
+        "context": "Configurable context; BYO model",
+        "sandboxing": "Local execution, permission prompts",
+        "parallelism": "Limited; mostly single-threaded",
+        "dataPath": "VS Code globalStorage saoudrizwan.claude-dev/",
+        "database": "SQLite",
+        "bestFor": "Transparent, human-supervised coding"
+      },
+      {
+        "name": "Codex (OpenAI)",
+        "icon": "/img/software/apps/codex.svg",
+        "motor": "Plan → act → observe; cloud sandbox executes code, results fed back",
+        "flux": "Cloud container state; conversation + file snapshots",
+        "context": "Large context window; snapshot-based rollback",
+        "sandboxing": "Cloud sandbox by default",
+        "parallelism": "Parallel tasks in cloud sandbox",
+        "dataPath": "~/.codex/ (config, sessions)",
+        "database": "JSON files",
+        "bestFor": "Breadth of tasks with heavy tooling"
+      },
+      {
+        "name": "DeepSeek Code",
+        "icon": "/img/software/webs/deepseek.svg",
+        "motor": "ReAct-style loop over shell + file tools; API-driven",
+        "flux": "Local session; BYO model via API",
+        "context": "Configurable context; cheap tokens enable long runs",
+        "sandboxing": "Local execution, permission prompts",
+        "parallelism": "Limited",
+        "dataPath": "~/.deepseek/ (config, sessions)",
+        "database": "JSON files",
+        "bestFor": "Low-cost, open-weight coding at scale"
+      },
+      {
+        "name": "GitHub Copilot",
+        "icon": "/img/assets/gen-ai-tools/github-copilot.svg",
+        "motor": "IDE-native loop; chat + inline edits, agent mode for multi-step",
+        "flux": "Editor state + conversation; PR/issue context pulled in",
+        "context": "Editor-aware context; repo indexing",
+        "sandboxing": "Runs in IDE, no external sandbox",
+        "parallelism": "Agent mode for multi-file changes",
+        "dataPath": "VS Code globalStorage github.copilot-chat/",
+        "database": "SQLite",
+        "bestFor": "IDE-native workflow, PR & issue integration"
+      },
+      {
+        "name": "Hermes",
+        "icon": "/img/assets/gen-ai-tools/nousresearch-hermes.svg",
+        "motor": "Autonomous goal loop; skills & memory, MCP tool calling",
+        "flux": "Persistent memory + skills store",
+        "context": "Memory-backed long-horizon context",
+        "sandboxing": "Local execution, automation-focused",
+        "parallelism": "Multi-agent orchestration",
+        "dataPath": "~/.hermes/ (memory, skills)",
+        "database": "SQLite",
+        "bestFor": "Unattended automation"
+      },
+      {
+        "name": "Kilo Code",
+        "icon": "/img/software/apps/cline.svg",
+        "motor": "ReAct-style loop; fork of Cline with extra model/provider support",
+        "flux": "Local session",
+        "context": "Configurable context; BYO model",
+        "sandboxing": "Local execution, permission prompts",
+        "parallelism": "Limited",
+        "dataPath": "VS Code globalStorage kilocode.kilo-code/",
+        "database": "SQLite",
+        "bestFor": "Cline-style workflow with more model choices"
+      },
+      {
+        "name": "OpenClaw",
+        "icon": "/img/assets/gen-ai-tools/opencode.svg",
+        "motor": "Autonomous goal loop; skills & memory drive long-horizon tasks",
+        "flux": "Persistent memory + skills store",
+        "context": "Memory-backed long-horizon context",
+        "sandboxing": "Local execution, automation-focused",
+        "parallelism": "Multi-agent orchestration",
+        "dataPath": "~/.openclaw/ (memory, skills)",
+        "database": "SQLite",
+        "bestFor": "Unattended automation"
+      },
+      {
+        "name": "OpenCode",
+        "icon": "/img/assets/gen-ai-tools/opencode.svg",
+        "motor": "ReAct-style loop; provider-agnostic, pluggable tools",
+        "flux": "Local session; provider-agnostic state",
+        "context": "Configurable context; BYO model",
+        "sandboxing": "Local execution, permission prompts",
+        "parallelism": "Sub-agents supported",
+        "dataPath": "~/.local/share/opencode/ (sessions, messages)",
+        "database": "SQLite",
+        "bestFor": "Self-hosted flexibility & cost control"
+      }
+    ]
+  },
+  "modelFamilies": {
+    "title": "Model families by company",
+    "columns": [
+      { "key": "country", "label": "Country", "sortable": true },
+      { "key": "company", "label": "Company", "sortable": true },
+      { "key": "family", "label": "LLM family (name & variants)" }
+    ],
+    "rows": [
+      { "country": "🇨🇳", "countryCode": "CN", "company": "Alibaba", "icon": "/img/assets/gen-ai-tools/qwen.svg", "family": "Qwen — 3 family" },
+      { "country": "🇨🇳", "countryCode": "CN", "company": "DeepSeek", "icon": "/img/software/webs/deepseek.svg", "family": "DeepSeek — V4 · reasoning variants" },
+      { "country": "🇨🇳", "countryCode": "CN", "company": "Moonshot", "icon": "/img/assets/gen-ai-tools/kimi.svg", "family": "Kimi — K2 · reasoning family" },
+      { "country": "🇨🇳", "countryCode": "CN", "company": "Tencent", "icon": null, "family": "Hunyuan — Hy3 · Hy4 · T1 reasoning" },
+      { "country": "🇨🇳", "countryCode": "CN", "company": "Xiaomi", "icon": "/img/assets/gen-ai-tools/xiaomi.svg", "family": "MiMo — V2.5 · V2.5 Pro · Omni" },
+      { "country": "🇨🇳", "countryCode": "CN", "company": "Zhipu", "icon": "/img/assets/gen-ai-tools/zai.svg", "family": "GLM — 4.5" },
+      { "country": "🇫🇷", "countryCode": "FR", "company": "Mistral AI", "icon": "/img/assets/gen-ai-tools/mistral.svg", "family": "Mistral — Large · Small · Codestral" },
+      { "country": "🇺🇸", "countryCode": "US", "company": "Anthropic", "icon": "/img/assets/gen-ai-tools/anthropic.svg", "family": "Claude — Sonnet · Opus · Haiku" },
+      { "country": "🇺🇸", "countryCode": "US", "company": "Google", "icon": "/img/software/webs/gemini.svg", "family": "Gemini — 3 · Flash · Pro · Ultra" },
+      { "country": "🇺🇸", "countryCode": "US", "company": "Meta", "icon": "/img/assets/gen-ai-tools/meta.svg", "family": "Llama — 4.x family" },
+      { "country": "🇺🇸", "countryCode": "US", "company": "OpenAI", "icon": "/img/assets/gen-ai-tools/openai.svg", "family": "GPT — Luna · Terra · Sol · Astra" },
+      { "country": "🇺🇸", "countryCode": "US", "company": "xAI", "icon": "/img/software/apps/grok.svg", "family": "Grok — family" }
+    ]
+  }
+}

@@ -1,0 +1,125 @@
+---
+// Reusable sortable comparison table.
+// Renders a table from JSON data, where each row's `icon` field holds the
+// full /img/... path, and provides client-side sorting by clicking column headers.
+//
+// Props:
+//   - table: { title, columns: [{key,label,sortable?}], rows: object[] }
+//   - defaultSort: { key, direction } — optional initial sort (defaults to first sortable column)
+//   - id: unique id for the table (used to scope the sort script)
+
+import type { SortableTableDef } from '../scripts/ai-tables/types';
+
+interface Props {
+  table: SortableTableDef;
+  defaultSort?: { key: string; direction: 'asc' | 'desc' };
+  id: string;
+}
+
+const { table, defaultSort, id } = Astro.props as Props;
+
+// Resolve the initial sort: explicit defaultSort, else first sortable column.
+const firstSortable = table.columns.find((c) => c.sortable);
+const initial = defaultSort ?? (firstSortable ? { key: firstSortable.key, direction: 'asc' as const } : null);
+
+const initialKey = initial?.key ?? '';
+const initialDir = initial?.direction ?? 'asc';
+---
+
+<div class="ai-table" data-ai-table={id}>
+  <div class="ai-table-toolbar">
+    <span class="ai-table-title">{table.title}</span>
+    <div class="ai-table-sort" role="group" aria-label="Sort table">
+      <span class="ai-table-sort-label">Sort by</span>
+      {table.columns.filter((c) => c.sortable).map((c) => (
+        <button
+          type="button"
+          class="ai-sort-btn"
+          data-sort-key={c.key}
+          data-sort-dir={initialKey === c.key ? initialDir : 'asc'}
+          aria-pressed={initialKey === c.key}
+        >
+          {c.label}
+        </button>
+      ))}
+    </div>
+  </div>
+
+  <div class="ai-table-scroll">
+    <table class="ai-compare-table">
+      <thead>
+        <tr>
+          {table.columns.map((c) => (
+            <th scope="col" data-col={c.key} data-sortable={c.sortable ? 'true' : undefined}>
+              {c.label}
+            </th>
+          ))}
+        </tr>
+      </thead>
+      <tbody>
+        {table.rows.map((row) => (
+          <tr>
+            {table.columns.map((c) => {
+              const value = row[c.key];
+              const isFirst = c.key === table.columns[0].key;
+              const icon = isFirst ? (row.icon as string | null | undefined) : null;
+              return (
+                <td data-col={c.key}>
+                  {icon && (
+                    <img class="table-icon" src={icon} alt="" loading="lazy" />
+                  )}
+                  {value}
+                </td>
+              );
+            })}
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<script is:inline define:vars={{ id, initialKey, initialDir }}>
+  // Client-side sorting for .ai-compare-table.
+  // Scoped to this table instance via the data-ai-table attribute.
+  const root = document.querySelector(`[data-ai-table="${id}"]`);
+  if (!root) throw new Error(`ai-table #${id} not found`);
+
+  const tbody = root.querySelector('tbody');
+  const sortBtns = Array.from(root.querySelectorAll('.ai-sort-btn'));
+  const sortableCols = new Set(
+    Array.from(root.querySelectorAll('th[data-sortable="true"]')).map((th) => th.dataset.col)
+  );
+
+  const getCellValue = (tr, key) => {
+    const td = tr.querySelector(`td[data-col="${key}"]`);
+    return td ? td.textContent.trim() : '';
+  };
+
+  const sortRows = (key, dir) => {
+    const rows = Array.from(tbody.querySelectorAll('tr'));
+    rows.sort((a, b) => {
+      const av = getCellValue(a, key);
+      const bv = getCellValue(b, key);
+      const cmp = av.localeCompare(bv, undefined, { numeric: true, sensitivity: 'base' });
+      return dir === 'asc' ? cmp : -cmp;
+    });
+    rows.forEach((tr) => tbody.appendChild(tr));
+  };
+
+  // Apply initial sort if any.
+  if (initialKey && sortableCols.has(initialKey)) {
+    sortRows(initialKey, initialDir);
+  }
+
+  sortBtns.forEach((btn) => {
+    btn.addEventListener('click', () => {
+      const key = btn.dataset.sortKey;
+      if (!key || !sortableCols.has(key)) return;
+      const nextDir = btn.dataset.sortDir === 'asc' ? 'desc' : 'asc';
+      btn.dataset.sortDir = nextDir;
+      sortBtns.forEach((b) => b.setAttribute('aria-pressed', String(b === btn)));
+      sortRows(key, nextDir);
+    });
+  });
+</script>

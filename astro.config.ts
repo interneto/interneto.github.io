@@ -1,12 +1,13 @@
 import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
+import mdx from '@astrojs/mdx';
 
 export default defineConfig({
   site: 'https://interneto.github.io',
   base: '/',
   output: 'static',
   trailingSlash: 'always',
-  integrations: [sitemap()],
+  integrations: [sitemap(), mdx()],
   redirects: {
     '/toolbox-installer': '/toolbox/',
     // Routes renamed: posts/post -> blog (listing + articles).
