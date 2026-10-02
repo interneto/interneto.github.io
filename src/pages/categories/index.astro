@@ -13,7 +13,7 @@ for (const b of bookmarks) {
   countByCategory[b.category] = (countByCategory[b.category] ?? 0) + 1;
 }
 
-const MAX_SUBCATEGORIES = 6;
+const MAX_SUBCATEGORIES = 2;
 const subcategoriesByCategory: Record<string, string[]> = {};
 for (const c of taxonomy.categories) {
   const subs = c.subcategories?.length ? c.subcategories : (c.children?.map((ch) => ch.name) ?? []);

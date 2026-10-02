@@ -6,13 +6,33 @@
 
 /* The shared content-card styles are also used by the blog. Keep the compact
    sizing scoped to category cards only. */
+.vp-categories-index {
+  align-items: stretch;
+  grid-auto-rows: 1fr;
+}
+
 .vp-categories-index .vp-content-card {
-  gap: 0.45rem;
-  padding: 0.9rem 1rem;
+  gap: 0.3rem;
+  padding: 0.65rem 0.85rem;
+  height: 100%;
+}
+
+.vp-categories-index .vp-content-card-description {
+  line-height: 1.45;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
 }
 
 .vp-categories-index .vp-content-card-tags {
-  margin-top: 0.1rem;
+  gap: 0.25rem;
+  margin-top: 0;
+}
+
+.vp-categories-index .vp-content-card-tag {
+  padding: 0.1rem 0.45rem;
+  font-size: 0.7rem;
 }
 
 .vp-category-card {
