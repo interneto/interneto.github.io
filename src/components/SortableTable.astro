@@ -24,6 +24,9 @@ const initial = defaultSort ?? (firstSortable ? { key: firstSortable.key, direct
 
 const initialKey = initial?.key ?? '';
 const initialDir = initial?.direction ?? 'asc';
+
+// The icon goes in the column flagged `hasIcon`, else the first column.
+const iconKey = (table.columns.find((c) => c.hasIcon) ?? table.columns[0]).key;
 ---
 
 <div class="ai-table" data-ai-table={id}>
@@ -61,8 +64,7 @@ const initialDir = initial?.direction ?? 'asc';
           <tr>
             {table.columns.map((c) => {
               const value = row[c.key];
-              const isFirst = c.key === table.columns[0].key;
-              const icon = isFirst ? (row.icon as string | null | undefined) : null;
+              const icon = c.key === iconKey ? (row.icon as string | null | undefined) : null;
               return (
                 <td data-col={c.key}>
                   {icon && (

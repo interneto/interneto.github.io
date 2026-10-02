@@ -253,7 +253,7 @@
     "title": "Model families by company",
     "columns": [
       { "key": "country", "label": "Country", "sortable": true },
-      { "key": "company", "label": "Company", "sortable": true },
+      { "key": "company", "label": "Company", "sortable": true, "hasIcon": true },
       { "key": "family", "label": "LLM family (name & variants)" }
     ],
     "rows": [

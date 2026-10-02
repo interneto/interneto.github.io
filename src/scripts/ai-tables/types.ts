@@ -4,6 +4,8 @@ export interface SortableColumn {
   key: string;
   label: string;
   sortable?: boolean;
+  /** Render the row's `icon` in this column instead of the first one. */
+  hasIcon?: boolean;
 }
 
 export interface SortableTableDef {
