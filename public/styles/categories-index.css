@@ -4,6 +4,17 @@
   gap: 1rem;
 }
 
+/* The shared content-card styles are also used by the blog. Keep the compact
+   sizing scoped to category cards only. */
+.vp-categories-index .vp-content-card {
+  gap: 0.45rem;
+  padding: 0.9rem 1rem;
+}
+
+.vp-categories-index .vp-content-card-tags {
+  margin-top: 0.1rem;
+}
+
 .vp-category-card {
   display: flex;
   flex-direction: column;

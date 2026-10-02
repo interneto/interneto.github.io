@@ -68,14 +68,14 @@ const docs = allDocs
   .sort((a, b) => customOrder.indexOf(cleanSlug(a.id)) - customOrder.indexOf(cleanSlug(b.id)));
 ---
 
-<VPLayout title="Categories" hasSidebar={true} extraStyles={['styles/content-shared.css']}>
+<VPLayout title="Categories" hasSidebar={true} extraStyles={['styles/content-shared.css', 'styles/categories-index.css']}>
   <div class="vp-content-wrapper">
     <header class="vp-content-header">
       <h1>Categories</h1>
       <p class="vp-content-subtitle">Comprehensive web directory organized by category with curated resources and tools.</p>
     </header>
 
-    <section class="vp-content-grid" aria-label="Categories index">
+    <section class="vp-content-grid vp-categories-index" aria-label="Categories index">
       {docs.map((entry) => {
         const slug = cleanSlug(entry.id);
         return (
