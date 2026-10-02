@@ -1,0 +1,75 @@
+---
+title: AI Chatbot Platforms, Coding Agents, and Model Families
+description: A June 2026 comparison of AI chatbot platforms, coding agents, model families, and LLM serving across Anthropic, OpenAI, Google, Meta, DeepSeek, xAI, Mistral, Alibaba, Zhipu, and Kimi.
+date: 2026-06-07
+next: true
+prev: true
+footer: true
+category: AI Tools & Services
+tags:
+  - comparison
+  - software
+---
+
+import SortableTable from '../../components/SortableTable.astro';
+import aiData from '../../data/ai-ecosystems.json';
+
+# AI Chatbot Platforms, Coding Agents, and Model Families
+
+A layer-by-layer comparison of the AI ecosystem stack: LLM serving, client agents, model families, protocol transport, and UI rendering. The goal is to separate what's converged and shared across the whole space from what actually differs — ecosystem by ecosystem, and model family by model family — so the tables below can stay focused on the differences that matter.
+
+## Common ground
+
+- The middle layers have converged: Markdown output, SSE + JSON delta streaming, Markdown → AST → React rendering, and MCP as the tool-calling standard.
+- Real differences sit in model behavior, reasoning quality, context window reliability, product UX, and infrastructure strategy.
+- Open weights aren't rare: DeepSeek, Qwen, Llama, GLM, and Kimi all ship open checkpoints — DeepSeek and Qwen are the most practical picks for self-hosting and reproducibility.
+- Claude Code, Codex, GitHub Copilot, and OpenCode are coding clients built on top of these platforms, not independent model stacks.
+- Most internal architecture details remain proprietary; treat vendor-unconfirmed claims as estimates.
+
+## AI agent ecosystems
+
+<SortableTable
+  id="ecosystems"
+  table={aiData.ecosystems}
+  defaultSort={{ key: 'popularity', direction: 'desc' }}
+/>
+
+There's no single winner here — the right ecosystem depends on what you're actually optimizing for, which is why "Best for" is a column rather than a ranking.
+
+## Deep client / agent comparison
+
+The ecosystem table above is the *what*; this table is the *how*. It digs into the internal functioning of each coding agent — the "motor" (the loop that drives the agent forward) and the "flux" (how state, context, and tool results flow through that loop). Most of this is reverse-engineered from observable behavior, so treat vendor-unconfirmed internals as estimates.
+
+**What's shared (kept out of the table):** every agent here uses **MCP** as its tool-calling standard (Codex is MCP-native), and nearly all run **locally with permission prompts**, keeping a **local session transcript with tool results appended**. The table below only captures what actually differs.
+
+<SortableTable
+  id="agents"
+  table={aiData.agents}
+  defaultSort={{ key: 'name', direction: 'asc' }}
+/>
+
+**Reading the table.** *Motor* is the decision loop that turns a goal into actions — most agents converge on a ReAct-style (reason → act → observe) loop, while autonomous agents swap in a goal-driven loop with memory. *Flux* is how context and tool results move through that loop: session transcripts, file diffs, cloud snapshots, or persistent memory stores. The columns that actually separate the field are **sandboxing** (cloud vs. local), **multi-agent parallelism** (single-threaded vs. sub-agent dispatch), and **storage** — where state lives on disk and whether it's plain JSON files or a real database (SQLite). Paths and database choices are estimates from observable behavior and may vary by version.
+
+### Routers & gateways
+
+**OpenRouter**, **LiteLLM**, **Portkey**, **Requesty**, and **OmniRoute** aren't ecosystems of their own — they're a routing layer that plugs *into* the clients above (VS Code Copilot Chat, Claude Code, Hermes agent, and so on), giving each one API key to reach hundreds of models across every provider instead of a separate integration per vendor. **OpenRouter** is the hosted default (400+ models, near-zero markup, free-tier models available); **LiteLLM** and **OmniRoute** are open-source and self-hostable (OmniRoute is local-first and MIT-licensed); **Portkey** adds compliance and observability tooling; **Requesty** offers a similar hosted catalog. **Together AI** and **Fireworks AI** are a different animal — inference providers hosting open models on their own hardware, not aggregators reselling everyone else's.
+
+## Model families by company
+
+<SortableTable
+  id="model-families"
+  table={aiData.modelFamilies}
+  defaultSort={{ key: 'company', direction: 'asc' }}
+/>
+
+These are per-model API/token prices, not the ecosystem subscriptions above — for live, continuously-updated numbers, see this site's own [LLM Pricing](/blog/llm-pricing/) tracker.
+
+**Best value by model family**, based on [LiveBench](https://livebench.ai/) scores:
+
+- **GLM** (Zhipu) — value leader among open models: strong scores at a fraction of frontier pricing.
+- **Qwen** (Alibaba) — best for self-hosting: smaller checkpoints run on one consumer GPU, Apache-2.0.
+- **DeepSeek** — best open model overall: trails the closed frontier by a few points, MIT-licensed.
+
+## Conclusion
+
+The chatbot and coding-agent space keeps converging on the same middle layers — Markdown, SSE streaming, MCP — while the real differentiation has moved to the edges of the stack: which ecosystem fits how you actually work, and which model gives the best return per dollar. For most builders that settles into a hybrid pattern: a frontier subscription for the work that needs it (Claude for programming and design, ChatGPT for breadth of experience), paired with an open-weight model like Qwen or DeepSeek for the routine, high-volume tasks where self-hosting pays for itself.

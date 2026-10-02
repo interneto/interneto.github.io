@@ -4,8 +4,8 @@ import { importCsv } from './import-csv.js'
 
 const csvRun1 = [
   'id,title,note,excerpt,url,folder,tags,created,cover,highlights,favorite',
-  '1,"Test Tool","Source-code: https://github.com/x/y","A tool","https://example.com/","Apps/Services / AI Tools & Services / AI Apps","Type: Open-Source",2026-01-01T00:00:00.000Z,,,true',
-  '2,"Unmapped Row","","","https://example.org/","Apps/Services / Not A Real Category","",2026-01-01T00:00:00.000Z,,,false',
+  '1,"Test Tool","Source-code: https://github.com/x/y","A tool","https://example.com/","Apps & Services / AI Tools & Services / AI Apps","Type: Open-Source",2026-01-01T00:00:00.000Z,,,true',
+  '2,"Unmapped Row","","","https://example.org/","Apps & Services / Not A Real Category","",2026-01-01T00:00:00.000Z,,,false',
 ].join('\n')
 
 const db = getDb(':memory:')
@@ -32,7 +32,7 @@ assert.equal(tagRow.name, 'Type: Open-Source')
 // Second run: row 1 is gone from the CSV, row 2's folder is now valid.
 const csvRun2 = [
   'id,title,note,excerpt,url,folder,tags,created,cover,highlights,favorite',
-  '2,"Now Mapped","","","https://example.org/","Apps/Services / AI Tools & Services","",2026-01-02T00:00:00.000Z,,,false',
+  '2,"Now Mapped","","","https://example.org/","Apps & Services / AI Tools & Services","",2026-01-02T00:00:00.000Z,,,false',
 ].join('\n')
 
 const report2 = importCsv(db, csvRun2, { runAt: '2026-01-02T00:00:00.000Z' })

@@ -23,9 +23,11 @@ function clearOutputDir(outputDir, filesToRemove) {
   filesToRemove.forEach(file => safeUnlink(path.join(outputDir, file)))
 }
 
-// Raindrop nests collections with " / " (space-slash-space). The top folder
-// itself is literally named "Apps/Services" (contains a bare slash), so split
-// only on the spaced separator, never on bare "/".
+// Raindrop nests collections with " / " (space-slash-space), so split only on
+// the spaced separator. (The top folder was named "Apps/Services" - a bare
+// slash - until it was renamed to "Apps & Services" on 2026-09-22; keep this
+// split-on-spaced-separator behavior even though the bare-slash case no
+// longer applies, in case a future collection title reintroduces one.)
 function normalizeFolder(folder) {
   return folder.split(' / ').map((s) => {
     return String(s || '')
@@ -35,7 +37,7 @@ function normalizeFolder(folder) {
 }
 
 function isValidRowFolder(folderParts) {
-  return folderParts.length >= 2 && folderParts[0] === 'Apps/Services'
+  return folderParts.length >= 2 && folderParts[0] === 'Apps & Services'
 }
 
 function createNode() {
