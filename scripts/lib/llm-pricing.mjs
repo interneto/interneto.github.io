@@ -14,7 +14,7 @@ export const COLUMN_ALIASES = {
 
 const PAREN_SUFFIX = /\s*\([^)]*\)\s*$/;
 const LATEST_SUFFIX = /-latest$/i;
-const EFFORT_SUFFIX = /-(?:high|medium|low)$/i;
+const EFFORT_SUFFIX = /-(?:xhigh|high|medium|low|max)$/i;
 const REASONING_SUFFIX = /-(?:thinking|reasoning|no-thinking|non-thinking)$/i;
 const BETA_SUFFIX = /-beta(?:-\d+|\d+)?$/i;
 const RELEASE_SUFFIXES = [
@@ -126,6 +126,9 @@ export class OpenRouterMatcher {
 
     const paidHits = uniqueHits.filter((hit) => !hit.modelId.endsWith(':free'));
     if (paidHits.length === 1) return paidHits[0];
+    // Variants like `:batch` are discounted tiers of the same model — prefer the base listing.
+    const baseHits = paidHits.filter((hit) => !hit.modelId.includes(':'));
+    if (baseHits.length === 1) return baseHits[0];
     return null;
   }
 }
