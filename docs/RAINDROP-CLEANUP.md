@@ -51,6 +51,18 @@ If this deny file is missing on a machine, recreate it before touching Raindrop.
   - `update_bookmarks` / `update_collections` take at most 150 ids per call. Batch by destination collection.
 - **Key ids** (verify with a fresh `find_collections` if in doubt — ids are only valid for this account): `REVIEW` = `75353467`, `TEST` = `75353327`, Unsorted = `-1`, Trash = `-99`, `Apps & Services` = `32372311`, `Saved` = `63994454`, `Society` = `19046155`.
 
+### REST API token (for `pnpm db:fetch` / `pnpm db:pull`)
+
+Separate from the MCP sign-in above: the MCP connection cannot be reused by scripts, and the app's CSV export is Pro-only. One-time setup:
+
+1. Open <https://app.raindrop.io/settings/integrations>.
+2. Under **For Developers**, click **Create new app**. Name: `interneto-sync` (any name works; this is the one these docs assume). Accept the API terms.
+3. Open the new app and click **Create test token**, then confirm. The test token is tied to this account only and does not expire.
+4. Put it in `.env` in the repo root (gitignored): `RAINDROP_TOKEN=<token>`. Never commit it or paste it into a chat.
+5. Run `pnpm db:pull` (fetch, then import/validate/export). The account held 47,449 bookmarks on 2026-10-05; the fetch should report that order of magnitude, minus the two off-limits roots.
+
+To revoke: same page → the app → delete it (or reset the token).
+
 ## Data sources
 
 | Source | Gives | Caveat |
