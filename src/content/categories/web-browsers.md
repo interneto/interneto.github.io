@@ -5,18 +5,21 @@ description: Browsers and browser-related tools
 
 # Web Browsers
 
-**Total Bookmarks:** 140
+**Total Bookmarks:** 143
 
 - [Arc from The Browser Company](https://arc.net/)
+- [Blanc Browser — A minimal desktop browser with built-in ad blocking](https://blancbrowser.com/) / [🔗](https://github.com/bnfy/blanc)
 - [Brow.sh](https://www.brow.sh/)
 - [BrowserOS - Open-Source AI Browser | Privacy-First Alternative to Perplexity Comet](https://www.browseros.com/) / [🔗](https://github.com/browseros-ai/BrowserOS)
 - [ChatGPT Atlas](https://chatgpt.com/atlas)
 - [chawan: TUI Web Browser](https://sr.ht/~bptato/chawan/)
+- [Cockroach Browser - AI browser automation](https://cockroachbrowser.com/) / [🔗](https://github.com/AjnasNB/cockroach-browser)
 - [Dillo Website](https://dillo-browser.github.io/)
 - [EinkBro](https://einkbro.github.io/overview.html)
 - [firedragon-browser · GitHub](https://github.com/dr460nf1r3/firedragon-browser)
 - [Glide](https://glide-browser.app/) / [🔗](https://github.com/glide-browser/glide)
 - [Gosub Web Browser Engine](https://gosub.io/)
+- [Lightpanda | The headless browser](https://lightpanda.io/) / [🔗](https://github.com/lightpanda-io/browser)
 - [Perplexity Comet](https://comet.perplexity.ai/)
 - [PocketJS — Bare Metal Modern Web](https://pocketjs.dev/) / [🔗](https://github.com/pocket-stack/pocketjs)
 - [Polypane, The browser for ambitious developers](https://polypane.app/)
@@ -26,7 +29,7 @@ description: Browsers and browser-related tools
 - [W3M](https://w3m.sourceforge.net/)
 - [web-platform-tests dashboard](https://wpt.fyi/results/?label=experimental&label=master&aligned) / [🔗](https://github.com/web-platform-tests/wpt.fyi)
 
-## Chromium-based
+## Chromium-Based
 - ⭐ **[Chromium](https://www.chromium.org/Home/)**
 - ⭐ **[Chromium binaries](https://chromium.woolyss.com/)**
 - [360 browser](https://browser.360.cn/)
@@ -88,7 +91,7 @@ description: Browsers and browser-related tools
 - [Vivaldi](https://vivaldi.com/)
 - [Yandex Browser](https://browser.yandex.com/)
 
-## Firefox-based
+## Firefox-Based
 - ⭐ **[LibreWolf Browser](https://librewolf.net/)** / [🔗](https://codeberg.org/librewolf/source)
 - ⭐ **[Mozilla Firefox](https://www.firefox.com/en-US/)** / [🔗](https://github.com/mozilla-firefox/firefox)
 - ⭐ **[Tor Project - Anonymity online](https://www.torproject.org/)**
@@ -97,8 +100,8 @@ description: Browsers and browser-related tools
 - [Falkon](https://www.falkon.org/)
 - [Fennec F-Droid](https://f-droid.org/packages/org.mozilla.fennec_fdroid/)
 - [Firefox Profiler](https://profiler.firefox.com/)
-- [Floorp](https://floorp.app/en/)
 - [Floorp](https://floorp.app/)
+- [Floorp](https://floorp.app/en/)
 - [K-Meleon](http://kmeleonbrowser.org/)
 - [Midori Browser](https://astian.org/midori-browser/)
 - [Mullvad Browser](https://mullvad.net/en/browser)
@@ -108,7 +111,7 @@ description: Browsers and browser-related tools
 - [SlimBrowser](https://www.slimbrowser.net/)
 - [Waterfox, Free Web Browser](https://www.waterfox.net/en-US/)
 
-## Independent browser
+## Independent Browser
 - [BriskBard](https://www.briskbard.com/index.php?lang=en)
 - [DioxusLabs/blitz: High performance HTML and CSS renderer powered by WGPU](https://github.com/DioxusLabs/blitz)
 - [Ladybird](https://ladybird.org/) / [🔗](https://github.com/LadybirdBrowser/ladybird)
@@ -130,7 +133,7 @@ description: Browsers and browser-related tools
 - [UR browser](https://www.ur-browser.com/en-US)
 - [versotile-org/verso: A web browser that plays old world blues to build new world hope](https://github.com/versotile-org/verso)
 
-## Web-app launcher
+## Web-App Launcher
 - [alyssaxuu/omni · GitHub](https://github.com/alyssaxuu/omni)
 - [Basaas.com](https://www.basaas.com/)
 - [Biscuit](https://eatbiscuit.com/)
@@ -148,7 +151,7 @@ description: Browsers and browser-related tools
 - [Wavebox Productivity](https://wavebox.io/)
 - [WebCatalog](https://webcatalog.io/webcatalog/)
 
-## Webkit-based
+## Webkit-Based
 - [Arora web browser](https://github.com/Arora/arora)
 - [GNOME / Epiphany · GitLab](https://gitlab.gnome.org/GNOME/epiphany)
 - [Luakit Web Browser](https://luakit.github.io/)

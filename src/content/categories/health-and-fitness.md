@@ -5,7 +5,7 @@ description: Workouts, wellness, and health tracking
 
 # Health & Fitness
 
-**Total Bookmarks:** 339
+**Total Bookmarks:** 351
 
 - [Alma: Your Nutrition Companion | Track, Learn & Discover Food](https://www.alma.food/)
 - [Barbell Medicine: Science-Based Coaching & Nutrition](https://www.barbellmedicine.com/)
@@ -33,12 +33,13 @@ description: Workouts, wellness, and health tracking
 - [Complete Anatomy - advanced 3D anatomy platform](https://3d4medical.com/)
 - [Human Anatomy and Disease in Interactive 3D | BioDigital Human Platform](https://human.biodigital.com/login)
 - [Kenhub - Learn Anatomy](https://www.kenhub.com/)
+- [Muscle&Motion](https://www.muscleandmotion.com/)
 - [PocketAnatomy - Medical Anatomy Software](https://www.pocketanatomy.com/)
 - [Primal Pictures | 3D Anatomy Software](https://www.primalpictures.com/)
 - [VOKA Anatomy Pro](https://voka.io/)
 - [Zygote Body 3D Anatomy | Human Anatomy 3D](https://www.zygotebody.com/)
 
-## Covid trackers
+## Covid Trackers
 - [Corona - Cantana](https://corona.cantanea.com/en/world/)
 - [Corona Map](https://coronamap.it/)
 - [Corona Time Map](https://coronatimemap.com/)
@@ -49,8 +50,8 @@ description: Workouts, wellness, and health tracking
 - [Coronavirus - WolframCloud](https://www.wolframcloud.com/obj/examples/COVID19World)
 - [Coronavirus - Worldometer](https://www.worldometers.info/coronavirus)
 - [Coronavirus map - Bing](https://www.bing.com/covid/local)
-- [Coronavirus map - Google](https://www.google.com/maps/@0,0,3z/data=!5m1!1e7)
 - [Coronavirus map - Google](https://google.com/covid19-map)
+- [Coronavirus map - Google](https://www.google.com/maps/@0,0,3z/data=!5m1!1e7)
 - [Coronavirus map - JHU](https://coronavirus.jhu.edu/map.html)
 - [Coronavirus map - UW](https://hgis.uw.edu/virus)
 - [Coronavirus map - WHO](https://covid19.who.int/)
@@ -85,7 +86,50 @@ description: Workouts, wellness, and health tracking
 ## Food Recipes
 - [WeChef - Recipe Journal](https://wechef.site/)
 
-### Recipe manager
+### Recipe Website
+- ⭐ **[Based Cooking](https://based.cooking/)**
+- ⭐ **[Grimgrains - 100R](https://grimgrains.com/site/home.html)**
+- ⭐ **[Recipe Bridge](https://www.recipebridge.com/)**
+- ⭐ **[Supercook - Recipe generator](https://www.supercook.com/#/recipes)**
+- [AllRecipes](https://www.allrecipes.com/)
+- [Baking Calculators](https://bakingcalculators.com/)
+- [BBC Food - Recipes and inspiration from your favourite BBC programmes and chefs](https://www.bbc.co.uk/food)
+- [Chefclub](http://www.chefclub.tv/es-es)
+- [Chowdown](https://chowdown.io/)
+- [Cocineros Argentinos](https://cocinerosargentinos.com/)
+- [Cookd](https://cookdtv.com/)
+- [Directo al Paladar (DAP) - Recetas de cocina, postres y gastronomía](https://www.directoalpaladar.com/)
+- [Eat This Much](https://www.eatthismuch.com/)
+- [ekilu](https://ekilu.com/)
+- [Epicurious – Recipes, Menu Ideas, Videos & Cooking Tips](https://www.epicurious.com/)
+- [Every Plate](https://www.everyplate.com/)
+- [Food Mood - Google Arts & Culture](https://artsandculture.google.com/experiment/food-mood/HwHnGalZ3up0EA)
+- [Food Network](https://foodnetwork.co.uk/)
+- [GialloZafferano Recipes](https://www.giallozafferano.com/)
+- [How To Cook](https://cook.aiurs.co/)
+- [Just the Recipe](https://www.justtherecipe.com/)
+- [Kitchen Stories](https://www.kitchenstories.com/en)
+- [Lebanese Mediterranean Recipes - Maureen Abood](https://maureenabood.com/)
+- [Lee Kum Kee (Professional) - Inspiring Recipes - Asian](https://www.lkkprofessional.com/recipes.php?cuisine=asian)
+- [My recipe collection - DeepPass](https://recipes.deeppass.net/index)
+- [Nooddle](https://www.nooddle.es/home)
+- [NYT Cooking](https://cooking.nytimes.com/)
+- [Pampered Chef](https://www.pamperedchef.com/)
+- [Punchfork](https://www.punchfork.com/)
+- [Rakuten Recipes](https://recipe.rakuten.co.jp/)
+- [Recetas de cocina. +20.000 recetas fáciles paso a paso](https://www.recetasgratis.net/)
+- [RecipeTin Eats - A Food Blog Serving Up Quick & Easy Dinner Recipes](https://www.recipetineats.com/)
+- [SideChef: Shop and Cook Step-by-Step Recipes](https://www.sidechef.com/)
+- [Spooonable Recipes](https://www.spoonablerecipes.com/)
+- [StillTasty](https://stilltasty.com/)
+- [Tasty](https://tasty.co/)
+- [The Kitchn](https://www.thekitchn.com/)
+- [Typesense - Recipes](https://recipe-search.typesense.org/)
+- [WhatToCook.org](https://whattocook.org/)
+- [Yummly - Personalized Recipe Recommendations](https://www.yummly.com/)
+- [Yup, it's Vegan - Plant-Based & Vegetarian Recipes, A Vegan Recipe Blog](https://yupitsvegan.com/)
+
+### Recipe Manager
 - ⭐ **[CookBook - The Recipe Manager & Planner App](https://cookbookmanager.com/)**
 - ⭐ **[Cookpad](https://cookpad.com/es)**
 - ⭐ **[ManageMeals - Recipe Manager](https://managemeals.com/)**
@@ -137,50 +181,7 @@ description: Workouts, wellness, and health tracking
 - [wedesoft/anymeal · GitHub](https://github.com/wedesoft/anymeal/)
 - [Whisk: Recipes & Meal Planner](https://www.whiskapp.net/)
 
-### Recipe website
-- ⭐ **[Based Cooking](https://based.cooking/)**
-- ⭐ **[Grimgrains - 100R](https://grimgrains.com/site/home.html)**
-- ⭐ **[Recipe Bridge](https://www.recipebridge.com/)**
-- ⭐ **[Supercook - Recipe generator](https://www.supercook.com/#/recipes)**
-- [AllRecipes](https://www.allrecipes.com/)
-- [Baking Calculators](https://bakingcalculators.com/)
-- [BBC Food - Recipes and inspiration from your favourite BBC programmes and chefs](https://www.bbc.co.uk/food)
-- [Chefclub](http://www.chefclub.tv/es-es)
-- [Chowdown](https://chowdown.io/)
-- [Cocineros Argentinos](https://cocinerosargentinos.com/)
-- [Cookd](https://cookdtv.com/)
-- [Directo al Paladar (DAP) - Recetas de cocina, postres y gastronomía](https://www.directoalpaladar.com/)
-- [Eat This Much](https://www.eatthismuch.com/)
-- [ekilu](https://ekilu.com/)
-- [Epicurious – Recipes, Menu Ideas, Videos & Cooking Tips](https://www.epicurious.com/)
-- [Every Plate](https://www.everyplate.com/)
-- [Food Mood - Google Arts & Culture](https://artsandculture.google.com/experiment/food-mood/HwHnGalZ3up0EA)
-- [Food Network](https://foodnetwork.co.uk/)
-- [GialloZafferano Recipes](https://www.giallozafferano.com/)
-- [How To Cook](https://cook.aiurs.co/)
-- [Just the Recipe](https://www.justtherecipe.com/)
-- [Kitchen Stories](https://www.kitchenstories.com/en)
-- [Lebanese Mediterranean Recipes - Maureen Abood](https://maureenabood.com/)
-- [Lee Kum Kee (Professional) - Inspiring Recipes - Asian](https://www.lkkprofessional.com/recipes.php?cuisine=asian)
-- [My recipe collection - DeepPass](https://recipes.deeppass.net/index)
-- [Nooddle](https://www.nooddle.es/home)
-- [NYT Cooking](https://cooking.nytimes.com/)
-- [Pampered Chef](https://www.pamperedchef.com/)
-- [Punchfork](https://www.punchfork.com/)
-- [Rakuten Recipes](https://recipe.rakuten.co.jp/)
-- [Recetas de cocina. +20.000 recetas fáciles paso a paso](https://www.recetasgratis.net/)
-- [RecipeTin Eats - A Food Blog Serving Up Quick & Easy Dinner Recipes](https://www.recipetineats.com/)
-- [SideChef: Shop and Cook Step-by-Step Recipes](https://www.sidechef.com/)
-- [Spooonable Recipes](https://www.spoonablerecipes.com/)
-- [StillTasty](https://stilltasty.com/)
-- [Tasty](https://tasty.co/)
-- [The Kitchn](https://www.thekitchn.com/)
-- [Typesense - Recipes](https://recipe-search.typesense.org/)
-- [WhatToCook.org](https://whattocook.org/)
-- [Yummly - Personalized Recipe Recommendations](https://www.yummly.com/)
-- [Yup, it's Vegan - Plant-Based & Vegetarian Recipes, A Vegan Recipe Blog](https://yupitsvegan.com/)
-
-## Health care
+## Health Care
 - [Cancer.Net](https://www.cancer.net/es)
 - [Confederación Salud Mental](https://consaludmental.org/)
 - [CuidatePlus](https://cuidateplus.marca.com/)
@@ -206,6 +207,7 @@ description: Workouts, wellness, and health tracking
 - [Tua Saúde](https://www.tuasaude.com/es)
 
 ## Meditation
+- [Experience Calm](https://www.calm.com/)
 - [Headspace](https://www.headspace.com/)
 - [Loóna - fall in love with sleep again](https://loona.app/)
 - [Medito App - Medito Foundation](https://meditofoundation.org/medito-app) / [🔗](https://github.com/meditohq/medito-app)
@@ -215,24 +217,25 @@ description: Workouts, wellness, and health tracking
 
 ## Mind
 - [CogniFit](https://www.cognifit.com/)
-- [Experience Calm](https://www.calm.com/)
 - [Visión Extra Ocular](https://visionextraocular.com/)
 
-## Nutrition tracker
+## Nutrition Tracker
+- [BiteDeck — Local-First Calorie Tracker. No Account. iPhone.](https://bitedeck.app/)
+- [Calorie Calculator](https://www.calculator.net/calorie-calculator.html)
 - [Cronometer - The Most Accurate Nutrition Tracking App](https://cronometer.com/)
 - [Econ01/HydroTracker: The best water intake tracker app](https://github.com/Econ01/HydroTracker)
 - [Keto.app - Keto Diet Tracker](https://keto.app/)
 - [Lifesum - Healthy eating. Simplified.](https://lifesum.com/)
 - [MacrosFirst](https://www.macrosfirst.com/)
 - [MyFitnessPal](https://www.myfitnesspal.com/)
+- [simonoppowa/OpenNutriTracker: 🍴 OpenNutriTracker is a free and open source calorie tracker with a focus on simplicity and privacy.](https://github.com/simonoppowa/OpenNutriTracker)
 - [YAZIO - Healthy Weight Loss & Eating: Lose Weight Fast](https://www.yazio.com/en)
 - [Yuka](https://yuka.io/en)
 - [Онлайн-школа комфортного похудения](https://comfort-academy.ru/)
 
-## Physical activity
+## Physical Activity
 - ⭐ **[MuscleWiki](https://musclewiki.com/)**
 - [Boulder Challenge App](https://boulder-challenge.com/)
-- [Calorie Calculator](https://www.calculator.net/calorie-calculator.html)
 - [Crossfit.com - Find a CrossFit Gym Near You](https://www.crossfit.com/)
 - [DAREBEE - Home Workouts](https://darebee.com/)
 - [Les Mills](https://www.lesmills.com/)
@@ -240,15 +243,10 @@ description: Workouts, wellness, and health tracking
 - [r/bodyweightfitness Wiki: Your Guide to Calisthenics](https://www.reddit.com/r/bodyweightfitness/wiki/index/)
 - [Strong by Zumba](https://strong.zumba.com/es-ES)
 - [Tao Dance](https://tao-dance.com/)
-- [Yogimi](https://yogimi.es/)
 - [Zumba Fitness](https://www.zumba.com/es-ES)
 
-### Bodybuilding
-- [Bodybuilding](https://www.bodybuilding.com/en-ES/index)
-- [Muscle & Strength](https://www.muscleandstrength.com/)
-- [Strength Level - Weightlifting Calculator (Bench/Squat/Deadlift)](https://strengthlevel.com/)
-
-### Fitness app
+### Fitness App
+- ⭐ **[wger](https://wger.de/en/software/features)** / [🔗](https://github.com/wger-project/wger)
 - ⭐ **[Workout Cool](https://workout.cool/)**
 - [8fit | Custom Home Workouts App, Healthy Meal and Nutrition Plans](https://8fit.com/)
 - [amp - the AI-powered fitness machine made for modern life](https://ampfit.com/)
@@ -291,15 +289,19 @@ description: Workouts, wellness, and health tracking
 - [Simpledesign.ltd](https://simpledesign.ltd/)
 - [SmartGym](https://smartgymapp.com/)
 - [Streaks app](https://streaksapp.com/)
-- [Strong.app](https://www.strong.app/)
+- [STRETCHIT - Videos for flexibility](https://stretchitapp.com/en/)
 - [Volava](https://www.volava.com/)
 - [VOS.health - Mental Health App](https://www.vos.health/en/)
 - [Wahoo Fitness | Shop Indoor Bikes, Bike Trainers, & More](https://www.wahoofitness.com/)
 - [Walk at Home](https://walkathome.com/)
-- [wger](https://wger.de/en/software/features) / [🔗](https://github.com/wger-project/wger)
 - [Zeopoxa](https://www.zeopoxa.com/)
 - [Zero Fasting](https://www.zerofasting.com/)
 - [Zombies, Run!](https://zrx.app/)
+
+### Bodybuilding
+- [Bodybuilding](https://www.bodybuilding.com/en-ES/index)
+- [Muscle & Strength](https://www.muscleandstrength.com/)
+- [Strength Level - Weightlifting Calculator (Bench/Squat/Deadlift)](https://strengthlevel.com/)
 
 ### Fitness Tracker
 - ⭐ **[GoldenCheetah](https://www.goldencheetah.org/)** / [🔗](https://github.com/GoldenCheetah/GoldenCheetah)
@@ -313,10 +315,12 @@ description: Workouts, wellness, and health tracking
 - [baarkerlounger/jogger: A run tracking app for Gnome Mobile](https://codeberg.org/baarkerlounger/jogger)
 - [bailuk/AAT: Another Activity Tracker for Android](https://github.com/bailuk/AAT)
 - [CityStrides](https://citystrides.com/)
+- [Enjoying FOSS / Feeel · GitLab](https://gitlab.com/enjoyingfoss/feeel)
 - [Garmin Connect](https://connect.garmin.com/)
 - [Geovelo : Ride serenely and impact the decisions of new bike paths in your city](https://geovelo.app/en/)
 - [INTVL](https://www.intvl.com.au/)
 - [Nike Run Club App](https://www.nike.com/nrc-app)
+- [OneRep | Workout, Food and Progress Tracker in One App](https://www.onerep.life/) / [🔗](https://github.com/an2tha/onerep)
 - [OpenTracksApp/OpenTracks · GitHub](https://github.com/OpenTracksApp/OpenTracks)
 - [OutRun](https://outrun.tadris.de/)
 - [PACE | End-to-end Encrypted Fitness App for Your Run and Cycling Workouts](https://withpace.io/)
@@ -330,14 +334,24 @@ description: Workouts, wellness, and health tracking
 - [withpaceio/pace-app · GitHub](https://github.com/withpaceio/pace-app?tab=readme-ov-file)
 - [WorkOutDoors](http://www.workoutdoors.net/)
 
-### Yoga app
+### Yoga App
 - [Daily Yoga - A Global Yoga, Fitness and Cultural Brand](https://www.dailyyoga.com/#/)
-- [Down Dog | Great Yoga Anywhere](https://www.downdogapp.com/web)
+- [Down Dog | Great Yoga Anywhere](https://www.downdogapp.com/)
 - [‎Pocket Yoga](https://apps.apple.com/us/app/pocket-yoga/id347400507)
 - [Xuan Lan Yoga - Clases de Yoga Online](https://xuanlanyoga.com/)
 - [Yoga Poses Dictionary | Pocket Yoga](https://www.pocketyoga.com/pose/)
+- [Yogimi](https://yogimi.es/)
 
-## Sleep monitor
+### Workout App
+- ⭐ **[LibreFit — The free and private workout tracker](https://librefit.org/)** / [🔗](https://github.com/LibreFitOrg/LibreFit)
+- [Alpha Progression · Gym Tracker & Workout Planner](https://alphaprogression.com/en)
+- [Boostcamp - Free Workout Tracker & Program App for Every Level](https://www.boostcamp.app/)
+- [Caliber Fitness - Science-Based Fitness Coaching](https://caliberstrong.com/)
+- [FitNotes - Gym Workout Log App - FitNotes](https://www.fitnotesapp.com/)
+- [Hevy - Workout Tracker](https://www.hevyapp.com/)
+- [Strong.app](https://www.strong.app/)
+
+## Sleep Monitor
 - [Beddit Sleep Monitor](https://www.beddit.com/)
 - [Huckleberry: Expert sleep help for all families | Sleep Improvement For Newborns To 5-year-olds](https://huckleberrycare.com/)
 - [Sleep as Android](https://sleep.urbandroid.org/)
@@ -346,7 +360,7 @@ description: Workouts, wellness, and health tracking
 - [SleepMonitor](http://sleepmonitor.emobistudio.com/)
 - [SnoreLab](https://www.snorelab.com/)
 
-## Treatment health
+## Treatment Health
 - [Acupuncture Products](https://www.acupunctureproducts.com/)
 - [Andreas Kalcker - CDS (Clo2)](https://andreaskalcker.com/cds-clo2.html)
 - [Andreas Kalcker - Coronavirus](https://andreaskalcker.com/coronavirus)
@@ -364,13 +378,6 @@ description: Workouts, wellness, and health tracking
 - [Veintiochoalmas](https://veintiochoalmas.com/)
 - [WildSmiles Braces](https://www.wildsmilesbraces.com/)
 
-### Biomagnetism
-- [Biomagnestism Sedona](https://biomagnetismsedona.com/)
-- [Biomagnetisch PAAR Therapeut](https://www.biomagnetisme.nl/)
-
-### Emotional therapy
-- [Libertademocional](https://libertademocional.es/)
-
 ### Homeopathy
 - [ABC Homeopathy](https://abchomeopathy.com/)
 - [Alliance of Registered Homeopaths](http://www.a-r-h.org/)
@@ -384,3 +391,10 @@ description: Workouts, wellness, and health tracking
 - [Samuel Hahnemann](http://www.homeoint.org/books3/hahnemann2/index.htm)
 - [Society of Homeopaths](https://homeopathy-soh.org/)
 - [The School of Homeopathy](https://www.homeopathyschool.com/)
+
+### Biomagnetism
+- [Biomagnestism Sedona](https://biomagnetismsedona.com/)
+- [Biomagnetisch PAAR Therapeut](https://www.biomagnetisme.nl/)
+
+### Emotional Therapy
+- [Libertademocional](https://libertademocional.es/)

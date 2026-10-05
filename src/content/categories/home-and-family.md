@@ -8,17 +8,17 @@ description: Home automation, recipes, and family services
 **Total Bookmarks:** 76
 
 
-## Cementery records
+## Cemetery Records
 - [BillionGraves](https://billiongraves.es/)
 - [Find a Grave](https://es.findagrave.com/)
 - [Interment](http://www.interment.net/Default.htm)
 - [Legacy](https://www.legacy.com/)
 - [Tributes](https://www.tributes.com/)
 
-## Food apps
+## Food Apps
 - [Too Good To Go - Save Good Food From Going To Waste](https://www.toogoodtogo.com/en-us)
 
-### Food delivery
+### Food Delivery
 - [Delivery Hero](https://www.deliveryhero.com/)
 - [DoorDash](https://www.doordash.com/)
 - [Glovo](https://glovoapp.com/)
@@ -86,12 +86,12 @@ description: Home automation, recipes, and family services
 - [WikiTree](https://www.wikitree.com/)
 - [Yourgenome.org](https://www.yourgenome.org/)
 
-## Locate phone
+## Locate Phone
 - [AbstractAPI](https://www.abstractapi.com/)
 - [Locate A Phone Number](https://locateanumber.com/)
 - [Phone Location](https://www.phone-location.info/)
 - [YouGetSignal](https://www.yougetsignal.com/)
 
-## Shopping list
+## Shopping List
 - [AnyList - The best way to create and share a grocery shopping list](https://www.anylist.com/)
 - [Bring! Shopping List](https://www.getbring.com/en/home)

@@ -5,7 +5,7 @@ description: Password managers, cybersecurity, and web privacy
 
 # Security & Privacy
 
-**Total Bookmarks:** 312
+**Total Bookmarks:** 302
 
 - [Fight Chat Control - Protect Digital Privacy in the EU](https://fightchatcontrol.eu/)
 - [PrivacySpy: We track online privacy](https://privacyspy.org/)
@@ -44,7 +44,7 @@ description: Password managers, cybersecurity, and web privacy
 - [TrustPort](https://www.trustport.com/en)
 - [Webroot](https://www.webroot.com/es/es)
 
-## Delete account
+## Delete Account
 - [Accountkiller](https://www.accountkiller.com/en)
 - [Incogni - Personal Information Removal Service](https://incogni.com/)
 - [Just Delete Me](https://justdeleteme.xyz/)
@@ -112,7 +112,7 @@ description: Password managers, cybersecurity, and web privacy
 - [tnodir/fort: Fort Firewall for Windows](https://github.com/tnodir/fort)
 - [Windows Firewall Control](https://www.binisoft.org/wfc.php)
 
-## Malware scanner
+## Malware Scanner
 - ⭐ **[Threat Insights Portal](https://www.threat.rip/)**
 - ⭐ **[VirusTotal](https://www.virustotal.com/gui/home/upload)**
 - [ANY.RUN - Interactive Online Malware Sandbox](https://any.run/)
@@ -128,7 +128,7 @@ description: Password managers, cybersecurity, and web privacy
 - [Trivy](https://trivy.dev/) / [🔗](https://github.com/aquasecurity/trivy)
 - [TrustScam](https://trustscam.com/)
 
-## Password manager
+## Password Manager
 - ⭐ **[Bitwarden](https://bitwarden.com/)**
 - ⭐ **[dani-garcia/vaultwarden · GItHub](https://github.com/dani-garcia/vaultwarden)**
 - ⭐ **[KeePassDX](https://keepassdx.com/)**
@@ -137,8 +137,8 @@ description: Password managers, cybersecurity, and web privacy
 - [AliasVault](https://www.aliasvault.com/) / [🔗](https://github.com/aliasvault/aliasvault)
 - [Argon2](https://www.argon2.com/) / [🔗](https://github.com/P-H-C/phc-winner-argon2)
 - [arsvechkarev/Vault: Simple, fast, secure password manager](https://github.com/arsvechkarev/Vault)
-- [AuthPass](https://authpass.com/)
 - [AuthPass](https://authpass.app/)
+- [AuthPass](https://authpass.com/)
 - [Bitwarden Web Vault](https://vault.bitwarden.com/#/register)
 - [boazeb/papervault: Paper vault for passwords and secrets](https://github.com/boazeb/papervault)
 - [Catima - Libre Card Wallet](https://catima.app/)
@@ -208,21 +208,6 @@ description: Password managers, cybersecurity, and web privacy
 - [sigstore/cosign: Code signing and transparency for containers and binaries](https://github.com/sigstore/cosign)
 - [ZAP proxy](https://www.zaproxy.org/)
 
-### OSINT Tools
-- ⭐ **[overpass turbo](https://overpass-turbo.eu/)** / [🔗](https://github.com/tyrasd/overpass-turbo)
-- [Creepy by ilektrojohn](https://www.geocreepy.com/)
-- [Datalux/Osintgram · GitHub](https://github.com/Datalux/Osintgram)
-- [FortyNorthSecurity/EyeWitness · GitHub](https://github.com/FortyNorthSecurity/EyeWitness)
-- [IDCrawl - Free People Search Engine](https://www.idcrawl.com/)
-- [lanmaster53/recon-ng · GitHub](https://github.com/lanmaster53/recon-ng)
-- [laramies/theHarvester · GitHub](https://github.com/laramies/theHarvester)
-- [mxrch/GHunt: 🕵️‍♂️ Offensive Google framework.](https://github.com/mxrch/ghunt)
-- [NexVision Web Threat Intelligence - OSINT](https://www.nexvisionlab.com/)
-- [p1ngul1n0/blackbird: An OSINT tool to search for accounts by username and email in social networks.](https://github.com/p1ngul1n0/blackbird)
-- [Sherlock Project](https://sherlock-project.github.io/)
-- [smicallef/spiderfoot · GitHub](https://github.com/smicallef/spiderfoot)
-- [sundowndev/phoneinfoga · GitHub](https://github.com/sundowndev/phoneinfoga)
-
 ### PenTesting
 - [Aircrack-ng](https://www.aircrack-ng.org/) / [🔗](https://github.com/aircrack-ng/aircrack-ng)
 - [BeEF](http://beefproject.com/)
@@ -239,9 +224,25 @@ description: Password managers, cybersecurity, and web privacy
 - [Pixiewps](https://github.com/wiire-a/pixiewps)
 - [protectai/llm-guard: The Security Toolkit for LLM Interactions](https://github.com/protectai/llm-guard)
 - [Snort](https://www.snort.org/)
+- [Strix - AI Penetration Testing & Autonomous Security](https://www.strix.ai/)
 - [swisskyrepo/PayloadsAllTheThings: A list of useful payloads and bypass for Web Application Security and Pentest/CTF](https://github.com/swisskyrepo/PayloadsAllTheThings)
 - [v1s1t0r1sh3r3/airgeddon · GitHub](https://github.com/v1s1t0r1sh3r3/airgeddon)
 - [zakirkun/deep-eye: An advanced AI-driven vulnerability scanner and penetration testing tool](https://github.com/zakirkun/deep-eye)
+
+### OSINT Tools
+- ⭐ **[overpass turbo](https://overpass-turbo.eu/)** / [🔗](https://github.com/tyrasd/overpass-turbo)
+- [Creepy by ilektrojohn](https://www.geocreepy.com/)
+- [Datalux/Osintgram · GitHub](https://github.com/Datalux/Osintgram)
+- [FortyNorthSecurity/EyeWitness · GitHub](https://github.com/FortyNorthSecurity/EyeWitness)
+- [IDCrawl - Free People Search Engine](https://www.idcrawl.com/)
+- [lanmaster53/recon-ng · GitHub](https://github.com/lanmaster53/recon-ng)
+- [laramies/theHarvester · GitHub](https://github.com/laramies/theHarvester)
+- [mxrch/GHunt: 🕵️‍♂️ Offensive Google framework.](https://github.com/mxrch/ghunt)
+- [NexVision Web Threat Intelligence - OSINT](https://www.nexvisionlab.com/)
+- [p1ngul1n0/blackbird: An OSINT tool to search for accounts by username and email in social networks.](https://github.com/p1ngul1n0/blackbird)
+- [Sherlock Project](https://sherlock-project.github.io/)
+- [smicallef/spiderfoot · GitHub](https://github.com/smicallef/spiderfoot)
+- [sundowndev/phoneinfoga · GitHub](https://github.com/sundowndev/phoneinfoga)
 
 ### RockYou
 - [aoluggo/word-list-pentest: Spanish word list (plain text) for use in pen-test. WIFI Try with wifite // Lista de palabras en español (texto sin formato) para usar en pruebas de penetración. WIFI Prueba con wifite.](https://github.com/aoluggo/word-list-pentest)
@@ -285,8 +286,8 @@ description: Password managers, cybersecurity, and web privacy
 - [Netmaker: Wireguard VPN & Software Defined Networking](https://www.netmaker.io/)
 - [NordVPN - The best online VPN service for speed and security](https://nordvpn.com/)
 - [Nym | The Next Generation of Privacy Infrastructure](https://nymtech.net/)
-- [Obscura VPN | Privacy that’s more than a promise](https://obscura.com/)
 - [Obscura VPN | Privacy that’s more than a promise](https://obscura.net/)
+- [Obscura VPN | Privacy that’s more than a promise](https://obscura.com/)
 - [OpenVPN](https://openvpn.net/)
 - [Orbot - Tor for Mobile](https://orbot.app/en/) / [🔗](https://github.com/guardianproject/orbot-android)
 - [Ostrich VPN](https://www.ostrichvpn.net/)
@@ -319,20 +320,7 @@ description: Password managers, cybersecurity, and web privacy
 - [X-VPN](https://xvpn.io/)
 - [ZeroTworu/anet: Simple Rust VPN Client / Server](https://github.com/ZeroTworu/anet)
 
-## VPS
-- [Budget VPS List - Lowendstock](https://lowendstock.com/)
-- [Cloudzy | Your VPS Hosting Solutions in the Clouds ☁️](https://cloudzy.com/)
-- [Cockbox VPS Hosting](https://cockbox.org/)
-- [MVPS - Your European VPS provider](https://www.mvps.net/)
-- [Panix](https://www.panix.com/)
-- [SnowCore - Welcome](https://snowcore.io/)
-- [TorBox.app](https://torbox.app/) / [🔗](https://github.com/TorBox-App)
-- [VPS Server](https://www.vpsserver.com/)
-- [VPS.net](https://www.vps.net/)
-- [VPS/VDS сервера в аренду — купить виртуальный сервер по цене от 48 рублей](https://vps.today/)
-- [WebHorizon](https://webhorizon.in/)
-
-## Website scannerr
+## Website Scanner
 - ⭐ **[Wappalyzer - Find out what websites are built with](https://www.wappalyzer.com/)**
 - ⭐ **[Web Check - OSINT Scanner](https://web-check.xyz/)** / [🔗](https://github.com/Lissy93/web-check)
 - [AboutUs](https://aboutus.com/)
