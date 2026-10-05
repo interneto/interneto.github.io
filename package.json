@@ -12,6 +12,7 @@
     "preview": "astro preview",
     "typecheck": "astro check",
     "db:init": "node scripts/db/init.js",
+    "db:fetch": "node scripts/db/fetch-raindrop.js",
     "db:import": "node scripts/db/import.js",
     "db:validate": "node scripts/db/validate.js",
     "db:export": "node scripts/db/export-markdown.js && node scripts/db/export-json.js",

@@ -56,7 +56,7 @@ If this deny file is missing on a machine, recreate it before touching Raindrop.
 | Source | Gives | Caveat |
 |---|---|---|
 | `find_collections` (MCP) | Live tree: id, title, parent_id, own/total counts | Authoritative for structure |
-| `links/interneto-links.csv` (Raindrop export, gitignored) | Every bookmark with its Raindrop id, title, url, folder path | A snapshot in time — re-export before bulk bookmark moves |
+| `links/interneto-links.csv` (gitignored) | Every bookmark with its Raindrop id, title, url, folder path | A snapshot in time — refresh before bulk bookmark moves. The app's Export is Pro-only; rebuild it instead with `RAINDROP_TOKEN=… pnpm db:fetch` (REST API, works on free accounts, ~10 min for ~47k bookmarks, read-only, skips the off-limits roots) |
 | `scripts/raindrop-snapshot.mjs` | Builds the local read-only snapshot from the two above | Regenerate after any structural change |
 
 ```bash
@@ -184,7 +184,7 @@ Everything below is known-outstanding as of 2026-09-22 — not yet done, not for
 4. ~~`Office & Productivity` pairs~~ — **done**, see Progress log.
 5. ~~`Blogs media`/`Forum` re-check~~ — **done**, see Progress log.
 6. ~~`Portfolio > Dr`'s 5 people~~ — **done, `Dr` fully dissolved**, see Progress log.
-7. **CSV re-export still pending on the maintainer's side.** `links/interneto-links.csv` was stale as of the last check (28,551 rows still say the old `Apps/Services` root name). Re-export from Raindrop before the next `node scripts/convert.js` / `pnpm sync`, or rows will be silently skipped by the now-corrected guard in `scripts/lib/utils.js`.
+7. **CSV refresh still pending** — no longer needs the Pro-only export: `RAINDROP_TOKEN=… pnpm db:fetch` (added 2026-10-05, not yet run against the live account — no token on the machine that wrote it; first run should be checked against `find_collections` counts). Original note: **CSV re-export was pending on the maintainer's side.** `links/interneto-links.csv` was stale as of the last check (28,551 rows still say the old `Apps/Services` root name). Re-export from Raindrop before the next `node scripts/convert.js` / `pnpm sync`, or rows will be silently skipped by the now-corrected guard in `scripts/lib/utils.js`.
 8. **Site rebuild never run this session.** All changes so far are in Raindrop only — `src/content/categories/*.md` (and the live site) don't reflect any of it yet. Needs, in order: re-export CSV (#7) → `node scripts/convert.js` or `pnpm sync` → `pnpm typecheck` → commit.
 9. ~~`REVIEW` (26 items, as of 2026-09-23) and `TEST` (1 bookmark) are ready for the maintainer to delete** in the Raindrop app — Claude cannot delete. Includes the 4 religion-group leaves (`Buddhism`, `Hinduism`, `Islam`, `Judaism`) the maintainer may want to reconsider keeping as placeholders rather than deleting.~~
 10. ~~**One low-confidence typo left unfixed**: `Cords map` (`Travel & Location`, 1 bookmark) — its content didn't confirm what "Cords" was meant to be.~~

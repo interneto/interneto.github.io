@@ -208,6 +208,22 @@ Current categories (19 total):
 - Descriptions in CATEGORY_DESCRIPTIONS are preserved across regenerations
 - Linting checks markdown formatting and typos
 
+## Sync Raindrop -> site without the CSV export
+
+Raindrop's CSV export needs a Pro plan; the REST API does not. `db:fetch`
+rebuilds `links/interneto-links.csv` in the export's exact format, so the rest
+of the pipeline is unchanged:
+
+```bash
+RAINDROP_TOKEN=<test token> pnpm db:fetch   # API -> links/interneto-links.csv
+pnpm sync                                   # CSV -> SQLite -> categories/*.md + bookmarks.json
+```
+
+Get the token at app.raindrop.io -> Settings -> Integrations -> For Developers
+-> create an app -> "Create test token". The script only sends GET requests,
+and refuses to write the CSV if the fetch came back short (the importer
+soft-removes anything missing from the CSV).
+
 ## Refresh the LLM Pricing chart data
 
 ```bash
@@ -229,6 +245,13 @@ all three:
 ```bash
 node scripts/llm-pricing-download.mjs https://lmarena.ai/leaderboard/text /tmp/overall.tsv
 node scripts/llm-pricing-update-elo.mjs /tmp/overall.tsv --column overall
+```
+
+The update only fills blank prices. To overwrite existing `cpmi` values with
+current OpenRouter prices (retired models and >10x jumps are left alone):
+
+```bash
+node scripts/llm-pricing-reprice.mjs [--dry-run]
 ```
 
 This is a Node port of the update tooling from
