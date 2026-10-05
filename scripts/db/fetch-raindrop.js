@@ -1,7 +1,7 @@
 // Rebuilds links/interneto-links.csv from the Raindrop REST API, replacing the
 // Pro-only "Export" download. The API is available on free accounts.
 //
-//   RAINDROP_TOKEN=<test token> node scripts/db/fetch-raindrop.js
+//   pnpm db:fetch        (reads RAINDROP_TOKEN from the environment or a gitignored .env)
 //
 // Token: app.raindrop.io -> Settings -> Integrations -> "For Developers" ->
 // create an app -> "Create test token". Read-only use; this script only sends GETs.
@@ -21,7 +21,7 @@ const EXCLUDED_ROOT_IDS = [19044358, 71411789]
 
 const token = process.env.RAINDROP_TOKEN
 if (!token) {
-  console.error('❌ RAINDROP_TOKEN is not set. See the header of scripts/db/fetch-raindrop.js.')
+  console.error('❌ RAINDROP_TOKEN is not set. Put RAINDROP_TOKEN=... in .env (gitignored); see the header of this script.')
   process.exit(1)
 }
 

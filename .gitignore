@@ -22,3 +22,6 @@ scripts/parse-cph*.py
 
 # Raindrop snapshot (regenerable)
 links/snapshot/
+
+# Local secrets (RAINDROP_TOKEN for pnpm db:fetch)
+.env

@@ -215,9 +215,13 @@ rebuilds `links/interneto-links.csv` in the export's exact format, so the rest
 of the pipeline is unchanged:
 
 ```bash
-RAINDROP_TOKEN=<test token> pnpm db:fetch   # API -> links/interneto-links.csv
-pnpm sync                                   # CSV -> SQLite -> categories/*.md + bookmarks.json
+pnpm db:fetch   # API -> links/interneto-links.csv
+pnpm sync       # CSV -> SQLite (data/bookmarks.db) -> categories/*.md + bookmarks.json
+pnpm db:pull    # both, in order
 ```
+
+`db:fetch` reads `RAINDROP_TOKEN` from the environment or from a gitignored
+`.env` file in the repo root (`RAINDROP_TOKEN=...`).
 
 Get the token at app.raindrop.io -> Settings -> Integrations -> For Developers
 -> create an app -> "Create test token". The script only sends GET requests,
