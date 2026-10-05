@@ -29,12 +29,21 @@ const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms))
 
 async function get(route) {
   for (let attempt = 0; ; attempt++) {
-    const res = await fetch(`${API}${route}`, { headers: { Authorization: `Bearer ${token}` } })
-    if (res.ok) return res.json()
+    let res
+    try {
+      res = await fetch(`${API}${route}`, { headers: { Authorization: `Bearer ${token}` } })
+      if (res.ok) return await res.json()
+    } catch (error) {
+      // Dropped connections (ECONNRESET) happen over ~950 requests; retry rather than lose the run.
+      if (attempt >= 5) throw error
+      await sleep(3000 * (attempt + 1))
+      continue
+    }
     // 120 requests/minute; the reset header is a unix timestamp.
     if ((res.status === 429 || res.status >= 500) && attempt < 5) {
       const reset = Number(res.headers.get('x-ratelimit-reset')) * 1000 - Date.now()
-      await sleep(Math.min(Math.max(reset, 2000), 65000))
+      // No usable header -> wait out a full rate-limit window.
+      await sleep(reset > 0 && reset < 120000 ? reset + 1000 : 61000)
       continue
     }
     throw new Error(`GET ${route} -> ${res.status} ${res.statusText}`)
@@ -52,6 +61,7 @@ for (let page = 0; raindrops.length < total; page++) {
   total = body.count
   if (!body.items.length) break
   raindrops.push(...body.items)
+  await sleep(550) // stay under the 120 requests/minute limit instead of running into it
   if (page % 20 === 0) console.log(`📥 ${raindrops.length}/${total}`)
 }
 
