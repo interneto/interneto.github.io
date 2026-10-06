@@ -26,8 +26,7 @@ import VPLayout from '../../layouts/VPLayout.astro';
                 <p>The cost of LLMs is steadily falling, and the quality is rising.</p>
                 <p>A rough estimate of the <strong>cost of an LLM</strong> is the cost per million tokens of input, mostly from <a href="https://llmpricecheck.com/" target="_blank" rel="noopener noreferrer">LLMPriceCheck</a>. (Typically, inputs are the bigger component of the cost, compared to outputs.)</p>
                 <p>A rough estimate of the <strong>quality of an LLM</strong> is the ELO score on the <a href="https://lmarena.ai/" target="_blank" rel="noopener noreferrer">LMSYS Leaderboard</a>. (This is like the chess ELO score, but for LLMs, where people compare 2 LLMs on the same task.)</p>
-                <p>Some LLMs are "pareto optimal" — no other LLM is better in both cost and quality. These are shown in 🟢 green and are the best to use.</p>
-                <p>Some LLMs are "pareto suboptimal" — no other LLM is worse in both cost and quality. These are shown in 🔴 red and are the ones to avoid.</p>
+                <p>Some LLMs are "pareto optimal" — no other LLM is better in both cost and quality. These are shown in 🟢 green, joined by a line, and are the best to use. Hover any model to read its price and score off the axes.</p>
                 <p class="info-meta">Data from <a href="https://lmarena.ai/" target="_blank" rel="noopener noreferrer">LMArena</a>, refreshed from <a href="https://github.com/sanand0/llmpricing" target="_blank" rel="noopener noreferrer">sanand0/llmpricing</a>. Sources: <a href="https://livebench.ai/" target="_blank" rel="noopener noreferrer">LiveBench</a> · <a href="https://artificialanalysis.ai/models" target="_blank" rel="noopener noreferrer">Artificial Analysis models</a></p>
               </div>
             </div>
@@ -36,7 +35,7 @@ import VPLayout from '../../layouts/VPLayout.astro';
         <div id="controls-slider">
           <label id="date-label" for="date">Month</label>
           <input type="range" id="date" min="0" max="100" step="1" value="100">
-          <span class="legend">🟢 Best &nbsp; 🔴 Worst</span>
+          <span class="legend">🟢 Best</span>
         </div>
       </div>
       <div id="chart-area">

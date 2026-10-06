@@ -70,10 +70,6 @@ const updateOptimalStatus = (filteredModels: Model[]) => {
       (other) => other === model || other.elo < model.elo || other.cost > model.cost
     )
       ? "best"
-      : filteredModels.every(
-          (other) => other === model || other.elo >= model.elo || other.cost <= model.cost
-        )
-      ? "worst"
       : "";
   });
 };
@@ -108,6 +104,11 @@ const renderPlot = (filteredModels: Model[]) => {
         dx: -4,
         dy: -5,
       }),
+      // Pareto frontier: the "best" models joined cheapest to priciest.
+      Plot.line(
+        filteredModels.filter((d) => d.optimal === "best").sort((a, b) => a.cost - b.cost),
+        { x: "cost", y: "elo", stroke: "lime", strokeWidth: 2, strokeOpacity: scrollyActive ? 0.3 : 0.8 }
+      ),
       Plot.dot(filteredModels, {
         x: "cost",
         y: "elo",
@@ -115,7 +116,6 @@ const renderPlot = (filteredModels: Model[]) => {
         fill: (d: Model) => {
           if (highlighted(d)) return "var(--accent)";
           if (d.optimal === "best") return "lime";
-          if (d.optimal === "worst") return "red";
           return "rgba(var(--border-rgb), 0.35)";
         },
         fillOpacity: (d: Model) => (dimmed(d) ? 0.3 : 1),
@@ -151,6 +151,15 @@ const renderPlot = (filteredModels: Model[]) => {
           lineAnchor: "bottom",
         }
       ),
+      // Hovering a model drops guide lines to both axes and labels the values there.
+      Plot.crosshair(filteredModels, {
+        x: "cost",
+        y: "elo",
+        ruleStroke: "var(--fg)",
+        ruleStrokeOpacity: 0.5,
+        textFill: "var(--fg)",
+        textStroke: "var(--bg)",
+      }),
       Plot.axisX({
         label: "Price ($ per 1M input tokens, log scale)",
         tickFormat: (d: number) => `$${d3.format(".3~f")(d)}`,
