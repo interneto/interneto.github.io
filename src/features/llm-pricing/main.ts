@@ -81,6 +81,8 @@ const renderPlot = (filteredModels: Model[]) => {
   const w = Math.max($chartArea.clientWidth, MIN_CHART_WIDTH);
   const h = Math.min(Math.max($chartArea.clientHeight, 400), Math.round(w * 0.62));
 
+  const guide = { stroke: "var(--fg)", strokeOpacity: 0.6, strokeDasharray: "4,3" };
+
   const plot = Plot.plot({
     marginLeft: 50,
     x: { type: "log", grid: true, domain: xScale.domain() },
@@ -151,12 +153,20 @@ const renderPlot = (filteredModels: Model[]) => {
           lineAnchor: "bottom",
         }
       ),
-      // Hovering a model drops guide lines to both axes and labels the values there.
+      // Hovering a model drops dashed guide lines from it to both axes…
+      Plot.ruleX(
+        filteredModels,
+        Plot.pointer({ px: "cost", py: "elo", x: "cost", y1: yScale.domain()[0], y2: "elo", ...guide })
+      ),
+      Plot.ruleY(
+        filteredModels,
+        Plot.pointer({ px: "cost", py: "elo", y: "elo", x1: xScale.domain()[0], x2: "cost", ...guide })
+      ),
+      // …and labels the values on the axes (crosshair's own full-width rules are hidden).
       Plot.crosshair(filteredModels, {
         x: "cost",
         y: "elo",
-        ruleStroke: "var(--fg)",
-        ruleStrokeOpacity: 0.5,
+        ruleStrokeOpacity: 0,
         textFill: "var(--fg)",
         textStroke: "var(--bg)",
       }),
