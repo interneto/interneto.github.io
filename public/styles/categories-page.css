@@ -1,7 +1,39 @@
 /* Prose styles for category markdown pages. Wrapper/TOC/breadcrumb/header live in content-shared.css */
 
+/* Hidden by the sidebar favorites-only toggle and/or the in-page link search below. */
 .vp-prose .vp-favorite-hidden {
   display: none !important;
+}
+
+.vp-link-filter {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem 0.75rem;
+  margin: 0 0 1.5rem;
+}
+
+.vp-link-filter-input {
+  flex: 1;
+  min-width: 12rem;
+  max-width: 24rem;
+  padding: 0.5rem 0.75rem;
+  font-size: 0.9rem;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 0.4rem;
+  background-color: var(--vp-c-bg);
+  color: var(--vp-c-text-1);
+}
+
+.vp-link-filter-input:focus {
+  outline: none;
+  border-color: var(--vp-c-brand-1);
+}
+
+.vp-link-filter-count {
+  font-size: 0.8rem;
+  color: var(--vp-c-text-2);
+  white-space: nowrap;
 }
 
 .vp-prose {

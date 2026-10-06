@@ -40,9 +40,23 @@ const hasLeadingMarkdownTitle = /^\s*#\s+/.test(entry.body ?? '');
           <h1>{pageTitle}</h1>
         </header>
       )}
+
+      <div class="vp-link-filter">
+        <input
+          id="categoryLinkSearch"
+          class="vp-link-filter-input"
+          type="search"
+          placeholder="Search links in this category"
+          autocomplete="off"
+          aria-label="Search links in this category"
+        />
+        <span id="categoryLinkFilterCount" class="vp-link-filter-count" aria-live="polite"></span>
+      </div>
+
       <div class="vp-prose">
         <Content />
       </div>
+      <p class="vp-content-empty" id="categoryLinkFilterEmpty" hidden>No links match your filters.</p>
     </article>
 
     <ContentTOC headings={headings} />
@@ -51,33 +65,40 @@ const hasLeadingMarkdownTitle = /^\s*#\s+/.test(entry.body ?? '');
   <script is:inline>
     (() => {
       const toggle = document.getElementById('categoryFavoritesToggle');
+      const searchInput = document.getElementById('categoryLinkSearch');
+      const countEl = document.getElementById('categoryLinkFilterCount');
+      const emptyEl = document.getElementById('categoryLinkFilterEmpty');
       const prose = document.querySelector('.vp-prose');
-      if (!toggle || !prose) return;
+      if (!prose) return;
 
       const STORAGE_KEY = 'interneto:favorites-only';
       const STAR_RE = /^\s*⭐/;
+      const normalize = (v) => v.trim().toLowerCase();
 
       const items = Array.from(prose.querySelectorAll('li'));
-      const favItems = items.filter((li) => STAR_RE.test(li.textContent || ''));
-      favItems.forEach((li) => li.classList.add('vp-fav-item'));
-
+      const favItems = new Set(items.filter((li) => STAR_RE.test(li.textContent || '')));
       const lists = Array.from(prose.querySelectorAll('ul, ol'));
       const headings = Array.from(prose.querySelectorAll('h2, h3, h4'));
 
+      // Hidden by either the favorites-only toggle or the search box below.
       const isVisible = (el) => !el.classList.contains('vp-favorite-hidden');
 
-      const applyFilter = (on) => {
-        toggle.setAttribute('aria-checked', on ? 'true' : 'false');
-        toggle.classList.toggle('is-active', on);
+      let favOnly = false;
+      let query = '';
+
+      const apply = () => {
+        const q = normalize(query);
+        let visibleCount = 0;
 
         items.forEach((li) => {
-          const isFav = li.classList.contains('vp-fav-item');
-          li.classList.toggle('vp-favorite-hidden', on && !isFav);
+          const visible = (!favOnly || favItems.has(li)) && (!q || normalize(li.textContent || '').includes(q));
+          li.classList.toggle('vp-favorite-hidden', !visible);
+          if (visible) visibleCount += 1;
         });
 
         lists.forEach((list) => {
           const hasVisibleChild = Array.from(list.children).some(isVisible);
-          list.classList.toggle('vp-favorite-hidden', on && !hasVisibleChild);
+          list.classList.toggle('vp-favorite-hidden', !hasVisibleChild);
         });
 
         headings.forEach((h) => {
@@ -90,24 +111,47 @@ const hasLeadingMarkdownTitle = /^\s*#\s+/.test(entry.body ?? '');
             }
             sibling = sibling.nextElementSibling;
           }
-          h.classList.toggle('vp-favorite-hidden', on && !hasContent);
+          h.classList.toggle('vp-favorite-hidden', !hasContent);
         });
+
+        if (countEl) {
+          countEl.textContent =
+            favOnly || q ? `${visibleCount} of ${items.length} shown` : `${items.length} links`;
+        }
+        if (emptyEl) emptyEl.hidden = visibleCount > 0;
       };
 
-      let on = false;
-      try {
-        on = localStorage.getItem(STORAGE_KEY) === '1';
-      } catch {}
-
-      applyFilter(on);
-
-      toggle.addEventListener('click', () => {
-        on = !on;
+      if (toggle) {
         try {
-          localStorage.setItem(STORAGE_KEY, on ? '1' : '0');
+          favOnly = localStorage.getItem(STORAGE_KEY) === '1';
         } catch {}
-        applyFilter(on);
-      });
+        toggle.setAttribute('aria-checked', favOnly ? 'true' : 'false');
+        toggle.classList.toggle('is-active', favOnly);
+
+        toggle.addEventListener('click', () => {
+          favOnly = !favOnly;
+          try {
+            localStorage.setItem(STORAGE_KEY, favOnly ? '1' : '0');
+          } catch {}
+          toggle.setAttribute('aria-checked', favOnly ? 'true' : 'false');
+          toggle.classList.toggle('is-active', favOnly);
+          apply();
+        });
+      }
+
+      if (searchInput instanceof HTMLInputElement) {
+        let debounce;
+        searchInput.addEventListener('input', () => {
+          clearTimeout(debounce);
+          // Debounced: each run walks every li/list/heading in the category (up to ~5k on the big ones).
+          debounce = setTimeout(() => {
+            query = searchInput.value;
+            apply();
+          }, 120);
+        });
+      }
+
+      apply();
     })();
   </script>
 </VPLayout>
