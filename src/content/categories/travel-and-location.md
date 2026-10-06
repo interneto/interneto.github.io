@@ -5,7 +5,7 @@ description: Maps, weather, travel agencies, and flights
 
 # Travel & Location
 
-**Total Bookmarks:** 801
+**Total Bookmarks:** 802
 
 - [itinio - What to Do in Madrid & Barcelona | Best Local Routes & Food](https://www.itinio.app/)
 - [TREK](https://demo-nomad.pakulat.org/dashboard) / [🔗](https://github.com/mauriceboe/TREK)
@@ -76,6 +76,7 @@ description: Maps, weather, travel agencies, and flights
 - [Welcome to SkyDemon, VFR Flight Planning and GPS Moving Map](https://www.skydemon.aero/)
 
 ## Maps
+- [🛰️ OSIRIS — Open Source Palantir Alternative | Live Tracking + OSINT Tools](https://osirisai.live/?layers=maritime,satellites,cctv,cctv_previews,live_news,earthquakes,global_incidents,day_night,cables,sdk_sea,sdk_air,sdk_naval)
 - [Amap - 高德地图](https://wap.amap.com/?from=m&type=m)
 - [BTC Map](https://btcmap.org/) / [🔗](https://github.com/teambtcmap/btcmap.org)
 - [Cartes](https://cartes.app/#3/0/0) / [🔗](https://codeberg.org/cartes/web)

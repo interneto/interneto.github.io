@@ -1140,7 +1140,10 @@
     "cover": "https://indexable.arena.ai/routes/arena-preview--og-twitter--1200x630--v1.png",
     "favorite": false,
     "category": "ai-tools-and-services",
-    "subcategory": [],
+    "subcategory": [
+      "Language Models & Hubs",
+      "AI Datasets & Benchmarks"
+    ],
     "tags": [
       "Software: AI",
       "OS Compatibility: web app"
@@ -2425,7 +2428,10 @@
     "cover": "https://www.chatpdf.com/_static/og.png",
     "favorite": false,
     "category": "ai-tools-and-services",
-    "subcategory": [],
+    "subcategory": [
+      "Language Models & Hubs",
+      "AI Study & Writing"
+    ],
     "tags": [
       "OS Compatibility: web app"
     ],
@@ -6236,7 +6242,10 @@
     "cover": "https://huggingface.co/front/thumbnails/tasks.png",
     "favorite": false,
     "category": "ai-tools-and-services",
-    "subcategory": [],
+    "subcategory": [
+      "Language Models & Hubs",
+      "AI Datasets & Benchmarks"
+    ],
     "tags": [
       "Source Code: Hugging Face"
     ],
@@ -6333,7 +6342,10 @@
     "cover": "https://www.humata.ai/images/x-image-logo.png",
     "favorite": false,
     "category": "ai-tools-and-services",
-    "subcategory": [],
+    "subcategory": [
+      "Language Models & Hubs",
+      "AI Study & Writing"
+    ],
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2026-04-24T11:07:04.132Z"
@@ -8088,7 +8100,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Language Models & Hubs",
-      "LLMs (Large Language Models)"
+      "AI Datasets & Benchmarks"
     ],
     "tags": [
       "Content: List",
@@ -8108,7 +8120,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Language Models & Hubs",
-      "LLMs (Large Language Models)"
+      "AI Datasets & Benchmarks"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -13421,7 +13433,10 @@
     "cover": "https://tokenomy.ai/tokenomy-social-preview.png",
     "favorite": false,
     "category": "ai-tools-and-services",
-    "subcategory": [],
+    "subcategory": [
+      "Model Serving",
+      "AI Serving Engines"
+    ],
     "tags": [
       "Software: AI"
     ],
@@ -541785,6 +541800,22 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2022-05-07T11:51:14.665Z"
+  },
+  {
+    "id": "1878870239",
+    "title": "🛰️ OSIRIS — Open Source Palantir Alternative | Live Tracking + OSINT Tools",
+    "url": "https://osirisai.live/?layers=maritime,satellites,cctv,cctv_previews,live_news,earthquakes,global_incidents,day_night,cables,sdk_sea,sdk_air,sdk_naval",
+    "description": "Track 10K+ flights, satellites & CCTV worldwide. Run Nmap, DNS, WHOIS scans from your browser. 20+ live intel feeds. Free & open source.",
+    "domain": "osirisai.live",
+    "cover": "https://osirisai.live/og-image.png",
+    "favorite": false,
+    "category": "travel-and-location",
+    "subcategory": [
+      "Maps"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-06T11:15:54.349Z"
   },
   {
     "id": "287100772",

@@ -7,11 +7,6 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 
 **Total Bookmarks:** 735
 
-- [Arena | Benchmark & Compare the Best AI Models](https://arena.ai/)
-- [ChatPDF AI | Chat with any PDF](https://www.chatpdf.com/)
-- [Hugging Face - Tasks](https://huggingface.co/tasks)
-- [Humata: AI meets your knowledge base](https://www.humata.ai/)
-- [Tokenomy - Predict. Optimize. Ship AI with confidence.](https://tokenomy.ai/)
 
 ## Agents & Automation
 
@@ -520,8 +515,6 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [LiveKit](https://livekit.io/)
 - [Llama 2 - Meta AI](https://ai.meta.com/llama/)
 - [Llama 3.2](https://www.llama.com/)
-- [LLM Pricing — Compare 2100+ Models & 183+ Providers · 8/2026](https://llmpricing.dev/en/)
-- [LLM pricing calculator](https://www.llm-prices.com/)
 - [lmsys/lmsys-chat-1m · Datasets at Hugging Face](https://huggingface.co/datasets/lmsys/lmsys-chat-1m)
 - [Marin AI](https://marin.community/) / [🔗](https://github.com/marin-community/marin)
 - [McGill-NLP/Llama-3-8B-Web · Hugging Face](https://huggingface.co/McGill-NLP/Llama-3-8B-Web)
@@ -569,8 +562,10 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 
 ### AI Study & Writing
 - [Astra AI – Study & Exam Prep | AI Tutor for All Subjects](https://astra-ai.co/)
+- [ChatPDF AI | Chat with any PDF](https://www.chatpdf.com/)
 - [cheating daddy](https://cheatingdaddy.com/) / [🔗](https://github.com/sohzm/cheating-daddy)
 - [GPTZero - AI Detector, the Original AI Checker for ChatGPT & More](https://gptzero.me/)
+- [Humata: AI meets your knowledge base](https://www.humata.ai/)
 - [Mirofish - Predict Anything](https://mirofish-demo.pages.dev/) / [🔗](https://github.com/666ghj/MiroFish)
 - [NovelAI - The AI Storyteller](https://novelai.net/)
 - [Perchance - Create a Random Generator](https://perchance.org/welcome)
@@ -657,6 +652,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - ⭐ **[LiveBench](https://livebench.ai/#/)** / [🔗](https://github.com/LiveBench/LiveBench)
 - ⭐ **[Zero GPU Spaces - a Hugging Face Space by enzostvs](https://huggingface.co/spaces/enzostvs/zero-gpu-spaces)**
 - [ARC Prize - What is ARC-AGI?](https://arcprize.org/arc-agi)
+- [Arena | Benchmark & Compare the Best AI Models](https://arena.ai/)
 - [Artificial Analysis - AI Model & API Providers Analysis](https://artificialanalysis.ai/)
 - [Benchlm.ai - LLM Leaderboard 2026](https://benchlm.ai/)
 - [BridgeBench — AI Coding & Vibe Coding Benchmark](https://www.bridgebench.ai/)
@@ -665,6 +661,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [CyberGym](https://www.cybergym.io/) / [🔗](https://github.com/sunblaze-ucb/cybergym)
 - [DeepSWE Benchmark: GPT vs Claude for Agentic Coding](https://deepswe.net/#opus-4-8-result)
 - [harveyai/harvey-labs: A benchmark built to evaluate and improve agent capabilities for supporting legal work](https://github.com/harveyai/harvey-labs)
+- [Hugging Face - Tasks](https://huggingface.co/tasks)
 - [HumaniBench: A Human-Centric Benchmark for Large Multimodal Models Evaluation](https://vectorinstitute.github.io/humanibench/) / [🔗](https://github.com/VectorInstitute/humaniBench)
 - [Humanity's Last Exam](https://agi.safe.ai/)
 - [HumRights-Bench — the first benchmark for human rights reasoning in AI](https://humrightsbench.com/)
@@ -676,6 +673,8 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [LLM Explorer: A Curated Large Language Model Directory](https://llm-explorer.com/)
 - [LLM Leaderboard - Vellum](https://www.vellum.ai/llm-leaderboard)
 - [LLM Leaderboard 2025 - Model Rankings & Analysis](https://llm-stats.com/)
+- [LLM Pricing — Compare 2100+ Models & 183+ Providers · 8/2026](https://llmpricing.dev/en/)
+- [LLM pricing calculator](https://www.llm-prices.com/)
 - [Odysseys — a benchmark for long-horizon web agents](https://odysseysbench.com/)
 - [OpenRouter - LLM Rankings](https://openrouter.ai/rankings)
 - [Price Per Toke - LLM API Pricing 2026](https://pricepertoken.com/)
@@ -735,6 +734,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [Stability-AI/StableSwarmUI: StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.](https://github.com/Stability-AI/StableSwarmUI)
 - [Syllabi - Open Source AI Chatbot Platform with RAG](https://www.syllabi-ai.com/) / [🔗](https://github.com/Achu-shankar/Syllabi)
 - [Together AI – Fast Inference, Fine-Tuning & Training](https://www.together.ai/)
+- [Tokenomy - Predict. Optimize. Ship AI with confidence.](https://tokenomy.ai/)
 - [Unsloth - Train and Run Models Locally](https://unsloth.ai/) / [🔗](https://github.com/unslothai/unsloth)
 - [vLLM](https://vllm.ai/) / [🔗](https://github.com/vllm-project/vllm)
 - [vllm-project/vllm: A high-throughput and memory-efficient inference and serving engine for LLMs](https://github.com/vllm-project/vllm)
