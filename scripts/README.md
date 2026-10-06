@@ -215,10 +215,16 @@ rebuilds `links/interneto-links.csv` in the export's exact format, so the rest
 of the pipeline is unchanged:
 
 ```bash
-pnpm db:fetch   # API -> links/interneto-links.csv
+pnpm db:fetch   # API -> links/interneto-links.csv (only what changed since the last run; seconds)
+pnpm db:fetch --full   # refetch everything (~15 min)
 pnpm sync       # CSV -> SQLite (data/bookmarks.db) -> categories/*.md + bookmarks.json
 pnpm db:pull    # both, in order
 ```
+
+Incremental runs ask the API for bookmarks changed since the last run (plus
+Trash), follow renamed/moved collections through the tree saved in the
+gitignored `links/raindrop-state.json`, and fall back to a full fetch on their
+own when the bookmark count or a folder path does not add up.
 
 `db:fetch` reads `RAINDROP_TOKEN` from the environment or from a gitignored
 `.env` file in the repo root (`RAINDROP_TOKEN=...`).

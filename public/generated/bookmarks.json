@@ -3247,8 +3247,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
-      "LLMs (Large Language Models)"
+      "Agents & Automation",
+      "Memory & RAG"
     ],
     "tags": [
       "Software: LLM",
@@ -4958,8 +4958,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
-      "LLMs (Large Language Models)"
+      "Agents & Automation",
+      "Memory & RAG"
     ],
     "tags": [
       "Source Code: GitHub",
@@ -6085,7 +6085,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "Agent Frameworks & UIs"
+      "Memory & RAG"
     ],
     "tags": [
       "Source Code: GitHub",
@@ -7612,7 +7612,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "Agent Frameworks & UIs"
+      "Memory & RAG"
     ],
     "tags": [
       "Software: AI",
@@ -8874,8 +8874,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
-      "LLMs (Large Language Models)"
+      "Agents & Automation",
+      "Memory & RAG"
     ],
     "tags": [
       "Source Code: GitHub",
@@ -8895,8 +8895,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Model Serving",
-      "AI Serving Engines"
+      "Agents & Automation",
+      "Memory & RAG"
     ],
     "tags": [
       "Software: AI",
@@ -9167,8 +9167,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
-      "LLMs (Large Language Models)"
+      "Agents & Automation",
+      "Memory & RAG"
     ],
     "tags": [
       "Source Code: GitHub",
@@ -13795,7 +13795,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "Agent Frameworks & UIs"
+      "Memory & RAG"
     ],
     "tags": [
       "Type: Open-Source",
@@ -13815,7 +13815,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "Agent Frameworks & UIs"
+      "Memory & RAG"
     ],
     "tags": [
       "Type: Open-Source",
