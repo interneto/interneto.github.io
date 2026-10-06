@@ -66,6 +66,16 @@ const toolboxCards = [
   },
 ];
 
+// Interactive pages that aren't installers.
+const toolCards = [
+  {
+    title: 'LLM Pricing',
+    description: 'Compare the cost and quality of large language models — an interactive chart, kept in sync with the LMArena leaderboards.',
+    href: `${BASE}toolbox/llm-pricing/`,
+    icon: '📊',
+  },
+];
+
 const platformFilters = [
   { value: 'all', label: 'All' },
   { value: 'os', label: '💿 OS' },
@@ -145,6 +155,21 @@ const tuiInstall = [
             <button type="button" id="tuiCopyBtn" class="tb-copy" aria-label="Copy install command">Copy</button>
           </div>
         </div>
+      </div>
+    </section>
+
+    <section class="toolbox-section">
+      <div class="toolbox-section-header">
+        <h2>Tools</h2>
+      </div>
+      <div class="toolbox-grid">
+        {toolCards.map((card) => (
+          <a class="toolbox-card" href={card.href}>
+            <span class="toolbox-card-icon">{card.icon}</span>
+            <h3>{card.title}</h3>
+            <p>{card.description}</p>
+          </a>
+        ))}
       </div>
     </section>
   </section>
