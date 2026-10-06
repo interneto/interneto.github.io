@@ -96,7 +96,7 @@ trinity-large-thinking,1367,1385,1413,0.25,2026-04,,https://openrouter.ai/arcee-
 nvidia-nemotron-3.5-lightning-30b-a3b-nvfp4,1350,1370,1420,,2026-07?,,
 granite-4.2-30b,1340,1363,1400,0.16,2026-09?,,https://artificialanalysis.ai/models/granite-4-2-30b
 granite-4.1-8b,1304,1320,1353,0.05,2026-04,,https://openrouter.ai/ibm-granite/granite-4.1-8b
-granite-4.2-3b,1290,1312,1380,,2026-09?,,
+granite-4.2-3b,1290,1312,1380,0.03,2026-09?,,https://artificialanalysis.ai/models/granite-4-2-3b
 granite-4.2-8b,1288,1305,1369,0.06,2026-08,,https://openrouter.ai/ibm-granite/granite-4.2-8b
 gpt-5.4-high (codex-harness),,,1457,2.5,2026-03,2026-04?,https://openrouter.ai/openai/gpt-5.4
 gemini-3.1-pro-preview,1487,1507,1522,2,2026-02,,https://ai.google.dev/gemini-api/docs/pricing

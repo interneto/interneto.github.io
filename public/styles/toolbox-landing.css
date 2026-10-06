@@ -67,6 +67,11 @@
   gap: 1rem;
 }
 
+/* Few cards: keep them card-sized instead of stretching across the row. */
+.toolbox-grid--fill {
+  grid-template-columns: repeat(auto-fill, minmax(13.75rem, 1fr));
+}
+
 .toolbox-platform-filter {
   display: flex;
   flex-wrap: wrap;
