@@ -26,7 +26,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 #### Smartphone OS
 - [Comparison of mobile operating systems - HandWiki](https://handwiki.org/wiki/Software%3AComparison_of_mobile_operating_systems?utm_source=chatgpt.com)
 - [HarmonyOS](https://www.harmonyos.com/en/)
-- [OpenHarmony](https://openharmony.cn/HomePage)
+- [OpenHarmony](https://openharmony.cn/)
 
 ##### Android ROMs
 - ⭐ **[ArrowOS](https://arrowos.net/)**

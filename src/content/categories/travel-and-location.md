@@ -629,7 +629,7 @@ description: Maps, weather, travel agencies, and flights
 - [Spot Azores - Azpres webcam](https://www.spotazores.com/)
 - [Webcamtaxi](https://www.webcamtaxi.com/en/)
 - [WindowSwap](https://www.window-swap.com/)
-- [WindowSwap - Watch windows around the world](https://www.window-swap.com/Window)
+- [WindowSwap - Watch windows around the world](https://www.window-swap.com/)
 - [Windy: Webcams](https://www.windy.com/-Webcams/webcams?0.000%2C0.000%2C3=)
 - [World Cams](https://worldcams.tv/)
 - [Yorescape](https://www.yorescape.com/)

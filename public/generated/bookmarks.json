@@ -421283,10 +421283,10 @@
   {
     "id": "321386269",
     "title": "Rokfin",
-    "url": "https://www.rokfin.com/discover/",
+    "url": "https://rokfin.com/",
     "description": "Discover content on Rokfin",
-    "domain": "www.rokfin.com",
-    "cover": "https://rdl.ink/render/https%3A%2F%2Fwww.rokfin.com%2Fdiscover%2F",
+    "domain": "rokfin.com",
+    "cover": "https://s3.amazonaws.com/public.rokfin.com/Rokfin.png",
     "favorite": true,
     "category": "online-services",
     "subcategory": [
@@ -421300,24 +421300,6 @@
     ],
     "sourceCodeUrls": [],
     "createdAt": "2021-10-14T18:52:32.791Z"
-  },
-  {
-    "id": "332292441",
-    "title": "Rokfin",
-    "url": "https://rokfin.com/",
-    "description": "Rokfin gives creators an easy way to earn more money through a subscription service. Media...",
-    "domain": "rokfin.com",
-    "cover": "https://s3.amazonaws.com/public.rokfin.com/Rokfin.png",
-    "favorite": false,
-    "category": "online-services",
-    "subcategory": [
-      "Online Tools",
-      "Online App",
-      "Crowdfunding Account"
-    ],
-    "tags": [],
-    "sourceCodeUrls": [],
-    "createdAt": "2021-11-14T04:21:22.694Z"
   },
   {
     "id": "580379963",
@@ -463199,7 +463181,7 @@
   {
     "id": "1519037164",
     "title": "OpenHarmony",
-    "url": "https://openharmony.cn/HomePage",
+    "url": "https://openharmony.cn/",
     "description": null,
     "domain": "openharmony.cn",
     "cover": "https://openharmony.cn/images/testing/oh_webiste/homepage/banner/1920-480%E4%B8%89%E5%A4%A7%E6%BF%80%E5%8A%B1.jpg",
@@ -508771,10 +508753,10 @@
   {
     "id": "1724447206",
     "title": "Ergogen",
-    "url": "https://ergogen.xyz/new",
-    "description": null,
+    "url": "https://ergogen.xyz/",
+    "description": "Ergogen Web GUI",
     "domain": "ergogen.xyz",
-    "cover": null,
+    "cover": "https://rdl.ink/render/https%3A%2F%2Fergogen.xyz%2F",
     "favorite": false,
     "category": "system-administration",
     "subcategory": [
@@ -541269,10 +541251,10 @@
   {
     "id": "975527765",
     "title": "WindowSwap - Watch windows around the world",
-    "url": "https://www.window-swap.com/Window",
-    "description": null,
+    "url": "https://www.window-swap.com/",
+    "description": "Open a new window somewhere in the world",
     "domain": "www.window-swap.com",
-    "cover": null,
+    "cover": "https://www.window-swap.com/TwitterCardImg.png",
     "favorite": false,
     "category": "travel-and-location",
     "subcategory": [

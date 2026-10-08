@@ -300,7 +300,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [VueScan](https://www.hamrick.com/)
 
 ### Keyboard Driver
-- [Ergogen](https://ergogen.xyz/new) / [🔗](https://github.com/ergogen)
+- [Ergogen](https://ergogen.xyz/) / [🔗](https://github.com/ergogen)
 - [KBD – Linux keyboard tools](https://kbd-project.org/)
 - [VIA](https://www.usevia.app/) / [🔗](https://github.com/the-via/app)
 - [Xpadder](https://xpadder.com/)
