@@ -149,6 +149,40 @@
         "Skill"
       ]
     },
+    "archify": {
+      "name": "Archify",
+      "type": "Plugin/Skill",
+      "category": "Development",
+      "agent_compat": {
+        "claude": true,
+        "codex": true,
+        "copilot": true,
+        "npx": true
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "npx skills add tt-a1i/archify -g"
+        },
+        {
+          "agent": "codex",
+          "cmd": "npx skills add tt-a1i/archify -g"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "npx skills add tt-a1i/archify -g"
+        },
+        {
+          "agent": "npx",
+          "cmd": "npx skills add tt-a1i/archify -g"
+        }
+      ],
+      "url": "https://github.com/tt-a1i/archify",
+      "tags": [
+        "Plugin",
+        "Skill"
+      ]
+    },
     "ast-grep": {
       "name": "Ast Grep",
       "type": "Plugin/Skill",
@@ -1289,6 +1323,29 @@
       "tags": [
         "Plugin",
         "Skill"
+      ]
+    },
+    "paperclip": {
+      "name": "Paperclip",
+      "type": "Platform",
+      "category": "Agent Framework",
+      "description": "Open-source agent orchestration platform — define a goal, hire a team of AI agents (Claude, Codex, Cursor, OpenClaw, or HTTP-based bots), and it runs the org chart, tasks, budgets and approvals. Not a Claude Code/Codex/Copilot plugin itself; it manages those as workers, so it's npx-only here.",
+      "agent_compat": {
+        "claude": false,
+        "codex": false,
+        "copilot": false,
+        "npx": true
+      },
+      "install": {
+        "agents": [
+          "npx"
+        ],
+        "cmd": "npx paperclipai@latest onboard --yes"
+      },
+      "url": "https://paperclip.ing/",
+      "tags": [
+        "Platform",
+        "Orchestration"
       ]
     },
     "pdf-viewer": {
