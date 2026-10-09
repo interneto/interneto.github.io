@@ -1,70 +1,15 @@
 ---
 import VPLayout from '../layouts/VPLayout.astro';
+import { TOOLBOX_SECTIONS } from '../data/toolbox-sections';
 
 const BASE = (import.meta as any).env.BASE_URL.replace(/\/?$/, '/');
 
 // Every card in the toolbox lives in one grid now — installers and the app
 // directory alike — filterable by platform. Each platform's compatibility
 // table isn't a separate card anymore; it's a view toggle inside that card's
-// own page (see PlatformViewToggle.astro).
-const toolboxCards = [
-  {
-    title: 'OS Installer',
-    description: 'Get and install desktop operating systems — Windows, macOS, Linux, and FreeBSD.',
-    href: `${BASE}toolbox/os/`,
-    icon: '💿',
-    platform: 'os',
-  },
-  {
-    title: 'Desktop Installer',
-    description: 'Install desktop apps with command generation, filters, and favorites.',
-    href: `${BASE}toolbox/desktop/`,
-    icon: '🖥️',
-    platform: 'desktop',
-  },
-  {
-    title: 'Mobile Installer',
-    description: 'Browse mobile packages for Android and iOS workflows.',
-    href: `${BASE}toolbox/mobile/`,
-    icon: '📱',
-    platform: 'mobile',
-  },
-  {
-    title: 'Library Installer',
-    description: 'Search software libraries by ecosystem and export selections.',
-    href: `${BASE}toolbox/lib/`,
-    icon: '📚',
-    platform: 'library',
-  },
-  {
-    title: 'Agent Extensions',
-    description: 'MCP servers, plugins, and skills that add functionality to Claude Code, Codex CLI, and other AI coding agents.',
-    href: `${BASE}toolbox/agent-extensions/`,
-    icon: '🤖',
-    platform: 'extensions',
-  },
-  {
-    title: 'Browser Extensions',
-    description: 'Pick browser add-ons for Firefox and Chromium.',
-    href: `${BASE}toolbox/browser/`,
-    icon: '🧩',
-    platform: 'extensions',
-  },
-  {
-    title: 'VS Code Extensions',
-    description: 'Curated editor extensions with import, export, and favorites.',
-    href: `${BASE}toolbox/vscode/`,
-    icon: '🛠️',
-    platform: 'extensions',
-  },
-  {
-    title: 'Web Directory',
-    description: 'Every app in one place, tagged by which platforms it also reaches and whether it\'s FOSS. No installer needed — opening the link runs the web app in your browser.',
-    href: `${BASE}toolbox/app-directory/`,
-    icon: '🌐',
-    platform: 'web',
-  },
-];
+// own page (see PlatformViewToggle.astro). Card list lives in
+// data/toolbox-sections.ts — shared with the homepage, which just counts them.
+const toolboxCards = TOOLBOX_SECTIONS;
 
 // Interactive pages that aren't installers.
 const toolCards = [

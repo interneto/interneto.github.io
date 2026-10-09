@@ -11,6 +11,7 @@ import libPkgs from "../../public/pkgs/lib-pkgs.json";
 import webDirectory from "../../public/pkgs/app-directory.json";
 import bookmarks from "../../public/generated/bookmarks.json";
 import { formatCount } from "../lib/format-count";
+import { TOOLBOX_SECTIONS } from "../data/toolbox-sections";
 
 const BASE = (import.meta as any).env.BASE_URL.replace(/\/?$/, "/");
 
@@ -46,7 +47,7 @@ const webCount = (webDirectory as any).entries.length;
 const numberFmt = new Intl.NumberFormat("en-US");
 const stats = [
   { value: categories.length, label: "Categories", sublabel: `${formatCount(bookmarks.length)} links` },
-  { value: packageCount + webCount, label: "Toolbox", sublabel: `${numberFmt.format(packageCount)} pkgs + ${numberFmt.format(webCount)} web apps` },
+  { value: TOOLBOX_SECTIONS.length, label: "Toolbox", sublabel: `${numberFmt.format(packageCount)} pkgs + ${numberFmt.format(webCount)} web apps` },
   { value: posts.length, label: "Essays & guides" },
 ];
 
@@ -71,7 +72,7 @@ const destinations: Destination[] = [
   {
     icon: "toolbox",
     title: "Toolbox",
-    meta: "6 installers",
+    meta: `${TOOLBOX_SECTIONS.length} sections`,
     details:
       "Build install commands for desktop apps, libraries, browser & VS Code extensions, plus OS guides and curated web apps.",
     link: `${BASE}toolbox/`,
