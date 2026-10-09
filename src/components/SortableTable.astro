@@ -27,14 +27,18 @@ const initialDir = initial?.direction ?? 'asc';
 
 // The icon goes in the column flagged `hasIcon`, else the first column.
 const iconKey = (table.columns.find((c) => c.hasIcon) ?? table.columns[0]).key;
+
+// Columns the user can sort by; the toolbar is only shown when there's a real choice.
+const sortableCols = table.columns.filter((c) => c.sortable);
 ---
 
 <div class="ai-table" data-ai-table={id}>
   <div class="ai-table-toolbar">
     <span class="ai-table-title">{table.title}</span>
+    {sortableCols.length > 1 && (
     <div class="ai-table-sort" role="group" aria-label="Sort table">
       <span class="ai-table-sort-label">Sort by</span>
-      {table.columns.filter((c) => c.sortable).map((c) => (
+      {sortableCols.map((c) => (
         <button
           type="button"
           class="ai-sort-btn"
@@ -46,6 +50,7 @@ const iconKey = (table.columns.find((c) => c.hasIcon) ?? table.columns[0]).key;
         </button>
       ))}
     </div>
+    )}
   </div>
 
   <div class="ai-table-scroll">

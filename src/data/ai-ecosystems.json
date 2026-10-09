@@ -35,17 +35,6 @@
         "bestFor": "Open-weight value & self-hosting"
       },
       {
-        "name": "Google",
-        "icon": "/img/software/webs/gemini.svg",
-        "client": "Gemini CLI · Antigravity",
-        "modelFamily": "Gemini",
-        "serving": "Google Cloud · TPUs",
-        "integration": "GitHub · IDE · Google Cloud · MCP",
-        "platforms": "Desktop · Web · Mobile",
-        "price": "$20 ~1× · $100 ~5× · $200 ~20×",
-        "bestFor": "Deep product integration (Search, Workspace)"
-      },
-      {
         "name": "GitHub",
         "icon": "/img/assets/gen-ai-tools/github-copilot.svg",
         "client": "Copilot · Agent",
@@ -57,15 +46,15 @@
         "bestFor": "IDE-native workflow"
       },
       {
-        "name": "OpenAI",
-        "icon": "/img/assets/gen-ai-tools/openai.svg",
-        "client": "Codex · Cloud GPT",
-        "modelFamily": "GPT",
-        "serving": "Azure · OpenAI cloud",
-        "integration": "GitHub · IDE · Cloud · MCP",
+        "name": "Google",
+        "icon": "/img/software/webs/gemini.svg",
+        "client": "Gemini CLI · Antigravity",
+        "modelFamily": "Gemini",
+        "serving": "Google Cloud · TPUs",
+        "integration": "GitHub · IDE · Google Cloud · MCP",
         "platforms": "Desktop · Web · Mobile",
-        "price": "$20 ~1× · $200 ~10×",
-        "bestFor": "Breadth of features & polish"
+        "price": "$20 ~1× · $100 ~5× · $200 ~20×",
+        "bestFor": "Deep product integration (Search, Workspace)"
       },
       {
         "name": "Open Autonomous",
@@ -88,6 +77,17 @@
         "platforms": "Desktop · Web",
         "price": "Free runtime · OpenCode Zen pay-as-you-go · Go $10 · API / local",
         "bestFor": "Self-hosted flexibility & cost control"
+      },
+      {
+        "name": "OpenAI",
+        "icon": "/img/assets/gen-ai-tools/openai.svg",
+        "client": "Codex · Cloud GPT",
+        "modelFamily": "GPT",
+        "serving": "Azure · OpenAI cloud",
+        "integration": "GitHub · IDE · Cloud · MCP",
+        "platforms": "Desktop · Web · Mobile",
+        "price": "$20 ~1× · $200 ~10×",
+        "bestFor": "Breadth of features & polish"
       }
     ]
   },
