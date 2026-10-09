@@ -9,7 +9,7 @@ description: Banking, cryptocurrency, and financial tracking
 
 - [brokeronline](https://www.brokeronline.es/)
 - [IPIP](https://whois.ipip.net/)
-- [TaxDown: Tu Declaración de la Renta, Bien Hecha](https://www.taxdown.es/)
+- [TaxDown](https://www.taxdown.es/) — Tu Declaración de la Renta, Bien Hecha
 - [X-Trader](https://www.x-trader.net/)
 
 ## Broker Firms
@@ -40,7 +40,7 @@ description: Banking, cryptocurrency, and financial tracking
 - [CryptoNWO](https://cryptonwo.io/)
 - [Dogecoin.com](https://dogecoin.com/)
 - [Dogecoin.info](https://dogechain.info/)
-- [Ethereum](https://ethereum.org/) / [🔗](https://github.com/ethereum/ethereum-org-website)
+- [Ethereum](https://ethereum.org/) / <a href="https://github.com/ethereum/ethereum-org-website"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [Ethereum Classic](https://ethereumclassic.org/)
 - [Firo.org](https://firo.org/)
 - [FreshCoins](https://freshcoins.io/)
@@ -49,7 +49,7 @@ description: Banking, cryptocurrency, and financial tracking
 - [Hedera Hashgraph](https://hedera.com/)
 - [List of cryptocurrencies](https://en.wikipedia.org/wiki/List_of_cryptocurrencies)
 - [LiteCoin](https://litecoin.com/en)
-- [Monero - secure, private, untraceable](https://www.getmonero.org/)
+- [Monero](https://www.getmonero.org/) — secure, private, untraceable
 - [Namecoin](https://www.namecoin.org/)
 - [Nano](https://nano.org/)
 - [Nestegg Coin](https://www.nesteggcoin.com/)
@@ -63,11 +63,11 @@ description: Banking, cryptocurrency, and financial tracking
 - [Tether](https://tether.to/)
 - [Theta Token](https://www.thetatoken.org/)
 - [Vertcoin](https://vertcoin.org/)
-- [Worldcoin - For every human](https://worldcoin.org/)
-- [Wownero - Putting the fun in fungibility.](https://wownero.org/)
+- [Worldcoin](https://worldcoin.org/) — For every human
+- [Wownero](https://wownero.org/) — Putting the fun in fungibility.
 - [Xe](https://www.xe.com/)
 - [Zcash](https://z.cash/)
-- [zkSync - Scaling the Ethos and technology of Ethereum](https://zksync.io/)
+- [zkSync](https://zksync.io/) — Scaling the Ethos and technology of Ethereum
 
 #### Bitcoin
 - [Bitcoin Exchange](https://exchange.bitcoin.com/)
@@ -84,7 +84,7 @@ description: Banking, cryptocurrency, and financial tracking
 - [Advanced Cash](https://advcash.gi/en/)
 - [Banxa](https://banxa.com/)
 - [Binance Voptions](https://voptions.binance.com/en)
-- [Bisq - Crypto exchange](https://bisq.network/)
+- [Bisq](https://bisq.network/) — Crypto exchange
 - [Bit2me](https://bit2me.com/)
 - [Bitfinex](https://bitfinex.com/)
 - [Bitpanda](https://www.bitpanda.com/en#)
@@ -108,27 +108,27 @@ description: Banking, cryptocurrency, and financial tracking
 - [Dunite](https://duniter.org/)
 - [ExchangeRates.Pro](https://exchangerates.pro/)
 - [EXMO](https://exmo.com/en)
-- [FixedFloat | Instant cryptocurrency exchange](https://ff.io/)
+- [FixedFloat](https://ff.io/) — Instant cryptocurrency exchange
 - [FTX Cryptocurrency](https://ftx.com/)
 - [Gate.io](https://gate.io/)
 - [Gemini.com](https://gemini.com/eu)
 - [Himalaya Exchange](https://himalaya.exchange/)
 - [Hodl Hodl](https://hodlhodl.com/)
 - [Invest Voyager](https://investvoyager.com/)
-- [Kraken | The crypto platform for smarter investing](https://www.kraken.com/)
+- [Kraken](https://www.kraken.com/) — The crypto platform for smarter investing
 - [Kriptomat.io](https://kriptomat.io/)
 - [KuCoin](https://kucoin.com/)
-- [KYCnot.me - Find KYC-free Services](https://kycnot.me/)
+- [KYCnot.me](https://kycnot.me/) — Find KYC-free Services
 - [Litecoin](https://litecoin.org/)
 - [LocalCryptos](https://localcryptos.com/)
 - [LocalMonero](https://localmonero.co/)
 - [MoonPay](https://www.moonpay.com/)
-- [Mt Pelerin - Buy, Swap & Cash Out Cryptocurrencies](https://app.mtpelerin.com/)
+- [Mt Pelerin](https://app.mtpelerin.com/) — Buy, Swap & Cash Out Cryptocurrencies
 - [Numio.one](https://www.numio.one/)
 - [Paxful](https://paxful.com/)
 - [Pionex](https://pionex.com/en-US)
 - [Quickswap.finance](https://www.quickswap.org/#/swap)
-- [RetoSwap - Buy & Sell Monero](https://retoswap.com/)
+- [RetoSwap](https://retoswap.com/) — Buy & Sell Monero
 - [Robinhood](https://robinhood.com/us/en)
 - [Secret Energy](https://secretenergy.com/home/)
 - [Shakepay](https://shakepay.com/)
@@ -137,7 +137,7 @@ description: Banking, cryptocurrency, and financial tracking
 - [SimpleSwap](https://simpleswap.io/)
 - [Simplex](https://www.simplex.com/)
 - [Stellar](https://stellar.org/)
-- [Uniswap Interface](https://app.uniswap.org/) / [🔗](https://github.com/Uniswap)
+- [Uniswap Interface](https://app.uniswap.org/) / <a href="https://github.com/Uniswap"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [Unocoin](https://www.unocoin.com/in)
 - [UnstoppableSwap.net](https://unstoppableswap.net/)
 - [Verge Currency](https://vergecurrency.com/)
@@ -149,7 +149,7 @@ description: Banking, cryptocurrency, and financial tracking
 
 ### Cryptocurrency Explorer
 - [| Be early to the future of finance](https://www.blockchain.com/en)
-- [₿ag — Bitcoin Portfolio Monitor](https://bitbag.app/) / [🔗](https://github.com/UXAVIA/bag)
+- [₿ag](https://bitbag.app/) / <a href="https://github.com/UXAVIA/bag"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Bitcoin Portfolio Monitor
 - [Arbitrum One (ETH) Blockchain Explorer](https://arbiscan.io/)
 - [Base (ETH) Blockchain Explorer](https://basescan.org/)
 - [Bitcoin explorer](https://www.bitaps.com/)
@@ -189,27 +189,27 @@ description: Banking, cryptocurrency, and financial tracking
 - [Limitless VIP](https://tittiecoin.com/)
 - [Litecoin Explorer](https://chainz.cryptoid.info/ltc/)
 - [Live Coin Watch](https://www.livecoinwatch.com/)
-- [mempool - Bitcoin Explorer](https://mempool.space/) / [🔗](https://github.com/mempool)
+- [mempool](https://mempool.space/) / <a href="https://github.com/mempool"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Bitcoin Explorer
 - [Monedas](https://www.monedas.com/)
 - [NanoLooker](https://nanolooker.com/)
 - [NEO Tracker](https://neotracker.io/)
 - [Newdex](https://newdex.io/)
 - [Nomics](https://nomics.com/)
 - [OEC.world](https://oec.world/)
-- [OKLink | The Best Multi-crypto Blockchain Explorer & Search Engine](https://www.oklink.com/)
+- [OKLink](https://www.oklink.com/) — The Best Multi-crypto Blockchain Explorer & Search Engine
 - [Omni Explorer](https://www.omniexplorer.info/)
 - [PancakeSwap](https://pancakeswap.finance/)
 - [Polygon Explorer](https://polygonscan.com/)
 - [Prediction Market](https://prediqt.com/)
 - [Ramp](https://ramp.network/)
 - [ShapeShift](https://shapeshift.com/)
-- [Simulation — Veritasium](https://www.veritasium.com/simulation1)
-- [Simulation2 — Veritasium](https://www.veritasium.com/simulation2)
+- [Simulation](https://www.veritasium.com/simulation1) — Veritasium
+- [Simulation2](https://www.veritasium.com/simulation2) — Veritasium
 - [Solanalysis](https://solanalysis.com/)
 - [Swarm Intellect](https://swarmintellect.com/)
-- [TONScan — a universal browser for the TON blockchain](https://tonscan.org/)
+- [TONScan](https://tonscan.org/) — a universal browser for the TON blockchain
 - [Tradeogre](https://tradeogre.com/markets)
-- [Transaction: 0x7cd4beb6b709ea63a014d18caea3b40683971f109ac809fb926ddd9525ccdcd4 | Blockchain.com](https://www.blockchain.com/explorer/transactions/eth/0x7cd4beb6b709ea63a014d18caea3b40683971f109ac809fb926ddd9525ccdcd4)
+- [Transaction](https://www.blockchain.com/explorer/transactions/eth/0x7cd4beb6b709ea63a014d18caea3b40683971f109ac809fb926ddd9525ccdcd4) — 0x7cd4beb6b709ea63a014d18caea3b40683971f109ac809fb926ddd9525ccdcd4 | Blockchain.com
 - [Uniswap](https://info.uniswap.org/home)
 - [Uphold](https://uphold.com/)
 - [VergeExplorer](https://verge-blockchain.info/)
@@ -219,7 +219,7 @@ description: Banking, cryptocurrency, and financial tracking
 
 #### Filecoin
 - [Filecoin](https://filecoin.io/)
-- [Filfox - Filecoin explorer](https://filfox.info/en)
+- [Filfox](https://filfox.info/en) — Filecoin explorer
 - [Filscan--Filecoin Explorer](https://filscan.io/#/tipset/chain)
 - [Filscout -Filecoin Explorer](https://www.filscout.com/en)
 - [Spacegap](https://spacegap.github.io/#/)
@@ -247,17 +247,17 @@ description: Banking, cryptocurrency, and financial tracking
 - [BSC Station (BSCS)](https://bscstation.org/)
 - [Cardano.org](https://cardano.org/)
 - [CertiK Blockchain](https://www.certik.com/)
-- [ConsenSys - Ethereum Solutions](https://consensys.net/)
+- [ConsenSys](https://consensys.net/) — Ethereum Solutions
 - [DeFi Yield Protocol](https://dyp.finance/)
 - [Dream Kollab](https://dreamkollab.com/)
 - [Equilibrium](https://equilibrium.io/en)
 - [FalconSwap](https://falconswap.com/)
 - [Hive](https://hive.io/)
-- [Hyperledger - The Open Global Ecosystem for Enterprise Blockchain](https://www.hyperledger.org/)
+- [Hyperledger](https://www.hyperledger.org/) — The Open Global Ecosystem for Enterprise Blockchain
 - [Hypersign](https://hypersign.id/)
 - [INBlockchain](https://www.inblockchain.com/)
 - [Indexed](https://indexed.finance/)
-- [Ink - DeFi unleashed by Kraken, built on the Superchain](https://inkonchain.com/)
+- [Ink](https://inkonchain.com/) — DeFi unleashed by Kraken, built on the Superchain
 - [Keyoxide](https://keyoxide.org/)
 - [Liquidity Finance](https://lido.fi/)
 - [Meteorite Finance](https://meteorite.network/)
@@ -273,79 +273,79 @@ description: Banking, cryptocurrency, and financial tracking
 - [Solana](https://solana.com/)
 - [Solana Explorer](https://explorer.solana.com/)
 - [SushiSwap](https://sushi.com/)
-- [tea.xyz - Testnet to fuel the open-source software revolution](https://app.tea.xyz/)
+- [tea.xyz](https://app.tea.xyz/) — Testnet to fuel the open-source software revolution
 - [Ubiq Smart](https://ubiqsmart.com/)
-- [Union](https://union.build/) / [🔗](https://github.com/unionlabs/union)
+- [Union](https://union.build/) / <a href="https://github.com/unionlabs/union"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [YAM Finance](https://yam.finance/)
 - [YFDAI.finance](https://yfdai.finance/)
 
 ### Cryptocurrency Wallet
-- ⭐ **[bitaddress.org](https://www.bitaddress.org/bitaddress.org-v3.3.0-SHA256-dec17c07685e1870960903d8f58090475b25af946fe95a734f88408cef4aa194.html)** / [🔗](https://github.com/pointbiz/bitaddress.org)
+- ⭐ **[bitaddress.org](https://www.bitaddress.org/bitaddress.org-v3.3.0-SHA256-dec17c07685e1870960903d8f58090475b25af946fe95a734f88408cef4aa194.html)** / <a href="https://github.com/pointbiz/bitaddress.org"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 
 #### Hot Wallet
-- ⭐ **[Cakewallet](https://cakewallet.com/)** / [🔗](https://github.com/cake-tech/cake_wallet)
-- ⭐ **[Electrum Bitcoin Wallet](https://electrum.org/#home)** / [🔗](https://github.com/spesmilo/electrum-web)
+- ⭐ **[Cakewallet](https://cakewallet.com/)** / <a href="https://github.com/cake-tech/cake_wallet"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- ⭐ **[Electrum Bitcoin Wallet](https://electrum.org/#home)** / <a href="https://github.com/spesmilo/electrum-web"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [Ambire Wallet](https://www.ambire.com/)
 - [AtomicWallet.io](https://atomicwallet.io/)
 - [Avana Wallet](https://www.avanawallet.com/)
 - [Bitnovo](https://bitnovo.com/)
 - [blockbank](https://blockbank.ai/)
-- [BlueWallet - Bitcoin wallet and Lightning wallet for iOS and Android](https://bluewallet.io/)
-- [Brume Wallet](https://wallet.brume.money/#/#/) / [🔗](https://github.com/brumewallet/wallet)
-- [Coin Wallet — self-custodial multicurrency crypto wallet | Coin Wallet](https://coin.space/)
+- [BlueWallet](https://bluewallet.io/) — Bitcoin wallet and Lightning wallet for iOS and Android
+- [Brume Wallet](https://wallet.brume.money/#/#/) / <a href="https://github.com/brumewallet/wallet"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Coin Wallet](https://coin.space/) — self-custodial multicurrency crypto wallet | Coin Wallet
 - [Coinbase Wallet](https://www.coinbase.com/wallet)
 - [Coinomi](https://www.coinomi.com/en/)
 - [DEXTools.io](https://www.dextools.io/)
 - [Edge](https://edge.app/)
-- [Exodus: the world's leading bitcoin and crypto wallet](https://www.exodus.com/)
+- [Exodus](https://www.exodus.com/) — the world's leading bitcoin and crypto wallet
 - [ezDefi](https://ezdefi.com/)
 - [FaucetPay.io](https://faucetpay.io/)
 - [Fortmatic](https://fortmatic.com/)
-- [Freewallet | Multi-currency Online Crypto Wallet for BTC, ETH, XMR and more](https://freewallet.org/)
+- [Freewallet](https://freewallet.org/) — Multi-currency Online Crypto Wallet for BTC, ETH, XMR and more
 - [Guarda Wallet](https://guarda.com/)
 - [Infinity Wallet](https://infinitywallet.io/)
 - [Jaxx.io](http://jaxx.io/)
-- [Liana - Bitcoin wallet](https://wizardsardine.com/liana/) / [🔗](https://github.com/wizardsardine/liana)
-- [LNbits - Free Open Source Bitcoin Lightning Wallet Accounts System](https://lnbits.com/)
+- [Liana](https://wizardsardine.com/liana/) / <a href="https://github.com/wizardsardine/liana"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Bitcoin wallet
+- [LNbits](https://lnbits.com/) — Free Open Source Bitcoin Lightning Wallet Accounts System
 - [Math Wallet](https://mathwallet.org/en-us/)
-- [MetaMask - The crypto wallet for Defi, Web3 Dapps and NFTs](https://metamask.io/) / [🔗](https://github.com/MetaMask)
+- [MetaMask](https://metamask.io/) / <a href="https://github.com/MetaMask"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — The crypto wallet for Defi, Web3 Dapps and NFTs
 - [Monero.com by Cake Wallet](https://monero.com/)
 - [Multis](https://multis.co/)
-- [Muun - Bitcoin Wallet](https://muun.com/)
+- [Muun](https://muun.com/) — Bitcoin Wallet
 - [Mycelium Bitcoin Wallet](https://wallet.mycelium.com/)
 - [MyEtherWallet](https://www.myetherwallet.com/)
 - [OnJuno](https://onjuno.com/)
 - [Opolo](https://www.opolo.io/)
 - [Portis](https://www.portis.io/)
 - [Rabby](https://rabby.io/)
-- [Rainbow | Fun, powerful, and secure crypto wallets](https://rainbow.me/)
+- [Rainbow](https://rainbow.me/) — Fun, powerful, and secure crypto wallets
 - [Samourai Wallet](https://samouraiwallet.com/)
 - [Scatter](https://www.get-scatter.com/)
 - [SimpleHold](https://simplehold.io/)
 - [Sparrow Bitcoin Wallet](https://sparrowwallet.com/)
-- [Stack Wallet | Open-source, non-custodial and privacy-preserving wallet for Monero, Bitcoin, Bitcoin Cash, Firo, Epic Cash, Namecoin, Wownero, Litecoin, and Dogecoin](https://stackwallet.com/)
+- [Stack Wallet](https://stackwallet.com/) — Open-source, non-custodial and privacy-preserving wallet for Monero, Bitcoin, Bitcoin Cash, Firo, Epic Cash, Namecoin, Wownero, Litecoin, and Dogecoin
 - [Tangany](https://tangany.com/)
 - [TokenPocket](https://www.tokenpocket.pro/)
 - [Torus Labs](https://tor.us/)
-- [TrustWallet - Best Crypto Wallet for Web3, NFTs and DeFi](https://trustwallet.com/)
-- [Unstoppable - Bitcoin & Crypto Wallet](https://unstoppable.money/) / [🔗](https://github.com/horizontalsystems/)
+- [TrustWallet](https://trustwallet.com/) — Best Crypto Wallet for Web3, NFTs and DeFi
+- [Unstoppable](https://unstoppable.money/) / <a href="https://github.com/horizontalsystems/"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Bitcoin & Crypto Wallet
 - [WalletConnect](https://walletconnect.org/)
-- [Wasabi Wallet](https://wasabiwallet.io/) / [🔗](https://github.com/WalletWasabi/WalletWasabi)
+- [Wasabi Wallet](https://wasabiwallet.io/) / <a href="https://github.com/WalletWasabi/WalletWasabi"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 
 #### Hardware Wallet
-- [BitBox | The easiest way to keep your coins safe](https://bitbox.swiss/)
+- [BitBox](https://bitbox.swiss/) — The easiest way to keep your coins safe
 - [BitLox](https://www.bitlox.com/)
-- [COLDCARD - Bitcoin-Only Hardware Wallet](https://coldcard.com/)
-- [Cryptosteel | The Mother of All Backups](https://cryptosteel.com/)
-- [ELLIPAL | Leader of Air-gapped Crypto Hardware Wallet](https://www.ellipal.com/)
-- [Keystone: Best Open Source Cold Wallet & Hardware Wallet](https://keyst.one/)
-- [Ledger | Hardware Wallet](https://www.ledger.com/) / [🔗](https://github.com/ledgerhq)
-- [OneKey: Hardware Wallet & Crypto DeFi Wallet | Crypto Security](https://onekey.so/)
+- [COLDCARD](https://coldcard.com/) — Bitcoin-Only Hardware Wallet
+- [Cryptosteel](https://cryptosteel.com/) — The Mother of All Backups
+- [ELLIPAL](https://www.ellipal.com/) — Leader of Air-gapped Crypto Hardware Wallet
+- [Keystone](https://keyst.one/) — Best Open Source Cold Wallet & Hardware Wallet
+- [Ledger](https://www.ledger.com/) / <a href="https://github.com/ledgerhq"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Hardware Wallet
+- [OneKey](https://onekey.so/) — Hardware Wallet & Crypto DeFi Wallet | Crypto Security
 - [OnlyKey](https://onlykey.io/)
 - [SafePal Crypto Hardware Wallet](https://safepal.com/)
-- [Tangem Wallet — The Secure Hardware & Crypto Wallet](https://tangem.com/en/) / [🔗](https://github.com/tangem)
-- [Trezor.io Hardware Wallet](https://trezor.io/) / [🔗](https://github.com/trezor)
-- [Yubico - Strong two factor authentication](https://www.yubico.com/)
+- [Tangem Wallet](https://tangem.com/en/) / <a href="https://github.com/tangem"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — The Secure Hardware & Crypto Wallet
+- [Trezor.io Hardware Wallet](https://trezor.io/) / <a href="https://github.com/trezor"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Yubico](https://www.yubico.com/) — Strong two factor authentication
 
 ### NFT
 - [AtomicHub.io](https://wax.atomichub.io/)
@@ -354,8 +354,8 @@ description: Banking, cryptocurrency, and financial tracking
 - [CryptoKitties](https://www.cryptokitties.co/)
 - [Exquisite Land](https://exquisite.land/)
 - [Foundation.app](https://foundation.app/)
-- [fxhash — Generative Art on the Blockchain](https://www.fxhash.xyz/)
-- [Hyperspace | Solana NFT Marketplace](https://hyperspace.xyz/)
+- [fxhash](https://www.fxhash.xyz/) — Generative Art on the Blockchain
+- [Hyperspace](https://hyperspace.xyz/) — Solana NFT Marketplace
 - [KnownOrigin.io](https://knownorigin.io/)
 - [Larva Labs](https://www.larvalabs.com/)
 - [Magic Eden](https://magiceden.io/)
@@ -379,10 +379,10 @@ description: Banking, cryptocurrency, and financial tracking
 - [SuperRare](https://superrare.com/)
 - [Tux.art](https://tux.art/#/)
 - [VR NFT](https://vr-nft.com/)
-- [ZORA - NFT Marketplace Protocol](https://zora.co/)
+- [ZORA](https://zora.co/) — NFT Marketplace Protocol
 
 ### Blockchain Account
-- [ARK.io | Blockchain Ecosystem](https://ark.io/)
+- [ARK.io](https://ark.io/) — Blockchain Ecosystem
 - [Avalon Block Explorer](https://blocks.oneloved.tube/#/)
 - [BitTube.app](https://bittube.app/)
 - [Blockchains](https://blockchains.com/)
@@ -390,10 +390,10 @@ description: Banking, cryptocurrency, and financial tracking
 - [Chainlink](https://chain.link/)
 - [Dune Dashboards](https://dune.com/browse/dashboards)
 - [Meson.Network](https://meson.network/)
-- [Oxen | Privacy made simple.](https://oxen.io/)
+- [Oxen](https://oxen.io/) — Privacy made simple.
 - [Steem](https://steem.com/)
 - [Terra money](https://www.terra.money/)
-- [TON - The Open Network](https://ton.org/)
+- [TON](https://ton.org/) — The Open Network
 - [VeChainThor](https://www.vechain.org/)
 - [Xoken.org](https://www.xoken.org/)
 
@@ -444,16 +444,16 @@ description: Banking, cryptocurrency, and financial tracking
 - [OANDA](https://www.oanda.com/eu-en)
 - [Pepperstone](https://pepperstone.com/es)
 - [Plus500](https://www.plus500.es/)
-- [Polymarket | The World's Largest Prediction Market™](https://polymarket.com/)
+- [Polymarket](https://polymarket.com/) — The World's Largest Prediction Market™
 - [ProRealTime](https://www.prorealtime.com/es)
 - [ProRealTime Trading](https://trading.prorealtime.com/es)
 - [Sierra Chart](https://www.sierrachart.com/)
 - [StockCharts](https://stockcharts.com/)
-- [Tastytrade - Options Trading, Futures & Stock Trading Brokerage](https://tastytrade.com/)
+- [Tastytrade](https://tastytrade.com/) — Options Trading, Futures & Stock Trading Brokerage
 - [TRADE](https://www.trade.com/es)
 - [TradeStation](https://www.tradestation.com/)
 - [Trading 212](https://www.trading212.com/en)
-- [Trive | Gateway to Global Markets](https://trive.com/)
+- [Trive](https://trive.com/) — Gateway to Global Markets
 - [Zonos](https://zonos.com/)
 
 ### Demo Trading
@@ -464,10 +464,10 @@ description: Banking, cryptocurrency, and financial tracking
 ## Visual Trading
 - ⭐ **[FINVIZ](https://finviz.com/)**
 - ⭐ **[TradingView](https://www.tradingview.com/)**
-- [CompaniesMarketCap - Companies ranked by Market Cap](https://companiesmarketcap.com/)
-- [Infobolsa - Bolsa](https://www.infobolsa.es/mercados/bolsa)
+- [CompaniesMarketCap](https://companiesmarketcap.com/) — Companies ranked by Market Cap
+- [Infobolsa](https://www.infobolsa.es/mercados/bolsa) — Bolsa
 - [IQ Option](https://eu.iqoption.com/en)
-- [Libremercado - bolsa](https://www.libremercado.com/mercados)
+- [Libremercado](https://www.libremercado.com/mercados) — bolsa
 - [Markets Insider](https://markets.businessinsider.com/)
 - [Mary Day Trader](https://www.marydaytrader.com/)
 - [Quantower Trading Platform](https://www.quantower.com/)

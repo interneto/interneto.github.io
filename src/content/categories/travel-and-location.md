@@ -7,14 +7,14 @@ description: Maps, weather, travel agencies, and flights
 
 **Total Bookmarks:** 802
 
-- [itinio - What to Do in Madrid & Barcelona | Best Local Routes & Food](https://www.itinio.app/)
-- [TREK](https://demo-nomad.pakulat.org/dashboard) / [🔗](https://github.com/mauriceboe/TREK)
+- [itinio](https://www.itinio.app/) — What to Do in Madrid & Barcelona | Best Local Routes & Food
+- [TREK](https://demo-nomad.pakulat.org/dashboard) / <a href="https://github.com/mauriceboe/TREK"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 
 ## Booking
-- ⭐ **[OpenTable - Restaurants and Restaurant Bookings](https://www.opentable.com/)**
+- ⭐ **[OpenTable](https://www.opentable.com/)** — Restaurants and Restaurant Bookings
 - [Booksy](https://booksy.com/en-us/)
 - [TheFork](https://www.thefork.com/)
-- [TheFork - Reserva en los mejores restaurantes de España](https://www.thefork.es/)
+- [TheFork](https://www.thefork.es/) — Reserva en los mejores restaurantes de España
 
 ## Distance-Routes
 - [Calcular ruta](https://www.calcularruta.com/)
@@ -26,106 +26,106 @@ description: Maps, weather, travel agencies, and flights
 ## GPS
 
 ### GPS App
-- [ALTLAS - GPS Trails](https://altlas-app.com/)
-- [Coyote - je roule en sécurité et j'évite les amendes](https://www.moncoyote.com/)
+- [ALTLAS](https://altlas-app.com/) — GPS Trails
+- [Coyote](https://www.moncoyote.com/) — je roule en sécurité et j'évite les amendes
 - [Family Locator Locategy](https://www.locategy.com/)
-- [Gaia GPS - Hiking Trail Maps, Ski Touring, 4x4 Offroad App](https://www.gaiagps.com/)
+- [Gaia GPS](https://www.gaiagps.com/) — Hiking Trail Maps, Ski Touring, 4x4 Offroad App
 - [Geocaching](https://www.geocaching.com/play)
 - [GPS Tools](https://gpstools.app/)
 - [GPS Tracker App](https://findmykids.org/en)
-- [GPS Tracking Software - Free and Open Source System - Traccar](https://www.traccar.org/)
-- [janbar/osmin: GPS Navigator On-Road/Off-Road for Android and Linux devices](https://github.com/janbar/osmin)
+- [GPS Tracking Software](https://www.traccar.org/) — Free and Open Source System - Traccar
+- [janbar/osmin](https://github.com/janbar/osmin) — GPS Navigator On-Road/Off-Road for Android and Linux devices
 - [JGPSTrackEdit](https://sourceforge.net/projects/jgpstrackedit/)
-- [Memory-Map Outdoor Navigation Apps – GPS Mapping App](https://memory-map.com/)
-- [MTL Explorer - Map Thousands of GPS Tracks](https://mindalyze-com.github.io/mtl-explorer/) / [🔗](https://github.com/mindalyze-com/mtl-explorer)
+- [Memory-Map Outdoor Navigation Apps](https://memory-map.com/) — GPS Mapping App
+- [MTL Explorer](https://mindalyze-com.github.io/mtl-explorer/) / <a href="https://github.com/mindalyze-com/mtl-explorer"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Map Thousands of GPS Tracks
 - [Sygic Sygic GPS Navigation](https://www.sygic.com/)
-- [TomTom app | TomTom](https://www.tomtom.com/en_gb/navigation/mobile-apps/tomtom-app/)
-- [TopoGrafix - GPS Software, Waypoints, and Maps for your Garmin, Magellan, or Lowrance GPS](https://www.topografix.com/)
-- [Trail Sense](https://kylecorry.com/Trail-Sense/) / [🔗](https://github.com/kylecorry31/Trail-Sense)
+- [TomTom app](https://www.tomtom.com/en_gb/navigation/mobile-apps/tomtom-app/) — TomTom
+- [TopoGrafix](https://www.topografix.com/) — GPS Software, Waypoints, and Maps for your Garmin, Magellan, or Lowrance GPS
+- [Trail Sense](https://kylecorry.com/Trail-Sense/) / <a href="https://github.com/kylecorry31/Trail-Sense"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 
 ### GPX Viewer
-- ⭐ **[GPX viewer and recorder - Free download and install on Windows | Microsoft Store](https://apps.microsoft.com/detail/9nblggh4w2z7?hl=en-us&gl=US)**
-- [fit file repair tool - Home](https://www.fitfilerepairtool.info/)
+- ⭐ **[GPX viewer and recorder](https://apps.microsoft.com/detail/9nblggh4w2z7?hl=en-us&gl=US)** — Free download and install on Windows | Microsoft Store
+- [fit file repair tool](https://www.fitfilerepairtool.info/) — Home
 - [GPS Visualizer](https://www.gpsvisualizer.com/)
-- [GPX File Viewer & Sharer | The Best Free Online GPX File Viewer and Sharer](https://www.viewgpx.com/)
+- [GPX File Viewer & Sharer](https://www.viewgpx.com/) — The Best Free Online GPX File Viewer and Sharer
 - [GPX Viewer](https://gpxviewer.com/)
 - [GPX Viewer PRO](https://vecturagames.com/gpxviewerpro/)
-- [gpx.studio — the online GPX file editor](https://gpx.studio/)
-- [GPXSee - GPS log file viewer and analyzer](https://www.gpxsee.org/)
+- [gpx.studio](https://gpx.studio/) — the online GPX file editor
+- [GPXSee](https://www.gpxsee.org/) — GPS log file viewer and analyzer
 - [MyGPSFiles](https://www.mygpsfiles.com/app/)
 
 ### Geolocalization
 - [GeoGuessr AI](https://nirvan66.github.io/geoguessr.html)
 - [geolocal/StreetCLIP · Hugging Face](https://huggingface.co/geolocal/StreetCLIP)
-- [GeoSpy | Interactive Map](https://app.geospy.ai/)
+- [GeoSpy](https://app.geospy.ai/) — Interactive Map
 - [LukasHaas/PIGEON · GitHub](https://github.com/LukasHaas/PIGEON)
 - [Mapillary](https://www.mapillary.com/)
 - [marcelomoreno26/geoguessr · Datasets at Hugging Face](https://huggingface.co/datasets/marcelomoreno26/geoguessr)
 - [shokiami/GeoKnowr · GitHub](https://github.com/shokiami/GeoKnowr)
 - [Stelath/geoguessr-ai · GitHub](https://github.com/Stelath/geoguessr-ai)
-- [VLMs as GeoGuessr Masters—Exceptional Performance, Hidden Biases, and Privacy Risks Mind the Photos You Post: AI Knows Where You Are!](https://arxiv.org/html/2502.11163v1?utm_source=chatgpt.com)
+- [VLMs as GeoGuessr Masters—Exceptional Performance, Hidden Biases, and Privacy Risks Mind the Photos You Post](https://arxiv.org/html/2502.11163v1?utm_source=chatgpt.com) — AI Knows Where You Are!
 
 ### GPS for Aviation
-- [AIRMATE – Préparation et suivi de vols](https://www.airmate.aero/)
-- [Alex Projects - Little Navmap](https://albar965.github.io/littlenavmap.html) / [🔗](https://github.com/albar965/littlenavmap)
-- [AvPlan EFB - Electronic Flight Bag](https://www.avplan-efb.com/)
-- [DroidEFB - Aviation App for Android Devices](https://droidefb.com/)
-- [ForeFlight - ForeFlight for European Pilots](https://foreflight.com/europe/)
+- [AIRMATE](https://www.airmate.aero/) — Préparation et suivi de vols
+- [Alex Projects](https://albar965.github.io/littlenavmap.html) / <a href="https://github.com/albar965/littlenavmap"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Little Navmap
+- [AvPlan EFB](https://www.avplan-efb.com/) — Electronic Flight Bag
+- [DroidEFB](https://droidefb.com/) — Aviation App for Android Devices
+- [ForeFlight](https://foreflight.com/europe/) — ForeFlight for European Pilots
 - [Gaggle Flight Recorder](https://flygaggle.com/)
 - [Garmin Pilot](https://www.garmin.com/en-US/aviation/garminpilot/overview/)
 - [Welcome to SkyDemon, VFR Flight Planning and GPS Moving Map](https://www.skydemon.aero/)
 
 ## Maps
-- [🛰️ OSIRIS — Open Source Palantir Alternative | Live Tracking + OSINT Tools](https://osirisai.live/?layers=maritime,satellites,cctv,cctv_previews,live_news,earthquakes,global_incidents,day_night,cables,sdk_sea,sdk_air,sdk_naval)
-- [Amap - 高德地图](https://wap.amap.com/?from=m&type=m)
-- [BTC Map](https://btcmap.org/) / [🔗](https://github.com/teambtcmap/btcmap.org)
-- [Cartes](https://cartes.app/#3/0/0) / [🔗](https://codeberg.org/cartes/web)
+- [🛰️ OSIRIS](https://osirisai.live/?layers=maritime,satellites,cctv,cctv_previews,live_news,earthquakes,global_incidents,day_night,cables,sdk_sea,sdk_air,sdk_naval) — Open Source Palantir Alternative | Live Tracking + OSINT Tools
+- [Amap](https://wap.amap.com/?from=m&type=m) — 高德地图
+- [BTC Map](https://btcmap.org/) / <a href="https://github.com/teambtcmap/btcmap.org"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Cartes](https://cartes.app/#3/0/0) / <a href="https://codeberg.org/cartes/web"><img class="source-host-icon" src="/img/source-hosts/codeberg.svg" alt="Codeberg" title="Codeberg" width="14" height="14" loading="lazy"></a>
 - [Every Door](https://every-door.app/)
 - [Geomarketing inAtlas](https://informa.inatlas.com/#/home)
 - [Map of Active Volcanoes and recent Earthquakes world-wide](https://earthquakes.volcanodiscovery.com/)
 - [Mapas y listas de QSO/SWL en tiempo real](https://www.dxmaps.com/spots/mapg.php?Lan=S)
 - [OGC GeoPackage](https://www.geopackage.org/)
-- [One Piece World Map - Interactive Map of Islands and Routes](https://www.op-maps.com/en)
+- [One Piece World Map](https://www.op-maps.com/en) — Interactive Map of Islands and Routes
 - [OpenStreetData](https://openstreetdata.org/)
 - [OurAirports](https://ourairports.com/)
 - [SeismicMonitor](https://www.iris.edu/app/seismic-monitor/map?lat=16.4657&lng=-67.5192&zoom=2)
-- [ShadeMap - Simulate sun shadows](https://shademap.app/@0,0,3z,1786552393340t,0b,0p,0m)
+- [ShadeMap](https://shademap.app/@0,0,3z,1786552393340t,0b,0p,0m) — Simulate sun shadows
 
 ### Geographic Maps
 - ⭐ **[GrafCan](https://visor.grafcan.es/)**
-- ⭐ **[NASA GISS: G.Projector — Map Projections](https://www.giss.nasa.gov/tools/gprojector/)**
-- ⭐ **[OpenStreetMap](https://www.openstreetmap.org/#map=3/0.00/0.00)** / [🔗](https://github.com/openstreetmap/openstreetmap-website)
+- ⭐ **[NASA GISS](https://www.giss.nasa.gov/tools/gprojector/)** — G.Projector — Map Projections
+- ⭐ **[OpenStreetMap](https://www.openstreetmap.org/#map=3/0.00/0.00)** / <a href="https://github.com/openstreetmap/openstreetmap-website"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [2GIS](https://2gis.ae/dubai)
 - [Amapint.com](https://www.amapint.com/en/)
 - [Ancient Earth globe](https://dinosaurpictures.org/ancient-earth#0)
 - [Atlas Digital de Tenerife](http://atlastenerife.es/portalweb)
 - [Baidu map](https://map.baidu.com/@0,0,1z)
 - [Calcmaps](https://www.calcmaps.com/)
-- [City Population - Population Statistics in Maps and Charts for Cities, Agglomerations and Administrative Divisions of all Countries of the World](https://www.citypopulation.de/)
+- [City Population](https://www.citypopulation.de/) — Population Statistics in Maps and Charts for Cities, Agglomerations and Administrative Divisions of all Countries of the World
 - [Copernicus map](https://scihub.copernicus.eu/dhus#/home)
 - [DeepZoom](http://deepzoom.com/)
-- [Ditu - Map](https://ditu.amap.com/)
+- [Ditu](https://ditu.amap.com/) — Map
 - [Electromaps](https://www.electromaps.com/mapa)
 - [Elevation Finder](https://www.freemaptools.com/elevation-finder.htm)
-- [Esri maps - satellites](https://maps.esri.com/rc/sat2/index.html)
+- [Esri maps](https://maps.esri.com/rc/sat2/index.html) — satellites
 - [FacilMap](https://facilmap.org/#13/28.4719/-16.2541/Mpnk)
 - [Global Forest Watch](https://www.globalforestwatch.org/map)
-- [Google Earth - Deep Seafloor](https://earth.google.com/web/@0,0,0a,22251752d,35y,0h,0t,0r/data=Ci4SLBIgYjczNzM1Y2E0Y2FiMTFlODhlMTU3MTM3ODRlMDYzMjMiCGxheWVyc18w)
+- [Google Earth](https://earth.google.com/web/@0,0,0a,22251752d,35y,0h,0t,0r/data=Ci4SLBIgYjczNzM1Y2E0Y2FiMTFlODhlMTU3MTM3ODRlMDYzMjMiCGxheWVyc18w) — Deep Seafloor
 - [Google Earth Timelaps](https://developers.google.com/earth-engine/timelapse/videos)
 - [Google Maps](https://www.google.com/maps/@0,0,3z)
 - [GPlates Portal](http://portal.gplates.org/)
 - [HERE WeGo](https://wego.here.com/?x=ep&map=0,0,3,normal)
-- [HHMI - Earth Viewer](https://media.hhmi.org/biointeractive/earthviewer_web/earthviewer.html)
+- [HHMI](https://media.hhmi.org/biointeractive/earthviewer_web/earthviewer.html) — Earth Viewer
 - [Incendios Forestales en España en Tiempo Real](https://xn--incendiosespaa-2nb.es/)
 - [KML, KMZ Viewer with Drive](https://kmlviewer.nsspot.net/)
 - [Kosmosnimki.ru](https://www.kosmosnimki.ru/)
-- [Last Quake - EMSC](https://m.emsc.eu/)
+- [Last Quake](https://m.emsc.eu/) — EMSC
 - [Leylines Map](https://maps.leylines.net/)
-- [Luminocity3d - Mapping Population Density Across the Globe](https://luminocity3d.org/WorldPopDen/#3/21.04/18.98)
+- [Luminocity3d](https://luminocity3d.org/WorldPopDen/#3/21.04/18.98) — Mapping Population Density Across the Globe
 - [Map Menu](https://www.map-menu.com/)
 - [Map of Earthquakes Today](https://earthquaketrack.com/)
-- [Map of Surf Spots - Surfline](https://www.surfline.com/surf-reports-forecasts-cams-map/@0,0,3z)
-- [Mapa Marítimo y Terrestre - mapama](https://sig.mapama.gob.es/dpmt/)
+- [Map of Surf Spots](https://www.surfline.com/surf-reports-forecasts-cams-map/@0,0,3z) — Surfline
+- [Mapa Marítimo y Terrestre](https://sig.mapama.gob.es/dpmt/) — mapama
 - [Mapcarta](https://mapcarta.com/)
 - [MapQuest](https://www.mapquest.com/)
 - [maps.vlasenko.net](https://maps.vlasenko.net/)
@@ -133,14 +133,14 @@ description: Maps, weather, travel agencies, and flights
 - [Mapy.com](https://mapy.com/en/zakladni?x=0&y=0&z=3)
 - [MoovitApp](https://moovitapp.com/madrid-21/poi/en)
 - [nakarte.me](https://nakarte.me/#m=8/49.73868/33.45886&l=O)
-- [NASAWorldWind/WebWorldWind: The NASA WorldWind Javascript SDK (WebWW) includes the library and examples for creating geo-browser web applications and for embedding a 3D globe in HTML5 web pages.](https://github.com/NASAWorldWind/WebWorldWind)
+- [NASAWorldWind/WebWorldWind](https://github.com/NASAWorldWind/WebWorldWind) — The NASA WorldWind Javascript SDK (WebWW) includes the library and examples for creating geo-browser web applications and for embedding a 3D globe in HTML5 web pages.
 - [Ocearch](https://www.ocearch.org/tracker?list=)
 - [OpenSeaMap](https://map.openseamap.org/)
 - [OpenStreetBrowser](https://openstreetbrowser.org/#lat=0&lon=0&zoom=3)
 - [OpenStreetMap Data](https://planet.openstreetmap.org/)
 - [ORS Maps](https://maps.openrouteservice.org/#/place/@8.533887863159181,49.459003372452855,6)
 - [OruxMaps](https://oruxmaps.com/cs/es)
-- [Outmap - 3D Map App for Backcountry Skiing, Hiking and Mountain Adventures](https://outmap.pro/)
+- [Outmap](https://outmap.pro/) — 3D Map App for Backcountry Skiing, Hiking and Mountain Adventures
 - [Protected Planet](https://www.protectedplanet.net/)
 - [QQ Maps](https://map.qq.com/)
 - [Qwant Maps](https://www.qwant.com/maps#map=1.05/0.0000000/0.0000000)
@@ -157,28 +157,28 @@ description: Maps, weather, travel agencies, and flights
 - [World Wisdom Map](https://worldwisdommap.com/discover#1/0/0)
 
 #### Network Maps
-- ⭐ **[MINETUR - Niveles de Exposición](https://geoportal.minetur.gob.es/VCTEL/vcne.do)**
-- [Acrylic WI-FI - Diseño, site survey, heatmaps y análisis](https://www.acrylicwifi.com/)
-- [Antenas control climático España - Google My Maps](https://www.google.com/maps/d/viewer?mid=1DN838HjZ_cfEgMukhas2zpjYy2QPPc3y&ll=36.09351654654777%2C-6.163810500000001&z=6)
+- ⭐ **[MINETUR](https://geoportal.minetur.gob.es/VCTEL/vcne.do)** — Niveles de Exposición
+- [Acrylic WI-FI](https://www.acrylicwifi.com/) — Diseño, site survey, heatmaps y análisis
+- [Antenas control climático España](https://www.google.com/maps/d/viewer?mid=1DN838HjZ_cfEgMukhas2zpjYy2QPPc3y&ll=36.09351654654777%2C-6.163810500000001&z=6) — Google My Maps
 - [Antenas GSM](https://antenasgsm.com/41.273588/-1.2/6/true,true,true,true,true)
-- [AntennaWeb - Result](https://www.antennaweb.org/results)
+- [AntennaWeb](https://www.antennaweb.org/results) — Result
 - [Canadian Cellular Towers Map](http://www.ertyu.org/steven_nikkel/cancellsites.html)
 - [Cellmapper](https://www.cellmapper.net/map)
-- [CNMC - Mapa de Cobertura Fibra y Red Móvil España](https://calidadtelecos.cnmc.gob.es/mapa-cobertura)
+- [CNMC](https://calidadtelecos.cnmc.gob.es/mapa-cobertura) — Mapa de Cobertura Fibra y Red Móvil España
 - [Cobertura móvil Movistar](https://www.movistar.es/particulares/coberturas/movil)
-- [Coverage antenna map - nPerf.com](https://www.nperf.com/en/map/US/-/-/signal/?ll=47.93335932610921&lg=-123.45000000000002&zoom=3)
+- [Coverage antenna map](https://www.nperf.com/en/map/US/-/-/signal/?ll=47.93335932610921&lg=-123.45000000000002&zoom=3) — nPerf.com
 - [electricityMap](https://www.electricitymap.org/map)
 - [Huracan Electric 3D Map](https://he.net/3d-map)
 - [Internet Infrastructure Map (2026)](https://map.kmcd.dev/?year=2026)
 - [Kaspersky Cyberthreat map](https://cybermap.kaspersky.com/)
-- [Mapa de Meshtastic](https://mapa.meshtastic.es/) / [🔗](https://github.com/liamcottle/meshtastic-map)
-- [MeshMap - Meshtastic Node Map](https://meshmap.net/)
+- [Mapa de Meshtastic](https://mapa.meshtastic.es/) / <a href="https://github.com/liamcottle/meshtastic-map"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [MeshMap](https://meshmap.net/) — Meshtastic Node Map
 - [OpenCelliD](https://opencellid.org/#zoom=16&lat=37.77889&lon=-122.41942)
 - [Opensignal](https://www.opensignal.com/)
 - [Red Eléctrica España Mapa](https://mapree.es/)
-- [REE - Demanda energética península](https://demanda.ree.es/visiona/peninsula/demandaau/total)
+- [REE](https://demanda.ree.es/visiona/peninsula/demandaau/total) — Demanda energética península
 - [Submarine Cable Map](https://www.submarinecablemap.com/)
-- [WiGLE: Wireless Network Mapping](https://wigle.net/)
+- [WiGLE](https://wigle.net/) — Wireless Network Mapping
 
 #### Satellite Maps
 - ⭐ **[Apple Maps](https://maps.apple.com/)**
@@ -191,38 +191,38 @@ description: Maps, weather, travel agencies, and flights
 - [BestFreeMaps](https://bestfreemaps.com/map.html?layer=satellite)
 - [Blue Marble Navigator](https://blue-marble.de/)
 - [Copernix](https://copernix.io/#?where=0,0,3&?query=&?map_type=hybrid)
-- [Descartes Labs: Maps](https://maps.descarteslabs.com/?layer=landsat-8_v3_rgb_2013-2017#lat=0.0000000&lng=0.0000000&zoom=3)
+- [Descartes Labs](https://maps.descarteslabs.com/?layer=landsat-8_v3_rgb_2013-2017#lat=0.0000000&lng=0.0000000&zoom=3) — Maps
 - [DuckDuckGo Maps](https://duckduckgo.com/?q=Antarctica&iaxm=maps)
 - [Earth 3D Map](https://earth3dmap.com/)
 - [Earth View Maps (G maps)](https://earthviewmaps.com/)
 - [epsg.io map](https://epsg.io/map#srs=4326&x=0.000000&y=0.000000&z=2&layer=satellite)
 - [Freeside GeoLocator](https://tools.freeside.sk/geolocator/geolocator.html)
 - [Google Timelapse](https://earthengine.google.com/timelapse/#v=28,-17,9,latLng)
-- [GPS Visualizer - Draw](https://www.gpsvisualizer.com/draw/?zoom=4&center=0,0)
+- [GPS Visualizer](https://www.gpsvisualizer.com/draw/?zoom=4&center=0,0) — Draw
 - [Great Circle Map](https://www.greatcirclemap.com/)
 - [Map To Globe](https://www.maptoglobe.com/)
-- [Mapbox - Satellite](https://www.mapbox.com/contribute/#/?q=&l=2.3515%2F31.1402%2F-9.8901)
+- [Mapbox](https://www.mapbox.com/contribute/#/?q=&l=2.3515%2F31.1402%2F-9.8901) — Satellite
 - [MapTiler](https://www.maptiler.com/maps/#hybrid//vector/0/0/0)
 - [New Earth Maps](https://www.newearthmaps.com/)
 - [Petal Maps](https://www.petalmaps.com/)
-- [RAMMB/CIRA SLIDER: Satellites](https://rammb-slider.cira.colostate.edu/?angle=0&et=0&follow_feature=0&follow_hide=0&hidden%5B0%5D=0&hide_controls=0&im=6&lat=0&maps%5Bborders%5D=silver&mhidden%5Bborders%5D=1&motion=loop&mouse_draw=0&opacity%5B0%5D=1&p%5B0%5D=geocolor&pause=20210325180000&s=rammb-slider&sat=meteosat-11&sec=full_disk&slider=-1&speed=130&st=0&ts=1&x=1556&y=1892&z=1)
+- [RAMMB/CIRA SLIDER](https://rammb-slider.cira.colostate.edu/?angle=0&et=0&follow_feature=0&follow_hide=0&hidden%5B0%5D=0&hide_controls=0&im=6&lat=0&maps%5Bborders%5D=silver&mhidden%5Bborders%5D=1&motion=loop&mouse_draw=0&opacity%5B0%5D=1&p%5B0%5D=geocolor&pause=20210325180000&s=rammb-slider&sat=meteosat-11&sec=full_disk&slider=-1&speed=130&st=0&ts=1&x=1556&y=1892&z=1) — Satellites
 - [Satellite Maps 3D Scene](https://satellitemaps.nesdis.noaa.gov/arcgis/apps/webappviewer3d/index.html?id=ced40646adeb41f1ad60786a23f03edf)
 - [Toolforge Geohack](https://geohack.toolforge.org/)
 - [Toolforge WikiMap](https://wikimap.toolforge.org/)
-- [Zoom Earth | Daily Map](https://zoom.earth/maps/daily/#view=0,0,4z/date=2022-05-06,pm/overlays=labels:off,lines:off)
+- [Zoom Earth](https://zoom.earth/maps/daily/#view=0,0,4z/date=2022-05-06,pm/overlays=labels:off,lines:off) — Daily Map
 
 #### History Maps
 - [Atlas of World History Animation](https://www.atlasofworldhistory.com/)
 - [Best of History Web Sites](http://besthistorysites.net/)
 - [Boston Rare Maps](https://bostonraremaps.com/)
 - [GeaCron](http://geacron.com/home-es)
-- [GeaCron - World History Maps & Timelines](http://geacron.com/home-en/?utm_source=chatgpt.com)
-- [Globe of History – Interactive Historical Events Map](https://www.globeofhistory.com/)
+- [GeaCron](http://geacron.com/home-en/?utm_source=chatgpt.com) — World History Maps & Timelines
+- [Globe of History](https://www.globeofhistory.com/) — Interactive Historical Events Map
 - [HistoAtlas](http://histoatlas.org/)
-- [Histography - Timeline of History](https://histography.io/)
+- [Histography](https://histography.io/) — Timeline of History
 - [Historical MapChart](https://historicalmapchart.net/)
 - [Leventhal Map](https://collections.leventhalmap.org/)
-- [Map Browser | Omniatlas](https://omniatlas.com/maps)
+- [Map Browser](https://omniatlas.com/maps) — Omniatlas
 - [Maps of Antiquity](https://mapsofantiquity.com/)
 - [Metrocosm](http://metrocosm.com/)
 - [Old Maps Online](https://www.oldmapsonline.org/)
@@ -230,37 +230,37 @@ description: Maps, weather, travel agencies, and flights
 - [The Timemap of World History](https://www.timemaps.com/)
 - [World ancestry](http://admixturemap.paintmychromosomes.com/)
 - [World Population](https://worldpopulationhistory.org/map/1/orthographic/371.25/16.549890349090447/-19.88019347036522)
-- [WTFisReal — Interactive History Map](https://www.wtfisreal.space/explore)
+- [WTFisReal](https://www.wtfisreal.space/explore) — Interactive History Map
 
 #### Traffic Maps
-- ⭐ **[Radarbot – Tu navegador GPS experto en radares](https://www.radarbot.com/)**
+- ⭐ **[Radarbot](https://www.radarbot.com/)** — Tu navegador GPS experto en radares
 - [Canarias Vial](https://canariasvial.es/)
-- [DGT - Mapa Etraffic](https://etraffic.dgt.es/etrafficWEB/)
+- [DGT](https://etraffic.dgt.es/etrafficWEB/) — Mapa Etraffic
 - [Mapa Balizas V16 España](https://mapabalizasv16.es/)
-- [MapCam.info: The most comprehensive database of road warnings](https://mapcam.info/)
-- [OpenCycleMap.org - the OpenStreetMap Cycle Map](https://www.opencyclemap.org/)
+- [MapCam.info](https://mapcam.info/) — The most comprehensive database of road warnings
+- [OpenCycleMap.org](https://www.opencyclemap.org/) — the OpenStreetMap Cycle Map
 - [SocialDrive](https://www.socialdrive.es/)
 - [Speed Camera Database of Speed Camera Locations and Speed Camera Detector Shop](https://www.speedcamerasuk.com/index.htm)
 - [Waze map](https://www.waze.com/)
 
 #### Esri Maps
-- [Esri - ArcGIS map](https://www.arcgis.com/home/webmap/viewer.html)
-- [ESri - Earth Observations](https://geoxc-demox.maps.arcgis.com/apps/instant/filtergallery/index.html?appid=2833a9ccc8e648bc9bb8383c00694acf)
-- [Esri - Flight Simulator](https://apl.esri.com/rc/simulator/index.html)
-- [ESri - Quake Map](https://apl.esri.com/rc/quake/index.html)
-- [ESri - Solar Eclipse Finder](https://apl.esri.com/rc/solar/index.html)
-- [ESri - Terrain Visualizations](https://apl.esri.com/jg/TerrainVisualizations/index.html)
+- [Esri](https://www.arcgis.com/home/webmap/viewer.html) — ArcGIS map
+- [ESri](https://geoxc-demox.maps.arcgis.com/apps/instant/filtergallery/index.html?appid=2833a9ccc8e648bc9bb8383c00694acf) — Earth Observations
+- [Esri](https://apl.esri.com/rc/simulator/index.html) — Flight Simulator
+- [ESri](https://apl.esri.com/rc/quake/index.html) — Quake Map
+- [ESri](https://apl.esri.com/rc/solar/index.html) — Solar Eclipse Finder
+- [ESri](https://apl.esri.com/jg/TerrainVisualizations/index.html) — Terrain Visualizations
 - [Esri Maps](https://maps.esri.com/portal/WebApps/index.html)
 
 #### Conflict Maps
-- ⭐ **[World Monitor - Global Situation with AI Insights](https://worldmonitor.app/)** / [🔗](https://github.com/koala73/worldmonitor)
+- ⭐ **[World Monitor](https://worldmonitor.app/)** / <a href="https://github.com/koala73/worldmonitor"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Global Situation with AI Insights
 - [ACLED](https://acleddata.com/)
-- [Bellingcat - Civilian Harm in Ukraine Timemap](https://ukraine.bellingcat.com/)
-- [liveuamap.com - Tracking Conflict Interactive Map](https://liveuamap.com/)
+- [Bellingcat](https://ukraine.bellingcat.com/) — Civilian Harm in Ukraine Timemap
+- [liveuamap.com](https://liveuamap.com/) — Tracking Conflict Interactive Map
 - [World Monitor](https://world-monitor.com/)
 
 #### Coordinates Map
-- [funny places - Google maps](https://www.google.com/maps/d/viewer?ll=45.408032000000034%2C-123.00780100000001&mid=1NWkytGA00Dc2dCWGFVQI4xBNsiI&z=8)
+- [funny places](https://www.google.com/maps/d/viewer?ll=45.408032000000034%2C-123.00780100000001&mid=1NWkytGA00Dc2dCWGFVQI4xBNsiI&z=8) — Google maps
 
 #### Find Street
 - [Callejero.club](https://callejero.club/)
@@ -286,58 +286,58 @@ description: Maps, weather, travel agencies, and flights
 - [BlueMap](https://map.ryhn.link/#summer:994:0:1489:1500:0:0:0:0:perspective)
 - [BlueMap](https://bluemap.bluecolored.de/)
 - [Caglow](https://www.caglow.com/)
-- [Caglow - Aciqra](http://aciqra.caglow.com/)
-- [Campy - Find all campsites and camperstops in Europe](https://campy.app/)
-- [Cesium: The Platform for 3D Geospatial](https://cesium.com/)
+- [Caglow](http://aciqra.caglow.com/) — Aciqra
+- [Campy](https://campy.app/) — Find all campsites and camperstops in Europe
+- [Cesium](https://cesium.com/) — The Platform for 3D Geospatial
 - [chrieke/prettymapp · GitHub](https://github.com/chrieke/prettymapp)
-- [Comaps - Hike, Bike, Drive Offline Navigate with Privacy](https://www.comaps.app/) / [🔗](https://codeberg.org/comaps/comaps)
+- [Comaps](https://www.comaps.app/) / <a href="https://codeberg.org/comaps/comaps"><img class="source-host-icon" src="/img/source-hosts/codeberg.svg" alt="Codeberg" title="Codeberg" width="14" height="14" loading="lazy"></a> — Hike, Bike, Drive Offline Navigate with Privacy
 - [deevroman/better-osm-org · GitHub](https://github.com/deevroman/better-osm-org)
-- [drajmarsh - 3D Sun-Path](https://drajmarsh.bitbucket.io/sunpath3d.html)
-- [drajmarsh - Earth/Sun](https://drajmarsh.bitbucket.io/earthsun.html)
-- [drajmarsh - Shading Box](https://drajmarsh.bitbucket.io/shading-box.html)
-- [drajmarsh - Shadow Analysis](https://drajmarsh.bitbucket.io/shadows3d.html)
+- [drajmarsh](https://drajmarsh.bitbucket.io/sunpath3d.html) — 3D Sun-Path
+- [drajmarsh](https://drajmarsh.bitbucket.io/earthsun.html) — Earth/Sun
+- [drajmarsh](https://drajmarsh.bitbucket.io/shading-box.html) — Shading Box
+- [drajmarsh](https://drajmarsh.bitbucket.io/shadows3d.html) — Shadow Analysis
 - [Fatiando a Terra](https://www.fatiando.org/)
 - [Flat Earth Pro](https://play.google.com/store/apps/details?id=com.OProjects.FLSPro)
 - [FOAM.space](https://foam.space/)
 - [Folium](https://python-visualization.github.io/folium/latest/)
-- [Garmin - BaseCamp](https://www.garmin.com/en-US/software/basecamp/)
+- [Garmin](https://www.garmin.com/en-US/software/basecamp/) — BaseCamp
 - [GeoDa on Github](https://geodacenter.github.io/)
-- [geojson.io | powered by Mapbox](https://geojson.io/#map=2/0/20)
+- [geojson.io](https://geojson.io/#map=2/0/20) — powered by Mapbox
 - [GeoMapApp](https://www.geomapapp.org/)
-- [GeoPandas](https://geopandas.org/en/stable/) / [🔗](https://github.com/geopandas/geopandas)
+- [GeoPandas](https://geopandas.org/en/stable/) / <a href="https://github.com/geopandas/geopandas"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [GeoServer](https://geoserver.org/)
 - [GeoViews](https://geoviews.org/)
 - [GNOME / gnome-maps · GitLab](https://gitlab.gnome.org/GNOME/gnome-maps/)
 - [Google Earth Desktop](https://earth.google.com/intl/earth/download/ge/agree.html)
-- [GraphHopper - Directions API with Route Optimization](https://www.graphhopper.com/)
+- [GraphHopper](https://www.graphhopper.com/) — Directions API with Route Optimization
 - [HERE Map Creator](https://mapcreator.here.com/?cid=www.here.com-footer&l=0.0000%2C0.0000%2C3%2Cnormal)
 - [JOSM Open Street Map](https://josm.openstreetmap.de/)
 - [KartaView](https://kartaview.org/landing)
-- [KDE Marable - find your way and explore the world](https://marble.kde.org/) / [🔗](https://invent.kde.org/education/marble)
+- [KDE Marable](https://marble.kde.org/) / [🔗](https://invent.kde.org/education/marble) — find your way and explore the world
 - [Luxcarta](https://www.luxcarta.com/)
 - [Magic Earth](https://www.magicearth.com/)
-- [Mapbox - Cartogram](https://apps.mapbox.com/cartogram#1.05/0/0)
-- [Mapbox | Maps, geocoding, and navigation APIs & SDKs](https://www.mapbox.com/)
-- [mapbox/tippecanoe: Build vector tilesets from large collections of GeoJSON features.](https://github.com/mapbox/tippecanoe)
+- [Mapbox](https://apps.mapbox.com/cartogram#1.05/0/0) — Cartogram
+- [Mapbox](https://www.mapbox.com/) — Maps, geocoding, and navigation APIs & SDKs
+- [mapbox/tippecanoe](https://github.com/mapbox/tippecanoe) — Build vector tilesets from large collections of GeoJSON features.
 - [MapHub](https://maphub.net/)
-- [MapLibre](https://maplibre.org/) / [🔗](https://github.com/maplibre/maplibre-gl-js)
+- [MapLibre](https://maplibre.org/) / <a href="https://github.com/maplibre/maplibre-gl-js"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [Mapline](https://mapline.com/)
 - [Mapme](https://mapme.com/)
 - [Maposaic](https://maposaic.com/)
 - [Mappin custom maps](https://map-it-up.netlify.app/)
-- [MapRoulette](https://maproulette.org/) / [🔗](https://github.com/osmlab/maproulette3)
+- [MapRoulette](https://maproulette.org/) / <a href="https://github.com/osmlab/maproulette3"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [maps.me](https://maps.me/)
 - [MapServer](https://mapserver.org/)
 - [mapshaper](https://mapshaper.org/)
 - [MapTiler](https://www.maptiler.com/)
-- [maptiler/tileserver-gl: Vector and raster maps with GL styles. Server side rendering by MapLibre GL Native. Map tile server for MapLibre GL JS, Android, iOS, Leaflet, OpenLayers, GIS via WMTS, etc.](https://github.com/maptiler/tileserver-gl)
+- [maptiler/tileserver-gl](https://github.com/maptiler/tileserver-gl) — Vector and raster maps with GL styles. Server side rendering by MapLibre GL Native. Map tile server for MapLibre GL JS, Android, iOS, Leaflet, OpenLayers, GIS via WMTS, etc.
 - [Mapton](https://mapton.org/)
 - [Maputnik](https://maputnik.github.io/)
 - [MapXplorer](https://mapxplorer.goldlabtechnology.com/)
 - [Mepo](http://mepo.milesalan.com/)
 - [Merkaartor OSM](https://github.com/openstreetmap/merkaartor)
 - [Metro Map Maker](https://metromapmaker.com/)
-- [Moovit: MaaS Solutions & the #1 Urban Mobility App](https://moovit.com/)
+- [Moovit](https://moovit.com/) — MaaS Solutions & the #1 Urban Mobility App
 - [Natural Earth](https://www.naturalearthdata.com/)
 - [Navionics](https://www.navionics.com/ita)
 - [Navit-car](https://www.navit-project.org/)
@@ -346,14 +346,14 @@ description: Maps, weather, travel agencies, and flights
 - [Openglobus Examples](https://sandbox.openglobus.org/examples/baseLayers)
 - [OpenLayers](https://openlayers.org/)
 - [Openmaptiles](https://openmaptiles.org/)
-- [OpenOrienteering/mapper: OpenOrienteering Mapper is a software for creating maps for the orienteering sport](https://github.com/OpenOrienteering/mapper)
+- [OpenOrienteering/mapper](https://github.com/OpenOrienteering/mapper) — OpenOrienteering Mapper is a software for creating maps for the orienteering sport
 - [Openspace](https://www.openspace.ai/)
 - [OruxMaps](https://www.oruxmaps.com/cs/en/)
 - [osm2pgsql](https://osm2pgsql.org/)
 - [OsmAnd](https://osmand.net/)
 - [PaintMaps](https://paintmaps.com/)
 - [PamPam · Put your world on the map](https://www.pampam.city/)
-- [proj4js/proj4js: JavaScript library to transform coordinates from one coordinate system to another, including datum transformations](https://github.com/proj4js/proj4js)
+- [proj4js/proj4js](https://github.com/proj4js/proj4js) — JavaScript library to transform coordinates from one coordinate system to another, including datum transformations
 - [QField](https://qfield.org/)
 - [rastapasta/mapscii · GitHub](https://github.com/rastapasta/mapscii?tab=readme-ov-file)
 - [Scratch My Map Create your own free online scratch map](https://scratchmymap.com/)
@@ -364,108 +364,108 @@ description: Maps, weather, travel agencies, and flights
 - [Static Map Maker](https://staticmapmaker.com/)
 - [StoryMap](https://storymap.knightlab.com/)
 - [StreetComplete](https://streetcomplete.app/)
-- [StreetComplete](https://streetcomplete.app/?lang=en) / [🔗](https://github.com/streetcomplete/streetcomplete)
+- [StreetComplete](https://streetcomplete.app/?lang=en) / <a href="https://github.com/streetcomplete/streetcomplete"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [TerraColor](https://www.terracolor.net/)
 - [terrain.party](https://terrain.party/)
 - [TerraMetrics](https://terrametrics.com/v2/)
-- [Thunderforest - Thoughtfully tailored maps for web & app developers](https://www.thunderforest.com/)
+- [Thunderforest](https://www.thunderforest.com/) — Thoughtfully tailored maps for web & app developers
 - [TransforMap](http://transformap.co/)
 - [Transportr app](https://transportr.app/)
 - [Travegeo](https://travegeo.com/)
 - [TravelMap](https://travelmap.net/)
 - [uMap](https://umap.openstreetmap.fr/en/)
 - [Viking GPS](https://sourceforge.net/projects/viking/)
-- [visgl/react-google-maps: React components and hooks for the Google Maps JavaScript API](https://github.com/visgl/react-google-maps)
-- [What3words - Google Play](https://play.google.com/store/apps/details?id=com.what3words.android)
+- [visgl/react-google-maps](https://github.com/visgl/react-google-maps) — React components and hooks for the Google Maps JavaScript API
+- [What3words](https://play.google.com/store/apps/details?id=com.what3words.android) — Google Play
 - [Wonderdraft](https://www.wonderdraft.net/)
 - [WorldSat](http://worldsat.ca/)
 
 ### Sky Maps
-- [Google Maps Space - Moon](https://www.google.com/maps/space/moon/@0,0,22963938m/data=!3m1!1e3)
+- [Google Maps Space](https://www.google.com/maps/space/moon/@0,0,22963938m/data=!3m1!1e3) — Moon
 - [Google Moon](https://www.google.com/moon)
 - [Google Sky](https://www.google.com/sky)
-- [IGN - Visualizador de Eclipses](https://visualizadores.ign.es/eclipses)
+- [IGN](https://visualizadores.ign.es/eclipses) — Visualizador de Eclipses
 - [Light pollution map](https://www.lightpollutionmap.info/#zoom=2.30&lat=0&lon=0)
 - [Moon 3D Map](http://www.moon3dmap.com/#bookmark)
 - [Sky-Map.org](http://www.sky-map.org/)
 
 #### Solar Lunar Map
-- ⭐ **[Shadowmap | Sun-Powered Insights. Anywhere on Earth.](https://shadowmap.org/)**
+- ⭐ **[Shadowmap](https://shadowmap.org/)** — Sun-Powered Insights. Anywhere on Earth.
 - [Photo Ephemeris](https://photoephemeris.com/)
 - [ShadeMap for 28°5'59"N 15°24'48"W](https://shademap.app/@28.09973,-15.41343,15z,1756770189885t,0b,0p,0m)
-- [Sun Surveyor: Your personal guide to the Sun and Moon - for iOS and Android](https://www.sunsurveyor.com/)
-- [SunCalc - sun position, sunlight phases, sunrise, sunset, dusk and dawn times calculator](https://suncalc.net/#/51.508,-0.125,2/2025.09.02/00:37)
-- [SunCalc - sunrise, sunset, shadow length, solar eclipse, sun position, sun phase, sun height, sun calculator, sun movement, map, sunlight phases, elevation, Photovoltaic system, Photovoltaic](https://www.suncalc.org/#/27.6936,-97.5195,3/2025.09.02/00:37/1/3)
+- [Sun Surveyor](https://www.sunsurveyor.com/) — Your personal guide to the Sun and Moon - for iOS and Android
+- [SunCalc](https://suncalc.net/#/51.508,-0.125,2/2025.09.02/00:37) — sun position, sunlight phases, sunrise, sunset, dusk and dawn times calculator
+- [SunCalc](https://www.suncalc.org/#/27.6936,-97.5195,3/2025.09.02/00:37/1/3) — sunrise, sunset, shadow length, solar eclipse, sun position, sun phase, sun height, sun calculator, sun movement, map, sunlight phases, elevation, Photovoltaic system, Photovoltaic
 
 ### GIS Software
-- ⭐ **[CARTO - The Agentic GIS Platform](https://carto.com/)**
-- ⭐ **[QGIS project!](https://qgis.org/)** / [🔗](https://github.com/qgis/QGIS)
-- [ArcGIS Pro | Esri](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview)
-- [Atlas: GIS & Maps in the Browser](https://atlas.co/)
-- [Cadcorp | An NEC Company](https://cadcorp.com/)
-- [contextily: context geo tiles in Python](https://contextily.readthedocs.io/en/latest/) / [🔗](https://github.com/geopandas/contextily)
-- [Felt - Cloud-Native GIS Software & Online Mapping Platform](https://felt.com/)
-- [GDAL — Translator library for raster and vector geospatial data formats](https://gdal.org/en/stable/) / [🔗](https://github.com/OSGeo/gdal)
-- [GeoLibre](https://geolibre.app/) / [🔗](https://github.com/opengeos/GeoLibre)
-- [GeoMesa](https://www.geomesa.org/) / [🔗](https://github.com/locationtech/geomesa)
-- [GeoSpy | Find a Photo's Location Instantly](https://geospy.ai/)
+- ⭐ **[CARTO](https://carto.com/)** — The Agentic GIS Platform
+- ⭐ **[QGIS project!](https://qgis.org/)** / <a href="https://github.com/qgis/QGIS"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [ArcGIS Pro](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview) — Esri
+- [Atlas](https://atlas.co/) — GIS & Maps in the Browser
+- [Cadcorp](https://cadcorp.com/) — An NEC Company
+- [contextily](https://contextily.readthedocs.io/en/latest/) / <a href="https://github.com/geopandas/contextily"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — context geo tiles in Python
+- [Felt](https://felt.com/) — Cloud-Native GIS Software & Online Mapping Platform
+- [GDAL](https://gdal.org/en/stable/) / <a href="https://github.com/OSGeo/gdal"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Translator library for raster and vector geospatial data formats
+- [GeoLibre](https://geolibre.app/) / <a href="https://github.com/opengeos/GeoLibre"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [GeoMesa](https://www.geomesa.org/) / <a href="https://github.com/locationtech/geomesa"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [GeoSpy](https://geospy.ai/) — Find a Photo's Location Instantly
 - [Global Mapper](https://www.bluemarblegeo.com/global-mapper/)
 - [GRASS GIS](https://grass.osgeo.org/)
-- [Magrit - Thematic cartography](https://magrit.cnrs.fr/en/) / [🔗](https://github.com/riatelab/magrit)
-- [Mapnik.org - the core of geospatial visualization & processing](https://mapnik.org/) / [🔗](https://github.com/mapnik/mapnik)
-- [Maptitude - Territory, Route, and Sales Mapping Software](https://www.caliper.com/maptitude/mapping-software.htm)
-- [OpenFreeMap](https://openfreemap.org/) / [🔗](https://github.com/hyperknot/openfreemap)
-- [pyproj - cartographic projections and coordinate transformations library](https://pyproj4.github.io/pyproj/stable/) / [🔗](https://github.com/pyproj4/pyproj)
-- [PySAL - Python Spatial Analysis Library](https://pysal.org/)
-- [rasterio/rasterio: Rasterio reads and writes geospatial raster datasets](https://github.com/rasterio/rasterio)
-- [SAGA - System for Automated Geoscientific Analyses](https://saga-gis.sourceforge.io/en/index.html)
-- [SAGA GIS Powerful GIS Mapping and Analysis Tool](https://sagagis.com/) / [🔗](https://sourceforge.net/projects/saga-gis/)
+- [Magrit](https://magrit.cnrs.fr/en/) / <a href="https://github.com/riatelab/magrit"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Thematic cartography
+- [Mapnik.org](https://mapnik.org/) / <a href="https://github.com/mapnik/mapnik"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — the core of geospatial visualization & processing
+- [Maptitude](https://www.caliper.com/maptitude/mapping-software.htm) — Territory, Route, and Sales Mapping Software
+- [OpenFreeMap](https://openfreemap.org/) / <a href="https://github.com/hyperknot/openfreemap"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [pyproj](https://pyproj4.github.io/pyproj/stable/) / <a href="https://github.com/pyproj4/pyproj"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — cartographic projections and coordinate transformations library
+- [PySAL](https://pysal.org/) — Python Spatial Analysis Library
+- [rasterio/rasterio](https://github.com/rasterio/rasterio) — Rasterio reads and writes geospatial raster datasets
+- [SAGA](https://saga-gis.sourceforge.io/en/index.html) — System for Automated Geoscientific Analyses
+- [SAGA GIS Powerful GIS Mapping and Analysis Tool](https://sagagis.com/) / <a href="https://sourceforge.net/projects/saga-gis/"><img class="source-host-icon" src="/img/source-hosts/sourceforge.svg" alt="SourceForge" title="SourceForge" width="14" height="14" loading="lazy"></a>
 
 ### Map Projections
 - [AuthaGraph map](http://www.authagraph.com/top/?lang=en)
-- [Azimuthal equidistant projection - Wikipedia](https://en.wikipedia.org/wiki/Azimuthal_equidistant_projection)
+- [Azimuthal equidistant projection](https://en.wikipedia.org/wiki/Azimuthal_equidistant_projection) — Wikipedia
 - [Bob Winds (FE)](https://bobwinds.com/)
-- [David Rumsey - Map collectiom](https://www.davidrumsey.com/)
-- [Directory of Map Projections Miller cylindric - Mapthematics](https://www.mapthematics.com/ProjectionsList.php)
-- [Esri - Map Distortion](https://apl.esri.com/jg/Distortion/index.html)
+- [David Rumsey](https://www.davidrumsey.com/) — Map collectiom
+- [Directory of Map Projections Miller cylindric](https://www.mapthematics.com/ProjectionsList.php) — Mapthematics
+- [Esri](https://apl.esri.com/jg/Distortion/index.html) — Map Distortion
 - [Flat Earth Maps](http://www.flat-earther.co.uk/flat-earth-maps/)
-- [Gleason map – Worldmapgenerator](https://www.worldmapgenerator.com/en/wizard/step/projection/?config=eyJpZCI6IkNVU1RPTV9XSVpBUkQiLCJsYXllcklkcyI6WyJDTElQX1BBVEgiLCJPQ0VBTiIsIkxBTkQiLCJDT0FTVExJTkUiLCJMQUtFUyIsIlNQSEVSRSIsIkJBQ0tHUk9VTkQiLCJMSU5FUyIsIkdSQVRJQ1VMRVMiLCJSSVZFUlMiLCJDT1VOVFJJRVMiXSwicHJvamVjdGlvbklkIjoiQVpJTVVUSEFMX0VRVUlESVNUQU5UIiwicmVuZGVyaW5nQWRhcHRlcklkIjoiQ0FOVkFTIiwibWFwVGhlbWVJZCI6IkNPTE9SRlVMXzQiLCJjZW50ZXIiOlswLDBdLCJyb3RhdGlvbiI6WzkwLC05MCwtOTBdLCJ6b29tIjoxLjAzOTU3OTQzNTE3NTI3ODUsIndpemFyZFN0ZXBQcm9ncmVzc0lkeCI6NSwidmVyc2lvbiI6IjEuMC4wIn0%3D)
+- [Gleason map](https://www.worldmapgenerator.com/en/wizard/step/projection/?config=eyJpZCI6IkNVU1RPTV9XSVpBUkQiLCJsYXllcklkcyI6WyJDTElQX1BBVEgiLCJPQ0VBTiIsIkxBTkQiLCJDT0FTVExJTkUiLCJMQUtFUyIsIlNQSEVSRSIsIkJBQ0tHUk9VTkQiLCJMSU5FUyIsIkdSQVRJQ1VMRVMiLCJSSVZFUlMiLCJDT1VOVFJJRVMiXSwicHJvamVjdGlvbklkIjoiQVpJTVVUSEFMX0VRVUlESVNUQU5UIiwicmVuZGVyaW5nQWRhcHRlcklkIjoiQ0FOVkFTIiwibWFwVGhlbWVJZCI6IkNPTE9SRlVMXzQiLCJjZW50ZXIiOlswLDBdLCJyb3RhdGlvbiI6WzkwLC05MCwtOTBdLCJ6b29tIjoxLjAzOTU3OTQzNTE3NTI3ODUsIndpemFyZFN0ZXBQcm9ncmVzc0lkeCI6NSwidmVyc2lvbiI6IjEuMC4wIn0%3D) — Worldmapgenerator
 - [List of map projections](https://en.wikipedia.org/wiki/List_of_map_projections)
 - [Map Projections](https://map-projections.net/)
-- [Martin Behaim - Erdapfel - Virtual Globe](https://www.ign.es/web/catalogo-cartoteca/resources/webglobes/behaim.html#)
-- [NASA GISS: G.Projector 3 — List of Map Projections](https://www.giss.nasa.gov/tools/gprojector/help/projections/)
-- [NASA Visible Earth - Map projection](https://visibleearth.nasa.gov/collection/1484/blue-marble?page=2)
-- [Projection Transitions - Observable](https://observablehq.com/@d3/projection-transitions)
+- [Martin Behaim](https://www.ign.es/web/catalogo-cartoteca/resources/webglobes/behaim.html#) — Erdapfel - Virtual Globe
+- [NASA GISS](https://www.giss.nasa.gov/tools/gprojector/help/projections/) — G.Projector 3 — List of Map Projections
+- [NASA Visible Earth](https://visibleearth.nasa.gov/collection/1484/blue-marble?page=2) — Map projection
+- [Projection Transitions](https://observablehq.com/@d3/projection-transitions) — Observable
 - [Rand McNally World Map for the Air Age](https://www.antiquemapsandglobes.com/Map/Antique/Rand-McNally-World-Map-for-the-Air-Age?M=10480)
 - [systemsplanet-zz/earth-ae · GitHub](https://github.com/systemsplanet-zz/earth-ae)
 - [World Map Creator](https://worldmapcreator.com/#!/home)
 - [Worldmapgenerator](https://www.worldmapgenerator.com/en/wizard/step/centering/)
-- [Worldmapgenerator – Persona Viewpoint](https://www.worldmapgenerator.com/en/persona/jack/step/1/)
+- [Worldmapgenerator](https://www.worldmapgenerator.com/en/persona/jack/step/1/) — Persona Viewpoint
 - [Worldmapper](https://worldmapper.org/)
 
 ### Map Viewer
 - [FoxtrotGPS](https://www.foxtrotgps.org/)
-- [Maproom/qmapshack: Consumer grade GIS software](https://github.com/Maproom/qmapshack)
+- [Maproom/qmapshack](https://github.com/Maproom/qmapshack) — Consumer grade GIS software
 - [Mobile Atlas Creator (MOBAC)](https://mobac.sourceforge.io/)
-- [PeakVisor - 3D Maps and Peaks Identification](https://peakvisor.com/)
-- [TRIP - Welcome](https://itskovacs-trip.netlify.app/) / [🔗](https://github.com/itskovacs/trip)
+- [PeakVisor](https://peakvisor.com/) — 3D Maps and Peaks Identification
+- [TRIP](https://itskovacs-trip.netlify.app/) / <a href="https://github.com/itskovacs/trip"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Welcome
 
 ## Meteo Weather
 - [ACANMET](https://www.acanmet.org/portal/pages/inicio.php)
 - [AccuWeather](https://www.accuweather.com/)
 - [AEMET](https://www.aemet.es/es/portada)
-- [AEMET - SINOBAS](https://sinobas.aemet.es/)
+- [AEMET](https://sinobas.aemet.es/) — SINOBAS
 - [AEMET Izaña](https://izana.aemet.es/)
 - [Allmetsat](https://en.allmetsat.com/)
 - [Apalmet](https://apalmet.es/)
-- [Blitzortung - Lighting & Thunderstorms](https://www.blitzortung.org/en)
+- [Blitzortung](https://www.blitzortung.org/en) — Lighting & Thunderstorms
 - [breezy-weather/breezy-weather · GitHub](https://github.com/breezy-weather/breezy-weather)
-- [Clear Outside v1.0 - International Weather Forecasts For Astronomers](https://clearoutside.com/forecast/50.7/-3.52)
+- [Clear Outside v1.0](https://clearoutside.com/forecast/50.7/-3.52) — International Weather Forecasts For Astronomers
 - [Climate-Data](https://en.climate-data.org/)
-- [Common Weather Website of Teide Observatory - Grafana](https://cww.ot-admin.net/v2/d/cww_ot/common-weather-website-of-teide-observatory?orgId=1&refresh=1m)
+- [Common Weather Website of Teide Observatory](https://cww.ot-admin.net/v2/d/cww_ot/common-weather-website-of-teide-observatory?orgId=1&refresh=1m) — Grafana
 - [Dark Sky](https://darksky.net/forecast/0,0/ca12)
 - [Deutscher Wetterdienst](https://www.dwd.de/DE/Home/home_node.html)
-- [ECMWF | Charts](https://apps.ecmwf.int/webapps/opencharts)
+- [ECMWF](https://apps.ecmwf.int/webapps/opencharts) — Charts
 - [El Tiempo](https://www.eltiempo.es/)
 - [Foreca](https://www.foreca.com/)
 - [Go Weather Forecast](https://goweatherforecast.com/en/current?lat=0.0000&lng=0.0000&search=)
@@ -488,22 +488,22 @@ description: Maps, weather, travel agencies, and flights
 - [Santgenis Meteo](https://santgenismeteo.org/pws)
 - [SAT24](https://en.sat24.com/en)
 - [SpaceWeatherLive](https://www.spaceweatherlive.com/)
-- [Teide Obervatory - Weather](http://cww.ot-admin.net/)
-- [Teide Observatory: Weather | IAC](https://www.iac.es/en/observatorios-de-canarias/teide-observatory/weather)
+- [Teide Obervatory](http://cww.ot-admin.net/) — Weather
+- [Teide Observatory](https://www.iac.es/en/observatorios-de-canarias/teide-observatory/weather) — Weather | IAC
 - [The Weather Network](https://www.theweathernetwork.com/en)
-- [TheWeather.com - Meteored](https://www.theweather.com/)
-- [Tiempo.com - Meteored](https://www.tiempo.com/)
+- [TheWeather.com](https://www.theweather.com/) — Meteored
+- [Tiempo.com](https://www.tiempo.com/) — Meteored
 - [TuTiempo.net](https://www.tutiempo.net/)
-- [UBIMET Group - Weather Matters](https://www.ubimet.com/)
+- [UBIMET Group](https://www.ubimet.com/) — Weather Matters
 - [US climate data](https://www.usclimatedata.com/)
 - [Ventusky](https://www.ventusky.com/)
 - [Weather](https://weather.com/)
 - [Weather and Climate](https://weather-and-climate.com/)
 - [Weather Forecast](https://goweatherforecast.com/es)
 - [Weather Location Codes](https://weather.codes/)
-- [Weather of Teide Observatory - Grafana](https://cww.ot-admin.net/v2/d/cww_ot/common-weather-website-of-teide-observatory?orgId=1)
+- [Weather of Teide Observatory](https://cww.ot-admin.net/v2/d/cww_ot/common-weather-website-of-teide-observatory?orgId=1) — Grafana
 - [Weather report](https://wttr.in/)
-- [Weather Spark - The Weather Year Round Anywhere on Earth](https://weatherspark.com/)
+- [Weather Spark](https://weatherspark.com/) — The Weather Year Round Anywhere on Earth
 - [Weather Underground](https://www.wunderground.com/)
 - [Weather.us](https://weather.us/)
 - [WeatherBug](https://www.weatherbug.com/)
@@ -511,36 +511,36 @@ description: Maps, weather, travel agencies, and flights
 - [Wetterzentrale.de](https://wetterzentrale.de/)
 - [Windfinder](https://www.windfinder.com/#3/0.0000/0.0000/spot)
 - [Windguru](https://www.windguru.cz/1)
-- [x-y.es - Datos meteorológicos](https://x-y.es/)
+- [x-y.es](https://x-y.es/) — Datos meteorológicos
 
 ### Weather Maps
-- ⭐ **[earth - a global map of wind, weather, and ocean conditions](https://earth-ae.github.io/#current/wind/isobaric/250hPa/azimuthal_equidistant=0.00,90.00,117)**
-- ⭐ **[Nullschool Earth - Weather](https://earth.nullschool.net/)**
+- ⭐ **[earth](https://earth-ae.github.io/#current/wind/isobaric/250hPa/azimuthal_equidistant=0.00,90.00,117)** — a global map of wind, weather, and ocean conditions
+- ⭐ **[Nullschool Earth](https://earth.nullschool.net/)** — Weather
 - ⭐ **[Windy](https://www.windy.com/?0.000,0.000,3)**
 - ⭐ **[Zoom Earth](https://zoom.earth/)**
-- [amit9838/mousam: Weather at a glance](https://github.com/amit9838/mousam)
+- [amit9838/mousam](https://github.com/amit9838/mousam) — Weather at a glance
 - [CMEMS MyOcean](https://cmems.lobelia.earth/data?center=0%2C2.28203&crs=epsg%3A4326&initial=1&t=1607299200000&view=viewer&z=0&zoom=11.09)
 - [Earthquakes Today](https://volcanodiscovery.com/earthquakes/today.html)
-- [Eumetnet.eu - OPERA](https://eumetnet.eu/wp-content/themes/aeron-child/observations-programme/current-activities/opera/database/OPERA_Database/index.html)
+- [Eumetnet.eu](https://eumetnet.eu/wp-content/themes/aeron-child/observations-programme/current-activities/opera/database/OPERA_Database/index.html) — OPERA
 - [Global Surface Water Explorer](https://global-surface-water.appspot.com/map)
 - [InciWeb](https://inciweb.nwcg.gov/)
-- [Meteogram - Weather Charts Generator with Interactive Map](https://meteograms.com/#/51.508,-0.125,2/48/)
+- [Meteogram](https://meteograms.com/#/51.508,-0.125,2/48/) — Weather Charts Generator with Interactive Map
 - [NASA Earth now](https://climate.nasa.gov/earth-now#/)
-- [NOAA Ocean Explorer: Gallery](https://oceanexplorer.noaa.gov/gallery/maps/maps.html)
+- [NOAA Ocean Explorer](https://oceanexplorer.noaa.gov/gallery/maps/maps.html) — Gallery
 - [PORTUS (Puertos del Estado)](https://portus.puertos.es/#/)
 - [Rain Alarm](https://www.rain-alarm.com/)
 - [Weather Maps](https://mapsm.com/weather-maps.html)
 - [Weather Radar map](https://weather.com/weather/radar/interactive/l/a09e351e2ec49a1935b57a35db9f8281fe5e03f5528ab17902fe33c9e4f3ead3)
 - [Wind Map](https://wind-map.gosur.com/)
 - [Windguru forecast maps](https://www.windguru.cz/map?lat=0&lon=0&zoom=3)
-- [Windy - Visibility](https://www.windy.com/-Visibility-visibility?visibility,28.472,-16.254,5)
+- [Windy](https://www.windy.com/-Visibility-visibility?visibility,28.472,-16.254,5) — Visibility
 - [WorldWind Explorer](https://worldwind.earth/explorer)
 
 ### Satellite Weathers
 - [EUMETSAT](https://www.eumetsat.int/)
 - [Himawari-8](https://himawari8.nict.go.jp/)
 - [Meteosat](https://www.meteosat.com/)
-- [nowCast - Best-in-Class 3D Real Time Lightning Detection](https://www.nowcast.de/)
+- [nowCast](https://www.nowcast.de/) — Best-in-Class 3D Real Time Lightning Detection
 - [WMO OSCAR](https://www.wmo-sat.info/oscar)
 
 ### University Weather
@@ -559,49 +559,49 @@ description: Maps, weather, travel agencies, and flights
 ### Sea Weather
 - [Surf Forecast](https://www.surf-forecast.com/)
 - [Tide Times and Tide Charts Worldwide](https://www.tide-forecast.com/)
-- [TIDES4FISHING | Tides times, tide table & solunar charts for fishing](https://tides4fishing.com/)
+- [TIDES4FISHING](https://tides4fishing.com/) — Tides times, tide table & solunar charts for fishing
 
 ## Places
-- [CityLegends | Street Culture App](https://www.citylegends.io/)
+- [CityLegends](https://www.citylegends.io/) — Street Culture App
 - [Mispicaderos](https://mispicaderos.com/)
 - [park4night](https://park4night.com/en)
 
 ## Route Planner
-- ⭐ **[AllTrails: Trail Guides & Maps for Hiking, Camping, and Running](https://www.alltrails.com/)**
-- ⭐ **[Wikiloc | Trails of the World](https://www.wikiloc.com/)**
+- ⭐ **[AllTrails](https://www.alltrails.com/)** — Trail Guides & Maps for Hiking, Camping, and Running
+- ⭐ **[Wikiloc](https://www.wikiloc.com/)** — Trails of the World
 - [Ayvri](https://ayvri.com/)
-- [BBBike.org - Your Cycle Route Planner](https://www.bbbike.org/)
+- [BBBike.org](https://www.bbbike.org/) — Your Cycle Route Planner
 - [bergfex](https://www.bergfex.com/)
 - [CamperRuteros](https://camperruteros.com/)
-- [Circuit Route Planner: The route planner helping you to save an hour a day](https://getcircuit.com/route-planner)
-- [Citymapper - The Ultimate Transport App](https://citymapper.com/)
+- [Circuit Route Planner](https://getcircuit.com/route-planner) — The route planner helping you to save an hour a day
+- [Citymapper](https://citymapper.com/) — The Ultimate Transport App
 - [Fatmap](https://fatmap.com/)
 - [Footpath Route Planner](https://footpathapp.com/)
 - [ItineraryBox](https://itinerarybox.es/)
-- [Komoot | Find, plan and share your adventures](https://www.komoot.com/)
-- [Locus Map - mobile outdoor navigation app](https://www.locusmap.app/)
+- [Komoot](https://www.komoot.com/) — Find, plan and share your adventures
+- [Locus Map](https://www.locusmap.app/) — mobile outdoor navigation app
 - [Naviki](https://www.naviki.org/en/naviki)
 - [Nomadtable](https://nomadtable.app/)
 - [Outdooractive](https://www.outdooractive.com/en)
 - [Outdooractive](https://www.outdooractive.com/mobile/en/)
-- [OwnTracks](https://owntracks.org/) / [🔗](https://github.com/owntracks)
+- [OwnTracks](https://owntracks.org/) / <a href="https://github.com/owntracks"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [Relief Maps](https://reliefmaps.io/)
 - [Relive](https://www.relive.com/)
 - [Ride with GPS](https://ridewithgps.com/)
 - [Rough Guides](https://www.roughguides.com/)
-- [RouteScout – Smarter Cycling Routes](https://routescout.tennisbowling.com/)
+- [RouteScout](https://routescout.tennisbowling.com/) — Smarter Cycling Routes
 - [Rutas Tenerife rural](https://www.rutasteneriferural.com/es)
 - [Rutaviva](https://rutaviva.com/)
-- [seanmorley15/AdventureLog: Self-hostable travel tracker and trip planner.](https://github.com/seanmorley15/AdventureLog)
-- [Tenerife On - Cabildo de Tenerife](https://www.tenerifeon.es/)
+- [seanmorley15/AdventureLog](https://github.com/seanmorley15/AdventureLog) — Self-hostable travel tracker and trip planner.
+- [Tenerife On](https://www.tenerifeon.es/) — Cabildo de Tenerife
 - [TenMas](https://tenmasmovil.es/)
 - [Thruhikes](https://thruhikes.net/)
 - [TouchTrails](https://www.touchtrails.com/)
-- [Trackbook - tool for your outdoors](https://trackbook.com/?lat=25.165173&lng=-27.158203&z=3.00&basemap=7)
-- [Travel Scan - Trip Planner - Apps on Google Play](https://play.google.com/store/apps/details?id=com.travelscan.app)
+- [Trackbook](https://trackbook.com/?lat=25.165173&lng=-27.158203&z=3.00&basemap=7) — tool for your outdoors
+- [Travel Scan](https://play.google.com/store/apps/details?id=com.travelscan.app) — Trip Planner - Apps on Google Play
 - [ViewRanger](https://www.viewranger.com/en-gb)
 - [wanderer](https://wanderer.to/)
-- [Wanderlog travel planner: free vacation planner and itinerary app](https://wanderlog.com/)
+- [Wanderlog travel planner](https://wanderlog.com/) — free vacation planner and itinerary app
 - [Wikirutas](https://www.wikirutas.es/)
 - [Zeo Route Planner](https://zeorouteplanner.com/)
 
@@ -609,28 +609,28 @@ description: Maps, weather, travel agencies, and flights
 
 ### Street Cam
 - [360Cities](https://www.360cities.net/)
-- [Canarias Life - Webcams en vivo de Islas Canarias](https://canariaslife.com/)
+- [Canarias Life](https://canariaslife.com/) — Webcams en vivo de Islas Canarias
 - [Canary Webcams](https://www.meteolaesperanza.es/webcamscanarias.htm)
 - [City Walks](https://citywalks.live/)
 - [EarthCam](https://www.earthcam.com/)
 - [El tiempo de un vistazo](http://www.eltiempodeunvistazo.com/)
 - [Fox Monitor](https://foxmonitor.com/)
-- [ibericam - Webcams y el tiempo en España](https://ibericam.com/)
+- [ibericam](https://ibericam.com/) — Webcams y el tiempo en España
 - [Insecam](http://www.insecam.org/)
 - [Instant Street View](https://www.instantstreetview.com/)
 - [Lanzarote Webcam](https://lanzarotewebcam.com/)
 - [Leonard Worlds](http://leonardsworlds.com/)
 - [Mapillary](https://www.mapillary.com/app?lat=20&lng=0&z=2)
 - [OpenStreetCam](https://www.openstreetcam.org/map/@0,0,2z)
-- [Portal NetMadeira - Notícias, Informações, Agenda e Webcams da Madeira](https://www.netmadeira.com/)
-- [Prádanos de Ojeda | Live camera](http://verpradanos.esmiweb.es/_movil/camara-en-directo.html)
+- [Portal NetMadeira](https://www.netmadeira.com/) — Notícias, Informações, Agenda e Webcams da Madeira
+- [Prádanos de Ojeda](http://verpradanos.esmiweb.es/_movil/camara-en-directo.html) — Live camera
 - [sky-live.tv](https://www.sky-live.tv/)
 - [SkylineWebcams](https://www.skylinewebcams.com/)
-- [Spot Azores - Azpres webcam](https://www.spotazores.com/)
+- [Spot Azores](https://www.spotazores.com/) — Azpres webcam
 - [Webcamtaxi](https://www.webcamtaxi.com/en/)
 - [WindowSwap](https://www.window-swap.com/)
-- [WindowSwap - Watch windows around the world](https://www.window-swap.com/)
-- [Windy: Webcams](https://www.windy.com/-Webcams/webcams?0.000%2C0.000%2C3=)
+- [WindowSwap](https://www.window-swap.com/) — Watch windows around the world
+- [Windy](https://www.windy.com/-Webcams/webcams?0.000%2C0.000%2C3=) — Webcams
 - [World Cams](https://worldcams.tv/)
 - [Yorescape](https://www.yorescape.com/)
 
@@ -665,20 +665,20 @@ description: Maps, weather, travel agencies, and flights
 - [Logitravel](https://www.logitravel.com/)
 - [Mobissimo](http://www.mobissimo.com/)
 - [Momondo](https://www.momondo.es/)
-- [Omio - Book, search & compare trains, buses, flights & ferries](https://www.omio.com/)
+- [Omio](https://www.omio.com/) — Book, search & compare trains, buses, flights & ferries
 - [OneTwoTrip](https://www.onetwotrip.com/es)
 - [Priceline.com](https://www.priceline.com/?vrid=69f64f9af6c207251ec16c90cf5de957)
 - [Rumbo](https://www.rumbo.es/vuelos)
 - [Skiplagged](https://skiplagged.com/)
 - [Skyscanner](https://www.skyscanner.es/)
 - [Trabber](https://www.trabber.es/)
-- [Trabber - Cheap Flights Search Engine](https://www.trabber.us/)
+- [Trabber](https://www.trabber.us/) — Cheap Flights Search Engine
 - [Trainline](https://www.thetrainline.com/es)
 - [Travelform](https://travelfrom.es/)
 - [Travelfrom.net](https://travelfrom.net/)
 - [TripHobo](https://www.triphobo.com/)
 - [TuBillete.com](https://www.tubillete.com/)
-- [VacationsToGo - Discount Cruises, Last Minute Cruises, Cruise, Cruise Line, Cruise Vacation](https://www.vacationstogo.com/)
+- [VacationsToGo](https://www.vacationstogo.com/) — Discount Cruises, Last Minute Cruises, Cruise, Cruise Line, Cruise Vacation
 - [Viajala](https://viajala.com/)
 - [Wego.com](https://www.wego.com/)
 
@@ -700,7 +700,7 @@ description: Maps, weather, travel agencies, and flights
 - [Sonder](https://www.sonder.com/)
 - [Tripadvisor](https://www.tripadvisor.com/)
 - [Trivago](https://www.trivago.com/)
-- [Vrbo | Reserva tu alquiler vacacional: pisos, casas rurales...](https://www.vrbo.com/es-es)
+- [Vrbo](https://www.vrbo.com/es-es) — Reserva tu alquiler vacacional: pisos, casas rurales...
 - [Wimdu](https://www.wimdu.es/)
 
 #### Hotels
@@ -728,7 +728,7 @@ description: Maps, weather, travel agencies, and flights
 
 #### Parking
 - [ParkVia](https://www.parkvia.com/en-GB)
-- [telpark - Parking App para reservar y pagar parquímetros](https://www.telpark.com/es/)
+- [telpark](https://www.telpark.com/es/) — Parking App para reservar y pagar parquímetros
 
 ### Visit
 - [Barcelona](https://www.barcelona.com/)
@@ -736,8 +736,8 @@ description: Maps, weather, travel agencies, and flights
 - [GoAfrica.Tourism](https://goafricatourism.com/)
 - [Guide to Iceland](https://guidetoiceland.is/)
 - [Virginia is for Lovers](https://www.virginia.org/)
-- [Virtual Visit Tours - Tour Ireland](https://www.virtualvisittours.com/)
-- [Visit Antarctica | Antarctic Logistics & Expeditions (ALE)](https://antarctic-logistics.com/)
+- [Virtual Visit Tours](https://www.virtualvisittours.com/) — Tour Ireland
+- [Visit Antarctica](https://antarctic-logistics.com/) — Antarctic Logistics & Expeditions (ALE)
 - [Visit Bruges](https://www.visitbruges.be/en)
 
 #### Tour Guide
@@ -792,7 +792,7 @@ description: Maps, weather, travel agencies, and flights
 - [Visit Greece](https://www.visitgreece.gr/)
 - [Visit Greenland](https://visitgreenland.com/)
 - [Visit Italy](http://www.visititaly.com/)
-- [Visit Japan Web | Digital Agency](https://vjw-lp.digital.go.jp/en/)
+- [Visit Japan Web](https://vjw-lp.digital.go.jp/en/) — Digital Agency
 - [Visit Masjid Al Aqsa](https://www.visitmasjidalaqsa.com/)
 - [Visit Qatar](https://visitqatar.com/)
 - [Visit Sharjah](https://www.visitsharjah.com/)
@@ -801,7 +801,7 @@ description: Maps, weather, travel agencies, and flights
 
 #### Visit Canary
 - [Adondevamoshoytenerife.com](https://adondevamoshoytenerife.com/)
-- [Canary Soul — Descubre la Canarias que todavía no conoces](https://canarysoul.es/)
+- [Canary Soul](https://canarysoul.es/) — Descubre la Canarias que todavía no conoces
 - [El Hierro Travel](https://elhierro.travel/)
 - [Go Tenerife](https://gotenerife.net/)
 - [Turismo Gran Canaria](https://www.grancanaria.com/turismo/es)
@@ -810,7 +810,7 @@ description: Maps, weather, travel agencies, and flights
 ### Travel Webs
 - [Airmet servicios](https://agenciasairmet.com/login.asp)
 - [Escape Whitelabel](https://whitelabel.greatescape.co/landing)
-- [lucky2go.com - Cheap flights by Virtual Interlining technology](https://www.lucky2go.com/)
+- [lucky2go.com](https://www.lucky2go.com/) — Cheap flights by Virtual Interlining technology
 
 #### Travel Agency
 - [Amadeus](https://amadeus.com/en)
@@ -820,7 +820,7 @@ description: Maps, weather, travel agencies, and flights
 - [GolfSpain](https://www.golfspain.com/es)
 - [Tu fin de curso](https://www.tufindecurso.es/inicio/)
 - [Viajes Sabanda](http://www.sabandaviajes.com/)
-- [WeRoad - Viajes en grupo organizados por todo el mundo](https://www.weroad.es/)
+- [WeRoad](https://www.weroad.es/) — Viajes en grupo organizados por todo el mundo
 - [Worldwide Horizons Travel](https://www.whtravel.es/)
 
 #### Ferries
@@ -839,43 +839,43 @@ description: Maps, weather, travel agencies, and flights
 #### Group Excursions
 - [Caminantes de Aguere](https://www.caminantesdeaguere.com/)
 - [Focus On Women](https://focusonwomen.es/)
-- [Huakai: Viajes en grupo por el mundo, llena tu vida de nuevas aventuras](https://huakai.es/)
+- [Huakai](https://huakai.es/) — Viajes en grupo por el mundo, llena tu vida de nuevas aventuras
 
 ### Transport
-- [Transit - the best app for buses and trains](https://transitapp.com/)
+- [Transit](https://transitapp.com/) — the best app for buses and trains
 
 ## Tracker
 - [Beepings GPS trackers](https://beepings.com/)
-- [Glympse - Real-Time Geo-Location Tracking Technology](https://glympse.com/)
+- [Glympse](https://glympse.com/) — Real-Time Geo-Location Tracking Technology
 - [NORAD Santa Tracker](https://www.noradsanta.org/)
 - [Snapceipt](https://snapceipt.com/)
 
 ### Aviation Tracker
 - ⭐ **[AirNav RadarBox](https://www.radarbox.com/)**
-- ⭐ **[Aviationstack - Real-Time Flight Tracker API - Free & Powerful](https://aviationstack.com/)**
-- ⭐ **[Flight Radar 24 - Live Flight Tracker](https://www.flightradar24.com/0,0/3)**
+- ⭐ **[Aviationstack](https://aviationstack.com/)** — Real-Time Flight Tracker API - Free & Powerful
+- ⭐ **[Flight Radar 24](https://www.flightradar24.com/0,0/3)** — Live Flight Tracker
 - ⭐ **[FlightAware Live](https://flightaware.com/live/map)**
-- ⭐ **[FlightStats - Global Flight Status & Tracker, Airport Weather and Delays](https://www.flightstats.com/v2/)**
+- ⭐ **[FlightStats](https://www.flightstats.com/v2/)** — Global Flight Status & Tracker, Airport Weather and Delays
 - ⭐ **[Plane Finder](https://planefinder.net/)**
-- [ADS-B Exchange - track aircraft live](https://globe.adsbexchange.com/)
+- [ADS-B Exchange](https://globe.adsbexchange.com/) — track aircraft live
 - [ADS-B.NL Tracking Military Aircraft](https://www.ads-b.nl/)
 - [AirLabs Data API](https://airlabs.co/)
-- [AIRPLANES.LIVE - independent unfiltered ADS-B and MLAT aircraft tracking. Learn about ADSB aircraft tracking and join the community](https://airplanes.live/) / [🔗](https://github.com/d4rken-org/airplanes-live-app)
+- [AIRPLANES.LIVE](https://airplanes.live/) / <a href="https://github.com/d4rken-org/airplanes-live-app"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — independent unfiltered ADS-B and MLAT aircraft tracking. Learn about ADSB aircraft tracking and join the community
 - [Aviation Safety Network](https://aviation-safety.net/)
-- [Federal Aviation Administration: NOTAM Search](https://notams.aim.faa.gov/notamSearch/nsapp.html#/)
+- [Federal Aviation Administration](https://notams.aim.faa.gov/notamSearch/nsapp.html#/) — NOTAM Search
 - [Flight Aware](https://flightaware.com/)
 - [FlightAirMap](https://www.flightairmap.com/)
-- [flightview - Real Time Flight Tracker & Airport Delays](https://www.flightview.com/)
-- [Flighty — Get delay alerts faster than the airlines](https://flighty.com/)
+- [flightview](https://www.flightview.com/) — Real Time Flight Tracker & Airport Delays
+- [Flighty](https://flighty.com/) — Get delay alerts faster than the airlines
 - [ForeFlight Web](https://plan.foreflight.com/)
 - [IVAO Webeye](https://webeye.ivao.aero/)
 - [LiveATC.net](https://www.liveatc.net/)
 - [Open Flights](https://openflights.org/)
 - [OpenSky Explorer](https://opensky-network.org/network/explorer)
 - [OpenSky Network](https://opensky-network.org/)
-- [Sentry | The Next Generation of ADS-B Receivers](https://flywithsentry.com/)
+- [Sentry](https://flywithsentry.com/) — The Next Generation of ADS-B Receivers
 - [SkyVector](https://skyvector.com/)
-- [Stratus By Appareo | Avionics for Pilots](https://stratusbyappareo.com/)
+- [Stratus By Appareo](https://stratusbyappareo.com/) — Avionics for Pilots
 - [The Aviation Herald](https://avherald.com/)
 
 ### Satellite Tracker
@@ -888,15 +888,15 @@ description: Maps, weather, travel agencies, and flights
 - [JAXA Earth Observation](https://www.eorc.jaxa.jp/en)
 - [JSatTrak](https://www.gano.name/shawn/JSatTrak)
 - [LeoLabs](https://platform.leolabs.space/visualizations/leo)
-- [Live_ISS_Stream | IBM video](https://video.ibm.com/channel/live-iss-stream+)
-- [Look4Sat: Satellite tracker](https://play.google.com/store/apps/details?id=com.rtbishop.look4sat) / [🔗](https://github.com/rt-bishop/Look4Sat)
+- [Live_ISS_Stream](https://video.ibm.com/channel/live-iss-stream+) — IBM video
+- [Look4Sat](https://play.google.com/store/apps/details?id=com.rtbishop.look4sat) / <a href="https://github.com/rt-bishop/Look4Sat"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Satellite tracker
 - [N2YO](https://www.n2yo.com/)
 - [OrbTrack](https://www.lizard-tail.com/isana/tracking)
 - [POES Status](https://www.ospo.noaa.gov/Operations/POES/status.html#noaa15)
 - [PreviSat 6.1](https://previsat.sourceforge.net/)
 - [Regional and Mesoscale Meteorology Branch](https://rammb2.cira.colostate.edu/)
 - [rt-bishop/Look4Sat · GitHub](https://github.com/rt-bishop/Look4Sat)
-- [Satellite Map | Explore Active Satellites Orbiting Earth](https://geoxc-apps.bd.esri.com/space/satellite-explorer/)
+- [Satellite Map](https://geoxc-apps.bd.esri.com/space/satellite-explorer/) — Explore Active Satellites Orbiting Earth
 - [Satflare](https://www.satflare.com/)
 - [Satmap](https://satmap.space/)
 - [Satview](https://www.satview.org/)
@@ -904,7 +904,7 @@ description: Maps, weather, travel agencies, and flights
 - [Space-Track.Org](https://www.space-track.org/auth/login)
 - [SpaceX Starlink Satellites Tracker](https://findstarlink.com/)
 - [Spectator Earth](https://spectator.earth/)
-- [spectator.earth | Real-Time Satellite Monitoring](https://app.spectator.earth/?&@0,0,2z)
+- [spectator.earth](https://app.spectator.earth/?&@0,0,2z) — Real-Time Satellite Monitoring
 - [Stuff in Space](http://stuffin.space/)
 - [WXtrack](https://www.satsignal.eu/software/wxtrack.htm)
 
@@ -920,4 +920,4 @@ description: Maps, weather, travel agencies, and flights
 - [Ship Finder](https://shipfinder.co/)
 - [Ship Location](https://www.shiplocation.com/)
 - [VesselFinder](https://www.vesselfinder.com/)
-- [VesselFinder - AIS Stations](https://stations.vesselfinder.com/)
+- [VesselFinder](https://stations.vesselfinder.com/) — AIS Stations

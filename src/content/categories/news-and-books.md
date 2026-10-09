@@ -17,7 +17,7 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [Conec](https://conec.uv.es/)
 
 #### Scientific Publication
-- [American Meteorological Society - Journals](https://journals.ametsoc.org/)
+- [American Meteorological Society](https://journals.ametsoc.org/) — Journals
 - [American Scientist](https://www.americanscientist.org/)
 - [Cell Press](https://www.cell.com/)
 - [iDramaLab](https://idrama.science/)
@@ -38,14 +38,14 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [Schweizerbart science publishers](https://www.schweizerbart.de/home/start)
 - [Science X Network](https://sciencex.com/)
 - [Sciencemag](https://www.sciencemag.org/)
-- [Sciencemag - Science](https://science.sciencemag.org/)
+- [Sciencemag](https://science.sciencemag.org/) — Science
 - [SigmaXi](https://www.sigmaxi.org/)
 - [Springer Nature](https://www.springernature.com/gp)
 - [symmetry magazine](https://www.symmetrymagazine.org/)
 - [The BMJ](https://www.bmj.com/)
 - [The Daily Research](https://www.thedailyresearch.com/)
 - [The Mathematica Journal](https://www.mathematica-journal.com/)
-- [Wiley Online Library - AGU Publications](https://agupubs.onlinelibrary.wiley.com/)
+- [Wiley Online Library](https://agupubs.onlinelibrary.wiley.com/) — AGU Publications
 - [Zenodo](https://zenodo.org/)
 
 ##### Medicine Pub
@@ -76,7 +76,7 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [SSRN](https://www.ssrn.com/index.cfm/en/)
 
 ##### Chemistry Pub
-- [ACS - Pubs](https://pubs.acs.org/)
+- [ACS](https://pubs.acs.org/) — Pubs
 
 ##### Physics Pub
 - [CERN Courier](https://cerncourier.com/)
@@ -118,7 +118,7 @@ description: News, blogs, digital gardens, libraries, and magazines
 
 ###### Space Mag
 - [Astronoo](http://www.astronoo.com/en/)
-- [EclipseWise - Solar and Lunar Eclipses](http://eclipsewise.com/)
+- [EclipseWise](http://eclipsewise.com/) — Solar and Lunar Eclipses
 - [MrEclipse.com](https://www.mreclipse.com/)
 - [SpaceFlight Insider](https://www.spaceflightinsider.com/)
 - [Supercluster](https://www.supercluster.com/)
@@ -275,13 +275,13 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [Hard Zone](https://hardzone.es/)
 - [HardwarEsfera](https://hardwaresfera.com/)
 - [HPCwire](https://www.hpcwire.com/)
-- [iBSD | Proving that BSD is a great alternative to Linux](https://i-bsd.com/)
+- [iBSD](https://i-bsd.com/) — Proving that BSD is a great alternative to Linux
 - [igor´sLAB](https://www.igorslab.de/en)
 - [MacRumors](https://www.macrumors.com/)
 - [Make Tech Easier](https://www.maketecheasier.com/)
 - [MuyComputer](https://www.muycomputer.com/)
 - [Noticias3D](https://www.noticias3d.com/)
-- [OSData - Server Operating Systems Technical Comparison](https://www.osdata.com/)
+- [OSData](https://www.osdata.com/) — Server Operating Systems Technical Comparison
 - [PCMag](https://www.pcmag.com/)
 - [PCWorld](https://www.pcworld.com/)
 - [Search Engine Journal](https://www.searchenginejournal.com/)
@@ -294,7 +294,7 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [VideoCardz](https://videocardz.com/)
 
 ##### Linux Mag
-- [9to5Linux - Linux news, reviews, tutorials, and more](https://9to5linux.com/)
+- [9to5Linux](https://9to5linux.com/) — Linux news, reviews, tutorials, and more
 - [Average Linux User](https://averagelinuxuser.com/)
 - [DebugPoint.com](https://www.debugpoint.com/)
 - [Desde Linux](https://desdelinux.net/)
@@ -305,7 +305,7 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [Faces of Open Source](https://www.facesofopensource.com/)
 - [Fedora Magazine](https://fedoramagazine.org/)
 - [FOSS Force](https://fossforce.com/)
-- [FOSS Linux - Enhance your Linux experience](https://www.fosslinux.com/)
+- [FOSS Linux](https://www.fosslinux.com/) — Enhance your Linux experience
 - [FOSSMint](https://www.fossmint.com/)
 - [Free Linux Tutorials](https://freelinuxtutorials.com/)
 - [FSMdotCOM](https://www.funkyspacemonkey.com/)
@@ -334,20 +334,20 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [Linux Today](https://www.linuxtoday.com/)
 - [Linux.com](https://www.linux.com/)
 - [Linux.org](https://www.linux.org/)
-- [LinuxBlog.io - Linux, Open Source, and Technology](https://linuxblog.io/)
+- [LinuxBlog.io](https://linuxblog.io/) — Linux, Open Source, and Technology
 - [LinuxCommunity](https://www.linux-community.de/)
 - [LinuxConfig.org](https://linuxconfig.org/)
 - [LinuxForDevices](https://www.linuxfordevices.com/)
 - [LinuxGui](https://linuxgui.com/)
 - [LinuxHub.it](https://linuxhub.it/)
-- [Linuxiac - All things Linux & Open Source](https://linuxiac.com/)
+- [Linuxiac](https://linuxiac.com/) — All things Linux & Open Source
 - [Linuxiarze.pl](https://linuxiarze.pl/)
-- [Linuxize | Linux Tips, Tricks and Tutorials](https://linuxize.com/)
+- [Linuxize](https://linuxize.com/) — Linux Tips, Tricks and Tutorials
 - [LinuxLinks](https://www.linuxlinks.com/)
 - [Linuxpedia](https://linuxpedia.com.es/)
 - [LinuxReviews](https://linuxreviews.org/LinuxReviews)
-- [Linux命令大全(手册) – 真正好用的Linux命令在线查询网站](https://www.linuxcool.com/)
-- [Lunduke Journal of Technology | Substack](https://lunduke.substack.com/)
+- [Linux命令大全(手册)](https://www.linuxcool.com/) — 真正好用的Linux命令在线查询网站
+- [Lunduke Journal of Technology](https://lunduke.substack.com/) — Substack
 - [Make a Linux App](https://makealinux.app/#/)
 - [MEDevel.com](https://medevel.com/)
 - [ml4w.com](https://www.ml4w.com/)
@@ -365,7 +365,7 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [Ubunlog](https://ubunlog.com/)
 - [Ubuntu Docs!](https://www.ubuntudocs.com/)
 - [Ubuntu Free](https://www.ubuntufree.com/)
-- [UbuntuBoss: Easy Ubuntu Tutorials | How to for Ubuntu Linux](https://ubuntuboss.com/)
+- [UbuntuBoss](https://ubuntuboss.com/) — Easy Ubuntu Tutorials | How to for Ubuntu Linux
 - [VITUX](https://vitux.com/)
 - [Xmodulo](https://www.xmodulo.com/)
 
@@ -374,25 +374,25 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [WindowsClub](https://www.thewindowsclub.com/)
 
 #### Tech Mag
-- ⭐ **[ROBOTS: Your Guide to the World of Robotics](https://robotsguide.com/)**
+- ⭐ **[ROBOTS](https://robotsguide.com/)** — Your Guide to the World of Robotics
 - ⭐ **[Solar LT Mag](https://solar.lowtechmagazine.com/)**
 - [01net](https://www.01net.com/)
 - [9to5Mac](https://9to5mac.com/)
 - [9to5Toys](https://9to5toys.com/)
 - [404 Media](https://www.404media.co/)
-- [Accueil - MiniMachines.net](https://www.minimachines.net/)
+- [Accueil](https://www.minimachines.net/) — MiniMachines.net
 - [Adictec](https://adictec.com/)
 - [Analytics India Mag](https://analyticsindiamag.com/)
 - [AppAdvice](https://appadvice.com/appnn)
 - [Bits of Freedom](https://www.bitsoffreedom.nl/)
 - [Built In](https://builtin.com/)
 - [CCM](https://ccm.net/)
-- [Cloudwards – Cloud Software & Privacy Tools Reviewed](https://www.cloudwards.net/)
+- [Cloudwards](https://www.cloudwards.net/) — Cloud Software & Privacy Tools Reviewed
 - [Dazeinfo](https://dazeinfo.com/)
 - [DRASTIC News](https://drasticnews.com/)
 - [Fossbytes](https://fossbytes.com/)
 - [GEEKrar](https://www.geekrar.com/)
-- [Geeks3D - 3D tech-news, graphics cards, programming, gamedev, pixel hacking and demoscene](https://geeks3d.com/)
+- [Geeks3D](https://geeks3d.com/) — 3D tech-news, graphics cards, programming, gamedev, pixel hacking and demoscene
 - [gHacks](https://www.ghacks.net/)
 - [Guiding Tech](https://www.guidingtech.com/)
 - [H3XED](https://www.h3xed.com/)
@@ -405,7 +405,7 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [KODIdb](https://www.kodidb.com/)
 - [Low-Tech Magazine](https://www.lowtechmagazine.com/)
 - [LTT Labs](https://www.lttlabs.com/)
-- [Make: DIY Projects and Ideas for Makers](https://makezine.com/)
+- [Make](https://makezine.com/) — DIY Projects and Ideas for Makers
 - [NeoTeo](https://www.neoteo.com/)
 - [Neowin](https://www.neowin.net/)
 - [Nobbot](https://www.nobbot.com/)
@@ -429,7 +429,7 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [Techopedia](https://www.techopedia.com/)
 - [TechPout](https://www.techpout.com/)
 - [TechRadar](https://www.techradar.com/)
-- [TechRechard - Tips & Tricks](https://techrechard.com/)
+- [TechRechard](https://techrechard.com/) — Tips & Tricks
 - [TechRepublic](https://www.techrepublic.com/)
 - [TechSpot](https://www.techspot.com/)
 - [TechWiser](https://techwiser.com/)
@@ -464,7 +464,7 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [Pro Android](https://www.proandroid.com/)
 - [The Custom Droid](https://www.thecustomdroid.com/)
 - [The Custom Rom](https://thecustomrom.com/)
-- [TuTecnoMundo - Android, noticias y tutoriales](https://tutecnomundo.com/)
+- [TuTecnoMundo](https://tutecnomundo.com/) — Android, noticias y tutoriales
 - [XDA-Developers](https://www.xda-developers.com/)
 
 #### Vehicle Mag
@@ -483,7 +483,7 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [Road & Track](https://www.roadandtrack.com/)
 - [Supercars](https://www.supercars.net/blog)
 - [Supercars](https://www.supercars.com/)
-- [Tesla-info - Tesla buyers guides, worldwide inventory and support for owners](https://tesla-info.com/)
+- [Tesla-info](https://tesla-info.com/) — Tesla buyers guides, worldwide inventory and support for owners
 - [Teslarati](https://www.teslarati.com/)
 - [The Drive](https://www.thedrive.com/)
 - [Top Gear](https://www.topgear.com/car-news)
@@ -589,7 +589,7 @@ description: News, blogs, digital gardens, libraries, and magazines
 
 ##### Recipes Mag
 - [Afuegolento](https://www.afuegolento.com/recetas)
-- [De Rechupete - Recetas de cocina casera que siempre salen](https://www.abc.es/recetasderechupete/)
+- [De Rechupete](https://www.abc.es/recetasderechupete/) — Recetas de cocina casera que siempre salen
 - [El Aderezo](https://www.eladerezo.com/)
 - [Ensalada de col](https://ensaladadecol.com/)
 - [Food & Nutrition Research](https://foodandnutritionresearch.net/index.php/fnr/index)
@@ -605,7 +605,7 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [Tu Nutricionista Integrativa](https://tunutricionistaintegrativa.com/)
 
 #### Entertainment Mag
-- [Aeon | a world of ideas](https://aeon.co/)
+- [Aeon](https://aeon.co/) — a world of ideas
 - [CodigoPoker](https://www.codigopoker.com/)
 - [Complex](https://www.complex.com/)
 - [Cultura Genial](https://www.culturagenial.com/)
@@ -617,7 +617,7 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [Facts Legend](https://factslegend.org/)
 - [Flashbak mag](https://flashbak.com/)
 - [Flipada.com](https://www.flipada.com/)
-- [Flooxer Now: Música, Youtubers, influencers, salseo, vídeos virales y animales](https://www.flooxernow.com/)
+- [Flooxer Now](https://www.flooxernow.com/) — Música, Youtubers, influencers, salseo, vídeos virales y animales
 - [Guinness World Records](https://www.guinnessworldrecords.com/)
 - [Input mag](https://www.inputmag.com/)
 - [Madspread](https://www.madspread.com/)
@@ -636,7 +636,7 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [Yasss](https://www.yasss.es/)
 
 ##### Stylish Mag
-- [GQ España - Revista de tendencias, moda, actualidad y estilo de vida](https://www.revistagq.com/)
+- [GQ España](https://www.revistagq.com/) — Revista de tendencias, moda, actualidad y estilo de vida
 
 ###### Popular Culture
 - [Bored Panda](https://www.boredpanda.com/)
@@ -671,7 +671,7 @@ description: News, blogs, digital gardens, libraries, and magazines
 **Men Mag**
 - [AskMen](https://www.askmen.com/)
 - [For Him Magazine](http://fhm.com/)
-- [GQ - Men's Fashion, Style, Grooming, Fitness, Entertainment, Lifestyle, News & Politics](https://www.gq.com/)
+- [GQ](https://www.gq.com/) — Men's Fashion, Style, Grooming, Fitness, Entertainment, Lifestyle, News & Politics
 - [Maxim](https://www.maxim.com/)
 - [Men's Health](https://www.menshealth.com/)
 - [Suburban Men](https://www.suburbanmen.com/)
@@ -693,7 +693,7 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [Cultture](https://www.cultture.com/)
 - [Dexerto](https://www.dexerto.com/)
 - [Diezminutos](https://www.diezminutos.es/)
-- [DIRT – Luxury Real Estate News](https://www.dirt.com/)
+- [DIRT](https://www.dirt.com/) — Luxury Real Estate News
 - [DramaPanda](http://www.dramapanda.com/)
 - [Dreshare](https://www.dreshare.com/)
 - [Europa Press](https://www.europapress.es/)
@@ -766,7 +766,7 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [AllMusic](https://www.allmusic.com/)
 - [Billboard](https://www.billboard.com/)
 - [Cool Accidents](https://www.coolaccidents.com/)
-- [Discogs - Music Database and Marketplace](https://www.discogs.com/)
+- [Discogs](https://www.discogs.com/) — Music Database and Marketplace
 - [DJMag](https://djmag.com/)
 - [EDM](https://edm.com/)
 - [HipHopDX](https://hiphopdx.com/)
@@ -796,7 +796,7 @@ description: News, blogs, digital gardens, libraries, and magazines
 
 ##### Reading Mag
 - [Círculo de lectores](https://www.circulo.es/)
-- [Cosmere - Brandon Sanderson fan](https://cosmere.es/)
+- [Cosmere](https://cosmere.es/) — Brandon Sanderson fan
 - [Electric literature](https://electricliterature.com/)
 - [The Bookseller](https://www.thebookseller.com/)
 
@@ -837,7 +837,7 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [Salario Mínimo](http://www.salariominimo.es/)
 - [The Banker](https://www.thebanker.com/)
 - [The Economist](https://www.economist.com/)
-- [The Economist - Intelligence Unit](https://www.eiu.com/n/)
+- [The Economist](https://www.eiu.com/n/) — Intelligence Unit
 - [The Land Report](https://landreport.com/)
 - [Yahoo Finance](https://finance.yahoo.com/)
 
@@ -898,7 +898,7 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [FamilyEducation](https://www.familyeducation.com/)
 - [Forte Labs](https://fortelabs.co/blog)
 - [Owlcation](https://owlcation.com/)
-- [Tes | News](https://www.tes.com/news)
+- [Tes](https://www.tes.com/news) — News
 - [ThoughtCo](https://www.thoughtco.com/)
 
 ##### University Ranking Mag
@@ -915,7 +915,7 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [Before It's News](https://beforeitsnews.com/)
 - [Best News Here](https://bestnewshere.com/)
 - [BIIE](https://biie.org/ultimas-noticias)
-- [Canal TLV1 / Toda La Verdad Primero – Un medio de difusión independiente y ajeno a intereses que no sean los de el bien común nacional por encima de todo.](https://canaltlv1.com/)
+- [Canal TLV1 / Toda La Verdad Primero](https://canaltlv1.com/) — Un medio de difusión independiente y ajeno a intereses que no sean los de el bien común nacional por encima de todo.
 - [CienciaySaludNatural](https://cienciaysaludnatural.com/)
 - [Coercion Code](https://coercioncode.com/)
 - [Daily Stormer](https://dailystormer.su/)
@@ -1010,7 +1010,7 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [InterSer](https://interser.ning.com/)
 - [La Caja de Pandora](https://www.cajadepandora.com/)
 - [La Guia Esotérica](https://laguiaesoterica.com/)
-- [La numerología: Una guía completa para comprender su importancia y aplicaciones](https://www.todalanumerologia.com/)
+- [La numerología](https://www.todalanumerologia.com/) — Una guía completa para comprender su importancia y aplicaciones
 - [Land Before Time](https://landbeforetime.home.blog/)
 - [Magic Horoscope](https://themagichoroscope.com/)
 - [Reverend Neargood, O.C.](https://neargood.net/)
@@ -1024,7 +1024,7 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [Consciousvitality](https://www.consciousvitality.com/)
 - [Hermandad Blanca](https://hermandadblanca.org/)
 - [In5D](https://in5d.com/)
-- [International Academy of Consciousness - IAC](https://www.iacworld.org/)
+- [International Academy of Consciousness](https://www.iacworld.org/) — IAC
 - [Mia Astral](https://miastral.com/)
 - [Mundo Pránico](https://www.mundopranico.com/)
 - [Neobeats](https://neobeats.de/)
@@ -1142,15 +1142,15 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [MundoCuentas](https://www.mundocuentas.com/)
 - [OneZero](https://onezero.medium.com/)
 - [Productive Engineer](https://theproductiveengineer.net/)
-- [Rolando Barry - Notion](https://honear.notion.site/)
+- [Rolando Barry](https://honear.notion.site/) — Notion
 - [Secure77](https://secure77.de/)
 - [Tech Debt](https://justtechdebt.com/)
 - [The Bryant Review](https://gardinerbryant.com/)
 - [Tyler's Tech](https://tylerstech.me/)
 - [Vegibit](https://vegibit.com/)
 - [WindowsLoop](https://windowsloop.com/)
-- [WT.Social - AI](https://wt.social/wt/artificial-intelligence)
-- [WT.Social - Free Software](https://wt.social/wt/free-software)
+- [WT.Social](https://wt.social/wt/artificial-intelligence) — AI
+- [WT.Social](https://wt.social/wt/free-software) — Free Software
 
 #### Science Blog
 - [100ceros](https://100ceroscom.wordpress.com/)
@@ -1164,13 +1164,13 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [el Profe de Física](https://elprofedefisica.es/)
 - [Energías Libres](https://energiaslibres.wordpress.com/)
 - [Espacio, Astronomía y Ciencia](https://www.facebook.com/JJBENAVENTERODRIGUEZ)
-- [ExoGenesis | Substack](https://exo.substack.com/)
+- [ExoGenesis](https://exo.substack.com/) — Substack
 - [Gaussianos](https://www.gaussianos.com/)
 - [Geometría Sagrada](https://www.sacred-geometry.es/)
 - [La raíz cuadrada del blog](https://rrocha111.wordpress.com/)
 - [Los hijos De Lagrange](https://loshijosdelagrange.wordpress.com/)
 - [masmates.net](https://masmates.net/)
-- [Mathematics and computer science - Blogspot](https://trizenx.blogspot.com/)
+- [Mathematics and computer science](https://trizenx.blogspot.com/) — Blogspot
 - [MatPalm](https://matpalm.com/blog)
 - [Naukas](https://naukas.com/)
 - [Pedro Fortuny Ayuso](https://pfortuny.net/)
@@ -1179,7 +1179,7 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [Towards Data Science](https://towardsdatascience.com/)
 - [Trendsmap](https://www.trendsmap.com/)
 - [Tyler Morgan Blog](https://www.tylermw.com/)
-- [Uv - Guilopez](https://www.uv.es/guilopez)
+- [Uv](https://www.uv.es/guilopez) — Guilopez
 - [Walter Bislins](http://walter.bislins.ch/)
 - [WorldStandards](https://www.worldstandards.eu/)
 - [xefer](https://xefer.com/)
@@ -1207,60 +1207,60 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [Scientia](https://scientiablog.com/)
 
 ##### Computing Blog
-- ⭐ **[Dev Notes - Crafted for Coders](https://www.devnotesdaily.com/)**
-- ⭐ **[Jamstack - For fast and secure sites](https://jamstack.org/)**
+- ⭐ **[Dev Notes](https://www.devnotesdaily.com/)** — Crafted for Coders
+- ⭐ **[Jamstack](https://jamstack.org/)** — For fast and secure sites
 - [& /dev/null](https://www.thirtythreeforty.net/)
 - [3D Game Engine Programming](https://www.3dgep.com/)
-- [100cosas.dev - Mejora en programación, un consejo a la vez](https://100cosas.dev/)
-- [a16z | Substack](https://www.a16z.news/)
+- [100cosas.dev](https://100cosas.dev/) — Mejora en programación, un consejo a la vez
+- [a16z](https://www.a16z.news/) — Substack
 - [Adventures in Linux and KDE](https://pointieststick.com/)
-- [AK’s Substack | Substack](https://akhaliq.substack.com/)
+- [AK’s Substack](https://akhaliq.substack.com/) — Substack
 - [Alexia Michelle](https://lexi.lat/)
 - [Andrej Karpathy blog](https://karpathy.github.io/)
 - [Aprendiendo a Programar](https://aprendiendoaprogramar.netlify.app/)
 - [Aprendiendo a Virtualizar](https://aprendiendoavirtualizar.com/)
 - [Atareao.es](https://atareao.es/)
 - [Ben Eater](https://eater.net/)
-- [Better Programming - Medium](https://betterprogramming.pub/)
+- [Better Programming](https://betterprogramming.pub/) — Medium
 - [Blog Bitix](https://picodotdev.github.io/blog-bitix/)
 - [Brain Baking](https://brainbaking.com/)
 - [Ceos3c](https://www.ceos3c.com/)
 - [Changelog.com](https://changelog.com/)
 - [Chris Titus Tech](https://christitus.com/)
 - [Code Bushi](https://codebushi.com/)
-- [Computing Notes - Xinyang YU](https://notes.yxy.ninja/)
+- [Computing Notes](https://notes.yxy.ninja/) — Xinyang YU
 - [Ctrl blog by Daniel Aleksandersen](https://www.ctrl.blog/)
 - [Data Engineering Blog](https://sspaeti.com/)
 - [Destroy All Software](https://www.destroyallsoftware.com/screencasts)
-- [devconnected – Software Engineering Articles, Guides & Tips](https://devconnected.com/)
+- [devconnected](https://devconnected.com/) — Software Engineering Articles, Guides & Tips
 - [DevGa.me](https://devga.me/)
 - [Disconnected Systems](https://disconnected.systems/)
 - [Dusty Mabe](https://dustymabe.com/)
-- [Dwarkesh Podcast | Substack](https://www.dwarkesh.com/)
+- [Dwarkesh Podcast](https://www.dwarkesh.com/) — Substack
 - [Embedded Inventor](https://embeddedinventor.com/)
 - [Engineering for Data Science](https://engineeringfordatascience.com/)
 - [Evilnapsis](https://evilnapsis.com/)
-- [F1LT3R - JS Dev Web & Mobile](https://f1lt3r.io/)
-- [FadinGeek – Medium](https://fadingeek.medium.com/)
+- [F1LT3R](https://f1lt3r.io/) — JS Dev Web & Mobile
+- [FadinGeek](https://fadingeek.medium.com/) — Medium
 - [FoolControl](https://foolcontrol.org/)
-- [Garon - Tech Blog](https://www.garron.me/en/)
-- [Gavin Lyons - Tech Blog](https://gavinlyonsrepo.github.io/)
-- [GeGeek - I don't reinvent the wheel, I just link to it](https://gegeek.com/)
+- [Garon](https://www.garron.me/en/) — Tech Blog
+- [Gavin Lyons](https://gavinlyonsrepo.github.io/) — Tech Blog
+- [GeGeek](https://gegeek.com/) — I don't reinvent the wheel, I just link to it
 - [Geoff Ruddock](https://geoffruddock.com/)
 - [GloriousEggroll's Blog](https://www.gloriouseggroll.tv/)
 - [Greg Hilston](https://www.greghilston.com/)
 - [GreyCoder](https://greycoder.com/)
-- [GUIdebook: Graphical User Interface gallery](https://guidebookgallery.org/)
-- [Hayden James - Linux Systems Analyst](https://haydenjames.io/)
+- [GUIdebook](https://guidebookgallery.org/) — Graphical User Interface gallery
+- [Hayden James](https://haydenjames.io/) — Linux Systems Analyst
 - [Ivan Grishaev's blog](https://grishaev.me/)
 - [Jamstack .NET](https://jamstacks.net/)
 - [Jamstatic.fr](https://jamstatic.fr/)
 - [JavaScript Weekly Archives](https://javascriptweekly.com/issues)
 - [José Juan Sánchez Hernández Blog](https://josejuansanchez.org/)
-- [KaliTut - Linux and pentesting blog](https://kalitut.com/)
-- [Károly Zsolnai-Fehér - Research Scientist](https://users.cg.tuwien.ac.at/zsolnai/)
+- [KaliTut](https://kalitut.com/) — Linux and pentesting blog
+- [Károly Zsolnai-Fehér](https://users.cg.tuwien.ac.at/zsolnai/) — Research Scientist
 - [LANRAT](https://lanrat.com/)
-- [Latent Space | Substack](https://www.latent.space/)
+- [Latent Space](https://www.latent.space/) — Substack
 - [Light Commands](https://lightcommands.com/)
 - [Liliputing](https://liliputing.com/)
 - [linuxmobile](https://linuxmobile.netlify.app/)
@@ -1268,23 +1268,23 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [Lyngvær Log](https://lyngvaer.no/)
 - [MarksBlogg Tech](https://tech.marksblogg.com/)
 - [neeanotes📜](https://notes.neeasade.net/)
-- [Newbedev | Programming tutorials](https://newbedev.com/)
+- [Newbedev](https://newbedev.com/) — Programming tutorials
 - [nikic's Blog](https://www.npopov.com/)
 - [nixers](https://nixers.net/)
 - [Open Source is Awesome Show Notes](https://opensourceisawesome.com/)
 - [Osservatorio Nessuno](https://osservatorionessuno.org/)
 - [Pandammonium](https://pandammonium.org/)
-- [Phil Opp - Writing an OS in Rust](https://os.phil-opp.com/)
-- [PHP.Watch: PHP Articles, News, Upcoming Changes, RFCs, and more](https://php.watch/)
-- [Pid Edins - 0pointer.net](https://0pointer.de/blog/)
+- [Phil Opp](https://os.phil-opp.com/) — Writing an OS in Rust
+- [PHP.Watch](https://php.watch/) — PHP Articles, News, Upcoming Changes, RFCs, and more
+- [Pid Edins](https://0pointer.de/blog/) — 0pointer.net
 - [Pid Eins](https://0pointer.net/blog/)
 - [Programster's Blog](https://blog.programster.org/)
 - [Qball's Weblog](https://blog.sarine.nl/)
 - [Rakhim.org](https://rakhim.org/)
-- [Sean Godecke - Blog](https://www.seangoedecke.com/)
+- [Sean Godecke](https://www.seangoedecke.com/) — Blog
 - [Sick Codes](https://sick.codes/)
 - [Sidebar.io](https://sidebar.io/)
-- [Simon Aubury – Medium](https://simon-aubury.medium.com/)
+- [Simon Aubury](https://simon-aubury.medium.com/) — Medium
 - [Simplified Guide](https://www.simplified.guide/)
 - [Sorush Khajepor](https://iamsorush.com/)
 - [ssp.sh](https://www.ssp.sh/)
@@ -1293,13 +1293,13 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [TechHut.tv](https://techhut.tv/)
 - [tek syndicate](https://teksyndicate.com/)
 - [Terence Eden’s Blog](https://shkspr.mobi/blog/)
-- [TfTHacker – Medium](https://tfthacker.medium.com/)
-- [The Algorithmic Bridge | Substack](https://thealgorithmicbridge.substack.com/)
+- [TfTHacker](https://tfthacker.medium.com/) — Medium
+- [The Algorithmic Bridge](https://thealgorithmicbridge.substack.com/) — Substack
 - [The Evil Skeleton Blog](https://theevilskeleton.gitlab.io/blog)
 - [The New Stack](https://thenewstack.io/)
 - [The SSD Review](https://www.thessdreview.com/)
 - [TheEvilSkeleton](https://theevilskeleton.gitlab.io/)
-- [This Modern Web — Patrick Marsceill](https://www.thismodernweb.com/)
+- [This Modern Web](https://www.thismodernweb.com/) — Patrick Marsceill
 - [TorrentFreak](https://torrentfreak.com/)
 - [Trafotin](https://trafotin.com/)
 - [UbuntuHandbook](https://ubuntuhandbook.org/)
@@ -1317,7 +1317,7 @@ description: News, blogs, digital gardens, libraries, and magazines
 ###### Cybersecurity Blogs
 - [2-spyware](https://www.2-spyware.com/)
 - [avoidthehack!](https://avoidthehack.com/)
-- [Catalog - Spyware Watchdog](https://spyware.neocities.org/articles/)
+- [Catalog](https://spyware.neocities.org/articles/) — Spyware Watchdog
 - [Check Point Research](https://research.checkpoint.com/)
 - [Ciberseguridad](https://ciberseguridad.com/)
 - [Ciberseguridad.blog](https://ciberseguridad.blog/)
@@ -1341,7 +1341,7 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [MalwareTech](https://www.malwaretech.com/)
 - [My Shadow](https://myshadow.org/)
 - [Naked Security](https://nakedsecurity.sophos.com/)
-- [Null Byte - WonderHowTo](https://null-byte.wonderhowto.com/)
+- [Null Byte](https://null-byte.wonderhowto.com/) — WonderHowTo
 - [Project Zero](https://googleprojectzero.blogspot.com/)
 - [Recorded Future](https://therecord.media/)
 - [RestorePrivacy](https://restoreprivacy.com/)
@@ -1361,10 +1361,10 @@ description: News, blogs, digital gardens, libraries, and magazines
 
 ###### Hacking Blog
 - [Flu Project](https://www.flu-project.com/)
-- [GoFetch - Breaking Constant-Time Cryptographic Implementations Using Data Memory-Dependent Prefetchers](https://gofetch.fail/)
-- [Hacking/Security – Medium](https://medium.com/hacking-info-sec)
+- [GoFetch](https://gofetch.fail/) — Breaking Constant-Time Cryptographic Implementations Using Data Memory-Dependent Prefetchers
+- [Hacking/Security](https://medium.com/hacking-info-sec) — Medium
 - [Kernal](https://kernal.eu/)
-- [s4vitar | H4cknet](https://s4vitar.github.io/)
+- [s4vitar](https://s4vitar.github.io/) — H4cknet
 - [splinter_code blog](https://splintercod3.blogspot.com/)
 - [Yous.be](https://yous.be/)
 
@@ -1404,18 +1404,18 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [TuCuerpoHumano.com](https://tucuerpohumano.com/)
 
 #### Web Blog
-- [Blog | Notion.so](https://www.notion.so/blog)
+- [Blog](https://www.notion.so/blog) — Notion.so
 - [Bloguero Pro](https://blogueropro.com/)
 - [Made Mistakes](https://mademistakes.com/)
-- [On | Substack](https://on.substack.com/)
+- [On](https://on.substack.com/) — Substack
 - [Parzibyte's blog](https://parzibyte.me/blog)
-- [Robert Reich | Substack](https://robertreich.substack.com/)
+- [Robert Reich](https://robertreich.substack.com/) — Substack
 - [Smashing Magazine](https://www.smashingmagazine.com/)
 - [SpaceCollective](http://spacecollective.org/)
 - [Substack Reads](https://read.substack.com/)
 - [The Internet map Blog](https://the-internet-map.blogspot.com/)
-- [The M&Ms Newsletter | Louie Bacaj | Substack](https://newsletter.memesmotivations.com/)
-- [Uncharted Territories | Substack](https://unchartedterritories.tomaspueyo.com/)
+- [The M&Ms Newsletter](https://newsletter.memesmotivations.com/) — Louie Bacaj | Substack
+- [Uncharted Territories](https://unchartedterritories.tomaspueyo.com/) — Substack
 
 #### English Blog
 - [Apreder idiomas](https://www.quieroaprenderidiomas.com/)
@@ -1431,8 +1431,8 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [Trucos Londres](https://trucoslondres.com/)
 
 #### News Blog
-- [ECOMONEWS — La newsletter más mona de internet](https://ecomonos.com/)
-- [El Orden Mundial: el medio de análisis internacional en español](https://elordenmundial.com/)
+- [ECOMONEWS](https://ecomonos.com/) — La newsletter más mona de internet
+- [El Orden Mundial](https://elordenmundial.com/) — el medio de análisis internacional en español
 - [Noticias del mundo](https://www.periodicoelnuevomundo.com/)
 
 #### Alternative Blog
@@ -1455,7 +1455,7 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [Contraperiodismo Matrix](https://contraperiodismomatrix.com/)
 - [Cosmos, alma y destino](https://plutonencapricornio.blogspot.com/)
 - [Crux et Gladius](https://cruxetgladius.blogspot.com/)
-- [Decode Hindu Mythology - Wikipedia](https://decodehindumythology.blogspot.com/)
+- [Decode Hindu Mythology](https://decodehindumythology.blogspot.com/) — Wikipedia
 - [Despertares.org](https://despertares.org/)
 - [Donde la verdad nos lleva](https://dondelaverdadnoslleva.blogspot.com/)
 - [Dustin Nemos](https://www.dustinnemos.com/)
@@ -1477,7 +1477,7 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [Great Dreams](http://www.greatdreams.com/)
 - [Guardacielos](http://guardacielos.org/)
 - [Heiwa Co Blog](https://heiwaco.tripod.com/)
-- [Historic.ly | Substack](https://historicly.substack.com/)
+- [Historic.ly](https://historicly.substack.com/) — Substack
 - [Huele a despertar](https://hueleadespertar.blogspot.com/)
 - [Illuminati Exposed](https://illuminatiexposed.home.blog/)
 - [Isabel Quiroz](https://isabelquiroz.wordpress.com/)
@@ -1500,7 +1500,7 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [Ouvrez les yeux](https://ouvrezlesyeux.org/)
 - [Para Mí Son Enigmas](https://paramisonenigmas.wordpress.com/)
 - [Poder Plano](https://poderplano.wordpress.com/)
-- [ProjectBubbleBurst’s Newsletter | Substack](https://projectbubbleburst.substack.com/)
+- [ProjectBubbleBurst’s Newsletter](https://projectbubbleburst.substack.com/) — Substack
 - [Psiconautas](https://psic0nautas.com/)
 - [Rafapal](https://rafapal.com/)
 - [Rense.com](https://rense.com/)
@@ -1516,7 +1516,7 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [Stop Vacunas](https://stopvacunas.wordpress.com/)
 - [The Black Vault](https://www.theblackvault.com/documentarchive)
 - [The Millennium Report](https://themillenniumreport.com/)
-- [THRIVE: What on Earth Will It Take?](http://www.thrivemovement.com/)
+- [THRIVE](http://www.thrivemovement.com/) — What on Earth Will It Take?
 - [Todo Está Relacionado](https://todoestarelacionado.wordpress.com/)
 - [Tony Topping](https://tonytopping.wordpress.com/)
 - [TreeCreativity](http://www.treecreativity.com/)
@@ -1529,7 +1529,7 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [WTC7.net](https://wtc7.net/)
 
 ##### FE Blog
-- [Aether Cosmology - Exploring our world](https://aethercosmology.com/)
+- [Aether Cosmology](https://aethercosmology.com/) — Exploring our world
 - [Flat Earth 101](http://flatearth101.com/)
 - [Flat Earth Conspiracy](https://www.flatearthconspiracy.com/)
 - [Flat Earth Research](https://www.flatearthresearch.com/)
@@ -1550,16 +1550,16 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [Justia](https://www.justia.com/)
 - [RCU María Cristina](https://www.rcumariacristina.com/)
 - [Science and Technology Law Review](https://stlr.org/)
-- [US Patent - Justia](https://patents.justia.com/)
+- [US Patent](https://patents.justia.com/) — Justia
 
 #### Personal Blog
-- ⭐ **[Eleanor Konik - Obsidian Iceberg](https://eleanorkonik.com/)**
+- ⭐ **[Eleanor Konik](https://eleanorkonik.com/)** — Obsidian Iceberg
 - [A Curious Mix](https://acuriousmix.com/)
 - [Abhinav Saxena](https://www.abhinavsaxena.com/)
 - [Aditya Telange Blog](https://adityatelange.in/)
-- [Alan Chan – Medium](https://alanchan1209.medium.com/)
+- [Alan Chan](https://alanchan1209.medium.com/) — Medium
 - [Alex's Notes](https://notes.alexkehayias.com/)
-- [Analytics Vidhya – Medium](https://medium.com/analytics-vidhya)
+- [Analytics Vidhya](https://medium.com/analytics-vidhya) — Medium
 - [Andy Matuschak](https://andymatuschak.org/)
 - [Anonymous News](https://anewspost.com/)
 - [Archaeogeek Blog](https://www.archaeogeek.com/)
@@ -1571,7 +1571,7 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [Batsov](https://batsov.com/)
 - [Bitcoin en Venezuela](https://satoshienvenezuela.com/)
 - [Blog of Peter](https://blog.brokep.com/)
-- [Bradley Nice – Medium](https://bradley-nice.medium.com/)
+- [Bradley Nice](https://bradley-nice.medium.com/) — Medium
 - [Brendan Eich](https://brendaneich.com/)
 - [Bret Victor, beast of burden](http://worrydream.com/#)
 - [Brewster Kahle's Blog](http://brewster.kahle.org/)
@@ -1579,13 +1579,13 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [catonmat](https://catonmat.net/)
 - [chaonan99's blog](https://chaonan99.github.io/)
 - [Chordian.net](https://blog.chordian.net/)
-- [Chris Aldrich | BoffoSocko](https://boffosocko.com/)
-- [Christoph Michel – Medium](https://cmichel.medium.com/)
-- [Chuiso | El Blog Prohibido](https://chuiso.com/)
+- [Chris Aldrich](https://boffosocko.com/) — BoffoSocko
+- [Christoph Michel](https://cmichel.medium.com/) — Medium
+- [Chuiso](https://chuiso.com/) — El Blog Prohibido
 - [Clean Coder Blog](https://blog.cleancoder.com/)
 - [Colin Walters](https://blog.verbum.org/)
 - [cr.yp.to](https://cr.yp.to/)
-- [Cryptobeat Newsletter | Substack](https://cryptobeat.substack.com/)
+- [Cryptobeat Newsletter](https://cryptobeat.substack.com/) — Substack
 - [Curtis McHale](https://curtismchale.ca/)
 - [Dan Russell's](https://sites.google.com/site/dmrussell)
 - [Dave Akerman](http://www.daveakerman.com/)
@@ -1598,7 +1598,7 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [Diginoodles](https://diginoodles.com/)
 - [DizzyTech](https://dizzytech.de/)
 - [dr460nf1r3 blog](https://dr460nf1r3.org/)
-- [Edward Snowden | Substack](https://edwardsnowden.substack.com/)
+- [Edward Snowden](https://edwardsnowden.substack.com/) — Substack
 - [El Arte de Vivir](https://silvanobaztan.com/)
 - [El Blog de Manuel M. Almeida](https://mmeida.com/)
 - [El Escritorio de Thalía Bello](https://elescritoriodethalia.home.blog/)
@@ -1607,39 +1607,39 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [Enrique Dans](https://www.enriquedans.com/)
 - [Evan Boehs](https://boehs.org/)
 - [Evgenii Neumerzhitckii](https://evgenii.com/)
-- [filosophy - Fil Zembowicz](https://filosophy.org/)
+- [filosophy](https://filosophy.org/) — Fil Zembowicz
 - [Forward Scattering](https://forwardscattering.org/)
 - [From bear creek](https://www.frombearcreek.com/)
 - [furialog](https://furia.com/)
 - [Game Dev Bill](https://gamedevbill.com/)
 - [Giles Bathgate](https://gilesbathgate.com/)
 - [GilesOrr.com](https://www.gilesorr.com/)
-- [Gödel's | Alexander Rink | Substack](https://www.goedel.io/)
+- [Gödel's](https://www.goedel.io/) — Alexander Rink | Substack
 - [Granmisterio.org](https://granmisterio.org/)
 - [Grumpy Gamer](https://grumpygamer.com/)
 - [GuionistaEnfurecido.org](https://www.guionistaenfurecido.org/)
 - [Hakan Torun](https://hakan.io/)
 - [Harguel](https://harguel.com/)
 - [Hiran Venugopalan](https://hiran.in/)
-- [Honest blog - Prague](https://honest.blog/)
+- [Honest blog](https://honest.blog/) — Prague
 - [Horitzons llunyans](https://horitzonsllunyans.wordpress.com/)
-- [Huabing Zhao – Medium](https://medium.com/@zhaohuabing)
+- [Huabing Zhao](https://medium.com/@zhaohuabing) — Medium
 - [Ideasgrab](https://www.ideasgrab.com/)
 - [Incognitosis](https://javipas.com/)
-- [Indie author | Substack](https://indie.substack.com/)
+- [Indie author](https://indie.substack.com/) — Substack
 - [Indie writer diary](https://indiewriter.net/)
-- [inessential: weblog](https://inessential.com/)
+- [inessential](https://inessential.com/) — weblog
 - [Inteligencia Narrativa](https://www.inteligencianarrativa.com/)
-- [Ivank Blog - Algorithms and Stuff](https://blog.ivank.net/)
-- [Jacopo Jannone - blog](https://blog.jacopo.io/en/)
+- [Ivank Blog](https://blog.ivank.net/) — Algorithms and Stuff
+- [Jacopo Jannone](https://blog.jacopo.io/en/) — blog
 - [JakeArchibald](https://jakearchibald.com/)
 - [Jan van den Berg](https://j11g.com/)
 - [Jason Ross](https://www.jasonross.dev/)
 - [Jeffrey Paul](https://sneak.berlin/)
 - [Jessie Frazelle Blog](https://jessfraz.com/)
-- [Joe's Blog — a non-linear personal web notebook](https://joearms.github.io/#Index)
+- [Joe's Blog](https://joearms.github.io/#Index) — a non-linear personal web notebook
 - [John Neuhaus](https://www.jneuhaus.com/)
-- [Johnny Cirucci – Where Resistance is Rising!](https://johnnycirucci.com/)
+- [Johnny Cirucci](https://johnnycirucci.com/) — Where Resistance is Rising!
 - [Jonathan Borichevskiy Blog](https://jon.bo/)
 - [Jonna Jinton](https://jonnajinton.se/)
 - [Jordan Simonovski](https://blog.jordansimonov.ski/posts/)
@@ -1647,7 +1647,7 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [jWork](https://jwork.org/home)
 - [Kalzumeus](https://www.kalzumeus.com/)
 - [Kevin Quinn Blog](https://kevinquinn.fun/)
-- [Kokorobot - 100R](https://kokorobot.ca/site/home.html)
+- [Kokorobot](https://kokorobot.ca/site/home.html) — 100R
 - [Kooslooijesteijn Blog](https://www.kooslooijesteijn.net/)
 - [Kunyang's Blog](https://kyxie.github.io/en/)
 - [La otra perspectiva](https://perspectiva.home.blog/)
@@ -1656,12 +1656,12 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [Larry Sanger Microblog](https://startthis.org/)
 - [Lazy Ren's Blog](https://lazyren.github.io/)
 - [Leah Ferguson](https://leahferguson.com/)
-- [Luis Llamas - Ingeniería, informática y diseño (Zaragoza)](https://www.luisllamas.es/)
+- [Luis Llamas](https://www.luisllamas.es/) — Ingeniería, informática y diseño (Zaragoza)
 - [Luke Smith](https://lukesmith.xyz/)
 - [Mangas Verdes](https://mangasverdes.es/wp-content/cache/all/index.html)
 - [MargaYes](https://margayes.com/)
 - [Matáis De Stefano](https://www.matiasdestefano.org/)
-- [Mataroa — Blogging platform for minimalists](https://mataroa.blog/)
+- [Mataroa](https://mataroa.blog/) — Blogging platform for minimalists
 - [Matej Jelluš](https://juffalow.com/)
 - [Matt on Not-Wordpress](https://matt.blog/)
 - [Maxime Vaillancourt](https://maximevaillancourt.com/)
@@ -1684,11 +1684,11 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [PKM Beth](https://www.pkmbeth.com/)
 - [Pleşoianu.ro](https://plesoianu.ro/)
 - [Powerplatformninja](http://www.powerplatformninja.com/)
-- [Prakash Joshi Pax – Medium](https://beingpax.medium.com/)
+- [Prakash Joshi Pax](https://beingpax.medium.com/) — Medium
 - [Raghu's Notes and Thoughts](https://rgvr.me/)
 - [Random:seed](https://randomseed.io/)
 - [Rapt-Neo](https://rapt-neo.com/)
-- [Rationality: A-Z - LessWrong](https://www.lesswrong.com/rationality)
+- [Rationality](https://www.lesswrong.com/rationality) — A-Z - LessWrong
 - [Reclaim The Net](https://reclaimthenet.org/)
 - [Refined Mind](https://refinedmind.co/)
 - [Relatos de la Naturaleza](https://relatosdelanaturaleza.org/)
@@ -1701,28 +1701,28 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [Sam Altman](https://blog.samaltman.com/archive)
 - [Savio Martin Blog](https://blog.saviomartin.com/)
 - [schneegans.de](https://schneegans.de/)
-- [Screenlace - How people started successful YouTube channels](https://screenlace.com/)
+- [Screenlace](https://screenlace.com/) — How people started successful YouTube channels
 - [Seth's Blog](https://seths.blog/)
 - [Sheracaolity](https://sheracaolity.ghost.io/)
 - [Simon Willison’s Weblog](https://simonwillison.net/)
 - [sixtwothree.org](https://sixtwothree.org/)
-- [Sophia Yang – Medium](https://sophiamyang.medium.com/)
+- [Sophia Yang](https://sophiamyang.medium.com/) — Medium
 - [splitbrain.org](https://www.splitbrain.org/blog)
 - [Steph Ango](https://stephango.com/)
 - [Stephen Reid](https://stephenreid.net/)
 - [Stephen Wolfram](https://www.stephenwolfram.com/)
 - [Subpixel Space](https://subpixel.space/)
-- [Tariq KRIM – Medium](https://medium.com/@tariqkrim)
+- [Tariq KRIM](https://medium.com/@tariqkrim) — Medium
 - [tartley.com](https://www.tartley.com/)
 - [Telumire's blog](https://www.telumire.be/)
 - [The Edge of Being](https://www.edgeofbeing.org/)
 - [the Geeklab](https://thegeeklab.de/)
 - [The Linux Cast](https://thelinuxcast.org/)
-- [The Ponzi Papers | M. Crosby | Substack](https://theponzipapers.substack.com/)
+- [The Ponzi Papers](https://theponzipapers.substack.com/) — M. Crosby | Substack
 - [The poor man's math blog](http://blog.poormansmath.net/)
 - [The Pragmatic Engineer](https://www.pragmaticengineer.com/)
 - [The Slightly Disgruntled Scientist](https://heeris.id.au/)
-- [The Stoa | Substack](https://thestoa.substack.com/)
+- [The Stoa](https://thestoa.substack.com/) — Substack
 - [The Untitled Site by Christopher Lawley](https://theuntitledsite.com/)
 - [Thoughtbot Blog](https://thoughtbot.com/blog)
 - [Tim Hårek](https://timharek.no/)
@@ -1730,7 +1730,7 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [Toad Hall](http://www.toad.com/)
 - [tomondre's blog](https://blog.tomondre.com/)
 - [TRLA](https://thereallisaann.com/)
-- [trms – by Lorenzo Gravina](https://trms.me/)
+- [trms](https://trms.me/) — by Lorenzo Gravina
 - [Troy Hunt](https://www.troyhunt.com/)
 - [Undecided with Matt Ferrell](https://undecidedmf.com/)
 - [Vaxry's Blog](https://blog.vaxry.net/)
@@ -1739,7 +1739,7 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [Wait But Why](https://waitbutwhy.com/)
 - [Walkssi](https://walkssi.com/)
 - [Walter Fendt](https://www.walter-fendt.de/)
-- [Win-Win | Liv Boeree | Substack](https://www.winwinpodcast.com/)
+- [Win-Win](https://www.winwinpodcast.com/) — Liv Boeree | Substack
 - [Wouter Aukema](http://www.aukema.org/)
 - [Xaymar blog](https://blog.xaymar.com/)
 - [Yktoo Blog](https://yktoo.com/en/)
@@ -1756,17 +1756,17 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [aduros.com](https://aduros.com/)
 - [Alex Lakatos](https://alexlakatos.com/)
 - [Arighi's blog](http://arighi.blogspot.com/)
-- [Attila Orosz - Medium](https://attilaorosz.medium.com/)
+- [Attila Orosz](https://attilaorosz.medium.com/) — Medium
 - [Benjamin Oakes Blog](https://www.benjaminoakes.com/)
-- [ByteByteGo Newsletter | Alex Xu | Substack](https://blog.bytebytego.com/)
-- [Charlie Gerard | Senior frontend developer & Creative Technologist](https://charliegerard.dev/)
+- [ByteByteGo Newsletter](https://blog.bytebytego.com/) — Alex Xu | Substack
+- [Charlie Gerard](https://charliegerard.dev/) — Senior frontend developer & Creative Technologist
 - [Chen Hui Jing](https://chenhuijing.com/)
 - [conradlin](https://www.conradlin.com/)
 - [Everything That Went Wrong With Claude](https://clawd.rip/)
 - [Gabriel Chávez blog](https://gabrielchavez.me/)
 - [Gettalong](https://gettalong.org/)
 - [Gusty's Oasis](https://gusted.xyz/)
-- [HackMii — Notes from inside your Wii](https://hackmii.com/)
+- [HackMii](https://hackmii.com/) — Notes from inside your Wii
 - [Jared Forsyth](https://jaredforsyth.com/)
 - [joschua.io](https://joschua.io/)
 - [Juan Pallarès Garbí](https://juan.pallares.me/)
@@ -1778,7 +1778,7 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [Sheldon Hull // Developer](https://www.sheldonhull.com/)
 - [snowscan.io](https://snowscan.io/)
 - [Soulwire](https://soulwire.co.uk/)
-- [System Design Newsletter | Neo Kim | Substack](https://newsletter.systemdesign.one/)
+- [System Design Newsletter](https://newsletter.systemdesign.one/) — Neo Kim | Substack
 - [The Mindful Programmer](https://jonisalonen.com/)
 - [Timo Schick blog](http://www.timoschick.com/)
 - [Xetera](https://xetera.dev/)
@@ -1790,7 +1790,7 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [Chrome Releases](https://chromereleases.googleblog.com/)
 - [Cisco Blogs](https://blogs.cisco.com/)
 - [Coreboot Blog](https://blogs.coreboot.org/)
-- [EasternGraphics - blog](https://www.easterngraphics.com/es)
+- [EasternGraphics](https://www.easterngraphics.com/es) — blog
 - [Excalidraw Blog](https://blog.excalidraw.com/)
 - [FactGrid Blog](https://blog.factgrid.de/)
 - [Feedly Blog](https://blog.feedly.com/)
@@ -1819,7 +1819,7 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [Tinkercad Blog](https://blog.tinkercad.com/)
 - [Tor Blog](https://blog.torproject.org/)
 - [Vivaldi blog](https://vivaldi.net/)
-- [Wikimedia - TechBlog](https://techblog.wikimedia.org/)
+- [Wikimedia](https://techblog.wikimedia.org/) — TechBlog
 - [X.company Blog](https://blog.x.company/)
 - [Xbox Wire](https://news.xbox.com/en-us)
 - [Yelp Blog](https://blog.yelp.com/)
@@ -1868,11 +1868,11 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [YouTube Blog](https://blog.youtube/)
 
 #### Travel Blog
-- [ADondeVamosHoyTenerife - Blog](https://adondevamoshoytenerife.com/category/listas)
+- [ADondeVamosHoyTenerife](https://adondevamoshoytenerife.com/category/listas) — Blog
 - [Backpacking New Zealand Travel Guide, Backpacker Hostels, Jobs, Tours, Working Holiday](https://backpackerboard.co.nz/)
 - [Cuaderno de Viajes](https://www.anamoralesblog.com/)
 - [Historias de China](https://www.historiasdechina.com/)
-- [Las sandalias de Ulises | Blog de viajes](https://lassandaliasdeulises.com/)
+- [Las sandalias de Ulises](https://lassandaliasdeulises.com/) — Blog de viajes
 - [NekoJitaBlog](https://nekojitablog.blogspot.com/)
 - [Ojo de Nómada](https://ojodenomada.com/)
 - [Twosometravellers](https://www.twosometravellers.com/)
@@ -1900,15 +1900,15 @@ description: News, blogs, digital gardens, libraries, and magazines
 
 #### Privacy Guide
 - [Censorship Bypass Guide](https://cbg.fmhy.bid/)
-- [Digital Defense - The ultimate personal security checklist to secure your digital life](https://digital-defense.io/)
+- [Digital Defense](https://digital-defense.io/) — The ultimate personal security checklist to secure your digital life
 - [Hitchhiker’s Guide](https://anonymousplanet.org/guide/)
-- [kaleedtc/Privacium: A simple app for discovering tools that respects your privacy](https://github.com/kaleedtc/Privacium)
-- [Privacy Guides: Your Independent Privacy and Security Resource](https://www.privacyguides.org/en/)
+- [kaleedtc/Privacium](https://github.com/kaleedtc/Privacium) — A simple app for discovering tools that respects your privacy
+- [Privacy Guides](https://www.privacyguides.org/en/) — Your Independent Privacy and Security Resource
 - [Self-Defense EFF](https://ssd.eff.org/)
 - [The New Oil](https://thenewoil.org/en/)
 
 #### Productivity Blog
-- ⭐ **[Untools - Tools for better thinking](https://untools.co/)**
+- ⭐ **[Untools](https://untools.co/)** — Tools for better thinking
 - ⭐ **[Uses This / Interviews](https://usesthis.com/)**
 - [Aprende Notion](https://aprendenotion.com/)
 - [Axle](https://axle.design/)
@@ -1924,11 +1924,11 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [Harley Stagner](https://harleystagner.com/)
 - [Keep Productive](https://www.keepproductive.com/)
 - [Klise Theme](https://klise.vercel.app/)
-- [Leadership by 16Personalities | Substack](https://16personalities.substack.com/)
+- [Leadership by 16Personalities](https://16personalities.substack.com/) — Substack
 - [LivingOS Coaching| Substack](https://livingos.substack.com/)
 - [Mindstone Consulting](https://www.mindstoneconsulting.net/)
 - [Ness Labs](https://nesslabs.com/)
-- [Obsidian Rocks - Exploring knowledge management with Obsidian](https://obsidian.rocks/)
+- [Obsidian Rocks](https://obsidian.rocks/) — Exploring knowledge management with Obsidian
 - [Obsidian Roundup](https://obsidianroundup.org/)
 - [One Stuttering Mind](https://www.onestutteringmind.com/)
 - [RoamBrain](http://roambrain.com/)
@@ -1941,42 +1941,42 @@ description: News, blogs, digital gardens, libraries, and magazines
 
 #### Digital Garden
 - ⭐ **[Gwern Branwen](https://www.gwern.net/)**
-- ⭐ **[Hundred Rabbits - 100R](https://100r.co/site/home.html)**
-- ⭐ **[nikiv - Knowledge Wiki 🌿](https://wiki.nikiv.dev/)**
-- ⭐ **[Obsidian Hub - Obsidian Publish](https://publish.obsidian.md/hub/00+-+Start+here)**
-- ⭐ **[Ole notes - Digital Garden](https://notes.ole.dev/)**
+- ⭐ **[Hundred Rabbits](https://100r.co/site/home.html)** — 100R
+- ⭐ **[nikiv](https://wiki.nikiv.dev/)** — Knowledge Wiki 🌿
+- ⭐ **[Obsidian Hub](https://publish.obsidian.md/hub/00+-+Start+here)** — Obsidian Publish
+- ⭐ **[Ole notes](https://notes.ole.dev/)** — Digital Garden
 - ⭐ **[ProjectBubbleBurst](https://projectbubbleburst.com/000START+HERE)**
 - ⭐ **[TfT Hacker](https://tfthacker.com/Welcome)**
 - ⭐ **[The Threshold](https://hermitage.utsob.me/)**
-- ⭐ **[XXIIVV wiki - 100R](https://wiki.xxiivv.com/site/home.html)**
+- ⭐ **[XXIIVV wiki](https://wiki.xxiivv.com/site/home.html)** — 100R
 - [/dan/](https://dan.valeena.dev/)
 - [0x8c notes](https://notes.0x8c.org/)
 - [a2itnotes](https://a2itnotes.github.io/quartz/)
-- [Aaron Young - Digital Garden](https://ajy.co/)
+- [Aaron Young](https://ajy.co/) — Digital Garden
 - [Aiuanyu DG](https://aiuanyu.vercel.app/)
-- [Alexis Rondeau - Obsidian Publish](https://publish.obsidian.md/alexisrondeau)
-- [Alexis Rondeau - Obsidian Publish](https://publish.obsidian.md/alexisrondeau/Welcome+to+my+digital+garden)
-- [Andymatuschak - Obsidian Publish](https://notes.andymatuschak.org/About_these_notes)
-- [Andymatuschak - Obsidian Publish](https://publish.obsidian.md/andymatuschak/)
-- [Angelica Fonseca portafolio — TiddleHost](https://angelicafonseca.tiddlyhost.com/)
-- [anthonyamar - second-brain](https://anthonyamar.fr/Welcome+in+my+mind+%F0%9F%A7%A0)
-- [Argentum's notes - Obsidian Publish](https://publish.obsidian.md/argenos/argentum's+notes)
+- [Alexis Rondeau](https://publish.obsidian.md/alexisrondeau) — Obsidian Publish
+- [Alexis Rondeau](https://publish.obsidian.md/alexisrondeau/Welcome+to+my+digital+garden) — Obsidian Publish
+- [Andymatuschak](https://notes.andymatuschak.org/About_these_notes) — Obsidian Publish
+- [Andymatuschak](https://publish.obsidian.md/andymatuschak/) — Obsidian Publish
+- [Angelica Fonseca portafolio](https://angelicafonseca.tiddlyhost.com/) — TiddleHost
+- [anthonyamar](https://anthonyamar.fr/Welcome+in+my+mind+%F0%9F%A7%A0) — second-brain
+- [Argentum's notes](https://publish.obsidian.md/argenos/argentum's+notes) — Obsidian Publish
 - [Aster's notebook](https://notes.asterhu.com/)
-- [AstroSlips - daichidaiji](https://slipbox.daichidaiji.com/)
+- [AstroSlips](https://slipbox.daichidaiji.com/) — daichidaiji
 - [AWAGMI?](https://notes.awagmi.xyz/)
-- [bakke - hwiki](https://hwiki.bakke.be/)
+- [bakke](https://hwiki.bakke.be/) — hwiki
 - [Bea's Digital Garden](https://beasdigitalgarden.netlify.app/)
 - [beepb00p](https://beepb00p.xyz/)
 - [Ben's Notes](https://notes.bencuan.me/)
 - [Bianca's Digital Garden 🧠](https://garden.bianca.digital/)
-- [Bible - TIddleHost](https://bible.tiddlyhost.com/)
+- [Bible](https://bible.tiddlyhost.com/) — TIddleHost
 - [Bit Garden](https://bit-garden.vercel.app/)
-- [Books beasn Boots - Digital Garden](https://booksbeansboots.co.uk/)
-- [Bryan Jenks - Petrichor](https://publish.obsidian.md/bryan-jenks/Z/INDEX)
+- [Books beasn Boots](https://booksbeansboots.co.uk/) — Digital Garden
+- [Bryan Jenks](https://publish.obsidian.md/bryan-jenks/Z/INDEX) — Petrichor
 - [BryanJenks Notes](https://notes.bryanjenks.dev/Z/HOME)
 - [c4ss1us.lab digital garden](https://digitalgarden-c4ss1uslab.vercel.app/)
 - [c4ss1us' garden](https://c4ss1usgarden.vercel.app/)
-- [Chromatically - Obsidian Publish](https://publish.obsidian.md/chromatically/publish+homepage)
+- [Chromatically](https://publish.obsidian.md/chromatically/publish+homepage) — Obsidian Publish
 - [Data Engineering Wiki](https://dataengineering.wiki/Index)
 - [Data Glossary 🧠](https://glossary.airbyte.com/)
 - [Digital 3D Garden](https://stephanlevin.garden/Welcome)
@@ -1993,29 +1993,29 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [Fiction Becomes Fact](https://fictionbecomesfact.com/)
 - [FishForYou](https://notebooks.tiddlyhost.com/)
 - [flower.codes](http://flower.codes/)
-- [Fork My Brain - Nicole van der Hoeven](https://notes.nicolevanderhoeven.com/Fork+My+Brain)
-- [Garden's Gate - pmcf.xyz](https://www.pmcf.xyz/topo-da-mente/)
+- [Fork My Brain](https://notes.nicolevanderhoeven.com/Fork+My+Brain) — Nicole van der Hoeven
+- [Garden's Gate](https://www.pmcf.xyz/topo-da-mente/) — pmcf.xyz
 - [GLJ's Garden](https://glj0.eu.org/)
-- [Google fonts — TiddlyHost](https://google-fonts.tiddlyhost.com/)
+- [Google fonts](https://google-fonts.tiddlyhost.com/) — TiddlyHost
 - [Hananoshika Yomaru](https://yomaru.dev/home)
 - [Hartwell Tome](https://hartwellto.me/A+Curious+Place/The+Tome+Awaits...)
-- [HXHC-Notes - Digital Garden](https://notes.hxhc.xyz/)
-- [Icewind Dale - Digital Garden](https://icewind.quest/)
+- [HXHC-Notes](https://notes.hxhc.xyz/) — Digital Garden
+- [Icewind Dale](https://icewind.quest/) — Digital Garden
 - [Javalent Plugins](https://plugins.javalent.com/home)
 - [Jenna's Homepage](https://polyrain.dev/Hi!+My+name's+Jenna!)
 - [Joel's digital garden](https://joelhooks.com/)
-- [john.app - No Lies, Just Love](https://john.app/)
+- [john.app](https://john.app/) — No Lies, Just Love
 - [Johnmavrick Notes](https://notes.johnmavrick.com/)
 - [Joschua's Garden](https://joschuasgarden.com/50+Slipbox/Welcome!)
 - [Joschua's Notes](https://notes.joschua.io/)
-- [Joschua’s Notes - Obsidian Publish](https://notes.joschua.io/50+Slipbox/Welcome!)
+- [Joschua’s Notes](https://notes.joschua.io/50+Slipbox/Welcome!) — Obsidian Publish
 - [Justin Walker](https://jpwalkermusic.co/Home)
 - [Jzhao.xyz](https://jzhao.xyz/)
 - [KaaS](https://kaas.jimbrig.com/)
-- [KaaS - Obsidian Publish](https://publish.obsidian.md/kaas-published/README)
+- [KaaS](https://publish.obsidian.md/kaas-published/README) — Obsidian Publish
 - [Kerim's Digital Garden](https://garden.oxus.net/)
 - [Kevin Slin (Digital Garden)](https://www.kevinslin.com/)
-- [Keyvan Akbary - learning notes](https://keyvanakbary.github.io/learning-notes/)
+- [Keyvan Akbary](https://keyvanakbary.github.io/learning-notes/) — learning notes
 - [Leah Ferguson](https://publish.obsidian.md/leah/Home)
 - [List of Patterns](https://patternlanguage.cc/)
 - [louis030195](https://brain.louis030195.com/README)
@@ -2023,69 +2023,69 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [LYT Kit](https://notes.linkingyourthinking.com/Home)
 - [LYT Kit](https://www.linkingyourthinking.com/lyt-kit-course/onboarding)
 - [Maple Circuit](https://maplecircuit.dev/)
-- [Marco Noris — lab](https://lab.marconoris.com/)
+- [Marco Noris](https://lab.marconoris.com/) — lab
 - [Mark's Notes](https://notes.philoserf.com/Index)
-- [Mathieu Dutour - GitHub Pages](https://mathieudutour.github.io/gatsby-digital-garden/)
-- [Matters of matter - Obsidian Publish](https://publish.obsidian.md/zvtoth/Matter+project/General+resources/%E2%96%AB%EF%B8%8F+Matters+of+matter)
-- [Metec - TiddleHost](https://metec.tiddlyhost.com/#Introducci%C3%B3:Introducci%C3%B3)
+- [Mathieu Dutour](https://mathieudutour.github.io/gatsby-digital-garden/) — GitHub Pages
+- [Matters of matter](https://publish.obsidian.md/zvtoth/Matter+project/General+resources/%E2%96%AB%EF%B8%8F+Matters+of+matter) — Obsidian Publish
+- [Metec](https://metec.tiddlyhost.com/#Introducci%C3%B3:Introducci%C3%B3) — TiddleHost
 - [Mister chad](https://mister-chad.com/welcome)
-- [mister chad - Obsidian Publish](https://publish.obsidian.md/mister-chad/welcome)
-- [My recipe collection - DeepPass](https://recipes.deeppass.net/)
-- [myaiba - Obsidian Publish](https://publish.obsidian.md/myaiba/myaiba)
-- [myNotes - TIddlehost](https://bgmnotes.tiddlyhost.com/)
+- [mister chad](https://publish.obsidian.md/mister-chad/welcome) — Obsidian Publish
+- [My recipe collection](https://recipes.deeppass.net/) — DeepPass
+- [myaiba](https://publish.obsidian.md/myaiba/myaiba) — Obsidian Publish
+- [myNotes](https://bgmnotes.tiddlyhost.com/) — TIddlehost
 - [NFT Standards Wiki](https://www.nftstandards.wtf/NFT+Standards+Wiki+-+READ.me)
-- [niallbell - The Cave](https://cave.niallbell.com/)
-- [Nisheet Patel - Resources](https://www.nisheetpatel.me/resources)
+- [niallbell](https://cave.niallbell.com/) — The Cave
+- [Nisheet Patel](https://www.nisheetpatel.me/resources) — Resources
 - [Nitin Pai's Notes](https://notes.nitinpai.in/Start+Here)
 - [No Trace Project](https://www.notrace.how/)
 - [nomad.co](https://nomand.co/site/home.html)
-- [Notas sobre el ahora - Ouroboros lab](https://lab.marconoris.com/now)
+- [Notas sobre el ahora](https://lab.marconoris.com/now) — Ouroboros lab
 - [Obsidian-Excalidraw](https://excalidraw-obsidian.online/Welcome)
-- [Old Winter - Garden](https://garden.oldwinter.top/)
-- [Owen Young - Foam wiki](https://wiki.owenyoung.com/)
+- [Old Winter](https://garden.oldwinter.top/) — Garden
+- [Owen Young](https://wiki.owenyoung.com/) — Foam wiki
 - [Pawelel PKM](https://pawelel.netlify.app/)
-- [Perlite - Secure77](https://perlite.secure77.de/)
+- [Perlite](https://perlite.secure77.de/) — Secure77
 - [Peter's Second 🧠](https://peteryuen.netlify.app/)
 - [Pheelwell Garden](https://pheelwell-garden.vercel.app/)
 - [phoenix-blog 一车面包人](https://perch.parasoltree.top/)
 - [Portafolio Deysy -TiddleHost](https://portafolio.tiddlyhost.com/)
-- [Portafolio Yesika Parra - TiddleHost](https://portafolio1.tiddlyhost.com/)
+- [Portafolio Yesika Parra](https://portafolio1.tiddlyhost.com/) — TiddleHost
 - [Qwxlea Digital Garden](https://qwxlea.org/current)
 - [Rachel's Notes](https://publish.obsidian.md/rachel/Hello)
 - [Radio Stations TiddleHost](https://radio.tiddlyhost.com/)
-- [Razvan Andrei Surdu - Digital Garden](https://razvan-andrei-surdu.eu/)
-- [Roget's Thesaurus - Obsidian Publish](https://publish.obsidian.md/rogets/Vocabulary/note)
-- [Santi Younger Notes - Obsidian Publish](https://santiyounger.blog/daily)
+- [Razvan Andrei Surdu](https://razvan-andrei-surdu.eu/) — Digital Garden
+- [Roget's Thesaurus](https://publish.obsidian.md/rogets/Vocabulary/note) — Obsidian Publish
+- [Santi Younger Notes](https://santiyounger.blog/daily) — Obsidian Publish
 - [Scalingsyn Thesis](https://scalingsynthesis.com/)
 - [sean.fish](https://sean.fish/)
 - [SethMB Work](https://sethmb.xyz/)
-- [Shane's FE Model - Obsidian Publish](https://publish.obsidian.md/shanesql/Shanes+FE+Model)
+- [Shane's FE Model](https://publish.obsidian.md/shanesql/Shanes+FE+Model) — Obsidian Publish
 - [Shihyu's PKM](https://shihyuho.github.io/pkm/)
-- [SlRvb - Obsidian Publish](https://publish.obsidian.md/slrvb/90+Site/SlRvb+Home)
+- [SlRvb](https://publish.obsidian.md/slrvb/90+Site/SlRvb+Home) — Obsidian Publish
 - [Socratica](https://toolbox.socratica.info/)
-- [spaceaudits - Obsidian Publish](https://publish.obsidian.md/spaceaudits)
+- [spaceaudits](https://publish.obsidian.md/spaceaudits) — Obsidian Publish
 - [Spiritual Digital Garden](https://spiritual-garden.com/)
 - [Sspaeti Second Brain 🧠](https://brain.sspaeti.com/)
-- [Steam Deck Guide — TiddleHost](https://steamdeckguide.tiddlyhost.com/)
+- [Steam Deck Guide](https://steamdeckguide.tiddlyhost.com/) — TiddleHost
 - [TAET (trial an error tech)](https://trialanderror.tech/)
 - [textfiles.com](http://www.textfiles.com/)
-- [Thatother - Digital Garden](https://notes.thatother.dev/)
-- [The Blue Book - Lyz Code](https://lyz-code.github.io/blue-book/)
+- [Thatother](https://notes.thatother.dev/) — Digital Garden
+- [The Blue Book](https://lyz-code.github.io/blue-book/) — Lyz Code
 - [The Book of Concord Online](https://lutheranconfessions.org/)
 - [The Courtyard](https://siyangsun.github.io/courtyard/)
 - [The Golden Forest](https://www.lorien.cloud/docs/docs-intro)
-- [The Integral Guide to Well-Being - Obsidian Publish](https://integralguide.com/%E2%AD%90%EF%B8%8F+Start+Here/About)
-- [The Intersect - rknight](https://intersect.rknight.me/)
-- [The Quantum Well - Obsidian Publish](https://publish.obsidian.md/myquantumwell/Welcome+to+The+Quantum+Well!)
-- [The Thought Garden - Alexrinehart](https://garden.alexrinehart.net/)
+- [The Integral Guide to Well-Being](https://integralguide.com/%E2%AD%90%EF%B8%8F+Start+Here/About) — Obsidian Publish
+- [The Intersect](https://intersect.rknight.me/) — rknight
+- [The Quantum Well](https://publish.obsidian.md/myquantumwell/Welcome+to+The+Quantum+Well!) — Obsidian Publish
+- [The Thought Garden](https://garden.alexrinehart.net/) — Alexrinehart
 - [The Ultramarine Archipelago](https://the-ultramarine-archipelago.tiddlyhost.com/)
-- [TiddlyWiki Starter — TIddlehost](https://starter.tiddlyhost.com/)
+- [TiddlyWiki Starter](https://starter.tiddlyhost.com/) — TIddlehost
 - [Walk in the Forest](https://walkintheforest.com/Content/%F0%9F%91%8B%F0%9F%8F%BD+Welcome)
-- [Welcome 🌌 - John's Digital Galaxy 🌌](https://notes.johnmavrick.com/Digital+Galaxy/Welcome+%F0%9F%8C%8C)
-- [Wiki Club Aluche — TiddleHost](https://club-ciclista-aluche.tiddlyhost.com/)
-- [WikiTerra](https://wikiterra.github.io/) / [🔗](https://github.com/wikiterra/wikiterra.github.io/)
+- [Welcome 🌌](https://notes.johnmavrick.com/Digital+Galaxy/Welcome+%F0%9F%8C%8C) — John's Digital Galaxy 🌌
+- [Wiki Club Aluche](https://club-ciclista-aluche.tiddlyhost.com/) — TiddleHost
+- [WikiTerra](https://wikiterra.github.io/) / <a href="https://github.com/wikiterra/wikiterra.github.io/"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [Writing Note by Note](https://writingnotebynote.com/)
-- [XXIIVV - Webring](https://webring.xxiivv.com/)
+- [XXIIVV](https://webring.xxiivv.com/) — Webring
 - [Zytomorrow DG](https://zytomorrow.top/)
 
 #### SFF Blog
@@ -2114,7 +2114,7 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [Autosport](https://www.autosport.com/)
 - [Barstool Sports](https://www.barstoolsports.com/)
 - [Baseball America](https://www.baseballamerica.com/)
-- [beIN SPORTS - Exclusive coverage of Copa Libertadores, Copa Sudamericana, Ligue 1, AFCON, Turkish Süper Lig & more](https://www.beinsports.com/en-us)
+- [beIN SPORTS](https://www.beinsports.com/en-us) — Exclusive coverage of Copa Libertadores, Copa Sudamericana, Ligue 1, AFCON, Turkish Süper Lig & more
 - [Bicycling](https://www.bicycling.com/)
 - [Bleacher Report](https://www.bleacherreport.com/)
 - [Boxing News](https://www.boxingnewsonline.net/)
@@ -2130,14 +2130,14 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [gazzetta.gr](https://www.gazzetta.gr/)
 - [Goal.com](https://www.goal.com/es)
 - [Grandprix](https://www.grandprix.com/)
-- [HDsports - Home of Distance Runners](https://www.hdsports.org/)
+- [HDsports](https://www.hdsports.org/) — Home of Distance Runners
 - [Iron Man Magazine](https://www.ironmanmagazine.com/)
 - [LAOLA1](https://www.laola1.at/de/)
 - [MLB](https://www.mlb.com/)
 - [Muscle & Fitness](https://www.muscleandfitness.com/)
 - [NBC Sports](https://www.nbcsports.com/)
-- [New In Chess - Chess Books, Chess Magazines & Chess Shop](https://www.newinchess.com/)
-- [NFL - National Football League](https://www.nfl.com/)
+- [New In Chess](https://www.newinchess.com/) — Chess Books, Chess Magazines & Chess Shop
+- [NFL](https://www.nfl.com/) — National Football League
 - [NHL](https://www.nhl.com/)
 - [Ohmyfootball](https://ohmyfootball.com/)
 - [Outdoor Life](https://www.outdoorlife.com/)
@@ -2150,7 +2150,7 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [SLAM](https://www.slamonline.com/)
 - [Snowboarder Magazine](https://www.snowboarder.com/)
 - [Spark Sport](https://www.sparksport.co.nz/)
-- [Sport Illustrated - Swimsuit](https://swimsuit.si.com/)
+- [Sport Illustrated](https://swimsuit.si.com/) — Swimsuit
 - [Sporting News](https://www.sportingnews.com/)
 - [Sporting News](https://www.sportingnews.com/en)
 - [Sports Illustrated](https://www.si.com/)
@@ -2159,7 +2159,7 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [Telemundo Deportes](https://www.telemundodeportes.com/)
 - [Tennis.com](https://www.tennis.com/)
 - [The Athletic](https://theathletic.com/)
-- [The Chess Journal - Tips, Tutorials, and Guides For Chess Players](https://www.chessjournal.com/)
+- [The Chess Journal](https://www.chessjournal.com/) — Tips, Tutorials, and Guides For Chess Players
 - [The Hockey News](https://www.si.com/hockey)
 - [The Masters Tournament](https://www.masters.com/index.html)
 - [The Players’ Tribune](https://www.theplayerstribune.com/global)
@@ -2195,12 +2195,12 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [Thirty Five Ventures](https://thirtyfiveventures.com/)
 
 #### Football Mag
-- [AS.com - Diario online deportivo](https://as.com/)
+- [AS.com](https://as.com/) — Diario online deportivo
 - [ElDesmarque](https://www.eldesmarque.com/)
 - [FourFourTwo](https://www.fourfourtwo.com/)
 - [France Footbal](https://www.francefootball.fr/)
 - [La Gazzetta](https://www.gazzetta.it/)
-- [MARCA - Diario online deportivo](https://www.marca.com/)
+- [MARCA](https://www.marca.com/) — Diario online deportivo
 - [Mundo Deportivo](https://www.mundodeportivo.com/)
 - [Sport](https://www.sport.es/es/)
 - [SportMob](https://sportmob.com/en)
@@ -2213,7 +2213,7 @@ description: News, blogs, digital gardens, libraries, and magazines
 #### Chess Mag
 - [Chess News](https://en.chessbase.com/)
 - [Chess-Results Server](https://chess-results.com/)
-- [Chessdom - Chess, chess news, live chess games](https://www.chessdom.com/)
+- [Chessdom](https://www.chessdom.com/) — Chess, chess news, live chess games
 
 #### Judo Mag
 - [Judo Info](https://judoinfo.com/)
@@ -2223,10 +2223,10 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [Kodokan Judo Institute](http://www.kodokanjudoinstitute.org/en)
 
 #### Running Mag
-- [Finishers - Calendario de carreras: senderos, semi, maratones, caminata nórdica](https://www.finishers.com/es)
-- [Performance Home - Performance by Sneaker Freaker](https://www.sneakerfreaker.com/performance)
-- [Running.Life - Calendario de Carreras](https://running.life/es)
-- [Zona Runners: Noticias Diarias Running y Calendario de Carreras](https://zonarunners.es/)
+- [Finishers](https://www.finishers.com/es) — Calendario de carreras: senderos, semi, maratones, caminata nórdica
+- [Performance Home](https://www.sneakerfreaker.com/performance) — Performance by Sneaker Freaker
+- [Running.Life](https://running.life/es) — Calendario de Carreras
+- [Zona Runners](https://zonarunners.es/) — Noticias Diarias Running y Calendario de Carreras
 
 ### World Newspaper
 - [Africa.com](https://africa.com/)
@@ -2250,11 +2250,11 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [goo.ne.jp](https://www.goo.ne.jp/)
 - [Il Fatto Quotidiano](https://www.ilfattoquotidiano.it/)
 - [Internazionale](https://www.internazionale.it/)
-- [iProfesional | Últimas noticias para profesionales y empresas](https://www.iprofesional.com/)
+- [iProfesional](https://www.iprofesional.com/) — Últimas noticias para profesionales y empresas
 - [JewishPress](https://www.jewishpress.com/)
 - [Jiji.com](https://www.jiji.com/)
 - [Khaama Press](https://www.khaama.com/)
-- [Kiosko y Más | La mejor selección de prensa de calidad](https://www.kioskoymas.com/)
+- [Kiosko y Más](https://www.kioskoymas.com/) — La mejor selección de prensa de calidad
 - [Korean Central News Agency](http://www.kcna.kp/kcna.user.home.retrieveHomeInfoList.kcmsf)
 - [la Repubblica](https://www.repubblica.it/)
 - [La Tercera](https://www.latercera.com/)
@@ -2265,7 +2265,7 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [Media Live](https://medialive.ma/)
 - [mess.news](https://mess.news/)
 - [Narcity](https://www.narcity.com/)
-- [Okezone.com - Berita Terkini dan Informasi Terbaru Hari Ini](https://www.okezone.com/)
+- [Okezone.com](https://www.okezone.com/) — Berita Terkini dan Informasi Terbaru Hari Ini
 - [OpIndia](https://www.opindia.com/)
 - [Pollar · World News, Analysis & Live Markets](https://pollar.news/en)
 - [Radio Prague International](https://www.radio.cz/en)
@@ -2290,9 +2290,9 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [TheCable](https://www.thecable.ng/)
 - [Todo Noticias](https://tn.com.ar/)
 - [Tribunnews](https://www.tribunnews.com/)
-- [UOL - Seu universo online](https://www.uol.com.br/)
+- [UOL](https://www.uol.com.br/) — Seu universo online
 - [Vatican News](https://www.vaticannews.va/es.html)
-- [watson – News ohne Bla Bla](https://www.watson.ch/)
+- [watson](https://www.watson.ch/) — News ohne Bla Bla
 - [WION](https://www.wionews.com/)
 - [Yomiuri Shimbun](https://www.yomiuri.co.jp/)
 
@@ -2317,7 +2317,7 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [El Boletín](https://www.elboletin.com/)
 - [El Confidencial](https://www.elconfidencial.com/)
 - [El Correo de España](https://elcorreodeespana.com/)
-- [El Día - Noticias de Tenerife, Canarias, España y el mundo](https://www.eldia.es/)
+- [El Día](https://www.eldia.es/) — Noticias de Tenerife, Canarias, España y el mundo
 - [El Diestro](https://www.eldiestro.es/)
 - [El Distrito](https://eldistrito.es/)
 - [El español](https://www.elespanol.com/)
@@ -2339,7 +2339,7 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [Libertad digital](https://www.libertaddigital.com/)
 - [loqueleo](https://www.loqueleo.com/)
 - [LOS40](https://los40.com/)
-- [Menorca - Es diari](https://www.menorca.info/)
+- [Menorca](https://www.menorca.info/) — Es diari
 - [Moncloa.com](https://www.moncloa.com/)
 - [NIUS](https://www.niusdiario.es/)
 - [Okdiario](https://okdiario.com/)
@@ -2418,7 +2418,7 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [Newsmax](https://www.newsmax.com/)
 - [Newsweek](https://www.newsweek.com/)
 - [NPR](https://www.npr.org/)
-- [NYTimes - Times Machine](https://timesmachine.nytimes.com/browser)
+- [NYTimes](https://timesmachine.nytimes.com/browser) — Times Machine
 - [Pew Charitable Trusts](https://www.pewtrusts.org/en)
 - [Pew Research Center](https://www.pewresearch.org/)
 - [Quartz](https://qz.com/)
@@ -2489,7 +2489,7 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [qyer](https://www.qyer.com/)
 - [Reuters](https://cn.reuters.com/)
 - [SCMP](https://www.scmp.com/)
-- [SCMP - China Tech City](https://www.abacusnews.com/china-tech-city)
+- [SCMP](https://www.abacusnews.com/china-tech-city) — China Tech City
 - [SCMP Research](https://research.scmp.com/)
 - [Sina](https://www.sina.com.cn/)
 - [Sina.com](https://sina.com/)
@@ -2504,7 +2504,7 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [Eltiempo.com](https://www.eltiempo.com/)
 - [La Nación Arg](https://www.lanacion.com.ar/)
 - [StarMedia](https://www.starmedia.com/)
-- [T13 | Tele 13](https://www.t13.cl/)
+- [T13](https://www.t13.cl/) — Tele 13
 - [Telemundo](https://www.telemundo.com/)
 - [Univision](https://www.univision.com/)
 
@@ -2566,11 +2566,11 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [Disclose.tv](https://www.disclose.tv/)
 - [Enterat](https://www.enterat.com/)
 - [Feedc](https://feedc.com/)
-- [Flipboard: Your Social Magazine](https://flipboard.com/)
+- [Flipboard](https://flipboard.com/) — Your Social Magazine
 - [FreeNode.net](https://freenode.net/)
 - [Gab Trends](https://trends.gab.com/)
 - [Google News](https://news.google.com/home?hl=en-US&gl=US&ceid=US:en)
-- [Google News - Newspaper](https://news.google.com/newspapers)
+- [Google News](https://news.google.com/newspapers) — Newspaper
 - [Google Play Kiosco](https://newsstand.google.com/?nsro=true)
 - [Kiosko.net](https://es.kiosko.net/)
 - [Menéame](https://www.meneame.net/)
@@ -2578,13 +2578,13 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [MuckRock](https://muckrock.com/)
 - [Najdi.si](https://www.najdi.si/)
 - [Netscape ISP](https://isp.netscape.com/)
-- [Old News - Archivo en línea de periódicos históricos](https://www.oldnews.com/es)
+- [Old News](https://www.oldnews.com/es) — Archivo en línea de periódicos históricos
 - [Popurls](http://popurls.com/)
 - [Prensa Escrita](https://www.prensaescrita.com/)
 - [PressReader](https://www.pressreader.com/catalog)
 - [QQ](https://www.qq.com/)
 - [Rambler.ru](https://www.rambler.ru/)
-- [Readly | one magazine app subscription](https://us.readly.com/)
+- [Readly](https://us.readly.com/) — one magazine app subscription
 - [Seznam](https://www.seznam.cz/)
 - [Simcast](https://simcast.com/)
 - [Slashdot.org](https://slashdot.org/)
@@ -2620,7 +2620,7 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [OurSketch](https://oursketch.com/)
 - [Pictoline](https://www.pictoline.com/)
 - [Roomstyler](https://roomstyler.com/)
-- [Stable Diffusion Art - Tutorials, prompts and resources](https://stable-diffusion-art.com/)
+- [Stable Diffusion Art](https://stable-diffusion-art.com/) — Tutorials, prompts and resources
 - [Techseedr.com](https://techseedr.com/)
 - [The Creative Hagja](https://www.thecreativehagja.com/)
 - [The Design Files](https://thedesignfiles.net/)
@@ -2658,95 +2658,95 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [Sociología Contemporánea](https://sociologiac.net/)
 
 ## Reading
-- [Bookshelf - Aesthetic Reading Tracker for Books & Audiobooks](https://bookshelf.tcreations.app/)
+- [Bookshelf](https://bookshelf.tcreations.app/) — Aesthetic Reading Tracker for Books & Audiobooks
 
 ### eBook Reader
-- ⭐ **[Amazon Kindle - Web Reader](https://read.amazon.com/landing)**
-- ⭐ **[Calibre - E-book](https://calibre-ebook.com/)**
+- ⭐ **[Amazon Kindle](https://read.amazon.com/landing)** — Web Reader
+- ⭐ **[Calibre](https://calibre-ebook.com/)** — E-book
 - ⭐ **[Foliate —modern eBook viewer](https://johnfactotum.github.io/foliate/)**
 - ⭐ **[Koodo Reader](https://koodoreader.com/en)**
 - ⭐ **[KOReader](https://koreader.rocks/)**
 - [Acclorite/book-story · GitHub](https://github.com/Acclorite/book-story)
-- [Aldiko - Reading App](https://www.demarque.com/en-aldiko)
+- [Aldiko](https://www.demarque.com/en-aldiko) — Reading App
 - [Amazon Kindle Reading](https://www.amazon.com/b/node=16571048011)
 - [Aquile Reader](https://www.aquilereader.in/)
 - [Aquile Reader](https://aquilereader.wordpress.com/)
 - [Artifact](https://artifact.news/)
-- [Aryan-Raj3112/episteme: A native Android document reader application built with Kotlin and Jetpack Compose.](https://github.com/Aryan-Raj3112/episteme)
-- [babluboy/bookworm: A simple ebook reader for Elementary OS](https://github.com/babluboy/bookworm)
-- [ciromattia/kcc: KCC (a.k.a. Kindle Comic Converter) is a comic and manga converter for ebook readers.](https://github.com/ciromattia/kcc)
+- [Aryan-Raj3112/episteme](https://github.com/Aryan-Raj3112/episteme) — A native Android document reader application built with Kotlin and Jetpack Compose.
+- [babluboy/bookworm](https://github.com/babluboy/bookworm) — A simple ebook reader for Elementary OS
+- [ciromattia/kcc](https://github.com/ciromattia/kcc) — KCC (a.k.a. Kindle Comic Converter) is a comic and manga converter for ebook readers.
 - [Cool Reader](https://sourceforge.net/projects/crengine/)
-- [Cool Reader - Google Play](https://play.google.com/store/apps/details?id=org.coolreader)
-- [Difegue/LANraragi: Web application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers.](https://github.com/Difegue/LANraragi)
+- [Cool Reader](https://play.google.com/store/apps/details?id=org.coolreader) — Google Play
+- [Difegue/LANraragi](https://github.com/Difegue/LANraragi) — Web application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers.
 - [dstark5/Openlib · GitHub](https://github.com/dstark5/Openlib)
 - [Ebook Reader](https://icecreamapps.com/Ebook-Reader)
 - [eBoox](https://eboox.ru/en)
 - [edrlab/thorium-reader · GitHub](https://github.com/edrlab/thorium-reader)
-- [ePUB EBook Reader - Google Play](https://play.google.com/store/apps/details?id=com.s2apps.reader)
+- [ePUB EBook Reader](https://play.google.com/store/apps/details?id=com.s2apps.reader) — Google Play
 - [EPUB File Reader](http://www.epubfilereader.com/)
 - [Epubor](https://epubor.com/)
 - [EPUBReader](https://www.epubread.com/en/)
 - [eReader Prestigio](https://play.google.com/store/apps/details?id=com.prestigio.ereader)
 - [every-day-things/citadel · GitHub](https://github.com/every-day-things/citadel)
-- [FBReader - Favourite Book Reader](https://fbreader.org/)
-- [FocusReader - Apps on Google Play](https://play.google.com/store/apps/details?id=allen.town.focus.reader)
+- [FBReader](https://fbreader.org/) — Favourite Book Reader
+- [FocusReader](https://play.google.com/store/apps/details?id=allen.town.focus.reader) — Apps on Google Play
 - [Freda](https://www.turnipsoft.com/freda/)
-- [Freda - Turnipsoft](http://www.turnipsoft.co.uk/)
+- [Freda](http://www.turnipsoft.co.uk/) — Turnipsoft
 - [gedoor/legado · GitHub](https://github.com/gedoor/legado)
 - [InkBox Project](https://inkbox.ddns.net/)
 - [janeczku/calibre-web · GitHub](https://github.com/janeczku/calibre-web)
 - [Kavita Reader](https://www.kavitareader.com/)
-- [Lexie - Omoguru](https://www.omoguru.com/lexie/)
+- [Lexie](https://www.omoguru.com/lexie/) — Omoguru
 - [Librera Reader](https://librera.mobi/)
 - [librumreader.com](https://librumreader.com/)
 - [Matter reader](https://hq.getmatter.com/)
 - [Mercury by Postlight](https://mercury.postlight.com/)
-- [Moon+ Reader - Google Play](https://play.google.com/store/apps/details?id=com.flyersoft.moonreader&hl=en_US&gl=US)
+- [Moon+ Reader](https://play.google.com/store/apps/details?id=com.flyersoft.moonreader&hl=en_US&gl=US) — Google Play
 - [Moon+ Reader for Android](https://moondownload.com/)
 - [Neat Reader](https://www.neat-reader.com/)
-- [Reader for PC - Sony](https://www.sony.com/electronics/support/downloads/W0010082)
+- [Reader for PC](https://www.sony.com/electronics/support/downloads/W0010082) — Sony
 - [Readera](https://readera.org/)
-- [ReadEra - Google Play](https://play.google.com/store/apps/details?id=org.readera)
-- [Readest — Where You Read, Digest and Get Insight](https://readest.com/)
+- [ReadEra](https://play.google.com/store/apps/details?id=org.readera) — Google Play
+- [Readest](https://readest.com/) — Where You Read, Digest and Get Insight
 - [Rics-Dev/uRead · GitHub](https://github.com/Rics-Dev/uRead)
-- [rNeomy/reader-view: Access Firefox's built in reader view from right click context menu](https://github.com/rNeomy/reader-view)
-- [Sigil Plugin Index - MobileRead](https://www.mobileread.com/forums/showthread.php?t=247431)
+- [rNeomy/reader-view](https://github.com/rNeomy/reader-view) — Access Firefox's built in reader view from right click context menu
+- [Sigil Plugin Index](https://www.mobileread.com/forums/showthread.php?t=247431) — MobileRead
 - [Sigil-Ebook](https://sigil-ebook.com/)
-- [Thorium Reader](https://thorium.edrlab.org/en/) / [🔗](https://github.com/edrlab/thorium-reader)
-- [Trackkun - Manga reader & tracker for the web](https://trackkun.com/)
+- [Thorium Reader](https://thorium.edrlab.org/en/) / <a href="https://github.com/edrlab/thorium-reader"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Trackkun](https://trackkun.com/) — Manga reader & tracker for the web
 - [troyeguo/koodo-reader · GitHub](https://github.com/troyeguo/koodo-reader)
 - [YACReader](https://www.yacreader.com/)
 
 ### RSS Reader
-- ⭐ **[Akregator - KDE Applications](https://apps.kde.org/akregator/)**
-- ⭐ **[Feedbro - RSS Feed Reader](https://nodetics.com/feedbro/)**
-- ⭐ **[Fluent Reader](https://hyliu.me/fluent-reader/)** / [🔗](https://github.com/yang991178/fluent-reader)
-- ⭐ **[Folo](https://folo.is/)** / [🔗](https://github.com/RSSNext/Folo)
-- ⭐ **[FreshRSS - a free, self-hostable feeds aggregator](https://freshrss.org/)**
-- ⭐ **[Inoreader - Take back control of yorur news feed](https://www.inoreader.com/)**
+- ⭐ **[Akregator](https://apps.kde.org/akregator/)** — KDE Applications
+- ⭐ **[Feedbro](https://nodetics.com/feedbro/)** — RSS Feed Reader
+- ⭐ **[Fluent Reader](https://hyliu.me/fluent-reader/)** / <a href="https://github.com/yang991178/fluent-reader"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- ⭐ **[Folo](https://folo.is/)** / <a href="https://github.com/RSSNext/Folo"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- ⭐ **[FreshRSS](https://freshrss.org/)** — a free, self-hostable feeds aggregator
+- ⭐ **[Inoreader](https://www.inoreader.com/)** — Take back control of yorur news feed
 - ⭐ **[news-flash / news_flash_gtk · GitLab](https://gitlab.com/news-flash/news_flash_gtk)**
 - ⭐ **[nt1m/livemarks · GitHub](https://github.com/nt1m/livemarks/)**
 - ⭐ **[Panda](https://app.usepanda.com/#/)**
 - ⭐ **[Rssguard · GitHub](https://github.com/martinrotter/rssguard)**
-- [Aktu.io - RSS](https://aktu.io/news/content/dashboard)
-- [Alligator - KDE](https://apps.kde.org/alligator/)
+- [Aktu.io](https://aktu.io/news/content/dashboard) — RSS
+- [Alligator](https://apps.kde.org/alligator/) — KDE
 - [Ashinch/ReadYou · GitHub](https://github.com/Ashinch/ReadYou)
 - [BazQux Reader](https://bazqux.com/)
-- [brief-rss/brief: RSS reader extension for Firefox](https://github.com/brief-rss/brief)
-- [Capy Reader](https://capyreader.com/) / [🔗](https://github.com/jocmp/capyreader)
+- [brief-rss/brief](https://github.com/brief-rss/brief) — RSS reader extension for Firefox
+- [Capy Reader](https://capyreader.com/) / <a href="https://github.com/jocmp/capyreader"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [CommaFeed](https://www.commafeed.com/#/welcome)
 - [cscarney/syndic · GitHub](https://github.com/cscarney/syndic)
 - [Den for RSS](https://den.io/)
-- [DevHub - GitHub Notifications & Activities on your Desktop](https://devhubapp.com/)
-- [DONDURMA / Signal Reader v1.0](https://dondurma.devopen.io/) / [🔗](https://github.com/DevOpen-io/dondurma-rss-reader)
-- [electh/nextflux: Yet another web-based frontend for Miniflux](https://github.com/electh/nextflux)
+- [DevHub](https://devhubapp.com/) — GitHub Notifications & Activities on your Desktop
+- [DONDURMA / Signal Reader v1.0](https://dondurma.devopen.io/) / <a href="https://github.com/DevOpen-io/dondurma-rss-reader"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [electh/nextflux](https://github.com/electh/nextflux) — Yet another web-based frontend for Miniflux
 - [Feed Fever](https://feedafever.com/)
 - [Feedbin](https://feedbin.com/)
-- [FeedDeck](https://feeddeck.app/) / [🔗](https://github.com/feeddeck/feeddeck)
+- [FeedDeck](https://feeddeck.app/) / <a href="https://github.com/feeddeck/feeddeck"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [FeedDemon](http://www.feeddemon.com/)
-- [FeedDesk](https://torum.github.io/FeedDesk/) / [🔗](https://github.com/torum/FeedDesk)
-- [Feeder – RSS Feed Reader](https://feeder.co/)
-- [Feeder | F-Droid - Free and Open Source Android App Repository](https://f-droid.org/packages/com.nononsenseapps.feeder/)
+- [FeedDesk](https://torum.github.io/FeedDesk/) / <a href="https://github.com/torum/FeedDesk"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Feeder](https://feeder.co/) — RSS Feed Reader
+- [Feeder](https://f-droid.org/packages/com.nononsenseapps.feeder/) — F-Droid - Free and Open Source Android App Repository
 - [FeedForall](https://www.feedforall.com/)
 - [Feedlisting.com](https://www.feedlisting.com/)
 - [Feedreader desktop](https://feedreader.com/download)
@@ -2754,84 +2754,84 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [Feeds Pub](https://feeds.pub/)
 - [Feedspot](https://www.feedspot.com/)
 - [FiveFilters.org](https://www.fivefilters.org/)
-- [fossar/selfoss: multipurpose rss reader](https://github.com/fossar/selfoss)
+- [fossar/selfoss](https://github.com/fossar/selfoss) — multipurpose rss reader
 - [FreshRSS demo](https://demo.freshrss.org/i/)
 - [Gabmus Feeds](https://gfeeds.gabmus.org/)
-- [GetStream/Winds: A Beautiful Open Source RSS & Podcast App](https://github.com/GetStream/Winds)
-- [glanceapp/glance: A self-hosted dashboard that puts all your feeds in one place](https://github.com/glanceapp/glance)
-- [Glean](https://gleanapp.cn/en/) / [🔗](https://github.com/LeslieLeung/glean)
+- [GetStream/Winds](https://github.com/GetStream/Winds) — A Beautiful Open Source RSS & Podcast App
+- [glanceapp/glance](https://github.com/glanceapp/glance) — A self-hosted dashboard that puts all your feeds in one place
+- [Glean](https://gleanapp.cn/en/) / <a href="https://github.com/LeslieLeung/glean"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [Günther Wagner / hackgregator · GitLab](https://gitlab.com/gunibert/hackgregator)
 - [kickscondor/fraidycat · GitHub](https://github.com/kickscondor/fraidycat)
 - [lcomplete/huntly · GitHub](https://github.com/lcomplete/huntly)
 - [lire reader](https://lireapp.com/)
 - [lwindolf / liferea · GitHub](https://github.com/lwindolf/liferea)
-- [Miniflux - Feed Reader](https://miniflux.app/)
+- [Miniflux](https://miniflux.app/) — Feed Reader
 - [msasikanth/twine · GitHub](https://github.com/msasikanth/twine)
-- [NetNewsWire](https://netnewswire.com/) / [🔗](https://github.com/Ranchero-Software/NetNewsWire)
+- [NetNewsWire](https://netnewswire.com/) / <a href="https://github.com/Ranchero-Software/NetNewsWire"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [Netvibes](https://www.netvibes.com/en)
-- [News - Nextcloud app](https://apps.nextcloud.com/apps/news)
-- [Newsboat - RSS reader](https://newsboat.org/) / [🔗](https://newsboat.org/)
-- [Newsify - Your News, Blog and RSS Feed Reader](https://newsify.co/)
+- [News](https://apps.nextcloud.com/apps/news) — Nextcloud app
+- [Newsboat](https://newsboat.org/) / [🔗](https://newsboat.org/) — RSS reader
+- [Newsify](https://newsify.co/) — Your News, Blog and RSS Feed Reader
 - [nextcloud/news · GitHub](https://github.com/nextcloud/news)
-- [nkanaev/yarr: yet another rss reader](https://github.com/nkanaev/yarr)
-- [Oku - Your internet without the noise](https://oku.io/)
+- [nkanaev/yarr](https://github.com/nkanaev/yarr) — yet another rss reader
+- [Oku](https://oku.io/) — Your internet without the noise
 - [Ondřej Foltýn / Nunti · GitLab](https://gitlab.com/ondrejfoltyn/nunti)
-- [osmoscraft/osmosfeed: Turn GitHub into an RSS reader](https://github.com/osmoscraft/osmosfeed)
-- [photon: RSS reader as light as a photon with terminal + sixel](https://sr.ht/~ghost08/photon/)
+- [osmoscraft/osmosfeed](https://github.com/osmoscraft/osmosfeed) — Turn GitHub into an RSS reader
+- [photon](https://sr.ht/~ghost08/photon/) — RSS reader as light as a photon with terminal + sixel
 - [pietheinstrengholt/rssmonster · GitHub](https://github.com/pietheinstrengholt/rssmonster)
 - [Qolors/FeedCord · GitHub](https://github.com/Qolors/FeedCord)
 - [QuiteRSS/quiterss · GitHub](https://github.com/QuiteRSS/quiterss)
-- [Raven Reader](https://ravenreader.app/) / [🔗](https://github.com/hello-efficiency-inc/raven-reader)
+- [Raven Reader](https://ravenreader.app/) / <a href="https://github.com/hello-efficiency-inc/raven-reader"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [Reabble](https://reabble.com/app)
-- [Reabble - RSS Reader for Amazon Kindle and other E-Ink Display devices](https://reabble.com/)
-- [ReadYouApp/ReadYou: An Android RSS reader presented in Material You style.](https://github.com/ReadYouApp/ReadYou)
+- [Reabble](https://reabble.com/) — RSS Reader for Amazon Kindle and other E-Ink Display devices
+- [ReadYouApp/ReadYou](https://github.com/ReadYouApp/ReadYou) — An Android RSS reader presented in Material You style.
 - [Reedah](https://www.reedah.com/)
 - [Reeder 5](https://reederapp.com/)
 - [Reeywhaar/want-my-rss · GitHub](https://github.com/Reeywhaar/want-my-rss)
-- [Reinvented Software - Feeder](https://reinventedsoftware.com/feeder/)
+- [Reinvented Software](https://reinventedsoftware.com/feeder/) — Feeder
 - [RSS Builder](https://rss.applemarketingtools.com/)
 - [RSS Discovery Engine](https://rdengine.herokuapp.com/)
 - [RSS Feed Reader](https://chrome.google.com/webstore/detail/rss-feed-reader/pnjaodmkngahhkoihejjehlcdlnohgmp)
 - [RSS Reader APIs for FreshRSS · GitHub](https://github.com/FreshRSS/FreshRSS/blob/edge/README.md#apis--native-apps)
 - [RSS Search Hub](https://www.rsssearchhub.com/)
 - [RSSHub Docs](https://docs.rsshub.app/)
-- [ruby/rss: RSS reading and writing](https://github.com/ruby/rss)
+- [ruby/rss](https://github.com/ruby/rss) — RSS reading and writing
 - [samuelclay/NewsBlur · GitHub](https://github.com/samuelclay/NewsBlur)
-- [Saul-Mirone/homura: Homura RSS Reader](https://github.com/Saul-Mirone/homura)
-- [selfoss – rss reader and multi source mashup aggregator](https://selfoss.aditu.de/) / [🔗](https://github.com/fossar/selfoss)
+- [Saul-Mirone/homura](https://github.com/Saul-Mirone/homura) — Homura RSS Reader
+- [selfoss](https://selfoss.aditu.de/) / <a href="https://github.com/fossar/selfoss"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — rss reader and multi source mashup aggregator
 - [shgysk8zer0/awesome-rss · GitHub](https://github.com/shgysk8zer0/awesome-rss)
 - [sismics/reader · GitHub](https://github.com/sismics/reader)
-- [SmartRSS - AI RSS Reader - Apps on Google Play](https://play.google.com/store/apps/details?id=com.vinsonguo.flutter_rss_reader)
+- [SmartRSS](https://play.google.com/store/apps/details?id=com.vinsonguo.flutter_rss_reader) — AI RSS Reader - Apps on Google Play
 - [SmartRSS/Smart-RSS · GitHub](https://github.com/SmartRSS/Smart-RSS)
-- [StreamSphere RSS Reader - Apps on Google Play](https://play.google.com/store/apps/details?id=com.niviva.rssreader.streamsphere)
-- [stringer-rss/stringer: A self-hosted, anti-social RSS reader](https://github.com/stringer-rss/stringer)
+- [StreamSphere RSS Reader](https://play.google.com/store/apps/details?id=com.niviva.rssreader.streamsphere) — Apps on Google Play
+- [stringer-rss/stringer](https://github.com/stringer-rss/stringer) — A self-hosted, anti-social RSS reader
 - [Superfeedr](https://superfeedr.com/)
 - [Suzie97/Communique · GitHub](https://github.com/Suzie97/Communique)
 - [SyFeed](https://syfeed.com/)
-- [Thysrael/Horizon: 📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达](https://github.com/Thysrael/Horizon)
-- [TT RSS](https://tt-rss.org/) / [🔗](https://github.com/tt-rss/tt-rss)
+- [Thysrael/Horizon](https://github.com/Thysrael/Horizon) — 📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达
+- [TT RSS](https://tt-rss.org/) / <a href="https://github.com/tt-rss/tt-rss"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [TypicalAM/goread · GitHub](https://github.com/TypicalAM/goread)
-- [Versionfeeds - RSS for releases of software](https://versionfeeds.com/)
-- [Vienna RSS – The Free and Open-Source RSS/Atom Reader for macOS](https://www.vienna-rss.com/) / [🔗](https://github.com/ViennaRSS/vienna-rss)
-- [Vivaldi Feed Reader - Read feeds from the sources you choose](https://vivaldi.com/features/feed-reader/)
+- [Versionfeeds](https://versionfeeds.com/) — RSS for releases of software
+- [Vienna RSS](https://www.vienna-rss.com/) / <a href="https://github.com/ViennaRSS/vienna-rss"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — The Free and Open-Source RSS/Atom Reader for macOS
+- [Vivaldi Feed Reader](https://vivaldi.com/features/feed-reader/) — Read feeds from the sources you choose
 - [Voice](https://voice.woitaschek.de/)
 - [World / Feeds · GitLab](https://gitlab.gnome.org/World/gfeeds)
 - [Xyrio/RSSOwlnix · GitHub](https://github.com/Xyrio/RSSOwlnix)
 
 ### Comic-Manga Reader
 - [Aniyomi](https://aniyomi.org/)
-- [BatCave.biz - Comics](https://batcave.biz/)
+- [BatCave.biz](https://batcave.biz/) — Comics
 - [HakuNeko](https://hakuneko.download/)
 - [Houdoku](https://houdoku.org/)
-- [josueBarretogit/manga-tui: Terminal-based manga reader and downloader with image rendering support](https://github.com/josueBarretogit/manga-tui)
-- [K3vinb5/Unyo: 🐙 Anime streaming and Manga reader desktop app without ads.](https://github.com/K3vinb5/Unyo)
-- [Komikku – A manga reader](https://valos.gitlab.io/Komikku/)
+- [josueBarretogit/manga-tui](https://github.com/josueBarretogit/manga-tui) — Terminal-based manga reader and downloader with image rendering support
+- [K3vinb5/Unyo](https://github.com/K3vinb5/Unyo) — 🐙 Anime streaming and Manga reader desktop app without ads.
+- [Komikku](https://valos.gitlab.io/Komikku/) — A manga reader
 - [Komikku · Codeberg](https://codeberg.org/valos/Komikku)
-- [Kotatsu](https://kotatsu.app/) / [🔗](https://github.com/KotatsuApp/Kotatsu)
-- [MangaTime - The best mobile app to track manga](https://mangatime.net/en/)
-- [mihonapp/mihon: Free and open source manga reader for Android](https://github.com/mihonapp/mihon)
+- [Kotatsu](https://kotatsu.app/) / <a href="https://github.com/KotatsuApp/Kotatsu"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [MangaTime](https://mangatime.net/en/) — The best mobile app to track manga
+- [mihonapp/mihon](https://github.com/mihonapp/mihon) — Free and open source manga reader for Android
 - [OpenComic · GitHub](https://github.com/ollm/OpenComic)
 - [Tachiyomi](https://tachiyomi.org/)
 
 ### Library Manager
-- [Libib | Library management web app](https://www.libib.com/)
+- [Libib](https://www.libib.com/) — Library management web app

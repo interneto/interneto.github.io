@@ -7,16 +7,16 @@ description: Password managers, cybersecurity, and web privacy
 
 **Total Bookmarks:** 302
 
-- [Fight Chat Control - Protect Digital Privacy in the EU](https://fightchatcontrol.eu/)
-- [PrivacySpy: We track online privacy](https://privacyspy.org/)
+- [Fight Chat Control](https://fightchatcontrol.eu/) — Protect Digital Privacy in the EU
+- [PrivacySpy](https://privacyspy.org/) — We track online privacy
 
 ## Antimalware
-- [0patch - No more patching headaches](https://0patch.com/)
+- [0patch](https://0patch.com/) — No more patching headaches
 - [Anti-virus.by](https://www.anti-virus.by/)
 - [Avast](https://www.avast.com/index)
 - [AVG](https://www.avg.com/en-us/homepage#pc)
 - [Avira](https://www.avira.com/)
-- [Bitdefender - Global Leader in Cybersecurity Software](https://www.bitdefender.com/)
+- [Bitdefender](https://www.bitdefender.com/) — Global Leader in Cybersecurity Software
 - [BullGuard](https://www.bullguard.com/)
 - [Check Point](https://www.checkpoint.com/)
 - [Clamwin](http://www.clamwin.com/)
@@ -26,7 +26,7 @@ description: Password managers, cybersecurity, and web privacy
 - [Defencebyte](https://defencebyte.com/)
 - [Dr.Web](https://www.drweb.com/)
 - [ESET](https://www.eset.com/)
-- [ESET - Antivirus & cyber security for Windows, Android or Mac](https://www.eset.com/int/)
+- [ESET](https://www.eset.com/int/) — Antivirus & cyber security for Windows, Android or Mac
 - [F-Secure](https://www.f-secure.com/es)
 - [Kaspersky](https://www.kaspersky.es/)
 - [Malwarebytes](https://www.malwarebytes.com/)
@@ -37,44 +37,44 @@ description: Password managers, cybersecurity, and web privacy
 - [Sophos](https://www.sophos.com/en-us.aspx)
 - [Spybot Anti-Malware and Antivirus](https://www.safer-networking.org/)
 - [SpyHunter](https://www.enigmasoftware.com/)
-- [SpyShelter - Best Free Antispyware Software 2025](https://www.spyshelter.com/)
+- [SpyShelter](https://www.spyshelter.com/) — Best Free Antispyware Software 2025
 - [Systweak](https://www.systweak.com/)
 - [TotalAV](https://www.totalav.com/)
-- [TrustArc - Data Privacy Management Software & Solutions](https://trustarc.com/)
+- [TrustArc](https://trustarc.com/) — Data Privacy Management Software & Solutions
 - [TrustPort](https://www.trustport.com/en)
 - [Webroot](https://www.webroot.com/es/es)
 
 ## Delete Account
 - [Accountkiller](https://www.accountkiller.com/en)
-- [Incogni - Personal Information Removal Service](https://incogni.com/)
+- [Incogni](https://incogni.com/) — Personal Information Removal Service
 - [Just Delete Me](https://justdeleteme.xyz/)
 
 ## DNS Filter
-- ⭐ **[Pi-hole - Network wide Ad-blocking](https://pi-hole.net/)** / [🔗](https://github.com/pi-hole/pi-hole)
+- ⭐ **[Pi-hole](https://pi-hole.net/)** / <a href="https://github.com/pi-hole/pi-hole"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Network wide Ad-blocking
 - [AdGuard](https://adguard.com/en/welcome.html)
-- [bol-van/zapret: DPI bypass multi platform](https://github.com/bol-van/zapret)
-- [Cisco Umbrella | Leader in DNS and Cloud Cybersecurity Solutions](https://umbrella.cisco.com/)
-- [Cloudflare Gateway - Threat Protection](https://www.cloudflare.com/sase/products/gateway/)
+- [bol-van/zapret](https://github.com/bol-van/zapret) — DPI bypass multi platform
+- [Cisco Umbrella](https://umbrella.cisco.com/) — Leader in DNS and Cloud Cybersecurity Solutions
+- [Cloudflare Gateway](https://www.cloudflare.com/sase/products/gateway/) — Threat Protection
 - [Control D](https://controld.com/)
-- [DNSFilter - DNS Filtering Services: Security & Website Blocking](https://www.dnsfilter.com/)
-- [DNSveil (formerly Secure DNS Client)](https://msasanmh.github.io/DNSveil/) / [🔗](https://github.com/msasanmh/DNSveil)
+- [DNSFilter](https://www.dnsfilter.com/) — DNS Filtering Services: Security & Website Blocking
+- [DNSveil (formerly Secure DNS Client)](https://msasanmh.github.io/DNSveil/) / <a href="https://github.com/msasanmh/DNSveil"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [NextDNS](https://nextdns.io/)
-- [Rethink | Fast, secure, configurable, private DNS + Firewall for Android](https://rethinkdns.com/) / [🔗](https://github.com/celzero/rethink-app)
-- [tsutsu3/pi-hole-client: Unofficial Pi-hole client](https://github.com/tsutsu3/pi-hole-client)
+- [Rethink](https://rethinkdns.com/) / <a href="https://github.com/celzero/rethink-app"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Fast, secure, configurable, private DNS + Firewall for Android
+- [tsutsu3/pi-hole-client](https://github.com/tsutsu3/pi-hole-client) — Unofficial Pi-hole client
 - [WebTitan DNS filtering with AI threat protection & DNS security](https://www.titanhq.com/dns-filtering/)
 
 ## DNS Resolver
-- [1.1.1.1 — The free app that makes your Internet faster](https://one.one.one.one/)
+- [1.1.1.1](https://one.one.one.one/) — The free app that makes your Internet faster
 - [AdGuard DNS](https://adguard-dns.com/en/welcome.html)
 - [Alternate DNS](https://alternate-dns.com/)
 - [DeCloudUs](https://decloudus.com/)
 - [DNS Checker](https://dnschecker.org/)
 - [DNS Privacy Project](https://dnsprivacy.org/)
 - [DNSCrypt](https://dnscrypt.info/)
-- [Dnsmasq - network services for small networks](https://dnsmasq.org/)
+- [Dnsmasq](https://dnsmasq.org/) — network services for small networks
 - [DNSPerf](https://www.dnsperf.com/)
 - [Duck DNS](https://www.duckdns.org/)
-- [Freenom - A Name for Everyone](https://www.freenom.com/en/index.html)
+- [Freenom](https://www.freenom.com/en/index.html) — A Name for Everyone
 - [Freenom World](https://www.freenom.world/en/index.html)
 - [Getdns](https://www.getdnsapi.net/)
 - [Google Public DNS](https://developers.google.com/speed/public-dns)
@@ -82,19 +82,19 @@ description: Password managers, cybersecurity, and web privacy
 - [LibreOps](https://libreops.cc/)
 - [Neustar](https://www.home.neustar/)
 - [NS1](https://ns1.com/)
-- [OJ/gobuster: Directory/File, DNS and VHost busting tool written in Go](https://github.com/OJ/gobuster)
+- [OJ/gobuster](https://github.com/OJ/gobuster) — Directory/File, DNS and VHost busting tool written in Go
 - [OpenDNS](https://www.opendns.com/)
 - [OpenNIC Project](https://www.opennic.org/)
 - [Quad9](https://www.quad9.net/)
 - [SafeDNS](https://www.safedns.com/)
 - [TechnitiumSoftware/DnsServer · GitHub](https://github.com/TechnitiumSoftware/DnsServer)
-- [Unbound - NLNetLabs](https://nlnetlabs.nl/projects/unbound/about/)
+- [Unbound](https://nlnetlabs.nl/projects/unbound/about/) — NLNetLabs
 - [Yandex.DNS](https://dns.yandex.com/)
-- [YogaDNS - The Most Advanced DNS Client for Windows](https://yogadns.com/)
+- [YogaDNS](https://yogadns.com/) — The Most Advanced DNS Client for Windows
 - [ZX2C4](https://www.zx2c4.com/)
 
 ## Firewall
-- [deminimis/minimalfirewall: Minimal Firewall is a portable Windows firewall frontend that alerts users to internet connections without requiring custom kernel modifications or disabling core isolation, striking a balance between Window Defender's security and Simplewall's functionality.](https://github.com/deminimis/minimalfirewall)
+- [deminimis/minimalfirewall](https://github.com/deminimis/minimalfirewall) — Minimal Firewall is a portable Windows firewall frontend that alerts users to internet connections without requiring custom kernel modifications or disabling core isolation, striking a balance between Window Defender's security and Simplewall's functionality.
 - [DynFi Firewall](https://dynfi.com/en/dynfi-firewall/)
 - [firewalld](https://firewalld.org/)
 - [Free Firewall](https://www.evorim.com/en/free-firewall)
@@ -102,163 +102,163 @@ description: Password managers, cybersecurity, and web privacy
 - [henrypp/simplewal · GitHub](https://github.com/henrypp/simplewall)
 - [IPFire](https://www.ipfire.org/)
 - [netfilter/iptables project](https://netfilter.org/)
-- [NethSecurity - Linux Firewall Made Easy](https://nethsecurity.org/)
+- [NethSecurity](https://nethsecurity.org/) — Linux Firewall Made Easy
 - [OpenGFW](https://gfw.dev/)
-- [OPNsense - open-source firewall](https://opnsense.org/) / [🔗](https://github.com/opnsense)
-- [pfSense - FOSS firewall](https://www.pfsense.org/)
+- [OPNsense](https://opnsense.org/) / <a href="https://github.com/opnsense"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — open-source firewall
+- [pfSense](https://www.pfsense.org/) — FOSS firewall
 - [Safing Portmaster](https://safing.io/)
 - [SmoothWall](https://smoothwall.org/)
-- [TinyWall - A free, lightweight and non-intrusive firewall](https://tinywall.pados.hu/)
-- [tnodir/fort: Fort Firewall for Windows](https://github.com/tnodir/fort)
+- [TinyWall](https://tinywall.pados.hu/) — A free, lightweight and non-intrusive firewall
+- [tnodir/fort](https://github.com/tnodir/fort) — Fort Firewall for Windows
 - [Windows Firewall Control](https://www.binisoft.org/wfc.php)
 
 ## Malware Scanner
 - ⭐ **[Threat Insights Portal](https://www.threat.rip/)**
 - ⭐ **[VirusTotal](https://www.virustotal.com/gui/home/upload)**
-- [ANY.RUN - Interactive Online Malware Sandbox](https://any.run/)
-- [Filigran](https://filigran.io/) / [🔗](https://github.com/OpenCTI-Platform/opencti)
-- [GitHub CodeQL](https://codeql.github.com/) / [🔗](https://github.com/github/codeql)
+- [ANY.RUN](https://any.run/) — Interactive Online Malware Sandbox
+- [Filigran](https://filigran.io/) / <a href="https://github.com/OpenCTI-Platform/opencti"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [GitHub CodeQL](https://codeql.github.com/) / <a href="https://github.com/github/codeql"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [Hybrid-analysis](https://www.hybrid-analysis.com/)
 - [ID Ransomware](https://id-ransomware.malwarehunterteam.com/)
-- [Joe Sandbox Cloud Basic - Automated Malware Analysis](https://www.joesandbox.com/#windows)
-- [LunaSec - Open Source Data Security Platform](https://www.lunasec.io/)
+- [Joe Sandbox Cloud Basic](https://www.joesandbox.com/#windows) — Automated Malware Analysis
+- [LunaSec](https://www.lunasec.io/) — Open Source Data Security Platform
 - [nomoreransom](https://www.nomoreransom.org/en/index.html)
-- [NordStellar - Threat exposure management platform](https://nordstellar.com/)
+- [NordStellar](https://nordstellar.com/) — Threat exposure management platform
 - [Notmining](https://notmining.es/)
-- [Trivy](https://trivy.dev/) / [🔗](https://github.com/aquasecurity/trivy)
+- [Trivy](https://trivy.dev/) / <a href="https://github.com/aquasecurity/trivy"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [TrustScam](https://trustscam.com/)
 
 ## Password Manager
 - ⭐ **[Bitwarden](https://bitwarden.com/)**
 - ⭐ **[dani-garcia/vaultwarden · GItHub](https://github.com/dani-garcia/vaultwarden)**
 - ⭐ **[KeePassDX](https://keepassdx.com/)**
-- ⭐ **[KeePassXC - Password Manager](https://keepassxc.org/)** / [🔗](https://github.com/keepassxreboot/keepassxc)
-- [1Password - Password Manager for Families, Businesses, Teams](https://1password.com/)
-- [AliasVault](https://www.aliasvault.com/) / [🔗](https://github.com/aliasvault/aliasvault)
-- [Argon2](https://www.argon2.com/) / [🔗](https://github.com/P-H-C/phc-winner-argon2)
-- [arsvechkarev/Vault: Simple, fast, secure password manager](https://github.com/arsvechkarev/Vault)
+- ⭐ **[KeePassXC](https://keepassxc.org/)** / <a href="https://github.com/keepassxreboot/keepassxc"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Password Manager
+- [1Password](https://1password.com/) — Password Manager for Families, Businesses, Teams
+- [AliasVault](https://www.aliasvault.com/) / <a href="https://github.com/aliasvault/aliasvault"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Argon2](https://www.argon2.com/) / <a href="https://github.com/P-H-C/phc-winner-argon2"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [arsvechkarev/Vault](https://github.com/arsvechkarev/Vault) — Simple, fast, secure password manager
 - [AuthPass](https://authpass.app/)
 - [AuthPass](https://authpass.com/)
 - [Bitwarden Web Vault](https://vault.bitwarden.com/#/register)
-- [boazeb/papervault: Paper vault for passwords and secrets](https://github.com/boazeb/papervault)
-- [Catima - Libre Card Wallet](https://catima.app/)
-- [Dashlane - Password Manager](https://www.dashlane.com/)
+- [boazeb/papervault](https://github.com/boazeb/papervault) — Paper vault for passwords and secrets
+- [Catima](https://catima.app/) — Libre Card Wallet
+- [Dashlane](https://www.dashlane.com/) — Password Manager
 - [Enpass](https://www.enpass.io/)
 - [gopass](https://www.gopass.pw/)
 - [How Secure Is My Password?](https://howsecureismypassword.net/)
 - [Kee Vault](https://www.kee.pm/)
-- [Kee Vault | Secure, Open source Password Management](https://keevault.pm/)
-- [KeePass Password Safe](https://keepass.info/) / [🔗](https://sourceforge.net/projects/keepass/)
-- [Keepass2Android - Google Play](https://play.google.com/store/apps/details?id=keepass2android.keepass2android)
-- [KeePassium - KeePass app for iOS](https://keepassium.com/)
+- [Kee Vault](https://keevault.pm/) — Secure, Open source Password Management
+- [KeePass Password Safe](https://keepass.info/) / <a href="https://sourceforge.net/projects/keepass/"><img class="source-host-icon" src="/img/source-hosts/sourceforge.svg" alt="SourceForge" title="SourceForge" width="14" height="14" loading="lazy"></a>
+- [Keepass2Android](https://play.google.com/store/apps/details?id=keepass2android.keepass2android) — Google Play
+- [KeePassium](https://keepassium.com/) — KeePass app for iOS
 - [KeePassX](https://www.keepassx.org/)
 - [Keeper Security](https://www.keepersecurity.com/)
-- [KeeWeb - KeePass](https://keeweb.info/)
+- [KeeWeb](https://keeweb.info/) — KeePass
 - [KeeWeb app](https://app.keeweb.info/)
 - [KeyStore Explorer](https://keystore-explorer.org/)
-- [Korovan - KPass](https://www.korovan.com/kpass)
-- [kpcli - A command line interface for KeePass](https://kpcli.sourceforge.io/)
+- [Korovan](https://www.korovan.com/kpass) — KPass
+- [kpcli](https://kpcli.sourceforge.io/) — A command line interface for KeePass
 - [LastPass](https://www.lastpass.com/)
-- [Lemonade - The Password Manager Developers Actually Need](https://lemonadepass.app/)
+- [Lemonade](https://lemonadepass.app/) — The Password Manager Developers Actually Need
 - [LessPass](https://www.lesspass.com/#/)
-- [MacPass - a KeePass compatible port for macOS](https://macpassapp.org/)
+- [MacPass](https://macpassapp.org/) — a KeePass compatible port for macOS
 - [mateusz-bak/openreads-android · GitHub](https://github.com/mateusz-bak/openreads-android)
 - [mihnea-radulescu/passwordsecure · GitHub](https://github.com/mihnea-radulescu/passwordsecure)
 - [my-passwords-app.com](https://www.my-passwords-app.com/)
 - [NewPass](https://www.newpass.solutions/)
 - [NordPassword](https://nordpass.com/)
-- [OneKeePass/desktop: A secure password manager](https://github.com/OneKeePass/desktop)
+- [OneKeePass/desktop](https://github.com/OneKeePass/desktop) — A secure password manager
 - [oneSafe](https://www.onesafe-apps.com/)
-- [Padloc - End-to-end Encrypted Password Manager](https://padloc.app/)
-- [Pass - The Standard Unix Password Manager](https://www.passwordstore.org/)
+- [Padloc](https://padloc.app/) — End-to-end Encrypted Password Manager
+- [Pass](https://www.passwordstore.org/) — The Standard Unix Password Manager
 - [Passbolt](https://www.passbolt.com/)
 - [Passpack](https://www.passpack.com/)
-- [PassQuantum — Post-Quantum Password Manager](https://esh2007.github.io/PassQuantum-web/) / [🔗](https://github.com/ESH2007/PassQuantum)
+- [PassQuantum](https://esh2007.github.io/PassQuantum-web/) / <a href="https://github.com/ESH2007/PassQuantum"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Post-Quantum Password Manager
 - [Passwall](https://signup.passwall.io/)
 - [Password data safe](https://passwordsafe.app/)
 - [Password Manager SafeInCloud](https://www.safe-in-cloud.com/en/)
 - [PasswordBoss](https://www.passwordboss.com/)
 - [Passwork.pro](https://passwork.pro/)
-- [PearPass | Your Open-Source Password Manager](https://pass.pears.com/) / [🔗](https://github.com/tetherto/pearpass-app-mobile)
+- [PearPass](https://pass.pears.com/) / <a href="https://github.com/tetherto/pearpass-app-mobile"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Your Open-Source Password Manager
 - [PhilippC/keepass2android · GitHub](https://github.com/PhilippC/keepass2android)
-- [polypixeldev/polypass: · GitHub](https://github.com/polypixeldev/polypass)
+- [polypixeldev/polypass](https://github.com/polypixeldev/polypass) — · GitHub
 - [Qtkeychain](https://github.com/frankosterfeld/qtkeychain)
-- [quexten/goldwarden: A feature-packed Bitwarden compatible desktop client](https://github.com/quexten/goldwarden)
-- [Rench321/sklad: Industrial-grade secure snippet warehouse for your system tray. 📦 Built with Rust (Tauri v2) & React. Offline-first, AES-256 encrypted, and recursive.](https://github.com/Rench321/sklad)
+- [quexten/goldwarden](https://github.com/quexten/goldwarden) — A feature-packed Bitwarden compatible desktop client
+- [Rench321/sklad](https://github.com/Rench321/sklad) — Industrial-grade secure snippet warehouse for your system tray. 📦 Built with Rust (Tauri v2) & React. Offline-first, AES-256 encrypted, and recursive.
 - [RoboForm Password Manager](https://www.roboform.com/en/)
-- [RoboForm Password Manager | Best Password Manager for 2025](https://www.roboform.com/)
+- [RoboForm Password Manager](https://www.roboform.com/) — Best Password Manager for 2025
 - [Rot](https://rotx.dev/)
-- [SeineEloquenz/fosswallet: FOSS .pkpass wallet in Material Design 3](https://github.com/SeineEloquenz/fosswallet)
+- [SeineEloquenz/fosswallet](https://github.com/SeineEloquenz/fosswallet) — FOSS .pkpass wallet in Material Design 3
 - [Sophie Herold / Key Rack · GitLab](https://gitlab.gnome.org/sophie-h/key-rack)
-- [Spectre: Passwords, Privacy-first](https://spectre.app/)
-- [Stocard - Your mobile wallet](https://stocardapp.com/en/de)
+- [Spectre](https://spectre.app/) — Passwords, Privacy-first
+- [Stocard](https://stocardapp.com/en/de) — Your mobile wallet
 - [True Key](https://www.truekey.com/)
 - [Utilities / KWalletManager · GitLab](https://invent.kde.org/utilities/kwalletmanager)
-- [Vault | HashiCorp Developer](https://developer.hashicorp.com/vault) / [🔗](https://github.com/hashicorp/vault)
+- [Vault](https://developer.hashicorp.com/vault) / <a href="https://github.com/hashicorp/vault"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — HashiCorp Developer
 - [World / Secrets · GitLab](https://gitlab.gnome.org/World/secrets)
 
 ## Security & Testing
 - [C2Matrix](https://docs.google.com/spreadsheets/d/1b4mUxa6cDQuTV2BPC6aA-GR4zGZi0ooPYtBe4IgPsSc/edit?pli=1&gid=0#gid=0)
-- [cilock — Build provenance, signed scan evidence, continuous compliance](https://cilock.aflock.ai/) / [🔗](https://github.com/aflock-ai/rookery)
+- [cilock](https://cilock.aflock.ai/) / <a href="https://github.com/aflock-ai/rookery"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Build provenance, signed scan evidence, continuous compliance
 - [Firejail](https://firejail.wordpress.com/)
 - [OATH Toolkit](https://oath-toolkit.codeberg.page/)
-- [Proton - Data Breach Observatory](https://proton.me/business/pass/breach-observatory)
-- [Security.org: Security Doesn't Have to be Complicated](https://www.security.org/)
-- [Semgrep App Security Platform | AI-assisted SAST, SCA and Secrets Detection](https://semgrep.dev/) / [🔗](https://github.com/semgrep/semgrep)
-- [sigstore/cosign: Code signing and transparency for containers and binaries](https://github.com/sigstore/cosign)
+- [Proton](https://proton.me/business/pass/breach-observatory) — Data Breach Observatory
+- [Security.org](https://www.security.org/) — Security Doesn't Have to be Complicated
+- [Semgrep App Security Platform](https://semgrep.dev/) / <a href="https://github.com/semgrep/semgrep"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — AI-assisted SAST, SCA and Secrets Detection
+- [sigstore/cosign](https://github.com/sigstore/cosign) — Code signing and transparency for containers and binaries
 - [ZAP proxy](https://www.zaproxy.org/)
 
 ### PenTesting
-- [Aircrack-ng](https://www.aircrack-ng.org/) / [🔗](https://github.com/aircrack-ng/aircrack-ng)
+- [Aircrack-ng](https://www.aircrack-ng.org/) / <a href="https://github.com/aircrack-ng/aircrack-ng"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [BeEF](http://beefproject.com/)
 - [CIRT.net](https://www.cirt.net/)
 - [Fern-wifi-cracker · GitHub](https://github.com/savio-code/fern-wifi-cracker)
-- [GitHub - PurpleAILAB/Decepticon: Autonomous Hacking Agent for Red Team · GitHub](https://github.com/PurpleAILAB/Decepticon)
-- [Hashcat - advanced password recovery](https://hashcat.net/hashcat/) / [🔗](https://github.com/hashcat/hashcat)
-- [Keygraph | The Unified AppSec Platform](https://keygraph.io/) / [🔗](https://github.com/KeygraphHQ/shannon)
-- [Metasploit | Penetration Testing Software, Pen Testing Security](https://metasploit.com/) / [🔗](https://github.com/rapid7/metasploit-framework)
-- [niwciu/ModbusSniffer: Modbus RTU packet sniffer with GUI](https://github.com/niwciu/ModbusSniffer)
-- [NVIDIA/garak: the LLM vulnerability scanner](https://github.com/NVIDIA/garak)
+- [GitHub](https://github.com/PurpleAILAB/Decepticon) — PurpleAILAB/Decepticon: Autonomous Hacking Agent for Red Team · GitHub
+- [Hashcat](https://hashcat.net/hashcat/) / <a href="https://github.com/hashcat/hashcat"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — advanced password recovery
+- [Keygraph](https://keygraph.io/) / <a href="https://github.com/KeygraphHQ/shannon"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — The Unified AppSec Platform
+- [Metasploit](https://metasploit.com/) / <a href="https://github.com/rapid7/metasploit-framework"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Penetration Testing Software, Pen Testing Security
+- [niwciu/ModbusSniffer](https://github.com/niwciu/ModbusSniffer) — Modbus RTU packet sniffer with GUI
+- [NVIDIA/garak](https://github.com/NVIDIA/garak) — the LLM vulnerability scanner
 - [Openwall](https://www.openwall.com/)
-- [openwall/john: John the Ripper jumbo · GitHub](https://www.openwall.com/john/) / [🔗](https://github.com/openwall/john)
+- [openwall/john](https://www.openwall.com/john/) / <a href="https://github.com/openwall/john"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — John the Ripper jumbo · GitHub
 - [Pixiewps](https://github.com/wiire-a/pixiewps)
-- [protectai/llm-guard: The Security Toolkit for LLM Interactions](https://github.com/protectai/llm-guard)
+- [protectai/llm-guard](https://github.com/protectai/llm-guard) — The Security Toolkit for LLM Interactions
 - [Snort](https://www.snort.org/)
-- [Strix - AI Penetration Testing & Autonomous Security](https://www.strix.ai/)
-- [swisskyrepo/PayloadsAllTheThings: A list of useful payloads and bypass for Web Application Security and Pentest/CTF](https://github.com/swisskyrepo/PayloadsAllTheThings)
+- [Strix](https://www.strix.ai/) — AI Penetration Testing & Autonomous Security
+- [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) — A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [v1s1t0r1sh3r3/airgeddon · GitHub](https://github.com/v1s1t0r1sh3r3/airgeddon)
-- [zakirkun/deep-eye: An advanced AI-driven vulnerability scanner and penetration testing tool](https://github.com/zakirkun/deep-eye)
+- [zakirkun/deep-eye](https://github.com/zakirkun/deep-eye) — An advanced AI-driven vulnerability scanner and penetration testing tool
 
 ### OSINT Tools
-- ⭐ **[overpass turbo](https://overpass-turbo.eu/)** / [🔗](https://github.com/tyrasd/overpass-turbo)
+- ⭐ **[overpass turbo](https://overpass-turbo.eu/)** / <a href="https://github.com/tyrasd/overpass-turbo"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [Creepy by ilektrojohn](https://www.geocreepy.com/)
 - [Datalux/Osintgram · GitHub](https://github.com/Datalux/Osintgram)
 - [FortyNorthSecurity/EyeWitness · GitHub](https://github.com/FortyNorthSecurity/EyeWitness)
-- [IDCrawl - Free People Search Engine](https://www.idcrawl.com/)
+- [IDCrawl](https://www.idcrawl.com/) — Free People Search Engine
 - [lanmaster53/recon-ng · GitHub](https://github.com/lanmaster53/recon-ng)
 - [laramies/theHarvester · GitHub](https://github.com/laramies/theHarvester)
-- [mxrch/GHunt: 🕵️‍♂️ Offensive Google framework.](https://github.com/mxrch/ghunt)
-- [NexVision Web Threat Intelligence - OSINT](https://www.nexvisionlab.com/)
-- [p1ngul1n0/blackbird: An OSINT tool to search for accounts by username and email in social networks.](https://github.com/p1ngul1n0/blackbird)
+- [mxrch/GHunt](https://github.com/mxrch/ghunt) — 🕵️‍♂️ Offensive Google framework.
+- [NexVision Web Threat Intelligence](https://www.nexvisionlab.com/) — OSINT
+- [p1ngul1n0/blackbird](https://github.com/p1ngul1n0/blackbird) — An OSINT tool to search for accounts by username and email in social networks.
 - [Sherlock Project](https://sherlock-project.github.io/)
 - [smicallef/spiderfoot · GitHub](https://github.com/smicallef/spiderfoot)
 - [sundowndev/phoneinfoga · GitHub](https://github.com/sundowndev/phoneinfoga)
 
 ### RockYou
-- [aoluggo/word-list-pentest: Spanish word list (plain text) for use in pen-test. WIFI Try with wifite // Lista de palabras en español (texto sin formato) para usar en pruebas de penetración. WIFI Prueba con wifite.](https://github.com/aoluggo/word-list-pentest)
-- [brannondorsey/naive-hashcat: Crack password hashes without the fuss :cat2:](https://github.com/brannondorsey/naive-hashcat/)
+- [aoluggo/word-list-pentest](https://github.com/aoluggo/word-list-pentest) — Spanish word list (plain text) for use in pen-test. WIFI Try with wifite // Lista de palabras en español (texto sin formato) para usar en pruebas de penetración. WIFI Prueba con wifite.
+- [brannondorsey/naive-hashcat](https://github.com/brannondorsey/naive-hashcat/) — Crack password hashes without the fuss :cat2:
 - [danielmiessler/SecLists · GitHub](https://github.com/danielmiessler/SecLists)
-- [josuamarcelc/common-password-list: Common Password List ( rockyou.txt ) Built-in Kali Linux wordlist rockyou.txt](https://github.com/josuamarcelc/common-password-list)
-- [sheimo/Wifi-WPA-Keyspace-List: A list of various routers default WPA key space](https://github.com/sheimo/Wifi-WPA-Keyspace-List)
-- [six2dez/OneListForAll: Rockyou for web fuzzing](https://github.com/six2dez/OneListForAll)
+- [josuamarcelc/common-password-list](https://github.com/josuamarcelc/common-password-list) — Common Password List ( rockyou.txt ) Built-in Kali Linux wordlist rockyou.txt
+- [sheimo/Wifi-WPA-Keyspace-List](https://github.com/sheimo/Wifi-WPA-Keyspace-List) — A list of various routers default WPA key space
+- [six2dez/OneListForAll](https://github.com/six2dez/OneListForAll) — Rockyou for web fuzzing
 - [Weakpass](https://weakpass.com/)
 
 ## VPN
-- ⭐ **[NetBird - Open Source Zero Trust Networking](https://netbird.io/)** / [🔗](https://github.com/netbirdio/netbird)
-- [AirVPN - The air to breathe the real Internet](https://airvpn.org/)
-- [Aletsch - Your Own Private and Secure VPN](https://aletsch.app/)
-- [Amnezia - Create your personal VPN](https://amnezia.org/en)
-- [Amnezia - Internet freedom has a name](https://amnezia.org/) / [🔗](https://github.com/amnezia-vpn/amnezia-client)
+- ⭐ **[NetBird](https://netbird.io/)** / <a href="https://github.com/netbirdio/netbird"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Open Source Zero Trust Networking
+- [AirVPN](https://airvpn.org/) — The air to breathe the real Internet
+- [Aletsch](https://aletsch.app/) — Your Own Private and Secure VPN
+- [Amnezia](https://amnezia.org/en) — Create your personal VPN
+- [Amnezia](https://amnezia.org/) / <a href="https://github.com/amnezia-vpn/amnezia-client"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Internet freedom has a name
 - [Astrill VPN](https://www.astrill.com/)
 - [Atlas VPN](https://atlasvpn.com/)
 - [Betternet](https://www.betternet.co/)
@@ -267,7 +267,7 @@ description: Password managers, cybersecurity, and web privacy
 - [Cloudflre WARP](https://developers.cloudflare.com/cloudflare-one/team-and-resources/devices/warp/download-warp/)
 - [CyberGhost VPN](https://www.cyberghostvpn.com/en_US/)
 - [expressvpn](https://www.expressvpn.com/)
-- [Firezone - Open-source Remote Access](https://www.firezone.dev/)
+- [Firezone](https://www.firezone.dev/) — Open-source Remote Access
 - [FreePN](https://www.freepn.org/)
 - [Hiddify](https://hiddify.com/)
 - [Hide.me](https://hide.me/en)
@@ -275,63 +275,63 @@ description: Password managers, cybersecurity, and web privacy
 - [Hola VPN](https://hola.org/)
 - [HotBot VPN](https://www.hotbot.com/)
 - [Hotspot Shield](https://www.hotspotshield.com/)
-- [How-to use Cloudflare's WARP through WireGuard - rentry.co](https://rentry.co/foss-warp)
+- [How-to use Cloudflare's WARP through WireGuard](https://rentry.co/foss-warp) — rentry.co
 - [I2P Anon](https://geti2p.net/en/)
 - [IPVanish](https://www.ipvanish.com/)
 - [IVPN](https://www.ivpn.net/)
 - [juanfont/headscale · GitHub](https://github.com/juanfont/headscale)
 - [Mozilla VPN](https://www.mozilla.org/en-US/products/vpn/?entrypoint_experiment=vpn-pricing-position&entrypoint_variation=2)
-- [Mullvad VPN - Privacy is a universal right](https://mullvad.net/en/)
-- [neocturne/fastd: Fast and Secure Tunnelling Daemon](https://github.com/neocturne/fastd)
-- [Netmaker: Wireguard VPN & Software Defined Networking](https://www.netmaker.io/)
-- [NordVPN - The best online VPN service for speed and security](https://nordvpn.com/)
-- [Nym | The Next Generation of Privacy Infrastructure](https://nymtech.net/)
-- [Obscura VPN | Privacy that’s more than a promise](https://obscura.net/)
-- [Obscura VPN | Privacy that’s more than a promise](https://obscura.com/)
+- [Mullvad VPN](https://mullvad.net/en/) — Privacy is a universal right
+- [neocturne/fastd](https://github.com/neocturne/fastd) — Fast and Secure Tunnelling Daemon
+- [Netmaker](https://www.netmaker.io/) — Wireguard VPN & Software Defined Networking
+- [NordVPN](https://nordvpn.com/) — The best online VPN service for speed and security
+- [Nym](https://nymtech.net/) — The Next Generation of Privacy Infrastructure
+- [Obscura VPN](https://obscura.net/) — Privacy that’s more than a promise
+- [Obscura VPN](https://obscura.com/) — Privacy that’s more than a promise
 - [OpenVPN](https://openvpn.net/)
-- [Orbot - Tor for Mobile](https://orbot.app/en/) / [🔗](https://github.com/guardianproject/orbot-android)
+- [Orbot](https://orbot.app/en/) / <a href="https://github.com/guardianproject/orbot-android"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Tor for Mobile
 - [Ostrich VPN](https://www.ostrichvpn.net/)
 - [PairVPN](https://pairvpn.com/)
-- [Portmaster - Safing.io](https://safing.io/portmaster/)
+- [Portmaster](https://safing.io/portmaster/) — Safing.io
 - [Private Internet Access](https://www.privateinternetaccess.com/)
 - [PrivateVPN](https://privatevpn.com/)
 - [Proton VPN](https://protonvpn.com/)
 - [Psiphon](https://www.psiphon.ca/)
-- [PureVPN: Secure, Reliable and Lightning-Fast VPN Service](https://www.purevpn.com/)
+- [PureVPN](https://www.purevpn.com/) — Secure, Reliable and Lightning-Fast VPN Service
 - [Radmin VPN](https://www.radmin-vpn.com/)
 - [SecureVPN](https://www.securevpn.com/)
-- [SetupVPN - Your Free VPN Service](https://setupvpn.com/)
+- [SetupVPN](https://setupvpn.com/) — Your Free VPN Service
 - [Surfshark](https://surfshark.com/)
-- [Tailscale - VPN service for networks](https://tailscale.com/)
+- [Tailscale](https://tailscale.com/) — VPN service for networks
 - [The Tor Project / Applications / vpn · GitLab](https://gitlab.torproject.org/tpo/applications/vpn)
 - [tinc VPN](https://www.tinc-vpn.org/)
 - [TorGuard](https://torguard.net/)
 - [Touch VPN](https://www.touchvpn.net/)
 - [TunnelBear](https://www.tunnelbear.com/)
-- [Turbo VPN: Best Unlimited, Fast & Secure VPN Service](https://turbovpn.com/)
-- [UrbanVPN - The Only FREE Premium VPN](https://www.urban-vpn.com/)
-- [VPN - riseup.net](https://riseup.net/en/vpn)
-- [VPN-Super - Mobilejump](https://www.mobilejump.mobi/)
+- [Turbo VPN](https://turbovpn.com/) — Best Unlimited, Fast & Secure VPN Service
+- [UrbanVPN](https://www.urban-vpn.com/) — The Only FREE Premium VPN
+- [VPN](https://riseup.net/en/vpn) — riseup.net
+- [VPN-Super](https://www.mobilejump.mobi/) — Mobilejump
 - [VPNHub](https://www.vpnhub.com/)
 - [VPNwelt](https://vpnwelt.com/)
 - [VyprVPN](https://www.vyprvpn.com/)
 - [Windscribe](https://windscribe.com/)
 - [WireGuard](https://www.wireguard.com/)
 - [X-VPN](https://xvpn.io/)
-- [ZeroTworu/anet: Simple Rust VPN Client / Server](https://github.com/ZeroTworu/anet)
+- [ZeroTworu/anet](https://github.com/ZeroTworu/anet) — Simple Rust VPN Client / Server
 
 ## Website Scanner
-- ⭐ **[Wappalyzer - Find out what websites are built with](https://www.wappalyzer.com/)**
-- ⭐ **[Web Check - OSINT Scanner](https://web-check.xyz/)** / [🔗](https://github.com/Lissy93/web-check)
+- ⭐ **[Wappalyzer](https://www.wappalyzer.com/)** — Find out what websites are built with
+- ⭐ **[Web Check](https://web-check.xyz/)** / <a href="https://github.com/Lissy93/web-check"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — OSINT Scanner
 - [AboutUs](https://aboutus.com/)
 - [Bulk URL HTTP Status Code, Header & Redirect Checker](https://httpstatus.io/)
 - [FreeSiteStatus](http://www.freesitestatus.com/en)
 - [GWhois.org](https://gwhois.org/)
 - [Host.io](https://host.io/)
 - [lychee](https://lychee.cli.rs/)
-- [OpenGraph.to - Free Open Graph Checker & Preview Tool](https://www.opengraph.to/)
+- [OpenGraph.to](https://www.opengraph.to/) — Free Open Graph Checker & Preview Tool
 - [urlscan.io](https://urlscan.io/)
 - [Visualping](https://visualping.io/)
 - [WebSniffer](https://websniffer.com/)
 - [What is my browser?](https://www.whatismybrowser.com/)
-- [WhatRuns – Discover What Runs a Website](https://www.whatruns.com/)
+- [WhatRuns](https://www.whatruns.com/) — Discover What Runs a Website

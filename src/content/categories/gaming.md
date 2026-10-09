@@ -11,40 +11,40 @@ description: Games, launchers, emulators, and gaming utilities
 ## Games
 
 ### Board
-- ⭐ **[Lucas Chess](https://lucaschess.pythonanywhere.com/)** / [🔗](https://github.com/lukasmonk/lucaschessR2)
+- ⭐ **[Lucas Chess](https://lucaschess.pythonanywhere.com/)** / <a href="https://github.com/lukasmonk/lucaschessR2"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [247 Chess](https://www.247chess.com/)
 - [All About Go](http://www.allaboutgo.com/)
 - [Arena Chess GUI](http://www.playwitharena.de/)
 - [Boardzilla](https://www.boardzilla.io/)
-- [Chess - Apps on Google Play](https://play.google.com/store/apps/details?id=com.jetstartgames.chess)
+- [Chess](https://play.google.com/store/apps/details?id=com.jetstartgames.chess) — Apps on Google Play
 - [Chess Immortal Game](https://immortal.game/)
 - [Chess King Learn](https://learn.chessking.com/)
-- [Chess.com - Play Chess Online](https://www.chess.com/)
+- [Chess.com](https://www.chess.com/) — Play Chess Online
 - [Chess.org](https://chess.org/)
 - [chess24.com](https://chess24.com/en)
-- [Chessbase - Play Chess Online](https://play.chessbase.com/en/)
-- [ChessX - Free Chess Database](https://chessx.sourceforge.io/)
-- [cutechess/cutechess: Cute Chess is a graphical user interface, command-line interface and a library for playing chess.](https://github.com/cutechess/cutechess)
-- [Dealsbe - Chess online](https://dealsbe.com/)
-- [DecodeChess - Smarter Chess Analysis: Your Own Chess Explainer](https://decodechess.com/)
+- [Chessbase](https://play.chessbase.com/en/) — Play Chess Online
+- [ChessX](https://chessx.sourceforge.io/) — Free Chess Database
+- [cutechess/cutechess](https://github.com/cutechess/cutechess) — Cute Chess is a graphical user interface, command-line interface and a library for playing chess.
+- [Dealsbe](https://dealsbe.com/) — Chess online
+- [DecodeChess](https://decodechess.com/) — Smarter Chess Analysis: Your Own Chess Explainer
 - [dice.run](https://dice.run/#/d/3d6)
-- [eChess – Making chess more social, playful and fun!](https://www.echess.com/)
+- [eChess](https://www.echess.com/) — Making chess more social, playful and fun!
 - [Gametable.org](https://gametable.org/)
 - [HIARCS Chess Software for Mac and PC](https://www.hiarcs.com/)
 - [Learn Chess with Dr. Wolf](https://www.learnchesswithdrwolf.com/)
-- [lichess - Free online chess](https://lichess.org/)
-- [ml-research/liground: A free, open-source and modern Chess Variant Analysis GUI for the 21st century](https://github.com/ml-research/liground)
-- [OffChess - Offline Chess Puzzles App](https://offchess.com/)
+- [lichess](https://lichess.org/) — Free online chess
+- [ml-research/liground](https://github.com/ml-research/liground) — A free, open-source and modern Chess Variant Analysis GUI for the 21st century
+- [OffChess](https://offchess.com/) — Offline Chess Puzzles App
 - [OnlineGo](https://online-go.com/)
-- [Play 247 Checkers Online – Fun and Free Games Available 24/7](https://www.247checkers.com/)
+- [Play 247 Checkers Online](https://www.247checkers.com/) — Fun and Free Games Available 24/7
 - [Print Paper Chess](https://www.printchess.com/)
-- [pychess/pychess: PyChess - a chess client for Linux/Windows](https://github.com/pychess/pychess/)
+- [pychess/pychess](https://github.com/pychess/pychess/) — PyChess - a chess client for Linux/Windows
 - [Roll a Die](https://rolladie.net/)
 - [Roll20](https://roll20.net/)
 - [Scid vs. PC](https://scidvspc.sourceforge.net/)
-- [Shredder Chess - The Computer Chess World Champion](https://www.shredderchess.com/)
-- [Take! - A Chess Puzzle Game](https://www.takechess.com/)
-- [thomas-mauran/chess-tui: Play chess from your terminal 🦀](https://github.com/thomas-mauran/chess-tui?tab=readme-ov-file)
+- [Shredder Chess](https://www.shredderchess.com/) — The Computer Chess World Champion
+- [Take!](https://www.takechess.com/) — A Chess Puzzle Game
+- [thomas-mauran/chess-tui](https://github.com/thomas-mauran/chess-tui?tab=readme-ov-file) — Play chess from your terminal 🦀
 - [Tic-Tac-Toe](https://playtictactoe.org/)
 - [Us Go](https://www.usgo.org/)
 
@@ -55,65 +55,65 @@ description: Games, launchers, emulators, and gaming utilities
 - [artificial life environment](https://alien-project.org/)
 - [Asteroids, oh no!](http://awesomeasteroids.com/)
 - [BeamNG.drive](https://www.beamng.com/game/)
-- [Biomes — Join the community shaping a new world](https://www.biomes.gg/)
-- [Celestia - realtime 3D visualization of the space](https://celestiaproject.space/)
+- [Biomes](https://www.biomes.gg/) — Join the community shaping a new world
+- [Celestia](https://celestiaproject.space/) — realtime 3D visualization of the space
 - [Comuniate.com](https://www.comuniate.com/)
 - [Construction Simulator](https://www.construction-simulator.com/en/)
 - [Creativerse](https://creativersegame.com/)
 - [Cryptovoxels](https://www.cryptovoxels.com/)
-- [Cyberbotics: Robotics simulation with Webots](https://www.cyberbotics.com/)
+- [Cyberbotics](https://www.cyberbotics.com/) — Robotics simulation with Webots
 - [DEAD OR ALIVE Xtreme Venus Vacation](https://game.doaxvv.com/en/index.html)
 - [Decentral Games](https://decentral.games/)
 - [Decentraland.org](https://decentraland.org/)
 - [Dev Simulator](https://simulator.dev/)
 - [Digital Combat Simulator](https://www.digitalcombatsimulator.com/en/)
-- [DREDGE | Fishing Adventure Game](https://www.dredge.game/)
+- [DREDGE](https://www.dredge.game/) — Fishing Adventure Game
 - [EmuVR](https://www.emuvr.net/)
 - [Endless Sky](https://endless-sky.github.io/)
-- [Eyes on the Solar System - NASA/JPL](https://eyes.nasa.gov/apps/solar-system/#/home)
+- [Eyes on the Solar System](https://eyes.nasa.gov/apps/solar-system/#/home) — NASA/JPL
 - [FlagWaver](https://krikienoid.github.io/flagwaver/)
-- [FlightGear Flight Simulator](https://www.flightgear.org/) / [🔗](https://gitlab.com/flightgear)
+- [FlightGear Flight Simulator](https://www.flightgear.org/) / <a href="https://gitlab.com/flightgear"><img class="source-host-icon" src="/img/source-hosts/gitlab.svg" alt="GitLab" title="GitLab" width="14" height="14" loading="lazy"></a>
 - [Football Manager](https://www.footballmanager.com/)
 - [Gaia Sky](https://zah.uni-heidelberg.de/gaia/outreach/gaiasky/)
 - [Gaia Sky](https://gaiasky.space/)
 - [Gather.town](https://www.gather.town/)
 - [GeoFS](https://www.geo-fs.com/)
-- [glCraft: C++ Minecraft](https://github.com/Isti01/glCraft)
+- [glCraft](https://github.com/Isti01/glCraft) — C++ Minecraft
 - [GTB Zorah by MARvizer](https://marvizer.itch.io/gtb-zorah)
-- [Habbo - Virtual World, Avatar Chat, and Pixel Art](https://www.habbo.com/)
+- [Habbo](https://www.habbo.com/) — Virtual World, Avatar Chat, and Pixel Art
 - [History Simulator](https://drtardigrade.itch.io/worldhistorysim)
 - [HNSKY planetarium program](http://www.hnsky.org/software.htm)
 - [House Flipper 2](https://houseflipper2.com/)
 - [ISS Docking Simulator](https://iss-sim.spacex.com/)
 - [jsOrrery](https://mgvez.github.io/jsorrery)
-- [Limitless Flight - Hyperreal Wingsuit Simulator](https://www.limitlessflight.com/)
-- [Lincity - A City Simulation Game](https://lincity.sourceforge.net/)
+- [Limitless Flight](https://www.limitlessflight.com/) — Hyperreal Wingsuit Simulator
+- [Lincity](https://lincity.sourceforge.net/) — A City Simulation Game
 - [Microsoft Flight Simulator](https://www.flightsimulator.com/)
-- [Minetest - Open source voxel game engine](https://www.minetest.net/)
-- [MIRA](https://mira-wm.com/) / [🔗](https://github.com/mira-wm/mira)
+- [Minetest](https://www.minetest.net/) — Open source voxel game engine
+- [MIRA](https://mira-wm.com/) / <a href="https://github.com/mira-wm/mira"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [NetHack](https://www.nethack.org/)
 - [OpenCity, another 3D city simulator](http://www.opencity.info/)
 - [OpenRCT2](https://openrct2.io/)
 - [OpenRCT2](https://openrct2.org/)
 - [OpenSimulator](http://opensimulator.org/wiki/Main_Page)
-- [OpenTTD](https://www.openttd.org/) / [🔗](https://github.com/OpenTTD/OpenTTD)
+- [OpenTTD](https://www.openttd.org/) / <a href="https://github.com/OpenTTD/OpenTTD"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [Orbiter 2016 Space Flight Simulator](http://orbit.medphys.ucl.ac.uk/)
 - [Osgrid](https://www.osgrid.org/)
 - [Paralives](https://www.paralives.com/)
-- [Parkitect | Texel Raptor](https://www.themeparkitect.com/)
-- [PC Building Simulator 2 - Out now on Epic Games Store](https://www.pcbuildingsim.com/)
+- [Parkitect](https://www.themeparkitect.com/) — Texel Raptor
+- [PC Building Simulator 2](https://www.pcbuildingsim.com/) — Out now on Epic Games Store
 - [plbrault/youre-the-os · GitHub](https://github.com/plbrault/youre-the-os)
 - [Prepar3D](https://www.prepar3d.com/)
-- [Prisma D - Uni Bamberg](https://prismad.psi.uni-bamberg.de/library)
+- [Prisma D](https://prismad.psi.uni-bamberg.de/library) — Uni Bamberg
 - [Real-Time Wave Tracing](https://quazikb.github.io/WaveEq/index.html)
-- [Reentry - A Space Flight Simulator](https://reentrygame.com/)
+- [Reentry](https://reentrygame.com/) — A Space Flight Simulator
 - [RimWorld](https://rimworldgame.com/)
 - [Satisfactory Game](https://www.satisfactorygame.com/)
 - [Schedule I](https://www.scheduleonegame.com/)
 - [Second Life](https://secondlife.com/)
 - [Simutrans Transport Simulator](https://www.simutrans.com/en/)
 - [Slime Rancher 2](https://www.slimerancher.com/)
-- [Sober - Roblox better than ever on Linux](https://sober.vinegarhq.org/)
+- [Sober](https://sober.vinegarhq.org/) — Roblox better than ever on Linux
 - [Solar System Scope](https://www.solarsystemscope.com/)
 - [Space Engine](http://spaceengine.org/)
 - [Stardew Valley](https://www.stardewvalley.net/)
@@ -128,7 +128,7 @@ description: Games, launchers, emulators, and gaming utilities
 - [Universe Sandbox](https://universesandbox.com/)
 - [Unknown Horizons](https://unknown-horizons.org/)
 - [Valheim](https://www.valheimgame.com/)
-- [Valley of the Ancient - UE5 demo by MARvizer](https://marvizer.itch.io/valley-of-the-ancient)
+- [Valley of the Ancient](https://marvizer.itch.io/valley-of-the-ancient) — UE5 demo by MARvizer
 - [Vintage Story](https://www.vintagestory.at/)
 - [Voxelands](https://gitlab.com/voxelands/voxelands)
 - [VRChat](https://hello.vrchat.com/)
@@ -142,7 +142,7 @@ description: Games, launchers, emulators, and gaming utilities
 - [888 Poker](https://www.888poker.es/)
 - [888.es](https://www.888.es/)
 - [Bingo.com](https://www.bingo.com/)
-- [Free Card Games Online | Play Single or Multiplayer](https://worldofcardgames.com/)
+- [Free Card Games Online](https://worldofcardgames.com/) — Play Single or Multiplayer
 - [Gamdom](https://gamdom.com/)
 - [Luckia.com](https://www.luckia.com/sports)
 - [PokerStars](https://www.pokerstars.es/)
@@ -157,7 +157,7 @@ description: Games, launchers, emulators, and gaming utilities
 - [Combinación Ganadora](https://www.combinacionganadora.com/)
 - [Eurojackpot](https://www.eurojackpot.com/)
 - [JuegosONCE](https://www.juegosonce.es/)
-- [Lotería Nacional | Venta y comprobar resultados OFICIALES - Loterías y Apuestas del Estado](https://www.loteriasyapuestas.es/es/loteria-nacional)
+- [Lotería Nacional](https://www.loteriasyapuestas.es/es/loteria-nacional) — Venta y comprobar resultados OFICIALES - Loterías y Apuestas del Estado
 - [Loterías y Apuestas del Estado](https://www.loteriasyapuestas.es/es)
 - [Loterie Romande](https://www.loro.ch/fr)
 - [Lottery Critic](https://www.lotterycritic.com/)
@@ -174,12 +174,12 @@ description: Games, launchers, emulators, and gaming utilities
 - [USA Mega](https://www.usamega.com/)
 
 #### Betting
-- [1win - Casino & Get Your 500% Bonus Now!](https://1win.com/)
+- [1win](https://1win.com/) — Casino & Get Your 500% Bonus Now!
 - [20Bet](https://20bet-s.com/es)
 - [22Bet](https://22bets.me/)
-- [Acebet | Online Crypto Casino & Bitcoin Gambling](https://acebet.com/)
+- [Acebet](https://acebet.com/) — Online Crypto Casino & Bitcoin Gambling
 - [bet365](https://www.bet365.es/#/HO/)
-- [BetBoom - ставки на спорт онлайн в России!](https://betboom.ru/)
+- [BetBoom](https://betboom.ru/) — ставки на спорт онлайн в России!
 - [Betfair](https://www.betfair.es/)
 - [Betsson](https://www.betsson.es/)
 - [Betting](https://betting.bet/)
@@ -198,11 +198,11 @@ description: Games, launchers, emulators, and gaming utilities
 - [El ahorcado](https://hangmanwordgame.com/?fca=1&success=0#/)
 - [Fun Trivia](https://www.funtrivia.com/)
 - [Google Feud Game](https://www.googlefeud.com/)
-- [GuessTheGame - Your daily video game guessing puzzle!](https://guessthe.game/)
-- [Hangman Online - Play Hangman Games](https://www.hangman.io/)
-- [LinkedIn or Interpol - The Game](https://linkedin-or-interpol.com/)
+- [GuessTheGame](https://guessthe.game/) — Your daily video game guessing puzzle!
+- [Hangman Online](https://www.hangman.io/) — Play Hangman Games
+- [LinkedIn or Interpol](https://linkedin-or-interpol.com/) — The Game
 - [Play Hangman Game](http://www.playhangman.com/)
-- [Play More or Less Game! - The next generation of Higher or Lower!](https://moreorless.io/)
+- [Play More or Less Game!](https://moreorless.io/) — The next generation of Higher or Lower!
 - [The Higher Lower Game](http://www.higherlowergame.com/)
 - [The Wiki Game*](https://www.thewikigame.com/)
 - [TrivialOnline](https://trivialonline.es/)
@@ -227,15 +227,15 @@ description: Games, launchers, emulators, and gaming utilities
 - [StepMania](https://www.stepmania.com/)
 
 ### Puzzle
-- [2048 - Apps on Google Play](https://play.google.com/store/apps/details?id=com.tpcstld.twozerogame)
+- [2048](https://play.google.com/store/apps/details?id=com.tpcstld.twozerogame) — Apps on Google Play
 - [2048.co](https://play2048.co/)
 - [Code Golf](https://code.golf/)
 - [First-Person Tetris](https://firstpersontetris.com/)
 - [Hextris](https://hextris.io/)
 - [Jigsawplanet](https://www.jigsawplanet.com/)
 - [Meditations.games](https://meditations.games/)
-- [Miegakure \[Hide and Reveal\]: A 4D puzzle-platforming game.](https://miegakure.com/)
-- [NandGame - Build a computer from scratch.](https://nandgame.com/)
+- [Miegakure \[Hide and Reveal\]](https://miegakure.com/) — A 4D puzzle-platforming game.
+- [NandGame](https://nandgame.com/) — Build a computer from scratch.
 - [Neumorphic knot](https://knots.netlify.app/)
 - [One Million Checkboxes](https://onemillioncheckboxes.com/)
 - [Pingus](https://pingus.seul.org/)
@@ -250,12 +250,12 @@ description: Games, launchers, emulators, and gaming utilities
 - [Tetris.com](https://tetris.com/)
 - [The Boolean Game](https://boolean.method.ac/)
 - [The Password Game](https://neal.fun/password-game/)
-- [Unpacking: a zen puzzle](https://www.unpackinggame.com/)
-- [Wordsmyth - Daily Word Puzzle Game](https://playwordsmyth.com/)
+- [Unpacking](https://www.unpackinggame.com/) — a zen puzzle
+- [Wordsmyth](https://playwordsmyth.com/) — Daily Word Puzzle Game
 
 ### Educational
 - [DMM](https://www.dmm.com/)
-- [Educaplay: Free educational games generator](https://www.educaplay.com/)
+- [Educaplay](https://www.educaplay.com/) — Free educational games generator
 - [Engineer](https://brainteaser.top/engineer/index.html)
 - [GCompris Educational](https://gcompris.net/index-en.html)
 - [Kahoot](https://kahoot.com/)
@@ -264,36 +264,36 @@ description: Games, launchers, emulators, and gaming utilities
 - [Librerama](https://librerama.codeberg.page/play.html)
 - [Mental Math](https://mental-math.codeberg.page/)
 - [Play John Conway’s Game of Life](https://playgameoflife.com/)
-- [Ralex91/Rahoot: Rahoot is a self-hosted and open-source Kahoot! clone platform, designed for smaller events.](https://github.com/Ralex91/Rahoot)
+- [Ralex91/Rahoot](https://github.com/Ralex91/Rahoot) — Rahoot is a self-hosted and open-source Kahoot! clone platform, designed for smaller events.
 - [Shape Type](https://shape.method.ac/)
-- [The Bézier Game - Method.ac](https://bezier.method.ac/)
+- [The Bézier Game](https://bezier.method.ac/) — Method.ac
 
 #### Geographic Games
-- ⭐ **[GeoGuessr - Let's explore the world!](https://www.geoguessr.com/)**
-- ⭐ **[Geoguessr - Seterra (The Ultimate Map Quiz Site)](https://www.geoguessr.com/quiz/seterra)**
+- ⭐ **[GeoGuessr](https://www.geoguessr.com/)** — Let's explore the world!
+- ⭐ **[Geoguessr](https://www.geoguessr.com/quiz/seterra)** — Seterra (The Ultimate Map Quiz Site)
 - ⭐ **[Human Phenotypes](http://humanphenotypes.net/)**
 - [Back Of Your Hand](https://backofyourhand.com/game?difficulty=taxi-driver&lat=28.4719&lng=-16.2541&numberOfQuestions=5&radius=2000)
-- [City Guesser - Can you guess what city you're in?](https://virtualvacation.us/guess)
-- [Ekvis - Learn Languages And Geography](https://ekvis.com/)
+- [City Guesser](https://virtualvacation.us/guess) — Can you guess what city you're in?
+- [Ekvis](https://ekvis.com/) — Learn Languages And Geography
 - [EthnoGuessr](https://hbd.gg/)
 - [Explordle](https://www.explordle.com/)
 - [Flagle](https://www.flagle.io/)
 - [GeoGuess](https://geoguess.games/)
 - [GeoHub](https://www.geohub.gg/)
-- [Geotastic - the free crowdfunded multiplayer geo quiz app](https://geotastic.net/home)
+- [Geotastic](https://geotastic.net/home) — the free crowdfunded multiplayer geo quiz app
 - [Globe Quiz](https://globequiz.com/)
 - [Globle](https://globle-game.com/)
-- [Hide & Seek World: Online Multiplayer Street View Game](https://hideandseek.world/)
+- [Hide & Seek World](https://hideandseek.world/) — Online Multiplayer Street View Game
 - [LanguageGuessr](https://languageguessr.io/)
 - [Lizard Point Quizzes](https://lizardpoint.com/)
-- [MapCrunch - Random Street View](https://www.mapcrunch.com/)
-- [OpenGuessr - Free GeoGuessr Alternative](https://openguessr.com/)
-- [OpenGuessr - Geoguessr Free - Guess the Location Game](https://openguessr.io/geoguessr-free)
-- [Seterra - The Ultimate Map Quiz Site](https://www.seterra.com/)
-- [Teuteuf Games - Teuteuf Games](https://teuteuf.fr/)
+- [MapCrunch](https://www.mapcrunch.com/) — Random Street View
+- [OpenGuessr](https://openguessr.com/) — Free GeoGuessr Alternative
+- [OpenGuessr](https://openguessr.io/geoguessr-free) — Geoguessr Free - Guess the Location Game
+- [Seterra](https://www.seterra.com/) — The Ultimate Map Quiz Site
+- [Teuteuf Games](https://teuteuf.fr/) — Teuteuf Games
 - [TimeGuessr](https://timeguessr.com/)
 - [travle](https://travle.earth/)
-- [WorldGuessr - Play GeoGuessr for free](https://www.worldguessr.com/) / [🔗](https://github.com/codergautam/worldguessr)
+- [WorldGuessr](https://www.worldguessr.com/) / <a href="https://github.com/codergautam/worldguessr"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Play GeoGuessr for free
 - [Worldle](https://worldle.teuteuf.fr/)
 
 #### Drawing Games
@@ -302,20 +302,20 @@ description: Games, launchers, emulators, and gaming utilities
 - [Gartic.io](https://gartic.io/)
 - [Guess & Draw](https://guess.letsdraw.it/)
 - [Guessing.io](https://www.guessing.io/)
-- [Mind.im - Draw](https://mind.im/draw/)
+- [Mind.im](https://mind.im/draw/) — Draw
 - [Pinturillo 2](https://www.pinturillo2.com/)
 - [Quick, Draw!](https://quickdraw.withgoogle.com/)
 - [sandspiel](https://sandspiel.club/)
 - [Skribbl.io](https://skribbl.io/)
-- [Yo Printables - Unlimited Coloring Pages & Drawing Ideas](https://yoprintables.com/)
+- [Yo Printables](https://yoprintables.com/) — Unlimited Coloring Pages & Drawing Ideas
 
 #### Coding Games
 - [CheckiO](https://checkio.org/)
 - [CodeCombat](https://codecombat.com/)
 - [CodeMonkey](https://www.codemonkey.com/)
-- [Codenames – Play with your Friends Online](https://codenames.game/)
+- [Codenames](https://codenames.game/) — Play with your Friends Online
 - [Codepip](https://codepip.com/)
-- [Coding Challenges - kung.foo](https://kung.foo/)
+- [Coding Challenges](https://kung.foo/) — kung.foo
 - [Codingame.com](https://www.codingame.com/start)
 - [CSS Diner](https://flukeout.github.io/)
 - [CSSBattle](https://cssbattle.dev/)
@@ -329,16 +329,16 @@ description: Games, launchers, emulators, and gaming utilities
 - [Learn Git Branching](https://learngitbranching.js.org/)
 - [Mastery Games](https://mastery.games/)
 - [Microsoft MakeCode Arcade](https://arcade.makecode.com/)
-- [Mimo: coding app](https://getmimo.com/)
+- [Mimo](https://getmimo.com/) — coding app
 - [Oh My Git!](https://ohmygit.org/)
 - [Pixact.ly](https://pixact.ly/)
-- [py.CheckiO - Python coding challenges and exercises with solutions for beginners and advanced](https://py.checkio.org/)
+- [py.CheckiO](https://py.checkio.org/) — Python coding challenges and exercises with solutions for beginners and advanced
 - [Robocode](https://robocode.sourceforge.io/)
-- [Screeps: MMO RTS sandbox for programmers](https://screeps.com/)
+- [Screeps](https://screeps.com/) — MMO RTS sandbox for programmers
 - [SQL Murder Mystery](https://mystery.knightlab.com/)
 - [Terminal two](https://terminaltwo.com/)
 - [Tynker](https://www.tynker.com/)
-- [Untrusted - javascript adventure game](https://alexnisnevich.github.io/untrusted/)
+- [Untrusted](https://alexnisnevich.github.io/untrusted/) — javascript adventure game
 - [VIM Adventures](https://vim-adventures.com/)
 - [Vim Royale](https://www.vimroyale.com/)
 
@@ -353,19 +353,19 @@ description: Games, launchers, emulators, and gaming utilities
 - [Click 😅 👇 〰️](https://clickclickclick.click/#4e88c11068bf05c5225d574092451d96)
 - [Color](https://color.method.ac/)
 - [Cookie Clicker](https://orteil.dashnet.org/cookieclicker/)
-- [Dialed.gg Color Game — How Well Can You Remember Colors?](https://dialed.gg/)
-- [Dialed.gg Sound — How Good Is Your Ear?](https://dialed.gg/sound)
+- [Dialed.gg Color Game](https://dialed.gg/) — How Well Can You Remember Colors?
+- [Dialed.gg Sound](https://dialed.gg/sound) — How Good Is Your Ear?
 - [Fake Update Prank](https://fakeupdate.net/)
 - [Fall Guys](https://fallguys.com/)
 - [Fall Guys](https://www.fallguys.com/en-US)
 - [Find the Invisible Cow](https://findtheinvisiblecow.com/)
 - [Gamedle](https://www.gamedle.wtf/?lang=en)
-- [Gartic Phone - The telephone game](https://garticphone.com/)
+- [Gartic Phone](https://garticphone.com/) — The telephone game
 - [Gartic.com](https://gartic.com/)
 - [Hacker Typer](https://hackertyper.net/)
 - [Infinite Flowers Zoomquilt](https://infiniteflowers.net/)
 - [Pax Historia](https://www.paxhistoria.co/)
-- [Play4Row - Play Connect Four Online Free](https://play4row.com/)
+- [Play4Row](https://play4row.com/) — Play Connect Four Online Free
 - [Suika Game](https://suikagame.com/)
 - [thank mr skeltal](https://xn--rl8hlm.tk/)
 - [The Office Stare Machine](http://theofficestaremachine.com/)
@@ -380,11 +380,11 @@ description: Games, launchers, emulators, and gaming utilities
 - ⭐ **[Veloren](https://veloren.net/)**
 - [Baldur's Gate 3](https://baldursgate3.game/)
 - [Black Desert](https://www.naeu.playblackdesert.com/en-US/Data/Down)
-- [Black Myth: WuKong](https://heishenhua.com/)
-- [Cataclysm: Dark Days Ahead](https://cataclysmdda.org/)
-- [Cyberounk 2077 - Night City](https://www.nightcity.love/en)
+- [Black Myth](https://heishenhua.com/) — WuKong
+- [Cataclysm](https://cataclysmdda.org/) — Dark Days Ahead
+- [Cyberounk 2077](https://www.nightcity.love/en) — Night City
 - [Cyberpunk 2077](https://www.cyberpunk.net/es/en)
-- [Cyberpunk 2077 - Map Night City](https://maps.piggyback.com/cyberpunk-2077/maps/night-city)
+- [Cyberpunk 2077](https://maps.piggyback.com/cyberpunk-2077/maps/night-city) — Map Night City
 - [Cyberpunk 2077 Interactive Map](https://cyberpunk2077-map.com/)
 - [DOFUS](https://www.dofus.com/en)
 - [Doki Doki Literature Club!](https://ddlc.moe/)
@@ -393,23 +393,23 @@ description: Games, launchers, emulators, and gaming utilities
 - [Endurya](https://endurya.com/)
 - [EVE Online](https://www.eveonline.com/)
 - [FINAL FANTASY XIV](https://na.finalfantasyxiv.com/)
-- [Genshin Impact – Step into a Vast Magical World for Adventure](https://genshin.hoyoverse.com/en/home)
-- [Honkai: Star Rail](https://hsr.hoyoverse.com/en-us/)
-- [Isleward](https://play.isleward.com/) / [🔗](https://gitlab.com/Isleward/isleward)
-- [Netmarble - The Seven Deadly Sins: Origin](https://7origin.netmarble.com/en/)
-- [OpenMW](https://openmw.org/) / [🔗](https://gitlab.com/OpenMW/openmw)
-- [Persona - Game](https://persona.atlus.com/series/portal/us/)
+- [Genshin Impact](https://genshin.hoyoverse.com/en/home) — Step into a Vast Magical World for Adventure
+- [Honkai](https://hsr.hoyoverse.com/en-us/) — Star Rail
+- [Isleward](https://play.isleward.com/) / <a href="https://gitlab.com/Isleward/isleward"><img class="source-host-icon" src="/img/source-hosts/gitlab.svg" alt="GitLab" title="GitLab" width="14" height="14" loading="lazy"></a>
+- [Netmarble](https://7origin.netmarble.com/en/) — The Seven Deadly Sins: Origin
+- [OpenMW](https://openmw.org/) / <a href="https://gitlab.com/OpenMW/openmw"><img class="source-host-icon" src="/img/source-hosts/gitlab.svg" alt="GitLab" title="GitLab" width="14" height="14" loading="lazy"></a>
+- [Persona](https://persona.atlus.com/series/portal/us/) — Game
 - [Pkémon Reborn Evolved](https://www.rebornevo.com/)
 - [Pokémon Champions](https://champions.pokemon.com/en-us/)
 - [Pokémon Pokopia](https://pokopia.pokemon.com/en-us/)
-- [Ryzom - Free to Play Open-Source MMORPG](https://ryzom.com/)
-- [The Witcher 3 - Maps](http://witcher3map.com/)
-- [The Witcher Universe | Action-Adventure RPGs](https://thewitcher.com/en)
-- [There - The online virtual world that is your everyday hangout](https://www.prod.there.com/)
-- [Tibia - Free Multiplayer Online Role Playing Game](https://www.tibia.com/mmorpg/free-multiplayer-online-role-playing-game.php)
+- [Ryzom](https://ryzom.com/) — Free to Play Open-Source MMORPG
+- [The Witcher 3](http://witcher3map.com/) — Maps
+- [The Witcher Universe](https://thewitcher.com/en) — Action-Adventure RPGs
+- [There](https://www.prod.there.com/) — The online virtual world that is your everyday hangout
+- [Tibia](https://www.tibia.com/mmorpg/free-multiplayer-online-role-playing-game.php) — Free Multiplayer Online Role Playing Game
 - [WAKFU](https://www.wakfu.com/en/mmorpg)
 - [World of Warcraft](https://worldofwarcraft.blizzard.com/en-us/)
-- [Zenless Zone Zero – "Welcome to New Eridu"](https://zenless.hoyoverse.com/en-us/)
+- [Zenless Zone Zero](https://zenless.hoyoverse.com/en-us/) — "Welcome to New Eridu"
 
 ### Action
 - ⭐ **[Krunker.io](https://krunker.io/)**
@@ -418,31 +418,31 @@ description: Games, launchers, emulators, and gaming utilities
 - [Agarr.org](https://agarr.org/)
 - [AssaultCube Reloaded](https://acr.victorz.ca/)
 - [Call of Duty®](https://www.callofduty.com/es/)
-- [COD: Warzone](https://www.callofduty.com/warzone)
+- [COD](https://www.callofduty.com/warzone) — Warzone
 - [Counter-Strike 2](https://www.counter-strike.net/)
-- [Cube 2: Sauerbraten](http://sauerbraten.org/)
+- [Cube 2](http://sauerbraten.org/) — Sauerbraten
 - [Deep Rock Galactic](https://www.deeprockgalactic.com/)
 - [diep.io](https://diep.io/)
 - [Dungeon Fighter Online](https://www.dfoneople.com/)
 - [Escape from Tarkov](https://www.escapefromtarkov.com/)
 - [EvoWars.io](https://evowars.io/?v=1.8.2)
-- [FNAF - Five Nights At Freddy's](http://fnaf.online/)
-- [Fortnite – A Free-to-Play Battle Royale Game and More](https://www.fortnite.com/)
-- [Fortnite | Xbox Cloud Gaming](https://www.xbox.com/en-US/play/launch/fortnite/BT5P2X999VH2)
+- [FNAF](http://fnaf.online/) — Five Nights At Freddy's
+- [Fortnite](https://www.fortnite.com/) — A Free-to-Play Battle Royale Game and More
+- [Fortnite](https://www.xbox.com/en-US/play/launch/fortnite/BT5P2X999VH2) — Xbox Cloud Gaming
 - [Fortnite Interactive Map](https://fortnite.gg/)
-- [Fortnite Tracker - Fortnite Stats, Events, Leaderboard, Items Shop](https://fortnitetracker.gg/)
+- [Fortnite Tracker](https://fortnitetracker.gg/) — Fortnite Stats, Events, Leaderboard, Items Shop
 - [Fragpunk Experience the new lancer Hurricane](https://www.fragpunk.com/#/)
 - [GTA 5 RP Grand](https://gta5grand.com/)
 - [GTA V](https://www.rockstargames.com/V)
 - [OpenArena](https://openarena.ws/smfnews.php)
-- [OpenRW - Open Source GTA III engine re-implementation](https://openrw.org/)
+- [OpenRW](https://openrw.org/) — Open Source GTA III engine re-implementation
 - [Overwatch 2](https://overwatch.blizzard.com/en-us/)
-- [Red Eclipse - A free arena shooter featuring parkour](https://www.redeclipse.net/)
+- [Red Eclipse](https://www.redeclipse.net/) — A free arena shooter featuring parkour
 - [Rust](https://rust.facepunch.com/)
 - [Sea of Thieves](https://www.seaofthieves.com/)
 - [slither.io](http://slither.com/io)
 - [Soul Knight](https://play.google.com/store/apps/details?id=com.ChillyRoom.DungeonShooter)
-- [Strinova - The Next-Gen Anime Shooter - Free to Play](https://www.strinova.com/?lang=en-US)
+- [Strinova](https://www.strinova.com/?lang=en-US) — The Next-Gen Anime Shooter - Free to Play
 - [SuperTuxKart](https://supertuxkart.net/Main_Page)
 - [Teeworlds](https://teeworlds.com/)
 - [THE FINALS](https://www.reachthefinals.com/)
@@ -450,22 +450,22 @@ description: Games, launchers, emulators, and gaming utilities
 - [VALORANT](https://playvalorant.com/es-es/)
 - [Warsow](https://www.warsow.net/)
 - [WebLiero](https://www.webliero.com/)
-- [Xonotic: The Free and Fast Arena Shooter](https://xonotic.org/)
+- [Xonotic](https://xonotic.org/) — The Free and Fast Arena Shooter
 - [ZDoom](https://www.zdoom.org/index)
 
 ### Strategy
-- ⭐ **[0 A.D.: Empires Ascendant](https://play0ad.com/)** / [🔗](https://gitea.wildfiregames.com/0ad/0ad)
+- ⭐ **[0 A.D.](https://play0ad.com/)** / <a href="https://gitea.wildfiregames.com/0ad/0ad"><img class="source-host-icon" src="/img/source-hosts/gitea.svg" alt="Gitea" title="Gitea" width="14" height="14" loading="lazy"></a> — Empires Ascendant
 - [Age of Empires Franchise](https://www.ageofempires.com/)
-- [Anuken/Mindustry: The automation tower defense RTS](https://github.com/Anuken/Mindustry)
+- [Anuken/Mindustry](https://github.com/Anuken/Mindustry) — The automation tower defense RTS
 - [Axie Infinity](https://axieinfinity.com/)
 - [Axie Players](https://axieplayers.com/)
-- [Castles.cc - Build, trade, farm, mine, and craft!](https://castles.cc/)
+- [Castles.cc](https://castles.cc/) — Build, trade, farm, mine, and craft!
 - [Clash Royale](https://clashroyale.com/)
 - [Company of Heroes 3](https://www.companyofheroes.com/)
-- [CONV/RGENCE: A League of Legends Story](https://convrgencegame.com/)
-- [Hextech Mayhem - A League of Legends Story](https://hextechmayhem.com/en-us/)
+- [CONV/RGENCE](https://convrgencegame.com/) — A League of Legends Story
+- [Hextech Mayhem](https://hextechmayhem.com/en-us/) — A League of Legends Story
 - [League of Legends](https://euw.leagueoflegends.com/en-us/)
-- [League of Legends: Wild Rift](https://wildrift.leagueoflegends.com/en-us/)
+- [League of Legends](https://wildrift.leagueoflegends.com/en-us/) — Wild Rift
 - [Legends of Runeterra](https://playruneterra.com/en-us/)
 - [Longturn](https://longturn.net/)
 - [Mafia Game](https://mafiagame.com/)
@@ -474,26 +474,26 @@ description: Games, launchers, emulators, and gaming utilities
 - [NationStates](https://www.nationstates.net/)
 - [OpenClonk](https://www.openclonk.org/)
 - [OpenRA](https://www.openra.net/)
-- [Ruined King: A League of Legends Story](https://ruinedking.com/en-us/)
-- [TFT: MONSTERS ATTACK! - Teamfight Tactics](https://teamfighttactics.leagueoflegends.com/en-us/)
+- [Ruined King](https://ruinedking.com/en-us/) — A League of Legends Story
+- [TFT](https://teamfighttactics.leagueoflegends.com/en-us/) — MONSTERS ATTACK! - Teamfight Tactics
 - [The Battle for Wesnoth](https://www.wesnoth.org/)
 - [The Battle of Polytopia](https://polytopia.io/)
 - [Total War](https://www.totalwar.com/)
 - [TripleA](https://triplea-game.org/)
-- [Warzone 2100 - Real-Time Strategy Game](https://wz2100.net/)
+- [Warzone 2100](https://wz2100.net/) — Real-Time Strategy Game
 - [Widelands.org](https://www.widelands.org/)
 - [XCOM 2](https://xcom.com/es-ES/)
 
 ### Arcade
-- [Akinator the Genie :: Elokence](https://www.elokence.com/content/akinator-the-genie)
-- [Antstream Arcade: Play over 1300 Classic Retro Video Games](https://www.antstream.com/)
+- [Akinator the Genie :](https://www.elokence.com/content/akinator-the-genie) — Elokence
+- [Antstream Arcade](https://www.antstream.com/) — Play over 1300 Classic Retro Video Games
 - [Cookie Consent Speed.Run](https://cookieconsentspeed.run/)
-- [DOS Zone | DOS games in browser](https://dos.zone/)
+- [DOS Zone](https://dos.zone/) — DOS games in browser
 - [Fruit Ninja](https://fruitninja.com/)
 - [Goat Attack](http://www.goatattack.net/)
 - [JHDev2006/Super-Mario-Bros.-Remastered-Public · GitHub](https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public)
 - [PAC-MAN](https://www.pacman.com/en/)
-- [Pacxon - Play Pacxon Game (Pacman Xon)](https://www.pacxon.net/)
+- [Pacxon](https://www.pacxon.net/) — Play Pacxon Game (Pacman Xon)
 - [Paper.io 2](https://paperio.site/)
 - [Paper.io 2](https://games.voodoo.io/paperio2)
 - [Paperio](https://paper-io.com/)
@@ -504,46 +504,46 @@ description: Games, launchers, emulators, and gaming utilities
 - [Snake in a QR code](https://itsmattkc.com/etc/snakeqr)
 - [Sonic the Hedgehog](https://www.sonicthehedgehog.com/)
 - [Super Hexagon](https://superhexagon.com/)
-- [Super Mario Bros - Game Online](https://supermarioplay.com/)
+- [Super Mario Bros](https://supermarioplay.com/) — Game Online
 - [SuperTux](https://www.supertux.org/)
 - [The World's Biggest PAC-MAN](https://worldsbiggestpacman.com/)
-- [VVVVVV](https://thelettervsixtim.es/) / [🔗](https://github.com/TerryCavanagh/VVVVVV)
+- [VVVVVV](https://thelettervsixtim.es/) / <a href="https://github.com/TerryCavanagh/VVVVVV"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 
 ### Adventure
 - [BuildTheEarth](https://buildtheearth.net/)
 - [ClassiCube.net](https://www.classicube.net/)
-- [MCEdit - World Editor for Minecraft](https://www.mcedit.net/)
+- [MCEdit](https://www.mcedit.net/) — World Editor for Minecraft
 - [Minecraft](https://www.minecraft.net/en-us)
 - [Minecraft Classic](https://classic.minecraft.net/?join=-KxoGsNDtBzDvHuT)
-- [Minecraft Education - Get Minecraft for Your Classroom](https://education.minecraft.net/en-us)
+- [Minecraft Education](https://education.minecraft.net/en-us) — Get Minecraft for Your Classroom
 - [Minecraft Home](https://minecraftathome.com/minecrafthome)
 - [Minecraft Skins](https://minecraftskins.com/)
-- [Pioneer - space adventure game](https://pioneerspacesim.net/#slide0)
+- [Pioneer](https://pioneerspacesim.net/#slide0) — space adventure game
 - [Planet Minecraft](https://www.planetminecraft.com/)
 - [Pokemon](https://www.pokemon.com/us)
 - [Pokémon GO](https://pokemongolive.com/)
 - [Pokemon.co.jp](https://www.pokemon.co.jp/)
 - [Roblox](https://www.roblox.com/)
 - [STASIS 2](https://stasis2.com/)
-- [Super Mario™ – NIntendo](https://mario.nintendo.com/)
-- [Yo Frankie! – Apricot Open Game Project](https://apricot.blender.org/)
+- [Super Mario™](https://mario.nintendo.com/) — NIntendo
+- [Yo Frankie!](https://apricot.blender.org/) — Apricot Open Game Project
 
 ### Racing
-- [Asphalt 9: Legends - Arcade Racing](https://asphaltlegends.com/)
+- [Asphalt 9](https://asphaltlegends.com/) — Legends - Arcade Racing
 - [Forza Motorsport](https://forzamotorsport.net/en-US)
 - [gran-turismo.com](https://www.gran-turismo.com/es/)
-- [GRID™ Legends - Codemasters - Electronic Arts](https://www.ea.com/en-gb/games/grid/grid-legends)
+- [GRID™ Legends](https://www.ea.com/en-gb/games/grid/grid-legends) — Codemasters - Electronic Arts
 - [HexGL](http://hexgl.bkcore.com/)
-- [iRacing: Join Our Online eSports Sim Racing Leagues Today](https://www.iracing.com/)
+- [iRacing](https://www.iracing.com/) — Join Our Online eSports Sim Racing Leagues Today
 - [Mario Kart PC](https://mkpc.malahieude.net/)
 - [Speed Dreams](https://www.speed-dreams.net/en/)
-- [Wave Racer - INK TIDE](https://wave-racer.vercel.app/)
+- [Wave Racer](https://wave-racer.vercel.app/) — INK TIDE
 
 ### Cards
-- [Balatro: Deck-Building Roguelite](https://www.playbalatro.com/)
+- [Balatro](https://www.playbalatro.com/) — Deck-Building Roguelite
 - [CardGames.io](https://cardgames.io/)
 - [Karabast](https://karabast.net/)
-- [Meteorfall: Krumit's Tale](https://www.krumits-tale.com/)
+- [Meteorfall](https://www.krumits-tale.com/) — Krumit's Tale
 - [PySolFC Solitaire](https://pysolfc.sourceforge.io/)
 - [Towers Of Mordoria by teej_dv](https://teej-dv.itch.io/towers-of-mordoria)
 
@@ -554,14 +554,14 @@ description: Games, launchers, emulators, and gaming utilities
 
 ## Gaming Utilities
 - [PSX-Place](https://www.psx-place.com/)
-- [Wand | Make Gaming Magical](https://wand.com/)
+- [Wand](https://wand.com/) — Make Gaming Magical
 
 ### Game Statistics
-- [ActivePlayer.io - The Game Statistics Authority](https://activeplayer.io/)
+- [ActivePlayer.io](https://activeplayer.io/) — The Game Statistics Authority
 - [Brawl Stats](https://brawlstats.com/)
 - [Brawlify for Brawl Stars](https://brawlify.com/)
 - [DMarket](https://dmarket.com/ingame-items/item-list/csgo-skins)
-- [EpicData - Epic Games data tracker](https://database.egdata.app/)
+- [EpicData](https://database.egdata.app/) — Epic Games data tracker
 - [FIDE Ratings and Statistics](https://ratings.fide.com/)
 - [Games Mojo](https://gamesmojo.com/)
 - [Leaguepedia](https://lol.gamepedia.com/League_of_Legends_Esports_Wiki)
@@ -570,15 +570,15 @@ description: Games, launchers, emulators, and gaming utilities
 - [Porofessor.gg](https://porofessor.gg/)
 - [Speedrun](https://www.speedrun.com/)
 - [StatsRoyale.com](https://statsroyale.com/)
-- [Streams - Datalab](https://www.invenglobal.com/datalab/stream)
-- [TFTactics.gg - TFT Team Comps, Overlay, and Database](https://tftactics.gg/)
+- [Streams](https://www.invenglobal.com/datalab/stream) — Datalab
+- [TFTactics.gg](https://tftactics.gg/) — TFT Team Comps, Overlay, and Database
 - [World of Warcraft Rankings for Mythic+ and Raid Progress](https://raider.io/)
 
 #### Steam Info
 - ⭐ **[SteamDB](https://steamdb.info/)**
 - [AStats](http://astats.astats.nl/astats)
 - [DLCompare](https://www.dlcompare.com/)
-- [Steam 250 - Rankings overview](https://steam250.com/)
+- [Steam 250](https://steam250.com/) — Rankings overview
 - [Steam Charts](https://steamcharts.com/)
 - [Steam Ladder](https://steamladder.com/)
 - [Steam Player Count](https://steamplayercount.com/)
@@ -591,30 +591,30 @@ description: Games, launchers, emulators, and gaming utilities
 
 ### Games Mods
 - ⭐ **[Plutonium Project](https://plutonium.pw/)**
-- [9Minecraft | The Best Resource for Minecraft](https://www.9minecraft.net/)
-- [All mods | Thunderstore - The Risk of Rain 2 Mod Database](https://thunderstore.io/)
+- [9Minecraft](https://www.9minecraft.net/) — The Best Resource for Minecraft
+- [All mods](https://thunderstore.io/) — Thunderstore - The Risk of Rain 2 Mod Database
 - [Cheat Engine](https://www.cheatengine.org/)
 - [CurseForge](https://www.curseforge.com/)
-- [CurseForge - Minecraft Mods & Modpacks](https://www.curseforge.com/minecraft)
+- [CurseForge](https://www.curseforge.com/minecraft) — Minecraft Mods & Modpacks
 - [Despistaos RP](https://despistaos.es/)
-- [ebkr/r2modmanPlus: A simple and easy to use mod manager for several games using Thunderstore](https://github.com/ebkr/r2modmanPlus)
+- [ebkr/r2modmanPlus](https://github.com/ebkr/r2modmanPlus) — A simple and easy to use mod manager for several games using Thunderstore
 - [FiveM](https://fivem.net/)
-- [Flightsim - Flight Simulator Mods](https://flightsim.to/)
+- [Flightsim](https://flightsim.to/) — Flight Simulator Mods
 - [GTA5-Mods](https://www.gta5-mods.com/)
-- [MelonLoader - Universal Mod Loader](https://melonloader.co/)
+- [MelonLoader](https://melonloader.co/) — Universal Mod Loader
 - [Mod Organizer 2](https://www.nexusmods.com/skyrimspecialedition/mods/6194)
 - [Mod Organizer 2](https://www.modorganizer.org/)
-- [mod.io - Cross Platform Mod Support for Games](https://mod.io/)
+- [mod.io](https://mod.io/) — Cross Platform Mod Support for Games
 - [ModOrganizer2/modorganizer · GitHub](https://github.com/ModOrganizer2/modorganizer)
 - [Modrinth](https://modrinth.com/)
 - [Nexus mods](https://www.nexusmods.com/)
-- [Nexus-Mods/Vortex: Vortex Development](https://github.com/Nexus-Mods/Vortex)
-- [OpenIV - The ultimate modding tool for GTA](https://openiv.com/)
-- [Platinmods.com - Android & iOS MODs, Mobile Games & Apps](https://platinmods.com/)
+- [Nexus-Mods/Vortex](https://github.com/Nexus-Mods/Vortex) — Vortex Development
+- [OpenIV](https://openiv.com/) — The ultimate modding tool for GTA
+- [Platinmods.com](https://platinmods.com/) — Android & iOS MODs, Mobile Games & Apps
 - [RedM](https://redm.gg/)
 - [RedM](https://redm.net/)
 - [Redmodding](https://redmodding.org/)
-- [Terra 1 to 1 - Mods](https://www.curseforge.com/minecraft/mc-mods/terra-1-to-1-minecraft-world-project)
+- [Terra 1 to 1](https://www.curseforge.com/minecraft/mc-mods/terra-1-to-1-minecraft-world-project) — Mods
 - [TrackyServer](https://www.trackyserver.com/)
 - [Trainers For Games](https://trainersforgames.com/)
 - [uMod](https://umod.org/)
@@ -626,84 +626,84 @@ description: Games, launchers, emulators, and gaming utilities
 - [Bazaar DB](https://bazaardb.gg/)
 - [Blitz](https://blitz.gg/)
 - [Deck Shop for Clash Royale](https://www.deckshop.pro/)
-- [Emulation Revival - Xbox Dev Mode: Emulators, Apps & Game Ports](https://emulationrevival.github.io/)
+- [Emulation Revival](https://emulationrevival.github.io/) — Xbox Dev Mode: Emulators, Apps & Game Ports
 - [Gamepressure](https://guides.gamepressure.com/)
 - [Guías de juegos](https://www.eliteguias.com/)
 - [HowLongToBeat](https://howlongtobeat.com/)
 - [Liquipedia](https://liquipedia.net/)
 - [Mejoress](https://www.mejoress.com/en)
-- [Super Cheats - Game Cheats, Codes, Help and Walkthroughs](https://www.supercheats.com/)
+- [Super Cheats](https://www.supercheats.com/) — Game Cheats, Codes, Help and Walkthroughs
 - [Tracker Network](https://tracker.gg/)
 - [Trucos y comandos de CS:GO](https://vandal.elespanol.com/guias/guia-counterstrike-global-offensive-csgo-trucos-y-consejos/comandos)
 
 ### Game Launcher
 - ⭐ **[Steam platform](https://store.steampowered.com/about)**
-- [Ascendara - Test Games Before You Buy](https://ascendara.app/) / [🔗](https://github.com/Ascendara/ascendara)
+- [Ascendara](https://ascendara.app/) / <a href="https://github.com/Ascendara/ascendara"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Test Games Before You Buy
 - [Bethesda Launcher](https://bethesda.net/en/games/home)
 - [Blizzard Entertainment](https://www.blizzard.com/en-us/apps/battle.net/desktop)
-- [Crankshaft - Steam Plugin Framework](https://crankshaft.space/)
-- [dekomote/vermouth: A game and app launcher for Linux - native, Windows, and retro. KDE-first, lightweight, no frills](https://github.com/dekomote/vermouth)
-- [ElyPrismLauncher · Home](https://elyprismlauncher.github.io/) / [🔗](https://github.com/ElyPrismLauncher/ElyPrismLauncher)
+- [Crankshaft](https://crankshaft.space/) — Steam Plugin Framework
+- [dekomote/vermouth](https://github.com/dekomote/vermouth) — A game and app launcher for Linux - native, Windows, and retro. KDE-first, lightweight, no frills
+- [ElyPrismLauncher · Home](https://elyprismlauncher.github.io/) / <a href="https://github.com/ElyPrismLauncher/ElyPrismLauncher"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [Epic Games](https://store.epicgames.com/en-US/)
-- [Faugus/faugus-launcher: A simple and lightweight app for running Windows games using UMU-Launcher](https://github.com/Faugus/faugus-launcher)
+- [Faugus/faugus-launcher](https://github.com/Faugus/faugus-launcher) — A simple and lightweight app for running Windows games using UMU-Launcher
 - [Gameforge.com](https://gameforge.com/en-US)
 - [GameHub](https://tkashkin.github.io/projects/gamehub/)
 - [GameVault](https://gamevau.lt/)
-- [GDLauncher - Minecraft Launcher](https://gdevs.io/)
+- [GDLauncher](https://gdevs.io/) — Minecraft Launcher
 - [GOG GALAXY 2.0 -- All your games in one place](https://www.gog.com/galaxy)
 - [grimsi/gameyfin · GitHub](https://github.com/grimsi/gameyfin)
 - [Heroic Games Launcher](https://heroicgameslauncher.com/)
 - [HeroicBashLauncher · GitHub](https://github.com/redromnon/HeroicBashLauncher/)
-- [Hydra Launcher - The Game Launcher for the 21st Century](https://hydralauncher.gg/) / [🔗](https://github.com/hydralauncher/hydra)
+- [Hydra Launcher](https://hydralauncher.gg/) / <a href="https://github.com/hydralauncher/hydra"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — The Game Launcher for the 21st Century
 - [Hydralauncher](https://hydralauncher.site/)
-- [kra-mo/cartridges: A GTK4 + Libadwaita game launcher](https://github.com/kra-mo/cartridges)
+- [kra-mo/cartridges](https://github.com/kra-mo/cartridges) — A GTK4 + Libadwaita game launcher
 - [LaunchBox](https://www.launchbox-app.com/)
-- [Legendary - Epic Games Launcher](https://github.com/derrod/legendary)
-- [Lutris - Open Gaming Platform](https://lutris.net/)
+- [Legendary](https://github.com/derrod/legendary) — Epic Games Launcher
+- [Lutris](https://lutris.net/) — Open Gaming Platform
 - [MultiMC](https://multimc.org/)
 - [Mythic](https://getmythic.app/)
 - [NVIDIA GeForce Experience](https://www.nvidia.com/es-es/geforce/geforce-experience/)
 - [Origin Client](https://www.origin.com/esp/en-us/store/download)
 - [Pegasus Frontend](https://pegasus-frontend.org/)
-- [PlayNest – Connect Accounts, Track Games & View Stats](https://playnest.dev/)
-- [Playnite - video game library manager](https://playnite.link/) / [🔗](https://github.com/JosefNemec/Playnite)
+- [PlayNest](https://playnest.dev/) — Connect Accounts, Track Games & View Stats
+- [Playnite](https://playnite.link/) / <a href="https://github.com/JosefNemec/Playnite"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — video game library manager
 - [PolyMC](https://polymc.org/)
 - [Prism Launcher](https://prismlauncher.org/)
 - [Razer Cortex](https://www.razer.com/cortex)
-- [Rockstar Games - Social Club](https://socialclub.rockstargames.com/)
+- [Rockstar Games](https://socialclub.rockstargames.com/) — Social Club
 - [Technic Platform](https://www.technicpack.net/)
-- [The RomM Project](https://romm.app/) / [🔗](https://github.com/rommapp/romm)
+- [The RomM Project](https://romm.app/) / <a href="https://github.com/rommapp/romm"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [tkashkin/GameHub · GitHub](https://github.com/tkashkin/GameHub)
 - [TL Legacy for Minecraft](https://tlaun.ch/)
 - [Twintail Launcher](https://twintaillauncher.app/)
 - [Ubisoft Connect](https://ubisoftconnect.com/en-US/)
 - [Ultimate launcher](https://ultimatelauncher.com/)
 - [WebMC](https://webmc.xyz/)
-- [xiv.zone - Astra](https://xiv.zone/astra/)
-- [Zalith Launcher](https://www.zalithlauncher.cn/en/) / [🔗](https://github.com/ZalithLauncher/ZalithLauncher2)
+- [xiv.zone](https://xiv.zone/astra/) — Astra
+- [Zalith Launcher](https://www.zalithlauncher.cn/en/) / <a href="https://github.com/ZalithLauncher/ZalithLauncher2"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 
 ### Game Save
-- [ClayAmore/ER-Save-Editor: Elden Ring Save Editor](https://github.com/ClayAmore/ER-Save-Editor)
+- [ClayAmore/ER-Save-Editor](https://github.com/ClayAmore/ER-Save-Editor) — Elden Ring Save Editor
 - [GameSave Manager](https://www.gamesave-manager.com/)
-- [List of Games - Save Game Locations](https://savelocations.fandom.com/wiki/List_of_Games)
+- [List of Games](https://savelocations.fandom.com/wiki/List_of_Games) — Save Game Locations
 - [mymc, a PS2 Memory Card Image Utility](http://www.csclub.uwaterloo.ca:11068/mymc/index.html)
 - [PC Game Saves](https://www.thetechgame.com/Downloads/cid=66/pc-game-saves.html)
 - [PC Savegames](http://www.nicouzouf.com/en)
 - [Save Game World](http://www.savegameworld.com/)
-- [Save Games for PC – Chordian.net](http://olivi.chordian.net/save-games-for-pc)
+- [Save Games for PC](http://olivi.chordian.net/save-games-for-pc) — Chordian.net
 - [SaveGame.Pro](https://savegame.pro/)
 - [Saves For Games](https://savesforgames.com/)
 
 ### Games Map
-- [Total War: Warhammer II - Interactive Map](https://imrz.github.io/tww-interactive-map/latest#/map/mortal/planner?overlays=Faction%20icons,Regions,Map%20labels)
+- [Total War](https://imrz.github.io/tww-interactive-map/latest#/map/mortal/planner?overlays=Faction%20icons,Regions,Map%20labels) — Warhammer II - Interactive Map
 
 ### Game Server
 - [40servidoresmc](https://www.40servidoresmc.es/)
-- [Calagopus - Open-Source Game Server Management Panel](https://calagopus.com/) / [🔗](https://github.com/calagopus/panel)
+- [Calagopus](https://calagopus.com/) / <a href="https://github.com/calagopus/panel"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Open-Source Game Server Management Panel
 - [CatServer](https://catmc.org/)
-- [Cuberite - A lightweight, fast and extensible game server for Minecraft](https://cuberite.org/)
+- [Cuberite](https://cuberite.org/) — A lightweight, fast and extensible game server for Minecraft
 - [EngineHub](https://enginehub.org/)
-- [FeatherPanel - Modern Game Server Management Panel | Minecraft, Rust & More](https://featherpanel.com/) / [🔗](https://github.com/MythicalLTD/FeatherPanel)
+- [FeatherPanel](https://featherpanel.com/) / <a href="https://github.com/MythicalLTD/FeatherPanel"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Modern Game Server Management Panel | Minecraft, Rust & More
 - [forseti.es](https://www.forseti.es/)
 - [GeyserMC](https://geysermc.org/)
 - [Lunar Client](https://www.lunarclient.com/)
@@ -711,54 +711,54 @@ description: Games, launchers, emulators, and gaming utilities
 - [Minecraft Forge Forums](https://forums.minecraftforge.net/)
 - [Minecraft Server List](https://minecraft-mp.com/)
 - [Minecraft Server List](https://minecraft-server-list.com/)
-- [Minecraft Servers | Minecraft Server List](https://minecraftservers.org/)
-- [Minecraft Servers | Planet Minecraft Community](https://www.planetminecraft.com/servers/)
-- [Minestom: Fast and open source Minecraft server](https://minestom.net/)
+- [Minecraft Servers](https://minecraftservers.org/) — Minecraft Server List
+- [Minecraft Servers](https://www.planetminecraft.com/servers/) — Planet Minecraft Community
+- [Minestom](https://minestom.net/) — Fast and open source Minecraft server
 - [NamelessMC](https://namelessmc.com/)
 - [PaperMC](https://papermc.io/)
 - [PocketMine-MP](https://pmmp.io/)
 - [PrismarineJS](https://prismarine.js.org/)
-- [ServerBuddy: Find Active Minecraft Servers](https://serverbuddy.net/)
+- [ServerBuddy](https://serverbuddy.net/) — Find Active Minecraft Servers
 - [Top Minecraft Servers](https://topminecraftservers.org/)
 
 ### Anti-Cheat
-- [AlSch092/UltimateAntiCheat: UltimateAnticheat is an open source usermode anti-cheat system made to detect and prevent common attack vectors in game cheating (C++, Windows)](https://github.com/AlSch092/UltimateAntiCheat)
-- [Antichear expert - 腾讯游戏安全](https://m.anticheatexpert.com/)
+- [AlSch092/UltimateAntiCheat](https://github.com/AlSch092/UltimateAntiCheat) — UltimateAnticheat is an open source usermode anti-cheat system made to detect and prevent common attack vectors in game cheating (C++, Windows)
+- [Antichear expert](https://m.anticheatexpert.com/) — 腾讯游戏安全
 - [Are We Anti-Cheat Yet?](https://areweanticheatyet.com/)
 - [BattlEye](https://www.battleye.com/)
 - [Denuvo](https://irdeto.com/denuvo/)
 - [Easy Anti-Cheat](https://www.easy.ac/en-us/)
 - [Even Balance](https://evenbalance.com/)
-- [Valve Anti-Cheat - Wikipedia](https://en.wikipedia.org/wiki/Valve_Anti-Cheat)
+- [Valve Anti-Cheat](https://en.wikipedia.org/wiki/Valve_Anti-Cheat) — Wikipedia
 
 ### Cheats
 - [Nezur, Roblox's #1 Free External](https://nezur.app/)
-- [scar17off/zyro-ddnet: An open-source cheat client for DDNet (DDRace Network) focused on simplicity and clean code architecture.](https://github.com/scar17off/zyro-ddnet)
+- [scar17off/zyro-ddnet](https://github.com/scar17off/zyro-ddnet) — An open-source cheat client for DDNet (DDRace Network) focused on simplicity and clean code architecture.
 - [WeAreDevs](https://wearedevs.net/home)
 
 #### Cheat Software
 - [Battlelog Enhancements for PC Games (Cheats and Hacks)](https://battlelog.co/)
-- [bruhmoment21/cs2-sdk: Counter-Strike 2 SDK/Base written in C++.](https://github.com/bruhmoment21/cs2-sdk)
-- [danielkrupinski/Osiris: Cross-platform game hack for Counter-Strike 2 with Panorama-based GUI.](https://github.com/danielkrupinski/Osiris)
+- [bruhmoment21/cs2-sdk](https://github.com/bruhmoment21/cs2-sdk) — Counter-Strike 2 SDK/Base written in C++.
+- [danielkrupinski/Osiris](https://github.com/danielkrupinski/Osiris) — Cross-platform game hack for Counter-Strike 2 with Panorama-based GUI.
 - [degeneratehyperbola/NEPS · GitHub](https://github.com/degeneratehyperbola/NEPS)
-- [IMXNOOBX/cs2-external-esp: Simple external esp using discord's/gdi overlay to render a box-esp on top of Counter-Strike 2, highlighting your enemies and teammates including their health.](https://github.com/IMXNOOBX/cs2-external-esp)
+- [IMXNOOBX/cs2-external-esp](https://github.com/IMXNOOBX/cs2-external-esp) — Simple external esp using discord's/gdi overlay to render a box-esp on top of Counter-Strike 2, highlighting your enemies and teammates including their health.
 - [KingzCheats/Fortnite-External · GitHub](https://github.com/KingzCheats/Fortnite-External)
-- [SecureCheats - The Best Call of Duty Hacks For PC Games](https://securecheats.com/)
-- [SKYCheats - The Best enhancements for PC Games (Cheats, Hacks)](https://www.skycheats.com/)
-- [UnKnoWnCheaTs - Game Hacking, Game Hacks & Game Cheats](https://www.unknowncheats.me/forum/index.php)
+- [SecureCheats](https://securecheats.com/) — The Best Call of Duty Hacks For PC Games
+- [SKYCheats](https://www.skycheats.com/) — The Best enhancements for PC Games (Cheats, Hacks)
+- [UnKnoWnCheaTs](https://www.unknowncheats.me/forum/index.php) — Game Hacking, Game Hacks & Game Cheats
 - [Valthrun](https://wiki.valth.run/)
-- [Valthrun/Valthrun: Valthrun an open source external CS2 read only kernel gameplay enhancer.](https://github.com/Valthrun/Valthrun)
-- [Wallhax - Download 20+ Feature-Loaded Private Hacks & Cheats](https://wallhax.com/)
+- [Valthrun/Valthrun](https://github.com/Valthrun/Valthrun) — Valthrun an open source external CS2 read only kernel gameplay enhancer.
+- [Wallhax](https://wallhax.com/) — Download 20+ Feature-Loaded Private Hacks & Cheats
 
 #### Cheat Codes
 - [All the GTA V cheat codes on Xbox, PS5 and PS4 and PC](https://www.redbull.com/gb-en/gta-5-cheat-codes)
 - [Cheat Code Central](https://www.cheatcc.com/)
-- [CheatCodes.com - Cheats, Codes, Hints, Guides, Achievements & Trophies](https://www.cheatcodes.com/)
+- [CheatCodes.com](https://www.cheatcodes.com/) — Cheats, Codes, Hints, Guides, Achievements & Trophies
 - [Commands.gg](https://commands.gg/)
-- [Cyberpunk 2077 Console Commands and Cheats List - Cyberpunk 2077 Guide - IGN](https://www.ign.com/wikis/cyberpunk-2077/Cyberpunk_2077_Console_Commands_and_Cheats_List)
-- [GTrainers - Game Trainers, Cheats and Savegames](https://gtrainers.com/)
-- [The Witcher 3 Console Commands: Ultimate Edition - Steam Community](https://steamcommunity.com/sharedfiles/filedetails/?id=2190052275)
-- [Witcher 3 Console Commands List | Commands.gg](https://commands.gg/witcher3)
+- [Cyberpunk 2077 Console Commands and Cheats List](https://www.ign.com/wikis/cyberpunk-2077/Cyberpunk_2077_Console_Commands_and_Cheats_List) — Cyberpunk 2077 Guide - IGN
+- [GTrainers](https://gtrainers.com/) — Game Trainers, Cheats and Savegames
+- [The Witcher 3 Console Commands](https://steamcommunity.com/sharedfiles/filedetails/?id=2190052275) — Ultimate Edition - Steam Community
+- [Witcher 3 Console Commands List](https://commands.gg/witcher3) — Commands.gg
 
 ## Minigames
 - ⭐ **[GN-Math](https://gn-math.dev/)**
@@ -768,50 +768,50 @@ description: Games, launchers, emulators, and gaming utilities
 - [Agame](https://www.agame.com/)
 - [Arcade Spot](https://arcadespot.com/)
 - [Arkadium Games](https://www.arkadium.com/)
-- [Bloxd.io - Play Free Online Games!](https://bloxd.io/)
+- [Bloxd.io](https://bloxd.io/) — Play Free Online Games!
 - [CrazyGames](https://www.crazygames.com/)
 - [CuteDressUp.com](https://cutedressup.com/)
-- [FlashArch - Flash Games, Anime Archive](https://flasharch.com/en)
+- [FlashArch](https://flasharch.com/en) — Flash Games, Anime Archive
 - [FlyOrDie](https://www.flyordie.com/)
 - [Freegames](https://www.fanfreegames.com/)
 - [Game Hangman](https://www.gamehangman.com/)
 - [GameBanana](https://gamebanana.com/)
 - [Gameflare.com](https://www.gameflare.com/)
-- [GamePuma.com - Free Online Games](https://gamepuma.com/)
+- [GamePuma.com](https://gamepuma.com/) — Free Online Games
 - [Games from MSN](https://www.msn.com/en-us/play)
 - [Games.lol](https://games.lol/)
-- [gidd.io - Free games to play with your friends online](https://gidd.io/)
-- [Hot Games - Free Online Games](https://hotgames.io/)
+- [gidd.io](https://gidd.io/) — Free games to play with your friends online
+- [Hot Games](https://hotgames.io/) — Free Online Games
 - [Juegos Y8](https://es.y8.com/)
 - [Juegos.com](https://www.juegos.com/)
 - [JuegosArea](https://www.juegosarea.com/)
 - [Juegosdiarios](https://www.juegosdiarios.com/)
 - [Juegosipo](https://www.juegosipo.com/)
 - [JuegosJuegos](https://www.juegosjuegos.com/)
-- [KBH Games - Play Free Online Web Games](https://kbhgames.com/)
+- [KBH Games](https://kbhgames.com/) — Play Free Online Web Games
 - [Kevin games](https://kevin.games/)
 - [Keygames.com](https://keygames.com/)
-- [Kizi - Free online games](https://kizi.com/)
+- [Kizi](https://kizi.com/) — Free online games
 - [Kongregate](https://www.kongregate.com/)
 - [Lagged.com](https://lagged.com/)
-- [Lazy Mutt Games - Free Online, or Downloaded Games](https://lazymuttgames.com/)
-- [Ludoteka.com - Juegos Online](https://www.ludoteka.com/)
+- [Lazy Mutt Games](https://lazymuttgames.com/) — Free Online, or Downloaded Games
+- [Ludoteka.com](https://www.ludoteka.com/) — Juegos Online
 - [Macrojuegos](http://www.macrojuegos.com/)
 - [Minijuegos](https://www.minijuegos.com/)
 - [Newgrounds](https://www.newgrounds.com/)
-- [Old-school classic games - Retro games in your browser](https://freebie.games/)
-- [Online GGames – Free Online Games](https://onlineggames.com/)
-- [Play Online Games for Free | now.gg Mobile Cloud](https://now.gg/)
+- [Old-school classic games](https://freebie.games/) — Retro games in your browser
+- [Online GGames](https://onlineggames.com/) — Free Online Games
+- [Play Online Games for Free](https://now.gg/) — now.gg Mobile Cloud
 - [Play-Games.com](https://www.play-games.com/)
 - [PlayOK](https://www.playok.com/)
 - [Pogo](https://www.pogo.com/)
-- [Poki - Free online games](https://poki.com/)
+- [Poki](https://poki.com/) — Free online games
 - [Silvergames](https://www.silvergames.com/en)
 - [Simulation Games O](https://simulationgameso.com/)
 - [SisiGames](https://www.sisigames.com/)
 - [Snokido](https://www.snokido.com/)
 - [Videojuegos.com](https://www.videojuegos.com/)
-- [What's a Mook? Games - Free Online Party Games](https://whatsamook.games/)
+- [What's a Mook? Games](https://whatsamook.games/) — Free Online Party Games
 - [Y8 Games](https://www.y8.com/)
-- [YIV.COM - Free Online Games for PC, Mobile and Tablet](https://www.yiv.com/)
-- [ZapGames - Play Free Online Games](https://zapgames.io/)
+- [YIV.COM](https://www.yiv.com/) — Free Online Games for PC, Mobile and Tablet
+- [ZapGames](https://zapgames.io/) — Play Free Online Games

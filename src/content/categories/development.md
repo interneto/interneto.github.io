@@ -12,17 +12,17 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [Autonomous Visualization System](https://avs.auto/#/)
 - [Awesome Open Source](https://awesomeopensource.com/)
 - [CC Open Source](https://opensource.creativecommons.org/)
-- [Dash for macOS - API Documentation Browser, Snippet Manager](https://kapeli.com/dash)
+- [Dash for macOS](https://kapeli.com/dash) — API Documentation Browser, Snippet Manager
 - [Docassemble](https://docassemble.org/)
 - [Document liberation](https://www.documentliberation.org/)
 - [Emoncms](https://emoncms.org/)
 - [First Contributions](https://firstcontributions.github.io/)
 - [Fossies](https://fossies.org/)
-- [FreePBX | Open source, web-based, IP PBX management tool](https://www.freepbx.org/)
+- [FreePBX](https://www.freepbx.org/) — Open source, web-based, IP PBX management tool
 - [Ignition Robotiscs](https://ignitionrobotics.org/home)
 - [Komga](https://komga.org/)
 - [Launchpad](https://launchpad.net/)
-- [Licenses | Open Source](https://choosealicense.com/licenses/)
+- [Licenses](https://choosealicense.com/licenses/) — Open Source
 - [LinuxServer.io](https://www.linuxserver.io/)
 - [NodeBox](https://www.nodebox.net/)
 - [OpenCores](https://opencores.org/)
@@ -50,7 +50,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [10 Software Control Fan](http://www.pcerror-fix.com/pc-fan-controller-software)
 - [AIDA64](https://www.aida64.com/)
 - [Argus monitor](https://www.argusmonitor.com/en)
-- [Blender - Open Data](https://opendata.blender.org/) / [🔗](https://projects.blender.org/infrastructure/blender-open-data/)
+- [Blender](https://opendata.blender.org/) / [🔗](https://projects.blender.org/infrastructure/blender-open-data/) — Open Data
 - [Cinebench R20](https://www.maxon.net/en/cinebench)
 - [ClockTuner for Ryzen (CTR)](https://www.guru3d.com/files-details/clocktuner-for-ryzen-download.html)
 - [Core Temp](https://www.alcpu.com/CoreTemp)
@@ -58,20 +58,20 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [Crystal Dew World](https://crystalmark.info/en)
 - [EvalPlus Leaderboard](https://evalplus.github.io/leaderboard.html)
 - [FurMark](https://geeks3d.com/furmark/)
-- [Geekbench - Cross-pltafrom benchmark](https://www.geekbench.com/)
-- [Geekbench ML - Cross-Platform AI Benchmark](https://www.geekbench.com/ml/)
+- [Geekbench](https://www.geekbench.com/) — Cross-pltafrom benchmark
+- [Geekbench ML](https://www.geekbench.com/ml/) — Cross-Platform AI Benchmark
 - [kdlucas/byte-unixbench · GitHub](https://github.com/kdlucas/byte-unixbench)
 - [Linux Benchmark](https://lbs.sourceforge.net/)
 - [MSI Kombustor Homepage](https://www.geeks3d.com/furmark/kombustor/)
 - [NoteBook FanControl](https://github.com/hirschmann/nbfc)
 - [OCBASE / OCCT](https://www.ocbase.com/)
 - [Open Hardware Monitor](https://openhardwaremonitor.org/)
-- [OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments](https://os-world.github.io/)
+- [OSWorld](https://os-world.github.io/) — Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments
 - [SAPPHIRE TriXX](https://www.sapphiretech.com/en/software)
 - [SiSoftware](https://www.sisoftware.co.uk/)
 - [Special K](https://www.special-k.info/)
 - [SpeedFan](http://www.almico.com/speedfan.php)
-- [sunblaze-ucb/exploitgym: ExploitGym is a large-scale, realistic benchmark built from real-world vulnerabilities designed to evaluate AI agents' ability to develop exploits.](https://github.com/sunblaze-ucb/exploitgym)
+- [sunblaze-ucb/exploitgym](https://github.com/sunblaze-ucb/exploitgym) — ExploitGym is a large-scale, realistic benchmark built from real-world vulnerabilities designed to evaluate AI agents' ability to develop exploits.
 - [Tencent-Hunyuan/AutoCodeBenchmark](https://github.com/Tencent-Hunyuan/AutoCodeBenchmark)
 - [UL Benchmarks](https://benchmarks.ul.com/)
 - [UNIGINE Benchmarks](https://benchmark.unigine.com/)
@@ -84,10 +84,10 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [Ada Programming Language](https://ada-lang.io/)
 - [Ada Resource Association](https://www.adaic.org/)
 - [amCharts](https://www.amcharts.com/)
-- [AMPL Optimization: Empowering Businesses and Institutions](https://ampl.com/)
+- [AMPL Optimization](https://ampl.com/) — Empowering Businesses and Institutions
 - [Awesome Go](https://awesome-go.com/)
-- [Boriel Basic](https://boriel-basic.net/) / [🔗](https://github.com/boriel-basic), [🔗](https://codeberg.org/boriel-basic)
-- [Bundler: Ruby app gems](https://bundler.io/)
+- [Boriel Basic](https://boriel-basic.net/) / <a href="https://github.com/boriel-basic"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>, <a href="https://codeberg.org/boriel-basic"><img class="source-host-icon" src="/img/source-hosts/codeberg.svg" alt="Codeberg" title="Codeberg" width="14" height="14" loading="lazy"></a>
+- [Bundler](https://bundler.io/) — Ruby app gems
 - [Catrobat](https://catrobat.org/)
 - [Clojure](https://clojure.org/)
 - [Code with Rockstar](https://codewithrockstar.com/)
@@ -98,12 +98,12 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [D Lang](https://wiki.dlang.org/The_D_Programming_Language)
 - [D Programming Language](https://dlang.org/)
 - [Dart](https://dart.dev/)
-- [Delphi: IDE](https://www.embarcadero.com/products/delphi)
+- [Delphi](https://www.embarcadero.com/products/delphi) — IDE
 - [elixir-lang](https://elixir-lang.org/)
-- [elk | The Elk Shell Language](https://elk.strct.net/)
-- [Elm - delightful language for reliable web applications](https://elm-lang.org/)
-- [F*: A Proof-Oriented Programming Language](https://fstar-lang.org/)
-- [Faust Programming Language](https://faust.grame.fr/) / [🔗](https://github.com/grame-cncm/faust)
+- [elk](https://elk.strct.net/) — The Elk Shell Language
+- [Elm](https://elm-lang.org/) — delightful language for reliable web applications
+- [F*](https://fstar-lang.org/) — A Proof-Oriented Programming Language
+- [Faust Programming Language](https://faust.grame.fr/) / <a href="https://github.com/grame-cncm/faust"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [Fortran](https://fortran-lang.org/)
 - [GDScript](https://gdscript.com/)
 - [Gleam programming language](https://gleam.run/)
@@ -111,39 +111,39 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [Go Language](https://golang.org/)
 - [Go.dev](https://go.dev/)
 - [Grain programming language](https://grain-lang.org/)
-- [GraphQL | A query language for your API](https://graphql.org/) / [🔗](https://github.com/graphql)
+- [GraphQL](https://graphql.org/) / <a href="https://github.com/graphql"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — A query language for your API
 - [Hack Lang](https://hacklang.org/)
 - [Haskell Language](https://www.haskell.org/)
 - [HOPL](https://hopl.info/)
 - [Inform 7](http://inform7.com/)
 - [Ink blog](https://dotink.co/)
-- [Java | Oracle](https://www.java.com/en)
-- [Java Software | Oracle](https://www.oracle.com/java)
+- [Java](https://www.java.com/en) — Oracle
+- [Java Software](https://www.oracle.com/java) — Oracle
 - [JavaScript](https://www.javascript.com/)
 - [JRuby.org](https://www.jruby.org/)
 - [JS.org](https://js.org/)
 - [Julia Programming Language](https://julialang.org/)
 - [KornShell](http://www.kornshell.org/)
-- [Kotlin Lang](https://kotlinlang.org/) / [🔗](https://github.com/JetBrains/kotlin)
+- [Kotlin Lang](https://kotlinlang.org/) / <a href="https://github.com/JetBrains/kotlin"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [Langserver.org](https://langserver.org/)
 - [Liquid template language](https://shopify.github.io/liquid/)
 - [List of programming languages by type](https://en.wikipedia.org/wiki/List_of_programming_languages_by_type)
 - [Lua Programming Language](https://www.lua.org/)
 - [Maplesoft](https://www.maplesoft.com/index.aspx)
 - [Material Design](https://material.io/)
-- [NASM - x86 assembler](https://www.nasm.us/)
+- [NASM](https://www.nasm.us/) — x86 assembler
 - [Nim Programming Language](https://nim-lang.org/)
 - [OCaml](https://ocaml.org/)
-- [Odin Programming Language](https://odin-lang.org/) / [🔗](https://github.com/odin-lang/Odin)
+- [Odin Programming Language](https://odin-lang.org/) / <a href="https://github.com/odin-lang/Odin"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [OpenGOAL](https://opengoal.dev/)
 - [OpenJDK](https://openjdk.java.net/)
-- [Perl - Programming language](https://www.perl.org/)
-- [PHP - Hypertext Preprocessor](https://www.php.net/)
+- [Perl](https://www.perl.org/) — Programming language
+- [PHP](https://www.php.net/) — Hypertext Preprocessor
 - [Protocol Buffers](https://protobuf.dev/)
 - [PYPL PopularitY of Programming Language](https://pypl.github.io/PYPL.html)
-- [Python](https://www.python.org/) / [🔗](https://github.com/python)
+- [Python](https://www.python.org/) / <a href="https://github.com/python"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [R Documentation](https://www.rdocumentation.org/)
-- [R: The R Project for Statistical Computing](https://www.r-project.org/)
+- [R](https://www.r-project.org/) — The R Project for Statistical Computing
 - [Racket Lang](https://racket-lang.org/)
 - [Raku](https://raku.org/)
 - [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code)
@@ -152,16 +152,16 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [Runiter](https://www.runiter.com/)
 - [Rust Programming Language](https://www.rust-lang.org/)
 - [RustPython](https://rustpython.github.io/)
-- [Sass - Syntactically Awesome Style Sheets](https://sass-lang.com/)
+- [Sass](https://sass-lang.com/) — Syntactically Awesome Style Sheets
 - [Scala Programming Language](https://scala-lang.org/)
 - [Schema.org](https://schema.org/)
 - [Standard C++](https://isocpp.org/)
-- [Swift - Apple](https://www.apple.com/swift/)
+- [Swift](https://www.apple.com/swift/) — Apple
 - [Swift.org](https://www.swift.org/)
 - [The Slang Shading Language](https://shader-slang.com/)
-- [The Slang Shading Language](https://shader-slang.org/) / [🔗](https://github.com/shader-slang/slang)
+- [The Slang Shading Language](https://shader-slang.org/) / <a href="https://github.com/shader-slang/slang"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [TOML](https://toml.io/en)
-- [TypeScript: JavaScript With Syntax For Types](https://www.typescriptlang.org/)
+- [TypeScript](https://www.typescriptlang.org/) — JavaScript With Syntax For Types
 - [Uiua](https://www.uiua.org/)
 - [UML](https://www.uml.org/)
 - [Unison programming language](https://www.unison-lang.org/)
@@ -172,7 +172,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [WG5 Fortran](https://wg5-fortran.org/)
 - [World of Rocq](https://rocq-prover.org/)
 - [YAML](https://yaml.org/)
-- [Zig Programming Language](https://ziglang.org/) / [🔗](https://github.com/ziglang/zig)
+- [Zig Programming Language](https://ziglang.org/) / <a href="https://github.com/ziglang/zig"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 
 ### Markup Language
 - ⭐ **[Markdown Guide](https://markdownguide.org/)**
@@ -181,159 +181,159 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [AsciiDoc Home Page](https://asciidoc-py.github.io/)
 - [CommonMark](https://commonmark.org/)
 - [ConTeXt Wiki](https://wiki.contextgarden.net/Main_Page)
-- [Cooklang: recipe markup language](https://cooklang.org/)
+- [Cooklang](https://cooklang.org/) — recipe markup language
 - [DocBook.org](https://docbook.org/)
 - [HTML 5.3](https://www.w3.org/TR/html53)
 - [Karl Voit / Orgdown · GitLab](https://gitlab.com/publicvoit/orgdown)
 - [LaTeX Project](https://www.latex-project.org/)
 - [Markdown Land](https://markdown.land/)
-- [MediaWiki Markup (Formatting) - MediaWiki](https://www.mediawiki.org/wiki/Help:Formatting)
+- [MediaWiki Markup (Formatting)](https://www.mediawiki.org/wiki/Help:Formatting) — MediaWiki
 - [Nunjucks](https://mozilla.github.io/nunjucks/)
 - [Plotly](https://plotly.com/)
 - [Quarto.org](https://quarto.org/)
 - [RecipeMD](https://recipemd.org/index.html)
 - [Textile Markup Language](https://textile-lang.com/)
-- [TOON](https://toonformat.dev/) / [🔗](https://github.com/toon-format/toon)
+- [TOON](https://toonformat.dev/) / <a href="https://github.com/toon-format/toon"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [typst/typst · GitHub](https://github.com/typst/typst)
 
 ### Runtime
-- ⭐ **[Deno — A modern runtime for JavaScript and TypeScript](https://deno.com/)** / [🔗](https://github.com/denoland/deno)
+- ⭐ **[Deno](https://deno.com/)** / <a href="https://github.com/denoland/deno"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — A modern runtime for JavaScript and TypeScript
 - [Apache Cordova](https://cordova.apache.org/)
-- [Bun — A fast all-in-one JavaScript runtime](https://bun.com/) / [🔗](https://github.com/oven-sh/bun)
-- [Capacitor by Ionic - Cross-platform apps with web technology](https://capacitorjs.com/)
-- [DragonBones/DragonBonesJS: DragonBones TypeScript / JavaScript Runtime](https://github.com/DragonBones/DragonBonesJS)
+- [Bun](https://bun.com/) / <a href="https://github.com/oven-sh/bun"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — A fast all-in-one JavaScript runtime
+- [Capacitor by Ionic](https://capacitorjs.com/) — Cross-platform apps with web technology
+- [DragonBones/DragonBonesJS](https://github.com/DragonBones/DragonBonesJS) — DragonBones TypeScript / JavaScript Runtime
 - [JerryScript](https://jerryscript.net/)
 - [Node.js](https://nodejs.org/en/)
 - [NW.js](https://nwjs.io/)
-- [Tokio - An asynchronous Rust runtime](https://tokio.rs/) / [🔗](https://github.com/tokio-rs/tokio)
+- [Tokio](https://tokio.rs/) / <a href="https://github.com/tokio-rs/tokio"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — An asynchronous Rust runtime
 - [V8 JavaScript engine](https://v8.dev/)
 
 ### SDK
 - [Adoptium](https://adoptium.net/)
-- [AWS Coretto - OpenJDK Download](https://aws.amazon.com/corretto/?filtered-posts.sort-by=item.additionalFields.createdDate&filtered-posts.sort-order=desc)
-- [Azul | The Java Platform for the Modern Cloud Enterprise](https://www.azul.com/)
-- [freedesktop-sdk - Minimal Linux Runtime](https://freedesktop-sdk.io/)
+- [AWS Coretto](https://aws.amazon.com/corretto/?filtered-posts.sort-by=item.additionalFields.createdDate&filtered-posts.sort-order=desc) — OpenJDK Download
+- [Azul](https://www.azul.com/) — The Java Platform for the Modern Cloud Enterprise
+- [freedesktop-sdk](https://freedesktop-sdk.io/) — Minimal Linux Runtime
 - [lbryio/lbry-sdk · GitHub](https://github.com/lbryio/lbry-sdk)
-- [microsoft/winappCli: winapp, the Windows App Development CLI, is a single command-line interface for managing Windows SDKs, packaging, generating app identity, manifests, certificates, and using build tools with any app framework.](https://github.com/microsoft/WinAppCli)
+- [microsoft/winappCli](https://github.com/microsoft/WinAppCli) — winapp, the Windows App Development CLI, is a single command-line interface for managing Windows SDKs, packaging, generating app identity, manifests, certificates, and using build tools with any app framework.
 - [SDK Platform Tools](https://developer.android.com/studio/releases/platform-tools)
 
 ### Compiler
 - [Clang C Language Family Frontend for LLVM](https://clang.llvm.org/)
 - [Free Pascal](https://www.freepascal.org/)
-- [GCC - GNU Compiler Collection](https://gcc.gnu.org/)
-- [Haxe - Cross-platform Toolkit](https://haxe.org/)
-- [LLVM Compiler Infrastructure](https://llvm.org/) / [🔗](https://github.com/llvm/llvm-project)
+- [GCC](https://gcc.gnu.org/) — GNU Compiler Collection
+- [Haxe](https://haxe.org/) — Cross-platform Toolkit
+- [LLVM Compiler Infrastructure](https://llvm.org/) / <a href="https://github.com/llvm/llvm-project"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [LuaJIT](https://luajit.org/luajit.html)
 - [Marked.js.org](https://marked.js.org/)
-- [MinGW - Minimalist GNU for Windows](https://sourceforge.net/projects/mingw/)
+- [MinGW](https://sourceforge.net/projects/mingw/) — Minimalist GNU for Windows
 - [WebAssembly](https://webassembly.org/)
 
 ## Database Management
-- [RyanCodrai/turbovec: A vector index built on TurboQuant, written in Rust with Python bindings](https://github.com/RyanCodrai/turbovec)
+- [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) — A vector index built on TurboQuant, written in Rust with Python bindings
 
 ### Backend as a Service (BaaS)
 - [Amazon Web Services](https://aws.amazon.com/)
-- [Appwrite - Build like a team of hundreds](https://appwrite.io/)
-- [Back4app - Your Application's Backend, Simplified](https://www.back4app.com/)
-- [BKND ⚡ Lightweight Firebase alternative built to run anywhere.](https://bknd.io/) / [🔗](https://github.com/bknd-io/bknd)
-- [Etebase - Your end-to-end encrypted backend](https://www.etebase.com/)
+- [Appwrite](https://appwrite.io/) — Build like a team of hundreds
+- [Back4app](https://www.back4app.com/) — Your Application's Backend, Simplified
+- [BKND ⚡ Lightweight Firebase alternative built to run anywhere.](https://bknd.io/) / <a href="https://github.com/bknd-io/bknd"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Etebase](https://www.etebase.com/) — Your end-to-end encrypted backend
 - [Google Firebase](https://firebase.google.com/)
-- [Manifest - Meet the 1-file micro-backend](https://manifest.build/)
+- [Manifest](https://manifest.build/) — Meet the 1-file micro-backend
 - [Microsoft Azure](https://azure.microsoft.com/en-us/)
-- [PocketBase - Open Source backend in 1 file](https://pocketbase.io/) / [🔗](https://github.com/pocketbase/pocketbase)
-- [Prisma | Simplify working and interacting with databases](https://www.prisma.io/)
-- [Replicache: Framework for local-first web apps](https://replicache.dev/)
-- [Stacktape | Your AWS, 97% easier](https://stacktape.com/)
+- [PocketBase](https://pocketbase.io/) / <a href="https://github.com/pocketbase/pocketbase"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Open Source backend in 1 file
+- [Prisma](https://www.prisma.io/) — Simplify working and interacting with databases
+- [Replicache](https://replicache.dev/) — Framework for local-first web apps
+- [Stacktape](https://stacktape.com/) — Your AWS, 97% easier
 - [Supabase](https://supabase.com/)
 - [TrailBase](https://trailbase.io/)
 
 ### DBMS
-- ⭐ **[Microsoft - SQL Server Downloads](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)**
+- ⭐ **[Microsoft](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)** — SQL Server Downloads
 - ⭐ **[PostgreSQL](https://www.postgresql.org/)**
-- [Apache Cassandra](https://cassandra.apache.org/_/index.html) / [🔗](https://github.com/apache/cassandra)
+- [Apache Cassandra](https://cassandra.apache.org/_/index.html) / <a href="https://github.com/apache/cassandra"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [Apache CouchDB](https://couchdb.apache.org/)
-- [Arango - Contextual Data Layer for Enteprise AI](https://arango.ai/)
+- [Arango](https://arango.ai/) — Contextual Data Layer for Enteprise AI
 - [Axisbase.com](http://www.axisbase.com/)
-- [Bigtable: A Distributed Storage System for Structured Data – Google Research](https://research.google/pubs/pub27898/)
+- [Bigtable](https://research.google/pubs/pub27898/) — A Distributed Storage System for Structured Data – Google Research
 - [Chat2DB](http://chat2db.ai/)
-- [dbForge Studio for MySQL - Database Management Tool](https://www.devart.com/dbforge/mysql/studio/)
-- [DuckDB – An in-process SQL OLAP database management system](https://duckdb.org/)
-- [EdgeDB | The post-SQL era has arrived](https://www.edgedb.com/)
-- [Fauna | The distributed serverless database](https://fauna.com/)
+- [dbForge Studio for MySQL](https://www.devart.com/dbforge/mysql/studio/) — Database Management Tool
+- [DuckDB](https://duckdb.org/) — An in-process SQL OLAP database management system
+- [EdgeDB](https://www.edgedb.com/) — The post-SQL era has arrived
+- [Fauna](https://fauna.com/) — The distributed serverless database
 - [FerretDB](https://www.ferretdb.io/)
-- [Firebird - OSS database](https://firebirdsql.org/)
+- [Firebird](https://firebirdsql.org/) — OSS database
 - [FoundationDB](https://www.foundationdb.org/)
 - [Garagehq](https://garagehq.deuxfleurs.fr/)
 - [MariaDB](https://mariadb.org/)
-- [memcached - a distributed memory object caching system](https://memcached.org/)
-- [Microsoft - SQL Server](https://www.microsoft.com/en-us/sql-server)
-- [MongoDB - The developer data platform](https://www.mongodb.com/)
+- [memcached](https://memcached.org/) — a distributed memory object caching system
+- [Microsoft](https://www.microsoft.com/en-us/sql-server) — SQL Server
+- [MongoDB](https://www.mongodb.com/) — The developer data platform
 - [MySQL](https://www.mysql.com/)
-- [Neon Serverless Postgres — Ship faster](https://neon.com/) / [🔗](https://github.com/neondatabase/neon)
-- [NocoDB - Turns your SQL database into a Nocode platform](https://www.nocodb.com/)
+- [Neon Serverless Postgres](https://neon.com/) / <a href="https://github.com/neondatabase/neon"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Ship faster
+- [NocoDB](https://www.nocodb.com/) — Turns your SQL database into a Nocode platform
 - [PostGIS](https://postgis.net/)
-- [Qdrant - Vector Database - Qdrant](https://qdrant.tech/) / [🔗](https://github.com/qdrant/qdrant)
+- [Qdrant](https://qdrant.tech/) / <a href="https://github.com/qdrant/qdrant"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Vector Database - Qdrant
 - [Redis.io](https://redis.io/)
-- [ScyllaDB | Monstrously Fast + Scalable NoSQL](https://www.scylladb.com/)
+- [ScyllaDB](https://www.scylladb.com/) — Monstrously Fast + Scalable NoSQL
 - [SingleStoreDB](https://www.singlestore.com/)
-- [Snowflake | The Data Cloud](https://www.snowflake.com/en/)
+- [Snowflake](https://www.snowflake.com/en/) — The Data Cloud
 - [SpacetimeDB](https://spacetimedb.com/)
-- [Spanner: Always-on, virtually unlimited scale database](https://cloud.google.com/spanner)
+- [Spanner](https://cloud.google.com/spanner) — Always-on, virtually unlimited scale database
 - [SQL Studio](https://sql.studio/)
 - [SQLite](https://sqlite.org/)
-- [Teable - Postgres-Airtable Fusion](https://teable.io/)
-- [TiDB: The Advanced Distributed SQL Database](https://www.pingcap.com/tidb/)
-- [TigerBeetle - Track Financial Transactions at Scale](https://tigerbeetle.com/)
-- [Turso - the next evolution of SQLite](https://turso.tech/)
-- [TypeDB - Built for systems, not records](https://typedb.com/) / [🔗](https://github.com/typedb/typedb)
-- [Vector database - Milvus](https://milvus.io/)
-- [Weavite - vector database](https://weaviate.io/)
+- [Teable](https://teable.io/) — Postgres-Airtable Fusion
+- [TiDB](https://www.pingcap.com/tidb/) — The Advanced Distributed SQL Database
+- [TigerBeetle](https://tigerbeetle.com/) — Track Financial Transactions at Scale
+- [Turso](https://turso.tech/) — the next evolution of SQLite
+- [TypeDB](https://typedb.com/) / <a href="https://github.com/typedb/typedb"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Built for systems, not records
+- [Vector database](https://milvus.io/) — Milvus
+- [Weavite](https://weaviate.io/) — vector database
 
 ### Database Client
 - [Adminer](https://www.adminer.org/)
-- [Amazon DynamoDB – Amazon Web Services](https://aws.amazon.com/dynamodb/)
-- [Antares SQL | Free and Open Source Client](https://antares-sql.app/)
-- [Beekeeper Studio - The SQL Editor and Database Manager Of Your Dreams](https://www.beekeeperstudio.io/)
-- [Bytebase | Database DevOps](https://www.bytebase.com/)
+- [Amazon DynamoDB](https://aws.amazon.com/dynamodb/) — Amazon Web Services
+- [Antares SQL](https://antares-sql.app/) — Free and Open Source Client
+- [Beekeeper Studio](https://www.beekeeperstudio.io/) — The SQL Editor and Database Manager Of Your Dreams
+- [Bytebase](https://www.bytebase.com/) — Database DevOps
 - [ClickHouse](https://clickhouse.com/)
 - [DataGrip](https://www.jetbrains.com/datagrip)
 - [DB-Engines Ranking](https://db-engines.com/en/ranking)
-- [DBeaver.io](https://dbeaver.io/) / [🔗](https://github.com/dbeaver/dbeaver)
+- [DBeaver.io](https://dbeaver.io/) / <a href="https://github.com/dbeaver/dbeaver"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [DBngin](https://dbngin.com/)
-- [Devart: Database Management Software and Developer Tools](https://www.devart.com/)
-- [Dgraph | GraphQL Cloud Platform, Distributed Graph Engine](https://dgraph.io/)
-- [DiceDB - an open-source, fast, reactive, in-memory database optimized for modern hardware.](https://dicedb.io/)
-- [Grafbase - The unified data layer](https://grafbase.com/)
+- [Devart](https://www.devart.com/) — Database Management Software and Developer Tools
+- [Dgraph](https://dgraph.io/) — GraphQL Cloud Platform, Distributed Graph Engine
+- [DiceDB](https://dicedb.io/) — an open-source, fast, reactive, in-memory database optimized for modern hardware.
+- [Grafbase](https://grafbase.com/) — The unified data layer
 - [GUN JS](https://gun.eco/)
 - [HeidiSQL](https://www.heidisql.com/)
 - [InfluxData](https://www.influxdata.com/)
-- [Microsoft - SQL Server Management Studio (SSMS)](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)
+- [Microsoft](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms) — SQL Server Management Studio (SSMS)
 - [MySQL Workbench](https://dev.mysql.com/downloads/workbench/)
 - [Navicat](https://www.navicat.com/en)
-- [Percona | Open Source Database Software Support & Services](https://www.percona.com/)
-- [pgAdmin - PostgreSQL Tools](https://www.pgadmin.org/)
+- [Percona](https://www.percona.com/) — Open Source Database Software Support & Services
+- [pgAdmin](https://www.pgadmin.org/) — PostgreSQL Tools
 - [phpMyAdmin](https://www.phpmyadmin.net/)
 - [PlanetScale](https://planetscale.com/)
 - [Realm.io](https://realm.io/)
-- [RxDB - JavaScript Database](https://rxdb.info/)
+- [RxDB](https://rxdb.info/) — JavaScript Database
 - [Selectable](https://getselectable.com/)
 - [Sequel Pro](https://www.sequelpro.com/)
-- [SignalDB - Reactive Local-First JavaScript Database](https://signaldb.js.org/)
+- [SignalDB](https://signaldb.js.org/) — Reactive Local-First JavaScript Database
 - [SQLite Browser](https://sqlitebrowser.org/)
 - [TablePlus](https://www.tableplus.com/)
-- [TablePro - Fast, native database client for Mac](https://tablepro.app/) / [🔗](https://github.com/datlechin/TablePro)
+- [TablePro](https://tablepro.app/) / <a href="https://github.com/datlechin/TablePro"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Fast, native database client for Mac
 - [TimeScale](https://www.timescale.com/)
-- [Triplit | The Fullstack Database](https://www.triplit.dev/)
+- [Triplit](https://www.triplit.dev/) — The Fullstack Database
 - [Valentina Business Intelligence](https://www.valentina-db.com/en/)
-- [YDB - Distributed SQL database](https://ydb.tech/)
+- [YDB](https://ydb.tech/) — Distributed SQL database
 
 ### Serverless Database
-- [Arroyo — Serverless stream processing](https://www.arroyo.dev/)
+- [Arroyo](https://www.arroyo.dev/) — Serverless stream processing
 - [Knative](https://knative.dev/docs/)
-- [Neon Serverless Postgres — Ship faster](https://neon.tech/)
+- [Neon Serverless Postgres](https://neon.tech/) — Ship faster
 - [Serverless](https://www.serverless.com/)
 - [SurrealDB](https://surrealdb.com/)
-- [Upstash: Serverless Data for Redis® and Kafka®](https://upstash.com/)
+- [Upstash](https://upstash.com/) — Serverless Data for Redis® and Kafka®
 - [Xata.io](https://xata.io/)
 
 ## Development Framework
@@ -345,14 +345,14 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [Collective Knowledge framework](https://github.com/mlcommons/ck)
 - [GORM.io](https://gorm.io/)
 - [Jamroom](https://www.jamroom.net/)
-- [json-render | The Generative UI Framework](https://json-render.dev/) / [🔗](https://github.com/vercel-labs/json-render)
-- [Ktor Framework](https://ktor.io/) / [🔗](https://github.com/ktorio/ktor)
+- [json-render](https://json-render.dev/) / <a href="https://github.com/vercel-labs/json-render"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — The Generative UI Framework
+- [Ktor Framework](https://ktor.io/) / <a href="https://github.com/ktorio/ktor"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [Laravel livewire](https://laravel-livewire.com/)
 - [MapStruct](https://mapstruct.org/)
 - [Marko JS](https://markojs.com/)
 - [Material Design Lite](https://getmdl.io/)
-- [Metaflow - framework for real-life data science and ML](https://metaflow.org/)
-- [MirageOS](https://mirage.io/) / [🔗](https://github.com/mirage)
+- [Metaflow](https://metaflow.org/) — framework for real-life data science and ML
+- [MirageOS](https://mirage.io/) / <a href="https://github.com/mirage"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [Mono framework](https://www.mono-project.com/)
 - [obra/superpowers · GitHub](https://github.com/obra/superpowers)
 - [Prettier.io](https://prettier.io/)
@@ -363,39 +363,39 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 ### Build Webs
 
 #### Website Page Builder
-- [10Web - Build Your Website with AI](https://10web.io/)
+- [10Web](https://10web.io/) — Build Your Website with AI
 - [Altervista](https://it.altervista.org/)
 - [AMP](https://amp.dev/)
 - [Ansible](https://www.ansible.com/)
 - [Branchbob](https://www.branchbob.com/)
 - [Build your E-shop](https://acq.to/)
-- [Ceros – Inspire. Educate. Empower.](https://www.ceros.com/)
+- [Ceros](https://www.ceros.com/) — Inspire. Educate. Empower.
 - [Claranet](https://www.claranet.com/)
 - [Clubeo](https://www.clubeo.com/en_US/)
-- [Durable AI - Website Builder and Small Business Software](https://durable.co/)
+- [Durable AI](https://durable.co/) — Website Builder and Small Business Software
 - [Forumotion](https://www.forumotion.com/)
-- [HugoBlox/hugo-blox-builder: ⚡ Hugo Blox: Markdown sites in minutes. Academic/resume/lab/portfolio for AI researchers & startups. Premium templates. Deploy to GitHub Pages now in 1-click 👇](https://github.com/HugoBlox/hugo-blox-builder)
+- [HugoBlox/hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder) — ⚡ Hugo Blox: Markdown sites in minutes. Academic/resume/lab/portfolio for AI researchers & startups. Premium templates. Deploy to GitHub Pages now in 1-click 👇
 - [Jimdo](https://www.jimdo.com/)
-- [Joomla Component Builder | JCB](https://www.joomlacomponentbuilder.com/) / [🔗](https://github.com/joomengine/Joomla-Component-Builder)
+- [Joomla Component Builder](https://www.joomlacomponentbuilder.com/) / <a href="https://github.com/joomengine/Joomla-Component-Builder"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — JCB
 - [Layer0.co](https://www.layer0.co/)
-- [mmm - drag & drop webs](https://build.mmm.page/)
+- [mmm](https://build.mmm.page/) — drag & drop webs
 - [Modul.so](https://www.modul.so/)
 - [Mozello](https://www.mozello.com/)
 - [mywebsitebuilder](https://www.mybestwebsitebuilder.com/)
 - [Nabble](https://nabble.com/)
 - [Nicepage.com](https://nicepage.com/)
 - [NING](https://www.ning.com/)
-- [Open Source Website Creation Tool | Frappe Builder](https://frappe.io/builder) / [🔗](https://github.com/frappe/builder)
+- [Open Source Website Creation Tool](https://frappe.io/builder) / <a href="https://github.com/frappe/builder"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Frappe Builder
 - [OpenCart](https://www.opencart.com/)
 - [Pabio · Rent jaw-dropping interior](https://pabio.com/)
 - [PrestaShop](https://prestashop.com/)
 - [Revue](https://www.getrevue.co/)
-- [Selldone - Business OS](https://selldone.com/)
+- [Selldone](https://selldone.com/) — Business OS
 - [Shogun](https://getshogun.com/)
 - [Silex Website Builder](https://www.silex.me/)
 - [Site123](https://www.site123.com/)
-- [SP Page Builder - The Best Joomla 6 Drag & Drop Page Builder](https://www.joomshaper.com/page-builder)
-- [Transifex | The best platform to continuously localize any digital content](https://www.transifex.com/)
+- [SP Page Builder](https://www.joomshaper.com/page-builder) — The Best Joomla 6 Drag & Drop Page Builder
+- [Transifex](https://www.transifex.com/) — The best platform to continuously localize any digital content
 - [uCalc](https://ucalc.pro/en/)
 - [Ucraft](https://www.ucraft.com/)
 - [Vsble](https://www.vsble.me/)
@@ -405,16 +405,16 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [Webnode](https://www.webnode.com/)
 - [Webs](https://www.webs.com/)
 - [Weebly](https://www.weebly.com/)
-- [Yola - Make a Free Website](https://www.yola.com/)
+- [Yola](https://www.yola.com/) — Make a Free Website
 - [Zyro](https://zyro.com/es)
 
 ##### WordPress Page Builder
-- [Avada Website Builder – For WordPress & WooCommerce](https://avada.com/)
-- [Beaver Builder - WordPress Page Builder Plugin](https://www.wpbeaverbuilder.com/)
-- [Elementor - The best free website builder for Wordpress](https://elementor.com/)
+- [Avada Website Builder](https://avada.com/) — For WordPress & WooCommerce
+- [Beaver Builder](https://www.wpbeaverbuilder.com/) — WordPress Page Builder Plugin
+- [Elementor](https://elementor.com/) — The best free website builder for Wordpress
 - [Omnipressteam](https://omnipressteam.com/)
-- [Seedprod - Page Builder for WordPress](https://www.seedprod.com/)
-- [Visual Composer - Website Builder for WordPress](https://visualcomposer.com/)
+- [Seedprod](https://www.seedprod.com/) — Page Builder for WordPress
+- [Visual Composer](https://visualcomposer.com/) — Website Builder for WordPress
 
 #### CMS (Content Management Systems)
 - [Archbee.io](https://www.archbee.io/)
@@ -423,58 +423,58 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [Backdrop CMS](https://backdropcms.org/)
 - [BOWWE site](https://www.bowwe-site.com/en/)
 - [Calido.io](https://calido.io/)
-- [Cloud Cannon - The visual CMS](https://cloudcannon.com/)
-- [CMS Report List - W3Techs](https://w3techs.com/technologies/reportlist/content_management)
+- [Cloud Cannon](https://cloudcannon.com/) — The visual CMS
+- [CMS Report List](https://w3techs.com/technologies/reportlist/content_management) — W3Techs
 - [Craft CMS](https://craftcms.com/)
-- [deco.cx - The TypeScript-powered Webdev Engine](https://deco.cx/)
-- [Drupal - CMS](https://www.drupal.org/)
+- [deco.cx](https://deco.cx/) — The TypeScript-powered Webdev Engine
+- [Drupal](https://www.drupal.org/) — CMS
 - [Elgg.org](https://elgg.org/)
-- [EmDash CMS](https://emdashcms.com/) / [🔗](https://github.com/emdash-cms/emdash)
-- [EverShop - Open source NodeJS ecommerce platform](https://evershop.io/)
+- [EmDash CMS](https://emdashcms.com/) / <a href="https://github.com/emdash-cms/emdash"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [EverShop](https://evershop.io/) — Open source NodeJS ecommerce platform
 - [Forestry.io](https://forestry.io/)
-- [Formbricks | Privacy-first Experience Management](https://formbricks.com/)
-- [Framer: Create a professional website, free. No code website builder loved by designers](https://www.framer.com/)
-- [Grav CMS](https://getgrav.org/) / [🔗](https://github.com/getgrav)
-- [Joomla CMS](https://www.joomla.org/) / [🔗](https://github.com/joomla/joomla-cms)
+- [Formbricks](https://formbricks.com/) — Privacy-first Experience Management
+- [Framer](https://www.framer.com/) — Create a professional website, free. No code website builder loved by designers
+- [Grav CMS](https://getgrav.org/) / <a href="https://github.com/getgrav"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Joomla CMS](https://www.joomla.org/) / <a href="https://github.com/joomla/joomla-cms"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [Kentico](https://www.kentico.com/)
-- [Kirby - CMS that adapts to you](https://getkirby.com/)
+- [Kirby](https://getkirby.com/) — CMS that adapts to you
 - [Lektor SCMS](https://www.getlektor.com/)
-- [Liferay - The Most Flexible DXP | AI, CMS, DAM, Low Code, Commerce](https://www.liferay.com/en/home)
-- [List of content management systems - Wikipedia](https://en.wikipedia.org/wiki/List_of_content_management_systems)
-- [List of learning management systems - Wikipedia](https://en.wikipedia.org/wiki/List_of_learning_management_systems)
+- [Liferay](https://www.liferay.com/en/home) — The Most Flexible DXP | AI, CMS, DAM, Low Code, Commerce
+- [List of content management systems](https://en.wikipedia.org/wiki/List_of_content_management_systems) — Wikipedia
+- [List of learning management systems](https://en.wikipedia.org/wiki/List_of_learning_management_systems) — Wikipedia
 - [Magento](https://magento.com/)
 - [Magnolia CMS](https://www.magnolia-cms.com/)
-- [mmm.page — Your Corner of the Internet](https://mmm.page/)
+- [mmm.page](https://mmm.page/) — Your Corner of the Internet
 - [Monopiny](https://monopiny.com/)
 - [Moodle Docs](https://docs.moodle.org/400/en/Main_page)
 - [Moodle.com](https://moodle.com/)
 - [Moodle.org](https://moodle.org/)
 - [Movable Type](https://movabletype.com/)
 - [Notaku.so](https://notaku.so/)
-- [Nuxt Studio - The Git-based CMS for Nuxt](https://nuxt.studio/) / [🔗](https://github.com/nuxt-content/studio)
+- [Nuxt Studio](https://nuxt.studio/) / <a href="https://github.com/nuxt-content/studio"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — The Git-based CMS for Nuxt
 - [Orchard Core](https://www.orchardcore.net/)
-- [Orckestra - C1 CMS](https://c1.orckestra.com/)
+- [Orckestra](https://c1.orckestra.com/) — C1 CMS
 - [Pickit](https://www.pickit.com/)
 - [Plone CMS](https://plone.org/)
-- [PrestaShop Project - Open Source e-Commerce platform](https://www.prestashop-project.org/) / [🔗](https://github.com/PrestaShop/prestaShop/)
+- [PrestaShop Project](https://www.prestashop-project.org/) / <a href="https://github.com/PrestaShop/prestaShop/"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Open Source e-Commerce platform
 - [Primo](https://primocms.org/)
 - [ProcessWire CMS](https://processwire.com/)
 - [Productboard](https://www.productboard.com/)
 - [Scratchpads](http://scratchpads.org/)
-- [Shopify - e-commerce business](https://www.shopify.com/)
+- [Shopify](https://www.shopify.com/) — e-commerce business
 - [site.pro](https://site.pro/es/)
 - [Squarespace.com](https://www.squarespace.com/)
 - [Stackbit](https://www.stackbit.com/)
 - [Takeshape.io](https://www.takeshape.io/)
 - [Textpattern CMS](https://textpattern.com/)
-- [Tips.io | Build simple Tailwind websites without the hangover.](https://tips.io/)
-- [TYPO3 Project and Governance — Democratic Open Source](https://typo3.org/)
-- [Ubiquiti - UniFi](https://www.ui.com/)
+- [Tips.io](https://tips.io/) — Build simple Tailwind websites without the hangover.
+- [TYPO3 Project and Governance](https://typo3.org/) — Democratic Open Source
+- [Ubiquiti](https://www.ui.com/) — UniFi
 - [Umbraco](https://umbraco.com/)
 - [UserVoice](https://uservoice.com/)
-- [Vault CMS - Use Obsidian as a CMS for Astro](https://vaultcms.org/) / [🔗](https://github.com/davidvkimball/vault-cms)
+- [Vault CMS](https://vaultcms.org/) / <a href="https://github.com/davidvkimball/vault-cms"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Use Obsidian as a CMS for Astro
 - [Wagtail CMS](https://wagtail.org/)
-- [Wix.com - Create a Free Website Today](https://www.wix.com/)
+- [Wix.com](https://www.wix.com/) — Create a Free Website Today
 
 ##### WordPress
 - ⭐ **[Wordpress.org](https://wordpress.org/)**
@@ -483,32 +483,32 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [WordPress Codex](https://codex.wordpress.org/)
 - [WordPress Trac](https://core.trac.wordpress.org/)
 - [WordPress.com](https://wordpress.com/)
-- [WordPress.org - Get Involved](https://make.wordpress.org/)
+- [WordPress.org](https://make.wordpress.org/) — Get Involved
 - [WP-CLI](https://wp-cli.org/)
 
 ##### Wiki Engine
-- ⭐ **[BookStack](https://www.bookstackapp.com/)** / [🔗](https://github.com/BookStackApp/BookStack)
+- ⭐ **[BookStack](https://www.bookstackapp.com/)** / <a href="https://github.com/BookStackApp/BookStack"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - ⭐ **[Linbreux/Wikmd · GitHub](https://github.com/Linbreux/wikmd)**
-- [Anwiki: wiki/CMS for knowledge management contents](https://www.anwiki.com/)
-- [Docmost - Open-source collaborative wiki and documentation software](https://docmost.com/)
+- [Anwiki](https://www.anwiki.com/) — wiki/CMS for knowledge management contents
+- [Docmost](https://docmost.com/) — Open-source collaborative wiki and documentation software
 - [DokuWiki.org](https://www.dokuwiki.org/dokuwiki)
-- [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki) / [🔗](https://github.com/wikimedia/mediawiki)
+- [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki) / <a href="https://github.com/wikimedia/mediawiki"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [MoinMoin Wiki](https://moinmo.in/)
 - [Mycorrhiza Wiki](https://mycorrhiza.wiki/)
 - [PmWiki](https://www.pmwiki.org/)
-- [ProWiki – Fully Managed Wiki Hosting](https://www.pro.wiki/)
-- [redimp/otterwiki: A minimalistic wiki powered by python, markdown and git](https://github.com/redimp/otterwiki)
+- [ProWiki](https://www.pro.wiki/) — Fully Managed Wiki Hosting
+- [redimp/otterwiki](https://github.com/redimp/otterwiki) — A minimalistic wiki powered by python, markdown and git
 - [TWiki](https://twiki.org/)
 - [WackoWiki](https://wackowiki.org/)
-- [Wiki.js](https://js.wiki/) / [🔗](https://github.com/Requarks/wiki)
+- [Wiki.js](https://js.wiki/) / <a href="https://github.com/Requarks/wiki"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [Wikidot](https://www.wikidot.com/)
 - [WikkaWiki](http://www.wikkawiki.org/HomePage)
 - [XWiki](https://www.xwiki.org/xwiki/bin/view/Main/)
-- [XXIIVV/oscean: Static wiki engine written in Uxntal](https://github.com/XXIIVV/Oscean)
-- [YesWiki : Bienvenue sur YesWiki](https://yeswiki.net/?AccueiL)
+- [XXIIVV/oscean](https://github.com/XXIIVV/Oscean) — Static wiki engine written in Uxntal
+- [YesWiki](https://yeswiki.net/?AccueiL) — Bienvenue sur YesWiki
 
 ###### Tiddlywiki
-- ⭐ **[Feather Wiki](https://feather.wiki/)** / [🔗](https://codeberg.org/Alamantus/FeatherWiki)
+- ⭐ **[Feather Wiki](https://feather.wiki/)** / <a href="https://codeberg.org/Alamantus/FeatherWiki"><img class="source-host-icon" src="/img/source-hosts/codeberg.svg" alt="Codeberg" title="Codeberg" width="14" height="14" loading="lazy"></a>
 - ⭐ **[TiddlyWiki](https://tiddlywiki.com/)**
 - [FU-SEN 📖 Feather Wiki](https://feather-balloon.neocities.org/)
 - [TiddlyMemo](https://tiddlymemo.org/)
@@ -521,55 +521,55 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [Builder.io](https://www.builder.io/)
 - [Butter CMS](https://buttercms.com/)
 - [Cockpit](https://getcockpit.com/)
-- [ContentFul - Content that scales. Experiences that convert.](https://www.contentful.com/)
-- [Directus.io - The Headless CMS + Backend for Every Custom Build](https://directus.io/)
+- [ContentFul](https://www.contentful.com/) — Content that scales. Experiences that convert.
+- [Directus.io](https://directus.io/) — The Headless CMS + Backend for Every Custom Build
 - [dotCMS](https://www.dotcms.com/)
-- [Faust.js](https://faustjs.org/) / [🔗](https://github.com/wpengine/faustjs)
-- [Headless CMS | Jamstack](https://jamstack.org/headless-cms/)
+- [Faust.js](https://faustjs.org/) / <a href="https://github.com/wpengine/faustjs"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Headless CMS](https://jamstack.org/headless-cms/) — Jamstack
 - [KeystoneJS](https://keystonejs.com/)
-- [Payload CMS](https://payloadcms.com/) / [🔗](https://github.com/payloadcms/payload)
+- [Payload CMS](https://payloadcms.com/) / <a href="https://github.com/payloadcms/payload"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [Plasmic](https://www.plasmic.app/)
 - [Ponzu](https://docs.ponzu-cms.org/)
-- [Prose.io - A Content Editor for GitHub](https://prose.io/)
-- [Sanity - The Content Operating System](https://www.sanity.io/) / [🔗](https://github.com/sanity-io/sanity)
+- [Prose.io](https://prose.io/) — A Content Editor for GitHub
+- [Sanity](https://www.sanity.io/) / <a href="https://github.com/sanity-io/sanity"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — The Content Operating System
 - [Squidex.io](https://squidex.io/)
 - [Statamic](https://statamic.com/)
-- [Strapi - Open source Node.js Headless CMS 🚀](https://strapi.io/) / [🔗](https://github.com/strapi/strapi)
-- [TinaCMS – Headless CMS with GitHub & Markdown Support](https://tina.io/)
+- [Strapi](https://strapi.io/) / <a href="https://github.com/strapi/strapi"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Open source Node.js Headless CMS 🚀
+- [TinaCMS](https://tina.io/) — Headless CMS with GitHub & Markdown Support
 - [Vrite－headless CMS for technical content](https://vrite.io/)
 - [Webiny](https://www.webiny.com/)
 
 #### SSG (Static Site Generator)
-- ⭐ **[Deno fresh - next-gen web framework](https://fresh.deno.dev/)**
+- ⭐ **[Deno fresh](https://fresh.deno.dev/)** — next-gen web framework
 - ⭐ **[no-ht.ml](https://no-ht.ml/)**
-- ⭐ **[Static Site Generators | Jamstack](https://jamstack.org/generators/)**
-- ⭐ **[VueJS - Vite & Vue Static Site Generator](https://vitepress.dev/)**
+- ⭐ **[Static Site Generators](https://jamstack.org/generators/)** — Jamstack
+- ⭐ **[VueJS](https://vitepress.dev/)** — Vite & Vue Static Site Generator
 - [Awesome Static Generators](https://myles.github.io/awesome-static-generators/)
-- [Batsov.com | GitHub](https://github.com/bbatsov/batsov.com)
-- [Bridgetown - Next-Generation Progressive Site Generator](https://www.bridgetownrb.com/)
+- [Batsov.com](https://github.com/bbatsov/batsov.com) — GitHub
+- [Bridgetown](https://www.bridgetownrb.com/) — Next-Generation Progressive Site Generator
 - [Brunch.io](https://brunch.io/)
-- [cfenollosa/bashblog - Bash script to create blogsites](https://github.com/cfenollosa/bashblog)
-- [Eleventy JS - Simpler SSG](https://11ty.dev/)
+- [cfenollosa/bashblog](https://github.com/cfenollosa/bashblog) — Bash script to create blogsites
+- [Eleventy JS](https://11ty.dev/) — Simpler SSG
 - [Franklin in JuliaSSG](https://franklinjl.org/)
-- [Hyas - HUGO + npm framework](https://gethyas.com/)
+- [Hyas](https://gethyas.com/) — HUGO + npm framework
 - [Hylia.website](https://hylia.website/)
 - [Jigsaw](https://jigsaw.tighten.com/)
 - [Lume, the static site generator for Deno](https://lume.land/)
 - [Middleman](https://middlemanapp.com/)
 - [Nanoc](https://nanoc.app/)
-- [Nextra – Next.js Static Site Generator](https://nextra.site/)
+- [Nextra](https://nextra.site/) — Next.js Static Site Generator
 - [Nikola SSG](https://getnikola.com/)
 - [obsidian-html/obsidian-html · GitHub](https://github.com/obsidian-html/obsidian-html)
-- [Publii - SSG with UI](https://getpublii.com/)
+- [Publii](https://getpublii.com/) — SSG with UI
 - [Scully](https://scully.io/)
-- [Sculpin — PHP Static Site Generator](https://sculpin.io/)
+- [Sculpin](https://sculpin.io/) — PHP Static Site Generator
 - [StaPy SSG](https://www.stapy.net/)
 - [Static Site Generators](https://staticsitegenerators.net/)
 - [Statiq Generator](https://www.statiq.dev/)
 - [Svelte Sapper](https://sapper.svelte.dev/)
 - [SvelteKit • Web development, streamlined](https://kit.svelte.dev/)
-- [TheBigRoomXXL/tinyfeed: Generate a static HTML page from a collection of feeds](https://github.com/TheBigRoomXXL/tinyfeed)
-- [VuePress - VueJS](https://vuepress.vuejs.org/)
+- [TheBigRoomXXL/tinyfeed](https://github.com/TheBigRoomXXL/tinyfeed) — Generate a static HTML page from a collection of feeds
+- [VuePress](https://vuepress.vuejs.org/) — VueJS
 - [Wintersmith](http://wintersmith.io/)
 - [WP2Static](https://wp2static.com/)
 - [Zola](https://www.getzola.org/)
@@ -586,17 +586,17 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [ClickHelp](https://clickhelp.com/)
 - [Codedoc](https://codedoc.cc/)
 - [DAUX.io](https://daux.io/)
-- [DeveloperHub - Collaborate on Documentation](https://developerhub.io/)
+- [DeveloperHub](https://developerhub.io/) — Collaborate on Documentation
 - [DocFX](https://dotnet.github.io/docfx/)
 - [Doclets.io](https://doclets.io/)
 - [docpress/docpress · GitHub](https://github.com/docpress/docpress)
 - [Docs.rs](https://docs.rs/)
 - [Doctave](https://www.doctave.com/)
 - [Document360](https://document360.com/)
-- [DocumentationLab | Documentation that stays up-to-date](https://documentationlab.com/)
-- [Docusaurus - Build optimized websites quickly, focus on your content](https://docusaurus.io/) / [🔗](https://github.com/facebook/docusaurus)
+- [DocumentationLab](https://documentationlab.com/) — Documentation that stays up-to-date
+- [Docusaurus](https://docusaurus.io/) / <a href="https://github.com/facebook/docusaurus"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Build optimized websites quickly, focus on your content
 - [Doxygen](https://www.doxygen.nl/)
-- [Flatdoc - Rio Sta Cruz](https://ricostacruz.com/flatdoc/)
+- [Flatdoc](https://ricostacruz.com/flatdoc/) — Rio Sta Cruz
 - [GitBook](https://www.gitbook.com/)
 - [gollum/gollum · GitHub](https://github.com/gollum/gollum)
 - [KiloDoc](https://www.kilodoc.com/)
@@ -608,49 +608,49 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [NextBook](https://next-book.vercel.app/intro)
 - [Orchid.run](https://orchid.run/)
 - [Presidium](https://presidium.spandigital.net/)
-- [Quartz 4.0 - Jzhao 🪴](https://quartz.jzhao.xyz/)
+- [Quartz 4.0](https://quartz.jzhao.xyz/) — Jzhao 🪴
 - [Read the Docs](https://readthedocs.org/)
 - [ReadMe](https://readme.com/)
 - [Reedsy](https://reedsy.com/)
 - [Retype](https://retype.com/)
 - [rust-lang/mdBook · GitHub](https://github.com/rust-lang/mdBook)
-- [Saber - web framework](https://saber.egoist.dev/)
+- [Saber](https://saber.egoist.dev/) — web framework
 - [SkyDocs](https://skydocs.skyost.eu/en/)
-- [Slatedocs – API Reference](https://slatedocs.github.io/slate/#introduction)
+- [Slatedocs](https://slatedocs.github.io/slate/#introduction) — API Reference
 - [Slatedocs/slate · GItHub](https://github.com/slatedocs/slate)
 - [snazzyDocs](https://app.snazzydocs.com/docs)
 - [Sphinx documentation](https://www.sphinx-doc.org/en/master/)
 - [Tettra](https://tettra.com/)
-- [YARD - A Ruby Documentation Tool](https://yardoc.org/)
-- [You need a wiki - Create a wiki with Google Docs](https://youneedawiki.com/)
+- [YARD](https://yardoc.org/) — A Ruby Documentation Tool
+- [You need a wiki](https://youneedawiki.com/) — Create a wiki with Google Docs
 - [Zeal docs](https://zealdocs.org/)
 
 ##### Markup Framework
-- ⭐ **[Hugo - The world fastest framework for building websites](https://gohugo.io/)** / [🔗](https://github.com/gohugoio/hugo)
-- ⭐ **[Jekyll - Simple, blog-aware, static sites](https://jekyllrb.com/)**
-- [fmalina/page: Static website generator](https://github.com/fmalina/page)
+- ⭐ **[Hugo](https://gohugo.io/)** / <a href="https://github.com/gohugoio/hugo"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — The world fastest framework for building websites
+- ⭐ **[Jekyll](https://jekyllrb.com/)** — Simple, blog-aware, static sites
+- [fmalina/page](https://github.com/fmalina/page) — Static website generator
 - [Hakyll SSG](https://jaspervdj.be/hakyll/)
 - [Hexo.io](https://hexo.io/)
-- [Pelican – A Python Static Site Generator](https://getpelican.com/)
+- [Pelican](https://getpelican.com/) — A Python Static Site Generator
 
 #### CDN (Content Delivery Network)
-- [Bootstrap 5.2.2 CSS - jsDelivr](https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css)
-- [Bootstrap 5.2.2 JS - jsDelivr](https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js)
-- [Bootstrap icons 1.10.2 - jsDelivr](https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css)
-- [bootstrap-icons CDN - jsDelivr](https://www.jsdelivr.com/package/npm/bootstrap-icons)
+- [Bootstrap 5.2.2 CSS](https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css) — jsDelivr
+- [Bootstrap 5.2.2 JS](https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js) — jsDelivr
+- [Bootstrap icons 1.10.2](https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css) — jsDelivr
+- [bootstrap-icons CDN](https://www.jsdelivr.com/package/npm/bootstrap-icons) — jsDelivr
 - [BootstrapCDN](https://www.bootstrapcdn.com/)
 - [CDN77.com](https://www.cdn77.com/)
 - [CDNify](https://cdnify.com/)
 - [cdnjs](https://cdnjs.com/)
-- [Cloudinary - Image and Video Upload, Storage, Optimization and CDN](https://cloudinary.com/)
-- [DemoUp Cliplister | Shaping the Future of E-Commerce](https://www.demoup-cliplister.com/)
-- [Font awesome CDN - BootstrapCDN](https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css)
+- [Cloudinary](https://cloudinary.com/) — Image and Video Upload, Storage, Optimization and CDN
+- [DemoUp Cliplister](https://www.demoup-cliplister.com/) — Shaping the Future of E-Commerce
+- [Font awesome CDN](https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css) — BootstrapCDN
 - [Gstatic](https://www.gstatic.com/)
 - [jsDelivr](https://www.jsdelivr.com/)
 - [KeyCDN](https://www.keycdn.com/)
 - [LaunchCDN](https://www.launchcdn.com/)
 - [PageCDN](https://pagecdn.com/)
-- [Statically - The CDN for developers](https://statically.io/)
+- [Statically](https://statically.io/) — The CDN for developers
 - [UNPKG](https://unpkg.com/)
 
 #### SSG Hosting
@@ -658,11 +658,11 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [Cloudflare Workers©](https://workers.cloudflare.com/)
 - [Codeberg Pages](https://codeberg.page/)
 - [DeployHQ](https://www.deployhq.com/)
-- [Fly.io - Deploy app servers close to your users](https://fly.io/)
+- [Fly.io](https://fly.io/) — Deploy app servers close to your users
 - [GitHub Pages](https://pages.github.com/)
-- [GitLab Pages | GitLab](https://docs.gitlab.com/ee/user/project/pages/)
+- [GitLab Pages](https://docs.gitlab.com/ee/user/project/pages/) — GitLab
 - [Harp, the static web server with built-in preprocessing](https://harpjs.com/)
-- [is-a.dev Documentation | is-a.dev Docs](https://docs.is-a.dev/) / [🔗](https://github.com/is-a-dev/register)
+- [is-a.dev Documentation](https://docs.is-a.dev/) / <a href="https://github.com/is-a-dev/register"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — is-a.dev Docs
 - [nekoweb](https://nekoweb.org/)
 - [sourcehut pages](https://srht.site/)
 - [Super.so](https://super.so/)
@@ -673,43 +673,43 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 
 ### Deep Learning Framework
 - [Apache MXNet](https://mxnet.incubator.apache.org/versions/1.9.1/)
-- [Caffe | Deep Learning Framework](https://caffe.berkeleyvision.org/)
-- [Chainer: A flexible framework for neural networks](https://chainer.org/)
-- [Meta Seal - State-of-the-Art Open Source AI Watermarking](https://facebookresearch.github.io/meta-seal/)
-- [PyTorch](https://pytorch.org/) / [🔗](https://github.com/pytorch/pytorch)
-- [Supervision](https://supervision.roboflow.com/latest/) / [🔗](https://github.com/roboflow)
+- [Caffe](https://caffe.berkeleyvision.org/) — Deep Learning Framework
+- [Chainer](https://chainer.org/) — A flexible framework for neural networks
+- [Meta Seal](https://facebookresearch.github.io/meta-seal/) — State-of-the-Art Open Source AI Watermarking
+- [PyTorch](https://pytorch.org/) / <a href="https://github.com/pytorch/pytorch"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Supervision](https://supervision.roboflow.com/latest/) / <a href="https://github.com/roboflow"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [TensorFlow](https://www.tensorflow.org/)
 - [Torch](http://torch.ch/)
 
 ### App Dev Framework
-- ⭐ **[Flutter - Build apps for any screen](https://flutter.dev/)**
-- [.NET - Microsoft](https://dotnet.microsoft.com/en-us/)
-- [.NET MAUI | Microsoft Dotnet](https://dotnet.microsoft.com/en-us/apps/maui)
+- ⭐ **[Flutter](https://flutter.dev/)** — Build apps for any screen
+- [.NET](https://dotnet.microsoft.com/en-us/) — Microsoft
+- [.NET MAUI](https://dotnet.microsoft.com/en-us/apps/maui) — Microsoft Dotnet
 - [8th dev](https://8th-dev.com/)
 - [Cobra.Dev](https://cobra.dev/)
 - [ColdBox](https://www.coldbox.org/)
 - [Enact Framework](https://enactjs.com/)
-- [Floem - Cross-platform GUI framework for Rust](https://lap.dev/floem/) / [🔗](https://github.com/lapce/floem)
-- [Framework7 - Framework For Building iOS, Android & Desktop Apps](https://framework7.io/)
+- [Floem](https://lap.dev/floem/) / <a href="https://github.com/lapce/floem"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Cross-platform GUI framework for Rust
+- [Framework7](https://framework7.io/) — Framework For Building iOS, Android & Desktop Apps
 - [grammY](https://grammy.dev/)
 - [GTK Project](https://gtk.org/)
 - [Hydra](https://hydra.cc/)
-- [Ionic Framework](https://ionicframework.com/) / [🔗](https://github.com/ionic-team/ionic-framework)
+- [Ionic Framework](https://ionicframework.com/) / <a href="https://github.com/ionic-team/ionic-framework"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [JavaFX](https://openjfx.io/)
-- [Johnny-Five: The JavaScript Robotics & IoT Platform](https://johnny-five.io/)
+- [Johnny-Five](https://johnny-five.io/) — The JavaScript Robotics & IoT Platform
 - [JUnit 5](https://junit.org/junit5/)
 - [Neutralinojs](https://neutralino.js.org/)
 - [OOMOL](https://oomol.com/)
 - [Qiskit](https://qiskit.org/)
-- [Qt | Development Framework for Cross-platform Applications](https://www.qt.io/product/framework)
-- [RubyLLM](https://rubyllm.com/) / [🔗](https://github.com/crmne/ruby_llm)
-- [Skip](https://skip.tools/) / [🔗](https://github.com/skiptools/skip)
-- [TanStack | High Quality Open-Source Software for Web Developers](https://tanstack.com/)
+- [Qt](https://www.qt.io/product/framework) — Development Framework for Cross-platform Applications
+- [RubyLLM](https://rubyllm.com/) / <a href="https://github.com/crmne/ruby_llm"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Skip](https://skip.tools/) / <a href="https://github.com/skiptools/skip"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [TanStack](https://tanstack.com/) — High Quality Open-Source Software for Web Developers
 - [Tauri App](https://tauri.app/)
-- [ToolJet | Open-source low-code platform to build internal tools](https://www.tooljet.com/)
-- [Trigger.dev | Open source background jobs with no timeouts.](https://trigger.dev/)
-- [Wails - The Wails Project](https://wails.io/)
-- [Xamarin | .NET](https://dotnet.microsoft.com/en-us/apps/xamarin)
+- [ToolJet](https://www.tooljet.com/) — Open-source low-code platform to build internal tools
+- [Trigger.dev](https://trigger.dev/) — Open source background jobs with no timeouts.
+- [Wails](https://wails.io/) — The Wails Project
+- [Xamarin](https://dotnet.microsoft.com/en-us/apps/xamarin) — .NET
 - [Xojo](https://www.xojo.com/)
 - [Yew.rs](https://yew.rs/)
 
@@ -720,30 +720,30 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [Apache Struts](https://struts.apache.org/)
 - [Apache Tapestry](https://tapestry.apache.org/)
 - [Apache Wicket](https://wicket.apache.org/)
-- [Bottle: Python Web Framework](https://bottlepy.org/docs/dev/)
-- [CakePHP - PHP Framework](https://cakephp.org/)
-- [Catalyst | Perl](http://catalyst.perl.org/)
+- [Bottle](https://bottlepy.org/docs/dev/) — Python Web Framework
+- [CakePHP](https://cakephp.org/) — PHP Framework
+- [Catalyst](http://catalyst.perl.org/) — Perl
 - [CherryPy](https://cherrypy.dev/)
-- [CodeIgniter - Web Framework](https://codeigniter.com/)
-- [Dart Frog](https://dart-frog.dev/) / [🔗](https://github.com/dart-frog-dev/dart_frog)
+- [CodeIgniter](https://codeigniter.com/) — Web Framework
+- [Dart Frog](https://dart-frog.dev/) / <a href="https://github.com/dart-frog-dev/dart_frog"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [Django framework](https://www.djangoproject.com/)
 - [Ember.js](https://emberjs.com/)
 - [Emweb web toolkit](https://www.webtoolkit.eu/wt)
 - [Falcon](https://falconframework.org/)
 - [FastAPI](https://fastapi.tiangolo.com/)
-- [Fastify | Fast and low overhead web framework, for Node.js](https://fastify.dev/)
+- [Fastify](https://fastify.dev/) — Fast and low overhead web framework, for Node.js
 - [Fat-Free Framework for PHP](https://fatfreeframework.com/3.8/home)
-- [Flask Documentation - Pallets](https://flask.palletsprojects.com/en/2.3.x/)
+- [Flask Documentation](https://flask.palletsprojects.com/en/2.3.x/) — Pallets
 - [FuelPHP](https://fuelphp.com/)
 - [Gin Web Framework](https://gin-gonic.com/)
-- [gofiber/fiber: ⚡️ Express inspired web framework written in Go](https://github.com/gofiber/fiber)
-- [google/zetasql: ZetaSQL - Analyzer Framework for SQL](https://github.com/google/zetasql)
-- [GraphQL Yoga | Yoga](https://the-guild.dev/graphql/yoga-server)
+- [gofiber/fiber](https://github.com/gofiber/fiber) — ⚡️ Express inspired web framework written in Go
+- [google/zetasql](https://github.com/google/zetasql) — ZetaSQL - Analyzer Framework for SQL
+- [GraphQL Yoga](https://the-guild.dev/graphql/yoga-server) — Yoga
 - [GWT](https://www.gwtproject.org/)
 - [hapi.dev](https://hapi.dev/)
-- [Hono - Ultrafast web framework for the Edges](https://hono.dev/)
+- [Hono](https://hono.dev/) — Ultrafast web framework for the Edges
 - [Kajona](https://www.kajona.de/)
-- [Laminas Project - PHP Framework](https://getlaminas.org/)
+- [Laminas Project](https://getlaminas.org/) — PHP Framework
 - [Laravel](https://laravel.com/)
 - [Laravel Bootcamp](https://bootcamp.laravel.com/)
 - [Laravel Forge](https://forge.laravel.com/)
@@ -751,8 +751,8 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [Laravel Vapor](https://vapor.laravel.com/)
 - [Mako Framework](https://makoframework.com/)
 - [Model Glue](https://www.model-glue.com/)
-- [Mojolicious - Perl real-time web framework](https://mojolicious.org/)
-- [Nette – PHP framework](https://nette.org/en/)
+- [Mojolicious](https://mojolicious.org/) — Perl real-time web framework
+- [Nette](https://nette.org/en/) — PHP framework
 - [Phalcon Framework](https://phalcon.io/en-us)
 - [Play Framework](https://www.playframework.com/)
 - [Pop PHP Framework](https://popphp.org/)
@@ -760,21 +760,21 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [Problem loading page](http://www.fusebox.org/)
 - [PsySH](https://psysh.org/)
 - [Pylons Project](https://pylonsproject.org/)
-- [Pyramid - a Python Web Framework](https://trypyramid.com/)
+- [Pyramid](https://trypyramid.com/) — a Python Web Framework
 - [Qooxdoo](https://qooxdoo.org/)
-- [Quarkus - Supersonic Subatomic Java](https://quarkus.io/)
+- [Quarkus](https://quarkus.io/) — Supersonic Subatomic Java
 - [Ruby on Rails](https://rubyonrails.org/)
-- [Seam Framework - JBoss Seam](https://www.seamframework.org/)
-- [Server-Side Swift is here: it's Perfect](https://perfect.org/)
-- [sinatra/sinatra: Classy web-development dressed in a DSL](https://github.com/sinatra/sinatra)
-- [Smart Framework - PHP / Javascript Framework](http://demo.unix-world.org/smart-framework/)
+- [Seam Framework](https://www.seamframework.org/) — JBoss Seam
+- [Server-Side Swift is here](https://perfect.org/) — it's Perfect
+- [sinatra/sinatra](https://github.com/sinatra/sinatra) — Classy web-development dressed in a DSL
+- [Smart Framework](http://demo.unix-world.org/smart-framework/) — PHP / Javascript Framework
 - [Spring.io](https://spring.io/)
 - [SproutCore](https://sproutcore.com/)
-- [Stellate - The GraphQL company](https://stellate.co/)
-- [Symfony - PHP framework for web](https://symfony.com/)
+- [Stellate](https://stellate.co/) — The GraphQL company
+- [Symfony](https://symfony.com/) — PHP framework for web
 - [Tornado Web Server](https://www.tornadoweb.org/en/stable/)
 - [TurboGears](https://www.turbogears.org/)
-- [TypeORM - Amazing ORM for TypeScript and JavaScript](https://typeorm.io/)
+- [TypeORM](https://typeorm.io/) — Amazing ORM for TypeScript and JavaScript
 - [Typer](https://typer.tiangolo.com/)
 - [Vaadin](https://vaadin.com/)
 - [Vapor.codes](https://vapor.codes/)
@@ -782,58 +782,58 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 
 ### Front-End Framework
 - ⭐ **[Astro.build](https://astro.build/)**
-- ⭐ **[Next.js - The React framework for the web](https://nextjs.org/)**
+- ⭐ **[Next.js](https://nextjs.org/)** — The React framework for the web
 - ⭐ **[Vue.js](https://vuejs.org/)**
-- [A Web Developer's Browser](https://responsively.app/) / [🔗](https://github.com/responsively-org/responsively-app)
+- [A Web Developer's Browser](https://responsively.app/) / <a href="https://github.com/responsively-org/responsively-app"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [Alpine.js](https://alpinejs.dev/)
 - [AngularJS](https://angularjs.org/)
 - [Aurelia JS](https://aurelia.io/)
-- [bergie/VIE: Semantic Interaction Framework for JavaScript](https://github.com/bergie/VIE)
+- [bergie/VIE](https://github.com/bergie/VIE) — Semantic Interaction Framework for JavaScript
 - [Bottender.js.org](https://bottender.js.org/)
-- [Bulma - modern CSS framework based on Flexbox](https://bulma.io/)
+- [Bulma](https://bulma.io/) — modern CSS framework based on Flexbox
 - [Code Hike](https://codehike.org/)
 - [Create React App](https://create-react-app.dev/)
-- [EJS - Embedded JavaScript templates](https://ejs.co/)
+- [EJS](https://ejs.co/) — Embedded JavaScript templates
 - [Electron JS](https://www.electronjs.org/)
 - [Expo.dev](https://expo.dev/)
 - [Express JS](https://expressjs.com/)
 - [Faker JS](https://fakerjs.dev/)
 - [Fiber](https://gofiber.io/)
-- [Foundation - The most advanced responsive front-end framework in the world](https://get.foundation/)
-- [Gatsby JS](https://www.gatsbyjs.com/) / [🔗](https://github.com/gatsbyjs/gatsby)
+- [Foundation](https://get.foundation/) — The most advanced responsive front-end framework in the world
+- [Gatsby JS](https://www.gatsbyjs.com/) / <a href="https://github.com/gatsbyjs/gatsby"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [Gridsome for Vue.js](https://gridsome.org/)
 - [Handlebars JS](https://handlebarsjs.com/)
 - [highlight.js](https://highlightjs.org/)
 - [Hotwire.dev](https://hotwired.dev/)
 - [i18next](https://www.i18next.com/)
 - [Inertia.js](https://inertiajs.com/)
-- [JS.org - Eta](https://eta.js.org/)
-- [layerJS/layerJS: Javascript UI composition framework](https://github.com/layerJS/layerJS)
+- [JS.org](https://eta.js.org/) — Eta
+- [layerJS/layerJS](https://github.com/layerJS/layerJS) — Javascript UI composition framework
 - [Less.js](https://lesscss.org/)
 - [Lynx](https://lynxjs.org/)
 - [Materialize CSS](https://materializecss.com/)
-- [Maui Project - UI framework](https://mauikit.org/)
-- [MDX | markdown with JSX](https://mdxjs.com/)
-- [Medusa - Building blocks for digital commerce](https://medusajs.com/)
-- [Moleculer - Progressive microservices framework for Node.js](https://moleculer.services/)
+- [Maui Project](https://mauikit.org/) — UI framework
+- [MDX](https://mdxjs.com/) — markdown with JSX
+- [Medusa](https://medusajs.com/) — Building blocks for digital commerce
+- [Moleculer](https://moleculer.services/) — Progressive microservices framework for Node.js
 - [NES.css · GitHub](https://nostalgic-css.github.io/NES.css/)
-- [NestJS - A progressive Node.js framework](https://nestjs.com/) / [🔗](https://github.com/nestjs/nest)
-- [Nuxt.js - Intuitive Vue Framework](https://nuxtjs.org/)
-- [Panda CSS - Build modern websites using build time and type-safe CSS-in-JS](https://panda-css.com/)
+- [NestJS](https://nestjs.com/) / <a href="https://github.com/nestjs/nest"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — A progressive Node.js framework
+- [Nuxt.js](https://nuxtjs.org/) — Intuitive Vue Framework
+- [Panda CSS](https://panda-css.com/) — Build modern websites using build time and type-safe CSS-in-JS
 - [Parcel JS](https://parceljs.org/)
 - [Popper JS](https://popper.js.org/)
-- [PortalJS - rapidly build rich data portals using a modern frontend framework](https://portaljs.org/)
+- [PortalJS](https://portaljs.org/) — rapidly build rich data portals using a modern frontend framework
 - [Quasar Framework](https://quasar.dev/)
-- [Qwik - Framework reimagined for the edge](https://qwik.dev/) / [🔗](https://github.com/QwikDev/qwik)
+- [Qwik](https://qwik.dev/) / <a href="https://github.com/QwikDev/qwik"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Framework reimagined for the edge
 - [Rax.js.org](https://rax.js.org/)
 - [RazzleJS](https://razzlejs.org/)
 - [React-Bootstrap · GitHub](https://react-bootstrap.github.io/)
-- [Reactive Resume — A free and open-source resume builder](https://rxresu.me/) / [🔗](https://github.com/amruthpillai/reactive-resume)
+- [Reactive Resume](https://rxresu.me/) / <a href="https://github.com/amruthpillai/reactive-resume"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — A free and open-source resume builder
 - [RedwoodJS](https://redwoodjs.com/)
-- [refinedev/refine: A React Framework for building internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.](https://github.com/refinedev/refine)
-- [RippleJS](https://www.ripplejs.com/) / [🔗](https://github.com/trueadm/ripple)
+- [refinedev/refine](https://github.com/refinedev/refine) — A React Framework for building internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
+- [RippleJS](https://www.ripplejs.com/) / <a href="https://github.com/trueadm/ripple"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [Sails.js](https://sailsjs.com/)
-- [Storybook JS](https://storybook.js.org/) / [🔗](https://github.com/storybookjs/storybook)
+- [Storybook JS](https://storybook.js.org/) / <a href="https://github.com/storybookjs/storybook"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [Thymeleaf](https://www.thymeleaf.org/)
 - [Vanilla JS](https://vanilla.js.org/)
 - [Vanilla JS](http://vanilla-js.com/)
@@ -842,45 +842,45 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [VulcanJS](http://vulcanjs.org/)
 
 #### Presentation Framework
-- ⭐ **[impress.js | presentation tool based on the power of CSS3](https://impress.js.org/)**
-- ⭐ **[reveal.js - HTML presentation framework](https://revealjs.com/)**
-- [adamzap/landslide: Generate HTML5 slideshows from markdown, ReST, or textile](https://github.com/adamzap/landslide/)
-- [AiPPT - AI-Powered One-click PPT Generation](https://m.aippt.com/#/pages/index/index)
-- [imakewebthings/deck.js: Modern HTML Presentations](https://github.com/imakewebthings/deck.js)
-- [impress/impress.js: presentation framework based on the power of CSS3](https://github.com/impress/impress.js/)
+- ⭐ **[impress.js](https://impress.js.org/)** — presentation tool based on the power of CSS3
+- ⭐ **[reveal.js](https://revealjs.com/)** — HTML presentation framework
+- [adamzap/landslide](https://github.com/adamzap/landslide/) — Generate HTML5 slideshows from markdown, ReST, or textile
+- [AiPPT](https://m.aippt.com/#/pages/index/index) — AI-Powered One-click PPT Generation
+- [imakewebthings/deck.js](https://github.com/imakewebthings/deck.js) — Modern HTML Presentations
+- [impress/impress.js](https://github.com/impress/impress.js/) — presentation framework based on the power of CSS3
 - [Impressive](https://impressive.sourceforge.net/)
-- [LeaVerou/inspire.js: Lean, hackable, extensible slide deck framework](https://github.com/LeaVerou/inspire.js)
+- [LeaVerou/inspire.js](https://github.com/LeaVerou/inspire.js) — Lean, hackable, extensible slide deck framework
 - [marp-team/marp-cli · GitHub](https://github.com/marp-team/marp-cli)
-- [Marp: Markdown Presentation Ecosystem](https://marp.app/)
-- [regebro/hovercraft: Make dynamic impressive presentations from text files!](https://github.com/regebro/hovercraft)
-- [sent - simple plaintext presentation tool](https://git.suckless.org/sent/)
-- [shower/shower: Shower HTML presentation engine](https://github.com/shower/shower)
-- [SlideDog: Powerful Presentation Software](https://slidedog.com/)
-- [Slidev](https://sli.dev/) / [🔗](https://github.com/slidevjs/slidev)
-- [sozi-projects/Sozi: A "zooming" presentation editor](https://github.com/sozi-projects/Sozi)
-- [webslides/WebSlides: Create HTML presentations in seconds](https://github.com/webslides/webslides/)
+- [Marp](https://marp.app/) — Markdown Presentation Ecosystem
+- [regebro/hovercraft](https://github.com/regebro/hovercraft) — Make dynamic impressive presentations from text files!
+- [sent](https://git.suckless.org/sent/) — simple plaintext presentation tool
+- [shower/shower](https://github.com/shower/shower) — Shower HTML presentation engine
+- [SlideDog](https://slidedog.com/) — Powerful Presentation Software
+- [Slidev](https://sli.dev/) / <a href="https://github.com/slidevjs/slidev"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [sozi-projects/Sozi](https://github.com/sozi-projects/Sozi) — A "zooming" presentation editor
+- [webslides/WebSlides](https://github.com/webslides/webslides/) — Create HTML presentations in seconds
 - [Wondershare Presentory](https://presentory.wondershare.com/)
 
 ### Full-Stack Framework
 - [Actix Web](https://actix.rs/)
-- [Agile Toolkit - PHP UI Framework for Agile Data](https://www.agiletoolkit.org/)
+- [Agile Toolkit](https://www.agiletoolkit.org/) — PHP UI Framework for Agile Data
 - [Analog JS](https://analogjs.org/)
-- [Angular](https://angular.dev/) / [🔗](https://github.com/angular/angular)
-- [ASP.NET - .NET](https://dotnet.microsoft.com/en-us/apps/aspnet)
-- [Aspire—Your Stack, Streamlined](https://aspire.dev/) / [🔗](https://github.com/microsoft/aspire)
-- [Assembler CSS | Modern UI framework](https://asmcss.com/)
+- [Angular](https://angular.dev/) / <a href="https://github.com/angular/angular"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [ASP.NET](https://dotnet.microsoft.com/en-us/apps/aspnet) — .NET
+- [Aspire—Your Stack, Streamlined](https://aspire.dev/) / <a href="https://github.com/microsoft/aspire"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Assembler CSS](https://asmcss.com/) — Modern UI framework
 - [Cipi Control Panel](https://cipi.sh/)
 - [CrowCpp](https://crowcpp.org/master/)
-- [Dioxus - Reliable Rust apps that run anywhere](https://dioxuslabs.com/)
+- [Dioxus](https://dioxuslabs.com/) — Reliable Rust apps that run anywhere
 - [Docz.site](https://www.docz.site/)
 - [feathers](https://feathersjs.com/)
 - [Flare, error tracker for Laravel](https://flareapp.io/)
 - [Flight PHP](https://flightphp.com/)
-- [htmx - high power tools for html](https://htmx.org/) / [🔗](https://github.com/bigskysoftware/htmx)
+- [htmx](https://htmx.org/) / <a href="https://github.com/bigskysoftware/htmx"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — high power tools for html
 - [Jotai, state management for React](https://jotai.org/)
-- [Klein: werkzeug + twisted.web · GItHub](https://github.com/twisted/klein)
-- [Koa - next generation web framework for node.js](https://koajs.com/)
-- [Kobweb](https://kobweb.varabyte.com/) / [🔗](https://github.com/varabyte/kobweb)
+- [Klein](https://github.com/twisted/klein) — werkzeug + twisted.web · GItHub
+- [Koa](https://koajs.com/) — next generation web framework for node.js
+- [Kobweb](https://kobweb.varabyte.com/) / <a href="https://github.com/varabyte/kobweb"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [KVision](https://kvision.io/)
 - [Leiningen](https://leiningen.org/)
 - [Lucky framework](https://luckyframework.org/)
@@ -891,40 +891,40 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [React Native](https://reactnative.dev/)
 - [React Virtuoso](https://virtuoso.dev/)
 - [Remake the web](https://remaketheweb.com/)
-- [Remix.run - Build better websites](https://remix.run/)
+- [Remix.run](https://remix.run/) — Build better websites
 - [Rocket.rs](https://rocket.rs/)
 - [Scalatra](https://scalatra.org/)
-- [SolidStart: Fine-Grained Reactivity goes fullstack](https://start.solidjs.com/)
+- [SolidStart](https://start.solidjs.com/) — Fine-Grained Reactivity goes fullstack
 - [Spark Framework](https://sparkjava.com/)
-- [Stop fighting with frameworks and start shipping real apps - Meteor.js](https://www.meteor.com/)
+- [Stop fighting with frameworks and start shipping real apps](https://www.meteor.com/) — Meteor.js
 - [Svelte.dev](https://svelte.dev/)
 - [Tailwind CSS](https://tailwindcss.com/)
-- [wasp-lang/wasp: The fastest way to develop full-stack web apps with React & Node.js](https://github.com/wasp-lang/wasp)
+- [wasp-lang/wasp](https://github.com/wasp-lang/wasp) — The fastest way to develop full-stack web apps with React & Node.js
 - [webpy.org](https://webpy.org/)
 
 ### Build Framework
-- [atopile - Code to Electronics](https://atopile.io/)
-- [CMake - Upgrade Your Software Build System](https://cmake.org/)
-- [CoralOS - Enterprise](https://www.coralos.ai/)
-- [Diesel - Builder for Rust](https://diesel.rs/)
-- [ej-technologies - Java APM, Java Profiler, Java Installer Builder](https://www.ej-technologies.com/)
+- [atopile](https://atopile.io/) — Code to Electronics
+- [CMake](https://cmake.org/) — Upgrade Your Software Build System
+- [CoralOS](https://www.coralos.ai/) — Enterprise
+- [Diesel](https://diesel.rs/) — Builder for Rust
+- [ej-technologies](https://www.ej-technologies.com/) — Java APM, Java Profiler, Java Installer Builder
 - [Gradle Build Tool](https://gradle.org/)
 - [Jam.py Application Builder](https://jampyapplicationbuilder.com/)
 - [jQuery QueryBuilder](https://querybuilder.js.org/)
-- [Make - GNU Project - Free Software Foundation](https://www.gnu.org/software/make/) / [🔗](https://github.com/mirror/make)
-- [Nextra - millionjs.org](https://millionjs.org/)
+- [Make](https://www.gnu.org/software/make/) / <a href="https://github.com/mirror/make"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — GNU Project - Free Software Foundation
+- [Nextra](https://millionjs.org/) — millionjs.org
 - [Nx.dev](https://nx.dev/)
-- [Rerun — Visualize everything fast](https://www.rerun.io/)
-- [Slint | Declarative GUI for Rust, C++, JavaScript & Python](https://slint.dev/)
+- [Rerun](https://www.rerun.io/) — Visualize everything fast
+- [Slint](https://slint.dev/) — Declarative GUI for Rust, C++, JavaScript & Python
 - [Spring Initializr](https://start.spring.io/)
 - [Task](https://taskfile.dev/)
 
 ### Module Bundler
 - [Backbone.js](https://backbonejs.org/)
-- [esbuild - An extremely fast bundler for the web](https://esbuild.github.io/) / [🔗](https://github.com/evanw/esbuild)
-- [Farm Documentation | Farm](https://www.farmfe.org/)
-- [Rolldown | Rust bundler for JavaScript](https://rolldown.rs/)
-- [Rollup](https://rollupjs.org/) / [🔗](https://github.com/rollup/rollup)
+- [esbuild](https://esbuild.github.io/) / <a href="https://github.com/evanw/esbuild"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — An extremely fast bundler for the web
+- [Farm Documentation](https://www.farmfe.org/) — Farm
+- [Rolldown](https://rolldown.rs/) — Rust bundler for JavaScript
+- [Rollup](https://rollupjs.org/) / <a href="https://github.com/rollup/rollup"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [rollup.js](https://www.rollupjs.org/guide/en/)
 - [Turbo](https://turbo.build/)
 - [webpack.js.org](https://webpack.js.org/)
@@ -933,45 +933,45 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [blend-os/jade-gui · GitHub](https://github.com/blend-os/jade-gui)
 - [Calamares Installer](https://calamares.io/)
 - [Crystal Linux / 💽 Software / Jade GUI · GitLab](https://git.getcryst.al/crystal/software/jade-gui)
-- [Free Windows Installer - MSI Installer Tool - Advanced Installer](https://www.advancedinstaller.com/)
-- [Inno Setup](https://jrsoftware.org/isinfo.php) / [🔗](https://github.com/jrsoftware/issrc/)
-- [ML4W Dotfiles Installer](https://mylinuxforwork.github.io/dotfiles-installer/) / [🔗](https://github.com/mylinuxforwork/dotfiles-installer)
+- [Free Windows Installer](https://www.advancedinstaller.com/) — MSI Installer Tool - Advanced Installer
+- [Inno Setup](https://jrsoftware.org/isinfo.php) / <a href="https://github.com/jrsoftware/issrc/"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [ML4W Dotfiles Installer](https://mylinuxforwork.github.io/dotfiles-installer/) / <a href="https://github.com/mylinuxforwork/dotfiles-installer"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [rhinstaller/anaconda · GitHub](https://github.com/rhinstaller/anaconda)
 - [ubiquity in Launchpad](https://launchpad.net/ubiquity)
 
 ### Disassembler Framework
 - ⭐ **[Ghidra](https://ghidra-sre.org/)**
 - [capstone-engine/capstone · GitHub](https://github.com/capstone-engine/capstone)
-- [Hex Rays – State-of-the-art binary code analysis solutions](https://hex-rays.com/)
+- [Hex Rays](https://hex-rays.com/) — State-of-the-art binary code analysis solutions
 - [horsicq/Detect-It-Easy · GitHub](https://github.com/horsicq/Detect-It-Easy)
-- [korcankaraokcu/PINCE: Reverse engineering tool for linux games](https://github.com/korcankaraokcu/PINCE)
+- [korcankaraokcu/PINCE](https://github.com/korcankaraokcu/PINCE) — Reverse engineering tool for linux games
 - [mentebinaria/retoolkit · GitHub](https://github.com/mentebinaria/retoolkit)
 - [NTInfo](https://horsicq.github.io/)
 - [radare.org](https://www.radare.org/n/)
 - [x64dbg](https://x64dbg.com/)
 
 ### Testing Framework
-- ⭐ **[Playwright | Fast and reliable end-to-end testing for modern web apps](https://playwright.dev/)** / [🔗](https://github.com/microsoft/playwright)
+- ⭐ **[Playwright](https://playwright.dev/)** / <a href="https://github.com/microsoft/playwright"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Fast and reliable end-to-end testing for modern web apps
 - [airborne · GitHub](https://github.com/brooklynDev/airborne)
 - [Chapar](https://chapar.rest/)
-- [DogQ | The Easiest-To-Use Codeless Test Automation Tool](https://dogq.io/)
-- [e2e: The open source AI testing framework](https://tester.army/e2e) / [🔗](https://github.com/tester-army/e2e)
+- [DogQ](https://dogq.io/) — The Easiest-To-Use Codeless Test Automation Tool
+- [e2e](https://tester.army/e2e) / <a href="https://github.com/tester-army/e2e"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — The open source AI testing framework
 - [Grafana k6](https://k6.io/)
 - [Jest](https://jestjs.io/)
 - [microsoft/playwright · GitHub](https://github.com/microsoft/playwright)
-- [PHPUnit – The PHP Testing Framework](https://phpunit.de/)
+- [PHPUnit](https://phpunit.de/) — The PHP Testing Framework
 - [REST Assured](https://rest-assured.io/)
 - [TestGrid TestOS](https://www.testgrid.io/)
-- [Vitest](https://vitest.dev/) / [🔗](https://github.com/vitest-dev/vitest)
+- [Vitest](https://vitest.dev/) / <a href="https://github.com/vitest-dev/vitest"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 
 ### Presentation Layer Framework
 - [Avalonia UI](https://avaloniaui.net/)
 - [microsoft/microsoft-ui-xaml · GitHub](https://github.com/microsoft/microsoft-ui-xaml)
-- [Qt Framework – Build Fast, Scalable Cross-Platform Software](https://www.qt.io/development/qt-framework)
-- [Uno Platform: Build Cross-Platform .NET Apps Fast with AI Visual & Designer](https://platform.uno/)
+- [Qt Framework](https://www.qt.io/development/qt-framework) — Build Fast, Scalable Cross-Platform Software
+- [Uno Platform](https://platform.uno/) — Build Cross-Platform .NET Apps Fast with AI Visual & Designer
 
 ## Extension
-- [Dropbox - App Center](https://www.dropbox.com/apps)
+- [Dropbox](https://www.dropbox.com/apps) — App Center
 - [Firebase Extensions Hub](https://extensions.dev/)
 
 ### Wikipedia Extension
@@ -987,16 +987,16 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [Toolforge Pageviews Analysis](https://pageviews.toolforge.org/?agent=user&pages=Cat%7CDog&platform=all-access&project=en.wikipedia.org&range=latest-20&redirects=0)
 - [Toolforge Reasonator](https://reasonator.toolforge.org/)
 - [Toolforge Scholia](https://scholia.toolforge.org/)
-- [Toolforge Sd Search - Wiki Commons](https://hay.toolforge.org/sdsearch)
+- [Toolforge Sd Search](https://hay.toolforge.org/sdsearch) — Wiki Commons
 - [Wiki.com](https://wiki.com/)
 - [WikiBlame](https://www.ramselehof.de/wikipedia/wikiblame.php)
 - [WikiLinks](https://wikilinks.net/home)
-- [Wikimedia - Gerrit Code Review](https://gerrit.wikimedia.org/r/q/status:open+-is:wip)
+- [Wikimedia](https://gerrit.wikimedia.org/r/q/status:open+-is:wip) — Gerrit Code Review
 - [Wikimedia Downloads](https://dumps.wikimedia.org/backup-index.html)
 - [Wikipedia Trends](https://www.wikishark.com/)
 - [Wikipedia zim torrent links](https://gist.github.com/maxogden/70674db0b5b181b8eeb1d3f9b638ab2a)
 - [WikiTok](https://www.wikitok.io/)
-- [Xefer - Wikipedia Radial Graph](https://www.xefer.com/wikipedia)
+- [Xefer](https://www.xefer.com/wikipedia) — Wikipedia Radial Graph
 - [XOWA](http://xowa.org/)
 - [XTools](https://xtools.wmflabs.org/)
 
@@ -1015,44 +1015,44 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [ZXC Wiki](https://de.zxc.wiki/wiki/Main_Page)
 
 #### Kiwix
-- ⭐ **[Kiwix - lets you acces free knowledge](https://kiwix.org/en/)**
-- ⭐ **[Kiwix - Zimit](https://youzim.it/)**
+- ⭐ **[Kiwix](https://kiwix.org/en/)** — lets you acces free knowledge
+- ⭐ **[Kiwix](https://youzim.it/)** — Zimit
 
 ### Browser Extension
 - ⭐ **[Tampermonkey](https://www.tampermonkey.net/)**
-- [AI Energy Tracker - Chrome Web Store](https://chromewebstore.google.com/detail/ai-energy-tracker/hhilnlhaojghiniihhppiecjkjphpnlo)
-- [Andrews54757/FastStream: Stream videos without buffering in the browser](https://github.com/Andrews54757/FastStream/)
+- [AI Energy Tracker](https://chromewebstore.google.com/detail/ai-energy-tracker/hhilnlhaojghiniihhppiecjkjphpnlo) — Chrome Web Store
+- [Andrews54757/FastStream](https://github.com/Andrews54757/FastStream/) — Stream videos without buffering in the browser
 - [animeshkundu/youtube-audio · GitHub](https://github.com/animeshkundu/youtube-audio)
 - [Augmented Steam](https://augmentedsteam.com/)
-- [Auto-Duolingo - Greasy Fork](https://greasyfork.org/en/scripts/487867-auto-duolingo)
-- [az0/linkgopher: Firefox/Google Chrome add-on: Extracts all links from web page, sorts them, removes duplicates, and displays them in a new tab for inspection or copy and paste into other systems.](https://github.com/az0/linkgopher/)
+- [Auto-Duolingo](https://greasyfork.org/en/scripts/487867-auto-duolingo) — Greasy Fork
+- [az0/linkgopher](https://github.com/az0/linkgopher/) — Firefox/Google Chrome add-on: Extracts all links from web page, sorts them, removes duplicates, and displays them in a new tab for inspection or copy and paste into other systems.
 - [BetterTTV](https://betterttv.com/)
 - [BionicReading](https://bionic-reading.com/)
-- [Bitwarden - Firefox extension](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/)
+- [Bitwarden](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/) — Firefox extension
 - [Blackbox.io](https://www.useblackbox.io/landingPage)
-- [Cookie-Editor - A safe cookie editor](https://cookie-editor.com/)
+- [Cookie-Editor](https://cookie-editor.com/) — A safe cookie editor
 - [Country Flags & IP WHOIS](https://add0n.com/country-flags.html)
 - [deathau/markdownload · GitHub](https://github.com/deathau/markdownload)
 - [dessant/clear-browsing-data · GitHub](https://github.com/dessant/clear-browsing-data)
-- [Docs to Markdown - Gsuite](https://gsuite.google.com/marketplace/app/docs_to_markdown/700168918607)
+- [Docs to Markdown](https://gsuite.google.com/marketplace/app/docs_to_markdown/700168918607) — Gsuite
 - [Enhancer for YouTube](https://www.mrfdev.com/enhancer-for-youtube)
 - [EveryCircuit](https://everycircuit.com/)
 - [filips123/PWAsForFirefox](https://github.com/filips123/PWAsForFirefox)
-- [FireShot - Full page Screen Capture](https://getfireshot.com/)
+- [FireShot](https://getfireshot.com/) — Full page Screen Capture
 - [Flagfox](https://flagfox.wordpress.com/)
 - [Fontanello](https://fontanello.app/)
 - [Geetest](https://www.geetest.com/en/)
 - [Gesturefy · GitHub](https://github.com/Robbendebiene/Gesturefy)
 - [Greasespot](https://www.greasespot.net/)
 - [Grepper](https://www.codegrepper.com/)
-- [Hoverify - All-in-one browser extension for web developers](https://tryhoverify.com/)
+- [Hoverify](https://tryhoverify.com/) — All-in-one browser extension for web developers
 - [Hypothesis](https://web.hypothes.is/)
 - [InsertLearning](https://insertlearning.com/)
 - [isomorphic-git](https://isomorphic-git.org/)
 - [LocalCDN](https://www.localcdn.org/)
-- [Loom – Screen Recorder & Screen Capture](https://chromewebstore.google.com/detail/loom-%E2%80%93-screen-recorder-sc/liecbddmkiiihnedobmlmillhodjkdmb)
+- [Loom](https://chromewebstore.google.com/detail/loom-%E2%80%93-screen-recorder-sc/liecbddmkiiihnedobmlmillhodjkdmb) — Screen Recorder & Screen Capture
 - [Mask Network](https://mask.io/)
-- [Mate – translator app](https://gikken.co/mate-translate/)
+- [Mate](https://gikken.co/mate-translate/) — translator app
 - [Measure-it extension · GitHub](https://github.com/tsl143/measure-it)
 - [MetaMask/metamask-extension · GitHub](https://github.com/MetaMask/metamask-extension)
 - [Metastream](https://getmetastream.com/)
@@ -1060,29 +1060,29 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [Mika-/torrent-control · GitHub](https://github.com/Mika-/torrent-control)
 - [MindHero](https://coinect.net/)
 - [multi-account-containers · GitHub](https://github.com/mozilla/multi-account-containers)
-- [Obsidian Web Clipper – Firefox](https://addons.mozilla.org/en-US/firefox/addon/web-clipper-obsidian/)
+- [Obsidian Web Clipper](https://addons.mozilla.org/en-US/firefox/addon/web-clipper-obsidian/) — Firefox
 - [OneTab](https://www.one-tab.com/)
-- [openstyles/stylus: Stylus - Userstyles Manager](https://github.com/openstyles/stylus)
+- [openstyles/stylus](https://github.com/openstyles/stylus) — Stylus - Userstyles Manager
 - [OpenUserJS](https://openuserjs.org/)
-- [polywock/globalSpeed: Web extension to set a default speed for video and audio](https://github.com/polywock/globalSpeed)
+- [polywock/globalSpeed](https://github.com/polywock/globalSpeed) — Web extension to set a default speed for video and audio
 - [Postlight Reader](https://reader.postlight.com/)
-- [Quick Javascript Switcher - Chrome web developer](https://chromewebstore.google.com/detail/geddoclleiomckbhadiaipdggiiccfje)
-- [React Developer Tools – Firefox](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/)
+- [Quick Javascript Switcher](https://chromewebstore.google.com/detail/geddoclleiomckbhadiaipdggiiccfje) — Chrome web developer
+- [React Developer Tools](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/) — Firefox
 - [Reading-list](https://github.com/alexpdraper/reading-list)
 - [Reddit Enhancement Suite](https://redditenhancementsuite.com/)
-- [Screen recorder – Firefox](https://addons.mozilla.org/en-US/firefox/addon/screen-capture/)
-- [Simple Tab Groups – Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-tab-groups/)
-- [Snipo.io - Take video notes to Notion](https://snipo.io/)
+- [Screen recorder](https://addons.mozilla.org/en-US/firefox/addon/screen-capture/) — Firefox
+- [Simple Tab Groups](https://addons.mozilla.org/en-US/firefox/addon/simple-tab-groups/) — Firefox
+- [Snipo.io](https://snipo.io/) — Take video notes to Notion
 - [socialtribexyz/Nectar-GPT · GitHub](https://github.com/socialtribexyz/Nectar-GPT)
 - [Song-identifier · GitLab](https://gitlab.com/losnappas/Song-identifier)
 - [Stylebot](https://stylebot.dev/)
-- [summarize](https://summarize.sh/) / [🔗](https://github.com/steipete/summarize)
+- [summarize](https://summarize.sh/) / <a href="https://github.com/steipete/summarize"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [sussy-code/browser-ext · GitHub](https://github.com/sussy-code/browser-ext)
 - [tabExtend](https://www.tabextend.com/)
-- [Tridactyl - a vim-like Firefox](https://tridactyl.xyz/)
+- [Tridactyl](https://tridactyl.xyz/) — a vim-like Firefox
 - [TubeBuddy](https://www.tubebuddy.com/)
 - [User Agent Switcher and Manager](https://webextension.org/listing/useragent-switcher.html)
-- [VideoSpeedup - Watch videos at 3x speed and faster](https://www.videospeedup.com/)
+- [VideoSpeedup](https://www.videospeedup.com/) — Watch videos at 3x speed and faster
 - [Vim Vixen](https://ueokande.github.io/vim-vixen/)
 - [Violentmonkey](https://violentmonkey.github.io/)
 - [Watch-on-Odysee](https://github.com/kodxana/Watch-on-Odysee)
@@ -1096,66 +1096,66 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 #### Grammar Extension
 - ⭐ **[Simple Translate](https://simple-translate.sienori.com/)**
 - [DeepL Chrome Extension](https://www.deepl.com/en/chrome-extension)
-- [Firefox Translations – Firefox](https://addons.mozilla.org/en-US/firefox/addon/firefox-translations/)
+- [Firefox Translations](https://addons.mozilla.org/en-US/firefox/addon/firefox-translations/) — Firefox
 - [Firefox-translations · GitHub](https://github.com/mozilla/firefox-translations)
 - [Ginger Software](https://www.gingersoftware.com/)
-- [Google Dictionary - Chrome web store](https://chrome.google.com/webstore/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja?hl=en)
+- [Google Dictionary](https://chrome.google.com/webstore/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja?hl=en) — Chrome web store
 - [Grammalecte](https://grammalecte.net/)
 - [Grammarly](https://www.grammarly.com/)
 - [Grammit](https://www.grammit.ai/)
 - [Hemingway Editor](http://www.hemingwayapp.com/)
 - [HyperWrite](https://hyperwriteai.com/)
-- [ImTranslator | We remove language barriers](https://about.imtranslator.net/)
+- [ImTranslator](https://about.imtranslator.net/) — We remove language barriers
 - [itsecurityco/to-google-translate · GitHub](https://github.com/itsecurityco/to-google-translate)
 - [Language Reactor](https://www.languagereactor.com/)
-- [LanguageTool - Free AI Grammar Checker](https://languagetool.org/)
-- [Linguix | Writing Assistant](https://linguix.com/)
+- [LanguageTool](https://languagetool.org/) — Free AI Grammar Checker
+- [Linguix](https://linguix.com/) — Writing Assistant
 - [meetDeveloper/Dictionary-Anywhere · GitHub](https://github.com/meetDeveloper/Dictionary-Anywhere)
-- [ProWritingAid - Great writing made easy](https://prowritingaid.com/)
+- [ProWritingAid](https://prowritingaid.com/) — Great writing made easy
 - [sienori/simple-translate · GitHub](https://github.com/sienori/simple-translate)
-- [Toucan - Learn language](https://jointoucan.com/)
+- [Toucan](https://jointoucan.com/) — Learn language
 - [xpmn/firefox-to-deepl · GitHub](https://github.com/xpmn/firefox-to-deepl/)
 
 #### Productivity Extension
-- [Cat Gatekeeper - Chrome Web Store](https://chromewebstore.google.com/detail/cat-gatekeeper/elbikiflgfhjdjmficnigpeegjbhdidh)
-- [ChatGPT Bulk Delete – Firefox](https://addons.mozilla.org/en-US/firefox/addon/chatgpt-bulk-delete/?utm_source=chatgpt.com)
+- [Cat Gatekeeper](https://chromewebstore.google.com/detail/cat-gatekeeper/elbikiflgfhjdjmficnigpeegjbhdidh) — Chrome Web Store
+- [ChatGPT Bulk Delete](https://addons.mozilla.org/en-US/firefox/addon/chatgpt-bulk-delete/?utm_source=chatgpt.com) — Firefox
 - [HumbleNewTabPage · GitHub](https://github.com/ibillingsley/HumbleNewTabPage)
-- [Improved Potato - Chrome web store](https://chrome.google.com/webstore/detail/improved-potato/kjnippnbinaiaophckfmlbicclieefpf)
+- [Improved Potato](https://chrome.google.com/webstore/detail/improved-potato/kjnippnbinaiaophckfmlbicclieefpf) — Chrome web store
 - [inbasic/bookmarks-manager · GitHub](https://github.com/inbasic/bookmarks-manager/)
-- [kepano/tidy: A simple bookmarklet to tidy up articles for easy reading](https://github.com/kepano/tidy)
-- [MarkMind - AI Bookmark Organizer for Chrome](https://www.markmind.xyz/) / [🔗](https://github.com/migsilva89/MarkMind)
+- [kepano/tidy](https://github.com/kepano/tidy) — A simple bookmarklet to tidy up articles for easy reading
+- [MarkMind](https://www.markmind.xyz/) / <a href="https://github.com/migsilva89/MarkMind"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — AI Bookmark Organizer for Chrome
 - [Marqly](https://marqly.com/)
 - [MethodGrab/firefox-custom-new-tab-page · GitHub](https://github.com/methodgrab/firefox-custom-new-tab-page)
 - [Momentum Dash](https://momentumdash.com/)
-- [NelliTab - New tab page with bookmarks](https://nellitab.io/)
-- [New Tab Tools – Firefox](https://addons.mozilla.org/en-US/firefox/addon/new-tab-tools/)
-- [Panda 5 - Chrome Web Store](https://chrome.google.com/webstore/detail/panda-5-your-favorite-web/haafibkemckmbknhfkiiniobjpgkebko)
+- [NelliTab](https://nellitab.io/) — New tab page with bookmarks
+- [New Tab Tools](https://addons.mozilla.org/en-US/firefox/addon/new-tab-tools/) — Firefox
+- [Panda 5](https://chrome.google.com/webstore/detail/panda-5-your-favorite-web/haafibkemckmbknhfkiiniobjpgkebko) — Chrome Web Store
 - [ProductivityTab](https://productivitytab.co/)
-- [qcrao/bulk-delete-chatGPT: bulk delete chatGPT conversations](https://github.com/qcrao/bulk-delete-chatGPT)
+- [qcrao/bulk-delete-chatGPT](https://github.com/qcrao/bulk-delete-chatGPT) — bulk delete chatGPT conversations
 - [Qlearly Extension V2](https://qlearly.com/)
-- [Raindrop.io - Browser Extension](https://help.raindrop.io/browser-extension/)
+- [Raindrop.io](https://help.raindrop.io/browser-extension/) — Browser Extension
 - [Redeviation Extensions](https://extensions.redeviation.com/)
-- [Responsive Viewer – Responsive Design Testing Tool](https://responsiveviewer.org/)
+- [Responsive Viewer](https://responsiveviewer.org/) — Responsive Design Testing Tool
 - [rharel/webext-private-bookmarks · GitHub](https://github.com/rharel/webext-private-bookmarks)
-- [Sidebery – Firefox](https://addons.mozilla.org/en-US/firefox/addon/sidebery/) / [🔗](https://github.com/mbnuqw/sidebery)
-- [SuperSorter - Chrome Web Store](https://chrome.google.com/webstore/detail/supersorter/hjebfgojnlefhdgmomncgjglmdckngij?hl=es)
+- [Sidebery](https://addons.mozilla.org/en-US/firefox/addon/sidebery/) / <a href="https://github.com/mbnuqw/sidebery"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Firefox
+- [SuperSorter](https://chrome.google.com/webstore/detail/supersorter/hjebfgojnlefhdgmomncgjglmdckngij?hl=es) — Chrome Web Store
 - [Tab Session Manager](https://tab-session-manager.sienori.com/)
 - [Tab Stash](https://josh-berry.github.io/tab-stash/)
 - [Tabliss.io](https://tabliss.io/)
 - [timothypholmes/startup-page · GitHub](https://github.com/timothypholmes/startup-page)
 - [Toby](https://www.gettoby.com/)
-- [ushnisha/tranquility-reader-webextensions: Tranquility Reader rewritten using Webextensions API](https://github.com/ushnisha/tranquility-reader-webextensions)
-- [Web Clipper | TagSpaces](https://www.tagspaces.org/products/webclipper/)
+- [ushnisha/tranquility-reader-webextensions](https://github.com/ushnisha/tranquility-reader-webextensions) — Tranquility Reader rewritten using Webextensions API
+- [Web Clipper](https://www.tagspaces.org/products/webclipper/) — TagSpaces
 
 #### Dark Mode Extension
-- ⭐ **[Dark Reader](https://darkreader.org/)** / [🔗](https://github.com/darkreader/darkreader)
+- ⭐ **[Dark Reader](https://darkreader.org/)** / <a href="https://github.com/darkreader/darkreader"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [Dark Mode](https://mybrowseraddon.com/dark-mode.html)
 - [Midnight Lizard](https://midnight-lizard.org/home)
 - [Night Eye](https://nighteye.app/)
 
 #### Block Web
 - [1Blocker](https://1blocker.com/)
-- [1Focus – Block Distracting Websites and Apps](https://onefocusapp.com/)
+- [1Focus](https://onefocusapp.com/) — Block Distracting Websites and Apps
 - [Block Site](https://blocksite.co/)
 - [LeechBlock](https://www.proginosko.com/leechblock/)
 - [Plucky filter](https://www.pluckyfilter.com/)
@@ -1168,12 +1168,12 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [cavi-au/Consent-O-Matic · GitHub](https://github.com/cavi-au/Consent-O-Matic)
 - [Cookie Consent](https://www.cookieconsent.com/)
 - [EditThisCookie](https://www.editthiscookie.com/)
-- [JobcenterTycoon/cookie-auto-decline: Die Erweiterung akzeptiert Cookie Banner automatisch mit minimaler Zustimmung.](https://github.com/JobcenterTycoon/cookie-auto-decline)
-- [joue-quroi/cookie-editor: a browser extension to display and modify page-related cookies](https://github.com/joue-quroi/cookie-editor/)
-- [kairi003/Get-cookies.txt-LOCALLY: Get cookies.txt, NEVER send information outside.](https://github.com/kairi003/Get-cookies.txt-Locally)
-- [mickaphd/SimpleCookie: A minimalist yet efficient cookie manager for Firefox](https://github.com/mickaphd/SimpleCookie)
-- [mitch292/reject-cookies: A chrome extension that with auto - reject cookie banners and pop ups](https://github.com/mitch292/reject-cookies)
-- [mq408/OpenCookie: Trustworthy, local-only cookie editor for Manifest V3. View, edit, import/export cookies. Zero data upload.](https://github.com/mq408/OpenCookie)
+- [JobcenterTycoon/cookie-auto-decline](https://github.com/JobcenterTycoon/cookie-auto-decline) — Die Erweiterung akzeptiert Cookie Banner automatisch mit minimaler Zustimmung.
+- [joue-quroi/cookie-editor](https://github.com/joue-quroi/cookie-editor/) — a browser extension to display and modify page-related cookies
+- [kairi003/Get-cookies.txt-LOCALLY](https://github.com/kairi003/Get-cookies.txt-Locally) — Get cookies.txt, NEVER send information outside.
+- [mickaphd/SimpleCookie](https://github.com/mickaphd/SimpleCookie) — A minimalist yet efficient cookie manager for Firefox
+- [mitch292/reject-cookies](https://github.com/mitch292/reject-cookies) — A chrome extension that with auto - reject cookie banners and pop ups
+- [mq408/OpenCookie](https://github.com/mq408/OpenCookie) — Trustworthy, local-only cookie editor for Manifest V3. View, edit, import/export cookies. Zero data upload.
 - [OhMyGuus/I-Still-Dont-Care-About-Cookies · GitHub](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies)
 - [Vanilla Cookie Manager · GitHub](https://github.com/laktak/vanilla-chrome)
 
@@ -1182,7 +1182,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - ⭐ **[SimonBrazell/privacy-redirect · GitHub](https://github.com/SimonBrazell/privacy-redirect)**
 - ⭐ **[εxodus](https://reports.exodus-privacy.eu.org/en)**
 - [aloth/trackless-link · GitHub](https://github.com/aloth/trackless-links/)
-- [arkenfox/user.js: Firefox privacy, security and anti-tracking · GitHub](https://github.com/arkenfox/user.js)
+- [arkenfox/user.js](https://github.com/arkenfox/user.js) — Firefox privacy, security and anti-tracking · GitHub
 - [Canvas Blocker (Fingerprint Protect)](https://add0n.com/canvas-fingerprint-blocker.html)
 - [Chameleon](https://sereneblue.github.io/chameleon/)
 - [ClearURLs](https://gitlab.com/KevinRoebert/ClearUrls)
@@ -1194,17 +1194,17 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [FastForward](https://fastforward.team/)
 - [Forget-me-not · GitHub](https://github.com/Lusito/forget-me-not/)
 - [HTTPS Everywhere](https://www.eff.org/https-everywhere)
-- [Just the Browser - Just the Browser](https://justthebrowser.com/) / [🔗](https://github.com/corbindavenport/just-the-browser)
-- [KeePassXC-Browser – Firefox](https://addons.mozilla.org/en-US/firefox/addon/keepassxc-browser/)
+- [Just the Browser](https://justthebrowser.com/) / <a href="https://github.com/corbindavenport/just-the-browser"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Just the Browser
+- [KeePassXC-Browser](https://addons.mozilla.org/en-US/firefox/addon/keepassxc-browser/) — Firefox
 - [kkapsner/CanvasBlocker · GitHub](https://github.com/kkapsner/CanvasBlocker/)
-- [lz233/Tarnhelm: The magic to clean sharing links up](https://github.com/lz233/Tarnhelm)
+- [lz233/Tarnhelm](https://github.com/lz233/Tarnhelm) — The magic to clean sharing links up
 - [Mailvelope](https://mailvelope.com/en)
-- [OpenHeader — ad-free HTTP header editor](https://site-yw1.pages.dev/) / [🔗](https://github.com/smartfabai-commits/openheader)
-- [PasteGuard — AI gets the context. Not your secrets.](https://pasteguard.com/) / [🔗](https://github.com/sgasser/pasteguard)
-- [Privacy Checkup: How well do you protect your privacy?](https://privacy-checkup.info/en)
+- [OpenHeader](https://site-yw1.pages.dev/) / <a href="https://github.com/smartfabai-commits/openheader"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — ad-free HTTP header editor
+- [PasteGuard](https://pasteguard.com/) / <a href="https://github.com/sgasser/pasteguard"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — AI gets the context. Not your secrets.
+- [Privacy Checkup](https://privacy-checkup.info/en) — How well do you protect your privacy?
 - [Privacy Test Pages](https://www.first-party.site/)
 - [sblask/webextension-skip-redirect · GitHub](https://github.com/sblask/webextension-skip-redirect)
-- [superagent – Automatic cookie consent](https://super-agent.com/)
+- [superagent](https://super-agent.com/) — Automatic cookie consent
 - [Temp-mail](https://temp-mail.org/)
 - [Terms of Service; Didn't Read](https://tosdr.org/)
 - [TLDRLegal](https://tldrlegal.com/)
@@ -1214,16 +1214,16 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [Web Of Trust](https://www.mywot.com/)
 
 #### Browser Theme Extension
-- [Black blue shards - Chrome web store](https://chrome.google.com/webstore/detail/black-blue-shards/hgoflmajhinnohnhkfeggflmmppiilck)
-- [Blue/Green Cubes - Chrome web store](https://chrome.google.com/webstore/detail/bluegreen-cubes/iipbjjaibkibpabddphfcgbngfhhfkml)
-- [Crown - Chrome web store](https://chrome.google.com/webstore/detail/crown/dakhbniabeifgdfknehlljodadmfcmgf)
-- [Galaxy-View - Chrome web store](https://chrome.google.com/webstore/detail/galaxy-view/dcbeddldohkakodfncjnkkjfojggbahp)
-- [Material Dark - Chrome web store](https://chrome.google.com/webstore/detail/material-dark/npadhaijchjemiifipabpmeebeelbmpd)
-- [Material Simple Dark Grey - Chrome web store](https://chrome.google.com/webstore/detail/material-simple-dark-grey/ookepigabmicjpgfnmncjiplegcacdbm)
-- [Morpheon Dark - Chrome web store](https://chrome.google.com/webstore/detail/morpheon-dark/mafbdhjdkjnoafhfelkjpchpaepjknad)
+- [Black blue shards](https://chrome.google.com/webstore/detail/black-blue-shards/hgoflmajhinnohnhkfeggflmmppiilck) — Chrome web store
+- [Blue/Green Cubes](https://chrome.google.com/webstore/detail/bluegreen-cubes/iipbjjaibkibpabddphfcgbngfhhfkml) — Chrome web store
+- [Crown](https://chrome.google.com/webstore/detail/crown/dakhbniabeifgdfknehlljodadmfcmgf) — Chrome web store
+- [Galaxy-View](https://chrome.google.com/webstore/detail/galaxy-view/dcbeddldohkakodfncjnkkjfojggbahp) — Chrome web store
+- [Material Dark](https://chrome.google.com/webstore/detail/material-dark/npadhaijchjemiifipabpmeebeelbmpd) — Chrome web store
+- [Material Simple Dark Grey](https://chrome.google.com/webstore/detail/material-simple-dark-grey/ookepigabmicjpgfnmncjiplegcacdbm) — Chrome web store
+- [Morpheon Dark](https://chrome.google.com/webstore/detail/morpheon-dark/mafbdhjdkjnoafhfelkjpchpaepjknad) — Chrome web store
 - [skhzhang/time-based-themes · GitHub](https://github.com/skhzhang/time-based-themes/)
-- [Slinky Elegant - Chrome web store](https://chrome.google.com/webstore/detail/slinky-elegant/bmanlajnpdncmhfkiccmbgeocgbncfln)
-- [Universe - Chrome web store](https://chrome.google.com/webstore/detail/universe/oecmlnmneeeeiccpcohlffnipjhngmdk)
+- [Slinky Elegant](https://chrome.google.com/webstore/detail/slinky-elegant/bmanlajnpdncmhfkiccmbgeocgbncfln) — Chrome web store
+- [Universe](https://chrome.google.com/webstore/detail/universe/oecmlnmneeeeiccpcohlffnipjhngmdk) — Chrome web store
 
 #### Coupon Extension
 - [CouponBirds](https://www.couponbirds.com/)
@@ -1231,8 +1231,8 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 
 #### Time Tracker Extension
 - [Focus To-Do](https://chrome.google.com/webstore/detail/focus-to-do-pomodoro-time/ngceodoilcgpmkijopinlkmohnfifjfb?hl=en)
-- [StayFocusd - Block Distracting Websites](https://www.stayfocusd.com/)
-- [Time Tracker](https://www.wfhg.cc/en/) / [🔗](https://github.com/sheepzh/time-tracker-4-browser)
+- [StayFocusd](https://www.stayfocusd.com/) — Block Distracting Websites
+- [Time Tracker](https://www.wfhg.cc/en/) / <a href="https://github.com/sheepzh/time-tracker-4-browser"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [Webtime Tracker](https://chrome.google.com/webstore/detail/webtime-tracker/ppaojnbmmaigjmlpjaldnkgnklhicppk)
 
 #### YouTube Extension
@@ -1241,51 +1241,51 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [codebicycle/videospeed · GitHub](https://github.com/codebicycle/videospeed)
 - [Drag and Drop Playlist Creator](https://playlists.at/)
 - [lawrencehook/remove-youtube-suggestions · GitHub](https://github.com/lawrencehook/remove-youtube-suggestions)
-- [LockedIn - Stay Focused on YouTube | Block Shorts & Distractions](https://kartikhalkunde.github.io/LockedIn-YT/)
+- [LockedIn](https://kartikhalkunde.github.io/LockedIn-YT/) — Stay Focused on YouTube | Block Shorts & Distractions
 - [nizioleque/youtube-custom-speed · GitHub](https://github.com/nizioleque/youtube-custom-speed?tab=readme-ov-file)
 - [PocketTube](https://yousub.info/)
-- [PocketTube - YouTube Subscription Manager](https://pockettube.io/)
-- [Project VORAPIS - Get Old YouTube Layout Back](https://vorapis.pages.dev/#/)
-- [Sv443/BetterYTM: Enhancements for YouTube Music and YouTube](https://github.com/Sv443/BetterYTM)
+- [PocketTube](https://pockettube.io/) — YouTube Subscription Manager
+- [Project VORAPIS](https://vorapis.pages.dev/#/) — Get Old YouTube Layout Back
+- [Sv443/BetterYTM](https://github.com/Sv443/BetterYTM) — Enhancements for YouTube Music and YouTube
 - [Toxblh/youtube-speed-control · GitHub](https://github.com/Toxblh/youtube-speed-control)
-- [Unhook - Remove YouTube Recommended Videos and More](https://unhook.app/)
+- [Unhook](https://unhook.app/) — Remove YouTube Recommended Videos and More
 - [vantezzen/skip-silence · GitHub](https://github.com/vantezzen/skip-silence)
 - [WofWca/jumpcutter · GitHub](https://github.com/WofWca/jumpcutter)
 - [YouTube-Enhancer/extension · GitHub](https://github.com/YouTube-Enhancer/extension)
 - [Youtube-shorts-block · GitHub](https://github.com/doma-itachi/Youtube-shorts-block)
 
 #### ByPass Extension
-- ⭐ **[12ft – Hop any paywall](https://12ft.io/)**
-- [1ft - One Step to Summarize](https://1ft.io/)
+- ⭐ **[12ft](https://12ft.io/)** — Hop any paywall
+- [1ft](https://1ft.io/) — One Step to Summarize
 - [bpc-clone/bypass-paywalls-chrome-clean · GitHub](https://github.com/bpc-clone/bypass-paywalls-chrome-clean)
 - [Bypass Paywalls Firefox Clean · GitLab](https://gitlab.com/magnolia1234/bypass-paywalls-firefox-clean)
 - [bypass-paywalls-chrome · GitHub](https://github.com/iamadamdev/bypass-paywalls-chrome)
 - [everywall/ladder · GitHub](https://github.com/everywall/ladder)
 - [kubero-dev/ladder · GitHub](https://github.com/kubero-dev/ladder)
-- [Medium Unlocker - Break Free from Paywalls](https://medium-unlocker.inulute.com/) / [🔗](https://github.com/inulute/medium-unlocker)
-- [Remove Paywalls — Read full articles behind a paywall, for free](https://removepaywalls.com/)
-- [RemovePaywall | Free online paywall remover](https://www.removepaywall.com/)
+- [Medium Unlocker](https://medium-unlocker.inulute.com/) / <a href="https://github.com/inulute/medium-unlocker"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Break Free from Paywalls
+- [Remove Paywalls](https://removepaywalls.com/) — Read full articles behind a paywall, for free
+- [RemovePaywall](https://www.removepaywall.com/) — Free online paywall remover
 
 #### Hack Extension
-- [HacKontext – Firefox](https://addons.mozilla.org/en-US/firefox/addon/hackontext/)
-- [HackTools – Firefox](https://addons.mozilla.org/en-US/firefox/addon/hacktools/)
-- [OWASP Penetration Testing Kit – Firefox](https://addons.mozilla.org/en-US/firefox/addon/penetration-testing-kit/)
+- [HacKontext](https://addons.mozilla.org/en-US/firefox/addon/hackontext/) — Firefox
+- [HackTools](https://addons.mozilla.org/en-US/firefox/addon/hacktools/) — Firefox
+- [OWASP Penetration Testing Kit](https://addons.mozilla.org/en-US/firefox/addon/penetration-testing-kit/) — Firefox
 
 #### AI Chat Extension
-- [A.I. Archives | Save, Share, and Cite Generative A.I.](https://aiarchives.org/)
-- [adamlui/chatgpt-infinity: ∞ Generate endless answers from all-knowing ChatGPT (on any topic!)](https://github.com/adamlui/chatgpt-infinity)
-- [ChatGPT Exporter - Extract chat convos easily](https://chromewebstore.google.com/detail/chatgpt-exporter-extract/ilmdofdhpnhffldihboadndccenlnfll)
-- [Chatgpt Exporter · Greasy Fork](https://greasyfork.org/en/scripts/456055-chatgpt-exporter) / [🔗](https://github.com/pionxzh/chatgpt-exporter)
+- [A.I. Archives](https://aiarchives.org/) — Save, Share, and Cite Generative A.I.
+- [adamlui/chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity) — ∞ Generate endless answers from all-knowing ChatGPT (on any topic!)
+- [ChatGPT Exporter](https://chromewebstore.google.com/detail/chatgpt-exporter-extract/ilmdofdhpnhffldihboadndccenlnfll) — Extract chat convos easily
+- [Chatgpt Exporter · Greasy Fork](https://greasyfork.org/en/scripts/456055-chatgpt-exporter) / <a href="https://github.com/pionxzh/chatgpt-exporter"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [FancyGPT](https://fancygpt.com/)
-- [My Prompt - GreasyFork](https://greasyfork.org/en/scripts/549921-my-prompt)
-- [npiv/chatblade: A CLI Swiss Army Knife for ChatGPT](https://github.com/npiv/chatblade)
-- [xcanwin/KeepChatGPT: 这是一款提高ChatGPT的数据安全能力和效率的插件。并且免费共享大量创新功能，如：自动刷新、保持活跃、数据安全、取消审计、克隆对话、言无不尽、净化页面、展示大屏、拦截跟踪、日新月异、明察秋毫等。让我们的AI体验无比安全、顺畅、丝滑、高效、简洁。](https://github.com/xcanwin/KeepChatGPT)
+- [My Prompt](https://greasyfork.org/en/scripts/549921-my-prompt) — GreasyFork
+- [npiv/chatblade](https://github.com/npiv/chatblade) — A CLI Swiss Army Knife for ChatGPT
+- [xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) — 这是一款提高ChatGPT的数据安全能力和效率的插件。并且免费共享大量创新功能，如：自动刷新、保持活跃、数据安全、取消审计、克隆对话、言无不尽、净化页面、展示大屏、拦截跟踪、日新月异、明察秋毫等。让我们的AI体验无比安全、顺畅、丝滑、高效、简洁。
 
 #### View Extension
 - [bengaudry/split-tabs](https://github.com/bengaudry/split-tabs)
 - [jasonlong/isometric-contributions · GitHub](https://github.com/jasonlong/isometric-contributions)
-- [mozilla/side-view: An experiment with opening mobile views of pages in the sidebar](https://github.com/mozilla/side-view/)
-- [Multi Split View – Get this Extension for 🦊 Firefox (en-US)](https://addons.mozilla.org/en-US/firefox/addon/multi-split-view/?utm_source=chatgpt.com)
+- [mozilla/side-view](https://github.com/mozilla/side-view/) — An experiment with opening mobile views of pages in the sidebar
+- [Multi Split View](https://addons.mozilla.org/en-US/firefox/addon/multi-split-view/?utm_source=chatgpt.com) — Get this Extension for 🦊 Firefox (en-US)
 
 ### Twitter Extension
 - [All My Tweets](https://www.allmytweets.net/)
@@ -1309,14 +1309,14 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 ### CMS Extension
 
 #### WordPress Plugin
-- [Akismet: Spam protection](https://akismet.com/)
-- [Free Elementor Widgets & Addons | Premium Addons for Elementor](https://premiumaddons.com/)
+- [Akismet](https://akismet.com/) — Spam protection
+- [Free Elementor Widgets & Addons](https://premiumaddons.com/) — Premium Addons for Elementor
 - [GeneratePress](https://generatepress.com/)
-- [GenerateWP - User friendly tools for WordPress developers](https://generatewp.com/)
+- [GenerateWP](https://generatewp.com/) — User friendly tools for WordPress developers
 - [Gravatar](https://en.gravatar.com/)
 - [GTranslate](https://gtranslate.io/)
-- [Jetpack - WordPress Security, Backups, Speed, & Growth](https://jetpack.com/)
-- [Polylang – Making WordPress multilingual](https://polylang.pro/)
+- [Jetpack](https://jetpack.com/) — WordPress Security, Backups, Speed, & Growth
+- [Polylang](https://polylang.pro/) — Making WordPress multilingual
 - [QR Scanner Redirect](https://aigenseer.github.io/qr-scanner-redirect/)
 - [SiteOrigin](https://siteorigin.com/)
 - [Slider Revolution](https://www.sliderrevolution.com/)
@@ -1335,9 +1335,9 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - ⭐ **[There is a bot for that](https://thereisabotforthat.com/)**
 - [botfather.io](https://botfather.io/)
 - [BotoStore](https://botostore.com/)
-- [carliyoelbot | Sube tus vídeos al TikTok de Carliyo](https://www.carliyoelbot.com/)
+- [carliyoelbot](https://www.carliyoelbot.com/) — Sube tus vídeos al TikTok de Carliyo
 - [ChatBottle](https://chatbottle.co/)
-- [Hummingbot](https://hummingbot.org/) / [🔗](https://github.com/hummingbot/hummingbot)
+- [Hummingbot](https://hummingbot.org/) / <a href="https://github.com/hummingbot/hummingbot"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [Junction bot](https://docs.junction.space/)
 - [Kahoot Bot](https://kahootbot.org/)
 - [sci-bot](https://sci-bot.ru/)
@@ -1354,89 +1354,89 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [Midjourney Bot](https://discord.com/application-directory/936929561302675456)
 - [Pancake Discord Bot](https://pancake.gg/)
 - [Rythm](https://rythm.fm/)
-- [top.gg | Discord Bots](https://top.gg/)
+- [top.gg](https://top.gg/) — Discord Bots
 - [Xenon Bot](https://xenon.bot/)
 
 #### Telegram Bot
-- ⭐ **[YoutubeDL - Telegram Bot](https://t.me/YtbDownBot)**
-- [🎤︎ Shazam music finder - Telegram Bot](https://t.me/VoiceShazambot)
-- [AIO Downloader - Telegram Bot](https://t.me/its_aio_bot)
-- [Biblioteca Secreta - Telegram Bot](https://t.me/BibliotecaSecreta100Bot)
-- [Biblioteca Secreta \[9775\] - Telegram Bot](https://t.me/BibliotecaSecreta9775Bot)
-- [Bold - Telegram Bot](https://t.me/Bold)
-- [BotFather - Telegram Bot](https://t.me/botfather)
-- [ChatGPT - Telegram Bot](https://t.me/chatgpt_karfly_bot)
+- ⭐ **[YoutubeDL](https://t.me/YtbDownBot)** — Telegram Bot
+- [🎤︎ Shazam music finder](https://t.me/VoiceShazambot) — Telegram Bot
+- [AIO Downloader](https://t.me/its_aio_bot) — Telegram Bot
+- [Biblioteca Secreta](https://t.me/BibliotecaSecreta100Bot) — Telegram Bot
+- [Biblioteca Secreta \[9775\]](https://t.me/BibliotecaSecreta9775Bot) — Telegram Bot
+- [Bold](https://t.me/Bold) — Telegram Bot
+- [BotFather](https://t.me/botfather) — Telegram Bot
+- [ChatGPT](https://t.me/chatgpt_karfly_bot) — Telegram Bot
 - [ChatGPT on Telegram](https://chatgptontelegram.com/)
-- [Combot - Telegram Bot](https://t.me/combot)
+- [Combot](https://t.me/combot) — Telegram Bot
 - [Combot.org](https://combot.org/)
-- [deezload2bot - Telegram Bot](https://t.me/deezload2bot)
-- [Donate - Telegram Bot](https://t.me/donate)
-- [Downloader Instagram, TikTok, Pinterest - Telegram Bot](https://t.me/instagramersbot)
-- [Durger Kinggram - Telegram Bot](https://t.me/durgerkingbot)
-- [Feed Reader Bot - Telegram Bot](https://t.me/TheFeedReaderBot)
-- [File Converter - Telegram Bot](https://t.me/newfileconverterbot)
-- [File to bot - Telegram Bot](https://t.me/filetobot)
-- [Files To Link - Telegram Bot](https://t.me/filestolinkbot)
+- [deezload2bot](https://t.me/deezload2bot) — Telegram Bot
+- [Donate](https://t.me/donate) — Telegram Bot
+- [Downloader Instagram, TikTok, Pinterest](https://t.me/instagramersbot) — Telegram Bot
+- [Durger Kinggram](https://t.me/durgerkingbot) — Telegram Bot
+- [Feed Reader Bot](https://t.me/TheFeedReaderBot) — Telegram Bot
+- [File Converter](https://t.me/newfileconverterbot) — Telegram Bot
+- [File to bot](https://t.me/filetobot) — Telegram Bot
+- [Files To Link](https://t.me/filestolinkbot) — Telegram Bot
 - [Fragment](https://fragment.com/)
-- [GameBot - Telegram Bot](https://t.me/gamebot)
-- [Gamee - Telegram Bot](https://t.me/gamee)
-- [GenerateMe - Telegram bot](https://t.me/GenerateMeBot)
-- [Genesis Creator - Telegram Bot](https://t.me/genesiscreatorbot)
-- [GIF - Telegram Bot](https://t.me/gif)
-- [GitHubBot - Telegram Bot](https://t.me/githubbot)
-- [GmailBot - Telegram Bot](https://t.me/gmailbot)
-- [Group Help - Telegram Bot](https://t.me/GroupHelpBot)
-- [HangBot - Telegram bot](https://telegram.me/HangBot)
-- [Hide This Bot - Telegram Bot](https://t.me/hidethisbot)
-- [ImageBot - Telegram bot](https://telegram.me/imagebot)
-- [IMDB - Telegram Bot](https://t.me/imdb)
-- [Instagram Saver - Telegram Bot](https://t.me/instasavegrambot)
-- [InstaSave - Telegram Bot](https://t.me/Instasave_bot)
-- [Like - Telegram Bot](https://t.me/like)
+- [GameBot](https://t.me/gamebot) — Telegram Bot
+- [Gamee](https://t.me/gamee) — Telegram Bot
+- [GenerateMe](https://t.me/GenerateMeBot) — Telegram bot
+- [Genesis Creator](https://t.me/genesiscreatorbot) — Telegram Bot
+- [GIF](https://t.me/gif) — Telegram Bot
+- [GitHubBot](https://t.me/githubbot) — Telegram Bot
+- [GmailBot](https://t.me/gmailbot) — Telegram Bot
+- [Group Help](https://t.me/GroupHelpBot) — Telegram Bot
+- [HangBot](https://telegram.me/HangBot) — Telegram bot
+- [Hide This Bot](https://t.me/hidethisbot) — Telegram Bot
+- [ImageBot](https://telegram.me/imagebot) — Telegram bot
+- [IMDB](https://t.me/imdb) — Telegram Bot
+- [Instagram Saver](https://t.me/instasavegrambot) — Telegram Bot
+- [InstaSave](https://t.me/Instasave_bot) — Telegram Bot
+- [Like](https://t.me/like) — Telegram Bot
 - [MissRose](https://missrose.org/)
-- [Music - Telegram Bot](https://t.me/music)
-- [MusicsHunterbot - Telegram Bot](https://t.me/MusicsHunterbot)
-- [QR bot - Telegram Bot](https://t.me/QRCodeBot)
-- [Quiz Bot - Telegram Bot](https://t.me/QuizBot)
-- [Rose - Telegram Bot](https://t.me/MissRose_bot)
-- [RSS2TG - Telegram Bot](https://rss2tg.duck.consulting/)
-- [RSS2TG - Telegram Bot](https://t.me/rss2tg_bot)
-- [SaveOffBot - Telegram Bot](https://t.me/SaveOFFbot)
-- [Science Nexus Bot - Telgram Bot](https://t.me/science_nexus666_bot#)
-- [ShopBot - Telegram Bot](https://t.me/shopbot)
-- [Song🆔 - Telegram Bot](https://t.me/songidbot)
-- [Spotify ʙᴏᴛ - Telegram Bot](https://t.me/spotify_to_mp3_bot)
-- [Spotify Music Downloader - Telegram Bot](https://t.me/spotify_downloa_bot)
-- [SpotifyDownloader - Telegram Bot](https://t.me/SpotifyDownloaderBot)
+- [Music](https://t.me/music) — Telegram Bot
+- [MusicsHunterbot](https://t.me/MusicsHunterbot) — Telegram Bot
+- [QR bot](https://t.me/QRCodeBot) — Telegram Bot
+- [Quiz Bot](https://t.me/QuizBot) — Telegram Bot
+- [Rose](https://t.me/MissRose_bot) — Telegram Bot
+- [RSS2TG](https://rss2tg.duck.consulting/) — Telegram Bot
+- [RSS2TG](https://t.me/rss2tg_bot) — Telegram Bot
+- [SaveOffBot](https://t.me/SaveOFFbot) — Telegram Bot
+- [Science Nexus Bot](https://t.me/science_nexus666_bot#) — Telgram Bot
+- [ShopBot](https://t.me/shopbot) — Telegram Bot
+- [Song🆔](https://t.me/songidbot) — Telegram Bot
+- [Spotify ʙᴏᴛ](https://t.me/spotify_to_mp3_bot) — Telegram Bot
+- [Spotify Music Downloader](https://t.me/spotify_downloa_bot) — Telegram Bot
+- [SpotifyDownloader](https://t.me/SpotifyDownloaderBot) — Telegram Bot
 - [Stickers Bot](https://t.me/Stickers)
-- [TeleFeed - Telegram Bot](https://t.me/tg_feedbot)
+- [TeleFeed](https://t.me/tg_feedbot) — Telegram Bot
 - [Telegram API](https://core.telegram.org/)
 - [Telegram Channels](https://telegramchannels.me/)
-- [Telegram Contest - Developer Challenges](https://contest.com/)
-- [Telegraph - Telegram Bot](https://t.me/telegraph)
+- [Telegram Contest](https://contest.com/) — Developer Challenges
+- [Telegraph](https://t.me/telegraph) — Telegram Bot
 - [Telemetry.io channels](https://telemetr.io/uz/channels)
-- [TestStore - Telegram Bot](https://t.me/teststore)
+- [TestStore](https://t.me/teststore) — Telegram Bot
 - [Tg channels](https://en.tgchannels.org/)
 - [Tgstat channels](https://tgstat.com/)
-- [The Feed Reader Bot - Telegram Bot](https://thefeedreaderbot.com/)
-- [Tik Tok Downloader - Telegram Bot](https://t.me/downloader_tiktok_bot)
-- [TriviaBot - Telegram bot](https://telegram.me/triviabot)
-- [utubebot2 - Telegram Bot](https://t.me/utubebot2_bot)
-- [Verify Bot - Telegram Bot](https://t.me/VerifyBot)
-- [Vote - Telegram Bot](https://t.me/vote)
-- [Wiki - Telegram Bot](https://t.me/wiki)
-- [YouTube - Telegram Bot](https://t.me/youtube)
-- [YouTube Save Downloader - Telegram Bot](https://t.me/ytsavebot)
+- [The Feed Reader Bot](https://thefeedreaderbot.com/) — Telegram Bot
+- [Tik Tok Downloader](https://t.me/downloader_tiktok_bot) — Telegram Bot
+- [TriviaBot](https://telegram.me/triviabot) — Telegram bot
+- [utubebot2](https://t.me/utubebot2_bot) — Telegram Bot
+- [Verify Bot](https://t.me/VerifyBot) — Telegram Bot
+- [Vote](https://t.me/vote) — Telegram Bot
+- [Wiki](https://t.me/wiki) — Telegram Bot
+- [YouTube](https://t.me/youtube) — Telegram Bot
+- [YouTube Save Downloader](https://t.me/ytsavebot) — Telegram Bot
 
 ### IDE Extension
 - [Atlassian Marketplace](https://marketplace.atlassian.com/)
-- [EF Core Power Tools - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ErikEJ.EFCorePowerTools)
+- [EF Core Power Tools](https://marketplace.visualstudio.com/items?itemName=ErikEJ.EFCorePowerTools) — Visual Studio Marketplace
 - [Joomlack extensions and documentations](https://www.joomlack.fr/en/)
 - [jooy2/vitepress-sidebar · GitHub](https://github.com/jooy2/vitepress-sidebar)
-- [PECL: The PHP Extension Community Library](https://pecl.php.net/)
-- [Regular Labs - Extensions for Joomla!](https://regularlabs.com/)
+- [PECL](https://pecl.php.net/) — The PHP Extension Community Library
+- [Regular Labs](https://regularlabs.com/) — Extensions for Joomla!
 - [rust-lang/rust-analyzer · GitHub](https://github.com/rust-lang/rust-analyzer)
-- [Trimmer: A Sublime Text plug-in](https://github.com/jonlabelle/Trimmer)
+- [Trimmer](https://github.com/jonlabelle/Trimmer) — A Sublime Text plug-in
 
 #### Obsidian Plugin
 - ⭐ **[Juggl · GitHub](https://github.com/HEmile/juggl)**
@@ -1451,26 +1451,26 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [aosr · GitHub](https://github.com/linanwx/aosr)
 - [awesome-brain-manager · GitHub](https://github.com/JuckZ/awesome-brain-manager)
 - [azyarashi/obsidian-typst-mate · GitHub](https://github.com/azyarashi/obsidian-typst-mate)
-- [blacksmithgu/datacore: Work-in-progress successor to Dataview with a focus on UX and speed.](https://github.com/blacksmithgu/datacore)
+- [blacksmithgu/datacore](https://github.com/blacksmithgu/datacore) — Work-in-progress successor to Dataview with a focus on UX and speed.
 - [breadcrumbs · GitHub](https://github.com/SkepticMystic/breadcrumbs)
 - [bsidian-callout-manager · GitHub](https://github.com/eth-p/obsidian-callout-manager)
-- [buttons: Buttons in Obsidian](https://github.com/shabegom/buttons)
+- [buttons](https://github.com/shabegom/buttons) — Buttons in Obsidian
 - [CalcCraft · GitHub](https://github.com/klaudyu/CalcCraft)
-- [calendarium: The ultimate Obsidian plugin for crafting mind-bending fantasy and sci-fi calendars](https://github.com/javalent/calendarium)
+- [calendarium](https://github.com/javalent/calendarium) — The ultimate Obsidian plugin for crafting mind-bending fantasy and sci-fi calendars
 - [cannoli · GitHub](https://github.com/DeabLabs/cannoli)
 - [CodeblockCustomizer · GitHub](https://github.com/mugiwara85/CodeblockCustomizer)
 - [cooklang-obsidian · GitHub](https://github.com/cooklang/cooklang-obsidian)
-- [Copilot for Obsidian - The Ultimate AI Assistant for Your Second Brain](https://www.obsidiancopilot.com/en) / [🔗](https://github.com/logancyang/obsidian-copilot)
+- [Copilot for Obsidian](https://www.obsidiancopilot.com/en) / <a href="https://github.com/logancyang/obsidian-copilot"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — The Ultimate AI Assistant for Your Second Brain
 - [copy-as-html · GitHub](https://github.com/jenningsb2/copy-as-html)
 - [customizable-page-header-buttons · GitHub](https://github.com/kometenstaub/customizable-page-header-buttons)
 - [dice-roller · GitHub](https://github.com/javalent/dice-roller)
 - [Drawio-obsidian · GitHub](https://github.com/zapthedingbat/drawio-obsidian)
-- [dscherdi/decks: An Obsidian Flashcards plugin](https://github.com/dscherdi/decks)
+- [dscherdi/decks](https://github.com/dscherdi/decks) — An Obsidian Flashcards plugin
 - [ebullient/obsidian-day-planner-og · GitHub](https://github.com/ebullient/obsidian-day-planner-og)
 - [ElmoNeedsArson/Obsidian-3D-embed](https://github.com/ElmoNeedsArson/Obsidian-3D-embed)
 - [excalibrain · GitHub](https://github.com/zsviczian/excalibrain)
 - [fantasy-statblocks · GitHub](https://github.com/javalent/fantasy-statblocks)
-- [filippov112/obsidian-sortable-tables: A plugin for Obsidian that adds the ability to interactively sort Markdown tables in preview mode.](https://github.com/filippov112/obsidian-sortable-tables)
+- [filippov112/obsidian-sortable-tables](https://github.com/filippov112/obsidian-sortable-tables) — A plugin for Obsidian that adds the ability to interactively sort Markdown tables in preview mode.
 - [Fle-tree-alternative · GitHub](https://github.com/ozntel/file-tree-alternative)
 - [gemmy · GitHub](https://github.com/ericaxu/Gemmy)
 - [globaloe · GitHub](https://github.com/shlemiel/globaloe)
@@ -1480,7 +1480,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [hot-reload · GitHub](https://github.com/pjeby/hot-reload)
 - [hotkeysplus-obsidian · GitHub](https://github.com/argenos/hotkeysplus-obsidian)
 - [infiolab/infio-copilot · GitHub](https://github.com/infiolab/infio-copilot)
-- [johansan/notebook-navigator: Replace the default file explorer in Obsidian with a clean two-pane interface featuring folder tree, tag browsing, file previews, keyboard navigation, drag-and-drop, pinned notes, and customizable display options.](https://github.com/johansan/notebook-navigator)
+- [johansan/notebook-navigator](https://github.com/johansan/notebook-navigator) — Replace the default file explorer in Obsidian with a clean two-pane interface featuring folder tree, tag browsing, file previews, keyboard navigation, drag-and-drop, pinned notes, and customizable display options.
 - [JSON Canvas](https://jsoncanvas.org/)
 - [kadisonm/obsidian-reference-generator · GitHub](https://github.com/kadisonm/obsidian-reference-generator)
 - [Lapis0x0/obsidian-yolo · GitHub](https://github.com/Lapis0x0/obsidian-yolo)
@@ -1494,14 +1494,14 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [Media-extended · GitHub](https://github.com/aidenlx/media-extended)
 - [media-extended · GitHub](https://github.com/PKM-er/media-extended)
 - [MetaEdit · GitHub](https://github.com/chhoumann/MetaEdit)
-- [mmiksaa/obsidian-protected-note: Plugin for Obsidian](https://github.com/mmiksaa/obsidian-protected-note)
-- [Moyf/yearly-glance: An obsidian plugin to build "year at a glance" view.](https://github.com/Moyf/yearly-glance)
+- [mmiksaa/obsidian-protected-note](https://github.com/mmiksaa/obsidian-protected-note) — Plugin for Obsidian
+- [Moyf/yearly-glance](https://github.com/Moyf/yearly-glance) — An obsidian plugin to build "year at a glance" view.
 - [multi-column-markdown · GitHub](https://github.com/ckRobinson/multi-column-markdown)
-- [my-bible-obsidian-plugin: Your own customization bible in your personal vault!](https://github.com/GsLogiMaker/my-bible-obsidian-plugin)
+- [my-bible-obsidian-plugin](https://github.com/GsLogiMaker/my-bible-obsidian-plugin) — Your own customization bible in your personal vault!
 - [NattyNote · GitHub](https://github.com/ahmedelq/NattyNote)
 - [nldates-obsidian · GitHub](https://github.com/argenos/nldates-obsidian)
 - [novel-word-count-obsidian · GitHub](https://github.com/isaaclyman/novel-word-count-obsidian)
-- [o2: Converts obsidian markdown syntax to other platforms](https://github.com/songkg7/o2)
+- [o2](https://github.com/songkg7/o2) — Converts obsidian markdown syntax to other platforms
 - [obi-sync · GitHub](https://github.com/acheong08/obi-sync)
 - [obi-sync-lib · GitHub](https://github.com/acheong08/obi-sync-lib)
 - [Obsidian Community](https://community.obsidian.md/)
@@ -1582,7 +1582,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [obsidian-full-calendar · GitHub](https://github.com/obsidian-community/obsidian-full-calendar)
 - [obsidian-gpgCrypt · GitHub](https://github.com/tejado/obsidian-gpgCrypt)
 - [obsidian-graphs · GitHub](https://github.com/DylanHojnoski/obsidian-graphs)
-- [obsidian-gridexplorer: Browse note files in a grid view](https://github.com/Devon22/obsidian-gridexplorer)
+- [obsidian-gridexplorer](https://github.com/Devon22/obsidian-gridexplorer) — Browse note files in a grid view
 - [obsidian-handwritten-notes · GitHub](https://github.com/FBarrca/obsidian-handwritten-notes)
 - [obsidian-heading-level-indent · GitHub](https://github.com/svonjoi/obsidian-heading-level-indent)
 - [obsidian-hider · GitHub](https://github.com/kepano/obsidian-hider)
@@ -1614,7 +1614,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [Obsidian-map-view · GitHub](https://github.com/esm7/obsidian-map-view)
 - [obsidian-markdown-formatting-assistant-plugin · GitHub](https://github.com/Reocin/obsidian-markdown-formatting-assistant-plugin)
 - [obsidian-markmind · GitHub](https://github.com/MarkMindCkm/obsidian-markmind)
-- [obsidian-meals: A meal plan & recipe manager plugin for Obsidian](https://github.com/tmayoff/obsidian-meals?tab=readme-ov-file)
+- [obsidian-meals](https://github.com/tmayoff/obsidian-meals?tab=readme-ov-file) — A meal plan & recipe manager plugin for Obsidian
 - [obsidian-media-db-plugin · GitHub](https://github.com/mProjectsCode/obsidian-media-db-plugin)
 - [obsidian-mermaid · GitHub](https://github.com/dartungar/obsidian-mermaid)
 - [obsidian-meta-bind-plugin · GitHub](https://github.com/mProjectsCode/obsidian-meta-bind-plugin)
@@ -1637,7 +1637,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [obsidian-plaintext · GitHub](https://github.com/dbarenholz/obsidian-plaintext)
 - [Obsidian-plantuml · GitHub](https://github.com/joethei/obsidian-plantuml)
 - [Obsidian-plugin-abcjs · GitHub](https://github.com/TilBlechschmidt/obsidian-plugin-abcjs)
-- [obsidian-plugin-abcjs: Plugin which renders music notations from code blocks](https://github.com/abcjs-music/obsidian-plugin-abcjs)
+- [obsidian-plugin-abcjs](https://github.com/abcjs-music/obsidian-plugin-abcjs) — Plugin which renders music notations from code blocks
 - [obsidian-plugin-toc · GitHub](https://github.com/hipstersmoothie/obsidian-plugin-toc)
 - [obsidian-projects · GitHub](https://github.com/marcusolsson/obsidian-projects)
 - [obsidian-pseudocode · GitHub](https://github.com/Yaotian-Liu/obsidian-pseudocode)
@@ -1679,7 +1679,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [obsidian-url-display · GitHub](https://github.com/lin-stephanie/obsidian-url-display)
 - [obsidian-url-into-selection · GitHub](https://github.com/denolehov/obsidian-url-into-selection)
 - [obsidian-various-complements-plugin · GitHub](https://github.com/tadashi-aikawa/obsidian-various-complements-plugin)
-- [obsidian-vault-explorer: Explore your Obsidian vault in visual format](https://github.com/decaf-dev/obsidian-vault-explorer)
+- [obsidian-vault-explorer](https://github.com/decaf-dev/obsidian-vault-explorer) — Explore your Obsidian vault in visual format
 - [obsidian-vision-recall · GitHub](https://github.com/travisvn/obsidian-vision-recall)
 - [obsidian-vocab-highlighter · GitHub](https://github.com/eatgrass/obsidian-vocab-highlighter)
 - [obsidian-vscode-editor · GitHub](https://github.com/sunxvming/obsidian-vscode-editor)
@@ -1695,7 +1695,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [ObsidianAnkiBridge · GitHub](https://github.com/JeppeKlitgaard/ObsidianAnkiBridge)
 - [ObsidianCustomFrames · GitHub](https://github.com/Ellpeck/ObsidianCustomFrames)
 - [ObsidianJustSharePlease · GitHub](https://github.com/Ellpeck/ObsidianJustSharePlease)
-- [obsidianmd/obsidian-maps: Map layout for Obsidian Bases. Display your notes as an interactive map view.](https://github.com/obsidianmd/obsidian-maps)
+- [obsidianmd/obsidian-maps](https://github.com/obsidianmd/obsidian-maps) — Map layout for Obsidian Bases. Display your notes as an interactive map view.
 - [ObsidianSimpleTimeTracker · GitHub](https://github.com/Ellpeck/ObsidianSimpleTimeTracker)
 - [obsidianworldbuildingtables · GitHub](https://github.com/jethoof/obsidianworldbuildingtables)
 - [obsipulse-plugin](https://github.com/jsifalda/obsipulse-plugin)
@@ -1707,7 +1707,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [Periodic-note-templates · GitHub](https://github.com/mulfok/periodic-note-templates)
 - [Quick explorer · GitHub](https://github.com/pjeby/quick-explorer)
 - [QuickAdd · GitHub](https://github.com/chhoumann/quickadd)
-- [R.E.L.A.X.: Regex Obsidian Plugin · GitHub](https://github.com/Syr0/R.E.L.A.X.)
+- [R.E.L.A.X.](https://github.com/Syr0/R.E.L.A.X.) — Regex Obsidian Plugin · GitHub
 - [recent-files-obsidian · GitHub](https://github.com/tgrosinger/recent-files-obsidian)
 - [remotely-save · GitHub](https://github.com/remotely-save/remotely-save)
 - [remotely-secure · GitHub](https://github.com/sboesen/remotely-secure)
@@ -1715,22 +1715,22 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [reveal-active-file-button-plugin · GitHub](https://github.com/claremacrae/reveal-active-file-button-plugin)
 - [screengarden-obsidian · GitHub](https://github.com/screendotgarden/screengarden-obsidian)
 - [shimmering-obsidian · GitHub](https://github.com/chrisgrieser/shimmering-obsidian)
-- [shun-liang/yt2doc: YouTube, Apple Podcast (and more) to readable Markdown.](https://github.com/shun-liang/yt2doc)
+- [shun-liang/yt2doc](https://github.com/shun-liang/yt2doc) — YouTube, Apple Podcast (and more) to readable Markdown.
 - [sliding-panes-obsidian · GItHub](https://github.com/deathau/sliding-panes-obsidian)
 - [smilesDrawer · GitHub](https://github.com/reymond-group/smilesDrawer)
 - [Snailedlt/Markdown-Videos · GitHub](https://github.com/Snailedlt/Markdown-Videos)
 - [soberhacker/obsidian-telegram-sync · GitHub](https://github.com/soberhacker/obsidian-telegram-sync)
 - [symunona/obsidian-bulk-exporter · GitHub](https://github.com/symunona/obsidian-bulk-exporter)
-- [sytone/obsidian-remote: Run Obsidian.md in a browser via a docker container](https://github.com/sytone/obsidian-remote)
+- [sytone/obsidian-remote](https://github.com/sytone/obsidian-remote) — Run Obsidian.md in a browser via a docker container
 - [tag-wrangler · GitHub](https://github.com/pjeby/tag-wrangler)
 - [tasknotes · GitHub](https://github.com/callumalpass/tasknotes)
 - [Templater · GitHub](https://github.com/SilentVoid13/Templater)
-- [Text Generator Plugin](https://text-gen.com/) / [🔗](https://github.com/nhaouari/obsidian-textgenerator-plugin)
+- [Text Generator Plugin](https://text-gen.com/) / <a href="https://github.com/nhaouari/obsidian-textgenerator-plugin"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [thesamim/TickTickSync · GitHub](https://github.com/thesamim/TickTickSync)
 - [tldraw-in-obsidian · GitHub](https://github.com/holxsam/tldraw-in-obsidian)
 - [txt-as-md-obsidian · GitHub](https://github.com/deathau/txt-as-md-obsidian)
 - [vault-chat · GitHub](https://github.com/exoascension/vault-chat)
-- [VaultSync: Obsidian · GitHub](https://github.com/thewordisbird/vaultsync)
+- [VaultSync](https://github.com/thewordisbird/vaultsync) — Obsidian · GitHub
 - [vim-toggle · GitHub](https://github.com/conneroisu/vim-toggle)
 - [vschroeter/obsidian-virtual-linker · GitHub](https://github.com/vschroeter/obsidian-virtual-linker)
 - [waypoint · GitHub](https://github.com/IdreesInc/Waypoint)
@@ -1759,16 +1759,16 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [Awesome Obsidian · GitHub](https://github.com/kmaasrud/awesome-obsidian)
 - [Juggl.io](https://juggl.io/)
 - [Make.md](https://www.make.md/)
-- [Notebook Navigator - Modern File Explorer for Obsidian](https://notebooknavigator.com/)
+- [Notebook Navigator](https://notebooknavigator.com/) — Modern File Explorer for Obsidian
 - [Obsidian Tools](https://obsidian.tools/)
 - [obsidianmd/obsidian-releases · GitHub](https://github.com/obsidianmd/obsidian-releases)
-- [YourPulse - Transform Your Obsidian Vault with Writing Insights and Progress Tracking](https://www.yourpulse.cc/)
+- [YourPulse](https://www.yourpulse.cc/) — Transform Your Obsidian Vault with Writing Insights and Progress Tracking
 
 ##### Obsidian Publish
 - ⭐ **[Obsidian Publish](https://obsidian.md/publish)**
 - [devbean/obsidian-wordpress · GitHub](https://github.com/devbean/obsidian-wordpress)
-- [frontend-engineering/Invio: Publish obsidian docs online](https://github.com/frontend-engineering/Invio)
-- [halo-sigs/obsidian-halo: Publish your Obsidian documents to Halo](https://github.com/halo-sigs/obsidian-halo)
+- [frontend-engineering/Invio](https://github.com/frontend-engineering/Invio) — Publish obsidian docs online
+- [halo-sigs/obsidian-halo](https://github.com/halo-sigs/obsidian-halo) — Publish your Obsidian documents to Halo
 - [Hi canvas](https://hi-canvas.marknoteapp.com/)
 - [obsidian-markbase · GitHub](https://github.com/markbase-obsidian/obsidian-markbase)
 - [obsidian-mixa · GitHub](https://github.com/mixasite/obsidian-mixa)
@@ -1785,7 +1785,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 #### Vim Extension
 - [airblade/vim-gitgutter · GitHub](https://github.com/airblade/vim-gitgutter)
 - [altermo/vim-plugin-lis · GitHub](https://github.com/altermo/vim-plugin-list#donate)
-- [andmarti1424/sc-im: sc-im - Spreadsheet Calculator Improvised](https://github.com/andmarti1424/sc-im)
+- [andmarti1424/sc-im](https://github.com/andmarti1424/sc-im) — sc-im - Spreadsheet Calculator Improvised
 - [ap/vim-css-color · GitHub](https://github.com/ap/vim-css-color)
 - [CopilotC-Nvim/CopilotChat.nvim · GitHub](https://github.com/CopilotC-Nvim/CopilotChat.nvim)
 - [davidhalter/jedi-vim · GItHub](https://github.com/davidhalter/jedi-vim)
@@ -1813,12 +1813,12 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [tpope/vim-unimpaired · GitHub](https://github.com/tpope/vim-unimpaired)
 - [vim-airline/vim-airline · GitHub](https://github.com/vim-airline/vim-airline)
 - [vim-test/vim-test · GitHub](https://github.com/vim-test/vim-test)
-- [Vim: help.txt](https://vimhelp.org/)
+- [Vim](https://vimhelp.org/) — help.txt
 - [Vimschool](https://vimschool.netlify.app/)
 - [vimtutor.sh](https://www.vimtutor.sh/)
 - [Vimwiki](https://vimwiki.github.io/)
 - [wfxr/minimap.vim · GitHub](https://github.com/wfxr/minimap.vim)
-- [yetone/avante.nvim: Use your Neovim like using Cursor AI IDE!](https://github.com/yetone/avante.nvim)
+- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) — Use your Neovim like using Cursor AI IDE!
 
 #### VSCode Extension
 - [ai-genie/chatgpt-vscode · GitHub](https://github.com/ai-genie/chatgpt-vscode)
@@ -1826,14 +1826,14 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [anburocky3/bootstrap5-snippets · GitHub](https://github.com/anburocky3/bootstrap5-snippets)
 - [arciisine/vscode-chronicler · GitHub](https://github.com/arciisine/vscode-chronicler)
 - [bash-lsp/bash-language-server · GitHub](https://github.com/bash-lsp/bash-language-server)
-- [biomejs/biome: Toolchain of the web](https://github.com/biomejs/biome)
+- [biomejs/biome](https://github.com/biomejs/biome) — Toolchain of the web
 - [bmewburn/vscode-intelephense · GitHub](https://github.com/bmewburn/vscode-intelephense)
 - [Bootstrap extension](https://bootstrap-extension.com/)
 - [borkdominik/bigER · GitHub](https://github.com/borkdominik/bigER)
 - [catppuccin/vscode · GitHub](https://github.com/catppuccin/vscode)
 - [ChristianKohler/PathIntellisense · GitHub](https://github.com/ChristianKohler/PathIntellisense)
-- [Code GPT - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt)
-- [Console Ninja - Console log output right next to your code](https://console-ninja.com/)
+- [Code GPT](https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt) — Visual Studio Marketplace
+- [Console Ninja](https://console-ninja.com/) — Console log output right next to your code
 - [continuedev/continue · GitHub](https://github.com/continuedev/continue)
 - [cweijan/vscode-database-client · GitHub](https://github.com/cweijan/vscode-database-client)
 - [cweijan/vscode-office · GitHub](https://github.com/cweijan/vscode-office)
@@ -1842,34 +1842,34 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [DonJayamanne/gitHistoryVSCode · GitHub](https://github.com/DonJayamanne/gitHistoryVSCode)
 - [DucPhamNgoc08/CodeVisualizer · GitHub](https://github.com/DucPhamNgoc08/CodeVisualizer)
 - [ecmel/vscode-html-css · GitHub](https://github.com/ecmel/vscode-html-css)
-- [ErikEJ/SqlCeToolbox: SQLite & SQL Server Compact Toolbox extension for Visual Studio, SSMS (and stand alone)](https://github.com/ErikEJ/SqlCeToolbox)
+- [ErikEJ/SqlCeToolbox](https://github.com/ErikEJ/SqlCeToolbox) — SQLite & SQL Server Compact Toolbox extension for Visual Studio, SSMS (and stand alone)
 - [excalidraw/excalidraw-vscode · GitHub](https://github.com/excalidraw/excalidraw-vscode#master)
 - [Fede91/vs-chatgpt · GitHub](https://github.com/Fede91/vs-chatgpt)
 - [formulahendry/vscode-auto-close-tag · GitHub](https://github.com/formulahendry/vscode-auto-close-tag)
 - [formulahendry/vscode-code-runner · GitHub](https://github.com/formulahendry/vscode-code-runner)
 - [gencay/vscode-chatgpt · GitHub](https://github.com/gencay/vscode-chatgpt)
-- [GitHub - dotnet/interactive · GitHub](https://github.com/dotnet/interactive)
-- [GitHub - mathematic-inc/vscode-pdf: PDF Viewer for Visual Studio Code](https://github.com/mathematic-inc/vscode-pdf)
-- [GitHub Copilot - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=GitHub.copilotvs)
-- [GitLens — GitKraken](https://gitlens.amod.io/)
-- [godotengine/godot-vscode-plugin: Godot development tools for VSCode](https://github.com/godotengine/godot-vscode-plugin)
+- [GitHub](https://github.com/dotnet/interactive) — dotnet/interactive · GitHub
+- [GitHub](https://github.com/mathematic-inc/vscode-pdf) — mathematic-inc/vscode-pdf: PDF Viewer for Visual Studio Code
+- [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilotvs) — Visual Studio Marketplace
+- [GitLens](https://gitlens.amod.io/) — GitKraken
+- [godotengine/godot-vscode-plugin](https://github.com/godotengine/godot-vscode-plugin) — Godot development tools for VSCode
 - [golang/vscode-go · GitHub](https://github.com/golang/vscode-go)
 - [googlecolab/colab-vscode · GitHub](https://github.com/googlecolab/colab-vscode)
 - [Gruntfuggly/todo-tree · GitHub](https://github.com/Gruntfuggly/todo-tree)
 - [hediet/vscode-drawio · GitHub](https://github.com/hediet/vscode-drawio)
 - [Helixform/CodeCursor · GitHub](https://github.com/Helixform/CodeCursor)
 - [madskristensen/MarkdownEditor · GitHub](https://github.com/madskristensen/MarkdownEditor)
-- [markmap/markmap-vscode: Integrate markmap into VSCode](https://github.com/markmap/markmap-vscode)
+- [markmap/markmap-vscode](https://github.com/markmap/markmap-vscode) — Integrate markmap into VSCode
 - [maxim-saplin/cptX · GitHub](https://github.com/maxim-saplin/cptX)
 - [mhutchie/vscode-git-graph · GitHub](https://github.com/mhutchie/vscode-git-graph)
-- [Microsoft Live Share - Visual Studio Code](https://code.visualstudio.com/learn/collaboration/live-share)
+- [Microsoft Live Share](https://code.visualstudio.com/learn/collaboration/live-share) — Visual Studio Code
 - [microsoft/vscode-ai-toolkit · GitHub](https://github.com/microsoft/vscode-ai-toolkit)
 - [microsoft/vscode-cmake-tools · GitHub](https://github.com/microsoft/vscode-cmake-tools)
-- [microsoft/vscode-copilot-chat: Copilot Chat extension for VS Code](https://github.com/microsoft/vscode-copilot-chat)
+- [microsoft/vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat) — Copilot Chat extension for VS Code
 - [microsoft/vscode-cpptools · GitHub](https://github.com/Microsoft/vscode-cpptools)
 - [microsoft/vscode-docker · GitHub](https://github.com/microsoft/vscode-docker)
 - [microsoft/vscode-eslint · GitHub](https://github.com/Microsoft/vscode-eslint)
-- [microsoft/vscode-hexeditor: VS Code Hex Editor](https://github.com/microsoft/vscode-hexeditor)
+- [microsoft/vscode-hexeditor](https://github.com/microsoft/vscode-hexeditor) — VS Code Hex Editor
 - [microsoft/vscode-java-pack · GitHub](https://github.com/Microsoft/vscode-java-pack)
 - [microsoft/vscode-jupyter · GitHub](https://github.com/Microsoft/vscode-jupyter)
 - [microsoft/vscode-livepreview · GitHub](https://github.com/microsoft/vscode-livepreview)
@@ -1878,44 +1878,44 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [microsoft/vscode-pull-request-github · GitHub](https://github.com/Microsoft/vscode-pull-request-github)
 - [microsoft/vscode-remote-release · GitHub](https://github.com/Microsoft/vscode-remote-release)
 - [MicrosoftDocs/intellicode · GitHub](https://github.com/MicrosoftDocs/intellicode)
-- [midudev/better-svg: Extension to improve working with SVGs on Visual Studio Code](https://github.com/midudev/better-svg)
+- [midudev/better-svg](https://github.com/midudev/better-svg) — Extension to improve working with SVGs on Visual Studio Code
 - [mintlify/writer · GitHub](https://github.com/mintlify/writer)
 - [mjbvz/vscode-markdown-emoji · GitHub](https://github.com/mjbvz/vscode-markdown-emoji)
 - [mtxr/vscode-sqltools · GitHub](https://github.com/mtxr/vscode-sqltools)
 - [nhoizey/vscode-gremlins · GitHub](https://github.com/nhoizey/vscode-gremlins)
 - [OmniSharp](https://www.omnisharp.net/)
 - [onecentlin/laravel-blade-snippets-vscode · GitHub](https://github.com/onecentlin/laravel-blade-snippets-vscode)
-- [opencode - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=sst-dev.opencode) / [🔗](https://github.com/anomalyco/opencode)
-- [pablodelucca/pixel-agents: Pixel office](https://github.com/pablodelucca/pixel-agents)
+- [opencode](https://marketplace.visualstudio.com/items?itemName=sst-dev.opencode) / <a href="https://github.com/anomalyco/opencode"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Visual Studio Marketplace
+- [pablodelucca/pixel-agents](https://github.com/pablodelucca/pixel-agents) — Pixel office
 - [PKief/vscode-material-icon-theme · GitHub](https://github.com/PKief/vscode-material-icon-theme)
 - [prettier/prettier-vscode · GitHub](https://github.com/prettier/prettier-vscode)
-- [Quokka - JavaScript and TypeScript playground in your editor](https://quokkajs.com/)
+- [Quokka](https://quokkajs.com/) — JavaScript and TypeScript playground in your editor
 - [Railly/one-hunter-vscode · GitHub](https://github.com/Railly/one-hunter-vscode)
 - [redhat-developer/vscode-java · GitHub](https://github.com/redhat-developer/vscode-java)
 - [redhat-developer/vscode-xml · GitHub](https://github.com/redhat-developer/vscode-xml)
 - [ritwickdey/vscode-live-server · GitHub](https://github.com/ritwickdey/vscode-live-server)
 - [shufo/vscode-blade-formatter · GitHub](https://github.com/shufo/vscode-blade-formatter)
 - [sidthesloth92/vsc_html5_boilerplate · GitHub](https://github.com/sidthesloth92/vsc_html5_boilerplate)
-- [sveltejs/language-tools: The Svelte Language Server, and official extensions which use it](https://github.com/sveltejs/language-tools)
-- [svsool/memo: Markdown knowledge base with bidirectional \[\[link\]\]s built on top of VSCode](https://github.com/svsool/memo)
-- [tailwindlabs/tailwindcss-intellisense: Intelligent Tailwind CSS tooling for Visual Studio Code](https://github.com/tailwindlabs/tailwindcss-intellisense)
-- [TeamCodeStream/codestream: The Code Collaboration Tool Built for Remote Teams](https://github.com/TeamCodeStream/CodeStream)
-- [TerosTechnology/vscode-terosHDL: VHDL and Verilog/SV IDE: state machine viewer, linter, documentation, snippets... and more!](https://github.com/TerosTechnology/vscode-terosHDL)
-- [Thunder Client - Rest API Client](https://www.thunderclient.com/)
+- [sveltejs/language-tools](https://github.com/sveltejs/language-tools) — The Svelte Language Server, and official extensions which use it
+- [svsool/memo](https://github.com/svsool/memo) — Markdown knowledge base with bidirectional \[\[link\]\]s built on top of VSCode
+- [tailwindlabs/tailwindcss-intellisense](https://github.com/tailwindlabs/tailwindcss-intellisense) — Intelligent Tailwind CSS tooling for Visual Studio Code
+- [TeamCodeStream/codestream](https://github.com/TeamCodeStream/CodeStream) — The Code Collaboration Tool Built for Remote Teams
+- [TerosTechnology/vscode-terosHDL](https://github.com/TerosTechnology/vscode-terosHDL) — VHDL and Verilog/SV IDE: state machine viewer, linter, documentation, snippets... and more!
+- [Thunder Client](https://www.thunderclient.com/) — Rest API Client
 - [timkmecl/codegpt · GItHub](https://github.com/timkmecl/codegpt)
 - [usernamehw/vscode-error-lens · GitHub](https://github.com/usernamehw/vscode-error-lens)
 - [virejdasani/InYourFace · GitHub](https://github.com/virejdasani/InYourFace)
-- [Visual Assist - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=WholeTomatoSoftware.VisualAssist)
-- [Visual Assist | Visual Studio Extension for C/C++/C# Developers](https://www.wholetomato.com/)
+- [Visual Assist](https://marketplace.visualstudio.com/items?itemName=WholeTomatoSoftware.VisualAssist) — Visual Studio Marketplace
+- [Visual Assist](https://www.wholetomato.com/) — Visual Studio Extension for C/C++/C# Developers
 - [VSCode SQLTools](https://vscode-sqltools.mteixeira.dev/)
 - [VSCode SQLTools](https://vscode-sqltools.mteixeira.dev/en/home/)
 - [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons)
 - [vscode-neovim/vscode-neovim · GitHub](https://github.com/vscode-neovim/vscode-neovim)
 - [VSCodeVim/Vim · GitHub](https://github.com/VSCodeVim/Vim)
 - [vuerd/vuerd · GitHub](https://github.com/vuerd/vuerd)
-- [Xdebug - Debugger and Profiler Tool for PHP](https://xdebug.org/)
+- [Xdebug](https://xdebug.org/) — Debugger and Profiler Tool for PHP
 - [yzane/vscode-markdown-pdf · GitHub](https://github.com/yzane/vscode-markdown-pdf)
-- [zignd/HTML-CSS-Class-Completion: Visual Studio Code extension that provides CSS class name completion for the HTML class attribute based on the CSS files in your workspace](https://github.com/Zignd/HTML-CSS-Class-Completion)
+- [zignd/HTML-CSS-Class-Completion](https://github.com/Zignd/HTML-CSS-Class-Completion) — Visual Studio Code extension that provides CSS class name completion for the HTML class attribute based on the CSS files in your workspace
 
 ### Mastodon Extension
 - [Magic Stone](https://magicstone.dev/)
@@ -1923,114 +1923,114 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [microstatus](https://microstatus.org/)
 
 ### GNOME Extension
-- [ArcMenu - GNOME Shell Extensions](https://extensions.gnome.org/extension/3628/arcmenu/)
-- [Burn My Windows - GNOME Shell Extensions](https://extensions.gnome.org/extension/4679/burn-my-windows/)
-- [Caffeine - GNOME Shell Extensions](https://extensions.gnome.org/extension/517/caffeine/)
-- [Coverflow Alt-Tab - GNOME Shell Extensions](https://extensions.gnome.org/extension/97/coverflow-alt-tab/)
-- [Custom Hot Corners - Extended - GNOME Shell Extensions](https://extensions.gnome.org/extension/4167/custom-hot-corners-extended/)
-- [Dash to Dock - GNOME Shell Extensions](https://extensions.gnome.org/extension/307/dash-to-dock/)
-- [Dash to Panel - GNOME Shell Extensions](https://extensions.gnome.org/extension/1160/dash-to-panel/)
-- [Extension List - GNOME Shell Extensions](https://extensions.gnome.org/extension/3088/extension-list/)
-- [TopHat - GNOME Shell Extensions](https://extensions.gnome.org/extension/5219/tophat/)
-- [Vitals - GNOME Shell Extensions](https://extensions.gnome.org/extension/1460/vitals/)
+- [ArcMenu](https://extensions.gnome.org/extension/3628/arcmenu/) — GNOME Shell Extensions
+- [Burn My Windows](https://extensions.gnome.org/extension/4679/burn-my-windows/) — GNOME Shell Extensions
+- [Caffeine](https://extensions.gnome.org/extension/517/caffeine/) — GNOME Shell Extensions
+- [Coverflow Alt-Tab](https://extensions.gnome.org/extension/97/coverflow-alt-tab/) — GNOME Shell Extensions
+- [Custom Hot Corners](https://extensions.gnome.org/extension/4167/custom-hot-corners-extended/) — Extended - GNOME Shell Extensions
+- [Dash to Dock](https://extensions.gnome.org/extension/307/dash-to-dock/) — GNOME Shell Extensions
+- [Dash to Panel](https://extensions.gnome.org/extension/1160/dash-to-panel/) — GNOME Shell Extensions
+- [Extension List](https://extensions.gnome.org/extension/3088/extension-list/) — GNOME Shell Extensions
+- [TopHat](https://extensions.gnome.org/extension/5219/tophat/) — GNOME Shell Extensions
+- [Vitals](https://extensions.gnome.org/extension/1460/vitals/) — GNOME Shell Extensions
 
 ### Stremio Addons
-- ⭐ **[ElfHosted Store](https://store.elfhosted.com/)** / [🔗](https://github.com/elfhosted/)
+- ⭐ **[ElfHosted Store](https://store.elfhosted.com/)** / <a href="https://github.com/elfhosted/"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - ⭐ **[Stremio Addons](https://stremio-addons.net/)**
 - [AIOStreams](https://docs.aiostreams.viren070.me/)
-- [Brazuca Torrents - Stremio Addons](https://stremio-addons.net/addons/brazuca-torrents)
-- [cedya77/aiometadata: my space for aiometadata](https://github.com/cedya77/aiometadata)
-- [ElfHosted - AIOStreams](https://aiostreams.elfhosted.com/stremio/configure) / [🔗](https://github.com/Viren070/AIOStreams), [🔗](https://github.com/Tam-Taro/SEL-Filtering-and-Sorting)
-- [ElfHosted - Comet](https://comet.elfhosted.com/configure) / [🔗](https://github.com/g0ldyy/comet)
-- [ElfHosted - Jackettio](https://jackettio.elfhosted.com/configure) / [🔗](https://github.com/Telkaoss/jackettio)
-- [ElfHosted - MediaFusion](https://mediafusion.elfhosted.com/) / [🔗](https://github.com/mhdzumair/MediaFusion)
-- [ElfHosted - MediaFusion](https://mediafusion.elfhosted.com/app)
-- [ElfHosted - MyTrakt Sync](https://mytrakt.elfhosted.com/)
-- [ElfHosted - Stremio Addons Guide](https://stremio-addons-guide.elfhosted.com/)
-- [Formulio - Configure Addon](https://formulio.hayd.uk/)
-- [Leviathan - Stremio Addons](https://stremio-addons.net/addons/leviathan) / [🔗](https://github.com/LUC4N3X/stremio-leviathan-addon)
-- [lostb1t/Gelato: Jellyfin Stremio Integration Plugin](https://github.com/lostb1t/Gelato)
+- [Brazuca Torrents](https://stremio-addons.net/addons/brazuca-torrents) — Stremio Addons
+- [cedya77/aiometadata](https://github.com/cedya77/aiometadata) — my space for aiometadata
+- [ElfHosted](https://aiostreams.elfhosted.com/stremio/configure) / <a href="https://github.com/Viren070/AIOStreams"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>, <a href="https://github.com/Tam-Taro/SEL-Filtering-and-Sorting"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — AIOStreams
+- [ElfHosted](https://comet.elfhosted.com/configure) / <a href="https://github.com/g0ldyy/comet"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Comet
+- [ElfHosted](https://jackettio.elfhosted.com/configure) / <a href="https://github.com/Telkaoss/jackettio"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Jackettio
+- [ElfHosted](https://mediafusion.elfhosted.com/) / <a href="https://github.com/mhdzumair/MediaFusion"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — MediaFusion
+- [ElfHosted](https://mediafusion.elfhosted.com/app) — MediaFusion
+- [ElfHosted](https://mytrakt.elfhosted.com/) — MyTrakt Sync
+- [ElfHosted](https://stremio-addons-guide.elfhosted.com/) — Stremio Addons Guide
+- [Formulio](https://formulio.hayd.uk/) — Configure Addon
+- [Leviathan](https://stremio-addons.net/addons/leviathan) / <a href="https://github.com/LUC4N3X/stremio-leviathan-addon"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Stremio Addons
+- [lostb1t/Gelato](https://github.com/lostb1t/Gelato) — Jellyfin Stremio Integration Plugin
 - [M3U/EPG Addon Configuration](https://stiptv.ddns.me/)
-- [Marvel - Configure Addon](https://addon-marvel.onrender.com/configure) / [🔗](https://github.com/joaogonp/addon-marvel)
-- [MediaFusion](https://mhdzumair.github.io/MediaFusion/docs/) / [🔗](https://github.com/mhdzumair/MediaFusion)
+- [Marvel](https://addon-marvel.onrender.com/configure) / <a href="https://github.com/joaogonp/addon-marvel"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Configure Addon
+- [MediaFusion](https://mhdzumair.github.io/MediaFusion/docs/) / <a href="https://github.com/mhdzumair/MediaFusion"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [METEOR](https://meteorfortheweebs.midnightignite.me/configure)
-- [PVTKRRX — Private Trackers Inside Stremio](https://www.pvtkrrx.cc/)
-- [ranaldsgift/KefinTweaks: An essential collection of Jellyfin Tweaks that you always knew you needed](https://github.com/ranaldsgift/KefinTweaks)
+- [PVTKRRX](https://www.pvtkrrx.cc/) — Private Trackers Inside Stremio
+- [ranaldsgift/KefinTweaks](https://github.com/ranaldsgift/KefinTweaks) — An essential collection of Jellyfin Tweaks that you always knew you needed
 - [Stremio Addon Manager](https://addon-manager.dontwanttos.top/)
 - [Stremio Community Subtitles](https://stremio-community-subtitles.top/)
-- [Stremio Status](https://status.stremio-status.com/) / [🔗](https://github.com/SolitudePy/stremio-status)
+- [Stremio Status](https://status.stremio-status.com/) / <a href="https://github.com/SolitudePy/stremio-status"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [StremThru](https://stremthru.13377001.xyz/)
 - [StremThru Torz](https://stremthrufortheweebs.midnightignite.me/stremio/torz/configure)
-- [TOP Streaming - Multi-Language Configuration](https://top-streaming.stream/configure)
+- [TOP Streaming](https://top-streaming.stream/configure) — Multi-Language Configuration
 - [Torrentio](https://torrentio.org/)
 - [Torrentio Stream Fun](https://torrentio.strem.fun/)
 - [TorrentsDB](https://torrentsdb.com/)
 
 ## Game Engine
-- ⭐ **[about s&box](https://sbox.game/)** / [🔗](https://github.com/Facepunch/sbox-public)
+- ⭐ **[about s&box](https://sbox.game/)** / <a href="https://github.com/Facepunch/sbox-public"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - ⭐ **[GDevelop.io](https://gdevelop.io/)**
-- ⭐ **[Godot Engine](https://godotengine.org/)** / [🔗](https://github.com/godotengine/godot)
-- ⭐ **[Harfang 3D - 3D Visualization for the Industry](https://www.harfang3d.com/en_US/)** / [🔗](https://github.com/harfang3d/harfang3d)
-- ⭐ **[UNIGINE - real time 3D engine](https://unigine.com/)**
-- ⭐ **[Unity - 3D, 2D, VR & AR Engine](https://unity.com/)**
-- ⭐ **[Unreal Engine - The most powerful real-time 3D creation tool](https://www.unrealengine.com/en-US/)**
-- [Android Studio - Android Developers](https://developer.android.com/studio/)
+- ⭐ **[Godot Engine](https://godotengine.org/)** / <a href="https://github.com/godotengine/godot"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- ⭐ **[Harfang 3D](https://www.harfang3d.com/en_US/)** / <a href="https://github.com/harfang3d/harfang3d"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — 3D Visualization for the Industry
+- ⭐ **[UNIGINE](https://unigine.com/)** — real time 3D engine
+- ⭐ **[Unity](https://unity.com/)** — 3D, 2D, VR & AR Engine
+- ⭐ **[Unreal Engine](https://www.unrealengine.com/en-US/)** — The most powerful real-time 3D creation tool
+- [Android Studio](https://developer.android.com/studio/) — Android Developers
 - [Armory 3D](https://armory3d.org/)
-- [Bevy Engine](https://bevy.org/) / [🔗](https://github.com/bevyengine/bevy)
+- [Bevy Engine](https://bevy.org/) / <a href="https://github.com/bevyengine/bevy"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [bladecoder/bladecoder-adventure-engine · GitHub](https://github.com/bladecoder/bladecoder-adventure-engine)
-- [Box2D](https://box2d.org/) / [🔗](https://github.com/erincatto)
+- [Box2D](https://box2d.org/) / <a href="https://github.com/erincatto"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [Buildbox](https://www.buildbox.com/)
 - [Bullet Real-Time Physics Simulation](https://pybullet.org/wordpress/)
 - [cheat-engine/cheat-engine · GitHub](https://github.com/cheat-engine/cheat-engine)
 - [Cocos Creator](https://www.cocos.com/en)
-- [Construct 3 - Game making software](https://construct.net/en)
+- [Construct 3](https://construct.net/en) — Game making software
 - [CorsixTH](https://corsixth.com/)
 - [CRYENGINE](https://www.cryengine.com/)
-- [Defold - Cross platform game engine](https://defold.com/)
-- [Ebitengine - A dead simple 2D game engine for Go](https://ebitengine.org/)
+- [Defold](https://defold.com/) — Cross platform game engine
+- [Ebitengine](https://ebitengine.org/) — A dead simple 2D game engine for Go
 - [enable3d • 3D for Web, Mobile and PC](https://enable3d.io/)
 - [Engines Database](https://enginesdatabase.com/)
-- [Erincatto/box3d: Box3D is a 3D physics engine for games · GitHub](https://github.com/erincatto/box3d)
-- [Falco 3D Engine - Game Engine](https://falco3d.com/)
+- [Erincatto/box3d](https://github.com/erincatto/box3d) — Box3D is a 3D physics engine for games · GitHub
+- [Falco 3D Engine](https://falco3d.com/) — Game Engine
 - [Felgo](https://felgo.com/)
 - [Flame engine](https://flame-engine.org/)
 - [Flax Engine](https://flaxengine.com/)
-- [GameMaker - 2D Game Engine](https://gamemaker.io/en)
-- [GB Studio - Retro game creator](https://www.gbstudio.dev/)
+- [GameMaker](https://gamemaker.io/en) — 2D Game Engine
+- [GB Studio](https://www.gbstudio.dev/) — Retro game creator
 - [HeroEngine](https://www.heroengine.com/)
-- [Hology Engine — A new game engine for web based games](https://hology.app/)
+- [Hology Engine](https://hology.app/) — A new game engine for web based games
 - [Horde3D](http://www.horde3d.org/)
 - [Insydium LTD](https://insydium.ltd/)
 - [jMonkeyEngine](https://jmonkeyengine.org/)
-- [kitao/pyxel: A retro game engine for Python](https://github.com/kitao/pyxel)
+- [kitao/pyxel](https://github.com/kitao/pyxel) — A retro game engine for Python
 - [libGDX](https://libgdx.com/)
-- [Love2D - Free 2D Game Engine](https://love2d.org/) / [🔗](https://github.com/love2d/love)
-- [Luanti | Open source voxel game engine](https://www.luanti.org/)
-- [microStudio - Game Engine](https://microstudio.dev/)
+- [Love2D](https://love2d.org/) / <a href="https://github.com/love2d/love"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Free 2D Game Engine
+- [Luanti](https://www.luanti.org/) — Open source voxel game engine
+- [microStudio](https://microstudio.dev/) — Game Engine
 - [nem0/LumixEngine · GitHub](https://github.com/nem0/lumixengine)
-- [Newton Physics Documentation — Newton Physics](https://newton-physics.github.io/newton/stable/guide/overview.html) / [🔗](https://github.com/newton-physics/newton)
+- [Newton Physics Documentation](https://newton-physics.github.io/newton/stable/guide/overview.html) / <a href="https://github.com/newton-physics/newton"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Newton Physics
 - [nunuStudio](https://www.nunustudio.org/)
 - [Oasis Engine](https://oasisengine.cn/)
 - [OGRE](https://www.ogre3d.org/)
 - [Open 3D Engine](https://o3de.org/)
 - [Phaser.io](https://phaser.io/)
 - [PIFuHD](https://shunsukesaito.github.io/PIFuHD/)
-- [Piston - game engine](https://www.piston.rs/)
-- [PixiJS | The HTML5 Creation Engine](https://pixijs.com/) / [🔗](https://github.com/pixijs/pixijs)
-- [PlayCanvas - WebGL Game Engine](https://playcanvas.com/) / [🔗](https://github.com/playcanvas/engine)
+- [Piston](https://www.piston.rs/) — game engine
+- [PixiJS](https://pixijs.com/) / <a href="https://github.com/pixijs/pixijs"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — The HTML5 Creation Engine
+- [PlayCanvas](https://playcanvas.com/) / <a href="https://github.com/playcanvas/engine"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — WebGL Game Engine
 - [pseudo3dbash · GitHub](https://github.com/diejuse/pseudo3dbash)
-- [Quixel | 3D world-building made easy](https://quixel.com/)
+- [Quixel](https://quixel.com/) — 3D world-building made easy
 - [Reallusion Animation](https://www.reallusion.com/)
-- [Redot Engine](https://www.redotengine.org/) / [🔗](https://github.com/Redot-Engine/redot-engine)
-- [Ren'Py - Visual Novel Engine](https://www.renpy.org/)
+- [Redot Engine](https://www.redotengine.org/) / <a href="https://github.com/Redot-Engine/redot-engine"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Ren'Py](https://www.renpy.org/) — Visual Novel Engine
 - [Solar2D](https://solar2d.com/)
 - [Spring RTS Engine](https://springrts.com/)
 - [Stencyl](http://www.stencyl.com/)
 - [Stride Game Engine](https://www.stride3d.net/)
 - [TIC-80 tiny computer](https://tic80.com/)
-- [Tiled](https://www.mapeditor.org/) / [🔗](https://github.com/mapeditor/tiled)
-- [Unreal Engine | MetaHuman Creator](https://www.unrealengine.com/en-US/metahuman-creator)
-- [UPBGE](https://upbge.org/#/) / [🔗](https://github.com/UPBGE/upbge)
+- [Tiled](https://www.mapeditor.org/) / <a href="https://github.com/mapeditor/tiled"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Unreal Engine](https://www.unrealengine.com/en-US/metahuman-creator) — MetaHuman Creator
+- [UPBGE](https://upbge.org/#/) / <a href="https://github.com/UPBGE/upbge"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [Urho3D](https://urho3d.io/)
 - [Verge3D](https://www.soft8soft.com/verge3d/3dweb/38/)
 - [Wicked Engine](https://wickedengine.net/)
@@ -2040,32 +2040,32 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 ## Git Client
 - ⭐ **[Git tower](https://www.git-tower.com/)**
 - ⭐ **[GitKraken](https://www.gitkraken.com/)**
-- [Anchorpoint - Version control for Unity and Unreal Engine](https://www.anchorpoint.app/)
+- [Anchorpoint](https://www.anchorpoint.app/) — Version control for Unity and Unreal Engine
 - [First Committer](https://firstcommitter.com/)
-- [Fork - git client](https://git-fork.com/)
-- [Gh4a: Github client for Android](https://github.com/slapperwan/gh4a/)
+- [Fork](https://git-fork.com/) — git client
+- [Gh4a](https://github.com/slapperwan/gh4a/) — Github client for Android
 - [Git Cola](https://git-cola.github.io/)
-- [Git Cola: The highly caffeinated Git GUI](https://git-cola.github.io/about.html)
+- [Git Cola](https://git-cola.github.io/about.html) — The highly caffeinated Git GUI
 - [Git Extensions](https://gitextensions.github.io/)
 - [Gitahead.com](https://gitahead.github.io/gitahead.com/)
-- [GitBucket: A Git platform](https://gitbucket.github.io/)
-- [GitButler | Git Branching, Refined](https://gitbutler.com/)
+- [GitBucket](https://gitbucket.github.io/) — A Git platform
+- [GitButler](https://gitbutler.com/) — Git Branching, Refined
 - [Gitleaks](https://gitleaks.io/)
 - [Gitnuro](https://gitnuro.jetpackduba.com/)
 - [Gittyup](https://murmele.github.io/Gittyup/)
 - [GitUp](https://gitup.co/)
-- [GitWand](https://gitwand.devlint.fr/) / [🔗](https://github.com/devlint/GitWand)
-- [jesseduffield/lazygit: simple terminal UI for git commands](https://github.com/jesseduffield/lazygit) / [🔗](https://github.com/junegunn/fzf)
-- [lazygit - Simple Terminal UI for Git Commands](https://lazygit.dev/) / [🔗](https://github.com/jesseduffield/lazygit)
+- [GitWand](https://gitwand.devlint.fr/) / <a href="https://github.com/devlint/GitWand"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) / <a href="https://github.com/junegunn/fzf"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — simple terminal UI for git commands
+- [lazygit](https://lazygit.dev/) / <a href="https://github.com/jesseduffield/lazygit"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Simple Terminal UI for Git Commands
 - [maks/MGit · GitHub](https://github.com/maks/MGit)
-- [MGit – Google Play](https://play.google.com/store/apps/details?id=com.manichord.mgit)
+- [MGit](https://play.google.com/store/apps/details?id=com.manichord.mgit) — Google Play
 - [PolyGit](https://www.polygitapp.com/)
 - [Retcon](https://retcon.app/)
 - [SmartGit](https://www.syntevo.com/smartgit/)
-- [sourcegit-scm/sourcegit: Windows/macOS/Linux GUI client for GIT users](https://github.com/sourcegit-scm/sourcegit)
+- [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit) — Windows/macOS/Linux GUI client for GIT users
 - [Sourcetree](https://www.sourcetreeapp.com/)
 - [Sublime Merge](https://www.sublimemerge.com/)
-- [sumitLKpatel/gitsm: Git SSH Key Manager CLI](https://github.com/sumitLKpatel/gitsm)
+- [sumitLKpatel/gitsm](https://github.com/sumitLKpatel/gitsm) — Git SSH Key Manager CLI
 - [Thermal CodeCarrot](https://thermal.codecarrot.net/)
 - [TMate SubGit](https://subgit.com/)
 - [TortoiseGit](https://tortoisegit.org/)
@@ -2074,28 +2074,28 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [Working Copy](https://workingcopy.app/)
 
 ## Library (computing)
-- ⭐ **[Mesa - 3D Graphics Library](https://mesa3d.org/)** / [🔗](https://gitlab.freedesktop.org/mesa/mesa)
-- [{fmt}](https://fmt.dev/12.0/) / [🔗](https://github.com/fmtlib/fmt)
+- ⭐ **[Mesa](https://mesa3d.org/)** / <a href="https://gitlab.freedesktop.org/mesa/mesa"><img class="source-host-icon" src="/img/source-hosts/gitlab.svg" alt="GitLab" title="GitLab" width="14" height="14" loading="lazy"></a> — 3D Graphics Library
+- [{fmt}](https://fmt.dev/12.0/) / <a href="https://github.com/fmtlib/fmt"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [About CRDTs • Conflict-free Replicated Data Types](https://crdt.tech/)
-- [alexandercerutti/passkit-generator: The easiest way to generate custom Apple Wallet passes in Node.js](https://github.com/alexandercerutti/passkit-generator)
-- [Allegro - A game programming library](https://liballeg.org/)
+- [alexandercerutti/passkit-generator](https://github.com/alexandercerutti/passkit-generator) — The easiest way to generate custom Apple Wallet passes in Node.js
+- [Allegro](https://liballeg.org/) — A game programming library
 - [An OpenGL library](https://www.glfw.org/)
-- [Animate.css](https://animate.style/) / [🔗](https://github.com/animate-css/animate.css)
-- [anthropics/buffa: Rust implementation of protobuf with editions support, JSON serialization, and zero-copy views](https://github.com/anthropics/buffa)
-- [argtable - ANSI C command line parser](https://argtable.sourceforge.io/)
-- [Armadillo: C++ library](http://arma.sourceforge.net/)
+- [Animate.css](https://animate.style/) / <a href="https://github.com/animate-css/animate.css"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [anthropics/buffa](https://github.com/anthropics/buffa) — Rust implementation of protobuf with editions support, JSON serialization, and zero-copy views
+- [argtable](https://argtable.sourceforge.io/) — ANSI C command line parser
+- [Armadillo](http://arma.sourceforge.net/) — C++ library
 - [Automerge CRDT](https://automerge.org/)
-- [BirdbrainEngineer/lenia_ca: Core functionality for simulating Lenia system of cellular automata in Rust](https://github.com/BirdbrainEngineer/lenia_ca)
+- [BirdbrainEngineer/lenia_ca](https://github.com/BirdbrainEngineer/lenia_ca) — Core functionality for simulating Lenia system of cellular automata in Rust
 - [BlurHash](https://blurha.sh/)
 - [Boost C++ Libraries](https://www.boost.org/)
-- [ccxt - documentation](https://docs.ccxt.com/#/) / [🔗](https://github.com/ccxt/ccxt)
+- [ccxt](https://docs.ccxt.com/#/) / <a href="https://github.com/ccxt/ccxt"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — documentation
 - [Cinder](https://libcinder.org/)
 - [Curlie.io](https://curlie.io/)
-- [DanySK/conrec: Conrec is an algorithm for contouring surfaces. For more information see](https://github.com/DanySK/conrec)
-- [deck.gl](https://deck.gl/) / [🔗](https://github.com/visgl/deck.gl)
-- [DiceBear | Open Source Avatar Library](https://www.dicebear.com/)
+- [DanySK/conrec](https://github.com/DanySK/conrec) — Conrec is an algorithm for contouring surfaces. For more information see
+- [deck.gl](https://deck.gl/) / <a href="https://github.com/visgl/deck.gl"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [DiceBear](https://www.dicebear.com/) — Open Source Avatar Library
 - [DiceBear Avatars](https://avatars.dicebear.com/)
-- [Dokan - User mode file system](https://dokan-dev.github.io/)
+- [Dokan](https://dokan-dev.github.io/) — User mode file system
 - [enzo1982/mp4v2 · GitHub](https://github.com/enzo1982/mp4v2)
 - [Excalidraw Libraries](https://libraries.excalidraw.com/?theme=dark&sort=default)
 - [Eyevinn/mp4ff · GitHub](https://github.com/Eyevinn/mp4ff)
@@ -2103,53 +2103,53 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [FakerPHP / Faker](https://fakerphp.github.io/)
 - [FFmpeg/FFmpeg · GitHub](https://github.com/FFmpeg/FFmpeg)
 - [FreeType Project](https://freetype.org/)
-- [fukuchi/libqrencode: A fast and compact QR Code encoding library](https://github.com/fukuchi/libqrencode)
+- [fukuchi/libqrencode](https://github.com/fukuchi/libqrencode) — A fast and compact QR Code encoding library
 - [fzaninotto/Faker · GitHub](https://github.com/fzaninotto/Faker)
 - [ggerganov/imtui · GitHub](https://github.com/ggerganov/imtui)
 - [GNU MP Bignum Library](https://gmplib.org/)
 - [gRPC](https://grpc.io/)
 - [GStreamer / gstreamer · GitLab](https://gitlab.freedesktop.org/gstreamer/gstreamer)
-- [HeroTransitions: Transition library for iOS & tvOS · GitHub](https://github.com/HeroTransitions/Hero)
+- [HeroTransitions](https://github.com/HeroTransitions/Hero) — Transition library for iOS & tvOS · GitHub
 - [HTML-in-Canvas](https://html-in-canvas.dev/)
-- [hyper - fast and safe HTTP for the Rust language](https://hyper.rs/)
-- [inlang - The ecosystem to go global](https://inlang.com/)
+- [hyper](https://hyper.rs/) — fast and safe HTTP for the Rust language
+- [inlang](https://inlang.com/) — The ecosystem to go global
 - [JPEG Reference](https://jpegclub.org/reference/)
 - [JSON Placeholder](https://jsonplaceholder.typicode.com/)
-- [Json.NET - Newtonsoft](https://www.newtonsoft.com/json)
+- [Json.NET](https://www.newtonsoft.com/json) — Newtonsoft
 - [justdan96/tsMuxer · GitHub](https://github.com/justdan96/tsMuxer)
 - [KaTeX](https://katex.org/)
-- [Lenivaya/qrrs: CLI QR code generator and reader written in rust](https://github.com/Lenivaya/qrrs)
+- [Lenivaya/qrrs](https://github.com/Lenivaya/qrrs) — CLI QR code generator and reader written in rust
 - [LevelDB · GitHub](https://github.com/google/leveldb)
 - [Libexif C EXIF](https://libexif.github.io/)
 - [libostree](https://ostreedev.github.io/ostree/)
 - [Libpng.org](http://www.libpng.org/)
 - [LibreSSL](https://www.libressl.org/)
-- [libsdl-org/SDL: Simple Directmedia Layer](https://github.com/libsdl-org/SDL)
+- [libsdl-org/SDL](https://github.com/libsdl-org/SDL) — Simple Directmedia Layer
 - [Mantine.dev](https://mantine.dev/)
 - [Matroska-Org/libebml · GitHub](https://github.com/Matroska-Org/libebml)
-- [Matroska-Org/libmatroska: a C++ libary to parse Matroska files (.mkv and .mka)](https://github.com/Matroska-Org/libmatroska)
-- [mbunkus/mkvtoolnix - Codeberg](https://codeberg.org/mbunkus/mkvtoolnix)
+- [Matroska-Org/libmatroska](https://github.com/Matroska-Org/libmatroska) — a C++ libary to parse Matroska files (.mkv and .mka)
+- [mbunkus/mkvtoolnix](https://codeberg.org/mbunkus/mkvtoolnix) — Codeberg
 - [Meson Build system](https://mesonbuild.com/)
-- [mikepenz/multiplatform-markdown-renderer: Markdown renderer for Kotlin Multiplatform Projects (Android, iOS, Desktop), using Compose.](https://github.com/mikepenz/multiplatform-markdown-renderer)
-- [miquels/mp4: MP4 library, CLI tool, server](https://github.com/miquels/mp4)
-- [MobX 🇺🇦](https://mobx.js.org/README.html) / [🔗](https://github.com/mobxjs/mobx)
-- [MUI: The React component library](https://mui.com/)
+- [mikepenz/multiplatform-markdown-renderer](https://github.com/mikepenz/multiplatform-markdown-renderer) — Markdown renderer for Kotlin Multiplatform Projects (Android, iOS, Desktop), using Compose.
+- [miquels/mp4](https://github.com/miquels/mp4) — MP4 library, CLI tool, server
+- [MobX 🇺🇦](https://mobx.js.org/README.html) / <a href="https://github.com/mobxjs/mobx"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [MUI](https://mui.com/) — The React component library
 - [Nx Cloud](https://nx.app/)
 - [OpenCSV](http://opencsv.sourceforge.net/)
-- [OpenNN | Open Neural Networks Library](https://www.opennn.net/)
+- [OpenNN](https://www.opennn.net/) — Open Neural Networks Library
 - [OpenSSL](https://www.openssl.org/)
-- [Opis | PHP libraries](https://opis.io/)
-- [Pagefind — Static low-bandwidth search at scale](https://pagefind.app/)
+- [Opis](https://opis.io/) — PHP libraries
+- [Pagefind](https://pagefind.app/) — Static low-bandwidth search at scale
 - [Poppler](https://poppler.freedesktop.org/)
 - [Press.css](https://press-css.io/)
 - [PROJ.org](https://proj.org/)
 - [Puma.io](https://puma.io/)
 - [Pure CSS](https://purecss.io/)
-- [SDWebImage Home | Documentation](https://sdwebimage.github.io/)
-- [segment-boneyard/nightmare: A high-level browser automation library.](https://github.com/segment-boneyard/nightmare)
+- [SDWebImage Home](https://sdwebimage.github.io/) — Documentation
+- [segment-boneyard/nightmare](https://github.com/segment-boneyard/nightmare) — A high-level browser automation library.
 - [Shark Machine Learning Library](https://www.shark-ml.org/)
 - [Skia.org](https://skia.org/)
-- [skip2/go-qrcode: :sparkles: QR Code encoder (Go)](https://github.com/skip2/go-qrcode/)
+- [skip2/go-qrcode](https://github.com/skip2/go-qrcode/) — :sparkles: QR Code encoder (Go)
 - [Spacenav](http://spacenav.sourceforge.net/)
 - [Stumpless · GitHub](https://goatshriek.github.io/stumpless/)
 - [The WebM Project](https://www.webmproject.org/)
@@ -2157,82 +2157,82 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [webmproject/libwebp · GitHub](https://github.com/webmproject/libwebp)
 - [WiX toolset](https://wixtoolset.org/)
 - [wolfSSL](https://www.wolfssl.com/)
-- [xyflow - Node Based UIs for React and Svelte](https://www.xyflow.com/)
+- [xyflow](https://www.xyflow.com/) — Node Based UIs for React and Svelte
 - [YUI Library](https://clarle.github.io/yui3)
 - [Zustand](https://zustand-demo.pmnd.rs/)
 
 ### Python Library
-- ⭐ **[abb128/april-asr: Speech-to-text library in C](https://github.com/abb128/april-asr/)**
-- [abseil.io - C++ library](https://abseil.io/)
-- [ampl/mp: An open-source library for mathematical programming](https://github.com/ampl/mp)
-- [Authlib](https://authlib.org/) / [🔗](https://github.com/authlib/authlib)
-- [CuPy](https://cupy.dev/) / [🔗](https://github.com/cupy/cupy/)
-- [Datashader](https://datashader.org/) / [🔗](https://github.com/holoviz/datashader)
-- [DataTables | Table plug-in for jQuery](https://datatables.net/)
+- ⭐ **[abb128/april-asr](https://github.com/abb128/april-asr/)** — Speech-to-text library in C
+- [abseil.io](https://abseil.io/) — C++ library
+- [ampl/mp](https://github.com/ampl/mp) — An open-source library for mathematical programming
+- [Authlib](https://authlib.org/) / <a href="https://github.com/authlib/authlib"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [CuPy](https://cupy.dev/) / <a href="https://github.com/cupy/cupy/"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Datashader](https://datashader.org/) / <a href="https://github.com/holoviz/datashader"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [DataTables](https://datatables.net/) — Table plug-in for jQuery
 - [dlib C++ Library](http://dlib.net/)
-- [drobilla/zix: A lightweight C library of portability wrappers and data structures](https://github.com/drobilla/zix)
+- [drobilla/zix](https://github.com/drobilla/zix) — A lightweight C library of portability wrappers and data structures
 - [Dulwich](https://www.dulwich.io/)
-- [DyNet: The Dynamic Neural Network Toolkit](https://github.com/clab/dynet)
-- [FANN - FANN](https://leenissen.dk/fann/wp/)
+- [DyNet](https://github.com/clab/dynet) — The Dynamic Neural Network Toolkit
+- [FANN](https://leenissen.dk/fann/wp/) — FANN
 - [FastRTC](https://fastrtc.org/)
 - [GDAL](https://gdal.org/)
-- [GeoPy](https://geopy.readthedocs.io/en/stable/) / [🔗](https://github.com/geopy/geopy)
-- [ggerganov/ggml: Tensor library for machine learning](https://github.com/ggerganov/ggml)
-- [gpac/gpac: GPAC Ultramedia OSS for Video Streaming & Next-Gen Multimedia Transcoding, Packaging & Delivery](https://github.com/gpac/gpac)
-- [h2oai/wave: Realtime Web Apps and Dashboards for Python and R](https://github.com/h2oai/wave)
+- [GeoPy](https://geopy.readthedocs.io/en/stable/) / <a href="https://github.com/geopy/geopy"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [ggerganov/ggml](https://github.com/ggerganov/ggml) — Tensor library for machine learning
+- [gpac/gpac](https://github.com/gpac/gpac) — GPAC Ultramedia OSS for Video Streaming & Next-Gen Multimedia Transcoding, Packaging & Delivery
+- [h2oai/wave](https://github.com/h2oai/wave) — Realtime Web Apps and Dashboards for Python and R
 - [Igraph.org](https://igraph.org/)
-- [Inqlude - The Qt library archive](https://inqlude.org/)
+- [Inqlude](https://inqlude.org/) — The Qt library archive
 - [JSON C++](https://github.com/open-source-parsers/jsoncpp)
-- [kandi: find open source libraries, code snippets](https://kandi.openweaver.com/)
+- [kandi](https://kandi.openweaver.com/) — find open source libraries, code snippets
 - [Libbitcoin](https://libbitcoin.info/)
 - [libimobiledevice](https://libimobiledevice.org/)
 - [Manim Community](https://www.manim.community/)
 - [mapbox/delaunator · GitHub](https://github.com/mapbox/delaunator)
-- [marimo | a next-generation Python notebook](https://marimo.io/) / [🔗](https://github.com/marimo-team)
+- [marimo](https://marimo.io/) / <a href="https://github.com/marimo-team"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — a next-generation Python notebook
 - [masastack/MASA.Blazor · GitHub](https://github.com/masastack/MASA.Blazor)
-- [Matplotlib - Visualization with Python](https://matplotlib.org/) / [🔗](https://github.com/matplotlib/matplotlib)
+- [Matplotlib](https://matplotlib.org/) / <a href="https://github.com/matplotlib/matplotlib"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Visualization with Python
 - [mlpack.org](https://www.mlpack.org/)
 - [NetworkX.org](https://networkx.org/)
-- [NLTK: Natural Language Toolkit](https://www.nltk.org/)
+- [NLTK](https://www.nltk.org/) — Natural Language Toolkit
 - [Open Graph protocol](https://ogp.me/)
 - [Open-location-code · GitHub](https://github.com/google/open-location-code)
 - [OpenSlide](https://openslide.org/)
 - [OpenVDB](https://www.openvdb.org/)
 - [Pallets Projects](https://palletsprojects.com/)
-- [pandas - Python Data Analysis Library](https://pandas.pydata.org/)
+- [pandas](https://pandas.pydata.org/) — Python Data Analysis Library
 - [Pooch](https://www.fatiando.org/pooch/latest/)
 - [Prism JS](https://prismjs.com/index.html)
 - [pyglet](https://pyglet.org/)
 - [PyGObject](https://pygobject.gnome.org/)
 - [Python Pillow](https://python-pillow.org/)
-- [Python Prompt Toolkit](https://python-prompt-toolkit.readthedocs.io/en/3.0.52/) / [🔗](https://github.com/prompt-toolkit/python-prompt-toolkit)
+- [Python Prompt Toolkit](https://python-prompt-toolkit.readthedocs.io/en/3.0.52/) / <a href="https://github.com/prompt-toolkit/python-prompt-toolkit"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [ReactiveX](https://reactivex.io/)
-- [Riot.js — Simple and elegant component-based UI library](https://riot.js.org/)
-- [RQ: Redis Queue](https://python-rq.org/)
+- [Riot.js](https://riot.js.org/) — Simple and elegant component-based UI library
+- [RQ](https://python-rq.org/) — Redis Queue
 - [Simple DirectMedia Layer](https://www.libsdl.org/)
 - [spotipy-dev/spotipy · GitHub](https://github.com/spotipy-dev/spotipy)
 - [SymPy](https://www.sympy.org/en/index.html)
 - [The Algorithms](https://the-algorithms.com/)
 - [Underscore.js](https://underscorejs.org/)
 - [webmproject/libwebm · GitHub](https://github.com/webmproject/libwebm)
-- [zauberzeug/nicegui: Create web-based user interfaces with Python](https://github.com/zauberzeug/nicegui)
+- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) — Create web-based user interfaces with Python
 - [zlib.net](https://zlib.net/)
 
 ### JS Library
-- ⭐ **[Anime.js - JavaScritp Animation Engine](https://animejs.com/)**
-- ⭐ **[antvis/G6: A Graph Visualization Framework in JavaScript](https://github.com/antvis/G6)**
+- ⭐ **[Anime.js](https://animejs.com/)** — JavaScritp Animation Engine
+- ⭐ **[antvis/G6](https://github.com/antvis/G6)** — A Graph Visualization Framework in JavaScript
 - ⭐ **[D3.js](https://d3js.org/)**
-- [AG Grid - High-Performance React Grid, Angular Grid, JavaScript Grid](https://www.ag-grid.com/)
+- [AG Grid](https://www.ag-grid.com/) — High-Performance React Grid, Angular Grid, JavaScript Grid
 - [apvarun/toastify-js · GitHub](https://github.com/apvarun/toastify-js)
-- [AR.js - AR on the web](https://ar-js-org.github.io/AR.js/)
-- [Atropos - Stunning touch-friendly 3D parallax hover effects](https://atroposjs.com/)
+- [AR.js](https://ar-js-org.github.io/AR.js/) — AR on the web
+- [Atropos](https://atroposjs.com/) — Stunning touch-friendly 3D parallax hover effects
 - [Auth.js](https://authjs.dev/)
 - [Chart.js](https://www.chartjs.org/)
-- [cheerio | The industry standard for working with HTML in JavaScript](https://cheerio.js.org/)
+- [cheerio](https://cheerio.js.org/) — The industry standard for working with HTML in JavaScript
 - [chenglou/pretext · GitHub](https://github.com/chenglou/pretext)
-- [Closure Tools | Google for Developers](https://developers.google.com/closure/)
-- [cola.js: Constraint-based Layout in the Browser](https://ialab.it.monash.edu/webcola/) / [🔗](https://github.com/tgdwyer/WebCola)
-- [core-js](https://core-js.io/) / [🔗](https://github.com/zloirock/core-js)
+- [Closure Tools](https://developers.google.com/closure/) — Google for Developers
+- [cola.js](https://ialab.it.monash.edu/webcola/) / <a href="https://github.com/tgdwyer/WebCola"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Constraint-based Layout in the Browser
+- [core-js](https://core-js.io/) / <a href="https://github.com/zloirock/core-js"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [D3 Graph Gallery](https://www.d3-graph-gallery.com/)
 - [Date Utility Library](https://date-fns.org/)
 - [Day.js · 2kB JavaScript date utility library](https://day.js.org/)
@@ -2241,30 +2241,30 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [Dracula Graph Library](https://www.graphdracula.net/)
 - [Drag & Drop • by FormKit](https://drag-and-drop.formkit.com/)
 - [Dropzone.js](https://www.dropzone.dev/)
-- [Falcor: One Model Everywhere](https://netflix.github.io/falcor/) / [🔗](https://github.com/Netflix/falcor)
-- [Floating UI - Create tooltips, popovers, dropdowns, and more](https://floating-ui.com/)
-- [Fotorama — Simple and Powerful Responsive jQuery Image Gallery](https://fotorama.io/)
-- [FullCalendar - JavaScript Event Calendar](https://fullcalendar.io/)
+- [Falcor](https://netflix.github.io/falcor/) / <a href="https://github.com/Netflix/falcor"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — One Model Everywhere
+- [Floating UI](https://floating-ui.com/) — Create tooltips, popovers, dropdowns, and more
+- [Fotorama](https://fotorama.io/) — Simple and Powerful Responsive jQuery Image Gallery
+- [FullCalendar](https://fullcalendar.io/) — JavaScript Event Calendar
 - [Fuse.js](https://fusejs.io/)
 - [GeoJS](https://www.geojs.io/)
 - [Gio.js](https://giojs.org/)
-- [GoJS - Build Interactive Diagrams for the Web](https://gojs.net/latest/index.html)
-- [GoJS - GitHub](https://github.com/NorthwoodsSoftware/GoJS)
+- [GoJS](https://gojs.net/latest/index.html) — Build Interactive Diagrams for the Web
+- [GoJS](https://github.com/NorthwoodsSoftware/GoJS) — GitHub
 - [GreenSock](https://greensock.com/)
-- [GSAP](https://gsap.com/) / [🔗](https://github.com/greensock/gsap)
-- [Hammer.JS](https://hammerjs.github.io/) / [🔗](https://github.com/hammerjs/hammer.js)
-- [hls.js demo](https://hlsjs.video-dev.org/demo/) / [🔗](https://github.com/video-dev/hls.js/)
-- [howler.js - JS for audio](https://howlerjs.com/)
+- [GSAP](https://gsap.com/) / <a href="https://github.com/greensock/gsap"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Hammer.JS](https://hammerjs.github.io/) / <a href="https://github.com/hammerjs/hammer.js"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [hls.js demo](https://hlsjs.video-dev.org/demo/) / <a href="https://github.com/video-dev/hls.js/"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [howler.js](https://howlerjs.com/) — JS for audio
 - [html2app • Convert HTML5 Projects to Native Apps](https://html2app.dev/)
 - [Inferno JS](https://www.infernojs.org/)
 - [jQuery](https://jquery.com/)
 - [jQuery UI](https://jqueryui.com/)
-- [jsPlumb Toolkit - build connectivity quickly](https://jsplumbtoolkit.com/)
+- [jsPlumb Toolkit](https://jsplumbtoolkit.com/) — build connectivity quickly
 - [jspreadsheets](https://jspreadsheets.com/)
-- [Knex.js - SQL Query Builder for Javascript](https://knexjs.org/)
+- [Knex.js](https://knexjs.org/) — SQL Query Builder for Javascript
 - [Knockout JS](https://knockoutjs.com/)
 - [Laws of Form React Library](https://lof-react.web.app/)
-- [Leaflet - a JavaScript library for interactive maps](https://leafletjs.com/) / [🔗](http://github.com/Leaflet/Leaflet)
+- [Leaflet](https://leafletjs.com/) / <a href="http://github.com/Leaflet/Leaflet"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — a JavaScript library for interactive maps
 - [Leaflet/Leaflet · GitHub](https://github.com/Leaflet/Leaflet)
 - [Lit](https://lit.dev/)
 - [Lodash](https://lodash.com/)
@@ -2273,97 +2273,97 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [MathJax](https://www.mathjax.org/)
 - [MathJax](https://www.mathjax.org/#about)
 - [Mithril.js](https://mithril.js.org/)
-- [Nerdamer | Symbolic Math for Javascript](https://nerdamer.com/)
-- [Nub — an all-in-one toolkit for Node.js](https://nubjs.com/) / [🔗](https://github.com/nubjs/nub)
+- [Nerdamer](https://nerdamer.com/) — Symbolic Math for Javascript
+- [Nub](https://nubjs.com/) / <a href="https://github.com/nubjs/nub"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — an all-in-one toolkit for Node.js
 - [Nue / Frontend troublesolver](https://nuejs.org/)
 - [openglobus/openglobus · GitHub](https://github.com/openglobus/openglobus)
 - [p5.js](https://p5js.org/)
-- [pako JS](https://nodeca.github.io/pako/) / [🔗](https://github.com/nodeca/pako)
+- [pako JS](https://nodeca.github.io/pako/) / <a href="https://github.com/nodeca/pako"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [party.js](https://party.js.org/)
-- [Passport.js](https://www.passportjs.org/) / [🔗](https://github.com/jaredhanson/passport)
+- [Passport.js](https://www.passportjs.org/) / <a href="https://github.com/jaredhanson/passport"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [PeerJS](https://peerjs.com/)
 - [PhotoSwipe](https://photoswipe.com/)
-- [PlayerJS - Video & Audio Player Builder](https://playerjs.com/)
+- [PlayerJS](https://playerjs.com/) — Video & Audio Player Builder
 - [Preact](https://preactjs.com/)
 - [Pug JS](https://pugjs.org/api/getting-started.html)
 - [RaphaëlJS](http://raphaeljs.com/)
 - [RDF JavaScript Libraries](https://rdf.js.org/)
 - [React JS](https://react.dev/)
 - [Redux JS](https://redux.js.org/)
-- [remark - markdown processor powered by plugins](https://remark.js.org/)
-- [RxJS](https://rxjs.dev/) / [🔗](https://github.com/ReactiveX/rxjs)
+- [remark](https://remark.js.org/) — markdown processor powered by plugins
+- [RxJS](https://rxjs.dev/) / <a href="https://github.com/ReactiveX/rxjs"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [Server.js](https://serverjs.io/)
 - [SmilesDrawer](https://smilesdrawer.surge.sh/)
-- [Socket.IO](https://socket.io/) / [🔗](https://github.com/socketio/socket.io)
+- [Socket.IO](https://socket.io/) / <a href="https://github.com/socketio/socket.io"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [SolidJS](https://www.solidjs.com/)
-- [Swiper - The Most Modern Mobile Touch Slider](https://swiperjs.com/)
+- [Swiper](https://swiperjs.com/) — The Most Modern Mobile Touch Slider
 - [Tailwind CSS Animated](https://www.tailwindcss-animated.com/)
-- [Terser](https://terser.org/) / [🔗](https://github.com/terser/terser)
-- [Three.js](https://threejs.org/) / [🔗](https://github.com/mrdoob/three.js)
-- [Turf.js - Advanced geospatial toolkit for Typescript](https://turfjs.org/) / [🔗](https://github.com/turfjs/turf)
+- [Terser](https://terser.org/) / <a href="https://github.com/terser/terser"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Three.js](https://threejs.org/) / <a href="https://github.com/mrdoob/three.js"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Turf.js](https://turfjs.org/) / <a href="https://github.com/turfjs/turf"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Advanced geospatial toolkit for Typescript
 - [Vanta JS](https://www.vantajs.com/)
 - [vue-chartjs](https://vue-chartjs.org/)
-- [Webix: JavaScript UI Library](https://webix.com/)
-- [YusufB5/ASCILINE: A high-performance, real-time ASCII video rendering engine. Streams binary-encoded frames via WebSockets for ultra-low latency, 30 FPS playback using HTML5 Canvas and requestAnimationFrame](https://github.com/YusufB5/ASCILINE)
+- [Webix](https://webix.com/) — JavaScript UI Library
+- [YusufB5/ASCILINE](https://github.com/YusufB5/ASCILINE) — A high-performance, real-time ASCII video rendering engine. Streams binary-encoded frames via WebSockets for ultra-low latency, 30 FPS playback using HTML5 Canvas and requestAnimationFrame
 - [zloirock/core-js · GitHub](https://github.com/zloirock/core-js)
 
 ### CSS Library
-- [Animista - On-Demand CSS Animations Library](https://animista.net/)
+- [Animista](https://animista.net/) — On-Demand CSS Animations Library
 - [Ant Design Charts](https://charts.ant.design/)
-- [BEM — Block Element Modifier](https://getbem.com/) / [🔗](https://github.com/getbem/getbem.github.io)
+- [BEM](https://getbem.com/) / <a href="https://github.com/getbem/getbem.github.io"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Block Element Modifier
 - [Bootstrap](https://getbootstrap.com/)
-- [Clippy — CSS clip-path maker](https://bennettfeely.com/clippy/)
+- [Clippy](https://bennettfeely.com/clippy/) — CSS clip-path maker
 - [CSS Layout Generator](https://layout.bradwoods.io/)
-- [CSS-Peeps | One CSS file](https://css-peeps.com/)
+- [CSS-Peeps](https://css-peeps.com/) — One CSS file
 - [Cube css](https://cube.fyi/)
-- [daisyUI - Tailwind CSS Components](https://daisyui.com/)
-- [Emotion – Introduction](https://emotion.sh/docs/introduction) / [🔗](https://github.com/emotion-js/emotion)
+- [daisyUI](https://daisyui.com/) — Tailwind CSS Components
+- [Emotion](https://emotion.sh/docs/introduction) / <a href="https://github.com/emotion-js/emotion"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Introduction
 - [MSHR](https://www.mshr.app/)
-- [Neumorphism - CSS shadow generator](https://neumorphism.io/#e0e0e0)
+- [Neumorphism](https://neumorphism.io/#e0e0e0) — CSS shadow generator
 - [PostCSS](https://postcss.org/)
 - [postcss.parts](https://www.postcss.parts/)
-- [React Email](https://react.email/) / [🔗](https://github.com/resend/react-email)
+- [React Email](https://react.email/) / <a href="https://github.com/resend/react-email"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [React Resources](https://reactresources.com/)
-- [Tailwind CSS Animations Plugin: Community-Powered Animation Magic](https://tailwind-animations.com/) / [🔗](https://github.com/midudev/tailwind-animations)
+- [Tailwind CSS Animations Plugin](https://tailwind-animations.com/) / <a href="https://github.com/midudev/tailwind-animations"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Community-Powered Animation Magic
 - [TailwindCSS](https://tailwind-elements.com/)
 - [Universe of UI](https://uiverse.io/)
-- [UnoCSS](https://unocss.dev/) / [🔗](https://github.com/unocss/unocss)
+- [UnoCSS](https://unocss.dev/) / <a href="https://github.com/unocss/unocss"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [Windi CSS](https://windicss.org/)
 
 ### UI Component
-- ⭐ **[shadcn/ui - Build your Component Library](https://ui.shadcn.com/)**
-- [21st - Craft with AI](https://21st.dev/home)
-- [Angular Material](https://material.angular.dev/) / [🔗](https://github.com/angular/components)
-- [Ant Design](https://ant.design/) / [🔗](https://github.com/ant-design/ant-design)
+- ⭐ **[shadcn/ui](https://ui.shadcn.com/)** — Build your Component Library
+- [21st](https://21st.dev/home) — Craft with AI
+- [Angular Material](https://material.angular.dev/) / <a href="https://github.com/angular/components"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Ant Design](https://ant.design/) / <a href="https://github.com/ant-design/ant-design"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [Appsmith](https://www.appsmith.com/)
-- [Best Landing Page Examples - btw.so](https://www.btw.so/marketing/landing-page-examples)
+- [Best Landing Page Examples](https://www.btw.so/marketing/landing-page-examples) — btw.so
 - [Chakra UI](https://chakra-ui.com/)
 - [Component Party](https://component-party.dev/)
-- [DevExtreme - JS UI Components](https://js.devexpress.com/)
+- [DevExtreme](https://js.devexpress.com/) — JS UI Components
 - [flatpickr](https://flatpickr.js.org/)
 - [Headless UI](https://headlessui.com/)
-- [Once UI: The open-source stack for indie creators](https://once-ui.com/)
-- [primefaces/primevue: Next Generation Vue UI Component Library](https://github.com/primefaces/primevue)
-- [PrimeVue - Vue UI Component Library](https://primevue.org/)
+- [Once UI](https://once-ui.com/) — The open-source stack for indie creators
+- [primefaces/primevue](https://github.com/primefaces/primevue) — Next Generation Vue UI Component Library
+- [PrimeVue](https://primevue.org/) — Vue UI Component Library
 - [Radix UI](https://www.radix-ui.com/)
 - [React Bits](https://reactbits.dev/)
 - [Semantic UI](https://semantic-ui.com/)
-- [shadcn-ui/ui: Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.](https://github.com/shadcn-ui/ui)
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) — Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 - [SVG Artista](https://svgartista.net/)
 - [SweetAlert2](https://sweetalert2.github.io/)
 - [Tailwind UI](https://tailwindui.com/)
-- [tweakcn | Theme Editor & Generator](https://tweakcn.com/)
+- [tweakcn](https://tweakcn.com/) — Theme Editor & Generator
 - [v0 by Vercel](https://v0.dev/)
-- [Webix - Code Snippet](https://snippet.webix.com/basic)
-- [Webix - Snippets](https://snippet.webix.com/gallery/core/hr77egxf)
-- [Webix - UI Designer](https://designer.webix.com/top/project.all)
+- [Webix](https://snippet.webix.com/basic) — Code Snippet
+- [Webix](https://snippet.webix.com/gallery/core/hr77egxf) — Snippets
+- [Webix](https://designer.webix.com/top/project.all) — UI Designer
 - [Xterm.js](https://xtermjs.org/)
 
 ## Local Development
-- ⭐ **[Laragon](https://laragon.org/)** / [🔗](https://github.com/leokhoa/laragon)
-- ⭐ **[XAMPP - Apache Friends](https://www.apachefriends.org/)**
-- [Bearsampp](https://bearsampp.com/) / [🔗](https://github.com/Bearsampp/Bearsampp)
-- [FrankenPHP: the modern PHP app server](https://frankenphp.dev/)
+- ⭐ **[Laragon](https://laragon.org/)** / <a href="https://github.com/leokhoa/laragon"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- ⭐ **[XAMPP](https://www.apachefriends.org/)** — Apache Friends
+- [Bearsampp](https://bearsampp.com/) / <a href="https://github.com/Bearsampp/Bearsampp"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [FrankenPHP](https://frankenphp.dev/) — the modern PHP app server
 - [gdbgui](https://www.gdbgui.com/)
 - [LAMP](https://lamp.sh/)
 - [Laravel Herd](https://herd.laravel.com/)
@@ -2375,135 +2375,135 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 
 ## Scrapper
 - [Ninja Ripper Official Website](https://www.ninjaripper.com/)
-- [Noesis - Rich Whitehouse](https://richwhitehouse.com/index.php?content=inc_projects.php&showproject=91)
+- [Noesis](https://richwhitehouse.com/index.php?content=inc_projects.php&showproject=91) — Rich Whitehouse
 
 ### Web Scrapper
-- ⭐ **[Scrapy | A Fast and Powerful Scraping and Web Crawling Framework](https://scrapy.org/)** / [🔗](https://github.com/scrapy/scrapy)
-- ⭐ **[Spider Free - The simplest web scraper](https://chrome.google.com/webstore/detail/spider-free-the-simplest/hhblpocflefpmmfibmajdfcjdkeafpen)**
-- ⭐ **[Web Scraper - The #1 web scraping extension](https://webscraper.io/)**
+- ⭐ **[Scrapy](https://scrapy.org/)** / <a href="https://github.com/scrapy/scrapy"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — A Fast and Powerful Scraping and Web Crawling Framework
+- ⭐ **[Spider Free](https://chrome.google.com/webstore/detail/spider-free-the-simplest/hhblpocflefpmmfibmajdfcjdkeafpen)** — The simplest web scraper
+- ⭐ **[Web Scraper](https://webscraper.io/)** — The #1 web scraping extension
 - ⭐ **[Webscrapbook · GitHub](https://github.com/danny0838/webscrapbook)**
 - [alealvb/rae-scraper · GitHub](https://github.com/alealvb/rae-scraper)
-- [apurvsinghgautam/robin: AI-Powered Dark Web OSINT Tool](https://github.com/apurvsinghgautam/robin)
+- [apurvsinghgautam/robin](https://github.com/apurvsinghgautam/robin) — AI-Powered Dark Web OSINT Tool
 - [Aves API](https://avesapi.com/)
 - [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/)
 - [Bright Data](https://brightdata.com/)
-- [browse.ai | Scrape and Monitor Data from Any Website](https://www.browse.ai/)
+- [browse.ai](https://www.browse.ai/) — Scrape and Monitor Data from Any Website
 - [Browserless](https://www.browserless.io/)
 - [ChromeDriver](https://chromedriver.chromium.org/)
-- [Decodo (Formerly Smartproxy) | Official Website & Login](https://decodo.com/)
-- [Diffbot | Knowledge Graph, AI Web Data Extraction and Crawling](https://www.diffbot.com/)
-- [facundoolano/google-play-scraper: Node.js scraper to get data from Google Play](https://github.com/facundoolano/google-play-scraper)
+- [Decodo (Formerly Smartproxy)](https://decodo.com/) — Official Website & Login
+- [Diffbot](https://www.diffbot.com/) — Knowledge Graph, AI Web Data Extraction and Crawling
+- [facundoolano/google-play-scraper](https://github.com/facundoolano/google-play-scraper) — Node.js scraper to get data from Google Play
 - [GChristensen/scrapyard · GitHub](https://github.com/GChristensen/scrapyard)
-- [hhursev/recipe-scrapers: Python package for scraping recipes data](https://github.com/hhursev/recipe-scrapers)
-- [mishushakov/llm-scraper: Turn any webpage into structured data using LLMs](https://github.com/mishushakov/llm-scraper)
+- [hhursev/recipe-scrapers](https://github.com/hhursev/recipe-scrapers) — Python package for scraping recipes data
+- [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper) — Turn any webpage into structured data using LLMs
 - [Octoparse](https://www.octoparse.com/)
-- [Parse - Data from Anywhere](https://www.parse.bot/)
-- [ParseHub | Free web scraping](https://www.parsehub.com/)
-- [Puppeteer](https://pptr.dev/) / [🔗](https://github.com/puppeteer/puppeteer)
-- [Pydoll - scraping, the easier way](https://pydoll.tech/) / [🔗](https://github.com/autoscrape-labs/pydoll)
+- [Parse](https://www.parse.bot/) — Data from Anywhere
+- [ParseHub](https://www.parsehub.com/) — Free web scraping
+- [Puppeteer](https://pptr.dev/) / <a href="https://github.com/puppeteer/puppeteer"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Pydoll](https://pydoll.tech/) / <a href="https://github.com/autoscrape-labs/pydoll"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — scraping, the easier way
 - [Reworkd AI](https://www.reworkd.ai/)
-- [saifyxpro/HeadlessX: A lightweight, self-hosted headless browser automation platform. Designed as an alternative to Browserless, built for speed, privacy, and scalability.](https://github.com/SaifyXPRO/HeadlessX)
-- [ScrapBee – Firefox](https://addons.mozilla.org/en-US/firefox/addon/scrapbee/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+- [saifyxpro/HeadlessX](https://github.com/SaifyXPRO/HeadlessX) — A lightweight, self-hosted headless browser automation platform. Designed as an alternative to Browserless, built for speed, privacy, and scalability.
+- [ScrapBee](https://addons.mozilla.org/en-US/firefox/addon/scrapbee/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) — Firefox
 - [Scrape.do](https://scrape.do/)
 - [ScrapeGraphAI](https://scrapegraphai.com/)
-- [ScraperAPI - The Proxy API For Web Scraping](https://www.scraperapi.com/)
+- [ScraperAPI](https://www.scraperapi.com/) — The Proxy API For Web Scraping
 - [Scrapestack](https://scrapestack.com/)
 - [ScrapingBee](https://www.scrapingbee.com/)
 - [Scrapingdog](https://www.scrapingdog.com/)
-- [scrapinghub/portia: Visual scraping for Scrapy](https://github.com/scrapinghub/portia)
-- [Scrapyard Bookmarks – Firefox](https://addons.mozilla.org/en-US/firefox/addon/scrapyard/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+- [scrapinghub/portia](https://github.com/scrapinghub/portia) — Visual scraping for Scrapy
+- [Scrapyard Bookmarks](https://addons.mozilla.org/en-US/firefox/addon/scrapyard/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) — Firefox
 - [Selenium](https://www.selenium.dev/)
 - [Spider Pro](https://tryspider.com/)
-- [Surfer - Personal data scraper](https://surfsup.ai/)
-- [Ultimate Web Scraper - Easy Data Scraper](https://ultimatewebscraper.com/)
+- [Surfer](https://surfsup.ai/) — Personal data scraper
+- [Ultimate Web Scraper](https://ultimatewebscraper.com/) — Easy Data Scraper
 - [ultrafunkamsterdam/undetected-chromedriver · GitHub](https://github.com/UltrafunkAmsterdam/undetected-chromedriver)
-- [Vaazo | Web Scraping and Automation tool](https://vaazo.com/)
-- [WFDownloader App - Free bulk image downloader and multi-purpose bulk downloader](https://www.wfdownloader.xyz/)
+- [Vaazo](https://vaazo.com/) — Web Scraping and Automation tool
+- [WFDownloader App](https://www.wfdownloader.xyz/) — Free bulk image downloader and multi-purpose bulk downloader
 
 ## Terminal Emulator
 - ⭐ **[Alacritty](https://alacritty.org/)**
 - ⭐ **[KDE Konsole](https://konsole.kde.org/)**
 - ⭐ **[kitty terminal](https://sw.kovidgoyal.net/kitty/)**
-- ⭐ **[Tabby - a terminal for a modern age](https://tabby.sh/)**
+- ⭐ **[Tabby](https://tabby.sh/)** — a terminal for a modern age
 - [Black Box · GitLab](https://gitlab.gnome.org/raggesilver/blackbox)
-- [boxi | Terminal emulator for use with Toolbox](https://boxi.dev/)
+- [boxi](https://boxi.dev/) — Terminal emulator for use with Toolbox
 - [Cmder](https://cmder.net/)
-- [cmux — The terminal built for multitasking](https://www.cmux.dev/) / [🔗](https://github.com/manaflow-ai/cmux)
+- [cmux](https://www.cmux.dev/) / <a href="https://github.com/manaflow-ai/cmux"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — The terminal built for multitasking
 - [Command Line Interface](https://librecrypt.tdksoft.co.uk/)
-- [ConEmu - Handy Windows Terminal](https://conemu.github.io/)
-- [ermoraDev/termora: Termora is a terminal emulator and SSH client for Windows, macOS and Linux](https://github.com/TermoraDev/termora)
+- [ConEmu](https://conemu.github.io/) — Handy Windows Terminal
+- [ermoraDev/termora](https://github.com/TermoraDev/termora) — Termora is a terminal emulator and SSH client for Windows, macOS and Linux
 - [Fig.io](https://fig.io/)
-- [foot - Codeberg](https://codeberg.org/dnkl/foot)
+- [foot](https://codeberg.org/dnkl/foot) — Codeberg
 - [Ghostty](https://ghostty.org/)
 - [Glow MD · GitHub](https://github.com/charmbracelet/glow)
 - [gnunn1/tilix · GitHub](https://github.com/gnunn1/tilix/)
-- [Herdr: one terminal for the whole herd](https://herdr.dev/) / [🔗](https://github.com/ogulcancelik/herdr)
+- [Herdr](https://herdr.dev/) / <a href="https://github.com/ogulcancelik/herdr"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — one terminal for the whole herd
 - [Hyper.is](https://hyper.is/)
 - [iTerm2](https://iterm2.com/)
 - [microsoft/terminal · GitHub](https://github.com/microsoft/terminal)
 - [MobaXterm](https://mobaxterm.mobatek.net/)
 - [MS WSL](https://docs.microsoft.com/en-us/windows/wsl/)
-- [Otty — A native, beautiful terminal app](https://otty.sh/)
-- [PuTTY: a free SSH and Telnet client](https://www.chiark.greenend.org.uk/~sgtatham/putty/)
-- [Ratty — A GPU-rendered terminal emulator with inline 3D graphics 🐀🧀](https://ratty-term.org/) / [🔗](https://github.com/orhun/ratty)
-- [RMUX - The Multiplexer Engine for Agents](https://rmux.io/)
-- [RohitKushvaha01/ReTerminal: A Simple Android Terminal Emulator](https://github.com/RohitKushvaha01/ReTerminal)
+- [Otty](https://otty.sh/) — A native, beautiful terminal app
+- [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/) — a free SSH and Telnet client
+- [Ratty](https://ratty-term.org/) / <a href="https://github.com/orhun/ratty"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — A GPU-rendered terminal emulator with inline 3D graphics 🐀🧀
+- [RMUX](https://rmux.io/) — The Multiplexer Engine for Agents
+- [RohitKushvaha01/ReTerminal](https://github.com/RohitKushvaha01/ReTerminal) — A Simple Android Terminal Emulator
 - [RXVT terminal project](http://rxvt.sourceforge.net/)
-- [sebkur/forceterm: Fully featured terminal based on jediterm](https://github.com/sebkur/forceterm)
+- [sebkur/forceterm](https://github.com/sebkur/forceterm) — Fully featured terminal based on jediterm
 - [Termux](https://termux.com/)
-- [Termux - Android terminal emulator](https://termux.dev/en/)
-- [Tess - Terminal for the new era](https://tessapp.net/)
+- [Termux](https://termux.dev/en/) — Android terminal emulator
+- [Tess](https://tessapp.net/) — Terminal for the new era
 - [tmux/tmux · GItHub](https://github.com/tmux/tmux/)
 - [Warp.dev](https://www.warp.dev/)
 - [Wez's Terminal Emulator](https://wezfurlong.org/wezterm/)
 - [wez/wezterm · GitHub](https://github.com/wez/wezterm)
-- [WezTerm - Wez's Terminal Emulator](https://wezterm.org/) / [🔗](https://github.com/wezterm/wezterm)
+- [WezTerm](https://wezterm.org/) / <a href="https://github.com/wezterm/wezterm"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Wez's Terminal Emulator
 - [WindTerm and WindEdit](https://kingtoolbox.github.io/)
 - [Zellij](https://zellij.dev/)
-- [ZSH - Z SHELL](https://zsh.sourceforge.io/)
+- [ZSH](https://zsh.sourceforge.io/) — Z SHELL
 
 ### Command-Line Shell
 - [adamwiggins/rush · GitHub](https://github.com/adamwiggins/rush)
-- [Bash - GNU Project](https://www.gnu.org/software/bash/bash.html)
-- [brush](https://brush.sh/) / [🔗](https://github.com/reubeno/brush)
+- [Bash](https://www.gnu.org/software/bash/bash.html) — GNU Project
+- [brush](https://brush.sh/) / <a href="https://github.com/reubeno/brush"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [DASH](http://gondor.apana.org.au/~herbert/dash/)
 - [fish shell](https://fishshell.com/)
-- [Nushell](https://www.nushell.sh/) / [🔗](https://github.com/nushell/nushell)
+- [Nushell](https://www.nushell.sh/) / <a href="https://github.com/nushell/nushell"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [Old Man Programmer / Tree · GitLab](https://gitlab.com/OldManProgrammer/unix-tree)
-- [PowerShell - Microsoft](https://docs.microsoft.com/en-us/powershell)
+- [PowerShell](https://docs.microsoft.com/en-us/powershell) — Microsoft
 - [The ugrep file pattern searcher](https://ugrep.com/)
-- [Vale.sh - A linter for prose](https://vale.sh/)
-- [win-bash - SourceForge](http://win-bash.sourceforge.net/)
+- [Vale.sh](https://vale.sh/) — A linter for prose
+- [win-bash](http://win-bash.sourceforge.net/) — SourceForge
 - [Xonsh Shell](https://xon.sh/)
 - [Zsh](https://www.zsh.org/)
 
 ### Terminal Customization
-- [Antigen | A plugin manager for zsh, inspired by oh-my-zsh and vundle.](https://antigen.sharats.me/)
-- [chalk/chalk: 🖍 Terminal string styling done right](https://github.com/chalk/chalk)
+- [Antigen](https://antigen.sharats.me/) — A plugin manager for zsh, inspired by oh-my-zsh and vundle.
+- [chalk/chalk](https://github.com/chalk/chalk) — 🖍 Terminal string styling done right
 - [Cmatrix · GitHub](https://github.com/abishekvashok/cmatrix)
 - [Cool-retro-term · GitHub](https://github.com/Swordfish90/cool-retro-term)
 - [excalith/excalith-start-page · GItHub](https://github.com/excalith/excalith-start-page)
 - [fetch-master-6000 · GitHub](https://github.com/anhsirk0/fetch-master-6000)
 - [New tab terminal · GitHub](https://github.com/NayamAmarshe/please)
 - [nushell/nushell · GitHub](https://github.com/nushell/nushell)
-- [Oh My Posh](https://ohmyposh.dev/) / [🔗](https://github.com/JanDeDobbeleer/oh-my-posh)
+- [Oh My Posh](https://ohmyposh.dev/) / <a href="https://github.com/JanDeDobbeleer/oh-my-posh"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [Oh My Zsh](https://ohmyz.sh/)
 - [ohmybash/oh-my-bash · GitHub](https://github.com/ohmybash/oh-my-bash)
 - [OhMyZSH/OhMyZSH · GitHub](https://github.com/ohmyzsh/ohmyzsh)
 - [Pkete · GitHub](https://github.com/lxgr-linux/pokete)
-- [plp13/qman: A more modern man page viewer for our terminals](https://github.com/plp13/qman)
-- [Powerlevel10k: A Zsh theme · GitHub](https://github.com/romkatv/powerlevel10k)
+- [plp13/qman](https://github.com/plp13/qman) — A more modern man page viewer for our terminals
+- [Powerlevel10k](https://github.com/romkatv/powerlevel10k) — A Zsh theme · GitHub
 - [Rigellute/rigel · GitHub](https://github.com/rigellute/rigel)
 - [sainnhe/everforest · GitHub](https://github.com/sainnhe/everforest)
 - [sindresorhus/pure · GitHub](https://github.com/sindresorhus/pure)
 - [Spaceship Zsh](https://spaceship-prompt.sh/)
-- [Starship: Cross-Shell Prompt](https://starship.rs/) / [🔗](https://github.com/starship/starship)
+- [Starship](https://starship.rs/) / <a href="https://github.com/starship/starship"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Cross-Shell Prompt
 - [Textualize.io](https://www.textualize.io/)
 - [Textualize/rich · GitHub](https://github.com/Textualize/rich)
-- [tldr.sh](https://tldr.sh/) / [🔗](https://github.com/tldr-pages/tldr)
+- [tldr.sh](https://tldr.sh/) / <a href="https://github.com/tldr-pages/tldr"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [tqdm · GitHub](https://tqdm.github.io/)
-- [wego: weather app for the terminal · GitHub](https://github.com/schachmat/wego)
-- [WTF - the terminal dashboard](https://wtfutil.com/)
+- [wego](https://github.com/schachmat/wego) — weather app for the terminal · GitHub
+- [WTF](https://wtfutil.com/) — the terminal dashboard
 - [XDG Ninja · GitHub](https://github.com/b3nj5m1n/xdg-ninja)
 
 ### Terminal Info
@@ -2514,12 +2514,12 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [jschx / ufetch · GitLab](https://gitlab.com/jschx/ufetch)
 - [K4rakara/freshfetch · GitHub](https://github.com/K4rakara/freshfetch)
 - [kiedtl/winfetch · GitHub](https://github.com/kiedtl/winfetch)
-- [ledger - powerful command-line accounting system](https://ledger-cli.org/)
-- [mandoc | UNIX manpage compiler](https://mandoc.bsd.lv/)
+- [ledger](https://ledger-cli.org/) — powerful command-line accounting system
+- [mandoc](https://mandoc.bsd.lv/) — UNIX manpage compiler
 - [Mangeshrex/rxfetch · GitHub](https://github.com/Mangeshrex/rxfetch)
 - [Neofetch · GitHub](https://github.com/dylanaraps/neofetch)
 - [neofetch-themes · GitHub](https://github.com/Chick2D/neofetch-themes)
-- [NerdFetch - Codeberg](https://codeberg.org/thatonecalculator/NerdFetch)
+- [NerdFetch](https://codeberg.org/thatonecalculator/NerdFetch) — Codeberg
 - [NNBnh/bfetch · GitHub](https://github.com/nnbnh/bfetch)
 - [o2sh/onefetch · GitHub](https://github.com/o2sh/onefetch)
 - [openSUSE/hwinfo · GitHub](https://github.com/openSUSE/hwinfo)
@@ -2539,10 +2539,10 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [LaTeX Codecogs](https://latex.codecogs.com/)
 - [LaTeX Equation Editor](https://latexeditor.lagrida.com/)
 - [LyX](https://www.lyx.org/)
-- [Mathcha - Online Math Editor](https://www.mathcha.io/)
+- [Mathcha](https://www.mathcha.io/) — Online Math Editor
 - [MiKTeX.org](https://miktex.org/)
-- [Prism | A free, LaTeX-native workspace for scientists | OpenAI](https://openai.com/prism/)
-- [Setzer - LaTeX Editor](https://www.cvfosammmm.org/setzer/)
+- [Prism](https://openai.com/prism/) — A free, LaTeX-native workspace for scientists | OpenAI
+- [Setzer](https://www.cvfosammmm.org/setzer/) — LaTeX Editor
 - [Texmaker](https://www.xm1math.net/texmaker/)
 - [Texpad · Smoothest way to write LaTeX](https://www.texpad.com/)
 - [TeXShop](https://pages.uoregon.edu/koch/texshop)
@@ -2551,64 +2551,64 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [VIM-LaTeX](http://vim-latex.sourceforge.net/)
 
 ### Text Editor
-- ⭐ **[GitJournal - MD Notes integrated with Git](https://gitjournal.io/)**
-- ⭐ **[Kate - Modern text editor](https://kate-editor.org/)** / [🔗](https://invent.kde.org/utilities/kate)
+- ⭐ **[GitJournal](https://gitjournal.io/)** — MD Notes integrated with Git
+- ⭐ **[Kate](https://kate-editor.org/)** / [🔗](https://invent.kde.org/utilities/kate) — Modern text editor
 - ⭐ **[Nano Editor](https://www.nano-editor.org/)**
 - ⭐ **[Sublime Text](https://www.sublimetext.com/)**
-- ⭐ **[Typst - Compose papers faster](https://typst.app/)**
-- ⭐ **[Zen - Online Text Editor](https://zen.unit.ms/)**
+- ⭐ **[Typst](https://typst.app/)** — Compose papers faster
+- ⭐ **[Zen](https://zen.unit.ms/)** — Online Text Editor
 - [4coder 4.1 by Mr. 4th](https://mr-4th.itch.io/4coder)
-- [Acode - Code editor for Android](https://acode.foxdebug.com/)
-- [billthefarmer/editor: Android simple text editor · GitHub](https://github.com/billthefarmer/editor)
+- [Acode](https://acode.foxdebug.com/) — Code editor for Android
+- [billthefarmer/editor](https://github.com/billthefarmer/editor) — Android simple text editor · GitHub
 - [BlueGriffon](http://bluegriffon.org/)
 - [CKEditor](https://ckeditor.com/)
 - [Coastline](https://play.google.com/store/apps/details?gl=US&hl=en_US&id=com.rumsunrise.coastline)
 - [CudaText Editor](https://cudatext.github.io/)
 - [dail8859/NotepadNext · GitHub](https://github.com/dail8859/NotepadNext)
 - [Dcoder](https://dcoder.tech/)
-- [Edit Pad - Online Text Editor](https://www.editpad.org/)
+- [Edit Pad](https://www.editpad.org/) — Online Text Editor
 - [elementary/code · GitHub](https://github.com/elementary/code)
-- [espanso](https://espanso.org/) / [🔗](https://github.com/espanso/espanso)
+- [espanso](https://espanso.org/) / <a href="https://github.com/espanso/espanso"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [EverEdit](https://everedit.net/)
 - [face-hh/fextify · GitHub](https://github.com/face-hh/fextify)
 - [Flatfile](https://flatfile.com/)
-- [focus-editor/focus: A simple and fast text editor](https://github.com/focus-editor/focus)
+- [focus-editor/focus](https://github.com/focus-editor/focus) — A simple and fast text editor
 - [ForLoopCodes/legacy-notepad · GitHub](https://github.com/ForLoopCodes/legacy-notepad)
-- [Fresh - The Terminal Text Editor](https://sinelaw.github.io/fresh/)
-- [Geany - The Flyweight IDE](https://geany.org/)
-- [Gedit - GNOME](https://wiki.gnome.org/Apps/Gedit)
+- [Fresh](https://sinelaw.github.io/fresh/) — The Terminal Text Editor
+- [Geany](https://geany.org/) — The Flyweight IDE
+- [Gedit](https://wiki.gnome.org/Apps/Gedit) — GNOME
 - [GNOME terminator](https://gnome-terminator.org/)
 - [Helix](https://helix-editor.com/)
 - [Heynote](https://heynote.com/)
-- [Hubble.md](https://www.hubble.md/) / [🔗](https://github.com/bholmesdev/hubble.md)
-- [ibara/mg: OpenBSD Mg editor](https://github.com/ibara/mg)
-- [Incise — A precise text editor, native to the Mac.](https://incise.dev/)
+- [Hubble.md](https://www.hubble.md/) / <a href="https://github.com/bholmesdev/hubble.md"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [ibara/mg](https://github.com/ibara/mg) — OpenBSD Mg editor
+- [Incise](https://incise.dev/) — A precise text editor, native to the Mac.
 - [jEdit](http://www.jedit.org/)
 - [Joe's Own Editor](https://joe-editor.sourceforge.io/)
 - [Kakoune](https://kakoune.org/)
 - [Kakoune · GitHub](https://github.com/mawww/kakoune)
 - [KiloDoc](https://www.kilodoc.com/about)
-- [klange/bim: lightweight terminal text editor](https://github.com/klange/bim)
-- [Leaf Note - Google Play](https://play.google.com/store/apps/details?id=me.shouheng.leafnote)
+- [klange/bim](https://github.com/klange/bim) — lightweight terminal text editor
+- [Leaf Note](https://play.google.com/store/apps/details?id=me.shouheng.leafnote) — Google Play
 - [Left by Rek & Devine](https://hundredrabbits.itch.io/left)
 - [Markor](https://gsantner.net/project/markor.html?source=gplay)
 - [Micro editor](https://micro-editor.github.io/)
-- [microsoft/edit: We all edit.](https://github.com/microsoft/edit?tab=readme-ov-file)
+- [microsoft/edit](https://github.com/microsoft/edit?tab=readme-ov-file) — We all edit.
 - [New blank page](https://blank.page/)
 - [Notepad](https://play.google.com/store/apps/details?gl=US&hl=en_US&id=com.farmerbb.notepad)
-- [Notepad - Offline capable](https://notepad.js.org/)
+- [Notepad](https://notepad.js.org/) — Offline capable
 - [Notepad++](https://notepad-plus-plus.org/)
-- [Notepad++ for Mac: Free Native macOS Code Editor](https://notepad-plus-plus-mac.org/) / [🔗](https://github.com/notepad-plus-plus-mac/notepad-plus-plus-macoshttps://github.com/notepad-plus-plus-mac/notepad-plus-plus-macos)
+- [Notepad++ for Mac](https://notepad-plus-plus-mac.org/) / <a href="https://github.com/notepad-plus-plus-mac/notepad-plus-plus-macoshttps://github.com/notepad-plus-plus-mac/notepad-plus-plus-macos"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Free Native macOS Code Editor
 - [Notepadqq](https://notepadqq.com/s/)
-- [Notepads](https://www.notepadsapp.com/) / [🔗](https://github.com/0x7c13/Notepads)
-- [OlaProeis/Ferrite: A fast, lightweight text editor for Markdown, JSON, YAML, and TOML files. Built with Rust and egui for a native, responsive experience.](https://github.com/OlaProeis/Ferrite)
+- [Notepads](https://www.notepadsapp.com/) / <a href="https://github.com/0x7c13/Notepads"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [OlaProeis/Ferrite](https://github.com/OlaProeis/Ferrite) — A fast, lightweight text editor for Markdown, JSON, YAML, and TOML files. Built with Rust and egui for a native, responsive experience.
 - [Online Notepad](https://onlinenotepad.org/notepad)
 - [Paperless.io](https://www.paperless.io/)
 - [ProseMirror](https://prosemirror.net/)
 - [PSPad editor](https://www.pspad.com/)
-- [Pulsar edit](https://pulsar-edit.dev/) / [🔗](https://github.com/pulsar-edit/pulsar)
+- [Pulsar edit](https://pulsar-edit.dev/) / <a href="https://github.com/pulsar-edit/pulsar"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [QuickEdit Text Editor](https://rhmsoft.com/qedit/help.html)
-- [Quill - Your powerful rich text editor](https://quilljs.com/)
+- [Quill](https://quilljs.com/) — Your powerful rich text editor
 - [Scintilla and SciTE](https://scintilla.org/)
 - [Squibler](https://www.squibler.io/)
 - [TextMate](https://macromates.com/)
@@ -2617,7 +2617,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [Xi editor](https://xi-editor.io/)
 
 #### Vim-Based Text Editor
-- ⭐ **[Neovim.io](https://neovim.io/)** / [🔗](https://github.com/neovim/neovim)
+- ⭐ **[Neovim.io](https://neovim.io/)** / <a href="https://github.com/neovim/neovim"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [akiyosi/goneovim · GitHub](https://github.com/akiyosi/goneovim)
 - [artart222/CodeArt · GitHub](https://github.com/artart222/CodeArt)
 - [AstroNvim](https://astronvim.com/)
@@ -2625,57 +2625,57 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [LazyVim](https://www.lazyvim.org/)
 - [LunarVim](https://www.lunarvim.org/)
 - [Neovide](https://neovide.dev/)
-- [NvChad · Neovim with lua is cool](https://nvchad.com/) / [🔗](https://github.com/NvChad/NvChad)
+- [NvChad · Neovim with lua is cool](https://nvchad.com/) / <a href="https://github.com/NvChad/NvChad"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [nyoom-engineering/nyoom.nvim · GitHub](https://github.com/nyoom-engineering/nyoom.nvim)
 - [vhakulinen/gnvim · GitHub](https://github.com/vhakulinen/gnvim)
-- [Vim](https://www.vim.org/) / [🔗](https://github.com/vim/vim)
+- [Vim](https://www.vim.org/) / <a href="https://github.com/vim/vim"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [yatli/fvim · GitHub](https://github.com/yatli/fvim)
 
 #### Emacs-Based Text Editor
-- ⭐ **[GNU Emacs](https://www.gnu.org/software/emacs/)** / [🔗](https://github.com/emacs-mirror/emacs)
+- ⭐ **[GNU Emacs](https://www.gnu.org/software/emacs/)** / <a href="https://github.com/emacs-mirror/emacs"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - ⭐ **[Org mode](https://orgmode.org/)**
 - [Doom-emacs](https://github.com/hlissner/doom-emacs)
 - [Emacs.sexy](https://emacs.sexy/)
-- [Spacemacs](https://www.spacemacs.org/) / [🔗](https://github.com/syl20bnr/spacemacs)
-- [zevlg/telega.el: GNU Emacs telegram client · GitHub](https://github.com/zevlg/telega.el/)
+- [Spacemacs](https://www.spacemacs.org/) / <a href="https://github.com/syl20bnr/spacemacs"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [zevlg/telega.el](https://github.com/zevlg/telega.el/) — GNU Emacs telegram client · GitHub
 
 ### Code Editor & IDE
 
 #### Code Editor
-- ⭐ **[PSeInt - SourceForge](https://pseint.sourceforge.net/)**
-- [Athas Industries - A lightweight code editor](https://athas.dev/) / [🔗](https://github.com/athasdev/athas)
+- ⭐ **[PSeInt](https://pseint.sourceforge.net/)** — SourceForge
+- [Athas Industries](https://athas.dev/) / <a href="https://github.com/athasdev/athas"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — A lightweight code editor
 - [Atom.io](https://atom.io/)
-- [BBEdit 15 - Bare Bones Software](https://www.barebones.com/products/bbedit/)
+- [BBEdit 15](https://www.barebones.com/products/bbedit/) — Bare Bones Software
 - [Bluefish Editor](https://bluefish.openoffice.nl/index.html)
 - [Bootstrap Studio](https://bootstrapstudio.io/)
 - [Brackets.io](https://brackets.io/)
-- [CodeEdit | A native code editor for macOS](https://www.codeedit.app/)
+- [CodeEdit](https://www.codeedit.app/) — A native code editor for macOS
 - [CodeMirror](https://codemirror.net/) / [🔗](https://code.haverbeke.berlin/codemirror/dev/)
-- [Fresh - The Terminal IDE](https://getfresh.dev/) / [🔗](https://github.com/sinelaw/fresh)
-- [ICEcoder](https://icecoder.net/) / [🔗](http://github.com/icecoder/ICEcoder)
-- [Lapce - Lightning-fast and Powerful Code Editor](https://lap.dev/lapce/) / [🔗](https://github.com/lapce/lapce)
+- [Fresh](https://getfresh.dev/) / <a href="https://github.com/sinelaw/fresh"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — The Terminal IDE
+- [ICEcoder](https://icecoder.net/) / <a href="http://github.com/icecoder/ICEcoder"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Lapce](https://lap.dev/lapce/) / <a href="https://github.com/lapce/lapce"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Lightning-fast and Powerful Code Editor
 - [Light Table](http://lighttable.com/)
-- [Lite XL](https://lite-xl.com/) / [🔗](https://github.com/lite-xl/lite-xl)
-- [Monaco Editor](https://microsoft.github.io/monaco-editor/) / [🔗](https://github.com/microsoft/monaco-editor)
-- [NoteTab – Text Editor](https://www.notetab.com/)
-- [PSPad - free unicode developer editor](https://www.pspad.com/en/)
+- [Lite XL](https://lite-xl.com/) / <a href="https://github.com/lite-xl/lite-xl"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Monaco Editor](https://microsoft.github.io/monaco-editor/) / <a href="https://github.com/microsoft/monaco-editor"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [NoteTab](https://www.notetab.com/) — Text Editor
+- [PSPad](https://www.pspad.com/en/) — free unicode developer editor
 
 #### IDE (Integrated Development Environment)
-- [Aide - Your AI Programming Assistant](https://aide.dev/)
+- [Aide](https://aide.dev/) — Your AI Programming Assistant
 - [Anaconda Distribution](https://www.anaconda.com/products/distribution)
 - [Anjuta DevStudio](http://anjuta.org/)
 - [Apache NetBeans](https://netbeans.apache.org/)
-- [B4X | Cross platform RAD development tools](https://www.b4x.com/)
+- [B4X](https://www.b4x.com/) — Cross platform RAD development tools
 - [BlueJ](https://www.bluej.org/)
 - [Cevelop](https://www.cevelop.com/)
 - [Code::Blocks](https://www.codeblocks.org/)
 - [Dev-C++](https://bloodshed.net/)
-- [Development containers](https://containers.dev/) / [🔗](https://github.com/devcontainers/spec)
+- [Development containers](https://containers.dev/) / <a href="https://github.com/devcontainers/spec"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [Eclipse IDE](https://www.eclipse.org/ide/)
 - [Gambas IDE](http://gambas.sourceforge.net/en/main.html)
 - [GoormIDE](https://ide.goorm.io/)
 - [Graviton Editor](https://graviton.netlify.app/)
-- [JetBrains Rider - Cross-Platform .NET IDE](https://www.jetbrains.com/rider/)
+- [JetBrains Rider](https://www.jetbrains.com/rider/) — Cross-Platform .NET IDE
 - [KDevelop.org](https://www.kdevelop.org/)
 - [Komodo IDE](https://www.activestate.com/products/komodo-ide)
 - [Lazarus IDE](https://www.lazarus-ide.org/)
@@ -2683,127 +2683,127 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [MonoDevelop](https://www.monodevelop.com/)
 - [Nova IDE](https://nova.app/)
 - [One Ware Studio](https://one-ware.com/studio/)
-- [Orca — The Worktree IDE for Claude Code, Ghostty & AI Coding Agents](https://www.onorca.dev/)
-- [Phoenix - IDE for web](https://phcode.dev/)
+- [Orca](https://www.onorca.dev/) — The Worktree IDE for Claude Code, Ghostty & AI Coding Agents
+- [Phoenix](https://phcode.dev/) — IDE for web
 - [PlatformIO](https://platformio.org/)
 - [Portable Python](https://sourceforge.net/projects/portable-python/)
-- [PyCharm: Python IDE by JetBrains](https://www.jetbrains.com/pycharm/)
+- [PyCharm](https://www.jetbrains.com/pycharm/) — Python IDE by JetBrains
 - [PyDev](http://www.pydev.org/)
 - [R Markdown](https://rmarkdown.rstudio.com/)
 - [React Studio](https://reactstudio.com/)
 - [SharpDevelop](https://github.com/icsharpcode/sharpdevelop)
 - [Spyder IDE](https://www.spyder-ide.org/)
 - [Thonny, Python IDE](https://thonny.org/)
-- [Trae - Ship Faster with Trae](https://www.trae.ai/)
-- [Visual Studio - IDE for software developers](https://visualstudio.microsoft.com/)
+- [Trae](https://www.trae.ai/) — Ship Faster with Trae
+- [Visual Studio](https://visualstudio.microsoft.com/) — IDE for software developers
 - [VisualVM](https://visualvm.github.io/)
-- [WebStorm - JetBrains](https://www.jetbrains.com/webstorm/)
-- [Zasper: A Supercharged IDE for Data ScienceE](https://zasper.io/)
+- [WebStorm](https://www.jetbrains.com/webstorm/) — JetBrains
+- [Zasper](https://zasper.io/) — A Supercharged IDE for Data ScienceE
 
 #### Agentic IDEs
-- ⭐ **[Cursor - The AI Code Editor](https://www.cursor.com/)** / [🔗](https://github.com/cursor/cursor)
-- ⭐ **[Open Interpreter: The Desktop Agent](https://www.openinterpreter.com/)** / [🔗](https://github.com/openinterpreter/open-interpreter)
+- ⭐ **[Cursor](https://www.cursor.com/)** / <a href="https://github.com/cursor/cursor"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — The AI Code Editor
+- ⭐ **[Open Interpreter](https://www.openinterpreter.com/)** / <a href="https://github.com/openinterpreter/open-interpreter"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — The Desktop Agent
 - ⭐ **[Visual Studio Code](https://code.visualstudio.com/)**
-- ⭐ **[VSCodium](https://vscodium.com/)** / [🔗](https://github.com/VSCodium/vscodium)
-- ⭐ **[Zed - Code at the speed of thought](https://zed.dev/)**
-- [Acode - powerful code editor](https://acode.app/)
-- [Flexpilot IDE - Open-Source AI Native IDE](https://flexpilot.ai/)
+- ⭐ **[VSCodium](https://vscodium.com/)** / <a href="https://github.com/VSCodium/vscodium"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- ⭐ **[Zed](https://zed.dev/)** — Code at the speed of thought
+- [Acode](https://acode.app/) — powerful code editor
+- [Flexpilot IDE](https://flexpilot.ai/) — Open-Source AI Native IDE
 - [Google AI Studio](https://aistudio.google.com/welcome)
 - [Google Antigravity](https://antigravity.google/)
-- [IntelliJ IDEA - JetBrains](https://www.jetbrains.com/idea) / [🔗](https://github.com/JetBrains/intellij-community)
-- [nickvasilescu/hermes-desktop-os1: Hermes Desktop - OS1 Edition: native macOS workspace for Hermes Agent on Orgo cloud computers and SSH hosts](https://github.com/nickvasilescu/hermes-desktop-os1)
-- [Open WebUI: Self-Hosted AI Platform](https://openwebui.com/) / [🔗](https://github.com/open-webui/open-webui)
+- [IntelliJ IDEA](https://www.jetbrains.com/idea) / <a href="https://github.com/JetBrains/intellij-community"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — JetBrains
+- [nickvasilescu/hermes-desktop-os1](https://github.com/nickvasilescu/hermes-desktop-os1) — Hermes Desktop - OS1 Edition: native macOS workspace for Hermes Agent on Orgo cloud computers and SSH hosts
+- [Open WebUI](https://openwebui.com/) / <a href="https://github.com/open-webui/open-webui"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Self-Hosted AI Platform
 - [Pingendo](https://pingendo.com/)
-- [Revise - AI editor for your documents](https://revise.io/)
-- [RunJS](https://runjs.app/) / [🔗](https://github.com/lukehaas/RunJS)
-- [Superset - Run 10+ parallel coding agents on your machine](https://superset.sh/) / [🔗](https://github.com/superset-sh/superset)
+- [Revise](https://revise.io/) — AI editor for your documents
+- [RunJS](https://runjs.app/) / <a href="https://github.com/lukehaas/RunJS"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Superset](https://superset.sh/) / <a href="https://github.com/superset-sh/superset"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Run 10+ parallel coding agents on your machine
 - [UltraEdit Text Editor + Coding Software](https://www.ultraedit.com/)
 - [Windsurf (formerly Codeium)](https://windsurf.com/)
-- [Xcode - Apple](https://developer.apple.com/xcode/)
+- [Xcode](https://developer.apple.com/xcode/) — Apple
 
 ### Markdown Editor
-- ⭐ **[HackMD - Collaborative Markdown Knowledge Base](https://hackmd.io/)**
-- ⭐ **[HedgeDoc - Ideas grow better together](https://hedgedoc.org/)**
-- ⭐ **[Obsidian - Sharpen your thinking](https://obsidian.md/)**
-- [Apostrophe – Apps for GNOME](https://apps.gnome.org/app/org.gnome.gitlab.somas.Apostrophe/)
+- ⭐ **[HackMD](https://hackmd.io/)** — Collaborative Markdown Knowledge Base
+- ⭐ **[HedgeDoc](https://hedgedoc.org/)** — Ideas grow better together
+- ⭐ **[Obsidian](https://obsidian.md/)** — Sharpen your thinking
+- [Apostrophe](https://apps.gnome.org/app/org.gnome.gitlab.somas.Apostrophe/) — Apps for GNOME
 - [Byword](https://bywordapp.com/)
-- [Clearly Markdown](https://clearly.md/) / [🔗](https://github.com/Shpigford/clearly)
-- [CodiMD - Collaborative markdown notes](https://codimd.web.cern.ch/)
-- [Constly — the WinRAR of Markdown](https://constly.com/)
-- [Dillinger - Online Markdown Editor](https://dillinger.io/)
+- [Clearly Markdown](https://clearly.md/) / <a href="https://github.com/Shpigford/clearly"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [CodiMD](https://codimd.web.cern.ch/) — Collaborative markdown notes
+- [Constly](https://constly.com/) — the WinRAR of Markdown
+- [Dillinger](https://dillinger.io/) — Online Markdown Editor
 - [DrWrite (Online editor for Dropbox)](https://github.com/ryanpcmcquen/DrWrite)
-- [Editor.md - Ipandao](http://editor.md.ipandao.com/)
-- [erictli/scratch: A minimalist, offline-first markdown note-taking app](https://github.com/erictli/scratch)
+- [Editor.md](http://editor.md.ipandao.com/) — Ipandao
+- [erictli/scratch](https://github.com/erictli/scratch) — A minimalist, offline-first markdown note-taking app
 - [fabiocolacio/Marker · GitHub](https://github.com/fabiocolacio/Marker)
-- [FUTO Notes — private, local-first notes for every device](https://notes.futo.tech/)
+- [FUTO Notes](https://notes.futo.tech/) — private, local-first notes for every device
 - [GNOME / Apostrophe · GitLab](https://gitlab.gnome.org/World/apostrophe/)
 - [gsantner/markor · GitHub](https://github.com/gsantner/markor)
 - [MacDown](https://macdown.uranusjr.com/)
 - [Mark Text](https://marktext.app/)
-- [MarkD - Advanced Markdown Editor](https://markd.it/)
+- [MarkD](https://markd.it/) — Advanced Markdown Editor
 - [Markdownify](https://markdownify.js.org/)
 - [Marked 2](https://marked2app.com/)
 - [markText/markText · GitHub](https://github.com/marktext/marktext)
-- [MWeb - Pro Markdown writing, note taking and static blog generator App](https://www.mweb.im/)
+- [MWeb](https://www.mweb.im/) — Pro Markdown writing, note taking and static blog generator App
 - [nvUltra](https://nvultra.com/)
 - [Omni-Notes](https://omninotes.app/)
-- [OpenKnowledge — Beautiful, AI-native markdown editor](https://openknowledge.ai/) / [🔗](https://github.com/inkeep/open-knowledge)
+- [OpenKnowledge](https://openknowledge.ai/) / <a href="https://github.com/inkeep/open-knowledge"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Beautiful, AI-native markdown editor
 - [QOwnNotes](https://www.qownnotes.org/)
-- [RetroNote - A markdown based writing app for all your needs](https://www.retronote.app/)
-- [StackEdit – In-browser Markdown editor](https://stackedit.io/app#)
+- [RetroNote](https://www.retronote.app/) — A markdown based writing app for all your needs
+- [StackEdit](https://stackedit.io/app#) — In-browser Markdown editor
 - [Sylvain PHILIP / Bookup · GitLab](https://gitlab.gnome.org/ilhooq/bookup)
 - [Tenno](https://tenno.app/)
 - [toolstack/Folio · GitHub](https://github.com/toolstack/Folio)
-- [Typora.io - markdown editor and reader](https://typora.io/)
+- [Typora.io](https://typora.io/) — markdown editor and reader
 
 ### XML Editor
 - ⭐ **[XML Copy Editor](https://xml-copy-editor.sourceforge.io/)**
 - [aleksey-hoffman/sigma-file-manager · GitHub](https://github.com/aleksey-hoffman/sigma-file-manager)
 - [doug-101/TreeLine · GitHub](https://github.com/doug-101/TreeLine)
 - [microsoft/XmlNotepad · GitHub](https://github.com/microsoft/xmlnotepad)
-- [morbac/xmltools: XML Tools plugin for Notepad++](https://github.com/morbac/xmltools)
-- [The XML Framework: Lightweight and High-Performance Data Processing](https://basex.org/)
+- [morbac/xmltools](https://github.com/morbac/xmltools) — XML Tools plugin for Notepad++
+- [The XML Framework](https://basex.org/) — Lightweight and High-Performance Data Processing
 - [tree-sitter/tree-sitter · GitHub](https://github.com/tree-sitter/tree-sitter)
-- [XAML Studio | Microsoft Store](https://apps.microsoft.com/detail/9ntls214tkmq?hl=en-US&gl=ES) / [🔗](https://github.com/dotnet/XAMLStudio)
+- [XAML Studio](https://apps.microsoft.com/detail/9ntls214tkmq?hl=en-US&gl=ES) / <a href="https://github.com/dotnet/XAMLStudio"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Microsoft Store
 - [XML Editor](https://www.oxygenxml.com/xml_editor.html)
-- [XML Editor, XML Tools, and XQuery - Stylus Studio](https://www.stylusstudio.com/)
+- [XML Editor, XML Tools, and XQuery](https://www.stylusstudio.com/) — Stylus Studio
 
 ### Hex Editor
-- ⭐ **[ImHex](https://imhex.werwolv.net/)** / [🔗](https://github.com/WerWolv/ImHex)
-- [HexEd.it - Browser-based Online and Offline Hex Editing](https://hexed.it/)
+- ⭐ **[ImHex](https://imhex.werwolv.net/)** / <a href="https://github.com/WerWolv/ImHex"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [HexEd.it](https://hexed.it/) — Browser-based Online and Offline Hex Editing
 - [Hiew.ru](https://www.hiew.ru/)
-- [HxD - mh-nexus](https://mh-nexus.de/en/hxd/)
+- [HxD](https://mh-nexus.de/en/hxd/) — mh-nexus
 - [Online Hex editor tool](https://hex-works.com/)
-- [SweetScape Software Inc - Pro Text/Hex Editor](https://www.sweetscape.com/)
+- [SweetScape Software Inc](https://www.sweetscape.com/) — Pro Text/Hex Editor
 - [WerWolv/ImHex · GitHub](https://github.com/WerWolv/ImHex)
 
 ## Version Control System
-- ⭐ **[Jujutsu docs](https://www.jj-vcs.dev/latest/)** / [🔗](https://github.com/jj-vcs/jj)
+- ⭐ **[Jujutsu docs](https://www.jj-vcs.dev/latest/)** / <a href="https://github.com/jj-vcs/jj"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [Apache Allura](https://allura.apache.org/)
 - [Apache Subversion](https://subversion.apache.org/)
 - [BitKeeper](https://www.bitkeeper.org/)
 - [Continuous Integration and Delivery](https://circleci.com/)
-- [CVS - Concurrent Versions System](https://nongnu.org/cvs)
+- [CVS](https://nongnu.org/cvs) — Concurrent Versions System
 - [Darcs](http://darcs.net/)
 - [DoltHub](https://www.dolthub.com/)
 - [Fossil](https://fossil-scm.org/home/doc/trunk/www/index.wiki)
-- [Git](https://git-scm.com/) / [🔗](https://github.com/git/git)
+- [Git](https://git-scm.com/) / <a href="https://github.com/git/git"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [Git Large File Storage](https://git-lfs.com/)
 - [Kallithea](https://kallithea-scm.org/)
-- [kata カタ - kata カタ](https://www.katatracker.com/) / [🔗](https://github.com/kenn-io/kata)
+- [kata カタ](https://www.katatracker.com/) / <a href="https://github.com/kenn-io/kata"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — kata カタ
 - [libgit2](https://libgit2.org/)
-- [Lore: next-generation open source version control](https://lore.org/) / [🔗](https://github.com/EpicGames/lore)
+- [Lore](https://lore.org/) / <a href="https://github.com/EpicGames/lore"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — next-generation open source version control
 - [Mercurial SCM](https://www.mercurial-scm.org/)
 - [monotone](https://www.monotone.ca/)
-- [Perforce P4: Version Control that Scales With Your Team](https://www.perforce.com/products/helix-core)
+- [Perforce P4](https://www.perforce.com/products/helix-core) — Version Control that Scales With Your Team
 - [Pijul](https://pijul.org/)
 - [Plastic SCM](https://www.plasticscm.com/)
 - [RabbitVCS](http://rabbitvcs.org/)
-- [Sapling - Sapling from Meta](https://sapling-scm.com/) / [🔗](https://github.com/ezyang/ghstack)
-- [SmartSVN – SVN Client](https://www.smartsvn.com/)
+- [Sapling](https://sapling-scm.com/) / <a href="https://github.com/ezyang/ghstack"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Sapling from Meta
+- [SmartSVN](https://www.smartsvn.com/) — SVN Client
 - [Snowtrack.io](https://www.snowtrack.io/)
 - [snowtrack/snowfs · GitHub](https://github.com/snowtrack/snowfs)
-- [SourceGear | Vault](https://www.sourcegear.com/vault/)
-- [Sturdy - Code collaboration](https://getsturdy.com/)
+- [SourceGear](https://www.sourcegear.com/vault/) — Vault
+- [Sturdy](https://getsturdy.com/) — Code collaboration
 - [TortoiseSVN](https://tortoisesvn.net/)
-- [Unfuddle STACK | GIT and SVN Hosting](https://unfuddle.com/)
+- [Unfuddle STACK](https://unfuddle.com/) — GIT and SVN Hosting

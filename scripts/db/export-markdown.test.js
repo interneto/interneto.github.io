@@ -5,6 +5,7 @@ import path from 'node:path'
 import { getDb } from './connection.js'
 import { importCsv } from './lib/import-csv.js'
 import { exportMarkdown } from './export-markdown.js'
+import { sourceCodeLink } from '../lib/markdown-renderer.js'
 
 const csv = [
   'id,title,note,excerpt,url,folder,tags,created,cover,highlights,favorite',
@@ -13,6 +14,7 @@ const csv = [
   // must render in note-text (insertion) order, not sorted alphabetically.
   // "z" comes first in the note but "a" sorts first alphabetically.
   '2,"Multi Source Tool","Source-code: https://github.com/z/zzz, https://github.com/a/aaa","","https://example.org/","Apps & Services / AI Tools & Services / AI Apps","",2026-01-01T00:00:00.000Z,,,false',
+  '3,"Splitme - A tool with a description","","","https://example.net/","Apps & Services / AI Tools & Services / AI Apps","",2026-01-01T00:00:00.000Z,,,false',
 ].join('\n')
 
 const db = getDb(':memory:')
@@ -31,8 +33,11 @@ const multiSourceLine = content.split('\n').find((line) => line.includes('Multi 
 assert.ok(multiSourceLine, 'Multi Source Tool line not found')
 assert.equal(
   multiSourceLine,
-  '- [Multi Source Tool](https://example.org/) / [🔗](https://github.com/z/zzz), [🔗](https://github.com/a/aaa)'
+  `- [Multi Source Tool](https://example.org/) / ${sourceCodeLink('https://github.com/z/zzz')}, ${sourceCodeLink('https://github.com/a/aaa')}`
 )
+
+const splitLine = content.split('\n').find((line) => line.includes('Splitme'))
+assert.equal(splitLine, '- [Splitme](https://example.net/) — A tool with a description')
 
 assert.equal(anchorsByCategory['ai-tools-and-services']['AI Apps'], 'ai-apps')
 

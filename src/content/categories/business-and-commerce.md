@@ -11,11 +11,11 @@ description: Stores, marketplaces, product research, and resale
 ## Corporation
 
 ### Alphabet (Google)
-- ⭐ **[With Google - Experiments](https://experiments.withgoogle.com/)**
+- ⭐ **[With Google](https://experiments.withgoogle.com/)** — Experiments
 - [AI.Google](https://ai.google/)
 - [Alphabet](https://abc.xyz/)
 - [G Suite Marketplace](https://gsuite.google.com/marketplace)
-- [Google - products](https://about.google/products/)
+- [Google](https://about.google/products/) — products
 - [Google AdMob](https://admob.google.com/home)
 - [Google Ads](https://ads.google.com/intl/en_US/home)
 - [Google Cloud](https://cloud.google.com/)
@@ -29,14 +29,14 @@ description: Stores, marketplaces, product research, and resale
 - [Google Developers Products](https://developers.google.com/products)
 - [Google Duo](https://duo.google.com/)
 - [Google Earth Engine](https://earthengine.google.com/)
-- [Google Fi - Wireless for your phone](https://fi.google.com/about)
+- [Google Fi](https://fi.google.com/about) — Wireless for your phone
 - [Google Forms](https://www.google.com/intl/en/forms/about)
 - [Google Hangouts](https://hangouts.google.com/)
 - [Google I/O](https://events.google.com/io)
 - [Google Jigsaw](https://jigsaw.google.com/)
 - [Google Keep](https://www.google.com/keep)
 - [Google Meet](https://apps.google.com/meet)
-- [Google My Activity - YouTube comments](https://myactivity.google.com/page?hl=en&utm_medium=web&utm_source=youtube&page=youtube_comments)
+- [Google My Activity](https://myactivity.google.com/page?hl=en&utm_medium=web&utm_source=youtube&page=youtube_comments) — YouTube comments
 - [Google One](https://one.google.com/about)
 - [Google Pay](https://pay.google.com/about)
 - [Google Photos](https://www.google.com/photos/about)
@@ -51,7 +51,7 @@ description: Stores, marketplaces, product research, and resale
 - [Google Wear OS](https://wearos.google.com/#hands-free-help)
 - [Google Web Designer](https://webdesigner.withgoogle.com/)
 - [Google's Products](https://about.google/intl/en/products)
-- [Googlebook: A Laptop Designed for Gemini Intelligence](https://googlebook.google/)
+- [Googlebook](https://googlebook.google/) — A Laptop Designed for Gemini Intelligence
 - [Grow.Google](https://grow.google/intl/europe)
 - [ITA Software](https://www.itasoftware.com/)
 - [Killed by Google](https://killedbygoogle.com/)
@@ -65,9 +65,9 @@ description: Stores, marketplaces, product research, and resale
 - ⭐ **[Google Patents](https://patents.google.com/)**
 - [About Google](https://about.google/)
 - [Families.Google](https://families.google/)
-- [Google — Building Together for Everyone](https://belonging.google/)
+- [Google](https://belonging.google/) — Building Together for Everyone
 - [Google Account](https://myaccount.google.com/intro)
-- [Google account - App passwords](https://myaccount.google.com/u/1/apppasswords)
+- [Google account](https://myaccount.google.com/u/1/apppasswords) — App passwords
 - [Google Admin Toolbox](https://toolbox.googleapps.com/apps/main/)
 - [Google API Console](https://console.developers.google.com/)
 - [Google AR & VR](https://arvr.google.com/)
@@ -102,7 +102,7 @@ description: Stores, marketplaces, product research, and resale
 - [Google Quantum AI](https://quantumai.google/)
 - [Google Safe Browsing](https://safebrowsing.google.com/)
 - [Google Shopping](https://www.google.com/shopping)
-- [Google Single Sign On: Sign into corp](https://login.corp.google.com/)
+- [Google Single Sign On](https://login.corp.google.com/) — Sign into corp
 - [Google Sites](https://workspace.google.com/products/sites)
 - [Google Sustainability](https://sustainability.google/)
 - [Google Transparency](https://transparencyreport.google.com/)
@@ -115,10 +115,10 @@ description: Stores, marketplaces, product research, and resale
 - [search.google](https://search.google/)
 - [Teachable Machine](https://teachablemachine.withgoogle.com/)
 - [Think with Google](https://www.thinkwithgoogle.com/intl/en-us/)
-- [Transparency Center - Google Product Policies and Policy Areas](https://transparency.google/)
+- [Transparency Center](https://transparency.google/) — Google Product Policies and Policy Areas
 - [With Google Build your future](https://buildyourfuture.withgoogle.com/)
 - [With Google Partner Marketing Hub](https://partnermarketinghub.withgoogle.com/#/)
-- [YouTube - about](https://about.youtube/)
+- [YouTube](https://about.youtube/) — about
 
 #### YouTube
 - [About YouTube](https://www.youtube.com/about)
@@ -133,8 +133,8 @@ description: Stores, marketplaces, product research, and resale
 ### IBM
 - [Codrops](https://tympanus.net/codrops)
 - [IBM](https://www.ibm.com/us-en)
-- [IBM - Watson Media](https://video.ibm.com/)
-- [IBM Cloud - catalog](https://cloud.ibm.com/catalog#services)
+- [IBM](https://video.ibm.com/) — Watson Media
+- [IBM Cloud](https://cloud.ibm.com/catalog#services) — catalog
 - [IBM Cloud Docs](https://cloud.ibm.com/docs)
 - [IBM Job Search](https://sjobs.brassring.com/TGnewUI/Search/Home/HomeWithPreLoad?PageType=searchResults&SearchType=linkquery&partnerid=25264&siteid=5259#home)
 - [IBM News Room](https://newsroom.ibm.com/)
@@ -163,10 +163,10 @@ description: Stores, marketplaces, product research, and resale
 - [Killed by Mozilla](https://killedbymozilla.com/)
 - [MDN Web Docs](https://github.com/mdn)
 - [mdn.dev](https://mdn.dev/)
-- [Mozilla - Common Voice](https://commonvoice.mozilla.org/en)
-- [Mozilla - Internet for people, not profit](https://www.mozilla.org/en-US/)
+- [Mozilla](https://commonvoice.mozilla.org/en) — Common Voice
+- [Mozilla](https://www.mozilla.org/en-US/) — Internet for people, not profit
 - [Mozilla Careers](https://careers.mozilla.org/)
-- [Mozilla Chat - Element](https://chat.mozilla.org/#/directory)
+- [Mozilla Chat](https://chat.mozilla.org/#/directory) — Element
 - [Mozilla Codetribute](https://codetribute.mozilla.org/)
 - [Mozilla Community](https://community.mozilla.org/en)
 - [Mozilla Conduit](https://moz-conduit.readthedocs.io/en/latest)
@@ -185,20 +185,20 @@ description: Stores, marketplaces, product research, and resale
 
 ### Apple
 - [Apple](https://www.apple.com/)
-- [Apple - apps](https://www.apple.com/apps/)
-- [Apple - Find Locations](https://locate.apple.com/)
-- [Apple - Investor Relations](https://investor.apple.com/investor-relations/default.aspx)
-- [Apple - Open Source](https://opensource.apple.com/)
+- [Apple](https://www.apple.com/apps/) — apps
+- [Apple](https://locate.apple.com/) — Find Locations
+- [Apple](https://investor.apple.com/investor-relations/default.aspx) — Investor Relations
+- [Apple](https://opensource.apple.com/) — Open Source
 - [Apple Developer](https://developer.apple.com/)
 - [Apple ID](https://appleid.apple.com/)
 - [Apple News+](https://www.apple.com/apple-news)
 - [Apple Support](https://support.apple.com/)
 - [Self Service Repair Store](https://selfservicerepair.com/en-US/home)
-- [TestFlight - Apple](https://testflight.apple.com/)
+- [TestFlight](https://testflight.apple.com/) — Apple
 
 ### Alibaba Group
 - [Alibaba Group](https://www.alibabagroup.com/en-US/)
-- [Alibaba Group - Businesses](https://www.alibabagroup.com/en-US/about-alibaba-businesses)
+- [Alibaba Group](https://www.alibabagroup.com/en-US/about-alibaba-businesses) — Businesses
 - [Alibaba Pictures](http://www.alibabapictures.com/simp/0-home.html)
 - [Aligames](https://www.aligames.com/)
 - [Shuqi](https://www.shuqi.com/)
@@ -210,9 +210,9 @@ description: Stores, marketplaces, product research, and resale
 - [AbeBooks](https://www.abebooks.com/)
 - [About Amazon](https://www.aboutamazon.com/)
 - [ACX](https://www.acx.com/)
-- [Amazon - Cloud Products](https://aws.amazon.com/products/)
-- [Amazon - Video Direct](https://videodirect.amazon.com/home/landing)
-- [Amazon | Press center](https://press.aboutamazon.com/)
+- [Amazon](https://aws.amazon.com/products/) — Cloud Products
+- [Amazon](https://videodirect.amazon.com/home/landing) — Video Direct
+- [Amazon](https://press.aboutamazon.com/) — Press center
 - [Amazon Advertising](https://advertising.amazon.com/)
 - [Amazon Business](https://business.amazon.com/)
 - [Amazon Drive](https://www.amazon.com/clouddrive/all)
@@ -268,7 +268,7 @@ description: Stores, marketplaces, product research, and resale
 - [LinkedIn Learning](https://learning.linkedin.com/)
 - [Linkedin Opportunity](https://opportunity.linkedin.com/en-us)
 - [Microsoft](https://www.microsoft.com/en-us)
-- [Microsoft - Products, Apps & Devices](https://www.microsoft.com/en-us/microsoft-products-and-apps)
+- [Microsoft](https://www.microsoft.com/en-us/microsoft-products-and-apps) — Products, Apps & Devices
 - [Microsoft account](https://account.microsoft.com/account)
 - [Microsoft account](https://account.microsoft.com/)
 - [Microsoft Advertising](https://ads.microsoft.com/)
@@ -279,7 +279,7 @@ description: Stores, marketplaces, product research, and resale
 - [Microsoft Datacenters](https://datacenters.microsoft.com/)
 - [Microsoft Developer center](https://developer.microsoft.com/en-us)
 - [Microsoft Docs](https://docs.microsoft.com/en-us)
-- [Microsoft Docs | Technical documentation](https://docs.microsoft.com/en-us/documentation)
+- [Microsoft Docs](https://docs.microsoft.com/en-us/documentation) — Technical documentation
 - [Microsoft Dynamics&nbsp;365](https://dynamics.microsoft.com/en-us)
 - [Microsoft Events](https://events.microsoft.com/?isSharedInLocalViewMode=true&timeperiod=next30Days)
 - [Microsoft for Startups](https://startups.microsoft.com/en-us)
@@ -288,7 +288,7 @@ description: Stores, marketplaces, product research, and resale
 - [Microsoft Loop](https://loop.microsoft.com/learn)
 - [Microsoft News](https://news.microsoft.com/)
 - [Microsoft Open Source](https://opensource.microsoft.com/)
-- [Microsoft Power Platform | Business Application Platform](https://powerplatform.microsoft.com/en-us/)
+- [Microsoft Power Platform](https://powerplatform.microsoft.com/en-us/) — Business Application Platform
 - [Microsoft privacy](https://privacy.microsoft.com/en-us)
 - [Microsoft Security Response Center](https://msrc.microsoft.com/)
 - [Microsoft Site Map](https://www.microsoft.com/en-us/sitemap.aspx)
@@ -297,7 +297,7 @@ description: Stores, marketplaces, product research, and resale
 - [Microsoft Tech Community](https://techcommunity.microsoft.com/)
 - [MS Third Party Disclosures](https://thirdpartysource.microsoft.com/)
 - [MyIgnite](https://myignite.microsoft.com/home)
-- [Nuance - Conversational AI for Healthcare and Customer Engagemen](https://www.nuance.com/index.html)
+- [Nuance](https://www.nuance.com/index.html) — Conversational AI for Healthcare and Customer Engagemen
 - [Outlook](https://outlook.live.com/owa/)
 - [Partner with Microsoft](https://partner.microsoft.com/en-US)
 - [PowerShell Gallery](https://www.powershellgallery.com/)
@@ -309,12 +309,12 @@ description: Stores, marketplaces, product research, and resale
 - ⭐ **[Facebook Marketplace](https://www.facebook.com/marketplace)**
 - [CrowdTangle](https://www.crowdtangle.com/)
 - [CTRL-labs](https://www.ctrl-labs.com/)
-- [Facebook | Communities](https://www.facebook.com/groups)
-- [Facebook | Local Guides](https://www.facebook.com/local/lists)
-- [Facebook | Pages Directory](https://www.facebook.com/directory/pages)
-- [Facebook | People Directory](https://www.facebook.com/directory/people)
-- [Facebook | Places](https://www.facebook.com/places)
-- [Facebook | Places Directory](https://www.facebook.com/directory/places)
+- [Facebook](https://www.facebook.com/groups) — Communities
+- [Facebook](https://www.facebook.com/local/lists) — Local Guides
+- [Facebook](https://www.facebook.com/directory/pages) — Pages Directory
+- [Facebook](https://www.facebook.com/directory/people) — People Directory
+- [Facebook](https://www.facebook.com/places) — Places
+- [Facebook](https://www.facebook.com/directory/places) — Places Directory
 - [Facebook About](https://about.facebook.com/)
 - [Facebook AI](https://ai.facebook.com/)
 - [Facebook Brand Resource Center](https://en.facebookbrand.com/)
@@ -331,12 +331,12 @@ description: Stores, marketplaces, product research, and resale
 - [Facebook Spark AR](https://sparkar.facebook.com/ar-studio)
 - [Facebook Sustainability](https://sustainability.fb.com/)
 - [Facebook Technology](https://tech.fb.com/)
-- [Instagram | Locations](https://www.instagram.com/explore/locations)
+- [Instagram](https://www.instagram.com/explore/locations) — Locations
 - [Instagram About](https://about.instagram.com/)
 - [Instagram Engineering](https://instagram-engineering.com/)
-- [Meta - Platforms and Technologies](https://www.meta.com/en-gb/technologies/)
-- [Meta | Social Metaverse Company](https://about.meta.com/)
-- [Meta Store – VR headsets and smart glasses](https://www.meta.com/es/en/)
+- [Meta](https://www.meta.com/en-gb/technologies/) — Platforms and Technologies
+- [Meta](https://about.meta.com/) — Social Metaverse Company
+- [Meta Store](https://www.meta.com/es/en/) — VR headsets and smart glasses
 - [Novi](https://www.novi.com/)
 - [Oculus Developer Center](https://developer.oculus.com/)
 - [Workplace](https://www.workplace.com/)
@@ -350,7 +350,7 @@ description: Stores, marketplaces, product research, and resale
 ### Pinterest
 - [About Pinterest](https://about.pinterest.com/en)
 - [Pinterest](https://www.pinterest.com/ideas)
-- [Pinterest - Investor Relations](https://investor.pinterestinc.com/investor-overview/default.aspx)
+- [Pinterest](https://investor.pinterestinc.com/investor-overview/default.aspx) — Investor Relations
 - [Pinterest Business](https://business.pinterest.com/)
 - [Pinterest Careers](https://www.pinterestcareers.com/homepage)
 - [Pinterest Developers](https://developers.pinterest.com/)
@@ -377,7 +377,7 @@ description: Stores, marketplaces, product research, and resale
 
 ### 360So
 - [36kan](https://www.360kan.com/)
-- [So - Soft](https://soft.so.com/)
+- [So](https://soft.so.com/) — Soft
 - [So baike](https://baike.so.com/)
 - [So Ditu](https://ditu.so.com/)
 - [So ly](https://ly.so.com/)
@@ -394,23 +394,23 @@ description: Stores, marketplaces, product research, and resale
 - [1688.com](https://www.1688.com/)
 - [Adorama](https://www.adorama.com/)
 - [Alibaba](https://www.alibaba.com/)
-- [Alibris - books, music and movies](https://www.alibris.com/)
+- [Alibris](https://www.alibris.com/) — books, music and movies
 - [AliExpress](https://es.aliexpress.com/)
 - [Amazon.com](https://www.amazon.com/)
 - [Amazon.es](https://www.amazon.es/)
-- [Artsy — Discover, Buy, and Sell Fine Art](https://www.artsy.net/)
-- [AUTODOC – Autoteile Online Shop mit über 4 Millionen Kfz-Ersatzteilen](https://www.autodoc.de/)
+- [Artsy](https://www.artsy.net/) — Discover, Buy, and Sell Fine Art
+- [AUTODOC](https://www.autodoc.de/) — Autoteile Online Shop mit über 4 Millionen Kfz-Ersatzteilen
 - [Back Market](https://www.backmarket.com/)
-- [Back Market - Your Refurbished (Super) Market](https://www.backmarket.com/en-us)
+- [Back Market](https://www.backmarket.com/en-us) — Your Refurbished (Super) Market
 - [Banggood](https://www.banggood.com/)
 - [Best Buy](https://www.bestbuy.com/)
 - [bol.com](https://www.bol.com/nl/nl/)
 - [Bonanza](https://www.bonanza.com/)
-- [BOOTH - The International Indie Art Marketplace](https://booth.pm/en)
+- [BOOTH](https://booth.pm/en) — The International Indie Art Marketplace
 - [Bukalapak](https://www.bukalapak.com/)
 - [Canarias Prime](https://canariasprime.com/)
-- [Coolblue - alles voor een glimlach](https://www.coolblue.nl/)
-- [COOLMOD - Tienda Gaming, Informática y Electrónica Online](https://www.coolmod.com/)
+- [Coolblue](https://www.coolblue.nl/) — alles voor een glimlach
+- [COOLMOD](https://www.coolmod.com/) — Tienda Gaming, Informática y Electrónica Online
 - [Costco](https://www.costco.com/)
 - [DetodoExpres](https://detodoexpres.com/)
 - [DHgate](https://es.dhgate.com/)
@@ -419,17 +419,17 @@ description: Stores, marketplaces, product research, and resale
 - [eGlobal Central ES](https://www.eglobalcentrales.com/)
 - [eGlobal Central US](https://www.eglobalcentral.com/en_US)
 - [Etoren.com](https://eu.etoren.com/)
-- [Etsy - Shop for handmade, vintage, custom, and unique gifts for everyone](https://www.etsy.com/)
+- [Etsy](https://www.etsy.com/) — Shop for handmade, vintage, custom, and unique gifts for everyone
 - [FlexiSpot](https://www.flexispot.com/)
-- [Flipkart.com - Online Shopping India Mobile, Cameras, Lifestyle & more Online](https://www.flipkart.com/)
+- [Flipkart.com](https://www.flipkart.com/) — Online Shopping India Mobile, Cameras, Lifestyle & more Online
 - [focalprice](https://www.focalprice.com/)
 - [Geekbuying](https://www.geekbuying.com/)
 - [ikman.lk](https://ikman.lk/)
 - [Interflora](https://www.interflora.es/)
 - [JD.com](https://global.jd.com/)
-- [Joom - Shop every day, or whenever you feel like it](https://www.joom.com/en)
+- [Joom](https://www.joom.com/en) — Shop every day, or whenever you feel like it
 - [King Power](https://www.kingpower.com/?lang=en)
-- [Lazada.co.id | Jual Beli Online Terbaik di Indonesia](https://www.lazada.co.id/#?)
+- [Lazada.co.id](https://www.lazada.co.id/#?) — Jual Beli Online Terbaik di Indonesia
 - [Lazada.com.my](https://www.lazada.com.my/)
 - [leboncoin, site de petites annonces gratuites](https://www.leboncoin.fr/)
 - [ManoMano](https://www.manomano.fr/)
@@ -441,26 +441,26 @@ description: Stores, marketplaces, product research, and resale
 - [Ouku](https://www.ouku.com/es)
 - [Pinduoduo](https://en.pinduoduo.com/)
 - [Poshmark](https://poshmark.com/)
-- [Printify - Drop Shipping & Printing Service for E-commerce](https://printify.com/)
+- [Printify](https://printify.com/) — Drop Shipping & Printing Service for E-commerce
 - [Rakuten jp](https://www.rakuten.co.jp/)
 - [Redbubble](https://www.redbubble.com/)
 - [Sainsbury's](https://www.sainsburys.co.uk/)
 - [Shopee México](https://shopee.com.mx/)
 - [Sunning](https://www.suning.com/)
-- [TaoBao - 淘宝](https://main.m.taobao.com/)
+- [TaoBao](https://main.m.taobao.com/) — 淘宝
 - [Tecnofactory](https://www.tecnofactorytehabla.com/)
 - [Teknistore](https://www.teknistore.com/en)
-- [Temu | Explore the Latest Clothing, Beauty, Home, Jewelry & More](https://www.temu.com/)
+- [Temu](https://www.temu.com/) — Explore the Latest Clothing, Beauty, Home, Jewelry & More
 - [Tesla Shop](https://shop.tesla.com/)
 - [TMall](https://www.tmall.com/)
 - [Tokopedia](https://www.tokopedia.com/)
 - [Tomtop](https://www.tomtop.com/)
 - [TradeIndia](https://www.tradeindia.com/)
-- [TradingShenzhen - Smartphones / Gadgets for BEST PRICE](https://tradingshenzhen.com/en)
-- [Vintage Design Marketplace - VNTG](https://www.vntg.com/)
-- [VMALL - 华为商城](https://www.vmall.com/)
+- [TradingShenzhen](https://tradingshenzhen.com/en) — Smartphones / Gadgets for BEST PRICE
+- [Vintage Design Marketplace](https://www.vntg.com/) — VNTG
+- [VMALL](https://www.vmall.com/) — 华为商城
 - [Wayfair](https://www.wayfair.com/)
-- [Wildberries – Интернет-магазин модной одежды и обуви](https://www.wildberries.ru/)
+- [Wildberries](https://www.wildberries.ru/) — Интернет-магазин модной одежды и обуви
 - [Wish](https://www.wish.com/)
 - [XexyMix](https://www.xexymix.com/)
 - [Yandex market](https://market.yandex.ru/)
@@ -477,7 +477,7 @@ description: Stores, marketplaces, product research, and resale
 - [Cash Converters](http://cashconverters.es/)
 - [Compramostucoche](https://www.compramostucoche.es/)
 - [Freecycle](https://www.freecycle.org/)
-- [Geek - Compra y Vende en directo](https://geek.live/)
+- [Geek](https://geek.live/) — Compra y Vende en directo
 - [Jiji.ng](https://jiji.ng/)
 - [Klarna](https://www.klarna.com/es)
 - [Kyero](https://www.kyero.com/)
@@ -487,7 +487,7 @@ description: Stores, marketplaces, product research, and resale
 - [Milanuncios](https://www.milanuncios.com/)
 - [OLX Portugal](https://www.olx.pt/)
 - [Recycle & Company](https://recyclecompany.es/)
-- [RefurbMe - Compare Refurbished Apple: iPhone, MacBook & iPad](https://www.refurb.me/)
+- [RefurbMe](https://www.refurb.me/) — Compare Refurbished Apple: iPhone, MacBook & iPad
 - [RELIBREA](https://relibrea.com/)
 - [TrueCar](https://www.truecar.com/)
 - [Vibbo](https://www.vibbo.com/)
@@ -511,7 +511,7 @@ description: Stores, marketplaces, product research, and resale
 - [Musiker](https://www.muziker.es/)
 - [Muslands Music Shop](https://www.muslands.com/)
 - [Norman's Rare Guitars](https://www.normansrareguitars.com/)
-- [OhGuitar.com - The world's marketplace for guitar lovers](https://www.ohguitar.com/)
+- [OhGuitar.com](https://www.ohguitar.com/) — The world's marketplace for guitar lovers
 - [Paz Cerezo](https://pazcerezo.com/)
 - [Reverb](https://reverb.com/)
 - [Sweetwater](https://www.sweetwater.com/)
@@ -521,11 +521,11 @@ description: Stores, marketplaces, product research, and resale
 #### Electronic Store
 - [2GUD](https://www.2gud.com/)
 - [AHL Informática](https://ahlinformatica.com/)
-- [ameriDroid.com: US-Based Distributor of SBCs and Home Automation](https://ameridroid.com/)
+- [ameriDroid.com](https://ameridroid.com/) — US-Based Distributor of SBCs and Home Automation
 - [Arduino Store](https://store.arduino.cc/)
 - [Audio46](https://audio46.com/)
 - [Binary Systems](https://www-1.binarycanarias.com/)
-- [Boulanger © - Électroménager & Multimédia](https://www.boulanger.com/)
+- [Boulanger ©](https://www.boulanger.com/) — Électroménager & Multimédia
 - [Byte Canarias](https://www.bytecanarias.com/)
 - [CableMod](https://store.cablemod.com/)
 - [Carphone Warehouse](https://www.carphonewarehouse.com/)
@@ -535,20 +535,20 @@ description: Stores, marketplaces, product research, and resale
 - [DigiKey Electronics](https://www.digikey.es/)
 - [Digikey.com](https://www.digikey.com/)
 - [eSolutions](https://esolutions.shop/)
-- [Farnell Global | Global Electronic Component Distributor](https://farnell.com/)
+- [Farnell Global](https://farnell.com/) — Global Electronic Component Distributor
 - [Foto Suraj](https://fotosuraj.com/)
 - [FrSky RC](https://www.frsky-rc.com/)
-- [Hak5 - Pentest Tools & Media](https://hak5.org/)
+- [Hak5](https://hak5.org/) — Pentest Tools & Media
 - [Informatica Canarias by BGR Solutions](https://www.informaticacanarias.com/es/)
 - [Innova Informática (Lanzarote)](https://innovainformatica.com/)
-- [KUBII - Tienda oficial Raspberry PI](https://www.kubii.com/es/)
+- [KUBII](https://www.kubii.com/es/) — Tienda oficial Raspberry PI
 - [Lalo Electrónica](http://www.laloelectronica.com/)
 - [LDLC](https://www.ldlc.com/es-es)
 - [Macnificos](https://www.macnificos.com/)
 - [MaxGaming.com](https://www.maxgaming.com/)
-- [Mimic-Audio: Your home for anything headphones!](https://www.mimic-audio.com/)
+- [Mimic-Audio](https://www.mimic-audio.com/) — Your home for anything headphones!
 - [Mobile Advance](https://www.mobileadvance.com/)
-- [MovilRepuestos.es – Adquiere los mejores repuestos para móviles](https://movilrepuestos.es/)
+- [MovilRepuestos.es](https://movilrepuestos.es/) — Adquiere los mejores repuestos para móviles
 - [Newark Electronics](https://www.newark.com/)
 - [Novomusica](https://novomusica.com/)
 - [Orly](https://www.orly.es/)
@@ -557,7 +557,7 @@ description: Stores, marketplaces, product research, and resale
 - [PlayseatStore](https://www.playseatstore.es/)
 - [Prusa 3D](https://www.prusa3d.com/)
 - [Quonty](https://www.quonty.com/)
-- [Syspower - Material Informático](https://syspower.es/)
+- [Syspower](https://syspower.es/) — Material Informático
 - [Thakker.eu](https://www.thakker.eu/en)
 - [Visanta](https://visanta.com/)
 - [Western Digital Store](https://shop.westerndigital.com/)
@@ -565,22 +565,22 @@ description: Stores, marketplaces, product research, and resale
 ##### Informatic Store
 - [APP Informática](https://www.appinformatica.com/)
 - [B&H Photo Video](https://www.bhphotovideo.com/)
-- [Caseking ES - Tienda de Informática Especializada](https://www.caseking.es/)
+- [Caseking ES](https://www.caseking.es/) — Tienda de Informática Especializada
 - [ELOQUENT CLICKS](https://eloquentclicks.com/)
 - [Konokono](https://www.konokono.es/)
 - [Mechanical Keyboard, Keycaps, Mice, Mousepad & Gaming Gear](https://mechkeys.com/)
-- [MegaSystem.es - Informática](https://megasystem.es/)
+- [MegaSystem.es](https://megasystem.es/) — Informática
 - [Newegg](https://www.newegg.com/)
-- [Online Canarias | Tienda de Electrónica, Informática y Tecnología para Canarias](https://www.onlinecanarias.com/)
+- [Online Canarias](https://www.onlinecanarias.com/) — Tienda de Electrónica, Informática y Tecnología para Canarias
 - [PCBox](https://www.pcbox.com/)
 - [PcComponentes](https://www.pccomponentes.com/)
 - [Qi Canarias](https://qicanarias.com/)
 - [Red Computer](https://tienda.redcomputer.es/)
 - [Syswer Informática](http://tienda.syswer.com/)
-- [Tienda de Informática y Gaming | Mejor precio y Calidad | LIFE Informàtica](https://lifeinformatica.com/)
-- [Ultima Informatica - Tiende de informática y tecnología en Canarias](https://ultimainformatica.com/)
+- [Tienda de Informática y Gaming](https://lifeinformatica.com/) — Mejor precio y Calidad | LIFE Informàtica
+- [Ultima Informatica](https://ultimainformatica.com/) — Tiende de informática y tecnología en Canarias
 - [Versus Gamers](https://www.vsgamers.es/)
-- [Xtremmedia.com - Tienda de informática online de precios xtremos](https://www.xtremmedia.com/)
+- [Xtremmedia.com](https://www.xtremmedia.com/) — Tienda de informática online de precios xtremos
 
 #### Big-Box Store
 - [7-Eleven](https://www.7-eleven.com/)
@@ -622,13 +622,13 @@ description: Stores, marketplaces, product research, and resale
 - [Buwizz](https://buwizz.com/)
 - [Canvasogram](https://canvasogram.com/)
 - [Chess Shop](https://www.chesscomshop.com/)
-- [CrunchLabs: Where kids & adults learn to Think like Engineers](https://www.crunchlabs.com/)
+- [CrunchLabs](https://www.crunchlabs.com/) — Where kids & adults learn to Think like Engineers
 - [Dideco](https://www.dideco.es/)
 - [Fanshop Movistar+](https://fanshop.movistarplus.es/)
 - [Fun Science](https://funscience.in/)
 - [Hasbro products](https://products.hasbro.com/)
 - [I love Growing Marijuana](https://www.ilovegrowingmarijuana.com/)
-- [Ikonick - Canvas Art](https://ikonick.com/)
+- [Ikonick](https://ikonick.com/) — Canvas Art
 - [Imanes Neodimio Biomagnetismo](https://www.i-manes.com/)
 - [KiwiCo](https://www.kiwico.com/)
 - [Krom Kedama](https://kromkendama.com/)
@@ -649,7 +649,7 @@ description: Stores, marketplaces, product research, and resale
 - [Toys”R”Us](https://www.toysrus.com/)
 - [TrippyStore](https://trippystore.com/)
 - [VTSS Toys](http://www.vtsstoys.com/)
-- [WestArtFactory - Premium Cheat Sheets made out of PCBs](https://www.westartfactory.com/)
+- [WestArtFactory](https://www.westartfactory.com/) — Premium Cheat Sheets made out of PCBs
 
 ##### Cube Shop
 - [Cube4you](http://cube4you.com/)
@@ -662,7 +662,7 @@ description: Stores, marketplaces, product research, and resale
 
 ##### Posters Stores
 - [Anderson Design Group Store](https://www.andersondesigngroupstore.com/)
-- [Displate - metal posters](https://displate.com/)
+- [Displate](https://displate.com/) — metal posters
 - [Gallery Quality Art Prints](https://www.inprnt.com/)
 - [GBPosters](https://www.gbposters.com/)
 - [Imagekind](https://www.imagekind.com/)
@@ -674,7 +674,7 @@ description: Stores, marketplaces, product research, and resale
 ##### Painting Shop
 - [Artenet](https://artenet.es/)
 - [Arts Fité](https://www.artsfite.com/es)
-- [Artwork - Buy Original Art Online, Paintings & More](https://www.saatchiart.com/)
+- [Artwork](https://www.saatchiart.com/) — Buy Original Art Online, Paintings & More
 - [Buy Art](https://www.artfinder.com/#/)
 - [DIY Decor Mom](https://www.diydecormom.com/)
 - [Todocuadros](https://www.todocuadros.es/)
@@ -685,7 +685,7 @@ description: Stores, marketplaces, product research, and resale
 - [Cartamundi](https://cartamundi.com/en)
 - [Fournier](https://www.nhfournier.es/)
 - [Kardwell cards](https://www.kardwell.com/)
-- [Magic: The Gathering](https://magic.wizards.com/en)
+- [Magic](https://magic.wizards.com/en) — The Gathering
 - [NaipesZaca](https://www.naipeszaca.com/es)
 - [PlayingCardDecks](https://playingcarddecks.com/)
 - [US Playing Card](https://usplayingcard.com/)
@@ -693,11 +693,11 @@ description: Stores, marketplaces, product research, and resale
 - [Yu-Gi-Oh! Trading card game](https://www.yugioh-card.com/en)
 
 #### Vehicle Store
-- [Car.com - We Do the Research, You Do the Driving](https://www.car.com/)
-- [Car.gr - Μεταχειρισμένα αυτοκίνητα](https://www.car.gr/)
-- [Cars.com - New Cars, Used Cars, Car Dealers, Prices & Reviews](https://www.cars.com/)
+- [Car.com](https://www.car.com/) — We Do the Research, You Do the Driving
+- [Car.gr](https://www.car.gr/) — Μεταχειρισμένα αυτοκίνητα
+- [Cars.com](https://www.cars.com/) — New Cars, Used Cars, Car Dealers, Prices & Reviews
 - [CarsBarter](https://www.carsbarter.es/)
-- [Coches.com - Todos los coches nuevos, seminuevos, coches de segunda mano y ocasión en un lugar.](https://www.coches.com/)
+- [Coches.com](https://www.coches.com/) — Todos los coches nuevos, seminuevos, coches de segunda mano y ocasión en un lugar.
 - [Coches.net](https://www.coches.net/)
 - [Kavak](https://www.kavak.com/)
 - [Top Barcos](https://www.topbarcos.com/)
@@ -714,7 +714,7 @@ description: Stores, marketplaces, product research, and resale
 - [BooksActually](https://www.booksactuallyshop.com/)
 - [Bookshop](https://bookshop.org/)
 - [Casa del Libro](https://www.casadellibro.com/)
-- [Chegg - Books](https://www.chegg.com/books)
+- [Chegg](https://www.chegg.com/books) — Books
 - [ComiXology](https://www.comixology.com/)
 - [IberLibro](https://www.iberlibro.com/)
 - [Laie librería](https://www.laie.es/es)
@@ -726,9 +726,9 @@ description: Stores, marketplaces, product research, and resale
 - [Megustaleer](https://www.megustaleer.com/)
 - [Phaidon](https://phaidon.com/)
 - [Planeta de Libros](https://www.planetadelibros.com/)
-- [Plataforma del Estudiante - Especialistas en compra y venta de libros de texto](https://www.plataformadelestudiante.com/)
+- [Plataforma del Estudiante](https://www.plataformadelestudiante.com/) — Especialistas en compra y venta de libros de texto
 - [Politics and Prose](https://www.politics-prose.com/)
-- [Tienda de la Real Academia Española - Letras de la Real Academia Española](https://letras.rae.es/)
+- [Tienda de la Real Academia Española](https://letras.rae.es/) — Letras de la Real Academia Española
 - [Todos tus libros](https://www.todostuslibros.com/)
 - [Waterstones](https://www.waterstones.com/)
 
@@ -741,7 +741,7 @@ description: Stores, marketplaces, product research, and resale
 - [Kobo](https://www.kobo.com/)
 - [Leanpub](https://leanpub.com/)
 - [Lektu](https://lektu.com/)
-- [Packt | Programming Books](https://www.packtpub.com/)
+- [Packt](https://www.packtpub.com/) — Programming Books
 - [tagusbooks](https://www.tagusbooks.com/)
 - [ThriftBooks](https://www.thriftbooks.com/)
 
@@ -766,7 +766,7 @@ description: Stores, marketplaces, product research, and resale
 - [Apartments](https://www.apartments.com/)
 - [Arkadia](https://es.arkadia.com/)
 - [Baker Hedges](https://www.barkerhedges.com/)
-- [Compass - Real Estate, Homes for Sale & Apartments for Rent](https://www.compass.com/)
+- [Compass](https://www.compass.com/) — Real Estate, Homes for Sale & Apartments for Rent
 - [Cuna del Alma](https://www.cunadelalma.com/)
 - [Fotocasa](https://www.fotocasa.es/es)
 - [Global Listings](https://www.globallistings.com/)
@@ -780,9 +780,9 @@ description: Stores, marketplaces, product research, and resale
 - [pisos.com](https://www.pisos.com/)
 - [realestate.com.au](https://www.realestate.com.au/)
 - [Realtor](https://www.realtor.com/)
-- [Redfin | Real Estate & Homes for Sale, Rentals, Mortgages & Agents](https://www.redfin.com/)
+- [Redfin](https://www.redfin.com/) — Real Estate & Homes for Sale, Rentals, Mortgages & Agents
 - [SpainHouses.net](https://www.spainhouses.net/)
-- [Stagemarkt.nl | Stages bij erkende leerbedrijven](https://stagemarkt.nl/)
+- [Stagemarkt.nl](https://stagemarkt.nl/) — Stages bij erkende leerbedrijven
 - [Student.com](https://www.student.com/)
 - [StuRents](https://sturents.com/)
 - [Tecnocasa](https://www.tecnocasa.es/)
@@ -790,14 +790,14 @@ description: Stores, marketplaces, product research, and resale
 - [Trovit](https://casas.trovit.es/)
 - [Trulia](https://www.trulia.com/)
 - [yaencontre](https://www.yaencontre.com/)
-- [Zillow - Real Estate, Apartments, Mortgages & Home Values](https://www.zillow.com/)
+- [Zillow](https://www.zillow.com/) — Real Estate, Apartments, Mortgages & Home Values
 - [Zoopla](https://www.zoopla.co.uk/)
 
 #### Home Improvement
 - [1stDibs](https://www.1stdibs.com/)
 - [All modern](https://www.allmodern.com/)
 - [Contraveta](https://www.contraveta.com/)
-- [Garza | Tienda de Domótica Online](https://garza.es/)
+- [Garza](https://garza.es/) — Tienda de Domótica Online
 - [IKEA](https://www.ikea.com/es/es)
 - [IKEA Islas](https://www.islas.ikea.es/)
 - [LEROY MERLIN](https://www.leroymerlin.es/)
@@ -814,9 +814,9 @@ description: Stores, marketplaces, product research, and resale
 
 #### Clothes Shops
 - [Abercrombie & Fitch](https://www.abercrombie.com/shop/eu)
-- [ASOS | Online Shopping for the Latest Clothes & Fashion](https://www.asos.com/)
+- [ASOS](https://www.asos.com/) — Online Shopping for the Latest Clothes & Fashion
 - [Balenciaga](https://www.balenciaga.com/es-es)
-- [Base - Zapatillas, ropa y más](https://base.net/)
+- [Base](https://base.net/) — Zapatillas, ropa y más
 - [Bergfreunde.es](https://www.bergfreunde.es/)
 - [Chic Me](https://www.chicme.com/)
 - [Decimas](https://www.decimas.com/es-es/)
@@ -829,48 +829,48 @@ description: Stores, marketplaces, product research, and resale
 - [Gobicashmere](https://www.gobicashmere.com/)
 - [Harrods](https://www.harrods.com/en-es)
 - [hummel](https://www.hummel.net/)
-- [Jacketars - Men, Women, Movies, TV Series and Gaming Premium Outfits](https://www.jacketars.com/)
+- [Jacketars](https://www.jacketars.com/) — Men, Women, Movies, TV Series and Gaming Premium Outfits
 - [Macy's](https://www.macys.com/)
-- [Madewell | Jeans, Clothing, Shoes & Bags for Women and Men](https://www.madewell.com/ES/)
+- [Madewell](https://www.madewell.com/ES/) — Jeans, Clothing, Shoes & Bags for Women and Men
 - [Milanoo](https://www.milanoo.com/)
 - [Mr Porter](https://www.mrporter.com/en-us/)
 - [Naisa](https://naisa.es/)
 - [Nordstrom](https://www.nordstrom.com/)
 - [ODG Store](https://odgkids.com/)
-- [Peloton | Workouts Streamed Live & On-Demand](https://www.onepeloton.com/)
+- [Peloton](https://www.onepeloton.com/) — Workouts Streamed Live & On-Demand
 - [Primark](https://www.primark.com/)
 - [Prozis](https://www.prozis.com/es/es/)
 - [Qwertee.com](https://www.qwertee.com/)
-- [Represent | Merchandise](https://represent.com/)
-- [Running Warehouse - Shop Men's Running Shoes and Gear](https://www.runningwarehouse.com/)
+- [Represent](https://represent.com/) — Merchandise
+- [Running Warehouse](https://www.runningwarehouse.com/) — Shop Men's Running Shoes and Gear
 - [SAVAGE X](https://www.savagex.es/)
-- [SHEIN - Shop Clothes Fashion](https://eur.shein.com/)
+- [SHEIN](https://eur.shein.com/) — Shop Clothes Fashion
 - [Spreadshirt](https://www.spreadshirt.com/)
 - [The Black Tape Project](https://www.blacktapeproject.com/)
 - [Under Armour](https://www.underarmour.es/en-es)
 - [White Fox Boutique](https://whitefoxboutique.com/)
-- [Xti Store | Zapatos Online de Mujer y Hombre](https://xtistore.com/)
-- [Xti Tenerife | Encuentra todo el catálogo en Calzados Troen](https://calzadostroen.com/marca/xti-tenerife)
+- [Xti Store](https://xtistore.com/) — Zapatos Online de Mujer y Hombre
+- [Xti Tenerife](https://calzadostroen.com/marca/xti-tenerife) — Encuentra todo el catálogo en Calzados Troen
 - [Zappos](https://www.zappos.com/)
 
 ##### Merchandaising
 - [Adam Bobrow Merch](https://adambobrow.com/)
 - [Admin Apparel](https://adminapparel.com/en-eur/)
-- [Alan Becker YouTube Creator & Animator | Merch](https://alanbecker.shop/)
+- [Alan Becker YouTube Creator & Animator](https://alanbecker.shop/) — Merch
 - [Alan walker Store](https://store.alanwalker.no/)
-- [Astro Shop - Time to suit up](https://shop.astro.build/)
+- [Astro Shop](https://shop.astro.build/) — Time to suit up
 - [AURON HOUSE](https://www.auronhouse.com/es/)
 - [Barça Store](https://store.fcbarcelona.com/es)
 - [Based.win](https://based.win/)
 - [Batera Brand](https://www.baterabrand.com/)
-- [Bonfire - Design your own shirt on material you’ll love](https://www.bonfire.com/)
+- [Bonfire](https://www.bonfire.com/) — Design your own shirt on material you’ll love
 - [Bralcon Hat](https://bralcon.com/)
 - [CafePress](https://www.cafepress.com/)
 - [Chess.com Merch](https://chesscom.shop/)
 - [Chris Heria](https://chrisheria.com/)
 - [CloudKid Shop](https://cloudkid.shop/)
 - [Corridor Digital Storefront](https://corridordigital.store/)
-- [Cotton Bureau - Shop Graphic Tees, Hoodies, and More.](https://cottonbureau.com/)
+- [Cotton Bureau](https://cottonbureau.com/) — Shop Graphic Tees, Hoodies, and More.
 - [Crowdmade](https://crowdmade.com/)
 - [David the Robot Merch](https://www.davidtherobot.com/)
 - [Democrats Store](https://store.democrats.org/)
@@ -884,21 +884,21 @@ description: Stores, marketplaces, product research, and resale
 - [Firewire surfboards](https://www.firewiresurfboards.com/)
 - [Flashcookie](https://flashcookie.com/)
 - [Frankly Wearing](https://www.franklywearing.com/)
-- [FreeWear.org - Open Source T-shirts](https://www.freewear.org/)
+- [FreeWear.org](https://www.freewear.org/) — Open Source T-shirts
 - [FRESH Store](https://freshstore.co/)
-- [Gamersupps - The Leader in Gaming Energy & Nutrition; Waifu Cups/Gaming Supplements](https://gamersupps.gg/)
+- [Gamersupps](https://gamersupps.gg/) — The Leader in Gaming Energy & Nutrition; Waifu Cups/Gaming Supplements
 - [Get In the Car](https://getinthecar.com/)
 - [GOP Store](https://www.gopstore.com/)
 - [Imagine Dragons Official Store](https://shop.imaginedragonsmusic.com/)
 - [Infowars Store](https://www.infowarsstore.com/)
-- [INTO THE AM | Elevated Everyday Apparel for Men](https://www.intotheam.com/)
+- [INTO THE AM](https://www.intotheam.com/) — Elevated Everyday Apparel for Men
 - [IShowSpeedStore](https://www.ishowspeedstore.com/)
-- [Justin Bieber | Shop](https://shop.justinbiebermusic.com/)
+- [Justin Bieber](https://shop.justinbiebermusic.com/) — Shop
 - [laTostadora](https://www.latostadora.com/)
 - [LazarBeam Shop](https://shoplazar.com/)
 - [Linus Tech Tips Store](https://www.lttstore.com/)
 - [Lofi Girl Merch](https://lofigirlshop.com/)
-- [Maximum Comfy - Sh*tposting for a Good Cause](https://maximumcomfy.com/)
+- [Maximum Comfy](https://maximumcomfy.com/) — Sh*tposting for a Good Cause
 - [Mazeshirt](https://mazeshirt.com/)
 - [Merchbar](https://www.merchbar.com/)
 - [Mike O'Hearn Lifestyle](https://www.mikeohearnlifestyle.com/)
@@ -933,7 +933,7 @@ description: Stores, marketplaces, product research, and resale
 - [Wikipedia Store](https://store.wikimedia.org/)
 - [WildStyleStore](https://wildstylestore.com/)
 - [XYLO Merch Store](https://xylostore.com/)
-- [Zazzle | Personalized Custom Gifts & Instant Downloads](https://www.zazzle.com/)
+- [Zazzle](https://www.zazzle.com/) — Personalized Custom Gifts & Instant Downloads
 
 #### Game Store
 - [Game.co.uk](https://www.game.co.uk/)
@@ -958,13 +958,13 @@ description: Stores, marketplaces, product research, and resale
 - [Amazon Wishlist](https://www.amazon.com/hz/wishlist/intro)
 - [DiggyPOD](https://www.diggypod.com/)
 - [Lulu](https://www.lulu.com/)
-- [PayHip - Sell digital downloads and courses](https://payhip.com/)
+- [PayHip](https://payhip.com/) — Sell digital downloads and courses
 - [Sell.app](https://sell.app/)
-- [Skeb - Request Box](https://skeb.jp/)
+- [Skeb](https://skeb.jp/) — Request Box
 - [Snipfeed.co](https://snipfeed.co/)
 - [Teachable](https://teachable.com/)
-- [Throne - Commerce Platform](https://thronegifts.com/landing)
-- [Throne | The Wishlist for Creators](https://throne.com/landing)
+- [Throne](https://thronegifts.com/landing) — Commerce Platform
+- [Throne](https://throne.com/landing) — The Wishlist for Creators
 
 #### Magic Shop
 - [Andamagia](https://www.andamagia.com/)
@@ -1002,7 +1002,7 @@ description: Stores, marketplaces, product research, and resale
 - [gafas.es](https://www.gafas.es/)
 - [General Optica](https://www.generaloptica.es/es)
 - [iOptica](https://www.ioptica.es/)
-- [Lentillas Si - Comprar Lentillas Baratas Online](https://www.lentillassi.es/)
+- [Lentillas Si](https://www.lentillassi.es/) — Comprar Lentillas Baratas Online
 - [Multiópticas](https://www.multiopticas.com/es/home)
 - [Óptica & Audiología Universitaria](https://www.opticauniversitaria.es/)
 - [Optica Rieu](http://www.opticarieu.com/)
@@ -1015,15 +1015,15 @@ description: Stores, marketplaces, product research, and resale
 - [KEMET](https://www.kemet.com/en/us.html)
 - [LM Wind Power](https://www.lmwindpower.com/)
 - [McMaster-Carr](https://www.mcmaster.com/)
-- [Octopart: Electronics Parts Search Engine](https://octopart.com/)
+- [Octopart](https://octopart.com/) — Electronics Parts Search Engine
 - [Thomasnet](https://www.thomasnet.com/)
 
 #### Auction Store
 - [Catawiki](https://www.catawiki.com/en)
 - [Charitybuzz](https://www.charitybuzz.com/)
-- [Colnect - Colnect, connecting collectors](https://colnect.com/en)
+- [Colnect](https://colnect.com/en) — Colnect, connecting collectors
 - [Govdeals](https://www.govdeals.com/)
-- [Heritage Auctions | World's Largest Collectibles Auctioneer](https://www.ha.com/)
+- [Heritage Auctions](https://www.ha.com/) — World's Largest Collectibles Auctioneer
 - [Listia](https://www.listia.com/)
 - [PaulFraser Collectibles](https://www.paulfrasercollectibles.com/)
 - [PropertyRoom](https://www.propertyroom.com/)
@@ -1033,12 +1033,12 @@ description: Stores, marketplaces, product research, and resale
 - [Cuchillería el Artesano](https://cuchilleriaelartesano.com/es)
 
 #### Cosmetics Shop
-- [Candle Moments Co – Velas aromáticas y melts de soja hechos a mano](https://candlemomentsco.com/)
+- [Candle Moments Co](https://candlemomentsco.com/) — Velas aromáticas y melts de soja hechos a mano
 - [Douglas](https://douglas.es/)
 - [Fenty Beauty](https://www.fentybeauty.com/)
 - [Guerlain](https://www.guerlain.com/es/es-es#anchor-section-1)
 - [KIKO Milano](https://www.kikocosmetics.com/es-es)
-- [OK Perfumes: Equivalencia, Calidad y Durabilidad Asequible](https://okperfumes.com/)
+- [OK Perfumes](https://okperfumes.com/) — Equivalencia, Calidad y Durabilidad Asequible
 - [Perfumerías Primor](https://www.primor.eu/)
 - [Sephora](https://www.sephora.com/)
 - [Shop Miss A](https://www.shopmissa.com/)
@@ -1061,7 +1061,7 @@ description: Stores, marketplaces, product research, and resale
 - [Jonna Jinton Jewellery](https://jonnajintonsweden.com/)
 - [Ka Gold Jewelry](https://www.ka-gold-jewelry.com/)
 - [Kay](https://www.kay.com/)
-- [Majorica | Reinventing pearls](https://www.majorica.com/en/)
+- [Majorica](https://www.majorica.com/en/) — Reinventing pearls
 - [Tiffany & Co.](https://www.tiffany.com/)
 - [Zales](https://www.zales.com/)
 
@@ -1105,26 +1105,26 @@ description: Stores, marketplaces, product research, and resale
 #### Laser Store
 - [BigLasers.com](https://biglasers.com/)
 - [Comprar laser](https://www.comprarlaser.com/)
-- [Laser Pointer Store - No.1 Online Laser Store](https://www.laserpointerstore.com/)
-- [LaserCube | World's First Portable Laser Show](https://www.laseros.com/)
+- [Laser Pointer Store](https://www.laserpointerstore.com/) — No.1 Online Laser Store
+- [LaserCube](https://www.laseros.com/) — World's First Portable Laser Show
 - [Laserpecker](https://www.laserpecker.net/)
 - [Lasertack](https://www.lasertack.com/en)
 - [Laserwar](https://laserwar.com/)
-- [X-Laser - Laser light show projectors](https://x-laser.com/)
+- [X-Laser](https://x-laser.com/) — Laser light show projectors
 
 #### Food Store
 - [Frutas y Verduras Nito](https://frutasyverdurasnito.es/)
-- [Kroger - Groceries & Pharmacy](https://www.kroger.com/)
+- [Kroger](https://www.kroger.com/) — Groceries & Pharmacy
 - [PepperHead](https://pepperhead.com/)
 
 ### Technology Company
-- [Altair | Discover Continuously. Advance Infinitely - Only Forward.](https://altair.com/)
+- [Altair](https://altair.com/) — Discover Continuously. Advance Infinitely - Only Forward.
 - [Azimut Emotion Bus Solutions](https://www.azimutbussolutions.com/)
 
 #### Hardware Company
-- [Aaronia AG - HF und EMV-Messtechnik, Antennen und Abschirmmaterialien](https://aaronia.com/)
+- [Aaronia AG](https://aaronia.com/) — HF und EMV-Messtechnik, Antennen und Abschirmmaterialien
 - [Arm](https://www.arm.com/)
-- [Aurzen | Smart Projectors for Immersive Entertainment](https://aurzen.com/)
+- [Aurzen](https://aurzen.com/) — Smart Projectors for Immersive Entertainment
 - [BlackBerry](https://www.blackberry.com/us/en)
 - [Circuit Sprecialist](https://www.circuitspecialists.com/)
 - [CLEVO](https://www.clevo.com.tw/)
@@ -1132,13 +1132,13 @@ description: Stores, marketplaces, product research, and resale
 - [Dune HD](https://www.dune-hd.com/)
 - [Frontpage](https://www.nitrokey.com/)
 - [Grass Valley](https://www.grassvalley.com/)
-- [Hokua RF - Tools, Converters and Calculators for RF Design, IQ signal sample files](https://hokua-rf.com/)
+- [Hokua RF](https://hokua-rf.com/) — Tools, Converters and Calculators for RF Design, IQ signal sample files
 - [MKS](https://www.mks.com/)
-- [OpenSprinkler - Irrigation control](https://opensprinkler.com/)
-- [Plume | Smart home experience management for Internet Service Providers](https://www.plume.com/)
+- [OpenSprinkler](https://opensprinkler.com/) — Irrigation control
+- [Plume](https://www.plume.com/) — Smart home experience management for Internet Service Providers
 - [Polytron Corp](http://www.polytron-corp.com/)
 - [Puget Systems](https://www.pugetsystems.com/)
-- [Roku – Streaming devices, smart TVs, smart home & audio products](https://www.roku.com/)
+- [Roku](https://www.roku.com/) — Streaming devices, smart TVs, smart home & audio products
 - [Sony.com](https://www.sony.com/)
 - [The Toro Company](https://www.thetorocompany.com/)
 - [Western Electric](https://www.westernelectric.com/)
@@ -1151,7 +1151,7 @@ description: Stores, marketplaces, product research, and resale
 - [Cubot](https://www.cubot.net/)
 - [DOOGEE](https://www.doogee.cc/)
 - [Doro phones](https://www.doro.com/en-gb)
-- [Encrypted OS - Silent Circle Blackphone 2](https://www.encrypted-os.com/)
+- [Encrypted OS](https://www.encrypted-os.com/) — Silent Circle Blackphone 2
 - [F(x)tec](https://www.fxtec.com/)
 - [Fairphone](https://www.fairphone.com/en)
 - [Fairphone](https://www.fairphone.com/nl)
@@ -1163,20 +1163,20 @@ description: Stores, marketplaces, product research, and resale
 - [Kapsys](https://www.kapsys.com/en/)
 - [LG Phones](https://www.lg.com/es/telefonos-moviles)
 - [Motorola](https://www.motorola.com/us)
-- [Murena - deGoogled phones and services](https://murena.com/products/smartphones/)
-- [Murena - privacy by design smartphones](https://murena.com/)
-- [NexPhone | Your phone as PC](https://nexphone.com/)
+- [Murena](https://murena.com/products/smartphones/) — deGoogled phones and services
+- [Murena](https://murena.com/) — privacy by design smartphones
+- [NexPhone](https://nexphone.com/) — Your phone as PC
 - [Nokia](https://www.nokia.com/es_int)
 - [Nokia Bell Labs](https://www.bell-labs.com/)
 - [OnePlus](https://www.oneplus.com/es)
 - [OPPO](https://www.oppo.com/en)
 - [POCO](https://www.poco.net/es)
-- [RAZ Mobility | Next Generation Assistive Technology](https://www.razmobility.com/)
+- [RAZ Mobility](https://www.razmobility.com/) — Next Generation Assistive Technology
 - [Realme](https://www.realme.com/es)
 - [RedMagic](https://eu.redmagic.gg/)
 - [Samsung](https://www.samsung.com/es/smartphones/all-smartphones)
 - [SHIFT Phones](https://www.shiftphones.com/)
-- [shift.eco - Sustainable technology from Germany](https://www.shift.eco/en/)
+- [shift.eco](https://www.shift.eco/en/) — Sustainable technology from Germany
 - [Smartisan](https://www.smartisan.com/)
 - [Sony mobiles](https://www.sony.es/electronics/movil)
 - [The Light Phone](https://www.thelightphone.com/)
@@ -1185,15 +1185,15 @@ description: Stores, marketplaces, product research, and resale
 - [Volla Mobile Devices](https://volla.online/en/index.php)
 - [Wileyfox](https://wileyfox.com/)
 - [Xiaomi](https://www.mi.com/es)
-- [Xiaomi - List](https://www.mi.com/es/list)
+- [Xiaomi](https://www.mi.com/es/list) — List
 - [ZTE](https://www.ztedevices.com/en)
 
 ###### Wereable Company
-- [Amazfit Global | Official Online Store](https://www.amazfit.com/)
+- [Amazfit Global](https://www.amazfit.com/) — Official Online Store
 - [Garmin](https://www.garmin.com/es-ES/)
 - [Garmin](https://www.garmin.com/en-US/)
-- [Huami | Empowering Health, Inspiring Joy](https://www.huami.com/)
-- [Suunto - sports watches, dive products, compasses and accessories](https://www.suunto.com/es-es/)
+- [Huami](https://www.huami.com/) — Empowering Health, Inspiring Joy
+- [Suunto](https://www.suunto.com/es-es/) — sports watches, dive products, compasses and accessories
 
 ##### Camera Company
 - [Canon Global](https://global.canon/en)
@@ -1213,7 +1213,7 @@ description: Stores, marketplaces, product research, and resale
 - [Nikon España](https://www.nikon.es/es_ES/products/category_pages/digital_cameras/category_slr.page)
 - [Olympus cámaras](https://www.olympus.es/site/es/c/index.html)
 - [Panasonic Cámaras Lumix S](https://www.panasonic.com/es/consumer/camaras-y-videocamaras/camaras-lumix-s.html)
-- [Ricoh - Pentax cameras](https://us.ricoh-imaging.com/)
+- [Ricoh](https://us.ricoh-imaging.com/) — Pentax cameras
 - [SIGMA Corporation of America](https://www.sigmaphoto.com/)
 - [Sony cámaras](https://www.sony.es/electronics/camaras)
 - [Viltrox](https://viltroxstore.com/)
@@ -1278,11 +1278,11 @@ description: Stores, marketplaces, product research, and resale
 - [Universal Audio](https://www.uaudio.com/)
 - [V-MODA](https://www.v-moda.com/eu/en)
 - [Waves Audio](https://www.waves.com/)
-- [Yamaha - España](https://es.yamaha.com/index.html)
+- [Yamaha](https://es.yamaha.com/index.html) — España
 - [ZOOM](https://zoomcorp.com/en/us)
 
 ###### Microphone Company
-- [3Dio: Professional Binaural Microphones](https://3diosound.com/)
+- [3Dio](https://3diosound.com/) — Professional Binaural Microphones
 - [RØDE](https://www.rode.com/)
 - [Shure](https://www.shure.com/es-ES)
 
@@ -1295,7 +1295,7 @@ description: Stores, marketplaces, product research, and resale
 - [KZ earphone](http://kzacoustics.com/#home)
 - [KZ Earphones](https://kz-audio.com/)
 - [KZ ES4](https://penonaudio.com/kz-es4.html)
-- [Linsoul - High Quality Earphone Headphone DAC Amplifier Amp](https://www.linsoul.com/)
+- [Linsoul](https://www.linsoul.com/) — High Quality Earphone Headphone DAC Amplifier Amp
 - [Meze Audio](https://mezeaudio.com/)
 - [Poly](https://www.poly.com/us/en)
 - [RHA](https://www.rha-audio.com/)
@@ -1315,7 +1315,7 @@ description: Stores, marketplaces, product research, and resale
 - [Firefly Aerospace](https://firefly.com/)
 - [Relativity Space](https://www.relativityspace.com/)
 - [Sent Into Space](https://www.sentintospace.com/)
-- [Sierra Nevada Corporation | SNC](https://www.sncorp.com/)
+- [Sierra Nevada Corporation](https://www.sncorp.com/) — SNC
 - [SpaceX](https://www.spacex.com/)
 - [Stoke Space / 100% reusable rockets / USA](https://www.stokespace.com/)
 - [Stratolaunch](https://www.stratolaunch.com/)
@@ -1402,12 +1402,12 @@ description: Stores, marketplaces, product research, and resale
 - [TATA](https://www.tatamotors.com/)
 - [Toyota es](https://www.toyota.es/)
 - [Volvo](https://www.volvo.com/home.html)
-- [Waymo - Vehículos autónomos](https://waymo.com/intl/es/)
+- [Waymo](https://waymo.com/intl/es/) — Vehículos autónomos
 - [Yamaha Motor](https://global.yamaha-motor.com/)
 
 **Group Cars Companies**
 - [Daimler](https://www.daimler.com/en)
-- [Domingo Alonso Group | Automoción](https://www.domingoalonsogroup.com/es/)
+- [Domingo Alonso Group](https://www.domingoalonsogroup.com/es/) — Automoción
 - [Electric Life Group](https://www.electriclifegroup.com/)
 - [Faraday Future](https://www.ff.com/)
 - [Ford](https://www.ford.com/)
@@ -1452,11 +1452,11 @@ description: Stores, marketplaces, product research, and resale
 - [Airbus](https://www.airbus.com/)
 - [Airbus A310 Zero G](https://www.airzerog.com/)
 - [ATR Aircraft](http://www.atraircraft.com/)
-- [Avionics Interface Technologies — A Teradyne Company](https://aviftech.com/)
+- [Avionics Interface Technologies](https://aviftech.com/) — A Teradyne Company
 - [Boeing](https://www.boeing.com/)
 - [Bombardier](https://www.bombardier.com/en/home.html)
 - [Bombardier](https://bombardier.com/en)
-- [Cessna - Textron Aircraft](https://cessna.txtav.com/)
+- [Cessna](https://cessna.txtav.com/) — Textron Aircraft
 - [Collins Aerospace](https://www.collinsaerospace.com/)
 - [Embraer](https://www.embraercommercialaviation.com/)
 - [EXOS Aerospace](https://exosaero.com/)
@@ -1530,7 +1530,7 @@ description: Stores, marketplaces, product research, and resale
 - [Lime Micromobility](https://www.li.me/en-us/home)
 - [LINK.city](https://www.link.city/)
 - [Mi Scooters](https://miscooters.com/)
-- [NIU Shop - E Scooter](https://shop.niu.com/)
+- [NIU Shop](https://shop.niu.com/) — E Scooter
 - [NIU Smart Electric Scooter](https://www.niu.com/en)
 - [Razor](https://global.razor.com/es)
 - [Segway](https://www.segway.com/)
@@ -1542,7 +1542,7 @@ description: Stores, marketplaces, product research, and resale
 ###### Drons Company
 - [Aerialtronics](https://www.aerialtronics.com/en)
 - [Corvus Robotics](https://www.corvus-robotics.com/)
-- [DJI - Drones](https://www.dji.com/es)
+- [DJI](https://www.dji.com/es) — Drones
 - [DroneDeploy](https://www.dronedeploy.com/)
 - [Dronefly](https://www.dronefly.com/)
 - [DroneSense](https://dronesense.com/)
@@ -1561,7 +1561,7 @@ description: Stores, marketplaces, product research, and resale
 - [Teal Drones](https://tealdrones.com/)
 - [TerraView](https://terraview.com/)
 - [The Drone Racing League](https://thedroneracingleague.com/)
-- [UMILES | El mayor proveedor de servicios con drones en España que opera en Europa y Latinoamérica](https://umilesgroup.com/)
+- [UMILES](https://umilesgroup.com/) — El mayor proveedor de servicios con drones en España que opera en Europa y Latinoamérica
 - [Union Robotics](https://union-robotics.com/)
 - [Valqari](https://www.valqari.com/)
 - [Volansi](https://volansi.com/)
@@ -1580,7 +1580,7 @@ description: Stores, marketplaces, product research, and resale
 - [Aerostar](https://aerostar.com/)
 - [ESS Weathertech](https://www.essweather.com/)
 - [Jimsphere Balloon](https://www.jimsphere.com/)
-- [Kaymont | Weather Balloons](https://www.kaymont.com/)
+- [Kaymont](https://www.kaymont.com/) — Weather Balloons
 - [NovaLynx](https://novalynx.com/store/pc/home2.asp)
 - [Raven Industries](https://ravenind.com/)
 - [Scientific Sales](https://www.scientificsales.com/)
@@ -1588,7 +1588,7 @@ description: Stores, marketplaces, product research, and resale
 - [Weather Shack](https://www.weathershack.com/)
 
 ##### Robotics Company
-- [1X | Home Robots](https://www.1x.tech/)
+- [1X](https://www.1x.tech/) — Home Robots
 - [ABB Group](https://global.abb/)
 - [AeroVironment, Inc.](https://www.avinc.com/)
 - [Agility Robotics](https://www.agilityrobotics.com/)
@@ -1604,7 +1604,7 @@ description: Stores, marketplaces, product research, and resale
 - [Cybercontrols](https://www.cybercontrols.org/)
 - [Cyngn](https://www.cyngn.com/#section0)
 - [DeepRobotics](https://www.deeprobotics.cn/robot/wap/)
-- [Demining Robots & AI | UXO Detection with Dropla](https://dropla.tech/en)
+- [Demining Robots & AI](https://dropla.tech/en) — UXO Detection with Dropla
 - [Digital Dream Labs](https://www.digitaldreamlabs.com/)
 - [Diligent Robotics](https://diligentrobots.com/)
 - [ENGINEAI-HOME](https://www.engineai.com.cn/)
@@ -1617,8 +1617,8 @@ description: Stores, marketplaces, product research, and resale
 - [Geek+](https://www.geekplus.com.cn/)
 - [Hanson Robotics](https://www.hansonrobotics.com/)
 - [Harvest Automation](https://www.public.harvestai.com/)
-- [IEEE - Robots](https://robots.ieee.org/)
-- [Intuitive | Robotic-Assisted Surgery](https://www.intuitive.com/en-us)
+- [IEEE](https://robots.ieee.org/) — Robots
+- [Intuitive](https://www.intuitive.com/en-us) — Robotic-Assisted Surgery
 - [iRobot](https://www.irobot.es/)
 - [Left Hand Robotics](https://lefthandrobotics.com/)
 - [MassRobotics](https://www.massrobotics.org/)
@@ -1641,7 +1641,7 @@ description: Stores, marketplaces, product research, and resale
 - [Thinkbotics](http://www.thinkbotics.com/)
 - [Torc Robotics](https://torc.ai/)
 - [UiPath](https://www.uipath.com/)
-- [Unitree Robotics - Global quadruped robots pioneer](https://m.unitree.com/)
+- [Unitree Robotics](https://m.unitree.com/) — Global quadruped robots pioneer
 - [Universal Robots](https://www.universal-robots.com/)
 - [Vecna Robotics](https://www.vecnarobotics.com/)
 - [Vine Robots](https://www.vinerobots.org/)
@@ -1658,7 +1658,7 @@ description: Stores, marketplaces, product research, and resale
 - [Realbotix](https://realbotix.com/)
 - [RealDoll](https://www.realdoll.com/)
 - [Smart Doll World](https://www.smartdollworld.com/)
-- [Tantaly | Leading Sex Doll Torso & Realistic Sexdolls](https://www.tantaly.com/)
+- [Tantaly](https://www.tantaly.com/) — Leading Sex Doll Torso & Realistic Sexdolls
 
 ###### Humanoid Company
 - [Engineered Arts](https://www.engineeredarts.co.uk/)
@@ -1676,31 +1676,31 @@ description: Stores, marketplaces, product research, and resale
 - [Frame.work](https://frame.work/)
 - [Framework Laptop](https://frame.work/es/en/)
 - [GIGABYTE](https://www.gigabyte.com/)
-- [Heltec Automation – International LoRa/LoRaWAN/Meshtastic/IoT Devices Manufacturer](https://heltec.org/)
+- [Heltec Automation](https://heltec.org/) — International LoRa/LoRaWAN/Meshtastic/IoT Devices Manufacturer
 - [HP](https://www.hp.com/us-en/home.html)
 - [Khadas](https://www.khadas.com/)
 - [Kubuntu Focus](https://kfocus.org/)
 - [Lenovo](https://www.lenovo.com/us/en/)
-- [LILYGO® – Committed To The Research & Development Of IoT](https://lilygo.cc/)
-- [MALIBAL : Custom Linux Laptops, Workstations & Servers](https://www.malibal.com/)
+- [LILYGO®](https://lilygo.cc/) — Committed To The Research & Development Of IoT
+- [MALIBAL](https://www.malibal.com/) — Custom Linux Laptops, Workstations & Servers
 - [Manjaro Notebooks](https://www.manjarocomputer.eu/)
 - [manjarocomputer.eu](https://www.manjarocomputer.eu/index.php/en/)
 - [minisforum](https://www.minisforum.com/)
 - [MonsterLabo](https://www.monsterlabo.com/)
 - [NovaCustom](https://novacustom.com/)
-- [ORICO | The Best Data Storage for Home, Office and Business](https://oricotechs.com/)
+- [ORICO](https://oricotechs.com/) — The Best Data Storage for Home, Office and Business
 - [Origin PC](https://www.originpc.com/)
 - [Puri.sm](https://puri.sm/)
-- [Seasonic | Power Supply for Computer](https://seasonic.com/)
-- [SLIMBOOK - portátiles y ordenadores Linux](https://slimbook.com/)
+- [Seasonic](https://seasonic.com/) — Power Supply for Computer
+- [SLIMBOOK](https://slimbook.com/) — portátiles y ordenadores Linux
 - [Slimbook KDE](https://kde.slimbook.es/)
-- [SpecFive LLC – Complete Meshtastic Devices](https://specfive.com/)
-- [Starlabs Systems - Linux Laptops](https://starlabs.systems/)
-- [superworkstations - Configure Your Workstation](https://superworkstations.com/)
+- [SpecFive LLC](https://specfive.com/) — Complete Meshtastic Devices
+- [Starlabs Systems](https://starlabs.systems/) — Linux Laptops
+- [superworkstations](https://superworkstations.com/) — Configure Your Workstation
 - [System76](https://system76.com/)
 - [TUXEDO Computers](https://www.tuxedocomputers.com/)
-- [UPERPERFECT | monitor portatil para portatil gaming 4k tactil](https://www.uperfectmonitor.com/es/)
-- [Zima: Elevating Your Computing Experience with ZimaBoard Servers & Personal Cloud Solutions](https://www.zimaspace.com/)
+- [UPERPERFECT](https://www.uperfectmonitor.com/es/) — monitor portatil para portatil gaming 4k tactil
+- [Zima](https://www.zimaspace.com/) — Elevating Your Computing Experience with ZimaBoard Servers & Personal Cloud Solutions
 
 ###### Gaming Peripherals Company
 - [8BitDo](https://www.8bitdo.com/)
@@ -1717,7 +1717,7 @@ description: Stores, marketplaces, product research, and resale
 - [Genesis](https://genesis-zone.com/)
 - [HORI USA](https://stores.horiusa.com/)
 - [HyperX](https://www.hyperxgaming.com/es)
-- [HyperX | High Quality Gaming Gear](https://hyperx.com/)
+- [HyperX](https://hyperx.com/) — High Quality Gaming Gear
 - [Kinesis Gaming](https://gaming.kinesis-ergo.com/)
 - [Krom Gaming](https://www.kromgaming.com/)
 - [Logitech](https://www.logitech.com/es-es)
@@ -1732,7 +1732,7 @@ description: Stores, marketplaces, product research, and resale
 - [SCUF Gaming](https://scufgaming.com/eu)
 - [Shenzhen GPD Technology](https://www.gpd.hk/)
 - [Steam Deck](https://www.steamdeck.com/en/)
-- [SuiPlay0X1 - Next-Gen Handheld Gaming Device Powered By Sui](https://www.suiplay0x1.com/)
+- [SuiPlay0X1](https://www.suiplay0x1.com/) — Next-Gen Handheld Gaming Device Powered By Sui
 - [Thermaltake](https://www.thermaltake.com/)
 - [TooQ Technology](https://tooq.com/)
 - [Xtechamericas](https://www.xtechamericas.com/es)
@@ -1740,18 +1740,18 @@ description: Stores, marketplaces, product research, and resale
 ###### Semiconductors
 - [AMD](https://www.amd.com/en/)
 - [AMD Ryzen](https://ryzen.pro/en/laptop/)
-- [ASML | The world's supplier to the semiconductor industry](https://www.asml.com/en)
+- [ASML](https://www.asml.com/en) — The world's supplier to the semiconductor industry
 - [ASMPT Corporate](https://www.asmpt.com/)
-- [Infineon Technologies - Semiconductor & System Solutions](https://www.infineon.com/cms/en/)
+- [Infineon Technologies](https://www.infineon.com/cms/en/) — Semiconductor & System Solutions
 - [Intel](https://www.intel.com/content/www/us/en/homepage.html)
-- [Micron Technology | Global Leaders in Semiconductors](https://www.micron.com/)
+- [Micron Technology](https://www.micron.com/) — Global Leaders in Semiconductors
 - [NXP](https://www.nxp.com/)
 - [ON Semiconductor](https://www.onsemi.com/)
 - [Qualcomm](https://www.qualcomm.com/)
-- [Qualcomm | Wireless Technology & Innovation | Mobile Technology](https://www.qualcomm.com/home)
+- [Qualcomm](https://www.qualcomm.com/home) — Wireless Technology & Innovation | Mobile Technology
 - [Realtek](https://www.realtek.com/en)
-- [SMIC - 中芯国际-首页](https://www.smics.com/#section2)
-- [STMicroelectronics: Our technology starts with you](https://www.st.com/content/st_com/en.html)
+- [SMIC](https://www.smics.com/#section2) — 中芯国际-首页
+- [STMicroelectronics](https://www.st.com/content/st_com/en.html) — Our technology starts with you
 - [Taiwan Semiconductor Manufacturing Company Limited](https://www.tsmc.com/english)
 - [TI.com](https://www.ti.com/)
 
@@ -1769,7 +1769,7 @@ description: Stores, marketplaces, product research, and resale
 
 ###### Drive Storage Company
 - [Crucial](https://www.crucial.com/)
-- [JMicron - Leading the Storage Revolution!](https://www.jmicron.com/)
+- [JMicron](https://www.jmicron.com/) — Leading the Storage Revolution!
 - [JUANWE](https://juanwe.com/)
 - [Kingston](https://www.kingston.com/en)
 - [LaCie](https://www.lacie.com/es/es)
@@ -1780,53 +1780,53 @@ description: Stores, marketplaces, product research, and resale
 - [Western Digital](https://www.westerndigital.com/)
 
 ###### Keyboard PC
-- [68Keys.io - Custom 68% Mechanical Keyboard](https://68keys.io/)
-- [Akko | Designer for Mechanical Keyboards](https://en.akkogear.com/)
+- [68Keys.io](https://68keys.io/) — Custom 68% Mechanical Keyboard
+- [Akko](https://en.akkogear.com/) — Designer for Mechanical Keyboards
 - [AkkoGear](https://www.akkogear.com/)
 - [Clicks for iPhone](https://www.clicks.tech/)
 - [Das keyboard](https://www.daskeyboard.com/)
 - [Drevo](https://www.drevo.net/)
 - [Ducky Keyboard](https://www.duckychannel.com.tw/en)
-- [Dygma - The Best Ergonomic Split Keyboards](https://dygma.com/)
+- [Dygma](https://dygma.com/) — The Best Ergonomic Split Keyboards
 - [Epomaker](https://epomaker.com/)
-- [ErgoDox EZ: An Incredible Mechanical Ergonomic Keyboard](https://ergodox-ez.com/)
+- [ErgoDox EZ](https://ergodox-ez.com/) — An Incredible Mechanical Ergonomic Keyboard
 - [Everykey](https://everykey.com/)
 - [Happy Hacking Keyboard](https://www.hhkeyboard.com/es)
 - [IQUNIX](https://iqunix.store/)
 - [KBDfans](https://kbdfans.com/)
-- [Keyboardio: keyboards for people who love typing](https://shop.keyboard.io/)
+- [Keyboardio](https://shop.keyboard.io/) — keyboards for people who love typing
 - [Keychron](https://www.keychron.com/)
 - [Kinesis Ergonomic](https://kinesis-ergo.com/)
 - [Little Keyboards](https://www.littlekeyboards.com/)
 - [Mechanical Keyboards](https://mechanicalkeyboards.com/)
-- [MoErgo - Glove80 Wireless Split Ergonomic Keyboard](https://www.moergo.com/)
-- [MonsGeek - Make Cool Gears Accessible.](https://www.monsgeek.com/)
+- [MoErgo](https://www.moergo.com/) — Glove80 Wireless Split Ergonomic Keyboard
+- [MonsGeek](https://www.monsgeek.com/) — Make Cool Gears Accessible.
 - [Omnitype](https://omnitype.com/)
 - [ProtoArc](https://www.protoarc.com/)
 - [QMK Configurator](https://config.qmk.fm/#/handwired/fivethirteen/LAYOUT)
 - [The Keyboard Company](https://www.keyboardco.com/)
-- [Ultimate Hacking Keyboard – The keyboard. For professionals.](https://ultimatehackingkeyboard.com/)
+- [Ultimate Hacking Keyboard](https://ultimatehackingkeyboard.com/) — The keyboard. For professionals.
 - [Unicomp, Inc.](https://www.pckeyboard.com/page/SFNT)
 - [Varmilo mechanical keyboard](https://en.varmilo.com/keyboardproscenium/)
 - [WASD Keyboards](https://www.wasdkeyboards.com/)
 - [Wooting keyboards](https://wooting.io/)
 - [Wuque Studio](https://shop.wuquestudio.com/)
-- [ZSA - Keyboard](https://www.zsa.io/go)
+- [ZSA](https://www.zsa.io/go) — Keyboard
 
 ###### Single-Board Computer
-- [96Boards - Develop & Prototype on the Latest Arm Technology](https://www.96boards.org/)
-- [Anbernic | The best retro game console](https://anbernic.com/en-es)
+- [96Boards](https://www.96boards.org/) — Develop & Prototype on the Latest Arm Technology
+- [Anbernic](https://anbernic.com/en-es) — The best retro game console
 - [Arduino](https://www.arduino.cc/)
 - [Banana Pi](https://www.banana-pi.org/)
 - [ClockworkPi](https://www.clockworkpi.com/)
 - [Crowd Supply](https://www.crowdsupply.com/)
-- [DevTerm | ClockworkPi](https://www.clockworkpi.com/devterm)
+- [DevTerm](https://www.clockworkpi.com/devterm) — ClockworkPi
 - [EasyEDA](https://easyeda.com/)
-- [FreedomBox - Personal Server at Home](https://freedombox.org/)
+- [FreedomBox](https://freedombox.org/) — Personal Server at Home
 - [FSF RYF](https://ryf.fsf.org/)
 - [Hakuto Co](https://www.hakuto.co.jp/)
 - [HardKernel Odroid](https://www.hardkernel.com/)
-- [JLCPCB - PCB Prototype & PCB Fabrication Manufacturer](https://jlcpcb.com/)
+- [JLCPCB](https://jlcpcb.com/) — PCB Prototype & PCB Fabrication Manufacturer
 - [Libre Computer](https://libre.computer/)
 - [ODROID Wiki](https://wiki.odroid.com/)
 - [OLIMEX](https://www.olimex.com/)
@@ -1836,7 +1836,7 @@ description: Stores, marketplaces, product research, and resale
 - [pi-top](https://www.pi-top.com/)
 - [Project Pockit](https://pockit.ai/)
 - [R36S](https://r36s.co.uk/)
-- [rabbit — pocket companion](https://www.rabbit.tech/)
+- [rabbit](https://www.rabbit.tech/) — pocket companion
 - [Radxa Wiki](https://wiki.radxa.com/Home)
 - [Raspberry Pi](https://www.raspberrypi.com/)
 - [Synopsys](https://www.synopsys.com/)
@@ -1852,10 +1852,10 @@ description: Stores, marketplaces, product research, and resale
 - [rock space](https://www.rockspace.cc/)
 - [TP-Link](https://www.tp-link.com/en)
 - [TPV](https://www.tpv-tech.com/en/home.aspx)
-- [WD - My Cloud](https://www.mycloud.com/#/)
+- [WD](https://www.mycloud.com/#/) — My Cloud
 
 ###### VR Company
-- [Bigscreen Beyond - The world's smallest VR headset](https://www.bigscreenvr.com/)
+- [Bigscreen Beyond](https://www.bigscreenvr.com/) — The world's smallest VR headset
 - [Magic Leap](https://www.magicleap.com/en-us)
 - [Monako.ai](https://www.monako.ai/)
 - [Nreal.ai](https://www.nreal.ai/)
@@ -1870,7 +1870,7 @@ description: Stores, marketplaces, product research, and resale
 
 ###### Mice Company
 - [Finalmouse](https://finalmouse.com/)
-- [Hellespont | Modern Integrated Ship Management Solutions](https://hellespont.com/)
+- [Hellespont](https://hellespont.com/) — Modern Integrated Ship Management Solutions
 - [PCgamingrace](https://www.pcgamingrace.com/)
 - [Redragon](https://redragonusa.com/)
 - [VAXEE](https://vaxee.co/en)
@@ -1881,7 +1881,7 @@ description: Stores, marketplaces, product research, and resale
 
 **3D Print Company**
 - [3D Systems](https://www.3dsystems.com/)
-- [Bambu Lab | Unleash Your Creativity with Bambu Lab 3D Printers](https://bambulab.com/en)
+- [Bambu Lab](https://bambulab.com/en) — Unleash Your Creativity with Bambu Lab 3D Printers
 - [Carbon 3D](https://www.carbon3d.com/)
 - [CELLINK](https://www.cellink.com/)
 - [Creality](https://www.creality.com/)
@@ -1902,32 +1902,32 @@ description: Stores, marketplaces, product research, and resale
 - [Xometry](https://www.xometry.com/)
 
 ###### Multifunctional RF Tool
-- [Flipper Zero — Portable Multi-tool Device for Geeks](https://flipperzero.one/)
+- [Flipper Zero](https://flipperzero.one/) — Portable Multi-tool Device for Geeks
 
 ##### Lens Companies
 - [Celestron](https://www.celestron.com/)
 - [Hirox Europe](https://hirox-europe.com/)
 - [NoIR Insight](https://www.noirinsight.com/)
 - [Thorlabs, Inc](https://www.thorlabs.com/)
-- [Wooptix - The ultimate image solutions](https://wooptix.com/)
+- [Wooptix](https://wooptix.com/) — The ultimate image solutions
 
 ##### GPS Company
 - [TomTom](https://www.tomtom.com/)
 
 ##### Biotechnology Company
-- [23andMe International - DNA Genetic Testing For Ancestry & Traits](https://www.23andme.com/)
+- [23andMe International](https://www.23andme.com/) — DNA Genetic Testing For Ancestry & Traits
 - [Agenus](https://agenusbio.com/)
 - [Bionity.com](https://www.bionity.com/de/)
 - [Biowin](https://biowin.org/)
 - [Brainlab](https://www.brainlab.com/)
 - [Calico](https://www.calicolabs.com/)
-- [CRI Genetics - DNA Testing Kit | Health, Ancestry & Traits](https://www.crigenetics.com/)
+- [CRI Genetics](https://www.crigenetics.com/) — DNA Testing Kit | Health, Ancestry & Traits
 - [CureVac](https://www.curevac.com/en/)
 - [Dexcom CGM](https://www.dexcom.com/home)
 - [Esper Bionics](https://esperbionics.com/)
 - [Genentech](https://www.gene.com/)
 - [Illumina](https://www.illumina.com/)
-- [Isomorphic Labs - Reimagining Drug Discovery Process with AI](https://www.isomorphiclabs.com/)
+- [Isomorphic Labs](https://www.isomorphiclabs.com/) — Reimagining Drug Discovery Process with AI
 - [Lumon Industries](https://lumon.industries/)
 - [Motiv Ring](https://www.mymotiv.com/)
 - [Neuralink](https://neuralink.com/)
@@ -1971,32 +1971,32 @@ description: Stores, marketplaces, product research, and resale
 - [Zumtobel](https://www.zumtobel.com/com-en/index.html)
 
 ##### Tablet Company
-- [Blackview - Cool Rugged Phones & Tablets & Smartphones](https://www.blackview.hk/)
+- [Blackview](https://www.blackview.hk/) — Cool Rugged Phones & Tablets & Smartphones
 - [Huion tablets](https://huion.com/)
 - [Leia Inc](https://www.leiainc.com/)
 - [Looking Glass Factory](https://lookingglassfactory.com/)
 - [Wacom](https://www.wacom.com/es-es)
-- [Wacom | Interactive pen displays](https://www.wacom.com/en-us)
+- [Wacom](https://www.wacom.com/en-us) — Interactive pen displays
 
 ###### eReader Company
 - [BOOX ePaper](https://shop.boox.com/)
 - [BOOX Site](https://www.boox.com/)
 - [E Ink](https://www.eink.com/)
 - [jetBook](http://www.jetbook.net/)
-- [Kindle E-readers | Amazon](https://www.amazon.com/kindle/)
+- [Kindle E-readers](https://www.amazon.com/kindle/) — Amazon
 - [ONYX BOOX](https://onyxboox.com/)
 - [Paperlike](https://paperlike.com/)
 - [PocketBook](https://pocketbook.ch/en-ch)
-- [reMarkable - The future of paper is here](https://remarkable.com/)
+- [reMarkable](https://remarkable.com/) — The future of paper is here
 
 ##### Firearms Company
-- [Aimlock | Precision targeting weapons systems](https://aim-lock.com/)
+- [Aimlock](https://aim-lock.com/) — Precision targeting weapons systems
 - [Baikal](https://www.baikalinc.ru/)
 - [Benelli](https://www.benelli.it/en)
 - [Beretta](https://www.beretta.com/en)
 - [Bergara Rifles](https://www.bergara.online/us)
 - [Bersa](https://www.bersa.com.ar/)
-- [Biofire Smart Gun | Experience the Future of Firearms](https://smartgun.com/)
+- [Biofire Smart Gun](https://smartgun.com/) — Experience the Future of Firearms
 - [Blaser GmbH](https://www.blaser.de/)
 - [Browning](https://www.browning.com/)
 - [Bushmaster Firearms](https://bushmaster.com/)
@@ -2034,16 +2034,16 @@ description: Stores, marketplaces, product research, and resale
 - [Nortek Global HVAC](https://www.nortekhvac.com/)
 
 ##### Phone Case Company
-- [Cristal templado | Protector de pantalla móvil y tablet de cristal templado](https://www.cristaltempladomovil.com/)
+- [Cristal templado](https://www.cristaltempladomovil.com/) — Protector de pantalla móvil y tablet de cristal templado
 - [dbrand](https://dbrand.com/)
 - [GHOSTEK](https://ghostek.es/)
-- [MOFT - World's First Invisible Laptop, Phone and Tablet Stand](https://www.moft.us/)
-- [Mous | Protective Phone Cases](https://www.mous.co/)
+- [MOFT](https://www.moft.us/) — World's First Invisible Laptop, Phone and Tablet Stand
+- [Mous](https://www.mous.co/) — Protective Phone Cases
 - [OtterBox](https://www.otterbox.com/)
 - [Speck Products](https://speckproducts.com/)
 - [Spigen](https://www.spigen.com/)
 - [Tech21](https://www.tech21.com/)
-- [The Pixel Case – The Pixel Store](https://thepixelcase.com/)
+- [The Pixel Case](https://thepixelcase.com/) — The Pixel Store
 - [Totallee](https://www.totalleecase.com/)
 - [Urban Armor Gear](https://www.urbanarmorgear.com/?avad=176062_b29f14371&utm_source=avantlink_www.digitaltrends.com&utm_medium=affiliate&utm_campaign=bb_affiliate&utm_content=Easy+Link&utm_term=176062_www.digitaltrends.com)
 
@@ -2053,13 +2053,13 @@ description: Stores, marketplaces, product research, and resale
 
 ##### TV Box
 - ⭐ **[FORMULER](https://www.formuler.tv/)**
-- [AppForce Classic – Best Media Player For Android TV & Firestick](https://appforceclassic.com/)
-- [Freesat - Satellite TV without the sky-high bills](https://www.freesat.co.uk/)
-- [HDHomeRun – Silicondust](https://www.silicondust.com/hdhomerun/)
+- [AppForce Classic](https://appforceclassic.com/) — Best Media Player For Android TV & Firestick
+- [Freesat](https://www.freesat.co.uk/) — Satellite TV without the sky-high bills
+- [HDHomeRun](https://www.silicondust.com/hdhomerun/) — Silicondust
 - [Infomir](https://infomir.com/)
-- [INFOMIR – IPTV Set Top Box manufacturer](https://www.infomir.eu/)
+- [INFOMIR](https://www.infomir.eu/) — IPTV Set Top Box manufacturer
 - [OpenIPTV](https://www.openiptv.net/)
-- [Ugoos - Smart TV Box / Mini PC Factory](https://ugoos.com/)
+- [Ugoos](https://ugoos.com/) — Smart TV Box / Mini PC Factory
 
 #### IT Company
 - [Airtificial](https://airtificial.com/)
@@ -2073,10 +2073,10 @@ description: Stores, marketplaces, product research, and resale
 - [Dell Technologies](https://www.delltechnologies.com/en-us/index.htm)
 - [DXC Technology](https://www.dxc.technology/)
 - [eSolia Inc.](https://esolia.com/)
-- [EuroLinux - Professional Open-Source solutions](https://en.euro-linux.com/)
+- [EuroLinux](https://en.euro-linux.com/) — Professional Open-Source solutions
 - [Fenix International Limited](https://fenixinternational.com/)
 - [Fujitsu](https://www.fujitsu.com/global)
-- [Getronics - IT managed services and Digital Transformation](https://www.getronics.com/)
+- [Getronics](https://www.getronics.com/) — IT managed services and Digital Transformation
 - [Huawei](https://www.huawei.com/en)
 - [Internode NBN](https://www.internode.on.net/)
 - [Jio Network](https://www.jio.com/welcome)
@@ -2093,10 +2093,10 @@ description: Stores, marketplaces, product research, and resale
 - [OpenMetal IaaS](https://openmetal.io/)
 - [Oracle](https://www.oracle.com/index.html)
 - [Parque Científico de Tenerife](https://pctt.es/)
-- [Quest | IT Management](https://www.quest.com/)
+- [Quest](https://www.quest.com/) — IT Management
 - [Qwant](https://about.qwant.com/en)
 - [Reddit Inc](https://www.redditinc.com/)
-- [Systematic - Software and Systems Provider - CMMI ML5 Certified](https://systematic.com/int/)
+- [Systematic](https://systematic.com/int/) — Software and Systems Provider - CMMI ML5 Certified
 - [Tencent 腾讯](https://www.tencent.com/en-us)
 - [Twilio](https://www.twilio.com/en-us)
 - [Univention](https://www.univention.com/)
@@ -2153,7 +2153,7 @@ description: Stores, marketplaces, product research, and resale
 - [Telekom](https://www.telekom.de/start)
 - [Teletalk Bangladesh Ltd](https://www.teletalk.com.bd/en)
 - [Telstra](https://www.telstra.com.au/)
-- [TELUS | Phones, Internet and TV on the most-awarded network](https://www.telus.com/en)
+- [TELUS](https://www.telus.com/en) — Phones, Internet and TV on the most-awarded network
 - [TIM Group](https://www.gruppotim.it/en.html)
 - [Totalplay](https://www.totalplay.com.mx/)
 - [Verizon](https://www.verizon.com/)
@@ -2166,15 +2166,15 @@ description: Stores, marketplaces, product research, and resale
 ##### Data Company
 - [AccessWire](https://www.accesswire.com/)
 - [Appen](https://appen.com/)
-- [Arch Systems | Advanced Data Analytics](https://archsys.io/)
-- [B2BHint: Your Trusted Source for Business Data](https://b2bhint.com/en)
+- [Arch Systems](https://archsys.io/) — Advanced Data Analytics
+- [B2BHint](https://b2bhint.com/en) — Your Trusted Source for Business Data
 - [Bigeye](https://www.bigeye.com/)
 - [CAS](https://www.cas.org/)
-- [Databricks — The Data and AI Company](https://www.databricks.com/)
+- [Databricks](https://www.databricks.com/) — The Data and AI Company
 - [Datafold](https://www.datafold.com/)
 - [Dataiku](https://www.dataiku.com/)
 - [DataStax](https://www.datastax.com/)
-- [Datawheel | Turn Data into Action](https://www.datawheel.us/)
+- [Datawheel](https://www.datawheel.us/) — Turn Data into Action
 - [Datopian](https://www.datopian.com/)
 - [Dun & Bradstreet](https://www.dnb.com/)
 - [Easy data transformation](https://www.easydatatransform.com/)
@@ -2186,31 +2186,31 @@ description: Stores, marketplaces, product research, and resale
 - [Intelematics](https://www.intelematics.com/)
 - [Inverence](https://inverence.com/)
 - [Kape.com](https://www.kape.com/)
-- [KiteEdge – Connect the Unconnected](https://www.kiteedge.co.uk/)
-- [KNIME | Open for Innovation](https://www.knime.com/)
-- [KX: The Leading Provider of Time-Series Database Technology](https://kx.com/)
+- [KiteEdge](https://www.kiteedge.co.uk/) — Connect the Unconnected
+- [KNIME](https://www.knime.com/) — Open for Innovation
+- [KX](https://kx.com/) — The Leading Provider of Time-Series Database Technology
 - [LexisNexis](https://www.lexisnexis.com/en-us/home.page)
 - [Maltego](https://www.maltego.com/)
 - [Meetic group](https://www.meetic-group.com/en)
 - [MindGeek](https://www.aylo.com/)
-- [Mode | Data Science Platform](https://mode.com/)
+- [Mode](https://mode.com/) — Data Science Platform
 - [Nologis](https://nologis.com/)
-- [Number Analytics - Data analysis tool for everyone](https://www.numberanalytics.com/)
+- [Number Analytics](https://www.numberanalytics.com/) — Data analysis tool for everyone
 - [Oasis Labs](https://www.oasislabs.com/)
 - [OneTrust](https://www.onetrust.com/)
 - [OpenLinksw](https://www.openlinksw.com/)
 - [Palantir](https://www.palantir.com/)
 - [PANDA](https://www.pandata.org/)
-- [RapidMiner | Amplify the Impact of Your People, Expertise & Data](https://rapidminer.com/)
-- [Receptiviti - Social psychology](https://www.receptiviti.com/)
-- [Redis | The Real-time Data Platform](https://redis.com/)
+- [RapidMiner](https://rapidminer.com/) — Amplify the Impact of Your People, Expertise & Data
+- [Receptiviti](https://www.receptiviti.com/) — Social psychology
+- [Redis](https://redis.com/) — The Real-time Data Platform
 - [RELX](https://www.relx.com/)
 - [SMOWL](https://smowl.net/en)
-- [Spire - Global Data and Analytics](https://spire.com/)
+- [Spire](https://spire.com/) — Global Data and Analytics
 - [Springshare](https://www.springshare.com/)
 - [Stellar Data Recovery](https://www.stellarinfo.com/)
 - [Stitch Data](https://www.stitchdata.com/)
-- [Sumsub - Online Identity Verification & Orchestration Service](https://sumsub.com/)
+- [Sumsub](https://sumsub.com/) — Online Identity Verification & Orchestration Service
 - [SuperData Research](https://www.superdataresearch.com/)
 - [Switch](https://www.switch.com/)
 - [Tomorrow.io](https://www.tomorrow.io/)
@@ -2222,21 +2222,21 @@ description: Stores, marketplaces, product research, and resale
 - [Westermo](https://www.westermo.com/)
 - [YouGov](https://es.yougov.com/)
 - [Zeotap](https://zeotap.com/)
-- [Zyte | World's Leading Web Scraping Service](https://www.zyte.com/)
+- [Zyte](https://www.zyte.com/) — World's Leading Web Scraping Service
 
 ###### Geospatial Data
 - [52°North](https://52north.org/)
 - [Airbus Intelligence](https://www.intelligence-airbusds.com/)
-- [Apache Sedona](https://sedona.apache.org/latest/) / [🔗](https://github.com/apache/sedona)
+- [Apache Sedona](https://sedona.apache.org/latest/) / <a href="https://github.com/apache/sedona"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [Descartes Labs](https://www.descarteslabs.com/)
 - [Development Seed](https://developmentseed.org/)
-- [Esri | GIS Mapping Software, Location Intelligence & Spatial Analytics](https://www.esri.com/en-us/home)
-- [Geospatial Software & Solutions | Geospatial Data Analysis](https://www.nv5geospatialsoftware.com/)
+- [Esri](https://www.esri.com/en-us/home) — GIS Mapping Software, Location Intelligence & Spatial Analytics
+- [Geospatial Software & Solutions](https://www.nv5geospatialsoftware.com/) — Geospatial Data Analysis
 - [GIS Geography](https://gisgeography.com/)
-- [Halter® | Virtual Fencing and Pasture Management](https://www.halterhq.com/)
+- [Halter®](https://www.halterhq.com/) — Virtual Fencing and Pasture Management
 - [HERE](https://www.here.com/)
 - [Keystone Aerial Surveys](https://www.kasurveys.com/)
-- [L7 | Ant Vision](https://l7.antv.antgroup.com/en)
+- [L7](https://l7.antv.antgroup.com/en) — Ant Vision
 - [LeoLabs](https://leolabs.space/)
 - [Live EO](https://live-eo.com/)
 - [Lobelia.earth*](https://www.lobelia.earth/)
@@ -2247,12 +2247,12 @@ description: Stores, marketplaces, product research, and resale
 - [Planet](https://www.planet.com/)
 - [Precision Hawk](https://www.precisionhawk.com/)
 - [Stratolloon](https://stratolloon.com/)
-- [Takiwā | Indigenous geospatial data and mapping](https://www.takiwa.co/)
+- [Takiwā](https://www.takiwa.co/) — Indigenous geospatial data and mapping
 - [The MapWindow Project](https://www.mapwindow.org/)
 - [UltraMAP](https://ultra-map.org/)
 - [UNAVCO](https://www.unavco.org/)
-- [University of Chicago - Spatial](https://spatial.uchicago.edu/)
-- [Vantor: Forging the new frontier of spatial intelligence](https://vantor.com/)
+- [University of Chicago](https://spatial.uchicago.edu/) — Spatial
+- [Vantor](https://vantor.com/) — Forging the new frontier of spatial intelligence
 - [Vexcel Imaging](https://www.vexcel-imaging.com/)
 - [VITO](https://vito.be/en)
 - [Whitebox Geospatial](https://www.whiteboxgeo.com/)
@@ -2263,69 +2263,69 @@ description: Stores, marketplaces, product research, and resale
 - [Datema Nautical Safety](https://www.datema.nl/)
 - [Electronic Chart Centre](https://www.ecc.no/)
 - [Navtor](https://www.navtor.com/)
-- [Ocean Networks Canada - Oceans 3.0](https://data.oceannetworks.ca/)
+- [Ocean Networks Canada](https://data.oceannetworks.ca/) — Oceans 3.0
 - [OneOcean](https://www.oneocean.com/)
 - [Open Sea Chart](https://www.openseachart.org/doku.php)
 - [PRIMAR](https://www.primar.org/#/)
 
 ###### Investigation Company
-- [OSINT Combine | Australia](https://www.osintcombine.com/)
-- [Social Links - Social Media Investigations & OSINT Tools](https://sociallinks.io/)
+- [OSINT Combine](https://www.osintcombine.com/) — Australia
+- [Social Links](https://sociallinks.io/) — Social Media Investigations & OSINT Tools
 
 ##### Cybersecurity Enterprise
 - [Acronis](https://www.acronis.com/en-us/)
-- [Acronis - KB](https://kb.acronis.com/)
+- [Acronis](https://kb.acronis.com/) — KB
 - [Advanced Intel](https://www.advanced-intel.com/)
 - [Allot](https://www.allot.com/)
 - [Anonym cloud](https://anonym.cloud/en)
 - [Black Hat](https://www.blackhat.com/)
 - [Cellebrite](https://www.cellebrite.com/en/home)
 - [Censys](https://censys.io/)
-- [Cifas - Fraud Prevention](https://www.cifas.org.uk/)
-- [Cloudflare - The Web Performance & Security Company](https://www.cloudflare.com/)
+- [Cifas](https://www.cifas.org.uk/) — Fraud Prevention
+- [Cloudflare](https://www.cloudflare.com/) — The Web Performance & Security Company
 - [Cmd](https://cmd.com/)
-- [Cobalt Strike | Adversary Simulation and Red Team Operations](https://www.cobaltstrike.com/)
+- [Cobalt Strike](https://www.cobaltstrike.com/) — Adversary Simulation and Red Team Operations
 - [Copperhead](https://copperhead.co/)
-- [CrowdStrike: Stop breaches. Drive business.](https://www.crowdstrike.com/en-us/)
+- [CrowdStrike](https://www.crowdstrike.com/en-us/) — Stop breaches. Drive business.
 - [CryptoTrust](https://crp.to/)
-- [Cure53 – Fine penetration tests for fine websites](https://cure53.de/)
-- [Cybercrime Intelligence | Fight Cyber Threats](https://intel471.com/)
+- [Cure53](https://cure53.de/) — Fine penetration tests for fine websites
+- [Cybercrime Intelligence](https://intel471.com/) — Fight Cyber Threats
 - [Cybereason](https://www.cybereason.com/)
 - [DarkTracer](https://darktracer.com/)
 - [Defuse Security](https://defuse.ca/)
 - [DMCA Protection](https://www.dmca.com/)
-- [dope.security – Fly Direct Secure Web Gateway](https://dope.security/)
+- [dope.security](https://dope.security/) — Fly Direct Secure Web Gateway
 - [e-Share.us](https://www.e-share.us/)
 - [Edge Security](https://www.edgesecurity.com/)
 - [ElevenPaths](https://www.elevenpaths.com/)
-- [Entrust | Comprehensive Identity-Centric Security Solutions](https://www.entrust.com/)
+- [Entrust](https://www.entrust.com/) — Comprehensive Identity-Centric Security Solutions
 - [ESET Digital Security](https://www.eset.com/us/)
 - [F-Secure](https://www.f-secure.com/gb-en)
 - [F5Inc](https://www.f5.com/)
 - [Farsight Security](https://www.farsightsecurity.com/)
 - [FireEye](https://www.fireeye.com/)
 - [FortiGuard Labs](https://www.fortiguard.com/)
-- [Fortinet | Global Leader of Cybersecurity Solutions and Services](https://www.fortinet.com/)
+- [Fortinet](https://www.fortinet.com/) — Global Leader of Cybersecurity Solutions and Services
 - [Fraud Labs Pro](https://www.fraudlabspro.com/)
-- [GitGuardian: Git Security Scanning & Secrets Detection](https://www.gitguardian.com/)
+- [GitGuardian](https://www.gitguardian.com/) — Git Security Scanning & Secrets Detection
 - [Hudson Rock](https://www.hudsonrock.com/)
-- [Huorong - 火绒安全](https://www.huorong.cn/)
+- [Huorong](https://www.huorong.cn/) — 火绒安全
 - [Imperva](https://www.imperva.com/)
 - [Kentik](https://www.kentik.com/)
 - [Kryptos Logic](https://www.kryptoslogic.com/)
-- [LGTM - Continuous security analysis](https://lgtm.com/)
+- [LGTM](https://lgtm.com/) — Continuous security analysis
 - [Mitnick Security Consulting](https://www.mitnicksecurity.com/)
 - [Netcraft](https://www.netcraft.com/)
 - [NortonLifeLock](https://www.nortonlifelock.com/us/en)
 - [Pentest Limited](https://pentest.co.uk/)
-- [PlexTrac - Pentest Reporting and Collaboration Platform](https://plextrac.com/)
+- [PlexTrac](https://plextrac.com/) — Pentest Reporting and Collaboration Platform
 - [Rapid7](https://www.rapid7.com/)
 - [Recorded Future](https://www.recordedfuture.com/)
 - [RSA](https://www.rsa.com/)
 - [Safelayer](https://www.safelayer.com/es)
-- [Sectra Communications - Secure communication. Trusted since 1978.](https://communications.sectra.com/)
+- [Sectra Communications](https://communications.sectra.com/) — Secure communication. Trusted since 1978.
 - [Shielder](https://www.shielder.com/)
-- [Snyk AI Security Fabric | Secure Code, Models & Agents](https://snyk.io/)
+- [Snyk AI Security Fabric](https://snyk.io/) — Secure Code, Models & Agents
 - [Sontiq](https://www.sontiq.com/)
 - [SSH.com](https://www.ssh.com/)
 - [Sucuri](https://sucuri.net/)
@@ -2336,7 +2336,7 @@ description: Stores, marketplaces, product research, and resale
 - [Webroot](https://www.webroot.com/us/en)
 - [White Ops](https://www.whiteops.com/)
 - [WhoisXML](https://www.whoisxmlapi.com/)
-- [Wiz - #1 Cloud Security Software for Modern Cloud Protection](https://www.wiz.io/)
+- [Wiz](https://www.wiz.io/) — #1 Cloud Security Software for Modern Cloud Protection
 
 ##### Cloud Computing
 - [Aeraki.net](https://www.aeraki.net/)
@@ -2344,7 +2344,7 @@ description: Stores, marketplaces, product research, and resale
 - [Alibaba Cloud](https://eu.alibabacloud.com/)
 - [Arsys](https://www.arsys.net/)
 - [BackBox Software](https://backbox.com/)
-- [Brightbox - Cloud Server Hosting](https://www.brightbox.com/)
+- [Brightbox](https://www.brightbox.com/) — Cloud Server Hosting
 - [CanarCloud](https://www.canarcloud.es/)
 - [Clever Cloud](https://www.clever-cloud.com/)
 - [Cloud Foundry BOSH](https://bosh.io/docs)
@@ -2353,39 +2353,39 @@ description: Stores, marketplaces, product research, and resale
 - [Cloudockit](https://www.cloudockit.com/)
 - [Cloudron.io](https://www.cloudron.io/)
 - [CoreWeave](https://www.coreweave.com/)
-- [CyberFortress | Trusted Data Backup & Recovery Services](https://cyberfortress.com/)
+- [CyberFortress](https://cyberfortress.com/) — Trusted Data Backup & Recovery Services
 - [DCloud.io](https://www.dcloud.io/)
 - [Deno.dev](https://dash.deno.com/login?redirect=%2F)
 - [Densify](https://www.densify.com/)
 - [Deta.sh](https://www.deta.sh/)
 - [Digital Realty](https://www.digitalrealty.com/)
 - [DNS.com](https://www.dns.com/)
-- [Dokploy - Effortless Deployment Solutions](https://dokploy.com/)
+- [Dokploy](https://dokploy.com/) — Effortless Deployment Solutions
 - [Domo.com](https://www.domo.com/)
 - [Edgio.io](https://edg.io/)
-- [ExtraHop - Cloud-Native Network Detection and Response](https://www.extrahop.com/)
+- [ExtraHop](https://www.extrahop.com/) — Cloud-Native Network Detection and Response
 - [Gigas](https://gigas.com/)
 - [HashiCorp](https://www.hashicorp.com/en)
-- [Heroku | Cloud Application Platform](https://www.heroku.com/)
-- [Hetzner - Dedicated Server, Cloud, Storage & Hosting](https://www.hetzner.com/)
+- [Heroku](https://www.heroku.com/) — Cloud Application Platform
+- [Hetzner](https://www.hetzner.com/) — Dedicated Server, Cloud, Storage & Hosting
 - [IFS Cloud](https://www.ifs.com/)
 - [Interlink](https://interlink.com/)
 - [Istio](https://istio.io/)
 - [Jakarta](https://jakarta.ee/)
 - [Joyent Triton](https://www.joyent.com/)
-- [Kasm Workspaces | The Container Streaming Platform](https://www.kasmweb.com/)
+- [Kasm Workspaces](https://www.kasmweb.com/) — The Container Streaming Platform
 - [Lambda Labs](https://lambdalabs.com/)
 - [Leaseweb](https://www.leaseweb.com/)
 - [Lepton AI](https://www.lepton.ai/)
-- [Linode (Akamai) - Cloud computing](https://www.linode.com/)
+- [Linode (Akamai)](https://www.linode.com/) — Cloud computing
 - [Linube](https://linube.com/)
-- [Loft - Virtual Kubernetes Clusters](https://loft.sh/)
+- [Loft](https://loft.sh/) — Virtual Kubernetes Clusters
 - [LogicMonitor](https://www.logicmonitor.com/)
-- [MAAS | Metal as a Service](https://maas.io/)
+- [MAAS](https://maas.io/) — Metal as a Service
 - [MuleSoft](https://www.mulesoft.com/)
 - [myCloudDoor](https://myclouddoor.com/)
 - [nacos.io](https://nacos.io/zh-cn/)
-- [Nakama - Heroic Labs](https://heroiclabs.com/)
+- [Nakama](https://heroiclabs.com/) — Heroic Labs
 - [Nerdle game](https://nerdlegame.com/)
 - [NetApp](https://www.netapp.com/)
 - [Netsyms Technologies](https://www.netsyms.com/)
@@ -2400,18 +2400,18 @@ description: Stores, marketplaces, product research, and resale
 - [Rackspace Technology](https://www.rackspace.com/)
 - [Rewind Backups](https://rewind.com/)
 - [Sandstorm](https://sandstorm.io/)
-- [Scaleway - European Cloud & AI](https://www.scaleway.com/en)
+- [Scaleway](https://www.scaleway.com/en) — European Cloud & AI
 - [Snowflake](https://www.snowflake.com/)
 - [Synology Inc.](https://synology.com/en-global)
 - [Techsviewer](https://techsviewer.com/)
 - [Telekom Cloud](https://cloud.telekom.de/en)
 - [Terraform by HashiCorp](https://www.terraform.io/)
 - [Triton DataCenter](https://www.tritondatacenter.com/)
-- [Turbo.net - Deliver your apps instantly, everywhere](https://turbo.net/)
-- [Ubicloud - Open source alternative to AWS](https://www.ubicloud.com/)
+- [Turbo.net](https://turbo.net/) — Deliver your apps instantly, everywhere
+- [Ubicloud](https://www.ubicloud.com/) — Open source alternative to AWS
 - [UpCloud](https://upcloud.com/)
-- [Veeva Systems - Cloud-Based Business Solutions for the Global Life Sciences Industry.](https://www.veeva.com/)
-- [Vercel - Buiild and deploy the best webs experiences with the Frontend Cloud](https://vercel.com/)
+- [Veeva Systems](https://www.veeva.com/) — Cloud-Based Business Solutions for the Global Life Sciences Industry.
+- [Vercel](https://vercel.com/) — Buiild and deploy the best webs experiences with the Frontend Cloud
 - [Wasabi Cloud](https://wasabi.com/)
 - [Wolfram](https://www.wolfram.com/)
 - [Wolfram Cloud](https://www.wolframcloud.com/)
@@ -2420,11 +2420,11 @@ description: Stores, marketplaces, product research, and resale
 - [500apps SaaS](https://500apps.com/)
 - [BigCommerce](https://www.bigcommerce.com/)
 - [Foxintelligence](https://www.foxintelligence.io/)
-- [Halo - 强大易用的开源建站工具](https://www.halo.run/)
+- [Halo](https://www.halo.run/) — 强大易用的开源建站工具
 - [Kibi.one](https://www.kibi.one/)
 - [Markbase](https://www.markbase.xyz/)
-- [Mixa - Build, Customize, and Optimize Your Website Effortlessly](https://mixasite.com/)
-- [Open Weaver – Reinventing digital realization](https://openweaver.com/)
+- [Mixa](https://mixasite.com/) — Build, Customize, and Optimize Your Website Effortlessly
+- [Open Weaver](https://openweaver.com/) — Reinventing digital realization
 - [Pipedrive](https://www.pipedrive.com/es-es)
 - [platform.sh](https://platform.sh/)
 - [ProProfs](https://www.proprofs.com/)
@@ -2432,21 +2432,21 @@ description: Stores, marketplaces, product research, and resale
 - [Sumo Logic](https://www.sumologic.com/)
 
 ###### Cloud GPU
-- ⭐ **[Replicate – Run open-source machine learning models with a cloud API](https://replicate.com/)**
-- [airgpu - Your Cloud PC for Gaming, Rendering, Video Editing](https://airgpu.com/)
-- [Amazon Luna – Cloud Gaming Service](https://luna.amazon.com/)
-- [Boosteroid Cloud Gaming | Your Games on Any Device](https://boosteroid.com/)
-- [Deep Infra - Machine Learning Models and Infrastructure](https://deepinfra.com/)
+- ⭐ **[Replicate](https://replicate.com/)** — Run open-source machine learning models with a cloud API
+- [airgpu](https://airgpu.com/) — Your Cloud PC for Gaming, Rendering, Video Editing
+- [Amazon Luna](https://luna.amazon.com/) — Cloud Gaming Service
+- [Boosteroid Cloud Gaming](https://boosteroid.com/) — Your Games on Any Device
+- [Deep Infra](https://deepinfra.com/) — Machine Learning Models and Infrastructure
 - [Fal AI](https://www.fal.ai/)
-- [Hyperbolic – The Open-Access AI Cloud](https://hyperbolic.xyz/)
-- [Loudplay - Cloud gaming](https://www.loudplay.ru/en)
+- [Hyperbolic](https://hyperbolic.xyz/) — The Open-Access AI Cloud
+- [Loudplay](https://www.loudplay.ru/en) — Cloud gaming
 - [NVIDIA GeForce NOW](https://www.nvidia.com/en-us/geforce-now/)
-- [NWARE - Play Any Game Anywhere](https://www.playnware.com/)
-- [Paperspace - Cloud GPUs & Hosting for AI](https://www.paperspace.com/)
-- [Parsec - Connect to Work or Games from Anywhere](https://parsec.app/)
-- [RunComfy: Top ComfyUI Platform - Fast & Easy, No Setup](https://www.runcomfy.com/)
-- [RunPod - Rent Cloud GPUs](https://www.runpod.io/)
-- [Shadow PC Gaming - Ultimate Cloud Gaming Platform](https://shadow.tech/)
+- [NWARE](https://www.playnware.com/) — Play Any Game Anywhere
+- [Paperspace](https://www.paperspace.com/) — Cloud GPUs & Hosting for AI
+- [Parsec](https://parsec.app/) — Connect to Work or Games from Anywhere
+- [RunComfy](https://www.runcomfy.com/) — Top ComfyUI Platform - Fast & Easy, No Setup
+- [RunPod](https://www.runpod.io/) — Rent Cloud GPUs
+- [Shadow PC Gaming](https://shadow.tech/) — Ultimate Cloud Gaming Platform
 - [TensorOpera Your Generative AI Platform at Scale](https://tensoropera.ai/)
 - [Xbox Cloud Gaming](https://www.xbox.com/en-US/play)
 
@@ -2473,7 +2473,7 @@ description: Stores, marketplaces, product research, and resale
 - [UARX Space](https://www.uarx.com/)
 
 #### Server Company
-- [21cloudbox - China JAMstack hosting provider](https://www.21cloudbox.com/)
+- [21cloudbox](https://www.21cloudbox.com/) — China JAMstack hosting provider
 - [active-servers](https://www.active-servers.com/)
 - [Airfi.aero](https://www.airfi.aero/)
 - [ApexSQL](https://www.apexsql.com/)
@@ -2481,8 +2481,8 @@ description: Stores, marketplaces, product research, and resale
 - [Clouding.io](https://clouding.io/)
 - [GloboTech](https://www.globo.tech/)
 - [Greenhost](https://greenhost.net/)
-- [ICANN - Centralized Zone Data Service](https://czds.icann.org/home)
-- [iXsystems - Enterprise Storage & Servers Driven by Open Source](https://www.ixsystems.com/)
+- [ICANN](https://czds.icann.org/home) — Centralized Zone Data Service
+- [iXsystems](https://www.ixsystems.com/) — Enterprise Storage & Servers Driven by Open Source
 - [Kimsufi](https://www.kimsufi.com/en/)
 - [libreserver.org](https://libreserver.org/)
 - [MacinCloud](https://www.macincloud.com/)
@@ -2494,40 +2494,40 @@ description: Stores, marketplaces, product research, and resale
 - [PebbleHost](https://pebblehost.com/)
 - [QNAP Systems](https://qnap.com/en)
 - [SeedHost.eu](https://www.seedhost.eu/)
-- [Seedplicity - Plex, Emby, Jellyfin Server, App Hosting Provider](https://seedpli.city/)
+- [Seedplicity](https://seedpli.city/) — Plex, Emby, Jellyfin Server, App Hosting Provider
 - [Spartan Host](https://spartanhost.org/)
 - [Status.io](https://status.io/)
 - [SUSE](https://www.suse.com/)
-- [Telepoint — Colocation Data Center](https://telepoint.bg/)
+- [Telepoint](https://telepoint.bg/) — Colocation Data Center
 - [Trance Host](https://www.trancehost.com/)
 - [VanwaTech](https://vanwa.tech/)
 - [Voxility](https://www.voxility.com/)
 - [Vultr](https://www.vultr.com/)
 
 ##### Web Hosting
-- ⭐ **[Forestry.md - Open Source Digital Garden Hosting](https://forestry.md/)**
-- ⭐ **[Netlify - Develop and deploy websites and apps in record time](https://www.netlify.com/)**
-- [000 webhost - Host a Website for Free with Cpanel, PHP](https://www.000webhost.com/)
-- [125mb.com - Free Web Hosting](https://125mb.com/)
+- ⭐ **[Forestry.md](https://forestry.md/)** — Open Source Digital Garden Hosting
+- ⭐ **[Netlify](https://www.netlify.com/)** — Develop and deploy websites and apps in record time
+- [000 webhost](https://www.000webhost.com/) — Host a Website for Free with Cpanel, PHP
+- [125mb.com](https://125mb.com/) — Free Web Hosting
 - [1984 Web Hosting](https://1984hosting.com/)
 - [A2Hosting](https://www.a2hosting.com/)
-- [ALC Hosting - High Powered Web Hosting For Your Unique Needs!](https://www.alchosting.net/)
+- [ALC Hosting](https://www.alchosting.net/) — High Powered Web Hosting For Your Unique Needs!
 - [Altervista.org](https://en.altervista.org/)
 - [alwaysdata](https://www.alwaysdata.com/en/)
 - [ATGroup](https://www.atgroup.gr/)
-- [Atspace - Free Web Hosting for Life, Free Domains, Easy Website Builder](https://www.atspace.com/)
+- [Atspace](https://www.atspace.com/) — Free Web Hosting for Life, Free Domains, Easy Website Builder
 - [Bluehost](https://www.bluehost.com/)
 - [Cloud Hosting](https://www.cloudways.com/es/)
 - [CloudLinux](https://www.cloudlinux.com/)
 - [Coolify](https://coolify.io/)
 - [D9T READY](https://d9tready.com/)
 - [DreamHost](https://www.dreamhost.com/)
-- [DriveToWeb - Host websites on Google Drive and Microsoft OneDrive](https://drv.tw/)
-- [Ecohosting – Green Web Hosting](https://ecohosting.ie/)
+- [DriveToWeb](https://drv.tw/) — Host websites on Google Drive and Microsoft OneDrive
+- [Ecohosting](https://ecohosting.ie/) — Green Web Hosting
 - [Fosshost](https://fosshost.org/)
 - [Gandi.net](https://www.gandi.net/)
-- [Gilect: Free Hosting, WordPress Hosting, and Website Builder](https://gilect.com/)
-- [Glitch: The friendly community where everyone builds the web](https://glitch.com/)
+- [Gilect](https://gilect.com/) — Free Hosting, WordPress Hosting, and Website Builder
+- [Glitch](https://glitch.com/) — The friendly community where everyone builds the web
 - [GreenGeeks](https://www.greengeeks.com/)
 - [HealthHosts](https://www.healthhosts.com/)
 - [HelioHost](https://www.heliohost.org/)
@@ -2535,8 +2535,8 @@ description: Stores, marketplaces, product research, and resale
 - [HostDash](https://hostdash.com/)
 - [HostGator](https://www.hostgator.com/)
 - [Hosting Tribunal](https://hostingtribunal.com/)
-- [Hostinger - Bring your idea online with a website](https://www.hostinger.com/)
-- [InfinityFree - Free Web Hosting with PHP and MySQL](https://www.infinityfree.com/)
+- [Hostinger](https://www.hostinger.com/) — Bring your idea online with a website
+- [InfinityFree](https://www.infinityfree.com/) — Free Web Hosting with PHP and MySQL
 - [InfinityFree.net](https://www.infinityfree.net/)
 - [Infomaniak](https://www.infomaniak.com/en)
 - [InMotion Hosting](https://www.inmotionhosting.com/)
@@ -2548,18 +2548,18 @@ description: Stores, marketplaces, product research, and resale
 - [Liquid Web](https://www.liquidweb.com/)
 - [LunaNode](https://www.lunanode.com/)
 - [Masto.host](https://masto.host/)
-- [Miraheze - Free Wiki Hosting, No Ads](https://miraheze.org/)
+- [Miraheze](https://miraheze.org/) — Free Wiki Hosting, No Ads
 - [Mythic Beasts](https://www.mythic-beasts.com/)
 - [Neocities hosting](https://neocities.org/)
 - [NivaCity](https://nivacity.com/)
 - [Norid.no](https://www.norid.no/en)
 - [one.com](https://www.one.com/en)
 - [OnlineBusiness](https://www.onlinebusiness.com/)
-- [OnWorks - Free Cloud Hosting](https://www.onworks.net/)
+- [OnWorks](https://www.onworks.net/) — Free Cloud Hosting
 - [OrangeWebsite](https://www.orangewebsite.com/)
 - [Pantheon](https://pantheon.io/)
 - [PeoplesHost](https://www.peopleshost.com/)
-- [PikaPods - Open Source App Hosting](https://www.pikapods.com/)
+- [PikaPods](https://www.pikapods.com/) — Open Source App Hosting
 - [porkbun.com](https://porkbun.com/)
 - [ProFreeHost](https://profreehost.com/)
 - [Raiola Networks](https://raiolanetworks.es/)
@@ -2567,21 +2567,21 @@ description: Stores, marketplaces, product research, and resale
 - [Render](https://render.com/)
 - [Salesforce](https://www.salesforce.com/)
 - [Scala Hosting](https://www.scalahosting.com/)
-- [Seedboxes.cc - Quality and affordable seedbox with premium bandwidth](https://www.seedboxes.cc/)
+- [Seedboxes.cc](https://www.seedboxes.cc/) — Quality and affordable seedbox with premium bandwidth
 - [Serv00.com » Home](https://www.serv00.com/)
-- [Serveo: expose local servers to the internet using SSH](https://serveo.net/)
+- [Serveo](https://serveo.net/) — expose local servers to the internet using SSH
 - [Site44](https://www.site44.com/)
 - [SiteGround](https://www.siteground.es/)
 - [SpinupWP](https://spinupwp.com/)
-- [Static.app - Static Website Hosting](https://static.app/)
-- [SuperHosting.BG - Hosting and domains](https://en.superhosting.bg/)
-- [TinkerHost - 100% Free Hosting with htaccess and PHP support](https://tinkerhost.net/)
+- [Static.app](https://static.app/) — Static Website Hosting
+- [SuperHosting.BG](https://en.superhosting.bg/) — Hosting and domains
+- [TinkerHost](https://tinkerhost.net/) — 100% Free Hosting with htaccess and PHP support
 - [TMD Hosting](https://www.tmdhosting.com/)
 - [Tropical Server](https://www.tropicalserver.com/)
 - [tsoHost](https://www.tsohost.com/)
 - [Uberspace](https://uberspace.de/en/)
-- [Úvod - Webhosting a webdesign Web4ce](https://www.web4ce.cz/)
-- [Vercel - Build and deploy the best Web experiences with The Frontend Cloud](https://vercel.com/home)
+- [Úvod](https://www.web4ce.cz/) — Webhosting a webdesign Web4ce
+- [Vercel](https://vercel.com/home) — Build and deploy the best Web experiences with The Frontend Cloud
 - [Verisign](https://www.verisign.com/)
 - [Web Hosting Ninja](https://webhosting.ninja/)
 - [Webempresa](https://www.webempresa.com/)
@@ -2593,13 +2593,13 @@ description: Stores, marketplaces, product research, and resale
 - [17.ex](https://www.17ex.com/)
 - [101domain](https://www.101domain.com/)
 - [Afternic](https://www.afternic.com/)
-- [Arsys - Comprar dominio y hosting](https://www.arsys.es/)
-- [BookMyName.com - Register domain names](https://www.bookmyname.com/)
+- [Arsys](https://www.arsys.es/) — Comprar dominio y hosting
+- [BookMyName.com](https://www.bookmyname.com/) — Register domain names
 - [Buy Domains](https://www.buydomains.com/)
 - [cdmon](https://www.cdmon.com/es)
 - [DAN](https://dan.com/)
 - [DataCube.com](https://datacube.com/)
-- [DigitalPlat Domain](https://domain.digitalplat.org/) / [🔗](https://github.com/DigitalPlatDev/FreeDomain)
+- [DigitalPlat Domain](https://domain.digitalplat.org/) / <a href="https://github.com/DigitalPlatDev/FreeDomain"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [dinahosting](https://dinahosting.com/)
 - [Domain.com](https://www.domain.com/)
 - [Dominios.es](https://dominios.es/)
@@ -2609,7 +2609,7 @@ description: Stores, marketplaces, product research, and resale
 - [Dynadot.com](https://www.dynadot.com/)
 - [Enom](https://www.enom.com/)
 - [Epik Domain Registrar](https://registrar.epik.com/)
-- [Gandi.net: Domain Names, Web Hosting, SSL Certificates and Emails](https://gandi.net/en-US)
+- [Gandi.net](https://gandi.net/en-US) — Domain Names, Web Hosting, SSL Certificates and Emails
 - [GoDaddy](https://www.godaddy.com/es-es)
 - [Google Domains](https://domains.google/)
 - [Hover.com](https://www.hover.com/)
@@ -2623,13 +2623,13 @@ description: Stores, marketplaces, product research, and resale
 - [Namecheap](https://www.namecheap.com/)
 - [NameSilo](https://www.namesilo.com/)
 - [Network solutions](https://www.networksolutions.com/)
-- [Niceni - Register Domain by Bitcoin | Buy Domain with Crypto Payment](https://nicenic.net/)
-- [Njalla — Privacy provider for domains, VPS' and VPNs.](https://njal.la/)
+- [Niceni](https://nicenic.net/) — Register Domain by Bitcoin | Buy Domain with Crypto Payment
+- [Njalla](https://njal.la/) — Privacy provider for domains, VPS' and VPNs.
 - [Nominalia](https://www.nominalia.com/)
 - [One Word Domains](https://www.oneword.domains/)
 - [Piensa Solutions](https://www.piensasolutions.com/)
 - [RegistrarOwl](https://www.registrarowl.com/index.php)
-- [Saw.com - Domain Brokerage](https://sawbrokers.com/)
+- [Saw.com](https://sawbrokers.com/) — Domain Brokerage
 - [Sedo](https://sedo.com/es)
 - [Sered](https://sered.net/)
 - [Symbolics.com (1st web)](https://symbolics.com/)
@@ -2639,38 +2639,38 @@ description: Stores, marketplaces, product research, and resale
 - [Whois.com](https://www.whois.com/)
 
 ###### VPS
-- [Budget VPS List - Lowendstock](https://lowendstock.com/)
-- [Cloudzy | Your VPS Hosting Solutions in the Clouds ☁️](https://cloudzy.com/)
+- [Budget VPS List](https://lowendstock.com/) — Lowendstock
+- [Cloudzy](https://cloudzy.com/) — Your VPS Hosting Solutions in the Clouds ☁️
 - [Cockbox VPS Hosting](https://cockbox.org/)
-- [MVPS - Your European VPS provider](https://www.mvps.net/)
+- [MVPS](https://www.mvps.net/) — Your European VPS provider
 - [Panix](https://www.panix.com/)
-- [SnowCore - Welcome](https://snowcore.io/)
+- [SnowCore](https://snowcore.io/) — Welcome
 - [VPS Server](https://www.vpsserver.com/)
 - [VPS.net](https://www.vps.net/)
-- [VPS/VDS сервера в аренду — купить виртуальный сервер по цене от 48 рублей](https://vps.today/)
+- [VPS/VDS сервера в аренду](https://vps.today/) — купить виртуальный сервер по цене от 48 рублей
 - [WebHorizon](https://webhorizon.in/)
 
 ###### SSL Certificate
-- [Comodo CA - SSL Certificates](https://www.comodoca.com/)
-- [DigiCert - SSL Certificates](https://www.digicert.com/)
-- [GlobalSign - SSL Certificates](https://www.globalsign.com/en)
+- [Comodo CA](https://www.comodoca.com/) — SSL Certificates
+- [DigiCert](https://www.digicert.com/) — SSL Certificates
+- [GlobalSign](https://www.globalsign.com/en) — SSL Certificates
 - [Let's Encrypt](https://letsencrypt.org/)
 
 ###### Debrid
-- ⭐ **[Debrid Media Manager](https://debridmediamanager.com/start)** / [🔗](https://github.com/debridmediamanager)
-- [AllDebrid - Premium link generator and torrent downloader](https://alldebrid.com/)
-- [Debrid-Link - Premium link generator and Seedbox](https://debrid-link.com/)
+- ⭐ **[Debrid Media Manager](https://debridmediamanager.com/start)** / <a href="https://github.com/debridmediamanager"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [AllDebrid](https://alldebrid.com/) — Premium link generator and torrent downloader
+- [Debrid-Link](https://debrid-link.com/) — Premium link generator and Seedbox
 - [Debridio](https://debridio.com/)
-- [LinkSnappy - Get your files as a premium user from all hosts!](https://linksnappy.com/home)
-- [Mega-Debrid : Generador de enlaces premium y descargador de torrents](https://www.mega-debrid.eu/)
-- [Premiumize.me - Cloud Storage](https://www.premiumize.me/)
-- [Real-Debrid: All-in-one solution](https://real-debrid.com/)
-- [TorBox.app](https://torbox.app/) / [🔗](https://github.com/TorBox-App)
+- [LinkSnappy](https://linksnappy.com/home) — Get your files as a premium user from all hosts!
+- [Mega-Debrid](https://www.mega-debrid.eu/) — Generador de enlaces premium y descargador de torrents
+- [Premiumize.me](https://www.premiumize.me/) — Cloud Storage
+- [Real-Debrid](https://real-debrid.com/) — All-in-one solution
+- [TorBox.app](https://torbox.app/) / <a href="https://github.com/TorBox-App"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 
 ##### Usenet Provider
 - [BlockNews](https://blocknews.net/)
 - [Easynews.com](https://easynews.com/)
-- [Eweka - Usenet Access](https://www.eweka.nl/en)
+- [Eweka](https://www.eweka.nl/en) — Usenet Access
 - [Fast Usenet](https://www.fastusenet.org/)
 - [Frugal Usenet](https://frugalusenet.com/)
 - [maximumUSENET](https://www.maximumusenet.com/)
@@ -2682,7 +2682,7 @@ description: Stores, marketplaces, product research, and resale
 - [Pure Usenet](https://www.pureusenet.nl/en)
 - [Sunny usenet](https://www.sunnyusenet.com/en/)
 - [TweakNews](https://www.tweaknews.eu/en/)
-- [Usenet Newsgroups | Newshosting](https://www.newshosting.com/)
+- [Usenet Newsgroups](https://www.newshosting.com/) — Newshosting
 - [Usenet Newsgroups Server](https://www.supernews.com/)
 - [Usenet Now](https://usenetnow.net/)
 - [UsenetExpress](https://www.usenetexpress.com/)
@@ -2691,11 +2691,11 @@ description: Stores, marketplaces, product research, and resale
 - [XS News](https://www.xsnews.nl/en/index.html)
 
 ##### Game Server Hosting
-- [DatHost - Premium Game Server Hosting](https://dathost.net/)
-- [NITRADO - Gaming Server](https://server.nitrado.net/en-US)
-- [Pine Hosting - Game Server Hosting | Dedicated Hosting](https://pinehosting.com/)
-- [Shockbyte - Minecraft Server Hosting](https://shockbyte.com/)
-- [Sparked Host - Minecraft Server Hosting](https://sparkedhost.com/)
+- [DatHost](https://dathost.net/) — Premium Game Server Hosting
+- [NITRADO](https://server.nitrado.net/en-US) — Gaming Server
+- [Pine Hosting](https://pinehosting.com/) — Game Server Hosting | Dedicated Hosting
+- [Shockbyte](https://shockbyte.com/) — Minecraft Server Hosting
+- [Sparked Host](https://sparkedhost.com/) — Minecraft Server Hosting
 - [ZAP-Hosting](https://zap-hosting.com/en/)
 
 #### Software Company
@@ -2710,7 +2710,7 @@ description: Stores, marketplaces, product research, and resale
 - [Blind Help Project](https://blindhelp.net/)
 - [Board](https://www.board.com/en)
 - [BuzzStream](https://www.buzzstream.com/)
-- [CentralX - Software Médico](http://www.centralx.com/)
+- [CentralX](http://www.centralx.com/) — Software Médico
 - [Certify](https://www.certify.com/)
 - [Digital humans](https://digitalhumans.com/)
 - [DigitalStakeout](https://www.digitalstakeout.com/)
@@ -2718,7 +2718,7 @@ description: Stores, marketplaces, product research, and resale
 - [Edosoft](https://edosoft.es/)
 - [Harpo Software](https://harposoftware.com/en/)
 - [ITQ GmbH](https://www.itq.de/)
-- [KAL | ATM Software for banks](https://www.kal.com/en/)
+- [KAL](https://www.kal.com/en/) — ATM Software for banks
 - [Kroll](https://www.kroll.com/en)
 - [Laborejo Software Suite](https://www.laborejo.org/)
 - [Macrium Software](https://www.macrium.com/)
@@ -2727,7 +2727,7 @@ description: Stores, marketplaces, product research, and resale
 - [Mobileiron](https://www.mobileiron.com/en)
 - [Montavista](https://www.mvista.com/en/about_whatwedo)
 - [NCH Software](https://www.nchsoftware.com/)
-- [NextUp - TextAloud](https://nextup.com/)
+- [NextUp](https://nextup.com/) — TextAloud
 - [Octopus Deploy](https://octopus.com/)
 - [Odoo](https://www.odoo.com/es_ES)
 - [OpenText](https://www.opentext.com/)
@@ -2736,11 +2736,11 @@ description: Stores, marketplaces, product research, and resale
 - [Qihoo 360](https://www.360.cn/)
 - [QotoQot](https://qotoqot.com/)
 - [Qualtrics XM](https://www.qualtrics.com/uk/)
-- [RIB Spain | Presto: Software de presupuestos para la construcción.](https://www.rib-software.es/index.php)
+- [RIB Spain](https://www.rib-software.es/index.php) — Presto: Software de presupuestos para la construcción.
 - [Sage](https://www.sage.com/en-us)
 - [SAP](https://www.sap.com/index.html)
 - [ServiceNow](https://www.servicenow.com/)
-- [Sidewalk Labs | Urban Innovation](https://www.sidewalklabs.com/)
+- [Sidewalk Labs](https://www.sidewalklabs.com/) — Urban Innovation
 - [SolarWinds](https://www.solarwinds.com/)
 - [Sopra Steria](https://www.soprasteria.com/)
 - [Speech2Go](https://speech2go.online/)
@@ -2755,68 +2755,68 @@ description: Stores, marketplaces, product research, and resale
 - [Wind River](https://www.windriver.com/)
 
 ##### Software Development Company
-- ⭐ **[Qt - Tools for Each Stage of Software Development Lifecycle](https://www.qt.io/)**
+- ⭐ **[Qt](https://www.qt.io/)** — Tools for Each Stage of Software Development Lifecycle
 - [acmelabs](https://acmelabs.space/)
-- [AfterLogic Corp. — mail server, webmail client, email components](https://afterlogic.com/)
-- [Algolia - Site Search & Discovery powered by AI](https://www.algolia.com/)
+- [AfterLogic Corp.](https://afterlogic.com/) — mail server, webmail client, email components
+- [Algolia](https://www.algolia.com/) — Site Search & Discovery powered by AI
 - [AllianceTek](https://www.alliancetek.com/)
-- [Amdocs - Digital network transformation communications](https://www.amdocs.com/)
-- [Ansys | Engineering Simulation Software](https://www.ansys.com/)
-- [AppNation - Challenge the Unthinkable](https://www.appnation.co/)
+- [Amdocs](https://www.amdocs.com/) — Digital network transformation communications
+- [Ansys](https://www.ansys.com/) — Engineering Simulation Software
+- [AppNation](https://www.appnation.co/) — Challenge the Unthinkable
 - [Appsheet](https://www.appsheet.com/)
 - [AppWorks](https://app.works/)
 - [Ardan Labs](https://www.ardanlabs.com/)
-- [AS93 | Project Catalog](https://as93.net/)
+- [AS93](https://as93.net/) — Project Catalog
 - [ASCON Solutions](https://ascon.net/)
 - [Astian](https://astian.org/en)
-- [Astian Astian, Inc – Software Libre para todos](https://astian.org/)
+- [Astian Astian, Inc](https://astian.org/) — Software Libre para todos
 - [BITBOX S.L.](https://bitboxonline.com/)
-- [Browntree Labs | Consulting](https://browntreelabs.com/portfolio)
+- [Browntree Labs](https://browntreelabs.com/portfolio) — Consulting
 - [Caspio](https://www.caspio.com/)
 - [Charm.sh](https://charm.sh/)
 - [ClockworkMod](https://www.clockworkmod.com/)
 - [Cockroach Labs](https://www.cockroachlabs.com/)
-- [Collabora | Open Source Software Consulting](https://www.collabora.com/)
+- [Collabora](https://www.collabora.com/) — Open Source Software Consulting
 - [Crowdin](https://crowdin.com/)
-- [datronicsoft | Software Development](https://www.datronicsoft.de/en/)
-- [DDC-I – Safety & Mission Critical Software](https://www.ddci.com/)
+- [datronicsoft](https://www.datronicsoft.de/en/) — Software Development
+- [DDC-I](https://www.ddci.com/) — Safety & Mission Critical Software
 - [DigitalOcean](https://www.digitalocean.com/)
 - [Disroot](https://disroot.org/en)
 - [DuckyHQ](https://www.duckyhq.com/)
-- [e Foundation - deGoogled smartphones OS](https://e.foundation/)
+- [e Foundation](https://e.foundation/) — deGoogled smartphones OS
 - [Eastern Peak](https://easternpeak.com/)
-- [Elecard - Video monitoring, analysis, encoding for IPTV, OTT and DVB](https://www.elecard.com/)
+- [Elecard](https://www.elecard.com/) — Video monitoring, analysis, encoding for IPTV, OTT and DVB
 - [Faronics](https://www.faronics.com/en-uk)
 - [Fixstars Corporation](https://www.fixstars.com/en)
 - [Fornaxian Technologies](https://fornaxian.tech/)
 - [Fossify](https://www.fossify.org/)
-- [Frappe: Open Source Software](https://frappe.io/)
+- [Frappe](https://frappe.io/) — Open Source Software
 - [Fyra Labs](https://fyralabs.com/)
 - [Gen Digital](https://www.gendigital.com/us/en/)
 - [Global Payments](https://www.globalpayments.com/es-es)
 - [GOMLab](https://www.gomlab.com/)
 - [Goorm.io](https://www.goorm.io/)
-- [Green Hills Software - Real-Time Operating Systems (RTOS), Embedded Development Tools, Optimizing Compilers, IDE tools, Debuggers](https://www.ghs.com/)
+- [Green Hills Software](https://www.ghs.com/) — Real-Time Operating Systems (RTOS), Embedded Development Tools, Optimizing Compilers, IDE tools, Debuggers
 - [Hachipoo Apps](https://hachipoo.com/)
-- [Haplo – Powering the Modern Professional](https://haploapp.com/)
-- [Heartland | Point of Sale, Payment Processing and Payroll Solutions to Run and Grow Small Businesses](https://www.heartland.us/)
+- [Haplo](https://haploapp.com/) — Powering the Modern Professional
+- [Heartland](https://www.heartland.us/) — Point of Sale, Payment Processing and Payroll Solutions to Run and Grow Small Businesses
 - [HHD Software](https://www.hhdsoftware.com/)
 - [Holepunch](https://holepunch.to/)
-- [Hopin | Technology That Connects People, Builds Community, and Powers Business](https://hopin.com/)
+- [Hopin](https://hopin.com/) — Technology That Connects People, Builds Community, and Powers Business
 - [Hypha.earth](https://hypha.earth/)
 - [Indie Goodies](https://indiegoodies.com/)
 - [Ink & Switch](https://www.inkandswitch.com/)
 - [insendi](https://www.insendi.com/)
 - [instinctools](https://www.instinctools.com/)
 - [Irdeto](https://irdeto.com/)
-- [iToolab Software Official: Meet All Your Smartphone Needs](https://itoolab.com/)
-- [JetBrains - Essential tools for software developers and teams](https://www.jetbrains.com/)
-- [JetBrains - Students](https://www.jetbrains.com/shop/eform/students)
+- [iToolab Software Official](https://itoolab.com/) — Meet All Your Smartphone Needs
+- [JetBrains](https://www.jetbrains.com/) — Essential tools for software developers and teams
+- [JetBrains](https://www.jetbrains.com/shop/eform/students) — Students
 - [JetBrains Plugins](https://plugins.jetbrains.com/)
-- [Jolla - privacy-first OS](https://jolla.com/)
+- [Jolla](https://jolla.com/) — privacy-first OS
 - [jonls.dk](http://jonls.dk/)
 - [KDAB](https://www.kdab.com/)
-- [Kimico - Best organization apps for iPhone and iPad](https://www.kimicoapps.com/)
+- [Kimico](https://www.kimicoapps.com/) — Best organization apps for iPhone and iPad
 - [Kitware](https://www.kitware.com/)
 - [Kyndryl United States](https://www.kyndryl.com/us/en)
 - [Lãberit](https://www.laberit.com/)
@@ -2824,7 +2824,7 @@ description: Stores, marketplaces, product research, and resale
 - [LeanMind.es](https://leanmind.es/es/acerca)
 - [Lime Assistive Technology Ltd](https://limetech.uk/)
 - [MacPaw](https://macpaw.com/)
-- [Matter Labs — an engineering team passionate about liberty, blockchain, and math.](https://matter-labs.io/)
+- [Matter Labs](https://matter-labs.io/) — an engineering team passionate about liberty, blockchain, and math.
 - [Metaverse Labs](https://metaverselabs.ai/)
 - [Muse Group](https://www.mu.se/)
 - [Nartex Software](https://www.nartexsoft.com/)
@@ -2837,34 +2837,34 @@ description: Stores, marketplaces, product research, and resale
 - [Orckestra](https://www.orckestra.com/en)
 - [Oregan Networks](https://oregan.net/)
 - [Outerspace Software](https://www.outerspace-software.com/)
-- [Palo Alto Networks - Cybersecurity Protection & Software for the Modern Enterprises](https://www.paloaltonetworks.com/)
-- [Panic - Shockingly Good Software](https://panic.com/)
-- [Paycom - Online Payroll Services | HR Payroll Software](https://www.paycom.com/)
-- [Plus 360 Degrees - High End Realtime 3D](https://plus360degrees.com/)
+- [Palo Alto Networks](https://www.paloaltonetworks.com/) — Cybersecurity Protection & Software for the Modern Enterprises
+- [Panic](https://panic.com/) — Shockingly Good Software
+- [Paycom](https://www.paycom.com/) — Online Payroll Services | HR Payroll Software
+- [Plus 360 Degrees](https://plus360degrees.com/) — High End Realtime 3D
 - [PNGuin](https://www.pnguin.app/)
 - [Powercode.co.uk](https://powercode.co.uk/)
 - [pqrs.org](https://pqrs.org/)
 - [pwmt.org](https://pwmt.org/)
 - [Rainberry, Inc](https://rainberry.com/)
-- [Realm Open Source](https://realm.github.io/) / [🔗](https://github.com/realm)
+- [Realm Open Source](https://realm.github.io/) / <a href="https://github.com/realm"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [Recruitment Software](https://recruitee.com/)
-- [Reincubate — Get more from your devices](https://reincubate.com/)
+- [Reincubate](https://reincubate.com/) — Get more from your devices
 - [Research and Care](https://www.researchandcare.org/)
 - [Reviewpad](https://reviewpad.com/)
-- [RichfieldLabs — Apps Built Different](https://www.richfieldlabs.com/)
+- [RichfieldLabs](https://www.richfieldlabs.com/) — Apps Built Different
 - [Rocket software](https://www.rocketsoftware.com/)
 - [Roxio](https://www.roxio.com/en)
 - [Segurisoft](https://www.segurisoft.es/)
 - [Selleo](https://selleo.com/)
 - [Siemens Digital Industries Software](https://www.sw.siemens.com/en-US/)
 - [Siemens Software](https://www.plm.automation.siemens.com/global/en/)
-- [Skylum – Great Photography Differently](https://skylum.com/)
+- [Skylum](https://skylum.com/) — Great Photography Differently
 - [Sn8z](https://sn8z.github.io/)
-- [Softorino | Tiny Apps That Make Your Life Simple](https://softorino.com/)
+- [Softorino](https://softorino.com/) — Tiny Apps That Make Your Life Simple
 - [Software DELSOL](https://www.sdelsol.com/)
-- [Software Development - Connecting everyone, everywhere, to God’s Word every day.](https://www.youversion.com/)
+- [Software Development](https://www.youversion.com/) — Connecting everyone, everywhere, to God’s Word every day.
 - [Sopra Software](https://www.soprahr.com/en/home)
-- [SpiderOak Crossclave | SpiderOak CrossClave](https://crossclave.com/)
+- [SpiderOak Crossclave](https://crossclave.com/) — SpiderOak CrossClave
 - [StarApps Ltd { Passionate Software Development }](https://starapps-ltd.com/en)
 - [Stardock](https://www.stardock.com/)
 - [Starlight Apps LLP](https://www.starlightapps.org/)
@@ -2877,18 +2877,18 @@ description: Stores, marketplaces, product research, and resale
 - [Tighten](https://tighten.com/)
 - [ToolStack.com](https://toolstack.com/)
 - [Trail of Bits](https://www.trailofbits.com/)
-- [TrustFm - Software & Hardware prototyping](https://www.trustfm.net/)
+- [TrustFm](https://www.trustfm.net/) — Software & Hardware prototyping
 - [Turing](https://www.turing.com/)
 - [UBports](https://ubports.com/)
 - [Vertical Horizon](https://www.verticalhorizon-software.com/)
 - [void(0)](https://voidzero.dev/)
 - [Wagnardsoft](https://www.wagnardsoft.com/)
-- [Warlord Softwares | Linux Unleashed](https://warlordsoftwares.com/)
+- [Warlord Softwares](https://warlordsoftwares.com/) — Linux Unleashed
 - [Wecode](https://wecode.io/es)
 - [WestByte](https://www.westbyte.com/)
 - [Wonder Unit](https://wonderunit.com/)
 - [You Apps](https://you-apps.net/)
-- [Zoonk: Open-source solutions for education](https://zoonk.org/en)
+- [Zoonk](https://zoonk.org/en) — Open-source solutions for education
 
 ###### Game Studios
 - [2DD Entertainment](http://2ddentertainment.com/)
@@ -2902,8 +2902,8 @@ description: Stores, marketplaces, product research, and resale
 - [Arc Games](https://www.arcgames.com/en/games)
 - [ArenaNet](https://www.arena.net/en)
 - [Arrowhead](https://www.arrowheadgamestudios.com/)
-- [Asobo Studio - Video Game developer](https://www.asobostudio.com/)
-- [Atomic Heart – Mundfish](https://mundfish.com/)
+- [Asobo Studio](https://www.asobostudio.com/) — Video Game developer
+- [Atomic Heart](https://mundfish.com/) — Mundfish
 - [Avalanche Studios](https://avalanchestudios.com/)
 - [BANDAI NAMCO](https://es.bandainamcoent.eu/)
 - [Bethesda](https://bethesda.net/en/dashboard)
@@ -2912,7 +2912,7 @@ description: Stores, marketplaces, product research, and resale
 - [Blackbird Interactive](https://blackbirdinteractive.com/)
 - [Blizzard Entertainment](https://www.blizzard.com/en-us)
 - [Bungie.net](https://www.bungie.net/)
-- [Bungie.net | Creators of Destiny 2 & Marathon](https://www.bungie.net/7)
+- [Bungie.net](https://www.bungie.net/7) — Creators of Destiny 2 & Marathon
 - [Capcom](https://www.capcom-europe.com/)
 - [CD PROJEKT RED](https://en.cdprojektred.com/)
 - [Chrono.gg](https://www.chrono.gg/)
@@ -2920,7 +2920,7 @@ description: Stores, marketplaces, product research, and resale
 - [Colossal Order](https://www.colossalorder.fi/)
 - [Crytivo](https://crytivo.com/)
 - [Cygames](https://www.cygames.co.jp/)
-- [Deep Silver - Deep Silver develops and publishes video games for all major consoles worldwide and published over 200 games on different platforms so far](https://www.deepsilver.com/us/)
+- [Deep Silver](https://www.deepsilver.com/us/) — Deep Silver develops and publishes video games for all major consoles worldwide and published over 200 games on different platforms so far
 - [Devolver Digital Games](https://devolverdigital.com/)
 - [DICE](https://www.dice.se/)
 - [Digital Extremes](https://www.digitalextremes.com/)
@@ -2931,7 +2931,7 @@ description: Stores, marketplaces, product research, and resale
 - [Facepunch](https://facepunch.com/)
 - [Feral Interactive](https://www.feralinteractive.com/en)
 - [Firaxis.com](https://firaxis.com/)
-- [Flyboys Games | Games Studio](https://www.worldofairports.com/)
+- [Flyboys Games](https://www.worldofairports.com/) — Games Studio
 - [FromSoftware](https://www.fromsoftware.jp/ww)
 - [FromSoftware](https://www.fromsoftware.jp/jp/index.html)
 - [Gaijin Entertainment](https://gaijin.net/es)
@@ -2951,9 +2951,9 @@ description: Stores, marketplaces, product research, and resale
 - [inkle](https://www.inklestudios.com/)
 - [InnerSloth](https://innersloth.com/)
 - [Ironhide Game Studio](https://www.ironhidegames.com/)
-- [Is This Seat Taken? - Poti Poti](https://www.potipoti.studio/)
+- [Is This Seat Taken?](https://www.potipoti.studio/) — Poti Poti
 - [kakaogames](https://www.kakaogamescorp.com/)
-- [Kraft on - 크래프톤](https://www.krafton.com/)
+- [Kraft on](https://www.krafton.com/) — 크래프톤
 - [Mediatonic](https://www.mediatonicgames.com/)
 - [Naughty Dog](https://www.naughtydog.com/)
 - [NCSOFT West](https://us.ncsoft.com/en-us)
@@ -2969,13 +2969,13 @@ description: Stores, marketplaces, product research, and resale
 - [Pocket Pair](https://www.pocketpair.jp/)
 - [ProbablyMonsters Studios](https://www.probablymonsters.com/)
 - [Raw Fury](https://rawfury.com/)
-- [Rebel Wolves - making an AAA RPG the better way](https://rebel-wolves.com/)
+- [Rebel Wolves](https://rebel-wolves.com/) — making an AAA RPG the better way
 - [Revolution Software](https://revolution.co.uk/)
 - [Revolutionary Games Studio](https://revolutionarygamesstudio.com/)
 - [Roblox corp](https://corp.roblox.com/)
 - [Rockstar Games](https://www.rockstargames.com/)
 - [Rockstar North](https://www.rockstarnorth.com/)
-- [Routing Tales - Experiencias gamificadas](https://routingtales.com/)
+- [Routing Tales](https://routingtales.com/) — Experiencias gamificadas
 - [Santa Monica Studio](https://sms.playstation.com/)
 - [Scopely](https://www.scopely.com/)
 - [SEGA](https://www.sega.com/)
@@ -2993,24 +2993,24 @@ description: Stores, marketplaces, product research, and resale
 - [Valve Corporation](https://www.valvesoftware.com/en/)
 - [Vicarious Visions](https://www.vvisions.com/)
 - [WB Games](https://www.warnerbrosgames.com/)
-- [Which Way Up: Galaxy Games](https://whichwayup.info/)
+- [Which Way Up](https://whichwayup.info/) — Galaxy Games
 - [Wildfire Games](https://wildfiregames.com/)
 - [Wizards Corporate](https://company.wizards.com/)
 - [Xsolla](https://xsolla.com/)
 - [Young & Naughty](https://youngnaughty.net/)
-- [Z8Games - Free Gaming. Evolved.](https://www.z8games.com/)
+- [Z8Games](https://www.z8games.com/) — Free Gaming. Evolved.
 - [ZeniMax Online Studios](https://www.zenimaxonline.com/)
 - [ZTGame](https://www.ztgame.com/)
 
 ###### Desktop App Development
-- ⭐ **[Ableton - Creative tools for music makers](https://www.ableton.com/en/)**
+- ⭐ **[Ableton](https://www.ableton.com/en/)** — Creative tools for music makers
 - [ABBYY](https://www.abbyy.com/)
-- [Ableton | Creative tools for music makers](https://www.ableton.com/)
+- [Ableton](https://www.ableton.com/) — Creative tools for music makers
 - [AccelWare, Inc.](http://www.accelware.com/)
 - [ACDSee](https://www.acdsee.com/en/index)
 - [Adobe Inc](https://www.adobe.com/)
-- [Affinity – Professional Creative Software](https://affinity.serif.com/en-us/)
-- [AFMG - Ahnert Feistel Media Group](https://www.afmg.eu/index.php/company.html)
+- [Affinity](https://affinity.serif.com/en-us/) — Professional Creative Software
+- [AFMG](https://www.afmg.eu/index.php/company.html) — Ahnert Feistel Media Group
 - [Aimersoft](https://www.aimersoft.com/)
 - [Apowersoft](https://www.apowersoft.com/free-online-screen-recorder?__c=1)
 - [Apowersoft](https://www.apowersoft.es/)
@@ -3022,7 +3022,7 @@ description: Stores, marketplaces, product research, and resale
 - [Autodesk Forge](https://forge.autodesk.com/)
 - [Avid](https://www.avid.com/)
 - [AVS](https://www.avs4you.com/)
-- [balena - The complete IoT fleet management platform](https://www.balena.io/)
+- [balena](https://www.balena.io/) — The complete IoT fleet management platform
 - [Bandicam](https://www.bandicam.com/)
 - [Blackmagic Design](https://www.blackmagicdesign.com/)
 - [Boinx Software](https://boinx.com/)
@@ -3035,12 +3035,12 @@ description: Stores, marketplaces, product research, and resale
 - [Code Aurora](https://www.codeaurora.org/)
 - [CodeWeavers](https://www.codeweavers.com/)
 - [Collectorz](https://www.collectorz.com/)
-- [Corel Corporation - Digital Media & Productivity Software](https://www.corel.com/en)
+- [Corel Corporation](https://www.corel.com/en) — Digital Media & Productivity Software
 - [CorelDRAW](https://www.coreldraw.com/en/)
 - [Cyberlink](https://www.cyberlink.com/)
 - [DEVONtechnologies](https://www.devontechnologies.com/)
-- [DxO photo-editing software: Simply better images](https://www.dxo.com/)
-- [Ebey Tech | macOS and Windows apps](https://ebeytech.com/)
+- [DxO photo-editing software](https://www.dxo.com/) — Simply better images
+- [Ebey Tech](https://ebeytech.com/) — macOS and Windows apps
 - [Eltima](https://www.eltima.com/)
 - [Escape Motions](https://www.escapemotions.com/)
 - [FairCode](https://www.faircode.eu/)
@@ -3054,7 +3054,7 @@ description: Stores, marketplaces, product research, and resale
 - [Gihosoft Software](https://www.gihosoft.com/)
 - [Graphisoft](https://graphisoft.com/)
 - [Hexler.net](https://hexler.net/)
-- [Image-Line - Create Your Best Music](https://www.image-line.com/)
+- [Image-Line](https://www.image-line.com/) — Create Your Best Music
 - [Iskysoft](https://www.iskysoft.com/)
 - [JAM Software](https://www.jam-software.com/)
 - [Kastelo Inc.](https://kastelo.net/)
@@ -3062,13 +3062,13 @@ description: Stores, marketplaces, product research, and resale
 - [KingSoft](https://www.kingsoft.com/)
 - [Kornelix.net](https://kornelix.net/)
 - [Laan Labs](https://labs.laan.com/)
-- [Librem One | Purism](https://librem.one/)
+- [Librem One](https://librem.one/) — Purism
 - [MAGIX](https://www.magix.com/us/)
 - [Many Tricks · Fine Mac Utilities](https://manytricks.com/)
 - [Mapache Dev](https://mapache.dev/)
 - [Maxon](https://www.maxon.net/en)
 - [Mirillis](https://mirillis.com/es)
-- [Movavi - Video editor](https://www.movavi.com/)
+- [Movavi](https://www.movavi.com/) — Video editor
 - [Nero](https://www.nero.com/esp)
 - [Nickvision](https://nickvision.org/)
 - [O&O Software](https://www.oo-software.com/en/)
@@ -3081,18 +3081,18 @@ description: Stores, marketplaces, product research, and resale
 - [PQINA](https://pqina.nl/)
 - [Qiplex](https://qiplex.com/)
 - [ReasonStudios](https://www.reasonstudios.com/)
-- [Rendom lab — Design and Development](https://rendom.net/)
+- [Rendom lab](https://rendom.net/) — Design and Development
 - [Rogue Amoeba](https://rogueamoeba.com/)
 - [SciTools](https://www.scitools.com/)
 - [Setapp](https://setapp.com/)
 - [Softdiv Software](https://www.softdivshareware.com/)
-- [Steinberg — Our Passion for Music Inspires](https://www.steinberg.net/)
-- [suckless.org - software that suck less](https://suckless.org/)
+- [Steinberg](https://www.steinberg.net/) — Our Passion for Music Inspires
+- [suckless.org](https://suckless.org/) — software that suck less
 - [TechSmith](https://www.techsmith.com/)
 - [The Objective-See Foundation](https://objective-see.org/)
 - [Toon Boom Animation](https://www.toonboom.com/)
 - [Topaz Labs](https://www.topazlabs.com/)
-- [Tracktion - audio editing, virtual instruments, plugins](https://www.tracktion.com/)
+- [Tracktion](https://www.tracktion.com/) — audio editing, virtual instruments, plugins
 - [Tunabelly Sofware](https://www.tunabellysoftware.com/)
 - [Vidmore](https://www.vidmore.com/)
 - [Visual Computing Group](https://visual-computing.com/)
@@ -3120,12 +3120,12 @@ description: Stores, marketplaces, product research, and resale
 - [gamberrylabs](http://gameberrylabs.com/)
 - [gamebra.in](https://www.gamebra.in/)
 - [GAMEE](https://www.gamee.com/)
-- [Gameloft - Mobile Video Games Developer](https://www.gameloft.com/)
+- [Gameloft](https://www.gameloft.com/) — Mobile Video Games Developer
 - [Gamma Play](https://www.gammaplay.com/)
 - [Garena Free Fire](https://ff.garena.com/)
 - [General Adaptive](https://generaladaptive.com/)
 - [Halfbrick](https://halfbrick.com/)
-- [IGG - Gamers at Heart](https://www.igg.com/)
+- [IGG](https://www.igg.com/) — Gamers at Heart
 - [Infinity Games](https://infinitygames.io/)
 - [King.com](https://www.king.com/)
 - [Lilith](https://www.lilith.com/)
@@ -3158,16 +3158,16 @@ description: Stores, marketplaces, product research, and resale
 - [tap4fun](https://www.tap4fun.com/en)
 - [Tencent Games](https://www.tencentgames.com/)
 - [Treebit](https://www.treebit.es/es)
-- [Wargaming.net games — the full list of games available for players on the official website](https://wargaming.net/en)
+- [Wargaming.net games](https://wargaming.net/en) — the full list of games available for players on the official website
 - [Zed Italy](https://www.zedit.info/)
 - [ZomboDroid Apps](https://www.zombodroid.com/)
 - [Zynga](https://www.zynga.com/)
 
 ###### App Development
-- [Acrobits | Business Softphone Apps](https://acrobits.net/)
+- [Acrobits](https://acrobits.net/) — Business Softphone Apps
 - [Apalon](https://www.apalon.com/)
 - [APPICS](https://appics.com/index.html)
-- [Auria Pro - Mobile Music Production](https://auriaapp.com/auria)
+- [Auria Pro](https://auriaapp.com/auria) — Mobile Music Production
 - [Avantic](http://avantic.net/)
 - [Bart Bonte](https://bartbonte.com/)
 - [chernykh.tech](https://chernykh.tech/)
@@ -3175,13 +3175,13 @@ description: Stores, marketplaces, product research, and resale
 - [ColdCode.info](http://coldcode.info/)
 - [Creaceed Apps for iPhone, iPad, and Mac](https://creaceed.com/)
 - [DaisyApps](http://www.daisyapps.de/)
-- [darken.eu - Matthias Urhahn](https://darken.eu/)
+- [darken.eu](https://darken.eu/) — Matthias Urhahn
 - [Define Studio](https://www.definestudio.in/)
 - [Dream Space](https://dream-space.web.id/)
 - [Dromosys](https://www.dromosys.com/)
 - [ecomobile](https://www.ecomobile.vn/)
 - [Fenrir Inc](https://www.fenrir-inc.com/jp)
-- [FoneDog - iPhone & Android Data Recovery, Mac Cleaner, Free PDF Compressor](https://www.fonedog.com/)
+- [FoneDog](https://www.fonedog.com/) — iPhone & Android Data Recovery, Mac Cleaner, Free PDF Compressor
 - [FSApps](http://picxarts.com/)
 - [Gameta](https://www.gameta.pro/#/)
 - [Hipolabs](https://hipolabs.com/)
@@ -3197,7 +3197,7 @@ description: Stores, marketplaces, product research, and resale
 - [Leap fitness](https://leap.app/)
 - [LOLAGRE](https://lolagre.com/)
 - [Microsys Applications](https://www.microsys.ro/)
-- [Mind-e-fy - Software Development Company](https://mind-e-fy.com/)
+- [Mind-e-fy](https://mind-e-fy.com/) — Software Development Company
 - [MindInventory](https://www.mindinventory.com/)
 - [Mobisystems](https://www.mobisystems.com/en-us/)
 - [mobpals](https://www.mobpals.com/)
@@ -3205,12 +3205,12 @@ description: Stores, marketplaces, product research, and resale
 - [Noctua Software](https://noctua-software.com/apps)
 - [Oniro Working Group](https://oniroproject.org/)
 - [OOZOU](https://oozou.com/)
-- [Readdle - Best productivity apps for iPhone, iPad and Mac](https://readdle.com/)
+- [Readdle](https://readdle.com/) — Best productivity apps for iPhone, iPad and Mac
 - [Red Sky Labs](https://www.redsky-labs.com/)
 - [Rhythm Software](https://rhmsoft.com/)
 - [Sharpened Productions](https://sharpened.com/)
 - [Simple Mobile Tools](https://www.simplemobiletools.com/)
-- [Simply | The best apps to set your creativity free](https://www.hellosimply.com/)
+- [Simply](https://www.hellosimply.com/) — The best apps to set your creativity free
 - [Simulation Curriculum](https://simulationcurriculum.com/)
 - [SmartWidget Labs](https://smartwidgetlabs.com/)
 - [Soft24Hours](https://soft24hours.com/)
@@ -3226,18 +3226,18 @@ description: Stores, marketplaces, product research, and resale
 - [Vito Technology](https://vitotechnology.com/)
 - [Wildlife Studios](https://wildlifestudios.com/)
 - [wolfSYS.net](https://www.wolfsys.net/)
-- [XD.com - 心动](https://www.xd.com/)
+- [XD.com](https://www.xd.com/) — 心动
 - [ZDevs](https://zdevs.ru/en/)
 - [Zipo apps](https://zipoapps.com/)
 
 ###### Web Development
 - [10up](https://10up.com/)
 - [Algonquin Design](https://algonquindesign.ca/)
-- [Artenko - Gaming Art Design Specialists](https://artenko.co.uk/)
+- [Artenko](https://artenko.co.uk/) — Gaming Art Design Specialists
 - [Atlas Talkium](https://www.atlastalkium.com/)
 - [Automattic](https://automattic.com/)
 - [Beacons.ai](https://beacons.ai/)
-- [Bejamas: Jamstack developers for hire](https://bejamas.io/)
+- [Bejamas](https://bejamas.io/) — Jamstack developers for hire
 - [built by Bel](https://www.builtbybel.com/)
 - [BYRON.nl](https://byron.nl/)
 - [Calconic.com](https://www.calconic.com/)
@@ -3247,7 +3247,7 @@ description: Stores, marketplaces, product research, and resale
 - [dev.co](https://dev.co/)
 - [Devexpress](https://www.devexpress.com/)
 - [Digital Nature](https://www.digitalnature.io/)
-- [Digiveljet - We Do Internet](https://digiveljet.fi/)
+- [Digiveljet](https://digiveljet.fi/) — We Do Internet
 - [DreamTeam](https://dreamteam.tech/)
 - [Eldøy Projects](https://eldoy.com/)
 - [Fast.design](https://www.fast.design/)
@@ -3258,7 +3258,7 @@ description: Stores, marketplaces, product research, and resale
 - [gskinner](https://gskinner.com/)
 - [Hop Studios](https://hopstudios.com/)
 - [iA.net](https://ia.net/)
-- [Ikius: Software development, with a Nordic touch](https://ikius.com/)
+- [Ikius](https://ikius.com/) — Software development, with a Nordic touch
 - [iMag](https://i-mag.com/en)
 - [Immersive Web Developer](https://immersiveweb.dev/)
 - [Marvelapp](https://marvelapp.com/)
@@ -3270,12 +3270,12 @@ description: Stores, marketplaces, product research, and resale
 - [NoHayWebs](https://nohaywebs.com/)
 - [Nord Design System](https://nordhealth.design/)
 - [Notion Labs](https://www.notionlabs.com/index.html)
-- [NuxtLabs: Intuitive Web Development](https://nuxtlabs.com/)
+- [NuxtLabs](https://nuxtlabs.com/) — Intuitive Web Development
 - [OpenPurpose](https://www.openpurpose.com/)
 - [Oxygenna Web Design](https://www.oxygenna.com/)
 - [Pathetic Geek](https://patheticgeek.dev/)
 - [Piccalilli](https://piccalil.li/)
-- [Pixelatelier - TYPO3 & Statamic Webdesign aus Linz](https://pixelatelier.at/)
+- [Pixelatelier](https://pixelatelier.at/) — TYPO3 & Statamic Webdesign aus Linz
 - [Pixelz Studio](https://www.pixelz.studio/)
 - [Pixl Labs](https://pixllabs.io/)
 - [Podcastpage.io](https://podcastpage.io/)
@@ -3298,11 +3298,11 @@ description: Stores, marketplaces, product research, and resale
 - [Teaching.com](https://teaching.com/)
 - [Telerik](https://www.telerik.com/)
 - [The New Dynamic](https://www.thenewdynamic.com/)
-- [thoughtbot - Design and Development agency building web and mobile products](https://thoughtbot.com/)
-- [Vayabits - Empresa de diseño y aplicaciones web en Barcelona](https://vayabits.com/)
+- [thoughtbot](https://thoughtbot.com/) — Design and Development agency building web and mobile products
+- [Vayabits](https://vayabits.com/) — Empresa de diseño y aplicaciones web en Barcelona
 - [Vuild.com](https://vuild.com/)
 - [Wakanda.io](https://www.wakanda.io/)
-- [Weblate - web-based localization](https://weblate.org/en/)
+- [Weblate](https://weblate.org/en/) — web-based localization
 - [Webworkshop](https://webworkshop.net/)
 - [Wepamedia](https://wepamedia.com/)
 - [Wisej.com](https://wisej.com/)
@@ -3312,27 +3312,27 @@ description: Stores, marketplaces, product research, and resale
 - [Zurb](https://zurb.com/)
 
 ###### DevOps
-- [DaKheera47/job-ops: job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process](https://github.com/DaKheera47/job-ops)
-- [emma - cloud as an application](https://emma.ms/)
+- [DaKheera47/job-ops](https://github.com/DaKheera47/job-ops) — job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process
+- [emma](https://emma.ms/) — cloud as an application
 - [JFrog](https://www.jfrog.com/)
 - [Opsly](https://www.opslycloud.com/)
 - [Sevalla](https://sevalla.com/)
-- [Traefik Labs: Say Goodbye to Connectivity Chaos](https://traefik.io/)
+- [Traefik Labs](https://traefik.io/) — Say Goodbye to Connectivity Chaos
 
 ##### AI Lab Company
-- ⭐ **[Black Forest Labs - Frontier AI Lab](https://bfl.ai/)**
+- ⭐ **[Black Forest Labs](https://bfl.ai/)** — Frontier AI Lab
 - ⭐ **[Nomic AI](https://www.nomic.ai/)**
 - ⭐ **[Stability AI](https://stability.ai/)**
 - [AIMultiple](https://aimultiple.com/)
-- [ALEPH ALPHA - AI for Enterprises and Governments](https://aleph-alpha.com/)
+- [ALEPH ALPHA](https://aleph-alpha.com/) — AI for Enterprises and Governments
 - [Ango AI](https://ango.ai/)
-- [Anthropic](https://www.anthropic.com/) / [🔗](https://github.com/anthropics)
+- [Anthropic](https://www.anthropic.com/) / <a href="https://github.com/anthropics"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [AyasdiAI](https://www.ayasdi.com/)
 - [Bloom AI](https://bloomai.co/)
 - [Clarifai](https://www.clarifai.com/)
 - [Clearview AI](https://clearview.ai/)
 - [Cognition](https://www.cognition.ai/)
-- [comma.ai — make driving chill](https://comma.ai/)
+- [comma.ai](https://comma.ai/) — make driving chill
 - [Dataloop.ai](https://dataloop.ai/platform/)
 - [DeepDetect](https://www.deepdetect.com/)
 - [DeepMind](https://www.deepmind.com/)
@@ -3340,60 +3340,60 @@ description: Stores, marketplaces, product research, and resale
 - [EdgeVerve](https://www.edgeverve.com/)
 - [Engati](https://www.engati.com/)
 - [FindFace.pro](https://findface.pro/)
-- [H - Operational intelligence for the enterprise](https://hcompany.ai/)
-- [H2O AI - The fastest, most accurate AI Cloud Platform](https://h2o.ai/)
-- [Hailuo AI - Your Ultimate AI Assistant for Intelligent Solutions](https://www.hailuo.ai/)
-- [Haup AI | Artificial Intelligent](https://www.haup.ai/)
-- [Inception – A new frontier in LLM speed](https://www.inceptionlabs.ai/)
+- [H](https://hcompany.ai/) — Operational intelligence for the enterprise
+- [H2O AI](https://h2o.ai/) — The fastest, most accurate AI Cloud Platform
+- [Hailuo AI](https://www.hailuo.ai/) — Your Ultimate AI Assistant for Intelligent Solutions
+- [Haup AI](https://www.haup.ai/) — Artificial Intelligent
+- [Inception](https://www.inceptionlabs.ai/) — A new frontier in LLM speed
 - [INCLUSION AI](https://www.inclusion-ai.org/)
-- [Jina AI - Your Portal to Multimodal AI](https://jina.ai/#find-your-portals)
+- [Jina AI](https://jina.ai/#find-your-portals) — Your Portal to Multimodal AI
 - [Jolibrain](https://www.jolibrain.com/)
-- [Khoj AI](https://khoj.dev/) / [🔗](https://github.com/khoj-ai/khoj)
+- [Khoj AI](https://khoj.dev/) / <a href="https://github.com/khoj-ai/khoj"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [lablab.ai](https://lablab.ai/)
 - [LeanDog](https://www.leandog.com/)
 - [Lionbridge AI](https://lionbridge.ai/)
 - [LMSYS Org](https://lmsys.org/)
 - [Loss Landscape](https://losslandscape.com/)
 - [Manifold](https://www.manifold.ai/)
-- [Marqo | Tensor-based Search and Analytics engine](https://www.marqo.ai/)
-- [Martian: Understanding Intelligence](https://withmartian.com/) / [🔗](https://github.com/withmartian)
+- [Marqo](https://www.marqo.ai/) — Tensor-based Search and Analytics engine
+- [Martian](https://withmartian.com/) / <a href="https://github.com/withmartian"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Understanding Intelligence
 - [MEGVII](https://megvii.com/)
 - [Meta AI](https://ai.meta.com/)
-- [MiniMax - Intelligence with everyone](https://www.minimax.io/)
-- [Modular: AI development starts here](https://www.modular.com/)
+- [MiniMax](https://www.minimax.io/) — Intelligence with everyone
+- [Modular](https://www.modular.com/) — AI development starts here
 - [NOUS RESEARCH](https://nousresearch.com/)
-- [Numier - Software TPV](https://www.numier.com/)
+- [Numier](https://www.numier.com/) — Software TPV
 - [ONNX Runtime](https://onnxruntime.ai/)
 - [Onpassive](https://www.onpassive.com/)
-- [OpenCV](https://opencv.org/) / [🔗](https://github.com/opencv/opencv)
+- [OpenCV](https://opencv.org/) / <a href="https://github.com/opencv/opencv"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [OpenCV.ai](https://www.opencv.ai/)
 - [OpenMOSS](https://www.open-moss.com/)
-- [p0 | AI Lab · Free Open Models, Real Limits](https://p0.systems/)
-- [Parallel Web Systems | Enterprise Deep Research API](https://parallel.ai/)
+- [p0](https://p0.systems/) — AI Lab · Free Open Models, Real Limits
+- [Parallel Web Systems](https://parallel.ai/) — Enterprise Deep Research API
 - [Partnership on AI](https://www.partnershiponai.org/)
-- [Pinecone | Vector Database for Vector Search](https://www.pinecone.io/)
+- [Pinecone](https://www.pinecone.io/) — Vector Database for Vector Search
 - [Protocol Labs](https://protocol.ai/)
 - [Public AI Inference Utility](https://publicai.co/)
 - [Quasi](https://quasi.market/)
-- [RealSense - RealSense](https://www.realsenseai.com/) / [🔗](https://github.com/realsenseai/librealsense)
+- [RealSense](https://www.realsenseai.com/) / <a href="https://github.com/realsenseai/librealsense"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — RealSense
 - [Runway Research](https://research.runwayml.com/)
 - [Safe Superintelligence Inc.](https://ssi.inc/)
-- [Sakana AI — Building Frontier AI in Japan](https://sakana.ai/)
-- [Scale AI: The Data Platform for AI](https://scale.com/)
+- [Sakana AI](https://sakana.ai/) — Building Frontier AI in Japan
+- [Scale AI](https://scale.com/) — The Data Platform for AI
 - [Sherpa.ai](https://www.sherpa.ai/)
 - [Smol.ai](https://smol.ai/)
 - [SupraLabs · Independent AI Lab](https://supra-labs.com/)
 - [Syte.ai](https://www.syte.ai/)
-- [Tecnalia - Centro de investigación | Desarrollo tecnológico](https://www.tecnalia.com/)
-- [Tencent ARC - 官网-腾讯](https://arc.tencent.com/)
+- [Tecnalia](https://www.tecnalia.com/) — Centro de investigación | Desarrollo tecnológico
+- [Tencent ARC](https://arc.tencent.com/) — 官网-腾讯
 - [Thinking Machines Lab](https://thinkingmachines.ai/)
 - [Towards AI](https://towardsai.net/)
 - [TypeSafe AI](https://typesafe.ai/)
 - [Veritone](https://veritone.com/)
 - [Vue.ai](https://vue.ai/)
 - [Wipro](https://www.wipro.com/)
-- [WOMBO - w.ai](https://www.w.ai/)
-- [Z.ai - Inspiring AGI to Benefit Humanity](https://www.zhipuai.cn/en)
+- [WOMBO](https://www.w.ai/) — w.ai
+- [Z.ai](https://www.zhipuai.cn/en) — Inspiring AGI to Benefit Humanity
 
 ###### OpenAI
 - [OpenAI](https://openai.com/)
@@ -3416,7 +3416,7 @@ description: Stores, marketplaces, product research, and resale
 - [Genome Analysis](https://selfdecode.com/)
 - [ID Crypt](https://www.idcrypt.global/)
 - [ID4Africa](https://id4africa.com/)
-- [ID2020 | Digital Identity Alliance](https://id2020.org/)
+- [ID2020](https://id2020.org/) — Digital Identity Alliance
 - [IDinsight](https://www.idinsight.org/)
 - [idRamp](https://idramp.com/)
 - [Panta Group](https://www.pantagroup.com.au/)
@@ -3430,8 +3430,8 @@ description: Stores, marketplaces, product research, and resale
 - [A1QA](https://www.a1qa.com/)
 - [Better QA](https://betterqa.co/)
 - [Browserling](https://www.browserling.com/)
-- [BrowserStack - Most Reliable App & Cross Browser Testing Platform](https://www.browserstack.com/)
-- [cypress.io | JS testing](https://www.cypress.io/)
+- [BrowserStack](https://www.browserstack.com/) — Most Reliable App & Cross Browser Testing Platform
+- [cypress.io](https://www.cypress.io/) — JS testing
 - [ImpactQA](https://www.impactqa.com/)
 - [Katalon](https://katalon.com/)
 - [Keysight](https://www.keysight.com/es/en/home.html)
@@ -3451,7 +3451,7 @@ description: Stores, marketplaces, product research, and resale
 - [iCIMS](https://www.icims.com/)
 - [Infor](https://www.infor.com/es-es)
 - [Perfect](https://www.goperfect.com/)
-- [RentAHuman.ai - Hire Humans for AI Agents | MCP Integration](https://rentahuman.ai/)
+- [RentAHuman.ai](https://rentahuman.ai/) — Hire Humans for AI Agents | MCP Integration
 - [Stang Decision Systems](https://www.stangds.com/)
 - [SumTotal](https://www.sumtotalsystems.com/)
 - [Talent Clue](https://talentclue.com/en)
@@ -3460,20 +3460,20 @@ description: Stores, marketplaces, product research, and resale
 - [Adecco Group](https://www.adeccogroup.com/)
 - [ADP](https://www.adp.com/)
 - [Breezy HR](https://breezy.hr/)
-- [Greenhouse | Applicant tracking software & hiring platform](https://www.greenhouse.com/)
+- [Greenhouse](https://www.greenhouse.com/) — Applicant tracking software & hiring platform
 - [Grupo Constant](http://www.grupoconstant.com/)
 - [Sopra HR](https://www.soprahr.com/en)
 - [Ultimate Software](https://www.ultimatesoftware.com/)
 
 ##### Engineering Software
 - [Bentley](https://www.bentley.com/en)
-- [Graphisoft | BIM software solutions for AEC experts](https://www.graphisoft.com/en-us/)
-- [NovaScan3D - Profesionales del escaneado 3D e ingeniería inversa](https://novascan3d.com/)
+- [Graphisoft](https://www.graphisoft.com/en-us/) — BIM software solutions for AEC experts
+- [NovaScan3D](https://novascan3d.com/) — Profesionales del escaneado 3D e ingeniería inversa
 
 ### Service Sector
 
 #### Transport Company
-- [Kiessling Transit - Transportation Management Services in Massachusetts](https://kiesslingtransit.com/)
+- [Kiessling Transit](https://kiesslingtransit.com/) — Transportation Management Services in Massachusetts
 - [Thermo Europ](https://www.thermoeurop.com/)
 - [Zoox](https://zoox.com/)
 
@@ -3485,7 +3485,7 @@ description: Stores, marketplaces, product research, and resale
 - [Air France](https://www.airfrance.com/indexCom_en.html)
 - [Alaska Airlines](https://www.alaskaair.com/)
 - [Binter](https://www.bintercanarias.com/)
-- [Canaryfly.es | Canaryfly Web Oficial](https://www.canaryfly.es/)
+- [Canaryfly.es](https://www.canaryfly.es/) — Canaryfly Web Oficial
 - [Emirates flights](https://www.emirates.com/english)
 - [Emirates SkyCargo](https://www.skycargo.com/)
 - [Ethiopian Airlines](https://www.ethiopianairlines.com/es)
@@ -3546,15 +3546,15 @@ description: Stores, marketplaces, product research, and resale
 ###### Ridesharing & Mobility
 - [BlaBlaCar](https://www.blablacar.com/)
 - [BlaBlaCar- Viaja de forma económica y sostenible](https://www.blablacar.es/)
-- [Blitzer.de - Homepage](https://www.blitzer.de/en/)
+- [Blitzer.de](https://www.blitzer.de/en/) — Homepage
 - [Bolt](https://bolt.eu/es)
 - [Cabify](https://cabify.com/es)
 - [DiDi](https://www.didiglobal.com/)
-- [FREENOW - la mejor app de taxis de Europa, presente en 150 ciudades](https://www.free-now.com/es/)
+- [FREENOW](https://www.free-now.com/es/) — la mejor app de taxis de Europa, presente en 150 ciudades
 - [Lyft](https://www.lyft.com/)
-- [TRIBBU | La app para compartir coche](https://www.tribbuapp.com/)
+- [TRIBBU](https://www.tribbuapp.com/) — La app para compartir coche
 - [Uber](https://www.uber.com/es/en/)
-- [Waymo - Self-Driving Cars - Autonomous Vehicles - Ride-Hail](https://waymo.com/)
+- [Waymo](https://waymo.com/) — Self-Driving Cars - Autonomous Vehicles - Ride-Hail
 
 ###### Rent a Car
 - [Autos Bamir](http://autosbamir.es/)
@@ -3601,7 +3601,7 @@ description: Stores, marketplaces, product research, and resale
 - [CSX](https://www.csx.com/)
 - [Deutsche Bahn](https://www.deutschebahn.com/de)
 - [Euskotren](https://www.euskotren.eus/en)
-- [FCH2RAIL – DLR Transport](https://fch2rail.eu/)
+- [FCH2RAIL](https://fch2rail.eu/) — DLR Transport
 - [FS Italiane](https://www.fsitaliane.it/)
 - [GWRR](https://www.gwrr.com/)
 - [Kansas City Southern](https://www.kcsouthern.com/en-us/)
@@ -3627,7 +3627,7 @@ description: Stores, marketplaces, product research, and resale
 - [General Atomics](https://www.ga.com/)
 - [General Dynamics](https://www.gd.com/)
 - [General Dynamics Systems](https://gdmissionsystems.com/)
-- [GMV | Innovating Solutions](https://www.gmv.com/en)
+- [GMV](https://www.gmv.com/en) — Innovating Solutions
 - [High Precision Systems](https://www.npovk.ru/)
 - [Honeywell](https://www.honeywell.com/us/en)
 - [Huntington Ingalls Industries](https://huntingtoningalls.com/)
@@ -3645,7 +3645,7 @@ description: Stores, marketplaces, product research, and resale
 - [Mitsubishi Heavy Industries](https://www.mhi.com/)
 - [Naval Group](https://www.naval-group.com/fr)
 - [Patria Group](https://www.patriagroup.com/)
-- [Rafael : Dynamic Defense Company](https://www.rafael.co.il/)
+- [Rafael](https://www.rafael.co.il/) — Dynamic Defense Company
 - [Rheinmetall](https://www.rheinmetall.com/en/rheinmetall_ag/home.php)
 - [Rolls-Royce](https://www.rolls-royce.com/)
 - [RTX](https://www.rtx.com/)
@@ -3664,7 +3664,7 @@ description: Stores, marketplaces, product research, and resale
 - [Ipsos](https://www.ipsos.com/en)
 - [JazzHR](https://www.jazzhr.com/)
 - [Nielsen](https://www.nielsen.com/es/en)
-- [Parc - Research Services, Open Innovation and Breakthrough Technology](https://www.parc.com/)
+- [Parc](https://www.parc.com/) — Research Services, Open Innovation and Breakthrough Technology
 - [Transparency Market Research](https://www.transparencymarketresearch.com/)
 - [Zensar](https://www.zensar.com/)
 
@@ -3672,7 +3672,7 @@ description: Stores, marketplaces, product research, and resale
 - [Clarivate](https://www.clarivate.com/)
 - [Craft](https://craft.co/)
 - [Crunchbase](https://www.crunchbase.com/)
-- [Elsevier | An Information Analytics Business](https://www.elsevier.com/)
+- [Elsevier](https://www.elsevier.com/) — An Information Analytics Business
 - [Grand View Research](https://www.grandviewresearch.com/)
 - [Infoadex](https://www.infoadex.es/home)
 - [Kaizten Analytics](https://www.kaizten.com/)
@@ -3680,7 +3680,7 @@ description: Stores, marketplaces, product research, and resale
 - [Majestic Analytics](https://majesticanalytics.com/)
 - [MarketResearch](https://www.marketresearch.com/)
 - [Mergr](https://mergr.com/)
-- [OpenBB - Investment Research](https://openbb.co/)
+- [OpenBB](https://openbb.co/) — Investment Research
 - [Plum Analytics](https://plumanalytics.com/)
 - [Techrate](https://techrate.org/)
 - [User Agents Analysis](https://udger.com/)
@@ -3690,15 +3690,15 @@ description: Stores, marketplaces, product research, and resale
 - [BlogSEO](https://www.blogseo.io/)
 - [Dataforseo](https://dataforseo.com/)
 - [Instagram Automation Tool](https://inflact.com/)
-- [Moz - SEO Software for Smarter Marketing](https://moz.com/)
-- [OpenSEO - Open Source SEO Platform](https://openseo.so/) / [🔗](https://github.com/every-app/open-seo)
+- [Moz](https://moz.com/) — SEO Software for Smarter Marketing
+- [OpenSEO](https://openseo.so/) / <a href="https://github.com/every-app/open-seo"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Open Source SEO Platform
 - [Polemic Digital](https://www.polemicdigital.com/)
 - [Screaming Frog](https://www.screamingfrog.co.uk/)
 - [Semrush](https://www.semrush.com/)
 - [SEO Explorer](https://seo-explorer.io/)
 - [Seo Minion](https://seominion.com/)
 - [SEO.com](https://www.seo.com/)
-- [Tubics - YouTube SEO](https://www.tubics.com/)
+- [Tubics](https://www.tubics.com/) — YouTube SEO
 - [Woorank](https://www.woorank.com/)
 
 ##### Marketing Agency
@@ -3712,13 +3712,13 @@ description: Stores, marketplaces, product research, and resale
 - [Comscore](https://www.comscore.com/)
 - [CoTech](https://www.coops.tech/)
 - [DataMiner](https://www.dataminer.co/)
-- [Dayvo Sistemas - Agencia de Marketing Digital y Diseño Web](https://dayvo.com/)
-- [Ditto - Release Your Music](https://dittomusic.com/en)
+- [Dayvo Sistemas](https://dayvo.com/) — Agencia de Marketing Digital y Diseño Web
+- [Ditto](https://dittomusic.com/en) — Release Your Music
 - [EthicalAds](https://www.ethicalads.io/)
 - [Four Nine Design](https://www.fourninedesign.com/)
 - [Futuri Media](https://futurimedia.com/)
 - [Gleam.io](https://gleam.io/)
-- [Jivox | Omnichannel, AI and Dynamic Creative](https://www.jivox.com/)
+- [Jivox](https://www.jivox.com/) — Omnichannel, AI and Dynamic Creative
 - [JustCall.io](https://justcall.io/)
 - [Memberful](https://memberful.com/)
 - [MyPublicInbox](https://www.mypublicinbox.com/)
@@ -3730,9 +3730,9 @@ description: Stores, marketplaces, product research, and resale
 - [ShareASale](https://www.shareasale.com/info/)
 - [Shilabs Digital](https://www.shilabs.digital/)
 - [SingleBrain](https://www.singlegrain.com/)
-- [STGO - ESTUDIO ARQUITECTURA + MULTIMEDIA](https://stgo.es/)
-- [team.blue | Europe’s Leading Supplier of Digital Solutions](https://team.blue/)
-- [The Gratzi, Inc. | Digital Marketing Services](https://thegratzi.com/)
+- [STGO](https://stgo.es/) — ESTUDIO ARQUITECTURA + MULTIMEDIA
+- [team.blue](https://team.blue/) — Europe’s Leading Supplier of Digital Solutions
+- [The Gratzi, Inc.](https://thegratzi.com/) — Digital Marketing Services
 - [Userway.org](https://userway.org/)
 - [Vivirdelared](https://www.vivirdelared.com/)
 - [Widen](https://www.widen.com/)
@@ -3748,14 +3748,14 @@ description: Stores, marketplaces, product research, and resale
 - [Forrester Helps Organizations Grow Through Customer Obsession](https://www.forrester.com/)
 - [Freshworks](https://www.freshworks.com/)
 - [GLPI](https://glpi-project.org/)
-- [Igalia - Open Source Consultancy and Development](https://www.igalia.com/)
+- [Igalia](https://www.igalia.com/) — Open Source Consultancy and Development
 - [Infosys](https://www.infosys.com/)
 - [Lattice](https://lattice.com/)
 - [McKinsey & Company](https://www.mckinsey.com/)
 - [Nielsen Norman Group](https://www.nngroup.com/)
 - [Omnicon](https://omnicon.co/)
 - [Optemization](https://optemization.com/)
-- [Parallax | Digital Consultancy in Leeds & London](https://parall.ax/)
+- [Parallax](https://parall.ax/) — Digital Consultancy in Leeds & London
 - [RW Malone MD](https://www.rwmalonemd.com/)
 - [Safe Creative](https://www.safecreative.org/)
 - [Singularity University](https://su.org/)
@@ -3835,7 +3835,7 @@ description: Stores, marketplaces, product research, and resale
 - [Abogacía Española](https://www.abogacia.es/)
 - [Abogados365](https://www.abogados365.com/)
 - [elAbogado](https://www.elabogado.com/)
-- [Horea Crisan | Lawyer in Cluj Napoca](https://crisan-avocat.ro/)
+- [Horea Crisan](https://crisan-avocat.ro/) — Lawyer in Cluj Napoca
 - [Mutualidad de la Abogacía](https://www.mutualidadabogacia.com/)
 - [Odegard Law](http://www.jennyodegard.com/)
 - [Preico Jurídicos](https://www.preicojuridicos.com/inicio)
@@ -3867,7 +3867,7 @@ description: Stores, marketplaces, product research, and resale
 - [Exxon](https://www.exxon.com/en)
 - [Gazprom](https://www.gazprom.com/)
 - [Grupo DISA](https://www.disagrupo.es/)
-- [Magma Global - Offering the worlds most advanced subsea oil & gas pipe](https://www.magmaglobal.com/)
+- [Magma Global](https://www.magmaglobal.com/) — Offering the worlds most advanced subsea oil & gas pipe
 - [Oasis Petroleum](https://www.oasispetroleum.com/)
 - [PetroChina](http://www.petrochina.com.cn/ptr)
 - [Pioneer natural resource](https://pxd.com/)
@@ -4004,19 +4004,19 @@ description: Stores, marketplaces, product research, and resale
 - [Greylock Partners](https://greylock.com/)
 - [H.I.G. Capital](https://www.higcapital.com/)
 - [ICE](https://www.theice.com/index)
-- [Insurance Premium Financing Solutions | IPFS](https://www.ipfs.com/)
+- [Insurance Premium Financing Solutions](https://www.ipfs.com/) — IPFS
 - [International Finance Corporation (IFC)](https://www.ifc.org/en/home)
-- [Intuit®: Outdo your financial goals—all in one place](https://www.intuit.com/)
+- [Intuit®](https://www.intuit.com/) — Outdo your financial goals—all in one place
 - [Mightycause](https://www.mightycause.com/)
 - [Morgan Stanley](https://www.morganstanley.com/)
 - [S&P Global](https://www.spglobal.com/en)
 - [SquareUp](https://squareup.com/us/en)
-- [World Bank Group - International Development, Poverty and Sustainability](https://www.worldbank.org/ext/en/home)
+- [World Bank Group](https://www.worldbank.org/ext/en/home) — International Development, Poverty and Sustainability
 
 ##### Bank
 - [2Co](https://www.2co.com/)
 - [American Express](https://www.americanexpress.com/es)
-- [B100 - B100 para tu salud, la de tu dinero y la del planeta](https://b100.es/es/)
+- [B100](https://b100.es/es/) — B100 para tu salud, la de tu dinero y la del planeta
 - [Banca March](https://www.bancamarch.es/es/)
 - [Banco Sabadell](https://www.bancsabadell.com/cs/Satellite/SabAtl)
 - [Bank BNP Paribas](https://group.bnpparibas/en)
@@ -4128,8 +4128,8 @@ description: Stores, marketplaces, product research, and resale
 - [Silver Lake](https://www.silverlake.com/?v=2)
 - [SSGA](https://www.ssga.com/us/en/institutional)
 - [Staple Street Capital](http://staplestreetcapital.com/Home)
-- [State Street - Asset Manager](https://www.statestreet.com/us/en/asset-manager)
-- [Stock Analysis - Free Online Stock Information for Investors](https://stockanalysis.com/)
+- [State Street](https://www.statestreet.com/us/en/asset-manager) — Asset Manager
+- [Stock Analysis](https://stockanalysis.com/) — Free Online Stock Information for Investors
 - [Study Group](https://corporate.studygroup.com/)
 - [The RMR Group](https://www.rmrgroup.com/Home/default.aspx)
 - [UBS](https://www.ubs.com/es/es.html)
@@ -4181,20 +4181,20 @@ description: Stores, marketplaces, product research, and resale
 - [HomeBox](https://homebox.software/en/)
 - [Mediterráneo Vida](https://medvida.es/en/)
 - [Rothschild & Co](https://www.rothschildandco.com/)
-- [Sure](https://sure.am/) / [🔗](https://github.com/we-promise/sure)
+- [Sure](https://sure.am/) / <a href="https://github.com/we-promise/sure"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 
 ##### Decentralized Finance
-- [Alephium | The Web3 you were promised](https://alephium.org/)
+- [Alephium](https://alephium.org/) — The Web3 you were promised
 - [Enya.ai](https://www.enya.ai/)
 - [Ignite](https://ignite.com/)
 - [Jolocom](https://jolocom.io/)
 - [Regen Network](https://www.regen.network/)
-- [Ryder - Digital DNA](https://ryder.id/)
+- [Ryder](https://ryder.id/) — Digital DNA
 - [Stacker Ventures](https://stacker.vc/)
 - [Stake Capital](https://www.stake.capital/)
 
 #### Delivery Company
-- [Asigna - Expertos en Logística Canaria](https://asigna.es/)
+- [Asigna](https://asigna.es/) — Expertos en Logística Canaria
 - [Bring it](https://bringit.es/)
 - [bunny.net](https://bunny.net/)
 - [CORREOS](https://www.correos.es/ss/Satellite/site/pagina-inicio/info)
@@ -4360,7 +4360,7 @@ description: Stores, marketplaces, product research, and resale
 - [Max Group](https://www.maxgroup.in/)
 - [MetLife](https://www.metlife.com/)
 - [Mutua Madrileña](https://www.mutua.es/)
-- [SafetyWing - Insurance for remote workers](https://safetywing.com/)
+- [SafetyWing](https://safetywing.com/) — Insurance for remote workers
 - [Sanitas](https://corporativo.sanitas.es/)
 - [Seguros Ocaso](https://www.ocaso.es/es)
 - [Seguros Santalucía](https://www.santalucia.es/)
@@ -4421,7 +4421,7 @@ description: Stores, marketplaces, product research, and resale
 - [Chevron Corporation](https://www.chevron.com/)
 - [COMSA](https://www.comsa.com/)
 - [Construdata21](https://www.construdata21.com/)
-- [Dassault Systèmes - We are the 3DEXPERIENCE company](https://www.3ds.com/)
+- [Dassault Systèmes](https://www.3ds.com/) — We are the 3DEXPERIENCE company
 - [Elevator World](https://www.elevatorworld.com/)
 - [Ferrovial](https://www.ferrovial.com/)
 - [Georgia-Pacific!](https://www.gp.com/)
@@ -4435,7 +4435,7 @@ description: Stores, marketplaces, product research, and resale
 - [KESA](https://www.kesa.es/)
 - [Komatsu Ltd.](https://home.komatsu/en)
 - [M&S Mechanical](https://www.mandsmechanical.com/)
-- [Makers Revolution – The Manufacturing Revolution](https://www.makers-revolution.com/)
+- [Makers Revolution](https://www.makers-revolution.com/) — The Manufacturing Revolution
 - [National Instrument](https://www.ni.com/en-us.html)
 - [Niobium Tech](https://niobium.tech/)
 - [Oso Development Partners](http://osopartners.com/)
@@ -4462,7 +4462,7 @@ description: Stores, marketplaces, product research, and resale
 - [Geometrica](https://www.geometrica.com/)
 - [Houzz](https://www.houzz.fr/)
 - [LiRo Group](https://www.liro.com/)
-- [Populous - Global Architectural Design – Stadiums, Arenas, Events](https://populous.com/)
+- [Populous](https://populous.com/) — Global Architectural Design – Stadiums, Arenas, Events
 - [The D*Haus Company](https://www.thedhaus.com/)
 
 ###### Designing Studios Comp
@@ -4486,7 +4486,7 @@ description: Stores, marketplaces, product research, and resale
 - [Kenguru Pro](https://www.kengurupro.es/)
 - [Lodha Luxury](https://www.lodhaluxury.com/)
 - [Merton International](https://www.mertoninternational.com/en/)
-- [NEB – National Engineering Bureau](http://www.neb.ae/)
+- [NEB](http://www.neb.ae/) — National Engineering Bureau
 - [OHL](https://www.ohl.es/)
 - [Rio TInto](https://www.riotinto.com/)
 - [SAMSUNG C&T](http://www.samsungcnt.com/eng/index.do)
@@ -4507,13 +4507,13 @@ description: Stores, marketplaces, product research, and resale
 - [Dean Foods](https://www.deanfoods.com/)
 - [ElPozo](https://www.elpozo.com/)
 - [Gallina Blanca](https://www.gallinablanca.es/)
-- [Grefusa | Snacks y Frutos Secos](https://grefusa.com/)
+- [Grefusa](https://grefusa.com/) — Snacks y Frutos Secos
 - [Grupo Bimbo](https://grupobimbo.com/es)
 - [Heinz](https://www.heinz.com/)
 - [Hero Group](https://hero-group.ch/)
 - [Hormel](https://www.hormel.com/)
 - [Inés Rosales](https://www.inesrosales.com/)
-- [Kalise – Kalise Para Todos](https://www.kalise.com/)
+- [Kalise](https://www.kalise.com/) — Kalise Para Todos
 - [Kellogg Company](https://www.kelloggcompany.com/en_US/home.html)
 - [Mars, Inc](https://www.mars.com/)
 - [Milka!](https://www.milka.de/)
@@ -4609,7 +4609,7 @@ description: Stores, marketplaces, product research, and resale
 #### Clothing Brands
 - [Adidas](https://www.adidas.com/us)
 - [Alexander McQueen](https://www.alexandermcqueen.com/en-gb)
-- [American Eagle - Outfitters Men's & Women's](https://www.ae.com/us/en)
+- [American Eagle](https://www.ae.com/us/en) — Outfitters Men's & Women's
 - [Armani](https://www.armani.com/en-us)
 - [Bamboo Underwear](https://www.bamboounderwear.com/)
 - [Bershka](https://www.bershka.com/)
@@ -4619,7 +4619,7 @@ description: Stores, marketplaces, product research, and resale
 - [Carhartt](https://www.carhartt.com/es/es-es)
 - [ChampionStore](https://www.championstore.com/)
 - [Corp ZOZO, Inc.](https://corp.zozo.com/)
-- [Cuts | For the Sport of Business](https://www.cutsclothing.com/)
+- [Cuts](https://www.cutsclothing.com/) — For the Sport of Business
 - [DIOR](https://www.dior.com/en_us)
 - [Dolce&Gabbana](https://www.dolcegabbana.com/es)
 - [ES Collection](https://escollection.es/es)
@@ -4642,7 +4642,7 @@ description: Stores, marketplaces, product research, and resale
 - [Louis Vuitton](https://us.louisvuitton.com/eng-us/homepage)
 - [M***SHAKES](https://milfshakes.es/)
 - [Massimo Dutti](https://www.massimodutti.com/)
-- [Nike - Just Do It](https://www.nike.com/es/)
+- [Nike](https://www.nike.com/es/) — Just Do It
 - [Oysho](https://www.oysho.com/)
 - [Polo Club](https://www.poloclub.com/)
 - [PULL&BEAR](https://www.pullandbear.com/)
@@ -4662,24 +4662,24 @@ description: Stores, marketplaces, product research, and resale
 - [zozotown](https://zozo.jp/)
 
 ##### Shoes Company
-- [Altra Running - Shoes with FootShape™ Comfort](https://www.altrarunning.com/)
+- [Altra Running](https://www.altrarunning.com/) — Shoes with FootShape™ Comfort
 - [ANTA](https://www.anta.com/)
-- [ASICS | Official U.S. Site](https://www.asics.com/us/en-us/)
+- [ASICS](https://www.asics.com/us/en-us/) — Official U.S. Site
 - [Converse](https://www.converse.com/es)
-- [Courir - Sneakers et baskets Nike, Adidas, Converse, Jordan, Puma](https://www.courir.com/)
+- [Courir](https://www.courir.com/) — Sneakers et baskets Nike, Adidas, Converse, Jordan, Puma
 - [Crocs](https://www.crocs.com/)
 - [DC Shoes](https://www.dcshoes.com/)
-- [HOKA - Cushioned Running Shoes & Performance Wear](https://www.hoka.com/en/us/)
+- [HOKA](https://www.hoka.com/en/us/) — Cushioned Running Shoes & Performance Wear
 - [Lotto](https://lotto.it/es)
 - [MIZUNO](https://corp.mizuno.com/en)
 - [New Balance](https://www.newbalance.com/)
-- [New Balance - Ropa y Zapatillas New Balance](https://www.newbalance.es/es)
+- [New Balance](https://www.newbalance.es/es) — Ropa y Zapatillas New Balance
 - [RedTape](https://redtape.com/)
 - [rks.shoes](https://ic.rks.shoes/)
 - [Salomon](https://www.salomon.com/en-us)
-- [Saucony - High-Performance Running Shoes & Running Apparel](https://www.saucony.com/ES/es_ES/home)
+- [Saucony](https://www.saucony.com/ES/es_ES/home) — High-Performance Running Shoes & Running Apparel
 - [Skechers](https://skechers.com/es-es)
-- [SportsShoes.com - Running Shoes, Clothing & Equipment](https://www.sportsshoes.com/)
+- [SportsShoes.com](https://www.sportsshoes.com/) — Running Shoes, Clothing & Equipment
 - [Vans](https://www.vans.es/)
 - [Vessi Footwear](https://vessi.com/)
 - [VF Corporation](https://vfc.com/)
@@ -4687,9 +4687,9 @@ description: Stores, marketplaces, product research, and resale
 ##### Complements Clothes
 - [ARISHA](https://arishaswim.com/)
 - [BoutineLA](https://www.boutinela.com/)
-- [Cressi | Scuba diving equipment](https://www.cressi.com/)
+- [Cressi](https://www.cressi.com/) — Scuba diving equipment
 - [IGNITE](https://ignite.co/)
-- [Minaal - Luggage You Can Trust, For Travel & Business](https://www.minaal.com/en-eu)
+- [Minaal](https://www.minaal.com/en-eu) — Luggage You Can Trust, For Travel & Business
 - [Ohpolly.com](https://www.ohpolly.com/)
 - [Scunci](https://www.scunci.com/)
 - [ZFX Flying Effects](https://www.zfxflying.com/)
@@ -4700,7 +4700,7 @@ description: Stores, marketplaces, product research, and resale
 - [Xsens](https://www.xsens.com/)
 
 #### Consumer Goods Company
-- [UPLIFT Desk | Office Furniture that Benefits You](https://www.upliftdesk.com/)
+- [UPLIFT Desk](https://www.upliftdesk.com/) — Office Furniture that Benefits You
 
 ##### Hygiene Company
 - [Braun US](https://us.braun.com/en-us)
@@ -4734,8 +4734,8 @@ description: Stores, marketplaces, product research, and resale
 
 ##### Instrument Company
 - [Gretsch](https://www.gretsch.com/)
-- [Handpan Drum - Handmade](https://www.handpanbuy.com/)
-- [Harrison Audio - Harrison Consoles](https://www.harrisonaudio.com/)
+- [Handpan Drum](https://www.handpanbuy.com/) — Handmade
+- [Harrison Audio](https://www.harrisonaudio.com/) — Harrison Consoles
 - [KORG](https://www.korg.com/fr)
 - [Roland](https://www.roland.com/us)
 - [SAMICK](http://samickpiano.com/)
@@ -4818,7 +4818,7 @@ description: Stores, marketplaces, product research, and resale
 - [Imperial Brands](https://www.imperialbrandsplc.com/index.html)
 - [ITC](https://www.itcportal.com/)
 - [Japan Tobacco](https://www.jt.com/)
-- [JTI | Japan Tobacco International​](https://www.jti.com/)
+- [JTI](https://www.jti.com/) — Japan Tobacco International​
 - [KT&G](https://en.ktng.com/)
 - [Philip Morris](https://www.pmi.com/)
 - [Swisher](https://swisher.com/)
@@ -4830,7 +4830,7 @@ description: Stores, marketplaces, product research, and resale
 #### Complements Company
 - [Casio](https://www.casio.com/home)
 - [Derbystar Balls](https://www.derbystar.de/)
-- [Gudslip | Science-Backed Solutions for Better Sleep](https://gudslip.com/en-es)
+- [Gudslip](https://gudslip.com/en-es) — Science-Backed Solutions for Better Sleep
 - [Labsterium](https://www.labsterium.com/)
 - [MELT Collective](https://meltcollective.com/)
 - [Nayadel](https://www.nayadel.com/en)
@@ -4855,7 +4855,7 @@ description: Stores, marketplaces, product research, and resale
 - [Ray-Ban](https://www.ray-ban.com/usa)
 - [Silhouette](https://www.silhouette.com/es/es/home)
 - [Tom Ford](https://www.tomford.com/)
-- [Vision Rx Lab - offers complete lens solutions, from traditional to digital Rx.](https://www.visionrxlab.com/)
+- [Vision Rx Lab](https://www.visionrxlab.com/) — offers complete lens solutions, from traditional to digital Rx.
 
 ###### Contact Lenses
 - [Acuvue](https://www.acuvue.com/)
@@ -4875,7 +4875,7 @@ description: Stores, marketplaces, product research, and resale
 - [Gürbüz Yayınları Kurumsal](https://kurumsal.gurbuz.com.tr/)
 - [Lander and May](https://www.landerandmay.com/)
 - [MOVA Globes](https://www.movaglobes.com/)
-- [Murray Hudson - Antique Maps & Globes](https://www.antiquemapsandglobes.com/)
+- [Murray Hudson](https://www.antiquemapsandglobes.com/) — Antique Maps & Globes
 - [Replogle Globes](https://replogleglobes.com/)
 - [Waypoint Geographic](https://www.waypointgeographic.com/)
 - [Zoffoli Globe](https://zoffoliglobe.com/)
@@ -4896,7 +4896,7 @@ description: Stores, marketplaces, product research, and resale
 - [Patek Philippe](https://www.patek.com/en/home)
 - [Piaget](https://www.piaget.com/)
 - [Rolex](https://www.rolex.com/)
-- [Rolex - Swiss Luxury Watches](https://www.rolex.com/en-us)
+- [Rolex](https://www.rolex.com/en-us) — Swiss Luxury Watches
 - [Swatch](https://www.swatch.com/es-es/homepage)
 - [Tudor Watches](https://www.tudorwatch.com/en)
 
@@ -4912,9 +4912,9 @@ description: Stores, marketplaces, product research, and resale
 
 #### Industrial Company
 - [AGC](https://www.agc.com/en/index.html)
-- [Altium - PCB Design Software & Tools](https://www.altium.com/)
+- [Altium](https://www.altium.com/) — PCB Design Software & Tools
 - [Atlas Copco Group](https://www.atlascopcogroup.com/en)
-- [CNC Machines: Sell & Buy Used CNC Machines & Equipment](https://cncmachines.com/)
+- [CNC Machines](https://cncmachines.com/) — Sell & Buy Used CNC Machines & Equipment
 - [CNH Industrial](https://www.cnhindustrial.com/en-US)
 - [Fluke Corporation](https://www.fluke.com/)
 - [Jetta](https://www.jetta.com.hk/)
@@ -4925,7 +4925,7 @@ description: Stores, marketplaces, product research, and resale
 - [WestRock](https://www.westrock.com/)
 
 #### Raw Materials
-- [Corning | Materials Science Technology and Innovation](https://www.corning.com/)
+- [Corning](https://www.corning.com/) — Materials Science Technology and Innovation
 - [Hongqiaochina](http://hongqiaochina.com/)
 - [RUSAL](https://rusal.ru/en)
 
@@ -4942,10 +4942,10 @@ description: Stores, marketplaces, product research, and resale
 - [Wooden World Ltd](https://www.woodenworld.co/)
 
 #### Home Appliance
-- [BALLS - The World's Best Balls Trimmer](https://balls.co/)
-- [Dyson - Dyson vacuum cleaners, hair dryers and stylers, fans, humidifiers, hand dryers and lighting](https://www.dyson.com/en)
+- [BALLS](https://balls.co/) — The World's Best Balls Trimmer
+- [Dyson](https://www.dyson.com/en) — Dyson vacuum cleaners, hair dryers and stylers, fans, humidifiers, hand dryers and lighting
 - [Rowenta](https://www.rowenta.com/)
-- [Wonder | Meditative sculpture](https://beuplifted.co.uk/)
+- [Wonder](https://beuplifted.co.uk/) — Meditative sculpture
 
 ##### Kitchen Company
 - [Braun House Hold](https://www.braunhousehold.com/es-es)
@@ -4957,7 +4957,7 @@ description: Stores, marketplaces, product research, and resale
 - [Beautyrest](https://www.beautyrest.com/)
 - [Colchón Emma](https://www.emma-colchon.es/)
 - [Colchón Exprés](https://www.colchonexpres.com/)
-- [Dormitorum | Tienda Online de Colchones, Camas y Más](https://www.dormitorum.es/)
+- [Dormitorum](https://www.dormitorum.es/) — Tienda Online de Colchones, Camas y Más
 - [Mattress Firm](https://www.mattressfirm.com/)
 - [Original Mattress](https://www.originalmattress.com/)
 - [Sealy](https://es.sealy.com/es-ES)
@@ -5018,7 +5018,7 @@ description: Stores, marketplaces, product research, and resale
 - [Grupo Joly](https://www.grupojoly.com/)
 - [Grupo Vocento](https://www.vocento.com/)
 - [Grupo Zeta](http://www.grupozeta.es/)
-- [Grupos mediáticos españoles - Wikipedia](https://es.wikipedia.org/wiki/Anexo:Grupos_medi%C3%A1ticos_espa%C3%B1oles)
+- [Grupos mediáticos españoles](https://es.wikipedia.org/wiki/Anexo:Grupos_medi%C3%A1ticos_espa%C3%B1oles) — Wikipedia
 - [Hearst](https://www.hearst.com/)
 - [Interfax](https://interfax.com/)
 - [Interpublic Group](https://www.interpublic.com/)
@@ -5070,7 +5070,7 @@ description: Stores, marketplaces, product research, and resale
 - [Maven Corp](https://corp.maven.io/)
 - [MBC](https://www.mbc.net/)
 - [MEDIAFOREUROPE](https://www.mfemediaforeurope.com/en/)
-- [Mediakind | Global Media Technology Solutions and Innovators](https://www.mediakind.com/)
+- [Mediakind](https://www.mediakind.com/) — Global Media Technology Solutions and Innovators
 - [MediaPost](https://www.mediapost.fr/)
 - [Mediapro](https://mediapro.tv/)
 - [NBCUniversal](https://www.nbcuniversal.com/)
@@ -5085,7 +5085,7 @@ description: Stores, marketplaces, product research, and resale
 
 ##### Disney
 - [Adventures by Disney](https://www.adventuresbydisney.com/)
-- [Avatar - Official Website](https://www.avatar.com/)
+- [Avatar](https://www.avatar.com/) — Official Website
 - [Disney Advertising Sales](https://disneyadsales.com/)
 - [Disney Aulani](https://www.disneyaulani.com/)
 - [Disney Books](https://books.disney.com/)
@@ -5102,7 +5102,7 @@ description: Stores, marketplaces, product research, and resale
 - [Disney Parks](https://disneyparks.disney.go.com/)
 - [Disney Partners](https://disneypartners.disney.es/)
 - [Disney Social Responsibility](https://impact.disney.com/)
-- [Disney Terms Of Use – The Walt Disney Company](https://disneytermsofuse.com/)
+- [Disney Terms Of Use](https://disneytermsofuse.com/) — The Walt Disney Company
 - [Disney Vacation Club](https://disneyvacationclub.disney.go.com/)
 - [Disney+ Originals](https://ondisneyplus.disney.com/)
 - [Disneyland](https://disneyland.disney.go.com/)
@@ -5115,7 +5115,7 @@ description: Stores, marketplaces, product research, and resale
 - [The Walt Disney Company](https://thewaltdisneycompany.com/)
 - [The Walt Disney Company](https://thewaltdisneycompany.eu/)
 - [Walt Disney Animation Studios](https://www.disneyanimation.com/)
-- [Working at DISNEY | Jobs and Careers at DISNEY](https://jobs.disneycareers.com/)
+- [Working at DISNEY](https://jobs.disneycareers.com/) — Jobs and Careers at DISNEY
 
 #### Digital Media
 - ⭐ **[AKQA](https://www.akqa.com/)**
@@ -5125,7 +5125,7 @@ description: Stores, marketplaces, product research, and resale
 - [Amautas](https://amautas.com/)
 - [Ask Media Group](https://www.askmediagroup.com/)
 - [Axel Springer SE](https://www.axelspringer.com/de)
-- [Azerion - Digital entertainment & media platform](https://www.azerion.com/)
+- [Azerion](https://www.azerion.com/) — Digital entertainment & media platform
 - [CMYK](https://wearecmyk.com/)
 - [Digiday Media](https://www.digidaymedia.com/)
 - [Dotdash](https://www.dotdash.com/)
@@ -5141,16 +5141,16 @@ description: Stores, marketplaces, product research, and resale
 - [Kantar](https://www.kantar.com/)
 - [LifeSavvy Media](https://www.lifesavvymedia.com/)
 - [Link To Media](https://www.linktomedia.com/)
-- [Livemode — Conectando Esportes ao Digital](https://www.livemode.com/)
+- [Livemode](https://www.livemode.com/) — Conectando Esportes ao Digital
 - [MayaMagic](https://www.mayamagik.com/)
 - [Media & Entertainment Services Alliance](https://www.mesaonline.org/)
 - [Mediaplanet](https://mediaplanet.com/us)
 - [Memondo Network](http://memondonetwork.es/)
 - [Penske Media Corporation](https://pmc.com/)
-- [Profile | Digitalización estratégica y creativa | Tus ideas, nuestros retos](https://profile.es/)
+- [Profile](https://profile.es/) — Digitalización estratégica y creativa | Tus ideas, nuestros retos
 - [Red Ventures](https://redventures.com/)
 - [SDL](https://www.sdl.com/)
-- [SiriusXM Media - Music & Podcast Ads](https://www.siriusxmmedia.com/)
+- [SiriusXM Media](https://www.siriusxmmedia.com/) — Music & Podcast Ads
 - [Spike Media](https://www.spikemedia.co/)
 - [Static Media](https://www.static.com/)
 - [TheSoul Publishing](https://www.thesoul-publishing.com/)
@@ -5207,7 +5207,7 @@ description: Stores, marketplaces, product research, and resale
 
 ##### Record Label
 - [Abstraction Music](http://abstractionmusic.com/)
-- [AIDN | daniwell](https://aidn.jp/)
+- [AIDN](https://aidn.jp/) — daniwell
 - [ATO Records](https://atorecords.com/)
 - [Best Year in Music](https://pudding.cool/projects/music-history)
 - [Blackout Music NL](https://www.blackoutmusic.nl/)
@@ -5220,7 +5220,7 @@ description: Stores, marketplaces, product research, and resale
 - [Music Gateway](https://www.musicgateway.com/)
 - [Music Lab](https://musiclab.cloud/)
 - [Musica Relajante](https://www.musicarelajante.es/)
-- [NCS - Library](https://ncs.io/music)
+- [NCS](https://ncs.io/music) — Library
 - [Partisan Records](https://partisanrecords.com/)
 - [Phantom Terrains](https://phantomterrains.com/)
 - [ReverbNation](https://www.reverbnation.com/)
@@ -5259,7 +5259,7 @@ description: Stores, marketplaces, product research, and resale
 - [Netflix Animation](https://www.netflixanimation.com/)
 - [Oracle Films](https://oraclefilms.com/)
 - [Panavision](https://www.panavision.com/)
-- [Particle6 | Video Production Services](https://www.particle6.com/)
+- [Particle6](https://www.particle6.com/) — Video Production Services
 - [Pinewood Studios](https://pinewoodgroup.com/)
 - [Producciones del Barrio](https://delbarrio.tv/)
 - [Sandwich](https://sandwich.co/)
@@ -5270,7 +5270,7 @@ description: Stores, marketplaces, product research, and resale
 - [The Walt Disney Studios](https://www.waltdisneystudios.com/)
 - [ThinLineMedia](https://thinlinemedia.com/)
 - [TOHO CO., LTD.](https://www.toho.co.jp/)
-- [Top Virtual Tours | 360 3D Virtual Tours | Best VR Marketing Agency](https://topvirtualtours.com/)
+- [Top Virtual Tours](https://topvirtualtours.com/) — 360 3D Virtual Tours | Best VR Marketing Agency
 - [Universal Pictures](https://www.universalpictures.com/)
 - [Weta Digital](https://www.wetafx.co.nz/)
 - [Youplanet](https://youplanet.es/)
@@ -5287,7 +5287,7 @@ description: Stores, marketplaces, product research, and resale
 - [Pierrot Official Website](https://en.pierrot.jp/)
 - [Pixar Animation Studios](https://www.pixar.com/)
 - [Pixomondo](https://www.pixomondo.com/)
-- [Realdreams - AI Driven Content Studio](https://www.realdreams.io/)
+- [Realdreams](https://www.realdreams.io/) — AI Driven Content Studio
 - [Rigmarole Studio](https://rigmarolestudio.com/)
 - [Rodeo FX](https://www.rodeofx.com/)
 - [SimpleBits](https://simplebits.com/)
@@ -5297,13 +5297,13 @@ description: Stores, marketplaces, product research, and resale
 - [Atmosphere Visual FX](https://www.atmosphere-vfx.com/)
 - [Blur Studio](http://blur.com/)
 - [BUF](https://buf.com/)
-- [cebas - Visual Techonology Inc.](https://www.cebas.com/)
+- [cebas](https://www.cebas.com/) — Visual Techonology Inc.
 - [Cinesite Studios](https://www.cinesite.com/)
 - [EstudiomoX](https://estudiomox.com.ar/)
 - [Industrial Light & Magic](https://www.ilm.com/)
 - [Next Limit](https://nextlimit.com/)
 - [ShotGrid](https://www.shotgridsoftware.com/)
-- [Sitni Sati - A Visual Effects Software Company](https://www.afterworks.com/)
+- [Sitni Sati](https://www.afterworks.com/) — A Visual Effects Software Company
 
 #### Publisher Company
 - [ABC-CLIO](https://www.abc-clio.com/)
@@ -5324,7 +5324,7 @@ description: Stores, marketplaces, product research, and resale
 - [LeCanarien Ediciones](https://lecanarienediciones.com/index.php)
 - [Library of America](https://www.loa.org/)
 - [libros.com](https://libros.com/)
-- [LindyPress.net - Classical and Medieval Works Reinvigorated](https://lindypress.net/)
+- [LindyPress.net](https://lindypress.net/) — Classical and Medieval Works Reinvigorated
 - [McGraw Hill](https://www.mheducation.com/)
 - [Medica Panamericana](https://www.medicapanamericana.com/es)
 - [Mondadori Group](https://www.mondadori.com/)
@@ -5354,7 +5354,7 @@ description: Stores, marketplaces, product research, and resale
 - [DENTSU INC.](https://www.dentsu.com/)
 - [GrandArmy](https://www.grandarmy.com/)
 - [GroupM](https://www.groupm.com/)
-- [monopo london | Tokyo-born design-driven creative agency](https://monopo.london/)
+- [monopo london](https://monopo.london/) — Tokyo-born design-driven creative agency
 - [Publicis Groupe](https://www.publicisgroupe.com/fr)
 - [VMLY&R](https://www.vmlyr.com/)
 - [Wavemaker](https://wavemakerglobal.com/)
@@ -5372,7 +5372,7 @@ description: Stores, marketplaces, product research, and resale
 - [MPC Management](https://www.mpcmanagement.es/)
 - [NAU Agency](https://nauagency.com/)
 - [Plugged Models](https://pluggedmodels.com/)
-- [Ralev.com - A design agency](https://ralev.com/)
+- [Ralev.com](https://ralev.com/) — A design agency
 - [Trident Media Group](https://www.tridentmediagroup.com/)
 - [UTA](https://www.unitedtalent.com/)
 - [Vizz Agency](https://www.vizz-agency.com/)
@@ -5401,29 +5401,29 @@ description: Stores, marketplaces, product research, and resale
 - [The Clueless](https://www.theclueless.ai/)
 - [The Lions Model Management](https://www.thelionsmanagement.com/newyork)
 - [The Society Management NY](https://www.thesocietymanagement.com/)
-- [Verge Agency | Talent Management](https://www.vergeagency.co/)
+- [Verge Agency](https://www.vergeagency.co/) — Talent Management
 - [Volver Agency](http://www.volver.actor/)
 - [Why Not Models](https://www.whynotmodels.com/)
 - [Wilhelmina](https://www.wilhelmina.com/)
 - [Women Management](https://www.womenmanagement.com/home.web)
 
 ### Conglomerate
-- [3DS - Products](https://www.3ds.com/products)
+- [3DS](https://www.3ds.com/products) — Products
 - [Access Industries](https://www.accessindustries.com/)
-- [Adobe - apps](https://www.adobe.com/creativecloud/plans.html)
+- [Adobe](https://www.adobe.com/creativecloud/plans.html) — apps
 - [ADP Marketplace](https://apps.adp.com/en-US/home)
-- [Akamai - Products](https://www.akamai.com/products)
-- [Apple Open Source - releases](https://opensource.apple.com/releases/)
-- [Autodesk - all products](https://www.autodesk.com/products)
+- [Akamai](https://www.akamai.com/products) — Products
+- [Apple Open Source](https://opensource.apple.com/releases/) — releases
+- [Autodesk](https://www.autodesk.com/products) — all products
 - [Ball Corporation](https://www.ball.com/)
 - [BBK Electronics](https://www.eebbk.com/)
 - [Beiersdorf](https://www.beiersdorf.de/)
 - [Berkshire Hathaway](https://www.berkshirehathaway.com/)
 - [Bertelsmann](https://www.bertelsmann.com/#st-1)
 - [Bitfury](https://bitfury.com/)
-- [Block - Open Source](https://opensource.block.xyz/)
+- [Block](https://opensource.block.xyz/) — Open Source
 - [Bosch Global](https://www.bosch.com/)
-- [ByteDance - All products](https://www.bytedance.com/en/products)
+- [ByteDance](https://www.bytedance.com/en/products) — All products
 - [CASIO](https://world.casio.com/)
 - [CrowdStrike Marketplace](https://marketplace.crowdstrike.com/)
 - [Dailymotion Developer](https://developer.dailymotion.com/)
@@ -5432,13 +5432,13 @@ description: Stores, marketplaces, product research, and resale
 - [Epson Corporate](https://corporate.epson/en/)
 - [ExxonMobil](https://corporate.exxonmobil.com/)
 - [Fimalac](http://www.fimalac.com/)
-- [Fiserv AppMarket - Categories](https://appmarket.fiservapps.com/categories.html)
+- [Fiserv AppMarket](https://appmarket.fiservapps.com/categories.html) — Categories
 - [Ford Corporate](https://corporate.ford.com/)
 - [Fortinet Products](https://www.fortinet.com/products)
 - [Foxconn](https://www.foxconn.com/en-us)
 - [FUNAI](https://funai.jp/)
 - [GE](https://www.ge.com/)
-- [Gen - Family of brands](https://www.gendigital.com/us/en/family-of-brands/)
+- [Gen](https://www.gendigital.com/us/en/family-of-brands/) — Family of brands
 - [Glencore](https://www.glencore.com/)
 - [Groupe Clarins](http://www.groupeclarins.com/fr)
 - [Hasbro](https://corporate.hasbro.com/en-us)
@@ -5447,7 +5447,7 @@ description: Stores, marketplaces, product research, and resale
 - [Honhai](https://www.honhai.com/zh-tw)
 - [Indra](https://www.indracompany.com/)
 - [Intel Corporation](https://www.intc.com/)
-- [Intuit - Apps](https://quickbooks.intuit.com/app/apps/)
+- [Intuit](https://quickbooks.intuit.com/app/apps/) — Apps
 - [Jardines Corp](https://www.jardines.com/en/global/home.html)
 - [Kawasaki Heavy Industries, Ltd.](https://global.kawasaki.com/)
 - [Koch Industries](https://www.kochind.com/)
@@ -5459,10 +5459,10 @@ description: Stores, marketplaces, product research, and resale
 - [Mitsubishi](https://www.mitsubishi.com/en)
 - [Omidyar Network](https://www.omidyar.com/)
 - [OpenAI Platform](https://platform.openai.com/apps)
-- [Oracle - Applications](https://www.oracle.com/applications/)
+- [Oracle](https://www.oracle.com/applications/) — Applications
 - [Orange Corporate](https://www.orange.com/en)
-- [Palantir - Platforms](https://www.palantir.com/platforms/)
-- [Palo Alto Networks - Apps](https://apps.paloaltonetworks.com/apps)
+- [Palantir](https://www.palantir.com/platforms/) — Platforms
+- [Palo Alto Networks](https://apps.paloaltonetworks.com/apps) — Apps
 - [Panasonic](https://www.panasonic.com/es)
 - [PepsiCo](https://www.pepsico.com/)
 - [Philips](https://www.philips.es/)
@@ -5470,19 +5470,19 @@ description: Stores, marketplaces, product research, and resale
 - [Procter & Gamble](https://us.pg.com/)
 - [Rakuten, Inc.](https://global.rakuten.com/corp)
 - [Reliance Industries](https://www.ril.com/)
-- [Roper Technologies - Application software](https://www.ropertech.com/application-software/overview)
-- [Salesforce - Complete Salesforce Products & Software Suite](https://www.salesforce.com/eu/products/)
+- [Roper Technologies](https://www.ropertech.com/application-software/overview) — Application software
+- [Salesforce](https://www.salesforce.com/eu/products/) — Complete Salesforce Products & Software Suite
 - [Samsung](https://www.samsung.com/es)
-- [Samsung - Apps & Services](https://www.samsung.com/us/apps/)
+- [Samsung](https://www.samsung.com/us/apps/) — Apps & Services
 - [SANYO AV](https://www.sanyo-av.com/us/index.php)
-- [ServiceNow - Apps and Solutions](https://store.servicenow.com/store/apps)
+- [ServiceNow](https://store.servicenow.com/store/apps) — Apps and Solutions
 - [Sharp Global](https://global.sharp/)
 - [Siemens](https://www.siemens.com/global/en.html)
 - [Sony](https://www.sony.net/)
 - [Sotheby's](https://www.sothebys.com/en)
-- [Steinberg - Products](https://www.steinberg.net/products/)
+- [Steinberg](https://www.steinberg.net/products/) — Products
 - [Technicolor](https://www.technicolor.com/)
-- [Tencent Cloud - Products](https://www.tencentcloud.com/product)
+- [Tencent Cloud](https://www.tencentcloud.com/product) — Products
 - [Tencent Open Source](https://opensource.tencent.com/)
 - [The Coca-Cola Company](https://www.coca-colacompany.com/)
 - [The Trump Organization](https://www.trump.com/)
@@ -5511,15 +5511,15 @@ description: Stores, marketplaces, product research, and resale
 - [F.I.L.A Group](https://www.filagroup.it/)
 - [Ferrero Group](https://www.ferrero.com/)
 - [Groupe Crédit Mutuel](https://www.creditmutuel.com/fr/index.html)
-- [Grupo Boulevard 21 - Restaurants Tenerife](https://grupoboulevard21.com/es)
+- [Grupo Boulevard 21](https://grupoboulevard21.com/es) — Restaurants Tenerife
 - [Grupo Carso](https://www.carso.com.mx/)
 - [Grupo Globo](https://grupoglobo.globo.com/)
-- [IAG – International Airlines Group](https://www.iairgroup.com/es-es)
-- [IAG – International Airlines Group](https://www.iairgroup.com/)
-- [IFA | automotive supplier for drive shafts & joints](https://ifa-group.com/en/)
+- [IAG](https://www.iairgroup.com/es-es) — International Airlines Group
+- [IAG](https://www.iairgroup.com/) — International Airlines Group
+- [IFA](https://ifa-group.com/en/) — automotive supplier for drive shafts & joints
 - [IMA Group](https://ima.it/en)
 - [Kering Luxury Group](https://www.kering.com/en/)
-- [Marathon Group - Vehicle Protection Services Provider](https://marathongroup.com/)
+- [Marathon Group](https://marathongroup.com/) — Vehicle Protection Services Provider
 - [Match Group](https://mtch.com/)
 - [Merck Group](https://www.merckgroup.com/en)
 - [Midea Group](https://www.midea-group.com/)
@@ -5546,21 +5546,21 @@ description: Stores, marketplaces, product research, and resale
 - [Legalbono](https://www.legalbono.com/)
 - [Modelo Contrato](https://www.modelocontrato.net/)
 - [Orienta Femete](http://orientafemete.org/)
-- [ResumeGo - The World's #1 Rated Resume Writing Service](https://www.resumego.net/)
+- [ResumeGo](https://www.resumego.net/) — The World's #1 Rated Resume Writing Service
 - [Salary.com](https://www.salary.com/)
 - [Welcome to the Jungle](https://www.welcometothejungle.com/en)
 
 ### Find Job
-- ⭐ **[ERASMUSINTERN - Internships Search](https://erasmusintern.org/traineeships)**
+- ⭐ **[ERASMUSINTERN](https://erasmusintern.org/traineeships)** — Internships Search
 - [80,000 Hours Job Board](https://jobs.80000hours.org/)
 - [Activa Canarias](https://activacanarias.epreselec.com/Ofertas/Ofertas.aspx)
-- [Adecco - Ofertas trabajo](https://www.adecco.es/ofertas-trabajo)
+- [Adecco](https://www.adecco.es/ofertas-trabajo) — Ofertas trabajo
 - [AngelList Talent](https://angel.co/)
 - [Arc.dev](https://arc.dev/)
 - [Authentic Jobs](https://authenticjobs.com/)
 - [Backstage](https://www.backstage.com/)
 - [beBee](https://www.bebee.com/)
-- [Built In - Jobs](https://builtin.com/jobs)
+- [Built In](https://builtin.com/jobs) — Jobs
 - [Cabildo Emplea](https://cabildoemplea.es/)
 - [Career Vault](https://www.careervault.io/)
 - [Cleverism](https://www.cleverism.com/)
@@ -5574,22 +5574,22 @@ description: Stores, marketplaces, product research, and resale
 - [FAUCA](https://www.fauca.org/)
 - [Fundación Laboral de la Construcción](https://www.fundacionlaboral.org/)
 - [Glassdoor](https://www.glassdoor.es/index.htm)
-- [Hiron - Find Your Dream Role, Faster and Smarter.](https://hiron.ai/)
+- [Hiron](https://hiron.ai/) — Find Your Dream Role, Faster and Smarter.
 - [Indeed](https://es.indeed.com/)
-- [Indeed - Companies](https://www.indeed.com/companies)
+- [Indeed](https://www.indeed.com/companies) — Companies
 - [InfoConcurso](https://www.infoconcurso.com/)
 - [Infoempleo](https://www.infoempleo.com/)
-- [InfoJobs - Bolsa de trabajo, ofertas de empleo](https://www.infojobs.net/)
+- [InfoJobs](https://www.infojobs.net/) — Bolsa de trabajo, ofertas de empleo
 - [Intesa Canarias](https://www.intesacanarias.com/)
 - [Ivalisjob](https://www.ivalisjob.es/)
 - [Job today](https://jobtoday.com/es)
 - [Jobandtalent](https://www.jobandtalent.com/)
 - [Jobatus](https://www.jobatus.es/)
 - [JobisJob](https://www.jobisjob.es/)
-- [Jobscan - Optimize Your Resume and Boost Interview Chances](https://www.jobscan.co/)
+- [Jobscan](https://www.jobscan.co/) — Optimize Your Resume and Boost Interview Chances
 - [Jooble](https://es.jooble.org/)
 - [Key Values](https://www.keyvalues.com/)
-- [Lever | Recruiting Software](https://www.lever.co/)
+- [Lever](https://www.lever.co/) — Recruiting Software
 - [LinkedIn Business](https://business.linkedin.com/)
 - [List of Careers](https://www.careerprofiles.info/careers.html)
 - [List of Careers and Jobs](https://www.mymajors.com/career-list)
@@ -5597,17 +5597,17 @@ description: Stores, marketplaces, product research, and resale
 - [List of over 12,000 Careers](https://www.careerplanner.com/ListOfCareers.cfm)
 - [Lists Best Jobs Rankings](https://money.usnews.com/careers/best-jobs/rankings)
 - [Manpower](https://www.manpower.es/)
-- [Monster Jobs - Job Search, Career Advice & Hiring Resources](https://www.monster.com/)
+- [Monster Jobs](https://www.monster.com/) — Job Search, Career Advice & Hiring Resources
 - [Noticiastrabajo.es](https://www.noticiastrabajo.es/)
-- [Ocupa2 | Empleo Inteligente](https://ocupa2.com/)
+- [Ocupa2](https://ocupa2.com/) — Empleo Inteligente
 - [Portal Empleo](https://www.empleate.gob.es/empleo#/)
 - [ProZ traducción](https://www.proz.com/)
 - [Randstad](https://www.randstad.es/)
 - [Refer'd.ai](https://www.referd.ai/)
 - [remote.io](https://www.remote.io/)
-- [Robin en busca de curro | Facebook](https://www.facebook.com/groups/1435355136753528/)
+- [Robin en busca de curro](https://www.facebook.com/groups/1435355136753528/) — Facebook
 - [Salarytics](https://www.salarytics.com/)
-- [santifer/career-ops: AI-powered job search system built on Claude Code](https://github.com/santifer/career-ops/)
+- [santifer/career-ops](https://github.com/santifer/career-ops/) — AI-powered job search system built on Claude Code
 - [SarkariResult](https://www.sarkariresult.com/)
 - [SimplyHired](https://www.simplyhired.com/)
 - [Snagajob](https://www.snagajob.com/)
@@ -5616,7 +5616,7 @@ description: Stores, marketplaces, product research, and resale
 - [StudentJob ES](https://www.studentjob.es/)
 - [Synergie](https://www.synergie.es/)
 - [Teach Away](https://www.teachaway.com/)
-- [Tenempleo | Empleo en Canarias](https://www.tenempleo.com/)
+- [Tenempleo](https://www.tenempleo.com/) — Empleo en Canarias
 - [The Dots](https://the-dots.com/)
 - [Trabajamos.net](http://trabajamos.net/)
 - [Trabajos.com](https://www.trabajos.com/)
@@ -5624,7 +5624,7 @@ description: Stores, marketplaces, product research, and resale
 - [Ubica Empleos](https://ubicaempleos.com/)
 - [USAJOBS](https://www.usajobs.gov/)
 - [We Work Remotely](https://weworkremotely.com/)
-- [Work From Anywhere Jobs | 100% worldwide remote](https://www.realworkfromanywhere.com/)
+- [Work From Anywhere Jobs](https://www.realworkfromanywhere.com/) — 100% worldwide remote
 - [XING](https://www.xing.com/)
 - [Zippia](https://www.zippia.com/)
 
@@ -5639,9 +5639,9 @@ description: Stores, marketplaces, product research, and resale
 - [GoYellow.de](https://www.goyellow.de/)
 - [Infobel](https://www.infobel.com/es/world)
 - [Informa](https://www.informa.es/)
-- [Lizily - Business Listings](https://lizily.com/)
+- [Lizily](https://lizily.com/) — Business Listings
 - [Mediabistro](https://www.mediabistro.com/learn)
-- [Noomii - Life Coach, Business Coach, Career Coach, Executive Coach Directory](https://www.noomii.com/)
+- [Noomii](https://www.noomii.com/) — Life Coach, Business Coach, Career Coach, Executive Coach Directory
 - [O4af](https://o4af.com/)
 - [Páginas Amarillas](https://www.paginasamarillas.es/)
 - [Superpages](https://www.superpages.com/)
@@ -5663,7 +5663,7 @@ description: Stores, marketplaces, product research, and resale
 - [Word of Mouth](https://www.wordofmouth.com.au/)
 - [Yellowbook](https://www.yellowbook.com/)
 - [YellowBot](https://www.yellowbot.com/)
-- [Yelp - Search Business](https://www.yelp.com/search?find_desc=&find_loc=)
+- [Yelp](https://www.yelp.com/search?find_desc=&find_loc=) — Search Business
 
 ### Guide Job
 - [50 Ways to Get a Job](https://50waystogetajob.com/)
