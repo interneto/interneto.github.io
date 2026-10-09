@@ -106,15 +106,8 @@
   transform: translateY(-0.15em);
 }
 
-.vp-content-card-title-row {
-  display: flex;
-  align-items: baseline;
-  justify-content: space-between;
-  gap: 0.5rem;
-  min-width: 0;
-}
-
 .vp-content-card-title {
+  min-width: 0;
   font-size: 1.1rem;
   font-weight: 600;
   color: var(--vp-c-text-1);
@@ -122,12 +115,13 @@
   line-height: 1.25;
 }
 
+/* Pinned to the card's bottom-left, below the description/tags. */
 .vp-content-card-count {
-  flex-shrink: 0;
+  margin-top: auto;
+  padding-top: 0.5rem;
   font-size: 0.75rem;
   font-weight: 500;
   color: var(--vp-c-text-2);
-  white-space: nowrap;
 }
 
 .vp-content-card:hover .vp-content-card-title {
