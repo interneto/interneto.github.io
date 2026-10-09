@@ -12,23 +12,23 @@ const options = [
   { value: 'exportPackages', label: '📤 Export Agents (JSON)' },
 ];
 ---
-<VPLayout title="AI Agents Installer" hasSidebar={false} extraStyles={['styles/generator.css', 'styles/os-compatibility.css']}>
+<VPLayout title="Agent Extensions" hasSidebar={false} extraStyles={['styles/generator.css', 'styles/os-compatibility.css']}>
   <div class="page-wrapper installer-page-wrapper">
     <nav class="breadcrumb" aria-label="Breadcrumb">
       <a href={`${BASE}toolbox/`}>Toolbox</a>
       <span aria-hidden="true">›</span>
-      <span aria-current="page">AI Agents Installer</span>
+      <span aria-current="page">Agent Extensions</span>
     </nav>
-    <PageHeader heading="🤖 AI Agents Installer" />
-    <PlatformNav current="agents" />
+    <PageHeader heading="🤖 Agent Extensions" />
+    <PlatformNav current="agent-extensions" />
     <PlatformViewToggle compatLabel="Compatibility Table" />
 
     <div id="installerView">
       <ToolboxInstallerSection
         bare
-        title="AI Agents Installer"
-        heading="🤖 AI Agents Installer"
-        info="Browse MCP servers, plugins, and skills for Claude Code, Codex CLI, and other AI coding agents. Pick the tools you need and copy the ready-to-run install commands."
+        title="Agent Extensions"
+        heading="🤖 Agent Extensions"
+        info="Extra functionality for AI coding agents — MCP servers, plugins, and skills for Claude Code, Codex CLI, GitHub Copilot, and others. Pick what you need and copy the ready-to-run install commands."
         searchPlaceholder="Search by name or category"
         options={options}
         showFossToggle={false}
@@ -65,10 +65,10 @@ const options = [
     <div id="compatView" hidden>
       <CompatibilityTablePage
         bare
-        title="AI Agents Compatibility"
-        heading="🤖 AI Agents Compatibility"
+        title="Agent Extensions Compatibility"
+        heading="🤖 Agent Extensions Compatibility"
         subtitle="Which MCP servers, plugins, and skills work with each AI coding agent."
-        installerHref="agents"
+        installerHref="agent-extensions"
         installerLabel="Go to Installer"
         searchPlaceholder="Search tool name, type, or category"
         pageNote="Claude Code, Codex CLI, and other agents use different plugin/MCP registration methods."

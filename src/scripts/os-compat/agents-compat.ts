@@ -1,5 +1,5 @@
 /**
- * AI Agents Compatibility Table
+ * Agent Extensions Compatibility Table
  * Shows which MCP servers, plugins, and skills work with each agent.
  * Follows the desktop-os-compatibility pattern (data.ts/state.ts/table.ts/interactions.ts)
  * but self-contained since agents have a simpler data model.

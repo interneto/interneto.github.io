@@ -24,10 +24,14 @@ export default defineConfig({
     '/toolbox-installer/vscode-extensions-compatibility': '/toolbox/vscode/#compat',
     '/toolbox/lib-compatibility': '/toolbox/lib/#compat',
     '/toolbox-installer/lib-compatibility': '/toolbox/lib/#compat',
-    '/toolbox/agents-compatibility': '/toolbox/agents/#compat',
-    '/toolbox-installer/agents-compatibility': '/toolbox/agents/#compat',
+    '/toolbox/agents-compatibility': '/toolbox/agent-extensions/#compat',
+    '/toolbox-installer/agents-compatibility': '/toolbox/agent-extensions/#compat',
     '/toolbox/os-compatibility': '/toolbox/os/#compat',
     '/toolbox-installer/os-compatibility': '/toolbox/os/#compat',
+    // Renamed: AI Agents (installed AI agents themselves) -> Agent Extensions
+    // (what you add to an agent like Claude Code/Codex/Copilot).
+    '/toolbox/agents': '/toolbox/agent-extensions/',
+    '/toolbox-installer/agents': '/toolbox/agent-extensions/',
   },
   vite: {
     optimizeDeps: {

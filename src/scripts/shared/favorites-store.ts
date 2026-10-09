@@ -22,7 +22,7 @@ export function resolveFavCategoryFromPath(pathname: string): FavCategory {
     if (path.includes('vscode-extensions') || /\/(vscode)\//.test(path)) {
         return 'vscodeExtensions';
     }
-    if (path.includes('/agents/') || path.includes('agents-compatibility')) {
+    if (path.includes('/agent-extensions/') || path.includes('agents-compatibility')) {
         return 'agents';
     }
     if (path.includes('/mobile/') || path.includes('mobile-os-compatibility')) {

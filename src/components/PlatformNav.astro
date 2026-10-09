@@ -2,7 +2,7 @@
 // Compact quick-switch row shown on every merged installer/compat page,
 // linking to the other 6 sibling platforms without a trip back to /toolbox/.
 interface Props {
-  current: 'os' | 'desktop' | 'mobile' | 'lib' | 'browser' | 'vscode' | 'agents';
+  current: 'os' | 'desktop' | 'mobile' | 'lib' | 'browser' | 'vscode' | 'agent-extensions';
 }
 const { current } = Astro.props;
 const BASE = import.meta.env.BASE_URL.replace(/\/?$/, '/');
@@ -14,7 +14,7 @@ const PLATFORMS = [
   { slug: 'lib', label: 'Library', icon: '📚' },
   { slug: 'browser', label: 'Browser Ext.', icon: '🧩' },
   { slug: 'vscode', label: 'VS Code Ext.', icon: '🛠️' },
-  { slug: 'agents', label: 'AI Agents', icon: '🤖' },
+  { slug: 'agent-extensions', label: 'Agent Ext.', icon: '🤖' },
 ] as const;
 ---
 <nav class="platform-nav" aria-label="Switch installer">

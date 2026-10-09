@@ -1,5 +1,5 @@
 /**
- * Agents App — AI Agents Installer
+ * Agents App — Agent Extensions Installer
  *
  * Shows all MCP servers, plugins, and skills filtered by agent + type.
  * Checkboxes + CommandFooter generate a single bulk install command
