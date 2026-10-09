@@ -3,7 +3,6 @@
     "title": "AI agent ecosystems",
     "columns": [
       { "key": "name", "label": "Ecosystem", "sortable": true },
-      { "key": "country", "label": "Country", "sortable": true },
       { "key": "client", "label": "Client / agent" },
       { "key": "modelFamily", "label": "Model family" },
       { "key": "serving", "label": "LLM serving" },
@@ -16,100 +15,79 @@
       {
         "name": "Anthropic",
         "icon": "/img/assets/gen-ai-tools/anthropic.svg",
-        "country": "🇺🇸",
-        "countryCode": "US",
         "client": "Claude Code · Agent",
         "modelFamily": "Claude",
         "serving": "AWS · Anthropic cloud",
         "integration": "GitHub · IDE · Cloud · MCP",
         "platforms": "Desktop · Web · Mobile",
         "price": "$20 ~1× · $100 ~5× · $200 ~20×",
-        "bestFor": "Programming & design work",
-        "popularity": 5
+        "bestFor": "Programming & design work"
       },
       {
         "name": "DeepSeek",
         "icon": "/img/software/webs/deepseek.svg",
-        "country": "🇨🇳",
-        "countryCode": "CN",
         "client": "DeepSeek Chat · DeepSeek Code · API",
         "modelFamily": "DeepSeek",
         "serving": "DeepSeek cloud · self-host (open weights)",
         "integration": "API · MCP · IDE · Terminal",
         "platforms": "Web · Mobile · API",
         "price": "Free web · API pay-as-you-go (cheap)",
-        "bestFor": "Open-weight value & self-hosting",
-        "popularity": 4
+        "bestFor": "Open-weight value & self-hosting"
       },
       {
         "name": "Google",
         "icon": "/img/software/webs/gemini.svg",
-        "country": "🇺🇸",
-        "countryCode": "US",
         "client": "Gemini CLI · Antigravity",
         "modelFamily": "Gemini",
         "serving": "Google Cloud · TPUs",
         "integration": "GitHub · IDE · Google Cloud · MCP",
         "platforms": "Desktop · Web · Mobile",
         "price": "$20 ~1× · $100 ~5× · $200 ~20×",
-        "bestFor": "Deep product integration (Search, Workspace)",
-        "popularity": 4
+        "bestFor": "Deep product integration (Search, Workspace)"
       },
       {
         "name": "GitHub",
         "icon": "/img/assets/gen-ai-tools/github-copilot.svg",
-        "country": "🇺🇸",
-        "countryCode": "US",
         "client": "Copilot · Agent",
         "modelFamily": "GPT · Claude · Gemini",
         "serving": "GitHub cloud · Actions · runners",
         "integration": "GitHub · PR · Issues · Actions",
         "platforms": "Desktop · Web · Mobile",
         "price": "$10 Pro · $35 Pro+ · usage credits",
-        "bestFor": "IDE-native workflow",
-        "popularity": 5
+        "bestFor": "IDE-native workflow"
       },
       {
         "name": "OpenAI",
         "icon": "/img/assets/gen-ai-tools/openai.svg",
-        "country": "🇺🇸",
-        "countryCode": "US",
         "client": "Codex · Cloud GPT",
         "modelFamily": "GPT",
         "serving": "Azure · OpenAI cloud",
         "integration": "GitHub · IDE · Cloud · MCP",
         "platforms": "Desktop · Web · Mobile",
         "price": "$20 ~1× · $200 ~10×",
-        "bestFor": "Breadth of features & polish",
-        "popularity": 5
+        "bestFor": "Breadth of features & polish"
       },
       {
         "name": "Open Autonomous",
         "icon": "/img/assets/gen-ai-tools/nousresearch-hermes.svg",
-        "country": "🌍",
-        "countryCode": "GLOBAL",
         "client": "OpenClaw · Hermes",
         "modelFamily": "Any",
         "serving": "Ollama · vLLM · llama.cpp · cloud optional",
         "integration": "Tools · Memory · Skills · Automation · MCP",
         "platforms": "Desktop · Web · Mobile",
         "price": "Free runtime · API / local",
-        "bestFor": "Unattended automation",
-        "popularity": 2
+        "bestFor": "Unattended automation"
       },
       {
         "name": "Open Coding",
         "icon": "/img/software/apps/opencode.svg",
-        "country": "🌍",
-        "countryCode": "GLOBAL",
         "client": "OpenCode · Cline · Kilo Code",
         "modelFamily": "Any",
         "serving": "Ollama · vLLM · llama.cpp · LM Studio · local server",
         "integration": "Git · IDE · Terminal · MCP · APIs",
         "platforms": "Desktop · Web",
         "price": "Free runtime · OpenCode Zen pay-as-you-go · Go $10 · API / local",
-        "bestFor": "Self-hosted flexibility & cost control",
-        "popularity": 3
+        "bestFor": "Self-hosted flexibility & cost control"
       }
     ]
   },
