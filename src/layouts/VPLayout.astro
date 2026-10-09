@@ -245,7 +245,7 @@ const ogImageUrl = ogImage ?? `https://interneto.github.io/icon.png`;
         e.preventDefault();
         const search =
           document.getElementById('searchInput') ||
-          document.getElementById('categorySidebarSearch');
+          document.getElementById('siteLinkSearch');
         if (search instanceof HTMLElement) {
           search.focus();
           search.scrollIntoView({ block: 'nearest' });

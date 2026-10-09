@@ -7,6 +7,7 @@ import { getDb } from './connection.js'
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
 const ROOT_DIR = path.resolve(__dirname, '..', '..')
 const OUTPUT_PATH = path.resolve(ROOT_DIR, 'public/generated/bookmarks.json')
+const SEARCH_INDEX_PATH = path.resolve(ROOT_DIR, 'public/generated/link-search-index.json')
 
 export function exportJson(db) {
   const rows = db
@@ -36,6 +37,14 @@ export function exportJson(db) {
   }))
 }
 
+// A minimal sibling of bookmarks.json (title/url/category only, short keys) for the
+// client-side site search on /categories/ — the full file is ~18MB, too heavy to fetch
+// for a search box; this trims to ~2.5MB (gzips to ~550KB) by dropping everything a
+// result row doesn't need to render and link out.
+export function buildSearchIndex(data) {
+  return data.map((b) => ({ t: b.title, u: b.url, c: b.category }))
+}
+
 if (process.argv[1] === fileURLToPath(import.meta.url)) {
   const db = getDb()
   const data = exportJson(db)
@@ -43,4 +52,8 @@ if (process.argv[1] === fileURLToPath(import.meta.url)) {
   fs.mkdirSync(path.dirname(OUTPUT_PATH), { recursive: true })
   fs.writeFileSync(OUTPUT_PATH, JSON.stringify(data, null, 2) + '\n', 'utf8')
   console.log(`📝 Wrote ${data.length} bookmarks -> ${path.relative(ROOT_DIR, OUTPUT_PATH)}`)
+
+  const searchIndex = buildSearchIndex(data)
+  fs.writeFileSync(SEARCH_INDEX_PATH, JSON.stringify(searchIndex), 'utf8')
+  console.log(`📝 Wrote ${searchIndex.length}-entry search index -> ${path.relative(ROOT_DIR, SEARCH_INDEX_PATH)}`)
 }

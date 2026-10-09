@@ -75,6 +75,21 @@ const docs = allDocs
       <p class="vp-content-subtitle">Comprehensive web directory organized by category with curated resources and tools.</p>
     </header>
 
+    <div class="vp-site-search">
+      <input
+        id="siteLinkSearch"
+        class="vp-site-search-input"
+        type="search"
+        placeholder="Search all links…"
+        autocomplete="off"
+        aria-label="Search all links"
+      />
+      <p class="vp-site-search-count" id="siteLinkSearchCount" aria-live="polite" hidden></p>
+    </div>
+
+    <ul class="vp-site-search-results" id="siteLinkSearchResults" aria-label="Link search results" hidden></ul>
+    <p class="vp-content-empty" id="siteLinkSearchEmpty" hidden>No links match your search.</p>
+
     <section class="vp-content-grid vp-categories-index" aria-label="Categories index">
       {docs.map((entry) => {
         const slug = cleanSlug(entry.id);
@@ -90,33 +105,13 @@ const docs = allDocs
         );
       })}
     </section>
-
-    <p class="vp-content-empty" data-search-empty hidden>No categories match your search.</p>
   </div>
 
-  <script is:inline>
-    (() => {
-      const cards = Array.from(document.querySelectorAll('.vp-content-card'));
-      const searchInput = document.getElementById('categorySidebarSearch');
-      const empty = document.querySelector('[data-search-empty]');
-      if (!(searchInput instanceof HTMLInputElement)) return;
-
-      const normalize = (v) => v.trim().toLowerCase();
-
-      const apply = () => {
-        const q = normalize(searchInput.value);
-        let anyVisible = false;
-        cards.forEach((card) => {
-          const title = normalize(card.querySelector('.vp-content-card-title')?.textContent || '');
-          const desc = normalize(card.querySelector('.vp-content-card-description')?.textContent || '');
-          const matches = !q || title.includes(q) || desc.includes(q);
-          card.classList.toggle('vp-search-hidden', !matches);
-          if (matches) anyVisible = true;
-        });
-        if (empty) empty.hidden = anyVisible;
-      };
-
-      searchInput.addEventListener('input', apply);
-    })();
-  </script>
+  <script is:inline type="application/json" id="categoryMetaData" set:html={JSON.stringify(
+    Object.fromEntries(docs.map((entry) => {
+      const slug = cleanSlug(entry.id);
+      return [slug, { title: entry.data.title ?? slug, icon: categoryIcons[slug] ?? '📚' }];
+    }))
+  )} />
+  <script>import '../../scripts/categories/link-search';</script>
 </VPLayout>

@@ -2,7 +2,7 @@
 import assert from 'node:assert/strict'
 import { getDb } from './connection.js'
 import { importCsv } from './lib/import-csv.js'
-import { exportJson } from './export-json.js'
+import { exportJson, buildSearchIndex } from './export-json.js'
 
 const csv = [
   'id,title,note,excerpt,url,folder,tags,created,cover,highlights,favorite',
@@ -30,5 +30,7 @@ assert.deepEqual(data[0], {
   sourceCodeUrls: ['https://github.com/x/y'],
   createdAt: '2026-01-01T00:00:00.000Z',
 })
+
+assert.deepEqual(buildSearchIndex(data), [{ t: 'Test Tool', u: 'https://example.com/', c: 'ai-tools-and-services' }])
 
 console.log('export-json.test.js: PASS')

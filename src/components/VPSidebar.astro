@@ -91,19 +91,6 @@ const title =
       <nav class="vp-sidebar-nav">
         <div class="vp-sidebar-title">{title}</div>
 
-        {sidebarKind === 'categories' && (
-          <div class="vp-sidebar-search-wrap">
-            <input
-              id="categorySidebarSearch"
-              class="vp-sidebar-search-input"
-              type="search"
-              placeholder="Search categories"
-              autocomplete="off"
-              aria-label="Search categories"
-            />
-          </div>
-        )}
-
         {isCategoryDetail && (
           <div class="vp-sidebar-favorites-wrap">
             <button
@@ -205,6 +192,5 @@ const title =
     input.addEventListener('input', () => apply(input.value));
   };
 
-  wireSidebarSearch('categorySidebarSearch');
   wireSidebarSearch('postsSidebarSearch');
 </script>
