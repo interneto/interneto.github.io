@@ -5349,6 +5349,24 @@
         "windows_winget": "Ytmdesktop.Ytmdesktop"
       }
     },
+    "zapfast": {
+      "name": "ZapFast",
+      "category": "social-and-communications",
+      "subcategory": "Messaging",
+      "package_manager": {
+        "linux_arch_aur": "zapfast-bin",
+        "linux_arch_pacman": null,
+        "linux_debian_apt": null,
+        "linux_fedora_rpm": null,
+        "linux_gentoo_emerge": null,
+        "linux_flatpak": null,
+        "linux_snap": null,
+        "freebsd_pkg": null,
+        "macos_brew": "crmne/tap/zapfast",
+        "unix_nix_env": null,
+        "windows_winget": null
+      }
+    },
     "zed": {
       "name": "Zed",
       "category": "development",

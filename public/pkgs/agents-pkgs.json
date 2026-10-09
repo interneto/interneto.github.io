@@ -1146,7 +1146,8 @@
       "agent_compat": {
         "claude": true,
         "codex": true,
-        "copilot": true
+        "copilot": true,
+        "npx": true
       },
       "installs": [
         {
@@ -1160,6 +1161,10 @@
         {
           "agent": "copilot",
           "cmd": "copilot mcp add --transport http hyperframes https://hyperframes.heygen.com"
+        },
+        {
+          "agent": "npx",
+          "cmd": "npx -y mcp-remote https://hyperframes.heygen.com"
         }
       ],
       "url": "https://hyperframes.heygen.com",
@@ -1672,6 +1677,39 @@
       "url": "",
       "tags": [
         "MCP"
+      ]
+    },
+    "remotion": {
+      "name": "Remotion Skills",
+      "type": "Plugin/Skill",
+      "category": "Creative",
+      "agent_compat": {
+        "claude": true,
+        "codex": true,
+        "copilot": true,
+        "npx": true
+      },
+      "installs": [
+        {
+          "agent": "claude",
+          "cmd": "npx skills add remotion-dev/skills -a claude-code"
+        },
+        {
+          "agent": "codex",
+          "cmd": "npx skills add remotion-dev/skills -a codex"
+        },
+        {
+          "agent": "copilot",
+          "cmd": "npx skills add remotion-dev/skills -a github-copilot"
+        },
+        {
+          "agent": "npx",
+          "cmd": "npx skills add remotion-dev/skills"
+        }
+      ],
+      "url": "https://www.remotion.dev/docs/ai/skills",
+      "tags": [
+        "Skill"
       ]
     },
     "runnet": {
