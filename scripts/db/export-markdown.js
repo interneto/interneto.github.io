@@ -4,11 +4,12 @@ import path from 'node:path'
 import { fileURLToPath } from 'node:url'
 import { getDb } from './connection.js'
 import { CATEGORY_CONFIG, PATHS } from '../config/categories.js'
-import { renderGroupFile } from '../lib/markdown-renderer.js'
+import { renderGroupFile, buildAnchorMap } from '../lib/markdown-renderer.js'
 import { createNode, addToTree, clearOutputDir } from '../lib/utils.js'
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
 const ROOT_DIR = path.resolve(__dirname, '..', '..')
+const ANCHORS_PATH = path.resolve(ROOT_DIR, 'public/generated/category-anchors.json')
 
 function log(icon, message) {
   console.log(`${icon} ${message}`)
@@ -54,19 +55,25 @@ export function exportMarkdown(db, outputDir) {
 
   clearOutputDir(outputDir, CATEGORY_CONFIG.map((c) => c.file))
   const written = []
+  const anchorsByCategory = {}
   for (const category of CATEGORY_CONFIG) {
-    const markdown = renderGroupFile(category.displayName, groups.get(category.folder), category.folder)
+    const group = groups.get(category.folder)
+    const markdown = renderGroupFile(category.displayName, group, category.folder)
     fs.writeFileSync(path.join(outputDir, category.file), markdown, 'utf8')
     written.push(category.file)
+    anchorsByCategory[category.file.replace(/\.md$/, '')] = Object.fromEntries(buildAnchorMap(group))
   }
-  return written
+  return { written, anchorsByCategory }
 }
 
 if (process.argv[1] === fileURLToPath(import.meta.url)) {
   const db = getDb()
   const outputDir = path.resolve(ROOT_DIR, PATHS.OUTPUT_DIR)
-  const written = exportMarkdown(db, outputDir)
+  const { written, anchorsByCategory } = exportMarkdown(db, outputDir)
   db.close()
   log('📝', `Generated ${written.length} markdown files`)
   log('  ', `Output: ${path.relative(ROOT_DIR, outputDir)}`)
+  fs.mkdirSync(path.dirname(ANCHORS_PATH), { recursive: true })
+  fs.writeFileSync(ANCHORS_PATH, JSON.stringify(anchorsByCategory), 'utf8')
+  log('📝', `Wrote subcategory anchors -> ${path.relative(ROOT_DIR, ANCHORS_PATH)}`)
 }

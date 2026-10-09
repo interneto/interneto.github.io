@@ -2,6 +2,7 @@
  * Markdown Renderer utilities
  */
 
+import GithubSlugger from 'github-slugger'
 import { CATEGORY_DESCRIPTIONS } from '../config/categories.js'
 
 function escapeMd(text) {
@@ -53,6 +54,26 @@ function renderChildren(lines, children, level) {
   }
 }
 
+// Maps each subcategory's full path (joined with \x01, matching a bookmark's own
+// `subcategory` array) to the #anchor Astro's markdown pipeline will give that
+// heading — same traversal order renderChildren uses, through one GithubSlugger
+// instance per category so dedup (repeated heading names) matches a real render.
+function buildAnchorMap(group) {
+  const slugger = new GithubSlugger()
+  const anchors = new Map()
+
+  function walk(children, trail) {
+    for (const [name, node] of [...children].sort(([a], [b]) => a.localeCompare(b))) {
+      const path = [...trail, name]
+      anchors.set(path.join('\x01'), slugger.slug(name))
+      walk(node.children, path)
+    }
+  }
+
+  walk(group.children, [])
+  return anchors
+}
+
 function renderGroupFile(groupName, group, categoryFolder) {
   const detailedDescription = CATEGORY_DESCRIPTIONS[categoryFolder] || ''
   const lines = [
@@ -73,4 +94,4 @@ function renderGroupFile(groupName, group, categoryFolder) {
   return lines.join('\n').trim() + '\n'
 }
 
-export { renderGroupFile, renderItems, renderChildren, countItems, escapeMd }
+export { renderGroupFile, renderItems, renderChildren, countItems, escapeMd, buildAnchorMap }

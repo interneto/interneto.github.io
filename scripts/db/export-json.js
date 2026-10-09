@@ -8,6 +8,7 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url))
 const ROOT_DIR = path.resolve(__dirname, '..', '..')
 const OUTPUT_PATH = path.resolve(ROOT_DIR, 'public/generated/bookmarks.json')
 const SEARCH_INDEX_PATH = path.resolve(ROOT_DIR, 'public/generated/link-search-index.json')
+const ANCHORS_PATH = path.resolve(ROOT_DIR, 'public/generated/category-anchors.json')
 
 export function exportJson(db) {
   const rows = db
@@ -37,12 +38,18 @@ export function exportJson(db) {
   }))
 }
 
-// A minimal sibling of bookmarks.json (title/url/category only, short keys) for the
-// client-side site search on /categories/ — the full file is ~18MB, too heavy to fetch
-// for a search box; this trims to ~2.5MB (gzips to ~550KB) by dropping everything a
-// result row doesn't need to render and link out.
-export function buildSearchIndex(data) {
-  return data.map((b) => ({ t: b.title, u: b.url, c: b.category }))
+// A minimal sibling of bookmarks.json (short keys) for the client-side site search on
+// /categories/ — the full file is ~18MB, too heavy to fetch for a search box. Clicking
+// a result goes to the bookmark's own subcategory heading on its category page (`h`,
+// from category-anchors.json — see buildAnchorMap in lib/markdown-renderer.js), not
+// out to the external site; `u` is kept only for a secondary "open externally" link.
+export function buildSearchIndex(data, anchorsByCategory = {}) {
+  return data.map((b) => ({
+    t: b.title,
+    u: b.url,
+    c: b.category,
+    h: anchorsByCategory[b.category]?.[b.subcategory.join('\x01')] ?? '',
+  }))
 }
 
 if (process.argv[1] === fileURLToPath(import.meta.url)) {
@@ -53,7 +60,9 @@ if (process.argv[1] === fileURLToPath(import.meta.url)) {
   fs.writeFileSync(OUTPUT_PATH, JSON.stringify(data, null, 2) + '\n', 'utf8')
   console.log(`📝 Wrote ${data.length} bookmarks -> ${path.relative(ROOT_DIR, OUTPUT_PATH)}`)
 
-  const searchIndex = buildSearchIndex(data)
+  // Written by export-markdown.js, which always runs first (db:export / sync).
+  const anchorsByCategory = fs.existsSync(ANCHORS_PATH) ? JSON.parse(fs.readFileSync(ANCHORS_PATH, 'utf8')) : {}
+  const searchIndex = buildSearchIndex(data, anchorsByCategory)
   fs.writeFileSync(SEARCH_INDEX_PATH, JSON.stringify(searchIndex), 'utf8')
   console.log(`📝 Wrote ${searchIndex.length}-entry search index -> ${path.relative(ROOT_DIR, SEARCH_INDEX_PATH)}`)
 }

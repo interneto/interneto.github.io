@@ -1,5 +1,5 @@
 ---
-export type IconName = 'categories' | 'map' | 'toolbox' | 'posts' | 'about' | 'moon' | 'sun' | 'philosophy' | 'terminal' | 'shield' | 'bolt' | 'code';
+export type IconName = 'categories' | 'map' | 'toolbox' | 'posts' | 'about' | 'moon' | 'sun' | 'philosophy' | 'terminal' | 'shield' | 'bolt' | 'code' | 'search';
 
 interface Props {
   name: IconName;
@@ -27,6 +27,7 @@ const icons: Record<IconName, IconDef> = {
   shield:     { viewBox: '0 0 20 20', stroke: '1.5', paths: ['M10 2.75l5.25 1.85v4.4c0 3.5-2.4 5.55-5.25 6.5-2.85-.95-5.25-3-5.25-6.5v-4.4z', 'M7.75 9.75l1.5 1.5 3-3.25'] },
   bolt:       { viewBox: '0 0 20 20', stroke: '1.5', paths: ['M11 2.5 5.25 11h4l-1 6.5L14.75 9h-4z'] },
   code:       { viewBox: '0 0 20 20', stroke: '1.5', paths: ['M7.25 6.75 3.5 10l3.75 3.25M12.75 6.75 16.5 10l-3.75 3.25M11 4.5l-2 11'] },
+  search:     { viewBox: '0 0 20 20', stroke: '1.5', paths: ['M13.5 13.5 17.25 17.25'], circle: { cx: 8.5, cy: 8.5, r: 5 } },
   moon:       { viewBox: '0 0 24 24', stroke: '2',   paths: ['M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79'] },
   sun:        { viewBox: '0 0 24 24', stroke: '2',   paths: ['M12 1v2m0 18v2M4.22 4.22l1.42 1.42m12.72 12.72 1.42 1.42M1 12h2m18 0h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42'], circle: { cx: 12, cy: 12, r: 5 } },
 };

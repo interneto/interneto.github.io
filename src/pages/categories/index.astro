@@ -2,6 +2,7 @@
 import { getCollection } from 'astro:content';
 import VPLayout from '../../layouts/VPLayout.astro';
 import ContentCard from '../../components/ContentCard.astro';
+import Icon from '../../components/Icon.astro';
 import bookmarks from '../../../public/generated/bookmarks.json';
 import taxonomy from '../../../public/pkgs/taxonomy.json';
 import { formatCount } from '../../lib/format-count';
@@ -75,20 +76,38 @@ const docs = allDocs
       <p class="vp-content-subtitle">Comprehensive web directory organized by category with curated resources and tools.</p>
     </header>
 
-    <div class="vp-site-search">
-      <input
-        id="siteLinkSearch"
-        class="vp-site-search-input"
-        type="search"
-        placeholder="Search all links…"
-        autocomplete="off"
-        aria-label="Search all links"
-      />
-      <p class="vp-site-search-count" id="siteLinkSearchCount" aria-live="polite" hidden></p>
-    </div>
+    <button type="button" id="siteLinkSearchTrigger" class="vp-site-search-trigger">
+      <Icon name="search" class="vp-site-search-trigger-icon" />
+      <span>Search all links…</span>
+      <kbd class="vp-site-search-kbd">Ctrl K</kbd>
+    </button>
 
-    <ul class="vp-site-search-results" id="siteLinkSearchResults" aria-label="Link search results" hidden></ul>
-    <p class="vp-content-empty" id="siteLinkSearchEmpty" hidden>No links match your search.</p>
+    <div id="siteLinkSearchModal" class="vp-site-search-modal" hidden>
+      <div class="vp-site-search-dialog" role="dialog" aria-modal="true" aria-label="Search all links">
+        <div class="vp-site-search-input-row">
+          <Icon name="search" class="vp-site-search-input-icon" />
+          <input
+            id="siteLinkSearch"
+            class="vp-site-search-input"
+            type="search"
+            placeholder="Search all links…"
+            autocomplete="off"
+            aria-label="Search all links"
+          />
+          <button type="button" id="siteLinkSearchClose" class="vp-site-search-close" aria-label="Close search">✕</button>
+        </div>
+
+        <p class="vp-site-search-count" id="siteLinkSearchCount" aria-live="polite" hidden></p>
+        <ul class="vp-site-search-results" id="siteLinkSearchResults" aria-label="Link search results" hidden></ul>
+        <p class="vp-content-empty" id="siteLinkSearchEmpty" hidden>No links match your search.</p>
+
+        <div class="vp-site-search-hints">
+          <span><kbd>↑</kbd><kbd>↓</kbd> navigate</span>
+          <span><kbd>Enter</kbd> select</span>
+          <span><kbd>Esc</kbd> close</span>
+        </div>
+      </div>
+    </div>
 
     <section class="vp-content-grid vp-categories-index" aria-label="Categories index">
       {docs.map((entry) => {

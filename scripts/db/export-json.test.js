@@ -31,6 +31,10 @@ assert.deepEqual(data[0], {
   createdAt: '2026-01-01T00:00:00.000Z',
 })
 
-assert.deepEqual(buildSearchIndex(data), [{ t: 'Test Tool', u: 'https://example.com/', c: 'ai-tools-and-services' }])
+assert.deepEqual(buildSearchIndex(data), [{ t: 'Test Tool', u: 'https://example.com/', c: 'ai-tools-and-services', h: '' }])
+assert.deepEqual(
+  buildSearchIndex(data, { 'ai-tools-and-services': { 'AI Apps': 'ai-apps' } }),
+  [{ t: 'Test Tool', u: 'https://example.com/', c: 'ai-tools-and-services', h: 'ai-apps' }]
+)
 
 console.log('export-json.test.js: PASS')

@@ -242,13 +242,17 @@ const ogImageUrl = ogImage ?? `https://interneto.github.io/icon.png`;
         e.preventDefault();
         document.getElementById('themeToggle')?.click();
       } else if (e.key === '/') {
-        e.preventDefault();
-        const search =
-          document.getElementById('searchInput') ||
-          document.getElementById('siteLinkSearch');
+        const search = document.getElementById('searchInput');
         if (search instanceof HTMLElement) {
+          e.preventDefault();
           search.focus();
           search.scrollIntoView({ block: 'nearest' });
+          return;
+        }
+        const trigger = document.getElementById('siteLinkSearchTrigger');
+        if (trigger instanceof HTMLElement) {
+          e.preventDefault();
+          trigger.click();
         }
       }
     });

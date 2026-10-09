@@ -4,69 +4,173 @@
   gap: 1rem;
 }
 
-/* Site-wide link search, between the header and the category cards. */
-.vp-site-search {
+/* Site-wide link search — a compact trigger between the header and the category
+   cards that opens a Ctrl+K-style popup (same idea as fmhy.pages.dev's search). */
+.vp-site-search-trigger {
   display: flex;
-  flex-wrap: wrap;
   align-items: center;
-  gap: 0.4rem 0.75rem;
+  gap: 0.6rem;
+  width: 100%;
+  max-width: 24rem;
   margin: 0 0 1.5rem;
+  padding: 0.6rem 0.85rem;
+  font-size: 0.9rem;
+  color: var(--vp-c-text-2);
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 0.5rem;
+  background-color: var(--vp-c-bg-alt);
+  cursor: pointer;
+  transition: border-color 0.15s, background-color 0.15s;
+}
+
+.vp-site-search-trigger:hover,
+.vp-site-search-trigger:focus-visible {
+  outline: none;
+  border-color: var(--vp-c-brand-1);
+  background-color: var(--vp-c-bg);
+}
+
+.vp-site-search-trigger-icon {
+  width: 1.05rem;
+  height: 1.05rem;
+  flex-shrink: 0;
+}
+
+.vp-site-search-trigger span {
+  flex: 1;
+  text-align: left;
+}
+
+.vp-site-search-kbd {
+  flex-shrink: 0;
+  font-size: 0.7rem;
+  padding: 0.15rem 0.4rem;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 0.3rem;
+  background-color: var(--vp-c-bg);
+  color: var(--vp-c-text-2);
+}
+
+/* Popup */
+body.vp-site-search-open {
+  overflow: hidden;
+}
+
+.vp-site-search-modal[hidden] {
+  display: none;
+}
+
+.vp-site-search-modal {
+  position: fixed;
+  inset: 0;
+  z-index: 100;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 10vh 1rem 1rem;
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+.vp-site-search-dialog {
+  width: 100%;
+  max-width: 38rem;
+  max-height: 75vh;
+  display: flex;
+  flex-direction: column;
+  border-radius: 0.75rem;
+  background-color: var(--vp-c-bg);
+  border: 1px solid var(--vp-c-divider);
+  box-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.3);
+  overflow: hidden;
+}
+
+.vp-site-search-input-row {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  padding: 0.5rem 0.75rem;
+  border-bottom: 1px solid var(--vp-c-divider);
+}
+
+.vp-site-search-input-icon {
+  width: 1.1rem;
+  height: 1.1rem;
+  flex-shrink: 0;
+  color: var(--vp-c-text-2);
 }
 
 .vp-site-search-input {
   flex: 1;
-  min-width: 14rem;
-  max-width: 28rem;
-  padding: 0.6rem 0.85rem;
-  font-size: 0.95rem;
-  border: 1px solid var(--vp-c-divider);
-  border-radius: 0.5rem;
-  background-color: var(--vp-c-bg-alt);
+  min-width: 0;
+  padding: 0.5rem 0;
+  font-size: 1rem;
+  border: none;
+  background: none;
   color: var(--vp-c-text-1);
 }
 
 .vp-site-search-input:focus {
   outline: none;
-  border-color: var(--vp-c-brand-1);
+}
+
+.vp-site-search-close {
+  flex-shrink: 0;
+  width: 1.75rem;
+  height: 1.75rem;
+  border: none;
+  border-radius: 0.35rem;
+  background: none;
+  color: var(--vp-c-text-2);
+  cursor: pointer;
+  font-size: 0.85rem;
+}
+
+.vp-site-search-close:hover {
+  background-color: var(--vp-c-bg-alt);
+  color: var(--vp-c-text-1);
 }
 
 .vp-site-search-count {
   margin: 0;
+  padding: 0.5rem 0.9rem 0;
   font-size: 0.8rem;
   color: var(--vp-c-text-2);
 }
 
 .vp-site-search-results {
   list-style: none;
-  margin: 0 0 1.5rem;
-  padding: 0;
+  margin: 0;
+  padding: 0.4rem;
+  overflow-y: auto;
+}
+
+.vp-site-search-result {
   display: flex;
-  flex-direction: column;
-  gap: 0.4rem;
+  align-items: stretch;
+  gap: 0.3rem;
 }
 
 .vp-site-search-result-link {
+  flex: 1;
   display: flex;
   align-items: baseline;
   justify-content: space-between;
   gap: 1rem;
-  padding: 0.6rem 0.9rem;
-  border: 1px solid var(--vp-c-divider);
-  border-radius: 0.5rem;
-  background-color: var(--vp-c-bg-alt);
+  min-width: 0;
+  padding: 0.55rem 0.7rem;
+  border-radius: 0.4rem;
   color: inherit;
   text-decoration: none;
-  transition: border-color 0.15s, background-color 0.15s;
 }
 
+.vp-site-search-result.is-active .vp-site-search-result-link,
 .vp-site-search-result-link:hover,
 .vp-site-search-result-link:focus-visible {
-  border-color: var(--vp-c-brand-1);
-  background-color: var(--vp-c-bg);
+  background-color: var(--vp-c-bg-alt);
 }
 
 .vp-site-search-result-title {
-  font-size: 0.95rem;
+  font-size: 0.9rem;
   color: var(--vp-c-text-1);
   min-width: 0;
   overflow: hidden;
@@ -74,11 +178,58 @@
   white-space: nowrap;
 }
 
+.vp-site-search-result-title mark {
+  background: none;
+  color: var(--vp-c-brand-1);
+  font-weight: 600;
+}
+
 .vp-site-search-result-category {
   flex-shrink: 0;
   font-size: 0.75rem;
   color: var(--vp-c-text-2);
   white-space: nowrap;
+}
+
+.vp-site-search-result-open {
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 2rem;
+  color: var(--vp-c-text-2);
+  text-decoration: none;
+  border-radius: 0.4rem;
+}
+
+.vp-site-search-result-open:hover {
+  background-color: var(--vp-c-bg-alt);
+  color: var(--vp-c-brand-1);
+}
+
+.vp-site-search-hints {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.9rem;
+  padding: 0.5rem 0.9rem;
+  border-top: 1px solid var(--vp-c-divider);
+  font-size: 0.75rem;
+  color: var(--vp-c-text-2);
+}
+
+.vp-site-search-hints kbd {
+  padding: 0.1rem 0.35rem;
+  margin-right: 0.15rem;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 0.25rem;
+  background-color: var(--vp-c-bg-alt);
+  font-size: 0.7rem;
+}
+
+@media (max-width: 30rem) {
+  .vp-site-search-hints {
+    display: none;
+  }
 }
 
 /* The shared content-card styles are also used by the blog. Keep the compact

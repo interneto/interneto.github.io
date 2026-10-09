@@ -19,7 +19,7 @@ const db = getDb(':memory:')
 importCsv(db, csv, { runAt: '2026-01-01T00:00:00.000Z' })
 
 const outputDir = fs.mkdtempSync(path.join(os.tmpdir(), 'export-md-test-'))
-const written = exportMarkdown(db, outputDir)
+const { written, anchorsByCategory } = exportMarkdown(db, outputDir)
 db.close()
 
 assert.ok(written.includes('ai-tools-and-services.md'))
@@ -33,6 +33,8 @@ assert.equal(
   multiSourceLine,
   '- [Multi Source Tool](https://example.org/) / [🔗](https://github.com/z/zzz), [🔗](https://github.com/a/aaa)'
 )
+
+assert.equal(anchorsByCategory['ai-tools-and-services']['AI Apps'], 'ai-apps')
 
 fs.rmSync(outputDir, { recursive: true, force: true })
 console.log('export-markdown.test.js: PASS')
