@@ -3477,6 +3477,28 @@
         "windows_winget": null
       }
     },
+    "pi": {
+      "name": "Pi",
+      "category": "development",
+      "subcategory": "AI Assistant",
+      "package_manager": {
+        "linux_arch_aur": "pi-coding-agent-bin",
+        "linux_arch_pacman": null,
+        "linux_debian_apt": null,
+        "linux_fedora_rpm": null,
+        "linux_gentoo_emerge": null,
+        "linux_flatpak": null,
+        "linux_snap": null,
+        "freebsd_pkg": null,
+        "macos_brew": "pi-coding-agent",
+        "unix_nix_env": "github:earendil-works/pi/stable",
+        "windows_winget": "EarendilWorks.pi"
+      },
+      "manual_install": {
+        "unix": "curl -fsSL https://pi.dev/install.sh | sh",
+        "windows": "powershell -c \"irm https://pi.dev/install.ps1 | iex\""
+      }
+    },
     "pi-hole": {
       "name": "Pi-hole",
       "category": "system-administration",
