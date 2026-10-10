@@ -8,7 +8,8 @@ roadmap/
 .serena/
 z-add/
 links/interneto-links.csv
-links/interneto-links.htm
+links/interneto-links.html
+links/interneto-links-nsfw.html
 data/bookmarks.db
 nsfw-content.md
 
@@ -26,3 +27,4 @@ links/raindrop-state.json
 
 # Local secrets (RAINDROP_TOKEN for pnpm db:fetch)
 .env
+
