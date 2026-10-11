@@ -9,6 +9,15 @@
         "ios_pkg": ""
       }
     },
+    "airplanes-live": {
+      "name": "airplanes.live",
+      "category": "travel-and-location",
+      "subcategory": "Aircraft Tracking",
+      "package_manager": {
+        "android_pkg": "eu.darken.apl",
+        "ios_pkg": ""
+      }
+    },
     "aliexpress": {
       "name": "AliExpress",
       "category": "business-and-commerce",
@@ -27,6 +36,15 @@
         "ios_pkg": "anatomy-learning-3d-anatomy/id1593953398"
       }
     },
+    "antennapod": {
+      "name": "AntennaPod",
+      "category": "audio-and-music",
+      "subcategory": "Podcast Player",
+      "package_manager": {
+        "android_pkg": "de.danoeh.antennapod",
+        "ios_pkg": ""
+      }
+    },
     "authenticator": {
       "name": "Authenticator",
       "category": "os-and-utilities",
@@ -36,6 +54,15 @@
         "ios_pkg": "google-authenticator/id388497605"
       }
     },
+    "avocook": {
+      "name": "AvoCook",
+      "category": "home-and-family",
+      "subcategory": "Recipes",
+      "package_manager": {
+        "android_pkg": "app.avocook.mobile",
+        "ios_pkg": "avocook/id6769012665"
+      }
+    },
     "bbva": {
       "name": "BBVA",
       "category": "money-and-finance",
@@ -43,6 +70,15 @@
       "package_manager": {
         "android_pkg": "com.bbva.bbvacontigo",
         "ios_pkg": "bbva-spain/id325813155"
+      }
+    },
+    "bend": {
+      "name": "Bend: Stretching & Flexibility",
+      "category": "health-and-fitness",
+      "subcategory": "Fitness",
+      "package_manager": {
+        "android_pkg": "com.bowerydigital.bend",
+        "ios_pkg": "bend-stretching-flexibility/id1513988468"
       }
     },
     "binary-eye": {
@@ -79,6 +115,15 @@
       "package_manager": {
         "android_pkg": "ch.publisheria.bring",
         "ios_pkg": "bring-shopping-list-recipes/id580669177"
+      }
+    },
+    "car-catalog": {
+      "name": "Car Catalog",
+      "category": "education-and-reference",
+      "subcategory": "Automotive",
+      "package_manager": {
+        "android_pkg": "com.catalog.cars",
+        "ios_pkg": "car-catalog-find-your-drive/id6760793128"
       }
     },
     "carpeta-ciudadana": {
@@ -268,6 +313,15 @@
       "package_manager": {
         "android_pkg": "org.futo.inputmethod.latin.playstore",
         "ios_pkg": ""
+      }
+    },
+    "gemini": {
+      "name": "Google Gemini",
+      "category": "development",
+      "subcategory": "AI Assistant",
+      "package_manager": {
+        "android_pkg": "com.google.android.apps.bard",
+        "ios_pkg": "google-gemini/id6477489729"
       }
     },
     "github": {
@@ -657,6 +711,15 @@
         "ios_pkg": "obsidian-connected-notes/id1557175442"
       }
     },
+    "opengym": {
+      "name": "openGym",
+      "category": "health-and-fitness",
+      "subcategory": "Fitness",
+      "package_manager": {
+        "android_pkg": "ch.duartesantos.opengym",
+        "ios_pkg": ""
+      }
+    },
     "open-nutrition-tracker": {
       "name": "OpenNutriTracker",
       "category": "health-and-fitness",
@@ -828,6 +891,24 @@
         "ios_pkg": ""
       }
     },
+    "signal": {
+      "name": "Signal",
+      "category": "social-and-communications",
+      "subcategory": "Messaging",
+      "package_manager": {
+        "android_pkg": "org.thoughtcrime.securesms",
+        "ios_pkg": "signal-private-messenger/id874139669"
+      }
+    },
+    "simkl": {
+      "name": "Simkl Lists",
+      "category": "video-and-movies",
+      "subcategory": "Tracking",
+      "package_manager": {
+        "android_pkg": "com.simkl.lists",
+        "ios_pkg": "simkl-lists-tv-anime-movies/id1229691035"
+      }
+    },
     "simplex-chat": {
       "name": "SimpleX",
       "category": "social-and-communications",
@@ -945,6 +1026,15 @@
         "ios_pkg": ""
       }
     },
+    "thunderbird": {
+      "name": "Thunderbird",
+      "category": "social-and-communications",
+      "subcategory": "Email",
+      "package_manager": {
+        "android_pkg": "net.thunderbird.android",
+        "ios_pkg": ""
+      }
+    },
     "ticktick": {
       "name": "TickTick",
       "category": "office-and-productivity",
@@ -978,7 +1068,7 @@
       "subcategory": "",
       "package_manager": {
         "android_pkg": "tv.trakt.trakt",
-        "ios_pkg": ""
+        "ios_pkg": "trakt-tv-time-to-watch/id1514873602"
       }
     },
     "vlc": {
