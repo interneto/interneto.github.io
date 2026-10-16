@@ -1594,12 +1594,12 @@ description: Search engines, web directories, software directories, corporations
 - [DomainTools](https://www.domaintools.com/)
 - [IQWhois](https://iqwhois.com/)
 - [JsonWhois](https://jsonwhois.com/)
+- [NetAPI](https://netapi.com/) — successor of ZoneFiles
 - [Rapid7 Open Data](https://opendata.rapid7.com/)
 - [TLD-List](https://tld-list.com/)
 - [University Domains List](https://github.com/Hipo/university-domains-list)
 - [Who Is Data Center](https://whoisdatacenter.com/)
 - [WhoisXML API](https://all-registered-domains.whoisxmlapi.com/)
-- [ZoneFiles](https://zonefiles.io/)
 
 #### Blocklist Links
 - [1Hosts](https://o0.pages.dev/) — World's most advanced DNS filter-/blocklists!
