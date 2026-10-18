@@ -179,6 +179,18 @@ Tree first, bookmarks second, one subtree at a time.
     - `Oracle Films` (oraclefilms.com) — domain resolves and redirects to itself over https, but serves 404 either way. Looks genuinely gone; no replacement found.
     - The `roble.pntic.mec.es/~tvirgos` page (an old Spanish free-hosting math page) — DNS/connection failure, likely gone for good.
     - Wikipedia's `List_of_wealthiest_historical_figures` — confirmed via Wikipedia's own API that the title no longer exists, not even as a redirect (genuinely deleted, not renamed). A same-sounding title (`List of wealthiest non-inflated historical figures`) turned out to be an unrelated redirect to `The World's Billionaires` — checked its wikitext directly before ruling it out, not just the page summary. No real successor found; left broken rather than guess.
+- **New-links pass, 2026-10-19.** Scope: everything created since 2026-10-06 (the previous pass) plus `Unsorted`; the `·` subtree (`GTD`, `job-hunting`, `read`, `watch`, `wishlist` and its children) is off-limits and was not read or moved. 10 bookmarks moved, all re-fetched and confirmed:
+  - `Oneamour` ×2 and `Nexu App` (dating/social, were Unsorted) → `Social Network` (19045221).
+  - `Character Creator` (3D character software, Unsorted) → `3D Render` (23497304), next to the other 3D tools.
+  - `WebAssign` (online homework platform, Unsorted) → `Classroom` (19044913), under `Learning Platforms`.
+  - `microsoft/BitNet` (inference framework for 1-bit LLMs) sat loose in the `Model Serving` umbrella → `AI Serving Engines` (54843299), next to llama.cpp/vLLM.
+  - `iOfficeAI/OfficeCLI` (an Office suite built for agents to drive) → `Skills & Plugins` (39593158); it's an agent tool, not an agent framework.
+  - `Context Mode: The Control Plane` (context-mode.com) → `Skills & Plugins`, next to its GitHub repo `mksglu/context-mode` which was already there (same project saved twice; co-located, neither deleted).
+  - `TinyHumans` (open-source AI agents, same company as `OpenHuman` already in `Agent Frameworks & UIs`) was in `App Development` → `Agent Frameworks & UIs` (19045021).
+  - `Doory` (design tool, "Design anything") was in `Presentation Program` → `Design Software` (19044949), its parent. The `Presentation Program` collection also holds design tools (`Womp`), so the collection name is probably the real problem; left for the maintainer.
+  - **Left in Unsorted, uncertain (hard rule 6):** `Archivo PSOE` (a watchdog archive about one party; could be `Spanish Political Parties` 19046372 or News, maintainer's call) and `ITED: Interaction, Technology and Education` (the site doesn't say whether it's a course provider, a research group or a platform). **The `REVIEW` collection (75353467) no longer exists** — the runbook's id returns nothing — so these stay in Unsorted rather than creating a new REVIEW folder unasked.
+  - Not checked: `find_misplaced_bookmarks` and `find_mistagged_bookmarks` are Pro-only on this account, so the "improvable" pass was limited to loose items in umbrella folders and items visibly in the wrong collection by title/URL.
+  - Possible duplicates for the maintainer, not merged: `REA — Reverse Engineering for Your Coding Agent` (rea.tools) and `REA — Reverse Engineer Anything` (morluto.github.io/rea) are both in `Skills & Plugins`, and `Oneamour` is saved twice (`/matches` and `/profile`).
 
 ## Test state
 
