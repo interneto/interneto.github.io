@@ -51,7 +51,7 @@ These are NOT separate top-level pages — they live inside the Multimedia markd
 
 ### Key design decisions
 
-- **AI is a technology, not a function.** An AI code editor goes in `Development`, not `AI Tools & Services`. AI only wins when it *is* the purpose (chatbots, generators, model platforms).
+- **AI is a technology, not a function.** AI wins when it *is* the purpose (chatbots, generators, model platforms, AI agents). General-purpose AI coding agents and assistants (Claude Code, Cursor, Copilot, Aider…) stay in `AI Tools & Services` because they are generic tools across languages and stacks, not pure developer tooling. Tools that are plain developer infrastructure (a language's IDE, build system, framework) still go in `Development`.
 - **Gaming unified.** Games, launchers, emulators, and gaming utilities all live under `Gaming`.
 - **Multimedia groups media types.** Audio, photos, and video share a parent because users browse media content together. News & Books is separate — text is not multimedia.
 - **OS & Utilities is broad.** Absorbs CD/DVD tools, system tools, and hardware utilities that were separate in the old 24-category standard.
