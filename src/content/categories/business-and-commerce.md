@@ -5,7 +5,7 @@ description: Stores, marketplaces, product research, and resale
 
 # Business & Commerce
 
-**Total Bookmarks:** 5115
+**Total Bookmarks:** 5118
 
 
 ## Corporation
@@ -5563,6 +5563,7 @@ description: Stores, marketplaces, product research, and resale
 - [Built In](https://builtin.com/jobs) — Jobs
 - [Cabildo Emplea](https://cabildoemplea.es/)
 - [Career Vault](https://www.careervault.io/)
+- [career-ops](https://career-ops.org/) / <a href="https://github.com/santifer/career-ops"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — AI-powered job search command center
 - [Cleverism](https://www.cleverism.com/)
 - [Contratación del Estado](https://contrataciondelestado.es/wps/portal/plataforma)
 - [CORNERJOB](https://www.cornerjob.com/es)
@@ -5597,7 +5598,9 @@ description: Stores, marketplaces, product research, and resale
 - [List of Jobs](https://www.thebalancecareers.com/salaries-for-jobs-a-z-list-2063402)
 - [List of over 12,000 Careers](https://www.careerplanner.com/ListOfCareers.cfm)
 - [Lists Best Jobs Rankings](https://money.usnews.com/careers/best-jobs/rankings)
+- [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) — The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
 - [Manpower](https://www.manpower.es/)
+- [Match between techies and tech jobs](https://www.joppy.me/) — Joppy
 - [Monster Jobs](https://www.monster.com/) — Job Search, Career Advice & Hiring Resources
 - [Noticiastrabajo.es](https://www.noticiastrabajo.es/)
 - [Ocupa2](https://ocupa2.com/) — Empleo Inteligente

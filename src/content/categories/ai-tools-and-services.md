@@ -5,37 +5,44 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 
 # AI Tools & Services
 
-**Total Bookmarks:** 758
+**Total Bookmarks:** 757
 
 
 ## Agents & Automation
 
+### Workflow Automation
+- ⭐ **[n8n.io](https://n8n.io/)** / <a href="https://github.com/n8n-io/n8n"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — a powerful workflow automation tool
+- [Bardeen](https://www.bardeen.ai/) — Find and reach leads no one else can
+- [Clarilo AI](https://www.clarilo-ai.com/) — AI Executive Assistant | 900+ Integrations, Zero Setup
+- [Dify](https://dify.ai/) / <a href="https://github.com/langgenius/dify/"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Leading Agentic Workflow Builder
+- [FlowHunt](https://www.flowhunt.io/)
+- [Flowise](https://flowiseai.com/) / <a href="https://github.com/FlowiseAI/Flowise"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Build AI Agents, Visually
+- [Gumloop](https://www.gumloop.com/) — AI Automation Framework
+- [Make](https://www.make.com/en) — Work the way you imagine
+- [Relevance AI](https://relevanceai.com/) — AI Agents for Sales & GTM Teams
+- [Sim](https://www.sim.ai/) / <a href="https://github.com/simstudioai/sim"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — The AI Workspace | Build, Deploy & Manage AI Agents
+- [viaSocket](https://viasocket.com/) — AI Workflow Automation Tool
+- [Zapier](https://zapier.com/) — Automation that moves you forward
+
 ### Agent Frameworks & UIs
+- ⭐ **[AutoGPT](https://agpt.co/)** / <a href="https://github.com/Significant-Gravitas/AutoGPT"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - ⭐ **[AX](https://agentexecutor.io/)** / <a href="https://github.com/google/ax"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - ⭐ **[Blackbox](https://www.blackbox.ai/)** — The high-trust platform for frontier inference
-- ⭐ **[n8n.io](https://n8n.io/)** / <a href="https://github.com/n8n-io/n8n"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — a powerful workflow automation tool
 - ⭐ **[Paperclip](https://paperclip.ing/)** / <a href="https://github.com/paperclipai/paperclip"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Open-source orchestration for zero-human companies
-- ⭐ **[Pi Coding Agent](https://pi.dev/)**
 - [agent-substrate/substrate](https://github.com/agent-substrate/substrate) — Agent Substrate: the core system
 - [AgentCraft](https://www.getagentcraft.com/) — RTS interface for agent orchestration
+- [AgenticOS](https://www.hyper.space/login) — The Operating System for Autonomous AI Agents
 - [AgentMetal](https://agentmetal.dev/) — the infra provider your agent can use itself
+- [agiresearch/AIOS](https://github.com/agiresearch/AIOS) — AIOS: LLM Agent Operating System
 - [AionUi](https://www.aionui.com/en/) — One desktop. Your AI agents, actually coworking.
 - [ajsahni/agents-office](https://github.com/ajsahni/agents-office) — Agents Office v3 (Beta) — a headless office where AI agents do real work
 - [AlphaCode](https://alphacode.ai/en)
 - [Amazon Bedrock](https://aws.amazon.com/bedrock/) — Build genAI applications and agents at production scale – AWS
 - [androoAGI/starnet](https://github.com/androoAGI/starnet) — A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.
 - [Arcanna.ai](https://www.arcanna.ai/) — AI-Assisted Cybersecurity
-- [Bardeen](https://www.bardeen.ai/) — Find and reach leads no one else can
-- [browser-use/video-use](https://github.com/browser-use/video-use) — Edit videos with coding agents
 - [Buzz](https://buzz.xyz/) / <a href="https://github.com/block/buzz"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Your people, your agents, your project — all in one place
 - [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) — The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
-- [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) — World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
-- [career-ops](https://career-ops.org/) / <a href="https://github.com/santifer/career-ops"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — AI-powered job search command center
-- [Cerebras](https://www.cerebras.ai/) — Generate apps in 1 second
-- [Cerewro](https://cerewro.com/) — Inteligencia artificial para Windows — agente IA multimodal
-- [ChatGPT Agent](https://chatgpt.com/features/agent/)
-- [Clarilo AI](https://www.clarilo-ai.com/) — AI Executive Assistant | 900+ Integrations, Zero Setup
-- [Claude Cowork](https://www.anthropic.com/product/claude-cowork) — Anthropic’s agentic AI for knowledge work \ Anthropic
+- [CLI-Anything Hub](https://clianything.cc/) / <a href="https://github.com/HKUDS/CLI-Anything"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Agent-Friendly CLI Registry
 - [cloudflare/computer](https://github.com/cloudflare/computer) — Give your agent a computer 👾
 - [Cognitum](https://cognitum.one/) / <a href="https://github.com/ruvnet/ruflo"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — AI Agent Platform — Seed Device, MCP Tools & Developer SDK
 - [CopilotKit](https://www.copilotkit.ai/) — Bring Users and AI Agents together inside real apps
@@ -43,107 +50,61 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [DeepL Agentic AI for businesses](https://www.deepl.com/en/ai-labs/agent)
 - [DeepSeek Harness developer preview](https://deepseek.com/harness/en/) / <a href="https://github.com/deepseek-ai/deepseek-harness"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Everything is a plugin
 - [DeerFlow](https://deerflow.tech/) / <a href="https://github.com/bytedance/deer-flow"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
-- [Eigent AI](https://www.eigent.ai/) / <a href="https://github.com/eigent-ai/eigent"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Eigent Open Source Cowork: the open source cowork desktop
-- [Elicit](https://elicit.com/) — The AI Research Assistant
-- [Eliza OS](https://www.elizaos.ai/) / <a href="https://github.com/elizaos"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
-- [Eney](https://macpaw.com/eney) — AI Assistant for Mac | Smarter Work on macOS
 - [ESP-Claw](https://esp-claw.com/en/) / <a href="https://github.com/espressif/esp-claw"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Chat-as-Coding Edge Agent Framework for IoT | by Espressif
 - [espressif/esp-claw](https://github.com/espressif/esp-claw) — ESP-Claw, a "Chat Coding" AI agent framework for IoT devices · GitHub
 - [EvoMap](https://evomap.ai/) / <a href="https://github.com/EvoMap/evolver"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — AI Self-Evolution Infrastructure
-- [FlowHunt](https://www.flowhunt.io/)
 - [Flue](https://flueframework.com/) — The Open Agent Framework
-- [Freebuff](https://freebuff.com/) / <a href="https://github.com/CodebuffAI/freebuff"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — the free coding agent (free Claude Code, Codex, Cursor & Lovable alternative)
-- [G0DM0DƎ](https://godmod3.ai/)
 - [GitHub](https://github.com/router-for-me/CLIProxyAPI) — router-for-me/CLIProxyAPI · GitHub
-- [Gumloop](https://www.gumloop.com/) — AI Automation Framework
 - [Harness](https://www.harness.io/) / <a href="https://github.com/harness"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — AI for DevOps, Testing, AppSec, and Cost Optimization
-- [hax](https://usehax.dev/) — a minimalist, terminal-native coding agent
 - [iamlukethedev/Hermes3D](https://github.com/iamlukethedev/Hermes3D) — Hermes3D is an open source 3D engine built on Hermes Agents for creating games, simulations, and high-performance 3D applications.
-- [jasperan/picooraclaw](https://github.com/jasperan/picooraclaw) — PicoClaw that works with Oracle AI Database
+- [LangChain](https://www.langchain.com/)
 - [Lexfi · The AI Research Operating System for Institutional Investors](https://www.lexfi.ai/)
-- [LifeOS](https://ourlifeos.ai/) / <a href="https://github.com/danielmiessler/LifeOS"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Moving You From Current to Ideal State
 - [LobeHub](https://lobehub.com/) / <a href="https://github.com/lobehub/lobehub"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Your Chief Agent Operator
 - [lukapiskorec/craftbot](https://github.com/lukapiskorec/craftbot) — CraftBot is an architect AI agent. It interprets design briefs, grounds its thinking in domain knowledge through ingesting documents, images and other references, and outputs Python code that procedurally defines a building design.
-- [Make](https://www.make.com/en) — Work the way you imagine
 - [Microsoft UFO](https://microsoft.github.io/UFO/) / <a href="https://github.com/microsoft/UFO"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Weaving the Digital Agent Galaxy
+- [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) — Integrate cutting-edge LLM technology quickly and easily into your apps
 - [minitap](https://www.minitap.ai/) — Autonomous QA that keeps mobile teams shipping fast
+- [Mirofish](https://mirofish-demo.pages.dev/) / <a href="https://github.com/666ghj/MiroFish"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Predict Anything
 - [Mission Control](https://mc.builderz.dev/) / <a href="https://github.com/builderz-labs/mission-control"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Open-Source AI Agent Orchestration Dashboard
 - [MLflow](https://mlflow.org/#core-concepts) / <a href="https://github.com/mlflow/mlflow"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Open Source AI Platform for Agents, LLMs & Models
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) — A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 - [Muse AI by Meta](https://muse.ai/)
-- [MyShell AI](https://myshell.ai/) — Build, Share, and Own AI Agent
 - [NVIDIA NeMo](https://www.nvidia.com/en-us/ai-data-science/products/nemo/) / <a href="https://github.com/NVIDIA-NeMo/NeMo"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Build, monitor, and optimize AI agents
 - [NVIDIA OpenShell](https://www.nvidia.com/en-us/ai/openshell/) / <a href="https://github.com/NVIDIA/OpenShell"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Open, Secure Runtime for AI Agents
-- [openclaude](https://openclaude.gitlawb.com/) / <a href="https://github.com/Gitlawb/openclaude"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — open-source coding agent CLI for any model
-- [OpenHuman](https://tinyhumans.ai/openhuman) / <a href="https://github.com/tinyhumansai"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — open source personal AI, local-first
 - [OpenRig](https://openrig.dev/) — Talk to one agent. Build with a whole team.
 - [Paca](https://paca-ai.org/) / <a href="https://github.com/Paca-AI/paca"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Humans and AI agents, one Scrum team
-- [Paseo](https://paseo.sh/) / <a href="https://github.com/getpaseo/paseo"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Run Claude Code, Codex, Copilot, OpenCode from anywhere
-- [Perplexity](https://www.perplexity.ai/personal-computer) — Personal Computer for Mac
-- [PicoClaw](https://picoclaw.io/) / <a href="https://github.com/sipeed/picoclaw"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Ultra-Lightweight AI Assistant in Go for Raspberry Pi, Linux & RISC-V
 - [pinchtab/pinchtab](https://github.com/pinchtab/pinchtab) — High-performance browser automation bridge and multi-instance orchestrator with advanced stealth injection and real-time dashboard.
 - [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) — A self-improving RLM agent for coding workflows and long-running autonomous tasks
 - [Proactor AI](https://proactor.ai/)
+- [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) — Agent framework and applications built upon Qwen=2.0, featuring Function Calling, Code Interpreter, RAG, and Chrome extension.
 - [Recall.ai](https://www.recall.ai/) — The API for Meeting Recording
-- [Relevance AI](https://relevanceai.com/) — AI Agents for Sales & GTM Teams
-- [Replit Agent](https://replit.com/products/agent)
 - [repowise](https://www.repowise.dev/) / <a href="https://github.com/repowise-dev/repowise"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — codebase intelligence that compounds AI velocity
 - [Rowboat](https://www.rowboatlabs.com/) / <a href="https://github.com/rowboatlabs/rowboat"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Your AI coworker, with memory
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) — 🌊 The leading agent orchestration platform for Claude
-- [Sana AI](https://sana.ai/) — Meet your AI assistant for work
 - [Semantica](https://getsemantica.ai/) / <a href="https://github.com/semantica-agi/semantica"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — AI Context Graphs & Decision Intelligence
 - [SocialSweep](https://socialsweep.ai/) — Your AI-Powered Search Engine For Your Network
+- [StarNet](https://starnetos.com/) / <a href="https://github.com/androoAGI/starnet"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Give your AI a world to work in
 - [SuperAGI](https://superagi.com/) — Build, Manage & Run Autonomous AI Agents
-- [SuperHQ](https://superhq.ai/) — Run AI coding agents in real sandboxes
 - [Swarms AI](https://www.swarms.ai/) / <a href="https://github.com/kyegomez/swarms"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Multi-Agent Framework & Agent Marketplace
-- [TinyHumans](https://tinyhumans.ai/) — open source AI agents that work for you
 - [Tobira](https://tobira.ai/) — AI Agent Network
 - [Univer](https://univer.ai/) / <a href="https://github.com/dream-num/univer"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
-- [Venice](https://venice.ai/) — Private AI for Unlimited Creative Freedom
-- [viaSocket](https://viasocket.com/) — AI Workflow Automation Tool
-- [Vibe-Trading Wiki](https://vibetrading.wiki/home/) / <a href="https://github.com/HKUDS/Vibe-Trading"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
-- [Zapier](https://zapier.com/) — Automation that moves you forward
-- [zerostack](https://gi-dellav.github.io/zerostack/) — minimal coding agent
+- [yuruotong1/autoMate](https://github.com/yuruotong1/autoMate) — Like Manus, Computer Use Agent(CUA) and Omniparser, we are computer-using agents.AI-driven local automation assistant that uses natural language to make computers work by themselves
 
 ### Coding Assistant
 - ⭐ **[Continue • Quality control for your software factory](https://www.continue.dev/)** / <a href="https://github.com/continuedev/continue"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - ⭐ **[GitHub Copilot · Your AI pair programmer](https://github.com/features/copilot/)** / <a href="https://github.com/github/copilot-cli"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>, <a href="https://github.com/microsoft/vscode-copilot-chat"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
-- ⭐ **[Heretic](https://heretic-project.org/)** / <a href="https://github.com/p-e-w/heretic"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>, [🔗](https://heretic-project.org/) — Fully automatic censorship removal for language models
 - [0din](https://0din.ai/) — The GenAI Bug Bounty Program
-- [a0.dev](https://a0.dev/) — Create Mobile Apps with AI
 - [AI2sql](https://www.ai2sql.io/)
 - [aider is AI pair programming in your terminal](https://aider.chat/)
-- [Air](https://air.dev/) — Multitask with agents, stay in control
-- [All Hands AI](https://www.all-hands.dev/)
 - [Augment Code](https://www.augmentcode.com/)
-- [Blitzy](https://blitzy.com/) — AI-Powered Autonomous Software Development Platform
 - [Codeium · Free AI Code Completion & Chat](https://codeium.com/)
 - [CodeRabbit](https://www.coderabbit.ai/) — AI Code Reviews
 - [CodiumAI](https://www.qodo.ai/) — Meaningful Code Tests for Busy Devs
 - [Cody](https://sourcegraph.com/cody) — AI coding assistant
-- [DeepSeek TUI · 深度求索 终端](https://deepseek-tui.com/en) / <a href="https://github.com/Hmbown/DeepSeek-TUI"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
-- [Devin](https://devin.ai/)
-- [ECC Tools](https://ecc.tools/) — Open Agent Harness System for GitHub App Automation and Security
-- [EleutherAI](https://www.eleuther.ai/)
-- [Emdash](https://www.emdash.sh/) / <a href="https://github.com/generalaction/emdash"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
-- [Emergent](https://app.emergent.sh/landing/) — Build Apps with AI
 - [emilwallner/Screenshot-to-code · GitHub](https://github.com/emilwallner/Screenshot-to-code)
-- [Gemini CLI](https://geminicli.com/) / <a href="https://github.com/google-gemini/gemini-cli"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Build, debug & deploy with AI
 - [Gemini Code Assist](https://codeassist.google/) — AI coding assistant
-- [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) — "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
-- [InsForge](https://insforge.dev/) / <a href="https://github.com/InsForge/InsForge"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Give agents everything they need to ship fullstack apps
-- [Interview Coder](https://www.interviewcoder.co/) — AI Assistant for Technical Interviews
-- [Kiro](https://kiro.dev/) — The AI IDE for prototype to production
-- [Legasite](https://www.legasite.io/) — Save a Day on Every Project
 - [Mira](https://miracode.ai/) / <a href="https://github.com/miracodeai/mira"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Code review, at the speed of merge.
-- [Mistral AI](https://mistral.ai/products/vibe) — AI coding agents for enterprises
-- [new.website](https://new.website/) — Build Websites with AI
-- [OpenViking](https://openviking.ai/) / <a href="https://github.com/volcengine/OpenViking"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Context File System for AI Agents
 - [Postgres Sandbox](https://database.build/)
-- [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) — The first real AI developer
-- [Qoder](https://qoder.com/) — The Agentic Coding Platform
-- [Sleek](https://sleek.design/)
-- [Solo](https://soloist.ai/) — Free AI Website Creator
 - [Sourcegraph](https://sourcegraph.com/) — Code Intelligence Platform
 - [Sourcery.ai](https://sourcery.ai/)
 - [stashd.ai](https://www.stashd.ai/) — Your code snippets, organized and accessible
@@ -151,67 +112,30 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [Tabby](https://www.tabbyml.com/) / <a href="https://github.com/TabbyML/tabby"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Opensource, self-hosted AI coding assistant
 - [Tabnine](https://www.tabnine.com/) — AI assistant for software developers
 - [Vizards/deepseek-v4-for-copilot](https://github.com/Vizards/deepseek-v4-for-copilot) — Pick DeepSeek V4 from the Copilot Chat model picker — and keep everything else Copilot already gives you.
-- [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) — OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more
 
-### Skills & Plugins
-- ⭐ **[ClaudePluginHub](https://www.claudepluginhub.com/)** — The Largest Claude Code Plugin Directory
-- ⭐ **[Vercel Skills](https://skills.sh/)** / <a href="https://github.com/vercel-labs/skills"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — The Open Agent Skills Ecosystem
-- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) — Production-grade engineering skills for AI coding agents.
-- [Agent Skills Overview](https://agentskills.io/home) / <a href="https://github.com/agentskills/agentskills"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Agent Skills
-- [ai-boost/awesome-prompts · GitHub](https://github.com/ai-boost/awesome-prompts/tree/main)
-- [alonw0/web-asset-generator](https://github.com/alonw0/web-asset-generator) — Claude skill to generate favicons, app icons, and social media images from logos, text, or emojis. Supports emoji suggestions, validation, and framework auto-integration
-- [Anatomy · A skill for Claude Code](https://skills.wheresryan.sh/anatomy) / <a href="https://github.com/wheresryan22/anatomy"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
-- [anthropics/claude-plugins-official · GitHub](https://github.com/anthropics/claude-plugins-official)
-- [anthropics/financial-services](https://github.com/anthropics/financial-services)
-- [anthropics/skills](https://github.com/anthropics/skills) — Public repository for Agent Skills
-- [Archify](https://tt-a1i.github.io/archify/) / <a href="https://github.com/tt-a1i/archify"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Technical Diagrams from Plain English
-- [asgeirtj/system_prompts_leaks · GitHub](https://github.com/asgeirtj/system_prompts_leaks)
-- [autoskills](https://www.autoskills.sh/) / <a href="https://github.com/midudev/autoskills"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Auto-install best AI skills for your project
-- [Awesome ChatGPT Prompts](https://prompts.chat/) / <a href="https://github.com/f/prompts.chat"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
-- [ayghri/i-have-adhd · GitHub](https://github.com/ayghri/i-have-adhd)
-- [BuilderIO/skills](https://github.com/BuilderIO/skills) — Skills for coding agents
-- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) — 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
-- [Caveman](https://caveman.so/) / <a href="https://github.com/juliusbrussee/caveman"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — the token-efficient stack for agent-native development
-- [Claude Code Skills, Plugins & MCP Servers](https://claudemarketplaces.com/)
-- [Claude Directory](https://www.claudedirectory.org/) / <a href="https://github.com/tmcpa/claudedirectory"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Community Alternative to claude.ai/directory
-- [ClawHub](https://clawhub.ai/) / <a href="https://github.com/openclaw/clawhub"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
-- [Context Mode](https://context-mode.com/) / <a href="https://github.com/mksglu/context-mode"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — The Control Plane for Coding Agents
-- [Diagram Design](https://diagramdesign.dev/) / <a href="https://github.com/cathrynlavery/diagram-design"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — editorial diagrams your designer won't hate
-- [foryourhealth111-pixel/Vibe-Skills · GitHub](https://github.com/foryourhealth111-pixel/Vibe-Skills)
-- [friuns2/BlackFriday-GPTs-Prompts · GitHub](https://github.com/friuns2/BlackFriday-GPTs-Prompts)
-- [garrytan/gstack](https://github.com/garrytan/gstack/tree/main) — Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
-- [getdesign.md](https://getdesign.md/) — DESIGN.md Collection for AI Agents
-- [GitHub Copilot Chat Cookbook](https://docs.github.com/copilot/tutorials/copilot-chat-cookbook) — GitHub Docs
-- [google/skills](https://github.com/google/skills) — Agent Skills for Google products and technologies
-- [guanyang/antigravity-skills · GitHub](https://github.com/guanyang/antigravity-skills)
-- [hashgraph-online/awesome-codex-plugins · GitHub](https://github.com/hashgraph-online/awesome-codex-plugins)
-- [hivecommons/spektacular](https://github.com/hivecommons/spektacular) — Spec-driven development for AI coding agents. Spektacular helps you to generate specifications, the plan, and finally generate the code. Agent-agnostic and pluggable: Claude Code, Bob, Codex
-- [HOL Registry](https://hol.org/registry/plugins) — Claude Plugins, Codex Plugins, Grok Plugins, Gemini & MCP Plugins
-- [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) — OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.
-- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) — Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI
-- [Learn Prompting](https://learnprompting.org/) — Your Guide to Communicating with AI
-- [Leonxlnx/taste-skill · GitHub](https://github.com/Leonxlnx/taste-skill)
-- [linexjlin/GPTs · GitHub](https://github.com/linexjlin/GPTs)
-- [LouisShark/chatgpt_system_prompt · GitHub](https://github.com/LouisShark/chatgpt_system_prompt)
-- [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) — The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
-- [mattpocock/skills](https://github.com/mattpocock/skills) — Skills for Real Engineers. Straight from my .claude directory.
-- [MiniMax-AI/skills](https://github.com/MiniMax-AI/skills)
-- [mksglu/context-mode](https://github.com/mksglu/context-mode) — Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
-- [mvanhorn/last30days-skill · GitHub](https://github.com/mvanhorn/last30days-skill)
-- [officialskills.sh](https://officialskills.sh/) / <a href="https://github.com/VoltAgent/awesome-agent-skills"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Official Agent Skills Directory
-- [openai/skills](https://github.com/openai/skills) — Skills Catalog for Codex
-- [oso95/scroll-world](https://github.com/oso95/scroll-world) — Claude Code skill/plugin
-- [phuryn/pm-skills](https://github.com/phuryn/pm-skills) — PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
-- [ponytail](https://ponytail.dev/) / <a href="https://github.com/DietrichGebert/ponytail"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
-- [Prompt Engineering Guide](https://www.promptingguide.ai/)
-- [REA](https://morluto.github.io/rea/) / <a href="https://github.com/morluto/rea"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Reverse Engineer Anything
-- [REA](https://rea.tools/) / <a href="https://github.com/morluto/rea"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Reverse Engineering for Your Coding Agent
-- [teamchong/pxpipe](https://github.com/teamchong/pxpipe) — cut Fable 5 token usage by rendering text context as images
-- [text-to-cad](https://www.texttocad.dev/) / <a href="https://github.com/earthtojake/text-to-cad"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Give your agent CAD superpowers
-- [Wondel.ai Skills](https://skills.wondel.ai/) / <a href="https://github.com/wondelai/skills"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — 41 Business & Engineering Frameworks as AI Agent Skills
-- [zubair-trabzada/geo-seo-claude](https://github.com/zubair-trabzada/geo-seo-claude) — GEO-first SEO skill for Claude Code. Comprehensive AI search optimization for any website — citability scoring, AI crawler analysis, brand authority, schema markup, platform-specific optimization, and PDF reports. If you want learn how to sell this to real businesses, check out the skool community
+### Personal AI Assistants
+- ⭐ **[OpenClaw](https://openclaw.ai/)** / <a href="https://github.com/openclaw/openclaw"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Personal AI Assistant
+- [AnyClaw](https://www.anyclaw.dev/)
+- [Cerewro](https://cerewro.com/) — Inteligencia artificial para Windows — agente IA multimodal
+- [ChatGPT Agent](https://chatgpt.com/features/agent/)
+- [Claude Cowork](https://www.anthropic.com/product/claude-cowork) — Anthropic’s agentic AI for knowledge work \ Anthropic
+- [Eigent AI](https://www.eigent.ai/) / <a href="https://github.com/eigent-ai/eigent"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Eigent Open Source Cowork: the open source cowork desktop
+- [Eliza OS](https://www.elizaos.ai/) / <a href="https://github.com/elizaos"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Eney](https://macpaw.com/eney) — AI Assistant for Mac | Smarter Work on macOS
+- [Hermes Agent](https://hermes-agent.nousresearch.com/) / <a href="https://github.com/NousResearch/hermes-agent"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — AI Agent Framework
+- [jasperan/picooraclaw](https://github.com/jasperan/picooraclaw) — PicoClaw that works with Oracle AI Database
+- [LifeOS](https://ourlifeos.ai/) / <a href="https://github.com/danielmiessler/LifeOS"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Moving You From Current to Ideal State
+- [MyShell AI](https://myshell.ai/) — Build, Share, and Own AI Agent
+- [NanoClaw](https://nanoclaw.dev/) / <a href="https://github.com/gavrielc/nanoclaw"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Secure AI Agent for WhatsApp, Telegram & More
+- [NVIDIA NemoClaw](https://www.nvidia.com/en-us/ai/nemoclaw/) / <a href="https://github.com/NVIDIA/NemoClaw"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Deploy Safer AI Assistants with OpenClaw Safety Guardrails
+- [OpenHuman](https://tinyhumans.ai/openhuman) / <a href="https://github.com/tinyhumansai"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — open source personal AI, local-first
+- [Perplexity](https://www.perplexity.ai/personal-computer) — Personal Computer for Mac
+- [PicoClaw](https://picoclaw.io/) / <a href="https://github.com/sipeed/picoclaw"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Ultra-Lightweight AI Assistant in Go for Raspberry Pi, Linux & RISC-V
+- [Sana AI](https://sana.ai/) — Meet your AI assistant for work
+- [TinyHumans](https://tinyhumans.ai/) — open source AI agents that work for you
 
 ### Memory & RAG
+- [ai-memory](https://aimemory.sh/) / <a href="https://github.com/akitaonrails/ai-memory"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — long-term memory for AI coding agents
 - [cpacker/MemGPT · GitHub](https://github.com/cpacker/MemGPT)
 - [Future-House/paper-qa](https://github.com/Future-House/paper-qa) — High accuracy RAG for answering questions from scientific documents with citations
 - [Hindsight](https://hindsight.vectorize.io/)
@@ -219,37 +143,62 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) — The memory layer for Personalized AI
 - [Memori](https://memorilabs.ai/) — The memory fabric for enterprise AI
 - [milla-jovovich/mempalace](https://github.com/milla-jovovich/mempalace) — The highest-scoring AI memory system ever benchmarked. And it's free.
+- [OpenViking](https://openviking.ai/) / <a href="https://github.com/volcengine/OpenViking"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Context File System for AI Agents
 - [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) — 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
 - [Vectorize](https://vectorize.io/) / <a href="https://github.com/vectorize-io/hindsight"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Agents That Learn From Every Conversation
 
 ### Coding Agent
-- ⭐ **[AutoGPT](https://agpt.co/)** / <a href="https://github.com/Significant-Gravitas/AutoGPT"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
-- ⭐ **[OpenClaw](https://openclaw.ai/)** / <a href="https://github.com/openclaw/openclaw"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Personal AI Assistant
 - ⭐ **[OpenCode](https://opencode.ai/)** / <a href="https://github.com/anomalyco/opencode"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — The open source AI coding agent
-- [AnyClaw](https://www.anyclaw.dev/)
+- ⭐ **[Pi Coding Agent](https://pi.dev/)**
+- [Air](https://air.dev/) — Multitask with agents, stay in control
+- [All Hands AI](https://www.all-hands.dev/)
 - [Claude Code by Anthropic](https://claude.com/product/claude-code) / <a href="https://github.com/anthropics/claude-code"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — AI Coding Agent, Terminal, IDE
 - [Cline](https://cline.bot/) / <a href="https://github.com/cline/cline"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — AI Coding, Open Source and Uncompromised
 - [Codex](https://openai.com/codex/) / <a href="https://github.com/openai/codex"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — AI Coding Partner from OpenAI
 - [Cursor](https://cursor.com/product) — Build Software with AI Agents
+- [DeepSeek TUI · 深度求索 终端](https://deepseek-tui.com/en) / <a href="https://github.com/Hmbown/DeepSeek-TUI"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [Delta](https://delta.dev/) — A Multiplayer Environment for Coding with Agents
+- [Devin](https://devin.ai/)
+- [ECC Tools](https://ecc.tools/) — Open Agent Harness System for GitHub App Automation and Security
+- [Emdash](https://www.emdash.sh/) / <a href="https://github.com/generalaction/emdash"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Freebuff](https://freebuff.com/) / <a href="https://github.com/CodebuffAI/freebuff"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — the free coding agent (free Claude Code, Codex, Cursor & Lovable alternative)
+- [Gemini CLI](https://geminicli.com/) / <a href="https://github.com/google-gemini/gemini-cli"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Build, debug & deploy with AI
 - [goose](https://goose-docs.ai/) / <a href="https://github.com/block/goose"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Your open source AI agent
-- [Hermes Agent](https://hermes-agent.nousresearch.com/) / <a href="https://github.com/NousResearch/hermes-agent"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — AI Agent Framework
+- [hax](https://usehax.dev/) — a minimalist, terminal-native coding agent
+- [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) — "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
 - [Kilo](https://kilo.ai/) / <a href="https://github.com/Kilo-Org/kilocode"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — The Open Source AI Coding Agent for VS Code, JetBrains, and your CLI
-- [Lovable](https://lovable.dev/) — Vibe Code Apps & Websites with AI, Fast
-- [NanoClaw](https://nanoclaw.dev/) / <a href="https://github.com/gavrielc/nanoclaw"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Secure AI Agent for WhatsApp, Telegram & More
-- [NVIDIA NemoClaw](https://www.nvidia.com/en-us/ai/nemoclaw/) / <a href="https://github.com/NVIDIA/NemoClaw"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Deploy Safer AI Assistants with OpenClaw Safety Guardrails
+- [Kiro](https://kiro.dev/) — The AI IDE for prototype to production
+- [Mistral AI](https://mistral.ai/products/vibe) — AI coding agents for enterprises
 - [omp](https://omp.sh/) / <a href="https://github.com/can1357/oh-my-pi"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — a coding agent with the IDE wired in
+- [openclaude](https://openclaude.gitlawb.com/) / <a href="https://github.com/Gitlawb/openclaude"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — open-source coding agent CLI for any model
 - [OpenHands](https://openhands.dev/) / <a href="https://github.com/OpenHands/OpenHands"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — The Open Platform for Cloud Coding Agents
-- [StarNet](https://starnetos.com/) / <a href="https://github.com/androoAGI/starnet"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Give your AI a world to work in
+- [Orca](https://www.onorca.dev/) / <a href="https://github.com/stablyai/orca"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — The Worktree IDE for Claude Code, Ghostty & AI Coding Agents
+- [Paseo](https://paseo.sh/) / <a href="https://github.com/getpaseo/paseo"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Run Claude Code, Codex, Copilot, OpenCode from anywhere
+- [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) — The first real AI developer
+- [Qoder](https://qoder.com/) — The Agentic Coding Platform
+- [Replit Agent](https://replit.com/products/agent)
+- [SuperHQ](https://superhq.ai/) — Run AI coding agents in real sandboxes
 - [T3 Code](https://t3.codes/) / <a href="https://github.com/pingdotgg/t3code"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [ultraworkers/claw-code · GitHub](https://github.com/ultraworkers/claw-code)
+- [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) — OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more
+- [zerostack](https://gi-dellav.github.io/zerostack/) — minimal coding agent
+
+### AI App Builders
+- [a0.dev](https://a0.dev/) — Create Mobile Apps with AI
+- [Blitzy](https://blitzy.com/) — AI-Powered Autonomous Software Development Platform
+- [Cerebras](https://www.cerebras.ai/) — Generate apps in 1 second
+- [Emergent](https://app.emergent.sh/landing/) — Build Apps with AI
+- [InsForge](https://insforge.dev/) / <a href="https://github.com/InsForge/InsForge"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Give agents everything they need to ship fullstack apps
+- [Legasite](https://www.legasite.io/) — Save a Day on Every Project
+- [Lovable](https://lovable.dev/) — Vibe Code Apps & Websites with AI, Fast
+- [new.website](https://new.website/) — Build Websites with AI
+- [Sleek](https://sleek.design/)
+- [Solo](https://soloist.ai/) — Free AI Website Creator
 
 ### MCP Servers
-- ⭐ **[MCP Market](https://mcpmarket.com/)** — Discover Top MCP Servers
 - [AceDataCloud/SunoMCP](https://github.com/AceDataCloud/SunoMCP) — MCP server for Suno AI music generation, lyrics, and cover workflows via Ace Data Cloud
 - [ahujasid/ableton-mcp](https://github.com/ahujasid/ableton-mcp) — 🎵 Control Ableton Live with Claude AI — create tracks, arrange clips & compose music via MCP
 - [artokun/comfyui-mcp](https://github.com/artokun/comfyui-mcp) — Local-first, agent-native control plane for ComfyUI — MCP server + sidebar agent that generates images, video & audio, authors and runs workflows, and edits your live graph in natural language on ANY LLM (Claude, ChatGPT, Gemini, offline Ollama, or any hosted model). 178 tools, 36 AI skills, 55 installer packs. Local, LAN, VPS, or Comfy Cloud
-- [Awesome MCP Servers](https://mcpservers.org/)
 - [Blender MCP](https://blendermcp.org/) — AI-Powered 3D Modeling Agent for Blender
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) — Chrome DevTools for coding agents
 - [Claude for Creative Work \ Anthropic](https://www.anthropic.com/news/claude-for-creative-work)
@@ -258,14 +207,68 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [enuno/unifi-mcp-server](https://github.com/enuno/unifi-mcp-server) — An MCP server that leverages official UniFi API
 - [excalidraw/excalidraw-mcp · GitHub](https://github.com/excalidraw/excalidraw-mcp)
 - [karl-andres/fl-studio-mcp](https://github.com/karl-andres/fl-studio-mcp) — MCP Server for FL Studio
-- [MCP Repository](https://mcprepository.com/) — Search & Discover MCP Servers
-- [MCP.so](https://mcp.so/)
 - [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) — Playwright MCP server
 - [Model Context Protocol](https://modelcontextprotocol.io/extensions/overview) / <a href="https://github.com/modelcontextprotocol/servers"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Extensions Overview
 - [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees
 - [puran-water/autocad-mcp · GitHub](https://github.com/puran-water/autocad-mcp)
 - [Serena](https://oraios.github.io/serena/01-about/000_intro.html) / <a href="https://github.com/oraios/serena"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Serena Documentation
 - [shiehn/total-reaper-mcp](https://github.com/shiehn/total-reaper-mcp) — Reaper DAW MCP Server with 100% Reascript Coverage
+
+### Directories & Marketplaces
+- ⭐ **[ClaudePluginHub](https://www.claudepluginhub.com/)** — The Largest Claude Code Plugin Directory
+- ⭐ **[MCP Market](https://mcpmarket.com/)** — Discover Top MCP Servers
+- ⭐ **[Vercel Skills](https://skills.sh/)** / <a href="https://github.com/vercel-labs/skills"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — The Open Agent Skills Ecosystem
+- [Agent Skills Overview](https://agentskills.io/home) / <a href="https://github.com/agentskills/agentskills"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Agent Skills
+- [anthropics/claude-plugins-official · GitHub](https://github.com/anthropics/claude-plugins-official)
+- [autoskills](https://www.autoskills.sh/) / <a href="https://github.com/midudev/autoskills"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Auto-install best AI skills for your project
+- [Awesome MCP Servers](https://mcpservers.org/)
+- [Claude Code Skills, Plugins & MCP Servers](https://claudemarketplaces.com/)
+- [Claude Directory](https://www.claudedirectory.org/) / <a href="https://github.com/tmcpa/claudedirectory"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Community Alternative to claude.ai/directory
+- [ClawHub](https://clawhub.ai/) / <a href="https://github.com/openclaw/clawhub"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [hashgraph-online/awesome-codex-plugins · GitHub](https://github.com/hashgraph-online/awesome-codex-plugins)
+- [HOL Registry](https://hol.org/registry/plugins) — Claude Plugins, Codex Plugins, Grok Plugins, Gemini & MCP Plugins
+- [MCP Repository](https://mcprepository.com/) — Search & Discover MCP Servers
+- [MCP.so](https://mcp.so/)
+- [officialskills.sh](https://officialskills.sh/) / <a href="https://github.com/VoltAgent/awesome-agent-skills"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Official Agent Skills Directory
+- [openai/skills](https://github.com/openai/skills) — Skills Catalog for Codex
+
+### Skills & Plugins
+- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) — Production-grade engineering skills for AI coding agents.
+- [alonw0/web-asset-generator](https://github.com/alonw0/web-asset-generator) — Claude skill to generate favicons, app icons, and social media images from logos, text, or emojis. Supports emoji suggestions, validation, and framework auto-integration
+- [Anatomy · A skill for Claude Code](https://skills.wheresryan.sh/anatomy) / <a href="https://github.com/wheresryan22/anatomy"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [anthropics/financial-services](https://github.com/anthropics/financial-services)
+- [anthropics/skills](https://github.com/anthropics/skills) — Public repository for Agent Skills
+- [Archify](https://tt-a1i.github.io/archify/) / <a href="https://github.com/tt-a1i/archify"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Technical Diagrams from Plain English
+- [ayghri/i-have-adhd · GitHub](https://github.com/ayghri/i-have-adhd)
+- [BuilderIO/skills](https://github.com/BuilderIO/skills) — Skills for coding agents
+- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) — 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
+- [Caveman](https://getcaveman.dev/) / <a href="https://github.com/juliusbrussee/caveman"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — the token-efficient stack for agent-native builders
+- [Caveman](https://caveman.so/) / <a href="https://github.com/juliusbrussee/caveman"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — the token-efficient stack for agent-native development
+- [Context Mode](https://context-mode.com/) / <a href="https://github.com/mksglu/context-mode"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — The Control Plane for Coding Agents
+- [Diagram Design](https://diagramdesign.dev/) / <a href="https://github.com/cathrynlavery/diagram-design"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — editorial diagrams your designer won't hate
+- [foryourhealth111-pixel/Vibe-Skills · GitHub](https://github.com/foryourhealth111-pixel/Vibe-Skills)
+- [garrytan/gstack](https://github.com/garrytan/gstack/tree/main) — Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
+- [getdesign.md](https://getdesign.md/) — DESIGN.md Collection for AI Agents
+- [GitHub Copilot Chat Cookbook](https://docs.github.com/copilot/tutorials/copilot-chat-cookbook) — GitHub Docs
+- [google/skills](https://github.com/google/skills) — Agent Skills for Google products and technologies
+- [guanyang/antigravity-skills · GitHub](https://github.com/guanyang/antigravity-skills)
+- [hivecommons/spektacular](https://github.com/hivecommons/spektacular) — Spec-driven development for AI coding agents. Spektacular helps you to generate specifications, the plan, and finally generate the code. Agent-agnostic and pluggable: Claude Code, Bob, Codex
+- [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) — OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.
+- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) — Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI
+- [Leonxlnx/taste-skill · GitHub](https://github.com/Leonxlnx/taste-skill)
+- [mattpocock/skills](https://github.com/mattpocock/skills) — Skills for Real Engineers. Straight from my .claude directory.
+- [MiniMax-AI/skills](https://github.com/MiniMax-AI/skills)
+- [mksglu/context-mode](https://github.com/mksglu/context-mode) — Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
+- [mvanhorn/last30days-skill · GitHub](https://github.com/mvanhorn/last30days-skill)
+- [oso95/scroll-world](https://github.com/oso95/scroll-world) — Claude Code skill/plugin
+- [phuryn/pm-skills](https://github.com/phuryn/pm-skills) — PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
+- [ponytail](https://ponytail.dev/) / <a href="https://github.com/DietrichGebert/ponytail"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [REA](https://morluto.github.io/rea/) / <a href="https://github.com/morluto/rea"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Reverse Engineer Anything
+- [REA](https://rea.tools/) / <a href="https://github.com/morluto/rea"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Reverse Engineering for Your Coding Agent
+- [teamchong/pxpipe](https://github.com/teamchong/pxpipe) — cut Fable 5 token usage by rendering text context as images
+- [text-to-cad](https://www.texttocad.dev/) / <a href="https://github.com/earthtojake/text-to-cad"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Give your agent CAD superpowers
+- [Wondel.ai Skills](https://skills.wondel.ai/) / <a href="https://github.com/wondelai/skills"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — 41 Business & Engineering Frameworks as AI Agent Skills
+- [zubair-trabzada/geo-seo-claude](https://github.com/zubair-trabzada/geo-seo-claude) — GEO-first SEO skill for Claude Code. Comprehensive AI search optimization for any website — citability scoring, AI crawler analysis, brand authority, schema markup, platform-specific optimization, and PDF reports. If you want learn how to sell this to real businesses, check out the skool community
 
 ## Generative Media
 
@@ -277,6 +280,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - ⭐ **[Magnific](https://www.magnific.com/app/tools/image)** — Create and edit images using AI (Freepik)
 - ⭐ **[Midjourney](https://www.midjourney.com/home/)**
 - ⭐ **[Stability Matrix](https://lykos.ai/)** / <a href="https://github.com/LykosAI/StabilityMatrix"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Simple management and inference UI for Stable Diffusion
+- [ArtCraft](https://getartcraft.com/) / <a href="https://github.com/storytold/artcraft"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Controllable AI for Artists
 - [Artlist](https://artlist.io/) — Generative AI Tools & Digital Assets for Creators
 - [Cherry Studio](https://cherryai.com/) / <a href="https://github.com/CherryHQ/cherry-studio"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — The All-in-One AI Workstation
 - [ComfyUI Cloud](https://cloud.comfy.org/cloud/login)
@@ -289,83 +293,113 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [Open Generative AI](https://muapi.ai/open-generative-ai) / <a href="https://github.com/anil-matcha/open-generative-ai"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Free AI Image & Video Studio | Muapi
 - [OpenArt](https://openart.ai/) — Discover and generate AI Art
 - [TongFlow](https://tongflow.com/en/) / <a href="https://github.com/tong-io/tongflow"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Open-source, multimodal AI workflows
+- [TRELLIS 3D AI](https://trellis3d.co/) — Transform Images to 3D Assets Free | Trellis 3D
+- [TRELLIS.2](https://microsoft.github.io/TRELLIS.2/) / <a href="https://github.com/microsoft/TRELLIS"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Native and Compact Structured Latents for 3D Generation
 - [Vheer](https://vheer.com/) — AI-Powered Image & Video Generation
 - [Weavy](https://www.weavy.ai/) — AI-Powered Design Workflows, Built for Creative Pros
 - [WorldClaw](https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/) / <a href="https://github.com/Tencent-Hunyuan/Hunyuan3D-WorldClaw"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Agentic 3D Open-World Generation at Scale
 - [Zorq AI](https://zorqai.com/) — AI Image & Video Generation Platform | Transform Ideas Into Stunning Visuals
 
 ### AI Image & Design
+- ⭐ **[AUTOMATIC1111/stable-diffusion-webui · GitHub](https://github.com/AUTOMATIC1111/stable-diffusion-webui)**
 - ⭐ **[BG-Remover](https://bgremover.realbrain.cc/)** — AI powered Offline Background Remover!
 - ⭐ **[Craiyon](https://www.craiyon.com/)** — AI Image Generator
 - ⭐ **[FastFLUX](https://fastflux.ai/)** — Instant FLUX Image Creation for Free
+- ⭐ **[leejet/stable-diffusion.cpp · GitHub](https://github.com/leejet/stable-diffusion.cpp)**
+- ⭐ **[lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus)** — Focus on prompting and generating
 - ⭐ **[Microsoft Designer](https://designer.microsoft.com/)** — Stunning designs in a flash
 - ⭐ **[Text-To-Image Generator](https://boredhumans.com/text-to-image.php)** — Bored Humans
-- ⭐ **[Upscayl](https://www.upscayl.org/)** — Free and Open Source AI Image Upscaler
-- [A Sharper Scaling](http://a-sharper-scaling.com/)
+- [Acly/krita-ai-diffusion · GitHub](https://github.com/Acly/krita-ai-diffusion)
 - [Adobe Firefly](https://firefly.adobe.com/)
-- [AI Image Enlarger](https://imglarger.com/)
+- [ai-forever/Kandinsky-2.0 · GitHub](https://github.com/ai-forever/Kandinsky-2.0)
 - [Amazing AI](https://sindresorhus.com/amazing-ai)
-- [Amazon Rekognition](https://aws.amazon.com/rekognition/) — AWS
-- [ancaferro/myPhotos](https://github.com/ancaferro/myPhotos) — Face detection and cataloging for photo folders — OpenCV YuNet + SFace, Flask UI, SQLite
-- [Animaze by Facerig](https://www.animaze.us/) — Custom Avatars | Create Your own Avatar
-- [ArtCraft](https://getartcraft.com/) / <a href="https://github.com/storytold/artcraft"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Controllable AI for Artists
 - [AutoSprite](https://www.autosprite.io/) — AI Sprite Sheet Generator | Create Game Animations in Seconds
-- [Best Face Swap AI](https://www.bestfaceswap.ai/) — Advanced AI Faceswap Tool Online
-- [Bigjpg](https://bigjpg.com/en)
 - [Black Forest Labs](https://playground.bfl.ai/image/generate) — FLUX Playground
+- [black-forest-labs/flux · GitHub](https://github.com/black-forest-labs/flux)
+- [black-forest-labs/FLUX.1-dev · Hugging Face](https://huggingface.co/black-forest-labs/FLUX.1-dev)
+- [black-forest-labs/FLUX.1-schnell · Hugging Face](https://huggingface.co/black-forest-labs/FLUX.1-schnell)
 - [Botika](https://botika.io/)
+- [Civitai](https://civitai.green/) — The Home of Open-Source Generative AI
+- [comfyanonymous/flux_text_encoders · Hugging Face](https://huggingface.co/comfyanonymous/flux_text_encoders)
+- [cumulo-autumn/StreamDiffusion · GitHub](https://github.com/cumulo-autumn/StreamDiffusion)
+- [DeepImage-an-Image-to-Image-technology · GitHub](https://github.com/yuanxiaosc/DeepImage-an-Image-to-Image-technology)
+- [DiffusionBee](https://diffusionbee.com/) — Stable Diffusion App for AI Art
+- [FLUX](https://civitai.com/models/618692/flux) — CivitAI
+- [Flux AI](https://flux1.ai/) — Free Online Flux.1 AI Image Generator
+- [Google](https://labs.google/fx/tools/image-fx) — ImageFX
+- [Google Imagen](https://imagen.research.google/)
+- [ideogram-oss/ideogram4](https://github.com/ideogram-oss/ideogram4) — Ideogram 4: Open image model at the forefront of design
+- [Imagen 3](https://deepmind.google/technologies/imagen-3/) — Google
+- [InvokeAI Stable Diffusion Toolkit](https://invoke-ai.github.io/InvokeAI/) / <a href="https://github.com/invoke-ai/InvokeAI"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Magic Studio](https://magicstudio.com/) — Powered by AI
+- [monster-labs/control_v1p_sd15_qrcode_monster at main](https://huggingface.co/monster-labs/control_v1p_sd15_qrcode_monster/tree/main)
+- [NVIDIA Canvas](https://www.nvidia.com/en-us/studio/canvas/)
+- [Omniverse Audio2Face App](https://www.nvidia.com/en-us/omniverse/apps/audio2face/)
+- [Photo AI™](https://photoai.com/) — AI Photo & Video Generator
+- [RunDiffusion](https://rundiffusion.com/) — Automatic1111 in the Cloud
+- [Stability-AI/StableSwarmUI](https://github.com/Stability-AI/StableSwarmUI) — StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
+- [Stability.Ai Platform](https://platform.stability.ai/)
+- [stabilityai/stable-diffusion-3.5-large · Hugging Face](https://huggingface.co/stabilityai/stable-diffusion-3.5-large)
+- [Stable Diffusion Online](https://stablediffusionweb.com/)
+- [succinctly/text2image-prompt-generator · Hugging Face](https://huggingface.co/succinctly/text2image-prompt-generator)
+- [SwarmUI](https://swarmui.net/)
+- [Tencent-Hunyuan/HunyuanImage-3.0](https://github.com/Tencent-Hunyuan/HunyuanImage-3.0) — HunyuanImage-3.0: A Powerful Native Multimodal Model for Image Generation
+- [ximinng/LLM4SVG](https://github.com/ximinng/LLM4SVG) — \[CVPR 2025\] Official implementation for "Empowering LLMs to Understand and Generate Complex Vector Graphics" https://arxiv.org/abs/2412.11102
+- [XLabs-AI/flux-controlnet-collections · Hugging Face](https://huggingface.co/XLabs-AI/flux-controlnet-collections)
+- [zai-org/GLM-Image · Hugging Face](https://huggingface.co/zai-org/GLM-Image)
+
+#### Face & Deepfake Tools
+- [Animaze by Facerig](https://www.animaze.us/) — Custom Avatars | Create Your own Avatar
+- [Best Face Swap AI](https://www.bestfaceswap.ai/) — Advanced AI Faceswap Tool Online
 - [Celebrity Face Swap](http://celebrityfaceswapapp.com/)
 - [ChangeFaces.com](https://www.changefaces.com/)
-- [Civitai](https://civitai.green/) — The Home of Open-Source Generative AI
 - [Deep Art Effects](https://www.deeparteffects.com/)
 - [Deepfakes Web](https://deepfakesweb.com/)
-- [DeepFakes, Can You Spot Them?](https://detectfakes.media.mit.edu/)
 - [DeepLiveCam](https://deeplivecam.net/) / <a href="https://github.com/hacksider/Deep-Live-Cam"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
-- [DiffusionBee](https://diffusionbee.com/) — Stable Diffusion App for AI Art
-- [Face Photo Restorer](https://www.restorephotos.io/)
 - [FaceApp](https://www.faceapp.com/)
 - [FaceFusion](https://facefusion.io/) / <a href="https://github.com/facefusion/facefusion"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [FaceRig](https://facerig.com/)
 - [Faceswap](https://faceswap.dev/) / <a href="https://github.com/deepfakes/faceswap"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
-- [Fake Image Detector](https://www.fakeimagedetector.com/) — Fake Image Detector Online
-- [Flux AI](https://flux1.ai/) — Free Online Flux.1 AI Image Generator
+- [iperov/DeepFaceLab · GitHub](https://github.com/iperov/DeepFaceLab)
+- [List of Deepfake Tools](https://vuild.com/deep-fake-tools)
+- [Metaphysic.ai](https://metaphysic.ai/)
+- [My Voice your Face](https://www.myvoiceyourface.com/)
+- [Pykaso AI](https://www.pykaso.ai/) — Get Your AI Influencer Viral
+- [Reface.app](https://reface.app/)
+- [Wemagine.AI](https://www.wemagine.ai/)
+
+#### Upscalers & Restoration
+- ⭐ **[Upscayl](https://www.upscayl.org/)** — Free and Open Source AI Image Upscaler
+- [A Sharper Scaling](http://a-sharper-scaling.com/)
+- [AI Image Enlarger](https://imglarger.com/)
+- [BasicSR](https://github.com/xinntao/BasicSR)
+- [Bigjpg](https://bigjpg.com/en)
+- [Face Photo Restorer](https://www.restorephotos.io/)
 - [Free AI Image Upscaler](https://image-upscaling.net/upscaling/en.html) — No Sign-Up, No Watermarks, Up to 16K
-- [Google](https://labs.google/fx/tools/image-fx) — ImageFX
-- [Google Imagen](https://imagen.research.google/)
-- [Haystack AI](https://www.haystack.ai/)
 - [Image upscaler](https://imageupscaler.com/)
 - [Image upscaler AI](https://imageupscalerai.com/) — ImageUpscalerAI.com
 - [Imagen](https://imagen-ai.com/) — Personalized Photo Editing Assistant
-- [Imagen 3](https://deepmind.google/technologies/imagen-3/) — Google
-- [iperov/DeepFaceLab · GitHub](https://github.com/iperov/DeepFaceLab)
 - [Let's Enhance.io](https://letsenhance.io/)
-- [Magic Studio](https://magicstudio.com/) — Powered by AI
 - [Magnific AI](https://magnific.ai/)
-- [Metaphysic.ai](https://metaphysic.ai/)
-- [Microsoft Cognitive Services](https://westus.dev.cognitive.microsoft.com/docs/services)
-- [My Voice your Face](https://www.myvoiceyourface.com/)
-- [NVIDIA Canvas](https://www.nvidia.com/en-us/studio/canvas/)
-- [Omniverse Audio2Face App](https://www.nvidia.com/en-us/omniverse/apps/audio2face/)
-- [Photo AI™](https://photoai.com/) — AI Photo & Video Generator
-- [Pykaso AI](https://www.pykaso.ai/) — Get Your AI Influencer Viral
-- [Reface.app](https://reface.app/)
+- [Mmediting](https://github.com/open-mmlab/mmediting)
+- [PULSE](https://github.com/adamian98/pulse)
 - [Remini app](https://remini.ai/)
 - [Restore pictures](https://hotpot.ai/restore-picture) — Hotpot.ai
-- [RunDiffusion](https://rundiffusion.com/) — Automatic1111 in the Cloud
-- [Stability.Ai Platform](https://platform.stability.ai/)
-- [Stable Diffusion Online](https://stablediffusionweb.com/)
-- [SwarmUI](https://swarmui.net/)
 - [Topaz Labs](https://www.topazlabs.com/gigapixel) — Gigapixel
-- [TRELLIS 3D AI](https://trellis3d.co/) — Transform Images to 3D Assets Free | Trellis 3D
 - [Upscale Pics](https://upscalepics.com/)
 - [Upscale.media](https://www.upscale.media/)
+- [Video2X Documentation](https://docs.video2x.org/) / <a href="https://github.com/k4yt3x/video2x"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [waifu2x](https://www.waifu2x.net/)
-- [Wemagine.AI](https://www.wemagine.ai/)
+- [Waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe)
+- [Waifu2x-Extension-GUI · GitHub](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)
 
 ### AI Speech & Voice
+- ⭐ **[Eleven Labs](https://elevenlabs.io/music)** — AI Music Generator
+- ⭐ **[Fish Audio](https://fish.audio/)** / <a href="https://github.com/fishaudio"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Free Generative AI Text To Speech & Voice Cloning
 - [11.ai](https://11.ai/app/) — Personal AI Voice Assistants
 - [Amazon Alexa Voice AI](https://developer.amazon.com/en-US/alexa)
 - [Google Assistant](https://assistant.google.com/)
+- [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) — Build local voice agents with open-source models
 - [Norwood Systems](https://norwoodsystems.com/)
 - [OpenVoiceOS](https://openvoiceos.com/) — voice AI platform for everyone
 - [Pico voice](https://picovoice.ai/) — On-device Voice AI and local LLM platforms for Enterprises
@@ -373,24 +407,25 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [rhasspy/rhasspy3](https://github.com/rhasspy/rhasspy3/) — An open source voice assistant toolkit for many human languages
 - [Serenade](https://serenade.ai/)
 - [Sesame](https://www.sesame.com/)
+- [Sesame Research Preview](https://app.sesame.com/welcome)
 - [Siri](https://www.apple.com/siri/)
+- [Speech-to-Speech API](https://inworld.ai/speech-to-speech?utm_device=m&utm_term=interactive%20voice%20ai%20platform&utm_campaign=Google_Realtime-API_EMEA&utm_source=adwords&utm_medium=ppc&utm_content=realtime-api&hsa_acc=5807507431&hsa_cam=23654350249&hsa_grp=193418295759&hsa_ad=800053411678&hsa_src=g&hsa_tgt=kwd-2472564158155&hsa_kw=interactive%20voice%20ai%20platform&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=23654350249&gbraid=0AAAAAo5ojYE2f4OgWmSd5_pP0Zd4iivTj&gclid=CjwKCAjw_9bWBhBGEiwAomyTIuYZI1ZC_yjWN5GWwmbQ3evcIH2NeDWcPne1Fn-SCgXoXbSQzss99RoCipkQAvD_BwE) — Full-Duplex, Sub-Second, Model-Agnostic | Inworld AI
 - [Stypox/dicio-android](https://github.com/Stypox/dicio-android) — Dicio assistant app for Android
+- [Voice AI](https://voice.ai/) — Change your voice on the Fly
 - [Voyp](https://voyp.app/) — Voice Over Your Phone
 - [Web Assist](https://webassistextension.com/) — Surf the Web with just your voice
 
 ### AI Music & Audio
-- ⭐ **[Eleven Labs](https://elevenlabs.io/music)** — AI Music Generator
-- ⭐ **[Fish Audio](https://fish.audio/)** / <a href="https://github.com/fishaudio"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Free Generative AI Text To Speech & Voice Cloning
 - ⭐ **[YuE2 · Frontier Music with Symbolic Planning](https://map-yue2.github.io/)** / <a href="https://github.com/multimodal-art-projection/YuE"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [AIVA, the AI Music Generation Assistant](https://www.aiva.ai/)
 - [Basic Pitch](https://basicpitch.spotify.com/) / <a href="https://github.com/spotify/basic-pitch"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — An open source MIDI converter from Spotify
 - [CallPark](https://trycallpark.com/) — AI-powered phone agent
 - [DIKTATORIAL Suite](https://diktatorial.com/) — Online AI Audio Mastering Tool with Texting
 - [ElevenMusic](https://elevenmusic.io/) — Discover, Remix, Create
+- [facebookresearch/audiocraft · GitHub](https://github.com/facebookresearch/audiocraft)
 - [Google DeepMind](https://deepmind.google/technologies/lyria/) — Lyria
 - [Google Flow Music](https://www.flowmusic.app/)
-- [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) — Build local voice agents with open-source models
-- [Illuminate](https://illuminate.google.com/home) — Learn Your Way
+- [google/magenta-realtime · Hugging Face](https://huggingface.co/google/magenta-realtime)
 - [Klangio](https://klang.io/) — AI Software Tools for Transcribing Music into Notes
 - [Klangio Transcription Studio](https://klang.io/transcription-studio/) — AI Music Transcription App
 - [Lalal.ai](https://www.lalal.ai/)
@@ -405,16 +440,17 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [MusicLM](https://musiclm.com/) — AI Model for Music Generation
 - [Remusic](https://remusic.ai/en) — Generate your Unique Music for Free
 - [Riffusion](https://www.riffusion.com/)
+- [riffusion/riffusion-hobby](https://github.com/riffusion/riffusion-hobby) — Stable diffusion for real-time music generation
 - [Score Transformer](https://score-transformer.github.io/)
 - [ServeurpersoCom/acestep.cpp](https://github.com/ServeurpersoCom/acestep.cpp) — Portable C++17 implementation of ACE-Step 1.5 AI Music Generator using GGML. Text + lyrics in, stereo 48kHz MP3 or WAV out. Runs on CPU, CUDA, ROCm, Metal, Vulkan.
 - [SigSep](https://sigsep.github.io/open-unmix/)
+- [Stability-AI/stable-audio-tools](https://github.com/Stability-AI/stable-audio-tools) — Generative models for conditional audio generation
 - [Suno AI](https://suno.com/)
 - [TopMediai](https://www.topmediai.com/) — Premier Destination for AI-Powered Audio Tools & More
 - [Treblo](https://treblo.com/) — Free AI Music Generator
 - [Uberduck](https://www.uberduck.ai/) — Make Music with AI Vocals
 - [Udio](https://www.udio.com/) — Make your music
 - [Vocal Remover and Isolation](https://vocalremover.org/)
-- [Voice AI](https://voice.ai/) — Change your voice on the Fly
 - [Waveformer](https://www.text2music.io/)
 
 ### AI Video
@@ -425,6 +461,8 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [AIVideo.com](https://www.aivideo.com/) — Make viral videos with just a prompt
 - [AnimateDiff](https://animatediff.github.io/)
 - [AtheneGPT](https://athenegpt.ai/) — Create Your Sentient AI For Free
+- [browser-use/video-use](https://github.com/browser-use/video-use) — Edit videos with coding agents
+- [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) — World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
 - [ChatGPT Sora](https://sora.chatgpt.com/explore) — OpenAI
 - [DomoAI](https://domoai.app/) — AI Art Generator & Video to Animation Converter
 - [Flashloop AI](https://www.flashloop.app/) — Generate AI Videos
@@ -434,23 +472,29 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [GeminiGenAI](https://geminigen.ai/) — Free Unlimited Veo 3.1 & Sora 2 Tool & Grok
 - [Gen-1 by Runway](https://research.runwayml.com/gen1)
 - [Genmo](https://www.genmo.ai/) — Create videos and images with AI.
+- [genmoai/models](https://github.com/genmoai/models) — The best OSS video generation models
 - [Google](https://imagen.research.google/video/) — Imagen Video
 - [Google Veo](https://deepmind.google/technologies/veo/)
 - [Google Veo](https://deepmind.google/models/veo/)
 - [Hailuoia](https://hailuoai.com/) — MiniMax
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) — 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
 - [HeyGen](https://www.heygen.com/) — AI Video Generator
+- [hpcaitech/Open-Sora · GitHub](https://github.com/hpcaitech/Open-Sora)
 - [invideo AI](https://invideo.io/) — AI video creator
 - [Jaaz](https://jaaz.app/) / <a href="https://github.com/11cafe/jaaz"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — AI Design Agent
 - [Kaiber](https://kaiber.ai/) — AI Video Generation
 - [KLING AI](https://klingai.com/) — Next-Generation AI Creative Studio
 - [Kling AI](https://klingai.com/global/) — Next-Generation AI Creative Studio
+- [krillinai/KrillinAI · GitHub](https://github.com/krillinai/KrillinAI)
+- [Lightricks/LTX-2.3 · Hugging Face](https://huggingface.co/Lightricks/LTX-2.3)
 - [LTX](https://ltx.io/) — The AI Video Multi-Solution Suite for Creation
 - [LTX Studio](https://ltx.studio/) — The AI Studio for Video Production
 - [Luma Dream Machine](https://lumalabs.ai/dream-machine)
 - [Magic Animator](https://magicanimator.com/) — Animate in seconds
 - [manycore-research/InteriorGS](https://github.com/manycore-research/InteriorGS) — InteriorGS: 3D Gaussian Splatting Dataset of Semantically Labeled Indoor Scenes
+- [MeiGen-AI/MultiTalk](https://github.com/meigen-ai/multitalk) — Let Them Talk: Audio-Driven Multi-Person Conversational Video Generation
 - [Mirage Studio](https://mirage.app/) — Generate videos with lifelike actors
+- [nikopueringer/CorridorKey](https://github.com/nikopueringer/CorridorKey) — Perfect Green Screen Keys
 - [OmniHuman](https://omnihuman.design/) — AI Video Generator with audio, images, and videos
 - [OneClip](https://www.oneclip.io/) — Create UGC Ads in seconds using AI.
 - [OpenAI](https://sora.com/) — Sora
@@ -469,126 +513,81 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [SCoPE](https://visual-ai.github.io/scope/) / <a href="https://github.com/TencentARC/SCoPE"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Sightline-Coordinate Positional Encoding for Video Diffusion Transformers
 - [ScottStevenson/SuperAstra](https://github.com/ScottStevenson/SuperAstra)
 - [SocialArt.ai](https://socialart.ai/) — AI Content Studio for Social Media
+- [stabilityai/sv4d · Hugging Face](https://huggingface.co/stabilityai/sv4d)
 - [Stable Video Diffusion Online](https://stablevideo.work/) — Convert Images and Text into Videos
-- [Video2X Documentation](https://docs.video2x.org/) / <a href="https://github.com/k4yt3x/video2x"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [THUDM/CogVideo](https://github.com/THUDM/CogVideo) — text and image to video generation: CogVideoX (2024) and CogVideo (ICLR 2023)
+- [Wan-Video/Wan2.1](https://github.com/Wan-Video/Wan2.1) — Wan: Open and Advanced Large-Scale Video Generative Models
 - [Wonder Dynamics](https://wonderdynamics.com/)
 - [Wondershare Virbo](https://virbo.wondershare.com/) — Generate Engaging AI Video in Minutes!
 
 ## Language Models & Hubs
 
 ### LLMs (Large Language Models)
-- ⭐ **[AUTOMATIC1111/stable-diffusion-webui · GitHub](https://github.com/AUTOMATIC1111/stable-diffusion-webui)**
 - ⭐ **[deepseek-ai/DeepSeek-R1 · GitHub](https://github.com/deepseek-ai/DeepSeek-R1)**
-- ⭐ **[leejet/stable-diffusion.cpp · GitHub](https://github.com/leejet/stable-diffusion.cpp)**
-- ⭐ **[lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus)** — Focus on prompting and generating
-- [Acly/krita-ai-diffusion · GitHub](https://github.com/Acly/krita-ai-diffusion)
-- [agiresearch/AIOS](https://github.com/agiresearch/AIOS) — AIOS: LLM Agent Operating System
-- [ai-forever/Kandinsky-2.0 · GitHub](https://github.com/ai-forever/Kandinsky-2.0)
-- [AI4Finance-Foundation/FinGPT · GitHub](https://github.com/AI4Finance-Foundation/FinGPT)
-- [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) — Hundreds of models & providers. One command to find what runs on your hardware
+- ⭐ **[Heretic](https://heretic-project.org/)** / <a href="https://github.com/p-e-w/heretic"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>, [🔗](https://heretic-project.org/) — Fully automatic censorship removal for language models
 - [Apertus LLM](https://huggingface.co/collections/swiss-ai/apertus-llm) — a swiss-ai Collection
 - [ariannamethod/molequla](https://github.com/ariannamethod/molequla) — molequla.ai
-- [BasicSR](https://github.com/xinntao/BasicSR)
 - [bespokelabsai/nimble](https://github.com/bespokelabsai/nimble) — Local typed decisions, contrastive data curation, and model evaluation.
-- [big-AGI](https://big-agi.com/)
-- [black-forest-labs/flux · GitHub](https://github.com/black-forest-labs/flux)
-- [black-forest-labs/FLUX.1-dev · Hugging Face](https://huggingface.co/black-forest-labs/FLUX.1-dev)
-- [black-forest-labs/FLUX.1-schnell · Hugging Face](https://huggingface.co/black-forest-labs/FLUX.1-schnell)
 - [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) — RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, saves VRAM, fast training, "infinite" ctx_len, and free sentence embedding.
 - [ByteDance Seed](https://seed.bytedance.com/en/)
 - [Cloudflare/clef · Hugging Face](https://huggingface.co/Cloudflare/clef)
-- [Cog](https://cog.run/)
 - [Cohere](https://cohere.com/) — The leading AI platform for enterprise
-- [comfyanonymous/flux_text_encoders · Hugging Face](https://huggingface.co/comfyanonymous/flux_text_encoders)
-- [DeepImage-an-Image-to-Image-technology · GitHub](https://github.com/yuanxiaosc/DeepImage-an-Image-to-Image-technology)
 - [deepseek-ai/Janus](https://github.com/deepseek-ai/Janus/) — Janus-Series: Unified Multimodal Understanding and Generation Models
+- [EleutherAI](https://www.eleuther.ai/)
 - [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF · Hugging Face](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF)
-- [Face_recognition · GitHub](https://github.com/ageitgey/face_recognition)
-- [facebookresearch/audiocraft · GitHub](https://github.com/facebookresearch/audiocraft)
 - [FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c) — A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.
-- [fkryan/gazelle](https://github.com/fkryan/gazelle) — Gaze-LLE: Gaze Target Estimation via Large-Scale Learned Encoders
-- [FLUX](https://civitai.com/models/618692/flux) — CivitAI
-- [genmoai/models](https://github.com/genmoai/models) — The best OSS video generation models
 - [Google AI PaLM 2](https://ai.google/discover/palm2) — Google AI
-- [google-deepmind/weathernext](https://github.com/google-deepmind/weathernext)
 - [google-research/bert · GitHub](https://github.com/google-research/bert)
 - [google/gemma-3n-E4B-it · Hugging Face](https://huggingface.co/google/gemma-3n-E4B-it)
-- [google/magenta-realtime · Hugging Face](https://huggingface.co/google/magenta-realtime)
 - [google/maxtext](https://github.com/google/maxtext) — A simple, performant and scalable Jax LLM!
 - [GPT-4](https://openai.com/gpt-4) — OpenAI
-- [h2oai/h2ogpt · GitHub](https://github.com/h2oai/h2ogpt)
-- [Hive Moderation](https://hivemoderation.com/)
-- [hpcaitech/Open-Sora · GitHub](https://github.com/hpcaitech/Open-Sora)
-- [ideogram-oss/ideogram4](https://github.com/ideogram-oss/ideogram4) — Ideogram 4: Open image model at the forefront of design
-- [InvokeAI Stable Diffusion Toolkit](https://invoke-ai.github.io/InvokeAI/) / <a href="https://github.com/invoke-ai/InvokeAI"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
-- [ItzCrazyKns/Perplexica · GitHub](https://github.com/ItzCrazyKns/Perplexica)
-- [jarrodwatts/jev-trader](https://github.com/jarrodwatts/jev-trader) — One AI trade decision every Monad block. Jev on Kuru MON-USDC.
-- [Jev Trade](https://www.jev-trade.com/) / <a href="https://github.com/aowang-ai/jev-trade"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Live Jev trading bot on crypto and other assets
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) — The best ChatGPT that $100 can buy
 - [Koala](https://bair.berkeley.edu/blog/2023/04/03/koala/) — A Dialogue Model for Academic Research
-- [KoboldAI/KoboldAI-Client · GitHub](https://github.com/KoboldAI/KoboldAI-Client)
-- [krillinai/KrillinAI · GitHub](https://github.com/krillinai/KrillinAI)
 - [LAION-AI/Open-Assistant · GitHub](https://github.com/LAION-AI/Open-Assistant)
 - [LargeWorldModel/LWM · GitHub](https://github.com/LargeWorldModel/LWM)
-- [Lightricks/LTX-2.3 · Hugging Face](https://huggingface.co/Lightricks/LTX-2.3)
-- [List of Deepfake Tools](https://vuild.com/deep-fake-tools)
+- [Liquid AI](https://www.liquid.ai/) — Build efficient general-purpose AI at every scale
 - [LiveKit](https://livekit.io/)
 - [Llama 2](https://ai.meta.com/llama/) — Meta AI
 - [Llama 3.2](https://www.llama.com/)
-- [lmsys/lmsys-chat-1m · Datasets at Hugging Face](https://huggingface.co/datasets/lmsys/lmsys-chat-1m)
 - [Marin AI](https://marin.community/) / <a href="https://github.com/marin-community/marin"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [McGill-NLP/Llama-3-8B-Web · Hugging Face](https://huggingface.co/McGill-NLP/Llama-3-8B-Web)
-- [MeiGen-AI/MultiTalk](https://github.com/meigen-ai/multitalk) — Let Them Talk: Audio-Driven Multi-Person Conversational Video Generation
 - [Meta Llama](https://llama.meta.com/)
 - [microgpt](https://gist.github.com/karpathy/8627fe009c40f57531cb18360106ce95)
 - [MiMo-V2-Pro](https://mimo.xiaomi.com/mimo-v2-pro) — Xiaomi
 - [MiniMax M2.5](https://www.minimax.io/models/text) — SOTA in Coding and Agent, Designed for Agent Universe
 - [MiniMind](https://jingyaogong.github.io/minimind/) / <a href="https://github.com/jingyaogong/minimind"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Train LLMs from Scratch
-- [Mmediting](https://github.com/open-mmlab/mmediting)
-- [monster-labs/control_v1p_sd15_qrcode_monster at main](https://huggingface.co/monster-labs/control_v1p_sd15_qrcode_monster/tree/main)
-- [nashsu/FreeAskInternet · GitHub](https://github.com/nashsu/FreeAskInternet)
-- [nikopueringer/CorridorKey](https://github.com/nikopueringer/CorridorKey) — Perfect Green Screen Keys
 - [NVIDIA Nemotron](https://www.nvidia.com/en-us/ai-data-science/foundation-models/nemotron/) — Build Agentic AI with Multimodal Foundation Models
 - [Open Euro LLM](https://openeurollm.eu/)
 - [OpenAI](https://platform.openai.com/) — Platform
 - [openai/gpt-2 · GitHub](https://github.com/openai/gpt-2)
 - [openai/gpt-oss-120b · Hugging Face](https://huggingface.co/openai/gpt-oss-120b)
-- [PULSE](https://github.com/adamian98/pulse)
-- [QuantDinger](https://ai.quantdinger.com/#/user/login?redirect=%2F) / <a href="https://github.com/OpenByteInc/QuantDinger"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [QwenLM/Qwen · GitHub](https://github.com/QwenLM/Qwen)
-- [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) — Agent framework and applications built upon Qwen=2.0, featuring Function Calling, Code Interpreter, RAG, and Chrome extension.
 - [QwenLM/Qwen2.5](https://github.com/QwenLM/Qwen2.5) — Qwen2.5 is the large language model series developed by Qwen team, Alibaba Cloud.
 - [QwenLM/Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder) — Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud.
-- [riffusion/riffusion-hobby](https://github.com/riffusion/riffusion-hobby) — Stable diffusion for real-time music generation
-- [Stability-AI/stable-audio-tools](https://github.com/Stability-AI/stable-audio-tools) — Generative models for conditional audio generation
-- [stabilityai/stable-diffusion-3.5-large · Hugging Face](https://huggingface.co/stabilityai/stable-diffusion-3.5-large)
-- [stabilityai/sv4d · Hugging Face](https://huggingface.co/stabilityai/sv4d)
-- [succinctly/text2image-prompt-generator · Hugging Face](https://huggingface.co/succinctly/text2image-prompt-generator)
 - [Sunny Pilot](https://www.sunnypilot.ai/)
-- [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) — TradingAgents: Multi-Agents LLM Financial Trading Framework
-- [Tencent-Hunyuan/HunyuanImage-3.0](https://github.com/Tencent-Hunyuan/HunyuanImage-3.0) — HunyuanImage-3.0: A Powerful Native Multimodal Model for Image Generation
-- [THUDM/CogVideo](https://github.com/THUDM/CogVideo) — text and image to video generation: CogVideoX (2024) and CogVideo (ICLR 2023)
-- [Transformers.js · Hugging Face](https://huggingface.co/docs/transformers.js/index)
-- [TRELLIS.2](https://microsoft.github.io/TRELLIS.2/) / <a href="https://github.com/microsoft/TRELLIS"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Native and Compact Structured Latents for 3D Generation
-- [Waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe)
-- [Waifu2x-Extension-GUI · GitHub](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)
-- [Wan-Video/Wan2.1](https://github.com/Wan-Video/Wan2.1) — Wan: Open and Advanced Large-Scale Video Generative Models
-- [ximinng/LLM4SVG](https://github.com/ximinng/LLM4SVG) — \[CVPR 2025\] Official implementation for "Empowering LLMs to Understand and Generate Complex Vector Graphics" https://arxiv.org/abs/2412.11102
-- [XLabs-AI/flux-controlnet-collections · Hugging Face](https://huggingface.co/XLabs-AI/flux-controlnet-collections)
 - [young-geng/EasyLM · GitHub](https://github.com/young-geng/EasyLM)
-- [yuruotong1/autoMate](https://github.com/yuruotong1/autoMate) — Like Manus, Computer Use Agent(CUA) and Omniparser, we are computer-using agents.AI-driven local automation assistant that uses natural language to make computers work by themselves
 - [zai-org/ChatGLM3](https://github.com/zai-org/ChatGLM3) — ChatGLM3 series: Open Bilingual Chat LLMs | 开源双语对话语言模型
-- [zai-org/GLM-Image · Hugging Face](https://huggingface.co/zai-org/GLM-Image)
 
 ### AI Study & Writing
+- [ai-boost/awesome-prompts · GitHub](https://github.com/ai-boost/awesome-prompts/tree/main)
+- [asgeirtj/system_prompts_leaks · GitHub](https://github.com/asgeirtj/system_prompts_leaks)
 - [Astra AI](https://astra-ai.co/) — Study & Exam Prep | AI Tutor for All Subjects
+- [Awesome ChatGPT Prompts](https://prompts.chat/) / <a href="https://github.com/f/prompts.chat"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [ChatPDF AI](https://www.chatpdf.com/) — Chat with any PDF
 - [cheating daddy](https://cheatingdaddy.com/) / <a href="https://github.com/sohzm/cheating-daddy"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Elicit](https://elicit.com/) — The AI Research Assistant
+- [friuns2/BlackFriday-GPTs-Prompts · GitHub](https://github.com/friuns2/BlackFriday-GPTs-Prompts)
 - [GPTZero](https://gptzero.me/) — AI Detector, the Original AI Checker for ChatGPT & More
 - [Humata](https://www.humata.ai/) — AI meets your knowledge base
-- [Mirofish](https://mirofish-demo.pages.dev/) / <a href="https://github.com/666ghj/MiroFish"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Predict Anything
+- [Illuminate](https://illuminate.google.com/home) — Learn Your Way
+- [Interview Coder](https://www.interviewcoder.co/) — AI Assistant for Technical Interviews
+- [Learn Prompting](https://learnprompting.org/) — Your Guide to Communicating with AI
+- [linexjlin/GPTs · GitHub](https://github.com/linexjlin/GPTs)
+- [LouisShark/chatgpt_system_prompt · GitHub](https://github.com/LouisShark/chatgpt_system_prompt)
 - [NovelAI](https://novelai.net/) — The AI Storyteller
+- [ParakeetAI](https://www.parakeet-ai.com/) — #1 Real-Time AI Interview Assistant
 - [Perchance](https://perchance.org/welcome) — Create a Random Generator
+- [Prompt Engineering Guide](https://www.promptingguide.ai/)
 - [QuillBot](https://quillbot.com/) — Your complete writing solution
 - [Testea](https://testea.app/) — aplicación de test para oposiciones
 - [ToolBaz](https://toolbaz.com/) — Free AI Tools
@@ -604,11 +603,14 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - ⭐ **[HuggingChat](https://huggingface.co/chat/)**
 - ⭐ **[Microsoft Copilot](https://copilot.microsoft.com/)** — Your everyday AI companion
 - [ai-shifu/ChatALL](https://github.com/ai-shifu/ChatALL) — Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
+- [Amazon Q](https://aws.amazon.com/q/) — AWS
 - [ChatALL](https://www.chatall.io/)
 - [ChatAll](https://www.chatall.io/home)
 - [ChatHub](https://chathub.gg/) — GPT-5, Claude 4.5, Gemini 3 side by side
 - [Duck.ai](https://duck.ai/)
 - [ExpressAI](https://app.expressai.com/) — Confidential AI Assistant
+- [Forefront](https://www.forefront.ai/) — Powerful Language Models A Click Away
+- [G0DM0DƎ](https://godmod3.ai/)
 - [Google AI Studio](https://aistudio.google.com/)
 - [Grok](https://grok.com/) / <a href="https://github.com/xai-org/grok-build"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [Haloon](https://haloon.ai/) — All your AI in one place
@@ -625,8 +627,160 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [Perplexity AI](https://www.perplexity.ai/) — Ask Anything
 - [Poe](https://poe.com/login) — Fast, Helpful AI Chat
 - [Qwen Chat](https://chat.qwen.ai/) / <a href="https://github.com/QwenLM/Qwen-Image"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Syllabi](https://www.syllabi-ai.com/) / <a href="https://github.com/Achu-shankar/Syllabi"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Open Source AI Chatbot Platform with RAG
 - [Together Chat](https://chat.together.ai/)
+- [Venice](https://venice.ai/) — Private AI for Unlimited Creative Freedom
 - [Z.ai](https://chat.z.ai/) — Free AI Chatbot & Agent powered by GLM-5.1 & GLM-5
+
+### AI Datasets & Benchmarks
+- ⭐ **[Arena Leaderboard](https://arena.ai/leaderboard)** — Compare & Benchmark the Best Frontier AI Models
+- ⭐ **[LiveBench](https://livebench.ai/#/)** / <a href="https://github.com/LiveBench/LiveBench"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- ⭐ **[Zero GPU Spaces](https://huggingface.co/spaces/enzostvs/zero-gpu-spaces)** — a Hugging Face Space by enzostvs
+- [ARC Prize](https://arcprize.org/arc-agi) — What is ARC-AGI?
+- [Arena](https://arena.ai/) — Benchmark & Compare the Best AI Models
+- [Artificial Analysis](https://artificialanalysis.ai/) — AI Model & API Providers Analysis
+- [Benchlm.ai](https://benchlm.ai/) — LLM Leaderboard 2026
+- [BridgeBench](https://www.bridgebench.ai/) — AI Coding & Vibe Coding Benchmark
+- [Cybench](https://cybench.github.io/) / <a href="https://github.com/andyzorigin/cybench"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [CyberGym](https://www.cybergym.io/) / <a href="https://github.com/sunblaze-ucb/cybergym"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [DeepSWE Benchmark](https://deepswe.net/#opus-4-8-result) — GPT vs Claude for Agentic Coding
+- [harveyai/harvey-labs](https://github.com/harveyai/harvey-labs) — A benchmark built to evaluate and improve agent capabilities for supporting legal work
+- [Hugging Face](https://huggingface.co/tasks) — Tasks
+- [HumaniBench](https://vectorinstitute.github.io/humanibench/) / <a href="https://github.com/VectorInstitute/humaniBench"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — A Human-Centric Benchmark for Large Multimodal Models Evaluation
+- [Humanity's Last Exam](https://agi.safe.ai/)
+- [HumRights-Bench](https://humrightsbench.com/) — the first benchmark for human rights reasoning in AI
+- [Is Better AI](https://isbetter.ai/) / <a href="https://github.com/midudev/isbetter.ai"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Compare AI Models Side by Side
+- [Jev Decision Index](https://huggingface.co/spaces/multimodalart/jev-decision-index) — a Hugging Face Space by multimodalart
+- [JevBench](https://jevbench.dev/) / [🔗](https://jevbench.dev/#open-source) — Decision models for live agents
+- [List of large language models](https://en.wikipedia.org/wiki/List_of_large_language_models) — Wikipedia
+- [LLM API Pricing Comparison 2026](https://benchlm.ai/llm-pricing) — Cost Per Token for GPT, Claude, Gemini & More
+- [LLM Explorer](https://llm-explorer.com/) — A Curated Large Language Model Directory
+- [LLM Leaderboard](https://www.vellum.ai/llm-leaderboard) — Vellum
+- [LLM Leaderboard 2025](https://llm-stats.com/) — Model Rankings & Analysis
+- [LLM Pricing](https://llmpricing.dev/en/) — Compare 2100+ Models & 183+ Providers · 8/2026
+- [LLM pricing calculator](https://www.llm-prices.com/)
+- [lmsys/lmsys-chat-1m · Datasets at Hugging Face](https://huggingface.co/datasets/lmsys/lmsys-chat-1m)
+- [Odysseys](https://odysseysbench.com/) — a benchmark for long-horizon web agents
+- [OpenRouter](https://openrouter.ai/rankings) — LLM Rankings
+- [Price Per Toke](https://pricepertoken.com/) — LLM API Pricing 2026
+- [SWE-bench](https://www.swebench.com/)
+- [World of AI Bench](https://www.woaibench.ai/) — AI Coding Benchmark and Model Rankings
+
+## Model Serving
+
+### AI Serving Engines
+- ⭐ **[Ainize.ai](https://ainize.ai/)**
+- ⭐ **[colibri](https://justvugg.github.io/colibri/)** / <a href="https://github.com/JustVugg/colibri"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- ⭐ **[Ollama](https://ollama.com/)** / <a href="https://github.com/ollama/ollama"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- ⭐ **[Ollaya · Run decision models locally](https://ollaya.dev/)** / <a href="https://github.com/ollaya-dev/ollaya"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- ⭐ **[OpenRouter](https://openrouter.ai/)**
+- [9Router](https://9router.com/) / <a href="https://github.com/decolua/9router"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Free AI Router | Smart Fallback for Claude, Codex & More
+- [AIMLAPI.com](https://aimlapi.com/) — Access 400+ AI Models with a Single AI API
+- [alibaba/MNN · GitHub](https://github.com/alibaba/MNN)
+- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) — Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)
+- [AMD-AIG-AIMA/Instella](https://github.com/AMD-AIG-AIMA/Instella) — Fully Open Language Models with Stellar Performance
+- [Andyyyy64/whichllm](https://github.com/Andyyyy64/whichllm) — Find the local LLM that actually runs and performs best on your hardware
+- [Arthur](https://www.arthur.ai/)
+- [BentoML](https://bentoml.com/) / <a href="https://github.com/bentoml/OpenLLM"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Build, Ship, Scale AI Applications
+- [BerriAI/litellm · GitHub](https://github.com/BerriAI/litellm)
+- [BlockRunAI/ClawRouter](https://github.com/BlockRunAI/ClawRouter) — The agent-native LLM router for OpenClaw. 41+ models, 1ms routing, USDC payments on Base & Solana via x402
+- [Cog](https://cog.run/)
+- [Cohere.ai](https://cohere.ai/)
+- [Colossal-AI](https://colossalai.org/) / <a href="https://github.com/hpcaitech/ColossalAI"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Daytona](https://www.daytona.io/) — Secure Infrastructure for Running AI-Generated Code
+- [DevPass by LLM Gateway](https://devpass.llmgateway.io/) — All-Access Dev Plans for AI Coding
+- [drumih/turbo-fieldfare · GitHub](https://github.com/drumih/turbo-fieldfare)
+- [E2B](https://e2b.dev/) — The Enterprise AI Agent Cloud
+- [Experiential Labs · The open source AI gateway](https://www.experientiallabs.ai/) / <a href="https://github.com/experientiallabs/experiential"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Fast Inference](https://fast.inference.net/) — Fast hosted models, one API
+- [Haystack AI](https://www.haystack.ai/)
+- [Lambda](https://lambda.ai/) — The Superintelligence Cloud
+- [Langfuse](https://langfuse.com/) / <a href="https://github.com/langfuse/langfuse"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [LiteLLM](https://litellm.ai/) / <a href="https://github.com/BerriAI/litellm"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [lkarlslund/laya.cpp](https://github.com/lkarlslund/laya.cpp) — C++ inference for Laya typed decisions - supports CUDA, Vulkan, Core ML, CPU
+- [Llama.cpp](https://llama-cpp.com/) / <a href="https://github.com/ggml-org/llama.cpp"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Run LLM Inference in C/C++
+- [LLMLingua Series](https://llmlingua.com/) / <a href="https://github.com/microsoft/LLMLingua"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Effectively Deliver Information to LLMs via Prompt Compression
+- [lyogavin/airllm](https://github.com/lyogavin/airllm) — AirLLM 70B inference with single 4GB GPU · GitHub
+- [microsoft/BitNet](https://github.com/microsoft/BitNet) — Official inference framework for 1-bit LLMs
+- [MLC LLM](https://llm.mlc.ai/) / <a href="https://github.com/mlc-ai/mlc-llm"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Home
+- [MLX](https://ml-explore.github.io/mlx/build/html/index.html) / <a href="https://github.com/ml-explore/mlx"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — MLX 0.31.2 documentation
+- [Modal](https://modal.com/) — High-performance AI infrastructure
+- [Niko1221/Strata · GitHub](https://github.com/Niko1221/Strata)
+- [NLP Cloud](https://nlpcloud.com/) — Advanced Artificial Intelligence API
+- [NVIDIA NIM APIs](https://build.nvidia.com/)
+- [OmniRoute](https://omniroute.online/) / <a href="https://github.com/diegosouzapw/OmniRoute"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Free AI Gateway for Multi-Provider LLMs
+- [Portkey](https://portkey.ai/) — Production Stack for Gen AI Builders
+- [sgl-project/sglang](https://github.com/sgl-project/sglang) — SGLang is a fast serving framework for large language models and vision language models.
+- [Together AI](https://www.together.ai/) — Fast Inference, Fine-Tuning & Training
+- [Tokenomy](https://tokenomy.ai/) — Predict. Optimize. Ship AI with confidence.
+- [Transformers.js · Hugging Face](https://huggingface.co/docs/transformers.js/index)
+- [Unsloth](https://unsloth.ai/) / <a href="https://github.com/unslothai/unsloth"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Train and Run Models Locally
+- [vLLM](https://vllm.ai/) / <a href="https://github.com/vllm-project/vllm"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [vllm-project/vllm](https://github.com/vllm-project/vllm) — A high-throughput and memory-efficient inference and serving engine for LLMs
+- [Weights & Biases](https://wandb.ai/site) — Developer tools for ML
+- [wilpel/caveman-compression](https://github.com/wilpel/caveman-compression) — Caveman Compression is a semantic compression method for LLM contexts
+- [zilliztech/claude-context · GitHub](https://github.com/zilliztech/claude-context)
+
+### AI Local On-Device
+- ⭐ **[a-ghorbani/pocketpal-ai](https://github.com/a-ghorbani/pocketpal-ai)** — An app that brings language models directly to your phone
+- ⭐ **[GPT4All](https://www.nomic.ai/gpt4all)** / <a href="https://github.com/nomic-ai/gpt4all"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- ⭐ **[LM Studio](https://lmstudio.ai/)** / <a href="https://github.com/lmstudio-ai"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Discover and run local LLMs
+- ⭐ **[Local AI](https://localai.io/)** / <a href="https://github.com/mudler/LocalAI"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- ⭐ **[Newelle](https://newelle.qsk.me/#home)** / <a href="https://github.com/qwersyk/Newelle"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Your Ultimate Virtual Assistant
+- ⭐ **[Pinokio](https://pinokio.co/)** / <a href="https://github.com/pinokiocomputer/pinokio"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Localhost Platform for Humans and AI
+- ⭐ **[SillyTavern](https://docs.sillytavern.app/)** / <a href="https://github.com/SillyTavern/SillyTavern"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- ⭐ **[Waku](https://waku.sh/)** / <a href="https://github.com/egoist/waku"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — one native app for all your coding agents
+- [AgenticSeek](https://fosowl.github.io/agenticSeek.html) / <a href="https://github.com/Fosowl/agenticSeek"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Private AI Assistant
+- [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) — Hundreds of models & providers. One command to find what runs on your hardware
+- [ayushh0110/ScreenMind](https://github.com/ayushh0110/ScreenMind) — AI-powered screen memory — captures, analyzes, and lets you search/chat your screen history. Powered by Gemma 4 . 100% local, 100% private.
+- [big-AGI](https://big-agi.com/)
+- [CanIRun.ai](https://www.canirun.ai/) / <a href="https://github.com/midudev/canirun.ai"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Can your machine run AI models?
+- [Chatbox AI](https://chatboxai.app/en/) / <a href="https://github.com/chatboxai/chatbox"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Your AI Copilot, Best AI Client on any device, Free Download
+- [Cotabby](https://www.cotabby.app/) / <a href="https://github.com/FuJacob/cotabby"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — local AI autocomplete for macOS
+- [Desert Ant Labs](https://desertant.com/) — On-device AI models and SDKs
+- [Ensu](https://ente.io/ensu/)
+- [fullmoon](https://fullmoon.app/) / <a href="https://github.com/mainframecomputer/fullmoon-ios"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — local intelligence
+- [GitHub](https://github.com/chatboxai/chatbox) — chatbox/chatbox: User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
+- [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) — A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
+- [h2oai/h2ogpt · GitHub](https://github.com/h2oai/h2ogpt)
+- [ItzCrazyKns/Perplexica · GitHub](https://github.com/ItzCrazyKns/Perplexica)
+- [Jan](https://jan.ai/) / <a href="https://github.com/janhq/jan"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Open-source ChatGPT Alternative
+- [Jeffser/Alpaca · GitHub](https://github.com/Jeffser/Alpaca)
+- [KoboldAI/KoboldAI-Client · GitHub](https://github.com/KoboldAI/KoboldAI-Client)
+- [Layla](https://www.layla-network.ai/) — Experience the Best Offline AI Assistant
+- [Lekh AI](https://lekhai.app/) — Run AI Locally on Mac & iPhone
+- [LibreChat](https://www.librechat.ai/) / <a href="https://github.com/danny-avila/LibreChat"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [LLM Hub](https://www.llm-hub.app/) / <a href="https://github.com/timmyy123/LLM-Hub"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — 15+ Private AI Models on Android, Free
+- [Local Waifu](https://localwaifu.com/) — A self-learning AI companion for macOS
+- [LocalAI](https://play.google.com/store/apps/details?id=com.ApexCreator.localaiapp) — Offline AI Chat LLM - Apps on Google Play
+- [Locally AI](https://locallyai.app/) — Run AI models locally on your iPhone, iPad, and Mac
+- [mlx-optiq · Run LLMs locally on your Mac](https://mlx-optiq.com/)
+- [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile) — Distribute and run LLMs with a single file. · GitHub
+- [nashsu/FreeAskInternet · GitHub](https://github.com/nashsu/FreeAskInternet)
+- [Odysseus](https://odysseusai.dev/) / <a href="https://github.com/odysseus-dev/odysseus"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — A Self-Hosted AI Workspace
+- [oMLX](https://omlx.ai/) / <a href="https://github.com/jundot/omlx"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — LLM inference, optimized for your Mac
+- [OpenJarvis](https://openjarvis.stanford.edu/) / <a href="https://github.com/open-jarvis/OpenJarvis"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Osaurus](https://osaurus.ai/) / <a href="https://github.com/osaurus-ai/osaurus"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Own your AI
+- [PocketPal AI](https://pocketpal.llm-ventures.com/) — Your Privacy-First AI Companion
+- [Private AI for iPhone & Mac](https://enclaveai.app/) — Enclave AI - Private, Local, Offline AI Assistant for MacOS and iOS
+- [Private LLM](https://privatellm.app/en) — Local AI Chatbot
+- [PrivateGPT.dev](https://privategpt.dev/) / <a href="https://github.com/zylon-ai/private-gpt"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [The Local AI Playground](https://www.localai.app/)
+- [Thunderbolt](https://www.thunderbolt.io/) — AI You Control
+- [WebLLM Chat](https://chat.webllm.ai/) / <a href="https://github.com/mlc-ai/web-llm-chat"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+
+## Specialized Models
+
+### Recognition & Vision
+- [Amazon Rekognition](https://aws.amazon.com/rekognition/) — AWS
+- [ancaferro/myPhotos](https://github.com/ancaferro/myPhotos) — Face detection and cataloging for photo folders — OpenCV YuNet + SFace, Flask UI, SQLite
+- [DeepFakes, Can You Spot Them?](https://detectfakes.media.mit.edu/)
+- [Face_recognition · GitHub](https://github.com/ageitgey/face_recognition)
+- [Fake Image Detector](https://www.fakeimagedetector.com/) — Fake Image Detector Online
+- [fkryan/gazelle](https://github.com/fkryan/gazelle) — Gaze-LLE: Gaze Target Estimation via Large-Scale Learned Encoders
+- [Hive Moderation](https://hivemoderation.com/)
+- [Microsoft Cognitive Services](https://westus.dev.cognitive.microsoft.com/docs/services)
+- [tphakala/birdnet-go](https://github.com/tphakala/birdnet-go) — Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi
 
 ### AI Chess Engine
 - ⭐ **[Stockfish](https://stockfishchess.org/)** — Open Source Chess Engine
@@ -667,151 +821,8 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [Witek902/Caissa](https://github.com/Witek902/Caissa) — Strong chess engine
 - [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess) — A strong UCI chess engine with a neural network based evaluation.
 
-### AI Datasets & Benchmarks
-- ⭐ **[Arena Leaderboard](https://arena.ai/leaderboard)** — Compare & Benchmark the Best Frontier AI Models
-- ⭐ **[LiveBench](https://livebench.ai/#/)** / <a href="https://github.com/LiveBench/LiveBench"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
-- ⭐ **[Zero GPU Spaces](https://huggingface.co/spaces/enzostvs/zero-gpu-spaces)** — a Hugging Face Space by enzostvs
-- [ARC Prize](https://arcprize.org/arc-agi) — What is ARC-AGI?
-- [Arena](https://arena.ai/) — Benchmark & Compare the Best AI Models
-- [Artificial Analysis](https://artificialanalysis.ai/) — AI Model & API Providers Analysis
-- [Benchlm.ai](https://benchlm.ai/) — LLM Leaderboard 2026
-- [BridgeBench](https://www.bridgebench.ai/) — AI Coding & Vibe Coding Benchmark
-- [CanIRun.ai](https://www.canirun.ai/) / <a href="https://github.com/midudev/canirun.ai"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Can your machine run AI models?
-- [Cybench](https://cybench.github.io/) / <a href="https://github.com/andyzorigin/cybench"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
-- [CyberGym](https://www.cybergym.io/) / <a href="https://github.com/sunblaze-ucb/cybergym"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
-- [DeepSWE Benchmark](https://deepswe.net/#opus-4-8-result) — GPT vs Claude for Agentic Coding
-- [harveyai/harvey-labs](https://github.com/harveyai/harvey-labs) — A benchmark built to evaluate and improve agent capabilities for supporting legal work
-- [Hugging Face](https://huggingface.co/tasks) — Tasks
-- [HumaniBench](https://vectorinstitute.github.io/humanibench/) / <a href="https://github.com/VectorInstitute/humaniBench"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — A Human-Centric Benchmark for Large Multimodal Models Evaluation
-- [Humanity's Last Exam](https://agi.safe.ai/)
-- [HumRights-Bench](https://humrightsbench.com/) — the first benchmark for human rights reasoning in AI
-- [Is Better AI](https://isbetter.ai/) / <a href="https://github.com/midudev/isbetter.ai"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Compare AI Models Side by Side
-- [Jev Decision Index](https://huggingface.co/spaces/multimodalart/jev-decision-index) — a Hugging Face Space by multimodalart
-- [JevBench](https://jevbench.dev/) / [🔗](https://jevbench.dev/#open-source) — Decision models for live agents
-- [List of large language models](https://en.wikipedia.org/wiki/List_of_large_language_models) — Wikipedia
-- [LLM API Pricing Comparison 2026](https://benchlm.ai/llm-pricing) — Cost Per Token for GPT, Claude, Gemini & More
-- [LLM Explorer](https://llm-explorer.com/) — A Curated Large Language Model Directory
-- [LLM Leaderboard](https://www.vellum.ai/llm-leaderboard) — Vellum
-- [LLM Leaderboard 2025](https://llm-stats.com/) — Model Rankings & Analysis
-- [LLM Pricing](https://llmpricing.dev/en/) — Compare 2100+ Models & 183+ Providers · 8/2026
-- [LLM pricing calculator](https://www.llm-prices.com/)
-- [Odysseys](https://odysseysbench.com/) — a benchmark for long-horizon web agents
-- [OpenRouter](https://openrouter.ai/rankings) — LLM Rankings
-- [Price Per Toke](https://pricepertoken.com/) — LLM API Pricing 2026
-- [SWE-bench](https://www.swebench.com/)
-- [World of AI Bench](https://www.woaibench.ai/) — AI Coding Benchmark and Model Rankings
-
-## Model Serving
-
-### AI Serving Engines
-- ⭐ **[Ainize.ai](https://ainize.ai/)**
-- ⭐ **[Ollama](https://ollama.com/)** / <a href="https://github.com/ollama/ollama"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
-- ⭐ **[Ollaya · Run decision models locally](https://ollaya.dev/)** / <a href="https://github.com/ollaya-dev/ollaya"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
-- ⭐ **[OpenRouter](https://openrouter.ai/)**
-- [9Router](https://9router.com/) / <a href="https://github.com/decolua/9router"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Free AI Router | Smart Fallback for Claude, Codex & More
-- [AgenticOS](https://www.hyper.space/login) — The Operating System for Autonomous AI Agents
-- [AIMLAPI.com](https://aimlapi.com/) — Access 400+ AI Models with a Single AI API
-- [alibaba/MNN · GitHub](https://github.com/alibaba/MNN)
-- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) — Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)
-- [Amazon Q](https://aws.amazon.com/q/) — AWS
-- [AMD-AIG-AIMA/Instella](https://github.com/AMD-AIG-AIMA/Instella) — Fully Open Language Models with Stellar Performance
-- [Andyyyy64/whichllm](https://github.com/Andyyyy64/whichllm) — Find the local LLM that actually runs and performs best on your hardware
-- [Arthur](https://www.arthur.ai/)
-- [BentoML](https://bentoml.com/) / <a href="https://github.com/bentoml/OpenLLM"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Build, Ship, Scale AI Applications
-- [BerriAI/litellm · GitHub](https://github.com/BerriAI/litellm)
-- [BlockRunAI/ClawRouter](https://github.com/BlockRunAI/ClawRouter) — The agent-native LLM router for OpenClaw. 41+ models, 1ms routing, USDC payments on Base & Solana via x402
-- [Caveman](https://getcaveman.dev/) / <a href="https://github.com/juliusbrussee/caveman"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — the token-efficient stack for agent-native builders
-- [Cohere.ai](https://cohere.ai/)
-- [Colossal-AI](https://colossalai.org/) / <a href="https://github.com/hpcaitech/ColossalAI"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
-- [cumulo-autumn/StreamDiffusion · GitHub](https://github.com/cumulo-autumn/StreamDiffusion)
-- [Daytona](https://www.daytona.io/) — Secure Infrastructure for Running AI-Generated Code
-- [DevPass by LLM Gateway](https://devpass.llmgateway.io/) — All-Access Dev Plans for AI Coding
-- [Dify](https://dify.ai/) / <a href="https://github.com/langgenius/dify/"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Leading Agentic Workflow Builder
-- [drumih/turbo-fieldfare · GitHub](https://github.com/drumih/turbo-fieldfare)
-- [E2B](https://e2b.dev/) — The Enterprise AI Agent Cloud
-- [Experiential Labs · The open source AI gateway](https://www.experientiallabs.ai/) / <a href="https://github.com/experientiallabs/experiential"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
-- [Fast Inference](https://fast.inference.net/) — Fast hosted models, one API
-- [Flowise](https://flowiseai.com/) / <a href="https://github.com/FlowiseAI/Flowise"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Build AI Agents, Visually
-- [Forefront](https://www.forefront.ai/) — Powerful Language Models A Click Away
-- [Lambda](https://lambda.ai/) — The Superintelligence Cloud
-- [LangChain](https://www.langchain.com/)
-- [Langfuse](https://langfuse.com/) / <a href="https://github.com/langfuse/langfuse"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
-- [Liquid AI](https://www.liquid.ai/) — Build efficient general-purpose AI at every scale
-- [LiteLLM](https://litellm.ai/) / <a href="https://github.com/BerriAI/litellm"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
-- [lkarlslund/laya.cpp](https://github.com/lkarlslund/laya.cpp) — C++ inference for Laya typed decisions - supports CUDA, Vulkan, Core ML, CPU
-- [Llama.cpp](https://llama-cpp.com/) / <a href="https://github.com/ggml-org/llama.cpp"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Run LLM Inference in C/C++
-- [LLMLingua Series](https://llmlingua.com/) / <a href="https://github.com/microsoft/LLMLingua"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Effectively Deliver Information to LLMs via Prompt Compression
-- [lyogavin/airllm](https://github.com/lyogavin/airllm) — AirLLM 70B inference with single 4GB GPU · GitHub
-- [microsoft/BitNet](https://github.com/microsoft/BitNet) — Official inference framework for 1-bit LLMs
-- [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) — Integrate cutting-edge LLM technology quickly and easily into your apps
-- [MLC LLM](https://llm.mlc.ai/) / <a href="https://github.com/mlc-ai/mlc-llm"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Home
-- [MLX](https://ml-explore.github.io/mlx/build/html/index.html) / <a href="https://github.com/ml-explore/mlx"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — MLX 0.31.2 documentation
-- [Modal](https://modal.com/) — High-performance AI infrastructure
-- [Niko1221/Strata · GitHub](https://github.com/Niko1221/Strata)
-- [NLP Cloud](https://nlpcloud.com/) — Advanced Artificial Intelligence API
-- [NVIDIA NIM APIs](https://build.nvidia.com/)
-- [OmniRoute](https://omniroute.online/) / <a href="https://github.com/diegosouzapw/OmniRoute"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Free AI Gateway for Multi-Provider LLMs
-- [Portkey](https://portkey.ai/) — Production Stack for Gen AI Builders
-- [sgl-project/sglang](https://github.com/sgl-project/sglang) — SGLang is a fast serving framework for large language models and vision language models.
-- [Sim](https://www.sim.ai/) / <a href="https://github.com/simstudioai/sim"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — The AI Workspace | Build, Deploy & Manage AI Agents
-- [Stability-AI/StableSwarmUI](https://github.com/Stability-AI/StableSwarmUI) — StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
-- [Syllabi](https://www.syllabi-ai.com/) / <a href="https://github.com/Achu-shankar/Syllabi"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Open Source AI Chatbot Platform with RAG
-- [Together AI](https://www.together.ai/) — Fast Inference, Fine-Tuning & Training
-- [Tokenomy](https://tokenomy.ai/) — Predict. Optimize. Ship AI with confidence.
-- [Unsloth](https://unsloth.ai/) / <a href="https://github.com/unslothai/unsloth"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Train and Run Models Locally
-- [vLLM](https://vllm.ai/) / <a href="https://github.com/vllm-project/vllm"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
-- [vllm-project/vllm](https://github.com/vllm-project/vllm) — A high-throughput and memory-efficient inference and serving engine for LLMs
-- [Weights & Biases](https://wandb.ai/site) — Developer tools for ML
-- [wilpel/caveman-compression](https://github.com/wilpel/caveman-compression) — Caveman Compression is a semantic compression method for LLM contexts
-- [zilliztech/claude-context · GitHub](https://github.com/zilliztech/claude-context)
-
-### AI Local On-Device
-- ⭐ **[a-ghorbani/pocketpal-ai](https://github.com/a-ghorbani/pocketpal-ai)** — An app that brings language models directly to your phone
-- ⭐ **[GPT4All](https://www.nomic.ai/gpt4all)** / <a href="https://github.com/nomic-ai/gpt4all"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
-- ⭐ **[LM Studio](https://lmstudio.ai/)** / <a href="https://github.com/lmstudio-ai"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Discover and run local LLMs
-- ⭐ **[Local AI](https://localai.io/)** / <a href="https://github.com/mudler/LocalAI"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
-- ⭐ **[Newelle](https://newelle.qsk.me/#home)** / <a href="https://github.com/qwersyk/Newelle"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Your Ultimate Virtual Assistant
-- ⭐ **[Pinokio](https://pinokio.co/)** / <a href="https://github.com/pinokiocomputer/pinokio"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Localhost Platform for Humans and AI
-- ⭐ **[SillyTavern](https://docs.sillytavern.app/)** / <a href="https://github.com/SillyTavern/SillyTavern"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
-- ⭐ **[Waku](https://waku.sh/)** / <a href="https://github.com/egoist/waku"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — one native app for all your coding agents
-- [AgenticSeek](https://fosowl.github.io/agenticSeek.html) / <a href="https://github.com/Fosowl/agenticSeek"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Private AI Assistant
-- [ayushh0110/ScreenMind](https://github.com/ayushh0110/ScreenMind) — AI-powered screen memory — captures, analyzes, and lets you search/chat your screen history. Powered by Gemma 4 . 100% local, 100% private.
-- [Chatbox AI](https://chatboxai.app/en/) / <a href="https://github.com/chatboxai/chatbox"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Your AI Copilot, Best AI Client on any device, Free Download
-- [Cotabby](https://www.cotabby.app/) / <a href="https://github.com/FuJacob/cotabby"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — local AI autocomplete for macOS
-- [Desert Ant Labs](https://desertant.com/) — On-device AI models and SDKs
-- [Ensu](https://ente.io/ensu/)
-- [fullmoon](https://fullmoon.app/) / <a href="https://github.com/mainframecomputer/fullmoon-ios"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — local intelligence
-- [GitHub](https://github.com/chatboxai/chatbox) — chatbox/chatbox: User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
-- [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) — A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
-- [Jan](https://jan.ai/) / <a href="https://github.com/janhq/jan"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Open-source ChatGPT Alternative
-- [Jeffser/Alpaca · GitHub](https://github.com/Jeffser/Alpaca)
-- [Layla](https://www.layla-network.ai/) — Experience the Best Offline AI Assistant
-- [Lekh AI](https://lekhai.app/) — Run AI Locally on Mac & iPhone
-- [LibreChat](https://www.librechat.ai/) / <a href="https://github.com/danny-avila/LibreChat"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
-- [LLM Hub](https://www.llm-hub.app/) / <a href="https://github.com/timmyy123/LLM-Hub"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — 15+ Private AI Models on Android, Free
-- [Local Waifu](https://localwaifu.com/) — A self-learning AI companion for macOS
-- [LocalAI](https://play.google.com/store/apps/details?id=com.ApexCreator.localaiapp) — Offline AI Chat LLM - Apps on Google Play
-- [Locally AI](https://locallyai.app/) — Run AI models locally on your iPhone, iPad, and Mac
-- [mlx-optiq · Run LLMs locally on your Mac](https://mlx-optiq.com/)
-- [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile) — Distribute and run LLMs with a single file. · GitHub
-- [Odysseus](https://odysseusai.dev/) / <a href="https://github.com/odysseus-dev/odysseus"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — A Self-Hosted AI Workspace
-- [oMLX](https://omlx.ai/) / <a href="https://github.com/jundot/omlx"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — LLM inference, optimized for your Mac
-- [OpenJarvis](https://openjarvis.stanford.edu/) / <a href="https://github.com/open-jarvis/OpenJarvis"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
-- [Osaurus](https://osaurus.ai/) / <a href="https://github.com/osaurus-ai/osaurus"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Own your AI
-- [PocketPal AI](https://pocketpal.llm-ventures.com/) — Your Privacy-First AI Companion
-- [Private AI for iPhone & Mac](https://enclaveai.app/) — Enclave AI - Private, Local, Offline AI Assistant for MacOS and iOS
-- [Private LLM](https://privatellm.app/en) — Local AI Chatbot
-- [PrivateGPT.dev](https://privategpt.dev/) / <a href="https://github.com/zylon-ai/private-gpt"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
-- [The Local AI Playground](https://www.localai.app/)
-- [Thunderbolt](https://www.thunderbolt.io/) — AI You Control
-- [WebLLM Chat](https://chat.webllm.ai/) / <a href="https://github.com/mlc-ai/web-llm-chat"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
-
-## Specialized Models
-
-### Recognition & Vision
-- [tphakala/birdnet-go](https://github.com/tphakala/birdnet-go) — Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi
-
 ### Simulation & World Models
 - [deeplethe/utopia](https://github.com/deeplethe/utopia) — World's first open-source enterprise world model.
+- [google-deepmind/weathernext](https://github.com/google-deepmind/weathernext)
 - [TencentARC/GAE-GeometricAutoEncoder](https://github.com/TencentARC/GAE-GeometricAutoEncoder) — \[arxiv'26\] GAE: Learning a Geometry-Native Latent Space for 3D-Consistent World Generation
 - [WorldCrafter](https://drexubery.github.io/WorldCrafter/) / <a href="https://github.com/TencentARC/WorldCrafter"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Consistent Video World Model with Implicit 3D-aware Memory

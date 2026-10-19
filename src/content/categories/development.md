@@ -1144,6 +1144,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [SuperSorter](https://chrome.google.com/webstore/detail/supersorter/hjebfgojnlefhdgmomncgjglmdckngij?hl=es) — Chrome Web Store
 - [Tab Session Manager](https://tab-session-manager.sienori.com/)
 - [Tab Stash](https://josh-berry.github.io/tab-stash/)
+- [Tab Wrangler · Regain control of your tabs](https://tabwrangler.com/) / <a href="https://github.com/tabwrangler/tabwrangler"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [Tabliss.io](https://tabliss.io/)
 - [timothypholmes/startup-page · GitHub](https://github.com/timothypholmes/startup-page)
 - [Toby](https://www.gettoby.com/)
@@ -2686,7 +2687,6 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [MonoDevelop](https://www.monodevelop.com/)
 - [Nova IDE](https://nova.app/)
 - [One Ware Studio](https://one-ware.com/studio/)
-- [Orca](https://www.onorca.dev/) — The Worktree IDE for Claude Code, Ghostty & AI Coding Agents
 - [Phoenix](https://phcode.dev/) — IDE for web
 - [PlatformIO](https://platformio.org/)
 - [Portable Python](https://sourceforge.net/projects/portable-python/)

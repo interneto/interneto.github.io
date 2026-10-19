@@ -5,7 +5,7 @@ description: Search engines, web directories, software directories, corporations
 
 # Online Services
 
-**Total Bookmarks:** 5678
+**Total Bookmarks:** 5680
 
 
 ## Biography
@@ -1359,6 +1359,7 @@ description: Search engines, web directories, software directories, corporations
 - [SubSource](https://subsource.net/) — Download Free Subtitles for Movies and TV Shows
 - [TVsubs.net](https://www.tvsubs.net/) — Download TV Show subtitles
 - [TVsubtitles.net](https://www.tvsubtitles.net/) — Download latest TV Show and TV Series subtitles
+- [Wyzie Subs](https://sub.wyzie.io/) / <a href="https://github.com/wyziedevs/wyzie-subs"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Subtitle API for Movies & TV
 
 ##### Movie Scripts Db
 - [Daily Script](https://www.dailyscript.com/) — Movie Scripts and Movie Screenplays
@@ -1738,6 +1739,7 @@ description: Search engines, web directories, software directories, corporations
 - [Mystique-Play/Mystique · Forgejo](https://forgejo.mxnticek.eu/Mystique-Play/Mystique)
 - [Paradise-91/ParaTV](https://github.com/Paradise-91/ParaTV)
 - [r/iptvx](https://www.reddit.com/r/iptvx/)
+- [schumijo/iptv](https://github.com/schumijo/iptv)
 - [World-iptv](https://world-iptv.club/) — Unlock Unlimited Entertainment
 
 ##### EPG List

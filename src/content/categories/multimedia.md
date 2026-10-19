@@ -5,7 +5,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 
 # Multimedia
 
-**Total Bookmarks:** 2209
+**Total Bookmarks:** 2211
 
 
 ## Audio & Music
@@ -352,6 +352,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [audiobookshelf](https://www.audiobookshelf.org/)
 - [Castopod](https://castopod.org/) — Podcast Host
 - [gPodder](https://gpodder.github.io/)
+- [Podcasts](https://podcasts.bluepill.life/) — A Free Podcast Player Browser Extension
 - [Poddr](https://sn8z.github.io/Poddr/) — Podcasts for desktop
 - [podStation RSS](https://podstation.github.io/)
 
@@ -2140,6 +2141,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [Metrolist](https://metrolist.meowery.eu/) / <a href="https://github.com/MetrolistGroup/Metrolist"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — YouTube Music Client
 - [NewPipe](https://newpipe.net/) / <a href="https://github.com/TeamNewPipe/NewPipe/"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — a free YouTube client
 - [nonbili/NouTube](https://github.com/nonbili/NouTube) — YouTube and YouTube Music in a single app. No ads, plays in the background.
+- [PipePipe](https://pipepipe.dev/) / <a href="https://github.com/InfinityLoop1308/PipePipe"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — An open-source Android app to let you browse YouTube, NicoNico and BiliBili freely
 - [PlasmaTube](https://apps.kde.org/plasmatube/) / [🔗](https://invent.kde.org/multimedia/plasmatube)
 - [reisxd/TizenTubeCobalt](https://github.com/reisxd/TizenTubeCobalt) — Experience TizenTube on other devices that are not Tizen.
 - [Schmiddi on Mobile / Pipeline · GitLab](https://gitlab.com/schmiddi-on-mobile/pipeline)

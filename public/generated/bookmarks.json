@@ -68,7 +68,8 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Generative Media",
-      "AI Image & Design"
+      "AI Image & Design",
+      "Upscalers & Restoration"
     ],
     "tags": [
       "Software: AI",
@@ -112,7 +113,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "Coding Assistant"
+      "AI App Builders"
     ],
     "tags": [
       "Software: AI"
@@ -150,8 +151,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
-      "LLMs (Large Language Models)"
+      "Generative Media",
+      "AI Image & Design"
     ],
     "tags": [
       "Source Code: GitHub",
@@ -212,7 +213,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "Skills & Plugins"
+      "Directories & Marketplaces"
     ],
     "tags": [
       "Software: AI",
@@ -272,8 +273,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Model Serving",
-      "AI Serving Engines"
+      "Agents & Automation",
+      "Agent Frameworks & UIs"
     ],
     "tags": [
       "Software: AI"
@@ -333,8 +334,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
-      "LLMs (Large Language Models)"
+      "Agents & Automation",
+      "Agent Frameworks & UIs"
     ],
     "tags": [
       "Source Code: GitHub",
@@ -372,7 +373,8 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Generative Media",
-      "AI Image & Design"
+      "AI Image & Design",
+      "Upscalers & Restoration"
     ],
     "tags": [
       "Software: AI",
@@ -429,8 +431,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Agents & Automation",
-      "Skills & Plugins"
+      "Language Models & Hubs",
+      "AI Study & Writing"
     ],
     "tags": [
       "Source Code: GitHub",
@@ -450,8 +452,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
-      "LLMs (Large Language Models)"
+      "Generative Media",
+      "AI Image & Design"
     ],
     "tags": [
       "Source Code: GitHub",
@@ -460,6 +462,28 @@
     ],
     "sourceCodeUrls": [],
     "createdAt": "2023-02-13T02:26:24.725Z"
+  },
+  {
+    "id": "1894241091",
+    "title": "ai-memory: long-term memory for AI coding agents",
+    "url": "https://aimemory.sh/",
+    "description": "Long-term memory for AI coding agents. Switch agents, machines and teammates without re-explaining your project. Open source, one binary, plain markdown.",
+    "domain": "aimemory.sh",
+    "cover": "https://aimemory.sh/_astro/og.DKLXKvK9.png",
+    "favorite": false,
+    "category": "ai-tools-and-services",
+    "subcategory": [
+      "Agents & Automation",
+      "Memory & RAG"
+    ],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitHub"
+    ],
+    "sourceCodeUrls": [
+      "https://github.com/akitaonrails/ai-memory"
+    ],
+    "createdAt": "2026-10-19T02:07:39.830Z"
   },
   {
     "id": "1792660395",
@@ -500,28 +524,6 @@
     ],
     "sourceCodeUrls": [],
     "createdAt": "2023-03-25T01:18:41.872Z"
-  },
-  {
-    "id": "789376348",
-    "title": "AI4Finance-Foundation/FinGPT · GitHub",
-    "url": "https://github.com/AI4Finance-Foundation/FinGPT",
-    "description": "FinGPT: Open-Source Financial Large Language Models! Revolutionize 🔥 We release the trained model on HuggingFace. - AI4Finance-Foundation/FinGPT",
-    "domain": "github.com",
-    "cover": "https://opengraph.githubassets.com/f8642014baa2fdd2e99303db57749d0643be5a6e5f2ef37143547ec4bed128ac/AI4Finance-Foundation/FinGPT",
-    "favorite": false,
-    "category": "ai-tools-and-services",
-    "subcategory": [
-      "Language Models & Hubs",
-      "LLMs (Large Language Models)"
-    ],
-    "tags": [
-      "Source Code: GitHub",
-      "Software: AI",
-      "Source Code: Hugging Face",
-      "Type: Open-Source"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2024-05-21T20:06:03.117Z"
   },
   {
     "id": "683958496",
@@ -615,7 +617,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "Coding Assistant"
+      "Coding Agent"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -687,8 +689,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
-      "LLMs (Large Language Models)"
+      "Model Serving",
+      "AI Local On-Device"
     ],
     "tags": [
       "Source Code: GitHub",
@@ -750,7 +752,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "Coding Assistant"
+      "Coding Agent"
     ],
     "tags": [
       "Software: AI",
@@ -867,8 +869,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Model Serving",
-      "AI Serving Engines"
+      "Language Models & Hubs",
+      "AI Chat Platforms"
     ],
     "tags": [
       "Company: Amazon",
@@ -888,8 +890,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Generative Media",
-      "AI Image & Design"
+      "Specialized Models",
+      "Recognition & Vision"
     ],
     "tags": [
       "Company: Amazon",
@@ -950,8 +952,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Generative Media",
-      "AI Image & Design"
+      "Specialized Models",
+      "Recognition & Vision"
     ],
     "tags": [
       "Source Code: GitHub",
@@ -990,7 +992,7 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
+      "Specialized Models",
       "AI Chess Engine"
     ],
     "tags": [
@@ -1052,7 +1054,8 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Generative Media",
-      "AI Image & Design"
+      "AI Image & Design",
+      "Face & Deepfake Tools"
     ],
     "tags": [
       "Software: AI"
@@ -1071,7 +1074,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "Skills & Plugins"
+      "Directories & Marketplaces"
     ],
     "tags": [
       "Software: AI"
@@ -1130,7 +1133,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "Coding Agent"
+      "Personal AI Assistants"
     ],
     "tags": [
       "Software: AI"
@@ -1284,7 +1287,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Generative Media",
-      "AI Image & Design"
+      "AI Creative Suite"
     ],
     "tags": [
       "Type: Open-Source",
@@ -1379,8 +1382,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Agents & Automation",
-      "Skills & Plugins"
+      "Language Models & Hubs",
+      "AI Study & Writing"
     ],
     "tags": [
       "Source Code: GitHub",
@@ -1456,7 +1459,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "Coding Agent"
+      "Agent Frameworks & UIs"
     ],
     "tags": [
       "Software: AI",
@@ -1480,8 +1483,8 @@
     "favorite": true,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
-      "LLMs (Large Language Models)"
+      "Generative Media",
+      "AI Image & Design"
     ],
     "tags": [
       "❤️",
@@ -1504,7 +1507,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "Skills & Plugins"
+      "Directories & Marketplaces"
     ],
     "tags": [
       "Type: Open-Source"
@@ -1543,8 +1546,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Agents & Automation",
-      "Skills & Plugins"
+      "Language Models & Hubs",
+      "AI Study & Writing"
     ],
     "tags": [
       "Content: List",
@@ -1568,7 +1571,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "MCP Servers"
+      "Directories & Marketplaces"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -1648,7 +1651,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "Agent Frameworks & UIs"
+      "Workflow Automation"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -1686,8 +1689,9 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
-      "LLMs (Large Language Models)"
+      "Generative Media",
+      "AI Image & Design",
+      "Upscalers & Restoration"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -1786,7 +1790,8 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Generative Media",
-      "AI Image & Design"
+      "AI Image & Design",
+      "Face & Deepfake Tools"
     ],
     "tags": [
       "Software: AI"
@@ -1825,8 +1830,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
-      "LLMs (Large Language Models)"
+      "Model Serving",
+      "AI Local On-Device"
     ],
     "tags": [
       "Software: AI",
@@ -1846,7 +1851,8 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Generative Media",
-      "AI Image & Design"
+      "AI Image & Design",
+      "Upscalers & Restoration"
     ],
     "tags": [
       "Software: AI",
@@ -1886,8 +1892,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
-      "LLMs (Large Language Models)"
+      "Generative Media",
+      "AI Image & Design"
     ],
     "tags": [
       "Software: AI",
@@ -1908,8 +1914,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
-      "LLMs (Large Language Models)"
+      "Generative Media",
+      "AI Image & Design"
     ],
     "tags": [
       "Source Code: Hugging Face",
@@ -1929,8 +1935,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
-      "LLMs (Large Language Models)"
+      "Generative Media",
+      "AI Image & Design"
     ],
     "tags": [
       "Source Code: Hugging Face",
@@ -2009,7 +2015,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "Coding Assistant"
+      "AI App Builders"
     ],
     "tags": [
       "Software: AI"
@@ -2084,8 +2090,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Agents & Automation",
-      "Agent Frameworks & UIs"
+      "Generative Media",
+      "AI Video"
     ],
     "tags": [
       "Type: Open-Source",
@@ -2186,8 +2192,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Agents & Automation",
-      "Agent Frameworks & UIs"
+      "Generative Media",
+      "AI Video"
     ],
     "tags": [
       "Software: AI",
@@ -2226,8 +2232,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
-      "AI Datasets & Benchmarks"
+      "Model Serving",
+      "AI Local On-Device"
     ],
     "tags": [
       "Content: List",
@@ -2237,29 +2243,6 @@
       "https://github.com/midudev/canirun.ai"
     ],
     "createdAt": "2026-03-19T14:16:04.329Z"
-  },
-  {
-    "id": "1720146159",
-    "title": "career-ops — AI-powered job search command center",
-    "url": "https://career-ops.org/",
-    "description": "Open source AI-powered job search system. Runs in your CLI. CLI-agnostic, MIT, local-first.",
-    "domain": "career-ops.org",
-    "cover": "https://career-ops.org/opengraph-image-12gd74?e87afa5d097d9282",
-    "favorite": false,
-    "category": "ai-tools-and-services",
-    "subcategory": [
-      "Agents & Automation",
-      "Agent Frameworks & UIs"
-    ],
-    "tags": [
-      "Software: AI",
-      "Type: Open-Source",
-      "Software: CLI"
-    ],
-    "sourceCodeUrls": [
-      "https://github.com/santifer/career-ops"
-    ],
-    "createdAt": "2026-05-16T14:33:54.123Z"
   },
   {
     "id": "1817508370",
@@ -2291,8 +2274,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Model Serving",
-      "AI Serving Engines"
+      "Agents & Automation",
+      "Skills & Plugins"
     ],
     "tags": [
       "Software: LLM",
@@ -2337,7 +2320,7 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
+      "Specialized Models",
       "AI Chess Engine"
     ],
     "tags": [
@@ -2358,7 +2341,8 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Generative Media",
-      "AI Image & Design"
+      "AI Image & Design",
+      "Face & Deepfake Tools"
     ],
     "tags": [
       "Software: AI"
@@ -2377,7 +2361,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "Agent Frameworks & UIs"
+      "AI App Builders"
     ],
     "tags": [
       "Software: AI",
@@ -2397,7 +2381,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "Agent Frameworks & UIs"
+      "Personal AI Assistants"
     ],
     "tags": [
       "Software: AI"
@@ -2416,7 +2400,8 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Generative Media",
-      "AI Image & Design"
+      "AI Image & Design",
+      "Face & Deepfake Tools"
     ],
     "tags": [
       "Software: AI"
@@ -2517,7 +2502,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "Agent Frameworks & UIs"
+      "Personal AI Assistants"
     ],
     "tags": [
       "Company: OpenAI",
@@ -2633,7 +2618,7 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
+      "Specialized Models",
       "AI Chess Engine"
     ],
     "tags": [
@@ -2673,7 +2658,7 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
+      "Specialized Models",
       "AI Chess Engine"
     ],
     "tags": [
@@ -2737,7 +2722,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "Agent Frameworks & UIs"
+      "Workflow Automation"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -2798,7 +2783,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "Skills & Plugins"
+      "Directories & Marketplaces"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -2815,7 +2800,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "Agent Frameworks & UIs"
+      "Personal AI Assistants"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -2832,7 +2817,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "Skills & Plugins"
+      "Directories & Marketplaces"
     ],
     "tags": [
       "Content: List",
@@ -2872,7 +2857,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "Skills & Plugins"
+      "Directories & Marketplaces"
     ],
     "tags": [
       "Software: AI",
@@ -2893,7 +2878,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "Skills & Plugins"
+      "Directories & Marketplaces"
     ],
     "tags": [
       "Software: AI"
@@ -2902,6 +2887,28 @@
       "https://github.com/openclaw/clawhub"
     ],
     "createdAt": "2026-02-13T23:44:41.622Z"
+  },
+  {
+    "id": "1894240238",
+    "title": "CLI-Anything Hub - Agent-Friendly CLI Registry",
+    "url": "https://clianything.cc/",
+    "description": "Agent-friendly CLI registry and package manager for discovering, installing, and launching command-line tools.",
+    "domain": "clianything.cc",
+    "cover": "https://rdl.ink/render/https%3A%2F%2Fclianything.cc%2F",
+    "favorite": false,
+    "category": "ai-tools-and-services",
+    "subcategory": [
+      "Agents & Automation",
+      "Agent Frameworks & UIs"
+    ],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitHub"
+    ],
+    "sourceCodeUrls": [
+      "https://github.com/HKUDS/CLI-Anything"
+    ],
+    "createdAt": "2026-10-19T02:05:12.997Z"
   },
   {
     "id": "1718507743",
@@ -2996,7 +3003,7 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
+      "Specialized Models",
       "AI Chess Engine"
     ],
     "tags": [
@@ -3144,8 +3151,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
-      "LLMs (Large Language Models)"
+      "Model Serving",
+      "AI Serving Engines"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -3215,6 +3222,29 @@
     "createdAt": "2022-03-14T22:35:46.102Z"
   },
   {
+    "id": "1894585360",
+    "title": "colibri",
+    "url": "https://justvugg.github.io/colibri/",
+    "description": "Run frontier open models on hardware you already own. Ten language-model families, an image model and decision models, up to 2.8T parameters, pure C, zero dependencies.",
+    "domain": "justvugg.github.io",
+    "cover": "https://raw.githubusercontent.com/JustVugg/colibri/main/docs/media/colibri-atlas.png",
+    "favorite": true,
+    "category": "ai-tools-and-services",
+    "subcategory": [
+      "Model Serving",
+      "AI Serving Engines"
+    ],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitHub",
+      "❤️"
+    ],
+    "sourceCodeUrls": [
+      "https://github.com/JustVugg/colibri"
+    ],
+    "createdAt": "2026-10-19T13:30:15.368Z"
+  },
+  {
     "id": "976497875",
     "title": "Colossal-AI",
     "url": "https://colossalai.org/",
@@ -3271,8 +3301,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
-      "LLMs (Large Language Models)"
+      "Generative Media",
+      "AI Image & Design"
     ],
     "tags": [
       "Source Code: Hugging Face",
@@ -3311,7 +3341,7 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
+      "Specialized Models",
       "AI Chess Engine"
     ],
     "tags": [
@@ -3394,7 +3424,7 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
+      "Specialized Models",
       "AI Chess Engine"
     ],
     "tags": [
@@ -3481,8 +3511,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Model Serving",
-      "AI Serving Engines"
+      "Generative Media",
+      "AI Image & Design"
     ],
     "tags": [
       "Source Code: GitHub",
@@ -3600,7 +3630,8 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Generative Media",
-      "AI Image & Design"
+      "AI Image & Design",
+      "Face & Deepfake Tools"
     ],
     "tags": [
       "Software: AI"
@@ -3619,7 +3650,8 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Generative Media",
-      "AI Image & Design"
+      "AI Image & Design",
+      "Face & Deepfake Tools"
     ],
     "tags": [
       "Software: AI"
@@ -3637,8 +3669,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Generative Media",
-      "AI Image & Design"
+      "Specialized Models",
+      "Recognition & Vision"
     ],
     "tags": [
       "Software: AI"
@@ -3656,8 +3688,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
-      "LLMs (Large Language Models)"
+      "Generative Media",
+      "AI Image & Design"
     ],
     "tags": [
       "Source Code: GitHub",
@@ -3716,7 +3748,8 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Generative Media",
-      "AI Image & Design"
+      "AI Image & Design",
+      "Face & Deepfake Tools"
     ],
     "tags": [
       "Software: AI",
@@ -3784,7 +3817,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "Coding Assistant"
+      "Coding Agent"
     ],
     "tags": [
       "Software: AI",
@@ -3925,7 +3958,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "Coding Assistant"
+      "Coding Agent"
     ],
     "tags": [
       "Software: AI",
@@ -4004,8 +4037,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Model Serving",
-      "AI Serving Engines"
+      "Agents & Automation",
+      "Workflow Automation"
     ],
     "tags": [
       "Software: AI",
@@ -4047,7 +4080,7 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
+      "Specialized Models",
       "AI Chess Engine"
     ],
     "tags": [
@@ -4087,7 +4120,7 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
+      "Specialized Models",
       "AI Chess Engine"
     ],
     "tags": [
@@ -4163,7 +4196,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "Coding Assistant"
+      "Coding Agent"
     ],
     "tags": [
       "Software: AI",
@@ -4184,7 +4217,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "Agent Frameworks & UIs"
+      "Personal AI Assistants"
     ],
     "tags": [
       "Software: AI",
@@ -4206,8 +4239,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Agents & Automation",
-      "Coding Assistant"
+      "Language Models & Hubs",
+      "LLMs (Large Language Models)"
     ],
     "tags": [
       "Company: Stability.ai",
@@ -4228,7 +4261,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Generative Media",
-      "AI Music & Audio"
+      "AI Speech & Voice"
     ],
     "tags": [
       "❤️",
@@ -4267,8 +4300,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Agents & Automation",
-      "Agent Frameworks & UIs"
+      "Language Models & Hubs",
+      "AI Study & Writing"
     ],
     "tags": [
       "Software: AI"
@@ -4287,7 +4320,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "Agent Frameworks & UIs"
+      "Personal AI Assistants"
     ],
     "tags": [
       "Type: Open-Source",
@@ -4309,7 +4342,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "Coding Assistant"
+      "Coding Agent"
     ],
     "tags": [
       "Software: AI",
@@ -4331,7 +4364,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "Coding Assistant"
+      "AI App Builders"
     ],
     "tags": [
       "Software: AI"
@@ -4392,7 +4425,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "Agent Frameworks & UIs"
+      "Personal AI Assistants"
     ],
     "tags": [
       "Software: AI"
@@ -4577,7 +4610,8 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Generative Media",
-      "AI Image & Design"
+      "AI Image & Design",
+      "Upscalers & Restoration"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -4593,8 +4627,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
-      "LLMs (Large Language Models)"
+      "Specialized Models",
+      "Recognition & Vision"
     ],
     "tags": [
       "Source Code: GitHub",
@@ -4615,7 +4649,8 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Generative Media",
-      "AI Image & Design"
+      "AI Image & Design",
+      "Face & Deepfake Tools"
     ],
     "tags": [
       "Software: AI"
@@ -4633,8 +4668,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
-      "LLMs (Large Language Models)"
+      "Generative Media",
+      "AI Music & Audio"
     ],
     "tags": [
       "Source Code: GitHub",
@@ -4655,7 +4690,8 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Generative Media",
-      "AI Image & Design"
+      "AI Image & Design",
+      "Face & Deepfake Tools"
     ],
     "tags": [
       "Type: Open-Source",
@@ -4677,7 +4713,8 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Generative Media",
-      "AI Image & Design"
+      "AI Image & Design",
+      "Face & Deepfake Tools"
     ],
     "tags": [
       "Software: AI"
@@ -4696,7 +4733,8 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Generative Media",
-      "AI Image & Design"
+      "AI Image & Design",
+      "Face & Deepfake Tools"
     ],
     "tags": [
       "Software: AI",
@@ -4718,7 +4756,7 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
+      "Specialized Models",
       "AI Chess Engine"
     ],
     "tags": [
@@ -4739,8 +4777,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Generative Media",
-      "AI Image & Design"
+      "Specialized Models",
+      "Recognition & Vision"
     ],
     "tags": [
       "Software: AI",
@@ -4836,7 +4874,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Generative Media",
-      "AI Music & Audio"
+      "AI Speech & Voice"
     ],
     "tags": [
       "❤️",
@@ -4857,8 +4895,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
-      "LLMs (Large Language Models)"
+      "Specialized Models",
+      "Recognition & Vision"
     ],
     "tags": [
       "Source Code: GitHub",
@@ -4955,7 +4993,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "Agent Frameworks & UIs"
+      "Workflow Automation"
     ],
     "tags": [
       "Software: AI"
@@ -4973,8 +5011,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Model Serving",
-      "AI Serving Engines"
+      "Agents & Automation",
+      "Workflow Automation"
     ],
     "tags": [
       "Software: AI",
@@ -5015,8 +5053,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
-      "LLMs (Large Language Models)"
+      "Generative Media",
+      "AI Image & Design"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -5068,8 +5106,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Model Serving",
-      "AI Serving Engines"
+      "Language Models & Hubs",
+      "AI Chat Platforms"
     ],
     "tags": [
       "Software: AI"
@@ -5108,7 +5146,8 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Generative Media",
-      "AI Image & Design"
+      "AI Image & Design",
+      "Upscalers & Restoration"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -5125,7 +5164,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "Agent Frameworks & UIs"
+      "Coding Agent"
     ],
     "tags": [
       "Type: Open-Source"
@@ -5145,8 +5184,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Agents & Automation",
-      "Skills & Plugins"
+      "Language Models & Hubs",
+      "AI Study & Writing"
     ],
     "tags": [
       "Source Code: GitHub",
@@ -5212,8 +5251,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Agents & Automation",
-      "Agent Frameworks & UIs"
+      "Language Models & Hubs",
+      "AI Chat Platforms"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -5229,7 +5268,7 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
+      "Specialized Models",
       "AI Chess Engine"
     ],
     "tags": [
@@ -5271,7 +5310,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "Coding Assistant"
+      "Coding Agent"
     ],
     "tags": [
       "Software: AI",
@@ -5372,8 +5411,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
-      "LLMs (Large Language Models)"
+      "Generative Media",
+      "AI Video"
     ],
     "tags": [
       "Software: AI"
@@ -5762,8 +5801,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
-      "LLMs (Large Language Models)"
+      "Specialized Models",
+      "Simulation & World Models"
     ],
     "tags": [
       "Source Code: GitHub",
@@ -5826,8 +5865,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
-      "LLMs (Large Language Models)"
+      "Generative Media",
+      "AI Music & Audio"
     ],
     "tags": [
       "Software: AI",
@@ -6014,7 +6053,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "Agent Frameworks & UIs"
+      "Workflow Automation"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -6030,8 +6069,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
-      "LLMs (Large Language Models)"
+      "Model Serving",
+      "AI Local On-Device"
     ],
     "tags": [
       "Software: AI"
@@ -6173,7 +6212,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "Skills & Plugins"
+      "Directories & Marketplaces"
     ],
     "tags": [
       "Software: AI",
@@ -6194,7 +6233,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "Agent Frameworks & UIs"
+      "Coding Agent"
     ],
     "tags": [
       "Software: CLI",
@@ -6213,8 +6252,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Generative Media",
-      "AI Image & Design"
+      "Model Serving",
+      "AI Serving Engines"
     ],
     "tags": [
       "Software: AI"
@@ -6232,8 +6271,8 @@
     "favorite": true,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Agents & Automation",
-      "Coding Assistant"
+      "Language Models & Hubs",
+      "LLMs (Large Language Models)"
     ],
     "tags": [
       "Source Code: GitHub",
@@ -6257,7 +6296,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "Coding Agent"
+      "Personal AI Assistants"
     ],
     "tags": [
       "Software: AI",
@@ -6337,8 +6376,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
-      "LLMs (Large Language Models)"
+      "Specialized Models",
+      "Recognition & Vision"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -6375,7 +6414,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "Coding Assistant"
+      "Coding Agent"
     ],
     "tags": [
       "Type: Open-Source",
@@ -6395,7 +6434,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "Skills & Plugins"
+      "Directories & Marketplaces"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -6411,7 +6450,7 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
+      "Specialized Models",
       "AI Chess Engine"
     ],
     "tags": [
@@ -6430,8 +6469,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
-      "LLMs (Large Language Models)"
+      "Generative Media",
+      "AI Video"
     ],
     "tags": [
       "Source Code: GitHub",
@@ -6451,7 +6490,7 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
+      "Specialized Models",
       "AI Chess Engine"
     ],
     "tags": [
@@ -6512,7 +6551,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Generative Media",
-      "AI Music & Audio"
+      "AI Speech & Voice"
     ],
     "tags": [
       "Source Code: GitHub",
@@ -6662,8 +6701,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
-      "LLMs (Large Language Models)"
+      "Generative Media",
+      "AI Image & Design"
     ],
     "tags": [
       "Type: Open-Source",
@@ -6682,8 +6721,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Generative Media",
-      "AI Music & Audio"
+      "Language Models & Hubs",
+      "AI Study & Writing"
     ],
     "tags": [
       "Company: Alphabet (Google)",
@@ -6703,7 +6742,8 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Generative Media",
-      "AI Image & Design"
+      "AI Image & Design",
+      "Upscalers & Restoration"
     ],
     "tags": [
       "Software: AI",
@@ -6723,7 +6763,8 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Generative Media",
-      "AI Image & Design"
+      "AI Image & Design",
+      "Upscalers & Restoration"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -6740,7 +6781,8 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Generative Media",
-      "AI Image & Design"
+      "AI Image & Design",
+      "Upscalers & Restoration"
     ],
     "tags": [
       "Software: AI"
@@ -6799,7 +6841,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "Coding Assistant"
+      "AI App Builders"
     ],
     "tags": [
       "Software: AI",
@@ -6820,8 +6862,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Agents & Automation",
-      "Coding Assistant"
+      "Language Models & Hubs",
+      "AI Study & Writing"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -6856,8 +6898,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
-      "LLMs (Large Language Models)"
+      "Generative Media",
+      "AI Image & Design"
     ],
     "tags": [
       "Page: GitHub",
@@ -6899,7 +6941,8 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Generative Media",
-      "AI Image & Design"
+      "AI Image & Design",
+      "Face & Deepfake Tools"
     ],
     "tags": [
       "Source Code: GitHub",
@@ -6961,8 +7004,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
-      "LLMs (Large Language Models)"
+      "Model Serving",
+      "AI Local On-Device"
     ],
     "tags": [
       "Source Code: GitHub",
@@ -7019,23 +7062,6 @@
     "createdAt": "2024-01-06T11:52:17.056Z"
   },
   {
-    "id": "1861858367",
-    "title": "jarrodwatts/jev-trader: One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
-    "url": "https://github.com/jarrodwatts/jev-trader",
-    "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC. - jarrodwatts/jev-trader",
-    "domain": "github.com",
-    "cover": "https://opengraph.githubassets.com/1b3918f50c6938c0a2000db5fe5dd7fd4e7a72a462df1bd5e1790fff606b39fc/jarrodwatts/jev-trader",
-    "favorite": false,
-    "category": "ai-tools-and-services",
-    "subcategory": [
-      "Language Models & Hubs",
-      "LLMs (Large Language Models)"
-    ],
-    "tags": [],
-    "sourceCodeUrls": [],
-    "createdAt": "2026-09-21T16:50:10.299Z"
-  },
-  {
     "id": "1746119997",
     "title": "jasperan/picooraclaw: PicoClaw that works with Oracle AI Database",
     "url": "https://github.com/jasperan/picooraclaw",
@@ -7046,7 +7072,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "Agent Frameworks & UIs"
+      "Personal AI Assistants"
     ],
     "tags": [
       "Software: AI",
@@ -7065,7 +7091,7 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
+      "Specialized Models",
       "AI Chess Engine"
     ],
     "tags": [
@@ -7117,29 +7143,6 @@
     "createdAt": "2026-10-03T21:10:49.203Z"
   },
   {
-    "id": "1861858480",
-    "title": "Jev Trade | Live Jev trading bot on crypto and other assets",
-    "url": "https://www.jev-trade.com/",
-    "description": "Jev Trade is live Jev trading: a bot that reads the book every tick and trades BTC, ETH, SOL, DOGE, and BNB.",
-    "domain": "www.jev-trade.com",
-    "cover": "https://www.jev-trade.com/og.png",
-    "favorite": false,
-    "category": "ai-tools-and-services",
-    "subcategory": [
-      "Language Models & Hubs",
-      "LLMs (Large Language Models)"
-    ],
-    "tags": [
-      "Type: Open-Source",
-      "Source Code: GitHub",
-      "Software: AI"
-    ],
-    "sourceCodeUrls": [
-      "https://github.com/aowang-ai/jev-trade"
-    ],
-    "createdAt": "2026-09-21T16:50:30.154Z"
-  },
-  {
     "id": "1862897834",
     "title": "JevBench — Decision models for live agents",
     "url": "https://jevbench.dev/",
@@ -7171,7 +7174,7 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
+      "Specialized Models",
       "AI Chess Engine"
     ],
     "tags": [
@@ -7192,7 +7195,7 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
+      "Specialized Models",
       "AI Chess Engine"
     ],
     "tags": [
@@ -7335,7 +7338,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "Coding Assistant"
+      "Coding Agent"
     ],
     "tags": [
       "Software: AI"
@@ -7448,8 +7451,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
-      "LLMs (Large Language Models)"
+      "Model Serving",
+      "AI Local On-Device"
     ],
     "tags": [
       "Source Code: GitHub",
@@ -7505,8 +7508,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
-      "LLMs (Large Language Models)"
+      "Generative Media",
+      "AI Video"
     ],
     "tags": [
       "Source Code: GitHub",
@@ -7584,8 +7587,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Model Serving",
-      "AI Serving Engines"
+      "Agents & Automation",
+      "Agent Frameworks & UIs"
     ],
     "tags": [
       "Software: AI",
@@ -7648,7 +7651,7 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
+      "Specialized Models",
       "AI Chess Engine"
     ],
     "tags": [
@@ -7710,8 +7713,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Agents & Automation",
-      "Skills & Plugins"
+      "Language Models & Hubs",
+      "AI Study & Writing"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -7727,8 +7730,8 @@
     "favorite": true,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
-      "LLMs (Large Language Models)"
+      "Generative Media",
+      "AI Image & Design"
     ],
     "tags": [
       "❤️",
@@ -7750,7 +7753,7 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
+      "Specialized Models",
       "AI Chess Engine"
     ],
     "tags": [
@@ -7770,7 +7773,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "Coding Assistant"
+      "AI App Builders"
     ],
     "tags": [
       "Software: AI"
@@ -7851,7 +7854,8 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Generative Media",
-      "AI Image & Design"
+      "AI Image & Design",
+      "Upscalers & Restoration"
     ],
     "tags": [
       "Software: AI",
@@ -7910,7 +7914,7 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
+      "Specialized Models",
       "AI Chess Engine"
     ],
     "tags": [
@@ -7954,7 +7958,7 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
+      "Specialized Models",
       "AI Chess Engine"
     ],
     "tags": [
@@ -7974,7 +7978,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "Agent Frameworks & UIs"
+      "Personal AI Assistants"
     ],
     "tags": [
       "Type: Open-Source",
@@ -7995,8 +7999,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
-      "LLMs (Large Language Models)"
+      "Generative Media",
+      "AI Video"
     ],
     "tags": [
       "Software: AI",
@@ -8016,8 +8020,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Agents & Automation",
-      "Skills & Plugins"
+      "Language Models & Hubs",
+      "AI Study & Writing"
     ],
     "tags": [
       "Source Code: GitHub",
@@ -8037,8 +8041,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Model Serving",
-      "AI Serving Engines"
+      "Language Models & Hubs",
+      "LLMs (Large Language Models)"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -8054,8 +8058,9 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
-      "LLMs (Large Language Models)"
+      "Generative Media",
+      "AI Image & Design",
+      "Face & Deepfake Tools"
     ],
     "tags": [
       "Software: AI",
@@ -8244,8 +8249,8 @@
     "favorite": true,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
-      "LLMs (Large Language Models)"
+      "Generative Media",
+      "AI Image & Design"
     ],
     "tags": [
       "❤️",
@@ -8450,7 +8455,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Language Models & Hubs",
-      "LLMs (Large Language Models)"
+      "AI Datasets & Benchmarks"
     ],
     "tags": [
       "Source Code: Hugging Face",
@@ -8594,8 +8599,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Agents & Automation",
-      "Skills & Plugins"
+      "Language Models & Hubs",
+      "AI Study & Writing"
     ],
     "tags": [
       "Source Code: GitHub",
@@ -8615,7 +8620,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "Coding Agent"
+      "AI App Builders"
     ],
     "tags": [
       "Software: AI"
@@ -8673,7 +8678,7 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
+      "Specialized Models",
       "AI Chess Engine"
     ],
     "tags": [
@@ -8763,26 +8768,6 @@
     ],
     "sourceCodeUrls": [],
     "createdAt": "2026-07-02T21:30:37.205Z"
-  },
-  {
-    "id": "1835448957",
-    "title": "MadsLorentzen/ai-job-search: The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-    "url": "https://github.com/MadsLorentzen/ai-job-search",
-    "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it. - MadsLorentzen...",
-    "domain": "github.com",
-    "cover": "https://repository-images.githubusercontent.com/1185389803/271a94f5-52ea-4327-87ea-135166c3c697",
-    "favorite": false,
-    "category": "ai-tools-and-services",
-    "subcategory": [
-      "Agents & Automation",
-      "Skills & Plugins"
-    ],
-    "tags": [
-      "Type: Open-Source",
-      "Source Code: GitHub"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2026-08-26T23:58:48.434Z"
   },
   {
     "id": "1826603708",
@@ -8896,7 +8881,8 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Generative Media",
-      "AI Image & Design"
+      "AI Image & Design",
+      "Upscalers & Restoration"
     ],
     "tags": [
       "Software: AI"
@@ -8914,7 +8900,7 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
+      "Specialized Models",
       "AI Chess Engine"
     ],
     "tags": [
@@ -8934,7 +8920,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "Agent Frameworks & UIs"
+      "Workflow Automation"
     ],
     "tags": [
       "OS Compatibility: web app"
@@ -8952,7 +8938,7 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
+      "Specialized Models",
       "AI Chess Engine"
     ],
     "tags": [
@@ -9033,7 +9019,7 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
+      "Specialized Models",
       "AI Chess Engine"
     ],
     "tags": [
@@ -9096,7 +9082,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "MCP Servers"
+      "Directories & Marketplaces"
     ],
     "tags": [
       "❤️",
@@ -9116,7 +9102,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "MCP Servers"
+      "Directories & Marketplaces"
     ],
     "tags": [
       "Content: List"
@@ -9135,7 +9121,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "MCP Servers"
+      "Directories & Marketplaces"
     ],
     "tags": [
       "Software: AI"
@@ -9153,8 +9139,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
-      "LLMs (Large Language Models)"
+      "Generative Media",
+      "AI Video"
     ],
     "tags": [
       "Source Code: GitHub",
@@ -9258,7 +9244,8 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Generative Media",
-      "AI Image & Design"
+      "AI Image & Design",
+      "Face & Deepfake Tools"
     ],
     "tags": [
       "Software: AI"
@@ -9317,8 +9304,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Generative Media",
-      "AI Image & Design"
+      "Specialized Models",
+      "Recognition & Vision"
     ],
     "tags": [
       "Company: Microsoft",
@@ -9443,8 +9430,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Model Serving",
-      "AI Serving Engines"
+      "Agents & Automation",
+      "Agent Frameworks & UIs"
     ],
     "tags": [
       "Software: LLM",
@@ -9643,8 +9630,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
-      "AI Study & Writing"
+      "Agents & Automation",
+      "Agent Frameworks & UIs"
     ],
     "tags": [
       "Software: AI",
@@ -9689,7 +9676,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "Coding Assistant"
+      "Coding Agent"
     ],
     "tags": [
       "Software: AI",
@@ -9834,8 +9821,9 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
-      "LLMs (Large Language Models)"
+      "Generative Media",
+      "AI Image & Design",
+      "Upscalers & Restoration"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -9887,8 +9875,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
-      "LLMs (Large Language Models)"
+      "Generative Media",
+      "AI Image & Design"
     ],
     "tags": [
       "Software: AI",
@@ -10102,7 +10090,8 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Generative Media",
-      "AI Image & Design"
+      "AI Image & Design",
+      "Face & Deepfake Tools"
     ],
     "tags": [
       "Software: AI"
@@ -10121,7 +10110,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "Agent Frameworks & UIs"
+      "Personal AI Assistants"
     ],
     "tags": [
       "OS Compatibility: web app",
@@ -10141,7 +10130,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "Agent Frameworks & UIs"
+      "Workflow Automation"
     ],
     "tags": [
       "❤️",
@@ -10163,7 +10152,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "Coding Agent"
+      "Personal AI Assistants"
     ],
     "tags": [
       "Software: AI",
@@ -10203,8 +10192,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
-      "LLMs (Large Language Models)"
+      "Model Serving",
+      "AI Local On-Device"
     ],
     "tags": [
       "Source Code: GitHub",
@@ -10225,7 +10214,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "Coding Assistant"
+      "AI App Builders"
     ],
     "tags": [
       "Software: AI"
@@ -10266,7 +10255,7 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
+      "Specialized Models",
       "AI Chess Engine"
     ],
     "tags": [
@@ -10305,8 +10294,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
-      "LLMs (Large Language Models)"
+      "Generative Media",
+      "AI Video"
     ],
     "tags": [
       "Software: AI",
@@ -10345,7 +10334,7 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
+      "Specialized Models",
       "AI Chess Engine"
     ],
     "tags": [
@@ -10443,7 +10432,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "Coding Agent"
+      "Personal AI Assistants"
     ],
     "tags": [
       "Software: AI",
@@ -10568,7 +10557,7 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
+      "Specialized Models",
       "AI Chess Engine"
     ],
     "tags": [
@@ -10590,7 +10579,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "Skills & Plugins"
+      "Directories & Marketplaces"
     ],
     "tags": [
       "Content: List",
@@ -10901,7 +10890,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "Skills & Plugins"
+      "Directories & Marketplaces"
     ],
     "tags": [
       "Source Code: GitHub"
@@ -10940,7 +10929,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "Agent Frameworks & UIs"
+      "Coding Agent"
     ],
     "tags": [
       "Type: Open-Source",
@@ -10962,7 +10951,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "Coding Agent"
+      "Personal AI Assistants"
     ],
     "tags": [
       "Software: AI",
@@ -11036,7 +11025,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "Agent Frameworks & UIs"
+      "Personal AI Assistants"
     ],
     "tags": [
       "Type: Open-Source",
@@ -11161,7 +11150,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "Coding Assistant"
+      "Memory & RAG"
     ],
     "tags": [
       "Software: AI",
@@ -11208,6 +11197,30 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2026-10-12T22:18:04.156Z"
+  },
+  {
+    "id": "1685637061",
+    "title": "Orca — The Worktree IDE for Claude Code, Ghostty & AI Coding Agents",
+    "url": "https://www.onorca.dev/",
+    "description": "Run Claude Code, Codex, and OpenCode in parallel across isolated worktrees. Orca pairs a terminal-first desktop UI with PDF diff preview, hidden-file quick-open, configurable worktree cards, and fast PR review. Free, open source, cross-platform.",
+    "domain": "www.onorca.dev",
+    "cover": "https://orcabuild.ai/og-image.png",
+    "favorite": false,
+    "category": "ai-tools-and-services",
+    "subcategory": [
+      "Agents & Automation",
+      "Coding Agent"
+    ],
+    "tags": [
+      "Software: Agentic",
+      "Software: AI",
+      "Type: Open-Source",
+      "OS Compatibility: Cross-platform"
+    ],
+    "sourceCodeUrls": [
+      "https://github.com/stablyai/orca"
+    ],
+    "createdAt": "2026-04-16T00:17:11.852Z"
   },
   {
     "id": "1710316805",
@@ -11320,6 +11333,23 @@
     "createdAt": "2026-04-02T10:30:19.979Z"
   },
   {
+    "id": "1894948880",
+    "title": "ParakeetAI - #1 Real-Time AI Interview Assistant",
+    "url": "https://www.parakeet-ai.com/",
+    "description": "Get the right answer while you're still talking, through interviews, sales calls, client meetings, or any conversation where freezing up isn't an option.",
+    "domain": "www.parakeet-ai.com",
+    "cover": "https://www.parakeet-ai.com/og-image.png",
+    "favorite": false,
+    "category": "ai-tools-and-services",
+    "subcategory": [
+      "Language Models & Hubs",
+      "AI Study & Writing"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-19T19:16:34.385Z"
+  },
+  {
     "id": "1748008995",
     "title": "Paseo – Run Claude Code, Codex, Copilot, OpenCode from anywhere",
     "url": "https://paseo.sh/",
@@ -11330,7 +11360,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "Agent Frameworks & UIs"
+      "Coding Agent"
     ],
     "tags": [
       "Software: Agentic",
@@ -11373,7 +11403,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "Agent Frameworks & UIs"
+      "Personal AI Assistants"
     ],
     "tags": [
       "Device: Desktop",
@@ -11413,7 +11443,7 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
+      "Specialized Models",
       "AI Chess Engine"
     ],
     "tags": [
@@ -11513,7 +11543,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "Agent Frameworks & UIs"
+      "Coding Agent"
     ],
     "tags": [
       "Software: Agentic",
@@ -11571,7 +11601,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "Agent Frameworks & UIs"
+      "Personal AI Assistants"
     ],
     "tags": [
       "Type: Open-Source"
@@ -11925,8 +11955,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Agents & Automation",
-      "Skills & Plugins"
+      "Language Models & Hubs",
+      "AI Study & Writing"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -11942,8 +11972,9 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
-      "LLMs (Large Language Models)"
+      "Generative Media",
+      "AI Image & Design",
+      "Upscalers & Restoration"
     ],
     "tags": [
       "Source Code: GitHub",
@@ -11983,7 +12014,8 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Generative Media",
-      "AI Image & Design"
+      "AI Image & Design",
+      "Face & Deepfake Tools"
     ],
     "tags": [
       "Software: AI"
@@ -12002,7 +12034,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "Coding Assistant"
+      "Coding Agent"
     ],
     "tags": [
       "Source Code: GitHub",
@@ -12024,36 +12056,13 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "Coding Assistant"
+      "Coding Agent"
     ],
     "tags": [
       "Software: AI"
     ],
     "sourceCodeUrls": [],
     "createdAt": "2025-08-26T14:03:20.646Z"
-  },
-  {
-    "id": "1861857015",
-    "title": "QuantDinger",
-    "url": "https://ai.quantdinger.com/#/user/login?redirect=%2F",
-    "description": null,
-    "domain": "ai.quantdinger.com",
-    "cover": null,
-    "favorite": false,
-    "category": "ai-tools-and-services",
-    "subcategory": [
-      "Language Models & Hubs",
-      "LLMs (Large Language Models)"
-    ],
-    "tags": [
-      "Type: Open-Source",
-      "Source Code: GitHub",
-      "Software: AI"
-    ],
-    "sourceCodeUrls": [
-      "https://github.com/OpenByteInc/QuantDinger"
-    ],
-    "createdAt": "2026-09-21T16:46:48.084Z"
   },
   {
     "id": "1186420876",
@@ -12128,8 +12137,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
-      "LLMs (Large Language Models)"
+      "Agents & Automation",
+      "Agent Frameworks & UIs"
     ],
     "tags": [
       "Source Code: GitHub",
@@ -12254,7 +12263,8 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Generative Media",
-      "AI Image & Design"
+      "AI Image & Design",
+      "Face & Deepfake Tools"
     ],
     "tags": [
       "Software: AI"
@@ -12273,7 +12283,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "Agent Frameworks & UIs"
+      "Workflow Automation"
     ],
     "tags": [
       "Software: AI"
@@ -12292,7 +12302,8 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Generative Media",
-      "AI Image & Design"
+      "AI Image & Design",
+      "Upscalers & Restoration"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -12347,7 +12358,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "Agent Frameworks & UIs"
+      "Coding Agent"
     ],
     "tags": [
       "Software: AI"
@@ -12388,7 +12399,8 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Generative Media",
-      "AI Image & Design"
+      "AI Image & Design",
+      "Upscalers & Restoration"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -12463,8 +12475,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
-      "LLMs (Large Language Models)"
+      "Generative Media",
+      "AI Music & Audio"
     ],
     "tags": [
       "Source Code: GitHub",
@@ -12484,7 +12496,7 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
+      "Specialized Models",
       "AI Chess Engine"
     ],
     "tags": [
@@ -12588,7 +12600,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "Agent Frameworks & UIs"
+      "Personal AI Assistants"
     ],
     "tags": [
       "Software: AI"
@@ -12626,7 +12638,7 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
+      "Specialized Models",
       "AI Chess Engine"
     ],
     "tags": [
@@ -12795,6 +12807,23 @@
     "createdAt": "2025-03-06T02:07:37.234Z"
   },
   {
+    "id": "1894904082",
+    "title": "Sesame Research Preview",
+    "url": "https://app.sesame.com/welcome",
+    "description": null,
+    "domain": "app.sesame.com",
+    "cover": "https://rdl.ink/render/https%3A%2F%2Fapp.sesame.com%2Fwelcome",
+    "favorite": false,
+    "category": "ai-tools-and-services",
+    "subcategory": [
+      "Generative Media",
+      "AI Speech & Voice"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-19T18:28:49.438Z"
+  },
+  {
     "id": "1028141461",
     "title": "sgl-project/sglang: SGLang is a fast serving framework for large language models and vision language models.",
     "url": "https://github.com/sgl-project/sglang",
@@ -12888,8 +12917,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Model Serving",
-      "AI Serving Engines"
+      "Agents & Automation",
+      "Workflow Automation"
     ],
     "tags": [
       "Software: AI",
@@ -12931,7 +12960,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "Coding Assistant"
+      "AI App Builders"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -12988,7 +13017,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "Coding Assistant"
+      "AI App Builders"
     ],
     "tags": [
       "Software: AI"
@@ -13045,7 +13074,7 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
+      "Specialized Models",
       "AI Chess Engine"
     ],
     "tags": [
@@ -13053,6 +13082,23 @@
     ],
     "sourceCodeUrls": [],
     "createdAt": "2025-03-04T15:04:15.953Z"
+  },
+  {
+    "id": "1894905530",
+    "title": "Speech-to-Speech API: Full-Duplex, Sub-Second, Model-Agnostic | Inworld AI",
+    "url": "https://inworld.ai/speech-to-speech?utm_device=m&utm_term=interactive%20voice%20ai%20platform&utm_campaign=Google_Realtime-API_EMEA&utm_source=adwords&utm_medium=ppc&utm_content=realtime-api&hsa_acc=5807507431&hsa_cam=23654350249&hsa_grp=193418295759&hsa_ad=800053411678&hsa_src=g&hsa_tgt=kwd-2472564158155&hsa_kw=interactive%20voice%20ai%20platform&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=23654350249&gbraid=0AAAAAo5ojYE2f4OgWmSd5_pP0Zd4iivTj&gclid=CjwKCAjw_9bWBhBGEiwAomyTIuYZI1ZC_yjWN5GWwmbQ3evcIH2NeDWcPne1Fn-SCgXoXbSQzss99RoCipkQAvD_BwE",
+    "description": "Speech to speech from Inworld AI: one connection listens, reasons and talks back. Your users talk, and your app answers out loud.",
+    "domain": "inworld.ai",
+    "cover": "https://inworld.ai/speech-to-speech/opengraph-image-j62mw8.jpg?opengraph-image.0btvtgejrej--.jpg",
+    "favorite": false,
+    "category": "ai-tools-and-services",
+    "subcategory": [
+      "Generative Media",
+      "AI Speech & Voice"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-19T18:28:58.112Z"
   },
   {
     "id": "802266057",
@@ -13087,8 +13133,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
-      "LLMs (Large Language Models)"
+      "Generative Media",
+      "AI Music & Audio"
     ],
     "tags": [
       "Source Code: GitHub",
@@ -13108,8 +13154,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Model Serving",
-      "AI Serving Engines"
+      "Generative Media",
+      "AI Image & Design"
     ],
     "tags": [
       "Source Code: GitHub",
@@ -13147,8 +13193,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
-      "LLMs (Large Language Models)"
+      "Generative Media",
+      "AI Image & Design"
     ],
     "tags": [
       "Source Code: Hugging Face",
@@ -13167,8 +13213,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
-      "LLMs (Large Language Models)"
+      "Generative Media",
+      "AI Video"
     ],
     "tags": [
       "Source Code: Hugging Face",
@@ -13228,7 +13274,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "Coding Agent"
+      "Agent Frameworks & UIs"
     ],
     "tags": [
       "Type: Open-Source",
@@ -13268,7 +13314,7 @@
     "favorite": true,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
+      "Specialized Models",
       "AI Chess Engine"
     ],
     "tags": [
@@ -13311,8 +13357,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
-      "LLMs (Large Language Models)"
+      "Generative Media",
+      "AI Image & Design"
     ],
     "tags": [
       "Source Code: Hugging Face",
@@ -13388,7 +13434,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "Agent Frameworks & UIs"
+      "Coding Agent"
     ],
     "tags": [
       "Software: Agentic",
@@ -13486,8 +13532,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Model Serving",
-      "AI Serving Engines"
+      "Language Models & Hubs",
+      "AI Chat Platforms"
     ],
     "tags": [
       "Software: AI",
@@ -13564,27 +13610,6 @@
     "createdAt": "2021-05-19T18:15:32.000Z"
   },
   {
-    "id": "1651550179",
-    "title": "TauricResearch/TradingAgents: TradingAgents: Multi-Agents LLM Financial Trading Framework",
-    "url": "https://github.com/TauricResearch/TradingAgents",
-    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework - TauricResearch/TradingAgents",
-    "domain": "github.com",
-    "cover": "https://repository-images.githubusercontent.com/909213664/8cfc671d-b54b-400e-beab-8ef0bbf39aa1",
-    "favorite": false,
-    "category": "ai-tools-and-services",
-    "subcategory": [
-      "Language Models & Hubs",
-      "LLMs (Large Language Models)"
-    ],
-    "tags": [
-      "Source Code: GitHub",
-      "Type: Open-Source",
-      "Software: AI"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2026-03-21T00:29:31.631Z"
-  },
-  {
     "id": "704292357",
     "title": "TCEC - Live Computer Chess Broadcast",
     "url": "https://tcec-chess.com/",
@@ -13594,7 +13619,7 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
+      "Specialized Models",
       "AI Chess Engine"
     ],
     "tags": [
@@ -13630,8 +13655,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
-      "LLMs (Large Language Models)"
+      "Generative Media",
+      "AI Image & Design"
     ],
     "tags": [
       "Source Code: GitHub",
@@ -13670,7 +13695,7 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
+      "Specialized Models",
       "AI Chess Engine"
     ],
     "tags": [
@@ -13772,7 +13797,7 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
+      "Specialized Models",
       "AI Chess Engine"
     ],
     "tags": [
@@ -13791,8 +13816,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
-      "LLMs (Large Language Models)"
+      "Generative Media",
+      "AI Video"
     ],
     "tags": [
       "Source Code: GitHub",
@@ -13833,7 +13858,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "Agent Frameworks & UIs"
+      "Personal AI Assistants"
     ],
     "tags": [
       "Type: Open-Source"
@@ -13967,7 +13992,8 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Generative Media",
-      "AI Image & Design"
+      "AI Image & Design",
+      "Upscalers & Restoration"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -14022,8 +14048,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
-      "LLMs (Large Language Models)"
+      "Model Serving",
+      "AI Serving Engines"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -14060,7 +14086,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Generative Media",
-      "AI Image & Design"
+      "AI Creative Suite"
     ],
     "tags": [
       "Software: AI",
@@ -14079,8 +14105,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
-      "LLMs (Large Language Models)"
+      "Generative Media",
+      "AI Creative Suite"
     ],
     "tags": [
       "Software: AI",
@@ -14227,7 +14253,8 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Generative Media",
-      "AI Image & Design"
+      "AI Image & Design",
+      "Upscalers & Restoration"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -14244,7 +14271,8 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Generative Media",
-      "AI Image & Design"
+      "AI Image & Design",
+      "Upscalers & Restoration"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -14261,7 +14289,8 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Generative Media",
-      "AI Image & Design"
+      "AI Image & Design",
+      "Upscalers & Restoration"
     ],
     "tags": [
       "Software: AI",
@@ -14324,8 +14353,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Agents & Automation",
-      "Agent Frameworks & UIs"
+      "Language Models & Hubs",
+      "AI Chat Platforms"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -14342,7 +14371,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "Skills & Plugins"
+      "Directories & Marketplaces"
     ],
     "tags": [
       "❤️",
@@ -14385,7 +14414,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "Agent Frameworks & UIs"
+      "Workflow Automation"
     ],
     "tags": [
       "Software: AI",
@@ -14393,29 +14422,6 @@
     ],
     "sourceCodeUrls": [],
     "createdAt": "2026-03-22T18:14:08.939Z"
-  },
-  {
-    "id": "1778001651",
-    "title": "Vibe-Trading Wiki",
-    "url": "https://vibetrading.wiki/home/",
-    "description": "Natural-language finance research, backtesting, swarm analysis, and Shadow Account workflows.",
-    "domain": "vibetrading.wiki",
-    "cover": "https://vibetrading.wiki/assets/icon.png",
-    "favorite": false,
-    "category": "ai-tools-and-services",
-    "subcategory": [
-      "Agents & Automation",
-      "Agent Frameworks & UIs"
-    ],
-    "tags": [
-      "Software: Agentic",
-      "Software: AI",
-      "Type: Open-Source"
-    ],
-    "sourceCodeUrls": [
-      "https://github.com/HKUDS/Vibe-Trading"
-    ],
-    "createdAt": "2026-07-01T10:05:11.554Z"
   },
   {
     "id": "1651472053",
@@ -14428,7 +14434,8 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Generative Media",
-      "AI Video"
+      "AI Image & Design",
+      "Upscalers & Restoration"
     ],
     "tags": [
       "Type: Open-Source",
@@ -14533,7 +14540,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Generative Media",
-      "AI Music & Audio"
+      "AI Speech & Voice"
     ],
     "tags": [
       "Software: AI",
@@ -14573,7 +14580,8 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Generative Media",
-      "AI Image & Design"
+      "AI Image & Design",
+      "Upscalers & Restoration"
     ],
     "tags": [
       "Software: AI",
@@ -14592,8 +14600,9 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
-      "LLMs (Large Language Models)"
+      "Generative Media",
+      "AI Image & Design",
+      "Upscalers & Restoration"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -14609,8 +14618,9 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
-      "LLMs (Large Language Models)"
+      "Generative Media",
+      "AI Image & Design",
+      "Upscalers & Restoration"
     ],
     "tags": [
       "Source Code: GitHub",
@@ -14652,8 +14662,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
-      "LLMs (Large Language Models)"
+      "Generative Media",
+      "AI Video"
     ],
     "tags": [
       "Source Code: GitHub",
@@ -14774,7 +14784,8 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Generative Media",
-      "AI Image & Design"
+      "AI Image & Design",
+      "Face & Deepfake Tools"
     ],
     "tags": [
       "Software: AI"
@@ -14812,7 +14823,7 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
+      "Specialized Models",
       "AI Chess Engine"
     ],
     "tags": [
@@ -14989,8 +15000,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
-      "LLMs (Large Language Models)"
+      "Generative Media",
+      "AI Image & Design"
     ],
     "tags": [
       "Software: AI",
@@ -15009,8 +15020,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
-      "LLMs (Large Language Models)"
+      "Generative Media",
+      "AI Image & Design"
     ],
     "tags": [
       "Source Code: Hugging Face",
@@ -15030,7 +15041,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "Coding Assistant"
+      "Coding Agent"
     ],
     "tags": [
       "Software: AI",
@@ -15049,7 +15060,7 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
+      "Specialized Models",
       "AI Chess Engine"
     ],
     "tags": [
@@ -15116,8 +15127,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
-      "LLMs (Large Language Models)"
+      "Agents & Automation",
+      "Agent Frameworks & UIs"
     ],
     "tags": [
       "Source Code: GitHub",
@@ -15172,8 +15183,8 @@
     "favorite": false,
     "category": "ai-tools-and-services",
     "subcategory": [
-      "Language Models & Hubs",
-      "LLMs (Large Language Models)"
+      "Generative Media",
+      "AI Image & Design"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -15190,7 +15201,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "Agent Frameworks & UIs"
+      "Workflow Automation"
     ],
     "tags": [
       "OS Compatibility: web app",
@@ -15230,7 +15241,7 @@
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
-      "Agent Frameworks & UIs"
+      "Coding Agent"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -30292,6 +30303,29 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2021-01-27T11:49:11.000Z"
+  },
+  {
+    "id": "1720146159",
+    "title": "career-ops — AI-powered job search command center",
+    "url": "https://career-ops.org/",
+    "description": "Open source AI-powered job search system. Runs in your CLI. CLI-agnostic, MIT, local-first.",
+    "domain": "career-ops.org",
+    "cover": "https://career-ops.org/opengraph-image-12gd74?e87afa5d097d9282",
+    "favorite": false,
+    "category": "business-and-commerce",
+    "subcategory": [
+      "Job Portal",
+      "Find Job"
+    ],
+    "tags": [
+      "Software: AI",
+      "Type: Open-Source",
+      "Software: CLI"
+    ],
+    "sourceCodeUrls": [
+      "https://github.com/santifer/career-ops"
+    ],
+    "createdAt": "2026-05-16T14:33:54.123Z"
   },
   {
     "id": "287105654",
@@ -67711,6 +67745,26 @@
     "createdAt": "2020-05-12T18:48:58.000Z"
   },
   {
+    "id": "1835448957",
+    "title": "MadsLorentzen/ai-job-search: The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+    "url": "https://github.com/MadsLorentzen/ai-job-search",
+    "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it. - MadsLorentzen...",
+    "domain": "github.com",
+    "cover": "https://repository-images.githubusercontent.com/1185389803/271a94f5-52ea-4327-87ea-135166c3c697",
+    "favorite": false,
+    "category": "business-and-commerce",
+    "subcategory": [
+      "Job Portal",
+      "Find Job"
+    ],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitHub"
+    ],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-08-26T23:58:48.434Z"
+  },
+  {
     "id": "287106717",
     "title": "Maersk",
     "url": "https://www.maersk.com/",
@@ -68973,6 +69027,23 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2022-03-04T21:26:31.865Z"
+  },
+  {
+    "id": "1894828138",
+    "title": "Match between techies and tech jobs - Joppy",
+    "url": "https://www.joppy.me/",
+    "description": "Go through the tech jobs that match with your profile. You decide what will your next career challenge will be.",
+    "domain": "www.joppy.me",
+    "cover": "https://firebasestorage.googleapis.com/v0/b/joppy-dev.appspot.com/o/landing_page%2Fthumb-site.png?alt=media&token=1015c4a0-2efd-40e8-bed3-4717f97558ae",
+    "favorite": false,
+    "category": "business-and-commerce",
+    "subcategory": [
+      "Job Portal",
+      "Find Job"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-19T16:22:59.041Z"
   },
   {
     "id": "287104074",
@@ -144754,29 +144825,6 @@
     "createdAt": "2022-06-18T00:25:20.556Z"
   },
   {
-    "id": "1685637061",
-    "title": "Orca — The Worktree IDE for Claude Code, Ghostty & AI Coding Agents",
-    "url": "https://www.onorca.dev/",
-    "description": "Run Claude Code, Codex, and OpenCode in parallel across isolated worktrees. Orca pairs a terminal-first desktop UI with PDF diff preview, hidden-file quick-open, configurable worktree cards, and fast PR review. Free, open source, cross-platform.",
-    "domain": "www.onorca.dev",
-    "cover": "https://orcabuild.ai/og-image.png",
-    "favorite": false,
-    "category": "development",
-    "subcategory": [
-      "Text Editing",
-      "Code Editor & IDE",
-      "IDE (Integrated Development Environment)"
-    ],
-    "tags": [
-      "Software: Agentic",
-      "Software: AI",
-      "Type: Open-Source",
-      "OS Compatibility: Cross-platform"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2026-04-16T00:17:11.852Z"
-  },
-  {
     "id": "287104943",
     "title": "Orchard Core",
     "url": "https://www.orchardcore.net/",
@@ -154100,6 +154148,29 @@
     ],
     "sourceCodeUrls": [],
     "createdAt": "2023-01-22T01:55:57.300Z"
+  },
+  {
+    "id": "1895038736",
+    "title": "Tab Wrangler · Regain control of your tabs",
+    "url": "https://tabwrangler.com/",
+    "description": "A free extension for Chrome and Firefox that closes tabs you haven't used in a while, leaving you with just the tabs you actually use.",
+    "domain": "tabwrangler.com",
+    "cover": "https://tabwrangler.com/og-image.png",
+    "favorite": false,
+    "category": "development",
+    "subcategory": [
+      "Extension",
+      "Browser Extension",
+      "Productivity Extension"
+    ],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitHub"
+    ],
+    "sourceCodeUrls": [
+      "https://github.com/tabwrangler/tabwrangler"
+    ],
+    "createdAt": "2026-10-19T21:33:21.121Z"
   },
   {
     "id": "373153939",
@@ -222795,6 +222866,27 @@
     "createdAt": "2021-09-08T13:44:05.233Z"
   },
   {
+    "id": "789376348",
+    "title": "AI4Finance-Foundation/FinGPT · GitHub",
+    "url": "https://github.com/AI4Finance-Foundation/FinGPT",
+    "description": "FinGPT: Open-Source Financial Large Language Models! Revolutionize 🔥 We release the trained model on HuggingFace. - AI4Finance-Foundation/FinGPT",
+    "domain": "github.com",
+    "cover": "https://opengraph.githubassets.com/f8642014baa2fdd2e99303db57749d0643be5a6e5f2ef37143547ec4bed128ac/AI4Finance-Foundation/FinGPT",
+    "favorite": false,
+    "category": "money-and-finance",
+    "subcategory": [
+      "Visual Trading"
+    ],
+    "tags": [
+      "Source Code: GitHub",
+      "Software: AI",
+      "Source Code: Hugging Face",
+      "Type: Open-Source"
+    ],
+    "sourceCodeUrls": [],
+    "createdAt": "2024-05-21T20:06:03.117Z"
+  },
+  {
     "id": "477208807",
     "title": "Ambire Wallet",
     "url": "https://www.ambire.com/",
@@ -226323,6 +226415,22 @@
     "createdAt": "2020-06-15T18:31:21.000Z"
   },
   {
+    "id": "1861858367",
+    "title": "jarrodwatts/jev-trader: One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
+    "url": "https://github.com/jarrodwatts/jev-trader",
+    "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC. - jarrodwatts/jev-trader",
+    "domain": "github.com",
+    "cover": "https://opengraph.githubassets.com/1b3918f50c6938c0a2000db5fe5dd7fd4e7a72a462df1bd5e1790fff606b39fc/jarrodwatts/jev-trader",
+    "favorite": false,
+    "category": "money-and-finance",
+    "subcategory": [
+      "Visual Trading"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-09-21T16:50:10.299Z"
+  },
+  {
     "id": "308181275",
     "title": "Jaxx.io",
     "url": "http://jaxx.io/",
@@ -226339,6 +226447,28 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2021-09-08T13:56:25.096Z"
+  },
+  {
+    "id": "1861858480",
+    "title": "Jev Trade | Live Jev trading bot on crypto and other assets",
+    "url": "https://www.jev-trade.com/",
+    "description": "Jev Trade is live Jev trading: a bot that reads the book every tick and trades BTC, ETH, SOL, DOGE, and BNB.",
+    "domain": "www.jev-trade.com",
+    "cover": "https://www.jev-trade.com/og.png",
+    "favorite": false,
+    "category": "money-and-finance",
+    "subcategory": [
+      "Visual Trading"
+    ],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitHub",
+      "Software: AI"
+    ],
+    "sourceCodeUrls": [
+      "https://github.com/aowang-ai/jev-trade"
+    ],
+    "createdAt": "2026-09-21T16:50:30.154Z"
   },
   {
     "id": "287113930",
@@ -228141,6 +228271,28 @@
     "createdAt": "2021-06-01T13:16:58.000Z"
   },
   {
+    "id": "1861857015",
+    "title": "QuantDinger",
+    "url": "https://ai.quantdinger.com/#/user/login?redirect=%2F",
+    "description": null,
+    "domain": "ai.quantdinger.com",
+    "cover": null,
+    "favorite": false,
+    "category": "money-and-finance",
+    "subcategory": [
+      "Visual Trading"
+    ],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitHub",
+      "Software: AI"
+    ],
+    "sourceCodeUrls": [
+      "https://github.com/OpenByteInc/QuantDinger"
+    ],
+    "createdAt": "2026-09-21T16:46:48.084Z"
+  },
+  {
     "id": "1425473874",
     "title": "Quantower Trading Platform",
     "url": "https://www.quantower.com/",
@@ -229105,6 +229257,26 @@
     "createdAt": "2023-11-23T17:50:08.825Z"
   },
   {
+    "id": "1651550179",
+    "title": "TauricResearch/TradingAgents: TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "url": "https://github.com/TauricResearch/TradingAgents",
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework - TauricResearch/TradingAgents",
+    "domain": "github.com",
+    "cover": "https://repository-images.githubusercontent.com/909213664/8cfc671d-b54b-400e-beab-8ef0bbf39aa1",
+    "favorite": false,
+    "category": "money-and-finance",
+    "subcategory": [
+      "Visual Trading"
+    ],
+    "tags": [
+      "Source Code: GitHub",
+      "Type: Open-Source",
+      "Software: AI"
+    ],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-03-21T00:29:31.631Z"
+  },
+  {
     "id": "1665173902",
     "title": "TaxDown: Tu Declaración de la Renta, Bien Hecha",
     "url": "https://www.taxdown.es/",
@@ -229721,6 +229893,28 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2021-11-20T02:31:36.517Z"
+  },
+  {
+    "id": "1778001651",
+    "title": "Vibe-Trading Wiki",
+    "url": "https://vibetrading.wiki/home/",
+    "description": "Natural-language finance research, backtesting, swarm analysis, and Shadow Account workflows.",
+    "domain": "vibetrading.wiki",
+    "cover": "https://vibetrading.wiki/assets/icon.png",
+    "favorite": false,
+    "category": "money-and-finance",
+    "subcategory": [
+      "Visual Trading"
+    ],
+    "tags": [
+      "Software: Agentic",
+      "Software: AI",
+      "Type: Open-Source"
+    ],
+    "sourceCodeUrls": [
+      "https://github.com/HKUDS/Vibe-Trading"
+    ],
+    "createdAt": "2026-07-01T10:05:11.554Z"
   },
   {
     "id": "287113976",
@@ -257508,6 +257702,29 @@
     "createdAt": "2021-01-17T18:44:31.000Z"
   },
   {
+    "id": "1895038884",
+    "title": "PipePipe - An open-source Android app to let you browse YouTube, NicoNico and BiliBili freely",
+    "url": "https://pipepipe.dev/",
+    "description": null,
+    "domain": "pipepipe.dev",
+    "cover": "https://pipepipe.dev/01-v3.png",
+    "favorite": false,
+    "category": "multimedia",
+    "subcategory": [
+      "Video & Movies",
+      "Video Client",
+      "YouTube Client"
+    ],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitHub"
+    ],
+    "sourceCodeUrls": [
+      "https://github.com/InfinityLoop1308/PipePipe"
+    ],
+    "createdAt": "2026-10-19T21:33:51.618Z"
+  },
+  {
     "id": "811936075",
     "title": "Piper Voice Samples",
     "url": "https://rhasspy.github.io/piper-samples/",
@@ -258518,6 +258735,24 @@
     ],
     "sourceCodeUrls": [],
     "createdAt": "2023-05-04T01:49:45.892Z"
+  },
+  {
+    "id": "1895038985",
+    "title": "Podcasts - A Free Podcast Player Browser Extension",
+    "url": "https://podcasts.bluepill.life/",
+    "description": "Podcasts is a light weight browser extension. No installation or complicated setup is required, just simply add it to your browser to use it.",
+    "domain": "podcasts.bluepill.life",
+    "cover": "https://podcasts.bluepill.life/static/images/screenshot.png",
+    "favorite": false,
+    "category": "multimedia",
+    "subcategory": [
+      "Audio & Music",
+      "Audio Player",
+      "Podcast Client"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-19T21:34:11.031Z"
   },
   {
     "id": "394967664",
@@ -328933,6 +329168,29 @@
       "https://github.com/karakeep-app/karakeep"
     ],
     "createdAt": "2025-05-25T14:54:44.338Z"
+  },
+  {
+    "id": "1895038629",
+    "title": "KashCal - A private calendar for Android with iCloud and CalDAV sync",
+    "url": "https://kashcal.onekash.org/",
+    "description": "Free, open-source calendar for Android. Sync iCloud, CalDAV, holidays and birthdays. Smart event add, Insights, widgets. Private by default, no account needed.",
+    "domain": "kashcal.onekash.org",
+    "cover": "https://kashcal.onekash.org/img/social/home.png",
+    "favorite": false,
+    "category": "office-and-productivity",
+    "subcategory": [
+      "Time",
+      "Calendar"
+    ],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitHub",
+      "OS Compatibility: Android"
+    ],
+    "sourceCodeUrls": [
+      "https://github.com/KashCal/KashCal"
+    ],
+    "createdAt": "2026-10-19T21:32:55.361Z"
   },
   {
     "id": "450144067",
@@ -424102,6 +424360,28 @@
     "createdAt": "2020-07-06T15:27:18.000Z"
   },
   {
+    "id": "1894238719",
+    "title": "schumijo/iptv",
+    "url": "https://github.com/schumijo/iptv",
+    "description": "Contribute to schumijo/iptv development by creating an account on GitHub.",
+    "domain": "github.com",
+    "cover": "https://opengraph.githubassets.com/5c3ccd14eb060854fee5d8b1e23cdebcb0976c046bce643a3f2b71098d1557f8/schumijo/iptv",
+    "favorite": false,
+    "category": "online-services",
+    "subcategory": [
+      "Database",
+      "List Db",
+      "IPTV List"
+    ],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitHub",
+      "Content: List"
+    ],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-19T02:01:10.597Z"
+  },
+  {
     "id": "287111173",
     "title": "Sci-Hub",
     "url": "https://sci-hub.se/",
@@ -447702,6 +447982,30 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2022-11-26T11:51:07.074Z"
+  },
+  {
+    "id": "1894204942",
+    "title": "Wyzie Subs - Subtitle API for Movies & TV",
+    "url": "https://sub.wyzie.io/",
+    "description": "Subtitle API for movies, TV shows and anime: search by IMDB or TMDB id, download in SRT, WebVTT, ASS and more.",
+    "domain": "sub.wyzie.io",
+    "cover": "https://i.postimg.cc/L5ppKYC5/cclogo.png",
+    "favorite": false,
+    "category": "online-services",
+    "subcategory": [
+      "Database",
+      "Multimedia Db",
+      "Movie Db",
+      "Subtitles Db"
+    ],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitHub"
+    ],
+    "sourceCodeUrls": [
+      "https://github.com/wyziedevs/wyzie-subs"
+    ],
+    "createdAt": "2026-10-19T01:09:42.867Z"
   },
   {
     "id": "1684206831",
@@ -477575,6 +477879,25 @@
       "https://github.com/ESH2007/PassQuantum"
     ],
     "createdAt": "2026-06-04T08:05:18.112Z"
+  },
+  {
+    "id": "1894239125",
+    "title": "passteque/gluetun: VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.",
+    "url": "https://github.com/passteque/gluetun",
+    "description": "VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in. - passteque/gluetun",
+    "domain": "github.com",
+    "cover": "https://repository-images.githubusercontent.com/120530079/50055d80-9861-11ea-8d0c-b3537b043772",
+    "favorite": false,
+    "category": "security-and-privacy",
+    "subcategory": [
+      "VPN"
+    ],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitHub"
+    ],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-19T02:02:08.341Z"
   },
   {
     "id": "404326433",
@@ -511123,6 +511446,28 @@
     "createdAt": "2022-03-12T17:51:46.173Z"
   },
   {
+    "id": "1895039597",
+    "title": "Gear Lever · Documentation website",
+    "url": "https://gearlever.mijorus.it/",
+    "description": "Documentation website",
+    "domain": "gearlever.mijorus.it",
+    "cover": "https://rdl.ink/render/https%3A%2F%2Fgearlever.mijorus.it%2F",
+    "favorite": false,
+    "category": "system-administration",
+    "subcategory": [
+      "System Tool",
+      "Software Manager"
+    ],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitHub"
+    ],
+    "sourceCodeUrls": [
+      "https://github.com/mijorus/gearlever"
+    ],
+    "createdAt": "2026-10-19T21:35:46.611Z"
+  },
+  {
     "id": "375183136",
     "title": "Geek Uninstaller",
     "url": "https://geekuninstaller.com/",
@@ -514757,6 +515102,29 @@
     "createdAt": "2025-06-16T16:57:32.864Z"
   },
   {
+    "id": "1894644756",
+    "title": "KytyPS5 · Open-Source PlayStation 5 Emulator",
+    "url": "https://kytyps5.github.io/",
+    "description": "KytyPS5 is a free and open-source PlayStation 5 emulator written in C++ for Windows, Linux and macOS. Download the latest build or build from source.",
+    "domain": "kytyps5.github.io",
+    "cover": "https://raw.githubusercontent.com/KytyPS5/KytyPS5/main/docs/screenshots/ps5-01.png",
+    "favorite": false,
+    "category": "system-administration",
+    "subcategory": [
+      "Emulation & Virtualization",
+      "OS-Emulator",
+      "Game Console Emulator"
+    ],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitHub"
+    ],
+    "sourceCodeUrls": [
+      "https://github.com/KytyPS5/KytyPS5"
+    ],
+    "createdAt": "2026-10-19T14:37:26.194Z"
+  },
+  {
     "id": "287102926",
     "title": "LDPlayer",
     "url": "https://www.ldplayer.net/",
@@ -516324,6 +516692,24 @@
     ],
     "sourceCodeUrls": [],
     "createdAt": "2022-05-24T20:53:49.020Z"
+  },
+  {
+    "id": "1894646131",
+    "title": "mihawk-99/PS5_RetroArch: 🎮 RetroArch Homebrew for the PS5 that supports 35 cores & 44 systems.",
+    "url": "https://github.com/mihawk-99/PS5_RetroArch",
+    "description": "🎮 RetroArch Homebrew for the PS5 that supports 35 cores & 44 systems. - mihawk-99/PS5_RetroArch",
+    "domain": "github.com",
+    "cover": "https://opengraph.githubassets.com/5668fbbbde9b747ba7b678a157f5e5c9b8b9baa650ed143d32944e0a0e928ced/mihawk-99/PS5_RetroArch",
+    "favorite": false,
+    "category": "system-administration",
+    "subcategory": [
+      "Emulation & Virtualization",
+      "OS-Emulator",
+      "Game Console Emulator"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-19T14:41:45.472Z"
   },
   {
     "id": "888952899",
@@ -521028,6 +521414,23 @@
     "createdAt": "2026-02-24T21:40:57.856Z"
   },
   {
+    "id": "1895039194",
+    "title": "Radien - Your honest network toolbox",
+    "url": "https://radien.arsenkin.name/",
+    "description": "Wi-Fi slow? Site down? Certificate warning? Ten tools answer, entirely on your device.",
+    "domain": "radien.arsenkin.name",
+    "cover": "https://radien.arsenkin.name/img/og.png?v=20261018",
+    "favorite": false,
+    "category": "system-administration",
+    "subcategory": [
+      "Networking",
+      "Online Networking Tools"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-19T21:34:56.539Z"
+  },
+  {
     "id": "801067532",
     "title": "Raphire/Win11Debloat · GitHub",
     "url": "https://github.com/Raphire/Win11Debloat",
@@ -521874,7 +522277,8 @@
       "Game Console Emulator"
     ],
     "tags": [
-      "Type: Open-Source"
+      "Type: Open-Source",
+      "Source Code: GitHub"
     ],
     "sourceCodeUrls": [],
     "createdAt": "2022-07-01T00:47:01.863Z"

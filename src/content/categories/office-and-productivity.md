@@ -5,7 +5,7 @@ description: Note-taking, task management, bookmarking, calculators, translators
 
 # Office & Productivity
 
-**Total Bookmarks:** 1227
+**Total Bookmarks:** 1228
 
 - ⭐ **[Hotkey Cheatsheet](https://hotkeycheatsheet.com/)** — Improve Your Productivity with Keyboard Shortcuts
 - [Boosted](https://www.boostedproductivity.com/)
@@ -1163,6 +1163,7 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [fruux](https://fruux.com/)
 - [Google Calendar](https://calendar.google.com/calendar/r)
 - [Kalendar](https://apps.kde.org/kalendar/) — KDE Apps
+- [KashCal](https://kashcal.onekash.org/) / <a href="https://github.com/KashCal/KashCal"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — A private calendar for Android with iCloud and CalDAV sync
 - [Koalendar](https://koalendar.com/) — Scheduler for Google Calendar
 - [Kontact](https://kontact.kde.org/) — KDE
 - [lifeGLANCE](https://www.lifeglance.app/) / <a href="https://github.com/hsr88/mouzi"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>

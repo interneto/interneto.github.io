@@ -5,7 +5,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 
 # System Administration
 
-**Total Bookmarks:** 1351
+**Total Bookmarks:** 1355
 
 - [osquery](https://osquery.io/)
 - [PIVPN](https://pivpn.io/) — Simplest way to setup a VPN
@@ -426,12 +426,14 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [js-dos v7](https://js-dos.com/)
 - [kelpsyberry/dust](https://github.com/kelpsyberry/dust) — A Nintendo DS emulator written in Rust for desktop devices and the web, with debugging features and a focus on accuracy
 - [Kyty Emulator](https://www.kytyemulator.com/) — Download Free (Latest Version)
+- [KytyPS5 · Open-Source PlayStation 5 Emulator](https://kytyps5.github.io/) / <a href="https://github.com/KytyPS5/KytyPS5"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [Libretro](https://www.libretro.com/) — API of RetroArch
 - [Lime3DS](https://lime3ds.github.io/)
 - [MAME Project](https://www.mamedev.org/) / <a href="https://github.com/mamedev/mame"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [melonDS](https://melonds.kuribo64.net/)
 - [Mesen](https://www.mesen.ca/) — Emulator
 - [mGBA](https://mgba.io/)
+- [mihawk-99/PS5_RetroArch](https://github.com/mihawk-99/PS5_RetroArch) — 🎮 RetroArch Homebrew for the PS5 that supports 35 cores & 44 systems.
 - [Mupen64Plus](https://mupen64plus.org/)
 - [PCSX4](https://pcsx4.com/) — PlayStation 4 Emulator
 - [PCSX5](https://pcsx5.org/) — PlayStation 5 Emulator
@@ -617,6 +619,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [NATS.io](https://nats.io/) / <a href="https://github.com/nats-io/nats-server"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [NetYogi](https://netyogi.net/) — Free Online Network Tools
 - [pool.ntp.org](https://www.ntppool.org/en/) — the internet cluster of ntp servers
+- [Radien](https://radien.arsenkin.name/) — Your honest network toolbox
 - [Router Network](https://router-network.com/)
 - [V2Fly.org](https://www.v2fly.org/)
 - [What is my DNS](https://www.whatsmydns.net/)
@@ -1135,6 +1138,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 
 ### Software Manager
 - [Artifactory](https://jfrog.com/artifactory/) — Universal Artifact Management
+- [Gear Lever · Documentation website](https://gearlever.mijorus.it/) / <a href="https://github.com/mijorus/gearlever"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 
 #### Package Manager
 - ⭐ **[Package Manager](https://smartpack.github.io/PackageManager/)** / <a href="https://github.com/SmartPack/PackageManager"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>

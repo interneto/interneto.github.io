@@ -5,7 +5,7 @@ description: Banking, cryptocurrency, and financial tracking
 
 # Money & Finance
 
-**Total Bookmarks:** 433
+**Total Bookmarks:** 439
 
 - [brokeronline](https://www.brokeronline.es/)
 - [IPIP](https://whois.ipip.net/)
@@ -464,15 +464,21 @@ description: Banking, cryptocurrency, and financial tracking
 ## Visual Trading
 - ⭐ **[FINVIZ](https://finviz.com/)**
 - ⭐ **[TradingView](https://www.tradingview.com/)**
+- [AI4Finance-Foundation/FinGPT · GitHub](https://github.com/AI4Finance-Foundation/FinGPT)
 - [CompaniesMarketCap](https://companiesmarketcap.com/) — Companies ranked by Market Cap
 - [Infobolsa](https://www.infobolsa.es/mercados/bolsa) — Bolsa
 - [IQ Option](https://eu.iqoption.com/en)
+- [jarrodwatts/jev-trader](https://github.com/jarrodwatts/jev-trader) — One AI trade decision every Monad block. Jev on Kuru MON-USDC.
+- [Jev Trade](https://www.jev-trade.com/) / <a href="https://github.com/aowang-ai/jev-trade"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Live Jev trading bot on crypto and other assets
 - [Libremercado](https://www.libremercado.com/mercados) — bolsa
 - [Markets Insider](https://markets.businessinsider.com/)
 - [Mary Day Trader](https://www.marydaytrader.com/)
+- [QuantDinger](https://ai.quantdinger.com/#/user/login?redirect=%2F) / <a href="https://github.com/OpenByteInc/QuantDinger"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [Quantower Trading Platform](https://www.quantower.com/)
 - [Seeking Alpha](https://seekingalpha.com/)
 - [Stonicks](https://www.stonicks.com/es)
+- [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) — TradingAgents: Multi-Agents LLM Financial Trading Framework
+- [Vibe-Trading Wiki](https://vibetrading.wiki/home/) / <a href="https://github.com/HKUDS/Vibe-Trading"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [Visual Chart](https://visualchart.com/)
 - [Votery](https://www.votery.net/)
 - [Yellow trade](https://www.yellow.com/)
