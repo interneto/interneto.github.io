@@ -5,7 +5,7 @@ description: Password managers, cybersecurity, and web privacy
 
 # Security & Privacy
 
-**Total Bookmarks:** 304
+**Total Bookmarks:** 305
 
 - [Fight Chat Control](https://fightchatcontrol.eu/) — Protect Digital Privacy in the EU
 - [PrivacySpy](https://privacyspy.org/) — We track online privacy
@@ -198,6 +198,7 @@ description: Password managers, cybersecurity, and web privacy
 - [World / Secrets · GitLab](https://gitlab.gnome.org/World/secrets)
 
 ## Security & Testing
+- [0din](https://0din.ai/) — The GenAI Bug Bounty Program
 - [C2Matrix](https://docs.google.com/spreadsheets/d/1b4mUxa6cDQuTV2BPC6aA-GR4zGZi0ooPYtBe4IgPsSc/edit?pli=1&gid=0#gid=0)
 - [cilock](https://cilock.aflock.ai/) / <a href="https://github.com/aflock-ai/rookery"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Build provenance, signed scan evidence, continuous compliance
 - [Firejail](https://firejail.wordpress.com/)

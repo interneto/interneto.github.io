@@ -1,22 +1,5 @@
 [
   {
-    "id": "1305771047",
-    "title": "0din - The GenAI Bug Bounty Program",
-    "url": "https://0din.ai/",
-    "description": "We are building for the next generation in GenAI security and beyond.",
-    "domain": "0din.ai",
-    "cover": "https://0din.ai/assets/0dinbanner-a7dcc211.png",
-    "favorite": false,
-    "category": "ai-tools-and-services",
-    "subcategory": [
-      "Agents & Automation",
-      "Coding Assistant"
-    ],
-    "tags": [],
-    "sourceCodeUrls": [],
-    "createdAt": "2025-08-19T18:29:20.645Z"
-  },
-  {
     "id": "1193966157",
     "title": "11.ai - Personal AI Voice Assistants",
     "url": "https://11.ai/app/",
@@ -13366,23 +13349,6 @@
     ],
     "sourceCodeUrls": [],
     "createdAt": "2024-12-27T18:03:14.337Z"
-  },
-  {
-    "id": "1030881960",
-    "title": "Sunny Pilot",
-    "url": "https://www.sunnypilot.ai/",
-    "description": null,
-    "domain": "www.sunnypilot.ai",
-    "cover": "https://rdl.ink/render/https%3A%2F%2Fwww.sunnypilot.ai%2F",
-    "favorite": false,
-    "category": "ai-tools-and-services",
-    "subcategory": [
-      "Language Models & Hubs",
-      "LLMs (Large Language Models)"
-    ],
-    "tags": [],
-    "sourceCodeUrls": [],
-    "createdAt": "2025-05-03T13:16:00.202Z"
   },
   {
     "id": "715068535",
@@ -469698,6 +469664,22 @@
     "createdAt": "2022-04-20T19:16:18.332Z"
   },
   {
+    "id": "1030881960",
+    "title": "Sunny Pilot",
+    "url": "https://www.sunnypilot.ai/",
+    "description": null,
+    "domain": "www.sunnypilot.ai",
+    "cover": "https://rdl.ink/render/https%3A%2F%2Fwww.sunnypilot.ai%2F",
+    "favorite": false,
+    "category": "os-and-utilities",
+    "subcategory": [
+      "Autopilot System"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2025-05-03T13:16:00.202Z"
+  },
+  {
     "id": "415250547",
     "title": "superBoxon",
     "url": "https://superboxon.com/",
@@ -474491,6 +474473,22 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2022-12-28T19:15:49.898Z"
+  },
+  {
+    "id": "1305771047",
+    "title": "0din - The GenAI Bug Bounty Program",
+    "url": "https://0din.ai/",
+    "description": "We are building for the next generation in GenAI security and beyond.",
+    "domain": "0din.ai",
+    "cover": "https://0din.ai/assets/0dinbanner-a7dcc211.png",
+    "favorite": false,
+    "category": "security-and-privacy",
+    "subcategory": [
+      "Security & Testing"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2025-08-19T18:29:20.645Z"
   },
   {
     "id": "993937232",

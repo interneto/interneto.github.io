@@ -5,7 +5,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 
 # AI Tools & Services
 
-**Total Bookmarks:** 757
+**Total Bookmarks:** 755
 
 
 ## Agents & Automation
@@ -93,7 +93,6 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 ### Coding Assistant
 - ⭐ **[Continue • Quality control for your software factory](https://www.continue.dev/)** / <a href="https://github.com/continuedev/continue"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - ⭐ **[GitHub Copilot · Your AI pair programmer](https://github.com/features/copilot/)** / <a href="https://github.com/github/copilot-cli"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>, <a href="https://github.com/microsoft/vscode-copilot-chat"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
-- [0din](https://0din.ai/) — The GenAI Bug Bounty Program
 - [AI2sql](https://www.ai2sql.io/)
 - [aider is AI pair programming in your terminal](https://aider.chat/)
 - [Augment Code](https://www.augmentcode.com/)
@@ -564,7 +563,6 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [QwenLM/Qwen · GitHub](https://github.com/QwenLM/Qwen)
 - [QwenLM/Qwen2.5](https://github.com/QwenLM/Qwen2.5) — Qwen2.5 is the large language model series developed by Qwen team, Alibaba Cloud.
 - [QwenLM/Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder) — Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud.
-- [Sunny Pilot](https://www.sunnypilot.ai/)
 - [young-geng/EasyLM · GitHub](https://github.com/young-geng/EasyLM)
 - [zai-org/ChatGLM3](https://github.com/zai-org/ChatGLM3) — ChatGLM3 series: Open Bilingual Chat LLMs | 开源双语对话语言模型
 

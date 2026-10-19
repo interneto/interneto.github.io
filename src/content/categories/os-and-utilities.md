@@ -5,7 +5,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 
 # OS & Utilities
 
-**Total Bookmarks:** 1141
+**Total Bookmarks:** 1142
 
 - [Comparison of OS](https://en.wikipedia.org/wiki/Comparison_of_operating_systems) — Wikipedia
 - [Comparison of real-time operating systems](https://en.wikipedia.org/wiki/Comparison_of_real-time_operating_systems) — Wikipedia
@@ -18,6 +18,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [Litchi for DJI Drones](https://www.flylitchi.com/)
 - [PX4 Autopilot](https://px4.io/)
 - [QGroundControl](http://qgroundcontrol.com/) — Drone Control
+- [Sunny Pilot](https://www.sunnypilot.ai/)
 
 ## OS by Devices
 
