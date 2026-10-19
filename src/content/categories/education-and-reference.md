@@ -5,7 +5,7 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 
 # Education & Reference
 
-**Total Bookmarks:** 1311
+**Total Bookmarks:** 1313
 
 - [Academia Lab](https://academia-lab.com/)
 - [DosisPedia](https://dosispedia.com/)
@@ -829,6 +829,7 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [TeacherVision](https://www.teachervision.com/)
 - [Tes](https://www.tes.com/)
 - [Veyon](https://veyon.io/en) — Cross-platform computer control and classroom management
+- [WebAssign](https://www.webassign.net/)
 - [WizIQ](https://www.wiziq.com/)
 
 ## Music Theory
@@ -946,6 +947,7 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [Numbermatics](https://numbermatics.com/)
 - [Olimpiada Matemática Española](http://www.olimpiadamatematica.es/platea.pntic.mec.es/_csanchez/olimmain.html)
 - [Project Euler](https://projecteuler.net/)
+- [Proofs and Prompts](https://proofsandprompts.com/) — Notes from the common room
 - [Real Sociedad Matemática Española](https://www.rsme.es/)
 - [Scissors Congruence](https://dmsm.github.io/scissors-congruence)
 - [Sector Matemática](https://www.sectormatematica.cl/)
@@ -995,6 +997,7 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - ⭐ **[Devhints](https://devhints.io/)** / <a href="https://github.com/rstacruz/cheatsheets"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - ⭐ **[Linux Commands Library](https://linuxcommandlibrary.com/)**
 - ⭐ **[The OSI-Model in a simple way](https://osi-model.com/)**
+- ⭐ **[W3Schools](https://www.w3schools.com/)** — Online Web Tutorials
 - [.NET Academy](https://dotnetcademy.net/)
 - [30 seconds of code](https://www.30secondsofcode.org/)
 - [100 Exercises To Learn Rust](https://rust-exercises.com/)
@@ -1103,7 +1106,6 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [Vim Cheat Sheet](https://vim.rtorr.com/)
 - [Vimdoc](http://vimdoc.sourceforge.net/)
 - [W3resource](https://www.w3resource.com/)
-- [W3Schools](https://www.w3schools.com/) — Online Web Tutorials
 - [W3Schools.blog](https://www.w3schools.blog/)
 - [web.resource.org](https://web.resource.org/)
 

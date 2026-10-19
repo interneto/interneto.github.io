@@ -5,7 +5,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 
 # Development
 
-**Total Bookmarks:** 2600
+**Total Bookmarks:** 2603
 
 - [Adobe Open Source](https://opensource.adobe.com/)
 - [Asterisk](https://www.asterisk.org/)
@@ -229,6 +229,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [WebAssembly](https://webassembly.org/)
 
 ## Database Management
+- [Culprit SQL Studio](https://culpritsql.com/) / <a href="https://github.com/cristipufu/culprit-sql-studio"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — find what's slowing your database down
 - [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) — A vector index built on TurboQuant, written in Rust with Python bindings
 
 ### Backend as a Service (BaaS)
@@ -683,6 +684,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 
 ### App Dev Framework
 - ⭐ **[Flutter](https://flutter.dev/)** — Build apps for any screen
+- ⭐ **[xtool](https://xtool.sh/documentation/xtool/)** / <a href="https://github.com/xtool-org/xtool"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Documentation
 - [.NET](https://dotnet.microsoft.com/en-us/) — Microsoft
 - [.NET MAUI](https://dotnet.microsoft.com/en-us/apps/maui) — Microsoft Dotnet
 - [8th dev](https://8th-dev.com/)
@@ -960,6 +962,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [Jest](https://jestjs.io/)
 - [microsoft/playwright · GitHub](https://github.com/microsoft/playwright)
 - [PHPUnit](https://phpunit.de/) — The PHP Testing Framework
+- [remorses/playwriter](https://github.com/remorses/playwriter) — Chrome extension & CLI to let agents control your browser. Runs Playwright snippets in a stateful sandbox. Available as CLI or MCP
 - [REST Assured](https://rest-assured.io/)
 - [TestGrid TestOS](https://www.testgrid.io/)
 - [Vitest](https://vitest.dev/) / <a href="https://github.com/vitest-dev/vitest"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>

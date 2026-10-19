@@ -5,7 +5,7 @@ description: Note-taking, task management, bookmarking, calculators, translators
 
 # Office & Productivity
 
-**Total Bookmarks:** 1225
+**Total Bookmarks:** 1227
 
 - ⭐ **[Hotkey Cheatsheet](https://hotkeycheatsheet.com/)** — Improve Your Productivity with Keyboard Shortcuts
 - [Boosted](https://www.boostedproductivity.com/)
@@ -705,6 +705,7 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [Office / KleverNotes · GitLab](https://invent.kde.org/office/klevernotes)
 - [Omi AI](https://www.omi.me/) / <a href="https://github.com/BasedHardware/omi"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — note taking app recorder for voice to notes transcription
 - [Open Notebook](https://www.open-notebook.ai/) / <a href="https://github.com/lfnovo/open-notebook"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Opensidian](https://opensidian.org/) — open-source, vault-compatible markdown notes app
 - [Org preview HTML · GitHub](https://github.com/jakebox/org-preview-html/)
 - [Orgmode.nvim](https://nvim-orgmode.github.io/)
 - [Orgzly](http://www.orgzly.com/)
@@ -814,6 +815,7 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [Polaris Office](https://www.polarisoffice.com/en)
 - [Scribus](https://www.scribus.net/)
 - [Trelby.org](https://www.trelby.org/)
+- [WordCraft](https://getartcraft.com/apps/wordcraft) / <a href="https://github.com/storytold/wordcraft"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — A fast, open-source word processor, rebuilt in pure Rust.
 - [WordPerfect](https://www.wordperfect.com/en)
 - [WPS Office](https://www.wps.com/)
 - [Writer Plus (Write On the Go)](https://play.google.com/store/apps/details?id=co.easy4u.writer)

@@ -244,6 +244,25 @@
     "createdAt": "2026-09-23T00:06:52.999Z"
   },
   {
+    "id": "1893128168",
+    "title": "AgentCraft — RTS interface for agent orchestration",
+    "url": "https://www.getagentcraft.com/",
+    "description": "Orchestrate your AI agents with an RTS game interface. Install with npx idosal/agentcraft.",
+    "domain": "www.getagentcraft.com",
+    "cover": "https://getagentcraft.com/opengraph-image.png?opengraph-image.d171c693.png",
+    "favorite": false,
+    "category": "ai-tools-and-services",
+    "subcategory": [
+      "Agents & Automation",
+      "Agent Frameworks & UIs"
+    ],
+    "tags": [
+      "Type: Open-Source"
+    ],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-17T23:15:47.580Z"
+  },
+  {
     "id": "1612551094",
     "title": "AgenticOS - The Operating System for Autonomous AI Agents",
     "url": "https://www.hyper.space/login",
@@ -567,6 +586,25 @@
     "createdAt": "2021-09-28T17:40:56.902Z"
   },
   {
+    "id": "1883002348",
+    "title": "AionUi — One desktop. Your AI agents, actually coworking.",
+    "url": "https://www.aionui.com/en/",
+    "description": null,
+    "domain": "www.aionui.com",
+    "cover": "https://rdl.ink/render/https%3A%2F%2Fwww.aionui.com%2Fen%2F",
+    "favorite": false,
+    "category": "ai-tools-and-services",
+    "subcategory": [
+      "Agents & Automation",
+      "Agent Frameworks & UIs"
+    ],
+    "tags": [
+      "Software: Agentic"
+    ],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-10T02:24:50.217Z"
+  },
+  {
     "id": "1645922906",
     "title": "Air: Multitask with agents, stay in control",
     "url": "https://air.dev/",
@@ -620,6 +658,26 @@
     "createdAt": "2024-12-22T22:23:10.100Z"
   },
   {
+    "id": "1884481098",
+    "title": "ajsahni/agents-office: Agents Office v3 (Beta) — a headless office where AI agents do real work",
+    "url": "https://github.com/ajsahni/agents-office",
+    "description": "Agents Office v3 (Beta) — a 3D isometric office where AI agents do real work on your own Claude login",
+    "domain": "github.com",
+    "cover": "https://github.com/ajsahni/agents-office/raw/main/assets/readme-hero.jpg",
+    "favorite": false,
+    "category": "ai-tools-and-services",
+    "subcategory": [
+      "Agents & Automation",
+      "Agent Frameworks & UIs"
+    ],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitHub"
+    ],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-11T04:51:51.024Z"
+  },
+  {
     "id": "1656228772",
     "title": "AlexsJones/llmfit: Hundreds of models & providers. One command to find what runs on your hardware",
     "url": "https://github.com/AlexsJones/llmfit",
@@ -660,6 +718,26 @@
     ],
     "sourceCodeUrls": [],
     "createdAt": "2025-05-03T13:09:26.084Z"
+  },
+  {
+    "id": "1887606999",
+    "title": "Alishahryar1/free-claude-code: Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+    "url": "https://github.com/Alishahryar1/free-claude-code",
+    "description": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (...",
+    "domain": "github.com",
+    "cover": "https://opengraph.githubassets.com/eb5c225fde4efe239a945b12f6823e4d07bd4d5dfbb60f101175f13b28fb579f/Alishahryar1/free-claude-code",
+    "favorite": false,
+    "category": "ai-tools-and-services",
+    "subcategory": [
+      "Model Serving",
+      "AI Serving Engines"
+    ],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitHub"
+    ],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-13T09:04:10.696Z"
   },
   {
     "id": "894866545",
@@ -841,6 +919,28 @@
     "createdAt": "2025-03-07T18:45:59.239Z"
   },
   {
+    "id": "1886733203",
+    "title": "Anatomy · A skill for Claude Code",
+    "url": "https://skills.wheresryan.sh/anatomy",
+    "description": "A Claude skill that draws an idea as the real machine that does it: a live isometric figure you can turn, press and read.",
+    "domain": "skills.wheresryan.sh",
+    "cover": "https://skills.wheresryan.sh/anatomy/og.png",
+    "favorite": false,
+    "category": "ai-tools-and-services",
+    "subcategory": [
+      "Agents & Automation",
+      "Skills & Plugins"
+    ],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitHub"
+    ],
+    "sourceCodeUrls": [
+      "https://github.com/wheresryan22/anatomy"
+    ],
+    "createdAt": "2026-10-12T15:18:32.089Z"
+  },
+  {
     "id": "1813043346",
     "title": "ancaferro/myPhotos: Face detection and cataloging for photo folders — OpenCV YuNet + SFace, Flask UI, SQLite",
     "url": "https://github.com/ancaferro/myPhotos",
@@ -873,7 +973,10 @@
       "Agents & Automation",
       "Agent Frameworks & UIs"
     ],
-    "tags": [],
+    "tags": [
+      "❤️",
+      "Source Code: GitHub"
+    ],
     "sourceCodeUrls": [],
     "createdAt": "2026-08-24T19:55:58.013Z"
   },
@@ -1169,6 +1272,28 @@
     ],
     "sourceCodeUrls": [],
     "createdAt": "2026-02-22T17:54:37.989Z"
+  },
+  {
+    "id": "1880278107",
+    "title": "ArtCraft — Controllable AI for Artists",
+    "url": "https://getartcraft.com/",
+    "description": "ArtCraft is the open-source desktop app for generating AI video and images — built for artists who want real control.",
+    "domain": "getartcraft.com",
+    "cover": "https://getartcraft.com/images/og-image.png",
+    "favorite": false,
+    "category": "ai-tools-and-services",
+    "subcategory": [
+      "Generative Media",
+      "AI Image & Design"
+    ],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitHub"
+    ],
+    "sourceCodeUrls": [
+      "https://github.com/storytold/artcraft"
+    ],
+    "createdAt": "2026-10-07T23:16:23.879Z"
   },
   {
     "id": "1231914920",
@@ -1471,6 +1596,25 @@
       "https://github.com/google/ax"
     ],
     "createdAt": "2026-09-23T00:05:44.216Z"
+  },
+  {
+    "id": "1879655621",
+    "title": "ayghri/i-have-adhd · GitHub",
+    "url": "https://github.com/ayghri/i-have-adhd",
+    "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output. - ayghri/i-have-adhd",
+    "domain": "github.com",
+    "cover": "https://opengraph.githubassets.com/423a67bb248cd43007ccb7c8de2515a4a20de14f8ef23a0191f99eaaa73c7217/ayghri/i-have-adhd",
+    "favorite": false,
+    "category": "ai-tools-and-services",
+    "subcategory": [
+      "Agents & Automation",
+      "Skills & Plugins"
+    ],
+    "tags": [
+      "Source Code: GitHub"
+    ],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-07T07:58:53.178Z"
   },
   {
     "id": "1769645998",
@@ -2781,6 +2925,25 @@
     "createdAt": "2026-05-14T22:29:01.779Z"
   },
   {
+    "id": "1879893281",
+    "title": "Cloudflare/clef · Hugging Face",
+    "url": "https://huggingface.co/Cloudflare/clef",
+    "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+    "domain": "huggingface.co",
+    "cover": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/Cloudflare/clef.png",
+    "favorite": false,
+    "category": "ai-tools-and-services",
+    "subcategory": [
+      "Language Models & Hubs",
+      "LLMs (Large Language Models)"
+    ],
+    "tags": [
+      "Type: Open-Source"
+    ],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-07T14:39:21.749Z"
+  },
+  {
     "id": "1813832363",
     "title": "cloudflare/computer: Give your agent a computer 👾",
     "url": "https://github.com/cloudflare/computer",
@@ -3157,6 +3320,28 @@
     ],
     "sourceCodeUrls": [],
     "createdAt": "2025-03-04T17:20:15.957Z"
+  },
+  {
+    "id": "1887601617",
+    "title": "Context Mode: The Control Plane for Coding Agents",
+    "url": "https://context-mode.com/",
+    "description": "The control plane between your coding agents and models. Spend less on context, remember across sessions, and run only what you allow.",
+    "domain": "context-mode.com",
+    "cover": "https://context-mode.com/og/pages/home.png",
+    "favorite": false,
+    "category": "ai-tools-and-services",
+    "subcategory": [
+      "Agents & Automation",
+      "Skills & Plugins"
+    ],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitHub"
+    ],
+    "sourceCodeUrls": [
+      "https://github.com/mksglu/context-mode"
+    ],
+    "createdAt": "2026-10-13T08:53:50.341Z"
   },
   {
     "id": "954496827",
@@ -3767,6 +3952,28 @@
     "createdAt": "2026-09-21T17:29:15.420Z"
   },
   {
+    "id": "1887605158",
+    "title": "Diagram Design: editorial diagrams your designer won't hate",
+    "url": "https://diagramdesign.dev/",
+    "description": "44 editorial diagram types for Claude Code, Codex, Pi and other agent hosts. Self-contained HTML + SVG, brand-matched in ~60s.",
+    "domain": "diagramdesign.dev",
+    "cover": "https://diagramdesign.dev/og.png",
+    "favorite": false,
+    "category": "ai-tools-and-services",
+    "subcategory": [
+      "Agents & Automation",
+      "Skills & Plugins"
+    ],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitHub"
+    ],
+    "sourceCodeUrls": [
+      "https://github.com/cathrynlavery/diagram-design"
+    ],
+    "createdAt": "2026-10-13T09:01:09.458Z"
+  },
+  {
     "id": "482313002",
     "title": "DiffusionBee - Stable Diffusion App for AI Art",
     "url": "https://diffusionbee.com/",
@@ -4153,6 +4360,26 @@
     ],
     "sourceCodeUrls": [],
     "createdAt": "2023-11-22T21:43:24.687Z"
+  },
+  {
+    "id": "1887056504",
+    "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF · Hugging Face",
+    "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+    "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+    "domain": "huggingface.co",
+    "cover": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF.png",
+    "favorite": false,
+    "category": "ai-tools-and-services",
+    "subcategory": [
+      "Language Models & Hubs",
+      "LLMs (Large Language Models)"
+    ],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: Hugging Face"
+    ],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-12T22:11:10.960Z"
   },
   {
     "id": "1055048379",
@@ -6642,6 +6869,26 @@
     "createdAt": "2023-01-22T20:59:43.027Z"
   },
   {
+    "id": "1882999506",
+    "title": "iOfficeAI/OfficeCLI: OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+    "url": "https://github.com/iOfficeAI/OfficeCLI",
+    "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation req...",
+    "domain": "github.com",
+    "cover": "https://opengraph.githubassets.com/1c1054cdf0661ad4ff9407b4cbe2316e9a2c8ff0a06b179b3a60d61cd3faf8c0/iOfficeAI/OfficeCLI",
+    "favorite": false,
+    "category": "ai-tools-and-services",
+    "subcategory": [
+      "Agents & Automation",
+      "Skills & Plugins"
+    ],
+    "tags": [
+      "Source Code: GitHub",
+      "Type: Open-Source"
+    ],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-10T02:22:00.200Z"
+  },
+  {
     "id": "287100889",
     "title": "iperov/DeepFaceLab · GitHub",
     "url": "https://github.com/iperov/DeepFaceLab",
@@ -7904,6 +8151,26 @@
     "createdAt": "2024-10-08T20:57:24.612Z"
   },
   {
+    "id": "1883006707",
+    "title": "lkarlslund/laya.cpp: C++ inference for Laya typed decisions - supports CUDA, Vulkan, Core ML, CPU",
+    "url": "https://github.com/lkarlslund/laya.cpp",
+    "description": "C++ inference for Laya typed decisions - supports CUDA, Vulkan, Core ML, CPU - lkarlslund/laya.cpp",
+    "domain": "github.com",
+    "cover": "https://opengraph.githubassets.com/2499d2f8a37827b1d437fa108dc64d4327cedb433167ae10529bcc454e05451d/lkarlslund/laya.cpp",
+    "favorite": false,
+    "category": "ai-tools-and-services",
+    "subcategory": [
+      "Model Serving",
+      "AI Serving Engines"
+    ],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitHub"
+    ],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-10T02:25:57.863Z"
+  },
+  {
     "id": "618775058",
     "title": "Llama 2 - Meta AI",
     "url": "https://ai.meta.com/llama/",
@@ -8416,6 +8683,26 @@
     ],
     "sourceCodeUrls": [],
     "createdAt": "2025-03-04T20:01:42.069Z"
+  },
+  {
+    "id": "1880287843",
+    "title": "lukapiskorec/craftbot: CraftBot is an architect AI agent. It interprets design briefs, grounds its thinking in domain knowledge through ingesting documents, images and other references, and outputs Python code that procedurally defines a building design.",
+    "url": "https://github.com/lukapiskorec/craftbot",
+    "description": "CraftBot is an architect AI agent. It interprets design briefs, grounds its thinking in domain knowledge through ingesting documents, images and other references, and outputs Python code that proce...",
+    "domain": "github.com",
+    "cover": "https://opengraph.githubassets.com/57fc5db75fac2b041af95804d0f1757fb07f12d7668adff7379f69b1e3a35eef/lukapiskorec/craftbot",
+    "favorite": false,
+    "category": "ai-tools-and-services",
+    "subcategory": [
+      "Agents & Automation",
+      "Agent Frameworks & UIs"
+    ],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitHub"
+    ],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-07T23:27:09.027Z"
   },
   {
     "id": "800355162",
@@ -9107,6 +9394,26 @@
     "createdAt": "2026-03-13T10:43:16.699Z"
   },
   {
+    "id": "1887602792",
+    "title": "microsoft/BitNet: Official inference framework for 1-bit LLMs",
+    "url": "https://github.com/microsoft/BitNet",
+    "description": "Official inference framework for 1-bit LLMs. Contribute to microsoft/BitNet development by creating an account on GitHub.",
+    "domain": "github.com",
+    "cover": "https://opengraph.githubassets.com/1c4be632a1790b40195805c3fae9d4d8b5acec3be57bb2321fae63fbbea1e8c1/microsoft/BitNet",
+    "favorite": false,
+    "category": "ai-tools-and-services",
+    "subcategory": [
+      "Model Serving",
+      "AI Serving Engines"
+    ],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitHub"
+    ],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-13T08:56:59.822Z"
+  },
+  {
     "id": "1780228505",
     "title": "microsoft/playwright-mcp: Playwright MCP server",
     "url": "https://github.com/microsoft/playwright-mcp",
@@ -9412,6 +9719,26 @@
     ],
     "sourceCodeUrls": [],
     "createdAt": "2023-12-18T22:28:44.909Z"
+  },
+  {
+    "id": "1887604595",
+    "title": "mksglu/context-mode: Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+    "url": "https://github.com/mksglu/context-mode",
+    "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. - mksglu/context-mode",
+    "domain": "github.com",
+    "cover": "https://opengraph.githubassets.com/7d9f3492fd80bfdc122955a0acba2b61156369d4875f3673ab248f3804c77ce2/mksglu/context-mode",
+    "favorite": false,
+    "category": "ai-tools-and-services",
+    "subcategory": [
+      "Agents & Automation",
+      "Skills & Plugins"
+    ],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitHub"
+    ],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-13T09:00:51.176Z"
   },
   {
     "id": "1612467606",
@@ -10699,6 +11026,28 @@
     "createdAt": "2026-03-20T21:36:46.930Z"
   },
   {
+    "id": "1885805504",
+    "title": "OpenHuman: open source personal AI, local-first",
+    "url": "https://tinyhumans.ai/openhuman",
+    "description": "OpenHuman is your personal AI superintelligence: private, simple, and extremely powerful.",
+    "domain": "tinyhumans.ai",
+    "cover": "https://tinyhumans.ai/logo.png",
+    "favorite": false,
+    "category": "ai-tools-and-services",
+    "subcategory": [
+      "Agents & Automation",
+      "Agent Frameworks & UIs"
+    ],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitHub"
+    ],
+    "sourceCodeUrls": [
+      "https://github.com/tinyhumansai"
+    ],
+    "createdAt": "2026-10-11T23:07:44.957Z"
+  },
+  {
     "id": "1752612433",
     "title": "OpenJarvis",
     "url": "https://openjarvis.stanford.edu/",
@@ -10842,6 +11191,23 @@
     ],
     "sourceCodeUrls": [],
     "createdAt": "2023-04-07T03:54:19.863Z"
+  },
+  {
+    "id": "1887058819",
+    "title": "OpusClip: #1 AI video clipping tool to create viral shorts",
+    "url": "https://www.opus.pro/",
+    "description": "OpusClip turns long videos into high-quality viral clips, and publishes them to all social platforms in one click. We help 20M+ creators create and grow faster.",
+    "domain": "www.opus.pro",
+    "cover": "https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/6893fad68d6058a917d7f3c6_mainpage_thumbnail.jpg",
+    "favorite": false,
+    "category": "ai-tools-and-services",
+    "subcategory": [
+      "Generative Media",
+      "AI Video"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-12T22:18:04.156Z"
   },
   {
     "id": "1710316805",
@@ -11143,7 +11509,7 @@
     "description": "A terminal-based coding agent",
     "domain": "pi.dev",
     "cover": "https://pi.dev/social.png",
-    "favorite": false,
+    "favorite": true,
     "category": "ai-tools-and-services",
     "subcategory": [
       "Agents & Automation",
@@ -11151,7 +11517,9 @@
     ],
     "tags": [
       "Software: Agentic",
-      "OS Compatibility: Cross-platform"
+      "OS Compatibility: Cross-platform",
+      "Type: Open-Source",
+      "❤️"
     ],
     "sourceCodeUrls": [],
     "createdAt": "2026-05-24T13:19:21.619Z"
@@ -11812,6 +12180,50 @@
     "createdAt": "2025-07-25T18:09:40.707Z"
   },
   {
+    "id": "1880277605",
+    "title": "REA — Reverse Engineer Anything",
+    "url": "https://morluto.github.io/rea/",
+    "description": "Inspect apps, binaries and runtime behavior with your coding agent or terminal. REA connects local analysis tools through CLI and MCP.",
+    "domain": "morluto.github.io",
+    "cover": "https://rdl.ink/render/https%3A%2F%2Fmorluto.github.io%2Frea%2F",
+    "favorite": false,
+    "category": "ai-tools-and-services",
+    "subcategory": [
+      "Agents & Automation",
+      "Skills & Plugins"
+    ],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitHub"
+    ],
+    "sourceCodeUrls": [
+      "https://github.com/morluto/rea"
+    ],
+    "createdAt": "2026-10-07T23:14:51.448Z"
+  },
+  {
+    "id": "1887603423",
+    "title": "REA — Reverse Engineering for Your Coding Agent",
+    "url": "https://rea.tools/",
+    "description": "Reverse engineer apps, binaries and browser behavior with your coding agent. Follow clear guides and try interactive examples with REA.",
+    "domain": "rea.tools",
+    "cover": "https://rea.tools/assets/social-card.png",
+    "favorite": false,
+    "category": "ai-tools-and-services",
+    "subcategory": [
+      "Agents & Automation",
+      "Skills & Plugins"
+    ],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitHub"
+    ],
+    "sourceCodeUrls": [
+      "https://github.com/morluto/rea"
+    ],
+    "createdAt": "2026-10-13T08:58:30.865Z"
+  },
+  {
     "id": "1643576478",
     "title": "Recall.ai - The API for Meeting Recording",
     "url": "https://www.recall.ai/",
@@ -12342,6 +12754,26 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2023-09-18T18:23:34.208Z"
+  },
+  {
+    "id": "1882999920",
+    "title": "ServeurpersoCom/acestep.cpp: Portable C++17 implementation of ACE-Step 1.5 AI Music Generator using GGML. Text + lyrics in, stereo 48kHz MP3 or WAV out. Runs on CPU, CUDA, ROCm, Metal, Vulkan.",
+    "url": "https://github.com/ServeurpersoCom/acestep.cpp",
+    "description": "Portable C++17 implementation of ACE-Step 1.5 AI Music Generator using GGML. Text + lyrics in, stereo 48kHz MP3 or WAV out. Runs on CPU, CUDA, ROCm, Metal, Vulkan. - ServeurpersoCom/acestep.cpp",
+    "domain": "github.com",
+    "cover": "https://opengraph.githubassets.com/fdba350879e858ff50473c1cd46baeb1772092dcf527faf34b2f7d11f99ed56e/ServeurpersoCom/acestep.cpp",
+    "favorite": false,
+    "category": "ai-tools-and-services",
+    "subcategory": [
+      "Generative Media",
+      "AI Music & Audio"
+    ],
+    "tags": [
+      "Source Code: GitHub",
+      "Type: Open-Source"
+    ],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-10T02:23:26.745Z"
   },
   {
     "id": "986141470",
@@ -12909,7 +13341,7 @@
   {
     "id": "715068535",
     "title": "Suno AI",
-    "url": "https://suno.com/home",
+    "url": "https://suno.com/",
     "description": "We are building a future where anyone can make great music. No instrument needed, just imagination. From your mind to music.",
     "domain": "suno.com",
     "cover": "https://cdn1.suno.ai/preview.jpg",
@@ -13267,6 +13699,28 @@
     "createdAt": "2026-04-24T11:14:39.279Z"
   },
   {
+    "id": "1879657025",
+    "title": "text-to-cad | Give your agent CAD superpowers",
+    "url": "https://www.texttocad.dev/",
+    "description": "Give your agent CAD superpowers. Free, open-source CAD for AI agents like Codex and Claude Code: generate STEP, STL and 3MF models, check DFM, make drawings.",
+    "domain": "www.texttocad.dev",
+    "cover": "https://www.texttocad.dev/social-preview.png",
+    "favorite": false,
+    "category": "ai-tools-and-services",
+    "subcategory": [
+      "Agents & Automation",
+      "Skills & Plugins"
+    ],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitHub"
+    ],
+    "sourceCodeUrls": [
+      "https://github.com/earthtojake/text-to-cad"
+    ],
+    "createdAt": "2026-10-07T08:00:55.913Z"
+  },
+  {
     "id": "509684625",
     "title": "Text-To-Image Generator - Bored Humans",
     "url": "https://boredhumans.com/text-to-image.php",
@@ -13367,6 +13821,25 @@
     ],
     "sourceCodeUrls": [],
     "createdAt": "2026-04-16T23:19:00.601Z"
+  },
+  {
+    "id": "1885805017",
+    "title": "TinyHumans: open source AI agents that work for you",
+    "url": "https://tinyhumans.ai/",
+    "description": "TinyHumans builds practical AI products for memory, automation, and personal intelligence.",
+    "domain": "tinyhumans.ai",
+    "cover": "https://tinyhumans.ai/logo.png",
+    "favorite": false,
+    "category": "ai-tools-and-services",
+    "subcategory": [
+      "Agents & Automation",
+      "Agent Frameworks & UIs"
+    ],
+    "tags": [
+      "Type: Open-Source"
+    ],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-11T23:06:12.591Z"
   },
   {
     "id": "1663925747",
@@ -25727,6 +26200,24 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2021-02-22T02:54:13.000Z"
+  },
+  {
+    "id": "287100301",
+    "title": "Big Cartel",
+    "url": "https://www.bigcartel.com/",
+    "description": "Build a unique online store, sell your work, and run a creative business. Perfect for clothing designers, bands, jewelry makers, crafters, and other artists.",
+    "domain": "www.bigcartel.com",
+    "cover": "https://s3.amazonaws.com/files.bigcartel.com/misc/fletch.jpg",
+    "favorite": false,
+    "category": "business-and-commerce",
+    "subcategory": [
+      "Enterprises",
+      "Commerce Company",
+      "e-commerce"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2020-12-02T16:52:46.000Z"
   },
   {
     "id": "287105856",
@@ -41917,6 +42408,25 @@
     "createdAt": "2022-11-21T23:21:17.877Z"
   },
   {
+    "id": "1887056933",
+    "title": "Empero — Independent AI Research Lab",
+    "url": "https://empero.org/",
+    "description": "Small models, trained in the open. 10M+ downloads on Hugging Face.",
+    "domain": "empero.org",
+    "cover": "https://empero.org/opengraph-image?c3cdf48da063b565",
+    "favorite": false,
+    "category": "business-and-commerce",
+    "subcategory": [
+      "Enterprises",
+      "Technology Company",
+      "Software Company",
+      "AI Lab Company"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-12T22:12:17.907Z"
+  },
+  {
     "id": "378145428",
     "title": "Emplea.eu",
     "url": "http://www.emplea.eu/",
@@ -43054,6 +43564,23 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2026-04-24T10:50:23.518Z"
+  },
+  {
+    "id": "1880706952",
+    "title": "EU Remote Jobs",
+    "url": "https://euremotejobs.com/",
+    "description": "The best remote jobs open to candidates within EMEA time zones",
+    "domain": "euremotejobs.com",
+    "cover": "https://rdl.ink/render/https%3A%2F%2Feuremotejobs.com%2F",
+    "favorite": false,
+    "category": "business-and-commerce",
+    "subcategory": [
+      "Job Portal",
+      "Find Job"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-08T09:48:54.681Z"
   },
   {
     "id": "370575195",
@@ -78211,8 +78738,7 @@
       "Enterprises",
       "Technology Company",
       "Software Company",
-      "AI Lab Company",
-      "OpenAI"
+      "AI Lab Company"
     ],
     "tags": [
       "Company: OpenAI",
@@ -78220,26 +78746,6 @@
     ],
     "sourceCodeUrls": [],
     "createdAt": "2020-05-28T02:26:01.000Z"
-  },
-  {
-    "id": "714387273",
-    "title": "OpenAI Cookbook",
-    "url": "https://cookbook.openai.com/",
-    "description": "Open-source examples and guides for building with the OpenAI API. Browse a collection of snippets, advanced techniques and walkthroughs. Share your own examples and guides.",
-    "domain": "cookbook.openai.com",
-    "cover": "https://cookbook-bpyu36e3e-openai.vercel.app/og",
-    "favorite": false,
-    "category": "business-and-commerce",
-    "subcategory": [
-      "Enterprises",
-      "Technology Company",
-      "Software Company",
-      "AI Lab Company",
-      "OpenAI"
-    ],
-    "tags": [],
-    "sourceCodeUrls": [],
-    "createdAt": "2024-01-14T18:52:53.539Z"
   },
   {
     "id": "1193907732",
@@ -78257,26 +78763,6 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2025-06-25T20:56:49.040Z"
-  },
-  {
-    "id": "566608079",
-    "title": "OpenAI Status",
-    "url": "https://status.openai.com/",
-    "description": "Welcome to OpenAI's home for real-time and historical data on system performance.",
-    "domain": "status.openai.com",
-    "cover": "https://dka575ofm4ao0.cloudfront.net/pages-transactional_logos/retina/221342/openai-logo-horizontal-flat-black.png",
-    "favorite": false,
-    "category": "business-and-commerce",
-    "subcategory": [
-      "Enterprises",
-      "Technology Company",
-      "Software Company",
-      "AI Lab Company",
-      "OpenAI"
-    ],
-    "tags": [],
-    "sourceCodeUrls": [],
-    "createdAt": "2023-05-01T23:26:11.987Z"
   },
   {
     "id": "287106162",
@@ -78777,7 +79263,8 @@
       "Video Production"
     ],
     "tags": [
-      "Content: Video"
+      "Content: Video",
+      "Web: Discontinued"
     ],
     "sourceCodeUrls": [],
     "createdAt": "2021-07-26T18:43:25.155Z"
@@ -80547,6 +81034,22 @@
     "createdAt": "2020-11-20T13:15:07.000Z"
   },
   {
+    "id": "287100066",
+    "title": "PayScale",
+    "url": "https://www.payscale.com/",
+    "description": "Research and compare average salaries. Free July 2021 salary information matched to your exact job profile. Find out what you are worth.",
+    "domain": "www.payscale.com",
+    "cover": "https://rdl.ink/render/https%3A%2F%2Fwww.payscale.com",
+    "favorite": false,
+    "category": "business-and-commerce",
+    "subcategory": [
+      "Job Portal"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2021-05-19T18:50:36.000Z"
+  },
+  {
     "id": "287104418",
     "title": "Paz Cerezo",
     "url": "https://pazcerezo.com/",
@@ -80753,24 +81256,6 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2021-01-17T02:47:18.000Z"
-  },
-  {
-    "id": "287104174",
-    "title": "Peloton | Workouts Streamed Live & On-Demand",
-    "url": "https://www.onepeloton.com/",
-    "description": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
-    "domain": "www.onepeloton.com",
-    "cover": "https://images.ctfassets.net/6jnflt57iyzx/63y0PSJLXlelcXyO0juIAN/0434c58157437a104669e73ec4017e63/Peloton_Meta_Image.png",
-    "favorite": false,
-    "category": "business-and-commerce",
-    "subcategory": [
-      "Enterprises",
-      "Commerce Company",
-      "Clothes Shops"
-    ],
-    "tags": [],
-    "sourceCodeUrls": [],
-    "createdAt": "2020-11-13T18:20:56.000Z"
   },
   {
     "id": "287105529",
@@ -91309,6 +91794,24 @@
     "createdAt": "2020-12-27T00:40:14.000Z"
   },
   {
+    "id": "366940499",
+    "title": "Sendowl",
+    "url": "https://sendowl.com/",
+    "description": "SendOwl makes it easy for you to sell digital products direct to your audience from your blog, social media or anywhere you can paste a link",
+    "domain": "sendowl.com",
+    "cover": "https://www.sendowl.com/assets/common/open_graph_logo.png",
+    "favorite": false,
+    "category": "business-and-commerce",
+    "subcategory": [
+      "Enterprises",
+      "Commerce Company",
+      "e-commerce"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2022-02-17T11:51:14.785Z"
+  },
+  {
     "id": "287105560",
     "title": "SENER Engineering group",
     "url": "https://www.group.sener/",
@@ -101476,6 +101979,24 @@
     "createdAt": "2020-06-23T00:33:31.000Z"
   },
   {
+    "id": "287099899",
+    "title": "Total Life Changes",
+    "url": "https://totallifechanges.com/",
+    "description": "Naturally made health & wellness products built around a community with support worldwide. Visit us for more information!",
+    "domain": "totallifechanges.com",
+    "cover": "https://rdl.ink/render/https%3A%2F%2Ftotallifechanges.com",
+    "favorite": false,
+    "category": "business-and-commerce",
+    "subcategory": [
+      "Enterprises",
+      "Commerce Company",
+      "e-commerce"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2020-10-14T12:13:50.000Z"
+  },
+  {
     "id": "287106118",
     "title": "Total.com",
     "url": "https://www.total.com/",
@@ -110342,9 +110863,9 @@
     "id": "287107668",
     "title": "Yellowbook",
     "url": "https://www.yellowbook.com/",
-    "description": null,
+    "description": "With these small business resources, we seek to save you time, energy, and money by delivering the information that you need in a clear and concise manner.",
     "domain": "www.yellowbook.com",
-    "cover": null,
+    "cover": "https://rdl.ink/render/https%3A%2F%2Fwww.yellowbook.com%2F",
     "favorite": false,
     "category": "business-and-commerce",
     "subcategory": [
@@ -115656,7 +116177,8 @@
       "Game Engine"
     ],
     "tags": [
-      "Type: Open-Source"
+      "Type: Open-Source",
+      "Source Code: GitHub"
     ],
     "sourceCodeUrls": [
       "https://github.com/bevyengine/bevy"
@@ -119627,6 +120149,27 @@
     ],
     "sourceCodeUrls": [],
     "createdAt": "2023-02-23T02:49:11.437Z"
+  },
+  {
+    "id": "1890000741",
+    "title": "Culprit SQL Studio: find what's slowing your database down",
+    "url": "https://culpritsql.com/",
+    "description": "Slow queries, execution plans, indexes and deadlocks for SQL Server, PostgreSQL, MySQL and MariaDB. Free desktop app, CLI and MCP server.",
+    "domain": "culpritsql.com",
+    "cover": "https://culpritsql.com/og.jpg",
+    "favorite": false,
+    "category": "development",
+    "subcategory": [
+      "Database Management"
+    ],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitHub"
+    ],
+    "sourceCodeUrls": [
+      "https://github.com/cristipufu/culprit-sql-studio"
+    ],
+    "createdAt": "2026-10-14T22:27:44.943Z"
   },
   {
     "id": "1776431224",
@@ -148569,6 +149112,26 @@
     "createdAt": "2022-06-15T14:18:46.610Z"
   },
   {
+    "id": "1883796797",
+    "title": "remorses/playwriter: Chrome extension & CLI to let agents control your browser. Runs Playwright snippets in a stateful sandbox. Available as CLI or MCP",
+    "url": "https://github.com/remorses/playwriter",
+    "description": "Chrome extension & CLI to let agents control your browser. Runs Playwright snippets in a stateful sandbox. Available as CLI or MCP - remorses/playwriter",
+    "domain": "github.com",
+    "cover": "https://opengraph.githubassets.com/fa226cce3fee381259f4bb6ebff6ad2f9b1fc673c2901a0b7bf82d5d48040a58/remorses/playwriter",
+    "favorite": false,
+    "category": "development",
+    "subcategory": [
+      "Development Framework",
+      "Testing Framework"
+    ],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitHub"
+    ],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-10T16:41:59.437Z"
+  },
+  {
     "id": "581633963",
     "title": "remotely-save · GitHub",
     "url": "https://github.com/remotely-save/remotely-save",
@@ -160753,6 +161316,29 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2022-06-15T17:18:06.268Z"
+  },
+  {
+    "id": "1884449845",
+    "title": "xtool | Documentation",
+    "url": "https://xtool.sh/documentation/xtool/",
+    "description": "Cross-platform Xcode replacement.",
+    "domain": "xtool.sh",
+    "cover": "https://xtool.sh/developer-og-twitter.jpg",
+    "favorite": true,
+    "category": "development",
+    "subcategory": [
+      "Development Framework",
+      "App Dev Framework"
+    ],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitHub",
+      "❤️"
+    ],
+    "sourceCodeUrls": [
+      "https://github.com/xtool-org/xtool"
+    ],
+    "createdAt": "2026-10-11T04:39:03.839Z"
   },
   {
     "id": "287101304",
@@ -179016,6 +179602,24 @@
     "createdAt": "2022-07-27T19:57:14.599Z"
   },
   {
+    "id": "1886733709",
+    "title": "Proofs and Prompts – Notes from the common room",
+    "url": "https://proofsandprompts.com/",
+    "description": "Notes from the common room",
+    "domain": "proofsandprompts.com",
+    "cover": "https://proofsandprompts.com/wp-content/uploads/2026/08/pp_icon.png?w=200",
+    "favorite": false,
+    "category": "education-and-reference",
+    "subcategory": [
+      "Science",
+      "Basic Science",
+      "Maths"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-12T15:20:06.343Z"
+  },
+  {
     "id": "287108410",
     "title": "Prueba de Nivel de Inglés",
     "url": "https://oxfordhousebcn.com/niveles/prueba-de-nivel/ingles",
@@ -184108,14 +184712,16 @@
     "description": "Well organized and easy to understand Web building tutorials with lots of examples of how to use HTML, CSS, JavaScript, SQL, Python, PHP, Bootstrap, Java, XML and more.",
     "domain": "www.w3schools.com",
     "cover": "https://rdl.ink/render/https%3A%2F%2Fwww.w3schools.com",
-    "favorite": false,
+    "favorite": true,
     "category": "education-and-reference",
     "subcategory": [
       "Science",
       "Applied Science",
       "Computing"
     ],
-    "tags": [],
+    "tags": [
+      "❤️"
+    ],
     "sourceCodeUrls": [],
     "createdAt": "2019-11-07T18:50:02.000Z"
   },
@@ -184296,6 +184902,23 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2021-05-09T02:04:50.000Z"
+  },
+  {
+    "id": "1894070802",
+    "title": "WebAssign",
+    "url": "https://www.webassign.net/",
+    "description": "WebAssign is an online learning platform built by educators that provides affordable tools to empower conﬁdent students in a virtual learning environment.",
+    "domain": "www.webassign.net",
+    "cover": "https://www.webassign.net/wp-content/uploads/2021/03/webassign-slider-image-spring-2021-update-1.png",
+    "favorite": false,
+    "category": "education-and-reference",
+    "subcategory": [
+      "Learning Platforms",
+      "Classroom"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-18T20:59:55.351Z"
   },
   {
     "id": "287107882",
@@ -193222,6 +193845,26 @@
     "createdAt": "2022-08-22T23:46:26.868Z"
   },
   {
+    "id": "1889216400",
+    "title": "lgse/strata: A fast, keyboard-first file manager for Linux",
+    "url": "https://github.com/lgse/strata",
+    "description": "A fast, keyboard-first file manager for Linux. Contribute to lgse/strata development by creating an account on GitHub.",
+    "domain": "github.com",
+    "cover": "https://opengraph.githubassets.com/1f9112fb1eb22b2fe2c77ca20e3613de2420dfdf22d09683dcb09a1b75210888/lgse/strata",
+    "favorite": false,
+    "category": "file-management",
+    "subcategory": [
+      "File Manager",
+      "File Manager GUI"
+    ],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitHub"
+    ],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-14T08:24:20.156Z"
+  },
+  {
     "id": "736111200",
     "title": "libfuse/sshfs · GitHub",
     "url": "https://github.com/libfuse/sshfs",
@@ -200351,6 +200994,22 @@
     "createdAt": "2023-02-16T03:10:54.033Z"
   },
   {
+    "id": "287100058",
+    "title": "WeTransfer",
+    "url": "https://wetransfer.com/",
+    "description": "WeTransfer is the simplest way to send your files around the world",
+    "domain": "wetransfer.com",
+    "cover": "https://prod-cdn.wetransfer.net/packs/media/images/wt-facebook-9db47080.png",
+    "favorite": false,
+    "category": "file-management",
+    "subcategory": [
+      "File Transfer Tool"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2020-04-17T19:46:23.000Z"
+  },
+  {
     "id": "482651632",
     "title": "Whatbox · Plans",
     "url": "https://whatbox.ca/plans",
@@ -202751,6 +203410,26 @@
     ],
     "sourceCodeUrls": [],
     "createdAt": "2020-06-26T13:44:37.000Z"
+  },
+  {
+    "id": "1883049360",
+    "title": "chasmlol/2010-rust-rewrite-mashup: MW2, Skate 3 and Minecraft in one Rust game: IW4L's MW2 rewrite with Skate 3 mode and a real Minecraft world map",
+    "url": "https://github.com/chasmlol/2010-rust-rewrite-mashup",
+    "description": "MW2, Skate 3 and Minecraft in one Rust game: IW4L's MW2 rewrite with Skate 3 mode and a real Minecraft world map - chasmlol/2010-rust-rewrite-mashup",
+    "domain": "github.com",
+    "cover": "https://opengraph.githubassets.com/6ea8e1251963b25f798907024ba94f3cd3b9b81cb6599d38d1a5d6a276a7d6af/chasmlol/2010-rust-rewrite-mashup",
+    "favorite": false,
+    "category": "gaming",
+    "subcategory": [
+      "Gaming Utilities",
+      "Games Mods"
+    ],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitHub"
+    ],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-10T03:06:34.952Z"
   },
   {
     "id": "1173214622",
@@ -207181,6 +207860,23 @@
     "createdAt": "2023-01-18T14:50:42.768Z"
   },
   {
+    "id": "1889314398",
+    "title": "Lawgivers | Political simulation game PC, Android & iOS",
+    "url": "https://www.lawgivers.com/",
+    "description": "Political simulation game for pc, android and ios",
+    "domain": "www.lawgivers.com",
+    "cover": "https://www.lawgivers.com/img/banner.jpg",
+    "favorite": false,
+    "category": "gaming",
+    "subcategory": [
+      "Games",
+      "Strategy"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-14T10:39:17.661Z"
+  },
+  {
     "id": "713627687",
     "title": "Lazy Mutt Games - Free Online, or Downloaded Games",
     "url": "https://lazymuttgames.com/",
@@ -207854,6 +208550,26 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2022-01-26T01:24:35.283Z"
+  },
+  {
+    "id": "1883043364",
+    "title": "mattvideoproductions/TornadoRedemption: A tornado mod for Red Dead Redemption 2 (story mode): a funnel that whirls up people, horses, wagons, trees and Arthur, a cinematic intro with the Van der Linde gang, a tornado gun and a jet balloon. Made with Claude.",
+    "url": "https://github.com/mattvideoproductions/TornadoRedemption",
+    "description": "A tornado mod for Red Dead Redemption 2 (story mode): a funnel that whirls up people, horses, wagons, trees and Arthur, a cinematic intro with the Van der Linde gang, a tornado gun and a jet balloo...",
+    "domain": "github.com",
+    "cover": "https://opengraph.githubassets.com/85eb1615f38e8d3045581f5d3ff26c99eed6ddfca3c413c50c2ca5cacd8d5deb/mattvideoproductions/TornadoRedemption",
+    "favorite": false,
+    "category": "gaming",
+    "subcategory": [
+      "Gaming Utilities",
+      "Games Mods"
+    ],
+    "tags": [
+      "Source Code: GitHub",
+      "Type: Open-Source"
+    ],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-10T03:03:42.559Z"
   },
   {
     "id": "605418300",
@@ -214451,7 +215167,7 @@
     "category": "health-and-fitness",
     "subcategory": [
       "Physical Activity",
-      "Workout App"
+      "Fitness App"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -214663,6 +215379,28 @@
     "createdAt": "2019-09-27T11:01:00.000Z"
   },
   {
+    "id": "1883660174",
+    "title": "AvoCook — Carnet de recettes mobile",
+    "url": "https://logarex.github.io/AvoCook/",
+    "description": "Un carnet de recettes complet qui fonctionne hors ligne. Synchronisation Nextcloud optionnelle.",
+    "domain": "logarex.github.io",
+    "cover": "https://rdl.ink/render/https%3A%2F%2Flogarex.github.io%2FAvoCook%2F",
+    "favorite": false,
+    "category": "health-and-fitness",
+    "subcategory": [
+      "Food Recipes",
+      "Recipe Manager"
+    ],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitHub"
+    ],
+    "sourceCodeUrls": [
+      "https://github.com/Logarex/AvoCook"
+    ],
+    "createdAt": "2026-10-10T14:32:30.004Z"
+  },
+  {
     "id": "287101453",
     "title": "AxiomRun",
     "url": "https://axiomrun.com/",
@@ -214823,6 +215561,23 @@
     "createdAt": "2021-01-03T01:36:05.000Z"
   },
   {
+    "id": "1891379946",
+    "title": "BetterMe | Personalized holistic wellness solution",
+    "url": "https://betterme.world/",
+    "description": "BetterMe is a wellness ecosystem that takes a bio-individual approach to every single user.",
+    "domain": "betterme.world",
+    "cover": "https://image-service.betterme.world/9465c8ef-765f-4da7-835c-2dc9f1b7a8c4/image/upload/c_fit,dpr_2.0,fl_lossy,q_auto:eco,w_480,f_avif/v1/betterme.world/betterme_a2cdfg",
+    "favorite": false,
+    "category": "health-and-fitness",
+    "subcategory": [
+      "Physical Activity",
+      "Fitness App"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-16T07:23:07.222Z"
+  },
+  {
     "id": "287101452",
     "title": "Bikemap - Bicycle tracks, Route Planner, Bike Computer App",
     "url": "https://www.bikemap.net/",
@@ -214939,7 +215694,7 @@
     "category": "health-and-fitness",
     "subcategory": [
       "Physical Activity",
-      "Workout App"
+      "Fitness App"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -215029,7 +215784,7 @@
     "category": "health-and-fitness",
     "subcategory": [
       "Physical Activity",
-      "Workout App"
+      "Fitness App"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -216623,7 +217378,7 @@
   },
   {
     "id": "458185584",
-    "title": "Fitbod",
+    "title": "Fitbod – Workout Planner & Fitness App",
     "url": "https://fitbod.me/",
     "description": null,
     "domain": "fitbod.me",
@@ -216637,6 +217392,23 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2022-10-14T10:48:55.077Z"
+  },
+  {
+    "id": "1888303407",
+    "title": "Fitloop - Free Calisthenics & Gym Workout Tracker",
+    "url": "https://fitloop.app/",
+    "description": "Free calisthenics and gym workout tracker with AI-built plans. Lift weights, master bodyweight skills, or do both. No ads. iOS & Android.",
+    "domain": "fitloop.app",
+    "cover": "https://fitloop.app/og-image.png",
+    "favorite": false,
+    "category": "health-and-fitness",
+    "subcategory": [
+      "Physical Activity",
+      "Fitness App"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-13T18:00:33.030Z"
   },
   {
     "id": "422870834",
@@ -216683,11 +217455,28 @@
     "category": "health-and-fitness",
     "subcategory": [
       "Physical Activity",
-      "Workout App"
+      "Fitness App"
     ],
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2026-08-20T10:33:01.468Z"
+  },
+  {
+    "id": "1888303688",
+    "title": "FitOn",
+    "url": "https://fitonapp.com/",
+    "description": "Lose weight, get fit and feel great anytime, anywhere with free on-demand fitness classes, personalized workout plans and guided meditations.",
+    "domain": "fitonapp.com",
+    "cover": "https://i0.wp.com/fitonapp.com/wp-content/uploads/cropped-App-icon_512-1.png?fit=512%2C512&ssl=1",
+    "favorite": false,
+    "category": "health-and-fitness",
+    "subcategory": [
+      "Physical Activity",
+      "Fitness App"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-13T18:01:15.172Z"
   },
   {
     "id": "1036410913",
@@ -216797,6 +217586,23 @@
     ],
     "sourceCodeUrls": [],
     "createdAt": "2025-03-23T02:40:02.803Z"
+  },
+  {
+    "id": "1888303579",
+    "title": "FREELETICS - Intensive workouts & individual training plans",
+    "url": "https://www.freeletics.com/en/",
+    "description": "Get a personal Training Journey based on your fitness level. High intensity training: anytime & anywhere. Start training today!",
+    "domain": "www.freeletics.com",
+    "cover": "https://cdn.freeletics.net/assets/super-bundle-pfvbocNF.webp",
+    "favorite": false,
+    "category": "health-and-fitness",
+    "subcategory": [
+      "Physical Activity",
+      "Fitness App"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-13T18:01:00.864Z"
   },
   {
     "id": "1016285051",
@@ -216916,6 +217722,25 @@
       "https://github.com/GoldenCheetah/GoldenCheetah"
     ],
     "createdAt": "2025-06-13T23:16:15.595Z"
+  },
+  {
+    "id": "1888324357",
+    "title": "Google Fit",
+    "url": "https://www.google.com/fit/",
+    "description": "Coaching you to a healthier and more active life",
+    "domain": "www.google.com",
+    "cover": "https://lh3.googleusercontent.com/ir2-W48gf2uIorNfXw4UDmK1mbq0g79vqe-3JVz9urSlhKQjBT58o57ENqtZ71MovujW10qrVe-mhpiic_Dsrg=w280-rw-",
+    "favorite": false,
+    "category": "health-and-fitness",
+    "subcategory": [
+      "Physical Activity",
+      "Fitness App"
+    ],
+    "tags": [
+      "Company: Alphabet (Google)"
+    ],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-13T18:35:52.101Z"
   },
   {
     "id": "1801434629",
@@ -217069,7 +217894,7 @@
     "category": "health-and-fitness",
     "subcategory": [
       "Physical Activity",
-      "Workout App"
+      "Fitness App"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -217285,6 +218110,23 @@
     "createdAt": "2025-04-16T10:58:56.765Z"
   },
   {
+    "id": "1888323233",
+    "title": "JEFIT - Your Ultimate Workout Planner & Tracking App for Progress",
+    "url": "https://www.jefit.com/",
+    "description": "JEFIT is the workout planner and tracking app you need to stay on top of your fitness. Plan routines, track progress, and reach your goals with ease.",
+    "domain": "www.jefit.com",
+    "cover": "https://www.jefit.com/_next/image?url=%2Fhome_page%2Fappdemo.png&w=640&q=75",
+    "favorite": false,
+    "category": "health-and-fitness",
+    "subcategory": [
+      "Physical Activity",
+      "Fitness App"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-13T18:32:56.381Z"
+  },
+  {
     "id": "287110291",
     "title": "Jim Humble",
     "url": "https://jimhumble.co/",
@@ -217416,6 +218258,26 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2025-04-25T11:27:47.465Z"
+  },
+  {
+    "id": "1883658824",
+    "title": "kafkade/fond · GitHub",
+    "url": "https://github.com/kafkade/fond",
+    "description": "Local-first personal cooking & recipe management — CLI-first, Cooklang-native, family-shared. Your recipes, your data, your kitchen",
+    "domain": "github.com",
+    "cover": "https://opengraph.githubassets.com/4edb684f46963e64735720a131a96e7334b7d0fd797d9fca04d22f64eb6cf41b/kafkade/fond",
+    "favorite": false,
+    "category": "health-and-fitness",
+    "subcategory": [
+      "Food Recipes",
+      "Recipe Manager"
+    ],
+    "tags": [
+      "Source Code: GitHub",
+      "Type: Open-Source"
+    ],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-10T14:29:16.480Z"
   },
   {
     "id": "514809959",
@@ -217662,7 +218524,7 @@
     "category": "health-and-fitness",
     "subcategory": [
       "Physical Activity",
-      "Workout App"
+      "Fitness App"
     ],
     "tags": [
       "Type: Open-Source",
@@ -218076,6 +218938,23 @@
     "createdAt": "2019-10-30T23:20:01.000Z"
   },
   {
+    "id": "1891380904",
+    "title": "Muscle Charge | Fitness & Weight Loss Plans for Men Over 40",
+    "url": "https://www.musclecharge.app/",
+    "description": "Achieve your goals with Muscle Charge. Explore fitness and weight loss plans tailored for men over 40, designed for sustainable results and peak performance.",
+    "domain": "www.musclecharge.app",
+    "cover": "https://rdl.ink/render/https%3A%2F%2Fwww.musclecharge.app%2F",
+    "favorite": false,
+    "category": "health-and-fitness",
+    "subcategory": [
+      "Physical Activity",
+      "Fitness App"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-16T07:26:21.037Z"
+  },
+  {
     "id": "1827086828",
     "title": "Muscle&Motion",
     "url": "https://www.muscleandmotion.com/",
@@ -218401,6 +219280,26 @@
     "createdAt": "2021-01-09T16:00:16.000Z"
   },
   {
+    "id": "1883663175",
+    "title": "oliexdev/openCook · GitHub",
+    "url": "https://github.com/oliexdev/openCook",
+    "description": "Open-source recipe app that turns cookbook photos into recipes, plans your week and shares the shopping list",
+    "domain": "github.com",
+    "cover": "https://opengraph.githubassets.com/223b3810f497c1adca4cda99ca76ab5781105107dcf0ae5b6c7a274539ae44d4/oliexdev/openCook",
+    "favorite": false,
+    "category": "health-and-fitness",
+    "subcategory": [
+      "Food Recipes",
+      "Recipe Manager"
+    ],
+    "tags": [
+      "Source Code: GitHub",
+      "Type: Open-Source"
+    ],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-10T14:40:32.342Z"
+  },
+  {
     "id": "1834475629",
     "title": "OneRep | Workout, Food and Progress Tracker in One App",
     "url": "https://www.onerep.life/",
@@ -218421,6 +219320,29 @@
       "https://github.com/an2tha/onerep"
     ],
     "createdAt": "2026-08-25T21:17:38.557Z"
+  },
+  {
+    "id": "1879655337",
+    "title": "openGym — your workouts, your weights, your data",
+    "url": "https://opengym.ch/",
+    "description": "Free, open-source gym & body-weight tracker. Android APK or self-hosted with Docker. No account, no cloud, no telemetry.",
+    "domain": "opengym.ch",
+    "cover": "https://opengym.duarte-santos.ch/img/social.jpg",
+    "favorite": true,
+    "category": "health-and-fitness",
+    "subcategory": [
+      "Physical Activity",
+      "Fitness App"
+    ],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitHub",
+      "❤️"
+    ],
+    "sourceCodeUrls": [
+      "https://github.com/DuarteSantos8/openGym"
+    ],
+    "createdAt": "2026-10-07T07:57:38.337Z"
   },
   {
     "id": "1016288308",
@@ -218606,6 +219528,23 @@
     ],
     "sourceCodeUrls": [],
     "createdAt": "2023-01-04T16:24:12.305Z"
+  },
+  {
+    "id": "287104174",
+    "title": "Peloton | Workouts Streamed Live & On-Demand",
+    "url": "https://www.onepeloton.com/",
+    "description": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
+    "domain": "www.onepeloton.com",
+    "cover": "https://images.ctfassets.net/6jnflt57iyzx/63y0PSJLXlelcXyO0juIAN/0434c58157437a104669e73ec4017e63/Peloton_Meta_Image.png",
+    "favorite": false,
+    "category": "health-and-fitness",
+    "subcategory": [
+      "Physical Activity",
+      "Fitness App"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2020-11-13T18:20:56.000Z"
   },
   {
     "id": "1036558513",
@@ -219059,6 +219998,23 @@
     "createdAt": "2021-05-30T20:28:50.000Z"
   },
   {
+    "id": "1891380506",
+    "title": "Reverse Health | Fitness & Weight Loss Plans for Women over 40",
+    "url": "https://reverse.health/",
+    "description": "Reverse Health offers personalized fitness and weight loss plans crafted specifically for women over 40. Our expert-designed programs focus on sustainable results through balanced nutrition, effective workouts, and support for hormonal and lifestyle changes. Empower your health journey with solutions that work for your body, not against it.",
+    "domain": "reverse.health",
+    "cover": "https://rdl.ink/render/https%3A%2F%2Freverse.health%2F",
+    "favorite": false,
+    "category": "health-and-fitness",
+    "subcategory": [
+      "Physical Activity",
+      "Fitness App"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-16T07:24:41.607Z"
+  },
+  {
     "id": "1311840661",
     "title": "rolandsz/Mi-Fit-and-Zepp-workout-exporter",
     "url": "https://github.com/rolandsz/Mi-Fit-and-Zepp-workout-exporter",
@@ -219188,6 +220144,26 @@
     "createdAt": "2020-05-12T01:24:03.000Z"
   },
   {
+    "id": "1883662719",
+    "title": "sbmagar13/recipe-jar · GitHub",
+    "url": "https://github.com/sbmagar13/recipe-jar",
+    "description": "🫙 Just the recipe, yours to keep. Paste a link, get a clean card; local-first, no account, no ads, works offline. Unlimited saves, on your device",
+    "domain": "github.com",
+    "cover": "https://opengraph.githubassets.com/92afb6de4e1f29df3952835c078a0c751b9f3891bb220e9b3ba9fdef4b2f1993/sbmagar13/recipe-jar",
+    "favorite": false,
+    "category": "health-and-fitness",
+    "subcategory": [
+      "Food Recipes",
+      "Recipe Manager"
+    ],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitHub"
+    ],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-10T14:39:21.974Z"
+  },
+  {
     "id": "1035767834",
     "title": "SideChef: Shop and Cook Step-by-Step Recipes",
     "url": "https://www.sidechef.com/",
@@ -219203,6 +220179,26 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2025-05-09T01:58:04.508Z"
+  },
+  {
+    "id": "1883663671",
+    "title": "Simo-JDev/cookBook · GitHub",
+    "url": "https://github.com/Simo-JDev/cookBook",
+    "description": "A Flutter MacOS app to store your favourite recipes",
+    "domain": "github.com",
+    "cover": "https://repository-images.githubusercontent.com/599319999/a6c52f4d-2052-4a59-a41b-ac9a2b961c9a",
+    "favorite": false,
+    "category": "health-and-fitness",
+    "subcategory": [
+      "Food Recipes",
+      "Recipe Manager"
+    ],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitHub"
+    ],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-10T14:41:42.840Z"
   },
   {
     "id": "1827015915",
@@ -219222,6 +220218,23 @@
     ],
     "sourceCodeUrls": [],
     "createdAt": "2026-08-20T10:39:01.857Z"
+  },
+  {
+    "id": "1891380726",
+    "title": "Simple: Weight Loss & Health Coaching",
+    "url": "https://simple.life/",
+    "description": "Lose weight and increase long term well-being with practical, positive AI coaching. Eat healthy, fast safely, move more without diets or food restrictions.",
+    "domain": "simple.life",
+    "cover": "https://wordpress.cdn-simple-life.com/homepage/share.jpg",
+    "favorite": false,
+    "category": "health-and-fitness",
+    "subcategory": [
+      "Physical Activity",
+      "Fitness App"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-16T07:25:33.500Z"
   },
   {
     "id": "287101439",
@@ -219552,7 +220565,7 @@
     "category": "health-and-fitness",
     "subcategory": [
       "Physical Activity",
-      "Workout App"
+      "Fitness App"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -219823,6 +220836,23 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2021-09-05T03:41:49.075Z"
+  },
+  {
+    "id": "1888326630",
+    "title": "VGFIT - Fitness Apps And Workouts for iOS and Android",
+    "url": "https://vgfit.com/home",
+    "description": "VGFIT helps you to stay active and train better with fitness motivation and guidance.",
+    "domain": "vgfit.com",
+    "cover": "https://vgfit.com/images/main/1.jpg",
+    "favorite": false,
+    "category": "health-and-fitness",
+    "subcategory": [
+      "Physical Activity",
+      "Fitness App"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-13T18:41:09.610Z"
   },
   {
     "id": "344040375",
@@ -220113,10 +221143,10 @@
   {
     "id": "1184942591",
     "title": "Workout Cool",
-    "url": "https://workout.cool/",
+    "url": "https://workout.cool/en",
     "description": "Modern fitness coaching platform with comprehensive exercise database",
     "domain": "workout.cool",
-    "cover": "https://rdl.ink/render/https%3A%2F%2Fworkout.cool%2F",
+    "cover": "https://workout.cool/images/default-og-image_en.jpg",
     "favorite": true,
     "category": "health-and-fitness",
     "subcategory": [
@@ -232037,6 +233067,28 @@
     "createdAt": "2024-08-16T22:47:16.325Z"
   },
   {
+    "id": "1879893165",
+    "title": "Audionaut – Free, Open-Source Audio Editor for macOS, Windows and Linux",
+    "url": "https://audionaut.app/",
+    "description": "Audionaut is a free, open-source multitrack audio editor and recorder for macOS, Windows and Linux. Precise cutting, playlists, stem separation, Auto Edit and MCP support for AI assistants.",
+    "domain": "audionaut.app",
+    "cover": "https://audionaut.app/img/audionaut-social.png",
+    "favorite": false,
+    "category": "multimedia",
+    "subcategory": [
+      "Audio & Music",
+      "Audio Editor"
+    ],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitHub"
+    ],
+    "sourceCodeUrls": [
+      "https://github.com/kvoltmer/Audionaut"
+    ],
+    "createdAt": "2026-10-07T14:38:58.808Z"
+  },
+  {
     "id": "287101024",
     "title": "AudioRanger",
     "url": "https://www.audioranger.com/",
@@ -234072,7 +235124,7 @@
   {
     "id": "287100093",
     "title": "Canva - Free Design Tool",
-    "url": "https://www.canva.com/en/",
+    "url": "https://www.canva.com/",
     "description": "Canva is a free-to-use online graphic design tool. Use it to create social media posts, presentations, posters, videos, logos and more.",
     "domain": "www.canva.com",
     "cover": "https://content-management-files.canva.com/c37135f6-6d9a-4920-b659-4f5e12698b8d/og-image-global-1200x630.jpg",
@@ -234503,6 +235555,24 @@
     ],
     "sourceCodeUrls": [],
     "createdAt": "2022-10-23T22:45:59.664Z"
+  },
+  {
+    "id": "1894043312",
+    "title": "Character Creator: 3D Character Design Software",
+    "url": "https://www.reallusion.com/character-creator/",
+    "description": "Character Creator is a 3D artist platform for generating, importing & customizing realistic/stylized characters for iClone, UE, Unity & other 3D tools.",
+    "domain": "www.reallusion.com",
+    "cover": "https://www.reallusion.com/character-creator/includes/images/default/cc-home-og.jpg",
+    "favorite": false,
+    "category": "multimedia",
+    "subcategory": [
+      "Photos & Graphics",
+      "3D CG",
+      "3D Render"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-18T20:08:02.106Z"
   },
   {
     "id": "804330860",
@@ -235082,6 +236152,28 @@
     ],
     "sourceCodeUrls": [],
     "createdAt": "2025-12-10T20:39:00.100Z"
+  },
+  {
+    "id": "1870501764",
+    "title": "CloudStream APK Official Download v4.8.0 | All Repositories",
+    "url": "https://cloudstream-apk.com/",
+    "description": "CloudStream or CloudStream 3 is an open-source GitHub app that provides high-quality movies, TV shows, web series, anime, and much more for free.",
+    "domain": "cloudstream-apk.com",
+    "cover": "https://cloudstream-apk.com/wp-content/uploads/2025/03/CloudStream.webp",
+    "favorite": false,
+    "category": "multimedia",
+    "subcategory": [
+      "Video & Movies",
+      "Video Streaming app"
+    ],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitHub"
+    ],
+    "sourceCodeUrls": [
+      "https://github.com/recloudstream/cloudstream"
+    ],
+    "createdAt": "2026-09-29T23:10:35.458Z"
   },
   {
     "id": "619080077",
@@ -237054,6 +238146,28 @@
     "createdAt": "2021-12-14T20:05:32.604Z"
   },
   {
+    "id": "1888345887",
+    "title": "Doory — Design anything. Free.",
+    "url": "https://doory.art/",
+    "description": "Doory is a free, open-source design platform. Make social posts, slides, posters and logos in your browser — start instantly, no account needed.",
+    "domain": "doory.art",
+    "cover": "https://doory.art/og-image.png",
+    "favorite": false,
+    "category": "multimedia",
+    "subcategory": [
+      "Photos & Graphics",
+      "Design Software"
+    ],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitHub"
+    ],
+    "sourceCodeUrls": [
+      "https://github.com/shaongitbd/doory"
+    ],
+    "createdAt": "2026-10-13T19:18:39.718Z"
+  },
+  {
     "id": "411670786",
     "title": "Dopely Colors",
     "url": "https://colors.dopely.top/",
@@ -238370,6 +239484,29 @@
     ],
     "sourceCodeUrls": [],
     "createdAt": "2022-03-26T19:02:23.989Z"
+  },
+  {
+    "id": "1894167589",
+    "title": "Encrust: the resin slicer that answers to you",
+    "url": "https://encrust.app/",
+    "description": "Supports, hollowing and a check of every layer before you print. Free, open source, and your files never leave your computer.",
+    "domain": "encrust.app",
+    "cover": "https://encrust.app/og.jpg",
+    "favorite": false,
+    "category": "multimedia",
+    "subcategory": [
+      "Photos & Graphics",
+      "3D CG",
+      "CAD"
+    ],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitHub"
+    ],
+    "sourceCodeUrls": [
+      "https://github.com/vvvlladimir/Encrust"
+    ],
+    "createdAt": "2026-10-18T23:46:50.970Z"
   },
   {
     "id": "287103825",
@@ -248848,6 +249985,27 @@
     "createdAt": "2022-03-26T18:58:12.855Z"
   },
   {
+    "id": "1863975124",
+    "title": "MediaHub-Org/PlayTorrioMov: PlayTorrio fork adapted just for Movies/Series/Anime with SOLID UI/UX",
+    "url": "https://github.com/MediaHub-Org/PlayTorrioMov",
+    "description": "PlayTorrio fork adapted just for Movies/Series/Anime with SOLID UI/UX",
+    "domain": "github.com",
+    "cover": "https://github.com/MediaHub-Org/PlayTorrioMov/raw/main/assets/icon.png",
+    "favorite": true,
+    "category": "multimedia",
+    "subcategory": [
+      "Video & Movies",
+      "Video Streaming app"
+    ],
+    "tags": [
+      "❤️",
+      "Type: Open-Source",
+      "Source Code: GitHub"
+    ],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-09-24T00:28:18.095Z"
+  },
+  {
     "id": "287101019",
     "title": "MediaMonkey",
     "url": "https://www.mediamonkey.com/",
@@ -254240,6 +255398,26 @@
     "createdAt": "2025-10-02T15:34:33.954Z"
   },
   {
+    "id": "1884095423",
+    "title": "Oscilloscope Music",
+    "url": "https://oscilloscopemusic.com/software/oscilloscope/",
+    "description": null,
+    "domain": "oscilloscopemusic.com",
+    "cover": "https://oscilloscopemusic.com/static/img/osci700px.jpg",
+    "favorite": false,
+    "category": "multimedia",
+    "subcategory": [
+      "Audio & Music",
+      "Audio Player",
+      "Audio Visualization"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [
+      "https://github.com/kritzikratzi/Oscilloscope"
+    ],
+    "createdAt": "2026-10-10T20:29:00.415Z"
+  },
+  {
     "id": "367442452",
     "title": "OSMC - Open Source Media Center",
     "url": "https://osmc.tv/",
@@ -255322,6 +256500,29 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2022-03-26T20:50:21.732Z"
+  },
+  {
+    "id": "1880277740",
+    "title": "PhotoCraft: The image editor you already know how to use.",
+    "url": "https://getartcraft.com/apps/photocraft",
+    "description": "The open-source image editor you already know how to use.",
+    "domain": "getartcraft.com",
+    "cover": "https://getartcraft.com/images/apps/photocraft/og.jpg",
+    "favorite": false,
+    "category": "multimedia",
+    "subcategory": [
+      "Photos & Graphics",
+      "2D CG",
+      "Raster Graphic Editor"
+    ],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitHub"
+    ],
+    "sourceCodeUrls": [
+      "https://github.com/storytold/photocraft"
+    ],
+    "createdAt": "2026-10-07T23:15:16.542Z"
   },
   {
     "id": "568741605",
@@ -257375,6 +258576,24 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2025-07-31T19:56:10.295Z"
+  },
+  {
+    "id": "1884095774",
+    "title": "Polarity Productions",
+    "url": "https://polarity.productions/",
+    "description": "Polarity Productions - Music, Tools, Tutorials, Downloads, and Experiments. A curated overview of Polarity's work.",
+    "domain": "polarity.productions",
+    "cover": "https://polarity.productions/assets/images/spectrum-analyzer-web.jpg",
+    "favorite": false,
+    "category": "multimedia",
+    "subcategory": [
+      "Audio & Music",
+      "Audio Editor",
+      "Audio Synthesizer"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-10T20:30:09.129Z"
   },
   {
     "id": "287100096",
@@ -269306,6 +270525,29 @@
     "createdAt": "2022-06-13T22:27:19.832Z"
   },
   {
+    "id": "1863974155",
+    "title": "Vyla Home - Self-Hosted Desktop Media Center",
+    "url": "https://vyla.cc/",
+    "description": "Experience high-performance self-hosted streaming with Vyla Home. Direct connection, zero tracking, hardware-accelerated 4K playback.",
+    "domain": "vyla.cc",
+    "cover": "https://vyla.cc/assets/images/thumbnail.png",
+    "favorite": true,
+    "category": "multimedia",
+    "subcategory": [
+      "Video & Movies",
+      "Video Streaming app"
+    ],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitLab",
+      "❤️"
+    ],
+    "sourceCodeUrls": [
+      "https://gitlab.com/vyla-entertainment/home"
+    ],
+    "createdAt": "2026-09-24T00:25:03.292Z"
+  },
+  {
     "id": "773038283",
     "title": "vym - view your mind",
     "url": "https://sourceforge.net/projects/vym/",
@@ -273237,6 +274479,25 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2021-05-06T23:17:21.000Z"
+  },
+  {
+    "id": "1884171623",
+    "title": "AI 2027",
+    "url": "https://ai-2027.com/",
+    "description": "A research-backed AI scenario forecast.",
+    "domain": "ai-2027.com",
+    "cover": "https://ai-2027.com/opengraph.png",
+    "favorite": false,
+    "category": "news-and-books",
+    "subcategory": [
+      "News",
+      "Blogs Media",
+      "Science Blog",
+      "Computing Blog"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-10T21:41:35.008Z"
   },
   {
     "id": "287111106",
@@ -306534,11 +307795,11 @@
   },
   {
     "id": "386635639",
-    "title": "Rssguard · GitHub",
-    "url": "https://github.com/martinrotter/rssguard",
+    "title": "Rssguard",
+    "url": "https://rssguard.com/",
     "description": "Feed reader which supports RSS/ATOM/JSON and many web-based feed services. - GitHub - martinrotter/rssguard: Feed reader which supports RSS/ATOM/JSON and many web-based feed services.",
-    "domain": "github.com",
-    "cover": "https://rdl.ink/render/https%3A%2F%2Fgithub.com%2Fmartinrotter%2Frssguard",
+    "domain": "rssguard.com",
+    "cover": "https://rssguard.com/png/preview.png",
     "favorite": true,
     "category": "news-and-books",
     "subcategory": [
@@ -306549,9 +307810,12 @@
       "❤️",
       "Source Code: GitHub",
       "Device: Desktop",
-      "Type: Open-Source"
+      "Type: Open-Source",
+      "OS Compatibility: Cross-platform"
     ],
-    "sourceCodeUrls": [],
+    "sourceCodeUrls": [
+      "https://github.com/martinrotter/rssguard"
+    ],
     "createdAt": "2022-04-18T22:54:25.992Z"
   },
   {
@@ -316980,9 +318244,9 @@
     "id": "287110548",
     "title": "VX-underground",
     "url": "https://vx-underground.org/",
-    "description": null,
+    "description": "The largest collection of malware source code, samples, and papers on the internet.",
     "domain": "vx-underground.org",
-    "cover": "https://rdl.ink/render/https%3A%2F%2Fvx-underground.org",
+    "cover": "https://vx-underground.org/images/share.png",
     "favorite": false,
     "category": "news-and-books",
     "subcategory": [
@@ -317796,6 +319060,28 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2021-05-15T20:50:14.000Z"
+  },
+  {
+    "id": "1890070339",
+    "title": "WinNewsWire — A fast, native RSS reader for Windows",
+    "url": "https://www.winnewswire.com/",
+    "description": "WinNewsWire is a free, open-source RSS reader for Windows. Fast, native, and private — read your favorite blogs and news without the algorithm.",
+    "domain": "www.winnewswire.com",
+    "cover": "https://www.winnewswire.com/assets/app-mockup-light.png",
+    "favorite": false,
+    "category": "news-and-books",
+    "subcategory": [
+      "Reading",
+      "RSS Reader"
+    ],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitHub"
+    ],
+    "sourceCodeUrls": [
+      "https://github.com/jcqtech/WinNewsWire"
+    ],
+    "createdAt": "2026-10-14T23:48:39.105Z"
   },
   {
     "id": "289377387",
@@ -332330,6 +333616,25 @@
     "createdAt": "2023-06-27T14:26:29.586Z"
   },
   {
+    "id": "1894168045",
+    "title": "Opensidian: open-source, vault-compatible markdown notes app",
+    "url": "https://opensidian.org/",
+    "description": "Opensidian is an open-source, vault-compatible markdown notes app for Linux. Wikilinks, backlinks, graph view and Obsidian community themes. Rust + Tauri v2, no Electron.",
+    "domain": "opensidian.org",
+    "cover": "https://opensidian.org/assets/og.jpg",
+    "favorite": false,
+    "category": "office-and-productivity",
+    "subcategory": [
+      "Note Taking Tool"
+    ],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitHub"
+    ],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-18T23:48:26.879Z"
+  },
+  {
     "id": "1672643343",
     "title": "Ordo",
     "url": "https://ordoapp.online/",
@@ -340695,6 +342000,27 @@
     "createdAt": "2024-02-24T20:03:10.579Z"
   },
   {
+    "id": "1887083208",
+    "title": "WordCraft: A fast, open-source word processor, rebuilt in pure Rust.",
+    "url": "https://getartcraft.com/apps/wordcraft",
+    "description": "Fast, open-source word processing, rebuilt in pure Rust.",
+    "domain": "getartcraft.com",
+    "cover": "https://getartcraft.com/images/apps/wordcraft/og.jpg",
+    "favorite": false,
+    "category": "office-and-productivity",
+    "subcategory": [
+      "Office Suite"
+    ],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitHub"
+    ],
+    "sourceCodeUrls": [
+      "https://github.com/storytold/wordcraft"
+    ],
+    "createdAt": "2026-10-12T23:02:33.518Z"
+  },
+  {
     "id": "1787070403",
     "title": "Wordgard",
     "url": "https://wordgard.net/",
@@ -342038,7 +343364,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Crowdfunding Account"
+      "Crypto Tipping"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -342189,7 +343515,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Digital Payment"
+      "Payment Gateways"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -343403,7 +344729,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Activism Account"
+      "Activism & Petitions"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -343577,7 +344903,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Share Links"
+      "Utilities & Misc"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -343723,7 +345049,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Digital Payment"
+      "Payment Gateways"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -343811,7 +345137,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Digital Payment"
+      "Bank Transfer Methods"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -344684,22 +346010,22 @@
     "createdAt": "2026-02-01T18:13:08.090Z"
   },
   {
-    "id": "1563540010",
-    "title": "AliPay - 首页",
-    "url": "https://render.alipay.com/p/yuyan/180020040001212700/",
-    "description": null,
-    "domain": "render.alipay.com",
-    "cover": "https://rdl.ink/render/https%3A%2F%2Frender.alipay.com%2Fp%2Fyuyan%2F180020040001212700%2F",
+    "id": "287100077",
+    "title": "Alipay",
+    "url": "https://www.alipay.com/",
+    "description": "支付宝，全球领先的独立第三方支付平台，致力于为广大用户提供安全快速的电子支付/网上支付/安全支付/手机支付体验，及转账收款/水电煤缴费/信用卡还款/AA收款等生活服务应用。",
+    "domain": "www.alipay.com",
+    "cover": "https://rdl.ink/render/https%3A%2F%2Fwww.alipay.com%2F",
     "favorite": false,
     "category": "online-services",
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Digital Payment"
+      "Wallets & Fintech"
     ],
     "tags": [],
     "sourceCodeUrls": [],
-    "createdAt": "2026-01-27T01:54:03.645Z"
+    "createdAt": "2021-01-03T14:21:07.000Z"
   },
   {
     "id": "287112199",
@@ -344975,29 +346301,11 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Share Links"
+      "Link in Bio"
     ],
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2022-07-23T23:21:57.402Z"
-  },
-  {
-    "id": "287100077",
-    "title": "AllPay",
-    "url": "https://alipay.com/",
-    "description": "支付宝，全球领先的独立第三方支付平台，致力于为广大用户提供安全快速的电子支付/网上支付/安全支付/手机支付体验，及转账收款/水电煤缴费/信用卡还款/AA收款等生活服务应用。",
-    "domain": "alipay.com",
-    "cover": "https://rdl.ink/render/https%3A%2F%2Falipay.com%2F",
-    "favorite": false,
-    "category": "online-services",
-    "subcategory": [
-      "Online Tools",
-      "Online App",
-      "Digital Payment"
-    ],
-    "tags": [],
-    "sourceCodeUrls": [],
-    "createdAt": "2021-01-03T14:21:07.000Z"
   },
   {
     "id": "287102247",
@@ -345462,7 +346770,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Digital Payment"
+      "Payment Gateways"
     ],
     "tags": [
       "Company: Amazon"
@@ -347184,7 +348492,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Crowdfunding Account"
+      "Creator Funding"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -349693,7 +351001,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Digital Payment"
+      "Payment Gateways"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -349711,7 +351019,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Activism Account"
+      "Activism & Petitions"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -350969,7 +352277,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Share Links"
+      "Link in Bio"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -351277,7 +352585,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Share Links"
+      "Link in Bio"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -351395,6 +352703,24 @@
     "createdAt": "2025-11-15T14:28:52.617Z"
   },
   {
+    "id": "1888315657",
+    "title": "Best Android Apps, September 2026 · Verified Picks",
+    "url": "https://bestappsforandroid.com/",
+    "description": "Android app picks verified against each app’s own Play listing: price, ads and data safety read with a date, grouped by what you want to get done.",
+    "domain": "bestappsforandroid.com",
+    "cover": "https://bestappsforandroid.com/images/og/home-og.png",
+    "favorite": false,
+    "category": "online-services",
+    "subcategory": [
+      "Database",
+      "Software Db",
+      "Software List"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-13T18:21:25.771Z"
+  },
+  {
     "id": "1230177250",
     "title": "Best Link in Bio",
     "url": "https://alsoat.app/",
@@ -351406,7 +352732,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Share Links"
+      "Link in Bio"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -351821,24 +353147,6 @@
     "createdAt": "2025-05-13T19:55:52.845Z"
   },
   {
-    "id": "287100301",
-    "title": "Big Cartel",
-    "url": "https://www.bigcartel.com/",
-    "description": "Build a unique online store, sell your work, and run a creative business. Perfect for clothing designers, bands, jewelry makers, crafters, and other artists.",
-    "domain": "www.bigcartel.com",
-    "cover": "https://s3.amazonaws.com/files.bigcartel.com/misc/fletch.jpg",
-    "favorite": false,
-    "category": "online-services",
-    "subcategory": [
-      "Online Tools",
-      "Online App",
-      "Share Links"
-    ],
-    "tags": [],
-    "sourceCodeUrls": [],
-    "createdAt": "2020-12-02T16:52:46.000Z"
-  },
-  {
     "id": "287112007",
     "title": "Big Cartoon DataBase",
     "url": "https://www.bcdb.com/",
@@ -352231,7 +353539,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Share Links"
+      "Link in Bio"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -352585,7 +353893,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Digital Payment"
+      "Payment Gateways"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -352603,7 +353911,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Digital Payment"
+      "Wallets & Fintech"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -352640,7 +353948,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Share Links"
+      "Link in Bio"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -353098,7 +354406,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Crowdfunding Account"
+      "Crowdfunding & Charity"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -353493,7 +354801,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Crowdfunding Account"
+      "Creator Funding"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -353587,7 +354895,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Crowdfunding Account"
+      "Creator Funding"
     ],
     "tags": [
       "Type: Open-Source"
@@ -353805,7 +355113,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Digital Payment"
+      "Wallets & Fintech"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -354499,7 +355807,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Crowdfunding Account"
+      "Creator Funding"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -354729,7 +356037,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Crowdfunding Account"
+      "Creator Funding"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -354821,7 +356129,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Subscription Platform"
+      "Fan Subscription"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -355293,7 +356601,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Activism Account"
+      "Activism & Petitions"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -355349,7 +356657,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Share Links"
+      "Link in Bio"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -355478,7 +356786,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Digital Payment"
+      "Wallets & Fintech"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -355707,7 +357015,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Activism Account"
+      "Activism & Petitions"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -356314,7 +357622,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Activism Account"
+      "Activism & Petitions"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -357179,7 +358487,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Digital Payment"
+      "Payment Gateways"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -357434,7 +358742,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Crowdfunding Account"
+      "Crowdfunding & Charity"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -357698,30 +359006,6 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2022-11-16T15:22:49.958Z"
-  },
-  {
-    "id": "1870501764",
-    "title": "CloudStream APK Official Download v4.8.0 | All Repositories",
-    "url": "https://cloudstream-apk.com/",
-    "description": "CloudStream or CloudStream 3 is an open-source GitHub app that provides high-quality movies, TV shows, web series, anime, and much more for free.",
-    "domain": "cloudstream-apk.com",
-    "cover": "https://cloudstream-apk.com/wp-content/uploads/2025/03/CloudStream.webp",
-    "favorite": false,
-    "category": "online-services",
-    "subcategory": [
-      "Online Platform",
-      "Video Platform",
-      "Video Streaming",
-      "Free Video Streaming"
-    ],
-    "tags": [
-      "Type: Open-Source",
-      "Source Code: GitHub"
-    ],
-    "sourceCodeUrls": [
-      "https://github.com/recloudstream/cloudstream"
-    ],
-    "createdAt": "2026-09-29T23:10:35.458Z"
   },
   {
     "id": "1323820809",
@@ -358521,7 +359805,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Crowdfunding Account"
+      "Crypto Tipping"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -358539,7 +359823,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Crowdfunding Account"
+      "Crypto Tipping"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -358557,7 +359841,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Crowdfunding Account"
+      "Crypto Tipping"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -359476,7 +360760,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Share Links"
+      "Link in Bio"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -359785,7 +361069,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Crowdfunding Account"
+      "Creator Funding"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -360583,7 +361867,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Crowdfunding Account"
+      "Creator Funding"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -360727,7 +362011,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Crowdfunding Account"
+      "Crowdfunding & Charity"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -361444,7 +362728,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Digital Payment"
+      "Wallets & Fintech"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -364502,7 +365786,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Share Links"
+      "Link in Bio"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -365646,7 +366930,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "e-signature"
+      "E-signature"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -365871,7 +367155,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "e-signature"
+      "E-signature"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -365889,7 +367173,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "e-signature"
+      "E-signature"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -366163,7 +367447,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Crowdfunding Account"
+      "Crowdfunding & Charity"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -366181,7 +367465,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Crowdfunding Account"
+      "Crowdfunding & Charity"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -366252,7 +367536,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "e-signature"
+      "E-signature"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -367407,6 +368691,27 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2023-03-11T20:47:37.082Z"
+  },
+  {
+    "id": "1885491729",
+    "title": "echo-lalia/recordplayreverse",
+    "url": "https://github.com/echo-lalia/recordplayreverse",
+    "description": "Contribute to echo-lalia/recordplayreverse development by creating an account on GitHub.",
+    "domain": "github.com",
+    "cover": "https://opengraph.githubassets.com/e0337e5cf2f4696f4a8c441e24ed30dd602798a01b468b732bb10ab042dc5711/echo-lalia/recordplayreverse",
+    "favorite": false,
+    "category": "online-services",
+    "subcategory": [
+      "Online Platform",
+      "Audio Platform",
+      "Record Voice"
+    ],
+    "tags": [
+      "Source Code: GitHub",
+      "Type: Open-Source"
+    ],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-11T17:47:51.594Z"
   },
   {
     "id": "500423475",
@@ -370494,7 +371799,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Digital Payment"
+      "Wallets & Fintech"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -371017,7 +372322,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Digital Payment"
+      "Wallets & Fintech"
     ],
     "tags": [
       "Company: Meta (Facebook)"
@@ -371510,7 +372815,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Crowdfunding Account"
+      "Creator Funding"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -371603,7 +372908,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Subscription Platform"
+      "Fan Subscription"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -371658,7 +372963,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Subscription Platform"
+      "Fan Subscription"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -371977,7 +373282,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Share Links"
+      "Smart Links & Music Marketing"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -372172,7 +373477,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Subscription Platform"
+      "Fan Subscription"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -372959,7 +374264,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Crowdfunding Account"
+      "Crowdfunding & Charity"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -373500,7 +374805,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Crowdfunding Account"
+      "Creator Funding"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -375812,7 +377117,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Crowdfunding Account"
+      "Crowdfunding & Charity"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -376470,7 +377775,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Crowdfunding Account"
+      "Crowdfunding & Charity"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -376488,7 +377793,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Crowdfunding Account"
+      "Crowdfunding & Charity"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -378592,7 +379897,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Digital Payment"
+      "Bank Transfer Methods"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -379940,7 +381245,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Digital Payment"
+      "Crowdfunding & Charity"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -380369,7 +381674,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Digital Payment"
+      "Payment Gateways"
     ],
     "tags": [
       "Community: GNU"
@@ -380686,7 +381991,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Crowdfunding Account"
+      "Crowdfunding & Charity"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -380913,7 +382218,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Crowdfunding Account"
+      "Crowdfunding & Charity"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -381336,7 +382641,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Digital Payment"
+      "Wallets & Fintech"
     ],
     "tags": [
       "Company: Alphabet (Google)"
@@ -381847,7 +383152,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Crowdfunding Account"
+      "Crowdfunding & Charity"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -382833,7 +384138,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Activism Account"
+      "Activism & Petitions"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -383924,24 +385229,6 @@
     "createdAt": "2019-03-07T03:46:01.000Z"
   },
   {
-    "id": "374277027",
-    "title": "Hoo.be",
-    "url": "https://hoo.be/apply",
-    "description": null,
-    "domain": "hoo.be",
-    "cover": "https://hoo.be/_next/image?url=%2Fapply%2Fhero-image-01.png&w=384&q=75",
-    "favorite": false,
-    "category": "online-services",
-    "subcategory": [
-      "Online Tools",
-      "Online App",
-      "Share Links"
-    ],
-    "tags": [],
-    "sourceCodeUrls": [],
-    "createdAt": "2022-03-11T18:23:49.625Z"
-  },
-  {
     "id": "998265873",
     "title": "hoo.be",
     "url": "https://hoo.be/",
@@ -383953,7 +385240,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Share Links"
+      "Link in Bio"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -384845,25 +386132,6 @@
     "createdAt": "2024-08-23T23:40:48.699Z"
   },
   {
-    "id": "981962215",
-    "title": "hydrahd - Watch Movies and Series in High Definition",
-    "url": "https://hydrahd.me/",
-    "description": "hydrahd.me Watch Movies and Series in 1080p for free with no signup required. Biggest library",
-    "domain": "hydrahd.me",
-    "cover": "https://hydrahd.me/fav-512.png",
-    "favorite": false,
-    "category": "online-services",
-    "subcategory": [
-      "Online Platform",
-      "Video Platform",
-      "Video Streaming",
-      "Free Video Streaming"
-    ],
-    "tags": [],
-    "sourceCodeUrls": [],
-    "createdAt": "2025-02-28T19:46:58.661Z"
-  },
-  {
     "id": "537280200",
     "title": "Hydrogenaudio Knowledgebase",
     "url": "https://wiki.hydrogenaud.io/index.php?title=Main_Page",
@@ -384892,7 +386160,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Share Links"
+      "Smart Links & Music Marketing"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -385802,7 +387070,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Digital Payment"
+      "Bank Transfer Methods"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -386307,7 +387575,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Digital Payment"
+      "Wallets & Fintech"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -386863,7 +388131,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Crowdfunding Account"
+      "Crowdfunding & Charity"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -387473,7 +388741,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Digital Payment"
+      "Money Transfer"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -387998,7 +389266,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Activism Account"
+      "Activism & Petitions"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -390038,7 +391306,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Crowdfunding Account"
+      "Crowdfunding & Charity"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -390424,7 +391692,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Crowdfunding Account"
+      "Creator Funding"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -390907,7 +392175,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Crowdfunding Account"
+      "Crowdfunding & Charity"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -391265,7 +392533,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Digital Payment"
+      "Crowdfunding & Charity"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -391319,7 +392587,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Digital Payment"
+      "Bank Transfer Methods"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -391489,7 +392757,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Crowdfunding Account"
+      "Creator Funding"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -392499,7 +393767,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Crowdfunding Account"
+      "Crowdfunding & Charity"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -392792,7 +394060,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Crowdfunding Account"
+      "Creator Funding"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -393397,7 +394665,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Digital Payment"
+      "Payment Gateways"
     ],
     "tags": [
       "Web: Design ✨"
@@ -393602,7 +394870,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Share Links"
+      "Link in Bio"
     ],
     "tags": [
       "Type: Open-Source",
@@ -393626,7 +394894,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Share Links"
+      "Smart Links & Music Marketing"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -393680,7 +394948,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Share Links"
+      "Link in Bio"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -393698,7 +394966,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Share Links"
+      "Link in Bio"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -396688,7 +397956,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Share Links"
+      "Link in Bio"
     ],
     "tags": [
       "Web server: Self-Host"
@@ -397006,7 +398274,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Share Links"
+      "Link in Bio"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -397099,7 +398367,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Subscription Platform"
+      "Fan Subscription"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -397653,7 +398921,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Subscription Platform"
+      "Fan Subscription"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -399357,7 +400625,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Share Links"
+      "Link in Bio"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -399987,29 +401255,6 @@
     "createdAt": "2022-09-26T15:41:13.640Z"
   },
   {
-    "id": "1863975124",
-    "title": "MediaHub-Org/PlayTorrioMov: PlayTorrio fork adapted just for Movies/Series/Anime with SOLID UI/UX",
-    "url": "https://github.com/MediaHub-Org/PlayTorrioMov",
-    "description": "PlayTorrio fork adapted just for Movies/Series/Anime with SOLID UI/UX",
-    "domain": "github.com",
-    "cover": "https://github.com/MediaHub-Org/PlayTorrioMov/raw/main/assets/icon.png",
-    "favorite": true,
-    "category": "online-services",
-    "subcategory": [
-      "Online Platform",
-      "Video Platform",
-      "Video Streaming",
-      "Free Video Streaming"
-    ],
-    "tags": [
-      "❤️",
-      "Type: Open-Source",
-      "Source Code: GitHub"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2026-09-24T00:28:18.095Z"
-  },
-  {
     "id": "411716666",
     "title": "Medialoot",
     "url": "https://medialoot.com/mockups/",
@@ -400580,7 +401825,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Digital Payment"
+      "Wallets & Fintech"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -400676,7 +401921,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Digital Payment"
+      "Wallets & Fintech"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -400966,7 +402211,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Crowdfunding Account"
+      "Crowdfunding & Charity"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -401750,7 +402995,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Crowdfunding Account"
+      "Creator Funding"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -402625,7 +403870,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Digital Payment"
+      "Money Transfer"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -404974,7 +406219,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Subscription Platform"
+      "Fan Subscription"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -407720,7 +408965,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Share Links"
+      "Utilities & Misc"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -407738,7 +408983,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Digital Payment"
+      "Payment Gateways"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -408953,24 +410198,6 @@
     "createdAt": "2023-11-05T22:17:32.041Z"
   },
   {
-    "id": "373646764",
-    "title": "Omg.lol",
-    "url": "https://omg.lol/",
-    "description": "Treat yourself to an awesome new domain name, a devastatingly gorgeous profile page, a stellar email address, and tons more.",
-    "domain": "omg.lol",
-    "cover": "https://cdn.omg.lol/img/card.png",
-    "favorite": false,
-    "category": "online-services",
-    "subcategory": [
-      "Online Tools",
-      "Online App",
-      "Share Links"
-    ],
-    "tags": [],
-    "sourceCodeUrls": [],
-    "createdAt": "2022-03-10T11:45:26.646Z"
-  },
-  {
     "id": "655606294",
     "title": "omg.lol - A lovable web page and email address, just for you",
     "url": "https://home.omg.lol/",
@@ -408982,7 +410209,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Share Links"
+      "Link in Bio"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -409149,7 +410376,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Share Links"
+      "Link in Bio"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -409556,7 +410783,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Subscription Platform"
+      "Fan Subscription"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -409574,7 +410801,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Subscription Platform"
+      "Fan Subscription"
     ],
     "tags": [
       "Web: Big Data",
@@ -409703,7 +410930,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Crowdfunding Account"
+      "Crowdfunding & Charity"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -410249,7 +411476,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "e-signature"
+      "E-signature"
     ],
     "tags": [
       "Type: Open-Source"
@@ -410606,7 +411833,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Share Links"
+      "Smart Links & Music Marketing"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -411317,7 +412544,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Digital Payment"
+      "Payment Gateways"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -411522,7 +412749,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "e-signature"
+      "E-signature"
     ],
     "tags": [
       "Device: Desktop"
@@ -411544,7 +412771,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Digital Payment"
+      "Money Transfer"
     ],
     "tags": [
       "Web: Discontinued",
@@ -411583,7 +412810,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Digital Payment"
+      "Wallets & Fintech"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -411850,7 +413077,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "e-signature"
+      "E-signature"
     ],
     "tags": [
       "Type: Open-Source"
@@ -411992,7 +413219,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Crowdfunding Account"
+      "Creator Funding"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -412314,7 +413541,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Crowdfunding Account"
+      "Creator Funding"
     ],
     "tags": [
       "❤️",
@@ -412450,7 +413677,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Digital Payment"
+      "Money Transfer"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -412468,7 +413695,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Digital Payment"
+      "Wallets & Fintech"
     ],
     "tags": [
       "Web: Big Data",
@@ -412476,24 +413703,6 @@
     ],
     "sourceCodeUrls": [],
     "createdAt": "2017-07-15T01:47:10.000Z"
-  },
-  {
-    "id": "287100066",
-    "title": "PayScale",
-    "url": "https://www.payscale.com/",
-    "description": "Research and compare average salaries. Free July 2021 salary information matched to your exact job profile. Find out what you are worth.",
-    "domain": "www.payscale.com",
-    "cover": "https://rdl.ink/render/https%3A%2F%2Fwww.payscale.com",
-    "favorite": false,
-    "category": "online-services",
-    "subcategory": [
-      "Online Tools",
-      "Online App",
-      "Digital Payment"
-    ],
-    "tags": [],
-    "sourceCodeUrls": [],
-    "createdAt": "2021-05-19T18:50:36.000Z"
   },
   {
     "id": "287102640",
@@ -413862,7 +415071,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Share Links"
+      "Utilities & Misc"
     ],
     "tags": [
       "OS Compatibility: web app"
@@ -414876,7 +416085,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Share Links"
+      "Link in Bio"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -415288,7 +416497,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Digital Payment"
+      "Bank Transfer Methods"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -415358,7 +416567,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Crowdfunding Account"
+      "Creator Funding"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -415486,9 +416695,9 @@
   {
     "id": "910227181",
     "title": "PopcornMovies - Watch Movies & TV Shows Online Free HD",
-    "url": "https://popcornmovies.to/home",
+    "url": "https://popcornmovies.ac/",
     "description": "The best place to watch movies online for free in HD quality FMovies. Free TV Shows, Films and live channels PopcornMovies",
-    "domain": "popcornmovies.to",
+    "domain": "popcornmovies.ac",
     "cover": "https://popcornmovies.to/uploads/poster/11-2024/slide-y5vUGLGLde.jpg",
     "favorite": false,
     "category": "online-services",
@@ -415501,27 +416710,6 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2024-11-27T23:31:41.408Z"
-  },
-  {
-    "id": "1629114445",
-    "title": "PopcornMoviesWatch — Movies & TV Shows Online Free HD",
-    "url": "https://popcornmovies.org/",
-    "description": "The best place to watch movies online for free in HD quality FMovies. Free TV Shows, Films and live channels PopcornMovies",
-    "domain": "popcornmovies.org",
-    "cover": "https://popcornmovies.org/static/img/landing.jpg",
-    "favorite": false,
-    "category": "online-services",
-    "subcategory": [
-      "Online Platform",
-      "Video Platform",
-      "Video Streaming",
-      "Free Video Streaming"
-    ],
-    "tags": [
-      "OS Compatibility: web app"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2026-03-04T19:11:18.300Z"
   },
   {
     "id": "1629121361",
@@ -416648,7 +417836,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Crowdfunding Account"
+      "Crowdfunding & Charity"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -417133,7 +418321,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Digital Payment"
+      "Bank Transfer Methods"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -417287,6 +418475,27 @@
     ],
     "sourceCodeUrls": [],
     "createdAt": "2026-09-29T23:21:23.213Z"
+  },
+  {
+    "id": "1884010660",
+    "title": "psykon/awesome-demoscene: A list of demoscene related tools, code and ressources.",
+    "url": "https://github.com/psykon/awesome-demoscene",
+    "description": "A list of demoscene related tools, code and ressources. - psykon/awesome-demoscene",
+    "domain": "github.com",
+    "cover": "https://opengraph.githubassets.com/ed6e4ec960a16e967fcb1c7c64e6d37b6396c2f37272d0cdca402f9a5fbf84a6/psykon/awesome-demoscene",
+    "favorite": false,
+    "category": "online-services",
+    "subcategory": [
+      "Database",
+      "List Db",
+      "Awesome List"
+    ],
+    "tags": [
+      "Source Code: GitHub",
+      "Content: List"
+    ],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-10T19:20:24.674Z"
   },
   {
     "id": "997860172",
@@ -418515,7 +419724,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Digital Payment"
+      "Wallets & Fintech"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -418977,7 +420186,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Digital Payment"
+      "Payment Gateways"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -420235,7 +421444,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Digital Payment"
+      "Money Transfer"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -420753,6 +421962,27 @@
     "createdAt": "2023-03-28T22:21:23.148Z"
   },
   {
+    "id": "1885490907",
+    "title": "ReverseSing",
+    "url": "https://github.com/JN0V/ReverseSing",
+    "description": "🎙️ Record your voice and play it backwards - Web & Android app",
+    "domain": "github.com",
+    "cover": "https://opengraph.githubassets.com/1b9bc16e42cdb83f002ac6e69b9f55346326f3271aebba75fba7a529e3c7d3e3/JN0V/ReverseSing",
+    "favorite": false,
+    "category": "online-services",
+    "subcategory": [
+      "Online Platform",
+      "Audio Platform",
+      "Record Voice"
+    ],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitHub"
+    ],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-11T17:44:55.980Z"
+  },
+  {
     "id": "287107822",
     "title": "ReviewMeta",
     "url": "https://reviewmeta.com/",
@@ -420789,24 +422019,6 @@
     "createdAt": "2020-07-03T00:02:22.000Z"
   },
   {
-    "id": "344798293",
-    "title": "Revolut",
-    "url": "https://revolut.com/en-ES",
-    "description": "Open a free account in minutes right from your phone, and make your money go further",
-    "domain": "revolut.com",
-    "cover": "https://cdn.revolut.com/website/assets/revolut-share-preview.jpg",
-    "favorite": false,
-    "category": "online-services",
-    "subcategory": [
-      "Online Tools",
-      "Online App",
-      "Digital Payment"
-    ],
-    "tags": [],
-    "sourceCodeUrls": [],
-    "createdAt": "2021-12-23T14:21:36.275Z"
-  },
-  {
     "id": "451227751",
     "title": "Revolut - All in one finance app",
     "url": "https://www.revolut.com/",
@@ -420818,7 +422030,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Digital Payment"
+      "Wallets & Fintech"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -421069,9 +422281,9 @@
   {
     "id": "840742058",
     "title": "Rive Stream",
-    "url": "https://rivestream.live/",
+    "url": "https://www.rivestream.app/",
     "description": "Your Personal Streaming Oasis",
-    "domain": "rivestream.live",
+    "domain": "www.rivestream.app",
     "cover": "https://rivestream.live/images/MetaImage.jpg",
     "favorite": true,
     "category": "online-services",
@@ -422440,7 +423652,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Digital Payment"
+      "Bank Transfer Methods"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -422736,7 +423948,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Digital Payment"
+      "Bank Transfer Methods"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -423760,24 +424972,6 @@
     "createdAt": "2024-01-19T00:01:42.925Z"
   },
   {
-    "id": "366940499",
-    "title": "Sendowl",
-    "url": "https://sendowl.com/",
-    "description": "SendOwl makes it easy for you to sell digital products direct to your audience from your blog, social media or anywhere you can paste a link",
-    "domain": "sendowl.com",
-    "cover": "https://www.sendowl.com/assets/common/open_graph_logo.png",
-    "favorite": false,
-    "category": "online-services",
-    "subcategory": [
-      "Online Tools",
-      "Online App",
-      "Share Links"
-    ],
-    "tags": [],
-    "sourceCodeUrls": [],
-    "createdAt": "2022-02-17T11:51:14.785Z"
-  },
-  {
     "id": "489922052",
     "title": "SendToPod",
     "url": "https://sendtopod.com/",
@@ -424345,7 +425539,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Digital Payment"
+      "Payment Gateways"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -424947,7 +426141,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "e-signature"
+      "E-signature"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -425282,7 +426476,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Digital Payment"
+      "Wallets & Fintech"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -426021,7 +427215,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Subscription Platform"
+      "Fan Subscription"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -426113,7 +427307,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Share Links"
+      "Smart Links & Music Marketing"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -426336,7 +427530,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Share Links"
+      "Link in Bio"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -426539,7 +427733,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Digital Payment"
+      "Bank Transfer Methods"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -426880,7 +428074,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Share Links"
+      "Link in Bio"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -427045,7 +428239,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Share Links"
+      "Smart Links & Music Marketing"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -427347,7 +428541,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Share Links"
+      "Smart Links & Music Marketing"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -427365,7 +428559,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Share Links"
+      "Smart Links & Music Marketing"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -428137,7 +429331,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "e-signature"
+      "E-signature"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -428806,7 +430000,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Digital Payment"
+      "Wallets & Fintech"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -429250,7 +430444,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Share Links"
+      "Link in Bio"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -429328,7 +430522,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Crowdfunding Account"
+      "Crowdfunding & Charity"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -429365,7 +430559,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Crowdfunding Account"
+      "Creator Funding"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -429597,7 +430791,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Digital Payment"
+      "Payment Gateways"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -429847,7 +431041,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Subscription Platform"
+      "Fan Subscription"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -429865,7 +431059,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Subscription Platform"
+      "Fan Subscription"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -430038,7 +431232,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Activism Account"
+      "Activism & Petitions"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -430797,7 +431991,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Share Links"
+      "Link in Bio"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -430815,7 +432009,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Share Links"
+      "Link in Bio"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -431266,7 +432460,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Digital Payment"
+      "Bank Transfer Methods"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -431353,6 +432547,24 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2020-10-26T16:23:04.000Z"
+  },
+  {
+    "id": "1883133279",
+    "title": "Teletraan I: The Transformers Wiki",
+    "url": "https://transformers.fandom.com/wiki/Main_Page",
+    "description": "Transformers Wiki is a database that anyone can edit about the Transformers toys, cartoons and comics. Transformers 2: Revenge of the Fallen",
+    "domain": "transformers.fandom.com",
+    "cover": "https://static.wikia.nocookie.net/transformers/images/e/e6/Site-logo.png/revision/latest?cb=20240925133322",
+    "favorite": false,
+    "category": "online-services",
+    "subcategory": [
+      "Encyclopedia",
+      "Wikis",
+      "Fandom Wiki"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-10T04:21:02.389Z"
   },
   {
     "id": "309739030",
@@ -433507,7 +434719,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Crowdfunding Account"
+      "Crowdfunding & Charity"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -434347,7 +435559,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Subscription Platform"
+      "Fan Subscription"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -434439,7 +435651,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Crowdfunding Account"
+      "Creator Funding"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -434768,7 +435980,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Share Links"
+      "Smart Links & Music Marketing"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -434916,7 +436128,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Crowdfunding Account"
+      "Creator Funding"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -435455,24 +436667,6 @@
     "createdAt": "2022-07-06T21:20:39.067Z"
   },
   {
-    "id": "287099899",
-    "title": "Total Life Changes",
-    "url": "https://totallifechanges.com/",
-    "description": "Naturally made health & wellness products built around a community with support worldwide. Visit us for more information!",
-    "domain": "totallifechanges.com",
-    "cover": "https://rdl.ink/render/https%3A%2F%2Ftotallifechanges.com",
-    "favorite": false,
-    "category": "online-services",
-    "subcategory": [
-      "Online Tools",
-      "Online App",
-      "Crowdfunding Account"
-    ],
-    "tags": [],
-    "sourceCodeUrls": [],
-    "createdAt": "2020-10-14T12:13:50.000Z"
-  },
-  {
     "id": "287112147",
     "title": "TotalShareware",
     "url": "https://www.totalshareware.com/",
@@ -435754,7 +436948,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Digital Payment"
+      "Payment Gateways"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -435796,6 +436990,24 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2024-08-16T19:09:25.018Z"
+  },
+  {
+    "id": "1883136331",
+    "title": "Transformers Wiki - TFWiki.net",
+    "url": "https://tfwiki.net/wiki/Main_Page",
+    "description": null,
+    "domain": "tfwiki.net",
+    "cover": "https://tfwiki.net/mediawiki/images2/thumb/f/f4/TFWIKInet-PrimeBumblebee.jpg/347px-TFWIKInet-PrimeBumblebee.jpg",
+    "favorite": false,
+    "category": "online-services",
+    "subcategory": [
+      "Encyclopedia",
+      "Wikis",
+      "Fandom Wiki"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-10T04:22:18.157Z"
   },
   {
     "id": "482623259",
@@ -435974,7 +437186,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Activism Account"
+      "Activism & Petitions"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -436272,7 +437484,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Digital Payment"
+      "Bank Transfer Methods"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -437175,7 +438387,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Crowdfunding Account"
+      "Creator Funding"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -437838,7 +439050,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Crowdfunding Account"
+      "Crowdfunding & Charity"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -438218,7 +439430,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Digital Payment"
+      "Bank Transfer Methods"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -438719,7 +439931,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Activism Account"
+      "Activism & Petitions"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -438737,7 +439949,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Share Links"
+      "Smart Links & Music Marketing"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -439016,7 +440228,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Crowdfunding Account"
+      "Creator Funding"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -439646,7 +440858,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Digital Payment"
+      "Payment Gateways"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -439664,7 +440876,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Digital Payment"
+      "Wallets & Fintech"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -439738,7 +440950,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Digital Payment"
+      "Payment Gateways"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -439774,7 +440986,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Crowdfunding Account"
+      "Crowdfunding & Charity"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -439811,7 +441023,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Digital Payment"
+      "Wallets & Fintech"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -441717,31 +442929,6 @@
     "createdAt": "2026-05-03T17:50:17.724Z"
   },
   {
-    "id": "1863974155",
-    "title": "Vyla Home - Self-Hosted Desktop Media Center",
-    "url": "https://vyla.cc/",
-    "description": "Experience high-performance self-hosted streaming with Vyla Home. Direct connection, zero tracking, hardware-accelerated 4K playback.",
-    "domain": "vyla.cc",
-    "cover": "https://vyla.cc/assets/images/thumbnail.png",
-    "favorite": true,
-    "category": "online-services",
-    "subcategory": [
-      "Online Platform",
-      "Video Platform",
-      "Video Streaming",
-      "Free Video Streaming"
-    ],
-    "tags": [
-      "Type: Open-Source",
-      "Source Code: GitLab",
-      "❤️"
-    ],
-    "sourceCodeUrls": [
-      "https://gitlab.com/vyla-entertainment/home"
-    ],
-    "createdAt": "2026-09-24T00:25:03.292Z"
-  },
-  {
     "id": "287112140",
     "title": "W3 Catalog Web Directory",
     "url": "https://www.w3catalog.com/",
@@ -442678,7 +443865,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Crowdfunding Account"
+      "Crypto Tipping"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -442989,7 +444176,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Digital Payment"
+      "Wallets & Fintech"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -443132,7 +444319,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Digital Payment"
+      "Money Transfer"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -443213,24 +444400,6 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2020-04-12T15:19:02.000Z"
-  },
-  {
-    "id": "287100058",
-    "title": "WeTransfer",
-    "url": "https://wetransfer.com/",
-    "description": "WeTransfer is the simplest way to send your files around the world",
-    "domain": "wetransfer.com",
-    "cover": "https://prod-cdn.wetransfer.net/packs/media/images/wt-facebook-9db47080.png",
-    "favorite": false,
-    "category": "online-services",
-    "subcategory": [
-      "Online Tools",
-      "Online App",
-      "Digital Payment"
-    ],
-    "tags": [],
-    "sourceCodeUrls": [],
-    "createdAt": "2020-04-17T19:46:23.000Z"
   },
   {
     "id": "287102141",
@@ -443473,7 +444642,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Share Links"
+      "Link in Bio"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -445538,7 +446707,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Digital Payment"
+      "Money Transfer"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -446528,7 +447697,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Digital Payment"
+      "Payment Gateways"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -446546,7 +447715,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Digital Payment"
+      "Payment Gateways"
     ],
     "tags": [
       "Type: Open-Source"
@@ -446799,7 +447968,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Digital Payment"
+      "Money Transfer"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -448384,7 +449553,7 @@
     "subcategory": [
       "Online Tools",
       "Online App",
-      "Share Links"
+      "Link in Bio"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -478263,6 +479432,23 @@
     "createdAt": "2021-06-16T23:04:19.000Z"
   },
   {
+    "id": "1878870239",
+    "title": "🛰️ OSIRIS — Open Source Palantir Alternative | Live Tracking + OSINT Tools",
+    "url": "https://osirisai.live/?layers=maritime,satellites,cctv,cctv_previews,live_news,earthquakes,global_incidents,day_night,cables,sdk_sea,sdk_air,sdk_naval",
+    "description": "Track 10K+ flights, satellites & CCTV worldwide. Run Nmap, DNS, WHOIS scans from your browser. 20+ live intel feeds. Free & open source.",
+    "domain": "osirisai.live",
+    "cover": "https://osirisai.live/og-image.png",
+    "favorite": false,
+    "category": "security-and-privacy",
+    "subcategory": [
+      "Security & Testing",
+      "OSINT Tools"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-06T11:15:54.349Z"
+  },
+  {
     "id": "287103255",
     "title": "0day.today",
     "url": "https://0day.today/",
@@ -492280,6 +493466,22 @@
     "createdAt": "2019-12-01T19:21:55.000Z"
   },
   {
+    "id": "1893587834",
+    "title": "Nexu App - Real Dating, Anti-Ghosting and Local Plans in your City",
+    "url": "https://nexu-app.com/",
+    "description": "App de citas en España que premia las conexiones reales y elimina el ghosting.",
+    "domain": "nexu-app.com",
+    "cover": "https://nexu-app.com/assets/images/app-conexion.png",
+    "favorite": false,
+    "category": "social-and-communications",
+    "subcategory": [
+      "Social Network"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-18T11:16:57.436Z"
+  },
+  {
     "id": "676847561",
     "title": "NGL",
     "url": "https://ngl.link/",
@@ -492753,6 +493955,38 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2022-04-19T14:44:11.174Z"
+  },
+  {
+    "id": "1893900720",
+    "title": "Oneamour — a Platform for Socializing and Expanding Your Network",
+    "url": "https://oneamour.com/profile",
+    "description": null,
+    "domain": "oneamour.com",
+    "cover": "https://rdl.ink/render/https%3A%2F%2Foneamour.com%2Fprofile",
+    "favorite": false,
+    "category": "social-and-communications",
+    "subcategory": [
+      "Social Network"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-18T16:38:32.218Z"
+  },
+  {
+    "id": "1893904163",
+    "title": "Oneamour — a Platform for Socializing and Expanding Your Network",
+    "url": "https://oneamour.com/matches",
+    "description": null,
+    "domain": "oneamour.com",
+    "cover": "https://rdl.ink/render/https%3A%2F%2Foneamour.com%2Fmatches",
+    "favorite": false,
+    "category": "social-and-communications",
+    "subcategory": [
+      "Social Network"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-18T16:45:43.432Z"
   },
   {
     "id": "287103323",
@@ -493713,6 +494947,27 @@
     ],
     "sourceCodeUrls": [],
     "createdAt": "2021-05-10T19:24:15.000Z"
+  },
+  {
+    "id": "1888346464",
+    "title": "Plexo — Combine your networks. Download faster.",
+    "url": "https://getplexo.app/",
+    "description": "A free, open-source download manager that combines your internet connections to download files and torrents faster.",
+    "domain": "getplexo.app",
+    "cover": "https://getplexo.app/og.png",
+    "favorite": false,
+    "category": "social-and-communications",
+    "subcategory": [
+      "Download Manager"
+    ],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitHub"
+    ],
+    "sourceCodeUrls": [
+      "https://github.com/anmolkapil/plexo"
+    ],
+    "createdAt": "2026-10-13T19:20:19.315Z"
   },
   {
     "id": "391528890",
@@ -505071,7 +506326,8 @@
     "category": "system-administration",
     "subcategory": [
       "Networking",
-      "Remote Desktop"
+      "Client-Server App",
+      "SSH Client"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -505499,6 +506755,26 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2021-12-12T18:44:04.588Z"
+  },
+  {
+    "id": "1883074146",
+    "title": "boykopovar/AnyPS5: Tool for automatic PS5 executables porting to Linux and Windows",
+    "url": "https://github.com/boykopovar/AnyPS5",
+    "description": "Tool for automatic PS5 executables porting to Linux and Windows - boykopovar/AnyPS5",
+    "domain": "github.com",
+    "cover": "https://opengraph.githubassets.com/36788db1d2976baea7b897a26760c60b065e4ca0568606bea6146ebf59f813f8/boykopovar/AnyPS5",
+    "favorite": false,
+    "category": "system-administration",
+    "subcategory": [
+      "Emulation & Virtualization",
+      "OS Translation Layer"
+    ],
+    "tags": [
+      "Source Code: GitHub",
+      "Type: Open-Source"
+    ],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-10T03:16:40.629Z"
   },
   {
     "id": "473831997",
@@ -521678,6 +522954,28 @@
     "createdAt": "2022-07-28T20:54:34.899Z"
   },
   {
+    "id": "1888346771",
+    "title": "Sill: your Mac, on your iPhone and iPad",
+    "url": "https://getsill.app/",
+    "description": "Any window from your Mac, live on your iPhone or iPad, with touch, a trackpad and keys. Free and open source, no account, no servers.",
+    "domain": "getsill.app",
+    "cover": "https://getsill.app/preview.jpg",
+    "favorite": false,
+    "category": "system-administration",
+    "subcategory": [
+      "Networking",
+      "Remote Desktop"
+    ],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitHub"
+    ],
+    "sourceCodeUrls": [
+      "https://github.com/Saffsanity/sill"
+    ],
+    "createdAt": "2026-10-13T19:21:16.628Z"
+  },
+  {
     "id": "1183302596",
     "title": "simias/rustation: Playstation emulator in the Rust programing language",
     "url": "https://github.com/simias/rustation",
@@ -522765,6 +524063,25 @@
     ],
     "sourceCodeUrls": [],
     "createdAt": "2022-05-31T02:04:53.837Z"
+  },
+  {
+    "id": "1888345417",
+    "title": "SwiftVM: Virtual machines that live in your menu bar",
+    "url": "https://swiftvm.app/",
+    "description": "Native macOS app for running macOS and Linux virtual machines, built with Swift and Apple's Virtualization framework.",
+    "domain": "swiftvm.app",
+    "cover": "https://swiftvm.app/og.jpg",
+    "favorite": false,
+    "category": "system-administration",
+    "subcategory": [
+      "Emulation & Virtualization",
+      "OS-Level Virtualization"
+    ],
+    "tags": [
+      "OS Compatibility: macOS"
+    ],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-13T19:17:07.743Z"
   },
   {
     "id": "817507294",
@@ -525363,6 +526680,25 @@
     "createdAt": "2024-08-22T19:41:05.120Z"
   },
   {
+    "id": "1879893563",
+    "title": "VMPal | Virtual Machines for Apple Silicon and AI Agents",
+    "url": "https://vmpal.com/",
+    "description": "macOS, Windows and Linux side by side on your Mac. Downloaded and installed for you, in minutes.",
+    "domain": "vmpal.com",
+    "cover": "https://vmpal.com/resources/images/vmpal-og.png",
+    "favorite": false,
+    "category": "system-administration",
+    "subcategory": [
+      "Emulation & Virtualization",
+      "Hypervisor"
+    ],
+    "tags": [
+      "OS Compatibility: macOS"
+    ],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-07T14:40:17.133Z"
+  },
+  {
     "id": "287101095",
     "title": "VMS Software",
     "url": "https://vmssoftware.com/",
@@ -525838,6 +527174,27 @@
     ],
     "sourceCodeUrls": [],
     "createdAt": "2024-11-16T23:29:50.178Z"
+  },
+  {
+    "id": "1883780378",
+    "title": "wesbos/photo-frame-dashboard: Getting ADB, root, backups and custom apps onto locked-down Android photo frames (Skylight Calendar, BIUFRAME)",
+    "url": "https://github.com/wesbos/photo-frame-dashboard",
+    "description": "Getting ADB, root, backups and custom apps onto locked-down Android photo frames (Skylight Calendar, BIUFRAME) - wesbos/photo-frame-dashboard",
+    "domain": "github.com",
+    "cover": "https://opengraph.githubassets.com/e16c571f04a66576918d01608f59a06551c868e57903eef5c0ac6209b6657969/wesbos/photo-frame-dashboard",
+    "favorite": false,
+    "category": "system-administration",
+    "subcategory": [
+      "System Tool",
+      "Android & iOS Tools",
+      "Root & Modding Android"
+    ],
+    "tags": [
+      "Source Code: GitHub",
+      "Type: Open-Source"
+    ],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-10T16:38:57.301Z"
   },
   {
     "id": "593139013",
@@ -528849,6 +530206,27 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2021-03-10T12:03:16.000Z"
+  },
+  {
+    "id": "1887605812",
+    "title": "bilawalsidhu/gods-eye-view: A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+    "url": "https://github.com/bilawalsidhu/gods-eye-view",
+    "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. - bilawalsidhu/gods-eye-view",
+    "domain": "github.com",
+    "cover": "https://opengraph.githubassets.com/d76e644f60396f1b4f71d6828a620a0c770bca644834e4dd7d26065d375bb218/bilawalsidhu/gods-eye-view",
+    "favorite": false,
+    "category": "travel-and-location",
+    "subcategory": [
+      "Maps",
+      "Geographic Maps",
+      "Satellite Maps"
+    ],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitHub"
+    ],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-13T09:02:02.792Z"
   },
   {
     "id": "287109837",
@@ -539984,6 +541362,25 @@
     "createdAt": "2020-08-18T13:56:57.000Z"
   },
   {
+    "id": "1885808609",
+    "title": "Vela Maps · OpenStreetMap and Google Maps in one app",
+    "url": "https://pimpinpumpkin.github.io/Vela/",
+    "description": "Google Maps, degoogled. Free and open source, no account, no tracking.",
+    "domain": "pimpinpumpkin.github.io",
+    "cover": "https://pimpinpumpkin.github.io/Vela/assets/05-navigation.webp",
+    "favorite": false,
+    "category": "travel-and-location",
+    "subcategory": [
+      "Maps"
+    ],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitHub"
+    ],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-11T23:15:22.658Z"
+  },
+  {
     "id": "287110124",
     "title": "Ventusky",
     "url": "https://www.ventusky.com/",
@@ -541784,22 +543181,6 @@
     "createdAt": "2022-05-07T11:51:14.665Z"
   },
   {
-    "id": "1878870239",
-    "title": "🛰️ OSIRIS — Open Source Palantir Alternative | Live Tracking + OSINT Tools",
-    "url": "https://osirisai.live/?layers=maritime,satellites,cctv,cctv_previews,live_news,earthquakes,global_incidents,day_night,cables,sdk_sea,sdk_air,sdk_naval",
-    "description": "Track 10K+ flights, satellites & CCTV worldwide. Run Nmap, DNS, WHOIS scans from your browser. 20+ live intel feeds. Free & open source.",
-    "domain": "osirisai.live",
-    "cover": "https://osirisai.live/og-image.png",
-    "favorite": false,
-    "category": "travel-and-location",
-    "subcategory": [
-      "Maps"
-    ],
-    "tags": [],
-    "sourceCodeUrls": [],
-    "createdAt": "2026-10-06T11:15:54.349Z"
-  },
-  {
     "id": "287100772",
     "title": "360 browser",
     "url": "https://browser.360.cn/",
@@ -542392,6 +543773,25 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2021-05-03T19:57:21.000Z"
+  },
+  {
+    "id": "1888345727",
+    "title": "Dejavu Browser – Android browser that syncs with Zen Browser",
+    "url": "https://dejavubrowser.byarchitect.org/",
+    "description": "Your tabs, right where you left them. An independent Android browser with workspaces, containers and split view that syncs your workspaces with Zen Browser on your computer.",
+    "domain": "dejavubrowser.byarchitect.org",
+    "cover": "https://dejavubrowser.byarchitect.org/assets/dejavu-feature-graphic.png",
+    "favorite": false,
+    "category": "web-browsers",
+    "subcategory": [],
+    "tags": [
+      "OS Compatibility: Android",
+      "Type: Open-Source"
+    ],
+    "sourceCodeUrls": [
+      "https://github.com/by-architect/Dejavu"
+    ],
+    "createdAt": "2026-10-13T19:18:04.951Z"
   },
   {
     "id": "287100763",

@@ -5,7 +5,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 
 # System Administration
 
-**Total Bookmarks:** 1346
+**Total Bookmarks:** 1351
 
 - [osquery](https://osquery.io/)
 - [PIVPN](https://pivpn.io/) — Simplest way to setup a VPN
@@ -366,6 +366,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [virt/virtio-win](https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/) — Fedora
 - [virtualbox (version download)](https://download.virtualbox.org/virtualbox/)
 - [VMmanager ISPsystem](https://www.ispsystem.com/vmmanager) — Virtualization management platform based on QEMU/KVM
+- [VMPal](https://vmpal.com/) — Virtual Machines for Apple Silicon and AI Agents
 - [VMS Software](https://vmssoftware.com/)
 - [VMware](https://www.vmware.com/)
 - [VMware](https://www.vmware.com/products/desktop-hypervisor) — Desktop Hypervisor
@@ -512,9 +513,11 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [Podman.io](https://podman.io/) / <a href="https://github.com/containers/"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [Portainer.io](https://www.portainer.io/) — container management for Docker and Kubernetes
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) — Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers
+- [SwiftVM](https://swiftvm.app/) — Virtual machines that live in your menu bar
 - [sylabs/singularity](https://github.com/sylabs/singularity) — an open source container platform
 
 ### OS Translation Layer
+- [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) — Tool for automatic PS5 executables porting to Linux and Windows
 - [Userland](https://userland.tech/) — Use Linux Anywhere
 
 #### Windows Translation Layer
@@ -957,6 +960,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [UnifiedPush](https://unifiedpush.org/)
 
 #### SSH Client
+- [Bitvise](https://www.bitvise.com/) — SSH Server
 - [ConnectBot](https://connectbot.org/)
 - [iLead](https://ileadapp.org/) — Local SSH Manager & Encrypted Vault
 - [nirui/sshwifty](https://github.com/nirui/sshwifty) — Web SSH & Telnet (WebSSH & WebTelnet client) 🔮
@@ -1023,7 +1027,6 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [AirDroid](https://www.airdroid.com/)
 - [Apache Guacamole](https://guacamole.apache.org/)
 - [Apple Remote Desktop](https://support.apple.com/guide/remote-desktop/welcome/mac)
-- [Bitvise](https://www.bitvise.com/) — SSH Server
 - [Chrome Remote Desktop](https://remotedesktop.google.com/)
 - [Dameware](https://www.dameware.com/) — Remote PC
 - [DWService](https://www.dwservice.net/)
@@ -1037,6 +1040,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [Remote Desktop Manager](https://remotedesktopmanager.com/)
 - [Remotely Remote Support Software](http://www.remotesupportsoftware.co.uk/)
 - [RemotePC](https://www.remotepc.com/index.html)
+- [Sill](https://getsill.app/) / <a href="https://github.com/Saffsanity/sill"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — your Mac, on your iPhone and iPad
 - [Spice space](https://www.spice-space.org/)
 - [Synergy](https://symless.com/synergy) — Share one mouse & keyboard across computers
 - [TeamViewer](https://www.teamviewer.com/en/) — The Remote Connectivity Software
@@ -1344,6 +1348,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/) — Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.
 - [Viper4android](https://www.viper4android.com/)
 - [W1nst0n / Universal Android Debloater · GitLab](https://gitlab.com/W1nst0n/universal-android-debloater)
+- [wesbos/photo-frame-dashboard](https://github.com/wesbos/photo-frame-dashboard) — Getting ADB, root, backups and custom apps onto locked-down Android photo frames (Skylight Calendar, BIUFRAME)
 - [Xposed APK](https://xposed-installer.com/)
 - [Xposed Module Repository](https://repo.xposed.info/)
 

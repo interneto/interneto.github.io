@@ -5,7 +5,7 @@ description: Maps, weather, travel agencies, and flights
 
 # Travel & Location
 
-**Total Bookmarks:** 802
+**Total Bookmarks:** 803
 
 - [itinio](https://www.itinio.app/) — What to Do in Madrid & Barcelona | Best Local Routes & Food
 - [TREK](https://demo-nomad.pakulat.org/dashboard) / <a href="https://github.com/mauriceboe/TREK"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
@@ -76,7 +76,6 @@ description: Maps, weather, travel agencies, and flights
 - [Welcome to SkyDemon, VFR Flight Planning and GPS Moving Map](https://www.skydemon.aero/)
 
 ## Maps
-- [🛰️ OSIRIS](https://osirisai.live/?layers=maritime,satellites,cctv,cctv_previews,live_news,earthquakes,global_incidents,day_night,cables,sdk_sea,sdk_air,sdk_naval) — Open Source Palantir Alternative | Live Tracking + OSINT Tools
 - [Amap](https://wap.amap.com/?from=m&type=m) — 高德地图
 - [BTC Map](https://btcmap.org/) / <a href="https://github.com/teambtcmap/btcmap.org"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [Cartes](https://cartes.app/#3/0/0) / <a href="https://codeberg.org/cartes/web"><img class="source-host-icon" src="/img/source-hosts/codeberg.svg" alt="Codeberg" title="Codeberg" width="14" height="14" loading="lazy"></a>
@@ -90,6 +89,7 @@ description: Maps, weather, travel agencies, and flights
 - [OurAirports](https://ourairports.com/)
 - [SeismicMonitor](https://www.iris.edu/app/seismic-monitor/map?lat=16.4657&lng=-67.5192&zoom=2)
 - [ShadeMap](https://shademap.app/@0,0,3z,1786552393340t,0b,0p,0m) — Simulate sun shadows
+- [Vela Maps · OpenStreetMap and Google Maps in one app](https://pimpinpumpkin.github.io/Vela/)
 
 ### Geographic Maps
 - ⭐ **[GrafCan](https://visor.grafcan.es/)**
@@ -189,6 +189,7 @@ description: Maps, weather, travel agencies, and flights
 - [ACME Mapper](https://mapper.acme.com/)
 - [Baidu map 3D](https://map.baidu.com/@0,0,3.73z/maptype%3DB_EARTH_MAP)
 - [BestFreeMaps](https://bestfreemaps.com/map.html?layer=satellite)
+- [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) — A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
 - [Blue Marble Navigator](https://blue-marble.de/)
 - [Copernix](https://copernix.io/#?where=0,0,3&?query=&?map_type=hybrid)
 - [Descartes Labs](https://maps.descarteslabs.com/?layer=landsat-8_v3_rgb_2013-2017#lat=0.0000000&lng=0.0000000&zoom=3) — Maps

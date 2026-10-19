@@ -5,7 +5,7 @@ description: Games, launchers, emulators, and gaming utilities
 
 # Gaming
 
-**Total Bookmarks:** 734
+**Total Bookmarks:** 737
 
 
 ## Games
@@ -464,6 +464,7 @@ description: Games, launchers, emulators, and gaming utilities
 - [Company of Heroes 3](https://www.companyofheroes.com/)
 - [CONV/RGENCE](https://convrgencegame.com/) — A League of Legends Story
 - [Hextech Mayhem](https://hextechmayhem.com/en-us/) — A League of Legends Story
+- [Lawgivers](https://www.lawgivers.com/) — Political simulation game PC, Android & iOS
 - [League of Legends](https://euw.leagueoflegends.com/en-us/)
 - [League of Legends](https://wildrift.leagueoflegends.com/en-us/) — Wild Rift
 - [Legends of Runeterra](https://playruneterra.com/en-us/)
@@ -593,6 +594,7 @@ description: Games, launchers, emulators, and gaming utilities
 - ⭐ **[Plutonium Project](https://plutonium.pw/)**
 - [9Minecraft](https://www.9minecraft.net/) — The Best Resource for Minecraft
 - [All mods](https://thunderstore.io/) — Thunderstore - The Risk of Rain 2 Mod Database
+- [chasmlol/2010-rust-rewrite-mashup](https://github.com/chasmlol/2010-rust-rewrite-mashup) — MW2, Skate 3 and Minecraft in one Rust game: IW4L's MW2 rewrite with Skate 3 mode and a real Minecraft world map
 - [Cheat Engine](https://www.cheatengine.org/)
 - [CurseForge](https://www.curseforge.com/)
 - [CurseForge](https://www.curseforge.com/minecraft) — Minecraft Mods & Modpacks
@@ -601,6 +603,7 @@ description: Games, launchers, emulators, and gaming utilities
 - [FiveM](https://fivem.net/)
 - [Flightsim](https://flightsim.to/) — Flight Simulator Mods
 - [GTA5-Mods](https://www.gta5-mods.com/)
+- [mattvideoproductions/TornadoRedemption](https://github.com/mattvideoproductions/TornadoRedemption) — A tornado mod for Red Dead Redemption 2 (story mode): a funnel that whirls up people, horses, wagons, trees and Arthur, a cinematic intro with the Van der Linde gang, a tornado gun and a jet balloon. Made with Claude.
 - [MelonLoader](https://melonloader.co/) — Universal Mod Loader
 - [Mod Organizer 2](https://www.nexusmods.com/skyrimspecialedition/mods/6194)
 - [Mod Organizer 2](https://www.modorganizer.org/)

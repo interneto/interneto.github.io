@@ -5,7 +5,7 @@ description: File sharing, downloaders, torrents, and cloud storage
 
 # File Management
 
-**Total Bookmarks:** 868
+**Total Bookmarks:** 870
 
 
 ## Backup
@@ -626,6 +626,7 @@ description: File sharing, downloaders, torrents, and cloud storage
 - [JumpFm](https://jumpfm.org/)
 - [Keka](https://www.keka.io/en)
 - [Krusader](https://krusader.org/)
+- [lgse/strata](https://github.com/lgse/strata) — A fast, keyboard-first file manager for Linux
 - [luleyleo/clapgrep](https://github.com/luleyleo/clapgrep) — A graphical search tool
 - [lxde/pcmanfm](https://github.com/lxde/pcmanfm) — Extremely fast and lightweight file manager
 - [Midnight Commander](https://midnight-commander.org/)
@@ -800,6 +801,7 @@ description: File sharing, downloaders, torrents, and cloud storage
 - [shrimqy/Sefirah](https://github.com/shrimqy/Sefirah) — Phone Link / KDE Connect alternative
 - [Use AirDrop to send items to nearby Apple devices](https://support.apple.com/guide/mac-help/use-airdrop-to-send-items-to-nearby-devices-mh35868/mac)
 - [Valent](https://valent.andyholmes.ca/) / <a href="https://github.com/andyholmes/valent"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [WeTransfer](https://wetransfer.com/)
 - [ZappFiles](https://zappfiles.com/) — Large File Sharing for Creative Professionals
 
 ## File Viewer

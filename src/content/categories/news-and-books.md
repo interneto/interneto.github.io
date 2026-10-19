@@ -5,7 +5,7 @@ description: News, blogs, digital gardens, libraries, and magazines
 
 # News & Books
 
-**Total Bookmarks:** 2552
+**Total Bookmarks:** 2554
 
 
 ## News
@@ -1214,6 +1214,7 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [100cosas.dev](https://100cosas.dev/) — Mejora en programación, un consejo a la vez
 - [a16z](https://www.a16z.news/) — Substack
 - [Adventures in Linux and KDE](https://pointieststick.com/)
+- [AI 2027](https://ai-2027.com/)
 - [AK’s Substack](https://akhaliq.substack.com/) — Substack
 - [Alexia Michelle](https://lexi.lat/)
 - [Andrej Karpathy blog](https://karpathy.github.io/)
@@ -2727,7 +2728,7 @@ description: News, blogs, digital gardens, libraries, and magazines
 - ⭐ **[news-flash / news_flash_gtk · GitLab](https://gitlab.com/news-flash/news_flash_gtk)**
 - ⭐ **[nt1m/livemarks · GitHub](https://github.com/nt1m/livemarks/)**
 - ⭐ **[Panda](https://app.usepanda.com/#/)**
-- ⭐ **[Rssguard · GitHub](https://github.com/martinrotter/rssguard)**
+- ⭐ **[Rssguard](https://rssguard.com/)** / <a href="https://github.com/martinrotter/rssguard"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [Aktu.io](https://aktu.io/news/content/dashboard) — RSS
 - [Alligator](https://apps.kde.org/alligator/) — KDE
 - [Ashinch/ReadYou · GitHub](https://github.com/Ashinch/ReadYou)
@@ -2815,6 +2816,7 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [Vienna RSS](https://www.vienna-rss.com/) / <a href="https://github.com/ViennaRSS/vienna-rss"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — The Free and Open-Source RSS/Atom Reader for macOS
 - [Vivaldi Feed Reader](https://vivaldi.com/features/feed-reader/) — Read feeds from the sources you choose
 - [Voice](https://voice.woitaschek.de/)
+- [WinNewsWire](https://www.winnewswire.com/) / <a href="https://github.com/jcqtech/WinNewsWire"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — A fast, native RSS reader for Windows
 - [World / Feeds · GitLab](https://gitlab.gnome.org/World/gfeeds)
 - [Xyrio/RSSOwlnix · GitHub](https://github.com/Xyrio/RSSOwlnix)
 

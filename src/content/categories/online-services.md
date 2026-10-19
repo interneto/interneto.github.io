@@ -5,7 +5,7 @@ description: Search engines, web directories, software directories, corporations
 
 # Online Services
 
-**Total Bookmarks:** 5686
+**Total Bookmarks:** 5678
 
 
 ## Biography
@@ -567,6 +567,7 @@ description: Search engines, web directories, software directories, corporations
 #### Software List
 - [API list](https://apilist.fun/)
 - [ArchiveApp.org](https://archiveapp.org/)
+- [Best Android Apps, September 2026 · Verified Picks](https://bestappsforandroid.com/)
 - [Category:Lists of software](https://wiki.archlinux.org/title/Category:Lists_of_software) — ArchWiki
 - [Comparison of BitTorrent clients](https://en.wikipedia.org/wiki/Comparison_of_BitTorrent_clients) — Wikipedia
 - [Comparison of BitTorrent sites](https://en.wikipedia.org/wiki/Comparison_of_BitTorrent_sites) — Wikipedia
@@ -1887,6 +1888,7 @@ description: Search engines, web directories, software directories, corporations
 - [prakhar1989/awesome-courses · GitHub](https://github.com/prakhar1989/awesome-courses)
 - [Project-Awesome.org](https://project-awesome.org/)
 - [Psyhackological/AAA](https://github.com/Psyhackological/AAA) — :iphone: Curated list of THE BEST FOSS Android apps to maximize your freedom & privacy!
+- [psykon/awesome-demoscene](https://github.com/psykon/awesome-demoscene) — A list of demoscene related tools, code and ressources.
 - [public-apis/public-apis · GitHub](https://github.com/public-apis/public-apis)
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) — A collection of MCP servers.
 - [r/degoogle](https://www.reddit.com/r/degoogle/wiki/index) — index
@@ -2497,6 +2499,7 @@ description: Search engines, web directories, software directories, corporations
 - [Stardew Valley Wiki](https://www.stardewvalleywiki.com/Stardew_Valley_Wiki)
 - [Super Mario Wiki, the Mario encyclopedia](https://www.mariowiki.com/)
 - [Superpower Wiki](https://powerlisting.fandom.com/wiki/Superpower_Wiki) — Fandom
+- [Teletraan I](https://transformers.fandom.com/wiki/Main_Page) — The Transformers Wiki
 - [The Amazing Digital Circus Wiki](https://tadc.fandom.com/wiki/Home) — Fandom
 - [The Amazing World of Gumball Wiki](https://theamazingworldofgumball.fandom.com/wiki/The_Amazing_World_of_Gumball_Wiki) — Fandom
 - [The Boys Wiki](https://the-boys.fandom.com/wiki/The_Boys_Wiki) — Fandom
@@ -2515,6 +2518,7 @@ description: Search engines, web directories, software directories, corporations
 - [Tolkienpedia](https://esdla.fandom.com/wiki/Wiki_La_Tierra_Media)
 - [Touhou Wiki](https://en.touhouwiki.net/wiki/Touhou_Wiki)
 - [Transformers Cinematic Universe Wiki](https://transformerscinematicuniverse.fandom.com/wiki/TransformersCinematicUniverse_Wiki) — Fandom
+- [Transformers Wiki](https://tfwiki.net/wiki/Main_Page) — TFWiki.net
 - [Twilight Saga Wiki](https://twilightsaga.fandom.com/wiki/Twilight_Saga_Wiki) — Fandom
 - [Valorant Wiki](https://valorant.fandom.com/wiki/Valorant_Wiki)
 - [VS Battles Wiki](https://vsbattles.fandom.com/wiki/VS_Battles_Wiki) — Fandom
@@ -4565,7 +4569,9 @@ description: Search engines, web directories, software directories, corporations
 - [WhoSampled](https://www.whosampled.com/)
 
 #### Record Voice
+- [echo-lalia/recordplayreverse](https://github.com/echo-lalia/recordplayreverse)
 - [Online Voice Recorder](https://online-voice-recorder.com/)
+- [ReverseSing](https://github.com/JN0V/ReverseSing)
 - [Virtualspeech](https://virtualspeech.com/voice-recorder) — Record your Voice
 - [Vocaroo](https://vocaroo.com/)
 
@@ -4584,12 +4590,10 @@ description: Search engines, web directories, software directories, corporations
 - ⭐ **[Braflix](https://www.braflix.ru/)** — Watch TV Shows Online, Watch Movies Online
 - ⭐ **[Cinecat](https://cinecat.eu/)** / <a href="https://github.com/xp-technologies-dev/p-stream"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - ⭐ **[Cinejoy](https://cinejoy.pk/)**
-- ⭐ **[MediaHub-Org/PlayTorrioMov](https://github.com/MediaHub-Org/PlayTorrioMov)** — PlayTorrio fork adapted just for Movies/Series/Anime with SOLID UI/UX
 - ⭐ **[Nunflix](https://nunflix.org/)** — Streaming World!
 - ⭐ **[PlayTorrio](https://playtorrio.xyz/)** / <a href="https://github.com/ayman708-UX/PlayTorrioV2"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Open-Source by Ayman
-- ⭐ **[Rive Stream](https://rivestream.live/)**
+- ⭐ **[Rive Stream](https://www.rivestream.app/)**
 - ⭐ **[streamerflix.xyz](https://streamerflix.xyz/)**
-- ⭐ **[Vyla Home](https://vyla.cc/)** / <a href="https://gitlab.com/vyla-entertainment/home"><img class="source-host-icon" src="/img/source-hosts/gitlab.svg" alt="GitLab" title="GitLab" width="14" height="14" loading="lazy"></a> — Self-Hosted Desktop Media Center
 - [1Shows](https://www.1shows.nl/)
 - [67movies.net](https://67movies.net/)
 - [247movie](https://247movie.net/)
@@ -4610,7 +4614,6 @@ description: Search engines, web directories, software directories, corporations
 - [Cineby](https://www.cineby.gd/)
 - [Cinema HD APK](https://cinema-hd.app/apk3/)
 - [Cinemaos](https://cinemaos.tech/)
-- [CloudStream APK Official Download v4.8.0](https://cloudstream-apk.com/) / <a href="https://github.com/recloudstream/cloudstream"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — All Repositories
 - [Coreflix](https://coreflix.tv/) — Stream Movies & TV Shows Online
 - [CorsFlix](https://watch.corsflix.dpdns.org/)
 - [Cuevana3.ws](https://cuevana3.ws/)
@@ -4635,7 +4638,6 @@ description: Search engines, web directories, software directories, corporations
 - [HDFull](https://hdfull.sbs/login) — Tu lugar para ver peliculas y series online
 - [Hexa Watch](https://hexa.watch/) — Stream Movies & TV Shows Online
 - [hydrahd](https://hydrahd.com/) — Watch Movies and Series in High Definition
-- [hydrahd](https://hydrahd.me/) — Watch Movies and Series in High Definition
 - [IPTVLigne](https://iptvligne.com/) — Best IPTV Provider
 - [Kindor](https://kindor.pro/) — Películas y Series Online
 - [KinoGo.biz](https://kinogo.biz/)
@@ -4671,8 +4673,7 @@ description: Search engines, web directories, software directories, corporations
 - [PlayIMDb](https://playimdb.com/) — Watch Movies from IMDb Instantly
 - [Popcornflix](https://www.popcornflix.com/pages/discover/d/movies)
 - [Popcornflix](https://popcornflix.io/)
-- [PopcornMovies](https://popcornmovies.to/home) — Watch Movies & TV Shows Online Free HD
-- [PopcornMoviesWatch](https://popcornmovies.org/) — Movies & TV Shows Online Free HD
+- [PopcornMovies](https://popcornmovies.ac/) — Watch Movies & TV Shows Online Free HD
 - [Poprink](https://www.popr.ink/) — Streaming Movies & TV
 - [PressPlay](https://pressplay.top/home/)
 - [PrimeFlix](https://primeflix-web.vercel.app/)
@@ -5355,73 +5356,29 @@ description: Search engines, web directories, software directories, corporations
 
 ### Online App
 
-#### Digital Payment
-- [2Checkout](https://www.2checkout.com/)
-- [Adyen](https://www.adyen.com/) — Engineered for ambition
-- [Affirm](https://www.affirm.com/)
-- [AliPay](https://render.alipay.com/p/yuyan/180020040001212700/) — 首页
-- [AllPay](https://alipay.com/)
-- [Amazon Pay](https://pay.amazon.com/) — Online Payment Service
-- [Autumn](https://useautumn.com/) — Pricing and Billing
-- [BitPay](https://bitpay.com/)
+#### Wallets & Fintech
+- [Alipay](https://www.alipay.com/)
 - [Bizum](https://bizum.es/)
 - [Brex](https://www.brex.com/) — Cards, expense management, travel, bill pay
 - [Cash App](https://cash.app/)
-- [Circle](https://www.circle.com/en/)
 - [Current.com](https://current.com/)
 - [Expensify](https://www.expensify.com/)
 - [Facebook Pay](https://pay.facebook.com/)
-- [Giropay](https://www.giropay.de/)
-- [GiveDirectly](https://www.givedirectly.org/)
-- [GNU Taler](https://www.taler.net/en/) — Taxable Anonymous Libre Electronic Resources
 - [Google Wallet](https://wallet.google/)
-- [iDEAL](https://www.ideal.nl/)
 - [Imagin bank](https://imagin.com/)
-- [International Money Transfer](https://moneytransfers.com/)
-- [Kiva](https://www.kiva.org/)
-- [Klarna](https://www.klarna.com/pay-now/)
-- [Lightspark](https://www.lightspark.com/) — Global Payments Platform | Instant Bitcoin & Fiat Transfers
 - [Mercado Pago](https://www.mercadopago.com.ar/)
 - [MetaBank](https://www.metabank.com/)
-- [MoneyGram](https://www.moneygram.com/mgo/es/es)
-- [NOWPayments](https://nowpayments.io/) — Accept Crypto Payments as a Business
-- [OxaPay](https://oxapay.com/) — Crypto Payment Gateway for Businesses & Developers
-- [PagoFX](https://pagofx.com/)
 - [PaiPai](https://www.paipai.com/)
-- [Payoneer](https://www.payoneer.com/)
 - [Paypal](https://www.paypal.com/)
-- [PayScale](https://www.payscale.com/)
-- [POLi Payments](https://www.polipayments.com/)
-- [Przelewy24](https://www.przelewy24.pl/)
 - [Rakuten](https://www.rakuten.com/)
-- [Razorpay](https://razorpay.com/) — Best Payment Solution for Online Payments India
-- [Remitly](https://www.remitly.com/es/en)
-- [Revolut](https://revolut.com/en-ES)
 - [Revolut](https://www.revolut.com/) — All in one finance app
-- [SafetyPay](https://www.safetypay.com/en/)
-- [Scalapay](https://www.scalapay.com/es#) — Pagos sencillos y a plazos para las cosas que te gustan
-- [Shift4](https://www.shift4.com/) — Integrate Payments and Commerce Technology
 - [Simply digital](https://simplydigitalbill.com/)
-- [Sofort](https://www.klarna.com/sofort/)
 - [StellarFi](https://www.stellarfi.com/)
-- [Stripe](https://stripe.com/en-es)
-- [Teleingreso](https://teleingreso.com/es)
-- [Transak](https://transak.com/) — Ramp Developer Integration for Web3 & Crypto Apps
-- [Trustly](https://www.trustly.net/es-ES)
-- [UnionPay International](https://www.unionpayintl.com/en/)
-- [Vendo](https://www.vendoservices.com/)
 - [Venmo](https://venmo.com/)
-- [Verifone](https://www.verifone.com/en/uk)
 - [Verse.me](https://verse.me/en/)
 - [WeChat Pay Open Platform](https://pay.weixin.qq.com/index.php/public/wechatpay_en/)
-- [Western Union](https://www.westernunion.com/us/en/home.html)
-- [WeTransfer](https://wetransfer.com/)
-- [Wise](https://wise.com/)
-- [Wyre](https://www.sendwyre.com/) — Crypto Infrastructure
-- [x402](https://www.x402.org/) / <a href="https://github.com/x402-foundation/x402"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Payment Required
-- [Xoom](https://www.xoom.com/)
 
-#### Activism Account
+#### Activism & Petitions
 - [Action Network](https://actionnetwork.org/)
 - [Avaaz](https://secure.avaaz.org/page/en/)
 - [Care2](https://www.care2.com/)
@@ -5433,52 +5390,19 @@ description: Search engines, web directories, software directories, corporations
 - [Treedom](https://www.treedom.net/en/)
 - [Upworthy](https://www.upworthy.com/)
 
-#### Share Links
-- [AddToAny](https://www.addtoany.com/)
-- [AllMyLinks](https://allmylinks.com/)
-- [Beacons](https://beacons.page/)
-- [Bento](https://bento.me/en/home) — A Link in Bio, but Rich and Beautiful
-- [Best Link in Bio](https://alsoat.app/)
-- [Big Cartel](https://www.bigcartel.com/)
-- [Bio Link](https://bio.link/)
-- [Blanq.io](https://blanq.io/)
-- [Carrd.co](https://carrd.co/)
-- [Compiled.social](https://compiled.social/)
-- [Direct.me](https://direct.me/)
+#### Smart Links & Music Marketing
 - [Feature.fm](https://feature.fm/)
-- [Hoo.be](https://hoo.be/apply)
-- [hoo.be](https://hoo.be/)
 - [Hypeddit](https://hypeddit.com/)
-- [linkding](https://linkding.link/) / <a href="https://github.com/sissbruecker/linkding"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [Linkfire](https://www.linkfire.com/)
-- [LinkStack](https://linkstack.org/) — Self-hosted open-source Linktree alternative
-- [Linktree](https://linktr.ee/)
-- [LittleLink](https://littlelink.io/)
-- [Lnk.Bio](https://lnk.bio/)
-- [markdownlinks.com](https://markdownlinks.com/)
-- [Now Now Now](https://nownownow.com/)
-- [Omg.lol](https://omg.lol/)
-- [omg.lol](https://home.omg.lol/) — A lovable web page and email address, just for you
-- [Onee Page](https://onee.page/) — Simple & Beautiful Link in Bio
 - [Orcd.co](https://orcd.co/)
-- [PinPlz](https://pinplz.com/) — Save your favorite links
-- [Pluus](https://plu.us/)
-- [Sendowl](https://sendowl.com/)
 - [smartURL](https://manage.smarturl.it/)
-- [Snipfeed link](https://link.snipfeed.co/)
-- [Solo.to](https://solo.to/)
 - [Songwhip](https://songwhip.com/)
 - [Soundiiz](https://soundiiz.com/es)
 - [Soundplate Clicks](https://click.soundplate.com/)
-- [StreamerLinks](https://streamerlinks.com/)
-- [Tap Bio](https://tap.bio/@tap.bio)
-- [TapMyBio](https://tapmybio.com/)
 - [ToneDen](https://www.toneden.io/)
 - [Urlgeni app](https://app.urlgeni.us/)
-- [WhereToFind.Me](https://wheretofind.me/)
-- [Znaplink](https://www.znaplink.com/)
 
-#### Subscription Platform
+#### Fan Subscription
 - [Calling Fans](https://www.callingfans.com/)
 - [Fanhouse.app](https://fanhouse.app/)
 - [Fansly.com](https://fansly.com/)
@@ -5493,59 +5417,141 @@ description: Search engines, web directories, software directories, corporations
 - [SubscribeStar.adult](https://subscribestar.adult/)
 - [tingz](https://tingz.co/)
 
-#### Crowdfunding Account
+#### Creator Funding
 - ⭐ **[Patreon](https://www.patreon.com/)**
-- [1UpCoin](https://1upcoin.com/)
 - [APOIA.se](https://apoia.se/) — Crowdfunding Pontual e Mensal
-- [Bold.org](https://bold.org/)
 - [Boosty.to](https://boosty.to/) — a place where success turns into a stable income
 - [Bountysource](https://www.bountysource.com/)
 - [Buy Me a Coffee](https://www.buymeacoffee.com/)
 - [Cafecito.app](https://cafecito.app/)
-- [Classy](https://www.classy.org/)
-- [Coil.com](https://coil.com/)
-- [Coindrop.to](https://coindrop.to/)
-- [Cointr.ee](https://cointr.ee/)
 - [Contribee](https://contribee.com/)
 - [Creatorsphere](https://creatorsphere.co/)
+- [Fanbox.cc](https://www.fanbox.cc/)
+- [Flattr](https://flattr.com/)
+- [Karyakarsa](https://karyakarsa.com/)
+- [Ko-fi](https://ko-fi.com/) — Get Donations, Memberships and Shop Sales. No Fees!
+- [Liberapay](https://liberapay.com/)
+- [Mintme](https://www.mintme.com/)
+- [Passes](https://www.passes.com/)
+- [Pomelo • Grants](https://pomelo.io/grants)
+- [Streamloots](https://www.streamloots.com/)
+- [Tipeee](https://en.tipeee.com/)
+- [Toonation](https://toon.at/)
+- [Twoja Patronite](https://patronite.pl/) — pasja, Twoje życie
+- [uTip](https://utip.io/)
+
+#### Crowdfunding & Charity
+- [Bold.org](https://bold.org/)
+- [Classy](https://www.classy.org/)
 - [Crowdthinking](http://www.crowdthinking.org/es#p1)
 - [Donorbox](https://donorbox.org/) — Nonprofit Fundraising Software
 - [DonorDrive](https://www.donordrive.com/)
-- [Fanbox.cc](https://www.fanbox.cc/)
 - [FindCrowdFunding](https://www.findcrowdfunding.com/es)
-- [Flattr](https://flattr.com/)
 - [FreedomUnited.org](https://www.freedomunited.org/)
 - [Fundly](https://fundly.com/)
 - [FundRazr](https://fundrazr.com/)
+- [GiveDirectly](https://www.givedirectly.org/)
 - [GoFundMe](https://www.gofundme.com/)
 - [Goodeed](https://www.goodeed.com/)
 - [Greater Giving](https://www.greatergiving.com/en)
 - [Indiegogo](https://www.indiegogo.com/)
 - [JustGiving](https://www.justgiving.com/)
-- [Karyakarsa](https://karyakarsa.com/)
 - [Kickstarter](https://www.kickstarter.com/)
-- [Ko-fi](https://ko-fi.com/) — Get Donations, Memberships and Shop Sales. No Fees!
+- [Kiva](https://www.kiva.org/)
 - [Leetchi](https://www.leetchi.com/es)
-- [Liberapay](https://liberapay.com/)
 - [Mi Grano de Arena](https://www.migranodearena.org/)
-- [Mintme](https://www.mintme.com/)
 - [Open Collective](https://opencollective.com/)
-- [Passes](https://www.passes.com/)
-- [Pomelo • Grants](https://pomelo.io/grants)
 - [Prizeo](https://www.prizeo.com/)
 - [Streamlabs Charity](https://streamlabscharity.com/)
-- [Streamloots](https://www.streamloots.com/)
 - [TheCrowdAngel](https://www.thecrowdangel.com/)
-- [Tipeee](https://en.tipeee.com/)
-- [Toonation](https://toon.at/)
-- [Total Life Changes](https://totallifechanges.com/)
-- [Twoja Patronite](https://patronite.pl/) — pasja, Twoje życie
 - [Ulule](https://es.ulule.com/)
-- [uTip](https://utip.io/)
 - [Verkami](https://www.verkami.com/)
+
+#### Payment Gateways
+- [2Checkout](https://www.2checkout.com/)
+- [Adyen](https://www.adyen.com/) — Engineered for ambition
+- [Amazon Pay](https://pay.amazon.com/) — Online Payment Service
+- [Autumn](https://useautumn.com/) — Pricing and Billing
+- [BitPay](https://bitpay.com/)
+- [Circle](https://www.circle.com/en/)
+- [GNU Taler](https://www.taler.net/en/) — Taxable Anonymous Libre Electronic Resources
+- [Lightspark](https://www.lightspark.com/) — Global Payments Platform | Instant Bitcoin & Fiat Transfers
+- [NOWPayments](https://nowpayments.io/) — Accept Crypto Payments as a Business
+- [OxaPay](https://oxapay.com/) — Crypto Payment Gateway for Businesses & Developers
+- [Razorpay](https://razorpay.com/) — Best Payment Solution for Online Payments India
+- [Shift4](https://www.shift4.com/) — Integrate Payments and Commerce Technology
+- [Stripe](https://stripe.com/en-es)
+- [Transak](https://transak.com/) — Ramp Developer Integration for Web3 & Crypto Apps
+- [Vendo](https://www.vendoservices.com/)
+- [Verifone](https://www.verifone.com/en/uk)
+- [Wyre](https://www.sendwyre.com/) — Crypto Infrastructure
+- [x402](https://www.x402.org/) / <a href="https://github.com/x402-foundation/x402"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Payment Required
+
+#### Money Transfer
+- [International Money Transfer](https://moneytransfers.com/)
+- [MoneyGram](https://www.moneygram.com/mgo/es/es)
+- [PagoFX](https://pagofx.com/)
+- [Payoneer](https://www.payoneer.com/)
+- [Remitly](https://www.remitly.com/es/en)
+- [Western Union](https://www.westernunion.com/us/en/home.html)
+- [Wise](https://wise.com/)
+- [Xoom](https://www.xoom.com/)
+
+#### Link in Bio
+- [AllMyLinks](https://allmylinks.com/)
+- [Beacons](https://beacons.page/)
+- [Bento](https://bento.me/en/home) — A Link in Bio, but Rich and Beautiful
+- [Best Link in Bio](https://alsoat.app/)
+- [Bio Link](https://bio.link/)
+- [Blanq.io](https://blanq.io/)
+- [Carrd.co](https://carrd.co/)
+- [Compiled.social](https://compiled.social/)
+- [Direct.me](https://direct.me/)
+- [hoo.be](https://hoo.be/)
+- [linkding](https://linkding.link/) / <a href="https://github.com/sissbruecker/linkding"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [LinkStack](https://linkstack.org/) — Self-hosted open-source Linktree alternative
+- [Linktree](https://linktr.ee/)
+- [LittleLink](https://littlelink.io/)
+- [Lnk.Bio](https://lnk.bio/)
+- [markdownlinks.com](https://markdownlinks.com/)
+- [omg.lol](https://home.omg.lol/) — A lovable web page and email address, just for you
+- [Onee Page](https://onee.page/) — Simple & Beautiful Link in Bio
+- [Pluus](https://plu.us/)
+- [Snipfeed link](https://link.snipfeed.co/)
+- [Solo.to](https://solo.to/)
+- [StreamerLinks](https://streamerlinks.com/)
+- [Tap Bio](https://tap.bio/@tap.bio)
+- [TapMyBio](https://tapmybio.com/)
+- [WhereToFind.Me](https://wheretofind.me/)
+- [Znaplink](https://www.znaplink.com/)
+
+#### Utilities & Misc
+- [AddToAny](https://www.addtoany.com/)
+- [Now Now Now](https://nownownow.com/)
+- [PinPlz](https://pinplz.com/) — Save your favorite links
+
+#### Crypto Tipping
+- [1UpCoin](https://1upcoin.com/)
+- [Coil.com](https://coil.com/)
+- [Coindrop.to](https://coindrop.to/)
+- [Cointr.ee](https://cointr.ee/)
 - [Web Monetization](https://webmonetization.org/)
 
-#### e-signature
+#### Bank Transfer Methods
+- [Affirm](https://www.affirm.com/)
+- [Giropay](https://www.giropay.de/)
+- [iDEAL](https://www.ideal.nl/)
+- [Klarna](https://www.klarna.com/pay-now/)
+- [POLi Payments](https://www.polipayments.com/)
+- [Przelewy24](https://www.przelewy24.pl/)
+- [SafetyPay](https://www.safetypay.com/en/)
+- [Scalapay](https://www.scalapay.com/es#) — Pagos sencillos y a plazos para las cosas que te gustan
+- [Sofort](https://www.klarna.com/sofort/)
+- [Teleingreso](https://teleingreso.com/es)
+- [Trustly](https://www.trustly.net/es-ES)
+- [UnionPay International](https://www.unionpayintl.com/en/)
+
+#### E-signature
 - [DocSend](https://www.docsend.com/) — Secure Document Sharing & Analytics, eSignature, Data Rooms
 - [DocuSeal](https://www.docuseal.co/) — Open Source Document Signing
 - [DocuSign](https://www.docusign.com/) — Electronic Signature and Contract Lifecycle Management

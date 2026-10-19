@@ -5,7 +5,7 @@ description: Password managers, cybersecurity, and web privacy
 
 # Security & Privacy
 
-**Total Bookmarks:** 302
+**Total Bookmarks:** 303
 
 - [Fight Chat Control](https://fightchatcontrol.eu/) — Protect Digital Privacy in the EU
 - [PrivacySpy](https://privacyspy.org/) — We track online privacy
@@ -231,6 +231,7 @@ description: Password managers, cybersecurity, and web privacy
 
 ### OSINT Tools
 - ⭐ **[overpass turbo](https://overpass-turbo.eu/)** / <a href="https://github.com/tyrasd/overpass-turbo"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [🛰️ OSIRIS](https://osirisai.live/?layers=maritime,satellites,cctv,cctv_previews,live_news,earthquakes,global_incidents,day_night,cables,sdk_sea,sdk_air,sdk_naval) — Open Source Palantir Alternative | Live Tracking + OSINT Tools
 - [Creepy by ilektrojohn](https://www.geocreepy.com/)
 - [Datalux/Osintgram · GitHub](https://github.com/Datalux/Osintgram)
 - [FortyNorthSecurity/EyeWitness · GitHub](https://github.com/FortyNorthSecurity/EyeWitness)

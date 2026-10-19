@@ -5,7 +5,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 
 # AI Tools & Services
 
-**Total Bookmarks:** 735
+**Total Bookmarks:** 758
 
 
 ## Agents & Automation
@@ -15,8 +15,12 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - ⭐ **[Blackbox](https://www.blackbox.ai/)** — The high-trust platform for frontier inference
 - ⭐ **[n8n.io](https://n8n.io/)** / <a href="https://github.com/n8n-io/n8n"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — a powerful workflow automation tool
 - ⭐ **[Paperclip](https://paperclip.ing/)** / <a href="https://github.com/paperclipai/paperclip"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Open-source orchestration for zero-human companies
+- ⭐ **[Pi Coding Agent](https://pi.dev/)**
 - [agent-substrate/substrate](https://github.com/agent-substrate/substrate) — Agent Substrate: the core system
+- [AgentCraft](https://www.getagentcraft.com/) — RTS interface for agent orchestration
 - [AgentMetal](https://agentmetal.dev/) — the infra provider your agent can use itself
+- [AionUi](https://www.aionui.com/en/) — One desktop. Your AI agents, actually coworking.
+- [ajsahni/agents-office](https://github.com/ajsahni/agents-office) — Agents Office v3 (Beta) — a headless office where AI agents do real work
 - [AlphaCode](https://alphacode.ai/en)
 - [Amazon Bedrock](https://aws.amazon.com/bedrock/) — Build genAI applications and agents at production scale – AWS
 - [androoAGI/starnet](https://github.com/androoAGI/starnet) — A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.
@@ -59,6 +63,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [Lexfi · The AI Research Operating System for Institutional Investors](https://www.lexfi.ai/)
 - [LifeOS](https://ourlifeos.ai/) / <a href="https://github.com/danielmiessler/LifeOS"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Moving You From Current to Ideal State
 - [LobeHub](https://lobehub.com/) / <a href="https://github.com/lobehub/lobehub"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Your Chief Agent Operator
+- [lukapiskorec/craftbot](https://github.com/lukapiskorec/craftbot) — CraftBot is an architect AI agent. It interprets design briefs, grounds its thinking in domain knowledge through ingesting documents, images and other references, and outputs Python code that procedurally defines a building design.
 - [Make](https://www.make.com/en) — Work the way you imagine
 - [Microsoft UFO](https://microsoft.github.io/UFO/) / <a href="https://github.com/microsoft/UFO"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Weaving the Digital Agent Galaxy
 - [minitap](https://www.minitap.ai/) — Autonomous QA that keeps mobile teams shipping fast
@@ -70,11 +75,11 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [NVIDIA NeMo](https://www.nvidia.com/en-us/ai-data-science/products/nemo/) / <a href="https://github.com/NVIDIA-NeMo/NeMo"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Build, monitor, and optimize AI agents
 - [NVIDIA OpenShell](https://www.nvidia.com/en-us/ai/openshell/) / <a href="https://github.com/NVIDIA/OpenShell"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Open, Secure Runtime for AI Agents
 - [openclaude](https://openclaude.gitlawb.com/) / <a href="https://github.com/Gitlawb/openclaude"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — open-source coding agent CLI for any model
+- [OpenHuman](https://tinyhumans.ai/openhuman) / <a href="https://github.com/tinyhumansai"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — open source personal AI, local-first
 - [OpenRig](https://openrig.dev/) — Talk to one agent. Build with a whole team.
 - [Paca](https://paca-ai.org/) / <a href="https://github.com/Paca-AI/paca"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Humans and AI agents, one Scrum team
 - [Paseo](https://paseo.sh/) / <a href="https://github.com/getpaseo/paseo"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Run Claude Code, Codex, Copilot, OpenCode from anywhere
 - [Perplexity](https://www.perplexity.ai/personal-computer) — Personal Computer for Mac
-- [Pi Coding Agent](https://pi.dev/)
 - [PicoClaw](https://picoclaw.io/) / <a href="https://github.com/sipeed/picoclaw"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Ultra-Lightweight AI Assistant in Go for Raspberry Pi, Linux & RISC-V
 - [pinchtab/pinchtab](https://github.com/pinchtab/pinchtab) — High-performance browser automation bridge and multi-instance orchestrator with advanced stealth injection and real-time dashboard.
 - [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) — A self-improving RLM agent for coding workflows and long-running autonomous tasks
@@ -91,6 +96,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [SuperAGI](https://superagi.com/) — Build, Manage & Run Autonomous AI Agents
 - [SuperHQ](https://superhq.ai/) — Run AI coding agents in real sandboxes
 - [Swarms AI](https://www.swarms.ai/) / <a href="https://github.com/kyegomez/swarms"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Multi-Agent Framework & Agent Marketplace
+- [TinyHumans](https://tinyhumans.ai/) — open source AI agents that work for you
 - [Tobira](https://tobira.ai/) — AI Agent Network
 - [Univer](https://univer.ai/) / <a href="https://github.com/dream-num/univer"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [Venice](https://venice.ai/) — Private AI for Unlimited Creative Freedom
@@ -154,6 +160,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [Agent Skills Overview](https://agentskills.io/home) / <a href="https://github.com/agentskills/agentskills"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Agent Skills
 - [ai-boost/awesome-prompts · GitHub](https://github.com/ai-boost/awesome-prompts/tree/main)
 - [alonw0/web-asset-generator](https://github.com/alonw0/web-asset-generator) — Claude skill to generate favicons, app icons, and social media images from logos, text, or emojis. Supports emoji suggestions, validation, and framework auto-integration
+- [Anatomy · A skill for Claude Code](https://skills.wheresryan.sh/anatomy) / <a href="https://github.com/wheresryan22/anatomy"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [anthropics/claude-plugins-official · GitHub](https://github.com/anthropics/claude-plugins-official)
 - [anthropics/financial-services](https://github.com/anthropics/financial-services)
 - [anthropics/skills](https://github.com/anthropics/skills) — Public repository for Agent Skills
@@ -161,12 +168,15 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [asgeirtj/system_prompts_leaks · GitHub](https://github.com/asgeirtj/system_prompts_leaks)
 - [autoskills](https://www.autoskills.sh/) / <a href="https://github.com/midudev/autoskills"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Auto-install best AI skills for your project
 - [Awesome ChatGPT Prompts](https://prompts.chat/) / <a href="https://github.com/f/prompts.chat"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [ayghri/i-have-adhd · GitHub](https://github.com/ayghri/i-have-adhd)
 - [BuilderIO/skills](https://github.com/BuilderIO/skills) — Skills for coding agents
 - [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) — 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
 - [Caveman](https://caveman.so/) / <a href="https://github.com/juliusbrussee/caveman"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — the token-efficient stack for agent-native development
 - [Claude Code Skills, Plugins & MCP Servers](https://claudemarketplaces.com/)
 - [Claude Directory](https://www.claudedirectory.org/) / <a href="https://github.com/tmcpa/claudedirectory"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Community Alternative to claude.ai/directory
 - [ClawHub](https://clawhub.ai/) / <a href="https://github.com/openclaw/clawhub"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Context Mode](https://context-mode.com/) / <a href="https://github.com/mksglu/context-mode"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — The Control Plane for Coding Agents
+- [Diagram Design](https://diagramdesign.dev/) / <a href="https://github.com/cathrynlavery/diagram-design"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — editorial diagrams your designer won't hate
 - [foryourhealth111-pixel/Vibe-Skills · GitHub](https://github.com/foryourhealth111-pixel/Vibe-Skills)
 - [friuns2/BlackFriday-GPTs-Prompts · GitHub](https://github.com/friuns2/BlackFriday-GPTs-Prompts)
 - [garrytan/gstack](https://github.com/garrytan/gstack/tree/main) — Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
@@ -177,6 +187,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [hashgraph-online/awesome-codex-plugins · GitHub](https://github.com/hashgraph-online/awesome-codex-plugins)
 - [hivecommons/spektacular](https://github.com/hivecommons/spektacular) — Spec-driven development for AI coding agents. Spektacular helps you to generate specifications, the plan, and finally generate the code. Agent-agnostic and pluggable: Claude Code, Bob, Codex
 - [HOL Registry](https://hol.org/registry/plugins) — Claude Plugins, Codex Plugins, Grok Plugins, Gemini & MCP Plugins
+- [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) — OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) — Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI
 - [Learn Prompting](https://learnprompting.org/) — Your Guide to Communicating with AI
 - [Leonxlnx/taste-skill · GitHub](https://github.com/Leonxlnx/taste-skill)
@@ -185,6 +196,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) — The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
 - [mattpocock/skills](https://github.com/mattpocock/skills) — Skills for Real Engineers. Straight from my .claude directory.
 - [MiniMax-AI/skills](https://github.com/MiniMax-AI/skills)
+- [mksglu/context-mode](https://github.com/mksglu/context-mode) — Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
 - [mvanhorn/last30days-skill · GitHub](https://github.com/mvanhorn/last30days-skill)
 - [officialskills.sh](https://officialskills.sh/) / <a href="https://github.com/VoltAgent/awesome-agent-skills"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Official Agent Skills Directory
 - [openai/skills](https://github.com/openai/skills) — Skills Catalog for Codex
@@ -192,7 +204,10 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [phuryn/pm-skills](https://github.com/phuryn/pm-skills) — PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
 - [ponytail](https://ponytail.dev/) / <a href="https://github.com/DietrichGebert/ponytail"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [Prompt Engineering Guide](https://www.promptingguide.ai/)
+- [REA](https://morluto.github.io/rea/) / <a href="https://github.com/morluto/rea"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Reverse Engineer Anything
+- [REA](https://rea.tools/) / <a href="https://github.com/morluto/rea"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Reverse Engineering for Your Coding Agent
 - [teamchong/pxpipe](https://github.com/teamchong/pxpipe) — cut Fable 5 token usage by rendering text context as images
+- [text-to-cad](https://www.texttocad.dev/) / <a href="https://github.com/earthtojake/text-to-cad"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Give your agent CAD superpowers
 - [Wondel.ai Skills](https://skills.wondel.ai/) / <a href="https://github.com/wondelai/skills"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — 41 Business & Engineering Frameworks as AI Agent Skills
 - [zubair-trabzada/geo-seo-claude](https://github.com/zubair-trabzada/geo-seo-claude) — GEO-first SEO skill for Claude Code. Comprehensive AI search optimization for any website — citability scoring, AI crawler analysis, brand authority, schema markup, platform-specific optimization, and PDF reports. If you want learn how to sell this to real businesses, check out the skool community
 
@@ -293,6 +308,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [Amazon Rekognition](https://aws.amazon.com/rekognition/) — AWS
 - [ancaferro/myPhotos](https://github.com/ancaferro/myPhotos) — Face detection and cataloging for photo folders — OpenCV YuNet + SFace, Flask UI, SQLite
 - [Animaze by Facerig](https://www.animaze.us/) — Custom Avatars | Create Your own Avatar
+- [ArtCraft](https://getartcraft.com/) / <a href="https://github.com/storytold/artcraft"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Controllable AI for Artists
 - [AutoSprite](https://www.autosprite.io/) — AI Sprite Sheet Generator | Create Game Animations in Seconds
 - [Best Face Swap AI](https://www.bestfaceswap.ai/) — Advanced AI Faceswap Tool Online
 - [Bigjpg](https://bigjpg.com/en)
@@ -390,8 +406,9 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [Remusic](https://remusic.ai/en) — Generate your Unique Music for Free
 - [Riffusion](https://www.riffusion.com/)
 - [Score Transformer](https://score-transformer.github.io/)
+- [ServeurpersoCom/acestep.cpp](https://github.com/ServeurpersoCom/acestep.cpp) — Portable C++17 implementation of ACE-Step 1.5 AI Music Generator using GGML. Text + lyrics in, stereo 48kHz MP3 or WAV out. Runs on CPU, CUDA, ROCm, Metal, Vulkan.
 - [SigSep](https://sigsep.github.io/open-unmix/)
-- [Suno AI](https://suno.com/home)
+- [Suno AI](https://suno.com/)
 - [TopMediai](https://www.topmediai.com/) — Premier Destination for AI-Powered Audio Tools & More
 - [Treblo](https://treblo.com/) — Free AI Music Generator
 - [Uberduck](https://www.uberduck.ai/) — Make Music with AI Vocals
@@ -438,6 +455,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [OneClip](https://www.oneclip.io/) — Create UGC Ads in seconds using AI.
 - [OpenAI](https://sora.com/) — Sora
 - [Openmagic](https://omagic.ai/)
+- [OpusClip](https://www.opus.pro/) — #1 AI video clipping tool to create viral shorts
 - [Phenaki](https://phenaki.video/)
 - [Photorealistic Video Generation with Diffusion Models](https://walt-video-diffusion.github.io/)
 - [Pickle](https://getpickle.ai/) — Your AI body double in zoom calls
@@ -478,11 +496,13 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [black-forest-labs/FLUX.1-schnell · Hugging Face](https://huggingface.co/black-forest-labs/FLUX.1-schnell)
 - [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) — RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, saves VRAM, fast training, "infinite" ctx_len, and free sentence embedding.
 - [ByteDance Seed](https://seed.bytedance.com/en/)
+- [Cloudflare/clef · Hugging Face](https://huggingface.co/Cloudflare/clef)
 - [Cog](https://cog.run/)
 - [Cohere](https://cohere.com/) — The leading AI platform for enterprise
 - [comfyanonymous/flux_text_encoders · Hugging Face](https://huggingface.co/comfyanonymous/flux_text_encoders)
 - [DeepImage-an-Image-to-Image-technology · GitHub](https://github.com/yuanxiaosc/DeepImage-an-Image-to-Image-technology)
 - [deepseek-ai/Janus](https://github.com/deepseek-ai/Janus/) — Janus-Series: Unified Multimodal Understanding and Generation Models
+- [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF · Hugging Face](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF)
 - [Face_recognition · GitHub](https://github.com/ageitgey/face_recognition)
 - [facebookresearch/audiocraft · GitHub](https://github.com/facebookresearch/audiocraft)
 - [FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c) — A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.
@@ -692,6 +712,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [AgenticOS](https://www.hyper.space/login) — The Operating System for Autonomous AI Agents
 - [AIMLAPI.com](https://aimlapi.com/) — Access 400+ AI Models with a Single AI API
 - [alibaba/MNN · GitHub](https://github.com/alibaba/MNN)
+- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) — Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)
 - [Amazon Q](https://aws.amazon.com/q/) — AWS
 - [AMD-AIG-AIMA/Instella](https://github.com/AMD-AIG-AIMA/Instella) — Fully Open Language Models with Stellar Performance
 - [Andyyyy64/whichllm](https://github.com/Andyyyy64/whichllm) — Find the local LLM that actually runs and performs best on your hardware
@@ -717,9 +738,11 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [Langfuse](https://langfuse.com/) / <a href="https://github.com/langfuse/langfuse"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [Liquid AI](https://www.liquid.ai/) — Build efficient general-purpose AI at every scale
 - [LiteLLM](https://litellm.ai/) / <a href="https://github.com/BerriAI/litellm"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [lkarlslund/laya.cpp](https://github.com/lkarlslund/laya.cpp) — C++ inference for Laya typed decisions - supports CUDA, Vulkan, Core ML, CPU
 - [Llama.cpp](https://llama-cpp.com/) / <a href="https://github.com/ggml-org/llama.cpp"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Run LLM Inference in C/C++
 - [LLMLingua Series](https://llmlingua.com/) / <a href="https://github.com/microsoft/LLMLingua"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Effectively Deliver Information to LLMs via Prompt Compression
 - [lyogavin/airllm](https://github.com/lyogavin/airllm) — AirLLM 70B inference with single 4GB GPU · GitHub
+- [microsoft/BitNet](https://github.com/microsoft/BitNet) — Official inference framework for 1-bit LLMs
 - [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) — Integrate cutting-edge LLM technology quickly and easily into your apps
 - [MLC LLM](https://llm.mlc.ai/) / <a href="https://github.com/mlc-ai/mlc-llm"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Home
 - [MLX](https://ml-explore.github.io/mlx/build/html/index.html) / <a href="https://github.com/ml-explore/mlx"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — MLX 0.31.2 documentation

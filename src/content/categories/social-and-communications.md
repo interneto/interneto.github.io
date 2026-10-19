@@ -5,7 +5,7 @@ description: Email, messaging, forums, social networks, and video conferencing
 
 # Social & Communications
 
-**Total Bookmarks:** 1298
+**Total Bookmarks:** 1302
 
 
 ## 2FA
@@ -118,6 +118,7 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [LFTP](https://lftp.yar.ru/) — sophisticated file transfer program
 - [MateusRodCosta/SaveLocally](https://github.com/MateusRodCosta/SaveLocally) — Save files locally via the share menu
 - [NeoDownloader](https://www.neodownloader.com/) — web image downloader
+- [Plexo](https://getplexo.app/) / <a href="https://github.com/anmolkapil/plexo"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Combine your networks. Download faster.
 - [pyLoad](https://pyload.net/) / <a href="https://github.com/pyload/pyload"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [tharunbirla/FetchIt](https://github.com/tharunbirla/FetchIt) — FetchIt is an Android application that makes downloading videos from a wide variety of platforms easy and efficient. Whether saving videos from popular social media, streaming sites, or video platforms.
 - [Turbo Download Manager (3rd Edition)](https://webextension.org/listing/turbo-download-manager-v2.html)
@@ -585,6 +586,9 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [Hacoo](https://www.hacoo.app/) — Sharing Discovering & Inspiring
 - [Kuaishou](https://www.kuaishou.com/new-reco)
 - [mu · a mew social thing](https://hello.mu.social/) / <a href="https://github.com/eurosky-social/eurosky-social-app"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Nexu App](https://nexu-app.com/) — Real Dating, Anti-Ghosting and Local Plans in your City
+- [Oneamour](https://oneamour.com/profile) — a Platform for Socializing and Expanding Your Network
+- [Oneamour](https://oneamour.com/matches) — a Platform for Socializing and Expanding Your Network
 - [SEEK](https://www.seek.com.au/) — Australia's no. 1 jobs, employment, career and recruitment site
 
 ### Social Media

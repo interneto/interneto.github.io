@@ -5,7 +5,7 @@ description: Workouts, wellness, and health tracking
 
 # Health & Fitness
 
-**Total Bookmarks:** 351
+**Total Bookmarks:** 368
 
 - [Alma](https://www.alma.food/) — Your Nutrition Companion | Track, Learn & Discover Food
 - [Barbell Medicine](https://www.barbellmedicine.com/) — Science-Based Coaching & Nutrition
@@ -140,6 +140,7 @@ description: Workouts, wellness, and health tracking
 - ⭐ **[RecipeSage](https://recipesage.com/#/welcome)** — The Personal Recipe Keeper
 - ⭐ **[Recipya](https://recipya-app.musicavis.ca/)**
 - ⭐ **[Tandoor](https://tandoor.dev/)** / <a href="https://github.com/TandoorRecipes/recipes"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Smart recipe management
+- [AvoCook](https://logarex.github.io/AvoCook/) / <a href="https://github.com/Logarex/AvoCook"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Carnet de recettes mobile
 - [Bar Assistant](https://barassistant.app/)
 - [Broccoli](https://flauschcode.com/broccoli-the-green-recipe-app-for-android/) / <a href="https://github.com/flauschtrud/broccoli"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — The Green Recipe App for Android - flauschcode
 - [COOK mate](https://www.cookmate.online/en/home/)
@@ -156,6 +157,7 @@ description: Workouts, wellness, and health tracking
 - [jt196/vanilla-cookbook](https://github.com/jt196/vanilla-cookbook) — A deceptively simple recipe manager
 - [judemont/reciper](https://codeberg.org/judemont/reciper) — 🍳 Your Ultimate Kitchen Companion!
 - [judemont/reciper](https://github.com/judemont/reciper?tab=readme-ov-file) — 🍳 Your Ultimate Kitchen Companion! 📱
+- [kafkade/fond · GitHub](https://github.com/kafkade/fond)
 - [Kitchenese](https://kitchenese.io/)
 - [KitchenOwl](https://kitchenowl.org/)
 - [KitchenPal, your kitchen on your phone](https://kitchenpalapp.com/en/) — shared pantry, grocery lists, meal planner, recipes & more.
@@ -166,6 +168,7 @@ description: Workouts, wellness, and health tracking
 - [Meal37](https://meal37.com/) — Simplify Your Culinary Journey with Meal37
 - [Mealime](https://www.mealime.com/) — Meal Planning App for Healthy Eating - Get it for Free Today!
 - [Mela Recipes](https://mela.recipes/)
+- [oliexdev/openCook · GitHub](https://github.com/oliexdev/openCook)
 - [OrganizEat](https://home.organizeat.com/)
 - [Pangea Recipes](https://www.pangearecipes.com/) / <a href="https://github.com/hello-pangea/pangea-recipes"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Recipe Manager
 - [Pepperplate](https://www.pepperplate.com/) — Your recipes, menus, shopping lists and cooking timers.
@@ -175,6 +178,8 @@ description: Workouts, wellness, and health tracking
 - [RecipeBox](https://www.recipebox.com/) — Store your favorite recipes in one place for free
 - [Recipes & Cookbooks](https://www.bettycrocker.com/) — Food, Cooking Recipes
 - [Saffron Cooking App](https://www.mysaffronapp.com/)
+- [sbmagar13/recipe-jar · GitHub](https://github.com/sbmagar13/recipe-jar)
+- [Simo-JDev/cookBook · GitHub](https://github.com/Simo-JDev/cookBook)
 - [Stashcook](https://stashcook.com/) — The Simple Meal Planning App
 - [Tamari Recipe Manager](https://tamariapp.com/) / <a href="https://github.com/alexbates/Tamari"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [Umami](https://www.umami.recipes/) — Recipe Manager for iOS and Android
@@ -246,13 +251,19 @@ description: Workouts, wellness, and health tracking
 - [Zumba Fitness](https://www.zumba.com/es-ES)
 
 ### Fitness App
+- ⭐ **[LibreFit](https://librefit.org/)** / <a href="https://github.com/LibreFitOrg/LibreFit"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — The free and private workout tracker
+- ⭐ **[openGym](https://opengym.ch/)** / <a href="https://github.com/DuarteSantos8/openGym"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — your workouts, your weights, your data
 - ⭐ **[wger](https://wger.de/en/software/features)** / <a href="https://github.com/wger-project/wger"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
-- ⭐ **[Workout Cool](https://workout.cool/)**
+- ⭐ **[Workout Cool](https://workout.cool/en)**
 - [8fit](https://8fit.com/) — Custom Home Workouts App, Healthy Meal and Nutrition Plans
+- [Alpha Progression · Gym Tracker & Workout Planner](https://alphaprogression.com/en)
 - [amp](https://ampfit.com/) — the AI-powered fitness machine made for modern life
 - [Atafitclub](https://altafitgymclub.com/)
 - [AxiomRun](https://axiomrun.com/)
+- [BetterMe](https://betterme.world/) — Personalized holistic wellness solution
 - [Bikemap](https://www.bikemap.net/) — Bicycle tracks, Route Planner, Bike Computer App
+- [Boostcamp](https://www.boostcamp.app/) — Free Workout Tracker & Program App for Every Level
+- [Caliber Fitness](https://caliberstrong.com/) — Science-Based Fitness Coaching
 - [Calistenia](https://www.calistenia.net/)
 - [Caynax](https://www.caynax.com/)
 - [Charity Miles App](https://charitymiles.org/)
@@ -266,30 +277,43 @@ description: Workouts, wellness, and health tracking
 - [FEDA](https://www.feda.net/)
 - [Firefly](https://www.firefly.fitness/) — Fitness Trainer
 - [Fit! app](https://www.joinfitapp.com/)
-- [Fitbod](https://fitbod.me/)
+- [Fitbod](https://fitbod.me/) — Workout Planner & Fitness App
+- [Fitloop](https://fitloop.app/) — Free Calisthenics & Gym Workout Tracker
 - [Fitness.daily](https://fitnessdaily.online/)
 - [Fitness22](https://www.fitness22.com/)
+- [FitNotes](https://www.fitnotesapp.com/) — Gym Workout Log App - FitNotes
+- [FitOn](https://fitonapp.com/)
 - [Foroatletismo](https://www.foroatletismo.com/)
+- [FREELETICS](https://www.freeletics.com/en/) — Intensive workouts & individual training plans
+- [Google Fit](https://www.google.com/fit/)
 - [GOWOD](https://www.gowod.app/) — Personalized Mobility & Stretching For Every Sport
 - [Gym Virtual](http://gymvirtual.com/)
 - [Haga Calentamiento](http://www.hagacalentamiento.com/)
+- [Hevy](https://www.hevyapp.com/) — Workout Tracker
 - [Intervals.icu](https://www.intervals.icu/) — Free Cycling, Running, Triathlon Training Platform
+- [JEFIT](https://www.jefit.com/) — Your Ultimate Workout Planner & Tracking App for Progress
 - [JustFit App](https://justfit.app/) — At-Home Workouts & Fitness Programs for Women
 - [LiftLog](https://liftlog.online/) — The Best Open Source Workout Tracker
 - [MadMuscles](https://madmuscles.com/) — Personalized workout program
 - [MapMyRun](https://www.mapmyrun.com/)
 - [MKFit App](https://mkfit.co/)
 - [Mr Fitness Science](https://mrfitnesscience.com/)
+- [Muscle Charge](https://www.musclecharge.app/) — Fitness & Weight Loss Plans for Men Over 40
 - [MySports App](https://www.mysports.com/business/de/?utm_source=duckduckgo&utm_medium=referral) — MySports Member Platform
 - [NeuroNation](https://www.neuronation.com/)
+- [Peloton](https://www.onepeloton.com/) — Workouts Streamed Live & On-Demand
 - [petergardfjall/garminexport](https://github.com/petergardfjall/garminexport) — Garmin Connect activity exporter and backup tool
 - [pliability // #1 mobility, stretching + recovery app](https://pliability.com/)
 - [RDFit SmartWatch App](https://rdfit.net/)
+- [Reverse Health](https://reverse.health/) — Fitness & Weight Loss Plans for Women over 40
 - [Running Trainer](http://www.runningtrainer.com/)
+- [Simple](https://simple.life/) — Weight Loss & Health Coaching
 - [Simpledesign.ltd](https://simpledesign.ltd/)
 - [SmartGym](https://smartgymapp.com/)
 - [Streaks app](https://streaksapp.com/)
 - [STRETCHIT](https://stretchitapp.com/en/) — Videos for flexibility
+- [Strong.app](https://www.strong.app/)
+- [VGFIT](https://vgfit.com/home) — Fitness Apps And Workouts for iOS and Android
 - [Volava](https://www.volava.com/)
 - [VOS.health](https://www.vos.health/en/) — Mental Health App
 - [Wahoo Fitness](https://www.wahoofitness.com/) — Shop Indoor Bikes, Bike Trainers, & More
@@ -341,15 +365,6 @@ description: Workouts, wellness, and health tracking
 - [Xuan Lan Yoga](https://xuanlanyoga.com/) — Clases de Yoga Online
 - [Yoga Poses Dictionary](https://www.pocketyoga.com/pose/) — Pocket Yoga
 - [Yogimi](https://yogimi.es/)
-
-### Workout App
-- ⭐ **[LibreFit](https://librefit.org/)** / <a href="https://github.com/LibreFitOrg/LibreFit"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — The free and private workout tracker
-- [Alpha Progression · Gym Tracker & Workout Planner](https://alphaprogression.com/en)
-- [Boostcamp](https://www.boostcamp.app/) — Free Workout Tracker & Program App for Every Level
-- [Caliber Fitness](https://caliberstrong.com/) — Science-Based Fitness Coaching
-- [FitNotes](https://www.fitnotesapp.com/) — Gym Workout Log App - FitNotes
-- [Hevy](https://www.hevyapp.com/) — Workout Tracker
-- [Strong.app](https://www.strong.app/)
 
 ## Sleep Monitor
 - [Beddit Sleep Monitor](https://www.beddit.com/)

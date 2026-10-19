@@ -5,7 +5,7 @@ description: Stores, marketplaces, product research, and resale
 
 # Business & Commerce
 
-**Total Bookmarks:** 5112
+**Total Bookmarks:** 5115
 
 
 ## Corporation
@@ -404,6 +404,7 @@ description: Stores, marketplaces, product research, and resale
 - [Back Market](https://www.backmarket.com/en-us) — Your Refurbished (Super) Market
 - [Banggood](https://www.banggood.com/)
 - [Best Buy](https://www.bestbuy.com/)
+- [Big Cartel](https://www.bigcartel.com/)
 - [bol.com](https://www.bol.com/nl/nl/)
 - [Bonanza](https://www.bonanza.com/)
 - [BOOTH](https://booth.pm/en) — The International Indie Art Marketplace
@@ -445,6 +446,7 @@ description: Stores, marketplaces, product research, and resale
 - [Rakuten jp](https://www.rakuten.co.jp/)
 - [Redbubble](https://www.redbubble.com/)
 - [Sainsbury's](https://www.sainsburys.co.uk/)
+- [Sendowl](https://sendowl.com/)
 - [Shopee México](https://shopee.com.mx/)
 - [Sunning](https://www.suning.com/)
 - [TaoBao](https://main.m.taobao.com/) — 淘宝
@@ -455,6 +457,7 @@ description: Stores, marketplaces, product research, and resale
 - [TMall](https://www.tmall.com/)
 - [Tokopedia](https://www.tokopedia.com/)
 - [Tomtop](https://www.tomtop.com/)
+- [Total Life Changes](https://totallifechanges.com/)
 - [TradeIndia](https://www.tradeindia.com/)
 - [TradingShenzhen](https://tradingshenzhen.com/en) — Smartphones / Gadgets for BEST PRICE
 - [Vintage Design Marketplace](https://www.vntg.com/) — VNTG
@@ -837,7 +840,6 @@ description: Stores, marketplaces, product research, and resale
 - [Naisa](https://naisa.es/)
 - [Nordstrom](https://www.nordstrom.com/)
 - [ODG Store](https://odgkids.com/)
-- [Peloton](https://www.onepeloton.com/) — Workouts Streamed Live & On-Demand
 - [Primark](https://www.primark.com/)
 - [Prozis](https://www.prozis.com/es/es/)
 - [Qwertee.com](https://www.qwertee.com/)
@@ -3338,6 +3340,7 @@ description: Stores, marketplaces, product research, and resale
 - [DeepMind](https://www.deepmind.com/)
 - [Digital Barriers](https://www.digitalbarriers.com/)
 - [EdgeVerve](https://www.edgeverve.com/)
+- [Empero](https://empero.org/) — Independent AI Research Lab
 - [Engati](https://www.engati.com/)
 - [FindFace.pro](https://findface.pro/)
 - [H](https://hcompany.ai/) — Operational intelligence for the enterprise
@@ -3365,6 +3368,7 @@ description: Stores, marketplaces, product research, and resale
 - [Numier](https://www.numier.com/) — Software TPV
 - [ONNX Runtime](https://onnxruntime.ai/)
 - [Onpassive](https://www.onpassive.com/)
+- [OpenAI](https://openai.com/)
 - [OpenCV](https://opencv.org/) / <a href="https://github.com/opencv/opencv"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [OpenCV.ai](https://www.opencv.ai/)
 - [OpenMOSS](https://www.open-moss.com/)
@@ -3394,11 +3398,6 @@ description: Stores, marketplaces, product research, and resale
 - [Wipro](https://www.wipro.com/)
 - [WOMBO](https://www.w.ai/) — w.ai
 - [Z.ai](https://www.zhipuai.cn/en) — Inspiring AGI to Benefit Humanity
-
-###### OpenAI
-- [OpenAI](https://openai.com/)
-- [OpenAI Cookbook](https://cookbook.openai.com/)
-- [OpenAI Status](https://status.openai.com/)
 
 ##### Consumer Experience
 - [CM.com](https://www.cm.com/)
@@ -5537,6 +5536,7 @@ description: Stores, marketplaces, product research, and resale
 
 ## Job Portal
 - [EU Careers](https://eu-careers.europa.eu/en)
+- [PayScale](https://www.payscale.com/)
 
 ### Employee Orientation
 - [¿Cómo redactar un contrato?](https://sites.google.com/site/redacespecializada/home/24-como-redactar-un-contrato)
@@ -5569,6 +5569,7 @@ description: Stores, marketplaces, product research, and resale
 - [Cronoshare](https://www.cronoshare.com/)
 - [Emplea.eu](http://www.emplea.eu/)
 - [Empleate Santa Cruz](https://www.empleasantacruz.com/)
+- [EU Remote Jobs](https://euremotejobs.com/)
 - [Eulen Group](https://eulen.com/es/en/)
 - [Eurofirms](https://www.eurofirms.com/es/es/)
 - [FAUCA](https://www.fauca.org/)

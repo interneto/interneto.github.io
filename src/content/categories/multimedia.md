@@ -5,7 +5,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 
 # Multimedia
 
-**Total Bookmarks:** 2199
+**Total Bookmarks:** 2209
 
 
 ## Audio & Music
@@ -345,6 +345,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [Astrofox](https://astrofox.io/)
 - [karlstav/cava · GitHub](https://github.com/karlstav/cava)
 - [Oscilloscope Music](https://oscilloscopemusic.com/watch/n-spheres)
+- [Oscilloscope Music](https://oscilloscopemusic.com/software/oscilloscope/) / <a href="https://github.com/kritzikratzi/Oscilloscope"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 
 #### Podcast Client
 - [AntennaPod](https://antennapod.org/) / <a href="https://github.com/AntennaPod/AntennaPod"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — The Open Podcast Player
@@ -400,6 +401,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [audio noise](https://audiodenoise.com/)
 - [Audiodirector](https://www.cyberlink.com/products/audiodirector/features_en_US.html) — Cyberlink
 - [AudioMass](https://audiomass.co/)
+- [Audionaut](https://audionaut.app/) / <a href="https://github.com/kvoltmer/Audionaut"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Free, Open-Source Audio Editor for macOS, Windows and Linux
 - [Auphonic](https://auphonic.com/)
 - [Cakewalk](https://www.cakewalk.com/)
 - [Cakewalk by BandLab](https://www.bandlab.com/products/cakewalk)
@@ -548,6 +550,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [Helm](https://tytel.org/helm/) — Free Synth by Matt Tytel
 - [Mellite](https://www.sciss.de/mellite/)
 - [osci-render](https://osci-render.com/)
+- [Polarity Productions](https://polarity.productions/)
 - [Supercllieder](https://supercollider.github.io/) / <a href="https://github.com/supercollider/supercollider"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [Surge](https://surge-synthesizer.github.io/)
 - [TheWaveWarden](https://www.thewavewarden.com/odin2)
@@ -815,6 +818,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [Bimlyte](https://app.bimlyte.com/) — Smart Tools for Everyday BIM Tasks
 - [Brik AI](https://brik.space/) — Turn Creative Vision into Living Design Tools
 - [Capacity](https://capacity.so/) — Turn that idea you had in mind into a website
+- [Doory](https://doory.art/) / <a href="https://github.com/shaongitbd/doory"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Design anything. Free.
 - [Dynamo BIM](https://dynamobim.org/) / <a href="https://github.com/DynamoDS"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [EasternGraphics](https://www.easterngraphics.com/en/)
 - [Jitter · Fast and simple motion design tool](https://jitter.video/)
@@ -837,7 +841,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [Wondershare Mockitt](https://mockitt.wondershare.com/)
 
 #### Presentation Program
-- ⭐ **[Canva](https://www.canva.com/en/)** — Free Design Tool
+- ⭐ **[Canva](https://www.canva.com/)** — Free Design Tool
 - ⭐ **[Gamma](https://gamma.app/)**
 - ⭐ **[Genial.ly](https://genial.ly/)** — platform for interactive animation content
 - ⭐ **[Graphite.rs editor](https://editor.graphite.rs/)**
@@ -1211,6 +1215,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [Paintbrush](https://paintbrush.sourceforge.io/)
 - [Pencil Planner](https://sourceforge.net/projects/pencil-planner/)
 - [Pencil Project](https://pencil.evolus.vn/) / <a href="https://github.com/evolus/pencil"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [PhotoCraft](https://getartcraft.com/apps/photocraft) / <a href="https://github.com/storytold/photocraft"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — The image editor you already know how to use.
 - [PhotoDemon](https://photodemon.org/)
 - [PixaFlux](https://www.pixaflux.com/)
 - [Pixelitor](https://pixelitor.sourceforge.io/)
@@ -1496,6 +1501,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [DraftSight](https://www.draftsight.com/) — 2D CAD Design and Drafting Software
 - [dubstar-04/Design](https://github.com/dubstar-04/Design) — 2D CAD For GNOME
 - [Dune 3D](https://dune3d.org/)
+- [Encrust](https://encrust.app/) / <a href="https://github.com/vvvlladimir/Encrust"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — the resin slicer that answers to you
 - [FluidCAD](https://fluidcad.io/) — Parametric CAD for everyone
 - [Fusion 360](https://www.autodesk.com/campaigns/fusion-360)
 - [Graphisoft Archicad](https://www.graphisoft.com/en-us/plans-and-products/archicad/) — BIM Software for Architects
@@ -1568,6 +1574,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [appleseed](https://appleseedhq.net/) — A modern, open source production renderer
 - [Chaos](https://www.chaos.com/) — 3D Rendering & Simulation featuring V-Ray
 - [Chaos Corona](https://corona-renderer.com/)
+- [Character Creator](https://www.reallusion.com/character-creator/) — 3D Character Design Software
 - [F3D](https://f3d-app.github.io/f3d/)
 - [Flamenco](https://flamenco.blender.org/) / [🔗](https://projects.blender.org/studio/flamenco)
 - [google/filament · GitHub](https://github.com/google/filament)
@@ -2400,3 +2407,8 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [Moonlight Game Streaming](https://moonlight-stream.org/) — Play Your PC Games Remotely
 - [Steam Remote Play](https://store.steampowered.com/remoteplay)
 - [Video & TV Cast](https://video-tv-cast.com/)
+
+### Video Streaming app
+- ⭐ **[MediaHub-Org/PlayTorrioMov](https://github.com/MediaHub-Org/PlayTorrioMov)** — PlayTorrio fork adapted just for Movies/Series/Anime with SOLID UI/UX
+- ⭐ **[Vyla Home](https://vyla.cc/)** / <a href="https://gitlab.com/vyla-entertainment/home"><img class="source-host-icon" src="/img/source-hosts/gitlab.svg" alt="GitLab" title="GitLab" width="14" height="14" loading="lazy"></a> — Self-Hosted Desktop Media Center
+- [CloudStream APK Official Download v4.8.0](https://cloudstream-apk.com/) / <a href="https://github.com/recloudstream/cloudstream"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — All Repositories

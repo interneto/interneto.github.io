@@ -5,7 +5,7 @@ description: Browsers and browser-related tools
 
 # Web Browsers
 
-**Total Bookmarks:** 143
+**Total Bookmarks:** 144
 
 - [Arc from The Browser Company](https://arc.net/)
 - [Blanc Browser](https://blancbrowser.com/) / <a href="https://github.com/bnfy/blanc"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — A minimal desktop browser with built-in ad blocking
@@ -14,6 +14,7 @@ description: Browsers and browser-related tools
 - [ChatGPT Atlas](https://chatgpt.com/atlas)
 - [chawan](https://sr.ht/~bptato/chawan/) — TUI Web Browser
 - [Cockroach Browser](https://cockroachbrowser.com/) / <a href="https://github.com/AjnasNB/cockroach-browser"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — AI browser automation
+- [Dejavu Browser](https://dejavubrowser.byarchitect.org/) / <a href="https://github.com/by-architect/Dejavu"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Android browser that syncs with Zen Browser
 - [Dillo Website](https://dillo-browser.github.io/)
 - [EinkBro](https://einkbro.github.io/overview.html)
 - [firedragon-browser · GitHub](https://github.com/dr460nf1r3/firedragon-browser)
