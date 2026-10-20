@@ -5,7 +5,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 
 # System Administration
 
-**Total Bookmarks:** 1355
+**Total Bookmarks:** 1356
 
 - [osquery](https://osquery.io/)
 - [PIVPN](https://pivpn.io/) — Simplest way to setup a VPN
@@ -1118,6 +1118,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [Tshark](https://tshark.dev/)
 
 ### Remote Control
+- [Beamer](https://beamerapp.co.uk/) — free software KVM for Mac, Windows and Linux
 - [ismartcoding/plain-app · GitHub](https://github.com/ismartcoding/plain-app)
 - [KDE Connect](https://play.google.com/store/apps/details?id=org.kde.kdeconnect_tp) — Apps on Google Play
 - [Universal TV Remote-ZaZa Remot](https://play.google.com/store/apps/details?id=com.tiqiaa.remote) — Apps on Google Play

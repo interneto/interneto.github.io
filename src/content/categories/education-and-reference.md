@@ -5,7 +5,7 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 
 # Education & Reference
 
-**Total Bookmarks:** 1313
+**Total Bookmarks:** 1316
 
 - [Academia Lab](https://academia-lab.com/)
 - [DosisPedia](https://dosispedia.com/)
@@ -1381,6 +1381,7 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [3D Conway's Game of Life](https://rbeaulieu.github.io/3DGameOfLife/3DGameOfLife.html) / <a href="https://github.com/RBeaulieu/3DGameOfLife"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
 - [Airplane Simulation](https://walter.bislins.ch/bloge/index.asp?page=Airplane+Simulation+%28Version+1%29) — Walter Bislins
 - [Automating the Search for Artificial Life with Foundation Models](https://pub.sakana.ai/asal/) / <a href="https://github.com/SakanaAI/asal"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Back-In Parking Trainer](https://parking-simulator.com/#%7B%22mode%22%3A%22backIn%22%2C%22car%22%3A%7B%22id%22%3A%22compact%22%2C%22lengthM%22%3A4%2C%22widthM%22%3A1.7%2C%22wheelbaseM%22%3A2.6%2C%22rearOverhangM%22%3A0.6%2C%22minTurnRadiusM%22%3A4.8%2C%22eyeHeightM%22%3A1.22%7D%2C%22aisleWidthM%22%3A5%2C%22spotWidthM%22%3A2.5%2C%22spotDepthM%22%3A5%2C%22bayLengthM%22%3A6.5%2C%22bayDepthM%22%3A2.2%2C%22wallMode%22%3A%22lines%22%2C%22wallHeightM%22%3A1.35%2C%22farSide%22%3A%22line%22%2C%22neighbors%22%3A%22both%22%2C%22neighborSetbackM%22%3A0%2C%22targetMarginM%22%3A0.3%2C%22approachSide%22%3A%22right%22%2C%22guidance%22%3A%22auto%22%2C%22seatSide%22%3A%22right%22%2C%22margins%22%3A%7B%22inM%22%3A0.15%2C%22outM%22%3A0.15%2C%22rowM%22%3A0.15%7D%7D)
 - [Cellular Automata Laboratory](https://www.fourmilab.ch/cellab/webca/)
 - [Conway's Game of Life](https://play.google.com/store/apps/details?id=com.jobik.gameoflife) / <a href="https://github.com/Efimj/GameOfLife"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Google Play Store
 - [daneelsan/Wireworld](https://github.com/daneelsan/Wireworld) — a Turing-complete cellular automaton suited for simulating logic gates and other real-world computer elements
@@ -1391,6 +1392,7 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [Golly Game of Life](https://golly.sourceforge.io/) / <a href="https://sourceforge.net/projects/golly/"><img class="source-host-icon" src="/img/source-hosts/sourceforge.svg" alt="SourceForge" title="SourceForge" width="14" height="14" loading="lazy"></a>
 - [HEC-HMS](https://www.hec.usace.army.mil/software/hec-hms/)
 - [Holocloth](https://holocloth.vercel.app/)
+- [How to Park a Car](https://parking-simulator.com/guide/) — the Reference-Point Method — Parking Simulator Guide
 - [JaamSim Pro](https://www.jaamsimpro.com/)
 - [Lenia](https://lenia.berrry.app/) — Continuous Cellular Automaton
 - [Lenia3D](https://katielocks.github.io/Projects/Lenia3D/)
@@ -1398,6 +1400,7 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [NI](https://www.ni.com/en/shop/labview.html) — LabVIEW
 - [NOBOOK Virtual Laboratory](https://chemistry-en.nobook.com/console/templates/resource)
 - [OpenRocket Simulator](https://openrocket.info/) / <a href="https://github.com/openrocket/openrocket"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Parking Simulator Online](https://learnparking.academy/) — ParkLab — Learn Parking Academy
 - [PhET Simulations](https://phet.colorado.edu/en/simulations/filter) — University of Colorado Boulder
 - [Pražský Orloj](https://orloj.org/orloj/) — Prague Astronomical Clock Simulator
 - [simulator.io](https://simulator.io/) — Build and simulate logic circuits

@@ -5,7 +5,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 
 # AI Tools & Services
 
-**Total Bookmarks:** 755
+**Total Bookmarks:** 756
 
 
 ## Agents & Automation
@@ -399,6 +399,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [Amazon Alexa Voice AI](https://developer.amazon.com/en-US/alexa)
 - [Google Assistant](https://assistant.google.com/)
 - [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) — Build local voice agents with open-source models
+- [Inworld AI](https://inworld.ai/) — Realtime AI for consumer-facing applications
 - [Norwood Systems](https://norwoodsystems.com/)
 - [OpenVoiceOS](https://openvoiceos.com/) — voice AI platform for everyone
 - [Pico voice](https://picovoice.ai/) — On-device Voice AI and local LLM platforms for Enterprises

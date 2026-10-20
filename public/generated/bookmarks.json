@@ -6894,6 +6894,23 @@
     "createdAt": "2023-01-22T20:59:43.027Z"
   },
   {
+    "id": "1895542455",
+    "title": "Inworld AI – Realtime AI for consumer-facing applications",
+    "url": "https://inworld.ai/",
+    "description": "#1 ranked TTS with under 200ms latency, voice cloning, and 75% lower cost. Realtime agents built for scale.",
+    "domain": "inworld.ai",
+    "cover": "https://static.inworld.ai/public-website-2025/images/content/ef2a8b880740be311855c2c9da4eb2ebb7b26e1f-2400x1260.png",
+    "favorite": false,
+    "category": "ai-tools-and-services",
+    "subcategory": [
+      "Generative Media",
+      "AI Speech & Voice"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-20T12:20:38.686Z"
+  },
+  {
     "id": "1882999506",
     "title": "iOfficeAI/OfficeCLI: OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
     "url": "https://github.com/iOfficeAI/OfficeCLI",
@@ -164383,6 +164400,22 @@
     "createdAt": "2022-03-09T16:51:16.168Z"
   },
   {
+    "id": "1895622299",
+    "title": "Back-In Parking Trainer",
+    "url": "https://parking-simulator.com/#%7B%22mode%22%3A%22backIn%22%2C%22car%22%3A%7B%22id%22%3A%22compact%22%2C%22lengthM%22%3A4%2C%22widthM%22%3A1.7%2C%22wheelbaseM%22%3A2.6%2C%22rearOverhangM%22%3A0.6%2C%22minTurnRadiusM%22%3A4.8%2C%22eyeHeightM%22%3A1.22%7D%2C%22aisleWidthM%22%3A5%2C%22spotWidthM%22%3A2.5%2C%22spotDepthM%22%3A5%2C%22bayLengthM%22%3A6.5%2C%22bayDepthM%22%3A2.2%2C%22wallMode%22%3A%22lines%22%2C%22wallHeightM%22%3A1.35%2C%22farSide%22%3A%22line%22%2C%22neighbors%22%3A%22both%22%2C%22neighborSetbackM%22%3A0%2C%22targetMarginM%22%3A0.3%2C%22approachSide%22%3A%22right%22%2C%22guidance%22%3A%22auto%22%2C%22seatSide%22%3A%22right%22%2C%22margins%22%3A%7B%22inM%22%3A0.15%2C%22outM%22%3A0.15%2C%22rowM%22%3A0.15%7D%7D",
+    "description": null,
+    "domain": "parking-simulator.com",
+    "cover": "https://rdl.ink/render/https%3A%2F%2Fparking-simulator.com%2F%23%257B%2522mode%2522%253A%2522backIn%2522%252C%2522car%2522%253A%257B%2522id%2522%253A%2522compact%2522%252C%2522lengthM%2522%253A4%252C%2522widthM%2522%253A1.7%252C%2522wheelbaseM%2522%253A2.6%252C%2522rearOverhangM%2522%253A0.6%252C%2522minTurnRadiusM%2522%253A4.8%252C%2522eyeHeightM%2522%253A1.22%257D%252C%2522aisleWidthM%2522%253A5%252C%2522spotWidthM%2522%253A2.5%252C%2522spotDepthM%2522%253A5%252C%2522bayLengthM%2522%253A6.5%252C%2522bayDepthM%2522%253A2.2%252C%2522wallMode%2522%253A%2522lines%2522%252C%2522wallHeightM%2522%253A1.35%252C%2522farSide%2522%253A%2522line%2522%252C%2522neighbors%2522%253A%2522both%2522%252C%2522neighborSetbackM%2522%253A0%252C%2522targetMarginM%2522%253A0.3%252C%2522approachSide%2522%253A%2522right%2522%252C%2522guidance%2522%253A%2522auto%2522%252C%2522seatSide%2522%253A%2522right%2522%252C%2522margins%2522%253A%257B%2522inM%2522%253A0.15%252C%2522outM%2522%253A0.15%252C%2522rowM%2522%253A0.15%257D%257D",
+    "favorite": false,
+    "category": "education-and-reference",
+    "subcategory": [
+      "Simulator"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-20T14:09:47.083Z"
+  },
+  {
     "id": "287108018",
     "title": "Backtrack Academy",
     "url": "https://backtrackacademy.com/",
@@ -172839,6 +172872,22 @@
     "createdAt": "2021-06-08T00:50:41.000Z"
   },
   {
+    "id": "1895629068",
+    "title": "How to Park a Car: the Reference-Point Method — Parking Simulator Guide",
+    "url": "https://parking-simulator.com/guide/",
+    "description": "Back-in, parallel and front-in parking taught the way Japanese driving schools teach it — three steering positions, stop-set-move, and fixed reference points you can trust.",
+    "domain": "parking-simulator.com",
+    "cover": "https://rdl.ink/render/https%3A%2F%2Fparking-simulator.com%2Fguide%2F",
+    "favorite": false,
+    "category": "education-and-reference",
+    "subcategory": [
+      "Simulator"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-20T14:19:14.105Z"
+  },
+  {
     "id": "287112311",
     "title": "How To Pronounce",
     "url": "https://www.howtopronounce.com/",
@@ -178414,6 +178463,22 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2023-05-08T00:06:51.060Z"
+  },
+  {
+    "id": "1895910914",
+    "title": "Parking Simulator Online | ParkLab — Learn Parking Academy",
+    "url": "https://learnparking.academy/",
+    "description": "Practice parking online with ParkLab, a browser-based 3D parking simulator. Working mirrors, demonstrations and replay. Start with five free scenarios.",
+    "domain": "learnparking.academy",
+    "cover": "https://learnparking.academy/previews/cockpit-current-20261009.jpg",
+    "favorite": false,
+    "category": "education-and-reference",
+    "subcategory": [
+      "Simulator"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-20T16:55:13.394Z"
   },
   {
     "id": "287113477",
@@ -210005,6 +210070,22 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2022-07-14T14:07:44.998Z"
+  },
+  {
+    "id": "1895626721",
+    "title": "PacoGames - Play Free Browser Games",
+    "url": "https://www.pacogames.com/",
+    "description": "Play free online games on PacoGames. Discover new, trending, most played and top-rated browser games across action, driving, multiplayer, puzzle, 3D and casual categories.",
+    "domain": "www.pacogames.com",
+    "cover": "https://d.pacogames.com/images/fb/pacogames.jpg",
+    "favorite": false,
+    "category": "gaming",
+    "subcategory": [
+      "Minigames"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-20T14:16:32.237Z"
   },
   {
     "id": "650045602",
@@ -506439,6 +506520,23 @@
     ],
     "sourceCodeUrls": [],
     "createdAt": "2022-05-31T19:45:57.554Z"
+  },
+  {
+    "id": "1895812651",
+    "title": "Beamer: free software KVM for Mac, Windows and Linux",
+    "url": "https://beamerapp.co.uk/",
+    "description": "Beamer is a free, open-source software KVM: one keyboard and mouse or trackpad across your Mac, Windows PC and Linux machine on the same network, with the clipboard coming too.",
+    "domain": "beamerapp.co.uk",
+    "cover": "https://beamerapp.co.uk/og/beamer.png",
+    "favorite": false,
+    "category": "system-administration",
+    "subcategory": [
+      "Networking",
+      "Remote Control"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-20T15:55:01.469Z"
   },
   {
     "id": "1507439782",

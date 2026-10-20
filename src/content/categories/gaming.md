@@ -5,7 +5,7 @@ description: Games, launchers, emulators, and gaming utilities
 
 # Gaming
 
-**Total Bookmarks:** 737
+**Total Bookmarks:** 738
 
 
 ## Games
@@ -804,6 +804,7 @@ description: Games, launchers, emulators, and gaming utilities
 - [Newgrounds](https://www.newgrounds.com/)
 - [Old-school classic games](https://freebie.games/) — Retro games in your browser
 - [Online GGames](https://onlineggames.com/) — Free Online Games
+- [PacoGames](https://www.pacogames.com/) — Play Free Browser Games
 - [Play Online Games for Free](https://now.gg/) — now.gg Mobile Cloud
 - [Play-Games.com](https://www.play-games.com/)
 - [PlayOK](https://www.playok.com/)
