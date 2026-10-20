@@ -201,6 +201,13 @@ Tree first, bookmarks second, one subtree at a time.
   - **Follow-up, same day:** `Sunny Pilot` (openpilot car-software fork) → `Autopilot System` (33331300), next to PX4/ArduPilot; `0din` (GenAI bug-bounty programme) → `Security & Testing` (46141456). `Omniverse Audio2Face` / `Botika` / `Amazing AI` were left where they were (unclear fit).
   - **Decided 2026-10-19:** AI coding agents and assistants stay in `AI Tools & Services`, because they are generic tools across languages and stacks rather than pure developer tooling. `docs/TAXONOMY.md` now says so.
 
+- **Unsorted pass, 2026-10-20.** 6 new items in `Unsorted`, all created today; all 6 moved and re-read to confirm (`Unsorted` is now empty):
+  - `Inworld AI` (the clean root URL `inworld.ai/`) → `AI Speech & Voice` (75639739), next to the speech-to-speech page saved on 2026-10-19. Same company saved twice: the older entry's link carries long ad-tracking parameters, so the maintainer may prefer keeping only this clean one in the app. Not merged or deleted.
+  - `PacoGames` (a free browser-game portal) → `Minigames` (19045706), with the other browser-game portals.
+  - `Beamer` (free, open-source software KVM: one keyboard and mouse across Mac, Windows and Linux) → `Remote Control` (46179781), next to KDE Connect and Virtual Desktop. It shares input rather than the screen, so it is not `Remote Desktop`.
+  - `Parking Simulator Online | ParkLab` (learnparking.academy), `Back-In Parking Trainer` (parking-simulator.com) and `How to Park a Car: the Reference-Point Method` (parking-simulator.com/guide/) → `Simulator` (46141863), under `Education & Reference`. All three were fetched: a 3D parking-practice trainer, its companion how-to guide, and the same trainer again. They are driving-instruction tools rather than entertainment, so they sit with the educational simulators. Judgement call: move them to `Gaming > Games > Simulation` if the maintainer sees them as games.
+  - `Maisa AI` (the removal candidate from the 2026-10-19 pass) is no longer in `Unsorted` and is absent from the 2026-10-19 export, so it appears to have been removed in the app already. Not touched.
+
 ## Test state
 
 `TEST` (id `75353327`) holds one bookmark ("Anthropic - Company"), used to prove `update_bookmarks` works. `REVIEW` (id `75353467`) now holds 24 empty collections (see progress log), ready for the maintainer to delete. Maintainer can delete `TEST` too whenever.
