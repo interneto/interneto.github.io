@@ -13320,9 +13320,12 @@
     "tags": [
       "❤️",
       "Software: AI",
-      "Type: Open-Source"
+      "Type: Open-Source",
+      "Source Code: GitHub"
     ],
-    "sourceCodeUrls": [],
+    "sourceCodeUrls": [
+      "https://github.com/official-stockfish/Stockfish"
+    ],
     "createdAt": "2023-12-28T19:45:24.645Z"
   },
   {
@@ -164400,22 +164403,6 @@
     "createdAt": "2022-03-09T16:51:16.168Z"
   },
   {
-    "id": "1895622299",
-    "title": "Back-In Parking Trainer",
-    "url": "https://parking-simulator.com/#%7B%22mode%22%3A%22backIn%22%2C%22car%22%3A%7B%22id%22%3A%22compact%22%2C%22lengthM%22%3A4%2C%22widthM%22%3A1.7%2C%22wheelbaseM%22%3A2.6%2C%22rearOverhangM%22%3A0.6%2C%22minTurnRadiusM%22%3A4.8%2C%22eyeHeightM%22%3A1.22%7D%2C%22aisleWidthM%22%3A5%2C%22spotWidthM%22%3A2.5%2C%22spotDepthM%22%3A5%2C%22bayLengthM%22%3A6.5%2C%22bayDepthM%22%3A2.2%2C%22wallMode%22%3A%22lines%22%2C%22wallHeightM%22%3A1.35%2C%22farSide%22%3A%22line%22%2C%22neighbors%22%3A%22both%22%2C%22neighborSetbackM%22%3A0%2C%22targetMarginM%22%3A0.3%2C%22approachSide%22%3A%22right%22%2C%22guidance%22%3A%22auto%22%2C%22seatSide%22%3A%22right%22%2C%22margins%22%3A%7B%22inM%22%3A0.15%2C%22outM%22%3A0.15%2C%22rowM%22%3A0.15%7D%7D",
-    "description": null,
-    "domain": "parking-simulator.com",
-    "cover": "https://rdl.ink/render/https%3A%2F%2Fparking-simulator.com%2F%23%257B%2522mode%2522%253A%2522backIn%2522%252C%2522car%2522%253A%257B%2522id%2522%253A%2522compact%2522%252C%2522lengthM%2522%253A4%252C%2522widthM%2522%253A1.7%252C%2522wheelbaseM%2522%253A2.6%252C%2522rearOverhangM%2522%253A0.6%252C%2522minTurnRadiusM%2522%253A4.8%252C%2522eyeHeightM%2522%253A1.22%257D%252C%2522aisleWidthM%2522%253A5%252C%2522spotWidthM%2522%253A2.5%252C%2522spotDepthM%2522%253A5%252C%2522bayLengthM%2522%253A6.5%252C%2522bayDepthM%2522%253A2.2%252C%2522wallMode%2522%253A%2522lines%2522%252C%2522wallHeightM%2522%253A1.35%252C%2522farSide%2522%253A%2522line%2522%252C%2522neighbors%2522%253A%2522both%2522%252C%2522neighborSetbackM%2522%253A0%252C%2522targetMarginM%2522%253A0.3%252C%2522approachSide%2522%253A%2522right%2522%252C%2522guidance%2522%253A%2522auto%2522%252C%2522seatSide%2522%253A%2522right%2522%252C%2522margins%2522%253A%257B%2522inM%2522%253A0.15%252C%2522outM%2522%253A0.15%252C%2522rowM%2522%253A0.15%257D%257D",
-    "favorite": false,
-    "category": "education-and-reference",
-    "subcategory": [
-      "Simulator"
-    ],
-    "tags": [],
-    "sourceCodeUrls": [],
-    "createdAt": "2026-10-20T14:09:47.083Z"
-  },
-  {
     "id": "287108018",
     "title": "Backtrack Academy",
     "url": "https://backtrackacademy.com/",
@@ -172872,22 +172859,6 @@
     "createdAt": "2021-06-08T00:50:41.000Z"
   },
   {
-    "id": "1895629068",
-    "title": "How to Park a Car: the Reference-Point Method — Parking Simulator Guide",
-    "url": "https://parking-simulator.com/guide/",
-    "description": "Back-in, parallel and front-in parking taught the way Japanese driving schools teach it — three steering positions, stop-set-move, and fixed reference points you can trust.",
-    "domain": "parking-simulator.com",
-    "cover": "https://rdl.ink/render/https%3A%2F%2Fparking-simulator.com%2Fguide%2F",
-    "favorite": false,
-    "category": "education-and-reference",
-    "subcategory": [
-      "Simulator"
-    ],
-    "tags": [],
-    "sourceCodeUrls": [],
-    "createdAt": "2026-10-20T14:19:14.105Z"
-  },
-  {
     "id": "287112311",
     "title": "How To Pronounce",
     "url": "https://www.howtopronounce.com/",
@@ -178465,18 +178436,36 @@
     "createdAt": "2023-05-08T00:06:51.060Z"
   },
   {
-    "id": "1895910914",
-    "title": "Parking Simulator Online | ParkLab — Learn Parking Academy",
-    "url": "https://learnparking.academy/",
-    "description": "Practice parking online with ParkLab, a browser-based 3D parking simulator. Working mirrors, demonstrations and replay. Start with five free scenarios.",
-    "domain": "learnparking.academy",
-    "cover": "https://learnparking.academy/previews/cockpit-current-20261009.jpg",
+    "id": "1895629068",
+    "title": "Parking Simulator Guide — How to Park a Car: the Reference-Point Method",
+    "url": "https://parking-simulator.com/guide/",
+    "description": "Back-in, parallel and front-in parking taught the way Japanese driving schools teach it — three steering positions, stop-set-move, and fixed reference points you can trust.",
+    "domain": "parking-simulator.com",
+    "cover": "https://rdl.ink/render/https%3A%2F%2Fparking-simulator.com%2Fguide%2F",
     "favorite": false,
     "category": "education-and-reference",
     "subcategory": [
       "Simulator"
     ],
     "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-20T14:19:14.105Z"
+  },
+  {
+    "id": "1895910914",
+    "title": "Parking Simulator Online | ParkLab — Learn Parking Academy",
+    "url": "https://learnparking.academy/",
+    "description": "Practice parking online with ParkLab, a browser-based 3D parking simulator. Working mirrors, demonstrations and replay. Start with five free scenarios.",
+    "domain": "learnparking.academy",
+    "cover": "https://learnparking.academy/previews/cockpit-current-20261009.jpg",
+    "favorite": true,
+    "category": "education-and-reference",
+    "subcategory": [
+      "Simulator"
+    ],
+    "tags": [
+      "❤️"
+    ],
     "sourceCodeUrls": [],
     "createdAt": "2026-10-20T16:55:13.394Z"
   },
@@ -248594,6 +248583,29 @@
     "createdAt": "2022-07-27T23:03:04.159Z"
   },
   {
+    "id": "1896107404",
+    "title": "Limusic, a lightweight desktop player for YouTube Music",
+    "url": "https://simohypers.github.io/limusic/",
+    "description": "Ad-free playback, word-by-word lyrics, your own files, Listen Together and your full YouTube Music library. Free and open source.",
+    "domain": "simohypers.github.io",
+    "cover": "https://simohypers.github.io/limusic/og.png",
+    "favorite": false,
+    "category": "multimedia",
+    "subcategory": [
+      "Audio & Music",
+      "Audio Player",
+      "Music Client"
+    ],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitHub"
+    ],
+    "sourceCodeUrls": [
+      "https://github.com/SimoHypers/limusic"
+    ],
+    "createdAt": "2026-10-20T19:14:49.542Z"
+  },
+  {
     "id": "618745490",
     "title": "Linearity - Revolutionize your marketing design",
     "url": "https://www.linearity.io/",
@@ -266664,27 +266676,6 @@
     "createdAt": "2022-05-10T22:13:02.099Z"
   },
   {
-    "id": "1808015559",
-    "title": "tbeezy/ynotv: Modern FOSS Windows IPTV Player w/ Stremio & Nuvio integration",
-    "url": "https://github.com/tbeezy/ynotv/",
-    "description": "Modern FOSS Windows IPTV Player",
-    "domain": "github.com",
-    "cover": "https://camo.githubusercontent.com/15a2373c09f671f2e524a800bdf20ef2705810a641b45c7c3ff2d028518905cc/68747470733a2f2f692e6962622e636f2f3230377a6e7372772f796e6f74762d676f2d436b6e67742d457a722e706e67",
-    "favorite": false,
-    "category": "multimedia",
-    "subcategory": [
-      "Video & Movies",
-      "Video Client",
-      "IPTV Player"
-    ],
-    "tags": [
-      "Source Code: GitHub",
-      "Type: Open-Source"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2026-08-02T17:17:01.674Z"
-  },
-  {
     "id": "1355663688",
     "title": "TDT Spain - Tu TV en Android",
     "url": "https://www.tdtspain.com/",
@@ -272605,6 +272596,29 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2022-03-15T18:36:27.782Z"
+  },
+  {
+    "id": "1808015559",
+    "title": "ynotv - Modern FOSS Windows IPTV Player w/ Stremio & Nuvio integration",
+    "url": "https://tbeezy.github.io/ynotvdoc/",
+    "description": "Modern FOSS Windows IPTV Player",
+    "domain": "tbeezy.github.io",
+    "cover": "https://camo.githubusercontent.com/15a2373c09f671f2e524a800bdf20ef2705810a641b45c7c3ff2d028518905cc/68747470733a2f2f692e6962622e636f2f3230377a6e7372772f796e6f74762d676f2d436b6e67742d457a722e706e67",
+    "favorite": false,
+    "category": "multimedia",
+    "subcategory": [
+      "Video & Movies",
+      "Video Client",
+      "IPTV Player"
+    ],
+    "tags": [
+      "Source Code: GitHub",
+      "Type: Open-Source"
+    ],
+    "sourceCodeUrls": [
+      "https://github.com/tbeezy/ynotv/"
+    ],
+    "createdAt": "2026-08-02T17:17:01.674Z"
   },
   {
     "id": "999508597",

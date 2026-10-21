@@ -609,6 +609,9 @@ html.vp-mobile-sidebar-open .vp-sidebar {
 }
 
 .vp-sidebar-favorites-wrap {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
   margin: 4px 16px 12px;
   padding-bottom: 12px;
   border-bottom: 1px solid var(--vp-c-divider);
@@ -687,7 +690,16 @@ html.vp-mobile-sidebar-open .vp-sidebar {
   transition: color 0.2s;
 }
 
-.vp-favorites-switch.is-active .vp-favorites-switch-star {
+.vp-favorites-switch-code {
+  color: var(--vp-c-text-3);
+  font-family: ui-monospace, monospace;
+  font-size: 0.75rem;
+  font-weight: 600;
+  transition: color 0.2s;
+}
+
+.vp-favorites-switch.is-active .vp-favorites-switch-star,
+.vp-favorites-switch.is-active .vp-favorites-switch-code {
   color: var(--vp-c-brand-1);
 }
 

@@ -139,10 +139,10 @@ description: Workouts, wellness, and health tracking
 - ⭐ **[Recipe Keeper](https://recipekeeperonline.com/)** — App for iPhone, iPad, Android, Windows and Mac
 - ⭐ **[RecipeSage](https://recipesage.com/#/welcome)** — The Personal Recipe Keeper
 - ⭐ **[Recipya](https://recipya-app.musicavis.ca/)**
-- ⭐ **[Tandoor](https://tandoor.dev/)** / <a href="https://github.com/TandoorRecipes/recipes"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Smart recipe management
-- [AvoCook](https://logarex.github.io/AvoCook/) / <a href="https://github.com/Logarex/AvoCook"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Carnet de recettes mobile
+- ⭐ **[Tandoor](https://tandoor.dev/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/TandoorRecipes/recipes) — Smart recipe management
+- [AvoCook](https://logarex.github.io/AvoCook/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Logarex/AvoCook) — Carnet de recettes mobile
 - [Bar Assistant](https://barassistant.app/)
-- [Broccoli](https://flauschcode.com/broccoli-the-green-recipe-app-for-android/) / <a href="https://github.com/flauschtrud/broccoli"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — The Green Recipe App for Android - flauschcode
+- [Broccoli](https://flauschcode.com/broccoli-the-green-recipe-app-for-android/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/flauschtrud/broccoli) — The Green Recipe App for Android - flauschcode
 - [COOK mate](https://www.cookmate.online/en/home/)
 - [Cooklist](https://cooklist.com/) — Plan • Shop • Cook
 - [Copy me that](https://www.copymethat.com/) — Recipe manager, shopping list & meal planner
@@ -161,7 +161,7 @@ description: Workouts, wellness, and health tracking
 - [Kitchenese](https://kitchenese.io/)
 - [KitchenOwl](https://kitchenowl.org/)
 - [KitchenPal, your kitchen on your phone](https://kitchenpalapp.com/en/) — shared pantry, grocery lists, meal planner, recipes & more.
-- [kitshn.app](https://kitshn.app/) / <a href="https://github.com/aimok04/kitshn"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [kitshn.app](https://kitshn.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/aimok04/kitshn)
 - [KlaraErpler/EnRecipes · GitHub](https://github.com/KlaraErpler/EnRecipes)
 - [KptnCook Premium](https://www.kptncook.com/) — Quick and easy 30-minute recipes
 - [littlecook](https://littlecook.io/) — Your Digital Sous Chef
@@ -170,7 +170,7 @@ description: Workouts, wellness, and health tracking
 - [Mela Recipes](https://mela.recipes/)
 - [oliexdev/openCook · GitHub](https://github.com/oliexdev/openCook)
 - [OrganizEat](https://home.organizeat.com/)
-- [Pangea Recipes](https://www.pangearecipes.com/) / <a href="https://github.com/hello-pangea/pangea-recipes"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Recipe Manager
+- [Pangea Recipes](https://www.pangearecipes.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/hello-pangea/pangea-recipes) — Recipe Manager
 - [Pepperplate](https://www.pepperplate.com/) — Your recipes, menus, shopping lists and cooking timers.
 - [Pestle](https://pestlechef.app/) — The best app to discover & save new recipes
 - [Plan to Eat](https://www.plantoeat.com/) — Meal Planner, Recipe Organizer, and Automatic Grocery Lists
@@ -181,7 +181,7 @@ description: Workouts, wellness, and health tracking
 - [sbmagar13/recipe-jar · GitHub](https://github.com/sbmagar13/recipe-jar)
 - [Simo-JDev/cookBook · GitHub](https://github.com/Simo-JDev/cookBook)
 - [Stashcook](https://stashcook.com/) — The Simple Meal Planning App
-- [Tamari Recipe Manager](https://tamariapp.com/) / <a href="https://github.com/alexbates/Tamari"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Tamari Recipe Manager](https://tamariapp.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/alexbates/Tamari)
 - [Umami](https://www.umami.recipes/) — Recipe Manager for iOS and Android
 - [wedesoft/anymeal · GitHub](https://github.com/wedesoft/anymeal/)
 - [Whisk](https://www.whiskapp.net/) — Recipes & Meal Planner
@@ -215,7 +215,7 @@ description: Workouts, wellness, and health tracking
 - [Experience Calm](https://www.calm.com/)
 - [Headspace](https://www.headspace.com/)
 - [Loóna](https://loona.app/) — fall in love with sleep again
-- [Medito App](https://meditofoundation.org/medito-app) / <a href="https://github.com/meditohq/medito-app"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Medito Foundation
+- [Medito App](https://meditofoundation.org/medito-app) / [![GitHub](/img/software/apps/github.svg)](https://github.com/meditohq/medito-app) — Medito Foundation
 - [Petit BamBou, the meditation app](https://www.petitbambou.com/en)
 - [Vipassana Meditation](https://www.dhamma.org/en-US/index)
 - [Wisey](https://wisey.app/) — Your personal coach, guiding mindfulness and cognitive growth
@@ -251,9 +251,9 @@ description: Workouts, wellness, and health tracking
 - [Zumba Fitness](https://www.zumba.com/es-ES)
 
 ### Fitness App
-- ⭐ **[LibreFit](https://librefit.org/)** / <a href="https://github.com/LibreFitOrg/LibreFit"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — The free and private workout tracker
-- ⭐ **[openGym](https://opengym.ch/)** / <a href="https://github.com/DuarteSantos8/openGym"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — your workouts, your weights, your data
-- ⭐ **[wger](https://wger.de/en/software/features)** / <a href="https://github.com/wger-project/wger"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- ⭐ **[LibreFit](https://librefit.org/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/LibreFitOrg/LibreFit) — The free and private workout tracker
+- ⭐ **[openGym](https://opengym.ch/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/DuarteSantos8/openGym) — your workouts, your weights, your data
+- ⭐ **[wger](https://wger.de/en/software/features)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/wger-project/wger)
 - ⭐ **[Workout Cool](https://workout.cool/en)**
 - [8fit](https://8fit.com/) — Custom Home Workouts App, Healthy Meal and Nutrition Plans
 - [Alpha Progression · Gym Tracker & Workout Planner](https://alphaprogression.com/en)
@@ -328,10 +328,10 @@ description: Workouts, wellness, and health tracking
 - [Strength Level](https://strengthlevel.com/) — Weightlifting Calculator (Bench/Squat/Deadlift)
 
 ### Fitness Tracker
-- ⭐ **[GoldenCheetah](https://www.goldencheetah.org/)** / <a href="https://github.com/GoldenCheetah/GoldenCheetah"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- ⭐ **[GoldenCheetah](https://www.goldencheetah.org/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/GoldenCheetah/GoldenCheetah)
 - ⭐ **[jannis/FitoTrack](https://codeberg.org/jannis/FitoTrack)** — Codeberg.org
 - ⭐ **[jonasoreland/runnerup · GitHub](https://github.com/jonasoreland/runnerup)**
-- ⭐ **[MyTourbook](https://mytourbook.sourceforge.io/mytourbook/index.php)** / <a href="https://github.com/mytourbook/mytourbook"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- ⭐ **[MyTourbook](https://mytourbook.sourceforge.io/mytourbook/index.php)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/mytourbook/mytourbook)
 - ⭐ **[OpenTracksApp](https://opentracksapp.com/)**
 - ⭐ **[Strava](https://www.strava.com/)** — Running, Cycling & Hiking App - Train, Track & Share
 - [adidas Running](https://www.runtastic.com/) — Running Plans to Get Fit
@@ -344,7 +344,7 @@ description: Workouts, wellness, and health tracking
 - [Geovelo](https://geovelo.app/en/) — Ride serenely and impact the decisions of new bike paths in your city
 - [INTVL](https://www.intvl.com.au/)
 - [Nike Run Club App](https://www.nike.com/nrc-app)
-- [OneRep](https://www.onerep.life/) / <a href="https://github.com/an2tha/onerep"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Workout, Food and Progress Tracker in One App
+- [OneRep](https://www.onerep.life/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/an2tha/onerep) — Workout, Food and Progress Tracker in One App
 - [OpenTracksApp/OpenTracks · GitHub](https://github.com/OpenTracksApp/OpenTracks)
 - [OutRun](https://outrun.tadris.de/)
 - [PACE](https://withpace.io/) — End-to-end Encrypted Fitness App for Your Run and Cycling Workouts

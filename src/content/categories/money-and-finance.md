@@ -40,7 +40,7 @@ description: Banking, cryptocurrency, and financial tracking
 - [CryptoNWO](https://cryptonwo.io/)
 - [Dogecoin.com](https://dogecoin.com/)
 - [Dogecoin.info](https://dogechain.info/)
-- [Ethereum](https://ethereum.org/) / <a href="https://github.com/ethereum/ethereum-org-website"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Ethereum](https://ethereum.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/ethereum/ethereum-org-website)
 - [Ethereum Classic](https://ethereumclassic.org/)
 - [Firo.org](https://firo.org/)
 - [FreshCoins](https://freshcoins.io/)
@@ -137,7 +137,7 @@ description: Banking, cryptocurrency, and financial tracking
 - [SimpleSwap](https://simpleswap.io/)
 - [Simplex](https://www.simplex.com/)
 - [Stellar](https://stellar.org/)
-- [Uniswap Interface](https://app.uniswap.org/) / <a href="https://github.com/Uniswap"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Uniswap Interface](https://app.uniswap.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Uniswap)
 - [Unocoin](https://www.unocoin.com/in)
 - [UnstoppableSwap.net](https://unstoppableswap.net/)
 - [Verge Currency](https://vergecurrency.com/)
@@ -149,7 +149,7 @@ description: Banking, cryptocurrency, and financial tracking
 
 ### Cryptocurrency Explorer
 - [| Be early to the future of finance](https://www.blockchain.com/en)
-- [₿ag](https://bitbag.app/) / <a href="https://github.com/UXAVIA/bag"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Bitcoin Portfolio Monitor
+- [₿ag](https://bitbag.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/UXAVIA/bag) — Bitcoin Portfolio Monitor
 - [Arbitrum One (ETH) Blockchain Explorer](https://arbiscan.io/)
 - [Base (ETH) Blockchain Explorer](https://basescan.org/)
 - [Bitcoin explorer](https://www.bitaps.com/)
@@ -189,7 +189,7 @@ description: Banking, cryptocurrency, and financial tracking
 - [Limitless VIP](https://tittiecoin.com/)
 - [Litecoin Explorer](https://chainz.cryptoid.info/ltc/)
 - [Live Coin Watch](https://www.livecoinwatch.com/)
-- [mempool](https://mempool.space/) / <a href="https://github.com/mempool"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Bitcoin Explorer
+- [mempool](https://mempool.space/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/mempool) — Bitcoin Explorer
 - [Monedas](https://www.monedas.com/)
 - [NanoLooker](https://nanolooker.com/)
 - [NEO Tracker](https://neotracker.io/)
@@ -275,23 +275,23 @@ description: Banking, cryptocurrency, and financial tracking
 - [SushiSwap](https://sushi.com/)
 - [tea.xyz](https://app.tea.xyz/) — Testnet to fuel the open-source software revolution
 - [Ubiq Smart](https://ubiqsmart.com/)
-- [Union](https://union.build/) / <a href="https://github.com/unionlabs/union"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Union](https://union.build/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/unionlabs/union)
 - [YAM Finance](https://yam.finance/)
 - [YFDAI.finance](https://yfdai.finance/)
 
 ### Cryptocurrency Wallet
-- ⭐ **[bitaddress.org](https://www.bitaddress.org/bitaddress.org-v3.3.0-SHA256-dec17c07685e1870960903d8f58090475b25af946fe95a734f88408cef4aa194.html)** / <a href="https://github.com/pointbiz/bitaddress.org"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- ⭐ **[bitaddress.org](https://www.bitaddress.org/bitaddress.org-v3.3.0-SHA256-dec17c07685e1870960903d8f58090475b25af946fe95a734f88408cef4aa194.html)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/pointbiz/bitaddress.org)
 
 #### Hot Wallet
-- ⭐ **[Cakewallet](https://cakewallet.com/)** / <a href="https://github.com/cake-tech/cake_wallet"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
-- ⭐ **[Electrum Bitcoin Wallet](https://electrum.org/#home)** / <a href="https://github.com/spesmilo/electrum-web"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- ⭐ **[Cakewallet](https://cakewallet.com/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/cake-tech/cake_wallet)
+- ⭐ **[Electrum Bitcoin Wallet](https://electrum.org/#home)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/spesmilo/electrum-web)
 - [Ambire Wallet](https://www.ambire.com/)
 - [AtomicWallet.io](https://atomicwallet.io/)
 - [Avana Wallet](https://www.avanawallet.com/)
 - [Bitnovo](https://bitnovo.com/)
 - [blockbank](https://blockbank.ai/)
 - [BlueWallet](https://bluewallet.io/) — Bitcoin wallet and Lightning wallet for iOS and Android
-- [Brume Wallet](https://wallet.brume.money/#/#/) / <a href="https://github.com/brumewallet/wallet"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Brume Wallet](https://wallet.brume.money/#/#/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/brumewallet/wallet)
 - [Coin Wallet](https://coin.space/) — self-custodial multicurrency crypto wallet | Coin Wallet
 - [Coinbase Wallet](https://www.coinbase.com/wallet)
 - [Coinomi](https://www.coinomi.com/en/)
@@ -305,10 +305,10 @@ description: Banking, cryptocurrency, and financial tracking
 - [Guarda Wallet](https://guarda.com/)
 - [Infinity Wallet](https://infinitywallet.io/)
 - [Jaxx.io](http://jaxx.io/)
-- [Liana](https://wizardsardine.com/liana/) / <a href="https://github.com/wizardsardine/liana"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Bitcoin wallet
+- [Liana](https://wizardsardine.com/liana/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/wizardsardine/liana) — Bitcoin wallet
 - [LNbits](https://lnbits.com/) — Free Open Source Bitcoin Lightning Wallet Accounts System
 - [Math Wallet](https://mathwallet.org/en-us/)
-- [MetaMask](https://metamask.io/) / <a href="https://github.com/MetaMask"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — The crypto wallet for Defi, Web3 Dapps and NFTs
+- [MetaMask](https://metamask.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/MetaMask) — The crypto wallet for Defi, Web3 Dapps and NFTs
 - [Monero.com by Cake Wallet](https://monero.com/)
 - [Multis](https://multis.co/)
 - [Muun](https://muun.com/) — Bitcoin Wallet
@@ -328,9 +328,9 @@ description: Banking, cryptocurrency, and financial tracking
 - [TokenPocket](https://www.tokenpocket.pro/)
 - [Torus Labs](https://tor.us/)
 - [TrustWallet](https://trustwallet.com/) — Best Crypto Wallet for Web3, NFTs and DeFi
-- [Unstoppable](https://unstoppable.money/) / <a href="https://github.com/horizontalsystems/"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Bitcoin & Crypto Wallet
+- [Unstoppable](https://unstoppable.money/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/horizontalsystems/) — Bitcoin & Crypto Wallet
 - [WalletConnect](https://walletconnect.org/)
-- [Wasabi Wallet](https://wasabiwallet.io/) / <a href="https://github.com/WalletWasabi/WalletWasabi"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Wasabi Wallet](https://wasabiwallet.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/WalletWasabi/WalletWasabi)
 
 #### Hardware Wallet
 - [BitBox](https://bitbox.swiss/) — The easiest way to keep your coins safe
@@ -339,12 +339,12 @@ description: Banking, cryptocurrency, and financial tracking
 - [Cryptosteel](https://cryptosteel.com/) — The Mother of All Backups
 - [ELLIPAL](https://www.ellipal.com/) — Leader of Air-gapped Crypto Hardware Wallet
 - [Keystone](https://keyst.one/) — Best Open Source Cold Wallet & Hardware Wallet
-- [Ledger](https://www.ledger.com/) / <a href="https://github.com/ledgerhq"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Hardware Wallet
+- [Ledger](https://www.ledger.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/ledgerhq) — Hardware Wallet
 - [OneKey](https://onekey.so/) — Hardware Wallet & Crypto DeFi Wallet | Crypto Security
 - [OnlyKey](https://onlykey.io/)
 - [SafePal Crypto Hardware Wallet](https://safepal.com/)
-- [Tangem Wallet](https://tangem.com/en/) / <a href="https://github.com/tangem"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — The Secure Hardware & Crypto Wallet
-- [Trezor.io Hardware Wallet](https://trezor.io/) / <a href="https://github.com/trezor"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Tangem Wallet](https://tangem.com/en/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/tangem) — The Secure Hardware & Crypto Wallet
+- [Trezor.io Hardware Wallet](https://trezor.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/trezor)
 - [Yubico](https://www.yubico.com/) — Strong two factor authentication
 
 ### NFT
@@ -469,16 +469,16 @@ description: Banking, cryptocurrency, and financial tracking
 - [Infobolsa](https://www.infobolsa.es/mercados/bolsa) — Bolsa
 - [IQ Option](https://eu.iqoption.com/en)
 - [jarrodwatts/jev-trader](https://github.com/jarrodwatts/jev-trader) — One AI trade decision every Monad block. Jev on Kuru MON-USDC.
-- [Jev Trade](https://www.jev-trade.com/) / <a href="https://github.com/aowang-ai/jev-trade"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Live Jev trading bot on crypto and other assets
+- [Jev Trade](https://www.jev-trade.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/aowang-ai/jev-trade) — Live Jev trading bot on crypto and other assets
 - [Libremercado](https://www.libremercado.com/mercados) — bolsa
 - [Markets Insider](https://markets.businessinsider.com/)
 - [Mary Day Trader](https://www.marydaytrader.com/)
-- [QuantDinger](https://ai.quantdinger.com/#/user/login?redirect=%2F) / <a href="https://github.com/OpenByteInc/QuantDinger"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [QuantDinger](https://ai.quantdinger.com/#/user/login?redirect=%2F) / [![GitHub](/img/software/apps/github.svg)](https://github.com/OpenByteInc/QuantDinger)
 - [Quantower Trading Platform](https://www.quantower.com/)
 - [Seeking Alpha](https://seekingalpha.com/)
 - [Stonicks](https://www.stonicks.com/es)
 - [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) — TradingAgents: Multi-Agents LLM Financial Trading Framework
-- [Vibe-Trading Wiki](https://vibetrading.wiki/home/) / <a href="https://github.com/HKUDS/Vibe-Trading"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Vibe-Trading Wiki](https://vibetrading.wiki/home/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/HKUDS/Vibe-Trading)
 - [Visual Chart](https://visualchart.com/)
 - [Votery](https://www.votery.net/)
 - [Yellow trade](https://www.yellow.com/)

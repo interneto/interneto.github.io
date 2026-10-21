@@ -59,9 +59,9 @@ description: File sharing, downloaders, torrents, and cloud storage
 - [Wii Backup Manager](http://www.wiibackupmanager.co.uk/)
 
 ## Cloud Storage
-- ⭐ **[Deta Surf](https://deta.surf/)** / <a href="https://github.com/deta/surf"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- ⭐ **[Deta Surf](https://deta.surf/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/deta/surf)
 - ⭐ **[Dropbox](https://www.dropbox.com/)**
-- ⭐ **[ente](https://ente.io/)** / <a href="https://github.com/ente-io/ente"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Secure backups for photos and videos
+- ⭐ **[ente](https://ente.io/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/ente-io/ente) — Secure backups for photos and videos
 - ⭐ **[Filen](https://filen.io/)** — Next Generation End-To-End Encrypted Cloud Storage
 - ⭐ **[MEGA](https://mega.io/)**
 - ⭐ **[Nextcloud](https://nextcloud.com/)** — Online collaboration platform
@@ -99,7 +99,7 @@ description: File sharing, downloaders, torrents, and cloud storage
 - [MyDrive](https://www.mydrive.ch/) — Your Swiss Online Storage
 - [myQNAPcloud](https://www.myqnapcloud.com/)
 - [NordLocker](https://nordlocker.com/) — private cloud
-- [OpenCloud](https://opencloud.eu/en) / <a href="https://github.com/opencloud-eu"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Excellent file sharing: Secure and scalable cloud solutions
+- [OpenCloud](https://opencloud.eu/en) / [![GitHub](/img/software/apps/github.svg)](https://github.com/opencloud-eu) — Excellent file sharing: Secure and scalable cloud solutions
 - [OpenDesktop.org](https://www.opendesktop.org/)
 - [pCloud](https://www.pcloud.com/eu) — Europe's Most Secure Cloud Storage
 - [Peergos](https://peergos.org/)
@@ -115,7 +115,7 @@ description: File sharing, downloaders, torrents, and cloud storage
 - [Storegate](https://www.storegate.com/en/)
 - [SugarSync](https://www1.sugarsync.com/)
 - [Sync.com](https://www.sync.com/)
-- [Syncany](https://www.syncany.org/) / <a href="https://github.com/syncany"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Secure file sync software for arbitrary storage backends
+- [Syncany](https://www.syncany.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/syncany) — Secure file sync software for arbitrary storage backends
 - [TeraBox](https://www.terabox.com/) — Free Cloud Storage Up To 1 TB
 - [Tresorit](https://tresorit.com/) — End to end encrypted cloud storage
 - [Vika](https://vika.cn/login)
@@ -130,10 +130,10 @@ description: File sharing, downloaders, torrents, and cloud storage
 - [ExpanDrive](https://www.expandrive.com/)
 - [MEGA CMD](https://mega.io/cmd)
 - [Remotely Save](https://remotelysave.com/)
-- [Sync-in · The open-source platform that keeps your data safe](https://sync-in.com/) / <a href="https://github.com/Sync-in"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Sync-in · The open-source platform that keeps your data safe](https://sync-in.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Sync-in)
 
 ## Compressor
-- ⭐ **[7-Zip](https://7-zip.org/)** / <a href="https://sourceforge.net/projects/sevenzip/"><img class="source-host-icon" src="/img/source-hosts/sourceforge.svg" alt="SourceForge" title="SourceForge" width="14" height="14" loading="lazy"></a>
+- ⭐ **[7-Zip](https://7-zip.org/)** / [![SourceForge](/img/source-hosts/sourceforge.svg)](https://sourceforge.net/projects/sevenzip/)
 - ⭐ **[facebook/zstd · GitHub](https://github.com/facebook/zstd)**
 - [AfterCodecs](https://www.autokroma.com/AfterCodecs/)
 - [Ark](https://apps.kde.org/ark/) — KDE
@@ -146,7 +146,7 @@ description: File sharing, downloaders, torrents, and cloud storage
 - [Compress PDF Files Online](https://pdfcompressor.com/)
 - [Compress video online](https://compress-video-online.com/)
 - [Compress2Go](https://www.compress2go.com/)
-- [CompressO](https://compresso.codeforreal.com/) / <a href="https://github.com/codeforreal1/compressO"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Compress any video/image into a tiny size
+- [CompressO](https://compresso.codeforreal.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/codeforreal1/compressO) — Compress any video/image into a tiny size
 - [FastStone Resizer](https://www.faststone.org/FSResizerDetail.htm)
 - [Free PDF Compressor](http://www.freepdfcompressor.com/)
 - [GetCompress ∙ Video, Images, PDF & GIF compressed locally](https://getcompress.com/)
@@ -159,7 +159,7 @@ description: File sharing, downloaders, torrents, and cloud storage
 - [LZ4](https://lz4.org/) — Extremely fast compression
 - [MacPacker](https://macpacker.app/) — Preview & Extract (nested) archives on macOS
 - [Mass Image Compressor](https://sourceforge.net/projects/icompress/)
-- [NanaZip](https://nanazip.org/) / <a href="https://github.com/M2Team/NanaZip"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [NanaZip](https://nanazip.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/M2Team/NanaZip)
 - [Opus Codec](https://opus-codec.org/)
 - [PeaZip](https://peazip.github.io/)
 - [RIOT](https://riot-optimizer.com/) — Radical Image Optimization Tool
@@ -173,13 +173,13 @@ description: File sharing, downloaders, torrents, and cloud storage
 - [VProlab Video Compress](https://videocompress.prolab.sh/) — Free, High-Quality Online Tool
 - [WinRAR](https://www.rarlab.com/)
 - [WinZip](https://www.winzip.com/en/)
-- [XZ Utils](https://tukaani.org/xz/) / <a href="https://github.com/tukaani-project/xz"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [XZ Utils](https://tukaani.org/xz/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/tukaani-project/xz)
 
 ## Converter
 
 ### File Converter
 - ⭐ **[Convert to it!](https://p2r3.github.io/convert/)**
-- ⭐ **[ImageMagick](https://imagemagick.org/)** / <a href="https://github.com/imagemagick/imagemagick"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Mastering Digital Image Alchemy
+- ⭐ **[ImageMagick](https://imagemagick.org/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/imagemagick/imagemagick) — Mastering Digital Image Alchemy
 - ⭐ **[Pandoc](https://pandoc.org/)**
 - [Aconvert](https://www.aconvert.com/)
 - [aleiepure/devtoolbox · GitHub](https://github.com/aleiepure/devtoolbox)
@@ -207,7 +207,7 @@ description: File sharing, downloaders, torrents, and cloud storage
 - [DS4SD/docling](https://github.com/ds4sd/docling) — Get your documents ready for gen AI
 - [File Converter](https://file-converter.org/)
 - [File Converter](https://www.freefileconvert.com/)
-- [File Converter](https://file-converter.io/) / <a href="https://github.com/Tichau/FileConverter"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Convert & compress everything in 2 clicks!
+- [File Converter](https://file-converter.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Tichau/FileConverter) — Convert & compress everything in 2 clicks!
 - [File star](https://filestar.com/) — Do anything to any file
 - [FileConverto](https://www.fileconverto.com/)
 - [FileZigZag](https://www.filezigzag.com/)
@@ -229,14 +229,14 @@ description: File sharing, downloaders, torrents, and cloud storage
 - [Markdown to HTML](https://markdowntohtml.com/)
 - [Markwhen](https://markwhen.com/)
 - [medialab/xan](https://github.com/medialab/xan) — The CSV magician
-- [MinerU](https://opendatalab.github.io/MinerU/) / <a href="https://github.com/opendatalab/MinerU"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [MinerU](https://opendatalab.github.io/MinerU/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/opendatalab/MinerU)
 - [MP4 GIF Converter](https://mp4gif.com/)
 - [MyConverters](https://myconverters.com/)
 - [Online Converter](https://www.onlineconverter.com/)
 - [Online-convert](https://www.online-convert.com/)
 - [OnlineConvertFree](https://onlineconvertfree.com/)
 - [opendatalab/MinerU · GitHub](https://github.com/opendatalab/MinerU)
-- [OpenDataLoader PDF](https://opendataloader.org/) / <a href="https://github.com/opendataloader-project/opendataloader-pdf"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — PDF Parser for AI-Ready Data | Auto-Tag PDFs for Accessibility
+- [OpenDataLoader PDF](https://opendataloader.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/opendataloader-project/opendataloader-pdf) — PDF Parser for AI-Ready Data | Auto-Tag PDFs for Accessibility
 - [OPML to CSV converter](http://opml2csv.com/)
 - [Optimize bookmarks HTML](https://optimize-bookmarks-html.glitch.me/)
 - [PDF to DOC](https://pdf2doc.com/)
@@ -252,7 +252,7 @@ description: File sharing, downloaders, torrents, and cloud storage
 - [Table to Markdown](https://tabletomarkdown.com/)
 - [Transform.tools](https://transform.tools/)
 - [Vector Magic](https://vectormagic.com/)
-- [VERT.sh](https://vert.sh/) / <a href="https://github.com/VERT-sh/VERT"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Free, fast, and awesome file converter
+- [VERT.sh](https://vert.sh/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/VERT-sh/VERT) — Free, fast, and awesome file converter
 - [Vertopal Converter](https://www.vertopal.com/)
 - [Video2Edit](https://www.video2edit.com/) — Free online video editor
 - [Web Page to PDF](https://webtopdf.com/) — Convert Web to PDF Online Free
@@ -289,7 +289,7 @@ description: File sharing, downloaders, torrents, and cloud storage
 - [Resize Images Online](https://www.reduceimages.com/)
 - [TinyPNG](https://tinypng.com/) — Compress WebP, PNG and JPEG images intelligently
 - [Vectorizer.AI](https://vectorizer.ai/) — Convert PNG, JPG files to SVG vectors online
-- [XL Converter](https://codepoems.eu/xl-converter) / <a href="https://github.com/JacobDev1/xl-converter"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — easy-to-use image converter for modern formats
+- [XL Converter](https://codepoems.eu/xl-converter) / [![GitHub](/img/software/apps/github.svg)](https://github.com/JacobDev1/xl-converter) — easy-to-use image converter for modern formats
 - [YOGA Image Optimizer](https://yoga.flozz.org/)
 
 #### Format Converter
@@ -345,12 +345,12 @@ description: File sharing, downloaders, torrents, and cloud storage
 - ⭐ **[FFmpeg](https://ffmpeg.org/)** / [🔗](https://code.ffmpeg.org/FFmpeg/FFmpeg), [🔗](https://git.ffmpeg.org/ffmpeg.git)
 - [Eldecard](https://www.elecard.com/products/video-analysis/streameye) — StreamEye
 - [ExSqueezeMe](https://exsqueezeme.app/) — Professional Video Compression for macOS
-- [FastFlix](https://fastflix.org/) / <a href="https://github.com/cdgriffith/FastFlix"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [FastFlix](https://fastflix.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/cdgriffith/FastFlix)
 - [Free Online Video Compressor](https://compressvideoonline.com/en) — Fast, Private, No Uploads
 - [GStreamer](https://gstreamer.freedesktop.org/)
 - [HandBrake](https://handbrake.fr/) — Video transcoder
 - [NVIDIA Video Codec SDK](https://developer.nvidia.com/video-codec-sdk)
-- [Shutter Encoder](https://www.shutterencoder.com/) / <a href="https://github.com/paulpacifico/shutter-encoder"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Encoder|Converter video FREE PC|Mac
+- [Shutter Encoder](https://www.shutterencoder.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/paulpacifico/shutter-encoder) — Encoder|Converter video FREE PC|Mac
 - [Telestream Switch](https://www.telestream.net/switch/overview.htm) — Multiformat video player, inspection and conversion tool
 - [VidCoder](https://vidcoder.net/)
 
@@ -366,21 +366,21 @@ description: File sharing, downloaders, torrents, and cloud storage
 - [Ze Robot](https://ze-robot.com/)
 
 #### Text Converter
-- ⭐ **[CyberChef](https://gchq.github.io/CyberChef/)** / <a href="https://github.com/gchq/CyberChef"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- ⭐ **[CyberChef](https://gchq.github.io/CyberChef/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/gchq/CyberChef)
 - [Base64 Encode](https://www.base64encode.org/)
 - [Base64.guru](https://base64.guru/)
 - [Ciphey/Ciphey · GitHub](https://github.com/Ciphey/Ciphey)
 - [Gleb Smirnov / Text Pieces · GitLab](https://gitlab.com/liferooter/textpieces)
 - [gpac.io](https://gpac.io/) — Ultramedia Open Source Infrastructure
 - [MainConcept](https://www.mainconcept.com/) — Codecs, Software for Encoding, Decoding and Streaming
-- [mangaconverter.com](https://www.mangaconverter.com/) / <a href="https://github.com/NilsLeo/kcc-cloud"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Manga & Comic Converter
+- [mangaconverter.com](https://www.mangaconverter.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/NilsLeo/kcc-cloud) — Manga & Comic Converter
 - [Online Base64 Tools](https://onlinebase64tools.com/)
 - [Text Converter](https://www.textconverter.io/) — Easy tool to transform your text
 
 ### Encryptor
 - ⭐ **[Cryptomator](https://cryptomator.org/)**
 - ⭐ **[Hat.sh](https://hat.sh/)** — client-side encryption
-- ⭐ **[VeraCrypt](https://veracrypt.io/en/Home.html)** / <a href="https://github.com/veracrypt/VeraCrypt"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- ⭐ **[VeraCrypt](https://veracrypt.io/en/Home.html)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/veracrypt/VeraCrypt)
 - [AES Crypt](https://aescrypt.com/)
 - [AxCrypt](https://axcrypt.net/) — File Security Made Easy
 - [BitLocker](https://docs.microsoft.com/en-us/windows/security/information-protection/bitlocker/bitlocker-overview)
@@ -402,7 +402,7 @@ description: File sharing, downloaders, torrents, and cloud storage
 - [mhogomchungu/zuluCrypt · GitHub](https://github.com/mhogomchungu/zuluCrypt)
 - [mpobaschnig/Vaults · GitHub](https://github.com/mpobaschnig/Vaults)
 - [Picocrypt/Picocrypt](https://github.com/Picocrypt/Picocrypt) — A very small, very simple, yet very secure encryption tool.
-- [Portable Secret · create](https://alcazarsec.github.io/portable-secret/) / <a href="https://github.com/alcazarsec/portable-secret"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Portable Secret · create](https://alcazarsec.github.io/portable-secret/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/alcazarsec/portable-secret)
 - [Portale Secret · GitHub](https://mprimi.github.io/portable-secret/creator/)
 - [Prot-On](https://www.prot-on.com/tryIt.html)
 - [Quickhash-GUI](https://www.quickhash-gui.org/) — free, cross platform data hashing tool
@@ -492,7 +492,7 @@ description: File sharing, downloaders, torrents, and cloud storage
 - [Araxis Merge](https://www.araxis.com/merge/)
 - [Diffchecker](https://www.diffchecker.com/) — Compare text online to find the difference between two text files
 - [DiffNow](https://www.diffnow.com/compare-clips) — Compare Files, URLs, and Clipboard Contents Online
-- [hunk](https://www.hunk.dev/) / <a href="https://github.com/modem-dev/hunk"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — review-first terminal diff viewer
+- [hunk](https://www.hunk.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/modem-dev/hunk) — review-first terminal diff viewer
 - [jnsahaj/lumen](https://github.com/jnsahaj/lumen) — Beautiful git diff viewer, generate commits with AI, get summary of changes, all from the CLI
 - [Kaleidoscope](https://kaleidoscope.app/)
 - [KDiff3](https://kdiff3.sourceforge.net/)
@@ -536,7 +536,7 @@ description: File sharing, downloaders, torrents, and cloud storage
 - [MixDrop](https://mixdrop.co/)
 - [Mocha](https://mocha.my/)
 - [NitroFlare](https://nitroflare.com/)
-- [PairDrop](https://pairdrop.net/) / <a href="https://github.com/schlagmichdoch/PairDrop"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Transfer Files Cross-Platform. No Setup, No Signup
+- [PairDrop](https://pairdrop.net/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/schlagmichdoch/PairDrop) — Transfer Files Cross-Platform. No Setup, No Signup
 - [Pillowcase](https://pillowcase.su/)
 - [Pillowcase](https://pillows.su/)
 - [PixVid](https://pixvid.org/) — Upload and Host Images & Videos for Free
@@ -572,7 +572,7 @@ description: File sharing, downloaders, torrents, and cloud storage
 - [ZeroFS](https://zerofs.link/)
 
 ## File Manager
-- [eXtplorer 3](https://www.extplorer.net/) / <a href="https://github.com/soerennb/extplorer/"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Modern Web File Manager
+- [eXtplorer 3](https://www.extplorer.net/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/soerennb/extplorer/) — Modern Web File Manager
 
 ### File Manager GUI
 - ⭐ **[Cryo file manager](https://cryonet.io/)**
@@ -610,7 +610,7 @@ description: File sharing, downloaders, torrents, and cloud storage
 - [File Manager Plus](https://www.alphainventor.com/file-manager-plus) — AlphaInventor
 - [File Pilot](https://filepilot.tech/) — Next-gen file explorer
 - [File Viewer for Android](https://sharpened.com/software/android/file_viewer)
-- [FileBrowser](https://filebrowser.org/) / <a href="https://github.com/filebrowser/filebrowser"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [FileBrowser](https://filebrowser.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/filebrowser/filebrowser)
 - [files-community/files · GitHub](https://github.com/files-community/Files)
 - [Fileside](https://www.fileside.app/)
 - [Filestash](https://www.filestash.app/)
@@ -642,7 +642,7 @@ description: File sharing, downloaders, torrents, and cloud storage
 - [Polo File Manager](https://teejee2008.github.io/polo/)
 - [Q-Dir the Quad Explorer](http://q-dir.com/)
 - [QtFM](https://qtfm.eu/)
-- [Shuffle](https://www.shuffleapp.co/) / <a href="https://github.com/WizenPainter/shuffle"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — A fast, native file manager for macOS
+- [Shuffle](https://www.shuffleapp.co/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/WizenPainter/shuffle) — A fast, native file manager for macOS
 - [SiteSucker (macOS)](https://ricks-apps.com/osx/sitesucker/index.html)
 - [Solid Explorer File Manager](https://neatbytes.com/solidexplorer)
 - [Spacedrive](https://www.spacedrive.com/) — A file manager from the future
@@ -707,7 +707,7 @@ description: File sharing, downloaders, torrents, and cloud storage
 - [Wondershare Document Cloud](https://documentcloud.wondershare.com/)
 
 ### File Manager TUI
-- ⭐ **[superfile](https://superfile.dev/)** / <a href="https://github.com/yorukot/superfile"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Terminal File Manager
+- ⭐ **[superfile](https://superfile.dev/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/yorukot/superfile) — Terminal File Manager
 - [alexpasmantier/television](https://github.com/alexpasmantier/television) — A very fast, portable and hackable fuzzy finder for the terminal.
 - [Cfiles](https://github.com/mananapr/cfiles)
 - [Cloud Commander](https://cloudcmd.io/)
@@ -743,7 +743,7 @@ description: File sharing, downloaders, torrents, and cloud storage
 - [Tagging for Windows](https://tagging.connectpaste.com/)
 - [TagLists](https://hasseg.org/tagLists/)
 - [TAGSTOO](https://tagstoo.sourceforge.io/)
-- [TagStudio](https://docs.tagstud.io/) / <a href="https://github.com/TagStudioDev/TagStudio"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [TagStudio](https://docs.tagstud.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/TagStudioDev/TagStudio)
 
 ## File Samples
 - [File Examples Download](https://file-examples.com/)
@@ -755,7 +755,7 @@ description: File sharing, downloaders, torrents, and cloud storage
 ## File Search
 - [cardisoft/cardinal](https://github.com/cardisoft/cardinal) — Fastest file searching tool for macOS
 - [Cling](https://lowtechguys.com/cling/) — Instant fuzzy find any file, act on it in the same instant
-- [fzf](https://junegunn.github.io/fzf/) / <a href="https://github.com/junegunn/fzf"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [fzf](https://junegunn.github.io/fzf/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/junegunn/fzf)
 - [Omni](https://hanxiao.io/omni/) — local semantic search for your Mac
 
 ## File System
@@ -781,13 +781,13 @@ description: File sharing, downloaders, torrents, and cloud storage
 
 ## File Transfer Tool
 - ⭐ **[Blip is the fastest way to send files](https://blip.net/)**
-- ⭐ **[LocalSend](https://localsend.org/)** / <a href="https://github.com/localsend/localsend"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- ⭐ **[LocalSend](https://localsend.org/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/localsend/localsend)
 - ⭐ **[pixeldrain](https://pixeldrain.com/)** — Free file sharing service
 - [AirMore](https://airmore.com/)
-- [AlterSend](https://altersend.com/) / <a href="https://github.com/denislupookov/altersend"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Private, unlimited file transfer
+- [AlterSend](https://altersend.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/denislupookov/altersend) — Private, unlimited file transfer
 - [antimof/UxPlay](https://github.com/antimof/UxPlay) — AirPlay Unix mirroring server
 - [Blaze](https://blaze.vercel.app/) — File sharing web app ⚡
-- [FileDonkey](https://filedonkey.app/) / <a href="https://github.com/filedonkey/filedonkey"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Important files instantly accessible wherever you need them
+- [FileDonkey](https://filedonkey.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/filedonkey/filedonkey) — Important files instantly accessible wherever you need them
 - [Genymobile/scrcpy · GitHub](https://github.com/Genymobile/scrcpy)
 - [grishka/NearDrop](https://github.com/grishka/NearDrop) — An unofficial Google Nearby Share/Quick Share app for macOS
 - [JuppIt](https://juppit.app/) — Just Upload to PC. Phone to PC file transfer made effortless.
@@ -800,7 +800,7 @@ description: File sharing, downloaders, torrents, and cloud storage
 - [Send To Myself](https://visionwise-nick.github.io/sendtomyself-website/) — Your Information, Always With You
 - [shrimqy/Sefirah](https://github.com/shrimqy/Sefirah) — Phone Link / KDE Connect alternative
 - [Use AirDrop to send items to nearby Apple devices](https://support.apple.com/guide/mac-help/use-airdrop-to-send-items-to-nearby-devices-mh35868/mac)
-- [Valent](https://valent.andyholmes.ca/) / <a href="https://github.com/andyholmes/valent"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Valent](https://valent.andyholmes.ca/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/andyholmes/valent)
 - [WeTransfer](https://wetransfer.com/)
 - [ZappFiles](https://zappfiles.com/) — Large File Sharing for Creative Professionals
 
@@ -809,7 +809,7 @@ description: File sharing, downloaders, torrents, and cloud storage
 - [filiparag/wikiman · GitHub](https://github.com/filiparag/wikiman)
 - [fx](https://fx.wtf/) — command-line tool for JSON
 - [GTKWave](https://gtkwave.sourceforge.net/)
-- [NFO Viewer](https://otsaloma.io/nfoview/) / <a href="https://github.com/otsaloma/nfoview"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [NFO Viewer](https://otsaloma.io/nfoview/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/otsaloma/nfoview)
 - [Nyre221/dolphin-quick-view · GitHub](https://github.com/Nyre221/dolphin-quick-view)
 - [pwmt/zathura](https://github.com/pwmt/zathura) — Document viewer
 
@@ -833,7 +833,7 @@ description: File sharing, downloaders, torrents, and cloud storage
 - [AlizaMedicalImaging/AlizaMS · GitHub](https://github.com/AlizaMedicalImaging/AlizaMS)
 
 ## Optical Code Transfer
-- [Decimen Optical Transfer](https://decimen.app/) / <a href="https://github.com/bashalarmistalt/decimen-optical-transfer"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — transfer files with light
+- [Decimen Optical Transfer](https://decimen.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/bashalarmistalt/decimen-optical-transfer) — transfer files with light
 
 ### Barcode
 - [Barcode Art by Scott Bl8ke](https://www.barcodeart.com/)
@@ -841,7 +841,7 @@ description: File sharing, downloaders, torrents, and cloud storage
 - [Barcode Spider](https://www.barcodespider.com/)
 - [BarCodeRobot.com](https://www.barcoderobot.com/)
 - [Open Beauty Facts](https://world.openbeautyfacts.org/) — World
-- [Open Food Facts](https://world.openfoodfacts.org/) / <a href="https://github.com/openfoodfacts/"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — World
+- [Open Food Facts](https://world.openfoodfacts.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/openfoodfacts/) — World
 - [Open Pet Food Facts](https://world.openpetfoodfacts.org/) — World
 - [TEC-IT](https://www.tec-it.com/en/start/Default.aspx)
 - [UBS. United Barcode Systems](https://www.ubscode.com/)
@@ -866,7 +866,7 @@ description: File sharing, downloaders, torrents, and cloud storage
 - ⭐ **[Soundiiz](https://soundiiz.com/)** — Transfer playlists and favorites between streaming services
 - ⭐ **[Tune My Music](https://www.tunemymusic.com/)** — Transfer Playlists Between Music Services
 - [Exportify](https://exportify.app/)
-- [Exportify](https://exportify.net/) / <a href="https://github.com/pavelkomarov/exportify"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Exportify](https://exportify.net/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/pavelkomarov/exportify)
 - [Free Your Music](https://freeyourmusic.com/) — Ultra Simple Transfer of Playlists
 - [I Don't Have Spotify](https://idonthavespotify.donado.co/)
 - [Music Services](https://musconv.com/) — Convert Playlists Between 125+
@@ -879,10 +879,10 @@ description: File sharing, downloaders, torrents, and cloud storage
 - ⭐ **[Freefilesync](https://freefilesync.org/)**
 - ⭐ **[Rclone](https://rclone.org/)**
 - ⭐ **[rsync](https://rsync.samba.org/)** — Samba
-- ⭐ **[Syncthing](https://syncthing.net/)** / <a href="https://github.com/syncthing/syncthing"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>, <a href="https://github.com/researchxxl/syncthing-android"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- ⭐ **[Syncthing](https://syncthing.net/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/syncthing/syncthing), [![GitHub](/img/software/apps/github.svg)](https://github.com/researchxxl/syncthing-android)
 - [Autosync](https://play.google.com/store/apps/details?id=com.ttxapps.autosync) — Google Play
 - [ChronoSync](https://www.econtechnologies.com/) — Econ Technologies
-- [DAVx⁵](https://www.davx5.com/) / <a href="https://github.com/bitfireAT/davx5-ose"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [DAVx⁵](https://www.davx5.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/bitfireAT/davx5-ose)
 - [DirSync Pro](https://www.dirsyncpro.org/)
 - [Dropsync](https://play.google.com/store/apps/details?id=com.ttxapps.dropsync)
 - [DropSync](https://www.mudflatsoftware.com/)
@@ -928,7 +928,7 @@ description: File sharing, downloaders, torrents, and cloud storage
 - [tfeldmann/organize](https://github.com/tfeldmann/organize) — The file management automation tool
 
 ### Audio Tagger
-- ⭐ **[MusicBrainz Picard](https://picard.musicbrainz.org/)** / <a href="https://github.com/metabrainz/picard"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- ⭐ **[MusicBrainz Picard](https://picard.musicbrainz.org/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/metabrainz/picard)
 - [EZ Meta](https://www.poikosoft.com/metadata-editor)
 - [Finetune](https://flavio.tordini.org/finetune) — Flavio
 - [Frigate3](https://www.frigate3.com/index.php)

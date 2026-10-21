@@ -5,7 +5,7 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 
 # Education & Reference
 
-**Total Bookmarks:** 1316
+**Total Bookmarks:** 1315
 
 - [Academia Lab](https://academia-lab.com/)
 - [DosisPedia](https://dosispedia.com/)
@@ -20,7 +20,7 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [RapidTables](https://www.rapidtables.com/)
 
 ### Math Calculator
-- ⭐ **[Geogebra](https://www.geogebra.org/)** / <a href="https://github.com/geogebra/geogebra"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — free math tools
+- ⭐ **[Geogebra](https://www.geogebra.org/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/geogebra/geogebra) — free math tools
 - ⭐ **[KDE Cantor](https://cantor.kde.org/)**
 - ⭐ **[Wolfram|Alpha](https://www.wolframalpha.com/)**
 - [Calc Business 4.4.2](https://calc-business.en.uptodown.com/android)
@@ -53,7 +53,7 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [Microsoft Math Solver](https://mathsolver.microsoft.com/en)
 - [Microsoft Math Solver](https://math.microsoft.com/en) — Math Problem Solver & Calculator
 - [Modulo Calculator](https://miniwebtool.com/modulo-calculator)
-- [NumPy](https://numpy.org/) / <a href="https://github.com/numpy/numpy"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [NumPy](https://numpy.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/numpy/numpy)
 - [Nutpan Terminal Calculator](https://calc.nutpan.com/)
 - [Omni Calculator](https://www.omnicalculator.com/)
 - [Online Calculator](https://www.online-calculator.com/)
@@ -61,7 +61,7 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [OriginLab](https://www.originlab.com/)
 - [PaddiM8/kalker · GitHub](https://github.com/PaddiM8/kalker)
 - [Photomath](https://photomath.com/)
-- [Qalculate!](https://qalculate.github.io/) / <a href="https://github.com/Qalculate"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Qalculate!](https://qalculate.github.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Qalculate)
 - [RKWard](https://rkward.kde.org/)
 - [SageMath](https://www.sagemath.org/)
 - [Scilab](https://www.scilab.org/)
@@ -72,7 +72,7 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 
 ### Math Graphing Calculator
 - [3D Surface Plotter](https://academo.org/demos/3d-surface-plotter)
-- [Anvaka](https://anvaka.github.io/e-sum/?code=x%2F8%20%2B%205*cos%28x*101.824%29%20&bufferSize=12000&totalSteps=298900&spi=90) / <a href="https://github.com/anvaka/e-sum"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Visualization of exponential sums
+- [Anvaka](https://anvaka.github.io/e-sum/?code=x%2F8%20%2B%205*cos%28x*101.824%29%20&bufferSize=12000&totalSteps=298900&spi=90) / [![GitHub](/img/software/apps/github.svg)](https://github.com/anvaka/e-sum) — Visualization of exponential sums
 - [CalcPlot3D](https://math.libretexts.org/Learning_Objects/CalcPlot3D_Interactive_Figures/CalcPlot3D)
 - [CPM 3D Plotter](https://technology.cpm.org/general/3dgraph)
 - [Desmos Calculator](https://www.desmos.com/calculator?lang=en)
@@ -159,7 +159,7 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [david-swift/Memorize](https://github.com/david-swift/Memorize) — Study flashcards in a native GNOME app
 - [Dekki](https://www.dekki.ai/)
 - [Mochi](https://mochi.cards/) — Spaced repetition made easy
-- [Quizfreely](https://quizfreely.org/) / <a href="https://github.com/quizfreely/quizfreely"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Free & Open Source Studying Tool
+- [Quizfreely](https://quizfreely.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/quizfreely/quizfreely) — Free & Open Source Studying Tool
 - [Studying](https://scholarsome.com/) — done the correct way
 - [studylib.net](https://www.studylib.net/) — Essays, homework help, flashcards, research papers, book reports, and others
 - [wbernard/Memorado](https://github.com/wbernard/Memorado) — Memorize anything
@@ -295,7 +295,7 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [sugarlabs/words-activity](https://github.com/sugarlabs/words-activity) — A multilingual dictionary activity for the Sugar environment
 - [Tagaini Jisho](https://www.tagaini.net/)
 - [Wörterbuch der deutschen Sprache ✒️ Duden Online](https://www.duden.de/woerterbuch)
-- [yomitan](https://yomitan.wiki/) / <a href="https://github.com/yomidevs/yomitan"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Pop-up dictionary browser extension for language learning
+- [yomitan](https://yomitan.wiki/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/yomidevs/yomitan) — Pop-up dictionary browser extension for language learning
 
 #### Dictionary of English
 - [Artha](http://artha.sourceforge.net/wiki/index.php/Home)
@@ -317,7 +317,7 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [Freelang Dictionary](https://www.freelang.net/dictionary/index.php)
 - [OneLook Dictionary](https://www.onelook.com/)
 - [Online Etymology Dictionary](https://www.etymonline.com/)
-- [Open English WordNet](https://en-word.net/) / <a href="https://github.com/globalwordnet/english-wordnet"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Open English WordNet](https://en-word.net/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/globalwordnet/english-wordnet)
 - [Oxford English Dictionary](https://www.oed.com/)
 - [Oxford Learner's Dictionaries](https://www.oxfordlearnersdictionaries.com/)
 - [Princeton WordNet](https://wordnetcode.princeton.edu/?C=M;O=D)
@@ -557,7 +557,7 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [El Club del Autodidacta](http://elclubdelautodidacta.es/wp)
 - [Engineer4Free](https://www.engineer4free.com/)
 - [EspacioHonduras](https://www.espaciohonduras.net/)
-- [Free Certifications](https://free-certifications.com/) / <a href="https://github.com/cloudcommunity/Free-Certifications"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Find Free Professional Certifications Online
+- [Free Certifications](https://free-certifications.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/cloudcommunity/Free-Certifications) — Find Free Professional Certifications Online
 - [Genially Academy](https://academy.genial.ly/)
 - [GoStudent](https://www.gostudent.org/en)
 - [HubSpot Academy](https://academy.hubspot.com/courses)
@@ -993,8 +993,8 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 ### Applied Science
 
 #### Computing
-- ⭐ **[DevDocs.io](https://devdocs.io/)** / <a href="https://github.com/freeCodeCamp/devdocs"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
-- ⭐ **[Devhints](https://devhints.io/)** / <a href="https://github.com/rstacruz/cheatsheets"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- ⭐ **[DevDocs.io](https://devdocs.io/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/freeCodeCamp/devdocs)
+- ⭐ **[Devhints](https://devhints.io/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/rstacruz/cheatsheets)
 - ⭐ **[Linux Commands Library](https://linuxcommandlibrary.com/)**
 - ⭐ **[The OSI-Model in a simple way](https://osi-model.com/)**
 - ⭐ **[W3Schools](https://www.w3schools.com/)** — Online Web Tutorials
@@ -1002,7 +1002,7 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [30 seconds of code](https://www.30secondsofcode.org/)
 - [100 Exercises To Learn Rust](https://rust-exercises.com/)
 - [Abrirllave](https://www.abrirllave.com/)
-- [alg0.dev](https://www.alg0.dev/) / <a href="https://github.com/midudev/alg0.dev"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Algorithm Visualizer
+- [alg0.dev](https://www.alg0.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/midudev/alg0.dev) — Algorithm Visualizer
 - [Aprenderaprogramar](https://aprenderaprogramar.com/)
 - [ASCII Codes](https://ascii.cl/)
 - [Ask Python](https://www.askpython.com/)
@@ -1378,29 +1378,28 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [Numerologist.com](https://numerologist.com/)
 
 ## Simulator
-- [3D Conway's Game of Life](https://rbeaulieu.github.io/3DGameOfLife/3DGameOfLife.html) / <a href="https://github.com/RBeaulieu/3DGameOfLife"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- ⭐ **[Parking Simulator Online](https://learnparking.academy/)** — ParkLab — Learn Parking Academy
+- [3D Conway's Game of Life](https://rbeaulieu.github.io/3DGameOfLife/3DGameOfLife.html) / [![GitHub](/img/software/apps/github.svg)](https://github.com/RBeaulieu/3DGameOfLife)
 - [Airplane Simulation](https://walter.bislins.ch/bloge/index.asp?page=Airplane+Simulation+%28Version+1%29) — Walter Bislins
-- [Automating the Search for Artificial Life with Foundation Models](https://pub.sakana.ai/asal/) / <a href="https://github.com/SakanaAI/asal"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
-- [Back-In Parking Trainer](https://parking-simulator.com/#%7B%22mode%22%3A%22backIn%22%2C%22car%22%3A%7B%22id%22%3A%22compact%22%2C%22lengthM%22%3A4%2C%22widthM%22%3A1.7%2C%22wheelbaseM%22%3A2.6%2C%22rearOverhangM%22%3A0.6%2C%22minTurnRadiusM%22%3A4.8%2C%22eyeHeightM%22%3A1.22%7D%2C%22aisleWidthM%22%3A5%2C%22spotWidthM%22%3A2.5%2C%22spotDepthM%22%3A5%2C%22bayLengthM%22%3A6.5%2C%22bayDepthM%22%3A2.2%2C%22wallMode%22%3A%22lines%22%2C%22wallHeightM%22%3A1.35%2C%22farSide%22%3A%22line%22%2C%22neighbors%22%3A%22both%22%2C%22neighborSetbackM%22%3A0%2C%22targetMarginM%22%3A0.3%2C%22approachSide%22%3A%22right%22%2C%22guidance%22%3A%22auto%22%2C%22seatSide%22%3A%22right%22%2C%22margins%22%3A%7B%22inM%22%3A0.15%2C%22outM%22%3A0.15%2C%22rowM%22%3A0.15%7D%7D)
+- [Automating the Search for Artificial Life with Foundation Models](https://pub.sakana.ai/asal/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/SakanaAI/asal)
 - [Cellular Automata Laboratory](https://www.fourmilab.ch/cellab/webca/)
-- [Conway's Game of Life](https://play.google.com/store/apps/details?id=com.jobik.gameoflife) / <a href="https://github.com/Efimj/GameOfLife"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Google Play Store
+- [Conway's Game of Life](https://play.google.com/store/apps/details?id=com.jobik.gameoflife) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Efimj/GameOfLife) — Google Play Store
 - [daneelsan/Wireworld](https://github.com/daneelsan/Wireworld) — a Turing-complete cellular automaton suited for simulating logic gates and other real-world computer elements
 - [DigiSim](https://digisim.io/) — Digital logic, taught and built. Gate to 8-bit CPU.
 - [eCalc](https://www.ecalc.ch/) — reliable electric drive simulations
 - [gabe565/cli-of-life](https://github.com/gabe565/cli-of-life) — Play Conway's Game of Life in your terminal
 - [Game of Life 3D](https://creetah.com/game-of-life)
-- [Golly Game of Life](https://golly.sourceforge.io/) / <a href="https://sourceforge.net/projects/golly/"><img class="source-host-icon" src="/img/source-hosts/sourceforge.svg" alt="SourceForge" title="SourceForge" width="14" height="14" loading="lazy"></a>
+- [Golly Game of Life](https://golly.sourceforge.io/) / [![SourceForge](/img/source-hosts/sourceforge.svg)](https://sourceforge.net/projects/golly/)
 - [HEC-HMS](https://www.hec.usace.army.mil/software/hec-hms/)
 - [Holocloth](https://holocloth.vercel.app/)
-- [How to Park a Car](https://parking-simulator.com/guide/) — the Reference-Point Method — Parking Simulator Guide
 - [JaamSim Pro](https://www.jaamsimpro.com/)
 - [Lenia](https://lenia.berrry.app/) — Continuous Cellular Automaton
 - [Lenia3D](https://katielocks.github.io/Projects/Lenia3D/)
-- [Microcosmos](https://alife.institute/en/blog/microcosmos-release/) / <a href="https://github.com/alife-institute/microcosmos"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Artificial Life Institute
+- [Microcosmos](https://alife.institute/en/blog/microcosmos-release/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/alife-institute/microcosmos) — Artificial Life Institute
 - [NI](https://www.ni.com/en/shop/labview.html) — LabVIEW
 - [NOBOOK Virtual Laboratory](https://chemistry-en.nobook.com/console/templates/resource)
-- [OpenRocket Simulator](https://openrocket.info/) / <a href="https://github.com/openrocket/openrocket"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
-- [Parking Simulator Online](https://learnparking.academy/) — ParkLab — Learn Parking Academy
+- [OpenRocket Simulator](https://openrocket.info/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/openrocket/openrocket)
+- [Parking Simulator Guide](https://parking-simulator.com/guide/) — How to Park a Car: the Reference-Point Method
 - [PhET Simulations](https://phet.colorado.edu/en/simulations/filter) — University of Colorado Boulder
 - [Pražský Orloj](https://orloj.org/orloj/) — Prague Astronomical Clock Simulator
 - [simulator.io](https://simulator.io/) — Build and simulate logic circuits
@@ -1412,7 +1411,7 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [Fifth Star Labs](https://www.fifthstarlabs.com/)
 - [Planetary Motion](http://gerdbreitenbach.de/planet/planet.html)
 - [sky-map-team/stardroid · GitHub](https://github.com/sky-map-team/stardroid)
-- [Skychart](https://www.ap-i.net/skychart/en/start) / <a href="https://sourceforge.net/projects/skychart/"><img class="source-host-icon" src="/img/source-hosts/sourceforge.svg" alt="SourceForge" title="SourceForge" width="14" height="14" loading="lazy"></a>
+- [Skychart](https://www.ap-i.net/skychart/en/start) / [![SourceForge](/img/source-hosts/sourceforge.svg)](https://sourceforge.net/projects/skychart/)
 - [Skyfield](https://rhodesmill.org/skyfield/) — documentation
 - [SkySafari 7](https://skysafariastronomy.com/) — Professional Telecope Astronomy Software
 - [Star Walk 2](https://starwalk.space/en)

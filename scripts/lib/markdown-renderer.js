@@ -34,7 +34,7 @@ function splitTitle(title) {
 // Exact hostname match first, then a looser pattern for the common
 // self-hosted case (gitlab.example.org, git.example.org running Gitea, etc).
 const SOURCE_HOST_BY_HOSTNAME = {
-  'github.com': { name: 'GitHub', icon: '/img/software/apps/github.svg', invert: true },
+  'github.com': { name: 'GitHub', icon: '/img/software/apps/github.svg' },
   'gitlab.com': { name: 'GitLab', icon: '/img/source-hosts/gitlab.svg' },
   'codeberg.org': { name: 'Codeberg', icon: '/img/source-hosts/codeberg.svg' },
   'sourceforge.net': { name: 'SourceForge', icon: '/img/source-hosts/sourceforge.svg' },
@@ -44,7 +44,7 @@ const SOURCE_HOST_BY_HOSTNAME = {
 const SOURCE_HOST_BY_PATTERN = [
   [/gitlab/, { name: 'GitLab', icon: '/img/source-hosts/gitlab.svg' }],
   [/gitea/, { name: 'Gitea', icon: '/img/source-hosts/gitea.svg' }],
-  [/(^|\.)sr\.ht$/, { name: 'SourceHut', icon: '/img/source-hosts/sourcehut.svg', invert: true }],
+  [/(^|\.)sr\.ht$/, { name: 'SourceHut', icon: '/img/source-hosts/sourcehut.svg' }],
 ]
 
 function sourceHostIcon(url) {
@@ -61,14 +61,12 @@ function sourceHostIcon(url) {
   return null
 }
 
-// Raw <a><img></a> (not markdown [text](url)) — simpler than smuggling an
-// <img> through markdown's own link-text parsing, and Astro's markdown
-// passes raw HTML through untouched.
+// A linked image is plain markdown, so the generated files stay markdown and the
+// site converts them to HTML. Size and dark-mode inversion are set in CSS by src.
 function sourceCodeLink(url) {
   const host = sourceHostIcon(url)
   if (!host) return `[🔗](${url})`
-  const cls = host.invert ? 'source-host-icon source-host-icon-invert' : 'source-host-icon'
-  return `<a href="${url}"><img class="${cls}" src="${host.icon}" alt="${host.name}" title="${host.name}" width="14" height="14" loading="lazy"></a>`
+  return `[![${host.name}](${host.icon})](${url})`
 }
 
 function countItems(node) {

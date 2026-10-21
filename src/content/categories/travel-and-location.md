@@ -8,7 +8,7 @@ description: Maps, weather, travel agencies, and flights
 **Total Bookmarks:** 803
 
 - [itinio](https://www.itinio.app/) — What to Do in Madrid & Barcelona | Best Local Routes & Food
-- [TREK](https://demo-nomad.pakulat.org/dashboard) / <a href="https://github.com/mauriceboe/TREK"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [TREK](https://demo-nomad.pakulat.org/dashboard) / [![GitHub](/img/software/apps/github.svg)](https://github.com/mauriceboe/TREK)
 
 ## Booking
 - ⭐ **[OpenTable](https://www.opentable.com/)** — Restaurants and Restaurant Bookings
@@ -37,11 +37,11 @@ description: Maps, weather, travel agencies, and flights
 - [janbar/osmin](https://github.com/janbar/osmin) — GPS Navigator On-Road/Off-Road for Android and Linux devices
 - [JGPSTrackEdit](https://sourceforge.net/projects/jgpstrackedit/)
 - [Memory-Map Outdoor Navigation Apps](https://memory-map.com/) — GPS Mapping App
-- [MTL Explorer](https://mindalyze-com.github.io/mtl-explorer/) / <a href="https://github.com/mindalyze-com/mtl-explorer"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Map Thousands of GPS Tracks
+- [MTL Explorer](https://mindalyze-com.github.io/mtl-explorer/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/mindalyze-com/mtl-explorer) — Map Thousands of GPS Tracks
 - [Sygic Sygic GPS Navigation](https://www.sygic.com/)
 - [TomTom app](https://www.tomtom.com/en_gb/navigation/mobile-apps/tomtom-app/) — TomTom
 - [TopoGrafix](https://www.topografix.com/) — GPS Software, Waypoints, and Maps for your Garmin, Magellan, or Lowrance GPS
-- [Trail Sense](https://kylecorry.com/Trail-Sense/) / <a href="https://github.com/kylecorry31/Trail-Sense"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Trail Sense](https://kylecorry.com/Trail-Sense/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/kylecorry31/Trail-Sense)
 
 ### GPX Viewer
 - ⭐ **[GPX viewer and recorder](https://apps.microsoft.com/detail/9nblggh4w2z7?hl=en-us&gl=US)** — Free download and install on Windows | Microsoft Store
@@ -67,7 +67,7 @@ description: Maps, weather, travel agencies, and flights
 
 ### GPS for Aviation
 - [AIRMATE](https://www.airmate.aero/) — Préparation et suivi de vols
-- [Alex Projects](https://albar965.github.io/littlenavmap.html) / <a href="https://github.com/albar965/littlenavmap"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Little Navmap
+- [Alex Projects](https://albar965.github.io/littlenavmap.html) / [![GitHub](/img/software/apps/github.svg)](https://github.com/albar965/littlenavmap) — Little Navmap
 - [AvPlan EFB](https://www.avplan-efb.com/) — Electronic Flight Bag
 - [DroidEFB](https://droidefb.com/) — Aviation App for Android Devices
 - [ForeFlight](https://foreflight.com/europe/) — ForeFlight for European Pilots
@@ -77,8 +77,8 @@ description: Maps, weather, travel agencies, and flights
 
 ## Maps
 - [Amap](https://wap.amap.com/?from=m&type=m) — 高德地图
-- [BTC Map](https://btcmap.org/) / <a href="https://github.com/teambtcmap/btcmap.org"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
-- [Cartes](https://cartes.app/#3/0/0) / <a href="https://codeberg.org/cartes/web"><img class="source-host-icon" src="/img/source-hosts/codeberg.svg" alt="Codeberg" title="Codeberg" width="14" height="14" loading="lazy"></a>
+- [BTC Map](https://btcmap.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/teambtcmap/btcmap.org)
+- [Cartes](https://cartes.app/#3/0/0) / [![Codeberg](/img/source-hosts/codeberg.svg)](https://codeberg.org/cartes/web)
 - [Every Door](https://every-door.app/)
 - [Geomarketing inAtlas](https://informa.inatlas.com/#/home)
 - [Map of Active Volcanoes and recent Earthquakes world-wide](https://earthquakes.volcanodiscovery.com/)
@@ -94,7 +94,7 @@ description: Maps, weather, travel agencies, and flights
 ### Geographic Maps
 - ⭐ **[GrafCan](https://visor.grafcan.es/)**
 - ⭐ **[NASA GISS](https://www.giss.nasa.gov/tools/gprojector/)** — G.Projector — Map Projections
-- ⭐ **[OpenStreetMap](https://www.openstreetmap.org/#map=3/0.00/0.00)** / <a href="https://github.com/openstreetmap/openstreetmap-website"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- ⭐ **[OpenStreetMap](https://www.openstreetmap.org/#map=3/0.00/0.00)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/openstreetmap/openstreetmap-website)
 - [2GIS](https://2gis.ae/dubai)
 - [Amapint.com](https://www.amapint.com/en/)
 - [Ancient Earth globe](https://dinosaurpictures.org/ancient-earth#0)
@@ -171,7 +171,7 @@ description: Maps, weather, travel agencies, and flights
 - [Huracan Electric 3D Map](https://he.net/3d-map)
 - [Internet Infrastructure Map (2026)](https://map.kmcd.dev/?year=2026)
 - [Kaspersky Cyberthreat map](https://cybermap.kaspersky.com/)
-- [Mapa de Meshtastic](https://mapa.meshtastic.es/) / <a href="https://github.com/liamcottle/meshtastic-map"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Mapa de Meshtastic](https://mapa.meshtastic.es/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/liamcottle/meshtastic-map)
 - [MeshMap](https://meshmap.net/) — Meshtastic Node Map
 - [OpenCelliD](https://opencellid.org/#zoom=16&lat=37.77889&lon=-122.41942)
 - [Opensignal](https://www.opensignal.com/)
@@ -254,7 +254,7 @@ description: Maps, weather, travel agencies, and flights
 - [Esri Maps](https://maps.esri.com/portal/WebApps/index.html)
 
 #### Conflict Maps
-- ⭐ **[World Monitor](https://worldmonitor.app/)** / <a href="https://github.com/koala73/worldmonitor"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Global Situation with AI Insights
+- ⭐ **[World Monitor](https://worldmonitor.app/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/koala73/worldmonitor) — Global Situation with AI Insights
 - [ACLED](https://acleddata.com/)
 - [Bellingcat](https://ukraine.bellingcat.com/) — Civilian Harm in Ukraine Timemap
 - [liveuamap.com](https://liveuamap.com/) — Tracking Conflict Interactive Map
@@ -291,7 +291,7 @@ description: Maps, weather, travel agencies, and flights
 - [Campy](https://campy.app/) — Find all campsites and camperstops in Europe
 - [Cesium](https://cesium.com/) — The Platform for 3D Geospatial
 - [chrieke/prettymapp · GitHub](https://github.com/chrieke/prettymapp)
-- [Comaps](https://www.comaps.app/) / <a href="https://codeberg.org/comaps/comaps"><img class="source-host-icon" src="/img/source-hosts/codeberg.svg" alt="Codeberg" title="Codeberg" width="14" height="14" loading="lazy"></a> — Hike, Bike, Drive Offline Navigate with Privacy
+- [Comaps](https://www.comaps.app/) / [![Codeberg](/img/source-hosts/codeberg.svg)](https://codeberg.org/comaps/comaps) — Hike, Bike, Drive Offline Navigate with Privacy
 - [deevroman/better-osm-org · GitHub](https://github.com/deevroman/better-osm-org)
 - [drajmarsh](https://drajmarsh.bitbucket.io/sunpath3d.html) — 3D Sun-Path
 - [drajmarsh](https://drajmarsh.bitbucket.io/earthsun.html) — Earth/Sun
@@ -305,7 +305,7 @@ description: Maps, weather, travel agencies, and flights
 - [GeoDa on Github](https://geodacenter.github.io/)
 - [geojson.io](https://geojson.io/#map=2/0/20) — powered by Mapbox
 - [GeoMapApp](https://www.geomapapp.org/)
-- [GeoPandas](https://geopandas.org/en/stable/) / <a href="https://github.com/geopandas/geopandas"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [GeoPandas](https://geopandas.org/en/stable/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/geopandas/geopandas)
 - [GeoServer](https://geoserver.org/)
 - [GeoViews](https://geoviews.org/)
 - [GNOME / gnome-maps · GitLab](https://gitlab.gnome.org/GNOME/gnome-maps/)
@@ -321,12 +321,12 @@ description: Maps, weather, travel agencies, and flights
 - [Mapbox](https://www.mapbox.com/) — Maps, geocoding, and navigation APIs & SDKs
 - [mapbox/tippecanoe](https://github.com/mapbox/tippecanoe) — Build vector tilesets from large collections of GeoJSON features.
 - [MapHub](https://maphub.net/)
-- [MapLibre](https://maplibre.org/) / <a href="https://github.com/maplibre/maplibre-gl-js"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [MapLibre](https://maplibre.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/maplibre/maplibre-gl-js)
 - [Mapline](https://mapline.com/)
 - [Mapme](https://mapme.com/)
 - [Maposaic](https://maposaic.com/)
 - [Mappin custom maps](https://map-it-up.netlify.app/)
-- [MapRoulette](https://maproulette.org/) / <a href="https://github.com/osmlab/maproulette3"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [MapRoulette](https://maproulette.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/osmlab/maproulette3)
 - [maps.me](https://maps.me/)
 - [MapServer](https://mapserver.org/)
 - [mapshaper](https://mapshaper.org/)
@@ -365,7 +365,7 @@ description: Maps, weather, travel agencies, and flights
 - [Static Map Maker](https://staticmapmaker.com/)
 - [StoryMap](https://storymap.knightlab.com/)
 - [StreetComplete](https://streetcomplete.app/)
-- [StreetComplete](https://streetcomplete.app/?lang=en) / <a href="https://github.com/streetcomplete/streetcomplete"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [StreetComplete](https://streetcomplete.app/?lang=en) / [![GitHub](/img/software/apps/github.svg)](https://github.com/streetcomplete/streetcomplete)
 - [TerraColor](https://www.terracolor.net/)
 - [terrain.party](https://terrain.party/)
 - [TerraMetrics](https://terrametrics.com/v2/)
@@ -400,27 +400,27 @@ description: Maps, weather, travel agencies, and flights
 
 ### GIS Software
 - ⭐ **[CARTO](https://carto.com/)** — The Agentic GIS Platform
-- ⭐ **[QGIS project!](https://qgis.org/)** / <a href="https://github.com/qgis/QGIS"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- ⭐ **[QGIS project!](https://qgis.org/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/qgis/QGIS)
 - [ArcGIS Pro](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview) — Esri
 - [Atlas](https://atlas.co/) — GIS & Maps in the Browser
 - [Cadcorp](https://cadcorp.com/) — An NEC Company
-- [contextily](https://contextily.readthedocs.io/en/latest/) / <a href="https://github.com/geopandas/contextily"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — context geo tiles in Python
+- [contextily](https://contextily.readthedocs.io/en/latest/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/geopandas/contextily) — context geo tiles in Python
 - [Felt](https://felt.com/) — Cloud-Native GIS Software & Online Mapping Platform
-- [GDAL](https://gdal.org/en/stable/) / <a href="https://github.com/OSGeo/gdal"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Translator library for raster and vector geospatial data formats
-- [GeoLibre](https://geolibre.app/) / <a href="https://github.com/opengeos/GeoLibre"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
-- [GeoMesa](https://www.geomesa.org/) / <a href="https://github.com/locationtech/geomesa"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [GDAL](https://gdal.org/en/stable/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/OSGeo/gdal) — Translator library for raster and vector geospatial data formats
+- [GeoLibre](https://geolibre.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/opengeos/GeoLibre)
+- [GeoMesa](https://www.geomesa.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/locationtech/geomesa)
 - [GeoSpy](https://geospy.ai/) — Find a Photo's Location Instantly
 - [Global Mapper](https://www.bluemarblegeo.com/global-mapper/)
 - [GRASS GIS](https://grass.osgeo.org/)
-- [Magrit](https://magrit.cnrs.fr/en/) / <a href="https://github.com/riatelab/magrit"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Thematic cartography
-- [Mapnik.org](https://mapnik.org/) / <a href="https://github.com/mapnik/mapnik"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — the core of geospatial visualization & processing
+- [Magrit](https://magrit.cnrs.fr/en/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/riatelab/magrit) — Thematic cartography
+- [Mapnik.org](https://mapnik.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/mapnik/mapnik) — the core of geospatial visualization & processing
 - [Maptitude](https://www.caliper.com/maptitude/mapping-software.htm) — Territory, Route, and Sales Mapping Software
-- [OpenFreeMap](https://openfreemap.org/) / <a href="https://github.com/hyperknot/openfreemap"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
-- [pyproj](https://pyproj4.github.io/pyproj/stable/) / <a href="https://github.com/pyproj4/pyproj"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — cartographic projections and coordinate transformations library
+- [OpenFreeMap](https://openfreemap.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/hyperknot/openfreemap)
+- [pyproj](https://pyproj4.github.io/pyproj/stable/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/pyproj4/pyproj) — cartographic projections and coordinate transformations library
 - [PySAL](https://pysal.org/) — Python Spatial Analysis Library
 - [rasterio/rasterio](https://github.com/rasterio/rasterio) — Rasterio reads and writes geospatial raster datasets
 - [SAGA](https://saga-gis.sourceforge.io/en/index.html) — System for Automated Geoscientific Analyses
-- [SAGA GIS Powerful GIS Mapping and Analysis Tool](https://sagagis.com/) / <a href="https://sourceforge.net/projects/saga-gis/"><img class="source-host-icon" src="/img/source-hosts/sourceforge.svg" alt="SourceForge" title="SourceForge" width="14" height="14" loading="lazy"></a>
+- [SAGA GIS Powerful GIS Mapping and Analysis Tool](https://sagagis.com/) / [![SourceForge](/img/source-hosts/sourceforge.svg)](https://sourceforge.net/projects/saga-gis/)
 
 ### Map Projections
 - [AuthaGraph map](http://www.authagraph.com/top/?lang=en)
@@ -449,7 +449,7 @@ description: Maps, weather, travel agencies, and flights
 - [Maproom/qmapshack](https://github.com/Maproom/qmapshack) — Consumer grade GIS software
 - [Mobile Atlas Creator (MOBAC)](https://mobac.sourceforge.io/)
 - [PeakVisor](https://peakvisor.com/) — 3D Maps and Peaks Identification
-- [TRIP](https://itskovacs-trip.netlify.app/) / <a href="https://github.com/itskovacs/trip"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Welcome
+- [TRIP](https://itskovacs-trip.netlify.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/itskovacs/trip) — Welcome
 
 ## Meteo Weather
 - [ACANMET](https://www.acanmet.org/portal/pages/inicio.php)
@@ -585,7 +585,7 @@ description: Maps, weather, travel agencies, and flights
 - [Nomadtable](https://nomadtable.app/)
 - [Outdooractive](https://www.outdooractive.com/en)
 - [Outdooractive](https://www.outdooractive.com/mobile/en/)
-- [OwnTracks](https://owntracks.org/) / <a href="https://github.com/owntracks"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [OwnTracks](https://owntracks.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/owntracks)
 - [Relief Maps](https://reliefmaps.io/)
 - [Relive](https://www.relive.com/)
 - [Ride with GPS](https://ridewithgps.com/)
@@ -861,7 +861,7 @@ description: Maps, weather, travel agencies, and flights
 - [ADS-B Exchange](https://globe.adsbexchange.com/) — track aircraft live
 - [ADS-B.NL Tracking Military Aircraft](https://www.ads-b.nl/)
 - [AirLabs Data API](https://airlabs.co/)
-- [AIRPLANES.LIVE](https://airplanes.live/) / <a href="https://github.com/d4rken-org/airplanes-live-app"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — independent unfiltered ADS-B and MLAT aircraft tracking. Learn about ADSB aircraft tracking and join the community
+- [AIRPLANES.LIVE](https://airplanes.live/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/d4rken-org/airplanes-live-app) — independent unfiltered ADS-B and MLAT aircraft tracking. Learn about ADSB aircraft tracking and join the community
 - [Aviation Safety Network](https://aviation-safety.net/)
 - [Federal Aviation Administration](https://notams.aim.faa.gov/notamSearch/nsapp.html#/) — NOTAM Search
 - [Flight Aware](https://flightaware.com/)
@@ -890,7 +890,7 @@ description: Maps, weather, travel agencies, and flights
 - [JSatTrak](https://www.gano.name/shawn/JSatTrak)
 - [LeoLabs](https://platform.leolabs.space/visualizations/leo)
 - [Live_ISS_Stream](https://video.ibm.com/channel/live-iss-stream+) — IBM video
-- [Look4Sat](https://play.google.com/store/apps/details?id=com.rtbishop.look4sat) / <a href="https://github.com/rt-bishop/Look4Sat"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Satellite tracker
+- [Look4Sat](https://play.google.com/store/apps/details?id=com.rtbishop.look4sat) / [![GitHub](/img/software/apps/github.svg)](https://github.com/rt-bishop/Look4Sat) — Satellite tracker
 - [N2YO](https://www.n2yo.com/)
 - [OrbTrack](https://www.lizard-tail.com/isana/tracking)
 - [POES Status](https://www.ospo.noaa.gov/Operations/POES/status.html#noaa15)

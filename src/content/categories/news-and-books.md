@@ -2084,7 +2084,7 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [Walk in the Forest](https://walkintheforest.com/Content/%F0%9F%91%8B%F0%9F%8F%BD+Welcome)
 - [Welcome 🌌](https://notes.johnmavrick.com/Digital+Galaxy/Welcome+%F0%9F%8C%8C) — John's Digital Galaxy 🌌
 - [Wiki Club Aluche](https://club-ciclista-aluche.tiddlyhost.com/) — TiddleHost
-- [WikiTerra](https://wikiterra.github.io/) / <a href="https://github.com/wikiterra/wikiterra.github.io/"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [WikiTerra](https://wikiterra.github.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/wikiterra/wikiterra.github.io/)
 - [Writing Note by Note](https://writingnotebynote.com/)
 - [XXIIVV](https://webring.xxiivv.com/) — Webring
 - [Zytomorrow DG](https://zytomorrow.top/)
@@ -2713,7 +2713,7 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [rNeomy/reader-view](https://github.com/rNeomy/reader-view) — Access Firefox's built in reader view from right click context menu
 - [Sigil Plugin Index](https://www.mobileread.com/forums/showthread.php?t=247431) — MobileRead
 - [Sigil-Ebook](https://sigil-ebook.com/)
-- [Thorium Reader](https://thorium.edrlab.org/en/) / <a href="https://github.com/edrlab/thorium-reader"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Thorium Reader](https://thorium.edrlab.org/en/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/edrlab/thorium-reader)
 - [Trackkun](https://trackkun.com/) — Manga reader & tracker for the web
 - [troyeguo/koodo-reader · GitHub](https://github.com/troyeguo/koodo-reader)
 - [YACReader](https://www.yacreader.com/)
@@ -2721,31 +2721,31 @@ description: News, blogs, digital gardens, libraries, and magazines
 ### RSS Reader
 - ⭐ **[Akregator](https://apps.kde.org/akregator/)** — KDE Applications
 - ⭐ **[Feedbro](https://nodetics.com/feedbro/)** — RSS Feed Reader
-- ⭐ **[Fluent Reader](https://hyliu.me/fluent-reader/)** / <a href="https://github.com/yang991178/fluent-reader"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
-- ⭐ **[Folo](https://folo.is/)** / <a href="https://github.com/RSSNext/Folo"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- ⭐ **[Fluent Reader](https://hyliu.me/fluent-reader/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/yang991178/fluent-reader)
+- ⭐ **[Folo](https://folo.is/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/RSSNext/Folo)
 - ⭐ **[FreshRSS](https://freshrss.org/)** — a free, self-hostable feeds aggregator
 - ⭐ **[Inoreader](https://www.inoreader.com/)** — Take back control of yorur news feed
 - ⭐ **[news-flash / news_flash_gtk · GitLab](https://gitlab.com/news-flash/news_flash_gtk)**
 - ⭐ **[nt1m/livemarks · GitHub](https://github.com/nt1m/livemarks/)**
 - ⭐ **[Panda](https://app.usepanda.com/#/)**
-- ⭐ **[Rssguard](https://rssguard.com/)** / <a href="https://github.com/martinrotter/rssguard"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- ⭐ **[Rssguard](https://rssguard.com/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/martinrotter/rssguard)
 - [Aktu.io](https://aktu.io/news/content/dashboard) — RSS
 - [Alligator](https://apps.kde.org/alligator/) — KDE
 - [Ashinch/ReadYou · GitHub](https://github.com/Ashinch/ReadYou)
 - [BazQux Reader](https://bazqux.com/)
 - [brief-rss/brief](https://github.com/brief-rss/brief) — RSS reader extension for Firefox
-- [Capy Reader](https://capyreader.com/) / <a href="https://github.com/jocmp/capyreader"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Capy Reader](https://capyreader.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/jocmp/capyreader)
 - [CommaFeed](https://www.commafeed.com/#/welcome)
 - [cscarney/syndic · GitHub](https://github.com/cscarney/syndic)
 - [Den for RSS](https://den.io/)
 - [DevHub](https://devhubapp.com/) — GitHub Notifications & Activities on your Desktop
-- [DONDURMA / Signal Reader v1.0](https://dondurma.devopen.io/) / <a href="https://github.com/DevOpen-io/dondurma-rss-reader"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [DONDURMA / Signal Reader v1.0](https://dondurma.devopen.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/DevOpen-io/dondurma-rss-reader)
 - [electh/nextflux](https://github.com/electh/nextflux) — Yet another web-based frontend for Miniflux
 - [Feed Fever](https://feedafever.com/)
 - [Feedbin](https://feedbin.com/)
-- [FeedDeck](https://feeddeck.app/) / <a href="https://github.com/feeddeck/feeddeck"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [FeedDeck](https://feeddeck.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/feeddeck/feeddeck)
 - [FeedDemon](http://www.feeddemon.com/)
-- [FeedDesk](https://torum.github.io/FeedDesk/) / <a href="https://github.com/torum/FeedDesk"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [FeedDesk](https://torum.github.io/FeedDesk/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/torum/FeedDesk)
 - [Feeder](https://feeder.co/) — RSS Feed Reader
 - [Feeder](https://f-droid.org/packages/com.nononsenseapps.feeder/) — F-Droid - Free and Open Source Android App Repository
 - [FeedForall](https://www.feedforall.com/)
@@ -2760,7 +2760,7 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [Gabmus Feeds](https://gfeeds.gabmus.org/)
 - [GetStream/Winds](https://github.com/GetStream/Winds) — A Beautiful Open Source RSS & Podcast App
 - [glanceapp/glance](https://github.com/glanceapp/glance) — A self-hosted dashboard that puts all your feeds in one place
-- [Glean](https://gleanapp.cn/en/) / <a href="https://github.com/LeslieLeung/glean"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Glean](https://gleanapp.cn/en/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/LeslieLeung/glean)
 - [Günther Wagner / hackgregator · GitLab](https://gitlab.com/gunibert/hackgregator)
 - [kickscondor/fraidycat · GitHub](https://github.com/kickscondor/fraidycat)
 - [lcomplete/huntly · GitHub](https://github.com/lcomplete/huntly)
@@ -2768,7 +2768,7 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [lwindolf / liferea · GitHub](https://github.com/lwindolf/liferea)
 - [Miniflux](https://miniflux.app/) — Feed Reader
 - [msasikanth/twine · GitHub](https://github.com/msasikanth/twine)
-- [NetNewsWire](https://netnewswire.com/) / <a href="https://github.com/Ranchero-Software/NetNewsWire"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [NetNewsWire](https://netnewswire.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Ranchero-Software/NetNewsWire)
 - [Netvibes](https://www.netvibes.com/en)
 - [News](https://apps.nextcloud.com/apps/news) — Nextcloud app
 - [Newsboat](https://newsboat.org/) / [🔗](https://newsboat.org/) — RSS reader
@@ -2782,7 +2782,7 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [pietheinstrengholt/rssmonster · GitHub](https://github.com/pietheinstrengholt/rssmonster)
 - [Qolors/FeedCord · GitHub](https://github.com/Qolors/FeedCord)
 - [QuiteRSS/quiterss · GitHub](https://github.com/QuiteRSS/quiterss)
-- [Raven Reader](https://ravenreader.app/) / <a href="https://github.com/hello-efficiency-inc/raven-reader"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Raven Reader](https://ravenreader.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/hello-efficiency-inc/raven-reader)
 - [Reabble](https://reabble.com/app)
 - [Reabble](https://reabble.com/) — RSS Reader for Amazon Kindle and other E-Ink Display devices
 - [ReadYouApp/ReadYou](https://github.com/ReadYouApp/ReadYou) — An Android RSS reader presented in Material You style.
@@ -2799,7 +2799,7 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [ruby/rss](https://github.com/ruby/rss) — RSS reading and writing
 - [samuelclay/NewsBlur · GitHub](https://github.com/samuelclay/NewsBlur)
 - [Saul-Mirone/homura](https://github.com/Saul-Mirone/homura) — Homura RSS Reader
-- [selfoss](https://selfoss.aditu.de/) / <a href="https://github.com/fossar/selfoss"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — rss reader and multi source mashup aggregator
+- [selfoss](https://selfoss.aditu.de/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/fossar/selfoss) — rss reader and multi source mashup aggregator
 - [shgysk8zer0/awesome-rss · GitHub](https://github.com/shgysk8zer0/awesome-rss)
 - [sismics/reader · GitHub](https://github.com/sismics/reader)
 - [SmartRSS](https://play.google.com/store/apps/details?id=com.vinsonguo.flutter_rss_reader) — AI RSS Reader - Apps on Google Play
@@ -2810,13 +2810,13 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [Suzie97/Communique · GitHub](https://github.com/Suzie97/Communique)
 - [SyFeed](https://syfeed.com/)
 - [Thysrael/Horizon](https://github.com/Thysrael/Horizon) — 📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达
-- [TT RSS](https://tt-rss.org/) / <a href="https://github.com/tt-rss/tt-rss"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [TT RSS](https://tt-rss.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/tt-rss/tt-rss)
 - [TypicalAM/goread · GitHub](https://github.com/TypicalAM/goread)
 - [Versionfeeds](https://versionfeeds.com/) — RSS for releases of software
-- [Vienna RSS](https://www.vienna-rss.com/) / <a href="https://github.com/ViennaRSS/vienna-rss"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — The Free and Open-Source RSS/Atom Reader for macOS
+- [Vienna RSS](https://www.vienna-rss.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/ViennaRSS/vienna-rss) — The Free and Open-Source RSS/Atom Reader for macOS
 - [Vivaldi Feed Reader](https://vivaldi.com/features/feed-reader/) — Read feeds from the sources you choose
 - [Voice](https://voice.woitaschek.de/)
-- [WinNewsWire](https://www.winnewswire.com/) / <a href="https://github.com/jcqtech/WinNewsWire"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — A fast, native RSS reader for Windows
+- [WinNewsWire](https://www.winnewswire.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/jcqtech/WinNewsWire) — A fast, native RSS reader for Windows
 - [World / Feeds · GitLab](https://gitlab.gnome.org/World/gfeeds)
 - [Xyrio/RSSOwlnix · GitHub](https://github.com/Xyrio/RSSOwlnix)
 
@@ -2829,7 +2829,7 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [K3vinb5/Unyo](https://github.com/K3vinb5/Unyo) — 🐙 Anime streaming and Manga reader desktop app without ads.
 - [Komikku](https://valos.gitlab.io/Komikku/) — A manga reader
 - [Komikku · Codeberg](https://codeberg.org/valos/Komikku)
-- [Kotatsu](https://kotatsu.app/) / <a href="https://github.com/KotatsuApp/Kotatsu"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Kotatsu](https://kotatsu.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/KotatsuApp/Kotatsu)
 - [MangaTime](https://mangatime.net/en/) — The best mobile app to track manga
 - [mihonapp/mihon](https://github.com/mihonapp/mihon) — Free and open source manga reader for Android
 - [OpenComic · GitHub](https://github.com/ollm/OpenComic)

@@ -14,7 +14,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 
 ## Autopilot System
 - [ArduPilot](https://ardupilot.org/)
-- [Comma Openpilot](https://comma.ai/openpilot) / <a href="https://github.com/commaai/openpilot"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — make driving chill
+- [Comma Openpilot](https://comma.ai/openpilot) / [![GitHub](/img/software/apps/github.svg)](https://github.com/commaai/openpilot) — make driving chill
 - [Litchi for DJI Drones](https://www.flylitchi.com/)
 - [PX4 Autopilot](https://px4.io/)
 - [QGroundControl](http://qgroundcontrol.com/) — Drone Control
@@ -46,7 +46,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [Bliss OS](https://blissos.org/)
 - [BlissRoms](https://blissroms.org/)
 - [Bootleggers ROM](https://www.bootleggersrom.xyz/)
-- [CalyxOS](https://calyxos.org/) / <a href="https://gitlab.com/CalyxOS"><img class="source-host-icon" src="/img/source-hosts/gitlab.svg" alt="GitLab" title="GitLab" width="14" height="14" loading="lazy"></a>
+- [CalyxOS](https://calyxos.org/) / [![GitLab](/img/source-hosts/gitlab.svg)](https://gitlab.com/CalyxOS)
 - [Chainfire](https://chainfire.eu/)
 - [ColorOS](https://www.coloros.com/)
 - [ColorOS 12](https://www.oppo.com/en/coloros12/) — OPPO Global
@@ -148,7 +148,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 
 #### Smartwatch OS
 - [argrento/huami-token](https://codeberg.org/argrento/huami-token/) — Script to obtain watch or band bluetooth token from Huami servers - Codeberg.org
-- [AsteroidOS](https://asteroidos.org/) / <a href="https://github.com/AsteroidOS/asteroid"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [AsteroidOS](https://asteroidos.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/AsteroidOS/asteroid)
 - [daniel-thompson/wasp-os · GItHub](https://github.com/daniel-thompson/wasp-os)
 - [Espruino](https://www.espruino.com/) — JavaScript for Microcontrollers
 - [Fitbit](https://www.fitbit.com/global/us/home)
@@ -161,7 +161,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 ### Workstation OS (generic)
 
 #### UNIX-Based
-- [Vinix](https://vinix-os.org/) / <a href="https://github.com/vlang/vinix"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — A modern operating system written in V
+- [Vinix](https://vinix-os.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/vlang/vinix) — A modern operating system written in V
 
 ##### Unix-Like
 
@@ -295,7 +295,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [SysLinuxOS](https://syslinuxos.com/)
 - [TUXEDO OS](https://www.tuxedocomputers.com/en/TUXEDO-OS_1.tuxedo) — TUXEDO Computers
 - [Uruk GNU/Linux](https://www.urukproject.org/dist/en.html)
-- [Vailux n.e.V](https://www.vailux.de/) / <a href="https://gitlab.vailux.de/vailux/vailuxos"><img class="source-host-icon" src="/img/source-hosts/gitlab.svg" alt="GitLab" title="GitLab" width="14" height="14" loading="lazy"></a>
+- [Vailux n.e.V](https://www.vailux.de/) / [![GitLab](/img/source-hosts/gitlab.svg)](https://gitlab.vailux.de/vailux/vailuxos)
 - [Vendefoul Wolf Linux](https://vendefoulwolf.wordpress.com/excalibur/) — Excalibur Trinity y Plasma
 - [Whonix](https://www.whonix.org/)
 - [Window Maker Live](https://wmlive.sourceforge.net/)
@@ -382,7 +382,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [METIS Linux](https://metislinux.org/)
 - [Nyarch Linux](https://nyarchlinux.moe/)
 - [Obarun](https://web.obarun.org/index.php)
-- [Omarchy](https://omarchy.org/) / <a href="https://github.com/basecamp/omarchy"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Omarchy](https://omarchy.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/basecamp/omarchy)
 - [Parabola GNU](https://www.parabola.nu/)
 - [Parch Linux](https://parchlinux.com/)
 - [Peux OS](https://peux-os.netlify.app/)
@@ -500,7 +500,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [Kairos](https://kairos.io/) — The immutable Linux meta-distribution for edge Kubernetes
 - [KaOS](https://kaosx.us/)
 - [KISS Linux](https://kisslinux.org/)
-- [Lakka](https://www.lakka.tv/) / <a href="https://github.com/libretro/Lakka-LibreELEC"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — The DIY open source retrogaming emulation console
+- [Lakka](https://www.lakka.tv/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/libretro/Lakka-LibreELEC) — The DIY open source retrogaming emulation console
 - [LFA Linux](https://lfa.exton.net/) — Linux for all
 - [libreCMC](https://librecmc.org/)
 - [LiGurOS](https://liguros.gitlab.io/) — source based OS
@@ -521,7 +521,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [oreonproject](https://oreonproject.org/)
 - [OviOS Linux](https://www.ovios.org/)
 - [paldo GNU/Linux](https://www.paldo.org/)
-- [pearOS](https://pearos.xyz/) / <a href="https://github.com/pearOS-archlinux/iso"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [pearOS](https://pearos.xyz/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/pearOS-archlinux/iso)
 - [Peropesis](https://peropesis.org/) — Linux OS
 - [Photon OS](https://vmware.github.io/photon/)
 - [Pisi GNU/Linux](https://pisilinux.org/)
@@ -589,15 +589,15 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [Andy-Python-Programmer/aero · GitHub](https://github.com/Andy-Python-Programmer/aero)
 - [AtheOS](https://atheos.metaproject.frl/)
 - [ember · GitHub](https://github.com/Made-In-Basement/ember)
-- [GNU Guix](https://guix.gnu.org/) / <a href="https://codeberg.org/guix/guix"><img class="source-host-icon" src="/img/source-hosts/codeberg.svg" alt="Codeberg" title="Codeberg" width="14" height="14" loading="lazy"></a>
+- [GNU Guix](https://guix.gnu.org/) / [![Codeberg](/img/source-hosts/codeberg.svg)](https://codeberg.org/guix/guix)
 - [IBM Power AIX](https://www.ibm.com/products/aix)
 - [illumos](https://illumos.org/)
 - [Lemon OS](https://lemonos.org/)
 - [llenotre/maestro](https://github.com/llenotre/maestro) — Unix-like kernel written in Rust
 - [mrgian/felixOS · GitHub](https://github.com/mrgian/felix)
-- [Plan 9 from User Space](https://9fans.github.io/plan9port/) / <a href="https://github.com/9fans/plan9port"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Plan 9 from User Space](https://9fans.github.io/plan9port/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/9fans/plan9port)
 - [Redox](https://www.redox-os.org/) — Unix-like OS written in Rust
-- [SerenityOS](https://serenityos.org/) / <a href="https://github.com/SerenityOS/serenity"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [SerenityOS](https://serenityos.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/SerenityOS/serenity)
 - [The Theseus OS](https://www.theseus-os.com/)
 - [XinuOS](https://www.xinuos.com/)
 
@@ -608,7 +608,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [Hackintosh.com](https://hackintosh.com/)
 - [macOS](https://www.apple.com/macos/) — apple
 - [macOS 14](https://archive.org/details/macOS_14_Sonoma_beta_4_ISO) — Internet Archive
-- [OpenCore Legacy Patcher](https://dortania.github.io/OpenCore-Legacy-Patcher/) / <a href="https://github.com/dortania/OpenCore-Legacy-Patcher/"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [OpenCore Legacy Patcher](https://dortania.github.io/OpenCore-Legacy-Patcher/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/dortania/OpenCore-Legacy-Patcher/)
 
 ##### BSD-Based
 - ⭐ **[FreeBSD](https://www.freebsd.org/)** / [🔗](https://cgit.freebsd.org/)
@@ -681,7 +681,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - ⭐ **[ChangeWindows](https://www.changewindows.org/timeline)** — Timeline
 - ⭐ **[dockur/windows · GitHub](https://github.com/dockur/windows)**
 - ⭐ **[tiny11 23H2](https://archive.org/details/tiny-10-23-h2)** — Internet Archive
-- [Atlas](https://atlasos.net/) / <a href="https://github.com/Atlas-OS/Atlas"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — An optimized modification of Windows
+- [Atlas](https://atlasos.net/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Atlas-OS/Atlas) — An optimized modification of Windows
 - [Atlas-OS/Atlas · GitHub](https://github.com/Atlas-OS/Atlas)
 - [HickerDicker/SapphireOS](https://github.com/HickerDicker/SapphireOS)
 - [Massgrave](https://massgrave.dev/genuine-installation-media) — Download Windows / Office
@@ -717,7 +717,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [KasperskyOS](https://os.kaspersky.com/) — cyber Immune approach to IT systems security
 - [manjaro-arm/rpi4-images · GitHub](https://github.com/manjaro-arm/rpi4-images)
 - [Micrium OS](https://www.silabs.com/developers/micrium-os) — Silicon Labs
-- [OpenWrt](https://openwrt.org/) / <a href="https://github.com/openwrt/openwrt"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [OpenWrt](https://openwrt.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/openwrt/openwrt)
 - [OpenWrt Downloads](https://downloads.openwrt.org/)
 - [Real Time Operating System (RTOS)](https://azure.microsoft.com/en-us/products/rtos/) — Microsoft Azure
 - [RIOT](https://www.riot-os.org/) — The friendly Operating System for the Internet of Things
@@ -738,7 +738,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 #### Enterprise Server OS
 - ⭐ **[Proxmox](https://www.proxmox.com/en/)** — Powerful open-source server solution
 - ⭐ **[Rocky Linux](https://rockylinux.org/)**
-- ⭐ **[TrueNAS](https://www.truenas.com/)** / <a href="https://github.com/truenas"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- ⭐ **[TrueNAS](https://www.truenas.com/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/truenas)
 - [AlmaLinux OS](https://almalinux.org/)
 - [Fedora Server OS](https://fedoraproject.org/server/)
 - [Oracle Solaris 11](https://www.oracle.com/solaris/solaris11)
@@ -755,10 +755,10 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [YunoHost](https://yunohost.org/) — easily manage a server for your friends
 
 #### Home Server OS
-- ⭐ **[Umbrel](https://umbrel.com/)** / <a href="https://github.com/getumbrel/umbrel"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — The ultimate home server and OS for self-hosting
+- ⭐ **[Umbrel](https://umbrel.com/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/getumbrel/umbrel) — The ultimate home server and OS for self-hosting
 - [Amahi Home Server](https://www.amahi.org/) — Making Home Networking Simple
-- [CapRover · Scalable, Free and Self-hosted PaaS!](https://caprover.com/) / <a href="https://github.com/caprover/caprover"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
-- [CasaOS](https://casaos.zimaspace.com/) / <a href="https://github.com/IceWhaleTech/CasaOS"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — A simple, easy-to-use, elegant open-source personal cloud system
+- [CapRover · Scalable, Free and Self-hosted PaaS!](https://caprover.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/caprover/caprover)
+- [CasaOS](https://casaos.zimaspace.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/IceWhaleTech/CasaOS) — A simple, easy-to-use, elegant open-source personal cloud system
 - [DietPi](https://dietpi.com/) — Lightweight justice for your SBC!
 - [DiskStation Manager](https://www.synology.com/en-us/dsm) — Synology Inc.
 - [EasyNAS](https://easynas.org/)
@@ -788,7 +788,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [Zeroshell Linux Router](https://www.zeroshell.org/)
 
 ### Console OS
-- [Horizon OC](https://horizon-oc.github.io/) / <a href="https://github.com/Horizon-OC/Horizon-OC"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Horizon OC](https://horizon-oc.github.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Horizon-OC/Horizon-OC)
 - [IOS](https://wiibrew.org/wiki/IOS) — WiiBrew
 - [Nintendo Switch Brew](https://switchbrew.org/)
 - [ValveSoftware/SteamOS](https://github.com/ValveSoftware/SteamOS) — SteamOS community tracker
@@ -812,7 +812,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 ## OS Components
 
 ### Desktop System as Website
-- ⭐ **[daedalOS](https://dustinbrett.com/)** / <a href="https://github.com/DustinBrett/daedalOS"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- ⭐ **[daedalOS](https://dustinbrett.com/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/DustinBrett/daedalOS)
 - [98.js](https://98.js.org/) — Windows 98 Online
 - [ArozOS](https://os.aroz.org/#)
 - [Ash Kyd](https://ash.ms/)
@@ -833,7 +833,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [WINDOWS93](https://www.windows93.net/)
 - [Windows95 · GitHub](https://github.com/felixrieseberg/windows95)
 - [WinXP](https://winxp.vercel.app/) — Windows XP in React
-- [witr playground](https://pranshuparmar.github.io/witr/) / <a href="https://github.com/pranshuparmar/witr"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [witr playground](https://pranshuparmar.github.io/witr/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/pranshuparmar/witr)
 
 ### Desktop Environment Parts
 - [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) — Windows 10/11 Desktop Environment
@@ -853,7 +853,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [Wallpaper Engine](https://www.wallpaperengine.io/en)
 - [Wallspace](https://wallspace.app/) — Ultimate MacOS Live Wallpaper App
 - [waywallen/waywallen](https://github.com/waywallen/waywallen) — Wallpaper Manager for Linux
-- [Windhawk](https://windhawk.net/) / <a href="https://github.com/ramensoftware/windhawk"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Windhawk](https://windhawk.net/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/ramensoftware/windhawk)
 - [xbar, the BitBar reboot](https://xbarapp.com/)
 - [XDesktopSoft](https://xwidget.com/)
 - [XDG Desktop Portal](https://flatpak.github.io/xdg-desktop-portal/)
@@ -863,7 +863,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 #### App Launcher
 - [AIO Launcher](https://aiolauncher.app/)
 - [albu-razvan/Stario](https://github.com/albu-razvan/Stario) — Do more with Stario — the minimalist launcher for you.
-- [AppGrid](https://appgrid.xarbit.dev/) / <a href="https://github.com/xarbit/plasma6-applet-appgrid"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Grid Application Launcher for KDE Plasma 6
+- [AppGrid](https://appgrid.xarbit.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/xarbit/plasma6-applet-appgrid) — Grid Application Launcher for KDE Plasma 6
 - [AT4K Launcher App for Android TV](https://at4klauncher.com/)
 - [ATV Launcher Pro](https://play.google.com/store/apps/details?id=ca.dstudio.atvlauncher.pro) — Apps on Google Play
 - [DroidWorksStudio/EasyLauncher · GitHub](https://github.com/DroidWorksStudio/EasyLauncher)
@@ -875,7 +875,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [jkuester/unlauncher](https://github.com/jkuester/unlauncher) — Android minimalistic launcher
 - [KISS Launcher](https://kisslauncher.com/)
 - [Kvaesitso](https://kvaesitso.mm20.de/)
-- [Lawnchair](https://lawnchair.app/) / <a href="https://github.com/LawnchairLauncher/lawnchair"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Lawnchair](https://lawnchair.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/LawnchairLauncher/lawnchair)
 - [Niagara Launcher](https://niagaralauncher.app/)
 - [Nova Launcher](https://novalauncher.com/)
 - [Parallel Space](http://parallelspace-app.com/)
@@ -948,7 +948,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [esjeon/krohnkite · GitHub](https://github.com/esjeon/krohnkite)
 - [evilwm](https://www.6809.org.uk/evilwm/)
 - [exwm · GitHub](https://github.com/ch11ng/exwm)
-- [Fedora Installation](https://dwm.christitus.com/) / <a href="https://github.com/ChrisTitusTech/dwm-titus"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — dwm-titus
+- [Fedora Installation](https://dwm.christitus.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/ChrisTitusTech/dwm-titus) — dwm-titus
 - [FT-Labs/pdwm · GitHub](https://github.com/FT-Labs/pdwm)
 - [glzr-io/glazewm](https://github.com/glzr-io/glazewm) — GlazeWM is a tiling window manager for Windows inspired by i3 and Polybar
 - [herbstluftwm](https://herbstluftwm.org/)
@@ -986,14 +986,14 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [yurimaster2112/i3-gaps · GitHub](https://github.com/yurimaster2112/i3-gaps)
 
 ##### Display Protocol
-- [Wayland](https://wayland.freedesktop.org/) / <a href="https://gitlab.freedesktop.org/wayland"><img class="source-host-icon" src="/img/source-hosts/gitlab.svg" alt="GitLab" title="GitLab" width="14" height="14" loading="lazy"></a> — Free desktop
+- [Wayland](https://wayland.freedesktop.org/) / [![GitLab](/img/source-hosts/gitlab.svg)](https://gitlab.freedesktop.org/wayland) — Free desktop
 - [wayland / wayland · GitLab](https://gitlab.freedesktop.org/wayland/wayland)
 - [X Window System Protocol](https://www.x.org/releases/X11R7.7/doc/xproto/x11protocol.html)
 
 ##### Display Server
 
 ###### Wayland Compositor
-- ⭐ **[Hyprland](https://hypr.land/)** / <a href="https://github.com/hyprwm/Hyprland"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- ⭐ **[Hyprland](https://hypr.land/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/hyprwm/Hyprland)
 - [~bl4ckb0ne/wxrc](https://git.sr.ht/~bl4ckb0ne/wxrc) — sourcehut git
 - [Arcan](https://arcan-fe.com/)
 - [aspauldingcode/Wawona](https://github.com/aspauldingcode/Wawona) — A native macOS Wayland Compositor
@@ -1016,7 +1016,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [niri-wm/niri](https://github.com/niri-wm/niri) — A scrollable-tiling Wayland compositor
 - [Nitrux/maui-shell · GitHub](https://github.com/Nitrux/maui-shell)
 - [nwg-shell · GitHub](https://github.com/nwg-piotr/nwg-shell)
-- [river](https://isaacfreund.com/software/river/) / <a href="https://codeberg.org/river/river"><img class="source-host-icon" src="/img/source-hosts/codeberg.svg" alt="Codeberg" title="Codeberg" width="14" height="14" loading="lazy"></a>
+- [river](https://isaacfreund.com/software/river/) / [![Codeberg](/img/source-hosts/codeberg.svg)](https://codeberg.org/river/river)
 - [riverwm/river](https://codeberg.org/river/river) — A dynamic tiling Wayland compositor
 - [rofi](https://github.com/lbonn/rofi) — Rofi-wayland
 - [Shell desktop · GitHub](https://github.com/lirios/shell)
@@ -1066,7 +1066,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [Raycast](https://www.raycast.com/)
 - [ueli](https://ueli.app/#/) — A keystroke launcher for Windows and macOS
 - [Ulauncher](https://ulauncher.io/) — Application launcher for Linux
-- [Vicinae Documentation](https://docs.vicinae.com/) / <a href="https://github.com/vicinaehq/vicinae"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Vicinae Documentation](https://docs.vicinae.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/vicinaehq/vicinae)
 - [Wox.one](http://www.wox.one/)
 
 #### Bar Manager
@@ -1074,7 +1074,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [DarkBar · GitHub](https://github.com/bluesabre/darkbar)
 - [DockFix](https://www.dockfix.app/) — Reimagine your macOS Dock
 - [Dockhunt](https://www.dockhunt.com/)
-- [Docking](https://docking.cc/) / <a href="https://github.com/edumucelli/docking"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Open Source Linux Dock with Applets, Themes and Desktop Integration
+- [Docking](https://docking.cc/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/edumucelli/docking) — Open Source Linux Dock with Applets, Themes and Desktop Integration
 - [Electro-panel · GitLab](https://gitlab.com/fadingeek/electro-panel)
 - [Folder Hub](https://www.finderhub.app/)
 - [Glx-Dock](https://glx-dock.org/)
@@ -1087,7 +1087,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [Polybar · GitHub](https://polybar.github.io/)
 - [Quickshell](https://quickshell.org/)
 - [Start11](https://www.stardock.com/products/start11/) — Stardock
-- [Vorssaint](https://vorssaint.com/) / <a href="https://github.com/vorssaint/vorssaint-utils"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — The modular Swiss Army knife for macOS
+- [Vorssaint](https://vorssaint.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/vorssaint/vorssaint-utils) — The modular Swiss Army knife for macOS
 - [Waybar · GItHub](https://github.com/Alexays/Waybar)
 
 #### Login Manager
@@ -1118,7 +1118,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [CDE](https://sourceforge.net/projects/cdesktopenv/) — Common Desktop Environment
 - [Cinnamon Spices](https://cinnamon-spices.linuxmint.com/)
 - [Cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop)
-- [COSMIC](https://system76.com/cosmic) / <a href="https://github.com/pop-os/cosmic-epoch"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — System 76
+- [COSMIC](https://system76.com/cosmic) / [![GitHub](/img/software/apps/github.svg)](https://github.com/pop-os/cosmic-epoch) — System 76
 - [CutefishOS](https://en.cutefishos.com/)
 - [Deepin desktop](https://www.deepin.org/en/dde/)
 - [Desktop environment](https://en.wikipedia.org/wiki/Desktop_environment) — Wikipedia
@@ -1137,7 +1137,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [MATE Desktop Environment](https://mate-desktop.org/)
 - [NOMone Desktop](https://desktop.nomone.com/) — Your desktop on the go!
 - [NsCDE/NsCDE · GitHub](https://github.com/NsCDE/NsCDE)
-- [Phosh](https://phosh.mobi/) / <a href="https://gitlab.gnome.org/World/Phosh/phosh"><img class="source-host-icon" src="/img/source-hosts/gitlab.svg" alt="GitLab" title="GitLab" width="14" height="14" loading="lazy"></a>
+- [Phosh](https://phosh.mobi/) / [![GitLab](/img/source-hosts/gitlab.svg)](https://gitlab.gnome.org/World/Phosh/phosh)
 - [ROX Desktop](http://rox.sourceforge.net/desktop/)
 - [Sxmo](https://sxmo.org/) / [🔗](https://sxmo.org/source) — Simple X mobile
 - [theShell](https://old.vicr123.com/theshell/) — Vicr123
@@ -1162,7 +1162,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [openharmony/kernel_liteos_m · GitHub](https://github.com/openharmony/kernel_liteos_m)
 - [Plan 9 Foundation](https://p9f.org/)
 - [Solaris](http://www.osdata.com/oses/solaris.htm)
-- [The seL4 Microkernel](https://sel4.systems/) / <a href="https://github.com/seL4/seL4"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — seL4
+- [The seL4 Microkernel](https://sel4.systems/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/seL4/seL4) — seL4
 - [thepowersgang/rust_os · GitHub](https://github.com/thepowersgang/rust_os)
 - [Tock Embedded Operating System](https://www.tockos.org/)
 - [zircon](https://fuchsia.googlesource.com/fuchsia/+/master/zircon/) — fuchsia - Git at Google
@@ -1192,7 +1192,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 ### Init System
 - [apple-oss-distributions/launchd · GitHub](https://github.com/apple-oss-distributions/launchd)
 - [Buildroot](https://buildroot.org/)
-- [Dinit](https://davmac.org/projects/dinit/) / <a href="https://github.com/davmac314/dinit"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — service manager, init system
+- [Dinit](https://davmac.org/projects/dinit/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/davmac314/dinit) — service manager, init system
 - [dinit · GitHub](https://github.com/davmac314/dinit)
 - [No systemd](https://nosystemd.org/)
 - [OpenRC init system · GitHub](https://github.com/OpenRC/openrc)
@@ -1201,7 +1201,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [sinit](https://core.suckless.org/sinit/) — suckless.org
 - [Supervisor](http://supervisord.org/)
 - [System V style init programs](https://savannah.nongnu.org/projects/sysvinit)
-- [SystemD](https://systemd.io/) / <a href="https://github.com/systemd/systemd"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [SystemD](https://systemd.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/systemd/systemd)
 - [troglobit/finit](https://github.com/troglobit/finit) — Fast init for Linux. Cookies included
 - [upstart](https://upstart.ubuntu.com/) — event-based init daemon
 
@@ -1250,12 +1250,12 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [Airspy SDR](https://airspy.com/) — High Quality Software-Defined Radio, Redefined
 - [f4exb/sdrangel](https://github.com/f4exb/sdrangel) — SDR Rx/Tx software for Airspy, Airspy HF+, BladeRF, HackRF, LimeSDR, PlutoSDR, RTL-SDR, SDRplay and FunCube
 - [GNU Radio](https://www.gnuradio.org/)
-- [Gqrx SDR](https://www.gqrx.dk/) / <a href="https://github.com/gqrx-sdr/gqrx"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Open source software defined radio by Alexandru Csete OZ9AEC
-- [OpenWebRX web-based software defined radio](https://www.openwebrx.de/) / <a href="https://github.com/jketterl/openwebrx"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Gqrx SDR](https://www.gqrx.dk/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/gqrx-sdr/gqrx) — Open source software defined radio by Alexandru Csete OZ9AEC
+- [OpenWebRX web-based software defined radio](https://www.openwebrx.de/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/jketterl/openwebrx)
 
 ## Utility
 - ⭐ **[Wintoys](https://apps.microsoft.com/detail/9p8ltpgcbzxd?hl=en-US&gl=ES)** — Free download and install on Windows | Microsoft Store
-- [DevToys](https://devtoys.app/) / <a href="https://github.com/DevToys-app"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — A Swiss Army knife for developers
+- [DevToys](https://devtoys.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/DevToys-app) — A Swiss Army knife for developers
 - [FossifyOrg/Keyboard · GitHub](https://github.com/FossifyOrg/Keyboard)
 - [mgth/LittleBigMouse](https://github.com/mgth/littlebigmouse) — DPI Aware mouse move across screens
 - [Micrsoft/PowerToys · GitHub](https://github.com/microsoft/PowerToys)

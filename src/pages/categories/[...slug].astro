@@ -50,64 +50,91 @@ const hasLeadingMarkdownTitle = /^\s*#\s+/.test(entry.body ?? '');
 
   <script is:inline>
     (() => {
-      const toggle = document.getElementById('categoryFavoritesToggle');
       const prose = document.querySelector('.vp-prose');
-      if (!toggle || !prose) return;
+      if (!prose) return;
 
-      const STORAGE_KEY = 'interneto:favorites-only';
       const STAR_RE = /^\s*⭐/;
 
       const items = Array.from(prose.querySelectorAll('li'));
-      const favItems = items.filter((li) => STAR_RE.test(li.textContent || ''));
-      favItems.forEach((li) => li.classList.add('vp-fav-item'));
+      // Open source = the item has a source-code link: a host icon from markdown-renderer.js, or the 🔗 fallback.
+      const isSourceLink = (a) => a.querySelector('img[src*="/source-hosts/"], img[src$="/apps/github.svg"]') !== null || a.textContent.trim() === '🔗';
+      items.forEach((li) => {
+        if (STAR_RE.test(li.textContent || '')) li.classList.add('vp-fav-item');
+        if (Array.from(li.querySelectorAll('a')).some(isSourceLink)) li.classList.add('vp-oss-item');
+      });
+      // Markdown images have no title attribute, so the platform name (alt) becomes the hover tooltip.
+      prose.querySelectorAll('li a > img').forEach((img) => {
+        if (!img.title) img.title = img.alt;
+      });
+
+      // Each active switch keeps only items carrying its class, so active switches combine (AND).
+      const filters = [
+        { toggle: document.getElementById('categoryFavoritesToggle'), key: 'interneto:favorites-only', itemClass: 'vp-fav-item' },
+        { toggle: document.getElementById('categoryOpenSourceToggle'), key: 'interneto:open-source-only', itemClass: 'vp-oss-item' },
+      ].filter((f) => f.toggle);
+      if (filters.length === 0) return;
 
       const lists = Array.from(prose.querySelectorAll('ul, ol'));
-      const headings = Array.from(prose.querySelectorAll('h2, h3, h4'));
+      // Sections are headings (h2–h6) and bold-only paragraph labels (**APK Repo**) above a list.
+      const isHeading = (el) => /^H[2-6]$/.test(el.tagName);
+      const isLabel = (el) => el.tagName === 'P' && el.firstElementChild?.tagName === 'STRONG' && el.textContent.trim() === el.firstElementChild.textContent.trim();
+      const isSection = (el) => isHeading(el) || isLabel(el);
+      const levelOf = (el) => (isHeading(el) ? Number(el.tagName[1]) : 7);
+      const sections = Array.from(prose.querySelectorAll('h2, h3, h4, h5, h6, p')).filter((el) => el.tagName !== 'P' || isLabel(el));
+      const tocLinks = Array.from(document.querySelectorAll('#vpToc a[data-toc-target]'));
 
       const isVisible = (el) => !el.classList.contains('vp-favorite-hidden');
 
-      const applyFilter = (on) => {
-        toggle.setAttribute('aria-checked', on ? 'true' : 'false');
-        toggle.classList.toggle('is-active', on);
+      // A section has content while a visible list or text paragraph follows it, before the next section of the same
+      // or a higher level, so a parent heading stays visible while its subsections still have visible items.
+      const hasOwnContent = (section) => {
+        const level = levelOf(section);
+        for (let s = section.nextElementSibling; s && !(isSection(s) && levelOf(s) <= level); s = s.nextElementSibling) {
+          if (isVisible(s) && (s.tagName === 'UL' || s.tagName === 'OL' || (s.tagName === 'P' && !isLabel(s) && s.textContent.trim()))) return true;
+        }
+        return false;
+      };
 
+      const applyFilters = () => {
         items.forEach((li) => {
-          const isFav = li.classList.contains('vp-fav-item');
-          li.classList.toggle('vp-favorite-hidden', on && !isFav);
+          const hide = filters.some((f) => f.on && !li.classList.contains(f.itemClass));
+          li.classList.toggle('vp-favorite-hidden', hide);
         });
 
         lists.forEach((list) => {
           const hasVisibleChild = Array.from(list.children).some(isVisible);
-          list.classList.toggle('vp-favorite-hidden', on && !hasVisibleChild);
+          list.classList.toggle('vp-favorite-hidden', filters.some((f) => f.on) && !hasVisibleChild);
         });
 
-        headings.forEach((h) => {
-          let sibling = h.nextElementSibling;
-          let hasContent = false;
-          while (sibling && !/^H[2-4]$/.test(sibling.tagName)) {
-            if (isVisible(sibling) && (sibling.tagName === 'UL' || sibling.tagName === 'OL' || sibling.textContent?.trim())) {
-              hasContent = true;
-              break;
-            }
-            sibling = sibling.nextElementSibling;
-          }
-          h.classList.toggle('vp-favorite-hidden', on && !hasContent);
+        const filtering = filters.some((f) => f.on);
+        sections.forEach((s) => s.classList.toggle('vp-favorite-hidden', filtering && !hasOwnContent(s)));
+
+        tocLinks.forEach((a) => {
+          const target = document.getElementById(a.dataset.tocTarget);
+          a.parentElement.classList.toggle('vp-favorite-hidden', !!target && target.classList.contains('vp-favorite-hidden'));
+        });
+
+        filters.forEach((f) => {
+          f.toggle.setAttribute('aria-checked', f.on ? 'true' : 'false');
+          f.toggle.classList.toggle('is-active', f.on);
         });
       };
 
-      let on = false;
-      try {
-        on = localStorage.getItem(STORAGE_KEY) === '1';
-      } catch {}
-
-      applyFilter(on);
-
-      toggle.addEventListener('click', () => {
-        on = !on;
+      filters.forEach((f) => {
+        f.on = false;
         try {
-          localStorage.setItem(STORAGE_KEY, on ? '1' : '0');
+          f.on = localStorage.getItem(f.key) === '1';
         } catch {}
-        applyFilter(on);
+        f.toggle.addEventListener('click', () => {
+          f.on = !f.on;
+          try {
+            localStorage.setItem(f.key, f.on ? '1' : '0');
+          } catch {}
+          applyFilters();
+        });
       });
+
+      applyFilters();
     })();
   </script>
 </VPLayout>

@@ -2229,7 +2229,7 @@ description: Stores, marketplaces, product research, and resale
 ###### Geospatial Data
 - [52°North](https://52north.org/)
 - [Airbus Intelligence](https://www.intelligence-airbusds.com/)
-- [Apache Sedona](https://sedona.apache.org/latest/) / <a href="https://github.com/apache/sedona"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Apache Sedona](https://sedona.apache.org/latest/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/apache/sedona)
 - [Descartes Labs](https://www.descarteslabs.com/)
 - [Development Seed](https://developmentseed.org/)
 - [Esri](https://www.esri.com/en-us/home) — GIS Mapping Software, Location Intelligence & Spatial Analytics
@@ -2601,7 +2601,7 @@ description: Stores, marketplaces, product research, and resale
 - [cdmon](https://www.cdmon.com/es)
 - [DAN](https://dan.com/)
 - [DataCube.com](https://datacube.com/)
-- [DigitalPlat Domain](https://domain.digitalplat.org/) / <a href="https://github.com/DigitalPlatDev/FreeDomain"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [DigitalPlat Domain](https://domain.digitalplat.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/DigitalPlatDev/FreeDomain)
 - [dinahosting](https://dinahosting.com/)
 - [Domain.com](https://www.domain.com/)
 - [Dominios.es](https://dominios.es/)
@@ -2659,7 +2659,7 @@ description: Stores, marketplaces, product research, and resale
 - [Let's Encrypt](https://letsencrypt.org/)
 
 ###### Debrid
-- ⭐ **[Debrid Media Manager](https://debridmediamanager.com/start)** / <a href="https://github.com/debridmediamanager"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- ⭐ **[Debrid Media Manager](https://debridmediamanager.com/start)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/debridmediamanager)
 - [AllDebrid](https://alldebrid.com/) — Premium link generator and torrent downloader
 - [Debrid-Link](https://debrid-link.com/) — Premium link generator and Seedbox
 - [Debridio](https://debridio.com/)
@@ -2667,7 +2667,7 @@ description: Stores, marketplaces, product research, and resale
 - [Mega-Debrid](https://www.mega-debrid.eu/) — Generador de enlaces premium y descargador de torrents
 - [Premiumize.me](https://www.premiumize.me/) — Cloud Storage
 - [Real-Debrid](https://real-debrid.com/) — All-in-one solution
-- [TorBox.app](https://torbox.app/) / <a href="https://github.com/TorBox-App"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [TorBox.app](https://torbox.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/TorBox-App)
 
 ##### Usenet Provider
 - [BlockNews](https://blocknews.net/)
@@ -2848,7 +2848,7 @@ description: Stores, marketplaces, product research, and resale
 - [pqrs.org](https://pqrs.org/)
 - [pwmt.org](https://pwmt.org/)
 - [Rainberry, Inc](https://rainberry.com/)
-- [Realm Open Source](https://realm.github.io/) / <a href="https://github.com/realm"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Realm Open Source](https://realm.github.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/realm)
 - [Recruitment Software](https://recruitee.com/)
 - [Reincubate](https://reincubate.com/) — Get more from your devices
 - [Research and Care](https://www.researchandcare.org/)
@@ -3328,7 +3328,7 @@ description: Stores, marketplaces, product research, and resale
 - [AIMultiple](https://aimultiple.com/)
 - [ALEPH ALPHA](https://aleph-alpha.com/) — AI for Enterprises and Governments
 - [Ango AI](https://ango.ai/)
-- [Anthropic](https://www.anthropic.com/) / <a href="https://github.com/anthropics"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Anthropic](https://www.anthropic.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/anthropics)
 - [AyasdiAI](https://www.ayasdi.com/)
 - [Bloom AI](https://bloomai.co/)
 - [Clarifai](https://www.clarifai.com/)
@@ -3351,7 +3351,7 @@ description: Stores, marketplaces, product research, and resale
 - [INCLUSION AI](https://www.inclusion-ai.org/)
 - [Jina AI](https://jina.ai/#find-your-portals) — Your Portal to Multimodal AI
 - [Jolibrain](https://www.jolibrain.com/)
-- [Khoj AI](https://khoj.dev/) / <a href="https://github.com/khoj-ai/khoj"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Khoj AI](https://khoj.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/khoj-ai/khoj)
 - [lablab.ai](https://lablab.ai/)
 - [LeanDog](https://www.leandog.com/)
 - [Lionbridge AI](https://lionbridge.ai/)
@@ -3359,7 +3359,7 @@ description: Stores, marketplaces, product research, and resale
 - [Loss Landscape](https://losslandscape.com/)
 - [Manifold](https://www.manifold.ai/)
 - [Marqo](https://www.marqo.ai/) — Tensor-based Search and Analytics engine
-- [Martian](https://withmartian.com/) / <a href="https://github.com/withmartian"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Understanding Intelligence
+- [Martian](https://withmartian.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/withmartian) — Understanding Intelligence
 - [MEGVII](https://megvii.com/)
 - [Meta AI](https://ai.meta.com/)
 - [MiniMax](https://www.minimax.io/) — Intelligence with everyone
@@ -3369,7 +3369,7 @@ description: Stores, marketplaces, product research, and resale
 - [ONNX Runtime](https://onnxruntime.ai/)
 - [Onpassive](https://www.onpassive.com/)
 - [OpenAI](https://openai.com/)
-- [OpenCV](https://opencv.org/) / <a href="https://github.com/opencv/opencv"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [OpenCV](https://opencv.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/opencv/opencv)
 - [OpenCV.ai](https://www.opencv.ai/)
 - [OpenMOSS](https://www.open-moss.com/)
 - [p0](https://p0.systems/) — AI Lab · Free Open Models, Real Limits
@@ -3379,7 +3379,7 @@ description: Stores, marketplaces, product research, and resale
 - [Protocol Labs](https://protocol.ai/)
 - [Public AI Inference Utility](https://publicai.co/)
 - [Quasi](https://quasi.market/)
-- [RealSense](https://www.realsenseai.com/) / <a href="https://github.com/realsenseai/librealsense"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — RealSense
+- [RealSense](https://www.realsenseai.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/realsenseai/librealsense) — RealSense
 - [Runway Research](https://research.runwayml.com/)
 - [Safe Superintelligence Inc.](https://ssi.inc/)
 - [Sakana AI](https://sakana.ai/) — Building Frontier AI in Japan
@@ -3690,7 +3690,7 @@ description: Stores, marketplaces, product research, and resale
 - [Dataforseo](https://dataforseo.com/)
 - [Instagram Automation Tool](https://inflact.com/)
 - [Moz](https://moz.com/) — SEO Software for Smarter Marketing
-- [OpenSEO](https://openseo.so/) / <a href="https://github.com/every-app/open-seo"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Open Source SEO Platform
+- [OpenSEO](https://openseo.so/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/every-app/open-seo) — Open Source SEO Platform
 - [Polemic Digital](https://www.polemicdigital.com/)
 - [Screaming Frog](https://www.screamingfrog.co.uk/)
 - [Semrush](https://www.semrush.com/)
@@ -4180,7 +4180,7 @@ description: Stores, marketplaces, product research, and resale
 - [HomeBox](https://homebox.software/en/)
 - [Mediterráneo Vida](https://medvida.es/en/)
 - [Rothschild & Co](https://www.rothschildandco.com/)
-- [Sure](https://sure.am/) / <a href="https://github.com/we-promise/sure"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Sure](https://sure.am/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/we-promise/sure)
 
 ##### Decentralized Finance
 - [Alephium](https://alephium.org/) — The Web3 you were promised
@@ -5563,7 +5563,7 @@ description: Stores, marketplaces, product research, and resale
 - [Built In](https://builtin.com/jobs) — Jobs
 - [Cabildo Emplea](https://cabildoemplea.es/)
 - [Career Vault](https://www.careervault.io/)
-- [career-ops](https://career-ops.org/) / <a href="https://github.com/santifer/career-ops"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — AI-powered job search command center
+- [career-ops](https://career-ops.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/santifer/career-ops) — AI-powered job search command center
 - [Cleverism](https://www.cleverism.com/)
 - [Contratación del Estado](https://contrataciondelestado.es/wps/portal/plataforma)
 - [CORNERJOB](https://www.cornerjob.com/es)

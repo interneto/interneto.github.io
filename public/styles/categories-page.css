@@ -40,8 +40,9 @@
   margin: 0.2em 0;
 }
 
-/* Source-code host icon (GitHub/GitLab/Codeberg/…) next to a bookmark link. */
-.vp-prose .source-host-icon {
+/* Source-code host icon (GitHub/GitLab/Codeberg/…) next to a bookmark link.
+   Markdown images carry no class, so the icon is matched by its link position. */
+.vp-prose li a > img {
   display: inline-block;
   vertical-align: -2px;
   width: 14px;
@@ -49,12 +50,12 @@
 }
 
 /* GitHub/SourceHut marks are near-black; lighten them on dark backgrounds. */
-[data-theme='dark'] .vp-prose .source-host-icon-invert {
+[data-theme='dark'] .vp-prose li a > img:is([src$='/github.svg'], [src$='/sourcehut.svg']) {
   filter: invert(1);
 }
 
 @media (prefers-color-scheme: dark) {
-  :root:not([data-theme]) .vp-prose .source-host-icon-invert {
+  :root:not([data-theme]) .vp-prose li a > img:is([src$='/github.svg'], [src$='/sourcehut.svg']) {
     filter: invert(1);
   }
 }

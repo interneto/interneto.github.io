@@ -48,7 +48,7 @@ test('splitTitle: a GitHub-style "owner/repo: description" title', () => {
 })
 
 test('sourceHostIcon: known hosts get their brand icon; unknown hosts get none', () => {
-  assert.deepEqual(sourceHostIcon('https://github.com/x/y'), { name: 'GitHub', icon: '/img/software/apps/github.svg', invert: true })
+  assert.deepEqual(sourceHostIcon('https://github.com/x/y'), { name: 'GitHub', icon: '/img/software/apps/github.svg' })
   assert.equal(sourceHostIcon('https://gitlab.com/x/y').name, 'GitLab')
   assert.equal(sourceHostIcon('https://gitlab.example.org/x/y').name, 'GitLab') // self-hosted GitLab
   assert.equal(sourceHostIcon('https://codeberg.org/x/y').name, 'Codeberg')
@@ -57,8 +57,8 @@ test('sourceHostIcon: known hosts get their brand icon; unknown hosts get none',
   assert.equal(sourceHostIcon('not a url'), null)
 })
 
-test('sourceCodeLink: known host renders an <img>, unknown host falls back to 🔗', () => {
-  assert.match(sourceCodeLink('https://github.com/x/y'), /^<a href="https:\/\/github\.com\/x\/y"><img class="source-host-icon source-host-icon-invert"/)
+test('sourceCodeLink: known host renders a linked image, unknown host falls back to 🔗', () => {
+  assert.equal(sourceCodeLink('https://github.com/x/y'), '[![GitHub](/img/software/apps/github.svg)](https://github.com/x/y)')
   assert.equal(sourceCodeLink('https://example.com/x/y'), '[🔗](https://example.com/x/y)')
 })
 
@@ -71,7 +71,7 @@ test('buildItemLine: full line with a split title and a GitHub source link', () 
   })
   assert.equal(
     line,
-    '- [ClaudePluginHub](https://claudepluginhub.com/) / <a href="https://github.com/x/claudepluginhub"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — The Largest Claude Code Plugin Directory'
+    '- [ClaudePluginHub](https://claudepluginhub.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/x/claudepluginhub) — The Largest Claude Code Plugin Directory'
   )
 })
 

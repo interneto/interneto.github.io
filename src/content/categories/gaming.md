@@ -11,7 +11,7 @@ description: Games, launchers, emulators, and gaming utilities
 ## Games
 
 ### Board
-- ⭐ **[Lucas Chess](https://lucaschess.pythonanywhere.com/)** / <a href="https://github.com/lukasmonk/lucaschessR2"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- ⭐ **[Lucas Chess](https://lucaschess.pythonanywhere.com/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/lukasmonk/lucaschessR2)
 - [247 Chess](https://www.247chess.com/)
 - [All About Go](http://www.allaboutgo.com/)
 - [Arena Chess GUI](http://www.playwitharena.de/)
@@ -72,7 +72,7 @@ description: Games, launchers, emulators, and gaming utilities
 - [Endless Sky](https://endless-sky.github.io/)
 - [Eyes on the Solar System](https://eyes.nasa.gov/apps/solar-system/#/home) — NASA/JPL
 - [FlagWaver](https://krikienoid.github.io/flagwaver/)
-- [FlightGear Flight Simulator](https://www.flightgear.org/) / <a href="https://gitlab.com/flightgear"><img class="source-host-icon" src="/img/source-hosts/gitlab.svg" alt="GitLab" title="GitLab" width="14" height="14" loading="lazy"></a>
+- [FlightGear Flight Simulator](https://www.flightgear.org/) / [![GitLab](/img/source-hosts/gitlab.svg)](https://gitlab.com/flightgear)
 - [Football Manager](https://www.footballmanager.com/)
 - [Gaia Sky](https://zah.uni-heidelberg.de/gaia/outreach/gaiasky/)
 - [Gaia Sky](https://gaiasky.space/)
@@ -90,13 +90,13 @@ description: Games, launchers, emulators, and gaming utilities
 - [Lincity](https://lincity.sourceforge.net/) — A City Simulation Game
 - [Microsoft Flight Simulator](https://www.flightsimulator.com/)
 - [Minetest](https://www.minetest.net/) — Open source voxel game engine
-- [MIRA](https://mira-wm.com/) / <a href="https://github.com/mira-wm/mira"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [MIRA](https://mira-wm.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/mira-wm/mira)
 - [NetHack](https://www.nethack.org/)
 - [OpenCity, another 3D city simulator](http://www.opencity.info/)
 - [OpenRCT2](https://openrct2.io/)
 - [OpenRCT2](https://openrct2.org/)
 - [OpenSimulator](http://opensimulator.org/wiki/Main_Page)
-- [OpenTTD](https://www.openttd.org/) / <a href="https://github.com/OpenTTD/OpenTTD"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [OpenTTD](https://www.openttd.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/OpenTTD/OpenTTD)
 - [Orbiter 2016 Space Flight Simulator](http://orbit.medphys.ucl.ac.uk/)
 - [Osgrid](https://www.osgrid.org/)
 - [Paralives](https://www.paralives.com/)
@@ -293,7 +293,7 @@ description: Games, launchers, emulators, and gaming utilities
 - [Teuteuf Games](https://teuteuf.fr/) — Teuteuf Games
 - [TimeGuessr](https://timeguessr.com/)
 - [travle](https://travle.earth/)
-- [WorldGuessr](https://www.worldguessr.com/) / <a href="https://github.com/codergautam/worldguessr"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Play GeoGuessr for free
+- [WorldGuessr](https://www.worldguessr.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/codergautam/worldguessr) — Play GeoGuessr for free
 - [Worldle](https://worldle.teuteuf.fr/)
 
 #### Drawing Games
@@ -395,9 +395,9 @@ description: Games, launchers, emulators, and gaming utilities
 - [FINAL FANTASY XIV](https://na.finalfantasyxiv.com/)
 - [Genshin Impact](https://genshin.hoyoverse.com/en/home) — Step into a Vast Magical World for Adventure
 - [Honkai](https://hsr.hoyoverse.com/en-us/) — Star Rail
-- [Isleward](https://play.isleward.com/) / <a href="https://gitlab.com/Isleward/isleward"><img class="source-host-icon" src="/img/source-hosts/gitlab.svg" alt="GitLab" title="GitLab" width="14" height="14" loading="lazy"></a>
+- [Isleward](https://play.isleward.com/) / [![GitLab](/img/source-hosts/gitlab.svg)](https://gitlab.com/Isleward/isleward)
 - [Netmarble](https://7origin.netmarble.com/en/) — The Seven Deadly Sins: Origin
-- [OpenMW](https://openmw.org/) / <a href="https://gitlab.com/OpenMW/openmw"><img class="source-host-icon" src="/img/source-hosts/gitlab.svg" alt="GitLab" title="GitLab" width="14" height="14" loading="lazy"></a>
+- [OpenMW](https://openmw.org/) / [![GitLab](/img/source-hosts/gitlab.svg)](https://gitlab.com/OpenMW/openmw)
 - [Persona](https://persona.atlus.com/series/portal/us/) — Game
 - [Pkémon Reborn Evolved](https://www.rebornevo.com/)
 - [Pokémon Champions](https://champions.pokemon.com/en-us/)
@@ -454,7 +454,7 @@ description: Games, launchers, emulators, and gaming utilities
 - [ZDoom](https://www.zdoom.org/index)
 
 ### Strategy
-- ⭐ **[0 A.D.](https://play0ad.com/)** / <a href="https://gitea.wildfiregames.com/0ad/0ad"><img class="source-host-icon" src="/img/source-hosts/gitea.svg" alt="Gitea" title="Gitea" width="14" height="14" loading="lazy"></a> — Empires Ascendant
+- ⭐ **[0 A.D.](https://play0ad.com/)** / [![Gitea](/img/source-hosts/gitea.svg)](https://gitea.wildfiregames.com/0ad/0ad) — Empires Ascendant
 - [Age of Empires Franchise](https://www.ageofempires.com/)
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) — The automation tower defense RTS
 - [Axie Infinity](https://axieinfinity.com/)
@@ -508,7 +508,7 @@ description: Games, launchers, emulators, and gaming utilities
 - [Super Mario Bros](https://supermarioplay.com/) — Game Online
 - [SuperTux](https://www.supertux.org/)
 - [The World's Biggest PAC-MAN](https://worldsbiggestpacman.com/)
-- [VVVVVV](https://thelettervsixtim.es/) / <a href="https://github.com/TerryCavanagh/VVVVVV"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [VVVVVV](https://thelettervsixtim.es/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/TerryCavanagh/VVVVVV)
 
 ### Adventure
 - [BuildTheEarth](https://buildtheearth.net/)
@@ -641,12 +641,12 @@ description: Games, launchers, emulators, and gaming utilities
 
 ### Game Launcher
 - ⭐ **[Steam platform](https://store.steampowered.com/about)**
-- [Ascendara](https://ascendara.app/) / <a href="https://github.com/Ascendara/ascendara"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Test Games Before You Buy
+- [Ascendara](https://ascendara.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Ascendara/ascendara) — Test Games Before You Buy
 - [Bethesda Launcher](https://bethesda.net/en/games/home)
 - [Blizzard Entertainment](https://www.blizzard.com/en-us/apps/battle.net/desktop)
 - [Crankshaft](https://crankshaft.space/) — Steam Plugin Framework
 - [dekomote/vermouth](https://github.com/dekomote/vermouth) — A game and app launcher for Linux - native, Windows, and retro. KDE-first, lightweight, no frills
-- [ElyPrismLauncher · Home](https://elyprismlauncher.github.io/) / <a href="https://github.com/ElyPrismLauncher/ElyPrismLauncher"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [ElyPrismLauncher · Home](https://elyprismlauncher.github.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/ElyPrismLauncher/ElyPrismLauncher)
 - [Epic Games](https://store.epicgames.com/en-US/)
 - [Faugus/faugus-launcher](https://github.com/Faugus/faugus-launcher) — A simple and lightweight app for running Windows games using UMU-Launcher
 - [Gameforge.com](https://gameforge.com/en-US)
@@ -657,7 +657,7 @@ description: Games, launchers, emulators, and gaming utilities
 - [grimsi/gameyfin · GitHub](https://github.com/grimsi/gameyfin)
 - [Heroic Games Launcher](https://heroicgameslauncher.com/)
 - [HeroicBashLauncher · GitHub](https://github.com/redromnon/HeroicBashLauncher/)
-- [Hydra Launcher](https://hydralauncher.gg/) / <a href="https://github.com/hydralauncher/hydra"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — The Game Launcher for the 21st Century
+- [Hydra Launcher](https://hydralauncher.gg/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/hydralauncher/hydra) — The Game Launcher for the 21st Century
 - [Hydralauncher](https://hydralauncher.site/)
 - [kra-mo/cartridges](https://github.com/kra-mo/cartridges) — A GTK4 + Libadwaita game launcher
 - [LaunchBox](https://www.launchbox-app.com/)
@@ -669,13 +669,13 @@ description: Games, launchers, emulators, and gaming utilities
 - [Origin Client](https://www.origin.com/esp/en-us/store/download)
 - [Pegasus Frontend](https://pegasus-frontend.org/)
 - [PlayNest](https://playnest.dev/) — Connect Accounts, Track Games & View Stats
-- [Playnite](https://playnite.link/) / <a href="https://github.com/JosefNemec/Playnite"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — video game library manager
+- [Playnite](https://playnite.link/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/JosefNemec/Playnite) — video game library manager
 - [PolyMC](https://polymc.org/)
 - [Prism Launcher](https://prismlauncher.org/)
 - [Razer Cortex](https://www.razer.com/cortex)
 - [Rockstar Games](https://socialclub.rockstargames.com/) — Social Club
 - [Technic Platform](https://www.technicpack.net/)
-- [The RomM Project](https://romm.app/) / <a href="https://github.com/rommapp/romm"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [The RomM Project](https://romm.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/rommapp/romm)
 - [tkashkin/GameHub · GitHub](https://github.com/tkashkin/GameHub)
 - [TL Legacy for Minecraft](https://tlaun.ch/)
 - [Twintail Launcher](https://twintaillauncher.app/)
@@ -683,7 +683,7 @@ description: Games, launchers, emulators, and gaming utilities
 - [Ultimate launcher](https://ultimatelauncher.com/)
 - [WebMC](https://webmc.xyz/)
 - [xiv.zone](https://xiv.zone/astra/) — Astra
-- [Zalith Launcher](https://www.zalithlauncher.cn/en/) / <a href="https://github.com/ZalithLauncher/ZalithLauncher2"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Zalith Launcher](https://www.zalithlauncher.cn/en/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/ZalithLauncher/ZalithLauncher2)
 
 ### Game Save
 - [ClayAmore/ER-Save-Editor](https://github.com/ClayAmore/ER-Save-Editor) — Elden Ring Save Editor
@@ -702,11 +702,11 @@ description: Games, launchers, emulators, and gaming utilities
 
 ### Game Server
 - [40servidoresmc](https://www.40servidoresmc.es/)
-- [Calagopus](https://calagopus.com/) / <a href="https://github.com/calagopus/panel"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Open-Source Game Server Management Panel
+- [Calagopus](https://calagopus.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/calagopus/panel) — Open-Source Game Server Management Panel
 - [CatServer](https://catmc.org/)
 - [Cuberite](https://cuberite.org/) — A lightweight, fast and extensible game server for Minecraft
 - [EngineHub](https://enginehub.org/)
-- [FeatherPanel](https://featherpanel.com/) / <a href="https://github.com/MythicalLTD/FeatherPanel"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Modern Game Server Management Panel | Minecraft, Rust & More
+- [FeatherPanel](https://featherpanel.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/MythicalLTD/FeatherPanel) — Modern Game Server Management Panel | Minecraft, Rust & More
 - [forseti.es](https://www.forseti.es/)
 - [GeyserMC](https://geysermc.org/)
 - [Lunar Client](https://www.lunarclient.com/)

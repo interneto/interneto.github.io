@@ -60,7 +60,7 @@ description: Search engines, web directories, software directories, corporations
 - [Reglamento WLM](https://wikilov.es/es/Wiki_Loves_Monuments/Reglamento_2020)
 
 ### Sports Competition
-- [La Velada del Año V](https://www.infolavelada.com/) / <a href="https://github.com/midudev/la-velada-web-oficial"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — evento de boxeo por Ibai Llanos
+- [La Velada del Año V](https://www.infolavelada.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/midudev/la-velada-web-oficial) — evento de boxeo por Ibai Llanos
 - [RoxCoach](https://www.rox-coach.com/) — Analyse Your Hyrox Results
 
 #### Race Competition
@@ -204,7 +204,7 @@ description: Search engines, web directories, software directories, corporations
 - [World War II Database](https://ww2db.com/)
 - [YouTube-8M](https://research.google.com/youtube8m)
 - [Zip-Codes](https://www.zip-codes.com/)
-- [Zvec](https://zvec.org/en/) / <a href="https://github.com/alibaba/zvec"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — A lightweight, lightning-fast, in-process vector database
+- [Zvec](https://zvec.org/en/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/alibaba/zvec) — A lightweight, lightning-fast, in-process vector database
 
 ### Software Db
 - [Flashpoint Database](https://flashpointproject.github.io/flashpoint-database/)
@@ -291,7 +291,7 @@ description: Search engines, web directories, software directories, corporations
 - [WebOS Homebrew](https://www.webosbrew.org/)
 
 ###### Android Software Distribution
-- ⭐ **[Aurora OSS](https://auroraoss.com/)** / <a href="https://gitlab.com/AuroraOSS/AuroraStore"><img class="source-host-icon" src="/img/source-hosts/gitlab.svg" alt="GitLab" title="GitLab" width="14" height="14" loading="lazy"></a>
+- ⭐ **[Aurora OSS](https://auroraoss.com/)** / [![GitLab](/img/source-hosts/gitlab.svg)](https://gitlab.com/AuroraOSS/AuroraStore)
 - ⭐ **[Google Play](https://play.google.com/store/apps)** — Android Apps
 - [360 zhushou](http://zhushou.360.cn/)
 - [Accrescent](https://accrescent.app/)
@@ -508,12 +508,12 @@ description: Search engines, web directories, software directories, corporations
 
 ###### iOS Software Distribution
 - ⭐ **[App Store](https://apps.apple.com/us/iphone/today)** — Today for iPhone
-- [AltStore](https://altstore.io/) / <a href="https://github.com/altstoreio/AltStore"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [AltStore](https://altstore.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/altstoreio/AltStore)
 - [Cydia Download iOS 26.2, 18.7.3, 17.7.10, 16.7.12, 15.8.5 and 12.5.7 Versions \[Cydia Free\]](https://www.cydiafree.com/)
-- [iloader](https://iloader.app/) / <a href="https://github.com/nab138/iloader"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Free Open-Source iOS Sideloading Companion
-- [Impactor](https://impactor.khcrysalis.dev/) / <a href="https://github.com/CLARATION/Impactor"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — iOS sideloading application
+- [iloader](https://iloader.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/nab138/iloader) — Free Open-Source iOS Sideloading Companion
+- [Impactor](https://impactor.khcrysalis.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/CLARATION/Impactor) — iOS sideloading application
 - [Sideloadly](https://sideloadly.io/) — iOS, Apple Silicon & TV Sideloading
-- [SideStore](https://sidestore.io/) / <a href="https://github.com/SideStore/SideStore/"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [SideStore](https://sidestore.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/SideStore/SideStore/)
 
 ##### VM Images
 - ⭐ **[OSBoxes](https://www.osboxes.org/)** — Virtual Machines for VirtualBox & VMware
@@ -573,13 +573,13 @@ description: Search engines, web directories, software directories, corporations
 - [Comparison of BitTorrent sites](https://en.wikipedia.org/wiki/Comparison_of_BitTorrent_sites) — Wikipedia
 - [Comparison of EDA software](https://en.wikipedia.org/wiki/Comparison_of_EDA_software) — Wikipedia
 - [Desktop environment](https://wiki.archlinux.org/title/Desktop_environment) — ArchWiki
-- [Free AI APIs and models](https://itsfree.ai/) / <a href="https://github.com/midudev/itsfree.ai"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — every free tier, compared
+- [Free AI APIs and models](https://itsfree.ai/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/midudev/itsfree.ai) — every free tier, compared
 - [Libraries](https://libraries.io/) — The Open Source Discovery Service
 - [List of applications](https://wiki.archlinux.org/title/List_of_applications) — ArchWiki
 - [List of applications/Internet](https://wiki.archlinux.org/title/List_of_applications/Internet) — ArchWiki
 - [List of PDF software](https://en.wikipedia.org/wiki/List_of_PDF_software) — Wikipedia
 - [Musical Artifacts](https://musical-artifacts.com/) — Libre resources for music making
-- [NoSignups](https://nosignups.net/) / <a href="https://github.com/BraveOPotato/FckSignups"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Open Source Tools. Zero Bullsh*t.
+- [NoSignups](https://nosignups.net/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/BraveOPotato/FckSignups) — Open Source Tools. Zero Bullsh*t.
 - [Privacytest.org](https://privacytests.org/) — What are the best private browsers?
 - [Self-Hosted Software and Apps](https://selfh.st/apps/)
 - [StartupStash](https://startupstash.com/)
@@ -623,7 +623,7 @@ description: Search engines, web directories, software directories, corporations
 - [ReposHub](https://reposhub.com/)
 - [Side Hustle Stack](https://sidehustlestack.co/)
 - [Softlookup](https://www.softlookup.com/)
-- [Software Compare](https://softwarecompare.org/) / <a href="https://github.com/SoftwareCompare/SoftwareCompare"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Find software that's best for you
+- [Software Compare](https://softwarecompare.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/SoftwareCompare/SoftwareCompare) — Find software that's best for you
 - [SoftwareSuggest](https://www.softwaresuggest.com/us/)
 - [The-re-view.org](https://the-re-view.org/)
 - [Tool Finder](https://toolfinder.co/) — Productivity Tools Reviews, Guides & News
@@ -663,7 +663,7 @@ description: Search engines, web directories, software directories, corporations
 
 #### Operating Systems Db
 - ⭐ **[DistroWatch.com](https://distrowatch.com/)** — Put the fun back into computing. Use Linux, BSD.
-- ⭐ **[Eylenburg's Tech Website](https://eylenburg.github.io/)** / <a href="https://github.com/eylenburg/eylenburg.github.io"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- ⭐ **[Eylenburg's Tech Website](https://eylenburg.github.io/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/eylenburg/eylenburg.github.io)
 - [ArchiveOS](https://archiveos.org/)
 - [DistroSea](https://distrosea.com/) — Test Linux distros online
 - [Distroware · GitLab](https://distroware.gitlab.io/)
@@ -697,7 +697,7 @@ description: Search engines, web directories, software directories, corporations
 - [Pyran1/RAT-Collection](https://github.com/Pyran1/RAT-Collection) — Remote Access Trojan collection.(260+ RAT-Builders!)
 - [ShuilongwxZoey/MyMalwareDatabase](https://github.com/ShuilongwxZoey/MyMalwareDatabase) — All of my gdi malwares (with source codes) are here. I made them ONLY for educational and entertainment purposes. I'm NOT responsible for any damages by using my gdi malware.
 - [System32Booster/MalwareDatabase](https://github.com/System32Booster/MalwareDatabase)
-- [theZoo aka Malware DB](https://thezoo.morirt.com/) / <a href="https://github.com/ytisf/theZoo"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [theZoo aka Malware DB](https://thezoo.morirt.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/ytisf/theZoo)
 - [VirusSign](https://www.virussign.com/)
 - [VirusSign/malware-samples](https://github.com/VirusSign/malware-samples) — Live malware samples and database, daily update.
 - [Yedboy33k/MalwareDatabase](https://github.com/Yedboy33k/MalwareDatabase) — This is my Malware Database, for educational purposes only !!
@@ -1060,7 +1060,7 @@ description: Search engines, web directories, software directories, corporations
 - [BroadcasTheNet](https://broadcasthe.net/)
 - [bt.etree.org](https://www.etree.org/) — Community Tracker
 - [Btcache.me](https://btcache.me/)
-- [BTDigg](https://btdig.com/) / <a href="https://github.com/btdig/dhtcrawler2"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Torrent search engine
+- [BTDigg](https://btdig.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/btdig/dhtcrawler2) — Torrent search engine
 - [Demonoid](https://www.demonoid.is/)
 - [DirtyTorrents.com](https://dirtytorrents.com/)
 - [DivxTotal](https://divxtotal.ink/)
@@ -1238,7 +1238,7 @@ description: Search engines, web directories, software directories, corporations
 - [Vocaloid Database](https://vocadb.net/)
 
 ##### Song Lyrics
-- ⭐ **[LRCLIB](https://lrclib.net/)** / <a href="https://github.com/tranxuanthang/lrclib"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- ⭐ **[LRCLIB](https://lrclib.net/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/tranxuanthang/lrclib)
 - [AZLyrics](https://www.azlyrics.com/)
 - [Genius](https://genius.com/) — Song Lyrics & Knowledge
 - [Letras.com](https://www.letras.com/)
@@ -1258,7 +1258,7 @@ description: Search engines, web directories, software directories, corporations
 
 #### Movie Db
 - ⭐ **[The Movie Database](https://www.themoviedb.org/)**
-- ⭐ **[There's nothing to watch](https://nothing-to-watch.port80.ch/)** / <a href="https://github.com/gnovotny/nothing-to-watch"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Interactive Movie Discovery
+- ⭐ **[There's nothing to watch](https://nothing-to-watch.port80.ch/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/gnovotny/nothing-to-watch) — Interactive Movie Discovery
 - [4KFilmDb](https://4kfilmdb.com/) — Discover All Available 4K Movies for Streaming
 - [AFI Catalog](https://aficatalog.afi.com/)
 - [AllMovie](https://www.allmovie.com/)
@@ -1294,7 +1294,7 @@ description: Search engines, web directories, software directories, corporations
 - [Xross Entity Map](https://thexem.info/) — Xem
 
 ##### TV Tracker
-- ⭐ **[Showly](https://www.showlyapp.com/)** / <a href="https://github.com/michaldrabik/showly"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Track TV Shows and Movies
+- ⭐ **[Showly](https://www.showlyapp.com/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/michaldrabik/showly) — Track TV Shows and Movies
 - [JustWatch](https://www.justwatch.com/) — The Streaming Guide
 - [Mojitofilms](https://www.mojitofilms.com/)
 - [Moviebase](https://www.moviebase.app/) — Discover, find and track movies & TV shows for Android.
@@ -1303,10 +1303,10 @@ description: Search engines, web directories, software directories, corporations
 - [Netflix Codes](https://www.netflix-codes.com/) — find hidden categories on Netflix (full list)
 - [Popcorn Time](https://watch.popcorntime.app/)
 - [Reelgood](https://reelgood.com/)
-- [SeriesGuide](https://www.seriesgui.de/) / <a href="https://github.com/UweTrottmann/SeriesGuide/"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [SeriesGuide](https://www.seriesgui.de/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/UweTrottmann/SeriesGuide/)
 - [Showcase](https://getshowcase.app/) — Pro-Level Movie & Show Tracking
 - [Time TV Shows](https://tiii.me/)
-- [Track.tv](https://trakt.tv/dashboard) / <a href="https://github.com/trakt"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Discover. Track. Share.
+- [Track.tv](https://trakt.tv/dashboard) / [![GitHub](/img/software/apps/github.svg)](https://github.com/trakt) — Discover. Track. Share.
 - [TV Forecast](https://tvforecastapp.com/) — Show & Movie Tracker
 - [TV Time](https://www.tvtime.com/) — Keep track of what you watch
 - [TVmaze.com](https://www.tvmaze.com/) — Your personal TV guide
@@ -1359,7 +1359,7 @@ description: Search engines, web directories, software directories, corporations
 - [SubSource](https://subsource.net/) — Download Free Subtitles for Movies and TV Shows
 - [TVsubs.net](https://www.tvsubs.net/) — Download TV Show subtitles
 - [TVsubtitles.net](https://www.tvsubtitles.net/) — Download latest TV Show and TV Series subtitles
-- [Wyzie Subs](https://sub.wyzie.io/) / <a href="https://github.com/wyziedevs/wyzie-subs"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Subtitle API for Movies & TV
+- [Wyzie Subs](https://sub.wyzie.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/wyziedevs/wyzie-subs) — Subtitle API for Movies & TV
 
 ##### Movie Scripts Db
 - [Daily Script](https://www.dailyscript.com/) — Movie Scripts and Movie Screenplays
@@ -1425,7 +1425,7 @@ description: Search engines, web directories, software directories, corporations
 - [Z-library (onion)](http://loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion/)
 
 #### Web Directory
-- ⭐ **[Free Media Heck Yeah (FMHY)](https://fmhy.net/)** / <a href="https://github.com/fmhy/FMHY"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- ⭐ **[Free Media Heck Yeah (FMHY)](https://fmhy.net/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/fmhy/FMHY)
 - ⭐ **[FreeMediaHeckYeah](https://old.fmhy.net/)**
 - [01Webdirectory](https://www.01webdirectory.com/)
 - [247WebDirectory](https://www.247webdirectory.com/)
@@ -1707,7 +1707,7 @@ description: Search engines, web directories, software directories, corporations
 #### IPTV List
 - ⭐ **[eja.tv](https://eja.tv/)**
 - ⭐ **[iptv Wuaze](https://iptvfree.wuaze.com/?i=1)**
-- ⭐ **[iptv-org](https://iptv-org.github.io/)** / <a href="https://github.com/iptv-org/iptv"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- ⭐ **[iptv-org](https://iptv-org.github.io/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/iptv-org/iptv)
 - [AlliptvLinks](https://alliptvlinks.com/iptv-m3u-lists_5/) — Watch free IPTV m3u streams playlists, iptv Extreme OttPlayer GSE smarters m3u/m3u8 lists, links, VLC, TiviMate, Xtream codes 2024
 - [Aria](https://theariatv.github.io/) — Curated IPTV Channels
 - [Awesome-piracy · GitHub](https://github.com/Igglybuff/awesome-piracy)
@@ -1743,7 +1743,7 @@ description: Search engines, web directories, software directories, corporations
 - [World-iptv](https://world-iptv.club/) — Unlock Unlimited Entertainment
 
 ##### EPG List
-- ⭐ **[EPG dobleM](https://davidmuma.github.io/EPG/)** / <a href="https://github.com/davidmuma/EPG_dobleM"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- ⭐ **[EPG dobleM](https://davidmuma.github.io/EPG/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/davidmuma/EPG_dobleM)
 - ⭐ **[iptv-epg.org](https://iptv-epg.org/guides)**
 - [celetor/epg](https://github.com/celetor/epg) — 电子节目单，支持XML格式，支持Diyp&百川
 - [EPG for IPTV](https://epg.best/)
@@ -1781,7 +1781,7 @@ description: Search engines, web directories, software directories, corporations
 
 ##### Ranking Repos
 - [GitHub Search · stars:1000 created:2020-01-01..2020-02-09](https://github.com/search?utf8=%E2%9C%93&q=stars%3A%3E1000+created%3A2020-01-01..2020-02-09&type=Repositories&ref=advsearch&l=)
-- [Github-Ranking · GitHub](https://evanli.github.io/Github-Ranking) / <a href="https://github.com/EvanLi/Github-Ranking"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Github-Ranking · GitHub](https://evanli.github.io/Github-Ranking) / [![GitHub](/img/software/apps/github.svg)](https://github.com/EvanLi/Github-Ranking)
 - [Gitstar Ranking](https://gitstar-ranking.com/) — Top GitHub users and repositories
 - [H index GitHub](https://www.danvk.org/h-index/) — Davn K
 - [Star History](https://star-history.com/)
@@ -1839,7 +1839,7 @@ description: Search engines, web directories, software directories, corporations
 - [FlutterExampleApps · GitHub](https://github.com/iampawan/FlutterExampleApps)
 - [fmhy/FMHYedit · GitHub](https://github.com/fmhy/FMHYEdit)
 - [fosslife/awesome-ricing · GitHub](https://github.com/fosslife/awesome-ricing)
-- [Free for developers](https://free-for.dev/#/) / <a href="https://github.com/ripienaar/free-for-dev"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Free for developers](https://free-for.dev/#/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/ripienaar/free-for-dev)
 - [Free-for-dev · GitHub](https://github.com/ripienaar/free-for-dev)
 - [Frontend-feeds](https://github.com/impressivewebs/frontend-feeds) — RSS feed · GitHub
 - [Furthir/awesome-useful-projects · GitHub](https://github.com/Furthir/awesome-useful-projects)
@@ -2113,7 +2113,7 @@ description: Search engines, web directories, software directories, corporations
 - [SYMBL (◕‿◕) Symbols, Emojis, Characters, Scripts, Alphabets, Hieroglyphs and the entire Unicode](https://symbl.cc/)
 - [Symbol Signs](https://symbolsign.com/)
 - [symbolkeyboard](https://symbolkeyboard.com/)
-- [Unicode](https://home.unicode.org/) / <a href="https://github.com/unicode-org"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>, <a href="https://github.com/unicode-org/cldr"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — The World Standard for Text and Emoji
+- [Unicode](https://home.unicode.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/unicode-org), [![GitHub](/img/software/apps/github.svg)](https://github.com/unicode-org/cldr) — The World Standard for Text and Emoji
 
 ### User Manual Db
 - [¿Manual perdido? Descarga el manual que estás buscando.](https://www.manual.pa/)
@@ -2186,7 +2186,7 @@ description: Search engines, web directories, software directories, corporations
 - [LogoIntern](https://logointern.com/)
 - [Logopedia](https://logos.fandom.com/wiki/Logopedia) — Fandom
 - [Logos ynx](https://www.logolynx.com/)
-- [md-badges](https://inttter.github.io/md-badges/) / <a href="https://github.com/inttter/md-badges"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [md-badges](https://inttter.github.io/md-badges/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/inttter/md-badges)
 
 ### Hardware Db
 
@@ -2292,7 +2292,7 @@ description: Search engines, web directories, software directories, corporations
 ### Cybersecurity Vulnerabilities Db (CVE)
 - [CVE Database](https://vulners.com/) — Security Vulnerabilities and Exploits | Vulners.com
 - [CVE Record](https://www.cve.org/CVERecord?id=CVE-2025-31115) — CVE-2025-31115
-- [CVE](https://www.cve.org/) / <a href="https://github.com/CVEProject"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Common Vulnerabilities and Exposures
+- [CVE](https://www.cve.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/CVEProject) — Common Vulnerabilities and Exposures
 - [CWE](https://cwe.mitre.org/) — Common Weakness Enumeration
 - [JVN iPedia](https://jvndb.jvn.jp/en/)
 - [NVD](https://nvd.nist.gov/vuln/search#/nvd/home?resultType=records) — Search and Statistics
@@ -2321,7 +2321,7 @@ description: Search engines, web directories, software directories, corporations
 - [CVE-2026-43284](https://access.redhat.com/security/cve/cve-2026-43284) — Red Hat Customer Portal
 
 ### Case Law Database
-- [Epstein Exposed](https://epsteinexposed.com/) / <a href="https://github.com/stonesalltheway1/Epstein-Pipeline"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — The Most Comprehensive Epstein Files Database
+- [Epstein Exposed](https://epsteinexposed.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/stonesalltheway1/Epstein-Pipeline) — The Most Comprehensive Epstein Files Database
 - [Jmail, logged in as jeevacation@gmail.com](https://jmail.world/)
 - [The Epstein Network](https://epsteinvisualizer.com/)
 
@@ -2659,7 +2659,7 @@ description: Search engines, web directories, software directories, corporations
 - [GIMP Developer Wiki](https://wiki.gimp.org/wiki/Main_Page)
 - [GitBook Docs](https://docs.gitbook.com/)
 - [GitLab Documentation](https://docs.gitlab.com/)
-- [GitNexus](https://gitnexus.vercel.app/) / <a href="https://github.com/abhigyanpatwari/GitNexus"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [GitNexus](https://gitnexus.vercel.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/abhigyanpatwari/GitNexus)
 - [GNOME Wiki!](https://wiki.gnome.org/)
 - [HaskellWiki](https://wiki.haskell.org/Haskell)
 - [HexDocs](https://hexdocs.pm/)
@@ -2668,11 +2668,11 @@ description: Search engines, web directories, software directories, corporations
 - [Hyprland Wiki](https://wiki.hyprland.org/)
 - [IndieWeb](https://indieweb.org/IndieWeb)
 - [InstallGentoo Wiki](https://wiki.installgentoo.com/wiki/Main_Page)
-- [Invidious Documentation](https://docs.invidious.io/) / <a href="https://github.com/iv-org/documentation"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Invidious Documentation](https://docs.invidious.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/iv-org/documentation)
 - [Invio](https://docs.webinfra.cloud/) — Sync and Publish with Invio
 - [ITS Theme](https://publish.obsidian.md/slrvb-docs/ITS+Theme/ITS+Theme) — SlRvb's Documentation - Obsidian Publish
 - [IVAO Wiki](https://wiki.ivao.aero/en/home)
-- [Joomla! Programmers Documentation](https://manual.joomla.org/) / <a href="https://github.com/joomla/Manual"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Joomla! Programmers Documentation](https://manual.joomla.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/joomla/Manual)
 - [KDE Wikis](https://wiki.kde.org/)
 - [Kerbal Space Program Wiki](https://wiki.kerbalspaceprogram.com/wiki/Main_Page)
 - [LazyLibrarian Documentation](https://lazylibrarian.gitlab.io/)
@@ -2693,7 +2693,7 @@ description: Search engines, web directories, software directories, corporations
 - [Midjourney Documentation](https://midjourney.gitbook.io/docs/)
 - [Mindstone](https://mindstone.tuancao.me/) — Tuancao
 - [Minimal Documentation](https://minimal.guide/home)
-- [Mintlify](https://www.mintlify.com/) / <a href="https://github.com/mintlify"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — The Knowledge Platform Built for Agents
+- [Mintlify](https://www.mintlify.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/mintlify) — The Knowledge Platform Built for Agents
 - [MkDocs Material](https://squidfunk.github.io/mkdocs-material/)
 - [Mkdocs Obsidian Wiki](https://obsidian-publisher.netlify.app/)
 - [MozillaWiki](https://wiki.mozilla.org/Main_Page)
@@ -2742,7 +2742,7 @@ description: Search engines, web directories, software directories, corporations
 - [Unity](https://docs.unity3d.com/Manual/index.html) — Manual: Unity
 - [VideoLAN Wiki](https://wiki.videolan.org/)
 - [VideoLAN Wiki](https://wiki.videolan.org/Main_Page/)
-- [Visual Studio Code](https://code.visualstudio.com/docs) / <a href="https://github.com/microsoft/vscode-docs"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Documentation Website
+- [Visual Studio Code](https://code.visualstudio.com/docs) / [![GitHub](/img/software/apps/github.svg)](https://github.com/microsoft/vscode-docs) — Documentation Website
 - [VuePress Guide](https://vuepress.vuejs.org/guide/) — Vuejs
 - [W3C Wiki](https://www.w3.org/wiki/Main_Page)
 - [WebGL Public Wiki](https://www.khronos.org/webgl/wiki/Main_Page)
@@ -3180,7 +3180,7 @@ description: Search engines, web directories, software directories, corporations
 
 ## Online Platform
 - [Disroot](https://disroot.org/) — Disroot.org
-- [VeRSSion](https://verssion.one/) / <a href="https://github.com/alicebob/verssion"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [VeRSSion](https://verssion.one/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/alicebob/verssion)
 
 ### Image Platform
 
@@ -3502,7 +3502,7 @@ description: Search engines, web directories, software directories, corporations
 - [Iconbuddy](https://iconbuddy.com/) — Free and Open Source SVG icons
 - [Iconduck](https://iconduck.com/)
 - [Iconer](https://iconer.app/)
-- [Icônes](https://icones.js.org/) / <a href="https://github.com/antfu/icones"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Icônes](https://icones.js.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/antfu/icones)
 - [Iconfidner](https://www.iconfinder.com/)
 - [Iconhub.io](https://iconhub.io/)
 - [Iconic.app](https://iconic.app/)
@@ -3546,7 +3546,7 @@ description: Search engines, web directories, software directories, corporations
 - [System UIcons](https://systemuicons.com/)
 - [Tabler Icons](https://tabler-icons.io/)
 - [The Icon of](https://www.theiconof.com/search)
-- [theSVG](https://thesvg.org/) / <a href="https://github.com/GLINCKER/thesvg"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — 6,511+ Free Brand SVG Icons for Developers and Designers
+- [theSVG](https://thesvg.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/GLINCKER/thesvg) — 6,511+ Free Brand SVG Icons for Developers and Designers
 - [to \[icon\]](https://www.toicon.com/)
 - [unDraw.co](https://undraw.co/)
 - [UXWing](https://uxwing.com/) — Free icons for website with commercial use no attribution
@@ -3562,7 +3562,7 @@ description: Search engines, web directories, software directories, corporations
 ##### Background Patterns
 - [Cool Backgrounds](https://coolbackgrounds.io/)
 - [Grainient](https://grainient.supply/) — Freebies
-- [HYDRA](https://hydra.ojack.xyz/?sketch_id=naoto_0) / <a href="https://github.com/hydra-synth/hydra"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [HYDRA](https://hydra.ojack.xyz/?sketch_id=naoto_0) / [![GitHub](/img/software/apps/github.svg)](https://github.com/hydra-synth/hydra)
 - [Pattern Collection](https://www.codeinwp.com/pattern-collection/) — CodeinWP
 - [Pattern Library](http://thepatternlibrary.com/)
 - [Patterninja](https://patterninja.com/)
@@ -3666,7 +3666,7 @@ description: Search engines, web directories, software directories, corporations
 #### Book Platform
 - [‎Apple Books](https://books.apple.com/charts) — Top books
 - [Biblio](https://www.biblio.com/) — Used Books and Rare Books from Antiquarian Booksellers
-- [BiblioGenius](https://bibliogenius.org/) / <a href="https://codeberg.org/bibliogenius"><img class="source-host-icon" src="/img/source-hosts/codeberg.svg" alt="Codeberg" title="Codeberg" width="14" height="14" loading="lazy"></a> — Gestion de bibliothèque Open Source, locale et privée
+- [BiblioGenius](https://bibliogenius.org/) / [![Codeberg](/img/source-hosts/codeberg.svg)](https://codeberg.org/bibliogenius) — Gestion de bibliothèque Open Source, locale et privée
 - [Bookracy](https://bookracy.org/?q=) — Free Knowledge and Education for All
 - [BooksRun](https://booksrun.com/) — Sell, Buy or Rent Textbooks Online For Best Prices
 - [Debook](https://debook.app/) — Where books come to life
@@ -3734,7 +3734,7 @@ description: Search engines, web directories, software directories, corporations
 - [Ketabton.com](https://ketabton.com/)
 - [Lector virtual](http://lectorvirtual.com/)
 - [Leer Libros Online](https://leerlibrosonline.net/)
-- [Libros gratis de programación en español](https://librosgratis.dev/) / <a href="https://github.com/midudev/libros-programacion-gratis"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — librosgratis.dev
+- [Libros gratis de programación en español](https://librosgratis.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/midudev/libros-programacion-gratis) — librosgratis.dev
 - [Libros gratis mx](https://librosgratis.com.mx/)
 - [librosx3](https://libroslibroslibros.com/)
 - [Mewsie](https://www.mewsie.org/)
@@ -3804,12 +3804,12 @@ description: Search engines, web directories, software directories, corporations
 - [CodeMonkey](https://codemonkey.link/)
 - [Coder](https://coder.com/) — Your Self-Hosted Remote Development Platform
 - [DarcsHub](https://hub.darcs.net/)
-- [Forgejo](https://forgejo.org/) / <a href="https://codeberg.org/forgejo/forgejo"><img class="source-host-icon" src="/img/source-hosts/codeberg.svg" alt="Codeberg" title="Codeberg" width="14" height="14" loading="lazy"></a> — Beyond coding. We forge.
+- [Forgejo](https://forgejo.org/) / [![Codeberg](/img/source-hosts/codeberg.svg)](https://codeberg.org/forgejo/forgejo) — Beyond coding. We forge.
 - [FossHub](https://www.fosshub.com/)
 - [Gerrit Code Review](https://www.gerritcodereview.com/)
 - [Gitdab](https://gitdab.com/)
 - [gitdot](https://gitdot.io/) / [🔗](https://gitdot.io/bkdevs/gitdot)
-- [Gitea](https://about.gitea.com/) / <a href="https://github.com/go-gitea/gitea"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Gitea](https://about.gitea.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/go-gitea/gitea)
 - [Gitea](https://gitea.com/) — Git with a cup of tea
 - [Gitee](https://gitee.com/) — Enterprise DevOps Research and Development Efficiency Platform
 - [giter.vip](https://giter.vip/)
@@ -3849,7 +3849,7 @@ description: Search engines, web directories, software directories, corporations
 - [GitHub API](https://api.github.com/)
 - [GitHub Archive Program](https://archiveprogram.github.com/)
 - [GitHub Cheatsheets](https://training.github.com/)
-- [GitHub CLI](https://cli.github.com/) / <a href="https://github.com/cli/cli"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [GitHub CLI](https://cli.github.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/cli/cli)
 - [GitHub CLI Manual](https://cli.github.com/manual/)
 - [GitHub Copilot](https://copilot.github.com/)
 - [GitHub Desktop](https://desktop.github.com/)
@@ -3972,7 +3972,7 @@ description: Search engines, web directories, software directories, corporations
 - [Comby.dev](https://comby.dev/)
 - [Electron Forge](https://www.electronforge.io/)
 - [Emmet.io](https://emmet.io/)
-- [GitHub Spec Kit](https://github.github.com/spec-kit/index.html) / <a href="https://github.com/github/spec-kit"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Spec Kit Documentation
+- [GitHub Spec Kit](https://github.github.com/spec-kit/index.html) / [![GitHub](/img/software/apps/github.svg)](https://github.com/github/spec-kit) — Spec Kit Documentation
 - [gulp.js](https://gulpjs.com/)
 - [HTML Cheat Sheet](https://htmlcheatsheet.com/)
 - [HTML5 Boilerplate](https://html5boilerplate.com/)
@@ -4017,7 +4017,7 @@ description: Search engines, web directories, software directories, corporations
 - [Envoyer.io](https://envoyer.io/)
 - [GitHub Codespaces](https://github.com/features/codespaces)
 - [GitHub web editor](https://github.dev/github/dev)
-- [Gitpod.io](https://www.gitpod.io/) / <a href="https://github.com/gitpod-io/gitpod"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Gitpod.io](https://www.gitpod.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/gitpod-io/gitpod)
 - [HyperDX](https://www.hyperdx.io/) — Affordable full-stack production debugging & monitoring
 - [RunKit is Node prototyping](https://runkit.com/home)
 - [ScriptPad](https://scriptpad.dev/)
@@ -4334,7 +4334,7 @@ description: Search engines, web directories, software directories, corporations
 
 ###### Ambience Sound
 - [A Soft Murmur](https://asoftmurmur.com/)
-- [Ambie White Noise](https://ambieapp.com/) / <a href="https://github.com/jenius-apps/ambie"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Ambie White Noise](https://ambieapp.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/jenius-apps/ambie)
 - [Ambient Mixer](https://www.ambient-mixer.com/)
 - [Asmr Ion](https://asmrion.com/)
 - [Coding Cat](https://hostrider.com/)
@@ -4403,7 +4403,7 @@ description: Search engines, web directories, software directories, corporations
 
 #### Radio
 - [FMSTREAM](https://fmstream.org/index.php?c=FT) — The Radio Stream Directory
-- [Wavelog](https://www.wavelog.org/) / <a href="https://github.com/wavelog/wavelog"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — next generation web-based logging
+- [Wavelog](https://www.wavelog.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/wavelog/wavelog) — next generation web-based logging
 
 ##### Radio Platform
 - [365 Radio](https://365.ilysm.nl/) — Cultured Music
@@ -4590,10 +4590,10 @@ description: Search engines, web directories, software directories, corporations
 
 ##### Free Video Streaming
 - ⭐ **[Braflix](https://www.braflix.ru/)** — Watch TV Shows Online, Watch Movies Online
-- ⭐ **[Cinecat](https://cinecat.eu/)** / <a href="https://github.com/xp-technologies-dev/p-stream"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- ⭐ **[Cinecat](https://cinecat.eu/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/xp-technologies-dev/p-stream)
 - ⭐ **[Cinejoy](https://cinejoy.pk/)**
 - ⭐ **[Nunflix](https://nunflix.org/)** — Streaming World!
-- ⭐ **[PlayTorrio](https://playtorrio.xyz/)** / <a href="https://github.com/ayman708-UX/PlayTorrioV2"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Open-Source by Ayman
+- ⭐ **[PlayTorrio](https://playtorrio.xyz/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/ayman708-UX/PlayTorrioV2) — Open-Source by Ayman
 - ⭐ **[Rive Stream](https://www.rivestream.app/)**
 - ⭐ **[streamerflix.xyz](https://streamerflix.xyz/)**
 - [1Shows](https://www.1shows.nl/)
@@ -4808,7 +4808,7 @@ description: Search engines, web directories, software directories, corporations
 ##### Video Sharing
 - ⭐ **[Brighteon](https://www.brighteon.com/)**
 - ⭐ **[FediverseTV](https://fediverse.tv/)**
-- ⭐ **[Odysee](https://odysee.com/)** / <a href="https://github.com/lbryio/lbry-desktop"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- ⭐ **[Odysee](https://odysee.com/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/lbryio/lbry-desktop)
 - ⭐ **[Real Truth Seekers](https://real-truth-seekers.com/)**
 - ⭐ **[Rokfin](https://rokfin.com/)**
 - ⭐ **[Rumble](https://rumble.com/)**
@@ -4999,8 +4999,8 @@ description: Search engines, web directories, software directories, corporations
 - ⭐ **[Jest One TV](https://tv.jest.one/)** — live news
 - ⭐ **[PHOTOCALL TV](https://photocall.xyz/)** — Televisión y radio online
 - ⭐ **[TDTChannels](https://play.tdtchannels.com/television/)**
-- ⭐ **[teles](https://alplox.github.io/teles/)** / <a href="https://github.com/Alplox/teles"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — alplox
-- ⭐ **[TV Multiview](https://interneto.github.io/tv-multiview/)** / <a href="https://github.com/interneto/tv-multiview"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Interneto
+- ⭐ **[teles](https://alplox.github.io/teles/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/Alplox/teles) — alplox
+- ⭐ **[TV Multiview](https://interneto.github.io/tv-multiview/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/interneto/tv-multiview) — Interneto
 - [Cloudtve.com™](https://cloudtve.com/) — Worldwide Live TV Stream Service
 - [DaddyLiveHD](https://dlhd.dad/24-7-channels.php) — 24/7 Channels - Live Sports Streaming Free
 - [Global Free TV](https://www.globalfreetv.com/) — Watch Free Live TV Channels Online
@@ -5037,7 +5037,7 @@ description: Search engines, web directories, software directories, corporations
 - [RTÉ Player](https://www.rte.ie/player/)
 - [STIRR](https://stirr.com/)
 - [Stremio](https://app.strem.io/#/) — All you can watch!
-- [Stremio](https://web.stremio.com/) / <a href="https://github.com/Stremio/stremio-web"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Freedom to Stream
+- [Stremio](https://web.stremio.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Stremio/stremio-web) — Freedom to Stream
 - [TheArchive.tv](https://www.thearchive.tv/)
 - [Tubi.tv](https://gdpr.tubi.tv/)
 - [VIX](https://www.vix.com/)
@@ -5055,7 +5055,7 @@ description: Search engines, web directories, software directories, corporations
 - [CCambox](https://web.cccambox.com/v6) — Best TV Server Subscription Service Provider
 - [Clever IPTV](https://clever-iptv.com/en/) — 20,000+ Channels & 4K UHD Streaming
 - [Clixou IPTV](https://clixou.sellpass.io/products/IPTV)
-- [CrocOTT](https://crocott.com/) / <a href="https://gitlab.com/fastogt/fastocloud_ott"><img class="source-host-icon" src="/img/source-hosts/gitlab.svg" alt="GitLab" title="GitLab" width="14" height="14" loading="lazy"></a>
+- [CrocOTT](https://crocott.com/) / [![GitLab](/img/source-hosts/gitlab.svg)](https://gitlab.com/fastogt/fastocloud_ott)
 - [DigitaLizard Top IPTV Provider](https://digitalizard.com/)
 - [DisfrutaTv](https://disfrutatv.com/) — Comprar IPTV España Premium 2026
 - [DISH](https://www.dish.com/) — Satellite TV Provider
@@ -5339,7 +5339,7 @@ description: Search engines, web directories, software directories, corporations
 - [Asil Tools](https://aslitools.com/) — PDF Converter, Image Tools, Calculators & More
 - [binvis.io](https://binvis.io/#/)
 - [Count Wordsworth](https://countwordsworth.com/)
-- [delphitools](https://delphi.tools/) / <a href="https://github.com/1612elphi/delphitools"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — privacy-first browser tools
+- [delphitools](https://delphi.tools/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/1612elphi/delphitools) — privacy-first browser tools
 - [DocsYogi](https://docsyogi.com/) — Free Online File Viewer | View 13+ File Formats
 - [Extract Video Frame](https://frame.utils.com/) — utils.com
 - [FileProInfo](https://fileproinfo.com/)
@@ -5351,7 +5351,7 @@ description: Search engines, web directories, software directories, corporations
 - [Matmatch](https://matmatch.com/)
 - [MiniWebtool](https://miniwebtool.com/)
 - [Mr. Free Tools](https://mrfreetools.com/) — The Best Free Tools & Resources
-- [Online Tools](https://emn178.github.io/online-tools/) / <a href="https://github.com/emn178/online-tools/"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Online Tools](https://emn178.github.io/online-tools/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/emn178/online-tools/)
 - [PineTools](https://pinetools.com/)
 - [Tools 4 noobs](https://www.tools4noobs.com/)
 - [Toulr.com](https://www.toulr.com/)
@@ -5487,7 +5487,7 @@ description: Search engines, web directories, software directories, corporations
 - [Vendo](https://www.vendoservices.com/)
 - [Verifone](https://www.verifone.com/en/uk)
 - [Wyre](https://www.sendwyre.com/) — Crypto Infrastructure
-- [x402](https://www.x402.org/) / <a href="https://github.com/x402-foundation/x402"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Payment Required
+- [x402](https://www.x402.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/x402-foundation/x402) — Payment Required
 
 #### Money Transfer
 - [International Money Transfer](https://moneytransfers.com/)
@@ -5510,7 +5510,7 @@ description: Search engines, web directories, software directories, corporations
 - [Compiled.social](https://compiled.social/)
 - [Direct.me](https://direct.me/)
 - [hoo.be](https://hoo.be/)
-- [linkding](https://linkding.link/) / <a href="https://github.com/sissbruecker/linkding"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [linkding](https://linkding.link/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/sissbruecker/linkding)
 - [LinkStack](https://linkstack.org/) — Self-hosted open-source Linktree alternative
 - [Linktree](https://linktr.ee/)
 - [LittleLink](https://littlelink.io/)
@@ -5559,7 +5559,7 @@ description: Search engines, web directories, software directories, corporations
 - [DocuSign](https://www.docusign.com/) — Electronic Signature and Contract Lifecycle Management
 - [DottedSign](https://www.dottedsign.com/) — Sign Documents Online
 - [OpenSign](https://www.opensignlabs.com/) — The Free & OpenSource Alternative to Docusign
-- [PAe CTT](https://administracionelectronica.gob.es/ctt/verPestanaGeneral.htm?idIniciativa=clienteafirma) / <a href="https://github.com/ctt-gob-es/clienteafirma"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Cliente de firma electrónica de @firma
+- [PAe CTT](https://administracionelectronica.gob.es/ctt/verPestanaGeneral.htm?idIniciativa=clienteafirma) / [![GitHub](/img/software/apps/github.svg)](https://github.com/ctt-gob-es/clienteafirma) — Cliente de firma electrónica de @firma
 - [Papermark](https://www.papermark.io/) — The Open Source DocSend Alternative
 - [SignRequest](https://signrequest.com/#/)
 - [Sproof sign](https://www.sproof.io/en) — The fastest way to digital signatures
@@ -5576,7 +5576,7 @@ description: Search engines, web directories, software directories, corporations
 - [TinyWow](https://tinywow.com/) — Free AI Writing, PDF, Image, and other Online Tools
 - [Toolsley](https://www.toolsley.com/)
 - [Toolzweb](https://toolzweb.net/)
-- [Unlighthouse](https://unlighthouse.dev/) / <a href="https://github.com/harlan-zw/unlighthouse"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Unlighthouse](https://unlighthouse.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/harlan-zw/unlighthouse)
 - [UrlOpener.com](https://url-opener.com/)
 - [URLOpener.net](https://urlopener.net/)
 - [Vago-Tools](https://free.vago-tools.com/home) — Free Web Tools
@@ -5700,7 +5700,7 @@ description: Search engines, web directories, software directories, corporations
 
 #### Data Generator
 - [.bashrc generator](https://bashrcgenerator.com/)
-- [Arnis](https://arnismc.com/) / <a href="https://github.com/louis-e/arnis"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Real World to Minecraft Generator
+- [Arnis](https://arnismc.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/louis-e/arnis) — Real World to Minecraft Generator
 - [Bienvenido a Generador de DNI!](https://generadordni.es/#home)
 - [Cool Generator List](https://www.coolgenerator.com/)
 - [Data Fake Generator](https://datafakegenerator.com/)
@@ -6224,7 +6224,7 @@ description: Search engines, web directories, software directories, corporations
 - [Google Images](https://images.google.com/)
 - [Google Lens (search)](https://lens.google.com/search?p)
 - [Graphic Image Park](https://www.graphic-image.inpit.go.jp/)
-- [Image Max URL](https://qsniyg.github.io/maxurl/) / <a href="https://github.com/qsniyg/maxurl"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a>
+- [Image Max URL](https://qsniyg.github.io/maxurl/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/qsniyg/maxurl)
 - [ImgOps](https://imgops.com/)
 - [iqdb](https://iqdb.org/)
 - [Karma Decay](http://karmadecay.com/)
@@ -6302,7 +6302,7 @@ description: Search engines, web directories, software directories, corporations
 - [Mi Curriculum vitae](https://mi-curriculum-vitae.com/)
 - [Microsoft Create](https://create.microsoft.com/en-us/templates/resumes) — Free resume templates to download and print
 - [Modelos-de-curriculum](https://www.modelos-de-curriculum.com/) — 150 Modelos de Curriculum Vitae Word
-- [RenderCV](https://rendercv.com/) / <a href="https://github.com/rendercv/rendercv"><img class="source-host-icon source-host-icon-invert" src="/img/software/apps/github.svg" alt="GitHub" title="GitHub" width="14" height="14" loading="lazy"></a> — Resume Builder for Academics and Engineers
+- [RenderCV](https://rendercv.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/rendercv/rendercv) — Resume Builder for Academics and Engineers
 - [Zety](https://zety.es/) — Tu Currículum Profesional y Efectivo. Pruébalo Gratis
 
 ## Web Info
