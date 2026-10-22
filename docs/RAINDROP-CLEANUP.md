@@ -1,7 +1,7 @@
 # Raindrop cleanup — runbook
 
-> **Status**: Active. Classification system defined (this doc). First full pass complete: every category under `Apps & Services` (all 19) plus all of `Society` (`Govs`, `Organization`, `Portfolio`) and `Saved > Content` reviewed. Remaining: `Saved`'s other branches (`Creator`, `Places`, `Content Uploaded`) not yet started; a second, deeper pass could revisit branches flagged "still above target" (e.g. `Office & Productivity`).
-> **Last updated**: 2026-09-22
+> **Status**: Active. Classification system defined (this doc). Every branch has had a first pass: all 19 `Apps & Services` categories, all of `Society`, and all of `Saved` (`Content`, `Creator`, `Places`, `Upload`). Optional later work: a second, deeper content-reading pass on the large branches, and `Office & Productivity` (22 children) is still above target by design. Day-to-day: classify `Unsorted`, then the scheduled sync publishes it. Progress is in [`RAINDROP-LOG.md`](./RAINDROP-LOG.md).
+> **Last updated**: 2026-10-22
 > **Audience**: the maintainer and any Claude Code session continuing this work. Read this file first; it is meant to be enough to resume without the original conversation.
 > **Related**: [`TAXONOMY.md`](./TAXONOMY.md) (the 19 fixed content categories), [`ROADMAP.md`](./ROADMAP.md), `scripts/README.md` (CSV → Markdown pipeline).
 >
