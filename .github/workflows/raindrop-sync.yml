@@ -1,0 +1,75 @@
+name: Sync Raindrop
+
+# Pulls the Raindrop library, regenerates the category pages and commits the
+# result to main, then triggers the Pages deploy. Needs the RAINDROP_TOKEN
+# repository secret (see docs/RAINDROP-CLEANUP.md > REST API token).
+
+on:
+  schedule:
+    - cron: '17 4 * * *'
+  workflow_dispatch:
+    inputs:
+      full:
+        description: 'Full fetch instead of incremental (~15 min)'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: raindrop-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 11.9.0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: pnpm
+
+      - run: pnpm install --frozen-lockfile
+
+      # links/ and data/ are gitignored; the cache keeps the incremental state
+      # between runs. A miss just means one full fetch.
+      - uses: actions/cache@v4
+        with:
+          path: |
+            links/interneto-links.csv
+            links/raindrop-state.json
+            data/bookmarks.db
+          key: raindrop-${{ github.run_id }}
+          restore-keys: raindrop-
+
+      - name: Fetch from Raindrop
+        env:
+          RAINDROP_TOKEN: ${{ secrets.RAINDROP_TOKEN }}
+        run: pnpm run db:fetch ${{ inputs.full && '--full' || '' }}
+
+      - run: pnpm run sync
+      - run: pnpm run typecheck
+
+      - name: Commit and deploy
+        run: |
+          if git diff --quiet && [ -z "$(git ls-files -o --exclude-standard src)" ]; then
+            echo "No changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A src
+          git commit -m "chore(sync): Raindrop $(date -u +%F)"
+          git push
+          # Pushes made with GITHUB_TOKEN do not trigger other workflows.
+          gh workflow run deploy.yml
+        env:
+          GH_TOKEN: ${{ github.token }}
