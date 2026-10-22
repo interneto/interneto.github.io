@@ -222,24 +222,42 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [WebOas.is](https://weboasis.su/) — The Ultimate Startpage, Homepage, Web Portal!
 - [WebOas.is](https://ndsamuelson.github.io/weboas-is/) — WebOasis | The Ultimate Startpage, Homepage, Web Portal!
 
-## Clipboard
-- [CleanClip](https://www.cleanclip.cc/) — Rediscover the Value of Clipboard Content
-- [clipboard.js](https://clipboardjs.com/)
-- [Clipy](https://clipy-app.com/)
-- [CopyQ · GitHub](https://hluk.github.io/CopyQ/)
-- [Ditto clipboard](https://ditto-cp.sourceforge.io/)
-- [hpavlo/Rememory](https://github.com/hpavlo/Rememory) — Rememory | Clipboard Manager
-- [Maccy](https://maccy.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/p0deje/Maccy) — macOS clipboard manager
-- [Pasta](https://getpasta.com/) — clipboard manager for the mac
-- [Paste](https://pasteapp.io/) — Clipboard manager for Mac
-- [PasteBar](https://www.pastebar.app/) — Easy management for everything you copy and paste
-- [Pesto Clipboard](https://pestoclipboard.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/matthewpick/pesto-clipboard) — Free macOS Clipboard Manager
-- [Planck](https://www.planckapp.com/) — Cross-platform Clipboard Manager
+## Business Software
 
-## Contact Manager
-- [FossifyOrg/Phone · GitHub](https://github.com/FossifyOrg/Phone)
+### Survey or Poll
+- [BlockSurvey.io](https://blocksurvey.io/)
+- [Curious Karen](https://www.curiouskaren.com/)
+- [Debate.org](https://www.debate.org/)
+- [Framadate](https://framadate.org/abc/en/) — Make your polls
+- [LimeSurvey](https://www.limesurvey.org/es)
+- [LimeSurvey](https://www.limesurvey.org/)
+- [Pollcode](https://pollcode.com/)
+- [Rapidforms](https://rapidforms.co/) — Powerful Online Form Builder & Form Creator
+- [Research.net](https://www.research.net/)
+- [Straw Poll](https://www.strawpoll.me/)
+- [Surveyeah](https://www.surveyeah.com/)
+- [SurveyMonkey](https://www.surveymonkey.com/)
+- [Tally](https://tally.so/) — Free Online Form Builder
+- [Typeform](https://www.typeform.com/) — Forms and surveys
 
-## Customer Relationship Management (CRM)
+### Email Marketing Services
+- [BatchLeads](https://batchleads.io/) — Real Estate Investing Software Made Simple
+- [Brevo](https://www.brevo.com/) — Email Marketing Software, Automation & CRM
+- [Free group email and mass email newsletter software](https://group-mail.com/)
+- [GetResponse](https://www.getresponse.com/) — Professional Email Marketing for Everyone
+- [HubSpot](https://www.hubspot.com/) — Software & Tools for your Business
+- [listmonk](https://listmonk.app/) — Free and open source self-hosted newsletter, mailing list manager, and transactional mails
+- [Mailchimp](https://mailchimp.com/en/?currency=EUR)
+- [Mailgun](https://www.mailgun.com/)
+- [Mailjet](https://www.mailjet.com/) — Email Delivery Service for Marketing & Developer Teams
+- [Mailtrap](https://mailtrap.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/mailtrap) — Email Delivery Platform
+- [Resend · Email for developers](https://resend.com/)
+- [SendGrid](https://sendgrid.com/en-us) — SendGrid Email API and Email Marketing Campaigns
+- [SMTP2GO](https://www.smtp2go.com/) — Reliable & Scalable Email Delivery Service
+- [Stripo](https://stripo.email/) — FREE Email Template Builder: drag-n-drop Html Email Editor
+- [UniStack](https://unistack.io/)
+
+### Customer Relationship Management (CRM)
 - [AimHarder](https://aimharder.com/) — Management & reservations software 🥇
 - [Axelor](https://axelor.com/crm/)
 - [CiviCRM](https://civicrm.org/)
@@ -267,6 +285,31 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [X2 CRM](https://x2crm.com/)
 - [YetiForce CRM](https://yetiforce.com/en/)
 - [Znuny](https://www.znuny.org/en) / [![GitHub](/img/software/apps/github.svg)](https://github.com/znuny/Znuny) — Open Source Service Desk
+
+### ERP (Enterprise Resource Planning)
+- [Craftplan](https://puemos.github.io/craftplan/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/puemos/craftplan)
+- [ERPNext](https://erpnext.com/) — Free and Open Source Cloud ERP Software
+- [GOIA](https://www.goia.es/) — Software de gestión de explotaciones agrícolas
+- [OpenGest ERP](https://www.astra.es/opengest-erp-gestion-empresas/) — Astra Nuevas Tecnologías
+- [Presto Software Presupuestos y Control de Obras](https://presto-software.com/)
+- [VeriFactus](https://verifactus.com/) — Facturación electrónica certificada
+
+## Clipboard
+- [CleanClip](https://www.cleanclip.cc/) — Rediscover the Value of Clipboard Content
+- [clipboard.js](https://clipboardjs.com/)
+- [Clipy](https://clipy-app.com/)
+- [CopyQ · GitHub](https://hluk.github.io/CopyQ/)
+- [Ditto clipboard](https://ditto-cp.sourceforge.io/)
+- [hpavlo/Rememory](https://github.com/hpavlo/Rememory) — Rememory | Clipboard Manager
+- [Maccy](https://maccy.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/p0deje/Maccy) — macOS clipboard manager
+- [Pasta](https://getpasta.com/) — clipboard manager for the mac
+- [Paste](https://pasteapp.io/) — Clipboard manager for Mac
+- [PasteBar](https://www.pastebar.app/) — Easy management for everything you copy and paste
+- [Pesto Clipboard](https://pestoclipboard.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/matthewpick/pesto-clipboard) — Free macOS Clipboard Manager
+- [Planck](https://www.planckapp.com/) — Cross-platform Clipboard Manager
+
+## Contact Manager
+- [FossifyOrg/Phone · GitHub](https://github.com/FossifyOrg/Phone)
 
 ## Data Tools
 - [Git City](https://www.thegitcity.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/srizzon/git-city) — Your GitHub as a 3D City
@@ -433,31 +476,6 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - ⭐ **[Gource](https://gource.io/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/acaudwell/Gource) — a software version control visualization tool
 - [Git History](https://githistory.xyz/)
 - [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) — A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story
-
-## Email Marketing Services
-- [BatchLeads](https://batchleads.io/) — Real Estate Investing Software Made Simple
-- [Brevo](https://www.brevo.com/) — Email Marketing Software, Automation & CRM
-- [Free group email and mass email newsletter software](https://group-mail.com/)
-- [GetResponse](https://www.getresponse.com/) — Professional Email Marketing for Everyone
-- [HubSpot](https://www.hubspot.com/) — Software & Tools for your Business
-- [listmonk](https://listmonk.app/) — Free and open source self-hosted newsletter, mailing list manager, and transactional mails
-- [Mailchimp](https://mailchimp.com/en/?currency=EUR)
-- [Mailgun](https://www.mailgun.com/)
-- [Mailjet](https://www.mailjet.com/) — Email Delivery Service for Marketing & Developer Teams
-- [Mailtrap](https://mailtrap.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/mailtrap) — Email Delivery Platform
-- [Resend · Email for developers](https://resend.com/)
-- [SendGrid](https://sendgrid.com/en-us) — SendGrid Email API and Email Marketing Campaigns
-- [SMTP2GO](https://www.smtp2go.com/) — Reliable & Scalable Email Delivery Service
-- [Stripo](https://stripo.email/) — FREE Email Template Builder: drag-n-drop Html Email Editor
-- [UniStack](https://unistack.io/)
-
-## ERP (Enterprise Resource Planning)
-- [Craftplan](https://puemos.github.io/craftplan/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/puemos/craftplan)
-- [ERPNext](https://erpnext.com/) — Free and Open Source Cloud ERP Software
-- [GOIA](https://www.goia.es/) — Software de gestión de explotaciones agrícolas
-- [OpenGest ERP](https://www.astra.es/opengest-erp-gestion-empresas/) — Astra Nuevas Tecnologías
-- [Presto Software Presupuestos y Control de Obras](https://presto-software.com/)
-- [VeriFactus](https://verifactus.com/) — Facturación electrónica certificada
 
 ## Finance Manager
 - [Actual](https://actualbudget.org/) — Actual Budget Documentation
@@ -824,82 +842,6 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [Xodo PDF](https://pdf.online/)
 - [ZetaOffice](https://zetaoffice.net/)
 
-## Online Collaboration
-- ⭐ **[CryptPad](https://cryptpad.fr/)**
-- ⭐ **[Files.com](https://www.files.com/)**
-- ⭐ **[Nuclino](https://www.nuclino.com/)**
-- [Additor](https://additor.io/)
-- [Airtable](https://airtable.com/)
-- [Allo.io](https://allo.io/)
-- [Almanac.io](https://almanac.io/)
-- [Asana](https://asana.com/) — Manage your team’s work, projects, & tasks online
-- [Basecamp](https://basecamp.com/)
-- [Bit.ai](https://bit.ai/)
-- [BlogIn](https://blogin.co/)
-- [Bricksapp.io](https://www.bricksapp.io/)
-- [Coda.io](https://coda.io/)
-- [Confluence](https://www.atlassian.com/software/confluence) — Atlassian
-- [Connecteam](https://connecteam.com/)
-- [Current ∙ All your team’s work in one place](https://current.so/)
-- [Docollab](https://www.docollab.com/)
-- [Docs](https://docs.numerique.gouv.fr/login/) — Collaborative writing, Simplified
-- [Doppler](https://www.doppler.com/)
-- [Draft In](https://draftin.com/)
-- [Dropbox Paper](https://paper.dropbox.com/hackpad/)
-- [eigen](https://eigen.is/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/eigen-is/eigen)
-- [Fibery.io](https://fibery.io/)
-- [Flask](https://flask.do/) — Video Collaboration for Creative Teams
-- [FosWiki](https://foswiki.org/)
-- [Freehand by InVision](https://www.freehandapp.com/) — The All-in-One Visual Collaboration Workspace
-- [Gmelius](https://gmelius.com/)
-- [Google Workspace](https://workspace.google.com/)
-- [Hive](https://hive.com/) — Manage projects faster & collaborate better
-- [Instant](https://www.instantdb.com/)
-- [Kanban Tool](https://kanbantool.com/es)
-- [Kludd](https://kludd.co/)
-- [Kolide](https://www.kolide.com/home)
-- [kSuite](https://www.infomaniak.com/en/ksuite) — The ethical and secure collaborative solution
-- [Linear](https://linear.app/) — A better way to build products
-- [Lucid](https://lucid.co/)
-- [LucidLink](https://www.lucidlink.com/) — The Storage Collaboration Platform for Creatives
-- [Lumi.com](https://www.lumi.com/)
-- [Mattermost](https://mattermost.com/) — Secure Collaboration for Technical Teams
-- [Miro](https://miro.com/) — The Visual Collaboration Platform for Every Team
-- [monday.com](https://monday.com/)
-- [Niice](https://niice.co/)
-- [Nimbus Web](https://nimbusweb.me/)
-- [Nolt.io](https://nolt.io/)
-- [Outline](https://www.getoutline.com/) — Team knowledge base & wiki
-- [PandaDoc](https://www.pandadoc.com/)
-- [Planable.io](https://planable.io/)
-- [Poe editor](https://poeditor.com/)
-- [PopSQL](https://popsql.com/)
-- [PreVeil](https://www.preveil.com/)
-- [Procore](https://www.procore.com/en-gb)
-- [ProofHub](https://www.proofhub.com/)
-- [Quire.io](https://quire.io/)
-- [Samepage](https://samepage.io/login)
-- [screen.garden](https://screen.garden/)
-- [Scriptcase](https://www.scriptcase.net/) — PHP Web
-- [SharePoint, Team Collaboration Software Tools](https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration)
-- [Slack](https://slack.com/) — Your productivity platform
-- [StackShare](https://stackshare.io/) — Tech Stack Intelligence
-- [Streak](https://www.streak.com/) — CRM for Gmail
-- [Tango.us](https://www.tango.us/)
-- [Tefter.io](https://tefter.io/)
-- [Teleport](https://goteleport.com/)
-- [Termius](https://www.termius.com/) — SSH platform for Mobile and Desktop
-- [TextExpander](https://textexpander.com/)
-- [Tiki.org](https://tiki.org/HomePage)
-- [TogetherJS](https://togetherjs.com/)
-- [Trello](https://trello.com/)
-- [Typewrite.io](https://typewrite.io/)
-- [V7labs](https://www.v7labs.com/)
-- [WikiSuite](https://wikisuite.org/Software) — Software
-- [Workona](https://workona.com/)
-- [Yjs Shared Editing](https://yjs.dev/)
-- [Zenkit](https://zenkit.com/en/suite/) — Productivity Software Suite
-
 ## PDF Tools
 
 ### PDF Editor
@@ -964,65 +906,6 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [PrintManager](https://www.printmanager.com/) — Control and Manage your printing.
 - [Slic3r](https://slic3r.org/) — Open source 3D printing toolbox
 - [uniFLOW](https://www.uniflow.global/en/home/)
-
-## Project Management Tool
-- ⭐ **[AppFlowy](https://appflowy.com/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/AppFlowy-IO/AppFlowy)
-- ⭐ **[Notion](https://www.notion.com/)** — Your connected workspace for wiki, docs and projects
-- [AFFiNE](https://affine.pro/) — All In One KnowledgeOS
-- [Agila](https://agila.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/drenlia-inc/agila) — Streamline Your Team's Workflow
-- [Apploye](https://apploye.com/) — Next Generation Employee Productivity Platform
-- [Baserow](https://baserow.io/) — Open source no-code database
-- [Bonsai](https://www.hellobonsai.com/)
-- [Box](https://www.box.com/home) — Secure, AI-Powered Content Management, Workflow & Collaboration
-- [Bugzilla](https://www.bugzilla.org/)
-- [ClickUp](https://clickup.com/)
-- [Command E](https://getcommande.com/)
-- [Conduktor](https://www.conduktor.io/) — Data Mesh Principles for Apache Kafka
-- [Dialpad](https://www.dialpad.com/)
-- [eantime/leantime · GitHub](https://github.com/Leantime/leantime)
-- [Easy Redmine](https://easyredmine.com/)
-- [eXo](https://www.exoplatform.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/exoplatform/) — Digital Workplace Software
-- [Flipsnack](https://www.flipsnack.com/)
-- [GanttPRO](https://ganttpro.com/es/) — Diagrama de Gantt online
-- [GanttProject](https://www.ganttproject.biz/) — free project management tool
-- [Habitify](https://www.habitify.me/)
-- [Height](https://height.app/)
-- [Hightail](https://www.hightail.com/)
-- [Holded.com](https://www.holded.com/)
-- [Kanban Project Management Software](https://kanboard.org/)
-- [Leantime](https://leantime.io/) — Open Source Project Management
-- [LogicalDOC](https://www.logicaldoc.us/en-us/)
-- [Magnifi](https://magnifi.space/) — Project Management Your Whole Team Understands
-- [Microsoft Project Management Software](https://www.microsoft.com/en-us/microsoft-365/project/project-management-software?rtc=1)
-- [OpenEMR](https://www.open-emr.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/openemr)
-- [OpenProject](https://www.openproject.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/opf/openproject) — Open Source Project Management Software
-- [Planless](https://www.planless.com/) — Unleash plannning super-powers
-- [Planzone](https://www.planzone.fr/en/) — Online collaborative project management software
-- [Price&Cost](https://www.priceandcost.com/) — turn uncertain projects into predictable profits
-- [Project Management Software](https://www.microsoft.com/en-us/microsoft-365/project/project-management-software) — Microsoft Project
-- [Projectlibre](https://www.projectlibre.com/) — Alternative to MS Project
-- [Quip](https://quip.com/)
-- [Quizlet](https://quizlet.com/en-gb)
-- [RaidPlan.io](https://raidplan.io/) — World of Warcraft Boss Planner
-- [Readable](https://readable.com/)
-- [Redmine](https://www.redmine.org/)
-- [Remote](https://remote.com/)
-- [Scrumfast](https://www.scrumfast.com/)
-- [Shoutout.so](https://shoutout.so/)
-- [Smartsheet](https://www.smartsheet.com/)
-- [Taiga.io](https://www.taiga.io/)
-- [TaskFalcon](https://taskfalcon.org/) — Project planning from a bird's eye view
-- [TeamGantt](https://www.teamgantt.com/) — Gantt Chart Maker
-- [TeamWave](https://teamwave.com/)
-- [Teamwork](https://www.teamwork.com/)
-- [Testimonial.io](https://testimonial.to/)
-- [tillywork](https://tilly.work/) — Work management for all your teams
-- [TIMIFY](https://www.timify.com/en-gb)
-- [Walling](https://walling.app/) — Organize & Present Your Ideas
-- [Worklog](https://regisx001.github.io/Worklog/) / [🔗](https://regisx001.github.io/Worklog/) — Local-first Desktop Project Manager
-- [Wrike](https://www.wrike.com/)
-- [Wrike](https://www.wrike.com/vx/) — Versatile & Robust Project Management Software
-- [Zenkit Projects](https://zenkit.com/)
 
 ## Scanner
 
@@ -1105,21 +988,166 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [Sheet Music Scanner](https://sheetmusicscanner.com/)
 - [SheetVision](https://sheetvisions.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/cal-pratt/SheetVision) — The AI Data Analyst for Everyone
 
-## Survey or Poll
-- [BlockSurvey.io](https://blocksurvey.io/)
-- [Curious Karen](https://www.curiouskaren.com/)
-- [Debate.org](https://www.debate.org/)
-- [Framadate](https://framadate.org/abc/en/) — Make your polls
-- [LimeSurvey](https://www.limesurvey.org/es)
-- [LimeSurvey](https://www.limesurvey.org/)
-- [Pollcode](https://pollcode.com/)
-- [Rapidforms](https://rapidforms.co/) — Powerful Online Form Builder & Form Creator
-- [Research.net](https://www.research.net/)
-- [Straw Poll](https://www.strawpoll.me/)
-- [Surveyeah](https://www.surveyeah.com/)
-- [SurveyMonkey](https://www.surveymonkey.com/)
-- [Tally](https://tally.so/) — Free Online Form Builder
-- [Typeform](https://www.typeform.com/) — Forms and surveys
+## Team Collaboration
+
+### Online Collaboration
+- ⭐ **[CryptPad](https://cryptpad.fr/)**
+- ⭐ **[Files.com](https://www.files.com/)**
+- ⭐ **[Nuclino](https://www.nuclino.com/)**
+- [Additor](https://additor.io/)
+- [Airtable](https://airtable.com/)
+- [Allo.io](https://allo.io/)
+- [Almanac.io](https://almanac.io/)
+- [Asana](https://asana.com/) — Manage your team’s work, projects, & tasks online
+- [Basecamp](https://basecamp.com/)
+- [Bit.ai](https://bit.ai/)
+- [BlogIn](https://blogin.co/)
+- [Bricksapp.io](https://www.bricksapp.io/)
+- [Coda.io](https://coda.io/)
+- [Confluence](https://www.atlassian.com/software/confluence) — Atlassian
+- [Connecteam](https://connecteam.com/)
+- [Current ∙ All your team’s work in one place](https://current.so/)
+- [Docollab](https://www.docollab.com/)
+- [Docs](https://docs.numerique.gouv.fr/login/) — Collaborative writing, Simplified
+- [Doppler](https://www.doppler.com/)
+- [Draft In](https://draftin.com/)
+- [Dropbox Paper](https://paper.dropbox.com/hackpad/)
+- [eigen](https://eigen.is/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/eigen-is/eigen)
+- [Fibery.io](https://fibery.io/)
+- [Flask](https://flask.do/) — Video Collaboration for Creative Teams
+- [FosWiki](https://foswiki.org/)
+- [Freehand by InVision](https://www.freehandapp.com/) — The All-in-One Visual Collaboration Workspace
+- [Gmelius](https://gmelius.com/)
+- [Google Workspace](https://workspace.google.com/)
+- [Hive](https://hive.com/) — Manage projects faster & collaborate better
+- [Instant](https://www.instantdb.com/)
+- [Kanban Tool](https://kanbantool.com/es)
+- [Kludd](https://kludd.co/)
+- [Kolide](https://www.kolide.com/home)
+- [kSuite](https://www.infomaniak.com/en/ksuite) — The ethical and secure collaborative solution
+- [Linear](https://linear.app/) — A better way to build products
+- [Lucid](https://lucid.co/)
+- [LucidLink](https://www.lucidlink.com/) — The Storage Collaboration Platform for Creatives
+- [Lumi.com](https://www.lumi.com/)
+- [Mattermost](https://mattermost.com/) — Secure Collaboration for Technical Teams
+- [Miro](https://miro.com/) — The Visual Collaboration Platform for Every Team
+- [monday.com](https://monday.com/)
+- [Niice](https://niice.co/)
+- [Nimbus Web](https://nimbusweb.me/)
+- [Nolt.io](https://nolt.io/)
+- [Outline](https://www.getoutline.com/) — Team knowledge base & wiki
+- [PandaDoc](https://www.pandadoc.com/)
+- [Planable.io](https://planable.io/)
+- [Poe editor](https://poeditor.com/)
+- [PopSQL](https://popsql.com/)
+- [PreVeil](https://www.preveil.com/)
+- [Procore](https://www.procore.com/en-gb)
+- [ProofHub](https://www.proofhub.com/)
+- [Quire.io](https://quire.io/)
+- [Samepage](https://samepage.io/login)
+- [screen.garden](https://screen.garden/)
+- [Scriptcase](https://www.scriptcase.net/) — PHP Web
+- [SharePoint, Team Collaboration Software Tools](https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration)
+- [Slack](https://slack.com/) — Your productivity platform
+- [StackShare](https://stackshare.io/) — Tech Stack Intelligence
+- [Streak](https://www.streak.com/) — CRM for Gmail
+- [Tango.us](https://www.tango.us/)
+- [Tefter.io](https://tefter.io/)
+- [Teleport](https://goteleport.com/)
+- [Termius](https://www.termius.com/) — SSH platform for Mobile and Desktop
+- [TextExpander](https://textexpander.com/)
+- [Tiki.org](https://tiki.org/HomePage)
+- [TogetherJS](https://togetherjs.com/)
+- [Trello](https://trello.com/)
+- [Typewrite.io](https://typewrite.io/)
+- [V7labs](https://www.v7labs.com/)
+- [WikiSuite](https://wikisuite.org/Software) — Software
+- [Workona](https://workona.com/)
+- [Yjs Shared Editing](https://yjs.dev/)
+- [Zenkit](https://zenkit.com/en/suite/) — Productivity Software Suite
+
+### Project Management Tool
+- ⭐ **[AppFlowy](https://appflowy.com/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/AppFlowy-IO/AppFlowy)
+- ⭐ **[Notion](https://www.notion.com/)** — Your connected workspace for wiki, docs and projects
+- [AFFiNE](https://affine.pro/) — All In One KnowledgeOS
+- [Agila](https://agila.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/drenlia-inc/agila) — Streamline Your Team's Workflow
+- [Apploye](https://apploye.com/) — Next Generation Employee Productivity Platform
+- [Baserow](https://baserow.io/) — Open source no-code database
+- [Bonsai](https://www.hellobonsai.com/)
+- [Box](https://www.box.com/home) — Secure, AI-Powered Content Management, Workflow & Collaboration
+- [Bugzilla](https://www.bugzilla.org/)
+- [ClickUp](https://clickup.com/)
+- [Command E](https://getcommande.com/)
+- [Conduktor](https://www.conduktor.io/) — Data Mesh Principles for Apache Kafka
+- [Dialpad](https://www.dialpad.com/)
+- [eantime/leantime · GitHub](https://github.com/Leantime/leantime)
+- [Easy Redmine](https://easyredmine.com/)
+- [eXo](https://www.exoplatform.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/exoplatform/) — Digital Workplace Software
+- [Flipsnack](https://www.flipsnack.com/)
+- [GanttPRO](https://ganttpro.com/es/) — Diagrama de Gantt online
+- [GanttProject](https://www.ganttproject.biz/) — free project management tool
+- [Habitify](https://www.habitify.me/)
+- [Height](https://height.app/)
+- [Hightail](https://www.hightail.com/)
+- [Holded.com](https://www.holded.com/)
+- [Kanban Project Management Software](https://kanboard.org/)
+- [Leantime](https://leantime.io/) — Open Source Project Management
+- [LogicalDOC](https://www.logicaldoc.us/en-us/)
+- [Magnifi](https://magnifi.space/) — Project Management Your Whole Team Understands
+- [Microsoft Project Management Software](https://www.microsoft.com/en-us/microsoft-365/project/project-management-software?rtc=1)
+- [OpenEMR](https://www.open-emr.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/openemr)
+- [OpenProject](https://www.openproject.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/opf/openproject) — Open Source Project Management Software
+- [Planless](https://www.planless.com/) — Unleash plannning super-powers
+- [Planzone](https://www.planzone.fr/en/) — Online collaborative project management software
+- [Price&Cost](https://www.priceandcost.com/) — turn uncertain projects into predictable profits
+- [Project Management Software](https://www.microsoft.com/en-us/microsoft-365/project/project-management-software) — Microsoft Project
+- [Projectlibre](https://www.projectlibre.com/) — Alternative to MS Project
+- [Quip](https://quip.com/)
+- [Quizlet](https://quizlet.com/en-gb)
+- [RaidPlan.io](https://raidplan.io/) — World of Warcraft Boss Planner
+- [Readable](https://readable.com/)
+- [Redmine](https://www.redmine.org/)
+- [Remote](https://remote.com/)
+- [Scrumfast](https://www.scrumfast.com/)
+- [Shoutout.so](https://shoutout.so/)
+- [Smartsheet](https://www.smartsheet.com/)
+- [Taiga.io](https://www.taiga.io/)
+- [TaskFalcon](https://taskfalcon.org/) — Project planning from a bird's eye view
+- [TeamGantt](https://www.teamgantt.com/) — Gantt Chart Maker
+- [TeamWave](https://teamwave.com/)
+- [Teamwork](https://www.teamwork.com/)
+- [Testimonial.io](https://testimonial.to/)
+- [tillywork](https://tilly.work/) — Work management for all your teams
+- [TIMIFY](https://www.timify.com/en-gb)
+- [Walling](https://walling.app/) — Organize & Present Your Ideas
+- [Worklog](https://regisx001.github.io/Worklog/) / [🔗](https://regisx001.github.io/Worklog/) — Local-first Desktop Project Manager
+- [Wrike](https://www.wrike.com/)
+- [Wrike](https://www.wrike.com/vx/) — Versatile & Robust Project Management Software
+- [Zenkit Projects](https://zenkit.com/)
+
+### Whiteboard Editor
+- ⭐ **[Excalidraw](https://excalidraw.com/)** — Collaborative whiteboarding made easy
+- ⭐ **[Tldraw](https://www.tldraw.com/)**
+- ⭐ **[Witeboard](https://witeboard.com/0)**
+- [DigStack](https://www.digstack.com/landing/current)
+- [DoodleMaker](https://doodlemaker.com/go/)
+- [Doodly](https://www.doodly.com/)
+- [Free Online Whiteboard](https://www.tutorialspoint.com/whiteboard.htm)
+- [IDroo](https://app.idroo.com/)
+- [InVision](https://www.invisionapp.com/)
+- [NoteBookCast](https://www.notebookcast.com/) — Online Whiteboard
+- [OpenBoard](https://openboard.ch/)
+- [OurBoard](https://www.ourboard.io/)
+- [Scribble Together](https://scribbletogether.com/)
+- [Self-hosted Excalidraw with storage and collaboration](https://excalidash.xyz/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/ZimengXiong/ExcaliDash)
+- [Sketch Toy](https://sketchtoy.com/)
+- [Sketchpad](https://sketchpad.app/en)
+- [TruScribe](https://truscribe.com/)
+- [TTS Sketch Maker](https://ttssketchmaker.com/)
+- [WBO](https://wbo.ophir.dev/) — Collaborative whiteboard
+- [Web Whiteboard](https://webwhiteboard.com/) — Whiteboard for Online Collaboration
+- [Whiteboard team](https://www.whiteboard.team/)
+- [Whiteboard.fi](https://whiteboard.fi/)
 
 ## TelePrompter
 - [jpomykala/NotchPrompter](https://github.com/jpomykala/NotchPrompter) — A very basic, always-on-top floating text prompter for macOS. Perfect for quick videos, or keeping important text visible while you work
@@ -1306,30 +1334,6 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [sunrise-and-sunset.com](https://www.sunrise-and-sunset.com/en)
 - [Table of Sunrise/Sunset](https://aa.usno.navy.mil/calculated/rstt/year) — Navy
 - [Table of Sunrise/Sunset, Moonrise/Moonset, or Twilight Times for an Entire Year](https://aa.usno.navy.mil/data/RS_OneYear)
-
-## Whiteboard Editor
-- ⭐ **[Excalidraw](https://excalidraw.com/)** — Collaborative whiteboarding made easy
-- ⭐ **[Tldraw](https://www.tldraw.com/)**
-- ⭐ **[Witeboard](https://witeboard.com/0)**
-- [DigStack](https://www.digstack.com/landing/current)
-- [DoodleMaker](https://doodlemaker.com/go/)
-- [Doodly](https://www.doodly.com/)
-- [Free Online Whiteboard](https://www.tutorialspoint.com/whiteboard.htm)
-- [IDroo](https://app.idroo.com/)
-- [InVision](https://www.invisionapp.com/)
-- [NoteBookCast](https://www.notebookcast.com/) — Online Whiteboard
-- [OpenBoard](https://openboard.ch/)
-- [OurBoard](https://www.ourboard.io/)
-- [Scribble Together](https://scribbletogether.com/)
-- [Self-hosted Excalidraw with storage and collaboration](https://excalidash.xyz/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/ZimengXiong/ExcaliDash)
-- [Sketch Toy](https://sketchtoy.com/)
-- [Sketchpad](https://sketchpad.app/en)
-- [TruScribe](https://truscribe.com/)
-- [TTS Sketch Maker](https://ttssketchmaker.com/)
-- [WBO](https://wbo.ophir.dev/) — Collaborative whiteboard
-- [Web Whiteboard](https://webwhiteboard.com/) — Whiteboard for Online Collaboration
-- [Whiteboard team](https://www.whiteboard.team/)
-- [Whiteboard.fi](https://whiteboard.fi/)
 
 ## Word Processor
 - [AbiWord](http://www.nl.abisource.com/)

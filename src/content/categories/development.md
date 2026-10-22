@@ -2241,7 +2241,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [core-js](https://core-js.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/zloirock/core-js)
 - [D3 Graph Gallery](https://www.d3-graph-gallery.com/)
 - [Date Utility Library](https://date-fns.org/)
-- [Day.js · 2kB JavaScript date utility library](https://day.js.org/)
+- [Day.js · 2kB JavaScript date utility library](https://day.js.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/iamkun/dayjs/)
 - [Discord.js](https://discord.js.org/)
 - [domhandler](https://domhandler.js.org/)
 - [Dracula Graph Library](https://www.graphdracula.net/)
