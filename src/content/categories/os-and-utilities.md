@@ -5,7 +5,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 
 # OS & Utilities
 
-**Total Bookmarks:** 1142
+**Total Bookmarks:** 1146
 
 - [Comparison of OS](https://en.wikipedia.org/wiki/Comparison_of_operating_systems) — Wikipedia
 - [Comparison of real-time operating systems](https://en.wikipedia.org/wiki/Comparison_of_real-time_operating_systems) — Wikipedia
@@ -126,8 +126,10 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [UnaOS](https://unaos.com/)
 
 #### SmartTV OS
+- ⭐ **[CleanYourTV](https://cleanyour.tv/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/Gathin23/cleanyourtv) — remove ads and bloat from Android TV and Google TV
 - [Android TV](https://www.android.com/tv/)
 - [CoreELEC](https://coreelec.org/)
+- [ecklf/lg-luma](https://github.com/ecklf/lg-luma) — A native launcher for rooted LG webOS TVs, inspired by Apple TV.
 - [Fire OS Overview](https://developer.amazon.com/docs/fire-tv/fire-os-overview.html) — Amazon Fire TV
 - [Fire TV](https://www.amazon.com/Amazon-Fire-TV-Family/b?ie=UTF8&node=8521791011) — Amazon
 - [Google TV](https://tv.google/)
@@ -137,6 +139,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [Roku OS](https://www.roku.com/how-it-works/roku-os) — Smart TV Operating System
 - [Samba TV](https://www.samba.tv/)
 - [Tizen](https://www.tizen.org/) — smartTV OS
+- [ToomRamcharan/tv-vibehack](https://github.com/ToomRamcharan/tv-vibehack) — Reverse-engineer any Android TV / Google TV: 100% fail-safe direct boot launcher, remote hotkey remapping, Realtek hardware passthrough & offline media player.
 - [tvOS](https://developer.apple.com/tvos/) — Apple Developer
 - [VIDAA OS](https://www.vidaa.com/vidaa-os/) — VIDAA
 - [VIZIO](https://support.vizio.com/s/?language=en_US)
@@ -668,7 +671,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [Oro Operating System](https://oro.sh/)
 - [pranaOS/pranaOS · GitHub](https://github.com/pranaOS/pranaOS)
 - [PureDarwin](https://www.puredarwin.org/)
-- [ReactOS](https://reactos.org/)
+- [ReactOS](https://reactos.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/reactos/reactos)
 - [RISC OS](https://www.riscosopen.org/content)
 - [ROS.org](https://www.ros.org/)
 - [skiftOS](https://skiftos.org/)
@@ -1139,6 +1142,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [NsCDE/NsCDE · GitHub](https://github.com/NsCDE/NsCDE)
 - [Phosh](https://phosh.mobi/) / [![GitLab](/img/source-hosts/gitlab.svg)](https://gitlab.gnome.org/World/Phosh/phosh)
 - [ROX Desktop](http://rox.sourceforge.net/desktop/)
+- [Starling](https://starling.build/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/starling-build/starling) — great software, open to everyone
 - [Sxmo](https://sxmo.org/) / [🔗](https://sxmo.org/source) — Simple X mobile
 - [theShell](https://old.vicr123.com/theshell/) — Vicr123
 - [Trinity Desktop Environment](https://trinitydesktop.org/)

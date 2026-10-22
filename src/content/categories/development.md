@@ -5,7 +5,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 
 # Development
 
-**Total Bookmarks:** 2603
+**Total Bookmarks:** 2606
 
 - [Adobe Open Source](https://opensource.adobe.com/)
 - [Asterisk](https://www.asterisk.org/)
@@ -138,7 +138,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [OpenGOAL](https://opengoal.dev/)
 - [OpenJDK](https://openjdk.java.net/)
 - [Perl](https://www.perl.org/) — Programming language
-- [PHP](https://www.php.net/) — Hypertext Preprocessor
+- [PHP](https://www.php.net/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/php/php-src) — Hypertext Preprocessor
 - [Protocol Buffers](https://protobuf.dev/)
 - [PYPL PopularitY of Programming Language](https://pypl.github.io/PYPL.html)
 - [Python](https://www.python.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/python)
@@ -272,6 +272,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [MySQL](https://www.mysql.com/)
 - [Neon Serverless Postgres](https://neon.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/neondatabase/neon) — Ship faster
 - [NocoDB](https://www.nocodb.com/) — Turns your SQL database into a Nocode platform
+- [Omnigraph](https://www.omnigraph.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/ModernRelay/omnigraph) — Modern Relay
 - [PostGIS](https://postgis.net/)
 - [Qdrant](https://qdrant.tech/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/qdrant/qdrant) — Vector Database - Qdrant
 - [Redis.io](https://redis.io/)
@@ -1979,7 +1980,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - ⭐ **[Unity](https://unity.com/)** — 3D, 2D, VR & AR Engine
 - ⭐ **[Unreal Engine](https://www.unrealengine.com/en-US/)** — The most powerful real-time 3D creation tool
 - [Android Studio](https://developer.android.com/studio/) — Android Developers
-- [Armory 3D](https://armory3d.org/)
+- [Armory 3D](https://armory3d.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/armory3d/armory)
 - [Bevy Engine](https://bevy.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/bevyengine/bevy)
 - [bladecoder/bladecoder-adventure-engine · GitHub](https://github.com/bladecoder/bladecoder-adventure-engine)
 - [Box2D](https://box2d.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/erincatto)
@@ -2031,6 +2032,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [Spring RTS Engine](https://springrts.com/)
 - [Stencyl](http://www.stencyl.com/)
 - [Stride Game Engine](https://www.stride3d.net/)
+- [Summer Engine](https://www.summerengine.com/) — The AI Game Engine
 - [TIC-80 tiny computer](https://tic80.com/)
 - [Tiled](https://www.mapeditor.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/mapeditor/tiled)
 - [Unreal Engine](https://www.unrealengine.com/en-US/metahuman-creator) — MetaHuman Creator
@@ -2203,7 +2205,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [OpenSlide](https://openslide.org/)
 - [OpenVDB](https://www.openvdb.org/)
 - [Pallets Projects](https://palletsprojects.com/)
-- [pandas](https://pandas.pydata.org/) — Python Data Analysis Library
+- [pandas](https://pandas.pydata.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/pandas-dev/pandas) — Python Data Analysis Library
 - [Pooch](https://www.fatiando.org/pooch/latest/)
 - [Prism JS](https://prismjs.com/index.html)
 - [pyglet](https://pyglet.org/)
@@ -2438,7 +2440,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [ermoraDev/termora](https://github.com/TermoraDev/termora) — Termora is a terminal emulator and SSH client for Windows, macOS and Linux
 - [Fig.io](https://fig.io/)
 - [foot](https://codeberg.org/dnkl/foot) — Codeberg
-- [Ghostty](https://ghostty.org/)
+- [Ghostty](https://ghostty.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/ghostty-org/ghostty)
 - [Glow MD · GitHub](https://github.com/charmbracelet/glow)
 - [gnunn1/tilix · GitHub](https://github.com/gnunn1/tilix/)
 - [Herdr](https://herdr.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/ogulcancelik/herdr) — one terminal for the whole herd
@@ -2684,6 +2686,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [Komodo IDE](https://www.activestate.com/products/komodo-ide)
 - [Lazarus IDE](https://www.lazarus-ide.org/)
 - [Leporello.js](https://leporello.tech/)
+- [Lithe · A lightweight Java IDE for macOS and Windows](https://lithe.top/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/1lck/Lithe-IDEA)
 - [MonoDevelop](https://www.monodevelop.com/)
 - [Nova IDE](https://nova.app/)
 - [One Ware Studio](https://one-ware.com/studio/)

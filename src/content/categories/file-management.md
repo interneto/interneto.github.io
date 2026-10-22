@@ -5,7 +5,7 @@ description: File sharing, downloaders, torrents, and cloud storage
 
 # File Management
 
-**Total Bookmarks:** 870
+**Total Bookmarks:** 871
 
 
 ## Backup
@@ -611,6 +611,7 @@ description: File sharing, downloaders, torrents, and cloud storage
 - [File Pilot](https://filepilot.tech/) — Next-gen file explorer
 - [File Viewer for Android](https://sharpened.com/software/android/file_viewer)
 - [FileBrowser](https://filebrowser.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/filebrowser/filebrowser)
+- [FileOctopus](https://www.fileoctopus.com/) — Finder, but more thoughtful
 - [files-community/files · GitHub](https://github.com/files-community/Files)
 - [Fileside](https://www.fileside.app/)
 - [Filestash](https://www.filestash.app/)

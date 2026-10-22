@@ -5,7 +5,7 @@ description: Note-taking, task management, bookmarking, calculators, translators
 
 # Office & Productivity
 
-**Total Bookmarks:** 1228
+**Total Bookmarks:** 1230
 
 - ⭐ **[Hotkey Cheatsheet](https://hotkeycheatsheet.com/)** — Improve Your Productivity with Keyboard Shortcuts
 - [Boosted](https://www.boostedproductivity.com/)
@@ -39,6 +39,7 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [Qiqqa](http://www.qiqqa.com/)
 - [Qiqqa-open-source · GitHub](https://github.com/jimmejardine/qiqqa-open-source)
 - [ReadCube Literature Management Solutions](https://www.readcube.com/)
+- [Sciwand](https://sciwand.com/) — Reference Manager, Knowledge Manager and Academic Writer
 - [WebCite](https://www.webcitation.org/)
 - [wizdom.ai](https://www.wizdom.ai/)
 - [ZotFile](http://zotfile.com/)
@@ -242,6 +243,7 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [AimHarder](https://aimharder.com/) — Management & reservations software 🥇
 - [Axelor](https://axelor.com/crm/)
 - [CiviCRM](https://civicrm.org/)
+- [DeskcommCRM](https://www.deskcomm.com.br/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/melgarafael/DeskcommCRM) — sua operação comercial numa mesa só
 - [Dex](https://getdex.com/)
 - [Dolibarr](https://www.dolibarr.org/) — Open Source ERP and CRM
 - [EspoCRM.com](https://www.espocrm.com/)

@@ -5,7 +5,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 
 # AI Tools & Services
 
-**Total Bookmarks:** 756
+**Total Bookmarks:** 764
 
 
 ## Agents & Automation
@@ -55,6 +55,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [EvoMap](https://evomap.ai/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/EvoMap/evolver) — AI Self-Evolution Infrastructure
 - [Flue](https://flueframework.com/) — The Open Agent Framework
 - [GitHub](https://github.com/router-for-me/CLIProxyAPI) — router-for-me/CLIProxyAPI · GitHub
+- [Graphify · the code knowledge graph for AI coding assistants](https://graphify.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Graphify-Labs/graphify)
 - [Harness](https://www.harness.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/harness) — AI for DevOps, Testing, AppSec, and Cost Optimization
 - [iamlukethedev/Hermes3D](https://github.com/iamlukethedev/Hermes3D) — Hermes3D is an open source 3D engine built on Hermes Agents for creating games, simulations, and high-performance 3D applications.
 - [LangChain](https://www.langchain.com/)
@@ -88,6 +89,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [Swarms AI](https://www.swarms.ai/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/kyegomez/swarms) — Multi-Agent Framework & Agent Marketplace
 - [Tobira](https://tobira.ai/) — AI Agent Network
 - [Univer](https://univer.ai/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/dream-num/univer)
+- [XERJ.ai](https://xerj.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/xerj-org/xerj) — the search engine built for AI agents
 - [yuruotong1/autoMate](https://github.com/yuruotong1/autoMate) — Like Manus, Computer Use Agent(CUA) and Omniparser, we are computer-using agents.AI-driven local automation assistant that uses natural language to make computers work by themselves
 
 ### Coding Assistant
@@ -136,6 +138,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 ### Memory & RAG
 - [ai-memory](https://aimemory.sh/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/akitaonrails/ai-memory) — long-term memory for AI coding agents
 - [cpacker/MemGPT · GitHub](https://github.com/cpacker/MemGPT)
+- [doobidoo/mcp-memory-service](https://github.com/doobidoo/mcp-memory-service) — Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph + autonomous consolidation.
 - [Future-House/paper-qa](https://github.com/Future-House/paper-qa) — High accuracy RAG for answering questions from scientific documents with citations
 - [Hindsight](https://hindsight.vectorize.io/)
 - [Letta](https://letta.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/letta-ai)
@@ -235,6 +238,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) — Production-grade engineering skills for AI coding agents.
 - [alonw0/web-asset-generator](https://github.com/alonw0/web-asset-generator) — Claude skill to generate favicons, app icons, and social media images from logos, text, or emojis. Supports emoji suggestions, validation, and framework auto-integration
 - [Anatomy · A skill for Claude Code](https://skills.wheresryan.sh/anatomy) / [![GitHub](/img/software/apps/github.svg)](https://github.com/wheresryan22/anatomy)
+- [android/skills · GitHub](https://github.com/android/skills)
 - [anthropics/financial-services](https://github.com/anthropics/financial-services)
 - [anthropics/skills](https://github.com/anthropics/skills) — Public repository for Agent Skills
 - [Archify](https://tt-a1i.github.io/archify/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/tt-a1i/archify) — Technical Diagrams from Plain English
@@ -255,9 +259,9 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) — OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) — Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI
 - [Leonxlnx/taste-skill · GitHub](https://github.com/Leonxlnx/taste-skill)
+- [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) — A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
 - [mattpocock/skills](https://github.com/mattpocock/skills) — Skills for Real Engineers. Straight from my .claude directory.
 - [MiniMax-AI/skills](https://github.com/MiniMax-AI/skills)
-- [mksglu/context-mode](https://github.com/mksglu/context-mode) — Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
 - [mvanhorn/last30days-skill · GitHub](https://github.com/mvanhorn/last30days-skill)
 - [oso95/scroll-world](https://github.com/oso95/scroll-world) — Claude Code skill/plugin
 - [phuryn/pm-skills](https://github.com/phuryn/pm-skills) — PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
@@ -564,6 +568,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [QwenLM/Qwen · GitHub](https://github.com/QwenLM/Qwen)
 - [QwenLM/Qwen2.5](https://github.com/QwenLM/Qwen2.5) — Qwen2.5 is the large language model series developed by Qwen team, Alibaba Cloud.
 - [QwenLM/Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder) — Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud.
+- [Subquadratic](https://subq.ai/) — Efficiency is Intelligence
 - [young-geng/EasyLM · GitHub](https://github.com/young-geng/EasyLM)
 - [zai-org/ChatGLM3](https://github.com/zai-org/ChatGLM3) — ChatGLM3 series: Open Bilingual Chat LLMs | 开源双语对话语言模型
 
@@ -626,6 +631,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [Perplexity AI](https://www.perplexity.ai/) — Ask Anything
 - [Poe](https://poe.com/login) — Fast, Helpful AI Chat
 - [Qwen Chat](https://chat.qwen.ai/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/QwenLM/Qwen-Image)
+- [Rakazo](https://rakazo.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/elie222/rakazo) — Open source Grok Bot alternative
 - [Syllabi](https://www.syllabi-ai.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Achu-shankar/Syllabi) — Open Source AI Chatbot Platform with RAG
 - [Together Chat](https://chat.together.ai/)
 - [Venice](https://venice.ai/) — Private AI for Unlimited Creative Freedom
@@ -692,6 +698,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [E2B](https://e2b.dev/) — The Enterprise AI Agent Cloud
 - [Experiential Labs · The open source AI gateway](https://www.experientiallabs.ai/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/experientiallabs/experiential)
 - [Fast Inference](https://fast.inference.net/) — Fast hosted models, one API
+- [FlashInfer](https://flashinfer.ai/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/flashinfer-ai/flashinfer)
 - [Haystack AI](https://www.haystack.ai/)
 - [Lambda](https://lambda.ai/) — The Superintelligence Cloud
 - [Langfuse](https://langfuse.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/langfuse/langfuse)
@@ -732,6 +739,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [AgenticSeek](https://fosowl.github.io/agenticSeek.html) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Fosowl/agenticSeek) — Private AI Assistant
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) — Hundreds of models & providers. One command to find what runs on your hardware
 - [ayushh0110/ScreenMind](https://github.com/ayushh0110/ScreenMind) — AI-powered screen memory — captures, analyzes, and lets you search/chat your screen history. Powered by Gemma 4 . 100% local, 100% private.
+- [BestLLMfor](https://bestllmfor.com/) — Local LLM: which model runs on your machine?
 - [big-AGI](https://big-agi.com/)
 - [CanIRun.ai](https://www.canirun.ai/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/midudev/canirun.ai) — Can your machine run AI models?
 - [Chatbox AI](https://chatboxai.app/en/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/chatboxai/chatbox) — Your AI Copilot, Best AI Client on any device, Free Download

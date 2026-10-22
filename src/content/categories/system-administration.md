@@ -5,7 +5,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 
 # System Administration
 
-**Total Bookmarks:** 1356
+**Total Bookmarks:** 1362
 
 - [osquery](https://osquery.io/)
 - [PIVPN](https://pivpn.io/) — Simplest way to setup a VPN
@@ -461,6 +461,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [simias/rustation](https://github.com/simias/rustation) — Playstation emulator in the Rust programing language
 - [skylersaleh/SkyEmu](https://github.com/skylersaleh/SkyEmu) — Game Boy Advance, Game Boy, Game Boy Color, and DS Emulator
 - [Snes9X.COM](https://www.snes9x.com/)
+- [sp00nznet/xboxrecomp](https://github.com/sp00nznet/xboxrecomp) — Turn any Xbox game binary into a native Windows executable. No emulation. No interpreter. Just raw, recompiled C.
 - [stenzek/duckstation (PS1 emulator) · GitHub](https://github.com/stenzek/duckstation)
 - [Sudachi](https://sudachi.emuplace.app/)
 - [suyu](https://suyu.dev/)
@@ -563,6 +564,8 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 
 #### macOS Translation Layer
 - [Darling](https://www.darlinghq.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/darlinghq/darling) — macOS translation layer for Linux
+- [kksimp/Mac.apk](https://github.com/kksimp/Mac.apk) — Mac.apk: Run Android apps natively on Apple Silicon Macs
+- [MaPC](https://mapc.games/index.html) — Your PC games, on your Mac
 
 #### Linux Translation Layer
 - [Cygwin](https://www.cygwin.com/)
@@ -1338,6 +1341,8 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [Anarchy-Droid](https://anarchy-droid.com/)
 - [Android MTK](https://androidmtk.com/)
 - [Andronix App](https://andronix.app/)
+- [Apktool](https://apktool.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/iBotPeaches/Apktool)
+- [KernelSU Next](https://kernelsu-next.github.io/webpage/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/KernelSU-Next/KernelSU-Next)
 - [Kingroot](https://kingrootapp.net/)
 - [Kingroot Official](https://kingrootofficial.com/)
 - [Lucky Patcher](https://www.luckypatchers.com/)
@@ -1348,6 +1353,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [Root Checker](https://rootchecker.com/)
 - [Root Essentials](https://sites.google.com/view/superthomaslab/root-essentials)
 - [Shizuku](https://shizuku.rikka.app/)
+- [skylot/jadx](https://github.com/skylot/jadx) — Dex to Java decompiler
 - [SuperSU Root](https://supersuroot.org/)
 - [timschneeb/RootlessJamesDSP · GitHub](https://github.com/timschneeb/RootlessJamesDSP)
 - [Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/) — Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.

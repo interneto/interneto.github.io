@@ -5,7 +5,7 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 
 # Education & Reference
 
-**Total Bookmarks:** 1315
+**Total Bookmarks:** 1319
 
 - [Academia Lab](https://academia-lab.com/)
 - [DosisPedia](https://dosispedia.com/)
@@ -1135,6 +1135,7 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [ImageNet](https://image-net.org/)
 - [Kaggle](https://www.kaggle.com/discussion) — Machine Learning
 - [KDnuggets](https://www.kdnuggets.com/)
+- [LLM Visualization](https://bbycroft.net/llm)
 - [MachineBox.io](https://machinebox.io/)
 - [MediaPipe](https://developers.google.com/mediapipe) — Google for Developers
 - [MLCommons](https://mlcommons.org/en/)
@@ -1146,6 +1147,9 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [SOUL.md](https://soul.md/) — What Makes an AI, Itself?
 - [SuperGLUE Benchmark](https://super.gluebenchmark.com/)
 - [The Gradient](https://thegradient.pub/)
+- [Transformer Circuits Thread](https://transformer-circuits.pub/)
+- [Transformer Explainer](https://poloclub.github.io/transformer-explainer/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/poloclub/transformer-explainer) — LLM Transformer Model Visually Explained
+- [Transformers, the tech behind LLMs](https://www.3blue1brown.com/lessons/gpt/) — Deep Learn... | 3Blue1Brown
 - [vas3k](https://vas3k.com/)
 - [Vas3k](https://vas3k.com/blog/machine_learning) — Machine Learning
 

@@ -7,6 +7,7 @@ description: Browsers and browser-related tools
 
 **Total Bookmarks:** 144
 
+- ⭐ **[Lightpanda](https://lightpanda.io/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/lightpanda-io/browser) — The headless browser
 - [Arc from The Browser Company](https://arc.net/)
 - [Blanc Browser](https://blancbrowser.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/bnfy/blanc) — A minimal desktop browser with built-in ad blocking
 - [Brow.sh](https://www.brow.sh/)
@@ -20,7 +21,6 @@ description: Browsers and browser-related tools
 - [firedragon-browser · GitHub](https://github.com/dr460nf1r3/firedragon-browser)
 - [Glide](https://glide-browser.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/glide-browser/glide)
 - [Gosub Web Browser Engine](https://gosub.io/)
-- [Lightpanda](https://lightpanda.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/lightpanda-io/browser) — The headless browser
 - [Perplexity Comet](https://comet.perplexity.ai/)
 - [PocketJS](https://pocketjs.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/pocket-stack/pocketjs) — Bare Metal Modern Web
 - [Polypane, The browser for ambitious developers](https://polypane.app/)

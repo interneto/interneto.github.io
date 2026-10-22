@@ -5,7 +5,7 @@ description: Search engines, web directories, software directories, corporations
 
 # Online Services
 
-**Total Bookmarks:** 5680
+**Total Bookmarks:** 5683
 
 
 ## Biography
@@ -226,7 +226,7 @@ description: Search engines, web directories, software directories, corporations
 - [Web3xplorer](https://www.web3xplorer.com/)
 
 ##### Games Distribution
-- ⭐ **[Epic Games Store](https://www.epicgames.com/store/en-US)**
+- ⭐ **[Epic Games Store](https://store.epicgames.com/)**
 - ⭐ **[GOG](https://www.gog.com/en/)**
 - ⭐ **[itch.io](https://itch.io/)** — the lastest indie games
 - ⭐ **[Steam Store](https://store.steampowered.com/)**
@@ -512,6 +512,7 @@ description: Search engines, web directories, software directories, corporations
 - [Cydia Download iOS 26.2, 18.7.3, 17.7.10, 16.7.12, 15.8.5 and 12.5.7 Versions \[Cydia Free\]](https://www.cydiafree.com/)
 - [iloader](https://iloader.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/nab138/iloader) — Free Open-Source iOS Sideloading Companion
 - [Impactor](https://impactor.khcrysalis.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/CLARATION/Impactor) — iOS sideloading application
+- [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) — Run iOS apps without actually installing them!
 - [Sideloadly](https://sideloadly.io/) — iOS, Apple Silicon & TV Sideloading
 - [SideStore](https://sidestore.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/SideStore/SideStore/)
 
@@ -1380,6 +1381,7 @@ description: Search engines, web directories, software directories, corporations
 - [IGDB](https://www.igdb.com/)
 - [Infinite Backlog](https://infinitebacklog.net/) — A Video Game Collection Tracker
 - [Lutris](https://lutris.net/games) — Games
+- [ly05010419/MacNativeGames · GitHub](https://github.com/ly05010419/MacNativeGames)
 - [Metacritic](https://www.metacritic.com/game/) — Video Game Reviews
 - [MobyGames](https://www.mobygames.com/) — Video Game Database
 - [noclip](https://noclip.website/)
@@ -1596,12 +1598,12 @@ description: Search engines, web directories, software directories, corporations
 - [DomainTools](https://www.domaintools.com/)
 - [IQWhois](https://iqwhois.com/)
 - [JsonWhois](https://jsonwhois.com/)
+- [Lists of domain names, WHOIS datasets & DNS data](https://netapi.com/) — NetAPI
 - [Rapid7 Open Data](https://opendata.rapid7.com/)
 - [TLD-List](https://tld-list.com/)
 - [University Domains List](https://github.com/Hipo/university-domains-list)
 - [Who Is Data Center](https://whoisdatacenter.com/)
 - [WhoisXML API](https://all-registered-domains.whoisxmlapi.com/)
-- [ZoneFiles](https://zonefiles.io/)
 
 #### Blocklist Links
 - [1Hosts](https://o0.pages.dev/) — World's most advanced DNS filter-/blocklists!
@@ -4645,6 +4647,7 @@ description: Search engines, web directories, software directories, corporations
 - [KinoGo.biz](https://kinogo.biz/)
 - [kipflix](https://kipflix.xyz/)
 - [LaMovie](https://lamovie.org/) — Películas, Series y Animes Online en HD Gratis
+- [LibreTV](https://libretv.is-an.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/LibreSpark/LibreTV) — 免费在线视频聚合搜索与观看平台
 - [Lk21 Nonton Film](https://tv9.lk21official.wiki/)
 - [lookmovie2.to](https://www.lookmovie2.to/)
 - [M4ufree](https://ww2.m4ufree.com/) — Watch Free Full Movies Online

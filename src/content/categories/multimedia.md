@@ -5,7 +5,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 
 # Multimedia
 
-**Total Bookmarks:** 2212
+**Total Bookmarks:** 2219
 
 
 ## Audio & Music
@@ -253,6 +253,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [Euterpe Music](https://listen-to-euterpe.eu/)
 - [Exaile · Music Player for GTK+](https://exaile.org/)
 - [foobar2000](https://www.foobar2000.org/)
+- [fooyin](https://fooyin.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/ludouzi/fooyin) — A customisable music player
 - [FossifyOrg/Music-Player · GitHub](https://github.com/FossifyOrg/Music-Player)
 - [GMusicBrowser](https://gmusicbrowser.org/)
 - [GNOME/Amberol · GitLab](https://gitlab.gnome.org/World/amberol)
@@ -360,6 +361,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - ⭐ **[Fastpotify](https://fastpotify.rocks/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/crmne/fastpotify)
 - ⭐ **[Spotube](https://spotube.krtirtho.dev/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/KRTirtho/spotube)
 - [AudioTube](https://apps.kde.org/audiotube/)
+- [BitChord](https://bitchord.kushagrasingh.in/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/kushagrasinghx/BitChord) — Aesthetic Music Streaming
 - [Cider](https://cider.sh/) — FOSS Apple Music client
 - [deep5050/radio-active](https://github.com/deep5050/radio-active)
 - [dweymouth/supersonic](https://github.com/dweymouth/supersonic) — A lightweight and full-featured cross-platform desktop client for self-hosted music servers
@@ -768,6 +770,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [EzDubs](https://www.ezdubs.ai/) — Real-time AI dubbing with voice preservation
 - [facebookresearch/omnilingual-asr](https://github.com/facebookresearch/omnilingual-asr?ref=producthunt) — Omnilingual ASR Open-Source Multilingual SpeechRecognition for 1600+ Languages
 - [FluidVoice](https://altic.dev/fluid) / [![GitHub](/img/software/apps/github.svg)](https://github.com/altic-dev/FluidVoice) — Free Open Source Voice-to-Text for macOS
+- [FluidVoice](https://fluidvoice.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/altic-dev/FluidVoice) — Local Voice-to-Text for Mac, Windows & iPhone
 - [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) — Port of OpenAI's Whisper model in C/C++
 - [GitHub](https://github.com/canonical/myna) — canonical/myna: Myna is a lightweight speech-to-text application for Ubuntu Desktop.
 - [Gladia I Audio Transcription API](https://www.gladia.io/)
@@ -851,6 +854,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [99designs](https://en.99designs.es/)
 - [Artify](https://www.artify.co/)
 - [Avocode App](https://avocode.com/) — Collaborate on Design Files with Anyone
+- [Banana Slides 蕉幻](https://bananaslides.online/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Anionex/banana-slides) — 让 PPT 创作，回归直觉
 - [Beautiful.ai](https://www.beautiful.ai/) — AI Presentation Maker
 - [BGJar](https://bgjar.com/)
 - [Crumpet RTW editor](https://crumpet.cadence.moe/crumpet)
@@ -1310,6 +1314,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [Friction](https://friction.graphics/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/friction2d/friction)
 - [Harmony 21](https://www.toonboom.com/products/harmony) — Toon Boom
 - [HyperFrames](https://hyperframes.heygen.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/heygen-com/hyperframes) — Edit Videos By Vibe-Coding
+- [HyperFrames Studio](https://www.hyperframes.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/heygen-com/hyperframes)
 - [Inochi2D](https://inochi2d.com/)
 - [Juice FX by CodeManu](https://codemanu.itch.io/juicefx)
 - [Live2D Cubism](https://www.live2d.com/en/) — 2D Model Maker
@@ -2194,6 +2199,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [Jetpack IPTV](https://play.google.com/store/apps/details?id=com.jetpack.iptv&hl=en) — Live TV player - Apps on Google Play
 - [KgTv Player](https://www.kgtv.tk/)
 - [kodi-pvr/pvr.iptvsimple](https://github.com/kodi-pvr/pvr.iptvsimple) — IPTV Simple client for Kodi PVR
+- [LumoraPlayer/Lumora](https://github.com/LumoraPlayer/Lumora/) — Native Kotlin IPTV & media client for Android, Android TV, Fire TV and Android Auto (parked). Xtream Codes, M3U, Stalker Portal, Jellyfin and Plex merged into one D-pad UI, extended by plugins and Stremio addons. Views/XML, no Compose.
 - [M3U IPTV](https://m3u-ip.tv/)
 - [MediathekViewWeb](https://mediathekviewweb.de/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/mediathekview/mediathekviewweb)
 - [Megacubo](https://megacubo.tv/en/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/EdenwareApps/Megacubo) — Watch live TV over Internet
@@ -2405,6 +2411,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [GitHub](https://github.com/eerimoq/moblin) — eerimoq/moblin: Moblin, a free iOS app for IRL streaming
 - [Go2TV](https://go2tv.app/) — Media Casting Made Easy
 - [InstantBits](https://www.webvideocaster.app/home)
+- [jqssun/android-airplay-server](https://github.com/jqssun/android-airplay-server) — First open-source AirPlay receiver implementation for Android with mirroring, video and audio support
 - [LocalCast](https://www.localcast.app/) — Free Media Casting App
 - [Mirrcast Tv](https://mirrcast.com/)
 - [Moonlight Game Streaming](https://moonlight-stream.org/) — Play Your PC Games Remotely
