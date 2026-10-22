@@ -41,6 +41,7 @@
 - [CrushOn.AI - No Filter NSFW Character AI Chat - Spicy AI GF](https://crushon.ai/)
 - [DarLink - Your AI Girlfriend Experience](https://www.darlink.ai/)
 - [DreamGF.ai - The Best AI Girlfriend Generator](https://dreamgf.ai/)
+- [EroLove - Someone who wants you (18+)](https://erolove.ai/)
 - [FantasyGF - #1 Best AI Girlfriend App for NSFW Chat, Nudes & Porn](https://fantasygf.com/)
 - [Flave.ai - Make an AI girlfriend](https://www.flave.ai/)
 - [Get-honey.ai](https://get-honey.ai/)
