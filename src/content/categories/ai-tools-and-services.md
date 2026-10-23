@@ -94,7 +94,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 
 ### Coding Assistant
 - ⭐ **[Continue • Quality control for your software factory](https://www.continue.dev/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/continuedev/continue)
-- ⭐ **[GitHub Copilot · Your AI pair programmer](https://github.com/features/copilot/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/github/copilot-cli), [![GitHub](/img/software/apps/github.svg)](https://github.com/microsoft/vscode-copilot-chat)
+- ⭐ **[GitHub Copilot · Your AI pair programmer](https://github.com/features/copilot/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/github/copilot-cli)
 - [AI2sql](https://www.ai2sql.io/)
 - [aider is AI pair programming in your terminal](https://aider.chat/)
 - [Augment Code](https://www.augmentcode.com/)

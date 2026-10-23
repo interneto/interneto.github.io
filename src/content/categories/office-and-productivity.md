@@ -1120,7 +1120,7 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [tillywork](https://tilly.work/) — Work management for all your teams
 - [TIMIFY](https://www.timify.com/en-gb)
 - [Walling](https://walling.app/) — Organize & Present Your Ideas
-- [Worklog](https://regisx001.github.io/Worklog/) / [🔗](https://regisx001.github.io/Worklog/) — Local-first Desktop Project Manager
+- [Worklog](https://regisx001.github.io/Worklog/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/regisx001/Worklog/) — Local-first Desktop Project Manager
 - [Wrike](https://www.wrike.com/)
 - [Wrike](https://www.wrike.com/vx/) — Versatile & Robust Project Management Software
 - [Zenkit Projects](https://zenkit.com/)
