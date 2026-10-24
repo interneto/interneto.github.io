@@ -5,7 +5,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 
 # AI Tools & Services
 
-**Total Bookmarks:** 764
+**Total Bookmarks:** 768
 
 
 ## Agents & Automation
@@ -250,6 +250,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [Context Mode](https://context-mode.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/mksglu/context-mode) — The Control Plane for Coding Agents
 - [Diagram Design](https://diagramdesign.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/cathrynlavery/diagram-design) — editorial diagrams your designer won't hate
 - [foryourhealth111-pixel/Vibe-Skills · GitHub](https://github.com/foryourhealth111-pixel/Vibe-Skills)
+- [Free Claude Code Plugins & Mods](https://betterclaude.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/midudev/better-claude) — better-claude
 - [garrytan/gstack](https://github.com/garrytan/gstack/tree/main) — Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [getdesign.md](https://getdesign.md/) — DESIGN.md Collection for AI Agents
 - [GitHub Copilot Chat Cookbook](https://docs.github.com/copilot/tutorials/copilot-chat-cookbook) — GitHub Docs
@@ -399,6 +400,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 ### AI Speech & Voice
 - ⭐ **[Eleven Labs](https://elevenlabs.io/music)** — AI Music Generator
 - ⭐ **[Fish Audio](https://fish.audio/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/fishaudio) — Free Generative AI Text To Speech & Voice Cloning
+- ⭐ **[Supertonic 3 (TTS)](https://huggingface.co/spaces/Supertone/supertonic-3)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/supertone-oss-archive/supertonic) — a Hugging Face Space by Supertone
 - [11.ai](https://11.ai/app/) — Personal AI Voice Assistants
 - [Amazon Alexa Voice AI](https://developer.amazon.com/en-US/alexa)
 - [Google Assistant](https://assistant.google.com/)
@@ -415,6 +417,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [Siri](https://www.apple.com/siri/)
 - [Speech-to-Speech API](https://inworld.ai/speech-to-speech?utm_device=m&utm_term=interactive%20voice%20ai%20platform&utm_campaign=Google_Realtime-API_EMEA&utm_source=adwords&utm_medium=ppc&utm_content=realtime-api&hsa_acc=5807507431&hsa_cam=23654350249&hsa_grp=193418295759&hsa_ad=800053411678&hsa_src=g&hsa_tgt=kwd-2472564158155&hsa_kw=interactive%20voice%20ai%20platform&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=23654350249&gbraid=0AAAAAo5ojYE2f4OgWmSd5_pP0Zd4iivTj&gclid=CjwKCAjw_9bWBhBGEiwAomyTIuYZI1ZC_yjWN5GWwmbQ3evcIH2NeDWcPne1Fn-SCgXoXbSQzss99RoCipkQAvD_BwE) — Full-Duplex, Sub-Second, Model-Agnostic | Inworld AI
 - [Stypox/dicio-android](https://github.com/Stypox/dicio-android) — Dicio assistant app for Android
+- [Supertone (Supertone)](https://huggingface.co/Supertone)
 - [Voice AI](https://voice.ai/) — Change your voice on the Fly
 - [Voyp](https://voyp.app/) — Voice Over Your Phone
 - [Web Assist](https://webassistextension.com/) — Surf the Web with just your voice
@@ -772,6 +775,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [Private AI for iPhone & Mac](https://enclaveai.app/) — Enclave AI - Private, Local, Offline AI Assistant for MacOS and iOS
 - [Private LLM](https://privatellm.app/en) — Local AI Chatbot
 - [PrivateGPT.dev](https://privategpt.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/zylon-ai/private-gpt)
+- [runonweb](https://runonweb.ai/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/midudev/runonweb.ai) — Free AI models that run in the browser
 - [The Local AI Playground](https://www.localai.app/)
 - [Thunderbolt](https://www.thunderbolt.io/) — AI You Control
 - [WebLLM Chat](https://chat.webllm.ai/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/mlc-ai/web-llm-chat)

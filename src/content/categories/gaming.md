@@ -5,7 +5,7 @@ description: Games, launchers, emulators, and gaming utilities
 
 # Gaming
 
-**Total Bookmarks:** 738
+**Total Bookmarks:** 749
 
 
 ## Games
@@ -52,6 +52,7 @@ description: Games, launchers, emulators, and gaming utilities
 - [3D Solar System Simulator](https://theskylive.com/3dsolarsystem)
 - [100,000 Stars](https://stars.chromeexperiments.com/)
 - [Aerofly FS Flight Simulator](https://www.aerofly.com/)
+- [Arma Reforger on Steam](https://store.steampowered.com/app/1874880/Arma_Reforger/)
 - [artificial life environment](https://alien-project.org/)
 - [Asteroids, oh no!](http://awesomeasteroids.com/)
 - [BeamNG.drive](https://www.beamng.com/game/)
@@ -76,6 +77,7 @@ description: Games, launchers, emulators, and gaming utilities
 - [Football Manager](https://www.footballmanager.com/)
 - [Gaia Sky](https://zah.uni-heidelberg.de/gaia/outreach/gaiasky/)
 - [Gaia Sky](https://gaiasky.space/)
+- [Garrys Mod](https://gmod.facepunch.com/)
 - [Gather.town](https://www.gather.town/)
 - [GeoFS](https://www.geo-fs.com/)
 - [glCraft](https://github.com/Isti01/glCraft) — C++ Minecraft
@@ -86,6 +88,9 @@ description: Games, launchers, emulators, and gaming utilities
 - [House Flipper 2](https://houseflipper2.com/)
 - [ISS Docking Simulator](https://iss-sim.spacex.com/)
 - [jsOrrery](https://mgvez.github.io/jsorrery)
+- [Juno](https://www.simplerockets.com/) — New Origins
+- [Kerbal Space Program](https://www.kerbalspaceprogram.com/)
+- [Light No Fire](https://lightnofire.com/) — a fantasy game from the makers of No Man’s Sky
 - [Limitless Flight](https://www.limitlessflight.com/) — Hyperreal Wingsuit Simulator
 - [Lincity](https://lincity.sourceforge.net/) — A City Simulation Game
 - [Microsoft Flight Simulator](https://www.flightsimulator.com/)
@@ -378,6 +383,7 @@ description: Games, launchers, emulators, and gaming utilities
 
 ### RPG
 - ⭐ **[Veloren](https://veloren.net/)**
+- [ANANTA Official Website](https://www.anantagame.com/) — Global Release on January 15th, 2027
 - [Baldur's Gate 3](https://baldursgate3.game/)
 - [Black Desert](https://www.naeu.playblackdesert.com/en-US/Data/Down)
 - [Black Myth](https://heishenhua.com/) — WuKong
@@ -434,6 +440,7 @@ description: Games, launchers, emulators, and gaming utilities
 - [Fragpunk Experience the new lancer Hurricane](https://www.fragpunk.com/#/)
 - [GTA 5 RP Grand](https://gta5grand.com/)
 - [GTA V](https://www.rockstargames.com/V)
+- [Noita](https://noitagame.com/) — A roguelite where everything can be destroyed.
 - [OpenArena](https://openarena.ws/smfnews.php)
 - [OpenRW](https://openrw.org/) — Open Source GTA III engine re-implementation
 - [Overwatch 2](https://overwatch.blizzard.com/en-us/)
@@ -444,6 +451,7 @@ description: Games, launchers, emulators, and gaming utilities
 - [Soul Knight](https://play.google.com/store/apps/details?id=com.ChillyRoom.DungeonShooter)
 - [Strinova](https://www.strinova.com/?lang=en-US) — The Next-Gen Anime Shooter - Free to Play
 - [SuperTuxKart](https://supertuxkart.net/Main_Page)
+- [Team Fortress 2](https://www.teamfortress.com/)
 - [Teeworlds](https://teeworlds.com/)
 - [THE FINALS](https://www.reachthefinals.com/)
 - [Totaljerkface (Happy Wheels)](https://totaljerkface.com/)
@@ -463,6 +471,7 @@ description: Games, launchers, emulators, and gaming utilities
 - [Clash Royale](https://clashroyale.com/)
 - [Company of Heroes 3](https://www.companyofheroes.com/)
 - [CONV/RGENCE](https://convrgencegame.com/) — A League of Legends Story
+- [Factorio](https://www.factorio.com/)
 - [Hextech Mayhem](https://hextechmayhem.com/en-us/) — A League of Legends Story
 - [Lawgivers](https://www.lawgivers.com/) — Political simulation game PC, Android & iOS
 - [League of Legends](https://euw.leagueoflegends.com/en-us/)
@@ -539,6 +548,7 @@ description: Games, launchers, emulators, and gaming utilities
 - [Mario Kart PC](https://mkpc.malahieude.net/)
 - [Speed Dreams](https://www.speed-dreams.net/en/)
 - [Wave Racer](https://wave-racer.vercel.app/) — INK TIDE
+- [Wreckfest](https://wreckfest.thqnordic.com/) — Official Game Site
 
 ### Cards
 - [Balatro](https://www.playbalatro.com/) — Deck-Building Roguelite
@@ -635,6 +645,7 @@ description: Games, launchers, emulators, and gaming utilities
 - [HowLongToBeat](https://howlongtobeat.com/)
 - [Liquipedia](https://liquipedia.net/)
 - [Mejoress](https://www.mejoress.com/en)
+- [Stationeers Community Wiki](https://stationeers-wiki.com/Main_Page)
 - [Super Cheats](https://www.supercheats.com/) — Game Cheats, Codes, Help and Walkthroughs
 - [Tracker Network](https://tracker.gg/)
 - [Trucos y comandos de CS:GO](https://vandal.elespanol.com/guias/guia-counterstrike-global-offensive-csgo-trucos-y-consejos/comandos)

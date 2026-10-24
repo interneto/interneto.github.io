@@ -5,7 +5,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 
 # Development
 
-**Total Bookmarks:** 2606
+**Total Bookmarks:** 2607
 
 - [Adobe Open Source](https://opensource.adobe.com/)
 - [Asterisk](https://www.asterisk.org/)
@@ -1976,9 +1976,10 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - ⭐ **[GDevelop.io](https://gdevelop.io/)**
 - ⭐ **[Godot Engine](https://godotengine.org/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/godotengine/godot)
 - ⭐ **[Harfang 3D](https://www.harfang3d.com/en_US/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/harfang3d/harfang3d) — 3D Visualization for the Industry
+- ⭐ **[Open 3D Engine](https://o3de.org/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/o3de/o3de)
 - ⭐ **[UNIGINE](https://unigine.com/)** — real time 3D engine
 - ⭐ **[Unity](https://unity.com/)** — 3D, 2D, VR & AR Engine
-- ⭐ **[Unreal Engine](https://www.unrealengine.com/en-US/)** — The most powerful real-time 3D creation tool
+- ⭐ **[Unreal Engine](https://www.unrealengine.com/)** — The most powerful real-time 3D creation tool
 - [Android Studio](https://developer.android.com/studio/) — Android Developers
 - [Armory 3D](https://armory3d.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/armory3d/armory)
 - [Bevy Engine](https://bevy.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/bevyengine/bevy)
@@ -2011,13 +2012,13 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [libGDX](https://libgdx.com/)
 - [Love2D](https://love2d.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/love2d/love) — Free 2D Game Engine
 - [Luanti](https://www.luanti.org/) — Open source voxel game engine
+- [Luanti](https://www.luanti.org/en/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/luanti-org/luanti) — Open source voxel game engine
 - [microStudio](https://microstudio.dev/) — Game Engine
 - [nem0/LumixEngine · GitHub](https://github.com/nem0/lumixengine)
 - [Newton Physics Documentation](https://newton-physics.github.io/newton/stable/guide/overview.html) / [![GitHub](/img/software/apps/github.svg)](https://github.com/newton-physics/newton) — Newton Physics
 - [nunuStudio](https://www.nunustudio.org/)
 - [Oasis Engine](https://oasisengine.cn/)
 - [OGRE](https://www.ogre3d.org/)
-- [Open 3D Engine](https://o3de.org/)
 - [Phaser.io](https://phaser.io/)
 - [PIFuHD](https://shunsukesaito.github.io/PIFuHD/)
 - [Piston](https://www.piston.rs/) — game engine

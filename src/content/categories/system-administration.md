@@ -5,7 +5,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 
 # System Administration
 
-**Total Bookmarks:** 1362
+**Total Bookmarks:** 1363
 
 - [osquery](https://osquery.io/)
 - [PIVPN](https://pivpn.io/) — Simplest way to setup a VPN
@@ -1279,6 +1279,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - ⭐ **[Kudu](https://usekudu.com/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/AdventDevInc/kudu) — Free System Maintenance Suite
 - ⭐ **[Microsoft PC Manager](https://pcmanager.microsoft.com/en-us)** — Cleanup PC, protection for your computer
 - ⭐ **[Raphire/Win11Debloat · GitHub](https://github.com/Raphire/Win11Debloat)**
+- [amar97march/sweep](https://github.com/amar97march/sweep) — Clean, protect and understand your Mac. Free and open source
 - [Auslogics](https://www.auslogics.com/en)
 - [builtbybel/Winslop · GitHub](https://github.com/builtbybel/Winslop)
 - [Bulk Crap Uninstaller](https://www.bcuninstaller.com/)
