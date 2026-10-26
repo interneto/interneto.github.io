@@ -5,7 +5,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 
 # AI Tools & Services
 
-**Total Bookmarks:** 768
+**Total Bookmarks:** 769
 
 
 ## Agents & Automation
@@ -247,6 +247,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) — 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
 - [Caveman](https://getcaveman.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/juliusbrussee/caveman) — the token-efficient stack for agent-native builders
 - [Caveman](https://caveman.so/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/juliusbrussee/caveman) — the token-efficient stack for agent-native development
+- [Claude SEO](https://claude-seo.md/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/AgriciDaniel/claude-seo) — Free AI SEO Audit Tool for Claude Code
 - [Context Mode](https://context-mode.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/mksglu/context-mode) — The Control Plane for Coding Agents
 - [Diagram Design](https://diagramdesign.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/cathrynlavery/diagram-design) — editorial diagrams your designer won't hate
 - [foryourhealth111-pixel/Vibe-Skills · GitHub](https://github.com/foryourhealth111-pixel/Vibe-Skills)

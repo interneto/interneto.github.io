@@ -5,7 +5,7 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 
 # Education & Reference
 
-**Total Bookmarks:** 1319
+**Total Bookmarks:** 1315
 
 - [Academia Lab](https://academia-lab.com/)
 - [DosisPedia](https://dosispedia.com/)
@@ -1382,17 +1382,14 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [Numerologist.com](https://numerologist.com/)
 
 ## Simulator
-- ⭐ **[Parking Simulator Online](https://learnparking.academy/)** — ParkLab — Learn Parking Academy
 - [3D Conway's Game of Life](https://rbeaulieu.github.io/3DGameOfLife/3DGameOfLife.html) / [![GitHub](/img/software/apps/github.svg)](https://github.com/RBeaulieu/3DGameOfLife)
 - [Airplane Simulation](https://walter.bislins.ch/bloge/index.asp?page=Airplane+Simulation+%28Version+1%29) — Walter Bislins
 - [Automating the Search for Artificial Life with Foundation Models](https://pub.sakana.ai/asal/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/SakanaAI/asal)
 - [Cellular Automata Laboratory](https://www.fourmilab.ch/cellab/webca/)
-- [Conway's Game of Life](https://play.google.com/store/apps/details?id=com.jobik.gameoflife) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Efimj/GameOfLife) — Google Play Store
 - [daneelsan/Wireworld](https://github.com/daneelsan/Wireworld) — a Turing-complete cellular automaton suited for simulating logic gates and other real-world computer elements
 - [DigiSim](https://digisim.io/) — Digital logic, taught and built. Gate to 8-bit CPU.
 - [eCalc](https://www.ecalc.ch/) — reliable electric drive simulations
 - [gabe565/cli-of-life](https://github.com/gabe565/cli-of-life) — Play Conway's Game of Life in your terminal
-- [Game of Life 3D](https://creetah.com/game-of-life)
 - [Golly Game of Life](https://golly.sourceforge.io/) / [![SourceForge](/img/source-hosts/sourceforge.svg)](https://sourceforge.net/projects/golly/)
 - [HEC-HMS](https://www.hec.usace.army.mil/software/hec-hms/)
 - [Holocloth](https://holocloth.vercel.app/)
@@ -1403,7 +1400,6 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [NI](https://www.ni.com/en/shop/labview.html) — LabVIEW
 - [NOBOOK Virtual Laboratory](https://chemistry-en.nobook.com/console/templates/resource)
 - [OpenRocket Simulator](https://openrocket.info/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/openrocket/openrocket)
-- [Parking Simulator Guide](https://parking-simulator.com/guide/) — How to Park a Car: the Reference-Point Method
 - [PhET Simulations](https://phet.colorado.edu/en/simulations/filter) — University of Colorado Boulder
 - [Pražský Orloj](https://orloj.org/orloj/) — Prague Astronomical Clock Simulator
 - [simulator.io](https://simulator.io/) — Build and simulate logic circuits

@@ -5,7 +5,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 
 # Development
 
-**Total Bookmarks:** 2607
+**Total Bookmarks:** 2608
 
 - [Adobe Open Source](https://opensource.adobe.com/)
 - [Asterisk](https://www.asterisk.org/)
@@ -1741,6 +1741,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [waypoint · GitHub](https://github.com/IdreesInc/Waypoint)
 - [Workbench Obsidian · GitHub](https://github.com/ryanjamurphy/workbench-obsidian)
 - [World-Building · GitHub](https://github.com/Syrkres/World-Building)
+- [Xia-Ataraxia/obsidian-hermes](https://github.com/xia-ataraxia/obsidian-hermes) — Monitor and manage remote Hermes Agent profiles over SSH: kanban boards, a profile canvas, skills, cron jobs and chat.
 - [zhouhua/obsidian-power-mode · GitHub](https://github.com/zhouhua/obsidian-power-mode)
 - [Zoottelkeeper-obsidian-plugin · GitHub](https://github.com/akosbalasko/zoottelkeeper-obsidian-plugin)
 - [zotero-mdnotes · GitHub](https://github.com/argenos/zotero-mdnotes)
