@@ -5,7 +5,7 @@ description: Games, launchers, emulators, and gaming utilities
 
 # Gaming
 
-**Total Bookmarks:** 749
+**Total Bookmarks:** 754
 
 
 ## Games
@@ -49,6 +49,7 @@ description: Games, launchers, emulators, and gaming utilities
 - [Us Go](https://www.usgo.org/)
 
 ### Simulation
+- ⭐ **[Parking Simulator Online](https://learnparking.academy/)** — ParkLab — Learn Parking Academy
 - [3D Solar System Simulator](https://theskylive.com/3dsolarsystem)
 - [100,000 Stars](https://stars.chromeexperiments.com/)
 - [Aerofly FS Flight Simulator](https://www.aerofly.com/)
@@ -60,6 +61,7 @@ description: Games, launchers, emulators, and gaming utilities
 - [Celestia](https://celestiaproject.space/) — realtime 3D visualization of the space
 - [Comuniate.com](https://www.comuniate.com/)
 - [Construction Simulator](https://www.construction-simulator.com/en/)
+- [Conway's Game of Life](https://play.google.com/store/apps/details?id=com.jobik.gameoflife) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Efimj/GameOfLife) — Google Play Store
 - [Creativerse](https://creativersegame.com/)
 - [Cryptovoxels](https://www.cryptovoxels.com/)
 - [Cyberbotics](https://www.cyberbotics.com/) — Robotics simulation with Webots
@@ -77,6 +79,7 @@ description: Games, launchers, emulators, and gaming utilities
 - [Football Manager](https://www.footballmanager.com/)
 - [Gaia Sky](https://zah.uni-heidelberg.de/gaia/outreach/gaiasky/)
 - [Gaia Sky](https://gaiasky.space/)
+- [Game of Life 3D](https://creetah.com/game-of-life)
 - [Garrys Mod](https://gmod.facepunch.com/)
 - [Gather.town](https://www.gather.town/)
 - [GeoFS](https://www.geo-fs.com/)
@@ -105,6 +108,7 @@ description: Games, launchers, emulators, and gaming utilities
 - [Orbiter 2016 Space Flight Simulator](http://orbit.medphys.ucl.ac.uk/)
 - [Osgrid](https://www.osgrid.org/)
 - [Paralives](https://www.paralives.com/)
+- [Parking Simulator Guide](https://parking-simulator.com/guide/) — How to Park a Car: the Reference-Point Method
 - [Parkitect](https://www.themeparkitect.com/) — Texel Raptor
 - [PC Building Simulator 2](https://www.pcbuildingsim.com/) — Out now on Epic Games Store
 - [plbrault/youre-the-os · GitHub](https://github.com/plbrault/youre-the-os)
@@ -118,6 +122,7 @@ description: Games, launchers, emulators, and gaming utilities
 - [Second Life](https://secondlife.com/)
 - [Simutrans Transport Simulator](https://www.simutrans.com/en/)
 - [Slime Rancher 2](https://www.slimerancher.com/)
+- [Slop New York](https://mrdoob.github.io/slop-newyork/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/mrdoob/slop-newyork/)
 - [Sober](https://sober.vinegarhq.org/) — Roblox better than ever on Linux
 - [Solar System Scope](https://www.solarsystemscope.com/)
 - [Space Engine](http://spaceengine.org/)
