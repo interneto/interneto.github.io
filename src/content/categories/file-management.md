@@ -5,7 +5,7 @@ description: File sharing, downloaders, torrents, and cloud storage
 
 # File Management
 
-**Total Bookmarks:** 871
+**Total Bookmarks:** 873
 
 
 ## Backup
@@ -129,6 +129,7 @@ description: File sharing, downloaders, torrents, and cloud storage
 ### Client Cloud Storage
 - [ExpanDrive](https://www.expandrive.com/)
 - [MEGA CMD](https://mega.io/cmd)
+- [Mountain Duck](https://mountainduck.io/)
 - [Remotely Save](https://remotelysave.com/)
 - [Sync-in · The open-source platform that keeps your data safe](https://sync-in.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Sync-in)
 
@@ -783,6 +784,7 @@ description: File sharing, downloaders, torrents, and cloud storage
 ## File Transfer Tool
 - ⭐ **[Blip is the fastest way to send files](https://blip.net/)**
 - ⭐ **[LocalSend](https://localsend.org/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/localsend/localsend)
+- ⭐ **[OnionShare](https://onionshare.org/)**
 - ⭐ **[pixeldrain](https://pixeldrain.com/)** — Free file sharing service
 - [AirMore](https://airmore.com/)
 - [AlterSend](https://altersend.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/denislupookov/altersend) — Private, unlimited file transfer

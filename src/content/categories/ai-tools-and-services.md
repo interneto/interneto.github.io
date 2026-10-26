@@ -5,7 +5,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 
 # AI Tools & Services
 
-**Total Bookmarks:** 769
+**Total Bookmarks:** 770
 
 
 ## Agents & Automation
@@ -179,6 +179,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) — The first real AI developer
 - [Qoder](https://qoder.com/) — The Agentic Coding Platform
 - [Replit Agent](https://replit.com/products/agent)
+- [Reverse](https://www.reverse.dev/) — Understand & Edit Your AI-Built App
 - [SuperHQ](https://superhq.ai/) — Run AI coding agents in real sandboxes
 - [T3 Code](https://t3.codes/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/pingdotgg/t3code)
 - [ultraworkers/claw-code · GitHub](https://github.com/ultraworkers/claw-code)

@@ -5,7 +5,7 @@ description: Password managers, cybersecurity, and web privacy
 
 # Security & Privacy
 
-**Total Bookmarks:** 305
+**Total Bookmarks:** 306
 
 - [Fight Chat Control](https://fightchatcontrol.eu/) — Protect Digital Privacy in the EU
 - [PrivacySpy](https://privacyspy.org/) — We track online privacy
@@ -321,6 +321,7 @@ description: Password managers, cybersecurity, and web privacy
 - [Windscribe](https://windscribe.com/)
 - [WireGuard](https://www.wireguard.com/)
 - [X-VPN](https://xvpn.io/)
+- [ZeroTier](https://www.zerotier.com/) — Global Area Networking
 - [ZeroTworu/anet](https://github.com/ZeroTworu/anet) — Simple Rust VPN Client / Server
 
 ## Website Scanner

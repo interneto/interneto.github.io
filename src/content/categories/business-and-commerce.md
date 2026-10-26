@@ -5,7 +5,7 @@ description: Stores, marketplaces, product research, and resale
 
 # Business & Commerce
 
-**Total Bookmarks:** 5118
+**Total Bookmarks:** 5121
 
 
 ## Corporation
@@ -2788,6 +2788,7 @@ description: Stores, marketplaces, product research, and resale
 - [e Foundation](https://e.foundation/) — deGoogled smartphones OS
 - [Eastern Peak](https://easternpeak.com/)
 - [Elecard](https://www.elecard.com/) — Video monitoring, analysis, encoding for IPTV, OTT and DVB
+- [EterniCodia](https://eternicodia.com/) — Asistentes IA
 - [Faronics](https://www.faronics.com/en-uk)
 - [Fixstars Corporation](https://www.fixstars.com/en)
 - [Fornaxian Technologies](https://fornaxian.tech/)
@@ -2820,6 +2821,7 @@ description: Stores, marketplaces, product research, and resale
 - [KDAB](https://www.kdab.com/)
 - [Kimico](https://www.kimicoapps.com/) — Best organization apps for iPhone and iPad
 - [Kitware](https://www.kitware.com/)
+- [Kōdo Factory · Software factory en España](https://kodofactory.es/) — agentes IA y software a medida
 - [Kyndryl United States](https://www.kyndryl.com/us/en)
 - [Lãberit](https://www.laberit.com/)
 - [LambdaTest](https://www.lambdatest.com/)
@@ -5051,6 +5053,7 @@ description: Stores, marketplaces, product research, and resale
 - [Entertainment One](https://www.entertainmentone.com/)
 - [Entertainment Studios Corporate](https://entertainmentstudios.com/)
 - [Irresistible Entertainment](https://fremantle.com/)
+- [Netflix Media Center](https://media.netflix.com/en/)
 - [Sonar Entertainment](https://sonarent.com/)
 - [Sony Pictures Television](https://www.sonypicturestelevision.com/)
 - [Stage Entertainment](https://www.stage.es/)

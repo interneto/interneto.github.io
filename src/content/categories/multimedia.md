@@ -5,7 +5,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 
 # Multimedia
 
-**Total Bookmarks:** 2219
+**Total Bookmarks:** 2213
 
 
 ## Audio & Music
@@ -380,6 +380,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [Music Assistant](https://music-assistant.io/)
 - [nicotine-plus/nicotine-plus](https://github.com/nicotine-plus/nicotine-plus) — Graphical client for the Soulseek peer-to-peer network
 - [Nokse22/high-tide](https://github.com/Nokse22/high-tide) — Libadwaita TIDAL client for Linux
+- [nukeop/nuclear · GitHub](https://github.com/nukeop/nuclear)
 - [nullobsi/cantata](https://github.com/nullobsi/cantata) — Qt Graphical MPD Client
 - [Power Ampache 2](https://power.ampache.dev/)
 - [Rigellute/spotify-tui · GitHub](https://github.com/Rigellute/spotify-tui)
@@ -387,8 +388,11 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [SpotCompiled](https://spotc.yodaluca.dev/)
 - [Spotifast](https://spotifast.rocks/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/crmne/spotifast)
 - [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd) — A spotify daemon
+- [staniel359/muffon](https://github.com/staniel359/muffon#readme) — Music streaming browser
+- [Symfonium](https://symfonium.app/) — Android Music Player for Local, Plex, Jellyfin, Audiobookshelf & Cloud
 - [Tizonia Project](https://tizonia.org/)
 - [ubuntu-flutter-community/musicpod · GitHub](https://github.com/ubuntu-flutter-community/musicpod)
+- [vixalien/muzika · GitHub](https://github.com/vixalien/muzika)
 - [World / lollypop · GitLab](https://gitlab.gnome.org/World/lollypop)
 - [World / Shortwave · GitLab](https://gitlab.gnome.org/World/Shortwave)
 - [Youtube / Application · GitLab](https://gitlab.com/youtube-desktop/application)
@@ -813,6 +817,15 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 #### AMT (Automatic Music Transcription)
 - [AnthemScore](https://www.lunaverus.com/) — Automatic Music Transcription Software
 - [Melodyne](https://www.celemony.com/en/melodyne/what-is-melodyne)
+
+### Music Server
+- ⭐ **[Navidrome](https://www.navidrome.org/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/navidrome/navidrome)
+- [Airsonic](https://airsonic.github.io/)
+- [Ampache](https://ampache.org/) — Music Streaming Server
+- [Arthi-chaud/Meelo](https://github.com/Arthi-chaud/Meelo) — Self-Hosted, Personal Music Server, designed for collectors and music maniacs
+- [Daphile](https://www.daphile.com/) — player OS
+- [navidrome/navidrome · GitHub](https://github.com/navidrome/navidrome)
+- [OwnTone](https://owntone.github.io/owntone-server/)
 
 ## Photos & Graphics
 
@@ -1775,6 +1788,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - ⭐ **[Immich](https://immich.app/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/immich-app/immich)
 - ⭐ **[Librephotos](https://docs.librephotos.com/)** — Documentation
 - ⭐ **[PhotoPrism](https://photoprism.app/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/photoprism/photoprism)
+- ⭐ **[Piwigo](https://piwigo.org/)**
 - ⭐ **[Tonfotos](https://tonfotos.com/)** — intuitive photo and video archive manager and viewer
 - ⭐ **[XnView](https://www.xnview.com/en)**
 - [123 Photos](https://apps.microsoft.com/store/detail/123-photos-view-edit-convert/9WZDNCRDXFXG) — Microsoft Store
@@ -2118,13 +2132,19 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 ### Video Client
 - ⭐ **[Alex313031/quark-player](https://github.com/Alex313031/quark-player)** — An Electron based Web Video Services Player, supporting Netflix, Youtube, Twitch, Floatplane, Hulu and More!
 - ⭐ **[Grayjay](https://grayjay.app/)** — Follow Creators, Not Platforms
+- ⭐ **[PlayTorrio](https://playtorrio.xyz/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/ayman708-UX/PlayTorrioV2) — Open-Source by Ayman
+- ⭐ **[Stremio](https://www.stremio.com/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/stremio) — Freedom to Stream
 - [AbleMusic](https://uditkarode.github.io/able/)
+- [Atlas for Windows](https://atlas.hls.lol/)
 - [Benexl/yt-x](https://github.com/Benexl/yt-x) — Browse youtube from your terminal
 - [cuynu/ytvanced · GitHub](https://github.com/cuynu/ytvanced)
 - [Delfin](https://delfin.avery.cafe/) — Jellyfin client
+- [Fly Stream](https://flystream.net/) — Free Movies & TV, No Login
 - [jellyfin/jellyfin-mpv-shim · GitHub](https://github.com/jellyfin/jellyfin-mpv-shim)
+- [Leonflix](https://leonflix.net/)
 - [mu-fazil-vk/FluxTube · GitHub](https://github.com/mu-fazil-vk/FluxTube)
 - [MultiViewer](https://multiviewer.app/) — Watch F1 and More With Onboards and Live Timing
+- [Nuvio](https://nuvio.tv/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/NuvioMedia) — Media Hub
 - [PikaShow](https://pikashows.com/)
 - [pystardust/ani-cli](https://github.com/pystardust/ani-cli) — A cli tool to browse and play anime
 - [pystardust/ytfzf · GitHub](https://github.com/pystardust/ytfzf)
@@ -2271,59 +2291,31 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 
 ### Media Server
 - ⭐ **[Emby](https://emby.media/)** — The open media solution
-- ⭐ **[OnionShare](https://onionshare.org/)**
+- ⭐ **[Jellyfin](https://jellyfin.org/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/jellyfin/jellyfin) — The Free Software Media System
 - ⭐ **[Plex.tv](https://www.plex.tv/)** — Stream movies and TV shows
-- ⭐ **[Stremio](https://www.stremio.com/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/stremio) — Freedom to Stream
-- [Arthi-chaud/Meelo](https://github.com/Arthi-chaud/Meelo) — Self-Hosted, Personal Music Server, designed for collectors and music maniacs
 - [eleven-am/frames](https://github.com/Eleven-am/frames) — Frames is a modern SVOD (Streaming Video on Demand) streaming service built with React and NestJS. It allows you to stream MP4 files from virtually any provider including local storage, S3, Dropbox, Google Drive, and more.
 - [Gerbera](https://gerbera.io/)
 - [Kaleidescape](https://www.kaleidescape.com/) — The Ultimate Movie Platform
 - [Kometa Wiki](https://kometa.wiki/en/latest/#what-can-kometa-do) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Kometa-Team/Kometa)
-- [Nuvio](https://nuvio.tv/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/NuvioMedia) — Media Hub
+- [NextPVR](https://www.nextpvr.com/)
 - [PS3 Media Server](https://www.ps3mediaserver.org/)
 - [PS3 Media Server download](https://sourceforge.net/projects/ps3mediaserver/) — SourceForge.net
+- [ReadyMedia](https://sourceforge.net/projects/minidlna/) — SourceForge
+- [Serviio](https://serviio.org/)
+- [Streama](https://docs.streama-project.com/)
 - [Sunshine](https://app.lizardbyte.dev/Sunshine/) — LizardByte
 - [TVersity Media Server](http://tversity.com/)
 - [Tvheadend.org](https://tvheadend.org/)
 - [Universal Media Server](https://www.universalmediaserver.com/)
-- [VideoStream](https://getvideostream.com/)
-- [ZeroTier](https://www.zerotier.com/) — Global Area Networking
 
-#### Media Center
-- ⭐ **[Jellyfin](https://jellyfin.org/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/jellyfin/jellyfin) — The Free Software Media System
+### Media Center
 - ⭐ **[Kodi](https://kodi.tv/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/xbmc/xbmc) — Open Source Home Theater Software
-- ⭐ **[Navidrome](https://www.navidrome.org/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/navidrome/navidrome)
-- ⭐ **[Piwigo](https://piwigo.org/)**
-- [Airflow](https://airflow.app/)
-- [Airsonic](https://airsonic.github.io/)
-- [AllCast](https://www.allcast.io/) — Send photos and videos to your TV
-- [Ampache](https://ampache.org/) — Music Streaming Server
-- [Certbot](https://certbot.eff.org/) — EFF
-- [Daphile](https://www.daphile.com/) — player OS
-- [Dashy.to](https://dashy.to/)
 - [Fusion](https://fusionapp.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/qooode/fusion) — Discover, organize, and browse
-- [Hydrus network](https://hydrusnetwork.github.io/hydrus/index.html)
 - [Jellyfin demo](https://demo.jellyfin.org/stable/web/index.html#!/home.html)
-- [Leonflix](https://leonflix.net/)
 - [M7](https://apps.movian.eu/) — Media Center
-- [MagicMirror](https://magicmirror.builders/)
 - [MEDIAPORTAL](https://www.team-mediaportal.com/) — a HTPC Media Center for free!
-- [Mountain Duck](https://mountainduck.io/)
-- [navidrome/navidrome · GitHub](https://github.com/navidrome/navidrome)
-- [Netflix Media Center](https://media.netflix.com/en/)
-- [NextPVR](https://www.nextpvr.com/)
-- [nukeop/nuclear · GitHub](https://github.com/nukeop/nuclear)
 - [OSMC](https://osmc.tv/) — Open Source Media Center
-- [OwnTone](https://owntone.github.io/owntone-server/)
-- [pump.io](http://pump.io/)
-- [ReadyMedia](https://sourceforge.net/projects/minidlna/) — SourceForge
-- [RESP.app](https://resp.app/)
-- [Serviio](https://serviio.org/)
-- [staniel359/muffon](https://github.com/staniel359/muffon#readme) — Music streaming browser
-- [Streama](https://docs.streama-project.com/)
-- [Symfonium](https://symfonium.app/) — Android Music Player for Local, Plex, Jellyfin, Audiobookshelf & Cloud
 - [TiVo](https://www.tivo.com/)
-- [vixalien/muzika · GitHub](https://github.com/vixalien/muzika)
 
 ### Video Library Manager
 - ⭐ **[EMDB](https://www.emdb.eu/)** — Eric's Movie Database
@@ -2336,6 +2328,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [Filmotech](http://www.filmotech.info/)
 - [fupdec/mediaChips · GitHub](https://github.com/fupdec/mediachips)
 - [GCstar, personal collections manager](https://gitlab.com/GCstar/GCstar)
+- [Hydrus network](https://hydrusnetwork.github.io/hydrus/index.html)
 - [Kino](https://kino.ai/) — The new home for video editors
 - [MeD's Movie Manager](http://xmm.sourceforge.net/)
 - [MediaChips](https://mediachips.app/)
@@ -2392,15 +2385,10 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [Yawcam](https://yawcam.com/) — Yet Another Webcam Software
 - [ZoneMinder](https://zoneminder.com/)
 
-### Screen Annotation Tool
-- [Epic Pen](https://epicpen.com/)
-- [EpicPencil](https://www.epicpencil.es/en/) — Draw on your screen for free
-- [iRehmanAhmad/RePen](https://github.com/iRehmanAhmad/RePen)
-- [KMag](https://apps.kde.org/kmag/) / [🔗](https://invent.kde.org/accessibility/kmag)
-- [ZoomIt](https://learn.microsoft.com/en-us/sysinternals/downloads/zoomit) — Sysinternals
-
 ### Casting & Streaming
+- [Airflow](https://airflow.app/)
 - [AirPlay](https://www.apple.com/airplay/)
+- [AllCast](https://www.allcast.io/) — Send photos and videos to your TV
 - [AnyCast](https://any-cast.com/) — Cast Anything to the Big Screen
 - [AudioRelay](https://audiorelay.net/) — Stream audio between your devices
 - [BubbleUPnP for DLNA / Chromecast / Smart TV](https://bubblesoftapps.com/bubbleupnp/)
@@ -2417,6 +2405,14 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [Moonlight Game Streaming](https://moonlight-stream.org/) — Play Your PC Games Remotely
 - [Steam Remote Play](https://store.steampowered.com/remoteplay)
 - [Video & TV Cast](https://video-tv-cast.com/)
+- [VideoStream](https://getvideostream.com/)
+
+### Screen Annotation Tool
+- [Epic Pen](https://epicpen.com/)
+- [EpicPencil](https://www.epicpencil.es/en/) — Draw on your screen for free
+- [iRehmanAhmad/RePen](https://github.com/iRehmanAhmad/RePen)
+- [KMag](https://apps.kde.org/kmag/) / [🔗](https://invent.kde.org/accessibility/kmag)
+- [ZoomIt](https://learn.microsoft.com/en-us/sysinternals/downloads/zoomit) — Sysinternals
 
 ### Video Streaming app
 - ⭐ **[MediaHub-Org/PlayTorrioMov](https://github.com/MediaHub-Org/PlayTorrioMov)** — PlayTorrio fork adapted just for Movies/Series/Anime with SOLID UI/UX

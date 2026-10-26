@@ -946,6 +946,26 @@
     "createdAt": "2026-08-07T09:21:25.895Z"
   },
   {
+    "id": "1898525742",
+    "title": "android/skills · GitHub",
+    "url": "https://github.com/android/skills",
+    "description": "Contribute to android/skills development by creating an account on GitHub.",
+    "domain": "github.com",
+    "cover": "https://opengraph.githubassets.com/bdd962695fb512e157756b0e275f5400c431ef25d3093ed0f42de799e46e126b/android/skills",
+    "favorite": false,
+    "category": "ai-tools-and-services",
+    "subcategory": [
+      "Agents & Automation",
+      "Skills & Plugins"
+    ],
+    "tags": [
+      "Source Code: GitHub",
+      "Type: Open-Source"
+    ],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-22T18:40:33.881Z"
+  },
+  {
     "id": "1833304467",
     "title": "androoAGI/starnet: A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.",
     "url": "https://github.com/androoAGI/starnet",
@@ -1781,6 +1801,23 @@
     ],
     "sourceCodeUrls": [],
     "createdAt": "2024-11-22T23:49:18.417Z"
+  },
+  {
+    "id": "1896306900",
+    "title": "BestLLMfor - Local LLM: which model runs on your machine?",
+    "url": "https://bestllmfor.com/",
+    "description": "Which open-source LLMs run on your PC or Mac? Free configurator, 220+ models tested, 210+ Ollama and LM Studio guides.",
+    "domain": "bestllmfor.com",
+    "cover": "https://bestllmfor.com/_quelllm/assets/og-en.png",
+    "favorite": false,
+    "category": "ai-tools-and-services",
+    "subcategory": [
+      "Model Serving",
+      "AI Local On-Device"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-20T23:47:56.069Z"
   },
   {
     "id": "573729727",
@@ -2828,6 +2865,28 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2026-08-13T13:06:41.352Z"
+  },
+  {
+    "id": "1902452826",
+    "title": "Claude SEO - Free AI SEO Audit Tool for Claude Code",
+    "url": "https://claude-seo.md/",
+    "description": "Free, open-source AI SEO audit tool for Claude Code. 25 sub-skills, 18 subagents, and 3 extensions covering technical SEO, content quality (E-E-A-T), schema markup, AI search optimization (GEO), backlinks, local SEO, semantic clustering, SXO, drift monitoring, and e-commerce. Alternative to paid SEO tools like Ahrefs and Semrush.",
+    "domain": "claude-seo.md",
+    "cover": "https://claude-seo.md/assets/og-image.webp",
+    "favorite": false,
+    "category": "ai-tools-and-services",
+    "subcategory": [
+      "Agents & Automation",
+      "Skills & Plugins"
+    ],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitHub"
+    ],
+    "sourceCodeUrls": [
+      "https://github.com/AgriciDaniel/claude-seo"
+    ],
+    "createdAt": "2026-10-26T00:56:23.269Z"
   },
   {
     "id": "1766476399",
@@ -4094,6 +4153,23 @@
     "createdAt": "2025-06-16T22:35:56.858Z"
   },
   {
+    "id": "1898519730",
+    "title": "doobidoo/mcp-memory-service: Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph + autonomous consolidation.",
+    "url": "https://github.com/doobidoo/mcp-memory-service",
+    "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph + autonomous consolidation. - doobidoo/mcp-memory-service",
+    "domain": "github.com",
+    "cover": "https://repository-images.githubusercontent.com/908539519/e2f02d16-517d-47cf-9c2c-91105c7fb010",
+    "favorite": false,
+    "category": "ai-tools-and-services",
+    "subcategory": [
+      "Agents & Automation",
+      "Memory & RAG"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-22T18:32:08.291Z"
+  },
+  {
     "id": "704286073",
     "title": "Dragon by Komodo Chess - World Champion Chess Engine",
     "url": "https://komodochess.com/",
@@ -4889,6 +4965,28 @@
     "createdAt": "2025-01-18T21:31:35.274Z"
   },
   {
+    "id": "1898585453",
+    "title": "FlashInfer",
+    "url": "https://flashinfer.ai/",
+    "description": "Introduce Techniques to accelerate Large Language Model Deployment",
+    "domain": "flashinfer.ai",
+    "cover": "https://rdl.ink/render/https%3A%2F%2Fflashinfer.ai%2F",
+    "favorite": false,
+    "category": "ai-tools-and-services",
+    "subcategory": [
+      "Model Serving",
+      "AI Serving Engines"
+    ],
+    "tags": [
+      "Source Code: GitHub",
+      "Type: Open-Source"
+    ],
+    "sourceCodeUrls": [
+      "https://github.com/flashinfer-ai/flashinfer"
+    ],
+    "createdAt": "2026-10-22T19:21:56.550Z"
+  },
+  {
     "id": "1625031333",
     "title": "Flashloop AI - Generate AI Videos",
     "url": "https://www.flashloop.app/",
@@ -5135,6 +5233,28 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2026-02-23T12:09:39.279Z"
+  },
+  {
+    "id": "1900012884",
+    "title": "Free Claude Code Plugins & Mods | better-claude",
+    "url": "https://betterclaude.dev/",
+    "description": "Free, open-source Claude Code plugins by midudev. Preview images, track usage, rewind any turn's files, automate Git commits and hear spoken summaries. Install in one prompt.",
+    "domain": "betterclaude.dev",
+    "cover": "https://betterclaude.dev/og-image.png",
+    "favorite": false,
+    "category": "ai-tools-and-services",
+    "subcategory": [
+      "Agents & Automation",
+      "Skills & Plugins"
+    ],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitHub"
+    ],
+    "sourceCodeUrls": [
+      "https://github.com/midudev/better-claude"
+    ],
+    "createdAt": "2026-10-24T00:50:12.039Z"
   },
   {
     "id": "1828129980",
@@ -5504,8 +5624,7 @@
       "OS Compatibility: web app"
     ],
     "sourceCodeUrls": [
-      "https://github.com/github/copilot-cli",
-      "https://github.com/microsoft/vscode-copilot-chat"
+      "https://github.com/github/copilot-cli"
     ],
     "createdAt": "2022-09-27T10:03:39.331Z"
   },
@@ -5983,6 +6102,28 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2025-05-11T22:00:07.183Z"
+  },
+  {
+    "id": "1898511997",
+    "title": "Graphify · the code knowledge graph for AI coding assistants",
+    "url": "https://graphify.com/",
+    "description": "Your codebase as a knowledge graph your AI assistant queries instead of grepping: no embeddings, just a graph it can trace. Hosted at app.graphify.com, or free and open source on your own machine.",
+    "domain": "graphify.com",
+    "cover": "https://graphify.com/twitter-image.png?twitter-image.3ssypa_91yyrh.png",
+    "favorite": false,
+    "category": "ai-tools-and-services",
+    "subcategory": [
+      "Agents & Automation",
+      "Agent Frameworks & UIs"
+    ],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitHub"
+    ],
+    "sourceCodeUrls": [
+      "https://github.com/Graphify-Labs/graphify"
+    ],
+    "createdAt": "2026-10-22T18:22:59.243Z"
   },
   {
     "id": "975218032",
@@ -8748,6 +8889,26 @@
     "createdAt": "2025-07-25T23:07:00.743Z"
   },
   {
+    "id": "1898510250",
+    "title": "luongnv89/claude-howto: A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+    "url": "https://github.com/luongnv89/claude-howto",
+    "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. - luongnv89/claude-howto",
+    "domain": "github.com",
+    "cover": "https://opengraph.githubassets.com/0d5b7c0887477adf47c926b643ac3aedd3a64a3a8e79670b908f38122a781dc9/luongnv89/claude-howto",
+    "favorite": false,
+    "category": "ai-tools-and-services",
+    "subcategory": [
+      "Agents & Automation",
+      "Skills & Plugins"
+    ],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitHub"
+    ],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-22T18:20:43.744Z"
+  },
+  {
     "id": "1779417229",
     "title": "lyogavin/airllm: AirLLM 70B inference with single 4GB GPU · GitHub",
     "url": "https://github.com/lyogavin/airllm",
@@ -9706,26 +9867,6 @@
     ],
     "sourceCodeUrls": [],
     "createdAt": "2023-12-18T22:28:44.909Z"
-  },
-  {
-    "id": "1887604595",
-    "title": "mksglu/context-mode: Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-    "url": "https://github.com/mksglu/context-mode",
-    "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. - mksglu/context-mode",
-    "domain": "github.com",
-    "cover": "https://opengraph.githubassets.com/7d9f3492fd80bfdc122955a0acba2b61156369d4875f3673ab248f3804c77ce2/mksglu/context-mode",
-    "favorite": false,
-    "category": "ai-tools-and-services",
-    "subcategory": [
-      "Agents & Automation",
-      "Skills & Plugins"
-    ],
-    "tags": [
-      "Type: Open-Source",
-      "Source Code: GitHub"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2026-10-13T09:00:51.176Z"
   },
   {
     "id": "1612467606",
@@ -12189,6 +12330,28 @@
     "createdAt": "2025-07-25T18:09:40.707Z"
   },
   {
+    "id": "1898515324",
+    "title": "Rakazo | Open source Grok Bot alternative",
+    "url": "https://rakazo.com/",
+    "description": "Rakazo is an open source Grok Bot alternative for persistent AI teammates that do real work. Your keys, your model, your machine.",
+    "domain": "rakazo.com",
+    "cover": "https://rakazo.com/og-image.png",
+    "favorite": false,
+    "category": "ai-tools-and-services",
+    "subcategory": [
+      "Language Models & Hubs",
+      "AI Chat Platforms"
+    ],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitHub"
+    ],
+    "sourceCodeUrls": [
+      "https://github.com/elie222/rakazo"
+    ],
+    "createdAt": "2026-10-22T18:27:27.928Z"
+  },
+  {
     "id": "1880277605",
     "title": "REA — Reverse Engineer Anything",
     "url": "https://morluto.github.io/rea/",
@@ -12407,6 +12570,23 @@
     "createdAt": "2023-01-22T20:59:25.991Z"
   },
   {
+    "id": "1902488345",
+    "title": "Reverse - Understand & Edit Your AI-Built App",
+    "url": "https://www.reverse.dev/",
+    "description": "Understand and change any codebase in plain language — connect a GitHub repo, explore it on a visual canvas as a team, ask questions, and let an AI agent make the edits and open the pull request.",
+    "domain": "www.reverse.dev",
+    "cover": "https://www.reverse.dev/opengraph-image?1e63f11059618ae5",
+    "favorite": false,
+    "category": "ai-tools-and-services",
+    "subcategory": [
+      "Agents & Automation",
+      "Coding Agent"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-26T01:19:32.803Z"
+  },
+  {
     "id": "1457429158",
     "title": "Rhasspy",
     "url": "https://rhasspy.readthedocs.io/en/latest/",
@@ -12547,6 +12727,28 @@
     ],
     "sourceCodeUrls": [],
     "createdAt": "2024-10-17T17:02:13.537Z"
+  },
+  {
+    "id": "1900012641",
+    "title": "runonweb: Free AI models that run in the browser",
+    "url": "https://runonweb.ai/",
+    "description": "Free, open-source AI models that run in your browser: speech-to-text, OCR, background removal, translation, TTS and more. WebGPU or WASM, fully private.",
+    "domain": "runonweb.ai",
+    "cover": "https://runonweb.ai/og/site.png",
+    "favorite": false,
+    "category": "ai-tools-and-services",
+    "subcategory": [
+      "Model Serving",
+      "AI Local On-Device"
+    ],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitHub"
+    ],
+    "sourceCodeUrls": [
+      "https://github.com/midudev/runonweb.ai"
+    ],
+    "createdAt": "2026-10-24T00:49:12.282Z"
   },
   {
     "id": "1720163823",
@@ -13351,6 +13553,23 @@
     "createdAt": "2025-11-29T02:13:38.800Z"
   },
   {
+    "id": "1897506484",
+    "title": "Subquadratic — Efficiency is Intelligence",
+    "url": "https://subq.ai/",
+    "description": "Subquadratic is a frontier AI research and infrastructure company building a new class of LLMs.",
+    "domain": "subq.ai",
+    "cover": "https://subq.ai/images/introducing-subq.png",
+    "favorite": false,
+    "category": "ai-tools-and-services",
+    "subcategory": [
+      "Language Models & Hubs",
+      "LLMs (Large Language Models)"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-22T00:39:18.020Z"
+  },
+  {
     "id": "930643074",
     "title": "succinctly/text2image-prompt-generator · Hugging Face",
     "url": "https://huggingface.co/succinctly/text2image-prompt-generator",
@@ -13448,6 +13667,46 @@
     ],
     "sourceCodeUrls": [],
     "createdAt": "2025-07-06T22:23:02.276Z"
+  },
+  {
+    "id": "1900021144",
+    "title": "Supertone (Supertone)",
+    "url": "https://huggingface.co/Supertone",
+    "description": "Org profile for Supertone on Hugging Face, the AI community building the future.",
+    "domain": "huggingface.co",
+    "cover": "https://cdn-thumbnails.huggingface.co/social-thumbnails/Supertone.png",
+    "favorite": false,
+    "category": "ai-tools-and-services",
+    "subcategory": [
+      "Generative Media",
+      "AI Speech & Voice"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-24T00:55:54.613Z"
+  },
+  {
+    "id": "1900024075",
+    "title": "Supertonic 3 (TTS) - a Hugging Face Space by Supertone",
+    "url": "https://huggingface.co/spaces/Supertone/supertonic-3",
+    "description": "Lightning-Fast, On-Device, Multilingual, Accurate TTS",
+    "domain": "huggingface.co",
+    "cover": "https://cdn-thumbnails.huggingface.co/social-thumbnails/spaces/Supertone/supertonic-3.png",
+    "favorite": true,
+    "category": "ai-tools-and-services",
+    "subcategory": [
+      "Generative Media",
+      "AI Speech & Voice"
+    ],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitHub",
+      "❤️"
+    ],
+    "sourceCodeUrls": [
+      "https://github.com/supertone-oss-archive/supertonic"
+    ],
+    "createdAt": "2026-10-24T01:01:16.996Z"
   },
   {
     "id": "1865766925",
@@ -14975,6 +15234,28 @@
     ],
     "sourceCodeUrls": [],
     "createdAt": "2023-01-04T16:36:06.739Z"
+  },
+  {
+    "id": "1898533431",
+    "title": "XERJ.ai — the search engine built for AI agents",
+    "url": "https://xerj.org/",
+    "description": "The unified search engine for AI: connect it, run xerj autoindex, and it works. One Rust binary replaces search, vector DB, embeddings and agent memory.",
+    "domain": "xerj.org",
+    "cover": "https://xerj.org/og/xerj-card.png",
+    "favorite": false,
+    "category": "ai-tools-and-services",
+    "subcategory": [
+      "Agents & Automation",
+      "Agent Frameworks & UIs"
+    ],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitHub"
+    ],
+    "sourceCodeUrls": [
+      "https://github.com/xerj-org/xerj"
+    ],
+    "createdAt": "2026-10-22T18:44:56.579Z"
   },
   {
     "id": "1784674961",
@@ -43457,6 +43738,25 @@
     "createdAt": "2020-12-25T20:04:08.000Z"
   },
   {
+    "id": "1902541102",
+    "title": "EterniCodia - Asistentes IA",
+    "url": "https://eternicodia.com/",
+    "description": null,
+    "domain": "eternicodia.com",
+    "cover": "https://rdl.ink/render/https%3A%2F%2Feternicodia.com%2F",
+    "favorite": false,
+    "category": "business-and-commerce",
+    "subcategory": [
+      "Enterprises",
+      "Technology Company",
+      "Software Company",
+      "Software Development Company"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-26T01:43:24.985Z"
+  },
+  {
     "id": "1015178449",
     "title": "Ethical Capital Partners",
     "url": "https://www.ethicalcapitalpartners.com/",
@@ -63904,6 +64204,25 @@
     "createdAt": "2020-12-16T15:13:21.000Z"
   },
   {
+    "id": "1902544427",
+    "title": "Kōdo Factory · Software factory en España: agentes IA y software a medida",
+    "url": "https://kodofactory.es/",
+    "description": "Software factory en Alicante especializada en agentes de IA autónomos, desarrollo de software a medida, integraciones y consultoría de inteligencia artificial para pymes y administraciones públicas.",
+    "domain": "kodofactory.es",
+    "cover": "https://kodofactory.es/og.png",
+    "favorite": false,
+    "category": "business-and-commerce",
+    "subcategory": [
+      "Enterprises",
+      "Technology Company",
+      "Software Company",
+      "Software Development Company"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-26T01:47:43.429Z"
+  },
+  {
     "id": "287105366",
     "title": "L Brands",
     "url": "https://www.lb.com/",
@@ -75223,6 +75542,24 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2021-02-08T16:22:38.000Z"
+  },
+  {
+    "id": "695803419",
+    "title": "Netflix Media Center",
+    "url": "https://media.netflix.com/en/",
+    "description": null,
+    "domain": "media.netflix.com",
+    "cover": null,
+    "favorite": false,
+    "category": "business-and-commerce",
+    "subcategory": [
+      "Enterprises",
+      "Mass-Media Company",
+      "Entertainment Company"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2023-12-16T13:47:26.994Z"
   },
   {
     "id": "434552492",
@@ -115147,8 +115484,13 @@
     "subcategory": [
       "Game Engine"
     ],
-    "tags": [],
-    "sourceCodeUrls": [],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitHub"
+    ],
+    "sourceCodeUrls": [
+      "https://github.com/armory3d/armory"
+    ],
     "createdAt": "2021-11-08T19:02:13.933Z"
   },
   {
@@ -120911,8 +121253,13 @@
       "Library (computing)",
       "JS Library"
     ],
-    "tags": [],
-    "sourceCodeUrls": [],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitHub"
+    ],
+    "sourceCodeUrls": [
+      "https://github.com/iamkun/dayjs/"
+    ],
     "createdAt": "2023-05-30T19:56:27.315Z"
   },
   {
@@ -126448,9 +126795,12 @@
       "Terminal Emulator"
     ],
     "tags": [
-      "Type: Open-Source"
+      "Type: Open-Source",
+      "Source Code: GitHub"
     ],
-    "sourceCodeUrls": [],
+    "sourceCodeUrls": [
+      "https://github.com/ghostty-org/ghostty"
+    ],
     "createdAt": "2025-06-11T17:28:55.242Z"
   },
   {
@@ -128460,6 +128810,27 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2025-05-11T18:47:21.309Z"
+  },
+  {
+    "id": "1903052787",
+    "title": "Healthcare Integration Engine | Mirth® Connect by NextGen Healthcare",
+    "url": "https://www.nextgen.com/solutions/interoperability/mirth-integration-engine",
+    "description": "Optimize interoperability capabilities with a seamless healthcare integration engine and advanced administration tools via Mirth® Connect.",
+    "domain": "www.nextgen.com",
+    "cover": "https://nextgen.widen.net/content/zmy9iqygnq/jpeg/SO_111422_IntegrationEngine_SocialHero_1200x628.webp",
+    "favorite": false,
+    "category": "development",
+    "subcategory": [
+      "Library (computing)"
+    ],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitHub"
+    ],
+    "sourceCodeUrls": [
+      "https://github.com/nextgenhealthcare/connect/"
+    ],
+    "createdAt": "2026-10-26T14:20:41.047Z"
   },
   {
     "id": "669169212",
@@ -133457,6 +133828,29 @@
     "createdAt": "2023-01-04T17:37:40.468Z"
   },
   {
+    "id": "1898559273",
+    "title": "Lithe · A lightweight Java IDE for macOS and Windows",
+    "url": "https://lithe.top/",
+    "description": "Lithe is a free, open-source Java IDE for macOS and Windows. It keeps the IntelliJ IDEA workflows you use every day — project navigation, search, run, debug, Git diff — in about 1/5 of the memory.",
+    "domain": "lithe.top",
+    "cover": "https://lithe.top/assets/og-cover.jpg",
+    "favorite": false,
+    "category": "development",
+    "subcategory": [
+      "Text Editing",
+      "Code Editor & IDE",
+      "IDE (Integrated Development Environment)"
+    ],
+    "tags": [
+      "Source Code: GitHub",
+      "Type: Open-Source"
+    ],
+    "sourceCodeUrls": [
+      "https://github.com/1lck/Lithe-IDEA"
+    ],
+    "createdAt": "2026-10-22T19:18:30.642Z"
+  },
+  {
     "id": "556250953",
     "title": "LLVM Compiler Infrastructure",
     "url": "https://llvm.org/",
@@ -133688,6 +134082,27 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2023-06-04T00:39:15.246Z"
+  },
+  {
+    "id": "1899617559",
+    "title": "Luanti | Open source voxel game engine",
+    "url": "https://www.luanti.org/en/",
+    "description": "Play one of our many games solo or together. Mod a game as you see fit, or make your own.",
+    "domain": "www.luanti.org",
+    "cover": "https://www.luanti.org/media/favicon/194x194.png",
+    "favorite": false,
+    "category": "development",
+    "subcategory": [
+      "Game Engine"
+    ],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitHub"
+    ],
+    "sourceCodeUrls": [
+      "https://github.com/luanti-org/luanti"
+    ],
+    "createdAt": "2026-10-23T16:57:08.953Z"
   },
   {
     "id": "990408422",
@@ -144076,6 +144491,28 @@
     "createdAt": "2022-09-09T20:02:28.307Z"
   },
   {
+    "id": "1898533091",
+    "title": "Omnigraph | Modern Relay",
+    "url": "https://www.omnigraph.dev/",
+    "description": "Graph engine for context assembly. Object-storage native. Agents work with graph data the way engineers work with code: branched, typed, reviewed, merged, audited, and governed.",
+    "domain": "www.omnigraph.dev",
+    "cover": "https://omnigraph.dev/og-image.png?v=6",
+    "favorite": false,
+    "category": "development",
+    "subcategory": [
+      "Database Management",
+      "DBMS"
+    ],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitHub"
+    ],
+    "sourceCodeUrls": [
+      "https://github.com/ModernRelay/omnigraph"
+    ],
+    "createdAt": "2026-10-22T18:44:35.297Z"
+  },
+  {
     "id": "994941666",
     "title": "Omnipressteam",
     "url": "https://omnipressteam.com/",
@@ -144253,15 +144690,19 @@
     "description": "Open 3D Engine",
     "domain": "o3de.org",
     "cover": "https://o3de.org/img/logos/O3DE-Circle-Icon.png",
-    "favorite": false,
+    "favorite": true,
     "category": "development",
     "subcategory": [
       "Game Engine"
     ],
     "tags": [
-      "Type: Open-Source"
+      "Type: Open-Source",
+      "Source Code: GitHub",
+      "❤️"
     ],
-    "sourceCodeUrls": [],
+    "sourceCodeUrls": [
+      "https://github.com/o3de/o3de"
+    ],
     "createdAt": "2021-07-09T12:59:42.000Z"
   },
   {
@@ -145262,8 +145703,13 @@
       "Library (computing)",
       "Python Library"
     ],
-    "tags": [],
-    "sourceCodeUrls": [],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitHub"
+    ],
+    "sourceCodeUrls": [
+      "https://github.com/pandas-dev/pandas"
+    ],
     "createdAt": "2022-06-04T23:50:22.869Z"
   },
   {
@@ -145711,8 +146157,13 @@
       "Computing Language",
       "Programming Language"
     ],
-    "tags": [],
-    "sourceCodeUrls": [],
+    "tags": [
+      "Source Code: GitHub",
+      "Type: Open-Source"
+    ],
+    "sourceCodeUrls": [
+      "https://github.com/php/php-src"
+    ],
     "createdAt": "2020-10-07T00:26:38.000Z"
   },
   {
@@ -146091,7 +146542,8 @@
     ],
     "tags": [
       "OS Compatibility: web app",
-      "Type: Open-Source"
+      "Type: Open-Source",
+      "Source Code: GitHub"
     ],
     "sourceCodeUrls": [
       "https://github.com/playcanvas/engine"
@@ -149315,6 +149767,22 @@
     ],
     "sourceCodeUrls": [],
     "createdAt": "2023-11-03T22:20:13.545Z"
+  },
+  {
+    "id": "378820785",
+    "title": "RESP.app",
+    "url": "https://resp.app/",
+    "description": "Cross-platform GUI for Redis ® : download for macOS, iPad, Windows and Linux.",
+    "domain": "resp.app",
+    "cover": "https://resp.app/static/img/v2/home-intro.jpg?v=2020",
+    "favorite": false,
+    "category": "development",
+    "subcategory": [
+      "Database Management"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2022-03-26T17:55:53.300Z"
   },
   {
     "id": "1586490934",
@@ -153572,6 +154040,22 @@
     "createdAt": "2026-02-18T09:19:56.251Z"
   },
   {
+    "id": "1897509171",
+    "title": "Summer Engine - The AI Game Engine",
+    "url": "https://www.summerengine.com/",
+    "description": "The AI game engine for people and agents. Build real 2D and 3D games with Claude Code, Codex, Cursor or Summer Agent, publish on Summer Games or Steam, and earn.",
+    "domain": "www.summerengine.com",
+    "cover": "https://www.summerengine.com/og-image.png",
+    "favorite": false,
+    "category": "development",
+    "subcategory": [
+      "Game Engine"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-22T00:47:00.489Z"
+  },
+  {
     "id": "1802574014",
     "title": "sunblaze-ucb/exploitgym: ExploitGym is a large-scale, realistic benchmark built from real-world vulnerabilities designed to evaluate AI agents' ability to develop exploits.",
     "url": "https://github.com/sunblaze-ucb/exploitgym",
@@ -155435,6 +155919,29 @@
     ],
     "sourceCodeUrls": [],
     "createdAt": "2025-06-20T00:36:51.779Z"
+  },
+  {
+    "id": "1903413701",
+    "title": "ThinkRail — the agentic IDE that gets better every time you use it",
+    "url": "https://thinkrail.ai/",
+    "description": "Git-worktree workspaces, a real editor, terminals, concurrent agent chats, and a spec graph the agent reads. Open source, Apache-2.0.",
+    "domain": "thinkrail.ai",
+    "cover": "https://thinkrail.ai/og.png",
+    "favorite": false,
+    "category": "development",
+    "subcategory": [
+      "Text Editing",
+      "Code Editor & IDE",
+      "Agentic IDEs"
+    ],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitHub"
+    ],
+    "sourceCodeUrls": [
+      "https://github.com/JetBrains/thinkrail"
+    ],
+    "createdAt": "2026-10-26T22:04:03.185Z"
   },
   {
     "id": "412418842",
@@ -157685,7 +158192,7 @@
   {
     "id": "287100450",
     "title": "Unreal Engine - The most powerful real-time 3D creation tool",
-    "url": "https://www.unrealengine.com/en-US/",
+    "url": "https://www.unrealengine.com/",
     "description": "Unreal Engine is the world’s most open and advanced real-time 3D creation platform for photoreal visuals and immersive experiences.",
     "domain": "www.unrealengine.com",
     "cover": "https://cdn2.unrealengine.com/new-logo-share-1400x788-03-1400x788-c9d09f067a09.jpg",
@@ -157695,7 +158202,8 @@
       "Game Engine"
     ],
     "tags": [
-      "❤️"
+      "❤️",
+      "OS Compatibility: Cross-platform"
     ],
     "sourceCodeUrls": [],
     "createdAt": "2020-01-08T22:30:40.000Z"
@@ -161226,6 +161734,28 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2022-07-29T00:05:45.689Z"
+  },
+  {
+    "id": "1901865572",
+    "title": "Xia-Ataraxia/obsidian-hermes: Monitor and manage remote Hermes Agent profiles over SSH: kanban boards, a profile canvas, skills, cron jobs and chat.",
+    "url": "https://github.com/xia-ataraxia/obsidian-hermes",
+    "description": "Monitor and manage remote Hermes Agent profiles over SSH: kanban boards, a profile canvas, skills, cron jobs and chat",
+    "domain": "github.com",
+    "cover": "https://raw.githubusercontent.com/Xia-Ataraxia/obsidian-hermes/main/docs/assets/demo.webp",
+    "favorite": false,
+    "category": "development",
+    "subcategory": [
+      "Extension",
+      "IDE Extension",
+      "Obsidian Plugin"
+    ],
+    "tags": [
+      "Source Code: GitHub",
+      "Type: Open-Source",
+      "Software: Extension"
+    ],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-25T15:03:48.958Z"
   },
   {
     "id": "504602297",
@@ -166847,28 +167377,6 @@
     "createdAt": "2020-01-17T16:40:39.000Z"
   },
   {
-    "id": "1731229972",
-    "title": "Conway's Game of Life - Google Play Store",
-    "url": "https://play.google.com/store/apps/details?id=com.jobik.gameoflife",
-    "description": "Conway's Game of Life is a mathematical simulation of cellular automata",
-    "domain": "play.google.com",
-    "cover": "https://play-lh.googleusercontent.com/5tDSmra1CsmmlCoSTJa-WnXX31NXVNHZntOf2homlr3wVxyhJAEDpErJ6C9YYWvIqsE",
-    "favorite": false,
-    "category": "education-and-reference",
-    "subcategory": [
-      "Simulator"
-    ],
-    "tags": [
-      "Monetization: Free",
-      "Type: Open-Source",
-      "OS Compatibility: Android"
-    ],
-    "sourceCodeUrls": [
-      "https://github.com/Efimj/GameOfLife"
-    ],
-    "createdAt": "2026-05-24T11:32:54.462Z"
-  },
-  {
     "id": "321844935",
     "title": "Cosmograma",
     "url": "https://www.cosmograma.com/",
@@ -171250,22 +171758,6 @@
     "createdAt": "2022-01-02T23:54:52.689Z"
   },
   {
-    "id": "1731223495",
-    "title": "Game of Life 3D",
-    "url": "https://creetah.com/game-of-life",
-    "description": null,
-    "domain": "creetah.com",
-    "cover": "https://rdl.ink/render/https%3A%2F%2Fcreetah.com%2Fgame-of-life",
-    "favorite": false,
-    "category": "education-and-reference",
-    "subcategory": [
-      "Simulator"
-    ],
-    "tags": [],
-    "sourceCodeUrls": [],
-    "createdAt": "2026-05-24T11:20:20.605Z"
-  },
-  {
     "id": "1348515941",
     "title": "GameDev.tv - We help game developers learn and grow",
     "url": "https://www.gamedev.tv/",
@@ -175535,6 +176027,25 @@
     "createdAt": "2021-01-01T23:13:20.000Z"
   },
   {
+    "id": "1896303517",
+    "title": "LLM Visualization",
+    "url": "https://bbycroft.net/llm",
+    "description": "A 3D animated visualization of an LLM with a walkthrough.",
+    "domain": "bbycroft.net",
+    "cover": "https://rdl.ink/render/https%3A%2F%2Fbbycroft.net%2Fllm",
+    "favorite": false,
+    "category": "education-and-reference",
+    "subcategory": [
+      "Science",
+      "Applied Science",
+      "Computing",
+      "Machine Learning"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-20T23:37:18.594Z"
+  },
+  {
     "id": "287108379",
     "title": "Loecsen / Online languages",
     "url": "https://www.loecsen.com/en",
@@ -178434,40 +178945,6 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2023-05-08T00:06:51.060Z"
-  },
-  {
-    "id": "1895629068",
-    "title": "Parking Simulator Guide — How to Park a Car: the Reference-Point Method",
-    "url": "https://parking-simulator.com/guide/",
-    "description": "Back-in, parallel and front-in parking taught the way Japanese driving schools teach it — three steering positions, stop-set-move, and fixed reference points you can trust.",
-    "domain": "parking-simulator.com",
-    "cover": "https://rdl.ink/render/https%3A%2F%2Fparking-simulator.com%2Fguide%2F",
-    "favorite": false,
-    "category": "education-and-reference",
-    "subcategory": [
-      "Simulator"
-    ],
-    "tags": [],
-    "sourceCodeUrls": [],
-    "createdAt": "2026-10-20T14:19:14.105Z"
-  },
-  {
-    "id": "1895910914",
-    "title": "Parking Simulator Online | ParkLab — Learn Parking Academy",
-    "url": "https://learnparking.academy/",
-    "description": "Practice parking online with ParkLab, a browser-based 3D parking simulator. Working mirrors, demonstrations and replay. Start with five free scenarios.",
-    "domain": "learnparking.academy",
-    "cover": "https://learnparking.academy/previews/cockpit-current-20261009.jpg",
-    "favorite": true,
-    "category": "education-and-reference",
-    "subcategory": [
-      "Simulator"
-    ],
-    "tags": [
-      "❤️"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2026-10-20T16:55:13.394Z"
   },
   {
     "id": "287113477",
@@ -183637,6 +184114,68 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2021-03-05T13:36:50.000Z"
+  },
+  {
+    "id": "1897121789",
+    "title": "Transformer Circuits Thread",
+    "url": "https://transformer-circuits.pub/",
+    "description": "Can we reverse engineer transformer language models into human-understandable computer programs?",
+    "domain": "transformer-circuits.pub",
+    "cover": "https://transformer-circuits.pub/interp.png",
+    "favorite": false,
+    "category": "education-and-reference",
+    "subcategory": [
+      "Science",
+      "Applied Science",
+      "Computing",
+      "Machine Learning"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-21T18:08:48.571Z"
+  },
+  {
+    "id": "1896557921",
+    "title": "Transformer Explainer: LLM Transformer Model Visually Explained",
+    "url": "https://poloclub.github.io/transformer-explainer/",
+    "description": "An interactive visualization tool showing you how transformer models work in large language models (LLM) like GPT.",
+    "domain": "poloclub.github.io",
+    "cover": "https://poloclub.github.io/transformer-explainer/preview/summary.png",
+    "favorite": false,
+    "category": "education-and-reference",
+    "subcategory": [
+      "Science",
+      "Applied Science",
+      "Computing",
+      "Machine Learning"
+    ],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitHub"
+    ],
+    "sourceCodeUrls": [
+      "https://github.com/poloclub/transformer-explainer"
+    ],
+    "createdAt": "2026-10-21T02:42:17.652Z"
+  },
+  {
+    "id": "1896560045",
+    "title": "Transformers, the tech behind LLMs | Deep Learn... | 3Blue1Brown",
+    "url": "https://www.3blue1brown.com/lessons/gpt/",
+    "description": "A visual introduction to transformers. This chapter focuses on the overall structure, and word embeddings",
+    "domain": "www.3blue1brown.com",
+    "cover": "https://www.3blue1brown.com/share.jpg",
+    "favorite": false,
+    "category": "education-and-reference",
+    "subcategory": [
+      "Science",
+      "Applied Science",
+      "Computing",
+      "Machine Learning"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-21T02:49:18.475Z"
   },
   {
     "id": "400817892",
@@ -191189,6 +191728,23 @@
     "createdAt": "2022-03-15T00:58:47.174Z"
   },
   {
+    "id": "1898253573",
+    "title": "FileOctopus — Finder, but more thoughtful",
+    "url": "https://www.fileoctopus.com/",
+    "description": "A native file manager for Mac that works the way Finder does and takes more care with everyday file work.",
+    "domain": "www.fileoctopus.com",
+    "cover": "https://www.fileoctopus.com/assets/social-preview.png",
+    "favorite": false,
+    "category": "file-management",
+    "subcategory": [
+      "File Manager",
+      "File Manager GUI"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-22T13:34:35.969Z"
+  },
+  {
     "id": "570601857",
     "title": "FilePizza - Your files, delivered.",
     "url": "https://file.pizza/",
@@ -195137,6 +195693,23 @@
     "createdAt": "2022-06-02T02:02:42.321Z"
   },
   {
+    "id": "494089877",
+    "title": "Mountain Duck",
+    "url": "https://mountainduck.io/",
+    "description": "Cyberduck for mounting volumes in the file explorer. Available for Mac and Windows.",
+    "domain": "mountainduck.io",
+    "cover": "https://cdn.mountainduck.io/images/mountainduck_y_512.png",
+    "favorite": false,
+    "category": "file-management",
+    "subcategory": [
+      "Cloud Storage",
+      "Client Cloud Storage"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2022-12-31T02:27:26.630Z"
+  },
+  {
     "id": "287101035",
     "title": "Mp3tag - Audio tag editor",
     "url": "https://www.mp3tag.de/en/",
@@ -195900,6 +196473,26 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2022-03-18T00:15:22.208Z"
+  },
+  {
+    "id": "373147404",
+    "title": "OnionShare",
+    "url": "https://onionshare.org/",
+    "description": null,
+    "domain": "onionshare.org",
+    "cover": "https://rdl.ink/render/https%3A%2F%2Fonionshare.org%2F",
+    "favorite": true,
+    "category": "file-management",
+    "subcategory": [
+      "File Transfer Tool"
+    ],
+    "tags": [
+      "❤️",
+      "Type: Open-Source",
+      "Device: Desktop"
+    ],
+    "sourceCodeUrls": [],
+    "createdAt": "2022-03-08T20:46:16.972Z"
   },
   {
     "id": "287101617",
@@ -202534,6 +203127,23 @@
     "createdAt": "2019-10-28T17:13:11.000Z"
   },
   {
+    "id": "1899578907",
+    "title": "ANANTA Official Website | Global Release on January 15th, 2027",
+    "url": "https://www.anantagame.com/",
+    "description": "Welcome to ANANTA, an Urban Open World RPG, global release on January 15th, 2027. Join forces against the threats lurking in the shadows, or live it up and take in the nightlife under the neon glow. The choice is yours.",
+    "domain": "www.anantagame.com",
+    "cover": "https://www.anantagame.com/images/20260826/1787736675492_e54dd6c065.jpg",
+    "favorite": false,
+    "category": "gaming",
+    "subcategory": [
+      "Games",
+      "RPG"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-23T16:16:32.213Z"
+  },
+  {
     "id": "992054214",
     "title": "Antichear expert - 腾讯游戏安全",
     "url": "https://m.anticheatexpert.com/",
@@ -202671,6 +203281,23 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2021-06-23T23:36:04.000Z"
+  },
+  {
+    "id": "1899590084",
+    "title": "Arma Reforger on Steam",
+    "url": "https://store.steampowered.com/app/1874880/Arma_Reforger/",
+    "description": "Engage in massive combined arms battles, create and curate combat missions in real time, and shape your experience with endless community mods. Deploy into the Cold War and experience the most authentic and immersive military sandbox ever created.",
+    "domain": "store.steampowered.com",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1874880/capsule_616x353.jpg?t=1789052055",
+    "favorite": false,
+    "category": "gaming",
+    "subcategory": [
+      "Games",
+      "Simulation"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-23T16:23:25.526Z"
   },
   {
     "id": "344128455",
@@ -204130,6 +204757,29 @@
     "createdAt": "2023-01-31T21:26:39.548Z"
   },
   {
+    "id": "1731229972",
+    "title": "Conway's Game of Life - Google Play Store",
+    "url": "https://play.google.com/store/apps/details?id=com.jobik.gameoflife",
+    "description": "Conway's Game of Life is a mathematical simulation of cellular automata",
+    "domain": "play.google.com",
+    "cover": "https://play-lh.googleusercontent.com/5tDSmra1CsmmlCoSTJa-WnXX31NXVNHZntOf2homlr3wVxyhJAEDpErJ6C9YYWvIqsE",
+    "favorite": false,
+    "category": "gaming",
+    "subcategory": [
+      "Games",
+      "Simulation"
+    ],
+    "tags": [
+      "Monetization: Free",
+      "Type: Open-Source",
+      "OS Compatibility: Android"
+    ],
+    "sourceCodeUrls": [
+      "https://github.com/Efimj/GameOfLife"
+    ],
+    "createdAt": "2026-05-24T11:32:54.462Z"
+  },
+  {
     "id": "287108868",
     "title": "Cookie Clicker",
     "url": "https://orteil.dashnet.org/cookieclicker/",
@@ -205534,6 +206184,23 @@
     "createdAt": "2024-08-03T00:14:45.874Z"
   },
   {
+    "id": "1899552796",
+    "title": "Factorio",
+    "url": "https://www.factorio.com/",
+    "description": null,
+    "domain": "www.factorio.com",
+    "cover": "https://factorio.com/static/img/factorio-wheel.png",
+    "favorite": false,
+    "category": "gaming",
+    "subcategory": [
+      "Games",
+      "Strategy"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-23T16:08:44.600Z"
+  },
+  {
     "id": "442024816",
     "title": "Fake Update Prank",
     "url": "https://fakeupdate.net/",
@@ -206154,6 +206821,23 @@
     "createdAt": "2023-09-21T13:19:43.100Z"
   },
   {
+    "id": "1731223495",
+    "title": "Game of Life 3D",
+    "url": "https://creetah.com/game-of-life",
+    "description": null,
+    "domain": "creetah.com",
+    "cover": "https://rdl.ink/render/https%3A%2F%2Fcreetah.com%2Fgame-of-life",
+    "favorite": false,
+    "category": "gaming",
+    "subcategory": [
+      "Games",
+      "Simulation"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-05-24T11:20:20.605Z"
+  },
+  {
     "id": "287108912",
     "title": "GameBanana",
     "url": "https://gamebanana.com/",
@@ -206379,6 +207063,23 @@
     ],
     "sourceCodeUrls": [],
     "createdAt": "2023-12-29T18:26:53.195Z"
+  },
+  {
+    "id": "1899552947",
+    "title": "Garrys Mod",
+    "url": "https://gmod.facepunch.com/",
+    "description": "A physics based sandbox game built on a modified version of Valve’s Source Engine",
+    "domain": "gmod.facepunch.com",
+    "cover": "https://files.facepunch.com/lewis/1b1511b1/gmod-meta.jpg",
+    "favorite": false,
+    "category": "gaming",
+    "subcategory": [
+      "Games",
+      "Simulation"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-23T16:09:08.452Z"
   },
   {
     "id": "287108952",
@@ -207666,6 +208367,23 @@
     "createdAt": "2021-01-07T19:42:26.000Z"
   },
   {
+    "id": "1899553770",
+    "title": "Juno: New Origins",
+    "url": "https://www.simplerockets.com/",
+    "description": "PC and mobile game about building rockets",
+    "domain": "www.simplerockets.com",
+    "cover": "https://jundroo.blob.core.windows.net/simplerockets/Content/Carousel-A-70.jpg",
+    "favorite": false,
+    "category": "gaming",
+    "subcategory": [
+      "Games",
+      "Simulation"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-23T16:11:09.997Z"
+  },
+  {
     "id": "1000453720",
     "title": "JUST DANCE NOW",
     "url": "https://justdancenow.com/",
@@ -207754,6 +208472,23 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2024-01-28T16:15:49.995Z"
+  },
+  {
+    "id": "1899553439",
+    "title": "Kerbal Space Program",
+    "url": "https://www.kerbalspaceprogram.com/",
+    "description": null,
+    "domain": "www.kerbalspaceprogram.com",
+    "cover": "https://www.kerbalspaceprogram.com/keyart.webp",
+    "favorite": false,
+    "category": "gaming",
+    "subcategory": [
+      "Games",
+      "Simulation"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-23T16:10:20.046Z"
   },
   {
     "id": "476829398",
@@ -208141,6 +208876,23 @@
     ],
     "sourceCodeUrls": [],
     "createdAt": "2020-12-28T20:49:44.000Z"
+  },
+  {
+    "id": "1899555254",
+    "title": "Light No Fire – a fantasy game from the makers of No Man’s Sky",
+    "url": "https://lightnofire.com/",
+    "description": "From the makers of No Man’s Sky, Light No Fire is a game about adventure, building, survival and exploration together. Set on a fantasy planet the size of Earth.",
+    "domain": "lightnofire.com",
+    "cover": "https://lightnofire.com/media/2jhj0j5k/og-image-1200x628.jpg",
+    "favorite": false,
+    "category": "gaming",
+    "subcategory": [
+      "Games",
+      "Simulation"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-23T16:14:12.394Z"
   },
   {
     "id": "1324742116",
@@ -209562,6 +210314,23 @@
     "createdAt": "2025-06-17T02:26:06.604Z"
   },
   {
+    "id": "1899553165",
+    "title": "Noita - A roguelite where everything can be destroyed.",
+    "url": "https://noitagame.com/",
+    "description": "An action roguelite where every pixel is interactive and destructible",
+    "domain": "noitagame.com",
+    "cover": "https://noitagame.com/images/facebook-card.jpg",
+    "favorite": false,
+    "category": "gaming",
+    "subcategory": [
+      "Games",
+      "Action"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-23T16:09:44.990Z"
+  },
+  {
     "id": "503943562",
     "title": "NVIDIA GeForce Experience",
     "url": "https://www.nvidia.com/es-es/geforce/geforce-experience/",
@@ -210185,6 +210954,42 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2025-07-10T01:26:07.458Z"
+  },
+  {
+    "id": "1895629068",
+    "title": "Parking Simulator Guide — How to Park a Car: the Reference-Point Method",
+    "url": "https://parking-simulator.com/guide/",
+    "description": "Back-in, parallel and front-in parking taught the way Japanese driving schools teach it — three steering positions, stop-set-move, and fixed reference points you can trust.",
+    "domain": "parking-simulator.com",
+    "cover": "https://rdl.ink/render/https%3A%2F%2Fparking-simulator.com%2Fguide%2F",
+    "favorite": false,
+    "category": "gaming",
+    "subcategory": [
+      "Games",
+      "Simulation"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-20T14:19:14.105Z"
+  },
+  {
+    "id": "1895910914",
+    "title": "Parking Simulator Online | ParkLab — Learn Parking Academy",
+    "url": "https://learnparking.academy/",
+    "description": "Practice parking online with ParkLab, a browser-based 3D parking simulator. Working mirrors, demonstrations and replay. Start with five free scenarios.",
+    "domain": "learnparking.academy",
+    "cover": "https://learnparking.academy/previews/cockpit-current-20261009.jpg",
+    "favorite": true,
+    "category": "gaming",
+    "subcategory": [
+      "Games",
+      "Simulation"
+    ],
+    "tags": [
+      "❤️"
+    ],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-20T16:55:13.394Z"
   },
   {
     "id": "791739161",
@@ -211936,6 +212741,28 @@
     "createdAt": "2020-02-06T16:26:42.000Z"
   },
   {
+    "id": "1902036507",
+    "title": "Slop New York",
+    "url": "https://mrdoob.github.io/slop-newyork/",
+    "description": "Photorealistic GTA-style 3D Slop New York simulation built with Three.js WebGPURenderer and TSL shaders featuring complete Manhattan street map (125th St to Battery Park), third-person navigation (Person, Car, Cyclist, Helicopter), and 11 cinematic cameras at 60 FPS.",
+    "domain": "mrdoob.github.io",
+    "cover": "https://rdl.ink/render/https%3A%2F%2Fmrdoob.github.io%2Fslop-newyork%2F",
+    "favorite": false,
+    "category": "gaming",
+    "subcategory": [
+      "Games",
+      "Simulation"
+    ],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitHub"
+    ],
+    "sourceCodeUrls": [
+      "https://github.com/mrdoob/slop-newyork/"
+    ],
+    "createdAt": "2026-10-25T17:25:00.535Z"
+  },
+  {
     "id": "1572772887",
     "title": "Slope Plus by coweggs",
     "url": "https://coweggs.itch.io/slope-plus",
@@ -212194,6 +213021,23 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2021-01-27T01:05:35.000Z"
+  },
+  {
+    "id": "1899554422",
+    "title": "Stationeers Community Wiki",
+    "url": "https://stationeers-wiki.com/Main_Page",
+    "description": null,
+    "domain": "stationeers-wiki.com",
+    "cover": "https://stationeers-wiki.com/images/thumb/5/59/GCOTU-IntoQ22024.jpg/640px-GCOTU-IntoQ22024.jpg",
+    "favorite": false,
+    "category": "gaming",
+    "subcategory": [
+      "Gaming Utilities",
+      "Games Guides"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-23T16:12:46.515Z"
   },
   {
     "id": "417872643",
@@ -212717,6 +213561,23 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2023-06-27T07:29:49.327Z"
+  },
+  {
+    "id": "1899619679",
+    "title": "Team Fortress 2",
+    "url": "https://www.teamfortress.com/",
+    "description": null,
+    "domain": "www.teamfortress.com",
+    "cover": "https://steamcdn-a.akamaihd.net/apps/tf2/blog/images/blog_chars_base3.jpg",
+    "favorite": false,
+    "category": "gaming",
+    "subcategory": [
+      "Games",
+      "Action"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-23T17:00:47.791Z"
   },
   {
     "id": "499571515",
@@ -214800,6 +215661,23 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2021-12-06T21:03:34.152Z"
+  },
+  {
+    "id": "1899553093",
+    "title": "Wreckfest – Official Game Site",
+    "url": "https://wreckfest.thqnordic.com/",
+    "description": "Break the rules and take full-contact racing to the limit with Wreckfest! Out now!",
+    "domain": "wreckfest.thqnordic.com",
+    "cover": "https://wreckfest.thqnordic.com/game-sites/wreckfest/editions/standard-edition.png",
+    "favorite": false,
+    "category": "gaming",
+    "subcategory": [
+      "Games",
+      "Racing"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-23T16:09:32.706Z"
   },
   {
     "id": "331789959",
@@ -231680,8 +232558,7 @@
     "category": "multimedia",
     "subcategory": [
       "Video & Movies",
-      "Media Server",
-      "Media Center"
+      "Casting & Streaming"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -231714,9 +232591,8 @@
     "favorite": false,
     "category": "multimedia",
     "subcategory": [
-      "Video & Movies",
-      "Media Server",
-      "Media Center"
+      "Audio & Music",
+      "Music Server"
     ],
     "tags": [
       "Page: GitHub"
@@ -231936,8 +232812,7 @@
     "category": "multimedia",
     "subcategory": [
       "Video & Movies",
-      "Media Server",
-      "Media Center"
+      "Casting & Streaming"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -232169,9 +233044,8 @@
     "favorite": false,
     "category": "multimedia",
     "subcategory": [
-      "Video & Movies",
-      "Media Server",
-      "Media Center"
+      "Audio & Music",
+      "Music Server"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -232800,8 +233674,8 @@
     "favorite": false,
     "category": "multimedia",
     "subcategory": [
-      "Video & Movies",
-      "Media Server"
+      "Audio & Music",
+      "Music Server"
     ],
     "tags": [
       "Web server: Self-Host"
@@ -233041,6 +233915,23 @@
     ],
     "sourceCodeUrls": [],
     "createdAt": "2022-07-06T16:49:24.437Z"
+  },
+  {
+    "id": "1903426016",
+    "title": "Atlas for Windows",
+    "url": "https://atlas.hls.lol/",
+    "description": "Atlas, a fast native Windows app for movies and shows. Download free.",
+    "domain": "atlas.hls.lol",
+    "cover": "https://atlas.hls.lol/screenshots/mainmenu.png",
+    "favorite": false,
+    "category": "multimedia",
+    "subcategory": [
+      "Video & Movies",
+      "Video Client"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-26T22:09:52.438Z"
   },
   {
     "id": "339891421",
@@ -233961,6 +234852,29 @@
     "createdAt": "2026-01-27T19:51:39.980Z"
   },
   {
+    "id": "1898521370",
+    "title": "Banana Slides 蕉幻 — 让 PPT 创作，回归直觉",
+    "url": "https://bananaslides.online/",
+    "description": "用自然语言描述想法，让 AI 生成完整演示文稿。支持资料解析、自然语言修改与 PPTX、PDF 导出，立即体验 Banana Slides。",
+    "domain": "bananaslides.online",
+    "cover": "https://bananaslides.online/social/cover.png",
+    "favorite": false,
+    "category": "multimedia",
+    "subcategory": [
+      "Photos & Graphics",
+      "Design Software",
+      "Presentation Program"
+    ],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitHub"
+    ],
+    "sourceCodeUrls": [
+      "https://github.com/Anionex/banana-slides"
+    ],
+    "createdAt": "2026-10-22T18:34:04.763Z"
+  },
+  {
     "id": "1562654826",
     "title": "bananaofhappiness/soundscope: A TUI app for analyzing audio data such as frequencies and loudness (LUFS)",
     "url": "https://github.com/bananaofhappiness/soundscope",
@@ -234456,6 +235370,29 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2026-08-08T11:06:47.569Z"
+  },
+  {
+    "id": "1898558513",
+    "title": "BitChord - Aesthetic Music Streaming",
+    "url": "https://bitchord.kushagrasingh.in/",
+    "description": "The open-source YouTube Music client for Android. Beat-matched Automix, character-synced lyrics, Discord Rich Presence and a monthly Replay of everything you played. Free, GPLv3, no ads, no tracking.",
+    "domain": "bitchord.kushagrasingh.in",
+    "cover": "http://localhost:3100/opengraph-image?8ba6c1b9f822c82e",
+    "favorite": false,
+    "category": "multimedia",
+    "subcategory": [
+      "Audio & Music",
+      "Audio Player",
+      "Music Client"
+    ],
+    "tags": [
+      "Source Code: GitHub",
+      "Type: Open-Source"
+    ],
+    "sourceCodeUrls": [
+      "https://github.com/kushagrasinghx/BitChord"
+    ],
+    "createdAt": "2026-10-22T19:17:12.338Z"
   },
   {
     "id": "371127170",
@@ -235709,24 +236646,6 @@
     ],
     "sourceCodeUrls": [],
     "createdAt": "2021-12-06T02:22:58.310Z"
-  },
-  {
-    "id": "382558474",
-    "title": "Certbot - EFF",
-    "url": "https://certbot.eff.org/",
-    "description": "Tagline",
-    "domain": "certbot.eff.org",
-    "cover": "https://rdl.ink/render/https%3A%2F%2Fcertbot.eff.org%2F",
-    "favorite": false,
-    "category": "multimedia",
-    "subcategory": [
-      "Video & Movies",
-      "Media Server",
-      "Media Center"
-    ],
-    "tags": [],
-    "sourceCodeUrls": [],
-    "createdAt": "2022-04-06T22:29:59.688Z"
   },
   {
     "id": "930638293",
@@ -237473,9 +238392,8 @@
     "favorite": false,
     "category": "multimedia",
     "subcategory": [
-      "Video & Movies",
-      "Media Server",
-      "Media Center"
+      "Audio & Music",
+      "Music Server"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -237519,26 +238437,6 @@
     ],
     "sourceCodeUrls": [],
     "createdAt": "2019-08-31T21:27:22.000Z"
-  },
-  {
-    "id": "405808422",
-    "title": "Dashy.to",
-    "url": "https://dashy.to/",
-    "description": "Description will go into a meta tag in head /",
-    "domain": "dashy.to",
-    "cover": "https://dashy.to/img/homepage-assets/status-check-demo.gif",
-    "favorite": false,
-    "category": "multimedia",
-    "subcategory": [
-      "Video & Movies",
-      "Media Server",
-      "Media Center"
-    ],
-    "tags": [
-      "Web server: Self-Host"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2022-06-15T17:37:04.771Z"
   },
   {
     "id": "651677971",
@@ -241434,6 +242332,29 @@
     "createdAt": "2026-07-01T10:03:49.916Z"
   },
   {
+    "id": "1898560019",
+    "title": "FluidVoice — Local Voice-to-Text for Mac, Windows & iPhone",
+    "url": "https://fluidvoice.com/",
+    "description": "Speak naturally. Write instantly. Free, open source voice-to-text with on-device AI, adaptive tone, and zero data leaving your Mac.",
+    "domain": "fluidvoice.com",
+    "cover": "https://fluidvoice.com/fluid/opengraph-image?66858618fd7e01f8",
+    "favorite": false,
+    "category": "multimedia",
+    "subcategory": [
+      "Audio & Music",
+      "Audio Computing",
+      "Speech Recognition"
+    ],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitHub"
+    ],
+    "sourceCodeUrls": [
+      "https://github.com/altic-dev/FluidVoice"
+    ],
+    "createdAt": "2026-10-22T19:19:14.145Z"
+  },
+  {
     "id": "287103970",
     "title": "Flutetunes",
     "url": "https://www.flutetunes.com/",
@@ -241450,6 +242371,23 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2021-04-24T20:30:28.000Z"
+  },
+  {
+    "id": "1903429654",
+    "title": "Fly Stream - Free Movies & TV, No Login",
+    "url": "https://flystream.net/",
+    "description": "Watch movies & TV free at Fly Stream - no login. Continue Watching resumes exactly where you left off, with subtitles, audio tracks & fast streaming.",
+    "domain": "flystream.net",
+    "cover": "https://flystream.net/og-image.png?v=20261011",
+    "favorite": false,
+    "category": "multimedia",
+    "subcategory": [
+      "Video & Movies",
+      "Video Client"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-26T22:11:11.486Z"
   },
   {
     "id": "1278574468",
@@ -241486,6 +242424,29 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2021-03-28T22:23:43.000Z"
+  },
+  {
+    "id": "1898590020",
+    "title": "fooyin | A customisable music player",
+    "url": "https://fooyin.org/",
+    "description": "A customisable music player",
+    "domain": "fooyin.org",
+    "cover": "https://fooyin.org/assets/images/home-hero-dark.webp",
+    "favorite": false,
+    "category": "multimedia",
+    "subcategory": [
+      "Audio & Music",
+      "Audio Player",
+      "Music Player"
+    ],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitHub"
+    ],
+    "sourceCodeUrls": [
+      "https://github.com/ludouzi/fooyin"
+    ],
+    "createdAt": "2026-10-22T19:25:29.457Z"
   },
   {
     "id": "287103817",
@@ -242192,7 +243153,6 @@
     "category": "multimedia",
     "subcategory": [
       "Video & Movies",
-      "Media Server",
       "Media Center"
     ],
     "tags": [
@@ -244735,8 +245695,7 @@
     "category": "multimedia",
     "subcategory": [
       "Video & Movies",
-      "Media Server",
-      "Media Center"
+      "Video Library Manager"
     ],
     "tags": [
       "Page: GitHub"
@@ -244782,6 +245741,29 @@
     ],
     "sourceCodeUrls": [],
     "createdAt": "2025-01-16T23:29:59.124Z"
+  },
+  {
+    "id": "1898522933",
+    "title": "HyperFrames Studio",
+    "url": "https://www.hyperframes.dev/",
+    "description": "The video editor built for agents. Built by the team who open sourced HyperFrames.",
+    "domain": "www.hyperframes.dev",
+    "cover": "https://hyperframes.dev/og-studio-redesign-2026-10.png",
+    "favorite": false,
+    "category": "multimedia",
+    "subcategory": [
+      "Photos & Graphics",
+      "2D CG",
+      "2D Animation"
+    ],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitHub"
+    ],
+    "sourceCodeUrls": [
+      "https://github.com/heygen-com/hyperframes"
+    ],
+    "createdAt": "2026-10-22T18:37:40.606Z"
   },
   {
     "id": "1699047516",
@@ -246328,8 +247310,7 @@
     "category": "multimedia",
     "subcategory": [
       "Video & Movies",
-      "Media Server",
-      "Media Center"
+      "Media Server"
     ],
     "tags": [
       "❤️",
@@ -246352,7 +247333,6 @@
     "category": "multimedia",
     "subcategory": [
       "Video & Movies",
-      "Media Server",
       "Media Center"
     ],
     "tags": [],
@@ -246616,6 +247596,23 @@
     ],
     "sourceCodeUrls": [],
     "createdAt": "2022-08-28T00:13:20.566Z"
+  },
+  {
+    "id": "1898558228",
+    "title": "jqssun/android-airplay-server: First open-source AirPlay receiver implementation for Android with mirroring, video and audio support",
+    "url": "https://github.com/jqssun/android-airplay-server",
+    "description": "First open-source AirPlay receiver implementation for Android with mirroring, video and audio support - jqssun/android-airplay-server",
+    "domain": "github.com",
+    "cover": "https://opengraph.githubassets.com/ba8ff00ed389de8724882d621435481cb0f2228c0403a45ff23d0a6e23a3d947/jqssun/android-airplay-server",
+    "favorite": false,
+    "category": "multimedia",
+    "subcategory": [
+      "Video & Movies",
+      "Casting & Streaming"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-22T19:16:34.136Z"
   },
   {
     "id": "672516267",
@@ -247474,7 +248471,9 @@
       "Audio Editor",
       "DAW (Digital Audio Workstation)"
     ],
-    "tags": [],
+    "tags": [
+      "OS Compatibility: Cross-platform"
+    ],
     "sourceCodeUrls": [],
     "createdAt": "2026-02-10T23:11:58.332Z"
   },
@@ -247723,7 +248722,6 @@
     "category": "multimedia",
     "subcategory": [
       "Video & Movies",
-      "Media Server",
       "Media Center"
     ],
     "tags": [
@@ -248256,8 +249254,7 @@
     "category": "multimedia",
     "subcategory": [
       "Video & Movies",
-      "Media Server",
-      "Media Center"
+      "Video Client"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -249230,6 +250227,27 @@
     "createdAt": "2022-06-28T18:07:59.434Z"
   },
   {
+    "id": "1898535301",
+    "title": "LumoraPlayer/Lumora: Native Kotlin IPTV & media client for Android, Android TV, Fire TV and Android Auto (parked). Xtream Codes, M3U, Stalker Portal, Jellyfin and Plex merged into one D-pad UI, extended by plugins and Stremio addons. Views/XML, no Compose.",
+    "url": "https://github.com/LumoraPlayer/Lumora/",
+    "description": "Native Kotlin IPTV & media client for Android, Android TV, Fire TV and Android Auto (parked). Xtream Codes, M3U, Stalker Portal, Jellyfin and Plex merged into one D-pad UI, extended by plugins and Stremio addons. Views/XML, no Compose",
+    "domain": "github.com",
+    "cover": "https://github.com/LumoraPlayer/Lumora/raw/main/docs/screenshots/live-tv.png",
+    "favorite": false,
+    "category": "multimedia",
+    "subcategory": [
+      "Video & Movies",
+      "Video Client",
+      "IPTV Player"
+    ],
+    "tags": [
+      "Source Code: GitHub",
+      "Type: Open-Source"
+    ],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-22T18:48:47.375Z"
+  },
+  {
     "id": "896663166",
     "title": "Luna Modeler: A Powerful Database Design Tool",
     "url": "https://www.datensen.com/",
@@ -249410,7 +250428,6 @@
     "category": "multimedia",
     "subcategory": [
       "Video & Movies",
-      "Media Server",
       "Media Center"
     ],
     "tags": [],
@@ -249473,26 +250490,6 @@
     ],
     "sourceCodeUrls": [],
     "createdAt": "2022-03-08T19:21:46.565Z"
-  },
-  {
-    "id": "574760507",
-    "title": "MagicMirror",
-    "url": "https://magicmirror.builders/",
-    "description": null,
-    "domain": "magicmirror.builders",
-    "cover": "https://magicmirror.builders/img/magpi-best-watermark-custom.png",
-    "favorite": false,
-    "category": "multimedia",
-    "subcategory": [
-      "Video & Movies",
-      "Media Server",
-      "Media Center"
-    ],
-    "tags": [
-      "Type: Open-Source"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2023-05-18T01:39:35.810Z"
   },
   {
     "id": "357017676",
@@ -250287,7 +251284,6 @@
     "category": "multimedia",
     "subcategory": [
       "Video & Movies",
-      "Media Server",
       "Media Center"
     ],
     "tags": [],
@@ -251983,24 +252979,6 @@
     "createdAt": "2025-09-29T17:08:22.197Z"
   },
   {
-    "id": "494089877",
-    "title": "Mountain Duck",
-    "url": "https://mountainduck.io/",
-    "description": "Cyberduck for mounting volumes in the file explorer. Available for Mac and Windows.",
-    "domain": "mountainduck.io",
-    "cover": "https://cdn.mountainduck.io/images/mountainduck_y_512.png",
-    "favorite": false,
-    "category": "multimedia",
-    "subcategory": [
-      "Video & Movies",
-      "Media Server",
-      "Media Center"
-    ],
-    "tags": [],
-    "sourceCodeUrls": [],
-    "createdAt": "2022-12-31T02:27:26.630Z"
-  },
-  {
     "id": "371110813",
     "title": "Mouse Keyboard",
     "url": "https://www.bome.com/products/mousekeyboard",
@@ -253436,9 +254414,8 @@
     "favorite": true,
     "category": "multimedia",
     "subcategory": [
-      "Video & Movies",
-      "Media Server",
-      "Media Center"
+      "Audio & Music",
+      "Music Server"
     ],
     "tags": [
       "❤️",
@@ -253461,9 +254438,8 @@
     "favorite": false,
     "category": "multimedia",
     "subcategory": [
-      "Video & Movies",
-      "Media Server",
-      "Media Center"
+      "Audio & Music",
+      "Music Server"
     ],
     "tags": [
       "Source Code: GitHub",
@@ -253594,24 +254570,6 @@
     "createdAt": "2023-11-13T00:06:05.431Z"
   },
   {
-    "id": "695803419",
-    "title": "Netflix Media Center",
-    "url": "https://media.netflix.com/en/",
-    "description": null,
-    "domain": "media.netflix.com",
-    "cover": null,
-    "favorite": false,
-    "category": "multimedia",
-    "subcategory": [
-      "Video & Movies",
-      "Media Server",
-      "Media Center"
-    ],
-    "tags": [],
-    "sourceCodeUrls": [],
-    "createdAt": "2023-12-16T13:47:26.994Z"
-  },
-  {
     "id": "1664814916",
     "title": "Neural Amp Modeler | Highly-accurate free and open-source amp modeling plugin",
     "url": "https://www.neuralampmodeler.com/",
@@ -253704,8 +254662,7 @@
     "category": "multimedia",
     "subcategory": [
       "Video & Movies",
-      "Media Server",
-      "Media Center"
+      "Media Server"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -254303,9 +255260,9 @@
     "favorite": false,
     "category": "multimedia",
     "subcategory": [
-      "Video & Movies",
-      "Media Server",
-      "Media Center"
+      "Audio & Music",
+      "Audio Player",
+      "Music Client"
     ],
     "tags": [
       "Source Code: GitHub",
@@ -254424,7 +255381,7 @@
     "category": "multimedia",
     "subcategory": [
       "Video & Movies",
-      "Media Server"
+      "Video Client"
     ],
     "tags": [
       "Type: Open-Source",
@@ -254763,27 +255720,6 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2024-07-08T14:18:33.040Z"
-  },
-  {
-    "id": "373147404",
-    "title": "OnionShare",
-    "url": "https://onionshare.org/",
-    "description": null,
-    "domain": "onionshare.org",
-    "cover": "https://rdl.ink/render/https%3A%2F%2Fonionshare.org%2F",
-    "favorite": true,
-    "category": "multimedia",
-    "subcategory": [
-      "Video & Movies",
-      "Media Server"
-    ],
-    "tags": [
-      "❤️",
-      "Type: Open-Source",
-      "Device: Desktop"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2022-03-08T20:46:16.972Z"
   },
   {
     "id": "413251449",
@@ -255681,7 +256617,6 @@
     "category": "multimedia",
     "subcategory": [
       "Video & Movies",
-      "Media Server",
       "Media Center"
     ],
     "tags": [
@@ -255805,9 +256740,8 @@
     "favorite": false,
     "category": "multimedia",
     "subcategory": [
-      "Video & Movies",
-      "Media Server",
-      "Media Center"
+      "Audio & Music",
+      "Music Server"
     ],
     "tags": [
       "Source Code: GitHub",
@@ -257875,9 +258809,8 @@
     "favorite": true,
     "category": "multimedia",
     "subcategory": [
-      "Video & Movies",
-      "Media Server",
-      "Media Center"
+      "Photos & Graphics",
+      "Gallery Photo Manager"
     ],
     "tags": [
       "❤️",
@@ -258735,6 +259668,30 @@
     ],
     "sourceCodeUrls": [],
     "createdAt": "2026-02-19T19:07:04.351Z"
+  },
+  {
+    "id": "1418327049",
+    "title": "PlayTorrio — Open-Source by Ayman",
+    "url": "https://playtorrio.xyz/",
+    "description": "Beautiful open-source torrent streaming with a built-in private local scraper and support for Real-Debrid, AllDebrid, TorBox, and Premiumize. Jackett optional for better results. Multiple qualities, subtitles, ultra-fast buffering.",
+    "domain": "playtorrio.xyz",
+    "cover": "https://rdl.ink/render/https%3A%2F%2Fplaytorrio.xyz%2F",
+    "favorite": true,
+    "category": "multimedia",
+    "subcategory": [
+      "Video & Movies",
+      "Video Client"
+    ],
+    "tags": [
+      "❤️",
+      "Type: Open-Source",
+      "OS Compatibility: web app",
+      "OS Compatibility: Cross-platform"
+    ],
+    "sourceCodeUrls": [
+      "https://github.com/ayman708-UX/PlayTorrioV2"
+    ],
+    "createdAt": "2025-11-02T00:44:02.249Z"
   },
   {
     "id": "580372862",
@@ -259750,24 +260707,6 @@
     "createdAt": "2020-09-27T21:24:53.000Z"
   },
   {
-    "id": "371867147",
-    "title": "pump.io",
-    "url": "http://pump.io/",
-    "description": null,
-    "domain": "pump.io",
-    "cover": "https://rdl.ink/render/http%3A%2F%2Fpump.io%2F",
-    "favorite": false,
-    "category": "multimedia",
-    "subcategory": [
-      "Video & Movies",
-      "Media Server",
-      "Media Center"
-    ],
-    "tags": [],
-    "sourceCodeUrls": [],
-    "createdAt": "2022-03-04T21:41:02.004Z"
-  },
-  {
     "id": "358075021",
     "title": "PureRef",
     "url": "https://www.pureref.com/",
@@ -260574,8 +261513,7 @@
     "category": "multimedia",
     "subcategory": [
       "Video & Movies",
-      "Media Server",
-      "Media Center"
+      "Media Server"
     ],
     "tags": [
       "Source Code: SourceForge"
@@ -261177,24 +262115,6 @@
       "https://github.com/resemble-ai"
     ],
     "createdAt": "2021-11-04T14:51:06.300Z"
-  },
-  {
-    "id": "378820785",
-    "title": "RESP.app",
-    "url": "https://resp.app/",
-    "description": "Cross-platform GUI for Redis ® : download for macOS, iPad, Windows and Linux.",
-    "domain": "resp.app",
-    "cover": "https://resp.app/static/img/v2/home-intro.jpg?v=2020",
-    "favorite": false,
-    "category": "multimedia",
-    "subcategory": [
-      "Video & Movies",
-      "Media Server",
-      "Media Center"
-    ],
-    "tags": [],
-    "sourceCodeUrls": [],
-    "createdAt": "2022-03-26T17:55:53.300Z"
   },
   {
     "id": "287102171",
@@ -262532,8 +263452,7 @@
     "category": "multimedia",
     "subcategory": [
       "Video & Movies",
-      "Media Server",
-      "Media Center"
+      "Media Server"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -265177,9 +266096,9 @@
     "favorite": false,
     "category": "multimedia",
     "subcategory": [
-      "Video & Movies",
-      "Media Server",
-      "Media Center"
+      "Audio & Music",
+      "Audio Player",
+      "Music Client"
     ],
     "tags": [
       "Source Code: GitHub",
@@ -265590,8 +266509,7 @@
     "category": "multimedia",
     "subcategory": [
       "Video & Movies",
-      "Media Server",
-      "Media Center"
+      "Media Server"
     ],
     "tags": [
       "Type: Open-Source"
@@ -265668,7 +266586,7 @@
     "category": "multimedia",
     "subcategory": [
       "Video & Movies",
-      "Media Server"
+      "Video Client"
     ],
     "tags": [
       "❤️",
@@ -266270,9 +267188,9 @@
     "favorite": false,
     "category": "multimedia",
     "subcategory": [
-      "Video & Movies",
-      "Media Server",
-      "Media Center"
+      "Audio & Music",
+      "Audio Player",
+      "Music Client"
     ],
     "tags": [
       "Type: Open-Source",
@@ -267575,7 +268493,6 @@
     "category": "multimedia",
     "subcategory": [
       "Video & Movies",
-      "Media Server",
       "Media Center"
     ],
     "tags": [],
@@ -269730,7 +270647,7 @@
     "category": "multimedia",
     "subcategory": [
       "Video & Movies",
-      "Media Server"
+      "Casting & Streaming"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -270224,9 +271141,9 @@
     "favorite": false,
     "category": "multimedia",
     "subcategory": [
-      "Video & Movies",
-      "Media Server",
-      "Media Center"
+      "Audio & Music",
+      "Audio Player",
+      "Music Client"
     ],
     "tags": [
       "Source Code: GitHub",
@@ -273083,23 +274000,6 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2022-11-12T02:27:25.588Z"
-  },
-  {
-    "id": "416562497",
-    "title": "ZeroTier – Global Area Networking",
-    "url": "https://www.zerotier.com/",
-    "description": null,
-    "domain": "www.zerotier.com",
-    "cover": "https://rdl.ink/render/https%3A%2F%2Fwww.zerotier.com%2F",
-    "favorite": false,
-    "category": "multimedia",
-    "subcategory": [
-      "Video & Movies",
-      "Media Server"
-    ],
-    "tags": [],
-    "sourceCodeUrls": [],
-    "createdAt": "2022-07-13T10:58:02.678Z"
   },
   {
     "id": "373390490",
@@ -320965,6 +321865,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Online Collaboration"
     ],
     "tags": [
@@ -321058,6 +321959,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Project Management Tool"
     ],
     "tags": [
@@ -321094,6 +321996,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Project Management Tool"
     ],
     "tags": [
@@ -321152,6 +322055,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Business Software",
       "Customer Relationship Management (CRM)"
     ],
     "tags": [],
@@ -321168,6 +322072,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Online Collaboration"
     ],
     "tags": [
@@ -321258,6 +322163,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Online Collaboration"
     ],
     "tags": [
@@ -321277,6 +322183,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Online Collaboration"
     ],
     "tags": [
@@ -321558,6 +322465,7 @@
     "favorite": true,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Project Management Tool"
     ],
     "tags": [
@@ -321602,6 +322510,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Project Management Tool"
     ],
     "tags": [
@@ -321708,6 +322617,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Online Collaboration"
     ],
     "tags": [
@@ -321845,6 +322755,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Business Software",
       "Customer Relationship Management (CRM)"
     ],
     "tags": [
@@ -321879,6 +322790,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Online Collaboration"
     ],
     "tags": [
@@ -321898,6 +322810,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Project Management Tool"
     ],
     "tags": [
@@ -321952,6 +322865,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Business Software",
       "Email Marketing Services"
     ],
     "tags": [],
@@ -322221,6 +323135,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Online Collaboration"
     ],
     "tags": [
@@ -322291,6 +323206,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Business Software",
       "Survey or Poll"
     ],
     "tags": [
@@ -322310,6 +323226,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Online Collaboration"
     ],
     "tags": [
@@ -322403,6 +323320,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Project Management Tool"
     ],
     "tags": [
@@ -322562,6 +323480,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Project Management Tool"
     ],
     "tags": [
@@ -322639,6 +323558,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Business Software",
       "Email Marketing Services"
     ],
     "tags": [
@@ -322657,6 +323577,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Online Collaboration"
     ],
     "tags": [
@@ -322735,6 +323656,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Project Management Tool"
     ],
     "tags": [
@@ -323485,6 +324407,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Business Software",
       "Customer Relationship Management (CRM)"
     ],
     "tags": [],
@@ -323595,6 +324518,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Project Management Tool"
     ],
     "tags": [
@@ -323757,6 +324681,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Online Collaboration"
     ],
     "tags": [
@@ -323861,6 +324786,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Project Management Tool"
     ],
     "tags": [
@@ -323913,6 +324839,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Project Management Tool"
     ],
     "tags": [
@@ -323931,6 +324858,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Online Collaboration"
     ],
     "tags": [
@@ -323950,6 +324878,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Online Collaboration"
     ],
     "tags": [
@@ -324081,6 +325010,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Business Software",
       "ERP (Enterprise Resource Planning)"
     ],
     "tags": [
@@ -324175,6 +325105,7 @@
     "favorite": true,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Online Collaboration"
     ],
     "tags": [
@@ -324211,6 +325142,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Business Software",
       "Survey or Poll"
     ],
     "tags": [
@@ -324266,6 +325198,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Online Collaboration"
     ],
     "tags": [
@@ -324549,6 +325482,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Business Software",
       "Survey or Poll"
     ],
     "tags": [
@@ -324691,6 +325625,28 @@
     "createdAt": "2021-07-27T15:55:20.334Z"
   },
   {
+    "id": "1898519048",
+    "title": "DeskcommCRM — sua operação comercial numa mesa só",
+    "url": "https://www.deskcomm.com.br/",
+    "description": "Agentes de IA atendem no WhatsApp, qualificam o lead e movem o funil — com tudo registrado e auditável. No seu servidor, sem mensalidade por usuário. Open source, licença MIT.",
+    "domain": "www.deskcomm.com.br",
+    "cover": "https://www.deskcomm.com.br/_next/image?url=%2Fimg%2Fmesa-01-tampo.png&w=1920&q=75&dpl=dpl_HEbYwdEaCFEAPXQaQombGT5YTHRs",
+    "favorite": false,
+    "category": "office-and-productivity",
+    "subcategory": [
+      "Business Software",
+      "Customer Relationship Management (CRM)"
+    ],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitHub"
+    ],
+    "sourceCodeUrls": [
+      "https://github.com/melgarafael/DeskcommCRM"
+    ],
+    "createdAt": "2026-10-22T18:31:31.061Z"
+  },
+  {
     "id": "287100286",
     "title": "DeskTime",
     "url": "https://desktime.com/",
@@ -324735,6 +325691,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Business Software",
       "Customer Relationship Management (CRM)"
     ],
     "tags": [],
@@ -324751,6 +325708,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Project Management Tool"
     ],
     "tags": [
@@ -324823,6 +325781,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Whiteboard Editor"
     ],
     "tags": [
@@ -324898,6 +325857,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Online Collaboration"
     ],
     "tags": [
@@ -324917,6 +325877,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Online Collaboration"
     ],
     "tags": [
@@ -324935,6 +325896,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Business Software",
       "Customer Relationship Management (CRM)"
     ],
     "tags": [
@@ -324972,6 +325934,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Whiteboard Editor"
     ],
     "tags": [],
@@ -324988,6 +325951,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Whiteboard Editor"
     ],
     "tags": [],
@@ -325024,6 +325988,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Online Collaboration"
     ],
     "tags": [
@@ -325095,6 +326060,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Online Collaboration"
     ],
     "tags": [
@@ -325204,6 +326170,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Online Collaboration"
     ],
     "tags": [
@@ -325269,6 +326236,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Project Management Tool"
     ],
     "tags": [
@@ -325290,6 +326258,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Project Management Tool"
     ],
     "tags": [
@@ -325365,6 +326334,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Online Collaboration"
     ],
     "tags": [
@@ -325472,6 +326442,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Business Software",
       "ERP (Enterprise Resource Planning)"
     ],
     "tags": [],
@@ -325529,6 +326500,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Business Software",
       "Customer Relationship Management (CRM)"
     ],
     "tags": [
@@ -325696,6 +326668,7 @@
     "favorite": true,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Whiteboard Editor"
     ],
     "tags": [
@@ -325715,6 +326688,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Project Management Tool"
     ],
     "tags": [],
@@ -325750,6 +326724,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Business Software",
       "Customer Relationship Management (CRM)"
     ],
     "tags": [],
@@ -325766,6 +326741,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Business Software",
       "Customer Relationship Management (CRM)"
     ],
     "tags": [
@@ -325784,6 +326760,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Business Software",
       "Customer Relationship Management (CRM)"
     ],
     "tags": [],
@@ -325949,6 +326926,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Online Collaboration"
     ],
     "tags": [
@@ -326041,6 +327019,7 @@
     "favorite": true,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Online Collaboration"
     ],
     "tags": [
@@ -326156,6 +327135,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Online Collaboration"
     ],
     "tags": [
@@ -326210,6 +327190,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Project Management Tool"
     ],
     "tags": [
@@ -326567,6 +327548,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Online Collaboration"
     ],
     "tags": [
@@ -326621,6 +327603,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Business Software",
       "Survey or Poll"
     ],
     "tags": [
@@ -326639,6 +327622,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Business Software",
       "Email Marketing Services"
     ],
     "tags": [
@@ -326674,6 +327658,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Whiteboard Editor"
     ],
     "tags": [
@@ -326692,6 +327677,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Online Collaboration"
     ],
     "tags": [
@@ -326803,6 +327789,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Project Management Tool"
     ],
     "tags": [
@@ -326821,6 +327808,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Project Management Tool"
     ],
     "tags": [
@@ -326933,6 +327921,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Business Software",
       "Email Marketing Services"
     ],
     "tags": [],
@@ -327125,6 +328114,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Online Collaboration"
     ],
     "tags": [
@@ -327250,6 +328240,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Business Software",
       "ERP (Enterprise Resource Planning)"
     ],
     "tags": [],
@@ -327536,6 +328527,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Online Collaboration"
     ],
     "tags": [
@@ -327754,6 +328746,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Project Management Tool"
     ],
     "tags": [
@@ -327859,6 +328852,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Project Management Tool"
     ],
     "tags": [
@@ -327975,6 +328969,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Project Management Tool"
     ],
     "tags": [
@@ -328032,6 +329027,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Online Collaboration"
     ],
     "tags": [
@@ -328052,6 +329048,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Business Software",
       "Customer Relationship Management (CRM)"
     ],
     "tags": [],
@@ -328086,6 +329083,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Project Management Tool"
     ],
     "tags": [
@@ -328314,6 +329312,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Business Software",
       "Email Marketing Services"
     ],
     "tags": [
@@ -328483,6 +329482,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Whiteboard Editor"
     ],
     "tags": [
@@ -328650,6 +329650,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Online Collaboration"
     ],
     "tags": [],
@@ -328685,6 +329686,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Whiteboard Editor"
     ],
     "tags": [
@@ -329124,6 +330126,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Project Management Tool"
     ],
     "tags": [
@@ -329143,6 +330146,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Online Collaboration"
     ],
     "tags": [
@@ -329575,6 +330579,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Online Collaboration"
     ],
     "tags": [],
@@ -329683,6 +330688,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Online Collaboration"
     ],
     "tags": [
@@ -329738,6 +330744,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Business Software",
       "Customer Relationship Management (CRM)"
     ],
     "tags": [],
@@ -329754,6 +330761,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Online Collaboration"
     ],
     "tags": [
@@ -329896,6 +330904,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Project Management Tool"
     ],
     "tags": [
@@ -329932,6 +330941,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Business Software",
       "Customer Relationship Management (CRM)"
     ],
     "tags": [
@@ -330027,6 +331037,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Business Software",
       "Survey or Poll"
     ],
     "tags": [
@@ -330045,6 +331056,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Business Software",
       "Survey or Poll"
     ],
     "tags": [
@@ -330063,6 +331075,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Online Collaboration"
     ],
     "tags": [
@@ -330339,6 +331352,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Business Software",
       "Email Marketing Services"
     ],
     "tags": [
@@ -330401,6 +331415,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Project Management Tool"
     ],
     "tags": [
@@ -330493,6 +331508,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Online Collaboration"
     ],
     "tags": [
@@ -330512,6 +331528,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Online Collaboration"
     ],
     "tags": [
@@ -330571,6 +331588,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Online Collaboration"
     ],
     "tags": [
@@ -330631,6 +331649,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Project Management Tool"
     ],
     "tags": [
@@ -330665,6 +331684,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Business Software",
       "Email Marketing Services"
     ],
     "tags": [
@@ -330683,6 +331703,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Business Software",
       "Email Marketing Services"
     ],
     "tags": [
@@ -330701,6 +331722,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Business Software",
       "Email Marketing Services"
     ],
     "tags": [
@@ -330719,6 +331741,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Business Software",
       "Email Marketing Services"
     ],
     "tags": [
@@ -330908,6 +331931,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Online Collaboration"
     ],
     "tags": [
@@ -331237,6 +332261,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Business Software",
       "Customer Relationship Management (CRM)"
     ],
     "tags": [],
@@ -331396,6 +332421,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Project Management Tool"
     ],
     "tags": [
@@ -331561,6 +332587,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Online Collaboration"
     ],
     "tags": [
@@ -331598,6 +332625,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Online Collaboration"
     ],
     "tags": [
@@ -331699,6 +332727,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Business Software",
       "Customer Relationship Management (CRM)"
     ],
     "tags": [],
@@ -332621,6 +333650,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Online Collaboration"
     ],
     "tags": [
@@ -332640,6 +333670,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Online Collaboration"
     ],
     "tags": [
@@ -332754,6 +333785,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Online Collaboration"
     ],
     "tags": [
@@ -332930,6 +333962,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Whiteboard Editor"
     ],
     "tags": [
@@ -333097,6 +334130,7 @@
     "favorite": true,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Project Management Tool"
     ],
     "tags": [
@@ -333175,6 +334209,7 @@
     "favorite": true,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Online Collaboration"
     ],
     "tags": [
@@ -333292,6 +334327,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Business Software",
       "Customer Relationship Management (CRM)"
     ],
     "tags": [
@@ -333503,6 +334539,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Business Software",
       "Customer Relationship Management (CRM)"
     ],
     "tags": [],
@@ -333535,6 +334572,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Business Software",
       "Customer Relationship Management (CRM)"
     ],
     "tags": [
@@ -333754,6 +334792,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Whiteboard Editor"
     ],
     "tags": [
@@ -333772,6 +334811,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Project Management Tool"
     ],
     "tags": [
@@ -333792,6 +334832,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Business Software",
       "ERP (Enterprise Resource Planning)"
     ],
     "tags": [],
@@ -333887,6 +334928,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Project Management Tool"
     ],
     "tags": [
@@ -334129,6 +335171,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Whiteboard Editor"
     ],
     "tags": [
@@ -334147,6 +335190,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Online Collaboration"
     ],
     "tags": [
@@ -334288,6 +335332,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Online Collaboration"
     ],
     "tags": [
@@ -335048,6 +336093,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Business Software",
       "Customer Relationship Management (CRM)"
     ],
     "tags": [],
@@ -335083,6 +336129,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Online Collaboration"
     ],
     "tags": [
@@ -335174,6 +336221,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Project Management Tool"
     ],
     "tags": [
@@ -335233,6 +336281,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Project Management Tool"
     ],
     "tags": [
@@ -335389,6 +336438,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Online Collaboration"
     ],
     "tags": [
@@ -335459,6 +336509,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Business Software",
       "Survey or Poll"
     ],
     "tags": [
@@ -335554,6 +336605,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Online Collaboration"
     ],
     "tags": [
@@ -335610,6 +336662,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Business Software",
       "ERP (Enterprise Resource Planning)"
     ],
     "tags": [
@@ -335628,6 +336681,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Online Collaboration"
     ],
     "tags": [
@@ -335647,6 +336701,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Project Management Tool"
     ],
     "tags": [
@@ -335751,6 +336806,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Online Collaboration"
     ],
     "tags": [
@@ -335841,6 +336897,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Project Management Tool"
     ],
     "tags": [
@@ -335881,6 +336938,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Project Management Tool"
     ],
     "tags": [
@@ -335918,6 +336976,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Online Collaboration"
     ],
     "tags": [
@@ -336279,6 +337338,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Business Software",
       "Customer Relationship Management (CRM)"
     ],
     "tags": [],
@@ -336327,6 +337387,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Project Management Tool"
     ],
     "tags": [
@@ -336345,6 +337406,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Online Collaboration"
     ],
     "tags": [
@@ -336383,6 +337445,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Project Management Tool"
     ],
     "tags": [
@@ -336401,6 +337464,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Project Management Tool"
     ],
     "tags": [
@@ -336496,6 +337560,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Business Software",
       "Survey or Poll"
     ],
     "tags": [
@@ -336567,6 +337632,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Project Management Tool"
     ],
     "tags": [
@@ -336726,6 +337792,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Project Management Tool"
     ],
     "tags": [
@@ -336850,6 +337917,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Project Management Tool"
     ],
     "tags": [
@@ -336903,6 +337971,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Business Software",
       "Survey or Poll"
     ],
     "tags": [
@@ -336941,6 +338010,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Business Software",
       "Email Marketing Services"
     ],
     "tags": [
@@ -337201,6 +338271,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Online Collaboration"
     ],
     "tags": [
@@ -337373,6 +338444,23 @@
     "createdAt": "2022-11-06T12:08:02.898Z"
   },
   {
+    "id": "1898253447",
+    "title": "Sciwand: Reference Manager, Knowledge Manager and Academic Writer",
+    "url": "https://sciwand.com/",
+    "description": "Sciwand is a reference and knowledge manager with an academic writer built in. Search ten databases, screen and cite with AI on the library you already have, and cite in 10,000+ styles in its writer or in Microsoft Word.",
+    "domain": "sciwand.com",
+    "cover": "https://sciwand.com/og-image.png",
+    "favorite": false,
+    "category": "office-and-productivity",
+    "subcategory": [
+      "Academic Research Tools",
+      "Reference Management"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-22T13:34:13.500Z"
+  },
+  {
     "id": "287100119",
     "title": "Scoop.it",
     "url": "https://www.scoop.it/",
@@ -337416,6 +338504,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Online Collaboration"
     ],
     "tags": [
@@ -337435,6 +338524,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Whiteboard Editor"
     ],
     "tags": [
@@ -337490,6 +338580,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Online Collaboration"
     ],
     "tags": [
@@ -337542,6 +338633,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Project Management Tool"
     ],
     "tags": [
@@ -337580,6 +338672,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Whiteboard Editor"
     ],
     "tags": [
@@ -337601,6 +338694,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Business Software",
       "Email Marketing Services"
     ],
     "tags": [
@@ -337712,6 +338806,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Online Collaboration"
     ],
     "tags": [
@@ -337810,6 +338905,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Project Management Tool"
     ],
     "tags": [
@@ -337976,6 +339072,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Whiteboard Editor"
     ],
     "tags": [
@@ -337994,6 +339091,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Whiteboard Editor"
     ],
     "tags": [
@@ -338049,6 +339147,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Online Collaboration"
     ],
     "tags": [
@@ -338125,6 +339224,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Project Management Tool"
     ],
     "tags": [
@@ -338143,6 +339243,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Business Software",
       "Email Marketing Services"
     ],
     "tags": [],
@@ -338495,6 +339596,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Online Collaboration"
     ],
     "tags": [
@@ -338680,6 +339782,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Business Software",
       "Customer Relationship Management (CRM)"
     ],
     "tags": [],
@@ -338755,6 +339858,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Business Software",
       "Survey or Poll"
     ],
     "tags": [
@@ -338773,6 +339877,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Online Collaboration"
     ],
     "tags": [
@@ -338847,6 +339952,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Business Software",
       "Email Marketing Services"
     ],
     "tags": [],
@@ -338898,6 +340004,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Business Software",
       "Customer Relationship Management (CRM)"
     ],
     "tags": [
@@ -339220,6 +340327,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Business Software",
       "Survey or Poll"
     ],
     "tags": [
@@ -339238,6 +340346,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Business Software",
       "Survey or Poll"
     ],
     "tags": [
@@ -339421,6 +340530,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Project Management Tool"
     ],
     "tags": [
@@ -339474,6 +340584,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Business Software",
       "Survey or Poll"
     ],
     "tags": [
@@ -339526,6 +340637,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Online Collaboration"
     ],
     "tags": [
@@ -339627,6 +340739,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Project Management Tool"
     ],
     "tags": [
@@ -339702,6 +340815,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Project Management Tool"
     ],
     "tags": [
@@ -339755,6 +340869,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Project Management Tool"
     ],
     "tags": [
@@ -339773,6 +340888,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Project Management Tool"
     ],
     "tags": [
@@ -339828,6 +340944,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Online Collaboration"
     ],
     "tags": [
@@ -339865,6 +340982,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Online Collaboration"
     ],
     "tags": [
@@ -339883,6 +341001,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Online Collaboration"
     ],
     "tags": [
@@ -339923,6 +341042,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Project Management Tool"
     ],
     "tags": [
@@ -339998,6 +341118,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Online Collaboration"
     ],
     "tags": [
@@ -340253,6 +341374,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Online Collaboration"
     ],
     "tags": [
@@ -340271,6 +341393,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Project Management Tool"
     ],
     "tags": [
@@ -340483,6 +341606,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Project Management Tool"
     ],
     "tags": [
@@ -340556,6 +341680,7 @@
     "favorite": true,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Whiteboard Editor"
     ],
     "tags": [
@@ -340625,6 +341750,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Online Collaboration"
     ],
     "tags": [
@@ -340845,6 +341971,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Online Collaboration"
     ],
     "tags": [
@@ -340952,6 +342079,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Whiteboard Editor"
     ],
     "tags": [],
@@ -340968,6 +342096,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Whiteboard Editor"
     ],
     "tags": [],
@@ -341019,6 +342148,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Business Software",
       "Customer Relationship Management (CRM)"
     ],
     "tags": [
@@ -341103,6 +342233,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Business Software",
       "Survey or Poll"
     ],
     "tags": [
@@ -341140,6 +342271,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Online Collaboration"
     ],
     "tags": [
@@ -341249,6 +342381,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Business Software",
       "Email Marketing Services"
     ],
     "tags": [
@@ -341388,6 +342521,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Online Collaboration"
     ],
     "tags": [
@@ -341457,6 +342591,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Business Software",
       "ERP (Enterprise Resource Planning)"
     ],
     "tags": [],
@@ -341708,6 +342843,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Business Software",
       "Customer Relationship Management (CRM)"
     ],
     "tags": [],
@@ -341799,6 +342935,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Project Management Tool"
     ],
     "tags": [
@@ -341856,6 +342993,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Whiteboard Editor"
     ],
     "tags": [
@@ -341893,6 +343031,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Whiteboard Editor"
     ],
     "tags": [
@@ -342089,6 +343228,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Whiteboard Editor"
     ],
     "tags": [
@@ -342108,6 +343248,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Whiteboard Editor"
     ],
     "tags": [
@@ -342183,6 +343324,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Online Collaboration"
     ],
     "tags": [
@@ -342238,6 +343380,7 @@
     "favorite": true,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Whiteboard Editor"
     ],
     "tags": [
@@ -342422,6 +343565,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Project Management Tool"
     ],
     "tags": [
@@ -342429,7 +343573,7 @@
       "Type: Open-Source"
     ],
     "sourceCodeUrls": [
-      "https://regisx001.github.io/Worklog/"
+      "https://github.com/regisx001/Worklog/"
     ],
     "createdAt": "2026-05-16T17:04:23.675Z"
   },
@@ -342443,6 +343587,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Online Collaboration"
     ],
     "tags": [
@@ -342579,6 +343724,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Project Management Tool"
     ],
     "tags": [
@@ -342598,6 +343744,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Project Management Tool"
     ],
     "tags": [
@@ -342652,6 +343799,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Business Software",
       "Customer Relationship Management (CRM)"
     ],
     "tags": [],
@@ -342706,6 +343854,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Business Software",
       "Customer Relationship Management (CRM)"
     ],
     "tags": [
@@ -342724,6 +343873,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Online Collaboration"
     ],
     "tags": [
@@ -342874,6 +344024,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Online Collaboration"
     ],
     "tags": [
@@ -342893,6 +344044,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Team Collaboration",
       "Project Management Tool"
     ],
     "tags": [
@@ -343064,6 +344216,7 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
+      "Business Software",
       "Customer Relationship Management (CRM)"
     ],
     "tags": [
@@ -370982,9 +372135,9 @@
   {
     "id": "287108729",
     "title": "Epic Games Store",
-    "url": "https://www.epicgames.com/store/en-US",
+    "url": "https://store.epicgames.com/",
     "description": "Welcome to Epic Games Store! Download and play PC Games of every genre. We have mods, DLC and Free Games too! Games for everyone.",
-    "domain": "www.epicgames.com",
+    "domain": "store.epicgames.com",
     "cover": "https://static-assets-prod.epicgames.com/epic-store/static/webpack/25c285e020572b4f76b770d6cca272ec.png",
     "favorite": true,
     "category": "online-services",
@@ -394802,6 +395955,30 @@
     "createdAt": "2021-10-04T15:03:51.068Z"
   },
   {
+    "id": "1898532189",
+    "title": "LibreTV - 免费在线视频聚合搜索与观看平台",
+    "url": "https://libretv.is-an.org/",
+    "description": "免费、开源的在线视频聚合搜索与观看平台，智能广告过滤，支持苹果CMS V10 API",
+    "domain": "libretv.is-an.org",
+    "cover": "https://libretv.is-an.org/assets/og-cover.png",
+    "favorite": false,
+    "category": "online-services",
+    "subcategory": [
+      "Online Platform",
+      "Video Platform",
+      "Video Streaming",
+      "Free Video Streaming"
+    ],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitHub"
+    ],
+    "sourceCodeUrls": [
+      "https://github.com/LibreSpark/LibreTV"
+    ],
+    "createdAt": "2026-10-22T18:43:28.987Z"
+  },
+  {
     "id": "287102381",
     "title": "LibriVox | free public domain audiobooks",
     "url": "https://librivox.org/",
@@ -398142,6 +399319,24 @@
     "createdAt": "2021-05-05T16:36:22.000Z"
   },
   {
+    "id": "1898599013",
+    "title": "Lists of domain names, WHOIS datasets & DNS data - NetAPI",
+    "url": "https://netapi.com/",
+    "description": "Download domain lists, WHOIS and DNS datasets and newly registered domains, manually or via API. Updated daily. Over 492 million domains in 1,584 TLDs.",
+    "domain": "netapi.com",
+    "cover": "https://netapi.com/static/icons/apple-touch-icon.png",
+    "favorite": false,
+    "category": "online-services",
+    "subcategory": [
+      "Database",
+      "Website Db",
+      "Domains DB"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-22T19:44:39.356Z"
+  },
+  {
     "id": "287117936",
     "title": "Lists of films",
     "url": "https://en.wikipedia.org/wiki/Lists_of_films",
@@ -398392,6 +399587,29 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2022-06-11T20:44:31.702Z"
+  },
+  {
+    "id": "1898560287",
+    "title": "LiveContainer/LiveContainer: Run iOS apps without actually installing them!",
+    "url": "https://github.com/LiveContainer/LiveContainer",
+    "description": "Run iOS apps without actually installing them! Contribute to LiveContainer/LiveContainer development by creating an account on GitHub.",
+    "domain": "github.com",
+    "cover": "https://opengraph.githubassets.com/22ab8de8f369c074132ea28d24f257d1fdc00423d2a1f3780fa720aabfa915aa/LiveContainer/LiveContainer",
+    "favorite": false,
+    "category": "online-services",
+    "subcategory": [
+      "Database",
+      "Software Db",
+      "Software Distribution",
+      "App Distribution",
+      "iOS Software Distribution"
+    ],
+    "tags": [
+      "Source Code: GitHub",
+      "Type: Open-Source"
+    ],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-22T19:19:33.782Z"
   },
   {
     "id": "886583826",
@@ -399591,6 +400809,27 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2022-06-10T16:34:10.866Z"
+  },
+  {
+    "id": "1897319570",
+    "title": "ly05010419/MacNativeGames · GitHub",
+    "url": "https://github.com/ly05010419/MacNativeGames",
+    "description": "Contribute to ly05010419/MacNativeGames development by creating an account on GitHub.",
+    "domain": "github.com",
+    "cover": "https://opengraph.githubassets.com/6d592d8a97e36c14985b1f1336950873e7788e12a5d9b032c0b775ad506e5058/ly05010419/MacNativeGames",
+    "favorite": false,
+    "category": "online-services",
+    "subcategory": [
+      "Database",
+      "Multimedia Db",
+      "Games Db"
+    ],
+    "tags": [
+      "Source Code: GitHub",
+      "Type: Open-Source"
+    ],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-21T21:56:46.960Z"
   },
   {
     "id": "287103712",
@@ -414057,7 +415296,9 @@
       "Wikis",
       "Documentation Wiki"
     ],
-    "tags": [],
+    "tags": [
+      "Web: Documentation"
+    ],
     "sourceCodeUrls": [],
     "createdAt": "2020-01-03T03:29:43.000Z"
   },
@@ -416201,32 +417442,6 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2021-12-07T12:03:34.035Z"
-  },
-  {
-    "id": "1418327049",
-    "title": "PlayTorrio — Open-Source by Ayman",
-    "url": "https://playtorrio.xyz/",
-    "description": "Beautiful open-source torrent streaming with a built-in private local scraper and support for Real-Debrid, AllDebrid, TorBox, and Premiumize. Jackett optional for better results. Multiple qualities, subtitles, ultra-fast buffering.",
-    "domain": "playtorrio.xyz",
-    "cover": "https://rdl.ink/render/https%3A%2F%2Fplaytorrio.xyz%2F",
-    "favorite": true,
-    "category": "online-services",
-    "subcategory": [
-      "Online Platform",
-      "Video Platform",
-      "Video Streaming",
-      "Free Video Streaming"
-    ],
-    "tags": [
-      "❤️",
-      "Type: Open-Source",
-      "OS Compatibility: web app",
-      "OS Compatibility: Cross-platform"
-    ],
-    "sourceCodeUrls": [
-      "https://github.com/ayman708-UX/PlayTorrioV2"
-    ],
-    "createdAt": "2025-11-02T00:44:02.249Z"
   },
   {
     "id": "287102698",
@@ -449959,24 +451174,6 @@
     "createdAt": "2019-07-27T16:07:50.000Z"
   },
   {
-    "id": "287112098",
-    "title": "ZoneFiles",
-    "url": "https://zonefiles.io/",
-    "description": "Full lists of classic and country domains. Total 1565 zones updated daily.",
-    "domain": "zonefiles.io",
-    "cover": "https://rdl.ink/render/https%3A%2F%2Fzonefiles.io",
-    "favorite": false,
-    "category": "online-services",
-    "subcategory": [
-      "Database",
-      "Website Db",
-      "Domains DB"
-    ],
-    "tags": [],
-    "sourceCodeUrls": [],
-    "createdAt": "2021-06-02T10:38:01.000Z"
-  },
-  {
     "id": "434979087",
     "title": "ZoomEye - Cyberspace Search Engine",
     "url": "https://www.zoomeye.org/",
@@ -454534,6 +455731,30 @@
     "createdAt": "2023-06-04T00:35:53.690Z"
   },
   {
+    "id": "1898234037",
+    "title": "CleanYourTV: remove ads and bloat from Android TV and Google TV",
+    "url": "https://cleanyour.tv/",
+    "description": "Your TV, minus the ads. Debloat any Android TV or Google TV over Wi-Fi and swap the ad-filled home screen for a clean Apple TV-style launcher. No root, fully reversible.",
+    "domain": "cleanyour.tv",
+    "cover": "https://cleanyour.tv/docs/og.png",
+    "favorite": true,
+    "category": "os-and-utilities",
+    "subcategory": [
+      "OS by Devices",
+      "Smart Device OS",
+      "SmartTV OS"
+    ],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitHub",
+      "❤️"
+    ],
+    "sourceCodeUrls": [
+      "https://github.com/Gathin23/cleanyourtv"
+    ],
+    "createdAt": "2026-10-22T13:03:29.891Z"
+  },
+  {
     "id": "359098732",
     "title": "Clear Linux",
     "url": "https://clearlinux.org/",
@@ -456311,6 +457532,24 @@
     ],
     "sourceCodeUrls": [],
     "createdAt": "2026-01-11T01:30:20.178Z"
+  },
+  {
+    "id": "1898508106",
+    "title": "ecklf/lg-luma: A native launcher for rooted LG webOS TVs, inspired by Apple TV.",
+    "url": "https://github.com/ecklf/lg-luma",
+    "description": "A native launcher for rooted LG webOS TVs, inspired by Apple TV. - ecklf/lg-luma",
+    "domain": "github.com",
+    "cover": "https://opengraph.githubassets.com/8d9906d982bcc70565d7e02b968b68b61ae0f9a61aafcda3daeffd306b03b0e8/ecklf/lg-luma",
+    "favorite": false,
+    "category": "os-and-utilities",
+    "subcategory": [
+      "OS by Devices",
+      "Smart Device OS",
+      "SmartTV OS"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-22T18:17:39.689Z"
   },
   {
     "id": "401097681",
@@ -460575,7 +461814,8 @@
       "Kernel"
     ],
     "tags": [
-      "Type: Open-Source"
+      "Type: Open-Source",
+      "Source Code: GitHub"
     ],
     "sourceCodeUrls": [],
     "createdAt": "2026-03-04T19:17:30.917Z"
@@ -467517,8 +468757,13 @@
       "Workstation OS (generic)",
       "Independent OS"
     ],
-    "tags": [],
-    "sourceCodeUrls": [],
+    "tags": [
+      "Source Code: GitHub",
+      "Type: Open-Source"
+    ],
+    "sourceCodeUrls": [
+      "https://github.com/reactos/reactos"
+    ],
     "createdAt": "2021-01-08T21:27:13.000Z"
   },
   {
@@ -469514,6 +470759,28 @@
     "createdAt": "2023-04-16T23:56:58.747Z"
   },
   {
+    "id": "1898504423",
+    "title": "Starling — great software, open to everyone",
+    "url": "https://starling.build/",
+    "description": "An open software factory building world-class applications. A fast terminal, an office suite, a native desktop, and a shared Swift SDK.",
+    "domain": "starling.build",
+    "cover": "https://starling.build/img/starling-factory.png",
+    "favorite": false,
+    "category": "os-and-utilities",
+    "subcategory": [
+      "OS Components",
+      "Desktop Environment"
+    ],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitHub"
+    ],
+    "sourceCodeUrls": [
+      "https://github.com/starling-build/starling"
+    ],
+    "createdAt": "2026-10-22T18:15:40.361Z"
+  },
+  {
     "id": "678845043",
     "title": "Start11 - Stardock",
     "url": "https://www.stardock.com/products/start11/",
@@ -470821,6 +472088,24 @@
     ],
     "sourceCodeUrls": [],
     "createdAt": "2023-03-20T04:13:26.090Z"
+  },
+  {
+    "id": "1897316398",
+    "title": "ToomRamcharan/tv-vibehack: Reverse-engineer any Android TV / Google TV: 100% fail-safe direct boot launcher, remote hotkey remapping, Realtek hardware passthrough & offline media player.",
+    "url": "https://github.com/ToomRamcharan/tv-vibehack",
+    "description": "Reverse-engineer any Android TV / Google TV: 100% fail-safe direct boot launcher, remote hotkey remapping, Realtek hardware passthrough & offline media player. - ToomRamcharan/tv-vibehack",
+    "domain": "github.com",
+    "cover": "https://opengraph.githubassets.com/daedfd60ab061622b601f2dfd51584f67c66239b29d92b2876eb2ce694d1e20f/ToomRamcharan/tv-vibehack",
+    "favorite": false,
+    "category": "os-and-utilities",
+    "subcategory": [
+      "OS by Devices",
+      "Smart Device OS",
+      "SmartTV OS"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-21T21:46:13.685Z"
   },
   {
     "id": "371837683",
@@ -479811,6 +481096,22 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2021-05-10T21:23:50.000Z"
+  },
+  {
+    "id": "416562497",
+    "title": "ZeroTier – Global Area Networking",
+    "url": "https://www.zerotier.com/",
+    "description": null,
+    "domain": "www.zerotier.com",
+    "cover": "https://rdl.ink/render/https%3A%2F%2Fwww.zerotier.com%2F",
+    "favorite": false,
+    "category": "security-and-privacy",
+    "subcategory": [
+      "VPN"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2022-07-13T10:58:02.678Z"
   },
   {
     "id": "1582904218",
@@ -495888,6 +497189,22 @@
     "createdAt": "2020-11-30T12:03:08.000Z"
   },
   {
+    "id": "371867147",
+    "title": "pump.io",
+    "url": "http://pump.io/",
+    "description": null,
+    "domain": "pump.io",
+    "cover": "https://rdl.ink/render/http%3A%2F%2Fpump.io%2F",
+    "favorite": false,
+    "category": "social-and-communications",
+    "subcategory": [
+      "Social Network"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2022-03-04T21:41:02.004Z"
+  },
+  {
     "id": "1282636406",
     "title": "pyLoad",
     "url": "https://pyload.net/",
@@ -505087,6 +506404,27 @@
     "createdAt": "2022-07-19T17:12:10.188Z"
   },
   {
+    "id": "1900007779",
+    "title": "amar97march/sweep: Clean, protect and understand your Mac. Free and open source",
+    "url": "https://github.com/amar97march/sweep",
+    "description": "Clean, protect and understand your Mac. Free and open source",
+    "domain": "github.com",
+    "cover": "https://github.com/amar97march/sweep/raw/main/docs/assets/banner.jpg",
+    "favorite": false,
+    "category": "system-administration",
+    "subcategory": [
+      "System Tool",
+      "Cleaner PC"
+    ],
+    "tags": [
+      "Source Code: GitHub",
+      "Type: Open-Source",
+      "OS Compatibility: macOS"
+    ],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-24T00:34:48.025Z"
+  },
+  {
     "id": "748788700",
     "title": "Amazon shortner",
     "url": "https://amzn.to/",
@@ -505688,6 +507026,29 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2023-01-15T16:15:53.759Z"
+  },
+  {
+    "id": "1898557810",
+    "title": "Apktool",
+    "url": "https://apktool.org/",
+    "description": "A tool for reverse engineering Android apk files.",
+    "domain": "apktool.org",
+    "cover": "https://apktool.org/img/social-card.png",
+    "favorite": false,
+    "category": "system-administration",
+    "subcategory": [
+      "System Tool",
+      "Android & iOS Tools",
+      "Root & Modding Android"
+    ],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitHub"
+    ],
+    "sourceCodeUrls": [
+      "https://github.com/iBotPeaches/Apktool"
+    ],
+    "createdAt": "2026-10-22T19:15:41.598Z"
   },
   {
     "id": "289079468",
@@ -507802,6 +509163,22 @@
     "createdAt": "2023-05-16T18:00:02.655Z"
   },
   {
+    "id": "382558474",
+    "title": "Certbot - EFF",
+    "url": "https://certbot.eff.org/",
+    "description": "Tagline",
+    "domain": "certbot.eff.org",
+    "cover": "https://rdl.ink/render/https%3A%2F%2Fcertbot.eff.org%2F",
+    "favorite": false,
+    "category": "system-administration",
+    "subcategory": [
+      "Web Server Panel"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2022-04-06T22:29:59.688Z"
+  },
+  {
     "id": "287101062",
     "title": "CGSecurity",
     "url": "https://www.cgsecurity.org/",
@@ -509194,6 +510571,24 @@
       "https://github.com/darlinghq/darling"
     ],
     "createdAt": "2022-03-16T16:17:45.272Z"
+  },
+  {
+    "id": "405808422",
+    "title": "Dashy.to",
+    "url": "https://dashy.to/",
+    "description": "Description will go into a meta tag in head /",
+    "domain": "dashy.to",
+    "cover": "https://dashy.to/img/homepage-assets/status-check-demo.gif",
+    "favorite": false,
+    "category": "system-administration",
+    "subcategory": [
+      "Web Server Panel"
+    ],
+    "tags": [
+      "Web server: Self-Host"
+    ],
+    "sourceCodeUrls": [],
+    "createdAt": "2022-06-15T17:37:04.771Z"
   },
   {
     "id": "287105100",
@@ -514591,6 +515986,29 @@
     "createdAt": "2023-09-15T15:56:13.963Z"
   },
   {
+    "id": "1898572432",
+    "title": "KernelSU Next",
+    "url": "https://kernelsu-next.github.io/webpage/",
+    "description": "A kernel-based root solution for Android",
+    "domain": "kernelsu-next.github.io",
+    "cover": "https://kernelsu-next.github.io/webpage/logo.png",
+    "favorite": false,
+    "category": "system-administration",
+    "subcategory": [
+      "System Tool",
+      "Android & iOS Tools",
+      "Root & Modding Android"
+    ],
+    "tags": [
+      "Source Code: GitHub",
+      "Type: Open-Source"
+    ],
+    "sourceCodeUrls": [
+      "https://github.com/KernelSU-Next/KernelSU-Next"
+    ],
+    "createdAt": "2026-10-22T19:20:54.811Z"
+  },
+  {
     "id": "374549024",
     "title": "Keryx Project - Launchpad",
     "url": "https://launchpad.net/keryxproject",
@@ -514926,6 +516344,24 @@
       "https://github.com/kismetwireless/kismet"
     ],
     "createdAt": "2022-02-20T04:40:56.832Z"
+  },
+  {
+    "id": "1897506620",
+    "title": "kksimp/Mac.apk: Mac.apk: Run Android apps natively on Apple Silicon Macs",
+    "url": "https://github.com/kksimp/Mac.apk",
+    "description": "Mac.apk: Run Android apps natively on Apple Silicon Macs - kksimp/Mac.apk",
+    "domain": "github.com",
+    "cover": "https://opengraph.githubassets.com/b948b125cebd1a675381235d585717769d63a56258cd11eb46bd610a899351a0/kksimp/Mac.apk",
+    "favorite": false,
+    "category": "system-administration",
+    "subcategory": [
+      "Emulation & Virtualization",
+      "OS Translation Layer",
+      "macOS Translation Layer"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-22T00:39:29.775Z"
   },
   {
     "id": "415712683",
@@ -516101,6 +517537,24 @@
     "createdAt": "2022-07-02T23:29:06.698Z"
   },
   {
+    "id": "574760507",
+    "title": "MagicMirror",
+    "url": "https://magicmirror.builders/",
+    "description": null,
+    "domain": "magicmirror.builders",
+    "cover": "https://magicmirror.builders/img/magpi-best-watermark-custom.png",
+    "favorite": false,
+    "category": "system-administration",
+    "subcategory": [
+      "IoT Automation"
+    ],
+    "tags": [
+      "Type: Open-Source"
+    ],
+    "sourceCodeUrls": [],
+    "createdAt": "2023-05-18T01:39:35.810Z"
+  },
+  {
     "id": "287102971",
     "title": "Magisk Manager",
     "url": "https://www.magiskmanager.org/",
@@ -516257,6 +517711,24 @@
     ],
     "sourceCodeUrls": [],
     "createdAt": "2022-07-22T23:00:05.153Z"
+  },
+  {
+    "id": "1897318104",
+    "title": "MaPC — Your PC games, on your Mac",
+    "url": "https://mapc.games/index.html",
+    "description": "Install and play Windows games from Steam, Epic Games and GOG on your Apple Silicon Mac. Free, native, no Wine to set up.",
+    "domain": "mapc.games",
+    "cover": "https://mapc.games/og-image.png",
+    "favorite": false,
+    "category": "system-administration",
+    "subcategory": [
+      "Emulation & Virtualization",
+      "OS Translation Layer",
+      "macOS Translation Layer"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-21T21:52:12.859Z"
   },
   {
     "id": "659928941",
@@ -521582,6 +523054,29 @@
     "createdAt": "2024-01-03T00:14:58.571Z"
   },
   {
+    "id": "1903406048",
+    "title": "Raven - A Windows your apps recognize.",
+    "url": "https://useraven.org/",
+    "description": "Install and run Windows applications on Linux with their own installers. No Windows virtual machine. Compatibility is still in development.",
+    "domain": "useraven.org",
+    "cover": "https://useraven.org/covers/home.png",
+    "favorite": false,
+    "category": "system-administration",
+    "subcategory": [
+      "Emulation & Virtualization",
+      "OS Translation Layer",
+      "Windows Translation Layer"
+    ],
+    "tags": [
+      "Source Code: GitHub",
+      "Type: Open-Source"
+    ],
+    "sourceCodeUrls": [
+      "https://github.com/mirkobrombin/raven"
+    ],
+    "createdAt": "2026-10-26T22:00:59.703Z"
+  },
+  {
     "id": "581568916",
     "title": "Razer Synapse 3 | Razer",
     "url": "https://www.razer.com/synapse-3",
@@ -523617,6 +525112,27 @@
     "createdAt": "2024-07-15T19:36:30.289Z"
   },
   {
+    "id": "1898557950",
+    "title": "skylot/jadx: Dex to Java decompiler",
+    "url": "https://github.com/skylot/jadx",
+    "description": "Dex to Java decompiler. Contribute to skylot/jadx development by creating an account on GitHub.",
+    "domain": "github.com",
+    "cover": "https://repository-images.githubusercontent.com/8859474/034e1280-bef3-11ea-92c5-fd31ffc52273",
+    "favorite": false,
+    "category": "system-administration",
+    "subcategory": [
+      "System Tool",
+      "Android & iOS Tools",
+      "Root & Modding Android"
+    ],
+    "tags": [
+      "Source Code: GitHub",
+      "Type: Open-Source"
+    ],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-22T19:16:09.406Z"
+  },
+  {
     "id": "887149007",
     "title": "Skyvern",
     "url": "https://www.skyvern.com/",
@@ -523983,6 +525499,27 @@
     "createdAt": "2020-05-14T16:26:19.000Z"
   },
   {
+    "id": "1898560757",
+    "title": "sp00nznet/xboxrecomp: Turn any Xbox game binary into a native Windows executable. No emulation. No interpreter. Just raw, recompiled C.",
+    "url": "https://github.com/sp00nznet/xboxrecomp",
+    "description": "Turn any Xbox game binary into a native Windows executable. No emulation. No interpreter. Just raw, recompiled C. - sp00nznet/xboxrecomp",
+    "domain": "github.com",
+    "cover": "https://opengraph.githubassets.com/e564cf4bc95dcad34802b8b2d370abffb00959cab45f1f51d1f5cc71881f1475/sp00nznet/xboxrecomp",
+    "favorite": false,
+    "category": "system-administration",
+    "subcategory": [
+      "Emulation & Virtualization",
+      "OS-Emulator",
+      "Game Console Emulator"
+    ],
+    "tags": [
+      "Source Code: GitHub",
+      "Type: Open-Source"
+    ],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-22T19:20:15.352Z"
+  },
+  {
     "id": "328712398",
     "title": "Sparkle project",
     "url": "https://sparkle-project.org/",
@@ -524227,6 +525764,24 @@
     ],
     "sourceCodeUrls": [],
     "createdAt": "2023-11-24T23:08:45.649Z"
+  },
+  {
+    "id": "1903254718",
+    "title": "SSH Key Generator - Generate SSH Keys Online",
+    "url": "https://sshkeygenerator.com/",
+    "description": "Generate SSH keys online with Ed25519 or RSA. Client-side SSH key generator for GitHub, GitLab, servers, and ssh-keygen workflows. Private keys are not uploaded.",
+    "domain": "sshkeygenerator.com",
+    "cover": "https://sshkeygenerator.com/og.webp",
+    "favorite": false,
+    "category": "system-administration",
+    "subcategory": [
+      "Networking",
+      "Client-Server App",
+      "SSH Client"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-26T18:32:26.686Z"
   },
   {
     "id": "287103562",
@@ -544812,12 +546367,13 @@
     "description": "Lightpanda is a headless browser built from scratch in Zig for web automation, web scraping, and AI agents. It delivers 10× faster execution and 10× less memory than Chrome headless by skipping all graphical rendering.",
     "domain": "lightpanda.io",
     "cover": "https://cdn.lightpanda.io/website/assets/images/opengraph/og.png",
-    "favorite": false,
+    "favorite": true,
     "category": "web-browsers",
     "subcategory": [],
     "tags": [
       "Type: Open-Source",
-      "Source Code: GitHub"
+      "Source Code: GitHub",
+      "❤️"
     ],
     "sourceCodeUrls": [
       "https://github.com/lightpanda-io/browser"

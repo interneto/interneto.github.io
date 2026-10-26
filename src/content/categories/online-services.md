@@ -5,7 +5,7 @@ description: Search engines, web directories, software directories, corporations
 
 # Online Services
 
-**Total Bookmarks:** 5683
+**Total Bookmarks:** 5682
 
 
 ## Biography
@@ -4595,7 +4595,6 @@ description: Search engines, web directories, software directories, corporations
 - ⭐ **[Cinecat](https://cinecat.eu/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/xp-technologies-dev/p-stream)
 - ⭐ **[Cinejoy](https://cinejoy.pk/)**
 - ⭐ **[Nunflix](https://nunflix.org/)** — Streaming World!
-- ⭐ **[PlayTorrio](https://playtorrio.xyz/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/ayman708-UX/PlayTorrioV2) — Open-Source by Ayman
 - ⭐ **[Rive Stream](https://www.rivestream.app/)**
 - ⭐ **[streamerflix.xyz](https://streamerflix.xyz/)**
 - [1Shows](https://www.1shows.nl/)

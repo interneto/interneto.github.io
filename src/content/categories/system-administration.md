@@ -5,7 +5,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 
 # System Administration
 
-**Total Bookmarks:** 1363
+**Total Bookmarks:** 1368
 
 - [osquery](https://osquery.io/)
 - [PIVPN](https://pivpn.io/) — Simplest way to setup a VPN
@@ -532,6 +532,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [MSYS2](https://www.msys2.org/)
 - [PlayOnLinux](https://www.playonlinux.com/en/)
 - [Porting Kit](https://www.portingkit.com/)
+- [Raven](https://useraven.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/mirkobrombin/raven) — A Windows your apps recognize.
 - [winapps-org/winapps](https://github.com/winapps-org/winapps) — Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
 - [WinBIND](https://www.winbind.org/) — Running ISC BIND on Microsoft Windows
 - [WinBoat](https://www.winboat.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/TibixDev/winboat) — Run Windows Apps on Linux with Seamless Integration
@@ -600,6 +601,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 
 ## IoT Automation
 - [ioBroker Smarthome](https://www.iobroker.net/)
+- [MagicMirror](https://magicmirror.builders/)
 
 ### Home Assistant
 - ⭐ **[Home Assistant](https://www.home-assistant.io/)**
@@ -972,6 +974,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [nirui/sshwifty](https://github.com/nirui/sshwifty) — Web SSH & Telnet (WebSSH & WebTelnet client) 🔮
 - [PuTTY](https://putty.org/) — a free SSH and telnet client for Windows
 - [PuTTYgen Download](https://www.puttygen.com/)
+- [SSH Key Generator](https://sshkeygenerator.com/) — Generate SSH Keys Online
 
 #### SMTP Server
 - [BillionMail](https://www.billionmail.com/) — An Open-Source MailServer, NewsLetter, Email Marketing
@@ -1451,9 +1454,11 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [3CX](https://www.3cx.com/) — Business Communication Solutions & Software
 - [Basedash](https://www.basedash.com/) — Connect your database. Get an admin panel
 - [Booking Ninja](https://bookingninja.io/) — Simple and powerful online bookings
+- [Certbot](https://certbot.eff.org/) — EFF
 - [Cockpit Project](https://cockpit-project.org/)
 - [CPanel](https://www.cpanel.net/) — Web Hosting Control Panel & Server Management Tools
 - [CyberPanel](https://cyberpanel.net/) — Web Hosting Control Panel
+- [Dashy.to](https://dashy.to/)
 - [DataMiner by Skyline Communications](https://skyline.be/)
 - [Hestia Control Panel](https://hestiacp.com/) — Open-source web server control panel
 - [Hosting Control Panel by ispmanager](https://www.ispmanager.com/)

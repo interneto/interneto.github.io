@@ -5,7 +5,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 
 # Development
 
-**Total Bookmarks:** 2608
+**Total Bookmarks:** 2611
 
 - [Adobe Open Source](https://opensource.adobe.com/)
 - [Asterisk](https://www.asterisk.org/)
@@ -230,6 +230,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 
 ## Database Management
 - [Culprit SQL Studio](https://culpritsql.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/cristipufu/culprit-sql-studio) — find what's slowing your database down
+- [RESP.app](https://resp.app/)
 - [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) — A vector index built on TurboQuant, written in Rust with Python bindings
 
 ### Backend as a Service (BaaS)
@@ -2117,6 +2118,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [GNU MP Bignum Library](https://gmplib.org/)
 - [gRPC](https://grpc.io/)
 - [GStreamer / gstreamer · GitLab](https://gitlab.freedesktop.org/gstreamer/gstreamer)
+- [Healthcare Integration Engine](https://www.nextgen.com/solutions/interoperability/mirth-integration-engine) / [![GitHub](/img/software/apps/github.svg)](https://github.com/nextgenhealthcare/connect/) — Mirth® Connect by NextGen Healthcare
 - [HeroTransitions](https://github.com/HeroTransitions/Hero) — Transition library for iOS & tvOS · GitHub
 - [HTML-in-Canvas](https://html-in-canvas.dev/)
 - [hyper](https://hyper.rs/) — fast and safe HTTP for the Rust language
@@ -2725,6 +2727,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [Revise](https://revise.io/) — AI editor for your documents
 - [RunJS](https://runjs.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/lukehaas/RunJS)
 - [Superset](https://superset.sh/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/superset-sh/superset) — Run 10+ parallel coding agents on your machine
+- [ThinkRail](https://thinkrail.ai/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/JetBrains/thinkrail) — the agentic IDE that gets better every time you use it
 - [UltraEdit Text Editor + Coding Software](https://www.ultraedit.com/)
 - [Windsurf (formerly Codeium)](https://windsurf.com/)
 - [Xcode](https://developer.apple.com/xcode/) — Apple
