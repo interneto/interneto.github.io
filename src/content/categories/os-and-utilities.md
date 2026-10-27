@@ -1211,7 +1211,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 
 ### Bootloader
 - [acidanthera/OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) — OpenCore bootloader
-- [Amutable](https://amutable.com/)
+- [Amutable](https://amutable.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/amutable-systems)
 - [Barebox](https://www.barebox.org/)
 - [Boot Camp Assistant User Guide for Mac](https://support.apple.com/guide/bootcamp-assistant/welcome/mac) — Apple Support
 - [Canoeboot](https://canoeboot.org/) — Canoeboot project
