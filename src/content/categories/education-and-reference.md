@@ -19,6 +19,21 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [Calculator Soup](https://www.calculatorsoup.com/) — Online Calculators
 - [RapidTables](https://www.rapidtables.com/)
 
+### Fractal Graphing Calc
+- [Fractal Explorer by Mytino](https://mytino.itch.io/fractal-explorer)
+- [Fractint Development Team](https://www.fractint.org/)
+- [Mandelbrot](https://mandelbrot.ophir.dev/#{%22pos%22:{%22x%22:-0.4705000000000001,%22y%22:-0.2735000000000001},%22zoom%22:250})
+- [Mandelbrot Set Explorer](http://mandel.gart.nz/)
+- [Pixel Play](https://anvaka.github.io/pplay/?tx=0&ty=0&scale=1)
+
+### Gematria
+- [Gematria Calculator](https://gematriacalculator.us/)
+- [Gematria Calculator](https://www.gematriacalculator.net/)
+- [Gematrinator](https://gematrinator.com/calculator) — Gematria Calculator
+- [Gematrinator.com](https://gematrinator.com/)
+- [Gematrix.org](https://www.gematrix.org/)
+- [Hebrew Gematria Calculator](https://www.gimatria.co.il/)
+
 ### Math Calculator
 - ⭐ **[Geogebra](https://www.geogebra.org/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/geogebra/geogebra) — free math tools
 - ⭐ **[KDE Cantor](https://cantor.kde.org/)**
@@ -93,33 +108,6 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [Surface Point Clouds](http://kovacsv.github.io/JSModeler/documentation/examples/surfacepc.html)
 - [Zweigmedia](https://www.zweigmedia.com/threeDgraphFancy/newThreeDGrapher.php) — Surface grapher
 
-### Units Converter
-- [AdvancedConverter](https://www.advancedconverter.com/)
-- [Calculadora de horas](https://www.topster.es/calendario/stundenrechner.php)
-- [Calculadoras.uno](https://www.calculadoras.uno/)
-- [CalculateMe](https://www.calculateme.com/)
-- [Calculator.name](https://calculator.name/)
-- [Convert Units](https://www.convertunits.com/)
-- [Currency Converter](https://www1.oanda.com/currency/converter)
-- [Currency World](https://currency.world/)
-- [Data Units Conversion](https://www.gbmb.org/)
-- [DateTime.io](https://www.datetime.io/)
-- [Exchange-rate](https://es.exchange-rates.org/)
-- [Numbers Conversion Table](http://www.unitconversion.org//unit_converter/numbers-ex.html) — UnitConversion.org
-- [Unit Converter](https://www.unitconverters.net/)
-- [Unit Converter](https://convertlive.com/)
-- [UnitConversion.org](http://www.unitconversion.org/)
-- [Unitpedia](https://www.unitpedia.com/)
-- [Unix Time Stamp](https://www.unixtimestamp.com/) — Epoch Converter
-
-### Gematria
-- [Gematria Calculator](https://gematriacalculator.us/)
-- [Gematria Calculator](https://www.gematriacalculator.net/)
-- [Gematrinator](https://gematrinator.com/calculator) — Gematria Calculator
-- [Gematrinator.com](https://gematrinator.com/)
-- [Gematrix.org](https://www.gematrix.org/)
-- [Hebrew Gematria Calculator](https://www.gimatria.co.il/)
-
 ### Physics Calculator
 - ⭐ **[Advanced Earth Curvature Calculator](https://walter.bislins.ch/bloge/index.asp?page=Advanced+Earth+Curvature+Calculator)** — Walter Blisnis
 - ⭐ **[Flat Earth Dome Model](http://walter.bislins.ch/bloge/index.asp?page=Flat+Earth+Dome+Model&demo=Intro#App)** — Walter Blisnis
@@ -139,19 +127,31 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [Walter Bislin Model](https://walterbislin.journalofgeocentriccosmology.org/)
 - [WikiTerra · jsgraph](https://wikiterra.github.io/jsgraph/)
 
-### Fractal Graphing Calc
-- [Fractal Explorer by Mytino](https://mytino.itch.io/fractal-explorer)
-- [Fractint Development Team](https://www.fractint.org/)
-- [Mandelbrot](https://mandelbrot.ophir.dev/#{%22pos%22:{%22x%22:-0.4705000000000001,%22y%22:-0.2735000000000001},%22zoom%22:250})
-- [Mandelbrot Set Explorer](http://mandel.gart.nz/)
-- [Pixel Play](https://anvaka.github.io/pplay/?tx=0&ty=0&scale=1)
-
 ### Sleep Cycle Calculator
 - ⭐ **[Sleepytime](https://sleepytime.cc/)** — bedtime calculator
 - [rico-vz/SleepSageCLI](https://github.com/rico-vz/SleepSageCLI) — Optimal sleep calculator directly from your terminal ✨
 - [Sleep Calculator](https://sleepcalculator.com/)
 - [Sleep Calculator](https://sleepopolis.com/calculators/sleep/) — Ideal Bedtime & Wake Up Times - Sleepytime
 - [Wake Up Time](https://wakeupti.me/) — Sleep and Wake Up Calculator
+
+### Units Converter
+- [AdvancedConverter](https://www.advancedconverter.com/)
+- [Calculadora de horas](https://www.topster.es/calendario/stundenrechner.php)
+- [Calculadoras.uno](https://www.calculadoras.uno/)
+- [CalculateMe](https://www.calculateme.com/)
+- [Calculator.name](https://calculator.name/)
+- [Convert Units](https://www.convertunits.com/)
+- [Currency Converter](https://www1.oanda.com/currency/converter)
+- [Currency World](https://currency.world/)
+- [Data Units Conversion](https://www.gbmb.org/)
+- [DateTime.io](https://www.datetime.io/)
+- [Exchange-rate](https://es.exchange-rates.org/)
+- [Numbers Conversion Table](http://www.unitconversion.org//unit_converter/numbers-ex.html) — UnitConversion.org
+- [Unit Converter](https://www.unitconverters.net/)
+- [Unit Converter](https://convertlive.com/)
+- [UnitConversion.org](http://www.unitconversion.org/)
+- [Unitpedia](https://www.unitpedia.com/)
+- [Unix Time Stamp](https://www.unixtimestamp.com/) — Epoch Converter
 
 ## Flashcard Learning Tool
 - [Anki](https://apps.ankiweb.net/) — powerful, intelligent flashcards
@@ -188,6 +188,292 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [My IQ Tested](https://www.myiqtested.com/)
 
 ## Language Tools
+
+### Dictionary
+- [American Sign Language ASL Dictionary](https://www.signasl.org/)
+- [Archive / gnome-dictionary · GitLab](https://gitlab.gnome.org/Archive/gnome-dictionary)
+- [Artha ~ The Open Thesaurus](https://sourceforge.net/projects/artha/)
+- [cli-dictionary/cli-dictionary · GitHub](https://github.com/cli-dictionary/cli-dictionary)
+- [Crissium/SilverDict · GitHub](https://github.com/Crissium/SilverDict)
+- [Diccionario Chemnitz](https://dict.tu-chemnitz.de/)
+- [DICT Development Group](https://sourceforge.net/projects/dict/)
+- [Dictionaries for Mac](https://dictionaries.io/)
+- [Dictionary API](https://dictionaryapi.dev/)
+- [Dictionary WordMagic](https://www.wordmagicsoft.com/dictionary/tools/index.php)
+- [Dictionnaire de l'Académie française](https://www.dictionnaire-academie.fr/)
+- [Dictionnaire Littré](https://www.littre.org/) — Dictionnaire de la langue française
+- [Éditions Le Robert](https://www.lerobert.com/) — la référence en langues pour définir, traduire,
+- [Free Dictionary project](https://www.dicts.info/)
+- [Freelang](https://www.freelang.net/)
+- [freespanish/Diccionario RAE](https://github.com/freespanish/Diccionario)
+- [Gaffiot](http://micmap.org/dicfro/home/gaffiot)
+- [Glosarium](https://www.glosarium.com/)
+- [GoldenDict](https://sourceforge.net/projects/goldendict/) — SourceForge
+- [goldendict/goldendict · GitHub](https://github.com/goldendict/goldendict)
+- [Iciba](https://www.iciba.com/)
+- [ikey4u/wikit](https://github.com/ikey4u/wikit) — Wikit - A universal lookup tool
+- [johnfactotum/quick-lookup · GitHub](https://github.com/johnfactotum/quick-lookup)
+- [Larousse.fr](https://www.larousse.fr/)
+- [Lexilogos](https://www.lexilogos.com/)
+- [Libellus](https://libellus.hummdudel.de/)
+- [Lisan ul Arab (لسان العرب)](https://archive.org/details/01_20210525_20210525_0314/01/) — Free Download, Borrow, and Streaming : Internet Archive
+- [LSJ](https://lsj.gr/wiki/Main_Page) — GreekEnglishLexicon
+- [mufeedali/Wordbook](https://github.com/mufeedali/Wordbook) — Wordbook is a dictionary application built for GNOME
+- [NAVER Dictionary](https://dict.naver.com/)
+- [OpenDict](https://opendict.sourceforge.net/)
+- [Pagina d'entrata](https://accademiadellacrusca.it/) — Accademia della Crusca
+- [pot-app/pot-desktop · GitHub](https://github.com/pot-app/pot-desktop)
+- [Pressmon](https://pressmon.com/)
+- [Samanya Angreji Hindi Shabdkosh](https://archive.org/details/in.ernet.dli.2015.400755/page/23/mode/2up) — Singh, Rammurti : Free Download, Borrow, and Streaming : Internet Archive
+- [SpreadTheSign](https://spreadthesign.com/en.us/search/) — Sign language dictionary
+- [StarDict](https://stardict-4.sourceforge.net/index_en.php) — The best dictionary program in linux and windows
+- [sugarlabs/words-activity](https://github.com/sugarlabs/words-activity) — A multilingual dictionary activity for the Sugar environment
+- [Tagaini Jisho](https://www.tagaini.net/)
+- [Wörterbuch der deutschen Sprache ✒️ Duden Online](https://www.duden.de/woerterbuch)
+- [yomitan](https://yomitan.wiki/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/yomidevs/yomitan) — Pop-up dictionary browser extension for language learning
+
+#### Dictionary of Chinese
+- [Baike.com](https://www.baike.com/)
+- [Chinese Dictionary](https://dictionary.writtenchinese.com/)
+- [Dictionary Youdao](https://dict.youdao.com/)
+- [LINE Chinese-English Dictionary](https://dict.naver.com/linedict#/cnen/home)
+- [MDBG Chinese Dictionary](https://www.mdbg.net/chinese/dictionary)
+- [Zhongwen](https://chromewebstore.google.com/detail/zhongwen-chinese-english/kkmlkkjojmombglmlpbpapmhcaljjkde) — Chinese-English Dictionary - Chrome Web Store
+- [漢語大詞典](https://hanyucidian.org/) — Chinese Dictionary Compendium 漢語辭典總匯
+- [词典|汉语词典|现代汉语词典|在线词典-汉语言文学网](https://cd.hwxnet.com/)
+
+#### Dictionary of English
+- [Artha](http://artha.sourceforge.net/wiki/index.php/Home)
+- [Bab.la](https://bab.la/)
+- [Cambridge Dictionary](https://dictionary.cambridge.org/)
+- [Collins Dictionary](https://www.collinsdictionary.com/)
+- [Diclib](http://diclib.com/)
+- [dict.org](https://dict.org/bin/Dict)
+- [Dictionary by Merriam-Webster](https://www.merriam-webster.com/)
+- [Dictionary.com](https://www.dictionary.com/)
+- [Dictionary.net](http://www.dictionary.net/)
+- [Educalingo dictionary](https://educalingo.com/en/dic-en)
+- [English-Corpora](https://www.english-corpora.org/)
+- [enwiktionary (latest)](https://dumps.wikimedia.org/enwiktionary/latest/) — Wikimedia dumps
+- [Find Words](https://findwords.info/)
+- [FOLDOC](http://foldoc.org/) — Computing Dictionary
+- [Freak Thesaurus](https://frankensaurus.com/)
+- [Free Dictionary](http://www.freedictionary.org/)
+- [Freelang Dictionary](https://www.freelang.net/dictionary/index.php)
+- [OneLook Dictionary](https://www.onelook.com/)
+- [Online Etymology Dictionary](https://www.etymonline.com/)
+- [Open English WordNet](https://en-word.net/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/globalwordnet/english-wordnet)
+- [Oxford English Dictionary](https://www.oed.com/)
+- [Oxford Learner's Dictionaries](https://www.oxfordlearnersdictionaries.com/)
+- [Princeton WordNet](https://wordnetcode.princeton.edu/?C=M;O=D)
+- [Reverse Dictionary](https://reversedictionary.org/)
+- [Sideways Dictionary](https://sidewaysdictionary.com/)
+- [Slangit](https://slangit.com/)
+- [The Free Dictionary](https://www.thefreedictionary.com/)
+- [The Skeptic's Dictionary](http://skepdic.com/)
+- [TheSage English Dictionary and Thesaurus](https://sequencepublishing.com/1)
+- [Urban Dictionary](https://www.urbandictionary.com/)
+- [WikiDiff](https://wikidiff.com/)
+- [Wiktionary Enlgish](https://dumps.wikimedia.org/enwiktionary/) — Wikimedia
+- [Wiktionary, the free dictionary](https://en.wiktionary.org/wiki/Wiktionary:Main_Page)
+- [WordWeb](https://wordweb.info/free)
+- [WordWeb](https://wordweb.info/) — English dictionary
+- [YourDictionary](https://www.yourdictionary.com/)
+
+#### Dictionary of Spanish
+- [¿Qué significa?](https://www.qsignifica.net/)
+- [A](https://www.ellibrototal.com/ltotal/?t=16&d=1) — Real Academia de la Lengua
+- [DECEL](https://etimologias.dechile.net/) — Diccionario Etimológico Castellano en Línea
+- [Diccionario básico de canarismos](https://www.academiacanarialengua.org/diccionario/) — Academia Canaria de la Lengua
+- [Diccionario Canario o Habla Canaria](https://guanchipedia.com/diccionario-canario-de-guanchipedia/) — Un fisquito de Canario, por favor ...
+- [Diccionario de la lengua española](https://dle.rae.es/)
+- [Diccionario de uso del español](https://vk.com/wall-57851681_3396) — María Moliner | VK
+- [Diccionario del español actual de Manuel Seco](https://www.fbbva.es/diccionario/) — nueva edición digital
+- [Diccionario del español de México](https://dem.colmex.mx/)
+- [Diccionario Enciclopédico Español](https://www.definiciones-de.com/)
+- [Diccionario histórico de la lengua española](https://apps.rae.es/CNDHE/org/publico/pages/consulta/entradaCompleja.view)
+- [Diccionario RAE](https://play.google.com/store/apps/details?id=es.rae.dle) — Apps on Google Play
+- [diccionario-lengua](https://codeberg.org/rafaelmardojai/diccionario-lengua) — codeberg
+- [Diccionarios.com](https://www.diccionarios.com/)
+- [Dirae](https://dirae.es/)
+- [Frases y Citas en Latín](https://latin.dechile.net/) — dechile.net
+- [Palabras que](https://www.palabrasque.com/)
+- [RAE API](https://rae-api.com/) — Diccionario RAE
+- [SignificadoDe](https://www.significadode.org/palabras.htm)
+- [SM Diccionarios](http://clave.smdiccionarios.com/app.php)
+- [Wiktionary es](https://dumps.wikimedia.org/eswiktionary/) — Wikimedia
+
+#### How to Pronounce
+- [Forvo](https://forvo.com/)
+- [How To Pronounce](https://www.howtopronounce.com/)
+- [Howjsay](https://howjsay.com/) — Pronunciation
+- [toPhonetics](https://tophonetics.com/)
+
+#### Semantic & Thesaurus
+- ⭐ **[BabelNet](https://babelnet.org/)** — The largest multilingual encyclopedic dictionary and semantic network
+- ⭐ **[ConceptNet](https://conceptnet.io/)** — Multilingual graph
+- [Abbreviations](https://www.abbreviations.com/)
+- [Abbreviations and acronyms dictionary](https://www.acronymfinder.com/)
+- [All Acronyms](https://www.allacronyms.com/)
+- [Branah](https://www.branah.com/) — Type in your language
+- [Chinese Open Wordnet (cow)](https://bond-lab.github.io/cow/)
+- [English Grammar Online](https://www.ego4u.com/) — EGO
+- [FrameNet](https://framenet.icsi.berkeley.edu/frames) — Berkeley
+- [Global WordNet Association](https://globalwordnet.github.io/resources/wordnets-in-the-world)
+- [Lenguaje español](https://www.lenguaje.com/)
+- [Lexico.com](https://www.lexico.com/)
+- [Lexipedia](https://www.lexipedia.com/)
+- [Macroscope](https://macroscope.tech/wordanalysis?searchTerm=%22%22&settings=%7B%22sentimentSettingsPanel%22%3A%7B%22isOpen%22%3Atrue%2C%22settings%22%3A%7B%22type%22%3A%22VALENCE%22%7D%7D%2C%22frequencySettingsPanel%22%3A%7B%22isOpen%22%3Atrue%2C%22settings%22%3A%7B%7D%7D%2C%22synonymListSettingsPanel%22%3A%7B%22isOpen%22%3Afalse%2C%22settings%22%3A%7B%22year%22%3A1990%2C%22numberOfSynonyms%22%3A5%2C%22method%22%3A%22SGNS%22%7D%7D%2C%22synonymNetworkSettingsPanel%22%3A%7B%22isOpen%22%3Afalse%2C%22settings%22%3A%7B%22year%22%3A1990%2C%22synonymsPerTarget%22%3A5%2C%22similarityThreshold%22%3A0.7%7D%7D%2C%22contextNetworkSettingsPanel%22%3A%7B%22isOpen%22%3Afalse%2C%22settings%22%3A%7B%22year%22%3A2000%2C%22maximumNodes%22%3A50%2C%22contextRelevance%22%3A0.55%2C%22contextCohesiveness%22%3A0.55%2C%22individualWordRelevance%22%3A3%2C%22minimumEdges%22%3A5%2C%22displayNodes%22%3A110%2C%22method%22%3A%22COR%22%7D%7D%2C%22semanticDriftSettingsPanel%22%3A%7B%22isOpen%22%3Afalse%2C%22settings%22%3A%7B%7D%7D%2C%22contextChangeSettingsPanel%22%3A%7B%22isOpen%22%3Afalse%2C%22settings%22%3A%7B%22startYear%22%3A1800%2C%22endYear%22%3A2000%2C%22numberOfContextWords%22%3A20%7D%7D%7D) — Analysis of languages
+- [Moby Thesaurus](https://moby-thesaurus.org/)
+- [own-pt/openWordnet-PT](https://github.com/own-pt/openWordnet-PT) — OpenWordnet-PT: an open access wordnet for Portuguese
+- [Pealim](https://www.pealim.com/) — Hebrew
+- [Power Thesaurus](https://www.powerthesaurus.org/)
+- [Refine](https://refine.sh/)
+- [Relatedwords](https://relatedwords.org/)
+- [RhymeZone](https://www.rhymezone.com/)
+- [Salah-Sal/arabic-wordnet-v4](https://github.com/Salah-Sal/arabic-wordnet-v4) — Arabic WordNet 4.0 · GitHub
+- [Sinónimo.es](https://www.xn--sinnimo-n0a.es/)
+- [Sinónimos Online](https://www.sinonimosonline.com/)
+- [Synoniemen.net](https://synoniemen.net/)
+- [Synonym](https://www.synonym.com/)
+- [Thesaurus](https://www.thesaurus.com/)
+- [Thesaurus.plus](https://thesaurus.plus/)
+- [Verbix verb conjugator](https://www.verbix.com/)
+- [Vocabulary.com](https://www.vocabulary.com/)
+- [WordHippo](https://www.wordhippo.com/)
+- [Wordnet List](https://cygnet.maudslay.eu/#/wordnets) — Cygnet — A Network of Signs
+- [WordType.org](https://wordtype.org/)
+
+#### Words
+- [Palabras con](https://www.palabrascon.com/)
+- [Palabras Help](https://palabras.help/)
+
+### Languages
+- [8Belts](https://w.8belts.com/)
+- [Chino Simplificado](https://www.chinosimplificado.com/)
+- [Eingleses](https://eingleses.com/)
+- [Ethnologue](https://www.ethnologue.com/) — Languages of the World
+- [Gate2HOme](https://gate2home.com/) — Virtual keyboard
+- [Glottolog](https://glottolog.org/)
+- [Greek Language](https://www.foundalis.com/lan/greek.htm)
+- [Hebrew Today](https://hebrewtoday.com/)
+- [I Will Teach You A Language](https://iwillteachyoualanguage.com/)
+- [IPA](http://www.internationalphoneticalphabet.org/)
+- [LangFocus!](https://langfocus.com/)
+- [Language Transfer](https://www.languagetransfer.org/)
+- [Learn a Language](https://www.learnalanguage.com/)
+- [Learn French](https://www.tolearnfrench.com/)
+- [Lexi Explorer](https://lexiexplorer.com/)
+- [Loecsen / Online languages](https://www.loecsen.com/en)
+- [My Languages](https://www.mylanguages.org/)
+- [PushkinOnline](https://pushkininstitute.ru/learn?locale=es) — Learn russian
+- [Read Korean letters](https://readkoreanletters.com/)
+- [Ricotta](https://ricotta.affineur.io/)
+- [YellowBridge Chinese](https://www.yellowbridge.com/)
+
+#### English Language
+- [English phrasal verbs](https://little-brother.github.io/english-phrasal-verbs/)
+
+##### English Exam
+- [Cambridge English](https://www.cambridgeenglish.org/)
+- [Cambrigemb](https://cambridgemb.com/)
+- [ETS](https://www.ets.org/)
+- [Oxford English Testing](https://www.oxfordenglishtesting.com/oaslms/login.aspx)
+- [Oxford University Press](https://elt.oup.com/feature/global/oxford_test_of_english?cc=global&selLanguage=en) — ELT Test English
+- [Pearson VUE](https://home.pearsonvue.com/)
+
+##### English Online
+- [Amigos Ingleses](https://www.amigosingleses.com/)
+- [Aprende inglés](https://aprenderingles.org/)
+- [BBC Learning English](http://www.bbc.co.uk/learningenglish)
+- [British Council](https://learnenglishteens.britishcouncil.org/) — Learnenglishteens
+- [Cambly](https://www.cambly.com/english?lang=en)
+- [Curso de inglés](https://www.curso-ingles.com/)
+- [Emery.world](https://emery.world/) — The best English courses online
+- [English Practive](https://english-practice.net/)
+- [English with Lucy](https://englishwithlucy.co.uk/)
+- [EnglishClass101](https://www.englishclass101.com/)
+- [FluentU](https://www.fluentu.com/)
+- [italki](https://www.italki.com/)
+- [La Mansion del Ingles](http://www.mansioningles.com/)
+- [Learn English](https://learnenglish.edu.co/web)
+- [Learn English Free](https://www.learnenglish.de/)
+- [Learning English with Oxford](https://learningenglishwithoxford.com/)
+- [Perfect English Grammar](https://www.perfect-english-grammar.com/)
+- [USA Learns](https://usalearns.org/)
+- [VOA learn English](https://learningenglish.voanews.com/)
+- [Write & Improve](https://writeandimprove.com/)
+
+##### English Test
+- [Altissia](https://altissia.org/free-english-language-test)
+- [Cambridge Speak & Improve](https://speakandimprove.com/)
+- [Cambridge Test English](https://www.cambridgeenglish.org/test-your-english)
+- [EF SET® English test](https://www.efset.org/)
+- [English Tests](https://www.ego4u.com/en/cram-up/tests) — Test your English
+- [esl-lounge Student](https://www.esl-lounge.com/student/level-test.php)
+- [Free English Level Test](https://www.examenglish.com/leveltest/index.php)
+- [Free English Tests](http://www.english-test.net/)
+- [ILS English](https://www.ilsenglish.com/quicklinks/test-your-english-level)
+- [Online English level test](https://learnenglish.britishcouncil.org/online-english-level-test)
+- [Oxford Test of English](https://fdslive.oup.com/www.oup.com/elt/general_content/global/ote/demo-v3#/sound-check-complete)
+- [Oxford Test of English old](https://fdslive.oup.com/www.oup.com/elt/general_content/global/ote_demo)
+- [Prueba de Nivel de Inglés](https://oxfordhousebcn.com/niveles/prueba-de-nivel/ingles)
+- [Test de Inglés](https://grupovaughan.com/test-nivel-ingles) — Vaughan
+- [Test English](https://www.test-english.com/)
+- [Test english](https://www.esl-idiomas.com/es/pruebas-en-linea-ingles.htm)
+
+#### Languages App
+- [Andy English Bot](https://andychatbot.com/)
+- [Babbel](https://www.babbel.com/)
+- [BoldVoice](https://www.boldvoice.com/?ref=producthunt)
+- [Busuu](https://www.busuu.com/)
+- [Compromise](https://compromise.cool/)
+- [Duolingo](https://www.duolingo.com/) — The world's best way to learn a language
+- [ELSASPEAK](https://elsaspeak.com/en/)
+- [Fluent](https://www.fluent.co/) — Learn a New Language
+- [German Nouns](https://germangenders.com/deck/main) — German Genders app
+- [Glossarie](https://glossarie.app/) — The new, immersive way to learn a language
+- [Gymglish](https://www.gymglish.com/en) — Cours de langues en ligne
+- [HelloChinese](https://www.hellochinese.cc/) — #1 app for learning Chinese!
+- [HelloTalk](https://www.hellotalk.com/) — Language Exchange - Learn Languages for Free
+- [HiNative](https://hinative.com/es-MX)
+- [HiNative](https://hinative.com/en-US)
+- [iKnow!](https://iknow.jp/)
+- [LanguageDrops](https://languagedrops.com/)
+- [Learn Chinese Characters](https://zhongwen.com/)
+- [LingoChamp](https://www.lingochamp.world/en)
+- [Lingotype](https://www.lingotype.app/) — Learn Languages by Typing Real Conversations
+- [LingQ](https://www.lingq.com/en)
+- [Lingualeo](https://lingualeo.com/en)
+- [LinguaLift](https://www.lingualift.com/)
+- [Lingvist](https://lingvist.com/)
+- [Lupa.app](https://www.lupa.app/)
+- [LuteOrg/lute-v3](https://github.com/LuteOrg/lute-v3) — LUTE = Learning Using Texts: learn languages through reading
+- [Memrise](https://www.memrise.com/)
+- [Migaku.io](https://www.migaku.io/)
+- [Mondly](https://app.mondly.com/home)
+- [MosaLingua](https://www.mosalingua.com/en)
+- [Noun Town Language Learning](https://noun.town/)
+- [pimsleur](https://www.pimsleur.com/) — Learn New Languages Online: Effective Programs for Beginners
+- [Pleco](https://www.pleco.com/)
+- [Polly Lingual](https://pollylingu.al/)
+- [Preply](https://preply.com/) — Learn with the best online language tutors on app & web
+- [Quilingo](https://quilingo.com/) — Language learning with diglot weave and cozy stories
+- [Rocket Languages](https://www.rocketlanguages.com/)
+- [Rosetta Stone](https://www.rosettastone.es/) — Aprender un Idioma
+- [RussianPod101](https://www.russianpod101.com/index.php) — Learn Russian Online with Our Podcasts
+- [Skritter](https://skritter.com/)
+- [Speak](https://www.usespeak.com/) — The language learning app that gets you speaking
+- [Speaky](https://www.speaky.com/)
+- [Tandem Language Exchange App](https://tandem.net/) — Find Conversation Exchange Partners
+- [Texthelp](https://texthelp.com/)
+- [UneeBee](https://uneebee.com/) — Open-source interactive courses
+- [Voki](https://www.voki.com/)
+- [WaniKani](https://www.wanikani.com/)
+- [WordUp](https://www.wordupapp.co/)
+- [Xeropan](https://xeropan.com/)
+- [Yabla](https://yabla.com/)
+- [Yask](https://yask.app/es)
 
 ### Translator
 - ⭐ **[DeepL Translator](https://www.deepl.com/translator)**
@@ -254,292 +540,6 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [Youdao](https://www.youdao.com/)
 - [Youdao Fanyi*](http://fanyi.youdao.com/)
 
-### Dictionary
-- [American Sign Language ASL Dictionary](https://www.signasl.org/)
-- [Archive / gnome-dictionary · GitLab](https://gitlab.gnome.org/Archive/gnome-dictionary)
-- [Artha ~ The Open Thesaurus](https://sourceforge.net/projects/artha/)
-- [cli-dictionary/cli-dictionary · GitHub](https://github.com/cli-dictionary/cli-dictionary)
-- [Crissium/SilverDict · GitHub](https://github.com/Crissium/SilverDict)
-- [Diccionario Chemnitz](https://dict.tu-chemnitz.de/)
-- [DICT Development Group](https://sourceforge.net/projects/dict/)
-- [Dictionaries for Mac](https://dictionaries.io/)
-- [Dictionary API](https://dictionaryapi.dev/)
-- [Dictionary WordMagic](https://www.wordmagicsoft.com/dictionary/tools/index.php)
-- [Dictionnaire de l'Académie française](https://www.dictionnaire-academie.fr/)
-- [Dictionnaire Littré](https://www.littre.org/) — Dictionnaire de la langue française
-- [Éditions Le Robert](https://www.lerobert.com/) — la référence en langues pour définir, traduire,
-- [Free Dictionary project](https://www.dicts.info/)
-- [Freelang](https://www.freelang.net/)
-- [freespanish/Diccionario RAE](https://github.com/freespanish/Diccionario)
-- [Gaffiot](http://micmap.org/dicfro/home/gaffiot)
-- [Glosarium](https://www.glosarium.com/)
-- [GoldenDict](https://sourceforge.net/projects/goldendict/) — SourceForge
-- [goldendict/goldendict · GitHub](https://github.com/goldendict/goldendict)
-- [Iciba](https://www.iciba.com/)
-- [ikey4u/wikit](https://github.com/ikey4u/wikit) — Wikit - A universal lookup tool
-- [johnfactotum/quick-lookup · GitHub](https://github.com/johnfactotum/quick-lookup)
-- [Larousse.fr](https://www.larousse.fr/)
-- [Lexilogos](https://www.lexilogos.com/)
-- [Libellus](https://libellus.hummdudel.de/)
-- [Lisan ul Arab (لسان العرب)](https://archive.org/details/01_20210525_20210525_0314/01/) — Free Download, Borrow, and Streaming : Internet Archive
-- [LSJ](https://lsj.gr/wiki/Main_Page) — GreekEnglishLexicon
-- [mufeedali/Wordbook](https://github.com/mufeedali/Wordbook) — Wordbook is a dictionary application built for GNOME
-- [NAVER Dictionary](https://dict.naver.com/)
-- [OpenDict](https://opendict.sourceforge.net/)
-- [Pagina d'entrata](https://accademiadellacrusca.it/) — Accademia della Crusca
-- [pot-app/pot-desktop · GitHub](https://github.com/pot-app/pot-desktop)
-- [Pressmon](https://pressmon.com/)
-- [Samanya Angreji Hindi Shabdkosh](https://archive.org/details/in.ernet.dli.2015.400755/page/23/mode/2up) — Singh, Rammurti : Free Download, Borrow, and Streaming : Internet Archive
-- [SpreadTheSign](https://spreadthesign.com/en.us/search/) — Sign language dictionary
-- [StarDict](https://stardict-4.sourceforge.net/index_en.php) — The best dictionary program in linux and windows
-- [sugarlabs/words-activity](https://github.com/sugarlabs/words-activity) — A multilingual dictionary activity for the Sugar environment
-- [Tagaini Jisho](https://www.tagaini.net/)
-- [Wörterbuch der deutschen Sprache ✒️ Duden Online](https://www.duden.de/woerterbuch)
-- [yomitan](https://yomitan.wiki/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/yomidevs/yomitan) — Pop-up dictionary browser extension for language learning
-
-#### Dictionary of English
-- [Artha](http://artha.sourceforge.net/wiki/index.php/Home)
-- [Bab.la](https://bab.la/)
-- [Cambridge Dictionary](https://dictionary.cambridge.org/)
-- [Collins Dictionary](https://www.collinsdictionary.com/)
-- [Diclib](http://diclib.com/)
-- [dict.org](https://dict.org/bin/Dict)
-- [Dictionary by Merriam-Webster](https://www.merriam-webster.com/)
-- [Dictionary.com](https://www.dictionary.com/)
-- [Dictionary.net](http://www.dictionary.net/)
-- [Educalingo dictionary](https://educalingo.com/en/dic-en)
-- [English-Corpora](https://www.english-corpora.org/)
-- [enwiktionary (latest)](https://dumps.wikimedia.org/enwiktionary/latest/) — Wikimedia dumps
-- [Find Words](https://findwords.info/)
-- [FOLDOC](http://foldoc.org/) — Computing Dictionary
-- [Freak Thesaurus](https://frankensaurus.com/)
-- [Free Dictionary](http://www.freedictionary.org/)
-- [Freelang Dictionary](https://www.freelang.net/dictionary/index.php)
-- [OneLook Dictionary](https://www.onelook.com/)
-- [Online Etymology Dictionary](https://www.etymonline.com/)
-- [Open English WordNet](https://en-word.net/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/globalwordnet/english-wordnet)
-- [Oxford English Dictionary](https://www.oed.com/)
-- [Oxford Learner's Dictionaries](https://www.oxfordlearnersdictionaries.com/)
-- [Princeton WordNet](https://wordnetcode.princeton.edu/?C=M;O=D)
-- [Reverse Dictionary](https://reversedictionary.org/)
-- [Sideways Dictionary](https://sidewaysdictionary.com/)
-- [Slangit](https://slangit.com/)
-- [The Free Dictionary](https://www.thefreedictionary.com/)
-- [The Skeptic's Dictionary](http://skepdic.com/)
-- [TheSage English Dictionary and Thesaurus](https://sequencepublishing.com/1)
-- [Urban Dictionary](https://www.urbandictionary.com/)
-- [WikiDiff](https://wikidiff.com/)
-- [Wiktionary Enlgish](https://dumps.wikimedia.org/enwiktionary/) — Wikimedia
-- [Wiktionary, the free dictionary](https://en.wiktionary.org/wiki/Wiktionary:Main_Page)
-- [WordWeb](https://wordweb.info/free)
-- [WordWeb](https://wordweb.info/) — English dictionary
-- [YourDictionary](https://www.yourdictionary.com/)
-
-#### Semantic & Thesaurus
-- ⭐ **[BabelNet](https://babelnet.org/)** — The largest multilingual encyclopedic dictionary and semantic network
-- ⭐ **[ConceptNet](https://conceptnet.io/)** — Multilingual graph
-- [Abbreviations](https://www.abbreviations.com/)
-- [Abbreviations and acronyms dictionary](https://www.acronymfinder.com/)
-- [All Acronyms](https://www.allacronyms.com/)
-- [Branah](https://www.branah.com/) — Type in your language
-- [Chinese Open Wordnet (cow)](https://bond-lab.github.io/cow/)
-- [English Grammar Online](https://www.ego4u.com/) — EGO
-- [FrameNet](https://framenet.icsi.berkeley.edu/frames) — Berkeley
-- [Global WordNet Association](https://globalwordnet.github.io/resources/wordnets-in-the-world)
-- [Lenguaje español](https://www.lenguaje.com/)
-- [Lexico.com](https://www.lexico.com/)
-- [Lexipedia](https://www.lexipedia.com/)
-- [Macroscope](https://macroscope.tech/wordanalysis?searchTerm=%22%22&settings=%7B%22sentimentSettingsPanel%22%3A%7B%22isOpen%22%3Atrue%2C%22settings%22%3A%7B%22type%22%3A%22VALENCE%22%7D%7D%2C%22frequencySettingsPanel%22%3A%7B%22isOpen%22%3Atrue%2C%22settings%22%3A%7B%7D%7D%2C%22synonymListSettingsPanel%22%3A%7B%22isOpen%22%3Afalse%2C%22settings%22%3A%7B%22year%22%3A1990%2C%22numberOfSynonyms%22%3A5%2C%22method%22%3A%22SGNS%22%7D%7D%2C%22synonymNetworkSettingsPanel%22%3A%7B%22isOpen%22%3Afalse%2C%22settings%22%3A%7B%22year%22%3A1990%2C%22synonymsPerTarget%22%3A5%2C%22similarityThreshold%22%3A0.7%7D%7D%2C%22contextNetworkSettingsPanel%22%3A%7B%22isOpen%22%3Afalse%2C%22settings%22%3A%7B%22year%22%3A2000%2C%22maximumNodes%22%3A50%2C%22contextRelevance%22%3A0.55%2C%22contextCohesiveness%22%3A0.55%2C%22individualWordRelevance%22%3A3%2C%22minimumEdges%22%3A5%2C%22displayNodes%22%3A110%2C%22method%22%3A%22COR%22%7D%7D%2C%22semanticDriftSettingsPanel%22%3A%7B%22isOpen%22%3Afalse%2C%22settings%22%3A%7B%7D%7D%2C%22contextChangeSettingsPanel%22%3A%7B%22isOpen%22%3Afalse%2C%22settings%22%3A%7B%22startYear%22%3A1800%2C%22endYear%22%3A2000%2C%22numberOfContextWords%22%3A20%7D%7D%7D) — Analysis of languages
-- [Moby Thesaurus](https://moby-thesaurus.org/)
-- [own-pt/openWordnet-PT](https://github.com/own-pt/openWordnet-PT) — OpenWordnet-PT: an open access wordnet for Portuguese
-- [Pealim](https://www.pealim.com/) — Hebrew
-- [Power Thesaurus](https://www.powerthesaurus.org/)
-- [Refine](https://refine.sh/)
-- [Relatedwords](https://relatedwords.org/)
-- [RhymeZone](https://www.rhymezone.com/)
-- [Salah-Sal/arabic-wordnet-v4](https://github.com/Salah-Sal/arabic-wordnet-v4) — Arabic WordNet 4.0 · GitHub
-- [Sinónimo.es](https://www.xn--sinnimo-n0a.es/)
-- [Sinónimos Online](https://www.sinonimosonline.com/)
-- [Synoniemen.net](https://synoniemen.net/)
-- [Synonym](https://www.synonym.com/)
-- [Thesaurus](https://www.thesaurus.com/)
-- [Thesaurus.plus](https://thesaurus.plus/)
-- [Verbix verb conjugator](https://www.verbix.com/)
-- [Vocabulary.com](https://www.vocabulary.com/)
-- [WordHippo](https://www.wordhippo.com/)
-- [Wordnet List](https://cygnet.maudslay.eu/#/wordnets) — Cygnet — A Network of Signs
-- [WordType.org](https://wordtype.org/)
-
-#### Dictionary of Spanish
-- [¿Qué significa?](https://www.qsignifica.net/)
-- [A](https://www.ellibrototal.com/ltotal/?t=16&d=1) — Real Academia de la Lengua
-- [DECEL](https://etimologias.dechile.net/) — Diccionario Etimológico Castellano en Línea
-- [Diccionario básico de canarismos](https://www.academiacanarialengua.org/diccionario/) — Academia Canaria de la Lengua
-- [Diccionario Canario o Habla Canaria](https://guanchipedia.com/diccionario-canario-de-guanchipedia/) — Un fisquito de Canario, por favor ...
-- [Diccionario de la lengua española](https://dle.rae.es/)
-- [Diccionario de uso del español](https://vk.com/wall-57851681_3396) — María Moliner | VK
-- [Diccionario del español actual de Manuel Seco](https://www.fbbva.es/diccionario/) — nueva edición digital
-- [Diccionario del español de México](https://dem.colmex.mx/)
-- [Diccionario Enciclopédico Español](https://www.definiciones-de.com/)
-- [Diccionario histórico de la lengua española](https://apps.rae.es/CNDHE/org/publico/pages/consulta/entradaCompleja.view)
-- [Diccionario RAE](https://play.google.com/store/apps/details?id=es.rae.dle) — Apps on Google Play
-- [diccionario-lengua](https://codeberg.org/rafaelmardojai/diccionario-lengua) — codeberg
-- [Diccionarios.com](https://www.diccionarios.com/)
-- [Dirae](https://dirae.es/)
-- [Frases y Citas en Latín](https://latin.dechile.net/) — dechile.net
-- [Palabras que](https://www.palabrasque.com/)
-- [RAE API](https://rae-api.com/) — Diccionario RAE
-- [SignificadoDe](https://www.significadode.org/palabras.htm)
-- [SM Diccionarios](http://clave.smdiccionarios.com/app.php)
-- [Wiktionary es](https://dumps.wikimedia.org/eswiktionary/) — Wikimedia
-
-#### How to Pronounce
-- [Forvo](https://forvo.com/)
-- [How To Pronounce](https://www.howtopronounce.com/)
-- [Howjsay](https://howjsay.com/) — Pronunciation
-- [toPhonetics](https://tophonetics.com/)
-
-#### Dictionary of Chinese
-- [Baike.com](https://www.baike.com/)
-- [Chinese Dictionary](https://dictionary.writtenchinese.com/)
-- [Dictionary Youdao](https://dict.youdao.com/)
-- [LINE Chinese-English Dictionary](https://dict.naver.com/linedict#/cnen/home)
-- [MDBG Chinese Dictionary](https://www.mdbg.net/chinese/dictionary)
-- [Zhongwen](https://chromewebstore.google.com/detail/zhongwen-chinese-english/kkmlkkjojmombglmlpbpapmhcaljjkde) — Chinese-English Dictionary - Chrome Web Store
-- [漢語大詞典](https://hanyucidian.org/) — Chinese Dictionary Compendium 漢語辭典總匯
-- [词典|汉语词典|现代汉语词典|在线词典-汉语言文学网](https://cd.hwxnet.com/)
-
-#### Words
-- [Palabras con](https://www.palabrascon.com/)
-- [Palabras Help](https://palabras.help/)
-
-### Languages
-- [8Belts](https://w.8belts.com/)
-- [Chino Simplificado](https://www.chinosimplificado.com/)
-- [Eingleses](https://eingleses.com/)
-- [Ethnologue](https://www.ethnologue.com/) — Languages of the World
-- [Gate2HOme](https://gate2home.com/) — Virtual keyboard
-- [Glottolog](https://glottolog.org/)
-- [Greek Language](https://www.foundalis.com/lan/greek.htm)
-- [Hebrew Today](https://hebrewtoday.com/)
-- [I Will Teach You A Language](https://iwillteachyoualanguage.com/)
-- [IPA](http://www.internationalphoneticalphabet.org/)
-- [LangFocus!](https://langfocus.com/)
-- [Language Transfer](https://www.languagetransfer.org/)
-- [Learn a Language](https://www.learnalanguage.com/)
-- [Learn French](https://www.tolearnfrench.com/)
-- [Lexi Explorer](https://lexiexplorer.com/)
-- [Loecsen / Online languages](https://www.loecsen.com/en)
-- [My Languages](https://www.mylanguages.org/)
-- [PushkinOnline](https://pushkininstitute.ru/learn?locale=es) — Learn russian
-- [Read Korean letters](https://readkoreanletters.com/)
-- [Ricotta](https://ricotta.affineur.io/)
-- [YellowBridge Chinese](https://www.yellowbridge.com/)
-
-#### Languages App
-- [Andy English Bot](https://andychatbot.com/)
-- [Babbel](https://www.babbel.com/)
-- [BoldVoice](https://www.boldvoice.com/?ref=producthunt)
-- [Busuu](https://www.busuu.com/)
-- [Compromise](https://compromise.cool/)
-- [Duolingo](https://www.duolingo.com/) — The world's best way to learn a language
-- [ELSASPEAK](https://elsaspeak.com/en/)
-- [Fluent](https://www.fluent.co/) — Learn a New Language
-- [German Nouns](https://germangenders.com/deck/main) — German Genders app
-- [Glossarie](https://glossarie.app/) — The new, immersive way to learn a language
-- [Gymglish](https://www.gymglish.com/en) — Cours de langues en ligne
-- [HelloChinese](https://www.hellochinese.cc/) — #1 app for learning Chinese!
-- [HelloTalk](https://www.hellotalk.com/) — Language Exchange - Learn Languages for Free
-- [HiNative](https://hinative.com/es-MX)
-- [HiNative](https://hinative.com/en-US)
-- [iKnow!](https://iknow.jp/)
-- [LanguageDrops](https://languagedrops.com/)
-- [Learn Chinese Characters](https://zhongwen.com/)
-- [LingoChamp](https://www.lingochamp.world/en)
-- [Lingotype](https://www.lingotype.app/) — Learn Languages by Typing Real Conversations
-- [LingQ](https://www.lingq.com/en)
-- [Lingualeo](https://lingualeo.com/en)
-- [LinguaLift](https://www.lingualift.com/)
-- [Lingvist](https://lingvist.com/)
-- [Lupa.app](https://www.lupa.app/)
-- [LuteOrg/lute-v3](https://github.com/LuteOrg/lute-v3) — LUTE = Learning Using Texts: learn languages through reading
-- [Memrise](https://www.memrise.com/)
-- [Migaku.io](https://www.migaku.io/)
-- [Mondly](https://app.mondly.com/home)
-- [MosaLingua](https://www.mosalingua.com/en)
-- [Noun Town Language Learning](https://noun.town/)
-- [pimsleur](https://www.pimsleur.com/) — Learn New Languages Online: Effective Programs for Beginners
-- [Pleco](https://www.pleco.com/)
-- [Polly Lingual](https://pollylingu.al/)
-- [Preply](https://preply.com/) — Learn with the best online language tutors on app & web
-- [Quilingo](https://quilingo.com/) — Language learning with diglot weave and cozy stories
-- [Rocket Languages](https://www.rocketlanguages.com/)
-- [Rosetta Stone](https://www.rosettastone.es/) — Aprender un Idioma
-- [RussianPod101](https://www.russianpod101.com/index.php) — Learn Russian Online with Our Podcasts
-- [Skritter](https://skritter.com/)
-- [Speak](https://www.usespeak.com/) — The language learning app that gets you speaking
-- [Speaky](https://www.speaky.com/)
-- [Tandem Language Exchange App](https://tandem.net/) — Find Conversation Exchange Partners
-- [Texthelp](https://texthelp.com/)
-- [UneeBee](https://uneebee.com/) — Open-source interactive courses
-- [Voki](https://www.voki.com/)
-- [WaniKani](https://www.wanikani.com/)
-- [WordUp](https://www.wordupapp.co/)
-- [Xeropan](https://xeropan.com/)
-- [Yabla](https://yabla.com/)
-- [Yask](https://yask.app/es)
-
-#### English Language
-- [English phrasal verbs](https://little-brother.github.io/english-phrasal-verbs/)
-
-##### English Online
-- [Amigos Ingleses](https://www.amigosingleses.com/)
-- [Aprende inglés](https://aprenderingles.org/)
-- [BBC Learning English](http://www.bbc.co.uk/learningenglish)
-- [British Council](https://learnenglishteens.britishcouncil.org/) — Learnenglishteens
-- [Cambly](https://www.cambly.com/english?lang=en)
-- [Curso de inglés](https://www.curso-ingles.com/)
-- [Emery.world](https://emery.world/) — The best English courses online
-- [English Practive](https://english-practice.net/)
-- [English with Lucy](https://englishwithlucy.co.uk/)
-- [EnglishClass101](https://www.englishclass101.com/)
-- [FluentU](https://www.fluentu.com/)
-- [italki](https://www.italki.com/)
-- [La Mansion del Ingles](http://www.mansioningles.com/)
-- [Learn English](https://learnenglish.edu.co/web)
-- [Learn English Free](https://www.learnenglish.de/)
-- [Learning English with Oxford](https://learningenglishwithoxford.com/)
-- [Perfect English Grammar](https://www.perfect-english-grammar.com/)
-- [USA Learns](https://usalearns.org/)
-- [VOA learn English](https://learningenglish.voanews.com/)
-- [Write & Improve](https://writeandimprove.com/)
-
-##### English Test
-- [Altissia](https://altissia.org/free-english-language-test)
-- [Cambridge Speak & Improve](https://speakandimprove.com/)
-- [Cambridge Test English](https://www.cambridgeenglish.org/test-your-english)
-- [EF SET® English test](https://www.efset.org/)
-- [English Tests](https://www.ego4u.com/en/cram-up/tests) — Test your English
-- [esl-lounge Student](https://www.esl-lounge.com/student/level-test.php)
-- [Free English Level Test](https://www.examenglish.com/leveltest/index.php)
-- [Free English Tests](http://www.english-test.net/)
-- [ILS English](https://www.ilsenglish.com/quicklinks/test-your-english-level)
-- [Online English level test](https://learnenglish.britishcouncil.org/online-english-level-test)
-- [Oxford Test of English](https://fdslive.oup.com/www.oup.com/elt/general_content/global/ote/demo-v3#/sound-check-complete)
-- [Oxford Test of English old](https://fdslive.oup.com/www.oup.com/elt/general_content/global/ote_demo)
-- [Prueba de Nivel de Inglés](https://oxfordhousebcn.com/niveles/prueba-de-nivel/ingles)
-- [Test de Inglés](https://grupovaughan.com/test-nivel-ingles) — Vaughan
-- [Test English](https://www.test-english.com/)
-- [Test english](https://www.esl-idiomas.com/es/pruebas-en-linea-ingles.htm)
-
-##### English Exam
-- [Cambridge English](https://www.cambridgeenglish.org/)
-- [Cambrigemb](https://cambridgemb.com/)
-- [ETS](https://www.ets.org/)
-- [Oxford English Testing](https://www.oxfordenglishtesting.com/oaslms/login.aspx)
-- [Oxford University Press](https://elt.oup.com/feature/global/oxford_test_of_english?cc=global&selLanguage=en) — ELT Test English
-- [Pearson VUE](https://home.pearsonvue.com/)
-
 ## Learning Platforms
 
 ### Academy
@@ -584,34 +584,6 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [Vertex School](https://www.vertexschool.com/)
 - [Webflow University](https://university.webflow.com/)
 - [YFDSFAM](https://www.yfdsfam.com/)
-
-#### Search Academy
-- [Academias.com](https://www.academias.com/)
-- [Clases Fran](https://www.paypal.com/paypalme/ayudaantonio)
-- [Online Universities](https://www.onlineuniversities.com/)
-- [Sharing Academy](https://sharingacademy.com/en)
-- [Superprof](https://www.superprof.es/)
-- [TusClasesParticulares](https://www.tusclasesparticulares.com/)
-- [Universia](https://www.universia.net/es/home.html)
-- [unPROFESOR.com](https://www.unprofesor.com/)
-
-#### English Academy
-- [Academia de inglés](https://www.imllazubia.com/)
-- [British Council](https://www.britishcouncil.es/)
-- [Cambridge School](https://www.cambridgeschool.com/)
-- [EF](https://www.ef.com/cl)
-- [EF English Live](https://englishlive.ef.com/es-es)
-- [Escuela Oficial de Idiomas (La Laguna)](https://eoilalaguna.com/)
-- [GrupoVaughan](https://grupovaughan.com/)
-- [Home Academia](https://www.homeacademia.es/)
-- [Inglessa](https://inglessa.com/)
-- [Inglessa CV](https://inglessacv.com/)
-- [Kedaro](https://kedaro.com/)
-- [Klensein](https://www.klensein.com/)
-- [Lingoda](https://www.lingoda.com/en)
-- [London School](http://www.londonsc.com/)
-- [Oxford Online English](https://www.oxfordonlineenglish.com/)
-- [Oxfordhouse BCN](https://oxfordhousebcn.com/)
 
 #### Coding Academy
 - [4 Geeks Academy](https://4geeksacademy.com/)
@@ -668,6 +640,56 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [Tutorialspoint](https://www.tutorialspoint.com/)
 - [W3Schools Campus](https://campus.w3schools.com/) — Launch Your Tech Career with Coding Courses & Certificates
 - [wfTutorials](https://app.wftutorials.com/dashboard/) — Recent Tutorials
+
+#### English Academy
+- [Academia de inglés](https://www.imllazubia.com/)
+- [British Council](https://www.britishcouncil.es/)
+- [Cambridge School](https://www.cambridgeschool.com/)
+- [EF](https://www.ef.com/cl)
+- [EF English Live](https://englishlive.ef.com/es-es)
+- [Escuela Oficial de Idiomas (La Laguna)](https://eoilalaguna.com/)
+- [GrupoVaughan](https://grupovaughan.com/)
+- [Home Academia](https://www.homeacademia.es/)
+- [Inglessa](https://inglessa.com/)
+- [Inglessa CV](https://inglessacv.com/)
+- [Kedaro](https://kedaro.com/)
+- [Klensein](https://www.klensein.com/)
+- [Lingoda](https://www.lingoda.com/en)
+- [London School](http://www.londonsc.com/)
+- [Oxford Online English](https://www.oxfordonlineenglish.com/)
+- [Oxfordhouse BCN](https://oxfordhousebcn.com/)
+
+#### Search Academy
+- [Academias.com](https://www.academias.com/)
+- [Clases Fran](https://www.paypal.com/paypalme/ayudaantonio)
+- [Online Universities](https://www.onlineuniversities.com/)
+- [Sharing Academy](https://sharingacademy.com/en)
+- [Superprof](https://www.superprof.es/)
+- [TusClasesParticulares](https://www.tusclasesparticulares.com/)
+- [Universia](https://www.universia.net/es/home.html)
+- [unPROFESOR.com](https://www.unprofesor.com/)
+
+### Classroom
+- [Albert](https://www.albert.io/home)
+- [BigBlueButton Demo](https://demo.bigbluebutton.org/gl)
+- [Blackboard.com](https://www.blackboard.com/)
+- [BlinkLearning](https://www.blinklearning.com/home)
+- [ClassDojo](https://classdojo.com/)
+- [ClassLink](https://www.classlink.com/) — Single Sign-On for Education
+- [Clever](https://clever.com/) — Single sign-on for education
+- [Easyclass](https://www.easyclass.com/)
+- [GoConqr](https://www.goconqr.com/es)
+- [Instructure](https://www.instructure.com/) — Educational Software Development
+- [Kami](https://www.kamiapp.com/)
+- [QuizBean](https://www.quizbean.com/home)
+- [Schoology](https://www.schoology.com/)
+- [Showbie](https://www.showbie.com/)
+- [Socrative](https://www.socrative.com/)
+- [TeacherVision](https://www.teachervision.com/)
+- [Tes](https://www.tes.com/)
+- [Veyon](https://veyon.io/en) — Cross-platform computer control and classroom management
+- [WebAssign](https://www.webassign.net/)
+- [WizIQ](https://www.wiziq.com/)
 
 ### Courses
 - [Learn Computer Science](https://www.learncomputerscienceonline.com/) — Free Computer Science Education Online
@@ -737,23 +759,6 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [W3Schools Courses](https://courses.w3schools.com/)
 - [World Science U](https://worldscienceu.com/)
 
-#### Search Courses
-- [AFS Formación](https://www.afsformacion.com/)
-- [Avanzaentucarrera](https://www.avanzaentucarrera.com/)
-- [Caja de Letrass](https://cajadeletras.es/)
-- [Course Hero](https://www.coursehero.com/)
-- [Coursera](https://www.coursera.org/) — Degrees, Certificates, & Free Online Courses
-- [Cruz Roja](https://www2.cruzroja.es/formate) — Fórmate
-- [Cursos](https://cursos.com/)
-- [Docentia](https://cursosgratis-docentia.es/)
-- [Educaweb](https://www.educaweb.com/)
-- [Emagister](https://www.emagister.com/)
-- [Fifede](https://fifede.org/)
-- [Hotcourses Latinoamérica](https://www.hotcourseslatinoamerica.com/)
-- [Miríadax](https://miriadax.net/)
-- [Servicio Canario de Empleo](http://www3.gobiernodecanarias.org/empleo/portal/web/sce/servicios/cursos) — Cursos
-- [Study.com](https://study.com/)
-
 #### Personal Courses
 - [adventJS](https://adventjs.dev/)
 - [Affinity Photo Tutorials](https://affinityrevolution.com/)
@@ -810,27 +815,22 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [Webtraining](https://webtraining.zone/)
 - [Yes I'm a Designer](https://yesimadesigner.com/)
 
-### Classroom
-- [Albert](https://www.albert.io/home)
-- [BigBlueButton Demo](https://demo.bigbluebutton.org/gl)
-- [Blackboard.com](https://www.blackboard.com/)
-- [BlinkLearning](https://www.blinklearning.com/home)
-- [ClassDojo](https://classdojo.com/)
-- [ClassLink](https://www.classlink.com/) — Single Sign-On for Education
-- [Clever](https://clever.com/) — Single sign-on for education
-- [Easyclass](https://www.easyclass.com/)
-- [GoConqr](https://www.goconqr.com/es)
-- [Instructure](https://www.instructure.com/) — Educational Software Development
-- [Kami](https://www.kamiapp.com/)
-- [QuizBean](https://www.quizbean.com/home)
-- [Schoology](https://www.schoology.com/)
-- [Showbie](https://www.showbie.com/)
-- [Socrative](https://www.socrative.com/)
-- [TeacherVision](https://www.teachervision.com/)
-- [Tes](https://www.tes.com/)
-- [Veyon](https://veyon.io/en) — Cross-platform computer control and classroom management
-- [WebAssign](https://www.webassign.net/)
-- [WizIQ](https://www.wiziq.com/)
+#### Search Courses
+- [AFS Formación](https://www.afsformacion.com/)
+- [Avanzaentucarrera](https://www.avanzaentucarrera.com/)
+- [Caja de Letrass](https://cajadeletras.es/)
+- [Course Hero](https://www.coursehero.com/)
+- [Coursera](https://www.coursera.org/) — Degrees, Certificates, & Free Online Courses
+- [Cruz Roja](https://www2.cruzroja.es/formate) — Fórmate
+- [Cursos](https://cursos.com/)
+- [Docentia](https://cursosgratis-docentia.es/)
+- [Educaweb](https://www.educaweb.com/)
+- [Emagister](https://www.emagister.com/)
+- [Fifede](https://fifede.org/)
+- [Hotcourses Latinoamérica](https://www.hotcourseslatinoamerica.com/)
+- [Miríadax](https://miriadax.net/)
+- [Servicio Canario de Empleo](http://www3.gobiernodecanarias.org/empleo/portal/web/sce/servicios/cursos) — Cursos
+- [Study.com](https://study.com/)
 
 ## Music Theory
 - [Christofmusic](https://christofmusic.com/)
@@ -890,107 +890,81 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 
 ## Science
 
-### Basic Science
+### Alter Science
+- [Lost Age Secrets](https://www.lostagesecrets.com/)
+- [Occult Mysteries](http://www.occult-mysteries.org/)
+- [Occult Sciences](http://www.occultsciences.org/)
 
-#### Physics
-- [Academia Ciencias Galilei](http://www.acienciasgalilei.com/)
-- [Applied Ballistics](https://appliedballisticsllc.com/)
-- [Atmospheric Optics](http://www.atoptics.co.uk/)
-- [Curso Interactivo de Física](http://www.sc.ehu.es/sbweb/fisica_/index.html)
-- [Falstad](http://www.falstad.com/mathphysics.html) — Math, Physics, and Engineering Applets
-- [Física con ordenador](http://www.sc.ehu.es/sbweb/fisica/default.htm)
-- [Física Práctica](https://www.fisicapractica.com/index.php)
-- [Física UPM](https://www2.montes.upm.es/dptos/digfa/cfisica/default.htm)
-- [Física y Química (Heurema)](http://www.heurema.com/)
-- [Fisicalab](https://www.fisicalab.com/)
-- [FisQuiMat](https://sites.google.com/site/smmfisicayquimica)
-- [HyperPhysics Concepts](http://hyperphysics.phy-astr.gsu.edu/hbase/index.html)
-- [La web de Física](https://www.lawebdefisica.com/)
-- [Laplace](http://laplace.us.es/wiki/index.php/P%C3%A1gina_Principal) — Física US
-- [oPhysics](https://ophysics.com/)
-- [Paul Falstad](https://www.falstad.com/)
-- [PhotoVoltaic Education](https://www.pveducation.org/)
-- [Physclips UNSW](https://www.animations.physics.unsw.edu.au/)
-- [Physics](https://www.khanacademy.org/science/physics) — Science
-- [Physics About](https://physicsabout.com/)
-- [RefractiveIndex.info](https://refractiveindex.info/)
-- [Termodinámica documentation](https://termodinamica.readthedocs.io/en/latest)
-- [The Feynman Lectures on Physics*](https://www.feynmanlectures.caltech.edu/)
-- [The Physics Classroom](https://www.physicsclassroom.com/)
-- [The Physics Hypertextbook](https://physics.info/)
+#### Alchemy
+- [Alchemy Web Site](https://www.alchemywebsite.com/)
 
-#### Maths
-- [CalcMe](https://calcme.com/a)
-- [Combinatorics and more](https://gilkalai.wordpress.com/) — Gil Kalai’s blog
-- [Dario Alpern (maths & assembler)](https://www.alpertron.com.ar/)
-- [Ekuatio](https://ekuatio.com/)
-- [Estadística](http://www.estadistica.net/)
-- [Fernando Revilla](http://fernandorevilla.es/) — Docencia matemática
-- [FlowingData](https://flowingdata.com/)
-- [Geometría dinámica](https://www.geometriadinamica.es/)
-- [Gitit.net](https://gitit.net/)
-- [House of Graphs](https://hog.grinvin.org/)
-- [Immersive Math](https://immersivemath.com/ila/index.html)
-- [Integrales Irracionales](http://www.estadistica.net/Algoritmos2/2irracionales.html)
-- [Interactive Mathematics](https://www.intmath.com/)
-- [IXL](https://es.ixl.com/) — Ejercicios de Matemáticas
-- [Matemáticas](https://es.khanacademy.org/math) — Khan Academy
-- [Matemáticas IES](https://matematicasies.com/)
-- [MateMovil](https://matemovil.com/)
-- [Material profesor mates](https://pfortuny.net/uniovi.html)
-- [Math is Fun](https://www.mathsisfun.com/)
-- [Math2.org](http://math2.org/)
-- [Math24](https://math24.net/)
-- [Mathematics LibreTexts](https://math.libretexts.org/)
-- [Mathscribe](https://mathscribe.com/)
-- [Millennium Mathematics Project](https://maths.org/)
-- [Numbermatics](https://numbermatics.com/)
-- [Olimpiada Matemática Española](http://www.olimpiadamatematica.es/platea.pntic.mec.es/_csanchez/olimmain.html)
-- [Project Euler](https://projecteuler.net/)
-- [Proofs and Prompts](https://proofsandprompts.com/) — Notes from the common room
-- [Real Sociedad Matemática Española](https://www.rsme.es/)
-- [Scissors Congruence](https://dmsm.github.io/scissors-congruence)
-- [Sector Matemática](https://www.sectormatematica.cl/)
-- [Seeing Theory](https://seeing-theory.brown.edu/)
-- [Series de Fourier](https://megafourier.blogspot.com/)
-- [Sr Examen](https://srexamen.com/)
-- [STHDA](http://www.sthda.com/english)
-- [Weekly Mathematics](https://weeklymathematics.com/)
-- [Whistler Alley Mathematics](http://whistleralley.com/)
-- [WIRIS](http://www.wiris.com/en)
-- [Wolfram MathWorld](https://mathworld.wolfram.com/)
-- [Wumbo.net](https://wumbo.net/)
-- [Xm1 Math](https://www.xm1math.net/)
-- [Zweigmedia](https://www.zweigmedia.com/index.php) — Finite mathematics
+#### Astrology
+- [Astro.com](https://www.astro.com/horoscope)
+- [ASTROLABE](https://alabe.com/solarfireV9.html) — Solar Fire V9
+- [Astrolink](https://www.astrolink.com.br/) — Mapa Astral Gratuito
+- [Astrolog Website](https://www.astrolog.org/astrolog.htm)
+- [Astrology & Spirituality Resources](https://www.vedicastrologer.org/jh/jhshot.htm)
+- [Astrology Clock](https://astrologyclock.net/)
+- [Astrology Library](https://astrolibrary.org/)
+- [Astrology symbols](https://astrology-symbols.com/)
+- [Astrology Zodiac Signs](https://www.astrology-zodiac-signs.com/)
+- [Astrology.com](https://www.astrology.com/us/home.aspx)
+- [AstroMatrix Horoscopes](https://astromatrix.app/intro) — FREE Birth Charts and Daily Horoscopes
+- [AstroMatrix Horoscopes](https://astromatrix.app/chartdaily) — FREE Birth Charts and Daily Horoscopes
+- [Authority Astrology](https://authorityastrology.com/) — AI Astrology & Chart Interpretations
+- [Cosmograma](https://www.cosmograma.com/)
+- [FUTOORO](https://futooro.com/)
+- [Prague Clock](http://www.wijzerweb.be/prague.html) — Wijzerweb
+- [Sanctuary](https://www.sanctuaryworld.co/)
+- [Signos del Zodiaco](https://www.signos-zodiaco.com/)
+- [Starla App](https://www.askstarla.com/) — Astrology & Soulmate Drawing
+- [Vedic Astrology (Jyotish) Software From GeoVision Software Inc.](http://www.parashara.com/)
 
-#### Chemistry
-- [Chemix](https://chemix.org/)
-- [Chemweb](https://www.chemweb.com/)
-- [Formulación química](https://www.formulacionquimica.com/)
-- [Manual da Química](https://www.manualdaquimica.com/)
-- [MolView](https://molview.org/)
-- [PeriodicTable.com](https://periodic-table.com/#/)
-- [PeriodicTable.pro](https://periodic-table.pro/)
-- [PeriodicTable.tech*](https://www.periodic-table.tech/#/)
-- [Ptable.com](https://ptable.com/)
-- [Químicaorgánica](https://www.quimicaorganica.org/)
-- [World of Molecules](https://www.worldofmolecules.com/)
-- [XuMuK.ru](https://xumuk.ru/)
+#### Chiromancy
+- [Las líneas de la mano](https://lineasdelamano.net/)
 
-#### Biology
-- [Age of Biology](https://ageofbiology.com/)
-- [Ant Maps](https://antmaps.org/)
-- [ASMscience](https://www.asmscience.org/)
-- [Biología literaturamagica](https://biologia.literaturamagica.net/)
-- [BMC](https://www.biomedcentral.com/)
-- [BTO](https://www.bto.org/)
-- [iBiology](https://www.ibiology.org/)
-- [Learn.Genetics](https://learn.genetics.utah.edu/)
-- [PLOS Biology](https://journals.plos.org/plosbiology)
-- [ProDy (Protein Dynamics and Sequence Analysis)](http://prody.csb.pitt.edu/index.html)
-- [The Fundamentals of Neuroscience](https://www.mcb80x.org/)
+#### Kabbalah
+- [Arquetipos Raúl Durán](https://www.arquetiposraulduran.com/)
+
+#### Numerology
+- [Numerologist.com](https://numerologist.com/)
+
+#### Tarot
+- [Aleister Crowley Tarot](https://www.aleistercrowleytarot.com/)
 
 ### Applied Science
+
+#### Astronomy
+- [Ap-i.net](https://www.ap-i.net/)
+- [AstroAfición](https://astroaficion.com/)
+- [Astrofísica y Física](https://www.astrofisicayfisica.com/)
+- [Astrofotografia amateur por Sideribus](https://sideribus.com/)
+- [Astronomos.org](http://www.astronomos.org/)
+- [Astronomy 535](http://ganymede.nmsu.edu/holtz/a535/) — Observational Techniques
+- [Cloudy Nights](https://www.cloudynights.com/)
+- [COBS](https://cobs.si/)
+- [Down2Earth](http://education.down2earth.eu/)
+- [Earth Snapshot](http://www.eosnap.com/)
+- [El Cielo de Canarias](http://www.elcielodecanarias.com/)
+- [Grupo Amateur de Meteorología Espacial](http://www.meteorologiaespacial.es/)
+- [Heavens-Above](https://heavens-above.com/)
+- [Helioviewer.org for student](https://student.helioviewer.org/)
+- [In-The-Sky.org](https://in-the-sky.org/)
+- [JHelioviewer](https://www.jhelioviewer.org/)
+- [Lanzamientos espaciales](https://lanzamientosespaciales.com/)
+- [Lunar Reconnaissance Orbiter Camera](http://lroc.sese.asu.edu/)
+- [New Horizons](http://pluto.jhuapl.edu/)
+- [Planetario de Madrid](http://www.planetmad.es/)
+- [Redshift-Live](https://www.redshift-live.com/ext/en)
+- [ServiAstro](https://serviastro.ub.edu/)
+- [Space 4 everybody](https://space4everybody.com/)
+- [Spider's Seds](https://spider.seds.org/)
+- [Sunspots and active regions today](https://xras.ru/en/active_areas.html)
+- [The Nine Planets](https://nineplanets.org/)
+- [uphere.space](https://uphere.space/)
+- [Virgo GW](https://www.virgo-gw.eu/)
+- [Who Is In Space?](https://www.whoisinspace.com/)
+- [Windows 2 Universe](http://www.windows2universe.org/)
 
 #### Computing
 - ⭐ **[DevDocs.io](https://devdocs.io/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/freeCodeCamp/devdocs)
@@ -1109,20 +1083,6 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [W3Schools.blog](https://www.w3schools.blog/)
 - [web.resource.org](https://web.resource.org/)
 
-##### Supercomputing
-- [Barcelona Supercomputing Center](https://www.bsc.es/)
-- [CSCS Swiss National Supercomputing Centre](https://www.cscs.ch/)
-- [Fugaku](https://www.r-ccs.riken.jp/en/fugaku/) — RIKEN Center for Computational Science RIKEN Website
-- [Lawrece Livermore National Laboratory](https://computing.llnl.gov/)
-- [Los Alamos National Lab](https://lanl.gov/)
-- [LRZ](https://www.lrz.de/english) — Leibniz Supercomputing Centre
-- [NCSA at the University of Illinois](http://www.ncsa.illinois.edu/)
-- [Oak Ridge Leadership Computing Facility](https://www.olcf.ornl.gov/)
-- [Post-K (Fugaku)](https://postk-web.r-ccs.riken.jp/spec.html)
-
-##### Programming Documentation
-- [Learn X in Y Minutes](https://learnxinyminutes.com/)
-
 ##### Machine Learning
 - ⭐ **[Distill](https://distill.pub/)**
 - [ACL Anthology](https://aclanthology.org/)
@@ -1153,6 +1113,31 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [vas3k](https://vas3k.com/)
 - [Vas3k](https://vas3k.com/blog/machine_learning) — Machine Learning
 
+##### Programming Documentation
+- [Learn X in Y Minutes](https://learnxinyminutes.com/)
+
+##### Supercomputing
+- [Barcelona Supercomputing Center](https://www.bsc.es/)
+- [CSCS Swiss National Supercomputing Centre](https://www.cscs.ch/)
+- [Fugaku](https://www.r-ccs.riken.jp/en/fugaku/) — RIKEN Center for Computational Science RIKEN Website
+- [Lawrece Livermore National Laboratory](https://computing.llnl.gov/)
+- [Los Alamos National Lab](https://lanl.gov/)
+- [LRZ](https://www.lrz.de/english) — Leibniz Supercomputing Centre
+- [NCSA at the University of Illinois](http://www.ncsa.illinois.edu/)
+- [Oak Ridge Leadership Computing Facility](https://www.olcf.ornl.gov/)
+- [Post-K (Fugaku)](https://postk-web.r-ccs.riken.jp/spec.html)
+
+#### Engineering
+- [eFunda](https://www.efunda.com/home.cfm)
+- [Electronic Schematic & Circuit Diagram](https://circuitspedia.com/) — Tutorials | Datasheet
+- [Eng-Tips Engineering Forums](https://www.eng-tips.com/)
+- [Engineering ToolBox](https://www.engineeringtoolbox.com/)
+- [Engineering360](https://www.globalspec.com/)
+- [Engineers Edge](https://www.engineersedge.com/)
+- [Fun-Engineering.net](https://www.fun-engineering.net/)
+- [GrabCAD](https://grabcad.com/)
+- [Sengpiel Audio Berlin](http://www.sengpielaudio.com/)
+
 #### Geography
 - [Cartography Unchained](https://www.cartographyunchained.com/)
 - [Department of Geography](https://www.geog.cam.ac.uk/)
@@ -1164,46 +1149,13 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [The True Size](https://thetruesize.com/)
 - [WorldAtlas](https://www.worldatlas.com/)
 
-#### Astronomy
-- [Ap-i.net](https://www.ap-i.net/)
-- [AstroAfición](https://astroaficion.com/)
-- [Astrofísica y Física](https://www.astrofisicayfisica.com/)
-- [Astrofotografia amateur por Sideribus](https://sideribus.com/)
-- [Astronomos.org](http://www.astronomos.org/)
-- [Astronomy 535](http://ganymede.nmsu.edu/holtz/a535/) — Observational Techniques
-- [Cloudy Nights](https://www.cloudynights.com/)
-- [COBS](https://cobs.si/)
-- [Down2Earth](http://education.down2earth.eu/)
-- [Earth Snapshot](http://www.eosnap.com/)
-- [El Cielo de Canarias](http://www.elcielodecanarias.com/)
-- [Grupo Amateur de Meteorología Espacial](http://www.meteorologiaespacial.es/)
-- [Heavens-Above](https://heavens-above.com/)
-- [Helioviewer.org for student](https://student.helioviewer.org/)
-- [In-The-Sky.org](https://in-the-sky.org/)
-- [JHelioviewer](https://www.jhelioviewer.org/)
-- [Lanzamientos espaciales](https://lanzamientosespaciales.com/)
-- [Lunar Reconnaissance Orbiter Camera](http://lroc.sese.asu.edu/)
-- [New Horizons](http://pluto.jhuapl.edu/)
-- [Planetario de Madrid](http://www.planetmad.es/)
-- [Redshift-Live](https://www.redshift-live.com/ext/en)
-- [ServiAstro](https://serviastro.ub.edu/)
-- [Space 4 everybody](https://space4everybody.com/)
-- [Spider's Seds](https://spider.seds.org/)
-- [Sunspots and active regions today](https://xras.ru/en/active_areas.html)
-- [The Nine Planets](https://nineplanets.org/)
-- [uphere.space](https://uphere.space/)
-- [Virgo GW](https://www.virgo-gw.eu/)
-- [Who Is In Space?](https://www.whoisinspace.com/)
-- [Windows 2 Universe](http://www.windows2universe.org/)
-
-#### Philosophy
-- [Daily Stoic](https://dailystoic.com/) — Stoic Wisdom For Everyday Life
-- [Filosofía.org](https://www.filosofia.org/)
-- [Philos Digest](https://www.philodigest.com/)
-- [Philosophy Now](https://philosophynow.org/)
-- [PhilPapers](https://philpapers.org/)
-- [The American Philosophical Association](https://www.apaonline.org/)
-- [The Metaphysics Research Lab](https://mally.stanford.edu/)
+#### Geology
+- [Geological Society of India](http://www.geosocindia.org/)
+- [Geological Society of London blog](https://blog.geolsoc.org.uk/)
+- [Geology.com](https://geology.com/)
+- [GeoScienceWorld](https://pubs.geoscienceworld.org/)
+- [Learning Geology](https://geologylearn.blogspot.com/)
+- [VolcanoDiscovery](https://volcanodiscovery.com/)
 
 #### Medicine
 - [BioDigital Human Platform](https://human.biodigital.com/)
@@ -1222,44 +1174,124 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [UniProt](https://www.uniprot.org/)
 - [Wikimedicine.org](https://wikimedicine.org/)
 
-#### Engineering
-- [eFunda](https://www.efunda.com/home.cfm)
-- [Electronic Schematic & Circuit Diagram](https://circuitspedia.com/) — Tutorials | Datasheet
-- [Eng-Tips Engineering Forums](https://www.eng-tips.com/)
-- [Engineering ToolBox](https://www.engineeringtoolbox.com/)
-- [Engineering360](https://www.globalspec.com/)
-- [Engineers Edge](https://www.engineersedge.com/)
-- [Fun-Engineering.net](https://www.fun-engineering.net/)
-- [GrabCAD](https://grabcad.com/)
-- [Sengpiel Audio Berlin](http://www.sengpielaudio.com/)
+#### Philosophy
+- [Daily Stoic](https://dailystoic.com/) — Stoic Wisdom For Everyday Life
+- [Filosofía.org](https://www.filosofia.org/)
+- [Philos Digest](https://www.philodigest.com/)
+- [Philosophy Now](https://philosophynow.org/)
+- [PhilPapers](https://philpapers.org/)
+- [The American Philosophical Association](https://www.apaonline.org/)
+- [The Metaphysics Research Lab](https://mally.stanford.edu/)
 
-#### Geology
-- [Geological Society of India](http://www.geosocindia.org/)
-- [Geological Society of London blog](https://blog.geolsoc.org.uk/)
-- [Geology.com](https://geology.com/)
-- [GeoScienceWorld](https://pubs.geoscienceworld.org/)
-- [Learning Geology](https://geologylearn.blogspot.com/)
-- [VolcanoDiscovery](https://volcanodiscovery.com/)
+### Basic Science
+
+#### Biology
+- [Age of Biology](https://ageofbiology.com/)
+- [Ant Maps](https://antmaps.org/)
+- [ASMscience](https://www.asmscience.org/)
+- [Biología literaturamagica](https://biologia.literaturamagica.net/)
+- [BMC](https://www.biomedcentral.com/)
+- [BTO](https://www.bto.org/)
+- [iBiology](https://www.ibiology.org/)
+- [Learn.Genetics](https://learn.genetics.utah.edu/)
+- [PLOS Biology](https://journals.plos.org/plosbiology)
+- [ProDy (Protein Dynamics and Sequence Analysis)](http://prody.csb.pitt.edu/index.html)
+- [The Fundamentals of Neuroscience](https://www.mcb80x.org/)
+
+#### Chemistry
+- [Chemix](https://chemix.org/)
+- [Chemweb](https://www.chemweb.com/)
+- [Formulación química](https://www.formulacionquimica.com/)
+- [Manual da Química](https://www.manualdaquimica.com/)
+- [MolView](https://molview.org/)
+- [PeriodicTable.com](https://periodic-table.com/#/)
+- [PeriodicTable.pro](https://periodic-table.pro/)
+- [PeriodicTable.tech*](https://www.periodic-table.tech/#/)
+- [Ptable.com](https://ptable.com/)
+- [Químicaorgánica](https://www.quimicaorganica.org/)
+- [World of Molecules](https://www.worldofmolecules.com/)
+- [XuMuK.ru](https://xumuk.ru/)
+
+#### Maths
+- [CalcMe](https://calcme.com/a)
+- [Combinatorics and more](https://gilkalai.wordpress.com/) — Gil Kalai’s blog
+- [Dario Alpern (maths & assembler)](https://www.alpertron.com.ar/)
+- [Ekuatio](https://ekuatio.com/)
+- [Estadística](http://www.estadistica.net/)
+- [Fernando Revilla](http://fernandorevilla.es/) — Docencia matemática
+- [FlowingData](https://flowingdata.com/)
+- [Geometría dinámica](https://www.geometriadinamica.es/)
+- [Gitit.net](https://gitit.net/)
+- [House of Graphs](https://hog.grinvin.org/)
+- [Immersive Math](https://immersivemath.com/ila/index.html)
+- [Integrales Irracionales](http://www.estadistica.net/Algoritmos2/2irracionales.html)
+- [Interactive Mathematics](https://www.intmath.com/)
+- [IXL](https://es.ixl.com/) — Ejercicios de Matemáticas
+- [Matemáticas](https://es.khanacademy.org/math) — Khan Academy
+- [Matemáticas IES](https://matematicasies.com/)
+- [MateMovil](https://matemovil.com/)
+- [Material profesor mates](https://pfortuny.net/uniovi.html)
+- [Math is Fun](https://www.mathsisfun.com/)
+- [Math2.org](http://math2.org/)
+- [Math24](https://math24.net/)
+- [Mathematics LibreTexts](https://math.libretexts.org/)
+- [Mathscribe](https://mathscribe.com/)
+- [Millennium Mathematics Project](https://maths.org/)
+- [Numbermatics](https://numbermatics.com/)
+- [Olimpiada Matemática Española](http://www.olimpiadamatematica.es/platea.pntic.mec.es/_csanchez/olimmain.html)
+- [Project Euler](https://projecteuler.net/)
+- [Proofs and Prompts](https://proofsandprompts.com/) — Notes from the common room
+- [Real Sociedad Matemática Española](https://www.rsme.es/)
+- [Scissors Congruence](https://dmsm.github.io/scissors-congruence)
+- [Sector Matemática](https://www.sectormatematica.cl/)
+- [Seeing Theory](https://seeing-theory.brown.edu/)
+- [Series de Fourier](https://megafourier.blogspot.com/)
+- [Sr Examen](https://srexamen.com/)
+- [STHDA](http://www.sthda.com/english)
+- [Weekly Mathematics](https://weeklymathematics.com/)
+- [Whistler Alley Mathematics](http://whistleralley.com/)
+- [WIRIS](http://www.wiris.com/en)
+- [Wolfram MathWorld](https://mathworld.wolfram.com/)
+- [Wumbo.net](https://wumbo.net/)
+- [Xm1 Math](https://www.xm1math.net/)
+- [Zweigmedia](https://www.zweigmedia.com/index.php) — Finite mathematics
+
+#### Physics
+- [Academia Ciencias Galilei](http://www.acienciasgalilei.com/)
+- [Applied Ballistics](https://appliedballisticsllc.com/)
+- [Atmospheric Optics](http://www.atoptics.co.uk/)
+- [Curso Interactivo de Física](http://www.sc.ehu.es/sbweb/fisica_/index.html)
+- [Falstad](http://www.falstad.com/mathphysics.html) — Math, Physics, and Engineering Applets
+- [Física con ordenador](http://www.sc.ehu.es/sbweb/fisica/default.htm)
+- [Física Práctica](https://www.fisicapractica.com/index.php)
+- [Física UPM](https://www2.montes.upm.es/dptos/digfa/cfisica/default.htm)
+- [Física y Química (Heurema)](http://www.heurema.com/)
+- [Fisicalab](https://www.fisicalab.com/)
+- [FisQuiMat](https://sites.google.com/site/smmfisicayquimica)
+- [HyperPhysics Concepts](http://hyperphysics.phy-astr.gsu.edu/hbase/index.html)
+- [La web de Física](https://www.lawebdefisica.com/)
+- [Laplace](http://laplace.us.es/wiki/index.php/P%C3%A1gina_Principal) — Física US
+- [oPhysics](https://ophysics.com/)
+- [Paul Falstad](https://www.falstad.com/)
+- [PhotoVoltaic Education](https://www.pveducation.org/)
+- [Physclips UNSW](https://www.animations.physics.unsw.edu.au/)
+- [Physics](https://www.khanacademy.org/science/physics) — Science
+- [Physics About](https://physicsabout.com/)
+- [RefractiveIndex.info](https://refractiveindex.info/)
+- [Termodinámica documentation](https://termodinamica.readthedocs.io/en/latest)
+- [The Feynman Lectures on Physics*](https://www.feynmanlectures.caltech.edu/)
+- [The Physics Classroom](https://www.physicsclassroom.com/)
+- [The Physics Hypertextbook](https://physics.info/)
 
 ### Social Science
 
-#### Political Science
-- [Department of Political Science](https://polisci.ufl.edu/) — College of Liberal Arts and Sciences
-- [Department of Political Science](https://www.polisci.pitt.edu/) — University of Pittsburgh
-- [Duke University Political Science](https://polisci.duke.edu/)
-- [Political Science](https://polisci.columbia.edu/) — Columbia
-- [Political Science](https://politicalscience.stanford.edu/) — Stanford
+#### Archeology
+- [ArkéoTopia](https://www.arkeotopia.org/en)
+- [Urkesh.org](http://urkesh.org/)
 
-##### Political Test
-- [8values](https://8values.github.io/)
-- [aquienvoto](https://aquienvoto.org/)
-- [IFES Election Guide](https://www.electionguide.org/)
-- [Isidewith](https://espana.isidewith.com/)
-- [test politico](http://www.testpolitico.com/)
-
-##### Juridical Concepts
-- [Conceptos Jurídicos](https://www.conceptosjuridicos.com/)
-- [Derechos Humanos](https://www.derechoshumanos.net/)
+#### Economics
+- [Macroeconomia](https://datosmacro.expansion.com/)
+- [Rankia](https://www.rankia.com/)
 
 #### History
 - [American History](https://www.manythings.org/voa/history)
@@ -1279,6 +1311,23 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [Oldera](https://timeline.oldera.org/timeline/) — Timeline of History
 - [SobreHistoria.com](https://sobrehistoria.com/)
 
+#### Journalism
+- [Columbia Journalism School](https://journalism.columbia.edu/)
+- [Journalism & Media](https://www.journalism.org/)
+- [Periodismo.com](https://www.periodismo.com/)
+- [Periodismo.net](https://www.periodismo.net/)
+- [School of Journalism](https://journalism.arizona.edu/)
+- [UNC Hussman School of Journalism and Media](http://hussman.unc.edu/)
+
+#### Labour Orientation
+- [AquíHayFOL](https://sites.google.com/view/aquihayfol/Inicio)
+- [FOL en Tiempos Modernos](https://www.tiemposmodernos.eu/)
+- [FOLCanarias](http://www.folcanarias.com/)
+- [Habilidad Social](https://habilidadsocial.com/)
+- [La Constitución Española de 1978](https://laconstitucion.es/)
+- [Prevención de Riesgos laborales](https://www.jalvarezmart.com/) — Blog
+- [Tiempos Modernos](http://www.tiemposmodernos.eu/jornada-vacaciones-permisos) — Jornada laboral
+
 #### Linguistics
 - [Behind the Name](https://www.behindthename.com/)
 - [Centro Virtual Cervantes](https://cvc.cervantes.es/)
@@ -1291,30 +1340,6 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [Profesor lilemus](https://lilemus.wordpress.com/)
 - [Recursos](https://www.rae.es/recursos) — RAE
 - [Wordsmith.org](https://wordsmith.org/)
-
-#### Economics
-- [Macroeconomia](https://datosmacro.expansion.com/)
-- [Rankia](https://www.rankia.com/)
-
-#### Psychology
-- ⭐ **[16Personalities](https://www.16personalities.com/)** — Free personality test, type descriptions, relationship and career advice
-- [BetterHelp](https://www.betterhelp.com/)
-- [Personality Test](https://npqe.com/) — NERIS Personal Quest Explorer (NPQE)
-- [Psicología y Mente](https://psicologiaymente.com/)
-- [Psicología-Online](https://www.psicologia-online.com/)
-- [Psychology Today](https://www.psychologytoday.com/us)
-
-#### Journalism
-- [Columbia Journalism School](https://journalism.columbia.edu/)
-- [Journalism & Media](https://www.journalism.org/)
-- [Periodismo.com](https://www.periodismo.com/)
-- [Periodismo.net](https://www.periodismo.net/)
-- [School of Journalism](https://journalism.arizona.edu/)
-- [UNC Hussman School of Journalism and Media](http://hussman.unc.edu/)
-
-#### Archeology
-- [ArkéoTopia](https://www.arkeotopia.org/en)
-- [Urkesh.org](http://urkesh.org/)
 
 #### Literature
 - [30 blogs de literatura](https://www.inteligencianarrativa.com/30-blogs-de-literatura)
@@ -1330,56 +1355,31 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [Literautas](https://www.literautas.com/)
 - [The Victorian Literary Studies Archive](http://victorian-studies.net/)
 
-#### Labour Orientation
-- [AquíHayFOL](https://sites.google.com/view/aquihayfol/Inicio)
-- [FOL en Tiempos Modernos](https://www.tiemposmodernos.eu/)
-- [FOLCanarias](http://www.folcanarias.com/)
-- [Habilidad Social](https://habilidadsocial.com/)
-- [La Constitución Española de 1978](https://laconstitucion.es/)
-- [Prevención de Riesgos laborales](https://www.jalvarezmart.com/) — Blog
-- [Tiempos Modernos](http://www.tiemposmodernos.eu/jornada-vacaciones-permisos) — Jornada laboral
+#### Political Science
+- [Department of Political Science](https://polisci.ufl.edu/) — College of Liberal Arts and Sciences
+- [Department of Political Science](https://www.polisci.pitt.edu/) — University of Pittsburgh
+- [Duke University Political Science](https://polisci.duke.edu/)
+- [Political Science](https://polisci.columbia.edu/) — Columbia
+- [Political Science](https://politicalscience.stanford.edu/) — Stanford
 
-### Alter Science
-- [Lost Age Secrets](https://www.lostagesecrets.com/)
-- [Occult Mysteries](http://www.occult-mysteries.org/)
-- [Occult Sciences](http://www.occultsciences.org/)
+##### Juridical Concepts
+- [Conceptos Jurídicos](https://www.conceptosjuridicos.com/)
+- [Derechos Humanos](https://www.derechoshumanos.net/)
 
-#### Astrology
-- [Astro.com](https://www.astro.com/horoscope)
-- [ASTROLABE](https://alabe.com/solarfireV9.html) — Solar Fire V9
-- [Astrolink](https://www.astrolink.com.br/) — Mapa Astral Gratuito
-- [Astrolog Website](https://www.astrolog.org/astrolog.htm)
-- [Astrology & Spirituality Resources](https://www.vedicastrologer.org/jh/jhshot.htm)
-- [Astrology Clock](https://astrologyclock.net/)
-- [Astrology Library](https://astrolibrary.org/)
-- [Astrology symbols](https://astrology-symbols.com/)
-- [Astrology Zodiac Signs](https://www.astrology-zodiac-signs.com/)
-- [Astrology.com](https://www.astrology.com/us/home.aspx)
-- [AstroMatrix Horoscopes](https://astromatrix.app/intro) — FREE Birth Charts and Daily Horoscopes
-- [AstroMatrix Horoscopes](https://astromatrix.app/chartdaily) — FREE Birth Charts and Daily Horoscopes
-- [Authority Astrology](https://authorityastrology.com/) — AI Astrology & Chart Interpretations
-- [Cosmograma](https://www.cosmograma.com/)
-- [FUTOORO](https://futooro.com/)
-- [Prague Clock](http://www.wijzerweb.be/prague.html) — Wijzerweb
-- [Sanctuary](https://www.sanctuaryworld.co/)
-- [Signos del Zodiaco](https://www.signos-zodiaco.com/)
-- [Starla App](https://www.askstarla.com/) — Astrology & Soulmate Drawing
-- [Vedic Astrology (Jyotish) Software From GeoVision Software Inc.](http://www.parashara.com/)
+##### Political Test
+- [8values](https://8values.github.io/)
+- [aquienvoto](https://aquienvoto.org/)
+- [IFES Election Guide](https://www.electionguide.org/)
+- [Isidewith](https://espana.isidewith.com/)
+- [test politico](http://www.testpolitico.com/)
 
-#### Alchemy
-- [Alchemy Web Site](https://www.alchemywebsite.com/)
-
-#### Tarot
-- [Aleister Crowley Tarot](https://www.aleistercrowleytarot.com/)
-
-#### Kabbalah
-- [Arquetipos Raúl Durán](https://www.arquetiposraulduran.com/)
-
-#### Chiromancy
-- [Las líneas de la mano](https://lineasdelamano.net/)
-
-#### Numerology
-- [Numerologist.com](https://numerologist.com/)
+#### Psychology
+- ⭐ **[16Personalities](https://www.16personalities.com/)** — Free personality test, type descriptions, relationship and career advice
+- [BetterHelp](https://www.betterhelp.com/)
+- [Personality Test](https://npqe.com/) — NERIS Personal Quest Explorer (NPQE)
+- [Psicología y Mente](https://psicologiaymente.com/)
+- [Psicología-Online](https://www.psicologia-online.com/)
+- [Psychology Today](https://www.psychologytoday.com/us)
 
 ## Simulator
 - [3D Conway's Game of Life](https://rbeaulieu.github.io/3DGameOfLife/3DGameOfLife.html) / [![GitHub](/img/software/apps/github.svg)](https://github.com/RBeaulieu/3DGameOfLife)
@@ -1405,6 +1405,12 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [simulator.io](https://simulator.io/) — Build and simulate logic circuits
 - [swarm-subnet/Langostino](https://github.com/swarm-subnet/Langostino) — An open-source autonomous drone platform using ROS2 and AI-powered flight control
 
+### Optical Simulator
+- [‪Bending Light‬](https://phet.colorado.edu/sims/html/bending-light/latest/bending-light_all.html) — Phet Colorado
+- [CAXCAD Optical Design Software](https://www.caxcad.com/) — CAXCAD
+- [OpticalRayTracer Home Page](https://arachnoid.com/OpticalRayTracer/)
+- [Ray Optics Simulation](https://phydemo.app/ray-optics/) — PhyDemo
+
 ### Planetarium
 - ⭐ **[Stellarium Astronomy Software](https://stellarium.org/)**
 - [da-luce/astroterm · GitHub](https://github.com/da-luce/astroterm)
@@ -1420,12 +1426,6 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [Stellarium Labs](https://www.stellarium-labs.com/)
 - [Stellarium Web](https://stellarium-web.org/)
 - [TheSkyLive.com](https://theskylive.com/)
-
-### Optical Simulator
-- [‪Bending Light‬](https://phet.colorado.edu/sims/html/bending-light/latest/bending-light_all.html) — Phet Colorado
-- [CAXCAD Optical Design Software](https://www.caxcad.com/) — CAXCAD
-- [OpticalRayTracer Home Page](https://arachnoid.com/OpticalRayTracer/)
-- [Ray Optics Simulation](https://phydemo.app/ray-optics/) — PhyDemo
 
 ## Study Resources
 - [Adducation](https://www.adducation.info/)

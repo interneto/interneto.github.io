@@ -178,6 +178,90 @@ description: File sharing, downloaders, torrents, and cloud storage
 
 ## Converter
 
+### Calendar Converter
+- ⭐ **[Asli Tools](https://aslitools.com/tools/date-converter/)** — Calendar Converter
+- ⭐ **[Calendar Converter](https://www.azuzan.com/calendar-converter)**
+- [Calendar Converter](https://www.fourmilab.ch/documents/calendar/)
+- [Calendar Converter](https://www.tranquillitybase.jp/CalendarConverter/CalendarConverter_en.html) — App Store
+- [Calendar Converter for Near East Historians](https://www.muqawwim.com/)
+- [Calndars](https://www.verticalhorizon-software.com/calndars) — Vertical Horizon
+- [Chinese & Lunar Calendar Converter](https://pteo.paranoiaworks.mobi/chinese_calendar/) — Birthday & Zodiac Calculator
+- [theodore-s-beers/muqawwim](https://github.com/theodore-s-beers/muqawwim) — A calendar converter tailored to the needs of Near East historians
+- [‎UniCal](https://apps.apple.com/za/app/unical-calendar-converter/id564858516) — Calendar Converter App - App Store
+- [‎Universal Calendar Converter App](https://apps.apple.com/il/app/universal-calendar-converter/id6756697267) — App Store
+
+### CD Ripping
+- [AnyBurn](https://www.anyburn.com/)
+- [AnyToISO](https://crystalidea.com/anytoiso) — Crystalidea
+- [automatic-ripping-machine/automatic-ripping-machine · GitHub](https://github.com/automatic-ripping-machine/automatic-ripping-machine)
+- [Brasero](https://wiki.gnome.org/Apps/Brasero) — GNOME
+- [BurnAware](https://www.burnaware.com/)
+- [CDBurnerXP](https://cdburnerxp.se/)
+- [DAEMON Tools](https://www.daemon-tools.cc/home)
+- [Exact Audio Copy](https://www.exactaudiocopy.de/)
+- [Folder2Iso](https://www.trustfm.net/software/utilities/Folder2Iso.php) — TrustFM
+- [Freac](https://www.freac.org/)
+- [ImgBurn](https://www.imgburn.com/)
+- [InfraRecorder](http://infrarecorder.org/)
+- [K3b](https://apps.kde.org/k3b/) — KDE Applications
+- [Nero Platinum Suite](https://www.nero.com/eng/?vlang=en)
+- [PowerISO](https://www.poweriso.com/)
+- [The RedFox Project](https://www.redfox.bz/)
+- [WinCDEmu](https://wincdemu.sysprogs.org/)
+
+### DVD Decrypter
+- [DVDFab](https://www.dvdfab.cn/)
+- [MakeMKV](https://makemkv.com/)
+- [oyvindln/vhs-decode](https://github.com/oyvindln/vhs-decode) — Software defined VHS decoder - Fork (maybe temporary) of the ld-decode Laserdisc rf decoder
+
+### Encoder
+- ⭐ **[Morse Code Translator](https://morsecodeapp.com/)** — Morse to Text – Text to Morse Code
+- [Adaptive Video Encoder](https://adaptive-encoder.com/)
+- [fkinoshita/Telegraph](https://github.com/fkinoshita/Telegraph) — Write and decode morse
+- [KDE Utilities](https://utils.kde.org/)
+- [Universal Encoding Tool](https://unenc.com/)
+- [Utilities / Vail · GitLab](https://invent.kde.org/utilities/vail)
+
+### Encryptor
+- ⭐ **[Cryptomator](https://cryptomator.org/)**
+- ⭐ **[Hat.sh](https://hat.sh/)** — client-side encryption
+- ⭐ **[VeraCrypt](https://veracrypt.io/en/Home.html)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/veracrypt/VeraCrypt)
+- [AES Crypt](https://aescrypt.com/)
+- [AxCrypt](https://axcrypt.net/) — File Security Made Easy
+- [BitLocker](https://docs.microsoft.com/en-us/windows/security/information-protection/bitlocker/bitlocker-overview)
+- [ccrypt](http://ccrypt.sourceforge.net/)
+- [cedricbonhomme/pyEnigma](https://github.com/cedricbonhomme/pyEnigma?tab=readme-ov-file) — Python Enigma cypher machine simulator
+- [CryFS](https://www.cryfs.org/)
+- [CrypTool Portal](https://www.cryptool.org/en/)
+- [Cryptsetup](https://man.archlinux.org/man/core/cryptsetup/cryptsetup.8.en#BITLK_(Windows_BitLocker-compatible)_EXTENSION_(EXPERIMENTAL)) — AUR
+- [Dislocker](https://github.com/Aorimn/dislocker) — Aorimn
+- [Eck Cologne Applications](https://eck.cologne/)
+- [EncFS](https://github.com/vgough/encfs)
+- [Encrypto](https://macpaw.com/encrypto) — MacPaw
+- [Enigma Machine Simulator](https://thezero.org/enigma/)
+- [Eraser](https://sourceforge.net/projects/eraser/)
+- [FiloSottile/age](https://github.com/FiloSottile/age) — A simple, modern and secure encryption tool
+- [GNU PG](https://gnupg.org/)
+- [Jpinsoft/DeepSound](https://github.com/Jpinsoft/DeepSound) — Official DeepSound repository migrated from jpinsoft.net. DeepSound is a freeware steganography tool and audio converter that hides secret data into audio files. The application also enables you to extract secret files directly from audio files or audio CD tracks.
+- [kryptor](https://www.kryptor.co.uk/)
+- [mhogomchungu/zuluCrypt · GitHub](https://github.com/mhogomchungu/zuluCrypt)
+- [mpobaschnig/Vaults · GitHub](https://github.com/mpobaschnig/Vaults)
+- [Picocrypt/Picocrypt](https://github.com/Picocrypt/Picocrypt) — A very small, very simple, yet very secure encryption tool.
+- [Portable Secret · create](https://alcazarsec.github.io/portable-secret/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/alcazarsec/portable-secret)
+- [Portale Secret · GitHub](https://mprimi.github.io/portable-secret/creator/)
+- [Prot-On](https://www.prot-on.com/tryIt.html)
+- [Quickhash-GUI](https://www.quickhash-gui.org/) — free, cross platform data hashing tool
+- [Retriever](https://retriever.corgea.io/)
+- [RiftShare](https://riftshare.app/)
+- [ryptsetup/cryptsetup · GitLab](https://gitlab.com/cryptsetup/cryptsetup)
+- [Seahorse](https://wiki.gnome.org/Apps/Seahorse) — GNOME
+- [SealNotes](https://www.sealnotes.com/) — Secure, Lightweight Encrypted Notepad for Privacy
+- [sh-dv/hat.sh · GitHub](https://github.com/sh-dv/hat.sh)
+- [TrueCrypt](http://truecrypt.sourceforge.net/)
+- [Vault by HashiCorp](https://www.vaultproject.io/)
+- [Vaultaire](https://vaultaire.app/) — Protected by Design
+- [Viivo](https://www.viivo.com/)
+
 ### File Converter
 - ⭐ **[Convert to it!](https://p2r3.github.io/convert/)**
 - ⭐ **[ImageMagick](https://imagemagick.org/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/imagemagick/imagemagick) — Mastering Digital Image Alchemy
@@ -260,6 +344,55 @@ description: File sharing, downloaders, torrents, and cloud storage
 - [YouConvertIt](https://www.youconvertit.com/)
 - [Zamzar](https://www.zamzar.com/)
 
+#### Format Converter
+- [ArrayCat](https://arraycat.com/)
+- [CloudConvert](https://cloudconvert.com/)
+- [Convert 3D model files](https://convert3d.org/) — Free, Private, Safe
+- [Convert curl commands to code](https://curlconverter.com/)
+- [HEX to RGB at DuckDuckGo](https://duckduckgo.com/?t=ffab&q=HEX+to+RGB&ia=answer)
+- [Online File Converter](https://www.docspal.com/) — DocsPal
+- [RGB to HEX](https://www.rgbtohex.net/)
+- [WEBP to PNG Converter](https://webptopng.com/) — 100% Free
+
+##### Cookie Converter
+- [Cookie converter](https://www.cookieconverter.com/)
+- [Cookie converter](https://accovod.com/cookieConverter/) — accovod
+
+##### HTML Converter
+- [Convert HTML to OPML](https://alldocs.app/convert-html-to-opml)
+- [HTML bookmarks into CSV](https://gist.github.com/keikoro/699e2003d5814bc0d5224a9e78676373)
+- [HTML to Markdown Converter](https://htmlmarkdown.com/) — HTML to Markdown
+- [HTML to OPML Converter](https://www.vertopal.com/en/convert/html-to-opml)
+- [html.to.design](https://html.to.design/home) — Convert any website into fully editable Figma designs
+- [Word 2 MD](https://word2md.com/)
+- [Word To HTML](https://wordtohtml.net/)
+- [Word to HTML](https://wordhtml.com/)
+
+##### MD5 Converter
+- [MD5](https://www.md5.cz/) — Online generator md5 hash
+- [MD5 conversion](https://md5.gromweb.com/)
+- [MD5 Hash Generator](https://www.md5hashgenerator.com/)
+- [Md5 Online Decrypt & Encrypt](https://md5decrypt.net/en/#answer)
+- [Md5 Online Decrypt & Encrypt](https://md5decrypt.net/en/) — Compare your hash with our Database
+
+##### RSS Converter
+- [bookmarks.html to OPML](https://feeder.co/bookmarks-to-opml) — RSS Feed Reader
+- [Feed Creator](http://createfeed.fivefilters.org/) — FiveFilters
+- [Full-Text RSS Feeds](http://ftr.fivefilters.org/) — FiveFilters
+- [JSON Feed](https://jsonfeed.org/)
+- [Mastodon Bookmark RSS](https://bookmark-rss.services.woodland.cafe/)
+- [morss.it](https://morss.it/) — RSS feeds
+- [PolitePol](https://politepol.com/en/)
+- [RSS Advisory Board](https://www.rssboard.org/)
+- [RSS Box](https://rssbox.herokuapp.com/)
+- [RSS Feed Generator](https://rss.app/)
+- [RSS feeds URLs extension](https://github.com/shevabam/get-rss-feed-url-extension)
+- [RSS Generator](https://fetchrss.com/) — FetchRSS
+- [RSS Viewer app](https://rssviewer.app/)
+- [RSS-proxy](https://github.com/damoeb/rss-proxy/)
+- [RSS.app](https://rss.app/rss-feed) — Feeds from almost any website
+- [siftrss](https://siftrss.com/) — Filter RSS feed
+
 #### Image Converter
 - ⭐ **[Squoosh.app](https://squoosh.app/)**
 - [Compress Image](https://compressnow.com/)
@@ -293,68 +426,6 @@ description: File sharing, downloaders, torrents, and cloud storage
 - [XL Converter](https://codepoems.eu/xl-converter) / [![GitHub](/img/software/apps/github.svg)](https://github.com/JacobDev1/xl-converter) — easy-to-use image converter for modern formats
 - [YOGA Image Optimizer](https://yoga.flozz.org/)
 
-#### Format Converter
-- [ArrayCat](https://arraycat.com/)
-- [CloudConvert](https://cloudconvert.com/)
-- [Convert 3D model files](https://convert3d.org/) — Free, Private, Safe
-- [Convert curl commands to code](https://curlconverter.com/)
-- [HEX to RGB at DuckDuckGo](https://duckduckgo.com/?t=ffab&q=HEX+to+RGB&ia=answer)
-- [Online File Converter](https://www.docspal.com/) — DocsPal
-- [RGB to HEX](https://www.rgbtohex.net/)
-- [WEBP to PNG Converter](https://webptopng.com/) — 100% Free
-
-##### HTML Converter
-- [Convert HTML to OPML](https://alldocs.app/convert-html-to-opml)
-- [HTML bookmarks into CSV](https://gist.github.com/keikoro/699e2003d5814bc0d5224a9e78676373)
-- [HTML to Markdown Converter](https://htmlmarkdown.com/) — HTML to Markdown
-- [HTML to OPML Converter](https://www.vertopal.com/en/convert/html-to-opml)
-- [html.to.design](https://html.to.design/home) — Convert any website into fully editable Figma designs
-- [Word 2 MD](https://word2md.com/)
-- [Word To HTML](https://wordtohtml.net/)
-- [Word to HTML](https://wordhtml.com/)
-
-##### RSS Converter
-- [bookmarks.html to OPML](https://feeder.co/bookmarks-to-opml) — RSS Feed Reader
-- [Feed Creator](http://createfeed.fivefilters.org/) — FiveFilters
-- [Full-Text RSS Feeds](http://ftr.fivefilters.org/) — FiveFilters
-- [JSON Feed](https://jsonfeed.org/)
-- [Mastodon Bookmark RSS](https://bookmark-rss.services.woodland.cafe/)
-- [morss.it](https://morss.it/) — RSS feeds
-- [PolitePol](https://politepol.com/en/)
-- [RSS Advisory Board](https://www.rssboard.org/)
-- [RSS Box](https://rssbox.herokuapp.com/)
-- [RSS Feed Generator](https://rss.app/)
-- [RSS feeds URLs extension](https://github.com/shevabam/get-rss-feed-url-extension)
-- [RSS Generator](https://fetchrss.com/) — FetchRSS
-- [RSS Viewer app](https://rssviewer.app/)
-- [RSS-proxy](https://github.com/damoeb/rss-proxy/)
-- [RSS.app](https://rss.app/rss-feed) — Feeds from almost any website
-- [siftrss](https://siftrss.com/) — Filter RSS feed
-
-##### Cookie Converter
-- [Cookie converter](https://www.cookieconverter.com/)
-- [Cookie converter](https://accovod.com/cookieConverter/) — accovod
-
-##### MD5 Converter
-- [MD5](https://www.md5.cz/) — Online generator md5 hash
-- [MD5 conversion](https://md5.gromweb.com/)
-- [MD5 Hash Generator](https://www.md5hashgenerator.com/)
-- [Md5 Online Decrypt & Encrypt](https://md5decrypt.net/en/#answer)
-- [Md5 Online Decrypt & Encrypt](https://md5decrypt.net/en/) — Compare your hash with our Database
-
-#### Video Converter
-- ⭐ **[FFmpeg](https://ffmpeg.org/)** / [🔗](https://code.ffmpeg.org/FFmpeg/FFmpeg), [🔗](https://git.ffmpeg.org/ffmpeg.git)
-- [Eldecard](https://www.elecard.com/products/video-analysis/streameye) — StreamEye
-- [ExSqueezeMe](https://exsqueezeme.app/) — Professional Video Compression for macOS
-- [FastFlix](https://fastflix.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/cdgriffith/FastFlix)
-- [Free Online Video Compressor](https://compressvideoonline.com/en) — Fast, Private, No Uploads
-- [GStreamer](https://gstreamer.freedesktop.org/)
-- [HandBrake](https://handbrake.fr/) — Video transcoder
-- [NVIDIA Video Codec SDK](https://developer.nvidia.com/video-codec-sdk)
-- [Shutter Encoder](https://www.shutterencoder.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/paulpacifico/shutter-encoder) — Encoder|Converter video FREE PC|Mac
-- [Telestream Switch](https://www.telestream.net/switch/overview.htm) — Multiformat video player, inspection and conversion tool
-- [VidCoder](https://vidcoder.net/)
-
 #### Image Resizer
 - [Easy Resize](https://www.easy-resize.com/en/)
 - [ImageOptim](https://imageoptim.com/api)
@@ -378,91 +449,34 @@ description: File sharing, downloaders, torrents, and cloud storage
 - [Online Base64 Tools](https://onlinebase64tools.com/)
 - [Text Converter](https://www.textconverter.io/) — Easy tool to transform your text
 
-### Encryptor
-- ⭐ **[Cryptomator](https://cryptomator.org/)**
-- ⭐ **[Hat.sh](https://hat.sh/)** — client-side encryption
-- ⭐ **[VeraCrypt](https://veracrypt.io/en/Home.html)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/veracrypt/VeraCrypt)
-- [AES Crypt](https://aescrypt.com/)
-- [AxCrypt](https://axcrypt.net/) — File Security Made Easy
-- [BitLocker](https://docs.microsoft.com/en-us/windows/security/information-protection/bitlocker/bitlocker-overview)
-- [ccrypt](http://ccrypt.sourceforge.net/)
-- [cedricbonhomme/pyEnigma](https://github.com/cedricbonhomme/pyEnigma?tab=readme-ov-file) — Python Enigma cypher machine simulator
-- [CryFS](https://www.cryfs.org/)
-- [CrypTool Portal](https://www.cryptool.org/en/)
-- [Cryptsetup](https://man.archlinux.org/man/core/cryptsetup/cryptsetup.8.en#BITLK_(Windows_BitLocker-compatible)_EXTENSION_(EXPERIMENTAL)) — AUR
-- [Dislocker](https://github.com/Aorimn/dislocker) — Aorimn
-- [Eck Cologne Applications](https://eck.cologne/)
-- [EncFS](https://github.com/vgough/encfs)
-- [Encrypto](https://macpaw.com/encrypto) — MacPaw
-- [Enigma Machine Simulator](https://thezero.org/enigma/)
-- [Eraser](https://sourceforge.net/projects/eraser/)
-- [FiloSottile/age](https://github.com/FiloSottile/age) — A simple, modern and secure encryption tool
-- [GNU PG](https://gnupg.org/)
-- [Jpinsoft/DeepSound](https://github.com/Jpinsoft/DeepSound) — Official DeepSound repository migrated from jpinsoft.net. DeepSound is a freeware steganography tool and audio converter that hides secret data into audio files. The application also enables you to extract secret files directly from audio files or audio CD tracks.
-- [kryptor](https://www.kryptor.co.uk/)
-- [mhogomchungu/zuluCrypt · GitHub](https://github.com/mhogomchungu/zuluCrypt)
-- [mpobaschnig/Vaults · GitHub](https://github.com/mpobaschnig/Vaults)
-- [Picocrypt/Picocrypt](https://github.com/Picocrypt/Picocrypt) — A very small, very simple, yet very secure encryption tool.
-- [Portable Secret · create](https://alcazarsec.github.io/portable-secret/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/alcazarsec/portable-secret)
-- [Portale Secret · GitHub](https://mprimi.github.io/portable-secret/creator/)
-- [Prot-On](https://www.prot-on.com/tryIt.html)
-- [Quickhash-GUI](https://www.quickhash-gui.org/) — free, cross platform data hashing tool
-- [Retriever](https://retriever.corgea.io/)
-- [RiftShare](https://riftshare.app/)
-- [ryptsetup/cryptsetup · GitLab](https://gitlab.com/cryptsetup/cryptsetup)
-- [Seahorse](https://wiki.gnome.org/Apps/Seahorse) — GNOME
-- [SealNotes](https://www.sealnotes.com/) — Secure, Lightweight Encrypted Notepad for Privacy
-- [sh-dv/hat.sh · GitHub](https://github.com/sh-dv/hat.sh)
-- [TrueCrypt](http://truecrypt.sourceforge.net/)
-- [Vault by HashiCorp](https://www.vaultproject.io/)
-- [Vaultaire](https://vaultaire.app/) — Protected by Design
-- [Viivo](https://www.viivo.com/)
-
-### Encoder
-- ⭐ **[Morse Code Translator](https://morsecodeapp.com/)** — Morse to Text – Text to Morse Code
-- [Adaptive Video Encoder](https://adaptive-encoder.com/)
-- [fkinoshita/Telegraph](https://github.com/fkinoshita/Telegraph) — Write and decode morse
-- [KDE Utilities](https://utils.kde.org/)
-- [Universal Encoding Tool](https://unenc.com/)
-- [Utilities / Vail · GitLab](https://invent.kde.org/utilities/vail)
-
-### CD Ripping
-- [AnyBurn](https://www.anyburn.com/)
-- [AnyToISO](https://crystalidea.com/anytoiso) — Crystalidea
-- [automatic-ripping-machine/automatic-ripping-machine · GitHub](https://github.com/automatic-ripping-machine/automatic-ripping-machine)
-- [Brasero](https://wiki.gnome.org/Apps/Brasero) — GNOME
-- [BurnAware](https://www.burnaware.com/)
-- [CDBurnerXP](https://cdburnerxp.se/)
-- [DAEMON Tools](https://www.daemon-tools.cc/home)
-- [Exact Audio Copy](https://www.exactaudiocopy.de/)
-- [Folder2Iso](https://www.trustfm.net/software/utilities/Folder2Iso.php) — TrustFM
-- [Freac](https://www.freac.org/)
-- [ImgBurn](https://www.imgburn.com/)
-- [InfraRecorder](http://infrarecorder.org/)
-- [K3b](https://apps.kde.org/k3b/) — KDE Applications
-- [Nero Platinum Suite](https://www.nero.com/eng/?vlang=en)
-- [PowerISO](https://www.poweriso.com/)
-- [The RedFox Project](https://www.redfox.bz/)
-- [WinCDEmu](https://wincdemu.sysprogs.org/)
-
-### DVD Decrypter
-- [DVDFab](https://www.dvdfab.cn/)
-- [MakeMKV](https://makemkv.com/)
-- [oyvindln/vhs-decode](https://github.com/oyvindln/vhs-decode) — Software defined VHS decoder - Fork (maybe temporary) of the ld-decode Laserdisc rf decoder
-
-### Calendar Converter
-- ⭐ **[Asli Tools](https://aslitools.com/tools/date-converter/)** — Calendar Converter
-- ⭐ **[Calendar Converter](https://www.azuzan.com/calendar-converter)**
-- [Calendar Converter](https://www.fourmilab.ch/documents/calendar/)
-- [Calendar Converter](https://www.tranquillitybase.jp/CalendarConverter/CalendarConverter_en.html) — App Store
-- [Calendar Converter for Near East Historians](https://www.muqawwim.com/)
-- [Calndars](https://www.verticalhorizon-software.com/calndars) — Vertical Horizon
-- [Chinese & Lunar Calendar Converter](https://pteo.paranoiaworks.mobi/chinese_calendar/) — Birthday & Zodiac Calculator
-- [theodore-s-beers/muqawwim](https://github.com/theodore-s-beers/muqawwim) — A calendar converter tailored to the needs of Near East historians
-- [‎UniCal](https://apps.apple.com/za/app/unical-calendar-converter/id564858516) — Calendar Converter App - App Store
-- [‎Universal Calendar Converter App](https://apps.apple.com/il/app/universal-calendar-converter/id6756697267) — App Store
+#### Video Converter
+- ⭐ **[FFmpeg](https://ffmpeg.org/)** / [🔗](https://code.ffmpeg.org/FFmpeg/FFmpeg), [🔗](https://git.ffmpeg.org/ffmpeg.git)
+- [Eldecard](https://www.elecard.com/products/video-analysis/streameye) — StreamEye
+- [ExSqueezeMe](https://exsqueezeme.app/) — Professional Video Compression for macOS
+- [FastFlix](https://fastflix.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/cdgriffith/FastFlix)
+- [Free Online Video Compressor](https://compressvideoonline.com/en) — Fast, Private, No Uploads
+- [GStreamer](https://gstreamer.freedesktop.org/)
+- [HandBrake](https://handbrake.fr/) — Video transcoder
+- [NVIDIA Video Codec SDK](https://developer.nvidia.com/video-codec-sdk)
+- [Shutter Encoder](https://www.shutterencoder.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/paulpacifico/shutter-encoder) — Encoder|Converter video FREE PC|Mac
+- [Telestream Switch](https://www.telestream.net/switch/overview.htm) — Multiformat video player, inspection and conversion tool
+- [VidCoder](https://vidcoder.net/)
 
 ## File Comparison
+
+### Diff Tool
+- ⭐ **[Meld merge](https://meldmerge.org/)**
+- ⭐ **[WinMerge](https://winmerge.org/)** — You will see the difference...
+- [Araxis Merge](https://www.araxis.com/merge/)
+- [Diffchecker](https://www.diffchecker.com/) — Compare text online to find the difference between two text files
+- [DiffNow](https://www.diffnow.com/compare-clips) — Compare Files, URLs, and Clipboard Contents Online
+- [hunk](https://www.hunk.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/modem-dev/hunk) — review-first terminal diff viewer
+- [jnsahaj/lumen](https://github.com/jnsahaj/lumen) — Beautiful git diff viewer, generate commits with AI, get summary of changes, all from the CLI
+- [Kaleidoscope](https://kaleidoscope.app/)
+- [KDiff3](https://kdiff3.sourceforge.net/)
+- [Kompare](https://apps.kde.org/kompare/) — KDE
+- [Scooter Software](https://www.scootersoftware.com/) — Beyond Compare
+- [SemanticDiff](https://semanticdiff.com/) — Language Aware Diff For VS Code & GitHub
 
 ### Duplicate Comparison
 - [adrianlopezroche/fdupes · GitHub](https://github.com/adrianlopezroche/fdupes)
@@ -486,20 +500,6 @@ description: File sharing, downloaders, torrents, and cloud storage
 - [rmlint documentation](https://rmlint.readthedocs.io/en/latest/)
 - [Speedy Duplicate Finder](https://qiplex.com/software/speedy-duplicate-finder/)
 - [voidtools.com](https://www.voidtools.com/)
-
-### Diff Tool
-- ⭐ **[Meld merge](https://meldmerge.org/)**
-- ⭐ **[WinMerge](https://winmerge.org/)** — You will see the difference...
-- [Araxis Merge](https://www.araxis.com/merge/)
-- [Diffchecker](https://www.diffchecker.com/) — Compare text online to find the difference between two text files
-- [DiffNow](https://www.diffnow.com/compare-clips) — Compare Files, URLs, and Clipboard Contents Online
-- [hunk](https://www.hunk.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/modem-dev/hunk) — review-first terminal diff viewer
-- [jnsahaj/lumen](https://github.com/jnsahaj/lumen) — Beautiful git diff viewer, generate commits with AI, get summary of changes, all from the CLI
-- [Kaleidoscope](https://kaleidoscope.app/)
-- [KDiff3](https://kdiff3.sourceforge.net/)
-- [Kompare](https://apps.kde.org/kompare/) — KDE
-- [Scooter Software](https://www.scootersoftware.com/) — Beyond Compare
-- [SemanticDiff](https://semanticdiff.com/) — Language Aware Diff For VS Code & GitHub
 
 ## File Hosting Service
 - ⭐ **[Transfer.it](https://transfer.it/start)**
@@ -574,6 +574,46 @@ description: File sharing, downloaders, torrents, and cloud storage
 
 ## File Manager
 - [eXtplorer 3](https://www.extplorer.net/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/soerennb/extplorer/) — Modern Web File Manager
+
+### DAM (Digital Asset Management)
+- ⭐ **[Eagle](https://eagle.cool/)** — Organize all your reference images in one place
+- [ACDSee](https://www.acdsee.com/en/digital-asset-management/) — Digital Asset Management
+- [Adobe Bridge](https://www.adobe.com/products/bridge.html)
+- [Allusion](https://allusion-app.github.io/) — Visual Library Manager
+- [Canto (DAM)](https://www.canto.com/)
+- [Capture.co.uk](https://www.capture.co.uk/)
+- [Daminion](https://daminion.net/)
+- [Data Crow](https://datacrow.net/) — Cataloger
+- [Digitile.io](https://digitile.io/)
+- [Docebo](https://www.docebo.com/)
+- [File Manager Pro](https://filemanagerpro.io/)
+- [FileMasta](https://ohhsodead.github.io/FileMasta/)
+- [GitHub](https://github.com/pablo-s/passes) — pablo-s/passes: Manage your digital passes
+- [ImageKit.io](https://imagekit.io/) — Media delivery and management for high-growth teams
+- [ISPsystem](https://www.ispsystem.com/ru) — IT infrastructure management platforms
+- [IT ASset Tool](https://www.it-asset-tool.com/) — Inventory software in your Company!
+- [KnowledgeOwl](https://www.knowledgeowl.com/)
+- [LinShare](https://www.linshare.org/)
+- [Marmotte](https://marmotte.io/) — OpenSource IT Asset Management Made Simple
+- [MediaElch](https://www.kvibes.de/mediaelch/)
+- [METAPOSTA](https://www.metaposta.com/es) — Recibe, firma y archiva tus documentos
+- [Musebox](https://brushedpixel.com/musebox/)
+- [Mync](https://myncworld.com/en/)
+- [netbox-community/netbox · GitHub](https://github.com/netbox-community/netbox)
+- [ownCloud](https://owncloud.com/)
+- [Paperless-ngx](https://docs.paperless-ngx.com/)
+- [Papra](https://papra.app/)
+- [ProjectSend](https://www.projectsend.org/)
+- [Pydio](https://pydio.com/)
+- [RackTables](https://www.racktables.org/)
+- [Rummage](https://getrummage.com/)
+- [Snipe-IT](https://snipeitapp.com/) — Free open source IT asset management
+- [Start Infinity](https://startinfinity.com/)
+- [TagBox.io](https://www.tagbox.io/)
+- [Taglery](https://taglery.com/)
+- [Tellico](https://tellico-project.org/) — Collection managemenet software
+- [tinyMediaManager](https://www.tinymediamanager.org/)
+- [Wondershare Document Cloud](https://documentcloud.wondershare.com/)
 
 ### File Manager GUI
 - ⭐ **[Cryo file manager](https://cryonet.io/)**
@@ -667,46 +707,6 @@ description: File sharing, downloaders, torrents, and cloud storage
 - [Xplorer²](https://www.zabkat.com/)
 - [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver) — Google Play
 - [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles) — Material Design file manager for Android
-
-### DAM (Digital Asset Management)
-- ⭐ **[Eagle](https://eagle.cool/)** — Organize all your reference images in one place
-- [ACDSee](https://www.acdsee.com/en/digital-asset-management/) — Digital Asset Management
-- [Adobe Bridge](https://www.adobe.com/products/bridge.html)
-- [Allusion](https://allusion-app.github.io/) — Visual Library Manager
-- [Canto (DAM)](https://www.canto.com/)
-- [Capture.co.uk](https://www.capture.co.uk/)
-- [Daminion](https://daminion.net/)
-- [Data Crow](https://datacrow.net/) — Cataloger
-- [Digitile.io](https://digitile.io/)
-- [Docebo](https://www.docebo.com/)
-- [File Manager Pro](https://filemanagerpro.io/)
-- [FileMasta](https://ohhsodead.github.io/FileMasta/)
-- [GitHub](https://github.com/pablo-s/passes) — pablo-s/passes: Manage your digital passes
-- [ImageKit.io](https://imagekit.io/) — Media delivery and management for high-growth teams
-- [ISPsystem](https://www.ispsystem.com/ru) — IT infrastructure management platforms
-- [IT ASset Tool](https://www.it-asset-tool.com/) — Inventory software in your Company!
-- [KnowledgeOwl](https://www.knowledgeowl.com/)
-- [LinShare](https://www.linshare.org/)
-- [Marmotte](https://marmotte.io/) — OpenSource IT Asset Management Made Simple
-- [MediaElch](https://www.kvibes.de/mediaelch/)
-- [METAPOSTA](https://www.metaposta.com/es) — Recibe, firma y archiva tus documentos
-- [Musebox](https://brushedpixel.com/musebox/)
-- [Mync](https://myncworld.com/en/)
-- [netbox-community/netbox · GitHub](https://github.com/netbox-community/netbox)
-- [ownCloud](https://owncloud.com/)
-- [Paperless-ngx](https://docs.paperless-ngx.com/)
-- [Papra](https://papra.app/)
-- [ProjectSend](https://www.projectsend.org/)
-- [Pydio](https://pydio.com/)
-- [RackTables](https://www.racktables.org/)
-- [Rummage](https://getrummage.com/)
-- [Snipe-IT](https://snipeitapp.com/) — Free open source IT asset management
-- [Start Infinity](https://startinfinity.com/)
-- [TagBox.io](https://www.tagbox.io/)
-- [Taglery](https://taglery.com/)
-- [Tellico](https://tellico-project.org/) — Collection managemenet software
-- [tinyMediaManager](https://www.tinymediamanager.org/)
-- [Wondershare Document Cloud](https://documentcloud.wondershare.com/)
 
 ### File Manager TUI
 - ⭐ **[superfile](https://superfile.dev/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/yorukot/superfile) — Terminal File Manager
@@ -816,6 +816,9 @@ description: File sharing, downloaders, torrents, and cloud storage
 - [Nyre221/dolphin-quick-view · GitHub](https://github.com/Nyre221/dolphin-quick-view)
 - [pwmt/zathura](https://github.com/pwmt/zathura) — Document viewer
 
+### DICOM Viewer
+- [AlizaMedicalImaging/AlizaMS · GitHub](https://github.com/AlizaMedicalImaging/AlizaMS)
+
 ### Media Player
 - [BS.Player](https://bsplayer.com/) — media player
 - [Celluloid](https://celluloid-player.github.io/)
@@ -831,9 +834,6 @@ description: File sharing, downloaders, torrents, and cloud storage
 - [QuickLook](https://github.com/QL-Win/QuickLook)
 - [Seer](http://1218.io/) — Quick Look Tool
 - [WinQuickLook](https://github.com/shibayan/WinQuickLook)
-
-### DICOM Viewer
-- [AlizaMedicalImaging/AlizaMS · GitHub](https://github.com/AlizaMedicalImaging/AlizaMS)
 
 ## Optical Code Transfer
 - [Decimen Optical Transfer](https://decimen.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/bashalarmistalt/decimen-optical-transfer) — transfer files with light
@@ -949,6 +949,13 @@ description: File sharing, downloaders, torrents, and cloud storage
 - [TidyTag Music Tag Editor](https://itubego.com/id3-music-tag-editor-54/)
 - [TigoTago](https://tigotago.com/) — Music tagger
 
+### Image Tagger
+- [danbooru/danbooru](https://github.com/danbooru/danbooru) — A taggable image board written in Rails.
+- [FastPhotoTagger](http://fastphototagger.sourceforge.net/)
+- [Geotagging photos](https://github.com/jmlich/geotagging)
+- [hydrusnetwork/hydrus](https://github.com/hydrusnetwork/hydrus) — tagger
+- [KGeoTag](https://kgeotag.kde.org/)
+
 ### Metadata Editor
 - [AnalogExif](https://sourceforge.net/projects/analogexif/) — SourceForge.net
 - [Caption Pro](https://caption-pro.com/) — Metadata Facial Recognition
@@ -965,10 +972,3 @@ description: File sharing, downloaders, torrents, and cloud storage
 - [MediaConch](https://mediaarea.net/MediaConch)
 - [najepaliya/kleaner · GitHub](https://github.com/najepaliya/kleaner)
 - [PhotoME](https://www.photome.de/)
-
-### Image Tagger
-- [danbooru/danbooru](https://github.com/danbooru/danbooru) — A taggable image board written in Rails.
-- [FastPhotoTagger](http://fastphototagger.sourceforge.net/)
-- [Geotagging photos](https://github.com/jmlich/geotagging)
-- [hydrusnetwork/hydrus](https://github.com/hydrusnetwork/hydrus) — tagger
-- [KGeoTag](https://kgeotag.kde.org/)

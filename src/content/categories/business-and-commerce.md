@@ -10,6 +10,25 @@ description: Stores, marketplaces, product research, and resale
 
 ## Corporation
 
+### 360So
+- [36kan](https://www.360kan.com/)
+- [So](https://soft.so.com/) — Soft
+- [So baike](https://baike.so.com/)
+- [So Ditu](https://ditu.so.com/)
+- [So ly](https://ly.so.com/)
+- [So Video](https://video.360kan.com/)
+- [So Wenda](https://wenda.so.com/)
+- [So wenku](https://wenku.so.com/)
+
+### Alibaba Group
+- [Alibaba Group](https://www.alibabagroup.com/en-US/)
+- [Alibaba Group](https://www.alibabagroup.com/en-US/about-alibaba-businesses) — Businesses
+- [Alibaba Pictures](http://www.alibabapictures.com/simp/0-home.html)
+- [Aligames](https://www.aligames.com/)
+- [Shuqi](https://www.shuqi.com/)
+- [UC](https://www.uc.cn/)
+- [Xiami](https://www.xiami.com/)
+
 ### Alphabet (Google)
 - ⭐ **[With Google](https://experiments.withgoogle.com/)** — Experiments
 - [AI.Google](https://ai.google/)
@@ -130,81 +149,6 @@ description: Stores, marketplaces, product research, and resale
 - [YouTube Social Impact](https://socialimpact.youtube.com/)
 - [YouTube VR](https://vr.youtube.com/)
 
-### IBM
-- [Codrops](https://tympanus.net/codrops)
-- [IBM](https://www.ibm.com/us-en)
-- [IBM](https://video.ibm.com/) — Watson Media
-- [IBM Cloud](https://cloud.ibm.com/catalog#services) — catalog
-- [IBM Cloud Docs](https://cloud.ibm.com/docs)
-- [IBM Job Search](https://sjobs.brassring.com/TGnewUI/Search/Home/HomeWithPreLoad?PageType=searchResults&SearchType=linkquery&partnerid=25264&siteid=5259#home)
-- [IBM News Room](https://newsroom.ibm.com/)
-- [IBM Products](https://www.ibm.com/products)
-- [IBM Q](https://www.ibm.com/quantum-computing)
-- [IBM Quantum Experience](https://quantum-computing.ibm.com/)
-- [IBM Research](https://www.research.ibm.com/)
-- [IBM Watson](https://www.ibm.com/watson)
-- [IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com/)
-- [StackPath](https://www.stackpath.com/)
-
-#### Red Hat
-- [JBoss.org](https://www.jboss.org/)
-- [OKD.io](https://www.okd.io/)
-- [Red Hat](https://www.redhat.com/en)
-- [Red Hat OpenShift Documentation](https://docs.openshift.com/)
-- [The Open Source Way](https://www.theopensourceway.org/)
-
-### Mozilla
-- [Account Firefox](https://accounts.firefox.com/)
-- [Bugzilla](https://bugzilla.mozilla.org/home)
-- [Donate to Mozilla](https://donate.mozilla.org/en-US)
-- [Firefox Developer Tools](https://firefox-dev.tools/)
-- [Firefox Monitor](https://monitor.firefox.com/)
-- [Firefox Source Tree Docs](https://firefox-source-docs.mozilla.org/)
-- [Killed by Mozilla](https://killedbymozilla.com/)
-- [MDN Web Docs](https://github.com/mdn)
-- [mdn.dev](https://mdn.dev/)
-- [Mozilla](https://commonvoice.mozilla.org/en) — Common Voice
-- [Mozilla](https://www.mozilla.org/en-US/) — Internet for people, not profit
-- [Mozilla Careers](https://careers.mozilla.org/)
-- [Mozilla Chat](https://chat.mozilla.org/#/directory) — Element
-- [Mozilla Codetribute](https://codetribute.mozilla.org/)
-- [Mozilla Community](https://community.mozilla.org/en)
-- [Mozilla Conduit](https://moz-conduit.readthedocs.io/en/latest)
-- [Mozilla Connect](https://connect.mozilla.org/)
-- [Mozilla Crowdicity](https://mozilla.crowdicity.com/)
-- [Mozilla Discourse](https://discourse.mozilla.org/)
-- [Mozilla Dot Design](https://mozilla.design/)
-- [Mozilla FTP](https://ftp.mozilla.org/)
-- [Mozilla Labs](https://newproducts.mozilla.org/)
-- [Mozilla Mixed Reality](https://mixedreality.mozilla.org/)
-- [Mozilla Observatory](https://observatory.mozilla.org/)
-- [Mozilla People Directory](https://people.mozilla.org/)
-- [Mozilla Quality Assurance](https://quality.mozilla.org/)
-- [Mozilla Support](https://support.mozilla.org/en-US)
-- [Planet Mozilla](https://planet.mozilla.org/)
-
-### Apple
-- [Apple](https://www.apple.com/)
-- [Apple](https://www.apple.com/apps/) — apps
-- [Apple](https://locate.apple.com/) — Find Locations
-- [Apple](https://investor.apple.com/investor-relations/default.aspx) — Investor Relations
-- [Apple](https://opensource.apple.com/) — Open Source
-- [Apple Developer](https://developer.apple.com/)
-- [Apple ID](https://appleid.apple.com/)
-- [Apple News+](https://www.apple.com/apple-news)
-- [Apple Support](https://support.apple.com/)
-- [Self Service Repair Store](https://selfservicerepair.com/en-US/home)
-- [TestFlight](https://testflight.apple.com/) — Apple
-
-### Alibaba Group
-- [Alibaba Group](https://www.alibabagroup.com/en-US/)
-- [Alibaba Group](https://www.alibabagroup.com/en-US/about-alibaba-businesses) — Businesses
-- [Alibaba Pictures](http://www.alibabapictures.com/simp/0-home.html)
-- [Aligames](https://www.aligames.com/)
-- [Shuqi](https://www.shuqi.com/)
-- [UC](https://www.uc.cn/)
-- [Xiami](https://www.xiami.com/)
-
 ### Amazon
 - [6pm](https://www.6pm.com/)
 - [AbeBooks](https://www.abebooks.com/)
@@ -251,6 +195,19 @@ description: Stores, marketplaces, product research, and resale
 - [Twitch Safety Center](https://safety.twitch.tv/s/?language=en_US)
 - [Twitch Sales](https://twitchadvertising.tv/)
 
+### Apple
+- [Apple](https://www.apple.com/)
+- [Apple](https://www.apple.com/apps/) — apps
+- [Apple](https://locate.apple.com/) — Find Locations
+- [Apple](https://investor.apple.com/investor-relations/default.aspx) — Investor Relations
+- [Apple](https://opensource.apple.com/) — Open Source
+- [Apple Developer](https://developer.apple.com/)
+- [Apple ID](https://appleid.apple.com/)
+- [Apple News+](https://www.apple.com/apple-news)
+- [Apple Support](https://support.apple.com/)
+- [Self Service Repair Store](https://selfservicerepair.com/en-US/home)
+- [TestFlight](https://testflight.apple.com/) — Apple
+
 ### Ebay
 - [eBay Developers Program](https://developer.ebay.com/)
 - [eBay for Charity](https://charity.ebay.com/)
@@ -259,6 +216,65 @@ description: Stores, marketplaces, product research, and resale
 - [eBay Partner Network](https://partnernetwork.ebay.com/)
 - [eBay Seller Center](https://pages.ebay.com/seller-center)
 - [The eBay Community](https://community.ebay.com/)
+
+### Facebook (Meta)
+- ⭐ **[Facebook Marketplace](https://www.facebook.com/marketplace)**
+- [CrowdTangle](https://www.crowdtangle.com/)
+- [CTRL-labs](https://www.ctrl-labs.com/)
+- [Facebook](https://www.facebook.com/groups) — Communities
+- [Facebook](https://www.facebook.com/local/lists) — Local Guides
+- [Facebook](https://www.facebook.com/directory/pages) — Pages Directory
+- [Facebook](https://www.facebook.com/directory/people) — People Directory
+- [Facebook](https://www.facebook.com/places) — Places
+- [Facebook](https://www.facebook.com/directory/places) — Places Directory
+- [Facebook About](https://about.facebook.com/)
+- [Facebook AI](https://ai.facebook.com/)
+- [Facebook Brand Resource Center](https://en.facebookbrand.com/)
+- [Facebook Business](https://business.facebook.com/)
+- [Facebook Careers](https://www.facebook.com/careers)
+- [Facebook Engineering](https://engineering.fb.com/)
+- [Facebook for Developers](https://developers.facebook.com/)
+- [Facebook Help Center](https://www.facebook.com/help)
+- [Facebook Investor](https://investor.fb.com/home/default.aspx)
+- [Facebook Messenger](https://www.messenger.com/)
+- [Facebook Open Source](https://opensource.fb.com/)
+- [Facebook Portal](https://portal.facebook.com/)
+- [Facebook Research](https://research.fb.com/)
+- [Facebook Spark AR](https://sparkar.facebook.com/ar-studio)
+- [Facebook Sustainability](https://sustainability.fb.com/)
+- [Facebook Technology](https://tech.fb.com/)
+- [Instagram](https://www.instagram.com/explore/locations) — Locations
+- [Instagram About](https://about.instagram.com/)
+- [Instagram Engineering](https://instagram-engineering.com/)
+- [Meta](https://www.meta.com/en-gb/technologies/) — Platforms and Technologies
+- [Meta](https://about.meta.com/) — Social Metaverse Company
+- [Meta Store](https://www.meta.com/es/en/) — VR headsets and smart glasses
+- [Novi](https://www.novi.com/)
+- [Oculus Developer Center](https://developer.oculus.com/)
+- [Workplace](https://www.workplace.com/)
+
+### IBM
+- [Codrops](https://tympanus.net/codrops)
+- [IBM](https://www.ibm.com/us-en)
+- [IBM](https://video.ibm.com/) — Watson Media
+- [IBM Cloud](https://cloud.ibm.com/catalog#services) — catalog
+- [IBM Cloud Docs](https://cloud.ibm.com/docs)
+- [IBM Job Search](https://sjobs.brassring.com/TGnewUI/Search/Home/HomeWithPreLoad?PageType=searchResults&SearchType=linkquery&partnerid=25264&siteid=5259#home)
+- [IBM News Room](https://newsroom.ibm.com/)
+- [IBM Products](https://www.ibm.com/products)
+- [IBM Q](https://www.ibm.com/quantum-computing)
+- [IBM Quantum Experience](https://quantum-computing.ibm.com/)
+- [IBM Research](https://www.research.ibm.com/)
+- [IBM Watson](https://www.ibm.com/watson)
+- [IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com/)
+- [StackPath](https://www.stackpath.com/)
+
+#### Red Hat
+- [JBoss.org](https://www.jboss.org/)
+- [OKD.io](https://www.okd.io/)
+- [Red Hat](https://www.redhat.com/en)
+- [Red Hat OpenShift Documentation](https://docs.openshift.com/)
+- [The Open Source Way](https://www.theopensourceway.org/)
 
 ### Microsoft
 - [Azure AI Gallery](https://gallery.azure.ai/)
@@ -305,47 +321,35 @@ description: Stores, marketplaces, product research, and resale
 - [Windows Insider Program](https://insider.windows.com/en-us)
 - [Yammer](https://www.yammer.com/)
 
-### Facebook (Meta)
-- ⭐ **[Facebook Marketplace](https://www.facebook.com/marketplace)**
-- [CrowdTangle](https://www.crowdtangle.com/)
-- [CTRL-labs](https://www.ctrl-labs.com/)
-- [Facebook](https://www.facebook.com/groups) — Communities
-- [Facebook](https://www.facebook.com/local/lists) — Local Guides
-- [Facebook](https://www.facebook.com/directory/pages) — Pages Directory
-- [Facebook](https://www.facebook.com/directory/people) — People Directory
-- [Facebook](https://www.facebook.com/places) — Places
-- [Facebook](https://www.facebook.com/directory/places) — Places Directory
-- [Facebook About](https://about.facebook.com/)
-- [Facebook AI](https://ai.facebook.com/)
-- [Facebook Brand Resource Center](https://en.facebookbrand.com/)
-- [Facebook Business](https://business.facebook.com/)
-- [Facebook Careers](https://www.facebook.com/careers)
-- [Facebook Engineering](https://engineering.fb.com/)
-- [Facebook for Developers](https://developers.facebook.com/)
-- [Facebook Help Center](https://www.facebook.com/help)
-- [Facebook Investor](https://investor.fb.com/home/default.aspx)
-- [Facebook Messenger](https://www.messenger.com/)
-- [Facebook Open Source](https://opensource.fb.com/)
-- [Facebook Portal](https://portal.facebook.com/)
-- [Facebook Research](https://research.fb.com/)
-- [Facebook Spark AR](https://sparkar.facebook.com/ar-studio)
-- [Facebook Sustainability](https://sustainability.fb.com/)
-- [Facebook Technology](https://tech.fb.com/)
-- [Instagram](https://www.instagram.com/explore/locations) — Locations
-- [Instagram About](https://about.instagram.com/)
-- [Instagram Engineering](https://instagram-engineering.com/)
-- [Meta](https://www.meta.com/en-gb/technologies/) — Platforms and Technologies
-- [Meta](https://about.meta.com/) — Social Metaverse Company
-- [Meta Store](https://www.meta.com/es/en/) — VR headsets and smart glasses
-- [Novi](https://www.novi.com/)
-- [Oculus Developer Center](https://developer.oculus.com/)
-- [Workplace](https://www.workplace.com/)
-
-### Yelp
-- [Yelp for Business](https://business.yelp.com/)
-- [Yelp Inc.](https://www.yelp-ir.com/)
-- [Yelp Jobs](https://www.yelp.careers/us/en)
-- [Yelp Press](https://www.yelp-press.com/news/default.aspx)
+### Mozilla
+- [Account Firefox](https://accounts.firefox.com/)
+- [Bugzilla](https://bugzilla.mozilla.org/home)
+- [Donate to Mozilla](https://donate.mozilla.org/en-US)
+- [Firefox Developer Tools](https://firefox-dev.tools/)
+- [Firefox Monitor](https://monitor.firefox.com/)
+- [Firefox Source Tree Docs](https://firefox-source-docs.mozilla.org/)
+- [Killed by Mozilla](https://killedbymozilla.com/)
+- [MDN Web Docs](https://github.com/mdn)
+- [mdn.dev](https://mdn.dev/)
+- [Mozilla](https://commonvoice.mozilla.org/en) — Common Voice
+- [Mozilla](https://www.mozilla.org/en-US/) — Internet for people, not profit
+- [Mozilla Careers](https://careers.mozilla.org/)
+- [Mozilla Chat](https://chat.mozilla.org/#/directory) — Element
+- [Mozilla Codetribute](https://codetribute.mozilla.org/)
+- [Mozilla Community](https://community.mozilla.org/en)
+- [Mozilla Conduit](https://moz-conduit.readthedocs.io/en/latest)
+- [Mozilla Connect](https://connect.mozilla.org/)
+- [Mozilla Crowdicity](https://mozilla.crowdicity.com/)
+- [Mozilla Discourse](https://discourse.mozilla.org/)
+- [Mozilla Dot Design](https://mozilla.design/)
+- [Mozilla FTP](https://ftp.mozilla.org/)
+- [Mozilla Labs](https://newproducts.mozilla.org/)
+- [Mozilla Mixed Reality](https://mixedreality.mozilla.org/)
+- [Mozilla Observatory](https://observatory.mozilla.org/)
+- [Mozilla People Directory](https://people.mozilla.org/)
+- [Mozilla Quality Assurance](https://quality.mozilla.org/)
+- [Mozilla Support](https://support.mozilla.org/en-US)
+- [Planet Mozilla](https://planet.mozilla.org/)
 
 ### Pinterest
 - [About Pinterest](https://about.pinterest.com/en)
@@ -375,215 +379,26 @@ description: Stores, marketplaces, product research, and resale
 - [Snapchat Support](https://support.snapchat.com/en-US)
 - [Snapcode • Snapchat](https://scan.snapchat.com/)
 
-### 360So
-- [36kan](https://www.360kan.com/)
-- [So](https://soft.so.com/) — Soft
-- [So baike](https://baike.so.com/)
-- [So Ditu](https://ditu.so.com/)
-- [So ly](https://ly.so.com/)
-- [So Video](https://video.360kan.com/)
-- [So Wenda](https://wenda.so.com/)
-- [So wenku](https://wenku.so.com/)
+### Yelp
+- [Yelp for Business](https://business.yelp.com/)
+- [Yelp Inc.](https://www.yelp-ir.com/)
+- [Yelp Jobs](https://www.yelp.careers/us/en)
+- [Yelp Press](https://www.yelp-press.com/news/default.aspx)
 
 ## Enterprises
 
 ### Commerce Company
 
-#### e-commerce
-- [3 SUISSES](https://www.3suisses.fr/)
-- [1688.com](https://www.1688.com/)
-- [Adorama](https://www.adorama.com/)
-- [Alibaba](https://www.alibaba.com/)
-- [Alibris](https://www.alibris.com/) — books, music and movies
-- [AliExpress](https://es.aliexpress.com/)
-- [Amazon.com](https://www.amazon.com/)
-- [Amazon.es](https://www.amazon.es/)
-- [Artsy](https://www.artsy.net/) — Discover, Buy, and Sell Fine Art
-- [AUTODOC](https://www.autodoc.de/) — Autoteile Online Shop mit über 4 Millionen Kfz-Ersatzteilen
-- [Back Market](https://www.backmarket.com/)
-- [Back Market](https://www.backmarket.com/en-us) — Your Refurbished (Super) Market
-- [Banggood](https://www.banggood.com/)
-- [Best Buy](https://www.bestbuy.com/)
-- [Big Cartel](https://www.bigcartel.com/)
-- [bol.com](https://www.bol.com/nl/nl/)
-- [Bonanza](https://www.bonanza.com/)
-- [BOOTH](https://booth.pm/en) — The International Indie Art Marketplace
-- [Bukalapak](https://www.bukalapak.com/)
-- [Canarias Prime](https://canariasprime.com/)
-- [Coolblue](https://www.coolblue.nl/) — alles voor een glimlach
-- [COOLMOD](https://www.coolmod.com/) — Tienda Gaming, Informática y Electrónica Online
-- [Costco](https://www.costco.com/)
-- [DetodoExpres](https://detodoexpres.com/)
-- [DHgate](https://es.dhgate.com/)
-- [Drop](https://drop.com/all-communities/drops)
-- [eBay](https://www.ebay.com/)
-- [eGlobal Central ES](https://www.eglobalcentrales.com/)
-- [eGlobal Central US](https://www.eglobalcentral.com/en_US)
-- [Etoren.com](https://eu.etoren.com/)
-- [Etsy](https://www.etsy.com/) — Shop for handmade, vintage, custom, and unique gifts for everyone
-- [FlexiSpot](https://www.flexispot.com/)
-- [Flipkart.com](https://www.flipkart.com/) — Online Shopping India Mobile, Cameras, Lifestyle & more Online
-- [focalprice](https://www.focalprice.com/)
-- [Geekbuying](https://www.geekbuying.com/)
-- [ikman.lk](https://ikman.lk/)
-- [Interflora](https://www.interflora.es/)
-- [JD.com](https://global.jd.com/)
-- [Joom](https://www.joom.com/en) — Shop every day, or whenever you feel like it
-- [King Power](https://www.kingpower.com/?lang=en)
-- [Lazada.co.id](https://www.lazada.co.id/#?) — Jual Beli Online Terbaik di Indonesia
-- [Lazada.com.my](https://www.lazada.com.my/)
-- [leboncoin, site de petites annonces gratuites](https://www.leboncoin.fr/)
-- [ManoMano](https://www.manomano.fr/)
-- [MercadoActual.es](https://mercadoactual.es/)
-- [MercadoLibre](https://www.mercadolibre.com/)
-- [Nalai & Co](https://nalaiandco.com/)
-- [Offerup](https://offerup.com/)
-- [Osabina](https://osabina.com/en)
-- [Ouku](https://www.ouku.com/es)
-- [Pinduoduo](https://en.pinduoduo.com/)
-- [Poshmark](https://poshmark.com/)
-- [Printify](https://printify.com/) — Drop Shipping & Printing Service for E-commerce
-- [Rakuten jp](https://www.rakuten.co.jp/)
-- [Redbubble](https://www.redbubble.com/)
-- [Sainsbury's](https://www.sainsburys.co.uk/)
-- [Sendowl](https://sendowl.com/)
-- [Shopee México](https://shopee.com.mx/)
-- [Sunning](https://www.suning.com/)
-- [TaoBao](https://main.m.taobao.com/) — 淘宝
-- [Tecnofactory](https://www.tecnofactorytehabla.com/)
-- [Teknistore](https://www.teknistore.com/en)
-- [Temu](https://www.temu.com/) — Explore the Latest Clothing, Beauty, Home, Jewelry & More
-- [Tesla Shop](https://shop.tesla.com/)
-- [TMall](https://www.tmall.com/)
-- [Tokopedia](https://www.tokopedia.com/)
-- [Tomtop](https://www.tomtop.com/)
-- [Total Life Changes](https://totallifechanges.com/)
-- [TradeIndia](https://www.tradeindia.com/)
-- [TradingShenzhen](https://tradingshenzhen.com/en) — Smartphones / Gadgets for BEST PRICE
-- [Vintage Design Marketplace](https://www.vntg.com/) — VNTG
-- [VMALL](https://www.vmall.com/) — 华为商城
-- [Wayfair](https://www.wayfair.com/)
-- [Wildberries](https://www.wildberries.ru/) — Интернет-магазин модной одежды и обуви
-- [Wish](https://www.wish.com/)
-- [XexyMix](https://www.xexymix.com/)
-- [Yandex market](https://market.yandex.ru/)
-- [Zalando](https://www.zalando.es/)
-
-##### Canary e-commerce
-- ⭐ **[Guanxe](https://guanxe.com/es/)**
-- [Cegrisa](https://cegrisa.com/)
-- [Eceid](https://www.ecwid.com/)
-- [El Gusto por el Vino](https://elgustoporelvino.com/)
-
-#### Thrift Shop
-- [Back Market](https://www.backmarket.es/es-es)
-- [Cash Converters](http://cashconverters.es/)
-- [Compramostucoche](https://www.compramostucoche.es/)
-- [Freecycle](https://www.freecycle.org/)
-- [Geek](https://geek.live/) — Compra y Vende en directo
-- [Jiji.ng](https://jiji.ng/)
-- [Klarna](https://www.klarna.com/es)
-- [Kyero](https://www.kyero.com/)
-- [La Brujita](https://labrujita.es/)
-- [letgo](https://www.letgo.com/es-es)
-- [Mercamania](https://www.mercamania.es/)
-- [Milanuncios](https://www.milanuncios.com/)
-- [OLX Portugal](https://www.olx.pt/)
-- [Recycle & Company](https://recyclecompany.es/)
-- [RefurbMe](https://www.refurb.me/) — Compare Refurbished Apple: iPhone, MacBook & iPad
-- [RELIBREA](https://relibrea.com/)
-- [TrueCar](https://www.truecar.com/)
-- [Vibbo](https://www.vibbo.com/)
-- [Vinted](https://www.vinted.com/)
-- [Wallapop](https://es.wallapop.com/)
-
-#### Music Store
-- [Audio Advice](https://www.audioadvice.com/)
-- [Casa La Guitarra](https://www.casalaguitarra.es/)
-- [Chicago Music Exchange](https://www.chicagomusicexchange.com/)
-- [El Argonauta](https://www.elargonauta.com/)
-- [Emiliano musical](https://emilianotallermusical.com/)
-- [Global Percusión](https://tienda.globalpercusion.com/)
-- [Guitar Center](https://www.guitarcenter.com/)
-- [Hipermusic](https://www.hipermusic.es/)
-- [MadridHifi](https://www.madridhifi.com/)
-- [Music Store Canarias](https://musicstorecanarias.com/)
-- [Musicanarias](http://www.musicanarias.com/)
-- [MusicNexo](https://www.musicnexo.com/es)
-- [Musicopolix](https://musicopolix.com/)
-- [Musiker](https://www.muziker.es/)
-- [Muslands Music Shop](https://www.muslands.com/)
-- [Norman's Rare Guitars](https://www.normansrareguitars.com/)
-- [OhGuitar.com](https://www.ohguitar.com/) — The world's marketplace for guitar lovers
-- [Paz Cerezo](https://pazcerezo.com/)
-- [Reverb](https://reverb.com/)
-- [Sweetwater](https://www.sweetwater.com/)
-- [Thomann](https://www.thomann.es/)
-- [Tiendademusica.net](https://www.tiendademusica.net/)
-
-#### Electronic Store
-- [2GUD](https://www.2gud.com/)
-- [AHL Informática](https://ahlinformatica.com/)
-- [ameriDroid.com](https://ameridroid.com/) — US-Based Distributor of SBCs and Home Automation
-- [Arduino Store](https://store.arduino.cc/)
-- [Audio46](https://audio46.com/)
-- [Binary Systems](https://www-1.binarycanarias.com/)
-- [Boulanger ©](https://www.boulanger.com/) — Électroménager & Multimédia
-- [Byte Canarias](https://www.bytecanarias.com/)
-- [CableMod](https://store.cablemod.com/)
-- [Carphone Warehouse](https://www.carphonewarehouse.com/)
-- [Cetronic](https://www.cetronic.es/sqlcommerce/disenos/plantilla1/seccion/Catalogo.jsp?cPath=&idIdioma=&idTienda=93)
-- [ChipVida](https://chipvida.com/)
-- [Compra Gamer](https://compragamer.com/)
-- [DigiKey Electronics](https://www.digikey.es/)
-- [Digikey.com](https://www.digikey.com/)
-- [eSolutions](https://esolutions.shop/)
-- [Farnell Global](https://farnell.com/) — Global Electronic Component Distributor
-- [Foto Suraj](https://fotosuraj.com/)
-- [FrSky RC](https://www.frsky-rc.com/)
-- [Hak5](https://hak5.org/) — Pentest Tools & Media
-- [Informatica Canarias by BGR Solutions](https://www.informaticacanarias.com/es/)
-- [Innova Informática (Lanzarote)](https://innovainformatica.com/)
-- [KUBII](https://www.kubii.com/es/) — Tienda oficial Raspberry PI
-- [Lalo Electrónica](http://www.laloelectronica.com/)
-- [LDLC](https://www.ldlc.com/es-es)
-- [Macnificos](https://www.macnificos.com/)
-- [MaxGaming.com](https://www.maxgaming.com/)
-- [Mimic-Audio](https://www.mimic-audio.com/) — Your home for anything headphones!
-- [Mobile Advance](https://www.mobileadvance.com/)
-- [MovilRepuestos.es](https://movilrepuestos.es/) — Adquiere los mejores repuestos para móviles
-- [Newark Electronics](https://www.newark.com/)
-- [Novomusica](https://novomusica.com/)
-- [Orly](https://www.orly.es/)
-- [PC media informática](https://www.pcmediaonline.es/es)
-- [Phone House](https://www.phonehouse.es/)
-- [PlayseatStore](https://www.playseatstore.es/)
-- [Prusa 3D](https://www.prusa3d.com/)
-- [Quonty](https://www.quonty.com/)
-- [Syspower](https://syspower.es/) — Material Informático
-- [Thakker.eu](https://www.thakker.eu/en)
-- [Visanta](https://visanta.com/)
-- [Western Digital Store](https://shop.westerndigital.com/)
-
-##### Informatic Store
-- [APP Informática](https://www.appinformatica.com/)
-- [B&H Photo Video](https://www.bhphotovideo.com/)
-- [Caseking ES](https://www.caseking.es/) — Tienda de Informática Especializada
-- [ELOQUENT CLICKS](https://eloquentclicks.com/)
-- [Konokono](https://www.konokono.es/)
-- [Mechanical Keyboard, Keycaps, Mice, Mousepad & Gaming Gear](https://mechkeys.com/)
-- [MegaSystem.es](https://megasystem.es/) — Informática
-- [Newegg](https://www.newegg.com/)
-- [Online Canarias](https://www.onlinecanarias.com/) — Tienda de Electrónica, Informática y Tecnología para Canarias
-- [PCBox](https://www.pcbox.com/)
-- [PcComponentes](https://www.pccomponentes.com/)
-- [Qi Canarias](https://qicanarias.com/)
-- [Red Computer](https://tienda.redcomputer.es/)
-- [Syswer Informática](http://tienda.syswer.com/)
-- [Tienda de Informática y Gaming](https://lifeinformatica.com/) — Mejor precio y Calidad | LIFE Informàtica
-- [Ultima Informatica](https://ultimainformatica.com/) — Tiende de informática y tecnología en Canarias
-- [Versus Gamers](https://www.vsgamers.es/)
-- [Xtremmedia.com](https://www.xtremmedia.com/) — Tienda de informática online de precios xtremos
+#### Auction Store
+- [Catawiki](https://www.catawiki.com/en)
+- [Charitybuzz](https://www.charitybuzz.com/)
+- [Colnect](https://colnect.com/en) — Colnect, connecting collectors
+- [Govdeals](https://www.govdeals.com/)
+- [Heritage Auctions](https://www.ha.com/) — World's Largest Collectibles Auctioneer
+- [Listia](https://www.listia.com/)
+- [PaulFraser Collectibles](https://www.paulfrasercollectibles.com/)
+- [PropertyRoom](https://www.propertyroom.com/)
+- [Shopgoodwill](https://www.shopgoodwill.com/)
 
 #### Big-Box Store
 - [7-Eleven](https://www.7-eleven.com/)
@@ -617,93 +432,6 @@ description: Stores, marketplaces, product research, and resale
 - [Auchan Retail](https://www.auchan-retail.com/en)
 - [Circuit City](https://www.circuitcity.com/)
 - [Frasers Group](https://www.frasersgroupplc.com/)
-
-#### Toys, Poster and More
-- [Arbor Scientific](https://www.arborsci.com/)
-- [Art of Play](https://www.artofplay.com/)
-- [BrickLink](https://www.bricklink.com/v2/main.page)
-- [Buwizz](https://buwizz.com/)
-- [Canvasogram](https://canvasogram.com/)
-- [Chess Shop](https://www.chesscomshop.com/)
-- [CrunchLabs](https://www.crunchlabs.com/) — Where kids & adults learn to Think like Engineers
-- [Dideco](https://www.dideco.es/)
-- [Fanshop Movistar+](https://fanshop.movistarplus.es/)
-- [Fun Science](https://funscience.in/)
-- [Hasbro products](https://products.hasbro.com/)
-- [I love Growing Marijuana](https://www.ilovegrowingmarijuana.com/)
-- [Ikonick](https://ikonick.com/) — Canvas Art
-- [Imanes Neodimio Biomagnetismo](https://www.i-manes.com/)
-- [KiwiCo](https://www.kiwico.com/)
-- [Krom Kedama](https://kromkendama.com/)
-- [LEGO](https://www.lego.com/en-us)
-- [LEGO Education](https://education.lego.com/en-us/)
-- [Mattel Shop](https://shop.mattel.com/shop)
-- [MATTEL Shop](https://shopping.mattel.com/es-es)
-- [MEL Chemistry](https://melscience.com/ES-en)
-- [micro:bit](https://microbit.org/)
-- [Photowall](https://www.photowall.com/us)
-- [Playmobil](https://www.playmobil.us/)
-- [Pleasure for Al](https://www.pleasureforall.com/)
-- [Puzzle Master Inc](https://www.puzzlemaster.ca/)
-- [Smoke Roses](https://www.smokeroses.com/)
-- [Snatoms Storeon](https://snatoms.com/)
-- [The Curiosity Box](https://www.curiositybox.com/)
-- [ThisIsWhyImBroke](https://www.thisiswhyimbroke.com/)
-- [Toys”R”Us](https://www.toysrus.com/)
-- [TrippyStore](https://trippystore.com/)
-- [VTSS Toys](http://www.vtsstoys.com/)
-- [WestArtFactory](https://www.westartfactory.com/) — Premium Cheat Sheets made out of PCBs
-
-##### Cube Shop
-- [Cube4you](http://cube4you.com/)
-- [GAN](https://www.gancube.com/)
-- [Gancube Shop](https://shop.gancube.com/)
-- [KUBEKINGS](https://kubekings.com/)
-- [Lightake](https://www.lightake.com/)
-- [MasKeCubos](https://www.maskecubos.com/es)
-- [MoYu Culture](http://www.moyucube.com/en/index.asp)
-
-##### Posters Stores
-- [Anderson Design Group Store](https://www.andersondesigngroupstore.com/)
-- [Displate](https://displate.com/) — metal posters
-- [Gallery Quality Art Prints](https://www.inprnt.com/)
-- [GBPosters](https://www.gbposters.com/)
-- [Imagekind](https://www.imagekind.com/)
-- [Mastersoflol](https://mastersoflol.com/)
-- [Poster Store](https://posterstore.com/)
-- [The vintage poster](https://www.thevintageposter.com/)
-- [Wallsauce](https://www.wallsauce.com/)
-
-##### Painting Shop
-- [Artenet](https://artenet.es/)
-- [Arts Fité](https://www.artsfite.com/es)
-- [Artwork](https://www.saatchiart.com/) — Buy Original Art Online, Paintings & More
-- [Buy Art](https://www.artfinder.com/#/)
-- [DIY Decor Mom](https://www.diydecormom.com/)
-- [Todocuadros](https://www.todocuadros.es/)
-
-##### Card Brands
-- [Barajas Faisan](https://barajasfaisan.com/)
-- [Bicycle Cards](https://bicyclecards.com/)
-- [Cartamundi](https://cartamundi.com/en)
-- [Fournier](https://www.nhfournier.es/)
-- [Kardwell cards](https://www.kardwell.com/)
-- [Magic](https://magic.wizards.com/en) — The Gathering
-- [NaipesZaca](https://www.naipeszaca.com/es)
-- [PlayingCardDecks](https://playingcarddecks.com/)
-- [US Playing Card](https://usplayingcard.com/)
-- [World of Playing Cards](https://www.wopc.co.uk/)
-- [Yu-Gi-Oh! Trading card game](https://www.yugioh-card.com/en)
-
-#### Vehicle Store
-- [Car.com](https://www.car.com/) — We Do the Research, You Do the Driving
-- [Car.gr](https://www.car.gr/) — Μεταχειρισμένα αυτοκίνητα
-- [Cars.com](https://www.cars.com/) — New Cars, Used Cars, Car Dealers, Prices & Reviews
-- [CarsBarter](https://www.carsbarter.es/)
-- [Coches.com](https://www.coches.com/) — Todos los coches nuevos, seminuevos, coches de segunda mano y ocasión en un lugar.
-- [Coches.net](https://www.coches.net/)
-- [Kavak](https://www.kavak.com/)
-- [Top Barcos](https://www.topbarcos.com/)
 
 #### Bookshop
 - [Adlibris](https://www.adlibris.com/se)
@@ -747,73 +475,6 @@ description: Stores, marketplaces, product research, and resale
 - [Packt](https://www.packtpub.com/) — Programming Books
 - [tagusbooks](https://www.tagusbooks.com/)
 - [ThriftBooks](https://www.thriftbooks.com/)
-
-#### Supermarket
-- [Ahorramas](https://ahorramas.es/)
-- [bonÀrea](https://www.bonarea.com/)
-- [Comercial Jesuman](http://www.comercialjesuman.es/)
-- [DIA](https://www.dia.es/compra-online)
-- [Dinosol](https://www.dinosol.es/)
-- [Eroski](https://www.eroski.es/)
-- [GADISA](https://www.gadisa.es/)
-- [Hiperdino](https://www.hiperdino.es/)
-- [HiperDino Express](https://hiperdinoexpress.com/)
-- [Kaufland](https://www.kaufland.com/)
-- [Lidl](https://www.lidl.es/es/index.htm)
-- [Makro](https://www.makro.es/)
-- [Mercadona](https://www.mercadona.es/)
-- [SPAR](https://spar-international.com/)
-- [Supeco](http://www.supeco.es/)
-
-#### Real Estate
-- [Apartments](https://www.apartments.com/)
-- [Arkadia](https://es.arkadia.com/)
-- [Baker Hedges](https://www.barkerhedges.com/)
-- [Compass](https://www.compass.com/) — Real Estate, Homes for Sale & Apartments for Rent
-- [Cuna del Alma](https://www.cunadelalma.com/)
-- [Fotocasa](https://www.fotocasa.es/es)
-- [Global Listings](https://www.globallistings.com/)
-- [Grupo CIO](https://www.cio-company.com/es)
-- [habitaclia](https://www.habitaclia.com/)
-- [HomeExchange](https://www.homeexchange.com/es)
-- [HotPads](https://hotpads.com/)
-- [Idealista](https://www.idealista.com/)
-- [Mitula Pisos](https://pisos.mitula.com/)
-- [PadMapper](https://www.padmapper.com/)
-- [pisos.com](https://www.pisos.com/)
-- [realestate.com.au](https://www.realestate.com.au/)
-- [Realtor](https://www.realtor.com/)
-- [Redfin](https://www.redfin.com/) — Real Estate & Homes for Sale, Rentals, Mortgages & Agents
-- [SpainHouses.net](https://www.spainhouses.net/)
-- [Stagemarkt.nl](https://stagemarkt.nl/) — Stages bij erkende leerbedrijven
-- [Student.com](https://www.student.com/)
-- [StuRents](https://sturents.com/)
-- [Tecnocasa](https://www.tecnocasa.es/)
-- [Tranio](https://tranio.com/)
-- [Trovit](https://casas.trovit.es/)
-- [Trulia](https://www.trulia.com/)
-- [yaencontre](https://www.yaencontre.com/)
-- [Zillow](https://www.zillow.com/) — Real Estate, Apartments, Mortgages & Home Values
-- [Zoopla](https://www.zoopla.co.uk/)
-
-#### Home Improvement
-- [1stDibs](https://www.1stdibs.com/)
-- [All modern](https://www.allmodern.com/)
-- [Contraveta](https://www.contraveta.com/)
-- [Garza](https://garza.es/) — Tienda de Domótica Online
-- [IKEA](https://www.ikea.com/es/es)
-- [IKEA Islas](https://www.islas.ikea.es/)
-- [LEROY MERLIN](https://www.leroymerlin.es/)
-- [Living Spaces](https://www.livingspaces.com/)
-- [Lowe's Home Improvement](https://www.lowes.com/)
-- [Pamono](https://www.pamono.com/)
-- [Sagrera Canarias](https://sagreracanarias.es/)
-- [Urban Barn](https://www.urbanbarn.com/en/home)
-
-#### Protection Store
-- [AT Proteccion](https://www.atproteccion.com/)
-- [Aulterra](https://aulterra.com/)
-- [Pure Nature](https://www.purenature.es/)
 
 #### Clothes Shops
 - [Abercrombie & Fitch](https://www.abercrombie.com/shop/eu)
@@ -937,6 +598,177 @@ description: Stores, marketplaces, product research, and resale
 - [XYLO Merch Store](https://xylostore.com/)
 - [Zazzle](https://www.zazzle.com/) — Personalized Custom Gifts & Instant Downloads
 
+#### Cosmetics Shop
+- [Candle Moments Co](https://candlemomentsco.com/) — Velas aromáticas y melts de soja hechos a mano
+- [Douglas](https://douglas.es/)
+- [Fenty Beauty](https://www.fentybeauty.com/)
+- [Guerlain](https://www.guerlain.com/es/es-es#anchor-section-1)
+- [KIKO Milano](https://www.kikocosmetics.com/es-es)
+- [OK Perfumes](https://okperfumes.com/) — Equivalencia, Calidad y Durabilidad Asequible
+- [Perfumerías Primor](https://www.primor.eu/)
+- [Sephora](https://www.sephora.com/)
+- [Shop Miss A](https://www.shopmissa.com/)
+- [Ulta Beauty](https://www.ulta.com/)
+- [Vichy Skin Care](https://www.vichyusa.com/)
+
+#### Cutlery Store
+- [Cuchillería el Artesano](https://cuchilleriaelartesano.com/es)
+
+#### e-commerce
+- [3 SUISSES](https://www.3suisses.fr/)
+- [1688.com](https://www.1688.com/)
+- [Adorama](https://www.adorama.com/)
+- [Alibaba](https://www.alibaba.com/)
+- [Alibris](https://www.alibris.com/) — books, music and movies
+- [AliExpress](https://es.aliexpress.com/)
+- [Amazon.com](https://www.amazon.com/)
+- [Amazon.es](https://www.amazon.es/)
+- [Artsy](https://www.artsy.net/) — Discover, Buy, and Sell Fine Art
+- [AUTODOC](https://www.autodoc.de/) — Autoteile Online Shop mit über 4 Millionen Kfz-Ersatzteilen
+- [Back Market](https://www.backmarket.com/)
+- [Back Market](https://www.backmarket.com/en-us) — Your Refurbished (Super) Market
+- [Banggood](https://www.banggood.com/)
+- [Best Buy](https://www.bestbuy.com/)
+- [Big Cartel](https://www.bigcartel.com/)
+- [bol.com](https://www.bol.com/nl/nl/)
+- [Bonanza](https://www.bonanza.com/)
+- [BOOTH](https://booth.pm/en) — The International Indie Art Marketplace
+- [Bukalapak](https://www.bukalapak.com/)
+- [Canarias Prime](https://canariasprime.com/)
+- [Coolblue](https://www.coolblue.nl/) — alles voor een glimlach
+- [COOLMOD](https://www.coolmod.com/) — Tienda Gaming, Informática y Electrónica Online
+- [Costco](https://www.costco.com/)
+- [DetodoExpres](https://detodoexpres.com/)
+- [DHgate](https://es.dhgate.com/)
+- [Drop](https://drop.com/all-communities/drops)
+- [eBay](https://www.ebay.com/)
+- [eGlobal Central ES](https://www.eglobalcentrales.com/)
+- [eGlobal Central US](https://www.eglobalcentral.com/en_US)
+- [Etoren.com](https://eu.etoren.com/)
+- [Etsy](https://www.etsy.com/) — Shop for handmade, vintage, custom, and unique gifts for everyone
+- [FlexiSpot](https://www.flexispot.com/)
+- [Flipkart.com](https://www.flipkart.com/) — Online Shopping India Mobile, Cameras, Lifestyle & more Online
+- [focalprice](https://www.focalprice.com/)
+- [Geekbuying](https://www.geekbuying.com/)
+- [ikman.lk](https://ikman.lk/)
+- [Interflora](https://www.interflora.es/)
+- [JD.com](https://global.jd.com/)
+- [Joom](https://www.joom.com/en) — Shop every day, or whenever you feel like it
+- [King Power](https://www.kingpower.com/?lang=en)
+- [Lazada.co.id](https://www.lazada.co.id/#?) — Jual Beli Online Terbaik di Indonesia
+- [Lazada.com.my](https://www.lazada.com.my/)
+- [leboncoin, site de petites annonces gratuites](https://www.leboncoin.fr/)
+- [ManoMano](https://www.manomano.fr/)
+- [MercadoActual.es](https://mercadoactual.es/)
+- [MercadoLibre](https://www.mercadolibre.com/)
+- [Nalai & Co](https://nalaiandco.com/)
+- [Offerup](https://offerup.com/)
+- [Osabina](https://osabina.com/en)
+- [Ouku](https://www.ouku.com/es)
+- [Pinduoduo](https://en.pinduoduo.com/)
+- [Poshmark](https://poshmark.com/)
+- [Printify](https://printify.com/) — Drop Shipping & Printing Service for E-commerce
+- [Rakuten jp](https://www.rakuten.co.jp/)
+- [Redbubble](https://www.redbubble.com/)
+- [Sainsbury's](https://www.sainsburys.co.uk/)
+- [Sendowl](https://sendowl.com/)
+- [Shopee México](https://shopee.com.mx/)
+- [Sunning](https://www.suning.com/)
+- [TaoBao](https://main.m.taobao.com/) — 淘宝
+- [Tecnofactory](https://www.tecnofactorytehabla.com/)
+- [Teknistore](https://www.teknistore.com/en)
+- [Temu](https://www.temu.com/) — Explore the Latest Clothing, Beauty, Home, Jewelry & More
+- [Tesla Shop](https://shop.tesla.com/)
+- [TMall](https://www.tmall.com/)
+- [Tokopedia](https://www.tokopedia.com/)
+- [Tomtop](https://www.tomtop.com/)
+- [Total Life Changes](https://totallifechanges.com/)
+- [TradeIndia](https://www.tradeindia.com/)
+- [TradingShenzhen](https://tradingshenzhen.com/en) — Smartphones / Gadgets for BEST PRICE
+- [Vintage Design Marketplace](https://www.vntg.com/) — VNTG
+- [VMALL](https://www.vmall.com/) — 华为商城
+- [Wayfair](https://www.wayfair.com/)
+- [Wildberries](https://www.wildberries.ru/) — Интернет-магазин модной одежды и обуви
+- [Wish](https://www.wish.com/)
+- [XexyMix](https://www.xexymix.com/)
+- [Yandex market](https://market.yandex.ru/)
+- [Zalando](https://www.zalando.es/)
+
+##### Canary e-commerce
+- ⭐ **[Guanxe](https://guanxe.com/es/)**
+- [Cegrisa](https://cegrisa.com/)
+- [Eceid](https://www.ecwid.com/)
+- [El Gusto por el Vino](https://elgustoporelvino.com/)
+
+#### Electronic Store
+- [2GUD](https://www.2gud.com/)
+- [AHL Informática](https://ahlinformatica.com/)
+- [ameriDroid.com](https://ameridroid.com/) — US-Based Distributor of SBCs and Home Automation
+- [Arduino Store](https://store.arduino.cc/)
+- [Audio46](https://audio46.com/)
+- [Binary Systems](https://www-1.binarycanarias.com/)
+- [Boulanger ©](https://www.boulanger.com/) — Électroménager & Multimédia
+- [Byte Canarias](https://www.bytecanarias.com/)
+- [CableMod](https://store.cablemod.com/)
+- [Carphone Warehouse](https://www.carphonewarehouse.com/)
+- [Cetronic](https://www.cetronic.es/sqlcommerce/disenos/plantilla1/seccion/Catalogo.jsp?cPath=&idIdioma=&idTienda=93)
+- [ChipVida](https://chipvida.com/)
+- [Compra Gamer](https://compragamer.com/)
+- [DigiKey Electronics](https://www.digikey.es/)
+- [Digikey.com](https://www.digikey.com/)
+- [eSolutions](https://esolutions.shop/)
+- [Farnell Global](https://farnell.com/) — Global Electronic Component Distributor
+- [Foto Suraj](https://fotosuraj.com/)
+- [FrSky RC](https://www.frsky-rc.com/)
+- [Hak5](https://hak5.org/) — Pentest Tools & Media
+- [Informatica Canarias by BGR Solutions](https://www.informaticacanarias.com/es/)
+- [Innova Informática (Lanzarote)](https://innovainformatica.com/)
+- [KUBII](https://www.kubii.com/es/) — Tienda oficial Raspberry PI
+- [Lalo Electrónica](http://www.laloelectronica.com/)
+- [LDLC](https://www.ldlc.com/es-es)
+- [Macnificos](https://www.macnificos.com/)
+- [MaxGaming.com](https://www.maxgaming.com/)
+- [Mimic-Audio](https://www.mimic-audio.com/) — Your home for anything headphones!
+- [Mobile Advance](https://www.mobileadvance.com/)
+- [MovilRepuestos.es](https://movilrepuestos.es/) — Adquiere los mejores repuestos para móviles
+- [Newark Electronics](https://www.newark.com/)
+- [Novomusica](https://novomusica.com/)
+- [Orly](https://www.orly.es/)
+- [PC media informática](https://www.pcmediaonline.es/es)
+- [Phone House](https://www.phonehouse.es/)
+- [PlayseatStore](https://www.playseatstore.es/)
+- [Prusa 3D](https://www.prusa3d.com/)
+- [Quonty](https://www.quonty.com/)
+- [Syspower](https://syspower.es/) — Material Informático
+- [Thakker.eu](https://www.thakker.eu/en)
+- [Visanta](https://visanta.com/)
+- [Western Digital Store](https://shop.westerndigital.com/)
+
+##### Informatic Store
+- [APP Informática](https://www.appinformatica.com/)
+- [B&H Photo Video](https://www.bhphotovideo.com/)
+- [Caseking ES](https://www.caseking.es/) — Tienda de Informática Especializada
+- [ELOQUENT CLICKS](https://eloquentclicks.com/)
+- [Konokono](https://www.konokono.es/)
+- [Mechanical Keyboard, Keycaps, Mice, Mousepad & Gaming Gear](https://mechkeys.com/)
+- [MegaSystem.es](https://megasystem.es/) — Informática
+- [Newegg](https://www.newegg.com/)
+- [Online Canarias](https://www.onlinecanarias.com/) — Tienda de Electrónica, Informática y Tecnología para Canarias
+- [PCBox](https://www.pcbox.com/)
+- [PcComponentes](https://www.pccomponentes.com/)
+- [Qi Canarias](https://qicanarias.com/)
+- [Red Computer](https://tienda.redcomputer.es/)
+- [Syswer Informática](http://tienda.syswer.com/)
+- [Tienda de Informática y Gaming](https://lifeinformatica.com/) — Mejor precio y Calidad | LIFE Informàtica
+- [Ultima Informatica](https://ultimainformatica.com/) — Tiende de informática y tecnología en Canarias
+- [Versus Gamers](https://www.vsgamers.es/)
+- [Xtremmedia.com](https://www.xtremmedia.com/) — Tienda de informática online de precios xtremos
+
+#### Food Store
+- [Frutas y Verduras Nito](https://frutasyverdurasnito.es/)
+- [Kroger](https://www.kroger.com/) — Groceries & Pharmacy
+- [PepperHead](https://pepperhead.com/)
+
 #### Game Store
 - [Game.co.uk](https://www.game.co.uk/)
 - [GAME.es](https://www.game.es/)
@@ -955,18 +787,57 @@ description: Stores, marketplaces, product research, and resale
 - [Tranjisgames](https://tranjisgames.com/)
 - [Winning Moves Games, Inc.](https://winning-moves.com/)
 
-#### Self Publishing
-- ⭐ **[Gumroad](https://gumroad.com/)**
-- [Amazon Wishlist](https://www.amazon.com/hz/wishlist/intro)
-- [DiggyPOD](https://www.diggypod.com/)
-- [Lulu](https://www.lulu.com/)
-- [PayHip](https://payhip.com/) — Sell digital downloads and courses
-- [Sell.app](https://sell.app/)
-- [Skeb](https://skeb.jp/) — Request Box
-- [Snipfeed.co](https://snipfeed.co/)
-- [Teachable](https://teachable.com/)
-- [Throne](https://thronegifts.com/landing) — Commerce Platform
-- [Throne](https://throne.com/landing) — The Wishlist for Creators
+#### Guns Store
+- [AimSurplus](https://aimsurplus.com/)
+- [Atlantic Firearms](https://atlanticfirearms.com/)
+- [Brownells](https://www.brownells.es/)
+- [Buds Gun Shop](https://www.budsgunshop.com/)
+- [Cabela's](https://www.cabelas.com/shop/en)
+- [Cheaper Than Dirt](https://www.cheaperthandirt.com/)
+- [Gunbuyer](https://www.gunbuyer.com/)
+- [Guns.com](https://www.guns.com/)
+- [Hyatt Guns](https://www.hyattgunstore.com/)
+- [Impact Guns](https://www.impactguns.com/)
+- [MarColMar Firearms](https://www.marcolmarfirearms.com/)
+- [MidwayUSA](https://www.midwayusa.com/)
+- [Palmetto State Armory](https://palmettostatearmory.com/)
+- [Punteros laseres](https://www.punterolaseres.com/)
+- [Rainier Arms](https://www.rainierarms.com/)
+- [Sportsman's Warehouse](https://www.sportsmans.com/)
+
+#### Home Improvement
+- [1stDibs](https://www.1stdibs.com/)
+- [All modern](https://www.allmodern.com/)
+- [Contraveta](https://www.contraveta.com/)
+- [Garza](https://garza.es/) — Tienda de Domótica Online
+- [IKEA](https://www.ikea.com/es/es)
+- [IKEA Islas](https://www.islas.ikea.es/)
+- [LEROY MERLIN](https://www.leroymerlin.es/)
+- [Living Spaces](https://www.livingspaces.com/)
+- [Lowe's Home Improvement](https://www.lowes.com/)
+- [Pamono](https://www.pamono.com/)
+- [Sagrera Canarias](https://sagreracanarias.es/)
+- [Urban Barn](https://www.urbanbarn.com/en/home)
+
+#### Jewellery
+- [Alex Woo](https://www.alexwoo.com/)
+- [Jared](https://www.jared.com/)
+- [Jonna Jinton Jewellery](https://jonnajintonsweden.com/)
+- [Ka Gold Jewelry](https://www.ka-gold-jewelry.com/)
+- [Kay](https://www.kay.com/)
+- [Majorica](https://www.majorica.com/en/) — Reinventing pearls
+- [Tiffany & Co.](https://www.tiffany.com/)
+- [Zales](https://www.zales.com/)
+
+#### Laser Store
+- [BigLasers.com](https://biglasers.com/)
+- [Comprar laser](https://www.comprarlaser.com/)
+- [Laser Pointer Store](https://www.laserpointerstore.com/) — No.1 Online Laser Store
+- [LaserCube](https://www.laseros.com/) — World's First Portable Laser Show
+- [Laserpecker](https://www.laserpecker.net/)
+- [Lasertack](https://www.lasertack.com/en)
+- [Laserwar](https://laserwar.com/)
+- [X-Laser](https://x-laser.com/) — Laser light show projectors
 
 #### Magic Shop
 - [Andamagia](https://www.andamagia.com/)
@@ -999,6 +870,30 @@ description: Stores, marketplaces, product research, and resale
 - [Vanishing Inc. Magic](https://www.vanishingincmagic.com/)
 - [World Magic Shop](https://www.worldmagicshop.com/)
 
+#### Music Store
+- [Audio Advice](https://www.audioadvice.com/)
+- [Casa La Guitarra](https://www.casalaguitarra.es/)
+- [Chicago Music Exchange](https://www.chicagomusicexchange.com/)
+- [El Argonauta](https://www.elargonauta.com/)
+- [Emiliano musical](https://emilianotallermusical.com/)
+- [Global Percusión](https://tienda.globalpercusion.com/)
+- [Guitar Center](https://www.guitarcenter.com/)
+- [Hipermusic](https://www.hipermusic.es/)
+- [MadridHifi](https://www.madridhifi.com/)
+- [Music Store Canarias](https://musicstorecanarias.com/)
+- [Musicanarias](http://www.musicanarias.com/)
+- [MusicNexo](https://www.musicnexo.com/es)
+- [Musicopolix](https://musicopolix.com/)
+- [Musiker](https://www.muziker.es/)
+- [Muslands Music Shop](https://www.muslands.com/)
+- [Norman's Rare Guitars](https://www.normansrareguitars.com/)
+- [OhGuitar.com](https://www.ohguitar.com/) — The world's marketplace for guitar lovers
+- [Paz Cerezo](https://pazcerezo.com/)
+- [Reverb](https://reverb.com/)
+- [Sweetwater](https://www.sweetwater.com/)
+- [Thomann](https://www.thomann.es/)
+- [Tiendademusica.net](https://www.tiendademusica.net/)
+
 #### Optics Shop
 - [CECOP](https://www.cecop.es/)
 - [gafas.es](https://www.gafas.es/)
@@ -1010,62 +905,6 @@ description: Stores, marketplaces, product research, and resale
 - [Optica Rieu](http://www.opticarieu.com/)
 - [Opticalia](https://www.opticalia.es/es)
 - [VisionLab!](https://www.visionlab.es/)
-
-#### Supplier Material
-- [Grainger.com](https://www.grainger.com/)
-- [IndiaMART](https://www.indiamart.com/)
-- [KEMET](https://www.kemet.com/en/us.html)
-- [LM Wind Power](https://www.lmwindpower.com/)
-- [McMaster-Carr](https://www.mcmaster.com/)
-- [Octopart](https://octopart.com/) — Electronics Parts Search Engine
-- [Thomasnet](https://www.thomasnet.com/)
-
-#### Auction Store
-- [Catawiki](https://www.catawiki.com/en)
-- [Charitybuzz](https://www.charitybuzz.com/)
-- [Colnect](https://colnect.com/en) — Colnect, connecting collectors
-- [Govdeals](https://www.govdeals.com/)
-- [Heritage Auctions](https://www.ha.com/) — World's Largest Collectibles Auctioneer
-- [Listia](https://www.listia.com/)
-- [PaulFraser Collectibles](https://www.paulfrasercollectibles.com/)
-- [PropertyRoom](https://www.propertyroom.com/)
-- [Shopgoodwill](https://www.shopgoodwill.com/)
-
-#### Cutlery Store
-- [Cuchillería el Artesano](https://cuchilleriaelartesano.com/es)
-
-#### Cosmetics Shop
-- [Candle Moments Co](https://candlemomentsco.com/) — Velas aromáticas y melts de soja hechos a mano
-- [Douglas](https://douglas.es/)
-- [Fenty Beauty](https://www.fentybeauty.com/)
-- [Guerlain](https://www.guerlain.com/es/es-es#anchor-section-1)
-- [KIKO Milano](https://www.kikocosmetics.com/es-es)
-- [OK Perfumes](https://okperfumes.com/) — Equivalencia, Calidad y Durabilidad Asequible
-- [Perfumerías Primor](https://www.primor.eu/)
-- [Sephora](https://www.sephora.com/)
-- [Shop Miss A](https://www.shopmissa.com/)
-- [Ulta Beauty](https://www.ulta.com/)
-- [Vichy Skin Care](https://www.vichyusa.com/)
-
-#### Sex Shop
-- [Adam & Eve](https://www.adameve.com/)
-- [Adulttoymegastore](https://adulttoymegastore.com/)
-- [Cirilla's](https://www.cirillas.com/)
-- [Lovehoney](https://www.lovehoney.com/)
-- [Lovers Package](https://www.loverspackage.com/)
-- [PinkCherry](https://www.pinkcherry.com/)
-- [Placer Intenso](https://www.placerintenso.es/)
-- [Vibrafaccion.com](https://www.vibrafaccion.com/)
-
-#### Jewellery
-- [Alex Woo](https://www.alexwoo.com/)
-- [Jared](https://www.jared.com/)
-- [Jonna Jinton Jewellery](https://jonnajintonsweden.com/)
-- [Ka Gold Jewelry](https://www.ka-gold-jewelry.com/)
-- [Kay](https://www.kay.com/)
-- [Majorica](https://www.majorica.com/en/) — Reinventing pearls
-- [Tiffany & Co.](https://www.tiffany.com/)
-- [Zales](https://www.zales.com/)
 
 #### Pharmacy Online
 - [A Sua Farmácia](https://www.asuafarmaciaonline.pt/)
@@ -1086,38 +925,2265 @@ description: Stores, marketplaces, product research, and resale
 - [Saal Digital](https://www.saal-digital.es/)
 - [Walgreens](https://photo.walgreens.com/store/home)
 
-#### Guns Store
-- [AimSurplus](https://aimsurplus.com/)
-- [Atlantic Firearms](https://atlanticfirearms.com/)
-- [Brownells](https://www.brownells.es/)
-- [Buds Gun Shop](https://www.budsgunshop.com/)
-- [Cabela's](https://www.cabelas.com/shop/en)
-- [Cheaper Than Dirt](https://www.cheaperthandirt.com/)
-- [Gunbuyer](https://www.gunbuyer.com/)
-- [Guns.com](https://www.guns.com/)
-- [Hyatt Guns](https://www.hyattgunstore.com/)
-- [Impact Guns](https://www.impactguns.com/)
-- [MarColMar Firearms](https://www.marcolmarfirearms.com/)
-- [MidwayUSA](https://www.midwayusa.com/)
-- [Palmetto State Armory](https://palmettostatearmory.com/)
-- [Punteros laseres](https://www.punterolaseres.com/)
-- [Rainier Arms](https://www.rainierarms.com/)
-- [Sportsman's Warehouse](https://www.sportsmans.com/)
+#### Protection Store
+- [AT Proteccion](https://www.atproteccion.com/)
+- [Aulterra](https://aulterra.com/)
+- [Pure Nature](https://www.purenature.es/)
 
-#### Laser Store
-- [BigLasers.com](https://biglasers.com/)
-- [Comprar laser](https://www.comprarlaser.com/)
-- [Laser Pointer Store](https://www.laserpointerstore.com/) — No.1 Online Laser Store
-- [LaserCube](https://www.laseros.com/) — World's First Portable Laser Show
-- [Laserpecker](https://www.laserpecker.net/)
-- [Lasertack](https://www.lasertack.com/en)
-- [Laserwar](https://laserwar.com/)
-- [X-Laser](https://x-laser.com/) — Laser light show projectors
+#### Real Estate
+- [Apartments](https://www.apartments.com/)
+- [Arkadia](https://es.arkadia.com/)
+- [Baker Hedges](https://www.barkerhedges.com/)
+- [Compass](https://www.compass.com/) — Real Estate, Homes for Sale & Apartments for Rent
+- [Cuna del Alma](https://www.cunadelalma.com/)
+- [Fotocasa](https://www.fotocasa.es/es)
+- [Global Listings](https://www.globallistings.com/)
+- [Grupo CIO](https://www.cio-company.com/es)
+- [habitaclia](https://www.habitaclia.com/)
+- [HomeExchange](https://www.homeexchange.com/es)
+- [HotPads](https://hotpads.com/)
+- [Idealista](https://www.idealista.com/)
+- [Mitula Pisos](https://pisos.mitula.com/)
+- [PadMapper](https://www.padmapper.com/)
+- [pisos.com](https://www.pisos.com/)
+- [realestate.com.au](https://www.realestate.com.au/)
+- [Realtor](https://www.realtor.com/)
+- [Redfin](https://www.redfin.com/) — Real Estate & Homes for Sale, Rentals, Mortgages & Agents
+- [SpainHouses.net](https://www.spainhouses.net/)
+- [Stagemarkt.nl](https://stagemarkt.nl/) — Stages bij erkende leerbedrijven
+- [Student.com](https://www.student.com/)
+- [StuRents](https://sturents.com/)
+- [Tecnocasa](https://www.tecnocasa.es/)
+- [Tranio](https://tranio.com/)
+- [Trovit](https://casas.trovit.es/)
+- [Trulia](https://www.trulia.com/)
+- [yaencontre](https://www.yaencontre.com/)
+- [Zillow](https://www.zillow.com/) — Real Estate, Apartments, Mortgages & Home Values
+- [Zoopla](https://www.zoopla.co.uk/)
 
-#### Food Store
-- [Frutas y Verduras Nito](https://frutasyverdurasnito.es/)
-- [Kroger](https://www.kroger.com/) — Groceries & Pharmacy
-- [PepperHead](https://pepperhead.com/)
+#### Self Publishing
+- ⭐ **[Gumroad](https://gumroad.com/)**
+- [Amazon Wishlist](https://www.amazon.com/hz/wishlist/intro)
+- [DiggyPOD](https://www.diggypod.com/)
+- [Lulu](https://www.lulu.com/)
+- [PayHip](https://payhip.com/) — Sell digital downloads and courses
+- [Sell.app](https://sell.app/)
+- [Skeb](https://skeb.jp/) — Request Box
+- [Snipfeed.co](https://snipfeed.co/)
+- [Teachable](https://teachable.com/)
+- [Throne](https://thronegifts.com/landing) — Commerce Platform
+- [Throne](https://throne.com/landing) — The Wishlist for Creators
+
+#### Sex Shop
+- [Adam & Eve](https://www.adameve.com/)
+- [Adulttoymegastore](https://adulttoymegastore.com/)
+- [Cirilla's](https://www.cirillas.com/)
+- [Lovehoney](https://www.lovehoney.com/)
+- [Lovers Package](https://www.loverspackage.com/)
+- [PinkCherry](https://www.pinkcherry.com/)
+- [Placer Intenso](https://www.placerintenso.es/)
+- [Vibrafaccion.com](https://www.vibrafaccion.com/)
+
+#### Supermarket
+- [Ahorramas](https://ahorramas.es/)
+- [bonÀrea](https://www.bonarea.com/)
+- [Comercial Jesuman](http://www.comercialjesuman.es/)
+- [DIA](https://www.dia.es/compra-online)
+- [Dinosol](https://www.dinosol.es/)
+- [Eroski](https://www.eroski.es/)
+- [GADISA](https://www.gadisa.es/)
+- [Hiperdino](https://www.hiperdino.es/)
+- [HiperDino Express](https://hiperdinoexpress.com/)
+- [Kaufland](https://www.kaufland.com/)
+- [Lidl](https://www.lidl.es/es/index.htm)
+- [Makro](https://www.makro.es/)
+- [Mercadona](https://www.mercadona.es/)
+- [SPAR](https://spar-international.com/)
+- [Supeco](http://www.supeco.es/)
+
+#### Supplier Material
+- [Grainger.com](https://www.grainger.com/)
+- [IndiaMART](https://www.indiamart.com/)
+- [KEMET](https://www.kemet.com/en/us.html)
+- [LM Wind Power](https://www.lmwindpower.com/)
+- [McMaster-Carr](https://www.mcmaster.com/)
+- [Octopart](https://octopart.com/) — Electronics Parts Search Engine
+- [Thomasnet](https://www.thomasnet.com/)
+
+#### Thrift Shop
+- [Back Market](https://www.backmarket.es/es-es)
+- [Cash Converters](http://cashconverters.es/)
+- [Compramostucoche](https://www.compramostucoche.es/)
+- [Freecycle](https://www.freecycle.org/)
+- [Geek](https://geek.live/) — Compra y Vende en directo
+- [Jiji.ng](https://jiji.ng/)
+- [Klarna](https://www.klarna.com/es)
+- [Kyero](https://www.kyero.com/)
+- [La Brujita](https://labrujita.es/)
+- [letgo](https://www.letgo.com/es-es)
+- [Mercamania](https://www.mercamania.es/)
+- [Milanuncios](https://www.milanuncios.com/)
+- [OLX Portugal](https://www.olx.pt/)
+- [Recycle & Company](https://recyclecompany.es/)
+- [RefurbMe](https://www.refurb.me/) — Compare Refurbished Apple: iPhone, MacBook & iPad
+- [RELIBREA](https://relibrea.com/)
+- [TrueCar](https://www.truecar.com/)
+- [Vibbo](https://www.vibbo.com/)
+- [Vinted](https://www.vinted.com/)
+- [Wallapop](https://es.wallapop.com/)
+
+#### Toys, Poster and More
+- [Arbor Scientific](https://www.arborsci.com/)
+- [Art of Play](https://www.artofplay.com/)
+- [BrickLink](https://www.bricklink.com/v2/main.page)
+- [Buwizz](https://buwizz.com/)
+- [Canvasogram](https://canvasogram.com/)
+- [Chess Shop](https://www.chesscomshop.com/)
+- [CrunchLabs](https://www.crunchlabs.com/) — Where kids & adults learn to Think like Engineers
+- [Dideco](https://www.dideco.es/)
+- [Fanshop Movistar+](https://fanshop.movistarplus.es/)
+- [Fun Science](https://funscience.in/)
+- [Hasbro products](https://products.hasbro.com/)
+- [I love Growing Marijuana](https://www.ilovegrowingmarijuana.com/)
+- [Ikonick](https://ikonick.com/) — Canvas Art
+- [Imanes Neodimio Biomagnetismo](https://www.i-manes.com/)
+- [KiwiCo](https://www.kiwico.com/)
+- [Krom Kedama](https://kromkendama.com/)
+- [LEGO](https://www.lego.com/en-us)
+- [LEGO Education](https://education.lego.com/en-us/)
+- [Mattel Shop](https://shop.mattel.com/shop)
+- [MATTEL Shop](https://shopping.mattel.com/es-es)
+- [MEL Chemistry](https://melscience.com/ES-en)
+- [micro:bit](https://microbit.org/)
+- [Photowall](https://www.photowall.com/us)
+- [Playmobil](https://www.playmobil.us/)
+- [Pleasure for Al](https://www.pleasureforall.com/)
+- [Puzzle Master Inc](https://www.puzzlemaster.ca/)
+- [Smoke Roses](https://www.smokeroses.com/)
+- [Snatoms Storeon](https://snatoms.com/)
+- [The Curiosity Box](https://www.curiositybox.com/)
+- [ThisIsWhyImBroke](https://www.thisiswhyimbroke.com/)
+- [Toys”R”Us](https://www.toysrus.com/)
+- [TrippyStore](https://trippystore.com/)
+- [VTSS Toys](http://www.vtsstoys.com/)
+- [WestArtFactory](https://www.westartfactory.com/) — Premium Cheat Sheets made out of PCBs
+
+##### Card Brands
+- [Barajas Faisan](https://barajasfaisan.com/)
+- [Bicycle Cards](https://bicyclecards.com/)
+- [Cartamundi](https://cartamundi.com/en)
+- [Fournier](https://www.nhfournier.es/)
+- [Kardwell cards](https://www.kardwell.com/)
+- [Magic](https://magic.wizards.com/en) — The Gathering
+- [NaipesZaca](https://www.naipeszaca.com/es)
+- [PlayingCardDecks](https://playingcarddecks.com/)
+- [US Playing Card](https://usplayingcard.com/)
+- [World of Playing Cards](https://www.wopc.co.uk/)
+- [Yu-Gi-Oh! Trading card game](https://www.yugioh-card.com/en)
+
+##### Cube Shop
+- [Cube4you](http://cube4you.com/)
+- [GAN](https://www.gancube.com/)
+- [Gancube Shop](https://shop.gancube.com/)
+- [KUBEKINGS](https://kubekings.com/)
+- [Lightake](https://www.lightake.com/)
+- [MasKeCubos](https://www.maskecubos.com/es)
+- [MoYu Culture](http://www.moyucube.com/en/index.asp)
+
+##### Painting Shop
+- [Artenet](https://artenet.es/)
+- [Arts Fité](https://www.artsfite.com/es)
+- [Artwork](https://www.saatchiart.com/) — Buy Original Art Online, Paintings & More
+- [Buy Art](https://www.artfinder.com/#/)
+- [DIY Decor Mom](https://www.diydecormom.com/)
+- [Todocuadros](https://www.todocuadros.es/)
+
+##### Posters Stores
+- [Anderson Design Group Store](https://www.andersondesigngroupstore.com/)
+- [Displate](https://displate.com/) — metal posters
+- [Gallery Quality Art Prints](https://www.inprnt.com/)
+- [GBPosters](https://www.gbposters.com/)
+- [Imagekind](https://www.imagekind.com/)
+- [Mastersoflol](https://mastersoflol.com/)
+- [Poster Store](https://posterstore.com/)
+- [The vintage poster](https://www.thevintageposter.com/)
+- [Wallsauce](https://www.wallsauce.com/)
+
+#### Vehicle Store
+- [Car.com](https://www.car.com/) — We Do the Research, You Do the Driving
+- [Car.gr](https://www.car.gr/) — Μεταχειρισμένα αυτοκίνητα
+- [Cars.com](https://www.cars.com/) — New Cars, Used Cars, Car Dealers, Prices & Reviews
+- [CarsBarter](https://www.carsbarter.es/)
+- [Coches.com](https://www.coches.com/) — Todos los coches nuevos, seminuevos, coches de segunda mano y ocasión en un lugar.
+- [Coches.net](https://www.coches.net/)
+- [Kavak](https://www.kavak.com/)
+- [Top Barcos](https://www.topbarcos.com/)
+
+### Conglomerate
+- [3DS](https://www.3ds.com/products) — Products
+- [Access Industries](https://www.accessindustries.com/)
+- [Adobe](https://www.adobe.com/creativecloud/plans.html) — apps
+- [ADP Marketplace](https://apps.adp.com/en-US/home)
+- [Akamai](https://www.akamai.com/products) — Products
+- [Apple Open Source](https://opensource.apple.com/releases/) — releases
+- [Autodesk](https://www.autodesk.com/products) — all products
+- [Ball Corporation](https://www.ball.com/)
+- [BBK Electronics](https://www.eebbk.com/)
+- [Beiersdorf](https://www.beiersdorf.de/)
+- [Berkshire Hathaway](https://www.berkshirehathaway.com/)
+- [Bertelsmann](https://www.bertelsmann.com/#st-1)
+- [Bitfury](https://bitfury.com/)
+- [Block](https://opensource.block.xyz/) — Open Source
+- [Bosch Global](https://www.bosch.com/)
+- [ByteDance](https://www.bytedance.com/en/products) — All products
+- [CASIO](https://world.casio.com/)
+- [CrowdStrike Marketplace](https://marketplace.crowdstrike.com/)
+- [Dailymotion Developer](https://developer.dailymotion.com/)
+- [Dangote Industries Limited](https://www.dangote.com/)
+- [Dropbox Open Source](https://opensource.dropbox.com/)
+- [Epson Corporate](https://corporate.epson/en/)
+- [ExxonMobil](https://corporate.exxonmobil.com/)
+- [Fimalac](http://www.fimalac.com/)
+- [Fiserv AppMarket](https://appmarket.fiservapps.com/categories.html) — Categories
+- [Ford Corporate](https://corporate.ford.com/)
+- [Fortinet Products](https://www.fortinet.com/products)
+- [Foxconn](https://www.foxconn.com/en-us)
+- [FUNAI](https://funai.jp/)
+- [GE](https://www.ge.com/)
+- [Gen](https://www.gendigital.com/us/en/family-of-brands/) — Family of brands
+- [Glencore](https://www.glencore.com/)
+- [Groupe Clarins](http://www.groupeclarins.com/fr)
+- [Hasbro](https://corporate.hasbro.com/en-us)
+- [HCL Tech](https://www.hcltech.com/)
+- [Hellman & Friedman](https://hf.com/)
+- [Honhai](https://www.honhai.com/zh-tw)
+- [Indra](https://www.indracompany.com/)
+- [Intel Corporation](https://www.intc.com/)
+- [Intuit](https://quickbooks.intuit.com/app/apps/) — Apps
+- [Jardines Corp](https://www.jardines.com/en/global/home.html)
+- [Kawasaki Heavy Industries, Ltd.](https://global.kawasaki.com/)
+- [Koch Industries](https://www.kochind.com/)
+- [KONAMI](https://www.konami.com/en)
+- [L’Oréal Groupe](https://www.loreal.com/fr)
+- [LG](https://www.lg.com/es)
+- [LVMH](https://www.lvmh.com/)
+- [Meredith](https://www.meredith.com/)
+- [Mitsubishi](https://www.mitsubishi.com/en)
+- [Omidyar Network](https://www.omidyar.com/)
+- [OpenAI Platform](https://platform.openai.com/apps)
+- [Oracle](https://www.oracle.com/applications/) — Applications
+- [Orange Corporate](https://www.orange.com/en)
+- [Palantir](https://www.palantir.com/platforms/) — Platforms
+- [Palo Alto Networks](https://apps.paloaltonetworks.com/apps) — Apps
+- [Panasonic](https://www.panasonic.com/es)
+- [PepsiCo](https://www.pepsico.com/)
+- [Philips](https://www.philips.es/)
+- [Pioneer Corporation](https://global.pioneer/en)
+- [Procter & Gamble](https://us.pg.com/)
+- [Rakuten, Inc.](https://global.rakuten.com/corp)
+- [Reliance Industries](https://www.ril.com/)
+- [Roper Technologies](https://www.ropertech.com/application-software/overview) — Application software
+- [Salesforce](https://www.salesforce.com/eu/products/) — Complete Salesforce Products & Software Suite
+- [Samsung](https://www.samsung.com/es)
+- [Samsung](https://www.samsung.com/us/apps/) — Apps & Services
+- [SANYO AV](https://www.sanyo-av.com/us/index.php)
+- [ServiceNow](https://store.servicenow.com/store/apps) — Apps and Solutions
+- [Sharp Global](https://global.sharp/)
+- [Siemens](https://www.siemens.com/global/en.html)
+- [Sony](https://www.sony.net/)
+- [Sotheby's](https://www.sothebys.com/en)
+- [Steinberg](https://www.steinberg.net/products/) — Products
+- [Technicolor](https://www.technicolor.com/)
+- [Tencent Cloud](https://www.tencentcloud.com/product) — Products
+- [Tencent Open Source](https://opensource.tencent.com/)
+- [The Coca-Cola Company](https://www.coca-colacompany.com/)
+- [The Trump Organization](https://www.trump.com/)
+- [Thomson Reuters](https://www.thomsonreuters.com/en.html)
+- [Toyota Motor Corporation](https://global.toyota/en/)
+- [TrendForce](https://www.trendforce.com/)
+- [Verizon Wireless](https://www.verizonwireless.com/)
+- [Virgin](https://www.virgin.com/)
+- [Walmart Corporate](https://corporate.walmart.com/)
+- [Washington Companies](https://www.washingtoncompanies.com/)
+- [Xerox](https://www.xerox.com/)
+- [Yamaha Corporation](https://www.yamaha.com/en)
+
+#### Conglo Group
+- [ADEO Group](https://www.adeo.com/)
+- [American International Group](https://www.aig.com/)
+- [Ant Group](https://www.antgroup.com/)
+- [Axiata Group Berhad](https://www.axiata.com/)
+- [Banijay Group](https://www.banijay.com/)
+- [Bolloré](https://www.bollore.com/en/)
+- [BSI group](https://www.bsigroup.com/)
+- [Bühler Group](https://www.buhlergroup.com/content/buhlergroup/global/en/homepage.html)
+- [Charoen Pokphand Group](https://www.cpgroupglobal.com/en/home)
+- [City Football Group](https://www.cityfootballgroup.com/)
+- [Emirates Group](https://www.theemiratesgroup.com/)
+- [F.I.L.A Group](https://www.filagroup.it/)
+- [Ferrero Group](https://www.ferrero.com/)
+- [Groupe Crédit Mutuel](https://www.creditmutuel.com/fr/index.html)
+- [Grupo Boulevard 21](https://grupoboulevard21.com/es) — Restaurants Tenerife
+- [Grupo Carso](https://www.carso.com.mx/)
+- [Grupo Globo](https://grupoglobo.globo.com/)
+- [IAG](https://www.iairgroup.com/es-es) — International Airlines Group
+- [IAG](https://www.iairgroup.com/) — International Airlines Group
+- [IFA](https://ifa-group.com/en/) — automotive supplier for drive shafts & joints
+- [IMA Group](https://ima.it/en)
+- [Kering Luxury Group](https://www.kering.com/en/)
+- [Marathon Group](https://marathongroup.com/) — Vehicle Protection Services Provider
+- [Match Group](https://mtch.com/)
+- [Merck Group](https://www.merckgroup.com/en)
+- [Midea Group](https://www.midea-group.com/)
+- [Radici Group](https://www.radicigroup.com/en)
+- [Rockefeller Group](https://www.rockefellergroup.com/)
+- [RPG Group](https://www.rpggroup.com/)
+- [Sampo Group](https://www.sampo.com/)
+- [SK Group](https://eng.sk.com/)
+- [The Future Group](https://www.futuregroup.in/)
+- [TMTG](https://www.tmtgcorp.com/)
+- [UGT Group](https://ugt.group/en)
+- [Walton Group](https://waltonbd.com/)
+- [Würth Group](https://www.wuerth.com/wuerth-group/homepage.php)
+- [ZEISS Group](https://www.zeiss.com/corporate/int/home.html)
+
+### Manufacturer Company
+
+#### Clothing Brands
+- [Adidas](https://www.adidas.com/us)
+- [Alexander McQueen](https://www.alexandermcqueen.com/en-gb)
+- [American Eagle](https://www.ae.com/us/en) — Outfitters Men's & Women's
+- [Armani](https://www.armani.com/en-us)
+- [Bamboo Underwear](https://www.bamboounderwear.com/)
+- [Bershka](https://www.bershka.com/)
+- [Billabong](https://www.billabong.com/)
+- [Cacharel](https://www.cacharel.fr/fr)
+- [Calvin Klein](https://www.calvinklein.es/)
+- [Carhartt](https://www.carhartt.com/es/es-es)
+- [ChampionStore](https://www.championstore.com/)
+- [Corp ZOZO, Inc.](https://corp.zozo.com/)
+- [Cuts](https://www.cutsclothing.com/) — For the Sport of Business
+- [DIOR](https://www.dior.com/en_us)
+- [Dolce&Gabbana](https://www.dolcegabbana.com/es)
+- [ES Collection](https://escollection.es/es)
+- [Fila](https://www.fila.de/)
+- [G|Fashion](https://gfashion.com/)
+- [Gap](https://www.gap.com/)
+- [Gap Inc.](https://www.gapinc.com/en-ca)
+- [GUESS](https://www.guess.com/en)
+- [H&M](https://www2.hm.com/en_us/index.html)
+- [Heritage Brand](https://heritagebrand.com/)
+- [Hugo Boss](https://www.hugoboss.com/es/hugo)
+- [Inditex](https://www.inditex.com/)
+- [Inditex around the world](https://www.inditex.com/about-us/inditex-around-the-world#continent/000)
+- [JD Sports](https://www.jdsports.es/)
+- [Joma](https://www.joma-sport.com/)
+- [Kappa](https://www.kappa.com/)
+- [L Brands](https://www.lb.com/)
+- [Lacoste](https://www.lacoste.com/es)
+- [Lefties](https://www.lefties.com/)
+- [Louis Vuitton](https://us.louisvuitton.com/eng-us/homepage)
+- [M***SHAKES](https://milfshakes.es/)
+- [Massimo Dutti](https://www.massimodutti.com/)
+- [Nike](https://www.nike.com/es/) — Just Do It
+- [Oysho](https://www.oysho.com/)
+- [Polo Club](https://www.poloclub.com/)
+- [PULL&BEAR](https://www.pullandbear.com/)
+- [Puma](https://eu.puma.com/)
+- [PVH Corp.](https://www.pvh.com/)
+- [Quiksilver](https://www.quiksilver.com/)
+- [Ralph Lauren](https://www.ralphlauren.com/)
+- [Reebok US](https://www.reebok.com/us)
+- [Stradivarius](https://www.stradivarius.com/)
+- [SuperHouse Group](https://superhousegroup.com/)
+- [The North Face](https://www.thenorthface.es/)
+- [Tommy Hilfiger](https://es.tommy.com/)
+- [Valentino](https://www.valentino.com/en-us/)
+- [Victoria's Secret](https://www.victoriassecret.com/)
+- [ZARA](https://www.zara.com/es/)
+- [Zara Home](https://www.zarahome.com/)
+- [zozotown](https://zozo.jp/)
+
+##### Complements Clothes
+- [ARISHA](https://arishaswim.com/)
+- [BoutineLA](https://www.boutinela.com/)
+- [Cressi](https://www.cressi.com/) — Scuba diving equipment
+- [IGNITE](https://ignite.co/)
+- [Minaal](https://www.minaal.com/en-eu) — Luggage You Can Trust, For Travel & Business
+- [Ohpolly.com](https://www.ohpolly.com/)
+- [Scunci](https://www.scunci.com/)
+- [ZFX Flying Effects](https://www.zfxflying.com/)
+
+##### Motion Capture Company
+- [Rokoko](https://www.rokoko.com/)
+- [Tesla Suit](https://teslasuit.io/)
+- [Xsens](https://www.xsens.com/)
+
+##### Shoes Company
+- [Altra Running](https://www.altrarunning.com/) — Shoes with FootShape™ Comfort
+- [ANTA](https://www.anta.com/)
+- [ASICS](https://www.asics.com/us/en-us/) — Official U.S. Site
+- [Converse](https://www.converse.com/es)
+- [Courir](https://www.courir.com/) — Sneakers et baskets Nike, Adidas, Converse, Jordan, Puma
+- [Crocs](https://www.crocs.com/)
+- [DC Shoes](https://www.dcshoes.com/)
+- [HOKA](https://www.hoka.com/en/us/) — Cushioned Running Shoes & Performance Wear
+- [Lotto](https://lotto.it/es)
+- [MIZUNO](https://corp.mizuno.com/en)
+- [New Balance](https://www.newbalance.com/)
+- [New Balance](https://www.newbalance.es/es) — Ropa y Zapatillas New Balance
+- [RedTape](https://redtape.com/)
+- [rks.shoes](https://ic.rks.shoes/)
+- [Salomon](https://www.salomon.com/en-us)
+- [Saucony](https://www.saucony.com/ES/es_ES/home) — High-Performance Running Shoes & Running Apparel
+- [Skechers](https://skechers.com/es-es)
+- [SportsShoes.com](https://www.sportsshoes.com/) — Running Shoes, Clothing & Equipment
+- [Vans](https://www.vans.es/)
+- [Vessi Footwear](https://vessi.com/)
+- [VF Corporation](https://vfc.com/)
+
+#### Complements Company
+- [Casio](https://www.casio.com/home)
+- [Derbystar Balls](https://www.derbystar.de/)
+- [Gudslip](https://gudslip.com/en-es) — Science-Backed Solutions for Better Sleep
+- [Labsterium](https://www.labsterium.com/)
+- [MELT Collective](https://meltcollective.com/)
+- [Nayadel](https://www.nayadel.com/en)
+- [Sharkbanz](https://www.sharkbanz.com/)
+- [The Ridge EU](https://ridgewallet.eu/)
+
+##### Globemakers
+- [1-World Globes](https://www.1worldglobes.com/)
+- [Bellerby & Co.](https://bellerbyandco.com/)
+- [Clare Hall Comp](http://www.clarehall.uk/)
+- [Columbus Globes](https://columbus-verlag.de/en)
+- [George Glazer](https://www.georgeglazer.com/wpmain/)
+- [Globemakers WordPress](https://globemakers.wordpress.com/)
+- [GoodWoodGlobes](https://goodwoodglobes.com/)
+- [Greaves & Thomas](https://globemakers.com/)
+- [Gürbüz Yayınları Kurumsal](https://kurumsal.gurbuz.com.tr/)
+- [Lander and May](https://www.landerandmay.com/)
+- [MOVA Globes](https://www.movaglobes.com/)
+- [Murray Hudson](https://www.antiquemapsandglobes.com/) — Antique Maps & Globes
+- [Replogle Globes](https://replogleglobes.com/)
+- [Waypoint Geographic](https://www.waypointgeographic.com/)
+- [Zoffoli Globe](https://zoffoliglobe.com/)
+
+##### Helmets Company
+- [AGV Helmet](https://www.agv.com/es/en)
+- [Arai](https://www.araiamericas.com/)
+- [Bell Helmets](https://www.bellhelmets.com/)
+- [FuelHelmets](https://fuelhelmets.com/)
+- [GDM Helmets](https://www.ridegdm.com/)
+- [LightMode Helmets](https://www.lightmodehelmets.com/)
+- [LS2 USA](https://www.ls2usa.com/)
+- [Shoei Helmets](https://www.shoei-helmets.com/)
+
+##### Optics Glasses
+- [Alain Afflelou](https://www.afflelou.com/)
+- [Avalon Eyewear](http://www.avaloneyewear.com/)
+- [Colgafas](https://www.colgafas.com/)
+- [Eschenbach Eyewear](https://www.eschenbach-eyewear.com/en)
+- [Essilor](https://www.essilorusa.com/)
+- [EssilorLuxottica](https://www.essilorluxottica.com/en/)
+- [GlassesUSA](https://www.glassesusa.com/)
+- [Hilco](https://www.hilcovision.com/)
+- [Lucyd bluetooth](https://www.lucyd.co/)
+- [Nouveau Eyewear](https://www.nouveaueyewear.com/)
+- [Oakley](https://www.oakley.com/en-us)
+- [Oliver Peoples](https://www.oliverpeoples.com/usa)
+- [PEGASI](https://www.pegasiglasses.com/)
+- [Persol](https://www.persol.com/spain)
+- [Ray-Ban](https://www.ray-ban.com/usa)
+- [Silhouette](https://www.silhouette.com/es/es/home)
+- [Tom Ford](https://www.tomford.com/)
+- [Vision Rx Lab](https://www.visionrxlab.com/) — offers complete lens solutions, from traditional to digital Rx.
+
+###### Contact Lenses
+- [Acuvue](https://www.acuvue.com/)
+- [Alcon](https://www.alcon.com/)
+- [Mojo Vision](https://www.mojo.vision/)
+- [Warby Parker](https://www.warbyparker.com/)
+
+##### Watches Company
+- [A. Lange & Söhne](https://www.alange-soehne.com/)
+- [Audemars Piguet](https://www.audemarspiguet.com/en)
+- [Breitling](https://www.breitling.com/gb-en)
+- [Cartier](https://www.cartier.com/en-us/home)
+- [Citizen Watch](https://www.citizenwatch.com/)
+- [Harry Winston](https://www.harrywinston.com/en)
+- [Hublot](https://www.hublot.com/en-us/)
+- [IWC Schaffhausen](https://www.iwc.com/es/home.html)
+- [Jaeger-LeCoultre](https://www.jaeger-lecoultre.com/eu/en/home-page.html)
+- [Longines](https://www.longines.com/es)
+- [OMEGA](https://www.omegawatches.com/en-us)
+- [Parmigiani Fleurier](https://www.parmigiani.com/en)
+- [Patek Philippe](https://www.patek.com/en/home)
+- [Piaget](https://www.piaget.com/)
+- [Rolex](https://www.rolex.com/)
+- [Rolex](https://www.rolex.com/en-us) — Swiss Luxury Watches
+- [Swatch](https://www.swatch.com/es-es/homepage)
+- [Tudor Watches](https://www.tudorwatch.com/en)
+
+#### Consumer Goods Company
+- [UPLIFT Desk](https://www.upliftdesk.com/) — Office Furniture that Benefits You
+
+##### Chair Company
+- [Arozzi Europe](https://arozzi.se/)
+- [Clutch Chairz](https://europe.clutchchairz.com/)
+- [Diablo Chairs](https://diablochairs.com/)
+- [E-WIN](https://www.ewinracing.eu/)
+- [GTRACING](https://gtracing.com/)
+- [Herman Miller](https://www.hermanmiller.com/en_eur/)
+- [KILLABEE Gaming Chair](https://www.killabee-gaming.com/)
+- [NEEDforSEAT](https://www.needforseatusa.com/)
+- [NeueChair](https://neuechair.com/)
+- [noblechairs](https://www.noblechairs.com/)
+- [OFM](https://www.ofminc.com/)
+- [Respawn](https://respawnproducts.com/)
+- [Secretlab EU](https://secretlab.eu/)
+- [Steelcase](https://www.steelcase.com/)
+- [WMH Chair](https://iwmhchair.com/es)
+
+##### Cosmetics Company
+- [Armani beauty](https://www.armanibeauty.es/)
+- [Clarins](https://www.clarins.es/)
+- [Fragrantica](https://www.fragrantica.com/)
+- [Garnier](https://www.garnier.fr/)
+- [ghd hair](https://www.ghdhair.com/)
+- [KKW BEAUTY](https://kkwbeauty.com/)
+- [Kylie Cosmetics](https://www.kyliecosmetics.com/)
+- [L’Oréal](https://www.loreal.com/en)
+- [Lancôme](https://www.lancome.es/)
+- [Mugler](https://www.mugler.es/)
+- [Narciso Rodriguez](https://www.narcisorodriguez.com/)
+- [NIVEA](https://www.nivea.es/)
+- [Notino](https://www.notino.com/)
+- [Schwarzkopf](https://www.schwarzkopf.com/en/home.html)
+- [Shakira Perfumes](https://shakiraperfumes.com/es/es)
+- [SHISEIDO](https://www.shiseido.com/us/en)
+- [TechStyle Fashion Group](https://techstylefashiongroup.com/)
+- [The Beard Struggle](https://www.thebeardstruggle.com/)
+
+##### Hygiene Company
+- [Braun US](https://us.braun.com/en-us)
+- [CleanT](https://get-cleant.com/)
+- [Colgate](https://www.colgate.es/)
+- [Colgate](https://www.colgate.com/en-us)
+- [Gillette](https://gillette.com/)
+- [Henkel](https://www.henkel.com/)
+- [Mistol](https://mistol.es/)
+- [Oral-B](https://oralb.com/)
+- [P&G](https://es.pg.com/)
+- [Productos LEA](https://www.productoslea.com/)
+- [Reckitt](https://www.reckitt.com/)
+- [SC Johnson](https://www.scjohnson.com/)
+- [Sensodyne](https://www.sensodyne.com/en-us)
+- [Vanish](https://www.vanish.es/)
+
+##### Instrument Company
+- [Gretsch](https://www.gretsch.com/)
+- [Handpan Drum](https://www.handpanbuy.com/) — Handmade
+- [Harrison Audio](https://www.harrisonaudio.com/) — Harrison Consoles
+- [KORG](https://www.korg.com/fr)
+- [Roland](https://www.roland.com/us)
+- [SAMICK](http://samickpiano.com/)
+
+###### Guitar Manufacturers
+- [Epiphone](https://www.epiphone.com/)
+- [Fender](https://shop.fender.com/en-ES/start)
+- [Gibson Brands](https://www.gibson.com/en-US/)
+- [Guitar Salon International](https://www.guitarsalon.com/)
+- [Guitarras Alhambra](https://www.alhambrasl.com/)
+- [Ibanez guitars](https://www.ibanez.com/eu)
+- [Line 6](https://line6.com/)
+- [Takamine](https://www.esptakamine.com/)
+- [Taylor Guitars](https://www.taylorguitars.com/)
+- [The ESP Guitar Company](https://www.espguitars.com/main)
+
+###### Piano Manufacturers
+- [Baldwin Piano](http://www.baldwinpiano.com/)
+- [Blüthner](https://www.bluethnerworld.com/en)
+- [Bösendorfer](https://www.boesendorfer.com/en)
+- [C. Bechstein](https://www.bechstein.com/)
+- [Essex Pianos](https://www.essexpianos.com/pianos/essex)
+- [Estonia Pianos](http://www.estoniapiano.com/)
+- [Fazioli](https://www.fazioli.com/)
+- [Kawai Global](https://www.kawai-global.com/)
+- [Kawai Pianos](https://kawaius.com/)
+- [Mason & Hamlin](http://masonhamlin.com/)
+- [Petrof](https://www.petrof.com/)
+- [PianoMart](https://www.pianomart.com/)
+- [Schimmel Pianos](https://www.schimmel-pianos.de/)
+- [Steinway & Sons](https://eu.steinway.com/es)
+
+##### Parachute Company
+- [The Rocketman](https://the-rocketman.com/)
+
+##### Pen Company
+- [A.T. Cross Luxury Pens](https://www.cross.com/)
+- [Aurora Penne](https://www.aurorapen.it/en)
+- [BicWorld](https://www.bicworld.com/en)
+- [Cello Writing](http://www.cellowriting.com/)
+- [Crayola](https://www.crayola.com/)
+- [Montblanc](https://www.montblanc.com/es-es)
+- [Paper Mate](https://www.papermate.com/)
+- [ParkerPen](https://www.parkerpen.com/en-GB)
+- [PenChalet](https://www.penchalet.com/)
+- [PILOT](https://www.pilot.co.jp/)
+- [Pilot Corporation of Europe](https://www.pilotpen.eu/)
+- [Reynolds](https://www.reynolds-pens.com/)
+
+##### Shaver Company
+- [Conair](https://www.conair.com/)
+- [Remington](https://www.remingtonproducts.com/)
+- [Wahl Global](https://eu.wahl.com/)
+
+##### Tobacco Company
+- [Altria Group](https://www.altria.com/)
+- [British American Tobacco](https://www.bat.com/)
+- [Djarum](https://www.djarum.com/home#sec-1)
+- [Gudang Garam](https://www.gudanggaramtbk.com/)
+- [Imperial Brands](https://www.imperialbrandsplc.com/index.html)
+- [ITC](https://www.itcportal.com/)
+- [Japan Tobacco](https://www.jt.com/)
+- [JTI](https://www.jti.com/) — Japan Tobacco International​
+- [KT&G](https://en.ktng.com/)
+- [Philip Morris](https://www.pmi.com/)
+- [Swisher](https://swisher.com/)
+- [Universal Corporation](http://www.universalcorp.com/)
+
+#### Engineering Company
+- [9FF](https://www.9ff.com/)
+- [Abertis](https://www.abertis.com/en)
+- [Agilent](https://www.agilent.com/)
+- [American Engineers, Inc](https://www.aei.cc/)
+- [ArcelorMittal](https://corporate.arcelormittal.com/)
+- [AyR Proyectos](http://www.ayrproyectos.com/)
+- [BHP](https://www.bhp.com/)
+- [CAT](https://www.cat.com/)
+- [Caterpillar](https://www.caterpillar.com/)
+- [CESA](https://cesa.aero/)
+- [Chevron Corporation](https://www.chevron.com/)
+- [COMSA](https://www.comsa.com/)
+- [Construdata21](https://www.construdata21.com/)
+- [Dassault Systèmes](https://www.3ds.com/) — We are the 3DEXPERIENCE company
+- [Elevator World](https://www.elevatorworld.com/)
+- [Ferrovial](https://www.ferrovial.com/)
+- [Georgia-Pacific!](https://www.gp.com/)
+- [Gulf & Western Industries](https://gulfwestern.com/)
+- [HBK Engineering](https://www.hbkengineering.com/)
+- [Heidelberg Engineering](https://www.heidelbergengineering.com/us)
+- [Hidramar Group](https://hidramargroup.com/)
+- [iAgua](https://www.iagua.es/)
+- [IES](https://www.ies-engr.com/)
+- [IPSES](https://www.ipses.com/eng)
+- [KESA](https://www.kesa.es/)
+- [Komatsu Ltd.](https://home.komatsu/en)
+- [M&S Mechanical](https://www.mandsmechanical.com/)
+- [Makers Revolution](https://www.makers-revolution.com/) — The Manufacturing Revolution
+- [National Instrument](https://www.ni.com/en-us.html)
+- [Niobium Tech](https://niobium.tech/)
+- [Oso Development Partners](http://osopartners.com/)
+- [Petrobras](https://petrobras.com.br/en)
+- [Phillips 66](https://www.phillips66.com/)
+- [Point Innovation](https://pointinnovation.com/)
+- [Qualityac](https://www.qualityac.com/)
+- [Random Engineering](http://www.randomengineering.co.uk/Random_Aerospace/Welcome.html)
+- [Rolls-Royce](https://www.rolls-roycemotorcars.com/en_GB/home.html)
+- [SENER Engineering group](https://www.group.sener/)
+- [SproutVideo](https://sproutvideo.com/)
+- [Stahl](https://www.stahl-online.de/)
+- [Tata Steel](https://www.tatasteeleurope.com/)
+- [Tecni Buceo](http://tecnibuceo.com/)
+- [Tenova](https://www.tenova.com/)
+- [Thyssenkrupp Elevator](https://www.thyssenkrupp-elevator.com/en/home.html)
+- [Wavegarden.com](https://wavegarden.com/)
+- [Worldsteel](https://www.worldsteel.org/)
+
+##### Architecture Company
+- [Adamson Associates](http://www.adamson-associates.com/)
+- [Dattner](https://www.dattner.com/)
+- [Extell](https://extell.com/)
+- [Geometrica](https://www.geometrica.com/)
+- [Houzz](https://www.houzz.fr/)
+- [LiRo Group](https://www.liro.com/)
+- [Populous](https://populous.com/) — Global Architectural Design – Stadiums, Arenas, Events
+- [The D*Haus Company](https://www.thedhaus.com/)
+
+###### Designing Studios Comp
+- [ATEacústica](https://ateacustica.com/)
+- [FlyingArchitecture](https://flyingarchitecture.com/)
+- [Meg Stage Designs](https://megstagedesigns.com/)
+
+##### Bioconstruction Company
+- [Brizna Bioconstrucción](https://briznabioconstruccion.es/)
+
+##### Construction Company
+- [ACCIONA](https://www.acciona.com/es)
+- [AF Gruppen](https://afgruppen.com/)
+- [Aker Solutions](https://www.akersolutions.com/)
+- [Al Ghurair Group](https://www.alghurair.com/)
+- [American Industries](https://www.americanindustriesgroup.com/)
+- [Capital Group](https://capitalgroup.ru/)
+- [China Communications construction company Ltd](http://en.ccccltd.cn/)
+- [FCC](https://www.fcc.es/es)
+- [Gensler](https://www.gensler.com/)
+- [Groupe Bouygues](https://www.bouygues.com/)
+- [Grupo ACS](https://www.grupoacs.com/)
+- [HOCHTIEF](https://www.hochtief.com/)
+- [Kenguru Pro](https://www.kengurupro.es/)
+- [Lodha Luxury](https://www.lodhaluxury.com/)
+- [Merton International](https://www.mertoninternational.com/en/)
+- [NEB](http://www.neb.ae/) — National Engineering Bureau
+- [OHL](https://www.ohl.es/)
+- [Rio TInto](https://www.riotinto.com/)
+- [SAMSUNG C&T](http://www.samsungcnt.com/eng/index.do)
+- [SCG Group](http://www.scg.com.cn/)
+- [Skanska](https://www.skanska.com/)
+- [STRABAG SE](https://strabag.com/)
+- [VINCI](https://www.vinci.com/vinci.nsf/en/index.htm)
+- [Wohlsen Construction](https://www.wohlsenconstruction.com/)
+
+#### Food Company
+- [85°C Bakery Cafe](https://www.85cbakerycafe.com/)
+- [Abchina](http://www.abchina.com/cn)
+- [Cargill](https://www.cargill.com/)
+- [CHS](https://www.chsinc.com/)
+- [Dean Foods](https://www.deanfoods.com/)
+- [ElPozo](https://www.elpozo.com/)
+- [Gallina Blanca](https://www.gallinablanca.es/)
+- [Grefusa](https://grefusa.com/) — Snacks y Frutos Secos
+- [Grupo Bimbo](https://grupobimbo.com/es)
+- [Heinz](https://www.heinz.com/)
+- [Hero Group](https://hero-group.ch/)
+- [Hormel](https://www.hormel.com/)
+- [Inés Rosales](https://www.inesrosales.com/)
+- [Kalise](https://www.kalise.com/) — Kalise Para Todos
+- [Kellogg Company](https://www.kelloggcompany.com/en_US/home.html)
+- [Mars, Inc](https://www.mars.com/)
+- [Milka!](https://www.milka.de/)
+- [Molson Coors](https://www.molsoncoors.com/av?url=https%3A%2F%2Fwww.molsoncoors.com%2F)
+- [Mondelēz International, Inc.](https://www.mondelezinternational.com/)
+- [Nestlé Global](https://www.nestle.com/)
+- [Nutella](https://www.nutella.com/it/it)
+- [Orlando](https://www.orlando.es/)
+- [Panrico](https://www.panpanrico.es/#1)
+- [Pilgrim's Global](https://www.pilgrims.com/)
+- [Pringles](https://www.pringles.com/us/home.html)
+- [SalMar ASA](https://www.salmar.no/)
+- [Saputo](https://saputo.com/)
+- [Smithfield](https://www.smithfieldfoods.com/)
+- [Tetra Laval](https://www.tetralaval.com/)
+- [The J.M. Smucker Company](https://www.jmsmucker.com/)
+- [The Kraft Heinz Company](https://www.kraftheinzcompany.com/)
+- [Toblerone](https://toblerone.fr/)
+- [Unilever](https://www.unilever.com/)
+
+##### Biscuits Company
+- [Galletas Artiach](https://www.artiach.es/)
+- [Galletas Gullón](https://gullon.es/)
+- [Royal Dansk Danish Butter](https://www.royal-dansk.com/)
+
+##### Drinks Company
+- [Ambev](https://www.ambev.com.br/)
+- [Asahi Group Holdings](https://www.asahigroup-holdings.com/en)
+- [Beverage Industry](https://www.bevindustry.com/)
+- [Coca-Cola](https://www.coca-cola.com/)
+- [Danone](https://www.danone.com/)
+- [Diageo](https://www.diageo.com/)
+- [FEMSA](https://www.femsa.com/en)
+- [La Casera](https://lacasera.es/)
+- [Nongfu Spring](https://www.nongfuspring.com/)
+- [Pacoffee.es](https://pacoffee.es/)
+- [Pepsi](https://pepsimax.es/)
+- [Suntory](https://www.suntory.com/)
+- [Tesalia cbc](https://tesaliacbc.com/)
+
+###### Beer Company
+- [AB InBev](https://www.ab-inbev.com/)
+- [Compañía Cervecera de Canarias](https://ccc.es/)
+- [DORADA](https://dorada.es/)
+- [Heineken](https://www.heineken.com/global/en/home)
+- [San Miguel](https://www.sanmiguel.com/es)
+
+###### Energy Drink Company
+- [Bang Energy](https://bangenergy.com/)
+- [Celsius Drink](https://www.celsius.com/)
+- [G fuel](https://gfuel.com/)
+- [Gatorade](https://www.gatorade.com/)
+- [Red Bull](https://www.redbull.com/us-en)
+- [Rockstar Energy](https://rockstarenergy.com/)
+- [T.C. Pharmaceutical Industries Company Limited](https://www.tcp.com/en/home)
+
+###### Liquor Company
+- [Arehucas](https://arehucas.es/en)
+- [Hennessy Cognac](https://www.hennessy.com/en-int)
+- [Jack Daniel's](https://www.jackdaniels.com/es-es)
+- [Jägermeister](https://www.jagermeister.com/es-ES)
+- [Johnnie Walker](https://www.johnniewalker.com/es-es)
+- [Kopparbergs Bryggeri](https://www.kopparbergs.se/)
+- [Leffe](https://leffe.com/en)
+- [Ron Guajiro](https://ronguajiro.es/home.html)
+- [Smirnoff](https://www.smirnoff.com/en-us)
+
+###### Water Company
+- [Bezoya](https://www.bezoya.es/)
+- [Bling H2O](https://blingh2o.com/)
+- [FIJI Water](https://www.fijiwater.com/)
+- [Font Vella](https://fontvella.es/)
+- [Fonteide](https://www.fonteide.com/)
+- [Fuente Liviana](https://www.fuenteliviana.es/)
+- [Fuentealta](https://fuentealta.es/)
+- [Nestlé Aquarel](https://www.nestleaquarel.es/)
+- [Solán de Cabras](https://solandecabras.es/)
+- [VOSS Water](https://vosswater.com/)
+
+###### Wine Company
+- [Wine.com](https://www.wine.com/)
+
+###### Winery
+- [Bodegas Málaga Virgen](https://www.bodegasmalagavirgen.com/)
+- [Bodegas Monje](https://bodegasmonje.com/)
+- [Trump Winery](https://www.trumpwinery.com/)
+
+##### Gums Company
+- [Chicles Five](https://chiclesfive.com/)
+- [Orbit](https://orbitgum.com/)
+- [Trident](https://www.tridentgum.com/)
+
+#### Gemological Lab
+- [EGL USA Gemological Laboratory](https://www.eglusa.com/)
+- [Gemological Lab & Appraisal](https://www.gemologicallab.com/)
+
+#### Home Appliance
+- [BALLS](https://balls.co/) — The World's Best Balls Trimmer
+- [Dyson](https://www.dyson.com/en) — Dyson vacuum cleaners, hair dryers and stylers, fans, humidifiers, hand dryers and lighting
+- [Rowenta](https://www.rowenta.com/)
+- [Wonder](https://beuplifted.co.uk/) — Meditative sculpture
+
+##### Kitchen Company
+- [Braun House Hold](https://www.braunhousehold.com/es-es)
+- [Marble](https://marble.com/)
+- [Tupperware](https://www.tupperware.com/)
+- [Vorwerk](https://www.vorwerk.com/de/de/c/home)
+
+##### Mattress Company
+- [Beautyrest](https://www.beautyrest.com/)
+- [Colchón Emma](https://www.emma-colchon.es/)
+- [Colchón Exprés](https://www.colchonexpres.com/)
+- [Dormitorum](https://www.dormitorum.es/) — Tienda Online de Colchones, Camas y Más
+- [Mattress Firm](https://www.mattressfirm.com/)
+- [Original Mattress](https://www.originalmattress.com/)
+- [Sealy](https://es.sealy.com/es-ES)
+- [Serta](https://www.serta.com/)
+- [Simmons](https://simmons.fr/es)
+
+#### Industrial Company
+- [AGC](https://www.agc.com/en/index.html)
+- [Altium](https://www.altium.com/) — PCB Design Software & Tools
+- [Atlas Copco Group](https://www.atlascopcogroup.com/en)
+- [CNC Machines](https://cncmachines.com/) — Sell & Buy Used CNC Machines & Equipment
+- [CNH Industrial](https://www.cnhindustrial.com/en-US)
+- [Fluke Corporation](https://www.fluke.com/)
+- [Jetta](https://www.jetta.com.hk/)
+- [Theorem Solutions](https://www.theorem.com/)
+- [Trimble Global Industrial](https://www.trimble.com/en)
+- [Universal Motion Components](https://www.umcproducts.com/en/)
+- [Viscofan](http://www.viscofan.com/es)
+- [WestRock](https://www.westrock.com/)
+
+#### Packaging Company
+- [Amcor](https://www.amcor.com/)
+- [American Packaging Corporation](https://americanpackaging.com/)
+- [Berlin Packaging](https://www.berlinpackaging.com/)
+- [Berry Global](https://www.berryglobal.com/en/)
+- [Clearly Clean Food Trays](https://clearlyclean.com/)
+- [Coveris](https://www.coveris.com/)
+- [Creative Packaging Co](https://creativepackagingco.com/)
+- [Creative Packaging Supplies & Custom Shipping Supplies](https://www.thepackagingcompany.com/)
+- [DS Smith](https://www.dssmith.com/)
+- [EPE Global](https://epe.global/)
+- [Graphic Packaging](https://www.graphicpkg.com/)
+- [HLP Klearfold](https://www.hlpklearfold.com/)
+- [Klabin](https://klabin.com.br/)
+- [Mondi Group](https://www.mondigroup.com/en/home/)
+- [Packaging Corporation of America](https://www.packagingcorp.com/)
+- [Placon](https://www.placon.com/)
+- [Plastic Thermoforming](https://www.plasticingenuity.com/)
+- [Plastipak Packaging](https://www.plastipak.com/)
+- [ProAmpac](https://www.proampac.com/en-us/)
+- [Sealed Air](https://www.sealedair.com/)
+- [Silgan Holdings Inc](https://www.silganholdings.com/home/default.aspx)
+- [Smurfit Kappa](https://www.smurfitkappa.com/)
+- [Stora Enso](https://www.storaenso.com/en)
+- [Tetra Pak](https://www.tetrapak.com/)
+- [TricorBraun](https://www.tricorbraun.com/)
+
+#### Raw Materials
+- [Corning](https://www.corning.com/) — Materials Science Technology and Innovation
+- [Hongqiaochina](http://hongqiaochina.com/)
+- [RUSAL](https://rusal.ru/en)
+
+##### Wooden Company
+- [Arnold Laver](https://www.laver.co.uk/)
+- [Century Furniture](http://www.centuryfurniture.com/)
+- [Fabuwood](https://www.fabuwood.com/)
+- [Kimball International](https://www.kimballinternational.com/)
+- [PotlatchDeltic](https://www.potlatchdeltic.com/)
+- [SawStop](https://www.sawstop.com/)
+- [West Fraser](https://www.westfraser.com/)
+- [Weyerhaeuser](https://www.weyerhaeuser.com/)
+- [Wood PLC](https://www.woodplc.com/)
+- [Wooden World Ltd](https://www.woodenworld.co/)
+
+### Mass-Media Company
+- [BuzzFeed Inc.](https://advertise.buzzfeed.com/)
+- [Linus Media Group](https://linusmediagroup.com/)
+
+#### Advertising Agency
+- [Abu Dhabi Media](https://www.admedia.ae/en)
+- [Arco Comunicacion](https://arcocomunicacion.com/)
+- [Basic Attention Token](https://basicattentiontoken.org/)
+- [BBDO Worldwide](https://www.bbdo.com/)
+- [Blip Billboards](https://www.blipbillboards.com/)
+- [Chango Digital](https://changodigital.com/)
+- [DDB](https://www.ddb.com/)
+- [DENTSU INC.](https://www.dentsu.com/)
+- [GrandArmy](https://www.grandarmy.com/)
+- [GroupM](https://www.groupm.com/)
+- [monopo london](https://monopo.london/) — Tokyo-born design-driven creative agency
+- [Publicis Groupe](https://www.publicisgroupe.com/fr)
+- [VMLY&R](https://www.vmlyr.com/)
+- [Wavemaker](https://wavemakerglobal.com/)
+- [WPP](https://www.wpp.com/)
+- [Wunderman Thompson](https://www.wundermanthompson.com/)
+
+#### Digital Media
+- ⭐ **[AKQA](https://www.akqa.com/)**
+- [3Rings Media](https://3ringsmedia.com/)
+- [4AM](https://www.4am.ch/)
+- [Adevinta](https://www.adevinta.com/)
+- [Amautas](https://amautas.com/)
+- [Ask Media Group](https://www.askmediagroup.com/)
+- [Axel Springer SE](https://www.axelspringer.com/de)
+- [Azerion](https://www.azerion.com/) — Digital entertainment & media platform
+- [CMYK](https://wearecmyk.com/)
+- [Digiday Media](https://www.digidaymedia.com/)
+- [Dotdash](https://www.dotdash.com/)
+- [Dotdash Meredith](https://www.dotdashmeredith.com/)
+- [Dpointgroup](https://dpointgroup.com/)
+- [Etecé](https://etece.com/)
+- [G/O Media](https://g-omedia.com/)
+- [Gannett](https://www.gannett.com/)
+- [Gapminder](https://www.gapminder.org/)
+- [J2 Global](https://www.j2global.com/)
+- [Jellysmack](https://jellysmack.com/)
+- [Jubilee Media](https://www.jubileemedia.com/)
+- [Kantar](https://www.kantar.com/)
+- [LifeSavvy Media](https://www.lifesavvymedia.com/)
+- [Link To Media](https://www.linktomedia.com/)
+- [Livemode](https://www.livemode.com/) — Conectando Esportes ao Digital
+- [MayaMagic](https://www.mayamagik.com/)
+- [Media & Entertainment Services Alliance](https://www.mesaonline.org/)
+- [Mediaplanet](https://mediaplanet.com/us)
+- [Memondo Network](http://memondonetwork.es/)
+- [Penske Media Corporation](https://pmc.com/)
+- [Profile](https://profile.es/) — Digitalización estratégica y creativa | Tus ideas, nuestros retos
+- [Red Ventures](https://redventures.com/)
+- [SDL](https://www.sdl.com/)
+- [SiriusXM Media](https://www.siriusxmmedia.com/) — Music & Podcast Ads
+- [Spike Media](https://www.spikemedia.co/)
+- [Static Media](https://www.static.com/)
+- [TheSoul Publishing](https://www.thesoul-publishing.com/)
+- [VerticalScope Inc.](https://www.verticalscope.com/)
+- [Webedia group](https://www.webedia-group.com/)
+- [Westbrook Inc.](https://www.westbrookinc.com/)
+- [Widevine](https://www.widevine.com/)
+- [Ziff Davis](https://www.ziffdavis.com/)
+
+#### Entertainment Company
+- [2929 Entertainment](https://www.2929entertainment.com/)
+- [Ace Entertainment](https://www.ace-entertainment.com/)
+- [Condé Nast](https://www.condenast.com/)
+- [Entertainment One](https://www.entertainmentone.com/)
+- [Entertainment Studios Corporate](https://entertainmentstudios.com/)
+- [Irresistible Entertainment](https://fremantle.com/)
+- [Netflix Media Center](https://media.netflix.com/en/)
+- [Sonar Entertainment](https://sonarent.com/)
+- [Sony Pictures Television](https://www.sonypicturestelevision.com/)
+- [Stage Entertainment](https://www.stage.es/)
+- [Warner Bros. Discovery](https://wbd.com/)
+- [WarnerBros](https://www.warnerbros.com/)
+- [XUMO](https://corp.xumo.com/)
+- [ZEPPELIN TV](https://www.zeppelintv.com/)
+
+#### Media Conglomerates
+- [Arena Group](https://thearenagroup.net/)
+- [Atresmedia](https://www.atresmedia.com/)
+- [beIN media group](https://www.beinmediagroup.com/)
+- [Comcast Corporation](https://corporate.comcast.com/)
+- [ErosSTX](https://erosstx.com/)
+- [Jukin Media](https://www.jukinmedia.com/)
+- [Maven Corp](https://corp.maven.io/)
+- [MBC](https://www.mbc.net/)
+- [MEDIAFOREUROPE](https://www.mfemediaforeurope.com/en/)
+- [Mediakind](https://www.mediakind.com/) — Global Media Technology Solutions and Innovators
+- [MediaPost](https://www.mediapost.fr/)
+- [Mediapro](https://mediapro.tv/)
+- [NBCUniversal](https://www.nbcuniversal.com/)
+- [Network 18](https://www.nw18.com/)
+- [Sinclair Broadcast Group](https://sbgi.net/)
+- [Spiked Media](https://spiked.media/)
+- [TBD Media](https://www.tbdmediagroup.com/)
+- [ViacomCBS](https://www.viacomcbs.com/)
+- [Virgin Media](https://www.virginmedia.com/)
+- [Vivendi](https://www.vivendi.com/en)
+- [WarnerMedia](https://www.warnermedia.com/)
+
+##### Disney
+- [Adventures by Disney](https://www.adventuresbydisney.com/)
+- [Avatar](https://www.avatar.com/) — Official Website
+- [Disney Advertising Sales](https://disneyadsales.com/)
+- [Disney Aulani](https://www.disneyaulani.com/)
+- [Disney Books](https://books.disney.com/)
+- [Disney Cruise Line](https://disneycruise.disney.go.com/)
+- [Disney España](https://disney.es/)
+- [Disney Family](https://family.disney.com/)
+- [Disney Guest Services](https://support.disney.com/hc/en-gb)
+- [Disney holidays](https://www.disneyholidays.com/walt-disney-world)
+- [Disney Liveshows](https://liveshows.disney.com/)
+- [Disney Movie Club](https://disneymovieclub.go.com/magic)
+- [Disney Movie Insiders](https://www.disneymovieinsiders.com/)
+- [Disney News](https://news.disney.com/)
+- [Disney Parks](https://dpep.disney.com/)
+- [Disney Parks](https://disneyparks.disney.go.com/)
+- [Disney Partners](https://disneypartners.disney.es/)
+- [Disney Social Responsibility](https://impact.disney.com/)
+- [Disney Terms Of Use](https://disneytermsofuse.com/) — The Walt Disney Company
+- [Disney Vacation Club](https://disneyvacationclub.disney.go.com/)
+- [Disney+ Originals](https://ondisneyplus.disney.com/)
+- [Disneyland](https://disneyland.disney.go.com/)
+- [Disneyworld](https://www.disneyworld.eu/)
+- [Life at Disney](https://sites.disney.com/lifeatdisney/)
+- [Marvel](https://www.marvel.com/)
+- [My Disney Account](https://my.disney.com/)
+- [shopDisney](https://www.shopdisney.com/)
+- [StarWars.com](https://www.starwars.com/)
+- [The Walt Disney Company](https://thewaltdisneycompany.com/)
+- [The Walt Disney Company](https://thewaltdisneycompany.eu/)
+- [Walt Disney Animation Studios](https://www.disneyanimation.com/)
+- [Working at DISNEY](https://jobs.disneycareers.com/) — Jobs and Careers at DISNEY
+
+#### Music Production
+- [21 Ent](http://21ent.com/)
+- [Abbey Road Studios](https://www.abbeyroad.com/)
+- [aerorecords.](https://aerorecords.net/)
+- [Anjunabeats](https://anjunabeats.com/)
+- [Aparte Music](https://www.apartemusic.com/)
+- [Atlantic Records](https://www.atlanticrecords.com/)
+- [Big Hit Entertainment](https://ibighit.com/)
+- [BMG](https://www.bmg.com/fr)
+- [Capitol Records](https://www.capitolrecords.com/#/)
+- [Casablanca](https://www.casablancarecords.com/)
+- [COPILOT Music](https://www.copilotmusic.com/)
+- [Cube Entertainment](http://cubeent.co.kr/)
+- [DELRecords](https://www.delrecords.com/)
+- [District 78](https://www.district78.com/)
+- [Effective Records](https://effective-records.com/)
+- [egoist records](https://www.egoistrecords.com/)
+- [Epic Records](https://www.epicrecords.com/)
+- [Globe.ph](https://www.globe.com.ph/)
+- [Heavy Hits](https://heavyhits.com/)
+- [Interscope Records](https://www.interscope.com/)
+- [Kakao M](https://www.kakao-m.com/)
+- [La Blogothèque](https://www.blogotheque.net/)
+- [La Industria Inc](https://laindustriainc.com/)
+- [QQ Music](https://y.qq.com/)
+- [RCA Records](https://www.rcarecords.com/)
+- [Republic Records](https://www.republicrecords.com/)
+- [RIAA](https://www.riaa.com/)
+- [SB Projects](https://scooterbraun.com/)
+- [Sony Music](https://www.sonymusic.com/)
+- [Sony Music Publishing](https://www.sonymusicpub.com/en)
+- [Tencent Music (TME)](https://www.tencentmusic.com/)
+- [The Orchard](https://www.theorchard.com/)
+- [Ultra Music](https://ultramusic.com/)
+- [Universal Music es](https://universalmusiconline.es/)
+- [Universal Music Group](https://www.universalmusic.com/)
+- [Universal Music Group Deutschland](https://www.universal-music.de/)
+- [Vevo](https://www.hq.vevo.com/)
+- [Warner Records](https://www.warnerrecords.com/)
+- [WARP](https://warp.net/)
+- [WaterTower Music](https://watertower-music.com/)
+- [Westwood Entertainment](https://www.westwoodent.com/)
+- [WMG](https://www.wmg.com/)
+- [YG Entertainment](https://www.ygfamily.com/)
+
+##### Record Label
+- [Abstraction Music](http://abstractionmusic.com/)
+- [AIDN](https://aidn.jp/) — daniwell
+- [ATO Records](https://atorecords.com/)
+- [Best Year in Music](https://pudding.cool/projects/music-history)
+- [Blackout Music NL](https://www.blackoutmusic.nl/)
+- [Chillhop Music](https://chillhop.com/)
+- [Defected Records](https://defected.com/)
+- [Drum&BassArena](https://breakbeat.co.uk/)
+- [Frogleap Studios](https://www.frogleapstudios.com/)
+- [LabelRadar](https://www.labelradar.com/)
+- [Monstercat](https://www.monstercat.com/)
+- [Music Gateway](https://www.musicgateway.com/)
+- [Music Lab](https://musiclab.cloud/)
+- [Musica Relajante](https://www.musicarelajante.es/)
+- [NCS](https://ncs.io/music) — Library
+- [Partisan Records](https://partisanrecords.com/)
+- [Phantom Terrains](https://phantomterrains.com/)
+- [ReverbNation](https://www.reverbnation.com/)
+- [Sanderson.band](https://sanderson.band/)
+- [Silkroad](https://www.silkroad.org/)
+- [Siona Records](https://sionarecords.com/)
+- [Splice](https://splice.com/)
+- [Swissbeatbox](https://swissbeatbox.com/)
+- [UKF](https://ukf.com/)
+
+#### News Media
+- [ABS-CBN](https://www.abs-cbn.com/)
+- [Al JazeeraMedia](https://network.aljazeera.net/)
+- [Atresmedia Corporacion](https://www.atresmediacorporacion.com/)
+- [Bell Media](https://www.bellmedia.ca/)
+- [Blue Ant Media](https://blueantmedia.com/)
+- [CBS Interactive](https://cbsinteractive.com/)
+- [CCM Benchmark Group](https://www.ccmbenchmark.com/)
+- [Chive Media Group](https://www.chivemediagroup.com/)
+- [Discovery, Inc.](https://corporate.discovery.com/)
+- [Economist Group](https://www.economistgroup.com/)
+- [Esselgroup](http://www.esselgroup.com/)
+- [Fox Corporation](https://www.foxcorporation.com/)
+- [GO! MBC](http://www.imbc.com/)
+- [Grupo Clarín](https://grupoclarin.com/)
+- [Grupo Godó](https://www.grupogodo.com/)
+- [Grupo Joly](https://www.grupojoly.com/)
+- [Grupo Vocento](https://www.vocento.com/)
+- [Grupo Zeta](http://www.grupozeta.es/)
+- [Grupos mediáticos españoles](https://es.wikipedia.org/wiki/Anexo:Grupos_medi%C3%A1ticos_espa%C3%B1oles) — Wikipedia
+- [Hearst](https://www.hearst.com/)
+- [Interfax](https://interfax.com/)
+- [Interpublic Group](https://www.interpublic.com/)
+- [Manila Broadcasting Company](https://manilabroadcasting.com.ph/)
+- [Mediaset](https://www.mediaset.es/)
+- [News Corp](https://newscorp.com/)
+- [Omnicom Group](https://www.omnicomgroup.com/)
+- [Prensa Ibérica](https://www.prensaiberica.es/)
+- [PRISA](https://www.prisa.com/es)
+- [SABAN Capital Group](https://saban.com/)
+- [Standard Media Group](https://www.standardmedia.com/)
+- [Synamedia](https://www.synamedia.com/)
+- [Turner Entertainment](https://www.international.tbs.com/)
+- [Unidad Editorial](https://www.unidadeditorial.es/)
+- [Univision](https://corporate.univision.com/)
+- [Valorem](https://www.valorem.com.co/)
+- [Verizon Media](https://www.verizonmedia.com/)
+- [VICE media](https://www.vicemediagroup.com/)
+- [Vox Media](https://www.voxmedia.com/a/vm)
+- [Vox Media](https://corp.voxmedia.com/)
+
+##### Bloomberg
+- [Bloomberg Anywhere](https://bba.bloomberg.net/)
+- [Bloomberg Media Group](https://www.bloombergmedia.com/)
+- [Bloomberg Service Center](https://service.bloomberg.com/portal/sessions/new)
+
+#### Publisher Company
+- [ABC-CLIO](https://www.abc-clio.com/)
+- [Bonnier Books UK](https://www.bonnierbooks.co.uk/)
+- [Cairo Editore](https://www.cairoeditore.it/)
+- [Canariasebook](https://canariasebook.com/)
+- [Cauac Editorial](https://cauac.org/)
+- [Ediciones Cátedra](https://catedra.com/)
+- [Ediciones Ende](https://www.ediciones-ende.com/)
+- [Editorial Anagrama](https://www.anagrama-ed.es/)
+- [Editorial Edelvives](https://www.edelvives.com/es)
+- [Editorial RM](https://www.editorialrm.com/en)
+- [Editorial Vox](https://vox.es/)
+- [Fondo de Cultura Económica](https://www.fondodeculturaeconomica.com/)
+- [Grapas&mapas](https://grapasymapas.com/)
+- [Grupo Planeta](https://www.planeta.es/es)
+- [Independent Publishers Group](https://www.ipgbook.com/)
+- [LeCanarien Ediciones](https://lecanarienediciones.com/index.php)
+- [Library of America](https://www.loa.org/)
+- [libros.com](https://libros.com/)
+- [LindyPress.net](https://lindypress.net/) — Classical and Medieval Works Reinvigorated
+- [McGraw Hill](https://www.mheducation.com/)
+- [Medica Panamericana](https://www.medicapanamericana.com/es)
+- [Mondadori Group](https://www.mondadori.com/)
+- [No Starch Press](https://nostarch.com/)
+- [O'Reilly](https://www.oreilly.com/)
+- [Penguin Books UK](https://www.penguin.co.uk/)
+- [Penguin Libros](https://www.penguinlibros.com/es/)
+- [Penguin Random House](https://www.penguinrandomhouse.com/)
+- [Penguin Random House Education](https://penguinrandomhouseeducation.com/)
+- [Perceval Press](https://percevalpress.com/)
+- [Perseus Books](https://www.perseusbooks.com/)
+- [RBA Libros](https://www.rbalibros.com/)
+- [Salamandra](https://salamandra.es/)
+- [Simon & Schuster](https://www.simonandschuster.com/)
+- [Templar Publishing](https://www.templarco.co.uk/)
+- [Tor Publishing Group](https://torpublishinggroup.com/)
+- [ZeniMax Media Inc](https://www.zenimax.com/en)
+
+#### Talent Agencies
+- [A Leight House](https://www.aleighthouse.com/)
+- [Barcelona Digital Talent](https://barcelonadigitaltalent.com/)
+- [Creative Artists Agency](https://www.caa.com/)
+- [Excel Sports Management](https://www.excelsm.com/)
+- [ISE](https://www.iseworldwide.com/)
+- [Johnson & Laird Actors and Talent Agency Auckland](https://johnsonlaird.com/)
+- [Liberty Media Corporation](http://www.libertymedia.com/)
+- [MPC Management](https://www.mpcmanagement.es/)
+- [NAU Agency](https://nauagency.com/)
+- [Plugged Models](https://pluggedmodels.com/)
+- [Ralev.com](https://ralev.com/) — A design agency
+- [Trident Media Group](https://www.tridentmediagroup.com/)
+- [UTA](https://www.unitedtalent.com/)
+- [Vizz Agency](https://www.vizz-agency.com/)
+- [Wasserman](https://www.teamwass.com/)
+- [Writers House](http://www.writershouse.com/)
+
+##### Model Agency
+- [Elite model](https://www.elitemodel.com/)
+- [Elite Paris](https://elitemodel.fr/fr/web.app)
+- [Elite World Group](https://www.theeliteworldgroup.com/home.web)
+- [Ford Models](https://www.fordmodels.com/)
+- [Francina Models](https://francinamodels.com/)
+- [IMG Models](https://www.imgmodels.com/)
+- [IMTA](https://www.imta.com/)
+- [LA models](https://www.lamodels.com/)
+- [Latitude Talent](https://www.latitudetalent.com/)
+- [LOOK Model Agency](http://www.lookmodelagency.com/)
+- [Louisa Models](https://www.louisa-models.de/)
+- [Marilyn Agency](https://www.marilynagency.com/paris)
+- [METRO Models](https://www.metromodels.com/)
+- [Model Management](https://www.modelmanagement.com/)
+- [Munich Models](https://www.munich-models.de/)
+- [Official Models NY](https://www.officialmodelsny.com/new-york)
+- [Scout Model](https://www.scouttm.com/)
+- [Stardust](https://www.stardust.co.jp/)
+- [The Clueless](https://www.theclueless.ai/)
+- [The Lions Model Management](https://www.thelionsmanagement.com/newyork)
+- [The Society Management NY](https://www.thesocietymanagement.com/)
+- [Verge Agency](https://www.vergeagency.co/) — Talent Management
+- [Volver Agency](http://www.volver.actor/)
+- [Why Not Models](https://www.whynotmodels.com/)
+- [Wilhelmina](https://www.wilhelmina.com/)
+- [Women Management](https://www.womenmanagement.com/home.web)
+
+#### Video Production
+- [20th Century Studios](https://www.20thcenturystudios.com/)
+- [21Aerials](https://21aerials.com/)
+- [A24 Films](https://a24films.com/)
+- [Amazon Studios](https://studios.amazon.com/)
+- [Amblin](https://amblin.com/)
+- [Atlas Films](https://www.atlasfilms.com/)
+- [Balsamiq Production](https://balsamiq.fr/)
+- [Believe](https://www.believe.tv/)
+- [Don Mischer Productions](https://www.donmischerproductions.com/)
+- [Dron Services Canarias](https://dronservicescanarias.com/)
+- [El Terrat](https://elterrat.com/)
+- [Elevation Pictures](https://www.elevationpictures.com/)
+- [Films Pektakel](https://filmspektakel.at/)
+- [ITVS](https://www.itvstudios.com/)
+- [John Downer Productions](http://www.jdp.co.uk/)
+- [Kirby Productions](https://www.kirbyproductions.com/)
+- [Kurzgesagt](https://kurzgesagt.org/)
+- [Legendary](https://www.legendary.com/)
+- [Lucasfilm](https://www.lucasfilm.com/)
+- [MGM Studios](https://www.mgm.com/)
+- [MGTV Corp](https://corp.mgtv.com/)
+- [Miramax](https://www.miramax.com/)
+- [Motion Pictures](https://www.motionpictures.org/)
+- [MRC](http://www.mrcstudios.com/)
+- [Netflix Animation](https://www.netflixanimation.com/)
+- [Oracle Films](https://oraclefilms.com/)
+- [Panavision](https://www.panavision.com/)
+- [Particle6](https://www.particle6.com/) — Video Production Services
+- [Pinewood Studios](https://pinewoodgroup.com/)
+- [Producciones del Barrio](https://delbarrio.tv/)
+- [Sandwich](https://sandwich.co/)
+- [Selecta Visión](https://www.selecta-vision.com/)
+- [Sony Pictures](https://www.sonypictures.com/)
+- [Standard tv](https://standard.tv/)
+- [The Intellectual Property Corporation](https://www.theipcorp.com/)
+- [The Walt Disney Studios](https://www.waltdisneystudios.com/)
+- [ThinLineMedia](https://thinlinemedia.com/)
+- [TOHO CO., LTD.](https://www.toho.co.jp/)
+- [Top Virtual Tours](https://topvirtualtours.com/) — 360 3D Virtual Tours | Best VR Marketing Agency
+- [Universal Pictures](https://www.universalpictures.com/)
+- [Weta Digital](https://www.wetafx.co.nz/)
+- [Youplanet](https://youplanet.es/)
+- [Zapruder Pictures](https://zapruderpictures.com/)
+
+##### Animation Studio Company
+- [Anima Kitchent](https://www.animakitchent.com/)
+- [Animal Logic](https://animallogic.com/)
+- [ART+COM Studios](https://artcom.de/en/)
+- [Grease Pencil](https://greasepencils.com/)
+- [Illumination Macguff](https://www.illuminationmacguff.com/)
+- [Method Studios](https://www.methodstudios.com/en/)
+- [Nippon animation](https://www.nippon-animation.co.jp/)
+- [Pierrot Official Website](https://en.pierrot.jp/)
+- [Pixar Animation Studios](https://www.pixar.com/)
+- [Pixomondo](https://www.pixomondo.com/)
+- [Realdreams](https://www.realdreams.io/) — AI Driven Content Studio
+- [Rigmarole Studio](https://rigmarolestudio.com/)
+- [Rodeo FX](https://www.rodeofx.com/)
+- [SimpleBits](https://simplebits.com/)
+
+##### VFX Company
+- [ActionVFX](https://www.actionvfx.com/)
+- [Atmosphere Visual FX](https://www.atmosphere-vfx.com/)
+- [Blur Studio](http://blur.com/)
+- [BUF](https://buf.com/)
+- [cebas](https://www.cebas.com/) — Visual Techonology Inc.
+- [Cinesite Studios](https://www.cinesite.com/)
+- [EstudiomoX](https://estudiomox.com.ar/)
+- [Industrial Light & Magic](https://www.ilm.com/)
+- [Next Limit](https://nextlimit.com/)
+- [ShotGrid](https://www.shotgridsoftware.com/)
+- [Sitni Sati](https://www.afterworks.com/) — A Visual Effects Software Company
+
+### Service Sector
+
+#### Assurance Company
+- [Allianz](https://www.allianz.com/en.html)
+- [ASISA](https://www.asisa.es/seguros-de-salud)
+- [AXA](https://www.axa.es/)
+- [AXA](https://www.axa.com/)
+- [AXA.ch](https://www.axa.ch/en/private-customers.html)
+- [CPIC.com.cn](https://www.cpic.com.cn/)
+- [Fenix Directo](https://www.fenixdirecto.com/)
+- [GEICO](https://www.geico.com/)
+- [Generali Group](https://www.generali.com/)
+- [Grupo Catalana Occidente](https://www.grupocatalanaoccidente.com/)
+- [Liberty Mutual Group](https://www.libertymutualgroup.com/about-lm/corporate-information/overview)
+- [Liberty Seguros](https://www.libertyseguros.es/)
+- [Línea Directa](https://www.lineadirecta.com/)
+- [MAPFRE](https://www.mapfre.es/seguros/particulares)
+- [Max Group](https://www.maxgroup.in/)
+- [MetLife](https://www.metlife.com/)
+- [Mutua Madrileña](https://www.mutua.es/)
+- [SafetyWing](https://safetywing.com/) — Insurance for remote workers
+- [Sanitas](https://corporativo.sanitas.es/)
+- [Seguros Ocaso](https://www.ocaso.es/es)
+- [Seguros Santalucía](https://www.santalucia.es/)
+- [State Farm](https://www.statefarm.com/)
+- [Swiss Re Group](https://www.swissre.com/)
+- [Zurich Insurance](https://www.zurich.com/)
+
+#### Defense Contractor
+- [Almaz-Antey](http://www.almaz-antey.ru/)
+- [Babcock International](https://www.babcockinternational.com/)
+- [BAE Systems](https://www.baesystems.com/en/home)
+- [Bechtel](https://www.bechtel.com/)
+- [Booz Allen](https://www.boozallen.com/)
+- [CACI](https://www.caci.com/)
+- [CEA](https://www.cea.fr/)
+- [Dassault Aviation](https://www.dassault-aviation.com/en)
+- [Elbit Systems](https://elbitsystems.com/)
+- [GE Aviation](https://www.geaviation.com/)
+- [General Atomics](https://www.ga.com/)
+- [General Dynamics](https://www.gd.com/)
+- [General Dynamics Systems](https://gdmissionsystems.com/)
+- [GMV](https://www.gmv.com/en) — Innovating Solutions
+- [High Precision Systems](https://www.npovk.ru/)
+- [Honeywell](https://www.honeywell.com/us/en)
+- [Huntington Ingalls Industries](https://huntingtoningalls.com/)
+- [IAI](https://www.iai.co.il/)
+- [Kongsberg](https://www.kongsberg.com/)
+- [KTRV](https://www.ktrv.ru/)
+- [L3Harris](https://www.l3harris.com/)
+- [L3Harris Geospatial](https://www.l3harrisgeospatial.com/)
+- [Leidos](https://www.leidos.com/)
+- [Leonardo](https://www.leonardocompany.com/en/home)
+- [List of defense contractors](https://en.wikipedia.org/wiki/List_of_defense_contractors)
+- [Lockheed Martin](https://www.lockheedmartin.com/)
+- [Marshall](https://marshalladg.com/)
+- [MBDA](https://www.mbda-systems.com/)
+- [Mitsubishi Heavy Industries](https://www.mhi.com/)
+- [Naval Group](https://www.naval-group.com/fr)
+- [Patria Group](https://www.patriagroup.com/)
+- [Rafael](https://www.rafael.co.il/) — Dynamic Defense Company
+- [Rheinmetall](https://www.rheinmetall.com/en/rheinmetall_ag/home.php)
+- [Rolls-Royce](https://www.rolls-royce.com/)
+- [RTX](https://www.rtx.com/)
+- [Russian Helicopters](https://www.rhc.aero/en)
+- [Saab](https://www.saab.com/)
+- [Safran Group](https://www.safran-group.com/)
+- [SAIC](https://saic.com/)
+- [Thales](https://www.thalesgroup.com/en)
+- [Uecrus](https://www.uecrus.com/rus)
+- [United Aircraft Corporation](https://www.uacrussia.ru/en)
+- [United Shipbuilding Corporation](https://www.aoosk.ru/en)
+
+#### Delivery Company
+- [Asigna](https://asigna.es/) — Expertos en Logística Canaria
+- [Bring it](https://bringit.es/)
+- [bunny.net](https://bunny.net/)
+- [CORREOS](https://www.correos.es/ss/Satellite/site/pagina-inicio/info)
+- [Correos Express](https://www.correosexpress.com/)
+- [Deutsche Post DHL Group](https://www.dpdhl.com/en.html)
+- [DHL](https://www.dhl.com/global-en/home.html)
+- [Eagle Express Lines](https://eagleexpresslines.com/)
+- [FedEx](https://www.fedex.com/en-us/home.html)
+- [MRW](https://www.mrw.es/)
+- [Packlink](https://www.packlink.com/en-GB)
+- [Sendcloud](https://www.sendcloud.com/)
+- [SEUR](https://www.seur.com/es)
+- [Skroutz.gr](https://www.skroutz.gr/)
+- [United Airlines](https://www.united.com/en/us)
+- [UPS](https://www.ups.com/us/en/Home.page)
+- [Wing](https://wing.com/)
+
+#### Detective Company
+- [Detectives Oliver, Barcelona, privados, infidelidades, empresa](https://www.detectivesoliver.com/)
+
+#### Energy Company
+- [Axpo](https://www.axpo.com/ch/en/about-us.html)
+- [Commonwealth Fusion Systems](https://cfs.energy/)
+- [Kinder Morgan](https://www.kindermorgan.com/)
+- [Ørsted](https://orsted.com/)
+- [Rosch Innovations](https://rosch.ag/)
+- [RWE](https://www.rwe.com/)
+- [Schlumberger](https://www.slb.com/)
+- [Xunzel](https://www.xunzel.com/)
+
+##### Electric Utility
+- [Alterna.es](https://alternaonline.es/)
+- [Centrica plc](https://www.centrica.com/)
+- [Duke Energy](https://www.duke-energy.com/home)
+- [E.ON](https://www.eon.com/en.html)
+- [EDF](https://www.edf.fr/)
+- [EDP](https://www.edpenergia.es/es)
+- [EDP Group](https://www.edp.com/en)
+- [Endesa](https://www.endesa.com/)
+- [ENGIE](https://www.engie.com/en)
+- [Enusa](http://www.enusa.es/)
+- [Exelon Corporation](https://www.exeloncorp.com/)
+- [Iberdrola](https://www.iberdrola.com/)
+- [KEPCO](https://www.kepco.co.jp/english)
+- [KEPCO](http://home.kepco.co.kr/kepco/main.do)
+- [Naturgy](https://www.naturgy.com/inicio)
+- [NextEra Energy, Inc.](http://www.nexteraenergy.com/)
+- [Statkraft](https://www.statkraft.com/)
+- [TEPCO](https://www.tepco.co.jp/en/hd/index-e.html)
+
+##### Fossil Fuel Company
+- [Beijing-hualian](http://www.beijing-hualian.com/)
+- [BP](https://www.bp.com/)
+- [Chevron With Techron](https://www.chevronwithtechron.com/)
+- [ConocoPhillips](https://www.conocophillips.com/)
+- [Coral Energy](https://www.coral-energy.com/)
+- [Exxon](https://www.exxon.com/en)
+- [Gazprom](https://www.gazprom.com/)
+- [Grupo DISA](https://www.disagrupo.es/)
+- [Magma Global](https://www.magmaglobal.com/) — Offering the worlds most advanced subsea oil & gas pipe
+- [Oasis Petroleum](https://www.oasispetroleum.com/)
+- [PetroChina](http://www.petrochina.com.cn/ptr)
+- [Pioneer natural resource](https://pxd.com/)
+- [Qatar Petroleum](https://qp.com.qa/en/Pages/Home.aspx)
+- [Repsol](https://www.repsol.com/en/index.cshtml)
+- [Saudi Aramco](https://www.aramco.com/)
+- [SGM Group](http://www.ooosgm.com/)
+- [Shell](https://www.shell.com/)
+- [Sinopec](http://www.sinopec.com/)
+- [Total.com](https://www.total.com/)
+- [YPF](https://www.ypf.com/Paginas/home.aspx)
+
+#### Financial Service
+- [Cantor Fitzgerald](https://www.cantor.com/)
+- [Chapman and Cutler](https://www.chapman.com/)
+- [Clarium Capital](https://www.clarium.com/)
+- [CME Group](https://www.cmegroup.com/)
+- [Ethical Capital Partners](https://www.ethicalcapitalpartners.com/)
+- [EXOR](https://www.exor.com/)
+- [FME Group](http://fmegroup.com/)
+- [Founders Fund](https://foundersfund.com/)
+- [Greylock Partners](https://greylock.com/)
+- [H.I.G. Capital](https://www.higcapital.com/)
+- [ICE](https://www.theice.com/index)
+- [Insurance Premium Financing Solutions](https://www.ipfs.com/) — IPFS
+- [International Finance Corporation (IFC)](https://www.ifc.org/en/home)
+- [Intuit®](https://www.intuit.com/) — Outdo your financial goals—all in one place
+- [Mightycause](https://www.mightycause.com/)
+- [Morgan Stanley](https://www.morganstanley.com/)
+- [S&P Global](https://www.spglobal.com/en)
+- [SquareUp](https://squareup.com/us/en)
+- [World Bank Group](https://www.worldbank.org/ext/en/home) — International Development, Poverty and Sustainability
+
+##### Bank
+- [2Co](https://www.2co.com/)
+- [American Express](https://www.americanexpress.com/es)
+- [B100](https://b100.es/es/) — B100 para tu salud, la de tu dinero y la del planeta
+- [Banca March](https://www.bancamarch.es/es/)
+- [Banco Sabadell](https://www.bancsabadell.com/cs/Satellite/SabAtl)
+- [Bank BNP Paribas](https://group.bnpparibas/en)
+- [Bank of America](https://www.bankofamerica.com/)
+- [Bank of China](https://www.boc.cn/)
+- [Bankia](https://www.bankia.com/es)
+- [Bankinter](https://www.bankinter.com/banca/en/home)
+- [Banque BNP Paribas](https://group.bnpparibas/)
+- [BBVA](https://www.bbva.com/en)
+- [CaixaBank](https://www.caixabank.com/home_es.html)
+- [Chase.com](https://www.chase.com/)
+- [China Construction Bank](http://www.ccb.com/cn/home/indexv3.html)
+- [China Merchants Bank](https://www.cmbchina.com/)
+- [Citi](https://www.citigroup.com/citi)
+- [Cleverbridge](https://www.cleverbridge.com/corporate)
+- [Danske Bank](https://danskebank.com/)
+- [Deutsche Bank](https://www.db.com/index)
+- [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html)
+- [Groupe Cofidis](http://www.cofidis.com/)
+- [Grupo Caja Rural](https://www.grupocajarural.es/es)
+- [HSBC](https://www.hsbc.com/)
+- [INB](https://www.inb.com/)
+- [ING](https://www.ing.com/Home.htm)
+- [KBC](https://www.kbc.com/en.html)
+- [KfW](https://www.kfw.de/kfw.de.html)
+- [M&T Bank](https://www3.mtb.com/)
+- [Mastercard](https://www.mastercard.es/es-es.html)
+- [Mizuho Financial Group](https://www.mizuhogroup.com/)
+- [N26](https://n26.com/es-es)
+- [NatWest Group](https://www.natwestgroup.com/)
+- [Openbank](https://www.openbank.es/)
+- [Paysafecard](https://www.paysafecard.com/en-gb)
+- [Rabobank Group](https://www.rabobank.com/en/home/index.html)
+- [RBC](https://www.rbc.com/about-rbc.html)
+- [RBS](https://www.rbs.com/)
+- [Santander](https://www.santander.com/es/home)
+- [Sberbank](https://www.sberbank.com/index)
+- [SoftBank Group](https://global.softbank/)
+- [Sopra Banking](https://www.soprabanking.com/)
+- [Unicaja Banco](https://www.unicajabanco.es/es/particulares)
+- [Visa](https://www.visa.es/)
+- [Wells Fargo](https://www.wellsfargo.com/)
+
+##### Decentralized Finance
+- [Alephium](https://alephium.org/) — The Web3 you were promised
+- [Enya.ai](https://www.enya.ai/)
+- [Ignite](https://ignite.com/)
+- [Jolocom](https://jolocom.io/)
+- [Regen Network](https://www.regen.network/)
+- [Ryder](https://ryder.id/) — Digital DNA
+- [Stacker Ventures](https://stacker.vc/)
+- [Stake Capital](https://www.stake.capital/)
+
+##### Financial Management
+- [danielbrendel/hortusfox-web · GitHub](https://github.com/danielbrendel/hortusfox-web)
+- [Edmond de Rothschild Group](https://www.edmond-de-rothschild.com/en)
+- [HomeBox](https://homebox.software/en/)
+- [Mediterráneo Vida](https://medvida.es/en/)
+- [Rothschild & Co](https://www.rothschildandco.com/)
+- [Sure](https://sure.am/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/we-promise/sure)
+
+##### Investment Management
+- ⭐ **[Sequoia Capital](https://www.sequoiacap.com/)**
+- [Alternative Investment](https://www.allvuesystems.com/)
+- [Andreessen Horowitz](https://a16z.com/)
+- [AngelList Venture](https://angellist.com/)
+- [Ares Management](https://www.aresmgmt.com/)
+- [Associated Partners LP](https://associatedpartnerslp.com/)
+- [at.inc/](https://www.at.inc/)
+- [Bain Capital](https://www.baincapital.com/)
+- [Baring Private Equity Asia](https://www.bpeasia.com/)
+- [BlackRock](https://www.blackrock.com/corporate)
+- [Blackstone](https://www.blackstone.com/)
+- [BNY Mellon](https://www.bnymellon.com/emea/en/home.jsp)
+- [BOND](https://www.bondcap.com/#internettrends)
+- [CapitalG](https://capitalg.com/)
+- [Cascade Investment](https://cascadeinvestment.us/)
+- [Cascade Investment Group](https://ciginc.net/)
+- [Charles Schwab](https://www.schwab.com/)
+- [Citadel](https://www.citadel.com/)
+- [Collaborative Fund](https://www.collaborativefund.com/)
+- [Cross Capital](https://crosscapital.es/)
+- [Digital Colony](https://digitalcolony.com/)
+- [DLF India](https://www.dlf.in/)
+- [Dow Jones](https://www.dowjones.com/)
+- [Eldridge](https://www.eldridge.com/)
+- [Elliott Management](https://www.elliottmgmt.com/)
+- [ENDEAVOR](https://www.endeavorco.com/)
+- [Energy Capital Partners](https://www.ecpgp.com/)
+- [Ferd](https://ferd.no/)
+- [Fidelity Investments](https://www.fidelity.com/)
+- [First Sentier Investors](https://www.firstsentierinvestors.com/)
+- [Flippa](https://flippa.com/)
+- [General catalyst](https://www.generalcatalyst.com/)
+- [Goldman Sachs](https://www.goldmansachs.com/)
+- [Grayscale](https://grayscale.com/)
+- [Grupo Vesilen](https://vesilen.com/)
+- [Guggenheim Partners](https://www.guggenheimpartners.com/)
+- [GV (Google Ventures)](https://www.gv.com/)
+- [Hyper](https://hyper.com/)
+- [In-Q-Tel](https://www.iqt.org/)
+- [Invesco](https://www.invesco.com/corporate/about-us)
+- [Investec](https://www.investec.com/en_gb.html)
+- [Investor AB](https://www.investorab.com/)
+- [Kinross Gold Corporation](https://www.kinross.com/home/default.aspx)
+- [KKR](https://www.kkr.com/)
+- [Lundbergföretagen](https://www.lundbergforetagen.se/)
+- [Lux Capital](https://luxcapital.com/)
+- [McCarthy Capital](https://www.mccarthycapital.com/)
+- [Melco Group](https://www.melco-group.com/en/index.html)
+- [MSD Capital](https://www.msdcapital.com/)
+- [NEA](https://www.nea.com/)
+- [NEOM](https://www.neom.com/index.html)
+- [Oak Investment Partners](https://www.oakvc.com/)
+- [Onex](https://www.onex.com/)
+- [OpCapita](https://www.opcapita.com/)
+- [Permira](https://www.permira.com/)
+- [Pictet Group](https://www.group.pictet/)
+- [PIMCO](https://www.pimco.com/en-us)
+- [Praxis](https://www.praxisnation.com/)
+- [ProQuest](https://about.proquest.com/en)
+- [Prototypefund](https://prototypefund.de/en/)
+- [Q4 Inc.](https://www.q4inc.com/home/default.aspx)
+- [Qatar Investment Authority](https://www.qia.qa/)
+- [RBC Capital Markets](https://www.rbccm.com/en/)
+- [SBAI](https://www.sbai.org/)
+- [Silver Lake](https://www.silverlake.com/?v=2)
+- [SSGA](https://www.ssga.com/us/en/institutional)
+- [Staple Street Capital](http://staplestreetcapital.com/Home)
+- [State Street](https://www.statestreet.com/us/en/asset-manager) — Asset Manager
+- [Stock Analysis](https://stockanalysis.com/) — Free Online Stock Information for Investors
+- [Study Group](https://corporate.studygroup.com/)
+- [The RMR Group](https://www.rmrgroup.com/Home/default.aspx)
+- [UBS](https://www.ubs.com/es/es.html)
+- [Vanguard](https://investor.vanguard.com/home)
+- [VIVES fund](https://www.vivesfund.com/en)
+- [Walton](https://walton.com/en)
+- [Wardenclyffe Chemicals](https://www.wardenchem.com/)
+- [Web Mandelbrot](https://guciek.github.io/web_mandelbrot.html#-0.5;0;2;1000)
+- [Willis Towers Watson](https://www.willistowerswatson.com/en-US)
+- [Witkoff Group](https://www.witkoff.com/)
+
+###### Holding Company
+- [Booking Holdings](https://www.bookingholdings.com/)
+- [CK Hutchison Holdings](https://www.ckh.com.hk/en/global/home.php)
+- [Country Garden Holding](https://www.countrygarden.com.cn/)
+- [GSH Capital Holdings Limited](https://gsh.capital/)
+- [JAB Holding](https://www.jabholco.com/)
+- [Kingdom Holding](https://kingdom.com.sa/)
+- [kosmos-website](https://www.kosmosholding.com/)
+- [Legends Holding](http://legendholdings.com.cn/)
+- [PDD Holdings](https://investor.pddholdings.com/)
+- [Recruit Holdings](https://recruit-holdings.com/who)
+- [Seiko Holdings Corporation](https://www.seiko.co.jp/en)
+- [Seven & i Holdings Co](https://www.7andi.com/en)
+
+###### Real Estate Company
+- [CENTURY 21](https://www.century21.com/)
+- [CIM Group](https://www.cimgroup.com/)
+- [Durst Organization](https://www.durst.org/)
+- [European Public Real Estate](https://www.epra.com/)
+- [Evergrande](https://www.evergrande.com/)
+- [Fannie Mae](https://www.fanniemae.com/)
+- [Groupe Société Générale](https://www.societegenerale.com/fr)
+- [Invesco](https://www.invesco.com/corporate)
+- [Kushner](https://kushner.com/)
+- [Lodha Group](https://www.lodhagroup.in/home)
+- [Quadrature Group](https://quadraturegroup.com/)
+- [RE/MAX](https://www.remax.com/)
+- [REALTORS](https://www.rliland.com/)
+- [Residencial Chadofe](https://www.chadofe.es/)
+- [Select Group](https://select-group.ae/)
+- [Silverstein Properties](https://silversteinproperties.com/)
+- [SpacesWorks](https://www.spacesworks.com/)
+- [WeWork](https://www.wework.com/)
+
+#### Freelance Company
+- [Fiverr](https://www.fiverr.com/)
+- [Freelancer](https://www.freelancer.com/)
+- [Millo.co](https://millo.co/)
+- [Sellfy](https://sellfy.com/)
+- [Toptal](https://www.toptal.com/)
+- [Upwork](https://www.upwork.com/)
+
+#### Gambling Company
+- [888 Holdings PLC](https://corporate.888.com/)
+- [Atari](https://www.atari.com/)
+- [Caesars Entertainment](https://www.caesars.com/)
+- [DraftKings](https://www.draftkings.com/)
+- [Entain](https://entaingroup.com/)
+- [Flutter](https://www.flutter.com/)
+- [Gaming Labs](https://gaminglabs.com/)
+- [Hard Rock](https://www.hardrock.com/)
+- [Leo Vegas Group](https://leovegasgroup.com/)
+- [partypoker](https://www.partypoker.es/)
+- [Poker Red](https://www.poker-red.com/)
+- [Rank Group Plc](https://www.rank.com/en/index.html)
+- [The Stars Group](https://www.starsgroup.com/)
+- [William Hill Plc](https://www.williamhillplc.com/)
+
+#### Healthcare Company
+- [Clearblue](https://www.clearblue.com/)
+- [CVS](https://www.cvs.com/international.html)
+- [goodrx](https://www.goodrx.com/)
+- [Innophore](https://innophore.com/)
+- [Invisalign](https://www.invisalign.com/)
+- [MediCloud.me](https://medicloud.me/)
+- [Siemens Healthineers](https://www.siemens-healthineers.com/)
+- [ThermoFisher](https://corporate.thermofisher.com/us/en/index.html)
+- [Xenex LightStrike Robot](https://xenex.com/)
+
+##### Chemical Company
+- [AbbVie](https://www.abbvie.com/)
+- [Amplifon Corporate](https://corporate.amplifon.com/en)
+- [B. Braun](https://www.bbraun.com/en.html)
+- [BASF](https://www.basf.com/global/en.html)
+- [Baxter](https://www.baxter.com/)
+- [BD](https://www.bd.com/en-hk)
+- [Boston Scientific](https://www.bostonscientific.com/en-US/Home.html)
+- [Cardinal Health](https://www.cardinalhealth.com/en.html)
+- [CEM](https://cem.com/en)
+- [Danaher](https://www.danaher.com/)
+- [Dow](https://www.dow.com/en-us.html)
+- [DuPont](https://www.dupont.com/)
+- [Ferrer Corporate](https://www.ferrer.com/)
+- [GE Healthcare](https://www.gehealthcare.com/)
+- [Gilead Sciences](https://www.gilead.com/)
+- [Herbalife](https://www.herbalife.com/)
+- [Johnson & Johnson](https://www.jnj.com/)
+- [McKesson](https://www.mckesson.com/)
+- [Medtronic](https://www.medtronic.com/us-en/index.html)
+- [Merck](https://www.merck.com/index.html)
+- [Novartis](https://www.novartis.com/)
+- [Safe Pharmacy](https://safe.pharmacy/)
+- [Stryker](https://www.stryker.com/it/en/index.html)
+- [TAVA Drug Mart](http://www.tavadrugs.com/)
+- [UnitedHealth Group](https://www.unitedhealthgroup.com/)
+- [Vademecum](https://www.vademecum.com/)
+- [Viatris](https://www.viatris.com/en)
+- [Zimmer Biomet](https://www.zimmerbiomet.com.es/)
+
+###### Cannabis
+- [Analytical Cannabis](https://www.analyticalcannabis.com/)
+- [Cannabis Tech](https://www.cannabistech.com/)
+
+##### Clinic Copmany
+- [AmerisourceBergen](https://www.amerisourcebergen.com/)
+- [Clinica Dental Plasencia Calvillo](https://clinicaplasenciacalvillo.com/)
+- [Clínica Universidad de Navarra](https://www.cun.es/)
+- [Clínicas Oftalvist](https://www.oftalvist.es/es)
+- [Clínicas W](https://clinicasw.com/)
+- [CVS Health](https://cvshealth.com/)
+- [Dasa](https://dasa.com.br/)
+- [DXI](https://dxy.com/)
+- [GAES](https://www.gaes.es/)
+- [Grupo Hospitalario HLA](https://www.grupohla.com/es)
+- [HM Hospitales](https://www.hmhospitales.com/)
+- [Hospital Universitario La Zarzuela](https://www.hospitallazarzuela.es/es)
+- [Hospitales Universitarios San Roque](https://hospitalessanroque.com/es)
+- [Hospiten](https://hospiten.com/)
+- [Humana](https://www.humana.com/)
+- [Mayo Clinic](https://www.mayoclinic.org/)
+- [Oncoshot](https://www.oncoshot.com/)
+- [Prisma Health](https://phuscmg.org/)
+- [Quirónsalud](https://www.quironsalud.es/)
+- [Zorrotzaurre](https://clinicazorrotzaurre.imq.es/sites/Zorrotzaurre)
+
+###### Hospitals
+- [Hospital Charité](https://www.charite.de/en)
+- [Prisma Health Children's Hospital](https://palmettohealthchildrens.org/)
+
+##### Pharmaceutical Company
+- [Abbott](https://www.abbott.com/)
+- [AstraZeneca](https://www.astrazeneca.com/)
+- [Bayer](https://www.bayer.com/en)
+- [BioNTech](https://biontech.de/)
+- [Bruker Pharma](https://www.bruker.com/en.html)
+- [CureVac](https://www.curevac.com/)
+- [Dr.Max Holding](https://www.drmax.eu/en/default.aspx)
+- [Dr.Max Pharma](https://www.drmaxpharma.com/)
+- [Eli Lilly and Company](https://www.lilly.com/)
+- [GSK](https://www.gsk.com/en-gb)
+- [Janssen](https://www.janssen.com/us)
+- [Moderna, Inc.](https://www.modernatx.com/)
+- [Novavax](https://www.novavax.com/)
+- [Pfizer](https://www.pfizer.com/)
+- [Roche](https://www.roche.com/)
+- [Sanofi](https://www.sanofi.com/)
+- [Sobi](https://www.sobi.com/)
+- [SYNLAB](https://www.synlab.com/)
+- [Wantai Biological Pharmacy](http://www.ystwt.cn/)
+
+#### Market Research
+- [GFK](https://www.gfk.com/home)
+- [IHS Markit](https://ihsmarkit.com/index.html)
+- [Ipsos](https://www.ipsos.com/en)
+- [JazzHR](https://www.jazzhr.com/)
+- [Nielsen](https://www.nielsen.com/es/en)
+- [Parc](https://www.parc.com/) — Research Services, Open Innovation and Breakthrough Technology
+- [Transparency Market Research](https://www.transparencymarketresearch.com/)
+- [Zensar](https://www.zensar.com/)
+
+##### Business Analytics
+- [Clarivate](https://www.clarivate.com/)
+- [Craft](https://craft.co/)
+- [Crunchbase](https://www.crunchbase.com/)
+- [Elsevier](https://www.elsevier.com/) — An Information Analytics Business
+- [Grand View Research](https://www.grandviewresearch.com/)
+- [Infoadex](https://www.infoadex.es/home)
+- [Kaizten Analytics](https://www.kaizten.com/)
+- [Kajabi](https://kajabi.com/)
+- [Majestic Analytics](https://majesticanalytics.com/)
+- [MarketResearch](https://www.marketresearch.com/)
+- [Mergr](https://mergr.com/)
+- [OpenBB](https://openbb.co/) — Investment Research
+- [Plum Analytics](https://plumanalytics.com/)
+- [Techrate](https://techrate.org/)
+- [User Agents Analysis](https://udger.com/)
+
+##### Customer Service
+- [AWeber](https://www.aweber.com/)
+- [BitBridge](https://bitbridge.com/)
+- [BrainStorm](https://www.brainstorminc.com/)
+- [CloudWorkers](https://www.cloudworkers.company/en)
+- [Daresay](https://daresay.co/)
+- [Drift](https://www.drift.com/)
+- [Itrum](https://www.intrum.com/)
+- [Oct8ne](https://oct8ne.com/)
+
+##### Management Consulting
+- [Alien TT](https://alientt.com/)
+- [Arthur D Little](https://www.adlittle.com/)
+- [Blackpoints](https://www.blackpoints.ch/)
+- [Capgemini](https://www.capgemini.com/)
+- [CGI.com](https://www.cgi.com/en)
+- [Crystal](https://www.crystalknows.com/)
+- [Evil Martians](https://evilmartians.com/)
+- [Forrester Helps Organizations Grow Through Customer Obsession](https://www.forrester.com/)
+- [Freshworks](https://www.freshworks.com/)
+- [GLPI](https://glpi-project.org/)
+- [Igalia](https://www.igalia.com/) — Open Source Consultancy and Development
+- [Infosys](https://www.infosys.com/)
+- [Lattice](https://lattice.com/)
+- [McKinsey & Company](https://www.mckinsey.com/)
+- [Nielsen Norman Group](https://www.nngroup.com/)
+- [Omnicon](https://omnicon.co/)
+- [Optemization](https://optemization.com/)
+- [Parallax](https://parall.ax/) — Digital Consultancy in Leeds & London
+- [RW Malone MD](https://www.rwmalonemd.com/)
+- [Safe Creative](https://www.safecreative.org/)
+- [Singularity University](https://su.org/)
+- [Spectrum Acoustic Consultants](https://www.spectrumacoustic.com/)
+- [TechSci Research](https://www.techsciresearch.com/)
+- [Unisys.com](https://www.unisys.com/)
+
+##### Marketing Agency
+- [Akool](https://akool.com/)
+- [All Around](https://allaround.digital/)
+- [Anyline](https://anyline.com/)
+- [Apester.com](https://apester.com/)
+- [ARG media](http://argmedia.com/)
+- [B2 Web Studios](https://b2computing.com/)
+- [business.com](https://www.business.com/)
+- [Comscore](https://www.comscore.com/)
+- [CoTech](https://www.coops.tech/)
+- [DataMiner](https://www.dataminer.co/)
+- [Dayvo Sistemas](https://dayvo.com/) — Agencia de Marketing Digital y Diseño Web
+- [Ditto](https://dittomusic.com/en) — Release Your Music
+- [EthicalAds](https://www.ethicalads.io/)
+- [Four Nine Design](https://www.fourninedesign.com/)
+- [Futuri Media](https://futurimedia.com/)
+- [Gleam.io](https://gleam.io/)
+- [Jivox](https://www.jivox.com/) — Omnichannel, AI and Dynamic Creative
+- [JustCall.io](https://justcall.io/)
+- [Memberful](https://memberful.com/)
+- [MyPublicInbox](https://www.mypublicinbox.com/)
+- [Omnicore](https://www.omnicoreagency.com/)
+- [Oui Will](https://www.ouiwill.com/)
+- [Postlight](https://postlight.com/)
+- [Qualium](https://qualium.mx/)
+- [SabaIdea](http://www.sabaidea.com/en)
+- [ShareASale](https://www.shareasale.com/info/)
+- [Shilabs Digital](https://www.shilabs.digital/)
+- [SingleBrain](https://www.singlegrain.com/)
+- [STGO](https://stgo.es/) — ESTUDIO ARQUITECTURA + MULTIMEDIA
+- [team.blue](https://team.blue/) — Europe’s Leading Supplier of Digital Solutions
+- [The Gratzi, Inc.](https://thegratzi.com/) — Digital Marketing Services
+- [Userway.org](https://userway.org/)
+- [Vivirdelared](https://www.vivirdelared.com/)
+- [Widen](https://www.widen.com/)
+
+##### Product Agency
+- [64 Robots](https://www.64robots.com/)
+
+##### SEO
+- [Ahrefs](https://ahrefs.com/)
+- [BlogSEO](https://www.blogseo.io/)
+- [Dataforseo](https://dataforseo.com/)
+- [Instagram Automation Tool](https://inflact.com/)
+- [Moz](https://moz.com/) — SEO Software for Smarter Marketing
+- [OpenSEO](https://openseo.so/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/every-app/open-seo) — Open Source SEO Platform
+- [Polemic Digital](https://www.polemicdigital.com/)
+- [Screaming Frog](https://www.screamingfrog.co.uk/)
+- [Semrush](https://www.semrush.com/)
+- [SEO Explorer](https://seo-explorer.io/)
+- [Seo Minion](https://seominion.com/)
+- [SEO.com](https://www.seo.com/)
+- [Tubics](https://www.tubics.com/) — YouTube SEO
+- [Woorank](https://www.woorank.com/)
+
+#### Mediation Company
+- [Henning Mediation](https://henningmediation.com/)
+- [Icard Merrill](https://icardmerrill.com/)
+- [JAMS ADR](https://www.jamsadr.com/)
+- [Miles Mediation](https://www.milesmediation.com/)
+- [United States Arbitration & Mediation](https://usam.com/)
+
+#### Professional Service
+- [Accenture](https://www.accenture.com/us-en)
+- [Aon](https://www.aon.com/home/index.html)
+- [BDO](https://www.bdo.com/)
+- [Deloitte](https://www2.deloitte.com/es/es.html)
+- [Digital Credentials](https://info.credly.com/)
+- [EY](https://www.ey.com/es_es)
+- [Fiserv](https://www.fiserv.com/)
+- [Gartner](https://www.gartner.com/en)
+- [JPMorgan Chase](https://www.jpmorganchase.com/)
+- [KPMG](https://kpmg.com/xx/en/home.html)
+- [Marsh McLennan](https://www.mmc.com/)
+- [MBIA](https://www.mbia.com/)
+- [McCandless Group](https://www.themccandlessgroup.com/)
+- [NEW WORK SE](https://www.new-work.se/en)
+- [Pingan](https://www.pingan.com/)
+- [PwC](https://www.pwc.com/)
+- [Wolters Kluwer](https://www.wolterskluwer.com/en)
+- [WSP](https://www.wsp.com/)
+- [X-net Group](https://x-net.group/)
+- [Y Combinator](https://www.ycombinator.com/)
+
+##### Inspection Services
+- [CENT Argentina](https://www.cent.gov.ar/)
+- [ITOPF](https://www.itopf.org/)
+- [Royal Boskalis Westminster N.V.](https://www.boskalis.com/)
+- [SGS](https://www.sgs.com/)
+- [TÜV SÜD](https://www.tuvsud.com/en)
+
+##### Law Firms
+- [Baker McKenzie](https://www.bakermckenzie.com/en)
+- [Bick Law](https://www.bicklawllp.com/)
+- [Bighorn Law](https://bighornlaw.com/)
+- [Bird & Bird](https://www.twobirds.com/)
+- [Brown Rudnik](https://brownrudnick.com/)
+- [Campmany Abogados](https://www.campmanyabogados.com/)
+- [Dentons](https://www.dentons.com/en)
+- [Despacho de abogados Gómez-Acebo y Pombo](https://www.ga-p.com/)
+- [DLA Piper](https://www.dlapiper.com/en/us)
+- [Elías y Muñoz Abogados](https://www.eliasymunozabogados.com/)
+- [FindLaw](https://www.findlaw.com/)
+- [Garrigues firma](https://www.garrigues.com/es_ES)
+- [Gibson Dunn](https://www.gibsondunn.com/)
+- [Greenberg & Lieberman](https://aplegal.com/)
+- [K&L Gates](https://www.klgates.com/)
+- [Kirkland & Ellis LLP](https://www.kirkland.com/)
+- [Landis Rath & Cobb](https://lrclaw.com/)
+- [Lash Goldberg LLP](https://www.lashgoldberg.com/)
+- [Latham & Watkins](https://www.lw.com/)
+- [Legalcity](https://legalcity.es/)
+- [Legalitas](https://www.legalitas.com/)
+- [Martinez-Echevarría & Rivera abogados](https://www.martinezechevarria.com/)
+- [Pronomos Capital](https://pronomos.vc/)
+- [Quinn Emanuel Trial Lawyers](https://www.quinnemanuel.com/)
+- [Simpson Thacher & Bartlett](https://www.stblaw.com/)
+- [Skadden, Arps, Slate, Meagher & Flom LLP](https://www.skadden.com/)
+- [van Cutsem Wittamer Marnef & Partners​](https://www.vancutsem.be/en/)
+- [West Coast Trial Lawyers](https://westcoasttriallawyers.com/)
+- [White & Case](https://www.whitecase.com/)
+- [WilmerHale](https://www.wilmerhale.com/)
+- [YLaw](https://www.ylaw.ca/)
+
+###### Lawyer
+- [Abogacía Española](https://www.abogacia.es/)
+- [Abogados365](https://www.abogados365.com/)
+- [elAbogado](https://www.elabogado.com/)
+- [Horea Crisan](https://crisan-avocat.ro/) — Lawyer in Cluj Napoca
+- [Mutualidad de la Abogacía](https://www.mutualidadabogacia.com/)
+- [Odegard Law](http://www.jennyodegard.com/)
+- [Preico Jurídicos](https://www.preicojuridicos.com/inicio)
+- [TuAbogadoDefensor](https://www.tuabogadodefensor.com/)
+
+#### Sports Company
+- [Amer Sports](https://www.amersports.com/)
+- [CallawayGolf](https://www.callawaygolf.com/)
+- [Cobra Golf](https://www.cobragolf.com/)
+- [Tenth Sports](https://tenthsports.co.za/)
+- [Wilson](https://www.wilson.com/en-us)
+
+##### Football Teams
+- [Alnassr](https://alnassr.sa/#/)
+- [FC Andorra](https://www.fcandorra.com/)
+- [San Lorenzo de Almagro](https://sanlorenzo.com.ar/)
+
+###### 1st Division
+- [Athletic Club](https://www.athletic-club.eus/)
+- [Atlético de Madrid](https://www.atleticodemadrid.com/)
+- [Cádiz CF](https://www.cadizcf.com/)
+- [Club Atlético Osasuna](https://www.osasuna.es/)
+- [Deportivo Alavés](https://www.deportivoalaves.com/)
+- [Elche CF](https://www.elchecf.es/)
+- [FC Barcelona](https://www.fcbarcelona.com/en)
+- [Getafe CF](https://www.getafecf.com/)
+- [Granada Club de Fútbol](https://www.granadacf.es/)
+- [Levante UD](https://www.levanteud.com/es)
+- [RC Celta](https://rccelta.es/)
+- [Real Betis Balompié](https://www.realbetisbalompie.es/)
+- [Real Madrid CF](https://www.realmadrid.com/en)
+- [Real Sociedad](https://www.realsociedad.eus/)
+- [Real Valladolid](https://www.realvalladolid.es/)
+- [SD Eibar](https://www.sdeibar.com/)
+- [Sevilla FC](https://www.sevillafc.es/)
+- [Sociedad Deportiva Huesca](https://www.sdhuesca.es/)
+- [Valencia Club de Fútbol](https://www.valenciacf.com/es)
+- [Villarreal CF](https://www.villarrealcf.es/)
+
+###### 2nd Division
+- [Agrupación Deportiva Alcorcón](https://www.adalcorcon.com/)
+- [Albacete Balompié](https://www.albacetebalompie.es/)
+- [C.D. Leganés](https://www.cdleganes.com/)
+- [C.F. Fuenlabrada](https://www.cffuenlabrada.es/)
+- [CD Castellón](http://www.cdcastellon.com/)
+- [CD Lugo](https://www.cdlugo.com/)
+- [CD Mirandés](https://www.cdmirandes.com/)
+- [CE Sabadell FC](https://www.cesabadell.cat/)
+- [Club Deportivo Tenerife](https://www.clubdeportivotenerife.es/)
+- [FC Cartagena](https://www.fccartagena.es/)
+- [Girona FC](https://www.gironafc.cat/es)
+- [Ibiza Ud](https://www.ibizaud.com/)
+- [Málaga Club de Fútbol](https://www.malagacf.com/)
+- [Rayo Vallecano](http://www.rayovallecano.es/)
+- [RCD Espanyol](https://www.rcdespanyol.com/)
+- [RCD Mallorca](https://www.rcdmallorca.es/)
+- [Real Oviedo](https://www.realoviedo.es/)
+- [Real Sporting de Gijón](https://www.realsporting.com/)
+- [Real Zaragoza](https://www.realzaragoza.com/)
+- [SD Ponferradina](http://www.sdponferradina.com/)
+- [UD Las Palmas](https://www.udlaspalmas.es/)
+- [Unión Deportiva Almería](http://www.udalmeriasad.com/)
+- [Unión Deportiva Logroñés](https://udlogrones.com/)
+
+###### Bundesliga
+- [Bayer 04](https://www.bayer04.de/en-us)
+- [Borussia Dortmund](https://www.bvb.de/)
+- [Borussia Mönchengladbach](https://www.borussia.de/de)
+- [Eintracht Frankfurt](https://www.eintracht.de/)
+- [FC Bayern Munich](https://fcbayern.com/en)
+- [FC Gelsenkirchen-Schalke 04](https://schalke04.de/)
+- [FC Kaiserslautern](https://fck.de/de)
+- [Hamburger Sport-Verein](https://www.hsv.de/en/homepage)
+- [SV Werder Bremen](https://www.werder.de/)
+- [VfB Stuttgart](https://www.vfb.de/en)
+
+###### Ligue 1
+- [AS Monaco](https://www.asmonaco.com/en)
+- [AS Saint-Etienne](https://www.asse.fr/)
+- [FC Girondins](https://www.girondins.com/fr)
+- [FC Nantes](https://www.fcnantes.com/)
+- [Lille LOSC](https://www.losc.fr/)
+- [OGC Nice](https://www.ogcnice.com/en)
+- [Olympique de Marseille](https://www.om.fr/fr)
+- [PSG](https://www.psg.fr/)
+- [Stade Rennais](https://www.staderennais.com/)
+- [Univers OL](https://www.ol.fr/fr-FR/prehome)
+
+###### Premier League
+- [Arsenal](https://www.arsenal.com/)
+- [Aston Villa FC](https://www.avfc.co.uk/)
+- [Blackburn Rovers](https://www.rovers.co.uk/)
+- [Chelsea Football Club](https://www.chelseafc.com/en)
+- [Everton Football Club](https://www.evertonfc.com/)
+- [Leeds United](https://www.leedsunited.com/)
+- [Leicester City](https://www.lcfc.com/)
+- [Liverpool FC](https://www.liverpoolfc.com/)
+- [Manchester City FC](https://www.mancity.com/)
+- [Manchester United](https://www.manutd.com/)
+- [Newcastle United](https://www.nufc.co.uk/)
+- [Swindon Town](https://www.swindontownfc.co.uk/)
+- [Tottenham Hotspur](https://www.tottenhamhotspur.com/)
+- [West Bromwich Albion](https://www.wba.co.uk/)
+- [West Ham United](https://www.whufc.com/)
+- [Wigan Athletic FC](https://wiganathletic.com/)
+
+###### Primeira Liga
+- [C.S. Marítimo](https://www.csmaritimo.org.pt/)
+- [FC Porto](https://www.fcporto.pt/en)
+- [SL Benfica](https://www.slbenfica.pt/)
+- [Sporting Clube de Portugal](https://www.sporting.pt/en)
+- [Vitória Sport Clube](https://vitoriasc.pt/)
+
+###### Serie A
+- [AC Milan](https://www.acmilan.com/it)
+- [ACF Fiorentina](https://www.acffiorentina.com/en)
+- [AsRoma](https://www.asroma.com/)
+- [Atalanta](https://www.atalanta.it/)
+- [Cagliari Calcio](https://www.cagliaricalcio.com/)
+- [Inter.it](https://www.inter.it/en)
+- [Juventus](https://www.juventus.com/it)
+- [Parma Calcio 1913](https://parmacalcio1913.com/)
+- [S.S. Lazio](http://www.sslazio.it/it)
+- [SSC Napoli](https://www.sscnapoli.it/)
+- [U.C. Sampdoria](https://www.sampdoria.it/en)
+- [Udinese](https://www.udinese.it/)
+
+#### Translation Company
+- [Iyuno-SDI](https://iyuno-sdi.com/)
+- [KeywordsStudios](https://www.keywordsstudios.com/)
+- [LanguageLine Solutions](https://www.languageline.com/)
+- [Lionbridge Translation](https://www.lionbridge.com/)
+- [Okodia](https://www.okodia.com/)
+- [RWS](https://www.rws.com/)
+- [Translated](https://translated.com/welcome)
+- [Translation Agency](https://www.translationagency.com/)
+- [TransPerfect](https://www.transperfect.com/)
+
+#### Transport Company
+- [Kiessling Transit](https://kiesslingtransit.com/) — Transportation Management Services in Massachusetts
+- [Thermo Europ](https://www.thermoeurop.com/)
+- [Zoox](https://zoox.com/)
+
+##### Airline
+- [Aegean Airlines](https://es.aegeanair.com/)
+- [Aerolíneas Argentinas](https://www.aerolineas.com.ar/)
+- [Air Canada](https://www.aircanada.com/es/en/aco/home.html#/)
+- [Air Europa](https://www.aireuropa.com/en/flights)
+- [Air France](https://www.airfrance.com/indexCom_en.html)
+- [Alaska Airlines](https://www.alaskaair.com/)
+- [Binter](https://www.bintercanarias.com/)
+- [Canaryfly.es](https://www.canaryfly.es/) — Canaryfly Web Oficial
+- [Emirates flights](https://www.emirates.com/english)
+- [Emirates SkyCargo](https://www.skycargo.com/)
+- [Ethiopian Airlines](https://www.ethiopianairlines.com/es)
+- [Etihad Airways](https://www.etihad.com/en)
+- [IBERIA](https://iberia.com/)
+- [IBERIA Air Nostrum](http://www.airnostrum.es/)
+- [Iberia Express](https://www.iberiaexpress.com/)
+- [JetBlue](https://www.jetblue.com/)
+- [KLM Airlines](https://www.klm.nl/)
+- [LEVEL airlines](https://www.flylevel.com/)
+- [Lufthansa](https://www.lufthansa.com/es/en/homepage)
+- [Norwegian](https://www.norwegian.com/es)
+- [Oneworld](https://www.oneworld.com/)
+- [Qantas](https://www.qantas.com/us/en.html)
+- [Qatar Airways](https://www.qatarairways.com/es-es/homepage.html)
+- [Ryanair](https://www.ryanair.com/es/es)
+- [Singapore Airlines](https://www.singaporeair.com/es_ES/es/home#/book/bookflight)
+- [Turkish Airlines](https://www.turkishairlines.com/es-es)
+- [Vueling](https://www.vueling.com/es)
+
+###### Jets
+- [MiGFlug.com](https://migflug.com/)
+- [Zero-G](https://www.gozerog.com/)
+
+###### Private Jet
+- [Charter A](https://www.charter-a.com/)
+- [NovaJet](https://www.novajet.com/)
+- [Wacaf AIR](https://www.wacafair.com/es)
+
+##### Automobile
+
+###### Autobus
+- [Alsa](https://www.alsa.es/)
+- [Busbud](https://www.busbud.com/es)
+- [GotoBus](https://www.gotobus.com/)
+- [TransHierro](http://www.transhierro.com/)
+
+###### Rent a Car
+- [Autos Bamir](http://autosbamir.es/)
+- [AutosPlusCar](https://www.autospluscar.com/)
+- [Avis](https://www.avis.es/)
+- [CICAR](https://www.cicar.com/)
+- [Cruz Alta rent a car](https://cruzaltarentacar.com/)
+- [DoYouSpain](https://www.doyouspain.com/alquiler-coches/index.htm)
+- [Europcar](https://www.europcar.es/)
+- [Happycar](https://www.happycar.es/)
+- [Pepecar](https://www.pepecar.com/)
+- [Priceline](https://www.priceline.com/)
+- [Rentalcars.com](https://www.rentalcars.com/)
+- [Sixt Rent a Car](https://www.sixt.com/#/)
+
+###### Ridesharing & Mobility
+- [BlaBlaCar](https://www.blablacar.com/)
+- [BlaBlaCar- Viaja de forma económica y sostenible](https://www.blablacar.es/)
+- [Blitzer.de](https://www.blitzer.de/en/) — Homepage
+- [Bolt](https://bolt.eu/es)
+- [Cabify](https://cabify.com/es)
+- [DiDi](https://www.didiglobal.com/)
+- [FREENOW](https://www.free-now.com/es/) — la mejor app de taxis de Europa, presente en 150 ciudades
+- [Lyft](https://www.lyft.com/)
+- [TRIBBU](https://www.tribbuapp.com/) — La app para compartir coche
+- [Uber](https://www.uber.com/es/en/)
+- [Waymo](https://waymo.com/) — Self-Driving Cars - Autonomous Vehicles - Ride-Hail
+
+###### Taxi
+- [MiTaxi.net](https://www.mitaxi.net/)
+- [Taxi-Calculador](https://www.taxi-calculador.es/)
+
+##### Maritime
+- [CIMC](https://www.cimc.com/)
+- [CMA CGM GROUP](https://www.cmacgm-group.com/en)
+- [CSBC Corp](https://www.csbcnet.com.tw/)
+- [CST GRUPO](https://cstgrupo.com/)
+- [Delnext](https://www.delnext.com/EN)
+- [DSV](https://www.dsv.com/en)
+- [Evergreen Group](https://www.evergreen-group.com/)
+- [Hapag-Lloyd](https://www.hapag-lloyd.com/en/home.html)
+- [Maersk](https://www.maersk.com/)
+- [MSC](https://www.msc.com/esp)
+- [ONE-line](https://www.one-line.com/en)
+- [Samsungshi](http://www.samsungshi.com/kor/default.aspx)
+- [YangMing Marine](https://www.yangming.com/)
+
+##### Metro
+- [MetroTenerife](https://metrotenerife.com/)
+- [Renfe](http://www.renfe.com/)
+
+###### Bus
+- [Autos LaRegional](https://www.autocareslaregional.com/)
+- [Guaguas GC](https://www.guaguas.com/)
+- [Ten+](https://tenmas.es/)
+- [Ten+ Solictud](https://solicitud.tenmas.es/)
+- [TITSA](https://titsa.com/)
+
+##### Ships
+- [Carnival Corp](https://www.carnivalcorp.com/)
+- [DSME](https://www.dsme.co.kr/pub/main/index.do)
+- [Ferry Baleària](https://www.balearia.com/es/reservar)
+- [Fred. Olsen](https://www.fredolsen.es/es)
+- [Grimaldi Lines](https://www.grimaldi-lines.com/es)
+- [Meyer Werft](https://www.meyerwerft.de/de/)
+- [Naviera Armas · Billetes de ferry y barco](https://www.navieraarmas.com/)
+- [P&O Cruises](https://www.pocruises.com/)
+- [Princess ship](https://www.princess.com/)
+- [Snav](https://www.snav.it/)
+- [Tirrenia](https://www.tirrenia.it/)
+- [Trasmapi](https://www.trasmapi.com/)
+- [Trasmediterránea](https://www.trasmediterranea.es/)
+
+##### Train
+- [Adif](https://www.adif.es/inicio)
+- [CN train](https://www.cn.ca/en/)
+- [CSX](https://www.csx.com/)
+- [Deutsche Bahn](https://www.deutschebahn.com/de)
+- [Euskotren](https://www.euskotren.eus/en)
+- [FCH2RAIL](https://fch2rail.eu/) — DLR Transport
+- [FS Italiane](https://www.fsitaliane.it/)
+- [GWRR](https://www.gwrr.com/)
+- [Kansas City Southern](https://www.kcsouthern.com/en-us/)
+- [Metra](https://metra.com/)
+- [Norfolk Southern](http://nscorp.com/content/nscorp/en.html)
+- [Renfe](https://www.renfe.com/es/es)
+- [SNCF](https://www.sncf.com/fr)
+- [Trenitalia](https://www.trenitalia.com/)
+- [Union Pacific](https://www.up.com/index.htm)
+- [Welcome to Metrolink](https://metrolinktrains.com/)
 
 ### Technology Company
 - [Altair](https://altair.com/) — Discover Continuously. Advance Infinitely - Only Forward.
@@ -1146,79 +3212,13 @@ description: Stores, marketplaces, product research, and resale
 - [Western Electric](https://www.westernelectric.com/)
 - [Xerox](https://www.xerox.com/en-us)
 
-##### Phone Company
-- [Alcatel Mobile](https://www.alcatelmobile.com/)
-- [apple](https://www.apple.com/iphone)
-- [BlindShell](https://www.blindshell.com/)
-- [Cubot](https://www.cubot.net/)
-- [DOOGEE](https://www.doogee.cc/)
-- [Doro phones](https://www.doro.com/en-gb)
-- [Encrypted OS](https://www.encrypted-os.com/) — Silent Circle Blackphone 2
-- [F(x)tec](https://www.fxtec.com/)
-- [Fairphone](https://www.fairphone.com/en)
-- [Fairphone](https://www.fairphone.com/nl)
-- [Google Pixel](https://store.google.com/magazine/compare_pixel)
-- [HONOR](https://www.hihonor.com/global)
-- [HTC](https://www.htc.com/es)
-- [HUAWEI](https://consumer.huawei.com/es/phones)
-- [iQOO](https://www.iqoo.com/in)
-- [Kapsys](https://www.kapsys.com/en/)
-- [LG Phones](https://www.lg.com/es/telefonos-moviles)
-- [Motorola](https://www.motorola.com/us)
-- [Murena](https://murena.com/products/smartphones/) — deGoogled phones and services
-- [Murena](https://murena.com/) — privacy by design smartphones
-- [NexPhone](https://nexphone.com/) — Your phone as PC
-- [Nokia](https://www.nokia.com/es_int)
-- [Nokia Bell Labs](https://www.bell-labs.com/)
-- [OnePlus](https://www.oneplus.com/es)
-- [OPPO](https://www.oppo.com/en)
-- [POCO](https://www.poco.net/es)
-- [RAZ Mobility](https://www.razmobility.com/) — Next Generation Assistive Technology
-- [Realme](https://www.realme.com/es)
-- [RedMagic](https://eu.redmagic.gg/)
-- [Samsung](https://www.samsung.com/es/smartphones/all-smartphones)
-- [SHIFT Phones](https://www.shiftphones.com/)
-- [shift.eco](https://www.shift.eco/en/) — Sustainable technology from Germany
-- [Smartisan](https://www.smartisan.com/)
-- [Sony mobiles](https://www.sony.es/electronics/movil)
-- [The Light Phone](https://www.thelightphone.com/)
-- [Ulefone](https://m.ulefone.com/)
-- [vivo](https://www.vivo.com/en)
-- [Volla Mobile Devices](https://volla.online/en/index.php)
-- [Wileyfox](https://wileyfox.com/)
-- [Xiaomi](https://www.mi.com/es)
-- [Xiaomi](https://www.mi.com/es/list) — List
-- [ZTE](https://www.ztedevices.com/en)
-
-###### Wereable Company
-- [Amazfit Global](https://www.amazfit.com/) — Official Online Store
-- [Garmin](https://www.garmin.com/es-ES/)
-- [Garmin](https://www.garmin.com/en-US/)
-- [Huami](https://www.huami.com/) — Empowering Health, Inspiring Joy
-- [Suunto](https://www.suunto.com/es-es/) — sports watches, dive products, compasses and accessories
-
-##### Camera Company
-- [Canon Global](https://global.canon/en)
-- [Fujifilm Global](https://www.fujifilm.com/)
-- [KODAK PIXPRO](https://kodakpixpro.com/)
-- [MOKOSE HDMI SDI Cameras](https://www.mokose.com/)
-- [Nikon](https://www.nikon.com/)
-- [Olympus Global](https://www.olympus-global.com/)
-- [RICOH European Store](https://www.ricoh-imaging.eu/)
-
-###### Lens Cameras
-- [Canon cámaras](https://store.canon.es/search/s/priceDesc/f/324941518)
-- [Canon objetivos](https://www.canon.es/lenses/lens-type)
-- [Fujifilm cámaras](https://www.fujifilm.eu/es/productos/camaras-digitales/camaras-de-objetivos-intercambiables)
-- [GoPro](https://gopro.com/es/es)
-- [Kodak camaras](https://kodakpixpro.com/cameras)
-- [Nikon España](https://www.nikon.es/es_ES/products/category_pages/digital_cameras/category_slr.page)
-- [Olympus cámaras](https://www.olympus.es/site/es/c/index.html)
-- [Panasonic Cámaras Lumix S](https://www.panasonic.com/es/consumer/camaras-y-videocamaras/camaras-lumix-s.html)
-- [Ricoh](https://us.ricoh-imaging.com/) — Pentax cameras
-- [SIGMA Corporation of America](https://www.sigmaphoto.com/)
-- [Sony cámaras](https://www.sony.es/electronics/camaras)
-- [Viltrox](https://viltroxstore.com/)
+##### Air Conditioning Company
+- [Daikin Global](https://www.daikin.com/)
+- [Electrolux](https://www.electrolux.co.uk/)
+- [Ingersoll Rand](https://www.ingersollrand.com/en-us)
+- [Johnson Controls](https://www.johnsoncontrols.com/)
+- [Lennox](https://www.lennox.com/)
+- [Nortek Global HVAC](https://www.nortekhvac.com/)
 
 ##### Audio Company
 - [AKG](https://www.akg.com/)
@@ -1283,11 +3283,6 @@ description: Stores, marketplaces, product research, and resale
 - [Yamaha](https://es.yamaha.com/index.html) — España
 - [ZOOM](https://zoomcorp.com/en/us)
 
-###### Microphone Company
-- [3Dio](https://3diosound.com/) — Professional Binaural Microphones
-- [RØDE](https://www.rode.com/)
-- [Shure](https://www.shure.com/es-ES)
-
 ###### Headphones Company
 - [Audioquest](https://personal.audioquest.com/)
 - [Dan Clark Audio](https://danclarkaudio.com/)
@@ -1308,286 +3303,445 @@ description: Stores, marketplaces, product research, and resale
 - [THX](https://www.thx.com/)
 - [Turtle Beach](https://www.turtlebeach.com/)
 
-##### Vehicle Company
+###### Microphone Company
+- [3Dio](https://3diosound.com/) — Professional Binaural Microphones
+- [RØDE](https://www.rode.com/)
+- [Shure](https://www.shure.com/es-ES)
 
-###### Spacecraft
-- [Arianespace](https://www.arianespace.com/)
-- [Blue Origin](https://www.blueorigin.com/)
-- [Celestia Aerospace](https://celestiaaerospace.com/)
-- [Firefly Aerospace](https://firefly.com/)
-- [Relativity Space](https://www.relativityspace.com/)
-- [Sent Into Space](https://www.sentintospace.com/)
-- [Sierra Nevada Corporation](https://www.sncorp.com/) — SNC
-- [SpaceX](https://www.spacex.com/)
-- [Stoke Space / 100% reusable rockets / USA](https://www.stokespace.com/)
-- [Stratolaunch](https://www.stratolaunch.com/)
-- [United Launch Alliance](https://www.ulalaunch.com/)
+##### Batteries Company
+- [CSB Energy Technology](https://www.csb-battery.com/)
+- [Duracell](https://www.duracell.es/)
+- [Electrochem](https://electrochemsolutions.com/home/default.aspx)
+- [Energizer](https://www.energizer.com/)
+- [FDK Corp](https://www.fdk.com/)
+- [Hankook AtlasBX](https://www.hankook-atlasbx.com/en)
+- [Procell](https://www.procell.com/es)
+- [VARTA](http://varta.com/)
 
-**Space Transportation**
-- [EOS X Spaceship](https://www.eosxspace.com/)
-- [Exotrail](https://exotrail.com/)
-- [Spaceflight](https://spaceflight.com/)
-- [Stratoflights](https://www.stratoflights.com/)
-- [Zero 2 Infinity](https://www.zero2infinity.space/)
+##### Biotechnology Company
+- [23andMe International](https://www.23andme.com/) — DNA Genetic Testing For Ancestry & Traits
+- [Agenus](https://agenusbio.com/)
+- [Bionity.com](https://www.bionity.com/de/)
+- [Biowin](https://biowin.org/)
+- [Brainlab](https://www.brainlab.com/)
+- [Calico](https://www.calicolabs.com/)
+- [CRI Genetics](https://www.crigenetics.com/) — DNA Testing Kit | Health, Ancestry & Traits
+- [CureVac](https://www.curevac.com/en/)
+- [Dexcom CGM](https://www.dexcom.com/home)
+- [Esper Bionics](https://esperbionics.com/)
+- [Genentech](https://www.gene.com/)
+- [Illumina](https://www.illumina.com/)
+- [Isomorphic Labs](https://www.isomorphiclabs.com/) — Reimagining Drug Discovery Process with AI
+- [Lumon Industries](https://lumon.industries/)
+- [Motiv Ring](https://www.mymotiv.com/)
+- [Neuralink](https://neuralink.com/)
+- [Nothing (España)](https://es.nothing.tech/)
+- [Oxitec](https://www.oxitec.com/)
+- [Sonova International](https://www.sonova.com/en)
 
-**Propulsion Company**
-- [Agile Space](https://www.agile.space/)
-- [Air Command Water Rockets](http://www.aircommandrockets.com/)
-- [Astrobotic](https://www.astrobotic.com/)
-- [LAUNCHER](https://launcherspace.com/)
-- [Momentus](https://momentus.space/)
-- [Pangea Aerospace](https://pangeaaerospace.com/)
-- [Phase Four](https://www.phasefour.io/)
-- [PLD Space](https://www.pldspace.com/)
-- [Rocket Lab](https://www.rocketlabusa.com/)
+##### Camera Company
+- [Canon Global](https://global.canon/en)
+- [Fujifilm Global](https://www.fujifilm.com/)
+- [KODAK PIXPRO](https://kodakpixpro.com/)
+- [MOKOSE HDMI SDI Cameras](https://www.mokose.com/)
+- [Nikon](https://www.nikon.com/)
+- [Olympus Global](https://www.olympus-global.com/)
+- [RICOH European Store](https://www.ricoh-imaging.eu/)
 
-###### Car Company
-- [Abarth](https://www.abarth.it/)
-- [Acura](https://www.acura.com/)
-- [Alfa Romeo](https://www.alfaromeo.com/)
-- [Alpine Cars](https://www.alpinecars.com/en)
-- [Aston Martin](https://www.astonmartin.com/en)
-- [Audi España](https://www.audi.es/es/web/es.html)
-- [Bentley Motors](https://www.bentleymotors.com/en.html)
-- [BMW Group](https://www.bmwgroup.com/en.html)
-- [BMW M](https://www.bmw-m.com/en/index.html)
-- [Bugatti](https://www.bugatti.com/)
-- [Cadillac](https://www.cadillac.com/)
-- [Car Logos](https://www.carlogos.org/)
-- [Carlsson](https://www.carlsson.de/)
-- [Chevrolet](https://www.chevrolet.com/)
-- [Chrysler](https://www.chrysler.com/)
-- [Citroën](https://www.citroen.com/en)
-- [Dacia](https://www.dacia.es/)
-- [Datsun](https://www.datsun.com/)
-- [Dodge](https://www.dodge.com/)
-- [DS automobiles](https://www.dsautomobiles.com/fr/)
-- [Ferrari](https://www.ferrari.com/it-IT)
-- [FIAT](https://www.fiat.com/)
-- [Geely](https://www.geely.com/)
-- [GENESIS](https://www.genesis.com/worldwide/en/main.html)
-- [GMC](https://www.gmc.com/)
-- [HINO](https://www.hino-global.com/)
-- [Honda](https://www.honda.com/)
-- [HWA](https://www.hwaag.com/de)
-- [Hyundai](https://www.hyundai.com/worldwide)
-- [INFINITI](https://www.infiniti.com/)
-- [IVECO](https://www.iveco.com/Pages/Iveco-brands.html)
-- [Jaguar](https://www.jaguar.com/index.html)
-- [Jeep](https://www.jeep.com/)
-- [KIA](https://www.kia.com/es)
-- [Koenigsegg](https://www.koenigsegg.com/)
-- [Lamborghini](https://www.lamborghini.com/es-en)
-- [Lancia](https://www.lancia.com/)
-- [Land Rover](https://www.landrover.com/index.html)
-- [Lincoln](https://www.lincoln.com/)
-- [Lotus Cars](https://www.lotuscars.com/)
-- [Maserati](https://www.maserati.com/international/en)
-- [Maybach](https://www.maybach.com/)
-- [Mazda](https://www.mazda.com/)
-- [Mazzanti](https://www.mazzantiautomobili.it/en)
-- [McLaren](https://www.mclaren.com/)
-- [Mercedes-Benz](https://www.mercedes-benz.com/en)
-- [Mini](https://www.mini.com/en_MS/home.html)
-- [Mitsubishi Motors](https://www.mitsubishi-motors.com/en/index.html)
-- [Nissan](https://www.nissan-global.com/EN/index.html)
-- [Opel](https://www.opel.es/)
-- [Pagani](https://www.pagani.com/)
-- [Porsche](https://www.porsche.com/spain)
-- [Ram Trucks](https://www.ramtrucks.com/)
-- [Renault](https://www.renault.es/)
-- [SEAT](https://www.seat.es/)
-- [ŠKODA](https://www.skoda-auto.com/)
-- [Smart cars](https://www.smart.com/int/en/home#972)
-- [Subaru](https://www.subaru.com/)
-- [Suzuki](https://www.globalsuzuki.com/)
-- [TATA](https://www.tatamotors.com/)
-- [Toyota es](https://www.toyota.es/)
-- [Volvo](https://www.volvo.com/home.html)
-- [Waymo](https://waymo.com/intl/es/) — Vehículos autónomos
-- [Yamaha Motor](https://global.yamaha-motor.com/)
+###### Lens Cameras
+- [Canon cámaras](https://store.canon.es/search/s/priceDesc/f/324941518)
+- [Canon objetivos](https://www.canon.es/lenses/lens-type)
+- [Fujifilm cámaras](https://www.fujifilm.eu/es/productos/camaras-digitales/camaras-de-objetivos-intercambiables)
+- [GoPro](https://gopro.com/es/es)
+- [Kodak camaras](https://kodakpixpro.com/cameras)
+- [Nikon España](https://www.nikon.es/es_ES/products/category_pages/digital_cameras/category_slr.page)
+- [Olympus cámaras](https://www.olympus.es/site/es/c/index.html)
+- [Panasonic Cámaras Lumix S](https://www.panasonic.com/es/consumer/camaras-y-videocamaras/camaras-lumix-s.html)
+- [Ricoh](https://us.ricoh-imaging.com/) — Pentax cameras
+- [SIGMA Corporation of America](https://www.sigmaphoto.com/)
+- [Sony cámaras](https://www.sony.es/electronics/camaras)
+- [Viltrox](https://viltroxstore.com/)
 
-**Group Cars Companies**
-- [Daimler](https://www.daimler.com/en)
-- [Domingo Alonso Group](https://www.domingoalonsogroup.com/es/) — Automoción
-- [Electric Life Group](https://www.electriclifegroup.com/)
-- [Faraday Future](https://www.ff.com/)
-- [Ford](https://www.ford.com/)
-- [General Motors](https://www.gm.com/)
-- [Groupe Renault](https://group.renault.com/)
-- [Hyundai Motor Group](https://www.hyundaimotorgroup.com/Index.hub)
-- [Toyota](https://global.toyota/)
-- [Volkswagen Group](https://www.volkswagenag.com/)
-- [Volvo Group](https://www.volvogroup.com/)
+##### Computer Company
 
-**Tesla**
-- [DeepScale](http://deepscale.ai/)
-- [Hibar Systems](https://www.hibar.com/)
-- [Maxwell Technologies](https://www.maxwell.com/)
-- [Tesla](https://www.tesla.com/)
-- [Tesla Grohmann Automation](https://teslagrohmannautomation.de/en)
-- [The Boring Company](https://www.boringcompany.com/)
+###### Computer Hardware
+- [Acer](https://www.acer.com/ac/es/ES/content/home)
+- [AORUS](https://www.aorus.com/)
+- [ASUS](https://www.asus.com/es)
+- [Asus ROG](https://rog.asus.com/)
+- [CORSAIR](https://www.corsair.com/es/es)
+- [COUGAR](https://cougargaming.com/)
+- [Dell](https://www.dell.com/en-us)
+- [Frame.work](https://frame.work/)
+- [Framework Laptop](https://frame.work/es/en/)
+- [GIGABYTE](https://www.gigabyte.com/)
+- [Heltec Automation](https://heltec.org/) — International LoRa/LoRaWAN/Meshtastic/IoT Devices Manufacturer
+- [HP](https://www.hp.com/us-en/home.html)
+- [Khadas](https://www.khadas.com/)
+- [Kubuntu Focus](https://kfocus.org/)
+- [Lenovo](https://www.lenovo.com/us/en/)
+- [LILYGO®](https://lilygo.cc/) — Committed To The Research & Development Of IoT
+- [MALIBAL](https://www.malibal.com/) — Custom Linux Laptops, Workstations & Servers
+- [Manjaro Notebooks](https://www.manjarocomputer.eu/)
+- [manjarocomputer.eu](https://www.manjarocomputer.eu/index.php/en/)
+- [minisforum](https://www.minisforum.com/)
+- [MonsterLabo](https://www.monsterlabo.com/)
+- [NovaCustom](https://novacustom.com/)
+- [ORICO](https://oricotechs.com/) — The Best Data Storage for Home, Office and Business
+- [Origin PC](https://www.originpc.com/)
+- [Puri.sm](https://puri.sm/)
+- [Seasonic](https://seasonic.com/) — Power Supply for Computer
+- [SLIMBOOK](https://slimbook.com/) — portátiles y ordenadores Linux
+- [Slimbook KDE](https://kde.slimbook.es/)
+- [SpecFive LLC](https://specfive.com/) — Complete Meshtastic Devices
+- [Starlabs Systems](https://starlabs.systems/) — Linux Laptops
+- [superworkstations](https://superworkstations.com/) — Configure Your Workstation
+- [System76](https://system76.com/)
+- [TUXEDO Computers](https://www.tuxedocomputers.com/)
+- [UPERPERFECT](https://www.uperfectmonitor.com/es/) — monitor portatil para portatil gaming 4k tactil
+- [Zima](https://www.zimaspace.com/) — Elevating Your Computing Experience with ZimaBoard Servers & Personal Cloud Solutions
 
-**Tire Manufacturers**
-- [Bridgestone](https://www.bridgestone.com/)
-- [Continental](https://www.continentaltire.com/)
-- [Goodyear Tires](https://www.goodyear.com/)
-- [Groupe Michelin](https://www.michelin.com/)
-- [Motorsport](https://www.motorsport.com/)
-- [Pirelli](https://www.pirelli.com/global/en-ww/homepage)
-- [Sumitomo tires](http://www.sumitomotire.com/Home/default)
-- [Yokohama Tire](https://www.yokohamatire.com/)
+###### Computer Networking
+- [Aalyria](https://www.aalyria.com/)
+- [Broadcom Inc.](https://www.broadcom.com/)
+- [i3D.net](https://www.i3d.net/)
+- [MikroTik](https://mikrotik.com/)
+- [Netgear](https://www.netgear.com/)
+- [Plugable](https://plugable.com/)
+- [rock space](https://www.rockspace.cc/)
+- [TP-Link](https://www.tp-link.com/en)
+- [TPV](https://www.tpv-tech.com/en/home.aspx)
+- [WD](https://www.mycloud.com/#/) — My Cloud
 
-**Flying Cars**
-- [EHang](https://www.ehang.com/index)
-- [Klein Vision](https://www.klein-vision.com/)
-- [SkyDrive](https://en.skydrive2020.com/)
+###### Drive Storage Company
+- [Crucial](https://www.crucial.com/)
+- [JMicron](https://www.jmicron.com/) — Leading the Storage Revolution!
+- [JUANWE](https://juanwe.com/)
+- [Kingston](https://www.kingston.com/en)
+- [LaCie](https://www.lacie.com/es/es)
+- [SD Association](https://www.sdcard.org/)
+- [Seagate](https://www.seagate.com/es/es)
+- [SSK](https://eng.ssk.cn/)
+- [Toshiba](http://www.toshiba.co.jp/worldwide)
+- [Western Digital](https://www.westerndigital.com/)
 
-###### Boat Company
-- [Discover Boating](https://www.discoverboating.com/)
-- [Native Watercraft](https://nativewatercraft.com/)
-- [Quadrofoil](https://quadrofoil.com/)
+###### Gaming Peripherals Company
+- [8BitDo](https://www.8bitdo.com/)
+- [ARCTIC](https://www.arctic.de/en)
+- [AYANEO](https://www.ayaneo.com/)
+- [Bluemic](https://www.bluemic.com/en-us)
+- [DAREU Keep Fighting](https://www.dareu.com/)
+- [Deep Gaming](https://deepgaming.es/)
+- [EKWB](https://www.ekwb.com/)
+- [Elgato](https://www.elgato.com/en)
+- [Ewent](https://www.ewent.com/en-us/)
+- [Fanatec](https://fanatec.com/eu-en)
+- [G-Lab](https://the-g-lab.tech/)
+- [Genesis](https://genesis-zone.com/)
+- [HORI USA](https://stores.horiusa.com/)
+- [HyperX](https://www.hyperxgaming.com/es)
+- [HyperX](https://hyperx.com/) — High Quality Gaming Gear
+- [Kinesis Gaming](https://gaming.kinesis-ergo.com/)
+- [Krom Gaming](https://www.kromgaming.com/)
+- [Logitech](https://www.logitech.com/es-es)
+- [Logitech G](https://www.logitechg.com/es-es)
+- [MSI](https://www.msi.com/index.php)
+- [NACON](https://www.nacongaming.com/)
+- [Nacon](https://www.nacongaming.com/en-US/)
+- [NZXT](https://www.nzxt.com/)
+- [OMEN Gaming](https://www.omen.com/us/en.html)
+- [Razer](https://www.razer.com/)
+- [ROCCAT](https://en.roccat.org/)
+- [SCUF Gaming](https://scufgaming.com/eu)
+- [Shenzhen GPD Technology](https://www.gpd.hk/)
+- [Steam Deck](https://www.steamdeck.com/en/)
+- [SuiPlay0X1](https://www.suiplay0x1.com/) — Next-Gen Handheld Gaming Device Powered By Sui
+- [Thermaltake](https://www.thermaltake.com/)
+- [TooQ Technology](https://tooq.com/)
+- [Xtechamericas](https://www.xtechamericas.com/es)
 
-###### Aeroplane Company
-- [ACE Aerospace](https://aceaerospaceinc.com/)
-- [AdamWorks](https://adamworksinc.com/)
-- [Airbus](https://www.airbus.com/)
-- [Airbus A310 Zero G](https://www.airzerog.com/)
-- [ATR Aircraft](http://www.atraircraft.com/)
-- [Avionics Interface Technologies](https://aviftech.com/) — A Teradyne Company
-- [Boeing](https://www.boeing.com/)
-- [Bombardier](https://www.bombardier.com/en/home.html)
-- [Bombardier](https://bombardier.com/en)
-- [Cessna](https://cessna.txtav.com/) — Textron Aircraft
-- [Collins Aerospace](https://www.collinsaerospace.com/)
-- [Embraer](https://www.embraercommercialaviation.com/)
-- [EXOS Aerospace](https://exosaero.com/)
-- [Gulfstream](https://www.gulfstream.com/en/)
-- [KinetX](https://www.kinetx.com/)
-- [Lockheed Martin](https://lockheedmartin.com/en-us/index.html)
-- [Lufthansa Technik](https://www.lufthansa-technik.com/)
-- [Nammo](https://www.nammo.com/)
-- [Raytheon Intelligence & Space](https://www.raytheonintelligenceandspace.com/)
-- [Scaled Composites](https://www.scaled.com/)
-- [Technology Service Corporation](https://tsc.com/)
-- [Textron Aviation](https://txtav.com/)
-- [Venture Aerospace](https://aerospace.inc/)
-- [Vertical Aerospace](https://www.vertical-aerospace.com/)
-- [Virgin Galactic](https://www.virgingalactic.com/)
-- [Zenith Aircraft](https://www.zenithair.net/)
-- [ZeroAvia](https://www.zeroavia.com/)
+###### Graphic Cards
+- [EVGA](https://www.evga.com/)
+- [Free desktop Nouveau](https://nouveau.freedesktop.org/)
+- [Nvidia](https://www.nvidia.com/en-us/)
+- [NVIDIA Developer](https://developer.nvidia.com/)
+- [NVIDIA Documentation](https://docs.nvidia.com/)
 
-###### Tractors and Machines
-- [Caseih](https://www.caseih.com/emea/fr-fr)
-- [CLAAS of America](https://www.claasofamerica.com/)
-- [Fendt](https://www.fendt.com/uk)
-- [International Trucks](https://www.internationaltrucks.com/)
-- [John Deere](https://www.deere.com/en)
-- [Kubota](https://www.kubota.com/)
-- [LANDINI](https://www.landini.it/as)
-- [Mahindra](https://www.mahindrausa.com/)
-- [Massey Ferguson](https://www.masseyferguson.com/en.html)
-- [Massey Ferguson](https://www.masseyferguson.us/)
-- [MCCORMICK](https://www.mccormick.it/as)
-- [New Holland Agriculture](https://agriculture.newholland.com/eu/en-uk)
-- [New Holland Construction](https://agriculture.newholland.com/eu/en-uk/equipment/products/landing-construction)
-- [TAFE](https://www.tafe.com/)
-- [Valmet](https://www.valmet.com/)
-- [Valtra tractors](https://www.valtra.com/)
-- [ZETOR](https://www.zetor.com/)
+###### Keyboard PC
+- [68Keys.io](https://68keys.io/) — Custom 68% Mechanical Keyboard
+- [Akko](https://en.akkogear.com/) — Designer for Mechanical Keyboards
+- [AkkoGear](https://www.akkogear.com/)
+- [Clicks for iPhone](https://www.clicks.tech/)
+- [Das keyboard](https://www.daskeyboard.com/)
+- [Drevo](https://www.drevo.net/)
+- [Ducky Keyboard](https://www.duckychannel.com.tw/en)
+- [Dygma](https://dygma.com/) — The Best Ergonomic Split Keyboards
+- [Epomaker](https://epomaker.com/)
+- [ErgoDox EZ](https://ergodox-ez.com/) — An Incredible Mechanical Ergonomic Keyboard
+- [Everykey](https://everykey.com/)
+- [Happy Hacking Keyboard](https://www.hhkeyboard.com/es)
+- [IQUNIX](https://iqunix.store/)
+- [KBDfans](https://kbdfans.com/)
+- [Keyboardio](https://shop.keyboard.io/) — keyboards for people who love typing
+- [Keychron](https://www.keychron.com/)
+- [Kinesis Ergonomic](https://kinesis-ergo.com/)
+- [Little Keyboards](https://www.littlekeyboards.com/)
+- [Mechanical Keyboards](https://mechanicalkeyboards.com/)
+- [MoErgo](https://www.moergo.com/) — Glove80 Wireless Split Ergonomic Keyboard
+- [MonsGeek](https://www.monsgeek.com/) — Make Cool Gears Accessible.
+- [Omnitype](https://omnitype.com/)
+- [ProtoArc](https://www.protoarc.com/)
+- [QMK Configurator](https://config.qmk.fm/#/handwired/fivethirteen/LAYOUT)
+- [The Keyboard Company](https://www.keyboardco.com/)
+- [Ultimate Hacking Keyboard](https://ultimatehackingkeyboard.com/) — The keyboard. For professionals.
+- [Unicomp, Inc.](https://www.pckeyboard.com/page/SFNT)
+- [Varmilo mechanical keyboard](https://en.varmilo.com/keyboardproscenium/)
+- [WASD Keyboards](https://www.wasdkeyboards.com/)
+- [Wooting keyboards](https://wooting.io/)
+- [Wuque Studio](https://shop.wuquestudio.com/)
+- [ZSA](https://www.zsa.io/go) — Keyboard
 
-###### Bikes Company
-- [Aerovelo](http://www.aerovelo.com/)
-- [BH bikes](https://www.bhbikes.com/es_ES)
-- [BMC Switzerland AG](https://www.bmc-switzerland.com/)
-- [Cannondale Bikes](https://www.cannondale.com/en-us)
-- [Cervélo Cycles](https://www.cervelo.com/en)
-- [Diamondback Bikes](https://www.diamondback.com/)
-- [Felt Bicycles](https://feltbicycles.com/)
-- [Giant Bicycles](https://www.giant-bicycles.com/global)
-- [Gocycle](https://gocycle.com/es)
-- [Guardian Bikes](https://guardianbikes.com/)
-- [Kreidler](https://www.kreidler.com/)
-- [Pinarello](https://pinarello.com/)
-- [Santa Cruz Bicycles](https://www.santacruzbicycles.com/en-US)
-- [Trek Bikes](https://www.trekbikes.com/es/es_ES/countries)
+###### Mice Company
+- [Finalmouse](https://finalmouse.com/)
+- [Hellespont](https://hellespont.com/) — Modern Integrated Ship Management Solutions
+- [PCgamingrace](https://www.pcgamingrace.com/)
+- [Redragon](https://redragonusa.com/)
+- [VAXEE](https://vaxee.co/en)
+- [대우세계경영연구회](https://daewoosky.com/html/main/main.php)
 
-###### Motorbike Company
-- [ARCH Motorcycle](https://www.archmotorcycle.com/)
-- [Bultaco](https://bultacolifestyle.com/)
-- [Ducati](https://www.ducati.com/it/it/home)
-- [Harley-Davidson](https://www.harley-davidson.com/es/es/index.html)
-- [Kawasaki](https://www.kawasaki.com/en-us)
-- [Triumph Motorcycles](https://www.triumphmotorcycles.co.uk/)
-- [Vespa Piaggio](https://www.vespa.com/es_ES)
+###### Monitors
+- [AOC Monitors](https://eu.aoc.com/en)
+- [BenQ Europe](https://www.benq.eu/en-eu/index.html)
+- [Nanosys](https://www.nanosysinc.com/)
 
-**Scooter**
-- [Bird](https://www.bird.co/)
-- [Boosted scooters](https://boostedusa.com/)
-- [Dott](https://ridedott.com/)
-- [EcoReco](https://ecorecoscooter.com/)
-- [GOTRAX](https://gotrax.com/)
-- [Hoverboards](https://hoverboards.com/)
-- [Koowheel](https://www.koowheel.com/)
-- [Lime Micromobility](https://www.li.me/en-us/home)
-- [LINK.city](https://www.link.city/)
-- [Mi Scooters](https://miscooters.com/)
-- [NIU Shop](https://shop.niu.com/) — E Scooter
-- [NIU Smart Electric Scooter](https://www.niu.com/en)
-- [Razor](https://global.razor.com/es)
-- [Segway](https://www.segway.com/)
-- [Skip Scooters](https://rideskip.com/)
-- [SWAGTRON](https://swagtron.com/)
-- [Voro Motors](https://www.voromotors.com/)
-- [Zamelux](https://www.zamelux.com/)
+###### Multifunctional RF Tool
+- [Flipper Zero](https://flipperzero.one/) — Portable Multi-tool Device for Geeks
 
-###### Drons Company
-- [Aerialtronics](https://www.aerialtronics.com/en)
-- [Corvus Robotics](https://www.corvus-robotics.com/)
-- [DJI](https://www.dji.com/es) — Drones
-- [DroneDeploy](https://www.dronedeploy.com/)
-- [Dronefly](https://www.dronefly.com/)
-- [DroneSense](https://dronesense.com/)
-- [EHang](https://www.ehang.com/)
-- [Freefly Systems](https://freeflysystems.com/)
-- [Kespry](https://kespry.com/)
-- [Ouster](https://ouster.com/)
-- [Parrot](https://www.parrot.com/us/)
-- [Parrot](https://www.parrot.com/en)
-- [Propeller](https://www.propelleraero.com/)
-- [Rapid Composites](https://rapidcomposites.com/)
-- [senseFly](https://www.sensefly.com/)
-- [Skydio](https://www.skydio.com/)
-- [Skyfish](https://skyfish.ai/)
-- [SOLUTE](https://solute.us/)
-- [Teal Drones](https://tealdrones.com/)
-- [TerraView](https://terraview.com/)
-- [The Drone Racing League](https://thedroneracingleague.com/)
-- [UMILES](https://umilesgroup.com/) — El mayor proveedor de servicios con drones en España que opera en Europa y Latinoamérica
-- [Union Robotics](https://union-robotics.com/)
-- [Valqari](https://www.valqari.com/)
-- [Volansi](https://volansi.com/)
-- [WiBotic](https://www.wibotic.com/)
-- [YUNEEC](https://shop.yuneec.com/)
+###### Print Company
+- [Moo Design](https://www.moo.com/us/)
 
-###### Jetpacks Company
-- [Gravity Industries](https://gravity.co/)
+**3D Print Company**
+- [3D Systems](https://www.3dsystems.com/)
+- [Bambu Lab](https://bambulab.com/en) — Unleash Your Creativity with Bambu Lab 3D Printers
+- [Carbon 3D](https://www.carbon3d.com/)
+- [CELLINK](https://www.cellink.com/)
+- [Creality](https://www.creality.com/)
+- [Desktop Metal](https://www.desktopmetal.com/)
+- [Fast Radius](https://www.fastradius.com/)
+- [FormLabs](https://formlabs.com/)
+- [Glowforge](https://glowforge.com/)
+- [MakerBot](https://www.makerbot.com/)
+- [Markforged](https://markforged.com/)
+- [Materialise](https://www.materialise.com/en)
+- [Nano DI](https://www.nano-di.com/)
+- [Organovo](https://organovo.com/)
+- [Protolabs](https://www.protolabs.com/)
+- [Rokk3r](https://www.rokk3r.com/)
+- [Shapeways](https://www.shapeways.com/)
+- [Stratasys](https://www.stratasys.com/en)
+- [UltiMaker](https://ultimaker.com/)
+- [Xometry](https://www.xometry.com/)
 
-###### Submarine
-- [Marine Service](http://www.marineservice.es/)
-- [OceanX](https://oceanx.org/)
-- [Triton Submarines](https://tritonsubs.com/)
+###### Semiconductors
+- [AMD](https://www.amd.com/en/)
+- [AMD Ryzen](https://ryzen.pro/en/laptop/)
+- [ASML](https://www.asml.com/en) — The world's supplier to the semiconductor industry
+- [ASMPT Corporate](https://www.asmpt.com/)
+- [Infineon Technologies](https://www.infineon.com/cms/en/) — Semiconductor & System Solutions
+- [Intel](https://www.intel.com/content/www/us/en/homepage.html)
+- [Micron Technology](https://www.micron.com/) — Global Leaders in Semiconductors
+- [NXP](https://www.nxp.com/)
+- [ON Semiconductor](https://www.onsemi.com/)
+- [Qualcomm](https://www.qualcomm.com/)
+- [Qualcomm](https://www.qualcomm.com/home) — Wireless Technology & Innovation | Mobile Technology
+- [Realtek](https://www.realtek.com/en)
+- [SMIC](https://www.smics.com/#section2) — 中芯国际-首页
+- [STMicroelectronics](https://www.st.com/content/st_com/en.html) — Our technology starts with you
+- [Taiwan Semiconductor Manufacturing Company Limited](https://www.tsmc.com/english)
+- [TI.com](https://www.ti.com/)
 
-###### Balloon Company
-- [Aerostar](https://aerostar.com/)
-- [ESS Weathertech](https://www.essweather.com/)
-- [Jimsphere Balloon](https://www.jimsphere.com/)
-- [Kaymont](https://www.kaymont.com/) — Weather Balloons
-- [NovaLynx](https://novalynx.com/store/pc/home2.asp)
-- [Raven Industries](https://ravenind.com/)
-- [Scientific Sales](https://www.scientificsales.com/)
-- [The Weather Balloon](https://www.weatherballoon.co.jp/pages/english/1cosmo.html)
-- [Weather Shack](https://www.weathershack.com/)
+###### Single-Board Computer
+- [96Boards](https://www.96boards.org/) — Develop & Prototype on the Latest Arm Technology
+- [Anbernic](https://anbernic.com/en-es) — The best retro game console
+- [Arduino](https://www.arduino.cc/)
+- [Banana Pi](https://www.banana-pi.org/)
+- [ClockworkPi](https://www.clockworkpi.com/)
+- [Crowd Supply](https://www.crowdsupply.com/)
+- [DevTerm](https://www.clockworkpi.com/devterm) — ClockworkPi
+- [EasyEDA](https://easyeda.com/)
+- [FreedomBox](https://freedombox.org/) — Personal Server at Home
+- [FSF RYF](https://ryf.fsf.org/)
+- [Hakuto Co](https://www.hakuto.co.jp/)
+- [HardKernel Odroid](https://www.hardkernel.com/)
+- [JLCPCB](https://jlcpcb.com/) — PCB Prototype & PCB Fabrication Manufacturer
+- [Libre Computer](https://libre.computer/)
+- [ODROID Wiki](https://wiki.odroid.com/)
+- [OLIMEX](https://www.olimex.com/)
+- [Orange Pi](http://www.orangepi.org/)
+- [OSHWLab](https://oshwlab.com/)
+- [PCBWay](https://www.pcbway.com/)
+- [pi-top](https://www.pi-top.com/)
+- [Project Pockit](https://pockit.ai/)
+- [R36S](https://r36s.co.uk/)
+- [rabbit](https://www.rabbit.tech/) — pocket companion
+- [Radxa Wiki](https://wiki.radxa.com/Home)
+- [Raspberry Pi](https://www.raspberrypi.com/)
+- [Synopsys](https://www.synopsys.com/)
+- [ZimaBoard](https://www.zimaboard.com/)
+
+###### VR Company
+- [Bigscreen Beyond](https://www.bigscreenvr.com/) — The world's smallest VR headset
+- [Magic Leap](https://www.magicleap.com/en-us)
+- [Monako.ai](https://www.monako.ai/)
+- [Nreal.ai](https://www.nreal.ai/)
+- [Oculus](https://www.oculus.com/)
+- [SimulaVR](https://simulavr.com/)
+- [The Elumenati](https://www.elumenati.com/)
+- [Ultraleap](https://www.ultraleap.com/)
+- [Varjo](https://varjo.com/)
+- [Visbox, Inc.](http://www.visbox.com/)
+- [VIVE](https://www.vive.com/eu)
+- [Vuzix](https://www.vuzix.com/)
+
+##### Elections System Company
+- [Dominion Voting](https://www.dominionvoting.com/)
+- [Election Systems & Software](https://www.essvote.com/)
+- [EVN](https://electionverification.org/)
+- [Galois](https://galois.com/)
+- [Smartmatic](https://www.smartmatic.com/)
+- [Verified Voting](https://verifiedvoting.org/)
+
+##### Firearms Company
+- [Aimlock](https://aim-lock.com/) — Precision targeting weapons systems
+- [Baikal](https://www.baikalinc.ru/)
+- [Benelli](https://www.benelli.it/en)
+- [Beretta](https://www.beretta.com/en)
+- [Bergara Rifles](https://www.bergara.online/us)
+- [Bersa](https://www.bersa.com.ar/)
+- [Biofire Smart Gun](https://smartgun.com/) — Experience the Future of Firearms
+- [Blaser GmbH](https://www.blaser.de/)
+- [Browning](https://www.browning.com/)
+- [Bushmaster Firearms](https://bushmaster.com/)
+- [C.G. Haenel](https://www.cg-haenel.de/)
+- [Colt's Manufacturing](https://www.colt.com/)
+- [CZUB](https://www.czub.cz/en)
+- [Daniel Defense](https://danieldefense.com/)
+- [Davide Pedersoli](https://www.davide-pedersoli.com/en)
+- [FN Herstal](https://www.fnhuk.com/)
+- [GLOCK Perfection](https://eu.glock.com/en)
+- [Heckler & Koch](https://hk-usa.com/)
+- [Henry USA](https://www.henryusa.com/)
+- [Itoz.ru](https://itoz.ru/)
+- [KelTec](https://www.keltecweapons.com/)
+- [Mossberg & Sons](https://www.mossberg.com/)
+- [Remington](https://www.remington.com/)
+- [Ruger Firearms](https://ruger.com/)
+- [Savage Arms](https://www.savagearms.com/)
+- [Smith & Wesson](https://www.smith-wesson.com/)
+- [Steyer Arms](https://www.steyr-arms.com/en)
+- [Unified Weapon](https://unifiedweapons.us/)
+- [Weatherby](https://weatherby.com/)
+- [Wilson Combat](https://www.wilsoncombat.com/)
+- [Winchester Guns](https://www.winchesterguns.com/)
+- [Zastava](https://www.zastava-arms.rs/en/home)
+- [Zenith Firearms](https://zenithfirearms.com/)
+- [Zid.ru](https://zid.ru/)
+
+##### GPS Company
+- [TomTom](https://www.tomtom.com/)
+
+##### Lens Companies
+- [Celestron](https://www.celestron.com/)
+- [Hirox Europe](https://hirox-europe.com/)
+- [NoIR Insight](https://www.noirinsight.com/)
+- [Thorlabs, Inc](https://www.thorlabs.com/)
+- [Wooptix](https://wooptix.com/) — The ultimate image solutions
+
+##### Lights Company
+- [Acuity Brands](https://www.acuitybrands.com/)
+- [Aputure](https://www.aputure.com/)
+- [Cree, Inc](https://www.cree.com/)
+- [Eaton](https://www.eaton.com/us/en-us.html)
+- [Environmental Lights](https://www.environmentallights.com/)
+- [EVERLIGHT](https://www.everlight.com/index.aspx)
+- [Get Lighting](https://www.gelighting.com/)
+- [Kichler Lighting](https://www.kichler.com/)
+- [MA Lighting](https://www.malighting.com/)
+- [Nanoleaf](https://www.nanoleaf.me/en-EU)
+- [NICHIA Corporation](https://www.nichia.co.jp/en/about_nichia/index.html)
+- [OSRAM](https://www.osram.com/cb)
+- [Philips lighting](https://www.lighting.philips.com/main/home)
+- [Southern Lights](https://www.southernlightsinc.com/)
+- [Zumtobel](https://www.zumtobel.com/com-en/index.html)
+
+##### Phone Case Company
+- [Cristal templado](https://www.cristaltempladomovil.com/) — Protector de pantalla móvil y tablet de cristal templado
+- [dbrand](https://dbrand.com/)
+- [GHOSTEK](https://ghostek.es/)
+- [MOFT](https://www.moft.us/) — World's First Invisible Laptop, Phone and Tablet Stand
+- [Mous](https://www.mous.co/) — Protective Phone Cases
+- [OtterBox](https://www.otterbox.com/)
+- [Speck Products](https://speckproducts.com/)
+- [Spigen](https://www.spigen.com/)
+- [Tech21](https://www.tech21.com/)
+- [The Pixel Case](https://thepixelcase.com/) — The Pixel Store
+- [Totallee](https://www.totalleecase.com/)
+- [Urban Armor Gear](https://www.urbanarmorgear.com/?avad=176062_b29f14371&utm_source=avantlink_www.digitaltrends.com&utm_medium=affiliate&utm_campaign=bb_affiliate&utm_content=Easy+Link&utm_term=176062_www.digitaltrends.com)
+
+##### Phone Company
+- [Alcatel Mobile](https://www.alcatelmobile.com/)
+- [apple](https://www.apple.com/iphone)
+- [BlindShell](https://www.blindshell.com/)
+- [Cubot](https://www.cubot.net/)
+- [DOOGEE](https://www.doogee.cc/)
+- [Doro phones](https://www.doro.com/en-gb)
+- [Encrypted OS](https://www.encrypted-os.com/) — Silent Circle Blackphone 2
+- [F(x)tec](https://www.fxtec.com/)
+- [Fairphone](https://www.fairphone.com/en)
+- [Fairphone](https://www.fairphone.com/nl)
+- [Google Pixel](https://store.google.com/magazine/compare_pixel)
+- [HONOR](https://www.hihonor.com/global)
+- [HTC](https://www.htc.com/es)
+- [HUAWEI](https://consumer.huawei.com/es/phones)
+- [iQOO](https://www.iqoo.com/in)
+- [Kapsys](https://www.kapsys.com/en/)
+- [LG Phones](https://www.lg.com/es/telefonos-moviles)
+- [Motorola](https://www.motorola.com/us)
+- [Murena](https://murena.com/products/smartphones/) — deGoogled phones and services
+- [Murena](https://murena.com/) — privacy by design smartphones
+- [NexPhone](https://nexphone.com/) — Your phone as PC
+- [Nokia](https://www.nokia.com/es_int)
+- [Nokia Bell Labs](https://www.bell-labs.com/)
+- [OnePlus](https://www.oneplus.com/es)
+- [OPPO](https://www.oppo.com/en)
+- [POCO](https://www.poco.net/es)
+- [RAZ Mobility](https://www.razmobility.com/) — Next Generation Assistive Technology
+- [Realme](https://www.realme.com/es)
+- [RedMagic](https://eu.redmagic.gg/)
+- [Samsung](https://www.samsung.com/es/smartphones/all-smartphones)
+- [SHIFT Phones](https://www.shiftphones.com/)
+- [shift.eco](https://www.shift.eco/en/) — Sustainable technology from Germany
+- [Smartisan](https://www.smartisan.com/)
+- [Sony mobiles](https://www.sony.es/electronics/movil)
+- [The Light Phone](https://www.thelightphone.com/)
+- [Ulefone](https://m.ulefone.com/)
+- [vivo](https://www.vivo.com/en)
+- [Volla Mobile Devices](https://volla.online/en/index.php)
+- [Wileyfox](https://wileyfox.com/)
+- [Xiaomi](https://www.mi.com/es)
+- [Xiaomi](https://www.mi.com/es/list) — List
+- [ZTE](https://www.ztedevices.com/en)
+
+###### Wereable Company
+- [Amazfit Global](https://www.amazfit.com/) — Official Online Store
+- [Garmin](https://www.garmin.com/es-ES/)
+- [Garmin](https://www.garmin.com/en-US/)
+- [Huami](https://www.huami.com/) — Empowering Health, Inspiring Joy
+- [Suunto](https://www.suunto.com/es-es/) — sports watches, dive products, compasses and accessories
+
+##### Printer Company
+- [BCN3D Technologies](https://www.bcn3d.com/)
+- [Flashforge](https://www.flashforge.com/)
 
 ##### Robotics Company
 - [1X](https://www.1x.tech/) — Home Robots
@@ -1665,313 +3819,6 @@ description: Stores, marketplaces, product research, and resale
 ###### Humanoid Company
 - [Engineered Arts](https://www.engineeredarts.co.uk/)
 
-##### Computer Company
-
-###### Computer Hardware
-- [Acer](https://www.acer.com/ac/es/ES/content/home)
-- [AORUS](https://www.aorus.com/)
-- [ASUS](https://www.asus.com/es)
-- [Asus ROG](https://rog.asus.com/)
-- [CORSAIR](https://www.corsair.com/es/es)
-- [COUGAR](https://cougargaming.com/)
-- [Dell](https://www.dell.com/en-us)
-- [Frame.work](https://frame.work/)
-- [Framework Laptop](https://frame.work/es/en/)
-- [GIGABYTE](https://www.gigabyte.com/)
-- [Heltec Automation](https://heltec.org/) — International LoRa/LoRaWAN/Meshtastic/IoT Devices Manufacturer
-- [HP](https://www.hp.com/us-en/home.html)
-- [Khadas](https://www.khadas.com/)
-- [Kubuntu Focus](https://kfocus.org/)
-- [Lenovo](https://www.lenovo.com/us/en/)
-- [LILYGO®](https://lilygo.cc/) — Committed To The Research & Development Of IoT
-- [MALIBAL](https://www.malibal.com/) — Custom Linux Laptops, Workstations & Servers
-- [Manjaro Notebooks](https://www.manjarocomputer.eu/)
-- [manjarocomputer.eu](https://www.manjarocomputer.eu/index.php/en/)
-- [minisforum](https://www.minisforum.com/)
-- [MonsterLabo](https://www.monsterlabo.com/)
-- [NovaCustom](https://novacustom.com/)
-- [ORICO](https://oricotechs.com/) — The Best Data Storage for Home, Office and Business
-- [Origin PC](https://www.originpc.com/)
-- [Puri.sm](https://puri.sm/)
-- [Seasonic](https://seasonic.com/) — Power Supply for Computer
-- [SLIMBOOK](https://slimbook.com/) — portátiles y ordenadores Linux
-- [Slimbook KDE](https://kde.slimbook.es/)
-- [SpecFive LLC](https://specfive.com/) — Complete Meshtastic Devices
-- [Starlabs Systems](https://starlabs.systems/) — Linux Laptops
-- [superworkstations](https://superworkstations.com/) — Configure Your Workstation
-- [System76](https://system76.com/)
-- [TUXEDO Computers](https://www.tuxedocomputers.com/)
-- [UPERPERFECT](https://www.uperfectmonitor.com/es/) — monitor portatil para portatil gaming 4k tactil
-- [Zima](https://www.zimaspace.com/) — Elevating Your Computing Experience with ZimaBoard Servers & Personal Cloud Solutions
-
-###### Gaming Peripherals Company
-- [8BitDo](https://www.8bitdo.com/)
-- [ARCTIC](https://www.arctic.de/en)
-- [AYANEO](https://www.ayaneo.com/)
-- [Bluemic](https://www.bluemic.com/en-us)
-- [DAREU Keep Fighting](https://www.dareu.com/)
-- [Deep Gaming](https://deepgaming.es/)
-- [EKWB](https://www.ekwb.com/)
-- [Elgato](https://www.elgato.com/en)
-- [Ewent](https://www.ewent.com/en-us/)
-- [Fanatec](https://fanatec.com/eu-en)
-- [G-Lab](https://the-g-lab.tech/)
-- [Genesis](https://genesis-zone.com/)
-- [HORI USA](https://stores.horiusa.com/)
-- [HyperX](https://www.hyperxgaming.com/es)
-- [HyperX](https://hyperx.com/) — High Quality Gaming Gear
-- [Kinesis Gaming](https://gaming.kinesis-ergo.com/)
-- [Krom Gaming](https://www.kromgaming.com/)
-- [Logitech](https://www.logitech.com/es-es)
-- [Logitech G](https://www.logitechg.com/es-es)
-- [MSI](https://www.msi.com/index.php)
-- [NACON](https://www.nacongaming.com/)
-- [Nacon](https://www.nacongaming.com/en-US/)
-- [NZXT](https://www.nzxt.com/)
-- [OMEN Gaming](https://www.omen.com/us/en.html)
-- [Razer](https://www.razer.com/)
-- [ROCCAT](https://en.roccat.org/)
-- [SCUF Gaming](https://scufgaming.com/eu)
-- [Shenzhen GPD Technology](https://www.gpd.hk/)
-- [Steam Deck](https://www.steamdeck.com/en/)
-- [SuiPlay0X1](https://www.suiplay0x1.com/) — Next-Gen Handheld Gaming Device Powered By Sui
-- [Thermaltake](https://www.thermaltake.com/)
-- [TooQ Technology](https://tooq.com/)
-- [Xtechamericas](https://www.xtechamericas.com/es)
-
-###### Semiconductors
-- [AMD](https://www.amd.com/en/)
-- [AMD Ryzen](https://ryzen.pro/en/laptop/)
-- [ASML](https://www.asml.com/en) — The world's supplier to the semiconductor industry
-- [ASMPT Corporate](https://www.asmpt.com/)
-- [Infineon Technologies](https://www.infineon.com/cms/en/) — Semiconductor & System Solutions
-- [Intel](https://www.intel.com/content/www/us/en/homepage.html)
-- [Micron Technology](https://www.micron.com/) — Global Leaders in Semiconductors
-- [NXP](https://www.nxp.com/)
-- [ON Semiconductor](https://www.onsemi.com/)
-- [Qualcomm](https://www.qualcomm.com/)
-- [Qualcomm](https://www.qualcomm.com/home) — Wireless Technology & Innovation | Mobile Technology
-- [Realtek](https://www.realtek.com/en)
-- [SMIC](https://www.smics.com/#section2) — 中芯国际-首页
-- [STMicroelectronics](https://www.st.com/content/st_com/en.html) — Our technology starts with you
-- [Taiwan Semiconductor Manufacturing Company Limited](https://www.tsmc.com/english)
-- [TI.com](https://www.ti.com/)
-
-###### Graphic Cards
-- [EVGA](https://www.evga.com/)
-- [Free desktop Nouveau](https://nouveau.freedesktop.org/)
-- [Nvidia](https://www.nvidia.com/en-us/)
-- [NVIDIA Developer](https://developer.nvidia.com/)
-- [NVIDIA Documentation](https://docs.nvidia.com/)
-
-###### Monitors
-- [AOC Monitors](https://eu.aoc.com/en)
-- [BenQ Europe](https://www.benq.eu/en-eu/index.html)
-- [Nanosys](https://www.nanosysinc.com/)
-
-###### Drive Storage Company
-- [Crucial](https://www.crucial.com/)
-- [JMicron](https://www.jmicron.com/) — Leading the Storage Revolution!
-- [JUANWE](https://juanwe.com/)
-- [Kingston](https://www.kingston.com/en)
-- [LaCie](https://www.lacie.com/es/es)
-- [SD Association](https://www.sdcard.org/)
-- [Seagate](https://www.seagate.com/es/es)
-- [SSK](https://eng.ssk.cn/)
-- [Toshiba](http://www.toshiba.co.jp/worldwide)
-- [Western Digital](https://www.westerndigital.com/)
-
-###### Keyboard PC
-- [68Keys.io](https://68keys.io/) — Custom 68% Mechanical Keyboard
-- [Akko](https://en.akkogear.com/) — Designer for Mechanical Keyboards
-- [AkkoGear](https://www.akkogear.com/)
-- [Clicks for iPhone](https://www.clicks.tech/)
-- [Das keyboard](https://www.daskeyboard.com/)
-- [Drevo](https://www.drevo.net/)
-- [Ducky Keyboard](https://www.duckychannel.com.tw/en)
-- [Dygma](https://dygma.com/) — The Best Ergonomic Split Keyboards
-- [Epomaker](https://epomaker.com/)
-- [ErgoDox EZ](https://ergodox-ez.com/) — An Incredible Mechanical Ergonomic Keyboard
-- [Everykey](https://everykey.com/)
-- [Happy Hacking Keyboard](https://www.hhkeyboard.com/es)
-- [IQUNIX](https://iqunix.store/)
-- [KBDfans](https://kbdfans.com/)
-- [Keyboardio](https://shop.keyboard.io/) — keyboards for people who love typing
-- [Keychron](https://www.keychron.com/)
-- [Kinesis Ergonomic](https://kinesis-ergo.com/)
-- [Little Keyboards](https://www.littlekeyboards.com/)
-- [Mechanical Keyboards](https://mechanicalkeyboards.com/)
-- [MoErgo](https://www.moergo.com/) — Glove80 Wireless Split Ergonomic Keyboard
-- [MonsGeek](https://www.monsgeek.com/) — Make Cool Gears Accessible.
-- [Omnitype](https://omnitype.com/)
-- [ProtoArc](https://www.protoarc.com/)
-- [QMK Configurator](https://config.qmk.fm/#/handwired/fivethirteen/LAYOUT)
-- [The Keyboard Company](https://www.keyboardco.com/)
-- [Ultimate Hacking Keyboard](https://ultimatehackingkeyboard.com/) — The keyboard. For professionals.
-- [Unicomp, Inc.](https://www.pckeyboard.com/page/SFNT)
-- [Varmilo mechanical keyboard](https://en.varmilo.com/keyboardproscenium/)
-- [WASD Keyboards](https://www.wasdkeyboards.com/)
-- [Wooting keyboards](https://wooting.io/)
-- [Wuque Studio](https://shop.wuquestudio.com/)
-- [ZSA](https://www.zsa.io/go) — Keyboard
-
-###### Single-Board Computer
-- [96Boards](https://www.96boards.org/) — Develop & Prototype on the Latest Arm Technology
-- [Anbernic](https://anbernic.com/en-es) — The best retro game console
-- [Arduino](https://www.arduino.cc/)
-- [Banana Pi](https://www.banana-pi.org/)
-- [ClockworkPi](https://www.clockworkpi.com/)
-- [Crowd Supply](https://www.crowdsupply.com/)
-- [DevTerm](https://www.clockworkpi.com/devterm) — ClockworkPi
-- [EasyEDA](https://easyeda.com/)
-- [FreedomBox](https://freedombox.org/) — Personal Server at Home
-- [FSF RYF](https://ryf.fsf.org/)
-- [Hakuto Co](https://www.hakuto.co.jp/)
-- [HardKernel Odroid](https://www.hardkernel.com/)
-- [JLCPCB](https://jlcpcb.com/) — PCB Prototype & PCB Fabrication Manufacturer
-- [Libre Computer](https://libre.computer/)
-- [ODROID Wiki](https://wiki.odroid.com/)
-- [OLIMEX](https://www.olimex.com/)
-- [Orange Pi](http://www.orangepi.org/)
-- [OSHWLab](https://oshwlab.com/)
-- [PCBWay](https://www.pcbway.com/)
-- [pi-top](https://www.pi-top.com/)
-- [Project Pockit](https://pockit.ai/)
-- [R36S](https://r36s.co.uk/)
-- [rabbit](https://www.rabbit.tech/) — pocket companion
-- [Radxa Wiki](https://wiki.radxa.com/Home)
-- [Raspberry Pi](https://www.raspberrypi.com/)
-- [Synopsys](https://www.synopsys.com/)
-- [ZimaBoard](https://www.zimaboard.com/)
-
-###### Computer Networking
-- [Aalyria](https://www.aalyria.com/)
-- [Broadcom Inc.](https://www.broadcom.com/)
-- [i3D.net](https://www.i3d.net/)
-- [MikroTik](https://mikrotik.com/)
-- [Netgear](https://www.netgear.com/)
-- [Plugable](https://plugable.com/)
-- [rock space](https://www.rockspace.cc/)
-- [TP-Link](https://www.tp-link.com/en)
-- [TPV](https://www.tpv-tech.com/en/home.aspx)
-- [WD](https://www.mycloud.com/#/) — My Cloud
-
-###### VR Company
-- [Bigscreen Beyond](https://www.bigscreenvr.com/) — The world's smallest VR headset
-- [Magic Leap](https://www.magicleap.com/en-us)
-- [Monako.ai](https://www.monako.ai/)
-- [Nreal.ai](https://www.nreal.ai/)
-- [Oculus](https://www.oculus.com/)
-- [SimulaVR](https://simulavr.com/)
-- [The Elumenati](https://www.elumenati.com/)
-- [Ultraleap](https://www.ultraleap.com/)
-- [Varjo](https://varjo.com/)
-- [Visbox, Inc.](http://www.visbox.com/)
-- [VIVE](https://www.vive.com/eu)
-- [Vuzix](https://www.vuzix.com/)
-
-###### Mice Company
-- [Finalmouse](https://finalmouse.com/)
-- [Hellespont](https://hellespont.com/) — Modern Integrated Ship Management Solutions
-- [PCgamingrace](https://www.pcgamingrace.com/)
-- [Redragon](https://redragonusa.com/)
-- [VAXEE](https://vaxee.co/en)
-- [대우세계경영연구회](https://daewoosky.com/html/main/main.php)
-
-###### Print Company
-- [Moo Design](https://www.moo.com/us/)
-
-**3D Print Company**
-- [3D Systems](https://www.3dsystems.com/)
-- [Bambu Lab](https://bambulab.com/en) — Unleash Your Creativity with Bambu Lab 3D Printers
-- [Carbon 3D](https://www.carbon3d.com/)
-- [CELLINK](https://www.cellink.com/)
-- [Creality](https://www.creality.com/)
-- [Desktop Metal](https://www.desktopmetal.com/)
-- [Fast Radius](https://www.fastradius.com/)
-- [FormLabs](https://formlabs.com/)
-- [Glowforge](https://glowforge.com/)
-- [MakerBot](https://www.makerbot.com/)
-- [Markforged](https://markforged.com/)
-- [Materialise](https://www.materialise.com/en)
-- [Nano DI](https://www.nano-di.com/)
-- [Organovo](https://organovo.com/)
-- [Protolabs](https://www.protolabs.com/)
-- [Rokk3r](https://www.rokk3r.com/)
-- [Shapeways](https://www.shapeways.com/)
-- [Stratasys](https://www.stratasys.com/en)
-- [UltiMaker](https://ultimaker.com/)
-- [Xometry](https://www.xometry.com/)
-
-###### Multifunctional RF Tool
-- [Flipper Zero](https://flipperzero.one/) — Portable Multi-tool Device for Geeks
-
-##### Lens Companies
-- [Celestron](https://www.celestron.com/)
-- [Hirox Europe](https://hirox-europe.com/)
-- [NoIR Insight](https://www.noirinsight.com/)
-- [Thorlabs, Inc](https://www.thorlabs.com/)
-- [Wooptix](https://wooptix.com/) — The ultimate image solutions
-
-##### GPS Company
-- [TomTom](https://www.tomtom.com/)
-
-##### Biotechnology Company
-- [23andMe International](https://www.23andme.com/) — DNA Genetic Testing For Ancestry & Traits
-- [Agenus](https://agenusbio.com/)
-- [Bionity.com](https://www.bionity.com/de/)
-- [Biowin](https://biowin.org/)
-- [Brainlab](https://www.brainlab.com/)
-- [Calico](https://www.calicolabs.com/)
-- [CRI Genetics](https://www.crigenetics.com/) — DNA Testing Kit | Health, Ancestry & Traits
-- [CureVac](https://www.curevac.com/en/)
-- [Dexcom CGM](https://www.dexcom.com/home)
-- [Esper Bionics](https://esperbionics.com/)
-- [Genentech](https://www.gene.com/)
-- [Illumina](https://www.illumina.com/)
-- [Isomorphic Labs](https://www.isomorphiclabs.com/) — Reimagining Drug Discovery Process with AI
-- [Lumon Industries](https://lumon.industries/)
-- [Motiv Ring](https://www.mymotiv.com/)
-- [Neuralink](https://neuralink.com/)
-- [Nothing (España)](https://es.nothing.tech/)
-- [Oxitec](https://www.oxitec.com/)
-- [Sonova International](https://www.sonova.com/en)
-
-##### Batteries Company
-- [CSB Energy Technology](https://www.csb-battery.com/)
-- [Duracell](https://www.duracell.es/)
-- [Electrochem](https://electrochemsolutions.com/home/default.aspx)
-- [Energizer](https://www.energizer.com/)
-- [FDK Corp](https://www.fdk.com/)
-- [Hankook AtlasBX](https://www.hankook-atlasbx.com/en)
-- [Procell](https://www.procell.com/es)
-- [VARTA](http://varta.com/)
-
-##### Elections System Company
-- [Dominion Voting](https://www.dominionvoting.com/)
-- [Election Systems & Software](https://www.essvote.com/)
-- [EVN](https://electionverification.org/)
-- [Galois](https://galois.com/)
-- [Smartmatic](https://www.smartmatic.com/)
-- [Verified Voting](https://verifiedvoting.org/)
-
-##### Lights Company
-- [Acuity Brands](https://www.acuitybrands.com/)
-- [Aputure](https://www.aputure.com/)
-- [Cree, Inc](https://www.cree.com/)
-- [Eaton](https://www.eaton.com/us/en-us.html)
-- [Environmental Lights](https://www.environmentallights.com/)
-- [EVERLIGHT](https://www.everlight.com/index.aspx)
-- [Get Lighting](https://www.gelighting.com/)
-- [Kichler Lighting](https://www.kichler.com/)
-- [MA Lighting](https://www.malighting.com/)
-- [Nanoleaf](https://www.nanoleaf.me/en-EU)
-- [NICHIA Corporation](https://www.nichia.co.jp/en/about_nichia/index.html)
-- [OSRAM](https://www.osram.com/cb)
-- [Philips lighting](https://www.lighting.philips.com/main/home)
-- [Southern Lights](https://www.southernlightsinc.com/)
-- [Zumtobel](https://www.zumtobel.com/com-en/index.html)
-
 ##### Tablet Company
 - [Blackview](https://www.blackview.hk/) — Cool Rugged Phones & Tablets & Smartphones
 - [Huion tablets](https://huion.com/)
@@ -1991,68 +3838,6 @@ description: Stores, marketplaces, product research, and resale
 - [PocketBook](https://pocketbook.ch/en-ch)
 - [reMarkable](https://remarkable.com/) — The future of paper is here
 
-##### Firearms Company
-- [Aimlock](https://aim-lock.com/) — Precision targeting weapons systems
-- [Baikal](https://www.baikalinc.ru/)
-- [Benelli](https://www.benelli.it/en)
-- [Beretta](https://www.beretta.com/en)
-- [Bergara Rifles](https://www.bergara.online/us)
-- [Bersa](https://www.bersa.com.ar/)
-- [Biofire Smart Gun](https://smartgun.com/) — Experience the Future of Firearms
-- [Blaser GmbH](https://www.blaser.de/)
-- [Browning](https://www.browning.com/)
-- [Bushmaster Firearms](https://bushmaster.com/)
-- [C.G. Haenel](https://www.cg-haenel.de/)
-- [Colt's Manufacturing](https://www.colt.com/)
-- [CZUB](https://www.czub.cz/en)
-- [Daniel Defense](https://danieldefense.com/)
-- [Davide Pedersoli](https://www.davide-pedersoli.com/en)
-- [FN Herstal](https://www.fnhuk.com/)
-- [GLOCK Perfection](https://eu.glock.com/en)
-- [Heckler & Koch](https://hk-usa.com/)
-- [Henry USA](https://www.henryusa.com/)
-- [Itoz.ru](https://itoz.ru/)
-- [KelTec](https://www.keltecweapons.com/)
-- [Mossberg & Sons](https://www.mossberg.com/)
-- [Remington](https://www.remington.com/)
-- [Ruger Firearms](https://ruger.com/)
-- [Savage Arms](https://www.savagearms.com/)
-- [Smith & Wesson](https://www.smith-wesson.com/)
-- [Steyer Arms](https://www.steyr-arms.com/en)
-- [Unified Weapon](https://unifiedweapons.us/)
-- [Weatherby](https://weatherby.com/)
-- [Wilson Combat](https://www.wilsoncombat.com/)
-- [Winchester Guns](https://www.winchesterguns.com/)
-- [Zastava](https://www.zastava-arms.rs/en/home)
-- [Zenith Firearms](https://zenithfirearms.com/)
-- [Zid.ru](https://zid.ru/)
-
-##### Air Conditioning Company
-- [Daikin Global](https://www.daikin.com/)
-- [Electrolux](https://www.electrolux.co.uk/)
-- [Ingersoll Rand](https://www.ingersollrand.com/en-us)
-- [Johnson Controls](https://www.johnsoncontrols.com/)
-- [Lennox](https://www.lennox.com/)
-- [Nortek Global HVAC](https://www.nortekhvac.com/)
-
-##### Phone Case Company
-- [Cristal templado](https://www.cristaltempladomovil.com/) — Protector de pantalla móvil y tablet de cristal templado
-- [dbrand](https://dbrand.com/)
-- [GHOSTEK](https://ghostek.es/)
-- [MOFT](https://www.moft.us/) — World's First Invisible Laptop, Phone and Tablet Stand
-- [Mous](https://www.mous.co/) — Protective Phone Cases
-- [OtterBox](https://www.otterbox.com/)
-- [Speck Products](https://speckproducts.com/)
-- [Spigen](https://www.spigen.com/)
-- [Tech21](https://www.tech21.com/)
-- [The Pixel Case](https://thepixelcase.com/) — The Pixel Store
-- [Totallee](https://www.totalleecase.com/)
-- [Urban Armor Gear](https://www.urbanarmorgear.com/?avad=176062_b29f14371&utm_source=avantlink_www.digitaltrends.com&utm_medium=affiliate&utm_campaign=bb_affiliate&utm_content=Easy+Link&utm_term=176062_www.digitaltrends.com)
-
-##### Printer Company
-- [BCN3D Technologies](https://www.bcn3d.com/)
-- [Flashforge](https://www.flashforge.com/)
-
 ##### TV Box
 - ⭐ **[FORMULER](https://www.formuler.tv/)**
 - [AppForce Classic](https://appforceclassic.com/) — Best Media Player For Android TV & Firestick
@@ -2062,6 +3847,287 @@ description: Stores, marketplaces, product research, and resale
 - [INFOMIR](https://www.infomir.eu/) — IPTV Set Top Box manufacturer
 - [OpenIPTV](https://www.openiptv.net/)
 - [Ugoos](https://ugoos.com/) — Smart TV Box / Mini PC Factory
+
+##### Vehicle Company
+
+###### Aeroplane Company
+- [ACE Aerospace](https://aceaerospaceinc.com/)
+- [AdamWorks](https://adamworksinc.com/)
+- [Airbus](https://www.airbus.com/)
+- [Airbus A310 Zero G](https://www.airzerog.com/)
+- [ATR Aircraft](http://www.atraircraft.com/)
+- [Avionics Interface Technologies](https://aviftech.com/) — A Teradyne Company
+- [Boeing](https://www.boeing.com/)
+- [Bombardier](https://www.bombardier.com/en/home.html)
+- [Bombardier](https://bombardier.com/en)
+- [Cessna](https://cessna.txtav.com/) — Textron Aircraft
+- [Collins Aerospace](https://www.collinsaerospace.com/)
+- [Embraer](https://www.embraercommercialaviation.com/)
+- [EXOS Aerospace](https://exosaero.com/)
+- [Gulfstream](https://www.gulfstream.com/en/)
+- [KinetX](https://www.kinetx.com/)
+- [Lockheed Martin](https://lockheedmartin.com/en-us/index.html)
+- [Lufthansa Technik](https://www.lufthansa-technik.com/)
+- [Nammo](https://www.nammo.com/)
+- [Raytheon Intelligence & Space](https://www.raytheonintelligenceandspace.com/)
+- [Scaled Composites](https://www.scaled.com/)
+- [Technology Service Corporation](https://tsc.com/)
+- [Textron Aviation](https://txtav.com/)
+- [Venture Aerospace](https://aerospace.inc/)
+- [Vertical Aerospace](https://www.vertical-aerospace.com/)
+- [Virgin Galactic](https://www.virgingalactic.com/)
+- [Zenith Aircraft](https://www.zenithair.net/)
+- [ZeroAvia](https://www.zeroavia.com/)
+
+###### Balloon Company
+- [Aerostar](https://aerostar.com/)
+- [ESS Weathertech](https://www.essweather.com/)
+- [Jimsphere Balloon](https://www.jimsphere.com/)
+- [Kaymont](https://www.kaymont.com/) — Weather Balloons
+- [NovaLynx](https://novalynx.com/store/pc/home2.asp)
+- [Raven Industries](https://ravenind.com/)
+- [Scientific Sales](https://www.scientificsales.com/)
+- [The Weather Balloon](https://www.weatherballoon.co.jp/pages/english/1cosmo.html)
+- [Weather Shack](https://www.weathershack.com/)
+
+###### Bikes Company
+- [Aerovelo](http://www.aerovelo.com/)
+- [BH bikes](https://www.bhbikes.com/es_ES)
+- [BMC Switzerland AG](https://www.bmc-switzerland.com/)
+- [Cannondale Bikes](https://www.cannondale.com/en-us)
+- [Cervélo Cycles](https://www.cervelo.com/en)
+- [Diamondback Bikes](https://www.diamondback.com/)
+- [Felt Bicycles](https://feltbicycles.com/)
+- [Giant Bicycles](https://www.giant-bicycles.com/global)
+- [Gocycle](https://gocycle.com/es)
+- [Guardian Bikes](https://guardianbikes.com/)
+- [Kreidler](https://www.kreidler.com/)
+- [Pinarello](https://pinarello.com/)
+- [Santa Cruz Bicycles](https://www.santacruzbicycles.com/en-US)
+- [Trek Bikes](https://www.trekbikes.com/es/es_ES/countries)
+
+###### Boat Company
+- [Discover Boating](https://www.discoverboating.com/)
+- [Native Watercraft](https://nativewatercraft.com/)
+- [Quadrofoil](https://quadrofoil.com/)
+
+###### Car Company
+- [Abarth](https://www.abarth.it/)
+- [Acura](https://www.acura.com/)
+- [Alfa Romeo](https://www.alfaromeo.com/)
+- [Alpine Cars](https://www.alpinecars.com/en)
+- [Aston Martin](https://www.astonmartin.com/en)
+- [Audi España](https://www.audi.es/es/web/es.html)
+- [Bentley Motors](https://www.bentleymotors.com/en.html)
+- [BMW Group](https://www.bmwgroup.com/en.html)
+- [BMW M](https://www.bmw-m.com/en/index.html)
+- [Bugatti](https://www.bugatti.com/)
+- [Cadillac](https://www.cadillac.com/)
+- [Car Logos](https://www.carlogos.org/)
+- [Carlsson](https://www.carlsson.de/)
+- [Chevrolet](https://www.chevrolet.com/)
+- [Chrysler](https://www.chrysler.com/)
+- [Citroën](https://www.citroen.com/en)
+- [Dacia](https://www.dacia.es/)
+- [Datsun](https://www.datsun.com/)
+- [Dodge](https://www.dodge.com/)
+- [DS automobiles](https://www.dsautomobiles.com/fr/)
+- [Ferrari](https://www.ferrari.com/it-IT)
+- [FIAT](https://www.fiat.com/)
+- [Geely](https://www.geely.com/)
+- [GENESIS](https://www.genesis.com/worldwide/en/main.html)
+- [GMC](https://www.gmc.com/)
+- [HINO](https://www.hino-global.com/)
+- [Honda](https://www.honda.com/)
+- [HWA](https://www.hwaag.com/de)
+- [Hyundai](https://www.hyundai.com/worldwide)
+- [INFINITI](https://www.infiniti.com/)
+- [IVECO](https://www.iveco.com/Pages/Iveco-brands.html)
+- [Jaguar](https://www.jaguar.com/index.html)
+- [Jeep](https://www.jeep.com/)
+- [KIA](https://www.kia.com/es)
+- [Koenigsegg](https://www.koenigsegg.com/)
+- [Lamborghini](https://www.lamborghini.com/es-en)
+- [Lancia](https://www.lancia.com/)
+- [Land Rover](https://www.landrover.com/index.html)
+- [Lincoln](https://www.lincoln.com/)
+- [Lotus Cars](https://www.lotuscars.com/)
+- [Maserati](https://www.maserati.com/international/en)
+- [Maybach](https://www.maybach.com/)
+- [Mazda](https://www.mazda.com/)
+- [Mazzanti](https://www.mazzantiautomobili.it/en)
+- [McLaren](https://www.mclaren.com/)
+- [Mercedes-Benz](https://www.mercedes-benz.com/en)
+- [Mini](https://www.mini.com/en_MS/home.html)
+- [Mitsubishi Motors](https://www.mitsubishi-motors.com/en/index.html)
+- [Nissan](https://www.nissan-global.com/EN/index.html)
+- [Opel](https://www.opel.es/)
+- [Pagani](https://www.pagani.com/)
+- [Porsche](https://www.porsche.com/spain)
+- [Ram Trucks](https://www.ramtrucks.com/)
+- [Renault](https://www.renault.es/)
+- [SEAT](https://www.seat.es/)
+- [ŠKODA](https://www.skoda-auto.com/)
+- [Smart cars](https://www.smart.com/int/en/home#972)
+- [Subaru](https://www.subaru.com/)
+- [Suzuki](https://www.globalsuzuki.com/)
+- [TATA](https://www.tatamotors.com/)
+- [Toyota es](https://www.toyota.es/)
+- [Volvo](https://www.volvo.com/home.html)
+- [Waymo](https://waymo.com/intl/es/) — Vehículos autónomos
+- [Yamaha Motor](https://global.yamaha-motor.com/)
+
+**Flying Cars**
+- [EHang](https://www.ehang.com/index)
+- [Klein Vision](https://www.klein-vision.com/)
+- [SkyDrive](https://en.skydrive2020.com/)
+
+**Group Cars Companies**
+- [Daimler](https://www.daimler.com/en)
+- [Domingo Alonso Group](https://www.domingoalonsogroup.com/es/) — Automoción
+- [Electric Life Group](https://www.electriclifegroup.com/)
+- [Faraday Future](https://www.ff.com/)
+- [Ford](https://www.ford.com/)
+- [General Motors](https://www.gm.com/)
+- [Groupe Renault](https://group.renault.com/)
+- [Hyundai Motor Group](https://www.hyundaimotorgroup.com/Index.hub)
+- [Toyota](https://global.toyota/)
+- [Volkswagen Group](https://www.volkswagenag.com/)
+- [Volvo Group](https://www.volvogroup.com/)
+
+**Tesla**
+- [DeepScale](http://deepscale.ai/)
+- [Hibar Systems](https://www.hibar.com/)
+- [Maxwell Technologies](https://www.maxwell.com/)
+- [Tesla](https://www.tesla.com/)
+- [Tesla Grohmann Automation](https://teslagrohmannautomation.de/en)
+- [The Boring Company](https://www.boringcompany.com/)
+
+**Tire Manufacturers**
+- [Bridgestone](https://www.bridgestone.com/)
+- [Continental](https://www.continentaltire.com/)
+- [Goodyear Tires](https://www.goodyear.com/)
+- [Groupe Michelin](https://www.michelin.com/)
+- [Motorsport](https://www.motorsport.com/)
+- [Pirelli](https://www.pirelli.com/global/en-ww/homepage)
+- [Sumitomo tires](http://www.sumitomotire.com/Home/default)
+- [Yokohama Tire](https://www.yokohamatire.com/)
+
+###### Drons Company
+- [Aerialtronics](https://www.aerialtronics.com/en)
+- [Corvus Robotics](https://www.corvus-robotics.com/)
+- [DJI](https://www.dji.com/es) — Drones
+- [DroneDeploy](https://www.dronedeploy.com/)
+- [Dronefly](https://www.dronefly.com/)
+- [DroneSense](https://dronesense.com/)
+- [EHang](https://www.ehang.com/)
+- [Freefly Systems](https://freeflysystems.com/)
+- [Kespry](https://kespry.com/)
+- [Ouster](https://ouster.com/)
+- [Parrot](https://www.parrot.com/us/)
+- [Parrot](https://www.parrot.com/en)
+- [Propeller](https://www.propelleraero.com/)
+- [Rapid Composites](https://rapidcomposites.com/)
+- [senseFly](https://www.sensefly.com/)
+- [Skydio](https://www.skydio.com/)
+- [Skyfish](https://skyfish.ai/)
+- [SOLUTE](https://solute.us/)
+- [Teal Drones](https://tealdrones.com/)
+- [TerraView](https://terraview.com/)
+- [The Drone Racing League](https://thedroneracingleague.com/)
+- [UMILES](https://umilesgroup.com/) — El mayor proveedor de servicios con drones en España que opera en Europa y Latinoamérica
+- [Union Robotics](https://union-robotics.com/)
+- [Valqari](https://www.valqari.com/)
+- [Volansi](https://volansi.com/)
+- [WiBotic](https://www.wibotic.com/)
+- [YUNEEC](https://shop.yuneec.com/)
+
+###### Jetpacks Company
+- [Gravity Industries](https://gravity.co/)
+
+###### Motorbike Company
+- [ARCH Motorcycle](https://www.archmotorcycle.com/)
+- [Bultaco](https://bultacolifestyle.com/)
+- [Ducati](https://www.ducati.com/it/it/home)
+- [Harley-Davidson](https://www.harley-davidson.com/es/es/index.html)
+- [Kawasaki](https://www.kawasaki.com/en-us)
+- [Triumph Motorcycles](https://www.triumphmotorcycles.co.uk/)
+- [Vespa Piaggio](https://www.vespa.com/es_ES)
+
+**Scooter**
+- [Bird](https://www.bird.co/)
+- [Boosted scooters](https://boostedusa.com/)
+- [Dott](https://ridedott.com/)
+- [EcoReco](https://ecorecoscooter.com/)
+- [GOTRAX](https://gotrax.com/)
+- [Hoverboards](https://hoverboards.com/)
+- [Koowheel](https://www.koowheel.com/)
+- [Lime Micromobility](https://www.li.me/en-us/home)
+- [LINK.city](https://www.link.city/)
+- [Mi Scooters](https://miscooters.com/)
+- [NIU Shop](https://shop.niu.com/) — E Scooter
+- [NIU Smart Electric Scooter](https://www.niu.com/en)
+- [Razor](https://global.razor.com/es)
+- [Segway](https://www.segway.com/)
+- [Skip Scooters](https://rideskip.com/)
+- [SWAGTRON](https://swagtron.com/)
+- [Voro Motors](https://www.voromotors.com/)
+- [Zamelux](https://www.zamelux.com/)
+
+###### Spacecraft
+- [Arianespace](https://www.arianespace.com/)
+- [Blue Origin](https://www.blueorigin.com/)
+- [Celestia Aerospace](https://celestiaaerospace.com/)
+- [Firefly Aerospace](https://firefly.com/)
+- [Relativity Space](https://www.relativityspace.com/)
+- [Sent Into Space](https://www.sentintospace.com/)
+- [Sierra Nevada Corporation](https://www.sncorp.com/) — SNC
+- [SpaceX](https://www.spacex.com/)
+- [Stoke Space / 100% reusable rockets / USA](https://www.stokespace.com/)
+- [Stratolaunch](https://www.stratolaunch.com/)
+- [United Launch Alliance](https://www.ulalaunch.com/)
+
+**Propulsion Company**
+- [Agile Space](https://www.agile.space/)
+- [Air Command Water Rockets](http://www.aircommandrockets.com/)
+- [Astrobotic](https://www.astrobotic.com/)
+- [LAUNCHER](https://launcherspace.com/)
+- [Momentus](https://momentus.space/)
+- [Pangea Aerospace](https://pangeaaerospace.com/)
+- [Phase Four](https://www.phasefour.io/)
+- [PLD Space](https://www.pldspace.com/)
+- [Rocket Lab](https://www.rocketlabusa.com/)
+
+**Space Transportation**
+- [EOS X Spaceship](https://www.eosxspace.com/)
+- [Exotrail](https://exotrail.com/)
+- [Spaceflight](https://spaceflight.com/)
+- [Stratoflights](https://www.stratoflights.com/)
+- [Zero 2 Infinity](https://www.zero2infinity.space/)
+
+###### Submarine
+- [Marine Service](http://www.marineservice.es/)
+- [OceanX](https://oceanx.org/)
+- [Triton Submarines](https://tritonsubs.com/)
+
+###### Tractors and Machines
+- [Caseih](https://www.caseih.com/emea/fr-fr)
+- [CLAAS of America](https://www.claasofamerica.com/)
+- [Fendt](https://www.fendt.com/uk)
+- [International Trucks](https://www.internationaltrucks.com/)
+- [John Deere](https://www.deere.com/en)
+- [Kubota](https://www.kubota.com/)
+- [LANDINI](https://www.landini.it/as)
+- [Mahindra](https://www.mahindrausa.com/)
+- [Massey Ferguson](https://www.masseyferguson.com/en.html)
+- [Massey Ferguson](https://www.masseyferguson.us/)
+- [MCCORMICK](https://www.mccormick.it/as)
+- [New Holland Agriculture](https://agriculture.newholland.com/eu/en-uk)
+- [New Holland Construction](https://agriculture.newholland.com/eu/en-uk/equipment/products/landing-construction)
+- [TAFE](https://www.tafe.com/)
+- [Valmet](https://www.valmet.com/)
+- [Valtra tractors](https://www.valtra.com/)
+- [ZETOR](https://www.zetor.com/)
 
 #### IT Company
 - [Airtificial](https://airtificial.com/)
@@ -2107,63 +4173,183 @@ description: Stores, marketplaces, product research, and resale
 - [Workday](https://www.workday.com/)
 - [Zoho Corp](https://www.zohocorp.com/)
 
-##### Telecommunication Company
-- [Airtel](https://www.airtel.in/)
-- [Amena](https://www.amena.com/)
-- [América Móvil](https://www.americamovil.com/English/overview/default.aspx)
-- [AT&T](https://www.att.com/)
-- [Bell Canada Enterprises](https://www.bce.ca/)
-- [Bicom Systems](https://www.bicomsystems.com/)
-- [Black Box](https://www.blackbox.com/en-us/home)
-- [BT](https://www.bt.com/)
-- [CenturyLink](https://www.centurylink.com/)
-- [China Telecom Corporation](https://www.chinatelecom-h.com/en/global/home.php)
-- [China Telecom Global](https://www.chinatelecomglobal.com/)
-- [China UNICOM](http://www.chinaunicom.com/)
-- [Deutsche Telekom](https://www.telekom.com/en)
-- [Equinix](https://www.equinix.com/)
-- [Ericsson](https://www.ericsson.com/en)
-- [Finetwork](https://www.finetwork.com/)
-- [Huawei Marine](http://www.huaweimarine.com/en)
-- [Jazztel](https://www.jazztel.com/)
-- [Jazztel Areaclientes](https://areaclientes.jazztel.com/)
-- [Jio](https://www.jio.com/)
-- [KDDI](https://www.kddi.com/)
-- [KT](https://corp.kt.com/)
-- [Liberty Global](https://www.libertyglobal.com/)
-- [Llamaya](https://www.llamaya.com/)
-- [Lowi](https://www.lowi.es/)
-- [Masmovil](https://www.masmovil.es/)
-- [Miravia.es](https://www.miravia.es/)
-- [Movistar](https://www.movistar.es/)
-- [NTT](https://www.global.ntt/)
-- [NTT x Global](https://group.ntt/en/)
-- [NTTドコモ](https://www.docomo.ne.jp/)
-- [Orange](https://www.orange.fr/portail)
-- [Pepephone](https://www.pepephone.com/)
-- [PLDT](https://beta.pldt.com/)
-- [Republica Móvil](https://republicamovil.es/)
-- [Rogers](https://www.rogers.com/)
-- [Simyo](https://www.simyo.es/)
-- [SK telecom](https://www.sktelecom.com/index.html)
-- [Spectrum](https://www.spectrum.com/)
-- [Starlink](https://www.starlink.com/)
-- [Swisscom](https://www.swisscom.ch/en/residential.html)
-- [T-Mobile](https://www.t-mobile.com/)
-- [Telefónica](https://www.telefonica.com/es/home)
-- [Telefónica Tech](https://tech.telefonica.com/)
-- [Telekom](https://www.telekom.de/start)
-- [Teletalk Bangladesh Ltd](https://www.teletalk.com.bd/en)
-- [Telstra](https://www.telstra.com.au/)
-- [TELUS](https://www.telus.com/en) — Phones, Internet and TV on the most-awarded network
-- [TIM Group](https://www.gruppotim.it/en.html)
-- [Totalplay](https://www.totalplay.com.mx/)
-- [Verizon](https://www.verizon.com/)
-- [Vodafone](https://www.vodafone.com/)
-- [Windstream](https://www.windstream.com/)
-- [Xfinity](https://www.xfinity.com/)
-- [Yoigo](https://www.yoigo.com/)
-- [ZTE](https://www.zte.com.cn/global)
+##### Cloud Computing
+- [Aeraki.net](https://www.aeraki.net/)
+- [Akamai](https://www.akamai.com/es)
+- [Alibaba Cloud](https://eu.alibabacloud.com/)
+- [Arsys](https://www.arsys.net/)
+- [BackBox Software](https://backbox.com/)
+- [Brightbox](https://www.brightbox.com/) — Cloud Server Hosting
+- [CanarCloud](https://www.canarcloud.es/)
+- [Clever Cloud](https://www.clever-cloud.com/)
+- [Cloud Foundry BOSH](https://bosh.io/docs)
+- [cloud.gov](https://cloud.gov/)
+- [Cloudabove](https://cloudabove.com/)
+- [Cloudockit](https://www.cloudockit.com/)
+- [Cloudron.io](https://www.cloudron.io/)
+- [CoreWeave](https://www.coreweave.com/)
+- [CyberFortress](https://cyberfortress.com/) — Trusted Data Backup & Recovery Services
+- [DCloud.io](https://www.dcloud.io/)
+- [Deno.dev](https://dash.deno.com/login?redirect=%2F)
+- [Densify](https://www.densify.com/)
+- [Deta.sh](https://www.deta.sh/)
+- [Digital Realty](https://www.digitalrealty.com/)
+- [DNS.com](https://www.dns.com/)
+- [Dokploy](https://dokploy.com/) — Effortless Deployment Solutions
+- [Domo.com](https://www.domo.com/)
+- [Edgio.io](https://edg.io/)
+- [ExtraHop](https://www.extrahop.com/) — Cloud-Native Network Detection and Response
+- [Gigas](https://gigas.com/)
+- [HashiCorp](https://www.hashicorp.com/en)
+- [Heroku](https://www.heroku.com/) — Cloud Application Platform
+- [Hetzner](https://www.hetzner.com/) — Dedicated Server, Cloud, Storage & Hosting
+- [IFS Cloud](https://www.ifs.com/)
+- [Interlink](https://interlink.com/)
+- [Istio](https://istio.io/)
+- [Jakarta](https://jakarta.ee/)
+- [Joyent Triton](https://www.joyent.com/)
+- [Kasm Workspaces](https://www.kasmweb.com/) — The Container Streaming Platform
+- [Lambda Labs](https://lambdalabs.com/)
+- [Leaseweb](https://www.leaseweb.com/)
+- [Lepton AI](https://www.lepton.ai/)
+- [Linode (Akamai)](https://www.linode.com/) — Cloud computing
+- [Linube](https://linube.com/)
+- [Loft](https://loft.sh/) — Virtual Kubernetes Clusters
+- [LogicMonitor](https://www.logicmonitor.com/)
+- [MAAS](https://maas.io/) — Metal as a Service
+- [MuleSoft](https://www.mulesoft.com/)
+- [myCloudDoor](https://myclouddoor.com/)
+- [nacos.io](https://nacos.io/zh-cn/)
+- [Nakama](https://heroiclabs.com/) — Heroic Labs
+- [Nerdle game](https://nerdlegame.com/)
+- [NetApp](https://www.netapp.com/)
+- [Netsyms Technologies](https://www.netsyms.com/)
+- [OpenDrives](https://opendrives.com/)
+- [OpenShift](https://www.openshift.com/)
+- [OpenTofu](https://opentofu.org/)
+- [OVHcloud](https://www.ovh.com/fr)
+- [OVHcloud](https://www.ovhcloud.com/es-es/)
+- [Pebble.net](http://www.pebble.net/)
+- [phoenixNAP](https://phoenixnap.com/)
+- [Presto SQL](https://prestosql.io/)
+- [Rackspace Technology](https://www.rackspace.com/)
+- [Rewind Backups](https://rewind.com/)
+- [Sandstorm](https://sandstorm.io/)
+- [Scaleway](https://www.scaleway.com/en) — European Cloud & AI
+- [Snowflake](https://www.snowflake.com/)
+- [Synology Inc.](https://synology.com/en-global)
+- [Techsviewer](https://techsviewer.com/)
+- [Telekom Cloud](https://cloud.telekom.de/en)
+- [Terraform by HashiCorp](https://www.terraform.io/)
+- [Triton DataCenter](https://www.tritondatacenter.com/)
+- [Turbo.net](https://turbo.net/) — Deliver your apps instantly, everywhere
+- [Ubicloud](https://www.ubicloud.com/) — Open source alternative to AWS
+- [UpCloud](https://upcloud.com/)
+- [Veeva Systems](https://www.veeva.com/) — Cloud-Based Business Solutions for the Global Life Sciences Industry.
+- [Vercel](https://vercel.com/) — Buiild and deploy the best webs experiences with the Frontend Cloud
+- [Wasabi Cloud](https://wasabi.com/)
+- [Wolfram](https://www.wolfram.com/)
+- [Wolfram Cloud](https://www.wolframcloud.com/)
+
+###### Cloud GPU
+- ⭐ **[Replicate](https://replicate.com/)** — Run open-source machine learning models with a cloud API
+- [airgpu](https://airgpu.com/) — Your Cloud PC for Gaming, Rendering, Video Editing
+- [Amazon Luna](https://luna.amazon.com/) — Cloud Gaming Service
+- [Boosteroid Cloud Gaming](https://boosteroid.com/) — Your Games on Any Device
+- [Deep Infra](https://deepinfra.com/) — Machine Learning Models and Infrastructure
+- [Fal AI](https://www.fal.ai/)
+- [Hyperbolic](https://hyperbolic.xyz/) — The Open-Access AI Cloud
+- [Loudplay](https://www.loudplay.ru/en) — Cloud gaming
+- [NVIDIA GeForce NOW](https://www.nvidia.com/en-us/geforce-now/)
+- [NWARE](https://www.playnware.com/) — Play Any Game Anywhere
+- [Paperspace](https://www.paperspace.com/) — Cloud GPUs & Hosting for AI
+- [Parsec](https://parsec.app/) — Connect to Work or Games from Anywhere
+- [RunComfy](https://www.runcomfy.com/) — Top ComfyUI Platform - Fast & Easy, No Setup
+- [RunPod](https://www.runpod.io/) — Rent Cloud GPUs
+- [Shadow PC Gaming](https://shadow.tech/) — Ultimate Cloud Gaming Platform
+- [TensorOpera Your Generative AI Platform at Scale](https://tensoropera.ai/)
+- [Xbox Cloud Gaming](https://www.xbox.com/en-US/play)
+
+###### SaaS
+- [500apps SaaS](https://500apps.com/)
+- [BigCommerce](https://www.bigcommerce.com/)
+- [Foxintelligence](https://www.foxintelligence.io/)
+- [Halo](https://www.halo.run/) — 强大易用的开源建站工具
+- [Kibi.one](https://www.kibi.one/)
+- [Markbase](https://www.markbase.xyz/)
+- [Mixa](https://mixasite.com/) — Build, Customize, and Optimize Your Website Effortlessly
+- [Open Weaver](https://openweaver.com/) — Reinventing digital realization
+- [Pipedrive](https://www.pipedrive.com/es-es)
+- [platform.sh](https://platform.sh/)
+- [ProProfs](https://www.proprofs.com/)
+- [StackQL](https://stackql.io/)
+- [Sumo Logic](https://www.sumologic.com/)
+
+##### Cybersecurity Enterprise
+- [Acronis](https://www.acronis.com/en-us/)
+- [Acronis](https://kb.acronis.com/) — KB
+- [Advanced Intel](https://www.advanced-intel.com/)
+- [Allot](https://www.allot.com/)
+- [Anonym cloud](https://anonym.cloud/en)
+- [Black Hat](https://www.blackhat.com/)
+- [Cellebrite](https://www.cellebrite.com/en/home)
+- [Censys](https://censys.io/)
+- [Cifas](https://www.cifas.org.uk/) — Fraud Prevention
+- [Cloudflare](https://www.cloudflare.com/) — The Web Performance & Security Company
+- [Cmd](https://cmd.com/)
+- [Cobalt Strike](https://www.cobaltstrike.com/) — Adversary Simulation and Red Team Operations
+- [Copperhead](https://copperhead.co/)
+- [CrowdStrike](https://www.crowdstrike.com/en-us/) — Stop breaches. Drive business.
+- [CryptoTrust](https://crp.to/)
+- [Cure53](https://cure53.de/) — Fine penetration tests for fine websites
+- [Cybercrime Intelligence](https://intel471.com/) — Fight Cyber Threats
+- [Cybereason](https://www.cybereason.com/)
+- [DarkTracer](https://darktracer.com/)
+- [Defuse Security](https://defuse.ca/)
+- [DMCA Protection](https://www.dmca.com/)
+- [dope.security](https://dope.security/) — Fly Direct Secure Web Gateway
+- [e-Share.us](https://www.e-share.us/)
+- [Edge Security](https://www.edgesecurity.com/)
+- [ElevenPaths](https://www.elevenpaths.com/)
+- [Entrust](https://www.entrust.com/) — Comprehensive Identity-Centric Security Solutions
+- [ESET Digital Security](https://www.eset.com/us/)
+- [F-Secure](https://www.f-secure.com/gb-en)
+- [F5Inc](https://www.f5.com/)
+- [Farsight Security](https://www.farsightsecurity.com/)
+- [FireEye](https://www.fireeye.com/)
+- [FortiGuard Labs](https://www.fortiguard.com/)
+- [Fortinet](https://www.fortinet.com/) — Global Leader of Cybersecurity Solutions and Services
+- [Fraud Labs Pro](https://www.fraudlabspro.com/)
+- [GitGuardian](https://www.gitguardian.com/) — Git Security Scanning & Secrets Detection
+- [Hudson Rock](https://www.hudsonrock.com/)
+- [Huorong](https://www.huorong.cn/) — 火绒安全
+- [Imperva](https://www.imperva.com/)
+- [Kentik](https://www.kentik.com/)
+- [Kryptos Logic](https://www.kryptoslogic.com/)
+- [LGTM](https://lgtm.com/) — Continuous security analysis
+- [Mitnick Security Consulting](https://www.mitnicksecurity.com/)
+- [Netcraft](https://www.netcraft.com/)
+- [NortonLifeLock](https://www.nortonlifelock.com/us/en)
+- [Pentest Limited](https://pentest.co.uk/)
+- [PlexTrac](https://plextrac.com/) — Pentest Reporting and Collaboration Platform
+- [Rapid7](https://www.rapid7.com/)
+- [Recorded Future](https://www.recordedfuture.com/)
+- [RSA](https://www.rsa.com/)
+- [Safelayer](https://www.safelayer.com/es)
+- [Sectra Communications](https://communications.sectra.com/) — Secure communication. Trusted since 1978.
+- [Shielder](https://www.shielder.com/)
+- [Snyk AI Security Fabric](https://snyk.io/) — Secure Code, Models & Agents
+- [Sontiq](https://www.sontiq.com/)
+- [SSH.com](https://www.ssh.com/)
+- [Sucuri](https://sucuri.net/)
+- [Telefónica Tech ​Cyber Security & Cloud](https://cybersecuritycloud.telefonicatech.com/)
+- [Tenable](https://www.tenable.com/)
+- [Thinkst Canary](https://canary.tools/)
+- [TuxCare](https://tuxcare.com/)
+- [Webroot](https://www.webroot.com/us/en)
+- [White Ops](https://www.whiteops.com/)
+- [WhoisXML](https://www.whoisxmlapi.com/)
+- [Wiz](https://www.wiz.io/) — #1 Cloud Security Software for Modern Cloud Protection
 
 ##### Data Company
 - [AccessWire](https://www.accesswire.com/)
@@ -2259,6 +4445,10 @@ description: Stores, marketplaces, product research, and resale
 - [VITO](https://vito.be/en)
 - [Whitebox Geospatial](https://www.whiteboxgeo.com/)
 
+###### Investigation Company
+- [OSINT Combine](https://www.osintcombine.com/) — Australia
+- [Social Links](https://sociallinks.io/) — Social Media Investigations & OSINT Tools
+
 ###### Maritime Data
 - [ADMIRALTY](https://www.admiralty.co.uk/)
 - [Chartworld](https://www.chartworld.com/web)
@@ -2269,188 +4459,6 @@ description: Stores, marketplaces, product research, and resale
 - [OneOcean](https://www.oneocean.com/)
 - [Open Sea Chart](https://www.openseachart.org/doku.php)
 - [PRIMAR](https://www.primar.org/#/)
-
-###### Investigation Company
-- [OSINT Combine](https://www.osintcombine.com/) — Australia
-- [Social Links](https://sociallinks.io/) — Social Media Investigations & OSINT Tools
-
-##### Cybersecurity Enterprise
-- [Acronis](https://www.acronis.com/en-us/)
-- [Acronis](https://kb.acronis.com/) — KB
-- [Advanced Intel](https://www.advanced-intel.com/)
-- [Allot](https://www.allot.com/)
-- [Anonym cloud](https://anonym.cloud/en)
-- [Black Hat](https://www.blackhat.com/)
-- [Cellebrite](https://www.cellebrite.com/en/home)
-- [Censys](https://censys.io/)
-- [Cifas](https://www.cifas.org.uk/) — Fraud Prevention
-- [Cloudflare](https://www.cloudflare.com/) — The Web Performance & Security Company
-- [Cmd](https://cmd.com/)
-- [Cobalt Strike](https://www.cobaltstrike.com/) — Adversary Simulation and Red Team Operations
-- [Copperhead](https://copperhead.co/)
-- [CrowdStrike](https://www.crowdstrike.com/en-us/) — Stop breaches. Drive business.
-- [CryptoTrust](https://crp.to/)
-- [Cure53](https://cure53.de/) — Fine penetration tests for fine websites
-- [Cybercrime Intelligence](https://intel471.com/) — Fight Cyber Threats
-- [Cybereason](https://www.cybereason.com/)
-- [DarkTracer](https://darktracer.com/)
-- [Defuse Security](https://defuse.ca/)
-- [DMCA Protection](https://www.dmca.com/)
-- [dope.security](https://dope.security/) — Fly Direct Secure Web Gateway
-- [e-Share.us](https://www.e-share.us/)
-- [Edge Security](https://www.edgesecurity.com/)
-- [ElevenPaths](https://www.elevenpaths.com/)
-- [Entrust](https://www.entrust.com/) — Comprehensive Identity-Centric Security Solutions
-- [ESET Digital Security](https://www.eset.com/us/)
-- [F-Secure](https://www.f-secure.com/gb-en)
-- [F5Inc](https://www.f5.com/)
-- [Farsight Security](https://www.farsightsecurity.com/)
-- [FireEye](https://www.fireeye.com/)
-- [FortiGuard Labs](https://www.fortiguard.com/)
-- [Fortinet](https://www.fortinet.com/) — Global Leader of Cybersecurity Solutions and Services
-- [Fraud Labs Pro](https://www.fraudlabspro.com/)
-- [GitGuardian](https://www.gitguardian.com/) — Git Security Scanning & Secrets Detection
-- [Hudson Rock](https://www.hudsonrock.com/)
-- [Huorong](https://www.huorong.cn/) — 火绒安全
-- [Imperva](https://www.imperva.com/)
-- [Kentik](https://www.kentik.com/)
-- [Kryptos Logic](https://www.kryptoslogic.com/)
-- [LGTM](https://lgtm.com/) — Continuous security analysis
-- [Mitnick Security Consulting](https://www.mitnicksecurity.com/)
-- [Netcraft](https://www.netcraft.com/)
-- [NortonLifeLock](https://www.nortonlifelock.com/us/en)
-- [Pentest Limited](https://pentest.co.uk/)
-- [PlexTrac](https://plextrac.com/) — Pentest Reporting and Collaboration Platform
-- [Rapid7](https://www.rapid7.com/)
-- [Recorded Future](https://www.recordedfuture.com/)
-- [RSA](https://www.rsa.com/)
-- [Safelayer](https://www.safelayer.com/es)
-- [Sectra Communications](https://communications.sectra.com/) — Secure communication. Trusted since 1978.
-- [Shielder](https://www.shielder.com/)
-- [Snyk AI Security Fabric](https://snyk.io/) — Secure Code, Models & Agents
-- [Sontiq](https://www.sontiq.com/)
-- [SSH.com](https://www.ssh.com/)
-- [Sucuri](https://sucuri.net/)
-- [Telefónica Tech ​Cyber Security & Cloud](https://cybersecuritycloud.telefonicatech.com/)
-- [Tenable](https://www.tenable.com/)
-- [Thinkst Canary](https://canary.tools/)
-- [TuxCare](https://tuxcare.com/)
-- [Webroot](https://www.webroot.com/us/en)
-- [White Ops](https://www.whiteops.com/)
-- [WhoisXML](https://www.whoisxmlapi.com/)
-- [Wiz](https://www.wiz.io/) — #1 Cloud Security Software for Modern Cloud Protection
-
-##### Cloud Computing
-- [Aeraki.net](https://www.aeraki.net/)
-- [Akamai](https://www.akamai.com/es)
-- [Alibaba Cloud](https://eu.alibabacloud.com/)
-- [Arsys](https://www.arsys.net/)
-- [BackBox Software](https://backbox.com/)
-- [Brightbox](https://www.brightbox.com/) — Cloud Server Hosting
-- [CanarCloud](https://www.canarcloud.es/)
-- [Clever Cloud](https://www.clever-cloud.com/)
-- [Cloud Foundry BOSH](https://bosh.io/docs)
-- [cloud.gov](https://cloud.gov/)
-- [Cloudabove](https://cloudabove.com/)
-- [Cloudockit](https://www.cloudockit.com/)
-- [Cloudron.io](https://www.cloudron.io/)
-- [CoreWeave](https://www.coreweave.com/)
-- [CyberFortress](https://cyberfortress.com/) — Trusted Data Backup & Recovery Services
-- [DCloud.io](https://www.dcloud.io/)
-- [Deno.dev](https://dash.deno.com/login?redirect=%2F)
-- [Densify](https://www.densify.com/)
-- [Deta.sh](https://www.deta.sh/)
-- [Digital Realty](https://www.digitalrealty.com/)
-- [DNS.com](https://www.dns.com/)
-- [Dokploy](https://dokploy.com/) — Effortless Deployment Solutions
-- [Domo.com](https://www.domo.com/)
-- [Edgio.io](https://edg.io/)
-- [ExtraHop](https://www.extrahop.com/) — Cloud-Native Network Detection and Response
-- [Gigas](https://gigas.com/)
-- [HashiCorp](https://www.hashicorp.com/en)
-- [Heroku](https://www.heroku.com/) — Cloud Application Platform
-- [Hetzner](https://www.hetzner.com/) — Dedicated Server, Cloud, Storage & Hosting
-- [IFS Cloud](https://www.ifs.com/)
-- [Interlink](https://interlink.com/)
-- [Istio](https://istio.io/)
-- [Jakarta](https://jakarta.ee/)
-- [Joyent Triton](https://www.joyent.com/)
-- [Kasm Workspaces](https://www.kasmweb.com/) — The Container Streaming Platform
-- [Lambda Labs](https://lambdalabs.com/)
-- [Leaseweb](https://www.leaseweb.com/)
-- [Lepton AI](https://www.lepton.ai/)
-- [Linode (Akamai)](https://www.linode.com/) — Cloud computing
-- [Linube](https://linube.com/)
-- [Loft](https://loft.sh/) — Virtual Kubernetes Clusters
-- [LogicMonitor](https://www.logicmonitor.com/)
-- [MAAS](https://maas.io/) — Metal as a Service
-- [MuleSoft](https://www.mulesoft.com/)
-- [myCloudDoor](https://myclouddoor.com/)
-- [nacos.io](https://nacos.io/zh-cn/)
-- [Nakama](https://heroiclabs.com/) — Heroic Labs
-- [Nerdle game](https://nerdlegame.com/)
-- [NetApp](https://www.netapp.com/)
-- [Netsyms Technologies](https://www.netsyms.com/)
-- [OpenDrives](https://opendrives.com/)
-- [OpenShift](https://www.openshift.com/)
-- [OpenTofu](https://opentofu.org/)
-- [OVHcloud](https://www.ovh.com/fr)
-- [OVHcloud](https://www.ovhcloud.com/es-es/)
-- [Pebble.net](http://www.pebble.net/)
-- [phoenixNAP](https://phoenixnap.com/)
-- [Presto SQL](https://prestosql.io/)
-- [Rackspace Technology](https://www.rackspace.com/)
-- [Rewind Backups](https://rewind.com/)
-- [Sandstorm](https://sandstorm.io/)
-- [Scaleway](https://www.scaleway.com/en) — European Cloud & AI
-- [Snowflake](https://www.snowflake.com/)
-- [Synology Inc.](https://synology.com/en-global)
-- [Techsviewer](https://techsviewer.com/)
-- [Telekom Cloud](https://cloud.telekom.de/en)
-- [Terraform by HashiCorp](https://www.terraform.io/)
-- [Triton DataCenter](https://www.tritondatacenter.com/)
-- [Turbo.net](https://turbo.net/) — Deliver your apps instantly, everywhere
-- [Ubicloud](https://www.ubicloud.com/) — Open source alternative to AWS
-- [UpCloud](https://upcloud.com/)
-- [Veeva Systems](https://www.veeva.com/) — Cloud-Based Business Solutions for the Global Life Sciences Industry.
-- [Vercel](https://vercel.com/) — Buiild and deploy the best webs experiences with the Frontend Cloud
-- [Wasabi Cloud](https://wasabi.com/)
-- [Wolfram](https://www.wolfram.com/)
-- [Wolfram Cloud](https://www.wolframcloud.com/)
-
-###### SaaS
-- [500apps SaaS](https://500apps.com/)
-- [BigCommerce](https://www.bigcommerce.com/)
-- [Foxintelligence](https://www.foxintelligence.io/)
-- [Halo](https://www.halo.run/) — 强大易用的开源建站工具
-- [Kibi.one](https://www.kibi.one/)
-- [Markbase](https://www.markbase.xyz/)
-- [Mixa](https://mixasite.com/) — Build, Customize, and Optimize Your Website Effortlessly
-- [Open Weaver](https://openweaver.com/) — Reinventing digital realization
-- [Pipedrive](https://www.pipedrive.com/es-es)
-- [platform.sh](https://platform.sh/)
-- [ProProfs](https://www.proprofs.com/)
-- [StackQL](https://stackql.io/)
-- [Sumo Logic](https://www.sumologic.com/)
-
-###### Cloud GPU
-- ⭐ **[Replicate](https://replicate.com/)** — Run open-source machine learning models with a cloud API
-- [airgpu](https://airgpu.com/) — Your Cloud PC for Gaming, Rendering, Video Editing
-- [Amazon Luna](https://luna.amazon.com/) — Cloud Gaming Service
-- [Boosteroid Cloud Gaming](https://boosteroid.com/) — Your Games on Any Device
-- [Deep Infra](https://deepinfra.com/) — Machine Learning Models and Infrastructure
-- [Fal AI](https://www.fal.ai/)
-- [Hyperbolic](https://hyperbolic.xyz/) — The Open-Access AI Cloud
-- [Loudplay](https://www.loudplay.ru/en) — Cloud gaming
-- [NVIDIA GeForce NOW](https://www.nvidia.com/en-us/geforce-now/)
-- [NWARE](https://www.playnware.com/) — Play Any Game Anywhere
-- [Paperspace](https://www.paperspace.com/) — Cloud GPUs & Hosting for AI
-- [Parsec](https://parsec.app/) — Connect to Work or Games from Anywhere
-- [RunComfy](https://www.runcomfy.com/) — Top ComfyUI Platform - Fast & Easy, No Setup
-- [RunPod](https://www.runpod.io/) — Rent Cloud GPUs
-- [Shadow PC Gaming](https://shadow.tech/) — Ultimate Cloud Gaming Platform
-- [TensorOpera Your Generative AI Platform at Scale](https://tensoropera.ai/)
-- [Xbox Cloud Gaming](https://www.xbox.com/en-US/play)
 
 ##### Satellite Company
 - [ASTRA](https://es.astra.ses/)
@@ -2473,6 +4481,64 @@ description: Stores, marketplaces, product research, and resale
 - [Radian Systems](https://radian.systems/)
 - [Satellogic](https://satellogic.com/)
 - [UARX Space](https://www.uarx.com/)
+
+##### Telecommunication Company
+- [Airtel](https://www.airtel.in/)
+- [Amena](https://www.amena.com/)
+- [América Móvil](https://www.americamovil.com/English/overview/default.aspx)
+- [AT&T](https://www.att.com/)
+- [Bell Canada Enterprises](https://www.bce.ca/)
+- [Bicom Systems](https://www.bicomsystems.com/)
+- [Black Box](https://www.blackbox.com/en-us/home)
+- [BT](https://www.bt.com/)
+- [CenturyLink](https://www.centurylink.com/)
+- [China Telecom Corporation](https://www.chinatelecom-h.com/en/global/home.php)
+- [China Telecom Global](https://www.chinatelecomglobal.com/)
+- [China UNICOM](http://www.chinaunicom.com/)
+- [Deutsche Telekom](https://www.telekom.com/en)
+- [Equinix](https://www.equinix.com/)
+- [Ericsson](https://www.ericsson.com/en)
+- [Finetwork](https://www.finetwork.com/)
+- [Huawei Marine](http://www.huaweimarine.com/en)
+- [Jazztel](https://www.jazztel.com/)
+- [Jazztel Areaclientes](https://areaclientes.jazztel.com/)
+- [Jio](https://www.jio.com/)
+- [KDDI](https://www.kddi.com/)
+- [KT](https://corp.kt.com/)
+- [Liberty Global](https://www.libertyglobal.com/)
+- [Llamaya](https://www.llamaya.com/)
+- [Lowi](https://www.lowi.es/)
+- [Masmovil](https://www.masmovil.es/)
+- [Miravia.es](https://www.miravia.es/)
+- [Movistar](https://www.movistar.es/)
+- [NTT](https://www.global.ntt/)
+- [NTT x Global](https://group.ntt/en/)
+- [NTTドコモ](https://www.docomo.ne.jp/)
+- [Orange](https://www.orange.fr/portail)
+- [Pepephone](https://www.pepephone.com/)
+- [PLDT](https://beta.pldt.com/)
+- [Republica Móvil](https://republicamovil.es/)
+- [Rogers](https://www.rogers.com/)
+- [Simyo](https://www.simyo.es/)
+- [SK telecom](https://www.sktelecom.com/index.html)
+- [Spectrum](https://www.spectrum.com/)
+- [Starlink](https://www.starlink.com/)
+- [Swisscom](https://www.swisscom.ch/en/residential.html)
+- [T-Mobile](https://www.t-mobile.com/)
+- [Telefónica](https://www.telefonica.com/es/home)
+- [Telefónica Tech](https://tech.telefonica.com/)
+- [Telekom](https://www.telekom.de/start)
+- [Teletalk Bangladesh Ltd](https://www.teletalk.com.bd/en)
+- [Telstra](https://www.telstra.com.au/)
+- [TELUS](https://www.telus.com/en) — Phones, Internet and TV on the most-awarded network
+- [TIM Group](https://www.gruppotim.it/en.html)
+- [Totalplay](https://www.totalplay.com.mx/)
+- [Verizon](https://www.verizon.com/)
+- [Vodafone](https://www.vodafone.com/)
+- [Windstream](https://www.windstream.com/)
+- [Xfinity](https://www.xfinity.com/)
+- [Yoigo](https://www.yoigo.com/)
+- [ZTE](https://www.zte.com.cn/global)
 
 #### Server Company
 - [21cloudbox](https://www.21cloudbox.com/) — China JAMstack hosting provider
@@ -2505,6 +4571,37 @@ description: Stores, marketplaces, product research, and resale
 - [VanwaTech](https://vanwa.tech/)
 - [Voxility](https://www.voxility.com/)
 - [Vultr](https://www.vultr.com/)
+
+##### Game Server Hosting
+- [DatHost](https://dathost.net/) — Premium Game Server Hosting
+- [NITRADO](https://server.nitrado.net/en-US) — Gaming Server
+- [Pine Hosting](https://pinehosting.com/) — Game Server Hosting | Dedicated Hosting
+- [Shockbyte](https://shockbyte.com/) — Minecraft Server Hosting
+- [Sparked Host](https://sparkedhost.com/) — Minecraft Server Hosting
+- [ZAP-Hosting](https://zap-hosting.com/en/)
+
+##### Usenet Provider
+- [BlockNews](https://blocknews.net/)
+- [Easynews.com](https://easynews.com/)
+- [Eweka](https://www.eweka.nl/en) — Usenet Access
+- [Fast Usenet](https://www.fastusenet.org/)
+- [Frugal Usenet](https://frugalusenet.com/)
+- [maximumUSENET](https://www.maximumusenet.com/)
+- [NewsDemon Newsgroups](https://www.newsdemon.com/)
+- [Newsgroup Ninja](https://www.newsgroup.ninja/en)
+- [NewsgroupDirect](https://newsgroupdirect.com/)
+- [NewsgroupDirect](https://newsgroupdirect.com/?rfsn=6009847.cc9c5c)
+- [Ngroups.NET](https://ngroups.net/)
+- [Pure Usenet](https://www.pureusenet.nl/en)
+- [Sunny usenet](https://www.sunnyusenet.com/en/)
+- [TweakNews](https://www.tweaknews.eu/en/)
+- [Usenet Newsgroups](https://www.newshosting.com/) — Newshosting
+- [Usenet Newsgroups Server](https://www.supernews.com/)
+- [Usenet Now](https://usenetnow.net/)
+- [UsenetExpress](https://www.usenetexpress.com/)
+- [UsenetPrime](https://usenetprime.com/)
+- [UsenetServer](https://www.usenetserver.com/)
+- [XS News](https://www.xsnews.nl/en/index.html)
 
 ##### Web Hosting
 - ⭐ **[Forestry.md](https://forestry.md/)** — Open Source Digital Garden Hosting
@@ -2589,6 +4686,17 @@ description: Stores, marketplaces, product research, and resale
 - [Webempresa](https://www.webempresa.com/)
 - [ZeroNet.io](https://zeronet.io/)
 
+###### Debrid
+- ⭐ **[Debrid Media Manager](https://debridmediamanager.com/start)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/debridmediamanager)
+- [AllDebrid](https://alldebrid.com/) — Premium link generator and torrent downloader
+- [Debrid-Link](https://debrid-link.com/) — Premium link generator and Seedbox
+- [Debridio](https://debridio.com/)
+- [LinkSnappy](https://linksnappy.com/home) — Get your files as a premium user from all hosts!
+- [Mega-Debrid](https://www.mega-debrid.eu/) — Generador de enlaces premium y descargador de torrents
+- [Premiumize.me](https://www.premiumize.me/) — Cloud Storage
+- [Real-Debrid](https://real-debrid.com/) — All-in-one solution
+- [TorBox.app](https://torbox.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/TorBox-App)
+
 ###### Domain Registrar
 - ⭐ **[ENS.domains](https://ens.domains/)**
 - ⭐ **[EPIK](https://www.epik.com/)**
@@ -2640,6 +4748,12 @@ description: Stores, marketplaces, product research, and resale
 - [Versio](https://www.versio.nl/)
 - [Whois.com](https://www.whois.com/)
 
+###### SSL Certificate
+- [Comodo CA](https://www.comodoca.com/) — SSL Certificates
+- [DigiCert](https://www.digicert.com/) — SSL Certificates
+- [GlobalSign](https://www.globalsign.com/en) — SSL Certificates
+- [Let's Encrypt](https://letsencrypt.org/)
+
 ###### VPS
 - [Budget VPS List](https://lowendstock.com/) — Lowendstock
 - [Cloudzy](https://cloudzy.com/) — Your VPS Hosting Solutions in the Clouds ☁️
@@ -2651,54 +4765,6 @@ description: Stores, marketplaces, product research, and resale
 - [VPS.net](https://www.vps.net/)
 - [VPS/VDS сервера в аренду](https://vps.today/) — купить виртуальный сервер по цене от 48 рублей
 - [WebHorizon](https://webhorizon.in/)
-
-###### SSL Certificate
-- [Comodo CA](https://www.comodoca.com/) — SSL Certificates
-- [DigiCert](https://www.digicert.com/) — SSL Certificates
-- [GlobalSign](https://www.globalsign.com/en) — SSL Certificates
-- [Let's Encrypt](https://letsencrypt.org/)
-
-###### Debrid
-- ⭐ **[Debrid Media Manager](https://debridmediamanager.com/start)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/debridmediamanager)
-- [AllDebrid](https://alldebrid.com/) — Premium link generator and torrent downloader
-- [Debrid-Link](https://debrid-link.com/) — Premium link generator and Seedbox
-- [Debridio](https://debridio.com/)
-- [LinkSnappy](https://linksnappy.com/home) — Get your files as a premium user from all hosts!
-- [Mega-Debrid](https://www.mega-debrid.eu/) — Generador de enlaces premium y descargador de torrents
-- [Premiumize.me](https://www.premiumize.me/) — Cloud Storage
-- [Real-Debrid](https://real-debrid.com/) — All-in-one solution
-- [TorBox.app](https://torbox.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/TorBox-App)
-
-##### Usenet Provider
-- [BlockNews](https://blocknews.net/)
-- [Easynews.com](https://easynews.com/)
-- [Eweka](https://www.eweka.nl/en) — Usenet Access
-- [Fast Usenet](https://www.fastusenet.org/)
-- [Frugal Usenet](https://frugalusenet.com/)
-- [maximumUSENET](https://www.maximumusenet.com/)
-- [NewsDemon Newsgroups](https://www.newsdemon.com/)
-- [Newsgroup Ninja](https://www.newsgroup.ninja/en)
-- [NewsgroupDirect](https://newsgroupdirect.com/)
-- [NewsgroupDirect](https://newsgroupdirect.com/?rfsn=6009847.cc9c5c)
-- [Ngroups.NET](https://ngroups.net/)
-- [Pure Usenet](https://www.pureusenet.nl/en)
-- [Sunny usenet](https://www.sunnyusenet.com/en/)
-- [TweakNews](https://www.tweaknews.eu/en/)
-- [Usenet Newsgroups](https://www.newshosting.com/) — Newshosting
-- [Usenet Newsgroups Server](https://www.supernews.com/)
-- [Usenet Now](https://usenetnow.net/)
-- [UsenetExpress](https://www.usenetexpress.com/)
-- [UsenetPrime](https://usenetprime.com/)
-- [UsenetServer](https://www.usenetserver.com/)
-- [XS News](https://www.xsnews.nl/en/index.html)
-
-##### Game Server Hosting
-- [DatHost](https://dathost.net/) — Premium Game Server Hosting
-- [NITRADO](https://server.nitrado.net/en-US) — Gaming Server
-- [Pine Hosting](https://pinehosting.com/) — Game Server Hosting | Dedicated Hosting
-- [Shockbyte](https://shockbyte.com/) — Minecraft Server Hosting
-- [Sparked Host](https://sparkedhost.com/) — Minecraft Server Hosting
-- [ZAP-Hosting](https://zap-hosting.com/en/)
 
 #### Software Company
 - [Acapela Group](https://www.acapela-group.com/)
@@ -2755,6 +4821,124 @@ description: Stores, marketplaces, product research, and resale
 - [Vention](https://vention.io/)
 - [VS Robotics](https://vsrobotics.ru/)
 - [Wind River](https://www.windriver.com/)
+
+##### AI Lab Company
+- ⭐ **[Black Forest Labs](https://bfl.ai/)** — Frontier AI Lab
+- ⭐ **[Nomic AI](https://www.nomic.ai/)**
+- ⭐ **[Stability AI](https://stability.ai/)**
+- [AIMultiple](https://aimultiple.com/)
+- [ALEPH ALPHA](https://aleph-alpha.com/) — AI for Enterprises and Governments
+- [Ango AI](https://ango.ai/)
+- [Anthropic](https://www.anthropic.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/anthropics)
+- [AyasdiAI](https://www.ayasdi.com/)
+- [Bloom AI](https://bloomai.co/)
+- [Clarifai](https://www.clarifai.com/)
+- [Clearview AI](https://clearview.ai/)
+- [Cognition](https://www.cognition.ai/)
+- [comma.ai](https://comma.ai/) — make driving chill
+- [Dataloop.ai](https://dataloop.ai/platform/)
+- [DeepDetect](https://www.deepdetect.com/)
+- [DeepMind](https://www.deepmind.com/)
+- [Digital Barriers](https://www.digitalbarriers.com/)
+- [EdgeVerve](https://www.edgeverve.com/)
+- [Empero](https://empero.org/) — Independent AI Research Lab
+- [Engati](https://www.engati.com/)
+- [FindFace.pro](https://findface.pro/)
+- [H](https://hcompany.ai/) — Operational intelligence for the enterprise
+- [H2O AI](https://h2o.ai/) — The fastest, most accurate AI Cloud Platform
+- [Hailuo AI](https://www.hailuo.ai/) — Your Ultimate AI Assistant for Intelligent Solutions
+- [Haup AI](https://www.haup.ai/) — Artificial Intelligent
+- [Inception](https://www.inceptionlabs.ai/) — A new frontier in LLM speed
+- [INCLUSION AI](https://www.inclusion-ai.org/)
+- [Jina AI](https://jina.ai/#find-your-portals) — Your Portal to Multimodal AI
+- [Jolibrain](https://www.jolibrain.com/)
+- [Khoj AI](https://khoj.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/khoj-ai/khoj)
+- [lablab.ai](https://lablab.ai/)
+- [LeanDog](https://www.leandog.com/)
+- [Lionbridge AI](https://lionbridge.ai/)
+- [LMSYS Org](https://lmsys.org/)
+- [Loss Landscape](https://losslandscape.com/)
+- [Manifold](https://www.manifold.ai/)
+- [Marqo](https://www.marqo.ai/) — Tensor-based Search and Analytics engine
+- [Martian](https://withmartian.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/withmartian) — Understanding Intelligence
+- [MEGVII](https://megvii.com/)
+- [Meta AI](https://ai.meta.com/)
+- [MiniMax](https://www.minimax.io/) — Intelligence with everyone
+- [Modular](https://www.modular.com/) — AI development starts here
+- [NOUS RESEARCH](https://nousresearch.com/)
+- [Numier](https://www.numier.com/) — Software TPV
+- [ONNX Runtime](https://onnxruntime.ai/)
+- [Onpassive](https://www.onpassive.com/)
+- [OpenAI](https://openai.com/)
+- [OpenCV](https://opencv.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/opencv/opencv)
+- [OpenCV.ai](https://www.opencv.ai/)
+- [OpenMOSS](https://www.open-moss.com/)
+- [p0](https://p0.systems/) — AI Lab · Free Open Models, Real Limits
+- [Parallel Web Systems](https://parallel.ai/) — Enterprise Deep Research API
+- [Partnership on AI](https://www.partnershiponai.org/)
+- [Pinecone](https://www.pinecone.io/) — Vector Database for Vector Search
+- [Protocol Labs](https://protocol.ai/)
+- [Public AI Inference Utility](https://publicai.co/)
+- [Quasi](https://quasi.market/)
+- [RealSense](https://www.realsenseai.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/realsenseai/librealsense) — RealSense
+- [Runway Research](https://research.runwayml.com/)
+- [Safe Superintelligence Inc.](https://ssi.inc/)
+- [Sakana AI](https://sakana.ai/) — Building Frontier AI in Japan
+- [Scale AI](https://scale.com/) — The Data Platform for AI
+- [Sherpa.ai](https://www.sherpa.ai/)
+- [Smol.ai](https://smol.ai/)
+- [SupraLabs · Independent AI Lab](https://supra-labs.com/)
+- [Syte.ai](https://www.syte.ai/)
+- [Tecnalia](https://www.tecnalia.com/) — Centro de investigación | Desarrollo tecnológico
+- [Tencent ARC](https://arc.tencent.com/) — 官网-腾讯
+- [Thinking Machines Lab](https://thinkingmachines.ai/)
+- [Towards AI](https://towardsai.net/)
+- [TypeSafe AI](https://typesafe.ai/)
+- [Veritone](https://veritone.com/)
+- [Vue.ai](https://vue.ai/)
+- [Wipro](https://www.wipro.com/)
+- [WOMBO](https://www.w.ai/) — w.ai
+- [Z.ai](https://www.zhipuai.cn/en) — Inspiring AGI to Benefit Humanity
+
+##### Biometric Company
+- [Airside](https://www.airsidemobile.com/)
+- [Biometric Update](https://www.biometricupdate.com/)
+- [Ebisbank](https://www.ebisbank.com/)
+- [Genome Analysis](https://selfdecode.com/)
+- [ID Crypt](https://www.idcrypt.global/)
+- [ID4Africa](https://id4africa.com/)
+- [ID2020](https://id2020.org/) — Digital Identity Alliance
+- [IDinsight](https://www.idinsight.org/)
+- [idRamp](https://idramp.com/)
+- [Panta Group](https://www.pantagroup.com.au/)
+- [RecFaces](https://recfaces.com/)
+- [Simprints Technology](https://www.simprints.com/)
+- [Sovrin](https://sovrin.org/)
+- [Validated ID](https://www.validatedid.com/)
+- [Watrix](http://www.watrix.ai/)
+
+##### Consumer Experience
+- [CM.com](https://www.cm.com/)
+- [Fix the photo](https://fixthephoto.com/)
+- [Hotelinking](https://www.hotelinking.com/)
+- [Intercom](https://www.intercom.com/)
+- [Lean Mind](https://www.leanmind.es/es)
+- [Mastermind Manager](https://mastermindbetter.com/)
+- [Opinator](https://web.opinator.com/)
+
+##### Engineering Software
+- [Bentley](https://www.bentley.com/en)
+- [Graphisoft](https://www.graphisoft.com/en-us/) — BIM software solutions for AEC experts
+- [NovaScan3D](https://novascan3d.com/) — Profesionales del escaneado 3D e ingeniería inversa
+
+##### Human Resources
+- [Adecco Group](https://www.adeccogroup.com/)
+- [ADP](https://www.adp.com/)
+- [Breezy HR](https://breezy.hr/)
+- [Greenhouse](https://www.greenhouse.com/) — Applicant tracking software & hiring platform
+- [Grupo Constant](http://www.grupoconstant.com/)
+- [Sopra HR](https://www.soprahr.com/en)
+- [Ultimate Software](https://www.ultimatesoftware.com/)
 
 ##### Software Development Company
 - ⭐ **[Qt](https://www.qt.io/)** — Tools for Each Stage of Software Development Lifecycle
@@ -2894,6 +5078,242 @@ description: Stores, marketplaces, product research, and resale
 - [You Apps](https://you-apps.net/)
 - [Zoonk](https://zoonk.org/en) — Open-source solutions for education
 
+###### App Development
+- [Acrobits](https://acrobits.net/) — Business Softphone Apps
+- [Apalon](https://www.apalon.com/)
+- [APPICS](https://appics.com/index.html)
+- [Auria Pro](https://auriaapp.com/auria) — Mobile Music Production
+- [Avantic](http://avantic.net/)
+- [Bart Bonte](https://bartbonte.com/)
+- [chernykh.tech](https://chernykh.tech/)
+- [Codeway](https://www.codeway.co/)
+- [ColdCode.info](http://coldcode.info/)
+- [Creaceed Apps for iPhone, iPad, and Mac](https://creaceed.com/)
+- [DaisyApps](http://www.daisyapps.de/)
+- [darken.eu](https://darken.eu/) — Matthias Urhahn
+- [Define Studio](https://www.definestudio.in/)
+- [Dream Space](https://dream-space.web.id/)
+- [Dromosys](https://www.dromosys.com/)
+- [ecomobile](https://www.ecomobile.vn/)
+- [Fenrir Inc](https://www.fenrir-inc.com/jp)
+- [FoneDog](https://www.fonedog.com/) — iPhone & Android Data Recovery, Mac Cleaner, Free PDF Compressor
+- [FSApps](http://picxarts.com/)
+- [Gameta](https://www.gameta.pro/#/)
+- [Hipolabs](https://hipolabs.com/)
+- [Infinite Studio](https://www.infinitestudio.art/discover.php)
+- [Innovagic Technologies](https://innovagictechnologies.com/)
+- [Ionic.io](https://ionic.io/)
+- [jRustonApps](https://jrustonapps.com/)
+- [Kdan Mobile](https://www.kdanmobile.com/)
+- [Kdan Mobile](https://www.kdanmobile.com/en)
+- [Keuwl.com](https://www.keuwl.com/)
+- [Kin](https://kin.org/)
+- [KTW Apps](https://ktwapps-ad94a.firebaseapp.com/)
+- [Leap fitness](https://leap.app/)
+- [LOLAGRE](https://lolagre.com/)
+- [Microsys Applications](https://www.microsys.ro/)
+- [Mind-e-fy](https://mind-e-fy.com/) — Software Development Company
+- [MindInventory](https://www.mindinventory.com/)
+- [Mobisystems](https://www.mobisystems.com/en-us/)
+- [mobpals](https://www.mobpals.com/)
+- [My.com](https://my.com/)
+- [Noctua Software](https://noctua-software.com/apps)
+- [Oniro Working Group](https://oniroproject.org/)
+- [OOZOU](https://oozou.com/)
+- [Readdle](https://readdle.com/) — Best productivity apps for iPhone, iPad and Mac
+- [Red Sky Labs](https://www.redsky-labs.com/)
+- [Rhythm Software](https://rhmsoft.com/)
+- [Sharpened Productions](https://sharpened.com/)
+- [Simple Mobile Tools](https://www.simplemobiletools.com/)
+- [Simply](https://www.hellosimply.com/) — The best apps to set your creativity free
+- [Simulation Curriculum](https://simulationcurriculum.com/)
+- [SmartWidget Labs](https://smartwidgetlabs.com/)
+- [Soft24Hours](https://soft24hours.com/)
+- [Splend Apps](https://splendapps.com/)
+- [SugarySoft](https://sugarysoft.com/)
+- [Synium Software](https://www.syniumsoftware.com/)
+- [Tapbots](https://tapbots.com/)
+- [The Simple Apps](https://www.tuantv.dev/)
+- [TranCreative](https://www.trancreative.com/)
+- [Vectura Games](https://vecturagames.com/)
+- [Vieyra Software](https://www.vieyrasoftware.net/)
+- [Vishtek Studios](https://www.vishtekstudios.com/)
+- [Vito Technology](https://vitotechnology.com/)
+- [Wildlife Studios](https://wildlifestudios.com/)
+- [wolfSYS.net](https://www.wolfsys.net/)
+- [XD.com](https://www.xd.com/) — 心动
+- [ZDevs](https://zdevs.ru/en/)
+- [Zipo apps](https://zipoapps.com/)
+
+###### Desktop App Development
+- ⭐ **[Ableton](https://www.ableton.com/en/)** — Creative tools for music makers
+- [ABBYY](https://www.abbyy.com/)
+- [Ableton](https://www.ableton.com/) — Creative tools for music makers
+- [AccelWare, Inc.](http://www.accelware.com/)
+- [ACDSee](https://www.acdsee.com/en/index)
+- [Adobe Inc](https://www.adobe.com/)
+- [Affinity](https://affinity.serif.com/en-us/) — Professional Creative Software
+- [AFMG](https://www.afmg.eu/index.php/company.html) — Ahnert Feistel Media Group
+- [Aimersoft](https://www.aimersoft.com/)
+- [Apowersoft](https://www.apowersoft.com/free-online-screen-recorder?__c=1)
+- [Apowersoft](https://www.apowersoft.es/)
+- [Apowersoft](https://www.apowersoft.com/)
+- [Arclab Software](https://www.arclab.com/en/)
+- [Argos Open Tech](https://www.argosopentech.com/)
+- [Atlassian](https://www.atlassian.com/)
+- [Autodesk](https://www.autodesk.com/)
+- [Autodesk Forge](https://forge.autodesk.com/)
+- [Avid](https://www.avid.com/)
+- [AVS](https://www.avs4you.com/)
+- [balena](https://www.balena.io/) — The complete IoT fleet management platform
+- [Bandicam](https://www.bandicam.com/)
+- [Blackmagic Design](https://www.blackmagicdesign.com/)
+- [Boinx Software](https://boinx.com/)
+- [Bolide Software](https://www.bolidesoft.com/)
+- [Busy Works Beats](https://busyworksbeats.com/)
+- [BZG](https://www.bzgapps.com/)
+- [C-Command](https://c-command.com/)
+- [Chaos Group](https://www.chaosgroup.com/)
+- [Cloud68.co](https://cloud68.co/)
+- [Code Aurora](https://www.codeaurora.org/)
+- [CodeWeavers](https://www.codeweavers.com/)
+- [Collectorz](https://www.collectorz.com/)
+- [Corel Corporation](https://www.corel.com/en) — Digital Media & Productivity Software
+- [CorelDRAW](https://www.coreldraw.com/en/)
+- [Cyberlink](https://www.cyberlink.com/)
+- [DEVONtechnologies](https://www.devontechnologies.com/)
+- [DxO photo-editing software](https://www.dxo.com/) — Simply better images
+- [Ebey Tech](https://ebeytech.com/) — macOS and Windows apps
+- [Eltima](https://www.eltima.com/)
+- [Escape Motions](https://www.escapemotions.com/)
+- [FairCode](https://www.faircode.eu/)
+- [Final Draft](https://finaldraft.com/)
+- [FIPLAB](https://fiplab.com/)
+- [Flavio Tordini](https://flavio.tordini.org/)
+- [Foundry](https://www.foundry.com/)
+- [Freedom Scientific](https://www.freedomscientific.com/)
+- [Frequency](https://www.frequency.com/)
+- [G.U.Labs](https://gulabs.com/)
+- [Gihosoft Software](https://www.gihosoft.com/)
+- [Graphisoft](https://graphisoft.com/)
+- [Hexler.net](https://hexler.net/)
+- [Image-Line](https://www.image-line.com/) — Create Your Best Music
+- [Iskysoft](https://www.iskysoft.com/)
+- [JAM Software](https://www.jam-software.com/)
+- [Kastelo Inc.](https://kastelo.net/)
+- [KDE Community](https://kde.org/)
+- [KingSoft](https://www.kingsoft.com/)
+- [Kornelix.net](https://kornelix.net/)
+- [Laan Labs](https://labs.laan.com/)
+- [Librem One](https://librem.one/) — Purism
+- [MAGIX](https://www.magix.com/us/)
+- [Many Tricks · Fine Mac Utilities](https://manytricks.com/)
+- [Mapache Dev](https://mapache.dev/)
+- [Maxon](https://www.maxon.net/en)
+- [Mirillis](https://mirillis.com/es)
+- [Movavi](https://www.movavi.com/) — Video editor
+- [Nero](https://www.nero.com/esp)
+- [Nickvision](https://nickvision.org/)
+- [O&O Software](https://www.oo-software.com/en/)
+- [Objective Development](https://www.obdev.at/index.html)
+- [Omni Group](https://www.omnigroup.com/)
+- [OTOY](https://home.otoy.com/)
+- [Phase One](https://www.phaseone.com/)
+- [Pinnacle](https://www.pinnaclesys.com/es)
+- [Pixologic](http://pixologic.com/)
+- [PQINA](https://pqina.nl/)
+- [Qiplex](https://qiplex.com/)
+- [ReasonStudios](https://www.reasonstudios.com/)
+- [Rendom lab](https://rendom.net/) — Design and Development
+- [Rogue Amoeba](https://rogueamoeba.com/)
+- [SciTools](https://www.scitools.com/)
+- [Setapp](https://setapp.com/)
+- [Softdiv Software](https://www.softdivshareware.com/)
+- [Steinberg](https://www.steinberg.net/) — Our Passion for Music Inspires
+- [suckless.org](https://suckless.org/) — software that suck less
+- [TechSmith](https://www.techsmith.com/)
+- [The Objective-See Foundation](https://objective-see.org/)
+- [Toon Boom Animation](https://www.toonboom.com/)
+- [Topaz Labs](https://www.topazlabs.com/)
+- [Tracktion](https://www.tracktion.com/) — audio editing, virtual instruments, plugins
+- [Tunabelly Sofware](https://www.tunabellysoftware.com/)
+- [Vidmore](https://www.vidmore.com/)
+- [Visual Computing Group](https://visual-computing.com/)
+- [Vovsoft](https://vovsoft.com/)
+- [Wide Angle Software](https://www.wideanglesoftware.com/)
+- [Wondershare](https://www.wondershare.com/)
+- [Xiles.app](https://www.xiles.app/)
+
+**AR Development**
+- [Ffface.me](https://ffface.me/)
+- [MAKinteract Lab](https://makinteract.kaist.ac.kr/)
+- [Simlab Soft](https://www.simlab-soft.com/)
+- [WeAR Studio](https://wear-studio.com/)
+- [WEARFITS](https://wearfits.com/)
+
+###### DevOps
+- [DaKheera47/job-ops](https://github.com/DaKheera47/job-ops) — job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process
+- [emma](https://emma.ms/) — cloud as an application
+- [JFrog](https://www.jfrog.com/)
+- [Opsly](https://www.opslycloud.com/)
+- [Sevalla](https://sevalla.com/)
+- [Traefik Labs](https://traefik.io/) — Say Goodbye to Connectivity Chaos
+
+###### Game Development
+- [Aapeli.net](https://aapeli.net/)
+- [ABA English](https://www.abaenglish.com/es#topDiv)
+- [Ciphers Realm](https://ciphersrealm.com/)
+- [DG14 Games](https://dg14games.com/)
+- [Estoty](https://estoty.com/)
+- [etermax](https://www.etermax.com/)
+- [Farlight Games](https://farlightgames.com/)
+- [Fingersoft](https://fingersoft.com/)
+- [gamberrylabs](http://gameberrylabs.com/)
+- [gamebra.in](https://www.gamebra.in/)
+- [GAMEE](https://www.gamee.com/)
+- [Gameloft](https://www.gameloft.com/) — Mobile Video Games Developer
+- [Gamma Play](https://www.gammaplay.com/)
+- [Garena Free Fire](https://ff.garena.com/)
+- [General Adaptive](https://generaladaptive.com/)
+- [Halfbrick](https://halfbrick.com/)
+- [IGG](https://www.igg.com/) — Gamers at Heart
+- [Infinity Games](https://infinitygames.io/)
+- [King.com](https://www.king.com/)
+- [Lilith](https://www.lilith.com/)
+- [Lima Sky](http://www.limasky.com/)
+- [Lion Studios](https://lionstudios.cc/)
+- [Macaque Games](http://macaquegames.com/)
+- [Mediocre](http://www.mediocre.se/)
+- [Mekorama](https://www.mekorama.com/)
+- [Mobile Legends](https://m.mobilelegends.com/en)
+- [MOBIRIX](https://www.mobirix.com/main/main.html)
+- [MOONTON](https://www.moonton.com/#/home)
+- [Nekki](https://nekki.com/)
+- [NetEase Games](https://www.neteasegames.com/)
+- [Nexters](https://nexters.com/)
+- [Noodlecake Studios](https://noodlecake.com/)
+- [Nuclear games](https://nucleargames.one/)
+- [Outfit7](https://outfit7.com/)
+- [Plarium](https://plarium.com/)
+- [Playgendary](https://playgendary.com/en)
+- [Playrix](https://www.playrix.com/)
+- [Punk Labs](https://punklabs.com/)
+- [Quarzo Apps](https://quarzoapps.com/)
+- [Rebellion](https://rebellion.com/)
+- [RobTop Games](http://www.robtopgames.com/)
+- [Rovio](https://www.rovio.com/)
+- [SayGames](https://saygames.by/)
+- [SohaGame](https://sohagame.vn/)
+- [Supercell](https://supercell.com/en)
+- [SYBO](https://sybogames.com/)
+- [tap4fun](https://www.tap4fun.com/en)
+- [Tencent Games](https://www.tencentgames.com/)
+- [Treebit](https://www.treebit.es/es)
+- [Wargaming.net games](https://wargaming.net/en) — the full list of games available for players on the official website
+- [Zed Italy](https://www.zedit.info/)
+- [ZomboDroid Apps](https://www.zombodroid.com/)
+- [Zynga](https://www.zynga.com/)
+
 ###### Game Studios
 - [2DD Entertainment](http://2ddentertainment.com/)
 - [2K](https://2k.com/en-US)
@@ -3006,234 +5426,6 @@ description: Stores, marketplaces, product research, and resale
 - [ZeniMax Online Studios](https://www.zenimaxonline.com/)
 - [ZTGame](https://www.ztgame.com/)
 
-###### Desktop App Development
-- ⭐ **[Ableton](https://www.ableton.com/en/)** — Creative tools for music makers
-- [ABBYY](https://www.abbyy.com/)
-- [Ableton](https://www.ableton.com/) — Creative tools for music makers
-- [AccelWare, Inc.](http://www.accelware.com/)
-- [ACDSee](https://www.acdsee.com/en/index)
-- [Adobe Inc](https://www.adobe.com/)
-- [Affinity](https://affinity.serif.com/en-us/) — Professional Creative Software
-- [AFMG](https://www.afmg.eu/index.php/company.html) — Ahnert Feistel Media Group
-- [Aimersoft](https://www.aimersoft.com/)
-- [Apowersoft](https://www.apowersoft.com/free-online-screen-recorder?__c=1)
-- [Apowersoft](https://www.apowersoft.es/)
-- [Apowersoft](https://www.apowersoft.com/)
-- [Arclab Software](https://www.arclab.com/en/)
-- [Argos Open Tech](https://www.argosopentech.com/)
-- [Atlassian](https://www.atlassian.com/)
-- [Autodesk](https://www.autodesk.com/)
-- [Autodesk Forge](https://forge.autodesk.com/)
-- [Avid](https://www.avid.com/)
-- [AVS](https://www.avs4you.com/)
-- [balena](https://www.balena.io/) — The complete IoT fleet management platform
-- [Bandicam](https://www.bandicam.com/)
-- [Blackmagic Design](https://www.blackmagicdesign.com/)
-- [Boinx Software](https://boinx.com/)
-- [Bolide Software](https://www.bolidesoft.com/)
-- [Busy Works Beats](https://busyworksbeats.com/)
-- [BZG](https://www.bzgapps.com/)
-- [C-Command](https://c-command.com/)
-- [Chaos Group](https://www.chaosgroup.com/)
-- [Cloud68.co](https://cloud68.co/)
-- [Code Aurora](https://www.codeaurora.org/)
-- [CodeWeavers](https://www.codeweavers.com/)
-- [Collectorz](https://www.collectorz.com/)
-- [Corel Corporation](https://www.corel.com/en) — Digital Media & Productivity Software
-- [CorelDRAW](https://www.coreldraw.com/en/)
-- [Cyberlink](https://www.cyberlink.com/)
-- [DEVONtechnologies](https://www.devontechnologies.com/)
-- [DxO photo-editing software](https://www.dxo.com/) — Simply better images
-- [Ebey Tech](https://ebeytech.com/) — macOS and Windows apps
-- [Eltima](https://www.eltima.com/)
-- [Escape Motions](https://www.escapemotions.com/)
-- [FairCode](https://www.faircode.eu/)
-- [Final Draft](https://finaldraft.com/)
-- [FIPLAB](https://fiplab.com/)
-- [Flavio Tordini](https://flavio.tordini.org/)
-- [Foundry](https://www.foundry.com/)
-- [Freedom Scientific](https://www.freedomscientific.com/)
-- [Frequency](https://www.frequency.com/)
-- [G.U.Labs](https://gulabs.com/)
-- [Gihosoft Software](https://www.gihosoft.com/)
-- [Graphisoft](https://graphisoft.com/)
-- [Hexler.net](https://hexler.net/)
-- [Image-Line](https://www.image-line.com/) — Create Your Best Music
-- [Iskysoft](https://www.iskysoft.com/)
-- [JAM Software](https://www.jam-software.com/)
-- [Kastelo Inc.](https://kastelo.net/)
-- [KDE Community](https://kde.org/)
-- [KingSoft](https://www.kingsoft.com/)
-- [Kornelix.net](https://kornelix.net/)
-- [Laan Labs](https://labs.laan.com/)
-- [Librem One](https://librem.one/) — Purism
-- [MAGIX](https://www.magix.com/us/)
-- [Many Tricks · Fine Mac Utilities](https://manytricks.com/)
-- [Mapache Dev](https://mapache.dev/)
-- [Maxon](https://www.maxon.net/en)
-- [Mirillis](https://mirillis.com/es)
-- [Movavi](https://www.movavi.com/) — Video editor
-- [Nero](https://www.nero.com/esp)
-- [Nickvision](https://nickvision.org/)
-- [O&O Software](https://www.oo-software.com/en/)
-- [Objective Development](https://www.obdev.at/index.html)
-- [Omni Group](https://www.omnigroup.com/)
-- [OTOY](https://home.otoy.com/)
-- [Phase One](https://www.phaseone.com/)
-- [Pinnacle](https://www.pinnaclesys.com/es)
-- [Pixologic](http://pixologic.com/)
-- [PQINA](https://pqina.nl/)
-- [Qiplex](https://qiplex.com/)
-- [ReasonStudios](https://www.reasonstudios.com/)
-- [Rendom lab](https://rendom.net/) — Design and Development
-- [Rogue Amoeba](https://rogueamoeba.com/)
-- [SciTools](https://www.scitools.com/)
-- [Setapp](https://setapp.com/)
-- [Softdiv Software](https://www.softdivshareware.com/)
-- [Steinberg](https://www.steinberg.net/) — Our Passion for Music Inspires
-- [suckless.org](https://suckless.org/) — software that suck less
-- [TechSmith](https://www.techsmith.com/)
-- [The Objective-See Foundation](https://objective-see.org/)
-- [Toon Boom Animation](https://www.toonboom.com/)
-- [Topaz Labs](https://www.topazlabs.com/)
-- [Tracktion](https://www.tracktion.com/) — audio editing, virtual instruments, plugins
-- [Tunabelly Sofware](https://www.tunabellysoftware.com/)
-- [Vidmore](https://www.vidmore.com/)
-- [Visual Computing Group](https://visual-computing.com/)
-- [Vovsoft](https://vovsoft.com/)
-- [Wide Angle Software](https://www.wideanglesoftware.com/)
-- [Wondershare](https://www.wondershare.com/)
-- [Xiles.app](https://www.xiles.app/)
-
-**AR Development**
-- [Ffface.me](https://ffface.me/)
-- [MAKinteract Lab](https://makinteract.kaist.ac.kr/)
-- [Simlab Soft](https://www.simlab-soft.com/)
-- [WeAR Studio](https://wear-studio.com/)
-- [WEARFITS](https://wearfits.com/)
-
-###### Game Development
-- [Aapeli.net](https://aapeli.net/)
-- [ABA English](https://www.abaenglish.com/es#topDiv)
-- [Ciphers Realm](https://ciphersrealm.com/)
-- [DG14 Games](https://dg14games.com/)
-- [Estoty](https://estoty.com/)
-- [etermax](https://www.etermax.com/)
-- [Farlight Games](https://farlightgames.com/)
-- [Fingersoft](https://fingersoft.com/)
-- [gamberrylabs](http://gameberrylabs.com/)
-- [gamebra.in](https://www.gamebra.in/)
-- [GAMEE](https://www.gamee.com/)
-- [Gameloft](https://www.gameloft.com/) — Mobile Video Games Developer
-- [Gamma Play](https://www.gammaplay.com/)
-- [Garena Free Fire](https://ff.garena.com/)
-- [General Adaptive](https://generaladaptive.com/)
-- [Halfbrick](https://halfbrick.com/)
-- [IGG](https://www.igg.com/) — Gamers at Heart
-- [Infinity Games](https://infinitygames.io/)
-- [King.com](https://www.king.com/)
-- [Lilith](https://www.lilith.com/)
-- [Lima Sky](http://www.limasky.com/)
-- [Lion Studios](https://lionstudios.cc/)
-- [Macaque Games](http://macaquegames.com/)
-- [Mediocre](http://www.mediocre.se/)
-- [Mekorama](https://www.mekorama.com/)
-- [Mobile Legends](https://m.mobilelegends.com/en)
-- [MOBIRIX](https://www.mobirix.com/main/main.html)
-- [MOONTON](https://www.moonton.com/#/home)
-- [Nekki](https://nekki.com/)
-- [NetEase Games](https://www.neteasegames.com/)
-- [Nexters](https://nexters.com/)
-- [Noodlecake Studios](https://noodlecake.com/)
-- [Nuclear games](https://nucleargames.one/)
-- [Outfit7](https://outfit7.com/)
-- [Plarium](https://plarium.com/)
-- [Playgendary](https://playgendary.com/en)
-- [Playrix](https://www.playrix.com/)
-- [Punk Labs](https://punklabs.com/)
-- [Quarzo Apps](https://quarzoapps.com/)
-- [Rebellion](https://rebellion.com/)
-- [RobTop Games](http://www.robtopgames.com/)
-- [Rovio](https://www.rovio.com/)
-- [SayGames](https://saygames.by/)
-- [SohaGame](https://sohagame.vn/)
-- [Supercell](https://supercell.com/en)
-- [SYBO](https://sybogames.com/)
-- [tap4fun](https://www.tap4fun.com/en)
-- [Tencent Games](https://www.tencentgames.com/)
-- [Treebit](https://www.treebit.es/es)
-- [Wargaming.net games](https://wargaming.net/en) — the full list of games available for players on the official website
-- [Zed Italy](https://www.zedit.info/)
-- [ZomboDroid Apps](https://www.zombodroid.com/)
-- [Zynga](https://www.zynga.com/)
-
-###### App Development
-- [Acrobits](https://acrobits.net/) — Business Softphone Apps
-- [Apalon](https://www.apalon.com/)
-- [APPICS](https://appics.com/index.html)
-- [Auria Pro](https://auriaapp.com/auria) — Mobile Music Production
-- [Avantic](http://avantic.net/)
-- [Bart Bonte](https://bartbonte.com/)
-- [chernykh.tech](https://chernykh.tech/)
-- [Codeway](https://www.codeway.co/)
-- [ColdCode.info](http://coldcode.info/)
-- [Creaceed Apps for iPhone, iPad, and Mac](https://creaceed.com/)
-- [DaisyApps](http://www.daisyapps.de/)
-- [darken.eu](https://darken.eu/) — Matthias Urhahn
-- [Define Studio](https://www.definestudio.in/)
-- [Dream Space](https://dream-space.web.id/)
-- [Dromosys](https://www.dromosys.com/)
-- [ecomobile](https://www.ecomobile.vn/)
-- [Fenrir Inc](https://www.fenrir-inc.com/jp)
-- [FoneDog](https://www.fonedog.com/) — iPhone & Android Data Recovery, Mac Cleaner, Free PDF Compressor
-- [FSApps](http://picxarts.com/)
-- [Gameta](https://www.gameta.pro/#/)
-- [Hipolabs](https://hipolabs.com/)
-- [Infinite Studio](https://www.infinitestudio.art/discover.php)
-- [Innovagic Technologies](https://innovagictechnologies.com/)
-- [Ionic.io](https://ionic.io/)
-- [jRustonApps](https://jrustonapps.com/)
-- [Kdan Mobile](https://www.kdanmobile.com/)
-- [Kdan Mobile](https://www.kdanmobile.com/en)
-- [Keuwl.com](https://www.keuwl.com/)
-- [Kin](https://kin.org/)
-- [KTW Apps](https://ktwapps-ad94a.firebaseapp.com/)
-- [Leap fitness](https://leap.app/)
-- [LOLAGRE](https://lolagre.com/)
-- [Microsys Applications](https://www.microsys.ro/)
-- [Mind-e-fy](https://mind-e-fy.com/) — Software Development Company
-- [MindInventory](https://www.mindinventory.com/)
-- [Mobisystems](https://www.mobisystems.com/en-us/)
-- [mobpals](https://www.mobpals.com/)
-- [My.com](https://my.com/)
-- [Noctua Software](https://noctua-software.com/apps)
-- [Oniro Working Group](https://oniroproject.org/)
-- [OOZOU](https://oozou.com/)
-- [Readdle](https://readdle.com/) — Best productivity apps for iPhone, iPad and Mac
-- [Red Sky Labs](https://www.redsky-labs.com/)
-- [Rhythm Software](https://rhmsoft.com/)
-- [Sharpened Productions](https://sharpened.com/)
-- [Simple Mobile Tools](https://www.simplemobiletools.com/)
-- [Simply](https://www.hellosimply.com/) — The best apps to set your creativity free
-- [Simulation Curriculum](https://simulationcurriculum.com/)
-- [SmartWidget Labs](https://smartwidgetlabs.com/)
-- [Soft24Hours](https://soft24hours.com/)
-- [Splend Apps](https://splendapps.com/)
-- [SugarySoft](https://sugarysoft.com/)
-- [Synium Software](https://www.syniumsoftware.com/)
-- [Tapbots](https://tapbots.com/)
-- [The Simple Apps](https://www.tuantv.dev/)
-- [TranCreative](https://www.trancreative.com/)
-- [Vectura Games](https://vecturagames.com/)
-- [Vieyra Software](https://www.vieyrasoftware.net/)
-- [Vishtek Studios](https://www.vishtekstudios.com/)
-- [Vito Technology](https://vitotechnology.com/)
-- [Wildlife Studios](https://wildlifestudios.com/)
-- [wolfSYS.net](https://www.wolfsys.net/)
-- [XD.com](https://www.xd.com/) — 心动
-- [ZDevs](https://zdevs.ru/en/)
-- [Zipo apps](https://zipoapps.com/)
-
 ###### Web Development
 - [10up](https://10up.com/)
 - [Algonquin Design](https://algonquindesign.ca/)
@@ -3315,117 +5507,16 @@ description: Stores, marketplaces, product research, and resale
 - [Zindex Software](https://zindex.software/)
 - [Zurb](https://zurb.com/)
 
-###### DevOps
-- [DaKheera47/job-ops](https://github.com/DaKheera47/job-ops) — job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process
-- [emma](https://emma.ms/) — cloud as an application
-- [JFrog](https://www.jfrog.com/)
-- [Opsly](https://www.opslycloud.com/)
-- [Sevalla](https://sevalla.com/)
-- [Traefik Labs](https://traefik.io/) — Say Goodbye to Connectivity Chaos
-
-##### AI Lab Company
-- ⭐ **[Black Forest Labs](https://bfl.ai/)** — Frontier AI Lab
-- ⭐ **[Nomic AI](https://www.nomic.ai/)**
-- ⭐ **[Stability AI](https://stability.ai/)**
-- [AIMultiple](https://aimultiple.com/)
-- [ALEPH ALPHA](https://aleph-alpha.com/) — AI for Enterprises and Governments
-- [Ango AI](https://ango.ai/)
-- [Anthropic](https://www.anthropic.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/anthropics)
-- [AyasdiAI](https://www.ayasdi.com/)
-- [Bloom AI](https://bloomai.co/)
-- [Clarifai](https://www.clarifai.com/)
-- [Clearview AI](https://clearview.ai/)
-- [Cognition](https://www.cognition.ai/)
-- [comma.ai](https://comma.ai/) — make driving chill
-- [Dataloop.ai](https://dataloop.ai/platform/)
-- [DeepDetect](https://www.deepdetect.com/)
-- [DeepMind](https://www.deepmind.com/)
-- [Digital Barriers](https://www.digitalbarriers.com/)
-- [EdgeVerve](https://www.edgeverve.com/)
-- [Empero](https://empero.org/) — Independent AI Research Lab
-- [Engati](https://www.engati.com/)
-- [FindFace.pro](https://findface.pro/)
-- [H](https://hcompany.ai/) — Operational intelligence for the enterprise
-- [H2O AI](https://h2o.ai/) — The fastest, most accurate AI Cloud Platform
-- [Hailuo AI](https://www.hailuo.ai/) — Your Ultimate AI Assistant for Intelligent Solutions
-- [Haup AI](https://www.haup.ai/) — Artificial Intelligent
-- [Inception](https://www.inceptionlabs.ai/) — A new frontier in LLM speed
-- [INCLUSION AI](https://www.inclusion-ai.org/)
-- [Jina AI](https://jina.ai/#find-your-portals) — Your Portal to Multimodal AI
-- [Jolibrain](https://www.jolibrain.com/)
-- [Khoj AI](https://khoj.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/khoj-ai/khoj)
-- [lablab.ai](https://lablab.ai/)
-- [LeanDog](https://www.leandog.com/)
-- [Lionbridge AI](https://lionbridge.ai/)
-- [LMSYS Org](https://lmsys.org/)
-- [Loss Landscape](https://losslandscape.com/)
-- [Manifold](https://www.manifold.ai/)
-- [Marqo](https://www.marqo.ai/) — Tensor-based Search and Analytics engine
-- [Martian](https://withmartian.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/withmartian) — Understanding Intelligence
-- [MEGVII](https://megvii.com/)
-- [Meta AI](https://ai.meta.com/)
-- [MiniMax](https://www.minimax.io/) — Intelligence with everyone
-- [Modular](https://www.modular.com/) — AI development starts here
-- [NOUS RESEARCH](https://nousresearch.com/)
-- [Numier](https://www.numier.com/) — Software TPV
-- [ONNX Runtime](https://onnxruntime.ai/)
-- [Onpassive](https://www.onpassive.com/)
-- [OpenAI](https://openai.com/)
-- [OpenCV](https://opencv.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/opencv/opencv)
-- [OpenCV.ai](https://www.opencv.ai/)
-- [OpenMOSS](https://www.open-moss.com/)
-- [p0](https://p0.systems/) — AI Lab · Free Open Models, Real Limits
-- [Parallel Web Systems](https://parallel.ai/) — Enterprise Deep Research API
-- [Partnership on AI](https://www.partnershiponai.org/)
-- [Pinecone](https://www.pinecone.io/) — Vector Database for Vector Search
-- [Protocol Labs](https://protocol.ai/)
-- [Public AI Inference Utility](https://publicai.co/)
-- [Quasi](https://quasi.market/)
-- [RealSense](https://www.realsenseai.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/realsenseai/librealsense) — RealSense
-- [Runway Research](https://research.runwayml.com/)
-- [Safe Superintelligence Inc.](https://ssi.inc/)
-- [Sakana AI](https://sakana.ai/) — Building Frontier AI in Japan
-- [Scale AI](https://scale.com/) — The Data Platform for AI
-- [Sherpa.ai](https://www.sherpa.ai/)
-- [Smol.ai](https://smol.ai/)
-- [SupraLabs · Independent AI Lab](https://supra-labs.com/)
-- [Syte.ai](https://www.syte.ai/)
-- [Tecnalia](https://www.tecnalia.com/) — Centro de investigación | Desarrollo tecnológico
-- [Tencent ARC](https://arc.tencent.com/) — 官网-腾讯
-- [Thinking Machines Lab](https://thinkingmachines.ai/)
-- [Towards AI](https://towardsai.net/)
-- [TypeSafe AI](https://typesafe.ai/)
-- [Veritone](https://veritone.com/)
-- [Vue.ai](https://vue.ai/)
-- [Wipro](https://www.wipro.com/)
-- [WOMBO](https://www.w.ai/) — w.ai
-- [Z.ai](https://www.zhipuai.cn/en) — Inspiring AGI to Benefit Humanity
-
-##### Consumer Experience
-- [CM.com](https://www.cm.com/)
-- [Fix the photo](https://fixthephoto.com/)
-- [Hotelinking](https://www.hotelinking.com/)
-- [Intercom](https://www.intercom.com/)
-- [Lean Mind](https://www.leanmind.es/es)
-- [Mastermind Manager](https://mastermindbetter.com/)
-- [Opinator](https://web.opinator.com/)
-
-##### Biometric Company
-- [Airside](https://www.airsidemobile.com/)
-- [Biometric Update](https://www.biometricupdate.com/)
-- [Ebisbank](https://www.ebisbank.com/)
-- [Genome Analysis](https://selfdecode.com/)
-- [ID Crypt](https://www.idcrypt.global/)
-- [ID4Africa](https://id4africa.com/)
-- [ID2020](https://id2020.org/) — Digital Identity Alliance
-- [IDinsight](https://www.idinsight.org/)
-- [idRamp](https://idramp.com/)
-- [Panta Group](https://www.pantagroup.com.au/)
-- [RecFaces](https://recfaces.com/)
-- [Simprints Technology](https://www.simprints.com/)
-- [Sovrin](https://sovrin.org/)
-- [Validated ID](https://www.validatedid.com/)
-- [Watrix](http://www.watrix.ai/)
+##### Talent Management System
+- [CodeSignal](https://codesignal.com/)
+- [Cornerstone](https://www.cornerstoneondemand.com/)
+- [iCIMS](https://www.icims.com/)
+- [Infor](https://www.infor.com/es-es)
+- [Perfect](https://www.goperfect.com/)
+- [RentAHuman.ai](https://rentahuman.ai/) — Hire Humans for AI Agents | MCP Integration
+- [Stang Decision Systems](https://www.stangds.com/)
+- [SumTotal](https://www.sumtotalsystems.com/)
+- [Talent Clue](https://talentclue.com/en)
 
 ##### Testing Software Company
 - [A1QA](https://www.a1qa.com/)
@@ -3446,2100 +5537,22 @@ description: Stores, marketplaces, product research, and resale
 - [Testlio](https://testlio.com/)
 - [Travis CI](https://www.travis-ci.com/)
 
-##### Talent Management System
-- [CodeSignal](https://codesignal.com/)
-- [Cornerstone](https://www.cornerstoneondemand.com/)
-- [iCIMS](https://www.icims.com/)
-- [Infor](https://www.infor.com/es-es)
-- [Perfect](https://www.goperfect.com/)
-- [RentAHuman.ai](https://rentahuman.ai/) — Hire Humans for AI Agents | MCP Integration
-- [Stang Decision Systems](https://www.stangds.com/)
-- [SumTotal](https://www.sumtotalsystems.com/)
-- [Talent Clue](https://talentclue.com/en)
-
-##### Human Resources
-- [Adecco Group](https://www.adeccogroup.com/)
-- [ADP](https://www.adp.com/)
-- [Breezy HR](https://breezy.hr/)
-- [Greenhouse](https://www.greenhouse.com/) — Applicant tracking software & hiring platform
-- [Grupo Constant](http://www.grupoconstant.com/)
-- [Sopra HR](https://www.soprahr.com/en)
-- [Ultimate Software](https://www.ultimatesoftware.com/)
-
-##### Engineering Software
-- [Bentley](https://www.bentley.com/en)
-- [Graphisoft](https://www.graphisoft.com/en-us/) — BIM software solutions for AEC experts
-- [NovaScan3D](https://novascan3d.com/) — Profesionales del escaneado 3D e ingeniería inversa
-
-### Service Sector
-
-#### Transport Company
-- [Kiessling Transit](https://kiesslingtransit.com/) — Transportation Management Services in Massachusetts
-- [Thermo Europ](https://www.thermoeurop.com/)
-- [Zoox](https://zoox.com/)
-
-##### Airline
-- [Aegean Airlines](https://es.aegeanair.com/)
-- [Aerolíneas Argentinas](https://www.aerolineas.com.ar/)
-- [Air Canada](https://www.aircanada.com/es/en/aco/home.html#/)
-- [Air Europa](https://www.aireuropa.com/en/flights)
-- [Air France](https://www.airfrance.com/indexCom_en.html)
-- [Alaska Airlines](https://www.alaskaair.com/)
-- [Binter](https://www.bintercanarias.com/)
-- [Canaryfly.es](https://www.canaryfly.es/) — Canaryfly Web Oficial
-- [Emirates flights](https://www.emirates.com/english)
-- [Emirates SkyCargo](https://www.skycargo.com/)
-- [Ethiopian Airlines](https://www.ethiopianairlines.com/es)
-- [Etihad Airways](https://www.etihad.com/en)
-- [IBERIA](https://iberia.com/)
-- [IBERIA Air Nostrum](http://www.airnostrum.es/)
-- [Iberia Express](https://www.iberiaexpress.com/)
-- [JetBlue](https://www.jetblue.com/)
-- [KLM Airlines](https://www.klm.nl/)
-- [LEVEL airlines](https://www.flylevel.com/)
-- [Lufthansa](https://www.lufthansa.com/es/en/homepage)
-- [Norwegian](https://www.norwegian.com/es)
-- [Oneworld](https://www.oneworld.com/)
-- [Qantas](https://www.qantas.com/us/en.html)
-- [Qatar Airways](https://www.qatarairways.com/es-es/homepage.html)
-- [Ryanair](https://www.ryanair.com/es/es)
-- [Singapore Airlines](https://www.singaporeair.com/es_ES/es/home#/book/bookflight)
-- [Turkish Airlines](https://www.turkishairlines.com/es-es)
-- [Vueling](https://www.vueling.com/es)
-
-###### Private Jet
-- [Charter A](https://www.charter-a.com/)
-- [NovaJet](https://www.novajet.com/)
-- [Wacaf AIR](https://www.wacafair.com/es)
-
-###### Jets
-- [MiGFlug.com](https://migflug.com/)
-- [Zero-G](https://www.gozerog.com/)
-
-##### Metro
-- [MetroTenerife](https://metrotenerife.com/)
-- [Renfe](http://www.renfe.com/)
-
-###### Bus
-- [Autos LaRegional](https://www.autocareslaregional.com/)
-- [Guaguas GC](https://www.guaguas.com/)
-- [Ten+](https://tenmas.es/)
-- [Ten+ Solictud](https://solicitud.tenmas.es/)
-- [TITSA](https://titsa.com/)
-
-##### Ships
-- [Carnival Corp](https://www.carnivalcorp.com/)
-- [DSME](https://www.dsme.co.kr/pub/main/index.do)
-- [Ferry Baleària](https://www.balearia.com/es/reservar)
-- [Fred. Olsen](https://www.fredolsen.es/es)
-- [Grimaldi Lines](https://www.grimaldi-lines.com/es)
-- [Meyer Werft](https://www.meyerwerft.de/de/)
-- [Naviera Armas · Billetes de ferry y barco](https://www.navieraarmas.com/)
-- [P&O Cruises](https://www.pocruises.com/)
-- [Princess ship](https://www.princess.com/)
-- [Snav](https://www.snav.it/)
-- [Tirrenia](https://www.tirrenia.it/)
-- [Trasmapi](https://www.trasmapi.com/)
-- [Trasmediterránea](https://www.trasmediterranea.es/)
-
-##### Automobile
-
-###### Ridesharing & Mobility
-- [BlaBlaCar](https://www.blablacar.com/)
-- [BlaBlaCar- Viaja de forma económica y sostenible](https://www.blablacar.es/)
-- [Blitzer.de](https://www.blitzer.de/en/) — Homepage
-- [Bolt](https://bolt.eu/es)
-- [Cabify](https://cabify.com/es)
-- [DiDi](https://www.didiglobal.com/)
-- [FREENOW](https://www.free-now.com/es/) — la mejor app de taxis de Europa, presente en 150 ciudades
-- [Lyft](https://www.lyft.com/)
-- [TRIBBU](https://www.tribbuapp.com/) — La app para compartir coche
-- [Uber](https://www.uber.com/es/en/)
-- [Waymo](https://waymo.com/) — Self-Driving Cars - Autonomous Vehicles - Ride-Hail
-
-###### Rent a Car
-- [Autos Bamir](http://autosbamir.es/)
-- [AutosPlusCar](https://www.autospluscar.com/)
-- [Avis](https://www.avis.es/)
-- [CICAR](https://www.cicar.com/)
-- [Cruz Alta rent a car](https://cruzaltarentacar.com/)
-- [DoYouSpain](https://www.doyouspain.com/alquiler-coches/index.htm)
-- [Europcar](https://www.europcar.es/)
-- [Happycar](https://www.happycar.es/)
-- [Pepecar](https://www.pepecar.com/)
-- [Priceline](https://www.priceline.com/)
-- [Rentalcars.com](https://www.rentalcars.com/)
-- [Sixt Rent a Car](https://www.sixt.com/#/)
-
-###### Autobus
-- [Alsa](https://www.alsa.es/)
-- [Busbud](https://www.busbud.com/es)
-- [GotoBus](https://www.gotobus.com/)
-- [TransHierro](http://www.transhierro.com/)
-
-###### Taxi
-- [MiTaxi.net](https://www.mitaxi.net/)
-- [Taxi-Calculador](https://www.taxi-calculador.es/)
-
-##### Maritime
-- [CIMC](https://www.cimc.com/)
-- [CMA CGM GROUP](https://www.cmacgm-group.com/en)
-- [CSBC Corp](https://www.csbcnet.com.tw/)
-- [CST GRUPO](https://cstgrupo.com/)
-- [Delnext](https://www.delnext.com/EN)
-- [DSV](https://www.dsv.com/en)
-- [Evergreen Group](https://www.evergreen-group.com/)
-- [Hapag-Lloyd](https://www.hapag-lloyd.com/en/home.html)
-- [Maersk](https://www.maersk.com/)
-- [MSC](https://www.msc.com/esp)
-- [ONE-line](https://www.one-line.com/en)
-- [Samsungshi](http://www.samsungshi.com/kor/default.aspx)
-- [YangMing Marine](https://www.yangming.com/)
-
-##### Train
-- [Adif](https://www.adif.es/inicio)
-- [CN train](https://www.cn.ca/en/)
-- [CSX](https://www.csx.com/)
-- [Deutsche Bahn](https://www.deutschebahn.com/de)
-- [Euskotren](https://www.euskotren.eus/en)
-- [FCH2RAIL](https://fch2rail.eu/) — DLR Transport
-- [FS Italiane](https://www.fsitaliane.it/)
-- [GWRR](https://www.gwrr.com/)
-- [Kansas City Southern](https://www.kcsouthern.com/en-us/)
-- [Metra](https://metra.com/)
-- [Norfolk Southern](http://nscorp.com/content/nscorp/en.html)
-- [Renfe](https://www.renfe.com/es/es)
-- [SNCF](https://www.sncf.com/fr)
-- [Trenitalia](https://www.trenitalia.com/)
-- [Union Pacific](https://www.up.com/index.htm)
-- [Welcome to Metrolink](https://metrolinktrains.com/)
-
-#### Defense Contractor
-- [Almaz-Antey](http://www.almaz-antey.ru/)
-- [Babcock International](https://www.babcockinternational.com/)
-- [BAE Systems](https://www.baesystems.com/en/home)
-- [Bechtel](https://www.bechtel.com/)
-- [Booz Allen](https://www.boozallen.com/)
-- [CACI](https://www.caci.com/)
-- [CEA](https://www.cea.fr/)
-- [Dassault Aviation](https://www.dassault-aviation.com/en)
-- [Elbit Systems](https://elbitsystems.com/)
-- [GE Aviation](https://www.geaviation.com/)
-- [General Atomics](https://www.ga.com/)
-- [General Dynamics](https://www.gd.com/)
-- [General Dynamics Systems](https://gdmissionsystems.com/)
-- [GMV](https://www.gmv.com/en) — Innovating Solutions
-- [High Precision Systems](https://www.npovk.ru/)
-- [Honeywell](https://www.honeywell.com/us/en)
-- [Huntington Ingalls Industries](https://huntingtoningalls.com/)
-- [IAI](https://www.iai.co.il/)
-- [Kongsberg](https://www.kongsberg.com/)
-- [KTRV](https://www.ktrv.ru/)
-- [L3Harris](https://www.l3harris.com/)
-- [L3Harris Geospatial](https://www.l3harrisgeospatial.com/)
-- [Leidos](https://www.leidos.com/)
-- [Leonardo](https://www.leonardocompany.com/en/home)
-- [List of defense contractors](https://en.wikipedia.org/wiki/List_of_defense_contractors)
-- [Lockheed Martin](https://www.lockheedmartin.com/)
-- [Marshall](https://marshalladg.com/)
-- [MBDA](https://www.mbda-systems.com/)
-- [Mitsubishi Heavy Industries](https://www.mhi.com/)
-- [Naval Group](https://www.naval-group.com/fr)
-- [Patria Group](https://www.patriagroup.com/)
-- [Rafael](https://www.rafael.co.il/) — Dynamic Defense Company
-- [Rheinmetall](https://www.rheinmetall.com/en/rheinmetall_ag/home.php)
-- [Rolls-Royce](https://www.rolls-royce.com/)
-- [RTX](https://www.rtx.com/)
-- [Russian Helicopters](https://www.rhc.aero/en)
-- [Saab](https://www.saab.com/)
-- [Safran Group](https://www.safran-group.com/)
-- [SAIC](https://saic.com/)
-- [Thales](https://www.thalesgroup.com/en)
-- [Uecrus](https://www.uecrus.com/rus)
-- [United Aircraft Corporation](https://www.uacrussia.ru/en)
-- [United Shipbuilding Corporation](https://www.aoosk.ru/en)
-
-#### Market Research
-- [GFK](https://www.gfk.com/home)
-- [IHS Markit](https://ihsmarkit.com/index.html)
-- [Ipsos](https://www.ipsos.com/en)
-- [JazzHR](https://www.jazzhr.com/)
-- [Nielsen](https://www.nielsen.com/es/en)
-- [Parc](https://www.parc.com/) — Research Services, Open Innovation and Breakthrough Technology
-- [Transparency Market Research](https://www.transparencymarketresearch.com/)
-- [Zensar](https://www.zensar.com/)
-
-##### Business Analytics
-- [Clarivate](https://www.clarivate.com/)
-- [Craft](https://craft.co/)
-- [Crunchbase](https://www.crunchbase.com/)
-- [Elsevier](https://www.elsevier.com/) — An Information Analytics Business
-- [Grand View Research](https://www.grandviewresearch.com/)
-- [Infoadex](https://www.infoadex.es/home)
-- [Kaizten Analytics](https://www.kaizten.com/)
-- [Kajabi](https://kajabi.com/)
-- [Majestic Analytics](https://majesticanalytics.com/)
-- [MarketResearch](https://www.marketresearch.com/)
-- [Mergr](https://mergr.com/)
-- [OpenBB](https://openbb.co/) — Investment Research
-- [Plum Analytics](https://plumanalytics.com/)
-- [Techrate](https://techrate.org/)
-- [User Agents Analysis](https://udger.com/)
-
-##### SEO
-- [Ahrefs](https://ahrefs.com/)
-- [BlogSEO](https://www.blogseo.io/)
-- [Dataforseo](https://dataforseo.com/)
-- [Instagram Automation Tool](https://inflact.com/)
-- [Moz](https://moz.com/) — SEO Software for Smarter Marketing
-- [OpenSEO](https://openseo.so/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/every-app/open-seo) — Open Source SEO Platform
-- [Polemic Digital](https://www.polemicdigital.com/)
-- [Screaming Frog](https://www.screamingfrog.co.uk/)
-- [Semrush](https://www.semrush.com/)
-- [SEO Explorer](https://seo-explorer.io/)
-- [Seo Minion](https://seominion.com/)
-- [SEO.com](https://www.seo.com/)
-- [Tubics](https://www.tubics.com/) — YouTube SEO
-- [Woorank](https://www.woorank.com/)
-
-##### Marketing Agency
-- [Akool](https://akool.com/)
-- [All Around](https://allaround.digital/)
-- [Anyline](https://anyline.com/)
-- [Apester.com](https://apester.com/)
-- [ARG media](http://argmedia.com/)
-- [B2 Web Studios](https://b2computing.com/)
-- [business.com](https://www.business.com/)
-- [Comscore](https://www.comscore.com/)
-- [CoTech](https://www.coops.tech/)
-- [DataMiner](https://www.dataminer.co/)
-- [Dayvo Sistemas](https://dayvo.com/) — Agencia de Marketing Digital y Diseño Web
-- [Ditto](https://dittomusic.com/en) — Release Your Music
-- [EthicalAds](https://www.ethicalads.io/)
-- [Four Nine Design](https://www.fourninedesign.com/)
-- [Futuri Media](https://futurimedia.com/)
-- [Gleam.io](https://gleam.io/)
-- [Jivox](https://www.jivox.com/) — Omnichannel, AI and Dynamic Creative
-- [JustCall.io](https://justcall.io/)
-- [Memberful](https://memberful.com/)
-- [MyPublicInbox](https://www.mypublicinbox.com/)
-- [Omnicore](https://www.omnicoreagency.com/)
-- [Oui Will](https://www.ouiwill.com/)
-- [Postlight](https://postlight.com/)
-- [Qualium](https://qualium.mx/)
-- [SabaIdea](http://www.sabaidea.com/en)
-- [ShareASale](https://www.shareasale.com/info/)
-- [Shilabs Digital](https://www.shilabs.digital/)
-- [SingleBrain](https://www.singlegrain.com/)
-- [STGO](https://stgo.es/) — ESTUDIO ARQUITECTURA + MULTIMEDIA
-- [team.blue](https://team.blue/) — Europe’s Leading Supplier of Digital Solutions
-- [The Gratzi, Inc.](https://thegratzi.com/) — Digital Marketing Services
-- [Userway.org](https://userway.org/)
-- [Vivirdelared](https://www.vivirdelared.com/)
-- [Widen](https://www.widen.com/)
-
-##### Management Consulting
-- [Alien TT](https://alientt.com/)
-- [Arthur D Little](https://www.adlittle.com/)
-- [Blackpoints](https://www.blackpoints.ch/)
-- [Capgemini](https://www.capgemini.com/)
-- [CGI.com](https://www.cgi.com/en)
-- [Crystal](https://www.crystalknows.com/)
-- [Evil Martians](https://evilmartians.com/)
-- [Forrester Helps Organizations Grow Through Customer Obsession](https://www.forrester.com/)
-- [Freshworks](https://www.freshworks.com/)
-- [GLPI](https://glpi-project.org/)
-- [Igalia](https://www.igalia.com/) — Open Source Consultancy and Development
-- [Infosys](https://www.infosys.com/)
-- [Lattice](https://lattice.com/)
-- [McKinsey & Company](https://www.mckinsey.com/)
-- [Nielsen Norman Group](https://www.nngroup.com/)
-- [Omnicon](https://omnicon.co/)
-- [Optemization](https://optemization.com/)
-- [Parallax](https://parall.ax/) — Digital Consultancy in Leeds & London
-- [RW Malone MD](https://www.rwmalonemd.com/)
-- [Safe Creative](https://www.safecreative.org/)
-- [Singularity University](https://su.org/)
-- [Spectrum Acoustic Consultants](https://www.spectrumacoustic.com/)
-- [TechSci Research](https://www.techsciresearch.com/)
-- [Unisys.com](https://www.unisys.com/)
-
-##### Customer Service
-- [AWeber](https://www.aweber.com/)
-- [BitBridge](https://bitbridge.com/)
-- [BrainStorm](https://www.brainstorminc.com/)
-- [CloudWorkers](https://www.cloudworkers.company/en)
-- [Daresay](https://daresay.co/)
-- [Drift](https://www.drift.com/)
-- [Itrum](https://www.intrum.com/)
-- [Oct8ne](https://oct8ne.com/)
-
-##### Product Agency
-- [64 Robots](https://www.64robots.com/)
-
-#### Professional Service
-- [Accenture](https://www.accenture.com/us-en)
-- [Aon](https://www.aon.com/home/index.html)
-- [BDO](https://www.bdo.com/)
-- [Deloitte](https://www2.deloitte.com/es/es.html)
-- [Digital Credentials](https://info.credly.com/)
-- [EY](https://www.ey.com/es_es)
-- [Fiserv](https://www.fiserv.com/)
-- [Gartner](https://www.gartner.com/en)
-- [JPMorgan Chase](https://www.jpmorganchase.com/)
-- [KPMG](https://kpmg.com/xx/en/home.html)
-- [Marsh McLennan](https://www.mmc.com/)
-- [MBIA](https://www.mbia.com/)
-- [McCandless Group](https://www.themccandlessgroup.com/)
-- [NEW WORK SE](https://www.new-work.se/en)
-- [Pingan](https://www.pingan.com/)
-- [PwC](https://www.pwc.com/)
-- [Wolters Kluwer](https://www.wolterskluwer.com/en)
-- [WSP](https://www.wsp.com/)
-- [X-net Group](https://x-net.group/)
-- [Y Combinator](https://www.ycombinator.com/)
-
-##### Law Firms
-- [Baker McKenzie](https://www.bakermckenzie.com/en)
-- [Bick Law](https://www.bicklawllp.com/)
-- [Bighorn Law](https://bighornlaw.com/)
-- [Bird & Bird](https://www.twobirds.com/)
-- [Brown Rudnik](https://brownrudnick.com/)
-- [Campmany Abogados](https://www.campmanyabogados.com/)
-- [Dentons](https://www.dentons.com/en)
-- [Despacho de abogados Gómez-Acebo y Pombo](https://www.ga-p.com/)
-- [DLA Piper](https://www.dlapiper.com/en/us)
-- [Elías y Muñoz Abogados](https://www.eliasymunozabogados.com/)
-- [FindLaw](https://www.findlaw.com/)
-- [Garrigues firma](https://www.garrigues.com/es_ES)
-- [Gibson Dunn](https://www.gibsondunn.com/)
-- [Greenberg & Lieberman](https://aplegal.com/)
-- [K&L Gates](https://www.klgates.com/)
-- [Kirkland & Ellis LLP](https://www.kirkland.com/)
-- [Landis Rath & Cobb](https://lrclaw.com/)
-- [Lash Goldberg LLP](https://www.lashgoldberg.com/)
-- [Latham & Watkins](https://www.lw.com/)
-- [Legalcity](https://legalcity.es/)
-- [Legalitas](https://www.legalitas.com/)
-- [Martinez-Echevarría & Rivera abogados](https://www.martinezechevarria.com/)
-- [Pronomos Capital](https://pronomos.vc/)
-- [Quinn Emanuel Trial Lawyers](https://www.quinnemanuel.com/)
-- [Simpson Thacher & Bartlett](https://www.stblaw.com/)
-- [Skadden, Arps, Slate, Meagher & Flom LLP](https://www.skadden.com/)
-- [van Cutsem Wittamer Marnef & Partners​](https://www.vancutsem.be/en/)
-- [West Coast Trial Lawyers](https://westcoasttriallawyers.com/)
-- [White & Case](https://www.whitecase.com/)
-- [WilmerHale](https://www.wilmerhale.com/)
-- [YLaw](https://www.ylaw.ca/)
-
-###### Lawyer
-- [Abogacía Española](https://www.abogacia.es/)
-- [Abogados365](https://www.abogados365.com/)
-- [elAbogado](https://www.elabogado.com/)
-- [Horea Crisan](https://crisan-avocat.ro/) — Lawyer in Cluj Napoca
-- [Mutualidad de la Abogacía](https://www.mutualidadabogacia.com/)
-- [Odegard Law](http://www.jennyodegard.com/)
-- [Preico Jurídicos](https://www.preicojuridicos.com/inicio)
-- [TuAbogadoDefensor](https://www.tuabogadodefensor.com/)
-
-##### Inspection Services
-- [CENT Argentina](https://www.cent.gov.ar/)
-- [ITOPF](https://www.itopf.org/)
-- [Royal Boskalis Westminster N.V.](https://www.boskalis.com/)
-- [SGS](https://www.sgs.com/)
-- [TÜV SÜD](https://www.tuvsud.com/en)
-
-#### Energy Company
-- [Axpo](https://www.axpo.com/ch/en/about-us.html)
-- [Commonwealth Fusion Systems](https://cfs.energy/)
-- [Kinder Morgan](https://www.kindermorgan.com/)
-- [Ørsted](https://orsted.com/)
-- [Rosch Innovations](https://rosch.ag/)
-- [RWE](https://www.rwe.com/)
-- [Schlumberger](https://www.slb.com/)
-- [Xunzel](https://www.xunzel.com/)
-
-##### Fossil Fuel Company
-- [Beijing-hualian](http://www.beijing-hualian.com/)
-- [BP](https://www.bp.com/)
-- [Chevron With Techron](https://www.chevronwithtechron.com/)
-- [ConocoPhillips](https://www.conocophillips.com/)
-- [Coral Energy](https://www.coral-energy.com/)
-- [Exxon](https://www.exxon.com/en)
-- [Gazprom](https://www.gazprom.com/)
-- [Grupo DISA](https://www.disagrupo.es/)
-- [Magma Global](https://www.magmaglobal.com/) — Offering the worlds most advanced subsea oil & gas pipe
-- [Oasis Petroleum](https://www.oasispetroleum.com/)
-- [PetroChina](http://www.petrochina.com.cn/ptr)
-- [Pioneer natural resource](https://pxd.com/)
-- [Qatar Petroleum](https://qp.com.qa/en/Pages/Home.aspx)
-- [Repsol](https://www.repsol.com/en/index.cshtml)
-- [Saudi Aramco](https://www.aramco.com/)
-- [SGM Group](http://www.ooosgm.com/)
-- [Shell](https://www.shell.com/)
-- [Sinopec](http://www.sinopec.com/)
-- [Total.com](https://www.total.com/)
-- [YPF](https://www.ypf.com/Paginas/home.aspx)
-
-##### Electric Utility
-- [Alterna.es](https://alternaonline.es/)
-- [Centrica plc](https://www.centrica.com/)
-- [Duke Energy](https://www.duke-energy.com/home)
-- [E.ON](https://www.eon.com/en.html)
-- [EDF](https://www.edf.fr/)
-- [EDP](https://www.edpenergia.es/es)
-- [EDP Group](https://www.edp.com/en)
-- [Endesa](https://www.endesa.com/)
-- [ENGIE](https://www.engie.com/en)
-- [Enusa](http://www.enusa.es/)
-- [Exelon Corporation](https://www.exeloncorp.com/)
-- [Iberdrola](https://www.iberdrola.com/)
-- [KEPCO](https://www.kepco.co.jp/english)
-- [KEPCO](http://home.kepco.co.kr/kepco/main.do)
-- [Naturgy](https://www.naturgy.com/inicio)
-- [NextEra Energy, Inc.](http://www.nexteraenergy.com/)
-- [Statkraft](https://www.statkraft.com/)
-- [TEPCO](https://www.tepco.co.jp/en/hd/index-e.html)
-
-#### Healthcare Company
-- [Clearblue](https://www.clearblue.com/)
-- [CVS](https://www.cvs.com/international.html)
-- [goodrx](https://www.goodrx.com/)
-- [Innophore](https://innophore.com/)
-- [Invisalign](https://www.invisalign.com/)
-- [MediCloud.me](https://medicloud.me/)
-- [Siemens Healthineers](https://www.siemens-healthineers.com/)
-- [ThermoFisher](https://corporate.thermofisher.com/us/en/index.html)
-- [Xenex LightStrike Robot](https://xenex.com/)
-
-##### Chemical Company
-- [AbbVie](https://www.abbvie.com/)
-- [Amplifon Corporate](https://corporate.amplifon.com/en)
-- [B. Braun](https://www.bbraun.com/en.html)
-- [BASF](https://www.basf.com/global/en.html)
-- [Baxter](https://www.baxter.com/)
-- [BD](https://www.bd.com/en-hk)
-- [Boston Scientific](https://www.bostonscientific.com/en-US/Home.html)
-- [Cardinal Health](https://www.cardinalhealth.com/en.html)
-- [CEM](https://cem.com/en)
-- [Danaher](https://www.danaher.com/)
-- [Dow](https://www.dow.com/en-us.html)
-- [DuPont](https://www.dupont.com/)
-- [Ferrer Corporate](https://www.ferrer.com/)
-- [GE Healthcare](https://www.gehealthcare.com/)
-- [Gilead Sciences](https://www.gilead.com/)
-- [Herbalife](https://www.herbalife.com/)
-- [Johnson & Johnson](https://www.jnj.com/)
-- [McKesson](https://www.mckesson.com/)
-- [Medtronic](https://www.medtronic.com/us-en/index.html)
-- [Merck](https://www.merck.com/index.html)
-- [Novartis](https://www.novartis.com/)
-- [Safe Pharmacy](https://safe.pharmacy/)
-- [Stryker](https://www.stryker.com/it/en/index.html)
-- [TAVA Drug Mart](http://www.tavadrugs.com/)
-- [UnitedHealth Group](https://www.unitedhealthgroup.com/)
-- [Vademecum](https://www.vademecum.com/)
-- [Viatris](https://www.viatris.com/en)
-- [Zimmer Biomet](https://www.zimmerbiomet.com.es/)
-
-###### Cannabis
-- [Analytical Cannabis](https://www.analyticalcannabis.com/)
-- [Cannabis Tech](https://www.cannabistech.com/)
-
-##### Pharmaceutical Company
-- [Abbott](https://www.abbott.com/)
-- [AstraZeneca](https://www.astrazeneca.com/)
-- [Bayer](https://www.bayer.com/en)
-- [BioNTech](https://biontech.de/)
-- [Bruker Pharma](https://www.bruker.com/en.html)
-- [CureVac](https://www.curevac.com/)
-- [Dr.Max Holding](https://www.drmax.eu/en/default.aspx)
-- [Dr.Max Pharma](https://www.drmaxpharma.com/)
-- [Eli Lilly and Company](https://www.lilly.com/)
-- [GSK](https://www.gsk.com/en-gb)
-- [Janssen](https://www.janssen.com/us)
-- [Moderna, Inc.](https://www.modernatx.com/)
-- [Novavax](https://www.novavax.com/)
-- [Pfizer](https://www.pfizer.com/)
-- [Roche](https://www.roche.com/)
-- [Sanofi](https://www.sanofi.com/)
-- [Sobi](https://www.sobi.com/)
-- [SYNLAB](https://www.synlab.com/)
-- [Wantai Biological Pharmacy](http://www.ystwt.cn/)
-
-##### Clinic Copmany
-- [AmerisourceBergen](https://www.amerisourcebergen.com/)
-- [Clinica Dental Plasencia Calvillo](https://clinicaplasenciacalvillo.com/)
-- [Clínica Universidad de Navarra](https://www.cun.es/)
-- [Clínicas Oftalvist](https://www.oftalvist.es/es)
-- [Clínicas W](https://clinicasw.com/)
-- [CVS Health](https://cvshealth.com/)
-- [Dasa](https://dasa.com.br/)
-- [DXI](https://dxy.com/)
-- [GAES](https://www.gaes.es/)
-- [Grupo Hospitalario HLA](https://www.grupohla.com/es)
-- [HM Hospitales](https://www.hmhospitales.com/)
-- [Hospital Universitario La Zarzuela](https://www.hospitallazarzuela.es/es)
-- [Hospitales Universitarios San Roque](https://hospitalessanroque.com/es)
-- [Hospiten](https://hospiten.com/)
-- [Humana](https://www.humana.com/)
-- [Mayo Clinic](https://www.mayoclinic.org/)
-- [Oncoshot](https://www.oncoshot.com/)
-- [Prisma Health](https://phuscmg.org/)
-- [Quirónsalud](https://www.quironsalud.es/)
-- [Zorrotzaurre](https://clinicazorrotzaurre.imq.es/sites/Zorrotzaurre)
-
-###### Hospitals
-- [Hospital Charité](https://www.charite.de/en)
-- [Prisma Health Children's Hospital](https://palmettohealthchildrens.org/)
-
-#### Financial Service
-- [Cantor Fitzgerald](https://www.cantor.com/)
-- [Chapman and Cutler](https://www.chapman.com/)
-- [Clarium Capital](https://www.clarium.com/)
-- [CME Group](https://www.cmegroup.com/)
-- [Ethical Capital Partners](https://www.ethicalcapitalpartners.com/)
-- [EXOR](https://www.exor.com/)
-- [FME Group](http://fmegroup.com/)
-- [Founders Fund](https://foundersfund.com/)
-- [Greylock Partners](https://greylock.com/)
-- [H.I.G. Capital](https://www.higcapital.com/)
-- [ICE](https://www.theice.com/index)
-- [Insurance Premium Financing Solutions](https://www.ipfs.com/) — IPFS
-- [International Finance Corporation (IFC)](https://www.ifc.org/en/home)
-- [Intuit®](https://www.intuit.com/) — Outdo your financial goals—all in one place
-- [Mightycause](https://www.mightycause.com/)
-- [Morgan Stanley](https://www.morganstanley.com/)
-- [S&P Global](https://www.spglobal.com/en)
-- [SquareUp](https://squareup.com/us/en)
-- [World Bank Group](https://www.worldbank.org/ext/en/home) — International Development, Poverty and Sustainability
-
-##### Bank
-- [2Co](https://www.2co.com/)
-- [American Express](https://www.americanexpress.com/es)
-- [B100](https://b100.es/es/) — B100 para tu salud, la de tu dinero y la del planeta
-- [Banca March](https://www.bancamarch.es/es/)
-- [Banco Sabadell](https://www.bancsabadell.com/cs/Satellite/SabAtl)
-- [Bank BNP Paribas](https://group.bnpparibas/en)
-- [Bank of America](https://www.bankofamerica.com/)
-- [Bank of China](https://www.boc.cn/)
-- [Bankia](https://www.bankia.com/es)
-- [Bankinter](https://www.bankinter.com/banca/en/home)
-- [Banque BNP Paribas](https://group.bnpparibas/)
-- [BBVA](https://www.bbva.com/en)
-- [CaixaBank](https://www.caixabank.com/home_es.html)
-- [Chase.com](https://www.chase.com/)
-- [China Construction Bank](http://www.ccb.com/cn/home/indexv3.html)
-- [China Merchants Bank](https://www.cmbchina.com/)
-- [Citi](https://www.citigroup.com/citi)
-- [Cleverbridge](https://www.cleverbridge.com/corporate)
-- [Danske Bank](https://danskebank.com/)
-- [Deutsche Bank](https://www.db.com/index)
-- [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html)
-- [Groupe Cofidis](http://www.cofidis.com/)
-- [Grupo Caja Rural](https://www.grupocajarural.es/es)
-- [HSBC](https://www.hsbc.com/)
-- [INB](https://www.inb.com/)
-- [ING](https://www.ing.com/Home.htm)
-- [KBC](https://www.kbc.com/en.html)
-- [KfW](https://www.kfw.de/kfw.de.html)
-- [M&T Bank](https://www3.mtb.com/)
-- [Mastercard](https://www.mastercard.es/es-es.html)
-- [Mizuho Financial Group](https://www.mizuhogroup.com/)
-- [N26](https://n26.com/es-es)
-- [NatWest Group](https://www.natwestgroup.com/)
-- [Openbank](https://www.openbank.es/)
-- [Paysafecard](https://www.paysafecard.com/en-gb)
-- [Rabobank Group](https://www.rabobank.com/en/home/index.html)
-- [RBC](https://www.rbc.com/about-rbc.html)
-- [RBS](https://www.rbs.com/)
-- [Santander](https://www.santander.com/es/home)
-- [Sberbank](https://www.sberbank.com/index)
-- [SoftBank Group](https://global.softbank/)
-- [Sopra Banking](https://www.soprabanking.com/)
-- [Unicaja Banco](https://www.unicajabanco.es/es/particulares)
-- [Visa](https://www.visa.es/)
-- [Wells Fargo](https://www.wellsfargo.com/)
-
-##### Investment Management
-- ⭐ **[Sequoia Capital](https://www.sequoiacap.com/)**
-- [Alternative Investment](https://www.allvuesystems.com/)
-- [Andreessen Horowitz](https://a16z.com/)
-- [AngelList Venture](https://angellist.com/)
-- [Ares Management](https://www.aresmgmt.com/)
-- [Associated Partners LP](https://associatedpartnerslp.com/)
-- [at.inc/](https://www.at.inc/)
-- [Bain Capital](https://www.baincapital.com/)
-- [Baring Private Equity Asia](https://www.bpeasia.com/)
-- [BlackRock](https://www.blackrock.com/corporate)
-- [Blackstone](https://www.blackstone.com/)
-- [BNY Mellon](https://www.bnymellon.com/emea/en/home.jsp)
-- [BOND](https://www.bondcap.com/#internettrends)
-- [CapitalG](https://capitalg.com/)
-- [Cascade Investment](https://cascadeinvestment.us/)
-- [Cascade Investment Group](https://ciginc.net/)
-- [Charles Schwab](https://www.schwab.com/)
-- [Citadel](https://www.citadel.com/)
-- [Collaborative Fund](https://www.collaborativefund.com/)
-- [Cross Capital](https://crosscapital.es/)
-- [Digital Colony](https://digitalcolony.com/)
-- [DLF India](https://www.dlf.in/)
-- [Dow Jones](https://www.dowjones.com/)
-- [Eldridge](https://www.eldridge.com/)
-- [Elliott Management](https://www.elliottmgmt.com/)
-- [ENDEAVOR](https://www.endeavorco.com/)
-- [Energy Capital Partners](https://www.ecpgp.com/)
-- [Ferd](https://ferd.no/)
-- [Fidelity Investments](https://www.fidelity.com/)
-- [First Sentier Investors](https://www.firstsentierinvestors.com/)
-- [Flippa](https://flippa.com/)
-- [General catalyst](https://www.generalcatalyst.com/)
-- [Goldman Sachs](https://www.goldmansachs.com/)
-- [Grayscale](https://grayscale.com/)
-- [Grupo Vesilen](https://vesilen.com/)
-- [Guggenheim Partners](https://www.guggenheimpartners.com/)
-- [GV (Google Ventures)](https://www.gv.com/)
-- [Hyper](https://hyper.com/)
-- [In-Q-Tel](https://www.iqt.org/)
-- [Invesco](https://www.invesco.com/corporate/about-us)
-- [Investec](https://www.investec.com/en_gb.html)
-- [Investor AB](https://www.investorab.com/)
-- [Kinross Gold Corporation](https://www.kinross.com/home/default.aspx)
-- [KKR](https://www.kkr.com/)
-- [Lundbergföretagen](https://www.lundbergforetagen.se/)
-- [Lux Capital](https://luxcapital.com/)
-- [McCarthy Capital](https://www.mccarthycapital.com/)
-- [Melco Group](https://www.melco-group.com/en/index.html)
-- [MSD Capital](https://www.msdcapital.com/)
-- [NEA](https://www.nea.com/)
-- [NEOM](https://www.neom.com/index.html)
-- [Oak Investment Partners](https://www.oakvc.com/)
-- [Onex](https://www.onex.com/)
-- [OpCapita](https://www.opcapita.com/)
-- [Permira](https://www.permira.com/)
-- [Pictet Group](https://www.group.pictet/)
-- [PIMCO](https://www.pimco.com/en-us)
-- [Praxis](https://www.praxisnation.com/)
-- [ProQuest](https://about.proquest.com/en)
-- [Prototypefund](https://prototypefund.de/en/)
-- [Q4 Inc.](https://www.q4inc.com/home/default.aspx)
-- [Qatar Investment Authority](https://www.qia.qa/)
-- [RBC Capital Markets](https://www.rbccm.com/en/)
-- [SBAI](https://www.sbai.org/)
-- [Silver Lake](https://www.silverlake.com/?v=2)
-- [SSGA](https://www.ssga.com/us/en/institutional)
-- [Staple Street Capital](http://staplestreetcapital.com/Home)
-- [State Street](https://www.statestreet.com/us/en/asset-manager) — Asset Manager
-- [Stock Analysis](https://stockanalysis.com/) — Free Online Stock Information for Investors
-- [Study Group](https://corporate.studygroup.com/)
-- [The RMR Group](https://www.rmrgroup.com/Home/default.aspx)
-- [UBS](https://www.ubs.com/es/es.html)
-- [Vanguard](https://investor.vanguard.com/home)
-- [VIVES fund](https://www.vivesfund.com/en)
-- [Walton](https://walton.com/en)
-- [Wardenclyffe Chemicals](https://www.wardenchem.com/)
-- [Web Mandelbrot](https://guciek.github.io/web_mandelbrot.html#-0.5;0;2;1000)
-- [Willis Towers Watson](https://www.willistowerswatson.com/en-US)
-- [Witkoff Group](https://www.witkoff.com/)
-
-###### Holding Company
-- [Booking Holdings](https://www.bookingholdings.com/)
-- [CK Hutchison Holdings](https://www.ckh.com.hk/en/global/home.php)
-- [Country Garden Holding](https://www.countrygarden.com.cn/)
-- [GSH Capital Holdings Limited](https://gsh.capital/)
-- [JAB Holding](https://www.jabholco.com/)
-- [Kingdom Holding](https://kingdom.com.sa/)
-- [kosmos-website](https://www.kosmosholding.com/)
-- [Legends Holding](http://legendholdings.com.cn/)
-- [PDD Holdings](https://investor.pddholdings.com/)
-- [Recruit Holdings](https://recruit-holdings.com/who)
-- [Seiko Holdings Corporation](https://www.seiko.co.jp/en)
-- [Seven & i Holdings Co](https://www.7andi.com/en)
-
-###### Real Estate Company
-- [CENTURY 21](https://www.century21.com/)
-- [CIM Group](https://www.cimgroup.com/)
-- [Durst Organization](https://www.durst.org/)
-- [European Public Real Estate](https://www.epra.com/)
-- [Evergrande](https://www.evergrande.com/)
-- [Fannie Mae](https://www.fanniemae.com/)
-- [Groupe Société Générale](https://www.societegenerale.com/fr)
-- [Invesco](https://www.invesco.com/corporate)
-- [Kushner](https://kushner.com/)
-- [Lodha Group](https://www.lodhagroup.in/home)
-- [Quadrature Group](https://quadraturegroup.com/)
-- [RE/MAX](https://www.remax.com/)
-- [REALTORS](https://www.rliland.com/)
-- [Residencial Chadofe](https://www.chadofe.es/)
-- [Select Group](https://select-group.ae/)
-- [Silverstein Properties](https://silversteinproperties.com/)
-- [SpacesWorks](https://www.spacesworks.com/)
-- [WeWork](https://www.wework.com/)
-
-##### Financial Management
-- [danielbrendel/hortusfox-web · GitHub](https://github.com/danielbrendel/hortusfox-web)
-- [Edmond de Rothschild Group](https://www.edmond-de-rothschild.com/en)
-- [HomeBox](https://homebox.software/en/)
-- [Mediterráneo Vida](https://medvida.es/en/)
-- [Rothschild & Co](https://www.rothschildandco.com/)
-- [Sure](https://sure.am/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/we-promise/sure)
-
-##### Decentralized Finance
-- [Alephium](https://alephium.org/) — The Web3 you were promised
-- [Enya.ai](https://www.enya.ai/)
-- [Ignite](https://ignite.com/)
-- [Jolocom](https://jolocom.io/)
-- [Regen Network](https://www.regen.network/)
-- [Ryder](https://ryder.id/) — Digital DNA
-- [Stacker Ventures](https://stacker.vc/)
-- [Stake Capital](https://www.stake.capital/)
-
-#### Delivery Company
-- [Asigna](https://asigna.es/) — Expertos en Logística Canaria
-- [Bring it](https://bringit.es/)
-- [bunny.net](https://bunny.net/)
-- [CORREOS](https://www.correos.es/ss/Satellite/site/pagina-inicio/info)
-- [Correos Express](https://www.correosexpress.com/)
-- [Deutsche Post DHL Group](https://www.dpdhl.com/en.html)
-- [DHL](https://www.dhl.com/global-en/home.html)
-- [Eagle Express Lines](https://eagleexpresslines.com/)
-- [FedEx](https://www.fedex.com/en-us/home.html)
-- [MRW](https://www.mrw.es/)
-- [Packlink](https://www.packlink.com/en-GB)
-- [Sendcloud](https://www.sendcloud.com/)
-- [SEUR](https://www.seur.com/es)
-- [Skroutz.gr](https://www.skroutz.gr/)
-- [United Airlines](https://www.united.com/en/us)
-- [UPS](https://www.ups.com/us/en/Home.page)
-- [Wing](https://wing.com/)
-
-#### Sports Company
-- [Amer Sports](https://www.amersports.com/)
-- [CallawayGolf](https://www.callawaygolf.com/)
-- [Cobra Golf](https://www.cobragolf.com/)
-- [Tenth Sports](https://tenthsports.co.za/)
-- [Wilson](https://www.wilson.com/en-us)
-
-##### Football Teams
-- [Alnassr](https://alnassr.sa/#/)
-- [FC Andorra](https://www.fcandorra.com/)
-- [San Lorenzo de Almagro](https://sanlorenzo.com.ar/)
-
-###### 2nd Division
-- [Agrupación Deportiva Alcorcón](https://www.adalcorcon.com/)
-- [Albacete Balompié](https://www.albacetebalompie.es/)
-- [C.D. Leganés](https://www.cdleganes.com/)
-- [C.F. Fuenlabrada](https://www.cffuenlabrada.es/)
-- [CD Castellón](http://www.cdcastellon.com/)
-- [CD Lugo](https://www.cdlugo.com/)
-- [CD Mirandés](https://www.cdmirandes.com/)
-- [CE Sabadell FC](https://www.cesabadell.cat/)
-- [Club Deportivo Tenerife](https://www.clubdeportivotenerife.es/)
-- [FC Cartagena](https://www.fccartagena.es/)
-- [Girona FC](https://www.gironafc.cat/es)
-- [Ibiza Ud](https://www.ibizaud.com/)
-- [Málaga Club de Fútbol](https://www.malagacf.com/)
-- [Rayo Vallecano](http://www.rayovallecano.es/)
-- [RCD Espanyol](https://www.rcdespanyol.com/)
-- [RCD Mallorca](https://www.rcdmallorca.es/)
-- [Real Oviedo](https://www.realoviedo.es/)
-- [Real Sporting de Gijón](https://www.realsporting.com/)
-- [Real Zaragoza](https://www.realzaragoza.com/)
-- [SD Ponferradina](http://www.sdponferradina.com/)
-- [UD Las Palmas](https://www.udlaspalmas.es/)
-- [Unión Deportiva Almería](http://www.udalmeriasad.com/)
-- [Unión Deportiva Logroñés](https://udlogrones.com/)
-
-###### 1st Division
-- [Athletic Club](https://www.athletic-club.eus/)
-- [Atlético de Madrid](https://www.atleticodemadrid.com/)
-- [Cádiz CF](https://www.cadizcf.com/)
-- [Club Atlético Osasuna](https://www.osasuna.es/)
-- [Deportivo Alavés](https://www.deportivoalaves.com/)
-- [Elche CF](https://www.elchecf.es/)
-- [FC Barcelona](https://www.fcbarcelona.com/en)
-- [Getafe CF](https://www.getafecf.com/)
-- [Granada Club de Fútbol](https://www.granadacf.es/)
-- [Levante UD](https://www.levanteud.com/es)
-- [RC Celta](https://rccelta.es/)
-- [Real Betis Balompié](https://www.realbetisbalompie.es/)
-- [Real Madrid CF](https://www.realmadrid.com/en)
-- [Real Sociedad](https://www.realsociedad.eus/)
-- [Real Valladolid](https://www.realvalladolid.es/)
-- [SD Eibar](https://www.sdeibar.com/)
-- [Sevilla FC](https://www.sevillafc.es/)
-- [Sociedad Deportiva Huesca](https://www.sdhuesca.es/)
-- [Valencia Club de Fútbol](https://www.valenciacf.com/es)
-- [Villarreal CF](https://www.villarrealcf.es/)
-
-###### Bundesliga
-- [Bayer 04](https://www.bayer04.de/en-us)
-- [Borussia Dortmund](https://www.bvb.de/)
-- [Borussia Mönchengladbach](https://www.borussia.de/de)
-- [Eintracht Frankfurt](https://www.eintracht.de/)
-- [FC Bayern Munich](https://fcbayern.com/en)
-- [FC Gelsenkirchen-Schalke 04](https://schalke04.de/)
-- [FC Kaiserslautern](https://fck.de/de)
-- [Hamburger Sport-Verein](https://www.hsv.de/en/homepage)
-- [SV Werder Bremen](https://www.werder.de/)
-- [VfB Stuttgart](https://www.vfb.de/en)
-
-###### Serie A
-- [AC Milan](https://www.acmilan.com/it)
-- [ACF Fiorentina](https://www.acffiorentina.com/en)
-- [AsRoma](https://www.asroma.com/)
-- [Atalanta](https://www.atalanta.it/)
-- [Cagliari Calcio](https://www.cagliaricalcio.com/)
-- [Inter.it](https://www.inter.it/en)
-- [Juventus](https://www.juventus.com/it)
-- [Parma Calcio 1913](https://parmacalcio1913.com/)
-- [S.S. Lazio](http://www.sslazio.it/it)
-- [SSC Napoli](https://www.sscnapoli.it/)
-- [U.C. Sampdoria](https://www.sampdoria.it/en)
-- [Udinese](https://www.udinese.it/)
-
-###### Premier League
-- [Arsenal](https://www.arsenal.com/)
-- [Aston Villa FC](https://www.avfc.co.uk/)
-- [Blackburn Rovers](https://www.rovers.co.uk/)
-- [Chelsea Football Club](https://www.chelseafc.com/en)
-- [Everton Football Club](https://www.evertonfc.com/)
-- [Leeds United](https://www.leedsunited.com/)
-- [Leicester City](https://www.lcfc.com/)
-- [Liverpool FC](https://www.liverpoolfc.com/)
-- [Manchester City FC](https://www.mancity.com/)
-- [Manchester United](https://www.manutd.com/)
-- [Newcastle United](https://www.nufc.co.uk/)
-- [Swindon Town](https://www.swindontownfc.co.uk/)
-- [Tottenham Hotspur](https://www.tottenhamhotspur.com/)
-- [West Bromwich Albion](https://www.wba.co.uk/)
-- [West Ham United](https://www.whufc.com/)
-- [Wigan Athletic FC](https://wiganathletic.com/)
-
-###### Ligue 1
-- [AS Monaco](https://www.asmonaco.com/en)
-- [AS Saint-Etienne](https://www.asse.fr/)
-- [FC Girondins](https://www.girondins.com/fr)
-- [FC Nantes](https://www.fcnantes.com/)
-- [Lille LOSC](https://www.losc.fr/)
-- [OGC Nice](https://www.ogcnice.com/en)
-- [Olympique de Marseille](https://www.om.fr/fr)
-- [PSG](https://www.psg.fr/)
-- [Stade Rennais](https://www.staderennais.com/)
-- [Univers OL](https://www.ol.fr/fr-FR/prehome)
-
-###### Primeira Liga
-- [C.S. Marítimo](https://www.csmaritimo.org.pt/)
-- [FC Porto](https://www.fcporto.pt/en)
-- [SL Benfica](https://www.slbenfica.pt/)
-- [Sporting Clube de Portugal](https://www.sporting.pt/en)
-- [Vitória Sport Clube](https://vitoriasc.pt/)
-
-#### Freelance Company
-- [Fiverr](https://www.fiverr.com/)
-- [Freelancer](https://www.freelancer.com/)
-- [Millo.co](https://millo.co/)
-- [Sellfy](https://sellfy.com/)
-- [Toptal](https://www.toptal.com/)
-- [Upwork](https://www.upwork.com/)
-
-#### Assurance Company
-- [Allianz](https://www.allianz.com/en.html)
-- [ASISA](https://www.asisa.es/seguros-de-salud)
-- [AXA](https://www.axa.es/)
-- [AXA](https://www.axa.com/)
-- [AXA.ch](https://www.axa.ch/en/private-customers.html)
-- [CPIC.com.cn](https://www.cpic.com.cn/)
-- [Fenix Directo](https://www.fenixdirecto.com/)
-- [GEICO](https://www.geico.com/)
-- [Generali Group](https://www.generali.com/)
-- [Grupo Catalana Occidente](https://www.grupocatalanaoccidente.com/)
-- [Liberty Mutual Group](https://www.libertymutualgroup.com/about-lm/corporate-information/overview)
-- [Liberty Seguros](https://www.libertyseguros.es/)
-- [Línea Directa](https://www.lineadirecta.com/)
-- [MAPFRE](https://www.mapfre.es/seguros/particulares)
-- [Max Group](https://www.maxgroup.in/)
-- [MetLife](https://www.metlife.com/)
-- [Mutua Madrileña](https://www.mutua.es/)
-- [SafetyWing](https://safetywing.com/) — Insurance for remote workers
-- [Sanitas](https://corporativo.sanitas.es/)
-- [Seguros Ocaso](https://www.ocaso.es/es)
-- [Seguros Santalucía](https://www.santalucia.es/)
-- [State Farm](https://www.statefarm.com/)
-- [Swiss Re Group](https://www.swissre.com/)
-- [Zurich Insurance](https://www.zurich.com/)
-
-#### Gambling Company
-- [888 Holdings PLC](https://corporate.888.com/)
-- [Atari](https://www.atari.com/)
-- [Caesars Entertainment](https://www.caesars.com/)
-- [DraftKings](https://www.draftkings.com/)
-- [Entain](https://entaingroup.com/)
-- [Flutter](https://www.flutter.com/)
-- [Gaming Labs](https://gaminglabs.com/)
-- [Hard Rock](https://www.hardrock.com/)
-- [Leo Vegas Group](https://leovegasgroup.com/)
-- [partypoker](https://www.partypoker.es/)
-- [Poker Red](https://www.poker-red.com/)
-- [Rank Group Plc](https://www.rank.com/en/index.html)
-- [The Stars Group](https://www.starsgroup.com/)
-- [William Hill Plc](https://www.williamhillplc.com/)
-
-#### Mediation Company
-- [Henning Mediation](https://henningmediation.com/)
-- [Icard Merrill](https://icardmerrill.com/)
-- [JAMS ADR](https://www.jamsadr.com/)
-- [Miles Mediation](https://www.milesmediation.com/)
-- [United States Arbitration & Mediation](https://usam.com/)
-
-#### Translation Company
-- [Iyuno-SDI](https://iyuno-sdi.com/)
-- [KeywordsStudios](https://www.keywordsstudios.com/)
-- [LanguageLine Solutions](https://www.languageline.com/)
-- [Lionbridge Translation](https://www.lionbridge.com/)
-- [Okodia](https://www.okodia.com/)
-- [RWS](https://www.rws.com/)
-- [Translated](https://translated.com/welcome)
-- [Translation Agency](https://www.translationagency.com/)
-- [TransPerfect](https://www.transperfect.com/)
-
-#### Detective Company
-- [Detectives Oliver, Barcelona, privados, infidelidades, empresa](https://www.detectivesoliver.com/)
-
-### Manufacturer Company
-
-#### Engineering Company
-- [9FF](https://www.9ff.com/)
-- [Abertis](https://www.abertis.com/en)
-- [Agilent](https://www.agilent.com/)
-- [American Engineers, Inc](https://www.aei.cc/)
-- [ArcelorMittal](https://corporate.arcelormittal.com/)
-- [AyR Proyectos](http://www.ayrproyectos.com/)
-- [BHP](https://www.bhp.com/)
-- [CAT](https://www.cat.com/)
-- [Caterpillar](https://www.caterpillar.com/)
-- [CESA](https://cesa.aero/)
-- [Chevron Corporation](https://www.chevron.com/)
-- [COMSA](https://www.comsa.com/)
-- [Construdata21](https://www.construdata21.com/)
-- [Dassault Systèmes](https://www.3ds.com/) — We are the 3DEXPERIENCE company
-- [Elevator World](https://www.elevatorworld.com/)
-- [Ferrovial](https://www.ferrovial.com/)
-- [Georgia-Pacific!](https://www.gp.com/)
-- [Gulf & Western Industries](https://gulfwestern.com/)
-- [HBK Engineering](https://www.hbkengineering.com/)
-- [Heidelberg Engineering](https://www.heidelbergengineering.com/us)
-- [Hidramar Group](https://hidramargroup.com/)
-- [iAgua](https://www.iagua.es/)
-- [IES](https://www.ies-engr.com/)
-- [IPSES](https://www.ipses.com/eng)
-- [KESA](https://www.kesa.es/)
-- [Komatsu Ltd.](https://home.komatsu/en)
-- [M&S Mechanical](https://www.mandsmechanical.com/)
-- [Makers Revolution](https://www.makers-revolution.com/) — The Manufacturing Revolution
-- [National Instrument](https://www.ni.com/en-us.html)
-- [Niobium Tech](https://niobium.tech/)
-- [Oso Development Partners](http://osopartners.com/)
-- [Petrobras](https://petrobras.com.br/en)
-- [Phillips 66](https://www.phillips66.com/)
-- [Point Innovation](https://pointinnovation.com/)
-- [Qualityac](https://www.qualityac.com/)
-- [Random Engineering](http://www.randomengineering.co.uk/Random_Aerospace/Welcome.html)
-- [Rolls-Royce](https://www.rolls-roycemotorcars.com/en_GB/home.html)
-- [SENER Engineering group](https://www.group.sener/)
-- [SproutVideo](https://sproutvideo.com/)
-- [Stahl](https://www.stahl-online.de/)
-- [Tata Steel](https://www.tatasteeleurope.com/)
-- [Tecni Buceo](http://tecnibuceo.com/)
-- [Tenova](https://www.tenova.com/)
-- [Thyssenkrupp Elevator](https://www.thyssenkrupp-elevator.com/en/home.html)
-- [Wavegarden.com](https://wavegarden.com/)
-- [Worldsteel](https://www.worldsteel.org/)
-
-##### Architecture Company
-- [Adamson Associates](http://www.adamson-associates.com/)
-- [Dattner](https://www.dattner.com/)
-- [Extell](https://extell.com/)
-- [Geometrica](https://www.geometrica.com/)
-- [Houzz](https://www.houzz.fr/)
-- [LiRo Group](https://www.liro.com/)
-- [Populous](https://populous.com/) — Global Architectural Design – Stadiums, Arenas, Events
-- [The D*Haus Company](https://www.thedhaus.com/)
-
-###### Designing Studios Comp
-- [ATEacústica](https://ateacustica.com/)
-- [FlyingArchitecture](https://flyingarchitecture.com/)
-- [Meg Stage Designs](https://megstagedesigns.com/)
-
-##### Construction Company
-- [ACCIONA](https://www.acciona.com/es)
-- [AF Gruppen](https://afgruppen.com/)
-- [Aker Solutions](https://www.akersolutions.com/)
-- [Al Ghurair Group](https://www.alghurair.com/)
-- [American Industries](https://www.americanindustriesgroup.com/)
-- [Capital Group](https://capitalgroup.ru/)
-- [China Communications construction company Ltd](http://en.ccccltd.cn/)
-- [FCC](https://www.fcc.es/es)
-- [Gensler](https://www.gensler.com/)
-- [Groupe Bouygues](https://www.bouygues.com/)
-- [Grupo ACS](https://www.grupoacs.com/)
-- [HOCHTIEF](https://www.hochtief.com/)
-- [Kenguru Pro](https://www.kengurupro.es/)
-- [Lodha Luxury](https://www.lodhaluxury.com/)
-- [Merton International](https://www.mertoninternational.com/en/)
-- [NEB](http://www.neb.ae/) — National Engineering Bureau
-- [OHL](https://www.ohl.es/)
-- [Rio TInto](https://www.riotinto.com/)
-- [SAMSUNG C&T](http://www.samsungcnt.com/eng/index.do)
-- [SCG Group](http://www.scg.com.cn/)
-- [Skanska](https://www.skanska.com/)
-- [STRABAG SE](https://strabag.com/)
-- [VINCI](https://www.vinci.com/vinci.nsf/en/index.htm)
-- [Wohlsen Construction](https://www.wohlsenconstruction.com/)
-
-##### Bioconstruction Company
-- [Brizna Bioconstrucción](https://briznabioconstruccion.es/)
-
-#### Food Company
-- [85°C Bakery Cafe](https://www.85cbakerycafe.com/)
-- [Abchina](http://www.abchina.com/cn)
-- [Cargill](https://www.cargill.com/)
-- [CHS](https://www.chsinc.com/)
-- [Dean Foods](https://www.deanfoods.com/)
-- [ElPozo](https://www.elpozo.com/)
-- [Gallina Blanca](https://www.gallinablanca.es/)
-- [Grefusa](https://grefusa.com/) — Snacks y Frutos Secos
-- [Grupo Bimbo](https://grupobimbo.com/es)
-- [Heinz](https://www.heinz.com/)
-- [Hero Group](https://hero-group.ch/)
-- [Hormel](https://www.hormel.com/)
-- [Inés Rosales](https://www.inesrosales.com/)
-- [Kalise](https://www.kalise.com/) — Kalise Para Todos
-- [Kellogg Company](https://www.kelloggcompany.com/en_US/home.html)
-- [Mars, Inc](https://www.mars.com/)
-- [Milka!](https://www.milka.de/)
-- [Molson Coors](https://www.molsoncoors.com/av?url=https%3A%2F%2Fwww.molsoncoors.com%2F)
-- [Mondelēz International, Inc.](https://www.mondelezinternational.com/)
-- [Nestlé Global](https://www.nestle.com/)
-- [Nutella](https://www.nutella.com/it/it)
-- [Orlando](https://www.orlando.es/)
-- [Panrico](https://www.panpanrico.es/#1)
-- [Pilgrim's Global](https://www.pilgrims.com/)
-- [Pringles](https://www.pringles.com/us/home.html)
-- [SalMar ASA](https://www.salmar.no/)
-- [Saputo](https://saputo.com/)
-- [Smithfield](https://www.smithfieldfoods.com/)
-- [Tetra Laval](https://www.tetralaval.com/)
-- [The J.M. Smucker Company](https://www.jmsmucker.com/)
-- [The Kraft Heinz Company](https://www.kraftheinzcompany.com/)
-- [Toblerone](https://toblerone.fr/)
-- [Unilever](https://www.unilever.com/)
-
-##### Drinks Company
-- [Ambev](https://www.ambev.com.br/)
-- [Asahi Group Holdings](https://www.asahigroup-holdings.com/en)
-- [Beverage Industry](https://www.bevindustry.com/)
-- [Coca-Cola](https://www.coca-cola.com/)
-- [Danone](https://www.danone.com/)
-- [Diageo](https://www.diageo.com/)
-- [FEMSA](https://www.femsa.com/en)
-- [La Casera](https://lacasera.es/)
-- [Nongfu Spring](https://www.nongfuspring.com/)
-- [Pacoffee.es](https://pacoffee.es/)
-- [Pepsi](https://pepsimax.es/)
-- [Suntory](https://www.suntory.com/)
-- [Tesalia cbc](https://tesaliacbc.com/)
-
-###### Energy Drink Company
-- [Bang Energy](https://bangenergy.com/)
-- [Celsius Drink](https://www.celsius.com/)
-- [G fuel](https://gfuel.com/)
-- [Gatorade](https://www.gatorade.com/)
-- [Red Bull](https://www.redbull.com/us-en)
-- [Rockstar Energy](https://rockstarenergy.com/)
-- [T.C. Pharmaceutical Industries Company Limited](https://www.tcp.com/en/home)
-
-###### Liquor Company
-- [Arehucas](https://arehucas.es/en)
-- [Hennessy Cognac](https://www.hennessy.com/en-int)
-- [Jack Daniel's](https://www.jackdaniels.com/es-es)
-- [Jägermeister](https://www.jagermeister.com/es-ES)
-- [Johnnie Walker](https://www.johnniewalker.com/es-es)
-- [Kopparbergs Bryggeri](https://www.kopparbergs.se/)
-- [Leffe](https://leffe.com/en)
-- [Ron Guajiro](https://ronguajiro.es/home.html)
-- [Smirnoff](https://www.smirnoff.com/en-us)
-
-###### Beer Company
-- [AB InBev](https://www.ab-inbev.com/)
-- [Compañía Cervecera de Canarias](https://ccc.es/)
-- [DORADA](https://dorada.es/)
-- [Heineken](https://www.heineken.com/global/en/home)
-- [San Miguel](https://www.sanmiguel.com/es)
-
-###### Winery
-- [Bodegas Málaga Virgen](https://www.bodegasmalagavirgen.com/)
-- [Bodegas Monje](https://bodegasmonje.com/)
-- [Trump Winery](https://www.trumpwinery.com/)
-
-###### Wine Company
-- [Wine.com](https://www.wine.com/)
-
-###### Water Company
-- [Bezoya](https://www.bezoya.es/)
-- [Bling H2O](https://blingh2o.com/)
-- [FIJI Water](https://www.fijiwater.com/)
-- [Font Vella](https://fontvella.es/)
-- [Fonteide](https://www.fonteide.com/)
-- [Fuente Liviana](https://www.fuenteliviana.es/)
-- [Fuentealta](https://fuentealta.es/)
-- [Nestlé Aquarel](https://www.nestleaquarel.es/)
-- [Solán de Cabras](https://solandecabras.es/)
-- [VOSS Water](https://vosswater.com/)
-
-##### Biscuits Company
-- [Galletas Artiach](https://www.artiach.es/)
-- [Galletas Gullón](https://gullon.es/)
-- [Royal Dansk Danish Butter](https://www.royal-dansk.com/)
-
-##### Gums Company
-- [Chicles Five](https://chiclesfive.com/)
-- [Orbit](https://orbitgum.com/)
-- [Trident](https://www.tridentgum.com/)
-
-#### Clothing Brands
-- [Adidas](https://www.adidas.com/us)
-- [Alexander McQueen](https://www.alexandermcqueen.com/en-gb)
-- [American Eagle](https://www.ae.com/us/en) — Outfitters Men's & Women's
-- [Armani](https://www.armani.com/en-us)
-- [Bamboo Underwear](https://www.bamboounderwear.com/)
-- [Bershka](https://www.bershka.com/)
-- [Billabong](https://www.billabong.com/)
-- [Cacharel](https://www.cacharel.fr/fr)
-- [Calvin Klein](https://www.calvinklein.es/)
-- [Carhartt](https://www.carhartt.com/es/es-es)
-- [ChampionStore](https://www.championstore.com/)
-- [Corp ZOZO, Inc.](https://corp.zozo.com/)
-- [Cuts](https://www.cutsclothing.com/) — For the Sport of Business
-- [DIOR](https://www.dior.com/en_us)
-- [Dolce&Gabbana](https://www.dolcegabbana.com/es)
-- [ES Collection](https://escollection.es/es)
-- [Fila](https://www.fila.de/)
-- [G|Fashion](https://gfashion.com/)
-- [Gap](https://www.gap.com/)
-- [Gap Inc.](https://www.gapinc.com/en-ca)
-- [GUESS](https://www.guess.com/en)
-- [H&M](https://www2.hm.com/en_us/index.html)
-- [Heritage Brand](https://heritagebrand.com/)
-- [Hugo Boss](https://www.hugoboss.com/es/hugo)
-- [Inditex](https://www.inditex.com/)
-- [Inditex around the world](https://www.inditex.com/about-us/inditex-around-the-world#continent/000)
-- [JD Sports](https://www.jdsports.es/)
-- [Joma](https://www.joma-sport.com/)
-- [Kappa](https://www.kappa.com/)
-- [L Brands](https://www.lb.com/)
-- [Lacoste](https://www.lacoste.com/es)
-- [Lefties](https://www.lefties.com/)
-- [Louis Vuitton](https://us.louisvuitton.com/eng-us/homepage)
-- [M***SHAKES](https://milfshakes.es/)
-- [Massimo Dutti](https://www.massimodutti.com/)
-- [Nike](https://www.nike.com/es/) — Just Do It
-- [Oysho](https://www.oysho.com/)
-- [Polo Club](https://www.poloclub.com/)
-- [PULL&BEAR](https://www.pullandbear.com/)
-- [Puma](https://eu.puma.com/)
-- [PVH Corp.](https://www.pvh.com/)
-- [Quiksilver](https://www.quiksilver.com/)
-- [Ralph Lauren](https://www.ralphlauren.com/)
-- [Reebok US](https://www.reebok.com/us)
-- [Stradivarius](https://www.stradivarius.com/)
-- [SuperHouse Group](https://superhousegroup.com/)
-- [The North Face](https://www.thenorthface.es/)
-- [Tommy Hilfiger](https://es.tommy.com/)
-- [Valentino](https://www.valentino.com/en-us/)
-- [Victoria's Secret](https://www.victoriassecret.com/)
-- [ZARA](https://www.zara.com/es/)
-- [Zara Home](https://www.zarahome.com/)
-- [zozotown](https://zozo.jp/)
-
-##### Shoes Company
-- [Altra Running](https://www.altrarunning.com/) — Shoes with FootShape™ Comfort
-- [ANTA](https://www.anta.com/)
-- [ASICS](https://www.asics.com/us/en-us/) — Official U.S. Site
-- [Converse](https://www.converse.com/es)
-- [Courir](https://www.courir.com/) — Sneakers et baskets Nike, Adidas, Converse, Jordan, Puma
-- [Crocs](https://www.crocs.com/)
-- [DC Shoes](https://www.dcshoes.com/)
-- [HOKA](https://www.hoka.com/en/us/) — Cushioned Running Shoes & Performance Wear
-- [Lotto](https://lotto.it/es)
-- [MIZUNO](https://corp.mizuno.com/en)
-- [New Balance](https://www.newbalance.com/)
-- [New Balance](https://www.newbalance.es/es) — Ropa y Zapatillas New Balance
-- [RedTape](https://redtape.com/)
-- [rks.shoes](https://ic.rks.shoes/)
-- [Salomon](https://www.salomon.com/en-us)
-- [Saucony](https://www.saucony.com/ES/es_ES/home) — High-Performance Running Shoes & Running Apparel
-- [Skechers](https://skechers.com/es-es)
-- [SportsShoes.com](https://www.sportsshoes.com/) — Running Shoes, Clothing & Equipment
-- [Vans](https://www.vans.es/)
-- [Vessi Footwear](https://vessi.com/)
-- [VF Corporation](https://vfc.com/)
-
-##### Complements Clothes
-- [ARISHA](https://arishaswim.com/)
-- [BoutineLA](https://www.boutinela.com/)
-- [Cressi](https://www.cressi.com/) — Scuba diving equipment
-- [IGNITE](https://ignite.co/)
-- [Minaal](https://www.minaal.com/en-eu) — Luggage You Can Trust, For Travel & Business
-- [Ohpolly.com](https://www.ohpolly.com/)
-- [Scunci](https://www.scunci.com/)
-- [ZFX Flying Effects](https://www.zfxflying.com/)
-
-##### Motion Capture Company
-- [Rokoko](https://www.rokoko.com/)
-- [Tesla Suit](https://teslasuit.io/)
-- [Xsens](https://www.xsens.com/)
-
-#### Consumer Goods Company
-- [UPLIFT Desk](https://www.upliftdesk.com/) — Office Furniture that Benefits You
-
-##### Hygiene Company
-- [Braun US](https://us.braun.com/en-us)
-- [CleanT](https://get-cleant.com/)
-- [Colgate](https://www.colgate.es/)
-- [Colgate](https://www.colgate.com/en-us)
-- [Gillette](https://gillette.com/)
-- [Henkel](https://www.henkel.com/)
-- [Mistol](https://mistol.es/)
-- [Oral-B](https://oralb.com/)
-- [P&G](https://es.pg.com/)
-- [Productos LEA](https://www.productoslea.com/)
-- [Reckitt](https://www.reckitt.com/)
-- [SC Johnson](https://www.scjohnson.com/)
-- [Sensodyne](https://www.sensodyne.com/en-us)
-- [Vanish](https://www.vanish.es/)
-
-##### Pen Company
-- [A.T. Cross Luxury Pens](https://www.cross.com/)
-- [Aurora Penne](https://www.aurorapen.it/en)
-- [BicWorld](https://www.bicworld.com/en)
-- [Cello Writing](http://www.cellowriting.com/)
-- [Crayola](https://www.crayola.com/)
-- [Montblanc](https://www.montblanc.com/es-es)
-- [Paper Mate](https://www.papermate.com/)
-- [ParkerPen](https://www.parkerpen.com/en-GB)
-- [PenChalet](https://www.penchalet.com/)
-- [PILOT](https://www.pilot.co.jp/)
-- [Pilot Corporation of Europe](https://www.pilotpen.eu/)
-- [Reynolds](https://www.reynolds-pens.com/)
-
-##### Instrument Company
-- [Gretsch](https://www.gretsch.com/)
-- [Handpan Drum](https://www.handpanbuy.com/) — Handmade
-- [Harrison Audio](https://www.harrisonaudio.com/) — Harrison Consoles
-- [KORG](https://www.korg.com/fr)
-- [Roland](https://www.roland.com/us)
-- [SAMICK](http://samickpiano.com/)
-
-###### Guitar Manufacturers
-- [Epiphone](https://www.epiphone.com/)
-- [Fender](https://shop.fender.com/en-ES/start)
-- [Gibson Brands](https://www.gibson.com/en-US/)
-- [Guitar Salon International](https://www.guitarsalon.com/)
-- [Guitarras Alhambra](https://www.alhambrasl.com/)
-- [Ibanez guitars](https://www.ibanez.com/eu)
-- [Line 6](https://line6.com/)
-- [Takamine](https://www.esptakamine.com/)
-- [Taylor Guitars](https://www.taylorguitars.com/)
-- [The ESP Guitar Company](https://www.espguitars.com/main)
-
-###### Piano Manufacturers
-- [Baldwin Piano](http://www.baldwinpiano.com/)
-- [Blüthner](https://www.bluethnerworld.com/en)
-- [Bösendorfer](https://www.boesendorfer.com/en)
-- [C. Bechstein](https://www.bechstein.com/)
-- [Essex Pianos](https://www.essexpianos.com/pianos/essex)
-- [Estonia Pianos](http://www.estoniapiano.com/)
-- [Fazioli](https://www.fazioli.com/)
-- [Kawai Global](https://www.kawai-global.com/)
-- [Kawai Pianos](https://kawaius.com/)
-- [Mason & Hamlin](http://masonhamlin.com/)
-- [Petrof](https://www.petrof.com/)
-- [PianoMart](https://www.pianomart.com/)
-- [Schimmel Pianos](https://www.schimmel-pianos.de/)
-- [Steinway & Sons](https://eu.steinway.com/es)
-
-##### Chair Company
-- [Arozzi Europe](https://arozzi.se/)
-- [Clutch Chairz](https://europe.clutchchairz.com/)
-- [Diablo Chairs](https://diablochairs.com/)
-- [E-WIN](https://www.ewinracing.eu/)
-- [GTRACING](https://gtracing.com/)
-- [Herman Miller](https://www.hermanmiller.com/en_eur/)
-- [KILLABEE Gaming Chair](https://www.killabee-gaming.com/)
-- [NEEDforSEAT](https://www.needforseatusa.com/)
-- [NeueChair](https://neuechair.com/)
-- [noblechairs](https://www.noblechairs.com/)
-- [OFM](https://www.ofminc.com/)
-- [Respawn](https://respawnproducts.com/)
-- [Secretlab EU](https://secretlab.eu/)
-- [Steelcase](https://www.steelcase.com/)
-- [WMH Chair](https://iwmhchair.com/es)
-
-##### Cosmetics Company
-- [Armani beauty](https://www.armanibeauty.es/)
-- [Clarins](https://www.clarins.es/)
-- [Fragrantica](https://www.fragrantica.com/)
-- [Garnier](https://www.garnier.fr/)
-- [ghd hair](https://www.ghdhair.com/)
-- [KKW BEAUTY](https://kkwbeauty.com/)
-- [Kylie Cosmetics](https://www.kyliecosmetics.com/)
-- [L’Oréal](https://www.loreal.com/en)
-- [Lancôme](https://www.lancome.es/)
-- [Mugler](https://www.mugler.es/)
-- [Narciso Rodriguez](https://www.narcisorodriguez.com/)
-- [NIVEA](https://www.nivea.es/)
-- [Notino](https://www.notino.com/)
-- [Schwarzkopf](https://www.schwarzkopf.com/en/home.html)
-- [Shakira Perfumes](https://shakiraperfumes.com/es/es)
-- [SHISEIDO](https://www.shiseido.com/us/en)
-- [TechStyle Fashion Group](https://techstylefashiongroup.com/)
-- [The Beard Struggle](https://www.thebeardstruggle.com/)
-
-##### Shaver Company
-- [Conair](https://www.conair.com/)
-- [Remington](https://www.remingtonproducts.com/)
-- [Wahl Global](https://eu.wahl.com/)
-
-##### Tobacco Company
-- [Altria Group](https://www.altria.com/)
-- [British American Tobacco](https://www.bat.com/)
-- [Djarum](https://www.djarum.com/home#sec-1)
-- [Gudang Garam](https://www.gudanggaramtbk.com/)
-- [Imperial Brands](https://www.imperialbrandsplc.com/index.html)
-- [ITC](https://www.itcportal.com/)
-- [Japan Tobacco](https://www.jt.com/)
-- [JTI](https://www.jti.com/) — Japan Tobacco International​
-- [KT&G](https://en.ktng.com/)
-- [Philip Morris](https://www.pmi.com/)
-- [Swisher](https://swisher.com/)
-- [Universal Corporation](http://www.universalcorp.com/)
-
-##### Parachute Company
-- [The Rocketman](https://the-rocketman.com/)
-
-#### Complements Company
-- [Casio](https://www.casio.com/home)
-- [Derbystar Balls](https://www.derbystar.de/)
-- [Gudslip](https://gudslip.com/en-es) — Science-Backed Solutions for Better Sleep
-- [Labsterium](https://www.labsterium.com/)
-- [MELT Collective](https://meltcollective.com/)
-- [Nayadel](https://www.nayadel.com/en)
-- [Sharkbanz](https://www.sharkbanz.com/)
-- [The Ridge EU](https://ridgewallet.eu/)
-
-##### Optics Glasses
-- [Alain Afflelou](https://www.afflelou.com/)
-- [Avalon Eyewear](http://www.avaloneyewear.com/)
-- [Colgafas](https://www.colgafas.com/)
-- [Eschenbach Eyewear](https://www.eschenbach-eyewear.com/en)
-- [Essilor](https://www.essilorusa.com/)
-- [EssilorLuxottica](https://www.essilorluxottica.com/en/)
-- [GlassesUSA](https://www.glassesusa.com/)
-- [Hilco](https://www.hilcovision.com/)
-- [Lucyd bluetooth](https://www.lucyd.co/)
-- [Nouveau Eyewear](https://www.nouveaueyewear.com/)
-- [Oakley](https://www.oakley.com/en-us)
-- [Oliver Peoples](https://www.oliverpeoples.com/usa)
-- [PEGASI](https://www.pegasiglasses.com/)
-- [Persol](https://www.persol.com/spain)
-- [Ray-Ban](https://www.ray-ban.com/usa)
-- [Silhouette](https://www.silhouette.com/es/es/home)
-- [Tom Ford](https://www.tomford.com/)
-- [Vision Rx Lab](https://www.visionrxlab.com/) — offers complete lens solutions, from traditional to digital Rx.
-
-###### Contact Lenses
-- [Acuvue](https://www.acuvue.com/)
-- [Alcon](https://www.alcon.com/)
-- [Mojo Vision](https://www.mojo.vision/)
-- [Warby Parker](https://www.warbyparker.com/)
-
-##### Globemakers
-- [1-World Globes](https://www.1worldglobes.com/)
-- [Bellerby & Co.](https://bellerbyandco.com/)
-- [Clare Hall Comp](http://www.clarehall.uk/)
-- [Columbus Globes](https://columbus-verlag.de/en)
-- [George Glazer](https://www.georgeglazer.com/wpmain/)
-- [Globemakers WordPress](https://globemakers.wordpress.com/)
-- [GoodWoodGlobes](https://goodwoodglobes.com/)
-- [Greaves & Thomas](https://globemakers.com/)
-- [Gürbüz Yayınları Kurumsal](https://kurumsal.gurbuz.com.tr/)
-- [Lander and May](https://www.landerandmay.com/)
-- [MOVA Globes](https://www.movaglobes.com/)
-- [Murray Hudson](https://www.antiquemapsandglobes.com/) — Antique Maps & Globes
-- [Replogle Globes](https://replogleglobes.com/)
-- [Waypoint Geographic](https://www.waypointgeographic.com/)
-- [Zoffoli Globe](https://zoffoliglobe.com/)
-
-##### Watches Company
-- [A. Lange & Söhne](https://www.alange-soehne.com/)
-- [Audemars Piguet](https://www.audemarspiguet.com/en)
-- [Breitling](https://www.breitling.com/gb-en)
-- [Cartier](https://www.cartier.com/en-us/home)
-- [Citizen Watch](https://www.citizenwatch.com/)
-- [Harry Winston](https://www.harrywinston.com/en)
-- [Hublot](https://www.hublot.com/en-us/)
-- [IWC Schaffhausen](https://www.iwc.com/es/home.html)
-- [Jaeger-LeCoultre](https://www.jaeger-lecoultre.com/eu/en/home-page.html)
-- [Longines](https://www.longines.com/es)
-- [OMEGA](https://www.omegawatches.com/en-us)
-- [Parmigiani Fleurier](https://www.parmigiani.com/en)
-- [Patek Philippe](https://www.patek.com/en/home)
-- [Piaget](https://www.piaget.com/)
-- [Rolex](https://www.rolex.com/)
-- [Rolex](https://www.rolex.com/en-us) — Swiss Luxury Watches
-- [Swatch](https://www.swatch.com/es-es/homepage)
-- [Tudor Watches](https://www.tudorwatch.com/en)
-
-##### Helmets Company
-- [AGV Helmet](https://www.agv.com/es/en)
-- [Arai](https://www.araiamericas.com/)
-- [Bell Helmets](https://www.bellhelmets.com/)
-- [FuelHelmets](https://fuelhelmets.com/)
-- [GDM Helmets](https://www.ridegdm.com/)
-- [LightMode Helmets](https://www.lightmodehelmets.com/)
-- [LS2 USA](https://www.ls2usa.com/)
-- [Shoei Helmets](https://www.shoei-helmets.com/)
-
-#### Industrial Company
-- [AGC](https://www.agc.com/en/index.html)
-- [Altium](https://www.altium.com/) — PCB Design Software & Tools
-- [Atlas Copco Group](https://www.atlascopcogroup.com/en)
-- [CNC Machines](https://cncmachines.com/) — Sell & Buy Used CNC Machines & Equipment
-- [CNH Industrial](https://www.cnhindustrial.com/en-US)
-- [Fluke Corporation](https://www.fluke.com/)
-- [Jetta](https://www.jetta.com.hk/)
-- [Theorem Solutions](https://www.theorem.com/)
-- [Trimble Global Industrial](https://www.trimble.com/en)
-- [Universal Motion Components](https://www.umcproducts.com/en/)
-- [Viscofan](http://www.viscofan.com/es)
-- [WestRock](https://www.westrock.com/)
-
-#### Raw Materials
-- [Corning](https://www.corning.com/) — Materials Science Technology and Innovation
-- [Hongqiaochina](http://hongqiaochina.com/)
-- [RUSAL](https://rusal.ru/en)
-
-##### Wooden Company
-- [Arnold Laver](https://www.laver.co.uk/)
-- [Century Furniture](http://www.centuryfurniture.com/)
-- [Fabuwood](https://www.fabuwood.com/)
-- [Kimball International](https://www.kimballinternational.com/)
-- [PotlatchDeltic](https://www.potlatchdeltic.com/)
-- [SawStop](https://www.sawstop.com/)
-- [West Fraser](https://www.westfraser.com/)
-- [Weyerhaeuser](https://www.weyerhaeuser.com/)
-- [Wood PLC](https://www.woodplc.com/)
-- [Wooden World Ltd](https://www.woodenworld.co/)
-
-#### Home Appliance
-- [BALLS](https://balls.co/) — The World's Best Balls Trimmer
-- [Dyson](https://www.dyson.com/en) — Dyson vacuum cleaners, hair dryers and stylers, fans, humidifiers, hand dryers and lighting
-- [Rowenta](https://www.rowenta.com/)
-- [Wonder](https://beuplifted.co.uk/) — Meditative sculpture
-
-##### Kitchen Company
-- [Braun House Hold](https://www.braunhousehold.com/es-es)
-- [Marble](https://marble.com/)
-- [Tupperware](https://www.tupperware.com/)
-- [Vorwerk](https://www.vorwerk.com/de/de/c/home)
-
-##### Mattress Company
-- [Beautyrest](https://www.beautyrest.com/)
-- [Colchón Emma](https://www.emma-colchon.es/)
-- [Colchón Exprés](https://www.colchonexpres.com/)
-- [Dormitorum](https://www.dormitorum.es/) — Tienda Online de Colchones, Camas y Más
-- [Mattress Firm](https://www.mattressfirm.com/)
-- [Original Mattress](https://www.originalmattress.com/)
-- [Sealy](https://es.sealy.com/es-ES)
-- [Serta](https://www.serta.com/)
-- [Simmons](https://simmons.fr/es)
-
-#### Gemological Lab
-- [EGL USA Gemological Laboratory](https://www.eglusa.com/)
-- [Gemological Lab & Appraisal](https://www.gemologicallab.com/)
-
-#### Packaging Company
-- [Amcor](https://www.amcor.com/)
-- [American Packaging Corporation](https://americanpackaging.com/)
-- [Berlin Packaging](https://www.berlinpackaging.com/)
-- [Berry Global](https://www.berryglobal.com/en/)
-- [Clearly Clean Food Trays](https://clearlyclean.com/)
-- [Coveris](https://www.coveris.com/)
-- [Creative Packaging Co](https://creativepackagingco.com/)
-- [Creative Packaging Supplies & Custom Shipping Supplies](https://www.thepackagingcompany.com/)
-- [DS Smith](https://www.dssmith.com/)
-- [EPE Global](https://epe.global/)
-- [Graphic Packaging](https://www.graphicpkg.com/)
-- [HLP Klearfold](https://www.hlpklearfold.com/)
-- [Klabin](https://klabin.com.br/)
-- [Mondi Group](https://www.mondigroup.com/en/home/)
-- [Packaging Corporation of America](https://www.packagingcorp.com/)
-- [Placon](https://www.placon.com/)
-- [Plastic Thermoforming](https://www.plasticingenuity.com/)
-- [Plastipak Packaging](https://www.plastipak.com/)
-- [ProAmpac](https://www.proampac.com/en-us/)
-- [Sealed Air](https://www.sealedair.com/)
-- [Silgan Holdings Inc](https://www.silganholdings.com/home/default.aspx)
-- [Smurfit Kappa](https://www.smurfitkappa.com/)
-- [Stora Enso](https://www.storaenso.com/en)
-- [Tetra Pak](https://www.tetrapak.com/)
-- [TricorBraun](https://www.tricorbraun.com/)
-
-### Mass-Media Company
-- [BuzzFeed Inc.](https://advertise.buzzfeed.com/)
-- [Linus Media Group](https://linusmediagroup.com/)
-
-#### News Media
-- [ABS-CBN](https://www.abs-cbn.com/)
-- [Al JazeeraMedia](https://network.aljazeera.net/)
-- [Atresmedia Corporacion](https://www.atresmediacorporacion.com/)
-- [Bell Media](https://www.bellmedia.ca/)
-- [Blue Ant Media](https://blueantmedia.com/)
-- [CBS Interactive](https://cbsinteractive.com/)
-- [CCM Benchmark Group](https://www.ccmbenchmark.com/)
-- [Chive Media Group](https://www.chivemediagroup.com/)
-- [Discovery, Inc.](https://corporate.discovery.com/)
-- [Economist Group](https://www.economistgroup.com/)
-- [Esselgroup](http://www.esselgroup.com/)
-- [Fox Corporation](https://www.foxcorporation.com/)
-- [GO! MBC](http://www.imbc.com/)
-- [Grupo Clarín](https://grupoclarin.com/)
-- [Grupo Godó](https://www.grupogodo.com/)
-- [Grupo Joly](https://www.grupojoly.com/)
-- [Grupo Vocento](https://www.vocento.com/)
-- [Grupo Zeta](http://www.grupozeta.es/)
-- [Grupos mediáticos españoles](https://es.wikipedia.org/wiki/Anexo:Grupos_medi%C3%A1ticos_espa%C3%B1oles) — Wikipedia
-- [Hearst](https://www.hearst.com/)
-- [Interfax](https://interfax.com/)
-- [Interpublic Group](https://www.interpublic.com/)
-- [Manila Broadcasting Company](https://manilabroadcasting.com.ph/)
-- [Mediaset](https://www.mediaset.es/)
-- [News Corp](https://newscorp.com/)
-- [Omnicom Group](https://www.omnicomgroup.com/)
-- [Prensa Ibérica](https://www.prensaiberica.es/)
-- [PRISA](https://www.prisa.com/es)
-- [SABAN Capital Group](https://saban.com/)
-- [Standard Media Group](https://www.standardmedia.com/)
-- [Synamedia](https://www.synamedia.com/)
-- [Turner Entertainment](https://www.international.tbs.com/)
-- [Unidad Editorial](https://www.unidadeditorial.es/)
-- [Univision](https://corporate.univision.com/)
-- [Valorem](https://www.valorem.com.co/)
-- [Verizon Media](https://www.verizonmedia.com/)
-- [VICE media](https://www.vicemediagroup.com/)
-- [Vox Media](https://www.voxmedia.com/a/vm)
-- [Vox Media](https://corp.voxmedia.com/)
-
-##### Bloomberg
-- [Bloomberg Anywhere](https://bba.bloomberg.net/)
-- [Bloomberg Media Group](https://www.bloombergmedia.com/)
-- [Bloomberg Service Center](https://service.bloomberg.com/portal/sessions/new)
-
-#### Entertainment Company
-- [2929 Entertainment](https://www.2929entertainment.com/)
-- [Ace Entertainment](https://www.ace-entertainment.com/)
-- [Condé Nast](https://www.condenast.com/)
-- [Entertainment One](https://www.entertainmentone.com/)
-- [Entertainment Studios Corporate](https://entertainmentstudios.com/)
-- [Irresistible Entertainment](https://fremantle.com/)
-- [Netflix Media Center](https://media.netflix.com/en/)
-- [Sonar Entertainment](https://sonarent.com/)
-- [Sony Pictures Television](https://www.sonypicturestelevision.com/)
-- [Stage Entertainment](https://www.stage.es/)
-- [Warner Bros. Discovery](https://wbd.com/)
-- [WarnerBros](https://www.warnerbros.com/)
-- [XUMO](https://corp.xumo.com/)
-- [ZEPPELIN TV](https://www.zeppelintv.com/)
-
-#### Media Conglomerates
-- [Arena Group](https://thearenagroup.net/)
-- [Atresmedia](https://www.atresmedia.com/)
-- [beIN media group](https://www.beinmediagroup.com/)
-- [Comcast Corporation](https://corporate.comcast.com/)
-- [ErosSTX](https://erosstx.com/)
-- [Jukin Media](https://www.jukinmedia.com/)
-- [Maven Corp](https://corp.maven.io/)
-- [MBC](https://www.mbc.net/)
-- [MEDIAFOREUROPE](https://www.mfemediaforeurope.com/en/)
-- [Mediakind](https://www.mediakind.com/) — Global Media Technology Solutions and Innovators
-- [MediaPost](https://www.mediapost.fr/)
-- [Mediapro](https://mediapro.tv/)
-- [NBCUniversal](https://www.nbcuniversal.com/)
-- [Network 18](https://www.nw18.com/)
-- [Sinclair Broadcast Group](https://sbgi.net/)
-- [Spiked Media](https://spiked.media/)
-- [TBD Media](https://www.tbdmediagroup.com/)
-- [ViacomCBS](https://www.viacomcbs.com/)
-- [Virgin Media](https://www.virginmedia.com/)
-- [Vivendi](https://www.vivendi.com/en)
-- [WarnerMedia](https://www.warnermedia.com/)
-
-##### Disney
-- [Adventures by Disney](https://www.adventuresbydisney.com/)
-- [Avatar](https://www.avatar.com/) — Official Website
-- [Disney Advertising Sales](https://disneyadsales.com/)
-- [Disney Aulani](https://www.disneyaulani.com/)
-- [Disney Books](https://books.disney.com/)
-- [Disney Cruise Line](https://disneycruise.disney.go.com/)
-- [Disney España](https://disney.es/)
-- [Disney Family](https://family.disney.com/)
-- [Disney Guest Services](https://support.disney.com/hc/en-gb)
-- [Disney holidays](https://www.disneyholidays.com/walt-disney-world)
-- [Disney Liveshows](https://liveshows.disney.com/)
-- [Disney Movie Club](https://disneymovieclub.go.com/magic)
-- [Disney Movie Insiders](https://www.disneymovieinsiders.com/)
-- [Disney News](https://news.disney.com/)
-- [Disney Parks](https://dpep.disney.com/)
-- [Disney Parks](https://disneyparks.disney.go.com/)
-- [Disney Partners](https://disneypartners.disney.es/)
-- [Disney Social Responsibility](https://impact.disney.com/)
-- [Disney Terms Of Use](https://disneytermsofuse.com/) — The Walt Disney Company
-- [Disney Vacation Club](https://disneyvacationclub.disney.go.com/)
-- [Disney+ Originals](https://ondisneyplus.disney.com/)
-- [Disneyland](https://disneyland.disney.go.com/)
-- [Disneyworld](https://www.disneyworld.eu/)
-- [Life at Disney](https://sites.disney.com/lifeatdisney/)
-- [Marvel](https://www.marvel.com/)
-- [My Disney Account](https://my.disney.com/)
-- [shopDisney](https://www.shopdisney.com/)
-- [StarWars.com](https://www.starwars.com/)
-- [The Walt Disney Company](https://thewaltdisneycompany.com/)
-- [The Walt Disney Company](https://thewaltdisneycompany.eu/)
-- [Walt Disney Animation Studios](https://www.disneyanimation.com/)
-- [Working at DISNEY](https://jobs.disneycareers.com/) — Jobs and Careers at DISNEY
-
-#### Digital Media
-- ⭐ **[AKQA](https://www.akqa.com/)**
-- [3Rings Media](https://3ringsmedia.com/)
-- [4AM](https://www.4am.ch/)
-- [Adevinta](https://www.adevinta.com/)
-- [Amautas](https://amautas.com/)
-- [Ask Media Group](https://www.askmediagroup.com/)
-- [Axel Springer SE](https://www.axelspringer.com/de)
-- [Azerion](https://www.azerion.com/) — Digital entertainment & media platform
-- [CMYK](https://wearecmyk.com/)
-- [Digiday Media](https://www.digidaymedia.com/)
-- [Dotdash](https://www.dotdash.com/)
-- [Dotdash Meredith](https://www.dotdashmeredith.com/)
-- [Dpointgroup](https://dpointgroup.com/)
-- [Etecé](https://etece.com/)
-- [G/O Media](https://g-omedia.com/)
-- [Gannett](https://www.gannett.com/)
-- [Gapminder](https://www.gapminder.org/)
-- [J2 Global](https://www.j2global.com/)
-- [Jellysmack](https://jellysmack.com/)
-- [Jubilee Media](https://www.jubileemedia.com/)
-- [Kantar](https://www.kantar.com/)
-- [LifeSavvy Media](https://www.lifesavvymedia.com/)
-- [Link To Media](https://www.linktomedia.com/)
-- [Livemode](https://www.livemode.com/) — Conectando Esportes ao Digital
-- [MayaMagic](https://www.mayamagik.com/)
-- [Media & Entertainment Services Alliance](https://www.mesaonline.org/)
-- [Mediaplanet](https://mediaplanet.com/us)
-- [Memondo Network](http://memondonetwork.es/)
-- [Penske Media Corporation](https://pmc.com/)
-- [Profile](https://profile.es/) — Digitalización estratégica y creativa | Tus ideas, nuestros retos
-- [Red Ventures](https://redventures.com/)
-- [SDL](https://www.sdl.com/)
-- [SiriusXM Media](https://www.siriusxmmedia.com/) — Music & Podcast Ads
-- [Spike Media](https://www.spikemedia.co/)
-- [Static Media](https://www.static.com/)
-- [TheSoul Publishing](https://www.thesoul-publishing.com/)
-- [VerticalScope Inc.](https://www.verticalscope.com/)
-- [Webedia group](https://www.webedia-group.com/)
-- [Westbrook Inc.](https://www.westbrookinc.com/)
-- [Widevine](https://www.widevine.com/)
-- [Ziff Davis](https://www.ziffdavis.com/)
-
-#### Music Production
-- [21 Ent](http://21ent.com/)
-- [Abbey Road Studios](https://www.abbeyroad.com/)
-- [aerorecords.](https://aerorecords.net/)
-- [Anjunabeats](https://anjunabeats.com/)
-- [Aparte Music](https://www.apartemusic.com/)
-- [Atlantic Records](https://www.atlanticrecords.com/)
-- [Big Hit Entertainment](https://ibighit.com/)
-- [BMG](https://www.bmg.com/fr)
-- [Capitol Records](https://www.capitolrecords.com/#/)
-- [Casablanca](https://www.casablancarecords.com/)
-- [COPILOT Music](https://www.copilotmusic.com/)
-- [Cube Entertainment](http://cubeent.co.kr/)
-- [DELRecords](https://www.delrecords.com/)
-- [District 78](https://www.district78.com/)
-- [Effective Records](https://effective-records.com/)
-- [egoist records](https://www.egoistrecords.com/)
-- [Epic Records](https://www.epicrecords.com/)
-- [Globe.ph](https://www.globe.com.ph/)
-- [Heavy Hits](https://heavyhits.com/)
-- [Interscope Records](https://www.interscope.com/)
-- [Kakao M](https://www.kakao-m.com/)
-- [La Blogothèque](https://www.blogotheque.net/)
-- [La Industria Inc](https://laindustriainc.com/)
-- [QQ Music](https://y.qq.com/)
-- [RCA Records](https://www.rcarecords.com/)
-- [Republic Records](https://www.republicrecords.com/)
-- [RIAA](https://www.riaa.com/)
-- [SB Projects](https://scooterbraun.com/)
-- [Sony Music](https://www.sonymusic.com/)
-- [Sony Music Publishing](https://www.sonymusicpub.com/en)
-- [Tencent Music (TME)](https://www.tencentmusic.com/)
-- [The Orchard](https://www.theorchard.com/)
-- [Ultra Music](https://ultramusic.com/)
-- [Universal Music es](https://universalmusiconline.es/)
-- [Universal Music Group](https://www.universalmusic.com/)
-- [Universal Music Group Deutschland](https://www.universal-music.de/)
-- [Vevo](https://www.hq.vevo.com/)
-- [Warner Records](https://www.warnerrecords.com/)
-- [WARP](https://warp.net/)
-- [WaterTower Music](https://watertower-music.com/)
-- [Westwood Entertainment](https://www.westwoodent.com/)
-- [WMG](https://www.wmg.com/)
-- [YG Entertainment](https://www.ygfamily.com/)
-
-##### Record Label
-- [Abstraction Music](http://abstractionmusic.com/)
-- [AIDN](https://aidn.jp/) — daniwell
-- [ATO Records](https://atorecords.com/)
-- [Best Year in Music](https://pudding.cool/projects/music-history)
-- [Blackout Music NL](https://www.blackoutmusic.nl/)
-- [Chillhop Music](https://chillhop.com/)
-- [Defected Records](https://defected.com/)
-- [Drum&BassArena](https://breakbeat.co.uk/)
-- [Frogleap Studios](https://www.frogleapstudios.com/)
-- [LabelRadar](https://www.labelradar.com/)
-- [Monstercat](https://www.monstercat.com/)
-- [Music Gateway](https://www.musicgateway.com/)
-- [Music Lab](https://musiclab.cloud/)
-- [Musica Relajante](https://www.musicarelajante.es/)
-- [NCS](https://ncs.io/music) — Library
-- [Partisan Records](https://partisanrecords.com/)
-- [Phantom Terrains](https://phantomterrains.com/)
-- [ReverbNation](https://www.reverbnation.com/)
-- [Sanderson.band](https://sanderson.band/)
-- [Silkroad](https://www.silkroad.org/)
-- [Siona Records](https://sionarecords.com/)
-- [Splice](https://splice.com/)
-- [Swissbeatbox](https://swissbeatbox.com/)
-- [UKF](https://ukf.com/)
-
-#### Video Production
-- [20th Century Studios](https://www.20thcenturystudios.com/)
-- [21Aerials](https://21aerials.com/)
-- [A24 Films](https://a24films.com/)
-- [Amazon Studios](https://studios.amazon.com/)
-- [Amblin](https://amblin.com/)
-- [Atlas Films](https://www.atlasfilms.com/)
-- [Balsamiq Production](https://balsamiq.fr/)
-- [Believe](https://www.believe.tv/)
-- [Don Mischer Productions](https://www.donmischerproductions.com/)
-- [Dron Services Canarias](https://dronservicescanarias.com/)
-- [El Terrat](https://elterrat.com/)
-- [Elevation Pictures](https://www.elevationpictures.com/)
-- [Films Pektakel](https://filmspektakel.at/)
-- [ITVS](https://www.itvstudios.com/)
-- [John Downer Productions](http://www.jdp.co.uk/)
-- [Kirby Productions](https://www.kirbyproductions.com/)
-- [Kurzgesagt](https://kurzgesagt.org/)
-- [Legendary](https://www.legendary.com/)
-- [Lucasfilm](https://www.lucasfilm.com/)
-- [MGM Studios](https://www.mgm.com/)
-- [MGTV Corp](https://corp.mgtv.com/)
-- [Miramax](https://www.miramax.com/)
-- [Motion Pictures](https://www.motionpictures.org/)
-- [MRC](http://www.mrcstudios.com/)
-- [Netflix Animation](https://www.netflixanimation.com/)
-- [Oracle Films](https://oraclefilms.com/)
-- [Panavision](https://www.panavision.com/)
-- [Particle6](https://www.particle6.com/) — Video Production Services
-- [Pinewood Studios](https://pinewoodgroup.com/)
-- [Producciones del Barrio](https://delbarrio.tv/)
-- [Sandwich](https://sandwich.co/)
-- [Selecta Visión](https://www.selecta-vision.com/)
-- [Sony Pictures](https://www.sonypictures.com/)
-- [Standard tv](https://standard.tv/)
-- [The Intellectual Property Corporation](https://www.theipcorp.com/)
-- [The Walt Disney Studios](https://www.waltdisneystudios.com/)
-- [ThinLineMedia](https://thinlinemedia.com/)
-- [TOHO CO., LTD.](https://www.toho.co.jp/)
-- [Top Virtual Tours](https://topvirtualtours.com/) — 360 3D Virtual Tours | Best VR Marketing Agency
-- [Universal Pictures](https://www.universalpictures.com/)
-- [Weta Digital](https://www.wetafx.co.nz/)
-- [Youplanet](https://youplanet.es/)
-- [Zapruder Pictures](https://zapruderpictures.com/)
-
-##### Animation Studio Company
-- [Anima Kitchent](https://www.animakitchent.com/)
-- [Animal Logic](https://animallogic.com/)
-- [ART+COM Studios](https://artcom.de/en/)
-- [Grease Pencil](https://greasepencils.com/)
-- [Illumination Macguff](https://www.illuminationmacguff.com/)
-- [Method Studios](https://www.methodstudios.com/en/)
-- [Nippon animation](https://www.nippon-animation.co.jp/)
-- [Pierrot Official Website](https://en.pierrot.jp/)
-- [Pixar Animation Studios](https://www.pixar.com/)
-- [Pixomondo](https://www.pixomondo.com/)
-- [Realdreams](https://www.realdreams.io/) — AI Driven Content Studio
-- [Rigmarole Studio](https://rigmarolestudio.com/)
-- [Rodeo FX](https://www.rodeofx.com/)
-- [SimpleBits](https://simplebits.com/)
-
-##### VFX Company
-- [ActionVFX](https://www.actionvfx.com/)
-- [Atmosphere Visual FX](https://www.atmosphere-vfx.com/)
-- [Blur Studio](http://blur.com/)
-- [BUF](https://buf.com/)
-- [cebas](https://www.cebas.com/) — Visual Techonology Inc.
-- [Cinesite Studios](https://www.cinesite.com/)
-- [EstudiomoX](https://estudiomox.com.ar/)
-- [Industrial Light & Magic](https://www.ilm.com/)
-- [Next Limit](https://nextlimit.com/)
-- [ShotGrid](https://www.shotgridsoftware.com/)
-- [Sitni Sati](https://www.afterworks.com/) — A Visual Effects Software Company
-
-#### Publisher Company
-- [ABC-CLIO](https://www.abc-clio.com/)
-- [Bonnier Books UK](https://www.bonnierbooks.co.uk/)
-- [Cairo Editore](https://www.cairoeditore.it/)
-- [Canariasebook](https://canariasebook.com/)
-- [Cauac Editorial](https://cauac.org/)
-- [Ediciones Cátedra](https://catedra.com/)
-- [Ediciones Ende](https://www.ediciones-ende.com/)
-- [Editorial Anagrama](https://www.anagrama-ed.es/)
-- [Editorial Edelvives](https://www.edelvives.com/es)
-- [Editorial RM](https://www.editorialrm.com/en)
-- [Editorial Vox](https://vox.es/)
-- [Fondo de Cultura Económica](https://www.fondodeculturaeconomica.com/)
-- [Grapas&mapas](https://grapasymapas.com/)
-- [Grupo Planeta](https://www.planeta.es/es)
-- [Independent Publishers Group](https://www.ipgbook.com/)
-- [LeCanarien Ediciones](https://lecanarienediciones.com/index.php)
-- [Library of America](https://www.loa.org/)
-- [libros.com](https://libros.com/)
-- [LindyPress.net](https://lindypress.net/) — Classical and Medieval Works Reinvigorated
-- [McGraw Hill](https://www.mheducation.com/)
-- [Medica Panamericana](https://www.medicapanamericana.com/es)
-- [Mondadori Group](https://www.mondadori.com/)
-- [No Starch Press](https://nostarch.com/)
-- [O'Reilly](https://www.oreilly.com/)
-- [Penguin Books UK](https://www.penguin.co.uk/)
-- [Penguin Libros](https://www.penguinlibros.com/es/)
-- [Penguin Random House](https://www.penguinrandomhouse.com/)
-- [Penguin Random House Education](https://penguinrandomhouseeducation.com/)
-- [Perceval Press](https://percevalpress.com/)
-- [Perseus Books](https://www.perseusbooks.com/)
-- [RBA Libros](https://www.rbalibros.com/)
-- [Salamandra](https://salamandra.es/)
-- [Simon & Schuster](https://www.simonandschuster.com/)
-- [Templar Publishing](https://www.templarco.co.uk/)
-- [Tor Publishing Group](https://torpublishinggroup.com/)
-- [ZeniMax Media Inc](https://www.zenimax.com/en)
-
-#### Advertising Agency
-- [Abu Dhabi Media](https://www.admedia.ae/en)
-- [Arco Comunicacion](https://arcocomunicacion.com/)
-- [Basic Attention Token](https://basicattentiontoken.org/)
-- [BBDO Worldwide](https://www.bbdo.com/)
-- [Blip Billboards](https://www.blipbillboards.com/)
-- [Chango Digital](https://changodigital.com/)
-- [DDB](https://www.ddb.com/)
-- [DENTSU INC.](https://www.dentsu.com/)
-- [GrandArmy](https://www.grandarmy.com/)
-- [GroupM](https://www.groupm.com/)
-- [monopo london](https://monopo.london/) — Tokyo-born design-driven creative agency
-- [Publicis Groupe](https://www.publicisgroupe.com/fr)
-- [VMLY&R](https://www.vmlyr.com/)
-- [Wavemaker](https://wavemakerglobal.com/)
-- [WPP](https://www.wpp.com/)
-- [Wunderman Thompson](https://www.wundermanthompson.com/)
-
-#### Talent Agencies
-- [A Leight House](https://www.aleighthouse.com/)
-- [Barcelona Digital Talent](https://barcelonadigitaltalent.com/)
-- [Creative Artists Agency](https://www.caa.com/)
-- [Excel Sports Management](https://www.excelsm.com/)
-- [ISE](https://www.iseworldwide.com/)
-- [Johnson & Laird Actors and Talent Agency Auckland](https://johnsonlaird.com/)
-- [Liberty Media Corporation](http://www.libertymedia.com/)
-- [MPC Management](https://www.mpcmanagement.es/)
-- [NAU Agency](https://nauagency.com/)
-- [Plugged Models](https://pluggedmodels.com/)
-- [Ralev.com](https://ralev.com/) — A design agency
-- [Trident Media Group](https://www.tridentmediagroup.com/)
-- [UTA](https://www.unitedtalent.com/)
-- [Vizz Agency](https://www.vizz-agency.com/)
-- [Wasserman](https://www.teamwass.com/)
-- [Writers House](http://www.writershouse.com/)
-
-##### Model Agency
-- [Elite model](https://www.elitemodel.com/)
-- [Elite Paris](https://elitemodel.fr/fr/web.app)
-- [Elite World Group](https://www.theeliteworldgroup.com/home.web)
-- [Ford Models](https://www.fordmodels.com/)
-- [Francina Models](https://francinamodels.com/)
-- [IMG Models](https://www.imgmodels.com/)
-- [IMTA](https://www.imta.com/)
-- [LA models](https://www.lamodels.com/)
-- [Latitude Talent](https://www.latitudetalent.com/)
-- [LOOK Model Agency](http://www.lookmodelagency.com/)
-- [Louisa Models](https://www.louisa-models.de/)
-- [Marilyn Agency](https://www.marilynagency.com/paris)
-- [METRO Models](https://www.metromodels.com/)
-- [Model Management](https://www.modelmanagement.com/)
-- [Munich Models](https://www.munich-models.de/)
-- [Official Models NY](https://www.officialmodelsny.com/new-york)
-- [Scout Model](https://www.scouttm.com/)
-- [Stardust](https://www.stardust.co.jp/)
-- [The Clueless](https://www.theclueless.ai/)
-- [The Lions Model Management](https://www.thelionsmanagement.com/newyork)
-- [The Society Management NY](https://www.thesocietymanagement.com/)
-- [Verge Agency](https://www.vergeagency.co/) — Talent Management
-- [Volver Agency](http://www.volver.actor/)
-- [Why Not Models](https://www.whynotmodels.com/)
-- [Wilhelmina](https://www.wilhelmina.com/)
-- [Women Management](https://www.womenmanagement.com/home.web)
-
-### Conglomerate
-- [3DS](https://www.3ds.com/products) — Products
-- [Access Industries](https://www.accessindustries.com/)
-- [Adobe](https://www.adobe.com/creativecloud/plans.html) — apps
-- [ADP Marketplace](https://apps.adp.com/en-US/home)
-- [Akamai](https://www.akamai.com/products) — Products
-- [Apple Open Source](https://opensource.apple.com/releases/) — releases
-- [Autodesk](https://www.autodesk.com/products) — all products
-- [Ball Corporation](https://www.ball.com/)
-- [BBK Electronics](https://www.eebbk.com/)
-- [Beiersdorf](https://www.beiersdorf.de/)
-- [Berkshire Hathaway](https://www.berkshirehathaway.com/)
-- [Bertelsmann](https://www.bertelsmann.com/#st-1)
-- [Bitfury](https://bitfury.com/)
-- [Block](https://opensource.block.xyz/) — Open Source
-- [Bosch Global](https://www.bosch.com/)
-- [ByteDance](https://www.bytedance.com/en/products) — All products
-- [CASIO](https://world.casio.com/)
-- [CrowdStrike Marketplace](https://marketplace.crowdstrike.com/)
-- [Dailymotion Developer](https://developer.dailymotion.com/)
-- [Dangote Industries Limited](https://www.dangote.com/)
-- [Dropbox Open Source](https://opensource.dropbox.com/)
-- [Epson Corporate](https://corporate.epson/en/)
-- [ExxonMobil](https://corporate.exxonmobil.com/)
-- [Fimalac](http://www.fimalac.com/)
-- [Fiserv AppMarket](https://appmarket.fiservapps.com/categories.html) — Categories
-- [Ford Corporate](https://corporate.ford.com/)
-- [Fortinet Products](https://www.fortinet.com/products)
-- [Foxconn](https://www.foxconn.com/en-us)
-- [FUNAI](https://funai.jp/)
-- [GE](https://www.ge.com/)
-- [Gen](https://www.gendigital.com/us/en/family-of-brands/) — Family of brands
-- [Glencore](https://www.glencore.com/)
-- [Groupe Clarins](http://www.groupeclarins.com/fr)
-- [Hasbro](https://corporate.hasbro.com/en-us)
-- [HCL Tech](https://www.hcltech.com/)
-- [Hellman & Friedman](https://hf.com/)
-- [Honhai](https://www.honhai.com/zh-tw)
-- [Indra](https://www.indracompany.com/)
-- [Intel Corporation](https://www.intc.com/)
-- [Intuit](https://quickbooks.intuit.com/app/apps/) — Apps
-- [Jardines Corp](https://www.jardines.com/en/global/home.html)
-- [Kawasaki Heavy Industries, Ltd.](https://global.kawasaki.com/)
-- [Koch Industries](https://www.kochind.com/)
-- [KONAMI](https://www.konami.com/en)
-- [L’Oréal Groupe](https://www.loreal.com/fr)
-- [LG](https://www.lg.com/es)
-- [LVMH](https://www.lvmh.com/)
-- [Meredith](https://www.meredith.com/)
-- [Mitsubishi](https://www.mitsubishi.com/en)
-- [Omidyar Network](https://www.omidyar.com/)
-- [OpenAI Platform](https://platform.openai.com/apps)
-- [Oracle](https://www.oracle.com/applications/) — Applications
-- [Orange Corporate](https://www.orange.com/en)
-- [Palantir](https://www.palantir.com/platforms/) — Platforms
-- [Palo Alto Networks](https://apps.paloaltonetworks.com/apps) — Apps
-- [Panasonic](https://www.panasonic.com/es)
-- [PepsiCo](https://www.pepsico.com/)
-- [Philips](https://www.philips.es/)
-- [Pioneer Corporation](https://global.pioneer/en)
-- [Procter & Gamble](https://us.pg.com/)
-- [Rakuten, Inc.](https://global.rakuten.com/corp)
-- [Reliance Industries](https://www.ril.com/)
-- [Roper Technologies](https://www.ropertech.com/application-software/overview) — Application software
-- [Salesforce](https://www.salesforce.com/eu/products/) — Complete Salesforce Products & Software Suite
-- [Samsung](https://www.samsung.com/es)
-- [Samsung](https://www.samsung.com/us/apps/) — Apps & Services
-- [SANYO AV](https://www.sanyo-av.com/us/index.php)
-- [ServiceNow](https://store.servicenow.com/store/apps) — Apps and Solutions
-- [Sharp Global](https://global.sharp/)
-- [Siemens](https://www.siemens.com/global/en.html)
-- [Sony](https://www.sony.net/)
-- [Sotheby's](https://www.sothebys.com/en)
-- [Steinberg](https://www.steinberg.net/products/) — Products
-- [Technicolor](https://www.technicolor.com/)
-- [Tencent Cloud](https://www.tencentcloud.com/product) — Products
-- [Tencent Open Source](https://opensource.tencent.com/)
-- [The Coca-Cola Company](https://www.coca-colacompany.com/)
-- [The Trump Organization](https://www.trump.com/)
-- [Thomson Reuters](https://www.thomsonreuters.com/en.html)
-- [Toyota Motor Corporation](https://global.toyota/en/)
-- [TrendForce](https://www.trendforce.com/)
-- [Verizon Wireless](https://www.verizonwireless.com/)
-- [Virgin](https://www.virgin.com/)
-- [Walmart Corporate](https://corporate.walmart.com/)
-- [Washington Companies](https://www.washingtoncompanies.com/)
-- [Xerox](https://www.xerox.com/)
-- [Yamaha Corporation](https://www.yamaha.com/en)
-
-#### Conglo Group
-- [ADEO Group](https://www.adeo.com/)
-- [American International Group](https://www.aig.com/)
-- [Ant Group](https://www.antgroup.com/)
-- [Axiata Group Berhad](https://www.axiata.com/)
-- [Banijay Group](https://www.banijay.com/)
-- [Bolloré](https://www.bollore.com/en/)
-- [BSI group](https://www.bsigroup.com/)
-- [Bühler Group](https://www.buhlergroup.com/content/buhlergroup/global/en/homepage.html)
-- [Charoen Pokphand Group](https://www.cpgroupglobal.com/en/home)
-- [City Football Group](https://www.cityfootballgroup.com/)
-- [Emirates Group](https://www.theemiratesgroup.com/)
-- [F.I.L.A Group](https://www.filagroup.it/)
-- [Ferrero Group](https://www.ferrero.com/)
-- [Groupe Crédit Mutuel](https://www.creditmutuel.com/fr/index.html)
-- [Grupo Boulevard 21](https://grupoboulevard21.com/es) — Restaurants Tenerife
-- [Grupo Carso](https://www.carso.com.mx/)
-- [Grupo Globo](https://grupoglobo.globo.com/)
-- [IAG](https://www.iairgroup.com/es-es) — International Airlines Group
-- [IAG](https://www.iairgroup.com/) — International Airlines Group
-- [IFA](https://ifa-group.com/en/) — automotive supplier for drive shafts & joints
-- [IMA Group](https://ima.it/en)
-- [Kering Luxury Group](https://www.kering.com/en/)
-- [Marathon Group](https://marathongroup.com/) — Vehicle Protection Services Provider
-- [Match Group](https://mtch.com/)
-- [Merck Group](https://www.merckgroup.com/en)
-- [Midea Group](https://www.midea-group.com/)
-- [Radici Group](https://www.radicigroup.com/en)
-- [Rockefeller Group](https://www.rockefellergroup.com/)
-- [RPG Group](https://www.rpggroup.com/)
-- [Sampo Group](https://www.sampo.com/)
-- [SK Group](https://eng.sk.com/)
-- [The Future Group](https://www.futuregroup.in/)
-- [TMTG](https://www.tmtgcorp.com/)
-- [UGT Group](https://ugt.group/en)
-- [Walton Group](https://waltonbd.com/)
-- [Würth Group](https://www.wuerth.com/wuerth-group/homepage.php)
-- [ZEISS Group](https://www.zeiss.com/corporate/int/home.html)
-
 ## Job Portal
 - [EU Careers](https://eu-careers.europa.eu/en)
 - [PayScale](https://www.payscale.com/)
+
+### Company Careers
+- [Atos Jobs](https://jobs.atos.net/)
+- [Dailymotion Careers](https://careers.dailymotion.com/)
+- [Eulen Gropu Jobs](https://eulen.referrals.selectminds.com/)
+- [Koch Careers](https://jobs.kochcareers.com/)
+- [Nielsen Careers](https://jobs.nielsen.com/)
+- [Orange Jobs](https://orange.jobs/site/en-home)
+- [Perpetual Protocol Jobs](https://jobs.perp.fi/)
+- [ProtonMail Careers](https://careers.protonmail.com/)
+- [TikTok Careers](https://careers.tiktok.com/)
+- [Turing Jobs](https://careers.turing.com/)
+- [Vanguard Careers](https://www.vanguardjobs.com/)
 
 ### Employee Orientation
 - [¿Cómo redactar un contrato?](https://sites.google.com/site/redacespecializada/home/24-como-redactar-un-contrato)
@@ -5635,6 +5648,14 @@ description: Stores, marketplaces, product research, and resale
 - [XING](https://www.xing.com/)
 - [Zippia](https://www.zippia.com/)
 
+### Guide Job
+- [50 Ways to Get a Job](https://50waystogetajob.com/)
+- [Emprendedores.es](https://www.emprendedores.es/)
+- [Loentiendo.com](https://loentiendo.com/)
+- [Ocupa2](https://ocupa2.com/blog)
+- [Orientación laboral](https://orientacion-laboral.infojobs.net/)
+- [The Balance](https://www.thebalance.com/)
+
 ### Search Business
 - [Best Company](https://bestcompany.com/)
 - [Blocket](https://www.blocket.se/)
@@ -5671,24 +5692,3 @@ description: Stores, marketplaces, product research, and resale
 - [Yellowbook](https://www.yellowbook.com/)
 - [YellowBot](https://www.yellowbot.com/)
 - [Yelp](https://www.yelp.com/search?find_desc=&find_loc=) — Search Business
-
-### Guide Job
-- [50 Ways to Get a Job](https://50waystogetajob.com/)
-- [Emprendedores.es](https://www.emprendedores.es/)
-- [Loentiendo.com](https://loentiendo.com/)
-- [Ocupa2](https://ocupa2.com/blog)
-- [Orientación laboral](https://orientacion-laboral.infojobs.net/)
-- [The Balance](https://www.thebalance.com/)
-
-### Company Careers
-- [Atos Jobs](https://jobs.atos.net/)
-- [Dailymotion Careers](https://careers.dailymotion.com/)
-- [Eulen Gropu Jobs](https://eulen.referrals.selectminds.com/)
-- [Koch Careers](https://jobs.kochcareers.com/)
-- [Nielsen Careers](https://jobs.nielsen.com/)
-- [Orange Jobs](https://orange.jobs/site/en-home)
-- [Perpetual Protocol Jobs](https://jobs.perp.fi/)
-- [ProtonMail Careers](https://careers.protonmail.com/)
-- [TikTok Careers](https://careers.tiktok.com/)
-- [Turing Jobs](https://careers.turing.com/)
-- [Vanguard Careers](https://www.vanguardjobs.com/)

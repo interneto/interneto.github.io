@@ -86,49 +86,6 @@ description: Workouts, wellness, and health tracking
 ## Food Recipes
 - [WeChef](https://wechef.site/) — Recipe Journal
 
-### Recipe Website
-- ⭐ **[Based Cooking](https://based.cooking/)**
-- ⭐ **[Grimgrains](https://grimgrains.com/site/home.html)** — 100R
-- ⭐ **[Recipe Bridge](https://www.recipebridge.com/)**
-- ⭐ **[Supercook](https://www.supercook.com/#/recipes)** — Recipe generator
-- [AllRecipes](https://www.allrecipes.com/)
-- [Baking Calculators](https://bakingcalculators.com/)
-- [BBC Food](https://www.bbc.co.uk/food) — Recipes and inspiration from your favourite BBC programmes and chefs
-- [Chefclub](http://www.chefclub.tv/es-es)
-- [Chowdown](https://chowdown.io/)
-- [Cocineros Argentinos](https://cocinerosargentinos.com/)
-- [Cookd](https://cookdtv.com/)
-- [Directo al Paladar (DAP)](https://www.directoalpaladar.com/) — Recetas de cocina, postres y gastronomía
-- [Eat This Much](https://www.eatthismuch.com/)
-- [ekilu](https://ekilu.com/)
-- [Epicurious](https://www.epicurious.com/) — Recipes, Menu Ideas, Videos & Cooking Tips
-- [Every Plate](https://www.everyplate.com/)
-- [Food Mood](https://artsandculture.google.com/experiment/food-mood/HwHnGalZ3up0EA) — Google Arts & Culture
-- [Food Network](https://foodnetwork.co.uk/)
-- [GialloZafferano Recipes](https://www.giallozafferano.com/)
-- [How To Cook](https://cook.aiurs.co/)
-- [Just the Recipe](https://www.justtherecipe.com/)
-- [Kitchen Stories](https://www.kitchenstories.com/en)
-- [Lebanese Mediterranean Recipes](https://maureenabood.com/) — Maureen Abood
-- [Lee Kum Kee (Professional)](https://www.lkkprofessional.com/recipes.php?cuisine=asian) — Inspiring Recipes - Asian
-- [My recipe collection](https://recipes.deeppass.net/index) — DeepPass
-- [Nooddle](https://www.nooddle.es/home)
-- [NYT Cooking](https://cooking.nytimes.com/)
-- [Pampered Chef](https://www.pamperedchef.com/)
-- [Punchfork](https://www.punchfork.com/)
-- [Rakuten Recipes](https://recipe.rakuten.co.jp/)
-- [Recetas de cocina. +20.000 recetas fáciles paso a paso](https://www.recetasgratis.net/)
-- [RecipeTin Eats](https://www.recipetineats.com/) — A Food Blog Serving Up Quick & Easy Dinner Recipes
-- [SideChef](https://www.sidechef.com/) — Shop and Cook Step-by-Step Recipes
-- [Spooonable Recipes](https://www.spoonablerecipes.com/)
-- [StillTasty](https://stilltasty.com/)
-- [Tasty](https://tasty.co/)
-- [The Kitchn](https://www.thekitchn.com/)
-- [Typesense](https://recipe-search.typesense.org/) — Recipes
-- [WhatToCook.org](https://whattocook.org/)
-- [Yummly](https://www.yummly.com/) — Personalized Recipe Recommendations
-- [Yup, it's Vegan](https://yupitsvegan.com/) — Plant-Based & Vegetarian Recipes, A Vegan Recipe Blog
-
 ### Recipe Manager
 - ⭐ **[CookBook](https://cookbookmanager.com/)** — The Recipe Manager & Planner App
 - ⭐ **[Cookpad](https://cookpad.com/es)**
@@ -185,6 +142,49 @@ description: Workouts, wellness, and health tracking
 - [Umami](https://www.umami.recipes/) — Recipe Manager for iOS and Android
 - [wedesoft/anymeal · GitHub](https://github.com/wedesoft/anymeal/)
 - [Whisk](https://www.whiskapp.net/) — Recipes & Meal Planner
+
+### Recipe Website
+- ⭐ **[Based Cooking](https://based.cooking/)**
+- ⭐ **[Grimgrains](https://grimgrains.com/site/home.html)** — 100R
+- ⭐ **[Recipe Bridge](https://www.recipebridge.com/)**
+- ⭐ **[Supercook](https://www.supercook.com/#/recipes)** — Recipe generator
+- [AllRecipes](https://www.allrecipes.com/)
+- [Baking Calculators](https://bakingcalculators.com/)
+- [BBC Food](https://www.bbc.co.uk/food) — Recipes and inspiration from your favourite BBC programmes and chefs
+- [Chefclub](http://www.chefclub.tv/es-es)
+- [Chowdown](https://chowdown.io/)
+- [Cocineros Argentinos](https://cocinerosargentinos.com/)
+- [Cookd](https://cookdtv.com/)
+- [Directo al Paladar (DAP)](https://www.directoalpaladar.com/) — Recetas de cocina, postres y gastronomía
+- [Eat This Much](https://www.eatthismuch.com/)
+- [ekilu](https://ekilu.com/)
+- [Epicurious](https://www.epicurious.com/) — Recipes, Menu Ideas, Videos & Cooking Tips
+- [Every Plate](https://www.everyplate.com/)
+- [Food Mood](https://artsandculture.google.com/experiment/food-mood/HwHnGalZ3up0EA) — Google Arts & Culture
+- [Food Network](https://foodnetwork.co.uk/)
+- [GialloZafferano Recipes](https://www.giallozafferano.com/)
+- [How To Cook](https://cook.aiurs.co/)
+- [Just the Recipe](https://www.justtherecipe.com/)
+- [Kitchen Stories](https://www.kitchenstories.com/en)
+- [Lebanese Mediterranean Recipes](https://maureenabood.com/) — Maureen Abood
+- [Lee Kum Kee (Professional)](https://www.lkkprofessional.com/recipes.php?cuisine=asian) — Inspiring Recipes - Asian
+- [My recipe collection](https://recipes.deeppass.net/index) — DeepPass
+- [Nooddle](https://www.nooddle.es/home)
+- [NYT Cooking](https://cooking.nytimes.com/)
+- [Pampered Chef](https://www.pamperedchef.com/)
+- [Punchfork](https://www.punchfork.com/)
+- [Rakuten Recipes](https://recipe.rakuten.co.jp/)
+- [Recetas de cocina. +20.000 recetas fáciles paso a paso](https://www.recetasgratis.net/)
+- [RecipeTin Eats](https://www.recipetineats.com/) — A Food Blog Serving Up Quick & Easy Dinner Recipes
+- [SideChef](https://www.sidechef.com/) — Shop and Cook Step-by-Step Recipes
+- [Spooonable Recipes](https://www.spoonablerecipes.com/)
+- [StillTasty](https://stilltasty.com/)
+- [Tasty](https://tasty.co/)
+- [The Kitchn](https://www.thekitchn.com/)
+- [Typesense](https://recipe-search.typesense.org/) — Recipes
+- [WhatToCook.org](https://whattocook.org/)
+- [Yummly](https://www.yummly.com/) — Personalized Recipe Recommendations
+- [Yup, it's Vegan](https://yupitsvegan.com/) — Plant-Based & Vegetarian Recipes, A Vegan Recipe Blog
 
 ## Health Care
 - [Cancer.Net](https://www.cancer.net/es)
@@ -249,6 +249,11 @@ description: Workouts, wellness, and health tracking
 - [Strong by Zumba](https://strong.zumba.com/es-ES)
 - [Tao Dance](https://tao-dance.com/)
 - [Zumba Fitness](https://www.zumba.com/es-ES)
+
+### Bodybuilding
+- [Bodybuilding](https://www.bodybuilding.com/en-ES/index)
+- [Muscle & Strength](https://www.muscleandstrength.com/)
+- [Strength Level](https://strengthlevel.com/) — Weightlifting Calculator (Bench/Squat/Deadlift)
 
 ### Fitness App
 - ⭐ **[LibreFit](https://librefit.org/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/LibreFitOrg/LibreFit) — The free and private workout tracker
@@ -322,11 +327,6 @@ description: Workouts, wellness, and health tracking
 - [Zero Fasting](https://www.zerofasting.com/)
 - [Zombies, Run!](https://zrx.app/)
 
-### Bodybuilding
-- [Bodybuilding](https://www.bodybuilding.com/en-ES/index)
-- [Muscle & Strength](https://www.muscleandstrength.com/)
-- [Strength Level](https://strengthlevel.com/) — Weightlifting Calculator (Bench/Squat/Deadlift)
-
 ### Fitness Tracker
 - ⭐ **[GoldenCheetah](https://www.goldencheetah.org/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/GoldenCheetah/GoldenCheetah)
 - ⭐ **[jannis/FitoTrack](https://codeberg.org/jannis/FitoTrack)** — Codeberg.org
@@ -393,6 +393,13 @@ description: Workouts, wellness, and health tracking
 - [Veintiochoalmas](https://veintiochoalmas.com/)
 - [WildSmiles Braces](https://www.wildsmilesbraces.com/)
 
+### Biomagnetism
+- [Biomagnestism Sedona](https://biomagnetismsedona.com/)
+- [Biomagnetisch PAAR Therapeut](https://www.biomagnetisme.nl/)
+
+### Emotional Therapy
+- [Libertademocional](https://libertademocional.es/)
+
 ### Homeopathy
 - [ABC Homeopathy](https://abchomeopathy.com/)
 - [Alliance of Registered Homeopaths](http://www.a-r-h.org/)
@@ -406,10 +413,3 @@ description: Workouts, wellness, and health tracking
 - [Samuel Hahnemann](http://www.homeoint.org/books3/hahnemann2/index.htm)
 - [Society of Homeopaths](https://homeopathy-soh.org/)
 - [The School of Homeopathy](https://www.homeopathyschool.com/)
-
-### Biomagnetism
-- [Biomagnestism Sedona](https://biomagnetismsedona.com/)
-- [Biomagnetisch PAAR Therapeut](https://www.biomagnetisme.nl/)
-
-### Emotional Therapy
-- [Libertademocional](https://libertademocional.es/)

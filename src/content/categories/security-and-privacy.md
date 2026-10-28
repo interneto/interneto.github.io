@@ -209,6 +209,22 @@ description: Password managers, cybersecurity, and web privacy
 - [sigstore/cosign](https://github.com/sigstore/cosign) — Code signing and transparency for containers and binaries
 - [ZAP proxy](https://www.zaproxy.org/)
 
+### OSINT Tools
+- ⭐ **[overpass turbo](https://overpass-turbo.eu/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/tyrasd/overpass-turbo)
+- [🛰️ OSIRIS](https://osirisai.live/?layers=maritime,satellites,cctv,cctv_previews,live_news,earthquakes,global_incidents,day_night,cables,sdk_sea,sdk_air,sdk_naval) — Open Source Palantir Alternative | Live Tracking + OSINT Tools
+- [Creepy by ilektrojohn](https://www.geocreepy.com/)
+- [Datalux/Osintgram · GitHub](https://github.com/Datalux/Osintgram)
+- [FortyNorthSecurity/EyeWitness · GitHub](https://github.com/FortyNorthSecurity/EyeWitness)
+- [IDCrawl](https://www.idcrawl.com/) — Free People Search Engine
+- [lanmaster53/recon-ng · GitHub](https://github.com/lanmaster53/recon-ng)
+- [laramies/theHarvester · GitHub](https://github.com/laramies/theHarvester)
+- [mxrch/GHunt](https://github.com/mxrch/ghunt) — 🕵️‍♂️ Offensive Google framework.
+- [NexVision Web Threat Intelligence](https://www.nexvisionlab.com/) — OSINT
+- [p1ngul1n0/blackbird](https://github.com/p1ngul1n0/blackbird) — An OSINT tool to search for accounts by username and email in social networks.
+- [Sherlock Project](https://sherlock-project.github.io/)
+- [smicallef/spiderfoot · GitHub](https://github.com/smicallef/spiderfoot)
+- [sundowndev/phoneinfoga · GitHub](https://github.com/sundowndev/phoneinfoga)
+
 ### PenTesting
 - [Aircrack-ng](https://www.aircrack-ng.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/aircrack-ng/aircrack-ng)
 - [BeEF](http://beefproject.com/)
@@ -229,22 +245,6 @@ description: Password managers, cybersecurity, and web privacy
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) — A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [v1s1t0r1sh3r3/airgeddon · GitHub](https://github.com/v1s1t0r1sh3r3/airgeddon)
 - [zakirkun/deep-eye](https://github.com/zakirkun/deep-eye) — An advanced AI-driven vulnerability scanner and penetration testing tool
-
-### OSINT Tools
-- ⭐ **[overpass turbo](https://overpass-turbo.eu/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/tyrasd/overpass-turbo)
-- [🛰️ OSIRIS](https://osirisai.live/?layers=maritime,satellites,cctv,cctv_previews,live_news,earthquakes,global_incidents,day_night,cables,sdk_sea,sdk_air,sdk_naval) — Open Source Palantir Alternative | Live Tracking + OSINT Tools
-- [Creepy by ilektrojohn](https://www.geocreepy.com/)
-- [Datalux/Osintgram · GitHub](https://github.com/Datalux/Osintgram)
-- [FortyNorthSecurity/EyeWitness · GitHub](https://github.com/FortyNorthSecurity/EyeWitness)
-- [IDCrawl](https://www.idcrawl.com/) — Free People Search Engine
-- [lanmaster53/recon-ng · GitHub](https://github.com/lanmaster53/recon-ng)
-- [laramies/theHarvester · GitHub](https://github.com/laramies/theHarvester)
-- [mxrch/GHunt](https://github.com/mxrch/ghunt) — 🕵️‍♂️ Offensive Google framework.
-- [NexVision Web Threat Intelligence](https://www.nexvisionlab.com/) — OSINT
-- [p1ngul1n0/blackbird](https://github.com/p1ngul1n0/blackbird) — An OSINT tool to search for accounts by username and email in social networks.
-- [Sherlock Project](https://sherlock-project.github.io/)
-- [smicallef/spiderfoot · GitHub](https://github.com/smicallef/spiderfoot)
-- [sundowndev/phoneinfoga · GitHub](https://github.com/sundowndev/phoneinfoga)
 
 ### RockYou
 - [aoluggo/word-list-pentest](https://github.com/aoluggo/word-list-pentest) — Spanish word list (plain text) for use in pen-test. WIFI Try with wifite // Lista de palabras en español (texto sin formato) para usar en pruebas de penetración. WIFI Prueba con wifite.

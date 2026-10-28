@@ -10,209 +10,395 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 
 ## Audio & Music
 
-### Music App
-- [Chrome Music Lab](https://musiclab.chromeexperiments.com/)
-- [Clash.me](https://clash.me/) — audio experiment
-- [iReal Pro](https://www.irealpro.com/) — Practice Made Perfect
-- [Lenguaje y práctica musical](https://padlet.com/lolalefemus/Bookmarks)
-- [NYU Music Experience DLab](https://musedlab.org/)
-- [Pink Trombone](https://dood.al/pinktrombone)
-- [ProGuitar](https://www.proguitar.com/tools) — Tools
-- [The Music Lab](https://www.themusiclab.org/)
-- [Vocalstudio](https://vocalstudio.es/)
-- [WAVE](https://waveapp.pages.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/ayman708-UX/WAVE) — Music Redefined
+### Audio Computing
+- [BetterAudio](https://betteraudio.pro/) — Master your Mac's Audio
+- [Bland AI](https://www.bland.ai/) — Automate Phone Calls with Conversational AI for Enterprises
+- [deezer/spleeter](https://github.com/deezer/spleeter?utm_source=chatgpt.com) — Deezer source separation library including pretrained models
+- [gaheldev/Millisecond](https://github.com/gaheldev/Millisecond) — Optimize your Linux system for low latency audio
+- [MelogenAI](https://melogenai.com/es) — Convert Sheet Music to Midi Online with Ai
+- [open-mmlab/Amphion](https://github.com/open-mmlab/Amphion) — Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, music, and speech generation research and development.
+- [RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) — Easily train a good VC model with voice data = 10 mins!
+- [UVR5 UI](https://huggingface.co/spaces/TheStinger/UVR5_UI) — a Hugging Face Space by TheStinger
+- [Vapi](https://vapi.ai/) — Build Advanced Voice AI Agents
+- [w-okada/voice-changer · GitHub](https://github.com/w-okada/voice-changer)
+- [X to Voice](https://www.xtovoice.com/) — ElevenLabs
 
-#### Music Scores & Tabs
-- ⭐ **[IMSLP](https://imslp.org/)** — Free Sheet Music PDF
-- ⭐ **[Musescore.com](https://musescore.com/)** — The world's largest free sheet music catalog and community
-- [8notes.com](https://www.8notes.com/)
-- [911Tabs](https://www.911tabs.com/) — tabs search engine
-- [Cantorion](http://cantorion.org/)
-- [Everyone Piano](https://www.everyonepiano.com/)
-- [Flutetunes](https://www.flutetunes.com/)
-- [Free-scores](https://www.free-scores.com/index_uk.php)
-- [Gitarre](https://www.hochweber.ch/gitarre.htm) — Noten kostenlos
-- [Guitar Pro Tabs](https://www.guitarprotabs.net/)
-- [Jazz Studies](https://www.jazzstudies.us/)
-- [Musicnotes](https://www.musicnotes.com/)
-- [Musopen](https://musopen.org/)
-- [Note2Tabs](https://www.note2tabs.com/) — Convert Audio and YouTube to Guitar Tabs
-- [Noteflight](https://www.noteflight.com/)
-- [Partituras para guitarra clásica](https://www.guitarraclasicadelcamp.com/partituras)
-- [Sheet Music Direct](https://www.sheetmusicdirect.com/)
-- [Sheet Music Free](https://sheetmusic-free.com/)
-- [Sheet Music Titles](https://www.sheetmusicplus.com/)
-- [SheetMusicDirect.com](https://www.sheetmusicdirect.com/es-ES/)
-- [Songscription AI](https://www.songscription.ai/) — Transcribe Your Music to Sheet Music and MIDI for Free
-- [TablEdit Tablature Editor](https://tabledit.com/)
-- [The Mutopia Project](https://www.mutopiaproject.org/)
+#### AMT (Automatic Music Transcription)
+- [AnthemScore](https://www.lunaverus.com/) — Automatic Music Transcription Software
+- [Melodyne](https://www.celemony.com/en/melodyne/what-is-melodyne)
 
-##### Guitar Tabs
-- ⭐ **[Cifra Club](https://www.cifraclub.com/)** — tu sitio de acordes y tablaturas
-- ⭐ **[Songsterr](https://www.songsterr.com/)** — Guitar Tabs with Rhythm
-- ⭐ **[Ultimate Guitar](https://www.ultimate-guitar.com/)**
-- [All Guitar Chords](http://www.all-guitar-chords.com/)
-- [Betty Lou Music](http://www.bettyloumusic.com/allartists.htm) — All Artists
-- [Chord House](http://www.chordhouse.com.mx/)
-- [Chordie](https://www.chordie.com/) — Free Guitar Chords, Tabs, Tablature, Song Library
-- [Chordify](https://chordify.net/) — Learn and play all your favorite songs
-- [ChordU](https://chordu.com/) — chords for any song
-- [Gitagram](https://www.gitagram.com/) — Easy Chords + Free Interactive Tabs & Sheet Musics
-- [GProTab.net](https://gprotab.net/) — Free Guitar Pro tabs file sharing and reader (player)
-- [Guitar chords](https://www.guitar-chord.org/)
-- [Guitar Gate](https://www.guitargate.com/)
-- [Guitar Pro](https://www.guitar-pro.com/tabs/all) — mySongBook Tab Catalog
-- [Guitar Pro Tabs](https://guitarprotabs.org/)
-- [guitarmonia](https://guitarmonia.es/)
-- [Guitarraviva](https://www.guitarraviva.com/)
-- [GuitarTricks](https://www.guitartricks.com/)
-- [mySongBook](https://www.mysongbook.com/)
-- [Paola Hermosín](https://www.paolahermosin.com/tienda/) — Tabs
-- [Polyphia Tabs Store](https://polyphiatabs.com/)
-- [TabsGuru](https://tabs.guru/)
-- [Zeroflux](https://zeroflux.org/tabs.html) — Guitar Tabs
+#### Screen Reader
+- [Apple](https://www.apple.com/accessibility/features/?vision) — Accessibility
+- [brailcom/speechd](https://github.com/brailcom/speechd) — Common high-level interface to speech synthesis
+- [Dolphin](https://yourdolphin.com/ScreenReader) — ScreenReader
+- [Emacspeak -The Complete Audio Desktop](https://emacspeak.sourceforge.net/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/tvraman/emacspeak)
+- [evuraan/mintPiper](https://github.com/evuraan/mintPiper) — Make Linux speak what's on the screen: clearly and securely.
+- [NV Access](https://www.nvaccess.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/nvaccess/nvda)
+- [nvaccess/nvda](https://github.com/nvaccess/nvda) — NVDA, the free and open source Screen Reader for Microsoft Windows
+- [Orca](https://orca.gnome.org/) / [🔗](https://orca.gnome.org/source.html)
+- [Recordly](https://recordly.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/webadderall/Recordly) — Open-source app for incredible screen recordings
+- [Screen reader on your Chromebook](https://support.google.com/chromebook/answer/7031755?hl=en#zippy=%2Cchoose-text-with-your-cursor) — Chromebook Help
 
-#### Virtual Instruments
-- [Buitar](https://buitar.vercel.app/) — 首页
-- [Fretastic](https://fretastic.com/guitar) — A Free Interactive Guitar Fretboard App
-- [FretMap](https://fretmap.app/) — Interactive Guitar Fretboard
-- [Recursive Arts](https://recursivearts.com/) — App & Game Development Studio.
-- [Session Town](https://www.sessiontown.com/en) — Free Music Games and Apps for Musicians
+#### Speech Recognition
+- ⭐ **[abus-aikorea/voice-pro · GitHub](https://github.com/abus-aikorea/voice-pro)**
+- ⭐ **[Moonshine AI](https://www.moonshine.ai/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/moonshine-ai/moonshine)
+- [AI Subtitle Generation, Transcription, Translation powered by OpenSubtitles](https://ai.opensubtitles.com/)
+- [alphacep/vosk-api](https://github.com/alphacep/vosk-api) — Offline speech recognition API
+- [Applio](https://applio.org/)
+- [AssemblyAI](https://www.assemblyai.com/) — AI models to transcribe and understand speech
+- [bigWav.app](https://bigwav.app/) — Private audio transcription & annotation
+- [Camb.ai](https://www.camb.ai/) — AI Voice Translation & Dubbing for Videos
+- [CMUSphinx Open Source Speech Recognition](https://cmusphinx.github.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/cmusphinx/pocketsphinx/)
+- [diktafon · GitHub](https://github.com/jaromiru/diktafon)
+- [Dubdub](https://www.dubdub.ai/) — AI Dubbing & Voiceovers with emotions
+- [Dubify](https://www.dubify.io/) — Dub your videos using AI Magic
+- [DuRT](https://durt.dudufuture.top/) — Speech Recognition
+- [EzDubs](https://www.ezdubs.ai/) — Real-time AI dubbing with voice preservation
+- [facebookresearch/omnilingual-asr](https://github.com/facebookresearch/omnilingual-asr?ref=producthunt) — Omnilingual ASR Open-Source Multilingual SpeechRecognition for 1600+ Languages
+- [FluidVoice](https://altic.dev/fluid) / [![GitHub](/img/software/apps/github.svg)](https://github.com/altic-dev/FluidVoice) — Free Open Source Voice-to-Text for macOS
+- [FluidVoice](https://fluidvoice.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/altic-dev/FluidVoice) — Local Voice-to-Text for Mac, Windows & iPhone
+- [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) — Port of OpenAI's Whisper model in C/C++
+- [GitHub](https://github.com/canonical/myna) — canonical/myna: Myna is a lightweight speech-to-text application for Ubuntu Desktop.
+- [Gladia I Audio Transcription API](https://www.gladia.io/)
+- [Handy](https://handy.computer/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/cjpais/Handy)
+- [Hermes](https://hermesvoice.com/) — Magical Voice-to-Text for Mac
+- [Hey Ito](https://www.ito.ai/) — AI-Powered Voice to Text for Mac
+- [HoldSpeak](https://holdspeak.com/) — Type 3x faster with AI powered voice-to-text
+- [HTK Speech Recognition Toolkit](https://htk.eng.cam.ac.uk/)
+- [julius-speech/julius](https://github.com/julius-speech/julius) — Open-Source Large Vocabulary Continuous Speech Recognition Engine
+- [Kaldi ASR](https://kaldi-asr.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/kaldi-asr/kaldi)
+- [Monologue](https://www.monologue.to/) — Effortless voice dictation so you can work 3x faster
+- [Nuance](https://www.nuance.com/dragon.html) — Dragon Speech Recognition
+- [openai/whisper](https://github.com/openai/whisper) — Robust Speech Recognition via Large-Scale Weak Supervision
+- [OpenWhispr](https://openwhispr.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/HeroTools/open-whispr) — Open Source AI Voice Dictation
+- [Parlatype](https://www.parlatype.xyz/)
+- [Pipit](https://www.pipitvoice.com/) — #1 Voice-to-Text App for macOS
+- [Quobi](https://www.quobi.ai/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Quobi-AI/Quobi) — talk, get clean text, on your device.
+- [rwth-i6/rasr](https://github.com/rwth-i6/rasr) — The RWTH ASR Toolkit.
+- [Speech to Note](https://speechtonote.com/) — Voice to Text, Note Speech & Speak Writer Solution
+- [Super Voice Mode](https://voicemode.io/) — AI Voice Assistant and Dictation App for Mac
+- [superwhisper](https://superwhisper.com/)
+- [Thoth](https://thoth-app.com/) — Private Meeting Recorder for Mac
+- [TranscribeX](https://www.transcribex.io/) — Fast Local AI Transcription for macOS
+- [‎Transcriptor](https://apps.apple.com/us/app/transcriptor/id6738774291)
+- [txtplay.ai](https://www.txtplay.ai/) — Transform your media into text and subtitles
+- [Vocalinux](https://vocalinux.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/jatinkrmalik/vocalinux) — Offline Voice Dictation for Linux
+- [Voicy Speech to Text](https://usevoicy.com/)
+- [voxforge.org](https://www.voxforge.org/) — Free Speech... Recognition (Linux, Windows and Mac)
+- [Whisper Turbo](https://whisper-turbo.com/)
+- [Whisper-Zero I Hallucinations-free ASR model for real-life audio](https://www.gladia.io/whisper-zero)
+- [WhisperBuddy](https://whisperbuddy.com/) — AI powered transcription macOS app
+- [WhisperSpeech/WhisperSpeech · Hugging Face](https://huggingface.co/WhisperSpeech/WhisperSpeech)
+- [xcribe](https://xcribe.app/) — Free Privacy focused transcription tool for MacOS.
 
-##### Drums
-- [Play drums](https://www.virtualdrumming.com/drums/online-virtual-games/online-virtual-games-drums.html)
-- [Typedrummer](http://typedrummer.com/)
-- [Virtual Drums Game](https://www.sessiontown.com/en/music-games-apps/virtual-instrument-play-drums-online)
+#### TTS Applications
+- ⭐ **[Balabolka](https://www.cross-plus-a.com/balabolka.htm)** — Cross Plus A
+- ⭐ **[Edge TTS](https://edge-tts.com/)** — Free Text to Speech Online
+- ⭐ **[ElevenLabs](https://elevenlabs.io/)** — AI Voice Generator & Text to Speech
+- ⭐ **[mkiol/dsnote](https://github.com/mkiol/dsnote)** — Speech Note Linux app
+- ⭐ **[Murf AI](https://murf.ai/)** — AI Voice Generator
+- ⭐ **[Oddcast TTS Demo](https://ttsdemo.com/)**
+- ⭐ **[Read Aloud](https://readaloud.app/)**
+- ⭐ **[ReadSpeaker](https://www.readspeaker.com/)** — Lifelike Text to Speech (TTS)
+- ⭐ **[Speech Synthesis Online](https://speechsynthesis.online/)** — free text to speech online converter tools
+- ⭐ **[Speechify](https://speechify.com/)** — Best Free Text To Speech Voice Reader
+- ⭐ **[SpeechNinja](https://speechninja.co/player/)** — Type to Speak
+- ⭐ **[Text to Speech](https://www.text-to-speech.online/)** — TTS Online Converter Tools
+- ⭐ **[Travisvn Edge TTS Voices](https://tts.travisvn.com/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/travisvn/openai-edge-tts) — Free Text-to-Speech Service
+- ⭐ **[TTS Reader](https://ttsreader.com/)**
+- ⭐ **[TTS Tool](https://ttstool.com/)**
+- ⭐ **[TTS-WebUI](https://ttswebui.com/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/rsxdalv/TTS-WebUI)
+- [Aflorithmic](https://www.aflorithmic.ai/)
+- [AI Voice Generator & Realistic Text to Speech Online](https://play.ht/)
+- [Audiomatic](https://www.audiomatic.app/)
+- [Audioread](https://audioread.com/) — Listen to Article, PDF, Email in Browser or Podcast App
+- [Cartesia](https://cartesia.ai/) — The fastest, ultra-realistic voice AI platform
+- [coqui-ai/TTS · GitHub](https://github.com/coqui-ai/TTS)
+- [davidacm/NVDA-IBMTTS-Driver · GitHub](https://github.com/davidacm/NVDA-IBMTTS-Driver)
+- [Deutsche AI/KI TTS-Stimme kostenlos mit Thorsten-Voice](https://www.thorsten-voice.de/)
+- [Dictanote](https://dictanote.co/)
+- [EaseText](https://www.easetext.com/index.html) — Text to Speech, Image to Text, Audio to Text
+- [Edge Text to Speech Voice Reader](https://chromewebstore.google.com/detail/edge-text-to-speech-voice/jeenjljjokaobgdbemlplaidbjfliknl) — Chrome Web Store
+- [Edge TTS Demo](https://edge-tts.dayax.net/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/andresayac/edge-tts), [![GitHub](/img/software/apps/github.svg)](https://github.com/andresayac/edge-tts-php)
+- [Elleo/pied](https://github.com/Elleo/pied) — Pied makes it simple to install and manage text-to-speech Piper voices for use with Speech Dispatcher.
+- [eSpeak](https://sourceforge.net/projects/espeak/) — Speech Synthesizer
+- [FakeYou](https://fakeyou.com/) — Your Deep Fake Text to Speech Website
+- [Fish Speech](https://speech.fish.audio/)
+- [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) — Brand new TTS solution
+- [Free Voice Reader](https://www.freevoicereader.com/) — 87 Hours TTS for $249/year
+- [Google Cloud](https://cloud.google.com/text-to-speech) — Text-to-Speech AI
+- [huggingface/parler-tts · GitHub](https://github.com/huggingface/parler-tts)
+- [IBM Watson](https://www.ibm.com/products/text-to-speech) — Text to Speech
+- [ihuguet/picotts · GitHub](https://github.com/ihuguet/picotts)
+- [kyutai-labs/pocket-tts](https://github.com/kyutai-labs/pocket-tts) — A TTS that fits in your CPU (and pocket)
+- [LokerL/tts-vue · GitHub](https://github.com/LokerL/tts-vue)
+- [Lovo](https://lovo.ai/) — AI Voice Generator: Realistic Text to Speech & Voice Cloning
+- [Luvvoice](https://luvvoice.com/) — Free Convert Text to Speech Online, No Word Limit
+- [Miso One](https://miso-one.com/) — Realistic AI Text to Speech Generator
+- [muflone/gespeaker · GitHub](https://github.com/muflone/gespeaker)
+- [mush42/sonata-nvda · GitHub](https://github.com/mush42/sonata-nvda)
+- [Narrator for Accessibility](https://www.microsoft.com/en-us/windows/tips/narrator) — Microsoft Windows
+- [Natural Readers](https://www.naturalreaders.com/)
+- [Online Microsoft Sam TTS Generator](https://www.tetyys.com/SAPI4/)
+- [OpenTTS](https://opentts.net/home) — Free Text To Speech
+- [Parrot AI](https://www.tryparrotai.com/) — Celebrity Voice Generator
+- [Plachtaa/VALL-E-X](https://github.com/Plachtaa/VALL-E-X) — An open source implementation of Microsoft's VALL-E X zero-shot TTS model. Demo is available in https://plachtaa.github.io/vallex/
+- [Read Aloud AI](https://readaloudai.com/)
+- [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
+- [ResponsiveVoice](https://responsivevoice.org/)
+- [RHVoice.org](https://rhvoice.org/)
+- [SesameAILabs/csm](https://github.com/SesameAILabs/csm) — A Conversational Speech Generation Model
+- [Speech to Text](https://speechnotes.co/) — Voice Typing & Transcription
+- [Speechelo](https://speechelo-offer.com/) — The Best Text To Speech Softare
+- [SWivid/F5-TTS](https://github.com/SWivid/F5-TTS) — A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching"
+- [Text To Speech (TTS)](https://play.google.com/store/apps/details?id=com.stcodesapp.text2speech) — Apps on Google Play
+- [Text To Speech Voices & Downloads](https://archive.org/details/TextToSpeechVoices) — Internet Archive
+- [Text to Speech](https://voiceovermaker.io/) — Generate natural sounding voices and voice overs
+- [Text-to-Speech Central](https://limetech.uk/tts-central/) — Lime Assistive Technology Ltd
+- [TextAloud](https://nextup.com/TextAloud/) — Text to Speech Software
+- [The Best 355 AI Speech Synthesis AI Tools](https://www.toolify.ai/category/ai-speech-synthesis) — Toolify
+- [The Voice AI Platform](https://play.ai/) — TTS Models, Voice Agents, & More
+- [TTS Free](https://ttsfree.com/) — Text to Speech
+- [TTSMaker](https://ttsmaker.com/) — Free Text to Speech Online
+- [VALL-E](https://www.microsoft.com/en-us/research/project/vall-e-x/)
+- [Voice Dream Reader](https://www.voicedream.com/) — Text to Speech App
+- [VoiceBox](https://voicebox.metademolab.com/)
+- [Voicery Text-to-Speech](https://voicery.com/)
 
-##### DPM (Drum Pad Machine)
-- ⭐ **[Draw.Audio](https://draw.audio/)** — Draw something, then listen to it
-- ⭐ **[Drumhaus](https://www.drumha.us/)**
-- [ArtBeats](https://drawbeats.com/)
-- [Drum Machine](https://html5drummachine.com/virtual-drum-machine)
-- [drumbit](https://drumbit.app/)
-- [Efflux](https://www.igorski.nl/application/efflux/) — Make music online
-- [Incredibox (demo)](https://www.incredibox.com/demo)
-- [Madeon's Adventure Machine](https://adventuremachine.4thfloorcreative.co.uk/adventuremachine)
-- [Online Sequencer](https://onlinesequencer.net/)
-- [PatternSketch](https://patternsketch.com/)
-- [Revisto/drum-machine](https://github.com/revisto/drum-machine) — A drum machine application, built with Python, GTK4, libadwaita, and Pygame.
-- [Sampulator](http://sampulator.com/)
-- [Scale Sequencer](https://sequencer.henryfellerhoff.com/)
-- [The Infinite Drum Machine](https://experiments.withgoogle.com/ai/drum-machine/view)
-- [ToneMatrix Redux Sequencer](https://www.maxlaumeister.com/tonematrix/)
+#### TTS Development
+- ⭐ **[myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice)** — Instant voice cloning by MyShell
+- ⭐ **[neonbjb/tortoise-tts · GitHub](https://github.com/neonbjb/tortoise-tts)**
+- ⭐ **[rhasspy/piper](https://github.com/rhasspy/piper)** — A fast, local neural text to speech system
+- ⭐ **[Voicebox](https://voicebox.sh/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/jamiepine/voicebox) — Open Source Voice Cloning Desktop App
+- [Amazon Polly](https://aws.amazon.com/polly/) — Text to Speech Software
+- [Azure Speech in Foundry Tools](https://azure.microsoft.com/en-us/products/ai-foundry/tools/speech) — Microsoft Azure
+- [ChatTTS](https://chattts.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/2noise/ChatTTS) — Text-to-Speech For Chat
+- [Cloud Text-to-Speech (HD voices)](https://docs.cloud.google.com/text-to-speech/docs/chirp3-hd) — Google Cloud Documentation
+- [CrashXBETAX/Text_To_Speech_Live_WinUI3_Public · GitHub](https://github.com/CrashXBETAX/Text_To_Speech_Live_WinUI3_Public)
+- [DiTTo-TTS](https://ditto-tts.github.io/)
+- [espeak-ng/espeak-ng · GitHub](https://github.com/espeak-ng/espeak-ng)
+- [gexgd0419/NaturalVoiceSAPIAdapter](https://github.com/gexgd0419/NaturalVoiceSAPIAdapter) — Make Azure natural TTS voices accessible to any SAPI 5-compatible application.
+- [hexgrad/Kokoro-82M · Hugging Face](https://huggingface.co/hexgrad/Kokoro-82M)
+- [IBM TTS](https://www.ibm.com/demos/live/tts-demo/self-service/home)
+- [ken107/piper-browser-extension · GitHub](https://github.com/ken107/piper-browser-extension)
+- [marytts/marytts · GitHub](https://github.com/marytts/marytts)
+- [Metavoice](https://tts.metavoice.io/) — Conversational Speech Model for Voice AI Agents
+- [Microsoft Azure](https://azure.microsoft.com/en-us/products/ai-services/ai-speech/) — Azure AI Speech
+- [Microsoft Speech SDK 5.1](https://www.microsoft.com/en-us/download/details.aspx?id=10121) — Microsoft Download Center
+- [myshell-ai/MeloTTS](https://github.com/myshell-ai/MeloTTS) — High-quality multi-lingual text-to-speech library by MyShell.ai
+- [nari-labs/dia](https://github.com/nari-labs/dia) — A TTS model capable of generating ltra-realistic dialogue in one pass.
+- [netease-youdao/EmotiVoice · GitHub](https://github.com/netease-youdao/EmotiVoice)
+- [Notevibes](https://notevibes.com/)
+- [numediart/MBROLA](https://github.com/numediart/MBROLA) — speech synthesizer based on the concatenation of diphones
+- [NVIDIA PersonaPlex](https://research.nvidia.com/labs/adlr/personaplex/) — Natural Conversational AI With Any Role and Voice - NVIDIA ADLR
+- [Otosaku/OtosakuTTS-iOS · GitHub](https://github.com/Otosaku/OtosakuTTS-iOS?utm_source=chatgpt.com)
+- [Piper Voice Samples](https://rhasspy.github.io/piper-samples/)
+- [QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS) — Qwen3-TTS is an open-source series of TTS models developed by the Qwen team at Alibaba Cloud, supporting stable, expressive, and streaming speech generation, free-form voice design, and vivid voice cloning.
+- [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) — SoTA open-source TTS
+- [Resenmble.ai](https://www.resemble.ai/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/resemble-ai) — AI Voice Generator with Text to Speech and Speech to Speech
+- [RHVoice/RHVoice](https://github.com/RHVoice/RHVoice) — a free and open source speech synthesizer for Russian and other languages
+- [Speaking of Voxtral](https://mistral.ai/news/voxtral-tts) / [![Hugging Face](/img/source-hosts/huggingface.svg)](https://huggingface.co/mistralai/models?search=voxtral)
+- [thorstenMueller/Thorsten-Voice · GitHub](https://github.com/thorstenMueller/Thorsten-Voice)
+- [TTS Spaces Arena](https://huggingface.co/spaces/Pendrokar/TTS-Spaces-Arena) — a Hugging Face Space by Pendrokar
+- [VibeVoice](https://microsoft.github.io/VibeVoice/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/microsoft/VibeVoice)
+- [VisionAid International](https://www.visionaid.co.uk/visionaid-international---voice-downloads) — Voice Downloads
+- [VOSK Models](https://alphacephei.com/vosk/models) — Alpha Cephei
+- [yl4579/StyleTTS2](https://github.com/yl4579/StyleTTS2) — StyleTTS 2: Towards Human-Level Text-to-Speech through Style Diffusion and Adversarial Training with Large Speech Language Models
 
-##### Virtual Piano
-- [Dot Piano](https://dotpiano.com/)
-- [flowkey](https://www.flowkey.com/en) — Learn How to Play Piano Online - Piano Learning App
-- [Free Piano](https://sourceforge.net/projects/freepiano/)
-- [List of piano chords](http://www.piano-keyboard-guide.com/piano-chords.html)
-- [Multiplayer Piano](https://multiplayerpiano.com/)
-- [Online Piano](https://onlinepiano.app/) — Play and Learn piano virtually in web browser
-- [Piano Guide](http://www.piano-keyboard-guide.com/)
-- [Pioslabs](https://www.pioslabs.com/chordinates) — Piano chordinates
-- [Playsheet](https://playsheet.app/)
-- [Synthesia, Piano for Everyone](https://synthesiagame.com/)
-- [Virtual Piano](https://www.onlinepianist.com/virtual-piano) — Online Piano Keyboard | OnlinePianist
-- [Virtual Piano](https://virtualpiano.eu/) — Play Piano Keyboard 🎹
-- [Virtual Piano Keyboard](https://www.apronus.com/music/flashpiano.htm) — Online Piano at Apronus.com
-- [VirtualPiano.net](https://virtualpiano.net/)
-- [VMPK. Virtual MIDI Piano Keyboard](https://vmpk.sourceforge.io/)
+#### Voice Control
+- ⭐ **[Numen Voice Control](https://numenvoice.org/)**
+- [david-tejada/rango · GitHub](https://github.com/david-tejada/rango)
+- [FUTO Voice Input](https://voiceinput.futo.org/)
+- [numen](https://sr.ht/~geb/numen/) — Voice control for handsfree computing
+- [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex) — PersonaPlex code.
+- [Open Voices](https://www.openvoiceos.org/)
+- [ProperCode/Work-by-Speech](https://github.com/ProperCode/Work-by-Speech?tab=readme-ov-file) — Windows app which allows efficient work on a computer by speech alone.
+- [Switchboard](https://switchboard.audio/hub/voice-control-on-device-ai/?utm_source=chatgpt.com) — Offline Voice Control: Building a Hands-Free Mobile App with On-Device AI
+- [Talon voice](https://talonvoice.com/)
+- [Voicemod](https://www.voicemod.net/)
 
-##### Instrument MIDI
-- [Anvil Studio](https://www.anvilstudio.com/index.html) — Free music composition, notation & MIDI-creation software
-- [Drumstick MIDI monitor](https://kmidimon.sourceforge.io/)
-- [Dubler 2](https://vochlea.com/) — Vochlea
-- [JJazzLab](https://www.jjazzlab.org/en/)
-- [Muse](https://www.muse.art/) — AI for Music Producers
-- [Online Tone Generator](https://onlinetonegenerator.com/)
-- [Patroneo](https://www.laborejo.org/patroneo/) — Laborejo Software
-- [PianoBooster](https://www.pianobooster.org/)
-- [rakarrack](https://rakarrack.sourceforge.net/)
-- [TiMidity++](https://timidity.sourceforge.net/)
+#### Voice Samples
+- [Bark speaker directory](https://rsxdalv.github.io/bark-speaker-directory)
+- [OpenAI.fm](https://www.openai.fm/)
+- [Prompt Echo](https://promptecho.com/) — Bark Voices
 
-#### Music Notation
-- ⭐ **[Guitar Pro](https://www.guitar-pro.com/)**
-- ⭐ **[MuseScore](https://musescore.org/en)** — Free music composition and notation software
-- ⭐ **[Soundslice](https://www.soundslice.com/)** — Create living sheet music
-- [alphaTab](https://www.alphatab.net/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/CoderLine/alphaTab) — Build modern music notation apps for web, desktop and mobile
-- [Aria Maestosa](https://ariamaestosa.github.io/ariamaestosa/docs/index.html)
-- [Avid Sibelius](https://www.avid.com/sibelius)
-- [bragefuglseth/fretboard](https://github.com/bragefuglseth/fretboard) — Look up guitar chords
-- [Denemo](http://www.denemo.org/)
-- [Finale](https://www.finalemusic.com/) — Music notation software
-- [Flat.io](https://flat.io/)
-- [Frescobaldi](https://frescobaldi.org/)
-- [Go PlayAlong](https://goplayalong.com/)
-- [Guitar DashBoard](https://guitardashboard.com/) — Circle of fifths
-- [Improvisor](https://www.cs.hmc.edu/~keller/jazz/improvisor/)
-- [Laborejo](https://www.laborejo.org/laborejo/) — Laborejo Software
-- [LilyPond](https://lilypond.org/) — Music notation for everyone
-- [More-Than-Solitaire/Tabs-Lite · GitHub](https://github.com/More-Than-Solitaire/Tabs-Lite)
-- [NoteEdit](https://www.berlios.de/software/noteedit/)
-- [Open Sheet Music Display](https://opensheetmusicdisplay.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/opensheetmusicdisplay/opensheetmusicdisplay)
-- [paulrosen/abcjs](https://github.com/paulrosen/abcjs) — javascript for rendering abc music notation
-- [Perfect Ear](https://www.perfectear.app/)
-- [Perlence/PyGuitarPro](https://github.com/perlence/pyguitarpro) — Read, write and manipulate GP3, GP4 and GP5 files
-- [Piano Companion](https://www.songtive.com/products/piano-companion)
-- [Rosegarden music](https://www.rosegardenmusic.com/)
-- [ScoreCloud](https://scorecloud.com/) — Free Music Notation Software - Music Composition & Writing
-- [smartChord](https://smartchord.de/)
-- [Songtive](https://www.songtive.com/)
-- [Soundslice](https://www.soundslice.com/homepage/) — Create living sheet music
-- [StaffPad®](https://www.staffpad.net/) — Make beautiful music
-- [The Guido Project](https://guido.grame.fr/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/grame-cncm/guidolib)
-- [Tonalsoft](http://tonalsoft.com/default.aspx)
-- [ToneLib Jam](https://tonelib.net/jam-overview.html) — Perfect all-in-one practice and music composing tool
-- [Verovio](https://www.verovio.org/index.xhtml) / [![GitHub](/img/software/apps/github.svg)](https://github.com/rism-digital/verovio)
-- [VexFlow](https://www.vexflow.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/0xfe/vexflow) — HTML5 Music Engraving
+### Audio Editor
+- ⭐ **[Audacity](https://www.audacityteam.org/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/audacity/audacity)
+- ⭐ **[Tenacity audio](https://tenacityaudio.org/)**
+- [Acon Digital](https://acondigital.com/) — Audio Editing Software
+- [Amadeus](https://www.hairersoft.com/) — Hairersoft
+- [Antares](https://www.antarestech.com/) — Auto-Tune
+- [Audacium](https://audacium.github.io/audacium/)
+- [audio noise](https://audiodenoise.com/)
+- [Audiodirector](https://www.cyberlink.com/products/audiodirector/features_en_US.html) — Cyberlink
+- [AudioMass](https://audiomass.co/)
+- [Audionaut](https://audionaut.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/kvoltmer/Audionaut) — Free, Open-Source Audio Editor for macOS, Windows and Linux
+- [Auphonic](https://auphonic.com/)
+- [Cakewalk](https://www.cakewalk.com/)
+- [Cakewalk by BandLab](https://www.bandlab.com/products/cakewalk)
+- [CAUSTIC 3](https://singlecellsoftware.com/caustic) — Single Cell Software
+- [Celemony](https://www.celemony.com/en/start)
+- [Dark Audacity](http://www.darkaudacity.com/)
+- [DefleMask](https://deflemask.net/)
+- [Doninn](http://www.doninn.com/)
+- [EASE Focus](https://focus.afmg.eu/)
+- [Ecasound](http://eca.cx/ecasound/) — multitrack audio processing tool
+- [FamiStudio](https://famistudio.org/) — NES Music Editor
+- [Flacon](https://flacon.github.io/) — Audio File Encoder
+- [Flex Pitch](https://www.freebernmusic.com/flex-pitch)
+- [Frinika](https://frinika.com/)
+- [GarageBand for Mac](https://www.apple.com/mac/garageband/)
+- [helio.fm](https://helio.fm/)
+- [Hydrogen music](http://hydrogen-music.org/)
+- [iZotope](https://www.izotope.com/)
+- [kmatheussen/radium](https://github.com/kmatheussen/radium) — A graphical music editor. A next generation tracker.
+- [Krisp.ai](https://krisp.ai/)
+- [Live 11](https://www.ableton.com/en/live/) — Ableton
+- [LOOPLABS](https://www.looplabs.com/)
+- [Mofi](https://mofi.loud.red/) — Content-aware fill and trim for music!
+- [Moises App](https://moises.ai/) — The Musician's App | Vocal Remover & much more
+- [MultitrackStudio](https://www.multitrackstudio.com/)
+- [MuseHub](https://www.musehub.com/)
+- [NCH](https://www.nch.com.au/software/audio.html) — Audio
+- [noisetorch/NoiseTorch · GitHub](https://github.com/noisetorch/NoiseTorch)
+- [NVIDIA RTX Voice](https://www.nvidia.com/en-us/geforce/guides/nvidia-rtx-voice-setup-guide)
+- [ocenaudio](https://www.ocenaudio.com/)
+- [OpenAL](https://www.openal.org/)
+- [OpenUtau](https://github.com/stakira/OpenUtau)
+- [Polyphone Soundfont Editor](https://www.polyphone-soundfonts.com/)
+- [Qtractor](https://qtractor.org/) — Audio/MIDI multi-track sequencer
+- [Radium](http://users.notam02.no/~kjetism/radium/) — music editor
+- [Renoise](https://www.renoise.com/)
+- [rncbc.org](https://www.rncbc.org/drupal)
+- [Sfxia](https://rxi.itch.io/sfxia) — Sound generator
+- [Single Cell Software](https://singlecellsoftware.com/) — Caustic
+- [Sonarworks](https://www.sonarworks.com/)
+- [Soundtrap](https://www.soundtrap.com/)
+- [Soundtrap](https://www.soundtrap.com/musicmakers) — Make music online
+- [SoX](http://sox.sourceforge.net/) — Sound eXchange
+- [Sunvox](https://www.warmplace.ru/soft/sunvox/) — WarmPlace.ru
+- [TAL Software](https://tal-software.com/)
+- [tildearrow/furnace](https://github.com/tildearrow/furnace) — a multi-system chiptune tracker compatible with DefleMask modules
+- [TwistedWave](https://twistedwave.com/)
+- [VB-Audio](https://vb-audio.com/)
+- [VCV Rack](https://vcvrack.com/)
+- [Ventrilo](http://www.ventrilo.com/)
+- [Vocal & Instrumental Isolation](https://mvsep.com/en)
+- [Voice Changer](https://voicechanger.io/)
+- [Voloco](https://resonantcavity.com/) — Auto Voice Tune & Harmony
+- [Wapepad](https://www.nch.com.au/wavepad/index.html) — NCH
+- [Wavacity](https://wavacity.com/) — Drake_Stafford
+- [WaveShop](http://waveshop.sourceforge.net/)
+- [Wavosaur](https://www.wavosaur.com/)
 
-#### Music Theory
-- [Music Composition](https://composer.rowy.net/)
-- [Music Notation and Terminology, by Karl W. Gehrkens](https://www.gutenberg.org/files/19499/19499-h/19499-h.htm)
-- [Musipedia](https://www.musipedia.org/)
-- [Teroria musical](https://teoria.com/es)
+#### Audio Analyzer
+- [alexkay/spek](https://github.com/alexkay/spek) — Acoustic spectrum analyser
+- [bananaofhappiness/soundscope](https://github.com/bananaofhappiness/soundscope) — A TUI app for analyzing audio data such as frequencies and loudness (LUFS)
+- [Essentia](https://essentia.upf.edu/)
+- [Friture](https://friture.org/)
+- [Sonic Visualiser](https://www.sonicvisualiser.org/)
+- [Spek](https://www.spek.cc/) — Acoustic spectrum analyzer
+- [Spek](http://help.spek.cc/) — Free Acoustic Spectrum Analyzer / Spectrogram Viewer
 
-#### Music Tool App
-- [| My Guitar Tabs](https://my-guitar-tabs.com/) — Guitar Tabs Editor and Digital Notebook
-- [A Ripple of Inspiration](https://www.ripple.club/)
-- [Alda](https://alda.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/alda-lang/alda)
-- [All Chords Guitar](https://apkpure.com/all-chords-guitar/com.mv2studio.allchodrs)
-- [BandLab](https://www.bandlab.com/) — Make Music Online
-- [Brain.fm](https://www.brain.fm/) — Music to Focus Better
-- [Cakewalk Next](https://www.cakewalk.com/next) — Accessible Next-Gen Music Creation Tool
-- [Cymascope,Cymatics, Apps, Music, Art](https://www.cymascope.com/cyma_research/cyma_app.html)
-- [eSound Music](https://esound.app/)
-- [JoyTunes](https://www.joytunes.com/)
-- [La Touche Musicale](https://latouchemusicale.com/en/)
-- [Yousician](https://yousician.com/)
+#### Audio Equalizer
+- ⭐ **[AutoEq](https://autoeq.app/)**
+- ⭐ **[FxSound](https://www.fxsound.com/)** — Boost Volume and Sound Quality on Your PC
+- [Audio4Linux/JDSP4Linux · GitHub](https://github.com/Audio4Linux/JDSP4Linux)
+- [EarTrumpet](https://eartrumpet.app/)
+- [Easyeffects · GItHub](https://github.com/wwmm/easyeffects)
+- [Equalizer APO](https://sourceforge.net/projects/equalizerapo/)
+- [Peace Equalizer](https://sourceforge.net/projects/peace-equalizer-apo-extension/)
 
-#### Tuner
-- [Chromatic Tuner](https://chromatic-tuner.com/)
-- [Free Music Instrument Tuner (FMIT)](https://gillesdegottex.github.io/fmit/)
-- [gstraube/cythara · GitHub](https://github.com/gstraube/cythara)
-- [Justune](https://justune.eu/)
-- [LINGOT](https://www.nongnu.org/lingot/) — Universal tuner
-- [thetwom/Tuner · GitHub](https://github.com/thetwom/Tuner)
-- [Tunable](https://www.tunableapp.com/) — Instrument and Skill Tuner by AffinityBlue
-- [Tuneo](https://play.google.com/store/apps/details?id=com.donbraulio.tuneo) — Apps on Google Play
-- [Tuner Ninja](https://tuner.ninja/)
-- [Tuner Online](https://tuner-online.com/)
+#### Audio Plugin
+- [Focusrite](https://downloads.focusrite.com/focusrite) — Focusrite Downloads
+- [Native Instruments](https://www.native-instruments.com/en/)
+- [Neural DSP](https://neuraldsp.com/) — Algorithmically Perfect
+- [Pokemon Rejuvenation](https://www.rebornevo.com/rejuvenation/) — Reborn Evolved
+- [STL Tones](https://www.stltones.com/) — Audio Plugins & Music Software
+- [Vamp Plugins](https://www.vamp-plugins.org/)
 
-#### Metronome App
-- [fennifith/Metronome-Android](https://github.com/fennifith/Metronome-Android) — A lightweight, well designed metronome app for Android.
-- [Kmetronome · SourceForge](https://kmetronome.sourceforge.io/)
-- [The Online Metronome](https://theonlinemetronome.com/)
+#### Audio Synthesizer
+- ⭐ **[Bespoke Synth](https://www.bespokesynth.com/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/BespokeSynth/BespokeSynth/)
+- [amsynth](https://amsynth.github.io/)
+- [CsoundQt](https://csoundqt.github.io/)
+- [DISTRHO/Cardinal](https://github.com/DISTRHO/Cardinal) — Virtual modular synthesizer plugin
+- [drumkv1](https://drumkv1.sourceforge.io/) — an old-school drum-kit sampler
+- [Element](https://kushview.net/element/) — Kushview
+- [FluidSynth](https://www.fluidsynth.org/) — Software synthesizer
+- [FoxDot](https://foxdot.org/)
+- [Guitarix](https://guitarix.org/) — GNU/Linux Virtual Amplifier
+- [guitarix](https://sourceforge.net/projects/guitarix/) — SourceForge
+- [Helm](https://tytel.org/helm/) — Free Synth by Matt Tytel
+- [Mellite](https://www.sciss.de/mellite/)
+- [osci-render](https://osci-render.com/)
+- [Polarity Productions](https://polarity.productions/)
+- [Supercllieder](https://supercollider.github.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/supercollider/supercollider)
+- [Surge](https://surge-synthesizer.github.io/)
+- [TheWaveWarden](https://www.thewavewarden.com/odin2)
+- [UTAU-Synth / 歌声合成ツールUTAU](https://utau-synth.com/)
+- [Vital](https://vital.audio/) — Spectral Warping Wavetable Synth
+- [VOCALOID](https://www.vocaloid.com/en/) — the modern singing synthesizer
+- [ZynAddSubFX](https://zynaddsubfx.sourceforge.io/)
 
-#### Live Coding Music
-- ⭐ **[Strudel REPL](https://strudel.cc/)** / [![Codeberg](/img/source-hosts/codeberg.svg)](https://codeberg.org/uzu/strudel)
-- [Algorave](https://algorave.com/)
-- [orca](https://wiki.xxiivv.com/site/orca.html) / [![SourceHut](/img/source-hosts/sourcehut.svg)](https://git.sr.ht/~rabbits/orca-toy) — livecoding language
-- [Sonic Pi](https://sonic-pi.net/) — The Live Coding Music Synth for Everyone
-- [Sova](https://sova.livecoding.fr/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/sova-org/Sova) — Polyglot Live Coding Environment
-- [sova-org/Sova](https://github.com/sova-org/Sova) / [![GitHub](/img/software/apps/github.svg)](https://github.com/sova-org/Sova) — Sova: a polyglot sequencer and virtual machine for music live coding. Made with Rust and Love
-- [Tidal Cycles](https://tidalcycles.org/) / [![Codeberg](/img/source-hosts/codeberg.svg)](https://codeberg.org/uzu/tidal) — Live code with Tidal Cycles
-- [Tone.js](https://tonejs.github.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Tonejs/Tone.js)
-- [Topos](https://topos.live/)
+#### DAW (Digital Audio Workstation)
+- ⭐ **[BassoonTracker](https://www.stef.be/bassoontracker/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/steffest/bassoontracker) — Amiga music tracker - By Steffest
+- ⭐ **[Bitwig Studio](https://www.bitwig.com/)**
+- ⭐ **[ComposeYogi](https://composeyogi.com/)** — Make real music. Instantly.
+- ⭐ **[FL Studio](https://www.image-line.com/fl-studio/)** — Image-line
+- ⭐ **[LMMS](https://lmms.io/)**
+- ⭐ **[REAPER](https://www.reaper.fm/)** — Audio productionw without limit
+- ⭐ **[Waveform Pro DAW digital audio editing software](https://www.tracktion.com/products/waveform-pro)** — Tracktion Software
+- ⭐ **[Zrythm DAW](https://www.zrythm.org/en/index.html)** / [![SourceHut](/img/source-hosts/sourcehut.svg)](https://git.sr.ht/~alextee/zrythm)
+- [Adobe Audition](https://www.adobe.com/products/audition.html)
+- [Ardour](https://ardour.org/)
+- [BIAS FX](https://www.positivegrid.com/bias-fx)
+- [Cakewalk Sonar](https://www.cakewalk.com/sonar) — The Classic Powerhouse DAW, Reinvented
+- [Carla](https://kx.studio/Applications:Carla) — KXStudio
+- [Cubase](https://www.steinberg.net/cubase/) — Steinberg
+- [Fender Studio Pro](https://www.fender.com/pages/fender-studio-pro)
+- [GuitarLayers](https://www.guitarlayers.com/)
+- [Harrison Consoles](https://harrisonconsoles.com/)
+- [Hooktheory](https://www.hooktheory.com/)
+- [KiraStudio](https://kirastudio.org/)
+- [LANDR](https://www.landr.com/) — Creative Tools for Musicians
+- [Logic Pro](https://www.apple.com/logic-pro/) — Apple
+- [Modartt](https://www.modartt.com/)
+- [Mouse Keyboard](https://www.bome.com/products/mousekeyboard)
+- [Music21](http://web.mit.edu/music21/)
+- [openDAW Studio](https://opendaw.studio/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/andremichelle/openDAW) — Web-Based DAW for Music Education
+- [OpenMPT](https://openmpt.org/) — Discover the music inside...
+- [PreSonus](https://www.presonus.com/en-US/start) — Wherever sound takes you.
+- [Pro Tools](https://www.avid.com/pro-tools) — Avid
+- [Reason 11](https://www.reasonstudios.com/en/reason)
+- [RipX](https://hitnmix.com/) — Remove Vocals, Create Stems, Learn & Practice Songs, Remix Tracks & Fix Audio
+- [Studio One](https://www.presonus.com/en-US/studio-one.html) — PreSonus
+- [ToneLib](https://tonelib.net/) — In search of perfect guitar tone
+- [TuxGuitar · SourceForge](https://sourceforge.net/projects/tuxguitar/)
+- [Why Logic Pro Rules](https://whylogicprorules.com/)
+- [XLN Audio](https://www.xlnaudio.com/)
+
+#### DJ Editor
+- ⭐ **[Mixxx DJ](https://mixxx.org/)**
+- [Engine DJ](https://enginedj.com/)
+- [Giada](https://www.giadamusic.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/monocasual/giada) — Your Hardcore Loop Machine
+- [PC DJ](https://www.pcdj.com/)
+- [PlayDeck](http://theplaydeck.com/)
+- [RaveDJ](https://rave.dj/)
+- [Serato DJ](https://serato.com/dj) — The world's best DJ software
+- [Transitions DJ](https://www.apollovibes.com/)
+- [VirtualDJ](https://www.virtualdj.com/) — The #1 Most Popular DJ Software
+- [you.dj](https://you.dj/free-dj-software)
+- [Youtube DJ](https://youtube-dj.com/)
+
+#### Guitar Amp Effects
+- [AmpliTube 5 amp simulation and guitar gear modeling software](https://www.ikmultimedia.com/products/amplitube5/)
+- [AmpliTube 5 CS](https://www.ikmultimedia.com/products/amplitube5cs/) — FREE amp simulation and guitar gear modeling software
+- [Audio Assault](https://audioassault.mx/)
+- [Guitar Rig 7 Pro](https://www.native-instruments.com/en/products/komplete/guitar/guitar-rig-7-pro/) — virtual amps, pedals, and effects
+- [IGNITE AMPS](https://www.igniteamps.com/) — Engineering for the moshpit
+- [ML Sound Lab](https://ml-sound-lab.com/) — Guitar Plugins, Drum Software & IRs
+- [Neural Amp Modeler](https://www.neuralampmodeler.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/sdatkinson/NeuralAmpModelerPlugin), [![GitHub](/img/software/apps/github.svg)](https://github.com/sdatkinson/neural-amp-modeler) — Highly-accurate free and open-source amp modeling plugin
+- [Stazed/rakarrack-plus](https://github.com/stazed/rakarrack-plus) — Rakarrack plus LV2s
 
 ### Audio Player
 - [Cozy](https://cozy.sh/)
@@ -221,6 +407,54 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [Sublime music](https://sublimemusic.app/)
 - [talwat/lowfi](https://github.com/talwat/lowfi) — An extremely simple lofi player.
 - [vixalien/decibels · GitHub](https://github.com/vixalien/decibels)
+
+#### Audio Visualization
+- [Astrofox](https://astrofox.io/)
+- [karlstav/cava · GitHub](https://github.com/karlstav/cava)
+- [Oscilloscope Music](https://oscilloscopemusic.com/watch/n-spheres)
+- [Oscilloscope Music](https://oscilloscopemusic.com/software/oscilloscope/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/kritzikratzi/Oscilloscope)
+
+#### Music Client
+- ⭐ **[Fastpotify](https://fastpotify.rocks/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/crmne/fastpotify)
+- ⭐ **[Spotube](https://spotube.krtirtho.dev/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/KRTirtho/spotube)
+- [AudioTube](https://apps.kde.org/audiotube/)
+- [BitChord](https://bitchord.kushagrasingh.in/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/kushagrasinghx/BitChord) — Aesthetic Music Streaming
+- [Cider](https://cider.sh/) — FOSS Apple Music client
+- [deep5050/radio-active](https://github.com/deep5050/radio-active)
+- [dweymouth/supersonic](https://github.com/dweymouth/supersonic) — A lightweight and full-featured cross-platform desktop client for self-hosted music servers
+- [HemantKArya/BloomeeTunes · GitHub](https://github.com/HemantKArya/BloomeeTunes?tab=readme-ov-file)
+- [hrkfdn/ncspot · GitHub](https://github.com/hrkfdn/ncspot)
+- [jmshrv/finamp](https://github.com/jmshrv/finamp) — A Jellyfin music client for mobile
+- [jpochyla/psst · GitHub](https://github.com/jpochyla/psst)
+- [kraxarn/spotify-qt · GitHub](https://github.com/kraxarn/spotify-qt)
+- [KRTirtho/spotube · GitHub](https://github.com/KRTirtho/spotube)
+- [librespot-org/librespot · GitHub](https://github.com/librespot-org/librespot)
+- [Limusic, a lightweight desktop player for YouTube Music](https://simohypers.github.io/limusic/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/SimoHypers/limusic)
+- [Maloy-Android/Muzza](https://github.com/Maloy-Android/Muzza) — A Material 3 YouTube Music client for Android
+- [Mellow Player](https://colinduquesnoy.gitlab.io/MellowPlayer/)
+- [Metrolist](https://mostafaalagamy.github.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/mostafaalagamy/Metrolist) — YT Music Client
+- [Mopidy](https://mopidy.com/)
+- [Music Assistant](https://music-assistant.io/)
+- [nicotine-plus/nicotine-plus](https://github.com/nicotine-plus/nicotine-plus) — Graphical client for the Soulseek peer-to-peer network
+- [Nokse22/high-tide](https://github.com/Nokse22/high-tide) — Libadwaita TIDAL client for Linux
+- [nukeop/nuclear · GitHub](https://github.com/nukeop/nuclear)
+- [nullobsi/cantata](https://github.com/nullobsi/cantata) — Qt Graphical MPD Client
+- [Power Ampache 2](https://power.ampache.dev/)
+- [Rigellute/spotify-tui · GitHub](https://github.com/Rigellute/spotify-tui)
+- [Spicetify CLI](https://spicetify.app/)
+- [SpotCompiled](https://spotc.yodaluca.dev/)
+- [Spotifast](https://spotifast.rocks/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/crmne/spotifast)
+- [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd) — A spotify daemon
+- [staniel359/muffon](https://github.com/staniel359/muffon#readme) — Music streaming browser
+- [Symfonium](https://symfonium.app/) — Android Music Player for Local, Plex, Jellyfin, Audiobookshelf & Cloud
+- [Tizonia Project](https://tizonia.org/)
+- [ubuntu-flutter-community/musicpod · GitHub](https://github.com/ubuntu-flutter-community/musicpod)
+- [vixalien/muzika · GitHub](https://github.com/vixalien/muzika)
+- [World / lollypop · GitLab](https://gitlab.gnome.org/World/lollypop)
+- [World / Shortwave · GitLab](https://gitlab.gnome.org/World/Shortwave)
+- [Youtube / Application · GitLab](https://gitlab.com/youtube-desktop/application)
+- [z-huang/InnerTune](https://github.com/z-huang/InnerTune) — A Material 3 YouTube Music client for Android
+- [zehkira / Monophony · GitLab](https://gitlab.com/zehkira/monophony)
 
 #### Music Player
 - ⭐ **[Audacious](https://audacious-media-player.org/)** — An davanced audio player
@@ -342,12 +576,6 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [you-apps/VibeYou · GitHub](https://github.com/you-apps/VibeYou)
 - [YouTube Music Desktop App](https://ytmdesktop.app/)
 
-#### Audio Visualization
-- [Astrofox](https://astrofox.io/)
-- [karlstav/cava · GitHub](https://github.com/karlstav/cava)
-- [Oscilloscope Music](https://oscilloscopemusic.com/watch/n-spheres)
-- [Oscilloscope Music](https://oscilloscopemusic.com/software/oscilloscope/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/kritzikratzi/Oscilloscope)
-
 #### Podcast Client
 - [AntennaPod](https://antennapod.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/AntennaPod/AntennaPod) — The Open Podcast Player
 - [audiobookshelf](https://www.audiobookshelf.org/)
@@ -356,226 +584,6 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [Podcasts](https://podcasts.bluepill.life/) — A Free Podcast Player Browser Extension
 - [Poddr](https://sn8z.github.io/Poddr/) — Podcasts for desktop
 - [podStation RSS](https://podstation.github.io/)
-
-#### Music Client
-- ⭐ **[Fastpotify](https://fastpotify.rocks/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/crmne/fastpotify)
-- ⭐ **[Spotube](https://spotube.krtirtho.dev/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/KRTirtho/spotube)
-- [AudioTube](https://apps.kde.org/audiotube/)
-- [BitChord](https://bitchord.kushagrasingh.in/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/kushagrasinghx/BitChord) — Aesthetic Music Streaming
-- [Cider](https://cider.sh/) — FOSS Apple Music client
-- [deep5050/radio-active](https://github.com/deep5050/radio-active)
-- [dweymouth/supersonic](https://github.com/dweymouth/supersonic) — A lightweight and full-featured cross-platform desktop client for self-hosted music servers
-- [HemantKArya/BloomeeTunes · GitHub](https://github.com/HemantKArya/BloomeeTunes?tab=readme-ov-file)
-- [hrkfdn/ncspot · GitHub](https://github.com/hrkfdn/ncspot)
-- [jmshrv/finamp](https://github.com/jmshrv/finamp) — A Jellyfin music client for mobile
-- [jpochyla/psst · GitHub](https://github.com/jpochyla/psst)
-- [kraxarn/spotify-qt · GitHub](https://github.com/kraxarn/spotify-qt)
-- [KRTirtho/spotube · GitHub](https://github.com/KRTirtho/spotube)
-- [librespot-org/librespot · GitHub](https://github.com/librespot-org/librespot)
-- [Limusic, a lightweight desktop player for YouTube Music](https://simohypers.github.io/limusic/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/SimoHypers/limusic)
-- [Maloy-Android/Muzza](https://github.com/Maloy-Android/Muzza) — A Material 3 YouTube Music client for Android
-- [Mellow Player](https://colinduquesnoy.gitlab.io/MellowPlayer/)
-- [Metrolist](https://mostafaalagamy.github.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/mostafaalagamy/Metrolist) — YT Music Client
-- [Mopidy](https://mopidy.com/)
-- [Music Assistant](https://music-assistant.io/)
-- [nicotine-plus/nicotine-plus](https://github.com/nicotine-plus/nicotine-plus) — Graphical client for the Soulseek peer-to-peer network
-- [Nokse22/high-tide](https://github.com/Nokse22/high-tide) — Libadwaita TIDAL client for Linux
-- [nukeop/nuclear · GitHub](https://github.com/nukeop/nuclear)
-- [nullobsi/cantata](https://github.com/nullobsi/cantata) — Qt Graphical MPD Client
-- [Power Ampache 2](https://power.ampache.dev/)
-- [Rigellute/spotify-tui · GitHub](https://github.com/Rigellute/spotify-tui)
-- [Spicetify CLI](https://spicetify.app/)
-- [SpotCompiled](https://spotc.yodaluca.dev/)
-- [Spotifast](https://spotifast.rocks/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/crmne/spotifast)
-- [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd) — A spotify daemon
-- [staniel359/muffon](https://github.com/staniel359/muffon#readme) — Music streaming browser
-- [Symfonium](https://symfonium.app/) — Android Music Player for Local, Plex, Jellyfin, Audiobookshelf & Cloud
-- [Tizonia Project](https://tizonia.org/)
-- [ubuntu-flutter-community/musicpod · GitHub](https://github.com/ubuntu-flutter-community/musicpod)
-- [vixalien/muzika · GitHub](https://github.com/vixalien/muzika)
-- [World / lollypop · GitLab](https://gitlab.gnome.org/World/lollypop)
-- [World / Shortwave · GitLab](https://gitlab.gnome.org/World/Shortwave)
-- [Youtube / Application · GitLab](https://gitlab.com/youtube-desktop/application)
-- [z-huang/InnerTune](https://github.com/z-huang/InnerTune) — A Material 3 YouTube Music client for Android
-- [zehkira / Monophony · GitLab](https://gitlab.com/zehkira/monophony)
-
-### Audio Editor
-- ⭐ **[Audacity](https://www.audacityteam.org/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/audacity/audacity)
-- ⭐ **[Tenacity audio](https://tenacityaudio.org/)**
-- [Acon Digital](https://acondigital.com/) — Audio Editing Software
-- [Amadeus](https://www.hairersoft.com/) — Hairersoft
-- [Antares](https://www.antarestech.com/) — Auto-Tune
-- [Audacium](https://audacium.github.io/audacium/)
-- [audio noise](https://audiodenoise.com/)
-- [Audiodirector](https://www.cyberlink.com/products/audiodirector/features_en_US.html) — Cyberlink
-- [AudioMass](https://audiomass.co/)
-- [Audionaut](https://audionaut.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/kvoltmer/Audionaut) — Free, Open-Source Audio Editor for macOS, Windows and Linux
-- [Auphonic](https://auphonic.com/)
-- [Cakewalk](https://www.cakewalk.com/)
-- [Cakewalk by BandLab](https://www.bandlab.com/products/cakewalk)
-- [CAUSTIC 3](https://singlecellsoftware.com/caustic) — Single Cell Software
-- [Celemony](https://www.celemony.com/en/start)
-- [Dark Audacity](http://www.darkaudacity.com/)
-- [DefleMask](https://deflemask.net/)
-- [Doninn](http://www.doninn.com/)
-- [EASE Focus](https://focus.afmg.eu/)
-- [Ecasound](http://eca.cx/ecasound/) — multitrack audio processing tool
-- [FamiStudio](https://famistudio.org/) — NES Music Editor
-- [Flacon](https://flacon.github.io/) — Audio File Encoder
-- [Flex Pitch](https://www.freebernmusic.com/flex-pitch)
-- [Frinika](https://frinika.com/)
-- [GarageBand for Mac](https://www.apple.com/mac/garageband/)
-- [helio.fm](https://helio.fm/)
-- [Hydrogen music](http://hydrogen-music.org/)
-- [iZotope](https://www.izotope.com/)
-- [kmatheussen/radium](https://github.com/kmatheussen/radium) — A graphical music editor. A next generation tracker.
-- [Krisp.ai](https://krisp.ai/)
-- [Live 11](https://www.ableton.com/en/live/) — Ableton
-- [LOOPLABS](https://www.looplabs.com/)
-- [Mofi](https://mofi.loud.red/) — Content-aware fill and trim for music!
-- [Moises App](https://moises.ai/) — The Musician's App | Vocal Remover & much more
-- [MultitrackStudio](https://www.multitrackstudio.com/)
-- [MuseHub](https://www.musehub.com/)
-- [NCH](https://www.nch.com.au/software/audio.html) — Audio
-- [noisetorch/NoiseTorch · GitHub](https://github.com/noisetorch/NoiseTorch)
-- [NVIDIA RTX Voice](https://www.nvidia.com/en-us/geforce/guides/nvidia-rtx-voice-setup-guide)
-- [ocenaudio](https://www.ocenaudio.com/)
-- [OpenAL](https://www.openal.org/)
-- [OpenUtau](https://github.com/stakira/OpenUtau)
-- [Polyphone Soundfont Editor](https://www.polyphone-soundfonts.com/)
-- [Qtractor](https://qtractor.org/) — Audio/MIDI multi-track sequencer
-- [Radium](http://users.notam02.no/~kjetism/radium/) — music editor
-- [Renoise](https://www.renoise.com/)
-- [rncbc.org](https://www.rncbc.org/drupal)
-- [Sfxia](https://rxi.itch.io/sfxia) — Sound generator
-- [Single Cell Software](https://singlecellsoftware.com/) — Caustic
-- [Sonarworks](https://www.sonarworks.com/)
-- [Soundtrap](https://www.soundtrap.com/)
-- [Soundtrap](https://www.soundtrap.com/musicmakers) — Make music online
-- [SoX](http://sox.sourceforge.net/) — Sound eXchange
-- [Sunvox](https://www.warmplace.ru/soft/sunvox/) — WarmPlace.ru
-- [TAL Software](https://tal-software.com/)
-- [tildearrow/furnace](https://github.com/tildearrow/furnace) — a multi-system chiptune tracker compatible with DefleMask modules
-- [TwistedWave](https://twistedwave.com/)
-- [VB-Audio](https://vb-audio.com/)
-- [VCV Rack](https://vcvrack.com/)
-- [Ventrilo](http://www.ventrilo.com/)
-- [Vocal & Instrumental Isolation](https://mvsep.com/en)
-- [Voice Changer](https://voicechanger.io/)
-- [Voloco](https://resonantcavity.com/) — Auto Voice Tune & Harmony
-- [Wapepad](https://www.nch.com.au/wavepad/index.html) — NCH
-- [Wavacity](https://wavacity.com/) — Drake_Stafford
-- [WaveShop](http://waveshop.sourceforge.net/)
-- [Wavosaur](https://www.wavosaur.com/)
-
-#### DJ Editor
-- ⭐ **[Mixxx DJ](https://mixxx.org/)**
-- [Engine DJ](https://enginedj.com/)
-- [Giada](https://www.giadamusic.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/monocasual/giada) — Your Hardcore Loop Machine
-- [PC DJ](https://www.pcdj.com/)
-- [PlayDeck](http://theplaydeck.com/)
-- [RaveDJ](https://rave.dj/)
-- [Serato DJ](https://serato.com/dj) — The world's best DJ software
-- [Transitions DJ](https://www.apollovibes.com/)
-- [VirtualDJ](https://www.virtualdj.com/) — The #1 Most Popular DJ Software
-- [you.dj](https://you.dj/free-dj-software)
-- [Youtube DJ](https://youtube-dj.com/)
-
-#### DAW (Digital Audio Workstation)
-- ⭐ **[BassoonTracker](https://www.stef.be/bassoontracker/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/steffest/bassoontracker) — Amiga music tracker - By Steffest
-- ⭐ **[Bitwig Studio](https://www.bitwig.com/)**
-- ⭐ **[ComposeYogi](https://composeyogi.com/)** — Make real music. Instantly.
-- ⭐ **[FL Studio](https://www.image-line.com/fl-studio/)** — Image-line
-- ⭐ **[LMMS](https://lmms.io/)**
-- ⭐ **[REAPER](https://www.reaper.fm/)** — Audio productionw without limit
-- ⭐ **[Waveform Pro DAW digital audio editing software](https://www.tracktion.com/products/waveform-pro)** — Tracktion Software
-- ⭐ **[Zrythm DAW](https://www.zrythm.org/en/index.html)** / [![SourceHut](/img/source-hosts/sourcehut.svg)](https://git.sr.ht/~alextee/zrythm)
-- [Adobe Audition](https://www.adobe.com/products/audition.html)
-- [Ardour](https://ardour.org/)
-- [BIAS FX](https://www.positivegrid.com/bias-fx)
-- [Cakewalk Sonar](https://www.cakewalk.com/sonar) — The Classic Powerhouse DAW, Reinvented
-- [Carla](https://kx.studio/Applications:Carla) — KXStudio
-- [Cubase](https://www.steinberg.net/cubase/) — Steinberg
-- [Fender Studio Pro](https://www.fender.com/pages/fender-studio-pro)
-- [GuitarLayers](https://www.guitarlayers.com/)
-- [Harrison Consoles](https://harrisonconsoles.com/)
-- [Hooktheory](https://www.hooktheory.com/)
-- [KiraStudio](https://kirastudio.org/)
-- [LANDR](https://www.landr.com/) — Creative Tools for Musicians
-- [Logic Pro](https://www.apple.com/logic-pro/) — Apple
-- [Modartt](https://www.modartt.com/)
-- [Mouse Keyboard](https://www.bome.com/products/mousekeyboard)
-- [Music21](http://web.mit.edu/music21/)
-- [openDAW Studio](https://opendaw.studio/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/andremichelle/openDAW) — Web-Based DAW for Music Education
-- [OpenMPT](https://openmpt.org/) — Discover the music inside...
-- [PreSonus](https://www.presonus.com/en-US/start) — Wherever sound takes you.
-- [Pro Tools](https://www.avid.com/pro-tools) — Avid
-- [Reason 11](https://www.reasonstudios.com/en/reason)
-- [RipX](https://hitnmix.com/) — Remove Vocals, Create Stems, Learn & Practice Songs, Remix Tracks & Fix Audio
-- [Studio One](https://www.presonus.com/en-US/studio-one.html) — PreSonus
-- [ToneLib](https://tonelib.net/) — In search of perfect guitar tone
-- [TuxGuitar · SourceForge](https://sourceforge.net/projects/tuxguitar/)
-- [Why Logic Pro Rules](https://whylogicprorules.com/)
-- [XLN Audio](https://www.xlnaudio.com/)
-
-#### Audio Analyzer
-- [alexkay/spek](https://github.com/alexkay/spek) — Acoustic spectrum analyser
-- [bananaofhappiness/soundscope](https://github.com/bananaofhappiness/soundscope) — A TUI app for analyzing audio data such as frequencies and loudness (LUFS)
-- [Essentia](https://essentia.upf.edu/)
-- [Friture](https://friture.org/)
-- [Sonic Visualiser](https://www.sonicvisualiser.org/)
-- [Spek](https://www.spek.cc/) — Acoustic spectrum analyzer
-- [Spek](http://help.spek.cc/) — Free Acoustic Spectrum Analyzer / Spectrogram Viewer
-
-#### Audio Equalizer
-- ⭐ **[AutoEq](https://autoeq.app/)**
-- ⭐ **[FxSound](https://www.fxsound.com/)** — Boost Volume and Sound Quality on Your PC
-- [Audio4Linux/JDSP4Linux · GitHub](https://github.com/Audio4Linux/JDSP4Linux)
-- [EarTrumpet](https://eartrumpet.app/)
-- [Easyeffects · GItHub](https://github.com/wwmm/easyeffects)
-- [Equalizer APO](https://sourceforge.net/projects/equalizerapo/)
-- [Peace Equalizer](https://sourceforge.net/projects/peace-equalizer-apo-extension/)
-
-#### Audio Plugin
-- [Focusrite](https://downloads.focusrite.com/focusrite) — Focusrite Downloads
-- [Native Instruments](https://www.native-instruments.com/en/)
-- [Neural DSP](https://neuraldsp.com/) — Algorithmically Perfect
-- [Pokemon Rejuvenation](https://www.rebornevo.com/rejuvenation/) — Reborn Evolved
-- [STL Tones](https://www.stltones.com/) — Audio Plugins & Music Software
-- [Vamp Plugins](https://www.vamp-plugins.org/)
-
-#### Audio Synthesizer
-- ⭐ **[Bespoke Synth](https://www.bespokesynth.com/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/BespokeSynth/BespokeSynth/)
-- [amsynth](https://amsynth.github.io/)
-- [CsoundQt](https://csoundqt.github.io/)
-- [DISTRHO/Cardinal](https://github.com/DISTRHO/Cardinal) — Virtual modular synthesizer plugin
-- [drumkv1](https://drumkv1.sourceforge.io/) — an old-school drum-kit sampler
-- [Element](https://kushview.net/element/) — Kushview
-- [FluidSynth](https://www.fluidsynth.org/) — Software synthesizer
-- [FoxDot](https://foxdot.org/)
-- [Guitarix](https://guitarix.org/) — GNU/Linux Virtual Amplifier
-- [guitarix](https://sourceforge.net/projects/guitarix/) — SourceForge
-- [Helm](https://tytel.org/helm/) — Free Synth by Matt Tytel
-- [Mellite](https://www.sciss.de/mellite/)
-- [osci-render](https://osci-render.com/)
-- [Polarity Productions](https://polarity.productions/)
-- [Supercllieder](https://supercollider.github.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/supercollider/supercollider)
-- [Surge](https://surge-synthesizer.github.io/)
-- [TheWaveWarden](https://www.thewavewarden.com/odin2)
-- [UTAU-Synth / 歌声合成ツールUTAU](https://utau-synth.com/)
-- [Vital](https://vital.audio/) — Spectral Warping Wavetable Synth
-- [VOCALOID](https://www.vocaloid.com/en/) — the modern singing synthesizer
-- [ZynAddSubFX](https://zynaddsubfx.sourceforge.io/)
-
-#### Guitar Amp Effects
-- [AmpliTube 5 amp simulation and guitar gear modeling software](https://www.ikmultimedia.com/products/amplitube5/)
-- [AmpliTube 5 CS](https://www.ikmultimedia.com/products/amplitube5cs/) — FREE amp simulation and guitar gear modeling software
-- [Audio Assault](https://audioassault.mx/)
-- [Guitar Rig 7 Pro](https://www.native-instruments.com/en/products/komplete/guitar/guitar-rig-7-pro/) — virtual amps, pedals, and effects
-- [IGNITE AMPS](https://www.igniteamps.com/) — Engineering for the moshpit
-- [ML Sound Lab](https://ml-sound-lab.com/) — Guitar Plugins, Drum Software & IRs
-- [Neural Amp Modeler](https://www.neuralampmodeler.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/sdatkinson/NeuralAmpModelerPlugin), [![GitHub](/img/software/apps/github.svg)](https://github.com/sdatkinson/neural-amp-modeler) — Highly-accurate free and open-source amp modeling plugin
-- [Stazed/rakarrack-plus](https://github.com/stazed/rakarrack-plus) — Rakarrack plus LV2s
 
 ### Karaoke
 - ⭐ **[UltraStar Deluxe](https://usdx.eu/)**
@@ -606,217 +614,209 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [Yass](https://yass-along.com/) — Karaoke Editor | Finetune your Ultrastar songs
 - [Yokee™](https://www.yokee.tv/#) — Sing free karaoke with YouTube on your iPhone and Android
 
-### Audio Computing
-- [BetterAudio](https://betteraudio.pro/) — Master your Mac's Audio
-- [Bland AI](https://www.bland.ai/) — Automate Phone Calls with Conversational AI for Enterprises
-- [deezer/spleeter](https://github.com/deezer/spleeter?utm_source=chatgpt.com) — Deezer source separation library including pretrained models
-- [gaheldev/Millisecond](https://github.com/gaheldev/Millisecond) — Optimize your Linux system for low latency audio
-- [MelogenAI](https://melogenai.com/es) — Convert Sheet Music to Midi Online with Ai
-- [open-mmlab/Amphion](https://github.com/open-mmlab/Amphion) — Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, music, and speech generation research and development.
-- [RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) — Easily train a good VC model with voice data = 10 mins!
-- [UVR5 UI](https://huggingface.co/spaces/TheStinger/UVR5_UI) — a Hugging Face Space by TheStinger
-- [Vapi](https://vapi.ai/) — Build Advanced Voice AI Agents
-- [w-okada/voice-changer · GitHub](https://github.com/w-okada/voice-changer)
-- [X to Voice](https://www.xtovoice.com/) — ElevenLabs
+### Music App
+- [Chrome Music Lab](https://musiclab.chromeexperiments.com/)
+- [Clash.me](https://clash.me/) — audio experiment
+- [iReal Pro](https://www.irealpro.com/) — Practice Made Perfect
+- [Lenguaje y práctica musical](https://padlet.com/lolalefemus/Bookmarks)
+- [NYU Music Experience DLab](https://musedlab.org/)
+- [Pink Trombone](https://dood.al/pinktrombone)
+- [ProGuitar](https://www.proguitar.com/tools) — Tools
+- [The Music Lab](https://www.themusiclab.org/)
+- [Vocalstudio](https://vocalstudio.es/)
+- [WAVE](https://waveapp.pages.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/ayman708-UX/WAVE) — Music Redefined
 
-#### TTS Applications
-- ⭐ **[Balabolka](https://www.cross-plus-a.com/balabolka.htm)** — Cross Plus A
-- ⭐ **[Edge TTS](https://edge-tts.com/)** — Free Text to Speech Online
-- ⭐ **[ElevenLabs](https://elevenlabs.io/)** — AI Voice Generator & Text to Speech
-- ⭐ **[mkiol/dsnote](https://github.com/mkiol/dsnote)** — Speech Note Linux app
-- ⭐ **[Murf AI](https://murf.ai/)** — AI Voice Generator
-- ⭐ **[Oddcast TTS Demo](https://ttsdemo.com/)**
-- ⭐ **[Read Aloud](https://readaloud.app/)**
-- ⭐ **[ReadSpeaker](https://www.readspeaker.com/)** — Lifelike Text to Speech (TTS)
-- ⭐ **[Speech Synthesis Online](https://speechsynthesis.online/)** — free text to speech online converter tools
-- ⭐ **[Speechify](https://speechify.com/)** — Best Free Text To Speech Voice Reader
-- ⭐ **[SpeechNinja](https://speechninja.co/player/)** — Type to Speak
-- ⭐ **[Text to Speech](https://www.text-to-speech.online/)** — TTS Online Converter Tools
-- ⭐ **[Travisvn Edge TTS Voices](https://tts.travisvn.com/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/travisvn/openai-edge-tts) — Free Text-to-Speech Service
-- ⭐ **[TTS Reader](https://ttsreader.com/)**
-- ⭐ **[TTS Tool](https://ttstool.com/)**
-- ⭐ **[TTS-WebUI](https://ttswebui.com/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/rsxdalv/TTS-WebUI)
-- [Aflorithmic](https://www.aflorithmic.ai/)
-- [AI Voice Generator & Realistic Text to Speech Online](https://play.ht/)
-- [Audiomatic](https://www.audiomatic.app/)
-- [Audioread](https://audioread.com/) — Listen to Article, PDF, Email in Browser or Podcast App
-- [Cartesia](https://cartesia.ai/) — The fastest, ultra-realistic voice AI platform
-- [coqui-ai/TTS · GitHub](https://github.com/coqui-ai/TTS)
-- [davidacm/NVDA-IBMTTS-Driver · GitHub](https://github.com/davidacm/NVDA-IBMTTS-Driver)
-- [Deutsche AI/KI TTS-Stimme kostenlos mit Thorsten-Voice](https://www.thorsten-voice.de/)
-- [Dictanote](https://dictanote.co/)
-- [EaseText](https://www.easetext.com/index.html) — Text to Speech, Image to Text, Audio to Text
-- [Edge Text to Speech Voice Reader](https://chromewebstore.google.com/detail/edge-text-to-speech-voice/jeenjljjokaobgdbemlplaidbjfliknl) — Chrome Web Store
-- [Edge TTS Demo](https://edge-tts.dayax.net/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/andresayac/edge-tts), [![GitHub](/img/software/apps/github.svg)](https://github.com/andresayac/edge-tts-php)
-- [Elleo/pied](https://github.com/Elleo/pied) — Pied makes it simple to install and manage text-to-speech Piper voices for use with Speech Dispatcher.
-- [eSpeak](https://sourceforge.net/projects/espeak/) — Speech Synthesizer
-- [FakeYou](https://fakeyou.com/) — Your Deep Fake Text to Speech Website
-- [Fish Speech](https://speech.fish.audio/)
-- [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) — Brand new TTS solution
-- [Free Voice Reader](https://www.freevoicereader.com/) — 87 Hours TTS for $249/year
-- [Google Cloud](https://cloud.google.com/text-to-speech) — Text-to-Speech AI
-- [huggingface/parler-tts · GitHub](https://github.com/huggingface/parler-tts)
-- [IBM Watson](https://www.ibm.com/products/text-to-speech) — Text to Speech
-- [ihuguet/picotts · GitHub](https://github.com/ihuguet/picotts)
-- [kyutai-labs/pocket-tts](https://github.com/kyutai-labs/pocket-tts) — A TTS that fits in your CPU (and pocket)
-- [LokerL/tts-vue · GitHub](https://github.com/LokerL/tts-vue)
-- [Lovo](https://lovo.ai/) — AI Voice Generator: Realistic Text to Speech & Voice Cloning
-- [Luvvoice](https://luvvoice.com/) — Free Convert Text to Speech Online, No Word Limit
-- [Miso One](https://miso-one.com/) — Realistic AI Text to Speech Generator
-- [muflone/gespeaker · GitHub](https://github.com/muflone/gespeaker)
-- [mush42/sonata-nvda · GitHub](https://github.com/mush42/sonata-nvda)
-- [Narrator for Accessibility](https://www.microsoft.com/en-us/windows/tips/narrator) — Microsoft Windows
-- [Natural Readers](https://www.naturalreaders.com/)
-- [Online Microsoft Sam TTS Generator](https://www.tetyys.com/SAPI4/)
-- [OpenTTS](https://opentts.net/home) — Free Text To Speech
-- [Parrot AI](https://www.tryparrotai.com/) — Celebrity Voice Generator
-- [Plachtaa/VALL-E-X](https://github.com/Plachtaa/VALL-E-X) — An open source implementation of Microsoft's VALL-E X zero-shot TTS model. Demo is available in https://plachtaa.github.io/vallex/
-- [Read Aloud AI](https://readaloudai.com/)
-- [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
-- [ResponsiveVoice](https://responsivevoice.org/)
-- [RHVoice.org](https://rhvoice.org/)
-- [SesameAILabs/csm](https://github.com/SesameAILabs/csm) — A Conversational Speech Generation Model
-- [Speech to Text](https://speechnotes.co/) — Voice Typing & Transcription
-- [Speechelo](https://speechelo-offer.com/) — The Best Text To Speech Softare
-- [SWivid/F5-TTS](https://github.com/SWivid/F5-TTS) — A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching"
-- [Text To Speech (TTS)](https://play.google.com/store/apps/details?id=com.stcodesapp.text2speech) — Apps on Google Play
-- [Text To Speech Voices & Downloads](https://archive.org/details/TextToSpeechVoices) — Internet Archive
-- [Text to Speech](https://voiceovermaker.io/) — Generate natural sounding voices and voice overs
-- [Text-to-Speech Central](https://limetech.uk/tts-central/) — Lime Assistive Technology Ltd
-- [TextAloud](https://nextup.com/TextAloud/) — Text to Speech Software
-- [The Best 355 AI Speech Synthesis AI Tools](https://www.toolify.ai/category/ai-speech-synthesis) — Toolify
-- [The Voice AI Platform](https://play.ai/) — TTS Models, Voice Agents, & More
-- [TTS Free](https://ttsfree.com/) — Text to Speech
-- [TTSMaker](https://ttsmaker.com/) — Free Text to Speech Online
-- [VALL-E](https://www.microsoft.com/en-us/research/project/vall-e-x/)
-- [Voice Dream Reader](https://www.voicedream.com/) — Text to Speech App
-- [VoiceBox](https://voicebox.metademolab.com/)
-- [Voicery Text-to-Speech](https://voicery.com/)
+#### Live Coding Music
+- ⭐ **[Strudel REPL](https://strudel.cc/)** / [![Codeberg](/img/source-hosts/codeberg.svg)](https://codeberg.org/uzu/strudel)
+- [Algorave](https://algorave.com/)
+- [orca](https://wiki.xxiivv.com/site/orca.html) / [![SourceHut](/img/source-hosts/sourcehut.svg)](https://git.sr.ht/~rabbits/orca-toy) — livecoding language
+- [Sonic Pi](https://sonic-pi.net/) — The Live Coding Music Synth for Everyone
+- [Sova](https://sova.livecoding.fr/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/sova-org/Sova) — Polyglot Live Coding Environment
+- [sova-org/Sova](https://github.com/sova-org/Sova) / [![GitHub](/img/software/apps/github.svg)](https://github.com/sova-org/Sova) — Sova: a polyglot sequencer and virtual machine for music live coding. Made with Rust and Love
+- [Tidal Cycles](https://tidalcycles.org/) / [![Codeberg](/img/source-hosts/codeberg.svg)](https://codeberg.org/uzu/tidal) — Live code with Tidal Cycles
+- [Tone.js](https://tonejs.github.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Tonejs/Tone.js)
+- [Topos](https://topos.live/)
 
-#### Voice Control
-- ⭐ **[Numen Voice Control](https://numenvoice.org/)**
-- [david-tejada/rango · GitHub](https://github.com/david-tejada/rango)
-- [FUTO Voice Input](https://voiceinput.futo.org/)
-- [numen](https://sr.ht/~geb/numen/) — Voice control for handsfree computing
-- [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex) — PersonaPlex code.
-- [Open Voices](https://www.openvoiceos.org/)
-- [ProperCode/Work-by-Speech](https://github.com/ProperCode/Work-by-Speech?tab=readme-ov-file) — Windows app which allows efficient work on a computer by speech alone.
-- [Switchboard](https://switchboard.audio/hub/voice-control-on-device-ai/?utm_source=chatgpt.com) — Offline Voice Control: Building a Hands-Free Mobile App with On-Device AI
-- [Talon voice](https://talonvoice.com/)
-- [Voicemod](https://www.voicemod.net/)
+#### Metronome App
+- [fennifith/Metronome-Android](https://github.com/fennifith/Metronome-Android) — A lightweight, well designed metronome app for Android.
+- [Kmetronome · SourceForge](https://kmetronome.sourceforge.io/)
+- [The Online Metronome](https://theonlinemetronome.com/)
 
-#### TTS Development
-- ⭐ **[myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice)** — Instant voice cloning by MyShell
-- ⭐ **[neonbjb/tortoise-tts · GitHub](https://github.com/neonbjb/tortoise-tts)**
-- ⭐ **[rhasspy/piper](https://github.com/rhasspy/piper)** — A fast, local neural text to speech system
-- ⭐ **[Voicebox](https://voicebox.sh/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/jamiepine/voicebox) — Open Source Voice Cloning Desktop App
-- [Amazon Polly](https://aws.amazon.com/polly/) — Text to Speech Software
-- [Azure Speech in Foundry Tools](https://azure.microsoft.com/en-us/products/ai-foundry/tools/speech) — Microsoft Azure
-- [ChatTTS](https://chattts.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/2noise/ChatTTS) — Text-to-Speech For Chat
-- [Cloud Text-to-Speech (HD voices)](https://docs.cloud.google.com/text-to-speech/docs/chirp3-hd) — Google Cloud Documentation
-- [CrashXBETAX/Text_To_Speech_Live_WinUI3_Public · GitHub](https://github.com/CrashXBETAX/Text_To_Speech_Live_WinUI3_Public)
-- [DiTTo-TTS](https://ditto-tts.github.io/)
-- [espeak-ng/espeak-ng · GitHub](https://github.com/espeak-ng/espeak-ng)
-- [gexgd0419/NaturalVoiceSAPIAdapter](https://github.com/gexgd0419/NaturalVoiceSAPIAdapter) — Make Azure natural TTS voices accessible to any SAPI 5-compatible application.
-- [hexgrad/Kokoro-82M · Hugging Face](https://huggingface.co/hexgrad/Kokoro-82M)
-- [IBM TTS](https://www.ibm.com/demos/live/tts-demo/self-service/home)
-- [ken107/piper-browser-extension · GitHub](https://github.com/ken107/piper-browser-extension)
-- [marytts/marytts · GitHub](https://github.com/marytts/marytts)
-- [Metavoice](https://tts.metavoice.io/) — Conversational Speech Model for Voice AI Agents
-- [Microsoft Azure](https://azure.microsoft.com/en-us/products/ai-services/ai-speech/) — Azure AI Speech
-- [Microsoft Speech SDK 5.1](https://www.microsoft.com/en-us/download/details.aspx?id=10121) — Microsoft Download Center
-- [myshell-ai/MeloTTS](https://github.com/myshell-ai/MeloTTS) — High-quality multi-lingual text-to-speech library by MyShell.ai
-- [nari-labs/dia](https://github.com/nari-labs/dia) — A TTS model capable of generating ltra-realistic dialogue in one pass.
-- [netease-youdao/EmotiVoice · GitHub](https://github.com/netease-youdao/EmotiVoice)
-- [Notevibes](https://notevibes.com/)
-- [numediart/MBROLA](https://github.com/numediart/MBROLA) — speech synthesizer based on the concatenation of diphones
-- [NVIDIA PersonaPlex](https://research.nvidia.com/labs/adlr/personaplex/) — Natural Conversational AI With Any Role and Voice - NVIDIA ADLR
-- [Otosaku/OtosakuTTS-iOS · GitHub](https://github.com/Otosaku/OtosakuTTS-iOS?utm_source=chatgpt.com)
-- [Piper Voice Samples](https://rhasspy.github.io/piper-samples/)
-- [QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS) — Qwen3-TTS is an open-source series of TTS models developed by the Qwen team at Alibaba Cloud, supporting stable, expressive, and streaming speech generation, free-form voice design, and vivid voice cloning.
-- [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) — SoTA open-source TTS
-- [Resenmble.ai](https://www.resemble.ai/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/resemble-ai) — AI Voice Generator with Text to Speech and Speech to Speech
-- [RHVoice/RHVoice](https://github.com/RHVoice/RHVoice) — a free and open source speech synthesizer for Russian and other languages
-- [Speaking of Voxtral](https://mistral.ai/news/voxtral-tts) / [![Hugging Face](/img/source-hosts/huggingface.svg)](https://huggingface.co/mistralai/models?search=voxtral)
-- [thorstenMueller/Thorsten-Voice · GitHub](https://github.com/thorstenMueller/Thorsten-Voice)
-- [TTS Spaces Arena](https://huggingface.co/spaces/Pendrokar/TTS-Spaces-Arena) — a Hugging Face Space by Pendrokar
-- [VibeVoice](https://microsoft.github.io/VibeVoice/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/microsoft/VibeVoice)
-- [VisionAid International](https://www.visionaid.co.uk/visionaid-international---voice-downloads) — Voice Downloads
-- [VOSK Models](https://alphacephei.com/vosk/models) — Alpha Cephei
-- [yl4579/StyleTTS2](https://github.com/yl4579/StyleTTS2) — StyleTTS 2: Towards Human-Level Text-to-Speech through Style Diffusion and Adversarial Training with Large Speech Language Models
+#### Music Notation
+- ⭐ **[Guitar Pro](https://www.guitar-pro.com/)**
+- ⭐ **[MuseScore](https://musescore.org/en)** — Free music composition and notation software
+- ⭐ **[Soundslice](https://www.soundslice.com/)** — Create living sheet music
+- [alphaTab](https://www.alphatab.net/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/CoderLine/alphaTab) — Build modern music notation apps for web, desktop and mobile
+- [Aria Maestosa](https://ariamaestosa.github.io/ariamaestosa/docs/index.html)
+- [Avid Sibelius](https://www.avid.com/sibelius)
+- [bragefuglseth/fretboard](https://github.com/bragefuglseth/fretboard) — Look up guitar chords
+- [Denemo](http://www.denemo.org/)
+- [Finale](https://www.finalemusic.com/) — Music notation software
+- [Flat.io](https://flat.io/)
+- [Frescobaldi](https://frescobaldi.org/)
+- [Go PlayAlong](https://goplayalong.com/)
+- [Guitar DashBoard](https://guitardashboard.com/) — Circle of fifths
+- [Improvisor](https://www.cs.hmc.edu/~keller/jazz/improvisor/)
+- [Laborejo](https://www.laborejo.org/laborejo/) — Laborejo Software
+- [LilyPond](https://lilypond.org/) — Music notation for everyone
+- [More-Than-Solitaire/Tabs-Lite · GitHub](https://github.com/More-Than-Solitaire/Tabs-Lite)
+- [NoteEdit](https://www.berlios.de/software/noteedit/)
+- [Open Sheet Music Display](https://opensheetmusicdisplay.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/opensheetmusicdisplay/opensheetmusicdisplay)
+- [paulrosen/abcjs](https://github.com/paulrosen/abcjs) — javascript for rendering abc music notation
+- [Perfect Ear](https://www.perfectear.app/)
+- [Perlence/PyGuitarPro](https://github.com/perlence/pyguitarpro) — Read, write and manipulate GP3, GP4 and GP5 files
+- [Piano Companion](https://www.songtive.com/products/piano-companion)
+- [Rosegarden music](https://www.rosegardenmusic.com/)
+- [ScoreCloud](https://scorecloud.com/) — Free Music Notation Software - Music Composition & Writing
+- [smartChord](https://smartchord.de/)
+- [Songtive](https://www.songtive.com/)
+- [Soundslice](https://www.soundslice.com/homepage/) — Create living sheet music
+- [StaffPad®](https://www.staffpad.net/) — Make beautiful music
+- [The Guido Project](https://guido.grame.fr/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/grame-cncm/guidolib)
+- [Tonalsoft](http://tonalsoft.com/default.aspx)
+- [ToneLib Jam](https://tonelib.net/jam-overview.html) — Perfect all-in-one practice and music composing tool
+- [Verovio](https://www.verovio.org/index.xhtml) / [![GitHub](/img/software/apps/github.svg)](https://github.com/rism-digital/verovio)
+- [VexFlow](https://www.vexflow.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/0xfe/vexflow) — HTML5 Music Engraving
 
-#### Screen Reader
-- [Apple](https://www.apple.com/accessibility/features/?vision) — Accessibility
-- [brailcom/speechd](https://github.com/brailcom/speechd) — Common high-level interface to speech synthesis
-- [Dolphin](https://yourdolphin.com/ScreenReader) — ScreenReader
-- [Emacspeak -The Complete Audio Desktop](https://emacspeak.sourceforge.net/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/tvraman/emacspeak)
-- [evuraan/mintPiper](https://github.com/evuraan/mintPiper) — Make Linux speak what's on the screen: clearly and securely.
-- [NV Access](https://www.nvaccess.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/nvaccess/nvda)
-- [nvaccess/nvda](https://github.com/nvaccess/nvda) — NVDA, the free and open source Screen Reader for Microsoft Windows
-- [Orca](https://orca.gnome.org/) / [🔗](https://orca.gnome.org/source.html)
-- [Recordly](https://recordly.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/webadderall/Recordly) — Open-source app for incredible screen recordings
-- [Screen reader on your Chromebook](https://support.google.com/chromebook/answer/7031755?hl=en#zippy=%2Cchoose-text-with-your-cursor) — Chromebook Help
+#### Music Scores & Tabs
+- ⭐ **[IMSLP](https://imslp.org/)** — Free Sheet Music PDF
+- ⭐ **[Musescore.com](https://musescore.com/)** — The world's largest free sheet music catalog and community
+- [8notes.com](https://www.8notes.com/)
+- [911Tabs](https://www.911tabs.com/) — tabs search engine
+- [Cantorion](http://cantorion.org/)
+- [Everyone Piano](https://www.everyonepiano.com/)
+- [Flutetunes](https://www.flutetunes.com/)
+- [Free-scores](https://www.free-scores.com/index_uk.php)
+- [Gitarre](https://www.hochweber.ch/gitarre.htm) — Noten kostenlos
+- [Guitar Pro Tabs](https://www.guitarprotabs.net/)
+- [Jazz Studies](https://www.jazzstudies.us/)
+- [Musicnotes](https://www.musicnotes.com/)
+- [Musopen](https://musopen.org/)
+- [Note2Tabs](https://www.note2tabs.com/) — Convert Audio and YouTube to Guitar Tabs
+- [Noteflight](https://www.noteflight.com/)
+- [Partituras para guitarra clásica](https://www.guitarraclasicadelcamp.com/partituras)
+- [Sheet Music Direct](https://www.sheetmusicdirect.com/)
+- [Sheet Music Free](https://sheetmusic-free.com/)
+- [Sheet Music Titles](https://www.sheetmusicplus.com/)
+- [SheetMusicDirect.com](https://www.sheetmusicdirect.com/es-ES/)
+- [Songscription AI](https://www.songscription.ai/) — Transcribe Your Music to Sheet Music and MIDI for Free
+- [TablEdit Tablature Editor](https://tabledit.com/)
+- [The Mutopia Project](https://www.mutopiaproject.org/)
 
-#### Speech Recognition
-- ⭐ **[abus-aikorea/voice-pro · GitHub](https://github.com/abus-aikorea/voice-pro)**
-- ⭐ **[Moonshine AI](https://www.moonshine.ai/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/moonshine-ai/moonshine)
-- [AI Subtitle Generation, Transcription, Translation powered by OpenSubtitles](https://ai.opensubtitles.com/)
-- [alphacep/vosk-api](https://github.com/alphacep/vosk-api) — Offline speech recognition API
-- [Applio](https://applio.org/)
-- [AssemblyAI](https://www.assemblyai.com/) — AI models to transcribe and understand speech
-- [bigWav.app](https://bigwav.app/) — Private audio transcription & annotation
-- [Camb.ai](https://www.camb.ai/) — AI Voice Translation & Dubbing for Videos
-- [CMUSphinx Open Source Speech Recognition](https://cmusphinx.github.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/cmusphinx/pocketsphinx/)
-- [diktafon · GitHub](https://github.com/jaromiru/diktafon)
-- [Dubdub](https://www.dubdub.ai/) — AI Dubbing & Voiceovers with emotions
-- [Dubify](https://www.dubify.io/) — Dub your videos using AI Magic
-- [DuRT](https://durt.dudufuture.top/) — Speech Recognition
-- [EzDubs](https://www.ezdubs.ai/) — Real-time AI dubbing with voice preservation
-- [facebookresearch/omnilingual-asr](https://github.com/facebookresearch/omnilingual-asr?ref=producthunt) — Omnilingual ASR Open-Source Multilingual SpeechRecognition for 1600+ Languages
-- [FluidVoice](https://altic.dev/fluid) / [![GitHub](/img/software/apps/github.svg)](https://github.com/altic-dev/FluidVoice) — Free Open Source Voice-to-Text for macOS
-- [FluidVoice](https://fluidvoice.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/altic-dev/FluidVoice) — Local Voice-to-Text for Mac, Windows & iPhone
-- [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) — Port of OpenAI's Whisper model in C/C++
-- [GitHub](https://github.com/canonical/myna) — canonical/myna: Myna is a lightweight speech-to-text application for Ubuntu Desktop.
-- [Gladia I Audio Transcription API](https://www.gladia.io/)
-- [Handy](https://handy.computer/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/cjpais/Handy)
-- [Hermes](https://hermesvoice.com/) — Magical Voice-to-Text for Mac
-- [Hey Ito](https://www.ito.ai/) — AI-Powered Voice to Text for Mac
-- [HoldSpeak](https://holdspeak.com/) — Type 3x faster with AI powered voice-to-text
-- [HTK Speech Recognition Toolkit](https://htk.eng.cam.ac.uk/)
-- [julius-speech/julius](https://github.com/julius-speech/julius) — Open-Source Large Vocabulary Continuous Speech Recognition Engine
-- [Kaldi ASR](https://kaldi-asr.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/kaldi-asr/kaldi)
-- [Monologue](https://www.monologue.to/) — Effortless voice dictation so you can work 3x faster
-- [Nuance](https://www.nuance.com/dragon.html) — Dragon Speech Recognition
-- [openai/whisper](https://github.com/openai/whisper) — Robust Speech Recognition via Large-Scale Weak Supervision
-- [OpenWhispr](https://openwhispr.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/HeroTools/open-whispr) — Open Source AI Voice Dictation
-- [Parlatype](https://www.parlatype.xyz/)
-- [Pipit](https://www.pipitvoice.com/) — #1 Voice-to-Text App for macOS
-- [Quobi](https://www.quobi.ai/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Quobi-AI/Quobi) — talk, get clean text, on your device.
-- [rwth-i6/rasr](https://github.com/rwth-i6/rasr) — The RWTH ASR Toolkit.
-- [Speech to Note](https://speechtonote.com/) — Voice to Text, Note Speech & Speak Writer Solution
-- [Super Voice Mode](https://voicemode.io/) — AI Voice Assistant and Dictation App for Mac
-- [superwhisper](https://superwhisper.com/)
-- [Thoth](https://thoth-app.com/) — Private Meeting Recorder for Mac
-- [TranscribeX](https://www.transcribex.io/) — Fast Local AI Transcription for macOS
-- [‎Transcriptor](https://apps.apple.com/us/app/transcriptor/id6738774291)
-- [txtplay.ai](https://www.txtplay.ai/) — Transform your media into text and subtitles
-- [Vocalinux](https://vocalinux.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/jatinkrmalik/vocalinux) — Offline Voice Dictation for Linux
-- [Voicy Speech to Text](https://usevoicy.com/)
-- [voxforge.org](https://www.voxforge.org/) — Free Speech... Recognition (Linux, Windows and Mac)
-- [Whisper Turbo](https://whisper-turbo.com/)
-- [Whisper-Zero I Hallucinations-free ASR model for real-life audio](https://www.gladia.io/whisper-zero)
-- [WhisperBuddy](https://whisperbuddy.com/) — AI powered transcription macOS app
-- [WhisperSpeech/WhisperSpeech · Hugging Face](https://huggingface.co/WhisperSpeech/WhisperSpeech)
-- [xcribe](https://xcribe.app/) — Free Privacy focused transcription tool for MacOS.
+##### Guitar Tabs
+- ⭐ **[Cifra Club](https://www.cifraclub.com/)** — tu sitio de acordes y tablaturas
+- ⭐ **[Songsterr](https://www.songsterr.com/)** — Guitar Tabs with Rhythm
+- ⭐ **[Ultimate Guitar](https://www.ultimate-guitar.com/)**
+- [All Guitar Chords](http://www.all-guitar-chords.com/)
+- [Betty Lou Music](http://www.bettyloumusic.com/allartists.htm) — All Artists
+- [Chord House](http://www.chordhouse.com.mx/)
+- [Chordie](https://www.chordie.com/) — Free Guitar Chords, Tabs, Tablature, Song Library
+- [Chordify](https://chordify.net/) — Learn and play all your favorite songs
+- [ChordU](https://chordu.com/) — chords for any song
+- [Gitagram](https://www.gitagram.com/) — Easy Chords + Free Interactive Tabs & Sheet Musics
+- [GProTab.net](https://gprotab.net/) — Free Guitar Pro tabs file sharing and reader (player)
+- [Guitar chords](https://www.guitar-chord.org/)
+- [Guitar Gate](https://www.guitargate.com/)
+- [Guitar Pro](https://www.guitar-pro.com/tabs/all) — mySongBook Tab Catalog
+- [Guitar Pro Tabs](https://guitarprotabs.org/)
+- [guitarmonia](https://guitarmonia.es/)
+- [Guitarraviva](https://www.guitarraviva.com/)
+- [GuitarTricks](https://www.guitartricks.com/)
+- [mySongBook](https://www.mysongbook.com/)
+- [Paola Hermosín](https://www.paolahermosin.com/tienda/) — Tabs
+- [Polyphia Tabs Store](https://polyphiatabs.com/)
+- [TabsGuru](https://tabs.guru/)
+- [Zeroflux](https://zeroflux.org/tabs.html) — Guitar Tabs
 
-#### Voice Samples
-- [Bark speaker directory](https://rsxdalv.github.io/bark-speaker-directory)
-- [OpenAI.fm](https://www.openai.fm/)
-- [Prompt Echo](https://promptecho.com/) — Bark Voices
+#### Music Theory
+- [Music Composition](https://composer.rowy.net/)
+- [Music Notation and Terminology, by Karl W. Gehrkens](https://www.gutenberg.org/files/19499/19499-h/19499-h.htm)
+- [Musipedia](https://www.musipedia.org/)
+- [Teroria musical](https://teoria.com/es)
 
-#### AMT (Automatic Music Transcription)
-- [AnthemScore](https://www.lunaverus.com/) — Automatic Music Transcription Software
-- [Melodyne](https://www.celemony.com/en/melodyne/what-is-melodyne)
+#### Music Tool App
+- [| My Guitar Tabs](https://my-guitar-tabs.com/) — Guitar Tabs Editor and Digital Notebook
+- [A Ripple of Inspiration](https://www.ripple.club/)
+- [Alda](https://alda.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/alda-lang/alda)
+- [All Chords Guitar](https://apkpure.com/all-chords-guitar/com.mv2studio.allchodrs)
+- [BandLab](https://www.bandlab.com/) — Make Music Online
+- [Brain.fm](https://www.brain.fm/) — Music to Focus Better
+- [Cakewalk Next](https://www.cakewalk.com/next) — Accessible Next-Gen Music Creation Tool
+- [Cymascope,Cymatics, Apps, Music, Art](https://www.cymascope.com/cyma_research/cyma_app.html)
+- [eSound Music](https://esound.app/)
+- [JoyTunes](https://www.joytunes.com/)
+- [La Touche Musicale](https://latouchemusicale.com/en/)
+- [Yousician](https://yousician.com/)
+
+#### Tuner
+- [Chromatic Tuner](https://chromatic-tuner.com/)
+- [Free Music Instrument Tuner (FMIT)](https://gillesdegottex.github.io/fmit/)
+- [gstraube/cythara · GitHub](https://github.com/gstraube/cythara)
+- [Justune](https://justune.eu/)
+- [LINGOT](https://www.nongnu.org/lingot/) — Universal tuner
+- [thetwom/Tuner · GitHub](https://github.com/thetwom/Tuner)
+- [Tunable](https://www.tunableapp.com/) — Instrument and Skill Tuner by AffinityBlue
+- [Tuneo](https://play.google.com/store/apps/details?id=com.donbraulio.tuneo) — Apps on Google Play
+- [Tuner Ninja](https://tuner.ninja/)
+- [Tuner Online](https://tuner-online.com/)
+
+#### Virtual Instruments
+- [Buitar](https://buitar.vercel.app/) — 首页
+- [Fretastic](https://fretastic.com/guitar) — A Free Interactive Guitar Fretboard App
+- [FretMap](https://fretmap.app/) — Interactive Guitar Fretboard
+- [Recursive Arts](https://recursivearts.com/) — App & Game Development Studio.
+- [Session Town](https://www.sessiontown.com/en) — Free Music Games and Apps for Musicians
+
+##### DPM (Drum Pad Machine)
+- ⭐ **[Draw.Audio](https://draw.audio/)** — Draw something, then listen to it
+- ⭐ **[Drumhaus](https://www.drumha.us/)**
+- [ArtBeats](https://drawbeats.com/)
+- [Drum Machine](https://html5drummachine.com/virtual-drum-machine)
+- [drumbit](https://drumbit.app/)
+- [Efflux](https://www.igorski.nl/application/efflux/) — Make music online
+- [Incredibox (demo)](https://www.incredibox.com/demo)
+- [Madeon's Adventure Machine](https://adventuremachine.4thfloorcreative.co.uk/adventuremachine)
+- [Online Sequencer](https://onlinesequencer.net/)
+- [PatternSketch](https://patternsketch.com/)
+- [Revisto/drum-machine](https://github.com/revisto/drum-machine) — A drum machine application, built with Python, GTK4, libadwaita, and Pygame.
+- [Sampulator](http://sampulator.com/)
+- [Scale Sequencer](https://sequencer.henryfellerhoff.com/)
+- [The Infinite Drum Machine](https://experiments.withgoogle.com/ai/drum-machine/view)
+- [ToneMatrix Redux Sequencer](https://www.maxlaumeister.com/tonematrix/)
+
+##### Drums
+- [Play drums](https://www.virtualdrumming.com/drums/online-virtual-games/online-virtual-games-drums.html)
+- [Typedrummer](http://typedrummer.com/)
+- [Virtual Drums Game](https://www.sessiontown.com/en/music-games-apps/virtual-instrument-play-drums-online)
+
+##### Instrument MIDI
+- [Anvil Studio](https://www.anvilstudio.com/index.html) — Free music composition, notation & MIDI-creation software
+- [Drumstick MIDI monitor](https://kmidimon.sourceforge.io/)
+- [Dubler 2](https://vochlea.com/) — Vochlea
+- [JJazzLab](https://www.jjazzlab.org/en/)
+- [Muse](https://www.muse.art/) — AI for Music Producers
+- [Online Tone Generator](https://onlinetonegenerator.com/)
+- [Patroneo](https://www.laborejo.org/patroneo/) — Laborejo Software
+- [PianoBooster](https://www.pianobooster.org/)
+- [rakarrack](https://rakarrack.sourceforge.net/)
+- [TiMidity++](https://timidity.sourceforge.net/)
+
+##### Virtual Piano
+- [Dot Piano](https://dotpiano.com/)
+- [flowkey](https://www.flowkey.com/en) — Learn How to Play Piano Online - Piano Learning App
+- [Free Piano](https://sourceforge.net/projects/freepiano/)
+- [List of piano chords](http://www.piano-keyboard-guide.com/piano-chords.html)
+- [Multiplayer Piano](https://multiplayerpiano.com/)
+- [Online Piano](https://onlinepiano.app/) — Play and Learn piano virtually in web browser
+- [Piano Guide](http://www.piano-keyboard-guide.com/)
+- [Pioslabs](https://www.pioslabs.com/chordinates) — Piano chordinates
+- [Playsheet](https://playsheet.app/)
+- [Synthesia, Piano for Everyone](https://synthesiagame.com/)
+- [Virtual Piano](https://www.onlinepianist.com/virtual-piano) — Online Piano Keyboard | OnlinePianist
+- [Virtual Piano](https://virtualpiano.eu/) — Play Piano Keyboard 🎹
+- [Virtual Piano Keyboard](https://www.apronus.com/music/flashpiano.htm) — Online Piano at Apronus.com
+- [VirtualPiano.net](https://virtualpiano.net/)
+- [VMPK. Virtual MIDI Piano Keyboard](https://vmpk.sourceforge.io/)
 
 ### Music Server
 - ⭐ **[Navidrome](https://www.navidrome.org/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/navidrome/navidrome)
@@ -828,6 +828,629 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [OwnTone](https://owntone.github.io/owntone-server/)
 
 ## Photos & Graphics
+
+### 2D CG
+- [Infinite Painter](https://www.infinitestudio.art/painter.php) — A powerful sketching, painting and illustration app.
+
+#### 2D Animation
+- ⭐ **[Expressive Animator](https://animator.expressive.app/)**
+- ⭐ **[Sketch](https://www.sketch.com/)** — Design, collaborate prototype and handoff
+- [Animaker](https://www.animaker.com/)
+- [Animation Desk](https://www.kdan.com/animation-desk) — KDAN mobile
+- [Animation Studio](https://animationstudio.io/special/)
+- [Battle Axe](https://www.battleaxe.co/)
+- [Callipeg](https://callipeg.com/) — 2d animation
+- [Cartoon Animator](https://www.reallusion.com/cartoon-animator/) — 2D Animation
+- [Cavalry Animation](https://cavalry.scenegroup.co/)
+- [CreateStudio](https://createstudio.com/)
+- [Dancing Letters](https://dancingletters.aidaluu.com/)
+- [DigiCel](https://digicel.net/)
+- [EbSynth](https://ebsynth.com/)
+- [enve](https://maurycyliebner.github.io/) — 2D animation
+- [Expressive Animator](https://expressive.app/expressive-animator/) — SVG animation software
+- [FlipaClip](https://flipaclip.com/)
+- [Flixel](https://flixel.com/) — Create imagery that gets noticed with Cinemagraph Pro
+- [Friction](https://friction.graphics/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/friction2d/friction)
+- [Harmony 21](https://www.toonboom.com/products/harmony) — Toon Boom
+- [HyperFrames](https://hyperframes.heygen.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/heygen-com/hyperframes) — Edit Videos By Vibe-Coding
+- [HyperFrames Studio](https://www.hyperframes.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/heygen-com/hyperframes)
+- [Inochi2D](https://inochi2d.com/)
+- [Juice FX by CodeManu](https://codemanu.itch.io/juicefx)
+- [Live2D Cubism](https://www.live2d.com/en/) — 2D Model Maker
+- [Loading.io](https://loading.io/)
+- [Mental Canvas](https://www.mentalcanvas.com/)
+- [Moho Animation Software](https://moho.lostmarble.com/) — Professional 2D Animation
+- [OpenToonz](https://opentoonz.github.io/e/)
+- [Origami Studio](https://origami.design/)
+- [Pencil2D](https://www.pencil2d.org/)
+- [PhotoFiltre Studio](https://www.photofiltre-studio.com/pf7.htm)
+- [Pixilart](https://www.pixilart.com/)
+- [Principle](https://principleformac.com/)
+- [qStopMotion](https://qstopmotion.org/)
+- [Remotion](https://www.remotion.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/remotion-dev/remotion) — Make videos programmatically
+- [Rive.app](https://rive.app/)
+- [RoughAnimator](https://www.roughanimator.com/) — animation app
+- [Scribl · GitHub](https://github.com/jneem/scribl)
+- [Scribl!](https://www.scribl.ink/)
+- [Sozi](https://sozi.baierouge.fr/)
+- [Stop Motion Studio](https://www.cateater.com/)
+- [Storyboarder](https://wonderunit.com/storyboarder/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/wonderunit/storyboarder) — wonder unit
+- [SVGator](https://www.svgator.com/)
+- [Synfig](https://www.synfig.org/) — Free and open-source animation software
+- [Tahoma2D](https://tahoma2d.org/) — Free 2D & stop motion animation software
+- [The Wick Editor](https://www.wickeditor.com/#/)
+- [ToonSquid](https://toonsquid.com/)
+- [Videoscribe](https://www.videoscribe.co/en/)
+- [Vyond](https://www.vyond.com/)
+- [Wick Editor 1.19.3](https://www.wickeditor.com/editor/)
+
+#### Desktop Publisher
+- [Adobe InDesign](https://www.adobe.com/products/indesign.html) — Layout design and desktop publishing software
+- [Affinity Publisher](https://affinity.serif.com/en-us/publisher/) — Page Layout & Design Software
+- [Marq (formerly Lucidpress)](https://www.marq.com/) — Brand Enablement Software
+- [QuarkXPress](https://www.quark.com/products/QuarkXPress) — Desktop Publishing Software & Page Layout Software
+- [VivaDesigner](https://viva.systems/designer/) — desktop, server & web-based publishing program
+
+#### EDA
+- [bancika/diy-layout-creator · GitHub](https://github.com/bancika/diy-layout-creator)
+- [CircuitLab](https://www.circuitlab.com/) — Online circuit simulator & schematic editor
+- [Fritzing](https://fritzing.org/)
+- [Horizon EDA](https://horizon-eda.org/)
+- [LibrePCB](https://librepcb.org/)
+- [PICSimLab](https://sourceforge.net/projects/picsim/) — Prog. IC Simulator Lab.
+- [Proteus](https://www.labcenter.com/) — PCB Design and Circuit Simulator Software
+- [SimulIDE](https://simulide.com/p/) — Circuit Simulator
+- [Sonnet Software](https://www.sonnetsoftware.com/)
+
+#### Illustration Editor
+- ⭐ **[AutoDraw](https://www.autodraw.com/)**
+- ⭐ **[Inkscape](https://inkscape.org/)** / [![GitLab](/img/source-hosts/gitlab.svg)](https://gitlab.com/inkscape/inkscape) — Draw freely
+- ⭐ **[Procreate](https://procreate.com/)** — Sketch, Paint, Create
+- ⭐ **[SketchBook](https://www.sketchbook.com/)** — For everyone who loves to draw
+- [Adobe Fresco](https://www.adobe.com/products/fresco.html)
+- [Affinity Designer](https://affinity.serif.com/en-us/designer/) — Graphic Design & Illustration Software
+- [Akira](https://github.com/akiraux/Akira) — Akira UX
+- [Auster Graphics](https://astutegraphics.com/)
+- [Clip Studio Paint](https://www.clipstudio.net/en/)
+- [Corel Painter](https://www.painterartist.com/en/) — Photo Painting
+- [ibisPaint](https://ibispaint.com/) — Draw and Paint app
+- [KolourPaint](http://www.kolourpaint.org/) — KDE
+- [Lazy Nezumi Pro](https://lazynezumi.com/)
+- [Lunacy](https://icons8.com/lunacy) — Icons8
+- [MediBang Paint](https://medibangpaint.com/en/)
+- [openCanvas](https://www.portalgraphics.net/en/oc/)
+- [Paintstorm Studio](https://paintstormstudio.com/index.html)
+- [Paper](https://paper.design/) — design, share, ship
+- [SAI Paint Tool](http://en.saipainttool.com/)
+- [SAI Paint Tool](http://detstwo.com/sai/)
+- [Sketch.io](https://sketch.io/)
+- [Tux Paint](https://sourceforge.net/projects/tuxpaint/)
+- [Tux Paint](https://tuxpaint.org/) — Free art software for kids of all ages
+- [Xara Designer Pro+](https://www.xara.com/designerpro-plus/) — Infinite Design Possibilities
+- [ZoomIt](https://docs.microsoft.com/en-us/sysinternals/downloads/zoomit)
+
+#### Logo Maker
+- [Adobe Express](https://express.adobe.com/express-apps/logo-maker/) — Logo Maker
+- [Brand Crowd](https://www.brandcrowd.com/)
+- [EasyLogo](https://haploapp.com/easylogo) — Graphics & Design
+- [Flamingtext](https://www.flamingtext.com/)
+- [Free Logo Design](https://editor.freelogodesign.org/)
+- [Free Logo Maker](https://looka.com/onboarding) — Looka
+- [GraphicSprings](https://www.graphicsprings.com/logo-maker)
+- [GraphicSprings](https://www.graphicsprings.com/) — Logo Maker
+- [Logo Design](https://www.freelogodesign.org/)
+- [Logo Maker app](https://app.logo.com/editor/ideas)
+- [Logo Makr](https://logomakr.com/)
+- [Logo-AI.com](https://www.logoai.com/)
+- [LogoBee](https://www.logobee.com/)
+- [My Free Logo Maker](https://myfreelogomaker.com/explore)
+- [Patternico](https://patternico.com/)
+- [Textcraft](https://textcraft.net/)
+- [Zarla. Free Logo Maker](https://www.zarla.com/)
+
+#### Painting
+- [BaristArt](https://barist.art/)
+- [Bestsnip animation](https://bestsnip.com/animation)
+- [Draw Cafe](https://draw.cafe/d/OzMbHqIyooijwC8gnWYJ)
+- [Inspirograph](https://nathanfriend.io/inspirograph)
+- [ItsPaint](https://itspaintmac.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/joshlin2201/itspaint) — MS Paint for Mac, free and open source
+- [Koalas to the Max](http://www.koalastothemax.com/)
+- [Let's String](https://letsstring.store/) — String art from any of your photo
+- [MandalaGaba](https://www.mandalagaba.com/#pH05il)
+- [noisedeck](https://noisedeck.app/)
+- [Paint](https://paint.withdiagram.com/) — WithDiagram
+- [Patatap](https://www.patatap.com/)
+- [PixelCraft](https://pixelcraft.web.app/)
+- [Rasterbator](https://rasterbator.net/)
+- [SYSTEMAX Software Development](https://www.systemax.jp/en/sai/) — PaintTool SAI
+- [V&A Design a Wig](https://www.vam.ac.uk/designawig)
+- [WaveSilk](http://weavesilk.com/)
+- [WebGL Fluid Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation)
+- [woven sound](https://woven-sound.surge.sh/)
+
+#### Photo Editor
+- ⭐ **[Adobe Photoshop](https://www.adobe.com/products/photoshop.html)** — Photo & Design software
+- ⭐ **[Affinity Photo](https://affinity.serif.com/en-us/photo/)** — photo editing software
+- ⭐ **[Edit.photo](https://edit.photo/)**
+- ⭐ **[GIMP](https://www.gimp.org/)**
+- ⭐ **[Graphite](https://graphite.rs/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/GraphiteEditor/Graphite) — Web-based vector graphics editor and design tool
+- ⭐ **[miniPaint · GitHub](https://viliusle.github.io/miniPaint/)**
+- ⭐ **[Photomosh](https://photomosh.com/)**
+- ⭐ **[Photopea](https://www.photopea.com/)** — Online Photo Editor
+- ⭐ **[Pixlr](https://pixlr.com/)** — Online Photo Editor
+- ⭐ **[Polarr editor](https://editor.polarr.com/)**
+- ⭐ **[Sumo Paint](https://paint.sumo.app/)** — drawing app
+- [Adobe Express](https://express.adobe.com/sp/)
+- [Adobe Express](https://express.adobe.com/sp/design/post/new)
+- [Adobe Express](https://www.adobe.com/express/) — Free Online Photo & Design Tool
+- [Adobe Photoshop](https://photoshop.adobe.com/id/tmp:4neb51?dpasset=https%3A%2F%2Fhelpx.adobe.com%2Fcontent%2Fdam%2Fhelp%2Fen%2Fphotoshop%2Fhow-to%2Fin-app%2Fget-started-photoshop-web%2FGet_Started.psd&dp_query=consumer.name%3DPSW%26exp.campaign_id%3DCCH-HOT%26exp.variation_id%3Dtest%26source.name%3DPhotoshopWeb%26source.version%3DBeta%26content.type%3DcmWebHandsOnTutorial%26content.id%3Dphotoshop%252Fhow-to%252Fin-app%252Fget-started-photoshop-web&flags=no_cchome_redirect&discover_mode=true&lang=en)
+- [Adobe PhotoShop online](https://photoshop.adobe.com/)
+- [Affinity Help](https://affinity.help/)
+- [AirBrush](https://appairbrush.com/)
+- [Alight Creative](https://alightcreative.com/)
+- [Artbreeder](https://www.artbreeder.com/)
+- [Artipic](https://artipic.com/en) — Powerful Photo Editor
+- [AutoStakkert](https://www.autostakkert.com/)
+- [Avatoon.me](https://avatoon.me/)
+- [BeFunky](https://www.befunky.com/)
+- [BFH ImagePlay](https://cpvrlab.github.io/ImagePlay/)
+- [BitMappery](https://www.igorski.nl/application/bitmappery/)
+- [Camera Bits](https://home.camerabits.com/)
+- [Camera FV-5](https://www.camerafv5.com/)
+- [Canva](https://www.canva.com/photo-editor/) — Photo Editor
+- [CodeSnap](https://codesnap.dev/) — An image editor for developers
+- [Corel AfterShot Pro](https://www.aftershotpro.com/en/) — RAW Photo editing
+- [Editor.Pho.to](https://editor.pho.to/edit/#)
+- [faresbakhit/ayin · GitHub](https://github.com/faresbakhit/ayin)
+- [FIGPEA](https://figpea.com/) — PSD Viewer
+- [Filmulator](https://filmulator.org/)
+- [Fotor](https://www.fotor.com/)
+- [Free Online Image Editor](https://onlineimageditor.com/)
+- [Glimpse](https://glimpse-editor.org/)
+- [HEAVYPAINT](https://www.heavypaint.com/)
+- [Hugin](https://hugin.sourceforge.io/) — Panorama photo stitcher
+- [ImageJ](https://imagej.nih.gov/ij/)
+- [ImEditor · GitHub](https://imeditor.github.io/)
+- [inPixio](https://www.inpixio.com/es)
+- [IsoPaint](https://isopaint.art/) — Simple Isometric Drawing App
+- [JPEG photo processing online](https://www.imgonline.com.ua/) — IMG online
+- [LazPaint](https://lazpaint.github.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/bgrabitmap/lazpaint/)
+- [LunaPic](https://www7.lunapic.com/editor/) — Photo Editor
+- [Map Stack by Stamen](https://mapstack.stamen.com/)
+- [Online Image Editor](https://www.online-image-editor.com/)
+- [Online Image Editor](https://www.kapwing.com/image-editor) — Kapwing
+- [Pablo by Buffer](https://pablo.buffer.com/)
+- [Paint.net](https://www.getpaint.net/)
+- [PaintShop Pro](https://www.paintshoppro.com/en/products/paintshop-pro)
+- [Pho.to](https://pho.to/)
+- [Photivo](https://photivo.org/)
+- [Photo Editor](https://photokit.com/) — Free Image Editing Online
+- [Photo-Toolbox.com](https://www.photo-toolbox.com/)
+- [Photoflare](https://photoflare.io/)
+- [PhotoLine](https://www.pl32.com/) — Photo Editing, Vector Editor, Design Software
+- [PhotoMirage](https://www.photomirage.io/en/) — Photo Animation Software
+- [PhotoRoom](https://app.photoroom.com/create)
+- [PhotoScape X](http://x.photoscape.org/)
+- [Photoshop CC v19 Linux · GitHub](https://github.com/Gictorbit/photoshopCClinux)
+- [Photoshop installer for Linux · GitHub](https://github.com/CSMarckitus/Photoshop)
+- [Photoshop-CC2022-Linux · GItHub](https://github.com/LinSoftWin/Photoshop-CC2022-Linux)
+- [Photovisi](https://www.photovisi.com/photo-editor) — Photo editor
+- [Picktorial](https://www.picktorial.com/)
+- [PicMonkey](https://www.picmonkey.com/)
+- [PicsArt](https://picsart.com/) — Editing and Design Tools
+- [PicsArt Editor (batch)](https://picsart.com/create/batch)
+- [Picsart Editor (templates)](https://picsart.com/create/editor?category=templates)
+- [Pinegrow Web Editor](https://pinegrow.com/)
+- [Pixelied](https://pixelied.com/)
+- [Pixelmator Pro](https://www.pixelmator.com/pro/)
+- [Pixeluvo](http://www.pixeluvo.com/)
+- [Pixlr editor](https://pixlr.com/e/)
+- [PIXLS.US](https://pixls.us/)
+- [Pixomatic](https://pixomatic.us/)
+- [piZap](https://www.pizap.com/)
+- [Polotno Studio](https://studio.polotno.dev/)
+- [Prisma Labs](https://prisma-ai.com/)
+- [Processing](https://processing.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/processing/p5.js)
+- [PTGui](https://www.ptgui.com/)
+- [Ribbet Premium](https://www.ribbet.com/upgrade)
+- [robbietilton/Compositor](https://github.com/robbietilton/Compositor) — The Photoshop alternative for Mac
+- [SoftMaker](https://softmaker.com/en/)
+- [Sticker.ly](http://sticker.ly/)
+- [tiler · GitHub](https://github.com/nuno-faria/tiler)
+- [Time-Travel Rephotography · GitHub](https://time-travel-rephotography.github.io/)
+- [VSCO](https://vsco.co/)
+- [WEBBYPAINT](https://www.webbypaint.com/)
+- [WidsMob](https://www.widsmob.com/) — Create Better Digital Life with US
+- [Wondershare Fotophire](https://photo.wondershare.com/)
+
+#### Pixel Art
+- [Aseprite](https://www.aseprite.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/aseprite/aseprite) — Animated sprite editor & pixel art tool
+- [danterolle/tilf](https://github.com/danterolle/tilf) — Tilf (Tiny Elf) is a simple yet powerful pixel art editor built with PySide6. It’s designed for creating sprites, icons, and small 2D assets with essential drawing tools, live preview, undo/redo, and export options.
+- [LibreSprite](https://libresprite.github.io/#!/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/LibreSprite/LibreSprite)
+- [PikoPixel](http://twilightedge.com/mac/pikopixel/)
+- [Piskel](https://www.piskelapp.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/piskelapp/piskel) — online sprite editor
+- [Pixel Art to CSS](https://www.pixelartcss.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/jvalen/pixel-art-react)
+- [Pixelicious](https://www.pixelicious.xyz/)
+- [Pixelorama](https://orama-interactive.itch.io/pixelorama) — Orama Interactive
+- [PixiEditor](https://pixieditor.net/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/PixiEditor/PixiEditor)
+- [Pixquare](https://www.pixquare.art/) — Pixel art for iPad
+- [Resprite](https://resprite.fengeon.com/)
+- [Sprite Fusion](https://www.spritefusion.com/) — A simple, free tilemap Editor Online
+- [ZX-Paintbrush by Source Solutions, Inc.](https://sourcesolutions.itch.io/zx-paintbrush)
+- [ZXDrawer by Juntelart](https://juntelart.itch.io/zxdrawer)
+
+#### Raster Graphic Editor
+- ⭐ **[FireAlpaca](https://firealpaca.com/)**
+- ⭐ **[Glaxnimate](https://glaxnimate.org/)** / [![GitLab](/img/source-hosts/gitlab.svg)](https://gitlab.com/mattbas/glaxnimate)
+- ⭐ **[Pinta Project](https://www.pinta-project.com/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/PintaProject/Pinta)
+- [1j01/jspaint · GitHub](https://github.com/1j01/jspaint)
+- [1j01/textual-paint · GitHub](https://github.com/1j01/textual-paint)
+- [Annotator · GitHub](https://github.com/phase1geo/Annotator)
+- [ArtFlow](https://play.google.com/store/apps/details?id=com.bytestorm.artflow) — Google Play
+- [Artweaver](https://www.artweaver.de/en)
+- [Drawing](https://maoschanz.github.io/drawing/) — an alternative to Paint for Linux
+- [Drawpile](https://drawpile.net/)
+- [fs-extra](https://www.npmjs.com/package/fs-extra) — npm
+- [Gimel Studio](https://gimelstudio.github.io/)
+- [Krita](https://krita.org/en/) — Digital Painting
+- [Leonardo](https://www.getleonardo.com/) — The best drawing & painting app for Windows
+- [maoschanz/drawing](https://github.com/maoschanz/drawing) — Simple image editor for Linux
+- [MediBang Paint](https://play.google.com/store/apps/details?id=com.medibang.android.paint.tablet) — Google Play
+- [Microsoft Paint](https://support.microsoft.com/en-us/windows/get-microsoft-paint-a6b9578c-ed1c-5b09-0699-4ed8115f9aa9)
+- [mtPaint](https://mtpaint.sourceforge.net/)
+- [MyPaint](https://mypaint.app/)
+- [Paintbrush](https://paintbrush.sourceforge.io/)
+- [Pencil Planner](https://sourceforge.net/projects/pencil-planner/)
+- [Pencil Project](https://pencil.evolus.vn/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/evolus/pencil)
+- [PhotoCraft](https://getartcraft.com/apps/photocraft) / [![GitHub](/img/software/apps/github.svg)](https://github.com/storytold/photocraft) — The image editor you already know how to use.
+- [PhotoDemon](https://photodemon.org/)
+- [PixaFlux](https://www.pixaflux.com/)
+- [Pixelitor](https://pixelitor.sourceforge.io/)
+
+#### RAW Image Editor
+- ⭐ **[Adobe Lightroom](https://www.adobe.com/products/photoshop-lightroom.html)** — Photo editing and organizing
+- ⭐ **[Adobe Lightroom (online)](https://lightroom.adobe.com/)**
+- ⭐ **[Capture One](https://www.captureone.com/en)**
+- ⭐ **[CyberTimon/RapidRAW](https://github.com/CyberTimon/RapidRAW)** — A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind.
+- ⭐ **[Darktable](https://www.darktable.org/)**
+- ⭐ **[Raw Photo Editor](https://www.on1.com/products/photo-raw/)** — Buy Raw Photo Editing Software Online - ON1
+- ⭐ **[Siril](https://siril.org/)**
+- [agriggio/ART](https://bitbucket.org/agriggio/art/wiki/Home) — Bitbucket
+- [ART Quick Start](https://artraweditor.github.io/Quickstart) / [![GitHub](/img/software/apps/github.svg)](https://github.com/artraweditor/ART)
+- [ART raw image processor](https://artraweditor.github.io/)
+- [DxO PhotoLab 9](https://www.dxo.com/dxo-photolab/) — RAW photo editing at its finest
+- [Exposure X7](https://exposure.software/) — creative photo editor and organizer
+- [FastRawViewer](https://www.fastrawviewer.com/)
+- [Irix HDR](https://irixhdr.com/)
+- [kra-mo/sly](https://github.com/kra-mo/sly) — Friendly image editor
+- [LUMAFORGE](https://lumaforge-optics.vercel.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/sganeshe/lumaforge) — Professional Optics Engine
+- [ON1](https://www.on1.com/) — RAW Photo editor
+- [Phocus](https://www.rayinformatics.com/projects/phocus-portrait-mode) — Portrait Mode Editor | Ray Informatics
+- [PixInsight](https://pixinsight.com/) — Pleiades Astrophoto
+- [Prism v11](https://www.prism-astro.com/en/home/) — Astronomy software
+- [RawTherapee](https://www.rawtherapee.com/)
+- [Scikit-image](https://scikit-image.org/)
+- [Showfoto](https://apps.kde.org/showfoto/)
+- [Skylum](https://skylum.com/luminar) — Luminar
+- [Sly](https://sly.kramo.page/)
+- [T8RIN/ImageToolbox · GitHub](https://github.com/T8RIN/ImageToolbox)
+- [UFRaw](http://ufraw.sourceforge.net/)
+
+#### Vector Graphics Editor
+- ⭐ **[Affinity](https://www.affinity.studio/en)** — Professional Creative Software, Free for Everyone
+- ⭐ **[Figma](https://www.figma.com/)**
+- [Adobe Illustrator](https://www.adobe.com/products/illustrator.html)
+- [Boxy SVG Editor](https://boxy-svg.com/)
+- [Calligra Karbon](https://calligra.org/karbon/)
+- [Candlestick 1.0.1](https://candlestickers.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Candlestickers/Candlestick)
+- [CorelDRAW Graphics](https://www.coreldraw.com/en/product/coreldraw/)
+- [Designer.io](https://www.designer.io/en/)
+- [Graphic.com](https://graphic.com/)
+- [Inspirit](https://www.escapemotions.com/products/inspirit/about) — Escape Motions
+- [Mapivi](http://mapivi.sourceforge.net/mapivi.shtml)
+- [Method Draw Vector Editor](https://editor.method.ac/)
+- [MewPurPur/GodSVG · GitHub](https://github.com/MewPurPur/GodSVG)
+- [ProtoSketch](https://protosketch.io/) — Simple yet powerful graphic design for iPad
+- [Scissor](https://scissor.studio/) — vector design in your browser
+- [SmoothDraw](http://www.smoothdraw.com/)
+- [Vector Ink](https://vectorink.io/) — Vector Design Tools for Everyone
+- [Vectornator.io](https://www.vectornator.io/)
+
+### 3D CG
+- ⭐ **[3D Force-Directed Graph](https://vasturiano.github.io/3d-force-graph/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/vasturiano/3d-force-graph)
+- ⭐ **[SPAR3D](https://spar3d.github.io/)**
+- [3D Cell Forge](https://3dcellforge.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/huangserva/3DCellForge)
+- [Extreme Lighting Reconstruction](https://relight-to-reconstruct.github.io/)
+- [Hew](https://hew3d.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/hew3d/hew) — free, open-source, solids-first 3D modeling the SketchUp way
+- [Hyper3D](https://hyper3d.ai/rodin) — Rodin & ChatAvatar
+- [IceSL](https://icesl.loria.fr/)
+- [LightWave3D](https://www.lightwave3d.com/)
+- [Meshy AI](https://www.meshy.ai/) — The #1 AI 3D Model Generator for Creators
+- [Polycam](https://poly.cam/) — LiDAR & 3D Scanner for iPhone & Android
+- [Prusa Slicer 2.9.1](https://theprusaslicer.net/) — Download
+- [Simplify3D Software](https://www.simplify3d.com/)
+- [Stability-AI/stable-point-aware-3d](https://github.com/Stability-AI/stable-point-aware-3d) — SPAR3D · GitHub
+- [StereoCrafter](https://stereocrafter.github.io/) — Diffusion-based Generation of Long and High-fidelity Stereoscopic 3D from Monocular Videos
+- [Tinkercad](https://www.tinkercad.com/)
+- [Trellis 3d](https://trellis3d.net/) — Next-Gen 3D Asset Generation by Trellis 3d
+
+#### 3D Editor
+- ⭐ **[Blender](https://www.blender.org/)** / [🔗](https://projects.blender.org/blender/blender/) — Free and Open 3D Creation Software
+- ⭐ **[DeskSpacing](https://deskspacing.com/index.html)**
+- ⭐ **[Nomad Sculpt](https://nomadsculpt.com/)**
+- ⭐ **[ZBrush](https://www.maxon.net/en/zbrush)** — Maxon
+- [3D Builder](https://apps.microsoft.com/detail/9wzdncrfj3t6?hl=en-US&gl=US) — Free download and install on Windows | Microsoft Store
+- [3D tools](https://alias.design/en-us/3d-tools) — Alias
+- [3DCoat](https://3dcoat.com/) — Create 3D models easily
+- [3DS Max](https://www.autodesk.com/products/3ds-max/overview?term=1-YEAR&tab=subscription) — Autodesk
+- [3DVista](https://www.3dvista.com/)
+- [Akse](https://akse3d-en.skaperiet.no/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/joachimhs/akse3d) — Draw. Build. Print.
+- [ArcGIS](https://www.esri.com/en-us/arcgis/3d-gis/overview) — Esri 3D
+- [ArmorPaint](https://armorpaint.org/) — 3D PBR Texture Painting
+- [Autodesk Meshmixer](https://www.meshmixer.com/)
+- [Babylon.js](https://www.babylonjs.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/BabylonJS/Babylon.js) — Web-Based 3D At Its Best
+- [Bforartists](https://www.bforartists.de/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Bforartists/Bforartists)
+- [Blend4Web](https://www.blend4web.com/en/)
+- [Blockbench](https://www.blockbench.net/)
+- [Cinema 4D](https://www.maxon.net/en/cinema-4d)
+- [Clara.io](https://clara.io/) — Online 3D Modeling, 3D Rendering, Free 3D Models
+- [DAZ 3D](https://www.daz3d.com/home)
+- [Doktor3D](https://doktor3d.tumblr.com/)
+- [Dust3D](https://dust3d.org/)
+- [Flare3D](http://flare3d.com/)
+- [huxingyi/dust3d · GitHub](https://github.com/huxingyi/dust3d)
+- [Kinetix](https://www.kinetix.tech/) — Express yourself across virtual worlds
+- [Landscape Design](https://www.landsdesign.com/)
+- [LPub3D](https://trevorsandy.github.io/lpub3d/)
+- [Makehumancommunity.org](http://www.makehumancommunity.org/)
+- [Mandelbulb.com](https://www.mandelbulb.com/)
+- [markusfisch/ShaderEditor](https://github.com/markusfisch/ShaderEditor) — Android app to create GLSL shaders and use them as live wallpaper
+- [Marvelous Designer](https://marvelousdesigner.com/)
+- [Massive Software](http://www.massivesoftware.com/)
+- [Material-maker · GitHub](https://github.com/RodZill4/material-maker)
+- [Maya](https://www.autodesk.com/products/maya/overview?term=1-YEAR&tab=subscription) — Autodesk
+- [MeshLab](https://www.meshlab.net/)
+- [Mixar](https://www.mixar.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Mixar-AI/mixar-app) — The AI Native 3D Editor
+- [Nira.app](https://nira.app/)
+- [Origami Simulator](https://origamisimulator.org/)
+- [Reality Capture](https://novascan3d.com/reality-capture/) — Novascan 3D
+- [RealityCapture](https://www.capturingreality.com/) — 3D Models from Photos and/or Laser Scans
+- [Rhinoceros 3D](https://www.rhino3d.com/)
+- [Rocket 3F](https://www.rocket3f.com/)
+- [Rumba](https://rumba-animation.com/)
+- [SculptGL](https://stephaneginier.com/sculptgl/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/stephomi/sculptgl) — A WebGL sculpting app
+- [SHADERed](https://shadered.org/)
+- [Shdr Editor](https://shdr.bkcore.com/)
+- [SideFX](https://www.sidefx.com/) — Houdini
+- [Simmetri](https://www.simmetri.com/)
+- [SketchUp](https://sketchup.trimble.com/en) — 3D Design Software
+- [Software Studio](https://bambulab.com/en/download/studio) — Bambu Lab
+- [Solid Edge](https://solidedge.siemens.com/en/) — Siemens
+- [Spline](https://spline.design/) — 3D Design tool in the browser
+- [Spline](https://spline.design/hana) — 3D Design tool in the browser with real-time collaboration
+- [TeleSculptor](https://telesculptor.org/)
+- [TinyGLB](https://tinyglb.com/) — Publish 3D models online with ease
+- [Tooll.io](http://tooll.io/)
+- [uMake](https://www.umake.com/)
+- [UVLayout](https://www.uvlayout.com/)
+- [VRoid](https://vroid.com/)
+- [Wings3D](https://www.wings3d.com/)
+
+#### 3D Render
+- ⭐ **[Mandelbulber.com](https://www.mandelbulber.com/)**
+- [3Delight](https://www.3delight.com/)
+- [appleseed](https://appleseedhq.net/) — A modern, open source production renderer
+- [Chaos](https://www.chaos.com/) — 3D Rendering & Simulation featuring V-Ray
+- [Chaos Corona](https://corona-renderer.com/)
+- [Character Creator](https://www.reallusion.com/character-creator/) — 3D Character Design Software
+- [F3D](https://f3d-app.github.io/f3d/)
+- [Flamenco](https://flamenco.blender.org/) / [🔗](https://projects.blender.org/studio/flamenco)
+- [google/filament · GitHub](https://github.com/google/filament)
+- [Guerilla Render](http://guerillarender.com/) — Animation and VFX production rendering
+- [Hair Farm™](https://www.cyberradiance.com/hairfarm/) — The Ultimate Hair Plug-in for 3ds Max
+- [KeyShot 3D Rendering Software](https://www.keyshot.com/keyshot-studio-trial/)
+- [Lumion 3D Rendering](https://lumion.com/)
+- [LuxCoreRender](https://luxcorerender.org/) — Open Source Physically Based Renderer
+- [Marmoset Toolbag 4](https://marmoset.co/toolbag/) — 3D Rendering, Texturing & Baking Tools
+- [MoonRay Production Renderer](https://openmoonray.org/)
+- [Octane Render](https://home.otoy.com/render/octane-render/) — OTOY
+- [Pifuhd](https://master-pifuhd-psi1104.endpoint.ainize.ai/) — Ainize.ai
+- [Pixar's RenderMan](https://renderman.pixar.com/)
+- [Planetside Software](https://planetside.co.uk/)
+- [POV-Ray](https://www.povray.org/)
+- [Real-Time Rendering Resources](https://www.realtimerendering.com/)
+- [RealFlow Fluids & Multiphysics Simulation Software](https://realflow.com/) — Next Limit
+- [Twinmotion](https://www.twinmotion.com/en-US)
+
+#### 3D Viewer
+- [Autodesk Viewer](https://viewer.autodesk.com/)
+- [F3D](https://f3d.app/)
+- [Free online STL viewer](https://www.viewstl.com/)
+- [Lychee, from digital to reality](https://mango3d.io/)
+- [Online 3D Viewer](https://3dviewer.net/)
+- [p3d.in](https://p3d.in/) — Your 3D online
+- [SkyViz](https://skyviz.io/) — Paragliding Flight Logbook, 3D IGC Viewer & Video Creator
+- [SVG Viewer](https://www.svgviewer.dev/)
+- [sView](https://www.sview.ru/en/)
+- [WarpX · GitHub](https://ecp-warpx.github.io/)
+- [zeelsheladiya/SculptView · GitHub](https://github.com/zeelsheladiya/SculptView)
+
+#### 3D Voxel
+- [Buildbox](https://signup.buildbox.com/)
+- [Eaglercraft](https://eaglercraft.com/) — An awesome, free voxel game
+- [Goxel 3D](https://goxel.xyz/)
+- [MagicaVoxel](https://ephtracy.github.io/)
+- [Mega Voxels](https://www.megavoxels.com/p/home.html)
+- [Qubicle](https://www.minddesk.com/)
+- [VoxEdit](https://www.voxedit.io/#/en/)
+
+#### AR & VR Editor
+- [3DBear](https://www.3dbear.io/)
+- [A-Frame](https://aframe.io/)
+- [Aryzon](https://www.aryzon.com/) — 3D Augmented Reality Headset
+- [AVATAVI](https://avatavi.com/)
+- [dragon.computer](https://dragon.computer/)
+- [FrameVR.io](https://framevr.io/)
+- [GEENEE AR](https://geenee.ar/)
+- [mapmapteam/mapmap](https://github.com/mapmapteam/mapmap) — Open source video mapping software
+- [Masterpiece Studio](https://masterpiecestudio.com/)
+- [MootUp](https://mootup.com/)
+- [Mozilla Hubs](https://hubs.mozilla.com/)
+- [NVRMIND](https://nvrmind.io/#features)
+- [Open Brush](https://openbrush.app/)
+- [Plattar](https://www.plattar.com/) — 3D AR
+- [Sketchbox](https://www.sketchbox3d.com/)
+- [StellarX](https://ova.ai/stellarx)
+- [StereoKit](https://stereokit.net/)
+- [tracking.js](https://trackingjs.com/)
+- [VARTISTE](https://zach-geek.gitlab.io/vartiste/landing.html)
+- [VR Studio](https://www.simlab-soft.com/3d-products/vr-studio.aspx) — Simlab Soft
+- [VR Workout](https://www.xrworkout.io/)
+- [VRTK](https://www.vrtk.io/) — Virtual Reality Toolkit
+- [WorldCAST WebAR](https://www.worldcast.io/)
+- [Zoe](https://www.zoe.com/) — Immersive 3D Creation Platform
+
+#### CAD
+- ⭐ **[FreeCAD](https://www.freecad.org/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/FreeCAD/FreeCAD) — Your own 3D parametric modeler
+- ⭐ **[Shapr3D](https://www.shapr3d.com/)** — 3D CAD for designing manufacturing-ready models
+- ⭐ **[ZWSOFT](https://www.zwsoft.com/)** — Reliable All-in-One CAx Solutions Provider Empowering Sustainable Innovation
+- [4M](https://www.4msa.com/index.php?lang=en) — CAD
+- [AdamCAD](https://www.adamcad.com/) — AI Powered CAD
+- [AmazingViz](https://www.amazingviz.net/)
+- [Archicad](https://graphisoft.com/solutions/archicad) — Graphisoft
+- [Archicad](https://myarchicad.graphisoft.com/) — GraphiSoft
+- [ArcSite](https://www.arcsite.com/)
+- [Asset Forge](https://assetforge.io/)
+- [AutoCAD](https://www.autodesk.com/products/autocad/overview) — Autodesk
+- [AutoCAD crack](https://sites.google.com/site/autocad2020crack/)
+- [AutoCAD Web](https://web.autocad.com/login)
+- [Autodesk Revit](https://www.autodesk.com/products/revit/overview) — Get Prices & Buy Official Revit Software
+- [BlocksCAD](https://www.blockscad3d.com/editor/)
+- [Bricsys](https://www.bricsys.com/) — 2D/3D CAD
+- [BRL-CAD](https://brlcad.org/)
+- [CAD Builder](https://www.opencascade.com/products/cad-builder/)
+- [CadHub](https://cadhub.xyz/)
+- [chili3d](https://chili3d.com/)
+- [DraftSight](https://www.draftsight.com/) — 2D CAD Design and Drafting Software
+- [dubstar-04/Design](https://github.com/dubstar-04/Design) — 2D CAD For GNOME
+- [Dune 3D](https://dune3d.org/)
+- [Encrust](https://encrust.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/vvvlladimir/Encrust) — the resin slicer that answers to you
+- [FluidCAD](https://fluidcad.io/) — Parametric CAD for everyone
+- [Fusion 360](https://www.autodesk.com/campaigns/fusion-360)
+- [Graphisoft Archicad](https://www.graphisoft.com/en-us/plans-and-products/archicad/) — BIM Software for Architects
+- [GstarCAD 2022](https://www.gstarcad.net/)
+- [Heeks/heekscad](https://github.com/Heeks/heekscad) — Computer-Aided Design application based on OCE
+- [Hypar](https://hypar.io/)
+- [ImplicitCad.org](https://implicitcad.org/)
+- [IntelliCAD](https://intellicadms.com/)
+- [IronCAD](https://www.ironcad.com/)
+- [JSCAD.xyz](https://openjscad.xyz/)
+- [Kubotek Kosmos](https://www.kubotekkosmos.com/) — Geometric Software
+- [LeoCAD](https://www.leocad.org/) — Virtual LEGO CAD Software
+- [LibreCAD](https://librecad.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/LibreCAD/LibreCAD) — Free Open Source 2D CAD
+- [nanoCAD](https://nanocad.com/) — Affordable and Powerful 2D/3D CAD Software for Professionals
+- [Onshape](https://www.onshape.com/en/) — Product Development Platform
+- [OpenSCAD](https://openscad.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/openscad/openscad/) — Solid 3D CAD Modeller
+- [Patchwork 3D](https://www.patchwork3d.com/)
+- [PrusaSlicer](https://www.prusa3d.com/page/prusaslicer_424/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/prusa3d/PrusaSlicer) — Original Prusa 3D printers directly from Josef Prusa
+- [QCAD](https://www.qcad.org/en/) — 2D CAD
+- [RapCAD](https://github.com/GilesBathgate/RapCAD)
+- [Revit](https://www.autodesk.com/products/revit/overview?term=1-YEAR&tab=subscription) — Autodesk
+- [Siemens Software](https://plm.sw.siemens.com/en-US/nx/) — NX software
+- [SolidWorks](https://www.solidworks.com/) — 3D CAD Design Software and 3D Systems
+- [SOLIDWORKS 3D CAD](https://www.solidworks.com/product/solidworks-3d-cad)
+- [SolveSpace](https://solvespace.com/index.pl) — parametric 3d CAD
+- [The SOLID 3D CAD](http://212.58.84.53/site/arcad/lxcad/)
+- [TouchCAD](http://www.touchcad.com/)
+- [VariCAD](https://www.varicad.com/en/home/)
+- [ZWCAD](https://www.zwspain.com/) — La Mejor Alternativa a AutoCAD - Eficiente y Asequible
+
+#### Digital Clothing
+- [Browzwear](https://browzwear.com/)
+- [Dresoo](https://dresoo.com/)
+- [FINCH WeAR](http://finchwear.com/)
+- [Peris.digital](https://peris.digital/)
+- [StyleUp.clothing](https://styleup.clothing/)
+- [triMirror](https://www.trimirror.com/)
+- [Virtuality.Fashion](https://virtuality.fashion/)
+- [Zyler](https://www.zyler.com/)
+
+#### Molecular Editor
+- [Avogadro.cc](https://avogadro.cc/)
+- [Molsketch](https://molsketch.sourceforge.net/)
+- [PyMOL](https://pymol.org/2/)
+- [tomviz](https://tomviz.org/)
+
+### Brand Naming
+- [BrandBucket](https://www.brandbucket.com/)
+- [Business Name Generator](https://businessnamegenerator.com/)
+- [Domain Name Search](https://instantdomainsearch.com/)
+- [FormRoom](https://www.formroom.com/)
+- [Looka](https://looka.com/)
+- [Namelix](https://namelix.com/)
+- [Namify](https://namify.tech/)
+- [Onym](https://guide.onym.co/)
+
+### Color Palette
+- [99colors](https://www.99colors.net/)
+- [Adobe Color](https://color.adobe.com/create/color-wheel)
+- [BrandColors](https://brandcolors.net/)
+- [Color Contrast Checker](https://marijohannessen.github.io/color-contrast-checker/)
+- [Color Designer](https://colordesigner.io/) — the most comprehensive color tools platform
+- [Color Hunt](https://colorhunt.co/)
+- [Color Leap](https://colorleap.app/home)
+- [Color Lisa](http://www.colorlisa.com/)
+- [Color Palette for Material Design](https://materialuicolors.co/)
+- [Color Palette Generator](https://colors.muz.li/)
+- [Color Rush](https://www.colorrush.io/)
+- [Color-Hex](https://www.color-hex.com/)
+- [Color-Name.com](https://www.color-name.com/) — Find name of the color you love!
+- [ColorKit](https://colorkit.io/)
+- [Colornames](https://colornames.org/)
+- [ColorPick](https://vidsbee.com/ColorPick) — Vidsbee
+- [Colors Combinations](https://colors.combinations.obys.agency/)
+- [colors.tools](https://www.colors.tools/?currentColor=13a0df&currentColorMixed=aab1a3&currentSteps=20)
+- [ColorSchemer](https://www.colorschemer.com/)
+- [ColorSpace](https://mycolor.space/)
+- [Coolors.co](https://coolors.co/)
+- [CSS Gradient](https://cssgradient.io/)
+- [Dopely Colors](https://colors.dopely.top/)
+- [Encycolorpedia](https://encycolorpedia.com/)
+- [Eva Design Colors](https://colors.eva.design/)
+- [Happy Hues](https://www.happyhues.co/)
+- [Hex colors picker](https://hexcolorspicker.com/)
+- [HTML Color Codes](https://www.hexcolortool.com/)
+- [juxtopposed/realtimecolors · GitHub](https://github.com/juxtopposed/realtimecolors)
+- [Khroma](http://khroma.co/) — AI color
+- [LeonardoColor.io](https://leonardocolor.io/#)
+- [Material UI](https://materialui.co/)
+- [Nippon Colors](https://nipponcolors.com/) — 日本の伝統色
+- [Palette Maker](https://palettemaker.com/)
+- [Paletton](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF) — The Color Scheme Designer
+- [Palettte App](https://palettte.app/)
+- [Pantone.com](https://www.pantone.com/)
+- [Picular](https://picular.co/)
+- [Pigment by ShapeFactory](https://pigment.shapefactory.co/)
+- [Realtime Colors](https://www.realtimecolors.com/)
+- [RGB Color Code](https://rgbcolorcode.com/)
+- [rgb.to](https://rgb.to/)
+- [SchemeColor.com](https://www.schemecolor.com/)
+- [Sorted CSS Colors](https://enes.in/sorted-colors)
+- [themer.dev](https://themer.dev/)
+- [uiGradients](https://uigradients.com/#BlackRos%C3%A9)
+- [W.S. Colors](https://mrebollob.com/wscolors/) — Wada Sanzo Color Combinations
+- [Wada Sanzo Colors](https://www.wada-sanzo-colors.com/)
+- [WebGradients.com](https://webgradients.com/)
+
+### Color Picker
+- [Color Picker](https://www.colorcodepicker.com/)
+- [Color Picker Tool](https://0to255.com/) — 0to255
+- [ColorZilla](https://www.colorzilla.com/)
+- [Eye Dropper](https://www.eyedropper.org/) — Pick Colors from Any Webpage - Loved by 1M+ Users.
+- [Image Color Picker](https://www.imagecolorpicker.com/)
+- [Image-Color-Picker](https://image-color-picker.com/)
+- [RGBA Color Picker](https://rgbacolorpicker.com/)
+- [Sip Color for Mac](https://sipapp.io/)
 
 ### Design Software
 - ⭐ **[Napkin AI](https://www.napkin.ai/)** — The visual AI for business storytelling
@@ -857,102 +1480,6 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [TurboCAD](https://www.turbocad.com/)
 - [Vectorworks](https://www.vectorworks.net/en-GB)
 - [Wondershare Mockitt](https://mockitt.wondershare.com/)
-
-#### Presentation Program
-- ⭐ **[Canva](https://www.canva.com/)** — Free Design Tool
-- ⭐ **[Gamma](https://gamma.app/)**
-- ⭐ **[Genial.ly](https://genial.ly/)** — platform for interactive animation content
-- ⭐ **[Graphite.rs editor](https://editor.graphite.rs/)**
-- ⭐ **[Linearity](https://www.linearity.io/)** — Revolutionize your marketing design
-- [99designs](https://en.99designs.es/)
-- [Artify](https://www.artify.co/)
-- [Avocode App](https://avocode.com/) — Collaborate on Design Files with Anyone
-- [Banana Slides 蕉幻](https://bananaslides.online/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Anionex/banana-slides) — 让 PPT 创作，回归直觉
-- [Beautiful.ai](https://www.beautiful.ai/) — AI Presentation Maker
-- [BGJar](https://bgjar.com/)
-- [Crumpet RTW editor](https://crumpet.cadence.moe/crumpet)
-- [Desygner](https://desygner.com/)
-- [Docslide](https://pdfslide.es/)
-- [Drawtify](https://drawtify.com/) — Online Graphic Design Software with Vector Drawing free
-- [easel.ly](https://www.easel.ly/)
-- [Easil](https://about.easil.com/)
-- [Easy Promotional Graphics, Videos and Email Campaigns](https://www.postermywall.com/)
-- [Emaze](https://www.emaze.com/)
-- [FlowVella](https://flowvella.com/)
-- [GoConqr](https://www.goconqr.com/en-US)
-- [Google Slides](https://www.google.com/slides/about)
-- [Graphite](https://graphite.space/)
-- [Gravit Designer](https://designer.gravit.io/)
-- [Haiku Deck](https://www.haikudeck.com/)
-- [Homestyler](https://www.homestyler.com/) — 3D Home Design
-- [IMG.LY](https://img.ly/)
-- [Infogram](https://infogram.com/)
-- [JS Paint](https://jspaint.app/#local:62950943fe32f)
-- [Jungle](https://jungleai.com/) — Create flashcards in seconds, not hours
-- [Knovio](https://www.knovio.com/)
-- [Konty](https://konty.app/) — Sketch your app ideas without stress
-- [Make Pixel Art](https://www.makepixelart.com/)
-- [Mentimeter](https://www.mentimeter.com/)
-- [Microsoft Create](https://create.microsoft.com/en-us) — Free templates for social media, documents & designs
-- [Mixamo](https://www.mixamo.com/#/)
-- [Noti.st](https://noti.st/)
-- [Pictochart](https://piktochart.com/)
-- [Pixel Trye](https://www.pixeltrue.com/illustrations)
-- [Pixelixe](https://pixelixe.com/)
-- [Pixso](https://pixso.net/)
-- [Polotno](https://polotno.com/)
-- [Polotno Studio](https://studio.polotno.com/) — Online Free Design Editor
-- [PopAi](https://www.popai.pro/) — Chat and Create with AI
-- [PowToon](https://www.powtoon.com/)
-- [Preceden](https://www.preceden.com/)
-- [Presentations.AI](https://www.presentations.ai/) — Best AI Presentation Maker & Slide Creator
-- [Prezent.ai](https://www.prezent.ai/)
-- [Prezi](https://prezi.com/) — Presentations and videos with engaging visuals for hybrid teams
-- [Quant-UX](https://quant-ux.com/#/) — Prototype, Test and Learn
-- [Shuffle.dev](https://shuffle.dev/)
-- [Simplified](https://app.simplified.com/login)
-- [Simplified](https://simplified.com/) — An Easy to Use All-In-One App For Modern Marketing Teams
-- [Slides](https://slides.com/) — Create and Share Presentations for Free
-- [Slidesgo](https://slidesgo.com/)
-- [SlideShare](https://www.slideshare.net/)
-- [Snappa](https://snappa.com/)
-- [Stencil](https://getstencil.com/)
-- [Sticker Mule](https://www.stickermule.com/)
-- [Textures](https://www.textures.com/)
-- [Vectr](https://vectr.com/) — Free Online Vector Graphics Editor
-- [Venngage](https://venngage.com/)
-- [Visme](https://www.visme.co/)
-- [VistaCreate](https://create.vista.com/) — Free Graphic Design Software with 100,000+ Free Templates
-- [VisuAlgo](https://visualgo.net/en) — visualising data structures and algorithms through animation
-- [Womp](https://womp.com/) — Free 3D design software
-- [Zeplin.io](https://zeplin.io/)
-
-#### Home Designer
-- ⭐ **[Coohom](https://www.coohom.com/)** — Designing, Modeling, Visualizing, Home Design Made Easy
-- ⭐ **[Moblo](https://www.moblo3d.app/en/)** — Design your next furniture in 3D
-- ⭐ **[Planner5D](https://planner5d.com/)**
-- ⭐ **[Sweet Home 3D](https://www.sweethome3d.com/)**
-- [3D Warehouse](https://3dwarehouse.sketchup.com/)
-- [ArchiFacile](http://www.archifacile.net/editor)
-- [Cedreo](https://cedreo.com/)
-- [Chief Architect](https://www.chiefarchitect.com/)
-- [Dock Designer](https://lightningcad.com/dpq/docks)
-- [Enscape](https://www.chaos.com/enscape) — Real-Time Rendering and Virtual Reality | Chaos
-- [Floorplanner](https://floorplanner.com/)
-- [Home By Me](https://home.by.me/en/)
-- [Home Design 3D](https://en.homedesign3d.net/)
-- [Home Designer](https://www.homedesignersoftware.com/)
-- [Home Designer](https://homedesigner.chiefarchitect.com/) — Home Design Software for DIY
-- [Homestyler](https://www.homestyler.com/int)
-- [Infurnia](https://www.infurnia.com/)
-- [Magicplan.app](https://www.magicplan.app/)
-- [PCon.planner](https://pcon-planner.com/es)
-- [PlanningWiz](https://planningwiz.com/)
-- [Rayon](https://www.rayon.design/)
-- [Roomle](https://www.roomle.com/en/floorplanner)
-- [RoomSketcher](https://www.roomsketcher.com/)
-- [Roomstyler](https://roomstyler.com/3dplanner)
-- [Space Designer 3D](https://www.spacedesigner3d.com/)
 
 #### Diagram Editor
 - ⭐ **[draw.io](https://www.drawio.com/)**
@@ -1075,6 +1602,33 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [XMind for Web](https://xmind.works/)
 - [yFiles Mindmap](https://live.yworks.com/demos/complete/mindmap/index.html) — yWorks
 
+#### Home Designer
+- ⭐ **[Coohom](https://www.coohom.com/)** — Designing, Modeling, Visualizing, Home Design Made Easy
+- ⭐ **[Moblo](https://www.moblo3d.app/en/)** — Design your next furniture in 3D
+- ⭐ **[Planner5D](https://planner5d.com/)**
+- ⭐ **[Sweet Home 3D](https://www.sweethome3d.com/)**
+- [3D Warehouse](https://3dwarehouse.sketchup.com/)
+- [ArchiFacile](http://www.archifacile.net/editor)
+- [Cedreo](https://cedreo.com/)
+- [Chief Architect](https://www.chiefarchitect.com/)
+- [Dock Designer](https://lightningcad.com/dpq/docks)
+- [Enscape](https://www.chaos.com/enscape) — Real-Time Rendering and Virtual Reality | Chaos
+- [Floorplanner](https://floorplanner.com/)
+- [Home By Me](https://home.by.me/en/)
+- [Home Design 3D](https://en.homedesign3d.net/)
+- [Home Designer](https://www.homedesignersoftware.com/)
+- [Home Designer](https://homedesigner.chiefarchitect.com/) — Home Design Software for DIY
+- [Homestyler](https://www.homestyler.com/int)
+- [Infurnia](https://www.infurnia.com/)
+- [Magicplan.app](https://www.magicplan.app/)
+- [PCon.planner](https://pcon-planner.com/es)
+- [PlanningWiz](https://planningwiz.com/)
+- [Rayon](https://www.rayon.design/)
+- [Roomle](https://www.roomle.com/en/floorplanner)
+- [RoomSketcher](https://www.roomsketcher.com/)
+- [Roomstyler](https://roomstyler.com/3dplanner)
+- [Space Designer 3D](https://www.spacedesigner3d.com/)
+
 #### Online Web Design
 - [Bubble.io](https://bubble.io/)
 - [CF Studio](https://studio.creativefabrica.com/)
@@ -1084,704 +1638,74 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [Web studio](https://webstudio.is/) — Open visual development for the open web
 - [美图Designkit](https://www.designkit.com/) — 设计室
 
-### 2D CG
-- [Infinite Painter](https://www.infinitestudio.art/painter.php) — A powerful sketching, painting and illustration app.
-
-#### Photo Editor
-- ⭐ **[Adobe Photoshop](https://www.adobe.com/products/photoshop.html)** — Photo & Design software
-- ⭐ **[Affinity Photo](https://affinity.serif.com/en-us/photo/)** — photo editing software
-- ⭐ **[Edit.photo](https://edit.photo/)**
-- ⭐ **[GIMP](https://www.gimp.org/)**
-- ⭐ **[Graphite](https://graphite.rs/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/GraphiteEditor/Graphite) — Web-based vector graphics editor and design tool
-- ⭐ **[miniPaint · GitHub](https://viliusle.github.io/miniPaint/)**
-- ⭐ **[Photomosh](https://photomosh.com/)**
-- ⭐ **[Photopea](https://www.photopea.com/)** — Online Photo Editor
-- ⭐ **[Pixlr](https://pixlr.com/)** — Online Photo Editor
-- ⭐ **[Polarr editor](https://editor.polarr.com/)**
-- ⭐ **[Sumo Paint](https://paint.sumo.app/)** — drawing app
-- [Adobe Express](https://express.adobe.com/sp/)
-- [Adobe Express](https://express.adobe.com/sp/design/post/new)
-- [Adobe Express](https://www.adobe.com/express/) — Free Online Photo & Design Tool
-- [Adobe Photoshop](https://photoshop.adobe.com/id/tmp:4neb51?dpasset=https%3A%2F%2Fhelpx.adobe.com%2Fcontent%2Fdam%2Fhelp%2Fen%2Fphotoshop%2Fhow-to%2Fin-app%2Fget-started-photoshop-web%2FGet_Started.psd&dp_query=consumer.name%3DPSW%26exp.campaign_id%3DCCH-HOT%26exp.variation_id%3Dtest%26source.name%3DPhotoshopWeb%26source.version%3DBeta%26content.type%3DcmWebHandsOnTutorial%26content.id%3Dphotoshop%252Fhow-to%252Fin-app%252Fget-started-photoshop-web&flags=no_cchome_redirect&discover_mode=true&lang=en)
-- [Adobe PhotoShop online](https://photoshop.adobe.com/)
-- [Affinity Help](https://affinity.help/)
-- [AirBrush](https://appairbrush.com/)
-- [Alight Creative](https://alightcreative.com/)
-- [Artbreeder](https://www.artbreeder.com/)
-- [Artipic](https://artipic.com/en) — Powerful Photo Editor
-- [AutoStakkert](https://www.autostakkert.com/)
-- [Avatoon.me](https://avatoon.me/)
-- [BeFunky](https://www.befunky.com/)
-- [BFH ImagePlay](https://cpvrlab.github.io/ImagePlay/)
-- [BitMappery](https://www.igorski.nl/application/bitmappery/)
-- [Camera Bits](https://home.camerabits.com/)
-- [Camera FV-5](https://www.camerafv5.com/)
-- [Canva](https://www.canva.com/photo-editor/) — Photo Editor
-- [CodeSnap](https://codesnap.dev/) — An image editor for developers
-- [Corel AfterShot Pro](https://www.aftershotpro.com/en/) — RAW Photo editing
-- [Editor.Pho.to](https://editor.pho.to/edit/#)
-- [faresbakhit/ayin · GitHub](https://github.com/faresbakhit/ayin)
-- [FIGPEA](https://figpea.com/) — PSD Viewer
-- [Filmulator](https://filmulator.org/)
-- [Fotor](https://www.fotor.com/)
-- [Free Online Image Editor](https://onlineimageditor.com/)
-- [Glimpse](https://glimpse-editor.org/)
-- [HEAVYPAINT](https://www.heavypaint.com/)
-- [Hugin](https://hugin.sourceforge.io/) — Panorama photo stitcher
-- [ImageJ](https://imagej.nih.gov/ij/)
-- [ImEditor · GitHub](https://imeditor.github.io/)
-- [inPixio](https://www.inpixio.com/es)
-- [IsoPaint](https://isopaint.art/) — Simple Isometric Drawing App
-- [JPEG photo processing online](https://www.imgonline.com.ua/) — IMG online
-- [LazPaint](https://lazpaint.github.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/bgrabitmap/lazpaint/)
-- [LunaPic](https://www7.lunapic.com/editor/) — Photo Editor
-- [Map Stack by Stamen](https://mapstack.stamen.com/)
-- [Online Image Editor](https://www.online-image-editor.com/)
-- [Online Image Editor](https://www.kapwing.com/image-editor) — Kapwing
-- [Pablo by Buffer](https://pablo.buffer.com/)
-- [Paint.net](https://www.getpaint.net/)
-- [PaintShop Pro](https://www.paintshoppro.com/en/products/paintshop-pro)
-- [Pho.to](https://pho.to/)
-- [Photivo](https://photivo.org/)
-- [Photo Editor](https://photokit.com/) — Free Image Editing Online
-- [Photo-Toolbox.com](https://www.photo-toolbox.com/)
-- [Photoflare](https://photoflare.io/)
-- [PhotoLine](https://www.pl32.com/) — Photo Editing, Vector Editor, Design Software
-- [PhotoMirage](https://www.photomirage.io/en/) — Photo Animation Software
-- [PhotoRoom](https://app.photoroom.com/create)
-- [PhotoScape X](http://x.photoscape.org/)
-- [Photoshop CC v19 Linux · GitHub](https://github.com/Gictorbit/photoshopCClinux)
-- [Photoshop installer for Linux · GitHub](https://github.com/CSMarckitus/Photoshop)
-- [Photoshop-CC2022-Linux · GItHub](https://github.com/LinSoftWin/Photoshop-CC2022-Linux)
-- [Photovisi](https://www.photovisi.com/photo-editor) — Photo editor
-- [Picktorial](https://www.picktorial.com/)
-- [PicMonkey](https://www.picmonkey.com/)
-- [PicsArt](https://picsart.com/) — Editing and Design Tools
-- [PicsArt Editor (batch)](https://picsart.com/create/batch)
-- [Picsart Editor (templates)](https://picsart.com/create/editor?category=templates)
-- [Pinegrow Web Editor](https://pinegrow.com/)
-- [Pixelied](https://pixelied.com/)
-- [Pixelmator Pro](https://www.pixelmator.com/pro/)
-- [Pixeluvo](http://www.pixeluvo.com/)
-- [Pixlr editor](https://pixlr.com/e/)
-- [PIXLS.US](https://pixls.us/)
-- [Pixomatic](https://pixomatic.us/)
-- [piZap](https://www.pizap.com/)
-- [Polotno Studio](https://studio.polotno.dev/)
-- [Prisma Labs](https://prisma-ai.com/)
-- [Processing](https://processing.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/processing/p5.js)
-- [PTGui](https://www.ptgui.com/)
-- [Ribbet Premium](https://www.ribbet.com/upgrade)
-- [robbietilton/Compositor](https://github.com/robbietilton/Compositor) — The Photoshop alternative for Mac
-- [SoftMaker](https://softmaker.com/en/)
-- [Sticker.ly](http://sticker.ly/)
-- [tiler · GitHub](https://github.com/nuno-faria/tiler)
-- [Time-Travel Rephotography · GitHub](https://time-travel-rephotography.github.io/)
-- [VSCO](https://vsco.co/)
-- [WEBBYPAINT](https://www.webbypaint.com/)
-- [WidsMob](https://www.widsmob.com/) — Create Better Digital Life with US
-- [Wondershare Fotophire](https://photo.wondershare.com/)
-
-#### RAW Image Editor
-- ⭐ **[Adobe Lightroom](https://www.adobe.com/products/photoshop-lightroom.html)** — Photo editing and organizing
-- ⭐ **[Adobe Lightroom (online)](https://lightroom.adobe.com/)**
-- ⭐ **[Capture One](https://www.captureone.com/en)**
-- ⭐ **[CyberTimon/RapidRAW](https://github.com/CyberTimon/RapidRAW)** — A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind.
-- ⭐ **[Darktable](https://www.darktable.org/)**
-- ⭐ **[Raw Photo Editor](https://www.on1.com/products/photo-raw/)** — Buy Raw Photo Editing Software Online - ON1
-- ⭐ **[Siril](https://siril.org/)**
-- [agriggio/ART](https://bitbucket.org/agriggio/art/wiki/Home) — Bitbucket
-- [ART Quick Start](https://artraweditor.github.io/Quickstart) / [![GitHub](/img/software/apps/github.svg)](https://github.com/artraweditor/ART)
-- [ART raw image processor](https://artraweditor.github.io/)
-- [DxO PhotoLab 9](https://www.dxo.com/dxo-photolab/) — RAW photo editing at its finest
-- [Exposure X7](https://exposure.software/) — creative photo editor and organizer
-- [FastRawViewer](https://www.fastrawviewer.com/)
-- [Irix HDR](https://irixhdr.com/)
-- [kra-mo/sly](https://github.com/kra-mo/sly) — Friendly image editor
-- [LUMAFORGE](https://lumaforge-optics.vercel.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/sganeshe/lumaforge) — Professional Optics Engine
-- [ON1](https://www.on1.com/) — RAW Photo editor
-- [Phocus](https://www.rayinformatics.com/projects/phocus-portrait-mode) — Portrait Mode Editor | Ray Informatics
-- [PixInsight](https://pixinsight.com/) — Pleiades Astrophoto
-- [Prism v11](https://www.prism-astro.com/en/home/) — Astronomy software
-- [RawTherapee](https://www.rawtherapee.com/)
-- [Scikit-image](https://scikit-image.org/)
-- [Showfoto](https://apps.kde.org/showfoto/)
-- [Skylum](https://skylum.com/luminar) — Luminar
-- [Sly](https://sly.kramo.page/)
-- [T8RIN/ImageToolbox · GitHub](https://github.com/T8RIN/ImageToolbox)
-- [UFRaw](http://ufraw.sourceforge.net/)
-
-#### Raster Graphic Editor
-- ⭐ **[FireAlpaca](https://firealpaca.com/)**
-- ⭐ **[Glaxnimate](https://glaxnimate.org/)** / [![GitLab](/img/source-hosts/gitlab.svg)](https://gitlab.com/mattbas/glaxnimate)
-- ⭐ **[Pinta Project](https://www.pinta-project.com/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/PintaProject/Pinta)
-- [1j01/jspaint · GitHub](https://github.com/1j01/jspaint)
-- [1j01/textual-paint · GitHub](https://github.com/1j01/textual-paint)
-- [Annotator · GitHub](https://github.com/phase1geo/Annotator)
-- [ArtFlow](https://play.google.com/store/apps/details?id=com.bytestorm.artflow) — Google Play
-- [Artweaver](https://www.artweaver.de/en)
-- [Drawing](https://maoschanz.github.io/drawing/) — an alternative to Paint for Linux
-- [Drawpile](https://drawpile.net/)
-- [fs-extra](https://www.npmjs.com/package/fs-extra) — npm
-- [Gimel Studio](https://gimelstudio.github.io/)
-- [Krita](https://krita.org/en/) — Digital Painting
-- [Leonardo](https://www.getleonardo.com/) — The best drawing & painting app for Windows
-- [maoschanz/drawing](https://github.com/maoschanz/drawing) — Simple image editor for Linux
-- [MediBang Paint](https://play.google.com/store/apps/details?id=com.medibang.android.paint.tablet) — Google Play
-- [Microsoft Paint](https://support.microsoft.com/en-us/windows/get-microsoft-paint-a6b9578c-ed1c-5b09-0699-4ed8115f9aa9)
-- [mtPaint](https://mtpaint.sourceforge.net/)
-- [MyPaint](https://mypaint.app/)
-- [Paintbrush](https://paintbrush.sourceforge.io/)
-- [Pencil Planner](https://sourceforge.net/projects/pencil-planner/)
-- [Pencil Project](https://pencil.evolus.vn/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/evolus/pencil)
-- [PhotoCraft](https://getartcraft.com/apps/photocraft) / [![GitHub](/img/software/apps/github.svg)](https://github.com/storytold/photocraft) — The image editor you already know how to use.
-- [PhotoDemon](https://photodemon.org/)
-- [PixaFlux](https://www.pixaflux.com/)
-- [Pixelitor](https://pixelitor.sourceforge.io/)
-
-#### Painting
-- [BaristArt](https://barist.art/)
-- [Bestsnip animation](https://bestsnip.com/animation)
-- [Draw Cafe](https://draw.cafe/d/OzMbHqIyooijwC8gnWYJ)
-- [Inspirograph](https://nathanfriend.io/inspirograph)
-- [ItsPaint](https://itspaintmac.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/joshlin2201/itspaint) — MS Paint for Mac, free and open source
-- [Koalas to the Max](http://www.koalastothemax.com/)
-- [Let's String](https://letsstring.store/) — String art from any of your photo
-- [MandalaGaba](https://www.mandalagaba.com/#pH05il)
-- [noisedeck](https://noisedeck.app/)
-- [Paint](https://paint.withdiagram.com/) — WithDiagram
-- [Patatap](https://www.patatap.com/)
-- [PixelCraft](https://pixelcraft.web.app/)
-- [Rasterbator](https://rasterbator.net/)
-- [SYSTEMAX Software Development](https://www.systemax.jp/en/sai/) — PaintTool SAI
-- [V&A Design a Wig](https://www.vam.ac.uk/designawig)
-- [WaveSilk](http://weavesilk.com/)
-- [WebGL Fluid Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation)
-- [woven sound](https://woven-sound.surge.sh/)
-
-#### Vector Graphics Editor
-- ⭐ **[Affinity](https://www.affinity.studio/en)** — Professional Creative Software, Free for Everyone
-- ⭐ **[Figma](https://www.figma.com/)**
-- [Adobe Illustrator](https://www.adobe.com/products/illustrator.html)
-- [Boxy SVG Editor](https://boxy-svg.com/)
-- [Calligra Karbon](https://calligra.org/karbon/)
-- [Candlestick 1.0.1](https://candlestickers.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Candlestickers/Candlestick)
-- [CorelDRAW Graphics](https://www.coreldraw.com/en/product/coreldraw/)
-- [Designer.io](https://www.designer.io/en/)
-- [Graphic.com](https://graphic.com/)
-- [Inspirit](https://www.escapemotions.com/products/inspirit/about) — Escape Motions
-- [Mapivi](http://mapivi.sourceforge.net/mapivi.shtml)
-- [Method Draw Vector Editor](https://editor.method.ac/)
-- [MewPurPur/GodSVG · GitHub](https://github.com/MewPurPur/GodSVG)
-- [ProtoSketch](https://protosketch.io/) — Simple yet powerful graphic design for iPad
-- [Scissor](https://scissor.studio/) — vector design in your browser
-- [SmoothDraw](http://www.smoothdraw.com/)
-- [Vector Ink](https://vectorink.io/) — Vector Design Tools for Everyone
-- [Vectornator.io](https://www.vectornator.io/)
-
-#### Illustration Editor
-- ⭐ **[AutoDraw](https://www.autodraw.com/)**
-- ⭐ **[Inkscape](https://inkscape.org/)** / [![GitLab](/img/source-hosts/gitlab.svg)](https://gitlab.com/inkscape/inkscape) — Draw freely
-- ⭐ **[Procreate](https://procreate.com/)** — Sketch, Paint, Create
-- ⭐ **[SketchBook](https://www.sketchbook.com/)** — For everyone who loves to draw
-- [Adobe Fresco](https://www.adobe.com/products/fresco.html)
-- [Affinity Designer](https://affinity.serif.com/en-us/designer/) — Graphic Design & Illustration Software
-- [Akira](https://github.com/akiraux/Akira) — Akira UX
-- [Auster Graphics](https://astutegraphics.com/)
-- [Clip Studio Paint](https://www.clipstudio.net/en/)
-- [Corel Painter](https://www.painterartist.com/en/) — Photo Painting
-- [ibisPaint](https://ibispaint.com/) — Draw and Paint app
-- [KolourPaint](http://www.kolourpaint.org/) — KDE
-- [Lazy Nezumi Pro](https://lazynezumi.com/)
-- [Lunacy](https://icons8.com/lunacy) — Icons8
-- [MediBang Paint](https://medibangpaint.com/en/)
-- [openCanvas](https://www.portalgraphics.net/en/oc/)
-- [Paintstorm Studio](https://paintstormstudio.com/index.html)
-- [Paper](https://paper.design/) — design, share, ship
-- [SAI Paint Tool](http://en.saipainttool.com/)
-- [SAI Paint Tool](http://detstwo.com/sai/)
-- [Sketch.io](https://sketch.io/)
-- [Tux Paint](https://sourceforge.net/projects/tuxpaint/)
-- [Tux Paint](https://tuxpaint.org/) — Free art software for kids of all ages
-- [Xara Designer Pro+](https://www.xara.com/designerpro-plus/) — Infinite Design Possibilities
-- [ZoomIt](https://docs.microsoft.com/en-us/sysinternals/downloads/zoomit)
-
-#### 2D Animation
-- ⭐ **[Expressive Animator](https://animator.expressive.app/)**
-- ⭐ **[Sketch](https://www.sketch.com/)** — Design, collaborate prototype and handoff
-- [Animaker](https://www.animaker.com/)
-- [Animation Desk](https://www.kdan.com/animation-desk) — KDAN mobile
-- [Animation Studio](https://animationstudio.io/special/)
-- [Battle Axe](https://www.battleaxe.co/)
-- [Callipeg](https://callipeg.com/) — 2d animation
-- [Cartoon Animator](https://www.reallusion.com/cartoon-animator/) — 2D Animation
-- [Cavalry Animation](https://cavalry.scenegroup.co/)
-- [CreateStudio](https://createstudio.com/)
-- [Dancing Letters](https://dancingletters.aidaluu.com/)
-- [DigiCel](https://digicel.net/)
-- [EbSynth](https://ebsynth.com/)
-- [enve](https://maurycyliebner.github.io/) — 2D animation
-- [Expressive Animator](https://expressive.app/expressive-animator/) — SVG animation software
-- [FlipaClip](https://flipaclip.com/)
-- [Flixel](https://flixel.com/) — Create imagery that gets noticed with Cinemagraph Pro
-- [Friction](https://friction.graphics/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/friction2d/friction)
-- [Harmony 21](https://www.toonboom.com/products/harmony) — Toon Boom
-- [HyperFrames](https://hyperframes.heygen.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/heygen-com/hyperframes) — Edit Videos By Vibe-Coding
-- [HyperFrames Studio](https://www.hyperframes.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/heygen-com/hyperframes)
-- [Inochi2D](https://inochi2d.com/)
-- [Juice FX by CodeManu](https://codemanu.itch.io/juicefx)
-- [Live2D Cubism](https://www.live2d.com/en/) — 2D Model Maker
-- [Loading.io](https://loading.io/)
-- [Mental Canvas](https://www.mentalcanvas.com/)
-- [Moho Animation Software](https://moho.lostmarble.com/) — Professional 2D Animation
-- [OpenToonz](https://opentoonz.github.io/e/)
-- [Origami Studio](https://origami.design/)
-- [Pencil2D](https://www.pencil2d.org/)
-- [PhotoFiltre Studio](https://www.photofiltre-studio.com/pf7.htm)
-- [Pixilart](https://www.pixilart.com/)
-- [Principle](https://principleformac.com/)
-- [qStopMotion](https://qstopmotion.org/)
-- [Remotion](https://www.remotion.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/remotion-dev/remotion) — Make videos programmatically
-- [Rive.app](https://rive.app/)
-- [RoughAnimator](https://www.roughanimator.com/) — animation app
-- [Scribl · GitHub](https://github.com/jneem/scribl)
-- [Scribl!](https://www.scribl.ink/)
-- [Sozi](https://sozi.baierouge.fr/)
-- [Stop Motion Studio](https://www.cateater.com/)
-- [Storyboarder](https://wonderunit.com/storyboarder/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/wonderunit/storyboarder) — wonder unit
-- [SVGator](https://www.svgator.com/)
-- [Synfig](https://www.synfig.org/) — Free and open-source animation software
-- [Tahoma2D](https://tahoma2d.org/) — Free 2D & stop motion animation software
-- [The Wick Editor](https://www.wickeditor.com/#/)
-- [ToonSquid](https://toonsquid.com/)
-- [Videoscribe](https://www.videoscribe.co/en/)
-- [Vyond](https://www.vyond.com/)
-- [Wick Editor 1.19.3](https://www.wickeditor.com/editor/)
-
-#### Logo Maker
-- [Adobe Express](https://express.adobe.com/express-apps/logo-maker/) — Logo Maker
-- [Brand Crowd](https://www.brandcrowd.com/)
-- [EasyLogo](https://haploapp.com/easylogo) — Graphics & Design
-- [Flamingtext](https://www.flamingtext.com/)
-- [Free Logo Design](https://editor.freelogodesign.org/)
-- [Free Logo Maker](https://looka.com/onboarding) — Looka
-- [GraphicSprings](https://www.graphicsprings.com/logo-maker)
-- [GraphicSprings](https://www.graphicsprings.com/) — Logo Maker
-- [Logo Design](https://www.freelogodesign.org/)
-- [Logo Maker app](https://app.logo.com/editor/ideas)
-- [Logo Makr](https://logomakr.com/)
-- [Logo-AI.com](https://www.logoai.com/)
-- [LogoBee](https://www.logobee.com/)
-- [My Free Logo Maker](https://myfreelogomaker.com/explore)
-- [Patternico](https://patternico.com/)
-- [Textcraft](https://textcraft.net/)
-- [Zarla. Free Logo Maker](https://www.zarla.com/)
-
-#### Pixel Art
-- [Aseprite](https://www.aseprite.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/aseprite/aseprite) — Animated sprite editor & pixel art tool
-- [danterolle/tilf](https://github.com/danterolle/tilf) — Tilf (Tiny Elf) is a simple yet powerful pixel art editor built with PySide6. It’s designed for creating sprites, icons, and small 2D assets with essential drawing tools, live preview, undo/redo, and export options.
-- [LibreSprite](https://libresprite.github.io/#!/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/LibreSprite/LibreSprite)
-- [PikoPixel](http://twilightedge.com/mac/pikopixel/)
-- [Piskel](https://www.piskelapp.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/piskelapp/piskel) — online sprite editor
-- [Pixel Art to CSS](https://www.pixelartcss.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/jvalen/pixel-art-react)
-- [Pixelicious](https://www.pixelicious.xyz/)
-- [Pixelorama](https://orama-interactive.itch.io/pixelorama) — Orama Interactive
-- [PixiEditor](https://pixieditor.net/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/PixiEditor/PixiEditor)
-- [Pixquare](https://www.pixquare.art/) — Pixel art for iPad
-- [Resprite](https://resprite.fengeon.com/)
-- [Sprite Fusion](https://www.spritefusion.com/) — A simple, free tilemap Editor Online
-- [ZX-Paintbrush by Source Solutions, Inc.](https://sourcesolutions.itch.io/zx-paintbrush)
-- [ZXDrawer by Juntelart](https://juntelart.itch.io/zxdrawer)
-
-#### EDA
-- [bancika/diy-layout-creator · GitHub](https://github.com/bancika/diy-layout-creator)
-- [CircuitLab](https://www.circuitlab.com/) — Online circuit simulator & schematic editor
-- [Fritzing](https://fritzing.org/)
-- [Horizon EDA](https://horizon-eda.org/)
-- [LibrePCB](https://librepcb.org/)
-- [PICSimLab](https://sourceforge.net/projects/picsim/) — Prog. IC Simulator Lab.
-- [Proteus](https://www.labcenter.com/) — PCB Design and Circuit Simulator Software
-- [SimulIDE](https://simulide.com/p/) — Circuit Simulator
-- [Sonnet Software](https://www.sonnetsoftware.com/)
-
-#### Desktop Publisher
-- [Adobe InDesign](https://www.adobe.com/products/indesign.html) — Layout design and desktop publishing software
-- [Affinity Publisher](https://affinity.serif.com/en-us/publisher/) — Page Layout & Design Software
-- [Marq (formerly Lucidpress)](https://www.marq.com/) — Brand Enablement Software
-- [QuarkXPress](https://www.quark.com/products/QuarkXPress) — Desktop Publishing Software & Page Layout Software
-- [VivaDesigner](https://viva.systems/designer/) — desktop, server & web-based publishing program
-
-### Meme Generator
-- [Make a Meme](https://makeameme.org/)
-- [Meme Formats](https://www.reddit.com/r/MemeFormats)
-- [Meme Generator](https://www.memegenerator.es/)
-- [Meme Generator](https://meme-generator.com/)
-
-### 3D CG
-- ⭐ **[3D Force-Directed Graph](https://vasturiano.github.io/3d-force-graph/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/vasturiano/3d-force-graph)
-- ⭐ **[SPAR3D](https://spar3d.github.io/)**
-- [3D Cell Forge](https://3dcellforge.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/huangserva/3DCellForge)
-- [Extreme Lighting Reconstruction](https://relight-to-reconstruct.github.io/)
-- [Hew](https://hew3d.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/hew3d/hew) — free, open-source, solids-first 3D modeling the SketchUp way
-- [Hyper3D](https://hyper3d.ai/rodin) — Rodin & ChatAvatar
-- [IceSL](https://icesl.loria.fr/)
-- [LightWave3D](https://www.lightwave3d.com/)
-- [Meshy AI](https://www.meshy.ai/) — The #1 AI 3D Model Generator for Creators
-- [Polycam](https://poly.cam/) — LiDAR & 3D Scanner for iPhone & Android
-- [Prusa Slicer 2.9.1](https://theprusaslicer.net/) — Download
-- [Simplify3D Software](https://www.simplify3d.com/)
-- [Stability-AI/stable-point-aware-3d](https://github.com/Stability-AI/stable-point-aware-3d) — SPAR3D · GitHub
-- [StereoCrafter](https://stereocrafter.github.io/) — Diffusion-based Generation of Long and High-fidelity Stereoscopic 3D from Monocular Videos
-- [Tinkercad](https://www.tinkercad.com/)
-- [Trellis 3d](https://trellis3d.net/) — Next-Gen 3D Asset Generation by Trellis 3d
-
-#### 3D Editor
-- ⭐ **[Blender](https://www.blender.org/)** / [🔗](https://projects.blender.org/blender/blender/) — Free and Open 3D Creation Software
-- ⭐ **[DeskSpacing](https://deskspacing.com/index.html)**
-- ⭐ **[Nomad Sculpt](https://nomadsculpt.com/)**
-- ⭐ **[ZBrush](https://www.maxon.net/en/zbrush)** — Maxon
-- [3D Builder](https://apps.microsoft.com/detail/9wzdncrfj3t6?hl=en-US&gl=US) — Free download and install on Windows | Microsoft Store
-- [3D tools](https://alias.design/en-us/3d-tools) — Alias
-- [3DCoat](https://3dcoat.com/) — Create 3D models easily
-- [3DS Max](https://www.autodesk.com/products/3ds-max/overview?term=1-YEAR&tab=subscription) — Autodesk
-- [3DVista](https://www.3dvista.com/)
-- [Akse](https://akse3d-en.skaperiet.no/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/joachimhs/akse3d) — Draw. Build. Print.
-- [ArcGIS](https://www.esri.com/en-us/arcgis/3d-gis/overview) — Esri 3D
-- [ArmorPaint](https://armorpaint.org/) — 3D PBR Texture Painting
-- [Autodesk Meshmixer](https://www.meshmixer.com/)
-- [Babylon.js](https://www.babylonjs.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/BabylonJS/Babylon.js) — Web-Based 3D At Its Best
-- [Bforartists](https://www.bforartists.de/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Bforartists/Bforartists)
-- [Blend4Web](https://www.blend4web.com/en/)
-- [Blockbench](https://www.blockbench.net/)
-- [Cinema 4D](https://www.maxon.net/en/cinema-4d)
-- [Clara.io](https://clara.io/) — Online 3D Modeling, 3D Rendering, Free 3D Models
-- [DAZ 3D](https://www.daz3d.com/home)
-- [Doktor3D](https://doktor3d.tumblr.com/)
-- [Dust3D](https://dust3d.org/)
-- [Flare3D](http://flare3d.com/)
-- [huxingyi/dust3d · GitHub](https://github.com/huxingyi/dust3d)
-- [Kinetix](https://www.kinetix.tech/) — Express yourself across virtual worlds
-- [Landscape Design](https://www.landsdesign.com/)
-- [LPub3D](https://trevorsandy.github.io/lpub3d/)
-- [Makehumancommunity.org](http://www.makehumancommunity.org/)
-- [Mandelbulb.com](https://www.mandelbulb.com/)
-- [markusfisch/ShaderEditor](https://github.com/markusfisch/ShaderEditor) — Android app to create GLSL shaders and use them as live wallpaper
-- [Marvelous Designer](https://marvelousdesigner.com/)
-- [Massive Software](http://www.massivesoftware.com/)
-- [Material-maker · GitHub](https://github.com/RodZill4/material-maker)
-- [Maya](https://www.autodesk.com/products/maya/overview?term=1-YEAR&tab=subscription) — Autodesk
-- [MeshLab](https://www.meshlab.net/)
-- [Mixar](https://www.mixar.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Mixar-AI/mixar-app) — The AI Native 3D Editor
-- [Nira.app](https://nira.app/)
-- [Origami Simulator](https://origamisimulator.org/)
-- [Reality Capture](https://novascan3d.com/reality-capture/) — Novascan 3D
-- [RealityCapture](https://www.capturingreality.com/) — 3D Models from Photos and/or Laser Scans
-- [Rhinoceros 3D](https://www.rhino3d.com/)
-- [Rocket 3F](https://www.rocket3f.com/)
-- [Rumba](https://rumba-animation.com/)
-- [SculptGL](https://stephaneginier.com/sculptgl/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/stephomi/sculptgl) — A WebGL sculpting app
-- [SHADERed](https://shadered.org/)
-- [Shdr Editor](https://shdr.bkcore.com/)
-- [SideFX](https://www.sidefx.com/) — Houdini
-- [Simmetri](https://www.simmetri.com/)
-- [SketchUp](https://sketchup.trimble.com/en) — 3D Design Software
-- [Software Studio](https://bambulab.com/en/download/studio) — Bambu Lab
-- [Solid Edge](https://solidedge.siemens.com/en/) — Siemens
-- [Spline](https://spline.design/) — 3D Design tool in the browser
-- [Spline](https://spline.design/hana) — 3D Design tool in the browser with real-time collaboration
-- [TeleSculptor](https://telesculptor.org/)
-- [TinyGLB](https://tinyglb.com/) — Publish 3D models online with ease
-- [Tooll.io](http://tooll.io/)
-- [uMake](https://www.umake.com/)
-- [UVLayout](https://www.uvlayout.com/)
-- [VRoid](https://vroid.com/)
-- [Wings3D](https://www.wings3d.com/)
-
-#### CAD
-- ⭐ **[FreeCAD](https://www.freecad.org/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/FreeCAD/FreeCAD) — Your own 3D parametric modeler
-- ⭐ **[Shapr3D](https://www.shapr3d.com/)** — 3D CAD for designing manufacturing-ready models
-- ⭐ **[ZWSOFT](https://www.zwsoft.com/)** — Reliable All-in-One CAx Solutions Provider Empowering Sustainable Innovation
-- [4M](https://www.4msa.com/index.php?lang=en) — CAD
-- [AdamCAD](https://www.adamcad.com/) — AI Powered CAD
-- [AmazingViz](https://www.amazingviz.net/)
-- [Archicad](https://graphisoft.com/solutions/archicad) — Graphisoft
-- [Archicad](https://myarchicad.graphisoft.com/) — GraphiSoft
-- [ArcSite](https://www.arcsite.com/)
-- [Asset Forge](https://assetforge.io/)
-- [AutoCAD](https://www.autodesk.com/products/autocad/overview) — Autodesk
-- [AutoCAD crack](https://sites.google.com/site/autocad2020crack/)
-- [AutoCAD Web](https://web.autocad.com/login)
-- [Autodesk Revit](https://www.autodesk.com/products/revit/overview) — Get Prices & Buy Official Revit Software
-- [BlocksCAD](https://www.blockscad3d.com/editor/)
-- [Bricsys](https://www.bricsys.com/) — 2D/3D CAD
-- [BRL-CAD](https://brlcad.org/)
-- [CAD Builder](https://www.opencascade.com/products/cad-builder/)
-- [CadHub](https://cadhub.xyz/)
-- [chili3d](https://chili3d.com/)
-- [DraftSight](https://www.draftsight.com/) — 2D CAD Design and Drafting Software
-- [dubstar-04/Design](https://github.com/dubstar-04/Design) — 2D CAD For GNOME
-- [Dune 3D](https://dune3d.org/)
-- [Encrust](https://encrust.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/vvvlladimir/Encrust) — the resin slicer that answers to you
-- [FluidCAD](https://fluidcad.io/) — Parametric CAD for everyone
-- [Fusion 360](https://www.autodesk.com/campaigns/fusion-360)
-- [Graphisoft Archicad](https://www.graphisoft.com/en-us/plans-and-products/archicad/) — BIM Software for Architects
-- [GstarCAD 2022](https://www.gstarcad.net/)
-- [Heeks/heekscad](https://github.com/Heeks/heekscad) — Computer-Aided Design application based on OCE
-- [Hypar](https://hypar.io/)
-- [ImplicitCad.org](https://implicitcad.org/)
-- [IntelliCAD](https://intellicadms.com/)
-- [IronCAD](https://www.ironcad.com/)
-- [JSCAD.xyz](https://openjscad.xyz/)
-- [Kubotek Kosmos](https://www.kubotekkosmos.com/) — Geometric Software
-- [LeoCAD](https://www.leocad.org/) — Virtual LEGO CAD Software
-- [LibreCAD](https://librecad.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/LibreCAD/LibreCAD) — Free Open Source 2D CAD
-- [nanoCAD](https://nanocad.com/) — Affordable and Powerful 2D/3D CAD Software for Professionals
-- [Onshape](https://www.onshape.com/en/) — Product Development Platform
-- [OpenSCAD](https://openscad.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/openscad/openscad/) — Solid 3D CAD Modeller
-- [Patchwork 3D](https://www.patchwork3d.com/)
-- [PrusaSlicer](https://www.prusa3d.com/page/prusaslicer_424/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/prusa3d/PrusaSlicer) — Original Prusa 3D printers directly from Josef Prusa
-- [QCAD](https://www.qcad.org/en/) — 2D CAD
-- [RapCAD](https://github.com/GilesBathgate/RapCAD)
-- [Revit](https://www.autodesk.com/products/revit/overview?term=1-YEAR&tab=subscription) — Autodesk
-- [Siemens Software](https://plm.sw.siemens.com/en-US/nx/) — NX software
-- [SolidWorks](https://www.solidworks.com/) — 3D CAD Design Software and 3D Systems
-- [SOLIDWORKS 3D CAD](https://www.solidworks.com/product/solidworks-3d-cad)
-- [SolveSpace](https://solvespace.com/index.pl) — parametric 3d CAD
-- [The SOLID 3D CAD](http://212.58.84.53/site/arcad/lxcad/)
-- [TouchCAD](http://www.touchcad.com/)
-- [VariCAD](https://www.varicad.com/en/home/)
-- [ZWCAD](https://www.zwspain.com/) — La Mejor Alternativa a AutoCAD - Eficiente y Asequible
-
-#### AR & VR Editor
-- [3DBear](https://www.3dbear.io/)
-- [A-Frame](https://aframe.io/)
-- [Aryzon](https://www.aryzon.com/) — 3D Augmented Reality Headset
-- [AVATAVI](https://avatavi.com/)
-- [dragon.computer](https://dragon.computer/)
-- [FrameVR.io](https://framevr.io/)
-- [GEENEE AR](https://geenee.ar/)
-- [mapmapteam/mapmap](https://github.com/mapmapteam/mapmap) — Open source video mapping software
-- [Masterpiece Studio](https://masterpiecestudio.com/)
-- [MootUp](https://mootup.com/)
-- [Mozilla Hubs](https://hubs.mozilla.com/)
-- [NVRMIND](https://nvrmind.io/#features)
-- [Open Brush](https://openbrush.app/)
-- [Plattar](https://www.plattar.com/) — 3D AR
-- [Sketchbox](https://www.sketchbox3d.com/)
-- [StellarX](https://ova.ai/stellarx)
-- [StereoKit](https://stereokit.net/)
-- [tracking.js](https://trackingjs.com/)
-- [VARTISTE](https://zach-geek.gitlab.io/vartiste/landing.html)
-- [VR Studio](https://www.simlab-soft.com/3d-products/vr-studio.aspx) — Simlab Soft
-- [VR Workout](https://www.xrworkout.io/)
-- [VRTK](https://www.vrtk.io/) — Virtual Reality Toolkit
-- [WorldCAST WebAR](https://www.worldcast.io/)
-- [Zoe](https://www.zoe.com/) — Immersive 3D Creation Platform
-
-#### Digital Clothing
-- [Browzwear](https://browzwear.com/)
-- [Dresoo](https://dresoo.com/)
-- [FINCH WeAR](http://finchwear.com/)
-- [Peris.digital](https://peris.digital/)
-- [StyleUp.clothing](https://styleup.clothing/)
-- [triMirror](https://www.trimirror.com/)
-- [Virtuality.Fashion](https://virtuality.fashion/)
-- [Zyler](https://www.zyler.com/)
-
-#### 3D Render
-- ⭐ **[Mandelbulber.com](https://www.mandelbulber.com/)**
-- [3Delight](https://www.3delight.com/)
-- [appleseed](https://appleseedhq.net/) — A modern, open source production renderer
-- [Chaos](https://www.chaos.com/) — 3D Rendering & Simulation featuring V-Ray
-- [Chaos Corona](https://corona-renderer.com/)
-- [Character Creator](https://www.reallusion.com/character-creator/) — 3D Character Design Software
-- [F3D](https://f3d-app.github.io/f3d/)
-- [Flamenco](https://flamenco.blender.org/) / [🔗](https://projects.blender.org/studio/flamenco)
-- [google/filament · GitHub](https://github.com/google/filament)
-- [Guerilla Render](http://guerillarender.com/) — Animation and VFX production rendering
-- [Hair Farm™](https://www.cyberradiance.com/hairfarm/) — The Ultimate Hair Plug-in for 3ds Max
-- [KeyShot 3D Rendering Software](https://www.keyshot.com/keyshot-studio-trial/)
-- [Lumion 3D Rendering](https://lumion.com/)
-- [LuxCoreRender](https://luxcorerender.org/) — Open Source Physically Based Renderer
-- [Marmoset Toolbag 4](https://marmoset.co/toolbag/) — 3D Rendering, Texturing & Baking Tools
-- [MoonRay Production Renderer](https://openmoonray.org/)
-- [Octane Render](https://home.otoy.com/render/octane-render/) — OTOY
-- [Pifuhd](https://master-pifuhd-psi1104.endpoint.ainize.ai/) — Ainize.ai
-- [Pixar's RenderMan](https://renderman.pixar.com/)
-- [Planetside Software](https://planetside.co.uk/)
-- [POV-Ray](https://www.povray.org/)
-- [Real-Time Rendering Resources](https://www.realtimerendering.com/)
-- [RealFlow Fluids & Multiphysics Simulation Software](https://realflow.com/) — Next Limit
-- [Twinmotion](https://www.twinmotion.com/en-US)
-
-#### 3D Voxel
-- [Buildbox](https://signup.buildbox.com/)
-- [Eaglercraft](https://eaglercraft.com/) — An awesome, free voxel game
-- [Goxel 3D](https://goxel.xyz/)
-- [MagicaVoxel](https://ephtracy.github.io/)
-- [Mega Voxels](https://www.megavoxels.com/p/home.html)
-- [Qubicle](https://www.minddesk.com/)
-- [VoxEdit](https://www.voxedit.io/#/en/)
-
-#### 3D Viewer
-- [Autodesk Viewer](https://viewer.autodesk.com/)
-- [F3D](https://f3d.app/)
-- [Free online STL viewer](https://www.viewstl.com/)
-- [Lychee, from digital to reality](https://mango3d.io/)
-- [Online 3D Viewer](https://3dviewer.net/)
-- [p3d.in](https://p3d.in/) — Your 3D online
-- [SkyViz](https://skyviz.io/) — Paragliding Flight Logbook, 3D IGC Viewer & Video Creator
-- [SVG Viewer](https://www.svgviewer.dev/)
-- [sView](https://www.sview.ru/en/)
-- [WarpX · GitHub](https://ecp-warpx.github.io/)
-- [zeelsheladiya/SculptView · GitHub](https://github.com/zeelsheladiya/SculptView)
-
-#### Molecular Editor
-- [Avogadro.cc](https://avogadro.cc/)
-- [Molsketch](https://molsketch.sourceforge.net/)
-- [PyMOL](https://pymol.org/2/)
-- [tomviz](https://tomviz.org/)
-
-### Color Palette
-- [99colors](https://www.99colors.net/)
-- [Adobe Color](https://color.adobe.com/create/color-wheel)
-- [BrandColors](https://brandcolors.net/)
-- [Color Contrast Checker](https://marijohannessen.github.io/color-contrast-checker/)
-- [Color Designer](https://colordesigner.io/) — the most comprehensive color tools platform
-- [Color Hunt](https://colorhunt.co/)
-- [Color Leap](https://colorleap.app/home)
-- [Color Lisa](http://www.colorlisa.com/)
-- [Color Palette for Material Design](https://materialuicolors.co/)
-- [Color Palette Generator](https://colors.muz.li/)
-- [Color Rush](https://www.colorrush.io/)
-- [Color-Hex](https://www.color-hex.com/)
-- [Color-Name.com](https://www.color-name.com/) — Find name of the color you love!
-- [ColorKit](https://colorkit.io/)
-- [Colornames](https://colornames.org/)
-- [ColorPick](https://vidsbee.com/ColorPick) — Vidsbee
-- [Colors Combinations](https://colors.combinations.obys.agency/)
-- [colors.tools](https://www.colors.tools/?currentColor=13a0df&currentColorMixed=aab1a3&currentSteps=20)
-- [ColorSchemer](https://www.colorschemer.com/)
-- [ColorSpace](https://mycolor.space/)
-- [Coolors.co](https://coolors.co/)
-- [CSS Gradient](https://cssgradient.io/)
-- [Dopely Colors](https://colors.dopely.top/)
-- [Encycolorpedia](https://encycolorpedia.com/)
-- [Eva Design Colors](https://colors.eva.design/)
-- [Happy Hues](https://www.happyhues.co/)
-- [Hex colors picker](https://hexcolorspicker.com/)
-- [HTML Color Codes](https://www.hexcolortool.com/)
-- [juxtopposed/realtimecolors · GitHub](https://github.com/juxtopposed/realtimecolors)
-- [Khroma](http://khroma.co/) — AI color
-- [LeonardoColor.io](https://leonardocolor.io/#)
-- [Material UI](https://materialui.co/)
-- [Nippon Colors](https://nipponcolors.com/) — 日本の伝統色
-- [Palette Maker](https://palettemaker.com/)
-- [Paletton](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF) — The Color Scheme Designer
-- [Palettte App](https://palettte.app/)
-- [Pantone.com](https://www.pantone.com/)
-- [Picular](https://picular.co/)
-- [Pigment by ShapeFactory](https://pigment.shapefactory.co/)
-- [Realtime Colors](https://www.realtimecolors.com/)
-- [RGB Color Code](https://rgbcolorcode.com/)
-- [rgb.to](https://rgb.to/)
-- [SchemeColor.com](https://www.schemecolor.com/)
-- [Sorted CSS Colors](https://enes.in/sorted-colors)
-- [themer.dev](https://themer.dev/)
-- [uiGradients](https://uigradients.com/#BlackRos%C3%A9)
-- [W.S. Colors](https://mrebollob.com/wscolors/) — Wada Sanzo Color Combinations
-- [Wada Sanzo Colors](https://www.wada-sanzo-colors.com/)
-- [WebGradients.com](https://webgradients.com/)
-
-### Brand Naming
-- [BrandBucket](https://www.brandbucket.com/)
-- [Business Name Generator](https://businessnamegenerator.com/)
-- [Domain Name Search](https://instantdomainsearch.com/)
-- [FormRoom](https://www.formroom.com/)
-- [Looka](https://looka.com/)
-- [Namelix](https://namelix.com/)
-- [Namify](https://namify.tech/)
-- [Onym](https://guide.onym.co/)
-
-### Color Picker
-- [Color Picker](https://www.colorcodepicker.com/)
-- [Color Picker Tool](https://0to255.com/) — 0to255
-- [ColorZilla](https://www.colorzilla.com/)
-- [Eye Dropper](https://www.eyedropper.org/) — Pick Colors from Any Webpage - Loved by 1M+ Users.
-- [Image Color Picker](https://www.imagecolorpicker.com/)
-- [Image-Color-Picker](https://image-color-picker.com/)
-- [RGBA Color Picker](https://rgbacolorpicker.com/)
-- [Sip Color for Mac](https://sipapp.io/)
-
-### Image Viewer
-- [aruiz/webp-pixbuf-loader · GitHub](https://github.com/aruiz/webp-pixbuf-loader)
-- [atanunq/viu · GItHub](https://github.com/atanunq/viu)
-- [AYVY](https://ayvy.app/) — Image Viewer
-- [BeeRef](https://beeref.org/)
-- [BLumia/pineapple-pictures · GitHub](https://github.com/BLumia/pineapple-pictures)
-- [DjVuLibre](http://djvu.sourceforge.net/)
-- [easymodo/qimgv · GitHub](https://github.com/easymodo/qimgv)
-- [f-spot](https://launchpad.net/ubuntu/+source/f-spot)
-- [FastPictureViewer](https://www.fastpictureviewer.com/)
-- [FastStone](https://www.faststone.org/) — Image Viewer, Screen Capture, Photo Resizer
-- [feh image viewer](https://feh.finalrewind.org/)
-- [feh](https://linux.die.net/man/1/feh) — image viewer
-- [Geeqie](https://www.geeqie.org/)
-- [GNOME/gthumb · GitHub](https://github.com/GNOME/gthumb)
-- [google/pix-image-viewer · GItHub](https://github.com/google/pix-image-viewer)
-- [GraphicsMagick](http://www.graphicsmagick.org/)
-- [Gthumb](https://wiki.gnome.org/action/show/Apps/Gthumb?action=show&redirect=Apps%2Fgthumb) — GNOME
-- [Gthumb](https://wiki.gnome.org/Apps/Gthumb) — GNOME
-- [IDA Viewer](https://www.equa.se/en/ida-ice/ida-viewer) — EQUA
-- [ImageGlass](https://imageglass.org/)
-- [Imagine](https://www.nyam.pe.kr/dev/imagine) — Freeware Image
-- [Incubator / Loupe · GitLab](https://gitlab.gnome.org/Incubator/loupe)
-- [IrfanView](https://www.irfanview.com/)
-- [JPEGView · SourceForge](https://sourceforge.net/projects/jpegview/)
-- [KDE Gwenview](https://apps.kde.org/gwenview/) / [🔗](https://invent.kde.org/graphics/gwenview)
-- [Kl4rry/simp · GItHub](https://github.com/Kl4rry/simp)
-- [Lively Wallpaper](https://rocksdanister.github.io/lively)
-- [LX-Image-Qt · GitHub](https://github.com/lxqt/lximage-qt)
-- [mihnea-radulescu/imagefanreloaded · GitHub](https://github.com/mihnea-radulescu/imagefanreloaded)
-- [Mirage Image Viewer](https://mirageiv.sourceforge.net/)
-- [netdcy/FlowVision](https://github.com/netdcy/FlowVision) — Waterfall-style image viewer for macOS, offering a smooth and immersive browsing experience.
-- [nomacs](https://nomacs.org/) — Image Lounge
-- [nsxiv](https://nsxiv.codeberg.page/) — Neo Simple X Image Viewer
-- [Opti](https://github.com/torcado194/opti)
-- [PhotoQt Image Viewer](https://photoqt.org/)
-- [Phototonic · GitHub](https://github.com/oferkv/phototonic)
-- [PicView](https://picview.org/) — Picture viewer for Windows
-- [Pixyway](https://pixyway.com/)
-- [PureRef](https://www.pureref.com/)
-- [Quick-picture-viewer](https://github.com/ModuleArt/quick-picture-viewer)
-- [qView](https://interversehq.com/qview/)
-- [qView · GitHub](https://github.com/jurplel/qView)
-- [RadiAnt DICOM Viewer](https://www.radiantviewer.com/)
-- [Ristretto](https://docs.xfce.org/apps/ristretto/start) — Xfce
-- [Simple X Image Viewer](https://github.com/muennich/sxiv)
-- [sylikc/jpegview fork · GitHub](https://github.com/sylikc/jpegview)
-- [Viewer.js](https://fengyuanchen.github.io/viewerjs/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/fengyuanchen/viewerjs)
-- [Vipsdisp · GitHub](https://github.com/jcupitt/vipsdisp)
-- [Weasis Medical Viewer](https://nroduit.github.io/en/)
-- [XaoS](https://xaos-project.github.io/)
-- [xyb3rt/sxiv](https://github.com/xyb3rt/sxiv) — Simple X Image Viewer
-
-### Image Background Remover
-- [BG Bye](https://bgbye.fyrean.com/)
-- [Clipping Magic](https://clippingmagic.com/)
-- [Erase.bg](https://www.erase.bg/)
-- [no.ng](https://no-bg.com/)
-- [Object Remover](https://objectremover.com/)
-- [Photoroom](https://www.photoroom.com/) — Remove Background and Create Product Pictures
-- [Photoroom](https://www.photoroom.com/background-remover/) — Remove backgrounds
-- [Pixelcut](https://www.pixelcut.ai/) — Free AI Photo Editor
-- [removal.ai](https://removal.ai/) — Image Background Remover
-- [Remove Background](https://remove-background.net/)
-- [Remove BG](https://remove-bg.io/) — Free HD Background Remover, No Sign-Up
-- [remove.bg](https://www.remove.bg/) — Remove background from image
-- [remove.photos](https://remove.photos/)
-- [RemoveBackground.app](https://removebackground.app/)
-- [slazzer.com](https://www.slazzer.com/) — Remove background
+#### Presentation Program
+- ⭐ **[Canva](https://www.canva.com/)** — Free Design Tool
+- ⭐ **[Gamma](https://gamma.app/)**
+- ⭐ **[Genial.ly](https://genial.ly/)** — platform for interactive animation content
+- ⭐ **[Graphite.rs editor](https://editor.graphite.rs/)**
+- ⭐ **[Linearity](https://www.linearity.io/)** — Revolutionize your marketing design
+- [99designs](https://en.99designs.es/)
+- [Artify](https://www.artify.co/)
+- [Avocode App](https://avocode.com/) — Collaborate on Design Files with Anyone
+- [Banana Slides 蕉幻](https://bananaslides.online/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Anionex/banana-slides) — 让 PPT 创作，回归直觉
+- [Beautiful.ai](https://www.beautiful.ai/) — AI Presentation Maker
+- [BGJar](https://bgjar.com/)
+- [Crumpet RTW editor](https://crumpet.cadence.moe/crumpet)
+- [Desygner](https://desygner.com/)
+- [Docslide](https://pdfslide.es/)
+- [Drawtify](https://drawtify.com/) — Online Graphic Design Software with Vector Drawing free
+- [easel.ly](https://www.easel.ly/)
+- [Easil](https://about.easil.com/)
+- [Easy Promotional Graphics, Videos and Email Campaigns](https://www.postermywall.com/)
+- [Emaze](https://www.emaze.com/)
+- [FlowVella](https://flowvella.com/)
+- [GoConqr](https://www.goconqr.com/en-US)
+- [Google Slides](https://www.google.com/slides/about)
+- [Graphite](https://graphite.space/)
+- [Gravit Designer](https://designer.gravit.io/)
+- [Haiku Deck](https://www.haikudeck.com/)
+- [Homestyler](https://www.homestyler.com/) — 3D Home Design
+- [IMG.LY](https://img.ly/)
+- [Infogram](https://infogram.com/)
+- [JS Paint](https://jspaint.app/#local:62950943fe32f)
+- [Jungle](https://jungleai.com/) — Create flashcards in seconds, not hours
+- [Knovio](https://www.knovio.com/)
+- [Konty](https://konty.app/) — Sketch your app ideas without stress
+- [Make Pixel Art](https://www.makepixelart.com/)
+- [Mentimeter](https://www.mentimeter.com/)
+- [Microsoft Create](https://create.microsoft.com/en-us) — Free templates for social media, documents & designs
+- [Mixamo](https://www.mixamo.com/#/)
+- [Noti.st](https://noti.st/)
+- [Pictochart](https://piktochart.com/)
+- [Pixel Trye](https://www.pixeltrue.com/illustrations)
+- [Pixelixe](https://pixelixe.com/)
+- [Pixso](https://pixso.net/)
+- [Polotno](https://polotno.com/)
+- [Polotno Studio](https://studio.polotno.com/) — Online Free Design Editor
+- [PopAi](https://www.popai.pro/) — Chat and Create with AI
+- [PowToon](https://www.powtoon.com/)
+- [Preceden](https://www.preceden.com/)
+- [Presentations.AI](https://www.presentations.ai/) — Best AI Presentation Maker & Slide Creator
+- [Prezent.ai](https://www.prezent.ai/)
+- [Prezi](https://prezi.com/) — Presentations and videos with engaging visuals for hybrid teams
+- [Quant-UX](https://quant-ux.com/#/) — Prototype, Test and Learn
+- [Shuffle.dev](https://shuffle.dev/)
+- [Simplified](https://app.simplified.com/login)
+- [Simplified](https://simplified.com/) — An Easy to Use All-In-One App For Modern Marketing Teams
+- [Slides](https://slides.com/) — Create and Share Presentations for Free
+- [Slidesgo](https://slidesgo.com/)
+- [SlideShare](https://www.slideshare.net/)
+- [Snappa](https://snappa.com/)
+- [Stencil](https://getstencil.com/)
+- [Sticker Mule](https://www.stickermule.com/)
+- [Textures](https://www.textures.com/)
+- [Vectr](https://vectr.com/) — Free Online Vector Graphics Editor
+- [Venngage](https://venngage.com/)
+- [Visme](https://www.visme.co/)
+- [VistaCreate](https://create.vista.com/) — Free Graphic Design Software with 100,000+ Free Templates
+- [VisuAlgo](https://visualgo.net/en) — visualising data structures and algorithms through animation
+- [Womp](https://womp.com/) — Free 3D design software
+- [Zeplin.io](https://zeplin.io/)
 
 ### Gallery Photo Manager
 - ⭐ **[digiKam](https://www.digikam.org/)** / [🔗](https://invent.kde.org/graphics/digikam)
@@ -1837,6 +1761,82 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [Tropy](https://tropy.org/) — Explore your research photos
 - [Yeraps Gallery](https://yarapps.com/)
 
+### Image Background Remover
+- [BG Bye](https://bgbye.fyrean.com/)
+- [Clipping Magic](https://clippingmagic.com/)
+- [Erase.bg](https://www.erase.bg/)
+- [no.ng](https://no-bg.com/)
+- [Object Remover](https://objectremover.com/)
+- [Photoroom](https://www.photoroom.com/) — Remove Background and Create Product Pictures
+- [Photoroom](https://www.photoroom.com/background-remover/) — Remove backgrounds
+- [Pixelcut](https://www.pixelcut.ai/) — Free AI Photo Editor
+- [removal.ai](https://removal.ai/) — Image Background Remover
+- [Remove Background](https://remove-background.net/)
+- [Remove BG](https://remove-bg.io/) — Free HD Background Remover, No Sign-Up
+- [remove.bg](https://www.remove.bg/) — Remove background from image
+- [remove.photos](https://remove.photos/)
+- [RemoveBackground.app](https://removebackground.app/)
+- [slazzer.com](https://www.slazzer.com/) — Remove background
+
+### Image Viewer
+- [aruiz/webp-pixbuf-loader · GitHub](https://github.com/aruiz/webp-pixbuf-loader)
+- [atanunq/viu · GItHub](https://github.com/atanunq/viu)
+- [AYVY](https://ayvy.app/) — Image Viewer
+- [BeeRef](https://beeref.org/)
+- [BLumia/pineapple-pictures · GitHub](https://github.com/BLumia/pineapple-pictures)
+- [DjVuLibre](http://djvu.sourceforge.net/)
+- [easymodo/qimgv · GitHub](https://github.com/easymodo/qimgv)
+- [f-spot](https://launchpad.net/ubuntu/+source/f-spot)
+- [FastPictureViewer](https://www.fastpictureviewer.com/)
+- [FastStone](https://www.faststone.org/) — Image Viewer, Screen Capture, Photo Resizer
+- [feh image viewer](https://feh.finalrewind.org/)
+- [feh](https://linux.die.net/man/1/feh) — image viewer
+- [Geeqie](https://www.geeqie.org/)
+- [GNOME/gthumb · GitHub](https://github.com/GNOME/gthumb)
+- [google/pix-image-viewer · GItHub](https://github.com/google/pix-image-viewer)
+- [GraphicsMagick](http://www.graphicsmagick.org/)
+- [Gthumb](https://wiki.gnome.org/action/show/Apps/Gthumb?action=show&redirect=Apps%2Fgthumb) — GNOME
+- [Gthumb](https://wiki.gnome.org/Apps/Gthumb) — GNOME
+- [IDA Viewer](https://www.equa.se/en/ida-ice/ida-viewer) — EQUA
+- [ImageGlass](https://imageglass.org/)
+- [Imagine](https://www.nyam.pe.kr/dev/imagine) — Freeware Image
+- [Incubator / Loupe · GitLab](https://gitlab.gnome.org/Incubator/loupe)
+- [IrfanView](https://www.irfanview.com/)
+- [JPEGView · SourceForge](https://sourceforge.net/projects/jpegview/)
+- [KDE Gwenview](https://apps.kde.org/gwenview/) / [🔗](https://invent.kde.org/graphics/gwenview)
+- [Kl4rry/simp · GItHub](https://github.com/Kl4rry/simp)
+- [Lively Wallpaper](https://rocksdanister.github.io/lively)
+- [LX-Image-Qt · GitHub](https://github.com/lxqt/lximage-qt)
+- [mihnea-radulescu/imagefanreloaded · GitHub](https://github.com/mihnea-radulescu/imagefanreloaded)
+- [Mirage Image Viewer](https://mirageiv.sourceforge.net/)
+- [netdcy/FlowVision](https://github.com/netdcy/FlowVision) — Waterfall-style image viewer for macOS, offering a smooth and immersive browsing experience.
+- [nomacs](https://nomacs.org/) — Image Lounge
+- [nsxiv](https://nsxiv.codeberg.page/) — Neo Simple X Image Viewer
+- [Opti](https://github.com/torcado194/opti)
+- [PhotoQt Image Viewer](https://photoqt.org/)
+- [Phototonic · GitHub](https://github.com/oferkv/phototonic)
+- [PicView](https://picview.org/) — Picture viewer for Windows
+- [Pixyway](https://pixyway.com/)
+- [PureRef](https://www.pureref.com/)
+- [Quick-picture-viewer](https://github.com/ModuleArt/quick-picture-viewer)
+- [qView](https://interversehq.com/qview/)
+- [qView · GitHub](https://github.com/jurplel/qView)
+- [RadiAnt DICOM Viewer](https://www.radiantviewer.com/)
+- [Ristretto](https://docs.xfce.org/apps/ristretto/start) — Xfce
+- [Simple X Image Viewer](https://github.com/muennich/sxiv)
+- [sylikc/jpegview fork · GitHub](https://github.com/sylikc/jpegview)
+- [Viewer.js](https://fengyuanchen.github.io/viewerjs/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/fengyuanchen/viewerjs)
+- [Vipsdisp · GitHub](https://github.com/jcupitt/vipsdisp)
+- [Weasis Medical Viewer](https://nroduit.github.io/en/)
+- [XaoS](https://xaos-project.github.io/)
+- [xyb3rt/sxiv](https://github.com/xyb3rt/sxiv) — Simple X Image Viewer
+
+### Meme Generator
+- [Make a Meme](https://makeameme.org/)
+- [Meme Formats](https://www.reddit.com/r/MemeFormats)
+- [Meme Generator](https://www.memegenerator.es/)
+- [Meme Generator](https://meme-generator.com/)
+
 ### Screenshot App
 - [Awesome Screenshot -- Screen recorder and Screen capture](https://www.awesomescreenshot.com/)
 - [CleanShot X for Mac](https://cleanshot.com/)
@@ -1880,6 +1880,373 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [Wirify](https://www.wirify.com/)
 
 ## Video & Movies
+
+### Camera App
+- [Camera](https://apps.gnome.org/Snapshot/) — Apps for GNOME
+- [Cognitum RuView](https://cognitum.one/ruview) / [![GitHub](/img/software/apps/github.svg)](https://github.com/ruvnet/RuView) — See without cameras
+- [eszdman/PhotonCamera](https://github.com/eszdman/PhotonCamera) — Android Camera that uses Enhanced image processing
+- [Halide Mark II](https://halide.cam/) — Pro. Camera. Action.
+- [Kino](https://www.shotwithkino.com/) — Pro Video Camera for iPhone
+- [mood.camera](https://www.mood.camera/) — iPhone photography with authentic film character
+- [No Fusion Camera](https://www.nofusion.app/en/)
+- [Open Camera](https://opencamera.org.uk/)
+- [Plasma Camera](https://apps.kde.org/plasma.camera/) — KDE
+- [ProCam](https://www.procamapp.com/)
+- [ProShot](https://www.riseupgames.com/proshot) — The best pro camera for Android, iPhone and iPad — Rise Up Games
+- [Windows Camera](https://apps.microsoft.com/detail/9wzdncrfjbbg?hl=en-US&gl=ES) — Free download and install on Windows | Microsoft Store
+
+#### Webcam
+- [anonfaded/FadCam · GitHub](https://github.com/anonfaded/FadCam)
+- [Camera Graph](https://cameragraph.app/)
+- [CamON Live Streaming](https://play.google.com/store/apps/details?id=com.spynet.camon) — Google Play
+- [Dev47Apps](https://www.dev47apps.com/) — Droidcam
+- [DroidCam](https://droidcam.org/) — Webcam for PC
+- [EpocCam](https://www.elgato.com/en/epoccam) — elgato.com
+- [FedeDP/Clight · GitHub](https://github.com/FedeDP/Clight)
+- [FineCam](https://www.fineshare.com/finecam/) — Webcam Software
+- [FreezingCam.com](https://freezingcam.com/)
+- [GTK+ UVC Viewer](https://guvcview.sourceforge.net/)
+- [iGlasses for Mac](https://www.ecamm.com/mac/iglasses/) — Ecamm Network
+- [IP Webcam](https://play.google.com/store/apps/details?id=com.pas.webcam) — Apps on Google Play
+- [Iriun](https://iriun.com/)
+- [iSpy](https://www.ispyconnect.com/) — Open source camera security software
+- [iVCam](https://www.e2esoft.com/ivcam/) — Use mobile phone as a PC webcam
+- [Kamoso](https://apps.kde.org/kamoso/)
+- [Kerberos.io](https://kerberos.io/)
+- [ManyCam](https://manycam.com/) — Live video software & Virtual Webcam
+- [Motion](https://motion-project.github.io/) — Open source security camera software
+- [OWLR](https://owlr.com/)
+- [Photo Mirror](https://photo-mirror.net/)
+- [Reincubate Camo](https://reincubate.com/camo/)
+- [Snap Camera](https://snapcamera.snapchat.com/)
+- [soyersoyer/cameractrls](https://github.com/soyersoyer/cameractrls) — Camera controls for Linux
+- [Webcam Toy](https://webcamtoy.com/)
+- [Webcamoid, The ultimate webcam suite!](https://webcamoid.github.io/)
+- [XSplit Connect](https://play.google.com/store/apps/details?id=com.xsplit.webcam) — Webcam – Google Play
+- [Yawcam](https://yawcam.com/) — Yet Another Webcam Software
+- [ZoneMinder](https://zoneminder.com/)
+
+### Casting & Streaming
+- [Airflow](https://airflow.app/)
+- [AirPlay](https://www.apple.com/airplay/)
+- [AllCast](https://www.allcast.io/) — Send photos and videos to your TV
+- [AnyCast](https://any-cast.com/) — Cast Anything to the Big Screen
+- [AudioRelay](https://audiorelay.net/) — Stream audio between your devices
+- [BubbleUPnP for DLNA / Chromecast / Smart TV](https://bubblesoftapps.com/bubbleupnp/)
+- [Cast](https://developers.google.com/cast/) — Google for Developers
+- [DLNA](https://www.dlna.org/)
+- [EZCast](https://www.ezcast.com/) — Universal wireless screen mirroring solution
+- [FCast](https://fcast.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/futo-org/fcast)
+- [GitHub](https://github.com/eerimoq/moblin) — eerimoq/moblin: Moblin, a free iOS app for IRL streaming
+- [Go2TV](https://go2tv.app/) — Media Casting Made Easy
+- [InstantBits](https://www.webvideocaster.app/home)
+- [jqssun/android-airplay-server](https://github.com/jqssun/android-airplay-server) — First open-source AirPlay receiver implementation for Android with mirroring, video and audio support
+- [LocalCast](https://www.localcast.app/) — Free Media Casting App
+- [Mirrcast Tv](https://mirrcast.com/)
+- [Moonlight Game Streaming](https://moonlight-stream.org/) — Play Your PC Games Remotely
+- [Steam Remote Play](https://store.steampowered.com/remoteplay)
+- [Video & TV Cast](https://video-tv-cast.com/)
+- [VideoStream](https://getvideostream.com/)
+
+### Media Center
+- ⭐ **[Kodi](https://kodi.tv/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/xbmc/xbmc) — Open Source Home Theater Software
+- [Fusion](https://fusionapp.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/qooode/fusion) — Discover, organize, and browse
+- [Jellyfin demo](https://demo.jellyfin.org/stable/web/index.html#!/home.html)
+- [M7](https://apps.movian.eu/) — Media Center
+- [MEDIAPORTAL](https://www.team-mediaportal.com/) — a HTPC Media Center for free!
+- [OSMC](https://osmc.tv/) — Open Source Media Center
+- [TiVo](https://www.tivo.com/)
+
+### Media Server
+- ⭐ **[Emby](https://emby.media/)** — The open media solution
+- ⭐ **[Jellyfin](https://jellyfin.org/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/jellyfin/jellyfin) — The Free Software Media System
+- ⭐ **[Plex.tv](https://www.plex.tv/)** — Stream movies and TV shows
+- [eleven-am/frames](https://github.com/Eleven-am/frames) — Frames is a modern SVOD (Streaming Video on Demand) streaming service built with React and NestJS. It allows you to stream MP4 files from virtually any provider including local storage, S3, Dropbox, Google Drive, and more.
+- [Gerbera](https://gerbera.io/)
+- [Kaleidescape](https://www.kaleidescape.com/) — The Ultimate Movie Platform
+- [Kometa Wiki](https://kometa.wiki/en/latest/#what-can-kometa-do) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Kometa-Team/Kometa)
+- [NextPVR](https://www.nextpvr.com/)
+- [PS3 Media Server](https://www.ps3mediaserver.org/)
+- [PS3 Media Server download](https://sourceforge.net/projects/ps3mediaserver/) — SourceForge.net
+- [ReadyMedia](https://sourceforge.net/projects/minidlna/) — SourceForge
+- [Serviio](https://serviio.org/)
+- [Streama](https://docs.streama-project.com/)
+- [Sunshine](https://app.lizardbyte.dev/Sunshine/) — LizardByte
+- [TVersity Media Server](http://tversity.com/)
+- [Tvheadend.org](https://tvheadend.org/)
+- [Universal Media Server](https://www.universalmediaserver.com/)
+
+### Screen Annotation Tool
+- [Epic Pen](https://epicpen.com/)
+- [EpicPencil](https://www.epicpencil.es/en/) — Draw on your screen for free
+- [iRehmanAhmad/RePen](https://github.com/iRehmanAhmad/RePen)
+- [KMag](https://apps.kde.org/kmag/) / [🔗](https://invent.kde.org/accessibility/kmag)
+- [ZoomIt](https://learn.microsoft.com/en-us/sysinternals/downloads/zoomit) — Sysinternals
+
+### Screen Recorder
+- ⭐ **[gpu-screen-recorder](https://git.dec05eba.com/gpu-screen-recorder/about/)** — A shadowplay-like screen recorder for Linux
+- ⭐ **[Open Broadcaster Software](https://obsproject.com/)** — OBS
+- [Acethinker](https://www.acethinker.com/)
+- [Action!](https://mirillis.com/es/productos/action-grabacion-de-pantalla-y-videojuegos.html)
+- [amikha1lov/RecApp · GitHub](https://github.com/amikha1lov/RecApp)
+- [ammen99/wf-recorder · GitHub](https://github.com/ammen99/wf-recorder)
+- [Atomi systems](https://atomisystems.com/)
+- [AutoZoom](https://autozoom.app/) — Best AI Screen Recorder with Auto-Zoom
+- [BetterCapture](https://jsattler.github.io/BetterCapture/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/jsattler/BetterCapture) — Free Screen Recorder for Mac | Open Source, No Watermark
+- [Cap](https://cap.so/) — Effortless, instant screen sharing. Open source and cross-platform
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) — Your CLI home video recorder 📼
+- [Chrome Tab Audio Recorder](https://soundstreamcapture.com/) — MP3/WAV, Free
+- [Dixper](https://dixper.gg/home)
+- [droplr](https://droplr.com/)
+- [DU Recorder](https://www.du-recorder.com/)
+- [Enselic/recordmydesktop · GitHub](https://github.com/Enselic/recordmydesktop/)
+- [FlashBack recorder](https://www.flashbackrecorder.com/)
+- [FRAPS](https://www.fraps.com/) — show fps, record video game movies, screen capture software
+- [Free Recorder](https://freerecorders.com/)
+- [Gamecaster](https://gamecaster.com/)
+- [Kap](https://getkap.co/) — Capture your screen
+- [Kazam](https://github.com/hzbd/kazam)
+- [Medal](https://medal.tv/) — Clip, Edit, and Share Your Game Clips & Gameplay
+- [Mirillis](https://mirillis.com/)
+- [Motionik](https://motionik.com/)
+- [MythTV, Open Source DVR](https://www.mythtv.org/)
+- [Open Screen](https://openscreen.vercel.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/siddharthvaddem/openscreen)
+- [Phia](https://www.phia.app/) — Designed to be seen
+- [phw/peek](https://github.com/phw/peek) — Simple animated GIF screen recorder with an easy to use interface
+- [PlayOn](https://www.playon.tv/)
+- [QPrompt App](https://qprompt.app/)
+- [RecordMyDesktop](http://recordmydesktop.sourceforge.net/about.php)
+- [recordMyDesktop](https://enselic.github.io/recordmydesktop/)
+- [Reframed](https://www.reframed.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/jkuri/Reframed) — Screen Recording & Video Editor for macOS
+- [russelltg/wl-screenrec](https://github.com/russelltg/wl-screenrec) — High performance wlroots screen recording, featuring hardware encoding
+- [Screen Studio](https://screen.studio/) — Professional screen recorder for macOS
+- [Screencast-O-Matic](https://screencast-o-matic.com/)
+- [Screenity](https://screenity.io/en/) — The free and privacy-friendly screen recorder
+- [Screenize](https://syi0808.github.io/screenize/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/syi0808/screenize) — Open Source Screen Recording for macOS
+- [screenpipe](https://screenpi.pe/)
+- [ScreenToGif](https://www.screentogif.com/)
+- [SeaDve/Kooha](https://github.com/SeaDve/Kooha) — Elegantly record your screen
+- [ShareX](https://getsharex.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/ShareX/ShareX) — screenshot tool for Windows
+- [SimpleScreenRecorder](https://www.maartenbaert.be/simplescreenrecorder/) — Maarten Baert
+- [Streamlabs](https://streamlabs.com/)
+- [stronnag/wayfarer](https://github.com/stronnag/wayfarer) — screen recorder for GNOME / Wayland / pipewire
+- [tamnguyenvan/screenarc · GitHub](https://github.com/tamnguyenvan/screenarc)
+- [Video Capture](https://www.nchsoftware.com/capture/index.html)
+- [VideoSolo](https://www.videosolo.com/)
+- [Virtualdub.org](https://virtualdub.org/)
+- [vkohaupt/vokoscreenNG](https://github.com/vkohaupt/vokoscreenNG)
+- [Vokoscreen](https://linuxecke.volkoh.de/vokoscreen/vokoscreen.html) — Screencasts for Windows and Linux
+- [xlmnxp/blue-recorder · GitHub](https://github.com/xlmnxp/blue-recorder)
+- [Xsplit](https://xsplit.com/)
+
+#### Screen Mirroring
+- ⭐ **[Genymobile/scrcpy · GitHub](https://github.com/genymobile/scrcpy/)**
+- ⭐ **[spacedesk](https://www.spacedesk.net/)** — Multi Monitor App | Virtual Display Screen
+- [AnyMirror](https://anymirror.imobie.com/)
+- [LetsView](https://letsview.com/) — Free Wireless Screen Mirroring App
+- [Macro Deck](https://macrodeck.org/)
+- [MyPhoneExplorer](https://www.fjsoft.at/en/)
+- [OpenDisplay](https://opendisplay.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/peetzweg/opendisplay) — free, open-source Sidecar/Duet alternative
+- [Screen Mirror](https://alfacast.net/)
+- [Soduto](https://soduto.com/)
+- [Tab Display](https://tab-display.enfpdev.com/en)
+- [Touch Portal](https://www.touch-portal.com/) — Remote macro control deck
+- [tranvuongquocdat/SideScreen](https://github.com/tranvuongquocdat/SideScreen)
+- [Unified Remote](https://www.unifiedremote.com/) — Remote Control App for your Computer
+- [Vysor.io](https://www.vysor.io/)
+- [Wormhole](https://er.run/) — Browse & Control phone on PC
+
+#### Terminal Recorder
+- ⭐ **[Asciinema.org](https://asciinema.org/)** — record and share terminal sessions
+- [ttyd](https://tsl0922.github.io/ttyd/) — Share your terminal over the web
+
+#### Web Recorder
+- [Audials](https://audials.com/en/home) — Best Streaming Recorder and AI Enhancer
+- [Recordscreen.io](https://recordscreen.io/)
+- [Rewind Live](https://rewindlive.app/) — Automatically Record Instagram Live Videos on Android and IOS
+- [ScreenApp](https://screenapp.io/#/)
+- [Vento](https://vento.so/new)
+
+### Subtitles
+- [Linglass](https://linglass.app/) — Dual subtitles, YouTube + Netflix
+
+#### Subtitles Editor
+- [Advanced Subtitle Editor](https://aegisub.org/)
+- [Aegisub/Aegisub · GitHub](https://github.com/Aegisub/Aegisub)
+- [Amara](https://amara.org/) — Award-winning Subtitle Editor and Enterprise Offerings
+- [Gaupol Subtitle Editor](https://otsaloma.io/gaupol/)
+- [kitone/subtitleeditor · GitHub](https://github.com/kitone/subtitleeditor)
+- [MKVToolNix](https://mkvtoolnix.download/)
+- [Nikse.dk](https://www.nikse.dk/subtitleedit)
+- [Overcaption](https://overcaption.com/) — the free offline subtitle studio for Mac and Windows
+- [QNapi](https://qnapi.github.io/)
+- [SubRip](https://sourceforge.net/projects/subrip/)
+- [Substital](https://substital.com/)
+- [SubtitleBee](https://subtitlebee.com/) — 95% Accurate AI generated Subtitles
+- [SubtitleComposer · GitHub](https://github.com/maxrd2/subtitlecomposer)
+- [SubtitleEdit/subtitleedit · GitHub](https://github.com/SubtitleEdit/subtitleedit)
+- [Zubtitle](https://zubtitle.com/) — Add Subtitles to Videos & Edit Videos Online
+
+#### Subtitles Generator
+- [abb128/LiveCaptions · GitHub](https://github.com/abb128/LiveCaptions)
+- [absadiki/subsai](https://github.com/absadiki/subsai) — 🎞️ Subtitles generation tool (Web-UI + CLI + Python package) powered by OpenAI's Whisper and its variants 🎞️
+- [AnyDub](https://anydub.pro/) — Real-time Translation for Any Video & Live Meeting
+- [Danily07/Translumo](https://github.com/Danily07/Translumo) — Advanced real-time screen translator
+- [FreeSubtitles.ai](https://freesubtitles.ai/)
+- [Seagull · Subtitles for everything](https://getseagull.com/)
+
+### VFX Editor
+- [After Effects](https://www.adobe.com/products/aftereffects.html) — Adobe
+- [Boris FX](https://borisfx.com/)
+- [ButtleOFX](https://buttleofx.wordpress.com/)
+- [Flowframes](https://nmkd.itch.io/flowframes) — Fast Video Interpolation for any GPU by N00MKRAD
+- [Fusion 17](https://www.blackmagicdesign.com/products/fusion/) — Blackmagic Design
+- [Gyroflow v1.6.3 is out!](https://gyroflow.xyz/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/gyroflow/gyroflow)
+- [HitFilm Pro](https://fxhome.com/product/hitfilm-pro) — FXhome
+- [JangaFX](https://jangafx.com/) — Real-Time VFX Software
+- [Media entertainment](https://www.autodesk.com/industry/media-entertainment) — Autodesk
+- [Natron](https://natrongithub.github.io/)
+- [Notch.one](https://www.notch.one/)
+- [Nuke](https://www.foundry.com/products/nuke) — Foundry
+- [Picture Pulse](https://picture-pulse.sellfy.store/)
+- [Rebaslight](https://www.rebaslight.com/)
+- [Smoke](https://www.autodesk.com/products/smoke/overview) — Autodesk
+- [Talos VFX](https://talosvfx.com/)
+- [TimelineFX](http://www.rigzsoft.co.uk/timelinefx-particle-effects-editor/)
+- [VFX Reference Platform](https://vfxplatform.com/)
+- [Wax](https://www.debugmode.com/wax/) — Debugmode
+
+### Video Client
+- ⭐ **[Alex313031/quark-player](https://github.com/Alex313031/quark-player)** — An Electron based Web Video Services Player, supporting Netflix, Youtube, Twitch, Floatplane, Hulu and More!
+- ⭐ **[Grayjay](https://grayjay.app/)** — Follow Creators, Not Platforms
+- ⭐ **[PlayTorrio](https://playtorrio.xyz/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/ayman708-UX/PlayTorrioV2) — Open-Source by Ayman
+- ⭐ **[Stremio](https://www.stremio.com/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/stremio) — Freedom to Stream
+- [AbleMusic](https://uditkarode.github.io/able/)
+- [Atlas for Windows](https://atlas.hls.lol/)
+- [Benexl/yt-x](https://github.com/Benexl/yt-x) — Browse youtube from your terminal
+- [cuynu/ytvanced · GitHub](https://github.com/cuynu/ytvanced)
+- [Delfin](https://delfin.avery.cafe/) — Jellyfin client
+- [Fly Stream](https://flystream.net/) — Free Movies & TV, No Login
+- [jellyfin/jellyfin-mpv-shim · GitHub](https://github.com/jellyfin/jellyfin-mpv-shim)
+- [Leonflix](https://leonflix.net/)
+- [mu-fazil-vk/FluxTube · GitHub](https://github.com/mu-fazil-vk/FluxTube)
+- [MultiViewer](https://multiviewer.app/) — Watch F1 and More With Onboards and Live Timing
+- [Nuvio](https://nuvio.tv/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/NuvioMedia) — Media Hub
+- [PikaShow](https://pikashows.com/)
+- [pystardust/ani-cli](https://github.com/pystardust/ani-cli) — A cli tool to browse and play anime
+- [pystardust/ytfzf · GitHub](https://github.com/pystardust/ytfzf)
+- [ReVanced](https://revancedapp.netlify.app/)
+- [revanced/revanced-manager · GitHub](https://github.com/revanced/revanced-manager)
+- [RiMusic](https://rimusic.xyz/)
+- [SkyTube](https://skytube-app.com/)
+- [SkyTubeTeam/SkyTube](https://github.com/SkyTubeTeam/SkyTube) — Copylefted libre / open source YouTube player for Android
+- [SongTube-App · GitHub](https://github.com/SongTube/SongTube-App)
+- [TeamVanced/VancedMicroG · GitHub](https://github.com/TeamVanced/VancedMicroG)
+- [trizen/youtube-viewer · GItHub](https://github.com/trizen/youtube-viewer)
+- [uYou+ · GitHub](https://github.com/qnblackcat/uYouPlus)
+- [vfsfitvnm/ViMusic · GitHub](https://github.com/vfsfitvnm/ViMusic)
+- [WiiFin](https://wiifin.zipna.me/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/fabienmillet/WiiFin)
+- [Zenda-Cross/vega-app · GitHub](https://github.com/Zenda-Cross/vega-app)
+
+#### IPTV Player
+- ⭐ **[FORMULER](https://www.formuler.tv/mytvonline-plus)** — MYTVOnline+ IPTV Player
+- ⭐ **[Fredolx/open-tv](https://github.com/fredolx/open-tv)** — Ultra-fast, simple and powerful cross-platform IPTV app
+- ⭐ **[IPTV Expert](https://www.iptv-smarters-expert.app/)** — The Ultimate IPTV Player Experience
+- ⭐ **[IPTV Extreme Playlists Portal](https://iptvextreme.eu/)**
+- ⭐ **[IPTVnator · GitHub](https://github.com/4gray/iptvnator)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/4gray/iptvnator)
+- ⭐ **[linuxmint/hypnotix](https://github.com/linuxmint/hypnotix)** — An M3U IPTV Player
+- ⭐ **[Televizo](https://televizo.net/)**
+- ⭐ **[TiviMate IPTV Player](https://tivimate.com/)**
+- ⭐ **[UHF](https://www.uhfapp.com/)** — Love your IPTV
+- ⭐ **[Zen IPTV](https://zeniptv.app/)**
+- [7-USH/TeVe](https://github.com/7-USH/TeVe) — A cross platform free IPTv player developed for Android/IOS
+- [Ellipto IPTV](https://elliptoiptv.vercel.app/)
+- [Flix IPTV](https://flixiptvpro.net/) — Stream on Android & iOS, Anywhere
+- [Fredolx/fred-tv-mobile](https://github.com/Fredolx/fred-tv-mobile) — Fred TV for Android and iOS
+- [Free Online M3U8 and HLS Player](https://anym3u8player.com/)
+- [GSE IPTV Player](https://www.smartplayer.info/)
+- [GSE SMART IPTV](https://gsesmartiptv.com/) — Advanced IPTV solutions for IOS , ANDROID and mobile devices
+- [IBO Player](https://iboplayer.com/) — Premium media player
+- [iMPlayer TV IPTV Player](https://play.google.com/store/apps/details?id=com.myiptvonline.implayer&hl=en) — Apps on Google Play
+- [IP-TV Player Remote](https://iptvremote.blogspot.com/?m=1)
+- [IPTV Player](https://iptvpls.tv/) — Stream Everything Anywhere
+- [IPTV Player](https://iptvplayer.stream/) — HLS & M3U Player (Play M3U8)
+- [IPTV Player Live](https://iptv-live.zanapps.com/) — M3U & Xtream
+- [IPTV Smart Player Pro](https://play.google.com/store/apps/details?id=com.iptv.smart.smarters.player.stream.tv.live.watch.streaming.chromecast) — Apps on Google Play
+- [IPTV Smart Player](https://play.google.com/store/apps/details?id=com.axxelapp.iptvplayer) — LiveTV 4K"
+- [IPTV Smarters Pro](https://www.iptvsmarters.com/)
+- [IPTV Smarters Pro Player on the Firestick, Android & IOS](https://iptvsmarterpro.app/)
+- [IPTV Stream Solutions](https://iptvstreamsolutions.com/)
+- [IPTV Streamer](https://www.iptvstreamer.com/)
+- [IPTV Web Browser Player](https://pleyr.net/en)
+- [IPTVnator](https://4gray.github.io/iptvnator/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/4gray/iptvnator) — Open Source IPTV Player
+- [Jetpack IPTV](https://play.google.com/store/apps/details?id=com.jetpack.iptv&hl=en) — Live TV player - Apps on Google Play
+- [KgTv Player](https://www.kgtv.tk/)
+- [kodi-pvr/pvr.iptvsimple](https://github.com/kodi-pvr/pvr.iptvsimple) — IPTV Simple client for Kodi PVR
+- [LumoraPlayer/Lumora](https://github.com/LumoraPlayer/Lumora/) — Native Kotlin IPTV & media client for Android, Android TV, Fire TV and Android Auto (parked). Xtream Codes, M3U, Stalker Portal, Jellyfin and Plex merged into one D-pad UI, extended by plugins and Stremio addons. Views/XML, no Compose.
+- [M3U IPTV](https://m3u-ip.tv/)
+- [MediathekViewWeb](https://mediathekviewweb.de/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/mediathekview/mediathekviewweb)
+- [Megacubo](https://megacubo.tv/en/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/EdenwareApps/Megacubo) — Watch live TV over Internet
+- [mfat/tvhplayer](https://github.com/mfat/tvhplayer) — Desktop client for Tvheadend. Watch and record live TV on your PC.
+- [movistartv](https://sourceforge.net/projects/movistartv/) — Sourceforge
+- [Multiviewer.TV](https://mv.iptvx.info/) — Simple Monitoring Solution
+- [MXPlayer](https://apps.mxplayer.in/)
+- [MyTV](https://mytv.best/) — A Smarter Way To Watch TV
+- [Oliaviz](https://oliaviz.com/) — Unlimited Screens, Unlimited Possibilities
+- [oxyroid/M3UAndroid · GitHub](https://github.com/oxyroid/M3UAndroid)
+- [Perfect Player IPTV](https://perfectplayeriptv.com/app/)
+- [‎Probox Plus App](https://apps.apple.com/us/app/probox-plus/id6758825720) — App Store
+- [Purple Smart TV](https://purplesmarttv.com/) — IPTV App Development for Your Business
+- [PVR Live](https://sites.google.com/view/pvrlive/xtream-codes?authuser=0) — Xtream Codes
+- [Roshan-R/termv](https://github.com/Roshan-R/termv) — A terminal iptv player written in bash
+- [Smart One](https://smartone-iptv.com/) — Best IPTV Player for Smart TVs
+- [Smarters IPTV Pro](https://www.smartersproapp.com/)
+- [Smarters Player Lite](https://smartersplayerlite.app/) — Download App on the Official Website
+- [Smarters Pro](http://webtv-new.iptvsmarters.com/)
+- [Smarters Pro](https://smarterspro.com/) — The Ultimate OTT & Media Player for All Devices
+- [Snappier IPTV](https://snappieriptv.app/) — Watch Live TV or VOD
+- [Spectati](https://spectati.com/) — Plex, Jellyfin & IPTV Player for Apple TV
+- [Streamtest.in](https://streamtest.in/)
+- [Swiptv](https://www.swiptv.app/) — IPTV Smart Player for iPhone, Apple TV, Mac and iPad
+- [TDT Spain](https://www.tdtspain.com/) — Tu TV en Android
+- [TIVI player](https://tiviplayer.io/) — IPTV Test & Free IPTV Trial App
+- [tonywagner/EPlusTV](https://github.com/tonywagner/EPlusTV) — Virtual linear channels for various providers
+- [Tunarr](https://tunarr.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/chrisbenincasa/tunarr)
+- [TV-Browser](https://www.tvbrowser.org/)
+- [Universof IPTV](https://universof.com/descargas/uni.apk)
+- [vexorian/dizquetv · GitHub](https://github.com/vexorian/dizquetv)
+- [VidGrid](https://vidgrid.tk.gg/)
+- [VU IPTV Player](https://vuiptvplayer.com/) — Best IPTV Player
+- [Watch Live TV](https://www.watchtvplayer.pro/) — Best Streaming Experience
+- [WebTV Player](http://webtv.iptvsmarters.com/switchuser.php)
+- [Wizju](https://wizju.com/) — Best IPTV Player
+- [XCIPTV Player Ultra Stream](https://xciptvultra.com/)
+- [XCIPTV Smart Player](https://xciptvsmartplayer.com/)
+- [ynotv](https://tbeezy.github.io/ynotvdoc/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/tbeezy/ynotv/) — Modern FOSS Windows IPTV Player w/ Stremio & Nuvio integration
+- [yuki-iptv](https://codeberg.org/liya/yuki-iptv)
+
+#### YouTube Client
+- ⭐ **[LibreTube](https://libretube.dev/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/libre-tube/LibreTube)
+- ⭐ **[pear-devs/pear-desktop · GitHub](https://github.com/th-ch/youtube-music)**
+- [Metrolist](https://metrolist.meowery.eu/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/MetrolistGroup/Metrolist) — YouTube Music Client
+- [NewPipe](https://newpipe.net/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/TeamNewPipe/NewPipe/) — a free YouTube client
+- [nonbili/NouTube](https://github.com/nonbili/NouTube) — YouTube and YouTube Music in a single app. No ads, plays in the background.
+- [PipePipe](https://pipepipe.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/InfinityLoop1308/PipePipe) — An open-source Android app to let you browse YouTube, NicoNico and BiliBili freely
+- [PlasmaTube](https://apps.kde.org/plasmatube/) / [🔗](https://invent.kde.org/multimedia/plasmatube)
+- [reisxd/TizenTubeCobalt](https://github.com/reisxd/TizenTubeCobalt) — Experience TizenTube on other devices that are not Tizen.
+- [Schmiddi on Mobile / Pipeline · GitLab](https://gitlab.com/schmiddi-on-mobile/pipeline)
+- [SmartTube](https://smarttubeapp.github.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/yuliskov/SmartTube)
+- [SongTube](https://songtube.github.io/)
+- [sozercan/kaset](https://github.com/sozercan/kaset) — 📻 The missing YouTube Music macOS app
+- [TizenTube](https://tizentube.6513006.xyz/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/reisxd/TizenTube) — Ad-free experience on your Samsung TV
+- [Tubefeeder/Pipeline · GitHub](https://github.com/Tubefeeder/Pipeline)
+- [VueTubeApp/VueTube · GitHub](https://github.com/VueTubeApp/VueTube)
+- [yattee/yattee · GitHub](https://github.com/yattee/yattee)
+- [YMusic.io](https://ymusic.io/)
+- [YouTube Vanced](https://vancedapp.com/)
+- [YTLitePlus](https://ytliteplus.github.io/) — Supercharge Your YouTube Experience
+- [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) — A Desktop App for YouTube Music
+- [YTVanced/VancedManager · GitHub](https://web.archive.org/web/20220314023807/https://github.com/YTVanced/VancedManager)
 
 ### Video Editor
 - ⭐ **[DaVinci Resolve 16](https://www.blackmagicdesign.com/products/davinciresolve)** — BlackMagicDesign
@@ -1972,6 +2339,29 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [Khaleel Al-Adhami / Footage · GitLab](https://gitlab.com/adhami3310/Footage)
 - [Vdcutter](https://github.com/ozmartian/vidcutter)
 
+### Video Library Manager
+- ⭐ **[EMDB](https://www.emdb.eu/)** — Eric's Movie Database
+- ⭐ **[Porn-vault · GitLab](https://gitlab.com/porn-vault/porn-vault)**
+- ⭐ **[Stash](https://github.com/stashapp/stash)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/stashapp/stash) — Organizer video
+- ⭐ **[VideoHub App](https://videohubapp.com/en/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/whyboris/Video-Hub-App)
+- [All My Movies](https://www.bolidesoft.com/allmymovies.html)
+- [Coollector Movie Database](https://www.coollector.com/)
+- [eXtreme Movie Manager](http://www.binaryworks.it/extrememoviemanager/index.aspx)
+- [Filmotech](http://www.filmotech.info/)
+- [fupdec/mediaChips · GitHub](https://github.com/fupdec/mediachips)
+- [GCstar, personal collections manager](https://gitlab.com/GCstar/GCstar)
+- [Hydrus network](https://hydrusnetwork.github.io/hydrus/index.html)
+- [Kino](https://kino.ai/) — The new home for video editors
+- [MeD's Movie Manager](http://xmm.sourceforge.net/)
+- [MediaChips](https://mediachips.app/)
+- [Movienizer](https://www.movienizer.com/)
+- [Numento 2](https://www.numento.com/en/index.html)
+- [Pornspectve](https://pornspective.org/) — collection organiser
+- [Tonkatsu Box](https://hacan359.github.io/tonkatsu_box/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/hacan359/tonkatsu_box) — Organize Games, Movies, TV Shows & Anime Collections
+- [Vee-Hive](https://www.vee-hive.net/)
+- [Video Peek](https://roundbit.tech/) — Roundbit
+- [WirelessAlien/MovieDB · GitHub](https://github.com/WirelessAlien/MovieDB?tab=readme-ov-file#screenshots)
+
 ### Video Player
 - ⭐ **[LordKnish/StreamGrid](https://github.com/LordKnish/StreamGrid)** — Your Streams, Your Layout, Your Way. StreamGrid lets you customize multi-stream layouts with drag-and-drop ease. Perfect for streamers, esports, and multi-angle viewing. Cross-platform support for Windows, macOS, and Linux.
 - ⭐ **[mpv.io](https://mpv.io/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/mpv-player/mpv)
@@ -2023,396 +2413,6 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [Pion.ly](https://pion.ly/)
 - [video-dev/hls.js · GitHub](https://github.com/video-dev/hls.js)
 - [Zulko/moviepy · GitHub](https://github.com/Zulko/moviepy)
-
-### Screen Recorder
-- ⭐ **[gpu-screen-recorder](https://git.dec05eba.com/gpu-screen-recorder/about/)** — A shadowplay-like screen recorder for Linux
-- ⭐ **[Open Broadcaster Software](https://obsproject.com/)** — OBS
-- [Acethinker](https://www.acethinker.com/)
-- [Action!](https://mirillis.com/es/productos/action-grabacion-de-pantalla-y-videojuegos.html)
-- [amikha1lov/RecApp · GitHub](https://github.com/amikha1lov/RecApp)
-- [ammen99/wf-recorder · GitHub](https://github.com/ammen99/wf-recorder)
-- [Atomi systems](https://atomisystems.com/)
-- [AutoZoom](https://autozoom.app/) — Best AI Screen Recorder with Auto-Zoom
-- [BetterCapture](https://jsattler.github.io/BetterCapture/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/jsattler/BetterCapture) — Free Screen Recorder for Mac | Open Source, No Watermark
-- [Cap](https://cap.so/) — Effortless, instant screen sharing. Open source and cross-platform
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) — Your CLI home video recorder 📼
-- [Chrome Tab Audio Recorder](https://soundstreamcapture.com/) — MP3/WAV, Free
-- [Dixper](https://dixper.gg/home)
-- [droplr](https://droplr.com/)
-- [DU Recorder](https://www.du-recorder.com/)
-- [Enselic/recordmydesktop · GitHub](https://github.com/Enselic/recordmydesktop/)
-- [FlashBack recorder](https://www.flashbackrecorder.com/)
-- [FRAPS](https://www.fraps.com/) — show fps, record video game movies, screen capture software
-- [Free Recorder](https://freerecorders.com/)
-- [Gamecaster](https://gamecaster.com/)
-- [Kap](https://getkap.co/) — Capture your screen
-- [Kazam](https://github.com/hzbd/kazam)
-- [Medal](https://medal.tv/) — Clip, Edit, and Share Your Game Clips & Gameplay
-- [Mirillis](https://mirillis.com/)
-- [Motionik](https://motionik.com/)
-- [MythTV, Open Source DVR](https://www.mythtv.org/)
-- [Open Screen](https://openscreen.vercel.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/siddharthvaddem/openscreen)
-- [Phia](https://www.phia.app/) — Designed to be seen
-- [phw/peek](https://github.com/phw/peek) — Simple animated GIF screen recorder with an easy to use interface
-- [PlayOn](https://www.playon.tv/)
-- [QPrompt App](https://qprompt.app/)
-- [RecordMyDesktop](http://recordmydesktop.sourceforge.net/about.php)
-- [recordMyDesktop](https://enselic.github.io/recordmydesktop/)
-- [Reframed](https://www.reframed.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/jkuri/Reframed) — Screen Recording & Video Editor for macOS
-- [russelltg/wl-screenrec](https://github.com/russelltg/wl-screenrec) — High performance wlroots screen recording, featuring hardware encoding
-- [Screen Studio](https://screen.studio/) — Professional screen recorder for macOS
-- [Screencast-O-Matic](https://screencast-o-matic.com/)
-- [Screenity](https://screenity.io/en/) — The free and privacy-friendly screen recorder
-- [Screenize](https://syi0808.github.io/screenize/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/syi0808/screenize) — Open Source Screen Recording for macOS
-- [screenpipe](https://screenpi.pe/)
-- [ScreenToGif](https://www.screentogif.com/)
-- [SeaDve/Kooha](https://github.com/SeaDve/Kooha) — Elegantly record your screen
-- [ShareX](https://getsharex.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/ShareX/ShareX) — screenshot tool for Windows
-- [SimpleScreenRecorder](https://www.maartenbaert.be/simplescreenrecorder/) — Maarten Baert
-- [Streamlabs](https://streamlabs.com/)
-- [stronnag/wayfarer](https://github.com/stronnag/wayfarer) — screen recorder for GNOME / Wayland / pipewire
-- [tamnguyenvan/screenarc · GitHub](https://github.com/tamnguyenvan/screenarc)
-- [Video Capture](https://www.nchsoftware.com/capture/index.html)
-- [VideoSolo](https://www.videosolo.com/)
-- [Virtualdub.org](https://virtualdub.org/)
-- [vkohaupt/vokoscreenNG](https://github.com/vkohaupt/vokoscreenNG)
-- [Vokoscreen](https://linuxecke.volkoh.de/vokoscreen/vokoscreen.html) — Screencasts for Windows and Linux
-- [xlmnxp/blue-recorder · GitHub](https://github.com/xlmnxp/blue-recorder)
-- [Xsplit](https://xsplit.com/)
-
-#### Web Recorder
-- [Audials](https://audials.com/en/home) — Best Streaming Recorder and AI Enhancer
-- [Recordscreen.io](https://recordscreen.io/)
-- [Rewind Live](https://rewindlive.app/) — Automatically Record Instagram Live Videos on Android and IOS
-- [ScreenApp](https://screenapp.io/#/)
-- [Vento](https://vento.so/new)
-
-#### Terminal Recorder
-- ⭐ **[Asciinema.org](https://asciinema.org/)** — record and share terminal sessions
-- [ttyd](https://tsl0922.github.io/ttyd/) — Share your terminal over the web
-
-#### Screen Mirroring
-- ⭐ **[Genymobile/scrcpy · GitHub](https://github.com/genymobile/scrcpy/)**
-- ⭐ **[spacedesk](https://www.spacedesk.net/)** — Multi Monitor App | Virtual Display Screen
-- [AnyMirror](https://anymirror.imobie.com/)
-- [LetsView](https://letsview.com/) — Free Wireless Screen Mirroring App
-- [Macro Deck](https://macrodeck.org/)
-- [MyPhoneExplorer](https://www.fjsoft.at/en/)
-- [OpenDisplay](https://opendisplay.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/peetzweg/opendisplay) — free, open-source Sidecar/Duet alternative
-- [Screen Mirror](https://alfacast.net/)
-- [Soduto](https://soduto.com/)
-- [Tab Display](https://tab-display.enfpdev.com/en)
-- [Touch Portal](https://www.touch-portal.com/) — Remote macro control deck
-- [tranvuongquocdat/SideScreen](https://github.com/tranvuongquocdat/SideScreen)
-- [Unified Remote](https://www.unifiedremote.com/) — Remote Control App for your Computer
-- [Vysor.io](https://www.vysor.io/)
-- [Wormhole](https://er.run/) — Browse & Control phone on PC
-
-### VFX Editor
-- [After Effects](https://www.adobe.com/products/aftereffects.html) — Adobe
-- [Boris FX](https://borisfx.com/)
-- [ButtleOFX](https://buttleofx.wordpress.com/)
-- [Flowframes](https://nmkd.itch.io/flowframes) — Fast Video Interpolation for any GPU by N00MKRAD
-- [Fusion 17](https://www.blackmagicdesign.com/products/fusion/) — Blackmagic Design
-- [Gyroflow v1.6.3 is out!](https://gyroflow.xyz/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/gyroflow/gyroflow)
-- [HitFilm Pro](https://fxhome.com/product/hitfilm-pro) — FXhome
-- [JangaFX](https://jangafx.com/) — Real-Time VFX Software
-- [Media entertainment](https://www.autodesk.com/industry/media-entertainment) — Autodesk
-- [Natron](https://natrongithub.github.io/)
-- [Notch.one](https://www.notch.one/)
-- [Nuke](https://www.foundry.com/products/nuke) — Foundry
-- [Picture Pulse](https://picture-pulse.sellfy.store/)
-- [Rebaslight](https://www.rebaslight.com/)
-- [Smoke](https://www.autodesk.com/products/smoke/overview) — Autodesk
-- [Talos VFX](https://talosvfx.com/)
-- [TimelineFX](http://www.rigzsoft.co.uk/timelinefx-particle-effects-editor/)
-- [VFX Reference Platform](https://vfxplatform.com/)
-- [Wax](https://www.debugmode.com/wax/) — Debugmode
-
-### Video Client
-- ⭐ **[Alex313031/quark-player](https://github.com/Alex313031/quark-player)** — An Electron based Web Video Services Player, supporting Netflix, Youtube, Twitch, Floatplane, Hulu and More!
-- ⭐ **[Grayjay](https://grayjay.app/)** — Follow Creators, Not Platforms
-- ⭐ **[PlayTorrio](https://playtorrio.xyz/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/ayman708-UX/PlayTorrioV2) — Open-Source by Ayman
-- ⭐ **[Stremio](https://www.stremio.com/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/stremio) — Freedom to Stream
-- [AbleMusic](https://uditkarode.github.io/able/)
-- [Atlas for Windows](https://atlas.hls.lol/)
-- [Benexl/yt-x](https://github.com/Benexl/yt-x) — Browse youtube from your terminal
-- [cuynu/ytvanced · GitHub](https://github.com/cuynu/ytvanced)
-- [Delfin](https://delfin.avery.cafe/) — Jellyfin client
-- [Fly Stream](https://flystream.net/) — Free Movies & TV, No Login
-- [jellyfin/jellyfin-mpv-shim · GitHub](https://github.com/jellyfin/jellyfin-mpv-shim)
-- [Leonflix](https://leonflix.net/)
-- [mu-fazil-vk/FluxTube · GitHub](https://github.com/mu-fazil-vk/FluxTube)
-- [MultiViewer](https://multiviewer.app/) — Watch F1 and More With Onboards and Live Timing
-- [Nuvio](https://nuvio.tv/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/NuvioMedia) — Media Hub
-- [PikaShow](https://pikashows.com/)
-- [pystardust/ani-cli](https://github.com/pystardust/ani-cli) — A cli tool to browse and play anime
-- [pystardust/ytfzf · GitHub](https://github.com/pystardust/ytfzf)
-- [ReVanced](https://revancedapp.netlify.app/)
-- [revanced/revanced-manager · GitHub](https://github.com/revanced/revanced-manager)
-- [RiMusic](https://rimusic.xyz/)
-- [SkyTube](https://skytube-app.com/)
-- [SkyTubeTeam/SkyTube](https://github.com/SkyTubeTeam/SkyTube) — Copylefted libre / open source YouTube player for Android
-- [SongTube-App · GitHub](https://github.com/SongTube/SongTube-App)
-- [TeamVanced/VancedMicroG · GitHub](https://github.com/TeamVanced/VancedMicroG)
-- [trizen/youtube-viewer · GItHub](https://github.com/trizen/youtube-viewer)
-- [uYou+ · GitHub](https://github.com/qnblackcat/uYouPlus)
-- [vfsfitvnm/ViMusic · GitHub](https://github.com/vfsfitvnm/ViMusic)
-- [WiiFin](https://wiifin.zipna.me/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/fabienmillet/WiiFin)
-- [Zenda-Cross/vega-app · GitHub](https://github.com/Zenda-Cross/vega-app)
-
-#### YouTube Client
-- ⭐ **[LibreTube](https://libretube.dev/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/libre-tube/LibreTube)
-- ⭐ **[pear-devs/pear-desktop · GitHub](https://github.com/th-ch/youtube-music)**
-- [Metrolist](https://metrolist.meowery.eu/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/MetrolistGroup/Metrolist) — YouTube Music Client
-- [NewPipe](https://newpipe.net/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/TeamNewPipe/NewPipe/) — a free YouTube client
-- [nonbili/NouTube](https://github.com/nonbili/NouTube) — YouTube and YouTube Music in a single app. No ads, plays in the background.
-- [PipePipe](https://pipepipe.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/InfinityLoop1308/PipePipe) — An open-source Android app to let you browse YouTube, NicoNico and BiliBili freely
-- [PlasmaTube](https://apps.kde.org/plasmatube/) / [🔗](https://invent.kde.org/multimedia/plasmatube)
-- [reisxd/TizenTubeCobalt](https://github.com/reisxd/TizenTubeCobalt) — Experience TizenTube on other devices that are not Tizen.
-- [Schmiddi on Mobile / Pipeline · GitLab](https://gitlab.com/schmiddi-on-mobile/pipeline)
-- [SmartTube](https://smarttubeapp.github.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/yuliskov/SmartTube)
-- [SongTube](https://songtube.github.io/)
-- [sozercan/kaset](https://github.com/sozercan/kaset) — 📻 The missing YouTube Music macOS app
-- [TizenTube](https://tizentube.6513006.xyz/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/reisxd/TizenTube) — Ad-free experience on your Samsung TV
-- [Tubefeeder/Pipeline · GitHub](https://github.com/Tubefeeder/Pipeline)
-- [VueTubeApp/VueTube · GitHub](https://github.com/VueTubeApp/VueTube)
-- [yattee/yattee · GitHub](https://github.com/yattee/yattee)
-- [YMusic.io](https://ymusic.io/)
-- [YouTube Vanced](https://vancedapp.com/)
-- [YTLitePlus](https://ytliteplus.github.io/) — Supercharge Your YouTube Experience
-- [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) — A Desktop App for YouTube Music
-- [YTVanced/VancedManager · GitHub](https://web.archive.org/web/20220314023807/https://github.com/YTVanced/VancedManager)
-
-#### IPTV Player
-- ⭐ **[FORMULER](https://www.formuler.tv/mytvonline-plus)** — MYTVOnline+ IPTV Player
-- ⭐ **[Fredolx/open-tv](https://github.com/fredolx/open-tv)** — Ultra-fast, simple and powerful cross-platform IPTV app
-- ⭐ **[IPTV Expert](https://www.iptv-smarters-expert.app/)** — The Ultimate IPTV Player Experience
-- ⭐ **[IPTV Extreme Playlists Portal](https://iptvextreme.eu/)**
-- ⭐ **[IPTVnator · GitHub](https://github.com/4gray/iptvnator)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/4gray/iptvnator)
-- ⭐ **[linuxmint/hypnotix](https://github.com/linuxmint/hypnotix)** — An M3U IPTV Player
-- ⭐ **[Televizo](https://televizo.net/)**
-- ⭐ **[TiviMate IPTV Player](https://tivimate.com/)**
-- ⭐ **[UHF](https://www.uhfapp.com/)** — Love your IPTV
-- ⭐ **[Zen IPTV](https://zeniptv.app/)**
-- [7-USH/TeVe](https://github.com/7-USH/TeVe) — A cross platform free IPTv player developed for Android/IOS
-- [Ellipto IPTV](https://elliptoiptv.vercel.app/)
-- [Flix IPTV](https://flixiptvpro.net/) — Stream on Android & iOS, Anywhere
-- [Fredolx/fred-tv-mobile](https://github.com/Fredolx/fred-tv-mobile) — Fred TV for Android and iOS
-- [Free Online M3U8 and HLS Player](https://anym3u8player.com/)
-- [GSE IPTV Player](https://www.smartplayer.info/)
-- [GSE SMART IPTV](https://gsesmartiptv.com/) — Advanced IPTV solutions for IOS , ANDROID and mobile devices
-- [IBO Player](https://iboplayer.com/) — Premium media player
-- [iMPlayer TV IPTV Player](https://play.google.com/store/apps/details?id=com.myiptvonline.implayer&hl=en) — Apps on Google Play
-- [IP-TV Player Remote](https://iptvremote.blogspot.com/?m=1)
-- [IPTV Player](https://iptvpls.tv/) — Stream Everything Anywhere
-- [IPTV Player](https://iptvplayer.stream/) — HLS & M3U Player (Play M3U8)
-- [IPTV Player Live](https://iptv-live.zanapps.com/) — M3U & Xtream
-- [IPTV Smart Player Pro](https://play.google.com/store/apps/details?id=com.iptv.smart.smarters.player.stream.tv.live.watch.streaming.chromecast) — Apps on Google Play
-- [IPTV Smart Player](https://play.google.com/store/apps/details?id=com.axxelapp.iptvplayer) — LiveTV 4K"
-- [IPTV Smarters Pro](https://www.iptvsmarters.com/)
-- [IPTV Smarters Pro Player on the Firestick, Android & IOS](https://iptvsmarterpro.app/)
-- [IPTV Stream Solutions](https://iptvstreamsolutions.com/)
-- [IPTV Streamer](https://www.iptvstreamer.com/)
-- [IPTV Web Browser Player](https://pleyr.net/en)
-- [IPTVnator](https://4gray.github.io/iptvnator/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/4gray/iptvnator) — Open Source IPTV Player
-- [Jetpack IPTV](https://play.google.com/store/apps/details?id=com.jetpack.iptv&hl=en) — Live TV player - Apps on Google Play
-- [KgTv Player](https://www.kgtv.tk/)
-- [kodi-pvr/pvr.iptvsimple](https://github.com/kodi-pvr/pvr.iptvsimple) — IPTV Simple client for Kodi PVR
-- [LumoraPlayer/Lumora](https://github.com/LumoraPlayer/Lumora/) — Native Kotlin IPTV & media client for Android, Android TV, Fire TV and Android Auto (parked). Xtream Codes, M3U, Stalker Portal, Jellyfin and Plex merged into one D-pad UI, extended by plugins and Stremio addons. Views/XML, no Compose.
-- [M3U IPTV](https://m3u-ip.tv/)
-- [MediathekViewWeb](https://mediathekviewweb.de/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/mediathekview/mediathekviewweb)
-- [Megacubo](https://megacubo.tv/en/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/EdenwareApps/Megacubo) — Watch live TV over Internet
-- [mfat/tvhplayer](https://github.com/mfat/tvhplayer) — Desktop client for Tvheadend. Watch and record live TV on your PC.
-- [movistartv](https://sourceforge.net/projects/movistartv/) — Sourceforge
-- [Multiviewer.TV](https://mv.iptvx.info/) — Simple Monitoring Solution
-- [MXPlayer](https://apps.mxplayer.in/)
-- [MyTV](https://mytv.best/) — A Smarter Way To Watch TV
-- [Oliaviz](https://oliaviz.com/) — Unlimited Screens, Unlimited Possibilities
-- [oxyroid/M3UAndroid · GitHub](https://github.com/oxyroid/M3UAndroid)
-- [Perfect Player IPTV](https://perfectplayeriptv.com/app/)
-- [‎Probox Plus App](https://apps.apple.com/us/app/probox-plus/id6758825720) — App Store
-- [Purple Smart TV](https://purplesmarttv.com/) — IPTV App Development for Your Business
-- [PVR Live](https://sites.google.com/view/pvrlive/xtream-codes?authuser=0) — Xtream Codes
-- [Roshan-R/termv](https://github.com/Roshan-R/termv) — A terminal iptv player written in bash
-- [Smart One](https://smartone-iptv.com/) — Best IPTV Player for Smart TVs
-- [Smarters IPTV Pro](https://www.smartersproapp.com/)
-- [Smarters Player Lite](https://smartersplayerlite.app/) — Download App on the Official Website
-- [Smarters Pro](http://webtv-new.iptvsmarters.com/)
-- [Smarters Pro](https://smarterspro.com/) — The Ultimate OTT & Media Player for All Devices
-- [Snappier IPTV](https://snappieriptv.app/) — Watch Live TV or VOD
-- [Spectati](https://spectati.com/) — Plex, Jellyfin & IPTV Player for Apple TV
-- [Streamtest.in](https://streamtest.in/)
-- [Swiptv](https://www.swiptv.app/) — IPTV Smart Player for iPhone, Apple TV, Mac and iPad
-- [TDT Spain](https://www.tdtspain.com/) — Tu TV en Android
-- [TIVI player](https://tiviplayer.io/) — IPTV Test & Free IPTV Trial App
-- [tonywagner/EPlusTV](https://github.com/tonywagner/EPlusTV) — Virtual linear channels for various providers
-- [Tunarr](https://tunarr.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/chrisbenincasa/tunarr)
-- [TV-Browser](https://www.tvbrowser.org/)
-- [Universof IPTV](https://universof.com/descargas/uni.apk)
-- [vexorian/dizquetv · GitHub](https://github.com/vexorian/dizquetv)
-- [VidGrid](https://vidgrid.tk.gg/)
-- [VU IPTV Player](https://vuiptvplayer.com/) — Best IPTV Player
-- [Watch Live TV](https://www.watchtvplayer.pro/) — Best Streaming Experience
-- [WebTV Player](http://webtv.iptvsmarters.com/switchuser.php)
-- [Wizju](https://wizju.com/) — Best IPTV Player
-- [XCIPTV Player Ultra Stream](https://xciptvultra.com/)
-- [XCIPTV Smart Player](https://xciptvsmartplayer.com/)
-- [ynotv](https://tbeezy.github.io/ynotvdoc/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/tbeezy/ynotv/) — Modern FOSS Windows IPTV Player w/ Stremio & Nuvio integration
-- [yuki-iptv](https://codeberg.org/liya/yuki-iptv)
-
-### Subtitles
-- [Linglass](https://linglass.app/) — Dual subtitles, YouTube + Netflix
-
-#### Subtitles Editor
-- [Advanced Subtitle Editor](https://aegisub.org/)
-- [Aegisub/Aegisub · GitHub](https://github.com/Aegisub/Aegisub)
-- [Amara](https://amara.org/) — Award-winning Subtitle Editor and Enterprise Offerings
-- [Gaupol Subtitle Editor](https://otsaloma.io/gaupol/)
-- [kitone/subtitleeditor · GitHub](https://github.com/kitone/subtitleeditor)
-- [MKVToolNix](https://mkvtoolnix.download/)
-- [Nikse.dk](https://www.nikse.dk/subtitleedit)
-- [Overcaption](https://overcaption.com/) — the free offline subtitle studio for Mac and Windows
-- [QNapi](https://qnapi.github.io/)
-- [SubRip](https://sourceforge.net/projects/subrip/)
-- [Substital](https://substital.com/)
-- [SubtitleBee](https://subtitlebee.com/) — 95% Accurate AI generated Subtitles
-- [SubtitleComposer · GitHub](https://github.com/maxrd2/subtitlecomposer)
-- [SubtitleEdit/subtitleedit · GitHub](https://github.com/SubtitleEdit/subtitleedit)
-- [Zubtitle](https://zubtitle.com/) — Add Subtitles to Videos & Edit Videos Online
-
-#### Subtitles Generator
-- [abb128/LiveCaptions · GitHub](https://github.com/abb128/LiveCaptions)
-- [absadiki/subsai](https://github.com/absadiki/subsai) — 🎞️ Subtitles generation tool (Web-UI + CLI + Python package) powered by OpenAI's Whisper and its variants 🎞️
-- [AnyDub](https://anydub.pro/) — Real-time Translation for Any Video & Live Meeting
-- [Danily07/Translumo](https://github.com/Danily07/Translumo) — Advanced real-time screen translator
-- [FreeSubtitles.ai](https://freesubtitles.ai/)
-- [Seagull · Subtitles for everything](https://getseagull.com/)
-
-### Media Server
-- ⭐ **[Emby](https://emby.media/)** — The open media solution
-- ⭐ **[Jellyfin](https://jellyfin.org/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/jellyfin/jellyfin) — The Free Software Media System
-- ⭐ **[Plex.tv](https://www.plex.tv/)** — Stream movies and TV shows
-- [eleven-am/frames](https://github.com/Eleven-am/frames) — Frames is a modern SVOD (Streaming Video on Demand) streaming service built with React and NestJS. It allows you to stream MP4 files from virtually any provider including local storage, S3, Dropbox, Google Drive, and more.
-- [Gerbera](https://gerbera.io/)
-- [Kaleidescape](https://www.kaleidescape.com/) — The Ultimate Movie Platform
-- [Kometa Wiki](https://kometa.wiki/en/latest/#what-can-kometa-do) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Kometa-Team/Kometa)
-- [NextPVR](https://www.nextpvr.com/)
-- [PS3 Media Server](https://www.ps3mediaserver.org/)
-- [PS3 Media Server download](https://sourceforge.net/projects/ps3mediaserver/) — SourceForge.net
-- [ReadyMedia](https://sourceforge.net/projects/minidlna/) — SourceForge
-- [Serviio](https://serviio.org/)
-- [Streama](https://docs.streama-project.com/)
-- [Sunshine](https://app.lizardbyte.dev/Sunshine/) — LizardByte
-- [TVersity Media Server](http://tversity.com/)
-- [Tvheadend.org](https://tvheadend.org/)
-- [Universal Media Server](https://www.universalmediaserver.com/)
-
-### Media Center
-- ⭐ **[Kodi](https://kodi.tv/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/xbmc/xbmc) — Open Source Home Theater Software
-- [Fusion](https://fusionapp.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/qooode/fusion) — Discover, organize, and browse
-- [Jellyfin demo](https://demo.jellyfin.org/stable/web/index.html#!/home.html)
-- [M7](https://apps.movian.eu/) — Media Center
-- [MEDIAPORTAL](https://www.team-mediaportal.com/) — a HTPC Media Center for free!
-- [OSMC](https://osmc.tv/) — Open Source Media Center
-- [TiVo](https://www.tivo.com/)
-
-### Video Library Manager
-- ⭐ **[EMDB](https://www.emdb.eu/)** — Eric's Movie Database
-- ⭐ **[Porn-vault · GitLab](https://gitlab.com/porn-vault/porn-vault)**
-- ⭐ **[Stash](https://github.com/stashapp/stash)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/stashapp/stash) — Organizer video
-- ⭐ **[VideoHub App](https://videohubapp.com/en/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/whyboris/Video-Hub-App)
-- [All My Movies](https://www.bolidesoft.com/allmymovies.html)
-- [Coollector Movie Database](https://www.coollector.com/)
-- [eXtreme Movie Manager](http://www.binaryworks.it/extrememoviemanager/index.aspx)
-- [Filmotech](http://www.filmotech.info/)
-- [fupdec/mediaChips · GitHub](https://github.com/fupdec/mediachips)
-- [GCstar, personal collections manager](https://gitlab.com/GCstar/GCstar)
-- [Hydrus network](https://hydrusnetwork.github.io/hydrus/index.html)
-- [Kino](https://kino.ai/) — The new home for video editors
-- [MeD's Movie Manager](http://xmm.sourceforge.net/)
-- [MediaChips](https://mediachips.app/)
-- [Movienizer](https://www.movienizer.com/)
-- [Numento 2](https://www.numento.com/en/index.html)
-- [Pornspectve](https://pornspective.org/) — collection organiser
-- [Tonkatsu Box](https://hacan359.github.io/tonkatsu_box/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/hacan359/tonkatsu_box) — Organize Games, Movies, TV Shows & Anime Collections
-- [Vee-Hive](https://www.vee-hive.net/)
-- [Video Peek](https://roundbit.tech/) — Roundbit
-- [WirelessAlien/MovieDB · GitHub](https://github.com/WirelessAlien/MovieDB?tab=readme-ov-file#screenshots)
-
-### Camera App
-- [Camera](https://apps.gnome.org/Snapshot/) — Apps for GNOME
-- [Cognitum RuView](https://cognitum.one/ruview) / [![GitHub](/img/software/apps/github.svg)](https://github.com/ruvnet/RuView) — See without cameras
-- [eszdman/PhotonCamera](https://github.com/eszdman/PhotonCamera) — Android Camera that uses Enhanced image processing
-- [Halide Mark II](https://halide.cam/) — Pro. Camera. Action.
-- [Kino](https://www.shotwithkino.com/) — Pro Video Camera for iPhone
-- [mood.camera](https://www.mood.camera/) — iPhone photography with authentic film character
-- [No Fusion Camera](https://www.nofusion.app/en/)
-- [Open Camera](https://opencamera.org.uk/)
-- [Plasma Camera](https://apps.kde.org/plasma.camera/) — KDE
-- [ProCam](https://www.procamapp.com/)
-- [ProShot](https://www.riseupgames.com/proshot) — The best pro camera for Android, iPhone and iPad — Rise Up Games
-- [Windows Camera](https://apps.microsoft.com/detail/9wzdncrfjbbg?hl=en-US&gl=ES) — Free download and install on Windows | Microsoft Store
-
-#### Webcam
-- [anonfaded/FadCam · GitHub](https://github.com/anonfaded/FadCam)
-- [Camera Graph](https://cameragraph.app/)
-- [CamON Live Streaming](https://play.google.com/store/apps/details?id=com.spynet.camon) — Google Play
-- [Dev47Apps](https://www.dev47apps.com/) — Droidcam
-- [DroidCam](https://droidcam.org/) — Webcam for PC
-- [EpocCam](https://www.elgato.com/en/epoccam) — elgato.com
-- [FedeDP/Clight · GitHub](https://github.com/FedeDP/Clight)
-- [FineCam](https://www.fineshare.com/finecam/) — Webcam Software
-- [FreezingCam.com](https://freezingcam.com/)
-- [GTK+ UVC Viewer](https://guvcview.sourceforge.net/)
-- [iGlasses for Mac](https://www.ecamm.com/mac/iglasses/) — Ecamm Network
-- [IP Webcam](https://play.google.com/store/apps/details?id=com.pas.webcam) — Apps on Google Play
-- [Iriun](https://iriun.com/)
-- [iSpy](https://www.ispyconnect.com/) — Open source camera security software
-- [iVCam](https://www.e2esoft.com/ivcam/) — Use mobile phone as a PC webcam
-- [Kamoso](https://apps.kde.org/kamoso/)
-- [Kerberos.io](https://kerberos.io/)
-- [ManyCam](https://manycam.com/) — Live video software & Virtual Webcam
-- [Motion](https://motion-project.github.io/) — Open source security camera software
-- [OWLR](https://owlr.com/)
-- [Photo Mirror](https://photo-mirror.net/)
-- [Reincubate Camo](https://reincubate.com/camo/)
-- [Snap Camera](https://snapcamera.snapchat.com/)
-- [soyersoyer/cameractrls](https://github.com/soyersoyer/cameractrls) — Camera controls for Linux
-- [Webcam Toy](https://webcamtoy.com/)
-- [Webcamoid, The ultimate webcam suite!](https://webcamoid.github.io/)
-- [XSplit Connect](https://play.google.com/store/apps/details?id=com.xsplit.webcam) — Webcam – Google Play
-- [Yawcam](https://yawcam.com/) — Yet Another Webcam Software
-- [ZoneMinder](https://zoneminder.com/)
-
-### Casting & Streaming
-- [Airflow](https://airflow.app/)
-- [AirPlay](https://www.apple.com/airplay/)
-- [AllCast](https://www.allcast.io/) — Send photos and videos to your TV
-- [AnyCast](https://any-cast.com/) — Cast Anything to the Big Screen
-- [AudioRelay](https://audiorelay.net/) — Stream audio between your devices
-- [BubbleUPnP for DLNA / Chromecast / Smart TV](https://bubblesoftapps.com/bubbleupnp/)
-- [Cast](https://developers.google.com/cast/) — Google for Developers
-- [DLNA](https://www.dlna.org/)
-- [EZCast](https://www.ezcast.com/) — Universal wireless screen mirroring solution
-- [FCast](https://fcast.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/futo-org/fcast)
-- [GitHub](https://github.com/eerimoq/moblin) — eerimoq/moblin: Moblin, a free iOS app for IRL streaming
-- [Go2TV](https://go2tv.app/) — Media Casting Made Easy
-- [InstantBits](https://www.webvideocaster.app/home)
-- [jqssun/android-airplay-server](https://github.com/jqssun/android-airplay-server) — First open-source AirPlay receiver implementation for Android with mirroring, video and audio support
-- [LocalCast](https://www.localcast.app/) — Free Media Casting App
-- [Mirrcast Tv](https://mirrcast.com/)
-- [Moonlight Game Streaming](https://moonlight-stream.org/) — Play Your PC Games Remotely
-- [Steam Remote Play](https://store.steampowered.com/remoteplay)
-- [Video & TV Cast](https://video-tv-cast.com/)
-- [VideoStream](https://getvideostream.com/)
-
-### Screen Annotation Tool
-- [Epic Pen](https://epicpen.com/)
-- [EpicPencil](https://www.epicpencil.es/en/) — Draw on your screen for free
-- [iRehmanAhmad/RePen](https://github.com/iRehmanAhmad/RePen)
-- [KMag](https://apps.kde.org/kmag/) / [🔗](https://invent.kde.org/accessibility/kmag)
-- [ZoomIt](https://learn.microsoft.com/en-us/sysinternals/downloads/zoomit) — Sysinternals
 
 ### Video Streaming app
 - ⭐ **[MediaHub-Org/PlayTorrioMov](https://github.com/MediaHub-Org/PlayTorrioMov)** — PlayTorrio fork adapted just for Movies/Series/Anime with SOLID UI/UX

@@ -10,20 +10,6 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 
 ## Agents & Automation
 
-### Workflow Automation
-- ⭐ **[n8n.io](https://n8n.io/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/n8n-io/n8n) — a powerful workflow automation tool
-- [Bardeen](https://www.bardeen.ai/) — Find and reach leads no one else can
-- [Clarilo AI](https://www.clarilo-ai.com/) — AI Executive Assistant | 900+ Integrations, Zero Setup
-- [Dify](https://dify.ai/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/langgenius/dify/) — Leading Agentic Workflow Builder
-- [FlowHunt](https://www.flowhunt.io/)
-- [Flowise](https://flowiseai.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/FlowiseAI/Flowise) — Build AI Agents, Visually
-- [Gumloop](https://www.gumloop.com/) — AI Automation Framework
-- [Make](https://www.make.com/en) — Work the way you imagine
-- [Relevance AI](https://relevanceai.com/) — AI Agents for Sales & GTM Teams
-- [Sim](https://www.sim.ai/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/simstudioai/sim) — The AI Workspace | Build, Deploy & Manage AI Agents
-- [viaSocket](https://viasocket.com/) — AI Workflow Automation Tool
-- [Zapier](https://zapier.com/) — Automation that moves you forward
-
 ### Agent Frameworks & UIs
 - ⭐ **[AutoGPT](https://agpt.co/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/Significant-Gravitas/AutoGPT)
 - ⭐ **[AX](https://agentexecutor.io/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/google/ax)
@@ -92,62 +78,17 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [XERJ.ai](https://xerj.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/xerj-org/xerj) — the search engine built for AI agents
 - [yuruotong1/autoMate](https://github.com/yuruotong1/autoMate) — Like Manus, Computer Use Agent(CUA) and Omniparser, we are computer-using agents.AI-driven local automation assistant that uses natural language to make computers work by themselves
 
-### Coding Assistant
-- ⭐ **[Continue • Quality control for your software factory](https://www.continue.dev/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/continuedev/continue)
-- ⭐ **[GitHub Copilot · Your AI pair programmer](https://github.com/features/copilot/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/github/copilot-cli)
-- [AI2sql](https://www.ai2sql.io/)
-- [aider is AI pair programming in your terminal](https://aider.chat/)
-- [Augment Code](https://www.augmentcode.com/)
-- [Codeium · Free AI Code Completion & Chat](https://codeium.com/)
-- [CodeRabbit](https://www.coderabbit.ai/) — AI Code Reviews
-- [CodiumAI](https://www.qodo.ai/) — Meaningful Code Tests for Busy Devs
-- [Cody](https://sourcegraph.com/cody) — AI coding assistant
-- [emilwallner/Screenshot-to-code · GitHub](https://github.com/emilwallner/Screenshot-to-code)
-- [Gemini Code Assist](https://codeassist.google/) — AI coding assistant
-- [Mira](https://miracode.ai/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/miracodeai/mira) — Code review, at the speed of merge.
-- [Postgres Sandbox](https://database.build/)
-- [Sourcegraph](https://sourcegraph.com/) — Code Intelligence Platform
-- [Sourcery.ai](https://sourcery.ai/)
-- [stashd.ai](https://www.stashd.ai/) — Your code snippets, organized and accessible
-- [Supermaven](https://supermaven.com/) — Free AI Code Completion
-- [Tabby](https://www.tabbyml.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/TabbyML/tabby) — Opensource, self-hosted AI coding assistant
-- [Tabnine](https://www.tabnine.com/) — AI assistant for software developers
-- [Vizards/deepseek-v4-for-copilot](https://github.com/Vizards/deepseek-v4-for-copilot) — Pick DeepSeek V4 from the Copilot Chat model picker — and keep everything else Copilot already gives you.
-
-### Personal AI Assistants
-- ⭐ **[OpenClaw](https://openclaw.ai/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/openclaw/openclaw) — Personal AI Assistant
-- [AnyClaw](https://www.anyclaw.dev/)
-- [Cerewro](https://cerewro.com/) — Inteligencia artificial para Windows — agente IA multimodal
-- [ChatGPT Agent](https://chatgpt.com/features/agent/)
-- [Claude Cowork](https://www.anthropic.com/product/claude-cowork) — Anthropic’s agentic AI for knowledge work \ Anthropic
-- [Eigent AI](https://www.eigent.ai/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/eigent-ai/eigent) — Eigent Open Source Cowork: the open source cowork desktop
-- [Eliza OS](https://www.elizaos.ai/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/elizaos)
-- [Eney](https://macpaw.com/eney) — AI Assistant for Mac | Smarter Work on macOS
-- [Hermes Agent](https://hermes-agent.nousresearch.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/NousResearch/hermes-agent) — AI Agent Framework
-- [jasperan/picooraclaw](https://github.com/jasperan/picooraclaw) — PicoClaw that works with Oracle AI Database
-- [LifeOS](https://ourlifeos.ai/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/danielmiessler/LifeOS) — Moving You From Current to Ideal State
-- [MyShell AI](https://myshell.ai/) — Build, Share, and Own AI Agent
-- [NanoClaw](https://nanoclaw.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/gavrielc/nanoclaw) — Secure AI Agent for WhatsApp, Telegram & More
-- [NVIDIA NemoClaw](https://www.nvidia.com/en-us/ai/nemoclaw/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/NVIDIA/NemoClaw) — Deploy Safer AI Assistants with OpenClaw Safety Guardrails
-- [OpenHuman](https://tinyhumans.ai/openhuman) / [![GitHub](/img/software/apps/github.svg)](https://github.com/tinyhumansai) — open source personal AI, local-first
-- [Perplexity](https://www.perplexity.ai/personal-computer) — Personal Computer for Mac
-- [PicoClaw](https://picoclaw.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/sipeed/picoclaw) — Ultra-Lightweight AI Assistant in Go for Raspberry Pi, Linux & RISC-V
-- [Sana AI](https://sana.ai/) — Meet your AI assistant for work
-- [TinyHumans](https://tinyhumans.ai/) — open source AI agents that work for you
-
-### Memory & RAG
-- [ai-memory](https://aimemory.sh/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/akitaonrails/ai-memory) — long-term memory for AI coding agents
-- [cpacker/MemGPT · GitHub](https://github.com/cpacker/MemGPT)
-- [doobidoo/mcp-memory-service](https://github.com/doobidoo/mcp-memory-service) — Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph + autonomous consolidation.
-- [Future-House/paper-qa](https://github.com/Future-House/paper-qa) — High accuracy RAG for answering questions from scientific documents with citations
-- [Hindsight](https://hindsight.vectorize.io/)
-- [Letta](https://letta.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/letta-ai)
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) — The memory layer for Personalized AI
-- [Memori](https://memorilabs.ai/) — The memory fabric for enterprise AI
-- [milla-jovovich/mempalace](https://github.com/milla-jovovich/mempalace) — The highest-scoring AI memory system ever benchmarked. And it's free.
-- [OpenViking](https://openviking.ai/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/volcengine/OpenViking) — Context File System for AI Agents
-- [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) — 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
-- [Vectorize](https://vectorize.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/vectorize-io/hindsight) — Agents That Learn From Every Conversation
+### AI App Builders
+- [a0.dev](https://a0.dev/) — Create Mobile Apps with AI
+- [Blitzy](https://blitzy.com/) — AI-Powered Autonomous Software Development Platform
+- [Cerebras](https://www.cerebras.ai/) — Generate apps in 1 second
+- [Emergent](https://app.emergent.sh/landing/) — Build Apps with AI
+- [InsForge](https://insforge.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/InsForge/InsForge) — Give agents everything they need to ship fullstack apps
+- [Legasite](https://www.legasite.io/) — Save a Day on Every Project
+- [Lovable](https://lovable.dev/) — Vibe Code Apps & Websites with AI, Fast
+- [new.website](https://new.website/) — Build Websites with AI
+- [Sleek](https://sleek.design/)
+- [Solo](https://soloist.ai/) — Free AI Website Creator
 
 ### Coding Agent
 - ⭐ **[OpenCode](https://opencode.ai/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/anomalyco/opencode) — The open source AI coding agent
@@ -186,17 +127,45 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) — OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more
 - [zerostack](https://gi-dellav.github.io/zerostack/) — minimal coding agent
 
-### AI App Builders
-- [a0.dev](https://a0.dev/) — Create Mobile Apps with AI
-- [Blitzy](https://blitzy.com/) — AI-Powered Autonomous Software Development Platform
-- [Cerebras](https://www.cerebras.ai/) — Generate apps in 1 second
-- [Emergent](https://app.emergent.sh/landing/) — Build Apps with AI
-- [InsForge](https://insforge.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/InsForge/InsForge) — Give agents everything they need to ship fullstack apps
-- [Legasite](https://www.legasite.io/) — Save a Day on Every Project
-- [Lovable](https://lovable.dev/) — Vibe Code Apps & Websites with AI, Fast
-- [new.website](https://new.website/) — Build Websites with AI
-- [Sleek](https://sleek.design/)
-- [Solo](https://soloist.ai/) — Free AI Website Creator
+### Coding Assistant
+- ⭐ **[Continue • Quality control for your software factory](https://www.continue.dev/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/continuedev/continue)
+- ⭐ **[GitHub Copilot · Your AI pair programmer](https://github.com/features/copilot/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/github/copilot-cli)
+- [AI2sql](https://www.ai2sql.io/)
+- [aider is AI pair programming in your terminal](https://aider.chat/)
+- [Augment Code](https://www.augmentcode.com/)
+- [Codeium · Free AI Code Completion & Chat](https://codeium.com/)
+- [CodeRabbit](https://www.coderabbit.ai/) — AI Code Reviews
+- [CodiumAI](https://www.qodo.ai/) — Meaningful Code Tests for Busy Devs
+- [Cody](https://sourcegraph.com/cody) — AI coding assistant
+- [emilwallner/Screenshot-to-code · GitHub](https://github.com/emilwallner/Screenshot-to-code)
+- [Gemini Code Assist](https://codeassist.google/) — AI coding assistant
+- [Mira](https://miracode.ai/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/miracodeai/mira) — Code review, at the speed of merge.
+- [Postgres Sandbox](https://database.build/)
+- [Sourcegraph](https://sourcegraph.com/) — Code Intelligence Platform
+- [Sourcery.ai](https://sourcery.ai/)
+- [stashd.ai](https://www.stashd.ai/) — Your code snippets, organized and accessible
+- [Supermaven](https://supermaven.com/) — Free AI Code Completion
+- [Tabby](https://www.tabbyml.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/TabbyML/tabby) — Opensource, self-hosted AI coding assistant
+- [Tabnine](https://www.tabnine.com/) — AI assistant for software developers
+- [Vizards/deepseek-v4-for-copilot](https://github.com/Vizards/deepseek-v4-for-copilot) — Pick DeepSeek V4 from the Copilot Chat model picker — and keep everything else Copilot already gives you.
+
+### Directories & Marketplaces
+- ⭐ **[ClaudePluginHub](https://www.claudepluginhub.com/)** — The Largest Claude Code Plugin Directory
+- ⭐ **[MCP Market](https://mcpmarket.com/)** — Discover Top MCP Servers
+- ⭐ **[Vercel Skills](https://skills.sh/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/vercel-labs/skills) — The Open Agent Skills Ecosystem
+- [Agent Skills Overview](https://agentskills.io/home) / [![GitHub](/img/software/apps/github.svg)](https://github.com/agentskills/agentskills) — Agent Skills
+- [anthropics/claude-plugins-official · GitHub](https://github.com/anthropics/claude-plugins-official)
+- [autoskills](https://www.autoskills.sh/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/midudev/autoskills) — Auto-install best AI skills for your project
+- [Awesome MCP Servers](https://mcpservers.org/)
+- [Claude Code Skills, Plugins & MCP Servers](https://claudemarketplaces.com/)
+- [Claude Directory](https://www.claudedirectory.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/tmcpa/claudedirectory) — Community Alternative to claude.ai/directory
+- [ClawHub](https://clawhub.ai/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/openclaw/clawhub)
+- [hashgraph-online/awesome-codex-plugins · GitHub](https://github.com/hashgraph-online/awesome-codex-plugins)
+- [HOL Registry](https://hol.org/registry/plugins) — Claude Plugins, Codex Plugins, Grok Plugins, Gemini & MCP Plugins
+- [MCP Repository](https://mcprepository.com/) — Search & Discover MCP Servers
+- [MCP.so](https://mcp.so/)
+- [officialskills.sh](https://officialskills.sh/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/VoltAgent/awesome-agent-skills) — Official Agent Skills Directory
+- [openai/skills](https://github.com/openai/skills) — Skills Catalog for Codex
 
 ### MCP Servers
 - [AceDataCloud/SunoMCP](https://github.com/AceDataCloud/SunoMCP) — MCP server for Suno AI music generation, lyrics, and cover workflows via Ace Data Cloud
@@ -217,23 +186,40 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [Serena](https://oraios.github.io/serena/01-about/000_intro.html) / [![GitHub](/img/software/apps/github.svg)](https://github.com/oraios/serena) — Serena Documentation
 - [shiehn/total-reaper-mcp](https://github.com/shiehn/total-reaper-mcp) — Reaper DAW MCP Server with 100% Reascript Coverage
 
-### Directories & Marketplaces
-- ⭐ **[ClaudePluginHub](https://www.claudepluginhub.com/)** — The Largest Claude Code Plugin Directory
-- ⭐ **[MCP Market](https://mcpmarket.com/)** — Discover Top MCP Servers
-- ⭐ **[Vercel Skills](https://skills.sh/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/vercel-labs/skills) — The Open Agent Skills Ecosystem
-- [Agent Skills Overview](https://agentskills.io/home) / [![GitHub](/img/software/apps/github.svg)](https://github.com/agentskills/agentskills) — Agent Skills
-- [anthropics/claude-plugins-official · GitHub](https://github.com/anthropics/claude-plugins-official)
-- [autoskills](https://www.autoskills.sh/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/midudev/autoskills) — Auto-install best AI skills for your project
-- [Awesome MCP Servers](https://mcpservers.org/)
-- [Claude Code Skills, Plugins & MCP Servers](https://claudemarketplaces.com/)
-- [Claude Directory](https://www.claudedirectory.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/tmcpa/claudedirectory) — Community Alternative to claude.ai/directory
-- [ClawHub](https://clawhub.ai/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/openclaw/clawhub)
-- [hashgraph-online/awesome-codex-plugins · GitHub](https://github.com/hashgraph-online/awesome-codex-plugins)
-- [HOL Registry](https://hol.org/registry/plugins) — Claude Plugins, Codex Plugins, Grok Plugins, Gemini & MCP Plugins
-- [MCP Repository](https://mcprepository.com/) — Search & Discover MCP Servers
-- [MCP.so](https://mcp.so/)
-- [officialskills.sh](https://officialskills.sh/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/VoltAgent/awesome-agent-skills) — Official Agent Skills Directory
-- [openai/skills](https://github.com/openai/skills) — Skills Catalog for Codex
+### Memory & RAG
+- [ai-memory](https://aimemory.sh/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/akitaonrails/ai-memory) — long-term memory for AI coding agents
+- [cpacker/MemGPT · GitHub](https://github.com/cpacker/MemGPT)
+- [doobidoo/mcp-memory-service](https://github.com/doobidoo/mcp-memory-service) — Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph + autonomous consolidation.
+- [Future-House/paper-qa](https://github.com/Future-House/paper-qa) — High accuracy RAG for answering questions from scientific documents with citations
+- [Hindsight](https://hindsight.vectorize.io/)
+- [Letta](https://letta.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/letta-ai)
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) — The memory layer for Personalized AI
+- [Memori](https://memorilabs.ai/) — The memory fabric for enterprise AI
+- [milla-jovovich/mempalace](https://github.com/milla-jovovich/mempalace) — The highest-scoring AI memory system ever benchmarked. And it's free.
+- [OpenViking](https://openviking.ai/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/volcengine/OpenViking) — Context File System for AI Agents
+- [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) — 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
+- [Vectorize](https://vectorize.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/vectorize-io/hindsight) — Agents That Learn From Every Conversation
+
+### Personal AI Assistants
+- ⭐ **[OpenClaw](https://openclaw.ai/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/openclaw/openclaw) — Personal AI Assistant
+- [AnyClaw](https://www.anyclaw.dev/)
+- [Cerewro](https://cerewro.com/) — Inteligencia artificial para Windows — agente IA multimodal
+- [ChatGPT Agent](https://chatgpt.com/features/agent/)
+- [Claude Cowork](https://www.anthropic.com/product/claude-cowork) — Anthropic’s agentic AI for knowledge work \ Anthropic
+- [Eigent AI](https://www.eigent.ai/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/eigent-ai/eigent) — Eigent Open Source Cowork: the open source cowork desktop
+- [Eliza OS](https://www.elizaos.ai/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/elizaos)
+- [Eney](https://macpaw.com/eney) — AI Assistant for Mac | Smarter Work on macOS
+- [Hermes Agent](https://hermes-agent.nousresearch.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/NousResearch/hermes-agent) — AI Agent Framework
+- [jasperan/picooraclaw](https://github.com/jasperan/picooraclaw) — PicoClaw that works with Oracle AI Database
+- [LifeOS](https://ourlifeos.ai/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/danielmiessler/LifeOS) — Moving You From Current to Ideal State
+- [MyShell AI](https://myshell.ai/) — Build, Share, and Own AI Agent
+- [NanoClaw](https://nanoclaw.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/gavrielc/nanoclaw) — Secure AI Agent for WhatsApp, Telegram & More
+- [NVIDIA NemoClaw](https://www.nvidia.com/en-us/ai/nemoclaw/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/NVIDIA/NemoClaw) — Deploy Safer AI Assistants with OpenClaw Safety Guardrails
+- [OpenHuman](https://tinyhumans.ai/openhuman) / [![GitHub](/img/software/apps/github.svg)](https://github.com/tinyhumansai) — open source personal AI, local-first
+- [Perplexity](https://www.perplexity.ai/personal-computer) — Personal Computer for Mac
+- [PicoClaw](https://picoclaw.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/sipeed/picoclaw) — Ultra-Lightweight AI Assistant in Go for Raspberry Pi, Linux & RISC-V
+- [Sana AI](https://sana.ai/) — Meet your AI assistant for work
+- [TinyHumans](https://tinyhumans.ai/) — open source AI agents that work for you
 
 ### Skills & Plugins
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) — Production-grade engineering skills for AI coding agents.
@@ -275,6 +261,20 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [text-to-cad](https://www.texttocad.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/earthtojake/text-to-cad) — Give your agent CAD superpowers
 - [Wondel.ai Skills](https://skills.wondel.ai/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/wondelai/skills) — 41 Business & Engineering Frameworks as AI Agent Skills
 - [zubair-trabzada/geo-seo-claude](https://github.com/zubair-trabzada/geo-seo-claude) — GEO-first SEO skill for Claude Code. Comprehensive AI search optimization for any website — citability scoring, AI crawler analysis, brand authority, schema markup, platform-specific optimization, and PDF reports. If you want learn how to sell this to real businesses, check out the skool community
+
+### Workflow Automation
+- ⭐ **[n8n.io](https://n8n.io/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/n8n-io/n8n) — a powerful workflow automation tool
+- [Bardeen](https://www.bardeen.ai/) — Find and reach leads no one else can
+- [Clarilo AI](https://www.clarilo-ai.com/) — AI Executive Assistant | 900+ Integrations, Zero Setup
+- [Dify](https://dify.ai/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/langgenius/dify/) — Leading Agentic Workflow Builder
+- [FlowHunt](https://www.flowhunt.io/)
+- [Flowise](https://flowiseai.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/FlowiseAI/Flowise) — Build AI Agents, Visually
+- [Gumloop](https://www.gumloop.com/) — AI Automation Framework
+- [Make](https://www.make.com/en) — Work the way you imagine
+- [Relevance AI](https://relevanceai.com/) — AI Agents for Sales & GTM Teams
+- [Sim](https://www.sim.ai/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/simstudioai/sim) — The AI Workspace | Build, Deploy & Manage AI Agents
+- [viaSocket](https://viasocket.com/) — AI Workflow Automation Tool
+- [Zapier](https://zapier.com/) — Automation that moves you forward
 
 ## Generative Media
 
@@ -399,31 +399,6 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [Waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe)
 - [Waifu2x-Extension-GUI · GitHub](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)
 
-### AI Speech & Voice
-- ⭐ **[Eleven Labs](https://elevenlabs.io/music)** — AI Music Generator
-- ⭐ **[Fish Audio](https://fish.audio/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/fishaudio) — Free Generative AI Text To Speech & Voice Cloning
-- ⭐ **[Supertonic 3 (TTS)](https://huggingface.co/spaces/Supertone/supertonic-3)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/supertone-oss-archive/supertonic) — a Hugging Face Space by Supertone
-- [11.ai](https://11.ai/app/) — Personal AI Voice Assistants
-- [Amazon Alexa Voice AI](https://developer.amazon.com/en-US/alexa)
-- [Google Assistant](https://assistant.google.com/)
-- [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) — Build local voice agents with open-source models
-- [Inworld AI](https://inworld.ai/) — Realtime AI for consumer-facing applications
-- [Norwood Systems](https://norwoodsystems.com/)
-- [OpenVoiceOS](https://openvoiceos.com/) — voice AI platform for everyone
-- [Pico voice](https://picovoice.ai/) — On-device Voice AI and local LLM platforms for Enterprises
-- [Rhasspy](https://rhasspy.readthedocs.io/en/latest/)
-- [rhasspy/rhasspy3](https://github.com/rhasspy/rhasspy3/) — An open source voice assistant toolkit for many human languages
-- [Serenade](https://serenade.ai/)
-- [Sesame](https://www.sesame.com/)
-- [Sesame Research Preview](https://app.sesame.com/welcome)
-- [Siri](https://www.apple.com/siri/)
-- [Speech-to-Speech API](https://inworld.ai/speech-to-speech?utm_device=m&utm_term=interactive%20voice%20ai%20platform&utm_campaign=Google_Realtime-API_EMEA&utm_source=adwords&utm_medium=ppc&utm_content=realtime-api&hsa_acc=5807507431&hsa_cam=23654350249&hsa_grp=193418295759&hsa_ad=800053411678&hsa_src=g&hsa_tgt=kwd-2472564158155&hsa_kw=interactive%20voice%20ai%20platform&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=23654350249&gbraid=0AAAAAo5ojYE2f4OgWmSd5_pP0Zd4iivTj&gclid=CjwKCAjw_9bWBhBGEiwAomyTIuYZI1ZC_yjWN5GWwmbQ3evcIH2NeDWcPne1Fn-SCgXoXbSQzss99RoCipkQAvD_BwE) — Full-Duplex, Sub-Second, Model-Agnostic | Inworld AI
-- [Stypox/dicio-android](https://github.com/Stypox/dicio-android) — Dicio assistant app for Android
-- [Supertone (Supertone)](https://huggingface.co/Supertone)
-- [Voice AI](https://voice.ai/) — Change your voice on the Fly
-- [Voyp](https://voyp.app/) — Voice Over Your Phone
-- [Web Assist](https://webassistextension.com/) — Surf the Web with just your voice
-
 ### AI Music & Audio
 - ⭐ **[YuE2 · Frontier Music with Symbolic Planning](https://map-yue2.github.io/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/multimodal-art-projection/YuE)
 - [AIVA, the AI Music Generation Assistant](https://www.aiva.ai/)
@@ -461,6 +436,31 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [Udio](https://www.udio.com/) — Make your music
 - [Vocal Remover and Isolation](https://vocalremover.org/)
 - [Waveformer](https://www.text2music.io/)
+
+### AI Speech & Voice
+- ⭐ **[Eleven Labs](https://elevenlabs.io/music)** — AI Music Generator
+- ⭐ **[Fish Audio](https://fish.audio/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/fishaudio) — Free Generative AI Text To Speech & Voice Cloning
+- ⭐ **[Supertonic 3 (TTS)](https://huggingface.co/spaces/Supertone/supertonic-3)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/supertone-oss-archive/supertonic) — a Hugging Face Space by Supertone
+- [11.ai](https://11.ai/app/) — Personal AI Voice Assistants
+- [Amazon Alexa Voice AI](https://developer.amazon.com/en-US/alexa)
+- [Google Assistant](https://assistant.google.com/)
+- [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) — Build local voice agents with open-source models
+- [Inworld AI](https://inworld.ai/) — Realtime AI for consumer-facing applications
+- [Norwood Systems](https://norwoodsystems.com/)
+- [OpenVoiceOS](https://openvoiceos.com/) — voice AI platform for everyone
+- [Pico voice](https://picovoice.ai/) — On-device Voice AI and local LLM platforms for Enterprises
+- [Rhasspy](https://rhasspy.readthedocs.io/en/latest/)
+- [rhasspy/rhasspy3](https://github.com/rhasspy/rhasspy3/) — An open source voice assistant toolkit for many human languages
+- [Serenade](https://serenade.ai/)
+- [Sesame](https://www.sesame.com/)
+- [Sesame Research Preview](https://app.sesame.com/welcome)
+- [Siri](https://www.apple.com/siri/)
+- [Speech-to-Speech API](https://inworld.ai/speech-to-speech?utm_device=m&utm_term=interactive%20voice%20ai%20platform&utm_campaign=Google_Realtime-API_EMEA&utm_source=adwords&utm_medium=ppc&utm_content=realtime-api&hsa_acc=5807507431&hsa_cam=23654350249&hsa_grp=193418295759&hsa_ad=800053411678&hsa_src=g&hsa_tgt=kwd-2472564158155&hsa_kw=interactive%20voice%20ai%20platform&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=23654350249&gbraid=0AAAAAo5ojYE2f4OgWmSd5_pP0Zd4iivTj&gclid=CjwKCAjw_9bWBhBGEiwAomyTIuYZI1ZC_yjWN5GWwmbQ3evcIH2NeDWcPne1Fn-SCgXoXbSQzss99RoCipkQAvD_BwE) — Full-Duplex, Sub-Second, Model-Agnostic | Inworld AI
+- [Stypox/dicio-android](https://github.com/Stypox/dicio-android) — Dicio assistant app for Android
+- [Supertone (Supertone)](https://huggingface.co/Supertone)
+- [Voice AI](https://voice.ai/) — Change your voice on the Fly
+- [Voyp](https://voyp.app/) — Voice Over Your Phone
+- [Web Assist](https://webassistextension.com/) — Surf the Web with just your voice
 
 ### AI Video
 - ⭐ **[Hailuo AI](https://hailuoai.video/)** — AI Video Generator from Text & Image
@@ -530,79 +530,6 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [Wondershare Virbo](https://virbo.wondershare.com/) — Generate Engaging AI Video in Minutes!
 
 ## Language Models & Hubs
-
-### LLMs (Large Language Models)
-- ⭐ **[deepseek-ai/DeepSeek-R1 · GitHub](https://github.com/deepseek-ai/DeepSeek-R1)**
-- ⭐ **[Heretic](https://heretic-project.org/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/p-e-w/heretic), [🔗](https://heretic-project.org/) — Fully automatic censorship removal for language models
-- [Apertus LLM](https://huggingface.co/collections/swiss-ai/apertus-llm) — a swiss-ai Collection
-- [ariannamethod/molequla](https://github.com/ariannamethod/molequla) — molequla.ai
-- [bespokelabsai/nimble](https://github.com/bespokelabsai/nimble) — Local typed decisions, contrastive data curation, and model evaluation.
-- [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) — RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, saves VRAM, fast training, "infinite" ctx_len, and free sentence embedding.
-- [ByteDance Seed](https://seed.bytedance.com/en/)
-- [Cloudflare/clef · Hugging Face](https://huggingface.co/Cloudflare/clef)
-- [Cohere](https://cohere.com/) — The leading AI platform for enterprise
-- [deepseek-ai/Janus](https://github.com/deepseek-ai/Janus/) — Janus-Series: Unified Multimodal Understanding and Generation Models
-- [EleutherAI](https://www.eleuther.ai/)
-- [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF · Hugging Face](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF)
-- [FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c) — A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.
-- [Google AI PaLM 2](https://ai.google/discover/palm2) — Google AI
-- [google-research/bert · GitHub](https://github.com/google-research/bert)
-- [google/gemma-3n-E4B-it · Hugging Face](https://huggingface.co/google/gemma-3n-E4B-it)
-- [google/maxtext](https://github.com/google/maxtext) — A simple, performant and scalable Jax LLM!
-- [GPT-4](https://openai.com/gpt-4) — OpenAI
-- [karpathy/nanochat](https://github.com/karpathy/nanochat) — The best ChatGPT that $100 can buy
-- [Koala](https://bair.berkeley.edu/blog/2023/04/03/koala/) — A Dialogue Model for Academic Research
-- [LAION-AI/Open-Assistant · GitHub](https://github.com/LAION-AI/Open-Assistant)
-- [LargeWorldModel/LWM · GitHub](https://github.com/LargeWorldModel/LWM)
-- [Liquid AI](https://www.liquid.ai/) — Build efficient general-purpose AI at every scale
-- [LiveKit](https://livekit.io/)
-- [Llama 2](https://ai.meta.com/llama/) — Meta AI
-- [Llama 3.2](https://www.llama.com/)
-- [Marin AI](https://marin.community/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/marin-community/marin)
-- [McGill-NLP/Llama-3-8B-Web · Hugging Face](https://huggingface.co/McGill-NLP/Llama-3-8B-Web)
-- [Meta Llama](https://llama.meta.com/)
-- [microgpt](https://gist.github.com/karpathy/8627fe009c40f57531cb18360106ce95)
-- [MiMo-V2-Pro](https://mimo.xiaomi.com/mimo-v2-pro) — Xiaomi
-- [MiniMax M2.5](https://www.minimax.io/models/text) — SOTA in Coding and Agent, Designed for Agent Universe
-- [MiniMind](https://jingyaogong.github.io/minimind/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/jingyaogong/minimind) — Train LLMs from Scratch
-- [NVIDIA Nemotron](https://www.nvidia.com/en-us/ai-data-science/foundation-models/nemotron/) — Build Agentic AI with Multimodal Foundation Models
-- [Open Euro LLM](https://openeurollm.eu/)
-- [OpenAI](https://platform.openai.com/) — Platform
-- [openai/gpt-2 · GitHub](https://github.com/openai/gpt-2)
-- [openai/gpt-oss-120b · Hugging Face](https://huggingface.co/openai/gpt-oss-120b)
-- [QwenLM/Qwen · GitHub](https://github.com/QwenLM/Qwen)
-- [QwenLM/Qwen2.5](https://github.com/QwenLM/Qwen2.5) — Qwen2.5 is the large language model series developed by Qwen team, Alibaba Cloud.
-- [QwenLM/Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder) — Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud.
-- [Subquadratic](https://subq.ai/) — Efficiency is Intelligence
-- [young-geng/EasyLM · GitHub](https://github.com/young-geng/EasyLM)
-- [zai-org/ChatGLM3](https://github.com/zai-org/ChatGLM3) — ChatGLM3 series: Open Bilingual Chat LLMs | 开源双语对话语言模型
-
-### AI Study & Writing
-- [ai-boost/awesome-prompts · GitHub](https://github.com/ai-boost/awesome-prompts/tree/main)
-- [asgeirtj/system_prompts_leaks · GitHub](https://github.com/asgeirtj/system_prompts_leaks)
-- [Astra AI](https://astra-ai.co/) — Study & Exam Prep | AI Tutor for All Subjects
-- [Awesome ChatGPT Prompts](https://prompts.chat/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/f/prompts.chat)
-- [ChatPDF AI](https://www.chatpdf.com/) — Chat with any PDF
-- [cheating daddy](https://cheatingdaddy.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/sohzm/cheating-daddy)
-- [Elicit](https://elicit.com/) — The AI Research Assistant
-- [friuns2/BlackFriday-GPTs-Prompts · GitHub](https://github.com/friuns2/BlackFriday-GPTs-Prompts)
-- [GPTZero](https://gptzero.me/) — AI Detector, the Original AI Checker for ChatGPT & More
-- [Humata](https://www.humata.ai/) — AI meets your knowledge base
-- [Illuminate](https://illuminate.google.com/home) — Learn Your Way
-- [Interview Coder](https://www.interviewcoder.co/) — AI Assistant for Technical Interviews
-- [Learn Prompting](https://learnprompting.org/) — Your Guide to Communicating with AI
-- [linexjlin/GPTs · GitHub](https://github.com/linexjlin/GPTs)
-- [LouisShark/chatgpt_system_prompt · GitHub](https://github.com/LouisShark/chatgpt_system_prompt)
-- [NovelAI](https://novelai.net/) — The AI Storyteller
-- [ParakeetAI](https://www.parakeet-ai.com/) — #1 Real-Time AI Interview Assistant
-- [Perchance](https://perchance.org/welcome) — Create a Random Generator
-- [Prompt Engineering Guide](https://www.promptingguide.ai/)
-- [QuillBot](https://quillbot.com/) — Your complete writing solution
-- [Testea](https://testea.app/) — aplicación de test para oposiciones
-- [ToolBaz](https://toolbaz.com/) — Free AI Tools
-- [Typed AI](https://www.typedai.com/) — La mejor IA para opositar
-- [Writesonic](https://writesonic.com/)
-- [Writier](https://writier.io/) — AI Powered Writing Assistant
 
 ### AI Chat Platforms
 - ⭐ **[ChatGPT](https://chatgpt.com/)**
@@ -676,7 +603,130 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [SWE-bench](https://www.swebench.com/)
 - [World of AI Bench](https://www.woaibench.ai/) — AI Coding Benchmark and Model Rankings
 
+### AI Study & Writing
+- [ai-boost/awesome-prompts · GitHub](https://github.com/ai-boost/awesome-prompts/tree/main)
+- [asgeirtj/system_prompts_leaks · GitHub](https://github.com/asgeirtj/system_prompts_leaks)
+- [Astra AI](https://astra-ai.co/) — Study & Exam Prep | AI Tutor for All Subjects
+- [Awesome ChatGPT Prompts](https://prompts.chat/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/f/prompts.chat)
+- [ChatPDF AI](https://www.chatpdf.com/) — Chat with any PDF
+- [cheating daddy](https://cheatingdaddy.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/sohzm/cheating-daddy)
+- [Elicit](https://elicit.com/) — The AI Research Assistant
+- [friuns2/BlackFriday-GPTs-Prompts · GitHub](https://github.com/friuns2/BlackFriday-GPTs-Prompts)
+- [GPTZero](https://gptzero.me/) — AI Detector, the Original AI Checker for ChatGPT & More
+- [Humata](https://www.humata.ai/) — AI meets your knowledge base
+- [Illuminate](https://illuminate.google.com/home) — Learn Your Way
+- [Interview Coder](https://www.interviewcoder.co/) — AI Assistant for Technical Interviews
+- [Learn Prompting](https://learnprompting.org/) — Your Guide to Communicating with AI
+- [linexjlin/GPTs · GitHub](https://github.com/linexjlin/GPTs)
+- [LouisShark/chatgpt_system_prompt · GitHub](https://github.com/LouisShark/chatgpt_system_prompt)
+- [NovelAI](https://novelai.net/) — The AI Storyteller
+- [ParakeetAI](https://www.parakeet-ai.com/) — #1 Real-Time AI Interview Assistant
+- [Perchance](https://perchance.org/welcome) — Create a Random Generator
+- [Prompt Engineering Guide](https://www.promptingguide.ai/)
+- [QuillBot](https://quillbot.com/) — Your complete writing solution
+- [Testea](https://testea.app/) — aplicación de test para oposiciones
+- [ToolBaz](https://toolbaz.com/) — Free AI Tools
+- [Typed AI](https://www.typedai.com/) — La mejor IA para opositar
+- [Writesonic](https://writesonic.com/)
+- [Writier](https://writier.io/) — AI Powered Writing Assistant
+
+### LLMs (Large Language Models)
+- ⭐ **[deepseek-ai/DeepSeek-R1 · GitHub](https://github.com/deepseek-ai/DeepSeek-R1)**
+- ⭐ **[Heretic](https://heretic-project.org/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/p-e-w/heretic), [🔗](https://heretic-project.org/) — Fully automatic censorship removal for language models
+- [Apertus LLM](https://huggingface.co/collections/swiss-ai/apertus-llm) — a swiss-ai Collection
+- [ariannamethod/molequla](https://github.com/ariannamethod/molequla) — molequla.ai
+- [bespokelabsai/nimble](https://github.com/bespokelabsai/nimble) — Local typed decisions, contrastive data curation, and model evaluation.
+- [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) — RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, saves VRAM, fast training, "infinite" ctx_len, and free sentence embedding.
+- [ByteDance Seed](https://seed.bytedance.com/en/)
+- [Cloudflare/clef · Hugging Face](https://huggingface.co/Cloudflare/clef)
+- [Cohere](https://cohere.com/) — The leading AI platform for enterprise
+- [deepseek-ai/Janus](https://github.com/deepseek-ai/Janus/) — Janus-Series: Unified Multimodal Understanding and Generation Models
+- [EleutherAI](https://www.eleuther.ai/)
+- [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF · Hugging Face](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF)
+- [FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c) — A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.
+- [Google AI PaLM 2](https://ai.google/discover/palm2) — Google AI
+- [google-research/bert · GitHub](https://github.com/google-research/bert)
+- [google/gemma-3n-E4B-it · Hugging Face](https://huggingface.co/google/gemma-3n-E4B-it)
+- [google/maxtext](https://github.com/google/maxtext) — A simple, performant and scalable Jax LLM!
+- [GPT-4](https://openai.com/gpt-4) — OpenAI
+- [karpathy/nanochat](https://github.com/karpathy/nanochat) — The best ChatGPT that $100 can buy
+- [Koala](https://bair.berkeley.edu/blog/2023/04/03/koala/) — A Dialogue Model for Academic Research
+- [LAION-AI/Open-Assistant · GitHub](https://github.com/LAION-AI/Open-Assistant)
+- [LargeWorldModel/LWM · GitHub](https://github.com/LargeWorldModel/LWM)
+- [Liquid AI](https://www.liquid.ai/) — Build efficient general-purpose AI at every scale
+- [LiveKit](https://livekit.io/)
+- [Llama 2](https://ai.meta.com/llama/) — Meta AI
+- [Llama 3.2](https://www.llama.com/)
+- [Marin AI](https://marin.community/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/marin-community/marin)
+- [McGill-NLP/Llama-3-8B-Web · Hugging Face](https://huggingface.co/McGill-NLP/Llama-3-8B-Web)
+- [Meta Llama](https://llama.meta.com/)
+- [microgpt](https://gist.github.com/karpathy/8627fe009c40f57531cb18360106ce95)
+- [MiMo-V2-Pro](https://mimo.xiaomi.com/mimo-v2-pro) — Xiaomi
+- [MiniMax M2.5](https://www.minimax.io/models/text) — SOTA in Coding and Agent, Designed for Agent Universe
+- [MiniMind](https://jingyaogong.github.io/minimind/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/jingyaogong/minimind) — Train LLMs from Scratch
+- [NVIDIA Nemotron](https://www.nvidia.com/en-us/ai-data-science/foundation-models/nemotron/) — Build Agentic AI with Multimodal Foundation Models
+- [Open Euro LLM](https://openeurollm.eu/)
+- [OpenAI](https://platform.openai.com/) — Platform
+- [openai/gpt-2 · GitHub](https://github.com/openai/gpt-2)
+- [openai/gpt-oss-120b · Hugging Face](https://huggingface.co/openai/gpt-oss-120b)
+- [QwenLM/Qwen · GitHub](https://github.com/QwenLM/Qwen)
+- [QwenLM/Qwen2.5](https://github.com/QwenLM/Qwen2.5) — Qwen2.5 is the large language model series developed by Qwen team, Alibaba Cloud.
+- [QwenLM/Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder) — Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud.
+- [Subquadratic](https://subq.ai/) — Efficiency is Intelligence
+- [young-geng/EasyLM · GitHub](https://github.com/young-geng/EasyLM)
+- [zai-org/ChatGLM3](https://github.com/zai-org/ChatGLM3) — ChatGLM3 series: Open Bilingual Chat LLMs | 开源双语对话语言模型
+
 ## Model Serving
+
+### AI Local On-Device
+- ⭐ **[a-ghorbani/pocketpal-ai](https://github.com/a-ghorbani/pocketpal-ai)** — An app that brings language models directly to your phone
+- ⭐ **[GPT4All](https://www.nomic.ai/gpt4all)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/nomic-ai/gpt4all)
+- ⭐ **[LM Studio](https://lmstudio.ai/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/lmstudio-ai) — Discover and run local LLMs
+- ⭐ **[Local AI](https://localai.io/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/mudler/LocalAI)
+- ⭐ **[Newelle](https://newelle.qsk.me/#home)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/qwersyk/Newelle) — Your Ultimate Virtual Assistant
+- ⭐ **[Pinokio](https://pinokio.co/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/pinokiocomputer/pinokio) — Localhost Platform for Humans and AI
+- ⭐ **[SillyTavern](https://docs.sillytavern.app/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/SillyTavern/SillyTavern)
+- ⭐ **[Waku](https://waku.sh/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/egoist/waku) — one native app for all your coding agents
+- [AgenticSeek](https://fosowl.github.io/agenticSeek.html) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Fosowl/agenticSeek) — Private AI Assistant
+- [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) — Hundreds of models & providers. One command to find what runs on your hardware
+- [ayushh0110/ScreenMind](https://github.com/ayushh0110/ScreenMind) — AI-powered screen memory — captures, analyzes, and lets you search/chat your screen history. Powered by Gemma 4 . 100% local, 100% private.
+- [BestLLMfor](https://bestllmfor.com/) — Local LLM: which model runs on your machine?
+- [big-AGI](https://big-agi.com/)
+- [CanIRun.ai](https://www.canirun.ai/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/midudev/canirun.ai) — Can your machine run AI models?
+- [Chatbox AI](https://chatboxai.app/en/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/chatboxai/chatbox) — Your AI Copilot, Best AI Client on any device, Free Download
+- [Cotabby](https://www.cotabby.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/FuJacob/cotabby) — local AI autocomplete for macOS
+- [Desert Ant Labs](https://desertant.com/) — On-device AI models and SDKs
+- [Ensu](https://ente.io/ensu/)
+- [fullmoon](https://fullmoon.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/mainframecomputer/fullmoon-ios) — local intelligence
+- [GitHub](https://github.com/chatboxai/chatbox) — chatbox/chatbox: User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
+- [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) — A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
+- [h2oai/h2ogpt · GitHub](https://github.com/h2oai/h2ogpt)
+- [ItzCrazyKns/Perplexica · GitHub](https://github.com/ItzCrazyKns/Perplexica)
+- [Jan](https://jan.ai/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/janhq/jan) — Open-source ChatGPT Alternative
+- [Jeffser/Alpaca · GitHub](https://github.com/Jeffser/Alpaca)
+- [KoboldAI/KoboldAI-Client · GitHub](https://github.com/KoboldAI/KoboldAI-Client)
+- [Layla](https://www.layla-network.ai/) — Experience the Best Offline AI Assistant
+- [Lekh AI](https://lekhai.app/) — Run AI Locally on Mac & iPhone
+- [LibreChat](https://www.librechat.ai/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/danny-avila/LibreChat)
+- [LLM Hub](https://www.llm-hub.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/timmyy123/LLM-Hub) — 15+ Private AI Models on Android, Free
+- [Local Waifu](https://localwaifu.com/) — A self-learning AI companion for macOS
+- [LocalAI](https://play.google.com/store/apps/details?id=com.ApexCreator.localaiapp) — Offline AI Chat LLM - Apps on Google Play
+- [Locally AI](https://locallyai.app/) — Run AI models locally on your iPhone, iPad, and Mac
+- [mlx-optiq · Run LLMs locally on your Mac](https://mlx-optiq.com/)
+- [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile) — Distribute and run LLMs with a single file. · GitHub
+- [nashsu/FreeAskInternet · GitHub](https://github.com/nashsu/FreeAskInternet)
+- [Odysseus](https://odysseusai.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/odysseus-dev/odysseus) — A Self-Hosted AI Workspace
+- [oMLX](https://omlx.ai/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/jundot/omlx) — LLM inference, optimized for your Mac
+- [OpenJarvis](https://openjarvis.stanford.edu/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/open-jarvis/OpenJarvis)
+- [Osaurus](https://osaurus.ai/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/osaurus-ai/osaurus) — Own your AI
+- [PocketPal AI](https://pocketpal.llm-ventures.com/) — Your Privacy-First AI Companion
+- [Private AI for iPhone & Mac](https://enclaveai.app/) — Enclave AI - Private, Local, Offline AI Assistant for MacOS and iOS
+- [Private LLM](https://privatellm.app/en) — Local AI Chatbot
+- [PrivateGPT.dev](https://privategpt.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/zylon-ai/private-gpt)
+- [runonweb](https://runonweb.ai/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/midudev/runonweb.ai) — Free AI models that run in the browser
+- [The Local AI Playground](https://www.localai.app/)
+- [Thunderbolt](https://www.thunderbolt.io/) — AI You Control
+- [WebLLM Chat](https://chat.webllm.ai/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/mlc-ai/web-llm-chat)
 
 ### AI Serving Engines
 - ⭐ **[Ainize.ai](https://ainize.ai/)**
@@ -732,68 +782,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [wilpel/caveman-compression](https://github.com/wilpel/caveman-compression) — Caveman Compression is a semantic compression method for LLM contexts
 - [zilliztech/claude-context · GitHub](https://github.com/zilliztech/claude-context)
 
-### AI Local On-Device
-- ⭐ **[a-ghorbani/pocketpal-ai](https://github.com/a-ghorbani/pocketpal-ai)** — An app that brings language models directly to your phone
-- ⭐ **[GPT4All](https://www.nomic.ai/gpt4all)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/nomic-ai/gpt4all)
-- ⭐ **[LM Studio](https://lmstudio.ai/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/lmstudio-ai) — Discover and run local LLMs
-- ⭐ **[Local AI](https://localai.io/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/mudler/LocalAI)
-- ⭐ **[Newelle](https://newelle.qsk.me/#home)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/qwersyk/Newelle) — Your Ultimate Virtual Assistant
-- ⭐ **[Pinokio](https://pinokio.co/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/pinokiocomputer/pinokio) — Localhost Platform for Humans and AI
-- ⭐ **[SillyTavern](https://docs.sillytavern.app/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/SillyTavern/SillyTavern)
-- ⭐ **[Waku](https://waku.sh/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/egoist/waku) — one native app for all your coding agents
-- [AgenticSeek](https://fosowl.github.io/agenticSeek.html) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Fosowl/agenticSeek) — Private AI Assistant
-- [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) — Hundreds of models & providers. One command to find what runs on your hardware
-- [ayushh0110/ScreenMind](https://github.com/ayushh0110/ScreenMind) — AI-powered screen memory — captures, analyzes, and lets you search/chat your screen history. Powered by Gemma 4 . 100% local, 100% private.
-- [BestLLMfor](https://bestllmfor.com/) — Local LLM: which model runs on your machine?
-- [big-AGI](https://big-agi.com/)
-- [CanIRun.ai](https://www.canirun.ai/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/midudev/canirun.ai) — Can your machine run AI models?
-- [Chatbox AI](https://chatboxai.app/en/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/chatboxai/chatbox) — Your AI Copilot, Best AI Client on any device, Free Download
-- [Cotabby](https://www.cotabby.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/FuJacob/cotabby) — local AI autocomplete for macOS
-- [Desert Ant Labs](https://desertant.com/) — On-device AI models and SDKs
-- [Ensu](https://ente.io/ensu/)
-- [fullmoon](https://fullmoon.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/mainframecomputer/fullmoon-ios) — local intelligence
-- [GitHub](https://github.com/chatboxai/chatbox) — chatbox/chatbox: User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
-- [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) — A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
-- [h2oai/h2ogpt · GitHub](https://github.com/h2oai/h2ogpt)
-- [ItzCrazyKns/Perplexica · GitHub](https://github.com/ItzCrazyKns/Perplexica)
-- [Jan](https://jan.ai/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/janhq/jan) — Open-source ChatGPT Alternative
-- [Jeffser/Alpaca · GitHub](https://github.com/Jeffser/Alpaca)
-- [KoboldAI/KoboldAI-Client · GitHub](https://github.com/KoboldAI/KoboldAI-Client)
-- [Layla](https://www.layla-network.ai/) — Experience the Best Offline AI Assistant
-- [Lekh AI](https://lekhai.app/) — Run AI Locally on Mac & iPhone
-- [LibreChat](https://www.librechat.ai/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/danny-avila/LibreChat)
-- [LLM Hub](https://www.llm-hub.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/timmyy123/LLM-Hub) — 15+ Private AI Models on Android, Free
-- [Local Waifu](https://localwaifu.com/) — A self-learning AI companion for macOS
-- [LocalAI](https://play.google.com/store/apps/details?id=com.ApexCreator.localaiapp) — Offline AI Chat LLM - Apps on Google Play
-- [Locally AI](https://locallyai.app/) — Run AI models locally on your iPhone, iPad, and Mac
-- [mlx-optiq · Run LLMs locally on your Mac](https://mlx-optiq.com/)
-- [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile) — Distribute and run LLMs with a single file. · GitHub
-- [nashsu/FreeAskInternet · GitHub](https://github.com/nashsu/FreeAskInternet)
-- [Odysseus](https://odysseusai.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/odysseus-dev/odysseus) — A Self-Hosted AI Workspace
-- [oMLX](https://omlx.ai/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/jundot/omlx) — LLM inference, optimized for your Mac
-- [OpenJarvis](https://openjarvis.stanford.edu/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/open-jarvis/OpenJarvis)
-- [Osaurus](https://osaurus.ai/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/osaurus-ai/osaurus) — Own your AI
-- [PocketPal AI](https://pocketpal.llm-ventures.com/) — Your Privacy-First AI Companion
-- [Private AI for iPhone & Mac](https://enclaveai.app/) — Enclave AI - Private, Local, Offline AI Assistant for MacOS and iOS
-- [Private LLM](https://privatellm.app/en) — Local AI Chatbot
-- [PrivateGPT.dev](https://privategpt.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/zylon-ai/private-gpt)
-- [runonweb](https://runonweb.ai/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/midudev/runonweb.ai) — Free AI models that run in the browser
-- [The Local AI Playground](https://www.localai.app/)
-- [Thunderbolt](https://www.thunderbolt.io/) — AI You Control
-- [WebLLM Chat](https://chat.webllm.ai/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/mlc-ai/web-llm-chat)
-
 ## Specialized Models
-
-### Recognition & Vision
-- [Amazon Rekognition](https://aws.amazon.com/rekognition/) — AWS
-- [ancaferro/myPhotos](https://github.com/ancaferro/myPhotos) — Face detection and cataloging for photo folders — OpenCV YuNet + SFace, Flask UI, SQLite
-- [DeepFakes, Can You Spot Them?](https://detectfakes.media.mit.edu/)
-- [Face_recognition · GitHub](https://github.com/ageitgey/face_recognition)
-- [Fake Image Detector](https://www.fakeimagedetector.com/) — Fake Image Detector Online
-- [fkryan/gazelle](https://github.com/fkryan/gazelle) — Gaze-LLE: Gaze Target Estimation via Large-Scale Learned Encoders
-- [Hive Moderation](https://hivemoderation.com/)
-- [Microsoft Cognitive Services](https://westus.dev.cognitive.microsoft.com/docs/services)
-- [tphakala/birdnet-go](https://github.com/tphakala/birdnet-go) — Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi
 
 ### AI Chess Engine
 - ⭐ **[Stockfish](https://stockfishchess.org/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/official-stockfish/Stockfish) — Open Source Chess Engine
@@ -833,6 +822,17 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [thomasahle/sunfish](https://github.com/thomasahle/sunfish) — Sunfish: a Python Chess Engine in 111 lines of code
 - [Witek902/Caissa](https://github.com/Witek902/Caissa) — Strong chess engine
 - [Yoshie2000/PlentyChess](https://github.com/Yoshie2000/PlentyChess) — A strong UCI chess engine with a neural network based evaluation.
+
+### Recognition & Vision
+- [Amazon Rekognition](https://aws.amazon.com/rekognition/) — AWS
+- [ancaferro/myPhotos](https://github.com/ancaferro/myPhotos) — Face detection and cataloging for photo folders — OpenCV YuNet + SFace, Flask UI, SQLite
+- [DeepFakes, Can You Spot Them?](https://detectfakes.media.mit.edu/)
+- [Face_recognition · GitHub](https://github.com/ageitgey/face_recognition)
+- [Fake Image Detector](https://www.fakeimagedetector.com/) — Fake Image Detector Online
+- [fkryan/gazelle](https://github.com/fkryan/gazelle) — Gaze-LLE: Gaze Target Estimation via Large-Scale Learned Encoders
+- [Hive Moderation](https://hivemoderation.com/)
+- [Microsoft Cognitive Services](https://westus.dev.cognitive.microsoft.com/docs/services)
+- [tphakala/birdnet-go](https://github.com/tphakala/birdnet-go) — Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi
 
 ### Simulation & World Models
 - [deeplethe/utopia](https://github.com/deeplethe/utopia) — World's first open-source enterprise world model.

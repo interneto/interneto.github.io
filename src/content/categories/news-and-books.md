@@ -10,1431 +10,68 @@ description: News, blogs, digital gardens, libraries, and magazines
 
 ## News
 
-### Science Media
-
-#### University Science
-- [BYU Physics and Astronomy](http://www.physics.byu.edu/)
-- [Conec](https://conec.uv.es/)
-
-#### Scientific Publication
-- [American Meteorological Society](https://journals.ametsoc.org/) — Journals
-- [American Scientist](https://www.americanscientist.org/)
-- [Cell Press](https://www.cell.com/)
-- [iDramaLab](https://idrama.science/)
-- [Investigación y Ciencia](https://www.investigacionyciencia.es/)
-- [IOPscience](https://iopscience.iop.org/)
-- [JoVE](https://www.jove.com/)
-- [Medical Xpress](https://medicalxpress.com/)
-- [Nano Nature](https://nano.nature.com/)
-- [Nature](https://www.nature.com/)
-- [Neurology Today](https://journals.lww.com/neurotodayonline/pages/default.aspx)
-- [Optica Publishing Group](https://opg.optica.org/)
-- [Oxford Academic](https://academic.oup.com/journals)
-- [Phys](https://phys.org/)
-- [Plos One](https://journals.plos.org/plosone)
-- [PNAS](https://www.pnas.org/)
-- [Read by QxMD](https://read.qxmd.com/)
-- [Royal Society](https://royalsociety.org/journals)
-- [Schweizerbart science publishers](https://www.schweizerbart.de/home/start)
-- [Science X Network](https://sciencex.com/)
-- [Sciencemag](https://www.sciencemag.org/)
-- [Sciencemag](https://science.sciencemag.org/) — Science
-- [SigmaXi](https://www.sigmaxi.org/)
-- [Springer Nature](https://www.springernature.com/gp)
-- [symmetry magazine](https://www.symmetrymagazine.org/)
-- [The BMJ](https://www.bmj.com/)
-- [The Daily Research](https://www.thedailyresearch.com/)
-- [The Mathematica Journal](https://www.mathematica-journal.com/)
-- [Wiley Online Library](https://agupubs.onlinelibrary.wiley.com/) — AGU Publications
-- [Zenodo](https://zenodo.org/)
-
-##### Medicine Pub
-- [AHA/ASA Journals](https://www.ahajournals.org/)
-- [American College of Physicians](https://annals.org/aim)
-- [EMBO Press](https://www.embopress.org/)
-- [Harvard Health](https://www.health.harvard.edu/)
-- [Journal of Virology](https://jvi.asm.org/)
-- [NIH MedlinePlus Magazine](https://magazine.medlineplus.gov/)
-- [Physical Review Journals](https://journals.aps.org/)
-- [ScienceMag STM](https://stm.sciencemag.org/)
-- [Spandidos Publications](https://www.spandidos-publications.com/)
-- [The American Journal of Medicine](https://www.amjmed.com/)
-- [The Lancet](https://www.thelancet.com/)
-- [The New England Journal of Medicine](https://www.nejm.org/)
-
-##### Pub Repository
-- [arXiv.org](https://arxiv.org/)
-- [bioRxiv.org](https://www.biorxiv.org/)
-- [Frontiers](https://www.frontiersin.org/)
-- [Hindawi](https://www.hindawi.com/)
-- [medRxiv](https://www.medrxiv.org/)
-- [OSA Publishing](https://www.osapublishing.org/)
-- [PLOS](https://plos.org/)
-- [Protocol Exchange on Research Square](https://protocolexchange.researchsquare.com/)
-- [Scitation](https://www.scitation.org/)
-- [Springer link](https://link.springer.com/)
-- [SSRN](https://www.ssrn.com/index.cfm/en/)
-
-##### Chemistry Pub
-- [ACS](https://pubs.acs.org/) — Pubs
-
-##### Physics Pub
-- [CERN Courier](https://cerncourier.com/)
-- [Physics Today](https://physicstoday.scitation.org/journal/pto)
-
-##### Maths Pub
-- [Plus maths mag](https://plus.maths.org/content)
-- [Quanta Magazine](https://www.quantamagazine.org/)
-- [The Book of Threes](https://www.bookofthrees.com/)
-
-#### Scientific Mag
-
-##### Astronomy Mag
-- [Air & Space Magazine](https://www.airspacemag.com/)
-- [AMSAT](https://www.amsat.org/)
-- [Astrobitácora](https://www.astrobitacora.com/)
-- [Astronaut](https://astronaut.com/)
-- [Astronomy & Astrophysics (A&A)](https://www.aanda.org/)
-- [Astronomy Magazine](http://www.astronomy.com/)
-- [collectSPACE](http://www.collectspace.com/index.html)
-- [Curiosmos](https://curiosmos.com/)
-- [Daily Galaxy](https://dailygalaxy.com/)
-- [El Universo Hoy](https://www.eluniversohoy.net/)
-- [Everyday Astronaut](https://everydayastronaut.com/)
-- [NASASpaceFlight](https://www.nasaspaceflight.com/)
-- [RocketLaunch.Live](https://www.rocketlaunch.live/)
-- [Sky & Telescope](https://skyandtelescope.org/)
-- [Space.com](https://www.space.com/)
-- [Spaceflight Now](https://spaceflightnow.com/)
-- [The Space Review](https://www.thespacereview.com/index.html)
-- [Universe Today](https://www.universetoday.com/)
-
-###### UFO Mag
-- [Scientific Coalition for UAP](https://www.explorescu.org/)
-- [UAP News](https://uap.news/)
-- [UFO Congress](https://ufocongress.com/)
-- [UFOHolic](https://ufoholic.com/)
-- [UMMO-Ciencias](https://ummo-ciencias.org/)
-
-###### Space Mag
-- [Astronoo](http://www.astronoo.com/en/)
-- [EclipseWise](http://eclipsewise.com/) — Solar and Lunar Eclipses
-- [MrEclipse.com](https://www.mreclipse.com/)
-- [SpaceFlight Insider](https://www.spaceflightinsider.com/)
-- [Supercluster](https://www.supercluster.com/)
-
-##### Chemistry Mag
-- [Chemistry World](https://www.chemistryworld.com/)
-
-##### Engineering Mag
-- [Arquitectura Viva](http://www.arquitecturaviva.com/)
-- [Engineering](https://www.engineering.com/)
-- [Engineering News-Record](https://www.enr.com/)
-- [IEEE Spectrum](https://spectrum.ieee.org/)
-
-#### Mainstream Science
-- [BBVAOpenMind](https://www.bbvaopenmind.com/)
-- [Bioguia](https://www.bioguia.com/)
-- [C&EN](https://cen.acs.org/index.html)
-- [Carbon Brief](https://www.carbonbrief.org/)
-- [Ciencia de Sofá](https://cienciadesofa.com/)
-- [Cultura Científica](https://culturacientifica.com/)
-- [Discover Magazine](https://www.discovermagazine.com/)
-- [EarthSky](https://earthsky.org/)
-- [Futurity](https://www.futurity.org/)
-- [Green Future](https://greenfuture.io/)
-- [Hipótesis](http://hipotesis.es/)
-- [Inverse](https://www.inverse.com/)
-- [Microsiervos](https://www.microsiervos.com/)
-- [New Scientist](https://www.newscientist.com/)
-- [Noticias de la Ciencia](https://noticiasdelaciencia.com/)
-- [Physics World](https://physicsworld.com/)
-- [Popular Mechanics](https://www.popularmechanics.com/)
-- [Popular Science](https://www.popsci.com/)
-- [SciDev.Net](https://www.scidev.net/global)
-- [ScienceAGoGo](https://www.scienceagogo.com/)
-- [ScienceAlert](https://www.sciencealert.com/)
-- [ScienceDaily](https://www.sciencedaily.com/)
-- [Scientific American](https://www.scientificamerican.com/)
-- [Seeker](https://www.seeker.com/)
-- [Singularity Hub](https://singularityhub.com/)
-- [Smithsonian Magazine](https://www.smithsonianmag.com/)
-- [Soulsask.com](https://soulask.com/)
-- [Welt der Physik](https://www.weltderphysik.de/)
-
-#### Popular Science
-- [Curiosity Daily](https://www.curiositydaily.com/)
-- [HHMI BioInteractive](https://www.biointeractive.org/)
-- [HowStuffWorks](https://www.howstuffworks.com/)
-- [Ingeniero boss](https://www.ingenieroboss.com/)
-- [Lifeder](https://www.lifeder.com/)
-- [Live Science](https://www.livescience.com/)
-- [MuyInteresante](https://www.muyinteresante.es/)
-- [National Geographic](https://www.nationalgeographic.com/)
-- [Natural History Magazine](https://www.naturalhistorymag.com/)
-- [Quo](https://www.quo.es/)
-- [RankRed](https://www.rankred.com/)
-- [Serious Science](http://serious-science.org/)
-- [Sinc](https://www.agenciasinc.es/)
-
-#### Science Communication
-- [Big Van Ciencia](http://www.bigvanciencia.com/)
-- [Tested](https://www.tested.com/)
-
-### Tech Media
-
-#### Gaming Mag
-- [3DJuegos](https://www.3djuegos.com/)
-- [Areajugones](https://areajugones.sport.es/)
-- [DigiStatement](https://digistatement.com/)
-- [Dot Esports](https://dotesports.com/)
-- [esports.com](https://www.esports.com/en)
-- [Eurogamer](https://www.eurogamer.net/)
-- [Game Developer](https://www.gamedeveloper.com/)
-- [Game Informer](https://www.gameinformer.com/)
-- [Game It](https://www.gameit.es/)
-- [Game8｜The Top Gaming and App Walkthroughs Straight from Japan!](https://game8.co/)
-- [Gamepressure](https://www.gamepressure.com/)
-- [GamesIndustry.biz](https://www.gamesindustry.biz/)
-- [GameSpot](https://www.gamespot.com/)
-- [GamesRadar+](https://www.gamesradar.com/uk)
-- [GameStar](https://www.gamestar.com/)
-- [GameWith](https://gamewith.net/)
-- [Generación Xbox](https://generacionxbox.com/)
-- [Gurugamer](https://gurugamer.com/)
-- [HobbyConsolas](https://www.hobbyconsolas.com/)
-- [IGN](https://www.ign.com/)
-- [IND13](https://ind13.com/)
-- [Inven Global](https://www.invenglobal.com/)
-- [Kotaku](https://kotaku.com/)
-- [MCV](https://www.mcvuk.com/)
-- [Mediavida](https://www.mediavida.com/)
-- [Meristation](https://as.com/meristation)
-- [Midgard Digital Content](https://midgarddc.com/)
-- [Mobilegamer.biz](https://mobilegamer.biz/)
-- [Movistar eSports](https://esports.as.com/)
-- [Neoseeker](https://www.neoseeker.com/)
-- [Old School Gamer Magazine](https://www.oldschoolgamermagazine.com/)
-- [PC Gamer](https://www.pcgamer.com/)
-- [Pelit](https://www.pelit.fi/)
-- [Pocket Gamer.biz](https://www.pocketgamer.biz/)
-- [Pocket Tactics](https://www.pockettactics.com/)
-- [Power Unlimited](https://www.pu.nl/)
-- [Push Square](https://www.pushsquare.com/)
-- [Quarter to Three](https://www.quartertothree.com/fp)
-- [Retro Gamer](https://www.retrogamer.net/)
-- [SVG](https://www.svg.com/)
-- [Vandal](https://vandal.elespanol.com/)
-- [Vida Extra](https://www.vidaextra.com/)
-- [VideoGamer.com](https://www.videogamer.com/)
-- [VULKK.com](https://vulkk.com/)
-- [XGN](https://www.xgn.es/)
-
-#### Popular Tech Mag
-- [9to5Google](https://9to5google.com/)
-- [Ars Technica](https://arstechnica.com/)
-- [Beebom](https://beebom.com/)
-- [CNET](https://www.cnet.com/)
-- [Digital Trends](https://www.digitaltrends.com/)
-- [El Output](https://eloutput.com/)
-- [Engadget](https://www.engadget.com/)
-- [Gadgets 360](https://gadgets.ndtv.com/)
-- [GeekWire](https://www.geekwire.com/)
-- [Genbeta](https://www.genbeta.com/)
-- [Gizmodo](https://es.gizmodo.com/)
-- [Hackaday](https://hackaday.com/)
-- [Hipertextual](https://hipertextual.com/)
-- [Lifewire](https://www.lifewire.com/)
-- [MakeUseOf](https://www.makeuseof.com/)
-- [MIT Technology Review](https://www.technologyreview.com/)
-- [TechCrunch](https://techcrunch.com/)
-- [The Tech Report](https://techreport.com/)
-- [TheNextWeb](https://thenextweb.com/latest)
-- [VoltAero](https://www.voltaero.aero/en)
-- [Xataka](https://www.xataka.com/)
-- [ZDNet](https://www.zdnet.com/)
-
-#### Computer Mag
-- [A List Apart](https://alistapart.com/)
-- [ADSLZone](https://www.adslzone.net/)
-- [BleepingComputer](https://www.bleepingcomputer.com/)
-- [CompuSoftGames](https://compusoftgames.com/)
-- [Computer Hope](https://www.computerhope.com/)
-- [ComputerHoy](https://computerhoy.com/)
-- [ComputingForGeeks](https://computingforgeeks.com/)
-- [Deskmodder.de](https://www.deskmodder.de/blog/)
-- [Download Cloud](https://www.downloadcloud.com/)
-- [DZone](https://dzone.com/)
-- [El Chapuzas Informático](https://elchapuzasinformatico.com/)
-- [Escuela de Internet](https://www.escueladeinternet.com/)
-- [GamerPC](https://gamerpc.es/)
-- [Geeknetic](https://www.geeknetic.es/)
-- [Geektopia](https://www.geektopia.es/es)
-- [Guru3D](https://www.guru3d.com/)
-- [H2S Media](https://www.how2shout.com/)
-- [Hard Zone](https://hardzone.es/)
-- [HardwarEsfera](https://hardwaresfera.com/)
-- [HPCwire](https://www.hpcwire.com/)
-- [iBSD](https://i-bsd.com/) — Proving that BSD is a great alternative to Linux
-- [igor´sLAB](https://www.igorslab.de/en)
-- [MacRumors](https://www.macrumors.com/)
-- [Make Tech Easier](https://www.maketecheasier.com/)
-- [MuyComputer](https://www.muycomputer.com/)
-- [Noticias3D](https://www.noticias3d.com/)
-- [OSData](https://www.osdata.com/) — Server Operating Systems Technical Comparison
-- [PCMag](https://www.pcmag.com/)
-- [PCWorld](https://www.pcworld.com/)
-- [Search Engine Journal](https://www.searchenginejournal.com/)
-- [ServerWatch](https://www.serverwatch.com/)
-- [Soft Zone](https://www.softzone.es/)
-- [TechPowerUp](https://www.techpowerup.com/)
-- [TenComputer](https://tencomputer.com/)
-- [The Dark Web](https://the-dark-web.com/)
-- [Tom's Hardware](https://www.tomshardware.com/)
-- [VideoCardz](https://videocardz.com/)
-
-##### Linux Mag
-- [9to5Linux](https://9to5linux.com/) — Linux news, reviews, tutorials, and more
-- [Average Linux User](https://averagelinuxuser.com/)
-- [DebugPoint.com](https://www.debugpoint.com/)
-- [Desde Linux](https://desdelinux.net/)
-- [Destination Linux](https://destinationlinux.network/)
-- [Diolinux](https://diolinux.com.br/)
-- [Distrochooser](https://distrochooser.de/)
-- [End of 10](https://endof10.org/)
-- [Faces of Open Source](https://www.facesofopensource.com/)
-- [Fedora Magazine](https://fedoramagazine.org/)
-- [FOSS Force](https://fossforce.com/)
-- [FOSS Linux](https://www.fosslinux.com/) — Enhance your Linux experience
-- [FOSSMint](https://www.fossmint.com/)
-- [Free Linux Tutorials](https://freelinuxtutorials.com/)
-- [FSMdotCOM](https://www.funkyspacemonkey.com/)
-- [GamingOnLinux](https://www.gamingonlinux.com/)
-- [get GNU/Linux!](https://www.getgnulinux.org/en/)
-- [GoLinuxCloud](https://www.golinuxcloud.com/)
-- [Guía Ubuntu](https://www.guia-ubuntu.com/index.php/P%C3%A1gina_principal)
-- [How to check SSD health in Linux](https://www.techrepublic.com/article/how-to-check-ssd-health-in-linux/)
-- [It's FOSS](https://itsfoss.com/)
-- [Jupiter Broadcasting](https://www.jupiterbroadcasting.com/)
-- [LearnLinuxTV](https://www.learnlinux.tv/)
-- [LibreHunt](https://librehunt.org/)
-- [LibreNews](https://thelibre.news/)
-- [LiGNUx.com](https://lignux.com/)
-- [Linoxide](https://linoxide.com/)
-- [Linux Adictos](https://www.linuxadictos.com/)
-- [Linux Channel](https://linuxchannel.org/)
-- [Linux Compatible](https://www.linuxcompatible.org/)
-- [Linux Gaming Central](https://linuxgamingcentral.com/)
-- [Linux Handbook](https://linuxhandbook.com/)
-- [Linux Hint](https://linuxhint.com/)
-- [Linux Insider](https://linuxinsider.com/)
-- [Linux Journal](https://www.linuxjournal.com/)
-- [Linux Journey](https://linuxjourney.com/)
-- [Linux Shell Tips](https://www.linuxshelltips.com/)
-- [Linux Today](https://www.linuxtoday.com/)
-- [Linux.com](https://www.linux.com/)
-- [Linux.org](https://www.linux.org/)
-- [LinuxBlog.io](https://linuxblog.io/) — Linux, Open Source, and Technology
-- [LinuxCommunity](https://www.linux-community.de/)
-- [LinuxConfig.org](https://linuxconfig.org/)
-- [LinuxForDevices](https://www.linuxfordevices.com/)
-- [LinuxGui](https://linuxgui.com/)
-- [LinuxHub.it](https://linuxhub.it/)
-- [Linuxiac](https://linuxiac.com/) — All things Linux & Open Source
-- [Linuxiarze.pl](https://linuxiarze.pl/)
-- [Linuxize](https://linuxize.com/) — Linux Tips, Tricks and Tutorials
-- [LinuxLinks](https://www.linuxlinks.com/)
-- [Linuxpedia](https://linuxpedia.com.es/)
-- [LinuxReviews](https://linuxreviews.org/LinuxReviews)
-- [Linux命令大全(手册)](https://www.linuxcool.com/) — 真正好用的Linux命令在线查询网站
-- [Lunduke Journal of Technology](https://lunduke.substack.com/) — Substack
-- [Make a Linux App](https://makealinux.app/#/)
-- [MEDevel.com](https://medevel.com/)
-- [ml4w.com](https://www.ml4w.com/)
-- [Morrolinux.it](https://morrolinux.it/)
-- [MuyLinux](https://www.muylinux.com/)
-- [OMG! Linux](https://www.omglinux.com/)
-- [OMG! Ubuntu!](https://www.omgubuntu.co.uk/)
-- [OSnews](https://www.osnews.com/)
-- [OSTechNix](https://ostechnix.com/)
-- [Phoronix](https://www.phoronix.com/)
-- [Tecmint](https://tecmint.com/)
-- [The Linux Documentation Project](http://tldp.org/)
-- [The Linux Experiment](https://thelinuxexp.com/)
-- [TuxDigital](https://tuxdigital.com/)
-- [Ubunlog](https://ubunlog.com/)
-- [Ubuntu Docs!](https://www.ubuntudocs.com/)
-- [Ubuntu Free](https://www.ubuntufree.com/)
-- [UbuntuBoss](https://ubuntuboss.com/) — Easy Ubuntu Tutorials | How to for Ubuntu Linux
-- [VITUX](https://vitux.com/)
-- [Xmodulo](https://www.xmodulo.com/)
-
-##### Windows Mag
-- [Windows Central](https://www.windowscentral.com/)
-- [WindowsClub](https://www.thewindowsclub.com/)
-
-#### Tech Mag
-- ⭐ **[ROBOTS](https://robotsguide.com/)** — Your Guide to the World of Robotics
-- ⭐ **[Solar LT Mag](https://solar.lowtechmagazine.com/)**
-- [01net](https://www.01net.com/)
-- [9to5Mac](https://9to5mac.com/)
-- [9to5Toys](https://9to5toys.com/)
-- [404 Media](https://www.404media.co/)
-- [Accueil](https://www.minimachines.net/) — MiniMachines.net
-- [Adictec](https://adictec.com/)
-- [Analytics India Mag](https://analyticsindiamag.com/)
-- [AppAdvice](https://appadvice.com/appnn)
-- [Bits of Freedom](https://www.bitsoffreedom.nl/)
-- [Built In](https://builtin.com/)
-- [CCM](https://ccm.net/)
-- [Cloudwards](https://www.cloudwards.net/) — Cloud Software & Privacy Tools Reviewed
-- [Dazeinfo](https://dazeinfo.com/)
-- [DRASTIC News](https://drasticnews.com/)
-- [Fossbytes](https://fossbytes.com/)
-- [GEEKrar](https://www.geekrar.com/)
-- [Geeks3D](https://geeks3d.com/) — 3D tech-news, graphics cards, programming, gamedev, pixel hacking and demoscene
-- [gHacks](https://www.ghacks.net/)
-- [Guiding Tech](https://www.guidingtech.com/)
-- [H3XED](https://www.h3xed.com/)
-- [HackerNoon](https://hackernoon.com/)
-- [Hongkiat](https://www.hongkiat.com/blog)
-- [How-To Geek](https://www.howtogeek.com/)
-- [InfoWorld](https://www.infoworld.com/)
-- [InvGate Blog](https://blog.invgate.com/)
-- [Isa Marcial](https://isamarcial.com.mx/)
-- [KODIdb](https://www.kodidb.com/)
-- [Low-Tech Magazine](https://www.lowtechmagazine.com/)
-- [LTT Labs](https://www.lttlabs.com/)
-- [Make](https://makezine.com/) — DIY Projects and Ideas for Makers
-- [NeoTeo](https://www.neoteo.com/)
-- [Neowin](https://www.neowin.net/)
-- [Nobbot](https://www.nobbot.com/)
-- [NotebookCheck.net](https://www.notebookcheck.net/)
-- [Omicron](https://omicrono.elespanol.com/)
-- [Online Tech Tips](https://www.online-tech-tips.com/)
-- [Outsource IT Today](https://outsourceit.today/)
-- [Profesional Review](https://www.profesionalreview.com/)
-- [SecuredYou](https://www.securedyou.com/)
-- [SiliconANGLE](https://siliconangle.com/)
-- [Tech Centurion](https://www.techcenturion.com/)
-- [Tech Storm](https://www.techstorm.tv/)
-- [Tech Xplore](https://techxplore.com/)
-- [Techaeris](https://techaeris.com/)
-- [TechCult](https://techcult.com/)
-- [Techdows](https://techdows.com/)
-- [TechJunkie](https://www.techjunkie.com/)
-- [TechJury](https://techjury.net/)
-- [TECHNOFIZI](https://technofizi.net/)
-- [TechNorms](https://www.technorms.com/)
-- [Techopedia](https://www.techopedia.com/)
-- [TechPout](https://www.techpout.com/)
-- [TechRadar](https://www.techradar.com/)
-- [TechRechard](https://techrechard.com/) — Tips & Tricks
-- [TechRepublic](https://www.techrepublic.com/)
-- [TechSpot](https://www.techspot.com/)
-- [TechWiser](https://techwiser.com/)
-- [The Markup](https://themarkup.org/)
-- [The Register](https://www.theregister.com/)
-- [The Robot Report](https://www.therobotreport.com/)
-- [The Verge](https://www.theverge.com/)
-- [Tip Tipa](https://tiptipa.com/)
-- [TreceBits](https://www.trecebits.com/)
-- [TurboFuture](https://turbofuture.com/)
-- [VentureBeat](https://venturebeat.com/)
-- [WikiVersus](https://www.wikiversus.com/)
-
-#### Camera Magazine
-- [DeCamaras](https://www.decamaras.com/CMS/index.php)
-- [Digital Camera Database](https://www.digicamdb.com/)
-- [Digital Cameras](https://www.imaging-resource.com/)
-- [Digital Photography Review](https://www.dpreview.com/)
-
-#### Phones Mag
-- [Andro4all](https://andro4all.com/)
-- [Android Authority](https://www.androidauthority.com/)
-- [Android Básico](https://androidbasico.com/)
-- [Android Central](https://www.androidcentral.com/)
-- [Android Police](https://www.androidpolice.com/)
-- [Android Sage](https://www.androidsage.com/)
-- [droidcon](https://www.droidcon.com/)
-- [Frandroid](https://www.frandroid.com/)
-- [Get Droid](https://www.getdroidtips.com/)
-- [Movil Zona](https://www.movilzona.es/)
-- [PhoneArena](https://www.phonearena.com/)
-- [Pro Android](https://www.proandroid.com/)
-- [The Custom Droid](https://www.thecustomdroid.com/)
-- [The Custom Rom](https://thecustomrom.com/)
-- [TuTecnoMundo](https://tutecnomundo.com/) — Android, noticias y tutoriales
-- [XDA-Developers](https://www.xda-developers.com/)
-
-#### Vehicle Mag
-
-##### Car Mag
-- [8000vueltas](https://8000vueltas.com/)
-- [Autoweek](https://www.autoweek.com/)
-- [Car and Driver](https://www.caranddriver.com/)
-- [Car Body Design](https://www.carbodydesign.com/)
-- [carwow](https://www.carwow.co.uk/)
-- [Electrek](https://electrek.co/)
-- [Google-info.org](https://google-info.org/)
-- [Heycar](https://heycar.com/)
-- [MotorTrend](https://www.motortrend.com/)
-- [NDTV](https://auto.ndtv.com/)
-- [Road & Track](https://www.roadandtrack.com/)
-- [Supercars](https://www.supercars.net/blog)
-- [Supercars](https://www.supercars.com/)
-- [Tesla-info](https://tesla-info.com/) — Tesla buyers guides, worldwide inventory and support for owners
-- [Teslarati](https://www.teslarati.com/)
-- [The Drive](https://www.thedrive.com/)
-- [Top Gear](https://www.topgear.com/car-news)
-- [TopSpeed](https://www.topspeed.com/)
-
-##### Aviation Mag
-- [Aeroespacio](http://www.aeroespacio.com.ar/)
-- [Aerotendencias](https://www.aerotendencias.com/)
-- [Airfields-Freeman](http://www.airfields-freeman.com/)
-- [Airplane-Pictures.net](https://www.airplane-pictures.net/)
-- [Aviación al Día](https://aviacionaldia.com/)
-- [Aviacion Online](https://www.aviacionline.com/)
-- [AviacionDigital](https://aviaciondigital.com/)
-- [Aviation Report](https://www.aviation-report.com/)
-- [Avion Revue Internacional](https://es.avionrevue.com/)
-- [Controller.com](https://www.controller.com/)
-- [Fly News](https://fly-news.es/)
-- [Flying mag](https://www.flyingmag.com/)
-- [HANGAR X](https://www.hangarx.com.ar/)
-- [Hispaviación](http://www.hispaviacion.es/)
-- [Historia de la Aviación](https://sites.google.com/site/historiadelaaviacion2)
-- [JetPhotos](https://www.jetphotos.com/)
-- [Noticias Aéreas](https://noticiasaereas.com/)
-- [Private Jet Card](https://prijet.com/)
-
-##### Ship Mag
-- [Boat International](https://www.boatinternational.com/)
-- [boats.com](https://es.boats.com/)
-- [Cosas De Barcos](https://www.cosasdebarcos.com/)
-- [Cruise Hive](https://www.cruisehive.com/)
-- [Endurance22](https://endurance22.org/)
-- [Marine Insight](https://www.marineinsight.com/)
-- [Superyachts.com](https://www.superyachts.com/)
-- [The Maritime Executive](https://www.maritime-executive.com/)
-
-#### Informatic Guides
-- [Bitactro](https://bitactro.com/)
-- [Codec Guide](https://www.codecguide.com/)
-- [Codegena](https://codegena.com/)
-- [EveryMac.com](https://everymac.com/)
-- [Hacks.Guide](https://hacks.guide/)
-- [LandChad.net](https://landchad.net/)
-- [Solvetic](https://www.solvetic.com/)
-
-#### Audio Mag
-- [ADAM Audio](https://www.adam-audio.com/en)
-- [Ask.Audio](https://ask.audio/)
-- [Cambridge Audio](https://www.cambridgeaudio.com/row/en)
-- [Darko.Audio](https://darko.audio/)
-- [Guitar World](https://www.guitarworld.com/)
-- [Headphonesty](https://www.headphonesty.com/)
-- [Hispasonic](https://www.hispasonic.com/)
-- [Home DJ Studio](https://homedjstudio.com/)
-- [iFi audio](https://ifi-audio.com/)
-- [Music Critic](https://musiccritic.com/)
-- [Pro Audio Files](https://theproaudiofiles.com/)
-- [Soundphile Review](https://www.soundphilereview.com/)
-
-#### Biotech Mag
-- [Biohackinfo](https://biohackinfo.com/)
-
-#### Internet Mag
-- [Blockonomi](https://blockonomi.com/)
-- [CircleID](https://www.circleid.com/)
-
-#### Web Dev Mag
-- [CodeSource.io](https://codesource.io/)
-- [Make a Website Hub](https://makeawebsitehub.com/)
-- [ProgrammableWeb](https://www.programmableweb.com/)
-
-### Magazine Media
-
-#### Health Mag
-- [AZ Salud](https://azsalud.com/)
-- [CalorieBee](https://caloriebee.com/)
-- [Children's Health Defense](https://childrenshealthdefense.org/)
-- [Cuerpomente](https://www.cuerpomente.com/)
-- [Dieting Well](https://dietingwell.com/)
-- [Discovery DSalud](https://www.dsalud.com/)
-- [Efe Salud](https://www.efesalud.com/espana)
-- [GoodTherapy](https://www.goodtherapy.org/)
-- [Guía tu cuerpo](https://www.guiatucuerpo.com/)
-- [Habitualmente](https://habitualmente.com/)
-- [Health](https://www.health.com/)
-- [KidsHealth](https://kidshealth.org/)
-- [Medical News Today](https://www.medicalnewstoday.com/)
-- [MédicoPlus](https://medicoplus.com/)
-- [Mejor con Salud](https://mejorconsalud.com/)
-- [Mundo Blog](http://www.mundoblog.net/)
-- [Natursan](https://www.natursan.net/)
-- [Plusesmas.com](https://www.plusesmas.com/)
-- [Portal Salud](https://www.portalsalud.com/)
-- [Protección celectromagnética](https://www.proteccionelectromagnetica.com/)
-- [Revista Clara](https://www.clara.es/)
-- [Saber Vivir](https://www.sabervivirtv.com/)
-- [Sabiens](https://sabiens.net/)
-- [Salud Cardiovascular](https://fundaciondelcorazon.com/)
-- [Terapia de frío](https://www.terapiadefrio.com/)
-- [Verywell Health](https://www.verywellhealth.com/)
-- [Vitónica](https://www.vitonica.com/)
-- [Webconsultas](https://www.webconsultas.com/)
-- [WebMD](https://www.webmd.com/)
-
-##### Recipes Mag
-- [Afuegolento](https://www.afuegolento.com/recetas)
-- [De Rechupete](https://www.abc.es/recetasderechupete/) — Recetas de cocina casera que siempre salen
-- [El Aderezo](https://www.eladerezo.com/)
-- [Ensalada de col](https://ensaladadecol.com/)
-- [Food & Nutrition Research](https://foodandnutritionresearch.net/index.php/fnr/index)
-- [La palmera rosa](https://lapalmerarosa.com/)
-- [PequeRecetas](https://www.pequerecetas.com/)
-- [Recetas de rechupete](https://www.recetasderechupete.com/)
-- [Wetaca](https://wetaca.com/)
-- [Wikicocina](http://wikicocina.com/)
-
-##### Nutrition Mag
-- [Badali](http://badali.umh.es/)
-- [Eater](https://www.eater.com/)
-- [Tu Nutricionista Integrativa](https://tunutricionistaintegrativa.com/)
-
-#### Entertainment Mag
-- [Aeon](https://aeon.co/) — a world of ideas
-- [CodigoPoker](https://www.codigopoker.com/)
-- [Complex](https://www.complex.com/)
-- [Cultura Genial](https://www.culturagenial.com/)
-- [Cultural Weekly](https://www.culturalweekly.com/)
-- [Curionautas](https://curionautas.com/)
-- [Daily Dot](https://www.dailydot.com/)
-- [EnkiVillage.org](https://www.enkivillage.org/)
-- [Enter.co](https://www.enter.co/)
-- [Facts Legend](https://factslegend.org/)
-- [Flashbak mag](https://flashbak.com/)
-- [Flipada.com](https://www.flipada.com/)
-- [Flooxer Now](https://www.flooxernow.com/) — Música, Youtubers, influencers, salseo, vídeos virales y animales
-- [Guinness World Records](https://www.guinnessworldrecords.com/)
-- [Input mag](https://www.inputmag.com/)
-- [Madspread](https://www.madspread.com/)
-- [Mashable](https://mashable.com/)
-- [MuggleNet](https://www.mugglenet.com/)
-- [Nerdist](https://nerdist.com/)
-- [Paste Magazine](https://www.pastemagazine.com/)
-- [StageBuddy](https://stagebuddy.com/)
-- [Supercurioso](https://supercurioso.com/)
-- [SYFY WIRE](https://www.syfy.com/)
-- [The Pudding](https://pudding.cool/)
-- [Today I Found Out](https://www.todayifoundout.com/)
-- [Vulture](https://www.vulture.com/)
-- [Webat25](https://www.webat25.org/)
-- [WornOnTV](https://wornontv.net/)
-- [Yasss](https://www.yasss.es/)
-
-##### Stylish Mag
-- [GQ España](https://www.revistagq.com/) — Revista de tendencias, moda, actualidad y estilo de vida
-
-###### Popular Culture
-- [Bored Panda](https://www.boredpanda.com/)
-- [BrightSide](https://brightside.me/)
-- [ComingSoon.net](https://www.comingsoon.net/)
-- [Culturebot](http://www.culturebot.org/)
-- [Estilo Next](https://estilonext.com/)
-- [History Daily](https://historydaily.org/)
-- [Inckredible](https://inckredible.com/)
-- [JustRichest](https://justrichest.com/)
-- [Lifehacker](https://lifehacker.com/)
-- [Mentes Liberadas](https://www.mentesliberadas.com/)
-- [PopBuzz](https://www.popbuzz.com/)
-- [Querido Youtuber](https://www.queridoyoutuber.com/)
-- [Ranker](https://www.ranker.com/)
-- [The A.V. Club](https://www.avclub.com/)
-- [The Art of Manliness](https://www.artofmanliness.com/)
-- [The Direct](https://thedirect.com/)
-- [The MAN](https://theman.today/)
-- [The Mind Unleashed](https://themindunleashed.com/)
-- [theCHIVE](https://thechive.com/)
-- [UPROXX](https://uproxx.com/)
-- [VICE](https://www.vice.com/es)
-- [WIRED](https://www.wired.com/)
-
-###### Lifestyle Mag
-- [Cup of Jo](https://cupofjo.com/)
-- [Divinity](https://www.divinity.es/)
-- [National Today](https://nationaltoday.com/)
-- [Uppers](https://www.uppers.es/)
-
-**Men Mag**
-- [AskMen](https://www.askmen.com/)
-- [For Him Magazine](http://fhm.com/)
-- [GQ](https://www.gq.com/) — Men's Fashion, Style, Grooming, Fitness, Entertainment, Lifestyle, News & Politics
-- [Maxim](https://www.maxim.com/)
-- [Men's Health](https://www.menshealth.com/)
-- [Suburban Men](https://www.suburbanmen.com/)
-
-**Women Mag**
-- [Playboy](https://www.playboy.com/)
-- [Stylia.fr](https://www.stylia.fr/)
-- [Women's Health](https://www.womenshealthmag.com/)
-- [World Swimsuit](https://worldswimsuit.com/)
-
-###### Celebrity Mag
-- [Biogossipy](https://biogossipy.com/)
-- [BuzzFeed](https://www.buzzfeed.com/tvandmovies)
-- [Capital fm](https://www.capitalfm.com/)
-- [CelebHealthMagazine](https://celebhealthmagazine.com/)
-- [CelebMafia](https://celebmafia.com/)
-- [CelebrityAccess](https://celebrityaccess.com/)
-- [Celebs Now](https://www.celebsnow.co.uk/)
-- [Cultture](https://www.cultture.com/)
-- [Dexerto](https://www.dexerto.com/)
-- [Diezminutos](https://www.diezminutos.es/)
-- [DIRT](https://www.dirt.com/) — Luxury Real Estate News
-- [DramaPanda](http://www.dramapanda.com/)
-- [Dreshare](https://www.dreshare.com/)
-- [Europa Press](https://www.europapress.es/)
-- [FormulaTV](https://www.formulatv.com/)
-- [Gossip Gist](https://gossipgist.com/)
-- [Hola!](https://www.hola.com/)
-- [Hollywood Reporter](https://www.hollywoodreporter.com/)
-- [Just Jared](https://www.justjared.com/)
-- [Lecturas](https://www.lecturas.com/)
-- [Look OkDiario](https://look.okdiario.com/)
-- [LOVE](https://www.thelovemagazine.co.uk/)
-- [New Idea](https://www.newidea.com.au/)
-- [People](https://people.com/)
-- [Rolling Stone](https://www.rollingstone.com/)
-- [Semana](https://www.semana.es/)
-- [The Washington Independent](https://washingtonindependent.com/)
-- [The WOW Report](https://worldofwonder.net/)
-- [TheRichest](https://www.therichest.com/)
-- [TMZ](https://www.tmz.com/)
-- [Us Magazine](https://www.usmagazine.com/)
-- [Variety](https://variety.com/)
-- [Vbox7](https://www.vbox7.com/)
-- [VIX](https://www.vix.com/es)
-- [What's on Weibo](https://www.whatsonweibo.com/)
-- [XOXO](https://xoxo.news/)
-
-###### Fashion Mag
-- [BASIC Magazine](http://basic-magazine.com/)
-- [Cafe.se](https://www.cafe.se/)
-- [Cosmopolitan](https://www.cosmopolitan.com/)
-- [ELLE](https://www.elle.com/)
-- [Fashion Forward](https://fashionforward.mako.co.il/)
-- [FASHION Magazine](https://fashionmagazine.com/)
-- [Femina](https://www.femina.dk/)
-- [Glamour](https://www.glamour.com/fashion)
-- [GRAZIA](https://graziamagazine.com/)
-- [Gwyneth Paltrow](https://gwynethpaltrow.com/)
-- [Harper's BAZAAR](https://www.harpersbazaar.com/)
-- [Hypebeast](https://hypebeast.com/)
-- [JJnet](https://jj-jj.net/)
-- [L'Officiel](https://www.lofficiel.com/)
-- [Models.com](https://models.com/)
-- [non-no.jp](https://nonno.hpplus.jp/)
-- [nStyle](https://www.instyle.com/)
-- [Quién](https://www.quien.com/)
-- [Refinery29](https://www.refinery29.com/en-us)
-- [SANDFLAIR](https://sandflair.com/)
-- [Telva](https://www.telva.com/)
-- [The Business of Fashion](https://www.businessoffashion.com/)
-- [The CUT](https://www.thecut.com/)
-- [TheFashionBall](https://www.thefashionball.com/)
-- [V MAGAZINE](https://vmagazine.com/)
-- [Vanity Fair mag](https://www.vanityfair.com/news)
-- [Vanity Fair revista](https://www.revistavanityfair.es/)
-- [W Magazine](https://www.wmagazine.com/)
-
-##### Satire & Humour News
-- [El Chigüire Bipolar](https://www.elchiguirebipolar.net/)
-- [El Dizque](https://www.eldizque.com/)
-- [El Jueves](https://www.eljueves.es/)
-- [El Mundo Today](https://www.elmundotoday.com/)
-- [Hay Noticia](https://haynoticia.es/)
-- [Le Gorafi](http://www.legorafi.fr/)
-- [RIA FogNews](http://fognews.ru/)
-- [The Daily Mash](https://www.thedailymash.co.uk/)
-- [The DailyER](http://thedailyer.com/)
-
-##### Music Mag
-- [All About Jazz](https://www.allaboutjazz.com/)
-- [AllMusic](https://www.allmusic.com/)
-- [Billboard](https://www.billboard.com/)
-- [Cool Accidents](https://www.coolaccidents.com/)
-- [Discogs](https://www.discogs.com/) — Music Database and Marketplace
-- [DJMag](https://djmag.com/)
-- [EDM](https://edm.com/)
-- [HipHopDX](https://hiphopdx.com/)
-- [laplaylist.es](https://laplaylist.es/)
-- [Promusicae](https://www.promusicae.es/)
-- [RA · Discover Electronic Music and Events](https://ra.co/)
-- [Rcokdelux](https://www.rockdelux.com/)
-- [The Beatles Bible](https://www.beatlesbible.com/)
-- [The DJ List](https://thedjlist.com/)
-- [Todomusica](https://www.todomusica.org/)
-- [Vibe](https://www.vibe.com/)
-
-##### Cinema Mag
-- [A.V. Club Film](https://film.avclub.com/)
-- [Academia de cine](https://www.academiadecine.com/)
-- [cine.com](https://www.cine.com/)
-- [Cinéfilos](https://cinefilosoficial.com/)
-- [Cinemanía](https://cinemania.20minutos.es/)
-- [eCartelera](https://www.ecartelera.com/)
-- [Filmmaker Magazine](https://filmmakermagazine.com/)
-- [In Their Own League](https://intheirownleague.com/)
-- [Kinocheck](https://kinocheck.com/)
-- [Movie locations](https://www.movie-locations.com/)
-- [SensaCine](https://www.sensacine.com/)
-- [Trailers From Hell](https://trailersfromhell.com/)
-- [Watch the Titles!](https://www.watchthetitles.com/)
-
-##### Reading Mag
-- [Círculo de lectores](https://www.circulo.es/)
-- [Cosmere](https://cosmere.es/) — Brandon Sanderson fan
-- [Electric literature](https://electricliterature.com/)
-- [The Bookseller](https://www.thebookseller.com/)
-
-##### Anime Mag
-- [SomosKudasai.com](https://somoskudasai.com/)
-
-#### Business Mag
-- [American Heritage](https://www.americanheritage.com/)
-- [Bloomberg](https://www.bloomberg.com/europe)
-- [Bolsamania](https://www.bolsamania.com/)
-- [Bourse](https://www.boursier.com/)
-- [Burbuja.info](https://www.burbuja.info/inmobiliaria)
-- [Business Insider](https://www.businessinsider.es/)
-- [Capital](https://www.capital.fr/)
-- [DayliFX](https://www.dailyfx.com/)
-- [Digiday](https://digiday.com/)
-- [E2EXCHANGE](https://www.e2exchange.com/)
-- [Economic Times](https://economictimes.indiatimes.com/)
-- [El Blog Salmón](https://www.elblogsalmon.com/)
-- [elEconomista](https://www.eleconomista.es/)
-- [Expansión](https://www.expansion.com/)
-- [Financial Review](https://www.afr.com/)
-- [Financial Times](https://www.ft.com/)
-- [Forbes](https://www.forbes.com/)
-- [Fortune](https://fortune.com/)
-- [ihodl.com](https://ihodl.com/)
-- [Inc mag](https://www.inc.com/)
-- [Infobolsa](https://www.infobolsa.es/)
-- [Insider](https://www.insider.com/)
-- [International Business Times](https://www.ibtimes.com/)
-- [Invertia](https://www.invertia.com/es/mercados/bolsa)
-- [Investing](https://es.investing.com/)
-- [Investopedia](https://www.investopedia.com/)
-- [Libre Mercado](https://www.libremercado.com/)
-- [Marketplace](https://www.marketplace.org/)
-- [MarketScreener](https://www.marketscreener.com/)
-- [MarketWatch](https://www.marketwatch.com/)
-- [Salario Mínimo](http://www.salariominimo.es/)
-- [The Banker](https://www.thebanker.com/)
-- [The Economist](https://www.economist.com/)
-- [The Economist](https://www.eiu.com/n/) — Intelligence Unit
-- [The Land Report](https://landreport.com/)
-- [Yahoo Finance](https://finance.yahoo.com/)
-
-##### Cryptocurrency News
-- [BeInCrypto](https://beincrypto.com/)
-- [Bitcoin Magazine](https://bitcoinmagazine.com/)
-- [Bitcoin News](https://news.bitcoin.com/)
-- [Bitcoin Wisdom](https://bitcoinwisdom.com/)
-- [Bitcoinist](https://bitcoinist.com/)
-- [CoinClarity](https://coinclarity.com/)
-- [CoinDesk](https://www.coindesk.com/)
-- [Coindodo.io](https://coindodo.io/)
-- [Coins Mag](https://coins-mag.com/)
-- [Cointelegraph](https://cointelegraph.com/)
-- [CoinWarz](https://www.coinwarz.com/)
-- [Crypto News](https://cryptonews.com/)
-- [CryptoGround](https://www.cryptoground.com/)
-- [CryptoMatrix](https://cryptomatrix.fr/)
-- [CryptoPotato](https://cryptopotato.com/)
-- [Cyptonews.net](https://cryptonews.net/)
-- [Decrypt](https://decrypt.co/)
-- [Digiconomist](https://digiconomist.net/)
-- [FunOntheRide](https://www.funontheride.com/)
-- [NewsBTC](https://www.newsbtc.com/)
-- [Read.cash](https://read.cash/)
-- [Rekt News](https://rekt.news/)
-- [Territorio Bitcoin](https://www.territoriobitcoin.com/)
-- [The Block Crypto](https://www.theblockcrypto.com/)
-
-#### Fact Checker
-- [AFP Fact Check](https://factcheck.afp.com/)
-- [Bellingcat](https://www.bellingcat.com/)
-- [Catholic Factchecking](https://catholic-factchecking.com/)
-- [Check Your Fact](https://checkyourfact.com/)
-- [Chequeado](https://chequeado.com/)
-- [Contrail Science](https://contrailscience.com/)
-- [EFE Verifica](https://verifica.efe.com/)
-- [FactCheck](https://www.factcheck.org/)
-- [Full Fact](https://fullfact.org/)
-- [Maldita](https://maldita.es/)
-- [Myth Detector](https://mythdetector.ge/en/)
-- [PolitiFact](https://www.politifact.com/)
-- [Poynter](https://www.poynter.org/)
-- [Skeptical Inquirer](https://skepticalinquirer.org/)
-- [Snopes](https://www.snopes.com/)
-- [Verificat](https://www.verificat.cat/)
-
-##### Debunk Blog
-- [BumiDatar.id](https://bumidatar.id/)
-- [Debunking Flat Earth](https://flatearth.ws/)
-- [Flat Earth Lunacy](https://flatearthlunacy.com/)
-- [Metabunk.org](https://www.metabunk.org/home/)
-- [Refutando la Tierra Plana](https://refutandotp.blogspot.com/)
-
-#### Education Mag
-- [Addicted 2 Success](https://addicted2success.com/)
-- [EDUCACIÓN 3.0](https://www.educaciontrespuntocero.com/)
-- [FamilyEducation](https://www.familyeducation.com/)
-- [Forte Labs](https://fortelabs.co/blog)
-- [Owlcation](https://owlcation.com/)
-- [Tes](https://www.tes.com/news) — News
-- [ThoughtCo](https://www.thoughtco.com/)
-
-##### University Ranking Mag
-- [Shanghai ranking](http://www.shanghairanking.com/)
-- [Times Higher Education](https://www.timeshighereducation.com/)
-- [U-ranking](https://www.u-ranking.es/)
-- [uniRank](https://www.4icu.org/)
-- [Uniworld](http://uniworlduk.es/)
-
-#### Alternative Mag
-- [21st Century Wire](https://21stcenturywire.com/)
-- [Ancient Code](https://www.ancient-code.com/)
-- [AULIS Online](https://www.aulis.com/index.html)
-- [Before It's News](https://beforeitsnews.com/)
-- [Best News Here](https://bestnewshere.com/)
-- [BIIE](https://biie.org/ultimas-noticias)
-- [Canal TLV1 / Toda La Verdad Primero](https://canaltlv1.com/) — Un medio de difusión independiente y ajeno a intereses que no sean los de el bien común nacional por encima de todo.
-- [CienciaySaludNatural](https://cienciaysaludnatural.com/)
-- [Coercion Code](https://coercioncode.com/)
-- [Daily Stormer](https://dailystormer.su/)
-- [EducaciónlibreySoberana](https://educacionlibreysoberana.wordpress.com/)
-- [Ejército Remanente](https://ejercitoremanente.com/)
-- [El Investigador](https://elinvestigador.org/)
-- [El Vórtice Radio](https://www.elvorticeradio.com/)
-- [Enprimeraplana.org](https://enprimeraplana.org/)
-- [Entre Noticias](https://rubenluengas.com/)
-- [Espacio en Blanco](http://www.espacioenblanco.es/web)
-- [Espacio Misterio](https://www.espaciomisterio.com/)
-- [Europe Reloaded](https://www.europereloaded.com/)
-- [Exemplore](https://exemplore.com/)
-- [Flippityflop.es](https://flippityflop.es/)
-- [Frontnieuws](https://www.frontnieuws.com/)
-- [Geoengineering Watch](https://www.geoengineeringwatch.org/)
-- [Hibbeler Productions](https://hibbelerproductions.com/)
-- [How and Why's](https://www.howandwhys.com/)
-- [Humans Are Free](https://humansarefree.com/)
-- [Infowars](https://www.infowars.com/)
-- [Instituto Rothbard](https://rothbardbrasil.com/)
-- [Intrahistoria21](https://www.intrahistoria21.es/)
-- [KontraInfo](https://kontrainfo.com/)
-- [La Ciencia Perdida](https://artursala.wordpress.com/)
-- [La quinta columna](https://www.laquintacolumna.net/)
-- [Los Liberales](https://losliberales.org/)
-- [Los misterios de la tierra](https://losmisteriosdelatierra.es/)
-- [Mavi Gazetem](https://www.mavigazetem.com.tr/)
-- [mil21](https://www.mil21.es/)
-- [mpr21](https://mpr21.info/)
-- [muelasgaitan](https://muelasgaitan.wordpress.com/)
-- [MUFON](https://www.mufon.com/)
-- [Mundo Desconocido](https://www.mundodesconocido.es/)
-- [Nave del Misterio](https://viajesnavedelmisterio.com/)
-- [No+Mentiras](https://nomasmentiras.uy/)
-- [Operation-Nation](https://operation-nation.com/)
-- [Orwell City](https://www.orwell.city/)
-- [Phi Beta Iota](https://phibetaiota.net/)
-- [Philosophers Stone](https://philosophers-stone.info/)
-- [Plano existencial](https://www.planoexistencial.com/)
-- [plural-21](https://plural-21.org/)
-- [Project Veritas](https://www.projectveritas.com/)
-- [Qanon-news](https://qanon-news.com/)
-- [REM space](https://remspace.net/)
-- [Steve Quayle](https://www.stevequayle.com/)
-- [Straight to the point](https://straight2point.info/)
-- [The Anagram Times](https://www.anagramtimes.com/)
-- [The Gateway Pundit](https://www.thegatewaypundit.com/)
-- [The Liberty Beacon](https://www.thelibertybeacon.com/)
-- [The Truth Behind](https://thetruthbehind.tv/)
-- [Top Secret Writers](https://www.topsecretwriters.com/)
-- [We Are Change](https://wearechange.org/)
-- [What On Earth Is Happening](https://www.whatonearthishappening.com/)
-- [Win War](https://win-war.org/)
-- [Zerohedge](https://www.zerohedge.com/)
-
-##### Por la Verdad
-- [Biólogos por la verdad](https://biologosporlaverdad.es/)
-- [Médicos por la verdad](https://medicosporlaverdad.net/)
-- [Periodistas por la verdad](https://periodistasporlaverdad.com/)
-
-#### Military Mag
-- [African Aerospace](https://www.africanaerospace.aero/)
-- [Air Force Magazine](https://www.airforcemag.com/)
-- [Air Force Technology](https://www.airforce-technology.com/)
-- [Airliners.net](https://www.airliners.net/)
-- [Airman Dodlive](https://airman.dodlive.mil/)
-- [Atomcentral](https://www.atomcentral.com/)
-- [Benemérita al día](https://www.benemeritaaldia.org/)
-- [Civil Air Patrol Newsroom](https://www.cap.news/)
-- [Defence IQ](https://www.defenceiq.com/)
-- [Defensa](https://www.defensa.com/)
-- [DefensayAviacion.info](http://www.outono.net/elentir/defensa-y-aviacion)
-- [Defense News](https://www.defensenews.com/)
-- [Diario Militar](https://diariomilitar.es/)
-- [FlightGlobal](https://www.flightglobal.com/)
-- [GlobalSecurity](https://www.globalsecurity.org/index.html)
-- [Inteligencia, Espionaje y Servicios Secretos](https://www.intelpage.info/)
-- [Military & Aerospace Electronics](https://www.militaryaerospace.com/)
-- [Military Times](https://www.militarytimes.com/)
-- [Military.com](https://www.military.com/)
-- [Naval News](https://www.navalnews.com/)
-- [Naval Technology](https://www.naval-technology.com/)
-- [SOFREP](https://sofrep.com/)
-- [Stripes](https://www.stripes.com/)
-- [We Are The Mighty](https://www.wearethemighty.com/)
-
-#### Mystic Mag
-- [Cadena Aurea](http://cadenaaurea.com/)
-- [Guía sobre el crecimiento espiritual y la ley de la atracción](https://senderosespirituales.com/)
-- [Ikerjimenez.com](https://www.ikerjimenez.com/)
-- [InterSer](https://interser.ning.com/)
-- [La Caja de Pandora](https://www.cajadepandora.com/)
-- [La Guia Esotérica](https://laguiaesoterica.com/)
-- [La numerología](https://www.todalanumerologia.com/) — Una guía completa para comprender su importancia y aplicaciones
-- [Land Before Time](https://landbeforetime.home.blog/)
-- [Magic Horoscope](https://themagichoroscope.com/)
-- [Reverend Neargood, O.C.](https://neargood.net/)
-- [WeMystic](https://www.wemystic.com/)
-- [Wicca Escuela de Magia Ofiuco](https://ofiuco.com/)
-
-##### Consciousness Mag
-- [3D to 5D Consciousness](https://www.3dto5dconsciousness.com/)
-- [Artur Sala](https://www.artursala.com/)
-- [Borja Vilaseca](https://borjavilaseca.com/)
-- [Consciousvitality](https://www.consciousvitality.com/)
-- [Hermandad Blanca](https://hermandadblanca.org/)
-- [In5D](https://in5d.com/)
-- [International Academy of Consciousness](https://www.iacworld.org/) — IAC
-- [Mia Astral](https://miastral.com/)
-- [Mundo Pránico](https://www.mundopranico.com/)
-- [Neobeats](https://neobeats.de/)
-- [Out-of-Body Experience (OBE4U)](https://obe4u.com/)
-- [Qualia Computing](https://qualiacomputing.com/)
-- [Significado de los Sueños](https://significadosdelossuenos.net/)
-- [Tarot](https://www.tarot.com/)
-- [Time for truth](https://timefortruth.es/)
-- [Viajes en el astral](http://www.viajesenelastral.org/)
-- [Vorterix](https://vorterix.com/)
-- [WAOPlanet](https://waoplanet.com/)
-- [YOSOY](https://yosoy.red/)
-
-##### Astrology Mag
-- [Astro-Charts](https://www.astro-charts.com/)
-- [Astro-Seek](https://www.astro-seek.com/)
-- [Astrocentro](https://mi.astrocentro.com/)
-- [Astrologia Experimental](https://astrologiaexperimental.com/)
-- [AstrologyAnswers](https://astrologyanswers.com/)
-- [Astronologia](https://astronlogia.com/)
-- [Astrotheme](https://www.astrotheme.com/)
-- [Cafe Astrology](https://cafeastrology.com/)
-- [Horoscope.com](https://www.horoscope.com/us/index.aspx)
-
-#### How to Guide
-- [Best Reviews Guide](https://www.bestreviews.guide/)
-- [DoItYourself.com](https://www.doityourself.com/)
-- [eHow](https://www.ehow.com/)
-- [eHow español](https://www.ehowenespanol.com/)
-- [Folyo.me](https://folyo.me/)
-- [Learn Me A Bitcoin (By Greg Walker)](https://learnmeabitcoin.com/)
-- [Lifehack](https://www.lifehack.org/)
-- [Wonder How To](https://www.wonderhowto.com/)
-
-#### Travel Mag
-- [AFAR](https://www.afar.com/)
-- [Budget Travel](https://www.budgettravel.com/)
-- [Cruising World](https://www.cruisingworld.com/)
-- [Culture Trip](https://theculturetrip.com/)
-- [Destinations Magazine](https://destinationsmagazine.com/)
-- [Euromonitor International](https://www.euromonitor.com/)
-- [Islands](https://www.islands.com/)
-- [Trailer Life](https://www.trailerlife.com/)
-- [Travel + Leisure](https://www.travelandleisure.com/)
-- [Travel Mag](https://www.travelmag.com/)
-- [Travel Magazine](https://travelmagazine.com/)
-- [Yachting](https://www.yachtingmagazine.com/)
-
-#### Politics Mag
-- [Foreign Policy](https://foreignpolicy.com/)
-- [Global Issues](https://www.globalissues.org/)
-- [LIFE](https://www.life.com/)
-- [Noema Magazine](https://www.noemamag.com/)
-- [OnTheIssues.org](https://www.ontheissues.org/default.htm)
-- [POLITICO](https://www.politico.com/)
-- [Protocol-com](https://www.protocol.com/)
-- [Swiss Policy Research](https://swprs.org/)
-- [The New Humanitarian](https://www.thenewhumanitarian.org/)
-
-##### Environment Mag
-- [ReTime.org](https://retime.org/)
-
-#### Religion Mag
-- [Adoración y Liberación](https://adoracionyliberacion.com/)
-- [Antiguas religiones del mundo](https://sites.google.com/site/antiguasreligionesdelmundo)
-- [Chabad Lubavitch](http://www.chabad.org/)
-- [Hablemosdereligion](https://hablemosdereligion.com/)
-- [IslamiCity](https://www.islamicity.org/)
-- [Knowing Jesus](https://www.knowing-jesus.com/)
-- [Learn Religions](https://www.learnreligions.com/)
-- [New Advent](https://www.newadvent.org/)
-- [Religión en Libertad](https://www.religionenlibertad.com/)
-- [Vatican News](https://www.vaticannews.va/en.html)
-- [World Last Chance](https://www.worldslastchance.com/)
-- [Zarathushtra](https://www.zarathushtra.com/)
-
-#### Juridical News
-- [Ámbito Jurídico](https://www.ambitojuridico.com/)
-- [Diario Jurídico](https://www.diariojuridico.com/)
-- [Economist & Jurist](https://www.economistjurist.es/)
-- [Judicial Watch](https://www.judicialwatch.org/)
-- [JURIST](https://www.jurist.org/)
-- [Legal Today](https://www.legaltoday.com/)
-- [Noticias Jurídicas](https://noticias.juridicas.com/)
-- [True Scoop](https://www.truescoopnews.com/)
-
-#### Journalism Mag
-- [Exposing the Invisible](https://exposingtheinvisible.org/en)
-
-#### Psychology Mag
-- [Sueños Significados](https://suenosignificado.com/)
-- [TheMindFool](https://themindfool.com/)
+### Arts Media
+
+#### Architecture Mag
+- [ArchDaily](https://www.archdaily.com/)
+- [Archinect](https://archinect.com/)
+- [Architectural Designs](https://www.architecturaldesigns.com/)
+- [Architectural Digest](https://www.architecturaldigest.com/)
+- [Architizer](https://architizer.com/)
+- [Archnet](https://archnet.org/)
+- [ARQHYS](https://www.arqhys.com/)
+- [Dezeen Magazine](https://www.dezeen.com/)
+- [Home Stratosphere](https://www.homestratosphere.com/)
+- [Metalocus](https://www.metalocus.es/es)
+- [Patchwork Architecture](https://patchworkarchitecture.co.nz/)
+- [Search.nl](https://www.search.nl/)
+- [The Architect](https://www.archpaper.com/)
+- [WebUrbanist](https://weburbanist.com/)
+
+#### Art Mag
+- [artFido](https://www.artfido.com/)
+- [ASC Mag](https://ascmag.com/)
+- [Hyperallergic](https://hyperallergic.com/)
+- [My Modern Met](https://mymodernmet.com/)
+- [Yume Magazine](https://www.yumemag.net/)
+
+#### Design Mag
+- [Adobe 99U](https://99u.adobe.com/)
+- [Affinity Spotlight](https://affinityspotlight.com/)
+- [All3dp](https://all3dp.com/)
+- [ArtStation Magazine](https://magazine.artstation.com/)
+- [BlenderNation](https://www.blendernation.com/)
+- [Brandemia](http://www.brandemia.org/)
+- [Butterick’s Practical Typography](https://practicaltypography.com/)
+- [Creative Bloq](https://www.creativebloq.com/)
+- [CreativesFeed](https://creativesfeed.com/)
+- [Designer Tips](https://www.designer.tips/)
+- [EditingCorp](https://www.editingcorp.com/)
+- [Fast Company](https://www.fastcompany.com/)
+- [Gràffica](https://graffica.info/)
+- [iF World Design Guide](https://ifworlddesignguide.com/)
+- [IIDA](https://iida.org/)
+- [Logos By Nick](https://logosbynick.com/)
+- [Lovers Magazine](https://www.loversmagazine.com/)
+- [mprove ideas + interaction + design](https://mprove.de/)
+- [OurSketch](https://oursketch.com/)
+- [Pictoline](https://www.pictoline.com/)
+- [Roomstyler](https://roomstyler.com/)
+- [Stable Diffusion Art](https://stable-diffusion-art.com/) — Tutorials, prompts and resources
+- [Techseedr.com](https://techseedr.com/)
+- [The Creative Hagja](https://www.thecreativehagja.com/)
+- [The Design Files](https://thedesignfiles.net/)
+- [The Tutor Magazine](https://thetutormagazine.com/)
+- [Typographica](https://typographica.org/)
+- [UX Collective](https://uxdesign.cc/)
+- [Wallpaper* Magazine](https://www.wallpaper.com/)
+
+#### Literature Mag
+- [London Fictions](https://www.londonfictions.com/)
+- [London Review of Books](https://www.lrb.co.uk/)
+- [Sociología Contemporánea](https://sociologiac.net/)
 
 ### Blogs Media
-
-#### Technology Blog
-- [Blur Busters](https://blurbusters.com/)
-- [CanaryRam](https://canaryram.site/)
-- [Data Horde](https://datahorde.org/)
-- [Digital Inspiration](https://www.labnol.org/)
-- [Emezeta](https://www.emezeta.com/)
-- [Future Timeline](https://www.futuretimeline.net/)
-- [Future Tools Weekly](https://futuretools.beehiiv.com/)
-- [Gizcomputer](https://www.gizcomputer.com/)
-- [Gizhogar](https://www.gizhogar.com/)
-- [Gizlogic](https://www.gizlogic.com/)
-- [Giztele](https://www.giztele.com/)
-- [I Love Free Software](https://www.ilovefreesoftware.com/)
-- [Informático Vitoria](https://www.informaticovitoria.com/)
-- [Is AI Profitable Yet?](https://isaiprofitable.com/)
-- [kilObit](https://kil0bit.blogspot.com/)
-- [Kimovil Blog](https://blog.kimovil.com/es)
-- [List Of Freeware](https://listoffreeware.com/)
-- [Mozilla Hacks](https://hacks.mozilla.org/)
-- [MundoCuentas](https://www.mundocuentas.com/)
-- [OneZero](https://onezero.medium.com/)
-- [Productive Engineer](https://theproductiveengineer.net/)
-- [Rolando Barry](https://honear.notion.site/) — Notion
-- [Secure77](https://secure77.de/)
-- [Tech Debt](https://justtechdebt.com/)
-- [The Bryant Review](https://gardinerbryant.com/)
-- [Tyler's Tech](https://tylerstech.me/)
-- [Vegibit](https://vegibit.com/)
-- [WindowsLoop](https://windowsloop.com/)
-- [WT.Social](https://wt.social/wt/artificial-intelligence) — AI
-- [WT.Social](https://wt.social/wt/free-software) — Free Software
-
-#### Science Blog
-- [100ceros](https://100ceroscom.wordpress.com/)
-- [Alejandro Matemáticas](https://alejandromatematicas.wordpress.com/)
-- [Aprender y enseñar Matemáticas](https://aprender-ensenyar-matematicas.blogspot.com/)
-- [Aptipedia Tecknowledgies](https://aptipedia.blogspot.com/)
-- [DemographeR's notes](https://ikashnitsky.github.io/)
-- [Ecoosfera](https://ecoosfera.com/)
-- [El blog del perro del desierto](https://perrodeldesierto.blogspot.com/)
-- [El profe de Física](https://elprofedefisica.naukas.com/)
-- [el Profe de Física](https://elprofedefisica.es/)
-- [Energías Libres](https://energiaslibres.wordpress.com/)
-- [Espacio, Astronomía y Ciencia](https://www.facebook.com/JJBENAVENTERODRIGUEZ)
-- [ExoGenesis](https://exo.substack.com/) — Substack
-- [Gaussianos](https://www.gaussianos.com/)
-- [Geometría Sagrada](https://www.sacred-geometry.es/)
-- [La raíz cuadrada del blog](https://rrocha111.wordpress.com/)
-- [Los hijos De Lagrange](https://loshijosdelagrange.wordpress.com/)
-- [masmates.net](https://masmates.net/)
-- [Mathematics and computer science](https://trizenx.blogspot.com/) — Blogspot
-- [MatPalm](https://matpalm.com/blog)
-- [Naukas](https://naukas.com/)
-- [Pedro Fortuny Ayuso](https://pfortuny.net/)
-- [Principia Scientific](https://principia-scientific.com/)
-- [PsicoActiva](https://www.psicoactiva.com/)
-- [Towards Data Science](https://towardsdatascience.com/)
-- [Trendsmap](https://www.trendsmap.com/)
-- [Tyler Morgan Blog](https://www.tylermw.com/)
-- [Uv](https://www.uv.es/guilopez) — Guilopez
-- [Walter Bislins](http://walter.bislins.ch/)
-- [WorldStandards](https://www.worldstandards.eu/)
-- [xefer](https://xefer.com/)
-
-##### Physics Blogs
-- [Albert Einstein Online](https://westegg.com/einstein/)
-- [Aula Cultural Cassiopeia](https://acassiopeia.wordpress.com/)
-- [Bartosz Ciechanowski](https://ciechanow.ski/)
-- [Cortana Corporation](https://cortana.com/)
-- [Cuentos Cuánticos](https://cuentoscuanticos.com/)
-- [DivulgaMadrid](https://divulgamadrid.blogspot.com/)
-- [Electrónica Fácil](https://www.electronicafacil.net/)
-- [Emilio Silvera Vázquez](https://emiliosilveravazquez.com/)
-- [Falacias de la Mecánica Cuántica](https://falaciascuanticas.blogspot.com/)
-- [Física cuántica en la red](http://www.fisicacuantica.es/)
-- [La fisica y química](https://lafisicayquimica.com/)
-- [La Mecánica Cuántica](https://la-mecanica-cuantica.blogspot.com/)
-- [La Teoría de la Relatividad](https://teoria-de-la-relatividad.blogspot.com/)
-- [LivePhysics](http://www.livephysics.com/)
-- [Los Mundos de Brana](https://losmundosdebrana.com/)
-- [Mecánica cuántica](http://www.emiliosilveravazquez.com/blog/category/mecanica-cuantica)
-- [Molecular Expressions](https://micro.magnet.fsu.edu/)
-- [Oldcivilizations's](https://oldcivilizations.wordpress.com/)
-- [ROL Science](https://www.rolscience.net/)
-- [Scientia](https://scientiablog.com/)
-
-##### Computing Blog
-- ⭐ **[Dev Notes](https://www.devnotesdaily.com/)** — Crafted for Coders
-- ⭐ **[Jamstack](https://jamstack.org/)** — For fast and secure sites
-- [& /dev/null](https://www.thirtythreeforty.net/)
-- [3D Game Engine Programming](https://www.3dgep.com/)
-- [100cosas.dev](https://100cosas.dev/) — Mejora en programación, un consejo a la vez
-- [a16z](https://www.a16z.news/) — Substack
-- [Adventures in Linux and KDE](https://pointieststick.com/)
-- [AI 2027](https://ai-2027.com/)
-- [AK’s Substack](https://akhaliq.substack.com/) — Substack
-- [Alexia Michelle](https://lexi.lat/)
-- [Andrej Karpathy blog](https://karpathy.github.io/)
-- [Aprendiendo a Programar](https://aprendiendoaprogramar.netlify.app/)
-- [Aprendiendo a Virtualizar](https://aprendiendoavirtualizar.com/)
-- [Atareao.es](https://atareao.es/)
-- [Ben Eater](https://eater.net/)
-- [Better Programming](https://betterprogramming.pub/) — Medium
-- [Blog Bitix](https://picodotdev.github.io/blog-bitix/)
-- [Brain Baking](https://brainbaking.com/)
-- [Ceos3c](https://www.ceos3c.com/)
-- [Changelog.com](https://changelog.com/)
-- [Chris Titus Tech](https://christitus.com/)
-- [Code Bushi](https://codebushi.com/)
-- [Computing Notes](https://notes.yxy.ninja/) — Xinyang YU
-- [Ctrl blog by Daniel Aleksandersen](https://www.ctrl.blog/)
-- [Data Engineering Blog](https://sspaeti.com/)
-- [Destroy All Software](https://www.destroyallsoftware.com/screencasts)
-- [devconnected](https://devconnected.com/) — Software Engineering Articles, Guides & Tips
-- [DevGa.me](https://devga.me/)
-- [Disconnected Systems](https://disconnected.systems/)
-- [Dusty Mabe](https://dustymabe.com/)
-- [Dwarkesh Podcast](https://www.dwarkesh.com/) — Substack
-- [Embedded Inventor](https://embeddedinventor.com/)
-- [Engineering for Data Science](https://engineeringfordatascience.com/)
-- [Evilnapsis](https://evilnapsis.com/)
-- [F1LT3R](https://f1lt3r.io/) — JS Dev Web & Mobile
-- [FadinGeek](https://fadingeek.medium.com/) — Medium
-- [FoolControl](https://foolcontrol.org/)
-- [Garon](https://www.garron.me/en/) — Tech Blog
-- [Gavin Lyons](https://gavinlyonsrepo.github.io/) — Tech Blog
-- [GeGeek](https://gegeek.com/) — I don't reinvent the wheel, I just link to it
-- [Geoff Ruddock](https://geoffruddock.com/)
-- [GloriousEggroll's Blog](https://www.gloriouseggroll.tv/)
-- [Greg Hilston](https://www.greghilston.com/)
-- [GreyCoder](https://greycoder.com/)
-- [GUIdebook](https://guidebookgallery.org/) — Graphical User Interface gallery
-- [Hayden James](https://haydenjames.io/) — Linux Systems Analyst
-- [Ivan Grishaev's blog](https://grishaev.me/)
-- [Jamstack .NET](https://jamstacks.net/)
-- [Jamstatic.fr](https://jamstatic.fr/)
-- [JavaScript Weekly Archives](https://javascriptweekly.com/issues)
-- [José Juan Sánchez Hernández Blog](https://josejuansanchez.org/)
-- [KaliTut](https://kalitut.com/) — Linux and pentesting blog
-- [Károly Zsolnai-Fehér](https://users.cg.tuwien.ac.at/zsolnai/) — Research Scientist
-- [LANRAT](https://lanrat.com/)
-- [Latent Space](https://www.latent.space/) — Substack
-- [Light Commands](https://lightcommands.com/)
-- [Liliputing](https://liliputing.com/)
-- [linuxmobile](https://linuxmobile.netlify.app/)
-- [Low Orbit Flux](https://low-orbit.net/)
-- [Lyngvær Log](https://lyngvaer.no/)
-- [MarksBlogg Tech](https://tech.marksblogg.com/)
-- [neeanotes📜](https://notes.neeasade.net/)
-- [Newbedev](https://newbedev.com/) — Programming tutorials
-- [nikic's Blog](https://www.npopov.com/)
-- [nixers](https://nixers.net/)
-- [Open Source is Awesome Show Notes](https://opensourceisawesome.com/)
-- [Osservatorio Nessuno](https://osservatorionessuno.org/)
-- [Pandammonium](https://pandammonium.org/)
-- [Phil Opp](https://os.phil-opp.com/) — Writing an OS in Rust
-- [PHP.Watch](https://php.watch/) — PHP Articles, News, Upcoming Changes, RFCs, and more
-- [Pid Edins](https://0pointer.de/blog/) — 0pointer.net
-- [Pid Eins](https://0pointer.net/blog/)
-- [Programster's Blog](https://blog.programster.org/)
-- [Qball's Weblog](https://blog.sarine.nl/)
-- [Rakhim.org](https://rakhim.org/)
-- [Sean Godecke](https://www.seangoedecke.com/) — Blog
-- [Sick Codes](https://sick.codes/)
-- [Sidebar.io](https://sidebar.io/)
-- [Simon Aubury](https://simon-aubury.medium.com/) — Medium
-- [Simplified Guide](https://www.simplified.guide/)
-- [Sorush Khajepor](https://iamsorush.com/)
-- [ssp.sh](https://www.ssp.sh/)
-- [StatnMap](https://statnmap.com/)
-- [Supun Kavinda's Blog](https://supunkavinda.blog/)
-- [TechHut.tv](https://techhut.tv/)
-- [tek syndicate](https://teksyndicate.com/)
-- [Terence Eden’s Blog](https://shkspr.mobi/blog/)
-- [TfTHacker](https://tfthacker.medium.com/) — Medium
-- [The Algorithmic Bridge](https://thealgorithmicbridge.substack.com/) — Substack
-- [The Evil Skeleton Blog](https://theevilskeleton.gitlab.io/blog)
-- [The New Stack](https://thenewstack.io/)
-- [The SSD Review](https://www.thessdreview.com/)
-- [TheEvilSkeleton](https://theevilskeleton.gitlab.io/)
-- [This Modern Web](https://www.thismodernweb.com/) — Patrick Marsceill
-- [TorrentFreak](https://torrentfreak.com/)
-- [Trafotin](https://trafotin.com/)
-- [UbuntuHandbook](https://ubuntuhandbook.org/)
-- [Uros Popovic](https://popovicu.com/)
-- [UsenetReviewz.com](https://usenetreviewz.com/)
-- [Venam's Blog](https://venam.nixers.net/blog/#gsc.tab=0)
-- [VHSblog](https://vhs.codeberg.page/)
-- [Waylon Walkers Digital Garden](https://waylonwalker.com/archive/)
-- [XeroLinux HQ](https://xerolinux.xyz/)
-- [Y.net](https://03c8.net/)
-- [z3bra.org](https://blog.z3bra.org/)
-- [z3bradotorg](http://z3bra.org/)
-- [Zeh Fernando](http://zehfernando.com/)
-
-###### Cybersecurity Blogs
-- [2-spyware](https://www.2-spyware.com/)
-- [avoidthehack!](https://avoidthehack.com/)
-- [Catalog](https://spyware.neocities.org/articles/) — Spyware Watchdog
-- [Check Point Research](https://research.checkpoint.com/)
-- [Ciberseguridad](https://ciberseguridad.com/)
-- [Ciberseguridad.blog](https://ciberseguridad.blog/)
-- [CSO](https://www.csoonline.com/)
-- [CVE security vulnerability database. Security vulnerabilities, exploits, references and more](https://www.cvedetails.com/)
-- [Cybernews](https://cybernews.com/)
-- [CyberSecurity News](https://cybersecuritynews.es/)
-- [Dark Reading](https://www.darkreading.com/)
-- [Dark Web Informer](https://darkwebinformer.com/)
-- [Derecho de la Red](https://derechodelared.com/)
-- [elhacker.NET](https://www.elhacker.net/)
-- [Elie Bursztein's site](https://elie.net/)
-- [GEEKtyper](http://geektyper.com/shield)
-- [hasherezade](https://hshrzd.wordpress.com/)
-- [IntelTechniques](https://inteltechniques.com/)
-- [IT Governance](https://www.itgovernance.co.uk/)
-- [IT Security Guru](https://www.itsecurityguru.org/)
-- [Krebs on Security](https://krebsonsecurity.com/)
-- [Linux Security Blog](https://linuxsecurityblog.com/)
-- [Lucky225](https://lucky225.medium.com/)
-- [MalwareTech](https://www.malwaretech.com/)
-- [My Shadow](https://myshadow.org/)
-- [Naked Security](https://nakedsecurity.sophos.com/)
-- [Null Byte](https://null-byte.wonderhowto.com/) — WonderHowTo
-- [Project Zero](https://googleprojectzero.blogspot.com/)
-- [Recorded Future](https://therecord.media/)
-- [RestorePrivacy](https://restoreprivacy.com/)
-- [Schneier on Security](https://www.schneier.com/)
-- [Securelist](https://securelist.com/)
-- [Segu-Info](https://blog.segu-info.com.ar/)
-- [Spyware remove](https://www.spywareremove.com/)
-- [The Daily Swig](https://portswigger.net/daily-swig)
-- [The DFIR Report](https://thedfirreport.com/)
-- [The Hacker News](https://thehackernews.com/)
-- [Threatpost](https://threatpost.com/)
-- [Un informático en el lado del mal](https://www.elladodelmal.com/)
-- [Under the Breach](https://underthebreach.medium.com/)
-- [VX-underground](https://vx-underground.org/)
-- [WeLiveSecurity](https://www.welivesecurity.com/la-es)
-- [YouTube Tracking Exposed](https://youtube.tracking.exposed/)
-
-###### Hacking Blog
-- [Flu Project](https://www.flu-project.com/)
-- [GoFetch](https://gofetch.fail/) — Breaking Constant-Time Cryptographic Implementations Using Data Memory-Dependent Prefetchers
-- [Hacking/Security](https://medium.com/hacking-info-sec) — Medium
-- [Kernal](https://kernal.eu/)
-- [s4vitar](https://s4vitar.github.io/) — H4cknet
-- [splinter_code blog](https://splintercod3.blogspot.com/)
-- [Yous.be](https://yous.be/)
-
-###### Big Data Blog
-- [Data Science Central](https://www.datasciencecentral.com/)
-
-##### Engineering Blog
-- [Engineering Projects](https://bestengineeringprojects.com/)
-- [Engineers Need Art](https://engineersneedart.com/)
-- [Manual de Vuelo](https://manualvuelo.es/)
-- [SLC is](https://slc.is/)
-
-#### Photo Blog
-- ⭐ **[Beyond Horizons](https://beyondrange.wordpress.com/)**
-- [365enfoques](https://365enfoques.com/)
-- [Blog del Fotógrafo](https://www.blogdelfotografo.com/)
-- [Camaras.UNO](https://camaras.uno/)
-- [Dalekie Obserwacje](https://dalekieobserwacje.eu/)
-- [Dear Photograph](https://dearphotograph.com/)
-- [Dzoom, Pasión por la Fotografía](https://www.dzoom.org.es/)
-- [Fotoaventura](https://fotoaventuras.blogspot.com/)
-- [PetaPixel](https://petapixel.com/)
-- [photoinfos.com](https://www.photoinfos.com/index.htm)
-- [Photolari](https://www.photolari.com/)
-- [quecamarareflex.com](https://quecamarareflex.com/)
-- [Sharenator](https://sharenator.com/)
-- [Ventanas de aire](https://ventanasdeaire.wordpress.com/)
-- [Xataka Foto](https://www.xatakafoto.com/)
-
-#### Health Blog
-- [Biomagnetismo médico Dr. Carlos Gibaja](https://biomagnetismodrcarlosgibaja.blogspot.com/)
-- [blogfitness](https://placestot.com/)
-- [Estiramientos.es](http://www.estiramientos.es/)
-- [Fisioterapia Online](https://www.fisioterapia-online.com/)
-- [La terapia del Par Biomagnético](https://www.dsalud.com/reportaje/la-terapia-del-par-biomagnetico-sometida-a-prueba-con-mas-de-200-enfermos)
-- [ONsalus](https://www.onsalus.com/)
-- [TuCuerpoHumano.com](https://tucuerpohumano.com/)
-
-#### Web Blog
-- [Blog](https://www.notion.so/blog) — Notion.so
-- [Bloguero Pro](https://blogueropro.com/)
-- [Made Mistakes](https://mademistakes.com/)
-- [On](https://on.substack.com/) — Substack
-- [Parzibyte's blog](https://parzibyte.me/blog)
-- [Robert Reich](https://robertreich.substack.com/) — Substack
-- [Smashing Magazine](https://www.smashingmagazine.com/)
-- [SpaceCollective](http://spacecollective.org/)
-- [Substack Reads](https://read.substack.com/)
-- [The Internet map Blog](https://the-internet-map.blogspot.com/)
-- [The M&Ms Newsletter](https://newsletter.memesmotivations.com/) — Louie Bacaj | Substack
-- [Uncharted Territories](https://unchartedterritories.tomaspueyo.com/) — Substack
-
-#### English Blog
-- [Apreder idiomas](https://www.quieroaprenderidiomas.com/)
-- [El Blog de Idiomas](https://elblogdeidiomas.es/)
-- [elblogdetrinity.com](https://elblogdetrinity.com/)
-- [English Study Online](https://englishstudyonline.org/)
-- [Englishch-hilfen](https://www.englisch-hilfen.de/en)
-- [EnglishClub](https://www.englishclub.com/)
-- [ESL](https://7esl.com/)
-- [Exámenes Oxford](https://examenesoxford.com/)
-- [Grammaring](https://www.grammaring.com/)
-- [Salón de Idiomas](https://salondeidiomas.wordpress.com/)
-- [Trucos Londres](https://trucoslondres.com/)
-
-#### News Blog
-- [ECOMONEWS](https://ecomonos.com/) — La newsletter más mona de internet
-- [El Orden Mundial](https://elordenmundial.com/) — el medio de análisis internacional en español
-- [Noticias del mundo](https://www.periodicoelnuevomundo.com/)
 
 #### Alternative Blog
 - [9-11 Research](http://911research.wtc7.net/)
@@ -1539,6 +176,267 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [MyFlat.Earth](http://myflatearthbook.blogspot.com/)
 - [Universal Truth School of Santos Bonacci](https://universaltruthschool.com/)
 
+#### Company Blog
+- [Alexa Blog](https://blog.alexa.com/)
+- [Blog.google](https://blog.google/)
+- [Browserfy](https://browserfy.net/)
+- [Chrome Releases](https://chromereleases.googleblog.com/)
+- [Cisco Blogs](https://blogs.cisco.com/)
+- [Coreboot Blog](https://blogs.coreboot.org/)
+- [EasternGraphics](https://www.easterngraphics.com/es) — blog
+- [Excalidraw Blog](https://blog.excalidraw.com/)
+- [FactGrid Blog](https://blog.factgrid.de/)
+- [Feedly Blog](https://blog.feedly.com/)
+- [Genially Blog](https://blog.genial.ly/)
+- [Google AI Blog](https://ai.googleblog.com/)
+- [Google Analytics Blog](https://analytics.googleblog.com/)
+- [Google Blog España](https://espana.googleblog.com/)
+- [Google Developers Blog](https://developers.googleblog.com/)
+- [Google Security Blog](https://security.googleblog.com/)
+- [Humble Bundle Blog](https://blog.humblebundle.com/)
+- [Internet Archive Blogs](https://blog.archive.org/)
+- [LogRocket Blog](https://blog.logrocket.com/)
+- [Majestic Blog](https://blog.majestic.com/)
+- [Microsoft Blog](https://blogs.microsoft.com/)
+- [Microsoft DevBlogs](https://devblogs.microsoft.com/)
+- [Mozilla Blog](https://blog.mozilla.org/en)
+- [MyHeritage Blog](https://blog.myheritage.com/)
+- [Netflix TechBlog](https://netflixtechblog.com/)
+- [NVIDIA Newsroom](https://nvidianews.nvidia.com/)
+- [PLOS Blog](https://theplosblog.plos.org/)
+- [QNAP Blog](https://blog.qnap.com/)
+- [Safe Creative Blog](https://en.safecreative.net/)
+- [Shopify Engineering](https://shopify.engineering/)
+- [Spencer's blog](https://spencerwoo.com/)
+- [Tana Nodes](https://www.tananodes.com/)
+- [Tinkercad Blog](https://blog.tinkercad.com/)
+- [Tor Blog](https://blog.torproject.org/)
+- [Vivaldi blog](https://vivaldi.net/)
+- [Wikimedia](https://techblog.wikimedia.org/) — TechBlog
+- [X.company Blog](https://blog.x.company/)
+- [Xbox Wire](https://news.xbox.com/en-us)
+- [Yelp Blog](https://blog.yelp.com/)
+
+##### Company Software Blog
+- [1Password Blog](https://blog.1password.com/)
+- [Adobe Blog](https://blog.adobe.com/)
+- [Angular Blog](https://blog.angular.io/)
+- [Chromium Blog](https://blog.chromium.org/)
+- [Dendron Blog](https://blog.dendron.so/)
+- [Discourse Blog](https://blog.discourse.org/)
+- [DuckDuckGo Blog](https://spreadprivacy.com/)
+- [Eagle Blog](https://eagle.cool/blog/)
+- [Fedora Community Blog](https://communityblog.fedoraproject.org/)
+- [Firefox Nightly Blog](https://blog.nightly.mozilla.org/)
+- [Flickr Blog](https://blog.flickr.net/en)
+- [GitHub Blog](https://github.blog/)
+- [GNOME Blogs](https://blogs.gnome.org/)
+- [Heroku Blog](https://blog.heroku.com/)
+- [instapaper Blog](https://blog.instapaper.com/)
+- [JetBrains Blog](https://blog.jetbrains.com/)
+- [Laravel News](https://laravel-news.com/)
+- [LinkedIn Blog](https://blog.linkedin.com/)
+- [Linux Mint Blog](https://blog.linuxmint.com/)
+- [Logseq Blog](https://blog.logseq.com/)
+- [Mastodon Blog](https://blog.joinmastodon.org/)
+- [Pandora Blog](https://blog.pandora.com/)
+- [Planet Fedora](http://fedoraplanet.org/)
+- [PlayStation.Blog](https://blog.playstation.com/)
+- [Reddit blog](https://redditblog.com/)
+- [SoundCloud Blog](https://blog.soundcloud.com/)
+- [Stack Overflow Blog](https://stackoverflow.blog/)
+- [Start.me blog](https://blog.start.me/)
+- [The Document Foundation Blog](https://blog.documentfoundation.org/)
+- [The Ecosia Blog](https://blog.ecosia.org/)
+- [The Mozilla Blog](https://blog.mozilla.org/)
+- [The Opera Blog](https://blogs.opera.com/news)
+- [The Stremio Blog](https://blog.stremio.com/)
+- [TickTick Blog](https://blog.ticktick.com/)
+- [TON Society](https://society.ton.org/)
+- [Twitch Blog](https://blog.twitch.tv/en)
+- [VirusTotal Blog](https://blog.virustotal.com/)
+- [WhatsApp blog](https://blog.whatsapp.com/)
+- [Windows Blog](https://blogs.windows.com/)
+- [Xfce Blog](https://blog.xfce.org/)
+- [YouTube Blog](https://blog.youtube/)
+
+#### Dancing Blog
+- [SientelBaile](https://sientelbaile.com/)
+
+#### Digital Garden
+- ⭐ **[Gwern Branwen](https://www.gwern.net/)**
+- ⭐ **[Hundred Rabbits](https://100r.co/site/home.html)** — 100R
+- ⭐ **[nikiv](https://wiki.nikiv.dev/)** — Knowledge Wiki 🌿
+- ⭐ **[Obsidian Hub](https://publish.obsidian.md/hub/00+-+Start+here)** — Obsidian Publish
+- ⭐ **[Ole notes](https://notes.ole.dev/)** — Digital Garden
+- ⭐ **[ProjectBubbleBurst](https://projectbubbleburst.com/000START+HERE)**
+- ⭐ **[TfT Hacker](https://tfthacker.com/Welcome)**
+- ⭐ **[The Threshold](https://hermitage.utsob.me/)**
+- ⭐ **[XXIIVV wiki](https://wiki.xxiivv.com/site/home.html)** — 100R
+- [/dan/](https://dan.valeena.dev/)
+- [0x8c notes](https://notes.0x8c.org/)
+- [a2itnotes](https://a2itnotes.github.io/quartz/)
+- [Aaron Young](https://ajy.co/) — Digital Garden
+- [Aiuanyu DG](https://aiuanyu.vercel.app/)
+- [Alexis Rondeau](https://publish.obsidian.md/alexisrondeau) — Obsidian Publish
+- [Alexis Rondeau](https://publish.obsidian.md/alexisrondeau/Welcome+to+my+digital+garden) — Obsidian Publish
+- [Andymatuschak](https://notes.andymatuschak.org/About_these_notes) — Obsidian Publish
+- [Andymatuschak](https://publish.obsidian.md/andymatuschak/) — Obsidian Publish
+- [Angelica Fonseca portafolio](https://angelicafonseca.tiddlyhost.com/) — TiddleHost
+- [anthonyamar](https://anthonyamar.fr/Welcome+in+my+mind+%F0%9F%A7%A0) — second-brain
+- [Argentum's notes](https://publish.obsidian.md/argenos/argentum's+notes) — Obsidian Publish
+- [Aster's notebook](https://notes.asterhu.com/)
+- [AstroSlips](https://slipbox.daichidaiji.com/) — daichidaiji
+- [AWAGMI?](https://notes.awagmi.xyz/)
+- [bakke](https://hwiki.bakke.be/) — hwiki
+- [Bea's Digital Garden](https://beasdigitalgarden.netlify.app/)
+- [beepb00p](https://beepb00p.xyz/)
+- [Ben's Notes](https://notes.bencuan.me/)
+- [Bianca's Digital Garden 🧠](https://garden.bianca.digital/)
+- [Bible](https://bible.tiddlyhost.com/) — TIddleHost
+- [Bit Garden](https://bit-garden.vercel.app/)
+- [Books beasn Boots](https://booksbeansboots.co.uk/) — Digital Garden
+- [Bryan Jenks](https://publish.obsidian.md/bryan-jenks/Z/INDEX) — Petrichor
+- [BryanJenks Notes](https://notes.bryanjenks.dev/Z/HOME)
+- [c4ss1us.lab digital garden](https://digitalgarden-c4ss1uslab.vercel.app/)
+- [c4ss1us' garden](https://c4ss1usgarden.vercel.app/)
+- [Chromatically](https://publish.obsidian.md/chromatically/publish+homepage) — Obsidian Publish
+- [Data Engineering Wiki](https://dataengineering.wiki/Index)
+- [Data Glossary 🧠](https://glossary.airbyte.com/)
+- [Digital 3D Garden](https://stephanlevin.garden/Welcome)
+- [Digital Garden Jekyll](https://digital-garden-jekyll-template.netlify.app/)
+- [Digital Garden myqntm](https://digital-garden-myqntm.vercel.app/)
+- [Digital Gardenx](https://digital-gardenx.netlify.app/)
+- [edav-garden](https://edav-garden.netlify.app/)
+- [Eleanor Konik's notes](https://publish.obsidian.md/eleanorkonik/00+Meta/03+Structure/Welcome)
+- [Emhabayu Second Brain](https://www.emhabayu.com/)
+- [emrah.ca](https://emrah.ca/onair/%E2%97%8F)
+- [Everything *Abridged](https://everything-abridged.com/)
+- [Excalidraw DG](https://excalidraw-obsidian.online/Hobbies/Excalidraw+Blog/Welcome)
+- [Fallout Canada](https://fallout-canada.vercel.app/)
+- [Fiction Becomes Fact](https://fictionbecomesfact.com/)
+- [FishForYou](https://notebooks.tiddlyhost.com/)
+- [flower.codes](http://flower.codes/)
+- [Fork My Brain](https://notes.nicolevanderhoeven.com/Fork+My+Brain) — Nicole van der Hoeven
+- [Garden's Gate](https://www.pmcf.xyz/topo-da-mente/) — pmcf.xyz
+- [GLJ's Garden](https://glj0.eu.org/)
+- [Google fonts](https://google-fonts.tiddlyhost.com/) — TiddlyHost
+- [Hananoshika Yomaru](https://yomaru.dev/home)
+- [Hartwell Tome](https://hartwellto.me/A+Curious+Place/The+Tome+Awaits...)
+- [HXHC-Notes](https://notes.hxhc.xyz/) — Digital Garden
+- [Icewind Dale](https://icewind.quest/) — Digital Garden
+- [Javalent Plugins](https://plugins.javalent.com/home)
+- [Jenna's Homepage](https://polyrain.dev/Hi!+My+name's+Jenna!)
+- [Joel's digital garden](https://joelhooks.com/)
+- [john.app](https://john.app/) — No Lies, Just Love
+- [Johnmavrick Notes](https://notes.johnmavrick.com/)
+- [Joschua's Garden](https://joschuasgarden.com/50+Slipbox/Welcome!)
+- [Joschua's Notes](https://notes.joschua.io/)
+- [Joschua’s Notes](https://notes.joschua.io/50+Slipbox/Welcome!) — Obsidian Publish
+- [Justin Walker](https://jpwalkermusic.co/Home)
+- [Jzhao.xyz](https://jzhao.xyz/)
+- [KaaS](https://kaas.jimbrig.com/)
+- [KaaS](https://publish.obsidian.md/kaas-published/README) — Obsidian Publish
+- [Kerim's Digital Garden](https://garden.oxus.net/)
+- [Kevin Slin (Digital Garden)](https://www.kevinslin.com/)
+- [Keyvan Akbary](https://keyvanakbary.github.io/learning-notes/) — learning notes
+- [Leah Ferguson](https://publish.obsidian.md/leah/Home)
+- [List of Patterns](https://patternlanguage.cc/)
+- [louis030195](https://brain.louis030195.com/README)
+- [Lukas Alberer DG](https://www.alberer.contact/)
+- [LYT Kit](https://notes.linkingyourthinking.com/Home)
+- [LYT Kit](https://www.linkingyourthinking.com/lyt-kit-course/onboarding)
+- [Maple Circuit](https://maplecircuit.dev/)
+- [Marco Noris](https://lab.marconoris.com/) — lab
+- [Mark's Notes](https://notes.philoserf.com/Index)
+- [Mathieu Dutour](https://mathieudutour.github.io/gatsby-digital-garden/) — GitHub Pages
+- [Matters of matter](https://publish.obsidian.md/zvtoth/Matter+project/General+resources/%E2%96%AB%EF%B8%8F+Matters+of+matter) — Obsidian Publish
+- [Metec](https://metec.tiddlyhost.com/#Introducci%C3%B3:Introducci%C3%B3) — TiddleHost
+- [Mister chad](https://mister-chad.com/welcome)
+- [mister chad](https://publish.obsidian.md/mister-chad/welcome) — Obsidian Publish
+- [My recipe collection](https://recipes.deeppass.net/) — DeepPass
+- [myaiba](https://publish.obsidian.md/myaiba/myaiba) — Obsidian Publish
+- [myNotes](https://bgmnotes.tiddlyhost.com/) — TIddlehost
+- [NFT Standards Wiki](https://www.nftstandards.wtf/NFT+Standards+Wiki+-+READ.me)
+- [niallbell](https://cave.niallbell.com/) — The Cave
+- [Nisheet Patel](https://www.nisheetpatel.me/resources) — Resources
+- [Nitin Pai's Notes](https://notes.nitinpai.in/Start+Here)
+- [No Trace Project](https://www.notrace.how/)
+- [nomad.co](https://nomand.co/site/home.html)
+- [Notas sobre el ahora](https://lab.marconoris.com/now) — Ouroboros lab
+- [Obsidian-Excalidraw](https://excalidraw-obsidian.online/Welcome)
+- [Old Winter](https://garden.oldwinter.top/) — Garden
+- [Owen Young](https://wiki.owenyoung.com/) — Foam wiki
+- [Pawelel PKM](https://pawelel.netlify.app/)
+- [Perlite](https://perlite.secure77.de/) — Secure77
+- [Peter's Second 🧠](https://peteryuen.netlify.app/)
+- [Pheelwell Garden](https://pheelwell-garden.vercel.app/)
+- [phoenix-blog 一车面包人](https://perch.parasoltree.top/)
+- [Portafolio Deysy -TiddleHost](https://portafolio.tiddlyhost.com/)
+- [Portafolio Yesika Parra](https://portafolio1.tiddlyhost.com/) — TiddleHost
+- [Qwxlea Digital Garden](https://qwxlea.org/current)
+- [Rachel's Notes](https://publish.obsidian.md/rachel/Hello)
+- [Radio Stations TiddleHost](https://radio.tiddlyhost.com/)
+- [Razvan Andrei Surdu](https://razvan-andrei-surdu.eu/) — Digital Garden
+- [Roget's Thesaurus](https://publish.obsidian.md/rogets/Vocabulary/note) — Obsidian Publish
+- [Santi Younger Notes](https://santiyounger.blog/daily) — Obsidian Publish
+- [Scalingsyn Thesis](https://scalingsynthesis.com/)
+- [sean.fish](https://sean.fish/)
+- [SethMB Work](https://sethmb.xyz/)
+- [Shane's FE Model](https://publish.obsidian.md/shanesql/Shanes+FE+Model) — Obsidian Publish
+- [Shihyu's PKM](https://shihyuho.github.io/pkm/)
+- [SlRvb](https://publish.obsidian.md/slrvb/90+Site/SlRvb+Home) — Obsidian Publish
+- [Socratica](https://toolbox.socratica.info/)
+- [spaceaudits](https://publish.obsidian.md/spaceaudits) — Obsidian Publish
+- [Spiritual Digital Garden](https://spiritual-garden.com/)
+- [Sspaeti Second Brain 🧠](https://brain.sspaeti.com/)
+- [Steam Deck Guide](https://steamdeckguide.tiddlyhost.com/) — TiddleHost
+- [TAET (trial an error tech)](https://trialanderror.tech/)
+- [textfiles.com](http://www.textfiles.com/)
+- [Thatother](https://notes.thatother.dev/) — Digital Garden
+- [The Blue Book](https://lyz-code.github.io/blue-book/) — Lyz Code
+- [The Book of Concord Online](https://lutheranconfessions.org/)
+- [The Courtyard](https://siyangsun.github.io/courtyard/)
+- [The Golden Forest](https://www.lorien.cloud/docs/docs-intro)
+- [The Integral Guide to Well-Being](https://integralguide.com/%E2%AD%90%EF%B8%8F+Start+Here/About) — Obsidian Publish
+- [The Intersect](https://intersect.rknight.me/) — rknight
+- [The Quantum Well](https://publish.obsidian.md/myquantumwell/Welcome+to+The+Quantum+Well!) — Obsidian Publish
+- [The Thought Garden](https://garden.alexrinehart.net/) — Alexrinehart
+- [The Ultramarine Archipelago](https://the-ultramarine-archipelago.tiddlyhost.com/)
+- [TiddlyWiki Starter](https://starter.tiddlyhost.com/) — TIddlehost
+- [Walk in the Forest](https://walkintheforest.com/Content/%F0%9F%91%8B%F0%9F%8F%BD+Welcome)
+- [Welcome 🌌](https://notes.johnmavrick.com/Digital+Galaxy/Welcome+%F0%9F%8C%8C) — John's Digital Galaxy 🌌
+- [Wiki Club Aluche](https://club-ciclista-aluche.tiddlyhost.com/) — TiddleHost
+- [WikiTerra](https://wikiterra.github.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/wikiterra/wikiterra.github.io/)
+- [Writing Note by Note](https://writingnotebynote.com/)
+- [XXIIVV](https://webring.xxiivv.com/) — Webring
+- [Zytomorrow DG](https://zytomorrow.top/)
+
+#### English Blog
+- [Apreder idiomas](https://www.quieroaprenderidiomas.com/)
+- [El Blog de Idiomas](https://elblogdeidiomas.es/)
+- [elblogdetrinity.com](https://elblogdetrinity.com/)
+- [English Study Online](https://englishstudyonline.org/)
+- [Englishch-hilfen](https://www.englisch-hilfen.de/en)
+- [EnglishClub](https://www.englishclub.com/)
+- [ESL](https://7esl.com/)
+- [Exámenes Oxford](https://examenesoxford.com/)
+- [Grammaring](https://www.grammaring.com/)
+- [Salón de Idiomas](https://salondeidiomas.wordpress.com/)
+- [Trucos Londres](https://trucoslondres.com/)
+
+#### Health Blog
+- [Biomagnetismo médico Dr. Carlos Gibaja](https://biomagnetismodrcarlosgibaja.blogspot.com/)
+- [blogfitness](https://placestot.com/)
+- [Estiramientos.es](http://www.estiramientos.es/)
+- [Fisioterapia Online](https://www.fisioterapia-online.com/)
+- [La terapia del Par Biomagnético](https://www.dsalud.com/reportaje/la-terapia-del-par-biomagnetico-sometida-a-prueba-con-mas-de-200-enfermos)
+- [ONsalus](https://www.onsalus.com/)
+- [TuCuerpoHumano.com](https://tucuerpohumano.com/)
+
+#### History Blog
+- [Finis fabulas](https://finisfabulas.blogspot.com/)
+
 #### Law Blog
 - [Blog Contenciosos](https://www.contenciosos.com/blog)
 - [Blog Hay Derecho](https://hayderecho.expansion.com/)
@@ -1552,6 +450,23 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [RCU María Cristina](https://www.rcumariacristina.com/)
 - [Science and Technology Law Review](https://stlr.org/)
 - [US Patent](https://patents.justia.com/) — Justia
+
+#### Military Blog
+- [El Blog de Tiro Táctico](https://tirotactico.net/)
+
+#### Music Blog
+- [Beatles4Site](https://beatles4site.wordpress.com/)
+- [musicForProgramming();](https://musicforprogramming.net/latest/)
+
+#### Mystery Blog
+- [Snakedos](https://www.planetasnakedos.net/)
+- [Tierra de Misterios](https://tierrademisterios.com/)
+- [Unexplained Mysteries around the world](https://www.world-mysteries.com/)
+
+#### News Blog
+- [ECOMONEWS](https://ecomonos.com/) — La newsletter más mona de internet
+- [El Orden Mundial](https://elordenmundial.com/) — el medio de análisis internacional en español
+- [Noticias del mundo](https://www.periodicoelnuevomundo.com/)
 
 #### Personal Blog
 - ⭐ **[Eleanor Konik](https://eleanorkonik.com/)** — Obsidian Iceberg
@@ -1784,120 +699,22 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [Timo Schick blog](http://www.timoschick.com/)
 - [Xetera](https://xetera.dev/)
 
-#### Company Blog
-- [Alexa Blog](https://blog.alexa.com/)
-- [Blog.google](https://blog.google/)
-- [Browserfy](https://browserfy.net/)
-- [Chrome Releases](https://chromereleases.googleblog.com/)
-- [Cisco Blogs](https://blogs.cisco.com/)
-- [Coreboot Blog](https://blogs.coreboot.org/)
-- [EasternGraphics](https://www.easterngraphics.com/es) — blog
-- [Excalidraw Blog](https://blog.excalidraw.com/)
-- [FactGrid Blog](https://blog.factgrid.de/)
-- [Feedly Blog](https://blog.feedly.com/)
-- [Genially Blog](https://blog.genial.ly/)
-- [Google AI Blog](https://ai.googleblog.com/)
-- [Google Analytics Blog](https://analytics.googleblog.com/)
-- [Google Blog España](https://espana.googleblog.com/)
-- [Google Developers Blog](https://developers.googleblog.com/)
-- [Google Security Blog](https://security.googleblog.com/)
-- [Humble Bundle Blog](https://blog.humblebundle.com/)
-- [Internet Archive Blogs](https://blog.archive.org/)
-- [LogRocket Blog](https://blog.logrocket.com/)
-- [Majestic Blog](https://blog.majestic.com/)
-- [Microsoft Blog](https://blogs.microsoft.com/)
-- [Microsoft DevBlogs](https://devblogs.microsoft.com/)
-- [Mozilla Blog](https://blog.mozilla.org/en)
-- [MyHeritage Blog](https://blog.myheritage.com/)
-- [Netflix TechBlog](https://netflixtechblog.com/)
-- [NVIDIA Newsroom](https://nvidianews.nvidia.com/)
-- [PLOS Blog](https://theplosblog.plos.org/)
-- [QNAP Blog](https://blog.qnap.com/)
-- [Safe Creative Blog](https://en.safecreative.net/)
-- [Shopify Engineering](https://shopify.engineering/)
-- [Spencer's blog](https://spencerwoo.com/)
-- [Tana Nodes](https://www.tananodes.com/)
-- [Tinkercad Blog](https://blog.tinkercad.com/)
-- [Tor Blog](https://blog.torproject.org/)
-- [Vivaldi blog](https://vivaldi.net/)
-- [Wikimedia](https://techblog.wikimedia.org/) — TechBlog
-- [X.company Blog](https://blog.x.company/)
-- [Xbox Wire](https://news.xbox.com/en-us)
-- [Yelp Blog](https://blog.yelp.com/)
-
-##### Company Software Blog
-- [1Password Blog](https://blog.1password.com/)
-- [Adobe Blog](https://blog.adobe.com/)
-- [Angular Blog](https://blog.angular.io/)
-- [Chromium Blog](https://blog.chromium.org/)
-- [Dendron Blog](https://blog.dendron.so/)
-- [Discourse Blog](https://blog.discourse.org/)
-- [DuckDuckGo Blog](https://spreadprivacy.com/)
-- [Eagle Blog](https://eagle.cool/blog/)
-- [Fedora Community Blog](https://communityblog.fedoraproject.org/)
-- [Firefox Nightly Blog](https://blog.nightly.mozilla.org/)
-- [Flickr Blog](https://blog.flickr.net/en)
-- [GitHub Blog](https://github.blog/)
-- [GNOME Blogs](https://blogs.gnome.org/)
-- [Heroku Blog](https://blog.heroku.com/)
-- [instapaper Blog](https://blog.instapaper.com/)
-- [JetBrains Blog](https://blog.jetbrains.com/)
-- [Laravel News](https://laravel-news.com/)
-- [LinkedIn Blog](https://blog.linkedin.com/)
-- [Linux Mint Blog](https://blog.linuxmint.com/)
-- [Logseq Blog](https://blog.logseq.com/)
-- [Mastodon Blog](https://blog.joinmastodon.org/)
-- [Pandora Blog](https://blog.pandora.com/)
-- [Planet Fedora](http://fedoraplanet.org/)
-- [PlayStation.Blog](https://blog.playstation.com/)
-- [Reddit blog](https://redditblog.com/)
-- [SoundCloud Blog](https://blog.soundcloud.com/)
-- [Stack Overflow Blog](https://stackoverflow.blog/)
-- [Start.me blog](https://blog.start.me/)
-- [The Document Foundation Blog](https://blog.documentfoundation.org/)
-- [The Ecosia Blog](https://blog.ecosia.org/)
-- [The Mozilla Blog](https://blog.mozilla.org/)
-- [The Opera Blog](https://blogs.opera.com/news)
-- [The Stremio Blog](https://blog.stremio.com/)
-- [TickTick Blog](https://blog.ticktick.com/)
-- [TON Society](https://society.ton.org/)
-- [Twitch Blog](https://blog.twitch.tv/en)
-- [VirusTotal Blog](https://blog.virustotal.com/)
-- [WhatsApp blog](https://blog.whatsapp.com/)
-- [Windows Blog](https://blogs.windows.com/)
-- [Xfce Blog](https://blog.xfce.org/)
-- [YouTube Blog](https://blog.youtube/)
-
-#### Travel Blog
-- [ADondeVamosHoyTenerife](https://adondevamoshoytenerife.com/category/listas) — Blog
-- [Backpacking New Zealand Travel Guide, Backpacker Hostels, Jobs, Tours, Working Holiday](https://backpackerboard.co.nz/)
-- [Cuaderno de Viajes](https://www.anamoralesblog.com/)
-- [Historias de China](https://www.historiasdechina.com/)
-- [Las sandalias de Ulises](https://lassandaliasdeulises.com/) — Blog de viajes
-- [NekoJitaBlog](https://nekojitablog.blogspot.com/)
-- [Ojo de Nómada](https://ojodenomada.com/)
-- [Twosometravellers](https://www.twosometravellers.com/)
-- [Universo Marino](https://universomarino.com/)
-- [ViajeroCasual](https://viajerocasual.com/)
-
-#### Ranking Blog
-- [Blog The GDELT Project](https://blog.gdeltproject.org/)
-- [Largest.org](https://largest.org/)
-
-#### Weather Blog
-- [500 euros por un Chemtrail](https://500eurosporunchemtrail.blogspot.com/)
-- [Aemetblog](https://aemetblog.es/)
-- [ArcticToday](https://www.arctictoday.com/)
-- [Cazatormentas](https://www.cazatormentas.net/)
-- [Heated.world](https://heated.world/)
-- [LA Weather Reports](http://weatherreport.la/)
-- [Meteorología en Red](https://www.meteorologiaenred.com/)
-
-#### University Blog
-- [Gaceta UNAM](https://www.gaceta.unam.mx/)
-- [Guiuniversitaria.mx](https://guiauniversitaria.mx/)
-- [Harvard University Press](https://www.hup.harvard.edu/)
-- [Saber Universidad](https://www.saberuniversidad.es/)
+#### Photo Blog
+- ⭐ **[Beyond Horizons](https://beyondrange.wordpress.com/)**
+- [365enfoques](https://365enfoques.com/)
+- [Blog del Fotógrafo](https://www.blogdelfotografo.com/)
+- [Camaras.UNO](https://camaras.uno/)
+- [Dalekie Obserwacje](https://dalekieobserwacje.eu/)
+- [Dear Photograph](https://dearphotograph.com/)
+- [Dzoom, Pasión por la Fotografía](https://www.dzoom.org.es/)
+- [Fotoaventura](https://fotoaventuras.blogspot.com/)
+- [PetaPixel](https://petapixel.com/)
+- [photoinfos.com](https://www.photoinfos.com/index.htm)
+- [Photolari](https://www.photolari.com/)
+- [quecamarareflex.com](https://quecamarareflex.com/)
+- [Sharenator](https://sharenator.com/)
+- [Ventanas de aire](https://ventanasdeaire.wordpress.com/)
+- [Xataka Foto](https://www.xatakafoto.com/)
 
 #### Privacy Guide
 - [Censorship Bypass Guide](https://cbg.fmhy.bid/)
@@ -1940,175 +757,1083 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [Zettelkasten Method](https://zettelkasten.de/)
 - [Zsolt's blog](https://www.zsolt.blog/)
 
-#### Digital Garden
-- ⭐ **[Gwern Branwen](https://www.gwern.net/)**
-- ⭐ **[Hundred Rabbits](https://100r.co/site/home.html)** — 100R
-- ⭐ **[nikiv](https://wiki.nikiv.dev/)** — Knowledge Wiki 🌿
-- ⭐ **[Obsidian Hub](https://publish.obsidian.md/hub/00+-+Start+here)** — Obsidian Publish
-- ⭐ **[Ole notes](https://notes.ole.dev/)** — Digital Garden
-- ⭐ **[ProjectBubbleBurst](https://projectbubbleburst.com/000START+HERE)**
-- ⭐ **[TfT Hacker](https://tfthacker.com/Welcome)**
-- ⭐ **[The Threshold](https://hermitage.utsob.me/)**
-- ⭐ **[XXIIVV wiki](https://wiki.xxiivv.com/site/home.html)** — 100R
-- [/dan/](https://dan.valeena.dev/)
-- [0x8c notes](https://notes.0x8c.org/)
-- [a2itnotes](https://a2itnotes.github.io/quartz/)
-- [Aaron Young](https://ajy.co/) — Digital Garden
-- [Aiuanyu DG](https://aiuanyu.vercel.app/)
-- [Alexis Rondeau](https://publish.obsidian.md/alexisrondeau) — Obsidian Publish
-- [Alexis Rondeau](https://publish.obsidian.md/alexisrondeau/Welcome+to+my+digital+garden) — Obsidian Publish
-- [Andymatuschak](https://notes.andymatuschak.org/About_these_notes) — Obsidian Publish
-- [Andymatuschak](https://publish.obsidian.md/andymatuschak/) — Obsidian Publish
-- [Angelica Fonseca portafolio](https://angelicafonseca.tiddlyhost.com/) — TiddleHost
-- [anthonyamar](https://anthonyamar.fr/Welcome+in+my+mind+%F0%9F%A7%A0) — second-brain
-- [Argentum's notes](https://publish.obsidian.md/argenos/argentum's+notes) — Obsidian Publish
-- [Aster's notebook](https://notes.asterhu.com/)
-- [AstroSlips](https://slipbox.daichidaiji.com/) — daichidaiji
-- [AWAGMI?](https://notes.awagmi.xyz/)
-- [bakke](https://hwiki.bakke.be/) — hwiki
-- [Bea's Digital Garden](https://beasdigitalgarden.netlify.app/)
-- [beepb00p](https://beepb00p.xyz/)
-- [Ben's Notes](https://notes.bencuan.me/)
-- [Bianca's Digital Garden 🧠](https://garden.bianca.digital/)
-- [Bible](https://bible.tiddlyhost.com/) — TIddleHost
-- [Bit Garden](https://bit-garden.vercel.app/)
-- [Books beasn Boots](https://booksbeansboots.co.uk/) — Digital Garden
-- [Bryan Jenks](https://publish.obsidian.md/bryan-jenks/Z/INDEX) — Petrichor
-- [BryanJenks Notes](https://notes.bryanjenks.dev/Z/HOME)
-- [c4ss1us.lab digital garden](https://digitalgarden-c4ss1uslab.vercel.app/)
-- [c4ss1us' garden](https://c4ss1usgarden.vercel.app/)
-- [Chromatically](https://publish.obsidian.md/chromatically/publish+homepage) — Obsidian Publish
-- [Data Engineering Wiki](https://dataengineering.wiki/Index)
-- [Data Glossary 🧠](https://glossary.airbyte.com/)
-- [Digital 3D Garden](https://stephanlevin.garden/Welcome)
-- [Digital Garden Jekyll](https://digital-garden-jekyll-template.netlify.app/)
-- [Digital Garden myqntm](https://digital-garden-myqntm.vercel.app/)
-- [Digital Gardenx](https://digital-gardenx.netlify.app/)
-- [edav-garden](https://edav-garden.netlify.app/)
-- [Eleanor Konik's notes](https://publish.obsidian.md/eleanorkonik/00+Meta/03+Structure/Welcome)
-- [Emhabayu Second Brain](https://www.emhabayu.com/)
-- [emrah.ca](https://emrah.ca/onair/%E2%97%8F)
-- [Everything *Abridged](https://everything-abridged.com/)
-- [Excalidraw DG](https://excalidraw-obsidian.online/Hobbies/Excalidraw+Blog/Welcome)
-- [Fallout Canada](https://fallout-canada.vercel.app/)
-- [Fiction Becomes Fact](https://fictionbecomesfact.com/)
-- [FishForYou](https://notebooks.tiddlyhost.com/)
-- [flower.codes](http://flower.codes/)
-- [Fork My Brain](https://notes.nicolevanderhoeven.com/Fork+My+Brain) — Nicole van der Hoeven
-- [Garden's Gate](https://www.pmcf.xyz/topo-da-mente/) — pmcf.xyz
-- [GLJ's Garden](https://glj0.eu.org/)
-- [Google fonts](https://google-fonts.tiddlyhost.com/) — TiddlyHost
-- [Hananoshika Yomaru](https://yomaru.dev/home)
-- [Hartwell Tome](https://hartwellto.me/A+Curious+Place/The+Tome+Awaits...)
-- [HXHC-Notes](https://notes.hxhc.xyz/) — Digital Garden
-- [Icewind Dale](https://icewind.quest/) — Digital Garden
-- [Javalent Plugins](https://plugins.javalent.com/home)
-- [Jenna's Homepage](https://polyrain.dev/Hi!+My+name's+Jenna!)
-- [Joel's digital garden](https://joelhooks.com/)
-- [john.app](https://john.app/) — No Lies, Just Love
-- [Johnmavrick Notes](https://notes.johnmavrick.com/)
-- [Joschua's Garden](https://joschuasgarden.com/50+Slipbox/Welcome!)
-- [Joschua's Notes](https://notes.joschua.io/)
-- [Joschua’s Notes](https://notes.joschua.io/50+Slipbox/Welcome!) — Obsidian Publish
-- [Justin Walker](https://jpwalkermusic.co/Home)
-- [Jzhao.xyz](https://jzhao.xyz/)
-- [KaaS](https://kaas.jimbrig.com/)
-- [KaaS](https://publish.obsidian.md/kaas-published/README) — Obsidian Publish
-- [Kerim's Digital Garden](https://garden.oxus.net/)
-- [Kevin Slin (Digital Garden)](https://www.kevinslin.com/)
-- [Keyvan Akbary](https://keyvanakbary.github.io/learning-notes/) — learning notes
-- [Leah Ferguson](https://publish.obsidian.md/leah/Home)
-- [List of Patterns](https://patternlanguage.cc/)
-- [louis030195](https://brain.louis030195.com/README)
-- [Lukas Alberer DG](https://www.alberer.contact/)
-- [LYT Kit](https://notes.linkingyourthinking.com/Home)
-- [LYT Kit](https://www.linkingyourthinking.com/lyt-kit-course/onboarding)
-- [Maple Circuit](https://maplecircuit.dev/)
-- [Marco Noris](https://lab.marconoris.com/) — lab
-- [Mark's Notes](https://notes.philoserf.com/Index)
-- [Mathieu Dutour](https://mathieudutour.github.io/gatsby-digital-garden/) — GitHub Pages
-- [Matters of matter](https://publish.obsidian.md/zvtoth/Matter+project/General+resources/%E2%96%AB%EF%B8%8F+Matters+of+matter) — Obsidian Publish
-- [Metec](https://metec.tiddlyhost.com/#Introducci%C3%B3:Introducci%C3%B3) — TiddleHost
-- [Mister chad](https://mister-chad.com/welcome)
-- [mister chad](https://publish.obsidian.md/mister-chad/welcome) — Obsidian Publish
-- [My recipe collection](https://recipes.deeppass.net/) — DeepPass
-- [myaiba](https://publish.obsidian.md/myaiba/myaiba) — Obsidian Publish
-- [myNotes](https://bgmnotes.tiddlyhost.com/) — TIddlehost
-- [NFT Standards Wiki](https://www.nftstandards.wtf/NFT+Standards+Wiki+-+READ.me)
-- [niallbell](https://cave.niallbell.com/) — The Cave
-- [Nisheet Patel](https://www.nisheetpatel.me/resources) — Resources
-- [Nitin Pai's Notes](https://notes.nitinpai.in/Start+Here)
-- [No Trace Project](https://www.notrace.how/)
-- [nomad.co](https://nomand.co/site/home.html)
-- [Notas sobre el ahora](https://lab.marconoris.com/now) — Ouroboros lab
-- [Obsidian-Excalidraw](https://excalidraw-obsidian.online/Welcome)
-- [Old Winter](https://garden.oldwinter.top/) — Garden
-- [Owen Young](https://wiki.owenyoung.com/) — Foam wiki
-- [Pawelel PKM](https://pawelel.netlify.app/)
-- [Perlite](https://perlite.secure77.de/) — Secure77
-- [Peter's Second 🧠](https://peteryuen.netlify.app/)
-- [Pheelwell Garden](https://pheelwell-garden.vercel.app/)
-- [phoenix-blog 一车面包人](https://perch.parasoltree.top/)
-- [Portafolio Deysy -TiddleHost](https://portafolio.tiddlyhost.com/)
-- [Portafolio Yesika Parra](https://portafolio1.tiddlyhost.com/) — TiddleHost
-- [Qwxlea Digital Garden](https://qwxlea.org/current)
-- [Rachel's Notes](https://publish.obsidian.md/rachel/Hello)
-- [Radio Stations TiddleHost](https://radio.tiddlyhost.com/)
-- [Razvan Andrei Surdu](https://razvan-andrei-surdu.eu/) — Digital Garden
-- [Roget's Thesaurus](https://publish.obsidian.md/rogets/Vocabulary/note) — Obsidian Publish
-- [Santi Younger Notes](https://santiyounger.blog/daily) — Obsidian Publish
-- [Scalingsyn Thesis](https://scalingsynthesis.com/)
-- [sean.fish](https://sean.fish/)
-- [SethMB Work](https://sethmb.xyz/)
-- [Shane's FE Model](https://publish.obsidian.md/shanesql/Shanes+FE+Model) — Obsidian Publish
-- [Shihyu's PKM](https://shihyuho.github.io/pkm/)
-- [SlRvb](https://publish.obsidian.md/slrvb/90+Site/SlRvb+Home) — Obsidian Publish
-- [Socratica](https://toolbox.socratica.info/)
-- [spaceaudits](https://publish.obsidian.md/spaceaudits) — Obsidian Publish
-- [Spiritual Digital Garden](https://spiritual-garden.com/)
-- [Sspaeti Second Brain 🧠](https://brain.sspaeti.com/)
-- [Steam Deck Guide](https://steamdeckguide.tiddlyhost.com/) — TiddleHost
-- [TAET (trial an error tech)](https://trialanderror.tech/)
-- [textfiles.com](http://www.textfiles.com/)
-- [Thatother](https://notes.thatother.dev/) — Digital Garden
-- [The Blue Book](https://lyz-code.github.io/blue-book/) — Lyz Code
-- [The Book of Concord Online](https://lutheranconfessions.org/)
-- [The Courtyard](https://siyangsun.github.io/courtyard/)
-- [The Golden Forest](https://www.lorien.cloud/docs/docs-intro)
-- [The Integral Guide to Well-Being](https://integralguide.com/%E2%AD%90%EF%B8%8F+Start+Here/About) — Obsidian Publish
-- [The Intersect](https://intersect.rknight.me/) — rknight
-- [The Quantum Well](https://publish.obsidian.md/myquantumwell/Welcome+to+The+Quantum+Well!) — Obsidian Publish
-- [The Thought Garden](https://garden.alexrinehart.net/) — Alexrinehart
-- [The Ultramarine Archipelago](https://the-ultramarine-archipelago.tiddlyhost.com/)
-- [TiddlyWiki Starter](https://starter.tiddlyhost.com/) — TIddlehost
-- [Walk in the Forest](https://walkintheforest.com/Content/%F0%9F%91%8B%F0%9F%8F%BD+Welcome)
-- [Welcome 🌌](https://notes.johnmavrick.com/Digital+Galaxy/Welcome+%F0%9F%8C%8C) — John's Digital Galaxy 🌌
-- [Wiki Club Aluche](https://club-ciclista-aluche.tiddlyhost.com/) — TiddleHost
-- [WikiTerra](https://wikiterra.github.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/wikiterra/wikiterra.github.io/)
-- [Writing Note by Note](https://writingnotebynote.com/)
-- [XXIIVV](https://webring.xxiivv.com/) — Webring
-- [Zytomorrow DG](https://zytomorrow.top/)
+#### Ranking Blog
+- [Blog The GDELT Project](https://blog.gdeltproject.org/)
+- [Largest.org](https://largest.org/)
+
+#### Science Blog
+- [100ceros](https://100ceroscom.wordpress.com/)
+- [Alejandro Matemáticas](https://alejandromatematicas.wordpress.com/)
+- [Aprender y enseñar Matemáticas](https://aprender-ensenyar-matematicas.blogspot.com/)
+- [Aptipedia Tecknowledgies](https://aptipedia.blogspot.com/)
+- [DemographeR's notes](https://ikashnitsky.github.io/)
+- [Ecoosfera](https://ecoosfera.com/)
+- [El blog del perro del desierto](https://perrodeldesierto.blogspot.com/)
+- [El profe de Física](https://elprofedefisica.naukas.com/)
+- [el Profe de Física](https://elprofedefisica.es/)
+- [Energías Libres](https://energiaslibres.wordpress.com/)
+- [Espacio, Astronomía y Ciencia](https://www.facebook.com/JJBENAVENTERODRIGUEZ)
+- [ExoGenesis](https://exo.substack.com/) — Substack
+- [Gaussianos](https://www.gaussianos.com/)
+- [Geometría Sagrada](https://www.sacred-geometry.es/)
+- [La raíz cuadrada del blog](https://rrocha111.wordpress.com/)
+- [Los hijos De Lagrange](https://loshijosdelagrange.wordpress.com/)
+- [masmates.net](https://masmates.net/)
+- [Mathematics and computer science](https://trizenx.blogspot.com/) — Blogspot
+- [MatPalm](https://matpalm.com/blog)
+- [Naukas](https://naukas.com/)
+- [Pedro Fortuny Ayuso](https://pfortuny.net/)
+- [Principia Scientific](https://principia-scientific.com/)
+- [PsicoActiva](https://www.psicoactiva.com/)
+- [Towards Data Science](https://towardsdatascience.com/)
+- [Trendsmap](https://www.trendsmap.com/)
+- [Tyler Morgan Blog](https://www.tylermw.com/)
+- [Uv](https://www.uv.es/guilopez) — Guilopez
+- [Walter Bislins](http://walter.bislins.ch/)
+- [WorldStandards](https://www.worldstandards.eu/)
+- [xefer](https://xefer.com/)
+
+##### Computing Blog
+- ⭐ **[Dev Notes](https://www.devnotesdaily.com/)** — Crafted for Coders
+- ⭐ **[Jamstack](https://jamstack.org/)** — For fast and secure sites
+- [& /dev/null](https://www.thirtythreeforty.net/)
+- [3D Game Engine Programming](https://www.3dgep.com/)
+- [100cosas.dev](https://100cosas.dev/) — Mejora en programación, un consejo a la vez
+- [a16z](https://www.a16z.news/) — Substack
+- [Adventures in Linux and KDE](https://pointieststick.com/)
+- [AI 2027](https://ai-2027.com/)
+- [AK’s Substack](https://akhaliq.substack.com/) — Substack
+- [Alexia Michelle](https://lexi.lat/)
+- [Andrej Karpathy blog](https://karpathy.github.io/)
+- [Aprendiendo a Programar](https://aprendiendoaprogramar.netlify.app/)
+- [Aprendiendo a Virtualizar](https://aprendiendoavirtualizar.com/)
+- [Atareao.es](https://atareao.es/)
+- [Ben Eater](https://eater.net/)
+- [Better Programming](https://betterprogramming.pub/) — Medium
+- [Blog Bitix](https://picodotdev.github.io/blog-bitix/)
+- [Brain Baking](https://brainbaking.com/)
+- [Ceos3c](https://www.ceos3c.com/)
+- [Changelog.com](https://changelog.com/)
+- [Chris Titus Tech](https://christitus.com/)
+- [Code Bushi](https://codebushi.com/)
+- [Computing Notes](https://notes.yxy.ninja/) — Xinyang YU
+- [Ctrl blog by Daniel Aleksandersen](https://www.ctrl.blog/)
+- [Data Engineering Blog](https://sspaeti.com/)
+- [Destroy All Software](https://www.destroyallsoftware.com/screencasts)
+- [devconnected](https://devconnected.com/) — Software Engineering Articles, Guides & Tips
+- [DevGa.me](https://devga.me/)
+- [Disconnected Systems](https://disconnected.systems/)
+- [Dusty Mabe](https://dustymabe.com/)
+- [Dwarkesh Podcast](https://www.dwarkesh.com/) — Substack
+- [Embedded Inventor](https://embeddedinventor.com/)
+- [Engineering for Data Science](https://engineeringfordatascience.com/)
+- [Evilnapsis](https://evilnapsis.com/)
+- [F1LT3R](https://f1lt3r.io/) — JS Dev Web & Mobile
+- [FadinGeek](https://fadingeek.medium.com/) — Medium
+- [FoolControl](https://foolcontrol.org/)
+- [Garon](https://www.garron.me/en/) — Tech Blog
+- [Gavin Lyons](https://gavinlyonsrepo.github.io/) — Tech Blog
+- [GeGeek](https://gegeek.com/) — I don't reinvent the wheel, I just link to it
+- [Geoff Ruddock](https://geoffruddock.com/)
+- [GloriousEggroll's Blog](https://www.gloriouseggroll.tv/)
+- [Greg Hilston](https://www.greghilston.com/)
+- [GreyCoder](https://greycoder.com/)
+- [GUIdebook](https://guidebookgallery.org/) — Graphical User Interface gallery
+- [Hayden James](https://haydenjames.io/) — Linux Systems Analyst
+- [Ivan Grishaev's blog](https://grishaev.me/)
+- [Jamstack .NET](https://jamstacks.net/)
+- [Jamstatic.fr](https://jamstatic.fr/)
+- [JavaScript Weekly Archives](https://javascriptweekly.com/issues)
+- [José Juan Sánchez Hernández Blog](https://josejuansanchez.org/)
+- [KaliTut](https://kalitut.com/) — Linux and pentesting blog
+- [Károly Zsolnai-Fehér](https://users.cg.tuwien.ac.at/zsolnai/) — Research Scientist
+- [LANRAT](https://lanrat.com/)
+- [Latent Space](https://www.latent.space/) — Substack
+- [Light Commands](https://lightcommands.com/)
+- [Liliputing](https://liliputing.com/)
+- [linuxmobile](https://linuxmobile.netlify.app/)
+- [Low Orbit Flux](https://low-orbit.net/)
+- [Lyngvær Log](https://lyngvaer.no/)
+- [MarksBlogg Tech](https://tech.marksblogg.com/)
+- [neeanotes📜](https://notes.neeasade.net/)
+- [Newbedev](https://newbedev.com/) — Programming tutorials
+- [nikic's Blog](https://www.npopov.com/)
+- [nixers](https://nixers.net/)
+- [Open Source is Awesome Show Notes](https://opensourceisawesome.com/)
+- [Osservatorio Nessuno](https://osservatorionessuno.org/)
+- [Pandammonium](https://pandammonium.org/)
+- [Phil Opp](https://os.phil-opp.com/) — Writing an OS in Rust
+- [PHP.Watch](https://php.watch/) — PHP Articles, News, Upcoming Changes, RFCs, and more
+- [Pid Edins](https://0pointer.de/blog/) — 0pointer.net
+- [Pid Eins](https://0pointer.net/blog/)
+- [Programster's Blog](https://blog.programster.org/)
+- [Qball's Weblog](https://blog.sarine.nl/)
+- [Rakhim.org](https://rakhim.org/)
+- [Sean Godecke](https://www.seangoedecke.com/) — Blog
+- [Sick Codes](https://sick.codes/)
+- [Sidebar.io](https://sidebar.io/)
+- [Simon Aubury](https://simon-aubury.medium.com/) — Medium
+- [Simplified Guide](https://www.simplified.guide/)
+- [Sorush Khajepor](https://iamsorush.com/)
+- [ssp.sh](https://www.ssp.sh/)
+- [StatnMap](https://statnmap.com/)
+- [Supun Kavinda's Blog](https://supunkavinda.blog/)
+- [TechHut.tv](https://techhut.tv/)
+- [tek syndicate](https://teksyndicate.com/)
+- [Terence Eden’s Blog](https://shkspr.mobi/blog/)
+- [TfTHacker](https://tfthacker.medium.com/) — Medium
+- [The Algorithmic Bridge](https://thealgorithmicbridge.substack.com/) — Substack
+- [The Evil Skeleton Blog](https://theevilskeleton.gitlab.io/blog)
+- [The New Stack](https://thenewstack.io/)
+- [The SSD Review](https://www.thessdreview.com/)
+- [TheEvilSkeleton](https://theevilskeleton.gitlab.io/)
+- [This Modern Web](https://www.thismodernweb.com/) — Patrick Marsceill
+- [TorrentFreak](https://torrentfreak.com/)
+- [Trafotin](https://trafotin.com/)
+- [UbuntuHandbook](https://ubuntuhandbook.org/)
+- [Uros Popovic](https://popovicu.com/)
+- [UsenetReviewz.com](https://usenetreviewz.com/)
+- [Venam's Blog](https://venam.nixers.net/blog/#gsc.tab=0)
+- [VHSblog](https://vhs.codeberg.page/)
+- [Waylon Walkers Digital Garden](https://waylonwalker.com/archive/)
+- [XeroLinux HQ](https://xerolinux.xyz/)
+- [Y.net](https://03c8.net/)
+- [z3bra.org](https://blog.z3bra.org/)
+- [z3bradotorg](http://z3bra.org/)
+- [Zeh Fernando](http://zehfernando.com/)
+
+###### Big Data Blog
+- [Data Science Central](https://www.datasciencecentral.com/)
+
+###### Cybersecurity Blogs
+- [2-spyware](https://www.2-spyware.com/)
+- [avoidthehack!](https://avoidthehack.com/)
+- [Catalog](https://spyware.neocities.org/articles/) — Spyware Watchdog
+- [Check Point Research](https://research.checkpoint.com/)
+- [Ciberseguridad](https://ciberseguridad.com/)
+- [Ciberseguridad.blog](https://ciberseguridad.blog/)
+- [CSO](https://www.csoonline.com/)
+- [CVE security vulnerability database. Security vulnerabilities, exploits, references and more](https://www.cvedetails.com/)
+- [Cybernews](https://cybernews.com/)
+- [CyberSecurity News](https://cybersecuritynews.es/)
+- [Dark Reading](https://www.darkreading.com/)
+- [Dark Web Informer](https://darkwebinformer.com/)
+- [Derecho de la Red](https://derechodelared.com/)
+- [elhacker.NET](https://www.elhacker.net/)
+- [Elie Bursztein's site](https://elie.net/)
+- [GEEKtyper](http://geektyper.com/shield)
+- [hasherezade](https://hshrzd.wordpress.com/)
+- [IntelTechniques](https://inteltechniques.com/)
+- [IT Governance](https://www.itgovernance.co.uk/)
+- [IT Security Guru](https://www.itsecurityguru.org/)
+- [Krebs on Security](https://krebsonsecurity.com/)
+- [Linux Security Blog](https://linuxsecurityblog.com/)
+- [Lucky225](https://lucky225.medium.com/)
+- [MalwareTech](https://www.malwaretech.com/)
+- [My Shadow](https://myshadow.org/)
+- [Naked Security](https://nakedsecurity.sophos.com/)
+- [Null Byte](https://null-byte.wonderhowto.com/) — WonderHowTo
+- [Project Zero](https://googleprojectzero.blogspot.com/)
+- [Recorded Future](https://therecord.media/)
+- [RestorePrivacy](https://restoreprivacy.com/)
+- [Schneier on Security](https://www.schneier.com/)
+- [Securelist](https://securelist.com/)
+- [Segu-Info](https://blog.segu-info.com.ar/)
+- [Spyware remove](https://www.spywareremove.com/)
+- [The Daily Swig](https://portswigger.net/daily-swig)
+- [The DFIR Report](https://thedfirreport.com/)
+- [The Hacker News](https://thehackernews.com/)
+- [Threatpost](https://threatpost.com/)
+- [Un informático en el lado del mal](https://www.elladodelmal.com/)
+- [Under the Breach](https://underthebreach.medium.com/)
+- [VX-underground](https://vx-underground.org/)
+- [WeLiveSecurity](https://www.welivesecurity.com/la-es)
+- [YouTube Tracking Exposed](https://youtube.tracking.exposed/)
+
+###### Hacking Blog
+- [Flu Project](https://www.flu-project.com/)
+- [GoFetch](https://gofetch.fail/) — Breaking Constant-Time Cryptographic Implementations Using Data Memory-Dependent Prefetchers
+- [Hacking/Security](https://medium.com/hacking-info-sec) — Medium
+- [Kernal](https://kernal.eu/)
+- [s4vitar](https://s4vitar.github.io/) — H4cknet
+- [splinter_code blog](https://splintercod3.blogspot.com/)
+- [Yous.be](https://yous.be/)
+
+##### Engineering Blog
+- [Engineering Projects](https://bestengineeringprojects.com/)
+- [Engineers Need Art](https://engineersneedart.com/)
+- [Manual de Vuelo](https://manualvuelo.es/)
+- [SLC is](https://slc.is/)
+
+##### Physics Blogs
+- [Albert Einstein Online](https://westegg.com/einstein/)
+- [Aula Cultural Cassiopeia](https://acassiopeia.wordpress.com/)
+- [Bartosz Ciechanowski](https://ciechanow.ski/)
+- [Cortana Corporation](https://cortana.com/)
+- [Cuentos Cuánticos](https://cuentoscuanticos.com/)
+- [DivulgaMadrid](https://divulgamadrid.blogspot.com/)
+- [Electrónica Fácil](https://www.electronicafacil.net/)
+- [Emilio Silvera Vázquez](https://emiliosilveravazquez.com/)
+- [Falacias de la Mecánica Cuántica](https://falaciascuanticas.blogspot.com/)
+- [Física cuántica en la red](http://www.fisicacuantica.es/)
+- [La fisica y química](https://lafisicayquimica.com/)
+- [La Mecánica Cuántica](https://la-mecanica-cuantica.blogspot.com/)
+- [La Teoría de la Relatividad](https://teoria-de-la-relatividad.blogspot.com/)
+- [LivePhysics](http://www.livephysics.com/)
+- [Los Mundos de Brana](https://losmundosdebrana.com/)
+- [Mecánica cuántica](http://www.emiliosilveravazquez.com/blog/category/mecanica-cuantica)
+- [Molecular Expressions](https://micro.magnet.fsu.edu/)
+- [Oldcivilizations's](https://oldcivilizations.wordpress.com/)
+- [ROL Science](https://www.rolscience.net/)
+- [Scientia](https://scientiablog.com/)
 
 #### SFF Blog
 - [Rreactor MaG](https://reactormag.com/)
 
-#### Mystery Blog
-- [Snakedos](https://www.planetasnakedos.net/)
-- [Tierra de Misterios](https://tierrademisterios.com/)
-- [Unexplained Mysteries around the world](https://www.world-mysteries.com/)
+#### Technology Blog
+- [Blur Busters](https://blurbusters.com/)
+- [CanaryRam](https://canaryram.site/)
+- [Data Horde](https://datahorde.org/)
+- [Digital Inspiration](https://www.labnol.org/)
+- [Emezeta](https://www.emezeta.com/)
+- [Future Timeline](https://www.futuretimeline.net/)
+- [Future Tools Weekly](https://futuretools.beehiiv.com/)
+- [Gizcomputer](https://www.gizcomputer.com/)
+- [Gizhogar](https://www.gizhogar.com/)
+- [Gizlogic](https://www.gizlogic.com/)
+- [Giztele](https://www.giztele.com/)
+- [I Love Free Software](https://www.ilovefreesoftware.com/)
+- [Informático Vitoria](https://www.informaticovitoria.com/)
+- [Is AI Profitable Yet?](https://isaiprofitable.com/)
+- [kilObit](https://kil0bit.blogspot.com/)
+- [Kimovil Blog](https://blog.kimovil.com/es)
+- [List Of Freeware](https://listoffreeware.com/)
+- [Mozilla Hacks](https://hacks.mozilla.org/)
+- [MundoCuentas](https://www.mundocuentas.com/)
+- [OneZero](https://onezero.medium.com/)
+- [Productive Engineer](https://theproductiveengineer.net/)
+- [Rolando Barry](https://honear.notion.site/) — Notion
+- [Secure77](https://secure77.de/)
+- [Tech Debt](https://justtechdebt.com/)
+- [The Bryant Review](https://gardinerbryant.com/)
+- [Tyler's Tech](https://tylerstech.me/)
+- [Vegibit](https://vegibit.com/)
+- [WindowsLoop](https://windowsloop.com/)
+- [WT.Social](https://wt.social/wt/artificial-intelligence) — AI
+- [WT.Social](https://wt.social/wt/free-software) — Free Software
 
-#### Music Blog
-- [Beatles4Site](https://beatles4site.wordpress.com/)
-- [musicForProgramming();](https://musicforprogramming.net/latest/)
+#### Travel Blog
+- [ADondeVamosHoyTenerife](https://adondevamoshoytenerife.com/category/listas) — Blog
+- [Backpacking New Zealand Travel Guide, Backpacker Hostels, Jobs, Tours, Working Holiday](https://backpackerboard.co.nz/)
+- [Cuaderno de Viajes](https://www.anamoralesblog.com/)
+- [Historias de China](https://www.historiasdechina.com/)
+- [Las sandalias de Ulises](https://lassandaliasdeulises.com/) — Blog de viajes
+- [NekoJitaBlog](https://nekojitablog.blogspot.com/)
+- [Ojo de Nómada](https://ojodenomada.com/)
+- [Twosometravellers](https://www.twosometravellers.com/)
+- [Universo Marino](https://universomarino.com/)
+- [ViajeroCasual](https://viajerocasual.com/)
 
-#### Military Blog
-- [El Blog de Tiro Táctico](https://tirotactico.net/)
+#### University Blog
+- [Gaceta UNAM](https://www.gaceta.unam.mx/)
+- [Guiuniversitaria.mx](https://guiauniversitaria.mx/)
+- [Harvard University Press](https://www.hup.harvard.edu/)
+- [Saber Universidad](https://www.saberuniversidad.es/)
 
-#### History Blog
-- [Finis fabulas](https://finisfabulas.blogspot.com/)
+#### Weather Blog
+- [500 euros por un Chemtrail](https://500eurosporunchemtrail.blogspot.com/)
+- [Aemetblog](https://aemetblog.es/)
+- [ArcticToday](https://www.arctictoday.com/)
+- [Cazatormentas](https://www.cazatormentas.net/)
+- [Heated.world](https://heated.world/)
+- [LA Weather Reports](http://weatherreport.la/)
+- [Meteorología en Red](https://www.meteorologiaenred.com/)
 
-#### Dancing Blog
-- [SientelBaile](https://sientelbaile.com/)
+#### Web Blog
+- [Blog](https://www.notion.so/blog) — Notion.so
+- [Bloguero Pro](https://blogueropro.com/)
+- [Made Mistakes](https://mademistakes.com/)
+- [On](https://on.substack.com/) — Substack
+- [Parzibyte's blog](https://parzibyte.me/blog)
+- [Robert Reich](https://robertreich.substack.com/) — Substack
+- [Smashing Magazine](https://www.smashingmagazine.com/)
+- [SpaceCollective](http://spacecollective.org/)
+- [Substack Reads](https://read.substack.com/)
+- [The Internet map Blog](https://the-internet-map.blogspot.com/)
+- [The M&Ms Newsletter](https://newsletter.memesmotivations.com/) — Louie Bacaj | Substack
+- [Uncharted Territories](https://unchartedterritories.tomaspueyo.com/) — Substack
+
+### Magazine Media
+
+#### Alternative Mag
+- [21st Century Wire](https://21stcenturywire.com/)
+- [Ancient Code](https://www.ancient-code.com/)
+- [AULIS Online](https://www.aulis.com/index.html)
+- [Before It's News](https://beforeitsnews.com/)
+- [Best News Here](https://bestnewshere.com/)
+- [BIIE](https://biie.org/ultimas-noticias)
+- [Canal TLV1 / Toda La Verdad Primero](https://canaltlv1.com/) — Un medio de difusión independiente y ajeno a intereses que no sean los de el bien común nacional por encima de todo.
+- [CienciaySaludNatural](https://cienciaysaludnatural.com/)
+- [Coercion Code](https://coercioncode.com/)
+- [Daily Stormer](https://dailystormer.su/)
+- [EducaciónlibreySoberana](https://educacionlibreysoberana.wordpress.com/)
+- [Ejército Remanente](https://ejercitoremanente.com/)
+- [El Investigador](https://elinvestigador.org/)
+- [El Vórtice Radio](https://www.elvorticeradio.com/)
+- [Enprimeraplana.org](https://enprimeraplana.org/)
+- [Entre Noticias](https://rubenluengas.com/)
+- [Espacio en Blanco](http://www.espacioenblanco.es/web)
+- [Espacio Misterio](https://www.espaciomisterio.com/)
+- [Europe Reloaded](https://www.europereloaded.com/)
+- [Exemplore](https://exemplore.com/)
+- [Flippityflop.es](https://flippityflop.es/)
+- [Frontnieuws](https://www.frontnieuws.com/)
+- [Geoengineering Watch](https://www.geoengineeringwatch.org/)
+- [Hibbeler Productions](https://hibbelerproductions.com/)
+- [How and Why's](https://www.howandwhys.com/)
+- [Humans Are Free](https://humansarefree.com/)
+- [Infowars](https://www.infowars.com/)
+- [Instituto Rothbard](https://rothbardbrasil.com/)
+- [Intrahistoria21](https://www.intrahistoria21.es/)
+- [KontraInfo](https://kontrainfo.com/)
+- [La Ciencia Perdida](https://artursala.wordpress.com/)
+- [La quinta columna](https://www.laquintacolumna.net/)
+- [Los Liberales](https://losliberales.org/)
+- [Los misterios de la tierra](https://losmisteriosdelatierra.es/)
+- [Mavi Gazetem](https://www.mavigazetem.com.tr/)
+- [mil21](https://www.mil21.es/)
+- [mpr21](https://mpr21.info/)
+- [muelasgaitan](https://muelasgaitan.wordpress.com/)
+- [MUFON](https://www.mufon.com/)
+- [Mundo Desconocido](https://www.mundodesconocido.es/)
+- [Nave del Misterio](https://viajesnavedelmisterio.com/)
+- [No+Mentiras](https://nomasmentiras.uy/)
+- [Operation-Nation](https://operation-nation.com/)
+- [Orwell City](https://www.orwell.city/)
+- [Phi Beta Iota](https://phibetaiota.net/)
+- [Philosophers Stone](https://philosophers-stone.info/)
+- [Plano existencial](https://www.planoexistencial.com/)
+- [plural-21](https://plural-21.org/)
+- [Project Veritas](https://www.projectveritas.com/)
+- [Qanon-news](https://qanon-news.com/)
+- [REM space](https://remspace.net/)
+- [Steve Quayle](https://www.stevequayle.com/)
+- [Straight to the point](https://straight2point.info/)
+- [The Anagram Times](https://www.anagramtimes.com/)
+- [The Gateway Pundit](https://www.thegatewaypundit.com/)
+- [The Liberty Beacon](https://www.thelibertybeacon.com/)
+- [The Truth Behind](https://thetruthbehind.tv/)
+- [Top Secret Writers](https://www.topsecretwriters.com/)
+- [We Are Change](https://wearechange.org/)
+- [What On Earth Is Happening](https://www.whatonearthishappening.com/)
+- [Win War](https://win-war.org/)
+- [Zerohedge](https://www.zerohedge.com/)
+
+##### Por la Verdad
+- [Biólogos por la verdad](https://biologosporlaverdad.es/)
+- [Médicos por la verdad](https://medicosporlaverdad.net/)
+- [Periodistas por la verdad](https://periodistasporlaverdad.com/)
+
+#### Business Mag
+- [American Heritage](https://www.americanheritage.com/)
+- [Bloomberg](https://www.bloomberg.com/europe)
+- [Bolsamania](https://www.bolsamania.com/)
+- [Bourse](https://www.boursier.com/)
+- [Burbuja.info](https://www.burbuja.info/inmobiliaria)
+- [Business Insider](https://www.businessinsider.es/)
+- [Capital](https://www.capital.fr/)
+- [DayliFX](https://www.dailyfx.com/)
+- [Digiday](https://digiday.com/)
+- [E2EXCHANGE](https://www.e2exchange.com/)
+- [Economic Times](https://economictimes.indiatimes.com/)
+- [El Blog Salmón](https://www.elblogsalmon.com/)
+- [elEconomista](https://www.eleconomista.es/)
+- [Expansión](https://www.expansion.com/)
+- [Financial Review](https://www.afr.com/)
+- [Financial Times](https://www.ft.com/)
+- [Forbes](https://www.forbes.com/)
+- [Fortune](https://fortune.com/)
+- [ihodl.com](https://ihodl.com/)
+- [Inc mag](https://www.inc.com/)
+- [Infobolsa](https://www.infobolsa.es/)
+- [Insider](https://www.insider.com/)
+- [International Business Times](https://www.ibtimes.com/)
+- [Invertia](https://www.invertia.com/es/mercados/bolsa)
+- [Investing](https://es.investing.com/)
+- [Investopedia](https://www.investopedia.com/)
+- [Libre Mercado](https://www.libremercado.com/)
+- [Marketplace](https://www.marketplace.org/)
+- [MarketScreener](https://www.marketscreener.com/)
+- [MarketWatch](https://www.marketwatch.com/)
+- [Salario Mínimo](http://www.salariominimo.es/)
+- [The Banker](https://www.thebanker.com/)
+- [The Economist](https://www.economist.com/)
+- [The Economist](https://www.eiu.com/n/) — Intelligence Unit
+- [The Land Report](https://landreport.com/)
+- [Yahoo Finance](https://finance.yahoo.com/)
+
+##### Cryptocurrency News
+- [BeInCrypto](https://beincrypto.com/)
+- [Bitcoin Magazine](https://bitcoinmagazine.com/)
+- [Bitcoin News](https://news.bitcoin.com/)
+- [Bitcoin Wisdom](https://bitcoinwisdom.com/)
+- [Bitcoinist](https://bitcoinist.com/)
+- [CoinClarity](https://coinclarity.com/)
+- [CoinDesk](https://www.coindesk.com/)
+- [Coindodo.io](https://coindodo.io/)
+- [Coins Mag](https://coins-mag.com/)
+- [Cointelegraph](https://cointelegraph.com/)
+- [CoinWarz](https://www.coinwarz.com/)
+- [Crypto News](https://cryptonews.com/)
+- [CryptoGround](https://www.cryptoground.com/)
+- [CryptoMatrix](https://cryptomatrix.fr/)
+- [CryptoPotato](https://cryptopotato.com/)
+- [Cyptonews.net](https://cryptonews.net/)
+- [Decrypt](https://decrypt.co/)
+- [Digiconomist](https://digiconomist.net/)
+- [FunOntheRide](https://www.funontheride.com/)
+- [NewsBTC](https://www.newsbtc.com/)
+- [Read.cash](https://read.cash/)
+- [Rekt News](https://rekt.news/)
+- [Territorio Bitcoin](https://www.territoriobitcoin.com/)
+- [The Block Crypto](https://www.theblockcrypto.com/)
+
+#### Education Mag
+- [Addicted 2 Success](https://addicted2success.com/)
+- [EDUCACIÓN 3.0](https://www.educaciontrespuntocero.com/)
+- [FamilyEducation](https://www.familyeducation.com/)
+- [Forte Labs](https://fortelabs.co/blog)
+- [Owlcation](https://owlcation.com/)
+- [Tes](https://www.tes.com/news) — News
+- [ThoughtCo](https://www.thoughtco.com/)
+
+##### University Ranking Mag
+- [Shanghai ranking](http://www.shanghairanking.com/)
+- [Times Higher Education](https://www.timeshighereducation.com/)
+- [U-ranking](https://www.u-ranking.es/)
+- [uniRank](https://www.4icu.org/)
+- [Uniworld](http://uniworlduk.es/)
+
+#### Entertainment Mag
+- [Aeon](https://aeon.co/) — a world of ideas
+- [CodigoPoker](https://www.codigopoker.com/)
+- [Complex](https://www.complex.com/)
+- [Cultura Genial](https://www.culturagenial.com/)
+- [Cultural Weekly](https://www.culturalweekly.com/)
+- [Curionautas](https://curionautas.com/)
+- [Daily Dot](https://www.dailydot.com/)
+- [EnkiVillage.org](https://www.enkivillage.org/)
+- [Enter.co](https://www.enter.co/)
+- [Facts Legend](https://factslegend.org/)
+- [Flashbak mag](https://flashbak.com/)
+- [Flipada.com](https://www.flipada.com/)
+- [Flooxer Now](https://www.flooxernow.com/) — Música, Youtubers, influencers, salseo, vídeos virales y animales
+- [Guinness World Records](https://www.guinnessworldrecords.com/)
+- [Input mag](https://www.inputmag.com/)
+- [Madspread](https://www.madspread.com/)
+- [Mashable](https://mashable.com/)
+- [MuggleNet](https://www.mugglenet.com/)
+- [Nerdist](https://nerdist.com/)
+- [Paste Magazine](https://www.pastemagazine.com/)
+- [StageBuddy](https://stagebuddy.com/)
+- [Supercurioso](https://supercurioso.com/)
+- [SYFY WIRE](https://www.syfy.com/)
+- [The Pudding](https://pudding.cool/)
+- [Today I Found Out](https://www.todayifoundout.com/)
+- [Vulture](https://www.vulture.com/)
+- [Webat25](https://www.webat25.org/)
+- [WornOnTV](https://wornontv.net/)
+- [Yasss](https://www.yasss.es/)
+
+##### Anime Mag
+- [SomosKudasai.com](https://somoskudasai.com/)
+
+##### Cinema Mag
+- [A.V. Club Film](https://film.avclub.com/)
+- [Academia de cine](https://www.academiadecine.com/)
+- [cine.com](https://www.cine.com/)
+- [Cinéfilos](https://cinefilosoficial.com/)
+- [Cinemanía](https://cinemania.20minutos.es/)
+- [eCartelera](https://www.ecartelera.com/)
+- [Filmmaker Magazine](https://filmmakermagazine.com/)
+- [In Their Own League](https://intheirownleague.com/)
+- [Kinocheck](https://kinocheck.com/)
+- [Movie locations](https://www.movie-locations.com/)
+- [SensaCine](https://www.sensacine.com/)
+- [Trailers From Hell](https://trailersfromhell.com/)
+- [Watch the Titles!](https://www.watchthetitles.com/)
+
+##### Music Mag
+- [All About Jazz](https://www.allaboutjazz.com/)
+- [AllMusic](https://www.allmusic.com/)
+- [Billboard](https://www.billboard.com/)
+- [Cool Accidents](https://www.coolaccidents.com/)
+- [Discogs](https://www.discogs.com/) — Music Database and Marketplace
+- [DJMag](https://djmag.com/)
+- [EDM](https://edm.com/)
+- [HipHopDX](https://hiphopdx.com/)
+- [laplaylist.es](https://laplaylist.es/)
+- [Promusicae](https://www.promusicae.es/)
+- [RA · Discover Electronic Music and Events](https://ra.co/)
+- [Rcokdelux](https://www.rockdelux.com/)
+- [The Beatles Bible](https://www.beatlesbible.com/)
+- [The DJ List](https://thedjlist.com/)
+- [Todomusica](https://www.todomusica.org/)
+- [Vibe](https://www.vibe.com/)
+
+##### Reading Mag
+- [Círculo de lectores](https://www.circulo.es/)
+- [Cosmere](https://cosmere.es/) — Brandon Sanderson fan
+- [Electric literature](https://electricliterature.com/)
+- [The Bookseller](https://www.thebookseller.com/)
+
+##### Satire & Humour News
+- [El Chigüire Bipolar](https://www.elchiguirebipolar.net/)
+- [El Dizque](https://www.eldizque.com/)
+- [El Jueves](https://www.eljueves.es/)
+- [El Mundo Today](https://www.elmundotoday.com/)
+- [Hay Noticia](https://haynoticia.es/)
+- [Le Gorafi](http://www.legorafi.fr/)
+- [RIA FogNews](http://fognews.ru/)
+- [The Daily Mash](https://www.thedailymash.co.uk/)
+- [The DailyER](http://thedailyer.com/)
+
+##### Stylish Mag
+- [GQ España](https://www.revistagq.com/) — Revista de tendencias, moda, actualidad y estilo de vida
+
+###### Celebrity Mag
+- [Biogossipy](https://biogossipy.com/)
+- [BuzzFeed](https://www.buzzfeed.com/tvandmovies)
+- [Capital fm](https://www.capitalfm.com/)
+- [CelebHealthMagazine](https://celebhealthmagazine.com/)
+- [CelebMafia](https://celebmafia.com/)
+- [CelebrityAccess](https://celebrityaccess.com/)
+- [Celebs Now](https://www.celebsnow.co.uk/)
+- [Cultture](https://www.cultture.com/)
+- [Dexerto](https://www.dexerto.com/)
+- [Diezminutos](https://www.diezminutos.es/)
+- [DIRT](https://www.dirt.com/) — Luxury Real Estate News
+- [DramaPanda](http://www.dramapanda.com/)
+- [Dreshare](https://www.dreshare.com/)
+- [Europa Press](https://www.europapress.es/)
+- [FormulaTV](https://www.formulatv.com/)
+- [Gossip Gist](https://gossipgist.com/)
+- [Hola!](https://www.hola.com/)
+- [Hollywood Reporter](https://www.hollywoodreporter.com/)
+- [Just Jared](https://www.justjared.com/)
+- [Lecturas](https://www.lecturas.com/)
+- [Look OkDiario](https://look.okdiario.com/)
+- [LOVE](https://www.thelovemagazine.co.uk/)
+- [New Idea](https://www.newidea.com.au/)
+- [People](https://people.com/)
+- [Rolling Stone](https://www.rollingstone.com/)
+- [Semana](https://www.semana.es/)
+- [The Washington Independent](https://washingtonindependent.com/)
+- [The WOW Report](https://worldofwonder.net/)
+- [TheRichest](https://www.therichest.com/)
+- [TMZ](https://www.tmz.com/)
+- [Us Magazine](https://www.usmagazine.com/)
+- [Variety](https://variety.com/)
+- [Vbox7](https://www.vbox7.com/)
+- [VIX](https://www.vix.com/es)
+- [What's on Weibo](https://www.whatsonweibo.com/)
+- [XOXO](https://xoxo.news/)
+
+###### Fashion Mag
+- [BASIC Magazine](http://basic-magazine.com/)
+- [Cafe.se](https://www.cafe.se/)
+- [Cosmopolitan](https://www.cosmopolitan.com/)
+- [ELLE](https://www.elle.com/)
+- [Fashion Forward](https://fashionforward.mako.co.il/)
+- [FASHION Magazine](https://fashionmagazine.com/)
+- [Femina](https://www.femina.dk/)
+- [Glamour](https://www.glamour.com/fashion)
+- [GRAZIA](https://graziamagazine.com/)
+- [Gwyneth Paltrow](https://gwynethpaltrow.com/)
+- [Harper's BAZAAR](https://www.harpersbazaar.com/)
+- [Hypebeast](https://hypebeast.com/)
+- [JJnet](https://jj-jj.net/)
+- [L'Officiel](https://www.lofficiel.com/)
+- [Models.com](https://models.com/)
+- [non-no.jp](https://nonno.hpplus.jp/)
+- [nStyle](https://www.instyle.com/)
+- [Quién](https://www.quien.com/)
+- [Refinery29](https://www.refinery29.com/en-us)
+- [SANDFLAIR](https://sandflair.com/)
+- [Telva](https://www.telva.com/)
+- [The Business of Fashion](https://www.businessoffashion.com/)
+- [The CUT](https://www.thecut.com/)
+- [TheFashionBall](https://www.thefashionball.com/)
+- [V MAGAZINE](https://vmagazine.com/)
+- [Vanity Fair mag](https://www.vanityfair.com/news)
+- [Vanity Fair revista](https://www.revistavanityfair.es/)
+- [W Magazine](https://www.wmagazine.com/)
+
+###### Lifestyle Mag
+- [Cup of Jo](https://cupofjo.com/)
+- [Divinity](https://www.divinity.es/)
+- [National Today](https://nationaltoday.com/)
+- [Uppers](https://www.uppers.es/)
+
+**Men Mag**
+- [AskMen](https://www.askmen.com/)
+- [For Him Magazine](http://fhm.com/)
+- [GQ](https://www.gq.com/) — Men's Fashion, Style, Grooming, Fitness, Entertainment, Lifestyle, News & Politics
+- [Maxim](https://www.maxim.com/)
+- [Men's Health](https://www.menshealth.com/)
+- [Suburban Men](https://www.suburbanmen.com/)
+
+**Women Mag**
+- [Playboy](https://www.playboy.com/)
+- [Stylia.fr](https://www.stylia.fr/)
+- [Women's Health](https://www.womenshealthmag.com/)
+- [World Swimsuit](https://worldswimsuit.com/)
+
+###### Popular Culture
+- [Bored Panda](https://www.boredpanda.com/)
+- [BrightSide](https://brightside.me/)
+- [ComingSoon.net](https://www.comingsoon.net/)
+- [Culturebot](http://www.culturebot.org/)
+- [Estilo Next](https://estilonext.com/)
+- [History Daily](https://historydaily.org/)
+- [Inckredible](https://inckredible.com/)
+- [JustRichest](https://justrichest.com/)
+- [Lifehacker](https://lifehacker.com/)
+- [Mentes Liberadas](https://www.mentesliberadas.com/)
+- [PopBuzz](https://www.popbuzz.com/)
+- [Querido Youtuber](https://www.queridoyoutuber.com/)
+- [Ranker](https://www.ranker.com/)
+- [The A.V. Club](https://www.avclub.com/)
+- [The Art of Manliness](https://www.artofmanliness.com/)
+- [The Direct](https://thedirect.com/)
+- [The MAN](https://theman.today/)
+- [The Mind Unleashed](https://themindunleashed.com/)
+- [theCHIVE](https://thechive.com/)
+- [UPROXX](https://uproxx.com/)
+- [VICE](https://www.vice.com/es)
+- [WIRED](https://www.wired.com/)
+
+#### Fact Checker
+- [AFP Fact Check](https://factcheck.afp.com/)
+- [Bellingcat](https://www.bellingcat.com/)
+- [Catholic Factchecking](https://catholic-factchecking.com/)
+- [Check Your Fact](https://checkyourfact.com/)
+- [Chequeado](https://chequeado.com/)
+- [Contrail Science](https://contrailscience.com/)
+- [EFE Verifica](https://verifica.efe.com/)
+- [FactCheck](https://www.factcheck.org/)
+- [Full Fact](https://fullfact.org/)
+- [Maldita](https://maldita.es/)
+- [Myth Detector](https://mythdetector.ge/en/)
+- [PolitiFact](https://www.politifact.com/)
+- [Poynter](https://www.poynter.org/)
+- [Skeptical Inquirer](https://skepticalinquirer.org/)
+- [Snopes](https://www.snopes.com/)
+- [Verificat](https://www.verificat.cat/)
+
+##### Debunk Blog
+- [BumiDatar.id](https://bumidatar.id/)
+- [Debunking Flat Earth](https://flatearth.ws/)
+- [Flat Earth Lunacy](https://flatearthlunacy.com/)
+- [Metabunk.org](https://www.metabunk.org/home/)
+- [Refutando la Tierra Plana](https://refutandotp.blogspot.com/)
+
+#### Health Mag
+- [AZ Salud](https://azsalud.com/)
+- [CalorieBee](https://caloriebee.com/)
+- [Children's Health Defense](https://childrenshealthdefense.org/)
+- [Cuerpomente](https://www.cuerpomente.com/)
+- [Dieting Well](https://dietingwell.com/)
+- [Discovery DSalud](https://www.dsalud.com/)
+- [Efe Salud](https://www.efesalud.com/espana)
+- [GoodTherapy](https://www.goodtherapy.org/)
+- [Guía tu cuerpo](https://www.guiatucuerpo.com/)
+- [Habitualmente](https://habitualmente.com/)
+- [Health](https://www.health.com/)
+- [KidsHealth](https://kidshealth.org/)
+- [Medical News Today](https://www.medicalnewstoday.com/)
+- [MédicoPlus](https://medicoplus.com/)
+- [Mejor con Salud](https://mejorconsalud.com/)
+- [Mundo Blog](http://www.mundoblog.net/)
+- [Natursan](https://www.natursan.net/)
+- [Plusesmas.com](https://www.plusesmas.com/)
+- [Portal Salud](https://www.portalsalud.com/)
+- [Protección celectromagnética](https://www.proteccionelectromagnetica.com/)
+- [Revista Clara](https://www.clara.es/)
+- [Saber Vivir](https://www.sabervivirtv.com/)
+- [Sabiens](https://sabiens.net/)
+- [Salud Cardiovascular](https://fundaciondelcorazon.com/)
+- [Terapia de frío](https://www.terapiadefrio.com/)
+- [Verywell Health](https://www.verywellhealth.com/)
+- [Vitónica](https://www.vitonica.com/)
+- [Webconsultas](https://www.webconsultas.com/)
+- [WebMD](https://www.webmd.com/)
+
+##### Nutrition Mag
+- [Badali](http://badali.umh.es/)
+- [Eater](https://www.eater.com/)
+- [Tu Nutricionista Integrativa](https://tunutricionistaintegrativa.com/)
+
+##### Recipes Mag
+- [Afuegolento](https://www.afuegolento.com/recetas)
+- [De Rechupete](https://www.abc.es/recetasderechupete/) — Recetas de cocina casera que siempre salen
+- [El Aderezo](https://www.eladerezo.com/)
+- [Ensalada de col](https://ensaladadecol.com/)
+- [Food & Nutrition Research](https://foodandnutritionresearch.net/index.php/fnr/index)
+- [La palmera rosa](https://lapalmerarosa.com/)
+- [PequeRecetas](https://www.pequerecetas.com/)
+- [Recetas de rechupete](https://www.recetasderechupete.com/)
+- [Wetaca](https://wetaca.com/)
+- [Wikicocina](http://wikicocina.com/)
+
+#### How to Guide
+- [Best Reviews Guide](https://www.bestreviews.guide/)
+- [DoItYourself.com](https://www.doityourself.com/)
+- [eHow](https://www.ehow.com/)
+- [eHow español](https://www.ehowenespanol.com/)
+- [Folyo.me](https://folyo.me/)
+- [Learn Me A Bitcoin (By Greg Walker)](https://learnmeabitcoin.com/)
+- [Lifehack](https://www.lifehack.org/)
+- [Wonder How To](https://www.wonderhowto.com/)
+
+#### Journalism Mag
+- [Exposing the Invisible](https://exposingtheinvisible.org/en)
+
+#### Juridical News
+- [Ámbito Jurídico](https://www.ambitojuridico.com/)
+- [Diario Jurídico](https://www.diariojuridico.com/)
+- [Economist & Jurist](https://www.economistjurist.es/)
+- [Judicial Watch](https://www.judicialwatch.org/)
+- [JURIST](https://www.jurist.org/)
+- [Legal Today](https://www.legaltoday.com/)
+- [Noticias Jurídicas](https://noticias.juridicas.com/)
+- [True Scoop](https://www.truescoopnews.com/)
+
+#### Military Mag
+- [African Aerospace](https://www.africanaerospace.aero/)
+- [Air Force Magazine](https://www.airforcemag.com/)
+- [Air Force Technology](https://www.airforce-technology.com/)
+- [Airliners.net](https://www.airliners.net/)
+- [Airman Dodlive](https://airman.dodlive.mil/)
+- [Atomcentral](https://www.atomcentral.com/)
+- [Benemérita al día](https://www.benemeritaaldia.org/)
+- [Civil Air Patrol Newsroom](https://www.cap.news/)
+- [Defence IQ](https://www.defenceiq.com/)
+- [Defensa](https://www.defensa.com/)
+- [DefensayAviacion.info](http://www.outono.net/elentir/defensa-y-aviacion)
+- [Defense News](https://www.defensenews.com/)
+- [Diario Militar](https://diariomilitar.es/)
+- [FlightGlobal](https://www.flightglobal.com/)
+- [GlobalSecurity](https://www.globalsecurity.org/index.html)
+- [Inteligencia, Espionaje y Servicios Secretos](https://www.intelpage.info/)
+- [Military & Aerospace Electronics](https://www.militaryaerospace.com/)
+- [Military Times](https://www.militarytimes.com/)
+- [Military.com](https://www.military.com/)
+- [Naval News](https://www.navalnews.com/)
+- [Naval Technology](https://www.naval-technology.com/)
+- [SOFREP](https://sofrep.com/)
+- [Stripes](https://www.stripes.com/)
+- [We Are The Mighty](https://www.wearethemighty.com/)
+
+#### Mystic Mag
+- [Cadena Aurea](http://cadenaaurea.com/)
+- [Guía sobre el crecimiento espiritual y la ley de la atracción](https://senderosespirituales.com/)
+- [Ikerjimenez.com](https://www.ikerjimenez.com/)
+- [InterSer](https://interser.ning.com/)
+- [La Caja de Pandora](https://www.cajadepandora.com/)
+- [La Guia Esotérica](https://laguiaesoterica.com/)
+- [La numerología](https://www.todalanumerologia.com/) — Una guía completa para comprender su importancia y aplicaciones
+- [Land Before Time](https://landbeforetime.home.blog/)
+- [Magic Horoscope](https://themagichoroscope.com/)
+- [Reverend Neargood, O.C.](https://neargood.net/)
+- [WeMystic](https://www.wemystic.com/)
+- [Wicca Escuela de Magia Ofiuco](https://ofiuco.com/)
+
+##### Astrology Mag
+- [Astro-Charts](https://www.astro-charts.com/)
+- [Astro-Seek](https://www.astro-seek.com/)
+- [Astrocentro](https://mi.astrocentro.com/)
+- [Astrologia Experimental](https://astrologiaexperimental.com/)
+- [AstrologyAnswers](https://astrologyanswers.com/)
+- [Astronologia](https://astronlogia.com/)
+- [Astrotheme](https://www.astrotheme.com/)
+- [Cafe Astrology](https://cafeastrology.com/)
+- [Horoscope.com](https://www.horoscope.com/us/index.aspx)
+
+##### Consciousness Mag
+- [3D to 5D Consciousness](https://www.3dto5dconsciousness.com/)
+- [Artur Sala](https://www.artursala.com/)
+- [Borja Vilaseca](https://borjavilaseca.com/)
+- [Consciousvitality](https://www.consciousvitality.com/)
+- [Hermandad Blanca](https://hermandadblanca.org/)
+- [In5D](https://in5d.com/)
+- [International Academy of Consciousness](https://www.iacworld.org/) — IAC
+- [Mia Astral](https://miastral.com/)
+- [Mundo Pránico](https://www.mundopranico.com/)
+- [Neobeats](https://neobeats.de/)
+- [Out-of-Body Experience (OBE4U)](https://obe4u.com/)
+- [Qualia Computing](https://qualiacomputing.com/)
+- [Significado de los Sueños](https://significadosdelossuenos.net/)
+- [Tarot](https://www.tarot.com/)
+- [Time for truth](https://timefortruth.es/)
+- [Viajes en el astral](http://www.viajesenelastral.org/)
+- [Vorterix](https://vorterix.com/)
+- [WAOPlanet](https://waoplanet.com/)
+- [YOSOY](https://yosoy.red/)
+
+#### Politics Mag
+- [Foreign Policy](https://foreignpolicy.com/)
+- [Global Issues](https://www.globalissues.org/)
+- [LIFE](https://www.life.com/)
+- [Noema Magazine](https://www.noemamag.com/)
+- [OnTheIssues.org](https://www.ontheissues.org/default.htm)
+- [POLITICO](https://www.politico.com/)
+- [Protocol-com](https://www.protocol.com/)
+- [Swiss Policy Research](https://swprs.org/)
+- [The New Humanitarian](https://www.thenewhumanitarian.org/)
+
+##### Environment Mag
+- [ReTime.org](https://retime.org/)
+
+#### Psychology Mag
+- [Sueños Significados](https://suenosignificado.com/)
+- [TheMindFool](https://themindfool.com/)
+
+#### Religion Mag
+- [Adoración y Liberación](https://adoracionyliberacion.com/)
+- [Antiguas religiones del mundo](https://sites.google.com/site/antiguasreligionesdelmundo)
+- [Chabad Lubavitch](http://www.chabad.org/)
+- [Hablemosdereligion](https://hablemosdereligion.com/)
+- [IslamiCity](https://www.islamicity.org/)
+- [Knowing Jesus](https://www.knowing-jesus.com/)
+- [Learn Religions](https://www.learnreligions.com/)
+- [New Advent](https://www.newadvent.org/)
+- [Religión en Libertad](https://www.religionenlibertad.com/)
+- [Vatican News](https://www.vaticannews.va/en.html)
+- [World Last Chance](https://www.worldslastchance.com/)
+- [Zarathushtra](https://www.zarathushtra.com/)
+
+#### Travel Mag
+- [AFAR](https://www.afar.com/)
+- [Budget Travel](https://www.budgettravel.com/)
+- [Cruising World](https://www.cruisingworld.com/)
+- [Culture Trip](https://theculturetrip.com/)
+- [Destinations Magazine](https://destinationsmagazine.com/)
+- [Euromonitor International](https://www.euromonitor.com/)
+- [Islands](https://www.islands.com/)
+- [Trailer Life](https://www.trailerlife.com/)
+- [Travel + Leisure](https://www.travelandleisure.com/)
+- [Travel Mag](https://www.travelmag.com/)
+- [Travel Magazine](https://travelmagazine.com/)
+- [Yachting](https://www.yachtingmagazine.com/)
+
+### News-Aggregator
+- [AllYouCanRead](https://www.allyoucanread.com/)
+- [AOL](https://www.aol.com/)
+- [Digg](https://digg.com/)
+- [Disclose.tv](https://www.disclose.tv/)
+- [Enterat](https://www.enterat.com/)
+- [Feedc](https://feedc.com/)
+- [Flipboard](https://flipboard.com/) — Your Social Magazine
+- [FreeNode.net](https://freenode.net/)
+- [Gab Trends](https://trends.gab.com/)
+- [Google News](https://news.google.com/home?hl=en-US&gl=US&ceid=US:en)
+- [Google News](https://news.google.com/newspapers) — Newspaper
+- [Google Play Kiosco](https://newsstand.google.com/?nsro=true)
+- [Kiosko.net](https://es.kiosko.net/)
+- [Menéame](https://www.meneame.net/)
+- [Microsoft News](https://www.msn.com/en-us)
+- [MuckRock](https://muckrock.com/)
+- [Najdi.si](https://www.najdi.si/)
+- [Netscape ISP](https://isp.netscape.com/)
+- [Old News](https://www.oldnews.com/es) — Archivo en línea de periódicos históricos
+- [Popurls](http://popurls.com/)
+- [Prensa Escrita](https://www.prensaescrita.com/)
+- [PressReader](https://www.pressreader.com/catalog)
+- [QQ](https://www.qq.com/)
+- [Rambler.ru](https://www.rambler.ru/)
+- [Readly](https://us.readly.com/) — one magazine app subscription
+- [Seznam](https://www.seznam.cz/)
+- [Simcast](https://simcast.com/)
+- [Slashdot.org](https://slashdot.org/)
+- [URLsDev](https://devurls.com/)
+- [URLsFin](https://finurls.com/)
+- [URLsMath](https://mathurls.com/)
+- [URLsSci](https://sciurls.com/)
+- [URLsTech](https://techurls.com/)
+- [Walla.co.il](https://www.walla.co.il/)
+- [Yahoo News](https://news.yahoo.com/)
+
+### Science Media
+
+#### Mainstream Science
+- [BBVAOpenMind](https://www.bbvaopenmind.com/)
+- [Bioguia](https://www.bioguia.com/)
+- [C&EN](https://cen.acs.org/index.html)
+- [Carbon Brief](https://www.carbonbrief.org/)
+- [Ciencia de Sofá](https://cienciadesofa.com/)
+- [Cultura Científica](https://culturacientifica.com/)
+- [Discover Magazine](https://www.discovermagazine.com/)
+- [EarthSky](https://earthsky.org/)
+- [Futurity](https://www.futurity.org/)
+- [Green Future](https://greenfuture.io/)
+- [Hipótesis](http://hipotesis.es/)
+- [Inverse](https://www.inverse.com/)
+- [Microsiervos](https://www.microsiervos.com/)
+- [New Scientist](https://www.newscientist.com/)
+- [Noticias de la Ciencia](https://noticiasdelaciencia.com/)
+- [Physics World](https://physicsworld.com/)
+- [Popular Mechanics](https://www.popularmechanics.com/)
+- [Popular Science](https://www.popsci.com/)
+- [SciDev.Net](https://www.scidev.net/global)
+- [ScienceAGoGo](https://www.scienceagogo.com/)
+- [ScienceAlert](https://www.sciencealert.com/)
+- [ScienceDaily](https://www.sciencedaily.com/)
+- [Scientific American](https://www.scientificamerican.com/)
+- [Seeker](https://www.seeker.com/)
+- [Singularity Hub](https://singularityhub.com/)
+- [Smithsonian Magazine](https://www.smithsonianmag.com/)
+- [Soulsask.com](https://soulask.com/)
+- [Welt der Physik](https://www.weltderphysik.de/)
+
+#### Popular Science
+- [Curiosity Daily](https://www.curiositydaily.com/)
+- [HHMI BioInteractive](https://www.biointeractive.org/)
+- [HowStuffWorks](https://www.howstuffworks.com/)
+- [Ingeniero boss](https://www.ingenieroboss.com/)
+- [Lifeder](https://www.lifeder.com/)
+- [Live Science](https://www.livescience.com/)
+- [MuyInteresante](https://www.muyinteresante.es/)
+- [National Geographic](https://www.nationalgeographic.com/)
+- [Natural History Magazine](https://www.naturalhistorymag.com/)
+- [Quo](https://www.quo.es/)
+- [RankRed](https://www.rankred.com/)
+- [Serious Science](http://serious-science.org/)
+- [Sinc](https://www.agenciasinc.es/)
+
+#### Science Communication
+- [Big Van Ciencia](http://www.bigvanciencia.com/)
+- [Tested](https://www.tested.com/)
+
+#### Scientific Mag
+
+##### Astronomy Mag
+- [Air & Space Magazine](https://www.airspacemag.com/)
+- [AMSAT](https://www.amsat.org/)
+- [Astrobitácora](https://www.astrobitacora.com/)
+- [Astronaut](https://astronaut.com/)
+- [Astronomy & Astrophysics (A&A)](https://www.aanda.org/)
+- [Astronomy Magazine](http://www.astronomy.com/)
+- [collectSPACE](http://www.collectspace.com/index.html)
+- [Curiosmos](https://curiosmos.com/)
+- [Daily Galaxy](https://dailygalaxy.com/)
+- [El Universo Hoy](https://www.eluniversohoy.net/)
+- [Everyday Astronaut](https://everydayastronaut.com/)
+- [NASASpaceFlight](https://www.nasaspaceflight.com/)
+- [RocketLaunch.Live](https://www.rocketlaunch.live/)
+- [Sky & Telescope](https://skyandtelescope.org/)
+- [Space.com](https://www.space.com/)
+- [Spaceflight Now](https://spaceflightnow.com/)
+- [The Space Review](https://www.thespacereview.com/index.html)
+- [Universe Today](https://www.universetoday.com/)
+
+###### Space Mag
+- [Astronoo](http://www.astronoo.com/en/)
+- [EclipseWise](http://eclipsewise.com/) — Solar and Lunar Eclipses
+- [MrEclipse.com](https://www.mreclipse.com/)
+- [SpaceFlight Insider](https://www.spaceflightinsider.com/)
+- [Supercluster](https://www.supercluster.com/)
+
+###### UFO Mag
+- [Scientific Coalition for UAP](https://www.explorescu.org/)
+- [UAP News](https://uap.news/)
+- [UFO Congress](https://ufocongress.com/)
+- [UFOHolic](https://ufoholic.com/)
+- [UMMO-Ciencias](https://ummo-ciencias.org/)
+
+##### Chemistry Mag
+- [Chemistry World](https://www.chemistryworld.com/)
+
+##### Engineering Mag
+- [Arquitectura Viva](http://www.arquitecturaviva.com/)
+- [Engineering](https://www.engineering.com/)
+- [Engineering News-Record](https://www.enr.com/)
+- [IEEE Spectrum](https://spectrum.ieee.org/)
+
+#### Scientific Publication
+- [American Meteorological Society](https://journals.ametsoc.org/) — Journals
+- [American Scientist](https://www.americanscientist.org/)
+- [Cell Press](https://www.cell.com/)
+- [iDramaLab](https://idrama.science/)
+- [Investigación y Ciencia](https://www.investigacionyciencia.es/)
+- [IOPscience](https://iopscience.iop.org/)
+- [JoVE](https://www.jove.com/)
+- [Medical Xpress](https://medicalxpress.com/)
+- [Nano Nature](https://nano.nature.com/)
+- [Nature](https://www.nature.com/)
+- [Neurology Today](https://journals.lww.com/neurotodayonline/pages/default.aspx)
+- [Optica Publishing Group](https://opg.optica.org/)
+- [Oxford Academic](https://academic.oup.com/journals)
+- [Phys](https://phys.org/)
+- [Plos One](https://journals.plos.org/plosone)
+- [PNAS](https://www.pnas.org/)
+- [Read by QxMD](https://read.qxmd.com/)
+- [Royal Society](https://royalsociety.org/journals)
+- [Schweizerbart science publishers](https://www.schweizerbart.de/home/start)
+- [Science X Network](https://sciencex.com/)
+- [Sciencemag](https://www.sciencemag.org/)
+- [Sciencemag](https://science.sciencemag.org/) — Science
+- [SigmaXi](https://www.sigmaxi.org/)
+- [Springer Nature](https://www.springernature.com/gp)
+- [symmetry magazine](https://www.symmetrymagazine.org/)
+- [The BMJ](https://www.bmj.com/)
+- [The Daily Research](https://www.thedailyresearch.com/)
+- [The Mathematica Journal](https://www.mathematica-journal.com/)
+- [Wiley Online Library](https://agupubs.onlinelibrary.wiley.com/) — AGU Publications
+- [Zenodo](https://zenodo.org/)
+
+##### Chemistry Pub
+- [ACS](https://pubs.acs.org/) — Pubs
+
+##### Maths Pub
+- [Plus maths mag](https://plus.maths.org/content)
+- [Quanta Magazine](https://www.quantamagazine.org/)
+- [The Book of Threes](https://www.bookofthrees.com/)
+
+##### Medicine Pub
+- [AHA/ASA Journals](https://www.ahajournals.org/)
+- [American College of Physicians](https://annals.org/aim)
+- [EMBO Press](https://www.embopress.org/)
+- [Harvard Health](https://www.health.harvard.edu/)
+- [Journal of Virology](https://jvi.asm.org/)
+- [NIH MedlinePlus Magazine](https://magazine.medlineplus.gov/)
+- [Physical Review Journals](https://journals.aps.org/)
+- [ScienceMag STM](https://stm.sciencemag.org/)
+- [Spandidos Publications](https://www.spandidos-publications.com/)
+- [The American Journal of Medicine](https://www.amjmed.com/)
+- [The Lancet](https://www.thelancet.com/)
+- [The New England Journal of Medicine](https://www.nejm.org/)
+
+##### Physics Pub
+- [CERN Courier](https://cerncourier.com/)
+- [Physics Today](https://physicstoday.scitation.org/journal/pto)
+
+##### Pub Repository
+- [arXiv.org](https://arxiv.org/)
+- [bioRxiv.org](https://www.biorxiv.org/)
+- [Frontiers](https://www.frontiersin.org/)
+- [Hindawi](https://www.hindawi.com/)
+- [medRxiv](https://www.medrxiv.org/)
+- [OSA Publishing](https://www.osapublishing.org/)
+- [PLOS](https://plos.org/)
+- [Protocol Exchange on Research Square](https://protocolexchange.researchsquare.com/)
+- [Scitation](https://www.scitation.org/)
+- [Springer link](https://link.springer.com/)
+- [SSRN](https://www.ssrn.com/index.cfm/en/)
+
+#### University Science
+- [BYU Physics and Astronomy](http://www.physics.byu.edu/)
+- [Conec](https://conec.uv.es/)
 
 ### Sports Media
 - [Air Sports Net](https://www.usairnet.com/)
@@ -2173,27 +1898,17 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [Yachting and Boating World](https://www.ybw.com/)
 - [Yogapedia](https://www.yogapedia.com/)
 
-#### Surf Mag
-- [3sesenta](https://www.3sesenta.com/)
-- [Cerveza Salada](https://www.cervezasalada.com/)
-- [Lucía Martiño](https://www.luciamartino.com/)
-- [Surf Search Spot](https://www.surfsearchspot.com/)
-- [Surfer](https://www.surfer.com/)
-- [Surfer Rule](https://www.surferrule.com/)
-- [SurferToday](https://www.surfertoday.com/)
-- [SurfGirl Magazine](https://www.surfgirlmag.com/)
-- [Surfline](https://www.surfline.com/)
-- [The Inertia](https://www.theinertia.com/)
-- [Todosurf](https://www.todosurf.com/)
-- [Wipeout Surf Magazine](https://wipeoutsurfmag.com/)
-- [World Surf League](https://www.worldsurfleague.com/)
-
 #### Basket Mag
 - [Ballislife](https://ballislife.com/)
 - [Eurobasket](https://www.eurobasket.com/)
 - [NBA news](https://www.nba.com/news)
 - [NBA Stories](https://stories.nba.com/)
 - [Thirty Five Ventures](https://thirtyfiveventures.com/)
+
+#### Chess Mag
+- [Chess News](https://en.chessbase.com/)
+- [Chess-Results Server](https://chess-results.com/)
+- [Chessdom](https://www.chessdom.com/) — Chess, chess news, live chess games
 
 #### Football Mag
 - [AS.com](https://as.com/) — Diario online deportivo
@@ -2211,11 +1926,6 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [GolfDigest](https://www.golfdigest.com/)
 - [Today's Golfer](https://www.todaysgolfer.co.uk/)
 
-#### Chess Mag
-- [Chess News](https://en.chessbase.com/)
-- [Chess-Results Server](https://chess-results.com/)
-- [Chessdom](https://www.chessdom.com/) — Chess, chess news, live chess games
-
 #### Judo Mag
 - [Judo Info](https://judoinfo.com/)
 - [Judo techniques](https://judo.ijf.org/)
@@ -2228,6 +1938,394 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [Performance Home](https://www.sneakerfreaker.com/performance) — Performance by Sneaker Freaker
 - [Running.Life](https://running.life/es) — Calendario de Carreras
 - [Zona Runners](https://zonarunners.es/) — Noticias Diarias Running y Calendario de Carreras
+
+#### Surf Mag
+- [3sesenta](https://www.3sesenta.com/)
+- [Cerveza Salada](https://www.cervezasalada.com/)
+- [Lucía Martiño](https://www.luciamartino.com/)
+- [Surf Search Spot](https://www.surfsearchspot.com/)
+- [Surfer](https://www.surfer.com/)
+- [Surfer Rule](https://www.surferrule.com/)
+- [SurferToday](https://www.surfertoday.com/)
+- [SurfGirl Magazine](https://www.surfgirlmag.com/)
+- [Surfline](https://www.surfline.com/)
+- [The Inertia](https://www.theinertia.com/)
+- [Todosurf](https://www.todosurf.com/)
+- [Wipeout Surf Magazine](https://wipeoutsurfmag.com/)
+- [World Surf League](https://www.worldsurfleague.com/)
+
+### Tech Media
+
+#### Audio Mag
+- [ADAM Audio](https://www.adam-audio.com/en)
+- [Ask.Audio](https://ask.audio/)
+- [Cambridge Audio](https://www.cambridgeaudio.com/row/en)
+- [Darko.Audio](https://darko.audio/)
+- [Guitar World](https://www.guitarworld.com/)
+- [Headphonesty](https://www.headphonesty.com/)
+- [Hispasonic](https://www.hispasonic.com/)
+- [Home DJ Studio](https://homedjstudio.com/)
+- [iFi audio](https://ifi-audio.com/)
+- [Music Critic](https://musiccritic.com/)
+- [Pro Audio Files](https://theproaudiofiles.com/)
+- [Soundphile Review](https://www.soundphilereview.com/)
+
+#### Biotech Mag
+- [Biohackinfo](https://biohackinfo.com/)
+
+#### Camera Magazine
+- [DeCamaras](https://www.decamaras.com/CMS/index.php)
+- [Digital Camera Database](https://www.digicamdb.com/)
+- [Digital Cameras](https://www.imaging-resource.com/)
+- [Digital Photography Review](https://www.dpreview.com/)
+
+#### Computer Mag
+- [A List Apart](https://alistapart.com/)
+- [ADSLZone](https://www.adslzone.net/)
+- [BleepingComputer](https://www.bleepingcomputer.com/)
+- [CompuSoftGames](https://compusoftgames.com/)
+- [Computer Hope](https://www.computerhope.com/)
+- [ComputerHoy](https://computerhoy.com/)
+- [ComputingForGeeks](https://computingforgeeks.com/)
+- [Deskmodder.de](https://www.deskmodder.de/blog/)
+- [Download Cloud](https://www.downloadcloud.com/)
+- [DZone](https://dzone.com/)
+- [El Chapuzas Informático](https://elchapuzasinformatico.com/)
+- [Escuela de Internet](https://www.escueladeinternet.com/)
+- [GamerPC](https://gamerpc.es/)
+- [Geeknetic](https://www.geeknetic.es/)
+- [Geektopia](https://www.geektopia.es/es)
+- [Guru3D](https://www.guru3d.com/)
+- [H2S Media](https://www.how2shout.com/)
+- [Hard Zone](https://hardzone.es/)
+- [HardwarEsfera](https://hardwaresfera.com/)
+- [HPCwire](https://www.hpcwire.com/)
+- [iBSD](https://i-bsd.com/) — Proving that BSD is a great alternative to Linux
+- [igor´sLAB](https://www.igorslab.de/en)
+- [MacRumors](https://www.macrumors.com/)
+- [Make Tech Easier](https://www.maketecheasier.com/)
+- [MuyComputer](https://www.muycomputer.com/)
+- [Noticias3D](https://www.noticias3d.com/)
+- [OSData](https://www.osdata.com/) — Server Operating Systems Technical Comparison
+- [PCMag](https://www.pcmag.com/)
+- [PCWorld](https://www.pcworld.com/)
+- [Search Engine Journal](https://www.searchenginejournal.com/)
+- [ServerWatch](https://www.serverwatch.com/)
+- [Soft Zone](https://www.softzone.es/)
+- [TechPowerUp](https://www.techpowerup.com/)
+- [TenComputer](https://tencomputer.com/)
+- [The Dark Web](https://the-dark-web.com/)
+- [Tom's Hardware](https://www.tomshardware.com/)
+- [VideoCardz](https://videocardz.com/)
+
+##### Linux Mag
+- [9to5Linux](https://9to5linux.com/) — Linux news, reviews, tutorials, and more
+- [Average Linux User](https://averagelinuxuser.com/)
+- [DebugPoint.com](https://www.debugpoint.com/)
+- [Desde Linux](https://desdelinux.net/)
+- [Destination Linux](https://destinationlinux.network/)
+- [Diolinux](https://diolinux.com.br/)
+- [Distrochooser](https://distrochooser.de/)
+- [End of 10](https://endof10.org/)
+- [Faces of Open Source](https://www.facesofopensource.com/)
+- [Fedora Magazine](https://fedoramagazine.org/)
+- [FOSS Force](https://fossforce.com/)
+- [FOSS Linux](https://www.fosslinux.com/) — Enhance your Linux experience
+- [FOSSMint](https://www.fossmint.com/)
+- [Free Linux Tutorials](https://freelinuxtutorials.com/)
+- [FSMdotCOM](https://www.funkyspacemonkey.com/)
+- [GamingOnLinux](https://www.gamingonlinux.com/)
+- [get GNU/Linux!](https://www.getgnulinux.org/en/)
+- [GoLinuxCloud](https://www.golinuxcloud.com/)
+- [Guía Ubuntu](https://www.guia-ubuntu.com/index.php/P%C3%A1gina_principal)
+- [How to check SSD health in Linux](https://www.techrepublic.com/article/how-to-check-ssd-health-in-linux/)
+- [It's FOSS](https://itsfoss.com/)
+- [Jupiter Broadcasting](https://www.jupiterbroadcasting.com/)
+- [LearnLinuxTV](https://www.learnlinux.tv/)
+- [LibreHunt](https://librehunt.org/)
+- [LibreNews](https://thelibre.news/)
+- [LiGNUx.com](https://lignux.com/)
+- [Linoxide](https://linoxide.com/)
+- [Linux Adictos](https://www.linuxadictos.com/)
+- [Linux Channel](https://linuxchannel.org/)
+- [Linux Compatible](https://www.linuxcompatible.org/)
+- [Linux Gaming Central](https://linuxgamingcentral.com/)
+- [Linux Handbook](https://linuxhandbook.com/)
+- [Linux Hint](https://linuxhint.com/)
+- [Linux Insider](https://linuxinsider.com/)
+- [Linux Journal](https://www.linuxjournal.com/)
+- [Linux Journey](https://linuxjourney.com/)
+- [Linux Shell Tips](https://www.linuxshelltips.com/)
+- [Linux Today](https://www.linuxtoday.com/)
+- [Linux.com](https://www.linux.com/)
+- [Linux.org](https://www.linux.org/)
+- [LinuxBlog.io](https://linuxblog.io/) — Linux, Open Source, and Technology
+- [LinuxCommunity](https://www.linux-community.de/)
+- [LinuxConfig.org](https://linuxconfig.org/)
+- [LinuxForDevices](https://www.linuxfordevices.com/)
+- [LinuxGui](https://linuxgui.com/)
+- [LinuxHub.it](https://linuxhub.it/)
+- [Linuxiac](https://linuxiac.com/) — All things Linux & Open Source
+- [Linuxiarze.pl](https://linuxiarze.pl/)
+- [Linuxize](https://linuxize.com/) — Linux Tips, Tricks and Tutorials
+- [LinuxLinks](https://www.linuxlinks.com/)
+- [Linuxpedia](https://linuxpedia.com.es/)
+- [LinuxReviews](https://linuxreviews.org/LinuxReviews)
+- [Linux命令大全(手册)](https://www.linuxcool.com/) — 真正好用的Linux命令在线查询网站
+- [Lunduke Journal of Technology](https://lunduke.substack.com/) — Substack
+- [Make a Linux App](https://makealinux.app/#/)
+- [MEDevel.com](https://medevel.com/)
+- [ml4w.com](https://www.ml4w.com/)
+- [Morrolinux.it](https://morrolinux.it/)
+- [MuyLinux](https://www.muylinux.com/)
+- [OMG! Linux](https://www.omglinux.com/)
+- [OMG! Ubuntu!](https://www.omgubuntu.co.uk/)
+- [OSnews](https://www.osnews.com/)
+- [OSTechNix](https://ostechnix.com/)
+- [Phoronix](https://www.phoronix.com/)
+- [Tecmint](https://tecmint.com/)
+- [The Linux Documentation Project](http://tldp.org/)
+- [The Linux Experiment](https://thelinuxexp.com/)
+- [TuxDigital](https://tuxdigital.com/)
+- [Ubunlog](https://ubunlog.com/)
+- [Ubuntu Docs!](https://www.ubuntudocs.com/)
+- [Ubuntu Free](https://www.ubuntufree.com/)
+- [UbuntuBoss](https://ubuntuboss.com/) — Easy Ubuntu Tutorials | How to for Ubuntu Linux
+- [VITUX](https://vitux.com/)
+- [Xmodulo](https://www.xmodulo.com/)
+
+##### Windows Mag
+- [Windows Central](https://www.windowscentral.com/)
+- [WindowsClub](https://www.thewindowsclub.com/)
+
+#### Gaming Mag
+- [3DJuegos](https://www.3djuegos.com/)
+- [Areajugones](https://areajugones.sport.es/)
+- [DigiStatement](https://digistatement.com/)
+- [Dot Esports](https://dotesports.com/)
+- [esports.com](https://www.esports.com/en)
+- [Eurogamer](https://www.eurogamer.net/)
+- [Game Developer](https://www.gamedeveloper.com/)
+- [Game Informer](https://www.gameinformer.com/)
+- [Game It](https://www.gameit.es/)
+- [Game8｜The Top Gaming and App Walkthroughs Straight from Japan!](https://game8.co/)
+- [Gamepressure](https://www.gamepressure.com/)
+- [GamesIndustry.biz](https://www.gamesindustry.biz/)
+- [GameSpot](https://www.gamespot.com/)
+- [GamesRadar+](https://www.gamesradar.com/uk)
+- [GameStar](https://www.gamestar.com/)
+- [GameWith](https://gamewith.net/)
+- [Generación Xbox](https://generacionxbox.com/)
+- [Gurugamer](https://gurugamer.com/)
+- [HobbyConsolas](https://www.hobbyconsolas.com/)
+- [IGN](https://www.ign.com/)
+- [IND13](https://ind13.com/)
+- [Inven Global](https://www.invenglobal.com/)
+- [Kotaku](https://kotaku.com/)
+- [MCV](https://www.mcvuk.com/)
+- [Mediavida](https://www.mediavida.com/)
+- [Meristation](https://as.com/meristation)
+- [Midgard Digital Content](https://midgarddc.com/)
+- [Mobilegamer.biz](https://mobilegamer.biz/)
+- [Movistar eSports](https://esports.as.com/)
+- [Neoseeker](https://www.neoseeker.com/)
+- [Old School Gamer Magazine](https://www.oldschoolgamermagazine.com/)
+- [PC Gamer](https://www.pcgamer.com/)
+- [Pelit](https://www.pelit.fi/)
+- [Pocket Gamer.biz](https://www.pocketgamer.biz/)
+- [Pocket Tactics](https://www.pockettactics.com/)
+- [Power Unlimited](https://www.pu.nl/)
+- [Push Square](https://www.pushsquare.com/)
+- [Quarter to Three](https://www.quartertothree.com/fp)
+- [Retro Gamer](https://www.retrogamer.net/)
+- [SVG](https://www.svg.com/)
+- [Vandal](https://vandal.elespanol.com/)
+- [Vida Extra](https://www.vidaextra.com/)
+- [VideoGamer.com](https://www.videogamer.com/)
+- [VULKK.com](https://vulkk.com/)
+- [XGN](https://www.xgn.es/)
+
+#### Informatic Guides
+- [Bitactro](https://bitactro.com/)
+- [Codec Guide](https://www.codecguide.com/)
+- [Codegena](https://codegena.com/)
+- [EveryMac.com](https://everymac.com/)
+- [Hacks.Guide](https://hacks.guide/)
+- [LandChad.net](https://landchad.net/)
+- [Solvetic](https://www.solvetic.com/)
+
+#### Internet Mag
+- [Blockonomi](https://blockonomi.com/)
+- [CircleID](https://www.circleid.com/)
+
+#### Phones Mag
+- [Andro4all](https://andro4all.com/)
+- [Android Authority](https://www.androidauthority.com/)
+- [Android Básico](https://androidbasico.com/)
+- [Android Central](https://www.androidcentral.com/)
+- [Android Police](https://www.androidpolice.com/)
+- [Android Sage](https://www.androidsage.com/)
+- [droidcon](https://www.droidcon.com/)
+- [Frandroid](https://www.frandroid.com/)
+- [Get Droid](https://www.getdroidtips.com/)
+- [Movil Zona](https://www.movilzona.es/)
+- [PhoneArena](https://www.phonearena.com/)
+- [Pro Android](https://www.proandroid.com/)
+- [The Custom Droid](https://www.thecustomdroid.com/)
+- [The Custom Rom](https://thecustomrom.com/)
+- [TuTecnoMundo](https://tutecnomundo.com/) — Android, noticias y tutoriales
+- [XDA-Developers](https://www.xda-developers.com/)
+
+#### Popular Tech Mag
+- [9to5Google](https://9to5google.com/)
+- [Ars Technica](https://arstechnica.com/)
+- [Beebom](https://beebom.com/)
+- [CNET](https://www.cnet.com/)
+- [Digital Trends](https://www.digitaltrends.com/)
+- [El Output](https://eloutput.com/)
+- [Engadget](https://www.engadget.com/)
+- [Gadgets 360](https://gadgets.ndtv.com/)
+- [GeekWire](https://www.geekwire.com/)
+- [Genbeta](https://www.genbeta.com/)
+- [Gizmodo](https://es.gizmodo.com/)
+- [Hackaday](https://hackaday.com/)
+- [Hipertextual](https://hipertextual.com/)
+- [Lifewire](https://www.lifewire.com/)
+- [MakeUseOf](https://www.makeuseof.com/)
+- [MIT Technology Review](https://www.technologyreview.com/)
+- [TechCrunch](https://techcrunch.com/)
+- [The Tech Report](https://techreport.com/)
+- [TheNextWeb](https://thenextweb.com/latest)
+- [VoltAero](https://www.voltaero.aero/en)
+- [Xataka](https://www.xataka.com/)
+- [ZDNet](https://www.zdnet.com/)
+
+#### Tech Mag
+- ⭐ **[ROBOTS](https://robotsguide.com/)** — Your Guide to the World of Robotics
+- ⭐ **[Solar LT Mag](https://solar.lowtechmagazine.com/)**
+- [01net](https://www.01net.com/)
+- [9to5Mac](https://9to5mac.com/)
+- [9to5Toys](https://9to5toys.com/)
+- [404 Media](https://www.404media.co/)
+- [Accueil](https://www.minimachines.net/) — MiniMachines.net
+- [Adictec](https://adictec.com/)
+- [Analytics India Mag](https://analyticsindiamag.com/)
+- [AppAdvice](https://appadvice.com/appnn)
+- [Bits of Freedom](https://www.bitsoffreedom.nl/)
+- [Built In](https://builtin.com/)
+- [CCM](https://ccm.net/)
+- [Cloudwards](https://www.cloudwards.net/) — Cloud Software & Privacy Tools Reviewed
+- [Dazeinfo](https://dazeinfo.com/)
+- [DRASTIC News](https://drasticnews.com/)
+- [Fossbytes](https://fossbytes.com/)
+- [GEEKrar](https://www.geekrar.com/)
+- [Geeks3D](https://geeks3d.com/) — 3D tech-news, graphics cards, programming, gamedev, pixel hacking and demoscene
+- [gHacks](https://www.ghacks.net/)
+- [Guiding Tech](https://www.guidingtech.com/)
+- [H3XED](https://www.h3xed.com/)
+- [HackerNoon](https://hackernoon.com/)
+- [Hongkiat](https://www.hongkiat.com/blog)
+- [How-To Geek](https://www.howtogeek.com/)
+- [InfoWorld](https://www.infoworld.com/)
+- [InvGate Blog](https://blog.invgate.com/)
+- [Isa Marcial](https://isamarcial.com.mx/)
+- [KODIdb](https://www.kodidb.com/)
+- [Low-Tech Magazine](https://www.lowtechmagazine.com/)
+- [LTT Labs](https://www.lttlabs.com/)
+- [Make](https://makezine.com/) — DIY Projects and Ideas for Makers
+- [NeoTeo](https://www.neoteo.com/)
+- [Neowin](https://www.neowin.net/)
+- [Nobbot](https://www.nobbot.com/)
+- [NotebookCheck.net](https://www.notebookcheck.net/)
+- [Omicron](https://omicrono.elespanol.com/)
+- [Online Tech Tips](https://www.online-tech-tips.com/)
+- [Outsource IT Today](https://outsourceit.today/)
+- [Profesional Review](https://www.profesionalreview.com/)
+- [SecuredYou](https://www.securedyou.com/)
+- [SiliconANGLE](https://siliconangle.com/)
+- [Tech Centurion](https://www.techcenturion.com/)
+- [Tech Storm](https://www.techstorm.tv/)
+- [Tech Xplore](https://techxplore.com/)
+- [Techaeris](https://techaeris.com/)
+- [TechCult](https://techcult.com/)
+- [Techdows](https://techdows.com/)
+- [TechJunkie](https://www.techjunkie.com/)
+- [TechJury](https://techjury.net/)
+- [TECHNOFIZI](https://technofizi.net/)
+- [TechNorms](https://www.technorms.com/)
+- [Techopedia](https://www.techopedia.com/)
+- [TechPout](https://www.techpout.com/)
+- [TechRadar](https://www.techradar.com/)
+- [TechRechard](https://techrechard.com/) — Tips & Tricks
+- [TechRepublic](https://www.techrepublic.com/)
+- [TechSpot](https://www.techspot.com/)
+- [TechWiser](https://techwiser.com/)
+- [The Markup](https://themarkup.org/)
+- [The Register](https://www.theregister.com/)
+- [The Robot Report](https://www.therobotreport.com/)
+- [The Verge](https://www.theverge.com/)
+- [Tip Tipa](https://tiptipa.com/)
+- [TreceBits](https://www.trecebits.com/)
+- [TurboFuture](https://turbofuture.com/)
+- [VentureBeat](https://venturebeat.com/)
+- [WikiVersus](https://www.wikiversus.com/)
+
+#### Vehicle Mag
+
+##### Aviation Mag
+- [Aeroespacio](http://www.aeroespacio.com.ar/)
+- [Aerotendencias](https://www.aerotendencias.com/)
+- [Airfields-Freeman](http://www.airfields-freeman.com/)
+- [Airplane-Pictures.net](https://www.airplane-pictures.net/)
+- [Aviación al Día](https://aviacionaldia.com/)
+- [Aviacion Online](https://www.aviacionline.com/)
+- [AviacionDigital](https://aviaciondigital.com/)
+- [Aviation Report](https://www.aviation-report.com/)
+- [Avion Revue Internacional](https://es.avionrevue.com/)
+- [Controller.com](https://www.controller.com/)
+- [Fly News](https://fly-news.es/)
+- [Flying mag](https://www.flyingmag.com/)
+- [HANGAR X](https://www.hangarx.com.ar/)
+- [Hispaviación](http://www.hispaviacion.es/)
+- [Historia de la Aviación](https://sites.google.com/site/historiadelaaviacion2)
+- [JetPhotos](https://www.jetphotos.com/)
+- [Noticias Aéreas](https://noticiasaereas.com/)
+- [Private Jet Card](https://prijet.com/)
+
+##### Car Mag
+- [8000vueltas](https://8000vueltas.com/)
+- [Autoweek](https://www.autoweek.com/)
+- [Car and Driver](https://www.caranddriver.com/)
+- [Car Body Design](https://www.carbodydesign.com/)
+- [carwow](https://www.carwow.co.uk/)
+- [Electrek](https://electrek.co/)
+- [Google-info.org](https://google-info.org/)
+- [Heycar](https://heycar.com/)
+- [MotorTrend](https://www.motortrend.com/)
+- [NDTV](https://auto.ndtv.com/)
+- [Road & Track](https://www.roadandtrack.com/)
+- [Supercars](https://www.supercars.net/blog)
+- [Supercars](https://www.supercars.com/)
+- [Tesla-info](https://tesla-info.com/) — Tesla buyers guides, worldwide inventory and support for owners
+- [Teslarati](https://www.teslarati.com/)
+- [The Drive](https://www.thedrive.com/)
+- [Top Gear](https://www.topgear.com/car-news)
+- [TopSpeed](https://www.topspeed.com/)
+
+##### Ship Mag
+- [Boat International](https://www.boatinternational.com/)
+- [boats.com](https://es.boats.com/)
+- [Cosas De Barcos](https://www.cosasdebarcos.com/)
+- [Cruise Hive](https://www.cruisehive.com/)
+- [Endurance22](https://endurance22.org/)
+- [Marine Insight](https://www.marineinsight.com/)
+- [Superyachts.com](https://www.superyachts.com/)
+- [The Maritime Executive](https://www.maritime-executive.com/)
+
+#### Web Dev Mag
+- [CodeSource.io](https://codesource.io/)
+- [Make a Website Hub](https://makeawebsitehub.com/)
+- [ProgrammableWeb](https://www.programmableweb.com/)
 
 ### World Newspaper
 - [Africa.com](https://africa.com/)
@@ -2296,6 +2394,100 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [watson](https://www.watson.ch/) — News ohne Bla Bla
 - [WION](https://www.wionews.com/)
 - [Yomiuri Shimbun](https://www.yomiuri.co.jp/)
+
+#### China News
+- [56.com](https://www.56.com/)
+- [360 Kuai](https://www.360kuai.com/)
+- [CCTV](https://www.cctv.com/)
+- [CGTN](https://www.cgtn.com/)
+- [China Daily](https://www.chinadaily.com.cn/index.html)
+- [China.com](https://www.china.com/)
+- [CSDN](https://www.csdn.net/)
+- [Dailynews Sina](https://dailynews.sina.com/bg)
+- [Discuss.com.hk](https://www.discuss.com.hk/)
+- [Fujieace](https://www.fujieace.com/)
+- [GNEWS](https://www.gnews.org/)
+- [hk01.com](https://www.hk01.com/)
+- [Huanqiu](https://www.huanqiu.com/)
+- [on.cc](https://hk.on.cc/hk/news/index.html)
+- [qyer](https://www.qyer.com/)
+- [Reuters](https://cn.reuters.com/)
+- [SCMP](https://www.scmp.com/)
+- [SCMP](https://www.abacusnews.com/china-tech-city) — China Tech City
+- [SCMP Research](https://research.scmp.com/)
+- [Sina](https://www.sina.com.cn/)
+- [Sina.com](https://sina.com/)
+- [Taobao](https://world.taobao.com/)
+- [tom.com](https://www.tom.com/)
+- [Toutiao](https://www.toutiao.com/)
+- [Wenming](http://www.wenming.cn/)
+- [XinHua](http://www.xinhuanet.com/)
+- [Zhihu Zhuanlan](https://zhuanlan.zhihu.com/)
+
+#### France News
+- [20 Minutes](https://www.20minutes.fr/)
+- [AFP](https://www.afp.com/)
+- [BFMTV](https://www.bfmtv.com/)
+- [Europe1](https://www.europe1.fr/)
+- [France 24](https://www.france24.com/es)
+- [Franceinfo](https://www.francetvinfo.fr/)
+- [KTOTV](https://www.ktotv.com/)
+- [L'alsace](https://www.lalsace.fr/)
+- [L'Express](https://www.lexpress.fr/)
+- [L'Internaute](https://www.linternaute.com/)
+- [Le Figaro](https://www.lefigaro.fr/)
+- [Le Monde](https://www.lemonde.fr/)
+- [Le Parisien](http://www.leparisien.fr/)
+- [Les dna](https://www.dna.fr/)
+
+#### German News
+- [BILD.de](https://www.bild.de/)
+- [DW Deutsche Welle](https://www.dw.com/de/themen/s-9077)
+- [Frantfurt Allgemeine](https://www.faz.net/aktuell)
+- [GUJ.de](https://www.guj.de/)
+- [RTL.de](https://www.rtl.de/)
+- [T-Online](https://www.t-online.de/)
+- [taz.de](https://taz.de/)
+- [Zeit.de](https://www.zeit.de/index)
+
+#### Greek News
+- [Athens Voice](https://www.athensvoice.gr/)
+- [eKathimerini.com](https://www.ekathimerini.com/)
+- [Flash.gr](https://www.flash.gr/)
+- [GreekReporter](https://greekreporter.com/)
+- [Newsbomb](https://www.newsbomb.gr/)
+- [NewsIT](https://www.newsit.gr/)
+- [Politis Online](https://politisonline.com/)
+- [Protagon.gr](https://www.protagon.gr/)
+- [protothema](https://www.protothema.gr/)
+- [Star.gr](https://www.star.gr/)
+- [Zougla](https://www.zougla.gr/)
+
+#### India News
+- [Hindustan Times](https://www.hindustantimes.com/)
+- [Indiatimes.com](https://www.indiatimes.com/)
+- [IndiaToday](https://www.indiatoday.in/)
+- [IndiaTV News](https://www.indiatvnews.com/)
+- [NDTV.com](https://www.ndtv.com/)
+- [The Indian Express](https://indianexpress.com/)
+- [Zee News](https://zeenews.india.com/)
+
+#### Korea News
+- [NAVER](https://www.naver.com/)
+
+#### LATAM News
+- [Eltiempo.com](https://www.eltiempo.com/)
+- [La Nación Arg](https://www.lanacion.com.ar/)
+- [StarMedia](https://www.starmedia.com/)
+- [T13](https://www.t13.cl/) — Tele 13
+- [Telemundo](https://www.telemundo.com/)
+- [Univision](https://www.univision.com/)
+
+#### Russia News
+- [Republic.ru](https://republic.ru/)
+- [RT](https://www.rt.com/)
+- [Sputnik](https://sputniknews.com/)
+- [The Moscow Times](https://www.themoscowtimes.com/)
 
 #### Spain News
 - [20minutos](https://www.20minutos.es/)
@@ -2466,200 +2658,23 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [Washington Times](https://www.washingtontimes.com/)
 - [WBUR](https://www.wbur.org/)
 
-#### Russia News
-- [Republic.ru](https://republic.ru/)
-- [RT](https://www.rt.com/)
-- [Sputnik](https://sputniknews.com/)
-- [The Moscow Times](https://www.themoscowtimes.com/)
-
-#### China News
-- [56.com](https://www.56.com/)
-- [360 Kuai](https://www.360kuai.com/)
-- [CCTV](https://www.cctv.com/)
-- [CGTN](https://www.cgtn.com/)
-- [China Daily](https://www.chinadaily.com.cn/index.html)
-- [China.com](https://www.china.com/)
-- [CSDN](https://www.csdn.net/)
-- [Dailynews Sina](https://dailynews.sina.com/bg)
-- [Discuss.com.hk](https://www.discuss.com.hk/)
-- [Fujieace](https://www.fujieace.com/)
-- [GNEWS](https://www.gnews.org/)
-- [hk01.com](https://www.hk01.com/)
-- [Huanqiu](https://www.huanqiu.com/)
-- [on.cc](https://hk.on.cc/hk/news/index.html)
-- [qyer](https://www.qyer.com/)
-- [Reuters](https://cn.reuters.com/)
-- [SCMP](https://www.scmp.com/)
-- [SCMP](https://www.abacusnews.com/china-tech-city) — China Tech City
-- [SCMP Research](https://research.scmp.com/)
-- [Sina](https://www.sina.com.cn/)
-- [Sina.com](https://sina.com/)
-- [Taobao](https://world.taobao.com/)
-- [tom.com](https://www.tom.com/)
-- [Toutiao](https://www.toutiao.com/)
-- [Wenming](http://www.wenming.cn/)
-- [XinHua](http://www.xinhuanet.com/)
-- [Zhihu Zhuanlan](https://zhuanlan.zhihu.com/)
-
-#### LATAM News
-- [Eltiempo.com](https://www.eltiempo.com/)
-- [La Nación Arg](https://www.lanacion.com.ar/)
-- [StarMedia](https://www.starmedia.com/)
-- [T13](https://www.t13.cl/) — Tele 13
-- [Telemundo](https://www.telemundo.com/)
-- [Univision](https://www.univision.com/)
-
-#### France News
-- [20 Minutes](https://www.20minutes.fr/)
-- [AFP](https://www.afp.com/)
-- [BFMTV](https://www.bfmtv.com/)
-- [Europe1](https://www.europe1.fr/)
-- [France 24](https://www.france24.com/es)
-- [Franceinfo](https://www.francetvinfo.fr/)
-- [KTOTV](https://www.ktotv.com/)
-- [L'alsace](https://www.lalsace.fr/)
-- [L'Express](https://www.lexpress.fr/)
-- [L'Internaute](https://www.linternaute.com/)
-- [Le Figaro](https://www.lefigaro.fr/)
-- [Le Monde](https://www.lemonde.fr/)
-- [Le Parisien](http://www.leparisien.fr/)
-- [Les dna](https://www.dna.fr/)
-
-#### Korea News
-- [NAVER](https://www.naver.com/)
-
-#### German News
-- [BILD.de](https://www.bild.de/)
-- [DW Deutsche Welle](https://www.dw.com/de/themen/s-9077)
-- [Frantfurt Allgemeine](https://www.faz.net/aktuell)
-- [GUJ.de](https://www.guj.de/)
-- [RTL.de](https://www.rtl.de/)
-- [T-Online](https://www.t-online.de/)
-- [taz.de](https://taz.de/)
-- [Zeit.de](https://www.zeit.de/index)
-
-#### Greek News
-- [Athens Voice](https://www.athensvoice.gr/)
-- [eKathimerini.com](https://www.ekathimerini.com/)
-- [Flash.gr](https://www.flash.gr/)
-- [GreekReporter](https://greekreporter.com/)
-- [Newsbomb](https://www.newsbomb.gr/)
-- [NewsIT](https://www.newsit.gr/)
-- [Politis Online](https://politisonline.com/)
-- [Protagon.gr](https://www.protagon.gr/)
-- [protothema](https://www.protothema.gr/)
-- [Star.gr](https://www.star.gr/)
-- [Zougla](https://www.zougla.gr/)
-
-#### India News
-- [Hindustan Times](https://www.hindustantimes.com/)
-- [Indiatimes.com](https://www.indiatimes.com/)
-- [IndiaToday](https://www.indiatoday.in/)
-- [IndiaTV News](https://www.indiatvnews.com/)
-- [NDTV.com](https://www.ndtv.com/)
-- [The Indian Express](https://indianexpress.com/)
-- [Zee News](https://zeenews.india.com/)
-
-### News-Aggregator
-- [AllYouCanRead](https://www.allyoucanread.com/)
-- [AOL](https://www.aol.com/)
-- [Digg](https://digg.com/)
-- [Disclose.tv](https://www.disclose.tv/)
-- [Enterat](https://www.enterat.com/)
-- [Feedc](https://feedc.com/)
-- [Flipboard](https://flipboard.com/) — Your Social Magazine
-- [FreeNode.net](https://freenode.net/)
-- [Gab Trends](https://trends.gab.com/)
-- [Google News](https://news.google.com/home?hl=en-US&gl=US&ceid=US:en)
-- [Google News](https://news.google.com/newspapers) — Newspaper
-- [Google Play Kiosco](https://newsstand.google.com/?nsro=true)
-- [Kiosko.net](https://es.kiosko.net/)
-- [Menéame](https://www.meneame.net/)
-- [Microsoft News](https://www.msn.com/en-us)
-- [MuckRock](https://muckrock.com/)
-- [Najdi.si](https://www.najdi.si/)
-- [Netscape ISP](https://isp.netscape.com/)
-- [Old News](https://www.oldnews.com/es) — Archivo en línea de periódicos históricos
-- [Popurls](http://popurls.com/)
-- [Prensa Escrita](https://www.prensaescrita.com/)
-- [PressReader](https://www.pressreader.com/catalog)
-- [QQ](https://www.qq.com/)
-- [Rambler.ru](https://www.rambler.ru/)
-- [Readly](https://us.readly.com/) — one magazine app subscription
-- [Seznam](https://www.seznam.cz/)
-- [Simcast](https://simcast.com/)
-- [Slashdot.org](https://slashdot.org/)
-- [URLsDev](https://devurls.com/)
-- [URLsFin](https://finurls.com/)
-- [URLsMath](https://mathurls.com/)
-- [URLsSci](https://sciurls.com/)
-- [URLsTech](https://techurls.com/)
-- [Walla.co.il](https://www.walla.co.il/)
-- [Yahoo News](https://news.yahoo.com/)
-
-### Arts Media
-
-#### Design Mag
-- [Adobe 99U](https://99u.adobe.com/)
-- [Affinity Spotlight](https://affinityspotlight.com/)
-- [All3dp](https://all3dp.com/)
-- [ArtStation Magazine](https://magazine.artstation.com/)
-- [BlenderNation](https://www.blendernation.com/)
-- [Brandemia](http://www.brandemia.org/)
-- [Butterick’s Practical Typography](https://practicaltypography.com/)
-- [Creative Bloq](https://www.creativebloq.com/)
-- [CreativesFeed](https://creativesfeed.com/)
-- [Designer Tips](https://www.designer.tips/)
-- [EditingCorp](https://www.editingcorp.com/)
-- [Fast Company](https://www.fastcompany.com/)
-- [Gràffica](https://graffica.info/)
-- [iF World Design Guide](https://ifworlddesignguide.com/)
-- [IIDA](https://iida.org/)
-- [Logos By Nick](https://logosbynick.com/)
-- [Lovers Magazine](https://www.loversmagazine.com/)
-- [mprove ideas + interaction + design](https://mprove.de/)
-- [OurSketch](https://oursketch.com/)
-- [Pictoline](https://www.pictoline.com/)
-- [Roomstyler](https://roomstyler.com/)
-- [Stable Diffusion Art](https://stable-diffusion-art.com/) — Tutorials, prompts and resources
-- [Techseedr.com](https://techseedr.com/)
-- [The Creative Hagja](https://www.thecreativehagja.com/)
-- [The Design Files](https://thedesignfiles.net/)
-- [The Tutor Magazine](https://thetutormagazine.com/)
-- [Typographica](https://typographica.org/)
-- [UX Collective](https://uxdesign.cc/)
-- [Wallpaper* Magazine](https://www.wallpaper.com/)
-
-#### Architecture Mag
-- [ArchDaily](https://www.archdaily.com/)
-- [Archinect](https://archinect.com/)
-- [Architectural Designs](https://www.architecturaldesigns.com/)
-- [Architectural Digest](https://www.architecturaldigest.com/)
-- [Architizer](https://architizer.com/)
-- [Archnet](https://archnet.org/)
-- [ARQHYS](https://www.arqhys.com/)
-- [Dezeen Magazine](https://www.dezeen.com/)
-- [Home Stratosphere](https://www.homestratosphere.com/)
-- [Metalocus](https://www.metalocus.es/es)
-- [Patchwork Architecture](https://patchworkarchitecture.co.nz/)
-- [Search.nl](https://www.search.nl/)
-- [The Architect](https://www.archpaper.com/)
-- [WebUrbanist](https://weburbanist.com/)
-
-#### Art Mag
-- [artFido](https://www.artfido.com/)
-- [ASC Mag](https://ascmag.com/)
-- [Hyperallergic](https://hyperallergic.com/)
-- [My Modern Met](https://mymodernmet.com/)
-- [Yume Magazine](https://www.yumemag.net/)
-
-#### Literature Mag
-- [London Fictions](https://www.londonfictions.com/)
-- [London Review of Books](https://www.lrb.co.uk/)
-- [Sociología Contemporánea](https://sociologiac.net/)
-
 ## Reading
 - [Bookshelf](https://bookshelf.tcreations.app/) — Aesthetic Reading Tracker for Books & Audiobooks
+
+### Comic-Manga Reader
+- [Aniyomi](https://aniyomi.org/)
+- [BatCave.biz](https://batcave.biz/) — Comics
+- [HakuNeko](https://hakuneko.download/)
+- [Houdoku](https://houdoku.org/)
+- [josueBarretogit/manga-tui](https://github.com/josueBarretogit/manga-tui) — Terminal-based manga reader and downloader with image rendering support
+- [K3vinb5/Unyo](https://github.com/K3vinb5/Unyo) — 🐙 Anime streaming and Manga reader desktop app without ads.
+- [Komikku](https://valos.gitlab.io/Komikku/) — A manga reader
+- [Komikku · Codeberg](https://codeberg.org/valos/Komikku)
+- [Kotatsu](https://kotatsu.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/KotatsuApp/Kotatsu)
+- [MangaTime](https://mangatime.net/en/) — The best mobile app to track manga
+- [mihonapp/mihon](https://github.com/mihonapp/mihon) — Free and open source manga reader for Android
+- [OpenComic · GitHub](https://github.com/ollm/OpenComic)
+- [Tachiyomi](https://tachiyomi.org/)
 
 ### eBook Reader
 - ⭐ **[Amazon Kindle](https://read.amazon.com/landing)** — Web Reader
@@ -2717,6 +2732,9 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [Trackkun](https://trackkun.com/) — Manga reader & tracker for the web
 - [troyeguo/koodo-reader · GitHub](https://github.com/troyeguo/koodo-reader)
 - [YACReader](https://www.yacreader.com/)
+
+### Library Manager
+- [Libib](https://www.libib.com/) — Library management web app
 
 ### RSS Reader
 - ⭐ **[Akregator](https://apps.kde.org/akregator/)** — KDE Applications
@@ -2819,21 +2837,3 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [WinNewsWire](https://www.winnewswire.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/jcqtech/WinNewsWire) — A fast, native RSS reader for Windows
 - [World / Feeds · GitLab](https://gitlab.gnome.org/World/gfeeds)
 - [Xyrio/RSSOwlnix · GitHub](https://github.com/Xyrio/RSSOwlnix)
-
-### Comic-Manga Reader
-- [Aniyomi](https://aniyomi.org/)
-- [BatCave.biz](https://batcave.biz/) — Comics
-- [HakuNeko](https://hakuneko.download/)
-- [Houdoku](https://houdoku.org/)
-- [josueBarretogit/manga-tui](https://github.com/josueBarretogit/manga-tui) — Terminal-based manga reader and downloader with image rendering support
-- [K3vinb5/Unyo](https://github.com/K3vinb5/Unyo) — 🐙 Anime streaming and Manga reader desktop app without ads.
-- [Komikku](https://valos.gitlab.io/Komikku/) — A manga reader
-- [Komikku · Codeberg](https://codeberg.org/valos/Komikku)
-- [Kotatsu](https://kotatsu.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/KotatsuApp/Kotatsu)
-- [MangaTime](https://mangatime.net/en/) — The best mobile app to track manga
-- [mihonapp/mihon](https://github.com/mihonapp/mihon) — Free and open source manga reader for Android
-- [OpenComic · GitHub](https://github.com/ollm/OpenComic)
-- [Tachiyomi](https://tachiyomi.org/)
-
-### Library Manager
-- [Libib](https://www.libib.com/) — Library management web app

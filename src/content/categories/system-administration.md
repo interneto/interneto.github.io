@@ -195,54 +195,6 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [Touchegg](https://github.com/JoseExposito/touchegg) — JoseExposito
 - [Zadig](https://zadig.akeo.ie/) — USB driver installation made easy
 
-### Mouse Driver
-- [across](https://www.acrosscenter.com/) — The Only Real Software KVM | Keyboard/Mouse Sharing App | Bluetooth Keyboard/Mouse Emulator
-- [Kult Promethium](https://the-g-lab.tech/en/produit/kult-promethium/)
-- [Logitech G HUB](https://support.logi.com/hc/en-gb/articles/360025298133)
-- [OpenLogi](https://openlogi.org/en) / [![GitHub](/img/software/apps/github.svg)](https://github.com/AprilNEA/OpenLogi)
-- [Remote touchpad · GitHub](https://github.com/Unrud/remote-touchpad)
-
-### RGB Driver
-- [Adam Honse / KeyboardVisualizer · GitLab](https://gitlab.com/CalcProgrammer1/KeyboardVisualizer)
-- [Artemis RGB](https://artemis-rgb.com/)
-- [Asus Aura Sync Utility](https://aurasync.net/) — Download the standalone version
-- [Aurora RGB](https://www.project-aurora.com/)
-- [ckb-next/ckb-next · GitHub](https://github.com/ckb-next/ckb-next)
-- [CKB](https://github.com/ccMSC/ckb) — RGB Driver for Linux
-- [CoreCtrl / CoreCtrl · GitLab](https://gitlab.com/corectrl/corectrl)
-- [iCUE Software](https://www.corsair.com/ww/en/icue)
-- [Linux_thermaltake_riing · GitHub](https://github.com/chestm007/linux_thermaltake_riing)
-- [liquidctl/liquidctl · GitHub](https://github.com/liquidctl/liquidctl)
-- [openlinkhub.dev](https://openlinkhub.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/jurkovic-nikola/OpenLinkHub)
-- [OpenRazer](https://openrazer.github.io/)
-- [OpenRGB](https://openrgb.org/) / [![Codeberg](/img/source-hosts/codeberg.svg)](https://codeberg.org/OpenRGB/OpenRGB/)
-- [QLab](https://qlab.app/)
-- [Razer Synapse 3](https://www.razer.com/synapse-3) — Razer
-- [TT RGB Plus](https://ttrgbplus.thermaltake.com/) — ThermalTake
-- [xLights](https://xlights.org/) — Light sequencer and Show scheduler
-
-### Printer Driver
-- [CUPS.org](https://www.cups.org/)
-- [Gutenprint Printer Drivers](https://gimp-print.sourceforge.net/)
-- [HP OfficeJet 4650](https://support.hp.com/es-es/product/model/5447931)
-- [OpenPrinting](https://openprinting.github.io/)
-- [OpenPrinting/system-config-printer · GitHub](https://github.com/OpenPrinting/system-config-printer)
-- [Printer Working Group](https://www.pwg.org/)
-
-### GPU Driver
-- [CUDA Toolkit 11.7](https://developer.nvidia.com/cuda-downloads) — NVIDIA
-- [Fast Light Toolkit (FLTK)](https://www.fltk.org/)
-- [GeForce Infinity](https://geforce-infinity.xyz/)
-- [GPUOpen-Drivers/AMDVLK · GitHub](https://github.com/GPUOpen-Drivers/AMDVLK)
-- [Linux x64 Display Driver 430.34](https://www.nvidia.com/Download/driverResults.aspx/148589/en-us) — NVIDIA
-- [Marlin Firmware](https://marlinfw.org/)
-- [Microsft Visual C++](https://support.microsoft.com/en-us/topic/the-latest-supported-visual-c-downloads-2647da03-1eea-4433-9aff-95f26a218cc0)
-- [Nouveau](https://wiki.archlinux.org/title/nouveau) — ArchWiki
-- [NVCleanstall](https://www.techpowerup.com/nvcleanstall/)
-- [NVIDIA](https://www.nvidia.com/en-us/drivers/unix/) — Unix Drivers
-- [NVIDIA Control Panel](https://www.microsoft.com/es-es/p/nvidia-control-panel/9nf8h0h7wmlt?activetab=pivot%3Aoverviewtab)
-- [NVIDIA drivers](https://www.nvidia.com/download/index.aspx)
-
 ### Audio Driver
 - [AlsaProject wiki](https://alsa-project.org/wiki/Main_Page)
 - [Audiobus](https://audiob.us/)
@@ -273,39 +225,6 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [VoiceMeeter](https://vb-audio.com/Voicemeeter/index.htm) — VB-Audio
 - [WirePlumber](https://pipewire.pages.freedesktop.org/wireplumber/)
 
-### Smartphone Driver
-- [fastboot](https://android.googlesource.com/platform/system/core/+/refs/heads/master/fastboot/) — platform/system/core - Git at Google
-
-#### ADB Driver
-- [ADB Clockworkmod](https://adb.clockworkmod.com/)
-- [ADB Driver](https://adbdriver.com/)
-- [ADB Driver](https://www.adbandroid.com/)
-- [ADB Shell](https://adbshell.com/)
-- [Android Debug Bridge (adb)](https://developer.android.com/studio/command-line/adb) — Android Developers
-- [GSM USB Driver](https://gsmusbdriver.com/)
-- [Universal ADB Driver](https://universaladbdriver.com/)
-
-#### OEM USB Driver
-- [Install OEM USB drivers](https://developer.android.com/studio/run/oem-usb)
-- [Qualcomm HS-USB QDLoader 9008 Driver](https://qdloader9008.com/)
-- [USB Drivers Pie](https://usbdriverspie.com/)
-- [Win USB Google](https://developer.android.com/studio/run/win-usb)
-
-### Scanner Driver
-- [Chrisimx/ScanBridge](https://github.com/Chrisimx/ScanBridge) — FOSS Android app for using network-enabled scanners supporting the eSCL protocol (AirScan)
-- [D-Scanner · GitHub](https://github.com/dlang-community/D-Scanner)
-- [KDE Skanlite](https://apps.kde.org/skanlite/)
-- [KDE Skanpage](https://apps.kde.org/skanpage/)
-- [Paperwork](https://openpaper.work/en/) — Personal document management made fast and easy
-- [VueScan](https://www.hamrick.com/)
-
-### Keyboard Driver
-- [Ergogen](https://ergogen.xyz/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/ergogen)
-- [KBD](https://kbd-project.org/) — Linux keyboard tools
-- [VIA](https://www.usevia.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/the-via/app)
-- [Xpadder](https://xpadder.com/)
-- [xvkbd](http://t-sato.in.coocan.jp/xvkbd/) — Virtual Keyboard for X Window System
-
 ### Controller Driver
 - [Alia5/GlosSI · GitHub](https://github.com/Alia5/GlosSI)
 - [AntimicroX](https://antimicrox.github.io/)
@@ -328,8 +247,95 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [Solaar](https://pwr-solaar.github.io/Solaar/)
 - [Solaar · GitHub](https://github.com/pwr-Solaar/Solaar)
 
+### GPU Driver
+- [CUDA Toolkit 11.7](https://developer.nvidia.com/cuda-downloads) — NVIDIA
+- [Fast Light Toolkit (FLTK)](https://www.fltk.org/)
+- [GeForce Infinity](https://geforce-infinity.xyz/)
+- [GPUOpen-Drivers/AMDVLK · GitHub](https://github.com/GPUOpen-Drivers/AMDVLK)
+- [Linux x64 Display Driver 430.34](https://www.nvidia.com/Download/driverResults.aspx/148589/en-us) — NVIDIA
+- [Marlin Firmware](https://marlinfw.org/)
+- [Microsft Visual C++](https://support.microsoft.com/en-us/topic/the-latest-supported-visual-c-downloads-2647da03-1eea-4433-9aff-95f26a218cc0)
+- [Nouveau](https://wiki.archlinux.org/title/nouveau) — ArchWiki
+- [NVCleanstall](https://www.techpowerup.com/nvcleanstall/)
+- [NVIDIA](https://www.nvidia.com/en-us/drivers/unix/) — Unix Drivers
+- [NVIDIA Control Panel](https://www.microsoft.com/es-es/p/nvidia-control-panel/9nf8h0h7wmlt?activetab=pivot%3Aoverviewtab)
+- [NVIDIA drivers](https://www.nvidia.com/download/index.aspx)
+
+### Keyboard Driver
+- [Ergogen](https://ergogen.xyz/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/ergogen)
+- [KBD](https://kbd-project.org/) — Linux keyboard tools
+- [VIA](https://www.usevia.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/the-via/app)
+- [Xpadder](https://xpadder.com/)
+- [xvkbd](http://t-sato.in.coocan.jp/xvkbd/) — Virtual Keyboard for X Window System
+
+### Mouse Driver
+- [across](https://www.acrosscenter.com/) — The Only Real Software KVM | Keyboard/Mouse Sharing App | Bluetooth Keyboard/Mouse Emulator
+- [Kult Promethium](https://the-g-lab.tech/en/produit/kult-promethium/)
+- [Logitech G HUB](https://support.logi.com/hc/en-gb/articles/360025298133)
+- [OpenLogi](https://openlogi.org/en) / [![GitHub](/img/software/apps/github.svg)](https://github.com/AprilNEA/OpenLogi)
+- [Remote touchpad · GitHub](https://github.com/Unrud/remote-touchpad)
+
+### Printer Driver
+- [CUPS.org](https://www.cups.org/)
+- [Gutenprint Printer Drivers](https://gimp-print.sourceforge.net/)
+- [HP OfficeJet 4650](https://support.hp.com/es-es/product/model/5447931)
+- [OpenPrinting](https://openprinting.github.io/)
+- [OpenPrinting/system-config-printer · GitHub](https://github.com/OpenPrinting/system-config-printer)
+- [Printer Working Group](https://www.pwg.org/)
+
+### RGB Driver
+- [Adam Honse / KeyboardVisualizer · GitLab](https://gitlab.com/CalcProgrammer1/KeyboardVisualizer)
+- [Artemis RGB](https://artemis-rgb.com/)
+- [Asus Aura Sync Utility](https://aurasync.net/) — Download the standalone version
+- [Aurora RGB](https://www.project-aurora.com/)
+- [ckb-next/ckb-next · GitHub](https://github.com/ckb-next/ckb-next)
+- [CKB](https://github.com/ccMSC/ckb) — RGB Driver for Linux
+- [CoreCtrl / CoreCtrl · GitLab](https://gitlab.com/corectrl/corectrl)
+- [iCUE Software](https://www.corsair.com/ww/en/icue)
+- [Linux_thermaltake_riing · GitHub](https://github.com/chestm007/linux_thermaltake_riing)
+- [liquidctl/liquidctl · GitHub](https://github.com/liquidctl/liquidctl)
+- [openlinkhub.dev](https://openlinkhub.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/jurkovic-nikola/OpenLinkHub)
+- [OpenRazer](https://openrazer.github.io/)
+- [OpenRGB](https://openrgb.org/) / [![Codeberg](/img/source-hosts/codeberg.svg)](https://codeberg.org/OpenRGB/OpenRGB/)
+- [QLab](https://qlab.app/)
+- [Razer Synapse 3](https://www.razer.com/synapse-3) — Razer
+- [TT RGB Plus](https://ttrgbplus.thermaltake.com/) — ThermalTake
+- [xLights](https://xlights.org/) — Light sequencer and Show scheduler
+
+### Scanner Driver
+- [Chrisimx/ScanBridge](https://github.com/Chrisimx/ScanBridge) — FOSS Android app for using network-enabled scanners supporting the eSCL protocol (AirScan)
+- [D-Scanner · GitHub](https://github.com/dlang-community/D-Scanner)
+- [KDE Skanlite](https://apps.kde.org/skanlite/)
+- [KDE Skanpage](https://apps.kde.org/skanpage/)
+- [Paperwork](https://openpaper.work/en/) — Personal document management made fast and easy
+- [VueScan](https://www.hamrick.com/)
+
+### Smartphone Driver
+- [fastboot](https://android.googlesource.com/platform/system/core/+/refs/heads/master/fastboot/) — platform/system/core - Git at Google
+
+#### ADB Driver
+- [ADB Clockworkmod](https://adb.clockworkmod.com/)
+- [ADB Driver](https://adbdriver.com/)
+- [ADB Driver](https://www.adbandroid.com/)
+- [ADB Shell](https://adbshell.com/)
+- [Android Debug Bridge (adb)](https://developer.android.com/studio/command-line/adb) — Android Developers
+- [GSM USB Driver](https://gsmusbdriver.com/)
+- [Universal ADB Driver](https://universaladbdriver.com/)
+
+#### OEM USB Driver
+- [Install OEM USB drivers](https://developer.android.com/studio/run/oem-usb)
+- [Qualcomm HS-USB QDLoader 9008 Driver](https://qdloader9008.com/)
+- [USB Drivers Pie](https://usbdriverspie.com/)
+- [Win USB Google](https://developer.android.com/studio/run/win-usb)
+
 ## Emulation & Virtualization
 - [Floci](https://floci.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/floci-io/floci) — Fast, Free AWS Emulator
+
+### DaaS
+- [Nanos.org](https://nanos.org/)
+- [NetApp Cloud](https://cloud.netapp.com/)
+- [Shells](https://shells.com/l/en-US/) — Personal Workspaces Powered by Cloud Computers
+- [V2 Cloud](https://v2cloud.com/)
 
 ### Hypervisor
 - ⭐ **[Virtual Machine Manager](https://virt-manager.org/)**
@@ -375,6 +381,62 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [WebVM](https://webvm.io/) — Linux virtualization in WebAssembly
 - [XCP-ng](https://xcp-ng.org/) — XenServer Based
 - [Xen Project](https://xenproject.org/)
+
+### OS Translation Layer
+- [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) — Tool for automatic PS5 executables porting to Linux and Windows
+- [Userland](https://userland.tech/) — Use Linux Anywhere
+
+#### Linux Translation Layer
+- [Cygwin](https://www.cygwin.com/)
+- [DOSBox](https://www.dosbox.com/)
+- [JSLinux](https://bellard.org/jslinux/index.html)
+- [Karton](https://karton.github.io/)
+- [Windows Subsystem for Linux (WSL)](https://learn.microsoft.com/en-us/windows/wsl/about)
+
+#### macOS Translation Layer
+- [Darling](https://www.darlinghq.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/darlinghq/darling) — macOS translation layer for Linux
+- [kksimp/Mac.apk](https://github.com/kksimp/Mac.apk) — Mac.apk: Run Android apps natively on Apple Silicon Macs
+- [MaPC](https://mapc.games/index.html) — Your PC games, on your Mac
+
+#### Windows Translation Layer
+- ⭐ **[WineHQ](https://www.winehq.org/)** / [![GitLab](/img/source-hosts/gitlab.svg)](https://gitlab.winehq.org/wine/wine) — Run Windows applications on Linux, BSD, Solaris and macOS
+- [CrossOver](https://www.codeweavers.com/crossover) — Codeweavers
+- [DOSBox Staging](https://dosbox-staging.github.io/)
+- [exeCute · GitLab](https://gitlab.com/es20490446e/exeCute)
+- [MinGW-w64](https://www.mingw-w64.org/)
+- [MSYS2](https://www.msys2.org/)
+- [PlayOnLinux](https://www.playonlinux.com/en/)
+- [Porting Kit](https://www.portingkit.com/)
+- [Raven](https://useraven.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/mirkobrombin/raven) — A Windows your apps recognize.
+- [winapps-org/winapps](https://github.com/winapps-org/winapps) — Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
+- [WinBIND](https://www.winbind.org/) — Running ISC BIND on Microsoft Windows
+- [WinBoat](https://www.winboat.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/TibixDev/winboat) — Run Windows Apps on Linux with Seamless Integration
+- [winesapOS · GitHub](https://github.com/LukeShortCloud/winesapOS)
+
+##### WINE Prefixer
+- ⭐ **[Bottles](https://usebottles.com/)** — Run Windows on Linux
+- ⭐ **[DavidoTek/ProtonUp-Qt · GitHub](https://github.com/davidotek/protonup-qt/)**
+- [BrinkerVII / Grapejuice · GitLab](https://gitlab.com/brinkervii/grapejuice)
+- [fastrizwaan/WineZGUI · GitHub](https://github.com/fastrizwaan/WineZGUI)
+- [Fmstrat/winapps · GitHub](https://github.com/Fmstrat/winapps)
+- [GloriousEggroll/proton-ge-custom · GitHub](https://github.com/GloriousEggroll/proton-ge-custom)
+- [James McDonnell / wine · GitLab](https://gitlab.winehq.org/ElementalWarrior/wine)
+- [Matoking/protontricks · GitHub](https://github.com/Matoking/protontricks)
+- [noahc3/AffinityPluginLoader · GitHub](https://github.com/noahc3/AffinityPluginLoader)
+- [PhialsBasement/wine-adobe-installers](https://github.com/PhialsBasement/wine-adobe-installers) — Wine with a bit of extra spice
+- [PyWinery · GitHub](https://github.com/ergoithz/pywinery)
+- [q4wine](https://sourceforge.net/projects/q4wine/)
+- [ryzendew/winetricks](https://github.com/ryzendew/winetricks) — Winetricks.rs is an easy way to work around problems in Wine built in Rust
+- [ValveSoftware/Proton · GitHub](https://github.com/ValveSoftware/Proton)
+- [ValveSoftware/wine · GitHub](https://github.com/ValveSoftware/wine)
+- [Vineyard Project](http://vineyardproject.org/)
+- [Vysp3r/ProtonPlus](https://github.com/Vysp3r/protonplus) — A modern compatibility tools manager
+- [Whisky](https://getwhisky.app/) — A modern Wine wrapper for macOS built with SwiftUI
+- [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) — A modern Wine wrapper for macOS built with SwiftUI
+- [WineBottler](https://winebottler.kronenberg.org/)
+- [Winetricks/winetricks · GitHub](https://github.com/Winetricks/winetricks)
+- [Winlator](https://winlator.org/) — Android app
+- [xkero / rum · GitLab](https://gitlab.com/xkero/rum)
 
 ### OS-Emulator
 - [Box86](https://box86.org/) — Linux Userspace x86 Emulator with a Twist
@@ -519,68 +581,6 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [SwiftVM](https://swiftvm.app/) — Virtual machines that live in your menu bar
 - [sylabs/singularity](https://github.com/sylabs/singularity) — an open source container platform
 
-### OS Translation Layer
-- [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) — Tool for automatic PS5 executables porting to Linux and Windows
-- [Userland](https://userland.tech/) — Use Linux Anywhere
-
-#### Windows Translation Layer
-- ⭐ **[WineHQ](https://www.winehq.org/)** / [![GitLab](/img/source-hosts/gitlab.svg)](https://gitlab.winehq.org/wine/wine) — Run Windows applications on Linux, BSD, Solaris and macOS
-- [CrossOver](https://www.codeweavers.com/crossover) — Codeweavers
-- [DOSBox Staging](https://dosbox-staging.github.io/)
-- [exeCute · GitLab](https://gitlab.com/es20490446e/exeCute)
-- [MinGW-w64](https://www.mingw-w64.org/)
-- [MSYS2](https://www.msys2.org/)
-- [PlayOnLinux](https://www.playonlinux.com/en/)
-- [Porting Kit](https://www.portingkit.com/)
-- [Raven](https://useraven.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/mirkobrombin/raven) — A Windows your apps recognize.
-- [winapps-org/winapps](https://github.com/winapps-org/winapps) — Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
-- [WinBIND](https://www.winbind.org/) — Running ISC BIND on Microsoft Windows
-- [WinBoat](https://www.winboat.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/TibixDev/winboat) — Run Windows Apps on Linux with Seamless Integration
-- [winesapOS · GitHub](https://github.com/LukeShortCloud/winesapOS)
-
-##### WINE Prefixer
-- ⭐ **[Bottles](https://usebottles.com/)** — Run Windows on Linux
-- ⭐ **[DavidoTek/ProtonUp-Qt · GitHub](https://github.com/davidotek/protonup-qt/)**
-- [BrinkerVII / Grapejuice · GitLab](https://gitlab.com/brinkervii/grapejuice)
-- [fastrizwaan/WineZGUI · GitHub](https://github.com/fastrizwaan/WineZGUI)
-- [Fmstrat/winapps · GitHub](https://github.com/Fmstrat/winapps)
-- [GloriousEggroll/proton-ge-custom · GitHub](https://github.com/GloriousEggroll/proton-ge-custom)
-- [James McDonnell / wine · GitLab](https://gitlab.winehq.org/ElementalWarrior/wine)
-- [Matoking/protontricks · GitHub](https://github.com/Matoking/protontricks)
-- [noahc3/AffinityPluginLoader · GitHub](https://github.com/noahc3/AffinityPluginLoader)
-- [PhialsBasement/wine-adobe-installers](https://github.com/PhialsBasement/wine-adobe-installers) — Wine with a bit of extra spice
-- [PyWinery · GitHub](https://github.com/ergoithz/pywinery)
-- [q4wine](https://sourceforge.net/projects/q4wine/)
-- [ryzendew/winetricks](https://github.com/ryzendew/winetricks) — Winetricks.rs is an easy way to work around problems in Wine built in Rust
-- [ValveSoftware/Proton · GitHub](https://github.com/ValveSoftware/Proton)
-- [ValveSoftware/wine · GitHub](https://github.com/ValveSoftware/wine)
-- [Vineyard Project](http://vineyardproject.org/)
-- [Vysp3r/ProtonPlus](https://github.com/Vysp3r/protonplus) — A modern compatibility tools manager
-- [Whisky](https://getwhisky.app/) — A modern Wine wrapper for macOS built with SwiftUI
-- [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) — A modern Wine wrapper for macOS built with SwiftUI
-- [WineBottler](https://winebottler.kronenberg.org/)
-- [Winetricks/winetricks · GitHub](https://github.com/Winetricks/winetricks)
-- [Winlator](https://winlator.org/) — Android app
-- [xkero / rum · GitLab](https://gitlab.com/xkero/rum)
-
-#### macOS Translation Layer
-- [Darling](https://www.darlinghq.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/darlinghq/darling) — macOS translation layer for Linux
-- [kksimp/Mac.apk](https://github.com/kksimp/Mac.apk) — Mac.apk: Run Android apps natively on Apple Silicon Macs
-- [MaPC](https://mapc.games/index.html) — Your PC games, on your Mac
-
-#### Linux Translation Layer
-- [Cygwin](https://www.cygwin.com/)
-- [DOSBox](https://www.dosbox.com/)
-- [JSLinux](https://bellard.org/jslinux/index.html)
-- [Karton](https://karton.github.io/)
-- [Windows Subsystem for Linux (WSL)](https://learn.microsoft.com/en-us/windows/wsl/about)
-
-### DaaS
-- [Nanos.org](https://nanos.org/)
-- [NetApp Cloud](https://cloud.netapp.com/)
-- [Shells](https://shells.com/l/en-US/) — Personal Workspaces Powered by Cloud Computers
-- [V2 Cloud](https://v2cloud.com/)
-
 ## Hardware Acceleration APIs
 - [DirectX graphics and gaming](https://learn.microsoft.com/en-us/windows/win32/directx) — Win32 apps
 - [leadedge/Spout2](https://github.com/leadedge/Spout2) — A video frame sharing system for Microsoft Windows
@@ -615,244 +615,52 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [NetExec](https://www.netexec.wiki/)
 - [shell-dot/tuoni · GitHub](https://github.com/shell-dot/tuoni)
 
-### Online Networking Tools
-- ⭐ **[Google Public DNS](https://dns.google/)**
-- ⭐ **[ViewDNS.info](https://viewdns.info/)** — Your one source for DNS related tools!
-- [192.168.1.1 Admin Login](https://192-168-i-i.com/)
-- [DNS Lookup](https://www.nslookup.io/) — Nslookup.io
-- [G Suite.Tools](https://gsuite.tools/)
-- [NATS.io](https://nats.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/nats-io/nats-server)
-- [NetYogi](https://netyogi.net/) — Free Online Network Tools
-- [pool.ntp.org](https://www.ntppool.org/en/) — the internet cluster of ntp servers
-- [Radien](https://radien.arsenkin.name/) — Your honest network toolbox
-- [Router Network](https://router-network.com/)
-- [V2Fly.org](https://www.v2fly.org/)
-- [What is my DNS](https://www.whatsmydns.net/)
-- [Your Digital Rights](https://yourdigitalrights.org/)
-- [YourOnlineChoices.eu](https://www.youronlinechoices.com/)
+### Anti-Bot Systems
+- [Anubis](https://anubis.techaro.lol/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/TecharoHQ/anubis) — Web AI Firewall Utility
+- [Arkose Labs](https://www.arkoselabs.com/) — Stop SMS Toll Fraud. Create Greater Trust Online
+- [Cloudflare Turnstile](https://www.cloudflare.com/application-services/products/turnstile/) — CAPTCHA Replacement Solution
+- [Friendlycaptcha](https://friendlycaptcha.com/)
+- [hCaptcha](https://www.hcaptcha.com/)
+- [reCAPTCHA](https://developers.google.com/recaptcha) — Google for Developers
 
-#### Internet Speed Test
-- [BroadBand](https://broadbandnow.com/speedtest) — NowSpeed Test
-- [Cloudflare Internet Speed Test](https://speed.cloudflare.com/) — Measure Network Performance
-- [Fast.com](https://fast.com/) — Internet Speed Test
-- [HighSpeedInternet Test](https://www.highspeedinternet.com/tools/speed-test)
-- [HTML5 Internet Speed Test](https://openspeedtest.com/) — OpenSpeedTest
-- [LibreSpeed](https://librespeed.org/) — Speed Test
-- [Lite Speed Test](https://www.litespeedtest.net/)
-- [Matuok](https://matuok.lt/)
-- [nPerf.com](https://www.nperf.com/en/)
-- [Speed Test by Measurement Lab](https://speed.measurementlab.net/#/)
-- [Speedcheck.org](https://www.speedcheck.org/)
-- [SpeedOf.Me](https://speedof.me/)
-- [Speedtest](https://www.speedtest.net/) — Boradband speed test
-- [Speedtest by Ookla](https://beta.speedtest.net/) — The Global Broadband Speed Test
-- [Speedtest Custom](https://pcmag.speedtestcustom.com/)
-- [SpeedTest Tracker Documentation](https://docs.speedtest-tracker.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/alexjustesen/speedtest-tracker)
-- [Velocimetro.es](https://www.velocimetro.es/)
-- [WiFiman](https://wifiman.com/)
-- [Xfinity](https://speedtest.xfinity.com/) — Speed Test
+### Blocker App
+- [JustBlock](https://justblock.org/)
 
-#### URL
-- ⭐ **[BGP (Border Gateway Protocol) Tools](https://bgp.tools/)**
-- ⭐ **[bypass.city](https://bypass.city/)** — Best Linkvertise & Work.ink bypasser, including many more!
-- [Codegena Multiple URL Opener](https://codegena.com/generator/multiple-url-opener)
-- [ConvertCSV](https://www.convertcsv.com/url-extractor.htm) — URL extractor
-- [Harvester](https://tools.digitalmethods.net/beta/harvestUrls)
-- [RedirHub](https://www.redirhub.com/) — Rapid & Secure URL Redirect Service
-- [URLVoid](https://www.urlvoid.com/) — Check if a Website is Malicious/Scam or Safe/Legit
+#### Ad Blocker
+- ⭐ **[SponsorBlock](https://sponsor.ajay.app/)**
+- ⭐ **[uBlock Origin](https://www.ublockorigin.com/)**
+- [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) — The next-generation ad blocker for Safari.
+- [Ablock Origin](https://adblockorigin.com/)
+- [ACK-J/Port_Authority](https://github.com/ACK-J/Port_Authority) — Blocks websites from using javascript to port scan your computer/network and dynamically blocks all LexisNexis endpoints from running their invasive data collection scripts.
+- [AdBlitz](https://ad-blitz.vercel.app/) — Turbocharge Your YouTube Experience
+- [Adblock](https://getadblock.com/)
+- [Adblock Plus](https://adblockplus.org/)
+- [AdBlocker Ultimate](https://adblockultimate.net/)
+- [AdGuard DNS](https://adguard-dns.io/en/welcome.html) — ad-blocking DNS server
+- [AdNauseam](https://adnauseam.io/) — Clicking Ads So You Don't Have To
+- [anfragment/zen](https://github.com/anfragment/zen) — Simple, free and efficient ad-blocker
+- [BlockAdblock](https://blockadblock.com/)
+- [Blokada](https://blokada.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/blokadaorg/blokada)
+- [Domain Blocker](https://chrome.google.com/webstore/detail/domain-blocker/ggdcjplapccgoinblmidpkoocfafajfa)
+- [Freedom-to](https://freedom.to/)
+- [Ghostery](https://www.ghostery.com/) — Best Ad Blocker & Privacy Browser
+- [hBlock](https://hblock.molinero.dev/)
+- [NetGuard](https://netguard.me/)
+- [NoScript](https://noscript.net/)
+- [OpenVideo](https://addons.mozilla.org/en-US/firefox/addon/openvideo/) — ad-free streaming – Firefox
+- [Poper Blocker](https://poperblocker.com/)
+- [Popup Blocker (strict)](https://add0n.com/popup-blocker.html)
+- [Popup Blocker Pro](https://popup-blocker.org/)
+- [Standsapp](https://www.standsapp.org/)
+- [Ultimate-Hosts-Blacklist · GitHub](https://github.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist)
+- [x0uid/SpotifyAdBlock · GitHub](https://github.com/x0uid/SpotifyAdBlock)
 
-##### URL Unshortener
-- [Adictec](https://adictec.com/como-ver-url-acortada-sin-abrirla)
-- [CheckShortURL](https://www.checkshorturl.com/expand.php)
-- [Unshorten.It!](https://unshorten.it/)
-
-##### URL Shortener
-- [7.ly](https://www.7.ly/)
-- [AdFly](https://adf.ly/)
-- [AdFoc.us](https://adfoc.us/) — Shrink, Share, and Earn!
-- [Amazon shortner](https://amzn.to/)
-- [Bit.do](https://bit.do/)
-- [Bitly](https://bitly.com/)
-- [Bom.to](https://bom.to/)
-- [Cutly](https://cut.ly/)
-- [Dub](https://dub.co/) — Link Management for Modern Marketing Teams
-- [DuckDuckGo shortner](https://ddg.co/)
-- [EShorte.st](https://shorte.st/)
-- [Facebook shortner](https://fb.com/)
-- [FC.LC](https://fc.lc/)
-- [Fli.so](https://fli.so/) — Shorten, Brand, Track. All in One.
-- [g.co](https://g.co/)
-- [Geniuslink](https://geniuslink.com/)
-- [ghub.io](https://ghub.io/)
-- [git.io](https://git.io/)
-- [GitHub Packages](https://ghcr.io/) — Shortner URL
-- [Goo.gl URL Shortener](https://goo.by/)
-- [Instagram shortner](https://instagr.am/)
-- [IP Logger URL Shortener](https://iplogger.org/) — Log and Track IP addresses
-- [is.gd](https://is.gd/)
-- [itsSSL.com](https://itsssl.com/) — The Best Free Secure URL shortener Service. Free Short Link Generator.
-- [Kutt.it](https://kutt.it/)
-- [LMGTFY](https://lmgtfy.app/#gsc.tab=0)
-- [Magnet](http://mgnet.me/)
-- [Mozilla shortner](https://mzl.la/)
-- [MS Aka](https://aka.ms/)
-- [n0m](https://www.n0m.org/)
-- [ouo.io](https://ouo.io/)
-- [Polr](https://polrproject.org/)
-- [qr-codes.io](https://qr-codes.io/) — the short link behind your QR Code scans
-- [rb.gr](https://free-url-shortener.rb.gy/) — Free-url-shortener
-- [Rebrandly](https://www.rebrandly.com/) — Short URLs Free & Branded Links
-- [reddit shortner](https://redd.it/)
-- [s.id](https://home.s.id/gl/en) — Free Bio Link Tool, URL Shortener & QR Codes Generator
-- [ShortURL](https://www.shorturl.at/)
-- [Shrinkearn](https://shrinkearn.com/)
-- [ShrinkMe](https://shrinkme.io/) — URL shortner
-- [shrtcode](https://app.shrtco.de/)
-- [Sur.ly](https://sur.ly/)
-- [T.LY](https://t.ly/home)
-- [T.LY](https://t.ly/) — URL Shortener, Branded Links & Click Tracking URL Shortener, Custom Domain & Short Link Management
-- [t.me shortner](https://t.me/)
-- [Tiny URL](https://tiny.cc/)
-- [TinyURL](https://tinyurl.com/app)
-- [u.to](https://u.to/) — URL Shortening Service
-- [Unshort.link](https://unshort.link/)
-- [UQR.me](https://uqr.me/qr-code-generator/)
-- [url.rw](https://url.rw/)
-- [UseClick.io](https://useclick.io/) — Branded Short Links & Analytics | Privacy-First Link Management
-- [Wikipedia shortner](https://w.wiki/)
-- [X shortner](https://t.co/)
-- [YOURLS](https://yourls.org/)
-- [youtu.be shortner](https://youtu.be/)
-
-#### Web Status
-- [¿Está Fallando?](https://estafallando.ec/)
-- [Downdetector](https://downdetector.com/)
-- [downforeveryonejustme](https://downforeveryoneorjustme.com/)
-- [Is It Down Right Now?](https://www.isitdownrightnow.com/)
-- [Is it up?](https://isitup.org/)
-- [Montastic](https://www.montastic.com/)
-- [Outage.Report](https://outage.report/)
-- [Resumen del estado](https://downdetector.es/)
-- [Soy Yo o Está Caído?](https://www.soyyooestacaido.com/)
-- [StatusGator](https://statusgator.com/) — Cloud Monitoring with the #1 Status Page Aggregator
-- [Website Down?!](https://www.website-down.com/)
-
-#### Proxy
-- ⭐ **[mitmproxy](https://mitmproxy.org/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/mitmproxy/mitmproxy) — an interactive HTTPS proxy
-- ⭐ **[Tor Project](https://arti.torproject.org/)** / [![GitLab](/img/source-hosts/gitlab.svg)](https://gitlab.torproject.org/tpo/core/arti) — Arti
-- [ASocks](https://asocks.com/) — Unlimited Residential Proxy
-- [FoxyProxy](https://getfoxyproxy.org/)
-- [HAProxy](https://www.haproxy.org/)
-- [InterceptSuite](https://interceptsuite.com/) — MITM Proxy for Thick Client & Non-HTTP Traffic
-- [InvisiProxy LTS](https://invisiproxy.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/QuiteAFancyEmerald/InvisiProxy) — Free Web Proxy - Bypass Filters & Access Blocked Sites
-- [LocalXpose](https://localxpose.io/) — Bye bye localhost, hello world
-- [Proxy-Hub](https://proxy-hub.com/)
-- [ProxyScrape](https://proxyscrape.com/) — Unlock the power of the web with proxies
-- [Shadowrocket](https://shadowlaunch.com/) — Rule based proxy utility client for iPhone/iPad/Apple TV
-- [ShadowShare](https://shadowsharing.com/) — 免费共享优质节点
-- [Shadowsocks](https://shadowsocks.org/) — Tunnel proxy
-- [Snowflake](https://snowflake.torproject.org/) — Tor Project
-- [SSL Proxy](https://www.sslsecureproxy.com/)
-- [Traefik, The Cloud Native Application Proxy](https://traefik.io/traefik) / [![GitHub](/img/software/apps/github.svg)](https://github.com/traefik/traefik) — Traefik Labs
-- [Tunnel to dev](https://tunnelto.dev/)
-
-#### Internet Protocol
-- [Agent Client Protocol](https://agentclientprotocol.com/get-started/introduction) / [![GitHub](/img/software/apps/github.svg)](https://github.com/agentclientprotocol)
-- [IETF HTTP Working Group](https://httpwg.org/)
-- [magic-wormhole/magic-wormhole (protocol) · GitHub](https://github.com/magic-wormhole/magic-wormhole)
-- [Model Context Protocol](https://modelcontextprotocol.io/docs/getting-started/intro) / [![GitHub](/img/software/apps/github.svg)](https://github.com/modelcontextprotocol)
-- [MQTT](https://mqtt.org/) — The Standard for IoT Messaging
-- [OpenSSH](https://www.openssh.org/)
-- [Project V · V2ray](https://www.v2ray.com/en/index.html)
-- [The AT Protocol](https://atproto.com/)
-- [Varnish HTTP Cache](https://varnish-cache.org/)
-- [WebDAV Resources](http://www.webdav.org/)
-
-##### Decentralized Protocol
-- ⭐ **[Matrix.org](https://matrix.org/)**
-- [1inch Network](https://1inch.io/)
-- [Aave](https://aave.com/)
-- [AirSwap](https://www.airswap.io/)
-- [Alexgo.io](https://alexgo.io/)
-- [BitTorrent.org](https://www.bittorrent.org/)
-- [Boba.network](https://boba.network/)
-- [Coinjoins](https://www.coinjoins.org/) — Learn about bitcoin collaborative transactions
-- [DEX.AG](https://dex.ag/)
-- [Farcaster](https://www.farcaster.xyz/)
-- [Go Ethereum](https://geth.ethereum.org/)
-- [GUN](https://gun.eco/docs) — the database for freedom fighters
-- [Hypercore Protocol](https://hypercore-protocol.org/)
-- [IOTA](https://www.iota.org/)
-- [IPFS (protocol)](https://ipfs.tech/)
-- [Liquidity Dividends Protocol](https://lid.sh/)
-- [NEAR Protocol](https://near.org/)
-- [Nostr, a simple protocol for decentralizing social media](https://nostr.com/)
-- [ParaSwap.io](https://paraswap.io/#/?network=ethereum)
-- [Project Gemini](https://geminiprotocol.net/)
-- [RSS3](https://rss3.io/) — The Open Information Layer
-- [Stack.co](https://www.stacks.co/)
-- [The Graph](https://thegraph.com/)
-- [THORChain](https://thorchain.org/)
-- [Unicrypt](https://unicrypt.network/)
-- [Uniswap](https://uniswap.org/)
-- [XLattice](https://xlattice.sourceforge.net/index.html)
-
-#### IP Address
-- [DNSlytics](https://dnslytics.com/)
-- [DomainTools](https://research.domaintools.com/) — Research
-- [IP Calculator](https://ipcalculator.com/)
-- [IP-Secrets](https://www.ip-secrets.com/)
-- [IPv6 test](https://ipv6-test.com/)
-- [LookIP](https://www.lookip.net/)
-- [What Is My IP Address](https://whatismyipaddress.com/)
-- [What Is My IP?](https://www.whatismyip.com/)
-- [Who.is](https://who.is/)
-- [Whois IP](https://www.whois.com/whois)
-
-##### IP Location
-- [Cuál es mi IP](https://www.cual-es-mi-ip.net/)
-- [DB-IP](https://db-ip.com/) — IP Geolocation API & Free Address Database
-- [Geolocation](https://geolocation.com/)
-- [IP Geolocation](https://ipgeolocation.io/)
-- [IP Location](https://iplocation.com/)
-- [IP Location](https://iploc.org/)
-- [IP2Location](https://www.ip2location.com/)
-- [IPinfo.io](https://ipinfo.io/)
-- [IPlocation](https://www.iplocation.net/)
-- [IPLocation.io](https://iplocation.io/)
-- [IPQuery](https://ipquery.io/) — IP API for Geolocation, VPN Detection, and IP Lookup
-- [KeyCDN Tools](https://tools.keycdn.com/geo)
-- [MaxMind](https://www.maxmind.com/en/home) — IP Geolocation
-- [MyIP.es](https://myip.es/)
-
-##### Local IP
-- [10.0.0.1](http://10.0.0.1/)
-- [92.191.228.73:8080](http://92.191.228.73:8080/92.191.228.73:8080/web/index.html) — Jellyfin server router
-- [127.0.0.1:8080](http://127.0.0.1:8080/)
-- [127.0.01](http://127.0.0.1/) — localhost
-- [172.17.0.0](http://172.17.0.0/)
-- [192.168.1.1](http://192.168.1.1/homeAuthentication.html) — router configuration
-- [Localhost](http://localhost/) — 127.0.0.1 (default)
-
-#### Domain Research
-- ⭐ **[DNSdumpster](https://dnsdumpster.com/)**
-- ⭐ **[Domain Digger](https://digger.tools/)** — DNS, WHOIS lookup & more
-- [Dig DNS](https://digdns.com/)
-- [DigWebInterface.com](https://www.digwebinterface.com/)
-
-#### Traceroute Online
-- [Online Traceroute](https://www.dotcom-tools.com/network-trace-test) — Network Latency Test
-- [Online Traceroute using MTR](https://hackertarget.com/online-traceroute/) — HackerTarget.com
-- [Traceroute any domain or IP from multiple locations](https://geekflare.com/api/mtr) — Geekflare APIs
-- [Traceroute IP Online](https://www.ipvoid.com/traceroute/) — IPVoid
-- [Traceroute Online](https://dnschecker.org/online-traceroute.php) — DNSChecker
-- [Traceroute Online](https://www.ip-toolbox.com/traceroute/) — IP-Toolbox.com
-- [Traceroute Online](https://traceroute-online.com/) — Tactical Network Testing
-- [Traceroute Online Tool](https://coding.tools/traceroute) — Coding.Tools
-- [Traceroute Test](https://tools.keycdn.com/traceroute) — KeyCDN Tools
-- [Traceroute Test](https://www.uptrends.com/tools/traceroute) — Trace Packet Paths across the Network | Uptrends
-- [Traceroute Tool](https://www.site24x7.com/tools/trace-route.html) — Site24x7 Tools
-- [Visual traceroute](https://gsuite.tools/traceroute) — Track and map the full path of an IP packet
+#### Spam Blocker
+- [aj3423/SpamBlocker · GitHub](https://github.com/aj3423/SpamBlocker)
+- [Sync.ME](https://sync.me/) — Find out who called
+- [Truecaller](https://www.truecaller.com/) — Leading Global Caller ID & Call Blocking App
+- [Whoscall](https://whoscall.com/en) — Caller ID App & Scam Prevention
+- [Xynngh / YetAnotherCallBlocker · GitLab](https://gitlab.com/xynngh/YetAnotherCallBlocker)
 
 ### Client-Server App
 - [astrada/google-drive-ocamlfuse · GitHub](https://github.com/astrada/google-drive-ocamlfuse)
@@ -929,6 +737,39 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [uFTP server](https://www.uftpserver.com/)
 - [unFTP](https://unftp.rs/)
 
+#### HTTP Client
+- [AXIOS](https://axios-http.com/) / [🔗](https://axios-http.com/)
+- [GetIt](https://getit.bartkessels.net/) — Simple HTTP request application
+- [Googl Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging)
+- [h5ai · modern HTTP web server index · larsjung.de](https://larsjung.de/h5ai/)
+- [HTTPie](https://httpie.io/)
+- [Httpiness](https://www.httpiness.com/) — Parametric HTTP client for slalom API testing
+- [HTTPX](https://www.python-httpx.org/)
+- [Hurl](https://hurl.dev/) — Run and Test HTTP Requests
+- [NeoMutt](https://neomutt.org/) — command line mail reader
+- [ntfy.sh](https://ntfy.sh/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/binwiederhier/ntfy) — Send push notifications to your phone via PUT/POST
+- [profanity-im/profanity](https://github.com/profanity-im/profanity) — Ncurses based XMPP client
+- [Pushy](https://pushy.me/) — Lightning-Fast & Highly-Reliable Push Notifications
+- [roster · GitLab](https://git.bugsy.cz/beval/roster)
+- [Tweeten, a powerful Twitter client](https://tweetenapp.com/)
+- [UnifiedPush](https://unifiedpush.org/)
+
+#### SMTP Server
+- [BillionMail](https://www.billionmail.com/) — An Open-Source MailServer, NewsLetter, Email Marketing
+- [ChangemakerStudios/Papercut-SMTP](https://github.com/ChangemakerStudios/Papercut-SMTP) — Papercut SMTP -- The Simple Desktop Email Server
+- [citadel.org](https://www.citadel.org/)
+- [EmailJS](https://www.emailjs.com/) — Send email directly from your code
+- [MailCatcher](https://mailcatcher.me/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/sj26/mailcatcher)
+
+#### SSH Client
+- [Bitvise](https://www.bitvise.com/) — SSH Server
+- [ConnectBot](https://connectbot.org/)
+- [iLead](https://ileadapp.org/) — Local SSH Manager & Encrypted Vault
+- [nirui/sshwifty](https://github.com/nirui/sshwifty) — Web SSH & Telnet (WebSSH & WebTelnet client) 🔮
+- [PuTTY](https://putty.org/) — a free SSH and telnet client for Windows
+- [PuTTYgen Download](https://www.puttygen.com/)
+- [SSH Key Generator](https://sshkeygenerator.com/) — Generate SSH Keys Online
+
 #### Web Server
 - [Apache HTTP](https://httpd.apache.org/)
 - [Apache Tomcat](https://tomcat.apache.org/)
@@ -949,122 +790,6 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [Robyn](https://robyn.tech/) — An async Python Framework written in Rust
 - [tunnl.gg](https://tunnl.gg/) — Expose localhost to the internet
 - [yandeu/five-server · GitHub](https://github.com/yandeu/five-server)
-
-#### HTTP Client
-- [AXIOS](https://axios-http.com/) / [🔗](https://axios-http.com/)
-- [GetIt](https://getit.bartkessels.net/) — Simple HTTP request application
-- [Googl Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging)
-- [h5ai · modern HTTP web server index · larsjung.de](https://larsjung.de/h5ai/)
-- [HTTPie](https://httpie.io/)
-- [Httpiness](https://www.httpiness.com/) — Parametric HTTP client for slalom API testing
-- [HTTPX](https://www.python-httpx.org/)
-- [Hurl](https://hurl.dev/) — Run and Test HTTP Requests
-- [NeoMutt](https://neomutt.org/) — command line mail reader
-- [ntfy.sh](https://ntfy.sh/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/binwiederhier/ntfy) — Send push notifications to your phone via PUT/POST
-- [profanity-im/profanity](https://github.com/profanity-im/profanity) — Ncurses based XMPP client
-- [Pushy](https://pushy.me/) — Lightning-Fast & Highly-Reliable Push Notifications
-- [roster · GitLab](https://git.bugsy.cz/beval/roster)
-- [Tweeten, a powerful Twitter client](https://tweetenapp.com/)
-- [UnifiedPush](https://unifiedpush.org/)
-
-#### SSH Client
-- [Bitvise](https://www.bitvise.com/) — SSH Server
-- [ConnectBot](https://connectbot.org/)
-- [iLead](https://ileadapp.org/) — Local SSH Manager & Encrypted Vault
-- [nirui/sshwifty](https://github.com/nirui/sshwifty) — Web SSH & Telnet (WebSSH & WebTelnet client) 🔮
-- [PuTTY](https://putty.org/) — a free SSH and telnet client for Windows
-- [PuTTYgen Download](https://www.puttygen.com/)
-- [SSH Key Generator](https://sshkeygenerator.com/) — Generate SSH Keys Online
-
-#### SMTP Server
-- [BillionMail](https://www.billionmail.com/) — An Open-Source MailServer, NewsLetter, Email Marketing
-- [ChangemakerStudios/Papercut-SMTP](https://github.com/ChangemakerStudios/Papercut-SMTP) — Papercut SMTP -- The Simple Desktop Email Server
-- [citadel.org](https://www.citadel.org/)
-- [EmailJS](https://www.emailjs.com/) — Send email directly from your code
-- [MailCatcher](https://mailcatcher.me/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/sj26/mailcatcher)
-
-### Blocker App
-- [JustBlock](https://justblock.org/)
-
-#### Ad Blocker
-- ⭐ **[SponsorBlock](https://sponsor.ajay.app/)**
-- ⭐ **[uBlock Origin](https://www.ublockorigin.com/)**
-- [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) — The next-generation ad blocker for Safari.
-- [Ablock Origin](https://adblockorigin.com/)
-- [ACK-J/Port_Authority](https://github.com/ACK-J/Port_Authority) — Blocks websites from using javascript to port scan your computer/network and dynamically blocks all LexisNexis endpoints from running their invasive data collection scripts.
-- [AdBlitz](https://ad-blitz.vercel.app/) — Turbocharge Your YouTube Experience
-- [Adblock](https://getadblock.com/)
-- [Adblock Plus](https://adblockplus.org/)
-- [AdBlocker Ultimate](https://adblockultimate.net/)
-- [AdGuard DNS](https://adguard-dns.io/en/welcome.html) — ad-blocking DNS server
-- [AdNauseam](https://adnauseam.io/) — Clicking Ads So You Don't Have To
-- [anfragment/zen](https://github.com/anfragment/zen) — Simple, free and efficient ad-blocker
-- [BlockAdblock](https://blockadblock.com/)
-- [Blokada](https://blokada.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/blokadaorg/blokada)
-- [Domain Blocker](https://chrome.google.com/webstore/detail/domain-blocker/ggdcjplapccgoinblmidpkoocfafajfa)
-- [Freedom-to](https://freedom.to/)
-- [Ghostery](https://www.ghostery.com/) — Best Ad Blocker & Privacy Browser
-- [hBlock](https://hblock.molinero.dev/)
-- [NetGuard](https://netguard.me/)
-- [NoScript](https://noscript.net/)
-- [OpenVideo](https://addons.mozilla.org/en-US/firefox/addon/openvideo/) — ad-free streaming – Firefox
-- [Poper Blocker](https://poperblocker.com/)
-- [Popup Blocker (strict)](https://add0n.com/popup-blocker.html)
-- [Popup Blocker Pro](https://popup-blocker.org/)
-- [Standsapp](https://www.standsapp.org/)
-- [Ultimate-Hosts-Blacklist · GitHub](https://github.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist)
-- [x0uid/SpotifyAdBlock · GitHub](https://github.com/x0uid/SpotifyAdBlock)
-
-#### Spam Blocker
-- [aj3423/SpamBlocker · GitHub](https://github.com/aj3423/SpamBlocker)
-- [Sync.ME](https://sync.me/) — Find out who called
-- [Truecaller](https://www.truecaller.com/) — Leading Global Caller ID & Call Blocking App
-- [Whoscall](https://whoscall.com/en) — Caller ID App & Scam Prevention
-- [Xynngh / YetAnotherCallBlocker · GitLab](https://gitlab.com/xynngh/YetAnotherCallBlocker)
-
-### WiFi Analyzer
-- [analiti Speed Test WiFi Analyzer](https://analiti.com/)
-- [inSSIDer](https://www.metageek.com/inssider/) — MetaGeek
-- [NetSpot WiFi Site Survey Software](https://www.netspotapp.com/) — WiFi Heat Maps, Network Planning Tool. Free Plan.
-- [WiFi Analyzer](https://matthafner.com/wifi-analyzer) — Matt Hafner
-- [WiFiAnalyzer](https://vremsoftwaredevelopment.github.io/WiFiAnalyzer)
-
-### Remote Desktop
-- ⭐ **[AnyDesk](https://anydesk.com/en)** — The fast remove desk application
-- ⭐ **[Duet](https://www.duetdisplay.com/)** — Remote Desktop, Second Display, Drawing Tablet, and More
-- ⭐ **[RustDesk](https://rustdesk.com/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/rustdesk/rustdesk) — Remote desktop
-- [AirDroid](https://www.airdroid.com/)
-- [Apache Guacamole](https://guacamole.apache.org/)
-- [Apple Remote Desktop](https://support.apple.com/guide/remote-desktop/welcome/mac)
-- [Chrome Remote Desktop](https://remotedesktop.google.com/)
-- [Dameware](https://www.dameware.com/) — Remote PC
-- [DWService](https://www.dwservice.net/)
-- [FreeRDP](https://www.freerdp.com/)
-- [Jump Desktop](https://jumpdesktop.com/)
-- [MeshCentral](https://meshcentral.com/)
-- [MRemoteng](https://mremoteng.org/)
-- [NoMachine](https://www.nomachine.com/)
-- [PulseWay](https://www.pulseway.com/)
-- [Remmina](https://remmina.org/) — Remote desktop client with RDP, SSH, SPICE, VNC, and X2Go protocol
-- [Remote Desktop Manager](https://remotedesktopmanager.com/)
-- [Remotely Remote Support Software](http://www.remotesupportsoftware.co.uk/)
-- [RemotePC](https://www.remotepc.com/index.html)
-- [Sill](https://getsill.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Saffsanity/sill) — your Mac, on your iPhone and iPad
-- [Spice space](https://www.spice-space.org/)
-- [Synergy](https://symless.com/synergy) — Share one mouse & keyboard across computers
-- [TeamViewer](https://www.teamviewer.com/en/) — The Remote Connectivity Software
-- [Thincast Client](https://thincast.com/en/products/client)
-- [TigerVNC](https://tigervnc.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/TigerVNC/tigervnc)
-- [UltraVNC](https://uvnc.com/) — Remote Desktop
-- [Workbench](https://astropad.com/product/workbench/) — High-Performance Remote Desktop for Mac
-
-### Anti-Bot Systems
-- [Anubis](https://anubis.techaro.lol/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/TecharoHQ/anubis) — Web AI Firewall Utility
-- [Arkose Labs](https://www.arkoselabs.com/) — Stop SMS Toll Fraud. Create Greater Trust Online
-- [Cloudflare Turnstile](https://www.cloudflare.com/application-services/products/turnstile/) — CAPTCHA Replacement Solution
-- [Friendlycaptcha](https://friendlycaptcha.com/)
-- [hCaptcha](https://www.hcaptcha.com/)
-- [reCAPTCHA](https://developers.google.com/recaptcha) — Google for Developers
 
 ### Network Monitoring
 - ⭐ **[Ackee analytics](https://ackee.electerious.com/)**
@@ -1105,6 +830,245 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [Yeraze/meshmonitor](https://github.com/Yeraze/meshmonitor) — Web tool for monitoring a Meshtastic Node Deployment over TCP/HTTP
 - [Zabbix](https://www.zabbix.com/) — Open Source Network Monitoring Solution
 
+### Online Networking Tools
+- ⭐ **[Google Public DNS](https://dns.google/)**
+- ⭐ **[ViewDNS.info](https://viewdns.info/)** — Your one source for DNS related tools!
+- [192.168.1.1 Admin Login](https://192-168-i-i.com/)
+- [DNS Lookup](https://www.nslookup.io/) — Nslookup.io
+- [G Suite.Tools](https://gsuite.tools/)
+- [NATS.io](https://nats.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/nats-io/nats-server)
+- [NetYogi](https://netyogi.net/) — Free Online Network Tools
+- [pool.ntp.org](https://www.ntppool.org/en/) — the internet cluster of ntp servers
+- [Radien](https://radien.arsenkin.name/) — Your honest network toolbox
+- [Router Network](https://router-network.com/)
+- [V2Fly.org](https://www.v2fly.org/)
+- [What is my DNS](https://www.whatsmydns.net/)
+- [Your Digital Rights](https://yourdigitalrights.org/)
+- [YourOnlineChoices.eu](https://www.youronlinechoices.com/)
+
+#### Domain Research
+- ⭐ **[DNSdumpster](https://dnsdumpster.com/)**
+- ⭐ **[Domain Digger](https://digger.tools/)** — DNS, WHOIS lookup & more
+- [Dig DNS](https://digdns.com/)
+- [DigWebInterface.com](https://www.digwebinterface.com/)
+
+#### Internet Protocol
+- [Agent Client Protocol](https://agentclientprotocol.com/get-started/introduction) / [![GitHub](/img/software/apps/github.svg)](https://github.com/agentclientprotocol)
+- [IETF HTTP Working Group](https://httpwg.org/)
+- [magic-wormhole/magic-wormhole (protocol) · GitHub](https://github.com/magic-wormhole/magic-wormhole)
+- [Model Context Protocol](https://modelcontextprotocol.io/docs/getting-started/intro) / [![GitHub](/img/software/apps/github.svg)](https://github.com/modelcontextprotocol)
+- [MQTT](https://mqtt.org/) — The Standard for IoT Messaging
+- [OpenSSH](https://www.openssh.org/)
+- [Project V · V2ray](https://www.v2ray.com/en/index.html)
+- [The AT Protocol](https://atproto.com/)
+- [Varnish HTTP Cache](https://varnish-cache.org/)
+- [WebDAV Resources](http://www.webdav.org/)
+
+##### Decentralized Protocol
+- ⭐ **[Matrix.org](https://matrix.org/)**
+- [1inch Network](https://1inch.io/)
+- [Aave](https://aave.com/)
+- [AirSwap](https://www.airswap.io/)
+- [Alexgo.io](https://alexgo.io/)
+- [BitTorrent.org](https://www.bittorrent.org/)
+- [Boba.network](https://boba.network/)
+- [Coinjoins](https://www.coinjoins.org/) — Learn about bitcoin collaborative transactions
+- [DEX.AG](https://dex.ag/)
+- [Farcaster](https://www.farcaster.xyz/)
+- [Go Ethereum](https://geth.ethereum.org/)
+- [GUN](https://gun.eco/docs) — the database for freedom fighters
+- [Hypercore Protocol](https://hypercore-protocol.org/)
+- [IOTA](https://www.iota.org/)
+- [IPFS (protocol)](https://ipfs.tech/)
+- [Liquidity Dividends Protocol](https://lid.sh/)
+- [NEAR Protocol](https://near.org/)
+- [Nostr, a simple protocol for decentralizing social media](https://nostr.com/)
+- [ParaSwap.io](https://paraswap.io/#/?network=ethereum)
+- [Project Gemini](https://geminiprotocol.net/)
+- [RSS3](https://rss3.io/) — The Open Information Layer
+- [Stack.co](https://www.stacks.co/)
+- [The Graph](https://thegraph.com/)
+- [THORChain](https://thorchain.org/)
+- [Unicrypt](https://unicrypt.network/)
+- [Uniswap](https://uniswap.org/)
+- [XLattice](https://xlattice.sourceforge.net/index.html)
+
+#### Internet Speed Test
+- [BroadBand](https://broadbandnow.com/speedtest) — NowSpeed Test
+- [Cloudflare Internet Speed Test](https://speed.cloudflare.com/) — Measure Network Performance
+- [Fast.com](https://fast.com/) — Internet Speed Test
+- [HighSpeedInternet Test](https://www.highspeedinternet.com/tools/speed-test)
+- [HTML5 Internet Speed Test](https://openspeedtest.com/) — OpenSpeedTest
+- [LibreSpeed](https://librespeed.org/) — Speed Test
+- [Lite Speed Test](https://www.litespeedtest.net/)
+- [Matuok](https://matuok.lt/)
+- [nPerf.com](https://www.nperf.com/en/)
+- [Speed Test by Measurement Lab](https://speed.measurementlab.net/#/)
+- [Speedcheck.org](https://www.speedcheck.org/)
+- [SpeedOf.Me](https://speedof.me/)
+- [Speedtest](https://www.speedtest.net/) — Boradband speed test
+- [Speedtest by Ookla](https://beta.speedtest.net/) — The Global Broadband Speed Test
+- [Speedtest Custom](https://pcmag.speedtestcustom.com/)
+- [SpeedTest Tracker Documentation](https://docs.speedtest-tracker.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/alexjustesen/speedtest-tracker)
+- [Velocimetro.es](https://www.velocimetro.es/)
+- [WiFiman](https://wifiman.com/)
+- [Xfinity](https://speedtest.xfinity.com/) — Speed Test
+
+#### IP Address
+- [DNSlytics](https://dnslytics.com/)
+- [DomainTools](https://research.domaintools.com/) — Research
+- [IP Calculator](https://ipcalculator.com/)
+- [IP-Secrets](https://www.ip-secrets.com/)
+- [IPv6 test](https://ipv6-test.com/)
+- [LookIP](https://www.lookip.net/)
+- [What Is My IP Address](https://whatismyipaddress.com/)
+- [What Is My IP?](https://www.whatismyip.com/)
+- [Who.is](https://who.is/)
+- [Whois IP](https://www.whois.com/whois)
+
+##### IP Location
+- [Cuál es mi IP](https://www.cual-es-mi-ip.net/)
+- [DB-IP](https://db-ip.com/) — IP Geolocation API & Free Address Database
+- [Geolocation](https://geolocation.com/)
+- [IP Geolocation](https://ipgeolocation.io/)
+- [IP Location](https://iplocation.com/)
+- [IP Location](https://iploc.org/)
+- [IP2Location](https://www.ip2location.com/)
+- [IPinfo.io](https://ipinfo.io/)
+- [IPlocation](https://www.iplocation.net/)
+- [IPLocation.io](https://iplocation.io/)
+- [IPQuery](https://ipquery.io/) — IP API for Geolocation, VPN Detection, and IP Lookup
+- [KeyCDN Tools](https://tools.keycdn.com/geo)
+- [MaxMind](https://www.maxmind.com/en/home) — IP Geolocation
+- [MyIP.es](https://myip.es/)
+
+##### Local IP
+- [10.0.0.1](http://10.0.0.1/)
+- [92.191.228.73:8080](http://92.191.228.73:8080/92.191.228.73:8080/web/index.html) — Jellyfin server router
+- [127.0.0.1:8080](http://127.0.0.1:8080/)
+- [127.0.01](http://127.0.0.1/) — localhost
+- [172.17.0.0](http://172.17.0.0/)
+- [192.168.1.1](http://192.168.1.1/homeAuthentication.html) — router configuration
+- [Localhost](http://localhost/) — 127.0.0.1 (default)
+
+#### Proxy
+- ⭐ **[mitmproxy](https://mitmproxy.org/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/mitmproxy/mitmproxy) — an interactive HTTPS proxy
+- ⭐ **[Tor Project](https://arti.torproject.org/)** / [![GitLab](/img/source-hosts/gitlab.svg)](https://gitlab.torproject.org/tpo/core/arti) — Arti
+- [ASocks](https://asocks.com/) — Unlimited Residential Proxy
+- [FoxyProxy](https://getfoxyproxy.org/)
+- [HAProxy](https://www.haproxy.org/)
+- [InterceptSuite](https://interceptsuite.com/) — MITM Proxy for Thick Client & Non-HTTP Traffic
+- [InvisiProxy LTS](https://invisiproxy.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/QuiteAFancyEmerald/InvisiProxy) — Free Web Proxy - Bypass Filters & Access Blocked Sites
+- [LocalXpose](https://localxpose.io/) — Bye bye localhost, hello world
+- [Proxy-Hub](https://proxy-hub.com/)
+- [ProxyScrape](https://proxyscrape.com/) — Unlock the power of the web with proxies
+- [Shadowrocket](https://shadowlaunch.com/) — Rule based proxy utility client for iPhone/iPad/Apple TV
+- [ShadowShare](https://shadowsharing.com/) — 免费共享优质节点
+- [Shadowsocks](https://shadowsocks.org/) — Tunnel proxy
+- [Snowflake](https://snowflake.torproject.org/) — Tor Project
+- [SSL Proxy](https://www.sslsecureproxy.com/)
+- [Traefik, The Cloud Native Application Proxy](https://traefik.io/traefik) / [![GitHub](/img/software/apps/github.svg)](https://github.com/traefik/traefik) — Traefik Labs
+- [Tunnel to dev](https://tunnelto.dev/)
+
+#### Traceroute Online
+- [Online Traceroute](https://www.dotcom-tools.com/network-trace-test) — Network Latency Test
+- [Online Traceroute using MTR](https://hackertarget.com/online-traceroute/) — HackerTarget.com
+- [Traceroute any domain or IP from multiple locations](https://geekflare.com/api/mtr) — Geekflare APIs
+- [Traceroute IP Online](https://www.ipvoid.com/traceroute/) — IPVoid
+- [Traceroute Online](https://dnschecker.org/online-traceroute.php) — DNSChecker
+- [Traceroute Online](https://www.ip-toolbox.com/traceroute/) — IP-Toolbox.com
+- [Traceroute Online](https://traceroute-online.com/) — Tactical Network Testing
+- [Traceroute Online Tool](https://coding.tools/traceroute) — Coding.Tools
+- [Traceroute Test](https://tools.keycdn.com/traceroute) — KeyCDN Tools
+- [Traceroute Test](https://www.uptrends.com/tools/traceroute) — Trace Packet Paths across the Network | Uptrends
+- [Traceroute Tool](https://www.site24x7.com/tools/trace-route.html) — Site24x7 Tools
+- [Visual traceroute](https://gsuite.tools/traceroute) — Track and map the full path of an IP packet
+
+#### URL
+- ⭐ **[BGP (Border Gateway Protocol) Tools](https://bgp.tools/)**
+- ⭐ **[bypass.city](https://bypass.city/)** — Best Linkvertise & Work.ink bypasser, including many more!
+- [Codegena Multiple URL Opener](https://codegena.com/generator/multiple-url-opener)
+- [ConvertCSV](https://www.convertcsv.com/url-extractor.htm) — URL extractor
+- [Harvester](https://tools.digitalmethods.net/beta/harvestUrls)
+- [RedirHub](https://www.redirhub.com/) — Rapid & Secure URL Redirect Service
+- [URLVoid](https://www.urlvoid.com/) — Check if a Website is Malicious/Scam or Safe/Legit
+
+##### URL Shortener
+- [7.ly](https://www.7.ly/)
+- [AdFly](https://adf.ly/)
+- [AdFoc.us](https://adfoc.us/) — Shrink, Share, and Earn!
+- [Amazon shortner](https://amzn.to/)
+- [Bit.do](https://bit.do/)
+- [Bitly](https://bitly.com/)
+- [Bom.to](https://bom.to/)
+- [Cutly](https://cut.ly/)
+- [Dub](https://dub.co/) — Link Management for Modern Marketing Teams
+- [DuckDuckGo shortner](https://ddg.co/)
+- [EShorte.st](https://shorte.st/)
+- [Facebook shortner](https://fb.com/)
+- [FC.LC](https://fc.lc/)
+- [Fli.so](https://fli.so/) — Shorten, Brand, Track. All in One.
+- [g.co](https://g.co/)
+- [Geniuslink](https://geniuslink.com/)
+- [ghub.io](https://ghub.io/)
+- [git.io](https://git.io/)
+- [GitHub Packages](https://ghcr.io/) — Shortner URL
+- [Goo.gl URL Shortener](https://goo.by/)
+- [Instagram shortner](https://instagr.am/)
+- [IP Logger URL Shortener](https://iplogger.org/) — Log and Track IP addresses
+- [is.gd](https://is.gd/)
+- [itsSSL.com](https://itsssl.com/) — The Best Free Secure URL shortener Service. Free Short Link Generator.
+- [Kutt.it](https://kutt.it/)
+- [LMGTFY](https://lmgtfy.app/#gsc.tab=0)
+- [Magnet](http://mgnet.me/)
+- [Mozilla shortner](https://mzl.la/)
+- [MS Aka](https://aka.ms/)
+- [n0m](https://www.n0m.org/)
+- [ouo.io](https://ouo.io/)
+- [Polr](https://polrproject.org/)
+- [qr-codes.io](https://qr-codes.io/) — the short link behind your QR Code scans
+- [rb.gr](https://free-url-shortener.rb.gy/) — Free-url-shortener
+- [Rebrandly](https://www.rebrandly.com/) — Short URLs Free & Branded Links
+- [reddit shortner](https://redd.it/)
+- [s.id](https://home.s.id/gl/en) — Free Bio Link Tool, URL Shortener & QR Codes Generator
+- [ShortURL](https://www.shorturl.at/)
+- [Shrinkearn](https://shrinkearn.com/)
+- [ShrinkMe](https://shrinkme.io/) — URL shortner
+- [shrtcode](https://app.shrtco.de/)
+- [Sur.ly](https://sur.ly/)
+- [T.LY](https://t.ly/home)
+- [T.LY](https://t.ly/) — URL Shortener, Branded Links & Click Tracking URL Shortener, Custom Domain & Short Link Management
+- [t.me shortner](https://t.me/)
+- [Tiny URL](https://tiny.cc/)
+- [TinyURL](https://tinyurl.com/app)
+- [u.to](https://u.to/) — URL Shortening Service
+- [Unshort.link](https://unshort.link/)
+- [UQR.me](https://uqr.me/qr-code-generator/)
+- [url.rw](https://url.rw/)
+- [UseClick.io](https://useclick.io/) — Branded Short Links & Analytics | Privacy-First Link Management
+- [Wikipedia shortner](https://w.wiki/)
+- [X shortner](https://t.co/)
+- [YOURLS](https://yourls.org/)
+- [youtu.be shortner](https://youtu.be/)
+
+##### URL Unshortener
+- [Adictec](https://adictec.com/como-ver-url-acortada-sin-abrirla)
+- [CheckShortURL](https://www.checkshorturl.com/expand.php)
+- [Unshorten.It!](https://unshorten.it/)
+
+#### Web Status
+- [¿Está Fallando?](https://estafallando.ec/)
+- [Downdetector](https://downdetector.com/)
+- [downforeveryonejustme](https://downforeveryoneorjustme.com/)
+- [Is It Down Right Now?](https://www.isitdownrightnow.com/)
+- [Is it up?](https://isitup.org/)
+- [Montastic](https://www.montastic.com/)
+- [Outage.Report](https://outage.report/)
+- [Resumen del estado](https://downdetector.es/)
+- [Soy Yo o Está Caído?](https://www.soyyooestacaido.com/)
+- [StatusGator](https://statusgator.com/) — Cloud Monitoring with the #1 Status Page Aggregator
+- [Website Down?!](https://www.website-down.com/)
+
 ### Packet Analyzer
 - ⭐ **[Wireshark](https://www.wireshark.org/)** / [![GitLab](/img/source-hosts/gitlab.svg)](https://gitlab.com/wireshark/wireshark) — network protocol
 - [Colasoft](https://www.colasoft.com/capsa/) — Network Analyzer, Packet Sniffer, Network Sniffer
@@ -1130,6 +1094,42 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [Universal TV Remote-ZaZa Remot](https://play.google.com/store/apps/details?id=com.tiqiaa.remote) — Apps on Google Play
 - [Virtual Desktop](https://www.vrdesktop.net/)
 
+### Remote Desktop
+- ⭐ **[AnyDesk](https://anydesk.com/en)** — The fast remove desk application
+- ⭐ **[Duet](https://www.duetdisplay.com/)** — Remote Desktop, Second Display, Drawing Tablet, and More
+- ⭐ **[RustDesk](https://rustdesk.com/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/rustdesk/rustdesk) — Remote desktop
+- [AirDroid](https://www.airdroid.com/)
+- [Apache Guacamole](https://guacamole.apache.org/)
+- [Apple Remote Desktop](https://support.apple.com/guide/remote-desktop/welcome/mac)
+- [Chrome Remote Desktop](https://remotedesktop.google.com/)
+- [Dameware](https://www.dameware.com/) — Remote PC
+- [DWService](https://www.dwservice.net/)
+- [FreeRDP](https://www.freerdp.com/)
+- [Jump Desktop](https://jumpdesktop.com/)
+- [MeshCentral](https://meshcentral.com/)
+- [MRemoteng](https://mremoteng.org/)
+- [NoMachine](https://www.nomachine.com/)
+- [PulseWay](https://www.pulseway.com/)
+- [Remmina](https://remmina.org/) — Remote desktop client with RDP, SSH, SPICE, VNC, and X2Go protocol
+- [Remote Desktop Manager](https://remotedesktopmanager.com/)
+- [Remotely Remote Support Software](http://www.remotesupportsoftware.co.uk/)
+- [RemotePC](https://www.remotepc.com/index.html)
+- [Sill](https://getsill.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Saffsanity/sill) — your Mac, on your iPhone and iPad
+- [Spice space](https://www.spice-space.org/)
+- [Synergy](https://symless.com/synergy) — Share one mouse & keyboard across computers
+- [TeamViewer](https://www.teamviewer.com/en/) — The Remote Connectivity Software
+- [Thincast Client](https://thincast.com/en/products/client)
+- [TigerVNC](https://tigervnc.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/TigerVNC/tigervnc)
+- [UltraVNC](https://uvnc.com/) — Remote Desktop
+- [Workbench](https://astropad.com/product/workbench/) — High-Performance Remote Desktop for Mac
+
+### WiFi Analyzer
+- [analiti Speed Test WiFi Analyzer](https://analiti.com/)
+- [inSSIDer](https://www.metageek.com/inssider/) — MetaGeek
+- [NetSpot WiFi Site Survey Software](https://www.netspotapp.com/) — WiFi Heat Maps, Network Planning Tool. Free Plan.
+- [WiFi Analyzer](https://matthafner.com/wifi-analyzer) — Matt Hafner
+- [WiFiAnalyzer](https://vremsoftwaredevelopment.github.io/WiFiAnalyzer)
+
 ## System Tool
 - [Ameliorated](https://ameliorated.io/)
 - [Ameliorated.io](https://amelabs.net/)
@@ -1143,9 +1143,200 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [USBDeview v3.07](https://www.nirsoft.net/utils/usb_devices_view.html) — NirSoft
 - [Winhance](https://winhance.net/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/memstechtips/Winhance) — Windows Enhancement Utility
 
+### Android & iOS Tools
+- ⭐ **[Gadgetbridge](https://gadgetbridge.org/)**
+- [sameerasw/essentials](https://github.com/sameerasw/essentials) — Essential tools and mods for Android nerds
+
+#### Flashing & Firmware
+- [Android Flash Tool](https://flash.android.com/welcome)
+- [Benjamin-Dobell/Heimdall](https://github.com/Benjamin-Dobell/Heimdall) — Heimdall is a cross-platform open-source tool suite used to flash firmware (aka ROMs) onto Samsung Galaxy devices.
+- [Flashify APK](https://flashify.org/)
+- [Frija](https://xdaforums.com/t/tool-frija-samsung-firmware-downloader-checker.3910594/) — Samsung firmware downloader/checker
+- [Meshtastic Web Flasher](https://flasher.meshtastic.org/)
+- [MSM Download Tool V5.0.15](https://msmdownloadtools.com/)
+- [OPPO System Upgrade Tool](https://www.oppo.com/en/rom/) — OPPO Global
+- [Realme Flash Tool for Windows](https://androidmtk.com/realme-flash-tool) — .ofp Flash Tool
+- [Realme Flash Tool V](https://download.c.realme.com/flash/Flash_tool/realme_Flash_Tool_V2.zip)
+- [Samsung Odin download](https://odindownload.com/)
+
+#### Jailbreak iOS
+- [checkra1n](https://checkra.in/)
+- [Cydia](https://cydia-app.com/)
+- [opa334/Dopamine](https://github.com/opa334/Dopamine) — Dopamine is a semi-untethered jailbreak for iOS 15 and 16
+- [opa334/TrollStore](https://github.com/opa334/TrollStore) — Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple
+- [palera1n](https://palera.in/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/palera1n/palera1n)
+- [unc0ver](https://unc0ver.dev/)
+
+#### Root & Modding Android
+- ⭐ **[Magisk Manager](https://www.magiskmanager.org/)**
+- [0x192/universal-android-debloater · GitHub](https://github.com/0x192/universal-android-debloater)
+- [AdAway](https://adaway.org/)
+- [amo13/Anarchy-Droid · GItHub](https://github.com/amo13/Anarchy-Droid)
+- [Anarchy-Droid](https://anarchy-droid.com/)
+- [Android MTK](https://androidmtk.com/)
+- [Andronix App](https://andronix.app/)
+- [Apktool](https://apktool.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/iBotPeaches/Apktool)
+- [KernelSU Next](https://kernelsu-next.github.io/webpage/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/KernelSU-Next/KernelSU-Next)
+- [Kingroot](https://kingrootapp.net/)
+- [Kingroot Official](https://kingrootofficial.com/)
+- [Lucky Patcher](https://www.luckypatchers.com/)
+- [One Click Root](https://oneclickroot.com/)
+- [PrefEdit Root](https://play.google.com/store/apps/details?id=com.corphish.prefedit)
+- [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) — Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process
+- [Root Booster](https://play.google.com/store/apps/details?id=com.ram.memory.booster.cpu.saver)
+- [Root Checker](https://rootchecker.com/)
+- [Root Essentials](https://sites.google.com/view/superthomaslab/root-essentials)
+- [Shizuku](https://shizuku.rikka.app/)
+- [skylot/jadx](https://github.com/skylot/jadx) — Dex to Java decompiler
+- [SuperSU Root](https://supersuroot.org/)
+- [timschneeb/RootlessJamesDSP · GitHub](https://github.com/timschneeb/RootlessJamesDSP)
+- [Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/) — Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.
+- [Viper4android](https://www.viper4android.com/)
+- [W1nst0n / Universal Android Debloater · GitLab](https://gitlab.com/W1nst0n/universal-android-debloater)
+- [wesbos/photo-frame-dashboard](https://github.com/wesbos/photo-frame-dashboard) — Getting ADB, root, backups and custom apps onto locked-down Android photo frames (Skylight Calendar, BIUFRAME)
+- [Xposed APK](https://xposed-installer.com/)
+- [Xposed Module Repository](https://repo.xposed.info/)
+
+### APK Analyzer
+- [alexcmgit/kanade](https://github.com/alexcmgit/kanade) — Android app to extract apks from installed apps.
+- [AndroidApkAnalyzer · GitHub](https://github.com/MartinStyk/AndroidApkAnalyzer)
+- [Apk Analyzer](https://play.google.com/store/apps/details?id=sk.styk.martin.apkanalyzer) — Apps on Google Play
+- [APK Backup](https://play.google.com/store/apps/details?id=app.apk.backup&gl=US) — Apps on Google Play
+- [App APK Extractor & Analyzer](https://play.google.com/store/apps/details?id=com.ytheekshana.apkextractor) — Apps on Google Play
+- [Device Info](https://www.deviceinfo.app/) — System & CPU Info - Android App
+- [Domilopment/apk-extractor](https://github.com/Domilopment/apk-extractor) — A Simple Modern APK Extractor App
+- [Install APK](https://play.google.com/store/apps/details?id=com.rhythm.hexise.inst) — Apps on Google Play
+- [ML Manager](https://about.javiersantos.me/mlmanager/) — An APK extractor & app manager for Android
+- [URLCheck](https://play.google.com/store/apps/details?id=com.trianguloy.urlchecker) — Google Play
+
+### Cleaner PC
+- ⭐ **[BleachBit](https://www.bleachbit.org/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/bleachbit/bleachbit)
+- ⭐ **[Kudu](https://usekudu.com/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/AdventDevInc/kudu) — Free System Maintenance Suite
+- ⭐ **[Microsoft PC Manager](https://pcmanager.microsoft.com/en-us)** — Cleanup PC, protection for your computer
+- ⭐ **[Raphire/Win11Debloat · GitHub](https://github.com/Raphire/Win11Debloat)**
+- [amar97march/sweep](https://github.com/amar97march/sweep) — Clean, protect and understand your Mac. Free and open source
+- [Auslogics](https://www.auslogics.com/en)
+- [builtbybel/Winslop · GitHub](https://github.com/builtbybel/Winslop)
+- [Bulk Crap Uninstaller](https://www.bcuninstaller.com/)
+- [CCleaner](https://www.ccleaner.com/)
+- [Clean-Me](https://kevin-de-koninck.github.io/Clean-Me)
+- [CompuClever](https://www.compuclever.com/)
+- [DiskPoint](https://diskpointapp.com/) — Free Disk Cleanup for Mac, Windows & Linux
+- [Fix My PC](https://fixmypc.tv/)
+- [GCleaner](https://gcleaner.github.io/)
+- [Glary Utilities](https://www.glarysoft.com/glary-utilities/) — Free System Utilities to Clean Registry, Fix PC Errors, Protect Privacy | Glarysoft
+- [Glarysoft](https://glarysoft.com/)
+- [IObit](https://www.iobit.com/en/index.php)
+- [iolo](https://www.iolo.com/)
+- [KDE Utilities](https://utils.kde.org/projects/sweeper/) — Sweeper
+- [MacOSCleaner](https://alextkdev.github.io/MacOSCleaner/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/AlexTkDev/MacOSCleaner) — Free macOS Cleaner & App Uninstaller
+- [momenbasel/PureMac](https://github.com/momenbasel/PureMac) — Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.
+- [PC Booster](https://www.pcbooster.com/)
+- [PC Cleaner](http://pccleaner.com/)
+- [Platinum+ Optimizer](https://platinum.optimizer.workers.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Aledect/Platinum-Optimizer) — Real Optimization
+- [Revo Uninstaller](https://www.revouninstaller.com/)
+- [Slimware Utilities](https://slimware.com/#/)
+- [Sweeper](https://apps.kde.org/sweeper/)
+- [The PC Decrapifier](https://www.pcdecrapifier.com/)
+- [Ubuntu Cleaner](https://github.com/gerardpuig/ubuntu-cleaner)
+- [Utilities / Sweeper · GitLab](https://invent.kde.org/utilities/sweeper)
+- [Windows10Debloater](https://github.com/Sycnex/Windows10Debloater)
+- [WiseCleaner](https://www.wisecleaner.com/)
+- [YL Computing](https://www.pcclean.io/) — Your satisfaction is our only goal
+
+### Desktop Monitoring
+- [1Panel](https://1panel.cn/) — 现代化、开源的 Linux 服务器运维管理面板
+- [aksakalli/gtop · GitHub](https://github.com/aksakalli/gtop)
+- [Apps/Sysprof](https://wiki.gnome.org/Apps/Sysprof) — GNOME
+- [aristocratos/bashtop · GitHub](https://github.com/aristocratos/bashtop)
+- [aristocratos/btop · GitHub](https://github.com/aristocratos/btop)
+- [Atoptool.nl](https://www.atoptool.nl/)
+- [Bitsum. Real-time CPU Optimization and Automation](https://bitsum.com/)
+- [Bpytop](https://github.com/aristocratos/bpytop) — Aristocratos
+- [CodexBar](https://codexbar.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/steipete/CodexBar)
+- [Conky · GitHub](https://github.com/brndnmtthws/conky)
+- [ctop](https://ctop.sh/)
+- [EtherApe, a graphical network monitor](https://etherape.sourceforge.io/)
+- [flightlessmango/MangoHud · GitHub](https://github.com/flightlessmango/MangoHud)
+- [GKrellM](http://gkrellm.srcbox.net/)
+- [Glances · GitHub](https://nicolargo.github.io/glances/)
+- [graykode/abtop](https://github.com/graykode/abtop) — Like htop, but for AI coding agents. Monitor Claude Code & Codex CLI sessions, tokens, context window, rate limits, and ports in real-time.
+- [htop -an interactive process viewer](https://htop.dev/)
+- [HWiNFO](https://www.hwinfo.com/)
+- [kamgurgul/cpu-info](https://github.com/kamgurgul/cpu-info) — CPU Info is a multiplatform application which provides information about device hardware and software
+- [Linux-Assistant](https://www.linux-assistant.org/)
+- [LockItTight](https://www.lockittight.com/)
+- [M/Monit](https://mmonit.com/)
+- [Mission Center](https://missioncenter.io/)
+- [nmon for Linux](http://nmon.sourceforge.net/pmwiki.php)
+- [nokyan/resources](https://github.com/nokyan/resources) — Monitor your system resources and processes
+- [Observium](https://www.observium.org/) — Network monitoring with intuition
+- [oguzhaninan/Stacer · GitHub](https://github.com/oguzhaninan/Stacer)
+- [opsengine/cpulimit · GitHub](https://github.com/opsengine/cpulimit)
+- [PageVitals](https://pagevitals.com/) — Website performance
+- [Process Explorer](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer) — Sysinternals
+- [Process Hacker](https://processhacker.sourceforge.io/)
+- [Prometheus](https://prometheus.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/prometheus) — Monitoring system & time series database
+- [Revealer Keylogger 2020](https://www.logixoft.com/es-es/index)
+- [SidebarDiagnostics](https://github.com/ArcadeRenegade/SidebarDiagnostics)
+- [Stacer](https://oguzhaninan.github.io/Stacer-Web)
+- [Task Monitor / Task Monitor Viewer · GitLab](https://gitlab.com/taskmonitor/tkmviewer)
+- [Übersicht](https://tracesof.net/uebersicht/)
+- [Usage](https://usage.pro/) — System Activity Monitor for iOS and macOS
+- [WinDbg](https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger/) — Windows drivers
+- [xaitax/TotalRecall · GitHub](https://github.com/xaitax/TotalRecall)
+- [XMeters](https://entropy6.com/xmeters/)
+
 ### Software Manager
 - [Artifactory](https://jfrog.com/artifactory/) — Universal Artifact Management
 - [Gear Lever · Documentation website](https://gearlever.mijorus.it/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/mijorus/gearlever)
+
+#### App Manager
+- [ADB TV](https://play.google.com/store/apps/details?id=com.cybercat.adbappcontrol.tv) — App Manager - Apps on Google Play
+
+#### Dependency Manager
+- [Automated dependency updates with pull requests](https://www.dependencies.io/) — Deps
+- [Composer PHP](https://getcomposer.org/)
+- [dnvm](https://dnvm.net/) — the dotnet version manager
+- [mise-en-place](https://mise.jdx.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/jdx/mise) — Development tools, environments, and tasks
+- [rbenv](https://rbenv.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/rbenv/rbenv) — the Ruby version manager
+- [RVM](https://rvm.io/) — Ruby Version Manager - RVM Ruby Version Manager
+- [SDKMAN! the Software Development Kit Manager](https://sdkman.io/)
+- [Yarn](https://classic.yarnpkg.com/en/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/yarnpkg/yarn)
+
+#### GUI Package Manager
+- ⭐ **[Bauh](https://github.com/vinifmor/bauh)** — Graphical user interface for managing your Linux applications
+- [aarnt/octopi](https://github.com/aarnt/octopi) — A powerful Pacman (Package Manager) front end using Qt libs
+- [Anaconda](https://fedoraproject.org/wiki/Anaconda) — Fedora
+- [AppImageCommunity/AppImageUpdate · GitHub](https://github.com/AppImageCommunity/AppImageUpdate)
+- [CaskHub](https://caskhub.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/alielsokary/CaskHub) — a native Mac app store for Homebrew casks
+- [DanStore](https://danstore-ms.vercel.app/) — The Ultimate Store Explorer
+- [gavinlyonsrepo/cylon · GitHub](https://github.com/gavinlyonsrepo/cylon)
+- [GNOME / gnome-software · GitLab](https://gitlab.gnome.org/GNOME/gnome-software)
+- [imikado/dupotEasyFlatpak · GitHub](https://github.com/imikado/dupotEasyFlatpak)
+- [kolunmi/bazaar](https://github.com/kolunmi/bazaar) — New App Store for GNOME
+- [Manjaro/pamac · GitLab](https://gitlab.manjaro.org/applications/pamac)
+- [marticliment/UniGetUI · GitHub](https://github.com/marticliment/UniGetUI)
+- [marticliment/WingetUI · GitHub](https://github.com/marticliment/WingetUI)
+- [mijorus/gearlever](https://github.com/mijorus/gearlever) — Manage AppImages with ease 📦
+- [moson-mo/pacseek · GitHub](https://github.com/moson-mo/pacseek)
+- [NeoApplications/Neo-Store · GitHub](https://github.com/NeoApplications/Neo-Store)
+- [Obtainium](https://obtainium.imranr.dev/)
+- [Octopi](https://octopiproject.wordpress.com/) — pacman GUI
+- [Patch My PC](https://patchmypc.com/home-updater) — Home Updater
+- [PkgBrowser](https://osdn.net/projects/pkgbrowser/) — OSDN
+- [Plasma / Discover · GitLab](https://invent.kde.org/plasma/discover)
+- [RudraSwat/modren](https://github.com/rudraswat/modren) — A modern store for Linux users
+- [Shelly](https://www.seafoam-labs.org/shelly-alpm) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Seafoam-Labs/Shelly-ALPM) — Modern Arch Linux Package Manager
+- [shundhammer/myrlyn](https://github.com/shundhammer/myrlyn) — Myrlyn package manager GUI for Linux
+- [Sparkle project](https://sparkle-project.org/)
+- [SUMo](https://kcsoftwares.com/index.php?sumo) — KC Softwares
+- [TuxMate](https://tuxmate.com/) — LINUX BULK APP INSTALLER
+- [ubuntu/app-center · GitHub](https://github.com/ubuntu/app-center)
+- [UbuntuDDE/dde-store · GitHub](https://github.com/UbuntuDDE/dde-store)
+- [WailBrew](https://www.wailbrew.app/) — A Minimalistic Homebrew GUI
+- [wingetgui.com](https://wingetgui.com/) — a graphical user interfaces for Windows Package Manager (winget).
+- [yoshiask/FluentStore](https://github.com/yoshiask/FluentStore) — A unifying frontend for Windows app stores and package managers
 
 #### Package Manager
 - ⭐ **[Package Manager](https://smartpack.github.io/PackageManager/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/SmartPack/PackageManager)
@@ -1230,87 +1421,19 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [Zero Install](https://0install.net/)
 - [Zypper package manager](https://documentation.suse.com/smart/linux/html/concept-zypper/index.html)
 
-#### GUI Package Manager
-- ⭐ **[Bauh](https://github.com/vinifmor/bauh)** — Graphical user interface for managing your Linux applications
-- [aarnt/octopi](https://github.com/aarnt/octopi) — A powerful Pacman (Package Manager) front end using Qt libs
-- [Anaconda](https://fedoraproject.org/wiki/Anaconda) — Fedora
-- [AppImageCommunity/AppImageUpdate · GitHub](https://github.com/AppImageCommunity/AppImageUpdate)
-- [CaskHub](https://caskhub.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/alielsokary/CaskHub) — a native Mac app store for Homebrew casks
-- [DanStore](https://danstore-ms.vercel.app/) — The Ultimate Store Explorer
-- [gavinlyonsrepo/cylon · GitHub](https://github.com/gavinlyonsrepo/cylon)
-- [GNOME / gnome-software · GitLab](https://gitlab.gnome.org/GNOME/gnome-software)
-- [imikado/dupotEasyFlatpak · GitHub](https://github.com/imikado/dupotEasyFlatpak)
-- [kolunmi/bazaar](https://github.com/kolunmi/bazaar) — New App Store for GNOME
-- [Manjaro/pamac · GitLab](https://gitlab.manjaro.org/applications/pamac)
-- [marticliment/UniGetUI · GitHub](https://github.com/marticliment/UniGetUI)
-- [marticliment/WingetUI · GitHub](https://github.com/marticliment/WingetUI)
-- [mijorus/gearlever](https://github.com/mijorus/gearlever) — Manage AppImages with ease 📦
-- [moson-mo/pacseek · GitHub](https://github.com/moson-mo/pacseek)
-- [NeoApplications/Neo-Store · GitHub](https://github.com/NeoApplications/Neo-Store)
-- [Obtainium](https://obtainium.imranr.dev/)
-- [Octopi](https://octopiproject.wordpress.com/) — pacman GUI
-- [Patch My PC](https://patchmypc.com/home-updater) — Home Updater
-- [PkgBrowser](https://osdn.net/projects/pkgbrowser/) — OSDN
-- [Plasma / Discover · GitLab](https://invent.kde.org/plasma/discover)
-- [RudraSwat/modren](https://github.com/rudraswat/modren) — A modern store for Linux users
-- [Shelly](https://www.seafoam-labs.org/shelly-alpm) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Seafoam-Labs/Shelly-ALPM) — Modern Arch Linux Package Manager
-- [shundhammer/myrlyn](https://github.com/shundhammer/myrlyn) — Myrlyn package manager GUI for Linux
-- [Sparkle project](https://sparkle-project.org/)
-- [SUMo](https://kcsoftwares.com/index.php?sumo) — KC Softwares
-- [TuxMate](https://tuxmate.com/) — LINUX BULK APP INSTALLER
-- [ubuntu/app-center · GitHub](https://github.com/ubuntu/app-center)
-- [UbuntuDDE/dde-store · GitHub](https://github.com/UbuntuDDE/dde-store)
-- [WailBrew](https://www.wailbrew.app/) — A Minimalistic Homebrew GUI
-- [wingetgui.com](https://wingetgui.com/) — a graphical user interfaces for Windows Package Manager (winget).
-- [yoshiask/FluentStore](https://github.com/yoshiask/FluentStore) — A unifying frontend for Windows app stores and package managers
+### Sys Administrator
+- [gsudo](https://gerardog.github.io/gsudo/)
+- [microsoft/WindowsDeveloperConfig](https://github.com/microsoft/WindowsDeveloperConfig) — Automate the setup and configuration of your Windows development environment.
+- [Sudo](https://www.sudo.ws/)
 
-#### Dependency Manager
-- [Automated dependency updates with pull requests](https://www.dependencies.io/) — Deps
-- [Composer PHP](https://getcomposer.org/)
-- [dnvm](https://dnvm.net/) — the dotnet version manager
-- [mise-en-place](https://mise.jdx.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/jdx/mise) — Development tools, environments, and tasks
-- [rbenv](https://rbenv.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/rbenv/rbenv) — the Ruby version manager
-- [RVM](https://rvm.io/) — Ruby Version Manager - RVM Ruby Version Manager
-- [SDKMAN! the Software Development Kit Manager](https://sdkman.io/)
-- [Yarn](https://classic.yarnpkg.com/en/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/yarnpkg/yarn)
-
-#### App Manager
-- [ADB TV](https://play.google.com/store/apps/details?id=com.cybercat.adbappcontrol.tv) — App Manager - Apps on Google Play
-
-### Cleaner PC
-- ⭐ **[BleachBit](https://www.bleachbit.org/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/bleachbit/bleachbit)
-- ⭐ **[Kudu](https://usekudu.com/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/AdventDevInc/kudu) — Free System Maintenance Suite
-- ⭐ **[Microsoft PC Manager](https://pcmanager.microsoft.com/en-us)** — Cleanup PC, protection for your computer
-- ⭐ **[Raphire/Win11Debloat · GitHub](https://github.com/Raphire/Win11Debloat)**
-- [amar97march/sweep](https://github.com/amar97march/sweep) — Clean, protect and understand your Mac. Free and open source
-- [Auslogics](https://www.auslogics.com/en)
-- [builtbybel/Winslop · GitHub](https://github.com/builtbybel/Winslop)
-- [Bulk Crap Uninstaller](https://www.bcuninstaller.com/)
-- [CCleaner](https://www.ccleaner.com/)
-- [Clean-Me](https://kevin-de-koninck.github.io/Clean-Me)
-- [CompuClever](https://www.compuclever.com/)
-- [DiskPoint](https://diskpointapp.com/) — Free Disk Cleanup for Mac, Windows & Linux
-- [Fix My PC](https://fixmypc.tv/)
-- [GCleaner](https://gcleaner.github.io/)
-- [Glary Utilities](https://www.glarysoft.com/glary-utilities/) — Free System Utilities to Clean Registry, Fix PC Errors, Protect Privacy | Glarysoft
-- [Glarysoft](https://glarysoft.com/)
-- [IObit](https://www.iobit.com/en/index.php)
-- [iolo](https://www.iolo.com/)
-- [KDE Utilities](https://utils.kde.org/projects/sweeper/) — Sweeper
-- [MacOSCleaner](https://alextkdev.github.io/MacOSCleaner/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/AlexTkDev/MacOSCleaner) — Free macOS Cleaner & App Uninstaller
-- [momenbasel/PureMac](https://github.com/momenbasel/PureMac) — Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.
-- [PC Booster](https://www.pcbooster.com/)
-- [PC Cleaner](http://pccleaner.com/)
-- [Platinum+ Optimizer](https://platinum.optimizer.workers.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Aledect/Platinum-Optimizer) — Real Optimization
-- [Revo Uninstaller](https://www.revouninstaller.com/)
-- [Slimware Utilities](https://slimware.com/#/)
-- [Sweeper](https://apps.kde.org/sweeper/)
-- [The PC Decrapifier](https://www.pcdecrapifier.com/)
-- [Ubuntu Cleaner](https://github.com/gerardpuig/ubuntu-cleaner)
-- [Utilities / Sweeper · GitLab](https://invent.kde.org/utilities/sweeper)
-- [Windows10Debloater](https://github.com/Sycnex/Windows10Debloater)
-- [WiseCleaner](https://www.wisecleaner.com/)
-- [YL Computing](https://www.pcclean.io/) — Your satisfaction is our only goal
+### System Tweaker
+- [benjamimgois/goverlay](https://github.com/benjamimgois/goverlay) — Goverlay is an easy graphical interface to configure MangoHud, vkBasalt, and OptiScaler
+- [Chuyu-Team/Dism-Multi-language · GitHub](https://github.com/Chuyu-Team/Dism-Multi-language)
+- [LitePC Technologies](https://www.litepc.com/) — Utilities to customize and tweak Windows
+- [MSMG Toolkit](https://msmgtoolkit.in/)
+- [NTLite](https://www.ntlite.com/)
+- [SasNet Projects](https://sasnet.ovh/) — Windows Lite
+- [Winaero Tweaker](https://winaerotweaker.com/)
 
 ### Uninstall Software
 - ⭐ **[Geek Uninstaller](https://geekuninstaller.com/)**
@@ -1324,129 +1447,6 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [UninstallHelps](http://www.uninstallhelps.com/)
 - [Uninstalr](https://uninstalr.com/)
 - [zoicware/RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI) — Force Remove Copilot, Recall and More in Windows 11
-
-### Android & iOS Tools
-- ⭐ **[Gadgetbridge](https://gadgetbridge.org/)**
-- [sameerasw/essentials](https://github.com/sameerasw/essentials) — Essential tools and mods for Android nerds
-
-#### Jailbreak iOS
-- [checkra1n](https://checkra.in/)
-- [Cydia](https://cydia-app.com/)
-- [opa334/Dopamine](https://github.com/opa334/Dopamine) — Dopamine is a semi-untethered jailbreak for iOS 15 and 16
-- [opa334/TrollStore](https://github.com/opa334/TrollStore) — Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple
-- [palera1n](https://palera.in/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/palera1n/palera1n)
-- [unc0ver](https://unc0ver.dev/)
-
-#### Root & Modding Android
-- ⭐ **[Magisk Manager](https://www.magiskmanager.org/)**
-- [0x192/universal-android-debloater · GitHub](https://github.com/0x192/universal-android-debloater)
-- [AdAway](https://adaway.org/)
-- [amo13/Anarchy-Droid · GItHub](https://github.com/amo13/Anarchy-Droid)
-- [Anarchy-Droid](https://anarchy-droid.com/)
-- [Android MTK](https://androidmtk.com/)
-- [Andronix App](https://andronix.app/)
-- [Apktool](https://apktool.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/iBotPeaches/Apktool)
-- [KernelSU Next](https://kernelsu-next.github.io/webpage/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/KernelSU-Next/KernelSU-Next)
-- [Kingroot](https://kingrootapp.net/)
-- [Kingroot Official](https://kingrootofficial.com/)
-- [Lucky Patcher](https://www.luckypatchers.com/)
-- [One Click Root](https://oneclickroot.com/)
-- [PrefEdit Root](https://play.google.com/store/apps/details?id=com.corphish.prefedit)
-- [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) — Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process
-- [Root Booster](https://play.google.com/store/apps/details?id=com.ram.memory.booster.cpu.saver)
-- [Root Checker](https://rootchecker.com/)
-- [Root Essentials](https://sites.google.com/view/superthomaslab/root-essentials)
-- [Shizuku](https://shizuku.rikka.app/)
-- [skylot/jadx](https://github.com/skylot/jadx) — Dex to Java decompiler
-- [SuperSU Root](https://supersuroot.org/)
-- [timschneeb/RootlessJamesDSP · GitHub](https://github.com/timschneeb/RootlessJamesDSP)
-- [Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/) — Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.
-- [Viper4android](https://www.viper4android.com/)
-- [W1nst0n / Universal Android Debloater · GitLab](https://gitlab.com/W1nst0n/universal-android-debloater)
-- [wesbos/photo-frame-dashboard](https://github.com/wesbos/photo-frame-dashboard) — Getting ADB, root, backups and custom apps onto locked-down Android photo frames (Skylight Calendar, BIUFRAME)
-- [Xposed APK](https://xposed-installer.com/)
-- [Xposed Module Repository](https://repo.xposed.info/)
-
-#### Flashing & Firmware
-- [Android Flash Tool](https://flash.android.com/welcome)
-- [Benjamin-Dobell/Heimdall](https://github.com/Benjamin-Dobell/Heimdall) — Heimdall is a cross-platform open-source tool suite used to flash firmware (aka ROMs) onto Samsung Galaxy devices.
-- [Flashify APK](https://flashify.org/)
-- [Frija](https://xdaforums.com/t/tool-frija-samsung-firmware-downloader-checker.3910594/) — Samsung firmware downloader/checker
-- [Meshtastic Web Flasher](https://flasher.meshtastic.org/)
-- [MSM Download Tool V5.0.15](https://msmdownloadtools.com/)
-- [OPPO System Upgrade Tool](https://www.oppo.com/en/rom/) — OPPO Global
-- [Realme Flash Tool for Windows](https://androidmtk.com/realme-flash-tool) — .ofp Flash Tool
-- [Realme Flash Tool V](https://download.c.realme.com/flash/Flash_tool/realme_Flash_Tool_V2.zip)
-- [Samsung Odin download](https://odindownload.com/)
-
-### Desktop Monitoring
-- [1Panel](https://1panel.cn/) — 现代化、开源的 Linux 服务器运维管理面板
-- [aksakalli/gtop · GitHub](https://github.com/aksakalli/gtop)
-- [Apps/Sysprof](https://wiki.gnome.org/Apps/Sysprof) — GNOME
-- [aristocratos/bashtop · GitHub](https://github.com/aristocratos/bashtop)
-- [aristocratos/btop · GitHub](https://github.com/aristocratos/btop)
-- [Atoptool.nl](https://www.atoptool.nl/)
-- [Bitsum. Real-time CPU Optimization and Automation](https://bitsum.com/)
-- [Bpytop](https://github.com/aristocratos/bpytop) — Aristocratos
-- [CodexBar](https://codexbar.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/steipete/CodexBar)
-- [Conky · GitHub](https://github.com/brndnmtthws/conky)
-- [ctop](https://ctop.sh/)
-- [EtherApe, a graphical network monitor](https://etherape.sourceforge.io/)
-- [flightlessmango/MangoHud · GitHub](https://github.com/flightlessmango/MangoHud)
-- [GKrellM](http://gkrellm.srcbox.net/)
-- [Glances · GitHub](https://nicolargo.github.io/glances/)
-- [graykode/abtop](https://github.com/graykode/abtop) — Like htop, but for AI coding agents. Monitor Claude Code & Codex CLI sessions, tokens, context window, rate limits, and ports in real-time.
-- [htop -an interactive process viewer](https://htop.dev/)
-- [HWiNFO](https://www.hwinfo.com/)
-- [kamgurgul/cpu-info](https://github.com/kamgurgul/cpu-info) — CPU Info is a multiplatform application which provides information about device hardware and software
-- [Linux-Assistant](https://www.linux-assistant.org/)
-- [LockItTight](https://www.lockittight.com/)
-- [M/Monit](https://mmonit.com/)
-- [Mission Center](https://missioncenter.io/)
-- [nmon for Linux](http://nmon.sourceforge.net/pmwiki.php)
-- [nokyan/resources](https://github.com/nokyan/resources) — Monitor your system resources and processes
-- [Observium](https://www.observium.org/) — Network monitoring with intuition
-- [oguzhaninan/Stacer · GitHub](https://github.com/oguzhaninan/Stacer)
-- [opsengine/cpulimit · GitHub](https://github.com/opsengine/cpulimit)
-- [PageVitals](https://pagevitals.com/) — Website performance
-- [Process Explorer](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer) — Sysinternals
-- [Process Hacker](https://processhacker.sourceforge.io/)
-- [Prometheus](https://prometheus.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/prometheus) — Monitoring system & time series database
-- [Revealer Keylogger 2020](https://www.logixoft.com/es-es/index)
-- [SidebarDiagnostics](https://github.com/ArcadeRenegade/SidebarDiagnostics)
-- [Stacer](https://oguzhaninan.github.io/Stacer-Web)
-- [Task Monitor / Task Monitor Viewer · GitLab](https://gitlab.com/taskmonitor/tkmviewer)
-- [Übersicht](https://tracesof.net/uebersicht/)
-- [Usage](https://usage.pro/) — System Activity Monitor for iOS and macOS
-- [WinDbg](https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger/) — Windows drivers
-- [xaitax/TotalRecall · GitHub](https://github.com/xaitax/TotalRecall)
-- [XMeters](https://entropy6.com/xmeters/)
-
-### APK Analyzer
-- [alexcmgit/kanade](https://github.com/alexcmgit/kanade) — Android app to extract apks from installed apps.
-- [AndroidApkAnalyzer · GitHub](https://github.com/MartinStyk/AndroidApkAnalyzer)
-- [Apk Analyzer](https://play.google.com/store/apps/details?id=sk.styk.martin.apkanalyzer) — Apps on Google Play
-- [APK Backup](https://play.google.com/store/apps/details?id=app.apk.backup&gl=US) — Apps on Google Play
-- [App APK Extractor & Analyzer](https://play.google.com/store/apps/details?id=com.ytheekshana.apkextractor) — Apps on Google Play
-- [Device Info](https://www.deviceinfo.app/) — System & CPU Info - Android App
-- [Domilopment/apk-extractor](https://github.com/Domilopment/apk-extractor) — A Simple Modern APK Extractor App
-- [Install APK](https://play.google.com/store/apps/details?id=com.rhythm.hexise.inst) — Apps on Google Play
-- [ML Manager](https://about.javiersantos.me/mlmanager/) — An APK extractor & app manager for Android
-- [URLCheck](https://play.google.com/store/apps/details?id=com.trianguloy.urlchecker) — Google Play
-
-### System Tweaker
-- [benjamimgois/goverlay](https://github.com/benjamimgois/goverlay) — Goverlay is an easy graphical interface to configure MangoHud, vkBasalt, and OptiScaler
-- [Chuyu-Team/Dism-Multi-language · GitHub](https://github.com/Chuyu-Team/Dism-Multi-language)
-- [LitePC Technologies](https://www.litepc.com/) — Utilities to customize and tweak Windows
-- [MSMG Toolkit](https://msmgtoolkit.in/)
-- [NTLite](https://www.ntlite.com/)
-- [SasNet Projects](https://sasnet.ovh/) — Windows Lite
-- [Winaero Tweaker](https://winaerotweaker.com/)
-
-### Sys Administrator
-- [gsudo](https://gerardog.github.io/gsudo/)
-- [microsoft/WindowsDeveloperConfig](https://github.com/microsoft/WindowsDeveloperConfig) — Automate the setup and configuration of your Windows development environment.
-- [Sudo](https://www.sudo.ws/)
 
 ## Web Server Panel
 - [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) — Yet another WebUI for Nginx
@@ -1468,54 +1468,6 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [Pterodactyl](https://pterodactyl.io/)
 - [RMM software for IT heroes](https://www.atera.com/) — Atera
 - [Webmin](https://webmin.com/)
-
-### Marketing Account
-- [AdManage.ai](https://admanage.ai/) — Bulk Ad Launching Platform for Meta & 8 Other Ad Channels
-- [AppTweak](https://www.apptweak.com/en) — App Store Marketing & Intelligence Platform
-- [Attentive](https://www.attentivemobile.com/)
-- [BOOM](https://boom.co/) — automated visual production platform
-- [Branch.io](https://branch.io/)
-- [Conecta Software](https://conectasoftware.com/)
-- [ConvertKit](https://convertkit.com/)
-- [DirectIQ](https://www.directiq.com/) — Email marketing automation
-- [Kolsquare](https://www.kolsquare.com/en)
-- [MailerLite](https://www.mailerlite.com/)
-- [MobileAction](https://www.mobileaction.co/) — Growth partner of apps and games
-- [NoxInfluencer](https://es.noxinfluencer.com/)
-- [Numberly](https://numberly.com/en/)
-- [Omnisend](https://www.omnisend.com/) — Ecommerce Email Marketing and SMS Platform
-- [OptinMonster](https://optinmonster.com/)
-- [plantoost](https://plantoost.com/)
-- [PlaylistStreams](https://playliststreams.com/)
-- [Podia](https://www.podia.com/)
-- [Quantcast](https://www.quantcast.com/)
-- [Siteefy](https://siteefy.com/)
-- [SocialFlow](https://www.socialflow.com/)
-- [Systeme.io](https://systeme.io/)
-- [Tech Target](https://www.techtarget.com/)
-- [Thinkific](https://www.thinkific.com/)
-- [WatchThemLive](https://watchthem.live/)
-- [Wealthy Affiliate](https://www.wealthyaffiliate.com/home)
-
-### Server Monitoring
-- [bluewave-labs/checkmate](https://github.com/bluewave-labs/checkmate) — Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations
-- [Calibre app](https://calibreapp.com/)
-- [Collective](https://www.collective.com/)
-- [Cronitor.io](https://cronitor.io/)
-- [curl-loader](http://curl-loader.sourceforge.net/)
-- [Datadog](https://www.datadoghq.com/) — Cloud monitoring as a service
-- [Dozzle](https://dozzle.dev/)
-- [Grafana](https://grafana.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/grafana/grafana) — The open observability platform
-- [Graylog](https://graylog.org/) — Industry Leading Log Management & SIEM
-- [Homarr](https://homarr.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/homarr-labs/homarr) — Dashboard of apps
-- [Kener](https://kener.ing/) — Open-Source and Modern-looking Node.js Status Page
-- [Sentry.io](https://sentry.io/welcome/)
-- [Sken.io](https://sken.io/) — The ultimate website checker. Monitor website changes
-- [SpeedCurve](https://www.speedcurve.com/)
-- [StackScout.io](https://stackscout.io/)
-- [The StoryGraph](https://thestorygraph.com/)
-- [UptimeRobot](https://uptimerobot.com/)
-- [wolfpld/tracy](https://github.com/wolfpld/tracy) — Frame profiler
 
 ### Customer Account
 - [Affiliatly](https://www.affiliatly.com/)
@@ -1548,6 +1500,34 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [XenForo](https://xenforo.com/)
 - [Zendesk](https://www.zendesk.com/)
 
+### Marketing Account
+- [AdManage.ai](https://admanage.ai/) — Bulk Ad Launching Platform for Meta & 8 Other Ad Channels
+- [AppTweak](https://www.apptweak.com/en) — App Store Marketing & Intelligence Platform
+- [Attentive](https://www.attentivemobile.com/)
+- [BOOM](https://boom.co/) — automated visual production platform
+- [Branch.io](https://branch.io/)
+- [Conecta Software](https://conectasoftware.com/)
+- [ConvertKit](https://convertkit.com/)
+- [DirectIQ](https://www.directiq.com/) — Email marketing automation
+- [Kolsquare](https://www.kolsquare.com/en)
+- [MailerLite](https://www.mailerlite.com/)
+- [MobileAction](https://www.mobileaction.co/) — Growth partner of apps and games
+- [NoxInfluencer](https://es.noxinfluencer.com/)
+- [Numberly](https://numberly.com/en/)
+- [Omnisend](https://www.omnisend.com/) — Ecommerce Email Marketing and SMS Platform
+- [OptinMonster](https://optinmonster.com/)
+- [plantoost](https://plantoost.com/)
+- [PlaylistStreams](https://playliststreams.com/)
+- [Podia](https://www.podia.com/)
+- [Quantcast](https://www.quantcast.com/)
+- [Siteefy](https://siteefy.com/)
+- [SocialFlow](https://www.socialflow.com/)
+- [Systeme.io](https://systeme.io/)
+- [Tech Target](https://www.techtarget.com/)
+- [Thinkific](https://www.thinkific.com/)
+- [WatchThemLive](https://watchthem.live/)
+- [Wealthy Affiliate](https://www.wealthyaffiliate.com/home)
+
 ### Monitoring Account
 - [Digital Experience Monitoring](https://www.devraven.io/) — DevRaven
 - [Distill.io](https://distill.io/) — Monitor websites for changes, get SMS alerts and email alerts
@@ -1555,3 +1535,23 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [New Relic](https://newrelic.com/)
 - [NinjaOne](https://www.ninjaone.com/?utm_source=SaaSHub&utm_medium=cpc&utm_campaign=profile) — Remote Monitoring & Management Software
 - [Palette](https://palette.dev/)
+
+### Server Monitoring
+- [bluewave-labs/checkmate](https://github.com/bluewave-labs/checkmate) — Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations
+- [Calibre app](https://calibreapp.com/)
+- [Collective](https://www.collective.com/)
+- [Cronitor.io](https://cronitor.io/)
+- [curl-loader](http://curl-loader.sourceforge.net/)
+- [Datadog](https://www.datadoghq.com/) — Cloud monitoring as a service
+- [Dozzle](https://dozzle.dev/)
+- [Grafana](https://grafana.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/grafana/grafana) — The open observability platform
+- [Graylog](https://graylog.org/) — Industry Leading Log Management & SIEM
+- [Homarr](https://homarr.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/homarr-labs/homarr) — Dashboard of apps
+- [Kener](https://kener.ing/) — Open-Source and Modern-looking Node.js Status Page
+- [Sentry.io](https://sentry.io/welcome/)
+- [Sken.io](https://sken.io/) — The ultimate website checker. Monitor website changes
+- [SpeedCurve](https://www.speedcurve.com/)
+- [StackScout.io](https://stackscout.io/)
+- [The StoryGraph](https://thestorygraph.com/)
+- [UptimeRobot](https://uptimerobot.com/)
+- [wolfpld/tracy](https://github.com/wolfpld/tracy) — Frame profiler

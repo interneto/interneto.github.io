@@ -106,7 +106,8 @@ function renderItems(lines, items) {
 }
 
 function renderChildren(lines, children, level) {
-  for (const [name, node] of children) {
+  const sorted = [...children].sort(([a], [b]) => a.localeCompare(b))
+  for (const [name, node] of sorted) {
     lines.push('')
     // Markdown supports at most 6 heading levels; deeper nesting falls back to bold.
     lines.push(level <= 6 ? `${'#'.repeat(level)} ${escapeMd(name)}` : `**${escapeMd(name)}**`)
@@ -150,7 +151,7 @@ function renderGroupFile(groupName, group, categoryFolder) {
   ]
 
   renderItems(lines, group.items)
-  renderChildren(lines, new Map([...group.children].sort(([a], [b]) => a.localeCompare(b))), 2)
+  renderChildren(lines, group.children, 2)
 
   return lines.join('\n').trim() + '\n'
 }

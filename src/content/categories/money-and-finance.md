@@ -24,60 +24,21 @@ description: Banking, cryptocurrency, and financial tracking
 ## Cryptocurrency Platform
 - [Base](https://www.base.org/)
 
-### Cryptos
-- [Ayusocoin](https://ayusocoin.com/)
-- [BitClout](https://bitclout.com/)
-- [Bitcoin](https://bitcoin.org/en)
-- [Bitcoin Core](https://bitcoincore.org/)
-- [Bitcoincash](https://bitcoincash.org/)
-- [Block.one](https://block.one/)
-- [Coin Top List](https://cointoplist.net/)
-- [CoinGecko](https://www.coingecko.com/en)
-- [Coinhunt](https://coinhunt.cc/)
-- [CoinSniper](https://coinsniper.net/)
-- [Create My Token FREE](https://www.createmytoken.com/)
-- [CryptoCat Coin](https://cryptocat.app/)
-- [CryptoNWO](https://cryptonwo.io/)
-- [Dogecoin.com](https://dogecoin.com/)
-- [Dogecoin.info](https://dogechain.info/)
-- [Ethereum](https://ethereum.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/ethereum/ethereum-org-website)
-- [Ethereum Classic](https://ethereumclassic.org/)
-- [Firo.org](https://firo.org/)
-- [FreshCoins](https://freshcoins.io/)
-- [Gitcoin](https://gitcoin.co/)
-- [Gridcoin](https://www.gridcoinstats.eu/block)
-- [Hedera Hashgraph](https://hedera.com/)
-- [List of cryptocurrencies](https://en.wikipedia.org/wiki/List_of_cryptocurrencies)
-- [LiteCoin](https://litecoin.com/en)
-- [Monero](https://www.getmonero.org/) — secure, private, untraceable
-- [Namecoin](https://www.namecoin.org/)
-- [Nano](https://nano.org/)
-- [Nestegg Coin](https://www.nesteggcoin.com/)
-- [OtterCoin](https://www.ottercoinbsc.com/)
-- [Peercoin](https://www.peercoin.net/)
-- [PooCoin](https://poocoin.app/)
-- [Primecoin](https://primecoin.io/)
-- [Ravencoin](https://ravencoin.org/)
-- [Ripple](https://ripple.com/)
-- [Stopelon](https://stopelon.space/)
-- [Tether](https://tether.to/)
-- [Theta Token](https://www.thetatoken.org/)
-- [Vertcoin](https://vertcoin.org/)
-- [Worldcoin](https://worldcoin.org/) — For every human
-- [Wownero](https://wownero.org/) — Putting the fun in fungibility.
-- [Xe](https://www.xe.com/)
-- [Zcash](https://z.cash/)
-- [zkSync](https://zksync.io/) — Scaling the Ethos and technology of Ethereum
-
-#### Bitcoin
-- [Bitcoin Exchange](https://exchange.bitcoin.com/)
-- [Bitcoin Games](https://games.bitcoin.com/)
-- [Bitcoin Local](https://local.bitcoin.com/)
-- [Bitcoin Map](https://map.bitcoin.com/)
-- [Bitcoin Sell](https://sell.bitcoin.com/)
-- [Bitcoin Wallet](https://wallet.bitcoin.com/)
-- [Bitcoin.com](https://www.bitcoin.com/)
-- [Satoshi Nakamoto Institute](https://nakamotoinstitute.org/)
+### Blockchain Account
+- [ARK.io](https://ark.io/) — Blockchain Ecosystem
+- [Avalon Block Explorer](https://blocks.oneloved.tube/#/)
+- [BitTube.app](https://bittube.app/)
+- [Blockchains](https://blockchains.com/)
+- [Bloom.co](https://bloom.co/)
+- [Chainlink](https://chain.link/)
+- [Dune Dashboards](https://dune.com/browse/dashboards)
+- [Meson.Network](https://meson.network/)
+- [Oxen](https://oxen.io/) — Privacy made simple.
+- [Steem](https://steem.com/)
+- [Terra money](https://www.terra.money/)
+- [TON](https://ton.org/) — The Open Network
+- [VeChainThor](https://www.vechain.org/)
+- [Xoken.org](https://www.xoken.org/)
 
 ### Cryptocurrency Exchange
 - ⭐ **[Binance](https://www.binance.com/en)**
@@ -224,63 +185,23 @@ description: Banking, cryptocurrency, and financial tracking
 - [Filscout -Filecoin Explorer](https://www.filscout.com/en)
 - [Spacegap](https://spacegap.github.io/#/)
 
-### Mining Pools
-- [AntPool](https://v3.antpool.com/home)
-- [Bitcoin mining](https://www.bitcoinmining.com/)
-- [BTC.com](https://btc.com/)
-- [Compass Mining](https://compassmining.io/)
-- [Ethermine.org](https://www.ethermine.org/)
-- [F2Pool](https://www.f2pool.com/)
-- [Foundry](https://foundrydigital.com/)
-- [NiceHash](https://www.nicehash.com/)
-- [Poolin](https://www.poolin.com/)
-- [SBICrypto Pool](https://sbicrypto.com/ja/)
-- [Slush Pool](https://slushpool.com/en/home/)
-- [ViaBTC](https://viabtcpool.com/)
-
-### DeFi (Decentralized Finance)
-- [1inch](https://app.1inch.io/#/1/swap/ETH/DAI)
-- [Apache Fineract](https://fineract.apache.org/)
-- [AYYLMAOcoin](https://ayylmaocoin.com/)
-- [Belong Network](https://belong-network.com/)
-- [BlockCypher](https://www.blockcypher.com/)
-- [BSC Station (BSCS)](https://bscstation.org/)
-- [Cardano.org](https://cardano.org/)
-- [CertiK Blockchain](https://www.certik.com/)
-- [ConsenSys](https://consensys.net/) — Ethereum Solutions
-- [DeFi Yield Protocol](https://dyp.finance/)
-- [Dream Kollab](https://dreamkollab.com/)
-- [Equilibrium](https://equilibrium.io/en)
-- [FalconSwap](https://falconswap.com/)
-- [Hive](https://hive.io/)
-- [Hyperledger](https://www.hyperledger.org/) — The Open Global Ecosystem for Enterprise Blockchain
-- [Hypersign](https://hypersign.id/)
-- [INBlockchain](https://www.inblockchain.com/)
-- [Indexed](https://indexed.finance/)
-- [Ink](https://inkonchain.com/) — DeFi unleashed by Kraken, built on the Superchain
-- [Keyoxide](https://keyoxide.org/)
-- [Liquidity Finance](https://lido.fi/)
-- [Meteorite Finance](https://meteorite.network/)
-- [Neo Smart Economy](https://neo.org/)
-- [Olympus DAO](https://www.olympusdao.finance/)
-- [OVR](https://www.ovr.ai/)
-- [OVR Marketplace](https://marketplace.ovr.ai/map/discover)
-- [Polkadot](https://polkadot.network/)
-- [Polycat Finance](https://polycat.finance/)
-- [Polygon](https://polygon.technology/)
-- [QDAO DeFi](https://qdefi.io/en)
-- [Reef.finance](https://reef.finance/)
-- [Solana](https://solana.com/)
-- [Solana Explorer](https://explorer.solana.com/)
-- [SushiSwap](https://sushi.com/)
-- [tea.xyz](https://app.tea.xyz/) — Testnet to fuel the open-source software revolution
-- [Ubiq Smart](https://ubiqsmart.com/)
-- [Union](https://union.build/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/unionlabs/union)
-- [YAM Finance](https://yam.finance/)
-- [YFDAI.finance](https://yfdai.finance/)
-
 ### Cryptocurrency Wallet
 - ⭐ **[bitaddress.org](https://www.bitaddress.org/bitaddress.org-v3.3.0-SHA256-dec17c07685e1870960903d8f58090475b25af946fe95a734f88408cef4aa194.html)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/pointbiz/bitaddress.org)
+
+#### Hardware Wallet
+- [BitBox](https://bitbox.swiss/) — The easiest way to keep your coins safe
+- [BitLox](https://www.bitlox.com/)
+- [COLDCARD](https://coldcard.com/) — Bitcoin-Only Hardware Wallet
+- [Cryptosteel](https://cryptosteel.com/) — The Mother of All Backups
+- [ELLIPAL](https://www.ellipal.com/) — Leader of Air-gapped Crypto Hardware Wallet
+- [Keystone](https://keyst.one/) — Best Open Source Cold Wallet & Hardware Wallet
+- [Ledger](https://www.ledger.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/ledgerhq) — Hardware Wallet
+- [OneKey](https://onekey.so/) — Hardware Wallet & Crypto DeFi Wallet | Crypto Security
+- [OnlyKey](https://onlykey.io/)
+- [SafePal Crypto Hardware Wallet](https://safepal.com/)
+- [Tangem Wallet](https://tangem.com/en/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/tangem) — The Secure Hardware & Crypto Wallet
+- [Trezor.io Hardware Wallet](https://trezor.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/trezor)
+- [Yubico](https://www.yubico.com/) — Strong two factor authentication
 
 #### Hot Wallet
 - ⭐ **[Cakewallet](https://cakewallet.com/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/cake-tech/cake_wallet)
@@ -332,20 +253,115 @@ description: Banking, cryptocurrency, and financial tracking
 - [WalletConnect](https://walletconnect.org/)
 - [Wasabi Wallet](https://wasabiwallet.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/WalletWasabi/WalletWasabi)
 
-#### Hardware Wallet
-- [BitBox](https://bitbox.swiss/) — The easiest way to keep your coins safe
-- [BitLox](https://www.bitlox.com/)
-- [COLDCARD](https://coldcard.com/) — Bitcoin-Only Hardware Wallet
-- [Cryptosteel](https://cryptosteel.com/) — The Mother of All Backups
-- [ELLIPAL](https://www.ellipal.com/) — Leader of Air-gapped Crypto Hardware Wallet
-- [Keystone](https://keyst.one/) — Best Open Source Cold Wallet & Hardware Wallet
-- [Ledger](https://www.ledger.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/ledgerhq) — Hardware Wallet
-- [OneKey](https://onekey.so/) — Hardware Wallet & Crypto DeFi Wallet | Crypto Security
-- [OnlyKey](https://onlykey.io/)
-- [SafePal Crypto Hardware Wallet](https://safepal.com/)
-- [Tangem Wallet](https://tangem.com/en/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/tangem) — The Secure Hardware & Crypto Wallet
-- [Trezor.io Hardware Wallet](https://trezor.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/trezor)
-- [Yubico](https://www.yubico.com/) — Strong two factor authentication
+### Cryptos
+- [Ayusocoin](https://ayusocoin.com/)
+- [BitClout](https://bitclout.com/)
+- [Bitcoin](https://bitcoin.org/en)
+- [Bitcoin Core](https://bitcoincore.org/)
+- [Bitcoincash](https://bitcoincash.org/)
+- [Block.one](https://block.one/)
+- [Coin Top List](https://cointoplist.net/)
+- [CoinGecko](https://www.coingecko.com/en)
+- [Coinhunt](https://coinhunt.cc/)
+- [CoinSniper](https://coinsniper.net/)
+- [Create My Token FREE](https://www.createmytoken.com/)
+- [CryptoCat Coin](https://cryptocat.app/)
+- [CryptoNWO](https://cryptonwo.io/)
+- [Dogecoin.com](https://dogecoin.com/)
+- [Dogecoin.info](https://dogechain.info/)
+- [Ethereum](https://ethereum.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/ethereum/ethereum-org-website)
+- [Ethereum Classic](https://ethereumclassic.org/)
+- [Firo.org](https://firo.org/)
+- [FreshCoins](https://freshcoins.io/)
+- [Gitcoin](https://gitcoin.co/)
+- [Gridcoin](https://www.gridcoinstats.eu/block)
+- [Hedera Hashgraph](https://hedera.com/)
+- [List of cryptocurrencies](https://en.wikipedia.org/wiki/List_of_cryptocurrencies)
+- [LiteCoin](https://litecoin.com/en)
+- [Monero](https://www.getmonero.org/) — secure, private, untraceable
+- [Namecoin](https://www.namecoin.org/)
+- [Nano](https://nano.org/)
+- [Nestegg Coin](https://www.nesteggcoin.com/)
+- [OtterCoin](https://www.ottercoinbsc.com/)
+- [Peercoin](https://www.peercoin.net/)
+- [PooCoin](https://poocoin.app/)
+- [Primecoin](https://primecoin.io/)
+- [Ravencoin](https://ravencoin.org/)
+- [Ripple](https://ripple.com/)
+- [Stopelon](https://stopelon.space/)
+- [Tether](https://tether.to/)
+- [Theta Token](https://www.thetatoken.org/)
+- [Vertcoin](https://vertcoin.org/)
+- [Worldcoin](https://worldcoin.org/) — For every human
+- [Wownero](https://wownero.org/) — Putting the fun in fungibility.
+- [Xe](https://www.xe.com/)
+- [Zcash](https://z.cash/)
+- [zkSync](https://zksync.io/) — Scaling the Ethos and technology of Ethereum
+
+#### Bitcoin
+- [Bitcoin Exchange](https://exchange.bitcoin.com/)
+- [Bitcoin Games](https://games.bitcoin.com/)
+- [Bitcoin Local](https://local.bitcoin.com/)
+- [Bitcoin Map](https://map.bitcoin.com/)
+- [Bitcoin Sell](https://sell.bitcoin.com/)
+- [Bitcoin Wallet](https://wallet.bitcoin.com/)
+- [Bitcoin.com](https://www.bitcoin.com/)
+- [Satoshi Nakamoto Institute](https://nakamotoinstitute.org/)
+
+### DeFi (Decentralized Finance)
+- [1inch](https://app.1inch.io/#/1/swap/ETH/DAI)
+- [Apache Fineract](https://fineract.apache.org/)
+- [AYYLMAOcoin](https://ayylmaocoin.com/)
+- [Belong Network](https://belong-network.com/)
+- [BlockCypher](https://www.blockcypher.com/)
+- [BSC Station (BSCS)](https://bscstation.org/)
+- [Cardano.org](https://cardano.org/)
+- [CertiK Blockchain](https://www.certik.com/)
+- [ConsenSys](https://consensys.net/) — Ethereum Solutions
+- [DeFi Yield Protocol](https://dyp.finance/)
+- [Dream Kollab](https://dreamkollab.com/)
+- [Equilibrium](https://equilibrium.io/en)
+- [FalconSwap](https://falconswap.com/)
+- [Hive](https://hive.io/)
+- [Hyperledger](https://www.hyperledger.org/) — The Open Global Ecosystem for Enterprise Blockchain
+- [Hypersign](https://hypersign.id/)
+- [INBlockchain](https://www.inblockchain.com/)
+- [Indexed](https://indexed.finance/)
+- [Ink](https://inkonchain.com/) — DeFi unleashed by Kraken, built on the Superchain
+- [Keyoxide](https://keyoxide.org/)
+- [Liquidity Finance](https://lido.fi/)
+- [Meteorite Finance](https://meteorite.network/)
+- [Neo Smart Economy](https://neo.org/)
+- [Olympus DAO](https://www.olympusdao.finance/)
+- [OVR](https://www.ovr.ai/)
+- [OVR Marketplace](https://marketplace.ovr.ai/map/discover)
+- [Polkadot](https://polkadot.network/)
+- [Polycat Finance](https://polycat.finance/)
+- [Polygon](https://polygon.technology/)
+- [QDAO DeFi](https://qdefi.io/en)
+- [Reef.finance](https://reef.finance/)
+- [Solana](https://solana.com/)
+- [Solana Explorer](https://explorer.solana.com/)
+- [SushiSwap](https://sushi.com/)
+- [tea.xyz](https://app.tea.xyz/) — Testnet to fuel the open-source software revolution
+- [Ubiq Smart](https://ubiqsmart.com/)
+- [Union](https://union.build/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/unionlabs/union)
+- [YAM Finance](https://yam.finance/)
+- [YFDAI.finance](https://yfdai.finance/)
+
+### Mining Pools
+- [AntPool](https://v3.antpool.com/home)
+- [Bitcoin mining](https://www.bitcoinmining.com/)
+- [BTC.com](https://btc.com/)
+- [Compass Mining](https://compassmining.io/)
+- [Ethermine.org](https://www.ethermine.org/)
+- [F2Pool](https://www.f2pool.com/)
+- [Foundry](https://foundrydigital.com/)
+- [NiceHash](https://www.nicehash.com/)
+- [Poolin](https://www.poolin.com/)
+- [SBICrypto Pool](https://sbicrypto.com/ja/)
+- [Slush Pool](https://slushpool.com/en/home/)
+- [ViaBTC](https://viabtcpool.com/)
 
 ### NFT
 - [AtomicHub.io](https://wax.atomichub.io/)
@@ -380,22 +396,6 @@ description: Banking, cryptocurrency, and financial tracking
 - [Tux.art](https://tux.art/#/)
 - [VR NFT](https://vr-nft.com/)
 - [ZORA](https://zora.co/) — NFT Marketplace Protocol
-
-### Blockchain Account
-- [ARK.io](https://ark.io/) — Blockchain Ecosystem
-- [Avalon Block Explorer](https://blocks.oneloved.tube/#/)
-- [BitTube.app](https://bittube.app/)
-- [Blockchains](https://blockchains.com/)
-- [Bloom.co](https://bloom.co/)
-- [Chainlink](https://chain.link/)
-- [Dune Dashboards](https://dune.com/browse/dashboards)
-- [Meson.Network](https://meson.network/)
-- [Oxen](https://oxen.io/) — Privacy made simple.
-- [Steem](https://steem.com/)
-- [Terra money](https://www.terra.money/)
-- [TON](https://ton.org/) — The Open Network
-- [VeChainThor](https://www.vechain.org/)
-- [Xoken.org](https://www.xoken.org/)
 
 ## Stock-Exchanges
 - [ASX](https://www2.asx.com.au/)

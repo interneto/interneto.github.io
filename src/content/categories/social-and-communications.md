@@ -125,10 +125,159 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [Xtreme Download Manager](https://xtremedownloadmanager.com/)
 - [YTD](https://www.ytddownloader.com/en/) — Free Video Downloads
 
+### Client Downloader
+- ⭐ **[Soulseek](https://www.slsknet.org/news/)**
+- [DC++](https://dcplusplus.sourceforge.io/) — SourceForge
+- [FreeTube](https://freetubeapp.io/) — The private YouTube Client
+- [gMTP](https://gmtp.sourceforge.io/) — Media Player Client
+- [JunkFood02/Seal · GitHub](https://github.com/JunkFood02/Seal)
+- [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) — :cake: Desktop utility to download images/videos/music/text from various websites, and more.
+- [mikf/gallery-dl](https://github.com/mikf/gallery-dl) — Command-line program to download image galleries and collections from several image hosting sites
+- [Minitube](https://flavio.tordini.org/minitube)
+- [Motrix](https://motrix.app/)
+- [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic) — Download web video and audio
+- [Nicotine+](https://nicotine-plus.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/nicotine-plus/nicotine-plus)
+- [Pipe-viewer · GitHub](https://github.com/trizen/pipe-viewer)
+- [prateekmedia/pstube · GitHub](https://github.com/prateekmedia/pstube)
+- [recloudstream/cloudstream · GitHub](https://github.com/recloudstream/cloudstream)
+- [Sftube · GitHub](https://github.com/prateekmedia/sftube)
+- [Streamlink](https://streamlink.github.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/streamlink/streamlink)
+- [tonikelope/megabasterd · GitHub](https://github.com/tonikelope/megabasterd)
+- [ytDownloader](https://ytdn.netlify.app/) — netlify
+
+#### BitTorrent Client
+- ⭐ **[qBittorrent](https://www.qbittorrent.org/)**
+- ⭐ **[Transmission](https://transmissionbt.com/)**
+- ⭐ **[Webtor.io](https://webtor.io/#/)** — Download and play torrents
+- ⭐ **[WebTorrent](https://webtorrent.io/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/webtorrent/webtorrent) — Streaming browser torrent client
+- [alanmcgovern/monotorrent · GitHub](https://github.com/alanmcgovern/monotorrent)
+- [aMule, the all-platform eMule-like P2P client](https://www.amule.org/) / [![SourceForge](/img/source-hosts/sourceforge.svg)](https://sourceforge.net/projects/amule/files/aMule/)
+- [ArabP2P](https://www.arabp2p.net/)
+- [aTube Catcher](https://www.atube.me/)
+- [axet / android-torrent-client · GitLab](https://gitlab.com/axet/android-torrent-client)
+- [BiglyBT](https://www.biglybt.com/)
+- [BitComet](https://www.bitcomet.com/en)
+- [BitLord](https://www.bitlord.com/)
+- [Bitport.io](https://bitport.io/welcome)
+- [Bitso24](https://bitso24.com/) — Torrent downloader & Seedbox
+- [BitTorrent](https://www.bittorrent.com/)
+- [Deluge](https://deluge-torrent.org/) — BitTorrent Client
+- [Distribyted](https://distribyted.com/v0.10.0/)
+- [eMule-Project](https://www.emule-project.net/home/perl/general.cgi?l=17)
+- [eMule-Project](https://www.emule-project.com/home/perl/general.cgi)
+- [Flood](https://flood.js.org/)
+- [Flud](https://delphisoftwares.com/flud) — Torrent Downloader - Delphi Softwares
+- [FrostWire](https://www.frostwire.com/)
+- [hotheadhacker/seedbox-lite](https://github.com/hotheadhacker/seedbox-lite) — A light-weight torrent media center at one place
+- [Jackett/Jackett · GitHub](https://github.com/Jackett/Jackett)
+- [KTorrent](https://apps.kde.org/ktorrent/)
+- [Libretorrent · GitLab](https://gitlab.com/proninyaroslav/libretorrent)
+- [libtorrent](https://www.libtorrent.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/arvidn/libtorrent)
+- [PicoTorrent](https://picotorrent.org/)
+- [Popcorn-desktop](https://github.com/popcorn-official/popcorn-desktop)
+- [qui](https://getqui.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/autobrr/qui)
+- [rakshasa/rtorrent · GitHub](https://github.com/rakshasa/rtorrent)
+- [Tixati.com](https://www.tixati.com/)
+- [TorrDroid](https://torrdroid.in/)
+- [Tribler](https://www.tribler.org/)
+- [Vuze Bittorrent Client](https://www.vuze.com/)
+- [World / Fragments · GitLab](https://gitlab.gnome.org/World/Fragments)
+- [μTorrent](https://www.utorrent.com/)
+
+#### Usenet Client
+- ⭐ **[Medusa](https://pymedusa.com/)**
+- ⭐ **[SickChill](https://sickchill.github.io/)**
+- [animetosho/Nyuu · GitHub](https://github.com/animetosho/Nyuu)
+- [Bazarr](https://www.bazarr.media/)
+- [CouchPotato/CouchPotatoServer · GitHub](https://github.com/CouchPotato/CouchPotatoServer/)
+- [lardbit/nefarious · GitHub](https://github.com/lardbit/nefarious)
+- [LazyLibrarian / LazyLibrarian · GitLab](https://gitlab.com/LazyLibrarian/LazyLibrarian)
+- [mylar3/mylar3 · GitHub](https://github.com/mylar3/mylar3)
+- [Newsbin Pro Software](https://www.newsbin.com/)
+- [Nzb Leech](https://play.google.com/store/apps/details?id=sic.nzb.app) — Google Play Store
+- [NZBGet](https://nzbget.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/nzbgetcom/nzbget) — The Ultimate NZB Client
+- [NZBGet](https://nzbget.net/) — Usenet downloader
+- [Prowlarr/Prowlarr · GitHub](https://github.com/Prowlarr/Prowlarr/)
+- [Readarr](https://readarr.com/)
+- [rembo10/headphones](https://github.com/rembo10/headphones) — music downloader for SABnzbd
+- [SABnzbd](https://sabnzbd.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/sabnzbd/sabnzbd)
+- [SchizoDuckie/DuckieTV · GitHub](https://github.com/SchizoDuckie/DuckieTV)
+- [SiCKRAGE](https://www.sickrage.ca/)
+- [theotherp/nzbhydra2](https://github.com/theotherp/nzbhydra2) — Usenet meta search
+- [Whisparr](https://whisparr.com/)
+
 ### Media Downloader
 - [DocDownloader](https://docdownloader.com/) — Scribd Downloader, Issuu Downloader
 - [Downloader by AFTVnews](https://play.google.com/store/apps/details?id=com.esaba.downloader) — Apps on Google Play
 - [Scribd](https://www.scribd.com/embeds/YOURIDHERE/content) — embed (downloader)
+
+#### Captions dl
+- [Captionz](https://pnlpal.dev/captionz) — pnlpal
+- [DownSub](https://downsub.com/)
+- [Reddit Downloader](https://redds.tube/)
+- [Savesubs](https://savesubs.com/)
+- [Subtitle Downloader](https://www.vidpaw.com/subtitle-downloader)
+- [Your subtitle](https://www.yousubtitles.com/)
+
+#### Image dl
+- ⭐ **[Bulk Image Downloader](https://bulkimagedownloader.com/)**
+- ⭐ **[Instaloader](https://instaloader.github.io/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/instaloader/instaloader) — Download Instagram Photos and Metadata
+- [belaviyo/save-images](https://github.com/belaviyo/save-images) — Save loaded images in nested iframe pages
+- [cobalt](https://co.wukko.me/)
+- [CocoCut](https://cococut.net/)
+- [Dezaimasu/cute-button · GitHub](https://github.com/Dezaimasu/cute-button)
+- [DownAlbum](https://chromewebstore.google.com/detail/downalbum/cgjnhhjpfcdhbhlcmmjppicjmgfkppok) — Chrome Web Store
+- [Download all images](https://download-all-images.mobilefirst.me/)
+- [DownThemAll!](https://www.downthemall.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/downthemall/downthemall)
+- [Eagle.cool](https://en.eagle.cool/extensions) — Save images extension
+- [Extract.pics](https://extract.pics/)
+- [FreePik Downloader](https://freepik-downloader.beatsnoop.com/?m=1)
+- [Full DP](https://fulldp.co/)
+- [GitHub](https://github.com/mcdamo/tab-image-saver) — mcdamo/tab-image-saver · GitHub
+- [Har-tools · GitHub](https://github.com/outersky/har-tools)
+- [Image downloader](https://chromewebstore.google.com/detail/image-downloader-imageye/agionbommeaifngbhincahgmoflcikhm) — Imageye - Chrome Web Store
+- [Imageye](https://www.imageye.net/) — From Any Site
+- [Online Image Downloader](https://goonlinetools.com/online-image-downloader/)
+- [Pac interactive](https://pactinteractive.github.io/image-downloader/) — image downloader
+- [pinbackit/pinback](https://github.com/pinbackit/pinback) — Backup and export bookmarklet for Pinterest
+- [RipMeApp/ripme · GitHub](https://github.com/RipMeApp/ripme)
+- [Save images from dev tools network](https://gist.github.com/tobek/a17fa9101d7e28ddad26)
+- [Your Video File](https://www.yourvideofile.org/) — YouTube video downloader
+
+#### Music dl
+- ⭐ **[Rafiuth/Soggfy](https://github.com/Rafiuth/Soggfy)** — Spotify ogg dumper
+- [cnovel/PodcastBulkDownloader](https://github.com/cnovel/PodcastBulkDownloader) — Simple software for downloading podcasts
+- [Deezloader » Enjoy free High-Quality Songs, Albums & Playlists](https://www.deezloader.app/)
+- [Free MP3 Download](https://free-mp3-download.net/) — Free 320kbps MP3 and FLAC Downloads
+- [Free MP3 Downloads](https://freemp3downloads.online/)
+- [Free MP3 Finder](https://www.amoyshare.com/free-mp3-finder)
+- [Freemusicdownloads](https://freemusicdownloads.world/en)
+- [iMusic](https://imusic.aimersoft.com/) — Music Manager
+- [irs (Music metadata)](https://github.com/cooperhammond/irs)
+- [justin025/onthespot · GitHub](https://github.com/justin025/onthespot)
+- [Mp3 Juice](https://mp3-juice.com/)
+- [Mp3download](https://mp3download.center/)
+- [Mp3download.to](https://mp3download.to/24-downloader)
+- [MP3Juices](https://www.mp3juices.cc/)
+- [MP3Juices](https://mp3juicemusic.site/)
+- [MP3teca](https://mp3teca.com/)
+- [MP3XD](https://mp3xd.be/)
+- [Slider.kz](https://slider.kz/)
+- [SonarMP3](https://v1.sonarmp3.net/)
+- [SoulSync](https://ssync.net/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Nezreka/SoulSync) — Automated Music Discovery and Collection Manager
+- [Soundcloud Downloader](https://www.soundcloudme.com/)
+- [Soundcloud To MP3](https://www.soundcloudme.com/download)
+- [SoundCloud to MP3](https://www.dltracks.com/en)
+- [spotDL/spotify-downloader · GitHub](https://github.com/spotDL/spotify-downloader/)
+- [Spotify Downloader](https://spotify-downloader.com/)
+- [StreamFox](https://www.streamfox.org/) — Ultimate Lossless Music and Video Converter
+- [Tubidy](https://tubidy.mobi/)
+- [Tubidy Mp3](https://tubidy.dj/)
+- [UrbanoMP3](https://wvw.urbanomp3.com/)
+- [YandexMusic.pro](https://yandexmusic.pro/) — скачать музыку с Яндекс.Музыка
+- [zarzet/SpotiFLAC-Mobile · GitHub](https://github.com/zarzet/SpotiFLAC-Mobile)
+- [Zene.dl](https://zene.download/)
+- [ZHouse.org](https://zhouse.org/)
 
 #### Video dl
 - ⭐ **[JDownloader](https://jdownloader.org/)** / [🔗](https://beta.jdownloader.org/development)
@@ -213,6 +362,29 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [YTD Video Converter](https://www.ytddownloader.com/)
 - [YTDLnis](https://ytdlnis.org/)
 
+##### Instagram dl
+- [Gramsaver](https://gramsaver.com/)
+- [IG Downloader](https://igdownloader.app/en)
+- [Igram.io](https://igram.io/)
+- [InstagramDownloads](https://instagramdownloads.com/)
+- [SaveInsta](https://saveinsta.app/en1) — Download Instagram Video
+- [Snapinsta](https://snapinsta.app/)
+- [Sssinstagram](https://sssinstagram.com/)
+
+##### Thumbnail dl
+- [Thumbnail Youtube video](https://img.youtube.com/vi/uQITWbAaDx0/maxresdefault.jpg)
+- [ThumbnailSave](https://thumbnailsave.com/)
+- [Youtube thumbnail Grabber](https://youtube-thumbnail-grabber.com/)
+- [YTimg ID](https://i.ytimg.com/vi/gocwRvLhDf8/hq720.jpg)
+
+##### Twitch dl
+- [Clip.ninja](https://clip.ninja/)
+- [Clipr.xyz](https://clipr.xyz/)
+- [Clipsey](https://clipsey.com/)
+- [TDL (Twitch downloader)](https://play.google.com/store/apps/details?id=com.twitch.downloader) — Google Play
+- [Twiclips](https://twiclips.com/)
+- [UnTwitch](https://untwitch.com/)
+
 ##### YouTube dl
 - ⭐ **[9covert.com](https://9convert.com/en100)**
 - ⭐ **[aandrew-me/ytDownloader · GitHub](https://github.com/aandrew-me/ytDownloader)**
@@ -244,177 +416,15 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [YT1s.com](https://yt1s.com/en95)
 - [YT5s.com](https://yt5s.com/en91)
 
-##### Thumbnail dl
-- [Thumbnail Youtube video](https://img.youtube.com/vi/uQITWbAaDx0/maxresdefault.jpg)
-- [ThumbnailSave](https://thumbnailsave.com/)
-- [Youtube thumbnail Grabber](https://youtube-thumbnail-grabber.com/)
-- [YTimg ID](https://i.ytimg.com/vi/gocwRvLhDf8/hq720.jpg)
-
-##### Twitch dl
-- [Clip.ninja](https://clip.ninja/)
-- [Clipr.xyz](https://clipr.xyz/)
-- [Clipsey](https://clipsey.com/)
-- [TDL (Twitch downloader)](https://play.google.com/store/apps/details?id=com.twitch.downloader) — Google Play
-- [Twiclips](https://twiclips.com/)
-- [UnTwitch](https://untwitch.com/)
-
-##### Instagram dl
-- [Gramsaver](https://gramsaver.com/)
-- [IG Downloader](https://igdownloader.app/en)
-- [Igram.io](https://igram.io/)
-- [InstagramDownloads](https://instagramdownloads.com/)
-- [SaveInsta](https://saveinsta.app/en1) — Download Instagram Video
-- [Snapinsta](https://snapinsta.app/)
-- [Sssinstagram](https://sssinstagram.com/)
-
-#### Music dl
-- ⭐ **[Rafiuth/Soggfy](https://github.com/Rafiuth/Soggfy)** — Spotify ogg dumper
-- [cnovel/PodcastBulkDownloader](https://github.com/cnovel/PodcastBulkDownloader) — Simple software for downloading podcasts
-- [Deezloader » Enjoy free High-Quality Songs, Albums & Playlists](https://www.deezloader.app/)
-- [Free MP3 Download](https://free-mp3-download.net/) — Free 320kbps MP3 and FLAC Downloads
-- [Free MP3 Downloads](https://freemp3downloads.online/)
-- [Free MP3 Finder](https://www.amoyshare.com/free-mp3-finder)
-- [Freemusicdownloads](https://freemusicdownloads.world/en)
-- [iMusic](https://imusic.aimersoft.com/) — Music Manager
-- [irs (Music metadata)](https://github.com/cooperhammond/irs)
-- [justin025/onthespot · GitHub](https://github.com/justin025/onthespot)
-- [Mp3 Juice](https://mp3-juice.com/)
-- [Mp3download](https://mp3download.center/)
-- [Mp3download.to](https://mp3download.to/24-downloader)
-- [MP3Juices](https://www.mp3juices.cc/)
-- [MP3Juices](https://mp3juicemusic.site/)
-- [MP3teca](https://mp3teca.com/)
-- [MP3XD](https://mp3xd.be/)
-- [Slider.kz](https://slider.kz/)
-- [SonarMP3](https://v1.sonarmp3.net/)
-- [SoulSync](https://ssync.net/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Nezreka/SoulSync) — Automated Music Discovery and Collection Manager
-- [Soundcloud Downloader](https://www.soundcloudme.com/)
-- [Soundcloud To MP3](https://www.soundcloudme.com/download)
-- [SoundCloud to MP3](https://www.dltracks.com/en)
-- [spotDL/spotify-downloader · GitHub](https://github.com/spotDL/spotify-downloader/)
-- [Spotify Downloader](https://spotify-downloader.com/)
-- [StreamFox](https://www.streamfox.org/) — Ultimate Lossless Music and Video Converter
-- [Tubidy](https://tubidy.mobi/)
-- [Tubidy Mp3](https://tubidy.dj/)
-- [UrbanoMP3](https://wvw.urbanomp3.com/)
-- [YandexMusic.pro](https://yandexmusic.pro/) — скачать музыку с Яндекс.Музыка
-- [zarzet/SpotiFLAC-Mobile · GitHub](https://github.com/zarzet/SpotiFLAC-Mobile)
-- [Zene.dl](https://zene.download/)
-- [ZHouse.org](https://zhouse.org/)
-
-#### Captions dl
-- [Captionz](https://pnlpal.dev/captionz) — pnlpal
-- [DownSub](https://downsub.com/)
-- [Reddit Downloader](https://redds.tube/)
-- [Savesubs](https://savesubs.com/)
-- [Subtitle Downloader](https://www.vidpaw.com/subtitle-downloader)
-- [Your subtitle](https://www.yousubtitles.com/)
-
-#### Image dl
-- ⭐ **[Bulk Image Downloader](https://bulkimagedownloader.com/)**
-- ⭐ **[Instaloader](https://instaloader.github.io/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/instaloader/instaloader) — Download Instagram Photos and Metadata
-- [belaviyo/save-images](https://github.com/belaviyo/save-images) — Save loaded images in nested iframe pages
-- [cobalt](https://co.wukko.me/)
-- [CocoCut](https://cococut.net/)
-- [Dezaimasu/cute-button · GitHub](https://github.com/Dezaimasu/cute-button)
-- [DownAlbum](https://chromewebstore.google.com/detail/downalbum/cgjnhhjpfcdhbhlcmmjppicjmgfkppok) — Chrome Web Store
-- [Download all images](https://download-all-images.mobilefirst.me/)
-- [DownThemAll!](https://www.downthemall.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/downthemall/downthemall)
-- [Eagle.cool](https://en.eagle.cool/extensions) — Save images extension
-- [Extract.pics](https://extract.pics/)
-- [FreePik Downloader](https://freepik-downloader.beatsnoop.com/?m=1)
-- [Full DP](https://fulldp.co/)
-- [GitHub](https://github.com/mcdamo/tab-image-saver) — mcdamo/tab-image-saver · GitHub
-- [Har-tools · GitHub](https://github.com/outersky/har-tools)
-- [Image downloader](https://chromewebstore.google.com/detail/image-downloader-imageye/agionbommeaifngbhincahgmoflcikhm) — Imageye - Chrome Web Store
-- [Imageye](https://www.imageye.net/) — From Any Site
-- [Online Image Downloader](https://goonlinetools.com/online-image-downloader/)
-- [Pac interactive](https://pactinteractive.github.io/image-downloader/) — image downloader
-- [pinbackit/pinback](https://github.com/pinbackit/pinback) — Backup and export bookmarklet for Pinterest
-- [RipMeApp/ripme · GitHub](https://github.com/RipMeApp/ripme)
-- [Save images from dev tools network](https://gist.github.com/tobek/a17fa9101d7e28ddad26)
-- [Your Video File](https://www.yourvideofile.org/) — YouTube video downloader
-
-### Client Downloader
-- ⭐ **[Soulseek](https://www.slsknet.org/news/)**
-- [DC++](https://dcplusplus.sourceforge.io/) — SourceForge
-- [FreeTube](https://freetubeapp.io/) — The private YouTube Client
-- [gMTP](https://gmtp.sourceforge.io/) — Media Player Client
-- [JunkFood02/Seal · GitHub](https://github.com/JunkFood02/Seal)
-- [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) — :cake: Desktop utility to download images/videos/music/text from various websites, and more.
-- [mikf/gallery-dl](https://github.com/mikf/gallery-dl) — Command-line program to download image galleries and collections from several image hosting sites
-- [Minitube](https://flavio.tordini.org/minitube)
-- [Motrix](https://motrix.app/)
-- [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic) — Download web video and audio
-- [Nicotine+](https://nicotine-plus.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/nicotine-plus/nicotine-plus)
-- [Pipe-viewer · GitHub](https://github.com/trizen/pipe-viewer)
-- [prateekmedia/pstube · GitHub](https://github.com/prateekmedia/pstube)
-- [recloudstream/cloudstream · GitHub](https://github.com/recloudstream/cloudstream)
-- [Sftube · GitHub](https://github.com/prateekmedia/sftube)
-- [Streamlink](https://streamlink.github.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/streamlink/streamlink)
-- [tonikelope/megabasterd · GitHub](https://github.com/tonikelope/megabasterd)
-- [ytDownloader](https://ytdn.netlify.app/) — netlify
-
-#### BitTorrent Client
-- ⭐ **[qBittorrent](https://www.qbittorrent.org/)**
-- ⭐ **[Transmission](https://transmissionbt.com/)**
-- ⭐ **[Webtor.io](https://webtor.io/#/)** — Download and play torrents
-- ⭐ **[WebTorrent](https://webtorrent.io/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/webtorrent/webtorrent) — Streaming browser torrent client
-- [alanmcgovern/monotorrent · GitHub](https://github.com/alanmcgovern/monotorrent)
-- [aMule, the all-platform eMule-like P2P client](https://www.amule.org/) / [![SourceForge](/img/source-hosts/sourceforge.svg)](https://sourceforge.net/projects/amule/files/aMule/)
-- [ArabP2P](https://www.arabp2p.net/)
-- [aTube Catcher](https://www.atube.me/)
-- [axet / android-torrent-client · GitLab](https://gitlab.com/axet/android-torrent-client)
-- [BiglyBT](https://www.biglybt.com/)
-- [BitComet](https://www.bitcomet.com/en)
-- [BitLord](https://www.bitlord.com/)
-- [Bitport.io](https://bitport.io/welcome)
-- [Bitso24](https://bitso24.com/) — Torrent downloader & Seedbox
-- [BitTorrent](https://www.bittorrent.com/)
-- [Deluge](https://deluge-torrent.org/) — BitTorrent Client
-- [Distribyted](https://distribyted.com/v0.10.0/)
-- [eMule-Project](https://www.emule-project.net/home/perl/general.cgi?l=17)
-- [eMule-Project](https://www.emule-project.com/home/perl/general.cgi)
-- [Flood](https://flood.js.org/)
-- [Flud](https://delphisoftwares.com/flud) — Torrent Downloader - Delphi Softwares
-- [FrostWire](https://www.frostwire.com/)
-- [hotheadhacker/seedbox-lite](https://github.com/hotheadhacker/seedbox-lite) — A light-weight torrent media center at one place
-- [Jackett/Jackett · GitHub](https://github.com/Jackett/Jackett)
-- [KTorrent](https://apps.kde.org/ktorrent/)
-- [Libretorrent · GitLab](https://gitlab.com/proninyaroslav/libretorrent)
-- [libtorrent](https://www.libtorrent.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/arvidn/libtorrent)
-- [PicoTorrent](https://picotorrent.org/)
-- [Popcorn-desktop](https://github.com/popcorn-official/popcorn-desktop)
-- [qui](https://getqui.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/autobrr/qui)
-- [rakshasa/rtorrent · GitHub](https://github.com/rakshasa/rtorrent)
-- [Tixati.com](https://www.tixati.com/)
-- [TorrDroid](https://torrdroid.in/)
-- [Tribler](https://www.tribler.org/)
-- [Vuze Bittorrent Client](https://www.vuze.com/)
-- [World / Fragments · GitLab](https://gitlab.gnome.org/World/Fragments)
-- [μTorrent](https://www.utorrent.com/)
-
-#### Usenet Client
-- ⭐ **[Medusa](https://pymedusa.com/)**
-- ⭐ **[SickChill](https://sickchill.github.io/)**
-- [animetosho/Nyuu · GitHub](https://github.com/animetosho/Nyuu)
-- [Bazarr](https://www.bazarr.media/)
-- [CouchPotato/CouchPotatoServer · GitHub](https://github.com/CouchPotato/CouchPotatoServer/)
-- [lardbit/nefarious · GitHub](https://github.com/lardbit/nefarious)
-- [LazyLibrarian / LazyLibrarian · GitLab](https://gitlab.com/LazyLibrarian/LazyLibrarian)
-- [mylar3/mylar3 · GitHub](https://github.com/mylar3/mylar3)
-- [Newsbin Pro Software](https://www.newsbin.com/)
-- [Nzb Leech](https://play.google.com/store/apps/details?id=sic.nzb.app) — Google Play Store
-- [NZBGet](https://nzbget.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/nzbgetcom/nzbget) — The Ultimate NZB Client
-- [NZBGet](https://nzbget.net/) — Usenet downloader
-- [Prowlarr/Prowlarr · GitHub](https://github.com/Prowlarr/Prowlarr/)
-- [Readarr](https://readarr.com/)
-- [rembo10/headphones](https://github.com/rembo10/headphones) — music downloader for SABnzbd
-- [SABnzbd](https://sabnzbd.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/sabnzbd/sabnzbd)
-- [SchizoDuckie/DuckieTV · GitHub](https://github.com/SchizoDuckie/DuckieTV)
-- [SiCKRAGE](https://www.sickrage.ca/)
-- [theotherp/nzbhydra2](https://github.com/theotherp/nzbhydra2) — Usenet meta search
-- [Whisparr](https://whisparr.com/)
+### Media Indexer Manager
+- ⭐ **[Seerr](https://seerr.dev/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/seerr-team/seerr)
+- ⭐ **[Sonarr.tv](https://sonarr.tv/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/Sonarr/Sonarr)
+- ⭐ **[Wiki Servarr](https://wiki.servarr.com/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/Servarr/Wiki)
+- [GitHub](https://github.com/Phoenixx1202/Spectrum-Library) — Phoenixx1202/Spectrum-Library · GitHub
+- [Lidarr](https://lidarr.audio/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Lidarr/Lidarr)
+- [Prowlarr](https://prowlarr.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Prowlarr/Prowlarr)
+- [Radarr.video](https://radarr.video/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Radarr/Radarr)
+- [Whisparr](https://whisparr.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Whisparr/Whisparr)
 
 ### Web Crawler
 - ⭐ **[AAndyProgram/SCrawler · GitHub](https://github.com/AAndyProgram/SCrawler)**
@@ -461,16 +471,6 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [Print Friendly PDF](https://www.printfriendly.com/)
 - [SingleFile](https://www.getsinglefile.com/) — Effortlessly Save and Preserve Web Pages
 
-### Media Indexer Manager
-- ⭐ **[Seerr](https://seerr.dev/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/seerr-team/seerr)
-- ⭐ **[Sonarr.tv](https://sonarr.tv/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/Sonarr/Sonarr)
-- ⭐ **[Wiki Servarr](https://wiki.servarr.com/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/Servarr/Wiki)
-- [GitHub](https://github.com/Phoenixx1202/Spectrum-Library) — Phoenixx1202/Spectrum-Library · GitHub
-- [Lidarr](https://lidarr.audio/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Lidarr/Lidarr)
-- [Prowlarr](https://prowlarr.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Prowlarr/Prowlarr)
-- [Radarr.video](https://radarr.video/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Radarr/Radarr)
-- [Whisparr](https://whisparr.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Whisparr/Whisparr)
-
 ## Email Account
 - [addy.io](https://addy.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/anonaddy/anonaddy) — Free, Open-source Anonymous Email Forwarding
 - [AnonAddy](https://anonaddy.com/)
@@ -502,6 +502,19 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [Yandex.Mail](https://mail.yandex.com/)
 - [Zoho Mail](https://www.zoho.com/mail)
 
+### Encrypt Email
+- [CTemplar](https://ctemplar.com/) — Anonymus encripted email
+- [Enigmail](https://www.enigmail.net/index.php/en/)
+- [Kolab Now](https://kolabnow.com/)
+- [Kopano](https://kopano.com/)
+- [mailbox.org](https://mailbox.org/en/)
+- [Mailfence](https://mailfence.com/) — Secure and private email
+- [Neomailbox](https://www.neomailbox.com/)
+- [OpenPGP](https://www.openpgp.org/)
+- [riseup.net](https://riseup.net/en)
+- [SimpleLogin](https://simplelogin.io/)
+- [Skiff](https://skiff.com/) — Private, encrypted, secure email
+
 ### Temporary Mail
 - [10 Minute Mail](https://10minutemail.com/)
 - [10 Minutes Email](https://10minemail.com/)
@@ -528,19 +541,6 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [Tempr.email](https://tempr.email/en/) — Best Temp Mail Address / TrashMail / Fake email
 - [YOPmail](https://yopmail.com/en/)
 - [Zemail](https://zemail.me/) — Instant Disposable Gmail & Temporary Email
-
-### Encrypt Email
-- [CTemplar](https://ctemplar.com/) — Anonymus encripted email
-- [Enigmail](https://www.enigmail.net/index.php/en/)
-- [Kolab Now](https://kolabnow.com/)
-- [Kopano](https://kopano.com/)
-- [mailbox.org](https://mailbox.org/en/)
-- [Mailfence](https://mailfence.com/) — Secure and private email
-- [Neomailbox](https://www.neomailbox.com/)
-- [OpenPGP](https://www.openpgp.org/)
-- [riseup.net](https://riseup.net/en)
-- [SimpleLogin](https://simplelogin.io/)
-- [Skiff](https://skiff.com/) — Private, encrypted, secure email
 
 ## Email Client
 - ⭐ **[Thunderbird](https://www.thunderbird.net/en-US/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/thunderbird)
@@ -592,120 +592,205 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [pump.io](http://pump.io/)
 - [SEEK](https://www.seek.com.au/) — Australia's no. 1 jobs, employment, career and recruitment site
 
-### Social Media
-- ⭐ **[Facebook](https://www.facebook.com/)**
-- ⭐ **[Reddit](https://www.reddit.com/)** — Dive into anything
-- ⭐ **[X (Twitter)](https://x.com/)**
-- [Bluesky](https://bsky.app/)
-- [Bonfire](https://bonfirenetworks.org/)
-- [Bookwyrm](https://joinbookwyrm.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/bookwyrm-social/bookwyrm)
-- [Cent](https://beta.cent.co/~discover)
-- [Coracle](https://info.coracle.social/)
-- [CounterSocial](https://counter.social/index.html)
-- [diaspora-fr](https://diaspora-fr.org/)
-- [Douyin (TikTok)](https://www.douyin.com/recommend)
-- [Firefish](https://joinfirefish.org/)
-- [GETTR](https://gettr.com/trending)
-- [Hive Social](https://www.hivesocial.app/)
-- [Lectrn](https://lectrn.com/)
-- [Lilt](https://lilt.social/)
-- [Manyverse](https://www.manyver.se/) — a social network off the grid
-- [microblog.pub](https://microblog.pub/)
-- [Minds](https://www.minds.com/) — Social network
-- [Misskey Hub](https://misskey-hub.net/en/)
-- [mixi](https://mixi.jp/)
-- [Mixpost](https://mixpost.app/) — Self-Hosted Social Media Management Software
-- [moltbook](https://www.moltbook.com/) — the front page of the agent internet
-- [OK.RU](https://ok.ru/)
-- [Openvibe](https://openvibe.social/) — Town Square for Open Social Media
-- [Plebstr](https://plebstr.com/) — friendly Nostr client
-- [Poal](https://poal.co/hot) — Say
-- [Primal](https://primal.net/home)
-- [QQ Qzone](https://qzone.qq.com/)
-- [Reddit (old)](https://old.reddit.com/)
-- [Savee](https://savee.it/)
-- [Skyrock](https://www.skyrock.com/)
-- [Socialhome](https://socialhome.network/)
-- [Steemit](https://steemit.com/)
-- [Threads](https://www.threads.net/login)
-- [Threads](https://www.threads.net/)
-- [Threads • Log in](https://www.threads.com/)
-- [Trodl](https://trodl.com/)
-- [Truth Social](https://truthsocial.com/)
-- [Tumblr](https://www.tumblr.com/explore/trending)
-- [Twitter](https://twitter.com/explore)
-- [Vero.co](https://vero.co/)
-- [Vibely app](https://app.vibely.io/)
-- [Vibuk](https://www.vibuk.com/)
-- [VK](https://vk.com/)
-- [Weibo](https://weibo.com/index.php)
-- [WT.Social](https://wt.social/)
+### Anonymous Social
+- [Ablo](https://ablo.live/#/landing/getstarted)
+- [ASKfm](https://ask.fm/)
+- [Blind](https://www.teamblind.com/)
+- [F3](https://f3.cool/)
+- [Freenet](https://freenetproject.org/)
+- [LMK](https://www.lmk.chat/)
+- [Tellonym](https://tellonym.me/)
+- [Yubo](https://www.yubo.live/)
 
-#### Photo Social
-- [1x.com](https://1x.com/)
-- [Bere.al](https://bereal.com/)
-- [BeReal](https://bereal.com/en/) — Your Friends for Real.
-- [Clash app](https://clashapp.co/)
-- [Clos app](https://closapp.space/)
-- [Cosmos.so](https://www.cosmos.so/)
-- [Fotki](https://www.fotki.com/us/en)
-- [Foto app](https://fotoapp.co/)
-- [GIPHY](https://giphy.com/) — Be animated
-- [Gridsky](https://gridsky.social/) — Bluesky with creativity superpowers
-- [ImgCrack](https://imgcrk.com/)
-- [Instagram](https://www.instagram.com/)
-- [Kwai](https://www.kwai.com/)
-- [Likee](https://likee.video/discover)
-- [Likee](https://likee.video/) — Short Video Community
-- [Mix.com](https://mix.com/)
-- [Nirvana Magazine](https://nirvanamagazine.com/)
-- [Pholder](https://pholder.com/)
-- [Photo Lab](https://photolab.me/)
-- [PicsArt](https://picsart.com/explore) — Explore
-- [Pinterest](https://www.pinterest.com/)
-- [pixelfed](https://pixelfed.social/)
-- [Pixelfed](https://pixelfed.org/) — Decentralized social media
-- [Retro](https://www.retro.app/) — phto journal social
-- [Snapchat](https://www.snapchat.com/)
-- [TikTok](https://www.tiktok.com/)
-- [Triller.co](https://triller.co/)
-- [We Heart It](https://weheartit.com/)
-- [YouNow](https://www.younow.com/explore)
-- [Zcool.cn](https://www.zcool.com.cn/home)
-- [小红书](https://www.xiaohongshu.com/explore) — 你的生活指南
+### Crypto Network
+- [Belacam](https://www.belacam.com/)
+- [Flote](https://flote.app/)
+- [Stratus.co](https://stratus.co/)
 
-#### Social News Aggregation
-- [Amino](https://aminoapps.com/explore/en) — Explore
-- [Divisions by zero](https://lemmy.dbzer0.com/) — Lemmy
-- [Geekser](https://geekser.com/)
-- [HItRecord](https://hitrecord.org/)
-- [Hoyolab.com](https://www.hoyolab.com/)
-- [Kbin on Artemis](https://artemis.camp/)
-- [kbin.pub](https://kbin.pub/en) — Fediverse of content
-- [Lemmy](https://join-lemmy.org/) — A link aggregator for the fediverse
-- [LeoFinance](https://leofinance.io/)
-- [Pocket](https://getpocket.com/explore) — Explore
-- [Remote Stories](https://www.remotestories.com/)
-- [sansan0/TrendRadar · GitHub](https://github.com/sansan0/TrendRadar)
-- [Sopuli](https://sopuli.xyz/) — A general-purpose instance run by a Finn - everyone is welcome here!
-- [Startupy](https://beta.startupy.world/)
+### Dashboard
+- [daily.dev](https://daily.dev/)
+- [dokieli](https://dokie.li/)
+- [Lemmy](https://lemmy.ml/)
+- [Lobste.rs](https://lobste.rs/)
+- [Post News](https://post.news/)
+- [Saidit.net](https://saidit.net/) — Say your truth
+- [Tildes](https://tildes.net/)
+- [TupiTube](https://www.tupitube.com/index.php)
+- [YourStack](https://yourstack.com/)
 
-#### Dev Social
-- [DEV.to](https://dev.to/)
-- [Polycount Newsfeed](https://polycount.com/)
-- [polywork.com](https://www.polywork.com/) — The Collaborative Network
-
-#### Mastodon
-- [Mastodon](https://joinmastodon.org/) — Decentralized social media
-- [Mastodon.social](https://mastodon.social/explore)
-
-#### Gaming Social
-- [80 Level](https://80.lv/)
-- [Plink.gg](https://plink.gg/)
+### Decentralized Networks
+- ⭐ **[Fediverse](https://fediverse.party/en/miscellaneous)** — All networks
+- [ActivityPub Rocks!](https://activitypub.rocks/)
+- [Aether](https://getaether.net/)
+- [Akkoma](https://akkoma.social/) — Magically Expressive Social Media
+- [cohost!](https://cohost.org/rc/welcome)
+- [Confidential Compute Open Network](https://cocoon.org/)
+- [Contentos.io](https://www.contentos.io/)
+- [Corteza](https://cortezaproject.org/) — Low-code app
+- [Diaspora](https://joindiaspora.com/)
+- [Diaspora](https://diasporafoundation.org/)
+- [Diaspora social](https://diasp.org/)
+- [Distributed social networking](https://en.wikipedia.org/wiki/Comparison_of_software_and_protocols_for_distributed_social_networking)
+- [DTF.ru](https://dtf.ru/)
+- [Fediverse](https://en.wikipedia.org/wiki/Fediverse)
+- [Fediverse Observer](https://fediverse.observer/)
+- [Fediverse.Party](https://fediverse.party/) — explore federated networks
+- [Flux.io](https://www.fluxsocial.io/)
+- [forgefriends](https://forgefriends.org/)
+- [Free to Find Truth](https://freetofindtruth.com/wp-login.php)
+- [Freenet](https://freenet.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/freenet)
+- [Friendica](https://friendi.ca/)
+- [Funkwhale](https://funkwhale.audio/)
+- [Gab Social](https://gab.com/)
+- [Gancio agenda](https://gancio.org/)
+- [gathio](https://gath.io/)
+- [GNU social](https://gnusocial.network/)
+- [GNUnet](https://www.gnunet.org/en/)
+- [Guppe Groups](https://a.gup.pe/)
+- [Holo.social](https://holos.social/) — Fediverse Relay
+- [Hubzilla](https://hubzilla.org/page/info/discover)
+- [hubzilla / core · GitLab](https://framagit.org/hubzilla/core)
+- [Immers Space](https://web.immers.space/)
+- [Inventaire](https://inventaire.io/welcome) — your friends and communities are your best library
+- [Join the Fediverse](https://jointhefedi.com/)
+- [JUNTO Foundation](https://junto.foundation/)
+- [Kune.cc](https://kune.cc/)
+- [LBRY](https://lbry.com/)
+- [Libervia](https://www.goffi.org/)
+- [Littr.me](https://littr.me/)
+- [lotide](https://narwhal.city/) — Federated Forum
+- [MediaGoblin](https://mediagoblin.org/)
+- [Meshtastic](https://meshtastic.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/meshtastic)
+- [Minds.com](https://www.minds.com/discovery/top) — Top
+- [Misskey](https://join.misskey.page/en-US/)
+- [Movim](https://movim.eu/)
+- [NKN](https://nkn.org/) — Network Infrastructure for Decentralized Internet
+- [Olas](https://olas.network/) — Co-own AI
+- [Open-Mesh](https://www.open-mesh.org/projects/open-mesh/wiki) / [🔗](https://git.open-mesh.org/batman-adv.git)
+- [PeakD](https://peakd.com/)
+- [PeerTube](https://joinpeertube.org/)
+- [Pleroma](https://pleroma.social/)
+- [Plume](https://joinplu.me/)
+- [Potato Meshtastic](https://potatomesh.net/)
+- [Pravica.io](https://pravica.io/)
+- [Reticulum Network](https://reticulum.network/)
+- [Retroshare](https://retroshare.cc/)
+- [Robonomics Network](https://robonomics.network/)
+- [Scuttlebutt](https://scuttlebutt.nz/)
+- [SkoHub](https://skohub.io/)
+- [Social](https://apps.nextcloud.com/apps/social) — Nextcloud
+- [Stereophonic](https://stereophonic.space/about)
+- [twister](http://twister.net.co/)
+- [Zap](https://zotlabs.org/page/zap/zap)
+- [Zigbee2MQTT](https://www.zigbee2mqtt.io/)
+- [Zotlabs](https://zotlabs.org/page/zotlabs/home)
+- [Zotlabs](https://hubzilla.org//page/hubzilla/hubzilla-project) — Hubzilla
 
 ### Forum
 
+#### Alternative Forum
+- [Stolenhistory.net](https://stolenhistory.net/)
+- [The Flat Earth Society](https://theflatearthsociety.org/home/)
+
+#### Anon Forum
+- [4chan](https://www.4chan.org/)
+- [8chan](https://8chan.se/)
+- [8kun](https://8kun.top/index.html)
+- [anon.cafe](https://anon.cafe/)
+- [arch.b4k.co](https://arch.b4k.dev/)
+- [exhentai.org](http://exhentai.org/)
+- [My Anonamouse](https://www.myanonamouse.net/login.php) — Login
+- [QAgg.News](https://qagg.news/)
+- [Warosu](https://warosu.org/)
+- [Why We Protest](https://www.whyweprotest.net/)
+
+#### Aviation Forum
+- [FlyerTalk.com](https://www.flyertalk.com/)
+
+#### Book Forum
+- [EyBooks.to](https://eybooks.to/)
+- [MobileRead Forums](https://www.mobileread.com/)
+
+#### Community Forum
+- [1Password Community](https://1password.community/)
+- [1point3acres](https://www.1point3acres.com/bbs)
+- [AIArtists.org](https://aiartists.org/)
+- [Amino Apps](https://aminoapps.com/)
+- [Art of Memory Forum](https://forum.artofmemory.com/) — Memory Techniques, Brain Training, Mental Calculation, Math
+- [AutoHotkey Community](https://www.autohotkey.com/boards)
+- [Brave Community](https://community.brave.com/)
+- [Bunq Together](https://together.bunq.com/d/58911-tricount-effortlessly-share-expenses-with-friends)
+- [Coin Talk](https://www.cointalk.com/)
+- [ColorOS Community](https://community.coloros.com/forum.php)
+- [Comunidad Meshtastic España](https://meshtastic.es/)
+- [DeMed Forum](https://forum.demed.com/)
+- [e community](https://community.e.foundation/)
+- [Eagle Community](https://community.eagle.cool/)
+- [eLengo](https://www.mkulima.co/)
+- [Esri Community](https://community.esri.com/)
+- [ethical.net](https://community.ethical.net/)
+- [FileSharing Talk](https://filesharingtalk.com/forum.php)
+- [freeCodeCamp Forum](https://forum.freecodecamp.org/)
+- [Game Jolt](https://gamejolt.com/) — Share your creations
+- [GameDev.net](https://www.gamedev.net/)
+- [Gematria Effect News Community](https://freetofindtruth.com/)
+- [Godlike Productions](https://www.godlikeproductions.com/) — Discussion Forum
+- [Graphic Design Forum](https://www.graphicdesignforum.com/)
+- [Guild.co](https://guild.co/)
+- [ICANN community](https://community.icann.org/)
+- [IFERS](https://ifers.forumotion.com/)
+- [KDE Community Forums](https://forum.kde.org/)
+- [Knockout Forums](https://knockout.chat/)
+- [LessWrong](https://www.lesswrong.com/)
+- [LibGuides Community](https://community.libguides.com/)
+- [Local Guides Connect](https://www.localguidesconnect.com/)
+- [LunaticOutPost Forum](https://lunaticoutpost.com/)
+- [Lunduke](https://lunduke.locals.com/)
+- [Mycroft Community](https://community.mycroft.ai/)
+- [Nomads.com](https://nomads.com/) — Best Places to Live for Digital Nomads (formerly Nomad List)
+- [Notepad++ Community](https://community.notepad-plus-plus.org/)
+- [Open Diary](https://www.opendiary.com/)
+- [OpenSubtitles forum](https://forum.opensubtitles.org/) — Forum
+- [Steam Community](https://steamcommunity.com/)
+- [Sufficient Velocity](https://forums.sufficientvelocity.com/)
+- [Talk TW](https://talk.tiddlywiki.org/) — Community TiddlyWiki
+- [TalkChess.com](https://talkchess.com/) — Index page
+- [Técnico Preocupado Amino](https://aminoapps.com/c/tecn_preocupado/home)
+- [The Conquest](https://www.theconquest.co/)
+- [The Hive Index](https://thehiveindex.com/)
+- [The PokéCommunity Forums](https://www.pokecommunity.com/)
+- [Tor Project Forum](https://forum.torproject.net/)
+- [Visual Studio](https://developercommunity.visualstudio.com/spaces/8/index.html) — Developer Community
+- [Widen Community](https://community.widen.com/collective/s)
+- [Windows](https://answers.microsoft.com/en-us) — Microsoft Community
+- [Windy Community](https://community.windy.com/)
+- [Wolfram Community](https://community.wolfram.com/)
+- [XNXX Adult Forum](https://forum.xnxx.com/)
+- [YouTube Forum](https://yttalk.com/)
+
+#### Economic Forum
+- [Bitcoin Forum](https://bitcointalk.org/)
+- [Bitcoin Forum](https://www.bitcoinforum.com/)
+- [Forobits](https://forobits.com/)
+
+#### Fandom Forum
+- [Archive of Our Own](https://archiveofourown.org/)
+- [FanFiction](https://www.fanfiction.net/)
+- [Fanpop](https://www.fanpop.com/)
+- [The Alita Army](https://alitaarmy.org/)
+- [Weverse.io](https://www.weverse.io/)
+
+#### Fashion Forum
+- [Bellazon forum](https://www.bellazon.com/main)
+
+#### Jokes Forum
+- [F*ck My Life](https://www.fmylife.com/)
+- [RiffTrax Forum](http://forum.rifftrax.com/)
+
 #### Language Forum
+
+##### English Forum
+- [CSNbbs](https://csnbbs.com/)
 
 ##### Spanish Forum
 - [Burbuja.info](https://www.burbuja.info/inmobiliaria/forums)
@@ -719,8 +804,62 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [LosViajeros](https://www.losviajeros.com/)
 - [Taringa!](https://www.taringa.net/)
 
-##### English Forum
-- [CSNbbs](https://csnbbs.com/)
+#### Music Forum
+- [LinuxMusicians](https://linuxmusicians.com/)
+- [RollDaBeats Forum](https://www.rolldabeats.com/forum/)
+- [Steve Hoffman Forums](https://forums.stevehoffman.tv/)
+
+#### News Forum
+- [FARK.com](https://www.fark.com/)
+- [pnlpal](https://pnlpal.dev/)
+
+#### Physics Forum
+- [Astrosurf](http://www.astrosurf.com/)
+- [Física para todos](https://www.tendencias21.net/forum/Fisica-para-todos_s808.html)
+- [Foro astronomía](http://www.astronomo.org/foro/index.php)
+- [Geophysics Forum](https://forum.detectation.com/index.php)
+- [i-Ciencias](https://www.i-ciencias.com/)
+- [IFERS](https://ifers.123.st/)
+- [Modern and Theoretical Physics](https://www.scienceforums.net/forum/18-modern-and-theoretical-physics)
+- [Physics Forums](https://www.physicsforums.com/)
+- [Physics Stack Exchange](https://physics.stackexchange.com/)
+- [Science Forums](https://www.scienceforums.net/)
+- [Science Forums](http://www.scienceforums.com/)
+
+#### Q&A
+- [Answer Socrates](https://answersocrates.com/)
+- [Answers](https://www.answers.com/)
+- [Arqade](https://gaming.stackexchange.com/)
+- [Ask Ubuntu](https://askubuntu.com/)
+- [Brainly.lat](https://brainly.lat/)
+- [Brilliant](https://brilliant.org/)
+- [Coderwall](https://coderwall.com/)
+- [Codidact](https://codidact.com/)
+- [CuriousCat](https://curiouscat.me/)
+- [CuriousCat](https://curiouscat.live/login)
+- [DeriveIt](https://www.deriveit.org/) — Questions
+- [Dontknow](https://www.dontknow.net/)
+- [GotQuestions.org](https://www.gotquestions.org/)
+- [Interesting questions](https://answers.informer.com/)
+- [Kialo](https://www.kialo.com/)
+- [Mathematics Stack Exchange](https://math.stackexchange.com/)
+- [MathOverflow](https://mathoverflow.net/)
+- [needgap](https://needgap.com/)
+- [Physician Assistant Forum](https://www.physicianassistantforum.com/)
+- [Quetre](https://quetre.iket.me/) — front-end Quora
+- [Quora](https://es.quora.com/)
+- [Science Fiction & Fantasy Stack Exchange](https://scifi.stackexchange.com/)
+- [Stack Exchange](https://stackexchange.com/)
+- [Stack Exchange](https://stackexchange.com/sites) — All sites*
+- [Stack Overflow](https://stackoverflow.com/)
+- [Stack Overflow](https://stackoverflow.com/questions) — Questions
+- [TeX](https://tex.stackexchange.com/) — LaTeX Stack Exchange
+- [Todoexpertos](https://www.todoexpertos.com/)
+- [Yahoo Answers](https://answers.yahoo.com/)
+- [Zhihu](https://www.zhihu.com/signin)
+
+#### Radio Forum
+- [QRZ Forums](https://forums.qrz.com/index.php)
 
 #### Tech Forums
 - [\[H\]ard Forum](https://hardforum.com/)
@@ -742,6 +881,20 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [Whirlpool Forums](https://forums.whirlpool.net.au/)
 - [XDA Developers Forums](https://forum.xda-developers.com/)
 - [YoReparo](https://www.yoreparo.com/)
+
+##### Gaming Forum
+- [ElOtroLado.net](https://www.elotrolado.net/)
+- [F95zone](https://f95zone.to/)
+- [Foros Eliteguias](https://www.eliteguias.com/foro)
+- [GameFAQs](https://gamefaqs.gamespot.com/)
+- [Gamer Uprising](https://gameruprising.to/index.php)
+- [GBAtemp.net](https://gbatemp.net/)
+- [GTAForums](https://gtaforums.com/)
+- [Jeuxvideo](https://www.jeuxvideo.com/)
+- [ResetEra](https://www.resetera.com/)
+- [Retro Gaming Community](https://retrogametalk.com/)
+- [VideoGameGeek](https://videogamegeek.com/)
+- [Wocial](https://wocial.net/) — Foro Anime, Manga, Comics, Videojuegos Social
 
 ##### Informatic Forum
 - [dailydevlinks](https://dailydevlinks.com/)
@@ -855,176 +1008,6 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [Virtualbox forum](https://forums.virtualbox.org/)
 - [XeroLinux Forum](https://forum.xerolinux.xyz/)
 - [Xfce Forums](https://forum.xfce.org/)
-
-##### Gaming Forum
-- [ElOtroLado.net](https://www.elotrolado.net/)
-- [F95zone](https://f95zone.to/)
-- [Foros Eliteguias](https://www.eliteguias.com/foro)
-- [GameFAQs](https://gamefaqs.gamespot.com/)
-- [Gamer Uprising](https://gameruprising.to/index.php)
-- [GBAtemp.net](https://gbatemp.net/)
-- [GTAForums](https://gtaforums.com/)
-- [Jeuxvideo](https://www.jeuxvideo.com/)
-- [ResetEra](https://www.resetera.com/)
-- [Retro Gaming Community](https://retrogametalk.com/)
-- [VideoGameGeek](https://videogamegeek.com/)
-- [Wocial](https://wocial.net/) — Foro Anime, Manga, Comics, Videojuegos Social
-
-#### Physics Forum
-- [Astrosurf](http://www.astrosurf.com/)
-- [Física para todos](https://www.tendencias21.net/forum/Fisica-para-todos_s808.html)
-- [Foro astronomía](http://www.astronomo.org/foro/index.php)
-- [Geophysics Forum](https://forum.detectation.com/index.php)
-- [i-Ciencias](https://www.i-ciencias.com/)
-- [IFERS](https://ifers.123.st/)
-- [Modern and Theoretical Physics](https://www.scienceforums.net/forum/18-modern-and-theoretical-physics)
-- [Physics Forums](https://www.physicsforums.com/)
-- [Physics Stack Exchange](https://physics.stackexchange.com/)
-- [Science Forums](https://www.scienceforums.net/)
-- [Science Forums](http://www.scienceforums.com/)
-
-#### Anon Forum
-- [4chan](https://www.4chan.org/)
-- [8chan](https://8chan.se/)
-- [8kun](https://8kun.top/index.html)
-- [anon.cafe](https://anon.cafe/)
-- [arch.b4k.co](https://arch.b4k.dev/)
-- [exhentai.org](http://exhentai.org/)
-- [My Anonamouse](https://www.myanonamouse.net/login.php) — Login
-- [QAgg.News](https://qagg.news/)
-- [Warosu](https://warosu.org/)
-- [Why We Protest](https://www.whyweprotest.net/)
-
-#### Q&A
-- [Answer Socrates](https://answersocrates.com/)
-- [Answers](https://www.answers.com/)
-- [Arqade](https://gaming.stackexchange.com/)
-- [Ask Ubuntu](https://askubuntu.com/)
-- [Brainly.lat](https://brainly.lat/)
-- [Brilliant](https://brilliant.org/)
-- [Coderwall](https://coderwall.com/)
-- [Codidact](https://codidact.com/)
-- [CuriousCat](https://curiouscat.me/)
-- [CuriousCat](https://curiouscat.live/login)
-- [DeriveIt](https://www.deriveit.org/) — Questions
-- [Dontknow](https://www.dontknow.net/)
-- [GotQuestions.org](https://www.gotquestions.org/)
-- [Interesting questions](https://answers.informer.com/)
-- [Kialo](https://www.kialo.com/)
-- [Mathematics Stack Exchange](https://math.stackexchange.com/)
-- [MathOverflow](https://mathoverflow.net/)
-- [needgap](https://needgap.com/)
-- [Physician Assistant Forum](https://www.physicianassistantforum.com/)
-- [Quetre](https://quetre.iket.me/) — front-end Quora
-- [Quora](https://es.quora.com/)
-- [Science Fiction & Fantasy Stack Exchange](https://scifi.stackexchange.com/)
-- [Stack Exchange](https://stackexchange.com/)
-- [Stack Exchange](https://stackexchange.com/sites) — All sites*
-- [Stack Overflow](https://stackoverflow.com/)
-- [Stack Overflow](https://stackoverflow.com/questions) — Questions
-- [TeX](https://tex.stackexchange.com/) — LaTeX Stack Exchange
-- [Todoexpertos](https://www.todoexpertos.com/)
-- [Yahoo Answers](https://answers.yahoo.com/)
-- [Zhihu](https://www.zhihu.com/signin)
-
-#### Fandom Forum
-- [Archive of Our Own](https://archiveofourown.org/)
-- [FanFiction](https://www.fanfiction.net/)
-- [Fanpop](https://www.fanpop.com/)
-- [The Alita Army](https://alitaarmy.org/)
-- [Weverse.io](https://www.weverse.io/)
-
-#### News Forum
-- [FARK.com](https://www.fark.com/)
-- [pnlpal](https://pnlpal.dev/)
-
-#### Jokes Forum
-- [F*ck My Life](https://www.fmylife.com/)
-- [RiffTrax Forum](http://forum.rifftrax.com/)
-
-#### Community Forum
-- [1Password Community](https://1password.community/)
-- [1point3acres](https://www.1point3acres.com/bbs)
-- [AIArtists.org](https://aiartists.org/)
-- [Amino Apps](https://aminoapps.com/)
-- [Art of Memory Forum](https://forum.artofmemory.com/) — Memory Techniques, Brain Training, Mental Calculation, Math
-- [AutoHotkey Community](https://www.autohotkey.com/boards)
-- [Brave Community](https://community.brave.com/)
-- [Bunq Together](https://together.bunq.com/d/58911-tricount-effortlessly-share-expenses-with-friends)
-- [Coin Talk](https://www.cointalk.com/)
-- [ColorOS Community](https://community.coloros.com/forum.php)
-- [Comunidad Meshtastic España](https://meshtastic.es/)
-- [DeMed Forum](https://forum.demed.com/)
-- [e community](https://community.e.foundation/)
-- [Eagle Community](https://community.eagle.cool/)
-- [eLengo](https://www.mkulima.co/)
-- [Esri Community](https://community.esri.com/)
-- [ethical.net](https://community.ethical.net/)
-- [FileSharing Talk](https://filesharingtalk.com/forum.php)
-- [freeCodeCamp Forum](https://forum.freecodecamp.org/)
-- [Game Jolt](https://gamejolt.com/) — Share your creations
-- [GameDev.net](https://www.gamedev.net/)
-- [Gematria Effect News Community](https://freetofindtruth.com/)
-- [Godlike Productions](https://www.godlikeproductions.com/) — Discussion Forum
-- [Graphic Design Forum](https://www.graphicdesignforum.com/)
-- [Guild.co](https://guild.co/)
-- [ICANN community](https://community.icann.org/)
-- [IFERS](https://ifers.forumotion.com/)
-- [KDE Community Forums](https://forum.kde.org/)
-- [Knockout Forums](https://knockout.chat/)
-- [LessWrong](https://www.lesswrong.com/)
-- [LibGuides Community](https://community.libguides.com/)
-- [Local Guides Connect](https://www.localguidesconnect.com/)
-- [LunaticOutPost Forum](https://lunaticoutpost.com/)
-- [Lunduke](https://lunduke.locals.com/)
-- [Mycroft Community](https://community.mycroft.ai/)
-- [Nomads.com](https://nomads.com/) — Best Places to Live for Digital Nomads (formerly Nomad List)
-- [Notepad++ Community](https://community.notepad-plus-plus.org/)
-- [Open Diary](https://www.opendiary.com/)
-- [OpenSubtitles forum](https://forum.opensubtitles.org/) — Forum
-- [Steam Community](https://steamcommunity.com/)
-- [Sufficient Velocity](https://forums.sufficientvelocity.com/)
-- [Talk TW](https://talk.tiddlywiki.org/) — Community TiddlyWiki
-- [TalkChess.com](https://talkchess.com/) — Index page
-- [Técnico Preocupado Amino](https://aminoapps.com/c/tecn_preocupado/home)
-- [The Conquest](https://www.theconquest.co/)
-- [The Hive Index](https://thehiveindex.com/)
-- [The PokéCommunity Forums](https://www.pokecommunity.com/)
-- [Tor Project Forum](https://forum.torproject.net/)
-- [Visual Studio](https://developercommunity.visualstudio.com/spaces/8/index.html) — Developer Community
-- [Widen Community](https://community.widen.com/collective/s)
-- [Windows](https://answers.microsoft.com/en-us) — Microsoft Community
-- [Windy Community](https://community.windy.com/)
-- [Wolfram Community](https://community.wolfram.com/)
-- [XNXX Adult Forum](https://forum.xnxx.com/)
-- [YouTube Forum](https://yttalk.com/)
-
-#### Economic Forum
-- [Bitcoin Forum](https://bitcointalk.org/)
-- [Bitcoin Forum](https://www.bitcoinforum.com/)
-- [Forobits](https://forobits.com/)
-
-#### Fashion Forum
-- [Bellazon forum](https://www.bellazon.com/main)
-
-#### Book Forum
-- [EyBooks.to](https://eybooks.to/)
-- [MobileRead Forums](https://www.mobileread.com/)
-
-#### Music Forum
-- [LinuxMusicians](https://linuxmusicians.com/)
-- [RollDaBeats Forum](https://www.rolldabeats.com/forum/)
-- [Steve Hoffman Forums](https://forums.stevehoffman.tv/)
-
-#### Radio Forum
-- [QRZ Forums](https://forums.qrz.com/index.php)
-
-#### Alternative Forum
-- [Stolenhistory.net](https://stolenhistory.net/)
-- [The Flat Earth Society](https://theflatearthsociety.org/home/)
-
-#### Aviation Forum
-- [FlyerTalk.com](https://www.flyertalk.com/)
 
 ### Instant Messaging
 - ⭐ **[bitchat](https://bitchat.free/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/permissionlesstech/bitchat)
@@ -1174,24 +1157,6 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [Visto en las redes](https://www.vistoenlasredes.com/)
 - [xkcd](https://xkcd.com/) — Scientific Briefing
 
-### Professional Networks
-- ⭐ **[LinkedIn](https://www.linkedin.com/)**
-- [about.me](https://about.me/)
-- [Eloovor](https://www.eloovor.com/) — AI Career Coach
-- [manfred](https://www.getmanfred.com/)
-- [read.cv](https://read.cv/explore)
-- [tecnoempleo](https://www.tecnoempleo.com/) — Portal de Empleo en Informática y Telecomunicaciones
-
-### Anonymous Social
-- [Ablo](https://ablo.live/#/landing/getstarted)
-- [ASKfm](https://ask.fm/)
-- [Blind](https://www.teamblind.com/)
-- [F3](https://f3.cool/)
-- [Freenet](https://freenetproject.org/)
-- [LMK](https://www.lmk.chat/)
-- [Tellonym](https://tellonym.me/)
-- [Yubo](https://www.yubo.live/)
-
 ### People Networks
 - [Cameo](https://www.cameo.com/)
 - [LinkedIn](https://www.linkedin.com/pulse/topics/home/)
@@ -1237,11 +1202,184 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [Waplog](http://waplog.com/)
 - [Zoosk](https://www.zoosk.com/)
 
-### Voice Chat
-- [Mumble.info](https://www.mumble.info/)
-- [TeamSpeak](https://www.teamspeak.com/en/)
-- [Voximity](https://voximity.chat/)
-- [Zello](https://zello.com/) — The Most Reliable Push-to-Talk Walkie-Talkie App
+### Professional Networks
+- ⭐ **[LinkedIn](https://www.linkedin.com/)**
+- [about.me](https://about.me/)
+- [Eloovor](https://www.eloovor.com/) — AI Career Coach
+- [manfred](https://www.getmanfred.com/)
+- [read.cv](https://read.cv/explore)
+- [tecnoempleo](https://www.tecnoempleo.com/) — Portal de Empleo en Informática y Telecomunicaciones
+
+### Social Media
+- ⭐ **[Facebook](https://www.facebook.com/)**
+- ⭐ **[Reddit](https://www.reddit.com/)** — Dive into anything
+- ⭐ **[X (Twitter)](https://x.com/)**
+- [Bluesky](https://bsky.app/)
+- [Bonfire](https://bonfirenetworks.org/)
+- [Bookwyrm](https://joinbookwyrm.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/bookwyrm-social/bookwyrm)
+- [Cent](https://beta.cent.co/~discover)
+- [Coracle](https://info.coracle.social/)
+- [CounterSocial](https://counter.social/index.html)
+- [diaspora-fr](https://diaspora-fr.org/)
+- [Douyin (TikTok)](https://www.douyin.com/recommend)
+- [Firefish](https://joinfirefish.org/)
+- [GETTR](https://gettr.com/trending)
+- [Hive Social](https://www.hivesocial.app/)
+- [Lectrn](https://lectrn.com/)
+- [Lilt](https://lilt.social/)
+- [Manyverse](https://www.manyver.se/) — a social network off the grid
+- [microblog.pub](https://microblog.pub/)
+- [Minds](https://www.minds.com/) — Social network
+- [Misskey Hub](https://misskey-hub.net/en/)
+- [mixi](https://mixi.jp/)
+- [Mixpost](https://mixpost.app/) — Self-Hosted Social Media Management Software
+- [moltbook](https://www.moltbook.com/) — the front page of the agent internet
+- [OK.RU](https://ok.ru/)
+- [Openvibe](https://openvibe.social/) — Town Square for Open Social Media
+- [Plebstr](https://plebstr.com/) — friendly Nostr client
+- [Poal](https://poal.co/hot) — Say
+- [Primal](https://primal.net/home)
+- [QQ Qzone](https://qzone.qq.com/)
+- [Reddit (old)](https://old.reddit.com/)
+- [Savee](https://savee.it/)
+- [Skyrock](https://www.skyrock.com/)
+- [Socialhome](https://socialhome.network/)
+- [Steemit](https://steemit.com/)
+- [Threads](https://www.threads.net/login)
+- [Threads](https://www.threads.net/)
+- [Threads • Log in](https://www.threads.com/)
+- [Trodl](https://trodl.com/)
+- [Truth Social](https://truthsocial.com/)
+- [Tumblr](https://www.tumblr.com/explore/trending)
+- [Twitter](https://twitter.com/explore)
+- [Vero.co](https://vero.co/)
+- [Vibely app](https://app.vibely.io/)
+- [Vibuk](https://www.vibuk.com/)
+- [VK](https://vk.com/)
+- [Weibo](https://weibo.com/index.php)
+- [WT.Social](https://wt.social/)
+
+#### Dev Social
+- [DEV.to](https://dev.to/)
+- [Polycount Newsfeed](https://polycount.com/)
+- [polywork.com](https://www.polywork.com/) — The Collaborative Network
+
+#### Gaming Social
+- [80 Level](https://80.lv/)
+- [Plink.gg](https://plink.gg/)
+
+#### Mastodon
+- [Mastodon](https://joinmastodon.org/) — Decentralized social media
+- [Mastodon.social](https://mastodon.social/explore)
+
+#### Photo Social
+- [1x.com](https://1x.com/)
+- [Bere.al](https://bereal.com/)
+- [BeReal](https://bereal.com/en/) — Your Friends for Real.
+- [Clash app](https://clashapp.co/)
+- [Clos app](https://closapp.space/)
+- [Cosmos.so](https://www.cosmos.so/)
+- [Fotki](https://www.fotki.com/us/en)
+- [Foto app](https://fotoapp.co/)
+- [GIPHY](https://giphy.com/) — Be animated
+- [Gridsky](https://gridsky.social/) — Bluesky with creativity superpowers
+- [ImgCrack](https://imgcrk.com/)
+- [Instagram](https://www.instagram.com/)
+- [Kwai](https://www.kwai.com/)
+- [Likee](https://likee.video/discover)
+- [Likee](https://likee.video/) — Short Video Community
+- [Mix.com](https://mix.com/)
+- [Nirvana Magazine](https://nirvanamagazine.com/)
+- [Pholder](https://pholder.com/)
+- [Photo Lab](https://photolab.me/)
+- [PicsArt](https://picsart.com/explore) — Explore
+- [Pinterest](https://www.pinterest.com/)
+- [pixelfed](https://pixelfed.social/)
+- [Pixelfed](https://pixelfed.org/) — Decentralized social media
+- [Retro](https://www.retro.app/) — phto journal social
+- [Snapchat](https://www.snapchat.com/)
+- [TikTok](https://www.tiktok.com/)
+- [Triller.co](https://triller.co/)
+- [We Heart It](https://weheartit.com/)
+- [YouNow](https://www.younow.com/explore)
+- [Zcool.cn](https://www.zcool.com.cn/home)
+- [小红书](https://www.xiaohongshu.com/explore) — 你的生活指南
+
+#### Social News Aggregation
+- [Amino](https://aminoapps.com/explore/en) — Explore
+- [Divisions by zero](https://lemmy.dbzer0.com/) — Lemmy
+- [Geekser](https://geekser.com/)
+- [HItRecord](https://hitrecord.org/)
+- [Hoyolab.com](https://www.hoyolab.com/)
+- [Kbin on Artemis](https://artemis.camp/)
+- [kbin.pub](https://kbin.pub/en) — Fediverse of content
+- [Lemmy](https://join-lemmy.org/) — A link aggregator for the fediverse
+- [LeoFinance](https://leofinance.io/)
+- [Pocket](https://getpocket.com/explore) — Explore
+- [Remote Stories](https://www.remotestories.com/)
+- [sansan0/TrendRadar · GitHub](https://github.com/sansan0/TrendRadar)
+- [Sopuli](https://sopuli.xyz/) — A general-purpose instance run by a Finn - everyone is welcome here!
+- [Startupy](https://beta.startupy.world/)
+
+### Social Net (frontend)
+- [digitalblossom/alternative-frontends · GitHub](https://github.com/digitalblossom/alternative-frontends)
+- [Farside](https://farside.link/) / [![SourceHut](/img/source-hosts/sourcehut.svg)](https://sr.ht/~benbusby/farside)
+- [FOSS Front-Ends social networks](https://www.funkyspacemonkey.com/foss-front-ends-and-alternatives-for-twitter-instagram-reddit-youtube-and-more)
+- [LibRedirect](https://libredirect.github.io/) — Privacy-friendly Redirector
+- [libreom/predirect · GitHub](https://github.com/libreom/predirect)
+- [mendel5/alternative-front-ends · GitHub](https://github.com/mendel5/alternative-front-ends)
+- [Painterest](https://pain.thirtysix.pw/)
+
+#### Odysee Frontend
+- [librarian](https://codeberg.org/librarian/librarian) — Codeberg
+- [Librarian pussthecat](https://librarian.pussthecat.org/)
+
+#### Reddit Frontend
+- [Darkle/Roffline · GitHub](https://github.com/Darkle/Roffline)
+- [Docile-Alligator/Infinity-For-Reddit · GitHub](https://github.com/Docile-Alligator/Infinity-For-Reddit)
+- [eddrit](https://eddrit.com/)
+- [Feddit](https://feddit.rocks/) — A lemmy instance powered by the kavin.rocks verse
+- [kddit](https://kddit.kalli.st/)
+- [Libreddit](https://libredd.it/)
+- [Libreddit](https://libreddit.spike.codes/)
+- [redditv](http://redditv.ca/) — Subreddit Video Player
+- [Reditr](https://reditr.com/) — reddit client
+- [Scrolldit](http://www.scrolldit.com/)
+- [Scrolldrop](https://scrolldrop.com/)
+- [Scrolller](https://scrolller.com/)
+- [teddit](https://teddit.net/)
+- [troddit · a web app for Reddit](https://www.troddit.com/)
+- [Xeddit Private Browser](https://www.xeddit.com/)
+- [Yourmom](https://www.yourmom.org/)
+
+#### TikTok Frontend
+- [pablouser1/ProxiTok · GitHub](https://github.com/pablouser1/ProxiTok)
+- [TikyToky](https://tikytoky.com/)
+- [Urlebird](https://urlebird.com/) — TikTok Viewer
+
+#### Twitter Frontend
+- [Nitter](https://nitter.net/)
+- [Nitter Instance Status](https://status.d420.de/)
+- [XCancel](https://xcancel.com/)
+- [zedeus/nitter](https://github.com/zedeus/nitter) — Alternative Twitter front-end · GitHub
+
+#### YouTube Frontend
+- ⭐ **[Invidious.io](https://invidious.io/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/iv-org/invidious)
+- [Cinemaphile](https://cinemaphile.com/)
+- [Clipzui](https://www.clipzui.com/)
+- [CloudTube](https://tube.cadence.moe/)
+- [DevTube](https://dev.tube/)
+- [Invidious](https://invidious.tiekoetter.com/feed/popular) — tiekoetter
+- [Invidious](https://y.com.sb/feed/popular) — y.com
+- [Invidious Instances](https://api.invidious.io/)
+- [Liambi Videos](https://videos.liambi.com/home.php)
+- [Piped](https://piped.video/trending) — Trending
+- [Piped](https://piped-material.xn--17b.net/) — Trending
+- [TubeTrotter](https://www.tubetrotter.live/)
+- [VidLii](https://www.vidlii.com/)
+- [Wimp.com](https://www.wimp.com/)
+- [Yewtu.be](https://yewtu.be/)
+- [Yout-ube](https://www.yout-ube.com/)
 
 ### Video Chat
 - [8x8](https://www.8x8.com/)
@@ -1313,146 +1451,8 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [Wizz](https://www.wizzapp.com/) — Expand your world
 - [YY.com](https://www.yy.com/)
 
-### Social Net (frontend)
-- [digitalblossom/alternative-frontends · GitHub](https://github.com/digitalblossom/alternative-frontends)
-- [Farside](https://farside.link/) / [![SourceHut](/img/source-hosts/sourcehut.svg)](https://sr.ht/~benbusby/farside)
-- [FOSS Front-Ends social networks](https://www.funkyspacemonkey.com/foss-front-ends-and-alternatives-for-twitter-instagram-reddit-youtube-and-more)
-- [LibRedirect](https://libredirect.github.io/) — Privacy-friendly Redirector
-- [libreom/predirect · GitHub](https://github.com/libreom/predirect)
-- [mendel5/alternative-front-ends · GitHub](https://github.com/mendel5/alternative-front-ends)
-- [Painterest](https://pain.thirtysix.pw/)
-
-#### Reddit Frontend
-- [Darkle/Roffline · GitHub](https://github.com/Darkle/Roffline)
-- [Docile-Alligator/Infinity-For-Reddit · GitHub](https://github.com/Docile-Alligator/Infinity-For-Reddit)
-- [eddrit](https://eddrit.com/)
-- [Feddit](https://feddit.rocks/) — A lemmy instance powered by the kavin.rocks verse
-- [kddit](https://kddit.kalli.st/)
-- [Libreddit](https://libredd.it/)
-- [Libreddit](https://libreddit.spike.codes/)
-- [redditv](http://redditv.ca/) — Subreddit Video Player
-- [Reditr](https://reditr.com/) — reddit client
-- [Scrolldit](http://www.scrolldit.com/)
-- [Scrolldrop](https://scrolldrop.com/)
-- [Scrolller](https://scrolller.com/)
-- [teddit](https://teddit.net/)
-- [troddit · a web app for Reddit](https://www.troddit.com/)
-- [Xeddit Private Browser](https://www.xeddit.com/)
-- [Yourmom](https://www.yourmom.org/)
-
-#### YouTube Frontend
-- ⭐ **[Invidious.io](https://invidious.io/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/iv-org/invidious)
-- [Cinemaphile](https://cinemaphile.com/)
-- [Clipzui](https://www.clipzui.com/)
-- [CloudTube](https://tube.cadence.moe/)
-- [DevTube](https://dev.tube/)
-- [Invidious](https://invidious.tiekoetter.com/feed/popular) — tiekoetter
-- [Invidious](https://y.com.sb/feed/popular) — y.com
-- [Invidious Instances](https://api.invidious.io/)
-- [Liambi Videos](https://videos.liambi.com/home.php)
-- [Piped](https://piped.video/trending) — Trending
-- [Piped](https://piped-material.xn--17b.net/) — Trending
-- [TubeTrotter](https://www.tubetrotter.live/)
-- [VidLii](https://www.vidlii.com/)
-- [Wimp.com](https://www.wimp.com/)
-- [Yewtu.be](https://yewtu.be/)
-- [Yout-ube](https://www.yout-ube.com/)
-
-#### Twitter Frontend
-- [Nitter](https://nitter.net/)
-- [Nitter Instance Status](https://status.d420.de/)
-- [XCancel](https://xcancel.com/)
-- [zedeus/nitter](https://github.com/zedeus/nitter) — Alternative Twitter front-end · GitHub
-
-#### Odysee Frontend
-- [librarian](https://codeberg.org/librarian/librarian) — Codeberg
-- [Librarian pussthecat](https://librarian.pussthecat.org/)
-
-#### TikTok Frontend
-- [pablouser1/ProxiTok · GitHub](https://github.com/pablouser1/ProxiTok)
-- [TikyToky](https://tikytoky.com/)
-- [Urlebird](https://urlebird.com/) — TikTok Viewer
-
-### Decentralized Networks
-- ⭐ **[Fediverse](https://fediverse.party/en/miscellaneous)** — All networks
-- [ActivityPub Rocks!](https://activitypub.rocks/)
-- [Aether](https://getaether.net/)
-- [Akkoma](https://akkoma.social/) — Magically Expressive Social Media
-- [cohost!](https://cohost.org/rc/welcome)
-- [Confidential Compute Open Network](https://cocoon.org/)
-- [Contentos.io](https://www.contentos.io/)
-- [Corteza](https://cortezaproject.org/) — Low-code app
-- [Diaspora](https://joindiaspora.com/)
-- [Diaspora](https://diasporafoundation.org/)
-- [Diaspora social](https://diasp.org/)
-- [Distributed social networking](https://en.wikipedia.org/wiki/Comparison_of_software_and_protocols_for_distributed_social_networking)
-- [DTF.ru](https://dtf.ru/)
-- [Fediverse](https://en.wikipedia.org/wiki/Fediverse)
-- [Fediverse Observer](https://fediverse.observer/)
-- [Fediverse.Party](https://fediverse.party/) — explore federated networks
-- [Flux.io](https://www.fluxsocial.io/)
-- [forgefriends](https://forgefriends.org/)
-- [Free to Find Truth](https://freetofindtruth.com/wp-login.php)
-- [Freenet](https://freenet.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/freenet)
-- [Friendica](https://friendi.ca/)
-- [Funkwhale](https://funkwhale.audio/)
-- [Gab Social](https://gab.com/)
-- [Gancio agenda](https://gancio.org/)
-- [gathio](https://gath.io/)
-- [GNU social](https://gnusocial.network/)
-- [GNUnet](https://www.gnunet.org/en/)
-- [Guppe Groups](https://a.gup.pe/)
-- [Holo.social](https://holos.social/) — Fediverse Relay
-- [Hubzilla](https://hubzilla.org/page/info/discover)
-- [hubzilla / core · GitLab](https://framagit.org/hubzilla/core)
-- [Immers Space](https://web.immers.space/)
-- [Inventaire](https://inventaire.io/welcome) — your friends and communities are your best library
-- [Join the Fediverse](https://jointhefedi.com/)
-- [JUNTO Foundation](https://junto.foundation/)
-- [Kune.cc](https://kune.cc/)
-- [LBRY](https://lbry.com/)
-- [Libervia](https://www.goffi.org/)
-- [Littr.me](https://littr.me/)
-- [lotide](https://narwhal.city/) — Federated Forum
-- [MediaGoblin](https://mediagoblin.org/)
-- [Meshtastic](https://meshtastic.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/meshtastic)
-- [Minds.com](https://www.minds.com/discovery/top) — Top
-- [Misskey](https://join.misskey.page/en-US/)
-- [Movim](https://movim.eu/)
-- [NKN](https://nkn.org/) — Network Infrastructure for Decentralized Internet
-- [Olas](https://olas.network/) — Co-own AI
-- [Open-Mesh](https://www.open-mesh.org/projects/open-mesh/wiki) / [🔗](https://git.open-mesh.org/batman-adv.git)
-- [PeakD](https://peakd.com/)
-- [PeerTube](https://joinpeertube.org/)
-- [Pleroma](https://pleroma.social/)
-- [Plume](https://joinplu.me/)
-- [Potato Meshtastic](https://potatomesh.net/)
-- [Pravica.io](https://pravica.io/)
-- [Reticulum Network](https://reticulum.network/)
-- [Retroshare](https://retroshare.cc/)
-- [Robonomics Network](https://robonomics.network/)
-- [Scuttlebutt](https://scuttlebutt.nz/)
-- [SkoHub](https://skohub.io/)
-- [Social](https://apps.nextcloud.com/apps/social) — Nextcloud
-- [Stereophonic](https://stereophonic.space/about)
-- [twister](http://twister.net.co/)
-- [Zap](https://zotlabs.org/page/zap/zap)
-- [Zigbee2MQTT](https://www.zigbee2mqtt.io/)
-- [Zotlabs](https://zotlabs.org/page/zotlabs/home)
-- [Zotlabs](https://hubzilla.org//page/hubzilla/hubzilla-project) — Hubzilla
-
-### Crypto Network
-- [Belacam](https://www.belacam.com/)
-- [Flote](https://flote.app/)
-- [Stratus.co](https://stratus.co/)
-
-### Dashboard
-- [daily.dev](https://daily.dev/)
-- [dokieli](https://dokie.li/)
-- [Lemmy](https://lemmy.ml/)
-- [Lobste.rs](https://lobste.rs/)
-- [Post News](https://post.news/)
-- [Saidit.net](https://saidit.net/) — Say your truth
-- [Tildes](https://tildes.net/)
-- [TupiTube](https://www.tupitube.com/index.php)
-- [YourStack](https://yourstack.com/)
+### Voice Chat
+- [Mumble.info](https://www.mumble.info/)
+- [TeamSpeak](https://www.teamspeak.com/en/)
+- [Voximity](https://voximity.chat/)
+- [Zello](https://zello.com/) — The Most Reliable Push-to-Talk Walkie-Talkie App

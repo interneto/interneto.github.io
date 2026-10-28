@@ -150,6 +150,31 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [WebBites](https://webbites.io/#/)
 - [Your Buttons](https://yourbuttons.com/)
 
+### Bookmark Dashboard
+- ⭐ **[homepage](https://gethomepage.dev/)**
+- ⭐ **[Homepage.org](https://www.homepage.org/)**
+- ⭐ **[Kadaza](https://www.kadaza.com/)** — The Ultimate Homepage & Web Portal
+- ⭐ **[NightTab · GitHub](https://zombiefox.github.io/nightTab/)**
+- ⭐ **[Startpage](https://start.me/)** — start.me
+- ⭐ **[Symbaloo](https://www.symbaloo.com/home/mix/13eP2FA6a5)** — Bookmarks & Favorites
+- [444websites](http://www.444websites.com/)
+- [Anori](https://anori.app/) — Make your new tab truly your
+- [Astroluma](https://getastroluma.com/) — Your Productivity Dashboard
+- [Atavi](https://atavi.com/) — bookmark manager
+- [Best Homepage Ever](https://besthomepageever.com/)
+- [DashMachine · GitHub](https://github.com/rmountjoy92/DashMachine)
+- [ez.lol](https://ez.lol/)
+- [HCHOO](https://www.hchoo.com/)
+- [MONKNOW New Tab](https://www.monknow.com/en-US) — Personal Dashboard
+- [My Yahoo](https://my.yahoo.com/)
+- [MyStart](https://www.mystart.com/)
+- [NetBox](https://demo.netbox.dev/)
+- [Protopage](https://www.protopage.com/)
+- [Speed Dial 2](https://www.speeddial2.com/) — New tab page extension for Google Chrome
+- [uStart.org](https://www.ustart.org/) — Your customisable start page!
+- [WebOas.is](https://weboasis.su/) — The Ultimate Startpage, Homepage, Web Portal!
+- [WebOas.is](https://ndsamuelson.github.io/weboas-is/) — WebOasis | The Ultimate Startpage, Homepage, Web Portal!
+
 ### Read Later
 - ⭐ **[Obsidian Web Clipper](https://obsidian.md/clipper)**
 - [Brace.to](https://brace.to/)
@@ -197,65 +222,7 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [Wakelet](https://wakelet.com/)
 - [Zapmarks](https://zapmarks.io/)
 
-### Bookmark Dashboard
-- ⭐ **[homepage](https://gethomepage.dev/)**
-- ⭐ **[Homepage.org](https://www.homepage.org/)**
-- ⭐ **[Kadaza](https://www.kadaza.com/)** — The Ultimate Homepage & Web Portal
-- ⭐ **[NightTab · GitHub](https://zombiefox.github.io/nightTab/)**
-- ⭐ **[Startpage](https://start.me/)** — start.me
-- ⭐ **[Symbaloo](https://www.symbaloo.com/home/mix/13eP2FA6a5)** — Bookmarks & Favorites
-- [444websites](http://www.444websites.com/)
-- [Anori](https://anori.app/) — Make your new tab truly your
-- [Astroluma](https://getastroluma.com/) — Your Productivity Dashboard
-- [Atavi](https://atavi.com/) — bookmark manager
-- [Best Homepage Ever](https://besthomepageever.com/)
-- [DashMachine · GitHub](https://github.com/rmountjoy92/DashMachine)
-- [ez.lol](https://ez.lol/)
-- [HCHOO](https://www.hchoo.com/)
-- [MONKNOW New Tab](https://www.monknow.com/en-US) — Personal Dashboard
-- [My Yahoo](https://my.yahoo.com/)
-- [MyStart](https://www.mystart.com/)
-- [NetBox](https://demo.netbox.dev/)
-- [Protopage](https://www.protopage.com/)
-- [Speed Dial 2](https://www.speeddial2.com/) — New tab page extension for Google Chrome
-- [uStart.org](https://www.ustart.org/) — Your customisable start page!
-- [WebOas.is](https://weboasis.su/) — The Ultimate Startpage, Homepage, Web Portal!
-- [WebOas.is](https://ndsamuelson.github.io/weboas-is/) — WebOasis | The Ultimate Startpage, Homepage, Web Portal!
-
 ## Business Software
-
-### Survey or Poll
-- [BlockSurvey.io](https://blocksurvey.io/)
-- [Curious Karen](https://www.curiouskaren.com/)
-- [Debate.org](https://www.debate.org/)
-- [Framadate](https://framadate.org/abc/en/) — Make your polls
-- [LimeSurvey](https://www.limesurvey.org/es)
-- [LimeSurvey](https://www.limesurvey.org/)
-- [Pollcode](https://pollcode.com/)
-- [Rapidforms](https://rapidforms.co/) — Powerful Online Form Builder & Form Creator
-- [Research.net](https://www.research.net/)
-- [Straw Poll](https://www.strawpoll.me/)
-- [Surveyeah](https://www.surveyeah.com/)
-- [SurveyMonkey](https://www.surveymonkey.com/)
-- [Tally](https://tally.so/) — Free Online Form Builder
-- [Typeform](https://www.typeform.com/) — Forms and surveys
-
-### Email Marketing Services
-- [BatchLeads](https://batchleads.io/) — Real Estate Investing Software Made Simple
-- [Brevo](https://www.brevo.com/) — Email Marketing Software, Automation & CRM
-- [Free group email and mass email newsletter software](https://group-mail.com/)
-- [GetResponse](https://www.getresponse.com/) — Professional Email Marketing for Everyone
-- [HubSpot](https://www.hubspot.com/) — Software & Tools for your Business
-- [listmonk](https://listmonk.app/) — Free and open source self-hosted newsletter, mailing list manager, and transactional mails
-- [Mailchimp](https://mailchimp.com/en/?currency=EUR)
-- [Mailgun](https://www.mailgun.com/)
-- [Mailjet](https://www.mailjet.com/) — Email Delivery Service for Marketing & Developer Teams
-- [Mailtrap](https://mailtrap.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/mailtrap) — Email Delivery Platform
-- [Resend · Email for developers](https://resend.com/)
-- [SendGrid](https://sendgrid.com/en-us) — SendGrid Email API and Email Marketing Campaigns
-- [SMTP2GO](https://www.smtp2go.com/) — Reliable & Scalable Email Delivery Service
-- [Stripo](https://stripo.email/) — FREE Email Template Builder: drag-n-drop Html Email Editor
-- [UniStack](https://unistack.io/)
 
 ### Customer Relationship Management (CRM)
 - [AimHarder](https://aimharder.com/) — Management & reservations software 🥇
@@ -286,6 +253,23 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [YetiForce CRM](https://yetiforce.com/en/)
 - [Znuny](https://www.znuny.org/en) / [![GitHub](/img/software/apps/github.svg)](https://github.com/znuny/Znuny) — Open Source Service Desk
 
+### Email Marketing Services
+- [BatchLeads](https://batchleads.io/) — Real Estate Investing Software Made Simple
+- [Brevo](https://www.brevo.com/) — Email Marketing Software, Automation & CRM
+- [Free group email and mass email newsletter software](https://group-mail.com/)
+- [GetResponse](https://www.getresponse.com/) — Professional Email Marketing for Everyone
+- [HubSpot](https://www.hubspot.com/) — Software & Tools for your Business
+- [listmonk](https://listmonk.app/) — Free and open source self-hosted newsletter, mailing list manager, and transactional mails
+- [Mailchimp](https://mailchimp.com/en/?currency=EUR)
+- [Mailgun](https://www.mailgun.com/)
+- [Mailjet](https://www.mailjet.com/) — Email Delivery Service for Marketing & Developer Teams
+- [Mailtrap](https://mailtrap.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/mailtrap) — Email Delivery Platform
+- [Resend · Email for developers](https://resend.com/)
+- [SendGrid](https://sendgrid.com/en-us) — SendGrid Email API and Email Marketing Campaigns
+- [SMTP2GO](https://www.smtp2go.com/) — Reliable & Scalable Email Delivery Service
+- [Stripo](https://stripo.email/) — FREE Email Template Builder: drag-n-drop Html Email Editor
+- [UniStack](https://unistack.io/)
+
 ### ERP (Enterprise Resource Planning)
 - [Craftplan](https://puemos.github.io/craftplan/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/puemos/craftplan)
 - [ERPNext](https://erpnext.com/) — Free and Open Source Cloud ERP Software
@@ -293,6 +277,22 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [OpenGest ERP](https://www.astra.es/opengest-erp-gestion-empresas/) — Astra Nuevas Tecnologías
 - [Presto Software Presupuestos y Control de Obras](https://presto-software.com/)
 - [VeriFactus](https://verifactus.com/) — Facturación electrónica certificada
+
+### Survey or Poll
+- [BlockSurvey.io](https://blocksurvey.io/)
+- [Curious Karen](https://www.curiouskaren.com/)
+- [Debate.org](https://www.debate.org/)
+- [Framadate](https://framadate.org/abc/en/) — Make your polls
+- [LimeSurvey](https://www.limesurvey.org/es)
+- [LimeSurvey](https://www.limesurvey.org/)
+- [Pollcode](https://pollcode.com/)
+- [Rapidforms](https://rapidforms.co/) — Powerful Online Form Builder & Form Creator
+- [Research.net](https://www.research.net/)
+- [Straw Poll](https://www.strawpoll.me/)
+- [Surveyeah](https://www.surveyeah.com/)
+- [SurveyMonkey](https://www.surveymonkey.com/)
+- [Tally](https://tally.so/) — Free Online Form Builder
+- [Typeform](https://www.typeform.com/) — Forms and surveys
 
 ## Clipboard
 - [CleanClip](https://www.cleanclip.cc/) — Rediscover the Value of Clipboard Content
@@ -315,83 +315,6 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [Git City](https://www.thegitcity.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/srizzon/git-city) — Your GitHub as a 3D City
 - [Microsoft Power BI](https://powerbi.microsoft.com/en-us) — Data Visualization
 - [qsv.dathere.com](https://qsv.dathere.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/dathere/qsv) — Home to the CSV data wrangling toolkit with 50+ commands!
-
-### Web Analytics Service
-- ⭐ **[Plausible Analytics](https://plausible.io/)**
-- ⭐ **[Rybbit Analytics](https://www.rybbit.io/)**
-- ⭐ **[umami.is](https://umami.is/)**
-- [App Annie](https://www.appannie.com/en)
-- [BOIA](https://www.boia.org/)
-- [Buffer](https://buffer.com/)
-- [BuzzSumo](https://buzzsumo.com/)
-- [Clicky](https://clicky.com/)
-- [Contador de Visitas](https://www.contadorvisitasgratis.com/)
-- [Counter](https://counter.dev/)
-- [Countly](https://count.ly/)
-- [Crater](https://crater.financial/) — Embedded Invoicing & Bill Pay for platforms
-- [Databox](https://databox.com/)
-- [Databricks IQ](https://www.databricks.com/product/data-intelligence-platform) — AI-Driven Analytics for Faster Data Insights
-- [DeepSource](https://deepsource.io/)
-- [Fathom Analytics](https://usefathom.com/)
-- [fifonik/FFMetrics](https://github.com/fifonik/FFMetrics) — Visualizes Video Quality Metrics (PSNR, SSIM & VMAF) calculated by ffmpeg.exe
-- [Foudroyer](https://www.foudroyer.com/) — the seo tool of the future
-- [GoatCounter](https://www.goatcounter.com/)
-- [Google Analytics](https://marketingplatform.google.com/about/analytics)
-- [Google Analytics](https://analytics.withgoogle.com/)
-- [Hevo Data](https://hevodata.com/)
-- [Holistics](https://www.holistics.io/) — Self-service BI Platform
-- [Hootsuite](https://www.hootsuite.com/)
-- [Hudl • Tools to help every team, coach and athlete improve](https://www.hudl.com/)
-- [Hypeauditor](https://hypeauditor.com/)
-- [IBM SPSS Statistics](https://www.ibm.com/products/spss-statistics)
-- [Ilo](https://ilo.so/) — Twitter analytics
-- [Insights.io](https://getinsights.io/)
-- [jehna/ga-lite · GitHub](https://github.com/jehna/ga-lite)
-- [Keyhole](https://keyhole.co/)
-- [Knoema](https://knoema.com/)
-- [Later](https://later.com/)
-- [Luma](https://lu.ma/)
-- [Matomo Analytics](https://matomo.org/)
-- [Medama Analytics](https://oss.medama.io/introduction)
-- [Metabase](https://www.metabase.com/) — Business Intelligence, Dashboards, and Data Visualization
-- [Metricool](https://metricool.com/)
-- [Mimoto](https://www.baxnettechnologies.com/mimoto)
-- [Murmel.social](https://murmel.social/)
-- [NeuronWriter](https://neuronwriter.com/) — Content optimization with #semanticSEO
-- [Notionlytics](https://notionlytics.com/)
-- [Oktopost](https://www.oktopost.com/)
-- [Open Web Analytics](https://www.openwebanalytics.com/)
-- [OpenMetadata](https://open-metadata.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/open-metadata/OpenMetadata) — #1 Open Source Metadata Platform
-- [Openpanel.dev](https://openpanel.dev/) — An open-source alternative to Mixpanel
-- [Palantir](https://www.palantir.com/platforms/gotham/) — Gotham
-- [Piqo Analytics](https://piqo.app/) — Grow your traffic, search, and revenue
-- [Pridma analytics](https://www.prismeanalytics.com/) — Customizable, privacy-friendly Google Analytics alternative
-- [Pulse. Privacy-Friendly Website Analytics](https://pulse.velovix.com/)
-- [Qlik Data Integration, Data Quality, and Analytics Solutions](https://www.qlik.com/us)
-- [Rybbit](https://rybbit.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/rybbit-io/rybbit) — Cookieless Google Analytics Replacement
-- [Scalpex index](https://www.scalpexindex.com/)
-- [Sensor Tower](https://sensortower.com/)
-- [Simple Analytics](https://www.simpleanalytics.com/)
-- [Smartlook](https://www.smartlook.com/)
-- [Social Bearing](https://socialbearing.com/)
-- [Socialbakers](https://www.socialbakers.com/)
-- [Solarwinds pingdom](https://www.pingdom.com/)
-- [Soundcharts](https://soundcharts.com/) — Analyze All the Music Industry Data
-- [Stata](https://www.stata.com/) — Statistical software for data science
-- [StreamElements](https://streamelements.com/)
-- [Streams Charts](https://streamscharts.com/)
-- [Supersimple](https://www.supersimple.io/) — Business Intelligence for B2B SaaS
-- [Swiftype](https://swiftype.com/)
-- [Tableau](https://www.tableau.com/)
-- [Telegram Stats](https://tgstat.ru/)
-- [theOehrly/Fast-F1](https://github.com/theOehrly/Fast-F1) — FastF1 is a python package for accessing and analyzing Formula 1 results, schedules, timing data and telemetry
-- [Tianji = Website Analytics + Uptime Monitor + Server Status](https://tianji.msgbyte.com/)
-- [Tiger Data](https://www.tigerdata.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/timescale/timescaledb) — PostgreSQL++ for Time Series, Analytics & AI | Creators of TimescaleDB
-- [Typefully](https://typefully.com/) — Twitter Thread Maker & Analytics
-- [vidIQ](https://vidiq.com/)
-- [vince](https://www.vinceanalytics.com/) — Self Hosted Alternative to Google Analytics
-- [Webstagram](https://webstagram.org/)
-- [Whotwi](https://en.whotwi.com/)
 
 ### Data Visualization
 - ⭐ **[Gephi.org](https://gephi.org/)**
@@ -476,6 +399,83 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - ⭐ **[Gource](https://gource.io/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/acaudwell/Gource) — a software version control visualization tool
 - [Git History](https://githistory.xyz/)
 - [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) — A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story
+
+### Web Analytics Service
+- ⭐ **[Plausible Analytics](https://plausible.io/)**
+- ⭐ **[Rybbit Analytics](https://www.rybbit.io/)**
+- ⭐ **[umami.is](https://umami.is/)**
+- [App Annie](https://www.appannie.com/en)
+- [BOIA](https://www.boia.org/)
+- [Buffer](https://buffer.com/)
+- [BuzzSumo](https://buzzsumo.com/)
+- [Clicky](https://clicky.com/)
+- [Contador de Visitas](https://www.contadorvisitasgratis.com/)
+- [Counter](https://counter.dev/)
+- [Countly](https://count.ly/)
+- [Crater](https://crater.financial/) — Embedded Invoicing & Bill Pay for platforms
+- [Databox](https://databox.com/)
+- [Databricks IQ](https://www.databricks.com/product/data-intelligence-platform) — AI-Driven Analytics for Faster Data Insights
+- [DeepSource](https://deepsource.io/)
+- [Fathom Analytics](https://usefathom.com/)
+- [fifonik/FFMetrics](https://github.com/fifonik/FFMetrics) — Visualizes Video Quality Metrics (PSNR, SSIM & VMAF) calculated by ffmpeg.exe
+- [Foudroyer](https://www.foudroyer.com/) — the seo tool of the future
+- [GoatCounter](https://www.goatcounter.com/)
+- [Google Analytics](https://marketingplatform.google.com/about/analytics)
+- [Google Analytics](https://analytics.withgoogle.com/)
+- [Hevo Data](https://hevodata.com/)
+- [Holistics](https://www.holistics.io/) — Self-service BI Platform
+- [Hootsuite](https://www.hootsuite.com/)
+- [Hudl • Tools to help every team, coach and athlete improve](https://www.hudl.com/)
+- [Hypeauditor](https://hypeauditor.com/)
+- [IBM SPSS Statistics](https://www.ibm.com/products/spss-statistics)
+- [Ilo](https://ilo.so/) — Twitter analytics
+- [Insights.io](https://getinsights.io/)
+- [jehna/ga-lite · GitHub](https://github.com/jehna/ga-lite)
+- [Keyhole](https://keyhole.co/)
+- [Knoema](https://knoema.com/)
+- [Later](https://later.com/)
+- [Luma](https://lu.ma/)
+- [Matomo Analytics](https://matomo.org/)
+- [Medama Analytics](https://oss.medama.io/introduction)
+- [Metabase](https://www.metabase.com/) — Business Intelligence, Dashboards, and Data Visualization
+- [Metricool](https://metricool.com/)
+- [Mimoto](https://www.baxnettechnologies.com/mimoto)
+- [Murmel.social](https://murmel.social/)
+- [NeuronWriter](https://neuronwriter.com/) — Content optimization with #semanticSEO
+- [Notionlytics](https://notionlytics.com/)
+- [Oktopost](https://www.oktopost.com/)
+- [Open Web Analytics](https://www.openwebanalytics.com/)
+- [OpenMetadata](https://open-metadata.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/open-metadata/OpenMetadata) — #1 Open Source Metadata Platform
+- [Openpanel.dev](https://openpanel.dev/) — An open-source alternative to Mixpanel
+- [Palantir](https://www.palantir.com/platforms/gotham/) — Gotham
+- [Piqo Analytics](https://piqo.app/) — Grow your traffic, search, and revenue
+- [Pridma analytics](https://www.prismeanalytics.com/) — Customizable, privacy-friendly Google Analytics alternative
+- [Pulse. Privacy-Friendly Website Analytics](https://pulse.velovix.com/)
+- [Qlik Data Integration, Data Quality, and Analytics Solutions](https://www.qlik.com/us)
+- [Rybbit](https://rybbit.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/rybbit-io/rybbit) — Cookieless Google Analytics Replacement
+- [Scalpex index](https://www.scalpexindex.com/)
+- [Sensor Tower](https://sensortower.com/)
+- [Simple Analytics](https://www.simpleanalytics.com/)
+- [Smartlook](https://www.smartlook.com/)
+- [Social Bearing](https://socialbearing.com/)
+- [Socialbakers](https://www.socialbakers.com/)
+- [Solarwinds pingdom](https://www.pingdom.com/)
+- [Soundcharts](https://soundcharts.com/) — Analyze All the Music Industry Data
+- [Stata](https://www.stata.com/) — Statistical software for data science
+- [StreamElements](https://streamelements.com/)
+- [Streams Charts](https://streamscharts.com/)
+- [Supersimple](https://www.supersimple.io/) — Business Intelligence for B2B SaaS
+- [Swiftype](https://swiftype.com/)
+- [Tableau](https://www.tableau.com/)
+- [Telegram Stats](https://tgstat.ru/)
+- [theOehrly/Fast-F1](https://github.com/theOehrly/Fast-F1) — FastF1 is a python package for accessing and analyzing Formula 1 results, schedules, timing data and telemetry
+- [Tianji = Website Analytics + Uptime Monitor + Server Status](https://tianji.msgbyte.com/)
+- [Tiger Data](https://www.tigerdata.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/timescale/timescaledb) — PostgreSQL++ for Time Series, Analytics & AI | Creators of TimescaleDB
+- [Typefully](https://typefully.com/) — Twitter Thread Maker & Analytics
+- [vidIQ](https://vidiq.com/)
+- [vince](https://www.vinceanalytics.com/) — Self Hosted Alternative to Google Analytics
+- [Webstagram](https://webstagram.org/)
+- [Whotwi](https://en.whotwi.com/)
 
 ## Finance Manager
 - [Actual](https://actualbudget.org/) — Actual Budget Documentation
@@ -909,6 +909,34 @@ description: Note-taking, task management, bookmarking, calculators, translators
 
 ## Scanner
 
+### Barcode Scanner
+- [BinaryEye · GitHub](https://github.com/markusfisch/BinaryEye)
+- [CoBang · GitHub](https://github.com/hongquan/CoBang)
+- [Decoder · GitLab](https://gitlab.gnome.org/World/decoder/)
+- [QR Code & Barcode Scanner](https://play.google.com/store/apps/details?id=com.camvision.qrcode.barcode.reader)
+- [QR Code Scanner](https://play.google.com/store/apps/details?id=utility.qr.scanner.reader) — Google Play Store
+- [QuaggaJS, JS barcode-reader · GitHub](https://serratus.github.io/quaggaJS/)
+- [Scanbot SDK](https://scanbot.io/) — On-Device Intelligence for Mobile Data Capture
+- [Scangine](https://scangine.com/)
+- [zxing/zxing](https://github.com/zxing/zxing) — ZXing ("Zebra Crossing") · GitHub
+
+### Document Scanner
+- [Adobe Scan FAQ](https://helpx.adobe.com/mobile-apps/help/adobe-scan-faq.html)
+- [Akylas/com.akylas.documentscanner · GitHub](https://github.com/Akylas/com.akylas.documentscanner)
+- [Akylas/OSS-DocumentScanner](https://github.com/Akylas/OSS-DocumentScanner) — Document scanning app
+- [CamScanner](https://www.camscanner.com/)
+- [egdels/makeacopy · GitHub](https://github.com/egdels/makeacopy)
+- [ethereal-developers/OpenScan · GitHub](https://github.com/ethereal-developers/OpenScan)
+- [FairScan](https://fairscan.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/pynicolas/FairScan) — Simple & Respectful Document Scanner for Android
+- [Fast Scanner](https://www.coolmobilesolution.com/)
+- [Genius Scan](https://thegrizzlylabs.com/genius-scan) — Mobile Document Scanner App with PDF Creation and OCR Text Recognition
+- [LittleTrickster/PDF-Doc-Scan · GitHub](https://github.com/LittleTrickster/PDF-Doc-Scan)
+- [Microsoft Lens](https://play.google.com/store/apps/details?id=com.microsoft.office.officelens) — PDF Scanner - Apps on Google Play
+- [Pocket Scanner](https://www.kdan.com/pocket-scanner) — The Best Scanner App For iOS
+- [SwiftScan](https://swiftscan.app/en/index.html)
+- [Tap Mobile](https://tap.pm/)
+- [Tiny Scanner](https://www.tinyscan.app/) — document scanning, file converter and text recognition
+
 ### OCR
 - [Amazon Textract](https://aws.amazon.com/textract/) — OCR Software, Data Extraction Tool
 - [Capture2Text](https://sourceforge.net/projects/capture2text/) — SourceForge
@@ -944,34 +972,6 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [Text Scanner](https://play.google.com/store/apps/details?id=com.bluefish.ocr) — OCR - Apps on Google Play
 - [TextSnatcher · GitHub](https://github.com/RajSolai/TextSnatcher)
 - [TextSniper](https://textsniper.app/)
-
-### Document Scanner
-- [Adobe Scan FAQ](https://helpx.adobe.com/mobile-apps/help/adobe-scan-faq.html)
-- [Akylas/com.akylas.documentscanner · GitHub](https://github.com/Akylas/com.akylas.documentscanner)
-- [Akylas/OSS-DocumentScanner](https://github.com/Akylas/OSS-DocumentScanner) — Document scanning app
-- [CamScanner](https://www.camscanner.com/)
-- [egdels/makeacopy · GitHub](https://github.com/egdels/makeacopy)
-- [ethereal-developers/OpenScan · GitHub](https://github.com/ethereal-developers/OpenScan)
-- [FairScan](https://fairscan.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/pynicolas/FairScan) — Simple & Respectful Document Scanner for Android
-- [Fast Scanner](https://www.coolmobilesolution.com/)
-- [Genius Scan](https://thegrizzlylabs.com/genius-scan) — Mobile Document Scanner App with PDF Creation and OCR Text Recognition
-- [LittleTrickster/PDF-Doc-Scan · GitHub](https://github.com/LittleTrickster/PDF-Doc-Scan)
-- [Microsoft Lens](https://play.google.com/store/apps/details?id=com.microsoft.office.officelens) — PDF Scanner - Apps on Google Play
-- [Pocket Scanner](https://www.kdan.com/pocket-scanner) — The Best Scanner App For iOS
-- [SwiftScan](https://swiftscan.app/en/index.html)
-- [Tap Mobile](https://tap.pm/)
-- [Tiny Scanner](https://www.tinyscan.app/) — document scanning, file converter and text recognition
-
-### Barcode Scanner
-- [BinaryEye · GitHub](https://github.com/markusfisch/BinaryEye)
-- [CoBang · GitHub](https://github.com/hongquan/CoBang)
-- [Decoder · GitLab](https://gitlab.gnome.org/World/decoder/)
-- [QR Code & Barcode Scanner](https://play.google.com/store/apps/details?id=com.camvision.qrcode.barcode.reader)
-- [QR Code Scanner](https://play.google.com/store/apps/details?id=utility.qr.scanner.reader) — Google Play Store
-- [QuaggaJS, JS barcode-reader · GitHub](https://serratus.github.io/quaggaJS/)
-- [Scanbot SDK](https://scanbot.io/) — On-Device Intelligence for Mobile Data Capture
-- [Scangine](https://scangine.com/)
-- [zxing/zxing](https://github.com/zxing/zxing) — ZXing ("Zebra Crossing") · GitHub
 
 ### OMR
 - ⭐ **[Audiveris/audiveris](https://github.com/Audiveris/audiveris)** — Latest generation of Audiveris OMR engine
@@ -1166,6 +1166,9 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [World Time Zone](https://www.worldtimezone.com/)
 - [WorldTimeServer](https://www.worldtimeserver.com/)
 
+### Alarm
+- [Online Alarm Clock](https://onlinealarmkur.com/en/)
+
 ### Calendar
 - ⭐ **[Morgen.so](https://morgen.so/)**
 - [Aeon Timeline](https://timeline.app/)
@@ -1214,6 +1217,14 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [Twitimer](https://twitimer.com/)
 - [WinCalendar](https://www.wincalendar.com/eu)
 
+### Chronometer
+- [Chronometer](http://chronme.com/)
+- [Chronomètre en ligne](https://www.chronometre-en-ligne.com/)
+- [Crontab.guru](https://crontab.guru/)
+- [Online Stopwatch](https://stopwatch.onlineclock.net/)
+- [TimeGRID · GitHub](https://aoueon.github.io/timegrid/)
+- [vClock](https://vclock.com/)
+
 ### Moon Phases
 - [DAFF Moon Phase for Android](https://www.dafftin.com/)
 - [Fases de la luna 2020 & 2021](https://www.calendario-365.es/luna/lunar-fases.html)
@@ -1222,20 +1233,27 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [Moon Phases Calendar](https://www.spaceweatherlive.com/en/moon-phases-calendar)
 - [Moongiant](https://www.moongiant.com/) — Next Full Moon
 
+### Sun Time Calculator
+- [Meteogram](https://meteogram.es/sol/) — Sol
+- [Planit! for Photographers](https://www.planitphoto.com/) — Plan the Shot!
+- [Salida y puesta de Sol](https://salidaypuestadelsol.com/sun)
+- [SunCalc sun position- und sun phases calculator](https://www.suncalc.org/)
+- [SunEarthTools.com solar tools for consumers and designers](https://www.sunearthtools.com/)
+- [SunIZup](https://sunizup.com/) — Golden Hour Photography App
+- [Sunrise and sunset](https://sunrise-sunset.org/) — Free calendars and calculator
+- [Sunrise and Sunset Calculator](https://www.timeanddate.com/sun/) — TIme and Date
+- [Sunrise Sunset Calendars](https://www.sunrisesunset.com/)
+- [Sunrise Sunset Times Lookup](https://sunrise.maplogs.com/) — MAPLOGS
+- [sunrise-and-sunset.com](https://www.sunrise-and-sunset.com/en)
+- [Table of Sunrise/Sunset](https://aa.usno.navy.mil/calculated/rstt/year) — Navy
+- [Table of Sunrise/Sunset, Moonrise/Moonset, or Twilight Times for an Entire Year](https://aa.usno.navy.mil/data/RS_OneYear)
+
 ### Time Management
 - [Forestapp](https://forestapp.cc/) — Stay focused, be present
 - [Habitica](https://habitica.com/)
 - [Plantie](https://plantie.app/)
 - [Run&Grow](https://www.runandgrow.com/) — Run Farther, Grow Stronger
 - [TimeScribe](https://timescribe.app/)
-
-### Chronometer
-- [Chronometer](http://chronme.com/)
-- [Chronomètre en ligne](https://www.chronometre-en-ligne.com/)
-- [Crontab.guru](https://crontab.guru/)
-- [Online Stopwatch](https://stopwatch.onlineclock.net/)
-- [TimeGRID · GitHub](https://aoueon.github.io/timegrid/)
-- [vClock](https://vclock.com/)
 
 ### Time Tracker
 - ⭐ **[ActivityWatch](https://activitywatch.net/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/ActivityWatch/activitywatch)
@@ -1316,24 +1334,6 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [StayFree](https://stayfreeapps.com/)
 - [SurfPal](https://surfpal.mutacore.com/) — Screen Time Tracker & Website Blocker
 - [YourHour App](https://www.yourhour.app/)
-
-### Alarm
-- [Online Alarm Clock](https://onlinealarmkur.com/en/)
-
-### Sun Time Calculator
-- [Meteogram](https://meteogram.es/sol/) — Sol
-- [Planit! for Photographers](https://www.planitphoto.com/) — Plan the Shot!
-- [Salida y puesta de Sol](https://salidaypuestadelsol.com/sun)
-- [SunCalc sun position- und sun phases calculator](https://www.suncalc.org/)
-- [SunEarthTools.com solar tools for consumers and designers](https://www.sunearthtools.com/)
-- [SunIZup](https://sunizup.com/) — Golden Hour Photography App
-- [Sunrise and sunset](https://sunrise-sunset.org/) — Free calendars and calculator
-- [Sunrise and Sunset Calculator](https://www.timeanddate.com/sun/) — TIme and Date
-- [Sunrise Sunset Calendars](https://www.sunrisesunset.com/)
-- [Sunrise Sunset Times Lookup](https://sunrise.maplogs.com/) — MAPLOGS
-- [sunrise-and-sunset.com](https://www.sunrise-and-sunset.com/en)
-- [Table of Sunrise/Sunset](https://aa.usno.navy.mil/calculated/rstt/year) — Navy
-- [Table of Sunrise/Sunset, Moonrise/Moonset, or Twilight Times for an Entire Year](https://aa.usno.navy.mil/data/RS_OneYear)
 
 ## Word Processor
 - [AbiWord](http://www.nl.abisource.com/)
