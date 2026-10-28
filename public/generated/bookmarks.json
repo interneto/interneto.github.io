@@ -350609,6 +350609,23 @@
     "createdAt": "2022-06-28T21:31:01.742Z"
   },
   {
+    "id": "1904659352",
+    "title": "Archive Genocide — Documented Gaza Genocide & Israeli War Crimes Video Archive",
+    "url": "https://archivegenocide.com/",
+    "description": "Documented evidence of war crimes in Gaza and the West Bank.",
+    "domain": "archivegenocide.com",
+    "cover": "https://archivegenocide.com/og-image.png?v=2",
+    "favorite": false,
+    "category": "online-services",
+    "subcategory": [
+      "Database",
+      "Case Law Database"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-28T01:03:11.260Z"
+  },
+  {
     "id": "287101986",
     "title": "Archive music",
     "url": "https://archive.org/details/audio",
@@ -452231,8 +452248,13 @@
       "OS Components",
       "Bootloader"
     ],
-    "tags": [],
-    "sourceCodeUrls": [],
+    "tags": [
+      "Type: Open-Source",
+      "Source Code: GitHub"
+    ],
+    "sourceCodeUrls": [
+      "https://github.com/amutable-systems"
+    ],
     "createdAt": "2026-02-02T17:41:09.980Z"
   },
   {
@@ -524509,6 +524531,27 @@
     "createdAt": "2021-05-15T20:52:50.000Z"
   },
   {
+    "id": "1903927160",
+    "title": "seedds/nxnative: Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE host, NVN→Metal)",
+    "url": "https://github.com/seedds/nxnative",
+    "description": "Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE host, NVN→Metal)",
+    "domain": "github.com",
+    "cover": "https://opengraph.githubassets.com/ad393eaa5cbd6a2ba94389c3df121e4de5b314c5e4c9d8adc2ff22fe552a4831/seedds/nxnative",
+    "favorite": false,
+    "category": "system-administration",
+    "subcategory": [
+      "Emulation & Virtualization",
+      "OS-Emulator",
+      "Game Console Emulator"
+    ],
+    "tags": [
+      "Source Code: GitHub",
+      "Type: Open-Source"
+    ],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-27T09:56:48.600Z"
+  },
+  {
     "id": "365737224",
     "title": "Sentry.io",
     "url": "https://sentry.io/welcome/",
@@ -530856,6 +530899,26 @@
     ],
     "sourceCodeUrls": [],
     "createdAt": "2026-05-19T23:29:16.980Z"
+  },
+  {
+    "id": "1904366382",
+    "title": "Zagitta/gpu-unlock: Unlock FP/BF16 instruction issue rate on Nvidia 3000's cards to their professional equivalents",
+    "url": "https://github.com/Zagitta/gpu-unlock",
+    "description": "Contribute to Zagitta/gpu-unlock development by creating an account on GitHub.",
+    "domain": "github.com",
+    "cover": "https://opengraph.githubassets.com/247986672060ee560f287ce51ed963ed32ef36cf12789ce8c3e77031d6c41f42/Zagitta/gpu-unlock",
+    "favorite": false,
+    "category": "system-administration",
+    "subcategory": [
+      "Driver",
+      "GPU Driver"
+    ],
+    "tags": [
+      "Source Code: GitHub",
+      "Type: Open-Source"
+    ],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-10-27T16:55:15.937Z"
   },
   {
     "id": "419929767",

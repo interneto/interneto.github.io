@@ -5,7 +5,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 
 # System Administration
 
-**Total Bookmarks:** 1368
+**Total Bookmarks:** 1370
 
 - [osquery](https://osquery.io/)
 - [PIVPN](https://pivpn.io/) — Simplest way to setup a VPN
@@ -260,6 +260,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [NVIDIA](https://www.nvidia.com/en-us/drivers/unix/) — Unix Drivers
 - [NVIDIA Control Panel](https://www.microsoft.com/es-es/p/nvidia-control-panel/9nf8h0h7wmlt?activetab=pivot%3Aoverviewtab)
 - [NVIDIA drivers](https://www.nvidia.com/download/index.aspx)
+- [Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock) — Unlock FP/BF16 instruction issue rate on Nvidia 3000's cards to their professional equivalents
 
 ### Keyboard Driver
 - [Ergogen](https://ergogen.xyz/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/ergogen)
@@ -518,6 +519,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [Ryujinx](https://ryujinx.org/) — Nintendo Switch Emulator
 - [SameBoy](https://sameboy.github.io/)
 - [ScummVM](https://www.scummvm.org/)
+- [seedds/nxnative](https://github.com/seedds/nxnative) — Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE host, NVN→Metal)
 - [ShadPS4](https://shadps4.net/) — PS4 emulator for PC
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) — PlayStation 4 emulator for Windows, Linux and macOS written in C++
 - [simias/rustation](https://github.com/simias/rustation) — Playstation emulator in the Rust programing language
