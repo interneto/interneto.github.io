@@ -5,7 +5,7 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 
 # Education & Reference
 
-**Total Bookmarks:** 1315
+**Total Bookmarks:** 1316
 
 - [Academia Lab](https://academia-lab.com/)
 - [DosisPedia](https://dosispedia.com/)
@@ -1456,6 +1456,7 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - ⭐ **[Cheatography](https://cheatography.com/)**
 - [Academo.org](https://academo.org/)
 - [Alegsa](https://www.alegsa.com.ar/)
+- [Apuntes DAM y DAW gratis](https://apuntesdam.com/) — temario, ejercicios resueltos y test
 - [Astronomía Educativa](https://www.astromia.com/)
 - [Earth How](https://earthhow.com/)
 - [eChalk](https://www.echalk.co.uk/)

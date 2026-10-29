@@ -5,7 +5,7 @@ description: Games, launchers, emulators, and gaming utilities
 
 # Gaming
 
-**Total Bookmarks:** 754
+**Total Bookmarks:** 755
 
 
 ## Games
@@ -389,6 +389,7 @@ description: Games, launchers, emulators, and gaming utilities
 - [Genshin Impact](https://genshin.hoyoverse.com/en/home) — Step into a Vast Magical World for Adventure
 - [Honkai](https://hsr.hoyoverse.com/en-us/) — Star Rail
 - [Isleward](https://play.isleward.com/) / [![GitLab](/img/source-hosts/gitlab.svg)](https://gitlab.com/Isleward/isleward)
+- [maxilevi/project-hedra · GitHub](https://github.com/maxilevi/project-hedra)
 - [Netmarble](https://7origin.netmarble.com/en/) — The Seven Deadly Sins: Origin
 - [OpenMW](https://openmw.org/) / [![GitLab](/img/source-hosts/gitlab.svg)](https://gitlab.com/OpenMW/openmw)
 - [Persona](https://persona.atlus.com/series/portal/us/) — Game

@@ -5,7 +5,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 
 # Development
 
-**Total Bookmarks:** 2611
+**Total Bookmarks:** 2612
 
 - [Adobe Open Source](https://opensource.adobe.com/)
 - [Asterisk](https://www.asterisk.org/)
@@ -171,6 +171,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [OpenGOAL](https://opengoal.dev/)
 - [OpenJDK](https://openjdk.java.net/)
 - [Perl](https://www.perl.org/) — Programming language
+- [Pharo](https://pharo.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/pharo-project/pharo) — Welcome to Pharo!
 - [PHP](https://www.php.net/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/php/php-src) — Hypertext Preprocessor
 - [Protocol Buffers](https://protobuf.dev/)
 - [PYPL PopularitY of Programming Language](https://pypl.github.io/PYPL.html)

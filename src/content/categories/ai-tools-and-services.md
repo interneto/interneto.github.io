@@ -5,7 +5,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 
 # AI Tools & Services
 
-**Total Bookmarks:** 770
+**Total Bookmarks:** 771
 
 
 ## Agents & Automation
@@ -203,6 +203,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 ### Personal AI Assistants
 - ⭐ **[OpenClaw](https://openclaw.ai/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/openclaw/openclaw) — Personal AI Assistant
 - [AnyClaw](https://www.anyclaw.dev/)
+- [Atticus](https://saarthurr.github.io/atticus-mac/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/SaarthurR/atticus-mac)
 - [Cerewro](https://cerewro.com/) — Inteligencia artificial para Windows — agente IA multimodal
 - [ChatGPT Agent](https://chatgpt.com/features/agent/)
 - [Claude Cowork](https://www.anthropic.com/product/claude-cowork) — Anthropic’s agentic AI for knowledge work \ Anthropic
