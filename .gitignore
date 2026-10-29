@@ -28,3 +28,6 @@ links/raindrop-state.json
 # Local secrets (RAINDROP_TOKEN for pnpm db:fetch)
 .env
 
+# Internal activity dashboard (local-only tool, not part of the site)
+internal/
+
