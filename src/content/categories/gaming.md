@@ -5,7 +5,7 @@ description: Games, launchers, emulators, and gaming utilities
 
 # Gaming
 
-**Total Bookmarks:** 755
+**Total Bookmarks:** 756
 
 
 ## Games
@@ -471,6 +471,7 @@ description: Games, launchers, emulators, and gaming utilities
 - [plbrault/youre-the-os · GitHub](https://github.com/plbrault/youre-the-os)
 - [Prepar3D](https://www.prepar3d.com/)
 - [Prisma D](https://prismad.psi.uni-bamberg.de/library) — Uni Bamberg
+- [Random-eyes · a digital eye configurator](https://random-eyes.vercel.app/)
 - [Real-Time Wave Tracing](https://quazikb.github.io/WaveEq/index.html)
 - [Reentry](https://reentrygame.com/) — A Space Flight Simulator
 - [RimWorld](https://rimworldgame.com/)

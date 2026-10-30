@@ -5,7 +5,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 
 # AI Tools & Services
 
-**Total Bookmarks:** 771
+**Total Bookmarks:** 776
 
 
 ## Agents & Automation
@@ -58,6 +58,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [Muse AI by Meta](https://muse.ai/)
 - [NVIDIA NeMo](https://www.nvidia.com/en-us/ai-data-science/products/nemo/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/NVIDIA-NeMo/NeMo) — Build, monitor, and optimize AI agents
 - [NVIDIA OpenShell](https://www.nvidia.com/en-us/ai/openshell/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/NVIDIA/OpenShell) — Open, Secure Runtime for AI Agents
+- [OpenBot](https://www.copilotkit.ai/openbot) / [![GitHub](/img/software/apps/github.svg)](https://github.com/CopilotKit/OpenBot)
 - [OpenRig](https://openrig.dev/) — Talk to one agent. Build with a whole team.
 - [Paca](https://paca-ai.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Paca-AI/paca) — Humans and AI agents, one Scrum team
 - [pinchtab/pinchtab](https://github.com/pinchtab/pinchtab) — High-performance browser automation bridge and multi-instance orchestrator with advanced stealth injection and real-time dashboard.
@@ -174,6 +175,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [Blender MCP](https://blendermcp.org/) — AI-Powered 3D Modeling Agent for Blender
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) — Chrome DevTools for coding agents
 - [Claude for Creative Work \ Anthropic](https://www.anthropic.com/news/claude-for-creative-work)
+- [claude-mem](https://cmem.ai/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/thedotmack/claude-mem) — All your context. Everywhere. All at once
 - [codebase-memory-mcp](https://deusdata.github.io/codebase-memory-mcp/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/DeusData/codebase-memory-mcp)
 - [codegraph](https://colbymchenry.github.io/codegraph/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/colbymchenry/codegraph/stargazers)
 - [enuno/unifi-mcp-server](https://github.com/enuno/unifi-mcp-server) — An MCP server that leverages official UniFi API
@@ -246,6 +248,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [google/skills](https://github.com/google/skills) — Agent Skills for Google products and technologies
 - [guanyang/antigravity-skills · GitHub](https://github.com/guanyang/antigravity-skills)
 - [hivecommons/spektacular](https://github.com/hivecommons/spektacular) — Spec-driven development for AI coding agents. Spektacular helps you to generate specifications, the plan, and finally generate the code. Agent-agnostic and pluggable: Claude Code, Bob, Codex
+- [Impeccable](https://impeccable.style/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/pbakaus/impeccable) — The missing design vocabulary for agents
 - [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) — OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) — Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI
 - [Leonxlnx/taste-skill · GitHub](https://github.com/Leonxlnx/taste-skill)
@@ -260,6 +263,8 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [REA](https://rea.tools/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/morluto/rea) — Reverse Engineering for Your Coding Agent
 - [teamchong/pxpipe](https://github.com/teamchong/pxpipe) — cut Fable 5 token usage by rendering text context as images
 - [text-to-cad](https://www.texttocad.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/earthtojake/text-to-cad) — Give your agent CAD superpowers
+- [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks) — LIST OF ALL MY JAILBREAKS
+- [unclebob/ub-mode · GitHub](https://github.com/unclebob/ub-mode)
 - [Wondel.ai Skills](https://skills.wondel.ai/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/wondelai/skills) — 41 Business & Engineering Frameworks as AI Agent Skills
 - [zubair-trabzada/geo-seo-claude](https://github.com/zubair-trabzada/geo-seo-claude) — GEO-first SEO skill for Claude Code. Comprehensive AI search optimization for any website — citability scoring, AI crawler analysis, brand authority, schema markup, platform-specific optimization, and PDF reports. If you want learn how to sell this to real businesses, check out the skool community
 

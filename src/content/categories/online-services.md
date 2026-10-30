@@ -5,7 +5,7 @@ description: Search engines, web directories, software directories, corporations
 
 # Online Services
 
-**Total Bookmarks:** 5684
+**Total Bookmarks:** 5685
 
 
 ## Biography
@@ -3777,6 +3777,7 @@ description: Search engines, web directories, software directories, corporations
 - ⭐ **[Iconify](https://iconify.design/)**
 - ⭐ **[Simple Icons](https://simpleicons.org/)**
 - ⭐ **[SVG Repo](https://www.svgrepo.com/)**
+- [AnimateIcons](https://animateicons.in/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Avijit07x/animateicons) — 1500+ Free Animated React Icons
 - [Animaticons](https://animaticons.co/)
 - [Animatly](https://animatly.io/icons)
 - [BioRender](https://biorender.com/)

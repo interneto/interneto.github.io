@@ -5,7 +5,7 @@ description: Email, messaging, forums, social networks, and video conferencing
 
 # Social & Communications
 
-**Total Bookmarks:** 1303
+**Total Bookmarks:** 1304
 
 
 ## 2FA
@@ -1452,6 +1452,7 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [YY.com](https://www.yy.com/)
 
 ### Voice Chat
+- ⭐ **[tincan](https://tincan.rs/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/bilalyazicioglu/tincan-cli) — Serverless Peer-to-Peer Voice Chat for the Terminal
 - [Mumble.info](https://www.mumble.info/)
 - [TeamSpeak](https://www.teamspeak.com/en/)
 - [Voximity](https://voximity.chat/)
