@@ -5,7 +5,7 @@ description: Email, messaging, forums, social networks, and video conferencing
 
 # Social & Communications
 
-**Total Bookmarks:** 1304
+**Total Bookmarks:** 1305
 
 
 ## 2FA
@@ -248,6 +248,7 @@ description: Email, messaging, forums, social networks, and video conferencing
 - ⭐ **[Rafiuth/Soggfy](https://github.com/Rafiuth/Soggfy)** — Spotify ogg dumper
 - [cnovel/PodcastBulkDownloader](https://github.com/cnovel/PodcastBulkDownloader) — Simple software for downloading podcasts
 - [Deezloader » Enjoy free High-Quality Songs, Albums & Playlists](https://www.deezloader.app/)
+- [DoubleDouble](https://eu.doubledouble.top/) — Music Downloads
 - [Free MP3 Download](https://free-mp3-download.net/) — Free 320kbps MP3 and FLAC Downloads
 - [Free MP3 Downloads](https://freemp3downloads.online/)
 - [Free MP3 Finder](https://www.amoyshare.com/free-mp3-finder)

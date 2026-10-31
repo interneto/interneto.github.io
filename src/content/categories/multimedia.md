@@ -5,7 +5,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 
 # Multimedia
 
-**Total Bookmarks:** 2216
+**Total Bookmarks:** 2217
 
 
 ## Audio & Music
@@ -1314,6 +1314,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 #### CAD
 - ⭐ **[FreeCAD](https://www.freecad.org/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/FreeCAD/FreeCAD) — Your own 3D parametric modeler
 - ⭐ **[Shapr3D](https://www.shapr3d.com/)** — 3D CAD for designing manufacturing-ready models
+- ⭐ **[SolidCraft](https://solidcraft.io/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/tangency-labs/solidcraft) — free, open-source parametric 3D CAD
 - ⭐ **[ZWSOFT](https://www.zwsoft.com/)** — Reliable All-in-One CAx Solutions Provider Empowering Sustainable Innovation
 - [4M](https://www.4msa.com/index.php?lang=en) — CAD
 - [AdamCAD](https://www.adamcad.com/) — AI Powered CAD

@@ -5,7 +5,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 
 # AI Tools & Services
 
-**Total Bookmarks:** 776
+**Total Bookmarks:** 777
 
 
 ## Agents & Automation
@@ -663,6 +663,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [LiveKit](https://livekit.io/)
 - [Llama 2](https://ai.meta.com/llama/) — Meta AI
 - [Llama 3.2](https://www.llama.com/)
+- [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup)
 - [Marin AI](https://marin.community/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/marin-community/marin)
 - [McGill-NLP/Llama-3-8B-Web · Hugging Face](https://huggingface.co/McGill-NLP/Llama-3-8B-Web)
 - [Meta Llama](https://llama.meta.com/)

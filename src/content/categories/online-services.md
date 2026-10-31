@@ -5,7 +5,7 @@ description: Search engines, web directories, software directories, corporations
 
 # Online Services
 
-**Total Bookmarks:** 5685
+**Total Bookmarks:** 5687
 
 
 ## Biography
@@ -137,6 +137,7 @@ description: Search engines, web directories, software directories, corporations
 - [Porcentual](https://www.porcentual.es/)
 - [Statistics and Data](https://www.statisticsanddata.org/)
 - [V1 Analytics](https://v1analytics.co/)
+- [WikiBarrio](https://www.wikibarrio.es/#v=net_income_pc&z=5.76&c=40.3302%2C-3.7124&lang=en)
 
 ### Infography
 - [Animagraffs](https://animagraffs.com/)
@@ -5975,6 +5976,7 @@ description: Search engines, web directories, software directories, corporations
 - [Album of The Year](https://www.albumoftheyear.org/)
 - [AnyDecentMusic](http://www.anydecentmusic.com/)
 - [Rate Your Music](https://rateyourmusic.com/)
+- [Shfl](https://theshfl.com/)
 
 #### Product Review
 - [BestReviews](https://bestreviews.com/)

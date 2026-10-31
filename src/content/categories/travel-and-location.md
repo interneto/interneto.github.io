@@ -5,7 +5,7 @@ description: Maps, weather, travel agencies, and flights
 
 # Travel & Location
 
-**Total Bookmarks:** 803
+**Total Bookmarks:** 804
 
 - [itinio](https://www.itinio.app/) — What to Do in Madrid & Barcelona | Best Local Routes & Food
 - [TREK](https://demo-nomad.pakulat.org/dashboard) / [![GitHub](/img/software/apps/github.svg)](https://github.com/mauriceboe/TREK)
@@ -273,6 +273,7 @@ description: Maps, weather, travel agencies, and flights
 - [OpenCycleMap.org](https://www.opencyclemap.org/) — the OpenStreetMap Cycle Map
 - [SocialDrive](https://www.socialdrive.es/)
 - [Speed Camera Database of Speed Camera Locations and Speed Camera Detector Shop](https://www.speedcamerasuk.com/index.htm)
+- [Vía libre](https://vialibre.soft-flow.app/)
 - [Waze map](https://www.waze.com/)
 
 ### GIS Software

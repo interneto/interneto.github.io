@@ -5,7 +5,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 
 # System Administration
 
-**Total Bookmarks:** 1371
+**Total Bookmarks:** 1374
 
 - [osquery](https://osquery.io/)
 - [PIVPN](https://pivpn.io/) — Simplest way to setup a VPN
@@ -490,9 +490,11 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [kelpsyberry/dust](https://github.com/kelpsyberry/dust) — A Nintendo DS emulator written in Rust for desktop devices and the web, with debugging features and a focus on accuracy
 - [Kyty Emulator](https://www.kytyemulator.com/) — Download Free (Latest Version)
 - [KytyPS5 · Open-Source PlayStation 5 Emulator](https://kytyps5.github.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/KytyPS5/KytyPS5)
+- [KytyPS5/KytyPS5](https://github.com/KytyPS5/KytyPS5) — PlayStation 5 translation layer for Windows, Linux and macOS
 - [Libretro](https://www.libretro.com/) — API of RetroArch
 - [Lime3DS](https://lime3ds.github.io/)
 - [MAME Project](https://www.mamedev.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/mamedev/mame)
+- [mattias800/prosper](https://github.com/mattias800/prosper) — A user-space PlayStation 5 to PC compatibility layer for Linux, Windows, and macOS.
 - [melonDS](https://melonds.kuribo64.net/)
 - [Mesen](https://www.mesen.ca/) — Emulator
 - [mGBA](https://mgba.io/)
@@ -522,6 +524,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [seedds/nxnative](https://github.com/seedds/nxnative) — Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE host, NVN→Metal)
 - [ShadPS4](https://shadps4.net/) — PS4 emulator for PC
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) — PlayStation 4 emulator for Windows, Linux and macOS written in C++
+- [SharpEmu](https://sharpemu.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/sharpemu/sharpemu) — experimental PS5 and PS4 emulator
 - [simias/rustation](https://github.com/simias/rustation) — Playstation emulator in the Rust programing language
 - [skylersaleh/SkyEmu](https://github.com/skylersaleh/SkyEmu) — Game Boy Advance, Game Boy, Game Boy Color, and DS Emulator
 - [Snes9X.COM](https://www.snes9x.com/)
