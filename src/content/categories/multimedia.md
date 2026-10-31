@@ -5,7 +5,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 
 # Multimedia
 
-**Total Bookmarks:** 2213
+**Total Bookmarks:** 2216
 
 
 ## Audio & Music
@@ -362,6 +362,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [KiraStudio](https://kirastudio.org/)
 - [LANDR](https://www.landr.com/) — Creative Tools for Musicians
 - [Logic Pro](https://www.apple.com/logic-pro/) — Apple
+- [LYNX](https://lynx-share.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Ka1-S/LYNX) — a lightweight DAW with the FL Studio workflow
 - [Modartt](https://www.modartt.com/)
 - [Mouse Keyboard](https://www.bome.com/products/mousekeyboard)
 - [Music21](http://web.mit.edu/music21/)
@@ -2099,6 +2100,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [After Effects](https://www.adobe.com/products/aftereffects.html) — Adobe
 - [Boris FX](https://borisfx.com/)
 - [ButtleOFX](https://buttleofx.wordpress.com/)
+- [CorridorKey 2.0](https://corridorkey.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/nikopueringer/CorridorKey2.0) — Neural Green & Blue Screen Keyer
 - [Flowframes](https://nmkd.itch.io/flowframes) — Fast Video Interpolation for any GPU by N00MKRAD
 - [Fusion 17](https://www.blackmagicdesign.com/products/fusion/) — Blackmagic Design
 - [Gyroflow v1.6.3 is out!](https://gyroflow.xyz/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/gyroflow/gyroflow)
@@ -2356,6 +2358,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [MediaChips](https://mediachips.app/)
 - [Movienizer](https://www.movienizer.com/)
 - [Numento 2](https://www.numento.com/en/index.html)
+- [Peach · Your private video library](https://peach.video/en/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/peach-mitao/peach)
 - [Pornspectve](https://pornspective.org/) — collection organiser
 - [Tonkatsu Box](https://hacan359.github.io/tonkatsu_box/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/hacan359/tonkatsu_box) — Organize Games, Movies, TV Shows & Anime Collections
 - [Vee-Hive](https://www.vee-hive.net/)

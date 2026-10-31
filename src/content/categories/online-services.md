@@ -5,7 +5,7 @@ description: Search engines, web directories, software directories, corporations
 
 # Online Services
 
-**Total Bookmarks:** 5683
+**Total Bookmarks:** 5685
 
 
 ## Biography
@@ -3777,6 +3777,7 @@ description: Search engines, web directories, software directories, corporations
 - ⭐ **[Iconify](https://iconify.design/)**
 - ⭐ **[Simple Icons](https://simpleicons.org/)**
 - ⭐ **[SVG Repo](https://www.svgrepo.com/)**
+- [AnimateIcons](https://animateicons.in/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Avijit07x/animateicons) — 1500+ Free Animated React Icons
 - [Animaticons](https://animaticons.co/)
 - [Animatly](https://animatly.io/icons)
 - [BioRender](https://biorender.com/)
@@ -4830,6 +4831,7 @@ description: Search engines, web directories, software directories, corporations
 ##### Anime Streaming
 - ⭐ **[Crunchyroll](https://www.crunchyroll.com/)** — Watch Popular Anime & Read Manga Online
 - ⭐ **[Zoro.to](https://w1.zoro.se/)** — Anime online
+- [ani.pm](https://ani.pm/) — watch anime free, subbed & dubbed, in HD
 - [Anidap](https://anidap.se/) — Watch Anime Online Free | English Sub/Dub in HD
 - [Anime News Network](https://www.animenewsnetwork.com/)
 - [Anime Slayer- موقع انمي سلاير مشاهدة وتحميل أون لاين](https://animeslayer.to/)
