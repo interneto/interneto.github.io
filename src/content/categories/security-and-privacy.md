@@ -5,7 +5,7 @@ description: Password managers, cybersecurity, and web privacy
 
 # Security & Privacy
 
-**Total Bookmarks:** 306
+**Total Bookmarks:** 310
 
 - [Fight Chat Control](https://fightchatcontrol.eu/) — Protect Digital Privacy in the EU
 - [PrivacySpy](https://privacyspy.org/) — We track online privacy
@@ -210,20 +210,24 @@ description: Password managers, cybersecurity, and web privacy
 - [ZAP proxy](https://www.zaproxy.org/)
 
 ### OSINT Tools
+- ⭐ **[🛰️ OSIRIS](https://osirisai.live/?layers=maritime,satellites,cctv,cctv_previews,live_news,earthquakes,global_incidents,day_night,cables,sdk_sea,sdk_air,sdk_naval)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/simplifaisoul/osiris) — Open Source Palantir Alternative | Live Tracking + OSINT Tools
 - ⭐ **[overpass turbo](https://overpass-turbo.eu/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/tyrasd/overpass-turbo)
-- [🛰️ OSIRIS](https://osirisai.live/?layers=maritime,satellites,cctv,cctv_previews,live_news,earthquakes,global_incidents,day_night,cables,sdk_sea,sdk_air,sdk_naval) — Open Source Palantir Alternative | Live Tracking + OSINT Tools
 - [Creepy by ilektrojohn](https://www.geocreepy.com/)
 - [Datalux/Osintgram · GitHub](https://github.com/Datalux/Osintgram)
 - [FortyNorthSecurity/EyeWitness · GitHub](https://github.com/FortyNorthSecurity/EyeWitness)
 - [IDCrawl](https://www.idcrawl.com/) — Free People Search Engine
+- [ishandutta2007/Vishnu](https://github.com/ishandutta2007/Vishnu) — Open source alternative of Palantir Gotham 🌟 Star if you like it! 🌟'
+- [JehanPatel/Palantir-OSINT](https://github.com/JehanPatel/Palantir-OSINT) — An attempt to create a Stateless intelligence router built with FastAPI and React/Cytoscape.js. Aggregates live OSINT/CTI feeds into an in-memory graph for interactive link analysis
 - [lanmaster53/recon-ng · GitHub](https://github.com/lanmaster53/recon-ng)
 - [laramies/theHarvester · GitHub](https://github.com/laramies/theHarvester)
 - [mxrch/GHunt](https://github.com/mxrch/ghunt) — 🕵️‍♂️ Offensive Google framework.
 - [NexVision Web Threat Intelligence](https://www.nexvisionlab.com/) — OSINT
+- [Orodruin](https://orodruin.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Dev-next-gen/orodruin) — Open-source intelligence
 - [p1ngul1n0/blackbird](https://github.com/p1ngul1n0/blackbird) — An OSINT tool to search for accounts by username and email in social networks.
 - [Sherlock Project](https://sherlock-project.github.io/)
 - [smicallef/spiderfoot · GitHub](https://github.com/smicallef/spiderfoot)
 - [sundowndev/phoneinfoga · GitHub](https://github.com/sundowndev/phoneinfoga)
+- [WORLDVIEW](https://akashic.cavira.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/CaviraOSS/Akashic) — OSINT Platform
 
 ### PenTesting
 - [Aircrack-ng](https://www.aircrack-ng.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/aircrack-ng/aircrack-ng)

@@ -5,7 +5,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 
 # AI Tools & Services
 
-**Total Bookmarks:** 777
+**Total Bookmarks:** 778
 
 
 ## Agents & Automation
@@ -60,6 +60,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [NVIDIA OpenShell](https://www.nvidia.com/en-us/ai/openshell/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/NVIDIA/OpenShell) — Open, Secure Runtime for AI Agents
 - [OpenBot](https://www.copilotkit.ai/openbot) / [![GitHub](/img/software/apps/github.svg)](https://github.com/CopilotKit/OpenBot)
 - [OpenRig](https://openrig.dev/) — Talk to one agent. Build with a whole team.
+- [Orkas](https://orkas.ai/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Orkas-AI/Orkas) — Direct your AI team by chat, and scale your business.
 - [Paca](https://paca-ai.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Paca-AI/paca) — Humans and AI agents, one Scrum team
 - [pinchtab/pinchtab](https://github.com/pinchtab/pinchtab) — High-performance browser automation bridge and multi-instance orchestrator with advanced stealth injection and real-time dashboard.
 - [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) — A self-improving RLM agent for coding workflows and long-running autonomous tasks
