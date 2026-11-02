@@ -5,7 +5,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 
 # System Administration
 
-**Total Bookmarks:** 1374
+**Total Bookmarks:** 1375
 
 - [osquery](https://osquery.io/)
 - [PIVPN](https://pivpn.io/) — Simplest way to setup a VPN
@@ -479,6 +479,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [Delta emulator](https://faq.deltaemulator.com/)
 - [Dolphin Emulator](https://dolphin-emu.org/)
 - [Duckstation](https://duckstation.org/) — PS1 Emulator
+- [Eden](https://eden-emu.dev/) / [🔗](https://git.eden-emu.dev/eden-emu/eden/), [🔗](https://git.eden-emu.dev/Takoroka/eden-nx2)
 - [EmuDeck](https://www.emudeck.com/) — Configure your SteamOS, Steam Deck and Rog Ally Emulators
 - [EmulationStation Desktop Edition](https://www.es-de.org/)
 - [ePSXe](http://www.epsxe.com/)

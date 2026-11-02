@@ -5,7 +5,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 
 # AI Tools & Services
 
-**Total Bookmarks:** 778
+**Total Bookmarks:** 779
 
 
 ## Agents & Automation
@@ -350,6 +350,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [Omniverse Audio2Face App](https://www.nvidia.com/en-us/omniverse/apps/audio2face/)
 - [Photo AI™](https://photoai.com/) — AI Photo & Video Generator
 - [RunDiffusion](https://rundiffusion.com/) — Automatic1111 in the Cloud
+- [speridlabs/idol-sdk](https://github.com/speridlabs/idol-sdk)
 - [Stability-AI/StableSwarmUI](https://github.com/Stability-AI/StableSwarmUI) — StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
 - [Stability.Ai Platform](https://platform.stability.ai/)
 - [stabilityai/stable-diffusion-3.5-large · Hugging Face](https://huggingface.co/stabilityai/stable-diffusion-3.5-large)
