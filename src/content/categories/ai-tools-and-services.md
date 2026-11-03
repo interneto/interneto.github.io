@@ -5,7 +5,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 
 # AI Tools & Services
 
-**Total Bookmarks:** 779
+**Total Bookmarks:** 780
 
 
 ## Agents & Automation
@@ -246,6 +246,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [garrytan/gstack](https://github.com/garrytan/gstack/tree/main) — Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [getdesign.md](https://getdesign.md/) — DESIGN.md Collection for AI Agents
 - [GitHub Copilot Chat Cookbook](https://docs.github.com/copilot/tutorials/copilot-chat-cookbook) — GitHub Docs
+- [goodnight000/api-anything](https://github.com/goodnight000/api-anything) — Turn any website into an API your agent can call. Learns from the site's own frontend, heals itself when the site changes
 - [google/skills](https://github.com/google/skills) — Agent Skills for Google products and technologies
 - [guanyang/antigravity-skills · GitHub](https://github.com/guanyang/antigravity-skills)
 - [hivecommons/spektacular](https://github.com/hivecommons/spektacular) — Spec-driven development for AI coding agents. Spektacular helps you to generate specifications, the plan, and finally generate the code. Agent-agnostic and pluggable: Claude Code, Bob, Codex
