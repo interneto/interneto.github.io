@@ -5,7 +5,7 @@ description: Note-taking, task management, bookmarking, calculators, translators
 
 # Office & Productivity
 
-**Total Bookmarks:** 1230
+**Total Bookmarks:** 1233
 
 - ⭐ **[Hotkey Cheatsheet](https://hotkeycheatsheet.com/)** — Improve Your Productivity with Keyboard Shortcuts
 - [Boosted](https://www.boostedproductivity.com/)
@@ -73,6 +73,7 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [Read the Docs](https://about.readthedocs.com/)
 - [Scoop.it](https://www.scoop.it/)
 - [Setmore](https://www.setmore.com/)
+- [SnapSpy](https://snapspy.net/) — Anonymous Snapchat Monitoring
 - [Stormboard](https://www.stormboard.com/)
 - [Tana](https://tana.inc/) — The Everything OS
 - [Taskade.com](https://www.taskade.com/)
@@ -813,6 +814,7 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [Google Docs](https://www.google.com/docs/about)
 - [Google Forms](https://www.google.com/forms/about)
 - [Google Sheets](https://www.google.com/sheets/about)
+- [GridCraft](https://getartcraft.com/apps/gridcraft) / [![GitHub](/img/software/apps/github.svg)](https://github.com/storytold/gridcraft) — Fast, native spreadsheets, rebuilt in pure Rust.
 - [Hancom Office](https://office.hancom.com/)
 - [iWork](https://www.apple.com/iwork/) — apple
 - [Microsoft 365 (account)](https://account.microsoft.com/services/microsoft365/details) — Microsoft Corporation
@@ -864,6 +866,7 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [PDF2go](https://www.pdf2go.com/)
 - [PDF24 Tools](https://tools.pdf24.org/en/)
 - [pdfarranger · GitHub](https://github.com/pdfarranger/pdfarranger)
+- [PdfCraft](https://getartcraft.com/apps/pdfcraft) / [![GitHub](/img/software/apps/github.svg)](https://github.com/storytold/pdfcraft) — The open-source PDF workbench.
 - [PDFfiller](https://www.pdffiller.com/)
 - [Quaterio](https://quaterio.com/) — Visual Document Editor & PDF Generation API
 - [Sejda PDF](https://www.sejda.com/)

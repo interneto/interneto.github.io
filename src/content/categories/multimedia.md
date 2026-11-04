@@ -5,7 +5,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 
 # Multimedia
 
-**Total Bookmarks:** 2217
+**Total Bookmarks:** 2222
 
 
 ## Audio & Music
@@ -62,6 +62,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [Gladia I Audio Transcription API](https://www.gladia.io/)
 - [Handy](https://handy.computer/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/cjpais/Handy)
 - [Hermes](https://hermesvoice.com/) — Magical Voice-to-Text for Mac
+- [Hex](https://anoma.ly/hex/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/anomalyco/hex) — local voice dictation
 - [Hey Ito](https://www.ito.ai/) — AI-Powered Voice to Text for Mac
 - [HoldSpeak](https://holdspeak.com/) — Type 3x faster with AI powered voice-to-text
 - [HTK Speech Recognition Toolkit](https://htk.eng.cam.ac.uk/)
@@ -1016,6 +1017,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [IsoPaint](https://isopaint.art/) — Simple Isometric Drawing App
 - [JPEG photo processing online](https://www.imgonline.com.ua/) — IMG online
 - [LazPaint](https://lazpaint.github.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/bgrabitmap/lazpaint/)
+- [LightCraft](https://getartcraft.com/apps/lightcraft) / [![GitHub](/img/software/apps/github.svg)](https://github.com/storytold/lightcraft) — Your photos. Your pixels. Your machine.
 - [LunaPic](https://www7.lunapic.com/editor/) — Photo Editor
 - [Map Stack by Stamen](https://mapstack.stamen.com/)
 - [Online Image Editor](https://www.online-image-editor.com/)
@@ -1155,6 +1157,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [Scissor](https://scissor.studio/) — vector design in your browser
 - [SmoothDraw](http://www.smoothdraw.com/)
 - [Vector Ink](https://vectorink.io/) — Vector Design Tools for Everyone
+- [VectorCraft](https://getartcraft.com/apps/vectorcraft) / [![GitHub](/img/software/apps/github.svg)](https://github.com/storytold/vectorcraft) — Vector illustration, reimagined in pure Rust.
 - [Vectornator.io](https://www.vectornator.io/)
 
 ### 3D CG
@@ -1331,6 +1334,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [Bricsys](https://www.bricsys.com/) — 2D/3D CAD
 - [BRL-CAD](https://brlcad.org/)
 - [CAD Builder](https://www.opencascade.com/products/cad-builder/)
+- [CADCraft](https://getartcraft.com/apps/cadcraft) / [![GitHub](/img/software/apps/github.svg)](https://github.com/storytold/cadcraft) — Computer-aided design and drafting, reimagined in pure Rust.
 - [CadHub](https://cadhub.xyz/)
 - [chili3d](https://chili3d.com/)
 - [DraftSight](https://www.draftsight.com/) — 2D CAD Design and Drafting Software
@@ -2276,6 +2280,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [edenaion/EZ-CorridorKey](https://github.com/edenaion/EZ-CorridorKey) — Perfect Green Screen Keys made EZ!
 - [EDIUS](https://www.edius.net/)
 - [Event-Horizon-desktop-environment/Nova-Canvas-Studio](https://github.com/Event-Horizon-desktop-environment/Nova-Canvas-Studio) — A new Video Editor with a Pro UX and Demon Speed
+- [FilmCraft](https://getartcraft.com/apps/filmcraft) / [![GitHub](/img/software/apps/github.svg)](https://github.com/storytold/filmcraft) — Professional video editing, rebuilt from scratch.
 - [Final Cut Pro](https://www.apple.com/final-cut-pro/) — Apple
 - [Flowblade](https://jliljebl.github.io/flowblade/)
 - [Funimate](http://funimate.com/)

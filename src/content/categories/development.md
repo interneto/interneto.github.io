@@ -5,7 +5,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 
 # Development
 
-**Total Bookmarks:** 2613
+**Total Bookmarks:** 2615
 
 - [Adobe Open Source](https://opensource.adobe.com/)
 - [Asterisk](https://www.asterisk.org/)
@@ -2423,6 +2423,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [ScrapingBee](https://www.scrapingbee.com/)
 - [Scrapingdog](https://www.scrapingdog.com/)
 - [scrapinghub/portia](https://github.com/scrapinghub/portia) — Visual scraping for Scrapy
+- [Scrapling](https://scrapling.readthedocs.io/en/latest/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/D4Vinci/Scrapling) — Python Web Scraping Framework
 - [Scrapyard Bookmarks](https://addons.mozilla.org/en-US/firefox/addon/scrapyard/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) — Firefox
 - [Selenium](https://www.selenium.dev/)
 - [Spider Pro](https://tryspider.com/)
@@ -2466,6 +2467,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [Termux](https://termux.dev/en/) — Android terminal emulator
 - [Tess](https://tessapp.net/) — Terminal for the new era
 - [tmux/tmux · GItHub](https://github.com/tmux/tmux/)
+- [Utilities / Kwi · GitLab](https://invent.kde.org/utilities/kwi)
 - [Warp.dev](https://www.warp.dev/)
 - [Wez's Terminal Emulator](https://wezfurlong.org/wezterm/)
 - [wez/wezterm · GitHub](https://github.com/wez/wezterm)

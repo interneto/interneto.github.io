@@ -1111,7 +1111,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [Chrome Remote Desktop](https://remotedesktop.google.com/)
 - [Dameware](https://www.dameware.com/) — Remote PC
 - [DWService](https://www.dwservice.net/)
-- [FreeRDP](https://www.freerdp.com/)
+- [FreeRDP](https://www.freerdp.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/FreeRDP/FreeRDP)
 - [Jump Desktop](https://jumpdesktop.com/)
 - [MeshCentral](https://meshcentral.com/)
 - [MRemoteng](https://mremoteng.org/)
