@@ -5,7 +5,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 
 # Development
 
-**Total Bookmarks:** 2615
+**Total Bookmarks:** 2616
 
 - [Adobe Open Source](https://opensource.adobe.com/)
 - [Asterisk](https://www.asterisk.org/)
@@ -2611,6 +2611,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [MonoDevelop](https://www.monodevelop.com/)
 - [Nova IDE](https://nova.app/)
 - [One Ware Studio](https://one-ware.com/studio/)
+- [Paradev (formerly Superset)](https://paradev.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/ParadevAI/Paradev) — Run an army of coding agents
 - [Phoenix](https://phcode.dev/) — IDE for web
 - [PlatformIO](https://platformio.org/)
 - [Portable Python](https://sourceforge.net/projects/portable-python/)
