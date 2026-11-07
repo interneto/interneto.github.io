@@ -2,24 +2,12 @@
 import VPLayout from '../layouts/VPLayout.astro';
 import { TOOLBOX_SECTIONS } from '../data/toolbox-sections';
 
-const BASE = (import.meta as any).env.BASE_URL.replace(/\/?$/, '/');
-
 // Every card in the toolbox lives in one grid now — installers and the app
 // directory alike — filterable by platform. Each platform's compatibility
 // table isn't a separate card anymore; it's a view toggle inside that card's
 // own page (see PlatformViewToggle.astro). Card list lives in
 // data/toolbox-sections.ts — shared with the homepage, which just counts them.
 const toolboxCards = TOOLBOX_SECTIONS;
-
-// Interactive pages that aren't installers.
-const toolCards = [
-  {
-    title: 'LLM Pricing',
-    description: 'Compare the cost and quality of large language models — an interactive chart, kept in sync with the LMArena leaderboards.',
-    href: `${BASE}toolbox/llm-pricing/`,
-    icon: '📊',
-  },
-];
 
 const platformFilters = [
   { value: 'all', label: 'All' },
@@ -102,20 +90,6 @@ const tuiInstall = [
       </div>
     </section>
 
-    <section class="toolbox-section">
-      <div class="toolbox-section-header">
-        <h2>Tools</h2>
-      </div>
-      <div class="toolbox-grid toolbox-grid--fill">
-        {toolCards.map((card) => (
-          <a class="toolbox-card" href={card.href}>
-            <span class="toolbox-card-icon">{card.icon}</span>
-            <h3>{card.title}</h3>
-            <p>{card.description}</p>
-          </a>
-        ))}
-      </div>
-    </section>
   </section>
 
   <script>
