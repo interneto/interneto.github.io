@@ -5,7 +5,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 
 # AI Tools & Services
 
-**Total Bookmarks:** 780
+**Total Bookmarks:** 785
 
 
 ## Agents & Automation
@@ -306,6 +306,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [Microsoft 365 Copilot](https://m365.cloud.microsoft/) — Your AI Assistant for Work and Life
 - [Open Generative AI](https://muapi.ai/open-generative-ai) / [![GitHub](/img/software/apps/github.svg)](https://github.com/anil-matcha/open-generative-ai) — Free AI Image & Video Studio | Muapi
 - [OpenArt](https://openart.ai/) — Discover and generate AI Art
+- [Scenario](https://www.scenario.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/scenario-labs) — AI for Creative Production
 - [TongFlow](https://tongflow.com/en/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/tong-io/tongflow) — Open-source, multimodal AI workflows
 - [TRELLIS 3D AI](https://trellis3d.co/) — Transform Images to 3D Assets Free | Trellis 3D
 - [TRELLIS.2](https://microsoft.github.io/TRELLIS.2/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/microsoft/TRELLIS) — Native and Compact Structured Latents for 3D Generation
@@ -509,6 +510,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [LTX Studio](https://ltx.studio/) — The AI Studio for Video Production
 - [Luma Dream Machine](https://lumalabs.ai/dream-machine)
 - [Magic Animator](https://magicanimator.com/) — Animate in seconds
+- [Magnific Move](https://be.magnific.com/4swsDa7) — Speak motion graphics
 - [manycore-research/InteriorGS](https://github.com/manycore-research/InteriorGS) — InteriorGS: 3D Gaussian Splatting Dataset of Semantically Labeled Indoor Scenes
 - [MeiGen-AI/MultiTalk](https://github.com/meigen-ai/multitalk) — Let Them Talk: Audio-Driven Multi-Person Conversational Video Generation
 - [Mirage Studio](https://mirage.app/) — Generate videos with lifelike actors
@@ -539,6 +541,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [Wondershare Virbo](https://virbo.wondershare.com/) — Generate Engaging AI Video in Minutes!
 
 ## Language Models & Hubs
+- [ModelScope](https://www.modelscope.ai/home)
 
 ### AI Chat Platforms
 - ⭐ **[ChatGPT](https://chatgpt.com/)**
@@ -650,6 +653,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [Cloudflare/clef · Hugging Face](https://huggingface.co/Cloudflare/clef)
 - [Cohere](https://cohere.com/) — The leading AI platform for enterprise
 - [deepseek-ai/Janus](https://github.com/deepseek-ai/Janus/) — Janus-Series: Unified Multimodal Understanding and Generation Models
+- [divagr18/qwenputer](https://github.com/divagr18/qwenputer) — A computer, compiled into the weights of a language model. An exact CPU inside Qwen3.5-4B, with Gated DeltaNet state as RAM.
 - [EleutherAI](https://www.eleuther.ai/)
 - [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF · Hugging Face](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF)
 - [FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c) — A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.
@@ -793,6 +797,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [zilliztech/claude-context · GitHub](https://github.com/zilliztech/claude-context)
 
 ## Specialized Models
+- [miwate/getting-over-it-rl](https://github.com/miwate/getting-over-it-rl) — The first reinforcement learning agent to finish Getting Over It with Bennett Foddy in one continuous run
 
 ### AI Chess Engine
 - ⭐ **[Stockfish](https://stockfishchess.org/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/official-stockfish/Stockfish) — Open Source Chess Engine

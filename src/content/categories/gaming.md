@@ -5,7 +5,7 @@ description: Games, launchers, emulators, and gaming utilities
 
 # Gaming
 
-**Total Bookmarks:** 758
+**Total Bookmarks:** 760
 
 
 ## Games
@@ -446,6 +446,7 @@ description: Games, launchers, emulators, and gaming utilities
 - [History Simulator](https://drtardigrade.itch.io/worldhistorysim)
 - [HNSKY planetarium program](http://www.hnsky.org/software.htm)
 - [House Flipper 2](https://houseflipper2.com/)
+- [inZOI](https://playinzoi.com/en)
 - [ISS Docking Simulator](https://iss-sim.spacex.com/)
 - [jsOrrery](https://mgvez.github.io/jsorrery)
 - [Juno](https://www.simplerockets.com/) — New Origins
@@ -623,6 +624,7 @@ description: Games, launchers, emulators, and gaming utilities
 - [ElyPrismLauncher · Home](https://elyprismlauncher.github.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/ElyPrismLauncher/ElyPrismLauncher)
 - [Epic Games](https://store.epicgames.com/en-US/)
 - [Faugus/faugus-launcher](https://github.com/Faugus/faugus-launcher) — A simple and lightweight app for running Windows games using UMU-Launcher
+- [FX Steam Launcher](https://fxgl.github.io/steamac/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/fxgl/steamac) — SteamOS on your Mac
 - [Gameforge.com](https://gameforge.com/en-US)
 - [GameHub](https://tkashkin.github.io/projects/gamehub/)
 - [GameVault](https://gamevau.lt/)

@@ -5,7 +5,7 @@ description: Note-taking, task management, bookmarking, calculators, translators
 
 # Office & Productivity
 
-**Total Bookmarks:** 1233
+**Total Bookmarks:** 1234
 
 - ⭐ **[Hotkey Cheatsheet](https://hotkeycheatsheet.com/)** — Improve Your Productivity with Keyboard Shortcuts
 - [Boosted](https://www.boostedproductivity.com/)
@@ -224,6 +224,7 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [Zapmarks](https://zapmarks.io/)
 
 ## Business Software
+- [aktive](https://www.aktive.cloud/)
 
 ### Customer Relationship Management (CRM)
 - [AimHarder](https://aimharder.com/) — Management & reservations software 🥇

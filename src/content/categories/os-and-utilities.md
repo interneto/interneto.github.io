@@ -5,7 +5,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 
 # OS & Utilities
 
-**Total Bookmarks:** 1146
+**Total Bookmarks:** 1147
 
 - [Comparison of OS](https://en.wikipedia.org/wiki/Comparison_of_operating_systems) — Wikipedia
 - [Comparison of real-time operating systems](https://en.wikipedia.org/wiki/Comparison_of_real-time_operating_systems) — Wikipedia
@@ -544,6 +544,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [Bazzite](https://bazzite.gg/) — The next generation of Linux gaming
 - [Berry Linux](https://berry-lab.net/)
 - [Bluefin](https://projectbluefin.io/)
+- [CapivaraOS](https://www.capivaraos.org/pt/) — Linux feito para a era da IA
 - [CentOS](https://www.centos.org/)
 - [EU OS](https://eu-os.eu/)
 - [Fedora Asahi Remix](https://fedora-asahi-remix.org/)
@@ -680,7 +681,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [Zentyal Linux Server](https://zentyal.com/)
 
 **NixOS-Based**
-- ⭐ **[Nix & NixOS](https://nixos.org/)**
+- ⭐ **[Nix & NixOS](https://nixos.org/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/NixOS) — Declarative builds and deployments
 - [Athena OS](https://athenaos.org/)
 - [ExpidusOS](https://expidusos.com/en/)
 - [SnowflakeOS](https://snowflakeos.org/)

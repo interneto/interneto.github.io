@@ -5,7 +5,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 
 # Development
 
-**Total Bookmarks:** 2616
+**Total Bookmarks:** 2617
 
 - [Adobe Open Source](https://opensource.adobe.com/)
 - [Asterisk](https://www.asterisk.org/)
@@ -184,7 +184,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [Ruby](https://www.ruby-lang.org/en)
 - [RubyInstaller](https://rubyinstaller.org/)
 - [Runiter](https://www.runiter.com/)
-- [Rust Programming Language](https://www.rust-lang.org/)
+- [Rust Programming Language](https://www.rust-lang.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/rust-lang)
 - [RustPython](https://rustpython.github.io/)
 - [Sass](https://sass-lang.com/) — Syntactically Awesome Style Sheets
 - [Scala Programming Language](https://scala-lang.org/)
@@ -231,6 +231,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 
 ## Database Management
 - [Culprit SQL Studio](https://culpritsql.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/cristipufu/culprit-sql-studio) — find what's slowing your database down
+- [etcd](https://etcd.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/etcd-io/etcd)
 - [RESP.app](https://resp.app/)
 - [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) — A vector index built on TurboQuant, written in Rust with Python bindings
 

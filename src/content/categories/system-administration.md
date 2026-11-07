@@ -5,7 +5,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 
 # System Administration
 
-**Total Bookmarks:** 1375
+**Total Bookmarks:** 1376
 
 - [osquery](https://osquery.io/)
 - [PIVPN](https://pivpn.io/) — Simplest way to setup a VPN
@@ -842,6 +842,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [192.168.1.1 Admin Login](https://192-168-i-i.com/)
 - [DNS Lookup](https://www.nslookup.io/) — Nslookup.io
 - [G Suite.Tools](https://gsuite.tools/)
+- [MAC Address Lookup](https://macvendors.com/)
 - [NATS.io](https://nats.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/nats-io/nats-server)
 - [NetYogi](https://netyogi.net/) — Free Online Network Tools
 - [pool.ntp.org](https://www.ntppool.org/en/) — the internet cluster of ntp servers
@@ -1349,7 +1350,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - ⭐ **[Package Manager](https://smartpack.github.io/PackageManager/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/SmartPack/PackageManager)
 - [Anaconda.com](https://www.anaconda.com/)
 - [asdf](https://asdf-vm.com/)
-- [Astral](https://astral.sh/) — Next-gen Python tooling
+- [Astral](https://astral.sh/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/astral-sh) — Next-gen Python tooling
 - [Aura](https://github.com/fosskers/aura) — AUR package manager
 - [basher](https://www.basher.it/) — package manager for bash
 - [Bitnami](https://bitnami.com/)
