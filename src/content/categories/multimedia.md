@@ -5,7 +5,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 
 # Multimedia
 
-**Total Bookmarks:** 2223
+**Total Bookmarks:** 2225
 
 
 ## Audio & Music
@@ -2234,8 +2234,10 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [yuki-iptv](https://codeberg.org/liya/yuki-iptv)
 
 #### YouTube Client
+- ⭐ **[Flow](https://flow-tube.org/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/Flow-Tube/Flow) — A YouTube Client That Learns With You
 - ⭐ **[LibreTube](https://libretube.dev/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/libre-tube/LibreTube)
 - ⭐ **[pear-devs/pear-desktop · GitHub](https://github.com/th-ch/youtube-music)**
+- [Flow-Tube/Flow](https://github.com/Flow-Tube/Flow)
 - [Metrolist](https://metrolist.meowery.eu/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/MetrolistGroup/Metrolist) — YouTube Music Client
 - [NewPipe](https://newpipe.net/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/TeamNewPipe/NewPipe/) — a free YouTube client
 - [nonbili/NouTube](https://github.com/nonbili/NouTube) — YouTube and YouTube Music in a single app. No ads, plays in the background.

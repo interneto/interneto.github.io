@@ -13,7 +13,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [UPower](https://upower.freedesktop.org/)
 
 ## App Patcher
-- [Morphe](https://morphe.software/) — App for YouTube and Reddit
+- [Morphe](https://morphe.software/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/MorpheApp) — App for YouTube and Reddit
 - [ReVanced.app](https://revanced.app/)
 
 ## Automation Software
