@@ -405,7 +405,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [DOSBox Staging](https://dosbox-staging.github.io/)
 - [exeCute · GitLab](https://gitlab.com/es20490446e/exeCute)
 - [MinGW-w64](https://www.mingw-w64.org/)
-- [MSYS2](https://www.msys2.org/)
+- [MSYS2](https://www.msys2.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/msys2/msys2.github.io)
 - [PlayOnLinux](https://www.playonlinux.com/en/)
 - [Porting Kit](https://www.portingkit.com/)
 - [Raven](https://useraven.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/mirkobrombin/raven) — A Windows your apps recognize.

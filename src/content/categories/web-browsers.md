@@ -5,7 +5,7 @@ description: Browsers and browser-related tools
 
 # Web Browsers
 
-**Total Bookmarks:** 144
+**Total Bookmarks:** 145
 
 - ⭐ **[Lightpanda](https://lightpanda.io/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/lightpanda-io/browser) — The headless browser
 - [Arc from The Browser Company](https://arc.net/)
@@ -71,6 +71,7 @@ description: Browsers and browser-related tools
 - [Naver Whale](https://whale.naver.com/en)
 - [NetworkChuck Cloud Browser](https://browser.networkchuck.com/)
 - [Onion Browser](https://onionbrowser.com/)
+- [OpenArch](https://openarch.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/dpfaffenbauer/OpenArch)
 - [Opera Browser](https://www.opera.com/)
 - [Opera GX](https://www.opera.com/gx)
 - [Opera Neon](https://www.operaneon.com/) — Agentic AI browser
