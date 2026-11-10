@@ -5,7 +5,7 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 
 # Education & Reference
 
-**Total Bookmarks:** 1316
+**Total Bookmarks:** 1317
 
 - [Academia Lab](https://academia-lab.com/)
 - [DosisPedia](https://dosispedia.com/)
@@ -589,6 +589,7 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [4 Geeks Academy](https://4geeksacademy.com/)
 - [Academia de Informática CEI Master PC](http://www.ceimaster.com/)
 - [AlgoMaster.io](https://algomaster.io/) — Master Software Engineering Interviews
+- [Aprende Rust gratis](https://aprenderust.dev/) — Curso desde cero con ejercicios
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) — 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
 - [Be a Better Dev](https://www.beabetterdev.com/)
 - [campusMVP](https://www.campusmvp.es/)

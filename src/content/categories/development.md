@@ -5,7 +5,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 
 # Development
 
-**Total Bookmarks:** 2617
+**Total Bookmarks:** 2618
 
 - [Adobe Open Source](https://opensource.adobe.com/)
 - [Asterisk](https://www.asterisk.org/)
@@ -1984,13 +1984,10 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - ⭐ **[UNIGINE](https://unigine.com/)** — real time 3D engine
 - ⭐ **[Unity](https://unity.com/)** — 3D, 2D, VR & AR Engine
 - ⭐ **[Unreal Engine](https://www.unrealengine.com/)** — The most powerful real-time 3D creation tool
-- [Android Studio](https://developer.android.com/studio/) — Android Developers
 - [Armory 3D](https://armory3d.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/armory3d/armory)
 - [Bevy Engine](https://bevy.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/bevyengine/bevy)
 - [bladecoder/bladecoder-adventure-engine · GitHub](https://github.com/bladecoder/bladecoder-adventure-engine)
-- [Box2D](https://box2d.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/erincatto)
 - [Buildbox](https://www.buildbox.com/)
-- [Bullet Real-Time Physics Simulation](https://pybullet.org/wordpress/)
 - [cheat-engine/cheat-engine · GitHub](https://github.com/cheat-engine/cheat-engine)
 - [Cocos Creator](https://www.cocos.com/en)
 - [Construct 3](https://construct.net/en) — Game making software
@@ -2047,6 +2044,11 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [Wicked Engine](https://wickedengine.net/)
 - [YoYo Games](https://www.yoyogames.com/gamemaker)
 - [ZDoom/Raze · GitHub](https://github.com/ZDoom/Raze)
+
+### Physics Engine
+- [Box2D](https://box2d.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/erincatto)
+- [Bullet Real-Time Physics Simulation](https://pybullet.org/wordpress/)
+- [MuJoCo](https://mujoco.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/google-deepmind/mujoco)
 
 ## Git Client
 - ⭐ **[Git tower](https://www.git-tower.com/)**
@@ -2591,6 +2593,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 #### IDE (Integrated Development Environment)
 - [Aide](https://aide.dev/) — Your AI Programming Assistant
 - [Anaconda Distribution](https://www.anaconda.com/products/distribution)
+- [Android Studio](https://developer.android.com/studio/) — Android Developers
 - [Anjuta DevStudio](http://anjuta.org/)
 - [Apache NetBeans](https://netbeans.apache.org/)
 - [B4X](https://www.b4x.com/) — Cross platform RAD development tools

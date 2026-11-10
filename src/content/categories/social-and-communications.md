@@ -1366,6 +1366,7 @@ description: Email, messaging, forums, social networks, and video conferencing
 
 #### YouTube Frontend
 - ⭐ **[Invidious.io](https://invidious.io/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/iv-org/invidious)
+- ⭐ **[Yout-ube](https://www.yout-ube.com/)** — Watch YouTube Videos with No Ads on Auto-Repeat in Full Screen
 - [Cinemaphile](https://cinemaphile.com/)
 - [Clipzui](https://www.clipzui.com/)
 - [CloudTube](https://tube.cadence.moe/)
@@ -1381,7 +1382,6 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [VidLii](https://www.vidlii.com/)
 - [Wimp.com](https://www.wimp.com/)
 - [Yewtu.be](https://yewtu.be/)
-- [Yout-ube](https://www.yout-ube.com/)
 
 ### Video Chat
 - [8x8](https://www.8x8.com/)

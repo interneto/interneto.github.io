@@ -5,7 +5,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 
 # OS & Utilities
 
-**Total Bookmarks:** 1147
+**Total Bookmarks:** 1148
 
 - [Comparison of OS](https://en.wikipedia.org/wiki/Comparison_of_operating_systems) — Wikipedia
 - [Comparison of real-time operating systems](https://en.wikipedia.org/wiki/Comparison_of_real-time_operating_systems) — Wikipedia
@@ -855,6 +855,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [Deepin desktop](https://www.deepin.org/en/dde/)
 - [Desktop environment](https://en.wikipedia.org/wiki/Desktop_environment) — Wikipedia
 - [Dusk (fork of dwm)](https://github.com/bakkeby/dusk)
+- [Event-Horizon-desktop-environment/Event-Horizon](https://github.com/Event-Horizon-desktop-environment/Event-Horizon) — A zig Written Shell · GitHub
 - [Free Desktop](https://xcb.freedesktop.org/) — xcb
 - [giomatfois62/rofi-desktop · GitHub](https://github.com/giomatfois62/rofi-desktop/tree/main)
 - [GNOME](https://www.gnome.org/)

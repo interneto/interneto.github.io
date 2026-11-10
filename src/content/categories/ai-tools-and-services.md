@@ -5,7 +5,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 
 # AI Tools & Services
 
-**Total Bookmarks:** 785
+**Total Bookmarks:** 788
 
 
 ## Agents & Automation
@@ -14,6 +14,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - ⭐ **[AutoGPT](https://agpt.co/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/Significant-Gravitas/AutoGPT)
 - ⭐ **[AX](https://agentexecutor.io/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/google/ax)
 - ⭐ **[Blackbox](https://www.blackbox.ai/)** — The high-trust platform for frontier inference
+- ⭐ **[OpenRig](https://openrig.dev/)** — Talk to one agent. Build with a whole team.
 - ⭐ **[Paperclip](https://paperclip.ing/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/paperclipai/paperclip) — Open-source orchestration for zero-human companies
 - [agent-substrate/substrate](https://github.com/agent-substrate/substrate) — Agent Substrate: the core system
 - [AgentCraft](https://www.getagentcraft.com/) — RTS interface for agent orchestration
@@ -58,8 +59,8 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [Muse AI by Meta](https://muse.ai/)
 - [NVIDIA NeMo](https://www.nvidia.com/en-us/ai-data-science/products/nemo/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/NVIDIA-NeMo/NeMo) — Build, monitor, and optimize AI agents
 - [NVIDIA OpenShell](https://www.nvidia.com/en-us/ai/openshell/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/NVIDIA/OpenShell) — Open, Secure Runtime for AI Agents
+- [Open Source Grok Bot](https://mausbot.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/milind-soni/OpenMausBot) — MausBot, your team of AI bots
 - [OpenBot](https://www.copilotkit.ai/openbot) / [![GitHub](/img/software/apps/github.svg)](https://github.com/CopilotKit/OpenBot)
-- [OpenRig](https://openrig.dev/) — Talk to one agent. Build with a whole team.
 - [Orkas](https://orkas.ai/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Orkas-AI/Orkas) — Direct your AI team by chat, and scale your business.
 - [Paca](https://paca-ai.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Paca-AI/paca) — Humans and AI agents, one Scrum team
 - [pinchtab/pinchtab](https://github.com/pinchtab/pinchtab) — High-performance browser automation bridge and multi-instance orchestrator with advanced stealth injection and real-time dashboard.
@@ -94,6 +95,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 
 ### Coding Agent
 - ⭐ **[OpenCode](https://opencode.ai/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/anomalyco/opencode) — The open source AI coding agent
+- ⭐ **[Paseo](https://paseo.sh/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/getpaseo/paseo) — Run Claude Code, Codex, Copilot, OpenCode from anywhere
 - ⭐ **[Pi Coding Agent](https://pi.dev/)**
 - [Air](https://air.dev/) — Multitask with agents, stay in control
 - [All Hands AI](https://www.all-hands.dev/)
@@ -118,7 +120,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [openclaude](https://openclaude.gitlawb.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Gitlawb/openclaude) — open-source coding agent CLI for any model
 - [OpenHands](https://openhands.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/OpenHands/OpenHands) — The Open Platform for Cloud Coding Agents
 - [Orca](https://www.onorca.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/stablyai/orca) — The Worktree IDE for Claude Code, Ghostty & AI Coding Agents
-- [Paseo](https://paseo.sh/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/getpaseo/paseo) — Run Claude Code, Codex, Copilot, OpenCode from anywhere
+- [Paseo](https://play.google.com/store/apps/details?id=sh.paseo) — Claude Code & Codex - Apps on Google Play
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) — The first real AI developer
 - [Qoder](https://qoder.com/) — The Agentic Coding Platform
 - [Replit Agent](https://replit.com/products/agent)
@@ -662,6 +664,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [google/gemma-3n-E4B-it · Hugging Face](https://huggingface.co/google/gemma-3n-E4B-it)
 - [google/maxtext](https://github.com/google/maxtext) — A simple, performant and scalable Jax LLM!
 - [GPT-4](https://openai.com/gpt-4) — OpenAI
+- [Holy 💩! Programmable weights taken to an extreme. The reason why is significant. 👇](https://x.com/TeksEdge/status/2118857211992854892)
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) — The best ChatGPT that $100 can buy
 - [Koala](https://bair.berkeley.edu/blog/2023/04/03/koala/) — A Dialogue Model for Academic Research
 - [LAION-AI/Open-Assistant · GitHub](https://github.com/LAION-AI/Open-Assistant)
