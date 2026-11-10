@@ -5,7 +5,7 @@ description: Note-taking, task management, bookmarking, calculators, translators
 
 # Office & Productivity
 
-**Total Bookmarks:** 1234
+**Total Bookmarks:** 1235
 
 - ⭐ **[Hotkey Cheatsheet](https://hotkeycheatsheet.com/)** — Improve Your Productivity with Keyboard Shortcuts
 - [Boosted](https://www.boostedproductivity.com/)
@@ -309,6 +309,7 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [PasteBar](https://www.pastebar.app/) — Easy management for everything you copy and paste
 - [Pesto Clipboard](https://pestoclipboard.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/matthewpick/pesto-clipboard) — Free macOS Clipboard Manager
 - [Planck](https://www.planckapp.com/) — Cross-platform Clipboard Manager
+- [Typerelay](https://typerelay.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/typerelay/typerelay) — Less typing. More doing.
 
 ## Contact Manager
 - [FossifyOrg/Phone · GitHub](https://github.com/FossifyOrg/Phone)

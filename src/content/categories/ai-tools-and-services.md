@@ -5,7 +5,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 
 # AI Tools & Services
 
-**Total Bookmarks:** 788
+**Total Bookmarks:** 789
 
 
 ## Agents & Automation
@@ -350,6 +350,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [InvokeAI Stable Diffusion Toolkit](https://invoke-ai.github.io/InvokeAI/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/invoke-ai/InvokeAI)
 - [Magic Studio](https://magicstudio.com/) — Powered by AI
 - [monster-labs/control_v1p_sd15_qrcode_monster at main](https://huggingface.co/monster-labs/control_v1p_sd15_qrcode_monster/tree/main)
+- [niji・journey](https://nijijourney.com/home)
 - [NVIDIA Canvas](https://www.nvidia.com/en-us/studio/canvas/)
 - [Omniverse Audio2Face App](https://www.nvidia.com/en-us/omniverse/apps/audio2face/)
 - [Photo AI™](https://photoai.com/) — AI Photo & Video Generator

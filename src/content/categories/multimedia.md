@@ -5,7 +5,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 
 # Multimedia
 
-**Total Bookmarks:** 2225
+**Total Bookmarks:** 2227
 
 
 ## Audio & Music
@@ -1283,10 +1283,11 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 #### 3D Voxel
 - [Buildbox](https://signup.buildbox.com/)
 - [Eaglercraft](https://eaglercraft.com/) — An awesome, free voxel game
-- [Goxel 3D](https://goxel.xyz/)
+- [Goxel 3D](https://goxel.xyz/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/guillaumechereau/goxel)
 - [MagicaVoxel](https://ephtracy.github.io/)
 - [Mega Voxels](https://www.megavoxels.com/p/home.html)
 - [Qubicle](https://www.minddesk.com/)
+- [vengi](https://vengi-voxel.github.io/vengi/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/mgerhardy/vengi) — voxel tools
 - [VoxEdit](https://www.voxedit.io/#/en/)
 
 #### AR & VR Editor
@@ -1524,6 +1525,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [NodeXL](https://nodexl.com/)
 - [NodeXL Graph Gallery](https://nodexlgraphgallery.org/Pages/Default.aspx)
 - [Observablehq](https://observablehq.com/) — Collaborative data platform
+- [paperdraw.dev](https://paperdraw.dev/) — System Design Tool & Distributed Systems Simulator
 - [penrose/penrose](https://github.com/penrose/penrose) — Create beautiful diagrams just by typing notation in plain text
 - [Plant UML](https://plantuml.com/)
 - [PlantText UML Editor](https://www.planttext.com/)

@@ -5,7 +5,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 
 # Development
 
-**Total Bookmarks:** 2618
+**Total Bookmarks:** 2619
 
 - [Adobe Open Source](https://opensource.adobe.com/)
 - [Asterisk](https://www.asterisk.org/)
@@ -2049,6 +2049,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [Box2D](https://box2d.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/erincatto)
 - [Bullet Real-Time Physics Simulation](https://pybullet.org/wordpress/)
 - [MuJoCo](https://mujoco.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/google-deepmind/mujoco)
+- [Newton Physics Engine](https://developer.nvidia.com/newton-physics) / [![GitHub](/img/software/apps/github.svg)](https://github.com/newton-physics/newton)
 
 ## Git Client
 - ⭐ **[Git tower](https://www.git-tower.com/)**

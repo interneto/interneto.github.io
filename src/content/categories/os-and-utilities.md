@@ -5,7 +5,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 
 # OS & Utilities
 
-**Total Bookmarks:** 1148
+**Total Bookmarks:** 1149
 
 - [Comparison of OS](https://en.wikipedia.org/wiki/Comparison_of_operating_systems) — Wikipedia
 - [Comparison of real-time operating systems](https://en.wikipedia.org/wiki/Comparison_of_real-time_operating_systems) — Wikipedia
@@ -1092,6 +1092,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - ⭐ **[zeroxoneafour/polonium](https://github.com/zeroxoneafour/polonium)** — Tiling window manager for KWin 5.27
 - [afterstep/afterstep · GitHub](https://github.com/afterstep/afterstep/)
 - [anametologin/krohnkite · GitHub](https://github.com/anametologin/krohnkite)
+- [asmvik/yabai](https://github.com/asmvik/yabai) — A tiling window manager for macOS based on binary space partitioning
 - [Autotiling Sway](https://github.com/nwg-piotr/autotiling)
 - [baskerville/bspwm · GitHub](https://github.com/baskerville/bspwm)
 - [bug.n](https://github.com/fuhsjr00/bug.n) — Tiling Window Manager for Windows
