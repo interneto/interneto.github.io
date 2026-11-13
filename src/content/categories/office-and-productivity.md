@@ -5,7 +5,7 @@ description: Note-taking, task management, bookmarking, calculators, translators
 
 # Office & Productivity
 
-**Total Bookmarks:** 1235
+**Total Bookmarks:** 1236
 
 - ⭐ **[Hotkey Cheatsheet](https://hotkeycheatsheet.com/)** — Improve Your Productivity with Keyboard Shortcuts
 - [Boosted](https://www.boostedproductivity.com/)
@@ -720,6 +720,7 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [Notebook.ai](https://www.notebook.ai/) — The smart notebook for worldbuilders
 - [Notefox](https://www.notefox.eu/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Sav22999/websites-notes)
 - [Notejoy](https://notejoy.com/)
+- [notekpr · Notes only you can read](https://notekpr.md/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/coolapso/notekpr)
 - [NoteLedge](https://www.kdanmobile.com/noteledge)
 - [NoteLedge](https://www.kdanmobile.com/en/noteledge)
 - [Notes App](https://apps.apple.com/us/app/notes/id1110145109) — App Store

@@ -5,7 +5,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 
 # AI Tools & Services
 
-**Total Bookmarks:** 789
+**Total Bookmarks:** 792
 
 
 ## Agents & Automation
@@ -83,8 +83,10 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 
 ### AI App Builders
 - [a0.dev](https://a0.dev/) — Create Mobile Apps with AI
+- [Best AI App Builders](https://en.cybernews.com/lp/best-ai-app-builders-1/?campaignId=23027009711&adgroupId=188027190440&adId=774425248963&targetId=kwd-867888482115&device=m&gunique=Cj0KCQiAwdDXBhDuARIsAFdLuknQFgGT39Lpj32rOx3jeFnWtFkP_738Z-VUcRRz-0eaG9QhrYbYpqQaAvnYEALw_wcB&gad_source=1&gad_campaignid=23027009711&gbraid=0AAAAACyNk20k-Djsr-IY7v2gM4B8ahfCO&gclid=Cj0KCQiAwdDXBhDuARIsAFdLuknQFgGT39Lpj32rOx3jeFnWtFkP_738Z-VUcRRz-0eaG9QhrYbYpqQaAvnYEALw_wcB) — November 2026 - cybernews.com
 - [Blitzy](https://blitzy.com/) — AI-Powered Autonomous Software Development Platform
 - [Cerebras](https://www.cerebras.ai/) — Generate apps in 1 second
+- [Cocodly AI](https://www.cocodly.com/) — Build apps and sites with AI
 - [Emergent](https://app.emergent.sh/landing/) — Build Apps with AI
 - [InsForge](https://insforge.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/InsForge/InsForge) — Give agents everything they need to ship fullstack apps
 - [Legasite](https://www.legasite.io/) — Save a Day on Every Project
@@ -250,6 +252,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [GitHub Copilot Chat Cookbook](https://docs.github.com/copilot/tutorials/copilot-chat-cookbook) — GitHub Docs
 - [goodnight000/api-anything](https://github.com/goodnight000/api-anything) — Turn any website into an API your agent can call. Learns from the site's own frontend, heals itself when the site changes
 - [google/skills](https://github.com/google/skills) — Agent Skills for Google products and technologies
+- [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) — Keep your coding agent up to date with the latest web best practices
 - [guanyang/antigravity-skills · GitHub](https://github.com/guanyang/antigravity-skills)
 - [hivecommons/spektacular](https://github.com/hivecommons/spektacular) — Spec-driven development for AI coding agents. Spektacular helps you to generate specifications, the plan, and finally generate the code. Agent-agnostic and pluggable: Claude Code, Bob, Codex
 - [Impeccable](https://impeccable.style/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/pbakaus/impeccable) — The missing design vocabulary for agents

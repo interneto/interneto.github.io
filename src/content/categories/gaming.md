@@ -5,7 +5,7 @@ description: Games, launchers, emulators, and gaming utilities
 
 # Gaming
 
-**Total Bookmarks:** 760
+**Total Bookmarks:** 761
 
 
 ## Games
@@ -222,6 +222,7 @@ description: Games, launchers, emulators, and gaming utilities
 - [Infinite Flowers Zoomquilt](https://infiniteflowers.net/)
 - [Pax Historia](https://www.paxhistoria.co/)
 - [Play4Row](https://play4row.com/) — Play Connect Four Online Free
+- [Ram-Altman](https://ram-altman.lol/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/IainKay/ram-altman) — emails Sam Altman about your unused RAM
 - [Suika Game](https://suikagame.com/)
 - [thank mr skeltal](https://xn--rl8hlm.tk/)
 - [The Office Stare Machine](http://theofficestaremachine.com/)

@@ -5,7 +5,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 
 # System Administration
 
-**Total Bookmarks:** 1376
+**Total Bookmarks:** 1378
 
 - [osquery](https://osquery.io/)
 - [PIVPN](https://pivpn.io/) — Simplest way to setup a VPN
@@ -1078,6 +1078,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 
 ### Packet Analyzer
 - ⭐ **[Wireshark](https://www.wireshark.org/)** / [![GitLab](/img/source-hosts/gitlab.svg)](https://gitlab.com/wireshark/wireshark) — network protocol
+- [Arkime](https://arkime.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/arkime/arkime)
 - [Colasoft](https://www.colasoft.com/capsa/) — Network Analyzer, Packet Sniffer, Network Sniffer
 - [CommView](https://www.tamos.com/products/commview)
 - [Endace Full Packet Capture Recording](https://www.endace.com/) — 10-100Gbps & Beyond
@@ -1555,6 +1556,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [Grafana](https://grafana.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/grafana/grafana) — The open observability platform
 - [Graylog](https://graylog.org/) — Industry Leading Log Management & SIEM
 - [Homarr](https://homarr.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/homarr-labs/homarr) — Dashboard of apps
+- [Job monitoring](https://silencewatch.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/liliang-dev/SilenceWatch) — get alerted when a job stops
 - [Kener](https://kener.ing/) — Open-Source and Modern-looking Node.js Status Page
 - [Sentry.io](https://sentry.io/welcome/)
 - [Sken.io](https://sken.io/) — The ultimate website checker. Monitor website changes
