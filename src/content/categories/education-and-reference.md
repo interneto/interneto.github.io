@@ -5,7 +5,7 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 
 # Education & Reference
 
-**Total Bookmarks:** 1317
+**Total Bookmarks:** 1318
 
 - [Academia Lab](https://academia-lab.com/)
 - [DosisPedia](https://dosispedia.com/)
@@ -21,6 +21,7 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 
 ### Fractal Graphing Calc
 - [Fractal Explorer by Mytino](https://mytino.itch.io/fractal-explorer)
+- [Fractaria](https://fractaria.app/) — Fractal art, made easy
 - [Fractint Development Team](https://www.fractint.org/)
 - [Mandelbrot](https://mandelbrot.ophir.dev/#{%22pos%22:{%22x%22:-0.4705000000000001,%22y%22:-0.2735000000000001},%22zoom%22:250})
 - [Mandelbrot Set Explorer](http://mandel.gart.nz/)

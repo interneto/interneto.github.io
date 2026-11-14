@@ -5,7 +5,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 
 # Multimedia
 
-**Total Bookmarks:** 2228
+**Total Bookmarks:** 2230
 
 
 ## Audio & Music
@@ -424,6 +424,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [Cider](https://cider.sh/) — FOSS Apple Music client
 - [deep5050/radio-active](https://github.com/deep5050/radio-active)
 - [dweymouth/supersonic](https://github.com/dweymouth/supersonic) — A lightweight and full-featured cross-platform desktop client for self-hosted music servers
+- [Ernani1234/musike](https://github.com/Ernani1234/musike)
 - [HemantKArya/BloomeeTunes · GitHub](https://github.com/HemantKArya/BloomeeTunes?tab=readme-ov-file)
 - [hrkfdn/ncspot · GitHub](https://github.com/hrkfdn/ncspot)
 - [jmshrv/finamp](https://github.com/jmshrv/finamp) — A Jellyfin music client for mobile
@@ -2326,6 +2327,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [Premiere Pro](https://www.adobe.com/es/products/premiere.html) — Adobe
 - [Prequel](https://www.prequel.app/)
 - [RawShorts](https://www.rawshorts.com/)
+- [Raylight](https://www.raylight.app/) — The 3D motion design canvas for humans and AI
 - [Renderforest](https://www.renderforest.com/) — Online music visualizer
 - [Runway](https://runwayml.com/) — Advancing creativity with artificial intelligence
 - [Silence Slicer](https://silenceslicer.com/) — Private Video Editor | No Download, No Upload Required
@@ -2365,7 +2367,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [Filmotech](http://www.filmotech.info/)
 - [fupdec/mediaChips · GitHub](https://github.com/fupdec/mediachips)
 - [GCstar, personal collections manager](https://gitlab.com/GCstar/GCstar)
-- [Hydrus network](https://hydrusnetwork.github.io/hydrus/index.html)
+- [Hydrus network](https://hydrusnetwork.github.io/hydrus/index.html) / [![GitHub](/img/software/apps/github.svg)](https://github.com/hydrusnetwork/hydrus)
 - [Kino](https://kino.ai/) — The new home for video editors
 - [MeD's Movie Manager](http://xmm.sourceforge.net/)
 - [MediaChips](https://mediachips.app/)

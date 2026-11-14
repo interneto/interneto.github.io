@@ -5,7 +5,7 @@ description: File sharing, downloaders, torrents, and cloud storage
 
 # File Management
 
-**Total Bookmarks:** 873
+**Total Bookmarks:** 875
 
 
 ## Backup
@@ -802,6 +802,7 @@ description: File sharing, downloaders, torrents, and cloud storage
 - [Send Files to TV](https://www.sendfilestotv.app/) — Fast & Easy File Transfer for Android TV and Smart D
 - [Send To Myself](https://visionwise-nick.github.io/sendtomyself-website/) — Your Information, Always With You
 - [shrimqy/Sefirah](https://github.com/shrimqy/Sefirah) — Phone Link / KDE Connect alternative
+- [thtbee/nectarlink](https://github.com/thtbee/nectarlink) — Your Android phone and your PC, working as one. Windows and Linux. Local-first, end-to-end encrypted, no account.
 - [Use AirDrop to send items to nearby Apple devices](https://support.apple.com/guide/mac-help/use-airdrop-to-send-items-to-nearby-devices-mh35868/mac)
 - [Valent](https://valent.andyholmes.ca/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/andyholmes/valent)
 - [WeTransfer](https://wetransfer.com/)
@@ -863,6 +864,7 @@ description: File sharing, downloaders, torrents, and cloud storage
 - [QRCode Monster](https://qrcode.monster/)
 - [Qrcode-tiger](https://www.qrcode-tiger.com/)
 - [QRcode.com](https://www.qrcode.com/en)
+- [QRdx](https://qrdx.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/bucharitesh/qrdx) — Free QR Code Generator with Logos and Dynamic Codes
 - [qrfy.io](https://qrfy.io/)
 
 ## Playlist Transfer
