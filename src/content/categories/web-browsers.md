@@ -5,7 +5,7 @@ description: Browsers and browser-related tools
 
 # Web Browsers
 
-**Total Bookmarks:** 145
+**Total Bookmarks:** 146
 
 - ⭐ **[Lightpanda](https://lightpanda.io/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/lightpanda-io/browser) — The headless browser
 - [Arc from The Browser Company](https://arc.net/)
@@ -21,6 +21,7 @@ description: Browsers and browser-related tools
 - [firedragon-browser · GitHub](https://github.com/dr460nf1r3/firedragon-browser)
 - [Glide](https://glide-browser.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/glide-browser/glide)
 - [Gosub Web Browser Engine](https://gosub.io/)
+- [Kitesurf](https://kitesurf.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/cloudflare/kitesurf) — stateless browser running entirely on Workers
 - [Perplexity Comet](https://comet.perplexity.ai/)
 - [PocketJS](https://pocketjs.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/pocket-stack/pocketjs) — Bare Metal Modern Web
 - [Polypane, The browser for ambitious developers](https://polypane.app/)
