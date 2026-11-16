@@ -2,6 +2,7 @@ import fs from 'node:fs'
 import path from 'node:path'
 import { fileURLToPath } from 'node:url'
 import { buildIncludedPaths } from './raindrop-csv.js'
+import { siteOf } from './site.js'
 
 const SCHEMA_PATH = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../../../data/db/raindrop-schema.sql')
 
@@ -25,12 +26,13 @@ export function writeRaindropDb(db, { collections: listed, raindrops, meta = {},
 
   const insertMeta = db.prepare('INSERT INTO meta (key, value) VALUES (?, ?)')
   const insertCollection = db.prepare(`INSERT INTO collections
-    (id, title, parent_id, path, depth, count, public, view, sort, color, cover, expanded, created, last_update, raw)
-    VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)`)
+    (id, title, description, slug, access_level, parent_id, path, depth, count, public, view, sort, color, cover, expanded,
+     created, last_update, raw)
+    VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)`)
   const insertRaindrop = db.prepare(`INSERT INTO raindrops
-    (id, collection_id, title, link, domain, excerpt, note, type, cover, important, broken, created, last_update,
+    (id, collection_id, title, link, domain, site, excerpt, note, type, cover, important, broken, created, last_update,
      reminder, cache_status, cache_size, file_name, file_type, file_size, sort, raw)
-    VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)`)
+    VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)`)
   const insertTag = db.prepare('INSERT OR IGNORE INTO raindrop_tags (raindrop_id, tag) VALUES (?, ?)')
   const insertMedia = db.prepare('INSERT INTO media (raindrop_id, position, link, type) VALUES (?, ?, ?, ?)')
   const insertHighlight = db.prepare(`INSERT OR IGNORE INTO highlights (id, raindrop_id, text, note, color, created, last_update)
@@ -48,7 +50,7 @@ export function writeRaindropDb(db, { collections: listed, raindrops, meta = {},
   included.sort((a, b) => depthOf(a._id) - depthOf(b._id))
   for (const c of included) {
     const isSystem = c._id < 0
-    insertCollection.run(c._id, c.title, n(c.parent?.$id), paths.get(c._id), depthOf(c._id), n(c.count), bool(c.public),
+    insertCollection.run(c._id, c.title, c.description || null, n(c.slug), n(c.access?.level), n(c.parent?.$id), paths.get(c._id), depthOf(c._id), n(c.count), bool(c.public),
       n(c.view), n(c.sort), n(c.color), n(c.cover?.[0]), bool(c.expanded), n(c.created), n(c.lastUpdate),
       isSystem ? null : JSON.stringify(c))
     report.collections++
@@ -60,7 +62,7 @@ export function writeRaindropDb(db, { collections: listed, raindrops, meta = {},
       report.skipped++
       continue
     }
-    insertRaindrop.run(r._id, collectionId, n(r.title), r.link ?? '', n(r.domain), n(r.excerpt), n(r.note), n(r.type),
+    insertRaindrop.run(r._id, collectionId, n(r.title), r.link ?? '', n(r.domain), siteOf(r.domain), n(r.excerpt), n(r.note), n(r.type),
       n(r.cover), bool(r.important), bool(r.broken), n(r.created), n(r.lastUpdate), n(r.reminder?.date),
       n(r.cache?.status), n(r.cache?.size), n(r.file?.name), n(r.file?.type), n(r.file?.size), n(r.sort), JSON.stringify(r))
     for (const tag of r.tags ?? []) insertTag.run(r._id, tag)

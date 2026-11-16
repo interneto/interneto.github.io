@@ -248,12 +248,12 @@ Schema: `data/db/raindrop-schema.sql`.
 
 | Table / view | Contents |
 |---|---|
-| `collections` | Every collection plus Unsorted (-1): `path`, `depth`, `parent_id`, counts, `raw` JSON |
-| `raindrops` | Every bookmark: link, domain, excerpt, note, type, cover, favorite, broken, reminder, cache, file, `raw` JSON |
+| `collections` | Every collection plus Unsorted (-1): `description`, `slug`, `access_level`, `path`, `depth`, `parent_id`, counts, `raw` JSON |
+| `raindrops` | Every bookmark: link, domain, `site` (domain grouped by site, e.g. `en.wikipedia.org` -> `wikipedia.org`), excerpt, note, type, cover, favorite, broken, reminder, cache, file, `raw` JSON |
 | `raindrop_tags`, `media`, `highlights` | One row per tag, media item, highlight |
 | `meta` | `fetched_at`, account stats (`filters`), user plan and storage |
 | `raindrops_fts` | Full-text search over title, excerpt, note, link |
-| `v_bookmarks`, `v_tags`, `v_domains`, `v_duplicates`, `v_collection_stats` | Ready-made views |
+| `v_bookmarks`, `v_tags`, `v_domains`, `v_sites`, `v_duplicates`, `v_collection_stats` | Ready-made views |
 
 ```sql
 SELECT title, link, folder FROM v_bookmarks WHERE id IN
@@ -262,6 +262,10 @@ SELECT title, link, folder FROM v_bookmarks WHERE id IN
 
 It is written to `data/raindrop.db.tmp` and renamed only after a complete fetch,
 so a failed run leaves the previous file intact. Same `RAINDROP_TOKEN` as `db:fetch`.
+
+The mirror holds the fields Raindrop stores, not the content of the bookmarked pages.
+API fields without a column of their own (`creatorRef`, `user`, `lastAction`, ...) are
+still in `raw`; read them with `json_extract(raw, '$.field')`.
 
 ## Refresh the LLM Pricing chart data
 

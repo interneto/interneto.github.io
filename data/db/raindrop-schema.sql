@@ -12,6 +12,9 @@ CREATE TABLE meta (
 CREATE TABLE collections (
   id          INTEGER PRIMARY KEY,
   title       TEXT NOT NULL,
+  description TEXT,
+  slug        TEXT,
+  access_level INTEGER,               -- 1 read, 2 collaborate, 3 edit, 4 owner
   parent_id   INTEGER REFERENCES collections(id),
   path        TEXT NOT NULL,          -- "Root / Child / Leaf"
   depth       INTEGER NOT NULL,       -- 0 = root
@@ -34,6 +37,7 @@ CREATE TABLE raindrops (
   title         TEXT,
   link          TEXT NOT NULL,
   domain        TEXT,
+  site          TEXT,                 -- domain grouped by site: en.wikipedia.org -> wikipedia.org (scripts/db/lib/site.js)
   excerpt       TEXT,
   note          TEXT,
   type          TEXT,                 -- link | article | image | video | document | audio
@@ -53,6 +57,7 @@ CREATE TABLE raindrops (
 );
 CREATE INDEX idx_raindrops_collection ON raindrops(collection_id);
 CREATE INDEX idx_raindrops_domain ON raindrops(domain);
+CREATE INDEX idx_raindrops_site ON raindrops(site);
 CREATE INDEX idx_raindrops_link ON raindrops(link);
 CREATE INDEX idx_raindrops_created ON raindrops(created);
 
@@ -97,6 +102,9 @@ SELECT tag, count(*) AS count FROM raindrop_tags GROUP BY tag ORDER BY count DES
 
 CREATE VIEW v_domains AS
 SELECT domain, count(*) AS count FROM raindrops GROUP BY domain ORDER BY count DESC;
+
+CREATE VIEW v_sites AS
+SELECT site, count(*) AS count, count(DISTINCT domain) AS domains FROM raindrops GROUP BY site ORDER BY count DESC;
 
 -- Same link saved more than once.
 CREATE VIEW v_duplicates AS
