@@ -5,7 +5,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 
 # OS & Utilities
 
-**Total Bookmarks:** 1150
+**Total Bookmarks:** 1151
 
 - [Comparison of OS](https://en.wikipedia.org/wiki/Comparison_of_operating_systems) — Wikipedia
 - [Comparison of real-time operating systems](https://en.wikipedia.org/wiki/Comparison_of_real-time_operating_systems) — Wikipedia
@@ -1006,6 +1006,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [jbuchermn/newm · GitHub](https://github.com/jbuchermn/newm)
 - [kiwmi · GitHub](https://github.com/buffet/kiwmi)
 - [KWin/Wayland](https://community.kde.org/KWin/Wayland)
+- [labwc](https://labwc.github.io/)
 - [labwc/labwc · GitHub](https://github.com/labwc/labwc)
 - [letoram/arcan · GitHub](https://github.com/letoram/arcan)
 - [mangowm/mango](https://github.com/mangowm/mango) — Practical and Powerful wayland compositor (dwm but wayland)

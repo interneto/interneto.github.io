@@ -5,7 +5,7 @@ description: File sharing, downloaders, torrents, and cloud storage
 
 # File Management
 
-**Total Bookmarks:** 875
+**Total Bookmarks:** 876
 
 
 ## Backup
@@ -421,6 +421,7 @@ description: File sharing, downloaders, torrents, and cloud storage
 - [PNG to Base64](https://base64.guru/converter/encode/image/png)
 - [Pngyu](https://nukesaq88.github.io/Pngyu/)
 - [Resize Images Online](https://www.reduceimages.com/)
+- [SVGcode—Convert raster images to SVG vector graphics](https://svgco.de/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/tomayac/SVGcode)
 - [TinyPNG](https://tinypng.com/) — Compress WebP, PNG and JPEG images intelligently
 - [Vectorizer.AI](https://vectorizer.ai/) — Convert PNG, JPG files to SVG vectors online
 - [XL Converter](https://codepoems.eu/xl-converter) / [![GitHub](/img/software/apps/github.svg)](https://github.com/JacobDev1/xl-converter) — easy-to-use image converter for modern formats
