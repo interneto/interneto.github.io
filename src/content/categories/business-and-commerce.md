@@ -5,7 +5,7 @@ description: Stores, marketplaces, product research, and resale
 
 # Business & Commerce
 
-**Total Bookmarks:** 5123
+**Total Bookmarks:** 5125
 
 
 ## Corporation
@@ -3202,6 +3202,7 @@ description: Stores, marketplaces, product research, and resale
 - [Grass Valley](https://www.grassvalley.com/)
 - [Hokua RF](https://hokua-rf.com/) — Tools, Converters and Calculators for RF Design, IQ signal sample files
 - [MKS](https://www.mks.com/)
+- [Olares](https://www.olares.com/) — Open-source personal cloud OS for local AI
 - [OpenSprinkler](https://opensprinkler.com/) — Irrigation control
 - [Plume](https://www.plume.com/) — Smart home experience management for Internet Service Providers
 - [Polytron Corp](http://www.polytron-corp.com/)
@@ -4886,6 +4887,7 @@ description: Stores, marketplaces, product research, and resale
 - [Safe Superintelligence Inc.](https://ssi.inc/)
 - [Sakana AI](https://sakana.ai/) — Building Frontier AI in Japan
 - [Scale AI](https://scale.com/) — The Data Platform for AI
+- [SenseNova · GitHub](https://github.com/OpenSenseNova)
 - [Sherpa.ai](https://www.sherpa.ai/)
 - [Smol.ai](https://smol.ai/)
 - [SupraLabs · Independent AI Lab](https://supra-labs.com/)

@@ -5,7 +5,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 
 # Development
 
-**Total Bookmarks:** 2618
+**Total Bookmarks:** 2621
 
 - [Adobe Open Source](https://opensource.adobe.com/)
 - [Asterisk](https://www.asterisk.org/)
@@ -2049,6 +2049,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [Box2D](https://box2d.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/erincatto)
 - [Bullet Real-Time Physics Simulation](https://pybullet.org/wordpress/)
 - [MuJoCo](https://mujoco.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/google-deepmind/mujoco)
+- [Newton Physics Engine](https://developer.nvidia.com/newton-physics) / [![GitHub](/img/software/apps/github.svg)](https://github.com/newton-physics/newton)
 
 ## Git Client
 - ⭐ **[Git tower](https://www.git-tower.com/)**
@@ -2351,6 +2352,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [Angular Material](https://material.angular.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/angular/components)
 - [Ant Design](https://ant.design/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/ant-design/ant-design)
 - [Appsmith](https://www.appsmith.com/)
+- [Astryx Design System](https://astryx.atmeta.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/meta/astryx)
 - [Best Landing Page Examples](https://www.btw.so/marketing/landing-page-examples) — btw.so
 - [Chakra UI](https://chakra-ui.com/)
 - [Component Party](https://component-party.dev/)
@@ -2377,6 +2379,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 ## Local Development
 - ⭐ **[Laragon](https://laragon.org/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/leokhoa/laragon)
 - ⭐ **[XAMPP](https://www.apachefriends.org/)** — Apache Friends
+- [aws/aws-emulator](https://github.com/aws/aws-emulator)
 - [Bearsampp](https://bearsampp.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Bearsampp/Bearsampp)
 - [FrankenPHP](https://frankenphp.dev/) — the modern PHP app server
 - [gdbgui](https://www.gdbgui.com/)

@@ -5,7 +5,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 
 # OS & Utilities
 
-**Total Bookmarks:** 1148
+**Total Bookmarks:** 1151
 
 - [Comparison of OS](https://en.wikipedia.org/wiki/Comparison_of_operating_systems) — Wikipedia
 - [Comparison of real-time operating systems](https://en.wikipedia.org/wiki/Comparison_of_real-time_operating_systems) — Wikipedia
@@ -981,6 +981,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [X11Libre/xserver](https://github.com/X11Libre/xserver) — XLibre Xserver
 
 ##### Display Protocol
+- [Agent Host Protocol](https://microsoft.github.io/agent-host-protocol/)
 - [Wayland](https://wayland.freedesktop.org/) / [![GitLab](/img/source-hosts/gitlab.svg)](https://gitlab.freedesktop.org/wayland) — Free desktop
 - [wayland / wayland · GitLab](https://gitlab.freedesktop.org/wayland/wayland)
 - [X Window System Protocol](https://www.x.org/releases/X11R7.7/doc/xproto/x11protocol.html)
@@ -1005,6 +1006,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [jbuchermn/newm · GitHub](https://github.com/jbuchermn/newm)
 - [kiwmi · GitHub](https://github.com/buffet/kiwmi)
 - [KWin/Wayland](https://community.kde.org/KWin/Wayland)
+- [labwc](https://labwc.github.io/)
 - [labwc/labwc · GitHub](https://github.com/labwc/labwc)
 - [letoram/arcan · GitHub](https://github.com/letoram/arcan)
 - [mangowm/mango](https://github.com/mangowm/mango) — Practical and Powerful wayland compositor (dwm but wayland)
@@ -1092,6 +1094,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - ⭐ **[zeroxoneafour/polonium](https://github.com/zeroxoneafour/polonium)** — Tiling window manager for KWin 5.27
 - [afterstep/afterstep · GitHub](https://github.com/afterstep/afterstep/)
 - [anametologin/krohnkite · GitHub](https://github.com/anametologin/krohnkite)
+- [asmvik/yabai](https://github.com/asmvik/yabai) — A tiling window manager for macOS based on binary space partitioning
 - [Autotiling Sway](https://github.com/nwg-piotr/autotiling)
 - [baskerville/bspwm · GitHub](https://github.com/baskerville/bspwm)
 - [bug.n](https://github.com/fuhsjr00/bug.n) — Tiling Window Manager for Windows

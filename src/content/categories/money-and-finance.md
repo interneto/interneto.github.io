@@ -5,7 +5,7 @@ description: Banking, cryptocurrency, and financial tracking
 
 # Money & Finance
 
-**Total Bookmarks:** 439
+**Total Bookmarks:** 440
 
 - [brokeronline](https://www.brokeronline.es/)
 - [IPIP](https://whois.ipip.net/)
@@ -473,6 +473,7 @@ description: Banking, cryptocurrency, and financial tracking
 - [Libremercado](https://www.libremercado.com/mercados) — bolsa
 - [Markets Insider](https://markets.businessinsider.com/)
 - [Mary Day Trader](https://www.marydaytrader.com/)
+- [NautilusTrader](https://nautilustrader.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/nautechsystems/nautilus_trader) — open-source algorithmic trading platform
 - [QuantDinger](https://ai.quantdinger.com/#/user/login?redirect=%2F) / [![GitHub](/img/software/apps/github.svg)](https://github.com/OpenByteInc/QuantDinger)
 - [Quantower Trading Platform](https://www.quantower.com/)
 - [Seeking Alpha](https://seekingalpha.com/)

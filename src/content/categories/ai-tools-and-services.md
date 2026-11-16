@@ -5,7 +5,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 
 # AI Tools & Services
 
-**Total Bookmarks:** 788
+**Total Bookmarks:** 795
 
 
 ## Agents & Automation
@@ -83,8 +83,10 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 
 ### AI App Builders
 - [a0.dev](https://a0.dev/) — Create Mobile Apps with AI
+- [Best AI App Builders](https://en.cybernews.com/lp/best-ai-app-builders-1/?campaignId=23027009711&adgroupId=188027190440&adId=774425248963&targetId=kwd-867888482115&device=m&gunique=Cj0KCQiAwdDXBhDuARIsAFdLuknQFgGT39Lpj32rOx3jeFnWtFkP_738Z-VUcRRz-0eaG9QhrYbYpqQaAvnYEALw_wcB&gad_source=1&gad_campaignid=23027009711&gbraid=0AAAAACyNk20k-Djsr-IY7v2gM4B8ahfCO&gclid=Cj0KCQiAwdDXBhDuARIsAFdLuknQFgGT39Lpj32rOx3jeFnWtFkP_738Z-VUcRRz-0eaG9QhrYbYpqQaAvnYEALw_wcB) — November 2026 - cybernews.com
 - [Blitzy](https://blitzy.com/) — AI-Powered Autonomous Software Development Platform
 - [Cerebras](https://www.cerebras.ai/) — Generate apps in 1 second
+- [Cocodly AI](https://www.cocodly.com/) — Build apps and sites with AI
 - [Emergent](https://app.emergent.sh/landing/) — Build Apps with AI
 - [InsForge](https://insforge.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/InsForge/InsForge) — Give agents everything they need to ship fullstack apps
 - [Legasite](https://www.legasite.io/) — Save a Day on Every Project
@@ -248,8 +250,10 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [garrytan/gstack](https://github.com/garrytan/gstack/tree/main) — Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [getdesign.md](https://getdesign.md/) — DESIGN.md Collection for AI Agents
 - [GitHub Copilot Chat Cookbook](https://docs.github.com/copilot/tutorials/copilot-chat-cookbook) — GitHub Docs
+- [Giving external agents access to Xcode](https://developer.apple.com/documentation/xcode/giving-external-agents-access-to-xcode) — Apple Developer Documentation
 - [goodnight000/api-anything](https://github.com/goodnight000/api-anything) — Turn any website into an API your agent can call. Learns from the site's own frontend, heals itself when the site changes
 - [google/skills](https://github.com/google/skills) — Agent Skills for Google products and technologies
+- [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) — Keep your coding agent up to date with the latest web best practices
 - [guanyang/antigravity-skills · GitHub](https://github.com/guanyang/antigravity-skills)
 - [hivecommons/spektacular](https://github.com/hivecommons/spektacular) — Spec-driven development for AI coding agents. Spektacular helps you to generate specifications, the plan, and finally generate the code. Agent-agnostic and pluggable: Claude Code, Bob, Codex
 - [Impeccable](https://impeccable.style/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/pbakaus/impeccable) — The missing design vocabulary for agents
@@ -350,6 +354,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [InvokeAI Stable Diffusion Toolkit](https://invoke-ai.github.io/InvokeAI/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/invoke-ai/InvokeAI)
 - [Magic Studio](https://magicstudio.com/) — Powered by AI
 - [monster-labs/control_v1p_sd15_qrcode_monster at main](https://huggingface.co/monster-labs/control_v1p_sd15_qrcode_monster/tree/main)
+- [niji・journey](https://nijijourney.com/home)
 - [NVIDIA Canvas](https://www.nvidia.com/en-us/studio/canvas/)
 - [Omniverse Audio2Face App](https://www.nvidia.com/en-us/omniverse/apps/audio2face/)
 - [Photo AI™](https://photoai.com/) — AI Photo & Video Generator
@@ -476,7 +481,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 
 ### AI Video
 - ⭐ **[Hailuo AI](https://hailuoai.video/)** — AI Video Generator from Text & Image
-- ⭐ **[Higgsfield](https://www.higgsfield.ai/)**
+- ⭐ **[Higgsfield](https://higgsfield.ai/explore)**
 - [AI STUDIOS](https://www.aistudios.com/) — Best AI Video Generator
 - [AI Video Editor](https://www.keytake.ai/en/) — Create Stunning Vidoes Online with Keytake
 - [AIVideo.com](https://www.aivideo.com/) — Make viral videos with just a prompt
@@ -520,6 +525,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [OmniHuman](https://omnihuman.design/) — AI Video Generator with audio, images, and videos
 - [OneClip](https://www.oneclip.io/) — Create UGC Ads in seconds using AI.
 - [OpenAI](https://sora.com/) — Sora
+- [OpenHiggsfield](https://openhiggsfield.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/thehiggsfieldai/OpenHiggsfield) — Open-source Story Studio
 - [Openmagic](https://omagic.ai/)
 - [OpusClip](https://www.opus.pro/) — #1 AI video clipping tool to create viral shorts
 - [Phenaki](https://phenaki.video/)
@@ -686,6 +692,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [OpenAI](https://platform.openai.com/) — Platform
 - [openai/gpt-2 · GitHub](https://github.com/openai/gpt-2)
 - [openai/gpt-oss-120b · Hugging Face](https://huggingface.co/openai/gpt-oss-120b)
+- [OpenSenseNova/SenseNova-6.8-Code2Video · GitHub](https://github.com/OpenSenseNova/SenseNova-6.8-Code2Video)
 - [QwenLM/Qwen · GitHub](https://github.com/QwenLM/Qwen)
 - [QwenLM/Qwen2.5](https://github.com/QwenLM/Qwen2.5) — Qwen2.5 is the large language model series developed by Qwen team, Alibaba Cloud.
 - [QwenLM/Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder) — Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud.
