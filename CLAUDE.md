@@ -6,7 +6,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 Interneto is a static Astro 6 site (resource discovery / curation) deployed to GitHub Pages. Core sections: content categories, a link map, posts/docs, and a "toolbox" — an interactive package installer + cross-OS/library compatibility tables.
 
-Requires Node >= 22.12 (Astro 6 drops Node 20; `.nvmrc` pins 24 LTS) and pnpm 10. Output is fully static (`output: 'static'`, `format: 'directory'`, `trailingSlash: 'always'`).
+Requires Node >= 22.12 (Astro 6 drops Node 20; `.nvmrc` pins 24 LTS) and pnpm 11 (`packageManager` pins the exact version). Output is fully static (`output: 'static'`, `format: 'directory'`, `trailingSlash: 'always'`).
 
 ## Commands
 
@@ -15,9 +15,12 @@ pnpm dev          # local dev server (astro dev)
 pnpm build        # static build to dist/
 pnpm preview      # serve the built dist/
 pnpm typecheck    # astro check — run before committing; CI gates on it
+pnpm db:test      # node:test suites under scripts/db/
 ```
 
-CI (`.github/workflows/deploy.yml`) runs `pnpm run typecheck` then `pnpm run build` on push to `main`, then deploys `dist/` to Pages. There is no test runner and no lint step in `package.json`.
+**Run pnpm from native Windows (PowerShell), never from WSL.** `node_modules` records the store path, and WSL sees it as `/mnt/d/.pnpm-store` while Windows sees `D:\.pnpm-store`, so switching makes pnpm demand a full purge, which fails in non-interactive shells (`ERR_PNPM_ABORTED_REMOVE_MODULES_DIR_NO_TTY`). A `preinstall` guard (`scripts/no-wsl.js`) refuses WSL installs. If `node_modules` was already installed from elsewhere, recover with `pnpm install --frozen-lockfile --config.confirmModulesPurge=false`.
+
+CI (`.github/workflows/deploy.yml`) runs `pnpm run typecheck` then `pnpm run build` on push to `main`, then deploys `dist/` to Pages. The only tests are `pnpm db:test` (not run in CI); there is no lint step in `package.json`.
 
 Maintenance scripts under `scripts/` are run directly with `node` (no package.json aliases):
 

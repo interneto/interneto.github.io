@@ -7,6 +7,7 @@
     "node": ">=22.12.0"
   },
   "scripts": {
+    "preinstall": "node scripts/no-wsl.js",
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
@@ -14,6 +15,7 @@
     "db:init": "node scripts/db/init.js",
     "db:fetch": "node --env-file-if-exists=.env scripts/db/fetch-raindrop.js",
     "db:pull": "pnpm run db:fetch && pnpm run sync",
+    "db:full": "node --env-file-if-exists=.env scripts/db/build-raindrop-db.js",
     "db:import": "node scripts/db/import.js",
     "db:validate": "node scripts/db/validate.js",
     "db:export": "node scripts/db/export-markdown.js && node scripts/db/export-json.js",

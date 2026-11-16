@@ -234,6 +234,35 @@ Get the token at app.raindrop.io -> Settings -> Integrations -> For Developers
 and refuses to write the CSV if the fetch came back short (the importer
 soft-removes anything missing from the CSV).
 
+## Full account mirror (db:full)
+
+```bash
+pnpm db:full    # API -> data/raindrop.db (whole account, rebuilt from scratch, ~15 min)
+```
+
+`data/bookmarks.db` holds only what the site publishes; `data/raindrop.db` is a
+local copy of the Raindrop account for querying. It includes the off-limits root
+`!nfo`, so it is gitignored and never published; the root `.` and Trash are left out.
+It is read-only: edits to the file never reach Raindrop, and the next `db:full` overwrites them.
+Schema: `data/db/raindrop-schema.sql`.
+
+| Table / view | Contents |
+|---|---|
+| `collections` | Every collection plus Unsorted (-1): `path`, `depth`, `parent_id`, counts, `raw` JSON |
+| `raindrops` | Every bookmark: link, domain, excerpt, note, type, cover, favorite, broken, reminder, cache, file, `raw` JSON |
+| `raindrop_tags`, `media`, `highlights` | One row per tag, media item, highlight |
+| `meta` | `fetched_at`, account stats (`filters`), user plan and storage |
+| `raindrops_fts` | Full-text search over title, excerpt, note, link |
+| `v_bookmarks`, `v_tags`, `v_domains`, `v_duplicates`, `v_collection_stats` | Ready-made views |
+
+```sql
+SELECT title, link, folder FROM v_bookmarks WHERE id IN
+  (SELECT rowid FROM raindrops_fts WHERE raindrops_fts MATCH 'docker');
+```
+
+It is written to `data/raindrop.db.tmp` and renamed only after a complete fetch,
+so a failed run leaves the previous file intact. Same `RAINDROP_TOKEN` as `db:fetch`.
+
 ## Refresh the LLM Pricing chart data
 
 ```bash

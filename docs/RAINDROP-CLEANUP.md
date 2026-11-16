@@ -35,7 +35,7 @@ mcp__raindrop__create_highlight   mcp__raindrop__delete_highlights  mcp__raindro
 
 If this deny file is missing on a machine, recreate it before touching Raindrop. Claude cannot edit its own permissions (the harness refuses self-modification of `settings.local.json`); the maintainer edits it by hand.
 
-**Off-limits roots — do not touch, do not list**: `!nfo` (id `19044358`) and the root whose title is a single unrenderable character, referred to as `.` (id `71411789`). Excluded from every snapshot, plan and report.
+**Off-limits roots — do not touch, do not list**: `!nfo` (id `19044358`) and the root whose title is a single unrenderable character, referred to as `.` (id `71411789`). Excluded from every snapshot, plan and report. **Exception (2026-11-16, maintainer's request):** the local, gitignored full mirror `data/raindrop.db` (`pnpm db:full`) includes `!nfo` (not `.`); it is never published or committed.
 
 **Rule 2 update, 2026-09-22**: the maintainer lifted the no-create restriction — creating collections (and bookmarks) is now allowed. **Only deleting a collection or a bookmark is still forbidden.** `merge_collections` stays denied (it deletes the source collections). Deny list is now just `delete_collections`, `delete_bookmarks`, `merge_collections` — check `.claude/settings.local.json` matches this if it looks stale; it was found completely empty (no deny block at all) partway through this session, cause unconfirmed, and rebuilt from scratch at that point.
 
@@ -70,6 +70,7 @@ To revoke: same page → the app → delete it (or reset the token).
 |---|---|---|
 | `find_collections` (MCP) | Live tree: id, title, parent_id, own/total counts | Authoritative for structure |
 | `links/interneto-links.csv` (gitignored) | Every bookmark with its Raindrop id, title, url, folder path | A snapshot in time — refresh before bulk bookmark moves. The app's Export is Pro-only; rebuild it instead with `RAINDROP_TOKEN=… pnpm db:fetch` (REST API, works on free accounts, ~10 min for ~47k bookmarks, read-only, skips the off-limits roots) |
+| `data/raindrop.db` (gitignored) | Whole account in SQLite: every field, highlights, full-text search; includes `!nfo`, leaves out `.` and Trash | `pnpm db:full` (~15 min). For querying; not the tree authority. See `scripts/README.md` |
 | `scripts/raindrop-snapshot.mjs` | Builds the local read-only snapshot from the two above | Regenerate after any structural change |
 
 ```bash

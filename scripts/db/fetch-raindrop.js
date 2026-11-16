@@ -16,45 +16,13 @@ import { fileURLToPath } from 'node:url'
 import { PATHS } from '../config/categories.js'
 import { parseCsv } from '../lib/csv-parser.js'
 import { applyChanges, buildIncludedPaths, raindropsToCsv, rowsToCsv } from './lib/raindrop-csv.js'
+import { EXCLUDED_ROOT_IDS, PER_PAGE, createClient, fetchAllRaindrops, requireToken, sleep } from './lib/raindrop-api.js'
 
 const ROOT_DIR = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../..')
 const OUT = path.resolve(ROOT_DIR, PATHS.INPUT_CSV_CANDIDATES[0])
 const STATE = path.resolve(ROOT_DIR, 'links/raindrop-state.json')
-const API = 'https://api.raindrop.io/rest/v1'
-const PER_PAGE = 50 // API maximum
-// Off-limits roots (docs/RAINDROP-CLEANUP.md): never written to the snapshot.
-const EXCLUDED_ROOT_IDS = [19044358, 71411789]
 
-const token = process.env.RAINDROP_TOKEN
-if (!token) {
-  console.error('❌ RAINDROP_TOKEN is not set. Put RAINDROP_TOKEN=... in .env (gitignored); see the header of this script.')
-  process.exit(1)
-}
-
-const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms))
-
-async function get(route) {
-  for (let attempt = 0; ; attempt++) {
-    let res
-    try {
-      res = await fetch(`${API}${route}`, { headers: { Authorization: `Bearer ${token}` } })
-      if (res.ok) return await res.json()
-    } catch (error) {
-      // Dropped connections (ECONNRESET) happen over ~950 requests; retry rather than lose the run.
-      if (attempt >= 5) throw error
-      await sleep(3000 * (attempt + 1))
-      continue
-    }
-    // 120 requests/minute; the reset header is a unix timestamp.
-    if ((res.status === 429 || res.status >= 500) && attempt < 5) {
-      const reset = Number(res.headers.get('x-ratelimit-reset')) * 1000 - Date.now()
-      // No usable header -> wait out a full rate-limit window.
-      await sleep(reset > 0 && reset < 120000 ? reset + 1000 : 61000)
-      continue
-    }
-    throw new Error(`GET ${route} -> ${res.status} ${res.statusText}`)
-  }
-}
+const get = createClient(requireToken())
 
 const startedAt = new Date()
 const collections = [...(await get('/collections')).items, ...(await get('/collections/childrens')).items]
@@ -118,24 +86,14 @@ async function incremental() {
 if (process.argv.includes('--full') || !(await incremental())) {
   console.log('📥 Full fetch…')
   // Collection 0 = everything except Trash.
-  const raindrops = []
-  let total = Infinity
-  for (let page = 0; raindrops.length < total; page++) {
-    const body = await get(`/raindrops/0?perpage=${PER_PAGE}&page=${page}&sort=created`)
-    total = body.count
-    if (!body.items.length) break
-    raindrops.push(...body.items)
-    await sleep(550) // stay under the 120 requests/minute limit instead of running into it
-    if (page % 20 === 0) console.log(`📥 ${raindrops.length}/${total}`)
-  }
+  const { items, total } = await fetchAllRaindrops(get, 0, (n, t) => console.log(`📥 ${n}/${t}`))
 
   // A short fetch must never reach the importer: it soft-removes every bookmark missing from the CSV.
-  const unique = new Map(raindrops.map((r) => [r._id, r]))
-  if (unique.size < total) {
-    console.error(`❌ Incomplete fetch: ${unique.size} of ${total} bookmarks. CSV left untouched; re-run.`)
+  if (items.length < total) {
+    console.error(`❌ Incomplete fetch: ${items.length} of ${total} bookmarks. CSV left untouched; re-run.`)
     process.exit(1)
   }
 
-  const { csv, rows, dropped } = raindropsToCsv(collections, [...unique.values()], { excludeRootIds: EXCLUDED_ROOT_IDS })
+  const { csv, rows, dropped } = raindropsToCsv(collections, items, { excludeRootIds: EXCLUDED_ROOT_IDS })
   save(csv, rows, `full${dropped ? `, ${dropped} skipped: excluded root or unknown collection` : ''}`)
 }
