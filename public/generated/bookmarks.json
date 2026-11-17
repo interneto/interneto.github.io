@@ -284517,6 +284517,23 @@
     "createdAt": "2022-03-02T00:07:29.156Z"
   },
   {
+    "id": "1569011097",
+    "title": "Touchdesigner - Derivative",
+    "url": "https://derivative.ca/",
+    "description": "Derivative is a software company that offers TouchDesigner, a visual development platform.",
+    "domain": "derivative.ca",
+    "cover": "https://derivative-devforum-backups.s3.us-east-2.amazonaws.com/static/manifest512.png",
+    "favorite": false,
+    "category": "multimedia",
+    "subcategory": [
+      "Video & Movies",
+      "VFX Editor"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-01-30T21:42:14.492Z"
+  },
+  {
     "id": "439699921",
     "title": "tracking.js",
     "url": "https://trackingjs.com/",
