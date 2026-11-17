@@ -5,7 +5,7 @@ description: Maps, weather, travel agencies, and flights
 
 # Travel & Location
 
-**Total Bookmarks:** 822
+**Total Bookmarks:** 823
 
 - [itinio](https://www.itinio.app/) — What to Do in Madrid & Barcelona | Best Local Routes & Food
 - [TREK](https://demo-nomad.pakulat.org/dashboard) / [![GitHub](/img/software/apps/github.svg)](https://github.com/mauriceboe/TREK)
@@ -276,6 +276,7 @@ description: Maps, weather, travel agencies, and flights
 - ⭐ **[Radarbot](https://www.radarbot.com/)** — Tu navegador GPS experto en radares
 - [Canarias Vial](https://canariasvial.es/)
 - [DGT](https://etraffic.dgt.es/etrafficWEB/) — Mapa Etraffic
+- [eduardocmd/CanariasVial · GitHub](https://github.com/eduardocmd/CanariasVial)
 - [Mapa Balizas V16 España](https://mapabalizasv16.es/)
 - [MapCam.info](https://mapcam.info/) — The most comprehensive database of road warnings
 - [OpenCycleMap.org](https://www.opencyclemap.org/) — the OpenStreetMap Cycle Map

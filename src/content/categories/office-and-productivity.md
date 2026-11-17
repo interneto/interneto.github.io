@@ -5,7 +5,7 @@ description: Note-taking, task management, bookmarking, calculators, translators
 
 # Office & Productivity
 
-**Total Bookmarks:** 1304
+**Total Bookmarks:** 1305
 
 - ⭐ **[Hotkey Cheatsheet](https://hotkeycheatsheet.com/)** — Improve Your Productivity with Keyboard Shortcuts
 - [Boosted](https://www.boostedproductivity.com/)
@@ -313,6 +313,7 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [Ditto clipboard](https://ditto-cp.sourceforge.io/)
 - [hluk/CopyQ · GitHub](https://github.com/hluk/CopyQ)
 - [hpavlo/Rememory](https://github.com/hpavlo/Rememory) — Rememory | Clipboard Manager
+- [jarusll/tokri](https://github.com/jarusll/tokri)
 - [Maccy](https://maccy.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/p0deje/Maccy) — macOS clipboard manager
 - [Pasta](https://getpasta.com/) — clipboard manager for the mac
 - [Paste](https://pasteapp.io/) — Clipboard manager for Mac

@@ -5,7 +5,7 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 
 # Education & Reference
 
-**Total Bookmarks:** 1366
+**Total Bookmarks:** 1374
 
 - [Academia Lab](https://academia-lab.com/)
 - [DosisPedia](https://dosispedia.com/)
@@ -700,6 +700,7 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [ixahmedxi/noodle](https://github.com/ixahmedxi/noodle) — Open Source Education Platform
 - [Kami](https://www.kamiapp.com/)
 - [learningequality/kolibri · GitHub](https://github.com/learningequality/kolibri)
+- [Plom / plom · GitLab](https://gitlab.com/plom/plom)
 - [QuizBean](https://www.quizbean.com/home)
 - [Schoology](https://www.schoology.com/)
 - [Showbie](https://www.showbie.com/)
@@ -1013,6 +1014,7 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [Cheat.sh](http://cheat.sh/)
 - [CheatSheets.zip](https://cheatsheets.zip/) — Ultimate Cheat for Developers
 - [Choose a License](https://choosealicense.com/)
+- [chrislgarry/Apollo-11 · GitHub](https://github.com/chrislgarry/Apollo-11)
 - [CodeChef](https://www.codechef.com/)
 - [Codédex](https://www.codedex.io/) — Start Your Coding Adventure ⋆˙⟡
 - [CodeEasy.io](https://codeeasy.io/)
@@ -1126,6 +1128,7 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [mlabonne/llm-course · GitHub](https://github.com/mlabonne/llm-course)
 - [MLCommons](https://mlcommons.org/en/)
 - [ONNX](https://onnx.ai/)
+- [openai/grok · GitHub](https://github.com/openai/grok)
 - [openai/openai-cookbook · GitHub](https://github.com/openai/openai-cookbook)
 - [ParlAI](https://parl.ai/)
 - [Pix2Pix](https://phillipi.github.io/pix2pix)
@@ -1175,6 +1178,7 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [Post-K (Fugaku)](https://postk-web.r-ccs.riken.jp/spec.html)
 
 #### Engineering
+- [air-command/horizon](https://github.com/air-command/horizon) — Horizon 2 Stage Water Rocket Design Files
 - [eFunda](https://www.efunda.com/home.cfm)
 - [Electronic Schematic & Circuit Diagram](https://circuitspedia.com/) — Tutorials | Datasheet
 - [Eng-Tips Engineering Forums](https://www.eng-tips.com/)
@@ -1238,6 +1242,7 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [ASMscience](https://www.asmscience.org/)
 - [Biología literaturamagica](https://biologia.literaturamagica.net/)
 - [BMC](https://www.biomedcentral.com/)
+- [bothlab/pomidaq · GitHub](https://github.com/bothlab/pomidaq)
 - [BTO](https://www.bto.org/)
 - [iBiology](https://www.ibiology.org/)
 - [Learn.Genetics](https://learn.genetics.utah.edu/)
@@ -1406,12 +1411,14 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [Department of Political Science](https://polisci.ufl.edu/) — College of Liberal Arts and Sciences
 - [Department of Political Science](https://www.polisci.pitt.edu/) — University of Pittsburgh
 - [Duke University Political Science](https://polisci.duke.edu/)
+- [Las-Fuerzas-Del-Cielo/Sistema-Anti-Fraude-Electoral · GitHub](https://github.com/Las-Fuerzas-Del-Cielo/Sistema-Anti-Fraude-Electoral)
 - [Political Science](https://polisci.columbia.edu/) — Columbia
 - [Political Science](https://politicalscience.stanford.edu/) — Stanford
 
 ##### Juridical Concepts
 - [Conceptos Jurídicos](https://www.conceptosjuridicos.com/)
 - [Derechos Humanos](https://www.derechoshumanos.net/)
+- [github/dmca](https://github.com/github/dmca) — Repository with text of DMCA takedown notices as received
 - [legalize-dev/legalize-es](https://github.com/legalize-dev/legalize-es) — Spanish legislation as a Git repo — every law is a Markdown file, every reform a commit. 8,600+ laws
 
 ##### Political Test
@@ -1437,6 +1444,7 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [daneelsan/Wireworld](https://github.com/daneelsan/Wireworld) — a Turing-complete cellular automaton suited for simulating logic gates and other real-world computer elements
 - [DigiSim](https://digisim.io/) — Digital logic, taught and built. Gate to 8-bit CPU.
 - [eCalc](https://www.ecalc.ch/) — reliable electric drive simulations
+- [FE-Dome App (source code)](http://walter.bislins.ch/bloge/index.asp?page=Source+Code%3A+FE%2DDome+App) — WaBis
 - [gabe565/cli-of-life](https://github.com/gabe565/cli-of-life) — Play Conway's Game of Life in your terminal
 - [Golly Game of Life](https://golly.sourceforge.io/) / [![SourceForge](/img/source-hosts/sourceforge.svg)](https://sourceforge.net/projects/golly/)
 - [HEC-HMS](https://www.hec.usace.army.mil/software/hec-hms/)

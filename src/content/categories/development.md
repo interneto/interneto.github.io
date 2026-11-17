@@ -5,7 +5,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 
 # Development
 
-**Total Bookmarks:** 2856
+**Total Bookmarks:** 2860
 
 - [Adobe Open Source](https://opensource.adobe.com/)
 - [Asterisk](https://www.asterisk.org/)
@@ -792,6 +792,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [Harp, the static web server with built-in preprocessing](https://harpjs.com/)
 - [is-a.dev Documentation](https://docs.is-a.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/is-a-dev/register) — is-a.dev Docs
 - [nekoweb](https://nekoweb.org/)
+- [Next-netlify-starter · GitHub](https://github.com/cassidoo/next-netlify-starter)
 - [peaceiris/actions-gh-pages · GitHub](https://github.com/peaceiris/actions-gh-pages)
 - [sourcehut pages](https://srht.site/)
 - [Super.so](https://super.so/)
@@ -2573,6 +2574,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [Automattic/studio](https://github.com/Automattic/studio) — Studio by WordPress.com, a free desktop app that helps developers streamline their local WordPress development workflow.
 - [aws/aws-emulator](https://github.com/aws/aws-emulator)
 - [Bearsampp](https://bearsampp.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Bearsampp/Bearsampp)
+- [CleoMenezesJr/Aurea · GitHub](https://github.com/CleoMenezesJr/Aurea)
 - [FiloSottile/mkcert · GitHub](https://github.com/FiloSottile/mkcert)
 - [FrankenPHP](https://frankenphp.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/php/frankenphp) — the modern PHP app server
 - [gdbgui](https://www.gdbgui.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/cs01/gdbgui)
@@ -2629,6 +2631,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [Selenium](https://www.selenium.dev/)
 - [Spider Pro](https://tryspider.com/)
 - [Surfer](https://surfsup.ai/) — Personal data scraper
+- [TheGhostRoot/RandomPythonTools · GitHub](https://github.com/TheGhostRoot/RandomPythonTools)
 - [Ultimate Web Scraper](https://ultimatewebscraper.com/) — Easy Data Scraper
 - [ultrafunkamsterdam/undetected-chromedriver · GitHub](https://github.com/UltrafunkAmsterdam/undetected-chromedriver)
 - [Vaazo](https://vaazo.com/) — Web Scraping and Automation tool
@@ -2799,6 +2802,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [Brackets.io](https://brackets.io/)
 - [CodeEdit](https://www.codeedit.app/) — A native code editor for macOS
 - [CodeMirror](https://codemirror.net/) / [🔗](https://code.haverbeke.berlin/codemirror/dev/)
+- [Dev-Environments/VScode · GitHub](https://github.com/Dev-Environments/VScode)
 - [Fresh](https://getfresh.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/sinelaw/fresh) — The Terminal IDE
 - [ICEcoder](https://icecoder.net/) / [![GitHub](/img/software/apps/github.svg)](http://github.com/icecoder/ICEcoder)
 - [Lapce](https://lap.dev/lapce/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/lapce/lapce) — Lightning-fast and Powerful Code Editor

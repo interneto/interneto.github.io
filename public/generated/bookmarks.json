@@ -14177,6 +14177,26 @@
     "createdAt": "2026-03-10T01:21:22.375Z"
   },
   {
+    "id": "405835459",
+    "title": "Project Splinter · GitHub",
+    "url": "https://project-splinter.github.io/",
+    "description": null,
+    "domain": "project-splinter.github.io",
+    "cover": "https://project-splinter.github.io/figures/teaser.jpeg",
+    "favorite": false,
+    "category": "ai-tools-and-services",
+    "subcategory": [
+      "Specialized Models",
+      "Recognition & Vision"
+    ],
+    "tags": [
+      "Source Code: GitHub",
+      "Type: Open-Source"
+    ],
+    "sourceCodeUrls": [],
+    "createdAt": "2022-06-15T18:53:27.463Z"
+  },
+  {
     "id": "912480016",
     "title": "Prompt Engineering Guide",
     "url": "https://www.promptingguide.ai/",
@@ -122777,6 +122797,25 @@
     "createdAt": "2022-12-31T00:48:34.617Z"
   },
   {
+    "id": "824337908",
+    "title": "CleoMenezesJr/Aurea · GitHub",
+    "url": "https://github.com/CleoMenezesJr/Aurea",
+    "description": "Flatpak metainfo banner previewer.",
+    "domain": "github.com",
+    "cover": "https://opengraph.githubassets.com/02a1f5784000f9c6f559a180e308bcaa6a329bc4ebb05844e8718068370d139e/CleoMenezesJr/Aurea",
+    "favorite": false,
+    "category": "development",
+    "subcategory": [
+      "Local Development"
+    ],
+    "tags": [
+      "Source Code: GitHub",
+      "Type: Open-Source"
+    ],
+    "sourceCodeUrls": [],
+    "createdAt": "2024-07-29T15:42:26.044Z"
+  },
+  {
     "id": "343896051",
     "title": "ClickHelp",
     "url": "https://clickhelp.com/",
@@ -125548,6 +125587,27 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2021-10-29T16:50:22.476Z"
+  },
+  {
+    "id": "577764090",
+    "title": "Dev-Environments/VScode · GitHub",
+    "url": "https://github.com/Dev-Environments/VScode",
+    "description": "Contribute to Dev-Environments/VScode development by creating an account on GitHub.",
+    "domain": "github.com",
+    "cover": "https://opengraph.githubassets.com/652a526021ed52a51573a0fd076d58442cc579a11f0c52fb582a34d5ba9d4d99/Dev-Environments/VScode",
+    "favorite": false,
+    "category": "development",
+    "subcategory": [
+      "Text Editing",
+      "Code Editor & IDE",
+      "Code Editor"
+    ],
+    "tags": [
+      "Source Code: GitHub",
+      "Type: Open-Source"
+    ],
+    "sourceCodeUrls": [],
+    "createdAt": "2023-05-23T13:26:13.873Z"
   },
   {
     "id": "287100869",
@@ -144708,6 +144768,27 @@
     "createdAt": "2026-11-10T01:29:58.399Z"
   },
   {
+    "id": "320034276",
+    "title": "Next-netlify-starter · GitHub",
+    "url": "https://github.com/cassidoo/next-netlify-starter",
+    "description": "A one-click starter project for Next and Netlify. Contribute to cassidoo/next-netlify-starter development by creating an account on GitHub.",
+    "domain": "github.com",
+    "cover": "https://opengraph.githubassets.com/3127cf32f0e91baa1a3ecf1775a3aad64aeab0422a610e0de9445b313db29e07/cassidoo/next-netlify-starter",
+    "favorite": false,
+    "category": "development",
+    "subcategory": [
+      "Development Framework",
+      "Build Webs",
+      "SSG Hosting"
+    ],
+    "tags": [
+      "Source Code: GitHub",
+      "Type: Open-Source"
+    ],
+    "sourceCodeUrls": [],
+    "createdAt": "2021-10-11T03:18:27.900Z"
+  },
+  {
     "id": "287113006",
     "title": "Next.js - The React framework for the web",
     "url": "https://nextjs.org/",
@@ -163282,6 +163363,26 @@
     "createdAt": "2021-11-15T17:08:03.372Z"
   },
   {
+    "id": "650040319",
+    "title": "TheGhostRoot/RandomPythonTools · GitHub",
+    "url": "https://github.com/TheGhostRoot/RandomPythonTools",
+    "description": "A few of my random tools I made for ONLY EDUCATIONAL PURPOSE and for nothing else. By downloading/using you agree that you won&amp;#39;t use them for any malicious purposes. - TheGhostRoot/RandomPy...",
+    "domain": "github.com",
+    "cover": "https://repository-images.githubusercontent.com/539526774/76e020f7-2be8-4f7d-9c0f-8bc94f656e64",
+    "favorite": false,
+    "category": "development",
+    "subcategory": [
+      "Scrapper",
+      "Web Scrapper"
+    ],
+    "tags": [
+      "Source Code: GitHub",
+      "Type: Open-Source"
+    ],
+    "sourceCodeUrls": [],
+    "createdAt": "2023-09-21T21:16:49.830Z"
+  },
+  {
     "id": "287101177",
     "title": "There is a bot for that",
     "url": "https://thereisabotforthat.com/",
@@ -171857,6 +171958,27 @@
     "createdAt": "2023-12-31T19:40:33.089Z"
   },
   {
+    "id": "1304396034",
+    "title": "air-command/horizon: Horizon 2 Stage Water Rocket Design Files",
+    "url": "https://github.com/air-command/horizon",
+    "description": "Horizon 2 Stage Water Rocket Design Files. Contribute to air-command/horizon development by creating an account on GitHub.",
+    "domain": "github.com",
+    "cover": "https://opengraph.githubassets.com/83dcfd328076691a0d3b93f7fce61774afb5deac54530875357f275b69be6e45/air-command/horizon",
+    "favorite": false,
+    "category": "education-and-reference",
+    "subcategory": [
+      "Science",
+      "Applied Science",
+      "Engineering"
+    ],
+    "tags": [
+      "Source Code: GitHub",
+      "Type: Open-Source"
+    ],
+    "sourceCodeUrls": [],
+    "createdAt": "2025-08-18T19:46:53.446Z"
+  },
+  {
     "id": "1027024604",
     "title": "Airplane Simulation - Walter Bislins",
     "url": "https://walter.bislins.ch/bloge/index.asp?page=Airplane+Simulation+%28Version+1%29",
@@ -173901,6 +174023,27 @@
     "createdAt": "2024-05-11T00:31:31.592Z"
   },
   {
+    "id": "468713592",
+    "title": "bothlab/pomidaq · GitHub",
+    "url": "https://github.com/bothlab/pomidaq",
+    "description": "Portable Miniscope Data Acquisition. Contribute to bothlab/pomidaq development by creating an account on GitHub.",
+    "domain": "github.com",
+    "cover": "https://opengraph.githubassets.com/6afb5a08e81197dc92f9d54732ebfd7250bc588f59a3f3c71056371cc1a1d02a/bothlab/pomidaq",
+    "favorite": false,
+    "category": "education-and-reference",
+    "subcategory": [
+      "Science",
+      "Basic Science",
+      "Biology"
+    ],
+    "tags": [
+      "Source Code: GitHub",
+      "Type: Open-Source"
+    ],
+    "sourceCodeUrls": [],
+    "createdAt": "2022-11-06T11:55:54.358Z"
+  },
+  {
     "id": "826805318",
     "title": "bragefuglseth/keypunch: Practice your typing skills",
     "url": "https://github.com/bragefuglseth/keypunch",
@@ -174997,6 +175140,27 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2021-08-23T16:50:25.074Z"
+  },
+  {
+    "id": "917993922",
+    "title": "chrislgarry/Apollo-11 · GitHub",
+    "url": "https://github.com/chrislgarry/Apollo-11",
+    "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules. - chrislgarry/Apollo-11",
+    "domain": "github.com",
+    "cover": "https://opengraph.githubassets.com/12a92c4e2ff354bb3d7e67ccfbaf3a42bae8749b0192b6913ecf7599eb69111b/chrislgarry/Apollo-11",
+    "favorite": false,
+    "category": "education-and-reference",
+    "subcategory": [
+      "Science",
+      "Applied Science",
+      "Computing"
+    ],
+    "tags": [
+      "Source Code: GitHub",
+      "Type: Open-Source"
+    ],
+    "sourceCodeUrls": [],
+    "createdAt": "2024-12-09T21:09:16.740Z"
   },
   {
     "id": "287103937",
@@ -179103,6 +179267,22 @@
     "createdAt": "2022-05-22T23:02:47.336Z"
   },
   {
+    "id": "775661731",
+    "title": "FE-Dome App (source code) - WaBis",
+    "url": "http://walter.bislins.ch/bloge/index.asp?page=Source+Code%3A+FE%2DDome+App",
+    "description": null,
+    "domain": "walter.bislins.ch",
+    "cover": "https://rdl.ink/render/http%3A%2F%2Fwalter.bislins.ch%2Fbloge%2Findex.asp%3Fpage%3DSource%2BCode%253A%2BFE%252DDome%2BApp",
+    "favorite": false,
+    "category": "education-and-reference",
+    "subcategory": [
+      "Simulator"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2024-04-26T14:22:08.287Z"
+  },
+  {
     "id": "677568607",
     "title": "Felipe Kinoshita / Kana · GitLab",
     "url": "https://gitlab.gnome.org/fkinoshita/kana",
@@ -180767,6 +180947,27 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2021-10-11T17:58:45.085Z"
+  },
+  {
+    "id": "1673614119",
+    "title": "github/dmca: Repository with text of DMCA takedown notices as received",
+    "url": "https://github.com/github/dmca",
+    "description": "Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent u...",
+    "domain": "github.com",
+    "cover": "https://opengraph.githubassets.com/0d7ac907f0c99f95d334a81615ad5e95dafcab7392e619021feda4935fe1364e/github/dmca",
+    "favorite": false,
+    "category": "education-and-reference",
+    "subcategory": [
+      "Science",
+      "Social Science",
+      "Political Science",
+      "Juridical Concepts"
+    ],
+    "tags": [
+      "Source Code: GitHub"
+    ],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-04-05T21:10:45.640Z"
   },
   {
     "id": "468730657",
@@ -183620,6 +183821,27 @@
     ],
     "sourceCodeUrls": [],
     "createdAt": "2022-10-01T23:15:57.999Z"
+  },
+  {
+    "id": "670398598",
+    "title": "Las-Fuerzas-Del-Cielo/Sistema-Anti-Fraude-Electoral · GitHub",
+    "url": "https://github.com/Las-Fuerzas-Del-Cielo/Sistema-Anti-Fraude-Electoral",
+    "description": "Sistema Open Source para Identificar potenciales fraudes electorales, minimizar su ocurrencia e impacto. - Las-Fuerzas-Del-Cielo/Sistema-Anti-Fraude-Electoral: Sistema Open Source para Identificar ...",
+    "domain": "github.com",
+    "cover": "https://repository-images.githubusercontent.com/710037247/9157cd46-acb8-481e-afe8-adbf6cf4d4e8",
+    "favorite": false,
+    "category": "education-and-reference",
+    "subcategory": [
+      "Science",
+      "Social Science",
+      "Political Science"
+    ],
+    "tags": [
+      "Source Code: GitHub",
+      "Type: Open-Source"
+    ],
+    "sourceCodeUrls": [],
+    "createdAt": "2023-10-30T20:02:38.818Z"
   },
   {
     "id": "287113496",
@@ -187469,6 +187691,28 @@
     "createdAt": "2023-03-25T23:08:51.480Z"
   },
   {
+    "id": "756681543",
+    "title": "openai/grok · GitHub",
+    "url": "https://github.com/openai/grok",
+    "description": "Contribute to openai/grok development by creating an account on GitHub.",
+    "domain": "github.com",
+    "cover": "https://opengraph.githubassets.com/da664cd7b82ce29656ffe419b7bc6e60cf96a3b133afd45ff7829dc26aa82b81/openai/grok",
+    "favorite": false,
+    "category": "education-and-reference",
+    "subcategory": [
+      "Science",
+      "Applied Science",
+      "Computing",
+      "Machine Learning"
+    ],
+    "tags": [
+      "Source Code: GitHub",
+      "Type: Open-Source"
+    ],
+    "sourceCodeUrls": [],
+    "createdAt": "2024-03-19T21:55:28.266Z"
+  },
+  {
     "id": "506069913",
     "title": "openai/openai-cookbook · GitHub",
     "url": "https://github.com/openai/openai-cookbook",
@@ -188751,6 +188995,26 @@
     ],
     "sourceCodeUrls": [],
     "createdAt": "2021-09-22T18:56:51.101Z"
+  },
+  {
+    "id": "852857583",
+    "title": "Plom / plom · GitLab",
+    "url": "https://gitlab.com/plom/plom",
+    "description": "Plom is Paperless Open Marking",
+    "domain": "gitlab.com",
+    "cover": "https://gitlab.com/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg",
+    "favorite": false,
+    "category": "education-and-reference",
+    "subcategory": [
+      "Learning Platforms",
+      "Classroom"
+    ],
+    "tags": [
+      "Source Code: GitLab",
+      "Type: Open-Source"
+    ],
+    "sourceCodeUrls": [],
+    "createdAt": "2024-09-12T18:24:56.659Z"
   },
   {
     "id": "287113544",
@@ -247679,6 +247943,23 @@
     "createdAt": "2021-07-15T14:15:37.000Z"
   },
   {
+    "id": "412943077",
+    "title": "Blackbody — Bitbucket",
+    "url": "https://bitbucket.org/nimmerwoner/blackbody/src/master/",
+    "description": null,
+    "domain": "bitbucket.org",
+    "cover": "https://bitbucket.org/nimmerwoner/blackbody/downloads/blackbody-01.png",
+    "favorite": false,
+    "category": "multimedia",
+    "subcategory": [
+      "Photos & Graphics",
+      "Image Viewer"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2022-07-01T21:13:56.323Z"
+  },
+  {
     "id": "991477894",
     "title": "Bland AI | Automate Phone Calls with Conversational AI for Enterprises",
     "url": "https://www.bland.ai/",
@@ -251679,6 +251960,27 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2021-07-12T16:37:06.000Z"
+  },
+  {
+    "id": "1173137844",
+    "title": "DonBraulio/tuneo",
+    "url": "https://github.com/DonBraulio/tuneo",
+    "description": "Contribute to DonBraulio/tuneo development by creating an account on GitHub.",
+    "domain": "github.com",
+    "cover": "https://opengraph.githubassets.com/ba824c2e504ab922b29936668724655f7318cb824a18a3a8d91b727284bc7496/DonBraulio/tuneo",
+    "favorite": false,
+    "category": "multimedia",
+    "subcategory": [
+      "Audio & Music",
+      "Music App",
+      "Tuner"
+    ],
+    "tags": [
+      "Source Code: GitHub",
+      "Type: Open-Source"
+    ],
+    "sourceCodeUrls": [],
+    "createdAt": "2025-06-17T00:18:39.957Z"
   },
   {
     "id": "342387800",
@@ -345480,6 +345782,22 @@
     "createdAt": "2022-11-16T14:12:30.928Z"
   },
   {
+    "id": "1526092193",
+    "title": "jarusll/tokri",
+    "url": "https://github.com/jarusll/tokri",
+    "description": "Contribute to jarusll/tokri development by creating an account on GitHub.",
+    "domain": "github.com",
+    "cover": "https://opengraph.githubassets.com/b2d45e1a7b087da0f8f2dee00b55ae987975d2c0639fe6622b290746e701e575/jarusll/tokri",
+    "favorite": false,
+    "category": "office-and-productivity",
+    "subcategory": [
+      "Clipboard"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-01-04T20:27:06.842Z"
+  },
+  {
     "id": "287116890",
     "title": "Jason Davies",
     "url": "https://www.jasondavies.com/",
@@ -433725,6 +434043,28 @@
     "createdAt": "2020-08-26T13:21:06.000Z"
   },
   {
+    "id": "593413097",
+    "title": "peter-evans/repository-dispatch · GitHub",
+    "url": "https://github.com/peter-evans/repository-dispatch",
+    "description": "A GitHub action to create a repository dispatch event - peter-evans/repository-dispatch: A GitHub action to create a repository dispatch event",
+    "domain": "github.com",
+    "cover": "https://opengraph.githubassets.com/e0516b0f0d3f7e09e69f83871be21e9c2682cb074409821d072cfd4f2c8ea0c4/peter-evans/repository-dispatch",
+    "favorite": false,
+    "category": "online-services",
+    "subcategory": [
+      "Online Platform",
+      "Text Platform",
+      "Coding Platform",
+      "Build Utility"
+    ],
+    "tags": [
+      "Source Code: GitHub",
+      "Type: Open-Source"
+    ],
+    "sourceCodeUrls": [],
+    "createdAt": "2023-06-17T16:48:21.006Z"
+  },
+  {
     "id": "287102295",
     "title": "Pexels",
     "url": "https://www.pexels.com/",
@@ -469742,6 +470082,25 @@
     "createdAt": "2026-02-18T09:17:18.160Z"
   },
   {
+    "id": "287105144",
+    "title": "ZX2C4 Git Repository",
+    "url": "https://git.zx2c4.com/",
+    "description": null,
+    "domain": "git.zx2c4.com",
+    "cover": "https://rdl.ink/render/https%3A%2F%2Fgit.zx2c4.com",
+    "favorite": false,
+    "category": "online-services",
+    "subcategory": [
+      "Online Platform",
+      "Text Platform",
+      "Coding Platform",
+      "Source-Code Hosting"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2021-06-16T22:59:40.000Z"
+  },
+  {
     "id": "1276840927",
     "title": "¿Manual perdido? Descarga el manual que estás buscando.",
     "url": "https://www.manual.pa/",
@@ -484302,6 +484661,25 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2022-12-07T03:25:31.315Z"
+  },
+  {
+    "id": "1624079501",
+    "title": "meshtastic/ATAK-Plugin: ATAK Plugin for sending CoT to IMeshService",
+    "url": "https://github.com/meshtastic/ATAK-Plugin",
+    "description": "ATAK Plugin for sending CoT to IMeshService",
+    "domain": "github.com",
+    "cover": "https://opengraph.githubassets.com/5d7759efada8009371ab692b71a917d23e0b8a70d2d752cd9d8fc001251d0a3d/meshtastic/ATAK-Plugin",
+    "favorite": false,
+    "category": "os-and-utilities",
+    "subcategory": [
+      "Software-Defined Radio (SDR)"
+    ],
+    "tags": [
+      "Source Code: GitHub",
+      "Type: Open-Source"
+    ],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-02-28T23:48:32.217Z"
   },
   {
     "id": "764112830",
@@ -553380,6 +553758,23 @@
     "createdAt": "2025-01-25T10:51:18.881Z"
   },
   {
+    "id": "1034566432",
+    "title": "ThePrimeagen/keyboards · GitHub",
+    "url": "https://github.com/ThePrimeagen/keyboards",
+    "description": "Contribute to ThePrimeagen/keyboards development by creating an account on GitHub.",
+    "domain": "github.com",
+    "cover": "https://opengraph.githubassets.com/2823e4acc65d7ac96a923edc93d971350a4481c28e513bc553f5011ad40cf918/ThePrimeagen/keyboards",
+    "favorite": false,
+    "category": "system-administration",
+    "subcategory": [
+      "Driver",
+      "Keyboard Driver"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2025-05-07T11:30:05.177Z"
+  },
+  {
     "id": "770036332",
     "title": "Thincast Client",
     "url": "https://thincast.com/en/products/client",
@@ -555991,6 +556386,26 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2021-03-23T23:45:59.000Z"
+  },
+  {
+    "id": "421263868",
+    "title": "wearep3r / apollo · GitLab",
+    "url": "https://gitlab.com/p3r.one/apollo",
+    "description": null,
+    "domain": "gitlab.com",
+    "cover": "https://gitlab.com/uploads/-/system/project/avatar/17046783/iconfinder_Cubenet_670451.png",
+    "favorite": false,
+    "category": "system-administration",
+    "subcategory": [
+      "Emulation & Virtualization",
+      "OS-Level Virtualization"
+    ],
+    "tags": [
+      "Source Code: GitLab",
+      "Type: Open-Source"
+    ],
+    "sourceCodeUrls": [],
+    "createdAt": "2022-07-23T13:06:26.805Z"
   },
   {
     "id": "389224033",
@@ -561225,6 +561640,27 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2021-04-25T22:27:03.000Z"
+  },
+  {
+    "id": "1266686316",
+    "title": "eduardocmd/CanariasVial · GitHub",
+    "url": "https://github.com/eduardocmd/CanariasVial",
+    "description": "Contribute to eduardocmd/CanariasVial development by creating an account on GitHub.",
+    "domain": "github.com",
+    "cover": "https://opengraph.githubassets.com/b0135ff72ab96fc8b1596f37f2cc7032c32d5d611f5048554c67c102a55e0113/eduardocmd/CanariasVial",
+    "favorite": false,
+    "category": "travel-and-location",
+    "subcategory": [
+      "Maps",
+      "Geographic Maps",
+      "Traffic Maps"
+    ],
+    "tags": [
+      "Source Code: GitHub",
+      "Type: Open-Source"
+    ],
+    "sourceCodeUrls": [],
+    "createdAt": "2025-07-24T14:17:22.184Z"
   },
   {
     "id": "287110072",
