@@ -5,7 +5,7 @@ description: Note-taking, task management, bookmarking, calculators, translators
 
 # Office & Productivity
 
-**Total Bookmarks:** 1305
+**Total Bookmarks:** 1303
 
 - ⭐ **[Hotkey Cheatsheet](https://hotkeycheatsheet.com/)** — Improve Your Productivity with Keyboard Shortcuts
 - [Boosted](https://www.boostedproductivity.com/)
@@ -96,7 +96,7 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - ⭐ **[minimarks.io](https://get.minimarks.io/)**
 - ⭐ **[mrmartineau/Otter · GitHub](https://github.com/mrmartineau/Otter)**
 - ⭐ **[Otter](https://otter.zander.wtf/)** — Bookmark manager
-- ⭐ **[Raindrop.io](https://raindrop.io/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/raindropio) — All-in-one bookmark manager
+- ⭐ **[Raindrop.io](https://raindrop.io/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/raindropio/app) — All-in-one bookmark manager
 - ⭐ **[WebCrate](https://webcrate.app/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/WebCrateApp/webcrate) — Organize your Web
 - [Basket-Bookmark](https://www.basketapp.net/)
 - [Bookmark Ninja](https://www.bookmarkninja.com/)
@@ -143,7 +143,6 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [Panelio.me](https://www.panelio.me/)
 - [Pearltrees](https://www.pearltrees.com/)
 - [Polite](https://www.polite.one/) — Polite is a personal space to organize your content and your culture
-- [raindropio/app · GitHub](https://github.com/raindropio/app/tree/master)
 - [Saved.io](https://saved.io/)
 - [shaarli/Shaarli](https://github.com/shaarli/Shaarli) — The personal, minimalist, super-fast, database free, bookmarking service · GitHub
 - [Sofa](https://www.sofahq.com/) — Downtime Organizer
@@ -423,7 +422,6 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [abhisheknaiidu/github-circles · GitHub](https://github.com/abhisheknaiidu/github-circles)
 - [AlDanial/cloc · GitHub](https://github.com/AlDanial/cloc)
 - [anuraghazra/github-readme-stats · GitHub](https://github.com/anuraghazra/github-readme-stats)
-- [anvaka/map-of-github · GitHub](https://github.com/anvaka/map-of-github)
 - [cgag/loc](https://github.com/cgag/loc) — Count lines of code quickly
 - [Git History](https://githistory.xyz/)
 - [github-linguist/linguist](https://github.com/github-linguist/linguist) — Language Savant. If your repository's language is being reported incorrectly, send us a pull request!

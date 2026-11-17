@@ -5,7 +5,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 
 # OS & Utilities
 
-**Total Bookmarks:** 1266
+**Total Bookmarks:** 1264
 
 - [Comparison of OS](https://en.wikipedia.org/wiki/Comparison_of_operating_systems) — Wikipedia
 - [Comparison of real-time operating systems](https://en.wikipedia.org/wiki/Comparison_of_real-time_operating_systems) — Wikipedia
@@ -109,7 +109,6 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 
 #### Home Server OS
 - ⭐ **[Umbrel](https://umbrel.com/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/getumbrel/umbrel) — The ultimate home server and OS for self-hosting
-- [ajnart/homarr · GitHub](https://github.com/ajnart/homarr)
 - [Amahi Home Server](https://www.amahi.org/) — Making Home Networking Simple
 - [AuxXxilium/arc](https://github.com/AuxXxilium/arc) — Arc is a customized Redpill Loader for DSM 7.x
 - [CapRover · Scalable, Free and Self-hosted PaaS!](https://caprover.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/caprover/caprover)
@@ -1015,7 +1014,6 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [berkerol/photo-of-the-day · GitHub](https://github.com/berkerol/photo-of-the-day)
 - [betterlockscreen/betterlockscreen · GitHub](https://github.com/betterlockscreen/betterlockscreen)
 - [ChrisAnd1998/TaskbarXI](https://github.com/ChrisAnd1998/TaskbarXI) — An application written in C++ to modify the Windows 11 Taskbar.
-- [dracula-theme/themes · GitHub](https://github.com/dracula/dracula-theme/tree/master/themes)
 - [dracula/gtk · GitHub](https://github.com/dracula/gtk)
 - [hexive/sunpaper](https://github.com/hexive/sunpaper) — Dynamic wallpaper changes based on the sun
 - [jszczerbinsky/lwp · GitHub](https://github.com/jszczerbinsky/lwp)
@@ -1377,7 +1375,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 
 ## Utility
 - ⭐ **[Wintoys](https://apps.microsoft.com/detail/9p8ltpgcbzxd?hl=en-US&gl=ES)** — Free download and install on Windows | Microsoft Store
-- [DevToys](https://devtoys.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/DevToys-app) — A Swiss Army knife for developers
+- [DevToys](https://devtoys.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/DevToys-app/DevToys) — A Swiss Army knife for developers
 - [FossifyOrg/Keyboard · GitHub](https://github.com/FossifyOrg/Keyboard)
 - [mgth/LittleBigMouse](https://github.com/mgth/littlebigmouse) — DPI Aware mouse move across screens
 - [Micrsoft/PowerToys · GitHub](https://github.com/microsoft/PowerToys)

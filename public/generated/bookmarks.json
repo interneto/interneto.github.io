@@ -14876,26 +14876,6 @@
     "createdAt": "2026-11-13T23:25:30.507Z"
   },
   {
-    "id": "630971019",
-    "title": "roboflow/supervision · GitHub",
-    "url": "https://github.com/roboflow/supervision",
-    "description": "We write your reusable computer vision tools. 💜. Contribute to roboflow/supervision development by creating an account on GitHub.",
-    "domain": "github.com",
-    "cover": "https://opengraph.githubassets.com/9b14f2f2d72744e29a445259c1df289c2e20009e3f0080a8deb6522ba957687f/roboflow/supervision",
-    "favorite": false,
-    "category": "ai-tools-and-services",
-    "subcategory": [
-      "Specialized Models",
-      "Recognition & Vision"
-    ],
-    "tags": [
-      "Source Code: GitHub",
-      "Type: Open-Source"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2023-08-19T21:49:59.405Z"
-  },
-  {
     "id": "985260834",
     "title": "rooklift/nibbler: Chess analysis GUI for UCI engines, with extra features for Leela (Lc0) in particular.",
     "url": "https://github.com/rooklift/nibbler",
@@ -119443,48 +119423,11 @@
     "tags": [
       "Software: Collaborative"
     ],
-    "sourceCodeUrls": [],
+    "sourceCodeUrls": [
+      "https://github.com/automerge/automerge",
+      "https://github.com/automerge/automerge-classic"
+    ],
     "createdAt": "2023-11-11T00:13:45.282Z"
-  },
-  {
-    "id": "676215322",
-    "title": "automerge/automerge · GitHub",
-    "url": "https://github.com/automerge/automerge",
-    "description": "A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically. - automerge/automerge: A JSON-like data structure (a CRDT) that can be mod...",
-    "domain": "github.com",
-    "cover": "https://opengraph.githubassets.com/201af8649fdd3985cc4df0db6cdfa30e81249c8c5bd3538319513a92e5b252ae/automerge/automerge",
-    "favorite": false,
-    "category": "development",
-    "subcategory": [
-      "Library (computing)",
-      "JS Library"
-    ],
-    "tags": [
-      "Source Code: GitHub",
-      "Type: Open-Source"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2023-11-11T00:14:39.926Z"
-  },
-  {
-    "id": "676220199",
-    "title": "automerge/automerge-classic · GitHub",
-    "url": "https://github.com/automerge/automerge-classic",
-    "description": "A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically. - automerge/automerge-classic: A JSON-like data structure (a CRDT) that can...",
-    "domain": "github.com",
-    "cover": "https://opengraph.githubassets.com/479fbc95d62b191e349b7a6d97238bc8cc9516b9f7ee10f20b1db614b5e07ed3/automerge/automerge-classic",
-    "favorite": false,
-    "category": "development",
-    "subcategory": [
-      "Library (computing)",
-      "JS Library"
-    ],
-    "tags": [
-      "Source Code: GitHub",
-      "Type: Open-Source"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2023-11-11T00:34:59.945Z"
   },
   {
     "id": "405766987",
@@ -119688,26 +119631,6 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2026-11-12T19:12:24.296Z"
-  },
-  {
-    "id": "402908773",
-    "title": "axios/axios · GitHub",
-    "url": "https://github.com/axios/axios/",
-    "description": "Promise based HTTP client for the browser and node.js - axios/axios",
-    "domain": "github.com",
-    "cover": "https://opengraph.githubassets.com/2c37dc348e955ae15a3abd3f5adec21ca33b9f6240e9ebec16ad4c3ec10e55eb/axios/axios",
-    "favorite": false,
-    "category": "development",
-    "subcategory": [
-      "Library (computing)",
-      "JS Library"
-    ],
-    "tags": [
-      "Source Code: GitHub",
-      "Type: Open-Source"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2022-06-08T13:03:07.079Z"
   },
   {
     "id": "475935041",
@@ -131268,27 +131191,6 @@
     "createdAt": "2021-02-08T21:22:39.000Z"
   },
   {
-    "id": "540948274",
-    "title": "getgrav/grav · GitHub",
-    "url": "https://github.com/getgrav/grav",
-    "description": "Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony - GitHub - getgrav/grav: Modern, Crazy Fast, Ridiculously Easy and Amazingly P...",
-    "domain": "github.com",
-    "cover": "https://opengraph.githubassets.com/fb27533e327fe48b72bf1578cec8d124dcdf2e1580c38296bdba6df686a4191f/getgrav/grav",
-    "favorite": false,
-    "category": "development",
-    "subcategory": [
-      "Development Framework",
-      "Build Webs",
-      "CMS (Content Management Systems)"
-    ],
-    "tags": [
-      "Source Code: GitHub",
-      "Type: Open-Source"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2023-03-23T02:58:09.496Z"
-  },
-  {
     "id": "887633287",
     "title": "ggerganov/ggml: Tensor library for machine learning",
     "url": "https://github.com/ggerganov/ggml",
@@ -133140,7 +133042,7 @@
       "Software: Framework"
     ],
     "sourceCodeUrls": [
-      "https://github.com/getgrav"
+      "https://github.com/getgrav/grav"
     ],
     "createdAt": "2021-04-09T11:04:09.000Z"
   },
@@ -140400,30 +140302,9 @@
       "Software: Extension"
     ],
     "sourceCodeUrls": [
-      "https://github.com/marimo-team"
+      "https://github.com/marimo-team/marimo"
     ],
     "createdAt": "2024-01-16T23:28:05.181Z"
-  },
-  {
-    "id": "715709599",
-    "title": "marimo-team/marimo: A reactive notebook for Python",
-    "url": "https://github.com/marimo-team/marimo",
-    "description": "A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git. - marimo-team/marimo: A reactive notebook for Python — run reproducible e...",
-    "domain": "github.com",
-    "cover": "https://opengraph.githubassets.com/247a08db55f9ad784cb97f0b4b84becc17e85377216dbd7959c9dae1fad84f25/marimo-team/marimo",
-    "favorite": false,
-    "category": "development",
-    "subcategory": [
-      "Text Editing",
-      "Code Editor & IDE",
-      "IDE (Integrated Development Environment)"
-    ],
-    "tags": [
-      "Source Code: GitHub",
-      "Type: Open-Source"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2024-01-16T23:28:14.336Z"
   },
   {
     "id": "373148529",
@@ -154952,7 +154833,7 @@
       "Type: Open-Source"
     ],
     "sourceCodeUrls": [
-      "https://github.com/python"
+      "https://github.com/python/cpython"
     ],
     "createdAt": "2017-02-27T19:43:40.000Z"
   },
@@ -155014,23 +154895,6 @@
     ],
     "sourceCodeUrls": [],
     "createdAt": "2023-05-15T12:19:05.627Z"
-  },
-  {
-    "id": "1526694792",
-    "title": "python/cpython: The Python programming language",
-    "url": "https://github.com/python/cpython",
-    "description": "The Python programming language",
-    "domain": "github.com",
-    "cover": "https://opengraph.githubassets.com/78bfb179ae09bee76e56a20277e8652ecf407cc83fdf333f800ab2edc1aee5e9/python/cpython",
-    "favorite": false,
-    "category": "development",
-    "subcategory": [
-      "Computing Language",
-      "Programming Language"
-    ],
-    "tags": [],
-    "sourceCodeUrls": [],
-    "createdAt": "2026-01-05T01:19:56.899Z"
   },
   {
     "id": "287113001",
@@ -157516,7 +157380,7 @@
       "Source Code: GitHub"
     ],
     "sourceCodeUrls": [
-      "https://github.com/rust-lang"
+      "https://github.com/rust-lang/rust"
     ],
     "createdAt": "2022-05-05T18:04:25.201Z"
   },
@@ -157541,26 +157405,6 @@
     ],
     "sourceCodeUrls": [],
     "createdAt": "2022-10-30T14:41:15.456Z"
-  },
-  {
-    "id": "448692607",
-    "title": "rust-lang/rust · GItHub",
-    "url": "https://github.com/rust-lang/rust",
-    "description": "Empowering everyone to build reliable and efficient software. - GitHub - rust-lang/rust: Empowering everyone to build reliable and efficient software.",
-    "domain": "github.com",
-    "cover": "https://opengraph.githubassets.com/579c2823b00fa3bb3f1d38a6f3f473b7402605c4382938940b9c538b3bc5eb58/rust-lang/rust",
-    "favorite": false,
-    "category": "development",
-    "subcategory": [
-      "Computing Language",
-      "Programming Language"
-    ],
-    "tags": [
-      "Source Code: GitHub",
-      "Type: Open-Source"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2022-09-20T23:06:10.302Z"
   },
   {
     "id": "558497526",
@@ -161568,7 +161412,7 @@
       "Software: Library"
     ],
     "sourceCodeUrls": [
-      "https://github.com/roboflow"
+      "https://github.com/roboflow/supervision"
     ],
     "createdAt": "2026-07-07T23:24:49.224Z"
   },
@@ -164891,27 +164735,6 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2023-09-21T13:03:05.631Z"
-  },
-  {
-    "id": "846588872",
-    "title": "TryGhost/Ghost: Independent technology for modern publishing, memberships, subscriptions and newsletters.",
-    "url": "https://github.com/TryGhost/Ghost",
-    "description": "Independent technology for modern publishing, memberships, subscriptions and newsletters. - TryGhost/Ghost",
-    "domain": "github.com",
-    "cover": "https://opengraph.githubassets.com/2d563d34d2c1ae236230753244bf3f213041eff7491b5a96f30b8ae08a1e9cd6/TryGhost/Ghost",
-    "favorite": false,
-    "category": "development",
-    "subcategory": [
-      "Development Framework",
-      "Build Webs",
-      "CMS (Content Management Systems)"
-    ],
-    "tags": [
-      "Source Code: GitHub",
-      "Type: Open-Source"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2024-09-02T21:55:01.599Z"
   },
   {
     "id": "1430556720",
@@ -185355,28 +185178,6 @@
     "createdAt": "2026-02-20T12:10:11.739Z"
   },
   {
-    "id": "408385446",
-    "title": "mac-setup · GitHub",
-    "url": "https://github.com/sb2nov/mac-setup",
-    "description": "Installing Development environment on macOS. Contribute to sb2nov/mac-setup development by creating an account on GitHub.",
-    "domain": "github.com",
-    "cover": "https://opengraph.githubassets.com/6d107c47b6a0909e551f41af1ae3357bf4247ebd200767944100c3cf9b358625/sb2nov/mac-setup",
-    "favorite": false,
-    "category": "education-and-reference",
-    "subcategory": [
-      "Science",
-      "Applied Science",
-      "Computing",
-      "Programming Documentation"
-    ],
-    "tags": [
-      "Source Code: GitHub",
-      "Type: Open-Source"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2022-06-20T18:50:03.209Z"
-  },
-  {
     "id": "315195294",
     "title": "MachineBox.io",
     "url": "https://machinebox.io/",
@@ -193541,29 +193342,6 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2021-05-01T11:07:50.000Z"
-  },
-  {
-    "id": "522517174",
-    "title": "tldr-pages/tldr-python-client · GitHub",
-    "url": "https://github.com/tldr-pages/tldr-python-client",
-    "description": "Python command-line client for tldr pages. Contribute to tldr-pages/tldr-python-client development by creating an account on GitHub.",
-    "domain": "github.com",
-    "cover": "https://opengraph.githubassets.com/8aa54b26baa0b6535fbd23a31c6d819e9ec4c27d8125537ef6482bdb73ee2ba6/tldr-pages/tldr-python-client",
-    "favorite": false,
-    "category": "education-and-reference",
-    "subcategory": [
-      "Science",
-      "Applied Science",
-      "Computing",
-      "Programming Documentation"
-    ],
-    "tags": [
-      "Source Code: GitHub",
-      "Type: Open-Source",
-      "Software: CLI"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2023-02-22T02:05:00.301Z"
   },
   {
     "id": "335358251",
@@ -240155,29 +239933,9 @@
       "OS Compatibility: web app"
     ],
     "sourceCodeUrls": [
-      "https://github.com/mempool"
+      "https://github.com/mempool/mempool"
     ],
     "createdAt": "2025-10-09T12:50:54.265Z"
-  },
-  {
-    "id": "572141739",
-    "title": "mempool/mempool · GitHub",
-    "url": "https://github.com/mempool/mempool",
-    "description": "Explore the full Bitcoin ecosystem with mempool.space, or self-host your own instance with one-click installation on popular Raspberry Pi fullnode distros including Umbrel, Raspiblitz, Start9, and ...",
-    "domain": "github.com",
-    "cover": "https://repository-images.githubusercontent.com/198068297/f14aba00-9e0a-11eb-9d5d-f31848793d0e",
-    "favorite": false,
-    "category": "money-and-finance",
-    "subcategory": [
-      "Cryptocurrency Platform",
-      "Cryptocurrency Explorer"
-    ],
-    "tags": [
-      "Source Code: GitHub",
-      "Type: Open-Source"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2023-05-13T13:26:50.611Z"
   },
   {
     "id": "299630539",
@@ -337747,26 +337505,6 @@
     "createdAt": "2023-04-05T10:43:16.044Z"
   },
   {
-    "id": "581631991",
-    "title": "anvaka/map-of-github · GitHub",
-    "url": "https://github.com/anvaka/map-of-github",
-    "description": "Inspirational Mapping. Contribute to anvaka/map-of-github development by creating an account on GitHub.",
-    "domain": "github.com",
-    "cover": "https://opengraph.githubassets.com/a8c4b158dd7cb230773f94923b4f36788dbd913f36872f914525182374469ff4/anvaka/map-of-github",
-    "favorite": false,
-    "category": "office-and-productivity",
-    "subcategory": [
-      "Data Tools",
-      "Software Repository Visualization"
-    ],
-    "tags": [
-      "Source Code: GitHub",
-      "Type: Open-Source"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2023-05-30T19:35:17.407Z"
-  },
-  {
     "id": "287101581",
     "title": "Any.do",
     "url": "https://www.any.do/",
@@ -353883,28 +353621,9 @@
       "OS Compatibility: Cross-platform"
     ],
     "sourceCodeUrls": [
-      "https://github.com/raindropio"
+      "https://github.com/raindropio/app"
     ],
     "createdAt": "2019-12-13T18:11:44.000Z"
-  },
-  {
-    "id": "1016695965",
-    "title": "raindropio/app · GitHub",
-    "url": "https://github.com/raindropio/app/tree/master",
-    "description": "Contribute to raindropio/app development by creating an account on GitHub.",
-    "domain": "github.com",
-    "cover": "https://opengraph.githubassets.com/153823b819c5797cc18ca04045ea79ccfda9b1a24e47578696139259908b9502/raindropio/app",
-    "favorite": false,
-    "category": "office-and-productivity",
-    "subcategory": [
-      "Bookmark Manager"
-    ],
-    "tags": [
-      "Source Code: GitHub",
-      "Type: Open-Source"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2025-04-16T21:21:18.988Z"
   },
   {
     "id": "339025062",
@@ -398507,7 +398226,9 @@
     "tags": [
       "Type: Open-Source"
     ],
-    "sourceCodeUrls": [],
+    "sourceCodeUrls": [
+      "https://github.com/TryGhost/Ghost"
+    ],
     "createdAt": "2021-01-23T16:01:23.000Z"
   },
   {
@@ -398857,28 +398578,6 @@
     "createdAt": "2023-09-11T18:37:51.943Z"
   },
   {
-    "id": "404492576",
-    "title": "Giscus · GItHub",
-    "url": "https://github.com/giscus/giscus",
-    "description": "A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem: - giscus/giscus: A comment system powered by GitHub Discussions.",
-    "domain": "github.com",
-    "cover": "https://opengraph.githubassets.com/275aa7df0929061f0c4280f4222b21e65af300fe62c9de14df411511f93d2bc9/giscus/giscus",
-    "favorite": false,
-    "category": "online-services",
-    "subcategory": [
-      "Online Platform",
-      "Text Platform",
-      "Blogging Platform",
-      "Commenting Platform"
-    ],
-    "tags": [
-      "Source Code: GitHub",
-      "Type: Open-Source"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2022-06-12T12:28:39.297Z"
-  },
-  {
     "id": "387954232",
     "title": "giscus.app",
     "url": "https://giscus.app/",
@@ -398897,7 +398596,9 @@
       "❤️",
       "OS Compatibility: web app"
     ],
-    "sourceCodeUrls": [],
+    "sourceCodeUrls": [
+      "https://github.com/giscus/giscus"
+    ],
     "createdAt": "2022-04-22T18:36:45.888Z"
   },
   {
@@ -419887,7 +419588,7 @@
       "Source Code: GitHub"
     ],
     "sourceCodeUrls": [
-      "https://anvaka.github.io/map-of-github/"
+      "https://github.com/anvaka/map-of-github"
     ],
     "createdAt": "2023-05-20T21:54:14.184Z"
   },
@@ -426387,26 +426088,6 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2021-01-10T00:27:02.000Z"
-  },
-  {
-    "id": "729670409",
-    "title": "nasa/earthdata-search · GitHub",
-    "url": "https://github.com/nasa/earthdata-search",
-    "description": "Earthdata Search is a web application developed by NASA EOSDIS to enable data discovery, search, comparison, visualization, and access across EOSDIS&amp;#39; Earth Science data holdings. - GitHub -...",
-    "domain": "github.com",
-    "cover": "https://opengraph.githubassets.com/8abfb63d0d6ebe2fae759d0fe3256626c51c008bc377ee7f295786b7f86c2250/nasa/earthdata-search",
-    "favorite": false,
-    "category": "online-services",
-    "subcategory": [
-      "Database",
-      "OpenData"
-    ],
-    "tags": [
-      "Source Code: GitHub",
-      "Type: Open-Source"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2024-02-04T20:06:02.614Z"
   },
   {
     "id": "739389127",
@@ -460987,28 +460668,6 @@
     "createdAt": "2024-04-15T22:32:51.678Z"
   },
   {
-    "id": "640364907",
-    "title": "veler/DevToys: A Swiss Army knife for developers",
-    "url": "https://github.com/veler/DevToys",
-    "description": "A Swiss Army knife for developers. Contribute to veler/DevToys development by creating an account on GitHub.",
-    "domain": "github.com",
-    "cover": "https://repository-images.githubusercontent.com/411493648/80a846c8-78d0-4ec9-a679-e499cf75aec8",
-    "favorite": false,
-    "category": "online-services",
-    "subcategory": [
-      "Online Platform",
-      "Text Platform",
-      "Coding Platform",
-      "Coding Toolkit"
-    ],
-    "tags": [
-      "Source Code: GitHub",
-      "Type: Open-Source"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2023-09-04T01:53:23.382Z"
-  },
-  {
     "id": "1248864677",
     "title": "VeloraTV",
     "url": "https://veloratv.ru/",
@@ -463228,30 +462887,10 @@
     "tags": [
       "Type: Open-Source"
     ],
-    "sourceCodeUrls": [],
+    "sourceCodeUrls": [
+      "https://github.com/walinejs/waline"
+    ],
     "createdAt": "2025-06-02T08:27:24.572Z"
-  },
-  {
-    "id": "1129230424",
-    "title": "walinejs/waline: 💬 A Simple, Safe Comment System",
-    "url": "https://github.com/walinejs/waline",
-    "description": "💬 A Simple, Safe Comment System. Contribute to walinejs/waline development by creating an account on GitHub.",
-    "domain": "github.com",
-    "cover": "https://opengraph.githubassets.com/291b5bd79879d2421feeb9fe754e67e02f17993579bad3bc19ab2db19a6a693c/walinejs/waline",
-    "favorite": false,
-    "category": "online-services",
-    "subcategory": [
-      "Online Platform",
-      "Text Platform",
-      "Blogging Platform",
-      "Commenting Platform"
-    ],
-    "tags": [
-      "Source Code: GitHub",
-      "Type: Open-Source"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2025-06-02T08:28:22.045Z"
   },
   {
     "id": "287102367",
@@ -470689,27 +470328,6 @@
     "createdAt": "2026-08-16T14:32:16.205Z"
   },
   {
-    "id": "678537662",
-    "title": "ajnart/homarr · GitHub",
-    "url": "https://github.com/ajnart/homarr",
-    "description": "Customizable browser&#39;s home page to interact with your homeserver&#39;s Docker containers (e.g. Sonarr/Radarr) - GitHub - ajnart/homarr: Customizable browser&#39;s home page to inte...",
-    "domain": "github.com",
-    "cover": "https://repository-images.githubusercontent.com/485134435/9b5fcf69-ce8b-4ae1-b121-d4e3943e95e3",
-    "favorite": false,
-    "category": "os-and-utilities",
-    "subcategory": [
-      "OS by Devices",
-      "Server OS",
-      "Home Server OS"
-    ],
-    "tags": [
-      "Source Code: GitHub",
-      "Type: Open-Source"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2023-11-15T00:10:36.234Z"
-  },
-  {
     "id": "618435797",
     "title": "Albert",
     "url": "https://albertlauncher.github.io/",
@@ -476433,7 +476051,7 @@
       "Source Code: GitHub"
     ],
     "sourceCodeUrls": [
-      "https://github.com/DevToys-app"
+      "https://github.com/DevToys-app/DevToys"
     ],
     "createdAt": "2024-07-20T06:16:47.434Z"
   },
@@ -476770,27 +476388,6 @@
     ],
     "sourceCodeUrls": [],
     "createdAt": "2022-11-20T02:22:09.393Z"
-  },
-  {
-    "id": "494879959",
-    "title": "dracula-theme/themes · GitHub",
-    "url": "https://github.com/dracula/dracula-theme/tree/master/themes",
-    "description": "🧛🏻‍♂️ One theme. All platforms. Contribute to dracula/dracula-theme development by creating an account on GitHub.",
-    "domain": "github.com",
-    "cover": "https://opengraph.githubassets.com/f270d88fa2067f06ffb515f71f653434705a0824325f1db10668be02d7593c51/dracula/dracula-theme",
-    "favorite": false,
-    "category": "os-and-utilities",
-    "subcategory": [
-      "OS Components",
-      "Desktop Environment Parts",
-      "Desktop Customization"
-    ],
-    "tags": [
-      "Source Code: GitHub",
-      "Type: Open-Source"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2023-01-01T20:10:10.084Z"
   },
   {
     "id": "494879803",
@@ -497957,7 +497554,10 @@
       "OS Compatibility: Windows",
       "OS Compatibility: Linux"
     ],
-    "sourceCodeUrls": [],
+    "sourceCodeUrls": [
+      "https://github.com/bitwarden/clients",
+      "https://github.com/bitwarden/server"
+    ],
     "createdAt": "2021-01-04T17:24:28.000Z"
   },
   {
@@ -497977,44 +497577,6 @@
     ],
     "sourceCodeUrls": [],
     "createdAt": "2022-11-13T17:06:48.550Z"
-  },
-  {
-    "id": "704949835",
-    "title": "bitwarden/clients · GitHub",
-    "url": "https://github.com/bitwarden/clients",
-    "description": "Bitwarden client applications (web, browser extension, desktop, and cli)",
-    "domain": "github.com",
-    "cover": "https://repository-images.githubusercontent.com/53538899/090e883e-d2ef-4a46-ab74-5d2fc19418df",
-    "favorite": false,
-    "category": "security-and-privacy",
-    "subcategory": [
-      "Password Manager"
-    ],
-    "tags": [
-      "Source Code: GitHub",
-      "Type: Open-Source"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2023-12-29T13:54:05.798Z"
-  },
-  {
-    "id": "472045477",
-    "title": "bitwarden/server · GitHub",
-    "url": "https://github.com/bitwarden/server",
-    "description": "The core infrastructure backend (API, database, Docker, etc). - GitHub - bitwarden/server: The core infrastructure backend (API, database, Docker, etc).",
-    "domain": "github.com",
-    "cover": "https://github.com/bitwarden/brand/raw/master/screenshots/apps-combo-logo.png",
-    "favorite": false,
-    "category": "security-and-privacy",
-    "subcategory": [
-      "Password Manager"
-    ],
-    "tags": [
-      "Source Code: GitHub",
-      "Type: Open-Source"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2022-11-13T15:03:21.480Z"
   },
   {
     "id": "1785810402",
@@ -498240,23 +497802,25 @@
     "createdAt": "2026-02-23T00:09:28.824Z"
   },
   {
-    "id": "542018856",
-    "title": "Cisco-Talos/clamav · GitHub",
-    "url": "https://github.com/Cisco-Talos/clamav",
-    "description": "ClamAV - Documentation is here: https://docs.clamav.net - GitHub - Cisco-Talos/clamav: ClamAV - Documentation is here: https://docs.clamav.net",
-    "domain": "github.com",
-    "cover": "https://opengraph.githubassets.com/62a1a16632ef14024109123527f740401f1420aaa027e6b0288f6756164ad2ce/Cisco-Talos/clamav",
+    "id": "367437801",
+    "title": "ClamAVNet",
+    "url": "https://www.clamav.net/",
+    "description": null,
+    "domain": "www.clamav.net",
+    "cover": "https://www.clamav.net/assets/clamav-trademark.png",
     "favorite": false,
     "category": "security-and-privacy",
     "subcategory": [
       "Antimalware"
     ],
     "tags": [
-      "Source Code: GitHub",
+      "OS Compatibility: web app",
       "Type: Open-Source"
     ],
-    "sourceCodeUrls": [],
-    "createdAt": "2023-03-24T23:35:46.571Z"
+    "sourceCodeUrls": [
+      "https://github.com/Cisco-Talos/clamav"
+    ],
+    "createdAt": "2022-02-18T17:56:01.140Z"
   },
   {
     "id": "287105064",
@@ -505423,26 +504987,6 @@
     "createdAt": "2021-01-13T03:26:22.000Z"
   },
   {
-    "id": "629489943",
-    "title": "benbusby/farside · GitHub",
-    "url": "https://github.com/benbusby/farside",
-    "description": "A smart redirecting gateway for various frontend services",
-    "domain": "github.com",
-    "cover": "https://opengraph.githubassets.com/4e4c92953f203b5418ddf60391e8097eaa89e087ade992a8777495404113beeb/benbusby/farside",
-    "favorite": false,
-    "category": "social-and-communications",
-    "subcategory": [
-      "Social Network",
-      "Social Net (frontend)"
-    ],
-    "tags": [
-      "Source Code: GitHub",
-      "Type: Open-Source"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2023-08-16T13:37:36.570Z"
-  },
-  {
     "id": "391528580",
     "title": "Bere.al",
     "url": "https://bereal.com/",
@@ -506836,27 +506380,6 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2021-02-12T11:14:31.000Z"
-  },
-  {
-    "id": "367437801",
-    "title": "ClamAVNet",
-    "url": "https://www.clamav.net/",
-    "description": null,
-    "domain": "www.clamav.net",
-    "cover": "https://www.clamav.net/assets/clamav-trademark.png",
-    "favorite": false,
-    "category": "social-and-communications",
-    "subcategory": [
-      "Email Account"
-    ],
-    "tags": [
-      "OS Compatibility: web app",
-      "Type: Open-Source"
-    ],
-    "sourceCodeUrls": [
-      "https://github.com/rybbit-io/rybbit"
-    ],
-    "createdAt": "2022-02-18T17:56:01.140Z"
   },
   {
     "id": "373092559",
@@ -532094,7 +531617,7 @@
       "Source Code: GitHub"
     ],
     "sourceCodeUrls": [
-      "https://axios-http.com/"
+      "https://github.com/axios/axios"
     ],
     "createdAt": "2022-05-06T02:29:01.058Z"
   },
@@ -534497,26 +534020,6 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2023-04-12T23:45:56.055Z"
-  },
-  {
-    "id": "586337568",
-    "title": "containers/podman · GitHub",
-    "url": "https://github.com/containers/podman",
-    "description": "Podman: A tool for managing OCI containers and pods. - GitHub - containers/podman: Podman: A tool for managing OCI containers and pods.",
-    "domain": "github.com",
-    "cover": "https://opengraph.githubassets.com/4696d517ab92d4aee40c987ecb0c75969bcc14e45e3d8ce5a8e763dda9624c0a/containers/podman",
-    "favorite": false,
-    "category": "system-administration",
-    "subcategory": [
-      "Emulation & Virtualization",
-      "OS-Level Virtualization"
-    ],
-    "tags": [
-      "Source Code: GitHub",
-      "Type: Open-Source"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2023-06-06T23:32:16.432Z"
   },
   {
     "id": "291836268",
@@ -539528,50 +539031,11 @@
       "OS Compatibility: macOS",
       "OS Compatibility: Linux"
     ],
-    "sourceCodeUrls": [],
+    "sourceCodeUrls": [
+      "https://github.com/Homebrew/brew",
+      "https://github.com/Homebrew/homebrew-core"
+    ],
     "createdAt": "2021-07-16T13:02:40.000Z"
-  },
-  {
-    "id": "579624352",
-    "title": "Homebrew/brew · GitHub",
-    "url": "https://github.com/Homebrew/brew",
-    "description": "🍺 The missing package manager for macOS (or Linux) - GitHub - Homebrew/brew: 🍺 The missing package manager for macOS (or Linux)",
-    "domain": "github.com",
-    "cover": "https://repository-images.githubusercontent.com/53238813/4038c700-61d2-11e9-805e-2d39adbf13ca",
-    "favorite": false,
-    "category": "system-administration",
-    "subcategory": [
-      "System Tool",
-      "Software Manager",
-      "Package Manager"
-    ],
-    "tags": [
-      "Source Code: GitHub",
-      "Type: Open-Source"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2023-05-27T15:19:00.610Z"
-  },
-  {
-    "id": "563258462",
-    "title": "Homebrew/homebrew-core · GitHub",
-    "url": "https://github.com/Homebrew/homebrew-core",
-    "description": "🍻 Default formulae for the missing package manager for macOS (or Linux)",
-    "domain": "github.com",
-    "cover": "https://repository-images.githubusercontent.com/52855516/4f1f7980-61d2-11e9-8d50-b1533a42f297",
-    "favorite": false,
-    "category": "system-administration",
-    "subcategory": [
-      "System Tool",
-      "Software Manager",
-      "Package Manager"
-    ],
-    "tags": [
-      "Source Code: GitHub",
-      "Type: Open-Source"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2023-04-25T13:33:10.265Z"
   },
   {
     "id": "812317719",
@@ -548123,7 +547587,7 @@
       "Type: Open-Source"
     ],
     "sourceCodeUrls": [
-      "https://github.com/containers/"
+      "https://github.com/containers/podman"
     ],
     "createdAt": "2022-06-16T19:50:28.070Z"
   },

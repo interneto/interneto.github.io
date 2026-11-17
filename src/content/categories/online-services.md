@@ -5,7 +5,7 @@ description: Search engines, web directories, software directories, corporations
 
 # Online Services
 
-**Total Bookmarks:** 5773
+**Total Bookmarks:** 5769
 
 
 ## Biography
@@ -276,7 +276,7 @@ description: Search engines, web directories, software directories, corporations
 ### Graph Map Db
 - ⭐ **[Code Galaxies Visualization](https://anvaka.github.io/pm/#/?_k=oqyjty)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/anvaka/pm)
 - ⭐ **[Learn Anything](https://learn-anything.xyz/)**
-- ⭐ **[Map of GitHub](https://anvaka.github.io/map-of-github/#2/0/0)** / [🔗](https://anvaka.github.io/map-of-github/) — Anvaka
+- ⭐ **[Map of GitHub](https://anvaka.github.io/map-of-github/#2/0/0)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/anvaka/map-of-github) — Anvaka
 - ⭐ **[WikiGalaxy](https://wiki.polyfra.me/)** — byowen
 - [Artistic visualization of heights](https://anvaka.github.io/peak-map/#7.68/47.727/-122.574)
 - [Autocomplete VS graph](https://anvaka.github.io/vs/?query=) / [![GitHub](/img/software/apps/github.svg)](https://github.com/anvaka/vs)
@@ -988,7 +988,6 @@ description: Search engines, web directories, software directories, corporations
 - [Gobierno de Canarias](https://opendata.gobiernodecanarias.org/dataset) — Dataset
 - [Google Public Data Explorer](https://www.google.com/publicdata/directory)
 - [NASA Open Data](https://data.nasa.gov/browse)
-- [nasa/earthdata-search · GitHub](https://github.com/nasa/earthdata-search)
 - [Open Data DC](https://opendata.dc.gov/)
 - [Open Data Inception](https://opendatainception.io/)
 - [Open Data La Palma](https://www.opendatalapalma.es/)
@@ -4095,7 +4094,7 @@ description: Search engines, web directories, software directories, corporations
 - [Bloguers.net](https://bloguers.net/)
 - [Exposure](https://www.exposure.co/) — The visual storytelling platform
 - [Fediverse.blog](https://fediverse.blog/)
-- [Ghost.org](https://ghost.org/)
+- [Ghost.org](https://ghost.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/TryGhost/Ghost)
 - [Hashnode](https://hashnode.com/) — Blogging community for developers, and people in tech
 - [HubPages](https://discover.hubpages.com/)
 - [Known](https://withknown.com/) — social publishing for groups and individuals
@@ -4121,14 +4120,13 @@ description: Search engines, web directories, software directories, corporations
 
 ##### Commenting Platform
 - ⭐ **[Disqus](https://disqus.com/)**
-- ⭐ **[giscus.app](https://giscus.app/)**
+- ⭐ **[giscus.app](https://giscus.app/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/giscus/giscus)
 - [Cackle](http://cackle.pro/comments)
 - [Commento](https://commento.io/)
 - [Cusdis](https://cusdis.com/) — Lightweight, privacy-first, open-source comment system
 - [DiscussBot](https://comments.app/)
 - [Facebook](https://developers.facebook.com/docs/plugins/comments/) — Comments plugin
 - [FastComments.com](https://fastcomments.com/)
-- [Giscus · GItHub](https://github.com/giscus/giscus)
 - [Heyoya](https://www.heyoya.com/)
 - [HTML Comment Box](https://www.htmlcommentbox.com/)
 - [Hyvor Talk](https://talk.hyvor.com/)
@@ -4139,8 +4137,7 @@ description: Search engines, web directories, software directories, corporations
 - [Remark42](https://remark42.com/) — Privacy-focused lightweight commenting engine
 - [Twikoo](https://twikoo.js.org/)
 - [Utterances](https://utteranc.es/)
-- [Waline](https://waline.js.org/en/)
-- [walinejs/waline](https://github.com/walinejs/waline) — 💬 A Simple, Safe Comment System
+- [Waline](https://waline.js.org/en/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/walinejs/waline)
 - [WordPress plugin](https://wordpress.org/plugins/commentluv/) — CommentLuv
 - [wpDiscuz](https://wpdiscuz.com/)
 
@@ -4357,7 +4354,6 @@ description: Search engines, web directories, software directories, corporations
 - [SQLAlchemy](https://www.sqlalchemy.org/)
 - [Style Dictionary](https://amzn.github.io/style-dictionary/#/)
 - [Sweep](https://sweep.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/sweepai/sweep) — turn bugs and feature requests into code changes
-- [veler/DevToys](https://github.com/veler/DevToys) — A Swiss Army knife for developers
 - [Volta.sh](https://volta.sh/)
 - [What Firefox trains are we in?](https://whattrainisitnow.com/)
 - [Xiaomi mimocode](https://mimo.xiaomi.com/mimocode)

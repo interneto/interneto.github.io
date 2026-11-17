@@ -5,7 +5,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 
 # Development
 
-**Total Bookmarks:** 2860
+**Total Bookmarks:** 2852
 
 - [Adobe Open Source](https://opensource.adobe.com/)
 - [Asterisk](https://www.asterisk.org/)
@@ -186,8 +186,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [PHP](https://www.php.net/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/php/php-src) — Hypertext Preprocessor
 - [Protocol Buffers](https://protobuf.dev/)
 - [PYPL PopularitY of Programming Language](https://pypl.github.io/PYPL.html)
-- [Python](https://www.python.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/python)
-- [python/cpython](https://github.com/python/cpython) — The Python programming language
+- [Python](https://www.python.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/python/cpython)
 - [R Documentation](https://www.rdocumentation.org/)
 - [R](https://www.r-project.org/) — The R Project for Statistical Computing
 - [Racket Lang](https://racket-lang.org/)
@@ -196,8 +195,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [Ruby](https://www.ruby-lang.org/en)
 - [RubyInstaller](https://rubyinstaller.org/)
 - [Runiter](https://www.runiter.com/)
-- [Rust Programming Language](https://www.rust-lang.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/rust-lang)
-- [rust-lang/rust · GItHub](https://github.com/rust-lang/rust)
+- [Rust Programming Language](https://www.rust-lang.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/rust-lang/rust)
 - [RustPython](https://rustpython.github.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/RustPython/RustPython)
 - [Sass](https://sass-lang.com/) — Syntactically Awesome Style Sheets
 - [Scala Programming Language](https://scala-lang.org/)
@@ -566,8 +564,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [Forestry.io](https://forestry.io/)
 - [Formbricks](https://formbricks.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/formbricks/formbricks) — Privacy-first Experience Management
 - [Framer](https://www.framer.com/) — Create a professional website, free. No code website builder loved by designers
-- [getgrav/grav · GitHub](https://github.com/getgrav/grav)
-- [Grav CMS](https://getgrav.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/getgrav)
+- [Grav CMS](https://getgrav.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/getgrav/grav)
 - [Joomla CMS](https://www.joomla.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/joomla/joomla-cms)
 - [Kentico](https://www.kentico.com/)
 - [Kirby](https://getkirby.com/) — CMS that adapts to you
@@ -601,7 +598,6 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [Takeshape.io](https://www.takeshape.io/)
 - [Textpattern CMS](https://textpattern.com/)
 - [Tips.io](https://tips.io/) — Build simple Tailwind websites without the hangover.
-- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) — Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [TYPO3 Project and Governance](https://typo3.org/) — Democratic Open Source
 - [Ubiquiti](https://www.ui.com/) — UniFi
 - [Umbraco](https://umbraco.com/)
@@ -868,7 +864,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [Meta Seal](https://facebookresearch.github.io/meta-seal/) — State-of-the-Art Open Source AI Watermarking
 - [NVIDIA/DeepLearningExamples · GitHub](https://github.com/NVIDIA/DeepLearningExamples)
 - [PyTorch](https://pytorch.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/pytorch/pytorch)
-- [Supervision](https://supervision.roboflow.com/latest/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/roboflow)
+- [Supervision](https://supervision.roboflow.com/latest/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/roboflow/supervision)
 - [TensorFlow](https://www.tensorflow.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/tensorflow/tensorflow)
 - [tinygrad/tinygrad · GitHub](https://github.com/tinygrad/tinygrad)
 - [Torch](http://torch.ch/)
@@ -2238,7 +2234,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [anthropics/buffa](https://github.com/anthropics/buffa) — Rust implementation of protobuf with editions support, JSON serialization, and zero-copy views
 - [argtable](https://argtable.sourceforge.io/) — ANSI C command line parser
 - [Armadillo](http://arma.sourceforge.net/) — C++ library
-- [Automerge CRDT](https://automerge.org/)
+- [Automerge CRDT](https://automerge.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/automerge/automerge), [![GitHub](/img/software/apps/github.svg)](https://github.com/automerge/automerge-classic)
 - [Base64uid · GitHub](https://github.com/gpslab/base64uid)
 - [BirdbrainEngineer/lenia_ca](https://github.com/BirdbrainEngineer/lenia_ca) — Core functionality for simulating Lenia system of cellular automata in Rust
 - [BlurHash](https://blurha.sh/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/woltapp/blurhash)
@@ -2371,9 +2367,6 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [AR.js](https://ar-js-org.github.io/AR.js/) — AR on the web
 - [Atropos](https://atroposjs.com/) — Stunning touch-friendly 3D parallax hover effects
 - [Auth.js](https://authjs.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/nextauthjs/next-auth)
-- [automerge/automerge · GitHub](https://github.com/automerge/automerge)
-- [automerge/automerge-classic · GitHub](https://github.com/automerge/automerge-classic)
-- [axios/axios · GitHub](https://github.com/axios/axios/)
 - [BetaHuhn/feedback-js · GitHub](https://github.com/BetaHuhn/feedback-js)
 - [Chart.js](https://www.chartjs.org/)
 - [cheerio](https://cheerio.js.org/) — The industry standard for working with HTML in JavaScript
@@ -2498,7 +2491,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [libimobiledevice](https://libimobiledevice.org/)
 - [Manim Community](https://www.manim.community/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/ManimCommunity/manim)
 - [mapbox/delaunator · GitHub](https://github.com/mapbox/delaunator)
-- [marimo](https://marimo.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/marimo-team) — a next-generation Python notebook
+- [marimo](https://marimo.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/marimo-team/marimo) — a next-generation Python notebook
 - [masastack/MASA.Blazor · GitHub](https://github.com/masastack/MASA.Blazor)
 - [Matplotlib](https://matplotlib.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/matplotlib/matplotlib) — Visualization with Python
 - [mlpack.org](https://www.mlpack.org/)
@@ -2837,7 +2830,6 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [Lazarus IDE](https://www.lazarus-ide.org/)
 - [Leporello.js](https://leporello.tech/)
 - [Lithe · A lightweight Java IDE for macOS and Windows](https://lithe.top/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/1lck/Lithe-IDEA)
-- [marimo-team/marimo](https://github.com/marimo-team/marimo) — A reactive notebook for Python
 - [metacraft-labs/codetracer](https://github.com/metacraft-labs/codetracer) — CodeTracer is a user-friendly time-traveling debugger designed to support a wide range of programming languages.
 - [MonoDevelop](https://www.monodevelop.com/)
 - [Nova IDE](https://nova.app/)

@@ -5,7 +5,7 @@ description: Password managers, cybersecurity, and web privacy
 
 # Security & Privacy
 
-**Total Bookmarks:** 344
+**Total Bookmarks:** 342
 
 - [Fight Chat Control](https://fightchatcontrol.eu/) — Protect Digital Privacy in the EU
 - [PrivacySpy](https://privacyspy.org/) — We track online privacy
@@ -19,7 +19,7 @@ description: Password managers, cybersecurity, and web privacy
 - [Bitdefender](https://www.bitdefender.com/) — Global Leader in Cybersecurity Software
 - [BullGuard](https://www.bullguard.com/)
 - [Check Point](https://www.checkpoint.com/)
-- [Cisco-Talos/clamav · GitHub](https://github.com/Cisco-Talos/clamav)
+- [ClamAVNet](https://www.clamav.net/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Cisco-Talos/clamav)
 - [Clamwin](http://www.clamwin.com/)
 - [Comodo](https://www.comodo.com/)
 - [CrowdStrike](https://www.crowdstrike.com/)
@@ -133,7 +133,7 @@ description: Password managers, cybersecurity, and web privacy
 - [TrustScam](https://trustscam.com/)
 
 ## Password Manager
-- ⭐ **[Bitwarden](https://bitwarden.com/)**
+- ⭐ **[Bitwarden](https://bitwarden.com/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/bitwarden/clients), [![GitHub](/img/software/apps/github.svg)](https://github.com/bitwarden/server)
 - ⭐ **[dani-garcia/vaultwarden · GItHub](https://github.com/dani-garcia/vaultwarden)**
 - ⭐ **[KeePassDX](https://keepassdx.com/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/Kunzisoft/KeePassDX)
 - ⭐ **[KeePassXC](https://keepassxc.org/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/keepassxreboot/keepassxc) — Password Manager
@@ -145,8 +145,6 @@ description: Password managers, cybersecurity, and web privacy
 - [AuthPass](https://authpass.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/authpass/authpass)
 - [AuthPass](https://authpass.com/)
 - [Bitwarden Web Vault](https://vault.bitwarden.com/#/register)
-- [bitwarden/clients · GitHub](https://github.com/bitwarden/clients)
-- [bitwarden/server · GitHub](https://github.com/bitwarden/server)
 - [boazeb/papervault](https://github.com/boazeb/papervault) — Paper vault for passwords and secrets
 - [Catima](https://catima.app/) — Libre Card Wallet
 - [Cédric Bellegarde / SyncPassword · GitLab](https://gitlab.gnome.org/gnumdk/syncpasswd)

@@ -5,7 +5,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 
 # AI Tools & Services
 
-**Total Bookmarks:** 911
+**Total Bookmarks:** 910
 
 
 ## Agents & Automation
@@ -966,7 +966,6 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [LiheYoung/Depth-Anything · GitHub](https://github.com/LiheYoung/Depth-Anything)
 - [Microsoft Cognitive Services](https://westus.dev.cognitive.microsoft.com/docs/services)
 - [Project Splinter · GitHub](https://project-splinter.github.io/)
-- [roboflow/supervision · GitHub](https://github.com/roboflow/supervision)
 - [TadasBaltrusaitis/OpenFace · GitHub](https://github.com/TadasBaltrusaitis/OpenFace)
 - [THU-MIG/yolov10 · GitHub](https://github.com/THU-MIG/yolov10)
 - [tphakala/birdnet-go](https://github.com/tphakala/birdnet-go) — Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi

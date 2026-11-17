@@ -5,7 +5,7 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 
 # Education & Reference
 
-**Total Bookmarks:** 1374
+**Total Bookmarks:** 1372
 
 - [Academia Lab](https://academia-lab.com/)
 - [DosisPedia](https://dosispedia.com/)
@@ -1156,13 +1156,11 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [ionic-team/ionic-docs · GitHub](https://github.com/ionic-team/ionic-docs)
 - [kyclark/command-line-rust](https://github.com/kyclark/command-line-rust) — Code for Command-Line Rust (O'Reilly, 2024, ISBN 9781098109417)
 - [Learn X in Y Minutes](https://learnxinyminutes.com/)
-- [mac-setup · GitHub](https://github.com/sb2nov/mac-setup)
 - [man-db / man-db · GitLab](https://gitlab.com/man-db/man-db)
 - [man-pages/man-pages.git](https://git.kernel.org/pub/scm/docs/man-pages/man-pages.git/) — Linux Kernel
 - [OneLoneCoder/Javidx9](https://github.com/OneLoneCoder/Javidx9/tree/master) — The official distribution of Javidx9's YouTube videos and projects
 - [techschool/simplebank · GitHub](https://github.com/techschool/simplebank)
 - [TheAlgorithms/Rust · GitHub](https://github.com/TheAlgorithms/Rust)
-- [tldr-pages/tldr-python-client · GitHub](https://github.com/tldr-pages/tldr-python-client)
 
 ##### Supercomputing
 - [adam-maj/tiny-gpu · GitHub](https://github.com/adam-maj/tiny-gpu)

@@ -5,7 +5,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 
 # System Administration
 
-**Total Bookmarks:** 1541
+**Total Bookmarks:** 1538
 
 - [osquery](https://osquery.io/)
 - [PIVPN](https://pivpn.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/pivpn/pivpn) — Simplest way to setup a VPN
@@ -602,7 +602,6 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [Colima](https://colima.run/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/abiosoft/colima) — Container runtimes on macOS and Linux
 - [container toolbx](https://containertoolbx.org/)
 - [containerd](https://containerd.io/)
-- [containers/podman · GitHub](https://github.com/containers/podman)
 - [Crane](https://michaelsauter.github.io/crane/)
 - [docker/compose · GitHub](https://github.com/docker/compose)
 - [Dockge](https://dockge.kuma.pet/)
@@ -631,7 +630,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [Open Container Initiative](https://opencontainers.org/)
 - [OpenVZ](https://openvz.org/)
 - [OrbStack · Fast, light, simple Docker & Linux on macOS](https://orbstack.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/orbstack)
-- [Podman.io](https://podman.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/containers/)
+- [Podman.io](https://podman.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/containers/podman)
 - [Portainer.io](https://www.portainer.io/) — container management for Docker and Kubernetes
 - [sdv43/whaler](https://github.com/sdv43/whaler) — Docker Container Management · GitHub
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) — Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers
@@ -804,7 +803,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [unFTP](https://unftp.rs/)
 
 #### HTTP Client
-- [AXIOS](https://axios-http.com/) / [🔗](https://axios-http.com/)
+- [AXIOS](https://axios-http.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/axios/axios)
 - [GetIt](https://getit.bartkessels.net/) — Simple HTTP request application
 - [Googl Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging)
 - [h5ai · modern HTTP web server index · larsjung.de](https://larsjung.de/h5ai/)
@@ -1496,9 +1495,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [Go app package](https://go-app.dev/)
 - [hanzala123/arch2appimage · GitHub](https://github.com/hanzala123/arch2appimage)
 - [helixarch/debtap · GitHub](https://github.com/helixarch/debtap)
-- [Homebrew](https://brew.sh/)
-- [Homebrew/brew · GitHub](https://github.com/Homebrew/brew)
-- [Homebrew/homebrew-core · GitHub](https://github.com/Homebrew/homebrew-core)
+- [Homebrew](https://brew.sh/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Homebrew/brew), [![GitHub](/img/software/apps/github.svg)](https://github.com/Homebrew/homebrew-core)
 - [Keryx Project](https://launchpad.net/keryxproject) — Launchpad
 - [List of software package management systems](https://en.wikipedia.org/wiki/List_of_software_package_management_systems) — Wikipedia
 - [LykosAI/StabilityMatrix · GitHub](https://github.com/LykosAI/StabilityMatrix)

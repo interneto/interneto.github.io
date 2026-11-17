@@ -5,7 +5,7 @@ description: Email, messaging, forums, social networks, and video conferencing
 
 # Social & Communications
 
-**Total Bookmarks:** 1379
+**Total Bookmarks:** 1377
 
 
 ## 2FA
@@ -500,7 +500,6 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [AnonAddy](https://anonaddy.com/)
 - [Bespoke](https://bespoke.surf/) — The open source Mailchimp alternative
 - [BlueMail](https://bluemail.me/)
-- [ClamAVNet](https://www.clamav.net/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/rybbit-io/rybbit)
 - [e4ward.com](https://e4ward.com/)
 - [Fastmail](https://www.fastmail.com/) — Email and calendar made better
 - [Gmail](https://mail.google.com/mail/u/0#inbox)
@@ -1381,7 +1380,6 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [Startupy](https://beta.startupy.world/)
 
 ### Social Net (frontend)
-- [benbusby/farside · GitHub](https://github.com/benbusby/farside)
 - [bibliogram · SourceHut](https://sr.ht/~cadence/bibliogram/)
 - [digitalblossom/alternative-frontends · GitHub](https://github.com/digitalblossom/alternative-frontends)
 - [Farside](https://farside.link/) / [![SourceHut](/img/source-hosts/sourcehut.svg)](https://sr.ht/~benbusby/farside)
