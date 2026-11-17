@@ -5,7 +5,7 @@ description: Browsers and browser-related tools
 
 # Web Browsers
 
-**Total Bookmarks:** 146
+**Total Bookmarks:** 163
 
 - ⭐ **[Lightpanda](https://lightpanda.io/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/lightpanda-io/browser) — The headless browser
 - [Arc from The Browser Company](https://arc.net/)
@@ -20,7 +20,7 @@ description: Browsers and browser-related tools
 - [EinkBro](https://einkbro.github.io/overview.html)
 - [firedragon-browser · GitHub](https://github.com/dr460nf1r3/firedragon-browser)
 - [Glide](https://glide-browser.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/glide-browser/glide)
-- [Gosub Web Browser Engine](https://gosub.io/)
+- [Gosub Web Browser Engine](https://gosub.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/gosub-io/gosub-engine)
 - [Kitesurf](https://kitesurf.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/cloudflare/kitesurf) — stateless browser running entirely on Workers
 - [Perplexity Comet](https://comet.perplexity.ai/)
 - [PocketJS](https://pocketjs.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/pocket-stack/pocketjs) — Bare Metal Modern Web
@@ -38,9 +38,9 @@ description: Browsers and browser-related tools
 - [Basilisk browser](https://basilisk-browser.org/)
 - [Beaker](https://beakerbrowser.com/) — A peer-to-peer browser
 - [Blisk](https://blisk.io/)
-- [Brave Browser](https://brave.com/)
+- [Brave Browser](https://brave.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/brave/brave-browser)
 - [Brave Origin Nightly Download](https://brave.com/origin/download-nightly/)
-- [Bromite](https://www.bromite.org/)
+- [Bromite](https://www.bromite.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/bromite/bromite)
 - [CentBrowser](https://www.centbrowser.com/)
 - [Chrome](https://www.google.com/chrome)
 - [Chrome Beta](https://www.google.com/chrome/beta)
@@ -50,6 +50,7 @@ description: Browsers and browser-related tools
 - [Chrome Enterprise](https://chromeenterprise.google/)
 - [Chrome Platform Status](https://chromestatus.com/roadmap)
 - [Chrome Web Store](https://chrome.google.com/webstore)
+- [chromium/chromium · GitHub](https://github.com/chromium/chromium)
 - [Cobalt](https://developers.google.com/youtube/cobalt) / [![GitHub](/img/software/apps/github.svg)](https://github.com/youtube/cobalt) — Google for Developers
 - [Cốc Cốc](https://coccoc.com/)
 - [Colibri](https://colibri.opqr.co/) — Browse
@@ -65,6 +66,8 @@ description: Browsers and browser-related tools
 - [iCab](http://icab.de/)
 - [Iridium Browser](https://iridiumbrowser.de/)
 - [Kiwi Browser](https://kiwibrowser.com/)
+- [kiwibrowser/src · GitHub](https://github.com/kiwibrowser/src)
+- [kiwibrowser/src.next](https://github.com/kiwibrowser/src.next) — Source-code for Kiwi Next, a Kiwi Browser auto-rebased with latest Chromium
 - [Konqueror](https://apps.kde.org/konqueror/)
 - [LT Browser](https://www.lambdatest.com/browser-for-developers) — The Best Browser for Developers to Build, Test & Debug
 - [Microsoft Edge](https://www.microsoft.com/en-us/edge)
@@ -77,6 +80,7 @@ description: Browsers and browser-related tools
 - [Opera GX](https://www.opera.com/gx)
 - [Opera Neon](https://www.operaneon.com/) — Agentic AI browser
 - [Pissandshittium](https://pissandshittium.org/)
+- [plateaukao/einkbro](https://github.com/plateaukao/einkbro) — A small, fast web browser based on Android WebView. It's tailored for E-Ink devices but also works great on normal android devices.
 - [Puffin Browser](https://www.puffin.com/)
 - [QQ Browser](https://browser.qq.com/)
 - [Salamweb](https://salamweb.com/)
@@ -85,6 +89,7 @@ description: Browsers and browser-related tools
 - [Surfsky Cloud Browser](https://surfsky.io/)
 - [Thorium Browser](https://thorium.rocks/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Alex313031/thorium)
 - [Torch Browser](https://torchbrowser.com/)
+- [uazo/cromite · GitHub](https://github.com/uazo/cromite)
 - [UC Browser](https://www.ucweb.com/)
 - [Ulaa](https://ulaa.com/) — Private, Secure, and Superfast Browser
 - [Ungoogled-chromium](https://ungoogled-software.github.io/ungoogled-chromium-binaries) — dd
@@ -98,24 +103,30 @@ description: Browsers and browser-related tools
 - ⭐ **[LibreWolf Browser](https://librewolf.net/)** / [![Codeberg](/img/source-hosts/codeberg.svg)](https://codeberg.org/librewolf/source)
 - ⭐ **[Mozilla Firefox](https://www.firefox.com/en-US/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/mozilla-firefox/firefox)
 - ⭐ **[Tor Project](https://www.torproject.org/)** — Anonymity online
-- ⭐ **[Zen Browser](https://www.zen-browser.app/)**
+- ⭐ **[Zen Browser](https://www.zen-browser.app/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/zen-browser/desktop)
 - [DivestOS Mobile / Mull-Fenix · GitLab](https://gitlab.com/divested-mobile/mull-fenix)
 - [Falkon](https://www.falkon.org/)
 - [Fennec F-Droid](https://f-droid.org/packages/org.mozilla.fennec_fdroid/)
 - [Firefox Profiler](https://profiler.firefox.com/)
-- [Floorp](https://floorp.app/)
+- [Floorp](https://floorp.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Floorp-Projects/Floorp)
 - [Floorp](https://floorp.app/en/)
+- [GitHub](https://github.com/mozilla/gecko-dev) — mozilla/gecko-dev · GitHub
 - [K-Meleon](http://kmeleonbrowser.org/)
-- [Midori Browser](https://astian.org/midori-browser/)
+- [LibreWolf · GitLab](https://gitlab.com/librewolf-community)
+- [LibreWolf / Browser / Arch · GitLab](https://gitlab.com/librewolf-community/browser/arch)
+- [Midori Browser](https://astian.org/midori-browser/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/goastian/midori-desktop)
 - [Mullvad Browser](https://mullvad.net/en/browser)
 - [Pale Moon Project](https://www.palemoon.org/)
 - [PowerFox Browser](https://powerfox.jazzzny.me/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Jazzzny/powerfox-browser)
 - [SeaMonkey Project](https://www.seamonkey-project.org/)
 - [SlimBrowser](https://www.slimbrowser.net/)
 - [Waterfox, Free Web Browser](https://www.waterfox.net/en-US/)
+- [WaterfoxCo/Waterfox · GitHub](https://github.com/WaterfoxCo/Waterfox)
 
 ## Independent Browser
+- [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) — Nyxt the hacker's browser
 - [BriskBard](https://www.briskbard.com/index.php?lang=en)
+- [dillo-browser/dillo](https://github.com/dillo-browser/dillo) — Dillo, a multi-platform graphical web browser
 - [DioxusLabs/blitz](https://github.com/DioxusLabs/blitz) — High performance HTML and CSS renderer powered by WGPU
 - [Ladybird](https://ladybird.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/LadybirdBrowser/ladybird)
 - [Links](http://links.twibright.com/) — Twibright Labs
@@ -126,11 +137,14 @@ description: Browsers and browser-related tools
 - [MultiZen](https://getmultizen.com/) — The Ultimate Multi-Session Browsing Solution
 - [Mypal browser](https://mypal-browser.org/)
 - [NetSurf Browser](https://www.netsurf-browser.org/)
+- [Network / Konqueror · GitLab](https://invent.kde.org/network/konqueror)
 - [Nook Browser](https://www.browsewithnook.com/) — Open Sourcing Arc
 - [Nyxt browser](https://nyxt.atlas.engineer/) — The hacker's browser
 - [Orion Browser](https://browser.kagi.com/)
 - [qutebrowser](https://www.qutebrowser.org/)
+- [SerenityOS/ladybird · GitHub](https://github.com/SerenityOS/ladybird)
 - [Servo](https://servo.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/servo/servo) — web rendering engine
+- [Suckless git](https://git.suckless.org/surf/) — surf (webkit browser)
 - [Synth.app](https://synth.app/)
 - [The Browser Company](https://thebrowser.company/)
 - [UR browser](https://www.ur-browser.com/en-US)
@@ -140,12 +154,15 @@ description: Browsers and browser-related tools
 - [alyssaxuu/omni · GitHub](https://github.com/alyssaxuu/omni)
 - [Basaas.com](https://www.basaas.com/)
 - [Biscuit](https://eatbiscuit.com/)
-- [Ferdium](https://ferdium.org/) — The home for all your services
+- [Ferdium](https://ferdium.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/ferdium/ferdium-app) — The home for all your services
 - [Franz messaging](https://meetfranz.com/)
+- [getstation/desktop-app · GitHub](https://github.com/getstation/desktop-app)
+- [nativefier/nativefier · GitHub](https://github.com/nativefier/nativefier)
 - [Rambox](https://rambox.app/) — Workspace Simplifier to Boost your Productivity
 - [Shift](https://tryshift.com/) — Manage All of Your Email and App Accounts
 - [Sidekick](https://www.meetsidekick.com/)
 - [Singlebox](https://singlebox.app/en/)
+- [sonnyp/Junction · GitHub](https://github.com/sonnyp/Junction)
 - [Stack browser](https://stackbrowser.com/)
 - [Station • One app to rule them all](https://getstation.com/)
 - [Switch Extension](https://switchextension.com/)

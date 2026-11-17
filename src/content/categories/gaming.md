@@ -5,7 +5,7 @@ description: Games, launchers, emulators, and gaming utilities
 
 # Gaming
 
-**Total Bookmarks:** 761
+**Total Bookmarks:** 804
 
 
 ## Games
@@ -33,9 +33,13 @@ description: Games, launchers, emulators, and gaming utilities
 - [Fragpunk Experience the new lancer Hurricane](https://www.fragpunk.com/#/)
 - [GTA 5 RP Grand](https://gta5grand.com/)
 - [GTA V](https://www.rockstargames.com/V)
+- [id-Software/DOOM · GitHub](https://github.com/id-Software/DOOM)
+- [Liblast · Codeberg](https://codeberg.org/Liblast/Liblast)
+- [Lumorti/Quandoom · GitHub](https://github.com/Lumorti/Quandoom)
+- [Moritz Zwerger / Minosoft · GitLab](https://gitlab.bixilon.de/bixilon/minosoft)
 - [Noita](https://noitagame.com/) — A roguelite where everything can be destroyed.
 - [OpenArena](https://openarena.ws/smfnews.php)
-- [OpenRW](https://openrw.org/) — Open Source GTA III engine re-implementation
+- [OpenRW](https://openrw.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/rwengine/openrw) — Open Source GTA III engine re-implementation
 - [Overwatch 2](https://overwatch.blizzard.com/en-us/)
 - [Red Eclipse](https://www.redeclipse.net/) — A free arena shooter featuring parkour
 - [Rust](https://rust.facepunch.com/)
@@ -48,13 +52,16 @@ description: Games, launchers, emulators, and gaming utilities
 - [Teeworlds](https://teeworlds.com/)
 - [THE FINALS](https://www.reachthefinals.com/)
 - [Totaljerkface (Happy Wheels)](https://totaljerkface.com/)
+- [UnknownShadow200/ClassiCube · GitHub](https://github.com/UnknownShadow200/ClassiCube)
 - [VALORANT](https://playvalorant.com/es-es/)
 - [Warsow](https://www.warsow.net/)
 - [WebLiero](https://www.webliero.com/)
+- [Xonotic / Xonotic · GitLab](https://gitlab.com/xonotic/xonotic)
 - [Xonotic](https://xonotic.org/) — The Free and Fast Arena Shooter
 - [ZDoom](https://www.zdoom.org/index)
 
 ### Adventure
+- [BaiBaitw/Froggy-Love](https://github.com/BaiBaitw/Froggy-Love) — An Indie Game for Game Off 2025
 - [BuildTheEarth](https://buildtheearth.net/)
 - [ClassiCube.net](https://www.classicube.net/)
 - [MCEdit](https://www.mcedit.net/) — World Editor for Minecraft
@@ -81,6 +88,7 @@ description: Games, launchers, emulators, and gaming utilities
 - [Fruit Ninja](https://fruitninja.com/)
 - [Goat Attack](http://www.goatattack.net/)
 - [JHDev2006/Super-Mario-Bros.-Remastered-Public · GitHub](https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public)
+- [k4zmu2a/SpaceCadetPinball · GitHub](https://github.com/k4zmu2a/SpaceCadetPinball)
 - [PAC-MAN](https://www.pacman.com/en/)
 - [Pacxon](https://www.pacxon.net/) — Play Pacxon Game (Pacman Xon)
 - [Paper.io 2](https://paperio.site/)
@@ -117,6 +125,8 @@ description: Games, launchers, emulators, and gaming utilities
 - [DecodeChess](https://decodechess.com/) — Smarter Chess Analysis: Your Own Chess Explainer
 - [dice.run](https://dice.run/#/d/3d6)
 - [eChess](https://www.echess.com/) — Making chess more social, playful and fun!
+- [Games / KNavalBattle · GitLab](https://invent.kde.org/games/knavalbattle)
+- [Games / Knights · GitLab](https://invent.kde.org/games/knights)
 - [Gametable.org](https://gametable.org/)
 - [HIARCS Chess Software for Mac and PC](https://www.hiarcs.com/)
 - [Learn Chess with Dr. Wolf](https://www.learnchesswithdrwolf.com/)
@@ -139,9 +149,11 @@ description: Games, launchers, emulators, and gaming utilities
 ### Cards
 - [Balatro](https://www.playbalatro.com/) — Deck-Building Roguelite
 - [CardGames.io](https://cardgames.io/)
+- [GNOME / aisleriot · GitLab](https://gitlab.gnome.org/GNOME/aisleriot)
 - [Karabast](https://karabast.net/)
 - [Meteorfall](https://www.krumits-tale.com/) — Krumit's Tale
 - [PySolFC Solitaire](https://pysolfc.sourceforge.io/)
+- [SWU-Karabast/SWUOnline](https://github.com/SWU-Karabast/SWUOnline) — Star Wars Unlimited Sim
 - [Towers Of Mordoria by teej_dv](https://teej-dv.itch.io/towers-of-mordoria)
 
 ### Casino
@@ -206,9 +218,11 @@ description: Games, launchers, emulators, and gaming utilities
 - [Arkadia Zoomquilt](https://arkadia.xyz/)
 - [Bored a lot](https://boredalot.com/)
 - [Bubble Game](https://www.bubblegame.org/)
+- [cassidyjames/clairvoyant](https://github.com/cassidyjames/clairvoyant) — Ask questions, get psychic answers
 - [Click 😅 👇 〰️](https://clickclickclick.click/#4e88c11068bf05c5225d574092451d96)
 - [Color](https://color.method.ac/)
 - [Cookie Clicker](https://orteil.dashnet.org/cookieclicker/)
+- [copy/life](https://github.com/copy/life) — Conway's Game of Life in JS
 - [Dialed.gg Color Game](https://dialed.gg/) — How Well Can You Remember Colors?
 - [Dialed.gg Sound](https://dialed.gg/sound) — How Good Is Your Ear?
 - [Fake Update Prank](https://fakeupdate.net/)
@@ -223,6 +237,7 @@ description: Games, launchers, emulators, and gaming utilities
 - [Pax Historia](https://www.paxhistoria.co/)
 - [Play4Row](https://play4row.com/) — Play Connect Four Online Free
 - [Ram-Altman](https://ram-altman.lol/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/IainKay/ram-altman) — emails Sam Altman about your unused RAM
+- [salif/cli-games · GitHub](https://github.com/salif/cli-games)
 - [Suika Game](https://suikagame.com/)
 - [thank mr skeltal](https://xn--rl8hlm.tk/)
 - [The Office Stare Machine](http://theofficestaremachine.com/)
@@ -260,6 +275,7 @@ description: Games, launchers, emulators, and gaming utilities
 - [CSSBattle](https://cssbattle.dev/)
 - [DojaCode](https://dojacode.com/)
 - [Edabit](https://edabit.com/)
+- [Education / KTurtle · GitLab](https://invent.kde.org/education/kturtle)
 - [Elevator Saga](https://play.elevatorsaga.com/)
 - [Empire of Code](https://empireofcode.com/)
 - [Flexbox Defense](http://www.flexboxdefense.com/)
@@ -271,6 +287,7 @@ description: Games, launchers, emulators, and gaming utilities
 - [Mimo](https://getmimo.com/) — coding app
 - [Oh My Git!](https://ohmygit.org/)
 - [Pixact.ly](https://pixact.ly/)
+- [PSeInt](https://sourceforge.net/projects/pseint/) — SourceForge
 - [py.CheckiO](https://py.checkio.org/) — Python coding challenges and exercises with solutions for beginners and advanced
 - [Robocode](https://robocode.sourceforge.io/)
 - [Screeps](https://screeps.com/) — MMO RTS sandbox for programmers
@@ -315,6 +332,7 @@ description: Games, launchers, emulators, and gaming utilities
 - [MapCrunch](https://www.mapcrunch.com/) — Random Street View
 - [OpenGuessr](https://openguessr.com/) — Free GeoGuessr Alternative
 - [OpenGuessr](https://openguessr.io/geoguessr-free) — Geoguessr Free - Guess the Location Game
+- [SebLague/Geographical-Adventures · GitHub](https://github.com/SebLague/Geographical-Adventures)
 - [Seterra](https://www.seterra.com/) — The Ultimate Map Quiz Site
 - [Teuteuf Games](https://teuteuf.fr/) — Teuteuf Games
 - [TimeGuessr](https://timeguessr.com/)
@@ -332,9 +350,10 @@ description: Games, launchers, emulators, and gaming utilities
 
 ### Puzzle
 - [2048](https://play.google.com/store/apps/details?id=com.tpcstld.twozerogame) — Apps on Google Play
-- [2048.co](https://play2048.co/)
+- [2048.co](https://play2048.co/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/gabrielecirulli/2048)
 - [Code Golf](https://code.golf/)
 - [First-Person Tetris](https://firstpersontetris.com/)
+- [Games / Kubrick · GitLab](https://invent.kde.org/games/kubrick)
 - [Hextris](https://hextris.io/)
 - [Jigsawplanet](https://www.jigsawplanet.com/)
 - [Meditations.games](https://meditations.games/)
@@ -356,6 +375,7 @@ description: Games, launchers, emulators, and gaming utilities
 - [The Password Game](https://neal.fun/password-game/)
 - [Unpacking](https://www.unpackinggame.com/) — a zen puzzle
 - [Wordsmyth](https://playwordsmyth.com/) — Daily Word Puzzle Game
+- [xiaoyong/2048-Qt · GitHub](https://github.com/xiaoyong/2048-Qt)
 
 ### Racing
 - [Asphalt 9](https://asphaltlegends.com/) — Legends - Arcade Racing
@@ -364,6 +384,7 @@ description: Games, launchers, emulators, and gaming utilities
 - [GRID™ Legends](https://www.ea.com/en-gb/games/grid/grid-legends) — Codemasters - Electronic Arts
 - [HexGL](http://hexgl.bkcore.com/)
 - [iRacing](https://www.iracing.com/) — Join Our Online eSports Sim Racing Leagues Today
+- [Lunakepio/Mario-Kart-3.js · GitHub](https://github.com/Lunakepio/Mario-Kart-3.js)
 - [Mario Kart PC](https://mkpc.malahieude.net/)
 - [Speed Dreams](https://www.speed-dreams.net/en/)
 - [Wave Racer](https://wave-racer.vercel.app/) — INK TIDE
@@ -375,7 +396,7 @@ description: Games, launchers, emulators, and gaming utilities
 - [Baldur's Gate 3](https://baldursgate3.game/)
 - [Black Desert](https://www.naeu.playblackdesert.com/en-US/Data/Down)
 - [Black Myth](https://heishenhua.com/) — WuKong
-- [Cataclysm](https://cataclysmdda.org/) — Dark Days Ahead
+- [Cataclysm](https://cataclysmdda.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/CleverRaven/Cataclysm-DDA) — Dark Days Ahead
 - [Cyberounk 2077](https://www.nightcity.love/en) — Night City
 - [Cyberpunk 2077](https://www.cyberpunk.net/es/en)
 - [Cyberpunk 2077](https://maps.piggyback.com/cyberpunk-2077/maps/night-city) — Map Night City
@@ -387,10 +408,12 @@ description: Games, launchers, emulators, and gaming utilities
 - [Endurya](https://endurya.com/)
 - [EVE Online](https://www.eveonline.com/)
 - [FINAL FANTASY XIV](https://na.finalfantasyxiv.com/)
+- [Foundry Network / Foundry Virtual Tabletop · GitLab](https://gitlab.com/foundrynet/foundryvtt)
 - [Genshin Impact](https://genshin.hoyoverse.com/en/home) — Step into a Vast Magical World for Adventure
 - [Honkai](https://hsr.hoyoverse.com/en-us/) — Star Rail
 - [Isleward](https://play.isleward.com/) / [![GitLab](/img/source-hosts/gitlab.svg)](https://gitlab.com/Isleward/isleward)
 - [maxilevi/project-hedra · GitHub](https://github.com/maxilevi/project-hedra)
+- [NetHack/NetHack · GitHub](https://github.com/NetHack/NetHack)
 - [Netmarble](https://7origin.netmarble.com/en/) — The Seven Deadly Sins: Origin
 - [OpenMW](https://openmw.org/) / [![GitLab](/img/source-hosts/gitlab.svg)](https://gitlab.com/OpenMW/openmw)
 - [Persona](https://persona.atlus.com/series/portal/us/) — Game
@@ -402,6 +425,7 @@ description: Games, launchers, emulators, and gaming utilities
 - [The Witcher Universe](https://thewitcher.com/en) — Action-Adventure RPGs
 - [There](https://www.prod.there.com/) — The online virtual world that is your everyday hangout
 - [Tibia](https://www.tibia.com/mmorpg/free-multiplayer-online-role-playing-game.php) — Free Multiplayer Online Role Playing Game
+- [Veloren / veloren · GitLab](https://gitlab.com/veloren/veloren)
 - [WAKFU](https://www.wakfu.com/en/mmorpg)
 - [World of Warcraft](https://worldofwarcraft.blizzard.com/en-us/)
 - [Zenless Zone Zero](https://zenless.hoyoverse.com/en-us/) — "Welcome to New Eridu"
@@ -415,14 +439,14 @@ description: Games, launchers, emulators, and gaming utilities
 - [artificial life environment](https://alien-project.org/)
 - [Asteroids, oh no!](http://awesomeasteroids.com/)
 - [BeamNG.drive](https://www.beamng.com/game/)
-- [Biomes](https://www.biomes.gg/) — Join the community shaping a new world
-- [Celestia](https://celestiaproject.space/) — realtime 3D visualization of the space
+- [Biomes](https://www.biomes.gg/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/ill-inc/biomes-game) — Join the community shaping a new world
+- [Celestia](https://celestiaproject.space/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/CelestiaProject/Celestia) — realtime 3D visualization of the space
 - [Comuniate.com](https://www.comuniate.com/)
 - [Construction Simulator](https://www.construction-simulator.com/en/)
 - [Conway's Game of Life](https://play.google.com/store/apps/details?id=com.jobik.gameoflife) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Efimj/GameOfLife) — Google Play Store
 - [Creativerse](https://creativersegame.com/)
 - [Cryptovoxels](https://www.cryptovoxels.com/)
-- [Cyberbotics](https://www.cyberbotics.com/) — Robotics simulation with Webots
+- [Cyberbotics](https://www.cyberbotics.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/cyberbotics/webots) — Robotics simulation with Webots
 - [DEAD OR ALIVE Xtreme Venus Vacation](https://game.doaxvv.com/en/index.html)
 - [Decentral Games](https://decentral.games/)
 - [Decentraland.org](https://decentraland.org/)
@@ -430,7 +454,7 @@ description: Games, launchers, emulators, and gaming utilities
 - [Digital Combat Simulator](https://www.digitalcombatsimulator.com/en/)
 - [DREDGE](https://www.dredge.game/) — Fishing Adventure Game
 - [EmuVR](https://www.emuvr.net/)
-- [Endless Sky](https://endless-sky.github.io/)
+- [Endless Sky](https://endless-sky.github.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/endless-sky/endless-sky)
 - [Eyes on the Solar System](https://eyes.nasa.gov/apps/solar-system/#/home) — NASA/JPL
 - [FlagWaver](https://krikienoid.github.io/flagwaver/)
 - [FlightGear Flight Simulator](https://www.flightgear.org/) / [![GitLab](/img/source-hosts/gitlab.svg)](https://gitlab.com/flightgear)
@@ -460,7 +484,7 @@ description: Games, launchers, emulators, and gaming utilities
 - [MIRA](https://mira-wm.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/mira-wm/mira)
 - [NetHack](https://www.nethack.org/)
 - [OpenCity, another 3D city simulator](http://www.opencity.info/)
-- [OpenRCT2](https://openrct2.io/)
+- [OpenRCT2](https://openrct2.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/OpenRCT2/OpenRCT2)
 - [OpenRCT2](https://openrct2.org/)
 - [OpenSimulator](http://opensimulator.org/wiki/Main_Page)
 - [OpenTTD](https://www.openttd.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/OpenTTD/OpenTTD)
@@ -520,6 +544,7 @@ description: Games, launchers, emulators, and gaming utilities
 - [Axie Infinity](https://axieinfinity.com/)
 - [Axie Players](https://axieplayers.com/)
 - [Castles.cc](https://castles.cc/) — Build, trade, farm, mine, and craft!
+- [Christos Angelopoulos / tui-battleship · GitLab](https://gitlab.com/christosangel/tui-battleship)
 - [Clash Royale](https://clashroyale.com/)
 - [Company of Heroes 3](https://www.companyofheroes.com/)
 - [CONV/RGENCE](https://convrgencegame.com/) — A League of Legends Story
@@ -537,6 +562,7 @@ description: Games, launchers, emulators, and gaming utilities
 - [OpenClonk](https://www.openclonk.org/)
 - [OpenRA](https://www.openra.net/)
 - [Ruined King](https://ruinedking.com/en-us/) — A League of Legends Story
+- [savetz/worms · GitHub](https://github.com/savetz/worms?tab=readme-ov-file)
 - [TFT](https://teamfighttactics.leagueoflegends.com/en-us/) — MONSTERS ATTACK! - Teamfight Tactics
 - [The Battle for Wesnoth](https://www.wesnoth.org/)
 - [The Battle of Polytopia](https://polytopia.io/)
@@ -545,6 +571,7 @@ description: Games, launchers, emulators, and gaming utilities
 - [Warzone 2100](https://wz2100.net/) — Real-Time Strategy Game
 - [Widelands.org](https://www.widelands.org/)
 - [XCOM 2](https://xcom.com/es-ES/)
+- [yairm210/Unciv · GitHub](https://github.com/yairm210/Unciv)
 
 ### Trivia
 - [Akinator](https://es.akinator.com/game)
@@ -564,9 +591,17 @@ description: Games, launchers, emulators, and gaming utilities
 - [Wikipedia Crossword](https://wikicros.blogspot.com/)
 
 ### Word
+- [00xFE/Hangman · GitHub](https://github.com/00xFE/Hangman)
+- [abdoutech19/hangman-game · GitHub](https://github.com/abdoutech19/hangman-game)
+- [bkfan1/hangman-game](https://github.com/bkfan1/hangman-game) — Hangman game implementation created with React and SASS
+- [chriscourses/fighting-game · GitHub](https://github.com/chriscourses/fighting-game)
+- [getreu/ascii-hangman · GitHub](https://github.com/getreu/ascii-hangman)
+- [ipeternella/hangman · GitHub](https://github.com/ipeternella/hangman)
 - [Jonathan Blandford / Crosswords · GitLab](https://gitlab.gnome.org/jrb/crosswords)
 - [Juego de Basta!](https://bastaonline.net/)
 - [Jugar Scattergories](https://www.jugarscattergories.com/)
+- [Manussakis/react-pokemon-hangman-game · GitHub](https://github.com/Manussakis/react-pokemon-hangman-game)
+- [matatk/agrip · GitHub](https://github.com/matatk/agrip)
 - [Three Letters Game](https://threelettersgame.com/)
 - [Wordle Game](https://wordlegame.org/)
 - [Wordle Play](https://wordleplay.com/)
@@ -579,7 +614,7 @@ description: Games, launchers, emulators, and gaming utilities
 ### Anti-Cheat
 - [AlSch092/UltimateAntiCheat](https://github.com/AlSch092/UltimateAntiCheat) — UltimateAnticheat is an open source usermode anti-cheat system made to detect and prevent common attack vectors in game cheating (C++, Windows)
 - [Antichear expert](https://m.anticheatexpert.com/) — 腾讯游戏安全
-- [Are We Anti-Cheat Yet?](https://areweanticheatyet.com/)
+- [Are We Anti-Cheat Yet?](https://areweanticheatyet.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/AreWeAntiCheatYet/AreWeAntiCheatYet)
 - [BattlEye](https://www.battleye.com/)
 - [Denuvo](https://irdeto.com/denuvo/)
 - [Easy Anti-Cheat](https://www.easy.ac/en-us/)
@@ -607,6 +642,7 @@ description: Games, launchers, emulators, and gaming utilities
 - [danielkrupinski/Osiris](https://github.com/danielkrupinski/Osiris) — Cross-platform game hack for Counter-Strike 2 with Panorama-based GUI.
 - [degeneratehyperbola/NEPS · GitHub](https://github.com/degeneratehyperbola/NEPS)
 - [IMXNOOBX/cs2-external-esp](https://github.com/IMXNOOBX/cs2-external-esp) — Simple external esp using discord's/gdi overlay to render a box-esp on top of Counter-Strike 2, highlighting your enemies and teammates including their health.
+- [Jire/Charlatano · GitHub](https://github.com/Jire/Charlatano)
 - [KingzCheats/Fortnite-External · GitHub](https://github.com/KingzCheats/Fortnite-External)
 - [SecureCheats](https://securecheats.com/) — The Best Call of Duty Hacks For PC Games
 - [SKYCheats](https://www.skycheats.com/) — The Best enhancements for PC Games (Cheats, Hacks)
@@ -624,11 +660,12 @@ description: Games, launchers, emulators, and gaming utilities
 - [dekomote/vermouth](https://github.com/dekomote/vermouth) — A game and app launcher for Linux - native, Windows, and retro. KDE-first, lightweight, no frills
 - [ElyPrismLauncher · Home](https://elyprismlauncher.github.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/ElyPrismLauncher/ElyPrismLauncher)
 - [Epic Games](https://store.epicgames.com/en-US/)
+- [Epic-Asset-Manager · GitHub](https://github.com/AchetaGames/Epic-Asset-Manager)
 - [Faugus/faugus-launcher](https://github.com/Faugus/faugus-launcher) — A simple and lightweight app for running Windows games using UMU-Launcher
 - [FX Steam Launcher](https://fxgl.github.io/steamac/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/fxgl/steamac) — SteamOS on your Mac
 - [Gameforge.com](https://gameforge.com/en-US)
 - [GameHub](https://tkashkin.github.io/projects/gamehub/)
-- [GameVault](https://gamevau.lt/)
+- [GameVault](https://gamevau.lt/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Phalcode/gamevault-app)
 - [GDLauncher](https://gdevs.io/) — Minecraft Launcher
 - [GOG GALAXY 2.0 -- All your games in one place](https://www.gog.com/galaxy)
 - [grimsi/gameyfin · GitHub](https://github.com/grimsi/gameyfin)
@@ -639,7 +676,7 @@ description: Games, launchers, emulators, and gaming utilities
 - [kra-mo/cartridges](https://github.com/kra-mo/cartridges) — A GTK4 + Libadwaita game launcher
 - [LaunchBox](https://www.launchbox-app.com/)
 - [Legendary](https://github.com/derrod/legendary) — Epic Games Launcher
-- [Lutris](https://lutris.net/) — Open Gaming Platform
+- [Lutris](https://lutris.net/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/lutris/lutris) — Open Gaming Platform
 - [MultiMC](https://multimc.org/)
 - [Mythic](https://getmythic.app/)
 - [NVIDIA GeForce Experience](https://www.nvidia.com/es-es/geforce/geforce-experience/)
@@ -647,7 +684,7 @@ description: Games, launchers, emulators, and gaming utilities
 - [Pegasus Frontend](https://pegasus-frontend.org/)
 - [PlayNest](https://playnest.dev/) — Connect Accounts, Track Games & View Stats
 - [Playnite](https://playnite.link/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/JosefNemec/Playnite) — video game library manager
-- [PolyMC](https://polymc.org/)
+- [PolyMC](https://polymc.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/PolyMC/PolyMC)
 - [Prism Launcher](https://prismlauncher.org/)
 - [Razer Cortex](https://www.razer.com/cortex)
 - [Rockstar Games](https://socialclub.rockstargames.com/) — Social Club
@@ -693,6 +730,7 @@ description: Games, launchers, emulators, and gaming utilities
 - [Minestom](https://minestom.net/) — Fast and open source Minecraft server
 - [NamelessMC](https://namelessmc.com/)
 - [PaperMC](https://papermc.io/)
+- [PaperMC/Paper · GitHub](https://github.com/PaperMC/Paper)
 - [PocketMine-MP](https://pmmp.io/)
 - [PrismarineJS](https://prismarine.js.org/)
 - [ServerBuddy](https://serverbuddy.net/) — Find Active Minecraft Servers
@@ -754,8 +792,11 @@ description: Games, launchers, emulators, and gaming utilities
 - ⭐ **[Plutonium Project](https://plutonium.pw/)**
 - [9Minecraft](https://www.9minecraft.net/) — The Best Resource for Minecraft
 - [All mods](https://thunderstore.io/) — Thunderstore - The Risk of Rain 2 Mod Database
+- [B1ays/BHub](https://github.com/B1ays/BHub?tab=readme-ov-file) — Download, Install and Share mods easily
+- [BlueMap-Minecraft/BlueMap · GitHub](https://github.com/BlueMap-Minecraft/BlueMap)
 - [chasmlol/2010-rust-rewrite-mashup](https://github.com/chasmlol/2010-rust-rewrite-mashup) — MW2, Skate 3 and Minecraft in one Rust game: IW4L's MW2 rewrite with Skate 3 mode and a real Minecraft world map
 - [Cheat Engine](https://www.cheatengine.org/)
+- [Cubitect/cubiomes-viewer](https://github.com/cubitect/cubiomes-viewer) — An efficient graphical Minecraft seed finder and map viewer.
 - [CurseForge](https://www.curseforge.com/)
 - [CurseForge](https://www.curseforge.com/minecraft) — Minecraft Mods & Modpacks
 - [Despistaos RP](https://despistaos.es/)
@@ -764,6 +805,7 @@ description: Games, launchers, emulators, and gaming utilities
 - [Flightsim](https://flightsim.to/) — Flight Simulator Mods
 - [GTA5-Mods](https://www.gta5-mods.com/)
 - [mattvideoproductions/TornadoRedemption](https://github.com/mattvideoproductions/TornadoRedemption) — A tornado mod for Red Dead Redemption 2 (story mode): a funnel that whirls up people, horses, wagons, trees and Arthur, a cinematic intro with the Van der Linde gang, a tornado gun and a jet balloon. Made with Claude.
+- [maximegmd/CyberEngineTweaks · GitHub](https://github.com/maximegmd/CyberEngineTweaks)
 - [MelonLoader](https://melonloader.co/) — Universal Mod Loader
 - [Mod Organizer 2](https://www.nexusmods.com/skyrimspecialedition/mods/6194)
 - [Mod Organizer 2](https://www.modorganizer.org/)
@@ -774,6 +816,7 @@ description: Games, launchers, emulators, and gaming utilities
 - [Nexus-Mods/Vortex](https://github.com/Nexus-Mods/Vortex) — Vortex Development
 - [OpenIV](https://openiv.com/) — The ultimate modding tool for GTA
 - [Platinmods.com](https://platinmods.com/) — Android & iOS MODs, Mobile Games & Apps
+- [qbcore-framework/qb-cor · GitHub](https://github.com/qbcore-framework/qb-core)
 - [RedM](https://redm.gg/)
 - [RedM](https://redm.net/)
 - [Redmodding](https://redmodding.org/)

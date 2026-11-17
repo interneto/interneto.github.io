@@ -5,7 +5,7 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 
 # Education & Reference
 
-**Total Bookmarks:** 1318
+**Total Bookmarks:** 1366
 
 - [Academia Lab](https://academia-lab.com/)
 - [DosisPedia](https://dosispedia.com/)
@@ -59,6 +59,7 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [Integral Calculator](https://www.integral-calculator.com/)
 - [Jumk.de Webprojects](https://jumk.de/indexengl.html)
 - [Kalker](https://kalker.xyz/) — a modern calculator
+- [KDE/cantor](https://github.com/KDE/cantor) — Front end to powerful mathematics and statistics packages
 - [LogarithmPlotter](https://apps.ad5001.eu/logarithmplotter/)
 - [Mathstools](https://www.mathstools.com/)
 - [MathStudio](http://mathstud.io/)
@@ -118,11 +119,13 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [Earth Curvature Calculator](https://earthcurvature.com/)
 - [Earth Curvature Calculator](https://www.omnicalculator.com/physics/earth-curvature) — Omnicalculator
 - [Earth Curve Calculator](https://dizzib.github.io/earth/curve-calc/?d0=140&h0=0.2&unit=metric)
+- [Earthcalc · GitHub](https://github.com/dizzib/earthcalc)
 - [Firmamenttrackers](https://firmamenttrackers.com/)
 - [Flataverse](https://flataverse.com/)
 - [Fresnel Zone Calculator](https://afar.net/fresnel-zone-calculator/)
 - [Generate a panorama](https://www.udeuschle.de/panoramas/makepanoramas_en.htm)
 - [Horizons System](https://ssd.jpl.nasa.gov/horizons/app.html#/) — NASA
+- [pfalstad/circuitjs1](https://github.com/pfalstad/circuitjs1/) — Electronic Circuit Simulator in the Browser
 - [Rechneronline](https://rechneronline.de/english.php) — Useful Calculators
 - [Shane's Personal Celestial Sphere Model](https://adl.place/shanes-fe-model)
 - [Walter Bislin Model](https://walterbislin.journalofgeocentriccosmology.org/)
@@ -155,7 +158,7 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [Unix Time Stamp](https://www.unixtimestamp.com/) — Epoch Converter
 
 ## Flashcard Learning Tool
-- [Anki](https://apps.ankiweb.net/) — powerful, intelligent flashcards
+- [Anki](https://apps.ankiweb.net/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/ankitects/anki) — powerful, intelligent flashcards
 - [ankidroid/Anki-Android · GitHub](https://github.com/ankidroid/Anki-Android)
 - [david-swift/Memorize](https://github.com/david-swift/Memorize) — Study flashcards in a native GNOME app
 - [Dekki](https://www.dekki.ai/)
@@ -199,7 +202,7 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [Diccionario Chemnitz](https://dict.tu-chemnitz.de/)
 - [DICT Development Group](https://sourceforge.net/projects/dict/)
 - [Dictionaries for Mac](https://dictionaries.io/)
-- [Dictionary API](https://dictionaryapi.dev/)
+- [Dictionary API](https://dictionaryapi.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/meetDeveloper/freeDictionaryAPI)
 - [Dictionary WordMagic](https://www.wordmagicsoft.com/dictionary/tools/index.php)
 - [Dictionnaire de l'Académie française](https://www.dictionnaire-academie.fr/)
 - [Dictionnaire Littré](https://www.littre.org/) — Dictionnaire de la langue française
@@ -213,14 +216,19 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [goldendict/goldendict · GitHub](https://github.com/goldendict/goldendict)
 - [Iciba](https://www.iciba.com/)
 - [ikey4u/wikit](https://github.com/ikey4u/wikit) — Wikit - A universal lookup tool
+- [ilius/pyglossary · GitHub](https://github.com/ilius/pyglossary)
+- [itkach/aard2-android · GitHub](https://github.com/itkach/aard2-android)
+- [itkach/aard2-web · GitHub](https://github.com/itkach/aard2-web)
 - [johnfactotum/quick-lookup · GitHub](https://github.com/johnfactotum/quick-lookup)
 - [Larousse.fr](https://www.larousse.fr/)
 - [Lexilogos](https://www.lexilogos.com/)
 - [Libellus](https://libellus.hummdudel.de/)
 - [Lisan ul Arab (لسان العرب)](https://archive.org/details/01_20210525_20210525_0314/01/) — Free Download, Borrow, and Streaming : Internet Archive
 - [LSJ](https://lsj.gr/wiki/Main_Page) — GreekEnglishLexicon
+- [MaeWolff/dictionary-app · GitHub](https://github.com/MaeWolff/dictionary-app)
 - [mufeedali/Wordbook](https://github.com/mufeedali/Wordbook) — Wordbook is a dictionary application built for GNOME
 - [NAVER Dictionary](https://dict.naver.com/)
+- [nerijus/opendict · GitHub](https://github.com/nerijus/opendict)
 - [OpenDict](https://opendict.sourceforge.net/)
 - [Pagina d'entrata](https://accademiadellacrusca.it/) — Accademia della Crusca
 - [pot-app/pot-desktop · GitHub](https://github.com/pot-app/pot-desktop)
@@ -230,6 +238,8 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [StarDict](https://stardict-4.sourceforge.net/index_en.php) — The best dictionary program in linux and windows
 - [sugarlabs/words-activity](https://github.com/sugarlabs/words-activity) — A multilingual dictionary activity for the Sugar environment
 - [Tagaini Jisho](https://www.tagaini.net/)
+- [wooorm/dictionaries · GitHub](https://github.com/wooorm/dictionaries)
+- [Wordbook](https://github.com/fushinari/Wordbook) — dictionary app · GitHub
 - [Wörterbuch der deutschen Sprache ✒️ Duden Online](https://www.duden.de/woerterbuch)
 - [yomitan](https://yomitan.wiki/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/yomidevs/yomitan) — Pop-up dictionary browser extension for language learning
 
@@ -428,9 +438,11 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [Babbel](https://www.babbel.com/)
 - [BoldVoice](https://www.boldvoice.com/?ref=producthunt)
 - [Busuu](https://www.busuu.com/)
-- [Compromise](https://compromise.cool/)
+- [Compromise](https://compromise.cool/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/spencermountain/compromise)
+- [cuixueshe/earthworm](https://github.com/cuixueshe/earthworm) — Learning English
 - [Duolingo](https://www.duolingo.com/) — The world's best way to learn a language
 - [ELSASPEAK](https://elsaspeak.com/en/)
+- [Felipe Kinoshita / Kana · GitLab](https://gitlab.gnome.org/fkinoshita/kana)
 - [Fluent](https://www.fluent.co/) — Learn a New Language
 - [German Nouns](https://germangenders.com/deck/main) — German Genders app
 - [Glossarie](https://glossarie.app/) — The new, immersive way to learn a language
@@ -477,15 +489,17 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [Yask](https://yask.app/es)
 
 ### Translator
-- ⭐ **[DeepL Translator](https://www.deepl.com/translator)**
-- ⭐ **[Dialect](https://dialectapp.org/)**
+- ⭐ **[DeepL Translator](https://www.deepl.com/translator)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/DeepL/deepl-python)
+- ⭐ **[Dialect](https://dialectapp.org/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/dialect-app/dialect)
 - ⭐ **[SpanishDict](https://www.spanishdict.com/)**
 - [Apertium](https://apertium.org/index.eng.html#?dir=eng-epo&q=)
 - [Babelfish.com](https://www.babelfish.com/)
 - [Babylon Software](https://www.babylon-software.com/)
 - [Bing Translator](https://www.bing.com/translator)
 - [ChatGPT Translate](https://chatgpt.com/translate)
-- [Crow translate](https://crow-translate.github.io/)
+- [Crow translate](https://crow-translate.github.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/crow-translate/crow-translate)
+- [cschiller/zhongwen](https://github.com/cschiller/zhongwen) — Official source code of the "Zhongwen" Chrome extension
+- [DeepLcom/deepl-php · GItHub](https://github.com/DeepLcom/deepl-php)
 - [dict.cc](https://www.dict.cc/) — German-English dictionary
 - [FilipePS/Traduzir-paginas-web](https://github.com/FilipePS/Traduzir-paginas-web) — Translate your page in real time using Google, Bing or Yandex
 - [Glosbe dictionary](https://glosbe.com/)
@@ -496,7 +510,7 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [iTranslate](https://itranslate.com/) — The Leading Translation and Dictionary App
 - [iTranslate](https://itranslate.com/translate/spanish-to-german/) — webapp
 - [Lexis Translator UGR](https://lexis.ugr.es/)
-- [LibreTranslate](https://libretranslate.com/)
+- [LibreTranslate](https://libretranslate.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/LibreTranslate/LibreTranslate)
 - [Linguee](https://www.linguee.com/)
 - [Lingva Translate](https://lingva.ml/)
 - [Lingvanex](https://lingvanex.com/) — Machine Translation and Speech Recognition
@@ -508,7 +522,7 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [Online Doc Translator](https://www.onlinedoctranslator.com/en/)
 - [Opentrad](https://opentrad.com/) — Traductor automático de documentos
 - [Ord (Wp words)](https://ord.herokuapp.com/)
-- [PDFMathTranslate](https://pdf2zh.com/) — PDF Translation with preserved formats
+- [PDFMathTranslate](https://pdf2zh.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/PDFMathTranslate/PDFMathTranslate) — PDF Translation with preserved formats
 - [Pinch](https://www.startpinch.com/) — Real-time AI Voice Translation
 - [PONS translate](https://en.pons.com/translate)
 - [Reverso Conjugator](https://conjugator.reverso.net/conjugation-english.html)
@@ -571,7 +585,7 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [Mojza](https://mojza.org/)
 - [OnlineLessons.tv](https://onlinelessons.tv/)
 - [OpenClassrooms](https://openclassrooms.com/en)
-- [Oppia](https://www.oppia.org/) — Free, Online and Interactive Lessons for Anyone
+- [Oppia](https://www.oppia.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/oppia/oppia) — Free, Online and Interactive Lessons for Anyone
 - [Punished Props Academy](https://www.punishedprops.com/)
 - [Swimming by SN'T](https://skillswimming.com/) — Tutorials, Shop, Coaching, Workouts & Tips
 - [TeacherTube](https://www.teachertube.com/)
@@ -612,6 +626,7 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [Fazt web](https://faztweb.com/)
 - [Fireship.io](https://fireship.io/)
 - [Free Code Camp](https://www.freecodecamp.org/) — Learn to Code
+- [freeCodeCamp/freeCodeCamp · GitHub](https://github.com/freeCodeCamp/freeCodeCamp)
 - [Frontend Masters](https://frontendmasters.com/) — Learn JavaScript, React, Vue & Angular from Masters of Front-End Development!
 - [Full Stack Open](https://fullstackopen.com/en/)
 - [Fullstack Academy](https://www.fullstackacademy.com/)
@@ -682,7 +697,9 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [Easyclass](https://www.easyclass.com/)
 - [GoConqr](https://www.goconqr.com/es)
 - [Instructure](https://www.instructure.com/) — Educational Software Development
+- [ixahmedxi/noodle](https://github.com/ixahmedxi/noodle) — Open Source Education Platform
 - [Kami](https://www.kamiapp.com/)
+- [learningequality/kolibri · GitHub](https://github.com/learningequality/kolibri)
 - [QuizBean](https://www.quizbean.com/home)
 - [Schoology](https://www.schoology.com/)
 - [Showbie](https://www.showbie.com/)
@@ -861,6 +878,7 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [Plant.id](https://web.plant.id/)
 - [Plant.id](https://plant.id/)
 - [PlantSnap](https://www.plantsnap.com/)
+- [Utilities / PowerPlant · GitLab](https://invent.kde.org/utilities/powerplant)
 
 ## Religion
 - [ePrex](https://eprex.app/) — Saints
@@ -955,10 +973,13 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [JHelioviewer](https://www.jhelioviewer.org/)
 - [Lanzamientos espaciales](https://lanzamientosespaciales.com/)
 - [Lunar Reconnaissance Orbiter Camera](http://lroc.sese.asu.edu/)
+- [nasa/openmct · GitHub](https://github.com/nasa/openmct)
 - [New Horizons](http://pluto.jhuapl.edu/)
 - [Planetario de Madrid](http://www.planetmad.es/)
 - [Redshift-Live](https://www.redshift-live.com/ext/en)
+- [Rolf-Hempel/MoonPanoramaMaker · GitHub](https://github.com/Rolf-Hempel/MoonPanoramaMaker)
 - [ServiAstro](https://serviastro.ub.edu/)
+- [skyfielders/python-skyfield](https://github.com/skyfielders/python-skyfield) — Elegant astronomy for Python
 - [Space 4 everybody](https://space4everybody.com/)
 - [Spider's Seds](https://spider.seds.org/)
 - [Sunspots and active regions today](https://xras.ru/en/active_areas.html)
@@ -976,7 +997,7 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - ⭐ **[W3Schools](https://www.w3schools.com/)** — Online Web Tutorials
 - [.NET Academy](https://dotnetcademy.net/)
 - [30 seconds of code](https://www.30secondsofcode.org/)
-- [100 Exercises To Learn Rust](https://rust-exercises.com/)
+- [100 Exercises To Learn Rust](https://rust-exercises.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/mainmatter/100-exercises-to-learn-rust)
 - [Abrirllave](https://www.abrirllave.com/)
 - [alg0.dev](https://www.alg0.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/midudev/alg0.dev) — Algorithm Visualizer
 - [Aprenderaprogramar](https://aprenderaprogramar.com/)
@@ -1003,7 +1024,7 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [Curl project](https://everything.curl.dev/)
 - [Desarrollo Web Tutorial](https://desarrollowebtutorial.com/)
 - [Design+Code](https://designcode.io/)
-- [Developer Roadmaps](https://roadmap.sh/)
+- [Developer Roadmaps](https://roadmap.sh/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/nilbuild/developer-roadmap)
 - [Dot Net Perls](https://www.dotnetperls.com/)
 - [EbookFoundation/free-programming-books · GitHub](https://github.com/EbookFoundation/free-programming-books)
 - [El Pythonista](https://elpythonista.com/)
@@ -1094,20 +1115,26 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn)
 - [fast.ai](https://www.fast.ai/)
 - [GLUE Benchmark](https://gluebenchmark.com/)
+- [google-gemini/cookbook](https://github.com/google-gemini/cookbook) — Examples and guides for using the Gemini API
 - [ImageNet](https://image-net.org/)
 - [Kaggle](https://www.kaggle.com/discussion) — Machine Learning
 - [KDnuggets](https://www.kdnuggets.com/)
 - [LLM Visualization](https://bbycroft.net/llm)
 - [MachineBox.io](https://machinebox.io/)
 - [MediaPipe](https://developers.google.com/mediapipe) — Google for Developers
+- [microsoft/generative-ai-for-beginners · GitHub](https://github.com/microsoft/generative-ai-for-beginners)
+- [mlabonne/llm-course · GitHub](https://github.com/mlabonne/llm-course)
 - [MLCommons](https://mlcommons.org/en/)
 - [ONNX](https://onnx.ai/)
+- [openai/openai-cookbook · GitHub](https://github.com/openai/openai-cookbook)
 - [ParlAI](https://parl.ai/)
 - [Pix2Pix](https://phillipi.github.io/pix2pix)
+- [rasbt/LLMs-from-scratch · GitHub](https://github.com/rasbt/LLMs-from-scratch)
 - [SageMaker Studio Lab](https://studiolab.sagemaker.aws/)
-- [scikit-learn](https://scikit-learn.org/stable/index.html) — machine learning in Python
+- [scikit-learn](https://scikit-learn.org/stable/index.html) / [![GitHub](/img/software/apps/github.svg)](https://github.com/scikit-learn/scikit-learn) — machine learning in Python
 - [SOUL.md](https://soul.md/) — What Makes an AI, Itself?
 - [SuperGLUE Benchmark](https://super.gluebenchmark.com/)
+- [sw-yx/ai-notes · GitHub](https://github.com/sw-yx/ai-notes)
 - [The Gradient](https://thegradient.pub/)
 - [Transformer Circuits Thread](https://transformer-circuits.pub/)
 - [Transformer Explainer](https://poloclub.github.io/transformer-explainer/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/poloclub/transformer-explainer) — LLM Transformer Model Visually Explained
@@ -1116,10 +1143,28 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [Vas3k](https://vas3k.com/blog/machine_learning) — Machine Learning
 
 ##### Programming Documentation
+- [BartolomeSintes/mclibre-xml · GitHub](https://github.com/BartolomeSintes/mclibre-xml)
+- [doocs/source-code-hunter · GitHub](https://github.com/doocs/source-code-hunter)
+- [dotnet/docs · GitHub](https://github.com/dotnet/docs)
+- [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) — A Collection of application ideas which can be used to improve your coding skills
+- [github/docs · Network Graph](https://github.com/github/docs/network)
+- [github/docs · Stargazers](https://github.com/github/docs/stargazers)
+- [goldbergyoni/nodebestpractices · GitHub](https://github.com/goldbergyoni/nodebestpractices)
+- [ionic-team/ionic-docs · GitHub](https://github.com/ionic-team/ionic-docs)
+- [kyclark/command-line-rust](https://github.com/kyclark/command-line-rust) — Code for Command-Line Rust (O'Reilly, 2024, ISBN 9781098109417)
 - [Learn X in Y Minutes](https://learnxinyminutes.com/)
+- [mac-setup · GitHub](https://github.com/sb2nov/mac-setup)
+- [man-db / man-db · GitLab](https://gitlab.com/man-db/man-db)
+- [man-pages/man-pages.git](https://git.kernel.org/pub/scm/docs/man-pages/man-pages.git/) — Linux Kernel
+- [OneLoneCoder/Javidx9](https://github.com/OneLoneCoder/Javidx9/tree/master) — The official distribution of Javidx9's YouTube videos and projects
+- [techschool/simplebank · GitHub](https://github.com/techschool/simplebank)
+- [TheAlgorithms/Rust · GitHub](https://github.com/TheAlgorithms/Rust)
+- [tldr-pages/tldr-python-client · GitHub](https://github.com/tldr-pages/tldr-python-client)
 
 ##### Supercomputing
+- [adam-maj/tiny-gpu · GitHub](https://github.com/adam-maj/tiny-gpu)
 - [Barcelona Supercomputing Center](https://www.bsc.es/)
+- [chipsalliance/rocket-chip](https://github.com/chipsalliance/rocket-chip) — Rocket Chip Generator
 - [CSCS Swiss National Supercomputing Centre](https://www.cscs.ch/)
 - [Fugaku](https://www.r-ccs.riken.jp/en/fugaku/) — RIKEN Center for Computational Science RIKEN Website
 - [Lawrece Livermore National Laboratory](https://computing.llnl.gov/)
@@ -1335,7 +1380,7 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [Centro Virtual Cervantes](https://cvc.cervantes.es/)
 - [El Castellano](https://www.elcastellano.org/)
 - [Enclave RAE](https://enclave.rae.es/)
-- [Gematria Starryabode](https://gematria.starryabode.com/)
+- [Gematria Starryabode](https://gematria.starryabode.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/yuriceschin/GematriaCalculator)
 - [GGG](http://research.iac.es/galeria/westend/guanye.html) — Guia Guanye-Godo
 - [Instituto Cervantes](https://www.cervantes.es/default.htm)
 - [Poemas del Alma](https://www.poemas-del-alma.com/)
@@ -1367,6 +1412,7 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 ##### Juridical Concepts
 - [Conceptos Jurídicos](https://www.conceptosjuridicos.com/)
 - [Derechos Humanos](https://www.derechoshumanos.net/)
+- [legalize-dev/legalize-es](https://github.com/legalize-dev/legalize-es) — Spanish legislation as a Git repo — every law is a Markdown file, every reform a commit. 8,600+ laws
 
 ##### Political Test
 - [8values](https://8values.github.io/)
@@ -1403,7 +1449,7 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [NOBOOK Virtual Laboratory](https://chemistry-en.nobook.com/console/templates/resource)
 - [OpenRocket Simulator](https://openrocket.info/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/openrocket/openrocket)
 - [PhET Simulations](https://phet.colorado.edu/en/simulations/filter) — University of Colorado Boulder
-- [Pražský Orloj](https://orloj.org/orloj/) — Prague Astronomical Clock Simulator
+- [Pražský Orloj](https://orloj.org/orloj/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/kshetline/prague-clock) — Prague Astronomical Clock Simulator
 - [simulator.io](https://simulator.io/) — Build and simulate logic circuits
 - [swarm-subnet/Langostino](https://github.com/swarm-subnet/Langostino) — An open-source autonomous drone platform using ROS2 and AI-powered flight control
 
@@ -1411,10 +1457,10 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [‪Bending Light‬](https://phet.colorado.edu/sims/html/bending-light/latest/bending-light_all.html) — Phet Colorado
 - [CAXCAD Optical Design Software](https://www.caxcad.com/) — CAXCAD
 - [OpticalRayTracer Home Page](https://arachnoid.com/OpticalRayTracer/)
-- [Ray Optics Simulation](https://phydemo.app/ray-optics/) — PhyDemo
+- [Ray Optics Simulation](https://phydemo.app/ray-optics/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/ricktu288/ray-optics) — PhyDemo
 
 ### Planetarium
-- ⭐ **[Stellarium Astronomy Software](https://stellarium.org/)**
+- ⭐ **[Stellarium Astronomy Software](https://stellarium.org/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/Stellarium/stellarium)
 - [da-luce/astroterm · GitHub](https://github.com/da-luce/astroterm)
 - [Fifth Star Labs](https://www.fifthstarlabs.com/)
 - [Planetary Motion](http://gerdbreitenbach.de/planet/planet.html)
@@ -1427,6 +1473,7 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [Starry Night 8](https://www.starrynight.com/starry-night-8-professional-astronomy-telescope-control-software.html) — Astronomy Telescope Control Software for Mac/PC
 - [Stellarium Labs](https://www.stellarium-labs.com/)
 - [Stellarium Web](https://stellarium-web.org/)
+- [Stellarium/stellarium-web-engine](https://github.com/Stellarium/stellarium-web-engine) — JavaScript planetarium engine
 - [TheSkyLive.com](https://theskylive.com/)
 
 ## Study Resources
@@ -1464,6 +1511,7 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [eChalk](https://www.echalk.co.uk/)
 - [Educaplus.org](https://www.educaplus.org/)
 - [Instructables](https://www.instructables.com/)
+- [learn-anything/learn-anything.xyz · GitHub](https://github.com/learn-anything/learn-anything.xyz)
 - [Liveworksheets](https://www.liveworksheets.com/)
 - [Mathigon](https://mathigon.org/)
 - [SparkNotes](https://www.sparknotes.com/)
@@ -1481,7 +1529,7 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [Keybr](https://www.keybr.com/) — Typing
 - [kraanzu/smassh](https://github.com/kraanzu/smassh) — Smassh your Keyboard, TUI Edition
 - [Monkey Type](https://www.monkey-type.org/) — Typing Test | monkey-type.org
-- [Monkeytype](https://monkeytype.com/) — A minimalistic, customizable typing test
+- [Monkeytype](https://monkeytype.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/monkeytypegame/monkeytype) — A minimalistic, customizable typing test
 - [Nitro Type](https://www.nitrotype.com/)
 - [Pazl27/typy-cli](https://github.com/Pazl27/typy-cli) — Minimalistic Monkeytype clone for the CLI
 - [SpeedTyper.dev](https://www.speedtyper.dev/) — Typing practice for programmers

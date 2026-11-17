@@ -5,16 +5,19 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 
 # System Administration
 
-**Total Bookmarks:** 1378
+**Total Bookmarks:** 1539
 
 - [osquery](https://osquery.io/)
-- [PIVPN](https://pivpn.io/) — Simplest way to setup a VPN
+- [PIVPN](https://pivpn.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/pivpn/pivpn) — Simplest way to setup a VPN
 - [Share Mouse](https://www.sharemouse.com/)
 - [UPower](https://upower.freedesktop.org/)
 
 ## App Patcher
 - [Morphe](https://morphe.software/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/MorpheApp) — App for YouTube and Reddit
+- [mrpond/BlockTheSpot](https://github.com/mrpond/BlockTheSpot) — Video, audio & banner adblock/skip for Spotify
 - [ReVanced.app](https://revanced.app/)
+- [SpotX-Official/SpotX · GitHub](https://github.com/SpotX-Official/SpotX)
+- [whoeevee/EeveeSpotify](https://github.com/whoeevee/EeveeSpotify) — A tweak to get Spotify Premium for free, just like Spotilife
 
 ## Automation Software
 - [Auto shutdown](https://www.drivermagician.com/autoshutdown)
@@ -25,11 +28,13 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [Boilerplates](https://getboilerplates.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/ChristianLempa/boilerplates) — Something big is coming.
 - [Claris](https://www.claris.com/)
 - [Drone CI](https://www.drone.io/) — Automate Software Testing and Delivery
+- [Expect](https://sourceforge.net/projects/expect/) — SourceForge
 - [Flow Launcher](https://www.flowlauncher.com/)
 - [folivora.ai](https://folivora.ai/)
 - [Glue42](https://glue42.com/)
 - [IFTTT](https://ifttt.com/) — Automate business & home
 - [Jenkins](https://www.jenkins.io/)
+- [jordansissel/xdotool · GitHub](https://github.com/jordansissel/xdotool)
 - [Keyboard Maestro](https://www.keyboardmaestro.com/main/)
 - [Microsoft](https://powerautomate.microsoft.com/en-us/) — Power Automate
 - [Mouzi](https://mouzi.cc/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/hsr88/mouzi) — Intelligent File Organizer
@@ -40,7 +45,8 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [Radial](https://radial.appverge.net/) — Automate Repetitive Tasks on Mac
 - [Shortery](https://www.lgerckens.de/shortery/)
 - [SikuliX](https://sikulix.github.io/)
-- [Skyvern](https://www.skyvern.com/)
+- [SikuliX1 · GitHub](https://github.com/RaiMan/SikuliX1)
+- [Skyvern](https://www.skyvern.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Skyvern-AI/skyvern)
 - [Speed Auto Clicker](https://www.speedautoclicker.net/)
 - [Stagehand](https://www.stagehand.dev/) — A browser automation SDK built for developers and LLMs
 - [Stepwise](https://www.hellostepwise.com/) — Automation Made Easy
@@ -50,7 +56,8 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 ### Autoclicker
 - [1Clicker](https://www.1clicker.com/) — Auto Clicker
 - [Auto Clicker](https://www.autoclicker.org/)
-- [AutoHotkey](https://www.autohotkey.com/)
+- [AutoHotkey](https://www.autohotkey.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/AutoHotkey/AutoHotkey)
+- [clicker](https://codeberg.org/eyekay/clicker) — codeberg
 - [Green Dotter](https://green-dotter.com/) — Free Auto Clicker & Mouse Jiggler for Mac & Windows
 - [Macro Recorder](https://www.macrorecorder.com/)
 - [Macro Recorder](https://www.jitbit.com/macro-recorder) — Jitbit
@@ -58,6 +65,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [XClicker](https://xclicker.xyz/) — Autoclicker For Linux
 
 ### Key Macro Recorder
+- [baskerville/sxhkd · GitHub](https://github.com/baskerville/sxhkd)
 - [Carnac the Magnificent](http://carnackeys.com/)
 - [FastKeys Automation Software](https://www.fastkeysautomation.com/)
 - [Key-mon · GItHub](https://github.com/scottkirkwood/key-mon)
@@ -73,13 +81,16 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 
 ## Battery Monitor
 - [BudsLink](https://maniacx.github.io/BudsLink/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/maniacx/BudsLink)
+- [fenrus75/powertop · GitHub](https://github.com/fenrus75/powertop)
+- [thebarbican19/BatteryBoi · GitHub](https://github.com/thebarbican19/BatteryBoi)
 
 ## Booteable ISO
 - ⭐ **[Generate autounattend.xml files for Windows 10/11](https://schneegans.de/windows/unattend-generator/)**
-- ⭐ **[netboot.xyz](https://netboot.xyz/)** — Your favorite operating systems in one place
-- ⭐ **[Rufus](https://rufus.ie/en/)**
+- ⭐ **[netboot.xyz](https://netboot.xyz/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/netbootxyz/netboot.xyz) — Your favorite operating systems in one place
+- ⭐ **[Rufus](https://rufus.ie/en/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/pbatard/rufus)
 - [AIO Boot](https://www.aioboot.com/en)
 - [Arch Linux / archiso · GitLab](https://gitlab.archlinux.org/archlinux/archiso/)
+- [balena-io/etcher · GitHub](https://github.com/balena-io/etcher)
 - [balenaEtcher](https://www.balena.io/etcher)
 - [Blue build](https://blue-build.org/) — The easiest way to build Fedora ISOs
 - [Cubic in Launchpad](https://launchpad.net/cubic)
@@ -113,6 +124,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [ventoy/ventoy · GitHub](https://github.com/ventoy/Ventoy)
 - [WinSetupFromUSB](http://www.winsetupfromusb.com/)
 - [WoeUSB/WoeUSB · GitHub](https://github.com/WoeUSB/WoeUSB)
+- [WoeUSB/WoeUSB-ng · GitHub](https://github.com/WoeUSB/WoeUSB-ng)
 - [World / gnome-firmware · GitLab](https://gitlab.gnome.org/World/gnome-firmware)
 - [YUMI](https://www.pendrivelinux.com/yumi-multiboot-usb-creator/) — Bootable Pen Drive Linux
 
@@ -123,6 +135,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [AOMEI Partition Assistant](https://www.diskpart.com/)
 - [ashaduri/gsmartcontrol · GitHub](https://github.com/ashaduri/gsmartcontrol/)
 - [Btrfs Assistant / Btrfs Assistant · GitLab](https://gitlab.com/btrfs-assistant/btrfs-assistant)
+- [Canop/dysk](https://github.com/Canop/dysk) — A linux utility to get information on filesystems, like df but better
 - [Clonezilla](https://clonezilla.org/)
 - [DaisyDisk](https://daisydiskapp.com/)
 - [DVDStyler](https://www.dvdstyler.org/en/)
@@ -146,11 +159,13 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [Partimage](https://www.partimage.org/)
 - [QDirStat](https://github.com/shundhammer/qdirstat)
 - [Rescuezilla](https://rescuezilla.com/)
+- [smartmontools](https://www.smartmontools.org/browser#trunk) — index
 - [Super Grub Disk](https://www.supergrubdisk.org/)
 - [TreeSieze](https://appnee.com/treesize/) — Visual Disk
 - [TreeSize](https://www.jam-software.com/treesize) — JAM Software
 - [TreeSize Free](https://www.jam-software.com/treesize_free) — JAM Software
 - [tw93/Mole · GitHub](https://github.com/tw93/Mole)
+- [Utilities / Filelight · GitLab](https://invent.kde.org/utilities/filelight)
 - [WinCatalog 2021](https://www.wincatalog.com/)
 - [WinDirStat](https://windirstat.net/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/windirstat/windirstat)
 - [WizTree](https://diskanalyzer.com/) — The Fastest Disk Space Analyzer
@@ -178,7 +193,9 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [Gandalf’s Windows 10PE](http://windowsmatters.com/)
 - [Hiren Boot CD](https://www.hiren.info/)
 - [Hiren's BootCD](https://www.hirensbootcd.org/)
+- [rescuezilla/rescuezilla · GitHub](https://github.com/rescuezilla/rescuezilla)
 - [SystemRescue](https://www.system-rescue.org/)
+- [SystemRescue / systemrescue-sources · GitLab](https://gitlab.com/systemrescue/systemrescue-sources)
 - [Ultimate Boot CD](https://www.ultimatebootcd.com/)
 
 ## Driver
@@ -188,7 +205,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [I2C Bus](https://www.i2c-bus.org/)
 - [Intel Open VKL](https://www.openvkl.org/)
 - [NetworkManager](https://networkmanager.dev/)
-- [OpenTabletDriver](https://opentabletdriver.net/)
+- [OpenTabletDriver](https://opentabletdriver.net/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/OpenTabletDriver/OpenTabletDriver)
 - [Please Hack Mii](https://please.hackmii.com/) — LetterBomb
 - [Samba](https://www.samba.org/)
 - [SMBus (System Management Bus)](http://www.smbus.org/)
@@ -209,14 +226,16 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [kmatheussen/jack_capture · GItHub](https://github.com/kmatheussen/jack_capture)
 - [KXStudio](https://kx.studio/Applications) — Audio
 - [Linux Audio Developer's Simple Plugin API (LADSPA)](https://www.ladspa.org/)
-- [MLT framework](https://www.mltframework.org/)
+- [MLT framework](https://www.mltframework.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/mltframework/mlt)
 - [Network Audio System (NAS)](https://www.radscan.com/nas/nas-links.html)
 - [Open Sound System](http://www.opensound.com/oss.html)
 - [OpenSound](http://www.opensound.com/) — 4Front Technologies
 - [Pipewire](https://pipewire.org/)
+- [PipeWire · GitLab](https://gitlab.freedesktop.org/pipewire)
 - [PipeWire / Helvum · GitLab](https://gitlab.freedesktop.org/pipewire/helvum)
 - [PortAudio](http://www.portaudio.com/)
 - [PulseAudio](https://www.freedesktop.org/wiki/Software/PulseAudio/) — Freedesktop
+- [PulseAudio / pulseaudio · GitLab](https://gitlab.freedesktop.org/pulseaudio/pulseaudio)
 - [PulseAudio Volume Control](https://freedesktop.org/software/pulseaudio/pavucontrol/)
 - [QjackCtl](https://qjackctl.sourceforge.io/)
 - [rncbc/qpwgraph](https://github.com/rncbc/qpwgraph) — A PipeWire Graph Qt GUI Interface
@@ -228,6 +247,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 ### Controller Driver
 - [Alia5/GlosSI · GitHub](https://github.com/Alia5/GlosSI)
 - [AntimicroX](https://antimicrox.github.io/)
+- [AntiMicroX · GitHub](https://github.com/AntiMicroX/antimicroX)
 - [Blueberry](https://www.blueberry-eu.com/)
 - [Blueman · GitHub](https://blueman-project.github.io/blueman/)
 - [DisplayCAL](https://displaycal.net/)
@@ -249,22 +269,26 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 
 ### GPU Driver
 - [CUDA Toolkit 11.7](https://developer.nvidia.com/cuda-downloads) — NVIDIA
-- [Fast Light Toolkit (FLTK)](https://www.fltk.org/)
+- [drm / nouveau · GitLab](https://gitlab.freedesktop.org/drm/nouveau)
+- [Fast Light Toolkit (FLTK)](https://www.fltk.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/fltk/fltk)
 - [GeForce Infinity](https://geforce-infinity.xyz/)
 - [GPUOpen-Drivers/AMDVLK · GitHub](https://github.com/GPUOpen-Drivers/AMDVLK)
 - [Linux x64 Display Driver 430.34](https://www.nvidia.com/Download/driverResults.aspx/148589/en-us) — NVIDIA
-- [Marlin Firmware](https://marlinfw.org/)
+- [Marlin Firmware](https://marlinfw.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/MarlinFirmware/Marlin)
 - [Microsft Visual C++](https://support.microsoft.com/en-us/topic/the-latest-supported-visual-c-downloads-2647da03-1eea-4433-9aff-95f26a218cc0)
 - [Nouveau](https://wiki.archlinux.org/title/nouveau) — ArchWiki
 - [NVCleanstall](https://www.techpowerup.com/nvcleanstall/)
 - [NVIDIA](https://www.nvidia.com/en-us/drivers/unix/) — Unix Drivers
 - [NVIDIA Control Panel](https://www.microsoft.com/es-es/p/nvidia-control-panel/9nf8h0h7wmlt?activetab=pivot%3Aoverviewtab)
 - [NVIDIA drivers](https://www.nvidia.com/download/index.aspx)
+- [NVIDIA/open-gpu-kernel-modules · GitHub](https://github.com/NVIDIA/open-gpu-kernel-modules)
 - [Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock) — Unlock FP/BF16 instruction issue rate on Nvidia 3000's cards to their professional equivalents
 
 ### Keyboard Driver
 - [Ergogen](https://ergogen.xyz/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/ergogen)
+- [jtroo/kanata](https://github.com/jtroo/kanata) — Improve keyboard comfort and usability with advanced customization
 - [KBD](https://kbd-project.org/) — Linux keyboard tools
+- [kmonad/kmonad](https://github.com/kmonad/kmonad) — An advanced keyboard manager
 - [VIA](https://www.usevia.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/the-via/app)
 - [Xpadder](https://xpadder.com/)
 - [xvkbd](http://t-sato.in.coocan.jp/xvkbd/) — Virtual Keyboard for X Window System
@@ -298,6 +322,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [openlinkhub.dev](https://openlinkhub.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/jurkovic-nikola/OpenLinkHub)
 - [OpenRazer](https://openrazer.github.io/)
 - [OpenRGB](https://openrgb.org/) / [![Codeberg](/img/source-hosts/codeberg.svg)](https://codeberg.org/OpenRGB/OpenRGB/)
+- [OpenRGB · GitLab](https://gitlab.com/CalcProgrammer1/OpenRGB)
 - [QLab](https://qlab.app/)
 - [Razer Synapse 3](https://www.razer.com/synapse-3) — Razer
 - [TT RGB Plus](https://ttrgbplus.thermaltake.com/) — ThermalTake
@@ -347,10 +372,13 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [Cameyo by Google](https://cameyo.google/) — Virtualization solutions
 - [Canonical Multipass](https://canonical.com/multipass) / [![GitHub](/img/software/apps/github.svg)](https://github.com/canonical/multipass) — Orchestrates virtual Ubuntu instances
 - [cyberus-technology/virtualbox-kvm · GitHub](https://github.com/cyberus-technology/virtualbox-kvm)
+- [felixrieseberg/macintosh.js](https://github.com/felixrieseberg/macintosh.js) — 🖥 A virtual Apple Macintosh with System 8, running in Electron. I'm sorry.
 - [Firecracker](https://firecracker-microvm.github.io/)
+- [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) — Secure and fast microVMs for serverless computing
 - [foxlet/macOS-Simple-KVM · GitHub](https://github.com/foxlet/macOS-Simple-KVM)
 - [GNOME / GNOME Boxes · GitLab](https://gitlab.gnome.org/GNOME/gnome-boxes/)
 - [Harvester](https://harvesterhci.io/) — Open-source hyperconverged infrastructure
+- [HikariKnight/quickpassthrough · GitHub](https://github.com/HikariKnight/quickpassthrough)
 - [kholia/OSX-KVM · GitHub](https://github.com/kholia/OSX-KVM)
 - [Libvirt . The virtualization API](https://libvirt.org/)
 - [Libvirt Sandbox](https://sandbox.libvirt.org/)
@@ -360,6 +388,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [Multipass VMS](https://multipass.run/)
 - [Omnissa Horizon](https://omnissahorizon.com/appblast/endpoint/domain)
 - [Packer by HashiCorp](https://www.packer.io/)
+- [paolo-projects/unlocker](https://github.com/paolo-projects/unlocker) — VMware Workstation macOS
 - [Parallels](https://www.parallels.com/)
 - [Portable-VirtualBox](https://www.vbox.me/)
 - [proxmox/qemu-server · GitHub](https://github.com/proxmox/qemu-server)
@@ -369,7 +398,9 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) — Sandboxie Plus & Classic
 - [SmartOS container](https://www.joyent.com/smartos)
 - [tobimensch/aqemu · GitHub](https://github.com/tobimensch/aqemu)
+- [tteck/Proxmox · GitHub](https://github.com/tteck/Proxmox)
 - [UTM](https://getutm.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/utmapp/UTM)
+- [vbox](https://www.virtualbox.org/browser/trunk) — Oracle VM VirtualBox
 - [virt/virtio-win](https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/) — Fedora
 - [virtualbox (version download)](https://download.virtualbox.org/virtualbox/)
 - [VMmanager ISPsystem](https://www.ispsystem.com/vmmanager) — Virtualization management platform based on QEMU/KVM
@@ -385,6 +416,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 
 ### OS Translation Layer
 - [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) — Tool for automatic PS5 executables porting to Linux and Windows
+- [ptitSeb/box64 · GitHub](https://github.com/ptitSeb/box64)
 - [Userland](https://userland.tech/) — Use Linux Anywhere
 
 #### Linux Translation Layer
@@ -402,6 +434,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 #### Windows Translation Layer
 - ⭐ **[WineHQ](https://www.winehq.org/)** / [![GitLab](/img/source-hosts/gitlab.svg)](https://gitlab.winehq.org/wine/wine) — Run Windows applications on Linux, BSD, Solaris and macOS
 - [CrossOver](https://www.codeweavers.com/crossover) — Codeweavers
+- [doitsujin/dxvk · GitHub](https://github.com/doitsujin/dxvk)
 - [DOSBox Staging](https://dosbox-staging.github.io/)
 - [exeCute · GitLab](https://gitlab.com/es20490446e/exeCute)
 - [MinGW-w64](https://www.mingw-w64.org/)
@@ -412,6 +445,8 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [winapps-org/winapps](https://github.com/winapps-org/winapps) — Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
 - [WinBIND](https://www.winbind.org/) — Running ISC BIND on Microsoft Windows
 - [WinBoat](https://www.winboat.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/TibixDev/winboat) — Run Windows Apps on Linux with Seamless Integration
+- [WINE](https://source.winehq.org/) — source
+- [Wine](https://sourceforge.net/projects/wine/) — SourceForg
 - [winesapOS · GitHub](https://github.com/LukeShortCloud/winesapOS)
 
 ##### WINE Prefixer
@@ -432,12 +467,13 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [ValveSoftware/wine · GitHub](https://github.com/ValveSoftware/wine)
 - [Vineyard Project](http://vineyardproject.org/)
 - [Vysp3r/ProtonPlus](https://github.com/Vysp3r/protonplus) — A modern compatibility tools manager
-- [Whisky](https://getwhisky.app/) — A modern Wine wrapper for macOS built with SwiftUI
+- [Whisky](https://getwhisky.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Whisky-App/Whisky) — A modern Wine wrapper for macOS built with SwiftUI
 - [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) — A modern Wine wrapper for macOS built with SwiftUI
 - [WineBottler](https://winebottler.kronenberg.org/)
 - [Winetricks/winetricks · GitHub](https://github.com/Winetricks/winetricks)
-- [Winlator](https://winlator.org/) — Android app
+- [Winlator](https://winlator.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/brunodev85/winlator) — Android app
 - [xkero / rum · GitLab](https://gitlab.com/xkero/rum)
+- [YoungFellow-le/photoshop-22-linux · GitHub](https://github.com/YoungFellow-le/photoshop-22-linux)
 
 ### OS-Emulator
 - [Box86](https://box86.org/) — Linux Userspace x86 Emulator with a Twist
@@ -465,10 +501,12 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 
 #### Game Console Emulator
 - ⭐ **[RetroArch](https://retroarch.com/)**
+- [Abd-007/Switch-Emulators-Guide · GitHub](https://github.com/Abd-007/Switch-Emulators-Guide)
 - [allkern/psxe](https://github.com/allkern/psxe) — Multi-platform Sony PlayStation emulator written in C
 - [antonioginer/GroovyMAME](https://github.com/antonioginer/GroovyMAME)
 - [ares](https://ares-emu.net/)
 - [ares-emulator/ares](https://github.com/ares-emulator/ares) — ares is a cross-platform, open source, multi-system emulator, focusing on accuracy and preservation.
+- [billbudge/PCS_Atari800 · GitHub](https://github.com/billbudge/PCS_Atari800)
 - [BlueMaxima's Flashpoint](https://bluemaxima.org/flashpoint)
 - [BluestormDNA/ProjectPSX](https://github.com/BluestormDNA/ProjectPSX) — Experimental C# Playstation Emulator
 - [bsnes-emu/bsnes](https://github.com/bsnes-emu/bsnes) — bsnes is a Super Nintendo (SNES) emulator
@@ -486,13 +524,14 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [FCEUX](https://fceux.com/web/home.html)
 - [flyinghead/flycast](https://github.com/flyinghead/flycast#readme) — Sega emulator
 - [flyinghead/flycast](https://github.com/flyinghead/flycast) — Flycast is a multiplatform Sega Dreamcast, Naomi, Naomi 2 and Atomiswave emulator
+- [GitHub](https://github.com/arianrhodsandlot/nostalgist) — arianrhodsandlot/nostalgist: A JavaScript library used for running emulators of retro consoles inside browsers.
 - [grumpycoders/pcsx-redux](https://github.com/grumpycoders/pcsx-redux#where) — The PCSX-Redux project is a collection of tools, research, hardware design, and libraries aiming at development and reverse engineering on the PlayStation 1. The core product itself, PCSX-Redux, is yet another fork of the Playstation emulator, PCSX.
-- [js-dos v7](https://js-dos.com/)
+- [js-dos v7](https://js-dos.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/caiiiycuk/js-dos)
 - [kelpsyberry/dust](https://github.com/kelpsyberry/dust) — A Nintendo DS emulator written in Rust for desktop devices and the web, with debugging features and a focus on accuracy
 - [Kyty Emulator](https://www.kytyemulator.com/) — Download Free (Latest Version)
 - [KytyPS5 · Open-Source PlayStation 5 Emulator](https://kytyps5.github.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/KytyPS5/KytyPS5)
 - [KytyPS5/KytyPS5](https://github.com/KytyPS5/KytyPS5) — PlayStation 5 translation layer for Windows, Linux and macOS
-- [Libretro](https://www.libretro.com/) — API of RetroArch
+- [Libretro](https://www.libretro.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/libretro/RetroArch) — API of RetroArch
 - [Lime3DS](https://lime3ds.github.io/)
 - [MAME Project](https://www.mamedev.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/mamedev/mame)
 - [mattias800/prosper](https://github.com/mattias800/prosper) — A user-space PlayStation 5 to PC compatibility layer for Linux, Windows, and macOS.
@@ -507,15 +546,15 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [Play Emulator](https://www.playemulator.com/)
 - [PlayStation emulators](https://emulation.gametechwiki.com/index.php/PlayStation_emulators) — Emulation General Wiki
 - [PokeMMO](https://pokemmo.com/en/)
-- [PPSSPP](https://www.ppsspp.org/) — A PSP emulator
-- [Provenance Emu](https://provenance-emu.com/)
-- [PS2 Emulator](https://pcsx2.net/)
+- [PPSSPP](https://www.ppsspp.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/hrydgard/ppsspp) — A PSP emulator
+- [Provenance Emu](https://provenance-emu.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Provenance-Emu/Provenance)
+- [PS2 Emulator](https://pcsx2.net/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/PCSX2/pcsx2)
 - [PSemuX](https://psemux.com/) — PS5 Emulator for PC/Mac
 - [Recalbox](https://www.recalbox.com/)
 - [red-prig/fpPS4](https://github.com/red-prig/fpPS4) — PS4 compatibility layer (emulator) on Free Pascal
 - [redream](https://redream.io/) — Dreamcast Emulator
 - [RetroPie](https://retropie.org.uk/)
-- [RPCS3](https://rpcs3.net/) — The PlayStation 3 Emulator
+- [RPCS3](https://rpcs3.net/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/RPCS3/rpcs3) — The PlayStation 3 Emulator
 - [RPCS4](https://rpcs4.com/)
 - [RPCSX/rpcsx · GitHub](https://github.com/RPCSX/rpcsx)
 - [Ruffle](https://ruffle.rs/) — Flash Emulator
@@ -526,6 +565,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [ShadPS4](https://shadps4.net/) — PS4 emulator for PC
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) — PlayStation 4 emulator for Windows, Linux and macOS written in C++
 - [SharpEmu](https://sharpemu.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/sharpemu/sharpemu) — experimental PS5 and PS4 emulator
+- [shiiion/dolphin](https://github.com/shiiion/dolphin) — Dolphin Emu fork for various Metroid Prime mods
 - [simias/rustation](https://github.com/simias/rustation) — Playstation emulator in the Rust programing language
 - [skylersaleh/SkyEmu](https://github.com/skylersaleh/SkyEmu) — Game Boy Advance, Game Boy, Game Boy Color, and DS Emulator
 - [Snes9X.COM](https://www.snes9x.com/)
@@ -533,6 +573,8 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [stenzek/duckstation (PS1 emulator) · GitHub](https://github.com/stenzek/duckstation)
 - [Sudachi](https://sudachi.emuplace.app/)
 - [suyu](https://suyu.dev/)
+- [suyu-emu/suyu · GitHub](https://github.com/suyu-emu/suyu)
+- [suyu/suyu](https://git.suyu.dev/suyu/suyu) — git
 - [Swordfish90/Lemuroid](https://github.com/Swordfish90/Lemuroid) — All in one emulator on Android!
 - [VisualBoyAdvance-M](https://www.visualboyadvance-m.org/) — The continuing development of the legendary VBA gameboy advance emulator.
 - [Vita3K](https://vita3k.org/) — An Experimental PSVita Emulator
@@ -552,40 +594,49 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - ⭐ **[Docker](https://www.docker.com/)** — Accelerated Container Application Development
 - [Anbox Cloud](https://anbox-cloud.io/) — Scalable Android in the cloud
 - [anbox/anbox · GitHub](https://github.com/anbox/anbox)
+- [apple/container · GitHub](https://github.com/apple/container)
 - [Arcane](https://arcane.ofkm.dev/) — Simple and Elegant Docker Management UI
 - [astro/microvm.nix](https://github.com/astro/microvm.nix) — NixOS MicroVMs
-- [Bird's-eye view for Kubernetes](https://getseabird.github.io/)
+- [Bird's-eye view for Kubernetes](https://getseabird.github.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/getseabird/seabird)
 - [Colima](https://colima.run/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/abiosoft/colima) — Container runtimes on macOS and Linux
 - [container toolbx](https://containertoolbx.org/)
 - [containerd](https://containerd.io/)
+- [containers/podman · GitHub](https://github.com/containers/podman)
 - [Crane](https://michaelsauter.github.io/crane/)
+- [docker/compose · GitHub](https://github.com/docker/compose)
 - [Dockge](https://dockge.kuma.pet/)
+- [dokku/dokku](https://github.com/dokku/dokku) — A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [Dvlv/BoxBuddyRS](https://github.com/Dvlv/BoxBuddyRS) — A Graphical Interface for Distrobox
-- [Flux](https://fluxcd.io/) — the GitOps family of projects
+- [Flux](https://fluxcd.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/fluxcd/flux2) — the GitOps family of projects
 - [Headlamp](https://headlamp.dev/)
 - [InfuseAI/crane · GitHub](https://github.com/InfuseAI/crane)
 - [Island](https://play.google.com/store/apps/details?id=com.oasisfeng.island) / [![GitHub](/img/software/apps/github.svg)](https://github.com/oasisfeng/island) — Apps on Google Play
-- [K3s](https://k3s.io/) — Lightway Kubernetes
+- [K3s](https://k3s.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/k3s-io/k3s) — Lightway Kubernetes
 - [K9s](https://k9scli.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/derailed/k9s) — Manage Your Kubernetes Clusters In Style
 - [Kestra, Open Source Declarative Data Orchestration](https://kestra.io/)
-- [Kubernetes](https://kubernetes.io/)
-- [Kubevious](https://kubevious.io/) — Kubernetes Assured
+- [Kiri](https://runkiri.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/libracoder/kiri/) — a fast Docker Desktop alternative for Mac, Windows and Linux
+- [Kubernetes](https://kubernetes.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/kubernetes/kubernetes)
+- [Kubevious](https://kubevious.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/kubevious/kubevious) — Kubernetes Assured
 - [Lens](https://k8slens.dev/) — The Kubernetes IDE
+- [linuxkit/linuxkit · GitHub](https://github.com/linuxkit/linuxkit)
 - [Looking Glass](https://looking-glass.io/)
 - [louislam/dockge · GitHub](https://github.com/louislam/dockge)
 - [marhkb/pods](https://github.com/marhkb/pods) — Keep track of your podman containers
-- [Meshery](https://meshery.io/) — The Kubernetes and Cloud Native Manager
-- [Minikube](https://minikube.sigs.k8s.io/docs/)
+- [Meshery](https://meshery.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/meshery/meshery) — The Kubernetes and Cloud Native Manager
+- [Minikube](https://minikube.sigs.k8s.io/docs/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/kubernetes/minikube)
 - [Moby](https://mobyproject.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/moby/moby)
-- [Nginx Proxy Manager](https://nginxproxymanager.com/)
+- [Nginx Proxy Manager](https://nginxproxymanager.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/NginxProxyManager/nginx-proxy-manager)
+- [NVIDIA/nvidia-docker · GitHub](https://github.com/NVIDIA/nvidia-docker)
 - [Open Container Initiative](https://opencontainers.org/)
 - [OpenVZ](https://openvz.org/)
 - [OrbStack · Fast, light, simple Docker & Linux on macOS](https://orbstack.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/orbstack)
 - [Podman.io](https://podman.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/containers/)
 - [Portainer.io](https://www.portainer.io/) — container management for Docker and Kubernetes
+- [sdv43/whaler](https://github.com/sdv43/whaler) — Docker Container Management · GitHub
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) — Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers
 - [SwiftVM](https://swiftvm.app/) — Virtual machines that live in your menu bar
 - [sylabs/singularity](https://github.com/sylabs/singularity) — an open source container platform
+- [zelikos/davincibox](https://github.com/zelikos/davincibox) — Container for DaVinci Resolve installation and runtime dependencies on Linux
 
 ## Hardware Acceleration APIs
 - [DirectX graphics and gaming](https://learn.microsoft.com/en-us/windows/win32/directx) — Win32 apps
@@ -602,15 +653,18 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [FPS Counter](https://www.fpscounter.com/)
 - [Key-Test](https://en.key-test.ru/)
 - [Keyboard Checker](https://keyboardchecker.com/)
+- [linuxhw/hw-probe · GItHub](https://github.com/linuxhw/hw-probe)
+- [MatAtBread/esp-scope](https://github.com/MatAtBread/esp-scope) — An open source low-rate oscilloscope for an ESP32.
+- [Roberto Leinardi / GtkStressTesting · GitLab](https://gitlab.com/leinardi/gst)
 - [UFO Test](https://testufo.com/) — Multiple Framerates
 - [Webcam Test](https://webcamtests.com/)
 
 ## IoT Automation
 - [ioBroker Smarthome](https://www.iobroker.net/)
-- [MagicMirror](https://magicmirror.builders/)
+- [MagicMirror](https://magicmirror.builders/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/MagicMirrorOrg/MagicMirror)
 
 ### Home Assistant
-- ⭐ **[Home Assistant](https://www.home-assistant.io/)**
+- ⭐ **[Home Assistant](https://www.home-assistant.io/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/home-assistant/core)
 - [cassidyjames/butler](https://github.com/cassidyjames/butler) — Home Assistant companion app for Linux
 - [Domika](https://domika.app/) — Mobile Client for Home Assistant
 - [Google Home](https://home.google.com/welcome/) — Best Smart Home Devices, Gadgets & Products
@@ -618,7 +672,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [openHAB](https://www.openhab.org/)
 
 ## Networking
-- [NetExec](https://www.netexec.wiki/)
+- [NetExec](https://www.netexec.wiki/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Pennyw0rth/NetExec)
 - [shell-dot/tuoni · GitHub](https://github.com/shell-dot/tuoni)
 
 ### Anti-Bot Systems
@@ -633,7 +687,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [JustBlock](https://justblock.org/)
 
 #### Ad Blocker
-- ⭐ **[SponsorBlock](https://sponsor.ajay.app/)**
+- ⭐ **[SponsorBlock](https://sponsor.ajay.app/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/ajayyy/SponsorBlock)
 - ⭐ **[uBlock Origin](https://www.ublockorigin.com/)**
 - [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) — The next-generation ad blocker for Safari.
 - [Ablock Origin](https://adblockorigin.com/)
@@ -650,7 +704,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [Domain Blocker](https://chrome.google.com/webstore/detail/domain-blocker/ggdcjplapccgoinblmidpkoocfafajfa)
 - [Freedom-to](https://freedom.to/)
 - [Ghostery](https://www.ghostery.com/) — Best Ad Blocker & Privacy Browser
-- [hBlock](https://hblock.molinero.dev/)
+- [hBlock](https://hblock.molinero.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/hectorm/hblock)
 - [NetGuard](https://netguard.me/)
 - [NoScript](https://noscript.net/)
 - [OpenVideo](https://addons.mozilla.org/en-US/firefox/addon/openvideo/) — ad-free streaming – Firefox
@@ -663,25 +717,28 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 
 #### Spam Blocker
 - [aj3423/SpamBlocker · GitHub](https://github.com/aj3423/SpamBlocker)
+- [Silence](https://github.com/x13a/Silence) — Block unknown callers · GitHub
 - [Sync.ME](https://sync.me/) — Find out who called
 - [Truecaller](https://www.truecaller.com/) — Leading Global Caller ID & Call Blocking App
 - [Whoscall](https://whoscall.com/en) — Caller ID App & Scam Prevention
 - [Xynngh / YetAnotherCallBlocker · GitLab](https://gitlab.com/xynngh/YetAnotherCallBlocker)
+- [Xynngh / YetAnotherCallBlocker_data · GitLab](https://gitlab.com/xynngh/YetAnotherCallBlocker_data)
 
 ### Client-Server App
 - [astrada/google-drive-ocamlfuse · GitHub](https://github.com/astrada/google-drive-ocamlfuse)
 - [Cloudflare WARP client](https://developers.cloudflare.com/warp-client/)
-- [cURL](https://curl.se/) — CLI and library
+- [cURL](https://curl.se/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/curl/curl) — CLI and library
 - [DHCPd](https://roy.marples.name/projects/dhcpcd)
+- [Kong/kong · GitHub](https://github.com/Kong/kong)
 - [Maestral](https://maestral.app/)
 - [meganz/MEGAsync · GitHub](https://github.com/meganz/MEGAsync)
 - [mozilla-services/syncstorage-rs · GitHub](https://github.com/mozilla-services/syncstorage-rs)
-- [noVNC](https://novnc.com/info.html)
+- [noVNC](https://novnc.com/info.html) / [![GitHub](/img/software/apps/github.svg)](https://github.com/novnc/noVNC)
 
 #### API Client
 - [API movies](https://apimovies.netlify.app/)
 - [Apollo GraphQL](https://www.apollographql.com/)
-- [bruno](https://www.usebruno.com/)
+- [bruno](https://www.usebruno.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/usebruno/bruno)
 - [C99 API Service](https://api.c99.nl/)
 - [currencylayer API](https://currencylayer.com/) — Free, Reliable Currency Converter API
 - [Datamuse API](https://www.datamuse.com/api/)
@@ -696,7 +753,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [Humlix](https://www.humlix.com/)
 - [Hypergraph](https://hygraph.com/) — The Next Generation GraphQL Content Platform
 - [Insomnia](https://insomnia.rest/) — The Collaborative API Development Platform
-- [Keras](https://keras.io/) — Deep Learning for humans
+- [Keras](https://keras.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/keras-team/keras) — Deep Learning for humans
 - [Kong](https://konghq.com/) — Become an API-first company
 - [Kreya](https://kreya.app/) — The ultimate gRPC and REST client
 - [Merriam-Webster Dictionary API](https://www.dictionaryapi.com/)
@@ -705,7 +762,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [OwO-Network/DeepLX · GitHub](https://github.com/OwO-Network/DeepLX)
 - [Oxford Dictionaries API](https://developer.oxforddictionaries.com/)
 - [Paw](https://paw.cloud/) — RapidAPI for Mac
-- [Pororoca](https://pororoca.io/) — HTTP testing tool.
+- [Pororoca](https://pororoca.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/alexandrehtrb/Pororoca) — HTTP testing tool.
 - [Postman](https://www.postman.com/)
 - [Public APIs](https://publicapis.dev/) — A Collaborative List Of 1400+ Public APIs For Developers
 - [PythonAnywhere](https://www.pythonanywhere.com/)
@@ -737,6 +794,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [FileZilla](https://filezilla-project.org/) — The free FTP solution
 - [FTP Sites](https://www.ftp-sites.org/)
 - [glFTPd](https://glftpd.io/)
+- [masneyb/gftp · GitHub](https://github.com/masneyb/gftp)
 - [Rebex](https://www.rebex.net/)
 - [Search FTPs](https://www.searchftps.net/)
 - [SmartFTP](https://www.smartftp.com/en-us/)
@@ -750,17 +808,20 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [h5ai · modern HTTP web server index · larsjung.de](https://larsjung.de/h5ai/)
 - [HTTPie](https://httpie.io/)
 - [Httpiness](https://www.httpiness.com/) — Parametric HTTP client for slalom API testing
-- [HTTPX](https://www.python-httpx.org/)
-- [Hurl](https://hurl.dev/) — Run and Test HTTP Requests
+- [HTTPX](https://www.python-httpx.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/encode/httpx)
+- [Hurl](https://hurl.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Orange-OpenSource/hurl) — Run and Test HTTP Requests
+- [moparisthebest/static-curl · GitHub](https://github.com/moparisthebest/static-curl)
 - [NeoMutt](https://neomutt.org/) — command line mail reader
 - [ntfy.sh](https://ntfy.sh/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/binwiederhier/ntfy) — Send push notifications to your phone via PUT/POST
 - [profanity-im/profanity](https://github.com/profanity-im/profanity) — Ncurses based XMPP client
 - [Pushy](https://pushy.me/) — Lightning-Fast & Highly-Reliable Push Notifications
 - [roster · GitLab](https://git.bugsy.cz/beval/roster)
+- [rs/curlie · GitHub](https://github.com/rs/curlie)
 - [Tweeten, a powerful Twitter client](https://tweetenapp.com/)
 - [UnifiedPush](https://unifiedpush.org/)
 
 #### SMTP Server
+- [axllent/mailpit · GitHub](https://github.com/axllent/mailpit)
 - [BillionMail](https://www.billionmail.com/) — An Open-Source MailServer, NewsLetter, Email Marketing
 - [ChangemakerStudios/Papercut-SMTP](https://github.com/ChangemakerStudios/Papercut-SMTP) — Papercut SMTP -- The Simple Desktop Email Server
 - [citadel.org](https://www.citadel.org/)
@@ -778,7 +839,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 
 #### Web Server
 - [Apache HTTP](https://httpd.apache.org/)
-- [Apache Tomcat](https://tomcat.apache.org/)
+- [Apache Tomcat](https://tomcat.apache.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/apache/tomcat)
 - [Aprelium](https://aprelium.com/)
 - [Caddy](https://caddyserver.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/caddyserver/caddy) — Server HTTPS
 - [Cowboy](https://ninenines.eu/) — Nine Nines
@@ -787,25 +848,28 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [Lighttpd](https://www.lighttpd.net/) — fly light
 - [LiteSpeed](https://www.litespeedtech.com/)
 - [Mako Server](https://makoserver.net/)
+- [Markserv/markserv · GitHub](https://github.com/markserv/markserv)
 - [Microsoft IIS Site](https://www.iis.net/)
 - [Mongoose Web Server](https://mongoose.ws/)
-- [nginx](https://nginx.org/)
+- [nginx](https://nginx.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/nginx/nginx)
 - [Nitro](https://nitro.build/) — Next Generation Server Toolkit
 - [OpenResty](https://openresty.org/en/) — Open source
 - [Passenger](https://www.phusionpassenger.com/) — Enterprise grade web app server for Ruby, Node.js, Python
-- [Robyn](https://robyn.tech/) — An async Python Framework written in Rust
+- [Robyn](https://robyn.tech/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/sparckles/Robyn) — An async Python Framework written in Rust
 - [tunnl.gg](https://tunnl.gg/) — Expose localhost to the internet
 - [yandeu/five-server · GitHub](https://github.com/yandeu/five-server)
 
 ### Network Monitoring
-- ⭐ **[Ackee analytics](https://ackee.electerious.com/)**
+- ⭐ **[Ackee analytics](https://ackee.electerious.com/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/electerious/Ackee)
 - ⭐ **[Nmap](https://nmap.org/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/nmap/nmap) — the Network Mapper
-- ⭐ **[Uptime Kuma](https://uptime.kuma.pet/)**
+- ⭐ **[Uptime Kuma](https://uptime.kuma.pet/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/louislam/uptime-kuma)
+- [aaronjwood/PortAuthority · GitHub](https://github.com/aaronjwood/PortAuthority)
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) — Lightweight network IP scanner. Can be used to notify about new hosts and monitor host online/offline history
 - [Androidutils.io](https://androidutils.io/)
 - [Angry IP Scanner](https://angryip.org/)
+- [angryip/ipscan](https://github.com/angryip/ipscan) — Angry IP Scanner - fast and friendly network scanner
 - [Apache JMeter](https://jmeter.apache.org/)
-- [avahi](http://www.avahi.org/) — mDNS/DNS-SD
+- [avahi](http://www.avahi.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/avahi/avahi) — mDNS/DNS-SD
 - [Bytezz/IPLookup-gtk · GitHub](https://github.com/Bytezz/IPLookup-gtk)
 - [Domotz](https://www.domotz.com/) — Network Monitoring Software
 - [emanuele-f/PCAPdroid](https://github.com/emanuele-f/PCAPdroid) — No-root network monitor, firewall and PCAP dumper for Android
@@ -815,6 +879,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [infinition/Bjorn](https://github.com/infinition/Bjorn) — Bjorn is a powerful network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Paper HAT
 - [Insecure.org](https://insecure.org/) — Nmap Free Security Scanner, Tools & Hacking resources
 - [Leaf Node](https://www.leafnode.nl/) — Leaf Node Monitoring
+- [Martijn Braam / Wiremapper · GitLab](https://gitlab.com/MartijnBraam/wiremapper)
 - [Net Speed Monitor](https://netspeedmonitor.net/)
 - [Netdata](https://www.netdata.cloud/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/netdata/netdata) — Monitoring and troubleshooting transformed
 - [NetLimiter](https://www.netlimiter.com/)
@@ -823,6 +888,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [Open Visual Traceroute](https://sourceforge.net/projects/openvisualtrace/)
 - [productdevbook/port-killer · GitHub](https://github.com/productdevbook/port-killer)
 - [PRTG Network Monitor](https://www.paessler.com/prtg) — All-in-One Network Monitoring Software
+- [pucherot/Pi.Alert · GitHub](https://github.com/pucherot/Pi.Alert)
 - [SimpleWall](https://www.henrypp.org/product/simplewall) — HeryPP
 - [Sniffnet](https://sniffnet.net/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/GyulyVGC/sniffnet) — comfortably monitor your Internet traffic
 - [SoftPerfect](https://www.softperfect.com/) — system and network management software
@@ -848,25 +914,28 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [pool.ntp.org](https://www.ntppool.org/en/) — the internet cluster of ntp servers
 - [Radien](https://radien.arsenkin.name/) — Your honest network toolbox
 - [Router Network](https://router-network.com/)
-- [V2Fly.org](https://www.v2fly.org/)
+- [V2Fly.org](https://www.v2fly.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/v2fly/v2ray-core)
 - [What is my DNS](https://www.whatsmydns.net/)
 - [Your Digital Rights](https://yourdigitalrights.org/)
 - [YourOnlineChoices.eu](https://www.youronlinechoices.com/)
 
 #### Domain Research
 - ⭐ **[DNSdumpster](https://dnsdumpster.com/)**
-- ⭐ **[Domain Digger](https://digger.tools/)** — DNS, WHOIS lookup & more
+- ⭐ **[Domain Digger](https://digger.tools/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/wotschofsky/domain-digger) — DNS, WHOIS lookup & more
 - [Dig DNS](https://digdns.com/)
 - [DigWebInterface.com](https://www.digwebinterface.com/)
 
 #### Internet Protocol
 - [Agent Client Protocol](https://agentclientprotocol.com/get-started/introduction) / [![GitHub](/img/software/apps/github.svg)](https://github.com/agentclientprotocol)
+- [coturn/coturn · GitHub](https://github.com/coturn/coturn)
 - [IETF HTTP Working Group](https://httpwg.org/)
 - [magic-wormhole/magic-wormhole (protocol) · GitHub](https://github.com/magic-wormhole/magic-wormhole)
 - [Model Context Protocol](https://modelcontextprotocol.io/docs/getting-started/intro) / [![GitHub](/img/software/apps/github.svg)](https://github.com/modelcontextprotocol)
 - [MQTT](https://mqtt.org/) — The Standard for IoT Messaging
 - [OpenSSH](https://www.openssh.org/)
-- [Project V · V2ray](https://www.v2ray.com/en/index.html)
+- [pion/turn · GitHub](https://github.com/pion/turn)
+- [Project V · V2ray](https://www.v2ray.com/en/index.html) / [![GitHub](/img/software/apps/github.svg)](https://github.com/v2ray/v2ray-core)
+- [pubsubhubbub/PubSubHubbub · GitHub](https://github.com/pubsubhubbub/PubSubHubbub)
 - [The AT Protocol](https://atproto.com/)
 - [Varnish HTTP Cache](https://varnish-cache.org/)
 - [WebDAV Resources](http://www.webdav.org/)
@@ -877,13 +946,14 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [Aave](https://aave.com/)
 - [AirSwap](https://www.airswap.io/)
 - [Alexgo.io](https://alexgo.io/)
+- [anyproto/any-sync · GitHub](https://github.com/anyproto/any-sync)
 - [BitTorrent.org](https://www.bittorrent.org/)
 - [Boba.network](https://boba.network/)
 - [Coinjoins](https://www.coinjoins.org/) — Learn about bitcoin collaborative transactions
 - [DEX.AG](https://dex.ag/)
 - [Farcaster](https://www.farcaster.xyz/)
 - [Go Ethereum](https://geth.ethereum.org/)
-- [GUN](https://gun.eco/docs) — the database for freedom fighters
+- [GUN](https://gun.eco/docs) / [![GitHub](/img/software/apps/github.svg)](https://github.com/amark/gun) — the database for freedom fighters
 - [Hypercore Protocol](https://hypercore-protocol.org/)
 - [IOTA](https://www.iota.org/)
 - [IPFS (protocol)](https://ipfs.tech/)
@@ -906,7 +976,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [Fast.com](https://fast.com/) — Internet Speed Test
 - [HighSpeedInternet Test](https://www.highspeedinternet.com/tools/speed-test)
 - [HTML5 Internet Speed Test](https://openspeedtest.com/) — OpenSpeedTest
-- [LibreSpeed](https://librespeed.org/) — Speed Test
+- [LibreSpeed](https://librespeed.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/librespeed/speedtest) — Speed Test
 - [Lite Speed Test](https://www.litespeedtest.net/)
 - [Matuok](https://matuok.lt/)
 - [nPerf.com](https://www.nperf.com/en/)
@@ -922,6 +992,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [Xfinity](https://speedtest.xfinity.com/) — Speed Test
 
 #### IP Address
+- [Bytezz/IPLookup-gtk · GitHub](https://github.com/bytezz/iplookup-gtk)
 - [DNSlytics](https://dnslytics.com/)
 - [DomainTools](https://research.domaintools.com/) — Research
 - [IP Calculator](https://ipcalculator.com/)
@@ -961,8 +1032,10 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 #### Proxy
 - ⭐ **[mitmproxy](https://mitmproxy.org/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/mitmproxy/mitmproxy) — an interactive HTTPS proxy
 - ⭐ **[Tor Project](https://arti.torproject.org/)** / [![GitLab](/img/source-hosts/gitlab.svg)](https://gitlab.torproject.org/tpo/core/arti) — Arti
+- [2dust/v2rayN · GitHub](https://github.com/2dust/v2rayN)
 - [ASocks](https://asocks.com/) — Unlimited Residential Proxy
 - [FoxyProxy](https://getfoxyproxy.org/)
+- [haad/proxychains · GitHub](https://github.com/haad/proxychains)
 - [HAProxy](https://www.haproxy.org/)
 - [InterceptSuite](https://interceptsuite.com/) — MITM Proxy for Thick Client & Non-HTTP Traffic
 - [InvisiProxy LTS](https://invisiproxy.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/QuiteAFancyEmerald/InvisiProxy) — Free Web Proxy - Bypass Filters & Access Blocked Sites
@@ -974,6 +1047,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [Shadowsocks](https://shadowsocks.org/) — Tunnel proxy
 - [Snowflake](https://snowflake.torproject.org/) — Tor Project
 - [SSL Proxy](https://www.sslsecureproxy.com/)
+- [TelegramMessenger/MTProxy · GitHub](https://github.com/TelegramMessenger/MTProxy)
 - [Traefik, The Cloud Native Application Proxy](https://traefik.io/traefik) / [![GitHub](/img/software/apps/github.svg)](https://github.com/traefik/traefik) — Traefik Labs
 - [Tunnel to dev](https://tunnelto.dev/)
 
@@ -1010,6 +1084,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [Bom.to](https://bom.to/)
 - [Cutly](https://cut.ly/)
 - [Dub](https://dub.co/) — Link Management for Modern Marketing Teams
+- [dubinc/dub](https://github.com/dubinc/dub) — Open-source link management infrastructure. Loved by modern marketing teams like Vercel, Raycast, and Perplexity.
 - [DuckDuckGo shortner](https://ddg.co/)
 - [EShorte.st](https://shorte.st/)
 - [Facebook shortner](https://fb.com/)
@@ -1042,10 +1117,12 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [Shrinkearn](https://shrinkearn.com/)
 - [ShrinkMe](https://shrinkme.io/) — URL shortner
 - [shrtcode](https://app.shrtco.de/)
+- [steven-tey/dub](https://github.com/steven-tey/dub) — An open-source link shortener
 - [Sur.ly](https://sur.ly/)
 - [T.LY](https://t.ly/home)
 - [T.LY](https://t.ly/) — URL Shortener, Branded Links & Click Tracking URL Shortener, Custom Domain & Short Link Management
 - [t.me shortner](https://t.me/)
+- [thedevs-network/kutt](https://github.com/thedevs-network/kutt) — Free Modern URL Shortener
 - [Tiny URL](https://tiny.cc/)
 - [TinyURL](https://tinyurl.com/app)
 - [u.to](https://u.to/) — URL Shortening Service
@@ -1065,6 +1142,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 
 #### Web Status
 - [¿Está Fallando?](https://estafallando.ec/)
+- [dgtlmoon/changedetection.io · GitHub](https://github.com/dgtlmoon/changedetection.io)
 - [Downdetector](https://downdetector.com/)
 - [downforeveryonejustme](https://downforeveryoneorjustme.com/)
 - [Is It Down Right Now?](https://www.isitdownrightnow.com/)
@@ -1085,11 +1163,13 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [Ettercap](https://www.ettercap-project.org/)
 - [evilsocket/opensnitch · GitHub](https://github.com/evilsocket/opensnitch)
 - [Fiddler](https://www.telerik.com/fiddler) — Web Debugging Proxy and Troubleshooting Tools
+- [gojue/ecapture · GitHub](https://github.com/gojue/ecapture)
 - [jpr5/ngrep](https://github.com/jpr5/ngrep) — ngrep is like GNU grep applied to the network layer. It's a PCAP-based tool that allows you to specify an extended regular or hexadecimal expression to match against data payloads of packets. It understands many kinds of protocols, including IPv4/6, TCP, UDP, ICMPv4/6, IGMP and Raw, across a wide variety of interface types, and understands BPF filter logic in the same fashion as more common packet sniffing tools, such as tcpdump and snoop.
 - [Kismet](https://www.kismetwireless.net/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/kismetwireless/kismet) — Wi-Fi, Bluetooth, RF, and more
 - [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html)
 - [Npcap](https://npcap.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/nmap/npcap) — Windows Packet Capture Library & Driver
 - [ntopng](https://www.ntop.org/products/traffic-analysis/ntopng/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/ntop/ntopng) — ntop
+- [odedshimon/BruteShark · GitHub](https://github.com/odedshimon/BruteShark)
 - [Proxyman · Debug, intercept & mock HTTP with Proxyman](https://proxyman.com/)
 - [raboof/nethogs](https://github.com/raboof/nethogs) — Linux 'net top' tool
 - [TCPDUMP & LIBPCAP](https://www.tcpdump.org/)
@@ -1098,7 +1178,9 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 
 ### Remote Control
 - [Beamer](https://beamerapp.co.uk/) — free software KVM for Mac, Windows and Linux
+- [input-leap/input-leap](https://github.com/input-leap/input-leap) — Open-source KVM software
 - [ismartcoding/plain-app · GitHub](https://github.com/ismartcoding/plain-app)
+- [JPersson77/LGTVCompanion · GitHub](https://github.com/JPersson77/LGTVCompanion)
 - [KDE Connect](https://play.google.com/store/apps/details?id=org.kde.kdeconnect_tp) — Apps on Google Play
 - [Universal TV Remote-ZaZa Remot](https://play.google.com/store/apps/details?id=com.tiqiaa.remote) — Apps on Google Play
 - [Virtual Desktop](https://www.vrdesktop.net/)
@@ -1115,29 +1197,32 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [DWService](https://www.dwservice.net/)
 - [FreeRDP](https://www.freerdp.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/FreeRDP/FreeRDP)
 - [Jump Desktop](https://jumpdesktop.com/)
-- [MeshCentral](https://meshcentral.com/)
+- [MeshCentral](https://meshcentral.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Ylianst/MeshCentral)
 - [MRemoteng](https://mremoteng.org/)
 - [NoMachine](https://www.nomachine.com/)
 - [PulseWay](https://www.pulseway.com/)
 - [Remmina](https://remmina.org/) — Remote desktop client with RDP, SSH, SPICE, VNC, and X2Go protocol
+- [Remmina / Remmina · GitLab](https://gitlab.com/Remmina/Remmina)
 - [Remote Desktop Manager](https://remotedesktopmanager.com/)
 - [Remotely Remote Support Software](http://www.remotesupportsoftware.co.uk/)
 - [RemotePC](https://www.remotepc.com/index.html)
 - [Sill](https://getsill.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Saffsanity/sill) — your Mac, on your iPhone and iPad
+- [spice / spice-gtk · GitLab](https://gitlab.freedesktop.org/spice/spice-gtk)
 - [Spice space](https://www.spice-space.org/)
 - [Synergy](https://symless.com/synergy) — Share one mouse & keyboard across computers
 - [TeamViewer](https://www.teamviewer.com/en/) — The Remote Connectivity Software
 - [Thincast Client](https://thincast.com/en/products/client)
 - [TigerVNC](https://tigervnc.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/TigerVNC/tigervnc)
-- [UltraVNC](https://uvnc.com/) — Remote Desktop
+- [UltraVNC](https://uvnc.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/ultravnc/UltraVNC) — Remote Desktop
 - [Workbench](https://astropad.com/product/workbench/) — High-Performance Remote Desktop for Mac
+- [Xpra-org/xpra](https://github.com/Xpra-org/xpra/) — Persistent remote applications for X11
 
 ### WiFi Analyzer
 - [analiti Speed Test WiFi Analyzer](https://analiti.com/)
 - [inSSIDer](https://www.metageek.com/inssider/) — MetaGeek
 - [NetSpot WiFi Site Survey Software](https://www.netspotapp.com/) — WiFi Heat Maps, Network Planning Tool. Free Plan.
 - [WiFi Analyzer](https://matthafner.com/wifi-analyzer) — Matt Hafner
-- [WiFiAnalyzer](https://vremsoftwaredevelopment.github.io/WiFiAnalyzer)
+- [WiFiAnalyzer](https://vremsoftwaredevelopment.github.io/WiFiAnalyzer) / [![GitHub](/img/software/apps/github.svg)](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer)
 
 ## System Tool
 - [Ameliorated](https://ameliorated.io/)
@@ -1147,7 +1232,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [ChrisTitusTech/winutil · GitHub](https://github.com/ChrisTitusTech/winutil)
 - [iDescriptor/iDescriptor](https://github.com/iDescriptor/iDescriptor) — A free, open-source, and cross-platform iDevice management tool
 - [O&O ShutUp10](https://www.oo-software.com/en/shutup10) — Free antispy tool
-- [privacy.sexy](https://privacy.sexy/) — Maximize Your Privacy and Security
+- [privacy.sexy](https://privacy.sexy/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/undergroundwires/privacy.sexy) — Maximize Your Privacy and Security
 - [Quitty](https://quitty.iad1tya.cyou/) — macOS System Optimization and Cleanup Utility
 - [USBDeview v3.07](https://www.nirsoft.net/utils/usb_devices_view.html) — NirSoft
 - [Winhance](https://winhance.net/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/memstechtips/Winhance) — Windows Enhancement Utility
@@ -1167,10 +1252,13 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [Realme Flash Tool for Windows](https://androidmtk.com/realme-flash-tool) — .ofp Flash Tool
 - [Realme Flash Tool V](https://download.c.realme.com/flash/Flash_tool/realme_Flash_Tool_V2.zip)
 - [Samsung Odin download](https://odindownload.com/)
+- [TeamWin/android_bootable_recovery · GitHub](https://github.com/Teamwin/android_bootable_recovery)
 
 #### Jailbreak iOS
 - [checkra1n](https://checkra.in/)
 - [Cydia](https://cydia-app.com/)
+- [hacks-guide/Guide_3DS · GitHub](https://github.com/hacks-guide/Guide_3DS)
+- [LumaTeam/Luma3DS](https://github.com/LumaTeam/Luma3DS) — Nintendo 3DS "Custom Firmware"
 - [opa334/Dopamine](https://github.com/opa334/Dopamine) — Dopamine is a semi-untethered jailbreak for iOS 15 and 16
 - [opa334/TrollStore](https://github.com/opa334/TrollStore) — Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple
 - [palera1n](https://palera.in/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/palera1n/palera1n)
@@ -1179,18 +1267,22 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 #### Root & Modding Android
 - ⭐ **[Magisk Manager](https://www.magiskmanager.org/)**
 - [0x192/universal-android-debloater · GitHub](https://github.com/0x192/universal-android-debloater)
-- [AdAway](https://adaway.org/)
+- [AdAway](https://adaway.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/AdAway/AdAway)
 - [amo13/Anarchy-Droid · GItHub](https://github.com/amo13/Anarchy-Droid)
 - [Anarchy-Droid](https://anarchy-droid.com/)
 - [Android MTK](https://androidmtk.com/)
 - [Andronix App](https://andronix.app/)
 - [Apktool](https://apktool.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/iBotPeaches/Apktool)
+- [francescotescari/XiaoMiToolV2 · GitHub](https://github.com/francescotescari/XiaoMiToolV2/)
 - [KernelSU Next](https://kernelsu-next.github.io/webpage/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/KernelSU-Next/KernelSU-Next)
 - [Kingroot](https://kingrootapp.net/)
 - [Kingroot Official](https://kingrootofficial.com/)
+- [leminlimez/Nugget](https://github.com/leminlimez/Nugget) — Unlock the fullest potential of your device
 - [Lucky Patcher](https://www.luckypatchers.com/)
+- [obhq/jailbreak-11](https://github.com/obhq/jailbreak-11) — Experimental PS4 jailbreak for 11.00 and lower
 - [One Click Root](https://oneclickroot.com/)
 - [PrefEdit Root](https://play.google.com/store/apps/details?id=com.corphish.prefedit)
+- [ReVanced/revanced-patches · GitHub](https://github.com/ReVanced/revanced-patches)
 - [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) — Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process
 - [Root Booster](https://play.google.com/store/apps/details?id=com.ram.memory.booster.cpu.saver)
 - [Root Checker](https://rootchecker.com/)
@@ -1199,6 +1291,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [skylot/jadx](https://github.com/skylot/jadx) — Dex to Java decompiler
 - [SuperSU Root](https://supersuroot.org/)
 - [timschneeb/RootlessJamesDSP · GitHub](https://github.com/timschneeb/RootlessJamesDSP)
+- [topjohnwu/Magisk · GitHub](https://github.com/topjohnwu/Magisk)
 - [Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/) — Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.
 - [Viper4android](https://www.viper4android.com/)
 - [W1nst0n / Universal Android Debloater · GitLab](https://gitlab.com/W1nst0n/universal-android-debloater)
@@ -1226,13 +1319,15 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [amar97march/sweep](https://github.com/amar97march/sweep) — Clean, protect and understand your Mac. Free and open source
 - [Auslogics](https://www.auslogics.com/en)
 - [builtbybel/Winslop · GitHub](https://github.com/builtbybel/Winslop)
-- [Bulk Crap Uninstaller](https://www.bcuninstaller.com/)
+- [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/BCUninstaller/Bulk-Crap-Uninstaller)
 - [CCleaner](https://www.ccleaner.com/)
 - [Clean-Me](https://kevin-de-koninck.github.io/Clean-Me)
 - [CompuClever](https://www.compuclever.com/)
+- [d4rken-org/sdmaid-se · GitHub](https://github.com/d4rken-org/sdmaid-se/)
 - [DiskPoint](https://diskpointapp.com/) — Free Disk Cleanup for Mac, Windows & Linux
 - [Fix My PC](https://fixmypc.tv/)
 - [GCleaner](https://gcleaner.github.io/)
+- [giantpinkrobots/flatsweep · GitHub](https://github.com/giantpinkrobots/flatsweep)
 - [Glary Utilities](https://www.glarysoft.com/glary-utilities/) — Free System Utilities to Clean Registry, Fix PC Errors, Protect Privacy | Glarysoft
 - [Glarysoft](https://glarysoft.com/)
 - [IObit](https://www.iobit.com/en/index.php)
@@ -1254,7 +1349,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [YL Computing](https://www.pcclean.io/) — Your satisfaction is our only goal
 
 ### Desktop Monitoring
-- [1Panel](https://1panel.cn/) — 现代化、开源的 Linux 服务器运维管理面板
+- [1Panel](https://1panel.cn/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/1Panel-dev/1Panel) — 现代化、开源的 Linux 服务器运维管理面板
 - [aksakalli/gtop · GitHub](https://github.com/aksakalli/gtop)
 - [Apps/Sysprof](https://wiki.gnome.org/Apps/Sysprof) — GNOME
 - [aristocratos/bashtop · GitHub](https://github.com/aristocratos/bashtop)
@@ -1268,21 +1363,26 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [EtherApe, a graphical network monitor](https://etherape.sourceforge.io/)
 - [flightlessmango/MangoHud · GitHub](https://github.com/flightlessmango/MangoHud)
 - [GKrellM](http://gkrellm.srcbox.net/)
-- [Glances · GitHub](https://nicolargo.github.io/glances/)
+- [Glances · GitHub](https://nicolargo.github.io/glances/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/nicolargo/glances)
 - [graykode/abtop](https://github.com/graykode/abtop) — Like htop, but for AI coding agents. Monitor Claude Code & Codex CLI sessions, tokens, context window, rate limits, and ports in real-time.
 - [htop -an interactive process viewer](https://htop.dev/)
+- [Htop · GitHub](https://github.com/hishamhm/htop)
 - [HWiNFO](https://www.hwinfo.com/)
 - [kamgurgul/cpu-info](https://github.com/kamgurgul/cpu-info) — CPU Info is a multiplatform application which provides information about device hardware and software
+- [LibreHardwareMonitor · GitHub](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor)
 - [Linux-Assistant](https://www.linux-assistant.org/)
 - [LockItTight](https://www.lockittight.com/)
 - [M/Monit](https://mmonit.com/)
 - [Mission Center](https://missioncenter.io/)
+- [mission-center-devs / Mission Center · GitLab](https://gitlab.com/mission-center-devs/mission-center/)
+- [nickguletskii/GLXOSD](https://github.com/nickguletskii/GLXOSD/) — extensible on-screen display
 - [nmon for Linux](http://nmon.sourceforge.net/pmwiki.php)
 - [nokyan/resources](https://github.com/nokyan/resources) — Monitor your system resources and processes
 - [Observium](https://www.observium.org/) — Network monitoring with intuition
 - [oguzhaninan/Stacer · GitHub](https://github.com/oguzhaninan/Stacer)
 - [opsengine/cpulimit · GitHub](https://github.com/opsengine/cpulimit)
 - [PageVitals](https://pagevitals.com/) — Website performance
+- [Plasma / Plasma System Monitor · GitLab](https://invent.kde.org/plasma/plasma-systemmonitor)
 - [Process Explorer](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer) — Sysinternals
 - [Process Hacker](https://processhacker.sourceforge.io/)
 - [Prometheus](https://prometheus.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/prometheus) — Monitoring system & time series database
@@ -1293,6 +1393,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [Übersicht](https://tracesof.net/uebersicht/)
 - [Usage](https://usage.pro/) — System Activity Monitor for iOS and macOS
 - [WinDbg](https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger/) — Windows drivers
+- [winsiderss/systeminformer · GitHub](https://github.com/winsiderss/systeminformer)
 - [xaitax/TotalRecall · GitHub](https://github.com/xaitax/TotalRecall)
 - [XMeters](https://entropy6.com/xmeters/)
 
@@ -1302,15 +1403,28 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 
 #### App Manager
 - [ADB TV](https://play.google.com/store/apps/details?id=com.cybercat.adbappcontrol.tv) — App Manager - Apps on Google Play
+- [AppImageLauncher · GitHub](https://github.com/TheAssassin/AppImageLauncher)
+- [Aurora OSS / Warden · GitLab](https://gitlab.com/AuroraOSS/AppWarden)
+- [Flatseal · GitHub](https://github.com/tchx84/flatseal)
+- [flattool/warehouse · GitHub](https://github.com/flattool/warehouse)
+- [ivan-hc/AppMan · GitHub](https://github.com/ivan-hc/AppMan)
+- [ublue-os/yafti · GitHub](https://github.com/ublue-os/yafti)
 
 #### Dependency Manager
+- [astral-sh/uv](https://github.com/astral-sh/uv) — An extremely fast Python package installer
 - [Automated dependency updates with pull requests](https://www.dependencies.io/) — Deps
 - [Composer PHP](https://getcomposer.org/)
+- [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) — A node.js version management utility for Windows. Ironically written in Go.
+- [dependabot/dependabot-core · GitHub](https://github.com/dependabot/dependabot-core)
 - [dnvm](https://dnvm.net/) — the dotnet version manager
+- [microsoft/vcpkg](https://github.com/microsoft/vcpkg) — C++ Library Manager for Windows, Linux, and MacOS
 - [mise-en-place](https://mise.jdx.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/jdx/mise) — Development tools, environments, and tasks
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) — Node Version Manager
 - [rbenv](https://rbenv.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/rbenv/rbenv) — the Ruby version manager
 - [RVM](https://rvm.io/) — Ruby Version Manager - RVM Ruby Version Manager
+- [Schniz/fnm · GitHub](https://github.com/Schniz/fnm)
 - [SDKMAN! the Software Development Kit Manager](https://sdkman.io/)
+- [ust-lang/cargo · GitHub](https://github.com/rust-lang/cargo)
 - [Yarn](https://classic.yarnpkg.com/en/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/yarnpkg/yarn)
 
 #### GUI Package Manager
@@ -1330,16 +1444,18 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [mijorus/gearlever](https://github.com/mijorus/gearlever) — Manage AppImages with ease 📦
 - [moson-mo/pacseek · GitHub](https://github.com/moson-mo/pacseek)
 - [NeoApplications/Neo-Store · GitHub](https://github.com/NeoApplications/Neo-Store)
-- [Obtainium](https://obtainium.imranr.dev/)
+- [Obtainium](https://obtainium.imranr.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/ImranR98/Obtainium)
 - [Octopi](https://octopiproject.wordpress.com/) — pacman GUI
 - [Patch My PC](https://patchmypc.com/home-updater) — Home Updater
 - [PkgBrowser](https://osdn.net/projects/pkgbrowser/) — OSDN
 - [Plasma / Discover · GitLab](https://invent.kde.org/plasma/discover)
+- [prateekmedia/appimagepool · GitHub](https://github.com/prateekmedia/appimagepool)
 - [RudraSwat/modren](https://github.com/rudraswat/modren) — A modern store for Linux users
 - [Shelly](https://www.seafoam-labs.org/shelly-alpm) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Seafoam-Labs/Shelly-ALPM) — Modern Arch Linux Package Manager
 - [shundhammer/myrlyn](https://github.com/shundhammer/myrlyn) — Myrlyn package manager GUI for Linux
 - [Sparkle project](https://sparkle-project.org/)
 - [SUMo](https://kcsoftwares.com/index.php?sumo) — KC Softwares
+- [Synaptic Wiki · GitHub](https://github.com/mvo5/synaptic)
 - [TuxMate](https://tuxmate.com/) — LINUX BULK APP INSTALLER
 - [ubuntu/app-center · GitHub](https://github.com/ubuntu/app-center)
 - [UbuntuDDE/dde-store · GitHub](https://github.com/UbuntuDDE/dde-store)
@@ -1350,6 +1466,8 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 #### Package Manager
 - ⭐ **[Package Manager](https://smartpack.github.io/PackageManager/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/SmartPack/PackageManager)
 - [Anaconda.com](https://www.anaconda.com/)
+- [APT Developers / apt · GitLab](https://salsa.debian.org/apt-team/apt)
+- [archlinux-downgrade/downgrade · GitHub](https://github.com/archlinux-downgrade/downgrade)
 - [asdf](https://asdf-vm.com/)
 - [Astral](https://astral.sh/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/astral-sh) — Next-gen Python tooling
 - [Aura](https://github.com/fosskers/aura) — AUR package manager
@@ -1367,18 +1485,23 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [conda-forge](https://conda-forge.org/) — community driven packaging for conda
 - [crates.io](https://crates.io/) — Rust Package Registry
 - [DNF (package manager)](https://dnf.readthedocs.io/en/latest/index.html#)
-- [Droid-ify](https://droidify.app/) — Clutterfree F-Droid Client
+- [Droid-ify](https://droidify.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Droid-ify/client) — Clutterfree F-Droid Client
 - [Flatpak](https://www.flatpak.org/)
 - [Fleek](https://getfleek.dev/) — Own Your $HOME
 - [freshrpms.net](https://freshrpms.net/)
 - [fsprojects/Paket · GitHub](https://github.com/fsprojects/Paket)
 - [Gdebi Download (DEB)](https://pkgs.org/download/gdebi)
 - [Go app package](https://go-app.dev/)
+- [hanzala123/arch2appimage · GitHub](https://github.com/hanzala123/arch2appimage)
+- [helixarch/debtap · GitHub](https://github.com/helixarch/debtap)
 - [Homebrew](https://brew.sh/)
+- [Homebrew/brew · GitHub](https://github.com/Homebrew/brew)
+- [Homebrew/homebrew-core · GitHub](https://github.com/Homebrew/homebrew-core)
 - [Keryx Project](https://launchpad.net/keryxproject) — Launchpad
 - [List of software package management systems](https://en.wikipedia.org/wiki/List_of_software_package_management_systems) — Wikipedia
 - [LykosAI/StabilityMatrix · GitHub](https://github.com/LykosAI/StabilityMatrix)
 - [MacPorts Project](https://www.macports.org/)
+- [macports/macports-ports · GitHub](https://github.com/macports/macports-ports)
 - [matlink/gplaycli](https://github.com/matlink/gplaycli) — Google Play Downloader via Command line
 - [microsoft/winget-pkgs · GitHub](https://github.com/microsoft/winget-pkgs)
 - [microsoft/wingetcli · GitHub](https://github.com/microsoft/winget-cli)
@@ -1405,10 +1528,11 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [RepoFlow](https://www.repoflow.io/) — Simplify Package Management
 - [RPM Fusion](https://rpmfusion.org/)
 - [RPM repository](https://rpmfind.net/linux/RPM/index.html)
+- [rpm-software-management/dnf · GitHub](https://github.com/rpm-software-management/dnf)
 - [rpm.org](https://rpm.org/)
 - [rudix-mac/rudix · GitHub](https://github.com/rudix-mac/rudix)
 - [Rye](https://rye-up.com/)
-- [Scoop.sh](https://scoop.sh/)
+- [Scoop.sh](https://scoop.sh/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/ScoopInstaller/Scoop)
 - [Soar docs](https://soar.qaidvoid.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/pkgforge/soar) — Package manager
 - [Synaptic (DEB, RPM)](https://pkgs.org/download/synaptic)
 - [Synaptic Package Manager](https://www.nongnu.org/synaptic/)
@@ -1431,18 +1555,49 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [Zypper package manager](https://documentation.suse.com/smart/linux/html/concept-zypper/index.html)
 
 ### Sys Administrator
-- [gsudo](https://gerardog.github.io/gsudo/)
+- [AleG03/awsm · GitHub](https://github.com/AleG03/awsm)
+- [alibaba/arthas · GitHub](https://github.com/alibaba/arthas)
+- [blueman-project/blueman · GitHub](https://github.com/blueman-project/blueman)
+- [ChrisTitusTech/linutil · GitHub](https://github.com/ChrisTitusTech/linutil)
+- [CodingWonders/DISMTools · GitHub](https://github.com/CodingWonders/DISMTools)
+- [coreutils/coreutils · GitHub](https://github.com/coreutils/coreutils)
+- [Duncaen/OpenDoas · GitHub](https://github.com/Duncaen/OpenDoas)
+- [EbonJaeger/bluejay](https://github.com/EbonJaeger/bluejay) — Bluetooth manager written in Qt
+- [gsudo](https://gerardog.github.io/gsudo/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/gerardog/gsudo)
+- [microsoft/sudo · GitHub](https://github.com/microsoft/sudo)
 - [microsoft/WindowsDeveloperConfig](https://github.com/microsoft/WindowsDeveloperConfig) — Automate the setup and configuration of your Windows development environment.
-- [Sudo](https://www.sudo.ws/)
+- [SDK / Heaptrack · GitLab](https://invent.kde.org/sdk/heaptrack)
+- [Sudo](https://www.sudo.ws/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/sudo-project/sudo)
+- [uutils/coreutils · GitHub](https://github.com/uutils/coreutils)
 
 ### System Tweaker
+- [AdnanHodzic/auto-cpufreq · GitHub](https://github.com/AdnanHodzic/auto-cpufreq)
+- [Ananicy Cpp / Ananicy Cpp · GitLab](https://gitlab.com/ananicy-cpp/ananicy-cpp)
+- [arcolinux/archlinux-tweak-tool · GitHub](https://github.com/arcolinux/archlinux-tweak-tool)
+- [ashenm/mobile-partner](https://github.com/ashenm/mobile-partner) — Optimises Mobile Partner for less resource usage
+- [asus-linux / asusctl · GitLab](https://gitlab.com/asus-linux/asusctl)
+- [beeradmoore/dlss-swapper · GitHub](https://github.com/beeradmoore/dlss-swapper)
 - [benjamimgois/goverlay](https://github.com/benjamimgois/goverlay) — Goverlay is an easy graphical interface to configure MangoHud, vkBasalt, and OptiScaler
 - [Chuyu-Team/Dism-Multi-language · GitHub](https://github.com/Chuyu-Team/Dism-Multi-language)
+- [DarQ · GitHub](https://github.com/KieronQuinn/DarQ)
+- [FeralInteractive/gamemode · GitHub](https://github.com/FeralInteractive/gamemode)
+- [hellzerg/optimizer](https://github.com/hellzerg/optimizer) — The finest Windows Optimizer
+- [iberianpig/fusuma · GitHub](https://github.com/iberianpig/fusuma)
+- [KTweak · GitHub](https://github.com/tytydraco/ktweak)
 - [LitePC Technologies](https://www.litepc.com/) — Utilities to customize and tweak Windows
 - [MSMG Toolkit](https://msmgtoolkit.in/)
 - [NTLite](https://www.ntlite.com/)
+- [Roberto Leinardi / GKraken · GitLab](https://gitlab.com/leinardi/gkraken)
+- [Roberto Leinardi / GreenWithEnvy · GitLab](https://gitlab.com/leinardi/gwe)
 - [SasNet Projects](https://sasnet.ovh/) — Windows Lite
+- [Shelter · Gitea](https://gitea.angry.im/PeterCxy/Shelter)
+- [sigmaSd/Stimulator · GitHub](https://github.com/sigmaSd/stimulator)
+- [systemd/zram-generator · GitHub](https://github.com/systemd/zram-generator)
+- [SystemXFiles/process-governor · GitHub](https://github.com/SystemXFiles/process-governor/)
+- [terrymacdonald/DisplayMagician](https://github.com/terrymacdonald/DisplayMagician) — DisplayMagician is an open source tool for automatically configuring your displays and sound for a game or application from a single Windows Shortcut.
+- [thebookisclosed/ViVe · GitHub](https://github.com/thebookisclosed/ViVe)
 - [Winaero Tweaker](https://winaerotweaker.com/)
+- [wotschofsky/sleep-timer · GitHub](https://github.com/wotschofsky/sleep-timer)
 
 ### Uninstall Software
 - ⭐ **[Geek Uninstaller](https://geekuninstaller.com/)**
@@ -1467,9 +1622,9 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [Cockpit Project](https://cockpit-project.org/)
 - [CPanel](https://www.cpanel.net/) — Web Hosting Control Panel & Server Management Tools
 - [CyberPanel](https://cyberpanel.net/) — Web Hosting Control Panel
-- [Dashy.to](https://dashy.to/)
+- [Dashy.to](https://dashy.to/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/lissy93/dashy)
 - [DataMiner by Skyline Communications](https://skyline.be/)
-- [Hestia Control Panel](https://hestiacp.com/) — Open-source web server control panel
+- [Hestia Control Panel](https://hestiacp.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/hestiacp/hestiacp) — Open-source web server control panel
 - [Hosting Control Panel by ispmanager](https://www.ispmanager.com/)
 - [Octobrowser](https://octobrowser.net/en/) — Multiaccount Browser
 - [Ortto](https://ortto.com/) — Customer Data, Messaging & Analytics Working Together
@@ -1518,6 +1673,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [Conecta Software](https://conectasoftware.com/)
 - [ConvertKit](https://convertkit.com/)
 - [DirectIQ](https://www.directiq.com/) — Email marketing automation
+- [gitroomhq/postiz-app · GitHub](https://github.com/gitroomhq/postiz-app)
 - [Kolsquare](https://www.kolsquare.com/en)
 - [MailerLite](https://www.mailerlite.com/)
 - [MobileAction](https://www.mobileaction.co/) — Growth partner of apps and games
@@ -1552,16 +1708,21 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [Cronitor.io](https://cronitor.io/)
 - [curl-loader](http://curl-loader.sourceforge.net/)
 - [Datadog](https://www.datadoghq.com/) — Cloud monitoring as a service
-- [Dozzle](https://dozzle.dev/)
+- [Dozzle](https://dozzle.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/amir20/dozzle)
+- [GitLab.org / grafana-dashboards · GitLab](https://gitlab.com/gitlab-org/grafana-dashboards)
 - [Grafana](https://grafana.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/grafana/grafana) — The open observability platform
+- [grafana/loki](https://github.com/grafana/loki) — Like Prometheus, but for logs
 - [Graylog](https://graylog.org/) — Industry Leading Log Management & SIEM
 - [Homarr](https://homarr.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/homarr-labs/homarr) — Dashboard of apps
+- [influxdata/telegraf](https://github.com/influxdata/telegraf) — Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
 - [Job monitoring](https://silencewatch.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/liliang-dev/SilenceWatch) — get alerted when a job stops
+- [kalaksi/lightkeeper · GitHub](https://github.com/kalaksi/lightkeeper)
 - [Kener](https://kener.ing/) — Open-Source and Modern-looking Node.js Status Page
 - [Sentry.io](https://sentry.io/welcome/)
 - [Sken.io](https://sken.io/) — The ultimate website checker. Monitor website changes
 - [SpeedCurve](https://www.speedcurve.com/)
 - [StackScout.io](https://stackscout.io/)
 - [The StoryGraph](https://thestorygraph.com/)
+- [upptime/upptime](https://github.com/upptime/upptime) — ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 - [UptimeRobot](https://uptimerobot.com/)
 - [wolfpld/tracy](https://github.com/wolfpld/tracy) — Frame profiler

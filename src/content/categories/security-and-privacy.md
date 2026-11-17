@@ -5,7 +5,7 @@ description: Password managers, cybersecurity, and web privacy
 
 # Security & Privacy
 
-**Total Bookmarks:** 310
+**Total Bookmarks:** 344
 
 - [Fight Chat Control](https://fightchatcontrol.eu/) — Protect Digital Privacy in the EU
 - [PrivacySpy](https://privacyspy.org/) — We track online privacy
@@ -19,6 +19,7 @@ description: Password managers, cybersecurity, and web privacy
 - [Bitdefender](https://www.bitdefender.com/) — Global Leader in Cybersecurity Software
 - [BullGuard](https://www.bullguard.com/)
 - [Check Point](https://www.checkpoint.com/)
+- [Cisco-Talos/clamav · GitHub](https://github.com/Cisco-Talos/clamav)
 - [Clamwin](http://www.clamwin.com/)
 - [Comodo](https://www.comodo.com/)
 - [CrowdStrike](https://www.crowdstrike.com/)
@@ -47,7 +48,7 @@ description: Password managers, cybersecurity, and web privacy
 ## Delete Account
 - [Accountkiller](https://www.accountkiller.com/en)
 - [Incogni](https://incogni.com/) — Personal Information Removal Service
-- [Just Delete Me](https://justdeleteme.xyz/)
+- [Just Delete Me](https://justdeleteme.xyz/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/jdm-contrib/jdm)
 
 ## DNS Filter
 - ⭐ **[Pi-hole](https://pi-hole.net/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/pi-hole/pi-hole) — Network wide Ad-blocking
@@ -58,7 +59,8 @@ description: Password managers, cybersecurity, and web privacy
 - [Control D](https://controld.com/)
 - [DNSFilter](https://www.dnsfilter.com/) — DNS Filtering Services: Security & Website Blocking
 - [DNSveil (formerly Secure DNS Client)](https://msasanmh.github.io/DNSveil/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/msasanmh/DNSveil)
-- [NextDNS](https://nextdns.io/)
+- [doubleangels/NextDNSManager · GitHub](https://github.com/doubleangels/NextDNSManager)
+- [NextDNS](https://nextdns.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/nextdns/nextdns)
 - [Rethink](https://rethinkdns.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/celzero/rethink-app) — Fast, secure, configurable, private DNS + Firewall for Android
 - [tsutsu3/pi-hole-client](https://github.com/tsutsu3/pi-hole-client) — Unofficial Pi-hole client
 - [WebTitan DNS filtering with AI threat protection & DNS security](https://www.titanhq.com/dns-filtering/)
@@ -94,9 +96,11 @@ description: Password managers, cybersecurity, and web privacy
 - [ZX2C4](https://www.zx2c4.com/)
 
 ## Firewall
+- [apernet/OpenGFW · GitHub](https://github.com/apernet/OpenGFW)
 - [deminimis/minimalfirewall](https://github.com/deminimis/minimalfirewall) — Minimal Firewall is a portable Windows firewall frontend that alerts users to internet connections without requiring custom kernel modifications or disabling core isolation, striking a balance between Window Defender's security and Simplewall's functionality.
 - [DynFi Firewall](https://dynfi.com/en/dynfi-firewall/)
 - [firewalld](https://firewalld.org/)
+- [firewalld/firewalld · GitHub](https://github.com/firewalld/firewalld)
 - [Free Firewall](https://www.evorim.com/en/free-firewall)
 - [Gufw Firewall](http://gufw.org/)
 - [henrypp/simplewal · GitHub](https://github.com/henrypp/simplewall)
@@ -106,7 +110,7 @@ description: Password managers, cybersecurity, and web privacy
 - [OpenGFW](https://gfw.dev/)
 - [OPNsense](https://opnsense.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/opnsense) — open-source firewall
 - [pfSense](https://www.pfsense.org/) — FOSS firewall
-- [Safing Portmaster](https://safing.io/)
+- [Safing Portmaster](https://safing.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/safing/portmaster)
 - [SmoothWall](https://smoothwall.org/)
 - [TinyWall](https://tinywall.pados.hu/) — A free, lightweight and non-intrusive firewall
 - [tnodir/fort](https://github.com/tnodir/fort) — Fort Firewall for Windows
@@ -131,20 +135,24 @@ description: Password managers, cybersecurity, and web privacy
 ## Password Manager
 - ⭐ **[Bitwarden](https://bitwarden.com/)**
 - ⭐ **[dani-garcia/vaultwarden · GItHub](https://github.com/dani-garcia/vaultwarden)**
-- ⭐ **[KeePassDX](https://keepassdx.com/)**
+- ⭐ **[KeePassDX](https://keepassdx.com/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/Kunzisoft/KeePassDX)
 - ⭐ **[KeePassXC](https://keepassxc.org/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/keepassxreboot/keepassxc) — Password Manager
 - [1Password](https://1password.com/) — Password Manager for Families, Businesses, Teams
 - [AliasVault](https://www.aliasvault.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/aliasvault/aliasvault)
+- [apple/password-manager-resources · GItHub](https://github.com/apple/password-manager-resources)
 - [Argon2](https://www.argon2.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/P-H-C/phc-winner-argon2)
 - [arsvechkarev/Vault](https://github.com/arsvechkarev/Vault) — Simple, fast, secure password manager
-- [AuthPass](https://authpass.app/)
+- [AuthPass](https://authpass.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/authpass/authpass)
 - [AuthPass](https://authpass.com/)
 - [Bitwarden Web Vault](https://vault.bitwarden.com/#/register)
+- [bitwarden/clients · GitHub](https://github.com/bitwarden/clients)
+- [bitwarden/server · GitHub](https://github.com/bitwarden/server)
 - [boazeb/papervault](https://github.com/boazeb/papervault) — Paper vault for passwords and secrets
 - [Catima](https://catima.app/) — Libre Card Wallet
+- [Cédric Bellegarde / SyncPassword · GitLab](https://gitlab.gnome.org/gnumdk/syncpasswd)
 - [Dashlane](https://www.dashlane.com/) — Password Manager
 - [Enpass](https://www.enpass.io/)
-- [gopass](https://www.gopass.pw/)
+- [gopass](https://www.gopass.pw/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/gopasspw/gopass)
 - [How Secure Is My Password?](https://howsecureismypassword.net/)
 - [Kee Vault](https://www.kee.pm/)
 - [Kee Vault](https://keevault.pm/) — Secure, Open source Password Management
@@ -158,6 +166,7 @@ description: Password managers, cybersecurity, and web privacy
 - [KeyStore Explorer](https://keystore-explorer.org/)
 - [Korovan](https://www.korovan.com/kpass) — KPass
 - [kpcli](https://kpcli.sourceforge.io/) — A command line interface for KeePass
+- [kpcli](https://sourceforge.net/projects/kpcli/) — SourceForge
 - [LastPass](https://www.lastpass.com/)
 - [Lemonade](https://lemonadepass.app/) — The Password Manager Developers Actually Need
 - [LessPass](https://www.lesspass.com/#/)
@@ -165,7 +174,7 @@ description: Password managers, cybersecurity, and web privacy
 - [mateusz-bak/openreads-android · GitHub](https://github.com/mateusz-bak/openreads-android)
 - [mihnea-radulescu/passwordsecure · GitHub](https://github.com/mihnea-radulescu/passwordsecure)
 - [my-passwords-app.com](https://www.my-passwords-app.com/)
-- [NewPass](https://www.newpass.solutions/)
+- [NewPass](https://www.newpass.solutions/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/6eero/NewPass)
 - [NordPassword](https://nordpass.com/)
 - [OneKeePass/desktop](https://github.com/OneKeePass/desktop) — A secure password manager
 - [oneSafe](https://www.onesafe-apps.com/)
@@ -187,9 +196,10 @@ description: Password managers, cybersecurity, and web privacy
 - [Rench321/sklad](https://github.com/Rench321/sklad) — Industrial-grade secure snippet warehouse for your system tray. 📦 Built with Rust (Tauri v2) & React. Offline-first, AES-256 encrypted, and recursive.
 - [RoboForm Password Manager](https://www.roboform.com/en/)
 - [RoboForm Password Manager](https://www.roboform.com/) — Best Password Manager for 2025
-- [Rot](https://rotx.dev/)
+- [Rot](https://rotx.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/candiddev/rot)
 - [SeineEloquenz/fosswallet](https://github.com/SeineEloquenz/fosswallet) — FOSS .pkpass wallet in Material Design 3
 - [Sophie Herold / Key Rack · GitLab](https://gitlab.gnome.org/sophie-h/key-rack)
+- [sous-chefs/hashicorp-vault · GitHub](https://github.com/sous-chefs/hashicorp-vault)
 - [Spectre](https://spectre.app/) — Passwords, Privacy-first
 - [Stocard](https://stocardapp.com/en/de) — Your mobile wallet
 - [True Key](https://www.truekey.com/)
@@ -201,7 +211,7 @@ description: Password managers, cybersecurity, and web privacy
 - [0din](https://0din.ai/) — The GenAI Bug Bounty Program
 - [C2Matrix](https://docs.google.com/spreadsheets/d/1b4mUxa6cDQuTV2BPC6aA-GR4zGZi0ooPYtBe4IgPsSc/edit?pli=1&gid=0#gid=0)
 - [cilock](https://cilock.aflock.ai/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/aflock-ai/rookery) — Build provenance, signed scan evidence, continuous compliance
-- [Firejail](https://firejail.wordpress.com/)
+- [Firejail](https://firejail.wordpress.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/netblue30/firejail)
 - [OATH Toolkit](https://oath-toolkit.codeberg.page/)
 - [Proton](https://proton.me/business/pass/breach-observatory) — Data Breach Observatory
 - [Security.org](https://www.security.org/) — Security Doesn't Have to be Complicated
@@ -227,27 +237,46 @@ description: Password managers, cybersecurity, and web privacy
 - [Sherlock Project](https://sherlock-project.github.io/)
 - [smicallef/spiderfoot · GitHub](https://github.com/smicallef/spiderfoot)
 - [sundowndev/phoneinfoga · GitHub](https://github.com/sundowndev/phoneinfoga)
+- [ThoughtfulDev/EagleEye · GitHub](https://github.com/ThoughtfulDev/EagleEye)
 - [WORLDVIEW](https://akashic.cavira.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/CaviraOSS/Akashic) — OSINT Platform
 
 ### PenTesting
+- [AICPS/Mic-E-Mouse](https://github.com/AICPS/Mic-E-Mouse) — Repository Containing Implementations and experiments related to the Mic-E-Mouse side-channel attack(s).
 - [Aircrack-ng](https://www.aircrack-ng.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/aircrack-ng/aircrack-ng)
 - [BeEF](http://beefproject.com/)
 - [CIRT.net](https://www.cirt.net/)
+- [evilsocket/legba · GitHub](https://github.com/evilsocket/legba)
 - [Fern-wifi-cracker · GitHub](https://github.com/savio-code/fern-wifi-cracker)
+- [gentilkiwi/mimikatz · GitHub](https://github.com/gentilkiwi/mimikatz)
 - [GitHub](https://github.com/PurpleAILAB/Decepticon) — PurpleAILAB/Decepticon: Autonomous Hacking Agent for Red Team · GitHub
+- [glv2/bruteforce-salted-openssl · GitHub](https://github.com/glv2/bruteforce-salted-openssl)
+- [hak5/bashbunny-payloads](https://github.com/hak5/bashbunny-payloads) — The Official Bash Bunny Payload Repository
 - [Hashcat](https://hashcat.net/hashcat/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/hashcat/hashcat) — advanced password recovery
+- [htr-tech/zphisher · GitHub](https://github.com/htr-tech/zphisher)
 - [Keygraph](https://keygraph.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/KeygraphHQ/shannon) — The Unified AppSec Platform
+- [Keytap](https://keytap.ggerganov.com/) — acoustic keyboard · GitHub
+- [MegaManSec/SSH-Snake· GitHub](https://github.com/MegaManSec/SSH-Snake)
 - [Metasploit](https://metasploit.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/rapid7/metasploit-framework) — Penetration Testing Software, Pen Testing Security
 - [niwciu/ModbusSniffer](https://github.com/niwciu/ModbusSniffer) — Modbus RTU packet sniffer with GUI
+- [nmap/ncrack · GitHub](https://github.com/nmap/ncrack)
 - [NVIDIA/garak](https://github.com/NVIDIA/garak) — the LLM vulnerability scanner
 - [Openwall](https://www.openwall.com/)
 - [openwall/john](https://www.openwall.com/john/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/openwall/john) — John the Ripper jumbo · GitHub
+- [Ophcrack](https://ophcrack.sourceforge.io/) — SourceForge
 - [Pixiewps](https://github.com/wiire-a/pixiewps)
 - [protectai/llm-guard](https://github.com/protectai/llm-guard) — The Security Toolkit for LLM Interactions
 - [Snort](https://www.snort.org/)
+- [stacksmashing/pico-tpmsniffer · GitHub](https://github.com/stacksmashing/pico-tpmsniffer)
 - [Strix](https://www.strix.ai/) — AI Penetration Testing & Autonomous Security
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) — A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+- [tgies/copy-fail-c](https://github.com/tgies/copy-fail-c) — Cross-platform C port of the Copy Fail Linux LPE (CVE-2026-31431). Disclosed 2026-04-29 by Theori / Xint.
+- [TheRook/subbrute](https://github.com/TheRook/subbrute) — A DNS meta-query spider that enumerates DNS records, and subdomains
+- [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper?tab=readme-ov-file) — Playground (and dump) of stuff I make or modify for the Flipper Zero
+- [unode/firefox_decrypt · GItHub](https://github.com/Unode/firefox_decrypt/)
 - [v1s1t0r1sh3r3/airgeddon · GitHub](https://github.com/v1s1t0r1sh3r3/airgeddon)
+- [vanhauser-thc/thc-hydra · GitHub](https://github.com/vanhauser-thc/thc-hydra)
+- [vulhub/vulhub · GitHub](https://github.com/vulhub/vulhub)
+- [YoteZip/LinuxCrackingBible](https://github.com/YoteZip/LinuxCrackingBible) — A thorough guide to defeating DRM on Linux
 - [zakirkun/deep-eye](https://github.com/zakirkun/deep-eye) — An advanced AI-driven vulnerability scanner and penetration testing tool
 
 ### RockYou
@@ -287,11 +316,14 @@ description: Password managers, cybersecurity, and web privacy
 - [IVPN](https://www.ivpn.net/)
 - [juanfont/headscale · GitHub](https://github.com/juanfont/headscale)
 - [Mozilla VPN](https://www.mozilla.org/en-US/products/vpn/?entrypoint_experiment=vpn-pricing-position&entrypoint_variation=2)
-- [Mullvad VPN](https://mullvad.net/en/) — Privacy is a universal right
+- [mozilla-mobile/mozilla-vpn-client · GitHub](https://github.com/mozilla-mobile/mozilla-vpn-client)
+- [Mullvad VPN](https://mullvad.net/en/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/mullvad/mullvadvpn-app) — Privacy is a universal right
 - [neocturne/fastd](https://github.com/neocturne/fastd) — Fast and Secure Tunnelling Daemon
-- [Netmaker](https://www.netmaker.io/) — Wireguard VPN & Software Defined Networking
+- [Netmaker](https://www.netmaker.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/gravitl/netmaker) — Wireguard VPN & Software Defined Networking
+- [NordSecurity/nordvpn-linux · GitHub](https://github.com/NordSecurity/nordvpn-linux)
 - [NordVPN](https://nordvpn.com/) — The best online VPN service for speed and security
 - [Nym](https://nymtech.net/) — The Next Generation of Privacy Infrastructure
+- [nymtech/nym · GitHub](https://github.com/nymtech/nym)
 - [Obscura VPN](https://obscura.net/) — Privacy that’s more than a promise
 - [Obscura VPN](https://obscura.com/) — Privacy that’s more than a promise
 - [OpenVPN](https://openvpn.net/)
@@ -312,6 +344,8 @@ description: Password managers, cybersecurity, and web privacy
 - [Tailscale](https://tailscale.com/) — VPN service for networks
 - [The Tor Project / Applications / vpn · GitLab](https://gitlab.torproject.org/tpo/applications/vpn)
 - [tinc VPN](https://www.tinc-vpn.org/)
+- [tonarino/innernet · GitHub](https://github.com/tonarino/innernet)
+- [tor](https://gitweb.torproject.org/tor.git) — Tor's source code
 - [TorGuard](https://torguard.net/)
 - [Touch VPN](https://www.touchvpn.net/)
 - [TunnelBear](https://www.tunnelbear.com/)

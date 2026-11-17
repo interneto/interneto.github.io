@@ -5,7 +5,7 @@ description: Stores, marketplaces, product research, and resale
 
 # Business & Commerce
 
-**Total Bookmarks:** 5125
+**Total Bookmarks:** 5128
 
 
 ## Corporation
@@ -129,7 +129,7 @@ description: Stores, marketplaces, product research, and resale
 - [Google.org](https://www.google.org/)
 - [Grow with Google](https://grow.google/intl/)
 - [ReadAlong.Google](https://readalong.google/)
-- [Research.google](https://research.google/)
+- [Research.google](https://research.google/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/google-research/google-research)
 - [Safety.Google](https://safety.google/)
 - [search.google](https://search.google/)
 - [Teachable Machine](https://teachablemachine.withgoogle.com/)
@@ -200,7 +200,7 @@ description: Stores, marketplaces, product research, and resale
 - [Apple](https://www.apple.com/apps/) — apps
 - [Apple](https://locate.apple.com/) — Find Locations
 - [Apple](https://investor.apple.com/investor-relations/default.aspx) — Investor Relations
-- [Apple](https://opensource.apple.com/) — Open Source
+- [Apple](https://opensource.apple.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/apple/darwin-xnu) — Open Source
 - [Apple Developer](https://developer.apple.com/)
 - [Apple ID](https://appleid.apple.com/)
 - [Apple News+](https://www.apple.com/apple-news)
@@ -344,6 +344,7 @@ description: Stores, marketplaces, product research, and resale
 - [Mozilla Dot Design](https://mozilla.design/)
 - [Mozilla FTP](https://ftp.mozilla.org/)
 - [Mozilla Labs](https://newproducts.mozilla.org/)
+- [Mozilla Mercurial](https://hg.mozilla.org/)
 - [Mozilla Mixed Reality](https://mixedreality.mozilla.org/)
 - [Mozilla Observatory](https://observatory.mozilla.org/)
 - [Mozilla People Directory](https://people.mozilla.org/)
@@ -962,7 +963,7 @@ description: Stores, marketplaces, product research, and resale
 - [Zoopla](https://www.zoopla.co.uk/)
 
 #### Self Publishing
-- ⭐ **[Gumroad](https://gumroad.com/)**
+- ⭐ **[Gumroad](https://gumroad.com/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/antiwork/gumroad)
 - [Amazon Wishlist](https://www.amazon.com/hz/wishlist/intro)
 - [DiggyPOD](https://www.diggypod.com/)
 - [Lulu](https://www.lulu.com/)
@@ -2736,7 +2737,7 @@ description: Stores, marketplaces, product research, and resale
 - [Majestic Analytics](https://majesticanalytics.com/)
 - [MarketResearch](https://www.marketresearch.com/)
 - [Mergr](https://mergr.com/)
-- [OpenBB](https://openbb.co/) — Investment Research
+- [OpenBB](https://openbb.co/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/openbq-org/OpenBB) — Investment Research
 - [Plum Analytics](https://plumanalytics.com/)
 - [Techrate](https://techrate.org/)
 - [User Agents Analysis](https://udger.com/)
@@ -2820,6 +2821,7 @@ description: Stores, marketplaces, product research, and resale
 - [Ahrefs](https://ahrefs.com/)
 - [BlogSEO](https://www.blogseo.io/)
 - [Dataforseo](https://dataforseo.com/)
+- [hilmanski/contentswift · GitHub](https://github.com/hilmanski/contentswift)
 - [Instagram Automation Tool](https://inflact.com/)
 - [Moz](https://moz.com/) — SEO Software for Smarter Marketing
 - [OpenSEO](https://openseo.so/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/every-app/open-seo) — Open Source SEO Platform
@@ -4024,6 +4026,7 @@ description: Stores, marketplaces, product research, and resale
 - [EHang](https://www.ehang.com/)
 - [Freefly Systems](https://freeflysystems.com/)
 - [Kespry](https://kespry.com/)
+- [mavlink/qgroundcontrol · GitHub](https://github.com/mavlink/qgroundcontrol)
 - [Ouster](https://ouster.com/)
 - [Parrot](https://www.parrot.com/us/)
 - [Parrot](https://www.parrot.com/en)
@@ -4196,7 +4199,7 @@ description: Stores, marketplaces, product research, and resale
 - [Deta.sh](https://www.deta.sh/)
 - [Digital Realty](https://www.digitalrealty.com/)
 - [DNS.com](https://www.dns.com/)
-- [Dokploy](https://dokploy.com/) — Effortless Deployment Solutions
+- [Dokploy](https://dokploy.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Dokploy/dokploy) — Effortless Deployment Solutions
 - [Domo.com](https://www.domo.com/)
 - [Edgio.io](https://edg.io/)
 - [ExtraHop](https://www.extrahop.com/) — Cloud-Native Network Detection and Response
@@ -4275,7 +4278,7 @@ description: Stores, marketplaces, product research, and resale
 - [500apps SaaS](https://500apps.com/)
 - [BigCommerce](https://www.bigcommerce.com/)
 - [Foxintelligence](https://www.foxintelligence.io/)
-- [Halo](https://www.halo.run/) — 强大易用的开源建站工具
+- [Halo](https://www.halo.run/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/halo-dev/halo) — 强大易用的开源建站工具
 - [Kibi.one](https://www.kibi.one/)
 - [Markbase](https://www.markbase.xyz/)
 - [Mixa](https://mixasite.com/) — Build, Customize, and Optimize Your Website Effortlessly
@@ -4283,7 +4286,7 @@ description: Stores, marketplaces, product research, and resale
 - [Pipedrive](https://www.pipedrive.com/es-es)
 - [platform.sh](https://platform.sh/)
 - [ProProfs](https://www.proprofs.com/)
-- [StackQL](https://stackql.io/)
+- [StackQL](https://stackql.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/stackql/stackql)
 - [Sumo Logic](https://www.sumologic.com/)
 
 ##### Cybersecurity Enterprise
@@ -4861,7 +4864,7 @@ description: Stores, marketplaces, product research, and resale
 - [LMSYS Org](https://lmsys.org/)
 - [Loss Landscape](https://losslandscape.com/)
 - [Manifold](https://www.manifold.ai/)
-- [Marqo](https://www.marqo.ai/) — Tensor-based Search and Analytics engine
+- [Marqo](https://www.marqo.ai/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/marqo-ai/marqo) — Tensor-based Search and Analytics engine
 - [Martian](https://withmartian.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/withmartian) — Understanding Intelligence
 - [MEGVII](https://megvii.com/)
 - [Meta AI](https://ai.meta.com/)

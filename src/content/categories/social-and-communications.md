@@ -5,7 +5,7 @@ description: Email, messaging, forums, social networks, and video conferencing
 
 # Social & Communications
 
-**Total Bookmarks:** 1306
+**Total Bookmarks:** 1379
 
 
 ## 2FA
@@ -23,6 +23,7 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [Ente Auth](https://ente.io/auth/) — Open source 2FA authenticator, with E2EE backups
 - [FreeOTP](https://freeotp.github.io/)
 - [helloworld1/FreeOTPPlus · GItHub](https://github.com/helloworld1/FreeOTPPlus)
+- [keyoxide/keyoxide-web](https://codeberg.org/keyoxide/keyoxide-web) — Codeberg
 - [mariinkys/clockode](https://github.com/mariinkys/clockode) — Minimal TOTP client made with Iced
 - [Open Authenticator](https://openauthenticator.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Skyost/OpenAuthenticator)
 - [OpenOTP](https://openotp.lol/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/itsvelle/OpenOTP) — Open Source 2FA Authenticator
@@ -31,7 +32,7 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [Raivo OTP](https://raivo-otp.com/) — Simply the best authenticator
 - [Robert-Stackflow/CloudOTP · GitHub](https://github.com/Robert-Stackflow/CloudOTP)
 - [Stack](https://stack-auth.com/)
-- [Tofu Authenticator for iOS](https://tofuauth.com/)
+- [Tofu Authenticator for iOS](https://tofuauth.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/iKenndac/Tofu)
 - [Utilities / Keysmith · GitLab](https://invent.kde.org/utilities/keysmith)
 - [winauth/winauth · GitHub](https://github.com/winauth/winauth?utm_source=chatgpt.com)
 - [World / Authenticator · GitLab](https://gitlab.gnome.org/World/Authenticator)
@@ -40,6 +41,8 @@ description: Email, messaging, forums, social networks, and video conferencing
 
 ## Chat Client
 - ⭐ **[WebCord · GitHub](https://github.com/SpacingBat3/WebCord)**
+- [antirez/smallchat · GitHub](https://github.com/antirez/smallchat)
+- [ArmCord/ArmCord · GitHub](https://github.com/ArmCord/ArmCord)
 - [Axolotl.chat](https://axolotl.chat/)
 - [Beeper](https://www.beeper.com/) — All your chats in one app
 - [BirdyChat](https://www.birdy.chat/) — Work Chat & Productivity
@@ -50,12 +53,13 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [Cinny](https://cinny.in/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/cinnyapp/cinny)
 - [Conduit](https://conduit.rs/) — Your own chat server
 - [diamondburned/gtkcord4 · GitHub](https://github.com/diamondburned/gtkcord4)
-- [Dino. Communicating happiness.](https://dino.im/)
+- [Dino. Communicating happiness.](https://dino.im/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/dino/dino)
 - [Fedilab](https://fedilab.app/)
 - [Fosscord](https://fosscord.com/) — For better and secure communication
 - [Gajim](https://gajim.org/)
 - [Hyperspace marquiskurt](https://hyperspace.marquiskurt.net/)
 - [Kaidan](https://www.kaidan.im/)
+- [kkuchta/css-only-chat · GitHub](https://github.com/kkuchta/css-only-chat)
 - [LAN Messenger](https://lanmsngr.sourceforge.net/)
 - [Libera Chat](https://web.libera.chat/)
 - [Lith app](https://lith.app/)
@@ -63,15 +67,20 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [MQTT X](https://mqttx.app/)
 - [NekoX-Dev/NekoX · GitHub](https://github.com/NekoX-Dev/NekoX)
 - [NeoChat](https://apps.kde.org/neochat/)
+- [Network / Kaidan · GitLab](https://invent.kde.org/network/kaidan)
+- [Network / NeoChat · GitLab](https://invent.kde.org/network/neochat)
+- [Network / Ruqola · GitLab](https://invent.kde.org/network/ruqola)
 - [Phanpy](https://phanpy.social/)
 - [Pinafore](https://pinafore.social/)
 - [qwebirc project](https://qwebirc.org/)
+- [revoltchat/revite · GitHub](https://github.com/revoltchat/revite)
 - [Ripcord](https://cancel.fm/ripcord/) — Desktop Chat Client
 - [SchildiChat](https://schildi.chat/)
 - [takesama](https://takesama.com/)
 - [TruncatedDinosour/arigram · GitHub](https://github.com/TruncatedDinosour/arigram)
-- [Tuba](https://tuba.geopjr.dev/)
+- [Tuba](https://tuba.geopjr.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/GeopJr/Tuba)
 - [Tusky](https://tusky.app/) — Mastodon client for Android
+- [World / fractal · GitLab](https://gitlab.gnome.org/World/fractal)
 - [ZapFast](https://zapfast.rocks/)
 
 ### IRC Server
@@ -105,7 +114,7 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [XChat](http://xchat.org/)
 
 ## Download Manager
-- ⭐ **[AB Download Manager](https://abdownloadmanager.com/)**
+- ⭐ **[AB Download Manager](https://abdownloadmanager.com/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/amir1376/ab-download-manager)
 - [AFTVnews](https://www.aftvnews.com/downloader/) — Android and Fire TV News, Guides, Apps, and Deals
 - [aria2](https://aria2.github.io/)
 - [belaviyo/download-with](https://github.com/belaviyo/download-with) — A set of extensions to ease the integration with an external download manager
@@ -122,19 +131,20 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [pyLoad](https://pyload.net/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/pyload/pyload)
 - [tharunbirla/FetchIt](https://github.com/tharunbirla/FetchIt) — FetchIt is an Android application that makes downloading videos from a wide variety of platforms easy and efficient. Whether saving videos from popular social media, streaming sites, or video platforms.
 - [Turbo Download Manager (3rd Edition)](https://webextension.org/listing/turbo-download-manager-v2.html)
-- [Xtreme Download Manager](https://xtremedownloadmanager.com/)
+- [Xtreme Download Manager](https://xtremedownloadmanager.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/subhra74/xdm)
 - [YTD](https://www.ytddownloader.com/en/) — Free Video Downloads
 
 ### Client Downloader
 - ⭐ **[Soulseek](https://www.slsknet.org/news/)**
 - [DC++](https://dcplusplus.sourceforge.io/) — SourceForge
-- [FreeTube](https://freetubeapp.io/) — The private YouTube Client
+- [DC++](https://sourceforge.net/projects/dcplusplus/) — SourceForge
+- [FreeTube](https://freetubeapp.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/FreeTubeApp/FreeTube) — The private YouTube Client
 - [gMTP](https://gmtp.sourceforge.io/) — Media Player Client
 - [JunkFood02/Seal · GitHub](https://github.com/JunkFood02/Seal)
 - [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) — :cake: Desktop utility to download images/videos/music/text from various websites, and more.
 - [mikf/gallery-dl](https://github.com/mikf/gallery-dl) — Command-line program to download image galleries and collections from several image hosting sites
 - [Minitube](https://flavio.tordini.org/minitube)
-- [Motrix](https://motrix.app/)
+- [Motrix](https://motrix.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/agalwood/Motrix)
 - [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic) — Download web video and audio
 - [Nicotine+](https://nicotine-plus.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/nicotine-plus/nicotine-plus)
 - [Pipe-viewer · GitHub](https://github.com/trizen/pipe-viewer)
@@ -143,11 +153,13 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [Sftube · GitHub](https://github.com/prateekmedia/sftube)
 - [Streamlink](https://streamlink.github.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/streamlink/streamlink)
 - [tonikelope/megabasterd · GitHub](https://github.com/tonikelope/megabasterd)
+- [wkentaro/gdown · GitHub](https://github.com/wkentaro/gdown)
 - [ytDownloader](https://ytdn.netlify.app/) — netlify
+- [ziahamza/webui-aria2 · GitHub](https://github.com/ziahamza/webui-aria2)
 
 #### BitTorrent Client
-- ⭐ **[qBittorrent](https://www.qbittorrent.org/)**
-- ⭐ **[Transmission](https://transmissionbt.com/)**
+- ⭐ **[qBittorrent](https://www.qbittorrent.org/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/qbittorrent/qBittorrent)
+- ⭐ **[Transmission](https://transmissionbt.com/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/transmission/transmission)
 - ⭐ **[Webtor.io](https://webtor.io/#/)** — Download and play torrents
 - ⭐ **[WebTorrent](https://webtorrent.io/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/webtorrent/webtorrent) — Streaming browser torrent client
 - [alanmcgovern/monotorrent · GitHub](https://github.com/alanmcgovern/monotorrent)
@@ -173,8 +185,10 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [KTorrent](https://apps.kde.org/ktorrent/)
 - [Libretorrent · GitLab](https://gitlab.com/proninyaroslav/libretorrent)
 - [libtorrent](https://www.libtorrent.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/arvidn/libtorrent)
+- [Network / KTorrent · GitLab](https://invent.kde.org/network/ktorrent)
 - [PicoTorrent](https://picotorrent.org/)
 - [Popcorn-desktop](https://github.com/popcorn-official/popcorn-desktop)
+- [qBittorrent · SourceForge](https://sourceforge.net/projects/qbittorrent/)
 - [qui](https://getqui.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/autobrr/qui)
 - [rakshasa/rtorrent · GitHub](https://github.com/rakshasa/rtorrent)
 - [Tixati.com](https://www.tixati.com/)
@@ -186,7 +200,7 @@ description: Email, messaging, forums, social networks, and video conferencing
 
 #### Usenet Client
 - ⭐ **[Medusa](https://pymedusa.com/)**
-- ⭐ **[SickChill](https://sickchill.github.io/)**
+- ⭐ **[SickChill](https://sickchill.github.io/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/SickChill/sickchill)
 - [animetosho/Nyuu · GitHub](https://github.com/animetosho/Nyuu)
 - [Bazarr](https://www.bazarr.media/)
 - [CouchPotato/CouchPotatoServer · GitHub](https://github.com/CouchPotato/CouchPotatoServer/)
@@ -198,7 +212,7 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [NZBGet](https://nzbget.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/nzbgetcom/nzbget) — The Ultimate NZB Client
 - [NZBGet](https://nzbget.net/) — Usenet downloader
 - [Prowlarr/Prowlarr · GitHub](https://github.com/Prowlarr/Prowlarr/)
-- [Readarr](https://readarr.com/)
+- [Readarr](https://readarr.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Readarr/Readarr)
 - [rembo10/headphones](https://github.com/rembo10/headphones) — music downloader for SABnzbd
 - [SABnzbd](https://sabnzbd.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/sabnzbd/sabnzbd)
 - [SchizoDuckie/DuckieTV · GitHub](https://github.com/SchizoDuckie/DuckieTV)
@@ -237,7 +251,9 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [Har-tools · GitHub](https://github.com/outersky/har-tools)
 - [Image downloader](https://chromewebstore.google.com/detail/image-downloader-imageye/agionbommeaifngbhincahgmoflcikhm) — Imageye - Chrome Web Store
 - [Imageye](https://www.imageye.net/) — From Any Site
+- [manojkarthick/reddsaver · GitHub](https://github.com/manojkarthick/reddsaver)
 - [Online Image Downloader](https://goonlinetools.com/online-image-downloader/)
+- [ostrolucky/Simple-Subreddit-Image-Downloader · GitHub](https://github.com/ostrolucky/Simple-Subreddit-Image-Downloader)
 - [Pac interactive](https://pactinteractive.github.io/image-downloader/) — image downloader
 - [pinbackit/pinback](https://github.com/pinbackit/pinback) — Backup and export bookmarklet for Pinterest
 - [RipMeApp/ripme · GitHub](https://github.com/RipMeApp/ripme)
@@ -263,6 +279,7 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [MP3Juices](https://mp3juicemusic.site/)
 - [MP3teca](https://mp3teca.com/)
 - [MP3XD](https://mp3xd.be/)
+- [Shabinder/SpotiFlyer · GitHub](https://github.com/Shabinder/SpotiFlyer)
 - [Slider.kz](https://slider.kz/)
 - [SonarMP3](https://v1.sonarmp3.net/)
 - [SoulSync](https://ssync.net/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Nezreka/SoulSync) — Automated Music Discovery and Collection Manager
@@ -291,6 +308,7 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [By Click Downloader](https://www.byclickdownloader.com/)
 - [chandler-stimson/live-stream-downloader](https://github.com/chandler-stimson/live-stream-downloader) — Download M3U8 live streams to the local disk
 - [ClipGrab](https://clipgrab.de/)
+- [DapperCore/reddit-video-downloader · GitHub](https://github.com/DapperCore/reddit-video-downloader)
 - [Download videos from Dailymotion](https://dmvideo.download/)
 - [Downvideo.net](https://downvideo.net/)
 - [DVDVideoSoft.com](https://www.dvdvideosoft.com/en1)
@@ -307,6 +325,7 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [Instagram Video Downloader](https://indown.io/)
 - [Internet Download Manager](https://www.internetdownloadmanager.com/)
 - [iTubeGo](https://itubego.com/en59/)
+- [JoeanAmier/TikTokDownloader · GitHub](https://github.com/JoeanAmier/TikTokDownloader)
 - [Keepvid](https://keepv.id/39/)
 - [MediaHuman](https://www.mediahuman.com/en16/)
 - [MediaTools](https://mediatools.cc/)
@@ -368,6 +387,7 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [IG Downloader](https://igdownloader.app/en)
 - [Igram.io](https://igram.io/)
 - [InstagramDownloads](https://instagramdownloads.com/)
+- [instaloader/instaloader.github.io · GitHub](https://github.com/instaloader/instaloader.github.io)
 - [SaveInsta](https://saveinsta.app/en1) — Download Instagram Video
 - [Snapinsta](https://snapinsta.app/)
 - [Sssinstagram](https://sssinstagram.com/)
@@ -424,12 +444,15 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [GitHub](https://github.com/Phoenixx1202/Spectrum-Library) — Phoenixx1202/Spectrum-Library · GitHub
 - [Lidarr](https://lidarr.audio/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Lidarr/Lidarr)
 - [Prowlarr](https://prowlarr.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Prowlarr/Prowlarr)
+- [pymedusa/Medusa · GitHub](https://github.com/pymedusa/Medusa)
 - [Radarr.video](https://radarr.video/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Radarr/Radarr)
+- [SiCKRAGE / sickrage · GitLab](https://git.sickrage.ca/SiCKRAGE/sickrage)
+- [TRaSH-/Guides · GitHub](https://github.com/TRaSH-/Guides)
 - [Whisparr](https://whisparr.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Whisparr/Whisparr)
 
 ### Web Crawler
 - ⭐ **[AAndyProgram/SCrawler · GitHub](https://github.com/AAndyProgram/SCrawler)**
-- [cobalt.tools](https://cobalt.tools/)
+- [cobalt.tools](https://cobalt.tools/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/imputnet/cobalt)
 - [Common Crawl](https://commoncrawl.org/)
 - [Crawl4AI Documentation (v0.5.x)](https://docs.crawl4ai.com/)
 - [Firecrawl](https://www.firecrawl.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/firecrawl/firecrawl)
@@ -489,7 +512,7 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [Mailinator](https://www.mailinator.com/)
 - [Mailo, the mail service which respects you](https://www.mailo.com/)
 - [MailPal](https://mailpal.cc/) — Email Forwarding
-- [Mailspring](https://getmailspring.com/)
+- [Mailspring](https://getmailspring.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Foundry376/Mailspring)
 - [Mailtrack](https://mailtrack.io/)
 - [Outlook](https://outlook.live.com/mail)
 - [posta.it](https://posta.it/)
@@ -553,13 +576,15 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [Clean Email Inbox](https://clean.email/) — Organize, Unsubscribe, Delete Emails Easily
 - [Edison Mail](https://www.edisonmail.com/)
 - [eM Client](https://www.emclient.com/) — Email Client and Calendar Software for Windows and Mac
+- [exander77/proton-bridge-android](https://github.com/exander77/proton-bridge-android)
 - [FairEmail](https://email.faircode.eu/)
+- [GNOME / evolution · GitLab](https://gitlab.gnome.org/GNOME/evolution)
 - [HEY.com](https://www.hey.com/)
 - [Hushmail](https://www.hushmail.com/)
 - [Interlink Mail](https://binaryoutcast.com/projects/interlink/) — Binary Outcast
 - [K-9 Mail](https://k9mail.app/)
 - [Kiwi for Gmail](https://www.kiwiforgmail.com/)
-- [Mail-in-a-Box](https://mailinabox.email/)
+- [Mail-in-a-Box](https://mailinabox.email/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/mail-in-a-box/mailinabox)
 - [Mailbird](https://www.getmailbird.com/)
 - [MailMate](https://freron.com/)
 - [Mailtrack](https://mailtrack.io/en)
@@ -576,6 +601,8 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [Superhuman](https://superhuman.com/)
 - [Talanoa](https://talanoa.email/) — Inbox built for efficiency
 - [The Power Email App](https://www.postbox-inc.com/)
+- [thunderbird/k-9 · GitHub](https://github.com/thunderbird/k-9)
+- [thundernest/k-9 · GitHub](https://github.com/thundernest/k-9)
 - [TypeApp](https://typeapp.com/)
 - [vladimiry/ElectronMail · GitHub](https://github.com/vladimiry/ElectronMail/)
 - [Zero email](https://0.email/)
@@ -621,18 +648,22 @@ description: Email, messaging, forums, social networks, and video conferencing
 
 ### Decentralized Networks
 - ⭐ **[Fediverse](https://fediverse.party/en/miscellaneous)** — All networks
+- [~mediagoblin/mediagoblin · SourceHut](https://git.sr.ht/~mediagoblin/mediagoblin)
+- [~tsileo/microblog.pub · SourceHut](https://git.sr.ht/~tsileo/microblog.pub/)
 - [ActivityPub Rocks!](https://activitypub.rocks/)
 - [Aether](https://getaether.net/)
 - [Akkoma](https://akkoma.social/) — Magically Expressive Social Media
 - [cohost!](https://cohost.org/rc/welcome)
 - [Confidential Compute Open Network](https://cocoon.org/)
 - [Contentos.io](https://www.contentos.io/)
-- [Corteza](https://cortezaproject.org/) — Low-code app
+- [coracle-social/coracle · GitHub](https://github.com/coracle-social/coracle)
+- [Corteza](https://cortezaproject.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/cortezaproject/corteza) — Low-code app
 - [Diaspora](https://joindiaspora.com/)
 - [Diaspora](https://diasporafoundation.org/)
 - [Diaspora social](https://diasp.org/)
 - [Distributed social networking](https://en.wikipedia.org/wiki/Comparison_of_software_and_protocols_for_distributed_social_networking)
 - [DTF.ru](https://dtf.ru/)
+- [Famedly / Conduit · GitLab](https://gitlab.com/famedly/conduit)
 - [Fediverse](https://en.wikipedia.org/wiki/Fediverse)
 - [Fediverse Observer](https://fediverse.observer/)
 - [Fediverse.Party](https://fediverse.party/) — explore federated networks
@@ -640,7 +671,7 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [forgefriends](https://forgefriends.org/)
 - [Free to Find Truth](https://freetofindtruth.com/wp-login.php)
 - [Freenet](https://freenet.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/freenet)
-- [Friendica](https://friendi.ca/)
+- [Friendica](https://friendi.ca/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/friendica/friendica)
 - [Funkwhale](https://funkwhale.audio/)
 - [Gab Social](https://gab.com/)
 - [Gancio agenda](https://gancio.org/)
@@ -648,6 +679,7 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [GNU social](https://gnusocial.network/)
 - [GNUnet](https://www.gnunet.org/en/)
 - [Guppe Groups](https://a.gup.pe/)
+- [hjiangsu/thunder · GitHub](https://github.com/hjiangsu/thunder)
 - [Holo.social](https://holos.social/) — Fediverse Relay
 - [Hubzilla](https://hubzilla.org/page/info/discover)
 - [hubzilla / core · GitLab](https://framagit.org/hubzilla/core)
@@ -662,6 +694,7 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [lotide](https://narwhal.city/) — Federated Forum
 - [MediaGoblin](https://mediagoblin.org/)
 - [Meshtastic](https://meshtastic.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/meshtastic)
+- [mikedilger/gossip · GitHub](https://github.com/mikedilger/gossip)
 - [Minds.com](https://www.minds.com/discovery/top) — Top
 - [Misskey](https://join.misskey.page/en-US/)
 - [Movim](https://movim.eu/)
@@ -669,18 +702,21 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [Olas](https://olas.network/) — Co-own AI
 - [Open-Mesh](https://www.open-mesh.org/projects/open-mesh/wiki) / [🔗](https://git.open-mesh.org/batman-adv.git)
 - [PeakD](https://peakd.com/)
-- [PeerTube](https://joinpeertube.org/)
+- [PeerTube](https://joinpeertube.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Chocobozzz/PeerTube)
 - [Pleroma](https://pleroma.social/)
 - [Plume](https://joinplu.me/)
 - [Potato Meshtastic](https://potatomesh.net/)
 - [Pravica.io](https://pravica.io/)
+- [raikasdev/mastopoet · GitHub](https://github.com/raikasdev/mastopoet)
 - [Reticulum Network](https://reticulum.network/)
-- [Retroshare](https://retroshare.cc/)
+- [Retroshare](https://retroshare.cc/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/RetroShare/RetroShare)
 - [Robonomics Network](https://robonomics.network/)
 - [Scuttlebutt](https://scuttlebutt.nz/)
 - [SkoHub](https://skohub.io/)
 - [Social](https://apps.nextcloud.com/apps/social) — Nextcloud
 - [Stereophonic](https://stereophonic.space/about)
+- [superseriousbusiness/gotosocial · GitHub](https://github.com/superseriousbusiness/gotosocial)
+- [toddsundsted/ktistec](https://github.com/toddsundsted/ktistec) — Single user ActivityPub server · GitHub
 - [twister](http://twister.net.co/)
 - [Zap](https://zotlabs.org/page/zap/zap)
 - [Zigbee2MQTT](https://www.zigbee2mqtt.io/)
@@ -1014,20 +1050,23 @@ description: Email, messaging, forums, social networks, and video conferencing
 - ⭐ **[bitchat](https://bitchat.free/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/permissionlesstech/bitchat)
 - ⭐ **[Briar](https://briarproject.org/)** — Secure messaging, anywhere
 - ⭐ **[Discord](https://discord.com/)** — Group Chat That's All Fun & Games
-- ⭐ **[SimpleX Chat](https://simplex.chat/)**
+- ⭐ **[SimpleX Chat](https://simplex.chat/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/simplex-chat/simplex-chat)
 - ⭐ **[Telegram](https://telegram.org/)** — a new era of messaging
 - [Adium](https://adium.im/)
 - [balzack/databag · GitHub](https://github.com/balzack/databag)
 - [Berty.tech](https://berty.tech/)
 - [BlueBubbles](https://bluebubbles.app/) — iMessage
 - [Brax.Me](https://brax.me/)
+- [briar / briar · GitLab](https://code.briarproject.org/briar/briar)
 - [Bridgefy](https://bridgefy.me/) — Offline Messages App & SDK
 - [Clubhouse](https://www.clubhouse.com/)
 - [CoyIM](https://coy.im/)
 - [Cwtch](https://cwtch.im/)
 - [Delta Chat](https://delta.chat/en/) — e.mail messanger
 - [dismail.de](https://dismail.de/)
+- [DrKLO/Telegram](https://github.com/DrKLO/Telegram) — Telegram for Android source
 - [Element.io](https://element.io/) — Secure collaboration and messaging
+- [eneshecan/whatsapp-for-linux · GitHub](https://github.com/eneshecan/whatsapp-for-linux)
 - [FluffyChat](https://fluffychat.im/)
 - [Fluxer](https://fluxer.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/fluxerapp/fluxer) — A chat app that puts you first
 - [Gab Chat](https://chat.gab.com/)
@@ -1035,6 +1074,7 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [GitHub](https://github.com/diorwave/cmd-chat) — diorwave/cmd-chat: My ISP tried to block this repo. 🤐 A truly peer-to-peer, end-to-end encrypted CLI chat that leaves NO logs. Perfect for... sensitive discussions. 🔥 Get it before it gets taken down · GitHub
 - [Gitter](https://gitter.im/) — Where developers come to talk
 - [GroupMe](https://groupme.com/) — Group chat app
+- [groupultra/telegram-search](https://github.com/groupultra/telegram-search) — 🔍 一个功能强大的 Telegram 聊天记录搜索客户端，支持聊天记录备份和向量搜索。
 - [Hamsket · GitHub](https://github.com/TheGoddessInari/hamsket)
 - [ICQ](https://icq.com/)
 - [ICQ](https://icq.com/desktop/en?#linux) — stay connected
@@ -1043,6 +1083,7 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [IRL](https://irl.com/)
 - [jackjackbits/bitchat](https://github.com/jackjackbits/bitchat) — bluetooth mesh chat, IRC vibes
 - [JMP.chat](https://jmp.chat/)
+- [Julian Schmidhuber / Flare · GitLab](https://gitlab.com/Schmiddiii/flare)
 - [Keet.io](https://keet.io/)
 - [Keybase](https://keybase.io/)
 - [kik](https://www.kik.com/)
@@ -1054,43 +1095,55 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [MeWe](https://mewe.com/)
 - [moezbhatti/qksms · GitHub](https://github.com/moezbhatti/qksms)
 - [Molly](https://molly.im/)
+- [mollyim/mollyim-android](https://github.com/mollyim/mollyim-android) — Enhanced and security-focused fork of Signal
 - [MOMO](http://immomo.com/)
+- [morethanwords/tweb](https://github.com/morethanwords/tweb) — Telegram Web K, GPL v3
 - [NextAlone/Nagram](https://github.com/nextalone/nagram) — The third-party Telegram android app
 - [NGL](https://ngl.link/)
 - [Numbers Station](https://www.numbersstation.app/)
+- [octoshrimpy/quik](https://github.com/octoshrimpy/quik) — The most beautiful SMS messenger for Android
 - [QQ Im](https://im.qq.com/)
 - [QQ International](https://international.qq.com/)
 - [QQ WeChat](https://www.wechat.com/)
 - [QQ Weixin](https://weixin.qq.com/)
 - [QQ-轻松做自己](https://im.qq.com/index/)
-- [Quiet](https://tryquiet.org/) — Private messaging. No servers.
+- [Quiet](https://tryquiet.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/TryQuiet/quiet) — Private messaging. No servers.
 - [raincord](https://www.raincord.dev/)
 - [Rave.io](https://rave.io/)
 - [Revolt](https://revolt.chat/)
 - [Rocket.Chat](https://rocket.chat/)
 - [Session](https://getsession.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/session-foundation) — Private messenger
 - [Signal Messenger](https://signal.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/signalapp) — Speak Freely
+- [signalapp/Signal-Android · GitHub](https://github.com/signalapp/Signal-Android)
+- [signalapp/Signal-Desktop · GitHub](https://github.com/signalapp/Signal-Desktop)
+- [signalapp/Signal-iOS · GitHub](https://github.com/signalapp/Signal-iOS)
 - [Silent Circle](https://www.silentcircle.com/)
+- [sindresorhus/caprine](https://github.com/sindresorhus/caprine) — Facebook Messenger desktop app
 - [Skedify](https://www.skedify.me/)
 - [Status.im](https://status.im/)
 - [Stoat](https://stoat.chat/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/stoatchat/stoatchat)
 - [Strafe](https://strafe.chat/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/StrafeChat) — FOSS and Free Speech done right
 - [surespot](https://www.surespot.me/)
+- [TDesktop-x64/tdesktop · GitHub](https://github.com/TDesktop-x64/tdesktop)
+- [telegramdesktop/tdesktop · GitHub](https://github.com/telegramdesktop/tdesktop)
+- [TelegramMessenger/Telegram-iOS · GitHub](https://github.com/TelegramMessenger/Telegram-iOS)
 - [TextNow](https://www.textnow.com/)
 - [Texts.com](https://texts.com/)
 - [Threema](https://threema.com/en) — Chat app
 - [TOX.chat](https://tox.chat/)
+- [UnigramDev/Unigram](https://github.com/UnigramDev/Unigram) — Telegram for Windows
+- [user-grinch/Rivo](https://github.com/user-grinch/Rivo) — An android dialer application made with Flutter following MDY MD3 guidelines
 - [Utopia P2P Ecosystem](https://u.is/en)
 - [Viber](https://www.viber.com/es)
 - [WhatCrypt Tools](https://whatcrypt.com/)
 - [WhatsApp](https://www.whatsapp.com/)
 - [WhatsApp Web](https://web.whatsapp.com/)
 - [Wickr](https://wickr.com/)
-- [Wire.com](https://wire.com/en/) — Most secure collaboration platform
+- [Wire.com](https://wire.com/en/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/wireapp/wire) — Most secure collaboration platform
 - [Zangi Messenger](https://zangi.com/)
 - [ZapZap](https://rtosta.com/zapzap/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/rafatosta/zapzap)
 - [Zorium](https://zoriumapp.com/) — Your discord alternative
-- [Zulip](https://zulip.com/) — team chat with topic-based threading
+- [Zulip](https://zulip.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/zulip/zulip) — team chat with topic-based threading
 
 #### Share Streams
 - ⭐ **[WatchParty](https://www.watchparty.me/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/howardchung/watchparty)
@@ -1100,6 +1153,7 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [n.eko](https://neko.m1k1o.net/#/)
 - [Nheko-Reborn/nheko](https://github.com/Nheko-Reborn/nheko)
 - [Peario.xyz](https://peario.xyz/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/tymmesyde/peario-client)
+- [pojntfx/multiplex](https://github.com/pojntfx/multiplex/) — Watch torrents with your friends
 - [Prime Video Watch Party](https://www.amazon.com/salp/watchparty)
 - [quotient-im/Quaternion](https://github.com/quotient-im/Quaternion)
 - [Scener](https://www.scener.com/)
@@ -1165,7 +1219,7 @@ description: Email, messaging, forums, social networks, and video conferencing
 
 #### Meeting People
 - [AfroIntroductions](https://www.afrointroductions.com/)
-- [Alovoa](https://alovoa.com/) — Meet new, exciting people!
+- [Alovoa](https://alovoa.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Alovoa/alovoa) — Meet new, exciting people!
 - [Amigos con Derechos](https://amigosconderechos.com/)
 - [Ashley Madison](https://www.ashleymadison.com/en-es/b)
 - [AsianDating](https://www.asiandating.com/)
@@ -1215,7 +1269,7 @@ description: Email, messaging, forums, social networks, and video conferencing
 - ⭐ **[Facebook](https://www.facebook.com/)**
 - ⭐ **[Reddit](https://www.reddit.com/)** — Dive into anything
 - ⭐ **[X (Twitter)](https://x.com/)**
-- [Bluesky](https://bsky.app/)
+- [Bluesky](https://bsky.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/bluesky-social/social-app)
 - [Bonfire](https://bonfirenetworks.org/)
 - [Bookwyrm](https://joinbookwyrm.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/bookwyrm-social/bookwyrm)
 - [Cent](https://beta.cent.co/~discover)
@@ -1231,7 +1285,7 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [Manyverse](https://www.manyver.se/) — a social network off the grid
 - [microblog.pub](https://microblog.pub/)
 - [Minds](https://www.minds.com/) — Social network
-- [Misskey Hub](https://misskey-hub.net/en/)
+- [Misskey Hub](https://misskey-hub.net/en/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/misskey-dev/misskey)
 - [mixi](https://mixi.jp/)
 - [Mixpost](https://mixpost.app/) — Self-Hosted Social Media Management Software
 - [moltbook](https://www.moltbook.com/) — the front page of the agent internet
@@ -1253,6 +1307,8 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [Truth Social](https://truthsocial.com/)
 - [Tumblr](https://www.tumblr.com/explore/trending)
 - [Twitter](https://twitter.com/explore)
+- [twitter/the-algorithm · GitHub](https://github.com/twitter/the-algorithm)
+- [twitter/the-algorithm-ml · GitHub](https://github.com/twitter/the-algorithm-ml)
 - [Vero.co](https://vero.co/)
 - [Vibely app](https://app.vibely.io/)
 - [Vibuk](https://www.vibuk.com/)
@@ -1270,8 +1326,9 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [Plink.gg](https://plink.gg/)
 
 #### Mastodon
-- [Mastodon](https://joinmastodon.org/) — Decentralized social media
+- [Mastodon](https://joinmastodon.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/mastodon/mastodon) — Decentralized social media
 - [Mastodon.social](https://mastodon.social/explore)
+- [Network / Tokodon · GitLab](https://invent.kde.org/network/tokodon)
 
 #### Photo Social
 - [1x.com](https://1x.com/)
@@ -1280,6 +1337,7 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [Clash app](https://clashapp.co/)
 - [Clos app](https://closapp.space/)
 - [Cosmos.so](https://www.cosmos.so/)
+- [daniebeler/pixelix](https://github.com/daniebeler/pixelix) — Android Client for Pixelfed
 - [Fotki](https://www.fotki.com/us/en)
 - [Foto app](https://fotoapp.co/)
 - [GIPHY](https://giphy.com/) — Be animated
@@ -1323,6 +1381,8 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [Startupy](https://beta.startupy.world/)
 
 ### Social Net (frontend)
+- [benbusby/farside · GitHub](https://github.com/benbusby/farside)
+- [bibliogram · SourceHut](https://sr.ht/~cadence/bibliogram/)
 - [digitalblossom/alternative-frontends · GitHub](https://github.com/digitalblossom/alternative-frontends)
 - [Farside](https://farside.link/) / [![SourceHut](/img/source-hosts/sourcehut.svg)](https://sr.ht/~benbusby/farside)
 - [FOSS Front-Ends social networks](https://www.funkyspacemonkey.com/foss-front-ends-and-alternatives-for-twitter-instagram-reddit-youtube-and-more)
@@ -1330,25 +1390,35 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [libreom/predirect · GitHub](https://github.com/libreom/predirect)
 - [mendel5/alternative-front-ends · GitHub](https://github.com/mendel5/alternative-front-ends)
 - [Painterest](https://pain.thirtysix.pw/)
+- [rramiachraf/dumb](https://github.com/rramiachraf/dumb) — Private alternative front-end for Genius.
 
 #### Odysee Frontend
+- [FastLBRY-GTK · NotABug](https://notabug.org/jyamihud/FastLBRY-GTK)
+- [LBRY-GTK](https://codeberg.org/MorsMortium/LBRY-GTK) — Codeberg
 - [librarian](https://codeberg.org/librarian/librarian) — Codeberg
 - [Librarian pussthecat](https://librarian.pussthecat.org/)
 
 #### Reddit Frontend
+- [Aaron G / reddio · GitLab](https://gitlab.com/aaronNG/reddio)
+- [christianselig/apollo-backend](https://github.com/christianselig/apollo-backend) — · GitHub
 - [Darkle/Roffline · GitHub](https://github.com/Darkle/Roffline)
 - [Docile-Alligator/Infinity-For-Reddit · GitHub](https://github.com/Docile-Alligator/Infinity-For-Reddit)
 - [eddrit](https://eddrit.com/)
 - [Feddit](https://feddit.rocks/) — A lemmy instance powered by the kavin.rocks verse
+- [Jason Wood / Headlines · GitLab](https://gitlab.com/caveman250/Headlines)
+- [kaangiray26/geddit-app · GitHub](https://github.com/kaangiray26/geddit-app)
 - [kddit](https://kddit.kalli.st/)
 - [Libreddit](https://libredd.it/)
 - [Libreddit](https://libreddit.spike.codes/)
+- [libreddit/libreddit · GitHub](https://github.com/libreddit/libreddit)
 - [redditv](http://redditv.ca/) — Subreddit Video Player
 - [Reditr](https://reditr.com/) — reddit client
+- [rtv (reddit from terminal) · GitHub](https://github.com/michael-lazar/rtv)
 - [Scrolldit](http://www.scrolldit.com/)
 - [Scrolldrop](https://scrolldrop.com/)
 - [Scrolller](https://scrolller.com/)
 - [teddit](https://teddit.net/)
+- [teddit](https://codeberg.org/teddit/teddit) — Codeberg
 - [troddit · a web app for Reddit](https://www.troddit.com/)
 - [Xeddit Private Browser](https://www.xeddit.com/)
 - [Yourmom](https://www.yourmom.org/)
@@ -1359,8 +1429,11 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [Urlebird](https://urlebird.com/) — TikTok Viewer
 
 #### Twitter Frontend
-- [Nitter](https://nitter.net/)
+- ⭐ **[j-fbriere/squawker](https://github.com/j-fbriere/squawker)** — An open-source anonymous Twitter client
+- [dimdenGD/OldTweetDeck · GitHub](https://github.com/dimdenGD/OldTweetDeck)
+- [Nitter](https://nitter.net/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/zedeus/nitter)
 - [Nitter Instance Status](https://status.d420.de/)
+- [nuclearfog/Shitter · GitHub](https://github.com/nuclearfog/Shitter)
 - [XCancel](https://xcancel.com/)
 - [zedeus/nitter](https://github.com/zedeus/nitter) — Alternative Twitter front-end · GitHub
 
@@ -1376,7 +1449,7 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [Invidious](https://y.com.sb/feed/popular) — y.com
 - [Invidious Instances](https://api.invidious.io/)
 - [Liambi Videos](https://videos.liambi.com/home.php)
-- [Piped](https://piped.video/trending) — Trending
+- [Piped](https://piped.video/trending) / [![GitHub](/img/software/apps/github.svg)](https://github.com/TeamPiped/Piped) — Trending
 - [Piped](https://piped-material.xn--17b.net/) — Trending
 - [TubeTrotter](https://www.tubetrotter.live/)
 - [VidLii](https://www.vidlii.com/)
@@ -1391,7 +1464,7 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [BigBlueButton](https://bigbluebutton.org/)
 - [BlueJeans](https://www.bluejeans.com/)
 - [Brave Talk](https://talk.brave.com/)
-- [Briefing](https://brie.fi/ng) — Start a secure video chat
+- [Briefing](https://brie.fi/ng) / [![GitHub](/img/software/apps/github.svg)](https://github.com/holtwick/briefing) — Start a secure video chat
 - [Chatstead](https://www.chatstead.com/) — Private Team Chat You Host Yourself
 - [Cisco Webex](https://www.webex.com/)
 - [Digital Samba](https://www.digitalsamba.com/)
@@ -1400,7 +1473,7 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [HelloTalk](https://www.hellotalk.com/en) — Learn Languages with Native Speakers
 - [Jami.net](https://jami.net/)
 - [Jitsi](https://jitsi.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/jitsi/jitsi-meet) — Free Video Conferencing Software for Web & Mobile
-- [Jitsi desktop](https://desktop.jitsi.org/)
+- [Jitsi desktop](https://desktop.jitsi.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/jitsi/jitsi)
 - [Jitsi Meet](https://meet.jit.si/)
 - [join.me](https://www.join.me/es)
 - [Linphone](https://www.linphone.org/)
@@ -1412,7 +1485,7 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [Proficonf](https://proficonf.com/)
 - [Skype](https://www.skype.com/en/)
 - [Slido](https://www.sli.do/)
-- [SpacebarChat](https://spacebar.chat/) — Selfhosted, secure communication that you're already familiar with
+- [SpacebarChat](https://spacebar.chat/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/spacebarchat/spacebarchat) — Selfhosted, secure communication that you're already familiar with
 - [SpatialChat](https://www.spatial.chat/) — Simple way to deliver engaging video meetings
 - [Tandem.chat](https://tandem.chat/) — Virtual office for remote teams
 - [Tango for Business](https://business.tango.me/) — Live Stream and Video Chat
@@ -1455,7 +1528,7 @@ description: Email, messaging, forums, social networks, and video conferencing
 
 ### Voice Chat
 - ⭐ **[tincan](https://tincan.rs/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/bilalyazicioglu/tincan-cli) — Serverless Peer-to-Peer Voice Chat for the Terminal
-- [Mumble.info](https://www.mumble.info/)
+- [Mumble.info](https://www.mumble.info/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/mumble-voip/mumble)
 - [TeamSpeak](https://www.teamspeak.com/en/)
 - [Voximity](https://voximity.chat/)
 - [Zello](https://zello.com/) — The Most Reliable Push-to-Talk Walkie-Talkie App

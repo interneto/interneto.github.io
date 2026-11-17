@@ -5,7 +5,7 @@ description: Note-taking, task management, bookmarking, calculators, translators
 
 # Office & Productivity
 
-**Total Bookmarks:** 1236
+**Total Bookmarks:** 1304
 
 - ⭐ **[Hotkey Cheatsheet](https://hotkeycheatsheet.com/)** — Improve Your Productivity with Keyboard Shortcuts
 - [Boosted](https://www.boostedproductivity.com/)
@@ -55,6 +55,7 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [Paper Sowl](https://papersowl.com/)
 - [Papers With Code](https://paperswithcode.com/)
 - [ReadCube](https://www.readcube.com/home)
+- [WDscholia/scholia · GitHub](https://github.com/WDscholia/scholia)
 
 ## Account Manager
 - [Blinkist](https://www.blinkist.com/)
@@ -86,17 +87,17 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [WorkFlowy](https://workflowy.com/) — A simpler way to organize your work
 
 ## Bookmark Manager
-- ⭐ **[ArchiveBox](https://archivebox.io/)**
+- ⭐ **[ArchiveBox](https://archivebox.io/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/ArchiveBox/ArchiveBox)
 - ⭐ **[elink.io](https://elink.io/)**
 - ⭐ **[Grimoire](https://grimoire.pro/)**
 - ⭐ **[Karakeep](https://karakeep.app/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/karakeep-app/karakeep)
-- ⭐ **[LinkAce](https://www.linkace.org/)**
-- ⭐ **[Linkwarden](https://linkwarden.app/)** — Bookmarks, Evolved
+- ⭐ **[LinkAce](https://www.linkace.org/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/Kovah/LinkAce)
+- ⭐ **[Linkwarden](https://linkwarden.app/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/linkwarden/linkwarden) — Bookmarks, Evolved
 - ⭐ **[minimarks.io](https://get.minimarks.io/)**
 - ⭐ **[mrmartineau/Otter · GitHub](https://github.com/mrmartineau/Otter)**
 - ⭐ **[Otter](https://otter.zander.wtf/)** — Bookmark manager
 - ⭐ **[Raindrop.io](https://raindrop.io/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/raindropio) — All-in-one bookmark manager
-- ⭐ **[WebCrate](https://webcrate.app/)** — Organize your Web
+- ⭐ **[WebCrate](https://webcrate.app/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/WebCrateApp/webcrate) — Organize your Web
 - [Basket-Bookmark](https://www.basketapp.net/)
 - [Bookmark Ninja](https://www.bookmarkninja.com/)
 - [Bookmark OS](https://bookmarkos.com/)
@@ -109,13 +110,16 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [Clipd.io](https://www.clipd.io/)
 - [Collectie](https://getcollectie.com/)
 - [Compendro](https://compendro.com/en/) — Actually Finish What You Save to Read Later
+- [darekkay/static-marks · GitHub](https://github.com/darekkay/static-marks)
 - [Deckr Surf](https://deckr.surf/)
 - [Diigo](https://www.diigo.com/)
 - [Fastbmk](http://fastbmk.com/)
 - [GGather](https://web.ggather.com/)
+- [goniszewski/grimoire](https://github.com/goniszewski/grimoire) — Bookmark manager for the wizards 🧙
 - [GoSuki](https://gosuki.net/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/blob42/gosuki)
 - [historious](https://historio.us/)
 - [Hoarder](https://hoarder.app/)
+- [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder) — A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [Hookmark](https://hookproductivity.com/) — Links beat searching
 - [Hypershoot](https://hypershoot.com/)
 - [kanishka-linux/reminiscence · GitHub](https://github.com/kanishka-linux/reminiscence)
@@ -139,6 +143,7 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [Panelio.me](https://www.panelio.me/)
 - [Pearltrees](https://www.pearltrees.com/)
 - [Polite](https://www.polite.one/) — Polite is a personal space to organize your content and your culture
+- [raindropio/app · GitHub](https://github.com/raindropio/app/tree/master)
 - [Saved.io](https://saved.io/)
 - [shaarli/Shaarli](https://github.com/shaarli/Shaarli) — The personal, minimalist, super-fast, database free, bookmarking service · GitHub
 - [Sofa](https://www.sofahq.com/) — Downtime Organizer
@@ -152,10 +157,10 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [Your Buttons](https://yourbuttons.com/)
 
 ### Bookmark Dashboard
-- ⭐ **[homepage](https://gethomepage.dev/)**
+- ⭐ **[homepage](https://gethomepage.dev/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/gethomepage/homepage)
 - ⭐ **[Homepage.org](https://www.homepage.org/)**
 - ⭐ **[Kadaza](https://www.kadaza.com/)** — The Ultimate Homepage & Web Portal
-- ⭐ **[NightTab · GitHub](https://zombiefox.github.io/nightTab/)**
+- ⭐ **[NightTab · GitHub](https://zombiefox.github.io/nightTab/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/zombieFox/nightTab)
 - ⭐ **[Startpage](https://start.me/)** — start.me
 - ⭐ **[Symbaloo](https://www.symbaloo.com/home/mix/13eP2FA6a5)** — Bookmarks & Favorites
 - [444websites](http://www.444websites.com/)
@@ -173,6 +178,7 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [Protopage](https://www.protopage.com/)
 - [Speed Dial 2](https://www.speeddial2.com/) — New tab page extension for Google Chrome
 - [uStart.org](https://www.ustart.org/) — Your customisable start page!
+- [Virgile-fr/Raindrop-HomePage · GitHub](https://github.com/Virgile-fr/Raindrop-HomePage)
 - [WebOas.is](https://weboasis.su/) — The Ultimate Startpage, Homepage, Web Portal!
 - [WebOas.is](https://ndsamuelson.github.io/weboas-is/) — WebOasis | The Ultimate Startpage, Homepage, Web Portal!
 
@@ -190,12 +196,15 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [Memex](https://memex.garden/) — Save, summarize and reuse what you read online
 - [NewsBlur](https://newsblur.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/samuelclay/NewsBlur)
 - [Omnivore](https://omnivore.app/)
+- [omnivore-app/omnivore · GitHub](https://github.com/omnivore-app/omnivore)
 - [Pocket](https://getpocket.com/login)
 - [PressReader.com](https://www.pressreader.com/) — Digital Newspaper & Magazine Subscriptions
 - [Read pages later & offline](https://support.google.com/chrome/answer/7343019) — Google Chrome Help
 - [Readeck](https://readeck.org/en/)
+- [readeck/readeck](https://codeberg.org/readeck/readeck) — Codeberg
 - [Readwise Reader](https://readwise.io/read) — The first read-it-later app built for power readers
 - [Save It Later](https://save-it-later.vercel.app/) — Never lose an interesting link again
+- [skyline-apps/curio](https://github.com/skyline-apps/curio) — Feed your curiosity. Save your articles now and read them later.
 - [The Old Reader](https://theoldreader.com/)
 - [Wallbag](https://www.wallabag.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/wallabag)
 
@@ -235,11 +244,11 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [Dolibarr](https://www.dolibarr.org/) — Open Source ERP and CRM
 - [EspoCRM.com](https://www.espocrm.com/)
 - [factura.city](https://factura.city/)
-- [FacturaScripts](https://facturascripts.com/) — contabilidad y facturacion libre
+- [FacturaScripts](https://facturascripts.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/NeoRazorX/facturascripts) — contabilidad y facturacion libre
 - [FACTUSOL](https://www.sdelsol.com/programa-facturacion-factusol/) — Software DELSOL
 - [HiWork](https://hiwork.io/) — personal CRM with AI Assistant
 - [Krayin](https://krayincrm.com/)
-- [Libredesk](https://libredesk.io/) — Free and open-source customer support desk
+- [Libredesk](https://libredesk.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/abhinavxd/libredesk) — Free and open-source customer support desk
 - [Micleo](https://micleo.com/) — The next-generation SaaS / CRM Starter Kit
 - [Monica](https://www.monicahq.com/)
 - [Odoo](https://www.odoo.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/odoo/odoo) — Open Source ERP and CRM
@@ -249,10 +258,10 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [QuickBooks Online](https://quickbooks.intuit.com/eu/)
 - [STEL Order](https://www.stelorder.com/)
 - [SuiteCRM](https://suitecrm.com/)
-- [Twenty](https://twenty.com/) — The #1 Open-Source CRM
+- [Twenty](https://twenty.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/twentyhq/twenty) — The #1 Open-Source CRM
 - [Vtiger CRM](https://www.vtiger.com/)
 - [X2 CRM](https://x2crm.com/)
-- [YetiForce CRM](https://yetiforce.com/en/)
+- [YetiForce CRM](https://yetiforce.com/en/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/YetiForceCompany/YetiForceCRM)
 - [Znuny](https://www.znuny.org/en) / [![GitHub](/img/software/apps/github.svg)](https://github.com/znuny/Znuny) — Open Source Service Desk
 
 ### Email Marketing Services
@@ -298,10 +307,11 @@ description: Note-taking, task management, bookmarking, calculators, translators
 
 ## Clipboard
 - [CleanClip](https://www.cleanclip.cc/) — Rediscover the Value of Clipboard Content
-- [clipboard.js](https://clipboardjs.com/)
+- [clipboard.js](https://clipboardjs.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/zenorocha/clipboard.js)
 - [Clipy](https://clipy-app.com/)
 - [CopyQ · GitHub](https://hluk.github.io/CopyQ/)
 - [Ditto clipboard](https://ditto-cp.sourceforge.io/)
+- [hluk/CopyQ · GitHub](https://github.com/hluk/CopyQ)
 - [hpavlo/Rememory](https://github.com/hpavlo/Rememory) — Rememory | Clipboard Manager
 - [Maccy](https://maccy.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/p0deje/Maccy) — macOS clipboard manager
 - [Pasta](https://getpasta.com/) — clipboard manager for the mac
@@ -309,15 +319,21 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [PasteBar](https://www.pastebar.app/) — Easy management for everything you copy and paste
 - [Pesto Clipboard](https://pestoclipboard.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/matthewpick/pesto-clipboard) — Free macOS Clipboard Manager
 - [Planck](https://www.planckapp.com/) — Cross-platform Clipboard Manager
+- [Tendedero](https://tendedero.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/alejandrobujan/tendedero)
 - [Typerelay](https://typerelay.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/typerelay/typerelay) — Less typing. More doing.
 
 ## Contact Manager
+- [FossifyOrg/Contacts · GitHub](https://github.com/FossifyOrg/Contacts)
 - [FossifyOrg/Phone · GitHub](https://github.com/FossifyOrg/Phone)
+- [monicahq/monica · GitHub](https://github.com/monicahq/monica)
+- [noahm/contactful · GitHub](https://github.com/noahm/contactful)
 
 ## Data Tools
+- [apitable/apitable · GitHub](https://github.com/apitable/apitable)
 - [Git City](https://www.thegitcity.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/srizzon/git-city) — Your GitHub as a 3D City
 - [Microsoft Power BI](https://powerbi.microsoft.com/en-us) — Data Visualization
 - [qsv.dathere.com](https://qsv.dathere.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/dathere/qsv) — Home to the CSV data wrangling toolkit with 50+ commands!
+- [Wandora · GitHub](https://github.com/wandora-team/wandora)
 
 ### Data Visualization
 - ⭐ **[Gephi.org](https://gephi.org/)**
@@ -353,16 +369,19 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [Profex](https://www.profex-xrd.org/)
 - [Profiling Viewer](https://profilingviewer.com/) — Open callgrind files on macOS
 - [PyVista](https://docs.pyvista.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/pyvista/pyvista)
+- [rawgraphs/rawgraphs-app · GitHub](https://github.com/rawgraphs/rawgraphs-app)
 - [rictic/code_swarm · GitHub](https://github.com/rictic/code_swarm/tree/master)
 - [Sayari](https://sayari.com/)
 - [SciDAVis](https://scidavis.sourceforge.net/)
 - [Sentinel Visualizer](https://fmsasg.com/)
 - [Social Network Visualizer](https://socnetv.org/)
 - [Streamlit • A faster way to build and share data apps](https://streamlit.io/)
+- [taunoe/tauno-serial-plotter · GitHub](https://github.com/taunoe/tauno-serial-plotter)
 - [Vector](https://vector.dev/)
 - [VisIt](https://visit-dav.github.io/visit-website/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/visit-dav/visit)
 - [visit-dav/visit · GitHub](https://github.com/visit-dav/visit)
 - [Wandora](https://sourceforge.net/projects/wandora/)
+- [yoheinakajima/instagraph · GitHub](https://github.com/yoheinakajima/instagraph)
 
 ### Dataset Tools
 - ⭐ **[Neo4j](https://neo4j.com/)** — Graph Database Management System
@@ -400,13 +419,21 @@ description: Note-taking, task management, bookmarking, calculators, translators
 
 ### Software Repository Visualization
 - ⭐ **[Gource](https://gource.io/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/acaudwell/Gource) — a software version control visualization tool
+- [abhisheknaiidu/github-circles · GitHub](https://github.com/abhisheknaiidu/github-circles)
+- [AlDanial/cloc · GitHub](https://github.com/AlDanial/cloc)
+- [anuraghazra/github-readme-stats · GitHub](https://github.com/anuraghazra/github-readme-stats)
+- [anvaka/map-of-github · GitHub](https://github.com/anvaka/map-of-github)
+- [cgag/loc](https://github.com/cgag/loc) — Count lines of code quickly
 - [Git History](https://githistory.xyz/)
+- [github-linguist/linguist](https://github.com/github-linguist/linguist) — Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
+- [github/gh-skyline · GitHub](https://github.com/github/gh-skyline)
+- [ryo-ma/github-profile-trophy · GitHub](https://github.com/ryo-ma/github-profile-trophy)
 - [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) — A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story
 
 ### Web Analytics Service
 - ⭐ **[Plausible Analytics](https://plausible.io/)**
 - ⭐ **[Rybbit Analytics](https://www.rybbit.io/)**
-- ⭐ **[umami.is](https://umami.is/)**
+- ⭐ **[umami.is](https://umami.is/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/umami-software/umami)
 - [App Annie](https://www.appannie.com/en)
 - [BOIA](https://www.boia.org/)
 - [Buffer](https://buffer.com/)
@@ -440,9 +467,10 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [Luma](https://lu.ma/)
 - [Matomo Analytics](https://matomo.org/)
 - [Medama Analytics](https://oss.medama.io/introduction)
-- [Metabase](https://www.metabase.com/) — Business Intelligence, Dashboards, and Data Visualization
+- [Metabase](https://www.metabase.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/metabase/metabase) — Business Intelligence, Dashboards, and Data Visualization
 - [Metricool](https://metricool.com/)
 - [Mimoto](https://www.baxnettechnologies.com/mimoto)
+- [msgbyte/tianji · GitHub](https://github.com/msgbyte/tianji)
 - [Murmel.social](https://murmel.social/)
 - [NeuronWriter](https://neuronwriter.com/) — Content optimization with #semanticSEO
 - [Notionlytics](https://notionlytics.com/)
@@ -481,21 +509,25 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [Whotwi](https://en.whotwi.com/)
 
 ## Finance Manager
-- [Actual](https://actualbudget.org/) — Actual Budget Documentation
+- [Actual](https://actualbudget.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/actualbudget/actual) — Actual Budget Documentation
 - [AndroMoney](https://web.andromoney.com/)
 - [BillSplit](https://www.usebillsplit.com/) — Split your bill easily with AI
 - [Bluecoins](https://www.bluecoinsapp.com/) — Best finance app on Android
 - [Budget Board](https://budgetboard.net/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/teelur/budget-board)
 - [ButterDevelop/CryptoJournal.Wpf · GitHub](https://github.com/ButterDevelop/CryptoJournal.Wpf)
 - [Cashew](https://cashewapp.web.app/)
+- [chvp/NanoLedger · GitHub](https://github.com/chvp/NanoLedger)
+- [crater-invoice/crater · GitHub](https://github.com/crater-invoice/crater)
 - [Debit & Credit](https://debitandcredit.app/) — Personal finance for iOS, Mac and Apple Watch
 - [dreautall/waterfly-iii · GitHub](https://github.com/dreautall/waterfly-iii)
-- [Firefly III](https://firefly-iii.org/)
+- [Firefly III](https://firefly-iii.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/firefly-iii/firefly-iii)
 - [GnuCash](https://www.gnucash.org/)
 - [HomeBank](https://www.gethomebank.org/en/index.php) — Free personal finance software, money management for everyone
 - [InvoicePlane](https://www.invoiceplane.com/)
+- [Ivy-Apps/ivy-wallet](https://github.com/Ivy-Apps/ivy-wallet) — Ivy Wallet is an open-source money manager app for Android
 - [Klug Saver](https://www.klugsaver.com/)
 - [KMY Money](https://kmymoney.org/)
+- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) — Personal finance and wealth management app
 - [Monefy](https://monefy.me/)
 - [Monefy](https://www.monefy.com/) — Budget & Track Your Money
 - [Moneydance](https://moneydance.com/)
@@ -516,7 +548,7 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [Settle Up](https://settleup.io/)
 - [Skrooge](https://skrooge.org/)
 - [Splid](https://splid.app/english) — Split expenses the easy way
-- [Spliit · Share Expenses with Friends & Family](https://spliit.app/)
+- [Spliit · Share Expenses with Friends & Family](https://spliit.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/spliit-app/spliit)
 - [Split expenses with friends.](https://www.splitwise.com/)
 - [Splitser.com](https://splitser.com/) — Divide and settle expenses in the app
 - [Summit](https://summitfinance.app/) — Open Source Invoicing & Finance App
@@ -524,16 +556,19 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [tomfunk/fungible](https://github.com/tomfunk/fungible) — Terminal UI for personal finance — Plaid sync, CSV import, AI assistant, and MCP server
 - [Tricount](https://www.tricount.com/) — Organize group expenses
 - [Wallet by BudgetBakers](https://budgetbakers.com/) — Your New Personal Finance Manager
-- [Wealthfolio](https://wealthfolio.app/) — Desktop Investment Tracker
+- [Wealthfolio](https://wealthfolio.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/wealthfolio/wealthfolio) — Desktop Investment Tracker
 - [YNAB](https://www.ynab.com/)
 
 ## Font Tools
+- [Webfont-kit-generator · GitHub](https://github.com/rafaelmardojai/webfont-kit-generator)
 
 ### Font Editor
 - [Analyze Any Font](https://font-analyzer-six.vercel.app/)
 - [Birdfont](https://birdfont.org/)
 - [draw-your-font](https://danilo-znamerovszkij.github.io/draw-your-font/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/danilo-znamerovszkij/draw-your-font)
 - [FontForge](https://fontforge.org/en-US/)
+- [fontforge/fontforge · GitHub](https://github.com/fontforge/fontforge)
+- [jpakkane/glyphtracer · GitHub](https://github.com/jpakkane/glyphtracer)
 - [TruFont](https://trufont.github.io/)
 
 ### Font Manager
@@ -545,13 +580,14 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [Typeface](https://typefaceapp.com/)
 
 ## GTD App
-- ⭐ **[Planify](https://useplanify.com/)**
+- ⭐ **[Planify](https://useplanify.com/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/alainm23/planify)
 - ⭐ **[Planner](https://useplanner.com//)** — Task manager with Todoist & CalDAV
 - ⭐ **[TickTick](https://www.ticktick.com/)**
 - [Akiflow](https://akiflow.com/)
 - [Any.do](https://www.any.do/)
 - [Bento](https://www.bentomethod.com/) — The Do Less To-do List
 - [BiteofanApple](https://brianschrader.com/)
+- [bjesus/wren](https://github.com/bjesus/wren) — The simplest task management system
 - [Catalyst](https://catalyst.bontal.net/) — AI-Powered To-Do App | Eisenhower Matrix
 - [Co-molib](https://www.co-molib.com/en) — Maximize Your Focus
 - [dooit-org/dooit](https://github.com/dooit-org/dooit?tab=readme-ov-file) — An awesome TUI todo manager
@@ -574,7 +610,7 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [Productivie](https://www.productivie.com/app) — Boost Focus & Customize Your Productivity Workspace
 - [ransome1/sleek · GitHub](https://github.com/ransome1/sleek)
 - [Remember The Milk](https://www.rememberthemilk.com/)
-- [Super Productivity](https://super-productivity.com/)
+- [Super Productivity](https://super-productivity.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/super-productivity/super-productivity)
 - [Superlist](https://www.superlist.com/) — Home to all your lists
 - [Taskable](https://taskablehq.com/)
 - [Taskary](https://www.taskary.com/)
@@ -596,6 +632,7 @@ description: Note-taking, task management, bookmarking, calculators, translators
 ## Keep Things
 - [Capiche](https://capiche.com/)
 - [Google Keep](https://keep.google.com/)
+- [GoogleKeep / Application · GitLab](https://gitlab.com/googlekeep-desktop/application)
 - [Kit](https://kit.co/)
 - [LINER](https://getliner.com/en)
 - [Mailbrew](https://mailbrew.com/)
@@ -609,7 +646,7 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - ⭐ **[Amplenote](https://www.amplenote.com/)** — Note taking app
 - ⭐ **[Anytype.io](https://anytype.io/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/anyproto/anytype-ts) — the everything app
 - ⭐ **[AppFlowy.io](https://appflowy.io/)**
-- ⭐ **[Beaver Notes](https://beavernotes.com/)**
+- ⭐ **[Beaver Notes](https://beavernotes.com/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/Beaver-Notes/Beaver-Notes)
 - ⭐ **[Capacities](https://capacities.io/)** — A studio for your mind
 - ⭐ **[Crossnote](https://crossnote.app/)**
 - ⭐ **[Dendron.so](https://www.dendron.so/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/dendronhq/dendron)
@@ -617,16 +654,17 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - ⭐ **[foambubble/foam · GItHub](https://github.com/foambubble/foam)**
 - ⭐ **[Heptabase](https://heptabase.com/)**
 - ⭐ **[LimanDoc](https://limandoc.com/)**
-- ⭐ **[Logseq](https://logseq.com/)** — open-source knowledge base
+- ⭐ **[Logseq](https://logseq.com/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/logseq/logseq) — open-source knowledge base
 - ⭐ **[nb · command line and local web plain text note-taking](https://xwmx.github.io/nb/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/xwmx/nb)
 - ⭐ **[Nino](https://nino.app/)**
-- ⭐ **[notemarks](https://notemarks.app/)**
+- ⭐ **[notemarks](https://notemarks.app/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/notemarks/notemarks)
 - ⭐ **[Notesnook](https://notesnook.com/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/streetwriters/notesnook) — zero-knowledge private notes
-- ⭐ **[Org-roam](https://www.orgroam.com/)**
+- ⭐ **[Org-roam](https://www.orgroam.com/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/org-roam/org-roam)
 - ⭐ **[Scrintal](https://scrintal.com/)** — Say goodbye to scattered thinking
-- ⭐ **[Xournal++ · GitHub](https://xournalpp.github.io/)**
+- ⭐ **[Xournal++ · GitHub](https://xournalpp.github.io/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/xournalpp/xournalpp)
 - ⭐ **[Zettlr](https://www.zettlr.com/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/zettlr/zettlr) — A Markdown Editor for the 21st Century
 - ⭐ **[Zim-wiki](https://zim-wiki.org/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/zim-desktop-wiki/zim-desktop-wiki)
+- [0xGG/crossnote · GitHub](https://github.com/0xGG/crossnote)
 - [1Writer](https://1writerapp.com/)
 - [acreom](https://acreom.com/) — The way developers get things done
 - [Agora.org](https://anagora.org/index)
@@ -645,6 +683,8 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [Cerveau.app](https://www.cerveau.app/)
 - [Checkvist](https://checkvist.com/)
 - [cherrytree](https://www.giuspen.com/cherrytree/) — Guispen
+- [Cherrytree · GitHub](https://github.com/giuspen/cherrytree)
+- [cidrblock/home_journal · GitHub](https://github.com/cidrblock/home_journal)
 - [CintaNotes](https://cintanotes.com/)
 - [Clover](https://www.cloverapp.com/)
 - [ColorNote](https://www.colornote.com/)
@@ -656,12 +696,13 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [DEVONtechnologies](https://www.devontechnologies.com/apps/devonthink) — DEVONthink
 - [Diaro](https://diaroapp.com/)
 - [EasyOrg](https://easyorgmode.com/) — Org mode Editor and Agenda
-- [Emanote](https://emanote.srid.ca/)
+- [Emanote](https://emanote.srid.ca/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/srid/emanote)
 - [Evernote](https://evernote.com/) — Note taking app
 - [Fermat](https://fermat.ws/)
 - [FiiNote](https://www.fiinote.com/#/)
 - [Flexcil](https://www.flexcil.com/) — The best study toolkit for both PDF reader and note taking
 - [Foam Bubble](https://foambubble.github.io/)
+- [FossifyOrg/Notes · GitHub](https://github.com/FossifyOrg/Notes)
 - [FSNotes App](https://fsnot.es/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/glushchenko/fsnotes)
 - [genei.io](https://www.genei.io/)
 - [Ghostnote](https://www.ghostnoteapp.com/)
@@ -690,7 +731,7 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [Lattics](https://lattics.zineapi.com/)
 - [Laverna](https://laverna.cc/)
 - [Leanote](https://leanote.com/)
-- [Lemma](https://www.cvfosammmm.org/lemma/) — Note-Taking App
+- [Lemma](https://www.cvfosammmm.org/lemma/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/cvfosammmm/Lemma) — Note-Taking App
 - [Linwood Butterfly](https://docs.butterfly.linwood.dev/)
 - [lockbook](https://lockbook.net/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/lockbook/lockbook)
 - [Logseq Community Hub](https://hub.logseq.com/)
@@ -698,7 +739,7 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [Marxico](https://marxi.co/) — Markdown Editor for Evernote
 - [Matter](https://hq.getmatter.app/)
 - [Mem](https://get.mem.ai/) — Your mind on tap
-- [memos](https://www.usememos.com/) — Easily capture and share your great thoughts
+- [memos](https://www.usememos.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/usememos/memos) — Easily capture and share your great thoughts
 - [Meteorite](https://trymeteorite.com/) — The Minimal Menubar Notetaker
 - [Microsoft OneNote](https://www.microsoft.com/en-us/microsoft-365/onenote/digital-note-taking-app)
 - [Midterm App](https://midterm.app/)
@@ -708,12 +749,13 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [MyInfo](https://www.myinfoapp.com/)
 - [Napkin.one](https://www.napkin.one/) — Collect ideas, see connections, be inspired
 - [Nebo](https://www.nebo.app/)
+- [Neomas](https://neomas.app/#worlds) — Local-First AI Knowledge Management for macOS
 - [NeuraCache](https://neuracache.com/)
 - [Neuron Zettelkasten](https://neuron.zettel.page/)
 - [NeverWrite](https://neverwrite.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/jsgrrchg/NeverWrite) — Write, think, and build with AI that asks before it changes
 - [Nota.md](https://nota.md/)
 - [Notability](https://notability.com/)
-- [Notable.app](https://notable.app/)
+- [Notable.app](https://notable.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/notable/notable)
 - [Notally](https://play.google.com/store/apps/details?id=com.omgodse.notally)
 - [Notational Velocity](https://notational.net/)
 - [notea-org/notea · GitHub](https://github.com/notea-org/notea)
@@ -723,6 +765,7 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [notekpr · Notes only you can read](https://notekpr.md/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/coolapso/notekpr)
 - [NoteLedge](https://www.kdanmobile.com/noteledge)
 - [NoteLedge](https://www.kdanmobile.com/en/noteledge)
+- [Notepad · GitHub](https://github.com/farmerbb/Notepad)
 - [Notes App](https://apps.apple.com/us/app/notes/id1110145109) — App Store
 - [NoteSelf](https://noteself.org/) — Your selfish notebook
 - [Notorious](https://notorious.gabmus.org/)
@@ -750,16 +793,17 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [Reor](https://www.reorproject.org/)
 - [Rnote](https://rnote.flxzt.net/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/flxzt/rnote)
 - [Roam Research](https://roamresearch.com/) — A note taking tool for networked thought
-- [Saber](https://saber.adil.hanney.org/) — Handwriting notes
+- [Saber](https://saber.adil.hanney.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/saber-notes/saber) — Handwriting notes
 - [Saga](https://saga.so/) — Make sense of your knowledge
+- [SankethBK/diaryvault · GitHub](https://github.com/SankethBK/diaryvault?tab=readme-ov-file)
 - [Scrivano for Handwritten Notes](https://scrivanolabs.github.io/)
 - [Simplenote](https://simplenote.com/)
-- [Simplenote app](https://app.simplenote.com/login/)
-- [SiYuan PKM](https://b3log.org/siyuan/en/)
+- [Simplenote app](https://app.simplenote.com/login/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Automattic/simplenote-electron)
+- [SiYuan PKM](https://b3log.org/siyuan/en/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/siyuan-note/siyuan)
 - [Space](https://getspace.app/) — The flashcard revolution
 - [Spoke.app](https://spoke.app/landing)
 - [Squid](https://www.squidnotes.com/)
-- [Standard Notes](https://standardnotes.com/)
+- [Standard Notes](https://standardnotes.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/standardnotes/app)
 - [Standard Notes app](https://app.standardnotes.com/)
 - [Strut](https://strut.so/)
 - [Supernotes](https://supernotes.app/)
@@ -787,7 +831,7 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [Zettel Notes](https://znotes.thedoc.eu.org/)
 - [Zettel Notes](https://play.google.com/store/apps/details?id=org.eu.thedoc.zettelnotes) — Google Play
 - [ZhFahim/anchor](https://github.com/zhfahim/anchor?tab=readme-ov-file) — Offline first, self hostable note taking application
-- [zk](https://zk-org.github.io/zk/)
+- [zk](https://zk-org.github.io/zk/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/zk-org/zk)
 - [Znote](https://znote.io/) — Turn your notes into tools
 - [Zoho NoteBook](https://www.zoho.com/notebook)
 
@@ -824,15 +868,17 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [Microsoft 365 Setup](https://setup.office.com/)
 - [Microsoft Office](https://www.microsoft.com/en-us/microsoft-365/microsoft-office)
 - [Microsoft office (MS 365)](https://www.office.com/)
+- [MicrosoftDocs/OfficeDocs-DeployOffice](https://github.com/MicrosoftDocs/OfficeDocs-DeployOffice) — Office client deployment documentation
 - [MSOffice 2021x 64](https://archive.org/details/msoffice-2021x-64-pre-activated) — Internet Archive
 - [NeoOffice](https://www.neooffice.org/neojava/en/index.php)
+- [neooffice/NeoOffice · GitHub](https://github.com/neooffice/NeoOffice)
 - [Office EU](https://office.eu/) — Europe's Open-Source Productivity Suite
 - [Office suite Doc Reader](https://play.google.com/store/apps/details?id=com.office.reader.all.docs.viewer)
 - [OfficeSuite](https://www.officesuite.com/en)
 - [Online Office](https://www.onlyoffice.com/)
 - [ONLYOFFICE](https://play.google.com/store/apps/details?id=com.onlyoffice.documents) — Google Play
 - [OpenOffice](https://www.openoffice.org/)
-- [OpenResume](https://www.open-resume.com/) — Resume Builder and Parser
+- [OpenResume](https://www.open-resume.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/xitanggg/open-resume) — Resume Builder and Parser
 - [Pages](https://www.apple.com/pages/) — Apple
 - [PDF Publisher](https://www.pdfpublisher.com/)
 - [PDFescape](https://pdfescape.com/)
@@ -840,6 +886,7 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [Polaris Office](https://www.polarisoffice.com/en)
 - [Scribus](https://www.scribus.net/)
 - [Trelby.org](https://www.trelby.org/)
+- [winget-pkgs/Microsoft/Office · GitHub](https://github.com/microsoft/winget-pkgs/tree/master/manifests/m/Microsoft/Office)
 - [WordCraft](https://getartcraft.com/apps/wordcraft) / [![GitHub](/img/software/apps/github.svg)](https://github.com/storytold/wordcraft) — A fast, open-source word processor, rebuilt in pure Rust.
 - [WordPerfect](https://www.wordperfect.com/en)
 - [WPS Office](https://www.wps.com/)
@@ -856,6 +903,7 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [Copyleaks](https://copyleaks.com/es)
 - [DocHub](https://dochub.com/)
 - [Draftable](https://draftable.com/)
+- [Frooodle/Stirling-PDF · GitHub](https://github.com/Frooodle/Stirling-PDF)
 - [iLovePDF](https://www.ilovepdf.com/)
 - [JOPDF](https://www.jopdf.com/) — Free & Fast PDF Editor for Windows, Mac & Linux
 - [Kdan PDF Reader](https://www.kdanmobile.com/pdf-reader)
@@ -890,18 +938,20 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [Highlights app](https://highlightsapp.net/)
 - [Master PDF Editor](https://code-industry.net/masterpdfeditor/)
 - [MuPDF](https://mupdf.com/)
-- [NAPS2](https://www.naps2.com/) — Scan documents to PDF and more
+- [NAPS2](https://www.naps2.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/cyanfish/naps2) — Scan documents to PDF and more
 - [PDF element](https://pdf.wondershare.com/)
 - [PDF X-change](https://www.tracker-software.com/) — Tracker software
-- [PDF.js](https://mozilla.github.io/pdf.js/)
+- [PDF.js](https://mozilla.github.io/pdf.js/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/mozilla/pdf.js)
 - [PDFgear](https://www.pdfgear.com/) — Bring Accessible PDF Software to the Masses
 - [PDFify Mac App](https://pdfify.app/en/) — Text Recognition and PDF Composition
+- [pwmt / zathura · GitLab](https://git.pwmt.org/pwmt/zathura)
 - [Qoppa PDF](https://www.qoppa.com/)
 - [Readiris PDF](https://www.irislink.com/EN-ES/c2263/Readiris-PDF-Standard.aspx)
-- [Sioyek](https://sioyek.info/)
+- [Sioyek](https://sioyek.info/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/ahrm/sioyek)
 - [Skim](https://skim-app.sourceforge.io/)
 - [Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader) — Free PDF Reader
 - [WinDjView](https://sourceforge.net/projects/windjview/) — SourceForge
+- [Yiiipu/SimplePDF · GitHub](https://github.com/Yiiipu/SimplePDF)
 
 ## Print Software
 - [Batch Print Multiple PDF, Text, and Image Files with Print Conductor](https://www.print-conductor.com/)
@@ -914,6 +964,7 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [uniFLOW](https://www.uniflow.global/en/home/)
 
 ## Scanner
+- [Chrisimx/ScanBridge · GitHub](https://github.com/Chrisimx/ScanBridge?tab=readme-ov-file)
 
 ### Barcode Scanner
 - [BinaryEye · GitHub](https://github.com/markusfisch/BinaryEye)
@@ -936,6 +987,7 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [FairScan](https://fairscan.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/pynicolas/FairScan) — Simple & Respectful Document Scanner for Android
 - [Fast Scanner](https://www.coolmobilesolution.com/)
 - [Genius Scan](https://thegrizzlylabs.com/genius-scan) — Mobile Document Scanner App with PDF Creation and OCR Text Recognition
+- [jonaswinkler/paperless-ng · GitHub](https://github.com/jonaswinkler/paperless-ng)
 - [LittleTrickster/PDF-Doc-Scan · GitHub](https://github.com/LittleTrickster/PDF-Doc-Scan)
 - [Microsoft Lens](https://play.google.com/store/apps/details?id=com.microsoft.office.officelens) — PDF Scanner - Apps on Google Play
 - [Pocket Scanner](https://www.kdan.com/pocket-scanner) — The Best Scanner App For iOS
@@ -952,6 +1004,7 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [Free OCR](http://www.freeocr.net/)
 - [GetFrog.app](https://getfrog.app/)
 - [gImageReader · GitHub](https://github.com/manisandro/gImageReader)
+- [GNOME / ocrfeeder · GitLab](https://gitlab.gnome.org/GNOME/ocrfeeder)
 - [GOCR](https://jocr.sourceforge.net/)
 - [High-Precision Document Intelligence](https://www.datalab.to/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/datalab-to/surya)
 - [hiroi-sora/Umi-OCR · GitHub](https://github.com/hiroi-sora/Umi-OCR)
@@ -959,7 +1012,7 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) — pix2tex: Using a ViT to convert images of equations into LaTeX code.
 - [Nanonets](https://nanonets.com/) — Intelligent Automation AI for Business Processes
 - [newOCR](https://www.newocr.com/)
-- [NormCap](https://dynobo.github.io/normcap/)
+- [NormCap](https://dynobo.github.io/normcap/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/dynobo/normcap)
 - [OCR.space](https://ocr.space/)
 - [OCR2edit](https://www.ocr2edit.com/)
 - [Ocrad](https://www.gnu.org/software/ocrad/) — GNU Project - Free Software Foundation (FSF)
@@ -1025,8 +1078,10 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [Freehand by InVision](https://www.freehandapp.com/) — The All-in-One Visual Collaboration Workspace
 - [Gmelius](https://gmelius.com/)
 - [Google Workspace](https://workspace.google.com/)
+- [hackmdio/codimd · GitHub](https://github.com/hackmdio/codimd)
 - [Hive](https://hive.com/) — Manage projects faster & collaborate better
 - [Instant](https://www.instantdb.com/)
+- [IsmaelMartinez/teams-for-linux · GitHub](https://github.com/IsmaelMartinez/teams-for-linux)
 - [Kanban Tool](https://kanbantool.com/es)
 - [Kludd](https://kludd.co/)
 - [Kolide](https://www.kolide.com/home)
@@ -1035,7 +1090,7 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [Lucid](https://lucid.co/)
 - [LucidLink](https://www.lucidlink.com/) — The Storage Collaboration Platform for Creatives
 - [Lumi.com](https://www.lumi.com/)
-- [Mattermost](https://mattermost.com/) — Secure Collaboration for Technical Teams
+- [Mattermost](https://mattermost.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/mattermost/mattermost) — Secure Collaboration for Technical Teams
 - [Miro](https://miro.com/) — The Visual Collaboration Platform for Every Team
 - [monday.com](https://monday.com/)
 - [Niice](https://niice.co/)
@@ -1075,9 +1130,10 @@ description: Note-taking, task management, bookmarking, calculators, translators
 ### Project Management Tool
 - ⭐ **[AppFlowy](https://appflowy.com/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/AppFlowy-IO/AppFlowy)
 - ⭐ **[Notion](https://www.notion.com/)** — Your connected workspace for wiki, docs and projects
-- [AFFiNE](https://affine.pro/) — All In One KnowledgeOS
+- [AFFiNE](https://affine.pro/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/toeverything/AFFiNE) — All In One KnowledgeOS
 - [Agila](https://agila.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/drenlia-inc/agila) — Streamline Your Team's Workflow
 - [Apploye](https://apploye.com/) — Next Generation Employee Productivity Platform
+- [BaldissaraMatheus/Tasks.md · GitHub](https://github.com/BaldissaraMatheus/Tasks.md)
 - [Baserow](https://baserow.io/) — Open source no-code database
 - [Bonsai](https://www.hellobonsai.com/)
 - [Box](https://www.box.com/home) — Secure, AI-Powered Content Management, Workflow & Collaboration
@@ -1092,10 +1148,12 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [Flipsnack](https://www.flipsnack.com/)
 - [GanttPRO](https://ganttpro.com/es/) — Diagrama de Gantt online
 - [GanttProject](https://www.ganttproject.biz/) — free project management tool
+- [GitHub](https://github.com/trobonox/kanri) — trobonox/kanri: 🪐 Modern offline Kanban board app for Windows, MacOS and Linux. Built with simplicity and user experience in mind.
 - [Habitify](https://www.habitify.me/)
 - [Height](https://height.app/)
 - [Hightail](https://www.hightail.com/)
 - [Holded.com](https://www.holded.com/)
+- [jyamihud/VCStudio](https://notabug.org/jyamihud/VCStudio) — Notabug
 - [Kanban Project Management Software](https://kanboard.org/)
 - [Leantime](https://leantime.io/) — Open Source Project Management
 - [LogicalDOC](https://www.logicaldoc.us/en-us/)
@@ -1108,6 +1166,7 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [Price&Cost](https://www.priceandcost.com/) — turn uncertain projects into predictable profits
 - [Project Management Software](https://www.microsoft.com/en-us/microsoft-365/project/project-management-software) — Microsoft Project
 - [Projectlibre](https://www.projectlibre.com/) — Alternative to MS Project
+- [ProjectLibre](https://sourceforge.net/projects/projectlibre/) — Project Management
 - [Quip](https://quip.com/)
 - [Quizlet](https://quizlet.com/en-gb)
 - [RaidPlan.io](https://raidplan.io/) — World of Warcraft Boss Planner
@@ -1126,6 +1185,7 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [tillywork](https://tilly.work/) — Work management for all your teams
 - [TIMIFY](https://www.timify.com/en-gb)
 - [Walling](https://walling.app/) — Organize & Present Your Ideas
+- [wekan/wekan · GitHub](https://github.com/wekan/wekan)
 - [Worklog](https://regisx001.github.io/Worklog/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/regisx001/Worklog/) — Local-first Desktop Project Manager
 - [Wrike](https://www.wrike.com/)
 - [Wrike](https://www.wrike.com/vx/) — Versatile & Robust Project Management Software
@@ -1143,11 +1203,13 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [InVision](https://www.invisionapp.com/)
 - [NoteBookCast](https://www.notebookcast.com/) — Online Whiteboard
 - [OpenBoard](https://openboard.ch/)
+- [openboard-team/openboard · GitHub](https://github.com/openboard-team/openboard)
 - [OurBoard](https://www.ourboard.io/)
 - [Scribble Together](https://scribbletogether.com/)
 - [Self-hosted Excalidraw with storage and collaboration](https://excalidash.xyz/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/ZimengXiong/ExcaliDash)
 - [Sketch Toy](https://sketchtoy.com/)
 - [Sketchpad](https://sketchpad.app/en)
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) — a very good whiteboard
 - [TruScribe](https://truscribe.com/)
 - [TTS Sketch Maker](https://ttssketchmaker.com/)
 - [WBO](https://wbo.ophir.dev/) — Collaborative whiteboard
@@ -1157,6 +1219,7 @@ description: Note-taking, task management, bookmarking, calculators, translators
 
 ## TelePrompter
 - [jpomykala/NotchPrompter](https://github.com/jpomykala/NotchPrompter) — A very basic, always-on-top floating text prompter for macOS. Perfect for quick videos, or keeping important text visible while you work
+- [Nokse22/teleprompter](https://github.com/Nokse22/teleprompter) — Stay on track during speeches
 
 ## Time
 - ⭐ **[Time and Date](https://www.timeanddate.com/)**
@@ -1200,6 +1263,7 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [Etar-Group/Etar-Calendar · GitHub](https://github.com/Etar-Group/Etar-Calendar)
 - [Flexibits](https://flexibits.com/)
 - [fruux](https://fruux.com/)
+- [Gnome-calendar · GitLab](https://gitlab.gnome.org/GNOME/gnome-calendar/)
 - [Google Calendar](https://calendar.google.com/calendar/r)
 - [Kalendar](https://apps.kde.org/kalendar/) — KDE Apps
 - [KashCal](https://kashcal.onekash.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/KashCal/KashCal) — A private calendar for Android with iCloud and CalDAV sync
@@ -1214,7 +1278,7 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [OneCalendar](https://www.onecalendar.nl/) — Discover the best calendar app of 2023
 - [PIM / Merkuro · GitLab](https://invent.kde.org/pim/merkuro)
 - [Rainlendar](https://www.rainlendar.net/cms/index.php)
-- [Rallly.co](https://rallly.co/)
+- [Rallly.co](https://rallly.co/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/lukevella/rallly)
 - [Supercal](https://supercal.com/) — Schedule Meetings Faster
 - [SuperSaaS Reservas Online](https://www.supersaas.es/)
 - [TeamUp](https://www.teamup.com/)
@@ -1240,6 +1304,7 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [Moongiant](https://www.moongiant.com/) — Next Full Moon
 
 ### Sun Time Calculator
+- [forrestguice/SuntimesWidget · GitHub](https://github.com/forrestguice/SuntimesWidget)
 - [Meteogram](https://meteogram.es/sol/) — Sol
 - [Planit! for Photographers](https://www.planitphoto.com/) — Plan the Shot!
 - [Salida y puesta de Sol](https://salidaypuestadelsol.com/sun)
@@ -1255,11 +1320,12 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [Table of Sunrise/Sunset, Moonrise/Moonset, or Twilight Times for an Entire Year](https://aa.usno.navy.mil/data/RS_OneYear)
 
 ### Time Management
+- [Diego-Ivan/Flowtime · GitHub](https://github.com/Diego-Ivan/Flowtime)
 - [Forestapp](https://forestapp.cc/) — Stay focused, be present
 - [Habitica](https://habitica.com/)
 - [Plantie](https://plantie.app/)
 - [Run&Grow](https://www.runandgrow.com/) — Run Farther, Grow Stronger
-- [TimeScribe](https://timescribe.app/)
+- [TimeScribe](https://timescribe.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/WINBIGFOX/TimeScribe)
 
 ### Time Tracker
 - ⭐ **[ActivityWatch](https://activitywatch.net/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/ActivityWatch/activitywatch)
@@ -1281,7 +1347,7 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [floers projects / punchclock · GitLab](https://gitlab.com/floers/punchclock)
 - [Flow app](https://flowapp.info/)
 - [Flow-fi](https://www.flowfi.app/)
-- [Flowkeeper](https://flowkeeper.org/)
+- [Flowkeeper](https://flowkeeper.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/flowkeeper-org/fk-desktop)
 - [FocusCommit](https://focuscommit.com/) — Pomodoro Timer meets Personal Kanban
 - [FriesI23/mhabit · GitHub](https://github.com/FriesI23/mhabit)
 - [Furtherance](https://furtherance.app/)
@@ -1292,8 +1358,9 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [Hubstaff](https://hubstaff.com/)
 - [Insightful.io](https://www.insightful.io/) — Employee Monitoring Software with Time Tracking
 - [jolars/tomat](https://github.com/jolars/tomat) — A Pomodoro timer for status bars
-- [Kimai](https://www.kimai.org/) — Open Source time-tracker
+- [Kimai](https://www.kimai.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/kimai/kimai) — Open Source time-tracker
 - [Kiwi monitor](https://kiwimonitor.com/)
+- [lainsce/khronos · GitHub](https://github.com/lainsce/khronos)
 - [ManicTime](https://www.manictime.com/) — Time Tracker
 - [mfep/exercise-timer](https://github.com/mfep/exercise-timer) — Timer app for high intensity interval training
 - [MoodWise](https://moodwise.app/)
@@ -1315,6 +1382,7 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [Study With Me](https://studywithme.io/aesthetic-pomodoro-timer/) — Aesthetic Pomodoro Timer
 - [Tick tracker](https://www.tickspot.com/)
 - [Time Doctor](https://www.timedoctor.com/)
+- [time-tracker](https://sr.ht/~mronetwo/time-tracker/) — sourcehut git
 - [TimeCamp](https://www.timecamp.com/)
 - [Timely](https://www.gettimely.com/)
 - [TimeSheet Tracker](https://www.microsoft.com/en-us/p/timesheet-tracker/9wzdncrdlvx3?activetab=pivot%3Aoverviewtab)

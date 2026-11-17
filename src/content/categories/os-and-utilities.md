@@ -5,7 +5,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 
 # OS & Utilities
 
-**Total Bookmarks:** 1151
+**Total Bookmarks:** 1265
 
 - [Comparison of OS](https://en.wikipedia.org/wiki/Comparison_of_operating_systems) — Wikipedia
 - [Comparison of real-time operating systems](https://en.wikipedia.org/wiki/Comparison_of_real-time_operating_systems) — Wikipedia
@@ -15,10 +15,11 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 ## Autopilot System
 - [ArduPilot](https://ardupilot.org/)
 - [Comma Openpilot](https://comma.ai/openpilot) / [![GitHub](/img/software/apps/github.svg)](https://github.com/commaai/openpilot) — make driving chill
+- [flowdriveai/flowpilot · GitHub](https://github.com/flowdriveai/flowpilot)
 - [Litchi for DJI Drones](https://www.flylitchi.com/)
 - [PX4 Autopilot](https://px4.io/)
 - [QGroundControl](http://qgroundcontrol.com/) — Drone Control
-- [Sunny Pilot](https://www.sunnypilot.ai/)
+- [Sunny Pilot](https://www.sunnypilot.ai/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/sunnypilot/sunnypilot)
 
 ## OS by Devices
 
@@ -26,6 +27,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [Horizon OC](https://horizon-oc.github.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Horizon-OC/Horizon-OC)
 - [IOS](https://wiibrew.org/wiki/IOS) — WiiBrew
 - [Nintendo Switch Brew](https://switchbrew.org/)
+- [recalbox / recalbox · GitLab](https://gitlab.com/recalbox/recalbox)
 - [ValveSoftware/SteamOS](https://github.com/ValveSoftware/SteamOS) — SteamOS community tracker
 - [Windows CE](https://dreamcast.wiki/Windows_CE) — dreamcast.wiki
 - [Xbox system updates](https://support.xbox.com/en-US/help/hardware-network/settings-updates/whats-new-xbox-one-system-updates) — Xbox Support
@@ -51,16 +53,19 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [KasperskyOS](https://os.kaspersky.com/) — cyber Immune approach to IT systems security
 - [manjaro-arm/rpi4-images · GitHub](https://github.com/manjaro-arm/rpi4-images)
 - [Micrium OS](https://www.silabs.com/developers/micrium-os) — Silicon Labs
+- [nasa/fprime · GitHub](https://github.com/nasa/fprime)
 - [OpenWrt](https://openwrt.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/openwrt/openwrt)
 - [OpenWrt Downloads](https://downloads.openwrt.org/)
 - [Real Time Operating System (RTOS)](https://azure.microsoft.com/en-us/products/rtos/) — Microsoft Azure
-- [RIOT](https://www.riot-os.org/) — The friendly Operating System for the Internet of Things
+- [RIOT](https://www.riot-os.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/RIOT-OS/RIOT) — The friendly Operating System for the Internet of Things
 - [RoPieee](https://ropieee.org/) — a RoonBridge ready-to-go image for Raspberry Pi
 
 #### RTOS
 - [Azure RTOS Is Now Eclipse ThreadX](https://threadx.io/) — The Eclipse Foundation
 - [Cesium RTOS](https://weston-embedded.com/products/cesium) — Weston Embedded Solutions
+- [eclipse-threadx/threadx](https://github.com/eclipse-threadx/threadx/) — Eclipse ThreadX is an advanced real-time operating system (RTOS) designed specifically for deeply embedded applications
 - [FreeRTOS](https://www.freertos.org/)
+- [MannyPeterson/HeliOS · GitHub](https://github.com/MannyPeterson/HeliOS)
 - [PX5 RTOS](https://px5rtos.com/)
 - [QNX High-Performance Embedded Solutions](https://qnx.software/en)
 - [VxWorks](https://www.windriver.com/products/vxworks-es) — RTOS para Intelligent Edge
@@ -69,17 +74,19 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 ### Router OS
 - [BSD Router Project](https://bsdrp.net/)
 - [DD-WRT](https://dd-wrt.com/)
-- [Entware](https://entware.net/) — embedded devices
+- [Entware](https://entware.net/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Entware/Entware) — embedded devices
 - [fli4l](http://www.fli4l.de/)
 - [MikroTik](https://mikrotik.com/download) — Router OS
 - [MikroTik RouterOS](https://mikrotik.com/software)
 - [OpenWrt Table of Hardware](https://toh.openwrt.org/?view=normal) — Device Compatibility Guide
+- [prpl Foundation / prplOS / prplos · GitLab](https://gitlab.com/prpl-foundation/prplos/prplos)
 - [prplOS](https://prplfoundation.org/working-groups/prplos/) — prpl Foundation
 - [VyOS](https://vyos.io/)
 - [Zeroshell Linux Router](https://www.zeroshell.org/)
 
 ### Server OS
 - [Start9Labs/start-os](https://github.com/Start9Labs/start-os) — A graphical server OS optimized for self-hosting · GitHub
+- [TritonDataCenter/smartos-live · GitHub](https://github.com/TritonDataCenter/smartos-live)
 
 #### Enterprise Server OS
 - ⭐ **[Proxmox](https://www.proxmox.com/en/)** — Powerful open-source server solution
@@ -102,10 +109,12 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 
 #### Home Server OS
 - ⭐ **[Umbrel](https://umbrel.com/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/getumbrel/umbrel) — The ultimate home server and OS for self-hosting
+- [ajnart/homarr · GitHub](https://github.com/ajnart/homarr)
 - [Amahi Home Server](https://www.amahi.org/) — Making Home Networking Simple
+- [AuxXxilium/arc](https://github.com/AuxXxilium/arc) — Arc is a customized Redpill Loader for DSM 7.x
 - [CapRover · Scalable, Free and Self-hosted PaaS!](https://caprover.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/caprover/caprover)
 - [CasaOS](https://casaos.zimaspace.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/IceWhaleTech/CasaOS) — A simple, easy-to-use, elegant open-source personal cloud system
-- [DietPi](https://dietpi.com/) — Lightweight justice for your SBC!
+- [DietPi](https://dietpi.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/MichaIng/DietPi) — Lightweight justice for your SBC!
 - [DiskStation Manager](https://www.synology.com/en-us/dsm) — Synology Inc.
 - [EasyNAS](https://easynas.org/)
 - [FygoOS](https://fygonas.com/) — Powerful NAS OS
@@ -114,10 +123,12 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [NethServer](https://www.nethserver.org/)
 - [Nirvati](https://runcitadel.space/)
 - [Openfiler](https://www.openfiler.com/) — Open Platform Software Defined Storage
-- [Openmediavault](https://www.openmediavault.org/)
+- [Openmediavault](https://www.openmediavault.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/openmediavault/openmediavault)
 - [QTS NAS Operating System](https://www.qnap.com/en/operating-system/qts)
 - [Raspberry Pi OS](https://www.raspberrypi.com/software/)
-- [Runtipi](https://runtipi.io/) — Homeserver management made easy
+- [RedPill-TTG/dsm-research · GitHub](https://github.com/RedPill-TTG/dsm-research)
+- [Runtipi](https://runtipi.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/runtipi/runtipi) — Homeserver management made easy
+- [truenas/middleware · GitHub](https://github.com/truenas/middleware)
 - [Unraid OS](https://unraid.net/)
 - [XigmaNAS](https://xigmanas.com/xnaswp/)
 
@@ -130,7 +141,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 
 ##### Android ROMs
 - ⭐ **[ArrowOS](https://arrowos.net/)**
-- ⭐ **[GrapheneOS](https://grapheneos.org/)**
+- ⭐ **[GrapheneOS](https://grapheneos.org/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/GrapheneOS/Camera)
 - ⭐ **[KaiOS](https://www.kaiostech.com/)**
 - [/e/OS](https://e.foundation/e-os/) — e Foundation
 - [AluminiumOS](https://aluminium-os.com/) — Android For PC
@@ -143,9 +154,11 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [AOKP Devices](http://aokp.co/devices)
 - [AospExtended ROM](https://www.aospextended.com/)
 - [Bliss OS](https://blissos.org/)
+- [BlissOS-x86](https://sourceforge.net/projects/blissos-x86/) — SourceForge
 - [BlissRoms](https://blissroms.org/)
 - [Bootleggers ROM](https://www.bootleggersrom.xyz/)
 - [CalyxOS](https://calyxos.org/) / [![GitLab](/img/source-hosts/gitlab.svg)](https://gitlab.com/CalyxOS)
+- [CesiumOS · SourceForge](https://sourceforge.net/projects/cesiumos-org/)
 - [Chainfire](https://chainfire.eu/)
 - [ColorOS](https://www.coloros.com/)
 - [ColorOS 12](https://www.oppo.com/en/coloros12/) — OPPO Global
@@ -205,18 +218,22 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 
 ##### Linux Phone OS
 - ⭐ **[PostmarketOS](https://postmarketos.org/)**
+- [corellium/projectsandcastle · GitHub](https://github.com/corellium/projectsandcastle)
 - [DivestOS Mobile](https://divestos.org/)
 - [dreemurrs-embedded/Pine64-Arch · GitHub](https://github.com/dreemurrs-embedded/Pine64-Arch)
 - [Fairphone](https://shop.fairphone.com/en/)
+- [GNOME / Calls · GitLab](https://gitlab.gnome.org/GNOME/calls)
 - [HarmonyOS](https://www.harmonyos.com/)
 - [JingOS](https://en.jingos.com/)
 - [Kali NetHunter](https://www.kali.org/docs/nethunter/) — Kali Linux Documentation
 - [manjaro-pinephone/plasma-mobile · GitHub](https://github.com/manjaro-pinephone/plasma-mobile)
-- [microG Project](https://microg.org/)
+- [microG Project](https://microg.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/microg/GmsCore)
 - [Mobian](https://mobian-project.org/)
 - [OpenAtom OpenHarmony](https://www.openharmony.cn/mainPlay)
 - [PINE64](https://pine64.org/)
+- [Plasma / Plasma Mobile · GitLab](https://invent.kde.org/plasma/plasma-mobile)
 - [Plasma Mobile](https://plasma-mobile.org/)
+- [Plasma Mobile / Plasma Mobile Dialer · GitLab](https://invent.kde.org/plasma-mobile/plasma-dialer)
 - [PureOS](https://pureos.net/)
 - [Purism](https://puri.sm/products/librem-5/) — Librem 5
 - [SailfishOS](https://sailfishos.org/)
@@ -245,6 +262,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [webOS Open Source Edition](https://www.webosose.org/)
 - [webOS TV Developer](https://webostv.developer.lge.com/)
 - [webosbrew/dev-manager-desktop · GitHub](https://github.com/webosbrew/dev-manager-desktop)
+- [webosose/build-webos · GitHub](https://github.com/webosose/build-webos)
 - [Whale TV](https://www.whaletv.com/) — Home
 - [Yahoo Smart TV](https://smarttv.yahoo.com/)
 
@@ -291,7 +309,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [Inferno OS](https://inferno-os.org/) — operating system for portable distributed applications
 - [KolibriOS](https://www.kolibrios.org/en/)
 - [KotOS](https://kot-org.github.io/)
-- [meanOs](https://mean.xn--s-sqa.com/) — The smallest and the most powerful operating system
+- [meanOs](https://mean.xn--s-sqa.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/meanos/meanOs) — The smallest and the most powerful operating system
 - [minexew/Shrine](https://github.com/minexew/Shrine) — A TempleOS distro for heretics
 - [Minix3](https://www.minix3.org/)
 - [MorphOS](https://www.morphos-team.net/)
@@ -302,11 +320,13 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [pranaOS/pranaOS · GitHub](https://github.com/pranaOS/pranaOS)
 - [PureDarwin](https://www.puredarwin.org/)
 - [ReactOS](https://reactos.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/reactos/reactos)
+- [ReactOS](https://sourceforge.net/projects/reactos/) — SourceForge
 - [RISC OS](https://www.riscosopen.org/content)
 - [ROS.org](https://www.ros.org/)
+- [skift-org/skift](https://github.com/skift-org/skift) — 🥑 The delightful operating system
 - [skiftOS](https://skiftos.org/)
 - [sphaerophoria/stream-os · GitHub](https://github.com/sphaerophoria/stream-os)
-- [ToaruOS](https://toaruos.org/)
+- [ToaruOS](https://toaruos.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/klange/toaruos)
 - [TRSDOS Commands](http://www.trs-80.org/trsdos-model1-commands/)
 - [vinsdragonis/Odin · GitHub](https://github.com/vinsdragonis/Odin)
 
@@ -325,12 +345,12 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [helloSystem/ISO · GitHub](https://github.com/helloSystem/ISO)
 - [MidnightBSD](https://www.midnightbsd.org/)
 - [NetBSD](https://netbsd.org/)
-- [NomadBSD](https://nomadbsd.org/)
-- [OpenBSD](https://www.openbsd.org/)
+- [NomadBSD](https://nomadbsd.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/nomadbsd/NomadBSD)
+- [OpenBSD](https://www.openbsd.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/openbsd/src)
 - [OpenOrbis/OpenOrbis-PS4-Toolchain · GitHub](https://github.com/OpenOrbis/OpenOrbis-PS4-Toolchain)
 - [OpenPorts.se](https://openports.se/)
 - [PS5 Software](https://www.playstation.com/en-us/support/hardware/ps5/system-software/) — PlayStation
-- [ravynOS](https://ravynos.com/) — Finesse of macOS. Freedom of FreeBSD
+- [ravynOS](https://ravynos.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/ravynsoft/ravynos) — Finesse of macOS. Freedom of FreeBSD
 
 ##### macOS
 - [Apple Copland OS](https://archive.org/details/apple-copland-os.-7z) — Internet Archive
@@ -349,8 +369,8 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [ember · GitHub](https://github.com/Made-In-Basement/ember)
 - [GNU Guix](https://guix.gnu.org/) / [![Codeberg](/img/source-hosts/codeberg.svg)](https://codeberg.org/guix/guix)
 - [IBM Power AIX](https://www.ibm.com/products/aix)
-- [illumos](https://illumos.org/)
-- [Lemon OS](https://lemonos.org/)
+- [illumos](https://illumos.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/illumos/illumos-gate)
+- [Lemon OS](https://lemonos.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/LemonOSProject/LemonOS)
 - [llenotre/maestro](https://github.com/llenotre/maestro) — Unix-like kernel written in Rust
 - [mrgian/felixOS · GitHub](https://github.com/mrgian/felix)
 - [Plan 9 from User Space](https://9fans.github.io/plan9port/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/9fans/plan9port)
@@ -373,12 +393,15 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - ⭐ **[Garuda Linux](https://garudalinux.org/)**
 - ⭐ **[Manjaro](https://manjaro.org/)** — The Linux for people and organizations
 - [ALG](https://sourceforge.net/projects/arch-linux-gui/) — SourceForge
+- [ALHP/ALHP.GO](https://somegit.dev/ALHP/ALHP.GO) — somegit.dev
 - [AlterLinux](https://alter.fascode.net/) — FascodeNetwork
 - [Anarchy Installer](https://anarchyinstaller.gitlab.io/)
+- [Anarchy Installer · GitLab](https://gitlab.com/anarchyinstaller/installer)
 - [Anarchy-Linux](https://anarchy-linux.org/)
 - [AntergOS](https://sourceforge.net/projects/antergos/) — SourceForge
 - [Apricity OS](https://apricityos.com/)
 - [Arch Hurd](https://archhurd.org/)
+- [Arch Linux / devtools · GitLab](https://gitlab.archlinux.org/archlinux/devtools)
 - [Arch Linux 32](https://archlinux32.org/)
 - [Arch Linux ARM](https://archlinuxarm.org/)
 - [Arch Linux GUI](https://archlinuxgui.in/)
@@ -386,10 +409,15 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [Arch-based distributions](https://wiki.archlinux.org/title/Arch-based_distributions) — ArchWiki
 - [ArchBang](https://sourceforge.net/projects/archbang/)
 - [ArchBang Live ISO](https://archbang.org/)
+- [Archcraft](https://sourceforge.net/projects/archcraft/) — SourceForge
 - [ArchEX Linux Live DVD](https://sourceforge.net/projects/archex/)
 - [ArchLabs Linux](https://archlabslinux.com/)
+- [ArchLinux/Packages · GitLab](https://gitlab.archlinux.org/archlinux/packaging/packages)
 - [Archman GNU/Linux](https://archman.org/)
 - [ArchStrike](https://archstrike.org/)
+- [ArcoLinux · SourceForge](https://sourceforge.net/projects/arcolinux/)
+- [arcolinux/arcolinux_repo · GitHub](https://github.com/arcolinux/arcolinux_repo)
+- [ArcoLinuxB Editions](https://sourceforge.net/projects/arcolinux-community-editions/)
 - [Arkane Linux](https://arkanelinux.org/)
 - [Athena-OS/athena-iso · GitHub](https://github.com/Athena-OS/athena-iso)
 - [Axyl](https://axyl-os.github.io/) — The distro for tiling WMs
@@ -398,7 +426,9 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [BigLinux](https://www.biglinux.com.br/)
 - [BioArchLinux](https://bioarchlinux.org/)
 - [BlackArch Linux](https://www.blackarch.org/) — Penetration Testing Distribution
+- [blendOS](https://sourceforge.net/projects/blendos/) — SourceForge
 - [BluestarLinux](https://sourceforge.net/projects/bluestarlinux/) — SourceForge
+- [CachyOS](https://sourceforge.net/projects/cachyos-arch/) — SourceForge
 - [Calam-Arch-Installer.iso](https://sourceforge.net/projects/blue-arch-installer/) — SourceForge
 - [Chakra GNU](https://distrowatch.com/table-mobile.php?distribution=chakra) — DistroWatch
 - [ChimeraOS/chimeraos · GitHub](https://github.com/ChimeraOS/chimeraos)
@@ -407,9 +437,12 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [Crystal Linux](https://getcryst.al/site)
 - [Crystal Linux · GitLab](https://git.getcryst.al/crystal)
 - [Ctlos Linux](https://ctlos.github.io/)
+- [DTOS · SourceForge](https://sourceforge.net/projects/dtos/)
 - [DTOS / DTOS · GitLab](https://gitlab.com/dtos/dtos)
 - [EndeavourOS ARM](https://arm.endeavouros.com/)
 - [Exodia · OS For Cyber Security](https://exodia-os.github.io/exodia-website/)
+- [Exodia OS](https://sourceforge.net/projects/exodia-releases/) — SourceForge
+- [Garuda Linux](https://sourceforge.net/projects/garuda-linux/) — SourceForge
 - [HefftorLinux](https://sourceforge.net/projects/hefftorlinux/)
 - [Hyperbola](https://www.hyperbola.info/)
 - [instantOS](https://instantos.io/)
@@ -418,6 +451,8 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [Liya · GitLab](https://liyalinux.gitlab.io/)
 - [mAid](https://maid.binbash.rocks/) — \[m\]anage \[A\]ndro\[id\]
 - [Mainstream OS](https://mainstreamos.org/) — Arch, approachable. Hyprland, at home.
+- [Manjaro Linux](https://sourceforge.net/projects/manjarolinux/) — SourceForge
+- [Maze Linux](https://mazelinux.berkkucukk.com.tr/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/berk-kucuk/Maze-Linux) — Arch, hardened and ready
 - [METIS Linux](https://metislinux.org/)
 - [Nyarch Linux](https://nyarchlinux.moe/)
 - [Obarun](https://web.obarun.org/index.php)
@@ -428,6 +463,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [PuppyRus Linux](https://wiki.puppyrus.org/start)
 - [PuppyRus.org](https://puppyrus.org/)
 - [RebornOS](https://rebornos.org/)
+- [RebornOS](https://sourceforge.net/projects/rebornos/) — SourceForge
 - [Revenge OS](http://revengeos.weebly.com/)
 - [Salient OS](https://sourceforge.net/projects/salient-os/)
 - [SDesk, Steve Studios](https://stevestudios.net/sdesk/)
@@ -438,11 +474,12 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [TeArch Linux · GitLab](https://gitlab.com/tearch-linux)
 - [theShell OS](https://old.vicr123.com/theshell/os/)
 - [theVakhovskeIsTaken/holoiso](https://github.com/theVakhovskeIsTaken/holoiso) — SteamOS 3
-- [Tom OS](https://tos.odex.be/) — GNU/Linux
+- [Tom OS](https://tos.odex.be/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/ODEX-TOS/tos-live) — GNU/Linux
 - [Triom-Jro](https://www.tromjaro.com/es/)
 - [UBOS](https://ubos.net/)
 - [Ultimate Editon OS](https://ultimateedition.info/)
 - [w84death/floppinux](https://github.com/w84death/floppinux) — An Embedded 🐧Linux on a Single 💾Floppy
+- [XeroLinux · SourceForge](https://sourceforge.net/projects/xerolinux/)
 
 **Chrome-OS**
 - [ChromeOS](https://chromeos.google/) — The Cloud-First, Secure OS for your Business
@@ -459,6 +496,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - ⭐ **[Loc-OS Linux](https://loc-os.com/)**
 - [Academix GNU/ Linux](https://academixproject.com/) — AcademiX GNU/Linux
 - [antiX Linux](https://antixlinux.com/)
+- [antiX-Linux](https://sourceforge.net/projects/antix-linux/) — SourceForge
 - [Armbian](https://www.armbian.com/) — Linux for ARM boards
 - [BackTrack Linux](https://www.backtrack-linux.org/) — Penetration Testing Distribution
 - [BesGnuLinux](https://besgnulinux.blogspot.com/)
@@ -470,6 +508,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [CrunchBang Linux](https://crunchbang.org/)
 - [Crunchbangplusplus](https://www.crunchbangplusplus.org/)
 - [CuerdOS GNU/Linux](https://cuerdos.github.io/)
+- [Debian Installer / console-setup · GitLab](https://salsa.debian.org/installer-team/console-setup)
 - [DebianDog](https://debiandog.github.io/doglinux/)
 - [DragonOS · SourceForge](https://sourceforge.net/projects/dragonos-focal/)
 - [Elive Linux](https://www.elivecd.org/)
@@ -506,9 +545,11 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [MiniOS](https://minios.dev/#more) — Fast. Simple. Reliable.
 - [MSM757/Titan_Linux · GitHub](https://github.com/MSM757/Titan_Linux)
 - [MX Linux](https://mxlinux.org/)
+- [MX-Linux](https://sourceforge.net/projects/mx-linux/) — SourceForge
 - [Neptune OS](https://neptuneos.com/en/start-page.html)
 - [Netrunner GNU/Linux](https://www.netrunner.com/)
 - [Nitrux](https://nxos.org/)
+- [Nitrux](https://sourceforge.net/projects/nitruxos/) — SourceForge
 - [Noah Cagle / Hannah Montana Linux v26.0 · GitLab](https://gitlab.com/DecaCagle/hannahmontanalinux26)
 - [PakOS](https://sourceforge.net/projects/pakos/) — SourceForge
 - [Pardus](https://pardus.github.io/)
@@ -525,12 +566,15 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [SolydXK](https://solydxk.com/)
 - [Soplos Linux](https://soplos.org/) — Tu sistema operativo amigable
 - [SparkyLinux](https://sparkylinux.org/)
+- [SparkyLinux](https://sourceforge.net/projects/sparkylinux/) — SourceForge
 - [SpiralLinux](https://spirallinux.github.io/)
 - [SysLinuxOS](https://syslinuxos.com/)
 - [TUXEDO OS](https://www.tuxedocomputers.com/en/TUXEDO-OS_1.tuxedo) — TUXEDO Computers
 - [Uruk GNU/Linux](https://www.urukproject.org/dist/en.html)
 - [Vailux n.e.V](https://www.vailux.de/) / [![GitLab](/img/source-hosts/gitlab.svg)](https://gitlab.vailux.de/vailux/vailuxos)
+- [Vanilla-OS/os](https://github.com/Vanilla-OS/os) — Vanilla OS release ISO Builder
 - [Vendefoul Wolf Linux](https://vendefoulwolf.wordpress.com/excalibur/) — Excalibur Trinity y Plasma
+- [Waha Linux](https://sourceforge.net/projects/wahalinux/) — SourceForge
 - [Whonix](https://www.whonix.org/)
 - [Window Maker Live](https://wmlive.sourceforge.net/)
 - [Zephix Linux](https://zephix-linux.sourceforge.io/)
@@ -550,17 +594,20 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [Fedora Asahi Remix](https://fedora-asahi-remix.org/)
 - [Fedora Spins](https://spins.fedoraproject.org/)
 - [GeckoLinux](https://geckolinux.github.io/)
+- [gloriouseggroll/nobara](https://copr.fedorainfracloud.org/coprs/gloriouseggroll/nobara/packages/) — fedora copr
 - [Mageia 8](https://www.mageia.org/en/8/)
 - [Origami Linux](https://origami.wf/) — Fold Your System
 - [PikaOS Linux](https://wiki.pika-os.com/en/home) / [🔗](https://git.pika-os.com/explore/repos)
 - [Playtron](https://www.playtron.one/)
 - [risi OS](https://risi.io/)
+- [Thomas Crider / Nobara Images · GitLab](https://gitlab.com/GloriousEggroll/nobara-images)
 - [Ultramarine Linux](https://ultramarine-linux.org/)
 - [Universal Blue](https://universal-blue.org/) — Powered by the future, delivered today
 
 **Gentoo-Based**
 - ⭐ **[Gentoo Linux](https://www.gentoo.org/)**
 - [Bicom Systems](https://www.bicomsystems.com/download/)
+- [bsd-ac/wayland-desktop · GitHub](https://github.com/bsd-ac/wayland-desktop)
 - [Calculate Linux](https://www.calculate-linux.org/)
 - [Exherbo](https://exherbo.org/)
 - [Exherbo](https://www.exherbolinux.org/)
@@ -571,6 +618,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [PBXware IP PBX](https://www.bicomsystems.com/products/pbxware/)
 - [Pentoo](https://www.pentoo.ch/)
 - [Pentoo](https://pentoo.org/)
+- [pentoo/pentoo-overlay · GitHub](https://github.com/pentoo/pentoo-overlay)
 - [Porteus Kiosk](https://porteus-kiosk.org/)
 - [Redcore Linux Project](https://redcorelinux.org/)
 - [Rogentos Linux Group](https://rogentos.ro/)
@@ -602,7 +650,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [Chimera Linux](https://chimera-linux.org/)
 - [ChimeraOS](https://chimeraos.org/)
 - [Clear Linux](https://clearlinux.org/)
-- [Cobbler](https://cobbler.github.io/) — Linux install and update server
+- [Cobbler](https://cobbler.github.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/cobbler/cobbler) — Linux install and update server
 - [CRUX.nu](https://crux.nu/)
 - [DAT Linux](https://datlinux.com/)
 - [Deepin Technology](https://www.deepin.org/index/en)
@@ -619,8 +667,9 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [gokrazy](https://gokrazy.org/)
 - [HomelabOS](https://homelabos.com/)
 - [Ivandavidov/minimal · GitHub](https://github.com/ivandavidov/minimal)
-- [Kairos](https://kairos.io/) — The immutable Linux meta-distribution for edge Kubernetes
+- [Kairos](https://kairos.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/kairos-io/kairos) — The immutable Linux meta-distribution for edge Kubernetes
 - [KaOS](https://kaosx.us/)
+- [KaOSx](https://sourceforge.net/projects/kaosx/) — SourceForge
 - [KISS Linux](https://kisslinux.org/)
 - [Lakka](https://www.lakka.tv/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/libretro/Lakka-LibreELEC) — The DIY open source retrogaming emulation console
 - [LFA Linux](https://lfa.exton.net/) — Linux for all
@@ -631,6 +680,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [Linux-Mandrake](https://mandrakelinux.org/)
 - [Linuxfx OS](https://www.linuxfx.org/)
 - [List of Linux distributions](https://en.wikipedia.org/wiki/List_of_Linux_distributions) — Wikipedia
+- [LordOS](https://lordos.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/lordbasex/LordOS) — the free, fast and secure Linux desktop
 - [luke8086/gentleos32](https://github.com/luke8086/gentleos32) — Hobby operating system for vintage 32-bit PCs
 - [NixOS Hydra](https://hydra.nixos.org/)
 - [nuta/kerla · GitHub](https://github.com/nuta/kerla)
@@ -670,12 +720,14 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [Talos Linux](https://www.talos.dev/)
 - [tauOS](https://tauos.co/)
 - [The Kubernetes Operating System](https://k3os.io/)
+- [tiagoad/suicide-linux · GitHub](https://github.com/tiagoad/suicide-linux)
 - [Tiny Core Linux](http://tinycorelinux.net/)
 - [Ufficio Zero Linux OS](https://www.ufficiozero.org/)
 - [UTUTO](http://ututo.org/)
 - [Venom Linux](https://venomlinux.org/)
 - [vmware/photon](https://github.com/vmware/photon) — Minimal Linux container host
 - [VzLinux](https://vzlinux.org/)
+- [Xenia Group / Xenia Linux · GitLab](https://gitlab.com/xenia-group/xenia-linux)
 - [Xpenology](https://xpenology.org/)
 - [Yocto Project](https://www.yoctoproject.org/)
 - [Zentyal Linux Server](https://zentyal.com/)
@@ -714,11 +766,12 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [Salix](https://www.salixos.org/)
 - [Slackware ARM / AArch64](https://arm.slackware.com/)
 - [Slint](https://slint.fr/)
+- [SPup](https://sourceforge.net/projects/spup/) — SourceForge.net
 - [SylixOS](https://sylixos.com/)
 - [Zenwalk GNU Linux](http://www.zenwalk.org/)
 
 **Ubuntu-Based**
-- ⭐ **[Elementary OS](https://elementary.io/)**
+- ⭐ **[Elementary OS](https://elementary.io/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/elementary/appcenter)
 - ⭐ **[KDE neon](https://neon.kde.org/)**
 - ⭐ **[Linux Lite OS](https://www.linuxliteos.com/)**
 - ⭐ **[Pop! OS](https://pop.system76.com/)** — System76
@@ -727,26 +780,34 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - ⭐ **[Zorin OS](https://zorin.com/os/)** — Make your computer better
 - [AnduinOS](https://www.anduinos.com/) — Open Source & Linux
 - [Bodhi Linux](https://www.bodhilinux.com/)
+- [Br OS](https://sourceforge.net/projects/bros/) — SourceForge
 - [CAINE Live](https://www.caine-live.net/) — computer forensics digital forensics
+- [canonical/mini-iso-tools · GitHub](https://github.com/canonical/mini-iso-tools)
+- [canonical/subiquity · GitHub](https://github.com/canonical/subiquity)
 - [Cloud-int](https://cloud-init.io/)
 - [CutefishOS](https://cutefish-ubuntu.github.io/)
 - [Drauger OS](https://draugeros.org/)
 - [elementaryOS AppCenter](https://appcenter.elementary.io/)
 - [Emmabuntüs](https://emmabuntus.org/)
 - [Feren OS](https://ferenos.weebly.com/)
+- [Feren OS](https://sourceforge.net/projects/ferenoslinux/) — SourceForge
 - [HannaMontana Linux](https://hannahmontana.sourceforge.net/)
 - [iBuntu](https://ibuntuos.com/) — as close as possible to macOS
 - [Kubuntu](https://kubuntu.org/)
 - [Linux Kodachi](https://www.digi77.com/)
 - [Lubuntu](https://lubuntu.me/)
 - [Lubuntu.net](https://lubuntu.net/)
+- [LXLE](https://sourceforge.net/projects/lxle/)
 - [LXLE Desktop](https://lxle.net/)
 - [MakuluLinux](http://www.makululinux.com/wp/)
 - [NebiOS](https://nebios.org/) — Cutting-Edge & User-Friendly Linux OS
 - [Omakub](https://omakub.org/)
 - [OSGeoLive](https://live.osgeo.org/en/index.html)
 - [PikaOS](https://pika-os.com/) — The cool birb OS
+- [PJ-Singh-001/Cubic (Custom Ubuntu ISO Creator) · GitHub](https://github.com/PJ-Singh-001/Cubic)
 - [Rhino Linux](https://rhinolinux.org/)
+- [Rhino Linux](https://sourceforge.net/projects/rhino-linux-builder/)
+- [rhino-linux/os · GitHub](https://github.com/rhino-linux/os)
 - [Robolinux.org](https://robolinux.org/)
 - [Slax Linux](https://www.slax.org/)
 - [Tails OS](https://tails.net/)
@@ -765,9 +826,10 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [Voyager live OS](https://voyagerlive.org/)
 - [Wubuntu](https://www.wubuntu.org/) — The Windows Ubuntu Operating System
 - [Xubuntu](https://xubuntu.org/)
+- [Zorin OS](https://sourceforge.net/projects/zorin-os/)
 
 **Void-Based**
-- ⭐ **[Void Linux](https://voidlinux.org/)** — Enter the Void
+- ⭐ **[Void Linux](https://voidlinux.org/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/void-linux/void-packages) — Enter the Void
 - [Cereus Linux](https://cereuslinuxproject.github.io/)
 - [d77void GNU/Linux](https://d77void.sourceforge.io/)
 
@@ -775,6 +837,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [Alpine WSL](https://apps.microsoft.com/detail/9P804CRF0395?hl=en-us&gl=US) — Microsoft Store
 - [Arch WSL](https://apps.microsoft.com/detail/9mznmnksm73x?hl=en-US&gl=ES) — Microsoft Store
 - [Athena OS](https://apps.microsoft.com/detail/9N1M7Q4F1KQF?hl=en-US&gl=US) — Microsoft Apps
+- [CypherpunkArmory/UserLAnd](https://github.com/CypherpunkArmory/UserLAnd) — Main UserLAnd Repository
 - [Fedora WSL](https://apps.microsoft.com/detail/9NPCP8DRCHSN?hl=en-us&gl=US) — Microsoft Store
 - [Kali WSL](https://www.kali.org/docs/wsl/wsl-preparations/) — Kali Linux Documentation
 - [microsoft/WSL · GitHub](https://github.com/microsoft/WSL)
@@ -787,9 +850,12 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [Atlas](https://atlasos.net/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Atlas-OS/Atlas) — An optimized modification of Windows
 - [Atlas-OS/Atlas · GitHub](https://github.com/Atlas-OS/Atlas)
 - [HickerDicker/SapphireOS](https://github.com/HickerDicker/SapphireOS)
+- [itsmattkc/dotnet9x · GitHub](https://github.com/itsmattkc/dotnet9x)
 - [Massgrave](https://massgrave.dev/genuine-installation-media) — Download Windows / Office
 - [meetrevision/playbook · GitHub](https://github.com/meetrevision/playbook)
+- [memstechtips/UnattendedWinstall · GitHub](https://github.com/memstechtips/UnattendedWinstall)
 - [Microsoft Update Catalog](https://www.catalog.update.microsoft.com/Home.aspx)
+- [microsoft/MS-DOS · GitHub](https://github.com/microsoft/MS-DOS)
 - [ntdevlabs/tiny11builder · GitHub](https://github.com/ntdevlabs/tiny11builder)
 - [Osu1](http://www.xbox.com/xboxone/osu1) — Xbox
 - [RevisionOS](https://www.revi.cc/)
@@ -816,6 +882,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 ## OS Components
 
 ### Bootloader
+- [~amjoseph/ownerboot · SourceHut](https://git.sr.ht/~amjoseph/ownerboot)
 - [acidanthera/OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) — OpenCore bootloader
 - [Amutable](https://amutable.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/amutable-systems)
 - [Barebox](https://www.barebox.org/)
@@ -829,6 +896,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [iPXE](https://ipxe.org/) — open source boot firmware
 - [Libreboot project](https://libreboot.org/)
 - [Limine bootloader](https://limine-bootloader.org/)
+- [limine-bootloader/limine · GitHub](https://github.com/limine-bootloader/limine)
 - [netboot.xyz](https://netboot.xyz/docs)
 - [open-power/petitboot · GitHub](https://github.com/open-power/petitboot)
 - [ownerboot](https://sr.ht/~amjoseph/ownerboot/) — sourcehut git
@@ -855,7 +923,9 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [Deepin desktop](https://www.deepin.org/en/dde/)
 - [Desktop environment](https://en.wikipedia.org/wiki/Desktop_environment) — Wikipedia
 - [Dusk (fork of dwm)](https://github.com/bakkeby/dusk)
+- [enlightenment/enlightenment](https://git.enlightenment.org/enlightenment/enlightenment) — gitea
 - [Event-Horizon-desktop-environment/Event-Horizon](https://github.com/Event-Horizon-desktop-environment/Event-Horizon) — A zig Written Shell · GitHub
+- [Frameworks / KIO · GitLab](https://invent.kde.org/frameworks/kio)
 - [Free Desktop](https://xcb.freedesktop.org/) — xcb
 - [giomatfois62/rofi-desktop · GitHub](https://github.com/giomatfois62/rofi-desktop/tree/main)
 - [GNOME](https://www.gnome.org/)
@@ -863,6 +933,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [Greenfield](https://www.greenfield.app/)
 - [Katana Desktop · GitHub](https://github.com/fluxer/katana)
 - [KDE Plasma](https://kde.org/plasma-desktop/)
+- [linuxmint/cinnamon · GitHub](https://github.com/linuxmint/cinnamon)
 - [Lomirir](https://unity8.io/) — Unity 8
 - [Lumina Desktop](https://lumina-desktop.org/)
 - [LXDE](https://www.lxde.org/)
@@ -871,6 +942,9 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [NOMone Desktop](https://desktop.nomone.com/) — Your desktop on the go!
 - [NsCDE/NsCDE · GitHub](https://github.com/NsCDE/NsCDE)
 - [Phosh](https://phosh.mobi/) / [![GitLab](/img/source-hosts/gitlab.svg)](https://gitlab.gnome.org/World/Phosh/phosh)
+- [Plasma / Plasma Desktop · GitLab](https://invent.kde.org/plasma/plasma-desktop)
+- [Plasma / Plasma Workspace · GitLab](https://invent.kde.org/plasma/plasma-workspace)
+- [Plasma / System Settings · GitLab](https://invent.kde.org/plasma/systemsettings)
 - [ROX Desktop](http://rox.sourceforge.net/desktop/)
 - [Starling](https://starling.build/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/starling-build/starling) — great software, open to everyone
 - [Sxmo](https://sxmo.org/) / [🔗](https://sxmo.org/source) — Simple X mobile
@@ -891,6 +965,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 #### App Launcher
 - [AIO Launcher](https://aiolauncher.app/)
 - [albu-razvan/Stario](https://github.com/albu-razvan/Stario) — Do more with Stario — the minimalist launcher for you.
+- [Alplox/StartpagePlox](https://github.com/Alplox/StartpagePlox) — Quería una página de inicio, así que hice una.
 - [AppGrid](https://appgrid.xarbit.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/xarbit/plasma6-applet-appgrid) — Grid Application Launcher for KDE Plasma 6
 - [AT4K Launcher App for Android TV](https://at4klauncher.com/)
 - [ATV Launcher Pro](https://play.google.com/store/apps/details?id=ca.dstudio.atvlauncher.pro) — Apps on Google Play
@@ -901,8 +976,9 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [FLauncher / FLauncher · GitLab](https://gitlab.com/flauncher/flauncher)
 - [GeorgeClensy/Escape-Launcher](https://github.com/GeorgeClensy/Escape-Launcher) — A minimalist android launcher to help you quit your phone addiction
 - [jkuester/unlauncher](https://github.com/jkuester/unlauncher) — Android minimalistic launcher
-- [KISS Launcher](https://kisslauncher.com/)
-- [Kvaesitso](https://kvaesitso.mm20.de/)
+- [kando-menu/kando](https://github.com/kando-menu/kando) — The Cross-Platform Pie Menu
+- [KISS Launcher](https://kisslauncher.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Neamar/KISS)
+- [Kvaesitso](https://kvaesitso.mm20.de/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/MM2-0/Kvaesitso)
 - [Lawnchair](https://lawnchair.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/LawnchairLauncher/lawnchair)
 - [Niagara Launcher](https://niagaralauncher.app/)
 - [Nova Launcher](https://novalauncher.com/)
@@ -927,21 +1003,29 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [o9000 / tint2 · GitLab](https://gitlab.com/o9000/tint2)
 - [Plank](https://launchpad.net/plank) — Launchpad
 - [Plasma / Latte Dock · GitLab](https://invent.kde.org/plasma/latte-dock)
-- [Polybar · GitHub](https://polybar.github.io/)
+- [Polybar · GitHub](https://polybar.github.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/polybar/polybar)
 - [Quickshell](https://quickshell.org/)
 - [Start11](https://www.stardock.com/products/start11/) — Stardock
 - [Vorssaint](https://vorssaint.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/vorssaint/vorssaint-utils) — The modular Swiss Army knife for macOS
 - [Waybar · GItHub](https://github.com/Alexays/Waybar)
 
 #### Desktop Customization
+- [alt-tab-macos · GitHub](https://github.com/lwouis/alt-tab-macos)
+- [Anthonyy232/Paperize · GitHub](https://github.com/Anthonyy232/Paperize)
+- [berkerol/photo-of-the-day · GitHub](https://github.com/berkerol/photo-of-the-day)
+- [betterlockscreen/betterlockscreen · GitHub](https://github.com/betterlockscreen/betterlockscreen)
 - [ChrisAnd1998/TaskbarXI](https://github.com/ChrisAnd1998/TaskbarXI) — An application written in C++ to modify the Windows 11 Taskbar.
+- [dracula-theme/themes · GitHub](https://github.com/dracula/dracula-theme/tree/master/themes)
+- [dracula/gtk · GitHub](https://github.com/dracula/gtk)
+- [hexive/sunpaper](https://github.com/hexive/sunpaper) — Dynamic wallpaper changes based on the sun
 - [jszczerbinsky/lwp · GitHub](https://github.com/jszczerbinsky/lwp)
+- [lumabar](https://lumabar.xyz/) — Smart Dock for Windows 11: a Taskbar Replacement with Live Widgets
 - [N0va Desktop](https://n0vadp.hoyoverse.com/#/)
 - [OneLaunch](https://onelaunch.com/)
 - [Portals](https://portals-app.com/) — Desktop Organization
-- [Rainmeter](https://www.rainmeter.net/)
+- [Rainmeter](https://www.rainmeter.net/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/rainmeter/rainmeter)
 - [RainySoft](https://rainysoft.cc/)
-- [Rectify11](https://rectify11.net/)
+- [Rectify11](https://rectify11.net/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Rectify11/Installer)
 - [StartAllBack to fix all Windows 11 deal-breaking UI issues](https://www.startallback.com/)
 - [Variety Wallpaper Changer](https://peterlevi.com/variety/)
 - [Wallpaper Engine](https://www.wallpaperengine.io/en)
@@ -950,21 +1034,22 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [Windhawk](https://windhawk.net/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/ramensoftware/windhawk)
 - [xbar, the BitBar reboot](https://xbarapp.com/)
 - [XDesktopSoft](https://xwidget.com/)
-- [XDG Desktop Portal](https://flatpak.github.io/xdg-desktop-portal/)
+- [XDG Desktop Portal](https://flatpak.github.io/xdg-desktop-portal/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/flatpak/xdg-desktop-portal)
 - [xerolinux/xero-layan-git · GitHub](https://github.com/xerolinux/xero-layan-git)
 - [xerolinux/xero-sweet-git · GitHub](https://github.com/xerolinux/xero-sweet-git)
 
 #### Desktop Launcher
 - [Albert](https://albertlauncher.github.io/)
 - [Alfred](https://www.alfredapp.com/) — Productivity App for macOS
-- [Cerebro App](https://www.cerebroapp.com/) — productivity booster with a brain
+- [Cerebro App](https://www.cerebroapp.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/cerebroapp/cerebro) — productivity booster with a brain
 - [DorianRudolph/sirula · GitHub](https://github.com/DorianRudolph/sirula)
-- [HyperPlay](https://www.hyperplay.xyz/)
+- [HyperPlay](https://www.hyperplay.xyz/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/HyperPlay-Gaming/hyperplay-desktop-client)
 - [Keypirinha](https://keypirinha.com/)
 - [kupfer launcher](https://kupferlauncher.github.io/)
 - [Lattix](https://www.lattix.app/) — Mac resource launcher to open workspace instantly
 - [Listary](https://www.listary.com/) — File Search & App Launcher
-- [Meilisearch](https://www.meilisearch.com/)
+- [markusfisch/PieLauncher · GitHub](https://github.com/markusfisch/PieLauncher)
+- [Meilisearch](https://www.meilisearch.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/meilisearch/meilisearch)
 - [Monarch](https://www.monarchlauncher.com/) — Everything you need, in a single hotkey
 - [oknozor/onagre · GitHub](https://github.com/oknozor/onagre)
 - [Parallel Launcher](https://parallel-launcher.ca/)
@@ -982,8 +1067,10 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 
 ##### Display Protocol
 - [Agent Host Protocol](https://microsoft.github.io/agent-host-protocol/)
+- [M. Stoeckl / Waypipe · GitLab](https://gitlab.freedesktop.org/mstoeckl/waypipe)
 - [Wayland](https://wayland.freedesktop.org/) / [![GitLab](/img/source-hosts/gitlab.svg)](https://gitlab.freedesktop.org/wayland) — Free desktop
 - [wayland / wayland · GitLab](https://gitlab.freedesktop.org/wayland/wayland)
+- [wayland / wayland-protocols · GitLab](https://gitlab.freedesktop.org/wayland/wayland-protocols)
 - [X Window System Protocol](https://www.x.org/releases/X11R7.7/doc/xproto/x11protocol.html)
 
 ##### Display Server
@@ -1002,6 +1089,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [EVV1E/waylandcraft](https://github.com/EVV1E/waylandcraft) — Wayland Compositor in Minecraft
 - [GNOME / mutter · GitLab](https://gitlab.gnome.org/GNOME/mutter/)
 - [hikari](https://hikari.acmelabs.space/) — A Wayland Compositor
+- [Hyprland · GitHub](https://github.com/vaxerski/Hyprland)
 - [inclement/vivarium](https://github.com/inclement/vivarium) — A dynamic tiling Wayland compositor using wlroots
 - [jbuchermn/newm · GitHub](https://github.com/jbuchermn/newm)
 - [kiwmi · GitHub](https://github.com/buffet/kiwmi)
@@ -1013,20 +1101,22 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [niri-wm/niri](https://github.com/niri-wm/niri) — A scrollable-tiling Wayland compositor
 - [Nitrux/maui-shell · GitHub](https://github.com/Nitrux/maui-shell)
 - [nwg-shell · GitHub](https://github.com/nwg-piotr/nwg-shell)
+- [Plasma / KWin · GitLab](https://invent.kde.org/plasma/kwin)
 - [river](https://isaacfreund.com/software/river/) / [![Codeberg](/img/source-hosts/codeberg.svg)](https://codeberg.org/river/river)
 - [riverwm/river](https://codeberg.org/river/river) — A dynamic tiling Wayland compositor
 - [rofi](https://github.com/lbonn/rofi) — Rofi-wayland
 - [Shell desktop · GitHub](https://github.com/lirios/shell)
 - [stumpwm/mahogany · GitHub](https://github.com/stumpwm/mahogany)
-- [Sway WM](https://swaywm.org/)
+- [Sway WM](https://swaywm.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/swaywm/sway)
 - [Taiwins](https://taiwins.org/#)
 - [udevbe/greenfield](https://github.com/udevbe/greenfield) — HTML5 Wayland compositor · GitHub
 - [ValveSoftware/gamescope · GitHub](https://github.com/ValveSoftware/gamescope)
-- [Wayfire](https://wayfire.org/)
+- [Waybox · GitHub](https://github.com/wizbright/waybox)
+- [Wayfire](https://wayfire.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/WayfireWM/wayfire)
 - [wayland / weston · GitLab](https://gitlab.freedesktop.org/wayland/weston)
 - [wayland/weston](https://cgit.freedesktop.org/wayland/weston/) — cgit
 - [waymonad/waymonad · GitHub](https://github.com/waymonad/waymonad)
-- [We are Wayland now!](https://wearewaylandnow.com/)
+- [We are Wayland now!](https://wearewaylandnow.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/gianklug/wearewaylandnow)
 - [wlroots / wlroots · GitLab](https://gitlab.freedesktop.org/wlroots/wlroots/)
 - [YaLTeR/niri · GitHub](https://github.com/YaLTeR/niri)
 - [zwin-project/zwin · GitHub](https://github.com/zwin-project/zwin)
@@ -1035,6 +1125,8 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [timon37/xwayland](https://github.com/timon37/xwayland) — xwayland
 - [X Org](https://xorg.freedesktop.org/wiki/) — freedesktop.org
 - [XFree86®](https://www.xfree86.org/) — Home to the X Window System
+- [xorg / lib / libX11 · GitLab](https://gitlab.freedesktop.org/xorg/lib/libx11)
+- [xorg / xserver · GitLab](https://gitlab.freedesktop.org/xorg/xserver)
 - [XQuartz](https://www.xquartz.org/)
 
 ##### X11 Compositor
@@ -1058,6 +1150,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [Alttab · GitHub](https://github.com/sagb/alttab)
 - [AquaSnap](https://www.nurgo-software.com/products/aquasnap) — Window Manager
 - [Berry WM](https://berrywm.org/)
+- [berry](https://github.com/JLErvin/berry) — window manager · GitHub
 - [cwm · GitHub](https://github.com/leahneukirchen/cwm)
 - [Enlightenment WM](https://www.enlightenment.org/)
 - [Fluxbox WM](http://fluxbox.org/)
@@ -1065,6 +1158,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [Fvwm](https://www.fvwm.org/)
 - [fvwmorg/fvwm3](https://github.com/fvwmorg/fvwm3) — FVWM version 3 - the successor to fvwm2
 - [Gamescope](https://github.com/Plagman/gamescope) — SteamOS · GitHub
+- [ice-wm/icewm · GitHub](https://github.com/ice-wm/icewm)
 - [IceWM](https://ice-wm.org/)
 - [JWM (Joe's Window Manager)](https://joewing.net/projects/jwm/)
 - [KWin](https://userbase.kde.org/KWin) — KDE
@@ -1086,10 +1180,10 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [Window Maker](https://www.windowmaker.org/)
 
 ###### Tiling Window Manager
-- ⭐ **[awesome wm](https://awesomewm.org/)**
+- ⭐ **[awesome wm](https://awesomewm.org/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/awesomeWM/awesome)
 - ⭐ **[Bismuth-Forge/bismuth](https://github.com/Bismuth-Forge/bismuth)** — KDE Plasma TWM add-on
 - ⭐ **[forge-ext/forge](https://github.com/forge-ext/forge)** — Tiling and Window Manager for Gnome-Shell
-- ⭐ **[i3](https://i3wm.org/)** — improved tiling wm
+- ⭐ **[i3](https://i3wm.org/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/i3/i3) — improved tiling wm
 - ⭐ **[pop-os/shell · GitHub](https://github.com/pop-os/shell)**
 - ⭐ **[zeroxoneafour/polonium](https://github.com/zeroxoneafour/polonium)** — Tiling window manager for KWin 5.27
 - [afterstep/afterstep · GitHub](https://github.com/afterstep/afterstep/)
@@ -1108,18 +1202,18 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [Fedora Installation](https://dwm.christitus.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/ChrisTitusTech/dwm-titus) — dwm-titus
 - [FT-Labs/pdwm · GitHub](https://github.com/FT-Labs/pdwm)
 - [glzr-io/glazewm](https://github.com/glzr-io/glazewm) — GlazeWM is a tiling window manager for Windows inspired by i3 and Polybar
-- [herbstluftwm](https://herbstluftwm.org/)
+- [herbstluftwm](https://herbstluftwm.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/herbstluftwm/herbstluftwm)
 - [hyprwm/Hypr · GItHub](https://github.com/hyprwm/Hypr)
 - [ianyh/Amethyst · GitHub](https://github.com/ianyh/Amethyst)
 - [Ion window manager](https://tuomov.iki.fi/software/ion/)
 - [Jazqa/kwin-quarter-tiling · GitHub](https://github.com/Jazqa/kwin-quarter-tiling)
 - [koekeishiya/yabai](https://github.com/koekeishiya/yabai) — A tiling window manager for macOS
-- [Komorebi WM](https://lgug2z.github.io/komorebi/)
+- [Komorebi WM](https://lgug2z.github.io/komorebi/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/LGUG2Z/komorebi)
 - [kwin-scripts/kwin-tiling · GitHub](https://github.com/kwin-scripts/kwin-tiling)
 - [lars-berger/GlazeWM · GitHub](https://github.com/lars-berger/GlazeWM)
-- [LeftWM](https://leftwm.org/)
+- [LeftWM](https://leftwm.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/leftwm/leftwm)
 - [MacTiler](https://mactiler.com/) — Professional Window Management for macOS
-- [Material Shell](https://material-shell.com/) — A new desktop experience
+- [Material Shell](https://material-shell.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/material-shell/material-shell) — A new desktop experience
 - [MrKai77/Loop](https://github.com/MrKai77/Loop) — Window management made elegant
 - [nextapps-de/winbox · GitHub](https://github.com/nextapps-de/winbox)
 - [nomcopter/react-mosaic · GitHub](https://github.com/nomcopter/react-mosaic)
@@ -1138,7 +1232,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [WillPower3309/swayfx · GitHub](https://github.com/WillPower3309/swayfx)
 - [Wmderland](https://github.com/aesophor/Wmderland)
 - [Worm window manager](https://github.com/codic12/worm)
-- [xmonad](https://xmonad.org/) — the tiling window manager that rocks
+- [xmonad](https://xmonad.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/xmonad/xmonad) — the tiling window manager that rocks
 - [xorg / app / twm · GitLab](https://gitlab.freedesktop.org/xorg/app/twm/)
 - [yurimaster2112/i3-gaps · GitHub](https://github.com/yurimaster2112/i3-gaps)
 
@@ -1152,6 +1246,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [emptty](https://github.com/tvrzna/emptty/) — simple CLI Display Manager
 - [entrance · GitHub](https://github.com/Obsidian-StudiosInc/entrance)
 - [evertiro/cdm · GitHub](https://github.com/evertiro/cdm)
+- [gdm-settings/gdm-settings · GitHub](https://github.com/gdm-settings/gdm-settings)
 - [GNOME / gdm · GitLab](https://gitlab.gnome.org/GNOME/gdm)
 - [greetd](https://git.sr.ht/~kennylevinsen/greetd) — SourceHut
 - [greetd](https://sr.ht/~kennylevinsen/greetd/) — A login manager daemon
@@ -1160,12 +1255,15 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [loh-tar/tbsm · GitHub](https://github.com/loh-tar/tbsm)
 - [lxdm](https://sourceforge.net/projects/lxdm/)
 - [Ly](https://github.com/fairyglade/ly) — display manager · GitHub
+- [realmazharhussain/gdm-settings · GitHub](https://github.com/realmazharhussain/gdm-settings)
+- [rharish101/ReGreet](https://github.com/rharish101/ReGreet) — Clean and customizable greeter for greetd
 - [sddm · GitHub](https://github.com/sddm/sddm/)
+- [seatd](https://sr.ht/~kennylevinsen/seatd/) — Seat management daemon and library
 
 ### Desktop System as Website
 - ⭐ **[daedalOS](https://dustinbrett.com/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/DustinBrett/daedalOS)
-- [98.js](https://98.js.org/) — Windows 98 Online
-- [ArozOS](https://os.aroz.org/#)
+- [98.js](https://98.js.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/1j01/98) — Windows 98 Online
+- [ArozOS](https://os.aroz.org/#) / [![GitHub](/img/software/apps/github.svg)](https://github.com/tobychui/arozos)
 - [Ash Kyd](https://ash.ms/)
 - [CloudMe](https://www.cloudme.com/en)
 - [CloudTop](https://cloudtop.com/)
@@ -1176,7 +1274,8 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [OS.js](https://www.os-js.org/)
 - [OSv](https://osv.io/) — the operating system designed for the cloud
 - [Patrick Kage](https://ka.ge/)
-- [Puter](https://puter.com/)
+- [popcar2/GodotOS](https://github.com/popcar2/GodotOS) — A Fake Operating System Interface made in Godot!
+- [Puter](https://puter.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/HeyPuter/puter)
 - [The Preposterous Official Website of Erik Bernacchi](https://eeerik.com/)
 - [The Restart Page](http://www.therestartpage.com/#) — Free unlimited rebooting experience from vintage operating systems
 - [Whimsy Space](https://whimsy.space/) — ZineOS
@@ -1187,10 +1286,14 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [witr playground](https://pranshuparmar.github.io/witr/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/pranshuparmar/witr)
 
 ### Firmware
-- [AmberELEC](https://amberelec.org/)
+- [AmberELEC](https://amberelec.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/AmberELEC/AmberELEC)
 - [Atmosphere-NX/Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) — Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
-- [Flipper Xtreme](https://flipper-xtre.me/) — Custom Firmware for Flipper Zero
+- [David Griffith / minipro · GitLab](https://gitlab.com/DavidGriffith/minipro)
+- [Flipper Xtreme](https://flipper-xtre.me/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Flipper-XFW/Xtreme-Firmware) — Custom Firmware for Flipper Zero
+- [fwupd/fwupd · GItHub](https://github.com/fwupd/fwupd)
 - [kavishdevar/librepods](https://github.com/kavishdevar/librepods)
+- [libreboot/lbmk](https://notabug.org/libreboot/lbmk) — NotABug.org
+- [LongSoft/UEFITool · GitHub](https://github.com/LongSoft/UEFITool)
 - [LVFS](https://fwupd.org/)
 - [MiniFree.org](https://minifree.org/)
 - [PS3 4.92.2 Evilnat w/ Cobra v8.5](https://www.psx-place.com/threads/4-92-2-evilnat-w-cobra-v8-5-cex-pex-d-pex.39743/) — PSX Place
@@ -1205,6 +1308,8 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [Buildroot](https://buildroot.org/)
 - [Dinit](https://davmac.org/projects/dinit/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/davmac314/dinit) — service manager, init system
 - [dinit · GitHub](https://github.com/davmac314/dinit)
+- [dracut-ng/dracut-ng](https://github.com/dracut-ng/dracut-ng) — dracut - the event driven initramfs infrastructure
+- [dracutdevs/dracut · GitHub](https://github.com/dracutdevs/dracut)
 - [No systemd](https://nosystemd.org/)
 - [OpenRC init system · GitHub](https://github.com/OpenRC/openrc)
 - [runit](http://smarden.org/runit/)
@@ -1230,20 +1335,23 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [Solaris](http://www.osdata.com/oses/solaris.htm)
 - [The seL4 Microkernel](https://sel4.systems/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/seL4/seL4) — seL4
 - [thepowersgang/rust_os · GitHub](https://github.com/thepowersgang/rust_os)
-- [Tock Embedded Operating System](https://www.tockos.org/)
+- [Tock Embedded Operating System](https://www.tockos.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/tock/tock)
 - [zircon](https://fuchsia.googlesource.com/fuchsia/+/master/zircon/) — fuchsia - Git at Google
 
 #### Linux Kernel
 - ⭐ **[Linux Kernel](https://www.kernel.org/)**
 - [Android Common Kernels](https://source.android.com/docs/core/architecture/kernel/android-common) — Android Open Source Project
 - [AppArmor](https://www.apparmor.net/)
+- [Arch Linux / Packaging / Upstream / linux-rt · GitLab](https://gitlab.archlinux.org/archlinux/packaging/upstream/linux-rt)
 - [CachyOS/linux-cachyos · GitHub](https://github.com/CachyOS/linux-cachyos)
 - [Clang built Linux](https://clangbuiltlinux.github.io/)
+- [Debian kernel team / linux · GitLab](https://salsa.debian.org/kernel-team/linux)
 - [Frogging-Family/linux-tkg · GitHub](https://github.com/Frogging-Family/linux-tkg)
 - [ghaerr/elks](https://github.com/ghaerr/elks) — Embeddable Linux Kernel Subset - Linux for 8086
 - [GNU Linux-libre](https://www.fsfla.org/ikiwiki/selibre/linux-libre/)
 - [Kernel Lore](https://lore.kernel.org/)
 - [Kernel Planet](https://planet.kernel.org/)
+- [kernel/git/torvalds/linux.git](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/) — Linux kernel source tree
 - [Linux kernel word count](https://www.vidarholen.net/contents/wordcount/)
 - [Linux_Kernel_Newbies](https://kernelnewbies.org/Linux_Kernel_Newbies)
 - [linux-surface/linux-surface · GitHub](https://github.com/linux-surface/linux-surface)
@@ -1252,7 +1360,9 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [LKML.ORG](https://lkml.org/) — the Linux Kernel Mailing List Archive
 - [LWN.net](https://lwn.net/)
 - [MkLinux.org](http://mklinux.org/)
+- [Rust-for-Linux/linux · GitHub](https://github.com/Rust-for-Linux/linux)
 - [The Linux Kernel documentation](https://docs.kernel.org/)
+- [torvalds/linux • GitHub](https://github.com/torvalds/linux)
 - [XanMod Kernel](https://xanmod.org/)
 
 ## Software-Defined Radio (SDR)
@@ -1260,7 +1370,9 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [f4exb/sdrangel](https://github.com/f4exb/sdrangel) — SDR Rx/Tx software for Airspy, Airspy HF+, BladeRF, HackRF, LimeSDR, PlutoSDR, RTL-SDR, SDRplay and FunCube
 - [GNU Radio](https://www.gnuradio.org/)
 - [Gqrx SDR](https://www.gqrx.dk/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/gqrx-sdr/gqrx) — Open source software defined radio by Alexandru Csete OZ9AEC
+- [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR) — Open-source, low-cost 10.5 GHz PLFM phased array RADAR system
 - [OpenWebRX web-based software defined radio](https://www.openwebrx.de/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/jketterl/openwebrx)
+- [sm0svx/svxlink · GitHub](https://github.com/sm0svx/svxlink)
 
 ## Utility
 - ⭐ **[Wintoys](https://apps.microsoft.com/detail/9p8ltpgcbzxd?hl=en-US&gl=ES)** — Free download and install on Windows | Microsoft Store
@@ -1275,6 +1387,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 ### Accessibility
 - [Be My Eyes](https://www.bemyeyes.com/) — Accessibility Technology for blind & low vision people
 - [Colour Contrast Checker](https://chromewebstore.google.com/detail/colour-contrast-checker/nmmjeclfkgjdomacpcflgdkgpphpmnfe) — Chrome Web Store
+- [Helium314/HeliBoard · GitHub](https://github.com/Helium314/HeliBoard)
 - [Seeing AI](https://www.seeingai.com/) — Talking Camera for the Blind
 - [VisionAid Technologies](https://www.visionaid.co.uk/)
 - [VizWiz](https://vizwiz.org/) — Algorithms to assist people who are blind
@@ -1284,6 +1397,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 
 ### Tool Lab App
 - [ElectroSmart](https://electrosmart.app/)
+- [FoedusProgramme/Omni](https://github.com/FoedusProgramme/Omni) — A useful and handy android minimalist toolbox
 - [Magnetometer](https://play.google.com/store/apps/details?id=com.appdevgenie.magnetometer) — Google Play Store
 - [NFC Tools](https://www.wakdev.com/en/apps/nfc-tools-android.html) — Android
 - [phyphox](https://phyphox.org/)

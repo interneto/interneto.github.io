@@ -5,7 +5,7 @@ description: News, blogs, digital gardens, libraries, and magazines
 
 # News & Books
 
-**Total Bookmarks:** 2554
+**Total Bookmarks:** 2567
 
 
 ## News
@@ -2662,10 +2662,10 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [Bookshelf](https://bookshelf.tcreations.app/) — Aesthetic Reading Tracker for Books & Audiobooks
 
 ### Comic-Manga Reader
-- [Aniyomi](https://aniyomi.org/)
+- [Aniyomi](https://aniyomi.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/aniyomiorg/aniyomi)
 - [BatCave.biz](https://batcave.biz/) — Comics
 - [HakuNeko](https://hakuneko.download/)
-- [Houdoku](https://houdoku.org/)
+- [Houdoku](https://houdoku.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/xgi/houdoku)
 - [josueBarretogit/manga-tui](https://github.com/josueBarretogit/manga-tui) — Terminal-based manga reader and downloader with image rendering support
 - [K3vinb5/Unyo](https://github.com/K3vinb5/Unyo) — 🐙 Anime streaming and Manga reader desktop app without ads.
 - [Komikku](https://valos.gitlab.io/Komikku/) — A manga reader
@@ -2675,16 +2675,18 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [mihonapp/mihon](https://github.com/mihonapp/mihon) — Free and open source manga reader for Android
 - [OpenComic · GitHub](https://github.com/ollm/OpenComic)
 - [Tachiyomi](https://tachiyomi.org/)
+- [tachiyomi · GitHub](https://github.com/tachiyomiorg/tachiyomi)
 
 ### eBook Reader
 - ⭐ **[Amazon Kindle](https://read.amazon.com/landing)** — Web Reader
 - ⭐ **[Calibre](https://calibre-ebook.com/)** — E-book
-- ⭐ **[Foliate —modern eBook viewer](https://johnfactotum.github.io/foliate/)**
-- ⭐ **[Koodo Reader](https://koodoreader.com/en)**
-- ⭐ **[KOReader](https://koreader.rocks/)**
+- ⭐ **[Foliate —modern eBook viewer](https://johnfactotum.github.io/foliate/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/johnfactotum/foliate)
+- ⭐ **[Koodo Reader](https://koodoreader.com/en)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/koodo-reader/koodo-reader)
+- ⭐ **[KOReader](https://koreader.rocks/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/koreader/koreader)
 - [Acclorite/book-story · GitHub](https://github.com/Acclorite/book-story)
 - [Aldiko](https://www.demarque.com/en-aldiko) — Reading App
 - [Amazon Kindle Reading](https://www.amazon.com/b/node=16571048011)
+- [apprenticeharper/DeDRM_tools](https://github.com/apprenticeharper/DeDRM_tools) — DeDRM tools for ebooks
 - [Aquile Reader](https://www.aquilereader.in/)
 - [Aquile Reader](https://aquilereader.wordpress.com/)
 - [Artifact](https://artifact.news/)
@@ -2693,6 +2695,7 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [ciromattia/kcc](https://github.com/ciromattia/kcc) — KCC (a.k.a. Kindle Comic Converter) is a comic and manga converter for ebook readers.
 - [Cool Reader](https://sourceforge.net/projects/crengine/)
 - [Cool Reader](https://play.google.com/store/apps/details?id=org.coolreader) — Google Play
+- [Coolreader · GitHub](https://github.com/buggins/coolreader)
 - [Difegue/LANraragi](https://github.com/Difegue/LANraragi) — Web application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers.
 - [dstark5/Openlib · GitHub](https://github.com/dstark5/Openlib)
 - [Ebook Reader](https://icecreamapps.com/Ebook-Reader)
@@ -2706,20 +2709,23 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [every-day-things/citadel · GitHub](https://github.com/every-day-things/citadel)
 - [FBReader](https://fbreader.org/) — Favourite Book Reader
 - [FocusReader](https://play.google.com/store/apps/details?id=allen.town.focus.reader) — Apps on Google Play
+- [foobnix/LibreraReader](https://github.com/foobnix/LibreraReader) — Book Reader for Android
 - [Freda](https://www.turnipsoft.com/freda/)
 - [Freda](http://www.turnipsoft.co.uk/) — Turnipsoft
 - [gedoor/legado · GitHub](https://github.com/gedoor/legado)
+- [Graphics / Arianna · GitLab](https://invent.kde.org/graphics/arianna)
 - [InkBox Project](https://inkbox.ddns.net/)
 - [janeczku/calibre-web · GitHub](https://github.com/janeczku/calibre-web)
-- [Kavita Reader](https://www.kavitareader.com/)
+- [Kavita Reader](https://www.kavitareader.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Kareadita/Kavita)
 - [Lexie](https://www.omoguru.com/lexie/) — Omoguru
 - [Librera Reader](https://librera.mobi/)
-- [librumreader.com](https://librumreader.com/)
+- [librumreader.com](https://librumreader.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Librum-Reader/Librum)
 - [Matter reader](https://hq.getmatter.com/)
 - [Mercury by Postlight](https://mercury.postlight.com/)
 - [Moon+ Reader](https://play.google.com/store/apps/details?id=com.flyersoft.moonreader&hl=en_US&gl=US) — Google Play
 - [Moon+ Reader for Android](https://moondownload.com/)
 - [Neat Reader](https://www.neat-reader.com/)
+- [Nicolas Mailloux / inkbox · GitLab](https://inkbox.ddns.net/git/tux-linux/inkbox)
 - [Reader for PC](https://www.sony.com/electronics/support/downloads/W0010082) — Sony
 - [Readera](https://readera.org/)
 - [ReadEra](https://play.google.com/store/apps/details?id=org.readera) — Google Play
@@ -2734,6 +2740,7 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [YACReader](https://www.yacreader.com/)
 
 ### Library Manager
+- [inventaire/inventaire · GitHub](https://github.com/inventaire/inventaire)
 - [Libib](https://www.libib.com/) — Library management web app
 
 ### RSS Reader
@@ -2741,7 +2748,7 @@ description: News, blogs, digital gardens, libraries, and magazines
 - ⭐ **[Feedbro](https://nodetics.com/feedbro/)** — RSS Feed Reader
 - ⭐ **[Fluent Reader](https://hyliu.me/fluent-reader/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/yang991178/fluent-reader)
 - ⭐ **[Folo](https://folo.is/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/RSSNext/Folo)
-- ⭐ **[FreshRSS](https://freshrss.org/)** — a free, self-hostable feeds aggregator
+- ⭐ **[FreshRSS](https://freshrss.org/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/FreshRSS/FreshRSS) — a free, self-hostable feeds aggregator
 - ⭐ **[Inoreader](https://www.inoreader.com/)** — Take back control of yorur news feed
 - ⭐ **[news-flash / news_flash_gtk · GitLab](https://gitlab.com/news-flash/news_flash_gtk)**
 - ⭐ **[nt1m/livemarks · GitHub](https://github.com/nt1m/livemarks/)**
@@ -2756,9 +2763,10 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [CommaFeed](https://www.commafeed.com/#/welcome)
 - [cscarney/syndic · GitHub](https://github.com/cscarney/syndic)
 - [Den for RSS](https://den.io/)
-- [DevHub](https://devhubapp.com/) — GitHub Notifications & Activities on your Desktop
+- [DevHub](https://devhubapp.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/devhubapp/devhub) — GitHub Notifications & Activities on your Desktop
 - [DONDURMA / Signal Reader v1.0](https://dondurma.devopen.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/DevOpen-io/dondurma-rss-reader)
 - [electh/nextflux](https://github.com/electh/nextflux) — Yet another web-based frontend for Miniflux
+- [fbarthelery/geekttrss · GitHub](https://github.com/fbarthelery/geekttrss)
 - [Feed Fever](https://feedafever.com/)
 - [Feedbin](https://feedbin.com/)
 - [FeedDeck](https://feeddeck.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/feeddeck/feeddeck)
@@ -2788,6 +2796,7 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [msasikanth/twine · GitHub](https://github.com/msasikanth/twine)
 - [NetNewsWire](https://netnewswire.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Ranchero-Software/NetNewsWire)
 - [Netvibes](https://www.netvibes.com/en)
+- [Network / Alligator · GitLab](https://invent.kde.org/network/alligator)
 - [News](https://apps.nextcloud.com/apps/news) — Nextcloud app
 - [Newsboat](https://newsboat.org/) / [🔗](https://newsboat.org/) — RSS reader
 - [Newsify](https://newsify.co/) — Your News, Blog and RSS Feed Reader
@@ -2798,6 +2807,7 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [osmoscraft/osmosfeed](https://github.com/osmoscraft/osmosfeed) — Turn GitHub into an RSS reader
 - [photon](https://sr.ht/~ghost08/photon/) — RSS reader as light as a photon with terminal + sixel
 - [pietheinstrengholt/rssmonster · GitHub](https://github.com/pietheinstrengholt/rssmonster)
+- [PIM / Akregator · GitLab](https://invent.kde.org/pim/akregator)
 - [Qolors/FeedCord · GitHub](https://github.com/Qolors/FeedCord)
 - [QuiteRSS/quiterss · GitHub](https://github.com/QuiteRSS/quiterss)
 - [Raven Reader](https://ravenreader.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/hello-efficiency-inc/raven-reader)
@@ -2813,7 +2823,7 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [RSS Feed Reader](https://chrome.google.com/webstore/detail/rss-feed-reader/pnjaodmkngahhkoihejjehlcdlnohgmp)
 - [RSS Reader APIs for FreshRSS · GitHub](https://github.com/FreshRSS/FreshRSS/blob/edge/README.md#apis--native-apps)
 - [RSS Search Hub](https://www.rsssearchhub.com/)
-- [RSSHub Docs](https://docs.rsshub.app/)
+- [RSSHub Docs](https://docs.rsshub.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/DIYgod/RSSHub)
 - [ruby/rss](https://github.com/ruby/rss) — RSS reading and writing
 - [samuelclay/NewsBlur · GitHub](https://github.com/samuelclay/NewsBlur)
 - [Saul-Mirone/homura](https://github.com/Saul-Mirone/homura) — Homura RSS Reader
@@ -2822,13 +2832,16 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [sismics/reader · GitHub](https://github.com/sismics/reader)
 - [SmartRSS](https://play.google.com/store/apps/details?id=com.vinsonguo.flutter_rss_reader) — AI RSS Reader - Apps on Google Play
 - [SmartRSS/Smart-RSS · GitHub](https://github.com/SmartRSS/Smart-RSS)
+- [Space Cowboy / Feeder · GitHub](https://github.com/spacecowboy/Feeder)
 - [StreamSphere RSS Reader](https://play.google.com/store/apps/details?id=com.niviva.rssreader.streamsphere) — Apps on Google Play
 - [stringer-rss/stringer](https://github.com/stringer-rss/stringer) — A self-hosted, anti-social RSS reader
 - [Superfeedr](https://superfeedr.com/)
 - [Suzie97/Communique · GitHub](https://github.com/Suzie97/Communique)
 - [SyFeed](https://syfeed.com/)
 - [Thysrael/Horizon](https://github.com/Thysrael/Horizon) — 📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达
+- [TIny RSS](https://git.tt-rss.org/) — Git
 - [TT RSS](https://tt-rss.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/tt-rss/tt-rss)
+- [tt-rss.git](https://git.tt-rss.org/fox/tt-rss.git/) — git
 - [TypicalAM/goread · GitHub](https://github.com/TypicalAM/goread)
 - [Versionfeeds](https://versionfeeds.com/) — RSS for releases of software
 - [Vienna RSS](https://www.vienna-rss.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/ViennaRSS/vienna-rss) — The Free and Open-Source RSS/Atom Reader for macOS

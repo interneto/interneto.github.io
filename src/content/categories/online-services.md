@@ -5,7 +5,7 @@ description: Search engines, web directories, software directories, corporations
 
 # Online Services
 
-**Total Bookmarks:** 5692
+**Total Bookmarks:** 5771
 
 
 ## Biography
@@ -150,7 +150,7 @@ description: Search engines, web directories, software directories, corporations
 ### Social Network Stats
 - ⭐ **[SocialBlade.com](https://socialblade.com/)** — YouTube, Twitch, Twitter, & Instagram Statistics
 - [Count lines of code](https://ghloc.vercel.app/) — ghloc
-- [Github Language Stats](https://madnight.github.io/githut/#/pull_requests/2023/2)
+- [Github Language Stats](https://madnight.github.io/githut/#/pull_requests/2023/2) / [![GitHub](/img/software/apps/github.svg)](https://github.com/madnight/githut)
 - [Graphtreon](https://graphtreon.com/) — Patreon Earnings + Statistics
 - [Internet Leaderboard](https://www.internetleaderboard.com/)
 - [Livecounts.io](https://livecounts.io/) — Live Counts For Social Networks
@@ -227,6 +227,7 @@ description: Search engines, web directories, software directories, corporations
 - [Rapid API](https://rapidapi.com/hub)
 - [spoonacular recipe and food API](https://spoonacular.com/food-api)
 - [TheCocktailDB.com](https://www.thecocktaildb.com/) — Free Cocktail API
+- [University-domains-list-api · GitHub](https://github.com/Hipo/university-domains-list-api)
 - [Zestful](https://zestfuldata.com/) — Simple API for Parsing Recipe Ingredients
 
 ### Case Law Database
@@ -273,12 +274,12 @@ description: Search engines, web directories, software directories, corporations
 - [CVE-2026-43284](https://access.redhat.com/security/cve/cve-2026-43284) — Red Hat Customer Portal
 
 ### Graph Map Db
-- ⭐ **[Code Galaxies Visualization](https://anvaka.github.io/pm/#/?_k=oqyjty)**
+- ⭐ **[Code Galaxies Visualization](https://anvaka.github.io/pm/#/?_k=oqyjty)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/anvaka/pm)
 - ⭐ **[Learn Anything](https://learn-anything.xyz/)**
 - ⭐ **[Map of GitHub](https://anvaka.github.io/map-of-github/#2/0/0)** / [🔗](https://anvaka.github.io/map-of-github/) — Anvaka
 - ⭐ **[WikiGalaxy](https://wiki.polyfra.me/)** — byowen
 - [Artistic visualization of heights](https://anvaka.github.io/peak-map/#7.68/47.727/-122.574)
-- [Autocomplete VS graph](https://anvaka.github.io/vs/?query=)
+- [Autocomplete VS graph](https://anvaka.github.io/vs/?query=) / [![GitHub](/img/software/apps/github.svg)](https://github.com/anvaka/vs)
 - [Graph of related subreddits](https://anvaka.github.io/sayit/?query=)
 - [Map of Reddit](https://anvaka.github.io/map-of-reddit/?x=18239&y=12514&z=23244.04817852816&v=2)
 - [Most used words in programming languages](https://anvaka.github.io/common-words/#?lang=js)
@@ -390,6 +391,7 @@ description: Search engines, web directories, software directories, corporations
 - [Web Browsers](https://alternativeto.net/category/browsers/) — AlternativeTo
 
 #### Awesome List
+- [521xueweihan/HelloGitHub · GitHub](https://github.com/521xueweihan/HelloGitHub)
 - [738/awesome-url-shortener · GitHub](https://github.com/738/awesome-url-shortener)
 - [abhisheknaiidu/awesome-github-profile-readme · GitHub](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 - [AboutRSS/ALL-about-RSS · GitHub](https://github.com/AboutRSS/ALL-about-RSS)
@@ -501,6 +503,7 @@ description: Search engines, web directories, software directories, corporations
 - [RSS Feed Readers (D7 list)](https://alternativeto.net/list/37794/rss-feeds/) — AlternativeTo
 - [rust-unofficial/awesome-rust · GitHub](https://github.com/rust-unofficial/awesome-rust)
 - [serhii-londar/open-source-mac-os-apps · GitHub](https://github.com/serhii-londar/open-source-mac-os-apps)
+- [shahednasser/awesome-resources · GitHub](https://github.com/shahednasser/awesome-resources)
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) — Collection of awesome LLM apps with RAG using OpenAI, Anthropic, Gemini and opensource models
 - [SignalGap/awesome-meshtastic · GitHub](https://github.com/SignalGap/awesome-meshtastic)
 - [simsieg/awesome-maps](https://github.com/simsieg/awesome-maps) — There is more than google: A collection of great online maps
@@ -553,6 +556,7 @@ description: Search engines, web directories, software directories, corporations
 - [iptv-org/iptv · GitHub](https://github.com/iptv-org/iptv)
 - [IPTVEditor](https://iptveditor.com/) — The most advanced M3U and EPG editor for your playlists
 - [IPTVSenpai](https://iptvsenpai.com/)
+- [joevess/IPTV · GitHub](https://github.com/joevess/IPTV)
 - [luongz/iptv-jp](https://github.com/luongz/iptv-jp) — A collection of Japanese TV channel links.
 - [M3U.CL](https://m3u.cl/) — IPTV Chile
 - [matjava/xtream-playlist · GitHub](https://github.com/matjava/xtream-playlist)
@@ -787,6 +791,7 @@ description: Search engines, web directories, software directories, corporations
 
 #### Demoscene
 - [demoparty.net](https://www.demoparty.net/) — a list of demoscene events
+- [farbrausch/fr_public](https://github.com/farbrausch/fr_public/tree/master) — Farbrausch demo tools 2001-2011
 - [pouët.net :](https://www.pouet.net/) — your online demoscene resource
 - [SCENE.ORG](https://scene.org/)
 - [scene.org file archive](https://files.scene.org/)
@@ -809,6 +814,7 @@ description: Search engines, web directories, software directories, corporations
 - [TGDB](https://thegamesdb.net/)
 - [The Visual Novel Database](https://vndb.org/)
 - [whatoplay](https://whatoplay.com/) — Find PC, PlayStation, Xbox, Switch, & mobile games to play
+- [xlenore/ps2-covers](https://github.com/xlenore/ps2-covers) — PS2 Covers Collection
 
 #### Movie Db
 - ⭐ **[The Movie Database](https://www.themoviedb.org/)**
@@ -902,17 +908,22 @@ description: Search engines, web directories, software directories, corporations
 - [TV Guide](https://www.tvguide.com/)
 - [TV Listings](https://www.deseret.com/pages/tv-listings) — Desert
 - [TVGuia.es](https://www.tvguia.es/)
+- [Utilities / Telly Skout · GitLab](https://invent.kde.org/utilities/telly-skout)
 
 ##### TV Tracker
 - ⭐ **[Showly](https://www.showlyapp.com/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/michaldrabik/showly) — Track TV Shows and Movies
+- [aleiepure/ticketbooth · GitHub](https://github.com/aleiepure/ticketbooth)
 - [JustWatch](https://www.justwatch.com/) — The Streaming Guide
+- [leepeuker/movary](https://github.com/leepeuker/movary) — Self hosted web app to track and rate your watched movies
 - [Mojitofilms](https://www.mojitofilms.com/)
 - [Moviebase](https://www.moviebase.app/) — Discover, find and track movies & TV shows for Android.
 - [Movies Anywhere](https://moviesanywhere.com/home)
 - [My Movie & TV Show](https://kh-app.com/) — Watchlist
 - [Netflix Codes](https://www.netflix-codes.com/) — find hidden categories on Netflix (full list)
 - [Popcorn Time](https://watch.popcorntime.app/)
+- [rebelonion/Dantotsu](https://github.com/rebelonion/dantotsu) — Anilist client based on Saikou
 - [Reelgood](https://reelgood.com/)
+- [reyyuuki/Azyx · GitHub](https://github.com/reyyuuki/Azyx)
 - [SeriesGuide](https://www.seriesgui.de/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/UweTrottmann/SeriesGuide/)
 - [Showcase](https://getshowcase.app/) — Pro-Level Movie & Show Tracking
 - [Time TV Shows](https://tiii.me/)
@@ -928,6 +939,7 @@ description: Search engines, web directories, software directories, corporations
 - ⭐ **[Every Noise at Once](http://everynoise.com/)**
 - ⭐ **[MusicBrainz](https://musicbrainz.org/)** — the open music encyclopedia
 - [1001 Albums](http://www.1001albumsyoumusthearbeforeyoudie.net/index)
+- [apricote/Listory · GitHub](https://github.com/apricote/Listory)
 - [COV](https://covers.musichoarders.xyz/) — Cover Search Engine
 - [Free Midi](https://freemidi.org/) — Best Free High Quality Midi Site
 - [Ishkur's Guide to Electronic Music](https://music.ishkur.com/)
@@ -950,6 +962,7 @@ description: Search engines, web directories, software directories, corporations
 - ⭐ **[LRCLIB](https://lrclib.net/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/tranxuanthang/lrclib)
 - [AZLyrics](https://www.azlyrics.com/)
 - [Genius](https://genius.com/) — Song Lyrics & Knowledge
+- [Givemelyrics · GitHub](https://github.com/muriloventuroso/givemelyrics)
 - [Letras.com](https://www.letras.com/)
 - [LyricsFa](https://lyricsfa.com/)
 - [MetroLyrics](https://www.metrolyrics.com/)
@@ -975,6 +988,7 @@ description: Search engines, web directories, software directories, corporations
 - [Gobierno de Canarias](https://opendata.gobiernodecanarias.org/dataset) — Dataset
 - [Google Public Data Explorer](https://www.google.com/publicdata/directory)
 - [NASA Open Data](https://data.nasa.gov/browse)
+- [nasa/earthdata-search · GitHub](https://github.com/nasa/earthdata-search)
 - [Open Data DC](https://opendata.dc.gov/)
 - [Open Data Inception](https://opendatainception.io/)
 - [Open Data La Palma](https://www.opendatalapalma.es/)
@@ -1073,6 +1087,8 @@ description: Search engines, web directories, software directories, corporations
 - [Citrus Search](https://citrus-search.com/#/)
 - [Free Reasarch Papers](https://freeresearchpapers.org/) — Green Sci-Hub, Search and download PDF files for free
 - [FreeFullPDF](https://www.freefullpdf.com/#gsc.tab=0) — Find free PDF of scientific publications
+- [gchenfc/sci-hub-now · GitHub](https://github.com/gchenfc/sci-hub-now)
+- [libgenapps/LibgenDesktop · releases](https://github.com/libgenapps/LibgenDesktop/releases/)
 - [OA.mg · Open Access for Everyone](https://oa.mg/)
 - [Scinapse](https://www.scinapse.io/) — Finding R&D Trends and Experts Made Simple
 
@@ -1138,6 +1154,7 @@ description: Search engines, web directories, software directories, corporations
 - ⭐ **[showRSS](https://showrss.info/)**
 - ⭐ **[Unblockit](https://unblockit.vegas/)**
 - ⭐ **[YTS Movies Torrents](https://yts.rs/)**
+- [2004content/rarbg · GitHub](https://github.com/2004content/rarbg)
 - [Anymovies torrent](https://www.anymoviess.xyz/) — Torrent download any movies
 - [BroadcasTheNet](https://broadcasthe.net/)
 - [bt.etree.org](https://www.etree.org/) — Community Tracker
@@ -1269,6 +1286,7 @@ description: Search engines, web directories, software directories, corporations
 - [Mamont's open FTP Index](https://www.mmnt.net/)
 
 #### Malware Db
+- [agiacalone/morris-worm-malware · GitHub](https://github.com/agiacalone/morris-worm-malware)
 - [Cryakl/Ransomware-Database](https://github.com/Cryakl/Ransomware-Database) — For educational purposes only, samples of ransomware/wiper trojans including screenshots/ransom-notes.
 - [Cryakl/Ultimate-RAT-Collection](https://github.com/Cryakl/Ultimate-RAT-Collection) — For educational purposes only, exhaustive samples of 450+ classic/modern trojan builders including screenshots.
 - [CYB3RMX/MalwareHashDB](https://github.com/CYB3RMX/MalwareHashDB) — Malware hashes for open source projects.
@@ -1293,6 +1311,7 @@ description: Search engines, web directories, software directories, corporations
 - [ArchiveOS](https://archiveos.org/)
 - [DistroSea](https://distrosea.com/) — Test Linux distros online
 - [Distroware · GitLab](https://distroware.gitlab.io/)
+- [Distroware / distroware.gitlab.io · GitLab](https://gitlab.com/Distroware/distroware.gitlab.io)
 - [DistroWatch](https://distrowatch.com/search.php#advanced) — Search
 - [Linux A-D](https://archiveos.org/linux/) — ArchiveOS
 - [List Distributions](https://lwn.net/Distributions/) — LWN
@@ -1333,6 +1352,9 @@ description: Search engines, web directories, software directories, corporations
 - [Amazon App Store](https://www.amazon.com/gp/mas/get/android)
 - [AppBrain.com](https://www.appbrain.com/) — Top Android Apps and Games on Google Play
 - [Droid-ify](https://github.com/Iamlooker/Droid-ify)
+- [F-Droid / Client · GitLab](https://gitlab.com/fdroid/fdroidclient)
+- [F-Droid / fdroidserver · GitLab](https://gitlab.com/fdroid/fdroidserver)
+- [F-Droid / Website · GitLab](https://gitlab.com/fdroid/fdroid-website)
 - [G-Droid · GitLab](https://gitlab.com/gdroid/gdroidclient/)
 - [HUAWEI AppGallery](https://appgallery.huawei.com/Featured)
 - [Indus OS](https://www.indusos.com/) — Indian Android App Store
@@ -1461,7 +1483,7 @@ description: Search engines, web directories, software directories, corporations
 - ⭐ **[Repology](https://repology.org/)**
 - [ALT Linux packages](https://packages.altlinux.org/en/sisyphus/)
 - [AppImage](https://appimage.org/)
-- [Appimage](https://portable-linux-apps.github.io/apps.html) — Portable Linux apps
+- [Appimage](https://portable-linux-apps.github.io/apps.html) / [![GitHub](/img/software/apps/github.svg)](https://github.com/ivan-hc/AM) — Portable Linux apps
 - [Appimagehub.com](https://www.appimagehub.com/browse)
 - [Appimages list · GitHub](https://appimage.github.io/apps/)
 - [Arch Linux](https://archlinux.org/packages/) — Package Search
@@ -1470,6 +1492,7 @@ description: Search engines, web directories, software directories, corporations
 - [Fedora Packages](https://packages.fedoraproject.org/)
 - [Felix Häcker / Souk · GitLab](https://gitlab.gnome.org/haecker-felix/souk)
 - [FlatHub](https://flathub.org/home) — Linux apps
+- [flathub/flathub · GitHub](https://github.com/flathub/flathub)
 - [Gentoo Packages](https://packages.gentoo.org/)
 - [GNOME Apps](https://wiki.gnome.org/Apps)
 - [Gnome look](https://www.gnome-look.org/browse/)
@@ -1560,6 +1583,7 @@ description: Search engines, web directories, software directories, corporations
 - [Abandonware Games](https://abandonwaregames.net/) — Old Games and Retrogaming
 - [Bandai Namco Store](https://store.bandainamcoent.eu/)
 - [Battle.net](https://eu.shop.battle.net/en-us) — Blizzard
+- [bucanero/pkgi-ps3](https://github.com/bucanero/pkgi-ps3) — A PlayStation 3 package download tool
 - [DigiPen Game Gallery](https://games.digipen.edu/)
 - [DMM games](https://games.dmm.com/en/)
 - [Egg NS Emulator](https://eggnsemulator.com/)
@@ -1617,6 +1641,7 @@ description: Search engines, web directories, software directories, corporations
 - [Lib.rs](https://lib.rs/) — home for Rust crates
 - [MacPorts](https://ports.macports.org/search/) — Search ports
 - [Maven Repository](https://mvnrepository.com/)
+- [NixOS/nixpkgs · GitHub](https://github.com/NixOS/nixpkgs)
 - [npm JS](https://www.npmjs.com/)
 - [npmx](https://npmx.dev/) — Package Browser for the npm Registry
 - [Packagist](https://packagist.org/)
@@ -1641,7 +1666,7 @@ description: Search engines, web directories, software directories, corporations
 - [add0n](https://add0n.com/index.html)
 - [Chrome Stats](https://chrome-stats.com/)
 - [Chromium-web-store · GitHub](https://github.com/NeverDecaf/chromium-web-store)
-- [CRX Viewer](https://robwu.nl/crxviewer/)
+- [CRX Viewer](https://robwu.nl/crxviewer/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Rob--W/crxviewer)
 - [Crx4Chrome](https://www.crx4chrome.com/) — Extension Crx Download
 - [Firefox Extension Workshop](https://extensionworkshop.com/)
 - [JustOff's Extensions](https://justoff.github.io/)
@@ -1674,7 +1699,7 @@ description: Search engines, web directories, software directories, corporations
 - [List of PDF software](https://en.wikipedia.org/wiki/List_of_PDF_software) — Wikipedia
 - [Musical Artifacts](https://musical-artifacts.com/) — Libre resources for music making
 - [NoSignups](https://nosignups.net/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/BraveOPotato/FckSignups) — Open Source Tools. Zero Bullsh*t.
-- [Privacytest.org](https://privacytests.org/) — What are the best private browsers?
+- [Privacytest.org](https://privacytests.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/privacytests/privacytests) — What are the best private browsers?
 - [Self-Hosted Software and Apps](https://selfh.st/apps/)
 - [StartupStash](https://startupstash.com/)
 - [Useful add ons for sway · GitHub](https://github.com/swaywm/sway/wiki/Useful-add-ons-for-sway#login-managers)
@@ -1723,6 +1748,7 @@ description: Search engines, web directories, software directories, corporations
 - [Gott Code](https://gottcode.org/)
 - [Hackers Pad](https://hackerspad.net/)
 - [it's free*](https://itsfree.dev/) — Free tools for developers
+- [jyamihud/FreeCompetitors · NotABug](https://notabug.org/jyamihud/FreeCompetitors)
 - [KDE Dashboard](https://invent.kde.org/public)
 - [LibHunt](https://www.libhunt.com/)
 - [Libre Projects](https://libreprojects.net/)
@@ -1780,7 +1806,7 @@ description: Search engines, web directories, software directories, corporations
 - [FB Icons](https://fbicons.net/)
 - [Fsymbols](https://fsymbols.com/)
 - [Get Emoji](https://getemoji.com/)
-- [gitmoji](https://gitmoji.dev/)
+- [gitmoji](https://gitmoji.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/carloscuesta/gitmoji)
 - [graphemica · Love Letters](https://graphemica.com/)
 - [HotEmoji](https://hotemoji.com/)
 - [Megaemoji](https://www.megaemoji.com/)
@@ -1807,7 +1833,7 @@ description: Search engines, web directories, software directories, corporations
 
 #### Blocklist Links
 - [1Hosts](https://o0.pages.dev/) — World's most advanced DNS filter-/blocklists!
-- [EasyList](https://easylist.to/)
+- [EasyList](https://easylist.to/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/easylist/easylist)
 - [Easylist.txt](https://easylist.to/easylist/easylist.txt)
 - [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) — DNS-Blocklists: For a better internet - keep the internet clean!
 - [oisd](https://oisd.nl/) — domain blocklist
@@ -1906,7 +1932,7 @@ description: Search engines, web directories, software directories, corporations
 - [OSINT](https://awesomeopensource.com/projects/intelligence) — Awesome Open Source
 - [OSINT +500 Tools](https://start.me/p/0Pqbdg/osint-500-tools) — start.me
 - [OSINT CHINE](https://start.me/p/7kLY9R/osint-chine) — start.me
-- [OSINT Framework](https://osintframework.com/)
+- [OSINT Framework](https://osintframework.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/lockfale/OSINT-Framework)
 - [OSINT Industries](https://osint.industries/)
 - [OSINT LINKS](https://start.me/p/q6naJo/osint-links) — start.me
 - [OSINT Tools](https://www.osinttechniques.com/osint-tools.html) — OSINT Techniques
@@ -2446,7 +2472,7 @@ description: Search engines, web directories, software directories, corporations
 - [HackTricks Wiki](https://book.hacktricks.wiki/en/index.html)
 - [Hitchwiki](https://hitchwiki.org/en/Main_Page)
 - [Hydrogenaudio Knowledgebase](https://wiki.hydrogenaud.io/index.php?title=Main_Page)
-- [ibis.wiki](https://ibis.wiki/)
+- [ibis.wiki](https://ibis.wiki/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Nutomic/ibis)
 - [icannwiki](https://icannwiki.org/Main_Page)
 - [Indie Wiki Buddy](https://getindie.wiki/listings/) — Listings
 - [IQ.Wiki](https://iq.wiki/) — Crypto Encyclopedia
@@ -2527,7 +2553,7 @@ description: Search engines, web directories, software directories, corporations
 - [Deno Docs](https://docs.deno.com/)
 - [digiKam Manual](https://docs.digikam.org/en/index.html)
 - [Digital Garden Docs](https://dg-docs.ole.dev/)
-- [Docker Documentation](https://docs.docker.com/)
+- [Docker Documentation](https://docs.docker.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/docker/docs)
 - [Docpress](https://docpress.github.io/) — GitHub
 - [Documentation](https://developer.chrome.com/docs/) — Chrome Developers
 - [Docusaurus Site Showcase](https://docusaurus.io/showcase) — Docusaurus
@@ -2543,7 +2569,7 @@ description: Search engines, web directories, software directories, corporations
 - [Fedora Project Wiki](https://fedoraproject.org/wiki/Fedora_Project_Wiki)
 - [File Format Problem](http://fileformats.archiveteam.org/wiki/Main_Page)
 - [Flatpak documentation](https://docs.flatpak.org/en/latest/)
-- [Fluent UI React](https://react.fluentui.dev/?path=/docs/concepts-introduction--page)
+- [Fluent UI React](https://react.fluentui.dev/?path=/docs/concepts-introduction--page) / [![GitHub](/img/software/apps/github.svg)](https://github.com/microsoft/fluentui)
 - [Free Desktop](https://wiki.freedesktop.org/www/) — Wiki
 - [Free Software Directory](https://directory.fsf.org/wiki/Main_Page)
 - [FreeBSD Wiki](https://wiki.freebsd.org/)
@@ -2600,12 +2626,13 @@ description: Search engines, web directories, software directories, corporations
 - [MozillaWiki](https://wiki.mozilla.org/Main_Page)
 - [MyWikis](https://www.mywikis.com/) — MediaWiki hosting
 - [n8n Docs](https://docs.n8n.io/)
-- [nix.dev](https://nix.dev/) — nix.dev documentation
+- [nix.dev](https://nix.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/NixOS/nix.dev) — nix.dev documentation
 - [NixOS Wiki](https://nixos.wiki/)
 - [NSIS Wiki](https://nsis.sourceforge.io/Main_Page)
 - [obi-sync Wiki · GitHub](https://github.com/acheong08/obi-sync/wiki)
 - [Obsidian Help](https://help.obsidian.md/)
 - [Obsidian Webpage HTML Export Docs](https://docs.obsidianweb.net/)
+- [obsidianmd/obsidian-docs · GitHub](https://github.com/obsidianmd/obsidian-docs)
 - [OMA Wiki](https://wiki.openmandriva.org/en/home)
 - [OpenAI API](https://platform.openai.com/docs/introduction) — Introduction
 - [OpenStreetMap Wiki](https://wiki.openstreetmap.org/wiki/Main_Page)
@@ -2784,6 +2811,7 @@ description: Search engines, web directories, software directories, corporations
 - [Uncyclopedia](https://de.uncyclopedia.co/wiki/Hauptseite)
 
 #### Wikimedia Sites
+- [mzmcbride/database-reports · GitHub](https://github.com/mzmcbride/database-reports)
 - [ORES Wikimedia](https://ores.wikimedia.org/)
 - [Phabricator](https://phabricator.wikimedia.org/)
 - [Radlines](https://radlines.org/)
@@ -3020,7 +3048,8 @@ description: Search engines, web directories, software directories, corporations
 - [Score Counter](https://scorecounter.com/)
 - [Speed Cube Database](https://speedcubedb.com/)
 - [Speedsolving Cube Wiki](https://www.speedsolving.com/wiki/index.php/Main_Page)
-- [World Cube Association](https://www.worldcubeassociation.org/)
+- [TwistyTimer · GitHub](https://github.com/aricneto/TwistyTimer)
+- [World Cube Association](https://www.worldcubeassociation.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/thewca/worldcubeassociation.org)
 
 ### Lore
 - [El Anillo Único](https://elanillounico.com/) — Noticias de la serie de El Señor de los Anillos, Los Anillos de Poder, las películas, los libros y la mayor comunidad Tolkien online
@@ -3058,7 +3087,7 @@ description: Search engines, web directories, software directories, corporations
 - [Microsoft Academic](https://academic.microsoft.com/home)
 - [OpenAIRE](https://www.openaire.eu/)
 - [ORCID](https://orcid.org/)
-- [Papers We Love](https://paperswelove.org/)
+- [Papers We Love](https://paperswelove.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/papers-we-love/papers-we-love)
 - [Publons](https://publons.com/about/home)
 - [Redalyc](https://www.redalyc.org/)
 - [Research Square](https://www.researchsquare.com/)
@@ -3421,6 +3450,7 @@ description: Search engines, web directories, software directories, corporations
 - [musicForProgramming](https://musicforprogramming.net/)
 - [myNoise.net](https://mynoise.net/)
 - [Noise Masking](https://noises.online/)
+- [rafaelmardojai/blanket](https://github.com/rafaelmardojai/blanket) — Listen to different sounds
 - [Rainbow Hunt](https://rainbowhunt.com/)
 - [Rainyscope](https://rainyscope.com/)
 - [SoundBible.com](https://soundbible.com/)
@@ -3446,6 +3476,7 @@ description: Search engines, web directories, software directories, corporations
 - [Melody Catcher](http://www.melodycatcher.com/)
 - [Midomi](https://www.midomi.com/)
 - [Music Search](https://www.musipedia.org/melody_search.html)
+- [SeaDve/Mousai · GitHub](https://github.com/SeaDve/Mousai)
 - [Shazam](https://www.shazam.com/) — Music Discovery, Charts & Songs Lyrics
 - [SoundHound](https://www.soundhound.com/)
 - [WatZatSong](https://www.watzatsong.com/en)
@@ -3455,6 +3486,7 @@ description: Search engines, web directories, software directories, corporations
 #### Podcast Platform
 - ⭐ **[iVoox](https://www.ivoox.com/)** — La plataforma líder de podcast en español
 - [Acast](https://acast.com/)
+- [Ad Aures / Castopod · GitLab](https://code.castopod.org/adaures/castopod)
 - [Anchor](https://anchor.fm/)
 - [Apple Podcasts](https://podcasts.apple.com/us/browse)
 - [BlogTalkRadio](https://www.blogtalkradio.com/)
@@ -3598,6 +3630,8 @@ description: Search engines, web directories, software directories, corporations
 - [Free3D](https://free3d.com/)
 - [Pinshape](https://pinshape.com/)
 - [Sculpteo](https://www.sculpteo.com/en/)
+- [SoftFever/OrcaSlicer · GitHub](https://github.com/SoftFever/OrcaSlicer)
+- [supermerill/SuperSlicer · GitHub](https://github.com/supermerill/SuperSlicer)
 - [Thingiverse](https://www.thingiverse.com/)
 - [yeggi](https://www.yeggi.com/)
 - [YouMagine](https://www.youmagine.com/)
@@ -3630,6 +3664,7 @@ description: Search engines, web directories, software directories, corporations
 - [Ascii Art Converter](https://cloudapps.herokuapp.com/imagetoascii/)
 - [ASCII-Generator](https://ascii-generator.site/)
 - [asciiart.website](https://asciiart.website/)
+- [Evangelos Paterakis / Calligraphy · GitLab](https://gitlab.gnome.org/GeopJr/Calligraphy)
 - [Lunicode](https://lunicode.com/)
 - [Monodraw](https://monodraw.helftone.com/)
 - [Online Ascii Art Creator](https://www.ascii-art-generator.org/)
@@ -3704,6 +3739,7 @@ description: Search engines, web directories, software directories, corporations
 - [Vecteezy](https://www.vecteezy.com/)
 - [WeGraphics](https://we.graphics/)
 - [Wepik](https://wepik.com/) — Free Graphic Design Editor & Online Templates
+- [Xetera/placewaifu · GitHub](https://github.com/Xetera/placewaifu)
 - [YouWorkForThem](https://www.youworkforthem.com/)
 
 ##### Background Patterns
@@ -3800,7 +3836,7 @@ description: Search engines, web directories, software directories, corporations
 - [Findicons.com](https://findicons.com/)
 - [Flat Icons](https://flat-icons.com/) — Free & Premium Icon Sets For All Your Needs
 - [Fluenticons](https://fluenticons.co/)
-- [Font Awesome](https://fontawesome.com/)
+- [Font Awesome](https://fontawesome.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/FortAwesome/Font-Awesome)
 - [Font Awesome Icons](https://fontawesomeicons.com/)
 - [Fontello](https://fontello.com/) — icon fonts generator
 - [Free Icons](https://www.freeiconspng.com/)
@@ -3894,6 +3930,7 @@ description: Search engines, web directories, software directories, corporations
 - [Gyazo](https://gyazo.com/)
 - [Make A Gif](https://makeagif.com/)
 - [Online GIF Tools](https://onlinegiftools.com/) — Simple, free and easy to use GIF utilities
+- [sindresorhus/Gifski · GitHub](https://github.com/sindresorhus/Gifski)
 
 #### Image Hosting
 - [Cubeupload](https://cubeupload.com/)
@@ -4091,6 +4128,7 @@ description: Search engines, web directories, software directories, corporations
 - [DiscussBot](https://comments.app/)
 - [Facebook](https://developers.facebook.com/docs/plugins/comments/) — Comments plugin
 - [FastComments.com](https://fastcomments.com/)
+- [Giscus · GItHub](https://github.com/giscus/giscus)
 - [Heyoya](https://www.heyoya.com/)
 - [HTML Comment Box](https://www.htmlcommentbox.com/)
 - [Hyvor Talk](https://talk.hyvor.com/)
@@ -4102,6 +4140,7 @@ description: Search engines, web directories, software directories, corporations
 - [Twikoo](https://twikoo.js.org/)
 - [Utterances](https://utteranc.es/)
 - [Waline](https://waline.js.org/en/)
+- [walinejs/waline](https://github.com/walinejs/waline) — 💬 A Simple, Safe Comment System
 - [WordPress plugin](https://wordpress.org/plugins/commentluv/) — CommentLuv
 - [wpDiscuz](https://wpdiscuz.com/)
 
@@ -4227,6 +4266,7 @@ description: Search engines, web directories, software directories, corporations
 - [FB2BookFree](https://fb2bookfree.com/)
 - [Freeditorial](https://freeditorial.com/)
 - [isidore](https://isidore.co/calibre/) — calibre
+- [KAYOKG/BibliotecaDev · GitHub](https://github.com/KAYOKG/BibliotecaDev)
 - [Ketabton.com](https://ketabton.com/)
 - [Lector virtual](http://lectorvirtual.com/)
 - [Leer Libros Online](https://leerlibrosonline.net/)
@@ -4260,11 +4300,12 @@ description: Search engines, web directories, software directories, corporations
 - [Codeshare](https://codeshare.io/)
 
 ##### Build Utility
-- [Bazel](https://bazel.build/)
+- [Bazel](https://bazel.build/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/bazelbuild/bazel)
 - [Blazor](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor) — .NET
-- [Buck2](https://buck2.build/) — Buck2 build system website
+- [Buck2](https://buck2.build/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/meta/buck2) — Buck2 build system website
 - [casey/just](https://github.com/casey/just) — 🤖 Just a command runner
-- [Gradio](https://gradio.app/)
+- [Cicada-Software/cicada · GitHub](https://github.com/Cicada-Software/cicada)
+- [Gradio](https://gradio.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/gradio-app/gradio)
 - [Pulumi](https://www.pulumi.com/) — Universal Infrastructure as Code
 - [Sequelize](https://sequelize.org/) — ORM for TS & JS
 - [xmake.io](https://xmake.io/#/)
@@ -4291,10 +4332,10 @@ description: Search engines, web directories, software directories, corporations
 
 ##### Coding Toolkit
 - [Blitz.js](https://blitzjs.com/) — The Missing Fullstack Toolkit for Next.js
-- [Browserslist](https://browsersl.ist/#)
-- [Bundlephobia](https://bundlephobia.com/) — Size of npm dependencies
+- [Browserslist](https://browsersl.ist/#) / [![GitHub](/img/software/apps/github.svg)](https://github.com/browserslist/browserslist)
+- [Bundlephobia](https://bundlephobia.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/pastelsky/bundlephobia) — Size of npm dependencies
 - [Can I use...](https://caniuse.com/)
-- [Code House](https://codehouse.vercel.app/) — Developer Cheatsheets
+- [Code House](https://codehouse.vercel.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/saviomartin/codehouse) — Developer Cheatsheets
 - [Comby.dev](https://comby.dev/)
 - [Electron Forge](https://www.electronforge.io/)
 - [Emmet.io](https://emmet.io/)
@@ -4314,7 +4355,8 @@ description: Search engines, web directories, software directories, corporations
 - [RunSQL](https://runsql.com/) — Online SQL Playground for MySQL, PostgreSQL, and SQL Server
 - [SQLAlchemy](https://www.sqlalchemy.org/)
 - [Style Dictionary](https://amzn.github.io/style-dictionary/#/)
-- [Sweep](https://sweep.dev/) — turn bugs and feature requests into code changes
+- [Sweep](https://sweep.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/sweepai/sweep) — turn bugs and feature requests into code changes
+- [veler/DevToys](https://github.com/veler/DevToys) — A Swiss Army knife for developers
 - [Volta.sh](https://volta.sh/)
 - [What Firefox trains are we in?](https://whattrainisitnow.com/)
 - [Xiaomi mimocode](https://mimo.xiaomi.com/mimocode)
@@ -4328,19 +4370,24 @@ description: Search engines, web directories, software directories, corporations
 - [GitZip](https://gitzip.org/)
 
 ###### Linter
+- [DavidAnson/markdownlint · GitHub](https://github.com/DavidAnson/markdownlint)
 - [ESLint](https://eslint.org/) — JavaScript Linter
-- [Knip](https://knip.dev/)
+- [Knip](https://knip.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/webpro-nl/knip)
+- [PyCQA/pylint · GitHub](https://github.com/PyCQA/pylint)
 - [RuboCop](https://rubocop.org/)
-- [Ruff](https://docs.astral.sh/ruff/)
+- [Ruff](https://docs.astral.sh/ruff/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/astral-sh/ruff)
+- [Rust-clippy · GitHub](https://github.com/rust-lang/rust-clippy)
 - [xojs/xo](https://github.com/xojs/xo) — JavaScript/TypeScript linter
 
 ##### Dev Environment
 - [Amplify Studio](https://sandbox.amplifyapp.com/getting-started)
+- [backstage/backstage · GitHub](https://github.com/backstage/backstage)
 - [Cacher.io](https://www.cacher.io/)
 - [Clockwork](https://underground.works/clockwork/) — Underworks
 - [codi.link](https://codi.link/) — HTML, CSS, JavaScript Live Editor Playground
 - [Dev.java](https://dev.java/)
 - [Envoyer.io](https://envoyer.io/)
+- [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) — Open Source Feature Flagging and Remote Config Service
 - [GitHub Codespaces](https://github.com/features/codespaces)
 - [GitHub web editor](https://github.dev/github/dev)
 - [Gitpod.io](https://www.gitpod.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/gitpod-io/gitpod)
@@ -4348,7 +4395,9 @@ description: Search engines, web directories, software directories, corporations
 - [RunKit is Node prototyping](https://runkit.com/home)
 - [ScriptPad](https://scriptpad.dev/)
 - [Tinkerwell](https://tinkerwell.app/)
+- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) — Trigger.dev is the open source background jobs platform.
 - [Visual Studio Code](https://vscode.dev/) — Web dev
+- [workbenchdev/Workbench · GitHub](https://github.com/workbenchdev/Workbench)
 
 ##### Hacking Platform
 - [CryptoHack](https://cryptohack.org/)
@@ -4425,7 +4474,7 @@ description: Search engines, web directories, software directories, corporations
 - [Codebase HQ](https://www.codebasehq.com/)
 - [Codeberg.org](https://codeberg.org/)
 - [CodeMonkey](https://codemonkey.link/)
-- [Coder](https://coder.com/) — Your Self-Hosted Remote Development Platform
+- [Coder](https://coder.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/coder/coder) — Your Self-Hosted Remote Development Platform
 - [DarcsHub](https://hub.darcs.net/)
 - [Forgejo](https://forgejo.org/) / [![Codeberg](/img/source-hosts/codeberg.svg)](https://codeberg.org/forgejo/forgejo) — Beyond coding. We forge.
 - [FossHub](https://www.fosshub.com/)
@@ -4437,13 +4486,19 @@ description: Search engines, web directories, software directories, corporations
 - [Gitee](https://gitee.com/) — Enterprise DevOps Research and Development Efficiency Platform
 - [giter.vip](https://giter.vip/)
 - [Giters](https://giters.com/) — Beast code
+- [gitiles](https://gerrit.googlesource.com/gitiles/) — Git at Google
 - [GitLab](https://about.gitlab.com/)
+- [GitLab.org / GitLab · GitLab](https://gitlab.com/gitlab-org/gitlab)
+- [GitLab.org / gitlab-shell · GitLab](https://gitlab.com/gitlab-org/gitlab-shell)
 - [Gogs](https://gogs.io/)
 - [Greasy Fork](https://greasyfork.org/en) — safe and useful user scripts
 - [Heptapod](https://about.heptapod.host/)
 - [Heroku](https://www.heroku.com/home)
 - [Joinplume](https://git.joinplu.me/) — Gitea
 - [Kaggle](https://www.kaggle.com/)
+- [KDE projects · GitLab](https://invent.kde.org/explore/projects/starred)
+- [mediawiki/core · Gerrit Code Review](https://gerrit.wikimedia.org/r/admin/repos/mediawiki/core,general)
+- [Mirror_to_Codeberg](https://codeberg.org/Recommendations/Mirror_to_Codeberg) — Codeberg
 - [Modelscope](https://www.modelscope.cn/home) — 首页
 - [MonkeyLearn](https://monkeylearn.com/)
 - [NotABug](https://notabug.org/)
@@ -4476,7 +4531,7 @@ description: Search engines, web directories, software directories, corporations
 - [GitHub CLI Manual](https://cli.github.com/manual/)
 - [GitHub Copilot](https://copilot.github.com/)
 - [GitHub Desktop](https://desktop.github.com/)
-- [GitHub Documentation](https://docs.github.com/en)
+- [GitHub Documentation](https://docs.github.com/en) / [![GitHub](/img/software/apps/github.svg)](https://github.com/github/docs)
 - [GitHub Education](https://education.github.com/)
 - [GitHub Gist](https://gist.github.com/)
 - [GitHub gists](https://gist.github.com/discover)
@@ -4503,6 +4558,7 @@ description: Search engines, web directories, software directories, corporations
 - [Open Source Guides](https://opensource.guide/)
 - [Primer Design System](https://primer.style/)
 - [Restyled.io](https://restyled.io/)
+- [ThirtyDegreesRay/OpenHub · GitHub](https://github.com/ThirtyDegreesRay/OpenHub)
 
 #### Doc Platform
 - ⭐ **[Scribd](https://www.scribd.com/)**
@@ -4514,6 +4570,7 @@ description: Search engines, web directories, software directories, corporations
 - [Idocpub](https://idoc.pub/)
 - [KUPDF](https://kupdf.net/)
 - [Magzter](https://www.magzter.com/)
+- [mfts/papermark · GitHub](https://github.com/mfts/papermark)
 - [OPDS](https://opds.io/) — A standard for digital content distribution
 - [PDFCOFFEE.COM](https://pdfcoffee.com/) — Upload as much as you need! Unlimited volume of uploaded files
 - [PDFHost.net](https://www.pdfhost.net/)
@@ -4538,6 +4595,7 @@ description: Search engines, web directories, software directories, corporations
 - [DaFont](https://www.dafont.com/es/)
 - [Dafont Free](https://www.dafontfree.io/)
 - [Fancy Fonts](https://www.fancyfonts.top/)
+- [FiraCode · GitHub](https://github.com/tonsky/FiraCode)
 - [Font In Logo](https://www.fontinlogo.com/)
 - [Font Interceptor](https://fontinterceptor.mschfmag.com/)
 - [Font Meme](https://fontmeme.com/)
@@ -4574,6 +4632,7 @@ description: Search engines, web directories, software directories, corporations
 - [MyFonts](https://www.myfonts.com/)
 - [Nerd Fonts](https://www.nerdfonts.com/)
 - [Open Foundry](https://open-foundry.com/)
+- [Operator mono lig · GitHub](https://github.com/kiliman/operator-mono-lig)
 - [Programming Fonts](https://www.programmingfonts.org/) — Test Drive
 - [Resistenza Type](https://www.rsztype.com/)
 - [TagCrowd](https://tagcrowd.com/)
@@ -4593,6 +4652,7 @@ description: Search engines, web directories, software directories, corporations
 
 #### Conference Platform
 - [BrightTALK](https://www.brighttalk.com/)
+- [cloudflare/orange · GitHub](https://github.com/cloudflare/orange)
 - [Go To Stage](https://www.gotostage.com/)
 - [SlidesLive](https://library.slideslive.com/)
 - [TED](https://www.ted.com/)
@@ -4835,6 +4895,7 @@ description: Search engines, web directories, software directories, corporations
 ##### Anime Streaming
 - ⭐ **[Crunchyroll](https://www.crunchyroll.com/)** — Watch Popular Anime & Read Manga Online
 - ⭐ **[Zoro.to](https://w1.zoro.se/)** — Anime online
+- [akuse-app/akuse](https://github.com/akuse-app/akuse) — 🌸 Simple and easy to use anime streaming desktop app without ads.
 - [ani.pm](https://ani.pm/) — watch anime free, subbed & dubbed, in HD
 - [Anidap](https://anidap.se/) — Watch Anime Online Free | English Sub/Dub in HD
 - [Anime News Network](https://www.animenewsnetwork.com/)
@@ -4982,7 +5043,7 @@ description: Search engines, web directories, software directories, corporations
 - [UpMovies](https://upmovies.net/) — Watch FREE Any Movies You Want Online
 - [VeloraTV](https://veloratv.ru/)
 - [VerPeliculasOnline](https://verpeliculasonline.org/)
-- [Vid Binge](https://www.vidbinge.com/) — Stream Your Favorite Movies & TV Shows
+- [Vid Binge](https://www.vidbinge.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/VidBingeApp/VidBinge) — Stream Your Favorite Movies & TV Shows
 - [VidPlay](https://vidplay.org/) — Stream Movies and Series Online Free in HD
 - [VidSrc](https://vidsrc.to/) — Next generation Video Streaming API
 - [VidSrc.wtf](https://www.vidsrc.wtf/)
@@ -5096,6 +5157,7 @@ description: Search engines, web directories, software directories, corporations
 - [Trovo](https://trovo.live/)
 - [Vaughn Live](https://vaughn.live/browse)
 - [Vimeo Livestream](https://livestream.com/)
+- [xiaoyaocz/dart_simple_live](https://github.com/xiaoyaocz/dart_simple_live) — 简简单单的看直播
 - [Zhanqi.tv](https://www.zhanqi.tv/)
 
 ##### Live TV Streaming
@@ -5176,6 +5238,7 @@ description: Search engines, web directories, software directories, corporations
 - [SonyLIV](https://www.sonyliv.com/) — Watch Indian TV Shows, Movies...
 - [Stardust TV](https://www.stardusttv.cc/)
 - [STARZ](https://www.starz.com/us/en) — Captivating Original Series
+- [sussy-code/smov · GitHub](https://github.com/sussy-code/smov)
 - [The Zeus Network](https://www.thezeusnetwork.com/)
 - [Trex IPTV](https://trexiptv-hd.com/)
 - [Trex IPTV](https://iptv-trex.com/) — Premium IPTV Service & Reseller Panel
@@ -5289,6 +5352,7 @@ description: Search engines, web directories, software directories, corporations
 - [Metatube](https://www.metatube.com/)
 - [MiguVideo](https://www.miguvideo.com/mgs/website/prd/sportsHomePage.html)
 - [miguvideo](https://www.miguvideo.com/)
+- [minv](https://sr.ht/~thecashewtrader/minv/) — sourcehut git
 - [Myvideo.ge](https://www.myvideo.ge/)
 - [Naver TV](https://tv.naver.com/)
 - [Nebula.app](https://nebula.app/)
@@ -5370,6 +5434,7 @@ description: Search engines, web directories, software directories, corporations
 - [Collision for hashes](https://collision.geopjr.dev/)
 - [data](https://dopiaza.org/tools/datauri/index.php) — URI Generator - dopiaza
 - [Dungeon Forge](https://procedural-dungeon.netlify.app/) — Procedural Dungeon Generator
+- [f-o/MEGA-Account-Generator](https://github.com/f-o/MEGA-Account-Generator) — 🔴 MEGA.nz account generator written in Python. Uses Mail.tm temporary emails for generating accounts, and automatically verifies them. Can also be used to keep accounts alive, by periodically logging in to them.
 - [htmldocs](https://htmldocs.com/)
 - [Markdown-Videos](https://markdown-videos.jorgenkh.no/)
 - [PolicyMaker ᐈ【Online Legal Documents】Templates (FREE)](https://policymaker.io/)
@@ -5518,6 +5583,7 @@ description: Search engines, web directories, software directories, corporations
 - [Coil.com](https://coil.com/)
 - [Coindrop.to](https://coindrop.to/)
 - [Cointr.ee](https://cointr.ee/)
+- [LukeSmithxyz/shadowchat · GitHub](https://github.com/lukesmithxyz/shadowchat)
 - [Web Monetization](https://webmonetization.org/)
 
 #### E-signature
@@ -5525,7 +5591,7 @@ description: Search engines, web directories, software directories, corporations
 - [DocuSeal](https://www.docuseal.co/) — Open Source Document Signing
 - [DocuSign](https://www.docusign.com/) — Electronic Signature and Contract Lifecycle Management
 - [DottedSign](https://www.dottedsign.com/) — Sign Documents Online
-- [OpenSign](https://www.opensignlabs.com/) — The Free & OpenSource Alternative to Docusign
+- [OpenSign](https://www.opensignlabs.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/OpenSignLabs/OpenSign) — The Free & OpenSource Alternative to Docusign
 - [PAe CTT](https://administracionelectronica.gob.es/ctt/verPestanaGeneral.htm?idIniciativa=clienteafirma) / [![GitHub](/img/software/apps/github.svg)](https://github.com/ctt-gob-es/clienteafirma) — Cliente de firma electrónica de @firma
 - [Papermark](https://www.papermark.io/) — The Open Source DocSend Alternative
 - [SignRequest](https://signrequest.com/#/)
@@ -5561,7 +5627,7 @@ description: Search engines, web directories, software directories, corporations
 - [linkding](https://linkding.link/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/sissbruecker/linkding)
 - [LinkStack](https://linkstack.org/) — Self-hosted open-source Linktree alternative
 - [Linktree](https://linktr.ee/)
-- [LittleLink](https://littlelink.io/)
+- [LittleLink](https://littlelink.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/sethcottle/littlelink)
 - [Lnk.Bio](https://lnk.bio/)
 - [markdownlinks.com](https://markdownlinks.com/)
 - [omg.lol](https://home.omg.lol/) — A lovable web page and email address, just for you
@@ -5593,6 +5659,7 @@ description: Search engines, web directories, software directories, corporations
 - [BitPay](https://bitpay.com/)
 - [Circle](https://www.circle.com/en/)
 - [GNU Taler](https://www.taler.net/en/) — Taxable Anonymous Libre Electronic Resources
+- [juspay/hyperswitch · GitHub](https://github.com/juspay/hyperswitch)
 - [Lightspark](https://www.lightspark.com/) — Global Payments Platform | Instant Bitcoin & Fiat Transfers
 - [NOWPayments](https://nowpayments.io/) — Accept Crypto Payments as a Business
 - [OxaPay](https://oxapay.com/) — Crypto Payment Gateway for Businesses & Developers
@@ -5600,6 +5667,7 @@ description: Search engines, web directories, software directories, corporations
 - [Shift4](https://www.shift4.com/) — Integrate Payments and Commerce Technology
 - [Stripe](https://stripe.com/en-es)
 - [Transak](https://transak.com/) — Ramp Developer Integration for Web3 & Crypto Apps
+- [useautumn/autumn](https://github.com/useautumn/autumn) — Autumn is an open-source pricing & billing platform
 - [Vendo](https://www.vendoservices.com/)
 - [Verifone](https://www.verifone.com/en/uk)
 - [Wyre](https://www.sendwyre.com/) — Crypto Infrastructure
@@ -5649,6 +5717,7 @@ description: Search engines, web directories, software directories, corporations
 
 #### Instagram Viewer
 - [Bibliogram](https://bibliogram.art/)
+- [davidarroyo1234/InstagramUnfollowers](https://github.com/davidarroyo1234/InstagramUnfollowers) — Check if people follows you back on Instagram
 - [Gramhir.com](https://gramhir.com/)
 - [Gramho](https://gramho.com/)
 - [GreatFon](https://greatfon.com/) — Insta Viewer
@@ -5672,7 +5741,7 @@ description: Search engines, web directories, software directories, corporations
 - [redditery](https://www.redditery.com/)
 - [RedditList](http://redditlist.com/)
 - [RedditMetis](https://redditmetis.com/)
-- [redditP](https://www.redditp.com/) — reddit.com
+- [redditP](https://www.redditp.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/ubershmekel/redditp) — reddit.com
 - [RedditSave](https://redditsave.com/)
 - [RedditSearch.io](https://www.redditsearch.io/)
 - [Repost Detection Bot](https://www.repostsleuth.com/)
@@ -5690,6 +5759,7 @@ description: Search engines, web directories, software directories, corporations
 - [SmallSEOTools](https://smallseotools.com/)
 - [Sort My List](https://sortmylist.com/) — Alphabetize, Remove Line Breaks, Add Labels, Prune Text
 - [The Alphabetizer App](https://alphabetize.app/)
+- [wordgen/cli](https://github.com/wordgen/cli) — A CLI random word generator.
 - [Zalgo Text Generator](https://zalgo.org/) — Create Glitchy Text Online
 
 #### Pastebin
@@ -5728,7 +5798,7 @@ description: Search engines, web directories, software directories, corporations
 - [Pastes.io](https://pastes.io/)
 - [Pretrey](https://pretrey.fmhy.bid/) — Share text instantly
 - [PrivacyTools Pastebin](https://bin.privacytools.io/)
-- [PrivateBin](https://privatebin.info/)
+- [PrivateBin](https://privatebin.info/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/PrivateBin/PrivateBin)
 - [Quick Text](https://qtext.io/) — Easiest way of online text sharing 📠
 - [Share Text](https://sharetext.me/)
 - [Share text](https://share-text.com/) — Send Anonymous Private Note with Password
@@ -5738,6 +5808,7 @@ description: Search engines, web directories, software directories, corporations
 - [Termbin.com](https://termbin.com/)
 - [TextBin](https://app.textbin.theenthusiast.dev/) — Open Source Alternative to PasteBin
 - [TextKool](https://textkool.com/en)
+- [The-Enthusiast-404/text-bin-frontend](https://github.com/The-Enthusiast-404/text-bin-frontend) — Frontend For TextBin
 - [TxtBin](https://txtbin.org/)
 - [Verybin](https://www.verybin.com/)
 
@@ -5760,7 +5831,7 @@ description: Search engines, web directories, software directories, corporations
 - [Online CSV Tools](https://onlinecsvtools.com/)
 - [Online Tool for Online People](https://8gwifi.org/)
 - [Pre Post SEO](https://www.prepostseo.com/)
-- [ShellCheck](https://www.shellcheck.net/) — shell script analysis tool
+- [ShellCheck](https://www.shellcheck.net/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/koalaman/shellcheck) — shell script analysis tool
 - [TinyWow](https://tinywow.com/) — Free AI Writing, PDF, Image, and other Online Tools
 - [Toolsley](https://www.toolsley.com/)
 - [Toolzweb](https://toolzweb.net/)
@@ -5820,6 +5891,9 @@ description: Search engines, web directories, software directories, corporations
 - [Cloudflare Radar](https://radar.cloudflare.com/)
 - [CodePunch Solutions](https://codepunch.com/)
 - [data.world](https://data.world/)
+- [GoogleChrome/lighthouse · GitHub](https://github.com/GoogleChrome/lighthouse)
+- [GoogleChrome/lighthouse-ci · GitHub](https://github.com/GoogleChrome/lighthouse-ci)
+- [GoogleChrome/web-vitals-extension · GitHub](https://github.com/GoogleChrome/web-vitals-extension)
 - [Internet Live Stats](https://www.internetlivestats.com/)
 - [M-Lab](https://www.measurementlab.net/)
 - [Netcraft News](https://news.netcraft.com/)
@@ -6065,7 +6139,7 @@ description: Search engines, web directories, software directories, corporations
 ## Search Engine
 - ⭐ **[Onion Search Engine](https://onionengine.com/)**
 - ⭐ **[Private.sh](https://private.sh/)**
-- ⭐ **[YaCy](https://yacy.net/)**
+- ⭐ **[YaCy](https://yacy.net/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/yacy/yacy_search_server)
 - ⭐ **[you.com](https://you.com/)** — AI search engine
 - [360 so](https://www.so.com/)
 - [Alexandria Search](https://www.alexandria.org/)
@@ -6147,6 +6221,7 @@ description: Search engines, web directories, software directories, corporations
 - [Stract](https://stract.com/)
 - [Suchio.de](http://www.suchio.de/)
 - [Supreme Search](https://www.supremesearch.net/)
+- [surfraw admin / Surfraw · GitLab](https://gitlab.com/surfraw/Surfraw/)
 - [Terrier IR Platform](http://www.terrier.org/)
 - [Tiger.ch](https://tiger.ch/)
 - [tobi/qmd](https://github.com/tobi/qmd) — mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
@@ -6172,6 +6247,7 @@ description: Search engines, web directories, software directories, corporations
 - ⭐ **[DuckDuckGo](https://duckduckgo.com/)**
 - ⭐ **[DuckDuckGo HTML](https://html.duckduckgo.com/html)**
 - ⭐ **[DuckDuckGo Lite](https://lite.duckduckgo.com/lite/)**
+- ⭐ **[jarun/ddgr · GitHub](https://github.com/jarun/ddgr)**
 - [DuckDuckGo !Bangs](https://duckduckgo.com/bangs)
 - [DuckDuckGO Bang v260.js](https://duckduckgo.com/bang.v260.js)
 - [DuckDuckGo Safe](https://safe.duckduckgo.com/)
@@ -6182,6 +6258,7 @@ description: Search engines, web directories, software directories, corporations
 ### Google Search
 - ⭐ **[Google](https://www.google.com/)**
 - [Ask](https://www.ask.com/)
+- [jarun/googler](https://github.com/jarun/googler) — Google from the terminal
 - [Kiddle](https://www.kiddle.co/)
 - [Startpage](https://www.startpage.com/)
 
@@ -6256,10 +6333,12 @@ description: Search engines, web directories, software directories, corporations
 ### Searx
 - [NetworkChuck Search](https://notgoogle.live/)
 - [Search FOG](https://search.fuckoffgoogle.net/)
+- [Searx · GitHub](https://github.com/searx/searx)
 - [Searx Documentation](https://searx.github.io/searx)
 - [Searx instances](https://searx.space/)
 - [Searx Party](https://searx.party/)
 - [searx skyn3t](https://search.skyn3t.in/)
+- [searxng/searxng · GitHub](https://github.com/searxng/searxng)
 - [Whoogle Search](https://search.garudalinux.org/)
 
 ### Sogou

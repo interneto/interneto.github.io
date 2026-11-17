@@ -5,7 +5,7 @@ description: Workouts, wellness, and health tracking
 
 # Health & Fitness
 
-**Total Bookmarks:** 370
+**Total Bookmarks:** 378
 
 - [Alma](https://www.alma.food/) — Your Nutrition Companion | Track, Learn & Discover Food
 - [Barbell Medicine](https://www.barbellmedicine.com/) — Science-Based Coaching & Nutrition
@@ -16,7 +16,7 @@ description: Workouts, wellness, and health tracking
 - [Lifty](https://app-lifty.com/)
 - [Migraine Log](https://migrainelog.zerodogg.org/en)
 - [slgobinath/SafeEyes · GitHub](https://github.com/slgobinath/SafeEyes/)
-- [Subsurface](https://subsurface-divelog.org/) — An open-source divelog
+- [Subsurface](https://subsurface-divelog.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/subsurface/subsurface) — An open-source divelog
 - [Workrave](https://workrave.org/)
 
 ## Anatomy
@@ -95,11 +95,11 @@ description: Workouts, wellness, and health tracking
 - ⭐ **[My Recipe Box](https://www.myrecipebox.app/en/)**
 - ⭐ **[Paprika Recipe Manager](https://www.paprikaapp.com/)**
 - ⭐ **[Recipe Keeper](https://recipekeeperonline.com/)** — App for iPhone, iPad, Android, Windows and Mac
-- ⭐ **[RecipeSage](https://recipesage.com/#/welcome)** — The Personal Recipe Keeper
+- ⭐ **[RecipeSage](https://recipesage.com/#/welcome)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/julianpoy/RecipeSage) — The Personal Recipe Keeper
 - ⭐ **[Recipya](https://recipya-app.musicavis.ca/)**
 - ⭐ **[Tandoor](https://tandoor.dev/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/TandoorRecipes/recipes) — Smart recipe management
 - [AvoCook](https://logarex.github.io/AvoCook/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Logarex/AvoCook) — Carnet de recettes mobile
-- [Bar Assistant](https://barassistant.app/)
+- [Bar Assistant](https://barassistant.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/karlomikus/bar-assistant)
 - [Broccoli](https://flauschcode.com/broccoli-the-green-recipe-app-for-android/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/flauschtrud/broccoli) — The Green Recipe App for Android - flauschcode
 - [COOK mate](https://www.cookmate.online/en/home/)
 - [Cooklist](https://cooklist.com/) — Plan • Shop • Cook
@@ -117,21 +117,24 @@ description: Workouts, wellness, and health tracking
 - [judemont/reciper](https://github.com/judemont/reciper?tab=readme-ov-file) — 🍳 Your Ultimate Kitchen Companion! 📱
 - [kafkade/fond · GitHub](https://github.com/kafkade/fond)
 - [Kitchenese](https://kitchenese.io/)
-- [KitchenOwl](https://kitchenowl.org/)
+- [KitchenOwl](https://kitchenowl.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/TomBursch/kitchenowl)
 - [KitchenPal, your kitchen on your phone](https://kitchenpalapp.com/en/) — shared pantry, grocery lists, meal planner, recipes & more.
 - [kitshn.app](https://kitshn.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/aimok04/kitshn)
 - [KlaraErpler/EnRecipes · GitHub](https://github.com/KlaraErpler/EnRecipes)
 - [KptnCook Premium](https://www.kptncook.com/) — Quick and easy 30-minute recipes
 - [littlecook](https://littlecook.io/) — Your Digital Sous Chef
 - [Meal37](https://meal37.com/) — Simplify Your Culinary Journey with Meal37
+- [mealie-recipes/mealie · GitHub](https://github.com/mealie-recipes/mealie)
 - [Mealime](https://www.mealime.com/) — Meal Planning App for Healthy Eating - Get it for Free Today!
 - [Mela Recipes](https://mela.recipes/)
+- [nextcloud/cookbook · GitHub](https://github.com/nextcloud/cookbook/)
 - [oliexdev/openCook · GitHub](https://github.com/oliexdev/openCook)
 - [OrganizEat](https://home.organizeat.com/)
 - [Pangea Recipes](https://www.pangearecipes.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/hello-pangea/pangea-recipes) — Recipe Manager
 - [Pepperplate](https://www.pepperplate.com/) — Your recipes, menus, shopping lists and cooking timers.
 - [Pestle](https://pestlechef.app/) — The best app to discover & save new recipes
 - [Plan to Eat](https://www.plantoeat.com/) — Meal Planner, Recipe Organizer, and Automatic Grocery Lists
+- [reaper47/recipya · GitHub](https://github.com/reaper47/recipya)
 - [Recipe Manager](https://pestleapp.com/) — Pestle for web & iOS. Free recipe keeper app
 - [RecipeBox](https://www.recipebox.com/) — Store your favorite recipes in one place for free
 - [Recipes & Cookbooks](https://www.bettycrocker.com/) — Food, Cooking Recipes
@@ -153,7 +156,7 @@ description: Workouts, wellness, and health tracking
 - [Baking Calculators](https://bakingcalculators.com/)
 - [BBC Food](https://www.bbc.co.uk/food) — Recipes and inspiration from your favourite BBC programmes and chefs
 - [Chefclub](http://www.chefclub.tv/es-es)
-- [Chowdown](https://chowdown.io/)
+- [Chowdown](https://chowdown.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/clarklab/chowdown)
 - [Cocineros Argentinos](https://cocinerosargentinos.com/)
 - [Cookd](https://cookdtv.com/)
 - [Directo al Paladar (DAP)](https://www.directoalpaladar.com/) — Recetas de cocina, postres y gastronomía
@@ -182,7 +185,7 @@ description: Workouts, wellness, and health tracking
 - [StillTasty](https://stilltasty.com/)
 - [Tasty](https://tasty.co/)
 - [The Kitchn](https://www.thekitchn.com/)
-- [Typesense](https://recipe-search.typesense.org/) — Recipes
+- [Typesense](https://recipe-search.typesense.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/typesense/showcase-recipe-search) — Recipes
 - [WhatToCook.org](https://whattocook.org/)
 - [Yummly](https://www.yummly.com/) — Personalized Recipe Recommendations
 - [Yup, it's Vegan](https://yupitsvegan.com/) — Plant-Based & Vegetarian Recipes, A Vegan Recipe Blog
@@ -201,6 +204,7 @@ description: Workouts, wellness, and health tracking
 - [Infosalus](https://www.infosalus.com/)
 - [Mental Health America](https://www.mhanational.org/)
 - [Mental Health America](https://screening.mhanational.org/screening-tools?ref=Hellblade) — test
+- [mglog / Migraine Log · GitLab](https://gitlab.com/mglog/org.zerodogg.migraineLog/)
 - [Mindalia](https://www.mindalia.com/)
 - [NeuronUp](https://www.neuronup.com/)
 - [NHS](https://www.nhs.uk/)
@@ -253,6 +257,7 @@ description: Workouts, wellness, and health tracking
 
 ### Bodybuilding
 - [Bodybuilding](https://www.bodybuilding.com/en-ES/index)
+- [CurrentCycle](https://currentcycle.xyz/) — Bodybuilding Database
 - [Muscle & Strength](https://www.muscleandstrength.com/)
 - [Strength Level](https://strengthlevel.com/) — Weightlifting Calculator (Bench/Squat/Deadlift)
 
@@ -262,6 +267,7 @@ description: Workouts, wellness, and health tracking
 - ⭐ **[wger](https://wger.de/en/software/features)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/wger-project/wger)
 - ⭐ **[Workout Cool](https://workout.cool/en)**
 - [8fit](https://8fit.com/) — Custom Home Workouts App, Healthy Meal and Nutrition Plans
+- [a-mabe/OpenHIIT · GitHub](https://github.com/a-mabe/OpenHIIT)
 - [Alpha Progression · Gym Tracker & Workout Planner](https://alphaprogression.com/en)
 - [amp](https://ampfit.com/) — the AI-powered fitness machine made for modern life
 - [Atafitclub](https://altafitgymclub.com/)
@@ -296,10 +302,11 @@ description: Workouts, wellness, and health tracking
 - [Gym Virtual](http://gymvirtual.com/)
 - [Haga Calentamiento](http://www.hagacalentamiento.com/)
 - [Hevy](https://www.hevyapp.com/) — Workout Tracker
+- [Iamlooker/Kenko](https://github.com/Iamlooker/Kenko) — A workout journal
 - [Intervals.icu](https://www.intervals.icu/) — Free Cycling, Running, Triathlon Training Platform
 - [JEFIT](https://www.jefit.com/) — Your Ultimate Workout Planner & Tracking App for Progress
 - [JustFit App](https://justfit.app/) — At-Home Workouts & Fitness Programs for Women
-- [LiftLog](https://liftlog.online/) — The Best Open Source Workout Tracker
+- [LiftLog](https://liftlog.online/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/LiamMorrow/LiftLog) — The Best Open Source Workout Tracker
 - [MadMuscles](https://madmuscles.com/) — Personalized workout program
 - [MapMyRun](https://www.mapmyrun.com/)
 - [MKFit App](https://mkfit.co/)
@@ -356,6 +363,7 @@ description: Workouts, wellness, and health tracking
 - [Runna](https://www.runna.com/) — #1 rated personalized training plans for running
 - [SamR1/FitTrackee · GitHub](https://github.com/SamR1/FitTrackee)
 - [SportTracks](https://sporttracks.mobi/) — Running, cycling and triathlon training software
+- [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate) — A self-hosted data logger for your Tesla 🚘
 - [TrainingPeaks](https://www.trainingpeaks.com/) — A Training App as Versatile as You
 - [withpaceio/pace-app · GitHub](https://github.com/withpaceio/pace-app?tab=readme-ov-file)
 - [WorkOutDoors](http://www.workoutdoors.net/)

@@ -65,7 +65,7 @@ description: Home automation, recipes, and family services
 - [genery.com](https://genery.com/)
 - [Geni Genological Tree](https://www.geni.com/)
 - [GenoPro](https://genopro.com/) — Genogram Software
-- [Gramps](https://gramps-project.org/blog) — Free Genealogy Software
+- [Gramps](https://gramps-project.org/blog) / [![GitHub](/img/software/apps/github.svg)](https://github.com/gramps-project/gramps) — Free Genealogy Software
 - [Heredis](https://shop.heredis.com/)
 - [HEREDIS](https://www.heredis.com/en/) — Family tree software, genealogy program, genealogical research
 - [Heredis Family tree software, genealogy program, genealogical research](https://home.heredis.com/en/)
