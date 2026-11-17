@@ -5,7 +5,7 @@ description: Games, launchers, emulators, and gaming utilities
 
 # Gaming
 
-**Total Bookmarks:** 803
+**Total Bookmarks:** 804
 
 
 ## Games
@@ -251,6 +251,7 @@ description: Games, launchers, emulators, and gaming utilities
 ### Educational
 - [DMM](https://www.dmm.com/)
 - [Educaplay](https://www.educaplay.com/) — Free educational games generator
+- [Elevate app](https://elevateapp.com/)
 - [Engineer](https://brainteaser.top/engineer/index.html)
 - [GCompris Educational](https://gcompris.net/index-en.html)
 - [Kahoot](https://kahoot.com/)

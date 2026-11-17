@@ -5,7 +5,7 @@ description: Workouts, wellness, and health tracking
 
 # Health & Fitness
 
-**Total Bookmarks:** 378
+**Total Bookmarks:** 379
 
 - [Alma](https://www.alma.food/) — Your Nutrition Companion | Track, Learn & Discover Food
 - [Barbell Medicine](https://www.barbellmedicine.com/) — Science-Based Coaching & Nutrition
@@ -227,6 +227,7 @@ description: Workouts, wellness, and health tracking
 
 ## Mind
 - [CogniFit](https://www.cognifit.com/)
+- [Daylio](https://daylio.net/)
 - [Visión Extra Ocular](https://visionextraocular.com/)
 
 ## Nutrition Tracker

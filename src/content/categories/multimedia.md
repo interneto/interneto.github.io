@@ -5,7 +5,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 
 # Multimedia
 
-**Total Bookmarks:** 2324
+**Total Bookmarks:** 2327
 
 
 ## Audio & Music
@@ -1418,6 +1418,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [RapCAD](https://github.com/GilesBathgate/RapCAD)
 - [Revit](https://www.autodesk.com/products/revit/overview?term=1-YEAR&tab=subscription) — Autodesk
 - [Siemens Software](https://plm.sw.siemens.com/en-US/nx/) — NX software
+- [Slic3r](https://slic3r.org/) — Open source 3D printing toolbox
 - [SolidWorks](https://www.solidworks.com/) — 3D CAD Design Software and 3D Systems
 - [SOLIDWORKS 3D CAD](https://www.solidworks.com/product/solidworks-3d-cad)
 - [SolveSpace](https://solvespace.com/index.pl) — parametric 3d CAD
@@ -1603,6 +1604,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [STRUCTORIZER](https://structorizer.fisch.lu/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/fesch/Structorizer.Desktop)
 - [Structurizr](https://structurizr.com/)
 - [TikZ Editor](https://tikz.dev/editor/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/DominikPeters/tikz-editor)
+- [Timetoast](https://www.timetoast.com/)
 - [UMLet](https://www.umlet.com/) — Free UML Tools
 - [Vega.io](https://vega.github.io/)
 - [Visual-paradigm](https://www.visual-paradigm.com/)
@@ -1651,6 +1653,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [MindMeister](https://www.mindmeister.com/) — Create Your Mind Maps Online
 - [MindMup](https://www.mindmup.com/)
 - [Mindr](https://github.com/pzhaonet/mindr)
+- [MindSky](http://sky.mind.im/)
 - [Mindtree](https://bluzky.github.io/mindtree)
 - [Minzel.io](https://minzel.io/)
 - [MyMap](https://www.mymap.ai/) — The AI canvas for visual thinking

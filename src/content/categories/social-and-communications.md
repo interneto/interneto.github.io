@@ -5,7 +5,7 @@ description: Email, messaging, forums, social networks, and video conferencing
 
 # Social & Communications
 
-**Total Bookmarks:** 1371
+**Total Bookmarks:** 1373
 
 
 ## 2FA
@@ -601,6 +601,7 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [thunderbird/k-9 · GitHub](https://github.com/thunderbird/k-9)
 - [thundernest/k-9 · GitHub](https://github.com/thundernest/k-9)
 - [TypeApp](https://typeapp.com/)
+- [Unroll.Me](https://unroll.me/)
 - [vladimiry/ElectronMail · GitHub](https://github.com/vladimiry/ElectronMail/)
 - [Zero email](https://0.email/)
 - [Zimbra](https://www.zimbra.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Zimbra) — Private email & Collaboration
@@ -691,6 +692,7 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [mikedilger/gossip · GitHub](https://github.com/mikedilger/gossip)
 - [Minds.com](https://www.minds.com/discovery/top) — Top
 - [Misskey](https://join.misskey.page/en-US/)
+- [Mobilizon](https://joinmobilizon.org/en/)
 - [Movim](https://movim.eu/)
 - [NKN](https://nkn.org/) — Network Infrastructure for Decentralized Internet
 - [Olas](https://olas.network/) — Co-own AI

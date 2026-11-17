@@ -5,7 +5,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 
 # Development
 
-**Total Bookmarks:** 2847
+**Total Bookmarks:** 2848
 
 - [Adobe Open Source](https://opensource.adobe.com/)
 - [Asterisk](https://www.asterisk.org/)
@@ -749,6 +749,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [Presidium](https://presidium.spandigital.net/)
 - [Quartz 4.0](https://quartz.jzhao.xyz/) — Jzhao 🪴
 - [Read the Docs](https://readthedocs.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/readthedocs/readthedocs.org)
+- [Read the Docs](https://about.readthedocs.com/)
 - [ReadMe](https://readme.com/)
 - [Reedsy](https://reedsy.com/)
 - [Retype](https://retype.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/retypeapp/retype)

@@ -5,7 +5,7 @@ description: Search engines, web directories, software directories, corporations
 
 # Online Services
 
-**Total Bookmarks:** 5765
+**Total Bookmarks:** 5770
 
 
 ## Biography
@@ -47,6 +47,7 @@ description: Search engines, web directories, software directories, corporations
 - [Takemeback.to](https://takemeback.to/)
 
 ## Competitions
+- [Challonge](https://challonge.com/) — Tournament Brackets - Single & Double Elimination, Round Robin, Swiss, Group Stage
 - [Film Festivals, Screenplay Contests, Submissions](https://filmfreeway.com/)
 - [The NeuroTech Challenge Series](https://neurotech-challenge.com/)
 
@@ -4171,6 +4172,7 @@ description: Search engines, web directories, software directories, corporations
 - [‎Apple Books](https://books.apple.com/charts) — Top books
 - [Biblio](https://www.biblio.com/) — Used Books and Rare Books from Antiquarian Booksellers
 - [BiblioGenius](https://bibliogenius.org/) / [![Codeberg](/img/source-hosts/codeberg.svg)](https://codeberg.org/bibliogenius) — Gestion de bibliothèque Open Source, locale et privée
+- [Blinkist](https://www.blinkist.com/)
 - [Bookracy](https://bookracy.org/?q=) — Free Knowledge and Education for All
 - [BooksRun](https://booksrun.com/) — Sell, Buy or Rent Textbooks Online For Best Prices
 - [Debook](https://debook.app/) — Where books come to life
@@ -4563,6 +4565,7 @@ description: Search engines, web directories, software directories, corporations
 - [FlipHTML5](https://fliphtml5.com/)
 - [FlowPaper](https://flowpaper.com/)
 - [Idocpub](https://idoc.pub/)
+- [Issuu](https://issuu.com/) — Digital Publishng Platform
 - [KUPDF](https://kupdf.net/)
 - [Magzter](https://www.magzter.com/)
 - [OPDS](https://opds.io/) — A standard for digital content distribution
@@ -6057,6 +6060,7 @@ description: Search engines, web directories, software directories, corporations
 - [Consumer Reports](https://www.consumerreports.org/cro/index.htm)
 - [idealo](https://www.idealo.es/)
 - [Influenster](https://www.influenster.com/)
+- [Kit](https://kit.co/)
 - [Looria](https://looria.com/) — Product Reviews
 - [Shopping.com](https://shopping.com/)
 - [Slant](https://www.slant.co/)
@@ -6073,6 +6077,7 @@ description: Search engines, web directories, software directories, corporations
 - [OpenUP Hub](https://www.openuphub.eu/)
 
 #### Software Review
+- [Capiche](https://capiche.com/)
 - [Capterra](https://www.capterra.com/)
 - [G2](https://www.g2.com/) — software review
 - [Product Hunt](https://www.producthunt.com/)

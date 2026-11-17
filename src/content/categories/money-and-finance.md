@@ -5,7 +5,7 @@ description: Banking, cryptocurrency, and financial tracking
 
 # Money & Finance
 
-**Total Bookmarks:** 443
+**Total Bookmarks:** 492
 
 - [brokeronline](https://www.brokeronline.es/)
 - [IPIP](https://whois.ipip.net/)
@@ -399,6 +399,57 @@ description: Banking, cryptocurrency, and financial tracking
 - [Tux.art](https://tux.art/#/)
 - [VR NFT](https://vr-nft.com/)
 - [ZORA](https://zora.co/) — NFT Marketplace Protocol
+
+## Finance Manager
+- [Actual](https://actualbudget.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/actualbudget/actual) — Actual Budget Documentation
+- [AndroMoney](https://web.andromoney.com/)
+- [BillSplit](https://www.usebillsplit.com/) — Split your bill easily with AI
+- [Bluecoins](https://www.bluecoinsapp.com/) — Best finance app on Android
+- [Budget Board](https://budgetboard.net/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/teelur/budget-board)
+- [ButterDevelop/CryptoJournal.Wpf · GitHub](https://github.com/ButterDevelop/CryptoJournal.Wpf)
+- [Cashew](https://cashewapp.web.app/)
+- [chvp/NanoLedger · GitHub](https://github.com/chvp/NanoLedger)
+- [Crater](https://crater.financial/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/crater-invoice/crater) — Embedded Invoicing & Bill Pay for platforms
+- [Debit & Credit](https://debitandcredit.app/) — Personal finance for iOS, Mac and Apple Watch
+- [dreautall/waterfly-iii · GitHub](https://github.com/dreautall/waterfly-iii)
+- [Firefly III](https://firefly-iii.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/firefly-iii/firefly-iii)
+- [GnuCash](https://www.gnucash.org/)
+- [HomeBank](https://www.gethomebank.org/en/index.php) — Free personal finance software, money management for everyone
+- [InvoicePlane](https://www.invoiceplane.com/)
+- [Ivy-Apps/ivy-wallet](https://github.com/Ivy-Apps/ivy-wallet) — Ivy Wallet is an open-source money manager app for Android
+- [Klug Saver](https://www.klugsaver.com/)
+- [KMY Money](https://kmymoney.org/)
+- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) — Personal finance and wealth management app
+- [Monefy](https://monefy.me/)
+- [Monefy](https://www.monefy.com/) — Budget & Track Your Money
+- [Moneydance](https://moneydance.com/)
+- [MoneyManager Ex](https://moneymanagerex.org/)
+- [MoneyTool](https://themoneytool.com/)
+- [My Expenses](https://www.myexpenses.mobi/en/)
+- [MyMoney Pro](https://play.google.com/store/apps/details?id=com.raha.app.mymoney.pro) — Google Play Store
+- [NickvisionApps/Denaro](https://github.com/nickvisionapps/denaro) — Manage your personal finances
+- [nlogozzo/NickvisionMoney · GitHub](https://github.com/nlogozzo/NickvisionMoney)
+- [OneSplit](https://www.onesplit.ai/) — Makes splitting bills a breeze
+- [Pebble](https://pebble.finance/) — Personal ETF
+- [Pocket Clear](https://pocketclear.app/) — Free Privacy-First Expense Tracker for Couples & Individuals
+- [PugPocket](https://pugpocket.com/) — Dividí Gastos, No Amistades
+- [Purrse](https://purrse.app/) — Sharing expenses with friends, family or colleagues.
+- [QuickBooks®](https://quickbooks.intuit.com/#) — Official Site | Smart Tools. Better Business.
+- [Quicken](https://www.quicken.com/) — Personal Finance & Money Management Software
+- [rarfell/dimeApp](https://github.com/rarfell/dimeApp) — Dime is a beautiful expense tracker built with iOS design guidelines in mind.
+- [Settle Up](https://settleup.io/)
+- [Skrooge](https://skrooge.org/)
+- [Splid](https://splid.app/english) — Split expenses the easy way
+- [Spliit · Share Expenses with Friends & Family](https://spliit.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/spliit-app/spliit)
+- [Split expenses with friends.](https://www.splitwise.com/)
+- [Splitser.com](https://splitser.com/) — Divide and settle expenses in the app
+- [Summit](https://summitfinance.app/) — Open Source Invoicing & Finance App
+- [teelur/budget-board](https://github.com/teelur/budget-board) — A simple app for tracking monthly spending and working towards financial goals
+- [tomfunk/fungible](https://github.com/tomfunk/fungible) — Terminal UI for personal finance — Plaid sync, CSV import, AI assistant, and MCP server
+- [Tricount](https://www.tricount.com/) — Organize group expenses
+- [Wallet by BudgetBakers](https://budgetbakers.com/) — Your New Personal Finance Manager
+- [Wealthfolio](https://wealthfolio.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/wealthfolio/wealthfolio) — Desktop Investment Tracker
+- [YNAB](https://www.ynab.com/)
 
 ## Stock-Exchanges
 - [ASX](https://www2.asx.com.au/)

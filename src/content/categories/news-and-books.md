@@ -5,7 +5,7 @@ description: News, blogs, digital gardens, libraries, and magazines
 
 # News & Books
 
-**Total Bookmarks:** 2566
+**Total Bookmarks:** 2567
 
 
 ## News
@@ -2791,6 +2791,7 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [lcomplete/huntly · GitHub](https://github.com/lcomplete/huntly)
 - [lire reader](https://lireapp.com/)
 - [lwindolf / liferea · GitHub](https://github.com/lwindolf/liferea)
+- [Mailbrew](https://mailbrew.com/)
 - [Miniflux](https://miniflux.app/) — Feed Reader
 - [msasikanth/twine · GitHub](https://github.com/msasikanth/twine)
 - [NetNewsWire](https://netnewswire.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Ranchero-Software/NetNewsWire)

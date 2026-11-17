@@ -5,7 +5,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 
 # OS & Utilities
 
-**Total Bookmarks:** 1259
+**Total Bookmarks:** 1260
 
 - [Comparison of OS](https://en.wikipedia.org/wiki/Comparison_of_operating_systems) — Wikipedia
 - [Comparison of real-time operating systems](https://en.wikipedia.org/wiki/Comparison_of_real-time_operating_systems) — Wikipedia
@@ -1369,6 +1369,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [sm0svx/svxlink · GitHub](https://github.com/sm0svx/svxlink)
 
 ## Utility
+- ⭐ **[Hotkey Cheatsheet](https://hotkeycheatsheet.com/)** — Improve Your Productivity with Keyboard Shortcuts
 - ⭐ **[Wintoys](https://apps.microsoft.com/detail/9p8ltpgcbzxd?hl=en-US&gl=ES)** — Free download and install on Windows | Microsoft Store
 - [DevToys](https://devtoys.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/DevToys-app/DevToys) — A Swiss Army knife for developers
 - [FossifyOrg/Keyboard · GitHub](https://github.com/FossifyOrg/Keyboard)
