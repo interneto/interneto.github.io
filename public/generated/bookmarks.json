@@ -5951,26 +5951,6 @@
     "createdAt": "2026-04-29T11:43:15.513Z"
   },
   {
-    "id": "1932561936",
-    "title": "Fourques/Takeboard: Open-source AI creation canvas built on ComfyUI. Choose models, connect media, and generate images and videos with your own local or remote setup.",
-    "url": "https://github.com/Fourques/Takeboard",
-    "description": "Open-source AI creation canvas built on ComfyUI. Choose models, connect media, and generate images and videos with your own local or remote setup. - Fourques/Takeboard",
-    "domain": "github.com",
-    "cover": "https://opengraph.githubassets.com/1033c6d3901cb8a9a6b8f83aeff239a050139f8834a09e5b3a8253ecae9e4db7/Fourques/Takeboard",
-    "favorite": false,
-    "category": "ai-tools-and-services",
-    "subcategory": [
-      "Generative Media",
-      "AI Creative Suite"
-    ],
-    "tags": [
-      "Source Code: GitHub",
-      "Type: Open-Source"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2026-11-17T02:05:45.937Z"
-  },
-  {
     "id": "1613338744",
     "title": "Free AI Image Upscaler | No Sign-Up, No Watermarks, Up to 16K",
     "url": "https://image-upscaling.net/upscaling/en.html",
@@ -16309,6 +16289,28 @@
     "createdAt": "2026-03-01T14:48:37.178Z"
   },
   {
+    "id": "1932568864",
+    "title": "TakeBoard — open-source AI creation canvas, built on ComfyUI",
+    "url": "https://fourques.github.io/Takeboard/",
+    "description": "Choose models, connect media and generate images or videos in one visual workspace. An open-source desktop creation canvas built on your own local or remote ComfyUI.",
+    "domain": "fourques.github.io",
+    "cover": "https://fourques.github.io/Takeboard/media/takeboard-social.png",
+    "favorite": false,
+    "category": "ai-tools-and-services",
+    "subcategory": [
+      "Generative Media",
+      "AI Creative Suite"
+    ],
+    "tags": [
+      "Source Code: GitHub",
+      "Type: Open-Source"
+    ],
+    "sourceCodeUrls": [
+      "https://github.com/Fourques/Takeboard"
+    ],
+    "createdAt": "2026-11-17T02:09:55.552Z"
+  },
+  {
     "id": "704292357",
     "title": "TCEC - Live Computer Chess Broadcast",
     "url": "https://tcec-chess.com/",
@@ -18544,6 +18546,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "e-commerce"
     ],
     "tags": [],
@@ -18601,6 +18604,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Home & Industrial",
       "Home Improvement"
     ],
     "tags": [],
@@ -18786,6 +18790,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Electronics",
       "Electronic Store"
     ],
     "tags": [],
@@ -18824,6 +18829,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "e-commerce"
     ],
     "tags": [],
@@ -19110,6 +19116,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "General Retail",
       "Big-Box Store"
     ],
     "tags": [],
@@ -19257,6 +19264,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Health & Personal Care",
       "Pharmacy Online"
     ],
     "tags": [],
@@ -19637,6 +19645,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops"
     ],
     "tags": [],
@@ -20425,6 +20434,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Health & Personal Care",
       "Sex Shop"
     ],
     "tags": [],
@@ -20443,6 +20453,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -20610,6 +20621,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Bookshop"
     ],
     "tags": [],
@@ -20628,6 +20640,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -20707,6 +20720,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "e-commerce"
     ],
     "tags": [],
@@ -20761,6 +20775,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Health & Personal Care",
       "Sex Shop"
     ],
     "tags": [],
@@ -21073,6 +21088,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Bookshop"
     ],
     "tags": [],
@@ -21245,6 +21261,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Electronics",
       "Electronic Store"
     ],
     "tags": [],
@@ -21263,6 +21280,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "General Retail",
       "Supermarket"
     ],
     "tags": [],
@@ -21377,6 +21395,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Guns Store"
     ],
     "tags": [],
@@ -21720,6 +21739,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "General Retail",
       "Big-Box Store"
     ],
     "tags": [],
@@ -21874,6 +21894,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -21893,6 +21914,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -21970,6 +21992,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "General Retail",
       "Big-Box Store"
     ],
     "tags": [],
@@ -22027,6 +22050,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "General Retail",
       "Big-Box Store"
     ],
     "tags": [],
@@ -22083,6 +22107,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Jewellery"
     ],
     "tags": [],
@@ -22178,6 +22203,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "e-commerce"
     ],
     "tags": [],
@@ -22268,6 +22294,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "e-commerce"
     ],
     "tags": [],
@@ -22305,6 +22332,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "e-commerce"
     ],
     "tags": [
@@ -22363,6 +22391,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Home & Industrial",
       "Home Improvement"
     ],
     "tags": [],
@@ -23063,6 +23092,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "Self Publishing"
     ],
     "tags": [
@@ -23102,6 +23132,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "e-commerce"
     ],
     "tags": [
@@ -23124,6 +23155,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "e-commerce"
     ],
     "tags": [
@@ -23462,6 +23494,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Electronics",
       "Electronic Store"
     ],
     "tags": [],
@@ -23596,6 +23629,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Magic Shop"
     ],
     "tags": [],
@@ -23614,6 +23648,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Toys, Poster and More",
       "Posters Stores"
     ],
@@ -24080,6 +24115,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Vehicles & Property",
       "Real Estate"
     ],
     "tags": [],
@@ -24197,6 +24233,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Electronics",
       "Electronic Store",
       "Informatic Store"
     ],
@@ -24599,6 +24636,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Toys, Poster and More"
     ],
     "tags": [],
@@ -24808,6 +24846,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Electronics",
       "Electronic Store"
     ],
     "tags": [],
@@ -24985,6 +25024,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Vehicles & Property",
       "Real Estate"
     ],
     "tags": [],
@@ -25175,6 +25215,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Toys, Poster and More"
     ],
     "tags": [],
@@ -25231,6 +25272,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Toys, Poster and More",
       "Painting Shop"
     ],
@@ -25289,6 +25331,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Toys, Poster and More",
       "Painting Shop"
     ],
@@ -25308,6 +25351,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "e-commerce"
     ],
     "tags": [],
@@ -25326,6 +25370,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Toys, Poster and More",
       "Painting Shop"
     ],
@@ -25345,6 +25390,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Magic Shop"
     ],
     "tags": [],
@@ -25613,6 +25659,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops"
     ],
     "tags": [],
@@ -25830,6 +25877,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -25910,6 +25958,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Health & Personal Care",
       "Protection Store"
     ],
     "tags": [],
@@ -26063,6 +26112,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Guns Store"
     ],
     "tags": [],
@@ -26367,8 +26417,8 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
-      "Big-Box Store",
-      "Retail Company"
+      "General Retail",
+      "Big-Box Store"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -26444,6 +26494,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Music Store"
     ],
     "tags": [],
@@ -26481,6 +26532,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Electronics",
       "Electronic Store"
     ],
     "tags": [],
@@ -26538,6 +26590,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Health & Personal Care",
       "Protection Store"
     ],
     "tags": [],
@@ -26576,6 +26629,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -26750,6 +26804,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "e-commerce"
     ],
     "tags": [],
@@ -27376,6 +27431,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Electronics",
       "Electronic Store",
       "Informatic Store"
     ],
@@ -27489,6 +27545,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "e-commerce"
     ],
     "tags": [],
@@ -27507,6 +27564,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "Thrift Shop"
     ],
     "tags": [],
@@ -27525,6 +27583,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "e-commerce"
     ],
     "tags": [],
@@ -27635,6 +27694,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Bookshop"
     ],
     "tags": [],
@@ -27653,6 +27713,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Vehicles & Property",
       "Real Estate"
     ],
     "tags": [],
@@ -27730,6 +27791,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops"
     ],
     "tags": [],
@@ -27979,6 +28041,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "e-commerce"
     ],
     "tags": [],
@@ -28129,6 +28192,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Toys, Poster and More",
       "Card Brands"
     ],
@@ -28187,6 +28251,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Bookshop",
       "eBook Shop"
     ],
@@ -28226,6 +28291,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -28245,6 +28311,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops"
     ],
     "tags": [],
@@ -28263,6 +28330,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -28319,6 +28387,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -28918,6 +28987,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops"
     ],
     "tags": [],
@@ -29045,6 +29115,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "e-commerce"
     ],
     "tags": [],
@@ -29162,6 +29233,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Bookshop"
     ],
     "tags": [],
@@ -29333,6 +29405,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Toys, Poster and More",
       "Card Brands"
     ],
@@ -29352,6 +29425,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "e-commerce"
     ],
     "tags": [],
@@ -29446,6 +29520,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Electronics",
       "Laser Store"
     ],
     "tags": [],
@@ -29502,6 +29577,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Electronics",
       "Electronic Store"
     ],
     "tags": [],
@@ -29767,6 +29843,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "General Retail",
       "Big-Box Store"
     ],
     "tags": [],
@@ -30078,6 +30155,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Bookshop"
     ],
     "tags": [],
@@ -30172,6 +30250,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Bookshop"
     ],
     "tags": [],
@@ -30533,6 +30612,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Electronics",
       "Photo Store"
     ],
     "tags": [],
@@ -30686,6 +30766,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Game Store",
       "Board Games"
     ],
@@ -30705,6 +30786,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Game Store",
       "Board Games"
     ],
@@ -30806,6 +30888,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "e-commerce"
     ],
     "tags": [
@@ -30924,6 +31007,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "e-commerce"
     ],
     "tags": [],
@@ -30961,6 +31045,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -30998,6 +31083,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "General Retail",
       "Supermarket"
     ],
     "tags": [],
@@ -31035,6 +31121,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Bookshop"
     ],
     "tags": [],
@@ -31093,6 +31180,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Bookshop"
     ],
     "tags": [],
@@ -31111,6 +31199,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Bookshop"
     ],
     "tags": [],
@@ -31129,6 +31218,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Bookshop"
     ],
     "tags": [],
@@ -31188,6 +31278,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "e-commerce"
     ],
     "tags": [],
@@ -31380,6 +31471,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Electronics",
       "Electronic Store"
     ],
     "tags": [],
@@ -31512,6 +31604,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -31607,6 +31700,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Toys, Poster and More"
     ],
     "tags": [],
@@ -31760,6 +31854,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Guns Store"
     ],
     "tags": [],
@@ -31932,6 +32027,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Guns Store"
     ],
     "tags": [],
@@ -32045,6 +32141,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "e-commerce"
     ],
     "tags": [],
@@ -32123,6 +32220,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "General Retail",
       "Big-Box Store"
     ],
     "tags": [],
@@ -32274,6 +32372,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Toys, Poster and More"
     ],
     "tags": [],
@@ -32292,6 +32391,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Toys, Poster and More",
       "Painting Shop"
     ],
@@ -32386,6 +32486,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Electronics",
       "Electronic Store"
     ],
     "tags": [],
@@ -32616,6 +32717,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Guns Store"
     ],
     "tags": [],
@@ -32671,6 +32773,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Electronics",
       "Electronic Store"
     ],
     "tags": [],
@@ -32763,6 +32866,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -32935,6 +33039,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Health & Personal Care",
       "Pharmacy Online"
     ],
     "tags": [],
@@ -32972,6 +33077,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "e-commerce"
     ],
     "tags": [],
@@ -33027,6 +33133,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Cosmetics Shop"
     ],
     "tags": [],
@@ -33199,6 +33306,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Toys, Poster and More"
     ],
     "tags": [],
@@ -33334,6 +33442,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Vehicles & Property",
       "Vehicle Store"
     ],
     "tags": [],
@@ -33352,6 +33461,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Vehicles & Property",
       "Vehicle Store"
     ],
     "tags": [],
@@ -33542,6 +33652,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Electronics",
       "Electronic Store"
     ],
     "tags": [],
@@ -33560,6 +33671,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "General Retail",
       "Big-Box Store"
     ],
     "tags": [],
@@ -33578,6 +33690,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Vehicles & Property",
       "Vehicle Store"
     ],
     "tags": [],
@@ -33596,6 +33709,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Vehicles & Property",
       "Vehicle Store"
     ],
     "tags": [],
@@ -33614,6 +33728,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Toys, Poster and More",
       "Card Brands"
     ],
@@ -33671,6 +33786,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Bookshop"
     ],
     "tags": [],
@@ -33689,6 +33805,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Music Store"
     ],
     "tags": [],
@@ -33785,6 +33902,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Electronics",
       "Electronic Store",
       "Informatic Store"
     ],
@@ -33804,6 +33922,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "Thrift Shop"
     ],
     "tags": [],
@@ -33911,6 +34030,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "Auction Store"
     ],
     "tags": [],
@@ -34158,6 +34278,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "General Retail",
       "Big-Box Store"
     ],
     "tags": [],
@@ -34176,6 +34297,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Health & Personal Care",
       "Optics Shop"
     ],
     "tags": [],
@@ -34194,8 +34316,8 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
-      "e-commerce",
-      "Canary e-commerce"
+      "Marketplaces",
+      "e-commerce"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -34559,6 +34681,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Electronics",
       "Electronic Store"
     ],
     "tags": [],
@@ -34670,6 +34793,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "Auction Store"
     ],
     "tags": [],
@@ -34805,6 +34929,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Guns Store"
     ],
     "tags": [],
@@ -34823,6 +34948,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Bookshop"
     ],
     "tags": [],
@@ -34881,6 +35007,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Toys, Poster and More"
     ],
     "tags": [],
@@ -34899,6 +35026,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -34975,6 +35103,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops"
     ],
     "tags": [],
@@ -34993,6 +35122,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Music Store"
     ],
     "tags": [],
@@ -35165,6 +35295,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Electronics",
       "Electronic Store"
     ],
     "tags": [],
@@ -35220,6 +35351,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -35414,8 +35546,8 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
-      "Big-Box Store",
-      "Retail Company"
+      "General Retail",
+      "Big-Box Store"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -35451,6 +35583,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Health & Personal Care",
       "Sex Shop"
     ],
     "tags": [],
@@ -36138,6 +36271,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -36577,6 +36711,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Vehicles & Property",
       "Vehicle Store"
     ],
     "tags": [],
@@ -36595,6 +36730,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Vehicles & Property",
       "Vehicle Store"
     ],
     "tags": [],
@@ -37022,6 +37158,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "Auction Store"
     ],
     "tags": [
@@ -37118,6 +37255,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "General Retail",
       "Supermarket"
     ],
     "tags": [],
@@ -37136,6 +37274,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Bookshop"
     ],
     "tags": [],
@@ -37211,6 +37350,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Vehicles & Property",
       "Real Estate"
     ],
     "tags": [],
@@ -37249,6 +37389,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Electronics",
       "Electronic Store"
     ],
     "tags": [],
@@ -37267,6 +37408,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "Thrift Shop"
     ],
     "tags": [],
@@ -37285,6 +37427,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Electronics",
       "Laser Store"
     ],
     "tags": [],
@@ -37472,6 +37615,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Home & Industrial",
       "Home Improvement"
     ],
     "tags": [],
@@ -37509,6 +37653,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "e-commerce"
     ],
     "tags": [],
@@ -37548,6 +37693,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "e-commerce"
     ],
     "tags": [],
@@ -37789,6 +37935,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -37848,6 +37995,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "e-commerce"
     ],
     "tags": [],
@@ -37885,6 +38033,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -38357,6 +38506,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -38487,6 +38637,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Toys, Poster and More"
     ],
     "tags": [],
@@ -38716,6 +38867,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Toys, Poster and More",
       "Cube Shop"
     ],
@@ -38754,7 +38906,8 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
-      "Cutlery Store"
+      "Home & Industrial",
+      "Home Improvement"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -38772,6 +38925,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Vehicles & Property",
       "Real Estate"
     ],
     "tags": [],
@@ -39929,6 +40083,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -40166,6 +40321,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "General Retail",
       "Big-Box Store"
     ],
     "tags": [],
@@ -40184,6 +40340,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops"
     ],
     "tags": [],
@@ -40515,6 +40672,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -40686,6 +40844,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops"
     ],
     "tags": [],
@@ -40781,6 +40940,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "e-commerce"
     ],
     "tags": [],
@@ -41033,6 +41193,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "e-commerce"
     ],
     "tags": [],
@@ -41069,6 +41230,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "General Retail",
       "Supermarket"
     ],
     "tags": [],
@@ -41165,6 +41327,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Game Store",
       "Board Games"
     ],
@@ -41184,6 +41347,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Toys, Poster and More"
     ],
     "tags": [],
@@ -41222,6 +41386,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "Self Publishing"
     ],
     "tags": [],
@@ -41278,6 +41443,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Electronics",
       "Electronic Store"
     ],
     "tags": [],
@@ -41296,6 +41462,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Electronics",
       "Electronic Store"
     ],
     "tags": [],
@@ -41588,6 +41755,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "General Retail",
       "Supermarket"
     ],
     "tags": [],
@@ -41624,6 +41792,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Health & Personal Care",
       "Pharmacy Online"
     ],
     "tags": [],
@@ -41642,6 +41811,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Bookshop",
       "eBook Shop"
     ],
@@ -42138,6 +42308,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Toys, Poster and More",
       "Posters Stores"
     ],
@@ -42176,6 +42347,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -42250,6 +42422,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Toys, Poster and More",
       "Painting Shop"
     ],
@@ -42484,6 +42657,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Magic Shop"
     ],
     "tags": [],
@@ -42831,6 +43005,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Cosmetics Shop"
     ],
     "tags": [],
@@ -42925,6 +43100,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -43000,6 +43176,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Game Store",
       "Board Games"
     ],
@@ -43078,6 +43255,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Magic Shop"
     ],
     "tags": [],
@@ -43272,6 +43450,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "e-commerce"
     ],
     "tags": [],
@@ -43502,6 +43681,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -43577,6 +43757,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Game Store",
       "Board Games"
     ],
@@ -43596,6 +43777,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "General Retail",
       "Big-Box Store"
     ],
     "tags": [],
@@ -43901,6 +44083,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops"
     ],
     "tags": [],
@@ -44015,6 +44198,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "e-commerce"
     ],
     "tags": [
@@ -44177,6 +44361,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Bookshop",
       "eBook Shop"
     ],
@@ -44216,8 +44401,8 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
-      "e-commerce",
-      "Canary e-commerce"
+      "Marketplaces",
+      "e-commerce"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -44648,6 +44833,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "e-commerce"
     ],
     "tags": [],
@@ -44666,6 +44852,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "e-commerce"
     ],
     "tags": [],
@@ -44820,6 +45007,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Music Store"
     ],
     "tags": [],
@@ -44838,6 +45026,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "General Retail",
       "Big-Box Store"
     ],
     "tags": [],
@@ -44856,8 +45045,8 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
-      "e-commerce",
-      "Canary e-commerce"
+      "Marketplaces",
+      "e-commerce"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -44893,6 +45082,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -45316,6 +45506,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -45354,6 +45545,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Electronics",
       "Electronic Store",
       "Informatic Store"
     ],
@@ -45489,6 +45681,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Music Store"
     ],
     "tags": [],
@@ -46232,6 +46425,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "General Retail",
       "Supermarket"
     ],
     "tags": [],
@@ -46362,6 +46556,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Electronics",
       "Electronic Store"
     ],
     "tags": [],
@@ -46706,6 +46901,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "e-commerce"
     ],
     "tags": [],
@@ -46724,6 +46920,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "e-commerce"
     ],
     "tags": [
@@ -47347,6 +47544,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops"
     ],
     "tags": [],
@@ -47440,6 +47638,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops"
     ],
     "tags": [],
@@ -47953,6 +48152,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -48092,6 +48292,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -48131,6 +48332,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Toys, Poster and More"
     ],
     "tags": [],
@@ -48190,6 +48392,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Health & Personal Care",
       "Pharmacy Online"
     ],
     "tags": [],
@@ -48208,6 +48411,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Health & Personal Care",
       "Pharmacy Online"
     ],
     "tags": [],
@@ -48226,6 +48430,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Health & Personal Care",
       "Pharmacy Online"
     ],
     "tags": [],
@@ -48265,6 +48470,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Electronics",
       "Electronic Store"
     ],
     "tags": [],
@@ -48321,6 +48527,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops"
     ],
     "tags": [],
@@ -48845,6 +49052,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Cosmetics Shop"
     ],
     "tags": [],
@@ -49458,6 +49666,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -49624,6 +49833,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -49682,6 +49892,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "e-commerce"
     ],
     "tags": [],
@@ -49700,6 +49911,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "e-commerce"
     ],
     "tags": [
@@ -49891,6 +50103,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "General Retail",
       "Big-Box Store"
     ],
     "tags": [],
@@ -49928,6 +50141,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "e-commerce"
     ],
     "tags": [],
@@ -50319,6 +50533,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Electronics",
       "Electronic Store"
     ],
     "tags": [],
@@ -50337,6 +50552,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Vehicles & Property",
       "Real Estate"
     ],
     "tags": [
@@ -50414,6 +50630,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Toys, Poster and More",
       "Card Brands"
     ],
@@ -50604,6 +50821,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -50644,8 +50862,8 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
-      "Big-Box Store",
-      "Retail Company"
+      "General Retail",
+      "Big-Box Store"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -50721,6 +50939,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "Thrift Shop"
     ],
     "tags": [],
@@ -50818,6 +51037,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops"
     ],
     "tags": [],
@@ -50893,6 +51113,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -50932,6 +51153,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -51047,6 +51269,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Electronics",
       "Electronic Store"
     ],
     "tags": [],
@@ -51084,7 +51307,8 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
-      "Food Store"
+      "General Retail",
+      "Supermarket"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -51277,6 +51501,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Toys, Poster and More"
     ],
     "tags": [],
@@ -51464,6 +51689,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "General Retail",
       "Supermarket"
     ],
     "tags": [],
@@ -51501,6 +51727,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Health & Personal Care",
       "Optics Shop"
     ],
     "tags": [],
@@ -51559,6 +51786,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Toys, Poster and More",
       "Posters Stores"
     ],
@@ -51693,6 +51921,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Game Store"
     ],
     "tags": [],
@@ -51711,6 +51940,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Game Store"
     ],
     "tags": [],
@@ -51809,6 +52039,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Game Store"
     ],
     "tags": [],
@@ -51827,6 +52058,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -51904,6 +52136,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Toys, Poster and More",
       "Cube Shop"
     ],
@@ -51923,6 +52156,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Toys, Poster and More",
       "Cube Shop"
     ],
@@ -52189,6 +52423,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Home & Industrial",
       "Home Improvement"
     ],
     "tags": [],
@@ -52246,6 +52481,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Toys, Poster and More",
       "Posters Stores"
     ],
@@ -52358,6 +52594,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "Thrift Shop"
     ],
     "tags": [],
@@ -52395,6 +52632,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "e-commerce"
     ],
     "tags": [],
@@ -52638,6 +52876,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Health & Personal Care",
       "Optics Shop"
     ],
     "tags": [],
@@ -52828,6 +53067,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -53234,6 +53474,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Magic Shop"
     ],
     "tags": [],
@@ -53343,6 +53584,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Vehicles & Property",
       "Real Estate"
     ],
     "tags": [],
@@ -53380,6 +53622,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Music Store"
     ],
     "tags": [],
@@ -53590,6 +53833,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops"
     ],
     "tags": [],
@@ -55385,6 +55629,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -55465,6 +55710,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "Auction Store"
     ],
     "tags": [],
@@ -55520,6 +55766,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Home & Industrial",
       "Supplier Material"
     ],
     "tags": [],
@@ -56272,6 +56519,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Vehicles & Property",
       "Real Estate"
     ],
     "tags": [],
@@ -56610,8 +56858,8 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
-      "e-commerce",
-      "Canary e-commerce"
+      "Marketplaces",
+      "e-commerce"
     ],
     "tags": [
       "❤️",
@@ -56689,6 +56937,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Cosmetics Shop"
     ],
     "tags": [],
@@ -56783,6 +57032,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Music Store"
     ],
     "tags": [],
@@ -56879,6 +57129,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "Self Publishing"
     ],
     "tags": [
@@ -56901,6 +57152,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Guns Store"
     ],
     "tags": [],
@@ -56939,6 +57191,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Guns Store"
     ],
     "tags": [],
@@ -57110,6 +57363,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Vehicles & Property",
       "Real Estate"
     ],
     "tags": [],
@@ -57166,6 +57420,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Electronics",
       "Electronic Store"
     ],
     "tags": [],
@@ -57540,6 +57795,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops"
     ],
     "tags": [],
@@ -57613,6 +57869,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Game Store",
       "Board Games"
     ],
@@ -57632,6 +57889,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Toys, Poster and More"
     ],
     "tags": [],
@@ -58087,6 +58345,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "Auction Store"
     ],
     "tags": [],
@@ -58394,6 +58653,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "General Retail",
       "Supermarket"
     ],
     "tags": [],
@@ -58412,6 +58672,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "General Retail",
       "Supermarket"
     ],
     "tags": [],
@@ -58430,6 +58691,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Music Store"
     ],
     "tags": [],
@@ -58562,6 +58824,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Magic Shop"
     ],
     "tags": [],
@@ -58580,6 +58843,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Electronics",
       "Photo Store"
     ],
     "tags": [],
@@ -58673,6 +58937,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Vehicles & Property",
       "Real Estate"
     ],
     "tags": [],
@@ -59073,6 +59338,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Vehicles & Property",
       "Real Estate"
     ],
     "tags": [],
@@ -59091,6 +59357,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Magic Shop"
     ],
     "tags": [],
@@ -59437,6 +59704,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops"
     ],
     "tags": [],
@@ -59512,6 +59780,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Guns Store"
     ],
     "tags": [],
@@ -59689,6 +59958,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Toys, Poster and More"
     ],
     "tags": [],
@@ -59915,6 +60185,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Bookshop"
     ],
     "tags": [],
@@ -60334,6 +60605,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Vehicles & Property",
       "Real Estate"
     ],
     "tags": [
@@ -60543,6 +60815,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Health & Personal Care",
       "Pharmacy Online"
     ],
     "tags": [],
@@ -60598,6 +60871,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Home & Industrial",
       "Home Improvement"
     ],
     "tags": [],
@@ -60616,6 +60890,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Home & Industrial",
       "Home Improvement"
     ],
     "tags": [],
@@ -60654,6 +60929,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "e-commerce"
     ],
     "tags": [],
@@ -60672,6 +60948,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Toys, Poster and More"
     ],
     "tags": [],
@@ -60709,6 +60986,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Game Store",
       "Board Games"
     ],
@@ -60805,6 +61083,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Toys, Poster and More",
       "Posters Stores"
     ],
@@ -60824,6 +61103,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -60843,6 +61123,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Toys, Poster and More"
     ],
     "tags": [],
@@ -60900,6 +61181,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Guns Store"
     ],
     "tags": [],
@@ -61146,6 +61428,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Home & Industrial",
       "Supplier Material"
     ],
     "tags": [],
@@ -61559,6 +61842,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Electronics",
       "Electronic Store"
     ],
     "tags": [],
@@ -61577,6 +61861,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Bookshop",
       "eBook Shop"
     ],
@@ -61615,6 +61900,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -61653,6 +61939,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Bookshop",
       "eBook Shop"
     ],
@@ -61806,6 +62093,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Electronics",
       "Electronic Store"
     ],
     "tags": [],
@@ -62109,6 +62397,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "e-commerce"
     ],
     "tags": [],
@@ -62274,6 +62563,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -62519,6 +62809,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Health & Personal Care",
       "Optics Shop"
     ],
     "tags": [],
@@ -62554,6 +62845,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Magic Shop"
     ],
     "tags": [],
@@ -62799,6 +63091,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -63198,6 +63491,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops"
     ],
     "tags": [],
@@ -63367,6 +63661,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Jewellery"
     ],
     "tags": [],
@@ -63459,6 +63754,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Magic Shop"
     ],
     "tags": [],
@@ -63495,6 +63791,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "e-commerce"
     ],
     "tags": [
@@ -63708,6 +64005,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "Thrift Shop"
     ],
     "tags": [],
@@ -64177,6 +64475,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Jewellery"
     ],
     "tags": [],
@@ -64212,6 +64511,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "e-commerce"
     ],
     "tags": [],
@@ -64438,6 +64738,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -64516,6 +64817,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Jewellery"
     ],
     "tags": [],
@@ -64759,6 +65061,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Toys, Poster and More",
       "Card Brands"
     ],
@@ -64836,6 +65139,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "General Retail",
       "Supermarket"
     ],
     "tags": [],
@@ -64854,6 +65158,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Vehicles & Property",
       "Vehicle Store"
     ],
     "tags": [],
@@ -64949,6 +65254,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Jewellery"
     ],
     "tags": [],
@@ -65163,6 +65469,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Home & Industrial",
       "Supplier Material"
     ],
     "tags": [],
@@ -65586,6 +65893,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Cosmetics Shop"
     ],
     "tags": [],
@@ -65835,6 +66143,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "e-commerce"
     ],
     "tags": [],
@@ -66046,6 +66355,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Toys, Poster and More"
     ],
     "tags": [],
@@ -66120,6 +66430,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "Thrift Shop"
     ],
     "tags": [],
@@ -66239,6 +66550,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Bookshop",
       "eBook Shop"
     ],
@@ -66353,6 +66665,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "General Retail",
       "Big-Box Store"
     ],
     "tags": [],
@@ -66444,6 +66757,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Electronics",
       "Electronic Store",
       "Informatic Store"
     ],
@@ -66662,7 +66976,8 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
-      "Food Store"
+      "General Retail",
+      "Supermarket"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -66718,6 +67033,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Toys, Poster and More"
     ],
     "tags": [],
@@ -66850,6 +67166,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Toys, Poster and More",
       "Cube Shop"
     ],
@@ -66869,6 +67186,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Electronics",
       "Electronic Store"
     ],
     "tags": [],
@@ -66986,6 +67304,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "Thrift Shop"
     ],
     "tags": [],
@@ -67217,6 +67536,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "Thrift Shop"
     ],
     "tags": [],
@@ -67425,6 +67745,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Bookshop"
     ],
     "tags": [],
@@ -67443,6 +67764,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Electronics",
       "Electronic Store"
     ],
     "tags": [],
@@ -67654,6 +67976,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Electronics",
       "Laser Store"
     ],
     "tags": [],
@@ -67672,6 +67995,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Electronics",
       "Laser Store"
     ],
     "tags": [],
@@ -67690,6 +68014,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Electronics",
       "Laser Store"
     ],
     "tags": [],
@@ -67708,6 +68033,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Electronics",
       "Laser Store"
     ],
     "tags": [],
@@ -67726,6 +68052,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Electronics",
       "Laser Store"
     ],
     "tags": [],
@@ -67801,6 +68128,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -67860,6 +68188,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Magic Shop"
     ],
     "tags": [],
@@ -67878,6 +68207,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "e-commerce"
     ],
     "tags": [],
@@ -67896,6 +68226,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "e-commerce"
     ],
     "tags": [],
@@ -67914,6 +68245,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -67933,6 +68265,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Electronics",
       "Electronic Store"
     ],
     "tags": [],
@@ -68008,6 +68341,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Bookshop",
       "eBook Shop"
     ],
@@ -68066,6 +68400,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "e-commerce"
     ],
     "tags": [],
@@ -68276,6 +68611,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Toys, Poster and More"
     ],
     "tags": [],
@@ -68294,6 +68630,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Toys, Poster and More"
     ],
     "tags": [],
@@ -68369,6 +68706,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Bookshop",
       "eBook Shop"
     ],
@@ -68444,6 +68782,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Health & Personal Care",
       "Optics Shop"
     ],
     "tags": [],
@@ -68537,6 +68876,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Home & Industrial",
       "Home Improvement"
     ],
     "tags": [],
@@ -68575,6 +68915,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "Thrift Shop"
     ],
     "tags": [],
@@ -68854,6 +69195,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Bookshop"
     ],
     "tags": [],
@@ -68872,6 +69214,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Bookshop"
     ],
     "tags": [],
@@ -68890,6 +69233,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Bookshop"
     ],
     "tags": [],
@@ -68908,6 +69252,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Bookshop"
     ],
     "tags": [],
@@ -68966,6 +69311,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "General Retail",
       "Supermarket"
     ],
     "tags": [],
@@ -69023,6 +69369,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Toys, Poster and More",
       "Cube Shop"
     ],
@@ -69436,6 +69783,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -69654,6 +70002,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "Auction Store"
     ],
     "tags": [],
@@ -69689,6 +70038,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Bookshop"
     ],
     "tags": [],
@@ -69785,6 +70135,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Home & Industrial",
       "Home Improvement"
     ],
     "tags": [],
@@ -69839,6 +70190,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Home & Industrial",
       "Supplier Material"
     ],
     "tags": [],
@@ -69990,6 +70342,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -70279,6 +70632,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Health & Personal Care",
       "Sex Shop"
     ],
     "tags": [],
@@ -70297,6 +70651,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Health & Personal Care",
       "Sex Shop"
     ],
     "tags": [],
@@ -70315,6 +70670,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Home & Industrial",
       "Home Improvement"
     ],
     "tags": [],
@@ -70449,6 +70805,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "Self Publishing"
     ],
     "tags": [],
@@ -70839,6 +71196,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Electronics",
       "Electronic Store"
     ],
     "tags": [],
@@ -70896,6 +71254,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops"
     ],
     "tags": [],
@@ -70914,6 +71273,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops"
     ],
     "tags": [],
@@ -70932,6 +71292,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Music Store"
     ],
     "tags": [],
@@ -70989,6 +71350,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Magic Shop"
     ],
     "tags": [],
@@ -71007,6 +71369,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Magic Shop"
     ],
     "tags": [],
@@ -71045,6 +71408,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Magic Shop"
     ],
     "tags": [],
@@ -71063,6 +71427,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Magic Shop"
     ],
     "tags": [],
@@ -71081,6 +71446,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Magic Shop"
     ],
     "tags": [],
@@ -71099,6 +71465,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Toys, Poster and More",
       "Card Brands"
     ],
@@ -71118,6 +71485,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Magic Shop"
     ],
     "tags": [],
@@ -71136,6 +71504,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Magic Shop"
     ],
     "tags": [
@@ -71195,6 +71564,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Magic Shop"
     ],
     "tags": [],
@@ -71251,6 +71621,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Magic Shop"
     ],
     "tags": [],
@@ -71288,6 +71659,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Jewellery"
     ],
     "tags": [],
@@ -71366,6 +71738,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "General Retail",
       "Supermarket"
     ],
     "tags": [],
@@ -71540,6 +71913,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "e-commerce"
     ],
     "tags": [],
@@ -71707,6 +72081,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Guns Store"
     ],
     "tags": [],
@@ -72023,6 +72398,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Toys, Poster and More",
       "Cube Shop"
     ],
@@ -72198,6 +72574,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Toys, Poster and More",
       "Posters Stores"
     ],
@@ -72292,6 +72669,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Game Store",
       "Board Games"
     ],
@@ -72311,6 +72689,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Toys, Poster and More"
     ],
     "tags": [],
@@ -72329,6 +72708,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Toys, Poster and More"
     ],
     "tags": [],
@@ -72440,6 +72820,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Electronics",
       "Electronic Store"
     ],
     "tags": [],
@@ -72458,6 +72839,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -72634,6 +73016,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -72860,6 +73243,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Home & Industrial",
       "Supplier Material"
     ],
     "tags": [],
@@ -72916,6 +73300,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Electronics",
       "Electronic Store",
       "Informatic Store"
     ],
@@ -73026,6 +73411,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "General Retail",
       "Big-Box Store"
     ],
     "tags": [],
@@ -73044,6 +73430,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "General Retail",
       "Big-Box Store"
     ],
     "tags": [],
@@ -73348,6 +73735,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Electronics",
       "Electronic Store",
       "Informatic Store"
     ],
@@ -73367,6 +73755,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Bookshop"
     ],
     "tags": [],
@@ -73424,6 +73813,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Toys, Poster and More"
     ],
     "tags": [],
@@ -73516,6 +73906,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "e-commerce"
     ],
     "tags": [],
@@ -73534,6 +73925,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "e-commerce"
     ],
     "tags": [
@@ -73554,6 +73946,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "General Retail",
       "Supermarket"
     ],
     "tags": [],
@@ -73572,6 +73965,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "General Retail",
       "Big-Box Store"
     ],
     "tags": [],
@@ -73590,6 +73984,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "Thrift Shop"
     ],
     "tags": [],
@@ -73628,6 +74023,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -73928,6 +74324,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "General Retail",
       "Big-Box Store"
     ],
     "tags": [],
@@ -74098,6 +74495,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Toys, Poster and More"
     ],
     "tags": [],
@@ -74707,6 +75105,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Guns Store"
     ],
     "tags": [],
@@ -74763,6 +75162,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -74802,6 +75202,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops"
     ],
     "tags": [],
@@ -74820,6 +75221,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "Thrift Shop"
     ],
     "tags": [
@@ -74894,6 +75296,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Electronics",
       "Electronic Store"
     ],
     "tags": [],
@@ -75239,6 +75642,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "General Retail",
       "Big-Box Store"
     ],
     "tags": [],
@@ -75312,6 +75716,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Vehicles & Property",
       "Real Estate"
     ],
     "tags": [],
@@ -75406,6 +75811,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Electronics",
       "Electronic Store"
     ],
     "tags": [],
@@ -75827,6 +76233,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -75940,6 +76347,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -76268,6 +76676,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Electronics",
       "Electronic Store"
     ],
     "tags": [],
@@ -76305,6 +76714,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Toys, Poster and More",
       "Cube Shop"
     ],
@@ -76743,6 +77153,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops"
     ],
     "tags": [],
@@ -76761,6 +77172,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -76800,6 +77212,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -76952,6 +77365,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Health & Personal Care",
       "Optics Shop"
     ],
     "tags": [],
@@ -77027,6 +77441,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Magic Shop"
     ],
     "tags": [],
@@ -77121,6 +77536,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Music Store"
     ],
     "tags": [],
@@ -77158,6 +77574,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Music Store"
     ],
     "tags": [],
@@ -77176,6 +77593,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Music Store"
     ],
     "tags": [],
@@ -77194,6 +77612,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Music Store"
     ],
     "tags": [],
@@ -77212,6 +77631,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Music Store"
     ],
     "tags": [],
@@ -77230,6 +77650,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Music Store"
     ],
     "tags": [],
@@ -77542,6 +77963,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Toys, Poster and More",
       "Card Brands"
     ],
@@ -77561,6 +77983,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops"
     ],
     "tags": [],
@@ -77598,6 +78021,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "e-commerce"
     ],
     "tags": [],
@@ -78177,6 +78601,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -78810,6 +79235,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Electronics",
       "Electronic Store"
     ],
     "tags": [],
@@ -78848,6 +79274,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Electronics",
       "Electronic Store",
       "Informatic Store"
     ],
@@ -79270,6 +79697,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -79639,6 +80067,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -79911,6 +80340,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops"
     ],
     "tags": [],
@@ -79967,6 +80397,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Music Store"
     ],
     "tags": [],
@@ -80080,6 +80511,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -80346,6 +80778,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Electronics",
       "Electronic Store"
     ],
     "tags": [],
@@ -80934,6 +81367,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Home & Industrial",
       "Supplier Material"
     ],
     "tags": [],
@@ -81065,6 +81499,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops"
     ],
     "tags": [],
@@ -81121,6 +81556,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "e-commerce"
     ],
     "tags": [],
@@ -81177,6 +81613,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -81216,6 +81653,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Music Store"
     ],
     "tags": [],
@@ -81272,6 +81710,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Cosmetics Shop"
     ],
     "tags": [],
@@ -81383,6 +81822,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "Thrift Shop"
     ],
     "tags": [],
@@ -81844,6 +82284,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Electronics",
       "Electronic Store",
       "Informatic Store"
     ],
@@ -82532,6 +82973,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Health & Personal Care",
       "Optics Shop"
     ],
     "tags": [],
@@ -82550,6 +82992,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Health & Personal Care",
       "Optics Shop"
     ],
     "tags": [],
@@ -82966,6 +83409,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Electronics",
       "Electronic Store"
     ],
     "tags": [],
@@ -82984,6 +83428,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "e-commerce"
     ],
     "tags": [],
@@ -83159,6 +83604,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "e-commerce"
     ],
     "tags": [],
@@ -83275,6 +83721,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "General Retail",
       "Big-Box Store"
     ],
     "tags": [],
@@ -83465,6 +83912,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -83539,6 +83987,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Bookshop",
       "eBook Shop"
     ],
@@ -83577,6 +84026,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Vehicles & Property",
       "Real Estate"
     ],
     "tags": [],
@@ -83651,6 +84101,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Guns Store"
     ],
     "tags": [],
@@ -83705,6 +84156,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Home & Industrial",
       "Home Improvement"
     ],
     "tags": [],
@@ -84314,6 +84766,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "Auction Store"
     ],
     "tags": [],
@@ -84351,6 +84804,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "Self Publishing"
     ],
     "tags": [],
@@ -84404,6 +84858,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Music Store"
     ],
     "tags": [],
@@ -84422,6 +84877,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Electronics",
       "Electronic Store"
     ],
     "tags": [],
@@ -84440,6 +84896,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Electronics",
       "Electronic Store",
       "Informatic Store"
     ],
@@ -84479,6 +84936,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Electronics",
       "Electronic Store",
       "Informatic Store"
     ],
@@ -84667,6 +85125,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Magic Shop"
     ],
     "tags": [],
@@ -84818,7 +85277,8 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
-      "Food Store"
+      "General Retail",
+      "Supermarket"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -84949,6 +85409,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Cosmetics Shop"
     ],
     "tags": [],
@@ -85042,6 +85503,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -85061,6 +85523,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -85139,6 +85602,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Health & Personal Care",
       "Pharmacy Online"
     ],
     "tags": [],
@@ -85176,6 +85640,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Bookshop"
     ],
     "tags": [],
@@ -85346,6 +85811,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Electronics",
       "Electronic Store"
     ],
     "tags": [],
@@ -85364,6 +85830,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Toys, Poster and More"
     ],
     "tags": [],
@@ -85712,6 +86179,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "e-commerce"
     ],
     "tags": [],
@@ -85804,6 +86272,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Health & Personal Care",
       "Sex Shop"
     ],
     "tags": [],
@@ -86112,6 +86581,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Vehicles & Property",
       "Real Estate"
     ],
     "tags": [],
@@ -86248,6 +86718,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Health & Personal Care",
       "Sex Shop"
     ],
     "tags": [],
@@ -86323,6 +86794,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Bookshop"
     ],
     "tags": [],
@@ -86416,6 +86888,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Bookshop"
     ],
     "tags": [],
@@ -86496,6 +86969,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Toys, Poster and More",
       "Card Brands"
     ],
@@ -86515,6 +86989,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Toys, Poster and More"
     ],
     "tags": [],
@@ -86553,6 +87028,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Electronics",
       "Electronic Store"
     ],
     "tags": [],
@@ -86611,6 +87087,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Toys, Poster and More"
     ],
     "tags": [],
@@ -86913,6 +87390,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Bookshop"
     ],
     "tags": [],
@@ -87025,6 +87503,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -87100,6 +87579,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "e-commerce"
     ],
     "tags": [],
@@ -87137,6 +87617,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Toys, Poster and More",
       "Posters Stores"
     ],
@@ -87466,6 +87947,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops"
     ],
     "tags": [],
@@ -87558,6 +88040,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "e-commerce"
     ],
     "tags": [],
@@ -87801,6 +88284,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Health & Personal Care",
       "Pharmacy Online"
     ],
     "tags": [],
@@ -87858,6 +88342,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "Auction Store"
     ],
     "tags": [],
@@ -87977,6 +88462,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -88015,6 +88501,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -88070,6 +88557,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops"
     ],
     "tags": [],
@@ -88088,6 +88576,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Electronics",
       "Electronic Store"
     ],
     "tags": [],
@@ -88279,6 +88768,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Guns Store"
     ],
     "tags": [],
@@ -88297,6 +88787,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Health & Personal Care",
       "Protection Store"
     ],
     "tags": [],
@@ -88334,6 +88825,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Health & Personal Care",
       "Pharmacy Online"
     ],
     "tags": [],
@@ -88372,6 +88864,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Toys, Poster and More"
     ],
     "tags": [],
@@ -88614,6 +89107,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Electronics",
       "Electronic Store",
       "Informatic Store"
     ],
@@ -89036,6 +89530,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Electronics",
       "Electronic Store"
     ],
     "tags": [],
@@ -89072,6 +89567,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops"
     ],
     "tags": [],
@@ -89263,6 +89759,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Guns Store"
     ],
     "tags": [],
@@ -89300,6 +89797,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "e-commerce"
     ],
     "tags": [],
@@ -90033,6 +90531,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -90231,6 +90730,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Vehicles & Property",
       "Real Estate"
     ],
     "tags": [],
@@ -90335,6 +90835,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Vehicles & Property",
       "Real Estate"
     ],
     "tags": [],
@@ -90548,6 +91049,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "Thrift Shop"
     ],
     "tags": [],
@@ -90586,6 +91088,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Electronics",
       "Electronic Store",
       "Informatic Store"
     ],
@@ -90681,6 +91184,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "e-commerce"
     ],
     "tags": [],
@@ -90717,6 +91221,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Vehicles & Property",
       "Real Estate"
     ],
     "tags": [],
@@ -90866,6 +91371,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Game Store",
       "Board Games"
     ],
@@ -90885,6 +91391,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "Thrift Shop"
     ],
     "tags": [],
@@ -90981,6 +91488,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Health & Personal Care",
       "Pharmacy Online"
     ],
     "tags": [],
@@ -91016,6 +91524,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "Thrift Shop"
     ],
     "tags": [],
@@ -91329,6 +91838,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops"
     ],
     "tags": [],
@@ -91519,6 +92029,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Music Store"
     ],
     "tags": [],
@@ -92627,6 +93138,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -92685,6 +93197,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops"
     ],
     "tags": [],
@@ -92967,6 +93480,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Electronics",
       "Photo Store"
     ],
     "tags": [],
@@ -93172,6 +93686,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Home & Industrial",
       "Home Improvement"
     ],
     "tags": [],
@@ -93208,6 +93723,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "e-commerce"
     ],
     "tags": [],
@@ -93226,6 +93742,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -93391,6 +93908,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "General Retail",
       "Big-Box Store"
     ],
     "tags": [],
@@ -93921,6 +94439,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "General Retail",
       "Big-Box Store"
     ],
     "tags": [],
@@ -93996,6 +94515,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops"
     ],
     "tags": [],
@@ -94962,6 +95482,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -95019,6 +95540,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "Self Publishing"
     ],
     "tags": [],
@@ -95150,6 +95672,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "e-commerce"
     ],
     "tags": [],
@@ -95362,6 +95885,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Cosmetics Shop"
     ],
     "tags": [],
@@ -95633,6 +96157,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -95824,6 +96349,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops"
     ],
     "tags": [],
@@ -96033,6 +96559,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -96052,6 +96579,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Cosmetics Shop"
     ],
     "tags": [],
@@ -96110,6 +96638,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "e-commerce"
     ],
     "tags": [],
@@ -96128,6 +96657,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "Auction Store"
     ],
     "tags": [],
@@ -97002,6 +97532,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "Self Publishing"
     ],
     "tags": [],
@@ -97435,6 +97966,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Toys, Poster and More"
     ],
     "tags": [],
@@ -97472,6 +98004,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -97755,6 +98288,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Toys, Poster and More"
     ],
     "tags": [],
@@ -97811,6 +98345,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "Self Publishing"
     ],
     "tags": [],
@@ -98751,6 +99286,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Vehicles & Property",
       "Real Estate"
     ],
     "tags": [],
@@ -98769,6 +99305,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "General Retail",
       "Supermarket"
     ],
     "tags": [],
@@ -99168,6 +99705,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Guns Store"
     ],
     "tags": [],
@@ -99205,6 +99743,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops"
     ],
     "tags": [],
@@ -99223,6 +99762,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -99555,6 +100095,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Vehicles & Property",
       "Real Estate"
     ],
     "tags": [],
@@ -100069,6 +100610,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -100480,6 +101022,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Vehicles & Property",
       "Real Estate"
     ],
     "tags": [],
@@ -100534,6 +101077,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Vehicles & Property",
       "Real Estate"
     ],
     "tags": [],
@@ -100749,6 +101293,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "e-commerce"
     ],
     "tags": [
@@ -100807,6 +101352,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "General Retail",
       "Supermarket"
     ],
     "tags": [],
@@ -101134,6 +101680,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Music Store"
     ],
     "tags": [],
@@ -101492,6 +102039,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Electronics",
       "Electronic Store"
     ],
     "tags": [],
@@ -101548,6 +102096,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Electronics",
       "Electronic Store",
       "Informatic Store"
     ],
@@ -101664,6 +102213,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Bookshop",
       "eBook Shop"
     ],
@@ -101819,6 +102369,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "e-commerce"
     ],
     "tags": [],
@@ -101877,6 +102428,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "General Retail",
       "Big-Box Store"
     ],
     "tags": [],
@@ -102046,6 +102598,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "Self Publishing"
     ],
     "tags": [],
@@ -102332,6 +102885,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Vehicles & Property",
       "Real Estate"
     ],
     "tags": [],
@@ -102350,6 +102904,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "e-commerce"
     ],
     "tags": [],
@@ -102387,6 +102942,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -102406,6 +102962,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -102425,6 +102982,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "e-commerce"
     ],
     "tags": [],
@@ -102689,6 +103247,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "e-commerce"
     ],
     "tags": [],
@@ -103075,6 +103634,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "General Retail",
       "Big-Box Store"
     ],
     "tags": [],
@@ -103137,6 +103697,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "e-commerce"
     ],
     "tags": [],
@@ -103287,6 +103848,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Electronics",
       "Electronic Store"
     ],
     "tags": [],
@@ -103359,6 +103921,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops"
     ],
     "tags": [],
@@ -103435,6 +103998,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Toys, Poster and More"
     ],
     "tags": [],
@@ -104017,6 +104581,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Toys, Poster and More",
       "Posters Stores"
     ],
@@ -104325,6 +104890,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Toys, Poster and More"
     ],
     "tags": [],
@@ -104343,6 +104909,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Music Store"
     ],
     "tags": [],
@@ -104361,6 +104928,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Home & Industrial",
       "Supplier Material"
     ],
     "tags": [],
@@ -104455,6 +105023,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Bookshop",
       "eBook Shop"
     ],
@@ -104474,6 +105043,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "Self Publishing"
     ],
     "tags": [],
@@ -104492,6 +105062,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "Self Publishing"
     ],
     "tags": [],
@@ -104585,6 +105156,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Electronics",
       "Electronic Store",
       "Informatic Store"
     ],
@@ -104604,6 +105176,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Bookshop"
     ],
     "tags": [],
@@ -104622,6 +105195,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Magic Shop"
     ],
     "tags": [],
@@ -104640,6 +105214,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Music Store"
     ],
     "tags": [
@@ -104660,6 +105235,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Magic Shop"
     ],
     "tags": [],
@@ -104678,6 +105254,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Magic Shop"
     ],
     "tags": [],
@@ -104696,6 +105273,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Jewellery"
     ],
     "tags": [],
@@ -104846,6 +105424,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "e-commerce"
     ],
     "tags": [
@@ -104939,6 +105518,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Toys, Poster and More",
       "Painting Shop"
     ],
@@ -104958,6 +105538,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Bookshop"
     ],
     "tags": [],
@@ -104996,6 +105577,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "e-commerce"
     ],
     "tags": [],
@@ -105089,6 +105671,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "e-commerce"
     ],
     "tags": [],
@@ -105166,6 +105749,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Vehicles & Property",
       "Vehicle Store"
     ],
     "tags": [],
@@ -105359,6 +105943,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "e-commerce"
     ],
     "tags": [],
@@ -105531,6 +106116,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Toys, Poster and More"
     ],
     "tags": [],
@@ -105645,6 +106231,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "e-commerce"
     ],
     "tags": [],
@@ -105663,6 +106250,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "e-commerce"
     ],
     "tags": [],
@@ -105777,6 +106365,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Vehicles & Property",
       "Real Estate"
     ],
     "tags": [],
@@ -105795,6 +106384,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Game Store",
       "Board Games"
     ],
@@ -106176,6 +106766,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Toys, Poster and More"
     ],
     "tags": [],
@@ -106272,6 +106863,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Vehicles & Property",
       "Real Estate"
     ],
     "tags": [],
@@ -106290,6 +106882,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Magic Shop"
     ],
     "tags": [],
@@ -106308,6 +106901,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Magic Shop"
     ],
     "tags": [],
@@ -106343,6 +106937,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "Thrift Shop"
     ],
     "tags": [],
@@ -106361,6 +106956,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Vehicles & Property",
       "Real Estate"
     ],
     "tags": [],
@@ -106665,6 +107261,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -107240,6 +107837,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Cosmetics Shop"
     ],
     "tags": [],
@@ -107258,6 +107856,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Electronics",
       "Electronic Store",
       "Informatic Store"
     ],
@@ -107435,6 +108034,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops"
     ],
     "tags": [],
@@ -107453,6 +108053,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Magic Shop"
     ],
     "tags": [],
@@ -108187,6 +108788,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Home & Industrial",
       "Home Improvement"
     ],
     "tags": [],
@@ -108224,6 +108826,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Toys, Poster and More",
       "Card Brands"
     ],
@@ -108699,6 +109302,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Magic Shop"
     ],
     "tags": [],
@@ -109178,6 +109782,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Electronics",
       "Electronic Store",
       "Informatic Store"
     ],
@@ -109445,6 +110050,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "Thrift Shop"
     ],
     "tags": [],
@@ -109463,6 +110069,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Health & Personal Care",
       "Sex Shop"
     ],
     "tags": [],
@@ -109519,6 +110126,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Cosmetics Shop"
     ],
     "tags": [],
@@ -109673,6 +110281,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "e-commerce"
     ],
     "tags": [],
@@ -109691,6 +110300,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "Thrift Shop"
     ],
     "tags": [],
@@ -109783,6 +110393,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Electronics",
       "Electronic Store"
     ],
     "tags": [],
@@ -109878,6 +110489,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Health & Personal Care",
       "Optics Shop"
     ],
     "tags": [],
@@ -109896,6 +110508,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -110144,6 +110757,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "e-commerce"
     ],
     "tags": [],
@@ -110550,6 +111164,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Toys, Poster and More"
     ],
     "tags": [],
@@ -110780,6 +111395,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Electronics",
       "Photo Store"
     ],
     "tags": [],
@@ -110798,6 +111414,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "Thrift Shop"
     ],
     "tags": [],
@@ -110816,6 +111433,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Toys, Poster and More",
       "Posters Stores"
     ],
@@ -110835,6 +111453,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "General Retail",
       "Big-Box Store"
     ],
     "tags": [],
@@ -111191,6 +111810,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Bookshop"
     ],
     "tags": [],
@@ -111301,6 +111921,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "e-commerce"
     ],
     "tags": [],
@@ -111923,6 +112544,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Toys, Poster and More"
     ],
     "tags": [],
@@ -112017,6 +112639,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Electronics",
       "Electronic Store"
     ],
     "tags": [],
@@ -112185,6 +112808,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops"
     ],
     "tags": [],
@@ -112397,6 +113021,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -112416,6 +113041,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "e-commerce"
     ],
     "tags": [],
@@ -112474,6 +113100,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -112739,6 +113366,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Game Store",
       "Board Games"
     ],
@@ -112797,6 +113425,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "e-commerce"
     ],
     "tags": [],
@@ -113385,6 +114014,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Magic Shop"
     ],
     "tags": [],
@@ -113403,6 +114033,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Toys, Poster and More",
       "Card Brands"
     ],
@@ -113440,6 +114071,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "General Retail",
       "Big-Box Store"
     ],
     "tags": [],
@@ -113568,6 +114200,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Electronics",
       "Laser Store"
     ],
     "tags": [],
@@ -113737,6 +114370,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "e-commerce"
     ],
     "tags": [],
@@ -113965,6 +114599,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops"
     ],
     "tags": [],
@@ -113983,6 +114618,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops"
     ],
     "tags": [],
@@ -114001,6 +114637,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Electronics",
       "Electronic Store",
       "Informatic Store"
     ],
@@ -114056,6 +114693,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -114093,6 +114731,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Vehicles & Property",
       "Real Estate"
     ],
     "tags": [],
@@ -114186,6 +114825,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "e-commerce"
     ],
     "tags": [],
@@ -114734,6 +115374,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Hobbies & Leisure",
       "Toys, Poster and More",
       "Card Brands"
     ],
@@ -114849,6 +115490,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Marketplaces",
       "e-commerce"
     ],
     "tags": [],
@@ -114867,6 +115509,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Jewellery"
     ],
     "tags": [],
@@ -114925,6 +115568,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops"
     ],
     "tags": [],
@@ -115020,6 +115664,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Fashion & Beauty",
       "Clothes Shops",
       "Merchandaising"
     ],
@@ -115389,6 +116034,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Vehicles & Property",
       "Real Estate"
     ],
     "tags": [],
@@ -115639,6 +116285,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Vehicles & Property",
       "Real Estate"
     ],
     "tags": [],
@@ -115911,6 +116558,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "Health & Personal Care",
       "Optics Shop"
     ],
     "tags": [],
@@ -115986,6 +116634,7 @@
     "subcategory": [
       "Enterprises",
       "Commerce Company",
+      "General Retail",
       "Big-Box Store"
     ],
     "tags": [],

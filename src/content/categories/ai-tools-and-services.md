@@ -335,7 +335,6 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [ComfyUI Cloud](https://cloud.comfy.org/cloud/login)
 - [Figma Weave](https://weave.figma.com/) — AI-Powered Design Workflows, Built for Creative Pros
 - [FLORA](https://flora.ai/) — Generative AI Canvas for Creative Teams
-- [Fourques/Takeboard](https://github.com/Fourques/Takeboard) — Open-source AI creation canvas built on ComfyUI. Choose models, connect media, and generate images and videos with your own local or remote setup.
 - [Google Flow](https://labs.google/fx/tools/flow) — AI Creative Studio for Video, Images & Custom Tools
 - [ImagineArt](https://www.imagine.art/) — AI Creative Suite
 - [Krea](https://www.krea.ai/) — AI Creative Suite for Images, Video, & 3D
@@ -343,6 +342,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [Open Generative AI](https://muapi.ai/open-generative-ai) / [![GitHub](/img/software/apps/github.svg)](https://github.com/anil-matcha/open-generative-ai) — Free AI Image & Video Studio | Muapi
 - [OpenArt](https://openart.ai/) — Discover and generate AI Art
 - [Scenario](https://www.scenario.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/scenario-labs) — AI for Creative Production
+- [TakeBoard](https://fourques.github.io/Takeboard/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Fourques/Takeboard) — open-source AI creation canvas, built on ComfyUI
 - [TongFlow](https://tongflow.com/en/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/tong-io/tongflow) — Open-source, multimodal AI workflows
 - [TRELLIS 3D AI](https://trellis3d.co/) — Transform Images to 3D Assets Free | Trellis 3D
 - [TRELLIS.2](https://microsoft.github.io/TRELLIS.2/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/microsoft/TRELLIS) — Native and Compact Structured Latents for 3D Generation
