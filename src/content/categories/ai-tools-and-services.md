@@ -5,7 +5,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 
 # AI Tools & Services
 
-**Total Bookmarks:** 910
+**Total Bookmarks:** 909
 
 
 ## Agents & Automation
@@ -228,7 +228,6 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [microsoft/graphrag](https://github.com/microsoft/graphrag) — A modular graph-based Retrieval-Augmented Generation (RAG) system
 - [milla-jovovich/mempalace](https://github.com/milla-jovovich/mempalace) — The highest-scoring AI memory system ever benchmarked. And it's free.
 - [OpenViking](https://openviking.ai/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/volcengine/OpenViking) — Context File System for AI Agents
-- [StanGirard/quivr · GitHub](https://github.com/StanGirard/quivr)
 - [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) — 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
 - [Vectorize](https://vectorize.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/vectorize-io/hindsight) — Agents That Learn From Every Conversation
 
@@ -523,7 +522,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [Norwood Systems](https://norwoodsystems.com/)
 - [OpenVoiceOS](https://openvoiceos.com/) — voice AI platform for everyone
 - [Pico voice](https://picovoice.ai/) — On-device Voice AI and local LLM platforms for Enterprises
-- [Rhasspy](https://rhasspy.readthedocs.io/en/latest/)
+- [Rhasspy](https://rhasspy.readthedocs.io/en/latest/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/rhasspy/rhasspy)
 - [rhasspy/rhasspy3](https://github.com/rhasspy/rhasspy3/) — An open source voice assistant toolkit for many human languages
 - [Serenade](https://serenade.ai/)
 - [Sesame](https://www.sesame.com/)

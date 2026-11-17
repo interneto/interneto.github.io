@@ -14791,7 +14791,9 @@
     "tags": [
       "Type: Open-Source"
     ],
-    "sourceCodeUrls": [],
+    "sourceCodeUrls": [
+      "https://github.com/rhasspy/rhasspy"
+    ],
     "createdAt": "2025-11-29T02:22:45.166Z"
   },
   {
@@ -15795,26 +15797,6 @@
     ],
     "sourceCodeUrls": [],
     "createdAt": "2024-04-29T16:46:31.906Z"
-  },
-  {
-    "id": "604926993",
-    "title": "StanGirard/quivr · GitHub",
-    "url": "https://github.com/StanGirard/quivr",
-    "description": "🧠 Dump all your files and chat with it using your Generative AI Second Brain using LLMs ( GPT 3.5/4, Private, Anthropic, VertexAI ) &amp; Embeddings 🧠 - GitHub - StanGirard/quivr: 🧠 Dump all y...",
-    "domain": "github.com",
-    "cover": "https://repository-images.githubusercontent.com/640079149/6fe15a1f-b9b1-4d6b-acb7-8d5a6feb9414",
-    "favorite": false,
-    "category": "ai-tools-and-services",
-    "subcategory": [
-      "Agents & Automation",
-      "Memory & RAG"
-    ],
-    "tags": [
-      "Source Code: GitHub",
-      "Type: Open-Source"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2023-07-12T11:07:06.736Z"
   },
   {
     "id": "1828576935",
@@ -72390,29 +72372,6 @@
     "createdAt": "2021-07-23T15:31:35.307Z"
   },
   {
-    "id": "554031495",
-    "title": "mavlink/qgroundcontrol · GitHub",
-    "url": "https://github.com/mavlink/qgroundcontrol",
-    "description": "Cross-platform ground control station for drones (Android, iOS, Mac OS, Linux, Windows) - GitHub - mavlink/qgroundcontrol: Cross-platform ground control station for drones (Android, iOS, Mac OS, Li...",
-    "domain": "github.com",
-    "cover": "https://opengraph.githubassets.com/b20b79baef14d2998e075f6b7f113afcbbd6baef84bb0d9872f85202787e7b98/mavlink/qgroundcontrol",
-    "favorite": false,
-    "category": "business-and-commerce",
-    "subcategory": [
-      "Enterprises",
-      "Technology Company",
-      "Hardware Company",
-      "Vehicle Company",
-      "Drons Company"
-    ],
-    "tags": [
-      "Source Code: GitHub",
-      "Type: Open-Source"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2023-04-10T01:01:18.633Z"
-  },
-  {
     "id": "287106013",
     "title": "Max Group",
     "url": "https://www.maxgroup.in/",
@@ -119349,27 +119308,6 @@
     "createdAt": "2025-01-06T20:15:53.404Z"
   },
   {
-    "id": "1044551810",
-    "title": "AutomaApp/automa: A browser extension for automating your browser by connecting blocks",
-    "url": "https://github.com/AutomaApp/automa",
-    "description": "A browser extension for automating your browser by connecting blocks - AutomaApp/automa",
-    "domain": "github.com",
-    "cover": "https://opengraph.githubassets.com/0205dad1155c275638916326f879b6784927381a400eaf94624afee5d4a1f62b/AutomaApp/automa",
-    "favorite": false,
-    "category": "development",
-    "subcategory": [
-      "Extension",
-      "Browser Extension",
-      "Productivity Extension"
-    ],
-    "tags": [
-      "Source Code: GitHub",
-      "Type: Open-Source"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2025-05-19T17:54:14.176Z"
-  },
-  {
     "id": "717474634",
     "title": "Automattic/mongoose · GitHub",
     "url": "https://github.com/Automattic/mongoose",
@@ -123420,7 +123358,9 @@
     "tags": [
       "Software: Collaborative"
     ],
-    "sourceCodeUrls": [],
+    "sourceCodeUrls": [
+      "https://github.com/hackmdio/codimd"
+    ],
     "createdAt": "2024-11-07T20:17:26.212Z"
   },
   {
@@ -125776,27 +125716,6 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2022-08-07T22:25:29.777Z"
-  },
-  {
-    "id": "777329298",
-    "title": "dikshantrajput/adBlitz · GitHub",
-    "url": "https://github.com/dikshantrajput/adBlitz",
-    "description": "AdBlitz automatically skips skippable ads and accelerates non-skippable ones, ensuring you enjoy uninterrupted content seamlessly. Remember, it's not an *ad blocker*; - dikshantrajput/adBlitz",
-    "domain": "github.com",
-    "cover": "https://opengraph.githubassets.com/467aa1c1dbd5ad99324062de9b4bfec6547e4f334c8e4a2cab4848a7c7feb0de/dikshantrajput/adBlitz",
-    "favorite": false,
-    "category": "development",
-    "subcategory": [
-      "Extension",
-      "Browser Extension",
-      "YouTube Extension"
-    ],
-    "tags": [
-      "Source Code: GitHub",
-      "Type: Open-Source"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2024-04-29T16:13:17.201Z"
   },
   {
     "id": "648407695",
@@ -131703,26 +131622,6 @@
     ],
     "sourceCodeUrls": [],
     "createdAt": "2024-02-02T20:02:46.121Z"
-  },
-  {
-    "id": "472257011",
-    "title": "GitHub - Qiskit/qiskit · GitHub",
-    "url": "https://github.com/Qiskit/qiskit",
-    "description": "Qiskit is an open-source SDK for working with quantum computers at the level of circuits, algorithms, and application modules. - GitHub - Qiskit/qiskit: Qiskit is an open-source SDK for working wit...",
-    "domain": "github.com",
-    "cover": "https://repository-images.githubusercontent.com/161550823/42869700-c4cc-11e9-9e6c-497e53a7d861",
-    "favorite": false,
-    "category": "development",
-    "subcategory": [
-      "Computing Language",
-      "SDK"
-    ],
-    "tags": [
-      "Source Code: GitHub",
-      "Type: Open-Source"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2022-11-14T12:08:37.723Z"
   },
   {
     "id": "728314065",
@@ -139321,29 +139220,10 @@
     "tags": [
       "Software: Extension"
     ],
-    "sourceCodeUrls": [],
+    "sourceCodeUrls": [
+      "https://codeberg.org/nobody/LocalCDN"
+    ],
     "createdAt": "2023-06-27T14:25:58.342Z"
-  },
-  {
-    "id": "597584374",
-    "title": "LocalCDN - Codeberg",
-    "url": "https://codeberg.org/nobody/LocalCDN",
-    "description": "A web browser extension that emulates Content Delivery Networks to improve your online privacy. It intercepts traffic, finds supported resources locally, and injects them into the environment.",
-    "domain": "codeberg.org",
-    "cover": "https://codeberg.org/repo-avatars/5014-6cc14ee9c85003bda3adb1d71762c306",
-    "favorite": false,
-    "category": "development",
-    "subcategory": [
-      "Extension",
-      "Browser Extension",
-      "Privacy Extension"
-    ],
-    "tags": [
-      "Source Code: Codeberg",
-      "Type: Open-Source"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2023-06-27T17:45:50.571Z"
   },
   {
     "id": "1728814519",
@@ -143096,23 +142976,6 @@
     "createdAt": "2022-07-28T00:05:47.957Z"
   },
   {
-    "id": "411583268",
-    "title": "Modernizr · GitHub",
-    "url": "https://github.com/modernizr/modernizr",
-    "description": "Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser. - GitHub - Modernizr/Modernizr: Modernizr is a JavaScript library that detects HTML5 and CSS3 features ...",
-    "domain": "github.com",
-    "cover": "https://github.com/Modernizr/Modernizr/raw/master/media/Modernizr-2-Logo-vertical-medium.png",
-    "favorite": false,
-    "category": "development",
-    "subcategory": [
-      "Library (computing)",
-      "JS Library"
-    ],
-    "tags": [],
-    "sourceCodeUrls": [],
-    "createdAt": "2022-06-28T14:09:10.418Z"
-  },
-  {
     "id": "821395503",
     "title": "Modul.so",
     "url": "https://www.modul.so/",
@@ -145561,28 +145424,10 @@
       "Software: Framework",
       "Type: Open-Source"
     ],
-    "sourceCodeUrls": [],
+    "sourceCodeUrls": [
+      "https://github.com/nuxt/nuxt.js"
+    ],
     "createdAt": "2021-02-01T19:53:59.000Z"
-  },
-  {
-    "id": "426884939",
-    "title": "nuxt/nuxt.js · GitHub",
-    "url": "https://github.com/nuxt/nuxt.js",
-    "description": "The Intuitive Vue(2) Framework. Contribute to nuxt/nuxt.js development by creating an account on GitHub.",
-    "domain": "github.com",
-    "cover": "https://repository-images.githubusercontent.com/71995937/b8111e30-d4e2-4947-88bf-672d63ebc060",
-    "favorite": false,
-    "category": "development",
-    "subcategory": [
-      "Development Framework",
-      "Full-Stack Framework"
-    ],
-    "tags": [
-      "Source Code: GitHub",
-      "Type: Open-Source"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2022-08-04T00:10:37.408Z"
   },
   {
     "id": "413189075",
@@ -151326,7 +151171,9 @@
     "category": "development",
     "subcategory": [],
     "tags": [],
-    "sourceCodeUrls": [],
+    "sourceCodeUrls": [
+      "https://github.com/cisco/openh264"
+    ],
     "createdAt": "2023-01-29T20:56:59.687Z"
   },
   {
@@ -155011,7 +154858,9 @@
     "tags": [
       "Type: Open-Source"
     ],
-    "sourceCodeUrls": [],
+    "sourceCodeUrls": [
+      "https://github.com/Qiskit/qiskit"
+    ],
     "createdAt": "2022-11-14T12:01:19.792Z"
   },
   {
@@ -164676,7 +164525,9 @@
       "App Dev Framework"
     ],
     "tags": [],
-    "sourceCodeUrls": [],
+    "sourceCodeUrls": [
+      "https://github.com/triggerdotdev/trigger.dev"
+    ],
     "createdAt": "2025-02-02T21:39:21.848Z"
   },
   {
@@ -165885,6 +165736,27 @@
     "createdAt": "2024-07-15T18:22:53.085Z"
   },
   {
+    "id": "701327273",
+    "title": "usnistgov/Metrology Reaper · GitHub",
+    "url": "https://github.com/usnistgov/Metrology/tree/master/Reaper",
+    "description": null,
+    "domain": "github.com",
+    "cover": "https://rdl.ink/render/https%3A%2F%2Fgithub.com%2Fusnistgov%2FMetrology%2Ftree%2Fmaster%2FReaper",
+    "favorite": false,
+    "category": "development",
+    "subcategory": [
+      "Extension",
+      "Browser Extension",
+      "Productivity Extension"
+    ],
+    "tags": [
+      "Source Code: GitHub",
+      "Type: Open-Source"
+    ],
+    "sourceCodeUrls": [],
+    "createdAt": "2023-12-23T15:24:49.301Z"
+  },
+  {
     "id": "1912717834",
     "title": "Utilities / Kwi · GitLab",
     "url": "https://invent.kde.org/utilities/kwi",
@@ -166483,7 +166355,9 @@
       "Front-End Framework"
     ],
     "tags": [],
-    "sourceCodeUrls": [],
+    "sourceCodeUrls": [
+      "https://github.com/videojs/video.js"
+    ],
     "createdAt": "2022-04-18T20:43:27.408Z"
   },
   {
@@ -175892,26 +175766,6 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2023-10-31T17:36:16.147Z"
-  },
-  {
-    "id": "1186357301",
-    "title": "cschiller/zhongwen: Official source code of the \"Zhongwen\" Chrome extension",
-    "url": "https://github.com/cschiller/zhongwen",
-    "description": "Official source code of the \"Zhongwen\" Chrome extension - cschiller/zhongwen",
-    "domain": "github.com",
-    "cover": "https://opengraph.githubassets.com/e4e2a9b60abee09da24f116f38e02ffdfb7f85396e1ba6055edc483c2199d4ac/cschiller/zhongwen",
-    "favorite": false,
-    "category": "education-and-reference",
-    "subcategory": [
-      "Language Tools",
-      "Translator"
-    ],
-    "tags": [
-      "Source Code: GitHub",
-      "Type: Open-Source"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2025-06-21T22:47:22.862Z"
   },
   {
     "id": "287113497",
@@ -185327,6 +185181,27 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2023-04-30T01:37:26.179Z"
+  },
+  {
+    "id": "816336718",
+    "title": "Mancha3D / Mancha · GitLab",
+    "url": "https://gitlab.com/Mancha3D/mancha",
+    "description": "GitLab.com",
+    "domain": "gitlab.com",
+    "cover": "https://gitlab.com/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg",
+    "favorite": false,
+    "category": "education-and-reference",
+    "subcategory": [
+      "Science",
+      "Basic Science",
+      "Physics"
+    ],
+    "tags": [
+      "Source Code: GitLab",
+      "Type: Open-Source"
+    ],
+    "sourceCodeUrls": [],
+    "createdAt": "2024-07-13T08:43:45.506Z"
   },
   {
     "id": "621236191",
@@ -195800,7 +195675,9 @@
     "tags": [
       "Software: Extension"
     ],
-    "sourceCodeUrls": [],
+    "sourceCodeUrls": [
+      "https://github.com/cschiller/zhongwen"
+    ],
     "createdAt": "2025-06-21T22:47:11.772Z"
   },
   {
@@ -197959,26 +197836,6 @@
     ],
     "sourceCodeUrls": [],
     "createdAt": "2024-01-06T01:50:43.491Z"
-  },
-  {
-    "id": "509729180",
-    "title": "cisco/openh264 · GitHub",
-    "url": "https://github.com/cisco/openh264",
-    "description": "Open Source H.264 Codec . Contribute to cisco/openh264 development by creating an account on GitHub.",
-    "domain": "github.com",
-    "cover": "https://opengraph.githubassets.com/fbcfa0d48ea97557fb22dc2d2013c679d35e2fa781c0218b57a8b395fa42c613/cisco/openh264",
-    "favorite": false,
-    "category": "file-management",
-    "subcategory": [
-      "Converter",
-      "Encoder"
-    ],
-    "tags": [
-      "Source Code: GitHub",
-      "Type: Open-Source"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2023-01-29T20:57:43.560Z"
   },
   {
     "id": "378825460",
@@ -202445,7 +202302,9 @@
       "File Converter"
     ],
     "tags": [],
-    "sourceCodeUrls": [],
+    "sourceCodeUrls": [
+      "https://github.com/sindresorhus/Gifski"
+    ],
     "createdAt": "2023-01-14T22:20:18.080Z"
   },
   {
@@ -203437,29 +203296,10 @@
     "tags": [
       "OS Compatibility: web app"
     ],
-    "sourceCodeUrls": [],
+    "sourceCodeUrls": [
+      "https://github.com/ImageOptim/ImageOptim"
+    ],
     "createdAt": "2022-04-15T03:48:38.360Z"
-  },
-  {
-    "id": "814747920",
-    "title": "ImageOptim/ImageOptim · GitHub",
-    "url": "https://github.com/ImageOptim/ImageOptim",
-    "description": "GUI image optimizer for Mac. Contribute to ImageOptim/ImageOptim development by creating an account on GitHub.",
-    "domain": "github.com",
-    "cover": "https://opengraph.githubassets.com/246a8d55e41b1e089d4b8129433d2dd8b4d7a489f4fd6d670e166ba5ca790e8f/ImageOptim/ImageOptim",
-    "favorite": false,
-    "category": "file-management",
-    "subcategory": [
-      "Converter",
-      "File Converter",
-      "Image Converter"
-    ],
-    "tags": [
-      "Source Code: GitHub",
-      "Type: Open-Source"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2024-07-11T00:23:37.681Z"
   },
   {
     "id": "399875862",
@@ -213898,6 +213738,26 @@
     "createdAt": "2026-10-23T16:16:32.213Z"
   },
   {
+    "id": "597442291",
+    "title": "Andreas Redmer / lato · GitLab",
+    "url": "https://gitlab.com/ar-/lato",
+    "description": "GitLab.com",
+    "domain": "gitlab.com",
+    "cover": "https://gitlab.com/uploads/-/system/project/avatar/18231890/ic_launcher.png",
+    "favorite": false,
+    "category": "gaming",
+    "subcategory": [
+      "Games",
+      "Sports Games"
+    ],
+    "tags": [
+      "Source Code: GitLab",
+      "Type: Open-Source"
+    ],
+    "sourceCodeUrls": [],
+    "createdAt": "2023-06-27T07:29:09.829Z"
+  },
+  {
     "id": "992054214",
     "title": "Antichear expert - 腾讯游戏安全",
     "url": "https://m.anticheatexpert.com/",
@@ -214649,26 +214509,6 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2026-02-01T23:08:44.048Z"
-  },
-  {
-    "id": "745964073",
-    "title": "BlueMap-Minecraft/BlueMap · GitHub",
-    "url": "https://github.com/BlueMap-Minecraft/BlueMap",
-    "description": "A Minecraft mapping tool that creates 3D models of your Minecraft worlds and displays them in a web viewer. - BlueMap-Minecraft/BlueMap",
-    "domain": "github.com",
-    "cover": "https://opengraph.githubassets.com/db6b02a57057b96f41a325c49115b02e593749757f5a4f7b66a696f06788ed6b/BlueMap-Minecraft/BlueMap",
-    "favorite": false,
-    "category": "gaming",
-    "subcategory": [
-      "Gaming Utilities",
-      "Games Mods"
-    ],
-    "tags": [
-      "Source Code: GitHub",
-      "Type: Open-Source"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2024-03-01T12:04:26.644Z"
   },
   {
     "id": "726283505",
@@ -221610,31 +221450,13 @@
     "category": "gaming",
     "subcategory": [
       "Games",
-      "Simulation"
-    ],
-    "tags": [],
-    "sourceCodeUrls": [],
-    "createdAt": "2023-03-12T16:51:45.210Z"
-  },
-  {
-    "id": "724450734",
-    "title": "NetHack/NetHack · GitHub",
-    "url": "https://github.com/NetHack/NetHack",
-    "description": "Official NetHack Git Repository. Contribute to NetHack/NetHack development by creating an account on GitHub.",
-    "domain": "github.com",
-    "cover": "https://opengraph.githubassets.com/f345888b3ef6112c129951ab2f6293370020169786f807896b5dd375502ad310/NetHack/NetHack",
-    "favorite": false,
-    "category": "gaming",
-    "subcategory": [
-      "Games",
       "RPG"
     ],
-    "tags": [
-      "Source Code: GitHub",
-      "Type: Open-Source"
+    "tags": [],
+    "sourceCodeUrls": [
+      "https://github.com/NetHack/NetHack"
     ],
-    "sourceCodeUrls": [],
-    "createdAt": "2024-01-28T16:08:09.151Z"
+    "createdAt": "2023-03-12T16:51:45.210Z"
   },
   {
     "id": "1677366887",
@@ -236204,7 +236026,9 @@
       "Cryptos"
     ],
     "tags": [],
-    "sourceCodeUrls": [],
+    "sourceCodeUrls": [
+      "https://github.com/bitcoin/bitcoin"
+    ],
     "createdAt": "2020-01-19T18:22:36.000Z"
   },
   {
@@ -236383,27 +236207,6 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2020-12-30T01:47:50.000Z"
-  },
-  {
-    "id": "772490346",
-    "title": "bitcoin/bitcoin · GitHub",
-    "url": "https://github.com/bitcoin/bitcoin",
-    "description": "Bitcoin Core integration/staging tree. Contribute to bitcoin/bitcoin development by creating an account on GitHub.",
-    "domain": "github.com",
-    "cover": "https://opengraph.githubassets.com/483c3fb8edaa37a78c19de1401e3aa18686ee33ed295dba6be80208b7071cb96/bitcoin/bitcoin",
-    "favorite": false,
-    "category": "money-and-finance",
-    "subcategory": [
-      "Cryptocurrency Platform",
-      "Cryptos",
-      "Bitcoin"
-    ],
-    "tags": [
-      "Source Code: GitHub",
-      "Type: Open-Source"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2024-04-20T12:19:08.479Z"
   },
   {
     "id": "287113798",
@@ -246761,26 +246564,6 @@
     "createdAt": "2021-11-05T14:26:35.936Z"
   },
   {
-    "id": "854751523",
-    "title": "avery42/delfin - Codeberg.org",
-    "url": "https://codeberg.org/avery42/delfin",
-    "description": "Stream movies and TV shows from Jellyfin.",
-    "domain": "codeberg.org",
-    "cover": "https://codeberg.org/repo-avatars/fb99041458970c6c706fbd3c3c10e46c2685a82f6ce4204ff2a39b2c40db66e7",
-    "favorite": false,
-    "category": "multimedia",
-    "subcategory": [
-      "Video & Movies",
-      "Media Server"
-    ],
-    "tags": [
-      "Source Code: Codeberg",
-      "Type: Open-Source"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2024-09-15T14:18:06.565Z"
-  },
-  {
     "id": "287100384",
     "title": "Avid Sibelius",
     "url": "https://www.avid.com/sibelius",
@@ -247775,27 +247558,6 @@
       "https://projects.blender.org/blender/blender/"
     ],
     "createdAt": "2020-01-08T22:30:46.000Z"
-  },
-  {
-    "id": "791722461",
-    "title": "BleuBleu/FamiStudio: FamiStudio NES Music Editor",
-    "url": "https://github.com/BleuBleu/FamiStudio",
-    "description": "FamiStudio NES Music Editor. Contribute to BleuBleu/FamiStudio development by creating an account on GitHub.",
-    "domain": "github.com",
-    "cover": "https://opengraph.githubassets.com/2d17d63ac7cec08e220a3ebd49ac0e228942db7d1a25d6d649d67b796b9d9a07/BleuBleu/FamiStudio",
-    "favorite": false,
-    "category": "multimedia",
-    "subcategory": [
-      "Audio & Music",
-      "Audio Editor",
-      "Audio Synthesizer"
-    ],
-    "tags": [
-      "Source Code: GitHub",
-      "Type: Open-Source"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2024-05-27T19:44:30.696Z"
   },
   {
     "id": "878111226",
@@ -248871,7 +248633,9 @@
       "Web server: Self-Host",
       "Type: Open-Source"
     ],
-    "sourceCodeUrls": [],
+    "sourceCodeUrls": [
+      "https://code.castopod.org/adaures/castopod"
+    ],
     "createdAt": "2023-09-11T15:58:11.937Z"
   },
   {
@@ -251154,7 +250918,9 @@
       "Video Client"
     ],
     "tags": [],
-    "sourceCodeUrls": [],
+    "sourceCodeUrls": [
+      "https://codeberg.org/avery42/delfin"
+    ],
     "createdAt": "2024-09-15T14:18:23.239Z"
   },
   {
@@ -253946,7 +253712,9 @@
     "tags": [
       "Type: Open-Source"
     ],
-    "sourceCodeUrls": [],
+    "sourceCodeUrls": [
+      "https://github.com/BleuBleu/FamiStudio"
+    ],
     "createdAt": "2022-07-02T13:33:06.859Z"
   },
   {
@@ -256404,7 +256172,9 @@
       "Type: Open-Source",
       "Device: Desktop"
     ],
-    "sourceCodeUrls": [],
+    "sourceCodeUrls": [
+      "https://gitlab.gnome.org/GNOME/gimp"
+    ],
     "createdAt": "2019-08-21T12:34:13.000Z"
   },
   {
@@ -256632,28 +256402,6 @@
     ],
     "sourceCodeUrls": [],
     "createdAt": "2023-10-06T13:14:22.745Z"
-  },
-  {
-    "id": "505800457",
-    "title": "GNOME / GIMP · GitLab",
-    "url": "https://gitlab.gnome.org/GNOME/gimp",
-    "description": "The GNU Image Manipulation Program",
-    "domain": "gitlab.gnome.org",
-    "cover": "https://gitlab.gnome.org/uploads/-/system/project/avatar/1848/gimp-wilber.png",
-    "favorite": false,
-    "category": "multimedia",
-    "subcategory": [
-      "Photos & Graphics",
-      "2D CG",
-      "Raster Graphic Editor"
-    ],
-    "tags": [
-      "Source Code: GitLab",
-      "Type: Open-Source",
-      "Community: GNOME"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2023-01-22T05:40:13.631Z"
   },
   {
     "id": "412954202",
@@ -257101,49 +256849,6 @@
     "createdAt": "2022-07-23T14:14:02.706Z"
   },
   {
-    "id": "681479490",
-    "title": "Graphics / KolourPaint · GitLab",
-    "url": "https://invent.kde.org/graphics/kolourpaint",
-    "description": "Easy-to-use paint program",
-    "domain": "invent.kde.org",
-    "cover": "https://invent.kde.org/graphics/kolourpaint/-/avatar",
-    "favorite": false,
-    "category": "multimedia",
-    "subcategory": [
-      "Photos & Graphics",
-      "2D CG",
-      "Painting"
-    ],
-    "tags": [
-      "Community: KDE",
-      "Source Code: GitLab",
-      "Type: Open-Source"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2023-11-19T23:02:22.579Z"
-  },
-  {
-    "id": "568744245",
-    "title": "Graphics / Krita · GitLab",
-    "url": "https://invent.kde.org/graphics/krita",
-    "description": "Krita is a free and open source cross-platform application that offers an end-to-end solution for creating digital art files from scratch built on the KDE and Qt frameworks.",
-    "domain": "invent.kde.org",
-    "cover": "https://invent.kde.org/uploads/-/system/project/avatar/206/128-apps-krita.png",
-    "favorite": false,
-    "category": "multimedia",
-    "subcategory": [
-      "Photos & Graphics",
-      "2D CG",
-      "Painting"
-    ],
-    "tags": [
-      "Source Code: GitLab",
-      "Type: Open-Source"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2023-05-06T10:55:44.631Z"
-  },
-  {
     "id": "770858096",
     "title": "Graphics / Spectacle · GitLab",
     "url": "https://invent.kde.org/graphics/spectacle",
@@ -257402,7 +257107,9 @@
     "tags": [
       "❤️"
     ],
-    "sourceCodeUrls": [],
+    "sourceCodeUrls": [
+      "https://gitlab.futo.org/videostreaming/grayjay"
+    ],
     "createdAt": "2023-10-18T10:37:48.291Z"
   },
   {
@@ -261436,27 +261143,6 @@
     "createdAt": "2024-10-12T14:14:51.230Z"
   },
   {
-    "id": "665760919",
-    "title": "KDE/krita · GitHub",
-    "url": "https://github.com/KDE/krita",
-    "description": "Krita is a free and open source cross-platform application that offers an end-to-end solution for creating digital art files from scratch built on the KDE and Qt frameworks. - GitHub - KDE/krita: K...",
-    "domain": "github.com",
-    "cover": "https://opengraph.githubassets.com/1ff49317851f7ccc8a03d0082561440b8ccb4784e8c8476a3a64b1695876179b/KDE/krita",
-    "favorite": false,
-    "category": "multimedia",
-    "subcategory": [
-      "Photos & Graphics",
-      "2D CG",
-      "Painting"
-    ],
-    "tags": [
-      "Source Code: GitHub",
-      "Type: Open-Source"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2023-10-22T21:08:45.477Z"
-  },
-  {
     "id": "287100606",
     "title": "Kdenlive - Video editing freedom",
     "url": "https://kdenlive.org/",
@@ -262044,7 +261730,9 @@
     "tags": [
       "Community: KDE"
     ],
-    "sourceCodeUrls": [],
+    "sourceCodeUrls": [
+      "https://invent.kde.org/graphics/kolourpaint"
+    ],
     "createdAt": "2022-06-01T19:48:39.246Z"
   },
   {
@@ -262203,7 +261891,10 @@
     "tags": [
       "Community: KDE"
     ],
-    "sourceCodeUrls": [],
+    "sourceCodeUrls": [
+      "https://invent.kde.org/graphics/krita",
+      "https://github.com/KDE/krita"
+    ],
     "createdAt": "2019-08-31T21:56:49.000Z"
   },
   {
@@ -263111,26 +262802,6 @@
     ],
     "sourceCodeUrls": [],
     "createdAt": "2021-01-29T18:44:27.000Z"
-  },
-  {
-    "id": "684025632",
-    "title": "LizardByte/Sunshine: Self-hosted game stream host for Moonlight",
-    "url": "https://github.com/LizardByte/Sunshine",
-    "description": "Self-hosted game stream host for Moonlight. Contribute to LizardByte/Sunshine development by creating an account on GitHub.",
-    "domain": "github.com",
-    "cover": "https://repository-images.githubusercontent.com/438803890/7fb60dde-74c1-4acc-be84-be111d522747",
-    "favorite": false,
-    "category": "multimedia",
-    "subcategory": [
-      "Video & Movies",
-      "Casting & Streaming"
-    ],
-    "tags": [
-      "Source Code: GitHub",
-      "Type: Open-Source"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2023-11-25T03:13:37.002Z"
   },
   {
     "id": "287100373",
@@ -276441,27 +276112,6 @@
     "createdAt": "2024-07-04T17:25:24.534Z"
   },
   {
-    "id": "811939510",
-    "title": "rhasspy/rhasspy: Offline private voice assistant for many human languages",
-    "url": "https://github.com/rhasspy/rhasspy",
-    "description": "Offline private voice assistant for many human languages - rhasspy/rhasspy",
-    "domain": "github.com",
-    "cover": "https://opengraph.githubassets.com/20ee6b5dfb705baeccdd6ce00d4a6765c0a2fe2d51cbafb1fd12d5a45c669d15/rhasspy/rhasspy",
-    "favorite": false,
-    "category": "multimedia",
-    "subcategory": [
-      "Audio & Music",
-      "Audio Computing",
-      "Voice Control"
-    ],
-    "tags": [
-      "Source Code: GitHub",
-      "Type: Open-Source"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2024-07-05T04:56:21.328Z"
-  },
-  {
     "id": "358074783",
     "title": "Rhinoceros 3D",
     "url": "https://www.rhino3d.com/",
@@ -277456,26 +277106,6 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2022-07-14T19:20:59.343Z"
-  },
-  {
-    "id": "542018310",
-    "title": "Scribus - SourceForge",
-    "url": "https://sourceforge.net/projects/scribus/",
-    "description": "Download Scribus for free. Powerful desktop publishing software. Scribus is an Open Source program that brings professional page layout to Linux, BSD UNIX, Solaris, OpenIndiana, GNU/Hurd, Mac OS X, OS/2 Warp 4, eComStation, and Windows desktops with a combination of press-ready output and new approaches to page design. Underneath a modern and user-friendly interface, Scribus supports professional publishing features, such as color separations, CMYK and spot colors, ICC color management, and versatile PDF creation.",
-    "domain": "sourceforge.net",
-    "cover": "https://a.fsdn.com/allura/p/scribus/icon?1618175930",
-    "favorite": false,
-    "category": "multimedia",
-    "subcategory": [
-      "Photos & Graphics",
-      "2D CG",
-      "Desktop Publisher"
-    ],
-    "tags": [
-      "Source Code: SourceForge"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2023-03-24T23:30:18.895Z"
   },
   {
     "id": "452497982",
@@ -280096,28 +279726,10 @@
       "Source Code: GitLab",
       "Type: Open-Source"
     ],
-    "sourceCodeUrls": [],
+    "sourceCodeUrls": [
+      "https://gitlab.com/splashmapper/splash"
+    ],
     "createdAt": "2022-07-02T13:23:43.697Z"
-  },
-  {
-    "id": "629218128",
-    "title": "splashmapper / splash · GitLab",
-    "url": "https://gitlab.com/splashmapper/splash",
-    "description": "Modular video-mapping software - https://splashmapper.xyz",
-    "domain": "gitlab.com",
-    "cover": "https://gitlab.com/uploads/-/system/project/avatar/2101217/Splash_RGB.png",
-    "favorite": false,
-    "category": "multimedia",
-    "subcategory": [
-      "Video & Movies",
-      "VFX Editor"
-    ],
-    "tags": [
-      "Source Code: GitLab",
-      "Type: Open-Source"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2023-08-16T00:13:27.998Z"
   },
   {
     "id": "629547166",
@@ -281250,7 +280862,9 @@
       "Type: Open-Source",
       "Web server: Self-Host"
     ],
-    "sourceCodeUrls": [],
+    "sourceCodeUrls": [
+      "https://github.com/LizardByte/Sunshine"
+    ],
     "createdAt": "2026-06-05T21:53:27.664Z"
   },
   {
@@ -284958,27 +284572,6 @@
     "createdAt": "2022-03-26T18:57:49.690Z"
   },
   {
-    "id": "542076816",
-    "title": "videojs/video.js · GItHub",
-    "url": "https://github.com/videojs/video.js/",
-    "description": "Video.js - open source HTML5 video player. Contribute to videojs/video.js development by creating an account on GitHub.",
-    "domain": "github.com",
-    "cover": "https://camo.githubusercontent.com/d607ddd23dfd934e43371ee15024305c79a708b6330d75e6b5963a09eed4ebd9/68747470733a2f2f766964656f6a732e636f6d2f6c6f676f2d77686974652e706e67",
-    "favorite": false,
-    "category": "multimedia",
-    "subcategory": [
-      "Video & Movies",
-      "Video Player",
-      "Web Player"
-    ],
-    "tags": [
-      "Source Code: GitHub",
-      "Type: Open-Source"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2023-03-25T03:00:41.508Z"
-  },
-  {
     "id": "287101042",
     "title": "VideoLAN",
     "url": "https://www.videolan.org/",
@@ -285169,26 +284762,6 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2022-12-17T18:16:40.125Z"
-  },
-  {
-    "id": "666354184",
-    "title": "VideoStreaming / Grayjay · GitLab",
-    "url": "https://gitlab.futo.org/videostreaming/grayjay",
-    "description": "GitLab Enterprise Edition",
-    "domain": "gitlab.futo.org",
-    "cover": "https://gitlab.futo.org/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg",
-    "favorite": false,
-    "category": "multimedia",
-    "subcategory": [
-      "Video & Movies",
-      "Video Streaming app"
-    ],
-    "tags": [
-      "Source Code: GitLab",
-      "Type: Open-Source"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2023-10-23T19:02:57.543Z"
   },
   {
     "id": "326798033",
@@ -309999,26 +309572,6 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2020-05-06T20:45:40.000Z"
-  },
-  {
-    "id": "652687266",
-    "title": "inventaire/inventaire · GitHub",
-    "url": "https://github.com/inventaire/inventaire",
-    "description": "a libre collaborative resource mapper powered by open-knowledge, starting with books! :books: - GitHub - inventaire/inventaire: a libre collaborative resource mapper powered by open-knowledge, star...",
-    "domain": "github.com",
-    "cover": "https://opengraph.githubassets.com/5f0edc81233a1f8c17c9ed59cc14bc4c4ea149dae1e05d1421477f3cc1bae7f6/inventaire/inventaire",
-    "favorite": false,
-    "category": "news-and-books",
-    "subcategory": [
-      "Reading",
-      "Library Manager"
-    ],
-    "tags": [
-      "Source Code: GitHub",
-      "Type: Open-Source"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2023-09-27T09:34:46.649Z"
   },
   {
     "id": "287111046",
@@ -340317,33 +339870,15 @@
     "favorite": false,
     "category": "office-and-productivity",
     "subcategory": [
-      "Data Tools",
-      "Web Analytics Service"
+      "Finance Manager"
     ],
     "tags": [
       "OS Compatibility: web app"
     ],
-    "sourceCodeUrls": [],
+    "sourceCodeUrls": [
+      "https://github.com/crater-invoice/crater"
+    ],
     "createdAt": "2023-05-30T19:23:40.469Z"
-  },
-  {
-    "id": "581630129",
-    "title": "crater-invoice/crater · GitHub",
-    "url": "https://github.com/crater-invoice/crater",
-    "description": "Open Source Invoicing Solution for Individuals & Businesses - GitHub - crater-invoice/crater: Open Source Invoicing Solution for Individuals & Businesses",
-    "domain": "github.com",
-    "cover": "https://opengraph.githubassets.com/6b55769d8d13119f6d7ab1c9fd230267eed5938df004b29b2f3a84beb64f9574/crater-invoice/crater",
-    "favorite": false,
-    "category": "office-and-productivity",
-    "subcategory": [
-      "Finance Manager"
-    ],
-    "tags": [
-      "Source Code: GitHub",
-      "Type: Open-Source"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2023-05-30T19:22:15.534Z"
   },
   {
     "id": "325244844",
@@ -344382,27 +343917,6 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2021-07-27T19:32:38.471Z"
-  },
-  {
-    "id": "437723198",
-    "title": "hackmdio/codimd · GitHub",
-    "url": "https://github.com/hackmdio/codimd",
-    "description": "CodiMD - Realtime collaborative markdown notes on all platforms. - GitHub - hackmdio/codimd: CodiMD - Realtime collaborative markdown notes on all platforms.",
-    "domain": "github.com",
-    "cover": "https://raw.githubusercontent.com/hackmdio/codimd/develop/public/screenshot.png",
-    "favorite": false,
-    "category": "office-and-productivity",
-    "subcategory": [
-      "Team Collaboration",
-      "Online Collaboration"
-    ],
-    "tags": [
-      "Source Code: GitHub",
-      "Type: Open-Source",
-      "Software: Collaborative"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2022-08-27T23:36:50.825Z"
   },
   {
     "id": "287100509",
@@ -348591,27 +348105,10 @@
       "Customer Relationship Management (CRM)"
     ],
     "tags": [],
-    "sourceCodeUrls": [],
+    "sourceCodeUrls": [
+      "https://github.com/monicahq/monica"
+    ],
     "createdAt": "2022-12-06T21:17:50.421Z"
-  },
-  {
-    "id": "482239041",
-    "title": "monicahq/monica · GitHub",
-    "url": "https://github.com/monicahq/monica",
-    "description": "Personal CRM. Remember everything about your friends, family and business relationships. - GitHub - monicahq/monica: Personal CRM. Remember everything about your friends, family and business relati...",
-    "domain": "github.com",
-    "cover": "https://repository-images.githubusercontent.com/82238168/57d16680-5333-11ea-9c6f-b1f2e7f8b45c",
-    "favorite": false,
-    "category": "office-and-productivity",
-    "subcategory": [
-      "Contact Manager"
-    ],
-    "tags": [
-      "Source Code: GitHub",
-      "Type: Open-Source"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2022-12-06T21:19:43.093Z"
   },
   {
     "id": "1099826945",
@@ -353562,7 +353059,9 @@
       "Software: PKM",
       "Type: Open-Source"
     ],
-    "sourceCodeUrls": [],
+    "sourceCodeUrls": [
+      "https://github.com/StanGirard/quivr"
+    ],
     "createdAt": "2023-07-12T11:06:08.806Z"
   },
   {
@@ -354761,7 +354260,9 @@
     "tags": [
       "Type: Open-Source"
     ],
-    "sourceCodeUrls": [],
+    "sourceCodeUrls": [
+      "https://sourceforge.net/projects/scribus"
+    ],
     "createdAt": "2020-06-07T17:16:41.000Z"
   },
   {
@@ -359649,28 +359150,10 @@
       "Page: GitHub",
       "Type: Open-Source"
     ],
-    "sourceCodeUrls": [],
+    "sourceCodeUrls": [
+      "https://github.com/wekan/wekan"
+    ],
     "createdAt": "2021-07-22T18:37:12.549Z"
-  },
-  {
-    "id": "611607768",
-    "title": "wekan/wekan · GitHub",
-    "url": "https://github.com/wekan/wekan",
-    "description": "The Open Source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at ht...",
-    "domain": "github.com",
-    "cover": "https://opengraph.githubassets.com/cb08842ff3e95021539934858e387e1380533dd54f19211a9343d85134d7d310/wekan/wekan",
-    "favorite": false,
-    "category": "office-and-productivity",
-    "subcategory": [
-      "Team Collaboration",
-      "Project Management Tool"
-    ],
-    "tags": [
-      "Source Code: GitHub",
-      "Type: Open-Source"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2023-07-21T20:04:54.341Z"
   },
   {
     "id": "287101364",
@@ -362820,27 +362303,6 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2021-01-27T17:07:41.000Z"
-  },
-  {
-    "id": "645331308",
-    "title": "Ad Aures / Castopod · GitLab",
-    "url": "https://code.castopod.org/adaures/castopod",
-    "description": "Castopod is an open-source hosting platform made for podcasters who want engage and interact with their audience.",
-    "domain": "code.castopod.org",
-    "cover": "https://code.castopod.org/uploads/-/system/project/avatar/2/castopod-avatar.png",
-    "favorite": false,
-    "category": "online-services",
-    "subcategory": [
-      "Online Platform",
-      "Audio Platform",
-      "Podcast Platform"
-    ],
-    "tags": [
-      "Source Code: GitLab",
-      "Type: Open-Source"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2023-09-11T16:03:07.169Z"
   },
   {
     "id": "886594098",
@@ -371263,7 +370725,9 @@
     "tags": [
       "Web: Discontinued"
     ],
-    "sourceCodeUrls": [],
+    "sourceCodeUrls": [
+      "https://sr.ht/~cadence/bibliogram"
+    ],
     "createdAt": "2022-09-10T12:07:59.544Z"
   },
   {
@@ -421324,27 +420788,6 @@
     "createdAt": "2021-06-11T18:40:45.000Z"
   },
   {
-    "id": "726283631",
-    "title": "mfts/papermark · GitHub",
-    "url": "https://github.com/mfts/papermark",
-    "description": "Papermark is the open-source DocSend alternative with built-in analytics and custom domains. - GitHub - mfts/papermark: Papermark is the open-source DocSend alternative with built-in analytics and ...",
-    "domain": "github.com",
-    "cover": "https://opengraph.githubassets.com/29584c8611e5f1c335675c75a6177b9ae7ab1fb9d347527bfaca6b0b4404bc7f/mfts/papermark",
-    "favorite": false,
-    "category": "online-services",
-    "subcategory": [
-      "Online Platform",
-      "Text Platform",
-      "Doc Platform"
-    ],
-    "tags": [
-      "Source Code: GitHub",
-      "Type: Open-Source"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2024-01-30T18:40:52.816Z"
-  },
-  {
     "id": "287102826",
     "title": "MG TV",
     "url": "https://www.mgtv.com/",
@@ -422947,7 +422390,9 @@
       "Coding Toolkit"
     ],
     "tags": [],
-    "sourceCodeUrls": [],
+    "sourceCodeUrls": [
+      "https://github.com/modernizr/modernizr"
+    ],
     "createdAt": "2022-06-28T14:10:39.231Z"
   },
   {
@@ -432418,7 +431863,9 @@
     "tags": [
       "Type: Open-Source"
     ],
-    "sourceCodeUrls": [],
+    "sourceCodeUrls": [
+      "https://github.com/mfts/papermark"
+    ],
     "createdAt": "2024-01-30T18:41:29.817Z"
   },
   {
@@ -446251,28 +445698,6 @@
     "createdAt": "2024-07-20T09:52:34.327Z"
   },
   {
-    "id": "755726092",
-    "title": "sindresorhus/Gifski · GitHub",
-    "url": "https://github.com/sindresorhus/Gifski",
-    "description": "🌈 Convert videos to high-quality GIFs on your Mac. Contribute to sindresorhus/Gifski development by creating an account on GitHub.",
-    "domain": "github.com",
-    "cover": "https://repository-images.githubusercontent.com/119822304/c4f2cc00-9433-11e9-99ab-ee530bb43982",
-    "favorite": false,
-    "category": "online-services",
-    "subcategory": [
-      "Online Platform",
-      "Image Platform",
-      "Gifs & Clips",
-      "GIF Maker"
-    ],
-    "tags": [
-      "Source Code: GitHub",
-      "Type: Open-Source"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2024-03-17T17:57:26.404Z"
-  },
-  {
     "id": "1241754681",
     "title": "Sinid",
     "url": "http://humanphenotypes.net/basic/Sinid.html",
@@ -457079,28 +456504,6 @@
     "createdAt": "2022-06-28T18:19:15.245Z"
   },
   {
-    "id": "961884333",
-    "title": "triggerdotdev/trigger.dev: Trigger.dev is the open source background jobs platform.",
-    "url": "https://github.com/triggerdotdev/trigger.dev",
-    "description": "Trigger.dev is the open source background jobs platform. - triggerdotdev/trigger.dev",
-    "domain": "github.com",
-    "cover": "https://repository-images.githubusercontent.com/572570113/8029ce4d-6c61-4f85-9352-be224bb1183f",
-    "favorite": false,
-    "category": "online-services",
-    "subcategory": [
-      "Online Platform",
-      "Text Platform",
-      "Coding Platform",
-      "Dev Environment"
-    ],
-    "tags": [
-      "Source Code: GitHub",
-      "Type: Open-Source"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2025-02-02T21:39:29.260Z"
-  },
-  {
     "id": "287102691",
     "title": "Trilulilu",
     "url": "https://trilulilu.ro/",
@@ -462885,7 +462288,8 @@
       "Commenting Platform"
     ],
     "tags": [
-      "Type: Open-Source"
+      "Type: Open-Source",
+      "Source Code: GitHub"
     ],
     "sourceCodeUrls": [
       "https://github.com/walinejs/waline"
@@ -473695,29 +473099,6 @@
     "createdAt": "2022-05-18T19:16:55.985Z"
   },
   {
-    "id": "662811297",
-    "title": "Br OS - SourceForge",
-    "url": "https://sourceforge.net/projects/bros/",
-    "description": "Download Br OS for free. Br OS é o Antigo Hétero OS, agora remodelado, mais robusto e aberto ao público em geral, o nome mudou mas a filosofia continua a mesma, unir pessoas, o nome Br OS tem dois significados, Br vem de Brasil, o país de origem do sistema, e a junção do nome fica Bros, que é uma gíria norte americana para Brothers, que significa Irmãos. Basicamente o que queremos dizer é que nosso sistema foi feito para unir pessoas, seja pelo conteúdo gerado por ele, ou pela comunidade que ele forma.",
-    "domain": "sourceforge.net",
-    "cover": "https://a.fsdn.com/allura/p/bros/icon?1582677230",
-    "favorite": false,
-    "category": "os-and-utilities",
-    "subcategory": [
-      "OS by Devices",
-      "Workstation OS (generic)",
-      "UNIX-Based",
-      "Unix-Like",
-      "Linux-Based",
-      "Ubuntu-Based"
-    ],
-    "tags": [
-      "Source Code: SourceForge"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2023-10-18T00:58:39.778Z"
-  },
-  {
     "id": "569177345",
     "title": "Br OS – Simples, Fácil e Nacional",
     "url": "https://br-os.com/",
@@ -473737,7 +473118,9 @@
     "tags": [
       "OS: Linux-based"
     ],
-    "sourceCodeUrls": [],
+    "sourceCodeUrls": [
+      "https://sourceforge.net/projects/bros"
+    ],
     "createdAt": "2023-05-07T16:45:55.885Z"
   },
   {
@@ -475664,30 +475047,6 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2022-07-05T19:14:50.398Z"
-  },
-  {
-    "id": "818219386",
-    "title": "CypherpunkArmory/UserLAnd: Main UserLAnd Repository",
-    "url": "https://github.com/CypherpunkArmory/UserLAnd",
-    "description": "Main UserLAnd Repository. Contribute to CypherpunkArmory/UserLAnd development by creating an account on GitHub.",
-    "domain": "github.com",
-    "cover": "https://opengraph.githubassets.com/7122f0ac9d21578f624bfe884599c9a87fc149fb541e1a59d08b82759fc2793b/CypherpunkArmory/UserLAnd",
-    "favorite": false,
-    "category": "os-and-utilities",
-    "subcategory": [
-      "OS by Devices",
-      "Workstation OS (generic)",
-      "UNIX-Based",
-      "Unix-Like",
-      "Linux-Based",
-      "WSL"
-    ],
-    "tags": [
-      "Source Code: GitHub",
-      "Type: Open-Source"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2024-07-17T03:11:35.410Z"
   },
   {
     "id": "1467912677",
@@ -481867,7 +481226,9 @@
     "tags": [
       "Community: KDE"
     ],
-    "sourceCodeUrls": [],
+    "sourceCodeUrls": [
+      "https://invent.kde.org/plasma/kwin"
+    ],
     "createdAt": "2022-05-19T13:49:54.627Z"
   },
   {
@@ -487782,30 +487143,6 @@
     "createdAt": "2022-05-13T02:16:33.267Z"
   },
   {
-    "id": "558618047",
-    "title": "Plasma / KWin · GitLab",
-    "url": "https://invent.kde.org/plasma/kwin",
-    "description": "Easy to use, but flexible, X Window Manager and Wayland Compositor",
-    "domain": "invent.kde.org",
-    "cover": "https://invent.kde.org/plasma/kwin/-/avatar",
-    "favorite": false,
-    "category": "os-and-utilities",
-    "subcategory": [
-      "OS Components",
-      "Desktop Environment Parts",
-      "Display System",
-      "Display Server",
-      "Wayland Compositor"
-    ],
-    "tags": [
-      "Source Code: GitLab",
-      "Type: Open-Source",
-      "Community: KDE"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2023-04-16T23:23:10.014Z"
-  },
-  {
     "id": "424554650",
     "title": "Plasma / Latte Dock · GitLab",
     "url": "https://invent.kde.org/plasma/latte-dock",
@@ -488880,7 +488217,9 @@
       "Autopilot System"
     ],
     "tags": [],
-    "sourceCodeUrls": [],
+    "sourceCodeUrls": [
+      "https://github.com/mavlink/qgroundcontrol"
+    ],
     "createdAt": "2023-04-10T00:52:53.409Z"
   },
   {
@@ -489296,26 +488635,6 @@
     ],
     "sourceCodeUrls": [],
     "createdAt": "2022-12-10T20:11:14.507Z"
-  },
-  {
-    "id": "421263548",
-    "title": "recalbox / recalbox · GitLab",
-    "url": "https://gitlab.com/recalbox/recalbox",
-    "description": "The recalbox os. Retrogaming open source operating system for Raspberry Pi, Odroid and PC.",
-    "domain": "gitlab.com",
-    "cover": "https://gitlab.com/uploads/-/system/project/avatar/2396494/recalbox-controller-only.png",
-    "favorite": false,
-    "category": "os-and-utilities",
-    "subcategory": [
-      "OS by Devices",
-      "Console OS"
-    ],
-    "tags": [
-      "Source Code: GitLab",
-      "Type: Open-Source"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2022-07-23T13:04:19.039Z"
   },
   {
     "id": "533163342",
@@ -496055,30 +495374,6 @@
     "createdAt": "2023-12-02T01:04:41.571Z"
   },
   {
-    "id": "746173469",
-    "title": "Xenia Group / Xenia Linux · GitLab",
-    "url": "https://gitlab.com/xenia-group/xenia-linux",
-    "description": "GitLab.com",
-    "domain": "gitlab.com",
-    "cover": "https://gitlab.com/uploads/-/system/project/avatar/41551772/xenia_logo-4.png",
-    "favorite": false,
-    "category": "os-and-utilities",
-    "subcategory": [
-      "OS by Devices",
-      "Workstation OS (generic)",
-      "UNIX-Based",
-      "Unix-Like",
-      "Linux-Based",
-      "Indie Linux Distro"
-    ],
-    "tags": [
-      "Source Code: GitLab",
-      "Type: Open-Source"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2024-03-01T21:24:35.595Z"
-  },
-  {
     "id": "535139825",
     "title": "Xenia Linux",
     "url": "https://xenia-group.gitlab.io/xeniaweb/",
@@ -496098,7 +495393,9 @@
     "tags": [
       "OS: Linux-based"
     ],
-    "sourceCodeUrls": [],
+    "sourceCodeUrls": [
+      "https://gitlab.com/xenia-group/xenia-linux"
+    ],
     "createdAt": "2023-03-14T00:31:42.115Z"
   },
   {
@@ -496121,7 +495418,9 @@
     "tags": [
       "OS: Linux-based"
     ],
-    "sourceCodeUrls": [],
+    "sourceCodeUrls": [
+      "https://gitlab.com/xenia-group/xenia-linux"
+    ],
     "createdAt": "2024-03-01T21:23:58.738Z"
   },
   {
@@ -505091,23 +504390,6 @@
     "createdAt": "2023-02-20T18:39:58.268Z"
   },
   {
-    "id": "455296627",
-    "title": "bibliogram · SourceHut",
-    "url": "https://sr.ht/~cadence/bibliogram/",
-    "description": "An alternative front-end for Instagram",
-    "domain": "sr.ht",
-    "cover": "https://rdl.ink/render/https%3A%2F%2Fsr.ht%2F~cadence%2Fbibliogram%2F",
-    "favorite": false,
-    "category": "social-and-communications",
-    "subcategory": [
-      "Social Network",
-      "Social Net (frontend)"
-    ],
-    "tags": [],
-    "sourceCodeUrls": [],
-    "createdAt": "2022-10-07T10:48:42.966Z"
-  },
-  {
     "id": "287099893",
     "title": "BigBlueButton",
     "url": "https://bigbluebutton.org/",
@@ -506861,7 +506143,9 @@
       "Project: Matrix",
       "Web server: Self-Host"
     ],
-    "sourceCodeUrls": [],
+    "sourceCodeUrls": [
+      "https://gitlab.com/famedly/conduit"
+    ],
     "createdAt": "2022-11-17T03:12:19.831Z"
   },
   {
@@ -506937,28 +506221,10 @@
     "tags": [
       "Type: Open-Source"
     ],
-    "sourceCodeUrls": [],
+    "sourceCodeUrls": [
+      "https://github.com/coracle-social/coracle"
+    ],
     "createdAt": "2023-06-28T22:50:13.848Z"
-  },
-  {
-    "id": "598175670",
-    "title": "coracle-social/coracle · GitHub",
-    "url": "https://github.com/coracle-social/coracle",
-    "description": "A Nostr client that makes relays a first-class concept - GitHub - coracle-social/coracle: A Nostr client that makes relays a first-class concept",
-    "domain": "github.com",
-    "cover": "https://opengraph.githubassets.com/537f015e1031c952d8fff47b5c8b745cb5894d7d42ec504b57878febdfd6b5b3/coracle-social/coracle",
-    "favorite": false,
-    "category": "social-and-communications",
-    "subcategory": [
-      "Social Network",
-      "Decentralized Networks"
-    ],
-    "tags": [
-      "Source Code: GitHub",
-      "Type: Open-Source"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2023-06-28T22:48:00.532Z"
   },
   {
     "id": "287103271",
@@ -509348,26 +508614,6 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2021-05-07T22:58:40.000Z"
-  },
-  {
-    "id": "421263557",
-    "title": "Famedly / Conduit · GitLab",
-    "url": "https://gitlab.com/famedly/conduit",
-    "description": "Conduit is a simple, fast and reliable chat server powered by Matrix https://conduit.rs",
-    "domain": "gitlab.com",
-    "cover": "https://gitlab.com/uploads/-/system/project/avatar/22083768/conduit.png",
-    "favorite": false,
-    "category": "social-and-communications",
-    "subcategory": [
-      "Social Network",
-      "Decentralized Networks"
-    ],
-    "tags": [
-      "Source Code: GitLab",
-      "Type: Open-Source"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2022-07-23T13:04:27.305Z"
   },
   {
     "id": "287103138",
@@ -513128,7 +512374,9 @@
     "tags": [
       "Protocol: Fediverse"
     ],
-    "sourceCodeUrls": [],
+    "sourceCodeUrls": [
+      "https://github.com/inventaire/inventaire"
+    ],
     "createdAt": "2022-11-17T00:26:40.728Z"
   },
   {
@@ -516257,7 +515505,9 @@
       "Type: Open-Source",
       "Device: Desktop"
     ],
-    "sourceCodeUrls": [],
+    "sourceCodeUrls": [
+      "https://github.com/pymedusa/Medusa"
+    ],
     "createdAt": "2022-12-06T23:10:26.652Z"
   },
   {
@@ -516461,7 +515711,9 @@
       "Protocol: Fediverse",
       "Web server: Self-Host"
     ],
-    "sourceCodeUrls": [],
+    "sourceCodeUrls": [
+      "https://git.sr.ht/~tsileo/microblog.pub"
+    ],
     "createdAt": "2022-11-16T01:58:07.170Z"
   },
   {
@@ -519974,26 +519226,6 @@
     "createdAt": "2025-08-03T17:17:28.035Z"
   },
   {
-    "id": "482268448",
-    "title": "pymedusa/Medusa · GitHub",
-    "url": "https://github.com/pymedusa/Medusa",
-    "description": "Automatic Video Library Manager for TV Shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic. - GitHub - pymedusa/Medusa: Automatic Video Library Man...",
-    "domain": "github.com",
-    "cover": "https://opengraph.githubassets.com/37163f225fa871f459e21c258079ff42b4f7a5496c7d78f8107cbd0ef00e77d7/pymedusa/Medusa",
-    "favorite": false,
-    "category": "social-and-communications",
-    "subcategory": [
-      "Download Manager",
-      "Media Indexer Manager"
-    ],
-    "tags": [
-      "Source Code: GitHub",
-      "Type: Open-Source"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2022-12-06T23:11:28.856Z"
-  },
-  {
     "id": "413212587",
     "title": "Python.org Discuss",
     "url": "https://discuss.python.org/",
@@ -521903,28 +521135,10 @@
       "Usenet Client"
     ],
     "tags": [],
-    "sourceCodeUrls": [],
+    "sourceCodeUrls": [
+      "https://git.sickrage.ca/SiCKRAGE/sickrage"
+    ],
     "createdAt": "2022-12-06T23:15:45.086Z"
-  },
-  {
-    "id": "482307009",
-    "title": "SiCKRAGE / sickrage · GitLab",
-    "url": "https://git.sickrage.ca/SiCKRAGE/sickrage",
-    "description": "SiCKRAGE",
-    "domain": "git.sickrage.ca",
-    "cover": "https://git.sickrage.ca/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg",
-    "favorite": false,
-    "category": "social-and-communications",
-    "subcategory": [
-      "Download Manager",
-      "Media Indexer Manager"
-    ],
-    "tags": [
-      "Source Code: GitLab",
-      "Type: Open-Source"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2022-12-07T02:22:57.998Z"
   },
   {
     "id": "287103301",
@@ -528666,23 +527880,6 @@
     "createdAt": "2023-11-13T15:08:36.262Z"
   },
   {
-    "id": "724403779",
-    "title": "~tsileo/microblog.pub · SourceHut",
-    "url": "https://git.sr.ht/~tsileo/microblog.pub/",
-    "description": "A self-hosted, single-user, ActivityPub powered microblog. - sourcehut git",
-    "domain": "git.sr.ht",
-    "cover": "https://rdl.ink/render/https%3A%2F%2Fgit.sr.ht%2F~tsileo%2Fmicroblog.pub%2F",
-    "favorite": false,
-    "category": "social-and-communications",
-    "subcategory": [
-      "Social Network",
-      "Decentralized Networks"
-    ],
-    "tags": [],
-    "sourceCodeUrls": [],
-    "createdAt": "2024-01-28T13:53:18.735Z"
-  },
-  {
     "id": "287108607",
     "title": "¡Vaya GIF!",
     "url": "https://www.vayagif.com/",
@@ -529391,7 +528588,9 @@
     "tags": [
       "Software: Extension"
     ],
-    "sourceCodeUrls": [],
+    "sourceCodeUrls": [
+      "https://github.com/dikshantrajput/adBlitz"
+    ],
     "createdAt": "2024-04-29T16:13:00.495Z"
   },
   {
@@ -531502,7 +530701,9 @@
       "Software: Extension",
       "Type: Open-Source"
     ],
-    "sourceCodeUrls": [],
+    "sourceCodeUrls": [
+      "https://github.com/AutomaApp/automa"
+    ],
     "createdAt": "2025-05-19T17:54:26.470Z"
   },
   {
@@ -541529,28 +540730,10 @@
       "API Client"
     ],
     "tags": [],
-    "sourceCodeUrls": [],
+    "sourceCodeUrls": [
+      "https://github.com/Kong/kong"
+    ],
     "createdAt": "2024-01-25T18:52:19.793Z"
-  },
-  {
-    "id": "721091866",
-    "title": "Kong/kong · GitHub",
-    "url": "https://github.com/Kong/kong",
-    "description": "🦍 The Cloud-Native API Gateway . Contribute to Kong/kong development by creating an account on GitHub.",
-    "domain": "github.com",
-    "cover": "https://opengraph.githubassets.com/0b5c5d938a185b89e1ded31fddf6318a798f3121c66561059f5644d1535e2df3/Kong/kong",
-    "favorite": false,
-    "category": "system-administration",
-    "subcategory": [
-      "Networking",
-      "Client-Server App"
-    ],
-    "tags": [
-      "Source Code: GitHub",
-      "Type: Open-Source"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2024-01-25T18:52:37.455Z"
   },
   {
     "id": "542065754",
@@ -543600,27 +542783,6 @@
     ],
     "sourceCodeUrls": [],
     "createdAt": "2024-02-11T19:35:51.622Z"
-  },
-  {
-    "id": "778739426",
-    "title": "microsoft/vcpkg: C++ Library Manager for Windows, Linux, and MacOS",
-    "url": "https://github.com/microsoft/vcpkg",
-    "description": "C++ Library Manager for Windows, Linux, and MacOS.",
-    "domain": "github.com",
-    "cover": "https://opengraph.githubassets.com/0af9ac86ef4705c48d4cd1eb2fdb7e7e43b69216253bd68ffad923c1e9a777d1/microsoft/vcpkg",
-    "favorite": false,
-    "category": "system-administration",
-    "subcategory": [
-      "System Tool",
-      "Software Manager",
-      "Dependency Manager"
-    ],
-    "tags": [
-      "Source Code: GitHub",
-      "Type: Open-Source"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2024-05-01T14:29:41.279Z"
   },
   {
     "id": "1766201104",
@@ -549058,7 +548220,9 @@
       "Game Console Emulator"
     ],
     "tags": [],
-    "sourceCodeUrls": [],
+    "sourceCodeUrls": [
+      "https://gitlab.com/recalbox/recalbox"
+    ],
     "createdAt": "2022-11-12T02:05:24.403Z"
   },
   {
@@ -549370,28 +548534,10 @@
       "Disk Management"
     ],
     "tags": [],
-    "sourceCodeUrls": [],
+    "sourceCodeUrls": [
+      "https://github.com/rescuezilla/rescuezilla"
+    ],
     "createdAt": "2022-03-10T14:44:53.532Z"
-  },
-  {
-    "id": "670367251",
-    "title": "rescuezilla/rescuezilla · GitHub",
-    "url": "https://github.com/rescuezilla/rescuezilla",
-    "description": "The Swiss Army Knife of System Recovery. Contribute to rescuezilla/rescuezilla development by creating an account on GitHub.",
-    "domain": "github.com",
-    "cover": "https://opengraph.githubassets.com/e55b7b6bec61b85ea211ef04906f34aefdb92fbafc269c800df2e8f60766335c/rescuezilla/rescuezilla",
-    "favorite": false,
-    "category": "system-administration",
-    "subcategory": [
-      "Disk Management",
-      "Rescue Toolkit"
-    ],
-    "tags": [
-      "Source Code: GitHub",
-      "Type: Open-Source"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2023-10-30T17:10:15.625Z"
   },
   {
     "id": "542617851",
@@ -552538,7 +551684,9 @@
     "tags": [
       "OS Compatibility: Linux"
     ],
-    "sourceCodeUrls": [],
+    "sourceCodeUrls": [
+      "https://github.com/mvo5/synaptic"
+    ],
     "createdAt": "2022-03-12T03:05:21.315Z"
   },
   {
@@ -552560,27 +551708,6 @@
     ],
     "sourceCodeUrls": [],
     "createdAt": "2022-03-12T02:56:50.486Z"
-  },
-  {
-    "id": "419262559",
-    "title": "Synaptic Wiki · GitHub",
-    "url": "https://github.com/mvo5/synaptic",
-    "description": "The synaptic package manager. Contribute to mvo5/synaptic development by creating an account on GitHub.",
-    "domain": "github.com",
-    "cover": "https://opengraph.githubassets.com/bbb3c2af2eefcf7b0c636c9278d117674a2417c9c766da58bf9928d3f610e50d/mvo5/synaptic",
-    "favorite": false,
-    "category": "system-administration",
-    "subcategory": [
-      "System Tool",
-      "Software Manager",
-      "GUI Package Manager"
-    ],
-    "tags": [
-      "Source Code: GitHub",
-      "Type: Open-Source"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2022-07-20T00:32:05.142Z"
   },
   {
     "id": "287112902",
@@ -554832,7 +553959,9 @@
       "OS Translation Layer"
     ],
     "tags": [],
-    "sourceCodeUrls": [],
+    "sourceCodeUrls": [
+      "https://github.com/CypherpunkArmory/UserLAnd"
+    ],
     "createdAt": "2023-01-27T23:47:41.165Z"
   },
   {
@@ -555126,7 +554255,9 @@
       "Package Manager"
     ],
     "tags": [],
-    "sourceCodeUrls": [],
+    "sourceCodeUrls": [
+      "https://github.com/microsoft/vcpkg"
+    ],
     "createdAt": "2023-01-18T13:26:25.835Z"
   },
   {
@@ -558678,26 +557809,6 @@
     "createdAt": "2021-01-05T01:15:32.000Z"
   },
   {
-    "id": "585116576",
-    "title": "anvaka/city-roads: Visualization of all roads within any city",
-    "url": "https://github.com/anvaka/city-roads",
-    "description": "Visualization of all roads within any city. Contribute to anvaka/city-roads development by creating an account on GitHub.",
-    "domain": "github.com",
-    "cover": "https://repository-images.githubusercontent.com/234931559/89d97980-3aa4-11ea-9746-8da0ca4b98c7",
-    "favorite": false,
-    "category": "travel-and-location",
-    "subcategory": [
-      "Maps",
-      "Geographic Maps"
-    ],
-    "tags": [
-      "Source Code: GitHub",
-      "Type: Open-Source"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2023-06-04T22:59:12.230Z"
-  },
-  {
     "id": "304451175",
     "title": "Anyways.eu",
     "url": "https://www.anyways.eu/",
@@ -559366,7 +558477,9 @@
       "Mapping"
     ],
     "tags": [],
-    "sourceCodeUrls": [],
+    "sourceCodeUrls": [
+      "https://github.com/BlueMap-Minecraft/BlueMap"
+    ],
     "createdAt": "2024-02-29T13:35:09.060Z"
   },
   {
@@ -559385,7 +558498,9 @@
     "tags": [
       "Type: Open-Source"
     ],
-    "sourceCodeUrls": [],
+    "sourceCodeUrls": [
+      "https://github.com/BlueMap-Minecraft/BlueMap"
+    ],
     "createdAt": "2024-03-01T12:03:42.264Z"
   },
   {
@@ -560013,7 +559128,9 @@
     "tags": [
       "Page: GitHub"
     ],
-    "sourceCodeUrls": [],
+    "sourceCodeUrls": [
+      "https://github.com/anvaka/city-roads"
+    ],
     "createdAt": "2023-06-04T23:04:08.596Z"
   },
   {
@@ -565721,25 +564838,10 @@
       "Mapping"
     ],
     "tags": [],
-    "sourceCodeUrls": [],
-    "createdAt": "2022-09-24T18:03:04.769Z"
-  },
-  {
-    "id": "464064760",
-    "title": "mepo - SourceHut",
-    "url": "https://sr.ht/~mil/mepo/",
-    "description": "Fast, simple, and hackable OSM map viewer for Linux. Designed with the Pinephone & mobile linux in mind; works both offline and online.",
-    "domain": "sr.ht",
-    "cover": "https://media.lrdu.org/mepo_demos/mepo_demo_1.0_search.gif",
-    "favorite": false,
-    "category": "travel-and-location",
-    "subcategory": [
-      "Maps",
-      "Map Viewer"
+    "sourceCodeUrls": [
+      "https://sr.ht/~mil/mepo"
     ],
-    "tags": [],
-    "sourceCodeUrls": [],
-    "createdAt": "2022-10-28T01:00:29.636Z"
+    "createdAt": "2022-09-24T18:03:04.769Z"
   },
   {
     "id": "393511981",
@@ -573432,7 +572534,9 @@
     "category": "web-browsers",
     "subcategory": [],
     "tags": [],
-    "sourceCodeUrls": [],
+    "sourceCodeUrls": [
+      "https://github.com/plateaukao/einkbro"
+    ],
     "createdAt": "2025-04-09T20:47:45.767Z"
   },
   {
@@ -573854,7 +572958,9 @@
     "tags": [
       "Community: KDE"
     ],
-    "sourceCodeUrls": [],
+    "sourceCodeUrls": [
+      "https://invent.kde.org/network/konqueror"
+    ],
     "createdAt": "2022-04-14T13:51:02.750Z"
   },
   {
@@ -574247,26 +573353,6 @@
     "createdAt": "2021-01-22T19:43:17.000Z"
   },
   {
-    "id": "681482313",
-    "title": "Network / Konqueror · GitLab",
-    "url": "https://invent.kde.org/network/konqueror",
-    "description": "Web browser and Swiss Army knife for any kind of file management and previewing",
-    "domain": "invent.kde.org",
-    "cover": "https://invent.kde.org/network/konqueror/-/avatar",
-    "favorite": false,
-    "category": "web-browsers",
-    "subcategory": [
-      "Independent Browser"
-    ],
-    "tags": [
-      "Community: KDE",
-      "Source Code: GitLab",
-      "Type: Open-Source"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2023-11-19T23:18:57.112Z"
-  },
-  {
     "id": "665476449",
     "title": "NetworkChuck Cloud Browser",
     "url": "https://browser.networkchuck.com/",
@@ -574482,25 +573568,6 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2023-12-17T20:50:09.235Z"
-  },
-  {
-    "id": "1011373626",
-    "title": "plateaukao/einkbro: A small, fast web browser based on Android WebView. It's tailored for E-Ink devices but also works great on normal android devices.",
-    "url": "https://github.com/plateaukao/einkbro",
-    "description": "A small, fast web browser based on Android WebView. It's tailored for E-Ink devices but also works great on normal android devices. - plateaukao/einkbro",
-    "domain": "github.com",
-    "cover": "https://repository-images.githubusercontent.com/253150295/bd771200-d807-11eb-9281-a070d7ed8762",
-    "favorite": false,
-    "category": "web-browsers",
-    "subcategory": [
-      "Chromium-Based"
-    ],
-    "tags": [
-      "Source Code: GitHub",
-      "Type: Open-Source"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2025-04-09T20:47:26.203Z"
   },
   {
     "id": "1787716556",

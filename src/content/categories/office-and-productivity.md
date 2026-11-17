@@ -5,7 +5,7 @@ description: Note-taking, task management, bookmarking, calculators, translators
 
 # Office & Productivity
 
-**Total Bookmarks:** 1303
+**Total Bookmarks:** 1299
 
 - ⭐ **[Hotkey Cheatsheet](https://hotkeycheatsheet.com/)** — Improve Your Productivity with Keyboard Shortcuts
 - [Boosted](https://www.boostedproductivity.com/)
@@ -249,7 +249,7 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [Krayin](https://krayincrm.com/)
 - [Libredesk](https://libredesk.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/abhinavxd/libredesk) — Free and open-source customer support desk
 - [Micleo](https://micleo.com/) — The next-generation SaaS / CRM Starter Kit
-- [Monica](https://www.monicahq.com/)
+- [Monica](https://www.monicahq.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/monicahq/monica)
 - [Odoo](https://www.odoo.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/odoo/odoo) — Open Source ERP and CRM
 - [OneLogin](https://www.onelogin.com/) — Market-Leading Identity and Access Management Solutions
 - [Onigiri](https://onigiri.one/) — Platform for running your freelance business
@@ -325,7 +325,6 @@ description: Note-taking, task management, bookmarking, calculators, translators
 ## Contact Manager
 - [FossifyOrg/Contacts · GitHub](https://github.com/FossifyOrg/Contacts)
 - [FossifyOrg/Phone · GitHub](https://github.com/FossifyOrg/Phone)
-- [monicahq/monica · GitHub](https://github.com/monicahq/monica)
 - [noahm/contactful · GitHub](https://github.com/noahm/contactful)
 
 ## Data Tools
@@ -441,7 +440,6 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [Contador de Visitas](https://www.contadorvisitasgratis.com/)
 - [Counter](https://counter.dev/)
 - [Countly](https://count.ly/)
-- [Crater](https://crater.financial/) — Embedded Invoicing & Bill Pay for platforms
 - [Databox](https://databox.com/)
 - [Databricks IQ](https://www.databricks.com/product/data-intelligence-platform) — AI-Driven Analytics for Faster Data Insights
 - [DeepSource](https://deepsource.io/)
@@ -516,7 +514,7 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [ButterDevelop/CryptoJournal.Wpf · GitHub](https://github.com/ButterDevelop/CryptoJournal.Wpf)
 - [Cashew](https://cashewapp.web.app/)
 - [chvp/NanoLedger · GitHub](https://github.com/chvp/NanoLedger)
-- [crater-invoice/crater · GitHub](https://github.com/crater-invoice/crater)
+- [Crater](https://crater.financial/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/crater-invoice/crater) — Embedded Invoicing & Bill Pay for platforms
 - [Debit & Credit](https://debitandcredit.app/) — Personal finance for iOS, Mac and Apple Watch
 - [dreautall/waterfly-iii · GitHub](https://github.com/dreautall/waterfly-iii)
 - [Firefly III](https://firefly-iii.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/firefly-iii/firefly-iii)
@@ -626,7 +624,7 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [Twos](https://www.twosapp.com/home) — Be a Better You
 - [vishal2376/snaptick · GitHub](https://github.com/vishal2376/snaptick)
 - [Voklen/Daily-Diary · GitHub](https://github.com/Voklen/Daily-Diary)
-- [Wekan](https://wekan.github.io/) — Open-source janban
+- [Wekan](https://wekan.github.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/wekan/wekan) — Open-source janban
 
 ## Keep Things
 - [Capiche](https://capiche.com/)
@@ -785,7 +783,7 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [Private Notes](https://privatenotes.pro/)
 - [ProjectMeta.app](https://projectmeta.app/)
 - [Qept](https://www.qeptapp.com/) — The Fastest Way To Take Notes
-- [Quivr](https://www.quivr.app/) — Get a Second Brain with Generative AI
+- [Quivr](https://www.quivr.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/StanGirard/quivr) — Get a Second Brain with Generative AI
 - [RedNotebook](https://rednotebook.app/)
 - [Reflect Notes](https://reflect.app/)
 - [RemNote](https://www.remnote.com/)
@@ -883,7 +881,7 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [PDFescape](https://pdfescape.com/)
 - [pdfFiller](https://www.pdffiller.com/es)
 - [Polaris Office](https://www.polarisoffice.com/en)
-- [Scribus](https://www.scribus.net/)
+- [Scribus](https://www.scribus.net/) / [![SourceForge](/img/source-hosts/sourceforge.svg)](https://sourceforge.net/projects/scribus)
 - [Trelby.org](https://www.trelby.org/)
 - [winget-pkgs/Microsoft/Office · GitHub](https://github.com/microsoft/winget-pkgs/tree/master/manifests/m/Microsoft/Office)
 - [WordCraft](https://getartcraft.com/apps/wordcraft) / [![GitHub](/img/software/apps/github.svg)](https://github.com/storytold/wordcraft) — A fast, open-source word processor, rebuilt in pure Rust.
@@ -1077,7 +1075,6 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [Freehand by InVision](https://www.freehandapp.com/) — The All-in-One Visual Collaboration Workspace
 - [Gmelius](https://gmelius.com/)
 - [Google Workspace](https://workspace.google.com/)
-- [hackmdio/codimd · GitHub](https://github.com/hackmdio/codimd)
 - [Hive](https://hive.com/) — Manage projects faster & collaborate better
 - [Instant](https://www.instantdb.com/)
 - [IsmaelMartinez/teams-for-linux · GitHub](https://github.com/IsmaelMartinez/teams-for-linux)
@@ -1184,7 +1181,6 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [tillywork](https://tilly.work/) — Work management for all your teams
 - [TIMIFY](https://www.timify.com/en-gb)
 - [Walling](https://walling.app/) — Organize & Present Your Ideas
-- [wekan/wekan · GitHub](https://github.com/wekan/wekan)
 - [Worklog](https://regisx001.github.io/Worklog/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/regisx001/Worklog/) — Local-first Desktop Project Manager
 - [Wrike](https://www.wrike.com/)
 - [Wrike](https://www.wrike.com/vx/) — Versatile & Robust Project Management Software

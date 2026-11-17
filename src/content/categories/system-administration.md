@@ -5,7 +5,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 
 # System Administration
 
-**Total Bookmarks:** 1538
+**Total Bookmarks:** 1534
 
 - [osquery](https://osquery.io/)
 - [PIVPN](https://pivpn.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/pivpn/pivpn) — Simplest way to setup a VPN
@@ -22,7 +22,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 ## Automation Software
 - [Auto shutdown](https://www.drivermagician.com/autoshutdown)
 - [AutoIt](https://www.autoitscript.com/site)
-- [Automa](https://extension.automa.site/) — An extension for browser automation
+- [Automa](https://extension.automa.site/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/AutomaApp/automa) — An extension for browser automation
 - [Automate for Android ⋅ LlamaLab](https://llamalab.com/automate/)
 - [Autoruns for Windows](https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns) — Sysinternals
 - [Boilerplates](https://getboilerplates.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/ChristianLempa/boilerplates) — Something big is coming.
@@ -158,7 +158,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [PartedMagic](https://partedmagic.com/) — Partitioning, Cloning, Rescue, and Erasing
 - [Partimage](https://www.partimage.org/)
 - [QDirStat](https://github.com/shundhammer/qdirstat)
-- [Rescuezilla](https://rescuezilla.com/)
+- [Rescuezilla](https://rescuezilla.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/rescuezilla/rescuezilla)
 - [smartmontools](https://www.smartmontools.org/browser#trunk) — index
 - [Super Grub Disk](https://www.supergrubdisk.org/)
 - [TreeSieze](https://appnee.com/treesize/) — Visual Disk
@@ -193,7 +193,6 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [Gandalf’s Windows 10PE](http://windowsmatters.com/)
 - [Hiren Boot CD](https://www.hiren.info/)
 - [Hiren's BootCD](https://www.hirensbootcd.org/)
-- [rescuezilla/rescuezilla · GitHub](https://github.com/rescuezilla/rescuezilla)
 - [SystemRescue](https://www.system-rescue.org/)
 - [SystemRescue / systemrescue-sources · GitLab](https://gitlab.com/systemrescue/systemrescue-sources)
 - [Ultimate Boot CD](https://www.ultimatebootcd.com/)
@@ -418,7 +417,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 ### OS Translation Layer
 - [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) — Tool for automatic PS5 executables porting to Linux and Windows
 - [ptitSeb/box64 · GitHub](https://github.com/ptitSeb/box64)
-- [Userland](https://userland.tech/) — Use Linux Anywhere
+- [Userland](https://userland.tech/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/CypherpunkArmory/UserLAnd) — Use Linux Anywhere
 
 #### Linux Translation Layer
 - [Cygwin](https://www.cygwin.com/)
@@ -551,7 +550,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [Provenance Emu](https://provenance-emu.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Provenance-Emu/Provenance)
 - [PS2 Emulator](https://pcsx2.net/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/PCSX2/pcsx2)
 - [PSemuX](https://psemux.com/) — PS5 Emulator for PC/Mac
-- [Recalbox](https://www.recalbox.com/)
+- [Recalbox](https://www.recalbox.com/) / [![GitLab](/img/source-hosts/gitlab.svg)](https://gitlab.com/recalbox/recalbox)
 - [red-prig/fpPS4](https://github.com/red-prig/fpPS4) — PS4 compatibility layer (emulator) on Free Pascal
 - [redream](https://redream.io/) — Dreamcast Emulator
 - [RetroPie](https://retropie.org.uk/)
@@ -693,7 +692,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) — The next-generation ad blocker for Safari.
 - [Ablock Origin](https://adblockorigin.com/)
 - [ACK-J/Port_Authority](https://github.com/ACK-J/Port_Authority) — Blocks websites from using javascript to port scan your computer/network and dynamically blocks all LexisNexis endpoints from running their invasive data collection scripts.
-- [AdBlitz](https://ad-blitz.vercel.app/) — Turbocharge Your YouTube Experience
+- [AdBlitz](https://ad-blitz.vercel.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/dikshantrajput/adBlitz) — Turbocharge Your YouTube Experience
 - [Adblock](https://getadblock.com/)
 - [Adblock Plus](https://adblockplus.org/)
 - [AdBlocker Ultimate](https://adblockultimate.net/)
@@ -730,7 +729,6 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [Cloudflare WARP client](https://developers.cloudflare.com/warp-client/)
 - [cURL](https://curl.se/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/curl/curl) — CLI and library
 - [DHCPd](https://roy.marples.name/projects/dhcpcd)
-- [Kong/kong · GitHub](https://github.com/Kong/kong)
 - [Maestral](https://maestral.app/)
 - [meganz/MEGAsync · GitHub](https://github.com/meganz/MEGAsync)
 - [mozilla-services/syncstorage-rs · GitHub](https://github.com/mozilla-services/syncstorage-rs)
@@ -755,7 +753,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [Hypergraph](https://hygraph.com/) — The Next Generation GraphQL Content Platform
 - [Insomnia](https://insomnia.rest/) — The Collaborative API Development Platform
 - [Keras](https://keras.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/keras-team/keras) — Deep Learning for humans
-- [Kong](https://konghq.com/) — Become an API-first company
+- [Kong](https://konghq.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Kong/kong) — Become an API-first company
 - [Kreya](https://kreya.app/) — The ultimate gRPC and REST client
 - [Merriam-Webster Dictionary API](https://www.dictionaryapi.com/)
 - [mgp25/RAE-API · GitHub](https://github.com/mgp25/RAE-API)
@@ -1418,7 +1416,6 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) — A node.js version management utility for Windows. Ironically written in Go.
 - [dependabot/dependabot-core · GitHub](https://github.com/dependabot/dependabot-core)
 - [dnvm](https://dnvm.net/) — the dotnet version manager
-- [microsoft/vcpkg](https://github.com/microsoft/vcpkg) — C++ Library Manager for Windows, Linux, and MacOS
 - [mise-en-place](https://mise.jdx.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/jdx/mise) — Development tools, environments, and tasks
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) — Node Version Manager
 - [rbenv](https://rbenv.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/rbenv/rbenv) — the Ruby version manager
@@ -1456,7 +1453,6 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [shundhammer/myrlyn](https://github.com/shundhammer/myrlyn) — Myrlyn package manager GUI for Linux
 - [Sparkle project](https://sparkle-project.org/)
 - [SUMo](https://kcsoftwares.com/index.php?sumo) — KC Softwares
-- [Synaptic Wiki · GitHub](https://github.com/mvo5/synaptic)
 - [TuxMate](https://tuxmate.com/) — LINUX BULK APP INSTALLER
 - [ubuntu/app-center · GitHub](https://github.com/ubuntu/app-center)
 - [UbuntuDDE/dde-store · GitHub](https://github.com/UbuntuDDE/dde-store)
@@ -1533,14 +1529,14 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [Rye](https://rye-up.com/)
 - [Scoop.sh](https://scoop.sh/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/ScoopInstaller/Scoop)
 - [Soar docs](https://soar.qaidvoid.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/pkgforge/soar) — Package manager
-- [Synaptic (DEB, RPM)](https://pkgs.org/download/synaptic)
+- [Synaptic (DEB, RPM)](https://pkgs.org/download/synaptic) / [![GitHub](/img/software/apps/github.svg)](https://github.com/mvo5/synaptic)
 - [Synaptic Package Manager](https://www.nongnu.org/synaptic/)
 - [The Cargo Book](https://doc.rust-lang.org/stable/cargo/) — Rust package manager
 - [Timoni](https://timoni.sh/)
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) — Upgrade all the things
 - [UPM](https://github.com/replit/upm) — Replit
 - [Vanilla-OS/apx · GitHub](https://github.com/Vanilla-OS/apx)
-- [vcpkg](https://vcpkg.io/en/index.html) — Open source C/C++ dependency manager from Microsoft
+- [vcpkg](https://vcpkg.io/en/index.html) / [![GitHub](/img/software/apps/github.svg)](https://github.com/microsoft/vcpkg) — Open source C/C++ dependency manager from Microsoft
 - [volitank/nala · GitHub](https://github.com/volitank/nala)
 - [Wapitiii/WSAppBak](https://github.com/Wapitiii/WSAppBak) — APPX Backupper and Repacker
 - [wimpysworld/deb-get · GitHub](https://github.com/wimpysworld/deb-get)

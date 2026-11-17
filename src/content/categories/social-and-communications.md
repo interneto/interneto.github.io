@@ -5,7 +5,7 @@ description: Email, messaging, forums, social networks, and video conferencing
 
 # Social & Communications
 
-**Total Bookmarks:** 1377
+**Total Bookmarks:** 1371
 
 
 ## 2FA
@@ -51,7 +51,7 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [Chatto](https://chatto.run/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/chattocorp/chatto) — Self-hostable team chat
 - [Choqok](https://choqok.kde.org/)
 - [Cinny](https://cinny.in/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/cinnyapp/cinny)
-- [Conduit](https://conduit.rs/) — Your own chat server
+- [Conduit](https://conduit.rs/) / [![GitLab](/img/source-hosts/gitlab.svg)](https://gitlab.com/famedly/conduit) — Your own chat server
 - [diamondburned/gtkcord4 · GitHub](https://github.com/diamondburned/gtkcord4)
 - [Dino. Communicating happiness.](https://dino.im/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/dino/dino)
 - [Fedilab](https://fedilab.app/)
@@ -199,7 +199,7 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [μTorrent](https://www.utorrent.com/)
 
 #### Usenet Client
-- ⭐ **[Medusa](https://pymedusa.com/)**
+- ⭐ **[Medusa](https://pymedusa.com/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/pymedusa/Medusa)
 - ⭐ **[SickChill](https://sickchill.github.io/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/SickChill/sickchill)
 - [animetosho/Nyuu · GitHub](https://github.com/animetosho/Nyuu)
 - [Bazarr](https://www.bazarr.media/)
@@ -216,7 +216,7 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [rembo10/headphones](https://github.com/rembo10/headphones) — music downloader for SABnzbd
 - [SABnzbd](https://sabnzbd.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/sabnzbd/sabnzbd)
 - [SchizoDuckie/DuckieTV · GitHub](https://github.com/SchizoDuckie/DuckieTV)
-- [SiCKRAGE](https://www.sickrage.ca/)
+- [SiCKRAGE](https://www.sickrage.ca/) / [🔗](https://git.sickrage.ca/SiCKRAGE/sickrage)
 - [theotherp/nzbhydra2](https://github.com/theotherp/nzbhydra2) — Usenet meta search
 - [Whisparr](https://whisparr.com/)
 
@@ -444,9 +444,7 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [GitHub](https://github.com/Phoenixx1202/Spectrum-Library) — Phoenixx1202/Spectrum-Library · GitHub
 - [Lidarr](https://lidarr.audio/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Lidarr/Lidarr)
 - [Prowlarr](https://prowlarr.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Prowlarr/Prowlarr)
-- [pymedusa/Medusa · GitHub](https://github.com/pymedusa/Medusa)
 - [Radarr.video](https://radarr.video/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Radarr/Radarr)
-- [SiCKRAGE / sickrage · GitLab](https://git.sickrage.ca/SiCKRAGE/sickrage)
 - [TRaSH-/Guides · GitHub](https://github.com/TRaSH-/Guides)
 - [Whisparr](https://whisparr.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Whisparr/Whisparr)
 
@@ -648,21 +646,18 @@ description: Email, messaging, forums, social networks, and video conferencing
 ### Decentralized Networks
 - ⭐ **[Fediverse](https://fediverse.party/en/miscellaneous)** — All networks
 - [~mediagoblin/mediagoblin · SourceHut](https://git.sr.ht/~mediagoblin/mediagoblin)
-- [~tsileo/microblog.pub · SourceHut](https://git.sr.ht/~tsileo/microblog.pub/)
 - [ActivityPub Rocks!](https://activitypub.rocks/)
 - [Aether](https://getaether.net/)
 - [Akkoma](https://akkoma.social/) — Magically Expressive Social Media
 - [cohost!](https://cohost.org/rc/welcome)
 - [Confidential Compute Open Network](https://cocoon.org/)
 - [Contentos.io](https://www.contentos.io/)
-- [coracle-social/coracle · GitHub](https://github.com/coracle-social/coracle)
 - [Corteza](https://cortezaproject.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/cortezaproject/corteza) — Low-code app
 - [Diaspora](https://joindiaspora.com/)
 - [Diaspora](https://diasporafoundation.org/)
 - [Diaspora social](https://diasp.org/)
 - [Distributed social networking](https://en.wikipedia.org/wiki/Comparison_of_software_and_protocols_for_distributed_social_networking)
 - [DTF.ru](https://dtf.ru/)
-- [Famedly / Conduit · GitLab](https://gitlab.com/famedly/conduit)
 - [Fediverse](https://en.wikipedia.org/wiki/Fediverse)
 - [Fediverse Observer](https://fediverse.observer/)
 - [Fediverse.Party](https://fediverse.party/) — explore federated networks
@@ -683,7 +678,7 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [Hubzilla](https://hubzilla.org/page/info/discover)
 - [hubzilla / core · GitLab](https://framagit.org/hubzilla/core)
 - [Immers Space](https://web.immers.space/)
-- [Inventaire](https://inventaire.io/welcome) — your friends and communities are your best library
+- [Inventaire](https://inventaire.io/welcome) / [![GitHub](/img/software/apps/github.svg)](https://github.com/inventaire/inventaire) — your friends and communities are your best library
 - [Join the Fediverse](https://jointhefedi.com/)
 - [JUNTO Foundation](https://junto.foundation/)
 - [Kune.cc](https://kune.cc/)
@@ -1272,7 +1267,7 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [Bonfire](https://bonfirenetworks.org/)
 - [Bookwyrm](https://joinbookwyrm.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/bookwyrm-social/bookwyrm)
 - [Cent](https://beta.cent.co/~discover)
-- [Coracle](https://info.coracle.social/)
+- [Coracle](https://info.coracle.social/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/coracle-social/coracle)
 - [CounterSocial](https://counter.social/index.html)
 - [diaspora-fr](https://diaspora-fr.org/)
 - [Douyin (TikTok)](https://www.douyin.com/recommend)
@@ -1282,7 +1277,7 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [Lectrn](https://lectrn.com/)
 - [Lilt](https://lilt.social/)
 - [Manyverse](https://www.manyver.se/) — a social network off the grid
-- [microblog.pub](https://microblog.pub/)
+- [microblog.pub](https://microblog.pub/) / [![SourceHut](/img/source-hosts/sourcehut.svg)](https://git.sr.ht/~tsileo/microblog.pub)
 - [Minds](https://www.minds.com/) — Social network
 - [Misskey Hub](https://misskey-hub.net/en/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/misskey-dev/misskey)
 - [mixi](https://mixi.jp/)
@@ -1380,7 +1375,6 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [Startupy](https://beta.startupy.world/)
 
 ### Social Net (frontend)
-- [bibliogram · SourceHut](https://sr.ht/~cadence/bibliogram/)
 - [digitalblossom/alternative-frontends · GitHub](https://github.com/digitalblossom/alternative-frontends)
 - [Farside](https://farside.link/) / [![SourceHut](/img/source-hosts/sourcehut.svg)](https://sr.ht/~benbusby/farside)
 - [FOSS Front-Ends social networks](https://www.funkyspacemonkey.com/foss-front-ends-and-alternatives-for-twitter-instagram-reddit-youtube-and-more)

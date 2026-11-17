@@ -5,7 +5,7 @@ description: Search engines, web directories, software directories, corporations
 
 # Online Services
 
-**Total Bookmarks:** 5769
+**Total Bookmarks:** 5765
 
 
 ## Biography
@@ -3485,7 +3485,6 @@ description: Search engines, web directories, software directories, corporations
 #### Podcast Platform
 - ⭐ **[iVoox](https://www.ivoox.com/)** — La plataforma líder de podcast en español
 - [Acast](https://acast.com/)
-- [Ad Aures / Castopod · GitLab](https://code.castopod.org/adaures/castopod)
 - [Anchor](https://anchor.fm/)
 - [Apple Podcasts](https://podcasts.apple.com/us/browse)
 - [BlogTalkRadio](https://www.blogtalkradio.com/)
@@ -3929,7 +3928,6 @@ description: Search engines, web directories, software directories, corporations
 - [Gyazo](https://gyazo.com/)
 - [Make A Gif](https://makeagif.com/)
 - [Online GIF Tools](https://onlinegiftools.com/) — Simple, free and easy to use GIF utilities
-- [sindresorhus/Gifski · GitHub](https://github.com/sindresorhus/Gifski)
 
 #### Image Hosting
 - [Cubeupload](https://cubeupload.com/)
@@ -4346,7 +4344,7 @@ description: Search engines, web directories, software directories, corporations
 - [LoremIpsum.io](https://loremipsum.io/)
 - [Meta Redux](https://metaredux.com/)
 - [Mimo](https://mimo.org/) — Learn to Code in Python, JavaScript, HTML, CSS, & more
-- [Modernizr](https://modernizr.com/)
+- [Modernizr](https://modernizr.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/modernizr/modernizr)
 - [Patterns.dev](https://www.patterns.dev/)
 - [PHP Link Directory](https://www.phplinkdirectory.com/)
 - [Refactoring UI](https://www.refactoringui.com/)
@@ -4392,7 +4390,6 @@ description: Search engines, web directories, software directories, corporations
 - [RunKit is Node prototyping](https://runkit.com/home)
 - [ScriptPad](https://scriptpad.dev/)
 - [Tinkerwell](https://tinkerwell.app/)
-- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) — Trigger.dev is the open source background jobs platform.
 - [Visual Studio Code](https://vscode.dev/) — Web dev
 - [workbenchdev/Workbench · GitHub](https://github.com/workbenchdev/Workbench)
 
@@ -4568,7 +4565,6 @@ description: Search engines, web directories, software directories, corporations
 - [Idocpub](https://idoc.pub/)
 - [KUPDF](https://kupdf.net/)
 - [Magzter](https://www.magzter.com/)
-- [mfts/papermark · GitHub](https://github.com/mfts/papermark)
 - [OPDS](https://opds.io/) — A standard for digital content distribution
 - [PDFCOFFEE.COM](https://pdfcoffee.com/) — Upload as much as you need! Unlimited volume of uploaded files
 - [PDFHost.net](https://www.pdfhost.net/)
@@ -5591,7 +5587,7 @@ description: Search engines, web directories, software directories, corporations
 - [DottedSign](https://www.dottedsign.com/) — Sign Documents Online
 - [OpenSign](https://www.opensignlabs.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/OpenSignLabs/OpenSign) — The Free & OpenSource Alternative to Docusign
 - [PAe CTT](https://administracionelectronica.gob.es/ctt/verPestanaGeneral.htm?idIniciativa=clienteafirma) / [![GitHub](/img/software/apps/github.svg)](https://github.com/ctt-gob-es/clienteafirma) — Cliente de firma electrónica de @firma
-- [Papermark](https://www.papermark.io/) — The Open Source DocSend Alternative
+- [Papermark](https://www.papermark.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/mfts/papermark) — The Open Source DocSend Alternative
 - [SignRequest](https://signrequest.com/#/)
 - [Sproof sign](https://www.sproof.io/en) — The fastest way to digital signatures
 
@@ -5714,7 +5710,7 @@ description: Search engines, web directories, software directories, corporations
 - [Tumbex (Tumblr viewer)](https://www.tumbex.com/)
 
 #### Instagram Viewer
-- [Bibliogram](https://bibliogram.art/)
+- [Bibliogram](https://bibliogram.art/) / [![SourceHut](/img/source-hosts/sourcehut.svg)](https://sr.ht/~cadence/bibliogram)
 - [davidarroyo1234/InstagramUnfollowers](https://github.com/davidarroyo1234/InstagramUnfollowers) — Check if people follows you back on Instagram
 - [Gramhir.com](https://gramhir.com/)
 - [Gramho](https://gramho.com/)

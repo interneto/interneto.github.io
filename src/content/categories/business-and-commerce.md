@@ -5,7 +5,7 @@ description: Stores, marketplaces, product research, and resale
 
 # Business & Commerce
 
-**Total Bookmarks:** 5128
+**Total Bookmarks:** 5127
 
 
 ## Corporation
@@ -4026,7 +4026,6 @@ description: Stores, marketplaces, product research, and resale
 - [EHang](https://www.ehang.com/)
 - [Freefly Systems](https://freeflysystems.com/)
 - [Kespry](https://kespry.com/)
-- [mavlink/qgroundcontrol · GitHub](https://github.com/mavlink/qgroundcontrol)
 - [Ouster](https://ouster.com/)
 - [Parrot](https://www.parrot.com/us/)
 - [Parrot](https://www.parrot.com/en)

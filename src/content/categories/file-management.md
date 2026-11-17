@@ -5,7 +5,7 @@ description: File sharing, downloaders, torrents, and cloud storage
 
 # File Management
 
-**Total Bookmarks:** 938
+**Total Bookmarks:** 936
 
 
 ## Backup
@@ -234,7 +234,6 @@ description: File sharing, downloaders, torrents, and cloud storage
 - ⭐ **[Morse Code Translator](https://morsecodeapp.com/)** — Morse to Text – Text to Morse Code
 - [Adaptive Video Encoder](https://adaptive-encoder.com/)
 - [axiomatic-systems/Bento4 · GitHub](https://github.com/axiomatic-systems/Bento4)
-- [cisco/openh264 · GitHub](https://github.com/cisco/openh264)
 - [fkinoshita/Telegraph](https://github.com/fkinoshita/Telegraph) — Write and decode morse
 - [KDE Utilities](https://utils.kde.org/)
 - [Universal Encoding Tool](https://unenc.com/)
@@ -326,7 +325,7 @@ description: File sharing, downloaders, torrents, and cloud storage
 - [Game Extractor](https://sourceforge.net/projects/gameextractor/)
 - [Ghostscript](https://community.chocolatey.org/packages/Ghostscript.app)
 - [Gifsicle](https://www.lcdf.org/gifsicle/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/kohler/gifsicle) — Command-Line Animated GIFs
-- [gifski](https://gif.ski/) — highest-quality GIF converter
+- [gifski](https://gif.ski/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/sindresorhus/Gifski) — highest-quality GIF converter
 - [GraphicsMagick](https://sourceforge.net/projects/graphicsmagick/) — SourceForge
 - [HEIC for JPG](https://www.heicforjpg.com/)
 - [Heic to JPEG](https://heictojpg.com/)
@@ -443,7 +442,6 @@ description: File sharing, downloaders, torrents, and cloud storage
 - [Image Compressor](https://www.imagecompresser.com/)
 - [Image Compressor](https://www.imagecompressor.net/)
 - [ImageCompressor.io](https://imagecompressor.io/)
-- [ImageOptim/ImageOptim · GitHub](https://github.com/ImageOptim/ImageOptim)
 - [Img2Go](https://www.img2go.com/)
 - [Imgbot](https://imgbot.net/) — Automatic image compression
 - [JPEG.rocks](https://jpeg.rocks/)
@@ -463,7 +461,7 @@ description: File sharing, downloaders, torrents, and cloud storage
 
 #### Image Resizer
 - [Easy Resize](https://www.easy-resize.com/en/)
-- [ImageOptim](https://imageoptim.com/api)
+- [ImageOptim](https://imageoptim.com/api) / [![GitHub](/img/software/apps/github.svg)](https://github.com/ImageOptim/ImageOptim)
 - [imgproxy](https://imgproxy.net/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/imgproxy/imgproxy) — fast and secure on-the-fly image processing
 - [imgto.xyz](https://imgto.xyz/) — Free Image Optimization Toolkit
 - [Online Image Resizer](https://online-image-resizer.com/)

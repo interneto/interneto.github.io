@@ -5,7 +5,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 
 # Multimedia
 
-**Total Bookmarks:** 2336
+**Total Bookmarks:** 2324
 
 
 ## Audio & Music
@@ -226,7 +226,6 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex) — PersonaPlex code.
 - [Open Voices](https://www.openvoiceos.org/)
 - [ProperCode/Work-by-Speech](https://github.com/ProperCode/Work-by-Speech?tab=readme-ov-file) — Windows app which allows efficient work on a computer by speech alone.
-- [rhasspy/rhasspy](https://github.com/rhasspy/rhasspy) — Offline private voice assistant for many human languages
 - [Switchboard](https://switchboard.audio/hub/voice-control-on-device-ai/?utm_source=chatgpt.com) — Offline Voice Control: Building a Hands-Free Mobile App with On-Device AI
 - [Talon voice](https://talonvoice.com/)
 - [Voicemod](https://www.voicemod.net/)
@@ -257,7 +256,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [Doninn](http://www.doninn.com/)
 - [EASE Focus](https://focus.afmg.eu/)
 - [Ecasound](http://eca.cx/ecasound/) — multitrack audio processing tool
-- [FamiStudio](https://famistudio.org/) — NES Music Editor
+- [FamiStudio](https://famistudio.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/BleuBleu/FamiStudio) — NES Music Editor
 - [Flacon](https://flacon.github.io/) — Audio File Encoder
 - [Flex Pitch](https://www.freebernmusic.com/flex-pitch)
 - [Frinika](https://frinika.com/)
@@ -337,7 +336,6 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - ⭐ **[Bespoke Synth](https://www.bespokesynth.com/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/BespokeSynth/BespokeSynth/)
 - [amsynth](https://amsynth.github.io/)
 - [awwbees/BespokeSynth · GitHub](https://github.com/awwbees/BespokeSynth/)
-- [BleuBleu/FamiStudio](https://github.com/BleuBleu/FamiStudio) — FamiStudio NES Music Editor
 - [CsoundQt](https://csoundqt.github.io/)
 - [davy7125/polyphone · GitHub](https://github.com/davy7125/polyphone)
 - [DISTRHO/Cardinal](https://github.com/DISTRHO/Cardinal) — Virtual modular synthesizer plugin
@@ -618,7 +616,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 #### Podcast Client
 - [AntennaPod](https://antennapod.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/AntennaPod/AntennaPod) — The Open Podcast Player
 - [audiobookshelf](https://www.audiobookshelf.org/)
-- [Castopod](https://castopod.org/) — Podcast Host
+- [Castopod](https://castopod.org/) / [🔗](https://code.castopod.org/adaures/castopod) — Podcast Host
 - [gPodder](https://gpodder.github.io/)
 - [Multimedia / Kasts · GitLab](https://invent.kde.org/multimedia/kasts)
 - [Podcasts](https://podcasts.bluepill.life/) — A Free Podcast Player Browser Extension
@@ -937,7 +935,6 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [Affinity Publisher](https://affinity.serif.com/en-us/publisher/) — Page Layout & Design Software
 - [Marq (formerly Lucidpress)](https://www.marq.com/) — Brand Enablement Software
 - [QuarkXPress](https://www.quark.com/products/QuarkXPress) — Desktop Publishing Software & Page Layout Software
-- [Scribus](https://sourceforge.net/projects/scribus/) — SourceForge
 - [VivaDesigner](https://viva.systems/designer/) — desktop, server & web-based publishing program
 
 #### EDA
@@ -963,7 +960,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [Clip Studio Paint](https://www.clipstudio.net/en/)
 - [Corel Painter](https://www.painterartist.com/en/) — Photo Painting
 - [ibisPaint](https://ibispaint.com/) — Draw and Paint app
-- [KolourPaint](http://www.kolourpaint.org/) — KDE
+- [KolourPaint](http://www.kolourpaint.org/) / [🔗](https://invent.kde.org/graphics/kolourpaint) — KDE
 - [Lazy Nezumi Pro](https://lazynezumi.com/)
 - [Lunacy](https://icons8.com/lunacy) — Icons8
 - [MediBang Paint](https://medibangpaint.com/en/)
@@ -1002,11 +999,8 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [Bestsnip animation](https://bestsnip.com/animation)
 - [Draw Cafe](https://draw.cafe/d/OzMbHqIyooijwC8gnWYJ)
 - [GitHub](https://github.com/Catrobat/Paintroid) — Catrobat/Paintroid
-- [Graphics / KolourPaint · GitLab](https://invent.kde.org/graphics/kolourpaint)
-- [Graphics / Krita · GitLab](https://invent.kde.org/graphics/krita)
 - [Inspirograph](https://nathanfriend.io/inspirograph)
 - [ItsPaint](https://itspaintmac.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/joshlin2201/itspaint) — MS Paint for Mac, free and open source
-- [KDE/krita · GitHub](https://github.com/KDE/krita)
 - [Koalas to the Max](http://www.koalastothemax.com/)
 - [Let's String](https://letsstring.store/) — String art from any of your photo
 - [MandalaGaba](https://www.mandalagaba.com/#pH05il)
@@ -1025,7 +1019,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - ⭐ **[Adobe Photoshop](https://www.adobe.com/products/photoshop.html)** — Photo & Design software
 - ⭐ **[Affinity Photo](https://affinity.serif.com/en-us/photo/)** — photo editing software
 - ⭐ **[Edit.photo](https://edit.photo/)**
-- ⭐ **[GIMP](https://www.gimp.org/)**
+- ⭐ **[GIMP](https://www.gimp.org/)** / [![GitLab](/img/source-hosts/gitlab.svg)](https://gitlab.gnome.org/GNOME/gimp)
 - ⭐ **[Graphite](https://graphite.rs/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/GraphiteEditor/Graphite) — Web-based vector graphics editor and design tool
 - ⭐ **[miniPaint · GitHub](https://viliusle.github.io/miniPaint/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/viliusle/miniPaint)
 - ⭐ **[Photomosh](https://photomosh.com/)**
@@ -1147,8 +1141,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [Drawpile](https://drawpile.net/)
 - [fs-extra](https://www.npmjs.com/package/fs-extra) — npm
 - [Gimel Studio](https://gimelstudio.github.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/GimelStudio/GimelStudio)
-- [GNOME / GIMP · GitLab](https://gitlab.gnome.org/GNOME/gimp)
-- [Krita](https://krita.org/en/) — Digital Painting
+- [Krita](https://krita.org/en/) / [🔗](https://invent.kde.org/graphics/krita), [![GitHub](/img/software/apps/github.svg)](https://github.com/KDE/krita) — Digital Painting
 - [Leonardo](https://www.getleonardo.com/) — The best drawing & painting app for Windows
 - [maoschanz/drawing](https://github.com/maoschanz/drawing) — Simple image editor for Linux
 - [MediBang Paint](https://play.google.com/store/apps/details?id=com.medibang.android.paint.tablet) — Google Play
@@ -2028,7 +2021,6 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [Go2TV](https://go2tv.app/) — Media Casting Made Easy
 - [InstantBits](https://www.webvideocaster.app/home)
 - [jqssun/android-airplay-server](https://github.com/jqssun/android-airplay-server) — First open-source AirPlay receiver implementation for Android with mirroring, video and audio support
-- [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) — Self-hosted game stream host for Moonlight
 - [LocalCast](https://www.localcast.app/) — Free Media Casting App
 - [Mirrcast Tv](https://mirrcast.com/)
 - [Moonlight Game Streaming](https://moonlight-stream.org/) — Play Your PC Games Remotely
@@ -2050,7 +2042,6 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - ⭐ **[Emby](https://emby.media/)** — The open media solution
 - ⭐ **[Jellyfin](https://jellyfin.org/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/jellyfin/jellyfin) — The Free Software Media System
 - ⭐ **[Plex.tv](https://www.plex.tv/)** — Stream movies and TV shows
-- [avery42/delfin](https://codeberg.org/avery42/delfin) — Codeberg.org
 - [eleven-am/frames](https://github.com/Eleven-am/frames) — Frames is a modern SVOD (Streaming Video on Demand) streaming service built with React and NestJS. It allows you to stream MP4 files from virtually any provider including local storage, S3, Dropbox, Google Drive, and more.
 - [Gerbera](https://gerbera.io/)
 - [Kaleidescape](https://www.kaleidescape.com/) — The Ultimate Movie Platform
@@ -2065,7 +2056,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [Streama](https://docs.streama-project.com/)
 - [streamaserver/Streama · GitHub](https://github.com/streamaserver/streama)
 - [Stremio/stremio-core · GitHub](https://github.com/Stremio/stremio-core)
-- [Sunshine](https://app.lizardbyte.dev/Sunshine/) — LizardByte
+- [Sunshine](https://app.lizardbyte.dev/Sunshine/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/LizardByte/Sunshine) — LizardByte
 - [TVersity Media Server](http://tversity.com/)
 - [Tvheadend.org](https://tvheadend.org/)
 - [Universal Media Server](https://www.universalmediaserver.com/)
@@ -2211,7 +2202,6 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [Picture Pulse](https://picture-pulse.sellfy.store/)
 - [Rebaslight](https://www.rebaslight.com/)
 - [Smoke](https://www.autodesk.com/products/smoke/overview) — Autodesk
-- [splashmapper / splash · GitLab](https://gitlab.com/splashmapper/splash)
 - [Talos VFX](https://talosvfx.com/)
 - [TimelineFX](http://www.rigzsoft.co.uk/timelinefx-particle-effects-editor/)
 - [VFX Reference Platform](https://vfxplatform.com/)
@@ -2219,7 +2209,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 
 ### Video Client
 - ⭐ **[Alex313031/quark-player](https://github.com/Alex313031/quark-player)** — An Electron based Web Video Services Player, supporting Netflix, Youtube, Twitch, Floatplane, Hulu and More!
-- ⭐ **[Grayjay](https://grayjay.app/)** — Follow Creators, Not Platforms
+- ⭐ **[Grayjay](https://grayjay.app/)** / [![GitLab](/img/source-hosts/gitlab.svg)](https://gitlab.futo.org/videostreaming/grayjay) — Follow Creators, Not Platforms
 - ⭐ **[PlayTorrio](https://playtorrio.xyz/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/ayman708-UX/PlayTorrioV2) — Open-Source by Ayman
 - ⭐ **[Stremio](https://www.stremio.com/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/stremio) — Freedom to Stream
 - [AbleMusic](https://uditkarode.github.io/able/)
@@ -2227,7 +2217,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [Benexl/yt-x](https://github.com/Benexl/yt-x) — Browse youtube from your terminal
 - [cuynu/ytvanced · GitHub](https://github.com/cuynu/ytvanced)
 - [d-k-bo/televido](https://github.com/d-k-bo/televido) — Access German-language public broadcasting live streams and archives on the Linux Desktop
-- [Delfin](https://delfin.avery.cafe/) — Jellyfin client
+- [Delfin](https://delfin.avery.cafe/) / [![Codeberg](/img/source-hosts/codeberg.svg)](https://codeberg.org/avery42/delfin) — Jellyfin client
 - [Fly Stream](https://flystream.net/) — Free Movies & TV, No Login
 - [jellyfin/jellyfin-mpv-shim · GitHub](https://github.com/jellyfin/jellyfin-mpv-shim)
 - [Leonflix](https://leonflix.net/)
@@ -2511,7 +2501,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [RealPlayer](https://www.real.com/es)
 - [shinchiro/mpv-winbuild-cmake](https://github.com/shinchiro/mpv-winbuild-cmake) — CMake-based MinGW-w64 Cross Toolchain
 - [SMPlayer](https://www.smplayer.info/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/smplayer-dev/smplayer) — Free media player
-- [Splash](https://sat-metalab.gitlab.io/splash/en/) — Video mapping
+- [Splash](https://sat-metalab.gitlab.io/splash/en/) / [![GitLab](/img/source-hosts/gitlab.svg)](https://gitlab.com/splashmapper/splash) — Video mapping
 - [Streamlink · GitHub](https://github.com/streamlink/streamlink)
 - [Submarine Player](https://submarineplayer.com/) — Generate and translate subtitles for any video
 - [Tiledmedia Multiview Streaming](https://www.tiledmedia.com/tiledmedia_multiview/) — Tiledmedia
@@ -2532,12 +2522,10 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [mifi/editly · GitHub](https://github.com/mifi/editly)
 - [Pion.ly](https://pion.ly/)
 - [video-dev/hls.js · GitHub](https://github.com/video-dev/hls.js)
-- [videojs/video.js · GItHub](https://github.com/videojs/video.js/)
 - [Zulko/moviepy · GitHub](https://github.com/Zulko/moviepy)
 
 ### Video Streaming app
 - ⭐ **[MediaHub-Org/PlayTorrioMov](https://github.com/MediaHub-Org/PlayTorrioMov)** — PlayTorrio fork adapted just for Movies/Series/Anime with SOLID UI/UX
 - ⭐ **[Vyla Home](https://vyla.cc/)** / [![GitLab](/img/source-hosts/gitlab.svg)](https://gitlab.com/vyla-entertainment/home) — Self-Hosted Desktop Media Center
 - [CloudStream APK Official Download v4.8.0](https://cloudstream-apk.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/recloudstream/cloudstream) — All Repositories
-- [VideoStreaming / Grayjay · GitLab](https://gitlab.futo.org/videostreaming/grayjay)
 - [ZorrillosDev/watchit-app](https://github.com/ZorrillosDev/watchit-app) — Open movies everywhere

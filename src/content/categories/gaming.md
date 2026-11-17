@@ -5,7 +5,7 @@ description: Games, launchers, emulators, and gaming utilities
 
 # Gaming
 
-**Total Bookmarks:** 804
+**Total Bookmarks:** 803
 
 
 ## Games
@@ -413,7 +413,7 @@ description: Games, launchers, emulators, and gaming utilities
 - [Honkai](https://hsr.hoyoverse.com/en-us/) — Star Rail
 - [Isleward](https://play.isleward.com/) / [![GitLab](/img/source-hosts/gitlab.svg)](https://gitlab.com/Isleward/isleward)
 - [maxilevi/project-hedra · GitHub](https://github.com/maxilevi/project-hedra)
-- [NetHack/NetHack · GitHub](https://github.com/NetHack/NetHack)
+- [NetHack](https://www.nethack.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/NetHack/NetHack)
 - [Netmarble](https://7origin.netmarble.com/en/) — The Seven Deadly Sins: Origin
 - [OpenMW](https://openmw.org/) / [![GitLab](/img/source-hosts/gitlab.svg)](https://gitlab.com/OpenMW/openmw)
 - [Persona](https://persona.atlus.com/series/portal/us/) — Game
@@ -482,7 +482,6 @@ description: Games, launchers, emulators, and gaming utilities
 - [Microsoft Flight Simulator](https://www.flightsimulator.com/)
 - [Minetest](https://www.minetest.net/) — Open source voxel game engine
 - [MIRA](https://mira-wm.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/mira-wm/mira)
-- [NetHack](https://www.nethack.org/)
 - [OpenCity, another 3D city simulator](http://www.opencity.info/)
 - [OpenRCT2](https://openrct2.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/OpenRCT2/OpenRCT2)
 - [OpenRCT2](https://openrct2.org/)
@@ -533,6 +532,7 @@ description: Games, launchers, emulators, and gaming utilities
 - [your ai slop bores me](https://youraislopbores.me/)
 
 ### Sports Games
+- [Andreas Redmer / lato · GitLab](https://gitlab.com/ar-/lato)
 - [Comunio World Cup](https://www.comunio.com/welcome)
 - [Rocket League ®](https://www.rocketleague.com/en)
 - [UFL](https://www.uflgame.com/en-en)
@@ -793,7 +793,6 @@ description: Games, launchers, emulators, and gaming utilities
 - [9Minecraft](https://www.9minecraft.net/) — The Best Resource for Minecraft
 - [All mods](https://thunderstore.io/) — Thunderstore - The Risk of Rain 2 Mod Database
 - [B1ays/BHub](https://github.com/B1ays/BHub?tab=readme-ov-file) — Download, Install and Share mods easily
-- [BlueMap-Minecraft/BlueMap · GitHub](https://github.com/BlueMap-Minecraft/BlueMap)
 - [chasmlol/2010-rust-rewrite-mashup](https://github.com/chasmlol/2010-rust-rewrite-mashup) — MW2, Skate 3 and Minecraft in one Rust game: IW4L's MW2 rewrite with Skate 3 mode and a real Minecraft world map
 - [Cheat Engine](https://www.cheatengine.org/)
 - [Cubitect/cubiomes-viewer](https://github.com/cubitect/cubiomes-viewer) — An efficient graphical Minecraft seed finder and map viewer.

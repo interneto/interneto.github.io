@@ -5,7 +5,7 @@ description: Maps, weather, travel agencies, and flights
 
 # Travel & Location
 
-**Total Bookmarks:** 823
+**Total Bookmarks:** 821
 
 - [itinio](https://www.itinio.app/) — What to Do in Madrid & Barcelona | Best Local Routes & Food
 - [TREK](https://demo-nomad.pakulat.org/dashboard) / [![GitHub](/img/software/apps/github.svg)](https://github.com/mauriceboe/TREK)
@@ -101,7 +101,6 @@ description: Maps, weather, travel agencies, and flights
 - [2GIS](https://2gis.ae/dubai)
 - [Amapint.com](https://www.amapint.com/en/)
 - [Ancient Earth globe](https://dinosaurpictures.org/ancient-earth#0)
-- [anvaka/city-roads](https://github.com/anvaka/city-roads) — Visualization of all roads within any city
 - [Atlas Digital de Tenerife](http://atlastenerife.es/portalweb)
 - [Baidu map](https://map.baidu.com/@0,0,1z)
 - [Calcmaps](https://www.calcmaps.com/)
@@ -212,7 +211,7 @@ description: Maps, weather, travel agencies, and flights
 - [WTFisReal](https://www.wtfisreal.space/explore) — Interactive History Map
 
 #### Image Maps
-- [City roads (anvaka)](https://anvaka.github.io/city-roads/)
+- [City roads (anvaka)](https://anvaka.github.io/city-roads/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/anvaka/city-roads)
 - [Mapio.net](https://mapio.net/#gsc.tab=0)
 - [Nukemap](https://nuclearsecrecy.com/nukemap/)
 
@@ -338,7 +337,6 @@ description: Maps, weather, travel agencies, and flights
 ### Map Viewer
 - [FoxtrotGPS](https://www.foxtrotgps.org/)
 - [Maproom/qmapshack](https://github.com/Maproom/qmapshack) — Consumer grade GIS software
-- [mepo](https://sr.ht/~mil/mepo/) — SourceHut
 - [Mobile Atlas Creator (MOBAC)](https://mobac.sourceforge.io/)
 - [PeakVisor](https://peakvisor.com/) — 3D Maps and Peaks Identification
 - [TRIP](https://itskovacs-trip.netlify.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/itskovacs/trip) — Welcome
@@ -352,8 +350,8 @@ description: Maps, weather, travel agencies, and flights
 - [ArcGIS Pro Maps](https://pro.arcgis.com/en/pro-app/2.8/get-started/get-started.htm)
 - [Avenza Maps](https://www.avenzamaps.com/)
 - [Azgaar's Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/)
-- [BlueMap](https://map.ryhn.link/#summer:994:0:1489:1500:0:0:0:0:perspective)
-- [BlueMap](https://bluemap.bluecolored.de/)
+- [BlueMap](https://map.ryhn.link/#summer:994:0:1489:1500:0:0:0:0:perspective) / [![GitHub](/img/software/apps/github.svg)](https://github.com/BlueMap-Minecraft/BlueMap)
+- [BlueMap](https://bluemap.bluecolored.de/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/BlueMap-Minecraft/BlueMap)
 - [Caglow](https://www.caglow.com/)
 - [Caglow](http://aciqra.caglow.com/) — Aciqra
 - [Campy](https://campy.app/) — Find all campsites and camperstops in Europe
@@ -403,7 +401,7 @@ description: Maps, weather, travel agencies, and flights
 - [Mapton](https://mapton.org/)
 - [Maputnik](https://maputnik.github.io/)
 - [MapXplorer](https://mapxplorer.goldlabtechnology.com/)
-- [Mepo](http://mepo.milesalan.com/)
+- [Mepo](http://mepo.milesalan.com/) / [![SourceHut](/img/source-hosts/sourcehut.svg)](https://sr.ht/~mil/mepo)
 - [Merkaartor OSM](https://github.com/openstreetmap/merkaartor)
 - [Metro Map Maker](https://metromapmaker.com/)
 - [Moovit](https://moovit.com/) — MaaS Solutions & the #1 Urban Mobility App

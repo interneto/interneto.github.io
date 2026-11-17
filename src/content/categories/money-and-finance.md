@@ -5,7 +5,7 @@ description: Banking, cryptocurrency, and financial tracking
 
 # Money & Finance
 
-**Total Bookmarks:** 444
+**Total Bookmarks:** 443
 
 - [brokeronline](https://www.brokeronline.es/)
 - [IPIP](https://whois.ipip.net/)
@@ -256,7 +256,7 @@ description: Banking, cryptocurrency, and financial tracking
 ### Cryptos
 - [Ayusocoin](https://ayusocoin.com/)
 - [BitClout](https://bitclout.com/)
-- [Bitcoin](https://bitcoin.org/en)
+- [Bitcoin](https://bitcoin.org/en) / [![GitHub](/img/software/apps/github.svg)](https://github.com/bitcoin/bitcoin)
 - [Bitcoin Core](https://bitcoincore.org/)
 - [Bitcoincash](https://bitcoincash.org/)
 - [Block.one](https://block.one/)
@@ -308,7 +308,6 @@ description: Banking, cryptocurrency, and financial tracking
 - [Bitcoin Sell](https://sell.bitcoin.com/)
 - [Bitcoin Wallet](https://wallet.bitcoin.com/)
 - [Bitcoin.com](https://www.bitcoin.com/)
-- [bitcoin/bitcoin · GitHub](https://github.com/bitcoin/bitcoin)
 - [Satoshi Nakamoto Institute](https://nakamotoinstitute.org/)
 
 ### DeFi (Decentralized Finance)

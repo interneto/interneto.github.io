@@ -249,7 +249,7 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [Dictionary Youdao](https://dict.youdao.com/)
 - [LINE Chinese-English Dictionary](https://dict.naver.com/linedict#/cnen/home)
 - [MDBG Chinese Dictionary](https://www.mdbg.net/chinese/dictionary)
-- [Zhongwen](https://chromewebstore.google.com/detail/zhongwen-chinese-english/kkmlkkjojmombglmlpbpapmhcaljjkde) — Chinese-English Dictionary - Chrome Web Store
+- [Zhongwen](https://chromewebstore.google.com/detail/zhongwen-chinese-english/kkmlkkjojmombglmlpbpapmhcaljjkde) / [![GitHub](/img/software/apps/github.svg)](https://github.com/cschiller/zhongwen) — Chinese-English Dictionary - Chrome Web Store
 - [漢語大詞典](https://hanyucidian.org/) — Chinese Dictionary Compendium 漢語辭典總匯
 - [词典|汉语词典|现代汉语词典|在线词典-汉语言文学网](https://cd.hwxnet.com/)
 
@@ -498,7 +498,6 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [Bing Translator](https://www.bing.com/translator)
 - [ChatGPT Translate](https://chatgpt.com/translate)
 - [Crow translate](https://crow-translate.github.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/crow-translate/crow-translate)
-- [cschiller/zhongwen](https://github.com/cschiller/zhongwen) — Official source code of the "Zhongwen" Chrome extension
 - [DeepLcom/deepl-php · GItHub](https://github.com/DeepLcom/deepl-php)
 - [dict.cc](https://www.dict.cc/) — German-English dictionary
 - [FilipePS/Traduzir-paginas-web](https://github.com/FilipePS/Traduzir-paginas-web) — Translate your page in real time using Google, Bing or Yandex
@@ -1321,6 +1320,7 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [HyperPhysics Concepts](http://hyperphysics.phy-astr.gsu.edu/hbase/index.html)
 - [La web de Física](https://www.lawebdefisica.com/)
 - [Laplace](http://laplace.us.es/wiki/index.php/P%C3%A1gina_Principal) — Física US
+- [Mancha3D / Mancha · GitLab](https://gitlab.com/Mancha3D/mancha)
 - [oPhysics](https://ophysics.com/)
 - [Paul Falstad](https://www.falstad.com/)
 - [PhotoVoltaic Education](https://www.pveducation.org/)

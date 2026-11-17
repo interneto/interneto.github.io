@@ -5,7 +5,7 @@ description: News, blogs, digital gardens, libraries, and magazines
 
 # News & Books
 
-**Total Bookmarks:** 2567
+**Total Bookmarks:** 2566
 
 
 ## News
@@ -2740,7 +2740,6 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [YACReader](https://www.yacreader.com/)
 
 ### Library Manager
-- [inventaire/inventaire · GitHub](https://github.com/inventaire/inventaire)
 - [Libib](https://www.libib.com/) — Library management web app
 
 ### RSS Reader

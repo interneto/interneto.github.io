@@ -5,7 +5,7 @@ description: Browsers and browser-related tools
 
 # Web Browsers
 
-**Total Bookmarks:** 163
+**Total Bookmarks:** 161
 
 - ⭐ **[Lightpanda](https://lightpanda.io/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/lightpanda-io/browser) — The headless browser
 - [Arc from The Browser Company](https://arc.net/)
@@ -17,7 +17,7 @@ description: Browsers and browser-related tools
 - [Cockroach Browser](https://cockroachbrowser.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/AjnasNB/cockroach-browser) — AI browser automation
 - [Dejavu Browser](https://dejavubrowser.byarchitect.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/by-architect/Dejavu) — Android browser that syncs with Zen Browser
 - [Dillo Website](https://dillo-browser.github.io/)
-- [EinkBro](https://einkbro.github.io/overview.html)
+- [EinkBro](https://einkbro.github.io/overview.html) / [![GitHub](/img/software/apps/github.svg)](https://github.com/plateaukao/einkbro)
 - [firedragon-browser · GitHub](https://github.com/dr460nf1r3/firedragon-browser)
 - [Glide](https://glide-browser.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/glide-browser/glide)
 - [Gosub Web Browser Engine](https://gosub.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/gosub-io/gosub-engine)
@@ -68,7 +68,7 @@ description: Browsers and browser-related tools
 - [Kiwi Browser](https://kiwibrowser.com/)
 - [kiwibrowser/src · GitHub](https://github.com/kiwibrowser/src)
 - [kiwibrowser/src.next](https://github.com/kiwibrowser/src.next) — Source-code for Kiwi Next, a Kiwi Browser auto-rebased with latest Chromium
-- [Konqueror](https://apps.kde.org/konqueror/)
+- [Konqueror](https://apps.kde.org/konqueror/) / [🔗](https://invent.kde.org/network/konqueror)
 - [LT Browser](https://www.lambdatest.com/browser-for-developers) — The Best Browser for Developers to Build, Test & Debug
 - [Microsoft Edge](https://www.microsoft.com/en-us/edge)
 - [Min](https://minbrowser.org/) — A fast, minimal browser that protects your privacy
@@ -80,7 +80,6 @@ description: Browsers and browser-related tools
 - [Opera GX](https://www.opera.com/gx)
 - [Opera Neon](https://www.operaneon.com/) — Agentic AI browser
 - [Pissandshittium](https://pissandshittium.org/)
-- [plateaukao/einkbro](https://github.com/plateaukao/einkbro) — A small, fast web browser based on Android WebView. It's tailored for E-Ink devices but also works great on normal android devices.
 - [Puffin Browser](https://www.puffin.com/)
 - [QQ Browser](https://browser.qq.com/)
 - [Salamweb](https://salamweb.com/)
@@ -137,7 +136,6 @@ description: Browsers and browser-related tools
 - [MultiZen](https://getmultizen.com/) — The Ultimate Multi-Session Browsing Solution
 - [Mypal browser](https://mypal-browser.org/)
 - [NetSurf Browser](https://www.netsurf-browser.org/)
-- [Network / Konqueror · GitLab](https://invent.kde.org/network/konqueror)
 - [Nook Browser](https://www.browsewithnook.com/) — Open Sourcing Arc
 - [Nyxt browser](https://nyxt.atlas.engineer/) — The hacker's browser
 - [Orion Browser](https://browser.kagi.com/)

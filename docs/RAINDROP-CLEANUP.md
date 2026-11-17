@@ -1,7 +1,7 @@
 # Raindrop cleanup — runbook
 
-> **Status**: Active. Classification system defined (this doc). Every branch has had a first pass: all 19 `Apps & Services` categories, all of `Society`, and all of `Saved` (`Content`, `Creator`, `Places`, `Upload`). Optional later work: a second, deeper content-reading pass on the large branches, and `Office & Productivity` (22 children) is still above target by design. Day-to-day: classify `Unsorted`, then the scheduled sync publishes it. Progress is in [`RAINDROP-LOG.md`](./RAINDROP-LOG.md).
-> **Last updated**: 2026-10-22
+> **Status**: Active. Classification system defined (this doc). Every branch has had a first pass: all 19 `Apps & Services` categories, all of `Society`, and all of `Saved` (`Content`, `Creator`, `Places`, `Upload`). `Saved > Content > Source-Code > App Repository` (1,985 repos on 2026-11-17) has been fully worked through: repos whose app page is bookmarked became a `Source-code:` note on that page, the rest were classified by topic, and the empty collection now sits under `REVIEW`. Optional later work: a second, deeper content-reading pass on the large branches, and `Office & Productivity` (22 children) is still above target by design. Day-to-day: classify `Unsorted`, then the scheduled sync publishes it. Progress is in [`RAINDROP-LOG.md`](./RAINDROP-LOG.md).
+> **Last updated**: 2026-11-17
 > **Audience**: the maintainer and any Claude Code session continuing this work. Read this file first; it is meant to be enough to resume without the original conversation.
 > **Related**: [`TAXONOMY.md`](./TAXONOMY.md) (the 19 fixed content categories), [`ROADMAP.md`](./ROADMAP.md), `scripts/README.md` (CSV → Markdown pipeline).
 >
@@ -104,6 +104,14 @@ MDL picks the tree that minimizes the sum. In practice that gives concrete, chec
 9. **Depth cap: 5 from each root** (`Apps & Services`, `Saved`, `Society`). Addressing any one of ~2,400 collections needs about 11–12 bits total; depth 5 at branching ~7–10 gives roughly 14–17 bits of capacity — comfortably enough. Depth beyond that adds navigation cost without adding real discriminating information, and is usually a sign of rule 6 (single-child chains) or over-splitting (rule 3).
 
 **How this changes the earlier structural flags** (`orphan`, `single`, `mixed`, naming): they're now first-pass detectors, not verdicts. `single` → apply rule 6 (check growth-seed exception). `mixed` → apply rule 7 (check which case). Small leaves (≤3) → apply rule 4. Wide branches (>15 children) → apply rule 2/3. Every actual change still requires reading real bookmark titles/content in the folder before acting — a category name never fully determines what's really inside it (seen firsthand: `Analysis of music` looked mis-shelved under `Audiovisual` by name alone; its contents confirmed it was filed correctly, and it was left untouched).
+
+### Source-code repositories
+
+There is no longer a catch-all folder for repos. A new repository bookmark is handled like this:
+
+1. If the app's own page is bookmarked, put the repo on that page's note as `Source-code: <url>` (several repos on one line, comma-separated; that is the form `extractSourceCodeUrls` reads) and move the repo bookmark to `REVIEW` for the maintainer to delete.
+2. Otherwise classify the repo by what the software does, exactly like any other bookmark.
+3. Repos that are not software (profiles, exercises, archives) follow the same rule as their content: profiles to `Society > Portfolio`, tutorials and exercises to `Saved > Content > Source-Code > Coding Content`, the rest to `REVIEW`.
 
 ## Workflow
 

@@ -5,7 +5,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 
 # OS & Utilities
 
-**Total Bookmarks:** 1264
+**Total Bookmarks:** 1259
 
 - [Comparison of OS](https://en.wikipedia.org/wiki/Comparison_of_operating_systems) — Wikipedia
 - [Comparison of real-time operating systems](https://en.wikipedia.org/wiki/Comparison_of_real-time_operating_systems) — Wikipedia
@@ -18,7 +18,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [flowdriveai/flowpilot · GitHub](https://github.com/flowdriveai/flowpilot)
 - [Litchi for DJI Drones](https://www.flylitchi.com/)
 - [PX4 Autopilot](https://px4.io/)
-- [QGroundControl](http://qgroundcontrol.com/) — Drone Control
+- [QGroundControl](http://qgroundcontrol.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/mavlink/qgroundcontrol) — Drone Control
 - [Sunny Pilot](https://www.sunnypilot.ai/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/sunnypilot/sunnypilot)
 
 ## OS by Devices
@@ -27,7 +27,6 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [Horizon OC](https://horizon-oc.github.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Horizon-OC/Horizon-OC)
 - [IOS](https://wiibrew.org/wiki/IOS) — WiiBrew
 - [Nintendo Switch Brew](https://switchbrew.org/)
-- [recalbox / recalbox · GitLab](https://gitlab.com/recalbox/recalbox)
 - [ValveSoftware/SteamOS](https://github.com/ValveSoftware/SteamOS) — SteamOS community tracker
 - [Windows CE](https://dreamcast.wiki/Windows_CE) — dreamcast.wiki
 - [Xbox system updates](https://support.xbox.com/en-US/help/hardware-network/settings-updates/whats-new-xbox-one-system-updates) — Xbox Support
@@ -499,7 +498,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [Armbian](https://www.armbian.com/) — Linux for ARM boards
 - [BackTrack Linux](https://www.backtrack-linux.org/) — Penetration Testing Distribution
 - [BesGnuLinux](https://besgnulinux.blogspot.com/)
-- [Br OS](https://br-os.com/) — Simples, Fácil e Nacional
+- [Br OS](https://br-os.com/) / [![SourceForge](/img/source-hosts/sourceforge.svg)](https://sourceforge.net/projects/bros) — Simples, Fácil e Nacional
 - [BunsenLabs Linux](https://www.bunsenlabs.org/)
 - [CAELinux](https://www.caelinux.com/CMS3/)
 - [Canaima GNU](https://canaima.softwarelibre.gob.ve/)
@@ -623,8 +622,8 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [Rogentos Linux Group](https://rogentos.ro/)
 - [Sabayon Linux](https://www.sabayon.org/)
 - [The CLIP OS](https://clip-os.org/en/)
-- [Xenia Linux](https://xenia-group.gitlab.io/xeniaweb/)
-- [Xenia Linux](https://xenialinux.com/)
+- [Xenia Linux](https://xenia-group.gitlab.io/xeniaweb/) / [![GitLab](/img/source-hosts/gitlab.svg)](https://gitlab.com/xenia-group/xenia-linux)
+- [Xenia Linux](https://xenialinux.com/) / [![GitLab](/img/source-hosts/gitlab.svg)](https://gitlab.com/xenia-group/xenia-linux)
 
 **Indie Linux Distro**
 - ⭐ **[Alpine Linux](https://www.alpinelinux.org/)**
@@ -726,7 +725,6 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [Venom Linux](https://venomlinux.org/)
 - [vmware/photon](https://github.com/vmware/photon) — Minimal Linux container host
 - [VzLinux](https://vzlinux.org/)
-- [Xenia Group / Xenia Linux · GitLab](https://gitlab.com/xenia-group/xenia-linux)
 - [Xpenology](https://xpenology.org/)
 - [Yocto Project](https://www.yoctoproject.org/)
 - [Zentyal Linux Server](https://zentyal.com/)
@@ -779,7 +777,6 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - ⭐ **[Zorin OS](https://zorin.com/os/)** — Make your computer better
 - [AnduinOS](https://www.anduinos.com/) — Open Source & Linux
 - [Bodhi Linux](https://www.bodhilinux.com/)
-- [Br OS](https://sourceforge.net/projects/bros/) — SourceForge
 - [CAINE Live](https://www.caine-live.net/) — computer forensics digital forensics
 - [canonical/mini-iso-tools · GitHub](https://github.com/canonical/mini-iso-tools)
 - [canonical/subiquity · GitHub](https://github.com/canonical/subiquity)
@@ -836,7 +833,6 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [Alpine WSL](https://apps.microsoft.com/detail/9P804CRF0395?hl=en-us&gl=US) — Microsoft Store
 - [Arch WSL](https://apps.microsoft.com/detail/9mznmnksm73x?hl=en-US&gl=ES) — Microsoft Store
 - [Athena OS](https://apps.microsoft.com/detail/9N1M7Q4F1KQF?hl=en-US&gl=US) — Microsoft Apps
-- [CypherpunkArmory/UserLAnd](https://github.com/CypherpunkArmory/UserLAnd) — Main UserLAnd Repository
 - [Fedora WSL](https://apps.microsoft.com/detail/9NPCP8DRCHSN?hl=en-us&gl=US) — Microsoft Store
 - [Kali WSL](https://www.kali.org/docs/wsl/wsl-preparations/) — Kali Linux Documentation
 - [microsoft/WSL · GitHub](https://github.com/microsoft/WSL)
@@ -1099,7 +1095,6 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [niri-wm/niri](https://github.com/niri-wm/niri) — A scrollable-tiling Wayland compositor
 - [Nitrux/maui-shell · GitHub](https://github.com/Nitrux/maui-shell)
 - [nwg-shell · GitHub](https://github.com/nwg-piotr/nwg-shell)
-- [Plasma / KWin · GitLab](https://invent.kde.org/plasma/kwin)
 - [river](https://isaacfreund.com/software/river/) / [![Codeberg](/img/source-hosts/codeberg.svg)](https://codeberg.org/river/river)
 - [riverwm/river](https://codeberg.org/river/river) — A dynamic tiling Wayland compositor
 - [rofi](https://github.com/lbonn/rofi) — Rofi-wayland
@@ -1159,7 +1154,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - [ice-wm/icewm · GitHub](https://github.com/ice-wm/icewm)
 - [IceWM](https://ice-wm.org/)
 - [JWM (Joe's Window Manager)](https://joewing.net/projects/jwm/)
-- [KWin](https://userbase.kde.org/KWin) — KDE
+- [KWin](https://userbase.kde.org/KWin) / [🔗](https://invent.kde.org/plasma/kwin) — KDE
 - [KWin LightlyShaders](https://github.com/a-parhom/LightlyShaders)
 - [Magnet](https://magnet.crowdcafe.com/) — Window manager for Mac
 - [MATE WM · GitHub](https://github.com/mate-desktop/marco)

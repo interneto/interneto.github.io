@@ -5,7 +5,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 
 # Development
 
-**Total Bookmarks:** 2852
+**Total Bookmarks:** 2847
 
 - [Adobe Open Source](https://opensource.adobe.com/)
 - [Asterisk](https://www.asterisk.org/)
@@ -26,7 +26,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [LinuxServer.io](https://www.linuxserver.io/)
 - [NodeBox](https://www.nodebox.net/)
 - [OpenCores](https://opencores.org/)
-- [OpenH264](https://www.openh264.org/)
+- [OpenH264](https://www.openh264.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/cisco/openh264)
 - [OpenPGP.js](https://openpgpjs.org/)
 - [Openslr.org](https://www.openslr.org/)
 - [Opensource](https://opensource.com/)
@@ -241,7 +241,6 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [Azul](https://www.azul.com/) — The Java Platform for the Modern Cloud Enterprise
 - [dotnet/core · GitHub](https://github.com/dotnet/core)
 - [freedesktop-sdk](https://freedesktop-sdk.io/) / [![GitLab](/img/source-hosts/gitlab.svg)](https://gitlab.com/freedesktop-sdk/freedesktop-sdk) — Minimal Linux Runtime
-- [GitHub](https://github.com/Qiskit/qiskit) — Qiskit/qiskit · GitHub
 - [lbryio/lbry-sdk · GitHub](https://github.com/lbryio/lbry-sdk)
 - [makenotion/notion-sdk-js · GitHub](https://github.com/makenotion/notion-sdk-js)
 - [microsoft/win32metadata](https://github.com/microsoft/win32metadata) — Tooling to generate metadata for Win32 APIs in the Windows SDK
@@ -417,7 +416,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [JUnit 5](https://junit.org/junit5/)
 - [Neutralinojs](https://neutralino.js.org/)
 - [OOMOL](https://oomol.com/)
-- [Qiskit](https://qiskit.org/)
+- [Qiskit](https://qiskit.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Qiskit/qiskit)
 - [Qt](https://www.qt.io/product/framework) — Development Framework for Cross-platform Applications
 - [RubyLLM](https://rubyllm.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/crmne/ruby_llm)
 - [Skip](https://skip.tools/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/skiptools/skip)
@@ -425,7 +424,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [Tauri App](https://tauri.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/tauri-apps/tauri)
 - [Textual](https://github.com/Textualize/textual) — TUI (Text User Interface)
 - [ToolJet](https://www.tooljet.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/ToolJet/ToolJet) — Open-source low-code platform to build internal tools
-- [Trigger.dev](https://trigger.dev/) — Open source background jobs with no timeouts.
+- [Trigger.dev](https://trigger.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/triggerdotdev/trigger.dev) — Open source background jobs with no timeouts.
 - [Wails](https://wails.io/) — The Wails Project
 - [Xamarin](https://dotnet.microsoft.com/en-us/apps/xamarin) — .NET
 - [Xojo](https://www.xojo.com/)
@@ -919,7 +918,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [Moleculer](https://moleculer.services/) — Progressive microservices framework for Node.js
 - [NES.css · GitHub](https://nostalgic-css.github.io/NES.css/)
 - [NestJS](https://nestjs.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/nestjs/nest) — A progressive Node.js framework
-- [Nuxt.js](https://nuxtjs.org/) — Intuitive Vue Framework
+- [Nuxt.js](https://nuxtjs.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/nuxt/nuxt.js) — Intuitive Vue Framework
 - [Panda CSS](https://panda-css.com/) — Build modern websites using build time and type-safe CSS-in-JS
 - [Parcel JS](https://parceljs.org/)
 - [Popper JS](https://popper.js.org/)
@@ -938,7 +937,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [Thymeleaf](https://www.thymeleaf.org/)
 - [Vanilla JS](https://vanilla.js.org/)
 - [Vanilla JS](http://vanilla-js.com/)
-- [Video.js](https://videojs.com/)
+- [Video.js](https://videojs.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/videojs/video.js)
 - [Vite JS](https://vite.dev/)
 - [vuejs/vue · GitHub](https://github.com/vuejs/vue)
 - [VulcanJS](http://vulcanjs.org/)
@@ -989,7 +988,6 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) — Build fast web applications with Rust · GitHub
 - [Lucky framework](https://luckyframework.org/)
 - [My Sheet Site](https://mysheetsite.com/)
-- [nuxt/nuxt.js · GitHub](https://github.com/nuxt/nuxt.js)
 - [Phoenix Framework](https://www.phoenixframework.org/)
 - [PhpStorm](https://www.jetbrains.com/phpstorm)
 - [Project IDX](https://idx.dev/)
@@ -1188,7 +1186,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [Hypothesis](https://web.hypothes.is/)
 - [InsertLearning](https://insertlearning.com/)
 - [isomorphic-git](https://isomorphic-git.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/isomorphic-git/isomorphic-git)
-- [LocalCDN](https://www.localcdn.org/)
+- [LocalCDN](https://www.localcdn.org/) / [![Codeberg](/img/source-hosts/codeberg.svg)](https://codeberg.org/nobody/LocalCDN)
 - [Loom](https://chromewebstore.google.com/detail/loom-%E2%80%93-screen-recorder-sc/liecbddmkiiihnedobmlmillhodjkdmb) — Screen Recorder & Screen Capture
 - [Mask Network](https://mask.io/)
 - [Mate](https://gikken.co/mate-translate/) — translator app
@@ -1351,7 +1349,6 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [Just the Browser](https://justthebrowser.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/corbindavenport/just-the-browser) — Just the Browser
 - [KeePassXC-Browser](https://addons.mozilla.org/en-US/firefox/addon/keepassxc-browser/) — Firefox
 - [kkapsner/CanvasBlocker · GitHub](https://github.com/kkapsner/CanvasBlocker/)
-- [LocalCDN](https://codeberg.org/nobody/LocalCDN) — Codeberg
 - [lz233/Tarnhelm](https://github.com/lz233/Tarnhelm) — The magic to clean sharing links up
 - [Mailvelope](https://mailvelope.com/en)
 - [OpenHeader](https://site-yw1.pages.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/smartfabai-commits/openheader) — ad-free HTTP header editor
@@ -1369,7 +1366,6 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [Web Of Trust](https://www.mywot.com/)
 
 #### Productivity Extension
-- [AutomaApp/automa](https://github.com/AutomaApp/automa) — A browser extension for automating your browser by connecting blocks
 - [Cat Gatekeeper](https://chromewebstore.google.com/detail/cat-gatekeeper/elbikiflgfhjdjmficnigpeegjbhdidh) — Chrome Web Store
 - [ChatGPT Bulk Delete](https://addons.mozilla.org/en-US/firefox/addon/chatgpt-bulk-delete/?utm_source=chatgpt.com) — Firefox
 - [HumbleNewTabPage · GitHub](https://github.com/ibillingsley/HumbleNewTabPage)
@@ -1402,6 +1398,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [timothypholmes/startup-page · GitHub](https://github.com/timothypholmes/startup-page)
 - [Toby](https://www.gettoby.com/)
 - [ushnisha/tranquility-reader-webextensions](https://github.com/ushnisha/tranquility-reader-webextensions) — Tranquility Reader rewritten using Webextensions API
+- [usnistgov/Metrology Reaper · GitHub](https://github.com/usnistgov/Metrology/tree/master/Reaper)
 - [Web Clipper](https://www.tagspaces.org/products/webclipper/) — TagSpaces
 - [Word-Counter-Plus · GitHub](https://github.com/Steven-Roberts/Word-Counter-Plus)
 
@@ -1422,7 +1419,6 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [code-charity/youtube · GitHub](https://github.com/code-charity/youtube)
 - [codebicycle/videospeed · GitHub](https://github.com/codebicycle/videospeed)
 - [d3vr/yt-siphon · GitHub](https://github.com/d3vr/yt-siphon)
-- [dikshantrajput/adBlitz · GitHub](https://github.com/dikshantrajput/adBlitz)
 - [Drag and Drop Playlist Creator](https://playlists.at/)
 - [lawrencehook/remove-youtube-suggestions · GitHub](https://github.com/lawrencehook/remove-youtube-suggestions)
 - [LockedIn](https://kartikhalkunde.github.io/LockedIn-YT/) — Stay Focused on YouTube | Block Shorts & Distractions
@@ -2424,7 +2420,6 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [Matias Meno / Dropzone · GitLab](https://gitlab.com/meno/dropzone)
 - [mattdesl/canvas-sketch · GitHub](https://github.com/mattdesl/canvas-sketch)
 - [Mithril.js](https://mithril.js.org/)
-- [Modernizr · GitHub](https://github.com/modernizr/modernizr)
 - [Nerdamer](https://nerdamer.com/) — Symbolic Math for Javascript
 - [nextapps-de/flexsearch · GitHub](https://github.com/nextapps-de/flexsearch)
 - [Nub](https://nubjs.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/nubjs/nub) — an all-in-one toolkit for Node.js
@@ -2891,7 +2886,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [Apostrophe](https://apps.gnome.org/app/org.gnome.gitlab.somas.Apostrophe/) — Apps for GNOME
 - [Byword](https://bywordapp.com/)
 - [Clearly Markdown](https://clearly.md/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Shpigford/clearly)
-- [CodiMD](https://codimd.web.cern.ch/) — Collaborative markdown notes
+- [CodiMD](https://codimd.web.cern.ch/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/hackmdio/codimd) — Collaborative markdown notes
 - [Constly](https://constly.com/) — the WinRAR of Markdown
 - [Dillinger](https://dillinger.io/) — Online Markdown Editor
 - [DrWrite (Online editor for Dropbox)](https://github.com/ryanpcmcquen/DrWrite)
