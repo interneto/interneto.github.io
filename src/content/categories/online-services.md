@@ -3033,7 +3033,7 @@ description: Search engines, web directories, software directories, corporations
 - [TodoColeccion](https://www.todocoleccion.net/)
 
 ### Cubing
-- ⭐ **[CubeDesk](https://www.cubedesk.io/home)** — Rubik's Cube Timer | 1v1 | Trainer
+- ⭐ **[CubeDesk](https://www.cubedesk.io/home)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/kash/cubedesk) — Rubik's Cube Timer | 1v1 | Trainer
 - [csTimer](https://cstimer.net/)
 - [CubeSkills](https://www.cubeskills.com/)
 - [God's Number is 20](https://cube20.org/)
@@ -4514,7 +4514,7 @@ description: Search engines, web directories, software directories, corporations
 - [Sonar Source](https://www.sonarsource.com/)
 - [SourceForge](https://sourceforge.net/) — Compare, download and develop FOSS
 - [SourceHut](https://sourcehut.org/) — the hacker's forge
-- [SourceHut hub](https://sr.ht/)
+- [SourceHut hub](https://sr.ht/) / [![SourceHut](/img/source-hosts/sourcehut.svg)](https://sr.ht/~sircmpwn/sourcehut/)
 - [Undefined Hackers](https://code.undefinedhackers.net/) — Git
 
 ###### GitHub
@@ -5448,7 +5448,7 @@ description: Search engines, web directories, software directories, corporations
 - [Bienvenido a Generador de DNI!](https://generadordni.es/#home)
 - [Cool Generator List](https://www.coolgenerator.com/)
 - [Data Fake Generator](https://datafakegenerator.com/)
-- [David7ce](https://david7ce.github.io/toolbox-installer/) — Package Installer Generator
+- [David7ce](https://david7ce.github.io/toolbox-installer/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/David7ce/toolbox-installer) — Package Installer Generator
 - [Debit Card Generator](https://debitcard-generator.com/)
 - [ElfQrin](https://www.elfqrin.com/) — Discard Credit Card Generator and Random Name Generator
 - [Fake IT](https://fake-it.ws/)

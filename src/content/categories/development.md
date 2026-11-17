@@ -242,7 +242,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [AWS Coretto](https://aws.amazon.com/corretto/?filtered-posts.sort-by=item.additionalFields.createdDate&filtered-posts.sort-order=desc) — OpenJDK Download
 - [Azul](https://www.azul.com/) — The Java Platform for the Modern Cloud Enterprise
 - [dotnet/core · GitHub](https://github.com/dotnet/core)
-- [freedesktop-sdk](https://freedesktop-sdk.io/) — Minimal Linux Runtime
+- [freedesktop-sdk](https://freedesktop-sdk.io/) / [![GitLab](/img/source-hosts/gitlab.svg)](https://gitlab.com/freedesktop-sdk/freedesktop-sdk) — Minimal Linux Runtime
 - [GitHub](https://github.com/Qiskit/qiskit) — Qiskit/qiskit · GitHub
 - [lbryio/lbry-sdk · GitHub](https://github.com/lbryio/lbry-sdk)
 - [makenotion/notion-sdk-js · GitHub](https://github.com/makenotion/notion-sdk-js)

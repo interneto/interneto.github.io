@@ -4890,7 +4890,9 @@
       "Type: Open-Source",
       "Source Code: GitHub"
     ],
-    "sourceCodeUrls": [],
+    "sourceCodeUrls": [
+      "https://github.com/affaan-m/everything-claude-code"
+    ],
     "createdAt": "2026-04-02T18:53:14.289Z"
   },
   {
@@ -130334,7 +130336,9 @@
       "Source Code: GitLab",
       "OS Compatibility: Linux"
     ],
-    "sourceCodeUrls": [],
+    "sourceCodeUrls": [
+      "https://gitlab.com/freedesktop-sdk/freedesktop-sdk"
+    ],
     "createdAt": "2026-02-14T23:27:26.826Z"
   },
   {
@@ -380770,7 +380774,9 @@
     "tags": [
       "❤️"
     ],
-    "sourceCodeUrls": [],
+    "sourceCodeUrls": [
+      "https://github.com/kash/cubedesk"
+    ],
     "createdAt": "2025-08-03T02:50:32.251Z"
   },
   {
@@ -382400,7 +382406,9 @@
       "Type: Open-Source",
       "Software: Script Installer"
     ],
-    "sourceCodeUrls": [],
+    "sourceCodeUrls": [
+      "https://github.com/David7ce/toolbox-installer"
+    ],
     "createdAt": "2024-07-04T15:05:49.896Z"
   },
   {
@@ -448274,7 +448282,9 @@
       "Source-Code Hosting"
     ],
     "tags": [],
-    "sourceCodeUrls": [],
+    "sourceCodeUrls": [
+      "https://sr.ht/~sircmpwn/sourcehut/"
+    ],
     "createdAt": "2021-12-08T16:47:33.873Z"
   },
   {
@@ -537500,7 +537510,9 @@
       "❤️",
       "Type: Open-Source"
     ],
-    "sourceCodeUrls": [],
+    "sourceCodeUrls": [
+      "https://codeberg.org/Freeyourgadget/Gadgetbridge"
+    ],
     "createdAt": "2025-07-04T22:58:17.427Z"
   },
   {
@@ -557996,7 +558008,9 @@
     "tags": [
       "Type: Open-Source"
     ],
-    "sourceCodeUrls": [],
+    "sourceCodeUrls": [
+      "https://github.com/0install"
+    ],
     "createdAt": "2022-05-24T19:05:10.248Z"
   },
   {

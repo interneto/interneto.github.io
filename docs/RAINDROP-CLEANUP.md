@@ -49,7 +49,7 @@ If this deny file is missing on a machine, recreate it before touching Raindrop.
   - `find_collections` with no arguments returns the whole library (~386k characters) — too large for the chat; the harness saves it to a file. Copy it to `links/snapshot/collections.raw.json` and process with a script; don't read it into context directly. Its `search` param is Pro-only (fails on this account).
   - `find_bookmarks` returns at most 150 per call; page or filter (`collection_ids`, `url_pattern`, etc.) rather than dumping everything.
   - `update_bookmarks` / `update_collections` take at most 150 ids per call. Batch by destination collection.
-- **Key ids** (verify with a fresh `find_collections` if in doubt — ids are only valid for this account): `REVIEW` = `75353467` **(stale as of 2026-10-30 — `update_bookmarks` returned `NotFound: collection 75353467 not found`; re-resolve it before the next pass that needs it)**, `TEST` = `75353327`, Unsorted = `-1`, Trash = `-99`, `Apps & Services` = `32372311`, `Saved` = `63994454`, `Society` = `19046155`.
+- **Key ids** (verify with a fresh `find_collections` if in doubt — ids are only valid for this account): `REVIEW` = `77312734` (recreated 2026-11-17; the old `75353467` is gone), `TEST` no longer exists (gone by 2026-11-13), Unsorted = `-1`, Trash = `-99`, `Apps & Services` = `32372311`, `Saved` = `63994454`, `Society` = `19046155`.
 
 ### REST API token (for `pnpm db:mirror` / `db:pull` / `db:push`)
 
@@ -122,7 +122,7 @@ Moved to [`RAINDROP-LOG.md`](./RAINDROP-LOG.md) (append new entries there).
 
 ## Test state
 
-`TEST` (id `75353327`) holds one bookmark ("Anthropic - Company"), used to prove `update_bookmarks` works. `REVIEW` (id `75353467`) now holds 24 empty collections (see progress log), ready for the maintainer to delete. Maintainer can delete `TEST` too whenever.
+`TEST` was deleted by the maintainer (gone by 2026-11-13). `REVIEW` was recreated on 2026-11-17 as id `77312734`; it holds items waiting for the maintainer to delete, and was emptied by the maintainer on 2026-11-17.
 
 ## Open questions for the maintainer
 

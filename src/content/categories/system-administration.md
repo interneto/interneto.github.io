@@ -1238,7 +1238,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [Winhance](https://winhance.net/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/memstechtips/Winhance) — Windows Enhancement Utility
 
 ### Android & iOS Tools
-- ⭐ **[Gadgetbridge](https://gadgetbridge.org/)**
+- ⭐ **[Gadgetbridge](https://gadgetbridge.org/)** / [![Codeberg](/img/source-hosts/codeberg.svg)](https://codeberg.org/Freeyourgadget/Gadgetbridge)
 - [sameerasw/essentials](https://github.com/sameerasw/essentials) — Essential tools and mods for Android nerds
 
 #### Flashing & Firmware
@@ -1551,7 +1551,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [yay · GitHub](https://github.com/Jguer/yay)
 - [yum (yellowdog updater modified)](http://yum.baseurl.org/)
 - [Zap](https://zapx.vercel.app/)
-- [Zero Install](https://0install.net/)
+- [Zero Install](https://0install.net/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/0install)
 - [Zypper package manager](https://documentation.suse.com/smart/linux/html/concept-zypper/index.html)
 
 ### Sys Administrator

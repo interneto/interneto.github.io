@@ -122,7 +122,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [DeepSeek TUI · 深度求索 终端](https://deepseek-tui.com/en) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Hmbown/DeepSeek-TUI)
 - [Delta](https://delta.dev/) — A Multiplayer Environment for Coding with Agents
 - [Devin](https://devin.ai/)
-- [ECC Tools](https://ecc.tools/) — Open Agent Harness System for GitHub App Automation and Security
+- [ECC Tools](https://ecc.tools/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/affaan-m/everything-claude-code) — Open Agent Harness System for GitHub App Automation and Security
 - [Emdash](https://www.emdash.sh/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/generalaction/emdash)
 - [Freebuff](https://freebuff.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/CodebuffAI/freebuff) — the free coding agent (free Claude Code, Codex, Cursor & Lovable alternative)
 - [Gemini CLI](https://geminicli.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/google-gemini/gemini-cli) — Build, debug & deploy with AI
