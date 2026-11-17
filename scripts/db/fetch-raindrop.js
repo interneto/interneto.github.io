@@ -16,7 +16,7 @@ import { fileURLToPath } from 'node:url'
 import { PATHS } from '../config/categories.js'
 import { parseCsv } from '../lib/csv-parser.js'
 import { applyChanges, buildIncludedPaths, raindropsToCsv, rowsToCsv } from './lib/raindrop-csv.js'
-import { EXCLUDED_ROOT_IDS, PER_PAGE, createClient, fetchAllRaindrops, requireToken, sleep } from './lib/raindrop-api.js'
+import { EXCLUDED_ROOT_IDS, changedSince, createClient, fetchAllRaindrops, requireToken } from './lib/raindrop-api.js'
 
 const ROOT_DIR = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../..')
 const OUT = path.resolve(ROOT_DIR, PATHS.INPUT_CSV_CANDIDATES[0])
@@ -37,21 +37,6 @@ function save(csv, rowCount, note) {
   console.log(`✅ ${rowCount} bookmarks -> ${path.relative(ROOT_DIR, OUT)} (${note})`)
 }
 
-// Bookmarks of `collectionId` touched at or after `since`, newest change first.
-async function changedSince(collectionId, since) {
-  const items = []
-  let total = 0
-  for (let page = 0; ; page++) {
-    const body = await get(`/raindrops/${collectionId}?perpage=${PER_PAGE}&page=${page}&sort=-lastUpdate`)
-    total = body.count
-    const fresh = body.items.filter((r) => r.lastUpdate >= since)
-    items.push(...fresh)
-    if (fresh.length < PER_PAGE) break
-    await sleep(550)
-  }
-  return { items, total }
-}
-
 // Returns false when the result cannot be trusted, so the caller refetches everything.
 async function incremental() {
   if (!fs.existsSync(STATE) || !fs.existsSync(OUT)) return false
@@ -59,8 +44,8 @@ async function incremental() {
   // Overlap the previous run a little: its own requests were not instantaneous.
   const since = new Date(new Date(state.syncedAt).getTime() - 5 * 60 * 1000).toISOString()
 
-  const { items: changed, total } = await changedSince(0, since)
-  const { items: trashed } = await changedSince(-99, since)
+  const { items: changed, total } = await changedSince(get, 0, since)
+  const { items: trashed } = await changedSince(get, -99, since)
   const rows = applyChanges({
     rows: new Map(parseCsv(fs.readFileSync(OUT, 'utf8')).map((row) => [row.id, row])),
     oldPaths: new Map(state.paths),

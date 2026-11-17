@@ -234,17 +234,44 @@ Get the token at app.raindrop.io -> Settings -> Integrations -> For Developers
 and refuses to write the CSV if the fetch came back short (the importer
 soft-removes anything missing from the CSV).
 
-## Full account mirror (db:full)
+## Full account mirror (db:mirror, db:full, db:push)
 
 ```bash
-pnpm db:full    # API -> data/raindrop.db (whole account, rebuilt from scratch, ~15 min)
+pnpm db:mirror                   # Raindrop -> data/raindrop.db: only what changed since the last run (seconds)
+pnpm db:full                     # rebuild data/raindrop.db from scratch (~15 min)
+pnpm db:push plan.json           # show what a plan of changes would do; sends nothing
+pnpm db:push plan.json --apply   # send it to Raindrop, then db:mirror and check every change
 ```
 
 `data/bookmarks.db` holds only what the site publishes; `data/raindrop.db` is a
 local copy of the Raindrop account for querying. It includes the off-limits root
 `!nfo`, so it is gitignored and never published; the root `.` and Trash are left out.
-It is read-only: edits to the file never reach Raindrop, and the next `db:full` overwrites them.
 Schema: `data/db/raindrop-schema.sql`.
+
+Raindrop stays the source of truth. The working loop is:
+
+1. `pnpm db:mirror` to bring the mirror up to date.
+2. Query the mirror and write a plan: a JSON array of operations in the shape of
+   the MCP `update_bookmarks` tool (`bookmark_ids` plus any of `collection_id`,
+   `title`, `note`, `tags: { add, remove }`, `favorite`):
+
+   ```json
+   [{ "bookmark_ids": [1932154497, 1932151601], "collection_id": 66230045 },
+    { "bookmark_ids": [1930784160], "note": "Source-code: https://github.com/a/b", "tags": { "add": ["Type: Open-Source"] } }]
+   ```
+
+3. `pnpm db:push plan.json` to review it, then again with `--apply`.
+4. `pnpm db:pull` (or the daily workflow) regenerates the site's Markdown from Raindrop.
+
+`db:push` refuses the whole plan, sending nothing, if any operation names an unknown
+field, a bookmark or collection the mirror does not have, or anything under `!nfo`.
+It writes through Raindrop's MCP server, whose tools cannot delete or merge, in calls
+of at most 150 bookmarks, and stops at the first failed call. Editing the `.db` file
+itself never reaches Raindrop.
+
+`db:mirror` asks for bookmarks changed since the last run (plus Trash) and applies
+them in one transaction. When the result does not add up to the account's total (for
+example after Trash was emptied) it rolls back and rebuilds from scratch on its own.
 
 | Table / view | Contents |
 |---|---|
