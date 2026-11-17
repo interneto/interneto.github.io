@@ -148,6 +148,7 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [Silence is Betrayal](https://antinewworldorder.blogspot.com/)
 - [Símbolos, Mitos y Arquetipos](https://abajocomoarriba.blogspot.com/)
 - [Smoke Screen Design](https://www.smokescreendesign.com/)
+- [Snakedos](https://www.planetasnakedos.net/)
 - [Somos Bacterias y Virus](http://www.somosbacteriasyvirus.com/)
 - [Souls Alight](https://soulsalight.com/)
 - [Stop Look Think](https://stoplookthink.com/)
@@ -155,12 +156,14 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [The Black Vault](https://www.theblackvault.com/documentarchive)
 - [The Millennium Report](https://themillenniumreport.com/)
 - [THRIVE](http://www.thrivemovement.com/) — What on Earth Will It Take?
+- [Tierra de Misterios](https://tierrademisterios.com/)
 - [Todo Está Relacionado](https://todoestarelacionado.wordpress.com/)
 - [Tony Topping](https://tonytopping.wordpress.com/)
 - [TreeCreativity](http://www.treecreativity.com/)
 - [Truth 11](https://truth11.com/)
 - [Un Católico Perplejo](https://uncatolicoperplejo.wordpress.com/)
 - [Un Técnico Preocupado](https://tecnicopreocupado.com/)
+- [Unexplained Mysteries around the world](https://www.world-mysteries.com/)
 - [Vae victis!](https://vaevictis2017.wordpress.com/)
 - [Valdeande Mágico Blog](https://valdeande-magico.blogspot.com/)
 - [Verdadesreales.com](https://www.verdadesreales.com/)
@@ -259,9 +262,6 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [Windows Blog](https://blogs.windows.com/)
 - [Xfce Blog](https://blog.xfce.org/)
 - [YouTube Blog](https://blog.youtube/)
-
-#### Dancing Blog
-- [SientelBaile](https://sientelbaile.com/)
 
 #### Digital Garden
 - ⭐ **[Gwern Branwen](https://www.gwern.net/)**
@@ -412,7 +412,7 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [XXIIVV](https://webring.xxiivv.com/) — Webring
 - [Zytomorrow DG](https://zytomorrow.top/)
 
-#### English Blog
+#### Education Blog
 - [Apreder idiomas](https://www.quieroaprenderidiomas.com/)
 - [El Blog de Idiomas](https://elblogdeidiomas.es/)
 - [elblogdetrinity.com](https://elblogdetrinity.com/)
@@ -421,7 +421,11 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [EnglishClub](https://www.englishclub.com/)
 - [ESL](https://7esl.com/)
 - [Exámenes Oxford](https://examenesoxford.com/)
+- [Gaceta UNAM](https://www.gaceta.unam.mx/)
 - [Grammaring](https://www.grammaring.com/)
+- [Guiuniversitaria.mx](https://guiauniversitaria.mx/)
+- [Harvard University Press](https://www.hup.harvard.edu/)
+- [Saber Universidad](https://www.saberuniversidad.es/)
 - [Salón de Idiomas](https://salondeidiomas.wordpress.com/)
 - [Trucos Londres](https://trucoslondres.com/)
 
@@ -434,8 +438,13 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [ONsalus](https://www.onsalus.com/)
 - [TuCuerpoHumano.com](https://tucuerpohumano.com/)
 
-#### History Blog
+#### Hobby & Culture Blog
+- [Beatles4Site](https://beatles4site.wordpress.com/)
+- [El Blog de Tiro Táctico](https://tirotactico.net/)
 - [Finis fabulas](https://finisfabulas.blogspot.com/)
+- [musicForProgramming();](https://musicforprogramming.net/latest/)
+- [Rreactor MaG](https://reactormag.com/)
+- [SientelBaile](https://sientelbaile.com/)
 
 #### Law Blog
 - [Blog Contenciosos](https://www.contenciosos.com/blog)
@@ -451,21 +460,11 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [Science and Technology Law Review](https://stlr.org/)
 - [US Patent](https://patents.justia.com/) — Justia
 
-#### Military Blog
-- [El Blog de Tiro Táctico](https://tirotactico.net/)
-
-#### Music Blog
-- [Beatles4Site](https://beatles4site.wordpress.com/)
-- [musicForProgramming();](https://musicforprogramming.net/latest/)
-
-#### Mystery Blog
-- [Snakedos](https://www.planetasnakedos.net/)
-- [Tierra de Misterios](https://tierrademisterios.com/)
-- [Unexplained Mysteries around the world](https://www.world-mysteries.com/)
-
 #### News Blog
+- [Blog The GDELT Project](https://blog.gdeltproject.org/)
 - [ECOMONEWS](https://ecomonos.com/) — La newsletter más mona de internet
 - [El Orden Mundial](https://elordenmundial.com/) — el medio de análisis internacional en español
+- [Largest.org](https://largest.org/)
 - [Noticias del mundo](https://www.periodicoelnuevomundo.com/)
 
 #### Personal Blog
@@ -716,15 +715,6 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [Ventanas de aire](https://ventanasdeaire.wordpress.com/)
 - [Xataka Foto](https://www.xatakafoto.com/)
 
-#### Privacy Guide
-- [Censorship Bypass Guide](https://cbg.fmhy.bid/)
-- [Digital Defense](https://digital-defense.io/) — The ultimate personal security checklist to secure your digital life
-- [Hitchhiker’s Guide](https://anonymousplanet.org/guide/)
-- [kaleedtc/Privacium](https://github.com/kaleedtc/Privacium) — A simple app for discovering tools that respects your privacy
-- [Privacy Guides](https://www.privacyguides.org/en/) — Your Independent Privacy and Security Resource
-- [Self-Defense EFF](https://ssd.eff.org/)
-- [The New Oil](https://thenewoil.org/en/)
-
 #### Productivity Blog
 - ⭐ **[Untools](https://untools.co/)** — Tools for better thinking
 - ⭐ **[Uses This / Interviews](https://usesthis.com/)**
@@ -757,15 +747,15 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [Zettelkasten Method](https://zettelkasten.de/)
 - [Zsolt's blog](https://www.zsolt.blog/)
 
-#### Ranking Blog
-- [Blog The GDELT Project](https://blog.gdeltproject.org/)
-- [Largest.org](https://largest.org/)
-
 #### Science Blog
 - [100ceros](https://100ceroscom.wordpress.com/)
+- [500 euros por un Chemtrail](https://500eurosporunchemtrail.blogspot.com/)
+- [Aemetblog](https://aemetblog.es/)
 - [Alejandro Matemáticas](https://alejandromatematicas.wordpress.com/)
 - [Aprender y enseñar Matemáticas](https://aprender-ensenyar-matematicas.blogspot.com/)
 - [Aptipedia Tecknowledgies](https://aptipedia.blogspot.com/)
+- [ArcticToday](https://www.arctictoday.com/)
+- [Cazatormentas](https://www.cazatormentas.net/)
 - [DemographeR's notes](https://ikashnitsky.github.io/)
 - [Ecoosfera](https://ecoosfera.com/)
 - [El blog del perro del desierto](https://perrodeldesierto.blogspot.com/)
@@ -776,11 +766,14 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [ExoGenesis](https://exo.substack.com/) — Substack
 - [Gaussianos](https://www.gaussianos.com/)
 - [Geometría Sagrada](https://www.sacred-geometry.es/)
+- [Heated.world](https://heated.world/)
 - [La raíz cuadrada del blog](https://rrocha111.wordpress.com/)
+- [LA Weather Reports](http://weatherreport.la/)
 - [Los hijos De Lagrange](https://loshijosdelagrange.wordpress.com/)
 - [masmates.net](https://masmates.net/)
 - [Mathematics and computer science](https://trizenx.blogspot.com/) — Blogspot
 - [MatPalm](https://matpalm.com/blog)
+- [Meteorología en Red](https://www.meteorologiaenred.com/)
 - [Naukas](https://naukas.com/)
 - [Pedro Fortuny Ayuso](https://pfortuny.net/)
 - [Principia Scientific](https://principia-scientific.com/)
@@ -987,9 +980,6 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [ROL Science](https://www.rolscience.net/)
 - [Scientia](https://scientiablog.com/)
 
-#### SFF Blog
-- [Rreactor MaG](https://reactormag.com/)
-
 #### Technology Blog
 - [Blur Busters](https://blurbusters.com/)
 - [CanaryRam](https://canaryram.site/)
@@ -1022,34 +1012,16 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [WT.Social](https://wt.social/wt/artificial-intelligence) — AI
 - [WT.Social](https://wt.social/wt/free-software) — Free Software
 
-#### Travel Blog
-- [ADondeVamosHoyTenerife](https://adondevamoshoytenerife.com/category/listas) — Blog
-- [Backpacking New Zealand Travel Guide, Backpacker Hostels, Jobs, Tours, Working Holiday](https://backpackerboard.co.nz/)
-- [Cuaderno de Viajes](https://www.anamoralesblog.com/)
-- [Historias de China](https://www.historiasdechina.com/)
-- [Las sandalias de Ulises](https://lassandaliasdeulises.com/) — Blog de viajes
-- [NekoJitaBlog](https://nekojitablog.blogspot.com/)
-- [Ojo de Nómada](https://ojodenomada.com/)
-- [Twosometravellers](https://www.twosometravellers.com/)
-- [Universo Marino](https://universomarino.com/)
-- [ViajeroCasual](https://viajerocasual.com/)
+##### Privacy Guide
+- [Censorship Bypass Guide](https://cbg.fmhy.bid/)
+- [Digital Defense](https://digital-defense.io/) — The ultimate personal security checklist to secure your digital life
+- [Hitchhiker’s Guide](https://anonymousplanet.org/guide/)
+- [kaleedtc/Privacium](https://github.com/kaleedtc/Privacium) — A simple app for discovering tools that respects your privacy
+- [Privacy Guides](https://www.privacyguides.org/en/) — Your Independent Privacy and Security Resource
+- [Self-Defense EFF](https://ssd.eff.org/)
+- [The New Oil](https://thenewoil.org/en/)
 
-#### University Blog
-- [Gaceta UNAM](https://www.gaceta.unam.mx/)
-- [Guiuniversitaria.mx](https://guiauniversitaria.mx/)
-- [Harvard University Press](https://www.hup.harvard.edu/)
-- [Saber Universidad](https://www.saberuniversidad.es/)
-
-#### Weather Blog
-- [500 euros por un Chemtrail](https://500eurosporunchemtrail.blogspot.com/)
-- [Aemetblog](https://aemetblog.es/)
-- [ArcticToday](https://www.arctictoday.com/)
-- [Cazatormentas](https://www.cazatormentas.net/)
-- [Heated.world](https://heated.world/)
-- [LA Weather Reports](http://weatherreport.la/)
-- [Meteorología en Red](https://www.meteorologiaenred.com/)
-
-#### Web Blog
+##### Web Blog
 - [Blog](https://www.notion.so/blog) — Notion.so
 - [Bloguero Pro](https://blogueropro.com/)
 - [Made Mistakes](https://mademistakes.com/)
@@ -1062,6 +1034,18 @@ description: News, blogs, digital gardens, libraries, and magazines
 - [The Internet map Blog](https://the-internet-map.blogspot.com/)
 - [The M&Ms Newsletter](https://newsletter.memesmotivations.com/) — Louie Bacaj | Substack
 - [Uncharted Territories](https://unchartedterritories.tomaspueyo.com/) — Substack
+
+#### Travel Blog
+- [ADondeVamosHoyTenerife](https://adondevamoshoytenerife.com/category/listas) — Blog
+- [Backpacking New Zealand Travel Guide, Backpacker Hostels, Jobs, Tours, Working Holiday](https://backpackerboard.co.nz/)
+- [Cuaderno de Viajes](https://www.anamoralesblog.com/)
+- [Historias de China](https://www.historiasdechina.com/)
+- [Las sandalias de Ulises](https://lassandaliasdeulises.com/) — Blog de viajes
+- [NekoJitaBlog](https://nekojitablog.blogspot.com/)
+- [Ojo de Nómada](https://ojodenomada.com/)
+- [Twosometravellers](https://www.twosometravellers.com/)
+- [Universo Marino](https://universomarino.com/)
+- [ViajeroCasual](https://viajerocasual.com/)
 
 ### Magazine Media
 
