@@ -42,7 +42,7 @@ Two distinct "scripts" trees exist — don't confuse them:
 - `src/scripts/` — **client-side browser TypeScript**, imported into `.astro` pages via `<script>import '...'</script>` tags (Astro bundles them). These run in the browser, not at build time.
 
 ### Content (Astro Content Collections, Content Layer API)
-`src/content.config.ts` defines two glob collections: `categories` (`src/content/categories/*.md`) and `posts` (`src/content/posts/*.md`, adds optional `tags`). Schemas are intentionally loose (`z.any()` for date/next/prev/footer). Category markdown is **generated** by `scripts/convert.js` from `links/interneto-links.csv` (a Raindrop.io export, gitignored) — edit the converter/`scripts/config/categories.js`, not the output files, when changing category structure. Posts are authored by hand.
+`src/content.config.ts` defines two glob collections: `categories` (`src/content/categories/*.md`) and `posts` (`src/content/posts/*.md`, adds optional `tags`). Schemas are intentionally loose (`z.any()` for date/next/prev/footer). Category markdown is **generated** by `pnpm sync` (`scripts/db/export-site.js`) from the local Raindrop mirror `data/raindrop.db` (gitignored; `pnpm db:pull` refreshes it first, and the daily `raindrop-sync.yml` workflow does the same and commits) — edit `scripts/config/categories.js` or the exporters, not the output files, when changing category structure. Bookmark changes go to Raindrop (`pnpm db:push`, see `scripts/README.md`), never into the generated files. Posts are authored by hand.
 
 ### Toolbox (the most complex feature)
 Driven entirely by static JSON data in `public/pkgs/`:

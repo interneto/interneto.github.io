@@ -10,7 +10,6 @@ z-add/
 links/interneto-links.csv
 links/interneto-links.html
 links/interneto-links-nsfw.html
-data/bookmarks.db
 data/raindrop.db
 data/raindrop.db.tmp
 nsfw-content.md
@@ -25,9 +24,8 @@ scripts/parse-cph*.py
 
 # Raindrop snapshot (regenerable)
 links/snapshot/
-links/raindrop-state.json
 
-# Local secrets (RAINDROP_TOKEN for pnpm db:fetch)
+# Local secrets (RAINDROP_TOKEN for pnpm db:mirror / db:push)
 .env
 
 # Internal activity dashboard (local-only tool, not part of the site)

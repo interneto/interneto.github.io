@@ -1,14 +1,4 @@
-// scripts/db/export-json.js
-import fs from 'node:fs'
-import path from 'node:path'
-import { fileURLToPath } from 'node:url'
-import { getDb } from './connection.js'
-
-const __dirname = path.dirname(fileURLToPath(import.meta.url))
-const ROOT_DIR = path.resolve(__dirname, '..', '..')
-const OUTPUT_PATH = path.resolve(ROOT_DIR, 'public/generated/bookmarks.json')
-const SEARCH_INDEX_PATH = path.resolve(ROOT_DIR, 'public/generated/link-search-index.json')
-const ANCHORS_PATH = path.resolve(ROOT_DIR, 'public/generated/category-anchors.json')
+// scripts/db/export-json.js (run by export-site.js)
 
 export function exportJson(db) {
   const rows = db
@@ -50,19 +40,4 @@ export function buildSearchIndex(data, anchorsByCategory = {}) {
     c: b.category,
     h: anchorsByCategory[b.category]?.[b.subcategory.join('\x01')] ?? '',
   }))
-}
-
-if (process.argv[1] === fileURLToPath(import.meta.url)) {
-  const db = getDb()
-  const data = exportJson(db)
-  db.close()
-  fs.mkdirSync(path.dirname(OUTPUT_PATH), { recursive: true })
-  fs.writeFileSync(OUTPUT_PATH, JSON.stringify(data, null, 2) + '\n', 'utf8')
-  console.log(`📝 Wrote ${data.length} bookmarks -> ${path.relative(ROOT_DIR, OUTPUT_PATH)}`)
-
-  // Written by export-markdown.js, which always runs first (db:export / sync).
-  const anchorsByCategory = fs.existsSync(ANCHORS_PATH) ? JSON.parse(fs.readFileSync(ANCHORS_PATH, 'utf8')) : {}
-  const searchIndex = buildSearchIndex(data, anchorsByCategory)
-  fs.writeFileSync(SEARCH_INDEX_PATH, JSON.stringify(searchIndex), 'utf8')
-  console.log(`📝 Wrote ${searchIndex.length}-entry search index -> ${path.relative(ROOT_DIR, SEARCH_INDEX_PATH)}`)
 }

@@ -12,17 +12,12 @@
     "build": "astro build",
     "preview": "astro preview",
     "typecheck": "astro check",
-    "db:init": "node scripts/db/init.js",
-    "db:fetch": "node --env-file-if-exists=.env scripts/db/fetch-raindrop.js",
-    "db:pull": "pnpm run db:fetch && pnpm run sync",
+    "db:pull": "pnpm run db:mirror && pnpm run sync",
     "db:mirror": "node --env-file-if-exists=.env scripts/db/build-raindrop-db.js",
     "db:full": "node --env-file-if-exists=.env scripts/db/build-raindrop-db.js --full",
     "db:push": "node --env-file-if-exists=.env scripts/db/push-raindrop.js",
-    "db:import": "node scripts/db/import.js",
-    "db:validate": "node scripts/db/validate.js",
-    "db:export": "node scripts/db/export-markdown.js && node scripts/db/export-json.js",
     "db:test": "node --test \"scripts/db/**/*.test.js\"",
-    "sync": "node scripts/db/import.js && node scripts/db/validate.js && node scripts/db/export-markdown.js && node scripts/db/export-json.js"
+    "sync": "node scripts/db/export-site.js"
   },
   "dependencies": {
     "@astrojs/markdown-remark": "^7.3.1",

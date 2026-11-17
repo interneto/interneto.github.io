@@ -1,13 +1,14 @@
 // Builds data/raindrop.db: a complete, queryable SQLite copy of the Raindrop account
-// (collections, every bookmark field incl. raw JSON, tags, media, highlights, stats).
-// Unlike data/bookmarks.db (only what the site publishes), this keeps the off-limits root
-// `!nfo`; the root `.` and Trash are left out (the maintainer's choice, 2026-11-16). The file
-// is local and gitignored.
+// (collections, every bookmark field incl. raw JSON, tags, media, highlights, stats), the
+// one database the site is generated from (export-site.js). It keeps the off-limits root
+// `!nfo` unless --without-nfo; the root `.` and Trash are left out (the maintainer's choice,
+// 2026-11-16). The file is local and gitignored.
 //
 //   pnpm db:mirror   only what changed since the last run (seconds); rebuilds when that cannot be trusted
 //   pnpm db:full     rebuild from scratch (~15 min for ~47k bookmarks)
+//   --without-nfo    leave `!nfo` out too: for copies that leave this machine (the CI cache)
 //
-// Reads RAINDROP_TOKEN like fetch-raindrop.js. Only sends GETs.
+// Reads RAINDROP_TOKEN from the environment or .env. Only sends GETs.
 
 import fs from 'node:fs'
 import path from 'node:path'
@@ -19,7 +20,9 @@ import { applyIncremental, writeRaindropDb } from './lib/raindrop-db.js'
 const ROOT_DIR = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../..')
 const OUT = path.resolve(ROOT_DIR, 'data/raindrop.db')
 const TMP = `${OUT}.tmp`
-const DOT_ROOT_ID = 71411789 // the root titled "." (docs/RAINDROP-CLEANUP.md); `!nfo` stays in
+const DOT_ROOT_ID = 71411789 // the root titled "." (docs/RAINDROP-CLEANUP.md)
+const NFO_ROOT_ID = 19044358 // `!nfo`: kept locally, left out of anything that leaves this machine
+const EXCLUDE = [DOT_ROOT_ID, ...(process.argv.includes('--without-nfo') ? [NFO_ROOT_ID] : [])]
 
 const get = createClient(requireToken())
 const fetchedAt = new Date().toISOString()
@@ -35,6 +38,7 @@ const meta = (accountTotal) => ({
   filters,
   user: { id: user._id, name: user.fullName, pro: user.pro, pro_expire: user.proExpire, registered: user.registered, files: user.files },
   account_total: accountTotal,
+  excluded_root_ids: EXCLUDE,
 })
 
 // Returns false when only a full rebuild can be trusted.
@@ -44,12 +48,18 @@ async function incremental() {
   try {
     const last = db.prepare("SELECT value FROM meta WHERE key = 'fetched_at'").get()?.value
     if (!last) return false
+    // Built with other roots left out (or before this was recorded): only a rebuild gives the right set.
+    const excluded = db.prepare("SELECT value FROM meta WHERE key = 'excluded_root_ids'").get()?.value ?? JSON.stringify([DOT_ROOT_ID])
+    if (excluded !== JSON.stringify(EXCLUDE)) {
+      console.log('↩️  The mirror was built with other roots left out; rebuilding from scratch.')
+      return false
+    }
     // Overlap the previous run a little: its own requests were not instantaneous.
     const since = new Date(Date.parse(last) - 5 * 60 * 1000).toISOString()
     const { items: changed, total } = await changedSince(get, 0, since)
     const { items: trashed } = await changedSince(get, -99, since)
     const result = applyIncremental(db, {
-      collections, changed, trashedIds: trashed.map((r) => r._id), accountTotal: total, excludeRootIds: [DOT_ROOT_ID], meta: meta(total),
+      collections, changed, trashedIds: trashed.map((r) => r._id), accountTotal: total, excludeRootIds: EXCLUDE, meta: meta(total),
     })
     if (!result.ok) {
       console.log(`↩️  ${result.reason}; rebuilding from scratch.`)
@@ -77,7 +87,7 @@ if (all.items.length < all.total) {
 
 fs.rmSync(TMP, { force: true })
 const db = new DatabaseSync(TMP)
-const report = writeRaindropDb(db, { collections, raindrops: all.items, excludeRootIds: [DOT_ROOT_ID], meta: meta(all.total) })
+const report = writeRaindropDb(db, { collections, raindrops: all.items, excludeRootIds: EXCLUDE, meta: meta(all.total) })
 db.exec('VACUUM')
 db.close()
 fs.renameSync(TMP, OUT)

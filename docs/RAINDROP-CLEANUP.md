@@ -51,16 +51,16 @@ If this deny file is missing on a machine, recreate it before touching Raindrop.
   - `update_bookmarks` / `update_collections` take at most 150 ids per call. Batch by destination collection.
 - **Key ids** (verify with a fresh `find_collections` if in doubt — ids are only valid for this account): `REVIEW` = `75353467` **(stale as of 2026-10-30 — `update_bookmarks` returned `NotFound: collection 75353467 not found`; re-resolve it before the next pass that needs it)**, `TEST` = `75353327`, Unsorted = `-1`, Trash = `-99`, `Apps & Services` = `32372311`, `Saved` = `63994454`, `Society` = `19046155`.
 
-### REST API token (for `pnpm db:fetch` / `pnpm db:pull`)
+### REST API token (for `pnpm db:mirror` / `db:pull` / `db:push`)
 
-Separate from the MCP sign-in above: the MCP connection cannot be reused by scripts, and the app's CSV export is Pro-only. One-time setup:
+Separate from the MCP sign-in above (that OAuth session belongs to the Claude client), and the app's CSV export is Pro-only. The same token also authenticates scripts against Raindrop's MCP endpoint, which `db:push` uses to write. One-time setup:
 
 1. Open <https://app.raindrop.io/settings/integrations>.
 2. Under **For Developers**, click **Create new app**. Name: `interneto-sync` (any name works; this is the one these docs assume). Accept the API terms.
 3. Open the new app and click **Create test token**, then confirm. The test token is tied to this account only and does not expire.
 4. Put it in `.env` in the repo root (gitignored): `RAINDROP_TOKEN=<token>`. Never commit it or paste it into a chat.
 5. For the scheduled sync (`.github/workflows/raindrop-sync.yml`, daily), add the same token as the `RAINDROP_TOKEN` repository secret.
-6. Run `pnpm db:pull` (fetch, then import/validate/export). The account held 47,449 bookmarks on 2026-10-05; the fetch should report that order of magnitude, minus the two off-limits roots.
+6. Run `pnpm db:pull` (mirror, then regenerate the site). The account held 47,772 bookmarks on 2026-11-16; the mirror holds that minus the `.` root (62 then).
 
 To revoke: same page → the app → delete it (or reset the token).
 
@@ -69,8 +69,8 @@ To revoke: same page → the app → delete it (or reset the token).
 | Source | Gives | Caveat |
 |---|---|---|
 | `find_collections` (MCP) | Live tree: id, title, parent_id, own/total counts | Authoritative for structure |
-| `links/interneto-links.csv` (gitignored) | Every bookmark with its Raindrop id, title, url, folder path | A snapshot in time — refresh before bulk bookmark moves. The app's Export is Pro-only; rebuild it instead with `RAINDROP_TOKEN=… pnpm db:fetch` (REST API, works on free accounts, ~10 min for ~47k bookmarks, read-only, skips the off-limits roots) |
-| `data/raindrop.db` (gitignored) | Whole account in SQLite: every field, highlights, full-text search; includes `!nfo`, leaves out `.` and Trash | `pnpm db:mirror` (incremental, seconds) or `pnpm db:full` (~15 min). For querying and preparing bulk changes; not the tree authority. See `scripts/README.md` |
+| `links/interneto-links.csv` (gitignored) | Every bookmark with its Raindrop id, title, url, folder path | Written by `pnpm sync` from `data/raindrop.db` (so `pnpm db:pull` refreshes it); skips both off-limits roots. The app's Export is Pro-only and not needed |
+| `data/raindrop.db` (gitignored) | Whole account in SQLite, the only database: every field, highlights, full-text search; the site is generated from it. Includes `!nfo`, leaves out `.` and Trash | `pnpm db:mirror` (incremental, seconds) or `pnpm db:full` (~15 min). For querying and preparing bulk changes; not the tree authority. See `scripts/README.md` |
 | `pnpm db:push plan.json` | Applies a JSON plan of moves / title / note / tag / favorite changes through the MCP `update_bookmarks` tool (no deletes), then pulls and verifies | Dry run by default; `--apply` sends. Use it for bulk passes instead of many hand-made MCP calls |
 | `scripts/raindrop-snapshot.mjs` | Builds the local read-only snapshot from the two above | Regenerate after any structural change |
 

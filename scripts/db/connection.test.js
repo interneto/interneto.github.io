@@ -1,7 +1,7 @@
 import assert from 'node:assert/strict'
 import fs from 'node:fs'
 import path from 'node:path'
-import { getDb, DEFAULT_DB_PATH } from './connection.js'
+import { getDb } from './connection.js'
 
 const testPath = path.resolve('scripts/db/.test-connection.db')
 fs.rmSync(testPath, { force: true })
@@ -22,6 +22,5 @@ assert.deepEqual(tables, [
   'source_code_urls',
   'tags',
 ])
-assert.ok(DEFAULT_DB_PATH.endsWith('bookmarks.db'))
 
 console.log('connection.test.js: PASS')

@@ -57,22 +57,24 @@ node scripts/lint-markdown.js
 
 Runs markdown linting on generated files.
 
-### SQLite mirror (db:*, sync)
+### Site data from the mirror (sync)
 
 ```bash
-pnpm run db:init      # create data/bookmarks.db + apply schema (idempotent)
-pnpm run db:import    # CSV -> SQLite upsert; soft-deletes rows missing from the CSV, never hard-deletes
-pnpm run db:validate  # check every bookmark's category resolves in public/pkgs/taxonomy.json
-pnpm run db:export    # SQLite -> src/content/categories/*.md + public/generated/bookmarks.json
-pnpm run sync         # import -> validate -> export, in order
+pnpm sync      # data/raindrop.db -> categories/*.md, public/generated/*.json, links/interneto-links.csv
+pnpm db:pull   # pnpm db:mirror, then pnpm sync
 ```
 
-`data/bookmarks.db` is gitignored and fully rebuildable from the CSV — delete it and re-run
-`db:import` any time. `public/generated/bookmarks.json` is committed so its Git history is a
+There is one database, the Raindrop mirror `data/raindrop.db` (see "Full account mirror"
+below). `sync` (`scripts/db/export-site.js`) turns it into the rows of Raindrop's CSV
+export, loads them into a throwaway in-memory database with the site schema
+(`data/db/schema.sql`), validates every category against `public/pkgs/taxonomy.json`, and
+writes the category pages and JSON. It also writes `links/interneto-links.csv`, which
+`raindrop-snapshot.mjs` and `convert.js` read. The off-limits root `!nfo` never reaches
+any of these files. `public/generated/bookmarks.json` is committed so its Git history is a
 diffable changelog of the underlying data.
 
 `scripts/convert.js` (the original CSV -> Markdown converter) still works standalone and its
-output stays byte-identical to `db:export`'s markdown output — `scripts/db/export-markdown.js`
+output stays byte-identical to `sync`'s markdown output — `scripts/db/export-markdown.js`
 shares the same tree-building helpers (`scripts/lib/utils.js`) and the same renderer
 (`scripts/lib/markdown-renderer.js`).
 
@@ -208,32 +210,6 @@ Current categories (19 total):
 - Descriptions in CATEGORY_DESCRIPTIONS are preserved across regenerations
 - Linting checks markdown formatting and typos
 
-## Sync Raindrop -> site without the CSV export
-
-Raindrop's CSV export needs a Pro plan; the REST API does not. `db:fetch`
-rebuilds `links/interneto-links.csv` in the export's exact format, so the rest
-of the pipeline is unchanged:
-
-```bash
-pnpm db:fetch   # API -> links/interneto-links.csv (only what changed since the last run; seconds)
-pnpm db:fetch --full   # refetch everything (~15 min)
-pnpm sync       # CSV -> SQLite (data/bookmarks.db) -> categories/*.md + bookmarks.json
-pnpm db:pull    # both, in order
-```
-
-Incremental runs ask the API for bookmarks changed since the last run (plus
-Trash), follow renamed/moved collections through the tree saved in the
-gitignored `links/raindrop-state.json`, and fall back to a full fetch on their
-own when the bookmark count or a folder path does not add up.
-
-`db:fetch` reads `RAINDROP_TOKEN` from the environment or from a gitignored
-`.env` file in the repo root (`RAINDROP_TOKEN=...`).
-
-Get the token at app.raindrop.io -> Settings -> Integrations -> For Developers
--> create an app -> "Create test token". The script only sends GET requests,
-and refuses to write the CSV if the fetch came back short (the importer
-soft-removes anything missing from the CSV).
-
 ## Full account mirror (db:mirror, db:full, db:push)
 
 ```bash
@@ -243,10 +219,16 @@ pnpm db:push plan.json           # show what a plan of changes would do; sends n
 pnpm db:push plan.json --apply   # send it to Raindrop, then db:mirror and check every change
 ```
 
-`data/bookmarks.db` holds only what the site publishes; `data/raindrop.db` is a
-local copy of the Raindrop account for querying. It includes the off-limits root
+`data/raindrop.db` is the local copy of the Raindrop account: the site is generated
+from it (`pnpm sync`, above) and it is queried to prepare changes. Raindrop's CSV export
+needs a Pro plan; the REST API used here does not. The mirror includes the off-limits root
 `!nfo`, so it is gitignored and never published; the root `.` and Trash are left out.
-Schema: `data/db/raindrop-schema.sql`.
+`--without-nfo` leaves `!nfo` out too, for copies that leave the machine: the daily
+workflow's cache. Schema: `data/db/raindrop-schema.sql`.
+
+`RAINDROP_TOKEN` comes from the environment or a gitignored `.env` in the repo root. Get
+it at app.raindrop.io -> Settings -> Integrations -> For Developers -> create an app ->
+"Create test token". `db:mirror` and `db:full` only send GET requests; `db:push` writes.
 
 Raindrop stays the source of truth. The working loop is:
 
@@ -288,7 +270,7 @@ SELECT title, link, folder FROM v_bookmarks WHERE id IN
 ```
 
 It is written to `data/raindrop.db.tmp` and renamed only after a complete fetch,
-so a failed run leaves the previous file intact. Same `RAINDROP_TOKEN` as `db:fetch`.
+so a failed run leaves the previous file intact.
 
 The mirror holds the fields Raindrop stores, not the content of the bookmarked pages.
 API fields without a column of their own (`creatorRef`, `user`, `lastAction`, ...) are

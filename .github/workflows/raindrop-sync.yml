@@ -39,21 +39,20 @@ jobs:
 
       - run: pnpm install --frozen-lockfile
 
-      # links/ and data/ are gitignored; the cache keeps the incremental state
-      # between runs. A miss just means one full fetch.
+      # data/ is gitignored; the cache keeps the mirror between runs so each run
+      # only fetches what changed. A miss just means one full fetch (~15 min).
+      # --without-nfo: caches of a public repo can be read by fork pull requests,
+      # so this copy leaves the off-limits root out (the local mirror keeps it).
       - uses: actions/cache@v6
         with:
-          path: |
-            links/interneto-links.csv
-            links/raindrop-state.json
-            data/bookmarks.db
-          key: raindrop-${{ github.run_id }}
-          restore-keys: raindrop-
+          path: data/raindrop.db
+          key: raindrop-mirror-${{ github.run_id }}
+          restore-keys: raindrop-mirror-
 
-      - name: Fetch from Raindrop
+      - name: Pull from Raindrop
         env:
           RAINDROP_TOKEN: ${{ secrets.RAINDROP_TOKEN }}
-        run: pnpm run db:fetch ${{ inputs.full && '--full' || '' }}
+        run: pnpm run ${{ inputs.full && 'db:full' || 'db:mirror' }} --without-nfo
 
       - run: pnpm run sync
       - run: pnpm run typecheck

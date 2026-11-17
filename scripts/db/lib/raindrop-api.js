@@ -2,15 +2,13 @@
 
 export const API = 'https://api.raindrop.io/rest/v1'
 export const PER_PAGE = 50 // API maximum
-// Off-limits roots (docs/RAINDROP-CLEANUP.md): never written to any snapshot or database.
-export const EXCLUDED_ROOT_IDS = [19044358, 71411789]
 
 export const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms))
 
 export function requireToken() {
   const token = process.env.RAINDROP_TOKEN
   if (!token) {
-    console.error('❌ RAINDROP_TOKEN is not set. Put RAINDROP_TOKEN=... in .env (gitignored); see scripts/db/fetch-raindrop.js.')
+    console.error('❌ RAINDROP_TOKEN is not set. Put RAINDROP_TOKEN=... in .env (gitignored); see docs/RAINDROP-CLEANUP.md > REST API token.')
     process.exit(1)
   }
   return token

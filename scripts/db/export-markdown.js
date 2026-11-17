@@ -1,19 +1,9 @@
-// scripts/db/export-markdown.js
+// scripts/db/export-markdown.js (run by export-site.js)
 import fs from 'node:fs'
 import path from 'node:path'
-import { fileURLToPath } from 'node:url'
-import { getDb } from './connection.js'
-import { CATEGORY_CONFIG, PATHS } from '../config/categories.js'
+import { CATEGORY_CONFIG } from '../config/categories.js'
 import { renderGroupFile, buildAnchorMap } from '../lib/markdown-renderer.js'
 import { createNode, addToTree, clearOutputDir } from '../lib/utils.js'
-
-const __dirname = path.dirname(fileURLToPath(import.meta.url))
-const ROOT_DIR = path.resolve(__dirname, '..', '..')
-const ANCHORS_PATH = path.resolve(ROOT_DIR, 'public/generated/category-anchors.json')
-
-function log(icon, message) {
-  console.log(`${icon} ${message}`)
-}
 
 export function exportMarkdown(db, outputDir) {
   const groups = new Map(CATEGORY_CONFIG.map((c) => [c.folder, createNode()]))
@@ -64,16 +54,4 @@ export function exportMarkdown(db, outputDir) {
     anchorsByCategory[category.file.replace(/\.md$/, '')] = Object.fromEntries(buildAnchorMap(group))
   }
   return { written, anchorsByCategory }
-}
-
-if (process.argv[1] === fileURLToPath(import.meta.url)) {
-  const db = getDb()
-  const outputDir = path.resolve(ROOT_DIR, PATHS.OUTPUT_DIR)
-  const { written, anchorsByCategory } = exportMarkdown(db, outputDir)
-  db.close()
-  log('📝', `Generated ${written.length} markdown files`)
-  log('  ', `Output: ${path.relative(ROOT_DIR, outputDir)}`)
-  fs.mkdirSync(path.dirname(ANCHORS_PATH), { recursive: true })
-  fs.writeFileSync(ANCHORS_PATH, JSON.stringify(anchorsByCategory), 'utf8')
-  log('📝', `Wrote subcategory anchors -> ${path.relative(ROOT_DIR, ANCHORS_PATH)}`)
 }
