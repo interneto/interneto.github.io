@@ -5,7 +5,7 @@ description: Search engines, web directories, software directories, corporations
 
 # Online Services
 
-**Total Bookmarks:** 5770
+**Total Bookmarks:** 5761
 
 
 ## Biography
@@ -174,62 +174,6 @@ description: Search engines, web directories, software directories, corporations
 - [VizHub](https://vizhub.com/curran) — data visualization platform
 
 ## Database
-- [AirlinePilotCentral.com](https://www.airlinepilotcentral.com/)
-- [Anime Characters Database](https://www.animecharactersdatabase.com/)
-- [Atlas of Surveillance](https://atlasofsurveillance.org/atlas)
-- [Data Visualization Interactive Playground](https://mrgeek.me/research/sigma)
-- [Database Records Search](https://www.govt-files.com/)
-- [DB cultural heritage](https://ich.unesco.org/en/dive)
-- [DBpedia Association](https://www.dbpedia.org/)
-- [Dimensions](https://www.dimensions.com/) — Database of dimensiones drawings
-- [Dogell](https://dogell.com/en) — Dog Breed
-- [Europa Press Data](https://www.epdata.es/)
-- [Facebook Data leaked](https://archive.is/MZqak)
-- [Fotonail](https://fotonail.com/)
-- [International Architecture Database](https://www.archinform.net/index.htm)
-- [Kegg Pathway Database](https://www.genome.jp/kegg/pathway.html#disease)
-- [Land Matrix](https://landmatrix.org/)
-- [LogoDix](https://logodix.com/)
-- [MAC Address Vendor Lookup](https://maclookup.app/)
-- [PES Master](https://www.pesmaster.com/)
-- [Plane Crash info](http://www.planecrashinfo.com/)
-- [QRZ](https://www.qrz.com/) — Callsign Radio DB
-- [Roller Coaster DataBase](https://rcdb.com/)
-- [SkyscraperPage](http://skyscraperpage.com/)
-- [Teolida](https://www.teoalida.com/)
-- [ThemeParks.ie](https://www.themeparks.ie/index.htm)
-- [TractorData](https://www.tractordata.com/)
-- [UCDP](https://ucdp.uu.se/exploratory) — Uppsala Conflict Data Program
-- [UIUC Airfoil Data Site](https://m-selig.ae.illinois.edu/ads/coord_database.html)
-- [WIPO&nbsp;Madrid Monitor](https://www3.wipo.int/madrid/monitor/en)
-- [Wordnet](https://github.com/topic-maps-library/wordnet)
-- [World War II Database](https://ww2db.com/)
-- [YouTube-8M](https://research.google.com/youtube8m)
-- [Zip-Codes](https://www.zip-codes.com/)
-- [Zvec](https://zvec.org/en/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/alibaba/zvec) — A lightweight, lightning-fast, in-process vector database
-
-### Ads Classified Db
-- [Backpage](https://www.2backpage.com/)
-- [Bedpage](https://www.bedpage.com/)
-- [Craigslist](https://canarias.craigslist.org/)
-- [obackpage](https://obackpage.com/)
-
-### API Database
-- ⭐ **[TheMealDB.com](https://www.themealdb.com/)** — Free recipe API and database
-- [API Platform](https://api-platform.com/)
-- [APIs.io](https://apis.io/) — API Search
-- [Edamam](https://www.edamam.com/) — Food Database API, Nutrition API and Recipe API
-- [fatsecret Platform](https://platform.fatsecret.com/) — Global Food & Nutrition Data for Apps, Websites and Brands
-- [Food APIs](https://rapidapi.com/collection/food-apis)
-- [FreeWebApi](https://freewebapi.com/)
-- [JokeAPI](https://v2.jokeapi.dev/) — Documentation
-- [PokéAPI](https://pokeapi.co/)
-- [Public APIs](https://publicapis.io/) — A directory of free and public apis
-- [Rapid API](https://rapidapi.com/hub)
-- [spoonacular recipe and food API](https://spoonacular.com/food-api)
-- [TheCocktailDB.com](https://www.thecocktaildb.com/) — Free Cocktail API
-- [University-domains-list-api · GitHub](https://github.com/Hipo/university-domains-list-api)
-- [Zestful](https://zestfuldata.com/) — Simple API for Parsing Recipe Ingredients
 
 ### Case Law Database
 - [Archive Genocide](https://archivegenocide.com/) — Documented Gaza Genocide & Israeli War Crimes Video Archive
@@ -243,37 +187,6 @@ description: Search engines, web directories, software directories, corporations
 - [Numismaster](https://www.numismaster.com/) — Collector coin and paper money data and values and numismatic news since 1952.
 - [Numista](https://en.numista.com/)
 
-### Cybersecurity Vulnerabilities Db (CVE)
-- [CVE Database](https://vulners.com/) — Security Vulnerabilities and Exploits | Vulners.com
-- [CVE Record](https://www.cve.org/CVERecord?id=CVE-2025-31115) — CVE-2025-31115
-- [CVE](https://www.cve.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/CVEProject) — Common Vulnerabilities and Exposures
-- [CWE](https://cwe.mitre.org/) — Common Weakness Enumeration
-- [JVN iPedia](https://jvndb.jvn.jp/en/)
-- [NVD](https://nvd.nist.gov/vuln/search#/nvd/home?resultType=records) — Search and Statistics
-- [OpenCVE](https://www.opencve.io/) — Vulnerability Intelligence Platform
-- [pypa/advisory-database](https://github.com/pypa/advisory-database) — Advisory database for Python packages published on pypi.org
-- [VARIoT databases of IoT exploits and vulnerabilities](https://www.variotdbs.pl/)
-- [Vibe Coding Failures](https://crackr.dev/vibe-coding-failures) — Documented AI Code Incidents
-- [Vulnerability-Lookup](https://vulnerability.circl.lu/)
-- [xyh4ck/iot_poc · GitHub](https://github.com/xyh4ck/iot_poc)
-
-#### CVE-Top
-- [CVE Record](https://www.cve.org/CVERecord?id=CVE-2017-0144) — CVE-2017-0144
-- [CVE Record](https://www.cve.org/CVERecord?id=CVE-2021-44228) — CVE-2021-44228
-- [CVE Record](https://www.cve.org/CVERecord?id=CVE-2024-3094) — CVE-2024-3094
-- [CVE Record](https://www.cve.org/CVERecord?id=CVE-2025-0108) — CVE-2025-0108
-- [CVE Record](https://www.cve.org/CVERecord?id=CVE-2025-3248) — CVE-2025-3248
-- [CVE Record](https://www.cve.org/CVERecord?id=CVE-2025-10035) — CVE-2025-10035
-- [CVE Record](https://www.cve.org/CVERecord?id=CVE-2025-32433) — CVE-2025-32433
-- [CVE Record](https://www.cve.org/CVERecord?id=CVE-2025-32463) — CVE-2025-32463
-- [CVE Record](https://www.cve.org/CVERecord?id=CVE-2025-43300) — CVE-2025-43300
-- [CVE Record](https://www.cve.org/CVERecord?id=CVE-2025-53770) — CVE-2025-53770
-- [CVE Record](https://www.cve.org/CVERecord?id=CVE-2025-55177) — CVE-2025-55177
-- [CVE Record](https://www.cve.org/CVERecord?id=CVE-2025-55182) — CVE-2025-55182
-- [CVE Record](https://www.cve.org/CVERecord?id=CVE-2025-64446) — CVE-2025-64446
-- [CVE Record](https://www.cve.org/CVERecord?id=CVE-2026-31431) — CVE-2026-31431
-- [CVE-2026-43284](https://access.redhat.com/security/cve/cve-2026-43284) — Red Hat Customer Portal
-
 ### Graph Map Db
 - ⭐ **[Code Galaxies Visualization](https://anvaka.github.io/pm/#/?_k=oqyjty)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/anvaka/pm)
 - ⭐ **[Learn Anything](https://learn-anything.xyz/)**
@@ -281,6 +194,7 @@ description: Search engines, web directories, software directories, corporations
 - ⭐ **[WikiGalaxy](https://wiki.polyfra.me/)** — byowen
 - [Artistic visualization of heights](https://anvaka.github.io/peak-map/#7.68/47.727/-122.574)
 - [Autocomplete VS graph](https://anvaka.github.io/vs/?query=) / [![GitHub](/img/software/apps/github.svg)](https://github.com/anvaka/vs)
+- [Data Visualization Interactive Playground](https://mrgeek.me/research/sigma)
 - [Graph of related subreddits](https://anvaka.github.io/sayit/?query=)
 - [Map of Reddit](https://anvaka.github.io/map-of-reddit/?x=18239&y=12514&z=23244.04817852816&v=2)
 - [Most used words in programming languages](https://anvaka.github.io/common-words/#?lang=js)
@@ -292,6 +206,7 @@ description: Search engines, web directories, software directories, corporations
 - [Wine & Cheese Map](http://www.wineandcheesemap.com/)
 
 ### Hardware Db
+- [UIUC Airfoil Data Site](https://m-selig.ae.illinois.edu/ads/coord_database.html)
 
 #### Automobile Db
 - ⭐ **[encyCARpedia](https://www.encycarpedia.com/)** — Car Specs &amp; Performance
@@ -313,11 +228,24 @@ description: Search engines, web directories, software directories, corporations
 - [J.D. Power and Associates](https://www.jdpower.com/) — Car Reviews, Ratings & Awards
 - [NetCarShow.com](https://www.netcarshow.com/) — Cars
 - [Teolida](https://www.teoalida.com/cardatabase/) — The most updated car database
+- [TractorData](https://www.tractordata.com/)
 - [Ultimate Specs Vehicle](https://www.ultimatespecs.com/)
 
 #### Computer Hardware Db
+- ⭐ **[DB Cost (server)](https://www.dbcost.com/)**
 - [BSD Hardware Database](https://bsd-hardware.info/)
 - [Linux Hardware Database](https://linux-hardware.org/)
+
+#### User Manual Db
+- [¿Manual perdido? Descarga el manual que estás buscando.](https://www.manual.pa/)
+- [Club de diagramas](https://www.clubdediagramas.com/)
+- [Manua.ls](https://www.manua.ls/)
+- [Manuall.co.uk](https://manuall.co.uk/)
+- [ManualMachine.com](https://manualmachine.com/)
+- [Manuals Brain](https://manualsbrain.com/es)
+- [ManualsLib](https://www.manualslib.com/) — Makes it easy to find manuals online!
+- [ManualsOnline.com](http://www.manualsonline.com/)
+- [shonebinu/Brief · GitHub](https://github.com/shonebinu/Brief)
 
 ### Human Phenotypes Db
 - [Ainuid](http://humanphenotypes.net/basic/Ainuid.html)
@@ -618,6 +546,7 @@ description: Search engines, web directories, software directories, corporations
 #### Things List
 - [A collection of keyboard shortcuts for Mac apps, Windows programs, and websites](https://usethekeyboard.com/)
 - [demirelarda/CarMakesAndModels · GitHub](https://github.com/demirelarda/CarMakesAndModels)
+- [Dimensions](https://www.dimensions.com/) — Database of dimensiones drawings
 - [Knots 3D](https://knots3d.com/) — Learn to Tie over 200 knots!
 - [List Challenges](https://www.listchallenges.com/)
 - [Listal](https://www.listal.com/)
@@ -761,16 +690,6 @@ description: Search engines, web directories, software directories, corporations
 - [The Simpsons (TV Series 1989– )](https://www.imdb.com/title/tt0096697/episodes?year=2020) — IMDb
 - [Timeline of largest passenger ships](https://en.wikipedia.org/wiki/Timeline_of_largest_passenger_ships) — Wikipedia
 
-### Logos Db
-- [BrandEPS](https://brandeps.com/)
-- [Brandfetch Where brands live](https://brandfetch.com/)
-- [Brands of the World](https://www.brandsoftheworld.com/)
-- [Companies logo database](https://companieslogo.com/)
-- [LogoIntern](https://logointern.com/)
-- [Logopedia](https://logos.fandom.com/wiki/Logopedia) — Fandom
-- [Logos ynx](https://www.logolynx.com/)
-- [md-badges](https://inttter.github.io/md-badges/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/inttter/md-badges)
-
 ### Multimedia Db
 
 #### Books Db
@@ -811,11 +730,30 @@ description: Search engines, web directories, software directories, corporations
 - [Metacritic](https://www.metacritic.com/game/) — Video Game Reviews
 - [MobyGames](https://www.mobygames.com/) — Video Game Database
 - [noclip](https://noclip.website/)
+- [PES Master](https://www.pesmaster.com/)
 - [RAWG](https://rawg.io/) — The Biggest Video Game Database
 - [TGDB](https://thegamesdb.net/)
 - [The Visual Novel Database](https://vndb.org/)
 - [whatoplay](https://whatoplay.com/) — Find PC, PlayStation, Xbox, Switch, & mobile games to play
 - [xlenore/ps2-covers](https://github.com/xlenore/ps2-covers) — PS2 Covers Collection
+
+##### Pokemons Db
+- [dataDex](https://datadex.talzz.com/)
+- [Dev-Aditya-More/PokeVerse](https://github.com/Dev-Aditya-More/PokeVerse) — Made with ❤️ for Pokémon fans. Pokéverse is my tribute to the world of Pokemons. Now on Google Play Store⚡
+- [Pokemon](https://www.smogon.com/dex/champions/pokemon/) — Champions | Smogon Strategy Pokedex
+- [Pokémon Database](https://pokemondb.net/)
+- [Pokepedia](https://thepokepedia.com/)
+
+#### Logos Db
+- [BrandEPS](https://brandeps.com/)
+- [Brandfetch Where brands live](https://brandfetch.com/)
+- [Brands of the World](https://www.brandsoftheworld.com/)
+- [Companies logo database](https://companieslogo.com/)
+- [LogoDix](https://logodix.com/)
+- [LogoIntern](https://logointern.com/)
+- [Logopedia](https://logos.fandom.com/wiki/Logopedia) — Fandom
+- [Logos ynx](https://www.logolynx.com/)
+- [md-badges](https://inttter.github.io/md-badges/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/inttter/md-badges)
 
 #### Movie Db
 - ⭐ **[The Movie Database](https://www.themoviedb.org/)**
@@ -825,6 +763,7 @@ description: Search engines, web directories, software directories, corporations
 - [AllMovie](https://www.allmovie.com/)
 - [AniDB](https://anidb.net/)
 - [AniList](https://anilist.co/) — Track, Discover, Share Anime & Manga
+- [Anime Characters Database](https://www.animecharactersdatabase.com/)
 - [Anime Countdown](https://animecountdown.com/) — Anime schedule for popular anime
 - [Big Cartoon DataBase](https://www.bcdb.com/)
 - [Bollywood Movies Database](https://www.bollywoodmdb.com/)
@@ -981,9 +920,11 @@ description: Search engines, web directories, software directories, corporations
 
 ### OpenData
 - [AEMET OpenData](https://opendata.aemet.es/centrodedescargas/inicio)
+- [Atlas of Surveillance](https://atlasofsurveillance.org/atlas)
 - [Ayto Santa Cruz Tenerife](https://www.santacruzdetenerife.es/web/gobierno-abierto/opendata) — Opendata
 - [Canarias Datos Abiertos](https://datos.canarias.es/portal)
 - [datos.gob.es](https://datos.gob.es/)
+- [DBpedia Association](https://www.dbpedia.org/)
 - [Eurostat](https://ec.europa.eu/eurostat/data/database) — Database
 - [Gob Canarias](https://opendata.sitcan.es/) — SITCAN Open Data
 - [Gobierno de Canarias](https://opendata.gobiernodecanarias.org/dataset) — Dataset
@@ -993,6 +934,7 @@ description: Search engines, web directories, software directories, corporations
 - [Open Data Inception](https://opendatainception.io/)
 - [Open Data La Palma](https://www.opendatalapalma.es/)
 - [TenerifeData](https://tenerifedata.com/)
+- [UCDP](https://ucdp.uu.se/exploratory) — Uppsala Conflict Data Program
 - [Visualising Data](https://www.visualisingdata.com/)
 - [World Bank Open Data](https://data.worldbank.org/)
 
@@ -1254,20 +1196,58 @@ description: Search engines, web directories, software directories, corporations
 - [Sick Beard Index](http://lolo.sickbeard.com/)
 - [Tabula rasa](https://www.tabula-rasa.pw/login)
 
-### Pokemons Db
-- [dataDex](https://datadex.talzz.com/)
-- [Dev-Aditya-More/PokeVerse](https://github.com/Dev-Aditya-More/PokeVerse) — Made with ❤️ for Pokémon fans. Pokéverse is my tribute to the world of Pokemons. Now on Google Play Store⚡
-- [Pokemon](https://www.smogon.com/dex/champions/pokemon/) — Champions | Smogon Strategy Pokedex
-- [Pokémon Database](https://pokemondb.net/)
-- [Pokepedia](https://thepokepedia.com/)
-
-### Price Db
-- ⭐ **[DB Cost (server)](https://www.dbcost.com/)**
-
 ### Software Db
 - [Flashpoint Database](https://flashpointproject.github.io/flashpoint-database/)
 - [G-MEH (audio software)](https://g-meh.com/)
 - [Is it really foss?](https://isitreallyfoss.com/)
+
+#### API Database
+- ⭐ **[TheMealDB.com](https://www.themealdb.com/)** — Free recipe API and database
+- [API Platform](https://api-platform.com/)
+- [APIs.io](https://apis.io/) — API Search
+- [Edamam](https://www.edamam.com/) — Food Database API, Nutrition API and Recipe API
+- [fatsecret Platform](https://platform.fatsecret.com/) — Global Food & Nutrition Data for Apps, Websites and Brands
+- [Food APIs](https://rapidapi.com/collection/food-apis)
+- [FreeWebApi](https://freewebapi.com/)
+- [JokeAPI](https://v2.jokeapi.dev/) — Documentation
+- [PokéAPI](https://pokeapi.co/)
+- [Public APIs](https://publicapis.io/) — A directory of free and public apis
+- [Rapid API](https://rapidapi.com/hub)
+- [spoonacular recipe and food API](https://spoonacular.com/food-api)
+- [TheCocktailDB.com](https://www.thecocktaildb.com/) — Free Cocktail API
+- [University-domains-list-api · GitHub](https://github.com/Hipo/university-domains-list-api)
+- [Zestful](https://zestfuldata.com/) — Simple API for Parsing Recipe Ingredients
+
+#### Cybersecurity Vulnerabilities Db (CVE)
+- [CVE Database](https://vulners.com/) — Security Vulnerabilities and Exploits | Vulners.com
+- [CVE Record](https://www.cve.org/CVERecord?id=CVE-2025-31115) — CVE-2025-31115
+- [CVE](https://www.cve.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/CVEProject) — Common Vulnerabilities and Exposures
+- [CWE](https://cwe.mitre.org/) — Common Weakness Enumeration
+- [JVN iPedia](https://jvndb.jvn.jp/en/)
+- [NVD](https://nvd.nist.gov/vuln/search#/nvd/home?resultType=records) — Search and Statistics
+- [OpenCVE](https://www.opencve.io/) — Vulnerability Intelligence Platform
+- [pypa/advisory-database](https://github.com/pypa/advisory-database) — Advisory database for Python packages published on pypi.org
+- [VARIoT databases of IoT exploits and vulnerabilities](https://www.variotdbs.pl/)
+- [Vibe Coding Failures](https://crackr.dev/vibe-coding-failures) — Documented AI Code Incidents
+- [Vulnerability-Lookup](https://vulnerability.circl.lu/)
+- [xyh4ck/iot_poc · GitHub](https://github.com/xyh4ck/iot_poc)
+
+##### CVE-Top
+- [CVE Record](https://www.cve.org/CVERecord?id=CVE-2017-0144) — CVE-2017-0144
+- [CVE Record](https://www.cve.org/CVERecord?id=CVE-2021-44228) — CVE-2021-44228
+- [CVE Record](https://www.cve.org/CVERecord?id=CVE-2024-3094) — CVE-2024-3094
+- [CVE Record](https://www.cve.org/CVERecord?id=CVE-2025-0108) — CVE-2025-0108
+- [CVE Record](https://www.cve.org/CVERecord?id=CVE-2025-3248) — CVE-2025-3248
+- [CVE Record](https://www.cve.org/CVERecord?id=CVE-2025-10035) — CVE-2025-10035
+- [CVE Record](https://www.cve.org/CVERecord?id=CVE-2025-32433) — CVE-2025-32433
+- [CVE Record](https://www.cve.org/CVERecord?id=CVE-2025-32463) — CVE-2025-32463
+- [CVE Record](https://www.cve.org/CVERecord?id=CVE-2025-43300) — CVE-2025-43300
+- [CVE Record](https://www.cve.org/CVERecord?id=CVE-2025-53770) — CVE-2025-53770
+- [CVE Record](https://www.cve.org/CVERecord?id=CVE-2025-55177) — CVE-2025-55177
+- [CVE Record](https://www.cve.org/CVERecord?id=CVE-2025-55182) — CVE-2025-55182
+- [CVE Record](https://www.cve.org/CVERecord?id=CVE-2025-64446) — CVE-2025-64446
+- [CVE Record](https://www.cve.org/CVERecord?id=CVE-2026-31431) — CVE-2026-31431
+- [CVE-2026-43284](https://access.redhat.com/security/cve/cve-2026-43284) — Red Hat Customer Portal
 
 #### File Extension Db
 - ⭐ **[FileInfo.com](https://fileinfo.com/)** — The File Format Database
@@ -1816,17 +1796,6 @@ description: Search engines, web directories, software directories, corporations
 - [symbolkeyboard](https://symbolkeyboard.com/)
 - [Unicode](https://home.unicode.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/unicode-org), [![GitHub](/img/software/apps/github.svg)](https://github.com/unicode-org/cldr) — The World Standard for Text and Emoji
 
-### User Manual Db
-- [¿Manual perdido? Descarga el manual que estás buscando.](https://www.manual.pa/)
-- [Club de diagramas](https://www.clubdediagramas.com/)
-- [Manua.ls](https://www.manua.ls/)
-- [Manuall.co.uk](https://manuall.co.uk/)
-- [ManualMachine.com](https://manualmachine.com/)
-- [Manuals Brain](https://manualsbrain.com/es)
-- [ManualsLib](https://www.manualslib.com/) — Makes it easy to find manuals online!
-- [ManualsOnline.com](http://www.manualsonline.com/)
-- [shonebinu/Brief · GitHub](https://github.com/shonebinu/Brief)
-
 ### Website Db
 - [Next Spaceflight](https://nextspaceflight.com/)
 - [The GDELT Project](https://www.gdeltproject.org/)
@@ -2101,11 +2070,15 @@ description: Search engines, web directories, software directories, corporations
 - [WHALE.to](http://www.whale.to/)
 
 ### World Db
+- [DB cultural heritage](https://ich.unesco.org/en/dive)
+- [Plane Crash info](http://www.planecrashinfo.com/)
 - [trends24.in](https://trends24.in/) — X (Twitter) trending topics and hashtags today
 - [World Postal Code](https://www.mapanet.eu/en/) — free zip/postal code lookup
+- [World War II Database](https://ww2db.com/)
 
 #### Company Db
 - [AcquiredBy](https://acquiredby.co/)
+- [AirlinePilotCentral.com](https://www.airlinepilotcentral.com/)
 - [AnnualReports](https://www.annualreports.com/)
 - [Casesa](https://www.casesa.es/empresas/) — Portal de empresas
 - [Company List](https://www.company-list.org/)
@@ -2122,9 +2095,11 @@ description: Search engines, web directories, software directories, corporations
 - [SimilarTech](https://www.similartech.com/)
 - [Spoke](https://www.spoke.com/)
 - [WIPO&nbsp;Global Brand Database](https://www3.wipo.int/branddb/en)
+- [WIPO&nbsp;Madrid Monitor](https://www3.wipo.int/madrid/monitor/en)
 
 #### Demography Db
 - [7 Billion World](https://www.7billionworld.com/)
+- [Europa Press Data](https://www.epdata.es/)
 - [IndexMundi](https://www.indexmundi.com/)
 - [Internet World Stats](https://www.internetworldstats.com/)
 - [Our World in Data](https://ourworldindata.org/)
@@ -2157,6 +2132,7 @@ description: Search engines, web directories, software directories, corporations
 - [DataBank](https://databank.worldbank.org/) — The World Bank
 - [IMF Data World](https://www.imf.org/external/datamapper/NGDP_RPCH@WEO/OEMDC/ADVEC/WEOWORLD)
 - [Jewish DataBank](https://www.jewishdatabank.org/databank)
+- [Land Matrix](https://landmatrix.org/)
 - [The Atlas of Economic Complexity](https://atlas.cid.harvard.edu/)
 - [The globe of economic complexity](http://globe.cid.harvard.edu/)
 
@@ -2188,6 +2164,7 @@ description: Search engines, web directories, software directories, corporations
 - [Calflora](https://www.calflora.org/)
 - [Dinosaur Pictures](https://dinosaurpictures.org/)
 - [Diptera.info](https://diptera.info/news.php)
+- [Dogell](https://dogell.com/en) — Dog Breed
 - [Flora-On](https://flora-on.pt/)
 - [iNaturalist](https://www.inaturalist.org/) — A Community for Naturalists
 - [Marine Species](https://www.marinespecies.org/)
@@ -2216,6 +2193,7 @@ description: Search engines, web directories, software directories, corporations
 - [GenomeNet](https://www.genome.jp/)
 - [GISAID](https://gisaid.org/) — gisaid.org
 - [HUGO Gene Nomenclature Committee](https://www.genenames.org/)
+- [Kegg Pathway Database](https://www.genome.jp/kegg/pathway.html#disease)
 - [Medalerts VAERS Database](https://medalerts.org/index.php)
 - [Nextclade](https://clades.nextstrain.org/)
 - [Nextstrain](https://nextstrain.org/)
@@ -2224,6 +2202,7 @@ description: Search engines, web directories, software directories, corporations
 
 #### Language Db
 - [Wikitongues](https://wikitongues.org/)
+- [Wordnet](https://github.com/topic-maps-library/wordnet)
 
 ##### English Db
 - [An English Word List](https://www-personal.umich.edu/~jlawler/wordlist.html)
@@ -2243,9 +2222,11 @@ description: Search engines, web directories, software directories, corporations
 
 #### People Db
 - [BasesFaces](https://basefaces.com/)
+- [Database Records Search](https://www.govt-files.com/)
 - [Hairstyles 2025](https://www.hairfinder.com/index.htm) — Hairstyle inspiration, hair care, hair styling and cutting
 - [Pantheon](https://pantheon.world/)
 - [People on Myspace](https://myspace.com/discover/people)
+- [QRZ](https://www.qrz.com/) — Callsign Radio DB
 - [SNAP](https://snap.stanford.edu/data/egonets-Facebook.html) — Network datasets: Social circles
 - [The faces of facebook](http://thefacesoffacebook.com/)
 - [The Personality Database](https://personality-database.com/)
@@ -2338,11 +2319,17 @@ description: Search engines, web directories, software directories, corporations
 
 #### Places Db
 - [Guachinches Tenerife](https://guachinchestenerife.com/)
+- [International Architecture Database](https://www.archinform.net/index.htm)
 - [Localbeautyes](https://localbeautyes.com/) — Los Mejores Salones de Belleza de España
 - [NearIndex.com](https://nearindex.com/) — Organizations and services from all over the world in one place
 - [Nicelocal.com](https://nicelocal.com/)
 - [Nicelocal.es](https://en.nicelocal.es/)
+- [Roller Coaster DataBase](https://rcdb.com/)
+- [SkyscraperPage](http://skyscraperpage.com/)
 - [Soloencuentrame](https://soloencuentrame.com/) — Directorio de Notarios
+- [Teolida](https://www.teoalida.com/)
+- [ThemeParks.ie](https://www.themeparks.ie/index.htm)
+- [Zip-Codes](https://www.zip-codes.com/)
 
 #### Stellar Catalog Db
 - [Anexo:Galaxias](https://es.wikipedia.org/wiki/Anexo:Galaxias)

@@ -18178,6 +18178,23 @@
     "createdAt": "2024-01-14T18:40:07.172Z"
   },
   {
+    "id": "287111811",
+    "title": "YouTube-8M",
+    "url": "https://research.google.com/youtube8m",
+    "description": null,
+    "domain": "research.google.com",
+    "cover": "https://rdl.ink/render/https%3A%2F%2Fresearch.google.com%2Fyoutube8m",
+    "favorite": false,
+    "category": "ai-tools-and-services",
+    "subcategory": [
+      "Language Models & Hubs",
+      "AI Datasets & Benchmarks"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2020-08-22T20:59:24.000Z"
+  },
+  {
     "id": "1857150827",
     "title": "YuE2 · Frontier Music with Symbolic Planning",
     "url": "https://map-yue2.github.io/",
@@ -27610,6 +27627,25 @@
     "createdAt": "2022-06-08T23:09:09.412Z"
   },
   {
+    "id": "287109151",
+    "title": "Backpage",
+    "url": "https://www.2backpage.com/",
+    "description": "2backpage is a site similar to backpage and the free classified site in the world. People love us as a new backpage replacement or an alternative to 2backpage.com.",
+    "domain": "www.2backpage.com",
+    "cover": "https://rdl.ink/render/https%3A%2F%2Fwww.2backpage.com",
+    "favorite": false,
+    "category": "business-and-commerce",
+    "subcategory": [
+      "Enterprises",
+      "Commerce Company",
+      "Marketplaces",
+      "Ads Classified Db"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2021-05-24T10:15:54.000Z"
+  },
+  {
     "id": "287107747",
     "title": "Backstage",
     "url": "https://www.backstage.com/",
@@ -28672,6 +28708,25 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2022-12-14T00:56:37.709Z"
+  },
+  {
+    "id": "287109150",
+    "title": "Bedpage",
+    "url": "https://www.bedpage.com/",
+    "description": null,
+    "domain": "www.bedpage.com",
+    "cover": null,
+    "favorite": false,
+    "category": "business-and-commerce",
+    "subcategory": [
+      "Enterprises",
+      "Commerce Company",
+      "Marketplaces",
+      "Ads Classified Db"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2020-09-17T19:52:24.000Z"
   },
   {
     "id": "287106791",
@@ -38173,6 +38228,25 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2020-09-23T01:41:28.000Z"
+  },
+  {
+    "id": "287104269",
+    "title": "Craigslist",
+    "url": "https://canarias.craigslist.org/",
+    "description": "craigslist ofrece anuncios clasificados y foros locales para empleos, viviendas, ventas, servicios, comunidad local y eventos",
+    "domain": "canarias.craigslist.org",
+    "cover": "https://rdl.ink/render/https%3A%2F%2Fcanarias.craigslist.org",
+    "favorite": false,
+    "category": "business-and-commerce",
+    "subcategory": [
+      "Enterprises",
+      "Commerce Company",
+      "Marketplaces",
+      "Ads Classified Db"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2019-10-30T20:13:16.000Z"
   },
   {
     "id": "287107663",
@@ -81275,6 +81349,25 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2019-10-30T22:03:44.000Z"
+  },
+  {
+    "id": "287109148",
+    "title": "obackpage",
+    "url": "https://obackpage.com/",
+    "description": "obackpage is a site similar to backpage & free classified sites in this world. Everyone like a new backpage replacement or an alternative to obackpage.com",
+    "domain": "obackpage.com",
+    "cover": "https://twitter.com/obackpage/photo",
+    "favorite": false,
+    "category": "business-and-commerce",
+    "subcategory": [
+      "Enterprises",
+      "Commerce Company",
+      "Marketplaces",
+      "Ads Classified Db"
+    ],
+    "tags": [],
+    "sourceCodeUrls": [],
+    "createdAt": "2021-05-24T10:25:27.000Z"
   },
   {
     "id": "287965133",
@@ -171488,6 +171581,29 @@
       "https://github.com/pmndrs/zustand"
     ],
     "createdAt": "2023-11-26T17:41:14.999Z"
+  },
+  {
+    "id": "1607087061",
+    "title": "Zvec | A lightweight, lightning-fast, in-process vector database",
+    "url": "https://zvec.org/en/",
+    "description": null,
+    "domain": "zvec.org",
+    "cover": "https://rdl.ink/render/https%3A%2F%2Fzvec.org%2Fen%2F",
+    "favorite": false,
+    "category": "development",
+    "subcategory": [
+      "Database Management",
+      "DBMS"
+    ],
+    "tags": [
+      "Source Code: GitHub",
+      "Type: Open-Source",
+      "Company: Alibaba Group"
+    ],
+    "sourceCodeUrls": [
+      "https://github.com/alibaba/zvec"
+    ],
+    "createdAt": "2026-02-18T09:17:18.160Z"
   },
   {
     "id": "337076503",
@@ -364240,7 +364356,9 @@
     "favorite": false,
     "category": "online-services",
     "subcategory": [
-      "Database"
+      "Database",
+      "World Db",
+      "Company Db"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -366306,7 +366424,9 @@
     "favorite": false,
     "category": "online-services",
     "subcategory": [
-      "Database"
+      "Database",
+      "Multimedia Db",
+      "Movie Db"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -367022,6 +367142,7 @@
     "category": "online-services",
     "subcategory": [
       "Database",
+      "Software Db",
       "API Database"
     ],
     "tags": [],
@@ -367060,6 +367181,7 @@
     "category": "online-services",
     "subcategory": [
       "Database",
+      "Software Db",
       "API Database"
     ],
     "tags": [
@@ -368973,7 +369095,8 @@
     "favorite": false,
     "category": "online-services",
     "subcategory": [
-      "Database"
+      "Database",
+      "OpenData"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -370513,23 +370636,6 @@
     "createdAt": "2023-07-31T18:31:59.258Z"
   },
   {
-    "id": "287109151",
-    "title": "Backpage",
-    "url": "https://www.2backpage.com/",
-    "description": "2backpage is a site similar to backpage and the free classified site in the world. People love us as a new backpage replacement or an alternative to 2backpage.com.",
-    "domain": "www.2backpage.com",
-    "cover": "https://rdl.ink/render/https%3A%2F%2Fwww.2backpage.com",
-    "favorite": false,
-    "category": "online-services",
-    "subcategory": [
-      "Database",
-      "Ads Classified Db"
-    ],
-    "tags": [],
-    "sourceCodeUrls": [],
-    "createdAt": "2021-05-24T10:15:54.000Z"
-  },
-  {
     "id": "731354413",
     "title": "backstage/backstage · GitHub",
     "url": "https://github.com/backstage/backstage",
@@ -371300,23 +371406,6 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2024-07-17T03:44:26.708Z"
-  },
-  {
-    "id": "287109150",
-    "title": "Bedpage",
-    "url": "https://www.bedpage.com/",
-    "description": null,
-    "domain": "www.bedpage.com",
-    "cover": null,
-    "favorite": false,
-    "category": "online-services",
-    "subcategory": [
-      "Database",
-      "Ads Classified Db"
-    ],
-    "tags": [],
-    "sourceCodeUrls": [],
-    "createdAt": "2020-09-17T19:52:24.000Z"
   },
   {
     "id": "678068980",
@@ -373887,6 +373976,7 @@
     "category": "online-services",
     "subcategory": [
       "Database",
+      "Multimedia Db",
       "Logos Db"
     ],
     "tags": [],
@@ -373904,6 +373994,7 @@
     "category": "online-services",
     "subcategory": [
       "Database",
+      "Multimedia Db",
       "Logos Db"
     ],
     "tags": [],
@@ -373921,6 +374012,7 @@
     "category": "online-services",
     "subcategory": [
       "Database",
+      "Multimedia Db",
       "Logos Db"
     ],
     "tags": [],
@@ -378024,6 +378116,7 @@
     "category": "online-services",
     "subcategory": [
       "Database",
+      "Hardware Db",
       "User Manual Db"
     ],
     "tags": [],
@@ -379267,6 +379360,7 @@
     "category": "online-services",
     "subcategory": [
       "Database",
+      "Multimedia Db",
       "Logos Db"
     ],
     "tags": [],
@@ -380736,23 +380830,6 @@
     "createdAt": "2025-07-16T16:11:44.907Z"
   },
   {
-    "id": "287104269",
-    "title": "Craigslist",
-    "url": "https://canarias.craigslist.org/",
-    "description": "craigslist ofrece anuncios clasificados y foros locales para empleos, viviendas, ventas, servicios, comunidad local y eventos",
-    "domain": "canarias.craigslist.org",
-    "cover": "https://rdl.ink/render/https%3A%2F%2Fcanarias.craigslist.org",
-    "favorite": false,
-    "category": "online-services",
-    "subcategory": [
-      "Database",
-      "Ads Classified Db"
-    ],
-    "tags": [],
-    "sourceCodeUrls": [],
-    "createdAt": "2019-10-30T20:13:16.000Z"
-  },
-  {
     "id": "500077637",
     "title": "Crave | Watch HBO, Showtime and Starz Movies and TV Shows Online",
     "url": "https://www.crave.ca/en",
@@ -381817,6 +381894,7 @@
     "category": "online-services",
     "subcategory": [
       "Database",
+      "Software Db",
       "Cybersecurity Vulnerabilities Db (CVE)"
     ],
     "tags": [],
@@ -381834,6 +381912,7 @@
     "category": "online-services",
     "subcategory": [
       "Database",
+      "Software Db",
       "Cybersecurity Vulnerabilities Db (CVE)",
       "CVE-Top"
     ],
@@ -381852,6 +381931,7 @@
     "category": "online-services",
     "subcategory": [
       "Database",
+      "Software Db",
       "Cybersecurity Vulnerabilities Db (CVE)",
       "CVE-Top"
     ],
@@ -381870,6 +381950,7 @@
     "category": "online-services",
     "subcategory": [
       "Database",
+      "Software Db",
       "Cybersecurity Vulnerabilities Db (CVE)",
       "CVE-Top"
     ],
@@ -381888,6 +381969,7 @@
     "category": "online-services",
     "subcategory": [
       "Database",
+      "Software Db",
       "Cybersecurity Vulnerabilities Db (CVE)",
       "CVE-Top"
     ],
@@ -381906,6 +381988,7 @@
     "category": "online-services",
     "subcategory": [
       "Database",
+      "Software Db",
       "Cybersecurity Vulnerabilities Db (CVE)",
       "CVE-Top"
     ],
@@ -381924,6 +382007,7 @@
     "category": "online-services",
     "subcategory": [
       "Database",
+      "Software Db",
       "Cybersecurity Vulnerabilities Db (CVE)"
     ],
     "tags": [],
@@ -381941,6 +382025,7 @@
     "category": "online-services",
     "subcategory": [
       "Database",
+      "Software Db",
       "Cybersecurity Vulnerabilities Db (CVE)",
       "CVE-Top"
     ],
@@ -381959,6 +382044,7 @@
     "category": "online-services",
     "subcategory": [
       "Database",
+      "Software Db",
       "Cybersecurity Vulnerabilities Db (CVE)",
       "CVE-Top"
     ],
@@ -381977,6 +382063,7 @@
     "category": "online-services",
     "subcategory": [
       "Database",
+      "Software Db",
       "Cybersecurity Vulnerabilities Db (CVE)",
       "CVE-Top"
     ],
@@ -381995,6 +382082,7 @@
     "category": "online-services",
     "subcategory": [
       "Database",
+      "Software Db",
       "Cybersecurity Vulnerabilities Db (CVE)",
       "CVE-Top"
     ],
@@ -382013,6 +382101,7 @@
     "category": "online-services",
     "subcategory": [
       "Database",
+      "Software Db",
       "Cybersecurity Vulnerabilities Db (CVE)",
       "CVE-Top"
     ],
@@ -382031,6 +382120,7 @@
     "category": "online-services",
     "subcategory": [
       "Database",
+      "Software Db",
       "Cybersecurity Vulnerabilities Db (CVE)",
       "CVE-Top"
     ],
@@ -382049,6 +382139,7 @@
     "category": "online-services",
     "subcategory": [
       "Database",
+      "Software Db",
       "Cybersecurity Vulnerabilities Db (CVE)",
       "CVE-Top"
     ],
@@ -382067,6 +382158,7 @@
     "category": "online-services",
     "subcategory": [
       "Database",
+      "Software Db",
       "Cybersecurity Vulnerabilities Db (CVE)",
       "CVE-Top"
     ],
@@ -382085,6 +382177,7 @@
     "category": "online-services",
     "subcategory": [
       "Database",
+      "Software Db",
       "Cybersecurity Vulnerabilities Db (CVE)",
       "CVE-Top"
     ],
@@ -382103,6 +382196,7 @@
     "category": "online-services",
     "subcategory": [
       "Database",
+      "Software Db",
       "Cybersecurity Vulnerabilities Db (CVE)",
       "CVE-Top"
     ],
@@ -382121,6 +382215,7 @@
     "category": "online-services",
     "subcategory": [
       "Database",
+      "Software Db",
       "Cybersecurity Vulnerabilities Db (CVE)"
     ],
     "tags": [
@@ -382160,6 +382255,7 @@
     "category": "online-services",
     "subcategory": [
       "Database",
+      "Software Db",
       "Cybersecurity Vulnerabilities Db (CVE)"
     ],
     "tags": [],
@@ -382855,7 +382951,8 @@
     "favorite": false,
     "category": "online-services",
     "subcategory": [
-      "Database"
+      "Database",
+      "Graph Map Db"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -382941,7 +383038,9 @@
     "favorite": false,
     "category": "online-services",
     "subcategory": [
-      "Database"
+      "Database",
+      "World Db",
+      "People Db"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -382958,6 +383057,8 @@
     "category": "online-services",
     "subcategory": [
       "Database",
+      "Multimedia Db",
+      "Games Db",
       "Pokemons Db"
     ],
     "tags": [],
@@ -383231,7 +383332,8 @@
     "category": "online-services",
     "subcategory": [
       "Database",
-      "Price Db"
+      "Hardware Db",
+      "Computer Hardware Db"
     ],
     "tags": [
       "❤️",
@@ -383250,7 +383352,8 @@
     "favorite": false,
     "category": "online-services",
     "subcategory": [
-      "Database"
+      "Database",
+      "World Db"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -383319,7 +383422,8 @@
     "favorite": false,
     "category": "online-services",
     "subcategory": [
-      "Database"
+      "Database",
+      "OpenData"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -384314,6 +384418,8 @@
     "category": "online-services",
     "subcategory": [
       "Database",
+      "Multimedia Db",
+      "Games Db",
       "Pokemons Db"
     ],
     "tags": [],
@@ -384757,7 +384863,9 @@
     "favorite": false,
     "category": "online-services",
     "subcategory": [
-      "Database"
+      "Database",
+      "List Db",
+      "Things List"
     ],
     "tags": [
       "Web: Database"
@@ -386313,7 +386421,9 @@
     "favorite": false,
     "category": "online-services",
     "subcategory": [
-      "Database"
+      "Database",
+      "World Db",
+      "Flora and Fauna Db"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -387867,6 +387977,7 @@
     "category": "online-services",
     "subcategory": [
       "Database",
+      "Software Db",
       "API Database"
     ],
     "tags": [],
@@ -390278,7 +390389,9 @@
     "favorite": false,
     "category": "online-services",
     "subcategory": [
-      "Database"
+      "Database",
+      "World Db",
+      "Demography Db"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -391469,24 +391582,6 @@
     "createdAt": "2021-10-12T23:31:46.304Z"
   },
   {
-    "id": "287111827",
-    "title": "Facebook Data leaked",
-    "url": "https://archive.is/MZqak",
-    "description": null,
-    "domain": "archive.is",
-    "cover": null,
-    "favorite": false,
-    "category": "online-services",
-    "subcategory": [
-      "Database"
-    ],
-    "tags": [
-      "Company: Meta (Facebook)"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2021-04-05T03:41:02.000Z"
-  },
-  {
     "id": "287102769",
     "title": "Facebook Gaming",
     "url": "https://www.facebook.com/gaming",
@@ -392360,6 +392455,7 @@
     "category": "online-services",
     "subcategory": [
       "Database",
+      "Software Db",
       "API Database"
     ],
     "tags": [],
@@ -395184,6 +395280,7 @@
     "category": "online-services",
     "subcategory": [
       "Database",
+      "Software Db",
       "API Database"
     ],
     "tags": [],
@@ -395603,22 +395700,6 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2020-09-06T14:07:03.000Z"
-  },
-  {
-    "id": "287111826",
-    "title": "Fotonail",
-    "url": "https://fotonail.com/",
-    "description": null,
-    "domain": "fotonail.com",
-    "cover": "https://rdl.ink/render/https%3A%2F%2Ffotonail.com",
-    "favorite": false,
-    "category": "online-services",
-    "subcategory": [
-      "Database"
-    ],
-    "tags": [],
-    "sourceCodeUrls": [],
-    "createdAt": "2021-01-17T19:10:00.000Z"
   },
   {
     "id": "287108494",
@@ -396839,6 +396920,7 @@
     "category": "online-services",
     "subcategory": [
       "Database",
+      "Software Db",
       "API Database"
     ],
     "tags": [],
@@ -408192,7 +408274,9 @@
     "favorite": false,
     "category": "online-services",
     "subcategory": [
-      "Database"
+      "Database",
+      "World Db",
+      "Places Db"
     ],
     "tags": [
       "Web: Database"
@@ -410537,6 +410621,7 @@
     "category": "online-services",
     "subcategory": [
       "Database",
+      "Software Db",
       "API Database"
     ],
     "tags": [],
@@ -410999,6 +411084,7 @@
     "category": "online-services",
     "subcategory": [
       "Database",
+      "Software Db",
       "Cybersecurity Vulnerabilities Db (CVE)"
     ],
     "tags": [],
@@ -411567,7 +411653,9 @@
     "favorite": false,
     "category": "online-services",
     "subcategory": [
-      "Database"
+      "Database",
+      "World Db",
+      "Genome Db"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -412989,7 +413077,9 @@
     "favorite": false,
     "category": "online-services",
     "subcategory": [
-      "Database"
+      "Database",
+      "World Db",
+      "Economy Db"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -418288,7 +418378,9 @@
     "favorite": false,
     "category": "online-services",
     "subcategory": [
-      "Database"
+      "Database",
+      "Multimedia Db",
+      "Logos Db"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -418305,6 +418397,7 @@
     "category": "online-services",
     "subcategory": [
       "Database",
+      "Multimedia Db",
       "Logos Db"
     ],
     "tags": [],
@@ -418322,6 +418415,7 @@
     "category": "online-services",
     "subcategory": [
       "Database",
+      "Multimedia Db",
       "Logos Db"
     ],
     "tags": [],
@@ -418339,6 +418433,7 @@
     "category": "online-services",
     "subcategory": [
       "Database",
+      "Multimedia Db",
       "Logos Db"
     ],
     "tags": [],
@@ -419418,24 +419513,6 @@
     "createdAt": "2023-06-28T16:34:15.220Z"
   },
   {
-    "id": "997740542",
-    "title": "MAC Address Vendor Lookup",
-    "url": "https://maclookup.app/",
-    "description": "Fast and easy MAC address lookup on IEEE directory and Wireshark manufacturer database. Search vendor, manufacturer or organization of a device by MAC/OUI address. Fast REST API",
-    "domain": "maclookup.app",
-    "cover": "https://maclookup.app/img/macvendor21_b.png",
-    "favorite": false,
-    "category": "online-services",
-    "subcategory": [
-      "Database"
-    ],
-    "tags": [
-      "Web: Database"
-    ],
-    "sourceCodeUrls": [],
-    "createdAt": "2025-03-22T22:00:18.747Z"
-  },
-  {
     "id": "724470387",
     "title": "MacGameStore - Mac Games and More",
     "url": "https://www.macgamestore.com/",
@@ -420154,6 +420231,7 @@
     "category": "online-services",
     "subcategory": [
       "Database",
+      "Hardware Db",
       "User Manual Db"
     ],
     "tags": [],
@@ -420171,6 +420249,7 @@
     "category": "online-services",
     "subcategory": [
       "Database",
+      "Hardware Db",
       "User Manual Db"
     ],
     "tags": [],
@@ -420188,6 +420267,7 @@
     "category": "online-services",
     "subcategory": [
       "Database",
+      "Hardware Db",
       "User Manual Db"
     ],
     "tags": [],
@@ -420205,6 +420285,7 @@
     "category": "online-services",
     "subcategory": [
       "Database",
+      "Hardware Db",
       "User Manual Db"
     ],
     "tags": [],
@@ -420222,6 +420303,7 @@
     "category": "online-services",
     "subcategory": [
       "Database",
+      "Hardware Db",
       "User Manual Db"
     ],
     "tags": [],
@@ -420239,6 +420321,7 @@
     "category": "online-services",
     "subcategory": [
       "Database",
+      "Hardware Db",
       "User Manual Db"
     ],
     "tags": [],
@@ -420980,6 +421063,7 @@
     "category": "online-services",
     "subcategory": [
       "Database",
+      "Multimedia Db",
       "Logos Db"
     ],
     "tags": [
@@ -429231,6 +429315,7 @@
     "category": "online-services",
     "subcategory": [
       "Database",
+      "Software Db",
       "Cybersecurity Vulnerabilities Db (CVE)"
     ],
     "tags": [],
@@ -429613,23 +429698,6 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2024-01-07T19:45:25.568Z"
-  },
-  {
-    "id": "287109148",
-    "title": "obackpage",
-    "url": "https://obackpage.com/",
-    "description": "obackpage is a site similar to backpage & free classified sites in this world. Everyone like a new backpage replacement or an alternative to obackpage.com",
-    "domain": "obackpage.com",
-    "cover": "https://twitter.com/obackpage/photo",
-    "favorite": false,
-    "category": "online-services",
-    "subcategory": [
-      "Database",
-      "Ads Classified Db"
-    ],
-    "tags": [],
-    "sourceCodeUrls": [],
-    "createdAt": "2021-05-24T10:25:27.000Z"
   },
   {
     "id": "677933260",
@@ -431382,6 +431450,7 @@
     "category": "online-services",
     "subcategory": [
       "Database",
+      "Software Db",
       "Cybersecurity Vulnerabilities Db (CVE)"
     ],
     "tags": [],
@@ -434411,7 +434480,9 @@
     "favorite": false,
     "category": "online-services",
     "subcategory": [
-      "Database"
+      "Database",
+      "Multimedia Db",
+      "Games Db"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -435615,7 +435686,8 @@
     "favorite": false,
     "category": "online-services",
     "subcategory": [
-      "Database"
+      "Database",
+      "World Db"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -436421,6 +436493,8 @@
     "category": "online-services",
     "subcategory": [
       "Database",
+      "Multimedia Db",
+      "Games Db",
       "Pokemons Db"
     ],
     "tags": [],
@@ -436438,6 +436512,8 @@
     "category": "online-services",
     "subcategory": [
       "Database",
+      "Multimedia Db",
+      "Games Db",
       "Pokemons Db"
     ],
     "tags": [],
@@ -436455,6 +436531,7 @@
     "category": "online-services",
     "subcategory": [
       "Database",
+      "Software Db",
       "API Database"
     ],
     "tags": [],
@@ -436472,6 +436549,8 @@
     "category": "online-services",
     "subcategory": [
       "Database",
+      "Multimedia Db",
+      "Games Db",
       "Pokemons Db"
     ],
     "tags": [],
@@ -438542,6 +438621,7 @@
     "category": "online-services",
     "subcategory": [
       "Database",
+      "Software Db",
       "API Database"
     ],
     "tags": [
@@ -438889,6 +438969,7 @@
     "category": "online-services",
     "subcategory": [
       "Database",
+      "Software Db",
       "Cybersecurity Vulnerabilities Db (CVE)"
     ],
     "tags": [],
@@ -439128,7 +439209,9 @@
     "favorite": false,
     "category": "online-services",
     "subcategory": [
-      "Database"
+      "Database",
+      "World Db",
+      "People Db"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -439971,6 +440054,7 @@
     "category": "online-services",
     "subcategory": [
       "Database",
+      "Software Db",
       "API Database"
     ],
     "tags": [],
@@ -442689,7 +442773,9 @@
     "favorite": false,
     "category": "online-services",
     "subcategory": [
-      "Database"
+      "Database",
+      "World Db",
+      "Places Db"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -445865,6 +445951,7 @@
     "category": "online-services",
     "subcategory": [
       "Database",
+      "Hardware Db",
       "User Manual Db"
     ],
     "tags": [
@@ -447306,7 +447393,9 @@
     "favorite": false,
     "category": "online-services",
     "subcategory": [
-      "Database"
+      "Database",
+      "World Db",
+      "Places Db"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -449323,6 +449412,7 @@
     "category": "online-services",
     "subcategory": [
       "Database",
+      "Software Db",
       "API Database"
     ],
     "tags": [],
@@ -453139,7 +453229,9 @@
     "favorite": false,
     "category": "online-services",
     "subcategory": [
-      "Database"
+      "Database",
+      "World Db",
+      "Places Db"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -455103,6 +455195,7 @@
     "category": "online-services",
     "subcategory": [
       "Database",
+      "Software Db",
       "API Database"
     ],
     "tags": [
@@ -455179,6 +455272,7 @@
     "category": "online-services",
     "subcategory": [
       "Database",
+      "Software Db",
       "API Database"
     ],
     "tags": [
@@ -455198,7 +455292,9 @@
     "favorite": false,
     "category": "online-services",
     "subcategory": [
-      "Database"
+      "Database",
+      "World Db",
+      "Places Db"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -457236,7 +457332,9 @@
     "favorite": false,
     "category": "online-services",
     "subcategory": [
-      "Database"
+      "Database",
+      "Hardware Db",
+      "Automobile Db"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -459180,7 +459278,8 @@
     "favorite": false,
     "category": "online-services",
     "subcategory": [
-      "Database"
+      "Database",
+      "OpenData"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -459346,7 +459445,8 @@
     "favorite": false,
     "category": "online-services",
     "subcategory": [
-      "Database"
+      "Database",
+      "Hardware Db"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -460105,6 +460205,7 @@
     "category": "online-services",
     "subcategory": [
       "Database",
+      "Software Db",
       "API Database"
     ],
     "tags": [
@@ -461110,6 +461211,7 @@
     "category": "online-services",
     "subcategory": [
       "Database",
+      "Software Db",
       "Cybersecurity Vulnerabilities Db (CVE)"
     ],
     "tags": [],
@@ -461771,6 +461873,7 @@
     "category": "online-services",
     "subcategory": [
       "Database",
+      "Software Db",
       "Cybersecurity Vulnerabilities Db (CVE)"
     ],
     "tags": [
@@ -463434,6 +463537,7 @@
     "category": "online-services",
     "subcategory": [
       "Database",
+      "Software Db",
       "Cybersecurity Vulnerabilities Db (CVE)"
     ],
     "tags": [],
@@ -467205,7 +467309,9 @@
     "favorite": false,
     "category": "online-services",
     "subcategory": [
-      "Database"
+      "Database",
+      "World Db",
+      "Company Db"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -467452,7 +467558,9 @@
     "favorite": false,
     "category": "online-services",
     "subcategory": [
-      "Database"
+      "Database",
+      "World Db",
+      "Language Db"
     ],
     "tags": [
       "Source Code: GitHub",
@@ -467799,7 +467907,8 @@
     "favorite": false,
     "category": "online-services",
     "subcategory": [
-      "Database"
+      "Database",
+      "World Db"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -468754,6 +468863,7 @@
     "category": "online-services",
     "subcategory": [
       "Database",
+      "Software Db",
       "Cybersecurity Vulnerabilities Db (CVE)"
     ],
     "tags": [],
@@ -469481,22 +469591,6 @@
     "createdAt": "2020-10-25T13:22:37.000Z"
   },
   {
-    "id": "287111811",
-    "title": "YouTube-8M",
-    "url": "https://research.google.com/youtube8m",
-    "description": null,
-    "domain": "research.google.com",
-    "cover": "https://rdl.ink/render/https%3A%2F%2Fresearch.google.com%2Fyoutube8m",
-    "favorite": false,
-    "category": "online-services",
-    "subcategory": [
-      "Database"
-    ],
-    "tags": [],
-    "sourceCodeUrls": [],
-    "createdAt": "2020-08-22T20:59:24.000Z"
-  },
-  {
     "id": "472912722",
     "title": "YouTubers.me",
     "url": "https://us.youtubers.me/",
@@ -470045,6 +470139,7 @@
     "category": "online-services",
     "subcategory": [
       "Database",
+      "Software Db",
       "API Database"
     ],
     "tags": [],
@@ -470139,7 +470234,9 @@
     "favorite": false,
     "category": "online-services",
     "subcategory": [
-      "Database"
+      "Database",
+      "World Db",
+      "Places Db"
     ],
     "tags": [],
     "sourceCodeUrls": [],
@@ -470350,28 +470447,6 @@
     "createdAt": "2025-05-24T15:18:27.368Z"
   },
   {
-    "id": "1607087061",
-    "title": "Zvec | A lightweight, lightning-fast, in-process vector database",
-    "url": "https://zvec.org/en/",
-    "description": null,
-    "domain": "zvec.org",
-    "cover": "https://rdl.ink/render/https%3A%2F%2Fzvec.org%2Fen%2F",
-    "favorite": false,
-    "category": "online-services",
-    "subcategory": [
-      "Database"
-    ],
-    "tags": [
-      "Source Code: GitHub",
-      "Type: Open-Source",
-      "Company: Alibaba Group"
-    ],
-    "sourceCodeUrls": [
-      "https://github.com/alibaba/zvec"
-    ],
-    "createdAt": "2026-02-18T09:17:18.160Z"
-  },
-  {
     "id": "287105144",
     "title": "ZX2C4 Git Repository",
     "url": "https://git.zx2c4.com/",
@@ -470401,6 +470476,7 @@
     "category": "online-services",
     "subcategory": [
       "Database",
+      "Hardware Db",
       "User Manual Db"
     ],
     "tags": [],
@@ -543142,6 +543218,25 @@
     "tags": [],
     "sourceCodeUrls": [],
     "createdAt": "2026-11-04T22:15:13.865Z"
+  },
+  {
+    "id": "997740542",
+    "title": "MAC Address Vendor Lookup",
+    "url": "https://maclookup.app/",
+    "description": "Fast and easy MAC address lookup on IEEE directory and Wireshark manufacturer database. Search vendor, manufacturer or organization of a device by MAC/OUI address. Fast REST API",
+    "domain": "maclookup.app",
+    "cover": "https://maclookup.app/img/macvendor21_b.png",
+    "favorite": false,
+    "category": "system-administration",
+    "subcategory": [
+      "Networking",
+      "Online Networking Tools"
+    ],
+    "tags": [
+      "Web: Database"
+    ],
+    "sourceCodeUrls": [],
+    "createdAt": "2025-03-22T22:00:18.747Z"
   },
   {
     "id": "1853879448",

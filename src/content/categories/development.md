@@ -5,7 +5,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 
 # Development
 
-**Total Bookmarks:** 2848
+**Total Bookmarks:** 2849
 
 - [Adobe Open Source](https://opensource.adobe.com/)
 - [Asterisk](https://www.asterisk.org/)
@@ -359,6 +359,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [Vector database](https://milvus.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/milvus-io/milvus) — Milvus
 - [Weavite](https://weaviate.io/) — vector database
 - [yugabyte/yugabyte-db · GitHub](https://github.com/yugabyte/yugabyte-db)
+- [Zvec](https://zvec.org/en/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/alibaba/zvec) — A lightweight, lightning-fast, in-process vector database
 
 ### Serverless Database
 - [Arroyo](https://www.arroyo.dev/) — Serverless stream processing

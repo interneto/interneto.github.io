@@ -5,7 +5,7 @@ description: Stores, marketplaces, product research, and resale
 
 # Business & Commerce
 
-**Total Bookmarks:** 5127
+**Total Bookmarks:** 5131
 
 
 ## Corporation
@@ -954,6 +954,12 @@ description: Stores, marketplaces, product research, and resale
 - [Thomasnet](https://www.thomasnet.com/)
 
 #### Marketplaces
+
+##### Ads Classified Db
+- [Backpage](https://www.2backpage.com/)
+- [Bedpage](https://www.bedpage.com/)
+- [Craigslist](https://canarias.craigslist.org/)
+- [obackpage](https://obackpage.com/)
 
 ##### Auction Store
 - [Catawiki](https://www.catawiki.com/en)

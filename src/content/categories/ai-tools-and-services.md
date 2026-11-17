@@ -5,7 +5,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 
 # AI Tools & Services
 
-**Total Bookmarks:** 910
+**Total Bookmarks:** 911
 
 
 ## Agents & Automation
@@ -704,6 +704,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [RikiyaT/lm_understand-logs](https://github.com/RikiyaT/lm_understand-logs)
 - [SWE-bench](https://www.swebench.com/)
 - [World of AI Bench](https://www.woaibench.ai/) — AI Coding Benchmark and Model Rankings
+- [YouTube-8M](https://research.google.com/youtube8m)
 
 ### AI Study & Writing
 - [ai-boost/awesome-prompts · GitHub](https://github.com/ai-boost/awesome-prompts/tree/main)
