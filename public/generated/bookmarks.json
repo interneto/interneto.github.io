@@ -5951,6 +5951,26 @@
     "createdAt": "2026-04-29T11:43:15.513Z"
   },
   {
+    "id": "1932561936",
+    "title": "Fourques/Takeboard: Open-source AI creation canvas built on ComfyUI. Choose models, connect media, and generate images and videos with your own local or remote setup.",
+    "url": "https://github.com/Fourques/Takeboard",
+    "description": "Open-source AI creation canvas built on ComfyUI. Choose models, connect media, and generate images and videos with your own local or remote setup. - Fourques/Takeboard",
+    "domain": "github.com",
+    "cover": "https://opengraph.githubassets.com/1033c6d3901cb8a9a6b8f83aeff239a050139f8834a09e5b3a8253ecae9e4db7/Fourques/Takeboard",
+    "favorite": false,
+    "category": "ai-tools-and-services",
+    "subcategory": [
+      "Generative Media",
+      "AI Creative Suite"
+    ],
+    "tags": [
+      "Source Code: GitHub",
+      "Type: Open-Source"
+    ],
+    "sourceCodeUrls": [],
+    "createdAt": "2026-11-17T02:05:45.937Z"
+  },
+  {
     "id": "1613338744",
     "title": "Free AI Image Upscaler | No Sign-Up, No Watermarks, Up to 16K",
     "url": "https://image-upscaling.net/upscaling/en.html",

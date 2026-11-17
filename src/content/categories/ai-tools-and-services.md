@@ -5,7 +5,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 
 # AI Tools & Services
 
-**Total Bookmarks:** 909
+**Total Bookmarks:** 910
 
 
 ## Agents & Automation
@@ -335,6 +335,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [ComfyUI Cloud](https://cloud.comfy.org/cloud/login)
 - [Figma Weave](https://weave.figma.com/) — AI-Powered Design Workflows, Built for Creative Pros
 - [FLORA](https://flora.ai/) — Generative AI Canvas for Creative Teams
+- [Fourques/Takeboard](https://github.com/Fourques/Takeboard) — Open-source AI creation canvas built on ComfyUI. Choose models, connect media, and generate images and videos with your own local or remote setup.
 - [Google Flow](https://labs.google/fx/tools/flow) — AI Creative Studio for Video, Images & Custom Tools
 - [ImagineArt](https://www.imagine.art/) — AI Creative Suite
 - [Krea](https://www.krea.ai/) — AI Creative Suite for Images, Video, & 3D
