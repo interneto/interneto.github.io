@@ -5,7 +5,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 
 # Multimedia
 
-**Total Bookmarks:** 2328
+**Total Bookmarks:** 2329
 
 
 ## Audio & Music
@@ -2528,8 +2528,9 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [video-dev/hls.js · GitHub](https://github.com/video-dev/hls.js)
 - [Zulko/moviepy · GitHub](https://github.com/Zulko/moviepy)
 
-### Video Streaming app
+### Video Streaming App
 - ⭐ **[MediaHub-Org/PlayTorrioMov](https://github.com/MediaHub-Org/PlayTorrioMov)** — PlayTorrio fork adapted just for Movies/Series/Anime with SOLID UI/UX
 - ⭐ **[Vyla Home](https://vyla.cc/)** / [![GitLab](/img/source-hosts/gitlab.svg)](https://gitlab.com/vyla-entertainment/home) — Self-Hosted Desktop Media Center
 - [CloudStream APK Official Download v4.8.0](https://cloudstream-apk.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/recloudstream/cloudstream) — All Repositories
+- [VyseTV · Everything you watch, one app](https://vysetv.cc/) / [![GitLab](/img/source-hosts/gitlab.svg)](https://gitlab.com/ayman707-ux/vysetv)
 - [ZorrillosDev/watchit-app](https://github.com/ZorrillosDev/watchit-app) — Open movies everywhere

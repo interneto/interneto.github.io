@@ -5,7 +5,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 
 # Development
 
-**Total Bookmarks:** 2849
+**Total Bookmarks:** 2850
 
 - [Adobe Open Source](https://opensource.adobe.com/)
 - [Asterisk](https://www.asterisk.org/)
@@ -2195,7 +2195,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [github/gitignore · GitHub](https://github.com/github/gitignore)
 - [Gitleaks](https://gitleaks.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/gitleaks/gitleaks)
 - [Gitnuro](https://gitnuro.jetpackduba.com/)
-- [Gittyup](https://murmele.github.io/Gittyup/)
+- [Gittyup](https://murmele.github.io/Gittyup/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Murmele/Gittyup)
 - [GitUp](https://gitup.co/)
 - [GitWand](https://gitwand.devlint.fr/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/devlint/GitWand)
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) / [![GitHub](/img/software/apps/github.svg)](https://github.com/junegunn/fzf) — simple terminal UI for git commands
@@ -2214,6 +2214,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [Thermal CodeCarrot](https://thermal.codecarrot.net/)
 - [TMate SubGit](https://subgit.com/)
 - [TortoiseGit](https://tortoisegit.org/)
+- [Tributary · Git, beautifully clear](https://shikoko.github.io/tributary/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/shikoko/tributary)
 - [typicode/husky](https://github.com/typicode/husky) — Git hooks made easy 🐶 woof!
 - [Vershd Git GUI](https://vershd.io/)
 - [Working Copy](https://workingcopyapp.com/)

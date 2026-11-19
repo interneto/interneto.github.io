@@ -5,7 +5,7 @@ description: Browsers and browser-related tools
 
 # Web Browsers
 
-**Total Bookmarks:** 161
+**Total Bookmarks:** 162
 
 - ⭐ **[Lightpanda](https://lightpanda.io/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/lightpanda-io/browser) — The headless browser
 - [Arc from The Browser Company](https://arc.net/)
@@ -30,6 +30,7 @@ description: Browsers and browser-related tools
 - [truefedex/tv-bro](https://github.com/truefedex/tv-bro) — Simple web browser for android optimized to use with TV remote
 - [W3M](https://w3m.sourceforge.net/)
 - [web-platform-tests dashboard](https://wpt.fyi/results/?label=experimental&label=master&aligned) / [![GitHub](/img/software/apps/github.svg)](https://github.com/web-platform-tests/wpt.fyi)
+- [Zigzag](https://zigzagbrowser.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/ZigaoWang/zigzag) — A Lightweight Web Browser for Mac
 
 ## Chromium-Based
 - ⭐ **[Chromium](https://www.chromium.org/Home/)**

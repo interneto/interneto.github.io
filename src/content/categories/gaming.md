@@ -5,7 +5,7 @@ description: Games, launchers, emulators, and gaming utilities
 
 # Gaming
 
-**Total Bookmarks:** 804
+**Total Bookmarks:** 805
 
 
 ## Games
@@ -880,6 +880,7 @@ description: Games, launchers, emulators, and gaming utilities
 - [Simulation Games O](https://simulationgameso.com/)
 - [SisiGames](https://www.sisigames.com/)
 - [Snokido](https://www.snokido.com/)
+- [VICE '86](https://heat.pplx.app/)
 - [Videojuegos.com](https://www.videojuegos.com/)
 - [What's a Mook? Games](https://whatsamook.games/) — Free Online Party Games
 - [Y8 Games](https://www.y8.com/)

@@ -297,7 +297,7 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [Zene.dl](https://zene.download/)
 - [ZHouse.org](https://zhouse.org/)
 
-#### Video dl
+#### Video DL
 - ⭐ **[JDownloader](https://jdownloader.org/)** / [🔗](https://beta.jdownloader.org/development)
 - ⭐ **[Youtube-dl · GitHub](https://github.com/ytdl-org/youtube-dl)**
 - [4K Download](https://www.4kdownload.com/39)
@@ -382,7 +382,7 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [YTD Video Converter](https://www.ytddownloader.com/)
 - [YTDLnis](https://ytdlnis.org/)
 
-##### Instagram dl
+##### Instagram DL
 - [Gramsaver](https://gramsaver.com/)
 - [IG Downloader](https://igdownloader.app/en)
 - [Igram.io](https://igram.io/)
@@ -392,13 +392,13 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [Snapinsta](https://snapinsta.app/)
 - [Sssinstagram](https://sssinstagram.com/)
 
-##### Thumbnail dl
+##### Thumbnail DL
 - [Thumbnail Youtube video](https://img.youtube.com/vi/uQITWbAaDx0/maxresdefault.jpg)
 - [ThumbnailSave](https://thumbnailsave.com/)
 - [Youtube thumbnail Grabber](https://youtube-thumbnail-grabber.com/)
 - [YTimg ID](https://i.ytimg.com/vi/gocwRvLhDf8/hq720.jpg)
 
-##### Twitch dl
+##### Twitch DL
 - [Clip.ninja](https://clip.ninja/)
 - [Clipr.xyz](https://clipr.xyz/)
 - [Clipsey](https://clipsey.com/)
@@ -406,7 +406,7 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [Twiclips](https://twiclips.com/)
 - [UnTwitch](https://untwitch.com/)
 
-##### YouTube dl
+##### YouTube DL
 - ⭐ **[9covert.com](https://9convert.com/en100)**
 - ⭐ **[aandrew-me/ytDownloader · GitHub](https://github.com/aandrew-me/ytDownloader)**
 - [10 Downloader](https://10downloader.com/en)

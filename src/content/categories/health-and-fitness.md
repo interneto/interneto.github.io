@@ -5,7 +5,7 @@ description: Workouts, wellness, and health tracking
 
 # Health & Fitness
 
-**Total Bookmarks:** 379
+**Total Bookmarks:** 380
 
 - [Alma](https://www.alma.food/) — Your Nutrition Companion | Track, Learn & Discover Food
 - [Barbell Medicine](https://www.barbellmedicine.com/) — Science-Based Coaching & Nutrition
@@ -301,6 +301,7 @@ description: Workouts, wellness, and health tracking
 - [Google Fit](https://www.google.com/fit/)
 - [GOWOD](https://www.gowod.app/) — Personalized Mobility & Stretching For Every Sport
 - [Gym Virtual](http://gymvirtual.com/)
+- [Gym visual](https://gymvisual.com/) — Workout animations, GIFs and illustrations
 - [Haga Calentamiento](http://www.hagacalentamiento.com/)
 - [Hevy](https://www.hevyapp.com/) — Workout Tracker
 - [Iamlooker/Kenko](https://github.com/Iamlooker/Kenko) — A workout journal
