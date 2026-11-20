@@ -5,7 +5,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 
 # OS & Utilities
 
-**Total Bookmarks:** 1260
+**Total Bookmarks:** 1261
 
 - [Comparison of OS](https://en.wikipedia.org/wiki/Comparison_of_operating_systems) — Wikipedia
 - [Comparison of real-time operating systems](https://en.wikipedia.org/wiki/Comparison_of_real-time_operating_systems) — Wikipedia
@@ -842,6 +842,7 @@ description: Operating systems, OS components, WMs, system tools, hardware utili
 - ⭐ **[ChangeWindows](https://www.changewindows.org/timeline)** — Timeline
 - ⭐ **[dockur/windows · GitHub](https://github.com/dockur/windows)**
 - ⭐ **[tiny11 23H2](https://archive.org/details/tiny-10-23-h2)** — Internet Archive
+- [andrisgauracs/bevel-os](https://github.com/andrisgauracs/bevel-os) — A small Windows-95-style desktop OS for a single ESP32-S3 on a VGA monitor, written by Claude Fable 5.2
 - [Atlas](https://atlasos.net/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Atlas-OS/Atlas) — An optimized modification of Windows
 - [Atlas-OS/Atlas · GitHub](https://github.com/Atlas-OS/Atlas)
 - [HickerDicker/SapphireOS](https://github.com/HickerDicker/SapphireOS)

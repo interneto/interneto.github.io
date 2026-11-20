@@ -5,7 +5,7 @@ description: Games, launchers, emulators, and gaming utilities
 
 # Gaming
 
-**Total Bookmarks:** 805
+**Total Bookmarks:** 806
 
 
 ## Games
@@ -876,6 +876,7 @@ description: Games, launchers, emulators, and gaming utilities
 - [PlayOK](https://www.playok.com/)
 - [Pogo](https://www.pogo.com/)
 - [Poki](https://poki.com/) — Free online games
+- [Portals](https://portals-endless-worlds.netlify.app/)
 - [Silvergames](https://www.silvergames.com/en)
 - [Simulation Games O](https://simulationgameso.com/)
 - [SisiGames](https://www.sisigames.com/)

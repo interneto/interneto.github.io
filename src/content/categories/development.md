@@ -5,7 +5,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 
 # Development
 
-**Total Bookmarks:** 2850
+**Total Bookmarks:** 2852
 
 - [Adobe Open Source](https://opensource.adobe.com/)
 - [Asterisk](https://www.asterisk.org/)
@@ -880,6 +880,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [NationalSecurityAgency/ghidra · GitHub](https://github.com/NationalSecurityAgency/ghidra)
 - [NTInfo](https://horsicq.github.io/)
 - [radare.org](https://www.radare.org/n/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/radareorg/radare2)
+- [storytold/craft-anything](https://github.com/storytold/craft-anything) — Craft Anything: understand how any software works, and craft your own
 - [x64dbg](https://x64dbg.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/x64dbg/x64dbg)
 
 ### Front-End Framework
@@ -1886,7 +1887,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [ycm-core/YouCompleteMe · GitHub](https://github.com/ycm-core/YouCompleteMe)
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) — Use your Neovim like using Cursor AI IDE!
 
-#### VSCode Extension
+#### VS Code Extension
 - [aaron-bond/better-comments · GitHub](https://github.com/aaron-bond/better-comments)
 - [ai-genie/chatgpt-vscode · GitHub](https://github.com/ai-genie/chatgpt-vscode)
 - [AICCOF/chatmoss-ui · GitHub](https://github.com/AICCOF/chatmoss-ui)
@@ -1965,6 +1966,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [ritwickdey/vscode-live-server · GitHub](https://github.com/ritwickdey/vscode-live-server)
 - [shufo/vscode-blade-formatter · GitHub](https://github.com/shufo/vscode-blade-formatter)
 - [sidthesloth92/vsc_html5_boilerplate · GitHub](https://github.com/sidthesloth92/vsc_html5_boilerplate)
+- [SplaySpace](https://splayspace.com/) — live collaborative coding in VS Code
 - [sveltejs/language-tools](https://github.com/sveltejs/language-tools) — The Svelte Language Server, and official extensions which use it
 - [svsool/memo](https://github.com/svsool/memo) — Markdown knowledge base with bidirectional \[\[link\]\]s built on top of VSCode
 - [tailwindlabs/tailwindcss-intellisense](https://github.com/tailwindlabs/tailwindcss-intellisense) — Intelligent Tailwind CSS tooling for Visual Studio Code

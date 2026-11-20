@@ -5917,7 +5917,7 @@ description: Search engines, web directories, software directories, corporations
 - [ProSettings.net](https://prosettings.net/)
 
 #### CPU Comparator
-- [BrowserBench.org](https://browserbench.org/)
+- [BrowserBench.org](https://browserbench.org/) — Browser Benchmarks
 - [Comparación CPU, GPU](https://technical.city/es)
 - [GPUCheck](https://www.gpucheck.com/)
 - [UserBenchmark](https://www.userbenchmark.com/)

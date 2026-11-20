@@ -5,7 +5,7 @@ description: Stores, marketplaces, product research, and resale
 
 # Business & Commerce
 
-**Total Bookmarks:** 5131
+**Total Bookmarks:** 5132
 
 
 ## Corporation
@@ -4905,6 +4905,7 @@ description: Stores, marketplaces, product research, and resale
 - [Scale AI](https://scale.com/) — The Data Platform for AI
 - [SenseNova · GitHub](https://github.com/OpenSenseNova)
 - [Sherpa.ai](https://www.sherpa.ai/)
+- [SID AI](https://www.sid.ai/)
 - [Smol.ai](https://smol.ai/)
 - [SupraLabs · Independent AI Lab](https://supra-labs.com/)
 - [Syte.ai](https://www.syte.ai/)

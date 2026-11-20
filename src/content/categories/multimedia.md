@@ -1314,6 +1314,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [POV-Ray](https://www.povray.org/)
 - [Real-Time Rendering Resources](https://www.realtimerendering.com/)
 - [RealFlow Fluids & Multiphysics Simulation Software](https://realflow.com/) — Next Limit
+- [SamG-Coder/SmartImposter](https://github.com/SamG-Coder/SmartImposter) — Hardware ray-traced forest renderer (Rust + Vulkan) with parallax octahedral impostors evaluated by the RTX cores
 - [Twinmotion](https://www.twinmotion.com/en-US)
 - [YafaRay/libYafaRay · GitHub](https://github.com/YafaRay/libYafaRay)
 
@@ -2214,15 +2215,12 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 ### Video Client
 - ⭐ **[Alex313031/quark-player](https://github.com/Alex313031/quark-player)** — An Electron based Web Video Services Player, supporting Netflix, Youtube, Twitch, Floatplane, Hulu and More!
 - ⭐ **[Grayjay](https://grayjay.app/)** / [![GitLab](/img/source-hosts/gitlab.svg)](https://gitlab.futo.org/videostreaming/grayjay) — Follow Creators, Not Platforms
-- ⭐ **[PlayTorrio](https://playtorrio.xyz/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/ayman708-UX/PlayTorrioV2) — Open-Source by Ayman
-- ⭐ **[Stremio](https://www.stremio.com/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/stremio) — Freedom to Stream
 - [AbleMusic](https://uditkarode.github.io/able/)
 - [Atlas for Windows](https://atlas.hls.lol/)
 - [Benexl/yt-x](https://github.com/Benexl/yt-x) — Browse youtube from your terminal
 - [cuynu/ytvanced · GitHub](https://github.com/cuynu/ytvanced)
 - [d-k-bo/televido](https://github.com/d-k-bo/televido) — Access German-language public broadcasting live streams and archives on the Linux Desktop
 - [Delfin](https://delfin.avery.cafe/) / [![Codeberg](/img/source-hosts/codeberg.svg)](https://codeberg.org/avery42/delfin) — Jellyfin client
-- [Fly Stream](https://flystream.net/) — Free Movies & TV, No Login
 - [jellyfin/jellyfin-mpv-shim · GitHub](https://github.com/jellyfin/jellyfin-mpv-shim)
 - [Leonflix](https://leonflix.net/)
 - [mu-fazil-vk/FluxTube · GitHub](https://github.com/mu-fazil-vk/FluxTube)
@@ -2321,6 +2319,15 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [XCIPTV Smart Player](https://xciptvsmartplayer.com/)
 - [ynotv](https://tbeezy.github.io/ynotvdoc/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/tbeezy/ynotv/) — Modern FOSS Windows IPTV Player w/ Stremio & Nuvio integration
 - [yuki-iptv](https://codeberg.org/liya/yuki-iptv)
+
+#### Video Streaming App
+- ⭐ **[MediaHub-Org/PlayTorrioMov](https://github.com/MediaHub-Org/PlayTorrioMov)** — PlayTorrio fork adapted just for Movies/Series/Anime with SOLID UI/UX
+- ⭐ **[Stremio](https://www.stremio.com/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/stremio) — Freedom to Stream
+- ⭐ **[Vyla Home](https://vyla.cc/)** / [![GitLab](/img/source-hosts/gitlab.svg)](https://gitlab.com/vyla-entertainment/home) — Self-Hosted Desktop Media Center
+- ⭐ **[VyseTV · Everything you watch, one app](https://vysetv.cc/)** / [![GitLab](/img/source-hosts/gitlab.svg)](https://gitlab.com/ayman707-ux/vysetv)
+- [CloudStream APK Official Download v4.8.0](https://cloudstream-apk.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/recloudstream/cloudstream) — All Repositories
+- [Fly Stream](https://flystream.net/) — Free Movies & TV, No Login
+- [ZorrillosDev/watchit-app](https://github.com/ZorrillosDev/watchit-app) — Open movies everywhere
 
 #### YouTube Client
 - ⭐ **[Flow](https://flow-tube.org/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/Flow-Tube/Flow) — A YouTube Client That Learns With You
@@ -2527,10 +2534,3 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [Pion.ly](https://pion.ly/)
 - [video-dev/hls.js · GitHub](https://github.com/video-dev/hls.js)
 - [Zulko/moviepy · GitHub](https://github.com/Zulko/moviepy)
-
-### Video Streaming App
-- ⭐ **[MediaHub-Org/PlayTorrioMov](https://github.com/MediaHub-Org/PlayTorrioMov)** — PlayTorrio fork adapted just for Movies/Series/Anime with SOLID UI/UX
-- ⭐ **[Vyla Home](https://vyla.cc/)** / [![GitLab](/img/source-hosts/gitlab.svg)](https://gitlab.com/vyla-entertainment/home) — Self-Hosted Desktop Media Center
-- [CloudStream APK Official Download v4.8.0](https://cloudstream-apk.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/recloudstream/cloudstream) — All Repositories
-- [VyseTV · Everything you watch, one app](https://vysetv.cc/) / [![GitLab](/img/source-hosts/gitlab.svg)](https://gitlab.com/ayman707-ux/vysetv)
-- [ZorrillosDev/watchit-app](https://github.com/ZorrillosDev/watchit-app) — Open movies everywhere
