@@ -5,7 +5,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 
 # System Administration
 
-**Total Bookmarks:** 1535
+**Total Bookmarks:** 1536
 
 - [osquery](https://osquery.io/)
 - [PIVPN](https://pivpn.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/pivpn/pivpn) — Simplest way to setup a VPN
@@ -430,6 +430,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [Darling](https://www.darlinghq.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/darlinghq/darling) — macOS translation layer for Linux
 - [kksimp/Mac.apk](https://github.com/kksimp/Mac.apk) — Mac.apk: Run Android apps natively on Apple Silicon Macs
 - [MaPC](https://mapc.games/index.html) — Your PC games, on your Mac
+- [WinDurango/WinDurango](https://github.com/WinDurango/WinDurango)
 
 #### Windows Translation Layer
 - ⭐ **[WineHQ](https://www.winehq.org/)** / [![GitLab](/img/source-hosts/gitlab.svg)](https://gitlab.winehq.org/wine/wine) — Run Windows applications on Linux, BSD, Solaris and macOS
