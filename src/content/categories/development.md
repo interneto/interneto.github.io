@@ -1063,7 +1063,6 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [BotoStore](https://botostore.com/)
 - [carliyoelbot](https://www.carliyoelbot.com/) — Sube tus vídeos al TikTok de Carliyo
 - [ChatBottle](https://chatbottle.co/)
-- [Hummingbot](https://hummingbot.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/hummingbot/hummingbot)
 - [Junction bot](https://docs.junction.space/)
 - [Kahoot Bot](https://kahootbot.org/)
 - [sci-bot](https://sci-bot.ru/)
@@ -2241,6 +2240,7 @@ description: Code editors, IDEs, hosting, frameworks, CMS, docs, and converters
 - [BlurHash](https://blurha.sh/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/woltapp/blurhash)
 - [Boost C++ Libraries](https://www.boost.org/)
 - [ccxt](https://docs.ccxt.com/#/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/ccxt/ccxt) — documentation
+- [CCXT](https://docs.ccxt.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/ccxt/ccxt) — Connect to any exchange
 - [Cinder](https://libcinder.org/)
 - [Curlie.io](https://curlie.io/)
 - [DanySK/conrec](https://github.com/DanySK/conrec) — Conrec is an algorithm for contouring surfaces. For more information see

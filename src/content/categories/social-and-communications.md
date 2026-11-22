@@ -5,7 +5,7 @@ description: Email, messaging, forums, social networks, and video conferencing
 
 # Social & Communications
 
-**Total Bookmarks:** 1373
+**Total Bookmarks:** 1374
 
 
 ## 2FA
@@ -232,6 +232,7 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [Savesubs](https://savesubs.com/)
 - [Subtitle Downloader](https://www.vidpaw.com/subtitle-downloader)
 - [Your subtitle](https://www.yousubtitles.com/)
+- [YouTube Live Stream Transcript](https://transcript-yt.com/youtube-live-stream-transcript?utm_source=chatgpt.com)
 
 #### Image dl
 - ⭐ **[Bulk Image Downloader](https://bulkimagedownloader.com/)**

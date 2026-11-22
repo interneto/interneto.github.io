@@ -5,7 +5,7 @@ description: Games, launchers, emulators, and gaming utilities
 
 # Gaming
 
-**Total Bookmarks:** 806
+**Total Bookmarks:** 808
 
 
 ## Games
@@ -46,6 +46,7 @@ description: Games, launchers, emulators, and gaming utilities
 - [Sea of Thieves](https://www.seaofthieves.com/)
 - [slither.io](http://slither.com/io)
 - [Soul Knight](https://play.google.com/store/apps/details?id=com.ChillyRoom.DungeonShooter)
+- [Spark198rus/black-pc](https://github.com/Spark198rus/black-pc)
 - [Strinova](https://www.strinova.com/?lang=en-US) — The Next-Gen Anime Shooter - Free to Play
 - [SuperTuxKart](https://supertuxkart.net/Main_Page)
 - [Team Fortress 2](https://www.teamfortress.com/)
@@ -446,6 +447,7 @@ description: Games, launchers, emulators, and gaming utilities
 - [Construction Simulator](https://www.construction-simulator.com/en/)
 - [Conway's Game of Life](https://play.google.com/store/apps/details?id=com.jobik.gameoflife) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Efimj/GameOfLife) — Google Play Store
 - [Creativerse](https://creativersegame.com/)
+- [CROSSTOWN](https://nyc.somethingbig.ai/)
 - [Cryptovoxels](https://www.cryptovoxels.com/)
 - [Cyberbotics](https://www.cyberbotics.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/cyberbotics/webots) — Robotics simulation with Webots
 - [DEAD OR ALIVE Xtreme Venus Vacation](https://game.doaxvv.com/en/index.html)

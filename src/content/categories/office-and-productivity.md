@@ -5,7 +5,7 @@ description: Note-taking, task management, bookmarking, calculators, translators
 
 # Office & Productivity
 
-**Total Bookmarks:** 1233
+**Total Bookmarks:** 1234
 
 
 ## Academic Research Tools
@@ -614,6 +614,7 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [Plume](https://www.get-plume.com/)
 - [Postach.io](https://postach.io/)
 - [Prism](https://prism.you/)
+- [PrivacyNotes](https://privacynotes.app/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/LifetimeLabsHQ/PrivacyNotes.app) — Encrypted Notes, Tasks & Journal
 - [Private Notes](https://privatenotes.pro/)
 - [ProjectMeta.app](https://projectmeta.app/)
 - [Qept](https://www.qeptapp.com/) — The Fastest Way To Take Notes

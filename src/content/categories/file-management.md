@@ -5,7 +5,7 @@ description: File sharing, downloaders, torrents, and cloud storage
 
 # File Management
 
-**Total Bookmarks:** 936
+**Total Bookmarks:** 937
 
 
 ## Backup
@@ -572,6 +572,7 @@ description: File sharing, downloaders, torrents, and cloud storage
 - [MixDrop](https://mixdrop.co/)
 - [Mocha](https://mocha.my/)
 - [NitroFlare](https://nitroflare.com/)
+- [nozwock/packet](https://github.com/nozwock/packet) — Quick Share client for Linux
 - [PairDrop](https://pairdrop.net/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/schlagmichdoch/PairDrop) — Transfer Files Cross-Platform. No Setup, No Signup
 - [Pillowcase](https://pillowcase.su/)
 - [Pillowcase](https://pillows.su/)

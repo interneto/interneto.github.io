@@ -138,7 +138,7 @@ description: Password managers, cybersecurity, and web privacy
 - ⭐ **[KeePassDX](https://keepassdx.com/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/Kunzisoft/KeePassDX)
 - ⭐ **[KeePassXC](https://keepassxc.org/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/keepassxreboot/keepassxc) — Password Manager
 - [1Password](https://1password.com/) — Password Manager for Families, Businesses, Teams
-- [AliasVault](https://www.aliasvault.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/aliasvault/aliasvault)
+- [AliasVault](https://www.aliasvault.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/aliasvault/aliasvault) — Privacy-First Password & Email Alias Manager
 - [apple/password-manager-resources · GItHub](https://github.com/apple/password-manager-resources)
 - [Argon2](https://www.argon2.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/P-H-C/phc-winner-argon2)
 - [arsvechkarev/Vault](https://github.com/arsvechkarev/Vault) — Simple, fast, secure password manager

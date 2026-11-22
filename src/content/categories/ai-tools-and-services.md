@@ -5,7 +5,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 
 # AI Tools & Services
 
-**Total Bookmarks:** 911
+**Total Bookmarks:** 912
 
 
 ## Agents & Automation
@@ -202,6 +202,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [cloudflare/mcp-server-cloudflare · GitHub](https://github.com/cloudflare/mcp-server-cloudflare)
 - [codebase-memory-mcp](https://deusdata.github.io/codebase-memory-mcp/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/DeusData/codebase-memory-mcp)
 - [codegraph](https://colbymchenry.github.io/codegraph/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/colbymchenry/codegraph/stargazers)
+- [DBHub](https://dbhub.ai/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/bytebase/dbhub) — Universal database MCP. Minimal context overhead
 - [enuno/unifi-mcp-server](https://github.com/enuno/unifi-mcp-server) — An MCP server that leverages official UniFi API
 - [excalidraw/excalidraw-mcp · GitHub](https://github.com/excalidraw/excalidraw-mcp)
 - [karl-andres/fl-studio-mcp](https://github.com/karl-andres/fl-studio-mcp) — MCP Server for FL Studio

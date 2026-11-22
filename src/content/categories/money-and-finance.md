@@ -5,7 +5,7 @@ description: Banking, cryptocurrency, and financial tracking
 
 # Money & Finance
 
-**Total Bookmarks:** 492
+**Total Bookmarks:** 494
 
 - [brokeronline](https://www.brokeronline.es/)
 - [IPIP](https://whois.ipip.net/)
@@ -491,11 +491,13 @@ description: Banking, cryptocurrency, and financial tracking
 - [FXCM ES](https://www.fxcm.com/es)
 - [FxPro](https://www.fxpro.es/)
 - [GKFX](https://www.gkfx.es/wtrader)
+- [Hummingbot](https://hummingbot.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/hummingbot/hummingbot)
 - [Hypertradefx.com](https://hypertradefx.com/)
 - [IG España](https://www.ig.com/es)
 - [Metatrader5](https://www.metatrader5.com/es)
 - [NinjaTrader](https://ninjatrader.com/es)
 - [OANDA](https://www.oanda.com/eu-en)
+- [OctoBot](https://www.octobot.cloud/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Drakkar-Software/OctoBot) — Crypto trading bot for automated strategies
 - [Pepperstone](https://pepperstone.com/es)
 - [Plus500](https://www.plus500.es/)
 - [Polymarket](https://polymarket.com/) — The World's Largest Prediction Market™

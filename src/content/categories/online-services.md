@@ -533,7 +533,7 @@ description: Search engines, web directories, software directories, corporations
 - [Github-Ranking · GitHub](https://evanli.github.io/Github-Ranking) / [![GitHub](/img/software/apps/github.svg)](https://github.com/EvanLi/Github-Ranking)
 - [Gitstar Ranking](https://gitstar-ranking.com/) — Top GitHub users and repositories
 - [H index GitHub](https://www.danvk.org/h-index/) — Davn K
-- [Star History](https://star-history.com/)
+- [Star History](https://star-history.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/star-history/star-history)
 - [stardev](https://www.stardev.io/)
 - [Trendshift](https://trendshift.io/) — Live trending GitHub repositories — daily momentum ranking
 

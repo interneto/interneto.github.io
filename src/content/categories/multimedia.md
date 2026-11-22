@@ -2324,7 +2324,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - ⭐ **[MediaHub-Org/PlayTorrioMov](https://github.com/MediaHub-Org/PlayTorrioMov)** — PlayTorrio fork adapted just for Movies/Series/Anime with SOLID UI/UX
 - ⭐ **[Stremio](https://www.stremio.com/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/stremio) — Freedom to Stream
 - ⭐ **[Vyla Home](https://vyla.cc/)** / [![GitLab](/img/source-hosts/gitlab.svg)](https://gitlab.com/vyla-entertainment/home) — Self-Hosted Desktop Media Center
-- ⭐ **[VyseTV · Everything you watch, one app](https://vysetv.cc/)** / [![GitLab](/img/source-hosts/gitlab.svg)](https://gitlab.com/ayman707-ux/vysetv)
+- ⭐ **[VyseTV · Everything you watch, one app](https://vysetv.cc/)** / [![GitLab](/img/source-hosts/gitlab.svg)](https://gitlab.com/ayman707-ux/vysetv), [![GitHub](/img/software/apps/github.svg)](https://github.com/ayman700-UX/VyseTV)
 - [CloudStream APK Official Download v4.8.0](https://cloudstream-apk.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/recloudstream/cloudstream) — All Repositories
 - [Fly Stream](https://flystream.net/) — Free Movies & TV, No Login
 - [ZorrillosDev/watchit-app](https://github.com/ZorrillosDev/watchit-app) — Open movies everywhere
