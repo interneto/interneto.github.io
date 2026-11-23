@@ -5,7 +5,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 
 # AI Tools & Services
 
-**Total Bookmarks:** 912
+**Total Bookmarks:** 913
 
 
 ## Agents & Automation
@@ -509,6 +509,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [Udio](https://www.udio.com/) — Make your music
 - [Vocal Remover and Isolation](https://vocalremover.org/)
 - [Waveformer](https://www.text2music.io/)
+- [YuE2 3B Music · AI Music Generator & Full Song Studio](https://yue2music.com/)
 
 ### AI Speech & Voice
 - ⭐ **[Eleven Labs](https://elevenlabs.io/music)** — AI Music Generator

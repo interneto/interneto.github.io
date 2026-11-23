@@ -5,7 +5,7 @@ description: Games, launchers, emulators, and gaming utilities
 
 # Gaming
 
-**Total Bookmarks:** 808
+**Total Bookmarks:** 810
 
 
 ## Games
@@ -414,6 +414,7 @@ description: Games, launchers, emulators, and gaming utilities
 - [Genshin Impact](https://genshin.hoyoverse.com/en/home) — Step into a Vast Magical World for Adventure
 - [Honkai](https://hsr.hoyoverse.com/en-us/) — Star Rail
 - [Isleward](https://play.isleward.com/) / [![GitLab](/img/source-hosts/gitlab.svg)](https://gitlab.com/Isleward/isleward)
+- [ItsNotRexed/Leonida](https://github.com/ItsNotRexed/Leonida) — Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6
 - [maxilevi/project-hedra · GitHub](https://github.com/maxilevi/project-hedra)
 - [NetHack](https://www.nethack.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/NetHack/NetHack)
 - [Netmarble](https://7origin.netmarble.com/en/) — The Seven Deadly Sins: Origin
@@ -440,6 +441,7 @@ description: Games, launchers, emulators, and gaming utilities
 - [Arma Reforger on Steam](https://store.steampowered.com/app/1874880/Arma_Reforger/)
 - [artificial life environment](https://alien-project.org/)
 - [Asteroids, oh no!](http://awesomeasteroids.com/)
+- [Atlantis](https://noniv.github.io/atlantis/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Noniv/atlantis)
 - [BeamNG.drive](https://www.beamng.com/game/)
 - [Biomes](https://www.biomes.gg/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/ill-inc/biomes-game) — Join the community shaping a new world
 - [Celestia](https://celestiaproject.space/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/CelestiaProject/Celestia) — realtime 3D visualization of the space
