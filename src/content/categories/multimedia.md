@@ -2121,6 +2121,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [Streamlabs](https://streamlabs.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/streamlabs/desktop)
 - [stronnag/wayfarer](https://github.com/stronnag/wayfarer) — screen recorder for GNOME / Wayland / pipewire
 - [tamnguyenvan/screenarc · GitHub](https://github.com/tamnguyenvan/screenarc)
+- [Vertov](https://vertov.app/) — Browser screen recorder with transcript editing and share links.
 - [Video Capture](https://www.nchsoftware.com/capture/index.html)
 - [VideoSolo](https://www.videosolo.com/)
 - [Virtualdub.org](https://virtualdub.org/)
