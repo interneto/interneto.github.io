@@ -5,7 +5,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 
 # AI Tools & Services
 
-**Total Bookmarks:** 913
+**Total Bookmarks:** 915
 
 
 ## Agents & Automation
@@ -73,6 +73,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [OpenBot](https://www.copilotkit.ai/openbot) / [![GitHub](/img/software/apps/github.svg)](https://github.com/CopilotKit/OpenBot)
 - [Orkas](https://orkas.ai/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Orkas-AI/Orkas) — Direct your AI team by chat, and scale your business.
 - [Paca](https://paca-ai.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/Paca-AI/paca) — Humans and AI agents, one Scrum team
+- [pierridotite/mobile-agent-testers](https://github.com/pierridotite/mobile-agent-testers) — 20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and Android emulators that find broken flows, translation, layout and accessibility bugs
 - [pinchtab/pinchtab](https://github.com/pinchtab/pinchtab) — High-performance browser automation bridge and multi-instance orchestrator with advanced stealth injection and real-time dashboard.
 - [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) — A self-improving RLM agent for coding workflows and long-running autonomous tasks
 - [Proactor AI](https://proactor.ai/)
@@ -269,6 +270,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [Caveman](https://getcaveman.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/juliusbrussee/caveman) — the token-efficient stack for agent-native builders
 - [Caveman](https://caveman.so/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/juliusbrussee/caveman) — the token-efficient stack for agent-native development
 - [Claude SEO](https://claude-seo.md/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/AgriciDaniel/claude-seo) — Free AI SEO Audit Tool for Claude Code
+- [claude-bughunter](https://elementalsouls.github.io/Claude-BugHunter/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/elementalsouls/Claude-BugHunter)
 - [Context Mode](https://context-mode.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/mksglu/context-mode) — The Control Plane for Coding Agents
 - [Diagram Design](https://diagramdesign.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/cathrynlavery/diagram-design) — editorial diagrams your designer won't hate
 - [Elephant-Goldfish Model](https://egm.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/google/elephant-goldfish-model) — Draft and review with AI

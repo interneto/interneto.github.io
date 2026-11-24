@@ -5,7 +5,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 
 # Multimedia
 
-**Total Bookmarks:** 2329
+**Total Bookmarks:** 2330
 
 
 ## Audio & Music
@@ -1125,6 +1125,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - [Pixquare](https://www.pixquare.art/) — Pixel art for iPad
 - [Resprite](https://resprite.fengeon.com/)
 - [Sprite Fusion](https://www.spritefusion.com/) — A simple, free tilemap Editor Online
+- [SpriteCook](https://www.spritecook.ai/) — AI pixel art for game developers
 - [ZX-Paintbrush by Source Solutions, Inc.](https://sourcesolutions.itch.io/zx-paintbrush)
 - [ZXDrawer by Juntelart](https://juntelart.itch.io/zxdrawer)
 

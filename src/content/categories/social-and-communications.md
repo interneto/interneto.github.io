@@ -5,7 +5,7 @@ description: Email, messaging, forums, social networks, and video conferencing
 
 # Social & Communications
 
-**Total Bookmarks:** 1374
+**Total Bookmarks:** 1375
 
 
 ## 2FA
@@ -154,6 +154,7 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [Streamlink](https://streamlink.github.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/streamlink/streamlink)
 - [tonikelope/megabasterd · GitHub](https://github.com/tonikelope/megabasterd)
 - [wkentaro/gdown · GitHub](https://github.com/wkentaro/gdown)
+- [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) — The only downloader you need. 下载器的集大成者。
 - [ytDownloader](https://ytdn.netlify.app/) — netlify
 - [ziahamza/webui-aria2 · GitHub](https://github.com/ziahamza/webui-aria2)
 
