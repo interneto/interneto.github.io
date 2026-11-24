@@ -5,7 +5,7 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 
 # Education & Reference
 
-**Total Bookmarks:** 1372
+**Total Bookmarks:** 1373
 
 - [Academia Lab](https://academia-lab.com/)
 - [DosisPedia](https://dosispedia.com/)
@@ -1424,6 +1424,7 @@ description: Courses, tutorials, dictionaries, encyclopedias, research papers, a
 - [aquienvoto](https://aquienvoto.org/)
 - [IFES Election Guide](https://www.electionguide.org/)
 - [Isidewith](https://espana.isidewith.com/)
+- [Papeleta Clara](https://papeletaclara.es/) — ¿A quién votar el 29-N? Test electoral 2026
 - [test politico](http://www.testpolitico.com/)
 
 #### Psychology
