@@ -5,7 +5,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 
 # AI Tools & Services
 
-**Total Bookmarks:** 915
+**Total Bookmarks:** 916
 
 
 ## Agents & Automation
@@ -263,6 +263,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [android/skills · GitHub](https://github.com/android/skills)
 - [anthropics/financial-services](https://github.com/anthropics/financial-services)
 - [anthropics/skills](https://github.com/anthropics/skills) — Public repository for Agent Skills
+- [apekshik/anymachine](https://github.com/apekshik/anymachine) — Working mechanical rigs from a generated mesh: hinges, legs, and soft goods, every control a 0-1 parameter
 - [Archify](https://tt-a1i.github.io/archify/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/tt-a1i/archify) — Technical Diagrams from Plain English
 - [ayghri/i-have-adhd · GitHub](https://github.com/ayghri/i-have-adhd)
 - [BuilderIO/skills](https://github.com/BuilderIO/skills) — Skills for coding agents
