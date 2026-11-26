@@ -5,7 +5,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 
 # Multimedia
 
-**Total Bookmarks:** 2330
+**Total Bookmarks:** 2331
 
 
 ## Audio & Music
@@ -2328,6 +2328,7 @@ description: Audio & Music, Photos & Graphics, and Video & Movies
 - ⭐ **[VyseTV · Everything you watch, one app](https://vysetv.cc/)** / [![GitLab](/img/source-hosts/gitlab.svg)](https://gitlab.com/ayman707-ux/vysetv), [![GitHub](/img/software/apps/github.svg)](https://github.com/ayman700-UX/VyseTV)
 - [CloudStream APK Official Download v4.8.0](https://cloudstream-apk.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/recloudstream/cloudstream) — All Repositories
 - [Fly Stream](https://flystream.net/) — Free Movies & TV, No Login
+- [tokudai-vs/nocturne](https://github.com/tokudai-vs/nocturne) — ⚡ The native Windows 11 Emby desktop client. Built with .NET 8, WPF-UI, and mpv. Ultra-fast direct playback, multi-server library deduplication, TheIntroDB skip, WatchParty, and Trakt scrobbler.
 - [ZorrillosDev/watchit-app](https://github.com/ZorrillosDev/watchit-app) — Open movies everywhere
 
 #### YouTube Client

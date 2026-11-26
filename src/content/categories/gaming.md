@@ -5,7 +5,7 @@ description: Games, launchers, emulators, and gaming utilities
 
 # Gaming
 
-**Total Bookmarks:** 810
+**Total Bookmarks:** 811
 
 
 ## Games
@@ -511,6 +511,7 @@ description: Games, launchers, emulators, and gaming utilities
 - [Simutrans Transport Simulator](https://www.simutrans.com/en/)
 - [Slime Rancher 2](https://www.slimerancher.com/)
 - [Slop New York](https://mrdoob.github.io/slop-newyork/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/mrdoob/slop-newyork/)
+- [Slow Roads](https://slowroads.io/)
 - [Sober](https://sober.vinegarhq.org/) — Roblox better than ever on Linux
 - [Solar System Scope](https://www.solarsystemscope.com/)
 - [Space Engine](http://spaceengine.org/)
