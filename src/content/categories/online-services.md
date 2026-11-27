@@ -5,7 +5,7 @@ description: Search engines, web directories, software directories, corporations
 
 # Online Services
 
-**Total Bookmarks:** 5762
+**Total Bookmarks:** 5764
 
 
 ## Biography
@@ -390,6 +390,7 @@ description: Search engines, web directories, software directories, corporations
 - [jaimevalero/managing-awesome-lists · GitHub](https://github.com/jaimevalero/managing-awesome-lists)
 - [jaywcjlove/awesome-mac · GitHub](https://github.com/jaywcjlove/awesome-mac)
 - [jubalh/awesome-os](https://github.com/jubalh/awesome-os) — A list of operating systems and stuff
+- [kairichard/awesome-nocode-lowcode](https://github.com/kairichard/awesome-nocode-lowcode) — A curated list of awesome nocode / lowcode applications to build other applications
 - [KasperZutterman/Second-Brain · GitHub](https://github.com/KasperZutterman/Second-Brain)
 - [kba/awesome-ocr · GitHub](https://github.com/kba/awesome-ocr)
 - [kr1sp1n/awesome-gemini · GitHub](https://github.com/kr1sp1n/awesome-gemini)
@@ -695,6 +696,7 @@ description: Search engines, web directories, software directories, corporations
 #### Books Db
 - [An Ocean of Books](https://artsexperiments.withgoogle.com/ocean-of-books?latitude=-5.2660&longitude=-2.5000&zoom=1.00)
 - [BookFilter](https://www.book-filter.com/)
+- [Comic Vine](https://comicvine.gamespot.com/)
 - [ComicBookRoundup](https://comicbookroundup.com/) — Comic Book Reviews
 - [Find a book to read](https://findabooktoread.com/)
 - [Five Books](https://fivebooks.com/)

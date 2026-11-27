@@ -5,7 +5,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 
 # AI Tools & Services
 
-**Total Bookmarks:** 916
+**Total Bookmarks:** 922
 
 
 ## Agents & Automation
@@ -41,6 +41,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [DeepSeek Harness developer preview](https://deepseek.com/harness/en/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/deepseek-ai/deepseek-harness) — Everything is a plugin
 - [deepset-ai/haystack · GitHub](https://github.com/deepset-ai/haystack)
 - [DeerFlow](https://deerflow.tech/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/bytedance/deer-flow)
+- [DIYgod/pinky · GitHub](https://github.com/DIYgod/pinky)
 - [ESP-Claw](https://esp-claw.com/en/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/espressif/esp-claw) — Chat-as-Coding Edge Agent Framework for IoT | by Espressif
 - [espressif/esp-claw](https://github.com/espressif/esp-claw) — ESP-Claw, a "Chat Coding" AI agent framework for IoT devices · GitHub
 - [EvoMap](https://evomap.ai/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/EvoMap/evolver) — AI Self-Evolution Infrastructure
@@ -248,6 +249,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [jasperan/picooraclaw](https://github.com/jasperan/picooraclaw) — PicoClaw that works with Oracle AI Database
 - [LifeOS](https://ourlifeos.ai/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/danielmiessler/LifeOS) — Moving You From Current to Ideal State
 - [MyShell AI](https://myshell.ai/) — Build, Share, and Own AI Agent
+- [nanobot](https://nanobot.wiki/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/HKUDS/nanobot) — Ultra-Lightweight Open-Source AI Agent
 - [NanoClaw](https://nanoclaw.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/gavrielc/nanoclaw) — Secure AI Agent for WhatsApp, Telegram & More
 - [NVIDIA NemoClaw](https://www.nvidia.com/en-us/ai/nemoclaw/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/NVIDIA/NemoClaw) — Deploy Safer AI Assistants with OpenClaw Safety Guardrails
 - [OpenHuman](https://tinyhumans.ai/openhuman) / [![GitHub](/img/software/apps/github.svg)](https://github.com/tinyhumansai) — open source personal AI, local-first
@@ -638,6 +640,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [ChatAll](https://www.chatall.io/home)
 - [ChatGPTNextWeb/ChatGPT-Next-Web · GitHub](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web)
 - [ChatHub](https://chathub.gg/) — GPT-5, Claude 4.5, Gemini 3 side by side
+- [CopilotoSal · Conversaciones en el coche con una IA](https://copilotosal.com/) — Matrix, Atlántida, pirámides y más
 - [Duck.ai](https://duck.ai/)
 - [ExpressAI](https://app.expressai.com/) — Confidential AI Assistant
 - [Forefront](https://www.forefront.ai/) — Powerful Language Models A Click Away
@@ -732,6 +735,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [Perchance](https://perchance.org/welcome) — Create a Random Generator
 - [Prompt Engineering Guide](https://www.promptingguide.ai/)
 - [QuillBot](https://quillbot.com/) — Your complete writing solution
+- [Studley AI Study Tool](https://www.studley.ai/) — Ace Your Exams & Crush Your Homework
 - [Testea](https://testea.app/) — aplicación de test para oposiciones
 - [ToolBaz](https://toolbaz.com/) — Free AI Tools
 - [Typed AI](https://www.typedai.com/) — La mejor IA para opositar
@@ -968,10 +972,12 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [Fake Image Detector](https://www.fakeimagedetector.com/) — Fake Image Detector Online
 - [fkryan/gazelle](https://github.com/fkryan/gazelle) — Gaze-LLE: Gaze Target Estimation via Large-Scale Learned Encoders
 - [google/magika](https://github.com/google/magika) — Detect file content types with deep learning
+- [grayhatdevelopers/vidxp](https://github.com/grayhatdevelopers/vidxp) — VidXP (Video eXPlain) - Video Indexing Engine. Search in videos in natural language. 👀 Connect your Hermes / Claude / OpenClaw agents, allow them to understand videos with low token cost.
 - [Hive Moderation](https://hivemoderation.com/)
 - [LiheYoung/Depth-Anything · GitHub](https://github.com/LiheYoung/Depth-Anything)
 - [Microsoft Cognitive Services](https://westus.dev.cognitive.microsoft.com/docs/services)
 - [Project Splinter · GitHub](https://project-splinter.github.io/)
+- [Robbyant/lingbot-map](https://github.com/robbyant/lingbot-map) — \[ECCV 2026 Best Paper Award Candidate\] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction
 - [TadasBaltrusaitis/OpenFace · GitHub](https://github.com/TadasBaltrusaitis/OpenFace)
 - [THU-MIG/yolov10 · GitHub](https://github.com/THU-MIG/yolov10)
 - [tphakala/birdnet-go](https://github.com/tphakala/birdnet-go) — Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi
