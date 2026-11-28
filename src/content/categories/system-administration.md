@@ -5,7 +5,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 
 # System Administration
 
-**Total Bookmarks:** 1537
+**Total Bookmarks:** 1559
 
 - [osquery](https://osquery.io/)
 - [PIVPN](https://pivpn.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/pivpn/pivpn) — Simplest way to setup a VPN
@@ -430,7 +430,6 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [Darling](https://www.darlinghq.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/darlinghq/darling) — macOS translation layer for Linux
 - [kksimp/Mac.apk](https://github.com/kksimp/Mac.apk) — Mac.apk: Run Android apps natively on Apple Silicon Macs
 - [MaPC](https://mapc.games/index.html) — Your PC games, on your Mac
-- [WinDurango/WinDurango](https://github.com/WinDurango/WinDurango)
 
 #### Windows Translation Layer
 - ⭐ **[WineHQ](https://www.winehq.org/)** / [![GitLab](/img/source-hosts/gitlab.svg)](https://gitlab.winehq.org/wine/wine) — Run Windows applications on Linux, BSD, Solaris and macOS
@@ -457,6 +456,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [fastrizwaan/WineZGUI · GitHub](https://github.com/fastrizwaan/WineZGUI)
 - [Fmstrat/winapps · GitHub](https://github.com/Fmstrat/winapps)
 - [GloriousEggroll/proton-ge-custom · GitHub](https://github.com/GloriousEggroll/proton-ge-custom)
+- [HansKristian-Work/vkd3d-proton](https://github.com/HansKristian-Work/vkd3d-proton) — Fork of VKD3D. Development branches for Proton's Direct3D 12 implementation.
 - [James McDonnell / wine · GitLab](https://gitlab.winehq.org/ElementalWarrior/wine)
 - [Matoking/protontricks · GitHub](https://github.com/Matoking/protontricks)
 - [noahc3/AffinityPluginLoader · GitHub](https://github.com/noahc3/AffinityPluginLoader)
@@ -475,6 +475,30 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - [Winlator](https://winlator.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/brunodev85/winlator) — Android app
 - [xkero / rum · GitLab](https://gitlab.com/xkero/rum)
 - [YoungFellow-le/photoshop-22-linux · GitHub](https://github.com/YoungFellow-le/photoshop-22-linux)
+
+#### Xbox Translation Layer
+- [3cvil/M1LK](https://github.com/3cvil/M1LK) — M1LK: Xbox Series compatibility runtime for Windows, aiming to make it playable on low-end NVIDIA PCs (8 GB VRAM, limited RAM): 30-60 fps and settings that really change performance.
+- [brcly/TuxBox](https://github.com/brcly/TuxBox) — TuxBox is a new, native-first compatibility layer for running unpacked, decrypted Xbox Series X|S games on x86-64 Linux and Windows.
+- [californiaAlmonds/OpenScarlett](https://github.com/californiaAlmonds/OpenScarlett) — Open-source MIT C++20 Xbox Series X|S (Scarlett) translation layer for Windows 10/11 — D3D12, Vulkan 1.4, RDNA2 shader lifting, GDK shims, and real-binary telemetry
+- [DexNom/VIctory](https://github.com/DexNom/VIctory) — DexNom RayTime is a source-only Windows compatibility layer for Xbox Series games. It translates graphics and ray tracing to Direct3D 12 and is tested on AMD Radeon with FSR 4.1.2.
+- [edsuuu/VI-BR-PORT](https://github.com/edsuuu/VI-BR-PORT) — Xbox Series X|S (Scarlett, GDK) compatibility layer for Windows: native D3D12 runtime and GFX10 to DXIL shader recompiler, tuned for 8 GB NVIDIA GPUs. Fork of VIctory. No game files.
+- [fxceless/victory-fork](https://github.com/fxceless/victory-fork) — Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.
+- [gookie-dev/g6shim](https://github.com/gookie-dev/g6shim) — Clean-room replacements for console system DLLs that let console game executables run natively on Windows, without emulation.
+- [LooperSalty/AnyXboxX](https://github.com/LooperSalty/AnyXboxX) — AnyXboxX — prototype d'émulateur Xbox Series X (HLE du GDK sur Unicorn)
+- [mewiof/Holy-Interoperability](https://github.com/mewiof/Holy-Interoperability) — Compatibility layer that runs x64 Xbox title packages as native Windows processes, with no emulation: clean-room reimplementations of the console's system libraries. Early bring-up. For interoperability, research and preservation.
+- [omonkeyz/xbox-emulator](https://github.com/omonkeyz/xbox-emulator) — Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)
+- [pablogonz12/Scarlight](https://github.com/pablogonz12/Scarlight) — Xbox Series compatibility layer for Linux, built and tuned for Mesa (through Proton)
+- [PastiiJay/klbf-lab](https://github.com/PastiiJay/klbf-lab) — Xbox Series X|S (Scarlett) GDK compatibility layer for Windows: runs the Xbox Series build of the game natively on PC from your own files. AMD Radeon fixes, water physics, optional AMD FSR frame generation. No game files.
+- [pragyaangaur/VIctory-macOS](https://github.com/pragyaangaur/VIctory-macOS) — Attempting to run GTA VI on macOS.
+- [R0Y00/Xbox2Windows](https://github.com/R0Y00/Xbox2Windows) — Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified.
+- [realblastex/flamingo](https://github.com/realblastex/flamingo) — VIctory / victory-fork based compatibility layer that runs a freshly released Xbox Series title on Windows from your own copy, with an RDNA2 shader recompiler to D3D12. Tuned for NVIDIA
+- [rpatty-dev/PercyScarlett](https://github.com/rpatty-dev/PercyScarlett) — Xbox Series X|S (Scarlett) translation layer for Windows 10/11, PercyScarlett
+- [sammwyy/xvalkyrie](https://github.com/sammwyy/xvalkyrie) — Experimental Xbox One (Durango) & Series X|S (Scarlett) compatibility layer for Windows
+- [stellarr-studio/kelvaroq](https://github.com/stellarr-studio/kelvaroq) — Experimental Xbox Series compatibility runtime for Windows x64, built in Rust.
+- [trustno1-coder/VIctory-NVIDIA](https://github.com/trustno1-coder/VIctory-NVIDIA) — VIctory (Xbox Series compatibility layer) tuned for NVIDIA RTX cards: Series X at 2560x1440 with DLSS, about 26-30 fps on an RTX 5070, DLSS frame generation 2x-6x, an F1 settings menu and F3 stats panel, open water without dark blocks. Built on many repos combined into one. No game files or NVIDIA files included.
+- [uiliannn/VItoriaBr](https://github.com/uiliannn/VItoriaBr) — VItoriaBr - Native Windows Xbox Series X|S runtime & D3D12/DXIL shader translator (PT-BR / EN)
+- [WinDurango/WinDurango](https://github.com/WinDurango/WinDurango)
+- [xcl-dev/xcl](https://github.com/xcl-dev/xcl) — Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL
 
 ### OS-Emulator
 - [Box86](https://box86.org/) — Linux Userspace x86 Emulator with a Twist

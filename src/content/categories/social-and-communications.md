@@ -5,7 +5,7 @@ description: Email, messaging, forums, social networks, and video conferencing
 
 # Social & Communications
 
-**Total Bookmarks:** 1374
+**Total Bookmarks:** 1375
 
 
 ## 2FA
@@ -1523,6 +1523,7 @@ description: Email, messaging, forums, social networks, and video conferencing
 
 ### Voice Chat
 - ⭐ **[tincan](https://tincan.rs/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/bilalyazicioglu/tincan-cli) — Serverless Peer-to-Peer Voice Chat for the Terminal
+- [Fluxer is a free, open source Discord alternative](https://fluxer.com/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/fluxerapp)
 - [Mumble.info](https://www.mumble.info/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/mumble-voip/mumble)
 - [TeamSpeak](https://www.teamspeak.com/en/)
 - [Voximity](https://voximity.chat/)

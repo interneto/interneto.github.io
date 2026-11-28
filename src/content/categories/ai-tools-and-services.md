@@ -5,7 +5,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 
 # AI Tools & Services
 
-**Total Bookmarks:** 922
+**Total Bookmarks:** 925
 
 
 ## Agents & Automation
@@ -296,6 +296,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [mattpocock/skills](https://github.com/mattpocock/skills) — Skills for Real Engineers. Straight from my .claude directory.
 - [MiniMax-AI/skills](https://github.com/MiniMax-AI/skills)
 - [mvanhorn/last30days-skill · GitHub](https://github.com/mvanhorn/last30days-skill)
+- [OpenDCAI/GameFactory-3A](https://github.com/OpenDCAI/GameFactory-3A)
 - [oso95/scroll-world](https://github.com/oso95/scroll-world) — Claude Code skill/plugin
 - [phuryn/pm-skills](https://github.com/phuryn/pm-skills) — PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
 - [ponytail](https://ponytail.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/DietrichGebert/ponytail)
@@ -400,6 +401,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [Nutlope/picMenu](https://github.com/Nutlope/picMenu) — Visualize menus in seconds with AI
 - [NVIDIA Canvas](https://www.nvidia.com/en-us/studio/canvas/)
 - [Omniverse Audio2Face App](https://www.nvidia.com/en-us/omniverse/apps/audio2face/)
+- [PERF-GS](https://electronicarts.github.io/perf-gs/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/electronicarts/perf-gs) — 3D Gaussian Splatting in 10 seconds
 - [Photo AI™](https://photoai.com/) — AI Photo & Video Generator
 - [pixray/pixray · GitHub](https://github.com/pixray/pixray)
 - [RunDiffusion](https://rundiffusion.com/) — Automatic1111 in the Cloud
@@ -944,6 +946,7 @@ description: Chatbots, GenAI, model platforms, and AI rankings
 - [Leela Chess Zero](https://lczero.org/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/LeelaChessZero/lc0)
 - [liamt19/Lizard](https://github.com/liamt19/Lizard) — Strongest A/B chess engine written in C#
 - [lichess-bot-devs/lichess-bot](https://github.com/lichess-bot-devs/lichess-bot) — A bridge between Lichess bots and chess engines
+- [LORD-ZYTHOZ/chesshacker-sandbox](https://github.com/LORD-ZYTHOZ/chesshacker-sandbox) — Meta glasses chess assistant - real-time chess analysis via WhatsApp, vision AI, and Stockfish
 - [lucametehau/CloverEngine](https://github.com/lucametehau/CloverEngine) — UCI chess engine
 - [LucasChessR](https://sourceforge.net/projects/lucaschessr/) — SourceForge
 - [Maia Chess](https://www.maiachess.com/)
