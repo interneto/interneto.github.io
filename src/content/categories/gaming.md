@@ -774,6 +774,7 @@ description: Games, launchers, emulators, and gaming utilities
 - [SteamCalculator](https://steamcalculator.com/)
 - [SteamPrices](https://www.steamprices.com/eu)
 - [SteamSpy](https://steamspy.com/)
+- [SteamVaults Tools](https://steamvaults.org/tools) — Market price radar, fee calculator, trade link checker
 
 ### Games Guides
 - [Alto's Odyssey Tips & Tricks](https://www.imore.com/altos-odyssey-tips-and-tricks-help-you-escape-lemurs-ride-walls-over-chasms-and-more)
