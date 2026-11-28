@@ -15,6 +15,9 @@ interface RawPackageManager {
     linux_debian_apt?: string | null;
     linux_fedora_rpm?: string | null;
     linux_gentoo_emerge?: string | null;
+    linux_opensuse_zypper?: string | null;
+    linux_alpine_apk?: string | null;
+    linux_void_xbps?: string | null;
     linux_flatpak?: string | null;
     linux_snap?: string | null;
     unix_nix_env?: string | null;
@@ -133,6 +136,9 @@ function checkLinuxSupport(pm: RawPackageManager | undefined) {
         pm?.linux_debian_apt,
         pm?.linux_fedora_rpm,
         pm?.linux_gentoo_emerge,
+        pm?.linux_opensuse_zypper,
+        pm?.linux_alpine_apk,
+        pm?.linux_void_xbps,
         pm?.linux_flatpak,
         pm?.linux_snap,
         pm?.unix_nix_env,

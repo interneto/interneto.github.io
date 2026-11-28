@@ -9,6 +9,9 @@ export interface Package {
   linux_debian_apt?: string;
   linux_fedora_rpm?: string;
   linux_gentoo_emerge?: string;
+  linux_opensuse_zypper?: string;
+  linux_alpine_apk?: string;
+  linux_void_xbps?: string;
   linux_flatpak?: string;
   linux_snap?: string;
   unix_nix_env?: string;
