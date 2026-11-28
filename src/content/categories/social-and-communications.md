@@ -5,7 +5,7 @@ description: Email, messaging, forums, social networks, and video conferencing
 
 # Social & Communications
 
-**Total Bookmarks:** 1375
+**Total Bookmarks:** 1374
 
 
 ## 2FA
@@ -1480,7 +1480,6 @@ description: Email, messaging, forums, social networks, and video conferencing
 - [Ping](https://ping.gg/)
 - [Proficonf](https://proficonf.com/)
 - [Skype](https://www.skype.com/en/)
-- [Slido](https://www.sli.do/)
 - [SpacebarChat](https://spacebar.chat/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/spacebarchat/spacebarchat) — Selfhosted, secure communication that you're already familiar with
 - [SpatialChat](https://www.spatial.chat/) — Simple way to deliver engaging video meetings
 - [Tandem.chat](https://tandem.chat/) — Virtual office for remote teams

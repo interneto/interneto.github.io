@@ -5,7 +5,7 @@ description: Note-taking, task management, bookmarking, calculators, translators
 
 # Office & Productivity
 
-**Total Bookmarks:** 1234
+**Total Bookmarks:** 1236
 
 
 ## Academic Research Tools
@@ -105,11 +105,13 @@ description: Note-taking, task management, bookmarking, calculators, translators
 - [Curious Karen](https://www.curiouskaren.com/)
 - [Debate.org](https://www.debate.org/)
 - [Framadate](https://framadate.org/abc/en/) — Make your polls
+- [Join Slido](https://app.sli.do/) — Enter #code to vote and ask questions
 - [LimeSurvey](https://www.limesurvey.org/es)
 - [LimeSurvey](https://www.limesurvey.org/)
 - [Pollcode](https://pollcode.com/)
 - [Rapidforms](https://rapidforms.co/) — Powerful Online Form Builder & Form Creator
 - [Research.net](https://www.research.net/)
+- [Slido](https://www.sli.do/)
 - [Straw Poll](https://www.strawpoll.me/)
 - [Surveyeah](https://www.surveyeah.com/)
 - [SurveyMonkey](https://www.surveymonkey.com/)

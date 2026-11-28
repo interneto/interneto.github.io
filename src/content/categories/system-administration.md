@@ -5,7 +5,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 
 # System Administration
 
-**Total Bookmarks:** 1536
+**Total Bookmarks:** 1537
 
 - [osquery](https://osquery.io/)
 - [PIVPN](https://pivpn.io/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/pivpn/pivpn) — Simplest way to setup a VPN
@@ -1034,6 +1034,7 @@ description: Servers, networking, terminals, virtualization, and remote desktop
 - ⭐ **[mitmproxy](https://mitmproxy.org/)** / [![GitHub](/img/software/apps/github.svg)](https://github.com/mitmproxy/mitmproxy) — an interactive HTTPS proxy
 - ⭐ **[Tor Project](https://arti.torproject.org/)** / [![GitLab](/img/source-hosts/gitlab.svg)](https://gitlab.torproject.org/tpo/core/arti) — Arti
 - [2dust/v2rayN · GitHub](https://github.com/2dust/v2rayN)
+- [3x-ui](https://docs.sanaei.dev/) / [![GitHub](/img/software/apps/github.svg)](https://github.com/MHSanaei/3x-ui) — Advanced web panel for managing Xray-core servers
 - [ASocks](https://asocks.com/) — Unlimited Residential Proxy
 - [FoxyProxy](https://getfoxyproxy.org/)
 - [haad/proxychains · GitHub](https://github.com/haad/proxychains)
